@@ -3,3 +3,4 @@ exe-patch-pipeline/psth.exe
 exe-patch-pipeline/psth_og.exe
 exe-patch-pipeline/__pycache__
 script-files/mapper-files/__pycache__
+**/.DS_Store
