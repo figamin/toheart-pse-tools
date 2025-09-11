@@ -1,0 +1,37 @@
+# Generated array of Japanese text with English comments
+# Source file: 029B.txt
+
+text_array = [
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｂ	竅やめとく）†",
+    ""),
+    # (Seri°Kawa, Scales Event 2F LV4)Seri (Select Sou B, Stop)†
+
+    ("「い竄や、竅やっぱ唐遠慮しとくぜ」",
+    ""),
+    # "I'll just swear, I'll just refrain from doing it."
+
+    ("オ激レは断った。",
+    ""),
+    # I refused.
+
+    ("薬を飲まなき痰ゃなんねーほど眠い墲わけじ痰ゃないしな。†",
+    ""),
+    # I can't help but feel sleepy enough to avoid taking any medicine.†
+
+    ("「で烽も、ありがとな。また体調が悪いときにで烽も烽もらうよ」",
+    ""),
+    # "And thanks for the hot springs. I'll also get hot springs when I'm not feeling well."
+
+    ("こくん。",
+    ""),
+    # Ko-kun.
+
+    ("「んじ痰ゃ」",
+    ""),
+    # "Anti-sphemy"
+
+    ("オ激レは先輩と別れた。◯",
+    ""),
+    # I broke up with my senior.◯
+
+]

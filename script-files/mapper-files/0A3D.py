@@ -1,0 +1,65 @@
+# Generated array of Japanese text with English comments
+# Source file: 0A3D.txt
+
+text_array = [
+    ("（Ｃ	そういう話はしたくない。）†",
+    ""),
+    # (C I don't want to talk about that kind of thing.)†
+
+    ("「悪いけど、オ激レ、子沁供葛相闡手にそういう話はしたくねえんだ」",
+    ""),
+    # "I'm sorry, but I don't want to talk about that kind of thing with my son, Qing Kuzu."
+
+    ("オ激レは良太の前にかがみこむ。",
+    ""),
+    # My gecko bends over in front of Ryota.
+
+    ("「おまえ烽もそのうち墲わかるようになるって。こういう烽もんだって」†",
+    ""),
+    # "Your hot spring will eventually become aware of this. It's a hot spring."
+
+    ("良太はしばらく、だまってオ激レを見つめていたが、",
+    ""),
+    # Ryota stumbled and stared at me for a while,
+
+    ("「增わかった」",
+    ""),
+    # "I understand."
+
+    ("と、深くうなずいた。†",
+    ""),
+    # He nodded deeply.†
+
+    ("「で烽も、またねえち痰ゃんをいじめるんじ痰ゃないぞ」",
+    ""),
+    # "And then, you're going to bully your phlegm again, so you won't have phlegm."
+
+    ("「增わかってるって。",
+    ""),
+    # "You know.
+
+    ("もういじめねえから安心しｂ」",
+    ""),
+    # I won't bully you anymore so I'm relieved."
+
+    ("すると良太は、ニカッと笑って、†",
+    ""),
+    # Then Ryota smirked and †
+
+    ("「ずっと、竅やくそくだぞ！」",
+    ""),
+    # "It's always going to be a shit!"
+
+    ("と言い残して、°けていってしまった。†",
+    ""),
+    # I left the answer and started °.†
+
+    ("ガキのくせに、男迺らしいрヤツだな…。",
+    ""),
+    # He's a kid, but he's a man who looks like a man...
+
+    ("そんなことを考えながら、オ激レは家に帰った。◯",
+    ""),
+    # With that in mind, I went home.◯
+
+]

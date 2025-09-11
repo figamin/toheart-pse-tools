@@ -1,0 +1,53 @@
+# Generated array of Japanese text with English comments
+# Source file: 0F12.txt
+
+text_array = [
+    ("（ゲーセンバト泣ル２）閨（冝期槙末テスト繝後篇（ＨｂｂＨ））閨（選択綜	♂史）閨（蛛主人公沍勝ち）†",
+    ""),
+    # (Arcade Battle Cry 2) (Cycle Final Test Part 2 (HbbH)) (Cycle Contest ♂ History) (Mrage Protagonist Wins)†
+
+    ("「♂史〜、もうち蛯ょっとうまくなってくれよ」",
+    ""),
+    # "Masturbation, I hope you get better at it."
+
+    ("「竅やっぱり福練習量が足闡りないよ」",
+    ""),
+    # "I'm still not getting enough practice."
+
+    ("「禔練習量って、お前が言うとサッカーの福練習みたいに聞こえるな」†",
+    ""),
+    # "When you say "Yu practice amount," it sounds like soccer fortune practice."
+
+    ("「、コーチしてよ」",
+    ""),
+    # "Coach me."
+
+    ("「オ激レが？」",
+    ""),
+    # "Is it really me?"
+
+    ("「諱頑張って、きっと",
+    ""),
+    # "Do your best, I'm sure
+
+    ("を手こずらせる腕前になるからさ」",
+    ""),
+    # It's because it makes you feel a little troubled."
+
+    ("「それはそれで嬉しいが…",
+    ""),
+    # "That's nice though...
+
+    ("よし、竅やるか」†",
+    ""),
+    # Okay, shall we do it?”†
+
+    ("♂史をコーチしつつ、オ激レ自身熕もゲームを堪能した。",
+    ""),
+    # While coaching Makoshi, Ikehi himself also enjoyed the game.
+
+    ("♂史燻もｉ史でそれなりに繧上達したし、氈次回は冾期待してるぜ。◯",
+    ""),
+    # The ♂Smoking has also improved quite a bit with I-History, so I'm looking forward to the next episode.◯
+
+]

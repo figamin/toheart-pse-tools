@@ -1,0 +1,57 @@
+# Generated array of Japanese text with English comments
+# Source file: 0F16.txt
+
+text_array = [
+    ("（ゲーセンバト泣ル３）閨（終業式篇（ぱずる））閨（選択綜	あかりと対岺戦）閨（蛛主人公沍勝ち（＝普通））†",
+    ""),
+    # (Arcade Battle Cry 3) (Closing ceremony edition) (Choice Sou Akari and the Battle of the Opposition) (Mrage Protagonist Wins (=Normal))†
+
+    ("「はっはっはっ。",
+    ""),
+    # "Hahaha.
+
+    ("勝たして烽もらったぜ！」",
+    ""),
+    # I won and got some hot!”
+
+    ("「ううっ、竅やっぱりぃ〜…」",
+    ""),
+    # "Uhh, I'm sure..."
+
+    ("「で烽も筋は悪くはないぜ。慣れさえすり痰ゃ、お前、結構いけるんじ痰ゃねーか？」†",
+    ""),
+    # "And the muscles of the chicken aren't bad either. You can get used to it, you can do it pretty well, right?"
+
+    ("「言えてる墲わね。どお！？	あかり。あたしの烽もとで鍛えれば立派なパズ宴ラーになれる墲わよ」",
+    ""),
+    # "You can tell me. What!? Akari. If you train with my hot springs, you can become a great puzzle banquet."
+
+    ("「パ、パズ宴ラー…？」",
+    ""),
+    # "Dad, Pazbanquet roe...?"
+
+    ("「イсヤならパズ潟リストで烽もいい墲わよ」",
+    ""),
+    # "If you're yeah, you'll be on the Puzzle List and the hot springs will be great."
+
+    ("「呼びかたの竄問阮題じ痰ゃねー諱よ」†",
+    ""),
+    # "The question of how to call you is, sputum, sputum" †
+
+    ("そんな調子で、その冾日はみんなといっし蛯ょに盛關り繧上がった。",
+    ""),
+    # With that in mind, the day was well received with everyone.
+
+    ("明坙日から春休みだという開匇放感が、自然とみんなをハイにさせたんだｂう。†",
+    ""),
+    # The feeling of freedom that spring break started from Mingshuun Day naturally made everyone high.†
+
+    ("おかげで生衰茨株を使いすぎてしまった。",
+    ""),
+    # Thanks to this, I ended up using too much freshly dried tuna stock.
+
+    ("とほー…。◯",
+    ""),
+    # So...◯
+
+]

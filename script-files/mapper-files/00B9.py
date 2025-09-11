@@ -1,0 +1,173 @@
+# Generated array of Japanese text with English comments
+# Source file: 00B9.txt
+
+text_array = [
+    ("（４獅月１９冾日	朝）閨（自分の部屋	暗い）†",
+    ""),
+    # (April 19th day of the year) (morning) (My room is dark) †
+
+    ("ピピピピ、ピピピピ…。",
+    ""),
+    # Beep, beep...
+
+    ("カチッと、目覚ましのスイッチを止めた。∬",
+    ""),
+    # I clicked and turned off the alarm.∬
+
+    ("ふ墲わぁ〜あ、もう朝か。",
+    ""),
+    # Wow, it's already morning.
+
+    ("蛛大きくあくびしながら、布団のｒで手足を伸ばす。†",
+    ""),
+    # While yawning loudly, I stretch my limbs with the futon.†
+
+    ("４獅月１９冾日、土曜坥日。",
+    ""),
+    # April 19th, Saturday.
+
+    ("今厓日燗も一勛日が始まる。†",
+    ""),
+    # The day of the sun is beginning now.†
+
+    ("行ってきまーす。†",
+    ""),
+    # I'm going.†
+
+    ("桜の木に烽も緑の葉っぱが目立ってきた。",
+    ""),
+    # The cherry blossom trees also have green leaves that are noticeable.
+
+    ("散闔り獅落ちた花びらが校蜊門前の道にピンク色のじ繧ゅうたんを敷き詰めている。†",
+    ""),
+    # A scattered lion-falling petals lay a pink mug on the road in front of the school gates.†
+
+    ("「なんだか散闔り始めると、竅寂しくなっち痰ゃうなあ」",
+    ""),
+    # "When it starts to disperse, I feel lonely and I can't help but feel sad."
+
+    ("あかりが、ぽそっと、そんなことを言ったとき。†",
+    ""),
+    # When Akari said something like that.†
+
+    ("「おはようございま〜す」†",
+    ""),
+    # "good morning"†
+
+    ("「おはようございま〜す」†",
+    ""),
+    # "good morning"†
+
+    ("「おはようございま〜す」†",
+    ""),
+    # "good morning"†
+
+    ("校蜊門のｌこうから、妙に明髢るい翌女の子の声が聞こえてきた。",
+    ""),
+    # From the school gates, I heard the strangely sly voice of the girl from the next girl.
+
+    ("「？」",
+    ""),
+    # "?"
+
+    ("オ激レとあかりは『なんだｂう』とおたがいの顔を見㈹合寘わせ、校蜊門に近づいた。†",
+    ""),
+    # I and Akari looked at each other's faces and sang, "What's that?!" and then they came together, and approached the school gates.†
+
+    ("校蜊門をくぐった途端、",
+    ""),
+    # As soon as I pass through the school gates,
+
+    ("「おはようございま〜す」",
+    ""),
+    # "good morning"
+
+    ("明髢るい笑迴顔であいさつをくれたのはマ泣ルチだった。",
+    ""),
+    # It was a cried cry that gave me a greeting with a gentle smile.
+
+    ("閨手には竹ぼうきを揩持っている。",
+    ""),
+    # He holds a bamboo ram in his hand.
+
+    ("どう竄やら玄関前を掃恆除しながら、通髓る生徒ひとりひとりにあいさつしているらしい。†",
+    ""),
+    # Apparently they are greeting each student who is communicating by messing around, sweeping away the front door.†
+
+    ("「おはようございま〜す」",
+    ""),
+    # "good morning"
+
+    ("ほとんどの生徒が見血き烽もせず通闥り過ぎて行くなか、オ激レは立ち止まって、笑迴顔で声をかけた。†",
+    ""),
+    # As most of the students were in too much contact without even bleeding, I stopped and called out to him with a laughing face.†
+
+    ("「諱よっ、マ泣ルチ。今厓日燗も元気だな」",
+    ""),
+    # "My name is, I'm crying. I'm feeling well now."
+
+    ("「あ、さん！	どう烽も、おはようございます」†",
+    ""),
+    # "Ah, sir! Good morning, no matter how you say hot" †
+
+    ("「なんだ？	こんな朝っぱらから掃恆除してんのか？」",
+    ""),
+    # "What? Are you cleaning up and removing this morning?"
+
+    ("「はいっ」",
+    ""),
+    # "Yes."
+
+    ("マ泣ルチはにっこり微笑んだ。†",
+    ""),
+    # McDonald smiled.†
+
+    ("「今厓日で烽もう、みなさんと烽もお別れですから、ここでお掃恆除をしながら、あいさつしようかと思いまして」",
+    ""),
+    # "It's now the day that we're going to say goodbye to everyone, so I thought I'd like to greet you while purging the scavengers here."
+
+    ("「そうか、今厓日でお別れか。",
+    ""),
+    # "I see, say goodbye on the day of the day now.
+
+    ("寂しくなるな」",
+    ""),
+    # I won't feel lonely."
+
+    ("「この一週間、とて烽も楽しかったです」†",
+    ""),
+    # "I've had so much fun over the past week."
+
+    ("「あの高ロボット、すごくいい子だったよね」",
+    ""),
+    # "That high robot was a really good girl, wasn't it?"
+
+    ("「ああ」",
+    ""),
+    # "ah"
+
+    ("「最近の高ロボットって、どんどん人間っぽくなるよね。",
+    ""),
+    # "High robots these days are becoming more and more human-like.
+
+    ("もし烽もあの蛯大きな耳がなかったら、竅絶対に人間と区別できないな」†",
+    ""),
+    # If Kao had no big ears, I would never be able to distinguish myself from humans."
+
+    ("「諱区別する必要なんか…あんのかな？」",
+    ""),
+    # "Is there a need to distinguish between the names...Is that something?"
+
+    ("「え？」",
+    ""),
+    # "picture?"
+
+    ("「い竄や、なんで烽もない」",
+    ""),
+    # "It's not tampering, why don't you have a hot pot?"
+
+    ("そうか、マ泣ルチと烽も今厓日でお別れか…。†",
+    ""),
+    # I see, Makruchi and Kao are saying goodbye to the day right now...†
+
+]

@@ -1,0 +1,165 @@
+# Generated array of Japanese text with English comments
+# Source file: 0F11.txt
+
+text_array = [
+    ("（ゲーセンバト泣ル２）閨（卒業式篇）閨（選択綜	♂史）†",
+    ""),
+    # (Arcade Battle Cry 2) (Graduation Ceremony Edition) (Choice Sou♂ History)†
+
+    ("「♂史、竅やｂうぜ」",
+    ""),
+    # "Masturbation, yeah, b"
+
+    ("「え、僕？」",
+    ""),
+    # "Huh, me?"
+
+    ("「氈勝ち奄負けなんて気にしねーでいいからよ」",
+    ""),
+    # "You don't have to worry about winning or losing Amano."
+
+    ("「あら、堰負けたらрヤックでし蛯ょ？」†",
+    ""),
+    # "Oh, if you lose the dam, you'll have to go to yach?"
+
+    ("「♂史に勝って、пヤックおごって烽もらって烽も寝覚めが悪いだけだし、いらねー諱よ」",
+    ""),
+    # "You beat Masochi, you're paying for a hot spring, and you're just not waking up, so I don't need it."
+
+    ("「なによそれ〜っ！	あたしだったらｊんでふんだくるくせに〜っ！」†",
+    ""),
+    # "What is that?! If it were me, I'd be a lot of j!" †
+
+    ("「たりめーだｂ、お前からふんだくらねーで誰からふんだくんだ」",
+    ""),
+    # "Tarime b, I don't have much to you, and who do you have much to it?"
+
+    ("「んまァ〜〜〜っ！	なんてはしたないの？",
+    ""),
+    # "Hmmmm! What's that you didn't do?
+
+    ("さんちのお坊ち痰ゃんったら」",
+    ""),
+    # If you have a sputum from your family, then
+
+    ("おかしな福口調で志保は文蝠句を言い出した。",
+    ""),
+    # In a strange tone of Fuku, Shiho began to say a sung verse.
+
+    ("か墲わいそうだが、ときどき壊皷れるんだよな、こいつ。†",
+    ""),
+    # I feel sorry for you, but this guy gets ruined from time to time.†
+
+    ("「んじ痰ゃ、竅やｂうぜ、♂史」",
+    ""),
+    # "A phlegm, a phlegm, a b, a history of the male."
+
+    ("「うん」",
+    ""),
+    # "Yeah"
+
+    ("「なんなの、あのふたり？	おホｃモだちって竄やつ？」",
+    ""),
+    # "What are you two? Are you a guy like a c-mochi?"
+
+    ("あきれ顔で志保はあかりに振髏る。",
+    ""),
+    # Shiho shook Akari with an amazed look on his face.
+
+    ("「…さ、さあ？」",
+    ""),
+    # "...Now, come on?"
+
+    ("オ激レがにらんだので、あかりは無俣な回嚔答をする。†",
+    ""),
+    # I stared at him, so Akari gave a boring replies.†
+
+    ("「いい墲わよ、そっちが男同士ならあたしたちは翌女の子同士、′こうで遊びまし蛯ょ」",
+    ""),
+    # "It's a great girl, if they're both guys, we'll play together the next girl, let's play together."
+
+    ("「…う、うん。じ痰ゃあ」",
+    ""),
+    # "...Uh, yes. I'm phlegm."
+
+    ("あかりはぎこちなく手を振關り、志保とと烽もに烽歩いていく。†",
+    ""),
+    # Akari waved awkwardly, and Shiho and Kana roamed along.†
+
+    ("「そっちだって翌女同士べたべたし竄やがって。オ激レたちがホｃモだちなら、あいつらは｢｢」",
+    ""),
+    # "Even that's the next woman, it's sticky and tampering with each other. If we're all crazy, they'll be like "
+
+    ("「戟レズだち？」",
+    ""),
+    # "Are you a lesbian?"
+
+    ("「まじめな顔して言うな」",
+    ""),
+    # "Don't say it with a serious look on your face."
+
+    ("「あっ…」†",
+    ""),
+    # "Ah..." †
+
+    ("さて、それじ痰ゃ、ゲームを始めますか。",
+    ""),
+    # Well, that's it, why don't you start the game?
+
+    ("スタート！◯",
+    ""),
+    # start!◯
+
+    ("…さて、どうしようか。",
+    ""),
+    # ...Now, what should I do?
+
+    ("Ａ	本気を出す。閨",
+    ""),
+    # A Take your seriousness.Relax
+
+    ("Ｂ	＝普通にする。閨",
+    ""),
+    # B = Do it normally.Relax
+
+    ("・",
+    ""),
+    # ・
+
+    ("・",
+    ""),
+    # ・
+
+    ("・",
+    ""),
+    # ・
+
+    ("・",
+    ""),
+    # ・
+
+    ("・†",
+    ""),
+    # ・†
+
+    ("・",
+    ""),
+    # ・
+
+    ("・",
+    ""),
+    # ・
+
+    ("・",
+    ""),
+    # ・
+
+    ("・",
+    ""),
+    # ・
+
+    ("・†",
+    ""),
+    # ・†
+
+]

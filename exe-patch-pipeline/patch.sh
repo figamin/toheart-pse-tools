@@ -1,0 +1,1 @@
+cp psth_og.exe temp.exe && python3 half_width_patch.py temp.exe && python3 exe-text-replacement.py temp.exe -o psth.exe -f exe-replacement-en.py && rm temp.exe && cp psth.exe /Volumes/ssd-share/th-fresh/psth.exe 

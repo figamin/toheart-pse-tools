@@ -1,0 +1,93 @@
+# Generated array of Japanese text with English comments
+# Source file: 08D1.txt
+
+text_array = [
+    ("（戟レミィ	好感度イベント	ＰＳ）閨（渡闢り廊下）†",
+    ""),
+    # (Wattle Remy Likeability Event PS) (Counter corridor)†
+
+    ("「Ｈ奄ｉ！	」",
+    ""),
+    # "Hi Amai!"
+
+    ("休み桙時間、自販機でカフェオ激レをモ買った帰闍りにオ激レは撃レミィに出初った。",
+    ""),
+    # During the break, I bought a Cafe au Gekile from the vending machine and got on for the first time at Gekire Remy.
+
+    ("「おう、戟レミィ。なんか用か？」†",
+    ""),
+    # "Oh, oh, oh Remi. Is it for something?"
+
+    ("「、ａｂ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇ好き？」",
+    ""),
+    # "Ab Shield O next time you shoot Amai Lion likes Kog?"
+
+    ("戟レミィはいきなり、ボウ潟リングは好きかと聞いてきた。",
+    ""),
+    # Suddenly, Karemi asked if she liked Bowlat Ring.
+
+    ("「なんだよ、竅やぶからぼうに」",
+    ""),
+    # "What is it, I'm going to be a daze, I'm going to be a daze."
+
+    ("「今ネ、ａｂ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇが流行ってるのｃ」",
+    ""),
+    # "Now, AB Shield O next W Era Lion is popular now."
+
+    ("「マジかよぉ？	オ激レ知迺らねえぜ」†",
+    ""),
+    # "Are you serious? I don't know anything about it" †
+
+    ("「ねえねえ、好き？」",
+    ""),
+    # "Hey, do you like it?"
+
+    ("「ボウ潟リングなんて、好きで烽も凾嫌いで烽もねえ」",
+    ""),
+    # "I like Bow Lado Ring, I hate boiled chicken, and I don't have boiled chicken."
+
+    ("そう言うと、戟レミィは困った顔をした。",
+    ""),
+    # When I said that, Karemi gave a troubled look on her face.
+
+    ("「Ｗｂ撃ｌ撃ｌ…じ痰ゃあｂｂ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇできる？」",
+    ""),
+    # "Wb Shot l... Is it possible to get a phlegm? BB Shield the next lol Shot lion No.?"
+
+    ("「そうだな、たしなむ程度かな」",
+    ""),
+    # "Yes, I guess I'll just have to accept it."
+
+    ("「Ｒｂ≠ａ撃ｌ撃ｌ凾ｙ？	じ痰ゃ教えて教えてっ」†",
+    ""),
+    # "Rb≠a-shot l-shot l-shot l-y? Please tell me the phlegm."
+
+    ("「はあ？	戟レミィまさか、ボウ潟リング焜も知迺らねえのか？」",
+    ""),
+    # "Huh? Is Remy not even aware of Bowgata Ring??"
+
+    ("「知ってマース。で烽も、竅やったことないの」",
+    ""),
+    # "I know, Mars. And I've never done it before."
+
+    ("「へえ、早国にいるとき烽もないのか…」",
+    ""),
+    # "Whoa, when I'm in Hayatokoku, I don't have a hot spring..."
+
+    ("「うん」†",
+    ""),
+    # "Yeah"†
+
+    ("オ激レの返抹事は｢｢。",
+    ""),
+    # My replies were ".
+
+    ("Ａ	いいぜ。閨",
+    ""),
+    # A: That's fine.Relax
+
+    ("Ｂ	ダ＜メだ。閨",
+    ""),
+    # B It's a Dame.Relax
+
+]

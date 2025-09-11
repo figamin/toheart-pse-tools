@@ -1,0 +1,37 @@
+# Generated array of Japanese text with English comments
+# Source file: 0B05.txt
+
+text_array = [
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	增わからない	の続き）†",
+    ""),
+    # (Aya∴Kawa Pick Date Event 2) (Continued from Selection A I don't know)†
+
+    ("「さあ、諱よく墲わかんねーな」",
+    ""),
+    # "Now, I don't really know what you're saying."
+
+    ("オ激レはあいまいに嘯答えた。",
+    ""),
+    # I replied vaguely.
+
+    ("「だから、まだ知闥り№合って冾日燗も浅いからさ、そういう撃レベ泣ルじ痰ゃないんだよ」",
+    ""),
+    # "That's why I'm still not familiar with the situation and the weather is shallow, so I can't help but cry as I get the stimulus."
+
+    ("「…ふーん、そう」",
+    ""),
+    # "...Hmm, yes."
+
+    ("「で烽も、断じて凾嫌いではないな」",
+    ""),
+    # "And I don't hate Hot either."
+
+    ("「行動とか、ち蛯ょっと変でし蛯ょ？」",
+    ""),
+    # "What's your actions, sluts are you weird, slut?"
+
+    ("「まあ…。で烽も個性的でいいんじ痰ゃない？」†",
+    ""),
+    # "Well... And the hot springs are also unique, so don't they have any phlegm?"
+
+]

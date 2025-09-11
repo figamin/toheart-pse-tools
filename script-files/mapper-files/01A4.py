@@ -1,0 +1,29 @@
+# Generated array of Japanese text with English comments
+# Source file: 01A4.txt
+
+text_array = [
+    ("（あかり	回秤数イベント	１Ｆ）閨（４獅月１１冾日）閨（１Ｆ廊下）†",
+    ""),
+    # (Akari Scales Event 1F) Li (4th Lion, 11th Day) Li (1st floor corridor) †
+
+    ("廊下を烽歩いていると、前羡方にあかりの竄やつを発見した。",
+    ""),
+    # As I was walking down the hallway, I discovered something like a light-stricken manipulation in the front door.
+
+    ("同じク宴ラスになってから烽も、帰闍りは薰基本的にべつべつのままだ。",
+    ""),
+    # After the same banquet, the return of the restaurant has basically remained different.
+
+    ("ま、帰闍りは掃恆除柾当番だなんだで、なかなかタイミングがあ墲わないからな。",
+    ""),
+    # Well, the time to go back is on duty to clean up and remove, so the timing is not very good.
+
+    ("Ａ	横に並ぶ。閨",
+    ""),
+    # A Line up next to each other.Relax
+
+    ("Ｂ	背白を見洛送髑る。閨",
+    ""),
+    # B He sends a skull to see the back of his body.Relax
+
+]

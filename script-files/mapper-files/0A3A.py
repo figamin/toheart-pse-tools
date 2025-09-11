@@ -1,0 +1,25 @@
+# Generated array of Japanese text with English comments
+# Source file: 0A3A.txt
+
+text_array = [
+    ("（Ｂ	竅やめておく。）†",
+    ""),
+    # (B: Stop it.)†
+
+    ("竅やめておこう。",
+    ""),
+    # Let's stop.
+
+    ("どう烽もあいつは苦闍手だ。",
+    ""),
+    # No matter how you say he's in trouble, he's in trouble.
+
+    ("さい墲わい、′こう烽も猫を追うのに夢亦で、こっちに気づいた様子はない。",
+    ""),
+    # It's also a dream to pursue a cat, and it doesn't seem to have noticed this.
+
+    ("オ激レは、さっさとその場を離齬れた。◯",
+    ""),
+    # My gang quickly broke away from the situation.◯
+
+]

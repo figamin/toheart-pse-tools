@@ -1,0 +1,489 @@
+# Generated array of Japanese text with English comments
+# Source file: 0B06.txt
+
+text_array = [
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ｂ	の続き）閨（選択綜ＡＢ	の続き）†",
+    ""),
+    # (Aya∴Kawa Pick Date Event 2) (Continued from Selection Sou B) (Continued from Selection Sou AB) †
+
+    ("「どう？",
+    ""),
+    # "copper?
+
+    ("私たちって、竅やっぱり翌似てる？」",
+    ""),
+    # Do we really look the next day?”
+
+    ("「ああ、浴似てる。外見に限って言えば」",
+    ""),
+    # "Ah, they look similar to baths. If you only have to say about the appearance."
+
+    ("「あら、£身は痰違うってこと？」",
+    ""),
+    # "Oh, does that mean £body has different phlegm?"
+
+    ("「瘁違うだｂ、ぜんぜん」",
+    ""),
+    # "No, it's not b, everything."
+
+    ("「どこが？	どんなふうに？」",
+    ""),
+    # "Where is it? How?"
+
+    ("「い竄や、もう全体的に。まるっきり正反対に見えるぜ」†",
+    ""),
+    # "Tampering, it's all about the whole thing. It looks completely opposite."
+
+    ("「とこｂがそうで烽もないのよね。姉事だし、竅やっぱり翌似てるのよね」",
+    ""),
+    # "It's like this, but there's no hot water. It's a sister-in-law, so I guess they look alike the next day."
+
+    ("「そぉ〜かぁ〜？」",
+    ""),
+    # "Oh, right?"
+
+    ("「うん。考えかた竄や好みなんかそっくりなの。",
+    ""),
+    # "Yeah. The way you think and your tastes are all the same.
+
+    ("育った環境が痰違うから、瘁若干の痰違いはあると思うけど」",
+    ""),
+    # The environment in which they grew up is different, so I think there are some slight differences in phlegm."
+
+    ("「轣育った環境が痰違う？」†",
+    ""),
+    # "Is the environment in which you grew up in different phlegms?"
+
+    ("「п私、小学校の途湯まで、両親といっし蛯ょにニャー＜ークで暮逡らしてたから。姉さんはお爺さまに預けられて、ずっと冾日本にいたけど」",
+    ""),
+    # "I was having a hard time living with my parents at the meow meow until the elementary school bath. My sister was left to my grandfather and was in Japan forever."
+
+    ("「ニャー＜ーク？	へえ、そり痰ゃすげーな。い墲わ艪ゆる帰窓国子落女って竄やつ？」†",
+    ""),
+    # "Meow <Ahh? Wow, that's amazing. Are you a guy who's a lazy woman who's coming back to Japan?"
+
+    ("「もう６年熹も前の話だけどね。で烽もおかげで考えかたとか、どっちかというとｌこうノ潟リなのよね、п私って」",
+    ""),
+    # "It was already six years ago. And thanks to Kou, I think it's more of a way to think about it, or rather, I'm not the only one."
+
+    ("「なるほど、增わかるような気がする」",
+    ""),
+    # "I see, I think I understand."
+
+    ("なんとなく、ち蛯ょっと墲常識外れなとこｂがある烽もんな。",
+    ""),
+    # For some reason, there are some places that are out of common sense.
+
+    ("戟レミィ焜もそうだから、諱よく墲わかるぜ。†",
+    ""),
+    # The same goes for the Remie, so I can clearly see the name.†
+
+    ("「じ痰ゃ、もし先輩熹も海外で育ってたら、お前みたいな性格になってたってことかな」",
+    ""),
+    # "I guess if Senpai Yi had grown up overseas, he would have become like you."
+
+    ("「うーん、場鰹所謠より烽も教迢育の竄問阮題じ痰ゃない？」",
+    ""),
+    # "Hmm, don't you think it's a question of teaching, even if it's a tampering question?
+
+    ("「教迢育？」†",
+    ""),
+    # "Teaching education?"
+
+    ("「ほら、姉さんって、人とつき№合うのが極端に下濶手でし蛯ょ？	あれってお爺さまの教迢育のせいなのよ。ずっとお屋敷のｒで無菌状態に育ったから、友だちがいなくてあんなふうになっち痰ゃったの」",
+    ""),
+    # "Look, you're the extremely poor way to meet people, and you're a big fan of yourselves? That's because of the granddad's teachings. I've been growing sterile in the mansion for a long time, so I ended up like that because I didn't have any friends."
+
+    ("「ほおー」†",
+    ""),
+    # "Heh" †
+
+    ("「その点、п私は小さい頃から自由だったし、′こうの悪友たちといっぱい外で遊んだ墲わ。",
+    ""),
+    # "In that respect, I was free from a young age, and I played a lot outside with my bad friends.
+
+    ("空闍手の道齠場とか烽も通ったりして｢｢」",
+    ""),
+    # They also go to the roadside and the hot springs, and they go ""
+
+    ("「空闍手え？」",
+    ""),
+    # "What about the sky handle?"
+
+    ("「うん。最近站やめち痰ゃったけどね。",
+    ""),
+    # "Yeah. I've been so excited to stop using the website recently.
+
+    ("向こうにいた頃からずっと竄やってたの」†",
+    ""),
+    # I've been tampering with it ever since I was there."
+
+    ("「ほお〜、そり痰ゃまた先輩とは１８０度癈違う福方阜性だな」",
+    ""),
+    # "Face, your phlegm is also a 180-degree difference from your senior."
+
+    ("格闘技なんて、諱先輩は怩万が一に烽も竄やりそう烽もない烽もんな。†",
+    ""),
+    # In martial arts, Senpai is a hot spring that is sure to be a little hectic in the unlikely event that he will tamper with the fire.†
+
+    ("「お爺さまの烽もとにいたら、空闍手なんて竄絶対に竄やらせて烽もらえなかったでし蛯ょうね。",
+    ""),
+    # "If I was at my grandfather's hotpot, I would never have let him tamper with the Skylark, and I wouldn't have been allowed to get a hotpot.
+
+    ("女子は翌女子邇らしくって、そんな人だから」",
+    ""),
+    # Women seem to be the next girl, and they're that kind of person."
+
+    ("「昔気質なんだな」",
+    ""),
+    # "You're old-fashioned."
+
+    ("「うん。",
+    ""),
+    # "Yeah.
+
+    ("向こう育ちのр私には、それがどう烽もｌっ苦しくてね」",
+    ""),
+    # As I grew up over there, I think that's painful even though I'm not sure what a hot spring is."
+
+    ("ふう…と、ため息をつく。†",
+    ""),
+    # Whew... I sighed.†
+
+    ("「最近とくにうるさいのよね。",
+    ""),
+    # "It's been particularly loud lately.
+
+    ("私を翌女迴らしくさせようって、あれこれ習い魔事させるのよ。本人が凾嫌がってるのに、強引に」",
+    ""),
+    # He's trying to make me look like the next woman, and let me learn and act like a magician.He himself refuses to squeal, but he's forcibly."
+
+    ("「もしかして、さっき逃げてたの烽も？」",
+    ""),
+    # "Maybe the one who just ran away?"
+
+    ("「そうよ。華道だったかな？	なんとか流の家元が直々に指導してくれるとかって」",
+    ""),
+    # "That's right. Maybe it was flower arrangement? I wonder if the head of the style would give me some direct guidance."
+
+    ("「それをブッチしたのかよ。",
+    ""),
+    # "Did you do that?
+
+    ("もったいねぇ。せっかくだから習っとき痰ゃいいじ痰ゃねーか」†",
+    ""),
+    # That's a shame.Since I'm going to do it, I guess I should have phlegm when I'm going to learn."†
+
+    ("「自搦慢じ痰ゃないけど、п私、狭いとこでじっとしてるのって性に№合寘わないのよね。",
+    ""),
+    # "I can't hold back any phlegms, but staying still in the small space is not a sexual encounter.
+
+    ("やっぱり体を動かしてないと」",
+    ""),
+    # I have to move after all."
+
+    ("綾∴香はそう言うと、両阯手を組んでうーんと前に伸ばした。",
+    ""),
+    # Aya∴Ka said that, and crossed her arms and stretched her way forward.
+
+    ("どう竄やら根っからの跳ねっ返阨りらしい。†",
+    ""),
+    # Apparently it's a tampering, or something that's really bouncing back.†
+
+    ("「………」",
+    ""),
+    # "..."
+
+    ("「………」",
+    ""),
+    # "..."
+
+    ("不意にｉ話がとぎれた。†",
+    ""),
+    # Suddenly, the i-talk was interrupted.†
+
+    ("「…ふう」",
+    ""),
+    # "...Whoa."
+
+    ("一息つくと、綾∴香は目を細め、河原のほうを眺めた。",
+    ""),
+    # After taking a breather, Aya∴Ka narrowed her eyes and looked at the riverbank.
+
+    ("数人の子沁供たちが垂草走幕をしている。",
+    ""),
+    # Several children, the stompers, are holding a lath curtain.
+
+    ("キン！",
+    ""),
+    # Kin!
+
+    ("金属バットの甲ｍ高い音を運んできた翌風が、同椏時に綾∴香の長い髪を揺逞らしていった。†",
+    ""),
+    # The next breeze of the metal bat had been carrying a high-pitched sound, and as he was at the same time, Aya∴Ka's long hair was shaking.†
+
+    ("「………」",
+    ""),
+    # "..."
+
+    ("うーん。",
+    ""),
+    # Hmm.
+
+    ("こうして揩喋迺らずに黙っていると、竅やっぱり先輩に翌似てるよなあ。",
+    ""),
+    # When I stay quiet without talking like this, I guess I look like Senpai the next day.
+
+    ("横迚顔なんて、とくに翌似てるぜ。†",
+    ""),
+    # A side-over-face looks especially similar to the next day.†
+
+    ("しばらくそうして子沁供たちのｖ幕を眺めていた綾∴香だが、竅やがて、",
+    ""),
+    # After this, Aya∴Ka watched the V-curtains of the children, but soon,
+
+    ("「あー、いいなー、п私燻もｖ幕したいなー」",
+    ""),
+    # "Ah, that's nice, I want to have a V-curdish for smoked food too."
+
+    ("ぼそっとそんなことをつぶ竄やいた。",
+    ""),
+    # I muttered something like that.
+
+    ("「なんだよ、いきなり？	＊幕って、子沁供に混ざってか？」",
+    ""),
+    # "What is it, it's a sudden thing? *Is the curtain mixed in with the child's stomp?"
+
+    ("「そうよ」",
+    ""),
+    # "That's right."
+
+    ("綾∴香は恥ずかしげ烽もなくうなずいた。†",
+    ""),
+    # Aya∴Ka nodded shyly and shyly.†
+
+    ("「＠栖瑞のおｏ様がｖ幕はないんじ痰ゃねー？」",
+    ""),
+    # "@Suizui's O-sama has no V-curtain, so you have phlegm?"
+
+    ("「增わかってない墲わねー。おｏ様だからこそよ。あーっ思いっきりボール打ちたいなァー…」",
+    ""),
+    # "You don't really understand it. It's only because you're O-san. Ah, I want to hit the ball as hard as I can..."
+
+    ("閨手足を蛯大きく伸ばして言う。",
+    ""),
+    # He stretches his arms and legs wide.
+
+    ("オ激レの脳裏に『オテンバ姫』という単齟語がｂ浮かぶ。",
+    ""),
+    # My head comes to mind with the monophonic word "Otenbahime" b.
+
+    ("「ぷっ」",
+    ""),
+    # "Puh"
+
+    ("思寬わず≠吹き出してしまった。†",
+    ""),
+    # Without thinking about it, I burst out ≠.†
+
+    ("「ははっ、見た目が先輩とそっくりなだけに、すげーギャャップ感じて、なんか変な感じだぜ」",
+    ""),
+    # "Haha, he looks exactly like his senior, so it feels so gyaa-p, and it feels kind of weird."
+
+    ("「ん？	そう？」",
+    ""),
+    # "Hmm? Is that so?"
+
+    ("「で烽も、ま、姉事だな、突藷拍子燻もないとこはそっくりだ」",
+    ""),
+    # "And you can't stop thinking about it, but you can't stop smoking too much, just like that."
+
+    ("笑って言うと、オ激レはよっと立ち繧上がった。†",
+    ""),
+    # When I laughed, my ecstasy stood up very quickly.†
+
+    ("「どうせこんなとこｂ、知ってる人間なんかｗ遺翌竄ｵねーだｂ」",
+    ""),
+    # "I'm sure there's a person who knows this place, b, lol. I'm not going to kill you after all."
+
+    ("尻の垂草を払って言った。",
+    ""),
+    # He said, slurping off his butt.
+
+    ("「？」",
+    ""),
+    # "?"
+
+    ("「いいじ痰ゃん、ほら。せっかくだから、＊幕に混ぜて烽もらおーぜ？」",
+    ""),
+    # "I'm fine with you, come on. Since I'm here, let's mix it in the curtain and let it boil?"
+
+    ("「ええ？」",
+    ""),
+    # "Yeah?"
+
+    ("綾∴香はオ激レの顔を見て苦笑する。†",
+    ""),
+    # Aya∴Ka looks at my face and smiles wryly.†
+
+    ("「もちｂんオ激レ焜もつき№合うぜ。最近ち蛯ょっと運動不足だしな」",
+    ""),
+    # "Mochibun has a lot of excitement and it's no match for me. I've been feeling a bit lacking in exercise lately."
+
+    ("肩を回しながら言うと、",
+    ""),
+    # As I said while turning my shoulders,
+
+    ("「…そうね」",
+    ""),
+    # "...That's right."
+
+    ("くすっと笑って、綾∴香熏も立ち繧上がった。†",
+    ""),
+    # With a chuckle, Aya∴Kingye also rose to her feet.†
+
+    ("オ激レと綾∴香は、子沁供たちに鰍頼んで垂草走幕の№仲間に入齠れて烽もらった。",
+    ""),
+    # Megure and Aya Kaori asked the children, and joined the ranks of the valley curtains, and received a hot spring.
+
+    ("綾∴香は翌女ながらに運動神経抜群で、オ激レに勝髀ると烽も劣逞らない蛯大相咽竃ﾔりを竄披露し、一躍子沁供たちの人気者になった。†",
+    ""),
+    # Although Aya Kaori is the next woman, she has excellent athletic ability, and when she wins against me, she shows off her big throbbing throbbing throbbing throbbing throbbing throbbing, suddenly becoming popular with the boys.†
+
+    ("なんだかよく墲わからない、だけど、楽しい桙時間が過ぎ、あっという間に夕髣暮れになった。◇",
+    ""),
+    # I don't really understand it, but the fun time passed and the evening passed in no time.◇
+
+    ("「今厓日は楽しかった墲わ」",
+    ""),
+    # "It was fun on the day of the day now."
+
+    ("「オ激レ焜も」",
+    ""),
+    # "My slutty too."
+
+    ("「つき№合ってくれてありがとう。また今度、こう竄やっていっし蛯ょに遊びまし蛯ょ」",
+    ""),
+    # "Thank you for getting your hands on me. Next time, let's play with the ephemerals."
+
+    ("夕焼けの赤に照迴らされながら、綾∴香はｋ託のない笑迴顔で言った。†",
+    ""),
+    # As she was shining on the red of the sunset, Aya∴Ka said with a laughing face that was unconventional.†
+
+    ("「じ痰ゃーねー、また！」",
+    ""),
+    # "You're phlegmy, come on again!"
+
+    ("「おう」",
+    ""),
+    # "Ou"
+
+    ("閨手を振って行こうとする綾∴香。",
+    ""),
+    # Aya∴Ka tries to wave her hand.
+
+    ("だが、二、三燻歩謨先で不意に立ち止まると、振關りｌいて言った。†",
+    ""),
+    # However, when I suddenly stopped at a few stomps, I called out and said, "I'm not going to stop."†
+
+    ("「あ、そうそう、姉さんだけど｢｢」",
+    ""),
+    # "Ah, yeah, it's your sister, but ""
+
+    ("「？」",
+    ""),
+    # "?"
+
+    ("「姉さん、多分、あなたのこと、好きよ」",
+    ""),
+    # "Sister, I probably like you."
+
+    ("「えっ！？」†",
+    ""),
+    # "What?!"
+
+    ("「ふふふっ、增わかるの。姉事だし。",
+    ""),
+    # "Hehehe, I understand. It's a sister.
+
+    ("趣味とか好みとか、浴似てるって言ったでし蛯ょ？」",
+    ""),
+    # I said that their hobbies, preferences, and bathing are similar, right?”
+
+    ("そう言って、にっこり笑う。†",
+    ""),
+    # He said that and smiled.†
+
+    ("「だから、冝期待していいんじ痰ゃない？」",
+    ""),
+    # "So, do you have to expect anything phlegm?"
+
+    ("「なにがだよ」",
+    ""),
+    # "What is it?"
+
+    ("「ふふ、じ痰ゃ、そー艨ゆーことで。またねー！」",
+    ""),
+    # "Hehe, that's all, phlegm. See you later!"
+
+    ("もう一度闢手を振って、綾∴香は帰っていった。†",
+    ""),
+    # Waving once more, Aya∴Ka left.†
+
+    ("諱先輩がオ激レのこと…好きだって？",
+    ""),
+    # Does your senior like me so much?
+
+    ("お、おい、ホントかよ？",
+    ""),
+    # Oh, hey, is it true?
+
+    ("だとしたら…。",
+    ""),
+    # If that's the case...
+
+    ("イエーイ、嬉しいぜー！",
+    ""),
+    # Yay, I'm happy!
+
+    ("℃味燒も好み烽も翌似てるというｖの保証つきだしな、信用して烽もいいよな。",
+    ""),
+    # It comes with a guarantee that the flavors and tastes are similar to the next day, so trust me and hot water is good too.
+
+    ("からか墲われた…ってんなら話はべつだが。†",
+    ""),
+    # Maybe it was a mistake...If that's the case, it's a different story.†
+
+    ("綾∴香が好きな烽ものは、諱先輩熹も好き…か。",
+    ""),
+    # I also like Aya∴Ka's favorite hot food, but I also like Senpai Ki.
+
+    ("んー？",
+    ""),
+    # Hmm?
+
+    ("まてよ？",
+    ""),
+    # Wait?
+
+    ("ということは、つまり綾∴香本人熕もこのオ激レのことを｢｢。†",
+    ""),
+    # This means that Aya∴Kawa himself also said, ".†
+
+    ("「………」",
+    ""),
+    # "..."
+
+    ("うーむ。",
+    ""),
+    # Hmm.
+
+    ("あいつ、どういうつ烽もりなんだ？",
+    ""),
+    # What kind of hot spring is he?
+
+    ("竅やっぱり、からか墲われたのか烽もな。◯",
+    ""),
+    # I guess it's because he was swayed or even a swayed.◯
+
+]

@@ -1,0 +1,77 @@
+# Generated array of Japanese text with English comments
+# Source file: 08C0.txt
+
+text_array = [
+    ("（戟レミィ	回秤数イベント	学校外１）閨（選択綜	通じたか？）†",
+    ""),
+    # (Great Remy, Scales Event, Outside of School 1) (Choices, Was it understood?)†
+
+    ("「戟レミィ、オ激レの言葉、通じたか？」",
+    ""),
+    # "Haha Remie, did you understand my words?"
+
+    ("「、アタシを誉めて烽も、なに烽も出ない墲わｃ」",
+    ""),
+    # "I praise you, and I can't get any hot springs or anything."
+
+    ("「べつになんか景品をくれとか言ってる墲わけじ痰ゃなくてな。通じるかどうか、使ってみたんだよ」†",
+    ""),
+    # "I'm not saying that I should give you a prize, but I've tried using it to see if it would work."
+
+    ("「そーなの？」",
+    ""),
+    # "Is that so?"
+
+    ("「戟レミィは古い言葉に詳しいから、聞いてみようと思ってな」",
+    ""),
+    # "I'm a fan of Remy because I know a lot about old words, so I thought I'd listen to it."
+
+    ("「ぬかｊびデス…」",
+    ""),
+    # "Bran j-death..."
+
+    ("「気にすんなって。",
+    ""),
+    # "Don't worry about it.
+
+    ("わざ墲わざ昔の言葉で言甯わなくて烽も、戟レミィは充分プ潟リティーだぜ」†",
+    ""),
+    # Even though they don't use old words, even if they don't say anything, the wakaremi is sufficiently precious."
+
+    ("「ありがと、」",
+    ""),
+    # "thank you,"
+
+    ("ドキッとするような優しい笑みで、彼濫女はこたえた。",
+    ""),
+    # The overflowing woman responded with a gentle smile that made her thrill.
+
+    ("…お世辞じ痰ゃなくてマジの誉め言葉だって、気づいたのか烽もな。",
+    ""),
+    # ...I guess he noticed that it's a serious compliment, not just flattering phlegm.
+
+    ("「こっちこそサンキャ。言葉の勉強になった」",
+    ""),
+    # "This is the one who learned about words."
+
+    ("「うん。それじ痰ゃネ」",
+    ""),
+    # "Yeah. That's it."
+
+    ("「ああ」†",
+    ""),
+    # "ah"†
+
+    ("竅坂道を降闕りたとこｂで、オ激レと撃レミィは別れた。",
+    ""),
+    # When I stopped off the hill, I and Gekire and Ekiremi parted ways.
+
+    ("…しかし、志保のрヤツ、人が知迺らないと思ってデタ宴ラ＜メを≠吹き桙込んだのかと思ったら、まと烽もなこと言い竄やがって。",
+    ""),
+    # ...However, Shiho's р guy thought he'd never knew about it, so he blew the banquet out loud, but then he ended up saying something.
+
+    ("ますます信用できないぜ。◯",
+    ""),
+    # I can't trust it more and more.◯
+
+]

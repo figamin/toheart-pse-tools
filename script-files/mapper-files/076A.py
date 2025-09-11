@@ -1,0 +1,405 @@
+# Generated array of Japanese text with English comments
+# Source file: 076A.txt
+
+text_array = [
+    ("（琴音	好感度イベントＰＳ）†",
+    ""),
+    # (Kotone Likeability Event PS)†
+
+    ("£鋳に出たオ激レは、いくつかあるベンチをひとつずつ見て回驩る。",
+    ""),
+    # Ogere, who appeared in the cast, looked at several benches one by one and went around.
+
+    ("琴音ち痰ゃんはすぐに見つかった。",
+    ""),
+    # Kotone Chisho-chan was quickly found.
+
+    ("いつ烽ものようにベンチにｍかけて、何個かあるｖ幕のボールとにらめっこしている。†",
+    ""),
+    # He was hanging on the bench like a hot thing, staring at several V-curve balls.†
+
+    ("「いようっ、琴音ち痰ゃん」",
+    ""),
+    # "I'm here, Kotone's sphinja."
+
+    ("「あ、さん…。こんにちは」",
+    ""),
+    # "Ah, sir... Hello."
+
+    ("彼濫女はオ激レに気づくと立ちあがり、ペコ潟リと頭を下げた。†",
+    ""),
+    # When the woman noticed me, she stood up and bowed her head.†
+
+    ("「進みｋ㈲合はどーだ？」",
+    ""),
+    # "What's the k-go going??"
+
+    ("「あ、はいっ。いいと思いますよ」",
+    ""),
+    # "Ah, yes. I think it's fine."
+
+    ("にっこり微笑む琴音ち痰ゃん。†",
+    ""),
+    # Kotone Chisho-ya smiles with a smile.†
+
+    ("「そーかそーか」",
+    ""),
+    # "Is that so?"
+
+    ("「前にさんに見て烽もらったときから、ふたつ烽も揩増えたんです」",
+    ""),
+    # "Since I saw it from the previous time, I got a hot pot, I've seen two hot pots and the other hot pots have increased."
+
+    ("彼濫女、オ激レがこう竄やって見にｗ磯翌ﾆすごく嬉しそうに特訓の進みｋ㈲合を話してくれる。",
+    ""),
+    # My boyfriend and I'm going to watch it lol Iso-no-ni is so happy to talk about the progress of the training.
+
+    ("そんな彼濫女を見骭るのが、最近は楽しい。†",
+    ""),
+    # It's been fun to watch such a boyfriend and girls these days.†
+
+    ("「すっげー進熕歩じ痰ゃんか」",
+    ""),
+    # "Are you sure you're getting phlegm?"
+
+    ("琴音ち痰ゃんは、今ではボール３個をｒにｂ浮かせることができる。",
+    ""),
+    # Kotone Chisho-chan can now float three balls on a.
+
+    ("それが２個搆増えたんなら、５個煬もだ。",
+    ""),
+    # If that's more than two, then five more.
+
+    ("「はいっ。あんなに凾嫌いだった能力だったのに、今では繧上闖手くなるとすごく嬉しいんです。",
+    ""),
+    # "Yes. It was such a skill I hated so much, but now I'm really happy when I've become more skilled.
+
+    ("早く、その…さんに見て烽もらいたいな…って思うんです」†",
+    ""),
+    # I think I want you to see it soon and have me take a look at it."
+
+    ("「ははっ、おーけーおーけー。いつだって見て竄やるよ」",
+    ""),
+    # "Haha, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
+
+    ("「ありがとうございます」",
+    ""),
+    # "thank you"
+
+    ("琴音ち痰ゃんは笑迴顔でうなずいた。",
+    ""),
+    # Kotone Chisho-yan nodded with a laughing face.
+
+    ("「じ痰ゃさっそく成果を見せて烽もらおーか」",
+    ""),
+    # "Let's show off your results and get some hot food."
+
+    ("「あ、はいっ」†",
+    ""),
+    # "Ah, yes" †
+
+    ("・",
+    ""),
+    # ・
+
+    ("・",
+    ""),
+    # ・
+
+    ("・†",
+    ""),
+    # ・†
+
+    ("琴音ち痰ゃんはオ激レの目の前で５個のボールを自在に操って見せた。",
+    ""),
+    # Kotone Chisho-yan freely manipulated five balls in front of my eyes.
+
+    ("ピンポン玉を転がすだけだった頃から艪比べれば、とんで烽もない進熕歩だ。",
+    ""),
+    # When compared to the days when he only rolled a ping pong ball, he was extremely hot and incredibly hot.
+
+    ("オ激レはただただｊぶしかなかった。†",
+    ""),
+    # My only thing I could do was jot.†
+
+    ("「おっし、今厓日はこれで休憩」",
+    ""),
+    # "Oh, this is the break for the day."
+
+    ("「えっ、どうしてですか？」",
+    ""),
+    # "What, why?"
+
+    ("いぶかしげな表﨣情で琴音ち痰ゃんは聞いた。†",
+    ""),
+    # Kotone Chisho-yan asked in a rather unscrupulous sense of humor.†
+
+    ("「諱疲齡れてるだｂ？	オ激レにはそう見えるぜ」",
+    ""),
+    # "You're tired? That's what I see to you."
+
+    ("「あ…」",
+    ""),
+    # "a…"
+
+    ("目を嘯伏せる琴音ち痰ゃん。",
+    ""),
+    # Kotone's eyes are leaning down.
+
+    ("竅やっぱり図星だ。†",
+    ""),
+    # It's Tsuboshi after all.†
+
+    ("「琴音ち痰ゃん、オ激レの前じ痰ゃいつ烽も無摶理して限界ぎりぎりまでエネ泣ルギー使うからな。これ以繹上竢やって倒齠れられたら蛯大変だ」",
+    ""),
+    # "Kotone-chi, the phlegm in front of me will always be able to keep the phlegm in vain and use energy to the very limit. If you can defeat me from now on, it's going to be a pain."
+
+    ("人前だとつい張闥り切ってしまうって心境はオ激レに烽もよく墲わかる。",
+    ""),
+    # I can really understand how I feel when I'm in front of people that I end up dying.
+
+    ("けど、オーバーペースは禁物だ。†",
+    ""),
+    # However, over-pace is prohibited.†
+
+    ("「…すみません。",
+    ""),
+    # "…sorry.
+
+    ("わたし、つい頑張闥りすぎてしまって…」",
+    ""),
+    # I've been trying too hard..."
+
+    ("オ激レの言った意味に気づいた琴音ち痰ゃんは、恥ずかしそうにうつむいた。",
+    ""),
+    # Realizing the meaning of my gangbang, Kotone Chishoyan looked down shyly.
+
+    ("「いいって。今厓日は残闔りの桙時間、なんか話しで烽もしようぜ」",
+    ""),
+    # "That's fine. The day is still in the middle of the day, so let's have some hot springs to talk about."
+
+    ("「あ、はい…」†",
+    ""),
+    # "Ah, yes..."†
+
+    ("「………」",
+    ""),
+    # "..."
+
+    ("「………」",
+    ""),
+    # "..."
+
+    ("とは言った烽ものの、逆に話し出すきっかけを失ってしまった。",
+    ""),
+    # That said, I lost the opportunity to talk to him.
+
+    ("＝早くこの『間』を何とかしなければ…。†",
+    ""),
+    # =I have to do something about this 'time' as soon as possible...†
+
+    ("と、そこで、目の前の蛯大きな木の枝にパタパタと２羽の鳥がとまった。",
+    ""),
+    # Then, two birds stopped on the branch of a large lily tree in front of me.
+
+    ("すずめっぽいけど、普黒っぽくて蛯大きいな…。†",
+    ""),
+    # It looks like a sparrow, but it looks like a normal black and big lily...†
+
+    ("「あれは『ムクド潟リ』っていうんですよ」",
+    ""),
+    # "That's called "Mukudokarari."
+
+    ("不思議そうにながめていると、琴音ち痰ゃんが教えてくれた。",
+    ""),
+    # As I looked at her curiously, Kotone Chisho-yan told me.
+
+    ("「ふ〜ん…。琴音ち痰ゃんって、動物に詳しいよなぁ」",
+    ""),
+    # "Hmm... Kotone Chishonan is knowledgeable about animals."
+
+    ("「はい。ひとりのときはし蛯ょっち繧ゅう図鑑をながめてましたから…」†",
+    ""),
+    # "Yes. When I was alone, I was looking at the encyclopedia of the essays..."
+
+    ("「そっか。",
+    ""),
+    # "I see.
+
+    ("んじ痰ゃ、どうして琴音ち痰ゃんがそこまで研結熱心なのか教えてくれよ」",
+    ""),
+    # Let me know why Kotone Chi Sphin is so enthusiastic about ken-jutsu."
+
+    ("「…どうしてそうなのか、增わたしに烽もよく墲わからないんですよ…」",
+    ""),
+    # "...I don't really understand why that's the case..."
+
+    ("「おいおい」",
+    ""),
+    # "hey hey"
+
+    ("「で烽も、增わたしが勝闖手に思いこんでいるキッカケでしたら…」†",
+    ""),
+    # "And if that's the trigger that I was thinking about Katsuren's hand..."
+
+    ("「へえ、それってどんなキッカケなんだ？」",
+    ""),
+    # "Whoa, what kind of trigger is that?"
+
+    ("「えっと…あれは、增わたしが小学校二、三年のこｂ｢｢」†",
+    ""),
+    # "Um...that's what I mean when I was in second or third grade elementary school, """†
+
+    ("增わたしがパパとママといっし蛯ょに旅行へいったときのことです。",
+    ""),
+    # This was when I went on a trip with my dad and mom.
+
+    ("增わたしたちは静かな港町の旅館に宿を取闔りました。†",
+    ""),
+    # We visited a hotel in a quiet port town.†
+
+    ("どこかへ遊びに行こうということになって、增わたしは湾をはさんだｌこう側、蛛大きな№島のｐ族館に連齪れていって烽もらったんです。",
+    ""),
+    # I decided to go out and have a trip somewhere, and I went to the P-Armum on the large No. Island on the side of the bay and received a hot spring.
+
+    ("增わたし、うれしくて、パパとママを置いてけぼりにして、ひとりで館煌内をр巡闖りました。†",
+    ""),
+    # I was so happy that I left my dad and mom behind and went around the Kakei Kiraku on my own.†
+
+    ("竅やがて館煌内の施設を残邇らず見終えた墲わたしは、噤建物の外へ出たんです。†",
+    ""),
+    # Eventually, after I finished looking at the facilities inside the Museum Luo, I left the building outside.†
+
+    ("そこには蛯大きなプールがありました。",
+    ""),
+    # There was a large pool there.
+
+    ("曇闢り空で翌風熾も強く、少し肌寒かったので、ま墲わりには誰熬もいませんでした。†",
+    ""),
+    # The sky was cloudy and the next wind was strong and it was a little chilly, so there was no one there, despite the fact that it was cloudy.†
+
+    ("增わたしはプールのｒを覗こうと思ったんですが、プールを囲んでいる壁が少しｂ高くて、£の様子が見えそうで見えません。",
+    ""),
+    # I was planning to look around the pool, but the wall surrounding the pool is a little b-high, so I can't see what's going on.
+
+    ("どうにかしてｒを見謖ようと、增わたしは飛び繧上がってみたり、いｂいｂと獅試しました。",
+    ""),
+    # I tried to somehow catch up with the r, but I jumped up and tried a lion.
+
+    ("ですが、見えないどこｂか、突然強い翌風が≠吹いて、增わたしの帽子を飛ばしてしまったんです。†",
+    ""),
+    # However, somewhere in sight, a strong next wind suddenly blew, and I let my hat fly.†
+
+    ("お気に入闢りの盾ワンピースとおそｂいの帽子でした。",
+    ""),
+    # It was my favorite shield dress and a hat.
+
+    ("帽子はあっという間に壁のｌこうへ飛んでしまいました。",
+    ""),
+    # The hat flew to the wall in no time.
+
+    ("プールのｒに獅落ちたんです。†",
+    ""),
+    # A lion fell into the r in the pool.†
+
+    ("蛛大好きな帽子でしたから、增わたし、悲しくなってモ泣き出してしまいました。",
+    ""),
+    # It was a hat that I love, so I felt sad and started crying.
+
+    ("そのうちにパパとママが竄やってきて、增わたしを抱き繧上げてくれましたが、增わたしはモ泣きじ痰ゃくるばかりです。†",
+    ""),
+    # Eventually, my dad and mom came to tamper with me and hugged me, but I was crying and sighing.†
+
+    ("で烽も、そのとき、壁のｌこうから墲わたしの帽子が差し出されたんですよ。",
+    ""),
+    # And then, at that moment, my hat was handed over from the wall.
+
+    ("パパ焜もママ焜も墲わたし烽も、びっくりしました。",
+    ""),
+    # My father, mother, and I was surprised.
+
+    ("だって、帽子を拾ってくれたのは、イ泣ルカだったんですから。",
+    ""),
+    # After all, it was a cried person who picked up my hat.
+
+    ("イ泣ルカは、帽子のつばをく墲わえて壁のｌこうから伸び繧上がってくれてたんです。†",
+    ""),
+    # Luka cried out and raised the brim of her hat from the wall.†
+
+    ("パパは『イ泣ルカさんにお礼を言うんだぞ』って、抱いたまま墲わたしをイ泣ルカに近付けてくれました。",
+    ""),
+    # My dad said, "I'm going to thank you, Luka-san," and brought me closer to Luka-san, holding me in my arms.
+
+    ("すごく蛯大きかったですけど、怖くありませんでしたよ。",
+    ""),
+    # It was really big, but it wasn't scary.
+
+    ("增わたしを見骭る目が、すごく優しかったですから。†",
+    ""),
+    # His eyes were so gentle that he looked upon me.†
+
+    ("お礼を言って、增わたしは帽子をイ泣ルカから受け取闔りました。",
+    ""),
+    # I thanked him, and I cried and received the hat from Luka.
+
+    ("帽子は不思議なことに、少し烽もぬれていませんでした。",
+    ""),
+    # Strangely, the hat was not wet either.
+
+    ("帽子をかぶると、增わたしはすぐにイ泣ルカに手を伸ばして、なでてあげました。†",
+    ""),
+    # I put on my hat and immediately reached for Luka and stroked her.†
+
+    ("增わたしがパパと烽もう一度お礼を言うと、イ泣ルカはそれが伝崧わったように、プールに戻っていったんです。",
+    ""),
+    # When I thanked her with Dad, she returned to the pool, as if it had been passed down.
+
+    ("增わたしはずっと、イ泣ルカの消えたｐの怩奥を見つめていました。",
+    ""),
+    # I was staring at the depths of the disappearance of Luka's vanishing p.
+
+    ("それが奄初めての出初いだったんです。†",
+    ""),
+    # That was the first time I had ever made an Amami.†
+
+    ("「へぇ…。頭いいんだな、イ泣ルカって」",
+    ""),
+    # "Wha... you're smart, you're crying."
+
+    ("「增わたし、そのとき思ったんです。イ泣ルカと話したんだって。動物熾も友だちなんだって…」",
+    ""),
+    # "At that moment, I thought. He spoke to Luka. Animal Teru is also a friend..."
+
+    ("「なるほどな。それが琴音ち痰ゃんの動物好きな揩理由か…」†",
+    ""),
+    # "I see. I see. That's why Kotone Chisho-chan loves animals..."
+
+    ("「多分、そうだと思います」",
+    ""),
+    # "I think that's probably true."
+
+    ("「今の琴音ち痰ゃんがあるの烽も、案外そのイ泣ルカのおかげか烽もな…」",
+    ""),
+    # "The current Kotone Chishonan has a stomp, and perhaps thanks to that slumber, it's no surprise that it's hot..."
+
+    ("「…あの、さんと出初えたの烽も、イ泣ルカのおかげにしていいですか？」",
+    ""),
+    # "...Um, can I give thanks to Luka Iku to join us for the first time with you?"
+
+    ("「いいんじ痰ゃねーかな」",
+    ""),
+    # "I guess it's fine, I guess it's phlegm."
+
+    ("「はいっ」†",
+    ""),
+    # "Yes" †
+
+    ("その冾日はそのまま、動物関係の話陂題で盛關り繧上がってしまった。",
+    ""),
+    # The date has continued to rise to the issue of animal-related topics.
+
+    ("琴音ち痰ゃんは竄やっぱ物知闥りで、志保ち痰ゃん薰情報なんかより何倍熹も興味深い話を聞かせてくれた。◯",
+    ""),
+    # Kotone Chisho-chan is a bit of a knowledge of the things that have been learned, and even Kei told me many times more interesting stories than Shiho Chisho-chan's information.◯
+
+]

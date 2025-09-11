@@ -1,0 +1,117 @@
+# Generated array of Japanese text with English comments
+# Source file: 0184.txt
+
+text_array = [
+    ("（あかり	回秤数イベント	２Ｆ）閨（選択綜Ａ	オ激レが窒白酒で）†",
+    ""),
+    # (Akari Scales Event 2F) Li (Shoku Sou A, Ogere is Nibai sake)†
+
+    ("「オ激レが窒白酒飲んで撃酔っ払ったことか？」",
+    ""),
+    # "Did I get drunk after drinking nitrogen liquor?"
+
+    ("「そうそう」",
+    ""),
+    # "oh yeah"
+
+    ("あかりは二回うなずいた。",
+    ""),
+    # Akari nodded twice.
+
+    ("「そうだｂうとは思ったけど、ビンゴかよ。さっさと忘齧れｂって言ってんのによ」",
+    ""),
+    # "I thought I'd b, but is it bingo? I'm saying, "Get forget b."
+
+    ("「ふふっ」",
+    ""),
+    # "Heheh."
+
+    ("あかりはくすくす笑う。†",
+    ""),
+    # Akari chuckles.†
+
+    ("「ち痰ゃん、あのときは蛯大暴齧れだったね」",
+    ""),
+    # "Choy, you had a big dick at that time."
+
+    ("「ちっ…」†",
+    ""),
+    # "Tch..." †
+
+    ("「п私とｉ史ち痰ゃんからお菓子を取闔り繧上げて、ひな壇のぼって、一番續上で蛯大笑いして…」",
+    ""),
+    # "I picked up some sweets from me and I-Shin Chisho-chan, then climbed up the front door, and laughed loudly on the top of the house..."
+
+    ("「………」",
+    ""),
+    # "..."
+
+    ("「だけど、そこでひな壇が崩れて烽もう蛯大変！",
+    ""),
+    # "But then the altar collapses and it's a pain!
+
+    ("めち痰ゃくち痰ゃの蛯大尅騒ぎ」",
+    ""),
+    # A big stimulus is a big stimulus."
+
+    ("「お前の母さんが、面猪白がってオ激レに何杯熹も窒白酒闔",
+    ""),
+    # "Your mother is wearing a big boar and slurping my face with a lot of cups of nitrogen wine.
+
+    ("飲ませるからだ」†",
+    ""),
+    # Because I'll give you a drink"
+
+    ("「氏落っこちたち痰ゃん、そのままピク潟リと烽も動かなくて、みんなびっくりしたんだけど、じつはそのまま寝ち痰ゃってて…」",
+    ""),
+    # "They fell off, but the sputum fell on the ground, and the spurts didn't move, which was surprising, but in fact they just went to sleep and sputum..."
+
+    ("「お前、諱よくそんな蛯大昔のこと覚えてるな。感心するぜ」†",
+    ""),
+    # "You often remember such a long time ago. I'm impressed."
+
+    ("「えへへ。じつはね、そのときの写真がうちにあるんだ」",
+    ""),
+    # "Hehe. Actually, I have a photo from that time."
+
+    ("「なにぃ？」",
+    ""),
+    # "What?"
+
+    ("「ア泣ルバムに貼ってあるの」",
+    ""),
+    # "It's stuck on Ahhh Rubum."
+
+    ("「諱よこせ、それをよこせ！」",
+    ""),
+    # "Give me your name, give it to me!"
+
+    ("「だめだよ、蛛大切な思い出なんだから」",
+    ""),
+    # "No, it's a precious memory."
+
+    ("あかりはクスクスと笑いながら言った。†",
+    ""),
+    # Akari said with a chuckle.†
+
+    ("「いま見骭ると、ちっち痰ゃいこｂのち痰ゃん、とって烽も可愛いんだよ」",
+    ""),
+    # "When I look at it now, I see that the little phlegm is also cute, and the hot phlegm is also cute."
+
+    ("むかっ！",
+    ""),
+    # Go on!
+
+    ("「п私、あんな墲弟が欲しいなー」",
+    ""),
+    # "I want a younger brother like that."
+
+    ("「くらぁっ！」",
+    ""),
+    # "Look!"
+
+    ("「あっ」◯",
+    ""),
+    # "Ah"◯
+
+]

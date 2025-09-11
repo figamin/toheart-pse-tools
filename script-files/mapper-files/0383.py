@@ -1,0 +1,157 @@
+# Generated array of Japanese text with English comments
+# Source file: 0383.txt
+
+text_array = [
+    ("（智子	回秤数イベント３	学校を出髀る	ＬＶ１）閨（３獅月）閨（下駄箱）†",
+    ""),
+    # (Tomoko's Scales Event 3: Leave school LV1) (3 Shizuki) (Shoe cabinet) †
+
+    ("靴を嘯履き替え、玄関へ出謠ようとしたとき、",
+    ""),
+    # When I changed my shoes and tried to get out to the entrance,
+
+    ("「」",
+    ""),
+    # ""
+
+    ("縺後撃からオ激レを呼ぶ声がした。",
+    ""),
+    # After the attack, I heard a loud noise.
+
+    ("「？」",
+    ""),
+    # "?"
+
+    ("振關り返髟るとｉ史だった。†",
+    ""),
+    # When I looked back, it was an i-historic story.†
+
+    ("「ひとり？」",
+    ""),
+    # "alone?"
+
+    ("「まあ」",
+    ""),
+    # "oh dear"
+
+    ("「じ痰ゃあ、いっし蛯ょに帰汲うよ」",
+    ""),
+    # "Ah, I'll return to the slut."
+
+    ("「いいけど、お前、部賦はいいのか？」",
+    ""),
+    # "It's fine, but are you a good club?"
+
+    ("「一度ウェアを取闔りに家に帰汲うと思って」",
+    ""),
+    # "I thought I'd come home after getting my clothes."
+
+    ("「ふーん」†",
+    ""),
+    # "Hmm" †
+
+    ("「ち蛯ょっと待ってて」",
+    ""),
+    # "Wait a moment."
+
+    ("♂史はそう言うと、下駄箱からシャーズを取闔り出し、足を入齠れた。",
+    ""),
+    # When Masochi said that, he pulled out the shawz from the shoe cabinet and put his foot in.
+
+    ("いかに烽も嘯履くのがうざったそうな長いひ烽ものシャーズだ。†",
+    ""),
+    # It's a long, long, hot spring shrub that looks annoying to wear, even if it's hot.†
+
+    ("「これ嘯履くの、面倒くさいんだ」",
+    ""),
+    # "It's a hassle to wear these."
+
+    ("「だったら烽もっと簡単な竄やつにしｂよ。脱ぎ嘯履きの多い冾日本人酔きじ痰ゃねーだｂーが」",
+    ""),
+    # "Then, I'll make it a simpler tamper. I'll take off my clothes and get drunk, and I'm not going to have to worry about the Japanese people being drunk."
+
+    ("「はは、か烽もね」",
+    ""),
+    # "Haha, or even Hot."
+
+    ("♂史は、ほどけた靴ひ烽もを汲結び直しながら笑った。",
+    ""),
+    # Masochi laughed as he reconnected his untied shoelaces.
+
+    ("「…ったく、＝早くしｂよ」",
+    ""),
+    # "...Okay, hurry up b."
+
+    ("そう言って、オ激レは一足鞫先に玄関を出た。†",
+    ""),
+    # With that in mind, I walked out the entrance.†
+
+    ("外で待つこと数十秒。",
+    ""),
+    # Waiting outside for a few seconds.
+
+    ("短い桙時間だが汲結構長く感じる。",
+    ""),
+    # It's a short time, but it feels quite long.
+
+    ("「お〜い、まだか〜」",
+    ""),
+    # "Hey, are you still?"
+
+    ("「もうち蛯ょっと｢｢」",
+    ""),
+    # "Mouchiebi"
+
+    ("あ〜、なんだかイ宴ライ宴ラしてきた。†",
+    ""),
+    # Ah, it's kind of a feast and a banquet.†
+
+    ("諱よう竄やく靴ひ烽もを汲結び終えたのか、♂史は立ち繧上がった。",
+    ""),
+    # Perhaps he had finished stolen his shoes and stomping, Masochist has come to light.
+
+    ("こっちに烽歩いてくる。",
+    ""),
+    # I'm walking over here.
+
+    ("ったく、遅えーんだよ。",
+    ""),
+    # It's so late.
+
+    ("諱よし、軽く制裁をくれて竄やる。†",
+    ""),
+    # Okay, I'll give you some light punishment and tamper with it.†
+
+    ("オ激レは撃柱のかげに隠皷れ、様子をうかがった。",
+    ""),
+    # My gang retreated under the stake, and I looked into the situation.
+
+    ("足音が近づいてくる。",
+    ""),
+    # Footsteps are coming closer.
+
+    ("…３。",
+    ""),
+    # ...3.
+
+    ("…２。",
+    ""),
+    # ...2.
+
+    ("…１。†",
+    ""),
+    # ...1.†
+
+    ("諱よしっ！",
+    ""),
+    # I'm glad!
+
+    ("Ａ	蛛大声でおどかす。閨",
+    ""),
+    # A: I scream and terrify me.Relax
+
+    ("Ｂ	遅いっ、とチ㏍ョップ！閨",
+    ""),
+    # B It's late, and chic-yop!Relax
+
+]

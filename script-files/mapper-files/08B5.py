@@ -1,0 +1,33 @@
+# Generated array of Japanese text with English comments
+# Source file: 08B5.txt
+
+text_array = [
+    ("（戟レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	「潤ワ潟リィけど」）†",
+    ""),
+    # (Game Remy Scale Event 1st Floor 3 LV2) (Selection So "Junwagata Li") †
+
+    ("「潤ワ潟リィけど今厓日はち蛯ょっと、用があるんだ」",
+    ""),
+    # "Junwagata Li, but I have something to do now."
+
+    ("「…そーなの？」",
+    ""),
+    # "...Is that so?"
+
+    ("「ホント、增わりぃな」",
+    ""),
+    # "Really, it's a shame."
+
+    ("オ激レは平謝闔りで通した。†",
+    ""),
+    # I passed through with gratitude.†
+
+    ("「それじ痰ゃあ…」",
+    ""),
+    # "That's phlegm..."
+
+    ("納得したのか、戟レミィはトボトボと烽歩いていった。◯",
+    ""),
+    # Perhaps he was convinced, and Remy wandered around in a panic.◯
+
+]

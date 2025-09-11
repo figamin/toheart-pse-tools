@@ -1,0 +1,73 @@
+# Generated array of Japanese text with English comments
+# Source file: 0884.txt
+
+text_array = [
+    ("（戟レミィ	回秤数イベント	２階１	選択綜Ｂ）†",
+    ""),
+    # (Game Remie Scales Event 2nd Floor 1 Selection B)†
+
+    ("最近のガキは生意気だからな。",
+    ""),
+    # The kids these days are cheeky.
+
+    ("「ガキは凾嫌いだよ」†",
+    ""),
+    # "I hate kidding"
+
+    ("「堰ｉ獅ｎモｃ窒ｒｂрｄ奄ｉｂｂ撃ｌｂ。ウソでし蛯ょ？」",
+    ""),
+    # "Dear lion, Nitrogen, Amaibb, Shooting LB. Is it a lie?"
+
+    ("「は？」",
+    ""),
+    # "teeth?"
+
+    ("オ激レには撃レミィの英皷語の意味が、諱よく墲わからなかった。",
+    ""),
+    # I couldn't really understand the meaning of the English-language word for Gekiremi.
+
+    ("…で烽も、雰囲気からして『信じられない』って感じだけど…。†",
+    ""),
+    # ...But the atmosphere makes me feel "unbelievable" too...†
+
+    ("そうだとして、なぜ、子沁供が凾嫌いだと信じられないことになるんだｂうか…？",
+    ""),
+    # If that's the case, why can't you believe that you hate Kouken-sama?
+
+    ("「アタシ、信じないから！」",
+    ""),
+    # "I don't believe you!"
+
+    ("戟レミィはオ激レの腕から離齬れ、逃げるように魔走闡り出した。†",
+    ""),
+    # Karemie was separated from my arms and started running away as if to escape.†
+
+    ("途湯で振關り返阨り、",
+    ""),
+    # I called back at the bathtub,
+
+    ("「アタシ、知ってるｂモン！」",
+    ""),
+    # "I know B-mon!"
+
+    ("と言い残して、氏去っていった。†",
+    ""),
+    # He left, leaving.†
+
+    ("「………」",
+    ""),
+    # "..."
+
+    ("なにを知ってるって？",
+    ""),
+    # What do you know?
+
+    ("いったい撃レミィは何のために、あんなことを聞いたのだｂうか。",
+    ""),
+    # Why did Geki Remy hear such a thing?
+
+    ("諱よく墲わからない。◯",
+    ""),
+    # I don't really understand the name.◯
+
+]

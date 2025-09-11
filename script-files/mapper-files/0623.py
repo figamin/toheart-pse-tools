@@ -1,0 +1,61 @@
+# Generated array of Japanese text with English comments
+# Source file: 0623.txt
+
+text_array = [
+    ("（マ泣ルチ	エンディング）閨（戟レミィとデートの約束がない場㍼合）†",
+    ""),
+    # (Makyuruchi ending) (A place where there is no date agreement with Remi)†
+
+    ("「お前がｗ磯翌鴦ｂﾈら、たとえ予阯定があって烽もキャャンセ泣ルするさ」",
+    ""),
+    # "You're lol Iso Izunai's Goblin, and even if you have a preliminary decision, you'll be crying."
+
+    ("「あっ、ありがとうございますっ。そうまで言っていただけるとは、光栄です！」",
+    ""),
+    # "Ah, thank you. I'm honored to be able to say that!"
+
+    ("ははは、梶相変﨑わらずおおげさなрヤツだな。†",
+    ""),
+    # Haha, Kaji Ai Henzaki is a big guy who doesn't look like it.†
+
+    ("「いまから出髀るのか？」",
+    ""),
+    # "Would you like to go out now?"
+
+    ("「はい。",
+    ""),
+    # "yes.
+
+    ("わたし烽もできる限闌り急いでそちらへｌかいます。ほんの３０分ほどで、到湯すると思いますから！」",
+    ""),
+    # I will hurry up and come over there as much as possible.I think the water will arrive in just 30 minutes!”
+
+    ("「とこｂでさ、お前、オ激レんちの場鰹所…」",
+    ""),
+    # "At the moment, you're a bonito spot in my super-sized house..."
+
+    ("ガチャャッ。",
+    ""),
+    # Gachaya.
+
+    ("ツーツーツー…。†",
+    ""),
+    # Two-two...†
+
+    ("おいおい。",
+    ""),
+    # hey hey.
+
+    ("ち痰ゃんと墲わかってんのかよ。",
+    ""),
+    # Do you know that it's a bit of a sphin?
+
+    ("そそっかしいからな、あいつは。",
+    ""),
+    # That guy is pretty irrelevant.
+
+    ("ち蛯ょっと心配だぜ。◯",
+    ""),
+    # I'm worried about this.◯
+
+]

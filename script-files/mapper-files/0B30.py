@@ -1,0 +1,117 @@
+# Generated array of Japanese text with English comments
+# Source file: 0B30.txt
+
+text_array = [
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４）閨（堰負けた繧後）閨（綾∴香	右	笑い）†",
+    ""),
+    # (Aya∴Ka challenges Aya∴Ka, event 4) (After the weir lost) (Aya∴Ka, right laughs) †
+
+    ("「という墲わけでセ潟リオ、結果は？」",
+    ""),
+    # "So, what's the result, Seragata Rio?"
+
+    ("「はい、綾∴香おｏ様の勝ち、です」",
+    ""),
+    # "Yes, Aya∴Kaoru-sama's victory."
+
+    ("「竅やっりぃー！	４勝目！」",
+    ""),
+    # "Aaaaah! My fourth win!"
+
+    ("「っきし蛯ょー…」†",
+    ""),
+    # "An slut..."
+
+    ("「それでは、恒瘢例、潤ワンポイント激レッスンのコーナー！」",
+    ""),
+    # "Now, here's the corner for constant scarring, Jun's one-point, intense lessons!"
+
+    ("「おう」",
+    ""),
+    # "Ou"
+
+    ("「今厓日はコンビネーシ㏍ョンについて。攻ｍ撃で打ち奄負けるのはコンビネーシ㏍ョンの組み立てが甘いせいよ。いまから教えるのは｢｢」†",
+    ""),
+    # "I'm talking about the combination sign right now. I'm talking about the combination sign. I'm losing with an attack M-shot because the combination sign is not easy to assemble. I'm going to tell you now ""†
+
+    ("その繧後、﨟基本的なコンビネーシ㏍ョンの組み立てについて教寀わった。",
+    ""),
+    # After that, I was taught about the assembly of the basic combination scheme.
+
+    ("コンビネーシ㏍ョン｢｢すな墲わち、技と技の連携により、攻ｍ撃竚やディフェンスは、様々な広がりをみせる。",
+    ""),
+    # Combination Symbion "The combination of techniques and techniques allows for a variety of expansions in attacks and attacks and defenses.
+
+    ("本沫その組み№合寘わせにパターンはないが、すでに完成された有効なコンビネーシ㏍ョンは確実に存在する。†",
+    ""),
+    # There is no pattern in the combination of the original droplets, but there are certainly already completed effective combinations.†
+
+    ("攻ｍ撃のコンビネーシ㏍ョン。",
+    ""),
+    # A combination of attack and M-shots.
+
+    ("ディフェンスのコンビネーシ㏍ョン。",
+    ""),
+    # Defensive combination.
+
+    ("その使いどこｂと有用性を、增わかり竄やすく教えてくれた。†",
+    ""),
+    # It was easy to understand and explains how it is useful.†
+
+    ("「﨟基本をおぼえたら今度はコンビネーシ㏍ョンを福練習してね」",
+    ""),
+    # "After learning the basics, now you should practice the combination scheme."
+
+    ("「諱よし」",
+    ""),
+    # "All the name"
+
+    ("シャシャシャッ！",
+    ""),
+    # Shake it!
+
+    ("オ激レは盾ワンツース潟リーのコンビネーシ㏍ョンを打ってみせる。†",
+    ""),
+    # My Gekira will play the combination of One Two Thousand Rat Lee Shield.†
+
+    ("「なあ、綾∴香」",
+    ""),
+    # "Hey, Aya∴Ka."
+
+    ("「うん？」",
+    ""),
+    # "Yeah?"
+
+    ("「お前、人に烽ものを教える才能熹もあるな」",
+    ""),
+    # "You have the talent to teach people about hot things."
+
+    ("「あら、そう？」†",
+    ""),
+    # "Oh, is that so?"
+
+    ("「この数﨎日で、オ激レ焜もずいぶん繧上達したような気がするぜ」",
+    ""),
+    # "I feel like my surge has improved a lot over the past few days."
+
+    ("「ふふっ、それは生徒がいいからよ」",
+    ""),
+    # "Hehe, that's good for the students."
+
+    ("「生徒じ痰ゃねー諱よ、敵だｂ」",
+    ""),
+    # "Students, you have no phlegm, your name is your enemy."
+
+    ("「敵であり、生徒で烽もあるの」",
+    ""),
+    # "They are enemies, students, and even hotpots."
+
+    ("「………」",
+    ""),
+    # "..."
+
+    ("なんか複雑な気分だな。◯",
+    ""),
+    # It feels kind of complicated.◯
+
+]
