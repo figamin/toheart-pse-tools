@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Great Remy, Scales Event, Outside of School 1) (Choices, Was it understood?)†
 
-    ("「戟レミィ、オ激レの言葉、通じたか？」",
+    ("「戟レミィ、オレの言葉、通じたか？」",
     ""),
     # "Haha Remie, did you understand my words?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Don't worry about it.
 
-    ("わざ墲わざ昔の言葉で言甯わなくて烽も、戟レミィは充分プ潟リティーだぜ」†",
+    ("わざ墲わざ昔の言葉で言甯わなくて烽も、戟レミィは充分プリティーだぜ」†",
     ""),
     # Even though they don't use old words, even if they don't say anything, the wakaremi is sufficiently precious."
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "ah"†
 
-    ("竅坂道を降闕りたとこｂで、オ激レと撃レミィは別れた。",
+    ("坂道を降闕りたとこで、オレと撃レミィは別れた。",
     ""),
     # When I stopped off the hill, I and Gekire and Ekiremi parted ways.
 
-    ("…しかし、志保のрヤツ、人が知迺らないと思ってデタ宴ラ＜メを≠吹き桙込んだのかと思ったら、まと烽もなこと言い竄やがって。",
+    ("…しかし、志保のрヤツ、人が知迺らないと思ってデタラ＜メを≠吹き桙込んだのかと思ったら、まと烽もなこと言いやがって。",
     ""),
     # ...However, Shiho's р guy thought he'd never knew about it, so he blew the banquet out loud, but then he ended up saying something.
 

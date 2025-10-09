@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I came to the front of the stairs.
 
-    ("ち蛯ょうど帰驪るとこｂらしい。†",
+    ("ちょうど帰驪るとこらしい。†",
     ""),
     # Apparently, it's a place where I'm back at Chieyodo.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # What should I do?
 
-    ("Ａ	いっし蛯ょに帰汲うぜ。閨",
+    ("Ａ	いっしょに帰汲うぜ。閨",
     ""),
     # A: I'll return to the Episode.Relax
 

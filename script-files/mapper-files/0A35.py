@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (C: It's phlegm.)†
 
-    ("「じ痰ゃ、オ激レ、＝メシ食いに行くとこだから。またな」†",
+    ("「じ痰ゃ、オレ、＝メシ食いに行くとこだから。またな」†",
     ""),
     # "I'm so excited, I'm going to eat food. See you later."
 

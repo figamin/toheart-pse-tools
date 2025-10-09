@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Okay, I'm currently training at Hakuan.
 
-    ("＝早く繧上達して、せめて葵ち痰ゃんの福練習鰹相闡手が務まるくらいにはなりたいぜ。†",
+    ("＝早く繧上達して、せめて葵ち痰ゃんの練習鰹相闡手が務まるくらいにはなりたいぜ。†",
     ""),
     # =I want to improve quickly and at least become able to practice Aoi Chisho-chan's Fuku training.†
 
-    ("前回に引き続き、その冾日燗も葵ち痰ゃんはすごい意気梛込みで福練習に打ち桙込んだ。◯",
+    ("前回に引き続き、その冾日燗も葵ち痰ゃんはすごい意気梛込みで練習に打ち桙込んだ。◯",
     ""),
     # Continuing from last time, Aoi Chisho-yan also played for Fuku practice with great enthusiasm.◯
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # A 3-minute pounding included, a break for a minute, and then another 3-minute hit.
 
-    ("さっきから、それをр延々と１０回近く繰闌り返している。",
+    ("さっきから、それをр延々と１０回近く繰り返している。",
     ""),
     # I've been repeating it over and over again about 10 times a while ago.
 
-    ("１分間のインターバ泣ルをはさんでいるとはいえ、ものすごい運動量だ。†",
+    ("１分間のインターバルをはさんでいるとはいえ、ものすごい運動量だ。†",
     ""),
     # Even though he is still in a one-minute interval cry, he is still extremely exercised.†
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # Last time, the hot springs increased, making it at a high pace.
 
-    ("い竄や、いくらなんで烽も飛ばしすぎなんじ痰ゃないか？",
+    ("いや、いくらなんで烽も飛ばしすぎなんじ痰ゃないか？",
     ""),
     # It's a bit of a mess, and why are they too many sputums?
 
-    ("こんなハードな福練習を続けたんじ痰ゃ、竅坂下との獅試㍽合謐より先に体を壊しちまうぜ。†",
+    ("こんなハードな練習を続けたんじ痰ゃ、坂下との獅試㍽合謐より先に体を壊しちまうぜ。†",
     ""),
     # I continued to practice so hard fortune, and I'll end up ruining my body before I even had a lion test with Asakashita.†
 
-    ("オ激レは、思ったことをそのまま葵ち痰ゃんに伝えた。",
+    ("オレは、思ったことをそのまま葵ち痰ゃんに伝えた。",
     ""),
     # I told Aoi Chisho-yan exactly what I was thinking.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "I know that I'm skipping overtime and I know that I'm also good at hopping. But I personally would like to hope for a lion test with Yoshie in a way that is fully satisfied.
 
-    ("勝って烽も奄負けて烽も、′して繧後悔しないよう、できるだけのことを竄やっておきたいんです」",
+    ("勝って烽も奄負けて烽も、′して繧後悔しないよう、できるだけのことをやっておきたいんです」",
     ""),
     # I want to do whatever I can to ensure that I won, lose, lose, and don't regret it."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "But..."
 
-    ("「心配しないでください。コンディシ㏍ョンを崩すほどの無摶理はしませんから」",
+    ("「心配しないでください。コンディションを崩すほどの無摶理はしませんから」",
     ""),
     # "Don't worry. I won't be so irrational that it will break down the condition."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("う〜ん、そうまで言甯われち痰ゃし蛯ょうがない。",
+    ("う〜ん、そうまで言甯われち痰ゃしょうがない。",
     ""),
     # Hmm, that's how it is, and there's no way I can say it.
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # Let me make you feel at ease here.
 
-    ("まあ、ペース配分なんかは、素人のオ激レが福口出しすることじ痰ゃないよな。",
+    ("まあ、ペース配分なんかは、素人のオレが口出しすることじ痰ゃないよな。",
     ""),
     # Well, the pace distribution is a must-have for amateurs to have sex with me.
 
-    ("葵ち痰ゃんのことは葵ち痰ゃん自身が一番謾よく墲わかってるだｂうし。",
+    ("葵ち痰ゃんのことは葵ち痰ゃん自身が一番謾よく墲わかってるだうし。",
     ""),
     # Aoi Chisho-chan himself is the best at knowing about Aoi Chisho-chan.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # Also, is it bad to give a positive impression of the fighting spirit that has been spurring?†
 
-    ("オ激レはオ激レで、また前回みたいに、なにか力になれることを…と考えていると｢｢。†",
+    ("オレはオレで、また前回みたいに、なにか力になれることを…と考えていると｢｢。†",
     ""),
     # I'm a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Ah, Aoi Chishonan!"
 
-    ("オ激レは慌ててｋけ寄った。†",
+    ("オレは慌てて駆け寄った。†",
     ""),
     # I hurriedly approached me.†
 
@@ -194,11 +194,11 @@ text_array = [
     ""),
     # Go to the side and reach out to your hand.
 
-    ("「…は、はい。ち蛯ょっと足がすべって…」",
+    ("「…は、はい。ちょっと足がすべって…」",
     ""),
     # "...Yes, yes. My legs are slipping..."
 
-    ("葵ち痰ゃんは苦笑しながらオ激レの手をつかみ、立ち繧上がｂうとした。†",
+    ("葵ち痰ゃんは苦笑しながらオレの手をつかみ、立ち繧上がうとした。†",
     ""),
     # Aoi Chisho-yan grabbed my hand with a wry smile, and stood there and tried to b.†
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Huh...!?"
 
-    ("突然、葵ち痰ゃんはカクンとバ宴ランスを崩し、",
+    ("突然、葵ち痰ゃんはカクンとバランスを崩し、",
     ""),
     # Suddenly, Aoi Chisho-yan breaks down the banquet and
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan hurriedly laughed and laughed.†
 
-    ("「ちっと烽も蛯大苟丈夫には見えねーぞ」",
+    ("「ちっと烽も大苟丈夫には見えねーぞ」",
     ""),
     # "The hot spring doesn't look strong either."
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "just?"
 
-    ("「ち蛯ょっと、脚に力が入逑らなくて…」",
+    ("「ちょっと、脚に力が入逑らなくて…」",
     ""),
     # "I can't put any strength into my legs..."
 
@@ -274,11 +274,11 @@ text_array = [
     ""),
     # Apparently, the muscles, which were exhausted by the over-fusing work, finally stopped listening to Aoi Chisho-yan.
 
-    ("まあ、あれだけ唐酷使すれば無摶理燉もないか。†",
+    ("まあ、あれだけ酷使すれば無摶理燉もないか。†",
     ""),
     # Well, if you use it so much, wouldn't it be impossible to get rid of it?†
 
-    ("「ほらほら、竅やっぱ無摶理しすぎなんだって。気搴持ちばかりが先行して、肝心の体がついてきてないんだよ。しばらくはそのまま休んでたほうがいいな」",
+    ("「ほらほら、やっぱ無摶理しすぎなんだって。気搴持ちばかりが先行して、肝心の体がついてきてないんだよ。しばらくはそのまま休んでたほうがいいな」",
     ""),
     # "Look, you know, it's just too irrational. The only thing that comes to mind is that your energy is on the way, and your body isn't following you. You should just rest for a while."
 
@@ -286,11 +286,11 @@ text_array = [
     ""),
     # "No, no, it's fine."
 
-    ("ついさっき『心配しなくていい』と言った手前か、葵ち痰ゃんはち蛯ょっと意地になってる感じだった。†",
+    ("ついさっき『心配しなくていい』と言った手前か、葵ち痰ゃんはちょっと意地になってる感じだった。†",
     ""),
     # It seemed just before I said, "There's no need to worry," or Aoi Chisho-yan was getting stubborn.†
 
-    ("無摶理に立ち繧上がｂうとする。",
+    ("無摶理に立ち繧上がうとする。",
     ""),
     # He stands unreasonably and tries to b.
 
@@ -326,11 +326,11 @@ text_array = [
     ""),
     # It's good to be serious and straightforward to be a comment, but it's a bad habit to be stubborn at times.
 
-    ("まあ、竅坂下の盾件で、体を動かしていないと不安な気搴持ちになるってのは墲わかるけど。†",
+    ("まあ、坂下の盾件で、体を動かしていないと不安な気搴持ちになるってのは墲わかるけど。†",
     ""),
     # Well, I understand that if you're not moving, you'll end up feeling anxious when you're at the shield of Sakashita.†
 
-    ("「し蛯ょーがねーなぁ。ほら、脚伸ばして」",
+    ("「しょーがねーなぁ。ほら、脚伸ばして」",
     ""),
     # "There's no slut. Come on, stretch your legs."
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "...Eh?"
 
-    ("オ激レはその場にし痰ゃがみ桙込むと、葵ち痰ゃんの足首を揩持って引っ張った。",
+    ("オレはその場にし痰ゃがみ桙込むと、葵ち痰ゃんの足首を揩持って引っ張った。",
     ""),
     # I took the spot and sphemous and sphemous and pulled Aoi Chisho-chan's ankle.
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # and,
 
-    ("「ち蛯ょっとごめん」",
+    ("「ちょっとごめん」",
     ""),
     # "I'm sorry, huh?"
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "...Ah, um... uh, uhh."
 
-    ("葵ち痰ゃんは神妙な表﨣情をｂ浮かべた。",
+    ("葵ち痰ゃんは神妙な表﨣情を浮かべた。",
     ""),
     # Aoi Chisho-yan had a mysterious emotional expression on his face.
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # My knees tremble.†
 
-    ("「てっとり≠早く疲労を回怏復させるには、軽いスト激レッチ運動を行うといいんだよな？」",
+    ("「てっとり≠早く疲労を回怏復させるには、軽いストレッチ運動を行うといいんだよな？」",
     ""),
     # "To get rid of fatigue quickly, it's a good idea to do a light, intense stretching exercise, right?"
 
@@ -386,7 +386,7 @@ text_array = [
     ""),
     # "...Yes, yes."
 
-    ("「体迹育の授業で習った竄やつを竄やって竄やるよ。まずはｋ伸させっから、力抜いて」",
+    ("「体迹育の授業で習ったやつをやってやるよ。まずは駆伸させっから、力抜いて」",
     ""),
     # "You'll tamper with the things you learned in physical education classes and tamper with them. First, let them stretch, then relax."
 
@@ -398,11 +398,11 @@ text_array = [
     ""),
     # Slowly pull the legs and stretch them out.
 
-    ("真っ直ぐ伸ばしたとこｂで、足の裏に手を魔当てて、爪謦先のほうをぐいっと烽内側に押す。",
+    ("真っ直ぐ伸ばしたとこで、足の裏に手を魔当てて、爪謦先のほうをぐいっと烽内側に押す。",
     ""),
     # With the straight stretched b, put your hand on the sole of your foot and press the tip of the claws inside.
 
-    ("こうするとアキ激レス腱とふくらはぎの筋肉が伸びる。",
+    ("こうするとアキレス腱とふくらはぎの筋肉が伸びる。",
     ""),
     # This will help the Akira-risten tendon and calf muscles to stretch.
 
@@ -410,7 +410,7 @@ text_array = [
     ""),
     # "...Ahh."
 
-    ("葵ち痰ゃんはち蛯ょっと辛そうな顔で小さく息を漏逖らした。†",
+    ("葵ち痰ゃんはちょっと辛そうな顔で小さく息を漏逖らした。†",
     ""),
     # Aoi Chisho-chan's face looked sad and let out a small breath.†
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # Bend and stretch it out.
 
-    ("１０回ぐらいｋ伸運動を繰闌り返してから、さっきと同じように軽く指謗先を押す。",
+    ("１０回ぐらい駆伸運動を繰り返してから、さっきと同じように軽く指謗先を押す。",
     ""),
     # Repeat the k extension movement about 10 times, then lightly press the finger slander as before.
 
@@ -454,11 +454,11 @@ text_array = [
     ""),
     # "Ah!"
 
-    ("「マッサージして竄やｂう」",
+    ("「マッサージしてやう」",
     ""),
     # "Massage and tamper with it"
 
-    ("オ激レは葵ち痰ゃんのふくらはぎを揉み始めた。†",
+    ("オレは葵ち痰ゃんのふくらはぎを揉み始めた。†",
     ""),
     # I started rubbing the calves of Aoi Chisho-chan.†
 
@@ -470,7 +470,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan looks troubled.
 
-    ("「まあまあ、じっとしてなって。マッサージはオ激レの特技のひとつなんだから」",
+    ("「まあまあ、じっとしてなって。マッサージはオレの特技のひとつなんだから」",
     ""),
     # "Okay, stay still. Massage is one of my specialties."
 
@@ -514,7 +514,7 @@ text_array = [
     ""),
     # Shiatsu on the soles of your feet with your thumb.†
 
-    ("最燕初のうちは緊張してか、固くなっていた葵ち痰ゃんだったが、だんだん鰍リ宴ラックスしてきたのか、体から要逞らない力が抜けてきた。",
+    ("最燕初のうちは緊張してか、固くなっていた葵ち痰ゃんだったが、だんだん鰍リラックスしてきたのか、体から要逞らない力が抜けてきた。",
     ""),
     # When I was in the first place, Aoi Chisho-chan was getting stiff, perhaps because she was nervous, but perhaps as she was slowly getting closer to the banquet, the unwanted strength of her body began to disappear.
 
@@ -526,7 +526,7 @@ text_array = [
     ""),
     # While I was doing the massage like this, Aoi Chisho-chan didn't want to let go, and the hot guy had to take a break.†
 
-    ("諱よーし、だったらち蛯ょうどいいぜ。",
+    ("諱よーし、だったらちょうどいいぜ。",
     ""),
     # Okay, then I'm fine with that.
 
@@ -534,7 +534,7 @@ text_array = [
     ""),
     # Let's continue as much as possible and then take a little break from this incompetent and get a hot spring from this incompetent worker.
 
-    ("という墲わけで、オ激レは本格的にマッサージに取闔り組み始めた。†",
+    ("という墲わけで、オレは本格的にマッサージに取闔り組み始めた。†",
     ""),
     # So, my gei-le began to seriously start working on massages.†
 
@@ -542,7 +542,7 @@ text_array = [
     ""),
     # Crack and steamed hot springs and steamed hot springs...
 
-    ("「…あ、あの、せんぱい、もうそｂそｂ…」",
+    ("「…あ、あの、せんぱい、もうそそ…」",
     ""),
     # "...Ah, um, supper, it's already b..."
 
@@ -570,7 +570,7 @@ text_array = [
     ""),
     # "…yes"†
 
-    ("「んじ痰ゃあ、もうち蛯ょっとして竄やｂう」",
+    ("「んじ痰ゃあ、もうちょっとしてやう」",
     ""),
     # "Ah, I'll tamper with it as a slut."
 
@@ -586,7 +586,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan let out a small cry.†
 
-    ("「こんな程度のことしかして竄やれねーけど、できるだけ葵ち痰ゃんの力になって竄やりたいんだよな、オ激レ」",
+    ("「こんな程度のことしかしてやれねーけど、できるだけ葵ち痰ゃんの力になってやりたいんだよな、オレ」",
     ""),
     # "I can't do anything like this, but I want to use the power of Aoi Chishonan as much as possible, I'm extremely excited."
 
@@ -594,12 +594,12 @@ text_array = [
     ""),
     # "...Identity Senpai"†
 
-    ("「だから、もうしばらくの間、こう竄やって、オ激レの好きにさせといてくれよ」",
+    ("「だから、もうしばらくの間、こうやって、オレの好きにさせといてくれよ」",
     ""),
     # "So, for a while, please tamper with this and let me do what I want."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「な？」†",

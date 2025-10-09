@@ -2,7 +2,7 @@
 # Source file: 049F.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階３）閨（選択綜	竅やめる）†",
+    ("（志保	回秤数イベント	１階３）閨（選択綜	やめる）†",
     ""),
     # (Shiho Scales Event, 1st floor 3) (Stop Selection)†
 

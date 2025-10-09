@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri° Kaku Scales Event 2F LV3)Seri (Carrior 1)†
 
-    ("教室を出たとこｂで、＠栖瑞謳先輩にｉった。",
+    ("教室を出たとこで、＠栖瑞謳先輩にｉった。",
     ""),
     # When I left the classroom, I got to @Sumi-Senpai-senpai.
 
@@ -15,7 +15,7 @@ text_array = [
     # "Sir, O-san, you're tired now, even a day after the sun is ready."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「今厓日燗もいい天気だねぇ」",
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Ko-kun, Senpai nodded.
 
-    ("梶相変﨑わらずぼん竄やりしていて、なんとなくつかみどこｂがない。†",
+    ("梶相変﨑わらずぼんやりしていて、なんとなくつかみどこがない。†",
     ""),
     # Kaji Ai Henzaki was messing around, and somehow I couldn't find a way to grab it.†
 
@@ -35,10 +35,10 @@ text_array = [
     # I was thinking that I might give you a fortune telling with Taho Lot again,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え、なに？	今厓日はク宴ラブがある冾日だから、諱よかったら見学にｗませんかって？」",
+    ("「え、なに？	今厓日はクラブがある冾日だから、諱よかったら見学にｗませんかって？」",
     ""),
     # "What, what? The day is the day when the banquet love is here, so if you like, why not take a look lol?"
 
@@ -46,12 +46,12 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("オカ泣ルト研結級の部室に誘嵭われた。†",
+    ("オカルト研結級の部室に誘嵭われた。†",
     ""),
     # I was invited to the club room of Okaryu Ruto Kenyu.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「この間のお約束どおり、ご案煦内しますって？	うーん、そうだなあ」",

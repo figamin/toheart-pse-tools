@@ -2,7 +2,7 @@
 # Source file: 0842.txt
 
 text_array = [
-    ("（戟レミィ	ノベ泣ルシーン）閨（選択綜	そうか）†",
+    ("（戟レミィ	ノベルシーン）閨（選択綜	そうか）†",
     ""),
     # (The novel crying scene) (Selecting) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Is that so...? He's a woman, finally, is she a home country?"
 
-    ("ち蛯ょっと竄寂しい気煖もするな。",
+    ("ちょっと寂しい気煖もするな。",
     ""),
     # Don't even feel lonely and lonely.
 

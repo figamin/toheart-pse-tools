@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「諱先輩、オ激レたち、学校の外じ痰ゃ話燔もさせて烽もらえないのかよぉ〜…」",
+    ("「諱先輩、オレたち、学校の外じ痰ゃ話燔もさせて烽もらえないのかよぉ〜…」",
     ""),
     # "Senior Senpai, we're all serious about you, so why don't you even let us talk about school ex-sex and get some hot topics?"
 
@@ -79,10 +79,10 @@ text_array = [
     # "Dear O-san, before I knew it, it was already this kind of time. So, = hurry to the car ""
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レの顔をじっと見つめる先輩。†",
+    ("オレの顔をじっと見つめる先輩。†",
     ""),
     # Senpai stares at my face.†
 
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # The crimson limousine that Senpai is carrying is in conflict.
 
-    ("オ激レはぼん竄やりとそれを見洛送った。",
+    ("オレはぼんやりとそれを見洛送った。",
     ""),
     # I fumbled and watched it and sent him off.
 
-    ("縺後撃の汲窓から、諱先輩がじっとオ激レを見つめている。",
+    ("縺後撃の汲窓から、諱先輩がじっとオレを見つめている。",
     ""),
     # Senpai Ikegao stared at me from the aftermath of the attack.
 
-    ("悲しげで、竅寂しげな瞳だった。†",
+    ("悲しげで、寂しげな瞳だった。†",
     ""),
     # His eyes were sad and lonely.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Isaac Senpai..."
 
-    ("身分の痰違うオ激レたちは、竅絶対に汲結ばれない運命なのかよぉ…。◯",
+    ("身分の痰違うオレたちは、絶対に汲結ばれない運命なのかよぉ…。◯",
     ""),
     # I wonder if our supernatural beings, who have different phlegms, are destined to never be understood...◯
 

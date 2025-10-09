@@ -10,16 +10,16 @@ text_array = [
     ""),
     # "He's a man who's falling in love with this girl!"
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "See, Senpai."
 
-    ("竅坂下は福眉を歪め、葵ち痰ゃんはびっくりした顔をする。",
+    ("坂下は眉を歪め、葵ち痰ゃんはびっくりした顔をする。",
     ""),
     # Sakashita's Fuku eyebrows twisted, and Aoi Chisho-yan looked surprised.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Ah.
 
-    ("も、もしかして、オ激レ、ドサクサに紛れてとんで烽もねーこと福口膜走ったんじ痰ゃ。†",
+    ("も、もしかして、オレ、ドサクサに紛れてとんで烽もねーこと口膜走ったんじ痰ゃ。†",
     ""),
     # Perhaps it was a really hardy, but it was a bit hard, and the Fukuomolar membrane ran through the air.†
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "...I've heard of it in that sense, so I don't have to worry about it."
 
-    ("竅坂下がぎこちなく苦笑する。",
+    ("坂下がぎこちなく苦笑する。",
     ""),
     # Asakashita smiles awkwardly and wryly.
 
-    ("オ激レは葵ち痰ゃんを見た。",
+    ("オレは葵ち痰ゃんを見た。",
     ""),
     # I saw Aoi Chisho-chan.
 
@@ -63,18 +63,18 @@ text_array = [
     # "...Ah."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("葵ち痰ゃんは目をそらすようにｘいた。",
     ""),
     # Aoi Chisho-chan looked away.
 
-    ("竅や、竅やばっ。†",
+    ("や、やばっ。†",
     ""),
     # I'm sorry, I'm insane.†
 
-    ("「ご、′解すんな。オ激レが宸惚鼾れたって言ってんのは、この子の、努力と根性に宸惚鼾れたって意味であってだな｢｢」",
+    ("「ご、′解すんな。オレが宸惚鼾れたって言ってんのは、この子の、努力と根性に宸惚鼾れたって意味であってだな｢｢」",
     ""),
     # "Don't understand. When I say I'm in love with her, it means that she was deeply moved by this girl's efforts and determination. ""
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "So no one has heard of that."
 
-    ("竅坂下がボソ潟リと言う。†",
+    ("坂下がボソリと言う。†",
     ""),
     # The story goes, and the slugs are called slugs.†
 
-    ("「諱ようするに、禔練習に打ち桙込む彼濫女の薰情熱は、オ激レが宸惚鼾れ桙込むぐらいに一生恊懸命だってことでだな…」",
+    ("「諱ようするに、禔練習に打ち桙込む彼濫女の薰情熱は、オレが宸惚鼾れ桙込むぐらいに一生恊懸命だってことでだな…」",
     ""),
     # "In other words, the passion of the overwhelmed women who practice training means that they've been working so hard that I'm so passionate about my intense love..."
 
-    ("「…增わ、增わかった、增わかった墲わよ」",
+    ("「…わ、わかった、わかった墲わよ」",
     ""),
     # "...I'm gonna get it, I'm gonna get it, I'm gonna get it."
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "sorry…"
 
-    ("オ激レは頭を下げて、ひとこと謝った。",
+    ("オレは頭を下げて、ひとこと謝った。",
     ""),
     # I bowed my head and apologized.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # There's no excuses.
 
-    ("オ激レのくだらない、ついうっかりが原因だ。",
+    ("オレのくだらない、ついうっかりが原因だ。",
     ""),
     # It's because of my super stupid, silly, inadvertently.
 
@@ -27,7 +27,7 @@ text_array = [
     # Even if Senpai got angry, no matter what, he can't say back.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩が一煦歩、前に出た。",
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # Slowly lift your hands up.
 
-    ("叩かれたってし蛯ょうがない。",
+    ("叩かれたってしょうがない。",
     ""),
     # There's no ecstasy, even though I've been criticized.
 
-    ("それ鰍相梠応のことを、オ激レはしたんだから。",
+    ("それ鰍相梠応のことを、オレはしたんだから。",
     ""),
     # That's because I did a lot of attention.
 
-    ("で烽も先輩は、オ激レを叩いたりはしなかった。†",
+    ("で烽も先輩は、オレを叩いたりはしなかった。†",
     ""),
     # And Ka-senpai didn't even hit me with any harsh criticism.†
 
@@ -55,10 +55,10 @@ text_array = [
     # Stroke...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩はオ激レの頭を優しくなでてくれた。",
+    ("諱先輩はオレの頭を優しくなでてくれた。",
     ""),
     # Senpai gently stroked my head.
 
@@ -67,10 +67,10 @@ text_array = [
     # "See, Senpai, why?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ？	なにか悲しいことがあったのですかって？	なに言ってんだよ。オ激レは…」†",
+    ("「えっ？	なにか悲しいことがあったのですかって？	なに言ってんだよ。オレは…」†",
     ""),
     # "Huh? Did something sad happen? What are you talking about? I'm so excited..." †
 
@@ -79,7 +79,7 @@ text_array = [
     # Stroke...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「もう悲しい顔はしないでください…って？」",
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "See, Senpai..."†
 
-    ("オ激レは罪悪感で胸がいっぱいになった。",
+    ("オレは罪悪感で胸がいっぱいになった。",
     ""),
     # My heart was filled with guilt.
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # When I said that, Senpai Nodded and pulled out.
 
-    ("オ激レは心のなかで、もう一度、ごめん…と先輩に謝った。†",
+    ("オレは心のなかで、もう一度、ごめん…と先輩に謝った。†",
     ""),
     # In my heart, I apologized to my senior again, saying, "I'm sorry."†
 

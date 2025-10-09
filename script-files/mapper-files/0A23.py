@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("オ激レは手を繧上げて別れた。◯",
+    ("オレは手を繧上げて別れた。◯",
     ""),
     # I lifted my hands up and parted ways.◯
 

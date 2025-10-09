@@ -22,11 +22,11 @@ text_array = [
     ""),
     # It's easy to feel at ease because there's no sense of hardship in Hayashi Gang, but there are many situations where you can't help but look at the results.†
 
-    ("チャャイムの№合図で、みんな一斉に竄問阮題用落を裏返す。",
+    ("チャャイムの№合図で、みんな一斉に問題用落を裏返す。",
     ""),
     # At Chaim's No. signal, everyone turns the questionnaire all at once.
 
-    ("ざっと目を通す段階でチンプンカンプンなとこｂがないのは曹国鼾語のいいとこｂだ。",
+    ("ざっと目を通す段階でチンプンカンプンなとこがないのは曹国鼾語のいいとこだ。",
     ""),
     # The good thing about Cao Guo Gong is that there is no b-throat b-throat b-throat when you look through it.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # I couldn't get a message and it ended.
 
-    ("これでよう竄やく、全咜日程終了…っと。†",
+    ("これでようやく、全咜日程終了…っと。†",
     ""),
     # This is how it's all about to end, and the whole story schedule is over...†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "What did you think? Chishunya?"
 
-    ("あかりが竄やってきた。",
+    ("あかりがやってきた。",
     ""),
     # Akari has come to tamper with it.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "...Yeah, honestly."
 
-    ("Ａ	バッチ潟リってとこかな。閨",
+    ("Ａ	バッチリってとこかな。閨",
     ""),
     # A: I think it's a big latitude.Relax
 

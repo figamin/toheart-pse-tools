@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Saturday, 15th March) (2nd Weir Radio) (2nd Weir Radio) (2nd Day of the Cryptom Final Test) (2nd Day of the Cryptom Exam Exam) (2nd Event) †
 
-    ("明纐後卲日はグ宴ラマーと化学。",
+    ("明纐後卲日はグラマーと化学。",
     ""),
     # After the day of the year, there was a gland and chemistry.
 
-    ("竅やっぱ撃レミィは母装国鼾語だけにグ宴ラマー楽汪勝なんだｂうな。",
+    ("やっぱ撃レミィは母装国鼾語だけにグラマー楽汪勝なんだうな。",
     ""),
     # After all, Geki Remie is a mother-made Korean language, so it's Gubanquet Lama's lewangsheng.
 
-    ("体熨もグ宴ラマーだしな。",
+    ("体熨もグラマーだしな。",
     ""),
     # The body gift is also a banquet lamar.
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # ...That's ridiculous.†
 
-    ("まあ、オ激レ焜もオ激レなりにがんばるとするか。",
+    ("まあ、オレ焜もオレなりにがんばるとするか。",
     ""),
     # Well, I think I'll try my best as well.
 
-    ("オ激レは机にｌかった。†",
+    ("オレは机にｌかった。†",
     ""),
     # I was on the desk.†
 
-    ("ち蛯ょっと竄寂しくないか。",
+    ("ちょっと寂しくないか。",
     ""),
     # Isn't it lonely to tamper with it?
 

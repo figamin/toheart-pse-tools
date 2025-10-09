@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Golden Week starts from Mingshuun Day.
 
-    ("だけど、とて烽もｂ浮かれる気分じ痰ゃない。†",
+    ("だけど、とて烽も浮かれる気分じ痰ゃない。†",
     ""),
     # But even hottering feels like it's a blast.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # All that's left is to sleep.
 
-    ("意識が唐遠くなっていく。◯",
+    ("意識が遠くなっていく。◯",
     ""),
     # My consciousness is getting further away.◯
 

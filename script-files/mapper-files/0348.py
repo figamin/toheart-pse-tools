@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko, 1st time in favorability event) (Continued from Chosenso ABCD) (Continued from Chosenso AB) †
 
-    ("磨喧寥騒のなかで、",
+    ("喧寥騒のなかで、",
     ""),
     # Amidst the hustle and bustle,
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I heard the sound of a chair.
 
-    ("なんとなくオ激レは目をｌけた。†",
+    ("なんとなくオレは目をｌけた。†",
     ""),
     # For some reason, my eyes fell on him.†
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # The noise was so loud it felt like it had finally come to light.
 
-    ("竅やっぱり委員長だ。",
+    ("やっぱり委員長だ。",
     ""),
     # He's the chairman after all.
 
-    ("ク宴ラスの連中を高注意する気だな。",
+    ("クラスの連中を高注意する気だな。",
     ""),
     # I'm going to be very careful about the people at the Crowd.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "...Ah, huh?"
 
-    ("委員長は机の繧上の竄問阮題集とペンケースを手にすると、なに烽も言甯わず、すたすたと入闢り福口のほうへと烽歩いて行った。",
+    ("委員長は机の繧上の問題集とペンケースを手にすると、なに烽も言甯わず、すたすたと入闢り口のほうへと烽歩いて行った。",
     ""),
     # When the chairman picked up a collection of questions on the table and a pen case, he didn't say anything about it, and walked towards Fukuguchi without asking anything.
 
-    ("｢｢ガ宴ラッ…",
+    ("｢｢ガラッ…",
     ""),
     # "Gabanquet Ra...
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "?"
 
-    ("トイ激レにで烽も行くのかな？",
+    ("トイレにで烽も行くのかな？",
     ""),
     # I wonder if he'll also go to Toy Gekirei?
 
-    ("い竄や、だったらお勉強セットを揩持っていく意味がないよな。",
+    ("いや、だったらお勉強セットを揩持っていく意味がないよな。",
     ""),
     # If that's the case, there's no point in bringing the study set with you.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # So phlegm, where are you going?†
 
-    ("オ激レは委員長の繧後を追って廊下に出た。",
+    ("オレは委員長の繧後を追って廊下に出た。",
     ""),
     # I followed the chairman and headed out into the hallway.
 
@@ -91,7 +91,7 @@ text_array = [
     # He called out to the chairman's backstreet as he walked in front of him.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("一度目は無許視。",
@@ -102,12 +102,12 @@ text_array = [
     ""),
     # "Hey, Chairman."
 
-    ("二度目でよう竄やく立ち止まると、委員長はこっちを振關り返った。†",
+    ("二度目でようやく立ち止まると、委員長はこっちを振關り返った。†",
     ""),
     # I stopped for the second time, and the chairman shouted back.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「どこ行くんだよ」",
@@ -126,19 +126,19 @@ text_array = [
     ""),
     # "Is the cursive library?"
 
-    ("「教室はうるさて集薯できへんから、図草書室でするん竄や」",
+    ("「教室はうるさて集薯できへんから、図草書室でするんや」",
     ""),
     # "The classrooms are noisy and can't gather together, so you can't do it in the cursive library."
 
-    ("閨手にした竄問阮題集をオ激レに見せる。†",
+    ("閨手にした問題集をオレに見せる。†",
     ""),
     # I'll show you a collection of silly questions I've been holding in my hands.†
 
-    ("「增わざ墲わざ図草書室なんか行くことねーだｂ。それよりク宴ラス委員長なんだから、ビシッとみんなを高注意すり痰ゃいいじ痰ゃねーか」",
+    ("「わざ墲わざ図草書室なんか行くことねーだ。それよりクラス委員長なんだから、ビシッとみんなを高注意すり痰ゃいいじ痰ゃねーか」",
     ""),
     # "I don't have to go to the cursive library on purpose. I'm more of a banquet chairperson, so I'm fine with a lot of attention to everyone."
 
-    ("このオ激レが言うなって感じだけど、まあ、この際それはおいとこう。",
+    ("このオレが言うなって感じだけど、まあ、この際それはおいとこう。",
     ""),
     # I don't think this is what I'm saying, but I'll leave that to you at this point.
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # He let out a sloppy breath.
 
-    ("「自習のときくらい、みんなの好きにさせたらええ竄やないの。",
+    ("「自習のときくらい、みんなの好きにさせたらええやないの。",
     ""),
     # "It's fine if you let everyone do what they want, like when studying on your own.
 
-    ("騒ぐん烽も勉強するん烽も汲結局個人の竄問阮題竭やｂ？」",
+    ("騒ぐん烽も勉強するん烽も汲結局個人の問題竭や？」",
     ""),
     # Make a fuss, study, and even learn, and then take it all together, and in the end, it's a question of personal tactics and b?”
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Hey hey, is the chairman so irresponsible?"
 
-    ("「ク宴ラスの委員長なんて、ただの便風係竚や。そんな蛯大層な烽もん竄やない」",
+    ("「クラスの委員長なんて、ただの便風係竚や。そんな大層な烽もんやない」",
     ""),
     # "The chairman of the Crown Rath is just a commuter. It's not a huge amount of tampering."
 
@@ -183,7 +183,7 @@ text_array = [
     # With that in mind, the chairman turned his back and walked over to the cursive library.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なんなんだよ。",

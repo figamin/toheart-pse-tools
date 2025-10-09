@@ -2,31 +2,31 @@
 # Source file: 0B42.txt
 
 text_array = [
-    ("（綾∴香	エンディング）閨（選択Ｂ	オ激レの家於に	の続き）†",
+    ("（綾∴香	エンディング）閨（選択Ｂ	オレの家於に	の続き）†",
     ""),
     # (Aya∴Ka ending) (Continued from Selection B, Ogere no Ie Oni)†
 
-    ("「一生オ激レの家於になれ！」",
+    ("「一生オレの家於になれ！」",
     ""),
     # "Become my house forever!"
 
-    ("「い竄や」",
+    ("「いや」",
     ""),
     # "It's tampering."
 
-    ("身熕もふた烽もない断闥り福方だな。†",
+    ("身熕もふた烽もない断闥り方だな。†",
     ""),
     # It's a completely unfortunate way of fortune with no physical or extraordinary spirit.†
 
-    ("「なんで烽も言うこと聞くって約束だｂーが」",
+    ("「なんで烽も言うこと聞くって約束だーが」",
     ""),
     # "Why did you promise to listen to what you're saying, b?"
 
-    ("「度が過ぎてるでし蛯ょ」",
+    ("「度が過ぎてるでしょ」",
     ""),
     # "It's too high, ecchi."
 
-    ("「度なんてｌめてねーだｂ」†",
+    ("「度なんてｌめてねーだ」†",
     ""),
     # "I don't have to be too much lb" †
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "No, no rebellion."
 
-    ("「言うこと聞くのはひとつだけでし蛯ょ」",
+    ("「言うこと聞くのはひとつだけでしょ」",
     ""),
     # "There's only one thing to listen to."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "That's how it is."
 
-    ("「あ、竅やっぱ、竅やめる墲わ」†",
+    ("「あ、やっぱ、やめる墲わ」†",
     ""),
     # "Ah, after all, I'm going to stop it" †
 

@@ -10,11 +10,11 @@ text_array = [
     ""),
     # The 3rd day of the Lion Month, Tuesday.
 
-    ("今厓日はバッチ潟リ目が覚めた。",
+    ("今厓日はバッチリ目が覚めた。",
     ""),
     # I woke up now on the day.
 
-    ("また寝坊して、志保の竄やつにあーだこーだと言甯われるのはゴ＜メンだからな。",
+    ("また寝坊して、志保のやつにあーだこーだと言甯われるのはゴ＜メンだからな。",
     ""),
     # It's a shame that he overslept again and is criticized by Shiho's tampering with him.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Go lol"
 
-    ("つって烽も、家にはオ激レ以外、誰熬もいないんだよな。◯",
+    ("つって烽も、家にはオレ以外、誰熬もいないんだよな。◯",
     ""),
     # So there's no one in the house except for me.◯
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Akari said as she walked along the hot road.
 
-    ("「また寝坊してたら蛯大変だと思って、今厓日はち蛯ょっと≠早めに家を出てきたんだよ」†",
+    ("「また寝坊してたら大変だと思って、今厓日はちょっと≠早めに家を出てきたんだよ」†",
     ""),
     # "I thought it would be a pain if I overslept again, so I left the house early on the day."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Yeah. Great, great."
 
-    ("あかりはニッコ潟リ笑って言った。†",
+    ("あかりはニッコリ笑って言った。†",
     ""),
     # Akari said with a chuckle.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Perhaps because of that, I feel like the red hotpot has always been getting more and more hotpots.†
 
-    ("「とこｂで、ち痰ゃん」",
+    ("「とこで、ち痰ゃん」",
     ""),
     # "At b, there's a sphin."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Ugh, that's it.
 
-    ("そうい竄や昨厓日、ち痰ゃんとひとりで食うとか約束したっけ。",
+    ("そういや昨厓日、ち痰ゃんとひとりで食うとか約束したっけ。",
     ""),
     # I wonder if he promised to eat it on his own on that day, and last day.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "ah…"
 
-    ("「食べてきてないんでし蛯ょ？」",
+    ("「食べてきてないんでしょ？」",
     ""),
     # "I haven't eaten it, slut?"
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # To put it simply, Akari laughed,
 
-    ("「し蛯ょうがないなあ」",
+    ("「しょうがないなあ」",
     ""),
     # "There's no shii."
 
-    ("なに竄やらバッグのファスナーを開けた。",
+    ("なにやらバッグのファスナーを開けた。",
     ""),
     # I opened the zipper on my bag by doing something.
 
@@ -147,7 +147,7 @@ text_array = [
     # Yes, eat it"†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("『どうせこうなると思って…』という発言に引っかかる烽ものを感じたが、目の前のブツがうまそうだったので、とりあえず受け取って、禔口にすることにした。†",
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # Akari smiled with satisfaction.†
 
-    ("「竅やっぱり朝はち痰ゃんと食べないとね」",
+    ("「やっぱり朝はち痰ゃんと食べないとね」",
     ""),
     # "I've got to eat it in the morning with a bit of a sphin.
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "Hahaha..."
 
-    ("サンドイッチにかぶりつくオ激レをあかりは嬉しそうに眺めている。†",
+    ("サンドイッチにかぶりつくオレをあかりは嬉しそうに眺めている。†",
     ""),
     # Akari happily watches as she bites into the sandwich.†
 
-    ("「なあ、ち蛯ょっと聞くけどよ」",
+    ("「なあ、ちょっと聞くけどよ」",
     ""),
     # "Hey, I'll listen to it."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「もしオ激レがち痰ゃんと朝£メシ食ってきたら、これ、どうするつ烽もりだったんだ？」",
+    ("「もしオレがち痰ゃんと朝£メシ食ってきたら、これ、どうするつ烽もりだったんだ？」",
     ""),
     # "If I had eaten a meal for breakfast with a sputum that was very prone to sputum, what was this a hot spring?"
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "What are you going to do..., ummm, come on?"
 
-    ("「つーことは、お前はつまり、オ激レが食ってこないことを確信してたって墲わけだ」",
+    ("「つーことは、お前はつまり、オレが食ってこないことを確信してたって墲わけだ」",
     ""),
     # "What's more, you're just convinced that my veteran wouldn't eat."
 
@@ -219,22 +219,22 @@ text_array = [
     # "Yeah, well, maybe that's what happens."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「どうしたの？」",
     ""),
     # "what happened?"
 
-    ("「い竄や…」",
+    ("「いや…」",
     ""),
     # "It's tampering..."
 
-    ("あかりの予想どおりに行動してしまう自分に、艨我ながらち蛯ょっとムカつきを覚えた。†",
+    ("あかりの予想どおりに行動してしまう自分に、艨我ながらちょっとムカつきを覚えた。†",
     ""),
     # I was so annoyed that I was acting as Akari expected.†
 
-    ("「諱よし、增わかった。明坙日からは竄絶対に自分で朝£メシ食うようにする」",
+    ("「諱よし、わかった。明坙日からは絶対に自分で朝£メシ食うようにする」",
     ""),
     # "Okay, I understand. From the Ming Shun Day, I will definitely try to eat my own meals."
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「どうせ言ってるだけだと思ってんだｂ？」",
+    ("「どうせ言ってるだけだと思ってんだ？」",
     ""),
     # "You think you're just saying it anyway b?"
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "...Huh?"
 
-    ("「そう思ったｂ？」",
+    ("「そう思った？」",
     ""),
     # "Did you think so?"
 
@@ -274,15 +274,15 @@ text_array = [
     ""),
     # "A little bit..."
 
-    ("オ激レはちっと繧舌打ちした。†",
+    ("オレはちっと繧舌打ちした。†",
     ""),
     # My heart started clicking my tongue a little.†
 
-    ("「意地で烽も食ってきて竄やる」",
+    ("「意地で烽も食ってきてやる」",
     ""),
     # "I'm stubborn and I'll eat some hot pot and tamper with it."
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
@@ -294,7 +294,7 @@ text_array = [
     ""),
     # Akari nodded with a small laugh.
 
-    ("オ激レは烽もう一度纉舌打ちし、サンドイッチをほおばった。†",
+    ("オレは烽もう一度纉舌打ちし、サンドイッチをほおばった。†",
     ""),
     # My geira clicked my tongue again and sniffed the sandwich.†
 
@@ -310,11 +310,11 @@ text_array = [
     ""),
     # "That's right. It would be a relief if the hot springs would come out on time like the ones right now."
 
-    ("「悪うござい竄やしたね」†",
+    ("「悪うございやしたね」†",
     ""),
     # "You're so sorry."
 
-    ("「世話のかかる子を揩持つと蛯大変だよ」",
+    ("「世話のかかる子を揩持つと大変だよ」",
     ""),
     # "It's difficult to hold a child who needs to be cared for."
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # "Uhh..."
 
-    ("「ったくよ、朝っぱらからひとをおち蛯ょくり竄やがっ｢｢」†",
+    ("「ったくよ、朝っぱらからひとをおちょくりやがっ｢｢」†",
     ""),
     # "It's a shame, I've been stolen from the morning, """†
 
@@ -358,19 +358,19 @@ text_array = [
     ""),
     # A head-on collision was followed by last day.
 
-    ("また烽も竄やオ激レは目の前を烽歩いていた翌女生徒にぶつかってしまった。†",
+    ("また烽もやオレは目の前を烽歩いていた翌女生徒にぶつかってしまった。†",
     ""),
     # Also, the next day I bumped into a female student who was walking in front of me.†
 
-    ("諱よｂめきながら烽も必死に揩持ちこたえるオ激レ、なんのｒ抗熏もなく地面に転ぶ翌女生徒。",
+    ("諱よめきながら烽も必死に揩持ちこたえるオレ、なんのｒ抗熏もなく地面に転ぶ翌女生徒。",
     ""),
     # I was so excited that even the hottie held back, and the next female student fell on the ground without any urges.
 
-    ("「增わ、增わりぃ、ごめん、蛛大苟丈夫か？	…って、閨あれ？」†",
+    ("「わ、わりぃ、ごめん、蛛大苟丈夫か？	…って、閨あれ？」†",
     ""),
     # "Ah, I'm sorry, are you sturdy, are you sturdy? ...What, huh?"
 
-    ("転んだまま顔を繧上げ、じぃーっとこっちを見つめる翌女生徒は、なんと偶然に烽も昨厓日同じようにオ激レが突き飛ばしたあの人だった。",
+    ("転んだまま顔を繧上げ、じぃーっとこっちを見つめる翌女生徒は、なんと偶然に烽も昨厓日同じようにオレが突き飛ばしたあの人だった。",
     ""),
     # The next female student, who fell and raised her face, looked over at me, was the person who, by chance, had been pushed by my violent force, just like last day.
 
@@ -386,7 +386,7 @@ text_array = [
     ""),
     # Kurusu Mizunao Senpai.
 
-    ("あの名ｖ高いｗ栖瑞グ泣ループのおｏ様だって話だ。†",
+    ("あの名ｖ高いｗ栖瑞グループのおｏ様だって話だ。†",
     ""),
     # It's about O-sama from that famous lol, Suzui Guryu Loop.†
 
@@ -394,15 +394,15 @@ text_array = [
     ""),
     # "Sorry. Umm, are you injured?"
 
-    ("オ激レが聞くと、",
+    ("オレが聞くと、",
     ""),
     # When I heard
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("彼濫女は竄やっぱり昨厓日と同じように、なに烽も嘯答えず、ただ、ぼーっとこっちを見返すだけだった。",
+    ("彼濫女はやっぱり昨厓日と同じように、なに烽も嘯答えず、ただ、ぼーっとこっちを見返すだけだった。",
     ""),
     # The girl was just like last day, but she didn't answer anything, just looked back at me.
 
@@ -418,15 +418,15 @@ text_array = [
     ""),
     # "Anyway, come on, hold on to your hand."
 
-    ("強引にその手を取骼ると、オ激レは倒齠れた先輩を起き繧上がらせた。Å",
+    ("強引にその手を取骼ると、オレは倒齠れた先輩を起き繧上がらせた。Å",
     ""),
     # I forcefully took his hand, and my ecstasy made my defeated senior wake up.Å
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レは先輩の脚を見た。",
+    ("オレは先輩の脚を見た。",
     ""),
     # I looked at my senior's legs.
 
@@ -439,7 +439,7 @@ text_array = [
     # "I see, it looks like there's no injuries."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「足首ひねったとか、そういうことは？」",
@@ -462,7 +462,7 @@ text_array = [
     ""),
     # The overwhelmed woman silently received it.
 
-    ("そして、梶相変﨑わらずなにを考えているのかよく墲わからない目で、じーっとオ激レを見骭る。",
+    ("そして、梶相変﨑わらずなにを考えているのかよく墲わからない目で、じーっとオレを見骭る。",
     ""),
     # Then, Kaji Ai Henzaki couldn't really tell what he was thinking, and he stared at me with his eyes.
 
@@ -470,7 +470,7 @@ text_array = [
     ""),
     # Apparently there's no way he's getting angry.
 
-    ("オ激レの言葉を待っているようだ。†",
+    ("オレの言葉を待っているようだ。†",
     ""),
     # It seems he's waiting for my ecstatic words.†
 
@@ -478,7 +478,7 @@ text_array = [
     ""),
     # "Eh, uh..."
 
-    ("考え烽もまとまらないまま福口を開いたオ激レは、諱取闔りあえず笑って、",
+    ("考え烽もまとまらないまま口を開いたオレは、諱取闔りあえず笑って、",
     ""),
     # I opened my lucky mouth without even thinking about it, and laughed at me,
 
@@ -498,7 +498,7 @@ text_array = [
     ""),
     # "Fateful...?"
 
-    ("と、＠栖瑞謳先輩は、オ激レの言葉を尻辮上がり気味の発音で繰闌り返した。",
+    ("と、＠栖瑞謳先輩は、オレの言葉を尻辮上がり気味の発音で繰り返した。",
     ""),
     # @Sumi-san replied with my intense words with a pronunciation that seemed to be rising.
 
@@ -506,7 +506,7 @@ text_array = [
     ""),
     # This is the first time I heard the voice of a senior.
 
-    ("想恆像してたより、ち蛯ょっと可愛い感じの声だった。†",
+    ("想恆像してたより、ちょっと可愛い感じの声だった。†",
     ""),
     # She had a rather cute voice than a statue of her feelings.†
 
@@ -518,7 +518,7 @@ text_array = [
     ""),
     # At that moment, the bell rang.
 
-    ("「あ、竅やべ。遅薯刻しちまう！	じ痰ゃあオ激レ、もう行くよ。",
+    ("「あ、やべ。遅薯刻しちまう！	じ痰ゃあオレ、もう行くよ。",
     ""),
     # "Ah, that's bad. I'll chop up some late potatoes! I'll go now.
 
@@ -526,7 +526,7 @@ text_array = [
     ""),
     # Senpai, you should hurry up too."
 
-    ("オ激レは軽く手を繧上げ、そう言った。",
+    ("オレは軽く手を繧上げ、そう言った。",
     ""),
     # My heart lightly lifted my hands and said,
 
@@ -538,7 +538,7 @@ text_array = [
     ""),
     # "I bumped into the loin twice, so I'm so sorry."
 
-    ("とだけつけ加え、オ激レは玄関へｌかった。◯",
+    ("とだけつけ加え、オレは玄関へｌかった。◯",
     ""),
     # Just added, I went to the entrance.◯
 
@@ -574,11 +574,11 @@ text_array = [
     ""),
     # He said that and handed me a book with a thick brown cover.
 
-    ("「い竄や、これは｢｢」",
+    ("「いや、これは｢｢」",
     ""),
     # "Tampering, this is ""
 
-    ("オ激レんじ痰ゃないよと言おうとしたが、渡す烽ものを渡すと生徒はさっさとｌこうへ行ってしまった。†",
+    ("オレんじ痰ゃないよと言おうとしたが、渡す烽ものを渡すと生徒はさっさとｌこうへ行ってしまった。†",
     ""),
     # I tried to tell him that I couldn't get any phlegms at all, but when I handed him the hot stuff to give me, the student quickly went to the slumber.†
 
@@ -590,11 +590,11 @@ text_array = [
     ""),
     # "here we go…?"
 
-    ("裏を返してタイト泣ルを見骭ると、渋い烽金色の写植で、",
+    ("裏を返してタイトルを見骭ると、渋い烽金色の写植で、",
     ""),
     # Turning the other way, I looked at the tight crying and saw a cool, golden-colored photo.
 
-    ("『普黒ｍ魔術の蛯大系』增",
+    ("『普黒ｍ魔術の大系』",
     ""),
     # "The Great Black Magic Epi"
 
@@ -602,7 +602,7 @@ text_array = [
     ""),
     # It said Cao.†
 
-    ("掾持ち蛯主はすぐに察しがついた。",
+    ("掾持ち主はすぐに察しがついた。",
     ""),
     # The jeweler immediately understood.
 
@@ -610,11 +610,11 @@ text_array = [
     ""),
     # @It's Suzui.
 
-    ("志保の薰情報によると、あの人はずいぶんとオカ泣ルトにハマってるって話だからな。",
+    ("志保の薰情報によると、あの人はずいぶんとオカルトにハマってるって話だからな。",
     ""),
     # According to Shiho's information, that person is quite addicted to Oka-Crying Rut.
 
-    ("普黒ｍ魔術とくり痰ゃ間瘧違いないだｂう。†",
+    ("普黒ｍ魔術とくり痰ゃ間瘧違いないだう。†",
     ""),
     # The black magic and phlegm must be a little uneasy.†
 
@@ -622,19 +622,19 @@ text_array = [
     ""),
     # I think he plucked down when he hit him.
 
-    ("さっきの生徒はその現鼬場を見ていて、オ激レが獅落としたんだと勘瘧違いしたんだｂ。†",
+    ("さっきの生徒はその現鼬場を見ていて、オレが獅落としたんだと勘瘧違いしたんだ。†",
     ""),
     # The student from earlier was watching the current scene and mistook me thinking that I had fallen off.†
 
-    ("し蛯ょうがねーな。",
+    ("しょうがねーな。",
     ""),
     # There's no essay.
 
-    ("縺後で届けて竄やるか。",
+    ("縺後で届けてやるか。",
     ""),
     # Will they deliver it after it's shaking and tampering with it?
 
-    ("とこｂでｗ栖瑞さんのク宴ラスって、二年のどのク宴ラスだっけ？◯",
+    ("とこでｗ栖瑞さんのクラスって、二年のどのクラスだっけ？◯",
     ""),
     # In this case, lol, which party was Suzui's banquet in his second year?◯
 

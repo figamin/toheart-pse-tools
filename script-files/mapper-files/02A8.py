@@ -2,11 +2,11 @@
 # Source file: 02A8.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（選択綜Ａ	センパイ、ち蛯ょっと待ってて）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（選択綜Ａ	センパイ、ちょっと待ってて）†",
     ""),
     # (Seri° Kaku, Scales, 2F, LV5)Seri (Sei Senpai, wait a moment)†
 
-    ("「增わ、增わりぃっ、ち蛯ょっと待ってて！	オ激レ、止むに止まれぬ魔事諶情があってさ」",
+    ("「わ、わりぃっ、ちょっと待ってて！	オレ、止むに止まれぬ魔事諶情があってさ」",
     ""),
     # "Snatch me, wait a moment! I have a magical attitude that can't stop."
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # So...
 
-    ("「じ痰ゃあ、ち蛯ょっくら行ってくっから」",
+    ("「じ痰ゃあ、ちょっくら行ってくっから」",
     ""),
     # "Ah, I'll go and see you."
 
-    ("苦笑しながらそう言うと、オ激レは手を繧上げ、その場を獅去った。◯",
+    ("苦笑しながらそう言うと、オレは手を繧上げ、その場を獅去った。◯",
     ""),
     # I said with a wry smile, and my hand raised and left the scene.◯
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # ...I think the hot spring has also gotten warmer.
 
-    ("もうこんな季節だし、磨当然か。",
+    ("もうこんな季節だし、当然か。",
     ""),
     # It's already this season, so of course it's fine.
 
-    ("桜の花煢も散っちまったし、これからは逆にどんどん汲暑くなってくんだｂーな。",
+    ("桜の花煢も散っちまったし、これからは逆にどんどん汲暑くなってくんだーな。",
     ""),
     # The cherry blossoms have also fallen, and from now on, it's getting hotter and hotter.
 
@@ -55,7 +55,7 @@ text_array = [
     # I wish the temperature would stop at this level and there was no phlegm.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("うーん、どう烽もさっきから頭のすみっこに、なにかが引っかかってんだよなぁ。",
@@ -82,23 +82,23 @@ text_array = [
     ""),
     # That's right, I've completely forgotten!
 
-    ("あのとき『ち蛯ょっと待ってて』って言ったきりだ。",
+    ("あのとき『ちょっと待ってて』って言ったきりだ。",
     ""),
     # At that time, I just said, "Wait a moment."
 
-    ("竅やべぇっ、すぐに戻逍らねーと！†",
+    ("やべぇっ、すぐに戻逍らねーと！†",
     ""),
     # Oh no, I'll have to go back soon!†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("い竄や、で烽もなあ。",
+    ("いや、で烽もなあ。",
     ""),
     # It's tampering, and there's also hot water.
 
-    ("あれからずいぶん桙時間経っち痰ゃってるし、いくらなんで烽も烽もう帰ってるだｂう。",
+    ("あれからずいぶん桙時間経っち痰ゃってるし、いくらなんで烽も烽もう帰ってるだう。",
     ""),
     # It's been a while since then, and even though it's been awhile, the chicken has already gone home.
 
@@ -107,15 +107,15 @@ text_array = [
     # From here onwards to school, there's quite a distance away from the next day.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("いい竄や、帰汲。†",
+    ("いいや、帰汲。†",
     ""),
     # It's a good idea, I'm back.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("うーん。",
@@ -134,15 +134,15 @@ text_array = [
     ""),
     # "..."†
 
-    ("なに言ってんだよ、オ激レッ！",
+    ("なに言ってんだよ、オレッ！",
     ""),
     # What are you talking about, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 
-    ("『あの、＠栖瑞謳先輩』だからこそ、ずーっと待ってるか烽も知齟れねーんだｂうがッ！",
+    ("『あの、＠栖瑞謳先輩』だからこそ、ずーっと待ってるか烽も知れねーんだうがッ！",
     ""),
     # Because it's "Um @Suizui-san", you've been waiting for so long, and you can't even know about it!
 
-    ("オ激レは全速力で学校へ引き返した。◯",
+    ("オレは全速力で学校へ引き返した。◯",
     ""),
     # I turned back to school at full speed.◯
 
@@ -167,10 +167,10 @@ text_array = [
     # "" "Senior Isao!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("だけど竄やっぱり、諱先輩は、そんな夕髣暮れの廊下でひとり、ぽつんと立ってオ激レを待っていた。†",
+    ("だけどやっぱり、諱先輩は、そんな夕髣暮れの廊下でひとり、ぽつんと立ってオレを待っていた。†",
     ""),
     # But as expected, Senpai Isao stood alone in the hallway at the evening sky, waiting for me to go crazy.†
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "...She's so sweet..."
 
-    ("痛む胸を押さえながら、オ激レが艪ゆっくりと近づくと、諱先輩はあのいつ烽もの調子で『用は烽もうすみましたか？』と言った。",
+    ("痛む胸を押さえながら、オレがゆっくりと近づくと、諱先輩はあのいつ烽もの調子で『用は烽もうすみましたか？』と言った。",
     ""),
     # Holding my aching chest, I slowly approached her, and when I was feeling a little temperament, I was like, "Have you already done something?"' he said.
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Ah, yes..."
 
-    ("うなずくオ激レ。†",
+    ("うなずくオレ。†",
     ""),
     # I nodded and groaned.†
 
@@ -194,11 +194,11 @@ text_array = [
     ""),
     # He waited for me forever.
 
-    ("オ激レがｗ磯翌ﾌを、ずっと…。",
+    ("オレがｗ磯翌ﾌを、ずっと…。",
     ""),
     # I'm super excited lol Isotofu, but forever...
 
-    ("オ激レは罪悪感をぐっとこらえ、言った。",
+    ("オレは罪悪感をぐっとこらえ、言った。",
     ""),
     # I repelled my guilt and said,
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # B Sorry...Relax
 
-    ("Ｃ	う墲わあっ、オ激レは蛯大ばか者だあっ！閨",
+    ("Ｃ	う墲わあっ、オレは大ばか者だあっ！閨",
     ""),
     # C Wow, I'm a huge idiot!Relax
 

@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Shiho Scales Event PS)
 
-    ("（選択綜	ホ宴ラーもの）",
+    ("（選択綜	ホラーもの）",
     ""),
     # (Choosing and banquet)
 
-    ("「オ激レはどっちかっつーとホ宴ラーものかな」",
+    ("「オレはどっちかっつーとホラーものかな」",
     ""),
     # "I wonder if I'm a banquet or something."
 
-    ("「あら、♀遇ね。あたし烽もホ宴ラー、好き」",
+    ("「あら、♀遇ね。あたし烽もホラー、好き」",
     ""),
     # "Oh, I'm treating females. I also like Houhan, too."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Hey. It looks like you are."
 
-    ("オ激レは魔薄笑いをｂ浮かべながら言った。†",
+    ("オレは魔薄笑いを浮かべながら言った。†",
     ""),
     # I said with a crazy smile on my face.†
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "What, that laugh?"
 
-    ("「い竄や、べつに、＝普通の翌女の子がそんなこと言い出したら『変﨑わってるな』とか思うけど、お前に限ってそんなことは思寬わねえなって」",
+    ("「いや、べつに、＝普通の翌女の子がそんなこと言い出したら『変﨑わってるな』とか思うけど、お前に限ってそんなことは思寬わねえなって」",
     ""),
     # "Tampering, I think if the normal girl next day started saying that, I think, 'You're so shaky,' but I'm sure you don't think so."
 
-    ("「つまり、あたしは≠普通じ痰ゃないって言うんでし蛯ょ？」",
+    ("「つまり、あたしは≠普通じ痰ゃないって言うんでしょ？」",
     ""),
     # "In other words, I say that normally, there's no phlegm, ephemeral?"
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Well, in other words"
 
-    ("「そんなの好きずきでし蛯ょーっ」",
+    ("「そんなの好きずきでしょーっ」",
     ""),
     # "I love that kind of thing."
 
-    ("「增わーった墲わーった。けどな、怖いとか気味が悪いとか、＝普通思寬わねえか？」",
+    ("「わーった墲わーった。けどな、怖いとか気味が悪いとか、＝普通思寬わねえか？」",
     ""),
     # "I'm so sad. But you don't think you're scared or creepy, right?!"
 
-    ("「べつにぃ。あんなのｍ闕り物でし蛯ょ」",
+    ("「べつにぃ。あんなのｍ闕り物でしょ」",
     ""),
     # "I'm a bit of a joke like that."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # In that respect, Shiho doesn't seem to be worried.†
 
-    ("「で烽もさ、いまホ宴ラー映謇画って入ってた？	あたし覚えがないんだけど」",
+    ("「で烽もさ、いまホラー映謇画って入ってた？	あたし覚えがないんだけど」",
     ""),
     # "And so, did you have a picture of Hoenra Eiji just in there? I don't remember."
 
-    ("「オ激レ焜も知迺らねえよ。ＣＭとかで烽も見たことねえし…。新錐は入ってねえんじ痰ゃないか」†",
+    ("「オレ焜も知迺らねえよ。ＣＭとかで烽も見たことねえし…。新錐は入ってねえんじ痰ゃないか」†",
     ""),
     # "I don't know about it either. I've never seen a hot spring in commercials or anything like that... There's no new pyramids inside, so there's no phlegm."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Symptoms"†
 
-    ("結局その冾日は映謇画を竄やめ、ふたりでだべりながら帰った。◯",
+    ("結局その冾日は映謇画をやめ、ふたりでだべりながら帰った。◯",
     ""),
     # In the end, they stopped tampering with the Eiji paintings and went home together, drove away.◯
 

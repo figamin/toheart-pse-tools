@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (B Go back as is.)†
 
-    ("なんだか一心不枢乱に勉強してるみたいだ、ジャャマするのは竄やめとこう。",
+    ("なんだか一心不枢乱に勉強してるみたいだ、ジャャマするのはやめとこう。",
     ""),
     # It seems like he's studying in a state of mind and in a state of mind, I'll stop tampering with it.
 
-    ("オ激レはそのまま家に帰った。◯",
+    ("オレはそのまま家に帰った。◯",
     ""),
     # I went straight home.◯
 

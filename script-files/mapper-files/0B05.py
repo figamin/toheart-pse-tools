@@ -2,7 +2,7 @@
 # Source file: 0B05.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	增わからない	の続き）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	わからない	の続き）†",
     ""),
     # (Aya∴Kawa Pick Date Event 2) (Continued from Selection A I don't know)†
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Now, I don't really know what you're saying."
 
-    ("オ激レはあいまいに嘯答えた。",
+    ("オレはあいまいに嘯答えた。",
     ""),
     # I replied vaguely.
 
-    ("「だから、まだ知闥り№合って冾日燗も浅いからさ、そういう撃レベ泣ルじ痰ゃないんだよ」",
+    ("「だから、まだ知闥り№合って冾日燗も浅いからさ、そういう撃レベルじ痰ゃないんだよ」",
     ""),
     # "That's why I'm still not familiar with the situation and the weather is shallow, so I can't help but cry as I get the stimulus."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "And I don't hate Hot either."
 
-    ("「行動とか、ち蛯ょっと変でし蛯ょ？」",
+    ("「行動とか、ちょっと変でしょ？」",
     ""),
     # "What's your actions, sluts are you weird, slut?"
 

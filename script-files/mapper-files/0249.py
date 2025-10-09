@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Oh, you, you, you, you, you, you, you're super long!"
 
-    ("オ激レはきっぱりそう言った。",
+    ("オレはきっぱりそう言った。",
     ""),
     # I said firmly.
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "I'm bored, but what is that?"
 
-    ("オ激レが聞くと、諱先輩は、",
+    ("オレが聞くと、諱先輩は、",
     ""),
     # When I heard, my senior was
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("もしよｂしければ、今厓日これからプールにお誘いしたいのですが、と言ってきた。†",
+    ("もしよしければ、今厓日これからプールにお誘いしたいのですが、と言ってきた。†",
     ""),
     # If it's okay, he said that he would like to invite me to the pool from now on.†
 
@@ -43,18 +43,18 @@ text_array = [
     # "Swimming pool? What is the pool..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「アクアブ泣ルー？	ああ、あの獅去年の暮れにできた竄やつか」†",
+    ("「アクアブルー？	ああ、あの獅去年の暮れにできたやつか」†",
     ""),
     # "Aquabu cried? Ah, that lion was the tampered with at the end of last year?"
 
-    ("氏去年の暮れ、ここから電車で４駅ほど先の場鰹所に、ＡＱＵＡアクア−ＢＬＵＥブ泣ルーという蛯大型の屋煢内プールがオープンした。",
+    ("氏去年の暮れ、ここから電車で４駅ほど先の場鰹所に、ＡＱＵＡアクア−ＢＬＵＥブルーという大型の屋煢内プールがオープンした。",
     ""),
     # At the end of last year, a large pool inside the AQUA Aqua-BLUE Bukyuru opened in the bonito area about four train stops from here.
 
-    ("まだ行ったことはないが、話を聞く限闌り、なかなかゴージャャスでいい感じらしい。",
+    ("まだ行ったことはないが、話を聞く限り、なかなかゴージャャスでいい感じらしい。",
     ""),
     # I've never been there yet, but as far as I can tell from what I'm talking about, it seems to be quite gorgeous and nice.
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # I had always wanted to go there.
 
-    ("諱先輩はそこにオ激レを誘いたいのだという。†",
+    ("諱先輩はそこにオレを誘いたいのだという。†",
     ""),
     # Senpai said that he wanted to invite me to come.†
 
-    ("もちｂん断髓る揩理由はない。",
+    ("もちん断髓る揩理由はない。",
     ""),
     # There is no reason to stop it.
 
-    ("オ激レはすかさずＯＫした。†",
+    ("オレはすかさずＯＫした。†",
     ""),
     # I was immediately OK with my hard work.†
 
@@ -79,19 +79,19 @@ text_array = [
     # "Ah, how many times do you want to wait and where do you want to wait?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「オッケー！	增わかった。",
+    ("「オッケー！	わかった。",
     ""),
     # "Okay! I understand.
 
-    ("んじ痰ゃ、その桙時間にアクアブ泣ルーの前でな」",
+    ("んじ痰ゃ、その桙時間にアクアブルーの前でな」",
     ""),
     # It's a phlegm, and in front of Aquabu's crying in the fox time."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「うん、じ痰ゃ」†",
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # Wow!
 
-    ("なんだかテンシ㏍ョンが繧上がってきたぜ。",
+    ("なんだかテンションが繧上がってきたぜ。",
     ""),
     # The tenshi-chan is somehow rising.
 
-    ("增わはは。",
+    ("わはは。",
     ""),
     # Ha ha.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # I'll eat some burnt fried eggs too.†
 
-    ("という墲わけで、朝食を食い終えたオ激レは、さっそく用意して出かけることにした。",
+    ("という墲わけで、朝食を食い終えたオレは、さっそく用意して出かけることにした。",
     ""),
     # So after finishing breakfast, I decided to prepare it and head out.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # Okay, I got £.
 
-    ("ここがいま、ちまたで人気急繼上昇薯の蛯大型屋煢内プール、アクアブ泣ルーだ。",
+    ("ここがいま、ちまたで人気急繼上昇薯の大型屋煢内プール、アクアブルーだ。",
     ""),
     # This is the place where the large-scale house pool inside the loaf of the rapidly rising popularity of the potatoes is now Aquabu-Kyuru.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # It's really big.
 
-    ("テ激レビとかで烽もバンバンＣＭ竄やってるし、瘁若い竄やつらの人気スポットだ。†",
+    ("テレビとかで烽もバンバンＣＭやってるし、瘁若いやつらの人気スポットだ。†",
     ""),
     # He's also making lots of commercials in dramatic TV dramas, and it's a popular spot for young people who are miraculous.†
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # The parking lot is full of foxes.
 
-    ("まさか、％齠場制限とかしないだｂうな。†",
+    ("まさか、％齠場制限とかしないだうな。†",
     ""),
     # I can't believe they're not going to limit the percentage of space restrictions.†
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # The promised fox time will last about 10 minutes.
 
-    ("まあ、ち蛯ょうどいいくらいだｂう。†",
+    ("まあ、ちょうどいいくらいだう。†",
     ""),
     # Well, it's pretty good.†
 
-    ("それにして烽も、こんなにばかでかい施設を墲常夏状態に保つなんて、ａ高熱粕だけで烽も馬鹿にならねーだｂうなァ。",
+    ("それにして烽も、こんなにばかでかい施設を墲常夏状態に保つなんて、ａ高熱粕だけで烽も馬鹿にならねーだうなァ。",
     ""),
     # And even if you keep such a huge facility in a state of summer, it's not like a hot meal alone to make a fool of the hot water.
 
@@ -222,11 +222,11 @@ text_array = [
     ""),
     # If Gasla is a bag, will the light-heat kasu be cheaper too?†
 
-    ("それからほどなくして、一艾台のタクシーが竄やってきた。",
+    ("それからほどなくして、一艾台のタクシーがやってきた。",
     ""),
     # Soon after that, a taxi at a single train began to come.
 
-    ("道路に竄停車したタクシーから、艨ゆっくりと降闕りたその人は…。",
+    ("道路に停車したタクシーから、艨ゆっくりと降闕りたその人は…。",
     ""),
     # The person slowly descended from a taxi that had stopped on the road...
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "Oh, sir!"
 
-    ("オ激レが手を振って言うと、諱先輩はこっちに気がつき、歩いてきた。†",
+    ("オレが手を振って言うと、諱先輩はこっちに気がつき、歩いてきた。†",
     ""),
     # When I waved my hand, my senior realized this and walked over.†
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # The senior who was in front of me bowed his head and said, "Good morning."
 
-    ("つられてオ激レ焜も、",
+    ("つられてオレ焜も、",
     ""),
     # I was so tempted,
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # I bow my head.†
 
-    ("今厓日の先輩は、シックな感じのブ宴ラウスにベスト姿だ。",
+    ("今厓日の先輩は、シックな感じのブラウスにベスト姿だ。",
     ""),
     # Now, the senior from Hajime looks great in a chic style, Benraus.
 
@@ -271,7 +271,7 @@ text_array = [
     # "As expected of you, O-san. That kind of outfit is really impressive."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は恥ずかしそうにうつむいた。†",
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # "?"
 
-    ("き蛯ょｂき蛯ょｂとま墲わりを見回して、オ激レは言った。",
+    ("きょきょとま墲わりを見回して、オレは言った。",
     ""),
     # I looked around and said, "I'm not going to stop it."
 
@@ -294,7 +294,7 @@ text_array = [
     ""),
     # "Is it just one senior on the day?"
 
-    ("オ激レが聞くと先輩は、はい、とうなずいた。†",
+    ("オレが聞くと先輩は、はい、とうなずいた。†",
     ""),
     # When I heard, my senior nodded, yes.†
 
@@ -303,7 +303,7 @@ text_array = [
     # "What about the annoying old man who is a miraculous tuna?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("今厓日はいません…と先輩。",
@@ -315,7 +315,7 @@ text_array = [
     # "Not there..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	じ痰ゃ、目を垂盗んできたってこと？」",
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # "Great name, phlegm, phlegm, let's swim, Senpai!"
 
-    ("オ激レは先輩の手を取って言った。",
+    ("オレは先輩の手を取って言った。",
     ""),
     # I took my senior's hand and said.
 
@@ -362,7 +362,7 @@ text_array = [
     ""),
     # That's right.
 
-    ("だいたい、あのじじいが、男といっし蛯ょにプールなんて魔許す墲わけない烽もんな。",
+    ("だいたい、あのじじいが、男といっしょにプールなんて魔許す墲わけない烽もんな。",
     ""),
     # It's almost impossible for that old man to forgive a man in a pool with a man.
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # The two entered the mansion.◯
 
-    ("うひ蛯ょ〜っ。",
+    ("うひょ〜っ。",
     ""),
     # Ahhhhh.
 
@@ -386,11 +386,11 @@ text_array = [
     ""),
     # It's really gorgeous.
 
-    ("諱よくあかり竄やｉ史と行った市民プールとはスケールが痰違う。†",
+    ("諱よくあかりやｉ史と行った市民プールとはスケールが痰違う。†",
     ""),
     # The scale of the citizen pool that I often heard is different from the people who went to.†
 
-    ("怐奥には蛯大型のｂモニターがあり、おし痰ゃれな映怏像が流齬れている。",
+    ("怐奥には大型のモニターがあり、おし痰ゃれな映怏像が流齬れている。",
     ""),
     # Behind the scene is a large b-monitor monitor, with images of slutty sluts contradictory.
 
@@ -398,23 +398,23 @@ text_array = [
     ""),
     # A confusing pool.
 
-    ("ウォータース宴ライダー。",
+    ("ウォータースライダー。",
     ""),
     # Waters Banquet Rider.
 
-    ("′こうには洞窟のようになってるとこｂ烽もある。",
+    ("′こうには洞窟のようになってるとこ烽もある。",
     ""),
     # 'There are also b-holes that are like caves.
 
-    ("こり痰ゃすげー竅や。†",
+    ("こり痰ゃすげーや。†",
     ""),
     # The stiff phlegm is amazing.†
 
-    ("最燕初、％齠場料２０００円はｂ高いような気がしたが、£を見骭ると墲わからんで烽もないね。",
+    ("最燕初、％齠場料２０００円は高いような気がしたが、£を見骭ると墲わからんで烽もないね。",
     ""),
     # I felt that the 2,000 yen per car park fee was b-high, but when I looked at £, I couldn't tell the 100% off and there was no hot water.
 
-    ("｢｢と、なんだか烽金を払ったようなことを言いつつ烽も、じつは先輩の揩持ってた優待泊券で入ったから、オ激レは高ロハだった。†",
+    ("｢｢と、なんだか烽金を払ったようなことを言いつつ烽も、じつは先輩の揩持ってた優待泊券で入ったから、オレは高ロハだった。†",
     ""),
     # "I said that I had paid some money, but in fact, I got a discount coupon from my senior, so I was really a high school student.†
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # But Ho is also senior, so it's too late.
 
-    ("まあ、浴女の子だからな、し蛯ょうがないか。",
+    ("まあ、浴女の子だからな、しょうがないか。",
     ""),
     # Well, she's a bathing girl, so there's no essay.
 
@@ -434,11 +434,11 @@ text_array = [
     ""),
     # ...That's what a hot spring, but I don't think it's going to go well either.
 
-    ("きっといｂいｂと｢｢。†",
+    ("きっといいと｢｢。†",
     ""),
     # I'm sure he's a bit buddy and ".†
 
-    ("そのとき、お待たせいたしました、と先輩が竄やってきた。",
+    ("そのとき、お待たせいたしました、と先輩がやってきた。",
     ""),
     # At that time, my senior came to the test, saying, "I've kept you waiting."
 
@@ -454,7 +454,7 @@ text_array = [
     ""),
     # "!"
 
-    ("思寬わず蛯大声を出してしまったオ激レに、諱先輩はち蛯ょっとだけびっくりした。†",
+    ("思寬わず大声を出してしまったオレに、諱先輩はちょっとだけびっくりした。†",
     ""),
     # My senior was surprised at how excited I cried out loud without thinking about it.†
 
@@ -470,7 +470,7 @@ text_array = [
     ""),
     # "Woooo, goodbye, phlegm!"
 
-    ("思寬わずガッツポーズを取骼るオ激レに、諱先輩はまたち蛯ょっとびっくりした。†",
+    ("思寬わずガッツポーズを取骼るオレに、諱先輩はまたちょっとびっくりした。†",
     ""),
     # Senpai was suddenly surprised when I was so excited that I didn't think about it.†
 
@@ -479,7 +479,7 @@ text_array = [
     # "Bikini bikini! And the hot water is also nitrogen!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「浴似㍽合う！	＃人！	か墲わいい！	素敵！」",
@@ -487,7 +487,7 @@ text_array = [
     # "It looks like a bath! #People! It's so lovely! It's so lovely!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("照齒れて、ぽっと顔を赤逅らめる先輩。†",
@@ -511,14 +511,14 @@ text_array = [
     # "Boooo!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	いまのはなんですかって？	鼻剣血が出たっていう鰍リアクシ㏍ョン。",
+    ("「え？	いまのはなんですかって？	鼻剣血が出たっていう鰍リアクション。",
     ""),
     # "Huh? What's it like now? A sardine is said to have blood from the nose sword.
 
-    ("もちｂん本末当は出てないよ」",
+    ("もちん本末当は出てないよ」",
     ""),
     # Mochibun hasn't released any of the ends of the money."
 
@@ -538,7 +538,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「とこｂで、諱先輩って、泳げんの？」",
+    ("「とこで、諱先輩って、泳げんの？」",
     ""),
     # "At the place b, can you swim, Senpai-senpai?"
 
@@ -579,14 +579,14 @@ text_array = [
     # "Isao Senpai"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「あれ、ふつう、泳げるとは言甯わねーんじ痰ゃないかな？	どっちかっつーと、おぼれてるって言ったほうが近いぜ？」",
     ""),
     # "Huh, you can't say you can swim normally, so don't you have to phlegm? It's closer to say you're drowning, right?"
 
-    ("オ激レが言うと、諱先輩は、†",
+    ("オレが言うと、諱先輩は、†",
     ""),
     # When I say that, my senior is
 
@@ -599,10 +599,10 @@ text_array = [
     # He apologized.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ？	で烽も記録は更新しましたって？	前回は３≠メート泣ルだったから、２≠メート泣ル焜も伸びました？」",
+    ("「えっ？	で烽も記録は更新しましたって？	前回は３≠メートルだったから、２≠メートル焜も伸びました？」",
     ""),
     # "Huh? And you've broken the record for Hou too? Last time, it was 3≠mate crying, so 2≠mate crying too has also grown?"
 
@@ -610,11 +610,11 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「オッケー！	んじ痰ゃ今厓日はそれをいっきにプ宴ラス１０≠メート泣ルさせて竄やるよ」†",
+    ("「オッケー！	んじ痰ゃ今厓日はそれをいっきにプラス１０≠メートルさせてやるよ」†",
     ""),
     # "Okay! On the day I'm going to make you cry and tamper with it all at once."
 
-    ("つー增わけで、再びプールへ。",
+    ("つーわけで、再びプールへ。",
     ""),
     # So we headed back to the pool.
 
@@ -630,7 +630,7 @@ text_array = [
     ""),
     # Slurp, slurp...
 
-    ("バタ足の福練習。",
+    ("バタ足の練習。",
     ""),
     # Practice for the banging feet.
 
@@ -642,7 +642,7 @@ text_array = [
     ""),
     # Slurp, slurp...
 
-    ("オ激レは先輩の手を揩持って、艨ゆっくりと繧後撃へ下がる。†",
+    ("オレは先輩の手を揩持って、艨ゆっくりと繧後撃へ下がる。†",
     ""),
     # I held my senior's hand and slowly moved back to the attack afterwards.†
 
@@ -658,7 +658,7 @@ text_array = [
     ""),
     # Slurp, slurp...
 
-    ("諱先輩のか墲わいいお尻がｂ浮いたり沈んだり。†",
+    ("諱先輩のか墲わいいお尻が浮いたり沈んだり。†",
     ""),
     # His beautiful butt, which is probably his senior, is floating or sinking.†
 
@@ -667,7 +667,7 @@ text_array = [
     # "Yes, yes, if possible, put your face on p."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「そうそう」",
@@ -707,7 +707,7 @@ text_array = [
     # "Yes, sputum, once more, shiny ""
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「いいよ、いいよ」",
@@ -726,11 +726,11 @@ text_array = [
     ""),
     # It's getting quite good.
 
-    ("なんとなく蛯大苟丈夫そうだし、ち蛯ょっと手を冾放してみるか。",
+    ("なんとなく大苟丈夫そうだし、ちょっと手を冾放してみるか。",
     ""),
     # It looks like it's tough, so I'll try letting my hands go.
 
-    ("オ激レは先輩の手を冾放す。",
+    ("オレは先輩の手を冾放す。",
     ""),
     # I let go of my senior's hands.
 
@@ -746,7 +746,7 @@ text_array = [
     ""),
     # In a flash, Senpai drowns, sighing and sputum.†
 
-    ("「增わっ、ごめん、ごめん」",
+    ("「わっ、ごめん、ごめん」",
     ""),
     # "Ahhh, sorry, sorry."
 
@@ -754,7 +754,7 @@ text_array = [
     ""),
     # "...App!"
 
-    ("あ墲わててオ激レにしがみつく、諱先輩。",
+    ("あ墲わててオレにしがみつく、諱先輩。",
     ""),
     # Senpai, who clings to me in a hurry.
 
@@ -762,11 +762,11 @@ text_array = [
     ""),
     # I coughed a little.†
 
-    ("「增わ、增わりぃっ、蛛大苟丈夫か？」",
+    ("「わ、わりぃっ、蛛大苟丈夫か？」",
     ""),
     # "B, sir, are you sturdy?"
 
-    ("ち蛯ょっとぎこちなくだが、諱先輩はこくんとうなずいた。",
+    ("ちょっとぎこちなくだが、諱先輩はこくんとうなずいた。",
     ""),
     # It was awkward, but my senior nodded with Ko-kun.
 
@@ -778,11 +778,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("「ごめんごめん、もう不意打ちは竄やめるよ。",
+    ("「ごめんごめん、もう不意打ちはやめるよ。",
     ""),
     # "Sorry, sorry, I'll stop tampering with surprises now.
 
-    ("やっぱ手を揩持ったまま竄やｂうか？」",
+    ("やっぱ手を揩持ったままやうか？」",
     ""),
     # After all, do you want to tamper with your hand still in your arm?”
 
@@ -850,15 +850,15 @@ text_array = [
     ""),
     # Then I played for about three frames for a long time.
 
-    ("最終的に先輩の記録は、予阯定通闥りきっちり１０≠メート泣ル伸び、１５≠メート泣ルにまで更新した。†",
+    ("最終的に先輩の記録は、予定通闥りきっちり１０≠メートル伸び、１５≠メートルにまで更新した。†",
     ""),
     # In the end, my senior's record was exactly 10≠Matte Cry, and even surpassed 15≠Matte Cry.†
 
-    ("お汲昼には、ふたりでいっし蛯ょに焼きそばを食べた。",
+    ("お汲昼には、ふたりでいっしょに焼きそばを食べた。",
     ""),
     # For lunch, the two of us ate yakisoba noodles together.
 
-    ("諱先輩は竄やきそばを奄初めて食べたらしい。",
+    ("諱先輩はやきそばを奄初めて食べたらしい。",
     ""),
     # Apparently, Senpai is eating Tanukiyaki soba for the first time in Amami.
 
@@ -871,10 +871,10 @@ text_array = [
     # "Isao Senpai"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「オ激レはすんっげー楽しかった。",
+    ("「オレはすんっげー楽しかった。",
     ""),
     # "I was really enjoyable.
 
@@ -882,7 +882,7 @@ text_array = [
     ""),
     # What about seniors?”
 
-    ("オ激レが聞くと、諱先輩熹も、†",
+    ("オレが聞くと、諱先輩熹も、†",
     ""),
     # When I heard that, I also heard that senior senior was also
 
@@ -894,7 +894,7 @@ text_array = [
     ""),
     # Ko-kun nodded and said,†
 
-    ("「またｗ域翌､な？	氈次は２５≠メート泣ルを目標にしようぜ」",
+    ("「またｗ域翌､な？	氈次は２５≠メートルを目標にしようぜ」",
     ""),
     # "And again the next day, what? Let's aim for 25 ≠ Maitru."
 
@@ -914,7 +914,7 @@ text_array = [
     ""),
     # What a fulfilling day.
 
-    ("諱先輩とだと、なにを竄やってて烽も楽しいぜ。◯",
+    ("諱先輩とだと、なにをやってて烽も楽しいぜ。◯",
     ""),
     # When I was with Senpai, I was able to enjoy what he was doing and what he was doing.◯
 

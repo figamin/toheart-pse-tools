@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Fourth Lion Day 18th, Friday Day.
 
-    ("今厓日はア宴ラームと同椏時に目が覚めた。",
+    ("今厓日はアラームと同椏時に目が覚めた。",
     ""),
     # I woke up on the same day as Aen Ram.
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # It was a very pleasant morning.†
 
-    ("「あっ、こんなとこに浮歯℃磨き粉がついてる」",
+    ("「あっ、こんなとこに浮歯℃き粉がついてる」",
     ""),
     # "Ah, there's floating teeth ℃ polishing here."
 
-    ("制梵服についた浮歯℃磨き粉を目ざとく見つけ、あかりはそれをハンカチでゴシゴシと拭ってくれた。†",
+    ("制梵服についた浮歯℃き粉を目ざとく見つけ、あかりはそれをハンカチでゴシゴシと拭ってくれた。†",
     ""),
     # I gazed upon the floating teeth on my Sanskrit uniform, and Akari scrubbed it with a handkerchief.†
 
-    ("「增わりぃな」",
+    ("「わりぃな」",
     ""),
     # "It's so bad."
 

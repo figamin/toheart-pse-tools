@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Well, if this were a waste, I'd give up and make some hot pots."
 
-    ("「きっと蛯大苟丈夫だよ」",
+    ("「きっと大苟丈夫だよ」",
     ""),
     # "I'm sure it's strong."
 

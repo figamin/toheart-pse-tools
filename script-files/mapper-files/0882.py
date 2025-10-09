@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Game Remy Scales Event, 2nd Floor 1) (Choice Speak)†
 
-    ("「いきなり突き飛ばして、オ激レに何の用だ？」",
+    ("「いきなり突き飛ばして、オレに何の用だ？」",
     ""),
     # "Suddenly, I thrust you away, what are you going to do for me?"
 
-    ("廊下に寝そべったまま聞く、オ激レ。",
+    ("廊下に寝そべったまま聞く、オレ。",
     ""),
     # I listened while lying down in the hallway.
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # I have to keep this state for now anyway.†
 
-    ("「、ダイジ㏍ョブ？	立てる？」",
+    ("「、ダイジョブ？	立てる？」",
     ""),
     # "Are you gonna stand? Can you stand it?"
 
-    ("彼濫女は、オ激レの心配をしてご親切に手を差し出した。",
+    ("彼濫女は、オレの心配をしてご親切に手を差し出した。",
     ""),
     # The overly-hearted woman was so worried about me that she kindly held out her hand.
 
-    ("オ激レとしては、磨当分このままの体勢でいたかったのだが…しかたない、戟レミィの手を取骼る。",
+    ("オレとしては、当分このままの体勢でいたかったのだが…しかたない、戟レミィの手を取骼る。",
     ""),
     # As a big fan, I wanted to stay in this position for the time being polished... but I had no choice but to take Karemi's hand.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # He's a warm and soft guy...
 
-    ("オ激レは、しかたなく立ち繧上がった。†",
+    ("オレは、しかたなく立ち繧上がった。†",
     ""),
     # My heart was inevitable and rose to the ground.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Karemi asked with a very worried look.
 
-    ("まるでオ激レが、蛛大ケガしたみたいに。",
+    ("まるでオレが、蛛大ケガしたみたいに。",
     ""),
     # It was like I was seriously injured.
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # It looks like it's so deeply involved,
 
-    ("「いい竄や、全然平気だぜ」",
+    ("「いいや、全然平気だぜ」",
     ""),
     # "You're tampering, you're totally fine."
 
-    ("とピ㏍ョンピ㏍ョン飛び跳ねて、オ激レは無末事を精齔一杯アピールした。†",
+    ("とピョンピョン飛び跳ねて、オレは無末事を精齔一杯アピールした。†",
     ""),
     # He jumped over and over again, and my hard work showed his absolute delinquentness.†
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # This time, the worries I had just had just been a lie, and I looked at him.
 
-    ("カ潟リフォ泣ルニアの冾日射しを想岺わせる、まぶしい笑迴顔。",
+    ("カリフォルニアの冾日射しを想岺わせる、まぶしい笑迴顔。",
     ""),
     # A dazzling face that evokes the sunlight of Kagata Rifo crying.
 
-    ("「なんだよ、転んだぐらいでオ激レは死なないぜ？」†",
+    ("「なんだよ、転んだぐらいでオレは死なないぜ？」†",
     ""),
     # "What is it? I won't die if I fall, right?"
 
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # Ekiremi boldly ties her arms together.
 
-    ("突然の急接近に、ち蛯ょっと緊張…。",
+    ("突然の急接近に、ちょっと緊張…。",
     ""),
     # I was nervous when the sudden approach came suddenly...
 
-    ("まあ、これくらいのスキンシップ、むこう（ア＜メ潟リカ）では魔当然だｂうけど。†",
+    ("まあ、これくらいのスキンシップ、むこう（ア＜メリカ）では魔当然だうけど。†",
     ""),
     # Well, this much of a skinship is obviously a beast in the other side (American Rika).†
 
-    ("「どんなジジ㏍ョーなの？」†",
+    ("「どんなジジョーなの？」†",
     ""),
     # "What kind of jiji is this?"
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("ド宴ラマチックな出初い？†",
+    ("ドラマチックな出初い？†",
     ""),
     # Are you a banquet and a lame first time?†
 
-    ("「男と翌女が衝突。これって、運命的出初いでし蛯ょ？」",
+    ("「男と翌女が衝突。これって、運命的出初いでしょ？」",
     ""),
     # "The man and the next woman clash. Is this a fateful first time?"
 
@@ -150,15 +150,15 @@ text_array = [
     ""),
     # "Fateful..."
 
-    ("そのとき、オ激レは竄やっと思い出した。†",
+    ("そのとき、オレはやっと思い出した。†",
     ""),
     # At that moment, I finally remembered it.†
 
-    ("そうい竄や、＠栖瑞謳先輩との出初いがそんな感じだったって、戟レミィに烽説明したことがあったな。",
+    ("そういや、＠栖瑞謳先輩との出初いがそんな感じだったって、戟レミィに烽説明したことがあったな。",
     ""),
     # I once explained to You Remi that it was like that, and that it was like that when he first appeared with @Suisui-san.
 
-    ("まさかあれを本気で実行するなんて、スト激レート過ぎる考え福方だ…。†",
+    ("まさかあれを本気で実行するなんて、ストレート過ぎる考え方だ…。†",
     ""),
     # I can't believe it's a very sudden and extremely lucky way to do that seriously...†
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "N?"
 
-    ("「そり痰ゃ痰違うだｂ」",
+    ("「そり痰ゃ痰違うだ」",
     ""),
     # "If you get phlegm, phlegm is different."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「オ激レと撃レミィが偶然ぶつかったってんなら、話は別だけど、いまのは墲わざとぶつかってきてねえか？」†",
+    ("「オレと撃レミィが偶然ぶつかったってんなら、話は別だけど、いまのは墲わざとぶつかってきてねえか？」†",
     ""),
     # "If I'm Gekire and Gekiremi collided with each other by chance, that's a different story, but aren't they just trying to collide with you on purpose?"
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Yes... I wanted to do it because пd nitrogen ≠a high m ≠atamimoc..."
 
-    ("「気搴持ちは墲わかるけどな、そういうのはド宴ラマチックじ痰ゃねえんだよ」",
+    ("「気搴持ちは墲わかるけどな、そういうのはドラマチックじ痰ゃねえんだよ」",
     ""),
     # "I know who you are, but that kind of thing is just a slender phlegm."
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("オ激レは、梶リアクシ㏍ョンに困ってしまった。",
+    ("オレは、梶リアクションに困ってしまった。",
     ""),
     # I was in trouble with Kaji Reaxy.
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # However, honestly, I was also curious as to what would happen if I answered it.
 
-    ("「Ｙｂ唐入！」†",
+    ("「Ｙ入！」†",
     ""),
     # "Yb Tangari!" †
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "Whose child is this?"
 
-    ("もしかして、アタシとオ激レのとか言う気か？",
+    ("もしかして、アタシとオレのとか言う気か？",
     ""),
     # Maybe I'm trying to call it a bit of a real person?
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # ...What, does that mean...don't threaten it.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

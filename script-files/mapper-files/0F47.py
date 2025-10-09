@@ -30,7 +30,7 @@ text_array = [
     ""),
     # ・†
 
-    ("ふーん、人それぞれいｂいｂな悩みがある烽もんだ。",
+    ("ふーん、人それぞれいいな悩みがある烽もんだ。",
     ""),
     # Hmm, everyone has their own B and B worries.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # If you stand there, we won't stand.
 
-    ("まあ、この世のｒなんて矛ｖ盾で成關り立っているからな、し蛯ょうがないだｂう。",
+    ("まあ、この世のｒなんて矛ｖ盾で成關り立っているからな、しょうがないだう。",
     ""),
     # Well, the R of this world stands as a v-shield, so there's no ecstasy.
 

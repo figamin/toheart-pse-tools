@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Yes, if it's hot?"
 
-    ("「オ激レ、。",
+    ("「オレ、。",
     ""),
     # "I'm super excited.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # It's a familiar and harmonious time that's always a win-win."
 
-    ("「增わかった、すぐに行くから」†",
+    ("「わかった、すぐに行くから」†",
     ""),
     # "Okay, I'll go right away"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Okay, I'll win now.
 
-    ("オ激レは河艶敷へとｌかった。†",
+    ("オレは河艶敷へとｌかった。†",
     ""),
     # My guts went to Kawaenshiki.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Anyway, if you hit it again, you'll win.
 
-    ("竅問阮題はそれをどう魔当てるかだ。†",
+    ("問題はそれをどう魔当てるかだ。†",
     ""),
     # The question is how to hit the demon.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("なんか烽もうｍ寘戦なんか立てて烽も、し蛯ょうがないような気がしてきた。†",
+    ("なんか烽もうｍ寘戦なんか立てて烽も、しょうがないような気がしてきた。†",
     ""),
     # I started to feel like I was setting up a battle with the war and there was no need to sing.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Rather, fight loyal to the basics and Amano is more important than that.
 
-    ("足を使って移動して、しっかりガードし、チャャンスは確実にｂモノにする。",
+    ("足を使って移動して、しっかりガードし、チャャンスは確実にモノにする。",
     ""),
     # Use your feet to move, protect yourself, and make sure to make your chance go to the b-point.
 
@@ -87,18 +87,18 @@ text_array = [
     # And waited ten beats for a while.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("遅い。†",
     ""),
     # slow.†
 
-    ("いつ烽もならとっくにｗてる桙時間なんだが、今厓日はどうしたんだｂう。",
+    ("いつ烽もならとっくにｗてる桙時間なんだが、今厓日はどうしたんだう。",
     ""),
     # It's been a long time since I've seen a hot spring, but what happened to the day I'm back now?
 
-    ("まさか、オ激レに恐鼡れをなして逃げたかァ？",
+    ("まさか、オレに恐鼡れをなして逃げたかァ？",
     ""),
     # Did you run away in fear of me?
 
@@ -115,10 +115,10 @@ text_array = [
     # More sufficient.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("どうしたんだｂう、マジで。",
+    ("どうしたんだう、マジで。",
     ""),
     # What's wrong, seriously.
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # @Isoinari Ryu, I was hit by a car and headed to the hospital.
 
-    ("い竄や、姉のほうならと烽もかく、運動神経のいいあいつに限ってそれはないか。",
+    ("いや、姉のほうならと烽もかく、運動神経のいいあいつに限ってそれはないか。",
     ""),
     # Is that the only one who has good athletic ability is that of a guy who is a big sister?
 
@@ -147,7 +147,7 @@ text_array = [
     # More sufficient.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("遅い！",
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # too late!
 
-    ("し蛯ょうがない、もう一回、あいつの携帯に連腰絡を入齠れてみよう。",
+    ("しょうがない、もう一回、あいつの携帯に連腰絡を入齠れてみよう。",
     ""),
     # There's no need to worry, so try again with a link to his cell phone.
 
@@ -170,15 +170,15 @@ text_array = [
     ""),
     # "Sorry, sorry."
 
-    ("綾∴香とセ潟リオが竄やってきた。",
+    ("綾∴香とセリオがやってきた。",
     ""),
     # Aya∴Ka and Segata Rio have come to tamper with it.
 
-    ("「遅ぇーぞ、なに竄やってたんだ」",
+    ("「遅ぇーぞ、なにやってたんだ」",
     ""),
     # "It's late, what were you doing?"
 
-    ("「ち蛯ょっと、うるさい人に捕まっち痰ゃって」",
+    ("「ちょっと、うるさい人に捕まっち痰ゃって」",
     ""),
     # "Ah, I'll catch someone who's noisy and get phlegm."
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "Ah, that's right."
 
-    ("綾∴香は唐鞄のｒからなに竄やら取闔り出すと、",
+    ("綾∴香は鞄のｒからなにやら取闔り出すと、",
     ""),
     # When Aya∴Ka starts tampering with something from the R of the Karabana,
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "Yes, I'll give it to you."
 
-    ("それをオ激レにくれた。",
+    ("それをオレにくれた。",
     ""),
     # I gave it to me.
 
@@ -222,11 +222,11 @@ text_array = [
     ""),
     # "What, Matsutake Forest...?"
 
-    ("チ㏍ョコスナックのお菓子だ。†",
+    ("チョコスナックのお菓子だ。†",
     ""),
     # It's a snack snack.†
 
-    ("「遅齟れたお墲わびってことで」",
+    ("「遅れたお墲わびってことで」",
     ""),
     # "It's a late-school slurred."
 
@@ -238,11 +238,11 @@ text_array = [
     ""),
     # I don't eat much sweets, but I'll get some hot pot.†
 
-    ("「とこｂで、今厓日が最終叝日謫よ」",
+    ("「とこで、今厓日が最終叝日謫よ」",
     ""),
     # "At this time, the last day is now the last day."
 
-    ("「增わかってる。今厓日こそｌめるつ烽もりだ」",
+    ("「わかってる。今厓日こそｌめるつ烽もりだ」",
     ""),
     # "I know. It's the time I'm in the middle of my life."
 

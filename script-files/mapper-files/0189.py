@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Well, it's fine.
 
-    ("どうせｒにいるんだし、出てくり痰ゃオ激レに気づくだｂ。",
+    ("どうせｒにいるんだし、出てくり痰ゃオレに気づくだ。",
     ""),
     # I'm sure I'm in the R anyway, so if the phlegm appears, I'll notice my intense b.
 
-    ("オ激レはマンガ雑庶誌を読み出した。†",
+    ("オレはマンガ雑庶誌を読み出した。†",
     ""),
     # My gei-re read manga and miscellaneous magazines.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Is it true that Professor Eun-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-
 
-    ("読み切關り竄やってんな、またモ泣かせ系かよ、立ち読みで涙流すの烽もあれだしなー。",
+    ("読み切關りやってんな、またモかせ系かよ、立ち読みで涙流すの烽もあれだしなー。",
     ""),
     # You're tampering with the reading, you're making me cry again, and it's also a hot topic that makes me cry when I browse.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Ah, I've been there for about 10 minutes anyway.
 
-    ("あ、そういえば、あかりの竄やつは…と？",
+    ("あ、そういえば、あかりのやつは…と？",
     ""),
     # Oh, by the way, what about Akari's tampering with...?
 
@@ -66,19 +66,19 @@ text_array = [
     ""),
     # fault?
 
-    ("いねー竅や。",
+    ("いねーや。",
     ""),
     # That's good.
 
-    ("あかりの竄やつ、オ激レに気づかずに横を通闥り過ぎ竄やがったのか？†",
+    ("あかりのやつ、オレに気づかずに横を通闥り過ぎやがったのか？†",
     ""),
     # Was the guy who tampered with Akari, who didn't notice me, and then drove me too far away?†
 
-    ("し蛯ょーがねーな。",
+    ("しょーがねーな。",
     ""),
     # There's no essay.
 
-    ("マンガに夢亦になってて気づかないオ激レ焜もオ激レだけどさ。",
+    ("マンガに夢亦になってて気づかないオレ焜もオレだけどさ。",
     ""),
     # My dreams are also like that in manga, I don't notice them, and I'm super crazy.
 

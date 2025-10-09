@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("「商店街につき№合ってくんない？	…って、あれ？	あかり烽も帰驪るとこｂ？」",
+    ("「商店街につき№合ってくんない？	…って、あれ？	あかり烽も帰驪るとこ？」",
     ""),
     # "Are you sure it's the shopping district right? ...What? Is Akari Hot a place where he's back?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I'm not going straight back to my house."
 
-    ("「なんだ、んじ痰ゃパスだな…。志保、增わりぃけど、今厓日はつき№合えねえな」",
+    ("「なんだ、んじ痰ゃパスだな…。志保、わりぃけど、今厓日はつき№合えねえな」",
     ""),
     # "What? I'm not sure if you pass the phlegm... Shiho, I'm not sure if I'm on the right side now."
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "It's okay, it's a sphin. Please give Shiho the number."
 
-    ("突然あかりは、オ激レに志保のつき№合いをしｂと言う。†",
+    ("突然あかりは、オレに志保のつき№合いをしと言う。†",
     ""),
     # Suddenly, Akari goes to Shiho's slut and says that he is b.†
 
-    ("「なんでだよ。オ激レはお前と帰驪るって言ったぜ？」",
+    ("「なんでだよ。オレはお前と帰驪るって言ったぜ？」",
     ""),
     # "Why? Did I say I'm going back with you?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Oh, I'm heading back with Akari."
 
-    ("「志保、п私はいいから、ち痰ゃんといっし蛯ょに行って」",
+    ("「志保、п私はいいから、ち痰ゃんといっしょに行って」",
     ""),
     # "Shiho, пI'm fine, go to the simians with your simians."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Hmm. What do you do?"
 
-    ("オ激レの嘯答えは｢｢。",
+    ("オレの嘯答えは｢｢。",
     ""),
     # My throbbing answer is ".
 

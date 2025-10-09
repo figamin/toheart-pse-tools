@@ -2,7 +2,7 @@
 # Source file: 0660.txt
 
 text_array = [
-    ("（ＶＳイベント	マ泣ルチＶＳ撃レミィ）閨（教室）†",
+    ("（ＶＳイベント	マルチＶＳ撃レミィ）閨（教室）†",
     ""),
     # (VS Event Makry Luchi VS Geki Remi) (Classroom)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # ""
 
-    ("休み桙時間、♂史が席に竄やってきた。",
+    ("休み桙時間、♂史が席にやってきた。",
     ""),
     # During the break, Masochi started tampering with her seat.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("先﨎日、うちの両親が旅行行ったときのおみ竄やげにって」",
+    ("先﨎日、うちの両親が旅行行ったときのおみやげにって」",
     ""),
     # The other day, my parents went on a trip, so I was trying to mess up my parents."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # It was a red bag with a bell.
 
-    ("「これ揩持ってるとどんな艪御圏益があるんだ？」",
+    ("「これ揩持ってるとどんな御圏益があるんだ？」",
     ""),
     # "What kind of benefits do you have if you have this?"
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "*It's a talisman to protect you from injuries, so don't you have any phlegms to protect you from the harsh disasters of injuries?"
 
-    ("「＊恂除けか。あっ、そういえばオ激レ、たしかべつのｖ恂除け揩持ってたぞ。いいのか？」",
+    ("「＊恂除けか。あっ、そういえばオレ、たしかべつのｖ恂除け揩持ってたぞ。いいのか？」",
     ""),
     # "*Can I just remove the throbbing? Oh, by the way, I'm really, really got the throbbing the throbbing. Is that okay?"
 
-    ("「いいんじ痰ゃない？	あればあるほど艪御圏益煢も揩増えるよ、きっと」",
+    ("「いいんじ痰ゃない？	あればあるほど御圏益煢も揩増えるよ、きっと」",
     ""),
     # "Isn't there any phlegm? The more you have, the more you will get, the more you will get, I'm sure."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "That's right.
 
-    ("んじ痰ゃあ、あかりの竄やつにで烽もくれて竄やるか」†",
+    ("んじ痰ゃあ、あかりのやつにで烽もくれてやるか」†",
     ""),
     # Is it okay to use the light-skinned tampering and tampering with it?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("じ痰ゃあ、誰に竄やｂうかな。",
+    ("じ痰ゃあ、誰にやうかな。",
     ""),
     # I wonder who will you tamper with?
 
@@ -106,31 +106,31 @@ text_array = [
     ""),
     # Protect yourself from the cruelty of injuries...
 
-    ("そういうことなら、＝普段からケガしそうなｊなっかしいрヤツに竄やｂう。†",
+    ("そういうことなら、＝普段からケガしそうなｊなっかしいрヤツにやう。†",
     ""),
     # If that's the case, then you'll be tampering with a silly guy who's likely to get injured on a regular basis.†
 
-    ("オ激レの知ってる範囲で、ケガしそうな竄やつといえば…。",
+    ("オレの知ってる範囲で、ケガしそうなやつといえば…。",
     ""),
     # As far as I know, it's like a tampering thing that makes me feel like I'm getting hurt...
 
-    ("竅やっぱ、戟レミィとマ泣ルチってとこかな。",
+    ("やっぱ、戟レミィとマルチってとこかな。",
     ""),
     # After all, I guess it's like Karemi and Makruchi.
 
-    ("どっち烽もオッチ㏍ョコチ㏍ョイでｊなっかしい烽もんな。†",
+    ("どっち烽もオッチョコチョイでｊなっかしい烽もんな。†",
     ""),
     # Both hotpots are a bit of a big deal and are a nice hotpot.†
 
-    ("さて、どっちに竄やｂうか？",
+    ("さて、どっちにやうか？",
     ""),
     # So, which one do you want to tamper with?
 
-    ("Ａ	マ泣ルチに竄やる。閨",
+    ("Ａ	マルチにやる。閨",
     ""),
     # A: I'll tamper with you.Relax
 
-    ("Ｂ	戟レミィに竄やる。閨",
+    ("Ｂ	戟レミィにやる。閨",
     ""),
     # B: Tamper with Remy.Relax
 

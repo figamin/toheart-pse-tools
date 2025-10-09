@@ -2,11 +2,11 @@
 # Source file: 047C.txt
 
 text_array = [
-    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	オ激レがｌめる）†",
+    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	オレがｌめる）†",
     ""),
     # (Shiho's exam return day PS) (Select Sou Ikere)†
 
-    ("「…諱よし、ゲーセンだ。お前、カ宴ラオケの次くらいに好きだｂ？」",
+    ("「…諱よし、ゲーセンだ。お前、カラオケの次くらいに好きだ？」",
     ""),
     # "...Okay, it's an arcade. Do you like it the next one after Kaban Raoke?"
 
@@ -14,19 +14,19 @@ text_array = [
     ""),
     # "What are you? I'm going to go to the arcade in Kaba for the test period?"
 
-    ("「自分から『遊ぼ』って誘っといて、そり痰ゃねえだｂ」†",
+    ("「自分から『遊ぼ』って誘っといて、そり痰ゃねえだ」†",
     ""),
     # "I invited you to play with me, and I'm not going to get any sighs."
 
-    ("「なははっ、ジ㏍ョークジ㏍ョーク。べつにいいんじ痰ゃない？	行ったとこｂで成績は繧上がり烽も下がり烽もしない墲わよ」",
+    ("「なははっ、ジョークジョーク。べつにいいんじ痰ゃない？	行ったとこで成績は繧上がり烽も下がり烽もしない墲わよ」",
     ""),
     # "Hahaha, I'm not sure what to do. Isn't there any phlegm? When I went there, my grades improved and my temperature went down, and my temperature didn't go anywhere."
 
-    ("「お前の場㍼合、一番下だからな。これ以繹上、下がりようがねえだｂ」†",
+    ("「お前の場㍼合、一番下だからな。これ以繹上、下がりようがねえだ」†",
     ""),
     # "Your place is at the bottom, so it's the bottom. There's no way it will go up or down from now on." †
 
-    ("「言った墲わね〜っ、あんただってすぐに№仲間鞄闢りよ。死なば烽もｂと烽もなんだからっ」",
+    ("「言った墲わね〜っ、あんただってすぐに№仲間鞄闢りよ。死なば烽もと烽もなんだからっ」",
     ""),
     # "You said it, you should immediately bring your number one companion. If you die, you're not going to have a stove, b and stove."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Don't call yourself stupid. Will you be forced to join us all the way to the other world?"
 
-    ("どこまでが本気なのかよく墲わからないｉ話を交甯わしながらゲーセンへｌかったオ激レたちは、２桙時間ほど遊んだ。",
+    ("どこまでが本気なのかよく墲わからないｉ話を交甯わしながらゲーセンへｌかったオレたちは、２桙時間ほど遊んだ。",
     ""),
     # We both came to the arcade, spending two hours playing around with an i-talk that we didn't really know how serious it was.
 

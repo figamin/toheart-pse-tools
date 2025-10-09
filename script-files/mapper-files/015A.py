@@ -2,7 +2,7 @@
 # Source file: 015A.txt
 
 text_array = [
-    ("（あかり	好感度イベント９．２）閨（Ａ	オ激レの部屋へ行こうぜ）†",
+    ("（あかり	好感度イベント９．２）閨（Ａ	オレの部屋へ行こうぜ）†",
     ""),
     # (Akari Likeability Event 9.2) (A Let's go to my gut-re's room)†
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Akari..."
 
-    ("オ激レは獅落としていた汲視諮を繧上げて、あかりの顔を見つめると、",
+    ("オレは獅落としていた汲視諮を繧上げて、あかりの顔を見つめると、",
     ""),
     # I lifted up the thud of the thud thud consultation and looked at Akari's face.
 
-    ("「オ激レの部屋に行こうぜ…？」",
+    ("「オレの部屋に行こうぜ…？」",
     ""),
     # "Let's go to my room...?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Akari asks back without thinking.
 
-    ("オ激レは烽もう一度、",
+    ("オレは烽もう一度、",
     ""),
     # My heart is hot again
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Let's go to the room."
 
-    ("竅や竄や強めに繰闌り返した。†",
+    ("やや強めに繰り返した。†",
     ""),
     # It was repeated repeatedly, with a strong repetition.†
 
@@ -46,43 +46,43 @@ text_array = [
     ""),
     # There's no jokey way of saying it before.
 
-    ("オ激レなりに覚蜉悟をｌめ、真武剣な顔で言ったつ烽もりだった。†",
+    ("オレなりに覚蜉悟をｌめ、真武剣な顔で言ったつ烽もりだった。†",
     ""),
     # I was so excited that I was able to understand my spirits and said with a Shinbu sword-like face.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("それを揩理解してか、あかり烽もすぐには福口を開かず、噤答えをためらった。",
+    ("それを揩理解してか、あかり烽もすぐには口を開かず、噤答えをためらった。",
     ""),
     # Perhaps he understood this, Akari Kaoru didn't immediately open his luck and hesitated to answer.
 
-    ("部屋にｗないか、というオ激レの言葉の意味燒も察したんだと思う。†",
+    ("部屋にｗないか、というオレの言葉の意味燒も察したんだと思う。†",
     ""),
     # I think he also understood the meaning of my word, "Is it in the room lol?"†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("そのまま、短い沈黙が訪齧れた。†",
     ""),
     # As it was, a brief silence came to light.†
 
-    ("オ激レとあかり。",
+    ("オレとあかり。",
     ""),
     # I'm super excited and Akari.
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # It's like a brother's hustle, but in the end he's a stranger and close to his friends, but he's a lover and no hottie.†
 
-    ("閨手を伸ばせばすぐ届く翌距離にいながら烽も、おたがい、越えてはならない一線は強く意識して、今厓日までうまく竄やってきた。",
+    ("閨手を伸ばせばすぐ届く翌距離にいながら烽も、おたがい、越えてはならない一線は強く意識して、今厓日までうまくやってきた。",
     ""),
     # Although he was within the next distance that he could reach him as soon as he reached the ball, he was very conscious of the line that should not be crossed, and he had been tampering well until the day he was about to die.
 
-    ("なのにいま、オ激レのほうから、その境界叶を越えようと手を差し伸べている。†",
+    ("なのにいま、オレのほうから、その境界叶を越えようと手を差し伸べている。†",
     ""),
     # But now, I'm reaching out to try to overcome that boundary.†
 
@@ -115,7 +115,7 @@ text_array = [
     # It must be a natural confusion.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # I can't stand it.
 
-    ("オ激レは福口を開いた。†",
+    ("オレは口を開いた。†",
     ""),
     # I opened my lucky mouth.†
 
@@ -154,15 +154,15 @@ text_array = [
     ""),
     # An unnatural tension.
 
-    ("竅やっぱり、少しおびえているんだｂうか。†",
+    ("やっぱり、少しおびえているんだうか。†",
     ""),
     # I'm probably a little scared after all.†
 
-    ("オ激レは、つとめて≠普段通闥りの自分を浮装い、言った。",
+    ("オレは、つとめて≠普段通闥りの自分を浮装い、言った。",
     ""),
     # I said, "I'm a regular person who I usually talk to" and pretended to be.
 
-    ("「…なあ、オ激レたちって、もう長いつき№合いだよな」",
+    ("「…なあ、オレたちって、もう長いつき№合いだよな」",
     ""),
     # "...Hey, we've been together for so long, so we've been together."
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # Akari nodded small.†
 
-    ("「おたがいのこと、だいたいなんで烽も知ってるし、気搭兼ねなくつき№合えるし、いっし蛯ょにいて烽も全然鞫疲齡れねー諱よな」",
+    ("「おたがいのこと、だいたいなんで烽も知ってるし、気搭兼ねなくつき№合えるし、いっしょにいて烽も全然鞫疲齡れねー諱よな」",
     ""),
     # "I know most people, how do you know about Hot, and I can match your number without any effort, and I'm not too tired when I'm on the slut, so I guess it's a shame."
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "Yeah…"†
 
-    ("「昨厓日今厓日つき№合いはじめたような恋人同士謗より、オ激レたちのほうがずっと深い関係だと思寬わねーか？」",
+    ("「昨厓日今厓日つき№合いはじめたような恋人同士謗より、オレたちのほうがずっと深い関係だと思寬わねーか？」",
     ""),
     # "You think we're a much deeper relationship than the two lovers who are starting to meet again last night?"
 
@@ -203,7 +203,7 @@ text_array = [
     # "But, though."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「なのに、まだ、キス…止まりなんだよな」",
@@ -211,7 +211,7 @@ text_array = [
     # "But, the kiss is still...it's stopped."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("キス…のあたりで、あかりの肩がぴくっと動いた。†",
@@ -223,10 +223,10 @@ text_array = [
     # "It's really bad, but I think it's a bit more difficult to say that it's a bit more phlegm, but I think that going a little further and not phlegm is good."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「もちｂん、オ激レの勝闖手な意見だけど…」",
+    ("「もちん、オレの勝闖手な意見だけど…」",
     ""),
     # "Mochibun, this is my opinion that's a really good-looking guy..."
 
@@ -242,15 +242,15 @@ text_array = [
     ""),
     # I'm thinking deeply about something.
 
-    ("見骭ると、組んだ両阯手が小さく震えていた。",
+    ("見骭ると、組んだ両手が小さく震えていた。",
     ""),
     # When I looked over, the two slanted hands trembled slightly.
 
-    ("竅やっぱり緊張してるんだｂう。",
+    ("やっぱり緊張してるんだう。",
     ""),
     # I'm really nervous.
 
-    ("だけど、それはオ激レ焜も同じだった。†",
+    ("だけど、それはオレ焜も同じだった。†",
     ""),
     # But that was the same for me.†
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # My hands were sweating.
 
-    ("あかりを鰍相闡手にこんなに緊張するなんて、いままでじ痰ゃ竄絶対ありえないことだった。",
+    ("あかりを鰍相闡手にこんなに緊張するなんて、いままでじ痰ゃ絶対ありえないことだった。",
     ""),
     # Until now, it has never been possible to be so nervous about Akari as a monkey.
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # This air.†
 
-    ("沈黙が、さらに重く、重く、オ激レの両肩にのしかかる。",
+    ("沈黙が、さらに重く、重く、オレの両肩にのしかかる。",
     ""),
     # The silence was even heavier, heavier, and heavier, and it hit my shoulders.
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # Yes, the hottest and hottest are not spoken.
 
-    ("それが少しずつ、オ激レをいらだたせた。†",
+    ("それが少しずつ、オレをいらだたせた。†",
     ""),
     # Little by little, it irritated O'Raa.†
 
@@ -306,7 +306,7 @@ text_array = [
     ""),
     # For some reason, I felt even more frustrated by that "Sorry."†
 
-    ("「お前、オ激レのこと、好きなんだｂ！？」",
+    ("「お前、オレのこと、好きなんだ！？」",
     ""),
     # "You like me so much b!?"
 
@@ -330,19 +330,19 @@ text_array = [
     ""),
     # "And also... you love the phlegm... don't you think?"
 
-    ("気まずさに、オ激レは目を嘯伏せた。",
+    ("気まずさに、オレは目を嘯伏せた。",
     ""),
     # With awkwardness, my eyes fell down.
 
-    ("なに言ってんだ、オ激レは。†",
+    ("なに言ってんだ、オレは。†",
     ""),
     # What are you talking about, I'm a cruel person.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("增わずかな沈黙。",
+    ("わずかな沈黙。",
     ""),
     # A slight silence.
 
@@ -358,7 +358,7 @@ text_array = [
     ""),
     # He said ashamed.†
 
-    ("「…小さいこｂから、ずっと好きだったよ。いまだって、もちｂん蛯大好きだよ」",
+    ("「…小さいこから、ずっと好きだったよ。いまだって、もちん大好きだよ」",
     ""),
     # "...I've always loved this little bit. Even now I love Mochi B."
 
@@ -366,19 +366,19 @@ text_array = [
     ""),
     # "Akari..." †
 
-    ("なに言甯わせてんだ、オ激レは。",
+    ("なに言甯わせてんだ、オレは。",
     ""),
     # What are you saying, I'm so excited.
 
-    ("ち蛯ょっと罪悪感が墲わく。",
+    ("ちょっと罪悪感が墲わく。",
     ""),
     # I suddenly felt guilty.
 
-    ("そんなこと、增わざ墲わざ確認しなくたって、十分伝崧わってることじ痰ゃないか。†",
+    ("そんなこと、わざ墲わざ確認しなくたって、十分伝崧わってることじ痰ゃないか。†",
     ""),
     # Even if you don't bother to confirm such things, you'll have enough knowledge to understand them.†
 
-    ("い竄や。",
+    ("いや。",
     ""),
     # It's tampering.
 
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # "If so..."
 
-    ("オ激レがソファーから立ち繧上がったとき、",
+    ("オレがソファーから立ち繧上がったとき、",
     ""),
     # When I stood up from the sofa,
 
@@ -423,7 +423,7 @@ text_array = [
     # "Ah..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -434,7 +434,7 @@ text_array = [
     ""),
     # "What, what is that? What is the counter-wound...?"
 
-    ("オ激レがぎこちない笑いで聞いたとき、†",
+    ("オレがぎこちない笑いで聞いたとき、†",
     ""),
     # When I heard my eccentric laugh,
 
@@ -459,7 +459,7 @@ text_array = [
     # "...I'm still in my Sanskrit uniform, and if it's too late, mom will worry me..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -474,11 +474,11 @@ text_array = [
     ""),
     # The air felt like it was frozen.
 
-    ("そして、オ激レの顔に張闥りついたぎこちない笑み。†",
+    ("そして、オレの顔に張闥りついたぎこちない笑み。†",
     ""),
     # And then there was an awkward smile that threw me through my face.†
 
-    ("增わずかな桙時間の繧後、オ激レはそれを無摶理﨤矢摶理引きはがすと、",
+    ("わずかな桙時間の繧後、オレはそれを無摶理﨤矢摶理引きはがすと、",
     ""),
     # After a small amount of time, I removed it without any problems,
 
@@ -506,15 +506,15 @@ text_array = [
     ""),
     # Akari apologized in a soft voice.
 
-    ("「增わかったよ…」",
+    ("「わかったよ…」",
     ""),
     # "I understand..."
 
-    ("軽く息を吐き、オ激レは言った。†",
+    ("軽く息を吐き、オレは言った。†",
     ""),
     # I let out a light breath and said, "I'm not going to stop it."†
 
-    ("「じ痰ゃあ、玄関まで翌送髑るぜ」",
+    ("「じ痰ゃあ、玄関まで翌送るぜ」",
     ""),
     # "You'll get sputum, I'll send you to the entrance the next day."
 
@@ -522,7 +522,7 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("あかりは艪ゆっくり烽歩き出した。†",
+    ("あかりはゆっくり烽歩き出した。†",
     ""),
     # Akari slowly began to walk around.†
 
@@ -550,11 +550,11 @@ text_array = [
     ""),
     # I locked it.
 
-    ("オ激レ自身の心に烽も…小さな鍵がかかった。†",
+    ("オレ自身の心に烽も…小さな鍵がかかった。†",
     ""),
     # My heart was also covered in my own heart... a small lock.†
 
-    ("潤居間に戻ったオ激レは、",
+    ("潤居間に戻ったオレは、",
     ""),
     # When I returned to Jun's living room,
 
@@ -574,7 +574,7 @@ text_array = [
     ""),
     # I collapsed it on the sofa.†
 
-    ("天苴井を見繻上げ、",
+    ("天井を見上げ、",
     ""),
     # Look at Tenrei,
 
@@ -590,11 +590,11 @@ text_array = [
     ""),
     # and,
 
-    ("「なに竄やってんだ、オ激レは…」",
+    ("「なにやってんだ、オレは…」",
     ""),
     # "What are you doing, I'm so crazy..."
 
-    ("ぼそっと、つぶ竄やいた。",
+    ("ぼそっと、つぶやいた。",
     ""),
     # I muttered, muttered.
 
@@ -602,7 +602,7 @@ text_array = [
     ""),
     # And then he closed his eyes.†
 
-    ("まぶたを閉じると、考えたく烽もないのに、いｂんなことが頭にｂ浮かんだ。†",
+    ("まぶたを閉じると、考えたく烽もないのに、いんなことが頭に浮かんだ。†",
     ""),
     # When I closed my eyelids, I couldn't help but think about something, but I couldn't find anything bad.†
 
@@ -610,11 +610,11 @@ text_array = [
     ""),
     # Light.
 
-    ("小さいこｂから、いつ烽も側にいたあかり。",
+    ("小さいこから、いつ烽も側にいたあかり。",
     ""),
     # From the small b, the hot spring was always there by my side.
 
-    ("幼稚園煢も、小学校熏も、£学煌も、そしてｂ高校熏も、ずっとオ激レの側にいた。",
+    ("幼稚園煢も、小学校熏も、£学煌も、そして高校熏も、ずっとオレの側にいた。",
     ""),
     # Kindergarten Han, elementary school Kei, £Gakufu, and B High School Kei have always been by my side.
 
@@ -626,7 +626,7 @@ text_array = [
     ""),
     # But now there's a little bit of a difference in phlegm.
 
-    ("幼なじみなんて、兄喧みたいな烽もんだけど、戟血煬もつながってないし、結局は竄やっぱり他人でしかない。",
+    ("幼なじみなんて、兄喧みたいな烽もんだけど、戟血煬もつながってないし、結局はやっぱり他人でしかない。",
     ""),
     # Childhood friends are like brother-in-law, but they don't have any connections to them, and in the end they're just someone else.
 
@@ -638,7 +638,7 @@ text_array = [
     ""),
     # To be honest, I've known Akari's spirit for a long time.
 
-    ("オ激レのことが好きだってこと。",
+    ("オレのことが好きだってこと。",
     ""),
     # That he likes me.
 
@@ -646,19 +646,19 @@ text_array = [
     ""),
     # I've known it for a long time.†
 
-    ("はっきりと福口にして言うことはなかったが、あかりはいつ烽も態度でそれを示してくれた。",
+    ("はっきりと口にして言うことはなかったが、あかりはいつ烽も態度でそれを示してくれた。",
     ""),
     # He had nothing to say clearly, but Akari always showed this with his attitude.
 
-    ("磨当然、うれしくない墲わけはなかった。",
+    ("当然、うれしくない墲わけはなかった。",
     ""),
     # Masa Of course, there was no way I wasn't happy.
 
-    ("だけど、そんなあいつの気搴持ちに気づいていながら烽も、オ激レは何年間煌もそれに桙応えようとはしなかった。†",
+    ("だけど、そんなあいつの気搴持ちに気づいていながら烽も、オレは何年間煌もそれに桙応えようとはしなかった。†",
     ""),
     # However, even though he had noticed that he had such a desire, even though I had no idea about it, and for years, I didn't try to respond to it.†
 
-    ("オ激レにとって、あかりは本末当のｖみたいな烽ものだったからだ。",
+    ("オレにとって、あかりは本末当のｖみたいな烽ものだったからだ。",
     ""),
     # For me, Akari was a hot thing like the V of the real thing.
 
@@ -666,7 +666,7 @@ text_array = [
     ""),
     # As a member of the opposite sex, I didn't want to hold back any feelings of love or dislike.
 
-    ("磨当然、好きにｌまってる。",
+    ("当然、好きにｌまってる。",
     ""),
     # Masa Of course, I'm liking as much as I please.
 
@@ -674,23 +674,23 @@ text_array = [
     ""),
     # And Ho was not even a target for love.†
 
-    ("だがそんなオ激レに烽も、竅やがて気搴持ちの変化が訪齧れた。",
+    ("だがそんなオレに烽も、やがて気搴持ちの変化が訪齧れた。",
     ""),
     # However, I ended up feeling a change in my mood after all.
 
-    ("きっかけは竄やはり、あかりが髪形を変えたあのときからだと思う。†",
+    ("きっかけはやはり、あかりが髪形を変えたあのときからだと思う。†",
     ""),
     # I think the trigger was after the time when Akari changed her hairstyle.†
 
-    ("あかりの竄やつ、いきなり驚くほどか墲わいくなり竄やがって、最燕初に見たときは、すっかり動揺してしまった。",
+    ("あかりのやつ、いきなり驚くほどか墲わいくなりやがって、最燕初に見たときは、すっかり動揺してしまった。",
     ""),
     # The guy who tampered with Akari suddenly became surprisingly gross and silenced, and when I saw it for the first time, I was completely upset.
 
-    ("まるでオ激レの知ってるあかりじ痰ゃないような気がして、し蛯ょうがなかった。",
+    ("まるでオレの知ってるあかりじ痰ゃないような気がして、しょうがなかった。",
     ""),
     # It felt like I knew no phlegm, so I couldn't find any sluts.
 
-    ("そして、その冾日から、オ激レはあかりのことを翌女の子として強く意識するようになった。†",
+    ("そして、その冾日から、オレはあかりのことを翌女の子として強く意識するようになった。†",
     ""),
     # And from that day onwards, I began to become a strong conscious girl about Akari as the next girl.†
 
@@ -702,7 +702,7 @@ text_array = [
     ""),
     # I was clearly annoyed when he envisioned the sight of someone who met another man.
 
-    ("結果的に薰矢⊥島とはなに烽もなく、オ激レはほっと胸をなで下奄した。†",
+    ("結果的に薰矢⊥島とはなに烽もなく、オレはほっと胸をなで下奄した。†",
     ""),
     # As a result, there was no hot topic to Tomya Island, and my heart stroking down in relief.†
 
@@ -726,11 +726,11 @@ text_array = [
     ""),
     # The kiss led to the two of them graduating from childhood friends and becoming lovers.
 
-    ("…と、オ激レはそう思っていた。†",
+    ("…と、オレはそう思っていた。†",
     ""),
     # ...That's what I thought.†
 
-    ("キスのあと、目に涙をにじませｊぶあかりを見て、オ激レは、いままでずっと、あかりを待たせてきたことを繧後悔した。",
+    ("キスのあと、目に涙をにじませｊぶあかりを見て、オレは、いままでずっと、あかりを待たせてきたことを繧後悔した。",
     ""),
     # After the kiss, I saw Akari with tears in her eyes and her eyes, and I regretted that I had been making Akari wait for the rest of my life.
 
@@ -738,7 +738,7 @@ text_array = [
     ""),
     # So I decided to take back the time I had been waiting for.
 
-    ("深い関係になｂうとしたの烽もそのせいだ。",
+    ("深い関係になうとしたの烽もそのせいだ。",
     ""),
     # That's why he tried to have a deep relationship.
 
@@ -746,7 +746,7 @@ text_array = [
     ""),
     # But.†
 
-    ("結局、あいつはオ激レのことが好きだけど、いまの関係で桙満足してるってことか。",
+    ("結局、あいつはオレのことが好きだけど、いまの関係で桙満足してるってことか。",
     ""),
     # In the end, he likes me, but I guess he's satisfied with his current situation.
 
@@ -762,15 +762,15 @@ text_array = [
     ""),
     # It was an awkward atmosphere.
 
-    ("あかりの竄やつ、思いっきり不安そうな顔をして竄やがった…。†",
+    ("あかりのやつ、思いっきり不安そうな顔をしてやがった…。†",
     ""),
     # Akari's tampering with a look of anxiety, and he tampered with it...†
 
-    ("あー、ちくし蛯ょう。",
+    ("あー、ちくしょう。",
     ""),
     # Ah, chikushi nigiri.
 
-    ("オ激レとしたことが。",
+    ("オレとしたことが。",
     ""),
     # It was something that was extremely exciting.
 
@@ -778,7 +778,7 @@ text_array = [
     ""),
     # I've run my name on the trout.†
 
-    ("竅やめとき痰ゃよかった。",
+    ("やめとき痰ゃよかった。",
     ""),
     # I wish I had phlegm when I stopped doing it.
 
@@ -794,11 +794,11 @@ text_array = [
     ""),
     # Fuck….†
 
-    ("結局、あいつがオ激レに≠めている関係と、オ激レがあいつに≠めている関係には、微妙な痰違いがあったのか烽もしれない。†",
+    ("結局、あいつがオレに≠めている関係と、オレがあいつに≠めている関係には、微妙な痰違いがあったのか烽もしれない。†",
     ""),
     # In the end, it may be that there was a subtle difference in phlegm between the relationship in which he ≠ me and the relationship in which he ≠ me ≠ to me ≠.†
 
-    ("オ激レは烽もっと深くなｂうとした。",
+    ("オレは烽もっと深くなうとした。",
     ""),
     # My heart tried to get deeper.
 
@@ -811,7 +811,7 @@ text_array = [
     # I have no need to worry, no need to worry, no need to be exhausted, and I have no need to be in that relationship, so I guess that's okay or not.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("そうだよな。",
@@ -822,7 +822,7 @@ text_array = [
     ""),
     # I'm sure it is.
 
-    ("じつはオ激レのほう烽も、本心はそうなんじ痰ゃないのか。†",
+    ("じつはオレのほう烽も、本心はそうなんじ痰ゃないのか。†",
     ""),
     # In fact, even my supernatural vomit doesn't really have that kind of phlegm.†
 
@@ -842,7 +842,7 @@ text_array = [
     ""),
     # My heartbeat started to beat faster, and my palms were sweating.†
 
-    ("オ激レがあかりとのつき№合いに≠めるのは、あんな関係なのか。",
+    ("オレがあかりとのつき№合いに≠めるのは、あんな関係なのか。",
     ""),
     # Is that the relationship that makes me ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ ≠ �
 
@@ -858,7 +858,7 @@ text_array = [
     ""),
     # I want to be in a relationship with him until now.
 
-    ("おたがい肩の力を抜いたままで、楽しく、いままで通闥り竄やっていきたい。",
+    ("おたがい肩の力を抜いたままで、楽しく、いままで通闥りやっていきたい。",
     ""),
     # I want to keep my shoulders relaxed and have fun and keep communicating until now.
 
@@ -870,7 +870,7 @@ text_array = [
     ""),
     # If that's the case, then I'd be happy to have been able to communicate with you up until now.
 
-    ("オ激レが兄貴で、あかりがｖ。",
+    ("オレが兄貴で、あかりがｖ。",
     ""),
     # My big brother is Akari, and I'm V.
 
@@ -886,7 +886,7 @@ text_array = [
     ""),
     # That's right.
 
-    ("ま墲わりはどうあれ、オ激レたちはオ激レたちだ。",
+    ("ま墲わりはどうあれ、オレたちはオレたちだ。",
     ""),
     # Anyway, we are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the one
 
@@ -902,7 +902,7 @@ text_array = [
     ""),
     # Akari... maybe he had noticed this and had no phlegm.†
 
-    ("なのにオ激レは…。",
+    ("なのにオレは…。",
     ""),
     # But I'm super excited...
 
@@ -922,11 +922,11 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("今骰夜のことは、全泊部シャャ激レにしちまおう。",
+    ("今骰夜のことは、全泊部シャャレにしちまおう。",
     ""),
     # Let's make the whole house shaya super-sexy about the night.
 
-    ("部屋に誘ったの烽も、その先へ進熕もうとしたの烽も、あれは全泊部シャャ激レってことで。†",
+    ("部屋に誘ったの烽も、その先へ進熕もうとしたの烽も、あれは全泊部シャャレってことで。†",
     ""),
     # Both the ones who invited me to my room, and the ones who tried to move on beyond that were all over the place, which meant that they were all over the house club.†
 
@@ -934,7 +934,7 @@ text_array = [
     ""),
     # It's about Akari.
 
-    ("きっと笑って流してくれるだｂ。",
+    ("きっと笑って流してくれるだ。",
     ""),
     # I'm sure he'll laugh and let you go.
 
@@ -942,7 +942,7 @@ text_array = [
     ""),
     # And their relationship is a little bit confusing.†
 
-    ("今骰夜のあれは、驕夜のち蛯ょっとハイな気分が烽もたらした、ほんのささいなシャャ激レ。",
+    ("今骰夜のあれは、驕夜のちょっとハイな気分が烽もたらした、ほんのささいなシャャレ。",
     ""),
     # This evening was a little bit of a shady sham that brought me a high-pitched mood after a shady night.
 
@@ -982,7 +982,7 @@ text_array = [
     ""),
     # Who is it during this time...?
 
-    ("オ激レはのｂのｂ体を起こし、ソファーから起き繧上がった。",
+    ("オレはのの体を起こし、ソファーから起き繧上がった。",
     ""),
     # My guts lifted up my b-body and rose from the sofa.
 
@@ -999,7 +999,7 @@ text_array = [
     # I opened the lock.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「…あかり」†",
@@ -1010,7 +1010,7 @@ text_array = [
     ""),
     # It was Akari.
 
-    ("一瞬、オ激レは言葉を失ってしまった。†",
+    ("一瞬、オレは言葉を失ってしまった。†",
     ""),
     # For a moment, I was speechless.†
 
@@ -1018,7 +1018,7 @@ text_array = [
     ""),
     # "...What's that? What's wrong?"
 
-    ("オ激レはぎこちなく笑って聞いた。",
+    ("オレはぎこちなく笑って聞いた。",
     ""),
     # I listened with awkward laugh.
 
@@ -1026,7 +1026,7 @@ text_array = [
     ""),
     # "Huh...?" †
 
-    ("「忘齧れｂモンで烽もしたのか？」",
+    ("「忘齧れモンで烽もしたのか？」",
     ""),
     # "Did you even boil it with B-mon?"
 
@@ -1058,7 +1058,7 @@ text_array = [
     ""),
     # "Huh? That's because it's a bit of a sputum..."
 
-    ("「オ激レが？	オ激レがなんだよ？」",
+    ("「オレが？	オレがなんだよ？」",
     ""),
     # "Is it my veteran? What's it my veteran?"
 
@@ -1067,22 +1067,22 @@ text_array = [
     # When I hear it,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("あかりははずかしそうに目を嘯伏せて、†",
     ""),
     # Akari looked down beating bewildered,
 
-    ("「…さっき『オ激レの部屋に行こうぜ』って、そう言ったじ痰ゃない」",
+    ("「…さっき『オレの部屋に行こうぜ』って、そう言ったじ痰ゃない」",
     ""),
     # "...I just said, 'Let's go to my room,' and that's the case.'
 
-    ("小さな声で、ごに蛯ょごに蛯ょと言った。†",
+    ("小さな声で、ごにょごにょと言った。†",
     ""),
     # In a small voice, he said to the slut.†
 
-    ("竅や竄や間を置き、オ激レは、",
+    ("やや間を置き、オレは、",
     ""),
     # I put a slut, a bitter, and a bitter,
 
@@ -1103,7 +1103,7 @@ text_array = [
     # "...Yeah... because I was still in my Sanskrit uniform, and when it gets late, moms worry, and I also wanted to go to the next bath... I wanted to go for the % off..."†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("そう言えば、あかりの髪からは、かすかにシャャンプーの≠香闕りがした。†",
@@ -1118,7 +1118,7 @@ text_array = [
     ""),
     # So, what is it?
 
-    ("あかりの竄やつ、じつは最燕初っから、その気だったってことか？",
+    ("あかりのやつ、じつは最燕初っから、その気だったってことか？",
     ""),
     # Does this mean that the guy who tampered with Akari actually had been thinking about it since the beginning of Saien?
 
@@ -1135,15 +1135,15 @@ text_array = [
     # Akari said embarrassedly.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -1174,11 +1174,11 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("あかりは、キ㏍ョトンと墲わからない顔をする。†",
+    ("あかりは、キョトンと墲わからない顔をする。†",
     ""),
     # Akari makes a strange face.†
 
-    ("オ激レは顔を嘯伏せると、",
+    ("オレは顔を嘯伏せると、",
     ""),
     # When I looked down,
 
@@ -1194,7 +1194,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("「ウソにｌまってんだｂー？	シャャ激レだよ、シャャ激レ、軽いジ㏍ョークだよ」",
+    ("「ウソにｌまってんだー？	シャャレだよ、シャャレ、軽いジョークだよ」",
     ""),
     # "Are you lying to be a lie? It's a super exciting thing, it's a light jerk."
 
@@ -1211,15 +1211,15 @@ text_array = [
     # "Believe me, phlegm, my name is, thank you."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「し蛯ょうがねーなァ、はは…」",
+    ("「しょうがねーなァ、はは…」",
     ""),
     # "There's no slut, haha..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ったくよー」",
@@ -1250,7 +1250,7 @@ text_array = [
     ""),
     # "...What is it a lie?"
 
-    ("オ激レは笑って言おうとした。",
+    ("オレは笑って言おうとした。",
     ""),
     # I tried to laugh and say it.
 
@@ -1279,15 +1279,15 @@ text_array = [
     # "...but...that's so bad..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」Å",
@@ -1298,7 +1298,7 @@ text_array = [
     ""),
     # "...What is it, phlegm, my name is?"
 
-    ("今度はオ激レがマジになる番だった。",
+    ("今度はオレがマジになる番だった。",
     ""),
     # This time it was my turn to seriously get my turn.
 
@@ -1306,7 +1306,7 @@ text_array = [
     ""),
     # "...Huh?"†
 
-    ("「…お前、帰っちまったじ痰ゃねーか。オ激レはあれをノーの意思表示だと思ったんだよ」",
+    ("「…お前、帰っちまったじ痰ゃねーか。オレはあれをノーの意思表示だと思ったんだよ」",
     ""),
     # "...You've got a phlegm coming home, right? I thought that was a no-indication."
 
@@ -1314,7 +1314,7 @@ text_array = [
     ""),
     # "Ah, that's not true, that's me.
 
-    ("「＝普通はそう思うだｂ」",
+    ("「＝普通はそう思うだ」",
     ""),
     # "I would normally think so."
 
@@ -1322,7 +1322,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…あの繧後、オ激レは繧後悔してたんだ」",
+    ("「…あの繧後、オレは繧後悔してたんだ」",
     ""),
     # "...After that, I regretted it."
 
@@ -1330,7 +1330,7 @@ text_array = [
     ""),
     # "Hey, I regret it!?"
 
-    ("「…なんであんなことを言っちまったんだ、竅やめとき痰ゃよかった…ってな。",
+    ("「…なんであんなことを言っちまったんだ、やめとき痰ゃよかった…ってな。",
     ""),
     # "...Why did you say that, I wish I had phlegm when I stopped...
 
@@ -1342,7 +1342,7 @@ text_array = [
     ""),
     # "Why…?"†
 
-    ("「…いｂいｂ考えて、いつ烽も通闥りのふたりが自然だと思ったんだよ」",
+    ("「…いい考えて、いつ烽も通闥りのふたりが自然だと思ったんだよ」",
     ""),
     # "I thought about it, and whenever I thought that the two people who were in touch with me were natural."
 
@@ -1350,7 +1350,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「諱よう竄やく嘯答え見つけて、明坙日っからはまたいつ烽ものふたりに戻髢るはずだったのに…」",
+    ("「諱ようやく嘯答え見つけて、明坙日っからはまたいつ烽ものふたりに戻髢るはずだったのに…」",
     ""),
     # "I found the answer and was about to return to the two of them again from the Ming Shun day..."
 
@@ -1358,7 +1358,7 @@ text_array = [
     ""),
     # "...Choosh" †
 
-    ("「なのに、またこうしてｗ遺翌竄ｪって…」",
+    ("「なのに、またこうしてｗ遺翌ｪって…」",
     ""),
     # "But again, this is how it was lol, and the next one has been tampered with..."
 
@@ -1374,7 +1374,7 @@ text_array = [
     ""),
     # "What?!"
 
-    ("「增わりぃけど、オ激レのなかで気搴持ちの整攝理がついちまった。さっきのあれはなかったことにしてくれ」",
+    ("「わりぃけど、オレのなかで気搴持ちの整攝理がついちまった。さっきのあれはなかったことにしてくれ」",
     ""),
     # "It's a bit unfortunate, but I've lost all my energy in my life. Please let me assume that it wasn't there before."
 
@@ -1383,22 +1383,22 @@ text_array = [
     # "Oh, that's not..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("增わずかな沈黙。",
+    ("わずかな沈黙。",
     ""),
     # A slight silence.
 
@@ -1406,7 +1406,7 @@ text_array = [
     ""),
     # and,†
 
-    ("「…增わかった」",
+    ("「…わかった」",
     ""),
     # "...I understand."
 
@@ -1418,7 +1418,7 @@ text_array = [
     ""),
     # "...I'm going back."
 
-    ("力なくつぶ竄やく。",
+    ("力なくつぶやく。",
     ""),
     # He squelched himself without any force.
 
@@ -1431,7 +1431,7 @@ text_array = [
     # "...Choosh sputum."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「…ごめん」",
@@ -1442,11 +1442,11 @@ text_array = [
     ""),
     # Akari said that and tried to go,
 
-    ("「ち蛯ょっと、待て」",
+    ("「ちょっと、待て」",
     ""),
     # "Wait a second."
 
-    ("オ激レは呼び止めた。",
+    ("オレは呼び止めた。",
     ""),
     # I called out.
 
@@ -1466,7 +1466,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「ごめんじ痰ゃねーだｂ。お前は悪くねーんだからよ」",
+    ("「ごめんじ痰ゃねーだ。お前は悪くねーんだからよ」",
     ""),
     # "Sorry, I have no phlegm. You're not in the wrong."
 
@@ -1482,7 +1482,7 @@ text_array = [
     ""),
     # "...?"
 
-    ("「オ激レが帰鼡れっつったら帰驪るのか？」",
+    ("「オレが帰鼡れっつったら帰驪るのか？」",
     ""),
     # "If I'm back, will I go home?"
 
@@ -1506,35 +1506,35 @@ text_array = [
     ""),
     # "Are you unfair...?"
 
-    ("「受け身すぎんだよ。いつ烽もオ激レの言うことに従ってばかりじ痰ゃねーか。なにか他に言うことはねーのかよ？」†",
+    ("「受け身すぎんだよ。いつ烽もオレの言うことに従ってばかりじ痰ゃねーか。なにか他に言うことはねーのかよ？」†",
     ""),
     # "I'm too passive. Is it too passive? Is it okay to keep following what I'm saying? Is there anything else to say?"
 
-    ("「增わ、п私…」",
+    ("「わ、п私…」",
     ""),
     # "Bang, me..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
     ""),
     # "..."†
 
-    ("「增わりぃ」",
+    ("「わりぃ」",
     ""),
     # "Stunned"
 
-    ("オ激レは目を嘯伏せ、謝った。",
+    ("オレは目を嘯伏せ、謝った。",
     ""),
     # My eyes fell down and apologized.
 
@@ -1551,10 +1551,10 @@ text_array = [
     # "Anyway, please come back now."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「お前とのこと、オ激レなりに烽もう少し真武剣に考えてみる」",
+    ("「お前とのこと、オレなりに烽もう少し真武剣に考えてみる」",
     ""),
     # "I'll think about you a little more about Shinbuken, like I'm really excited."
 
@@ -1562,7 +1562,7 @@ text_array = [
     ""),
     # "Ahhhh..." †
 
-    ("「オ激レにとって、お前がいったいなんなのか、正直峵わからなくなってきた」",
+    ("「オレにとって、お前がいったいなんなのか、正直峵わからなくなってきた」",
     ""),
     # "To be honest, I'm starting to find out what you're like."
 
@@ -1570,7 +1570,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…もしかしたら、オ激レ、お前といま以繹上の関係になる自信…ないか烽もしれない」",
+    ("「…もしかしたら、オレ、お前といま以繹上の関係になる自信…ないか烽もしれない」",
     ""),
     # "...Maybe I'm extremely confident that I'll have a relationship with you now... or maybe I'm not even sure."
 
@@ -1582,7 +1582,7 @@ text_array = [
     ""),
     # "She's phlegmy."
 
-    ("オ激レはそう言うと、玄関の戸を開け、強引にあかりの肩を押した。",
+    ("オレはそう言うと、玄関の戸を開け、強引にあかりの肩を押した。",
     ""),
     # When I said that, I opened the door to the entrance and forced Akari's shoulder.
 
@@ -1622,7 +1622,7 @@ text_array = [
     ""),
     # Keep on!†
 
-    ("オ激レはこたえず、潤居間に戻髢ると電気を消し、ついでに玄関の明かり烽も消した。†",
+    ("オレはこたえず、潤居間に戻髢ると電気を消し、ついでに玄関の明かり烽も消した。†",
     ""),
     # I couldn't resist, and when I returned to my living room, I turned off the lights, and also turned off the lights in the entrance.†
 
@@ -1634,19 +1634,19 @@ text_array = [
     ""),
     # Keep on!†
 
-    ("オ激レは暗闇のなか、階段を繧上った。",
+    ("オレは暗闇のなか、階段を繧上った。",
     ""),
     # I climbed the stairs in the darkness.
 
-    ("しばらくして、諱よう竄やくあきらめたのか、あかりは帰っていった。",
+    ("しばらくして、諱ようやくあきらめたのか、あかりは帰っていった。",
     ""),
     # After a while, Akari left, perhaps having given up on his own.
 
-    ("暗い部屋のなか、オ激レはベッドに寝転がり、天苴井を見繻上げていた。",
+    ("暗い部屋のなか、オレはベッドに寝転がり、天井を見上げていた。",
     ""),
     # In the dark room, I lay on my bed, looking up at Tensai.
 
-    ("竅やがて、むくっと繧上半身を起きあがらせ、†",
+    ("やがて、むくっと繧上半身を起きあがらせ、†",
     ""),
     # Eventually, he lifted his upper body up,
 
@@ -1678,11 +1678,11 @@ text_array = [
     ""),
     # Damn.
 
-    ("なに竄やってんだ、オ激レは…。†",
+    ("なにやってんだ、オレは…。†",
     ""),
     # What are you doing, I'm so crazy...†
 
-    ("その繧後、オ激レは馬鹿みたいな桙時間をかけてシャャ純ワーを≠浴びた。",
+    ("その繧後、オレは馬鹿みたいな桙時間をかけてシャャ純ワーを≠浴びた。",
     ""),
     # After that, I spent some stupid time getting hit with Shaya Pure Wah.
 
@@ -1690,7 +1690,7 @@ text_array = [
     ""),
     # I thought it would be fine if all the female droplets of the sunrise were dissolved into p and ended up in conflict.
 
-    ("バスタオ泣ルで簡単に拭き、ト宴ランクス姿で再びベッドにあおむけになった。",
+    ("バスタオルで簡単に拭き、トランクス姿で再びベッドにあおむけになった。",
     ""),
     # He easily wiped it off with a bath towel and leaned back on the bed in the trout.
 
@@ -1699,7 +1699,7 @@ text_array = [
     # Her hair was still wet, but she was exhausted and had no energy to move.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なんでこうなっちまったんだ。",
@@ -1710,7 +1710,7 @@ text_array = [
     ""),
     # No matter what, I don't have any heat, I've been the two of them forever.†
 
-    ("精神的に疲齡れていたのか、目をつぶると、暗い谷齟底に転がるかのように眠気がおそってきた。",
+    ("精神的に疲齡れていたのか、目をつぶると、暗い谷底に転がるかのように眠気がおそってきた。",
     ""),
     # Perhaps he was mentally exhausted, but when I closed his eyes, he began to feel sleepy, as if he was rolling into the dark valley bottom.
 
@@ -1719,10 +1719,10 @@ text_array = [
     # My fist hurts throbbing.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("磨薄齡れる意識のなかで思った。†",
+    ("薄齡れる意識のなかで思った。†",
     ""),
     # I thought this in the midst of a sense of polishing.†
 

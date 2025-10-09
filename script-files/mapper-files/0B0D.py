@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka Pick Date Event 2) (Continued from Chosen A Greeting) (Continued from Chosen C C Picking Cheek) †
 
-    ("オ激レは体を横にｌけると、綾∴香の太熨も烽もに頬ずりした。",
+    ("オレは体を横にｌけると、綾∴香の太熨も烽もに頬ずりした。",
     ""),
     # As I gulp my body to the side, I rubbed my cheek against Aya∴Ka's thick noshi and hot pot.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Aya∴Karasu~..."†
 
-    ("「ち蛯ょ、ち蛯ょっと、なに竄やってんの？」",
+    ("「ちょ、ちょっと、なにやってんの？」",
     ""),
     # "What are you tampering with, huh?"
 
-    ("「見闌り痰ゃ墲わかるだｂ。頬ずりしてんだよ」",
+    ("「見り痰ゃ墲わかるだ。頬ずりしてんだよ」",
     ""),
     # "You can see the phlegm of your eyes. I'm rubbing my cheek."
 
@@ -59,7 +59,7 @@ text_array = [
     # Scrub.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("すりすりすりすり、すりすりすり…。†",
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # Eventually Aya∴Ka chuckled
 
-    ("「…もう、し蛯ょうがない墲わねぇ」",
+    ("「…もう、しょうがない墲わねぇ」",
     ""),
     # "...I'm not going to have any sluts anymore."
 
-    ("竅やれ竄やれという顔でつぶ竄やいた。",
+    ("やれやれという顔でつぶやいた。",
     ""),
     # He muttered with a look on his face to face to face.
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Ahhhhhhh"
 
-    ("縺後撃からオ激レを呼ぶ声。",
+    ("縺後撃からオレを呼ぶ声。",
     ""),
     # After the attack, the voices were spurting on me.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # You can understand it even if you don't have a call.
 
-    ("オ激レのことを『ち痰ゃん付け』で呼ぶようなрヤツは、ひとりしかいない。†",
+    ("オレのことを『ち痰ゃん付け』で呼ぶようなрヤツは、ひとりしかいない。†",
     ""),
     # There is only one person who calls me a "chishou-chan" character.†
 
-    ("「待って。ね、いっし蛯ょに帰汲？」",
+    ("「待って。ね、いっしょに帰汲？」",
     ""),
     # "Wait. Hey, are you going to return to the ephemeral?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Taakari said with a smile as he took a small breath.
 
-    ("「どうで烽もいいけど、そう竄やってでけー声で下の名前呼ぶなよ」",
+    ("「どうで烽もいいけど、そうやってでけー声で下の名前呼ぶなよ」",
     ""),
     # "What do you think, Hot is fine, but don't call your name in a voice."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Ah, sorry" †
 
-    ("「恥ずかしいから竄やめｂって、いい加減何度燗も言ってんだｂ？」",
+    ("「恥ずかしいからやめって、いい加減何度燗も言ってんだ？」",
     ""),
     # "I'm embarrassed, so stop tampering with it b, how many times have you said that you're even warming it?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "At least, call me loudly, phlegm, my name is."
 
-    ("「うん、增わかった」†",
+    ("「うん、わかった」†",
     ""),
     # "Yeah, I understand" †
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "And what?"
 
-    ("「えっ？	あっ、いっし蛯ょに帰汲うと思って。い",
+    ("「えっ？	あっ、いっしょに帰汲うと思って。い",
     ""),
     # "Huh? Ah, I thought I'd return to Ebi.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # That's right.
 
-    ("Ａ	オ激レについてｗ育翌鉤ｂるならな！閨",
+    ("Ａ	オレについてｗ育翌鉤るならな！閨",
     ""),
     # A: About me gaga lol If you're going to get hooked next to you!Relax
 

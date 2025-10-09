@@ -30,15 +30,15 @@ text_array = [
     ""),
     # There are so many things I want to ask.†
 
-    ("「誰とでし蛯ょ〜？」",
+    ("「誰とでしょ〜？」",
     ""),
     # "Who do you want to join?"
 
-    ("質竡問の意味に気づいた志保は、得意げな表﨣情でオ激レを見た。",
+    ("質竡問の意味に気づいた志保は、得意げな表﨣情でオレを見た。",
     ""),
     # Shiho realized the meaning of "Question" and saw me with his proud scrutiny.
 
-    ("「增わかんねえから聞いてんだよ」",
+    ("「わかんねえから聞いてんだよ」",
     ""),
     # "I've heard it because I don't know."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Anyway, all I can say is that a bath girl has no phlegm."
 
-    ("「教えｂってば」",
+    ("「教えってば」",
     ""),
     # "Teach me b"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Ou!"
 
-    ("「誰とでし蛯ょ〜？」",
+    ("「誰とでしょ〜？」",
     ""),
     # "Who do you want to join?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Haha, sorry, sorry."
 
-    ("「まじめに竄やれ！」",
+    ("「まじめにやれ！」",
     ""),
     # "Tamper it seriously!"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "to tell the truth?"†
 
-    ("「…じつは鰍相闡手なんて、いないのよねぇ。、いっし蛯ょに行く？」†",
+    ("「…じつは鰍相闡手なんて、いないのよねぇ。、いっしょに行く？」†",
     ""),
     # "...In fact, there are no other monks. Are you going to the eclipse?"
 
@@ -118,23 +118,23 @@ text_array = [
     ""),
     # "There's something sad..."
 
-    ("「はどうなのよ。なんか予阯定あるの？	ゴールデンウィークの」†",
+    ("「はどうなのよ。なんか予定あるの？	ゴールデンウィークの」†",
     ""),
     # "What's going on? Is there any preliminary decision? Golden Week" †
 
-    ("「いまのとこｂ、とくにｌまってはいないな」",
+    ("「いまのとこ、とくにｌまってはいないな」",
     ""),
     # "B is not particularly lying at the moment."
 
-    ("「じ痰ゃあ、あたしといっし蛯ょにどっかへ遊びに行くってのは、どお？」",
+    ("「じ痰ゃあ、あたしといっしょにどっかへ遊びに行くってのは、どお？」",
     ""),
     # "Ah, what about going to do with me to go and play with you somewhere?"
 
-    ("「考えといて竄やるよ」",
+    ("「考えといてやるよ」",
     ""),
     # "I'll think about it and tamper with it."
 
-    ("「冝期待してっからね。ささ、行き先をｌめまし蛯ょ」",
+    ("「冝期待してっからね。ささ、行き先をｌめましょ」",
     ""),
     # "I'm looking forward to it. I'll go to my destination."
 

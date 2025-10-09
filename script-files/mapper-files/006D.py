@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I never had any particular experience with anyone.†
 
-    ("もし誰かに出初ったらいっし蛯ょに帰汲うかと思ったが、誰熬もいないみてーだな。",
+    ("もし誰かに出初ったらいっしょに帰汲うかと思ったが、誰熬もいないみてーだな。",
     ""),
     # I thought if I had first appeared with someone, I would return to the Ebi, but I'd see no one there.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # A miserable night.
 
-    ("ぐはっ、竅やっちまった。",
+    ("ぐはっ、やっちまった。",
     ""),
     # Guha, I did it.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # I was able to watch the Mikuro Night Show, and it was 3am.
 
-    ("人間ってрヤツは、いったい何度同じ過ちを繰闌り返せば…。◯",
+    ("人間ってрヤツは、いったい何度同じ過ちを繰り返せば…。◯",
     ""),
     # Humans must make the same mistakes over and over again...◯
 

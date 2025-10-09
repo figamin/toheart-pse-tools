@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "So, what did I buy there was ""
 
-    ("「どうせ、クマのなんたら…だｂ？」",
+    ("「どうせ、クマのなんたら…だ？」",
     ""),
     # "And anyway, bear somehow... b?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Ping Pong, that's the right answer."
 
-    ("「バ激レバ激レ」†",
+    ("「バレバレ」†",
     ""),
     # "Barasukuribasukuri"†
 

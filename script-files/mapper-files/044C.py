@@ -2,7 +2,7 @@
 # Source file: 044C.txt
 
 text_array = [
-    ("（志保	好感度イベントＸ）閨（選択綜	２竄問目	×）閨（ＳＥ：ブッブー）†",
+    ("（志保	好感度イベントＸ）閨（選択綜	２問目	×）閨（ＳＥ：ブッブー）†",
     ""),
     # (Shiho Likeability Event X) (Selection Sou 2nd Tamper Question ×) (SE: Bubboo)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Damn it!"
 
-    ("「竅やったぁ！	お馬鹿沁ぁ！」",
+    ("「やったぁ！	お馬鹿沁ぁ！」",
     ""),
     # "Yes! I'm so stupid!"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # ...I'm annoyed.†
 
-    ("『氈次の竄問阮題。閨	地昼繼上で、海に対する陸のр割㈱合はどれくらい？』",
+    ("『氈次の問題。閨	地昼繼上で、海に対する陸のр割㈱合はどれくらい？』",
     ""),
     # "The following is a question of the tampering issue.On the daytime route, how much is the land distribution company for the sea?'
 

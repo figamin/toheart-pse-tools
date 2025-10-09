@@ -10,7 +10,7 @@ text_array = [
     ""),
     # In the end, we lost the dam.
 
-    ("また烽も竄や、ＫＯされてしまった。",
+    ("また烽もや、ＫＯされてしまった。",
     ""),
     # Also, the hot springs were tampered with and KO'd.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # It's refreshing.
 
-    ("パンチを烽もらって熱くなった頬に、竅冷たい翌風が気搴持ちいい。",
+    ("パンチを烽もらって熱くなった頬に、冷たい翌風が気搴持ちいい。",
     ""),
     # The cold air of the cheeks were hot after receiving a punch, and the coldest next breeze lasts a good feeling.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "...An evil devil that seems to be hated."
 
-    ("オ激レは繧上半身を起こして言った。†",
+    ("オレは繧上半身を起こして言った。†",
     ""),
     # I said, lifting my upper body up.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Are you strong?"
 
-    ("寄ってきたセ潟リオが、竅冷たいタオ泣ルを頬に魔当てる。†",
+    ("寄ってきたセリオが、冷たいタオルを頬に魔当てる。†",
     ""),
     # Segata Rio approaches him and puts a cold cry on his cheek.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "this is…?"
 
-    ("「竅冷たいおしぼりです。綾∴香おｏ様に言甯われて用意しました」",
+    ("「冷たいおしぼりです。綾∴香おｏ様に言甯われて用意しました」",
     ""),
     # "It's a cold towel. I prepared it after being told by Aya∴Kaoru Oo."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # When I looked at Aya∴Kara,
 
-    ("「気搴持ちいいでし蛯ょ？」",
+    ("「気搴持ちいいでしょ？」",
     ""),
     # "You're good at keeping your spirits, slut?"
 
@@ -99,14 +99,14 @@ text_array = [
     # He said with a smile.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("まあ、用意がいいのは嬉しいが、堰初めから奄負けを想闡定されていたようで、複雑だな。†",
     ""),
     # Well, I'm happy that they're ready, but it seems that they've been thinking about losing Amami from the start of the dam, so it's complicated.†
 
-    ("「という墲わけでセ潟リオ、今厓日の汲結果は？」",
+    ("「という墲わけでセリオ、今厓日の汲結果は？」",
     ""),
     # "So, what is the result of Segata Rio, now?"
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Five consecutive wins!"
 
-    ("「し蛯ょーがねェ…」†",
+    ("「しょーがねェ…」†",
     ""),
     # "There's no slut..."
 
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # "Oh, please Kaji."
 
-    ("「今厓日は、い墲わ艪ゆる獅試㍽合で勝つための墲戦術を教えてあげる」",
+    ("「今厓日は、い墲わゆる獅試㍽合で勝つための墲戦術を教えてあげる」",
     ""),
     # "On this day, I will teach you the tactics to win the lion's test leap."
 
-    ("「なるほど、增戦術か」†",
+    ("「なるほど、戦術か」†",
     ""),
     # "I see, is this a tactic?"
 
-    ("「いい？	前に烽も言ったと思うけど、格闘技は体力、技術は烽もちｂんだけど、それと同じくらいに、°け引きに勝つ頭脳笏や墲戦術が重要なの」",
+    ("「いい？	前に烽も言ったと思うけど、格闘技は体力、技術は烽もちんだけど、それと同じくらいに、°け引きに勝つ頭脳笏や墲戦術が重要なの」",
     ""),
     # "Are you sure? I think I mentioned it before, but martial arts is physical strength and skill is Homochib, but just as important is the brain scepter and tactics that win the ° pull."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「最近、なんだか蛯大きくなった？」",
+    ("「最近、なんだか大きくなった？」",
     ""),
     # "Have you grown a little lately?"
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # "Uh, my body, overall."
 
-    ("「さあな。筋ト激レとかしてるから、ち蛯ょっとは蛯大きくなってるか烽もな」†",
+    ("「さあな。筋トレとかしてるから、ちょっとは大きくなってるか烽もな」†",
     ""),
     # "Now, I'm doing some intense muscle training, so I guess the slut has grown bigger, so I guess it's even hot."
 
-    ("「瘁違う、そんな撃レベ泣ルじ痰ゃなくて…」",
+    ("「瘁違う、そんな撃レベルじ痰ゃなくて…」",
     ""),
     # "No, I don't have to cry that level of attack..."
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "?"†
 
-    ("「人間的にひとま墲わり蛯大きくなった…とか？」",
+    ("「人間的にひとま墲わり大きくなった…とか？」",
     ""),
     # "As a human, you've grown a little bit...?"
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # "Humanly? Oh, that's quite possible."
 
-    ("オ激レはうなずいた。",
+    ("オレはうなずいた。",
     ""),
     # I nodded.
 
-    ("「オ激レって墲器の蛯大きな人間だからなァ」",
+    ("「オレって墲器の大きな人間だからなァ」",
     ""),
     # "I'm a big fan of the slut."
 

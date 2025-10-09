@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho Additional Event 3) (Selected)†
 
-    ("「掾持ってねえよ。オ激レは烽金搴持ちのボンボンじ痰ゃねえんだ。飯續代がせいぜいだよ」†",
+    ("「掾持ってねえよ。オレは烽金搴持ちのボンボンじ痰ゃねえんだ。飯續代がせいぜいだよ」†",
     ""),
     # "I don't have any enthusiasm. I have no phlegm for the money-making spurt. I have to pay the best meals."
 
-    ("オ激レが嘯答えると、志保は不機刹嫌というかガッカ潟リした顔で、",
+    ("オレが嘯答えると、志保は不機刹嫌というかガッカリした顔で、",
     ""),
     # When I answered, Shiho had a momentary disgust, rather than a disappointment,
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Where do you think this is the issue?"
 
-    ("「あたしの追いかける薰情報は、冝日々の出女沫事だけじ痰ゃなくて、もっと烽もっとひｂ〜い、みんなの役に立つような知識燻も含まれてんのよ」",
+    ("「あたしの追いかける薰情報は、冝日々の出女沫事だけじ痰ゃなくて、もっと烽もっとひ〜い、みんなの役に立つような知識燻も含まれてんのよ」",
     ""),
     # "The information I'm chasing is not just about the daily splashing of women, but also includes knowledge that is even more useful to everyone."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "What do you say you're not interested in my trivia?!"
 
-    ("「なにが暮逡らしの雑学だ。オ激レは眠いんだ、また今度な」",
+    ("「なにが暮逡らしの雑学だ。オレは眠いんだ、また今度な」",
     ""),
     # "What is this trivia for a bit of a bit of a lazy life. I'm sleepy, see you next time."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Shiho quickly returned to the back of the school building.
 
-    ("…あいつ、オ激レをハ＜メ諠ようとしてたんだ。",
+    ("…あいつ、オレをハ＜メ諠ようとしてたんだ。",
     ""),
     # ...He was trying to cum me.
 

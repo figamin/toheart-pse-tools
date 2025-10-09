@@ -10,11 +10,11 @@ text_array = [
     ""),
     # I was bored after returning home that day, so I strolled over to the arcade.
 
-    ("ゲーセンにｗ磯翌ﾆ、ついあのときのｋ辱を思い出してしまう。",
+    ("ゲーセンにｗ磯翌ﾆ、ついあのときの駆辱を思い出してしまう。",
     ""),
     # Iso Iso's next day's game lol, and I can't help but remember the humiliation that time.
 
-    ("忘齧れ烽もしないこの間、志保とрヤクドナ泣ルドのおごりを賭けてｑったゲーム气勝縁負のことだ。†",
+    ("忘齧れ烽もしないこの間、志保とрヤクドナルドのおごりを賭けてｑったゲーム气勝縁負のことだ。†",
     ""),
     # During this time, Shiho and Yakudonna Shiruru were betting on the treats of him, and this was a bad match for him.†
 
@@ -22,23 +22,23 @@ text_array = [
     ""),
     # "Yeeee, Lux Wang Shan, Lux Wang Shan★"
 
-    ("ジェットスキーのゲームで勝縁負したのだが、オ激レは惨めなほどの蛯大敗を喫してしまった。†",
+    ("ジェットスキーのゲームで勝縁負したのだが、オレは惨めなほどの大敗を喫してしまった。†",
     ""),
     # I won the match in a jet ski game, but my ecstasy suffered a miserable defeat.†
 
-    ("「んじ痰ゃ、約束どおり、おごって烽もらう墲わよ。えっと今厓日は、ト潟リプ泣ルチーズのバ潟リャーにアップ泣ルパイ、ド潟リンクはねぇ〜…」",
+    ("「んじ痰ゃ、約束どおり、おごって烽もらう墲わよ。えっと今厓日は、トリプルチーズのバリャーにアップルパイ、ドリンクはねぇ〜…」",
     ""),
     # "As promised, I'll buy you and get some hot springs. Umm, on the day I'm going to have a slug of Togata Rip's crying cheese, and there's no Dogata Rip's crying pie, right?"
 
-    ("「そうい竄やさ、賭俣事って、法律で禁止されてるんだよなぁ」†",
+    ("「そういやさ、賭俣事って、法律で禁止されてるんだよなぁ」†",
     ""),
     # "Tampering and Kanmata affairs are prohibited by law."
 
-    ("「はいはい、男に二言はないの翌＠	ド潟リンクはねぇ、Ｌサイズでぇ〜…」",
+    ("「はいはい、男に二言はないの翌＠	ドリンクはねぇ、Ｌサイズでぇ〜…」",
     ""),
     # "Yes, yes, the next time the man says nothing @ Dogata Link is L size..."
 
-    ("「ちっくし蛯ょ〜っ！	竅やい、志保、テ＜メェ！	さっきのあのプ激レイはマグ激レなんて烽もんじ痰ゃねーぞ！	前熨もって福練習して竄やがったな！」",
+    ("「ちっくしょ〜っ！	やい、志保、テ＜メェ！	さっきのあのプレイはマグレなんて烽もんじ痰ゃねーぞ！	前熨もって練習してやがったな！」",
     ""),
     # "A little slut! I'm not sure what you're going to do with the slutty ram from earlier is a slutty rambling! I practiced fortune with the fortune you put on the front of you!"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Hehehehe, come on, right?"
 
-    ("「くそ〜っ、♂ねー竅やつめ〜っ！」†",
+    ("「くそ〜っ、♂ねーやつめ〜っ！」†",
     ""),
     # "Damn it, slut, you slut!"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # It must be awkward.
 
-    ("アイツは前熨もって福練習して竄やがったんだ。",
+    ("アイツは前熨もって練習してやがったんだ。",
     ""),
     # He used to practice fortune by giving him a front gift and tampering with him.
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # That's why I was very confident.
 
-    ("ちくし蛯ょ〜っ！†",
+    ("ちくしょ〜っ！†",
     ""),
     # Chikushi niku!†
 
-    ("あの冾日のｋ辱は竄絶対に忘齧れんぞ。",
+    ("あの冾日の駆辱は絶対に忘齧れんぞ。",
     ""),
     # I will never forget the humiliation of that day.
 
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # Ah, remembering it made me angry too.
 
-    ("こうなったら、氈次の墲戦いに備えて、オ激レ焜もたっぷり福練習して竄やるぞ。",
+    ("こうなったら、氈次の墲戦いに備えて、オレ焜もたっぷり練習してやるぞ。",
     ""),
     # If this happens, I'll practice a lot of fortune and tamper with it in preparation for the next battle of the war.
 
-    ("見てｂよ〜、志保め。",
+    ("見てよ〜、志保め。",
     ""),
     # Look b, Shiho.
 
-    ("いまにその鼻っ撃柱をへし折って竄やるぜ。",
+    ("いまにその鼻っ撃柱をへし折ってやるぜ。",
     ""),
     # I'll break that nose pole and tamper with it now.
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # It's the best to lick the bitter juices in the next episode!
 
-    ("ゲーセンに入體ると、いきなり目の前に志保に蛯大苑負けした痰例のゲームがドデンと置かれていた。",
+    ("ゲーセンに入體ると、いきなり目の前に志保に大苑負けした痰例のゲームがドデンと置かれていた。",
     ""),
     # Once I entered the arcade, I was suddenly placed in front of me with a game of phlegm that had me losing to Shiho.
 
-    ("諱よーしっ、竅やって竄やるぜ。",
+    ("諱よーしっ、やってやるぜ。",
     ""),
     # Okay, I'll give it a go and tamper with it.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # His time was probably around 2'05"00.
 
-    ("だったら烽もちｂん、オ激レの目標は｢｢！",
+    ("だったら烽もちん、オレの目標は｢｢！",
     ""),
     # So, Homochi B's goal for super live performance is "!
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "teeth~…"
 
-    ("諱取闔りあえずゴールはできた烽ものの、志保のタイムには唐遠く及ばねぇ。",
+    ("諱取闔りあえずゴールはできた烽ものの、志保のタイムには遠く及ばねぇ。",
     ""),
     # Although he managed to get the goal without a doubt, he was far behind Shiho's time.
 
@@ -150,15 +150,15 @@ text_array = [
     ""),
     # Is there already a phlegm just before 6 holes?†
 
-    ("オ激レの竄やってる姿が楽しそうに見えるのか、みんな№順番待ちしてプ激レイしてくる。",
+    ("オレのやってる姿が楽しそうに見えるのか、みんな№順番待ちしてプレイしてくる。",
     ""),
     # Maybe it looks fun to see me tampering with, everyone waits in line and plays violently.
 
-    ("氈次のプ激レイを待つだけで烽も鰍相桝当椏時間がかかりそうだぜ。",
+    ("氈次のプレイを待つだけで烽も鰍相桝当椏時間がかかりそうだぜ。",
     ""),
     # Just waiting for the next one to be reeled will take some time to catch the roe.
 
-    ("それにち蛯ょっと疲齡れたな。†",
+    ("それにちょっと疲齡れたな。†",
     ""),
     # After that, I was really exhausted.†
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # A I'll come back now.Relax
 
-    ("Ｂ	いー竅や、まだまだ！閨",
+    ("Ｂ	いーや、まだまだ！閨",
     ""),
     # B It's nice, it's still a long way to go!Relax
 

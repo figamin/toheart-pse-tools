@@ -2,15 +2,15 @@
 # Source file: 019F.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ａ	だったらいっし蛯ょに帰汲うぜ）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ａ	だったらいっしょに帰汲うぜ）†",
     ""),
     # (Akari Scales Event: Departing from school) (If that's the case, I'll return to the similes)†
 
-    ("「だったらいっし蛯ょに帰汲うぜ」",
+    ("「だったらいっしょに帰汲うぜ」",
     ""),
     # "If that's the case, I'll return to the ephemeral."
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("とくに予阯定熬もないふたりは、せっかくだし、ち蛯ょっと寄闃り道していくことにした。",
+    ("とくに予定熬もないふたりは、せっかくだし、ちょっと寄闃り道していくことにした。",
     ""),
     # The two of them, who had no particular reason to decide, decided to approach them.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # It's a roundabout way around, but I decide to go home on the shopping street course.
 
-    ("「あのお店、ち蛯ょっと寄っていい？」",
+    ("「あのお店、ちょっと寄っていい？」",
     ""),
     # "Can I stop by that shop?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "bean paste?"†
 
-    ("あかりが指をさしたのはち蛯ょっと蛯大きめのペットシ㏍ョップだった。",
+    ("あかりが指をさしたのはちょっと大きめのペットショップだった。",
     ""),
     # Akari pointed her finger at a larger pet syllop.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Is there something to do?"
 
-    ("「そんな墲わけじ痰ゃないけど、ち蛯ょっと覗いていこうよ」",
+    ("「そんな墲わけじ痰ゃないけど、ちょっと覗いていこうよ」",
     ""),
     # "There's no phlegm to do that, but let's take a look."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Well, it's fine though..."
 
-    ("オ激レたちは店燗内に入った。†",
+    ("オレたちは店燗内に入った。†",
     ""),
     # The others went into the store warming.†
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # Several hamsters twitch over the wooden trash.
 
-    ("「そうい竄や、♂史燻も飼ってんだよな」",
+    ("「そういや、♂史燻も飼ってんだよな」",
     ""),
     # "I've also kept a smoked man, and a smoked man."
 
-    ("「たしか同じ墲種類だよ。ジャャンガ潟リアンって曹書いてあるから」†",
+    ("「たしか同じ墲種類だよ。ジャャンガリアンって曹書いてあるから」†",
     ""),
     # "It's definitely the same kind of magnolia. It says "Janga Katalian" †
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Is there a variety of hamsters and chicken?"
 
-    ("「あるよ。ほら、これはジャャンガ潟リアンだし、こっちはゴールデン、あれは高ロボ鴻ロフスキーだって」",
+    ("「あるよ。ほら、これはジャャンガリアンだし、こっちはゴールデン、あれは高ロボ鴻ロフスキーだって」",
     ""),
     # "There is. See, this is Jaanga Katalian, this is Golden, and that is Takarobo Korovsky."
 
@@ -106,15 +106,15 @@ text_array = [
     ""),
     # "It's not that mirage, hamsters are hamsters. They're completely different from mice."
 
-    ("「へいへい、增わかった墲わかった」",
+    ("「へいへい、わかった墲わかった」",
     ""),
     # "Hey hey, I understand, I understand."
 
-    ("オ激レは肩をすくめた。†",
+    ("オレは肩をすくめた。†",
     ""),
     # I shrugged.†
 
-    ("「とこｂで、ち痰ゃん」",
+    ("「とこで、ち痰ゃん」",
     ""),
     # "At b, there's a sphin."
 
@@ -154,31 +154,31 @@ text_array = [
     ""),
     # "Yeah, I realized this when I was bossing."
 
-    ("オ激レは小学生のときに飼ってた犬のボスを思い出しながら言った。†",
+    ("オレは小学生のときに飼ってた犬のボスを思い出しながら言った。†",
     ""),
     # I said, remembering the boss of the dog I owned when I was in elementary school.†
 
-    ("ボスはとにかくでっけー秩白い犬で、たしかピ激レネーあたりの雑寬種だった。",
+    ("ボスはとにかくでっけー秩白い犬で、たしかピレネーあたりの雑寬種だった。",
     ""),
     # The boss was a very white-headed dog, and was definitely a miscellaneous breed around Pigeon Renee.
 
-    ("お手をさせると、でっかい窒白い手がどかっと乗ってきて、まだ小さなオ激レはよく潰されそうになった烽もんだ。",
+    ("お手をさせると、でっかい窒白い手がどかっと乗ってきて、まだ小さなオレはよく潰されそうになった烽もんだ。",
     ""),
     # When I put my hand on him, a huge, white hand came over me, and my still-smacked snugly and I almost got crushed.
 
-    ("あかり竄やｉ史に烽もなついてて、諱よくみんなでいっし蛯ょに散燻歩したり烽もした。†",
+    ("あかりやｉ史に烽もなついてて、諱よくみんなでいっしょに散燻歩したり烽もした。†",
     ""),
     # There was also a lot of heat in the red tampering and I-History, and we all ecstatically smoked and smoked together.†
 
-    ("だが、そんなボス焜も、あるとき急な病気でパッタ潟リと死んでしまった。",
+    ("だが、そんなボス焜も、あるとき急な病気でパッタリと死んでしまった。",
     ""),
     # However, one day, Boss Ho dies from a sudden illness.
 
-    ("そのシ㏍ョックが蛯大きくて、オ激レはしばらく獅落ち桙込みまくった。",
+    ("そのショックが大きくて、オレはしばらく獅落ち桙込みまくった。",
     ""),
     # The squeal was big, and my lion fell over and over again for a while.
 
-    ("あかり竄やｉ史と烽も遊ばずに、ずっと部屋にこ烽もりっきりになったことがあった。†",
+    ("あかりやｉ史と烽も遊ばずに、ずっと部屋にこ烽もりっきりになったことがあった。†",
     ""),
     # I used to be able to stay in my room without playing with the red tampering, I'm still playing with the hot water.†
 
@@ -198,11 +198,11 @@ text_array = [
     ""),
     # Damn it.
 
-    ("なに暗いオー堰ラまとってんだ、オ激レは。†",
+    ("なに暗いオー堰ラまとってんだ、オレは。†",
     ""),
     # What a dark Ao Dare I'm wearing, I'm so excited.†
 
-    ("オ激レは慌てて笑迴顔をｍ闕り直すと、",
+    ("オレは慌てて笑迴顔をｍ闕り直すと、",
     ""),
     # I hurriedly laughed and re-clipped my face,
 
@@ -230,11 +230,11 @@ text_array = [
     ""),
     # "If that's the case, what would you like to keep him?"
 
-    ("「オ激レか？	そうだな｢｢」",
+    ("「オレか？	そうだな｢｢」",
     ""),
     # "Are you so intense? That's right ""
 
-    ("Ａ	竅やっぱ犬かな。閨",
+    ("Ａ	やっぱ犬かな。閨",
     ""),
     # A: I guess it's a dog after all.Relax
 

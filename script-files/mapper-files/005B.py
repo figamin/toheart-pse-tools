@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Squeeze.
 
-    ("端から端までｂモップがけ。",
+    ("端から端までモップがけ。",
     ""),
     # B-mop from end to end.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Yes, it's finished!
 
-    ("オ激レは教室へと戻った。†",
+    ("オレは教室へと戻った。†",
     ""),
     # I returned to the classroom.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Ah, I'm hungry.†
 
-    ("廊下を通って、階段前まで竄やってｗた。",
+    ("廊下を通って、階段前までやってｗた。",
     ""),
     # I went through the hallway and ended up tampering with it all the way to the front of the stairs lol.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # =Shall I come back soon?†
 
-    ("廊下を通って、下駄箱まで竄やってきた。",
+    ("廊下を通って、下駄箱までやってきた。",
     ""),
     # He went through the hallway and even the shoe cabinet.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # He was very warned of his lazy attitude, as he was disparaged from the teacher.†
 
-    ("学校を出て、竅坂道を烽歩く。",
+    ("学校を出て、坂道を烽歩く。",
     ""),
     # I left school and walked down the hill.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Isn't there?
 
-    ("いい竄や、ひとりで帰汲。†",
+    ("いいや、ひとりで帰汲。†",
     ""),
     # I'm going to go back on my own.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # That night.
 
-    ("飯食って、浴風呂入って、サッパ潟リしてから、潤居間でごｂごｂテ激レビ見て…。",
+    ("飯食って、浴風呂入って、サッパリしてから、潤居間でごごテレビ見て…。",
     ""),
     # I ate dinner, took a bath, went straight to the laze, then watched the b-b-b-movie in the living room...
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # It was time for a good gay, so I went to bed and slept.
 
-    ("お竄やすみなさい。",
+    ("おやすみなさい。",
     ""),
     # Good night to tamper with.
 

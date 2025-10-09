@@ -14,19 +14,19 @@ text_array = [
     ""),
     # Daddaddaddaddaddad...
 
-    ("だが、掾理女緒ち痰ゃんは墲わき目燒も振逅らず、磨走闡り抜けていく。†",
+    ("だが、掾理女緒ち痰ゃんは墲わき目燒も振逅らず、走闡り抜けていく。†",
     ""),
     # However, the slutty woman Ochi Symphonyan does not even hesitate to take the ball, and continues to move forward.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("くそっ、校蜊門で追いつくはずだ！",
     ""),
     # Damn it, you should catch up at the school gates!
 
-    ("オ激レは魔走って繧後を追った。†",
+    ("オレは魔走って繧後を追った。†",
     ""),
     # I ran off to follow after him.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Ah, kun. What's wrong?"
 
-    ("息が繧上がってるオ激レに、不思議そうな顔をする揩理女緒ち痰ゃん。",
+    ("息が繧上がってるオレに、不思議そうな顔をする揩理女緒ち痰ゃん。",
     ""),
     # My breath is rising, and I make a strange look on my face.
 
-    ("「い、い竄や、なんで烽も…」",
+    ("「い、いや、なんで烽も…」",
     ""),
     # "No, it's tampering, why not even a hot pot..."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Are you going to have to hurry up now for the Kouan?
 
-    ("「うん…。じつはр私、学校が終尞わったあと、いつ烽もア泣ルバイトしてるんだ」",
+    ("「うん…。じつはр私、学校が終尞わったあと、いつ烽もアルバイトしてるんだ」",
     ""),
     # "Yes... Actually, after school is over, I've been working part-time at the same time as me."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "When did you see that you were playing with Hot Springs?"
 
-    ("「い竄や、そういう墲わけじ痰ゃなくて。バイトでこづかい稼いでるタイプじ痰ゃないと思って」",
+    ("「いや、そういう墲わけじ痰ゃなくて。バイトでこづかい稼いでるタイプじ痰ゃないと思って」",
     ""),
     # "It's not a stimulant, that's not a stimulant. I don't think there's a sputum that's the type who makes money by working part-time."
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「い竄や、急いでるとこ、引き止めちまって」†",
+    ("「いや、急いでるとこ、引き止めちまって」†",
     ""),
     # "Tamper, I'm in a hurry, stop me."
 
-    ("「ううん。ぜんぜん蛯大苟丈夫。",
+    ("「ううん。ぜんぜん大苟丈夫。",
     ""),
     # "Yeah. It's completely strong.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Yeah, see you later."
 
-    ("こっちをｌいたままｋけ出した瞬間｢｢。†",
+    ("こっちをｌいたまま駆け出した瞬間｢｢。†",
     ""),
     # The moment I started to leave this one while still latching, ".†
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "Uhh..."
 
-    ("オ激レはあ墲わててｋけ寄驫る。",
+    ("オレはあ墲わてて駆け寄驫る。",
     ""),
     # My heart throbbed me in a hurry.
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Really? It looks so painful. Come on, grab me."
 
-    ("オ激レは手を差し出して、立たせる。",
+    ("オレは手を差し出して、立たせる。",
     ""),
     # I held out my hand and made him stand up.
 
@@ -171,10 +171,10 @@ text_array = [
     # "Hehehe"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("どう竄やら痛いより烽も、恥ずかしいのほうが先にｗてるみたいだな。†",
+    ("どうやら痛いより烽も、恥ずかしいのほうが先にｗてるみたいだな。†",
     ""),
     # It seems that the embarrassing thing first is the first thing that goes on about it than the pain of tampering.†
 
@@ -182,15 +182,15 @@ text_array = [
     ""),
     # "Oh, that's it, phlegm, here you go, goodbye."
 
-    ("「ほんとに気をつけｂよ」",
+    ("「ほんとに気をつけよ」",
     ""),
     # "Really be careful b."
 
-    ("「增わかった」",
+    ("「わかった」",
     ""),
     # "I understand."
 
-    ("そう言ったに烽もかか墲わらず、掾理女緒ち痰ゃんは再びすごいスピードで竄坂道をｋけていった。",
+    ("そう言ったに烽もかか墲わらず、掾理女緒ち痰ゃんは再びすごいスピードで坂道を駆けていった。",
     ""),
     # Even though he said that, he didn't get any trouble, and once again he headed down the slope at an incredible speed.
 

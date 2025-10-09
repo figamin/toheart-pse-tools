@@ -2,7 +2,7 @@
 # Source file: 0F16.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル３）閨（終業式篇（ぱずる））閨（選択綜	あかりと対岺戦）閨（蛛主人公沍勝ち（＝普通））†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	あかりと対岺戦）閨（蛛主人公沍勝ち（＝普通））†",
     ""),
     # (Arcade Battle Cry 3) (Closing ceremony edition) (Choice Sou Akari and the Battle of the Opposition) (Mrage Protagonist Wins (=Normal))†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I won and got some hot!”
 
-    ("「ううっ、竅やっぱりぃ〜…」",
+    ("「ううっ、やっぱりぃ〜…」",
     ""),
     # "Uhh, I'm sure..."
 
@@ -22,27 +22,27 @@ text_array = [
     ""),
     # "And the muscles of the chicken aren't bad either. You can get used to it, you can do it pretty well, right?"
 
-    ("「言えてる墲わね。どお！？	あかり。あたしの烽もとで鍛えれば立派なパズ宴ラーになれる墲わよ」",
+    ("「言えてる墲わね。どお！？	あかり。あたしの烽もとで鍛えれば立派なパズラーになれる墲わよ」",
     ""),
     # "You can tell me. What!? Akari. If you train with my hot springs, you can become a great puzzle banquet."
 
-    ("「パ、パズ宴ラー…？」",
+    ("「パ、パズラー…？」",
     ""),
     # "Dad, Pazbanquet roe...?"
 
-    ("「イсヤならパズ潟リストで烽もいい墲わよ」",
+    ("「イсヤならパズリストで烽もいい墲わよ」",
     ""),
     # "If you're yeah, you'll be on the Puzzle List and the hot springs will be great."
 
-    ("「呼びかたの竄問阮題じ痰ゃねー諱よ」†",
+    ("「呼びかたの問題じ痰ゃねー諱よ」†",
     ""),
     # "The question of how to call you is, sputum, sputum" †
 
-    ("そんな調子で、その冾日はみんなといっし蛯ょに盛關り繧上がった。",
+    ("そんな調子で、その冾日はみんなといっしょに盛關り繧上がった。",
     ""),
     # With that in mind, the day was well received with everyone.
 
-    ("明坙日から春休みだという開匇放感が、自然とみんなをハイにさせたんだｂう。†",
+    ("明坙日から春休みだという開匇放感が、自然とみんなをハイにさせたんだう。†",
     ""),
     # The feeling of freedom that spring break started from Mingshuun Day naturally made everyone high.†
 

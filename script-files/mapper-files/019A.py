@@ -2,19 +2,19 @@
 # Source file: 019A.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ｂ	背白を見洛送髑る）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ｂ	背白を見洛送る）†",
     ""),
     # (Akari Scales Event: Departing from school) (Choice B: Skulls Skulls) †
 
-    ("どう竄やらあれは英単齟語カード辜らしいな。",
+    ("どうやらあれは英単語カード辜らしいな。",
     ""),
     # It seems that the English singular word card is a bit like that.
 
-    ("そうい竄や、学年又末燒も近いしな。",
+    ("そういや、学年又末燒も近いしな。",
     ""),
     # It's almost like that, and the end of the school year and the last day of the school year are close to it.
 
-    ("しかし、あんな烽ものまでｍって竄やがるとは、梶相変﨑わらずマ＜メなрヤツだ。†",
+    ("しかし、あんな烽ものまでｍってやがるとは、梶相変﨑わらずマ＜メなрヤツだ。†",
     ""),
     # However, it's a bit of a shame that even such hot things are a bit of a shame.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Well, it looks like they're all gathered together, so don't call out to me on the day.
 
-    ("オ激レは黙って背白を見洛送髑ることにした。†",
+    ("オレは黙って背白を見洛送ることにした。†",
     ""),
     # I decided to silently take a look at my back and send my skull.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Good luck, hardworking girl.
 
-    ("磨事故なんか起こすんじ痰ゃねーぞ。◯",
+    ("事故なんか起こすんじ痰ゃねーぞ。◯",
     ""),
     # There's no need to phlegm to cause a polishing accident.◯
 

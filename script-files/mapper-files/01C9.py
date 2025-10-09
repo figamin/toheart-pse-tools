@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari Scales Event Return Road) (Selection A Bear)†
 
-    ("「竅やっぱ、クマだｂ」",
+    ("「やっぱ、クマだ」",
     ""),
     # "After all, it's a kuma b."
 
@@ -22,19 +22,19 @@ text_array = [
     ""),
     # "Ah, yeah, that's right."
 
-    ("本物の墲わけねーだｂ。",
+    ("本物の墲わけねーだ。",
     ""),
     # There's no real thing b.
 
-    ("どう竄やって飛行機で連齪れて帰驪るってんだ。†",
+    ("どうやって飛行機で連齪れて帰驪るってんだ。†",
     ""),
     # How do you fight it and go home repeatedly on an airplane?†
 
-    ("「まあ、閨定番といえば定番だな。人はなぜ、北海道に行くと、クマが欲しくなるんだｂ」",
+    ("「まあ、閨定番といえば定番だな。人はなぜ、北海道に行くと、クマが欲しくなるんだ」",
     ""),
     # "Well, it's a classic, it's a classic. Why do people want bears when they go to Hokkaido?"
 
-    ("「п私燻も竄絶対に欲しいクマの木彫闥りがあるんだ。『熊ボッコ』っていう竄やつでね、木の年輪を生かしてｍ迯られてて、とって烽も可愛いんだ」",
+    ("「п私燻も絶対に欲しいクマの木彫闥りがあるんだ。『熊ボッコ』っていうやつでね、木の年輪を生かしてｍ迯られてて、とって烽も可愛いんだ」",
     ""),
     # "There's a wood carving of bears I definitely want to smoke. It's a tamper called "Kumabokko," and it's made use of the tree's rings, and the hot pot is cute too."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Are the bear lovers' attacks making a fuss?"
 
-    ("「うん。コ激レクターとしては黙ってられない一品だよ」",
+    ("「うん。コレクターとしては黙ってられない一品だよ」",
     ""),
     # "Yes. It's a product that I can't keep quiet as a huge fan."
 

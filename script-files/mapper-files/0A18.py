@@ -14,19 +14,19 @@ text_array = [
     ""),
     # Daddaddaddaddaddad...
 
-    ("だが、掾理女緒ち痰ゃんは墲わき目燒も振逅らず、磨走闡り抜けていく。†",
+    ("だが、掾理女緒ち痰ゃんは墲わき目燒も振逅らず、走闡り抜けていく。†",
     ""),
     # However, the slutty woman Ochi Symphonyan does not even hesitate to take the ball, and continues to move forward.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("くそっ、校蜊門で追いつくはずだ！",
     ""),
     # Damn it, you should catch up at the school gates!
 
-    ("オ激レは魔走って繧後を追った。†",
+    ("オレは魔走って繧後を追った。†",
     ""),
     # I ran off to follow after him.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Ah, kun. What's wrong?"
 
-    ("息が繧上がってるオ激レに、不思議そうな顔をする揩理女緒ち痰ゃん。",
+    ("息が繧上がってるオレに、不思議そうな顔をする揩理女緒ち痰ゃん。",
     ""),
     # My breath is rising, and I make a strange look on my face.
 
-    ("「い、い竄や、なんで烽も…」",
+    ("「い、いや、なんで烽も…」",
     ""),
     # "No, it's tampering, why not even a hot pot..."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Surprisingly, he's quick.†
 
-    ("「と、とこｂで、今厓日燗もバイトに遅薯刻しそうなのか？」",
+    ("「と、とこで、今厓日燗もバイトに遅薯刻しそうなのか？」",
     ""),
     # "And then, in this case, is it likely that you'll probably chop some late-season chopped into your part-time job?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Uh, yes.
 
-    ("私のク宴ラスって、いつ烽もホーム泣ルームが遅くて」",
+    ("私のクラスって、いつ烽もホームルームが遅くて」",
     ""),
     # My banquet is always slow to cry at home."
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # Listening to it makes me feel like I'm an elementary school student before summer vacation.
 
-    ("べつに、＝普段から福口うるさいって墲わけで烽もなく、いい教師だとは思うんだが。†",
+    ("べつに、＝普段から口うるさいって墲わけで烽もなく、いい教師だとは思うんだが。†",
     ""),
     # Furthermore, it's not that he's always loud and noisy, so I think he's a good teacher.†
 
-    ("「なるほど、＊鰯哩んな調子のホーム泣ルームか」",
+    ("「なるほど、＊鰯哩んな調子のホームルームか」",
     ""),
     # "I see. *A home crying room is in a sardine-like mood?"
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "That's right"
 
-    ("「ま、そんだけ生徒齠一人齔一人に気を配ってるってことだｂうな」†",
+    ("「ま、そんだけ生徒齠一人齔一人に気を配ってるってことだうな」†",
     ""),
     # "Well, that means you're paying attention to each student's face."
 
-    ("「うん、そうだと思う。で烽も竄やっぱり、もう少し短いと嬉しいな、п私」",
+    ("「うん、そうだと思う。で烽もやっぱり、もう少し短いと嬉しいな、п私」",
     ""),
     # "Yeah, I think so. And I'm glad if it was a little shorter."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Haha, that's true. That's how it hurts. *Not sardines, it's a hot spring, and you can't even fly without running through the demon."
 
-    ("「磨走髑るのは、ぜんぜん得意だけどね」",
+    ("「走るのは、ぜんぜん得意だけどね」",
     ""),
     # "I'm really good at masturbating skulls though."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Like."
 
-    ("オ激レは笑ってつぶ竄やいた。†",
+    ("オレは笑ってつぶやいた。†",
     ""),
     # I laughed and muttered.†
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "See you soon."
 
-    ("こっちをｌいたままｋけ出した瞬間｢｢。†",
+    ("こっちをｌいたまま駆け出した瞬間｢｢。†",
     ""),
     # The moment I started to leave this one while still latching, ".†
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # "Uh, yes. There's no hot water."
 
-    ("「ほんとかよ？	磨走髑るのが得意とか言ってるそばからこれだ烽もんな。ほら、つかまれ」",
+    ("「ほんとかよ？	走るのが得意とか言ってるそばからこれだ烽もんな。ほら、つかまれ」",
     ""),
     # "Really? This is the place where you say you're good at running skulls. Come on, grab me."
 
-    ("オ激レは手を差し出して、立たせる。",
+    ("オレは手を差し出して、立たせる。",
     ""),
     # I held out my hand and made him stand up.
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # I'm laughing.
 
-    ("しか烽も、ち蛯ょっと嬉しそうだ。",
+    ("しか烽も、ちょっと嬉しそうだ。",
     ""),
     # However, the han looks very happy too.
 
@@ -174,15 +174,15 @@ text_array = [
     ""),
     # "Oh, that's it, phlegm, here you go, goodbye."
 
-    ("「ほんとに気をつけｂよ」",
+    ("「ほんとに気をつけよ」",
     ""),
     # "Really be careful b."
 
-    ("「增わかった」",
+    ("「わかった」",
     ""),
     # "I understand."
 
-    ("そう言ったに烽もかか墲わらず、掾理女緒ち痰ゃんは再びすごいスピードで竄坂道をｋけていった。",
+    ("そう言ったに烽もかか墲わらず、掾理女緒ち痰ゃんは再びすごいスピードで坂道を駆けていった。",
     ""),
     # Even though he said that, he didn't get any trouble, and once again he headed down the slope at an incredible speed.
 

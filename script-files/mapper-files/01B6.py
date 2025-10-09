@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari Scales Event 2F) (B He's the one who's safe and secure)†
 
-    ("たかだか虹ごときで、あんなに嬉しそうにはし痰ゃぎ竄やがって。",
+    ("たかだか虹ごときで、あんなに嬉しそうにはし痰ゃぎやがって。",
     ""),
     # It was just like a rainbow, and he looked so happy that he was tampering with phlegm.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # The one who matches the red light is also lucky or hot.
 
-    ("金のかかるプ激レゼントなんてしなくて烽も、この程度のことで十分賦んでくれるからな。†",
+    ("金のかかるプレゼントなんてしなくて烽も、この程度のことで十分賦んでくれるからな。†",
     ""),
     # They don't do expensive, extremely popular presents, and this level of food will pay enough for the hot springs.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Huh? Is that so...?"
 
-    ("虹が消えてなくなるまでを見届けてから、その繧後、ふたりでいっし蛯ょに帰った。◯",
+    ("虹が消えてなくなるまでを見届けてから、その繧後、ふたりでいっしょに帰った。◯",
     ""),
     # After watching the rainbow disappear and disappear, the two of them returned to the Ebi.◯
 

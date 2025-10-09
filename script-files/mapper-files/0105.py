@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Akari Pick Date Event 1.3) (3rd Lion Day 15th Day) (occurs if you are studying with a light) (occasionally 11th time) (occasionally outside the school) †
 
-    ("家に帰闍り、テキトーに汲昼£メシをすませ、午繻後１桙時ごｂ。",
+    ("家に帰闍り、テキトーに汲昼£メシをすませ、午後１桙時ご。",
     ""),
     # I went home and had some casual lunch and was ready to eat, and it was 1 hour after PM.
 
-    ("そｂそｂ、あかりがｗ磯翌髷ｎ條ﾔだ。†",
+    ("そそ、あかりがｗ磯翌髷ｎ條ﾔだ。†",
     ""),
     # That's b, that's b, the light is lol Isohana no Joya.†
 
@@ -26,19 +26,19 @@ text_array = [
     ""),
     # "Ahhhhhhh"
 
-    ("おととい、昨厓日に引き続き、あかりが家に竄やってきた。◯",
+    ("おととい、昨厓日に引き続き、あかりが家にやってきた。◯",
     ""),
     # Yesterday, Akari came to the house, following last day.◯
 
-    ("あかりといっし蛯ょに勉強するの烽も、これで烽もう３冾日目だ。",
+    ("あかりといっしょに勉強するの烽も、これで烽もう３冾日目だ。",
     ""),
     # This is the third day of studying with Akari.
 
-    ("氏月曜坥日のテストは、グ宴ラマーと化学。",
+    ("氏月曜坥日のテストは、グラマーと化学。",
     ""),
     # The test on Monday Day was Guen Lamar and Chemistry.
 
-    ("諱取闔りあえず今厓日はグ宴ラマーだけを竄やることにし、化学は明坙日の冾日曜坥日に回すことにした。†",
+    ("諱取闔りあえず今厓日はグラマーだけをやることにし、化学は明坙日の冾日曜坥日に回すことにした。†",
     ""),
     # In response to this day, they decided to only tamper with the Glimmer Lamar, and Chemistry decided to turn it into the Sunday Day of Ming Shun.†
 
@@ -50,27 +50,27 @@ text_array = [
     ""),
     # "The boyfriend and woman is very kind, so everyone likes her."
 
-    ("「（＝ａ／入ｂｂ／堰ｉ唐入／ａｂ凾ｙ／入盾ｏ／≠魔ｖｂ窒ｒ凾ｙ",
+    ("「（＝ａ／入／堰ｉ入／ａ凾ｙ／入盾ｏ／≠魔ｖ窒ｒ凾ｙ",
     ""),
     # "(=a/in bb/weir i-Tangent/ab y/injected shield/≠ma vb nitrogen y
 
-    ("ｏ獅ｎｂ／ｋ奄ｉ獅ｎрｄ／戟ｌ盾ｏ魔ｖｂрｄ／〟ｇ奄ｉ窒ｒ撃ｌ／閨",
+    ("ｏ獅ｎ／駆奄ｉ獅ｎрｄ／戟ｌ盾ｏ魔ｖрｄ／〟ｇ奄ｉ窒ｒ撃ｌ／閨",
     ""),
     # o lion/k amai lion/watch shield/o lion/devil vbd/」g amai nitrir attack/
 
-    ("ｔｂ≠ａｔ）．」†",
+    ("ｔ≠ａｔ）．」†",
     ""),
     # tb≠at).”†
 
-    ("「…ち痰ゃん、增わかる？」",
+    ("「…ち痰ゃん、わかる？」",
     ""),
     # "...Come on, do you understand?"
 
-    ("「Ｓｂｂ	堰ｉ唐入	の繧後は、入盾ｏ	ｋ奄ｉ獅ｎрｄ	だｂ？	その繧後は、なんだｂう」†",
+    ("「Ｓ	堰ｉ入	の繧後は、入盾ｏ	駆奄ｉ獅ｎрｄ	だ？	その繧後は、なんだう」†",
     ""),
     # "After the Sbb weir i-Tangento is the shield o kami lion b? After that, what is it?" †
 
-    ("「多分、＝ａ	〟ｇ奄ｉ窒ｒ撃ｌ	ｔｂ≠ａｔ	入ｂｂ	堰ｉ唐入	戟ｌ盾ｏ魔ｖｂрｄ	ａｂ凾ｙ	≠魔ｖｂ窒ｒ凾ｙ盾ｏ獅ｎｂ．だよ」",
+    ("「多分、＝ａ	〟ｇ奄ｉ窒ｒ撃ｌ	ｔ≠ａｔ	入	堰ｉ入	戟ｌ盾ｏ魔ｖрｄ	ａ凾ｙ	≠魔ｖ窒ｒ凾ｙ盾ｏ獅ｎ．だよ」",
     ""),
     # "Maybe = a 'G Amai Nitrol Shot ≡ At Into BB I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I Tang I TIt's right."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "The one thing to be careful of is this place..."
 
-    ("その冾日、夕菶方６桙時頃、明坙日の冾日曜坥日燗も午繻後からいっし蛯ょに勉強することを約束して、あかりは帰っていった。◯",
+    ("その冾日、夕菶方６桙時頃、明坙日の冾日曜坥日燗も午後からいっしょに勉強することを約束して、あかりは帰っていった。◯",
     ""),
     # On that day, around six hours of the day, Akari left, promised to study with her on Sunday, Sunday, and the day of the Ming Shun, after the morning, she returned.◯
 

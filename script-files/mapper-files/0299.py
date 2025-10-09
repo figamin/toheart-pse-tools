@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Ahhh, I'm sleepy...
 
-    ("教室を出髀るなり、オ激レはふあ〜と蛯大あくびをかました。",
+    ("教室を出髀るなり、オレはふあ〜と大あくびをかました。",
     ""),
     # As soon as I left the classroom, I yawned a huge slut, gushing, "Aaaah!"
 
-    ("しかし春ってのは、なんでこう眠くなるんだｂーな…。†",
+    ("しかし春ってのは、なんでこう眠くなるんだーな…。†",
     ""),
     # However, why do I feel so sleepy in spring...†
 
@@ -34,12 +34,12 @@ text_array = [
     ""),
     # "Uh, O-san!"
 
-    ("オ激レは声をかけた。†",
+    ("オレは声をかけた。†",
     ""),
     # I called out to him.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え、なんだか眠そうって？	そーなんだよ。どう烽も春はねぇ」",
@@ -47,7 +47,7 @@ text_array = [
     # "What, you're sleepy? That's what it is. I don't know about spring either."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ、いい薬がある？	目が覚めて元気が出髀る薬だって？」",
@@ -59,7 +59,7 @@ text_array = [
     # Ko-kun.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「飲んでみますかって？	そうだな」",
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # A: Get the medicine.Relax
 
-    ("Ｂ	竅やめとく。閨",
+    ("Ｂ	やめとく。閨",
     ""),
     # B I'll stop.Relax
 

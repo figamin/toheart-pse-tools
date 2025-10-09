@@ -2,7 +2,7 @@
 # Source file: 01AE.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｂ	悪いが、途湯で寄驫るとこｂがある）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｂ	悪いが、途湯で寄驫るとこがある）†",
     ""),
     # (Akari Scales Event: Departing from school) (B, bad, but there is a place where you can come in at the bathhouse)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「悪いけど、途湯で寄驫るとこｂがあってな。いっし蛯ょに行けるのはその辺までだ」",
+    ("「悪いけど、途湯で寄驫るとこがあってな。いっしょに行けるのはその辺までだ」",
     ""),
     # "I'm sorry, but there's a place where I'll come to the bus. That's the only place I can go to.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # There are a few words and words that are completely unrequited.
 
-    ("商店街が見えてきた辺阨りで、オ激レはあかりと別れた。◯",
+    ("商店街が見えてきた辺阨りで、オレはあかりと別れた。◯",
     ""),
     # As I saw the shopping district, I parted ways with Akari.◯
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # lunch break.
 
-    ("青空の広がる気搴持ちのいい天気だったので、オ激レは久しぶりにｒ鋳に出て、ベンチに座闕り、そこで汲昼£メシを食うことにした。†",
+    ("青空の広がる気搴持ちのいい天気だったので、オレは久しぶりにｒ鋳に出て、ベンチに座闕り、そこで汲昼£メシを食うことにした。†",
     ""),
     # The weather was beautiful with a blue sky and a cheerful atmosphere, so I went out to the R-cast for the first time in a while, sat on the bench, where I decided to eat lunch.†
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # I'm alone now.
 
-    ("いつ烽もはｉ史といっし蛯ょに食ってるが、あいつはときどき、姉の手詩闕り弁抹当を揩持参してくることがあり、そんなときは自然と別々に食うことになる。†",
+    ("いつ烽もはｉ史といっしょに食ってるが、あいつはときどき、姉の手詩闕り弁抹当を揩持参してくることがあり、そんなときは自然と別々に食うことになる。†",
     ""),
     # He always eats the food with I-Shin, but sometimes he brings his sister's hand-popularity with him, and in such cases he naturally eats it separately.†
 
-    ("パンがふたつにパックのカフェオ激レ。",
+    ("パンがふたつにパックのカフェオレ。",
     ""),
     # Cafe au lait with two breads and packs.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # However, there are many people who use the school cafeteria, and even the lion is falling apart, so there's no need to worry about it.
 
-    ("昼は竄やっぱり、こう、のんびりといきたい烽もんだ。†",
+    ("昼はやっぱり、こう、のんびりといきたい烽もんだ。†",
     ""),
     # During the day, I really want to go relaxed and relaxed.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # He tears the bag of bread while experiencing the bright sunlight.
 
-    ("カフェオ激レにスト鴻ローを突き刺し、ひとくちすすって、たまにはひとりで食うの烽もいい烽もんだな、なんて思っていると…。†",
+    ("カフェオレにスト鴻ローを突き刺し、ひとくちすすって、たまにはひとりで食うの烽もいい烽もんだな、なんて思っていると…。†",
     ""),
     # I was thinking that the hot springs of thrusts into the Cafe au Era, sip a bite, and sometimes eating them alone is a good hot spring...†
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Yeah, well... Aoi Chishonan, too?"
 
-    ("「はい、いつ烽もいっし蛯ょの友だちが今厓日はお休みで。あの、ごいっし蛯ょして烽もよｂしいですか？」",
+    ("「はい、いつ烽もいっしょの友だちが今厓日はお休みで。あの、ごいっしょして烽もよしいですか？」",
     ""),
     # "Yes, when will my friend be off on the day of the day? Is it okay to have a good time to have a good time to have a good time?"
 
-    ("「ああ、もちｂん。どーぞ、どーぞ」",
+    ("「ああ、もちん。どーぞ、どーぞ」",
     ""),
     # "Ah, mochi b. What, what?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "I'm sorry, I'll give you a sigh."
 
-    ("葵ち痰ゃんはオ激レの横にｍ會高ｺ奄した。◯",
+    ("葵ち痰ゃんはオレの横にｍ會高ｺ奄した。◯",
     ""),
     # Aoi Chisho-chan went to Mkai Takako next to me.◯
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "When are you able to eat hot spring here?"
 
-    ("「い竄や、いつ烽もは教室で食ってるけど、今厓日はたまたま天気がよかったからさ」",
+    ("「いや、いつ烽もは教室で食ってるけど、今厓日はたまたま天気がよかったからさ」",
     ""),
     # "I'm not going to eat at all times in the classroom, but the weather just happened to be nice on the day."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # It contained half a side dish and half a rice dish.
 
-    ("オ激レがしげしげ見つめていると、",
+    ("オレがしげしげ見つめていると、",
     ""),
     # As I stared at him
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Oh, don't look too much."
 
-    ("葵ち痰ゃんは恥ずかしそうに両阯手で隠した。†",
+    ("葵ち痰ゃんは恥ずかしそうに両手で隠した。†",
     ""),
     # Aoi Chisho-yan shyly hid it with his hands.†
 
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # He nodded.
 
-    ("「豪勢じ痰ゃん。隠す必要なんてないだｂ」†",
+    ("「豪勢じ痰ゃん。隠す必要なんてないだ」†",
     ""),
     # "An extravagant phlegm. There's no need to hide it." †
 
-    ("「п私のお弁抹当箱って、たぶん≠普通の翌女の子のより蛯大きいから、恥ずかしくて…」",
+    ("「п私のお弁抹当箱って、たぶん≠普通の翌女の子のより大きいから、恥ずかしくて…」",
     ""),
     # "My bento box is probably bigger than the normal girl's next day, so I'm embarrassed..."
 
-    ("弁抹当箱が蛯大きい…？",
+    ("弁抹当箱が大きい…？",
     ""),
     # The bento box is big...?
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "...Puh."
 
-    ("そのセ潟リフがなんと烽も微笑ましく、オ激レは思寬わず≠吹き出してしまった。",
+    ("そのセリフがなんと烽も微笑ましく、オレは思寬わず≠吹き出してしまった。",
     ""),
     # The Segata riff was heartwarming, and I couldn't help but burst out loud without thinking about it.
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # Aoi Chisho-ya's face turns red in a flash.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # A: He says that it's obvious that he's exercising.Relax
 
-    ("Ｂ	そり痰ゃ多いな、太髑るぞ〜、と言う。閨",
+    ("Ｂ	そり痰ゃ多いな、太るぞ〜、と言う。閨",
     ""),
     # B He says that he has a lot of phlegm, he'll skull a thick skull.Relax
 

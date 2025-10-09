@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Is it two gazes?
 
-    ("そｂそｂ、あかりのрヤツがｗ磯翌骰だな。†",
+    ("そそ、あかりのрヤツがｗ磯翌骰だな。†",
     ""),
     # That's b, the guy Akari's lol Isozuki is the one.†
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # With a smile, Akari entered the room.
 
-    ("「今厓日はおみ竄やげがあるよー」",
+    ("「今厓日はおみやげがあるよー」",
     ""),
     # "There's a slurping slurping right now."
 
-    ("「おみ竄やげ？」",
+    ("「おみやげ？」",
     ""),
     # "Damn it all?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Oh, don't feel like it lol. I really like that thing."
 
-    ("「うん。ち痰ゃん、たしか前にそう言ってたから。３桙時のお竄やつに食べよ」",
+    ("「うん。ち痰ゃん、たしか前にそう言ってたから。３桙時のおやつに食べよ」",
     ""),
     # "Yeah. I'm sure you said that before. Eat it for the three-frame tampering."
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # "Yes" ◯
 
-    ("あかりといっし蛯ょに勉強するの烽も、これで烽もう４冾日目だ。",
+    ("あかりといっしょに勉強するの烽も、これで烽もう４冾日目だ。",
     ""),
     # This is the fourth day of studying with Akari.
 
-    ("氏月曜坥日のテストは、グ宴ラマーと化学。",
+    ("氏月曜坥日のテストは、グラマーと化学。",
     ""),
     # The test on Monday Day was Guen Lamar and Chemistry.
 
-    ("グ宴ラマーの福方は土曜坥日に竄やったから、今厓日は徹齠底的に化学を竄やるぞ。†",
+    ("グラマーの方は土曜坥日にやったから、今厓日は徹齠底的に化学をやるぞ。†",
     ""),
     # The Fukukata of Gubangamer was tampered with Saturday's Day, so now I'll be tampering with chemistry.†
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # "Is it a relief that the area is narrow only for the three schools' period?"
 
-    ("「それじ痰ゃ、さっそくですが、ち痰ゃん。テキストの巻槙末笆問阮題からの出闖題です。",
+    ("「それじ痰ゃ、さっそくですが、ち痰ゃん。テキストの巻槙末笆問題からの出闖題です。",
     ""),
     # "That's it, I'll just go straight to it, but it's a question. This is a question from the textbook, Maki Sue-Sue-Sou.
 
-    ("単量体が宸○宦○反梍応を繰闌り返して、ａ高分子になる反梍応を付加重㍼合という。",
+    ("単量体が宸○宦○反梍応を繰り返して、ａ高分子になる反梍応を付加重㍼合という。",
     ""),
     # The reaction between the monomers repeats the reaction between polymers and polymers, and is called the weighted liter.
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Are you going to add additional anger?"
 
-    ("「ピンポンピンポーン、正解でーす！	それでは次の竄問阮題です。",
+    ("「ピンポンピンポーン、正解でーす！	それでは次の問題です。",
     ""),
     # "Ping Pong Pong Pong, that's the right answer! Now, here's the next question.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # The p-atom of the carbide …”†
 
-    ("その冾日は、３桙時ごｂにあかりのモ買ってきたケーキを食べ、６桙時ごｂまで勉強した。◯",
+    ("その冾日は、３桙時ごにあかりのモ買ってきたケーキを食べ、６桙時ごまで勉強した。◯",
     ""),
     # On that day, I ate the cake I bought for the light uminous mo at 3 oz. B, and studied until the 6 oz. B.◯
 

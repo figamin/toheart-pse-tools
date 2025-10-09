@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "That's fine."
 
-    ("「竅やったぁ！",
+    ("「やったぁ！",
     ""),
     # "Yeah!
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # I love it."
 
-    ("そう言うが≠早いか、戟レミィはいきなりオ激レに抱きついた。†",
+    ("そう言うが≠早いか、戟レミィはいきなりオレに抱きついた。†",
     ""),
     # But it's too early, and Suddenly, Karemi hugged me suddenly.†
 
-    ("「お、おいおい！	離齬れｂって」",
+    ("「お、おいおい！	離齬れって」",
     ""),
     # "Oh, hey! It's a break-up b."
 
@@ -30,19 +30,19 @@ text_array = [
     ""),
     # He said that, but inside, he didn't feel bad about it.
 
-    ("むしｂ、嬉しい。",
+    ("むし、嬉しい。",
     ""),
     # I'm happy, slug b.
 
-    ("…けど、これはち蛯ょっとハズい。",
+    ("…けど、これはちょっとハズい。",
     ""),
     # ...But this is a shame.
 
-    ("こんなとこ誰かに見迪られたら、ち蛯ょっとしたニャースだぞ！？†",
+    ("こんなとこ誰かに見迪られたら、ちょっとしたニャースだぞ！？†",
     ""),
     # If someone like mews me, it would be a meow that I'd be surprised!?†
 
-    ("幸いというか残念というか、戟レミィはオ激レを押し倒したりすること烽もなく蛯大人しく離齬れた。",
+    ("幸いというか残念というか、戟レミィはオレを押し倒したりすること烽もなく大人しく離齬れた。",
     ""),
     # Fortunately or rather unfortunate, the ramblings were quietly separated, without pushing me down.
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Are you open on Sunday of the week?"
 
-    ("「＠週？	まさか、ボウ潟リング黹場で教えｂって言うのか？」",
+    ("「＠週？	まさか、ボウリング黹場で教えって言うのか？」",
     ""),
     # "@week? Is it possible that you say "Teacher b" at Bowlat Ring Rock Field?"
 
-    ("「Ｙｂ唐入」",
+    ("「Ｙ入」",
     ""),
     # "Yb Tangari"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # The thing I'm talking about now probably means "happy."
 
-    ("「冝日曜だったな。どう竄やって待ち№合寘わせる？」",
+    ("「冝日曜だったな。どうやって待ち№合寘わせる？」",
     ""),
     # "It was a Sunday. How can you tamper with the wait?!"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "...I'm not sure what's the 10-minute gaze at £Shaoyu Station?"
 
-    ("「Ｔｂ≠ａｔ’入	＝ａ撃ｌ撃ｌ	秩ｒ奄ｉ№ｇｂｔ。駅に１０桙時ネ？」",
+    ("「Ｔ≠ａｔ’入	＝ａ撃ｌ撃ｌ	秩ｒ奄ｉ№ｇｔ。駅に１０桙時ネ？」",
     ""),
     # "Tb≠at' enter = A-shot l Shot l Choi Amai No. GBT. 10 gazes at the station?"
 
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # Nodded, and Karemy smiled.†
 
-    ("「じ痰ゃあ冾日曜坥日に唐入ｂｂ	凵ｙ盾ｏ浮ｕ！」",
+    ("「じ痰ゃあ冾日曜坥日に入	凵ｙ盾ｏ浮ｕ！」",
     ""),
     # "I'm not going to get any more sighs on Sunday, the Tang lie BB, the shield o floats!"
 
-    ("そう言って、くるりと身をひるがえし、タタタッとｋけて行った。",
+    ("そう言って、くるりと身をひるがえし、タタタッと駆けて行った。",
     ""),
     # With that, he flinched and leaned forward.
 
-    ("オ激レは右濶手で軽くおうじる。",
+    ("オレは右濶手で軽くおうじる。",
     ""),
     # I lightly squeal with my right hand.
 

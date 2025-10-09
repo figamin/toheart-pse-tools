@@ -2,7 +2,7 @@
 # Source file: 0695.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜ＡＢＣの続き）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜ＡＢＣの続き）†",
     ""),
     # (Makyuruchi Scales Event 2F LV3) (Continued from Chosen ABC)†
 
@@ -10,15 +10,15 @@ text_array = [
     ""),
     # ...However, it's rare for a high robot with weak tears to occur.
 
-    ("だいたい、他の高ロボットはモ泣いたりするのかね。",
+    ("だいたい、他の高ロボットはモいたりするのかね。",
     ""),
     # I wonder if other high-robots usually cry.
 
-    ("マ泣ルチを見ているとホント、香ロボットってことを忘齧れちまうよな。†",
+    ("マルチを見ているとホント、香ロボットってことを忘齧れちまうよな。†",
     ""),
     # When I watch Makruchi, I really forget that it's a fragrance robot.†
 
-    ("「じ痰ゃあ、メ泣かせたお墲わびってことで、また今厓日燗も掃恆除を手伝って竄やるぜ」",
+    ("「じ痰ゃあ、メかせたお墲わびってことで、また今厓日燗も掃恆除を手伝ってやるぜ」",
     ""),
     # "I'm sorry, it's a sigh that made me cry, so I'll help you clean up and remove the slush and tamper with it."
 

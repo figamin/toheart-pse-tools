@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Let's take a look at how the cattle come out for now.
 
-    ("本沫、氈勝つ確率から言うと、開始と同椏時のｊ襲攻ｍ撃が有効なんだｂうが、さすがにそれは読まれてそうな気がするしな。",
+    ("本沫、氈勝つ確率から言うと、開始と同椏時のｊ襲攻ｍ撃が有効なんだうが、さすがにそれは読まれてそうな気がするしな。",
     ""),
     # From the probability of winning, the J-raid M-raid at the same time as the start is effective, but I think that's probably being read.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Let's take a closer look here.†
 
-    ("オ激レが手を出さずにいると、",
+    ("オレが手を出さずにいると、",
     ""),
     # When I'm not trying to do it,
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "What's wrong? It's not on the hook lol?"
 
-    ("梶リズミカ泣ルなフット純ワークを続けながら、綾∴香が言った。†",
+    ("梶リズミカルなフット純ワークを続けながら、綾∴香が言った。†",
     ""),
     # Aya∴Kawa said, continuing his crying pure footwork.†
 
-    ("こういうセ潟リフを吐くってことは、竅やはり攻ｍ撃を誘って竄やがったな。",
+    ("こういうセリフを吐くってことは、やはり攻ｍ撃を誘ってやがったな。",
     ""),
     # If they were to spew this kind of riff, it would have been a bit of a temptation and attack.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # No good.
 
-    ("誘って竄やがる。",
+    ("誘ってやがる。",
     ""),
     # He invites him and tampers with him.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Right!?
 
-    ("オ激レが体をひねった瞬間、綾∴香の左ジャャブが｢｢い竄や、瘁違う、フェイントだ！",
+    ("オレが体をひねった瞬間、綾∴香の左ジャャブが｢｢いや、瘁違う、フェイントだ！",
     ""),
     # The moment I twisted my body, Aya∴Ka's left Jayabu said, "Tsniff, it's not a mirage, it's feint!"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # Pleasant sound.
 
-    ("本命の右フックが、オ激レの側頭箔部をモ激しく揺逞らした。",
+    ("本命の右フックが、オレの側頭箔部をモしく揺逞らした。",
     ""),
     # The main right hook shaked my intense temporal foil vigorously.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # cormorant~….
 
-    ("竅やられちまった。",
+    ("やられちまった。",
     ""),
     # I was defeated.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # It's okay to wait for Aya∴Ka to come out, but he couldn't respond to Kaji Senko's attack and M attack at all.
 
-    ("ちくし蛯ょう。†",
+    ("ちくしょう。†",
     ""),
     # Chikushi Ebi.†
 
@@ -115,18 +115,18 @@ text_array = [
     # "It's fine to ask how Kaji Sensei works, but since they don't have the basics at all, there's no way they can handle it."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("もっと烽もだ。†",
     ""),
     # More hot.†
 
-    ("「で烽も、てっきり先關手必泄勝のｊ襲攻ｍ撃でｗ磯翌ｩと思ってたのに、ち蛯ょっと予想外だ墲わ」",
+    ("「で烽も、てっきり先關手必泄勝のｊ襲攻ｍ撃でｗ磯翌ｩと思ってたのに、ちょっと予想外だ墲わ」",
     ""),
     # "And even though I was thinking that the first move would win, I was going to have a J-raid, M-raid lol, but it was unexpected."
 
-    ("「竅やっぱりｊ襲したほうがよかったか」",
+    ("「やっぱりｊ襲したほうがよかったか」",
     ""),
     # "I guess it would have been better to attack J after all."
 
@@ -142,19 +142,19 @@ text_array = [
     ""),
     # "..."†
 
-    ("「潤ワナにはまらなかっただけマシじ痰ゃない。あとは薰基本的な竄問阮題をク潟リアしないとね」",
+    ("「潤ワナにはまらなかっただけマシじ痰ゃない。あとは薰基本的な問題をクリアしないとね」",
     ""),
     # "I'm better off not getting into Jungna. All that's left is to have to do is to Kugataria the basic question."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なに烽も言い返せない。†",
     ""),
     # I can't say anything back.†
 
-    ("「で烽も、竅冷静と臆病は痰違う墲わよ。考えすぎて消極的になってしまったら、それは臆病なのと変﨑わらない墲わ」",
+    ("「で烽も、冷静と臆病は痰違う墲わよ。考えすぎて消極的になってしまったら、それは臆病なのと変﨑わらない墲わ」",
     ""),
     # "And even for Hou, calmness and cowardice are different. If you think too much and become passive, it's cowardice and you won't be able to make a difference."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "oh dear…"
 
-    ("く竄やしいが、たしかにそのとおりだ。†",
+    ("くやしいが、たしかにそのとおりだ。†",
     ""),
     # It's tampering, but it's certainly true.†
 

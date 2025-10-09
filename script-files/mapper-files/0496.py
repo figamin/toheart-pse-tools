@@ -14,19 +14,19 @@ text_array = [
     ""),
     # "picture?"
 
-    ("オ激レの言葉を聞いて、ふたりと烽もそんな声を繧上げる。",
+    ("オレの言葉を聞いて、ふたりと烽もそんな声を繧上げる。",
     ""),
     # Hearing my ecstatic words, the two and Hou also let out such a cry.
 
-    ("「どっちかを選んだら、どっちかに悪いだｂ？",
+    ("「どっちかを選んだら、どっちかに悪いだ？",
     ""),
     # "If you choose one, it's worse than either b?
 
-    ("オ激レはひとりで帰っから」",
+    ("オレはひとりで帰っから」",
     ""),
     # I'll go home alone."
 
-    ("オ激レはふたりに手を振って、さっさと烽歩き出した。†",
+    ("オレはふたりに手を振って、さっさと烽歩き出した。†",
     ""),
     # I waved at the two of them and quickly started walking.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "~"
 
-    ("ふたりの翌女の子に見洛送迹られて、ち蛯ょっと繧上機刹嫌でオ激レは学校を繧後にした。◯",
+    ("ふたりの翌女の子に見洛送迹られて、ちょっと繧上機刹嫌でオレは学校を繧後にした。◯",
     ""),
     # The next girl sent me to the scene, and I ended up just passing by the girls, so I left school after a moment of hard work.◯
 

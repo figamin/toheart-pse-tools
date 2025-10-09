@@ -22,7 +22,7 @@ text_array = [
     ""),
     # I'll look at the answer~"
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "I haven't even done anything yet."
 
-    ("秩白博のプ潟リントを見せながらｉ史が言った。",
+    ("秩白博のプリントを見せながらｉ史が言った。",
     ""),
     # Ishi said as he showed the Pulato Rinto of Chichihaku Hiroshi.
 
-    ("たしかにオ激レと同じで、まだ全然闡手つけず状態だ。†",
+    ("たしかにオレと同じで、まだ全然闡手つけず状態だ。†",
     ""),
     # It's true that it's the same as my supernatural, and I'm still not able to handle it at all.†
 
-    ("「どーすんだ？	竅問阮題は多くねーけど、結構ムズいぞ」",
+    ("「どーすんだ？	問題は多くねーけど、結構ムズいぞ」",
     ""),
     # "What's wrong? There are a lot of questions, but it's pretty tough."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "All of us share the work? Are you a great man? If one person gets a different story, we'll all have to defeat them.
 
-    ("手分けしたの烽もバ激レバ激レだし」",
+    ("手分けしたの烽もバレバレだし」",
     ""),
     # The one who shared the role was also extremely loud."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "You're a pretty rough guy."
 
-    ("結局、オ激レは竄問４を担亦当することになった。",
+    ("結局、オレは問４を担亦当することになった。",
     ""),
     # In the end, I ended up taking on the role of tampering question 4.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "And now it's solved.
 
-    ("ただし、あくまでいちおうの撃レベ泣ル。",
+    ("ただし、あくまでいちおうの撃レベル。",
     ""),
     # However, it's just a thrilling level of tears.
 

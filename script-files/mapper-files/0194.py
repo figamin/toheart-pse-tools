@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Well, well, that's true..."
 
-    ("「悪いな。オ激レは貧乏くさい話が苦闍手でな。",
+    ("「悪いな。オレは貧乏くさい話が苦闍手でな。",
     ""),
     # "That's bad. I'm a tough guy with talking about poor things.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "That's the phlegm" †
 
-    ("あかりとｉ史に手を振って、オ激レは烽歩き出した。◯",
+    ("あかりとｉ史に手を振って、オレは烽歩き出した。◯",
     ""),
     # Waving to Akari and Ishi, I began to walk around.◯
 

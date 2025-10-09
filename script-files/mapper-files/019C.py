@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I gave a wry smile.†
 
-    ("「え、正解だｂ？」",
+    ("「え、正解だ？」",
     ""),
     # "What, is that correct?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Uh, that's a shame."
 
-    ("「なにぃ？	えっと『ａｂｂ≠ａ浮ｕｔ奄ｉｂ浮ｕ撃ｌ』に『入ｂ≠ａ』に『ａｂ窒ｒｂ≠ａ汲ｋ』『ｔ≠ａ撃ｌ汲ｋ』だから…」†",
+    ("「なにぃ？	えっと『ａ≠ａ浮ｕｔ奄ｉ浮ｕ撃ｌ』に『入≠ａ』に『ａ窒ｒ≠ａ汲駆』『ｔ≠ａ撃ｌ汲駆』だから…」†",
     ""),
     # "What? Umm, "Abb≠a Utamib Utagekil" and "Into B≠a" and "AbNRB≠A Knock" and "T≠A Knock"..."†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Oh, I see... what is it, sputum? There's no sputum on the quiz show."
 
-    ("「いえ、スペ泣ルのチェック焜も唐兼ねてまして。残念ですが勉強不足でーす」",
+    ("「いえ、スペルのチェック焜も兼ねてまして。残念ですが勉強不足でーす」",
     ""),
     # "No, I'm also in the tangible check-in of Super Crying. I'm sorry, but I'm not very studying."
 

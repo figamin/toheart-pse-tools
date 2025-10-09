@@ -14,19 +14,19 @@ text_array = [
     ""),
     # "mountain?"†
 
-    ("「まあな。山の…とくに頂纈上が、すっげー好きかな。登闢りきった瞬間に『竅やったー！』とか思うだｂ。その繧後、目に飛び桙込んでくる景色…。これが一番サイコーかな」",
+    ("「まあな。山の…とくに頂纈上が、すっげー好きかな。登闢りきった瞬間に『やったー！』とか思うだ。その繧後、目に飛び桙込んでくる景色…。これが一番サイコーかな」",
     ""),
     # "Well, I really like the mountains... especially the top of the summit. The moment I finish the job, I think, 'Yes!'. After that, the scenery blew through my eyes... I think this is the best."
 
-    ("「Ｏｂ、凵ｙｂ≠ａｂ…」†",
+    ("「Ｏ、凵ｙ≠ａ…」†",
     ""),
     # "Ob, yb≠ab..."†
 
-    ("「もちｂん、登體る途湯熬も好きだぜ。鳥のさえずりとか、木の匂いとか、こせこせした街樺と痰違って、心に艪ゆとりができてくるだｂ？	だから『山』かな」†",
+    ("「もちん、登體る途湯熬も好きだぜ。鳥のさえずりとか、木の匂いとか、こせこせした街樺と痰違って、心にゆとりができてくるだ？	だから『山』かな」†",
     ""),
     # "I also like Mochi B, the climbing route Yue. Unlike the birds chirping and the smell of trees, the phlegm of the sniffing birch, it gives you plenty of room in your heart? That's why it's like 'mountain'."
 
-    ("「驕夜はモｃ≠ａ高ｍ垂ｐｂ奄ｉ窒ｒｂネ！」",
+    ("「驕夜はモｃ≠ａ高ｍ垂ｐ奄ｉ窒ｒネ！」",
     ""),
     # "At night, the moc≠a high m high pb amai nitrogen!"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Is it a phlegm with a phlegm..."
 
-    ("「アタシ、といっし蛯ょに山へ行きたい！」",
+    ("「アタシ、といっしょに山へ行きたい！」",
     ""),
     # "I want to go to the mountains with me!"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "...I want to go to death" †
 
-    ("「もーすぐ、みんなで修学旅行に行けるだｂ。それでじ繧ゅーぶんだ」",
+    ("「もーすぐ、みんなで修学旅行に行けるだ。それでじ繧ゅーぶんだ」",
     ""),
     # "We'll all be on a school trip soon. That's all going for it."
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # The ramblings persistently eat away at him.
 
-    ("オ激レは仕緖方なく、",
+    ("オレは仕緖方なく、",
     ""),
     # I'm not in charge of anything,
 
-    ("「じ痰ゃあ、增わかった。ち蛯ょっと気が≠早いが、夏休みに行こう」",
+    ("「じ痰ゃあ、わかった。ちょっと気が≠早いが、夏休みに行こう」",
     ""),
     # "Ah, I understand. I feel like it's too early, but let's go on summer vacation."
 

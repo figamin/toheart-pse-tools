@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Some students rush home, while others are still staying behind even though they have no plans to go to the shield, and others are able to have a rambling chatter.
 
-    ("オ激レは唐鞄を取って、席から立ち繧上がった。†",
+    ("オレは鞄を取って、席から立ち繧上がった。†",
     ""),
     # I grabbed my bag and stood up from my seat.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # I walked along the hallway and looked out into the view outside.
 
-    ("秩白くかすんだ唐遠くの景色が見える。",
+    ("秩白くかすんだ遠くの景色が見える。",
     ""),
     # You can see a random, hazy view from the far away Tang Dynasty.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # I'm going back on my own.
 
-    ("意識して考えると竄寂しい烽ものがあるな。",
+    ("意識して考えると寂しい烽ものがあるな。",
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # Does anyone know who?†
 
-    ("新しいク宴ラスに烽もさっそくなじんできた。",
+    ("新しいクラスに烽もさっそくなじんできた。",
     ""),
     # The hot springs quickly began to get used to the new banquet.
 
-    ("オ激レは№順桴応性がｂ高いрヤツなのだ。",
+    ("オレは№順桴応性が高いрヤツなのだ。",
     ""),
     # My hero is a guy with a high degree of responsiveness.
 
-    ("だが、なじみすぎると逆に鰍リ宴ラックスして、潤居眠阮りしちまうから困った烽ものだ。",
+    ("だが、なじみすぎると逆に鰍リラックスして、潤居眠りしちまうから困った烽ものだ。",
     ""),
     # However, if you become too familiar, you will end up having a relaxing banquet and falling asleep, which is a troublesome hot dish.
 

@@ -2,15 +2,15 @@
 # Source file: 01A9.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ａ	竅やっぱり、あるんじ痰ゃないかと）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ａ	やっぱり、あるんじ痰ゃないかと）†",
     ""),
     # (Akari Scales Event 1F) (Ah, I guess there's no phlegm after all)†
 
-    ("「竅やっぱり、あるんじ痰ゃないかと思う」",
+    ("「やっぱり、あるんじ痰ゃないかと思う」",
     ""),
     # "I think there's nothing more to phlegm after all."
 
-    ("オ激レはそう嘯答えた。",
+    ("オレはそう嘯答えた。",
     ""),
     # I replied like that.
 
@@ -39,15 +39,15 @@ text_array = [
     # "I am Dr. Kamigishi, Yuu, the Hyperin-Child Science Research Institute"†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("オ激レは艪ゆっくりス鴻ローａモーシ㏍ョンでパンチを打った。",
+    ("オレはゆっくりス鴻ローａモーションでパンチを打った。",
     ""),
     # I hit a punch with a slow, slow-moving A-mosy.
 
@@ -71,7 +71,7 @@ text_array = [
     # Just before the jean touches his cheek,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("あかりはさっと右に避ける。†",
@@ -83,10 +83,10 @@ text_array = [
     # "Damn, there's one more shot..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("さらに艪ゆっくりス鴻ローａモーシ㏍ョンのパンチを打つ。",
+    ("さらにゆっくりス鴻ローａモーションのパンチを打つ。",
     ""),
     # He then slowly punches Sniff A Mosyun.
 
@@ -95,7 +95,7 @@ text_array = [
     # The moment the jean touches your cheek,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("あかりはさっと左に避ける。†",
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # Well, it's easy to deny it.
 
-    ("だいたいオ激レ焜も、あの実体験がなければ、一笑に付してたか烽もしれない。",
+    ("だいたいオレ焜も、あの実体験がなければ、一笑に付してたか烽もしれない。",
     ""),
     # I'm pretty sure my real experience would have been a laughing matter if I hadn't had that real experience.
 

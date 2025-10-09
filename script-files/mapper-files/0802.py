@@ -10,15 +10,15 @@ text_array = [
     ""),
     # I woke up early on the day, so I was wandering around the station.
 
-    ("さて、そｂそｂ飯どきだ。",
+    ("さて、そそ飯どきだ。",
     ""),
     # Well, it's time to eat b and b.
 
-    ("ち蛯ょっと鰍リッチに汲昼は外食だな。",
+    ("ちょっと鰍リッチに汲昼は外食だな。",
     ""),
     # I'm going to eat out for lunch with a rich choy.
 
-    ("店が混んでこないうちに、どっかに入唐う。†",
+    ("店が混んでこないうちに、どっかに入う。†",
     ""),
     # Before the store was busy, we headed out somewhere.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # ...Now, where should I eat it?
 
-    ("пヤックは汲昼£メシ諠より、お竄やつってノ潟リだし。",
+    ("пヤックは汲昼£メシ諠より、おやつってノリだし。",
     ""),
     # The пYak is a tampering thing from the luncheon meal, and it's a bit of a tampering thing.
 
@@ -42,23 +42,23 @@ text_array = [
     ""),
     # It's a reasonable price, and the other day's Katsudonya Han was also nice or hot.
 
-    ("…そうだな、竅やっぱカツ丼だな。†",
+    ("…そうだな、やっぱカツ丼だな。†",
     ""),
     # ...That's right, it's definitely a cutlet bowl.†
 
-    ("オ激レは痰例のカツ丼屋にｌかった。",
+    ("オレは痰例のカツ丼屋にｌかった。",
     ""),
     # My geisha was at a cutlet bowl restaurant with sputum.
 
-    ("｢｢と、そこで急ブ激レーキ。",
+    ("｢｢と、そこで急ブレーキ。",
     ""),
     # "And then, a sudden rake came.
 
-    ("そういえば、この近葛所にファミ激レスがあるんだ。",
+    ("そういえば、この近葛所にファミレスがあるんだ。",
     ""),
     # Come to think of it, there's a huge Famicom replied here in Kuzukushi.
 
-    ("ａ高いファミ激レスで食ってこそ、梶リッチなんじ痰ゃねえのか？",
+    ("ａ高いファミレスで食ってこそ、梶リッチなんじ痰ゃねえのか？",
     ""),
     # Is Kaji Rich the only thing you can do when you eat a super-replying family replies?
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # There are also places where this is simply a waste of money.†
 
-    ("ファミ潟リー戟レスト宴ラン『ブ泣ルースカイ』に竄やってきた。",
+    ("ファミリー戟レストラン『ブルースカイ』にやってきた。",
     ""),
     # I've come to the Family Grass Rest Banquet Run "Blue Lu Sky."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "I've got a lot of phlegm!"
 
-    ("ウェート激レスの案煦内で席にｒいた。",
+    ("ウェートレスの案煦内で席にｒいた。",
     ""),
     # I sat in the seat inside the plan that made me feel bad about the weight.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Sorry for the wait.
 
-    ("ｍｂ獅ｎ浮ｕをどーぞ」",
+    ("ｍ獅ｎ浮ｕをどーぞ」",
     ""),
     # What about MB Lion Floating U?"
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Isn't there phlegm?!"
 
-    ("「こんなとこｂでにｉえるなんて、アタシ、感リ激っ」",
+    ("「こんなとこでにｉえるなんて、アタシ、感リっ」",
     ""),
     # "I'm so moved that I could get an i in this place with b."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Oh, is that so?"
 
-    ("そこまでｊんで烽もらえると、オ激レまで嬉しくなってくる。",
+    ("そこまでｊんで烽もらえると、オレまで嬉しくなってくる。",
     ""),
     # When I get so much urges and get hot, I feel so happy.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Are you doing part-time here?"
 
-    ("「Ｙｂ唐入」",
+    ("「Ｙ入」",
     ""),
     # "Yb Tangari"
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "I don't know if it's ーーー, but I'm not too sputum c."
 
-    ("「じ痰ゃ、こづかいに烽も困迯らないだｂ？	なんでバイトなんかしてんだよ。欲しい物で烽もあんのか？」†",
+    ("「じ痰ゃ、こづかいに烽も困迯らないだ？	なんでバイトなんかしてんだよ。欲しい物で烽もあんのか？」†",
     ""),
     # "You're not too worried about the phlegm, or the phoenix, don't you have any problems with your pocket money? Why are you working part-time? Do you want something and have some hot pot?"†
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Why not phlegm?"
 
-    ("「Ｄ≠ａрｄは『社脂ベンキ㏍ョーだ』って言ってたｃ」",
+    ("「Ｄ≠ａрｄは『社脂ベンキョーだ』って言ってたｃ」",
     ""),
     # "D≠aрd said, 'It's a company-wide benki'"
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # I see, study about company fats.
 
-    ("たしかにア泣ルバイトは勉強になる。",
+    ("たしかにアルバイトは勉強になる。",
     ""),
     # It's true that a part-time job in a crying way is educational.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Ehhehe"†
 
-    ("オ激レはｉめて、戟レミィの制梵服姿を眺めてみた…。",
+    ("オレはｉめて、戟レミィの制梵服姿を眺めてみた…。",
     ""),
     # I got an i-dovey and looked at Karemi's Sanskrit uniform...
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Huh? Gochau cmon?"
 
-    ("「うん。…香ｍｂ獅ｎ浮ｕ見て」",
+    ("「うん。…香ｍ獅ｎ浮ｕ見て」",
     ""),
     # "Yes... Look at the lion nymph."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "Oh, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 
-    ("ついつい撃レミィに見とれてしまって、オ激レはなにをしにｗたのか忘齧れていた。†",
+    ("ついつい撃レミィに見とれてしまって、オレはなにをしにｗたのか忘齧れていた。†",
     ""),
     # I couldn't help but be captivated by Ekiremi's eyes, and I was forgetting what I was doing lol.†
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "...What's your recommendation here?"
 
-    ("ハンバーグだとかステーキだとか、磨当たり前すぎる≠メニャーを見てると、どれ烽も平凡で、うまそうに見えなくなってくる。†",
+    ("ハンバーグだとかステーキだとか、当たり前すぎる≠メニャーを見てると、どれ烽も平凡で、うまそうに見えなくなってくる。†",
     ""),
     # When I look at the hamburger and steak, which are so obvious, the potatoes are all mediocre and no longer look tasty.†
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "We are currently holding a 'Spring Pasta Festival' at our store."
 
-    ("「そうかよ。…にして烽も、客に店員の好みを勧めるのは、ここのр売阡り福方なのか？」",
+    ("「そうかよ。…にして烽も、客に店員の好みを勧めるのは、ここのр売阡り方なのか？」",
     ""),
     # "I see. ...Is it the way to sell the store clerks to encourage customers to do what they like?"
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "...Does the customer like pasta?"
 
-    ("「オ激レか？	うまけり痰ゃなんで烽もいいけど」",
+    ("「オレか？	うまけり痰ゃなんで烽もいいけど」",
     ""),
     # "Are you so intense? I have so much phlegm, so hot is fine."
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # "let's see…"
 
-    ("オ激レはパスタのページを開いた。†",
+    ("オレはパスタのページを開いた。†",
     ""),
     # Ogere opened the pasta page.†
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # Hmm, pasta with syrup and rape flowers.
 
-    ("えびとかアサ潟リとか、シーフードがたっぷりだな。",
+    ("えびとかアサリとか、シーフードがたっぷりだな。",
     ""),
     # It's full of seafood, such as shrimp and clam lilies.
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # Is the rape flower that's on my head?†
 
-    ("お次はブ鴻ロッコ潟リーとベーコンのパスタ。",
+    ("お次はブ鴻ロッコリーとベーコンのパスタ。",
     ""),
     # Next is the pasta with broccoli and bacon.
 
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # As the taste can be imagined, there are also squid and hot water.†
 
-    ("その次がрヤ潟リイカの浮黒パスタ。",
+    ("その次がрヤリイカの浮黒パスタ。",
     ""),
     # Next is the floating black pasta with yagata squid.
 
@@ -310,15 +310,15 @@ text_array = [
     ""),
     # It's full of squid breezes.
 
-    ("真っ浮黒でギ宴ラギ宴ラしてる感じが食欲をそそるな。†",
+    ("真っ浮黒でギラギラしてる感じが食欲をそそるな。†",
     ""),
     # The feeling of a black banquet and banquet simmering in the air doesn't make your appetite.†
 
-    ("…なんて、見てるとキ潟リがない。",
+    ("…なんて、見てるとキリがない。",
     ""),
     # ...When I look at it, there's no sign of anything.
 
-    ("なにしｂ写真は全泊部うまそうに撮ってあるからな。",
+    ("なにし写真は全泊部うまそうに撮ってあるからな。",
     ""),
     # All of the B photos were taken in a good way with Tomaribu's appearance.
 
@@ -334,11 +334,11 @@ text_array = [
     ""),
     # "You'll have to be phlegmy, please give me your help."
 
-    ("「かしこまりました。アタシの好きなのは、うにク潟リームパスタです」†",
+    ("「かしこまりました。アタシの好きなのは、うにクリームパスタです」†",
     ""),
     # "I'm a bit sniffing. My favorite is the sea urchin kugata ripe pasta."
 
-    ("「おい。…いい竄や、それうまそうだから揩持ってきてくれ」",
+    ("「おい。…いいや、それうまそうだから揩持ってきてくれ」",
     ""),
     # "Hey... it's tampering, so bring it to me, so please bring it."
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # Ekiremi has been using strange and formal words for a while now.
 
-    ("ファミ激レスのマニャア泣ル、おそるべし。†",
+    ("ファミレスのマニャアル、おそるべし。†",
     ""),
     # The manual crying of a family drama retard is amazing.†
 
@@ -378,11 +378,11 @@ text_array = [
     ""),
     # "...Huh?"
 
-    ("オ激レ、いま、ち痰ゃんと鰍頼んだはずだったのに…。†",
+    ("オレ、いま、ち痰ゃんと鰍頼んだはずだったのに…。†",
     ""),
     # I was supposed to have ordered a choy choy just now...†
 
-    ("「コー堰ラと烏龍嵐メAオ激レンジジャースがありマス」",
+    ("「コー堰ラと烏龍嵐メAオレンジジャースがありマス」",
     ""),
     # "There's a Kouyura and Oolong Storm MeA O Extreme Range Jars"
 
@@ -403,10 +403,10 @@ text_array = [
     # "I'm in awe. What would you like to drink?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「コー堰ラと烏龍嵐メAオ激レンジジャースがありマス」",
+    ("「コー堰ラと烏龍嵐メAオレンジジャースがありマス」",
     ""),
     # "There's a Kouyura and Oolong Storm MeA O Extreme Range Jars"
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # "...I'm not gonna get oolong storm
 
-    ("「かしこまりましたァ。お飲み物は、いつお揩持ちいたしまし蛯ょうか？」†",
+    ("「かしこまりましたァ。お飲み物は、いつお揩持ちいたしましょうか？」†",
     ""),
     # "I'm in a good mood. When will I bring you a drink?"
 
@@ -438,7 +438,7 @@ text_array = [
     ""),
     # "Ah, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 
-    ("「Ｙｂ唐入？」",
+    ("「Ｙ入？」",
     ""),
     # "Yb Tangyu?"
 
@@ -466,7 +466,7 @@ text_array = [
     ""),
     # "Ah, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 
-    ("「Ｙｂ唐入？」",
+    ("「Ｙ入？」",
     ""),
     # "Yb Tangyu?"
 
@@ -482,7 +482,7 @@ text_array = [
     ""),
     # On that day, I saw a side to War Remie's unintelligible side.
 
-    ("彼濫女、春休みｒはバイトを続けてるそうだから、機級があったら顔を見に行って竄やるか。◯",
+    ("彼濫女、春休みｒはバイトを続けてるそうだから、機級があったら顔を見に行ってやるか。◯",
     ""),
     # Apparently, he continues to work part-time during Spring Break R, so if he has the opportunity to get a look at his face, he'll go and tamper with it.◯
 

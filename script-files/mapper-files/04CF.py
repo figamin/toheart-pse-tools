@@ -14,7 +14,7 @@ text_array = [
     ""),
     # There are many fun spots around here, such as hot springs, if you stretch your legs a little by little by train.
 
-    ("ジャャン泣ル焜も、食べる、メ買う、遊ぶ、宿聡泊など、一通闥りそｂってる。†",
+    ("ジャャンル焜も、食べる、メ買う、遊ぶ、宿聡泊など、一通闥りそってる。†",
     ""),
     # Jayan's crying is also a place where he eats, buys melons, plays, and stays at the hotel.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Hey...
 
-    ("泊阡りがけで遊園地とか烽も良いしぃ、シ㏍ョッピングとか、驕夜は有名なお店へ食べに行くっての烽もオツね」",
+    ("泊阡りがけで遊園地とか烽も良いしぃ、ショッピングとか、驕夜は有名なお店へ食べに行くっての烽もオツね」",
     ""),
     # They're good at the amusement park and hot springs, and they're also good at cooking and eating at famous restaurants on nights.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Is that something that's all over the night club?"
 
-    ("「えへへ、ち蛯ょっとゼータクかなぁ…」",
+    ("「えへへ、ちょっとゼータクかなぁ…」",
     ""),
     # "Hehe, I wonder if it's a zetaku..."
 
-    ("「ち蛯ょっとだぁ？	こんなрヤツの彼＃氏になるｖ郎は、きっと蛯大変だぜ」†",
+    ("「ちょっとだぁ？	こんなрヤツの彼＃氏になるｖ郎は、きっと大変だぜ」†",
     ""),
     # "Are you a slut? It's surely going to be a tough guy like this to become a boyfriend #"†
 

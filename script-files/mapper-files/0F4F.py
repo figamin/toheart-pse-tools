@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Saturday, April 12th) (6th time of the weir radio)†
 
-    ("テ激レビを見ていた。",
+    ("テレビを見ていた。",
     ""),
     # I was watching the TV drama.
 
-    ("バ宴ラエティーだ。",
+    ("バラエティーだ。",
     ""),
     # It's a banquet and daily life.
 
-    ("增わはは。",
+    ("わはは。",
     ""),
     # Ha ha.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # A: Go to your room and listen to Amano Radio.Relax
 
-    ("Ｂ	このままテ激レビを見骭る。閨",
+    ("Ｂ	このままテレビを見骭る。閨",
     ""),
     # B I keep watching the intense replies on the TV.Relax
 

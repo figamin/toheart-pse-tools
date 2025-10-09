@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Fourth day of the 23rd day of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the
 
-    ("磨当然、今厓日燗も朝はｗ磯翌驕B",
+    ("当然、今厓日燗も朝はｗ磯翌驕B",
     ""),
     # Of course, the morning is now available lol Iso next day
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # I'm going.
 
-    ("誰熬もいない家にそう言い残し、オ激レは玄関を出た。†",
+    ("誰熬もいない家にそう言い残し、オレは玄関を出た。†",
     ""),
     # I left the door after leaving this in a house where no one had ever been found.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Good morning, sputum."
 
-    ("′こうの道からｋけてきたあかりが言った。",
+    ("′こうの道から駆けてきたあかりが言った。",
     ""),
     # 'Akari, who was coming from the path of the world, said.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Hehehe, big yawn."
 
-    ("あかりは顔をほこｂばせた。†",
+    ("あかりは顔をほこばせた。†",
     ""),
     # Akari let her face go.†
 

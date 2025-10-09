@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I'll think about it."
 
-    ("と、オ激レは嘯答えた。",
+    ("と、オレは嘯答えた。",
     ""),
     # My heart replied.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "The delicious bento sake is also delicious."
 
-    ("どう竄やらあかりはかなり行きたいらしい。†",
+    ("どうやらあかりはかなり行きたいらしい。†",
     ""),
     # Apparently, it seems that he wants to go to Doujin and Akari quite a bit.†
 
-    ("オ激レは…というと、どっちで烽もいい。",
+    ("オレは…というと、どっちで烽もいい。",
     ""),
     # When it comes to my supernatural...it's better, either way.
 

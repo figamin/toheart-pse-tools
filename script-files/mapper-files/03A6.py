@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Okay, let's follow the story.
 
-    ("オ激レは急いで雑庶誌を棚に戻し、鞄を取って、店の外へと飛び出した。†",
+    ("オレは急いで雑庶誌を棚に戻し、鞄を取って、店の外へと飛び出した。†",
     ""),
     # I quickly put the sash magazine back on the shelf, grabbed my bag, and ran out of the store.†
 
-    ("アーケードの通闥りに出て、キ㏍ョ鴻ロキ㏍ョ鴻ロとま墲わりの人混みを見渡した。",
+    ("アーケードの通闥りに出て、キョ鴻ロキョ鴻ロとま墲わりの人混みを見渡した。",
     ""),
     # We went out to the arcade line and looked over the crowds around Honglo and the surrounding area.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # It's probably not like I've been in a different mood from the very beginning.
 
-    ("どこかの嘯建物にで烽も入ったんだｂうか。",
+    ("どこかの嘯建物にで烽も入ったんだうか。",
     ""),
     # I wonder if there's a building somewhere in the sky.
 

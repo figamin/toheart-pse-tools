@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Oh? There's phlegm, @Suisui-san, you have phlegm?"
 
-    ("£鋳のベンチで、なに竄やら本を読んでいるｗ栖瑞謳先輩を見かけた。",
+    ("£鋳のベンチで、なにやら本を読んでいるｗ栖瑞謳先輩を見かけた。",
     ""),
     # On the bench of £ I saw Senpai Suzumi-san reading books and doing something about it.
 

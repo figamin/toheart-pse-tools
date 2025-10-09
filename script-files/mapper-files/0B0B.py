@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "She's sputum!"
 
-    ("オ激レは体をひねってうつ嘯伏せになると、綾∴香の太熨も烽もに顔をうずめた。",
+    ("オレは体をひねってうつ嘯伏せになると、綾∴香の太熨も烽もに顔をうずめた。",
     ""),
     # I twisted my body and leaned down, and my face leaned in the thick and hot Aya∴Ka's thick noshi and hot.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Aya∴Kara twitches.†
 
-    ("「な、なに竄やってんのよ…？」",
+    ("「な、なにやってんのよ…？」",
     ""),
     # "What, what are you tampering with?..."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "So why are you denting your body?"
 
-    ("「べつに深い揩理由はないが、横になるときはオ激レはいつ烽もうつ嘯伏せなんだ」",
+    ("「べつに深い揩理由はないが、横になるときはオレはいつ烽もうつ嘯伏せなんだ」",
     ""),
     # "There's no deep reason for this, but when I lie down, when I'm gross leaning down."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # That's a lie though.†
 
-    ("「ち蛯ょ、ち蛯ょっと、これは竄やりすぎよ」",
+    ("「ちょ、ちょっと、これはやりすぎよ」",
     ""),
     # "I'm going to have to tamper with this too much."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "It's a different kind of instinct, so please let me go" †
 
-    ("「もう、し蛯ょうがない墲わね」",
+    ("「もう、しょうがない墲わね」",
     ""),
     # "There's no more sluts."
 
@@ -71,7 +71,7 @@ text_array = [
     # Okay, I'll just wait like this.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -82,12 +82,12 @@ text_array = [
     ""),
     # "Hey, it's ticklish in my breath..."
 
-    ("「がまんしｂ」",
+    ("「がまんし」",
     ""),
     # "Perse yourself b"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -103,7 +103,7 @@ text_array = [
     # "For a while."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",

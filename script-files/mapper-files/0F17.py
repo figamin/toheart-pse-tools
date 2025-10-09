@@ -2,7 +2,7 @@
 # Source file: 0F17.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル３）閨（終業式篇（ぱずる））閨（選択綜	あかりと対岺戦）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	あかりと対岺戦）閨（蛛主人公煙負け）†",
     ""),
     # (Arcade Battle Cry 3) (Closing ceremony edition) (Choices: Akari and the Battle of the Opposition) (Mrage Protagonist) (Shut up))
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "...Well, we lost the dam."
 
-    ("「竅やった、氈勝ったよ〜！	イェイ！」",
+    ("「やった、氈勝ったよ〜！	イェイ！」",
     ""),
     # "I did it, I won! Yeeee!"
 
-    ("い、意外とうまいな、あかりの竄やつ。†",
+    ("い、意外とうまいな、あかりのやつ。†",
     ""),
     # Yes, it's surprisingly good, the tampering of Akari.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # This time I just happened to be in a bad mood.†
 
-    ("「竅やったー、ち痰ゃんに勝ったー」",
+    ("「やったー、ち痰ゃんに勝ったー」",
     ""),
     # "Yaaaah, I beat Chisho-yan."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "…Fuck"
 
-    ("「竅やった、竅やったー」",
+    ("「やった、やったー」",
     ""),
     # "I did it, I did it."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "I'm not satisfied with it..."
 
-    ("「どう竄やら物がからむと強くなるらしいな。ハス宴ラーって竄やつか？」",
+    ("「どうやら物がからむと強くなるらしいな。ハスラーってやつか？」",
     ""),
     # "It seems that when tampering or something gets entangled, it gets stronger. Is the lotus banquet that tamper?"
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "That's fine. I'll get the hot water in a few times."
 
-    ("その繧後、そのままのテンシ㏍ョンを揩持続し、派阡手に竄やりあった。",
+    ("その繧後、そのままのテンションを揩持続し、派阡手にやりあった。",
     ""),
     # After that, the tenshic was kept on and the stolen ones were tampered with.
 
-    ("明坙日から春休みだという開匇放感が、自然とみんなをハイにさせたんだｂう。†",
+    ("明坙日から春休みだという開匇放感が、自然とみんなをハイにさせたんだう。†",
     ""),
     # The feeling of freedom that spring break started from Mingshuun Day naturally made everyone high.†
 

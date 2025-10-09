@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko's 9th Likeability Event) (Continued from Chosen So B) †
 
-    ("今厓日は竄やめとこう。",
+    ("今厓日はやめとこう。",
     ""),
     # Let's stop tampering on the day right now.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Since we broke up like that last time, it's been a bit difficult to talk to them.
 
-    ("…とはいう烽ものの、いつまで烽もこんなこと竄やってち痰ゃ、一煦歩熾も前に進まないしな。",
+    ("…とはいう烽ものの、いつまで烽もこんなことやってち痰ゃ、一煦歩熾も前に進まないしな。",
     ""),
     # ...That said, even though it's hot, how long should you keep tampering with this, even a single stomping will not move forward.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Anyway, I have to talk.
 
-    ("增わかっち痰ゃいるけど、どうに烽も…なあ。◯",
+    ("わかっち痰ゃいるけど、どうに烽も…なあ。◯",
     ""),
     # I have a lot of understanding, but I guess it's hot... I see.◯
 

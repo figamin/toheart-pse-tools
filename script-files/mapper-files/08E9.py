@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Oh, me, me, me, me, me."
 
-    ("「Ｅ獅ｎ№ｇ撃ｌ奄ｉ唐入ｂ？」",
+    ("「Ｅ獅ｎ№ｇ撃ｌ奄ｉ入？」",
     ""),
     # "E Lion attack lion Amai Tang Enrich B?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "oh yeah.
 
-    ("レミィんちに勉強に行っていいだｂ？」",
+    ("レミィんちに勉強に行っていいだ？」",
     ""),
     # Is it okay to go to Remy's to study?”
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I'm hot and me hot and me hot too."
 
-    ("「なんでおめーもｗ磯翌鴦ｂｾよ」†",
+    ("「なんでおめーもｗ磯翌鴦ｾよ」†",
     ""),
     # "Why don't you think so lol Isozumai B-se" †
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Geki Remi says in a strangely anticipated table.†
 
-    ("「オ激レんち？」",
+    ("「オレんち？」",
     ""),
     # "Is it really hard?"
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # I'm studying at the school.
 
-    ("「こら、氈勝闖手にｌめんな。…けど、なんか悪いだｂ？	教寀わるのはこっちなのに、增わざ墲わざ家にｗて烽もらうなんて」†",
+    ("「こら、氈勝闖手にｌめんな。…けど、なんか悪いだ？	教寀わるのはこっちなのに、わざ墲わざ家にｗて烽もらうなんて」†",
     ""),
     # "Hey, I'm not going to get into it... But is it a bit of a problem? I'm going to teach you, but I'm going to have to go to the house and get some hot water."
 
-    ("「そんなことないｃ。アタシ、から教えて烽もらうｂモン」",
+    ("「そんなことないｃ。アタシ、から教えて烽もらうモン」",
     ""),
     # "Not that's the case. I'll tell you and get some hot b."
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "Tell me and get some hot water, chemistry and the current company?"
 
-    ("「Ｙｂ唐入」",
+    ("「Ｙ入」",
     ""),
     # "Yb Tangari"
 
-    ("教えられるほどオ激レ焜も詳しくねーぞ？",
+    ("教えられるほどオレ焜も詳しくねーぞ？",
     ""),
     # I'm not as knowledgeable about my super-reality as I can teach you, right?
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # In the end, I ended up studying as a student.
 
-    ("ま、竅やらないよりは断然マシだな。◯",
+    ("ま、やらないよりは断然マシだな。◯",
     ""),
     # Well, it's definitely better than not doing it.◯
 

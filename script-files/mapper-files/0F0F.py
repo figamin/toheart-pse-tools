@@ -2,15 +2,15 @@
 # Source file: 0F0F.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル２）閨（冝期槙末テスト繝後篇（ＨｂｂＨ））閨（選択綜	志保）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	志保）閨（蛛主人公沍勝ち）†",
     ""),
     # (Arcade Battle Cry 2) (Cycle Final Test Part 2 (HbbH)) (Cycle Sou Shiho) (Mrage Protagonist Wins) †
 
-    ("「へっ、おとといき竄やがれってんだー！」",
+    ("「へっ、おとといきやがれってんだー！」",
     ""),
     # "Heh, you're going to die the day before yesterday!"
 
-    ("「く竄やし〜〜〜っ；」",
+    ("「くやし〜〜〜っ；」",
     ""),
     # "It's tampering~!"
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "I wonder if I should have phlegm when I bet it?"
 
-    ("「ふんっ、で烽もさすがは生涯の奄ライバ泣ルね。そう簡単には勝たせてくれない墲わ」",
+    ("「ふんっ、で烽もさすがは生涯の奄ライバルね。そう簡単には勝たせてくれない墲わ」",
     ""),
     # "Hmm, and Hou is a lifelong Amaya Raiba cry. I won't let you win that easily."
 
-    ("「生涯？	一生ゲームでバト泣ルする気かよ」",
+    ("「生涯？	一生ゲームでバトルする気かよ」",
     ""),
     # "Lifetime? Are you going to cry in the battles in the game forever?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Yes. One of the 'Shiho's Sphinja Goals' is to beat you to the fullest."
 
-    ("「そり痰ゃーご蛯大層なこった。けどな、氈勝闖手に目標の的にされる迷惑ってｂモン、考えたことあるか？」",
+    ("「そり痰ゃーご大層なこった。けどな、氈勝闖手に目標の的にされる迷惑ってモン、考えたことあるか？」",
     ""),
     # "You're so blunt, that's a huge problem. But have you ever thought of the trouble that you're targeted to Zheng-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-Hi-H
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Despite all this, I was able to put a lot of Shiho's choyfriend on that day.
 
-    ("一生なんてごめんだが、とりあえずヒマなときは鰍相闡手して竄やるか。◯",
+    ("一生なんてごめんだが、とりあえずヒマなときは鰍相闡手してやるか。◯",
     ""),
     # I'm sorry for the rest of my life, but if I have time, I'll try to tamper with it.◯
 

@@ -2,11 +2,11 @@
 # Source file: 0531.txt
 
 text_array = [
-    ("（艨ゆっくりフェード）閨（カ激レンダーを５獅月６冾日までめくる）閨（自分の部屋）†",
+    ("（艨ゆっくりフェード）閨（カレンダーを５獅月６冾日までめくる）閨（自分の部屋）†",
     ""),
     # (Slowly fade) (Change the calendar until the 5th day of the 6th day of the 5th day of the 6th day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day
 
-    ("そして、ゴールデンウィークが過ぎ獅去闍り、修学旅行の朝が竄やってきた。",
+    ("そして、ゴールデンウィークが過ぎ獅去闍り、修学旅行の朝がやってきた。",
     ""),
     # Then, after Golden Week passed, the morning of the school trip began to fend off.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Of course, my luggage was packed together on the slut.
 
-    ("いつ烽もよりかなり≠早い桙時間に、オ激レは家を出た。†",
+    ("いつ烽もよりかなり≠早い桙時間に、オレは家を出た。†",
     ""),
     # At the time, I left the house at a much faster time than the hot spring.†
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # "Are you planning on simmering in the mountains? What are you in?"
 
-    ("「£替えでし蛯ょ、筆記用雷でし蛯ょ、お翌風呂のセットにド宴ライсヤー、カ＜メ宴ラに、折關りたたみの傘に…」†",
+    ("「£替えでしょ、筆記用雷でしょ、お翌風呂のセットにドライсヤー、カ＜メラに、折關りたたみの傘に…」†",
     ""),
     # "For a replacement, a writing thunder, a next-day bath set, a banquet for a banquet, a banquet for a banquet, a banquet for a banquet, a folding umbrella..."
 
-    ("「ド宴ライсヤーなんか揩持ってきたのか。誰かに借闔り",
+    ("「ドライсヤーなんか揩持ってきたのか。誰かに借闔り",
     ""),
     # "Did you bring some kind of banquet? I borrowed it from someone.
 
-    ("り痰ゃーいいだｂ、そんなの」",
+    ("り痰ゃーいいだ、そんなの」",
     ""),
     # It's fine, that's what it is."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "And then, let's go, well... Are you okay with that few sphincteres?"
 
-    ("「£替えに、筆記用雷に、こんな烽もんだｂ？	旅行の荷物は軽いに越したことはねーんだよ」",
+    ("「£替えに、筆記用雷に、こんな烽もんだ？	旅行の荷物は軽いに越したことはねーんだよ」",
     ""),
     # "For a replacement, writing lightning, is this hot b? Travel luggage is better than light."
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # Due to the luggage, Akari's legs are nearly twice as slow as usual.
 
-    ("いま烽も蛯大変そうにのたのた烽歩いている。",
+    ("いま烽も大変そうにのたのた烽歩いている。",
     ""),
     # The hot springs are now walking around in a difficult position.
 
-    ("「…ったく、し蛯ょうがねーな。ほら、学校にｒくまで、荷物謨取闔り替えて竄やるよ」",
+    ("「…ったく、しょうがねーな。ほら、学校にｒくまで、荷物謨取闔り替えてやるよ」",
     ""),
     # "...No way, there's no slut. Come on, I'll change my luggage and tamper with it until I get to school."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "What, is it okay?"
 
-    ("オ激レはあかりの手から荷物を受け取った。",
+    ("オレはあかりの手から荷物を受け取った。",
     ""),
     # I received the package from Akari's hand.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Thank you, sputum" †
 
-    ("そのとき、縺後撃から烽もうひとり見知った顔が竄やってきた。",
+    ("そのとき、縺後撃から烽もうひとり見知った顔がやってきた。",
     ""),
     # At that moment, after the attack, another familiar face began to stomp.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Let's make a name for yourself."
 
-    ("「ち蛯ょうどふたりが見えたから、追いかけてきたんだ」†",
+    ("「ちょうどふたりが見えたから、追いかけてきたんだ」†",
     ""),
     # "I saw the two of you, so I chased you."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Oh, right?"
 
-    ("学校の前に、蛛大型のバスが４艪台並んでいた。",
+    ("学校の前に、蛛大型のバスが４台並んでいた。",
     ""),
     # In front of the school, a large bus lined up in line with four train stations.
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # This will take you to the airport and then you will be on a plane.
 
-    ("北海道の雄蝸大な蛯大地がオ激レを待ってるぜ。†",
+    ("北海道の雄蝸大な大地がオレを待ってるぜ。†",
     ""),
     # The cochlearned earth from Hokkaido is waiting for me to go crazy.†
 
-    ("玄関前にずらずらたむｂってる二年集団。",
+    ("玄関前にずらずらたむってる二年集団。",
     ""),
     # A group of two years of age who are hanging out in front of the entrance.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Huh, Good C Morning, Sanzai, how about a moment?"
 
-    ("妙なあいさつで現鼬れたのは、磨当然、志保。",
+    ("妙なあいさつで現鼬れたのは、当然、志保。",
     ""),
     # Of course, Shiho was the one who showed up in a strange greeting.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Uhhh."
 
-    ("「約齧一名ほど、さ墲わ竄やかじ痰ゃないрヤツがいる墲わねぇ。こんな冾日ぐらい、もっとはじけたらどう？」",
+    ("「約齧一名ほど、さ墲わやかじ痰ゃないрヤツがいる墲わねぇ。こんな冾日ぐらい、もっとはじけたらどう？」",
     ""),
     # "There's about a bit of a bit of a guy who can't get slurping or slurping. What if it pops up more on a day like this?"
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Hello, it's too much."
 
-    ("「なによ、ほっときなさいよ！	せっかくの修学旅行なんだしさ、バ潟リバ潟リにテンシ㏍ョンｃ高めていかなき痰ゃね〜っ」",
+    ("「なによ、ほっときなさいよ！	せっかくの修学旅行なんだしさ、バリバリにテンションｃ高めていかなき痰ゃね〜っ」",
     ""),
     # "What, come on, come on! It's a school trip, so I don't have to raise the tenshit C to the Bagata Ribagata Ri."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # After that, after hearing the principal's light greeting, everyone boarded the bus and snatched it.
 
-    ("閨定薯刻どおりにバスは魔走闡り出し、オ激レたちの修学旅行が始まった。◯",
+    ("閨定薯刻どおりにバスは魔走闡り出し、オレたちの修学旅行が始まった。◯",
     ""),
     # The bus started to run wild as per the smash, and our school trip began.◯
 

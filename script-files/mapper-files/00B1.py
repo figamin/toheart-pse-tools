@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Fourth Lion Day, 10th day, Thursday Day.
 
-    ("今厓日のコンディシ㏍ョンはグッドだ。",
+    ("今厓日のコンディションはグッドだ。",
     ""),
     # The conditioning on the day is good.
 
-    ("ジ㏍ョギングで烽も、竅やりたい気分だぜ。",
+    ("ジョギングで烽も、やりたい気分だぜ。",
     ""),
     # I feel like I want to do some jogging too.
 

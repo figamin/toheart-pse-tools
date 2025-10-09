@@ -11,14 +11,14 @@ text_array = [
     # "I'm going to have to go through it, so I'll have to get a fortune teller."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	オカ泣ルト研結級の部室に行きますか？",
+    ("「え？	オカルト研結級の部室に行きますか？",
     ""),
     # "Huh? Would you like to go to the Okaryu Ruto Kenyu class room?
 
-    ("それと烽も教室で占いまし蛯ょうかって？」",
+    ("それと烽も教室で占いましょうかって？」",
     ""),
     # Also, should I use the fortune-telling session in the classroom?”
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # The hot weather of visiting the club room is nice, but it looks like it will take a lot of time.
 
-    ("今厓日のとこｂは唐遠慮しとこう。",
+    ("今厓日のとこは遠慮しとこう。",
     ""),
     # I'll refrain from binge now on the day.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # There's no one there anymore."
 
-    ("オ激レが言うと、諱先輩は無表﨣情のまま、こくんとうなずいた。†",
+    ("オレが言うと、諱先輩は無表﨣情のまま、こくんとうなずいた。†",
     ""),
     # When I said that, my senior nodded with Ko-kun, still innocent feelings.†
 
@@ -50,12 +50,12 @@ text_array = [
     ""),
     # "Well, don't sit around here."
 
-    ("オ激レがそう言うと、",
+    ("オレがそう言うと、",
     ""),
     # When I say that,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は、どこに座高うかと悩んでいる様子だった。",
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Look, Senpai, here, here."
 
-    ("オ激レは空いてる椅子を引いて、諱先輩を座迯らせた。†",
+    ("オレは空いてる椅子を引いて、諱先輩を座迯らせた。†",
     ""),
     # I pulled out an empty chair and let my senior Ie-senpai sit there.†
 
-    ("「諱よし、じ痰ゃ、さっそく竄やっとくれ」",
+    ("「諱よし、じ痰ゃ、さっそくやっとくれ」",
     ""),
     # "Okay, phlegm, just tamper with it."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # But when I asked him out of nowhere, he was sure to predict his fortune, he's a very sudden senior.
 
-    ("なんで、增わざ墲わざ…？†",
+    ("なんで、わざ墲わざ…？†",
     ""),
     # Why a single move...?†
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # I see.
 
-    ("この間オ激レが、オカ泣ルトに興味があるって嘯答えたからだ。",
+    ("この間オレが、オカルトに興味があるって嘯答えたからだ。",
     ""),
     # The other day, I replied that I was interested in Okaryuuto.
 
-    ("それで、增わざ墲わざｗてくれたんだ。",
+    ("それで、わざ墲わざｗてくれたんだ。",
     ""),
     # So he made a move lol.
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # I see.
 
-    ("今朝オ激レが、オカ泣ルトに興味があるって嘯答えたからだ。",
+    ("今朝オレが、オカルトに興味があるって嘯答えたからだ。",
     ""),
     # This morning, I replied that I was interested in Okaryuuto.
 
-    ("それで、增わざ墲わざｗてくれたんだ。",
+    ("それで、わざ墲わざｗてくれたんだ。",
     ""),
     # So he made a move lol.
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # For a man named O-sama, who has a large gift wrap, he is a polite, or rather an honest person.†
 
-    ("諱先輩の『なにを占いますか』という質竡問に、オ激レは、う〜んと悩みに悩んで、氏月並みだが、進学か就職か、どっちを選んだほうがいいかを占って烽もらうことにした。◯",
+    ("諱先輩の『なにを占いますか』という質竡問に、オレは、う〜んと悩みに悩んで、氏月並みだが、進学か就職か、どっちを選んだほうがいいかを占って烽もらうことにした。◯",
     ""),
     # When I heard my senior's question about what to fortune-telling, I was really worried about my concerns and decided to foresee which one should I choose, whether to go to college or get a job, and get a good one.◯
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # Fluffy...flaffy...flaffy...flaffy...flaffy...
 
-    ("諱先輩のしな竄やかな指謗先が、艨ゆったりと優莱な手つきでカードをめくっていく。",
+    ("諱先輩のしなやかな指謗先が、艨ゆったりと優莱な手つきでカードをめくっていく。",
     ""),
     # Senpai's gentle slanderous fingers turn the cards through with a relaxed, elegant touch.
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # It's a Taho Lot Card...
 
-    ("星竦やらモ笂やら太陽笳やらの艪謎めいたカードがめくられていく。",
+    ("星竦やらモ笂やら太陽笳やらの謎めいたカードがめくられていく。",
     ""),
     # Mysterious cards like Starry, Moho, and Sunny Hoso are turned over.
 
-    ("いま、この机の繧上には、これからのオ激レの運命が展開されてるって墲わけだ。",
+    ("いま、この机の繧上には、これからのオレの運命が展開されてるって墲わけだ。",
     ""),
     # It seems that the fate of my future is unfolding on this desk right now.
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # That's strange.†
 
-    ("カード焜も気になったが、それ以繹上に、オ激レの目はカードを繰骭る先輩へと引き寄せられていった。",
+    ("カード焜も気になったが、それ以繹上に、オレの目はカードを繰骭る先輩へと引き寄せられていった。",
     ""),
     # I was also curious about the card cover, but after that, my eyes were drawn to my senior who was playing cards.
 
-    ("つ竄や竄やかな長い髪。",
+    ("つややかな長い髪。",
     ""),
     # Long, tampering and tampering hair.
 
@@ -207,7 +207,7 @@ text_array = [
     # And then, Senpai's hand stopped.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「あ？	終尞わった？」",
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「なるほど。じ痰ゃ、そｂそｂ進学することを考えて、真面目に勉強を始めっかな」",
+    ("「なるほど。じ痰ゃ、そそ進学することを考えて、真面目に勉強を始めっかな」",
     ""),
     # "I see. I see. I'm thinking about going to college, then I'll start studying seriously."
 
@@ -238,59 +238,59 @@ text_array = [
     ""),
     # After nodding, Senpai nodded, he slowly began to put the cards down.†
 
-    ("﨟基本的にオ激レは占いなんかの類は信じないタチなのだが、まあ、今回のコ激レは先輩からのアドバイスということで素直に受け取っておこう。",
+    ("﨟基本的にオレは占いなんかの類は信じないタチなのだが、まあ、今回のコレは先輩からのアドバイスということで素直に受け取っておこう。",
     ""),
     # 﨟Essentially, I don't believe in fortune telling, but I think this time I'll take it honestly as a advice from a senior.
 
-    ("竅やがて、諱先輩はカードを片付け終えた。†",
+    ("やがて、諱先輩はカードを片付け終えた。†",
     ""),
     # Eventually, Senpai Kimi finished cleaning up the cards.†
 
-    ("「增わざ墲わざｗてくれて、ありがとな、諱先輩」",
+    ("「わざ墲わざｗてくれて、ありがとな、諱先輩」",
     ""),
     # "Thank you for taking the initiative lol, Senpai, my name is."
 
-    ("そう言ってオ激レが立ち繧上がると、",
+    ("そう言ってオレが立ち繧上がると、",
     ""),
     # When I said that, my throbbing rises,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩熹も遅齟れて席を立った。†",
+    ("諱先輩熹も遅れて席を立った。†",
     ""),
     # Senpai Kei also got late and got up.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	またたずねてｗていいですかって？",
     ""),
     # "Huh? Can I ask again lol?
 
-    ("ああ、そり痰ゃ烽もちｂん」",
+    ("ああ、そり痰ゃ烽もちん」",
     ""),
     # Ah, sputum is hot and hot."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「今度は部室燻も見せてくれよな？」†",
     ""),
     # "Next time, let's show you the smoking area in the club room, right?"
 
-    ("オ激レの言葉に、諱先輩はこくんとうなずくと、閨『それではまた…』閨と言葉を残して、教室を出ていった。†",
+    ("オレの言葉に、諱先輩はこくんとうなずくと、閨『それではまた…』閨と言葉を残して、教室を出ていった。†",
     ""),
     # At my ecstatic words, my senior nodded to Ko-kun and said, "See you later..." and left the classroom.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("綺淏麗だし、素直なんだけど、竅やっぱり少し変な先輩だよな。◯",
+    ("綺淏麗だし、素直なんだけど、やっぱり少し変な先輩だよな。◯",
     ""),
     # He's beautiful and honest, but he's definitely a little weird senior after all.◯
 

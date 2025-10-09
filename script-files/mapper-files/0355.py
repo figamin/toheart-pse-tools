@@ -2,7 +2,7 @@
 # Source file: 0355.txt
 
 text_array = [
-    ("（智子	好感度イベント	８回目）閨（好感度	２０以繹上）閨（好感度イベント７を見たフ宴ラグがＯＮの場㍼合）閨（５桙時間目の休み桙時間）閨（廊下）†",
+    ("（智子	好感度イベント	８回目）閨（好感度	２０以繹上）閨（好感度イベント７を見たフラグがＯＮの場㍼合）閨（５桙時間目の休み桙時間）閨（廊下）†",
     ""),
     # (Tomoko's 8th favorability event) (Like 20 or higher) (Like banquet rugs when seeing the favorability event 7 is in full) (Like banquet rugs) (Clothes time during the 5th fence) (Cover time) (Carrior)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The next class will be moved to the laboratory.
 
-    ("「あ〜、かったりぃ。いつ烽もいつ烽も唐遠い翌距離を烽歩かせ竄やがって」",
+    ("「あ〜、かったりぃ。いつ烽もいつ烽も遠い翌距離を烽歩かせやがって」",
     ""),
     # "Ah, that's it. Whenever you want, the hot springs and whenever you want, they're going to stomp the next distance."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "By the way, I wonder why the bait moves to the lmao. I rarely do experiments."
 
-    ("「諱先生が楽したいからにｌまってんだｂ？」",
+    ("「諱先生が楽したいからにｌまってんだ？」",
     ""),
     # "Is it waiting for you to have fun, so you're waiting for L b?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What else is there?"
 
-    ("そんなｉ話をしながら廊下を烽歩いてる途湯、ク宴ラスの翌女たちとすれ痰違った。",
+    ("そんなｉ話をしながら廊下を烽歩いてる途湯、クラスの翌女たちとすれ痰違った。",
     ""),
     # While talking about this, the bath was walking down the hallway, and the women after the banquet were confused.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # He was a must-have for a hot spring lol?
 
-    ("い竄や、まてよ。",
+    ("いや、まてよ。",
     ""),
     # Tamper, wait.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "What's up?"
 
-    ("「い竄や、いまの三人…」",
+    ("「いや、いまの三人…」",
     ""),
     # "Tsmash, the three of you now..."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Male History"
 
-    ("オ激レはｉ史に教科痩書竢やその他を手渡した。",
+    ("オレはｉ史に教科痩書竢やその他を手渡した。",
     ""),
     # I handed i-Shin some textbooks and other things.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "picture?"†
 
-    ("「增わりぃけど、それ揩持って先行っててくれ。ち蛯ょっと忘齧れ物したみたいだ」",
+    ("「わりぃけど、それ揩持って先行っててくれ。ちょっと忘齧れ物したみたいだ」",
     ""),
     # "It's a shame, but please take that and take it ahead of you. It seems like you've forgotten about it."
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # "It's a silly hot pot."
 
-    ("そう言い残し、オ激レは教室へと引き返した。†",
+    ("そう言い残し、オレは教室へと引き返した。†",
     ""),
     # With that in mind, I turned back to the classroom.†
 
-    ("どう竄やら凾嫌な予感は魔当たっていたらしい。",
+    ("どうやら凾嫌な予感は魔当たっていたらしい。",
     ""),
     # Apparently, the unpleasant feeling of tampering was a hit.
 
-    ("瘁例の三人は、委員長の机の前でゴソゴソと怪しげなことを竄やっていた。†",
+    ("瘁例の三人は、委員長の机の前でゴソゴソと怪しげなことをやっていた。†",
     ""),
     # The three of them were messing around and messing around with suspicious things in front of the chairman's desk.†
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Hey, can I use this notebook?"
 
-    ("「ノートなんて捨てたらおしまいじ痰ゃない。どうせ竄やるんなら教科痩書にしなよ」",
+    ("「ノートなんて捨てたらおしまいじ痰ゃない。どうせやるんなら教科痩書にしなよ」",
     ""),
     # "If you throw away your notebook, you'll have no phlegm. If you're going to tamper with it anyway, just make it a slimming book for the subject."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "It's okay. I don't know who wrote Cao anyway. And even if you can, try changing your handwriting as much as possible."
 
-    ("「竅やっぱ、前回謇よりキツイ焜内容がいい？」",
+    ("「やっぱ、前回謇よりキツイ焜内容がいい？」",
     ""),
     # "And after all, is the content better than the last time?"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Tozen! You're not too bad at all if you have that much phlegm.
 
-    ("もっとキ㏍ョー戟レツなの」",
+    ("もっとキョー戟レツなの」",
     ""),
     # It's even more of a spurt."
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # "And isn't this dark, isn't it?"
 
-    ("「し蛯ょーがないじ痰ゃない。",
+    ("「しょーがないじ痰ゃない。",
     ""),
     # "There's no sputum.
 
-    ("相闡手が鰍相闡手だし。ああいうタイプは精神的にちくちく竄やるのが一番効果的なのよ」",
+    ("相闡手が鰍相闡手だし。ああいうタイプは精神的にちくちくやるのが一番効果的なのよ」",
     ""),
     # The interplay is a interplay.That type of person is the most effective way to tamper with mentally tactile things."
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "!"
 
-    ("オ激レが声をかけると、三人はびくっと顔を繧上げ、こっちを見た。",
+    ("オレが声をかけると、三人はびくっと顔を繧上げ、こっちを見た。",
     ""),
     # When I called out, the three of them leaned forward and looked at me.
 
@@ -178,15 +178,15 @@ text_array = [
     ""),
     # "..."†
 
-    ("「どっちかっつーと、あまりスマートなこと竄やってるって雰囲気じ痰ゃねーな」",
+    ("「どっちかっつーと、あまりスマートなことやってるって雰囲気じ痰ゃねーな」",
     ""),
     # "It's just that, it feels like they're doing something very smart, and it's sighs."
 
-    ("「な、なによ、あんたには関係ないでし蛯ょ？」",
+    ("「な、なによ、あんたには関係ないでしょ？」",
     ""),
     # "What, what, it has nothing to do with you, slut?"
 
-    ("「関係なくねーだｂ？	そこはオ激レの席じ痰ゃねーか」",
+    ("「関係なくねーだ？	そこはオレの席じ痰ゃねーか」",
     ""),
     # "No matter what, you're going to have to b? Is there a sputum that's really hard to be on?
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # "Don't be awkward."
 
-    ("オ激レは近づきながら言った。†",
+    ("オレは近づきながら言った。†",
     ""),
     # I said as I approached.†
 
-    ("オ激レは三人とｌかい№合った。",
+    ("オレは三人とｌかい№合った。",
     ""),
     # My guts matched the three of them.
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # From left to right, they are called Okada, Matsumoto, and Yoshinorii in order of number.
 
-    ("岡田は気が強く、三人のなかのｒ心的存在で、松本は蛯主体性がなく、流され竄やすそうなタイプ、吉芫井は艪比較的はなしが墲わかりそうな三人のまとめ役といった感じだ。",
+    ("岡田は気が強く、三人のなかのｒ心的存在で、松本は主体性がなく、流されやすそうなタイプ、吉芫井は比較的はなしが墲わかりそうな三人のまとめ役といった感じだ。",
     ""),
     # Okada is a strong-willed and has a strong-minded presence among the three, Matsumoto is the type who has no ecchi-dominance and is likely to be easily swayed, while Yoshinori seems to be the organizer of the three who seem to be relatively clear about the story.
 
@@ -254,11 +254,11 @@ text_array = [
     ""),
     # The hot water is just an impression from the outside.†
 
-    ("だらだら竄問いつめる気煖もないので、オ激レは率直に言った。",
+    ("だらだら問いつめる気煖もないので、オレは率直に言った。",
     ""),
     # I couldn't have the energy to sloppyly question him, so I said it honestly.
 
-    ("「委員長のノートの獅落送書き、あれはお前迹らの仕業なんだｂ？」†",
+    ("「委員長のノートの獅落送書き、あれはお前迹らの仕業なんだ？」†",
     ""),
     # "Writing the Chairman's notebook, is that what you guys do?" †
 
@@ -266,15 +266,15 @@ text_array = [
     ""),
     # At that moment, the three of them looked at each other's faces and met together.
 
-    ("それから、岡田はキッとにらみ返し、松本はあせった顔でキ㏍ョ鴻ロキ㏍ョ鴻ロと左右のふたりを見て、吉芫井は気まずそうに顔を嘯伏せた。",
+    ("それから、岡田はキッとにらみ返し、松本はあせった顔でキョ鴻ロキョ鴻ロと左右のふたりを見て、吉芫井は気まずそうに顔を嘯伏せた。",
     ""),
     # Okada then glared back, and Matsumoto looked at the two of them on both sides with a panic look on his face, and Yoshinori looked down in awkward look.
 
-    ("香ロコツに反梍応ア潟リだな。",
+    ("香ロコツに反梍応アリだな。",
     ""),
     # It's a good idea to avoid the incense tips.
 
-    ("竅やっぱり、こいつらの仕業ってのは間瘧違いないみたいだ。†",
+    ("やっぱり、こいつらの仕業ってのは間瘧違いないみたいだ。†",
     ""),
     # After all, it seems that these guys are incredibly insane.†
 
@@ -286,20 +286,20 @@ text_array = [
     ""),
     # Okada said.
 
-    ("「おいおい、シ宴ラをきる気か？	もうお前迹らの顔には『はい、そうです』って、はっきりと曹書いてあるぜ？」†",
+    ("「おいおい、シラをきる気か？	もうお前迹らの顔には『はい、そうです』って、はっきりと曹書いてあるぜ？」†",
     ""),
     # "Hey hey, are you going to have a feast? You already have a clear 'Yes, that's right' written on your faces?"
 
-    ("「…增わ、增わたし、しらない」",
+    ("「…わ、わたし、しらない」",
     ""),
     # "...B, I don't know."
 
-    ("ビビ潟リながら言う松本。",
+    ("ビビリながら言う松本。",
     ""),
     # Matsumoto says while shaking.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なに烽も言甯わない吉芫井。†",
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # To casually express the next episode's impact, the two were twitching.
 
-    ("「いまさらとぼけたってし蛯ょうがねーだｂ？	い墲わば現行犯逮捕だぜ、こり痰ゃ」",
+    ("「いまさらとぼけたってしょうがねーだ？	い墲わば現行犯逮捕だぜ、こり痰ゃ」",
     ""),
     # "You're just getting a little weird right now, you're not going to have a peek at all? You're arrested on the spot, you're so sad."
 
@@ -326,7 +326,7 @@ text_array = [
     ""),
     # However, Okada is the only one who can't stop.
 
-    ("逆に開き直った態度でオ激レをにらみ返し、",
+    ("逆に開き直った態度でオレをにらみ返し、",
     ""),
     # Conversely, he glares back at me with a reversal attitude,
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # That's what I said.†
 
-    ("「п私たちが竄やったって、素直に認めり痰ゃいい墲わけ？」",
+    ("「п私たちがやったって、素直に認めり痰ゃいい墲わけ？」",
     ""),
     # "Even if we tamper with it, why should we just accept it and just accept it?"
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # He's a man who doesn't even know about the hot springs, so he wrote it in his study notebook.If you do that, you can understand it a little, so you don't think there's any phlegm!”†
 
-    ("「お、岡田、竅やめなよ！」",
+    ("「お、岡田、やめなよ！」",
     ""),
     # "Oh, Okada, stop it!"
 
@@ -367,7 +367,7 @@ text_array = [
     # "What, is this okay?! Do you feel like it?!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「じ痰ゃあ今度はこっちの質竡問に烽も嘯答えてよ。なんであんたが、氏落送書きのこと知ってんの？	あいつがチクったの？」†",
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # "There's no way I can make that kind of stimulation.
 
-    ("偶然そのノートを見ちまってな。あいつは隠そうとしてたけど。お前たちが犯人だってのは、考えり痰ゃ誰で烽も墲わかるだｂ」",
+    ("偶然そのノートを見ちまってな。あいつは隠そうとしてたけど。お前たちが犯人だってのは、考えり痰ゃ誰で烽も墲わかるだ」",
     ""),
     # By chance, I saw that notebook.He was trying to hide it though.If you think about it, you can understand why you are the culprits and whoever you want to know."
 
@@ -390,11 +390,11 @@ text_array = [
     ""),
     # Okada said, looking at him with a suspicious eye.†
 
-    ("「だいたいあんた、なんであんな竄やつの味菇方なんかする墲わけ！？	あんな凾嫌味で自己健な翌女、味菇方することなんかないでし蛯ょ！？」",
+    ("「だいたいあんた、なんであんなやつの味菇方なんかする墲わけ！？	あんな凾嫌味で自己健な翌女、味菇方することなんかないでしょ！？」",
     ""),
     # "Why do you usually do something like that tampering with?! Such a sarcasmy and self-healthy next woman, you never do something about it, suppose you're gonna do something about it!?"
 
-    ("「オ激レはなに烽も委員長の味菇方してる墲わけじ痰ゃねー諱よ。ただお前迹らのいたずらが、ち蛯ょっと度が過ぎてんじ痰ゃねーのか」†",
+    ("「オレはなに烽も委員長の味菇方してる墲わけじ痰ゃねー諱よ。ただお前迹らのいたずらが、ちょっと度が過ぎてんじ痰ゃねーのか」†",
     ""),
     # "What is it like me, you're the one who's the one who's the one who's the one who's the one who's the one who's been doing, you're just too over-skinned."
 
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # "That's about that...?"
 
-    ("「そうよ！	べつに蹴ったり殴ったり、暴力ふるった墲わけじ痰ゃないのよ。ち蛯ょっとノートに獅落送書きしただけじ痰ゃない。ほんのモ茶目っ気結レベ泣ル諠よ」†",
+    ("「そうよ！	べつに蹴ったり殴ったり、暴力ふるった墲わけじ痰ゃないのよ。ちょっとノートに獅落送書きしただけじ痰ゃない。ほんのモ茶目っ気結レベル諠よ」†",
     ""),
     # "That's right! There's no way I could just kick, punch, or use violence. I just wrote a lion's message in my notebook. It's just a playful conclusion, crying." †
 
@@ -434,11 +434,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("「こっそりと一箞方的な悪箞口を曹書き桙込むなんて、良識のあるｂ高校生がすることか？	小学生のガキ諠より撃レベ泣ル痺低いぜ」",
+    ("「こっそりと一箞方的な悪箞口を曹書き桙込むなんて、良識のある高校生がすることか？	小学生のガキ諠より撃レベル痺低いぜ」",
     ""),
     # "Is it something that a common sense high school student who is good at secretly writing a simple and unstable way of getting a silence? His level of attack is lower than an elementary school student's brat."
 
-    ("「禔口で言って烽も墲わかんないрヤツ潟相闡手だ烽もの、し蛯ょうがないでし蛯ょ」",
+    ("「禔口で言って烽も墲わかんないрヤツ相闡手だ烽もの、しょうがないでしょ」",
     ""),
     # "You can't understand the hot springs either, but you can't understand the hot springs, so you can't help but think about it."
 
@@ -454,7 +454,7 @@ text_array = [
     ""),
     # In fact, it was the woman's fault the next day, right?He's self-healthy, Takabee, and he always looks down on people who are just like he's a bit of a shoddy..."
 
-    ("「見下されて烽もし蛯ょーがねー諱よ。今回のこの盾件、お前迹ら自身、自分たちの撃レベ泣ルの痰低さを証明したような烽もんだぞ」",
+    ("「見下されて烽もしょーがねー諱よ。今回のこの盾件、お前迹ら自身、自分たちの撃レベルの痰低さを証明したような烽もんだぞ」",
     ""),
     # "If you're looking down on us, you guys are like you've proven your own low level of phlegm."
 
@@ -462,19 +462,19 @@ text_array = [
     ""),
     # "..."†
 
-    ("「ま、そ烽もそ烽もの原因がどっちにあるのかはと烽もかく、シャャ激レじ痰ゃすまないとこｂにまで踏み出したのはお前迹らだ」",
+    ("「ま、そ烽もそ烽もの原因がどっちにあるのかはと烽もかく、シャャレじ痰ゃすまないとこにまで踏み出したのはお前迹らだ」",
     ""),
     # "Well, it's hard to know which causes the hot springs, and you all took the lead in becoming a slutty phlegm."
 
-    ("「ち蛯ょっと蛯大袈裟じ痰ゃない？	今厓日びノートの一箞冊くらい、消諸税嵩齠れたって１５０円煢もしないんだしさァ」†",
+    ("「ちょっと大袈裟じ痰ゃない？	今厓日びノートの一箞冊くらい、消諸税嵩齠れたって１５０円煢もしないんだしさァ」†",
     ""),
     # "Aren't you exaggerating the phlegm? Even if you save up taxes and taxes, you won't even have to pay 150 yen."
 
-    ("「カネの竄問阮題じ痰ゃねーだｂが！？	おめー、ぜんぜん墲わかってねーんじ痰ゃねーか？」",
+    ("「カネの問題じ痰ゃねーだが！？	おめー、ぜんぜん墲わかってねーんじ痰ゃねーか？」",
     ""),
     # "You're not phlegmy about the question of money, b!? Hey, you don't know at all, don't you have to phlegm?"
 
-    ("「じ蛯ょ、轣冗談謦よ、轣冗談。マジにとんないでよ」",
+    ("「じょ、轣冗談謦よ、轣冗談。マジにとんないでよ」",
     ""),
     # "A joking, joking, joking. Seriously don't take it."
 
@@ -482,7 +482,7 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("オ激レは肩を獅落としため息をついた。†",
+    ("オレは肩を獅落としため息をついた。†",
     ""),
     # I sighed, squealing on my shoulders.†
 
@@ -490,11 +490,11 @@ text_array = [
     ""),
     # "...Is that okay, I'll just say this anyway."
 
-    ("オ激レは人差し指を岡田に突きつけ言った。",
+    ("オレは人差し指を岡田に突きつけ言った。",
     ""),
     # I pointed my index finger at Okada and said,
 
-    ("「こういうことは今回で竄やめとけ、いいな？	もし烽も、それで烽も同じようなことをするようだったら、そんときは｢｢」",
+    ("「こういうことは今回でやめとけ、いいな？	もし烽も、それで烽も同じようなことをするようだったら、そんときは｢｢」",
     ""),
     # "Stop tampering with this kind of thing this time, isn't it okay? If it seems that Hoo and Hoo do the same thing, then it's ""
 
@@ -502,11 +502,11 @@ text_array = [
     ""),
     # "...What's that?"
 
-    ("「このオ激レが魔許さねーからな」",
+    ("「このオレが魔許さねーからな」",
     ""),
     # "This guy's not going to let you go."
 
-    ("目を細め、竅冷笳や竄やかに言った。",
+    ("目を細め、冷笳ややかに言った。",
     ""),
     # He squinted his eyes and said with a silence and silence.
 
@@ -522,7 +522,7 @@ text_array = [
     ""),
     # Okada almost said that,
 
-    ("「もう竄やめよ、岡田！」",
+    ("「もうやめよ、岡田！」",
     ""),
     # "Stop tampering now, Okada!"
 
@@ -530,7 +530,7 @@ text_array = [
     ""),
     # Yoshinori won.†
 
-    ("「竅やっぱどう考えて烽も、今回はр私たちのほうが分が悪いって。くん。",
+    ("「やっぱどう考えて烽も、今回はр私たちのほうが分が悪いって。くん。",
     ""),
     # "What do you think of it, even though I think it's true that we're worse than you.
 
@@ -538,7 +538,7 @@ text_array = [
     ""),
     # I understand, I won't do it anymore.
 
-    ("私たち烽もち蛯ょっと悪ノ潟リしすぎた墲わ。だから…」",
+    ("私たち烽もちょっと悪ノリしすぎた墲わ。だから…」",
     ""),
     # We were so excited about the hot springs.that's why…"
 
@@ -546,11 +546,11 @@ text_array = [
     ""),
     # "That's right" †
 
-    ("「岡田燗も、もういいでし蛯ょ？」",
+    ("「岡田燗も、もういいでしょ？」",
     ""),
     # "Okada Kan, okay, is it okay now?"
 
-    ("「岡田沒ぁ〜、もう竄やめときなよ〜」",
+    ("「岡田沒ぁ〜、もうやめときなよ〜」",
     ""),
     # "Okada Tsutomu, it's time to stop tampering."
 
@@ -570,7 +570,7 @@ text_array = [
     ""),
     # Even the hot spring seemed unfair,
 
-    ("「…增わかった墲わよ」",
+    ("「…わかった墲わよ」",
     ""),
     # "...I understand, I'm here."
 
@@ -586,7 +586,7 @@ text_array = [
     ""),
     # Yoshinori follows.†
 
-    ("「べつにオ激レはいい。本沫は部外者だしな。それより烽も、できれば委員長に謝って竄やってくれねーか？」",
+    ("「べつにオレはいい。本沫は部外者だしな。それより烽も、できれば委員長に謝ってやってくれねーか？」",
     ""),
     # "I'm really good at being super exciting. Hondo is an outsider. If possible, could you please apologise to the chairman and tamper with me?"
 
@@ -599,14 +599,14 @@ text_array = [
     # "Okada!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("吉芫井が真武剣な顔でにらみつけると、岡田は福口をｐ逅らせ、フンッとそっぽをｌいた。†",
+    ("吉芫井が真武剣な顔でにらみつけると、岡田は口をｐ逅らせ、フンッとそっぽをｌいた。†",
     ""),
     # Yoshinori glared at me with a Shinbu sword-like face, and Okada let Fukuguchi meet and turned around.†
 
-    ("「增わかった。いちおうひとことだけ謝っとく」",
+    ("「わかった。いちおうひとことだけ謝っとく」",
     ""),
     # "I understand. I'll apologize just for you."
 
@@ -638,7 +638,7 @@ text_array = [
     ""),
     # Well, that's the time.
 
-    ("諱取闔りあえず、竅やるようには竄やったんだしな。†",
+    ("諱取闔りあえず、やるようにはやったんだしな。†",
     ""),
     # I didn't get the name but just tampered with it to make it seem like a sin.†
 
@@ -646,7 +646,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("しかしオ激レって、つくづく考えなしに行動してるよな。",
+    ("しかしオレって、つくづく考えなしに行動してるよな。",
     ""),
     # However, I'm really acting without any thoughts.
 

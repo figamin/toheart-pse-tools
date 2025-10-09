@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "To be honest, I guess it's because I'm tired of watching it."
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "That's right.
 
-    ("やっぱり格闘技は、自分で竄やらなくち痰ゃ面猪白くないです烽ものね？」",
+    ("やっぱり格闘技は、自分でやらなくち痰ゃ面猪白くないです烽ものね？」",
     ""),
     # After all, martial arts are something you have to tamper with on your own, so you're not too bored with the phlegm, right?”
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Yes! It's fun, and even hot!"
 
-    ("葵ち痰ゃんは、いつ烽ものあのさ墲わ竄やかな笑迴顔を見せた。",
+    ("葵ち痰ゃんは、いつ烽ものあのさ墲わやかな笑迴顔を見せた。",
     ""),
     # Aoi Chisho-yan showed a fuzzy face that was so funny.
 
-    ("「その楽しさっての、オ激レ焜も知闥りたいんだ」",
+    ("「その楽しさっての、オレ焜も知闥りたいんだ」",
     ""),
     # "I want to know about that fun too."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Aoi Chisho-yan nodded.†
 
-    ("「本末当に竄やっていけるのか、まだ墲わかんねーから、諱取闔りあえずは仮遠箔部って形にしといて欲しいんだけどさ」†",
+    ("「本末当にやっていけるのか、まだ墲わかんねーから、諱取闔りあえずは仮遠箔部って形にしといて欲しいんだけどさ」†",
     ""),
     # "I don't know yet whether we can tamper with the end of the art, so I hope they will make it into a temporary foil section without asking for a name for themselves."
 
-    ("「はい、增わかりました！	それで烽もとって烽もうれしいです、とって烽も！」",
+    ("「はい、わかりました！	それで烽もとって烽もうれしいです、とって烽も！」",
     ""),
     # "Yes, I understand! And I'm happy to have some hot pot, and I also take some hot pot!"
 

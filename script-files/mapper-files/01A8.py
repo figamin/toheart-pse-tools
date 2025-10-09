@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Light scale event 1F) (B I see, it's sputum)†
 
-    ("待ってて烽もし蛯ょーがない。",
+    ("待ってて烽もしょーがない。",
     ""),
     # Wait, there's no hot bro.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "I see, it's phlegm."
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # Akari smiled and walked over to the area of ​​the scavengers who were the ones who were the ones who were able to remove the fires.†
 
-    ("まあ、行き烽も帰闍り烽もいっし蛯ょじ痰ゃ、さすがにｉ話すること烽もなくなってくるからな。",
+    ("まあ、行き烽も帰闍り烽もいっしょじ痰ゃ、さすがにｉ話すること烽もなくなってくるからな。",
     ""),
     # Well, there are also hot springs and hot springs, and there are so many hot springs that I can talk about.
 
-    ("べつに、增わざ墲わざ待ってまで、いっし蛯ょに帰驪ること烽もあるまい。",
+    ("べつに、わざ墲わざ待ってまで、いっしょに帰驪ること烽もあるまい。",
     ""),
     # In fact, there are times when you can wait and return to the slut.
 
-    ("オ激レはあかりの背白を見洛送った。◯",
+    ("オレはあかりの背白を見洛送った。◯",
     ""),
     # I took a look at Akari's backlash and sent him off to the rakumin.◯
 

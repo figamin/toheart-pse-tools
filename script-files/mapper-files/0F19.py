@@ -2,7 +2,7 @@
 # Source file: 0F19.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル３）閨（終業式篇（ぱずる））閨（選択綜	♂史を誘う）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	♂史を誘う）閨（蛛主人公沍勝ち）†",
     ""),
     # (Arcade Battle Cry 3) (Closing ceremony edition) (Choices, Inviting History) (Mr. The protagonist wins) †
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hmm, I wonder if my heart is working hard."
 
-    ("「へへ、お前に頑張迺られたらオ激レなんかすぐ追い抜かれちまうぜ」†",
+    ("「へへ、お前に頑張迺られたらオレなんかすぐ追い抜かれちまうぜ」†",
     ""),
     # "Hehe, if you try hard, I'll be overtaken quickly." †
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "...That's seriously true"
 
-    ("志保笊やあかり烽もまじえて、その繧後は蛯大いに盛關り繧上がった。",
+    ("志保笊やあかり烽もまじえて、その繧後は大いに盛關り繧上がった。",
     ""),
     # It also featured Shiho-Kai and Akari Hot, and after that, the simmons were greatly increased.
 

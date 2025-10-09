@@ -10,15 +10,15 @@ text_array = [
     ""),
     # I went to the shopping district.
 
-    ("ぶらっと烽歩きながら、ド宴ラッグストアの前で立ち止まる。",
+    ("ぶらっと烽歩きながら、ドラッグストアの前で立ち止まる。",
     ""),
     # We stopped in front of the banquet rug store as we strolled around.
 
-    ("そうい竄や、整髪料が切齔れてたな。",
+    ("そういや、整髪料が切齔れてたな。",
     ""),
     # I've been tampering with the hair styling products.
 
-    ("ち蛯ょうど店謫先の盾ワゴンに並べてある。",
+    ("ちょうど店謫先の盾ワゴンに並べてある。",
     ""),
     # They are lined up on the shield wagon at the Chieyodo store.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # I'm not sure if it's a phlegm, let's try this one this time.†
 
-    ("お烽もむｂに整髪料を手に取骼ると、",
+    ("お烽もむに整髪料を手に取骼ると、",
     ""),
     # When I picked up the hair styling material from Hot Mom B,
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # When I hear the message, Shiho will be there.†
 
-    ("「なになに？	ほおほお、いまどきの男子たる竄や、身だしなみ烽も蛯大切だかんね〜」",
+    ("「なになに？	ほおほお、いまどきの男子たるや、身だしなみ烽も大切だかんね〜」",
     ""),
     # "What? You see, the tampering with modern men and their appearance are important."
 
-    ("志保はオ激レのモ買おうとしている烽ものを見て、ニсヤニсヤしながらこっちへ竄やってきた。†",
+    ("志保はオレのモ買おうとしている烽ものを見て、ニсヤニсヤしながらこっちへやってきた。†",
     ""),
     # Shiho saw the hot food he was trying to buy a real-life mochi, and smugly and sniffed over me.†
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # Suddenly he grabs the thing in front of him.†
 
-    ("「全然選んでねーだｂ。どうせテキトーな物をつかませようって腹だｂ？」",
+    ("「全然選んでねーだ。どうせテキトーな物をつかませようって腹だ？」",
     ""),
     # "I didn't choose anything b. Is it a belly to let you grab something casual anyway b?"
 
-    ("「あら、バ激レた？	じ痰ゃこれ」",
+    ("「あら、バレた？	じ痰ゃこれ」",
     ""),
     # "Oh, did you get a lot of pounding? That's all phlegm."
 
-    ("「言ってるそばから竄やってんじ痰ゃねーって。だいたい、それはいまオ激レが揩持ってるだｂ」†",
+    ("「言ってるそばからやってんじ痰ゃねーって。だいたい、それはいまオレが揩持ってるだ」†",
     ""),
     # "I'm going to have to stomp on the side of you saying that. I'm pretty sure I'm going to have that right now." †
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Oh, that's the phlegm."
 
-    ("「それはオ＜メーが最燕初に選んで竄やめたрヤツ」†",
+    ("「それはオ＜メーが最燕初に選んでやめたрヤツ」†",
     ""),
     # "That's the guy whom you've chosen and stopped tampering"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # There's no phlegm...this!”
 
-    ("「だから、それはオ激レが手に揩持ってるっての」†",
+    ("「だから、それはオレが手に揩持ってるっての」†",
     ""),
     # "That's why I'm holding it in my hand."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "What?! What's that? What are you talking about?"
 
-    ("「それはお前が最燕初に取った竄やつだｂーが。記憶力あんのか、この鳥頭！」†",
+    ("「それはお前が最燕初に取ったやつだーが。記憶力あんのか、この鳥頭！」†",
     ""),
     # "That's the first thing you took to the tampering b--- do you have. Do you have any memory, this bird head!"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "You're cheating me, right?!"
 
-    ("「なに烽もだましち痰ゃいねー諱よ。ぱっと見闌り痰ゃ、增わかるだｂ」",
+    ("「なに烽もだましち痰ゃいねー諱よ。ぱっと見り痰ゃ、わかるだ」",
     ""),
     # "What are you fooling around with your pet? You can see it at first glance, you can see it."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "It's a shame... I can't get it right. What's the point of your happiness lol?"
 
-    ("「あたし？	あたしは待ち№合寘わせで｢｢黽あっ、遅齟れそう！",
+    ("「あたし？	あたしは待ち№合寘わせで｢｢黽あっ、遅れそう！",
     ""),
     # "Me? I was waiting and asked, "Ah, I'm going to be late!"
 
@@ -150,11 +150,11 @@ text_array = [
     ""),
     # I'm not sure if it's phlegm, again lol"
 
-    ("ＴＶの予雛告みたいなことを福口膜走って、志保はｋけていった。",
+    ("ＴＶの予雛告みたいなことを口膜走って、志保は駆けていった。",
     ""),
     # Shiho ran through the TV preliminary message and started to sprint, causing him to sprint.
 
-    ("なに竄やってんだあいつ。",
+    ("なにやってんだあいつ。",
     ""),
     # What are you doing about it?
 

@@ -62,15 +62,15 @@ text_array = [
     ""),
     # The night of the 10th day of the 4th month.
 
-    ("その冾日は寝髏る前に腹が減ったので、カップ宴ラー＝メンをｍって食べた。",
+    ("その冾日は寝髏る前に腹が減ったので、カップラー＝メンをｍって食べた。",
     ""),
     # On that day, I was hungry before I could sleep, so I ate a cup banquet Ramen.
 
-    ("こんなときに食べるカップ宴ラー＝メンって、うまいんだよな。",
+    ("こんなときに食べるカップラー＝メンって、うまいんだよな。",
     ""),
     # The cup banquet laurel is delicious at times like this.
 
-    ("ズ泣ルズ泣ル…。◯",
+    ("ズルズル…。◯",
     ""),
     # I'm crying...◯
 

@@ -34,11 +34,11 @@ text_array = [
     ""),
     # ・†
 
-    ("いまの鰍投稿のрヤツ、いったいどんな役を外されたんだｂう。",
+    ("いまの鰍投稿のрヤツ、いったいどんな役を外されたんだう。",
     ""),
     # What role did the guy in the current posting have been removed from?
 
-    ("きっとし蛯ょーもない役だったんで、制錐者がいらないと判断したんだｂうな。",
+    ("きっとしょーもない役だったんで、制錐者がいらないと判断したんだうな。",
     ""),
     # I'm sure he was a silly role, so I decided that there was no need for a sturdy guy.
 

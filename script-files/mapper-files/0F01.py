@@ -2,19 +2,19 @@
 # Source file: 0F01.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル１）閨（卒業式篇）閨（選択綜	志保）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	志保）†",
     ""),
     # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Shiho)†
 
-    ("「竅やっぱオ激レの鰍相闡手は志保だｂーな」",
+    ("「やっぱオレの鰍相闡手は志保だーな」",
     ""),
     # "After all, Shiho is the one who is really into the fight."
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
-    ("♂史竡やあかりに痰ゃオ激レの鰍相闡手は辛すぎる。†",
+    ("♂史竡やあかりに痰ゃオレの鰍相闡手は辛すぎる。†",
     ""),
     # Masturbation is so painful that it's so intense that it's hard to resist the phlegm and the red light.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Hehehe. I thought it was coming."
 
-    ("「竅やるか」",
+    ("「やるか」",
     ""),
     # "Shall I do it?"
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # "All right"
 
-    ("うなずき、座高うとしたオ激レを差し置いて、志保が先に座った。†",
+    ("うなずき、座高うとしたオレを差し置いて、志保が先に座った。†",
     ""),
     # Shiho sat first, besides my intense throbbing who nodded and tried to sit up.†
 
-    ("「はい。まずはあたしから竄やらせてね」",
+    ("「はい。まずはあたしからやらせてね」",
     ""),
     # "Yes. First, let me tamper with you."
 
-    ("「氈勝闖手に竄やってくれ」◯",
+    ("「氈勝闖手にやってくれ」◯",
     ""),
     # "Please tamper with me with your hands" ◯
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # ・†
 
-    ("梶相変﨑わらずよく竄やるぜ。",
+    ("梶相変﨑わらずよくやるぜ。",
     ""),
     # Kaji Aizai doesn't turn it around and I'll tamper with it.
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # Shiho casually said.
 
-    ("ったく、もう天逑狗になって竄やがる。",
+    ("ったく、もう天逑狗になってやがる。",
     ""),
     # It's already become bored and tampered with.
 
-    ("その鼻へし折って竄やるぜ。†",
+    ("その鼻へし折ってやるぜ。†",
     ""),
     # I'll break that nose and tamper with it.†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Don't underestimate it."
 
-    ("オ激レはなるべく平静を浮装って、志保と場鰹所交繻代した。",
+    ("オレはなるべく平静を浮装って、志保と場鰹所交代した。",
     ""),
     # My guts pretended to be as calm as possible and exchanged Badzu with Shiho.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Well, the atmosphere is fun.†
 
-    ("オ激レは椅子に座骰ると、１００円玉を入齠れてゲームをスタートさせた。◯",
+    ("オレは椅子に座骰ると、１００円玉を入齠れてゲームをスタートさせた。◯",
     ""),
     # I sat in a chair and got a 100 yen coin and started the game.◯
 

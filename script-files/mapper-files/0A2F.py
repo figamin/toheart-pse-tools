@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I'm refraining from doing that."
 
-    ("オ激レは弁抹当箱を手のひらで制した。",
+    ("オレは弁抹当箱を手のひらで制した。",
     ""),
     # Ikere won the bento box with my palm.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # For a moment, the face of the woman Ochi Sphinja throbbed.†
 
-    ("「掾理女緒ち痰ゃん、今厓日燗もバイトとかあんだｂ？」",
+    ("「掾理女緒ち痰ゃん、今厓日燗もバイトとかあんだ？」",
     ""),
     # "Is it a bit of work now for Hikan?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("「だったら、ち痰ゃんと食べて栄養つけなき痰ゃだめだｂ？」",
+    ("「だったら、ち痰ゃんと食べて栄養つけなき痰ゃだめだ？」",
     ""),
     # "If that's the case, then you can't eat it and get enough nutrients?"
 
@@ -47,7 +47,7 @@ text_array = [
     # "The bread that I bought and the "Oden Bento" by the "Like Hand Poem" is not a catch when I catch a fish."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("力なく、弁抹当箱を揩持つ手が下がる。",
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("增わりと真武剣に悩む揩理女緒ち痰ゃん。†",
+    ("わりと真武剣に悩む揩理女緒ち痰ゃん。†",
     ""),
     # I'm a bit worried about Shinbuken.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # Erime Ochishonan reached for the fire lettuce sandwich.
 
-    ("「おっ、ヘ泣ルシー派だな」",
+    ("「おっ、ヘルシー派だな」",
     ""),
     # "Oh, you're a Russie fan."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Hehehe."
 
-    ("「じ痰ゃ、オ激レ焜も一串煖もらうぜ」†",
+    ("「じ痰ゃ、オレ焜も一串煖もらうぜ」†",
     ""),
     # "I'll get some skewers too." †
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "It's fine, the number of sphinx is reduced."
 
-    ("「あと二本あるから、ち蛯ょうど半分ずつだよ。ね？」",
+    ("「あと二本あるから、ちょうど半分ずつだよ。ね？」",
     ""),
     # "I have two more, so I'll have half the ones. Right?"
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "If you say that..."
 
-    ("そういう墲わけで、オ激レはウィンナー香ロールとおでんとカフェオ激レという、めったにない取闔り№合寘わせの味を体験できた。",
+    ("そういう墲わけで、オレはウィンナー香ロールとおでんとカフェオレという、めったにない取闔り№合寘わせの味を体験できた。",
     ""),
     # That's why Ogekire was able to experience the rare taste of the wiener incense roll, oden, and cafe au geire, a rare taste of the number one taste of the singular flavor.
 

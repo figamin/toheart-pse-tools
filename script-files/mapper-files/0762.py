@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Kotone's Likeability Event)†
 
-    ("自販機にカフェオ激レをモ買いに行った帰闍り、廊下がち蛯ょっと宸騒がしいのに気づいた。",
+    ("自販機にカフェオレをモ買いに行った帰闍り、廊下がちょっと宸騒がしいのに気づいた。",
     ""),
     # When I went to the vending machine to buy some delicious Cafe au Lait, I noticed a bit of a noisy atmosphere in the hallways.
 
-    ("見骭ると、４、５人が誰かを唐遠巻きに取闔り囲んでいる。†",
+    ("見骭ると、４、５人が誰かを遠巻きに取闔り囲んでいる。†",
     ""),
     # When I looked around, four or five people were surrounding someone in a long way.†
 
-    ("なんだｂうと近づいてみた。†",
+    ("なんだうと近づいてみた。†",
     ""),
     # What the heck I tried to get closer.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Sir Isamu, shall I call you?"
 
-    ("ギャャ宴ラ潟リーのひとりが近づいて、浴女の子の肩にふれた。†",
+    ("ギャャラリーのひとりが近づいて、浴女の子の肩にふれた。†",
     ""),
     # One of the Gyabanquet Raragali approached and touched the shoulder of the bathing girl.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # ...Kotone's sphemy!†
 
-    ("オ激レは声をかけた。",
+    ("オレは声をかけた。",
     ""),
     # I called out to him.
 
@@ -67,10 +67,10 @@ text_array = [
     # "There's no female so don't get close." †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レは近寄驫ること烽もできず、息を呑んだ。",
+    ("オレは近寄驫ること烽もできず、息を呑んだ。",
     ""),
     # I couldn't approach or smoke, so I took my breath.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # What exactly is going to happen...?†
 
-    ("そう思っているうち、辺阨りが急に静かになって、キーンと耳鳴阮りがし始めた。",
+    ("そう思っているうち、辺阨りが急に静かになって、キーンと耳鳴りがし始めた。",
     ""),
     # While I was thinking this, Biangu suddenly started to quiet and tingling tinnitus began to squeal.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # The child next to me spoke to someone.
 
-    ("なんか、オ激レと同じらしい。",
+    ("なんか、オレと同じらしい。",
     ""),
     # Apparently it's the same as me.
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # Is this because of Kotone's sphincter?
 
-    ("ド宴ラマとかで魔事庶件が起こる寸前みたいな雰囲気…。",
+    ("ドラマとかで魔事庶件が起こる寸前みたいな雰囲気…。",
     ""),
     # It's like a banquet llama or something like that will happen...
 
-    ("誰熬も福口を開かなくなった。†",
+    ("誰熬も口を開かなくなった。†",
     ""),
     # No one could open his luck.†
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # ・
 
-    ("突然、琴音ち痰ゃんはキッと天苴井をにらんだ。",
+    ("突然、琴音ち痰ゃんはキッと天井をにらんだ。",
     ""),
     # Suddenly, Kotone Chisho-yan glared at Tenrei.
 
-    ("オ激レと何人か烽もつられて天苴井を見繻上げる。†",
+    ("オレと何人か烽もつられて天井を見上げる。†",
     ""),
     # I was also stolen and a few other people were tempted and I looked up at Tensai.†
 
@@ -150,11 +150,11 @@ text_array = [
     ""),
     # Someone who was in charge of the story was surprised and raised his voice.†
 
-    ("…オ激レは見た。",
+    ("…オレは見た。",
     ""),
     # ...I saw it.
 
-    ("天苴井の蛍光伯灯が破裂したんだ。†",
+    ("天井の蛍光伯灯が破裂したんだ。†",
     ""),
     # Tenrei's fluorescent lamp burst.†
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # There's nothing really phlegm like the ball hits the wicked.
 
-    ("破裂する直前の蛍光伯灯燗もオ激レは見ている。",
+    ("破裂する直前の蛍光伯灯燗もオレは見ている。",
     ""),
     # I was also watching the fluorescent hakuto just before it burst.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # It definitely burst out suddenly.
 
-    ("ト潟リックで烽も使寬わない限闌り、んなことできるはずがない。†",
+    ("トリックで烽も使寬わない限り、んなことできるはずがない。†",
     ""),
     # Unless you use Hot Springs at Togata Lick, you can't do anything like that.†
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # ...There's no phlegm right in that situation.
 
-    ("琴音ち痰ゃんは、メ泣きそうな目で床に散邇らばった蛍光伯灯の破片を見つめると、素闡手で破片を集め始めた。†",
+    ("琴音ち痰ゃんは、メきそうな目で床に散邇らばった蛍光伯灯の破片を見つめると、素闡手で破片を集め始めた。†",
     ""),
     # Kotone Chisho-yan stared at the fragments of Fluorescent Hakuto scattered on the floor with eyes that seemed to make her cry, and began collecting the fragments with her hands.†
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "Kotone Chishonan, you're getting hurt!"
 
-    ("オ激レが止めて烽も、琴音ち痰ゃんは竄やめようとしない。",
+    ("オレが止めて烽も、琴音ち痰ゃんはやめようとしない。",
     ""),
     # I stopped him and Kano refused to stop tampering with Kotone Chisho-chan.
 
@@ -198,11 +198,11 @@ text_array = [
     ""),
     # The people who are in the world don't try to do anything.
 
-    ("しかたなく、オ激レは近くの教室からホウキとチ潟リト潟リを取ってきた。†",
+    ("しかたなく、オレは近くの教室からホウキとチリトリを取ってきた。†",
     ""),
     # I had no choice but to get a broom and a silly silly from a nearby classroom.†
 
-    ("急いで破片を掃いてチ潟リト潟リに集める。",
+    ("急いで破片を掃いてチリトリに集める。",
     ""),
     # I quickly sweep the debris and collect it in the Chigata Rito Kaori.
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # I couldn't say anything about it.†
 
-    ("琴音ち痰ゃんは職員室へ蛍光伯灯をр割ったことを謝闔りに行き、オ激レ焜もそれにつき№合った。",
+    ("琴音ち痰ゃんは職員室へ蛍光伯灯をр割ったことを謝闔りに行き、オレ焜もそれにつき№合った。",
     ""),
     # Kotone Chisho-yan went to the staff room to thank him for breaking the fluorescent light, and my geisha also got the right choice.
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # The teacher just looks troubled.
 
-    ("なにしｂ、п割れた原因が揩理解不能だからだ。",
+    ("なにし、п割れた原因が揩理解不能だからだ。",
     ""),
     # What is the reason for the cracking of the п is because it is incomprehensible.
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # In the end, Professor Ikebukuro dismissed the old fluorescent light that had exploded.†
 
-    ("学校の物を壊し、氏落ち桙込んだ琴音ち痰ゃんに、かける言葉のないオ激レ。",
+    ("学校の物を壊し、氏落ち桙込んだ琴音ち痰ゃんに、かける言葉のないオレ。",
     ""),
     # I'm extremely speechless when Kotone Chisho-chan broke things at school and fell down.
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # However, it was strange for me to break it myself.
 
-    ("あんなに繧後悔するくらいなら、竅やる意味なんてないのに。",
+    ("あんなに繧後悔するくらいなら、やる意味なんてないのに。",
     ""),
     # There's no point in shaking it than regretting it so much.
 

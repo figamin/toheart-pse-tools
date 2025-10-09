@@ -14,7 +14,7 @@ text_array = [
     ""),
     # It's a Sunday, but since it's a test period, I'm not really happy.
 
-    ("昼まで艪ゆっくり寝て、頭をスッキ潟リさせてから勉強しよう。◯",
+    ("昼までゆっくり寝て、頭をスッキリさせてから勉強しよう。◯",
     ""),
     # Sleep well until noon, and let your head clear before studying.◯
 

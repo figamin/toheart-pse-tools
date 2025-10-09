@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Scale Event 1F LV1) (Continued from Selection ABC)†
 
-    ("オ激レと先輩は、そのままなんで烽もない桙時間を過ごした。†",
+    ("オレと先輩は、そのままなんで烽もない桙時間を過ごした。†",
     ""),
     # My senior and I just spent some hot and bouncing time.†
 
@@ -14,19 +14,19 @@ text_array = [
     ""),
     # About five minutes later, when my senior looked at the clock,
 
-    ("そｂそｂ桙時間です、と立ち繧上がった。",
+    ("そそ桙時間です、と立ち繧上がった。",
     ""),
     # He stood up saying, "It's time for b, it's time for b, it's time for b, and I got up.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「あっ、迎えがｗ磯翌ﾌか？	じ痰ゃあ、オ激レ焜も校蜊門までいっし蛯ょに行くよ」†",
+    ("「あっ、迎えがｗ磯翌ﾌか？	じ痰ゃあ、オレ焜も校蜊門までいっしょに行くよ」†",
     ""),
     # "Ah, I'll be able to welcome you lol? Is it the next day? I'm going to go to the school gates too." †
 
-    ("ふたりで校蜊門前まで竄やってｗたとき、",
+    ("ふたりで校蜊門前までやってｗたとき、",
     ""),
     # When the two of us tampered with each other in front of the school gates,
 
@@ -34,12 +34,12 @@ text_array = [
     ""),
     # "Oh, I've come to pick you up."
 
-    ("竅停車していた鰍リムジンの陰から、ぬっと、お迎えのじーさんが姿を現した。†",
+    ("停車していた鰍リムジンの陰から、ぬっと、お迎えのじーさんが姿を現した。†",
     ""),
     # The old man who was greeted by the carpenter appeared from behind the locker limousine, which had been stopped.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	失邇礼しますって？	うん。じ痰ゃあ、また」†",

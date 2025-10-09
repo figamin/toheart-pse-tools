@@ -62,11 +62,11 @@ text_array = [
     ""),
     # I looked down for a moment, but †
 
-    ("「諱よーしっ。じ痰ゃあ、今厓日燗もがんばｂうっ！	これ烽も≠早く配っち痰ゃうねっ！」",
+    ("「諱よーしっ。じ痰ゃあ、今厓日燗もがんばうっ！	これ烽も≠早く配っち痰ゃうねっ！」",
     ""),
     # "All right. Let's do our best now, sunkan too b! This is also quick to deliver!!"
 
-    ("「おう、がんばれ。ジャャマすんの烽もなんだし、オ激レはこれで。またな」",
+    ("「おう、がんばれ。ジャャマすんの烽もなんだし、オレはこれで。またな」",
     ""),
     # "Oh, do your best. It's the hot springs of Jamasun, so this is my best. See you later."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Ah, yes, that's it, phlegm, see you later!"
 
-    ("そして、オ激レたちは手を振って別れた。◯",
+    ("そして、オレたちは手を振って別れた。◯",
     ""),
     # And then we waved our hands and parted ways.◯
 

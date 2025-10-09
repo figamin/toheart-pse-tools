@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「＝普通の冾日がよ。そいで烽もって次はゴールデンウィークで、その次は修学旅行…。これだけ続くと２つめの春休みってノ潟リじ痰ゃない？」†",
+    ("「＝普通の冾日がよ。そいで烽もって次はゴールデンウィークで、その次は修学旅行…。これだけ続くと２つめの春休みってノリじ痰ゃない？」†",
     ""),
     # "=It's a normal day. Then the next one will be Golden Week, and the next one will be the school trip... If this continues for a long time, the second spring break will be full of phlegms?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "That's right. You don't have to go to school for a week..."
 
-    ("「それであたし、ゴールデンウィークレけのプ激レイスポットを調べにきたのよ」",
+    ("「それであたし、ゴールデンウィークレけのプレイスポットを調べにきたのよ」",
     ""),
     # "So, I came to check out the Golden Weekre spots."
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "Hmm. Check out the bonito spot where you can play... It looks like you're coming." †
 
-    ("「ね、ね、はヒマでし蛯ょ？	いっし蛯ょにチェックしまし蛯ょー諱よ」",
+    ("「ね、ね、はヒマでしょ？	いっしょにチェックしましょー諱よ」",
     ""),
     # "Hey, you're free, are you eclipse? I'll check it out, eclipse, eclipse."
 
-    ("そう言って、志保はオ激レの腕をぐいぐい引っ張髓る。",
+    ("そう言って、志保はオレの腕をぐいぐい引っ張髓る。",
     ""),
     # With that in mind, Shiho tugs my arms hard.
 
-    ("「し蛯ょーがねえな。",
+    ("「しょーがねえな。",
     ""),
     # "There's no eclipse.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # I've had enough time to go."
 
-    ("…志保のゴールデンウィークって、どんな過ごし福方なんだｂうか。",
+    ("…志保のゴールデンウィークって、どんな過ごし方なんだうか。",
     ""),
     # ...What is Shiho's way of spending time during Golden Week?
 

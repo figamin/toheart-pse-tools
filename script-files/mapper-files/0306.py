@@ -14,15 +14,15 @@ text_array = [
     ""),
     # Last year I was in Class A.
 
-    ("部賦は竄やってません。",
+    ("部賦はやってません。",
     ""),
     # I haven't tampered with the part.
 
-    ("よｂしくお願いします」",
+    ("よしくお願いします」",
     ""),
     # Please be ok."
 
-    ("オ激レは無俣に≠普通のあいさつをした。†",
+    ("オレは無俣に≠普通のあいさつをした。†",
     ""),
     # My geisha gave a normal greeting to Mumata.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # This kind of thing is formal, so it's fine to be normal.
 
-    ("ヘタにフ激レンド潟リーに出てお寒いрヤツだと思寬われるの烽もなんだし、かといって面倒くさそうに素っ気なくいくの烽も印象が悪い。†",
+    ("ヘタにフレンドリーに出てお寒いрヤツだと思寬われるの烽もなんだし、かといって面倒くさそうに素っ気なくいくの烽も印象が悪い。†",
     ""),
     # It's not surprising that he's going out to be a very cold guy and thinks he's a cold guy, but the fact that he goes straight and casually like a hassle makes a bad impression.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # After finishing my words, I went to my seat, and suddenly looked down at the side, and my eyes met the next female student.
 
-    ("あれは、いつぞ竄やの関西乱女だ。",
+    ("あれは、いつぞやの関西乱女だ。",
     ""),
     # That's a Kansai random girl who's been duped up when.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Even though he had only met his eyes, Hoshina quickly looked away.
 
-    ("どう竄やらオ激レのこと、覚えてるみたいだな。†",
+    ("どうやらオレのこと、覚えてるみたいだな。†",
     ""),
     # It seems like he remembers the tampering and the harshness of me.†
 

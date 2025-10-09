@@ -2,7 +2,7 @@
 # Source file: 0286.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ｂ	いまは唐遠慮しとく）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ｂ	いまは遠慮しとく）†",
     ""),
     # (Seri°Chuang, Scales Event 2F LV2)Seri (Select B, I'll refrain from doing it now)†
 
@@ -10,12 +10,12 @@ text_array = [
     ""),
     # "...Uhhhh.
 
-    ("先輩、ごめんな。悪いけど、いまは唐遠慮しとくよ」",
+    ("先輩、ごめんな。悪いけど、いまは遠慮しとくよ」",
     ""),
     # Senpai, sorry.Sorry, but I'll refrain from doing that now."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「で烽も気搴持ちは嬉しいからさ。また今度椏時間があったら鰍頼むよ」",
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # A little bit.
 
-    ("うなずいた先輩に笑迴顔で手を振って、オ激レは廊下の先を進んだ。◯",
+    ("うなずいた先輩に笑迴顔で手を振って、オレは廊下の先を進んだ。◯",
     ""),
     # I nodded my head and waved my hand with a smile, and my guts went down the hallway.◯
 

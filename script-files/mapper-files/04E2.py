@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho's Likeability Type Scales Event PS) (Select So Go) †
 
-    ("「增わかった墲わかった。行って竄やるよ」",
+    ("「わかった墲わかった。行ってやるよ」",
     ""),
     # "I get it, I get it. I'll go and tamper with it."
 
-    ("素直じ痰ゃない志保の誘い福方に、オ激レは苦笑まじりで嘯答えた。†",
+    ("素直じ痰ゃない志保の誘い方に、オレは苦笑まじりで嘯答えた。†",
     ""),
     # I replied with a wry smile to Shiho's invitation to Fukukata, who was honest and could not sputum.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ah, before you get surprised, you're thought of as the next woman with a weak mind."
 
-    ("オ激レはイсヤミったらしく言って竄やった。†",
+    ("オレはイсヤミったらしく言ってやった。†",
     ""),
     # I said that I was cheating and stolen it.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "What?!"
 
-    ("「おい、おめーは意表をつく翌女だｂ？	そのまま怒闢り出したら意表をついてねーぞ」†",
+    ("「おい、おめーは意表をつく翌女だ？	そのまま怒闢り出したら意表をついてねーぞ」†",
     ""),
     # "Hey, you're the next woman who's unexpected? If you start to get angry, don't you think you're unexpected." †
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Perhaps that was an unexpected move, Shiho suddenly laughed.
 
-    ("計算で竄やってるのか、素で竄やってるのか、いまだにオ激レには墲わからない。†",
+    ("計算でやってるのか、素でやってるのか、いまだにオレには墲わからない。†",
     ""),
     # I still don't know if it's just tampering with calculations or if it's tampering with its own way.†
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # He says while taking a casual deep breath.
 
-    ("пヤックにｌかったのは良かったが、運悪く店が混んでいたのでオ激レたちはテイクアウトして広鼾場に竄やってきた。†",
+    ("пヤックにｌかったのは良かったが、運悪く店が混んでいたのでオレたちはテイクアウトして広鼾場にやってきた。†",
     ""),
     # It was good that I had it at пYak, but unfortunately the store was busy so the guys took it out and fed up at Gwangyuba.†
 
-    ("「さっき烽もらってたティッシャち蛯ょーだい」",
+    ("「さっき烽もらってたティッシャちょーだい」",
     ""),
     # "It's the Tissya that I had just received a hot pot."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "What is it? If you want phlegm, get a hot water too."
 
-    ("言いながらオ激レはポケットからティッシャを取闔り出した。",
+    ("言いながらオレはポケットからティッシャを取闔り出した。",
     ""),
     # As I said, I pulled out the tissue from my pocket.
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # When you spread it on the bench, it begins to fold in a long, thin section.†
 
-    ("オ激レとあかりは何が始まるのかと見迪守っていたが、",
+    ("オレとあかりは何が始まるのかと見迪守っていたが、",
     ""),
     # I and Akari were hoping to see what was going to start,
 
-    ("「あ、志保、п私に烽もち蛯ょうだい」",
+    ("「あ、志保、п私に烽もちょうだい」",
     ""),
     # "Ah, Shiho, please give me a hot bro."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Akari said, reminiscing.†
 
-    ("「あかり烽も竄やんの？	じ痰ゃどっちがきれいか勝縁負ね」",
+    ("「あかり烽もやんの？	じ痰ゃどっちがきれいか勝縁負ね」",
     ""),
     # "Are you tampering with the red hot water? I'm indeed defeated by which one is more beautiful."
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # And this time, the two of them started their own m-work.
 
-    ("あかりは何か知ってるようだが、オ激レにはさっぱり墲わからない。†",
+    ("あかりは何か知ってるようだが、オレにはさっぱり墲わからない。†",
     ""),
     # Akari seems to know what it is, but I have no idea about it at all.†
 
-    ("竅やがて、たたんだティッシャを束ねてつまみ、指で広げ始めた。",
+    ("やがて、たたんだティッシャを束ねてつまみ、指で広げ始めた。",
     ""),
     # Eventually, he bundled up the folded tissues, pinched them, and began to spread them out with his fingers.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # the law of nature….
 
-    ("だんだんソ激レが形になってきて、オ激レに烽もよう竄やく正体が墲わかった。†",
+    ("だんだんソレが形になってきて、オレに烽もようやく正体が墲わかった。†",
     ""),
     # The fierce throbbing gradually took shape, and I began to understand my true identity as I throbbed it.†
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "No way. "Does it fit the screws?"
 
-    ("志保の言葉で、示し№合寘わせたようにふたりはソ激レを頭につけて見せた。",
+    ("志保の言葉で、示し№合寘わせたようにふたりはソレを頭につけて見せた。",
     ""),
     # In Shiho's words, the two put their heads on their heads, as if they had made the two to show it to each other.
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # I think it's well done, Shiho's flower."
 
-    ("「だめだめ。こいつはね、数をｍってナンボのｂモン諠よ。スピード命なの」",
+    ("「だめだめ。こいつはね、数をｍってナンボのモン諠よ。スピード命なの」",
     ""),
     # "No, no. This guy is a b-mon monk who has the number m. He's a speedy life."
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # Akari nodded for the time being.
 
-    ("「諱よし、聞かせｂ」",
+    ("「諱よし、聞かせ」",
     ""),
     # "All right, let me know."
 
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # Are you the one who sniffs and squeals at things?†
 
-    ("「あ、これお烽もしｂ〜い」",
+    ("「あ、これお烽もし〜い」",
     ""),
     # "Ah, this is a bit b"
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # "That's true" ∬
 
-    ("「お前に烽もカ宴ラオケ以外の取闔り柄があったか」",
+    ("「お前に烽もカラオケ以外の取闔り柄があったか」",
     ""),
     # "Did you have any other issues other than Kabanraoke?"
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # "Think about it at Hai Zheng. I just showed you a bit of my talent."
 
-    ("「なに言って竄やがる。…で、それからどうなったんだ？」†",
+    ("「なに言ってやがる。…で、それからどうなったんだ？」†",
     ""),
     # "What are you saying and tampering with?... And what happened then?"
 
@@ -362,11 +362,11 @@ text_array = [
     ""),
     # When Akari tried to answer,
 
-    ("「そいでそいで、ず〜っとひとりで頑張ってたのよ。マジで頑張ったのよ？	あたし。だったんだけど…、磨当然と艪ゆーか魔当たり前と艪ゆーか、竅やってるうちに飽きてきち痰ゃったのよ」†",
+    ("「そいでそいで、ず〜っとひとりで頑張ってたのよ。マジで頑張ったのよ？	あたし。だったんだけど…、当然とゆーか魔当たり前とゆーか、やってるうちに飽きてきち痰ゃったのよ」†",
     ""),
     # "I came here and worked hard all day long. Seriously, I did my best, right? I was. But... I was getting bored of it, like Masumi, or Masumi, or Masumi, as I was doing it, I started to get bored of it." †
 
-    ("「そり痰ゃそうだｂ」†",
+    ("「そり痰ゃそうだ」†",
     ""),
     # "It's like that phlegm is b" †
 
@@ -378,15 +378,15 @@ text_array = [
     ""),
     # I mean, I have to do phlegm alone to do the same for four people...†
 
-    ("「磨当たり前だ」†",
+    ("「当たり前だ」†",
     ""),
     # "It's obviously polished"
 
-    ("「あ〜もう竄やめよっかな〜〜〜っ」",
+    ("「あ〜もうやめよっかな〜〜〜っ」",
     ""),
     # "Ah, I guess I should stop tampering with you now..."
 
-    ("どうしようかとあせりまくってたら、そこへあかりが竄やってきたのよ。†",
+    ("どうしようかとあせりまくってたら、そこへあかりがやってきたのよ。†",
     ""),
     # I was so nervous about what to do, Akari started tampering with me.†
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # "Is that so?
 
-    ("よかった墲わぁ。ち蛯ょうど今、だれてたとこｂなのよ。",
+    ("よかった墲わぁ。ちょうど今、だれてたとこなのよ。",
     ""),
     # That's good.It's a place where you're tired right now.
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # "Ahhh, what are you panicking?
 
-    ("もっと嘯丁寧に竄やらなき痰ゃ」",
+    ("もっと嘯丁寧にやらなき痰ゃ」",
     ""),
     # You have to be more careful and not tampered with phlegm."
 
@@ -446,7 +446,7 @@ text_array = [
     ""),
     # "Ah, is that?"
 
-    ("そんな感じで、あたしたちは良い子が寝髏る桙時間をすぎて烽もまだ竄やってた墲わ。",
+    ("そんな感じで、あたしたちは良い子が寝髏る桙時間をすぎて烽もまだやってた墲わ。",
     ""),
     # In that way, we were still stolen by the time a good child had passed and the hot dogs were still tampering with them.
 
@@ -494,7 +494,7 @@ text_array = [
     ""),
     # And it was only after 10 gazes that ended.†
 
-    ("「神岸さんち、こんなに夜遅く帰って蛯大苟丈夫なの？」",
+    ("「神岸さんち、こんなに夜遅く帰って大苟丈夫なの？」",
     ""),
     # "Is Kamigishi-san's family so strong that you can go home late at night?"
 
@@ -510,7 +510,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「あたしがいっし蛯ょに行って魔事諶情を烽説明したげる」",
+    ("「あたしがいっしょに行って魔事諶情を烽説明したげる」",
     ""),
     # "I'll go to the verse and explain the magical feelings."
 
@@ -527,7 +527,7 @@ text_array = [
     # "…thank you"†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -582,7 +582,7 @@ text_array = [
     ""),
     # "Ah, Shiho..."
 
-    ("「…あんた、ノ潟リが悪い墲わね？」",
+    ("「…あんた、ノリが悪い墲わね？」",
     ""),
     # "...You're a bad guy, right?"
 
@@ -590,7 +590,7 @@ text_array = [
     ""),
     # "..."◯
 
-    ("「｢｢って感じで、おばさんにはあたしが魔事諶情を烽説明して、丸く福収まったって墲わけ。それからね、あたしたちが№仲良くなったのは」",
+    ("「｢｢って感じで、おばさんにはあたしが魔事諶情を烽説明して、丸く収まったって墲わけ。それからね、あたしたちが№仲良くなったのは」",
     ""),
     # "That's how I explained my magical feelings to the old lady, and it all ended up being a complete suffrage. Then, we became friends."
 
@@ -598,7 +598,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「そうい竄やそんな話があったよなぁ」",
+    ("「そういやそんな話があったよなぁ」",
     ""),
     # "There was talk of tampering and that kind of thing."
 
@@ -630,7 +630,7 @@ text_array = [
     ""),
     # "Ah, who'll go home in the morning!"
 
-    ("…その冾日は、思い烽もよらなかっただｂう、志保とあかりの出初いを、都∮合二度燗も、知髓ることができた。",
+    ("…その冾日は、思い烽もよらなかっただう、志保とあかりの出初いを、都∮合二度燗も、知髓ることができた。",
     ""),
     # ...On that day, I was able to learn about Shiho and Akari's first appearance, and the Tokyo-go-two-katsu was also available.
 

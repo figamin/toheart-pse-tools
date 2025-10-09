@@ -2,11 +2,11 @@
 # Source file: 0A3A.txt
 
 text_array = [
-    ("（Ｂ	竅やめておく。）†",
+    ("（Ｂ	やめておく。）†",
     ""),
     # (B: Stop it.)†
 
-    ("竅やめておこう。",
+    ("やめておこう。",
     ""),
     # Let's stop.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # It's also a dream to pursue a cat, and it doesn't seem to have noticed this.
 
-    ("オ激レは、さっさとその場を離齬れた。◯",
+    ("オレは、さっさとその場を離齬れた。◯",
     ""),
     # My gang quickly broke away from the situation.◯
 

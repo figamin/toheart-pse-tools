@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Ah, kun."
 
-    ("オ激レの前にパタパタと魔走ってきたのは揩理女緒ち痰ゃんだった。",
+    ("オレの前にパタパタと魔走ってきたのは揩理女緒ち痰ゃんだった。",
     ""),
     # Before my intense throbbing, it was Symphomaniac that ran through my spurt.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Oh, I'm not a smug woman. Are you a part-time job at Kouan now?"
 
-    ("「うん。…今厓日はゲームセンターの≠早番と、チ宴ラシの配達。…あと、驕夜にコンビニの撃レジ」",
+    ("「うん。…今厓日はゲームセンターの≠早番と、チラシの配達。…あと、驕夜にコンビニの撃レジ」",
     ""),
     # "Yes... Now on the day, the game center is quick and delivery of flyers.... Also, the convenience store's fireworks are on the night."
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Because it's tough and orderly!"
 
-    ("「はー…。この体のいったいどこひねったら、そんなパ純ワー出てくんだｂうな」",
+    ("「はー…。この体のいったいどこひねったら、そんなパ純ワー出てくんだうな」",
     ""),
     # "Huh... Where on earth will this body twist and be able to come out like that?"
 
-    ("「あはは、竅やだなー。そんなにジ鴻ロジ鴻ロ見迪られたら恥ずかしいよぉ」",
+    ("「あはは、やだなー。そんなにジ鴻ロジ鴻ロ見迪られたら恥ずかしいよぉ」",
     ""),
     # "Haha, I don't want you to. It would be embarrassing if you were to be so overwhelmed by the sinner."
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "ah"
 
-    ("オ激レはうなずいた。",
+    ("オレはうなずいた。",
     ""),
     # I nodded.
 
-    ("Ａ	途湯までいっし蛯ょに帰驪る。閨",
+    ("Ａ	途湯までいっしょに帰驪る。閨",
     ""),
     # A. We went back to the distance.Relax
 

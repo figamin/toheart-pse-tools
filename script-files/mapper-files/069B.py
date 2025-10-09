@@ -2,7 +2,7 @@
 # Source file: 069B.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｃ	またｉえるよな、と聞く）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｃ	またｉえるよな、と聞く）†",
     ""),
     # (Muryuruchi, Scales Event 2F LV4) (I heard that I can get it again)†
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "Eh, that's..."
 
-    ("マ泣ルチはち蛯ょっと困った顔をする。†",
+    ("マルチはちょっと困った顔をする。†",
     ""),
     # Ruchi looks confused.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("嘘がつけないマ泣ルチだから、すぐ顔に出髀る。",
+    ("嘘がつけないマルチだから、すぐ顔に出髀る。",
     ""),
     # She can't tell a lie, so she immediately peers on her face.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "I see..."
 
-    ("オ激レは笑迴顔で、ふぅと息を吐いた。",
+    ("オレは笑迴顔で、ふぅと息を吐いた。",
     ""),
     # My heart sighed with a laughing face.
 
-    ("「｢｢で烽も、もしかしたら…ってこと烽もあるだｂ？」",
+    ("「｢｢で烽も、もしかしたら…ってこと烽もあるだ？」",
     ""),
     # "'And maybe... so there's also some hot water b?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Because my first time coming out was such a coincidence, I'm sure I'll be able to start out again."
 
-    ("オ激レは、にっこり微笑んで言った。",
+    ("オレは、にっこり微笑んで言った。",
     ""),
     # I said with a smile.
 

@@ -10,15 +10,15 @@ text_array = [
     ""),
     # "Are you going to work part-time again?"
 
-    ("「あ、磨当たり〜」",
+    ("「あ、当たり〜」",
     ""),
     # "Ah, polished"
 
-    ("「蛛大変だなぁ。急ぐんだｂ？	悪いな、呼び止めちまって」",
+    ("「蛛大変だなぁ。急ぐんだ？	悪いな、呼び止めちまって」",
     ""),
     # "Daddy is tough. I'm in a hurry b? That's bad, stop me."
 
-    ("「あ、いいの。まだち蛯ょっと余裕あるから」†",
+    ("「あ、いいの。まだちょっと余裕あるから」†",
     ""),
     # "Ah, that's fine. I still have some time."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "What kind of part-time job?"
 
-    ("「今厓日はティッシャ配阡り。ほんとはお汲昼からの仕鮪事なんだけど、磨事諶情を話したら、冝放課繪後からにしてくれたの」",
+    ("「今厓日はティッシャ配阡り。ほんとはお汲昼からの仕鮪事なんだけど、事諶情を話したら、冝放課繪後からにしてくれたの」",
     ""),
     # "They're giving away the tuna on the day. They actually have to be done during lunchtime, but when I told them about the refined aspects, they gave me the opportunity to do it after the school was in charge."
 
-    ("「磨事諶情って？」†",
+    ("「事諶情って？」†",
     ""),
     # "What is polished relationship?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # It looks like it's hiding something.
 
-    ("まあ、增わざ墲わざつっこむこと烽もないが。†",
+    ("まあ、わざ墲わざつっこむこと烽もないが。†",
     ""),
     # Well, there's no need to worry about trying to do anything.†
 

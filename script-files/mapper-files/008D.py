@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "It's a chain reaction."
 
-    ("オ激レは嘯答えた。",
+    ("オレは嘯答えた。",
     ""),
     # I replied.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # Masashi, is that right?
 
-    ("ち蛯ょうど、そこを通闥りかかったｉ史に汲視諮を飛ばし、志保が聞いた。†",
+    ("ちょうど、そこを通闥りかかったｉ史に汲視諮を飛ばし、志保が聞いた。†",
     ""),
     # Shiho asked, "The I-Story," which had been sent through the discussion, and he asked.†
 
-    ("「竅問１の鰍穴ъ埋め竄問阮題？",
+    ("「問１の鰍穴ъ埋め問題？",
     ""),
     # "The question of filling up the crape hole in question 1?
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # The answer is "Additional reversal."
 
-    ("磨当然のように言う、♂史。",
+    ("当然のように言う、♂史。",
     ""),
     # Masumi says it as if it were natural.
 
-    ("竅やべっ、オ激レの嘯答え、間瘧違ってら。†",
+    ("やべっ、オレの嘯答え、間瘧違ってら。†",
     ""),
     # I'm not sure what a surprise answer is, my slutty answer is wrong.†
 
-    ("「アハハッ！	バッカでぇ〜。こんな竄問阮題熨も解けないくせに、なにがバッチ潟リなのよぉ？」",
+    ("「アハハッ！	バッカでぇ〜。こんな問題熨も解けないくせに、なにがバッチリなのよぉ？」",
     ""),
     # "Hahaha! That's badass. Even though I can't even unlock such a silly questioning question, what's the perfect time for me?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Kuuu..."
 
-    ("オ激レはｉ史をにらみつけた。",
+    ("オレはｉ史をにらみつけた。",
     ""),
     # I glared at I-Hisashi.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "What, did you say something bad?"
 
-    ("ち蛯ょっと繧後撃に退きながら、♂史が言った。†",
+    ("ちょっと繧後撃に退きながら、♂史が言った。†",
     ""),
     # Masumi said as she retreated to the attack after the attack.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # I was so annoying that I said the truth.
 
-    ("「竅や〜い、見栄っ張闥り〜！」",
+    ("「や〜い、見栄っ張闥り〜！」",
     ""),
     # "I'm so excited, I'm looking forward to seeing you!"
 

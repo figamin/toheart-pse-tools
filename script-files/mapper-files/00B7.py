@@ -14,7 +14,7 @@ text_array = [
     ""),
     # It's already morning.
 
-    ("昨厓日の地震寳騒ぎで、オ激レの貴重な№睡眠椁時間が１０分は損したからな。†",
+    ("昨厓日の地震寳騒ぎで、オレの貴重な№睡眠椁時間が１０分は損したからな。†",
     ""),
     # The earthquake riot caused last day, and I lost 10 minutes of my precious sleep time.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Yeah. I slept soundly" †
 
-    ("「オ激レはち蛯ょうど寝髏る前にグ宴ラッとｗてさ。地震譿情報見てたら、１０分熾も№睡眠椁時間を無駄にしちまった」",
+    ("「オレはちょうど寝髏る前にグラッとｗてさ。地震譿情報見てたら、１０分熾も№睡眠椁時間を無駄にしちまった」",
     ""),
     # "I wasted a banquet before I could sleep lol. I wasted 10 minutes of sleep, even though I was watching the earthquake information."
 

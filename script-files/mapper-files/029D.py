@@ -11,14 +11,14 @@ text_array = [
     # "Well, I'm looking forward to it next."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「ち痰ゃんと成功した竄やつ、″ってくれよ？」",
+    ("「ち痰ゃんと成功したやつ、″ってくれよ？」",
     ""),
     # "Please give me a tamper with a lot of success."”
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
@@ -38,12 +38,12 @@ text_array = [
     ""),
     # "?"†
 
-    ("「今厓日いっし蛯ょに帰汲うぜ？」",
+    ("「今厓日いっしょに帰汲うぜ？」",
     ""),
     # "I'll return to the slut now, right?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩はこくんとうなずいた。†",

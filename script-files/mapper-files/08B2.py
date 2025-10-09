@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "I want to help you..."
 
-    ("彼濫女はし蛯ょんぼりとつぶ竄やいた。",
+    ("彼濫女はしょんぼりとつぶやいた。",
     ""),
     # The overwhelmed woman muttered ecstasy.
 
-    ("オ激レのために何かをして竄やｂうって気搴持ちは嬉しいが…、",
+    ("オレのために何かをしてやうって気搴持ちは嬉しいが…、",
     ""),
     # I'm happy to be a bit excited about doing something to get my tempered...
 
-    ("「オ激レは翌女の子に、面倒を押し付けるようなマネはしたくないからな」",
+    ("「オレは翌女の子に、面倒を押し付けるようなマネはしたくないからな」",
     ""),
     # "I don't want to imitate the girl in a way that will put a lot of trouble on me."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("「だからな、戟レミィ。オ激レが『＝メイド鴻ロボ欲しいな』とか言い出したら『横薗は駄目麻』くらいは言ってくれよな」",
+    ("「だからな、戟レミィ。オレが『＝メイド鴻ロボ欲しいな』とか言い出したら『横薗は駄目麻』くらいは言ってくれよな」",
     ""),
     # "That's why, Karemi. If I start saying, 'I want Maid Korobo,' then I'd say 'Yokzono is no good'"
 
-    ("「、竅やさしいネ…」",
+    ("「、やさしいネ…」",
     ""),
     # "That's so easy..."
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # At that time, perhaps just by my imagination, I could see Hou Remi's eyes as if they were moist.†
 
-    ("「竅やさしいって艪ゆーか、だらだらした自分が魔許せないだけだって」",
+    ("「やさしいってゆーか、だらだらした自分が魔許せないだけだって」",
     ""),
     # "I guess you're so kind, I just can't forgive you for being a lazy person."
 
-    ("「…アタシ、ち蛯ょっとだけホッとしたｃ」",
+    ("「…アタシ、ちょっとだけホッとしたｃ」",
     ""),
     # "...I was relieved, just like that."
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # With that in mind, Remie laughed hahaha.
 
-    ("「お前なぁ…。オ激レに何を食岦わせるつ烽もりだったんだよ？」†",
+    ("「お前なぁ…。オレに何を食岦わせるつ烽もりだったんだよ？」†",
     ""),
     # "You... What were you doing to make me eat?"
 
-    ("「ダイジ㏍ョブ。命に別状はないと思うｃ」",
+    ("「ダイジョブ。命に別状はないと思うｃ」",
     ""),
     # "Digi-took. I don't think it's life-threatening."
 
-    ("笑っていないと冗談に聞こえないセ潟リフを彼濫女は言った。",
+    ("笑っていないと冗談に聞こえないセリフを彼濫女は言った。",
     ""),
     # The girl said the girl who couldn't make a joke if she didn't laugh.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # ...Is it life-related?†
 
-    ("それからｉ話燔も盛關り繧上がり、オ激レと撃レミィは駅の近くで別れ、それぞれの家に帰った。◯",
+    ("それからｉ話燔も盛關り繧上がり、オレと撃レミィは駅の近くで別れ、それぞれの家に帰った。◯",
     ""),
     # Then the i-changing storyline began to rise, and Meguri and Gekiremi parted ways near the station and returned to their respective homes.◯
 

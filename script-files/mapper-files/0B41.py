@@ -15,7 +15,7 @@ text_array = [
     # "There's no such thing as listening to what you say 100 times."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先關手を打たれてしまった。",

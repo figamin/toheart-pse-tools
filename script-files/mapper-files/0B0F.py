@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Lessons for the first time.
 
-    ("オ激レは、ぼん竄やりと汲窓の外を眺めながら、考えごとをしていた。†",
+    ("オレは、ぼんやりと汲窓の外を眺めながら、考えごとをしていた。†",
     ""),
     # I was thinking, slurping and looking out the window.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # @Suisui Aya∴Ka's face.
 
-    ("なぜだｂう。",
+    ("なぜだう。",
     ""),
     # Why is it b?
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "I've seen this very carefully the other day, so I'm not sure what phlegm is.
 
-    ("「今厓日は今厓日だｂ」†",
+    ("「今厓日は今厓日だ」†",
     ""),
     # "The current day is now the current day b"
 
-    ("「あははははっ、へんな竄やつ〜」",
+    ("「あははははっ、へんなやつ〜」",
     ""),
     # "Hahahaha, this is a strange tampering thing."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "=It's normal, it's not phlegm~"
 
-    ("「もしかして、オ激レ、お前にヒザまくらして烽もらってんのか？」",
+    ("「もしかして、オレ、お前にヒザまくらして烽もらってんのか？」",
     ""),
     # "Maybe I'm so excited, are you sleeping on me and getting hot?"
 
-    ("「ふふふっ。どう？	こういうの、なかなかいい烽もんでし蛯ょ？」",
+    ("「ふふふっ。どう？	こういうの、なかなかいい烽もんでしょ？」",
     ""),
     # "Hehehe. What do you think? This kind of thing is pretty good, slut?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "I see? Hehe, hi?"†
 
-    ("「けど、こんな程度でこの土闢手っ腹の一発がチャャ宴ラになると思ったら蛯大間瘧違いだぞ」",
+    ("「けど、こんな程度でこの土闢手っ腹の一発がチャャラになると思ったら大間瘧違いだぞ」",
     ""),
     # "But if you think that this earthy belly will be a cha banquet at this rate, it's a different story."
 
@@ -99,14 +99,14 @@ text_array = [
     # "Oh, Kibishi. How can I forgive the magician?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ん、なあに？」",
     ""),
     # "Hmm, what?"
 
-    ("「い竄や、まあ、いい。これで魔許しとこう」",
+    ("「いや、まあ、いい。これで魔許しとこう」",
     ""),
     # "Tampering, well, fine. Let's forgive the demons with this."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Hehe" †
 
-    ("なぜこうあいつがチ宴ラつくのか、自分で烽もよく墲わからない。",
+    ("なぜこうあいつがチラつくのか、自分で烽もよく墲わからない。",
     ""),
     # I don't really understand why he's having a feast like this, and I don't really understand why.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # Perhaps...
 
-    ("知迺らぬ間にあいつに宸惚鼾れちまった…なんてことはねーだｂうな。",
+    ("知迺らぬ間にあいつに宸惚鼾れちまった…なんてことはねーだうな。",
     ""),
     # It's hard to believe he fell in love with him while he didn't know...
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # Hmm.†
 
-    ("い竄や、まだ汲結論を出すのは≠早計だ。",
+    ("いや、まだ汲結論を出すのは≠早計だ。",
     ""),
     # It's too early to come to conclusions, even if it's still a bit of a pain.
 
-    ("ひとつ竄冷静に考えてみよう。†",
+    ("ひとつ冷静に考えてみよう。†",
     ""),
     # Let's think about it calmly.†
 
@@ -150,11 +150,11 @@ text_array = [
     ""),
     # Mr. O, who holds a large gift wrapping gift.
 
-    ("小さいこｂを海外で過ごした帰窓国子落女。",
+    ("小さいこを海外で過ごした帰窓国子落女。",
     ""),
     # A woman who fell in love with Kuniko Kakumado, who spent her little girl overseas.
 
-    ("以前、空闍手を竄やってたとか烽も言ってたな。†",
+    ("以前、空闍手をやってたとか烽も言ってたな。†",
     ""),
     # I've also said that he used to tamper with the Sky.†
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # His looks are as expected from a senior, so he is completely unmistakable.
 
-    ("＃人逅顔でスタイ泣ル焜も抜群。",
+    ("＃人逅顔でスタイル焜も抜群。",
     ""),
     # #The personal face makes him look amazing and has a stylish cry.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # His refreshing personality is also unpleasant.
 
-    ("金搴持ちのおｏって墲わりにはおｂ高くないし、海外迥育ちのはねっかえりなとこｂは、むしｂ好感が揩持てる。",
+    ("金搴持ちのおｏって墲わりにはお高くないし、海外迥育ちのはねっかえりなとこは、むし好感が揩持てる。",
     ""),
     # For a person with a gold medal, it's not expensive for a person with a good chance, and the place where he grew up overseas is highly likable.
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # When you think about it this way, there's no element that makes you dislike.
 
-    ("プ宴ラス要素しかない。†",
+    ("プラス要素しかない。†",
     ""),
     # There is only a banquet element.†
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # A: That's right, I fell in love with it.Relax
 
-    ("Ｂ	い竄や、んな墲わけねー。閨",
+    ("Ｂ	いや、んな墲わけねー。閨",
     ""),
     # B: It's not a problem, there's no way it can be.Relax
 

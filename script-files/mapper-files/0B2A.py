@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 3) (After the weir lost) (Aya∴Ka, right laughs) †
 
-    ("「という墲わけでセ潟リオ、結果は？」",
+    ("「という墲わけでセリオ、結果は？」",
     ""),
     # "So, what's the result, Seragata Rio?"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Yes, Aya∴Kaoru-sama's victory."
 
-    ("「竅やっりぃー！	３勝目！」",
+    ("「やっりぃー！	３勝目！」",
     ""),
     # "Ahhhh! My third win!"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Fuck.†
 
-    ("「それでは、恒瘢例、潤ワンポイント激レッスンのコーナー！」",
+    ("「それでは、恒瘢例、潤ワンポイントレッスンのコーナー！」",
     ""),
     # "Now, here's the corner for constant scarring, Jun's one-point, intense lessons!"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "…please"
 
-    ("「さて３回目の今厓日はディフェンスについて教える墲わ。今厓日のｍ寘戦は、ディフェンス重居視だったんでし蛯ょ？」",
+    ("「さて３回目の今厓日はディフェンスについて教える墲わ。今厓日のｍ寘戦は、ディフェンス重居視だったんでしょ？」",
     ""),
     # "Well, on the third day, I'll be teaching you about defense. In the M-day game on the day, I was looking at the defence as a serious defence player, right?"
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Defense isn't just a shunning.
 
-    ("增常に攻ｍ撃と一体になっているということを意識すること。",
+    ("常に攻ｍ撃と一体になっているということを意識すること。",
     ""),
     # Be aware that it is always one with attack and M-shot.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # First of all, that's the first one.†
 
-    ("そしてｋ体的なテクニック。",
+    ("そして駆体的なテクニック。",
     ""),
     # And k-physical techniques.
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # Browkking takes Kaji Concert's attack and M-shot.
 
-    ("梶相闡手の攻ｍ撃をそらす、パ潟リイング。",
+    ("梶相闡手の攻ｍ撃をそらす、パリイング。",
     ""),
     # Pagata Liing deflects Kaji Concert's attack and M-shot.
 
-    ("攻ｍ撃を避けるイ買ヴェイジ㏍ョン。",
+    ("攻ｍ撃を避けるイ買ヴェイジョン。",
     ""),
     # Ibuki Vage CC and dodge the attack and M-shot.
 
-    ("イ買ヴェイジ㏍ョンには、さらに何妺種類かのテクニックがある。†",
+    ("イ買ヴェイジョンには、さらに何妺種類かのテクニックがある。†",
     ""),
     # There are also techniques for how many types of yam.†
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # Stepping is avoided using your feet.
 
-    ("縺上体を振って攻ｍ撃を避ける、ス潟リッピング。",
+    ("縺上体を振って攻ｍ撃を避ける、スリッピング。",
     ""),
     # Sugata ripping, swinging his upper body to avoid attacking and attacking.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "There's no need to remember all nights at once.
 
-    ("基本的なディフェンス以外は、自分のスタイ泣ルにあ墲わせて福練習すればいいから」",
+    ("基本的なディフェンス以外は、自分のスタイルにあ墲わせて練習すればいいから」",
     ""),
     # Other than basic defense, you can just practice for your own style and cry."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Hmm? What's up?"
 
-    ("「い竄や、いま、ふと思ったんだけど」",
+    ("「いや、いま、ふと思ったんだけど」",
     ""),
     # "It's a bit of a mess, I just thought."
 
@@ -150,11 +150,11 @@ text_array = [
     ""),
     # "Where is?"
 
-    ("「なんていうか、最近、お前に勝縁負を挑みにｗてんのか、格闘技を教寀わりにきてんのか、增わかんなくなってきた」",
+    ("「なんていうか、最近、お前に勝縁負を挑みにｗてんのか、格闘技を教寀わりにきてんのか、わかんなくなってきた」",
     ""),
     # "What do you mean, recently I'm trying to challenge you to win a victory lol, or have you come to teach me about martial arts, I'm no longer sure enough."
 
-    ("「どっち烽もでし蛯ょ」",
+    ("「どっち烽もでしょ」",
     ""),
     # "Everyone's hot, I'll give it a slut."
 

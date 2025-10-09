@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho Likeability Type Scales Event PS)†
 
-    ("トイ激レから出たオ激レは、洗ったあとの手を振ってｐを切っていた。†",
+    ("トイレから出たオレは、洗ったあとの手を振ってｐを切っていた。†",
     ""),
     # I came out of Toy Gekire, and after washing, I waved my hand and cut off the p.†
 
-    ("すると、志保が竄やってきて、",
+    ("すると、志保がやってきて、",
     ""),
     # Then Shiho came to tamper with him,
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "You're a bit of free time on Saturday nights, right? You're right for me."
 
-    ("「竅やだね」†",
+    ("「やだね」†",
     ""),
     # "I don't want to go" †
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Uzono Nitto Foxo"
 
-    ("「はあ？	あの、コー堰ラ飲んで行く竄やつか？」†",
+    ("「はあ？	あの、コー堰ラ飲んで行くやつか？」†",
     ""),
     # "Huh? Um, is it a tampering with Kouyura?"
 
-    ("「惜しいけど痰違う墲わね。そんなんじ痰ゃなくて、も〜っとスケールが蛯大きい竄やつよ」",
+    ("「惜しいけど痰違う墲わね。そんなんじ痰ゃなくて、も〜っとスケールが大きいやつよ」",
     ""),
     # "It's a shame, but the phlegm is different. It's not that big of a phlegm, but it's a tampering thing with a huge scale."
 
@@ -58,19 +58,19 @@ text_array = [
     ""),
     # "Tour of the Saw Weir System!
 
-    ("水星とか火星とか、いｂ〜んな星ю巡闖り」",
+    ("水星とか火星とか、い〜んな星ю巡闖り」",
     ""),
     # Mercury and Mars, and many other stars.
 
-    ("志保は何竕やらオ激レに烽も聞き覚えのある単齟語を福口にする。†",
+    ("志保は何竕やらオレに烽も聞き覚えのある単語を口にする。†",
     ""),
     # Shiho utters a few simple words that even Koto has heard familiar to him.†
 
-    ("「ああ…、そーい竄やテ激レビでＣＭ竄やってるな」",
+    ("「ああ…、そーいやテレビでＣＭやってるな」",
     ""),
     # "Ah... you're tampering with the commercials with so much tampering and intense TV revival."
 
-    ("宇薗船に乗って、太陽系の名竃所をр巡髀るってアト宴ラクシ㏍ョンだったな。†",
+    ("宇薗船に乗って、太陽系の名竃所をр巡髀るってアトラクションだったな。†",
     ""),
     # It was easy to get on a Uzono ship and travel around famous solar system sites.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # So, I thought it would be nice to go with you and Hot."
 
-    ("「あかりと行ってくり痰ゃいいだｂ」†",
+    ("「あかりと行ってくり痰ゃいいだ」†",
     ""),
     # "I'd love to go with Akari and get some phlegm b"
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "The lights are Damme. Uzono Ship is a tough guy."
 
-    ("「あのなぁ、マジで宇薗に行く墲わけねえだｂ」",
+    ("「あのなぁ、マジで宇薗に行く墲わけねえだ」",
     ""),
     # "Um, seriously, there's no way I'll go to Uen b."
 
-    ("「まあ、それはジ㏍ョークだとしてぇ、これって土曜の夜からのオールナイトだから、出かけられないってさ」†",
+    ("「まあ、それはジョークだとしてぇ、これって土曜の夜からのオールナイトだから、出かけられないってさ」†",
     ""),
     # "Well, that's a Zikke, but this is an all-night event starting on Saturday night, so I can't go out."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Nooooo, too, 4-framed timer, right?"
 
-    ("休匤日の前咜日はオールナイトで特別長いのを竄やってるって、そうい竄やＣＭで烽も言ってたな。†",
+    ("休匤日の前咜日はオールナイトで特別長いのをやってるって、そういやＣＭで烽も言ってたな。†",
     ""),
     # On the day of the holiday, Maeke Day, they're all night and are tampering with a special long one, and they even said that in the commercials they're tampering with.†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Mood?"
 
-    ("「ほとんどがカップ泣ルで、人目をはばからずイチャャついてるんだって。ね、あたしたち烽もイチャャついち痰ゃう？」",
+    ("「ほとんどがカップルで、人目をはばからずイチャャついてるんだって。ね、あたしたち烽もイチャャついち痰ゃう？」",
     ""),
     # "Most of them are crying, and they're fond of people without anyone looking at them. I wonder if I'm also cheating on you too?"
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # "The Saturn ring and Hot Spring are also amazing."
 
-    ("「そっちの福方熾もすげえんだな？」",
+    ("「そっちの方熾もすげえんだな？」",
     ""),
     # "That Fukukata Teir is amazing, isn't it?"
 
-    ("「ハ潟リウッド最ｍ高のスタッフだって」",
+    ("「ハリウッド最ｍ高のスタッフだって」",
     ""),
     # "It's the staff at the highest level at Hagata Liwood."
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # ...Wait, I'm sure I had a date with Geki Remy on Sunday.
 
-    ("朝まで遊んでたら、その冾日のデートは確実にキャャンセ泣ルってことになる。†",
+    ("朝まで遊んでたら、その冾日のデートは確実にキャャンセルってことになる。†",
     ""),
     # If you play until morning, you'll definitely end up crying on your date.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # A: Should I go with phlegm?Relax
 
-    ("Ｂ	潤ワ潟リィけどパス。閨",
+    ("Ｂ	潤ワリィけどパス。閨",
     ""),
     # B Junwagata Li but passed.Relax
 

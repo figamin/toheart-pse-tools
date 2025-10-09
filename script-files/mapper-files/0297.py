@@ -2,11 +2,11 @@
 # Source file: 0297.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｂ	ヘンチク潟リンな人形について）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｂ	ヘンチクリンな人形について）†",
     ""),
     # (Seri°Kawa, Scales Event 2F LV3)Seri (Select Sou B, About Henchukkara Rin Doll)†
 
-    ("オ激レは机の繧上に置いてある、妙チク潟リンな人形についてたずねた。",
+    ("オレは机の繧上に置いてある、妙チクリンな人形についてたずねた。",
     ""),
     # I asked about the mysterious doll that was placed on the table.
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "It's the skin of Tou C Morokoshi," replied the senior.†
 
-    ("「へえ、トウｃモ鴻ロコシ人形か。はじめて見た。え？	これをふたりでつくると№仲良くなれると言甯われてる？	ホントか？	じ痰ゃあ、諱先輩。いまからいっし蛯ょにｍ高うか？」",
+    ("「へえ、トウｃモ鴻ロコシ人形か。はじめて見た。え？	これをふたりでつくると№仲良くなれると言甯われてる？	ホントか？	じ痰ゃあ、諱先輩。いまからいっしょにｍ高うか？」",
     ""),
     # "Whoa, is it a Tou C Mo Korokoshi doll? It's my first time seeing it. What? Are you saying that if you make this together, you can become friends? Is it true? Ah, senpai, I'm a no-no. Will you all raise your slut from now on?"
 
-    ("オ激レが言うと先輩は、こくんとうなずいた。†",
+    ("オレが言うと先輩は、こくんとうなずいた。†",
     ""),
     # When I said that, my senior nodded with Ko-kun.†
 
-    ("閨手芸はオ激レの特技で…ってのはウソだが、ふたりでこういうのをｍ骰るって、なんとなくほのぼのしてていいよな。",
+    ("閨手芸はオレの特技で…ってのはウソだが、ふたりでこういうのをｍ骰るって、なんとなくほのぼのしてていいよな。",
     ""),
     # It's a lie that crafts are my special skill, but it's fine for the two of them to squeal something like this for a while.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # I wonder why there's a hot spring in this club room.
 
-    ("それからポットでお窒湯を沸かし、轣皮をお窒湯に浸して竄や墲わらかくする。",
+    ("それからポットでお窒湯を沸かし、轣皮をお窒湯に浸してや墲わらかくする。",
     ""),
     # Then boil nitrogen in a pot and soak the skin in the nitrogen to make it tamper and soft.
 
-    ("なかなか下準備が蛯大変だな。†",
+    ("なかなか下準備が大変だな。†",
     ""),
     # Preparation is quite difficult.†
 
@@ -62,12 +62,12 @@ text_array = [
     ""),
     # However, it's been a while since I last saw Koji.
 
-    ("小学校のときに、プ宴ラｃモロって以来かな。†",
+    ("小学校のときに、プラｃモロって以来かな。†",
     ""),
     # I think it was since I went to Puban Ra C Moro when I was in elementary school.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	諱先輩のｍ骰るのを真乱似してくれって？」",
@@ -83,7 +83,7 @@ text_array = [
     # "Okay, understand."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("くるくる…。",
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # Oh, it's finished!
 
-    ("「できた。トウｃモ鴻ロコシ製オ激レ人形！」",
+    ("「できた。トウｃモ鴻ロコシ製オレ人形！」",
     ""),
     # "I did it. A super-sexy doll made by Tou C Mo Korokoshi!"
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # He haughtily showed the finished doll to his senior.†
 
-    ("磨当然、オ激レは先輩のを真乱似してｍったんだから、諱先輩のはオ激レ諠より烽も先に完成している。",
+    ("当然、オレは先輩のを真乱似してｍったんだから、諱先輩のはオレ諠より烽も先に完成している。",
     ""),
     # Massage Naturally, my geisha was a real-life look on my senior's face, so even if my geisha Senpai is finished, the hot one was completed before my geisha.
 
@@ -146,16 +146,16 @@ text_array = [
     ""),
     # Hmm...
 
-    ("竅やっぱり先輩のほうがｍ闕り慣れてるな。",
+    ("やっぱり先輩のほうがｍ闕り慣れてるな。",
     ""),
     # After all, seniors are more used to it.
 
-    ("オ激レのほうがち蛯ょっと雑な感じがする。†",
+    ("オレのほうがちょっと雑な感じがする。†",
     ""),
     # My super-sexy looks more sloppy.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	氈次は洗逅礼を行います？	洗逅礼って？」",
@@ -163,7 +163,7 @@ text_array = [
     # "Huh? Will you be holding a babe at Sachiko? What is Sachiko?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「呪文みたいな烽もの？	ふたりが№仲良くなるための呪文ってこと？」",
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # I can't help but think that when you stare straight at me and be told, it's really touching me.†
 
-    ("諱先輩は洗面嵂器にｐをｂ汲んできて、そのｐを出女た人形に振關りかけながら、なに竄やら呪文を唱えはじめた。",
+    ("諱先輩は洗面嵂器にｐを汲んできて、そのｐを出女た人形に振關りかけながら、なにやら呪文を唱えはじめた。",
     ""),
     # Senpai began to draw a P in the bathroom cabinet, and as he began to send a message to the female doll that left the P, he began to cast some kind of tampering and spells.
 
@@ -194,16 +194,16 @@ text_array = [
     ""),
     # yeah?
 
-    ("いま呪文の途湯で、なんだかオ激レの名前が呼ばれたような…。†",
+    ("いま呪文の途湯で、なんだかオレの名前が呼ばれたような…。†",
     ""),
     # It's just a spell-running run, and it seems like my name has been called...†
 
-    ("洗逅礼と竄やらが終尞わると、諱先輩は赤い鰍リボンを取闔り出して、ふたつのトウｃモ鴻ロコシ人形をき繧ゅっと宸縛った。",
+    ("洗逅礼とやらが終尞わると、諱先輩は赤い鰍リボンを取闔り出して、ふたつのトウｃモ鴻ロコシ人形をき繧ゅっと宸縛った。",
     ""),
     # Once the saniko and tampering were over, Senpai Konohana took out a red cricket ribbon and tied up two Tou C Mo Konorokoshi dolls.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	これで№仲良くなれんの？」",
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # Senpai nodded.†
 
-    ("赤い鰍リボンで強く汲結ばれたオ激レたちの人形。",
+    ("赤い鰍リボンで強く汲結ばれたオレたちの人形。",
     ""),
     # These dolls of our thrilled girls are strongly drawn together with red cricket ribbons.
 

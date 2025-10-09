@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Saturday, 15th March) (Second-handed weir radio) (Second-handed weir radio) (Second-handed 2nd day of the cypress final test) (In the event that you do not listen to the weir radio)
 
-    ("勉強に集薯できなくなるし、竅やめとこ。",
+    ("勉強に集薯できなくなるし、やめとこ。",
     ""),
     # I'm not able to gather in my studies, so I'm not going to stop.
 
-    ("集薯力を出したオ激レはすごいのだ。",
+    ("集薯力を出したオレはすごいのだ。",
     ""),
     # The way I produces the potting power is amazing.
 
-    ("…と、あかり竄やｉ史は言う。†",
+    ("…と、あかりやｉ史は言う。†",
     ""),
     # ... says Akari Tame and I-Hisashi.†
 

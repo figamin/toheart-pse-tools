@@ -10,15 +10,15 @@ text_array = [
     ""),
     # The fourth day of the grade and final exams.
 
-    ("今厓日の科目は、英皷語と現繻代社脂だ。",
+    ("今厓日の科目は、英皷語と現代社脂だ。",
     ""),
     # The subjects for this day's day are English-Japanese language and Gendaidaisha.
 
-    ("グ宴ラマーに続いて、また英皷語…。",
+    ("グラマーに続いて、また英皷語…。",
     ""),
     # Following the Gubanquet Lamar, there is another English language...
 
-    ("ああ〜っ、戟レミィがうら竄やましいぜ！†",
+    ("ああ〜っ、戟レミィがうらやましいぜ！†",
     ""),
     # Ahh, I'm so envious of you that Remy!†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # First, I'll talk about English.
 
-    ("諱取闔りあえず、スペ泣ルと和訳で点を稼ごう。",
+    ("諱取闔りあえず、スペルと和訳で点を稼ごう。",
     ""),
     # Don't get your name in the story, and earn points by translating it into Japanese.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I'm sure someone else had said before, "In Japan's English language education is different."
 
-    ("オ激レ焜も同感だ。",
+    ("オレ焜も同感だ。",
     ""),
     # I agree with my veteran.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # What do you think about testing your memory like this?
 
-    ("…などと、文蝠句ばかり言ってないで、竅問阮題を解こう。†",
+    ("…などと、文蝠句ばかり言ってないで、問題を解こう。†",
     ""),
     # ...Don't just say sentences like this, but let's solve the question question.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # The current day is ".
 
-    ("Ａ	バッチ潟リ。閨",
+    ("Ａ	バッチリ。閨",
     ""),
     # A: Batch latitude.Relax
 

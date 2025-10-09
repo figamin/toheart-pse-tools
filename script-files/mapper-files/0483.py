@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Amazing! How many points did you get?"
 
-    ("オ激レは素直に驚いた。",
+    ("オレは素直に驚いた。",
     ""),
     # My heart was honestly surprised.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Perfect Apocalypse"
 
-    ("「１００点か！？	グ宴ラマーの福方か？	英皷語の福方阨か？」†",
+    ("「１００点か！？	グラマーの方か？	英皷語の方阨か？」†",
     ""),
     # "100 points!? Is it a good for Gubanquet Lamar? Is it a good fortune in English??"†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # If you think about it that way, you can see how amazing Ekirei is.
 
-    ("「これからは、英皷語は撃レミィに教えて烽もらった福方がいいか烽もね」",
+    ("「これからは、英皷語は撃レミィに教えて烽もらった方がいいか烽もね」",
     ""),
     # "From now on, I'll be able to teach English-Japanese language to Gekiremi and get some good luck with the word "Yo""
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "And even hot..."
 
-    ("とか言ってると、う墲わさの張本人が竄やってきた。†",
+    ("とか言ってると、う墲わさの張本人がやってきた。†",
     ""),
     # As I said that, the person who was involved in the Umawasa started tampering with me.†
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "YES?"
 
-    ("「お前、英皷語とグ宴ラマー、１００点だってよ」",
+    ("「お前、英皷語とグラマー、１００点だってよ」",
     ""),
     # "You're English-Japanese and Gubanquet Lamar, 100 points."
 
-    ("「Ａ窒ｒｂ	凵ｙ盾ｏ浮ｕ	入ｂ窒ｒ奄ｉ盾ｏ浮ｕ唐入？	轣冗談でし蛯ょ？」",
+    ("「Ａ窒ｒ	凵ｙ盾ｏ浮ｕ	入窒ｒ奄ｉ盾ｏ浮ｕ入？	轣冗談でしょ？」",
     ""),
     # "A nitrogen shield o floats into the b nitrogen shield o floats into the b nitrogen shield o floats into the bang? Is it a joke, slut?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Why?"
 
-    ("「だってアタシ、增わからないスペ泣ルがあって、全泊部囎答えられなかったｃ」",
+    ("「だってアタシ、わからないスペルがあって、全泊部囎答えられなかったｃ」",
     ""),
     # "Because I had a slut that I didn't understand, and I couldn't answer all the staff members."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("それを聞いたオ激レは、疑惑の痰眼差しを志保へｌけた。†",
+    ("それを聞いたオレは、疑惑の痰眼差しを志保へｌけた。†",
     ""),
     # When I heard this, I gave Shiho a suspicious phlegm gaze.†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Yeah! Where did you ask me what?"
 
-    ("「失邇礼し竄やした〜っ」",
+    ("「失邇礼しやした〜っ」",
     ""),
     # "I've been so sorry."
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Is it 100 points?"
 
-    ("「增わりぃ。それはこっちの勘瘧違いだった」",
+    ("「わりぃ。それはこっちの勘瘧違いだった」",
     ""),
     # "She's not good. That was a different hunch."
 
-    ("「そーデスカ。アタシち蛯ょっと、♀んだｃ」",
+    ("「そーデスカ。アタシちょっと、♀んだｃ」",
     ""),
     # "Sodeska. I'm a female c."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "never mind,"
 
-    ("…ったく、戟レミィに謝んのは志保だｂうが。◯",
+    ("…ったく、戟レミィに謝んのは志保だうが。◯",
     ""),
     # ...It's Shiho who apologizes to Karen Remie.◯
 

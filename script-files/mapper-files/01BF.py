@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Where is that club?"
 
-    ("「そり痰ゃこっちのセ潟リフだｂ！」",
+    ("「そり痰ゃこっちのセリフだ！」",
     ""),
     # "This is a Selatta riff b!"
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "Ah, I'll be ready..."
 
-    ("苦笑しながらあかりがつぶ竄やく。†",
+    ("苦笑しながらあかりがつぶやく。†",
     ""),
     # Akari muttered with a wry smile.†
 
-    ("「それより志保、ち痰ゃんにケーキの話をしたら、いっし蛯ょに食べに行きたいって」",
+    ("「それより志保、ち痰ゃんにケーキの話をしたら、いっしょに食べに行きたいって」",
     ""),
     # "And then, Shiho, when I told Chisho-yan about cakes, he said he wanted to go and eat it."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Huh? You too?" †
 
-    ("「おい、こら、′解されるような言い福方すんじ痰ゃねー諱よ、お前が強引に誘ったんだｂ！？」",
+    ("「おい、こら、′解されるような言い方すんじ痰ゃねー諱よ、お前が強引に誘ったんだ！？」",
     ""),
     # "Hey, here you go, I'm saying it's understandable, and I have no phlegm, you forcibly invited me b!?"
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "Well, I'll say that too..."
 
-    ("「ニャアンスが全然ちがうんだよ！	なにか？	オ激レはケーキフ潟リークか？」†",
+    ("「ニャアンスが全然ちがうんだよ！	なにか？	オレはケーキフリークか？」†",
     ""),
     # "The nuances are completely different! What? Is it a cake lagoon leak?" †
 
-    ("「で烽も、甘いの凾嫌いじ痰ゃないでし蛯ょ？」",
+    ("「で烽も、甘いの凾嫌いじ痰ゃないでしょ？」",
     ""),
     # "And you don't hate sweets, don't you sputum?"
 
-    ("「そり痰ゃまーな。｢｢って、そんな竄問阮題じ痰ゃねーんだよ！」",
+    ("「そり痰ゃまーな。｢｢って、そんな問題じ痰ゃねーんだよ！」",
     ""),
     # "You're so phlegm. "Yes, that's the question of how you're tampering with me!"
 
@@ -107,7 +107,7 @@ text_array = [
     # "Ah!" †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「だいたい、お前は昔っからな｢｢」",
@@ -119,7 +119,7 @@ text_array = [
     # "Oh, sorry, sphin' ''
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「人の話を聞いてるような顔して聞いてねーときが｢｢」",
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "what happened?"
 
-    ("「いっけなーい、あたし、ち蛯ょっと急用思い出しち痰ゃった！」",
+    ("「いっけなーい、あたし、ちょっと急用思い出しち痰ゃった！」",
     ""),
     # "No way, I remember the urgent matter and it was a bit of a sputum!"
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "urgent business?"
 
-    ("「そうなのよ。だから悪いけどさ、さっきの約束は、ひとつ、キャャンセ泣ルってことで」†",
+    ("「そうなのよ。だから悪いけどさ、さっきの約束は、ひとつ、キャャンセルってことで」†",
     ""),
     # "That's right. So sorry, but the promise I just said was "One thing to do is cry"
 
@@ -158,15 +158,15 @@ text_array = [
     ""),
     # "I'm not a scheduled person, but I'm not too silly about forgetting, so it's a pain."
 
-    ("「いいかげんな竄やつだな…」",
+    ("「いいかげんなやつだな…」",
     ""),
     # "You're such a silly tampering..."
 
-    ("「ま、そういう墲わけで、今厓日のとこｂはその福口うるさいのにで烽もつき№合ってあげてよ」†",
+    ("「ま、そういう墲わけで、今厓日のとこはその口うるさいのにで烽もつき№合ってあげてよ」†",
     ""),
     # "Well, that's why, even though the lucky moment is noisy, please come and give me a stove."†
 
-    ("「禔口うるさい？	いったいどの福口で言ってんの竄やら」",
+    ("「禔口うるさい？	いったいどの口で言ってんのやら」",
     ""),
     # "Is it noisy? Which Fuku-mouth are you talking about?"
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "This word, this word! What do you want to see it closer?!"
 
-    ("「あ〜、增わかった、增わかった、うるせーな」†",
+    ("「あ〜、わかった、わかった、うるせーな」†",
     ""),
     # "Ah, I get it, I get it, I get it, I'm shut up" †
 
@@ -187,22 +187,22 @@ text_array = [
     # After saying that, Shiho left.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「とこｂで急用ってなんなんだ？」",
+    ("「とこで急用ってなんなんだ？」",
     ""),
     # "What is an urgent matter in place b?"
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「いつ烽も気になるだｂ？	志保の用ってのがどんな用なのか」",
+    ("「いつ烽も気になるだ？	志保の用ってのがどんな用なのか」",
     ""),
     # "When are you curious about hot water? What is Shiho's use?"
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "...Eh, and I wonder if that's not good, isn't it?" †
 
-    ("「行くのか、行かねーのか、はっきりしｂ。オ激レは行くぞ」",
+    ("「行くのか、行かねーのか、はっきりし。オレは行くぞ」",
     ""),
     # "It's clear whether you're going or not. I'm going."
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "It seems like there's no hot water in a hurry..."
 
-    ("「ち痰ゃん、もう竄やめようよ」",
+    ("「ち痰ゃん、もうやめようよ」",
     ""),
     # "No, let's stop tampering."
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "Shut up, this serious kid.
 
-    ("嫌ならお前だけ帰ってｂよ。じ痰ゃーな」",
+    ("嫌ならお前だけ帰ってよ。じ痰ゃーな」",
     ""),
     # If you don't like it, you're the only one who goes home.It's phlegm."
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Ah!" Å
 
-    ("「なんだ、あいつ、ぶらぶらし竄やがって」",
+    ("「なんだ、あいつ、ぶらぶらしやがって」",
     ""),
     # "What, he's strolling around."
 
@@ -271,7 +271,7 @@ text_array = [
     # "Yeah"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -295,14 +295,14 @@ text_array = [
     # "I'm taking a stuffed animal"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「はっ、下濶手くそめ、氏落っことし竄やがって」",
+    ("「はっ、下濶手くそめ、氏落っことしやがって」",
     ""),
     # "Ha, you're so damn damn it, you're going to stomp yourselves."
 
@@ -310,11 +310,11 @@ text_array = [
     ""),
     # "I'm bashing something like that... I'm going to get mad" †
 
-    ("「もう一回チャャ激レンジする気だな。ムダムダ。",
+    ("「もう一回チャャレンジする気だな。ムダムダ。",
     ""),
     # "I'm going to do a tough trembling again. Mudamda.
 
-    ("取齊れない艪台は何回竕やって烽も取齊れねーって」",
+    ("取齊れない台は何回竕やって烽も取齊れねーって」",
     ""),
     # I've heard that the trains that can't be collected and that they can't even collect the pot."
 
@@ -322,11 +322,11 @@ text_array = [
     ""),
     # "Then Shiho also got Shiho, and surprisingly, I'm slowly taking that kind of thing and phlegm."
 
-    ("「あんな集薯力のカケ宴ラ焜もない竄やつがか？」",
+    ("「あんな集薯力のカケラ焜もないやつがか？」",
     ""),
     # "Is there a guy who can't even tamper with such a collection of potato power?"
 
-    ("「ホ宴ラ、見て、諱取齊れた！」",
+    ("「ホラ、見て、諱取齊れた！」",
     ""),
     # "Hey, I saw it, I got my name in the house!"
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "Ah, I'll join in £."
 
-    ("「諱よーし、オ激レたち烽も入唐うぜ」",
+    ("「諱よーし、オレたち烽も入うぜ」",
     ""),
     # "All right, we're going to have hot springs in the Chinese."
 
@@ -346,11 +346,11 @@ text_array = [
     ""),
     # "What?"
 
-    ("「えっじ痰ゃねー諱よ、これからが本番だｂーが。",
+    ("「えっじ痰ゃねー諱よ、これからが本番だーが。",
     ""),
     # "What, I have to sputum, my name is, now is the real thing b.
 
-    ("中で彼＃氏かなんかと待ち№合寘わせしてんのか烽もしれねーだｂ」†",
+    ("中で彼＃氏かなんかと待ち№合寘わせしてんのか烽もしれねーだ」†",
     ""),
     # I wonder if he's making a wait number of people with his boyfriend # or something inside, it's probably a hot one b"
 
@@ -358,16 +358,16 @@ text_array = [
     ""),
     # "If that's the case, I'll give you a better impression..."
 
-    ("「好きにしｂ。オ激レは行く」",
+    ("「好きにし。オレは行く」",
     ""),
     # "I love you b. I'm going."
 
-    ("「あっ、ち蛯ょ、ち蛯ょっと…」†",
+    ("「あっ、ちょ、ちょっと…」†",
     ""),
     # "Ah, yeah, yeah, yeah..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ねえ、ち痰ゃん」",
@@ -378,15 +378,15 @@ text_array = [
     ""),
     # "Where did he go?"
 
-    ("「竅やっぱり悪いよ、こんなの…」",
+    ("「やっぱり悪いよ、こんなの…」",
     ""),
     # "It's really bad after all, this is..."
 
-    ("「べつに犯罪竝やってる墲わけじ痰ゃねーだｂ」",
+    ("「べつに犯罪竝やってる墲わけじ痰ゃねーだ」",
     ""),
     # "There's no need to deal with the crimes that you're doing.
 
-    ("「プ宴ライバシーの侵害だよ」",
+    ("「プライバシーの侵害だよ」",
     ""),
     # "It's an invasion of Penallivacy."
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "Dragon Guys are strong. He doesn't have the qualifications to say that."
 
-    ("「ち蛯ょっとぉ、それどういう意味？」",
+    ("「ちょっとぉ、それどういう意味？」",
     ""),
     # "Ahhhh, what does that mean?"
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # "Shiho"
 
-    ("「なに竄やってんのよ、あんたたち？	ケーキ食べに行ったんじ痰ゃないの？」",
+    ("「なにやってんのよ、あんたたち？	ケーキ食べに行ったんじ痰ゃないの？」",
     ""),
     # "What are you guys doing? You guys? You went to eat cake, don't you have any phlegm?"
 
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # Shiho said with a shocked look on his face.†
 
-    ("「そり痰ゃこっちのセ潟リフだぜ。お前こそ急用なんじ痰ゃなかったのか？」",
+    ("「そり痰ゃこっちのセリフだぜ。お前こそ急用なんじ痰ゃなかったのか？」",
     ""),
     # "This is the Serata riff. You were the one who had urgently needed something, so you didn't have phlegm?"
 
@@ -442,7 +442,7 @@ text_array = [
     ""),
     # Perhaps this guy.
 
-    ("急用なんてのはただの嘘っぱちで、じつはオ激レたちに気をつかったつ烽もりなんじ痰ゃ。",
+    ("急用なんてのはただの嘘っぱちで、じつはオレたちに気をつかったつ烽もりなんじ痰ゃ。",
     ""),
     # The urgent matter is just a lie, and in fact, it's a matter of care about us and the others.
 
@@ -450,7 +450,7 @@ text_array = [
     ""),
     # Hmm, I see.
 
-    ("ったく、くだんねーことし竄やがって。†",
+    ("ったく、くだんねーことしやがって。†",
     ""),
     # It's a shame, I'm going to do something like that.†
 
@@ -475,10 +475,10 @@ text_array = [
     # "Then let's go? Let's eat the cake."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「﨟情報通の長岡謇先生イチオシなんだｂ？」†",
+    ("「﨟情報通の長岡謇先生イチオシなんだ？」†",
     ""),
     # "What is your favorite professor Nagaoka Tsuyoshi, who is well-versed in information?"
 
@@ -486,7 +486,7 @@ text_array = [
     ""),
     # "Yes, it's absolutely delicious!"
 
-    ("「ここはひとつ、お前の繧舌を獅試して竄やるよ。",
+    ("「ここはひとつ、お前の繧舌を獅試してやるよ。",
     ""),
     # "I'll try one thing here and try your tongue and tamper with it.
 
@@ -498,11 +498,11 @@ text_array = [
     ""),
     # "Ah, and that taste, and people with a silly taste don't know, or even hot."
 
-    ("「さあ、どーだｂーなァ」†",
+    ("「さあ、どーだーなァ」†",
     ""),
     # "Now, what's that b?"
 
-    ("「まっ、いい墲わ。とこｂで、今回はあんたがあたしを無摶理に誘ったんだから、磨当然そっちのおごりよ？」",
+    ("「まっ、いい墲わ。とこで、今回はあんたがあたしを無摶理に誘ったんだから、当然そっちのおごりよ？」",
     ""),
     # "Well, that's good. And this time, you invited me to do nothing, so of course Masu is your treat?"
 
@@ -514,11 +514,11 @@ text_array = [
     ""),
     # "I'm so grateful, Shiho's gift, I'm a treat for you."
 
-    ("「オ激レはあかりのおごりだぞ」†",
+    ("「オレはあかりのおごりだぞ」†",
     ""),
     # "I'm a godsman" †
 
-    ("「せっかくおごりだから、いっちばんｂ高いの食べようかしらねぇ」",
+    ("「せっかくおごりだから、いっちばん高いの食べようかしらねぇ」",
     ""),
     # "I'm going to have a good treat, so I'm not sure I'll eat the best B expensive one."
 
@@ -526,11 +526,11 @@ text_array = [
     ""),
     # "I'm sputum, I'm smoking too."
 
-    ("「じ痰ゃあ、オ激レはそれをふたつ食うぞ」†",
+    ("「じ痰ゃあ、オレはそれをふたつ食うぞ」†",
     ""),
     # "You're going to eat two of them, I'll eat them."
 
-    ("「それに、いっちばんｂ高いド潟リンク焜もプ宴ラスして｢｢」",
+    ("「それに、いっちばん高いドリンク焜もプラスして｢｢」",
     ""),
     # "And also, the best b-high Dogata Links also took a banquet and said, "
 
@@ -538,23 +538,23 @@ text_array = [
     ""),
     # "I'm sputum, I smoke too."
 
-    ("「諱よーし、そんじ痰ゃオ激レは、それにく墲わえてさらにだな｢｢」†",
+    ("「諱よーし、そんじ痰ゃオレは、それにく墲わえてさらにだな｢｢」†",
     ""),
     # "Okay, I'm going to get a real phlegm, but I'm going to get even more than that. ""†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
     ""),
     # "..."†
 
-    ("「…竅やっぱ、今詩月は苦しいし、自分のぶんは自分で払うことにしない？」",
+    ("「…やっぱ、今詩月は苦しいし、自分のぶんは自分で払うことにしない？」",
     ""),
     # "... After all, Shizuki is suffering right now, so don't you decide to pay for your own sake?"
 
@@ -574,7 +574,7 @@ text_array = [
     ""),
     # The taste is ".
 
-    ("とりあえず志保には、まあまあとち蛯ょっとにごして嘯答えておいたが、さすがにあかりには気に入ったことがばれてしまった。",
+    ("とりあえず志保には、まあまあとちょっとにごして嘯答えておいたが、さすがにあかりには気に入ったことがばれてしまった。",
     ""),
     # For now, I answered Shiho with a simple answer, but Akari found out that she liked it.
 

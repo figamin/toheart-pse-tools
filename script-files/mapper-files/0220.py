@@ -7,18 +7,18 @@ text_array = [
     # (Chinzhou ending)Chin (5th 2nd day of the year)Chin (placed in the second floor corridor in the Tongyu Chang MAP)Chin (It's essentially augmenting the number of scales once)Chin (Looking at everything up to 7 likeability)†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("教室から出髀るなりの廊下で、＠栖瑞謳先輩にｉった。",
     ""),
     # In the hallway just as I left the classroom, I came across @Sumi-Senpai-senpai.
 
-    ("「いよう、諱先輩。なに竄やってんの？	えっ、オ激レに用？」†",
+    ("「いよう、諱先輩。なにやってんの？	えっ、オレに用？」†",
     ""),
     # "Stay, Senpai. What are you doing to tamper with? What, is it for me?" †
 
-    ("どう竄やらまた教室の前で、オ激レが出てくるまでずっと待ってたらしい。",
+    ("どうやらまた教室の前で、オレが出てくるまでずっと待ってたらしい。",
     ""),
     # Apparently he kept waiting in front of the classroom again until my throbbing came out.
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # "And what do you want?"
 
-    ("オ激レが聞くと、",
+    ("オレが聞くと、",
     ""),
     # When I heard
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩はうつむいて、なに竄やら恥ずかしそうに言った。†",
+    ("諱先輩はうつむいて、なにやら恥ずかしそうに言った。†",
     ""),
     # Senpai looked down and said with embarrassment, something he had done.†
 
@@ -67,10 +67,10 @@ text_array = [
     # When I asked with a smile on my face,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩はち蛯ょっと悲しい顔をした。",
+    ("諱先輩はちょっと悲しい顔をした。",
     ""),
     # Senpai made a sad look on his face.
 
@@ -79,10 +79,10 @@ text_array = [
     # What?†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え、なに？	この前、廊下でオ激レがｍってくれって言ったって？	ホ激レ薬！？」",
+    ("「え、なに？	この前、廊下でオレがｍってくれって言ったって？	ホレ薬！？」",
     ""),
     # "What, what? The other day, I told you in the hallway that I'd be a slut? Hey, a slutty medicine?!"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Did you say that?
 
-    ("い竄や、まてよ。",
+    ("いや、まてよ。",
     ""),
     # Tamper, wait.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Ah, that's right.
 
-    ("やっぱｂ魔法の薬ってんなら、ア激レがいい竄や。そう、ホ激レ薬！」",
+    ("やっぱ魔法の薬ってんなら、アレがいいや。そう、ホレ薬！」",
     ""),
     # After all, if it's a b-magic potion, it's a good idea to get it super tough.Yes, hey, hey!”
 
@@ -110,23 +110,23 @@ text_array = [
     ""),
     # "..."†
 
-    ("「えっ？	それをどう使うかって？	へへ、′まってんだｂ？	目の前の先輩に飲ませるんだよ。そんで、オ激レのこと、好きになって烽もらうんだ」",
+    ("「えっ？	それをどう使うかって？	へへ、′まってんだ？	目の前の先輩に飲ませるんだよ。そんで、オレのこと、好きになって烽もらうんだ」",
     ""),
     # "Huh? How do you use that? Hehe, are you so excited? B? I'll let the senior in front of me drink it. And then I'll like you and get some hot pot."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("へへへっ、照齒れてうつむいてしまった。",
     ""),
     # Hehehe, I lit up and turned my eyes down.
 
-    ("ち蛯ょっとした冗談なのに。†",
+    ("ちょっとした冗談なのに。†",
     ""),
     # It's a bit of a joke.†
 
-    ("「というのは、まあ、轣冗談として…って、ええっ！？	諱頑張ってｍってみますって！？	ホ激レ薬を！？	マ、マジかよ！？」",
+    ("「というのは、まあ、轣冗談として…って、ええっ！？	諱頑張ってｍってみますって！？	ホレ薬を！？	マ、マジかよ！？」",
     ""),
     # "Well, as a joke... What?! I'm going to do my best and try it out!? A super-sexual medicine!? Ma, are you serious?!"
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # Try the effect...†
 
-    ("それってつまり、その薬を飲んで、オ激レを好きになるかどうかを獅試すってことだよな。",
+    ("それってつまり、その薬を飲んで、オレを好きになるかどうかを獅試すってことだよな。",
     ""),
     # That means taking the medicine and trying to see if you'll fall in love with me.
 
-    ("で烽もよく考えれば、その薬を飲むってこと自体が、すでに好意的な証衷拠だから、どっちに転んだとこｂで…。†",
+    ("で烽もよく考えれば、その薬を飲むってこと自体が、すでに好意的な証衷拠だから、どっちに転んだとこで…。†",
     ""),
     # So, if you think about it, taking the medicine itself is already a positive proof, so it's just the way it went...†
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # Hey hey, are you serious?
 
-    ("自然と顔がに竄やついてしまう。",
+    ("自然と顔がにやついてしまう。",
     ""),
     # My face naturally becomes tampered with and lingering.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # This means that you can get the answer by going to the club room or not.†
 
-    ("オ激レは、そんな先輩の気搴持ちに｢｢。",
+    ("オレは、そんな先輩の気搴持ちに｢｢。",
     ""),
     # I was like, ".
 

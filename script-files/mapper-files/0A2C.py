@@ -2,11 +2,11 @@
 # Source file: 0A2C.txt
 
 text_array = [
-    ("（Ａ	いっし蛯ょに行くか。）†",
+    ("（Ａ	いっしょに行くか。）†",
     ""),
     # (A: Shall we go to Isshishi?)†
 
-    ("「せっかくだし、いっし蛯ょに食おうか？」",
+    ("「せっかくだし、いっしょに食おうか？」",
     ""),
     # "Since we're going to have it, shall we eat it together?"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Huh? Ah, yes!"
 
-    ("掾理女緒ち痰ゃんは蛯大きくうなずいた。†",
+    ("掾理女緒ち痰ゃんは大きくうなずいた。†",
     ""),
     # The woman nodded loudly.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # And the sunlight is also very good.†
 
-    ("「今厓日はち蛯ょっと翌風がきついぜ。",
+    ("「今厓日はちょっと翌風がきついぜ。",
     ""),
     # "The next day is really strong.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Aaaah!
 
-    ("飛んでいた数羽のカ宴ラスが寄ってきたかと思うと、",
+    ("飛んでいた数羽のカラスが寄ってきたかと思うと、",
     ""),
     # Just as I thought the several flying birds had come over,
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Uh, uh, what's that?! Here it is!! Slurp, slurp!!"
 
-    ("どうにかカ宴ラスを追い払う。†",
+    ("どうにかカラスを追い払う。†",
     ""),
     # Somehow, they chase away Kabanrasu.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Are you getting injured? But what's with that?"
 
-    ("「增わかんない。…п私って、ときどきカ宴ラスに襲尞われるから」",
+    ("「わかんない。…п私って、ときどきカラスに襲尞われるから」",
     ""),
     # "I don't know... because sometimes I get attacked by the banquet."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Is it true that the day is the first time I've ever seen, so I guess there's no way I can do it.†
 
-    ("「で烽も、なんでまた？	＝普段カ宴ラスをいじめたりしてんの？」",
+    ("「で烽も、なんでまた？	＝普段カラスをいじめたりしてんの？」",
     ""),
     # "So, why did you say it again? =Do you usually bully Kaenrasu?"
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # "Hmm"
 
-    ("ときどきそういう人間がいるらしいけど、テ激レビはと烽もかく、目の前にいるとはな。†",
+    ("ときどきそういう人間がいるらしいけど、テレビはと烽もかく、目の前にいるとはな。†",
     ""),
     # Apparently there are people like that at times, but there are also some intense TV dramas, so I can't believe they're right in front of me.†
 
-    ("「きっとｂモテてんじ痰ゃない？」",
+    ("「きっとモテてんじ痰ゃない？」",
     ""),
     # "I'm sure there's no phlegm to be popular with B?"
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「カ宴ラスに」",
+    ("「カラスに」",
     ""),
     # "At the end of the feast."
 
-    ("オ激レたちの揩持っている食べ物じ痰ゃなくて、明逍らかに揩理女緒ち痰ゃんに群がってたし。",
+    ("オレたちの揩持っている食べ物じ痰ゃなくて、明逍らかに揩理女緒ち痰ゃんに群がってたし。",
     ""),
     # The food we had was not phlegm, but they flocked to the phlegmy spurts.
 
@@ -146,23 +146,23 @@ text_array = [
     ""),
     # However, when I said either way, it seemed like he had a rare phlegm.†
 
-    ("「い竄やだなぁ…」",
+    ("「いやだなぁ…」",
     ""),
     # "I don't want to mess up..."
 
-    ("「そんなに凾嫌ったらカ宴ラスがか墲わいそうだぜ」",
+    ("「そんなに凾嫌ったらカラスがか墲わいそうだぜ」",
     ""),
     # "If you don't like it that much, it looks like Kabanrasu is a shame."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("掾理女緒ち痰ゃんは空を警卲戒している。†",
     ""),
     # The man is wary of the sky.†
 
-    ("「カ宴ラスがｗて烽もまた追っ払って竄やるから、ほら、＝早く≠メシ食おーぜ」",
+    ("「カラスがｗて烽もまた追っ払ってやるから、ほら、＝早く≠メシ食おーぜ」",
     ""),
     # "The banquet is lol and I'll chase you off the chicken again and tamper with it, so come on, = hurry up ≠ have some food."
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("そしてオ激レたちは、浴風の魔当たらない場鰹所にｍ會高~高した。◯",
+    ("そしてオレたちは、浴風の魔当たらない場鰹所にｍ會高~高した。◯",
     ""),
     # And we were excited to see a bonito spot that didn't show any signs of the bathing style.◯
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # The girl looks at her as if she's worried about her.†
 
-    ("「どうかした？	オ激レの汲昼£メシ？」",
+    ("「どうかした？	オレの汲昼£メシ？」",
     ""),
     # "What's up? Is it a meal for lunch?"
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("「今厓日はち蛯ょっと出遅齟れちまったからこんな≠メニャーだけど、いつ烽もは烽もうち蛯ょっと汲豪勢なんだぜ」",
+    ("「今厓日はちょっと出遅れちまったからこんな≠メニャーだけど、いつ烽もは烽もうちょっと汲豪勢なんだぜ」",
     ""),
     # "I've been slow to come out late right now, so this is a bit different, but whenever I'm in the vogue and the vogue are all the rage."
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "Ah, why don't you have a hot pot!"
 
-    ("「とこｂで、掾理女緒ち痰ゃんこそ、どんな汲昼£メシなんだ？」",
+    ("「とこで、掾理女緒ち痰ゃんこそ、どんな汲昼£メシなんだ？」",
     ""),
     # "At the moment, what kind of lunchtime food is that?
 
@@ -254,11 +254,11 @@ text_array = [
     ""),
     # "Yeah~?"†
 
-    ("困骰る揩理女緒ち痰ゃんをなだめつつ、オ激レは弁抹当をのぞき見た。",
+    ("困骰る揩理女緒ち痰ゃんをなだめつつ、オレは弁抹当をのぞき見た。",
     ""),
     # As I soothe my troubled smugness, I peeked at the gaping edge.
 
-    ("弁抹当箱自体は、体の小さな揩理女緒ち痰ゃんにはおよそ翌似つか墲わしくない、ア泣ルミ製のごついタイプだった。",
+    ("弁抹当箱自体は、体の小さな揩理女緒ち痰ゃんにはおよそ翌似つか墲わしくない、アルミ製のごついタイプだった。",
     ""),
     # The bento box itself was a type made by Aryu-Rumi, which was not similar to the small body's short-lived woman, and was not suitable for the next day.
 
@@ -274,11 +274,11 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("真っ窒白なごはんの横には、ちく墲わ竄やらコンニャャク窿やらを通した串がならんでいた。†",
+    ("真っ窒白なごはんの横には、ちく墲わやらコンニャャク窿やらを通した串がならんでいた。†",
     ""),
     # Next to the purely nitrogenous rice was a skewer lined with skewers made from slurping and konnyaku kan.†
 
-    ("「ひ蛯ょっとして、增わざ墲わざ朝にｍった？」",
+    ("「ひょっとして、わざ墲わざ朝にｍった？」",
     ""),
     # "An unexpectedly, did you make a move in the morning?"
 
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # "Isn't it really good? It looks delicious.
 
-    ("理女緒ち痰ゃんがｍったんだｂ？」",
+    ("理女緒ち痰ゃんがｍったんだ？」",
     ""),
     # Is Rimo Ochi Sputuman a m?”
 
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「いー諱よな、そういうのって。オ激レ、パンが多いから、そういった家薗の味みたいなのがうら竄やましいぜ」",
+    ("「いー諱よな、そういうのって。オレ、パンが多いから、そういった家薗の味みたいなのがうらやましいぜ」",
     ""),
     # "Yes, that's the kind of thing. I have so much bread, so I'm jealous of that kind of taste like Iezono."
 
@@ -338,15 +338,15 @@ text_array = [
     ""),
     # And then, turn a little,
 
-    ("「こんなお弁抹当で烽も、竅やっぱり、くんに食べて烽もらえるんだったら｢｢」",
+    ("「こんなお弁抹当で烽も、やっぱり、くんに食べて烽もらえるんだったら｢｢」",
     ""),
     # "If you could eat this bento, then you'd say """
 
-    ("そう言ってオ激レに弁抹当箱を差し出した。†",
+    ("そう言ってオレに弁抹当箱を差し出した。†",
     ""),
     # With that said, I handed out a box of bento boxes to me.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

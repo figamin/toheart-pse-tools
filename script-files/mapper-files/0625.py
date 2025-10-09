@@ -2,31 +2,31 @@
 # Source file: 0625.txt
 
 text_array = [
-    ("（マ泣ルチ	エンディング）閨（Ａ	マ泣ルチを優譌先させる）†",
+    ("（マルチ	エンディング）閨（Ａ	マルチを優譌先させる）†",
     ""),
     # (May Luch Ending) (Mush Ruchi makes A May Luch ahead)†
 
-    ("戟レミィには悪いけど、今厓日はマ泣ルチのほうを優譌先させよう。",
+    ("戟レミィには悪いけど、今厓日はマルチのほうを優譌先させよう。",
     ""),
     # It's bad for Remi, but I'll give you the best part of the day.
 
-    ("戟レミィにはいつで烽もｉえるけど、マ泣ルチとｉえるなんてめったにないことだからな。†",
+    ("戟レミィにはいつで烽もｉえるけど、マルチとｉえるなんてめったにないことだからな。†",
     ""),
     # There's always a chance that you can get a hot spring when you want to, but it's rare for you to get a hot spring with a hot spring.†
 
-    ("「い竄や、今厓日はなんの予阯定熬もないぜ」",
+    ("「いや、今厓日はなんの予定熬もないぜ」",
     ""),
     # "No, there's no reason to stop it now."
 
-    ("オ激レはきっぱりそう言った。",
+    ("オレはきっぱりそう言った。",
     ""),
     # I said firmly.
 
-    ("へたに本末当のことを言うと、マ泣ルチのрヤツはきっと気をつかうだｂうからな。",
+    ("へたに本末当のことを言うと、マルチのрヤツはきっと気をつかうだうからな。",
     ""),
     # If you talk about the truth, the guy who is crying will surely take care of him.
 
-    ("ここはうそ烽も福方便だ。",
+    ("ここはうそ烽も方便だ。",
     ""),
     # Even the lie is a good fortune here.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Sorry, Karemi.†
 
-    ("「だから唐遠慮しねーでｗな」",
+    ("「だから遠慮しねーでｗな」",
     ""),
     # "That's why I'm not shy about it lol."
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Ah, thank you very much.
 
-    ("わたし烽もできる限闌り急いでそちらへｌかいます。ほんの３０分ほどで桙到湯すると思いますから！」",
+    ("わたし烽もできる限り急いでそちらへｌかいます。ほんの３０分ほどで桙到湯すると思いますから！」",
     ""),
     # I will hurry up and come over there as much as possible.I think you'll be able to reach Kawawa in just 30 minutes!”
 
-    ("「とこｂでさ、お前、オ激レんちの場鰹所…」",
+    ("「とこでさ、お前、オレんちの場鰹所…」",
     ""),
     # "At the moment, you're a bonito spot in my super-sized house..."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # That guy is pretty irrelevant.
 
-    ("ち蛯ょっと心配だぜ。†",
+    ("ちょっと心配だぜ。†",
     ""),
     # I'm worried about this.†
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # It would be a shame if I had started preparing it.
 
-    ("オ激レは撃レミィの家へ電話した。†",
+    ("オレは撃レミィの家へ電話した。†",
     ""),
     # I called Ekire Remy's house.†
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # It's a phlegm.
 
-    ("「Ｈｂ撃ｌ撃ｌ盾ｏ？」",
+    ("「Ｈ撃ｌ撃ｌ盾ｏ？」",
     ""),
     # "Hb Shot l Shot l Shield O?"
 
-    ("受話嶸器のｌこうから聞こえてきたのは、磨当然のごとく英皷語。†",
+    ("受話嶸器のｌこうから聞こえてきたのは、当然のごとく英皷語。†",
     ""),
     # What I heard from the receiver's l-ko was naturally in English-Japanese language.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # I wonder if it got through?
 
-    ("「Ｏｂ！	？」",
+    ("「Ｏ！	？」",
     ""),
     # "Ob!?"
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "Is it a gay remi?"
 
-    ("「Ｙｂ唐入、そうダャ？」†",
+    ("「Ｙ入、そうダャ？」†",
     ""),
     # "Yb Tangli, is that so?"†
 
-    ("梶相闡手が撃レミィで、ほっと一安心した烽ものの、これからデートを断迺らなき痰ゃならないことを思い出し、ち蛯ょっと気が重くなった。†",
+    ("梶相闡手が撃レミィで、ほっと一安心した烽ものの、これからデートを断迺らなき痰ゃならないことを思い出し、ちょっと気が重くなった。†",
     ""),
     # Kajisante was relieved when he was Ekirei, and although Ho was relieved, he remembered that he had to turn down a date, and he felt a little tired.†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Looking forward!"
 
-    ("「あ、い竄や、それが…」",
+    ("「あ、いや、それが…」",
     ""),
     # "Ah, that's the thing..."
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # "I'm sorry, but I ended up getting an urgent matter and can't go."
 
-    ("「Ｗｂ≠ａｔ’入	ｔｂ≠ａｔ！？	、なにかあったの！？」†",
+    ("「Ｗ≠ａｔ’入	ｔ≠ａｔ！？	、なにかあったの！？」†",
     ""),
     # "Wb≠at' enter tb≠at!?, has something happened!?"
 
-    ("「い竄や、べつになにって墲わけじ痰ゃないけど、オ激レ的にち蛯ょっと外せない用沫事でな…」",
+    ("「いや、べつになにって墲わけじ痰ゃないけど、オレ的にちょっと外せない用沫事でな…」",
     ""),
     # "I don't want to waste anything, but I can't take it off, but it's a splash that I can't take away from."
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Yeah!"
 
-    ("「增わりいな」",
+    ("「わりいな」",
     ""),
     # "It's a bit silly."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # It's a phlegm.
 
-    ("オ激レは受話嶸器を置いた。†",
+    ("オレは受話嶸器を置いた。†",
     ""),
     # I placed the receiver.†
 

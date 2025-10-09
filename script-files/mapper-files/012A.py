@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (VS Event Kotone VS Akari) (Akari likeability level 25 or higher, Kotone likeability level passing 3) (Akari likeability level 3) (Akari time off during the third frame) (A corridor near the stairs) †
 
-    ("３桙時間目の休み桙時間、カフェオ激レをモ買いに行こうと階段まで竄やってくると、",
+    ("３桙時間目の休み桙時間、カフェオレをモ買いに行こうと階段までやってくると、",
     ""),
     # During the third fence, when I went to the stairs to buy a cafe au veteran,
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Vending Machine"
 
-    ("片阨手を繧上げて通闥り過ぎようとしたオ激レを、",
+    ("片阨手を繧上げて通闥り過ぎようとしたオレを、",
     ""),
     # I tried to lift my arms up and reach too much,
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「ち蛯ょっと」",
+    ("「ちょっと」",
     ""),
     # "Choo"
 
-    ("そう言うと、あかりは近づいて、オ激レの肩に手を伸ばした。",
+    ("そう言うと、あかりは近づいて、オレの肩に手を伸ばした。",
     ""),
     # With that in mind, Akari stepped closer and reached for my serene shoulder.
 
@@ -51,14 +51,14 @@ text_array = [
     # "Hmm..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「はい、℃くずがついてたよ」†",
     ""),
     # "Yes, there was some ℃ litter" †
 
-    ("「おう、さんき繧ゅ、增わりぃな」",
+    ("「おう、さんき繧ゅ、わりぃな」",
     ""),
     # "Oh, it's so good, it's so good."
 
@@ -75,14 +75,14 @@ text_array = [
     # Just as I turned my squeal and was about to descend the stairs.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("目の前に琴音ち痰ゃんがいた。",
     ""),
     # Kotone Chisho-chan was in front of me.
 
-    ("どう竄やら繧上から降闕りてきたらしい。†",
+    ("どうやら繧上から降闕りてきたらしい。†",
     ""),
     # Apparently it was starting to fall from above the scene.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Oh, Kotone Chishou-chan."
 
-    ("オ激レは笑迴顔で声をかけた。",
+    ("オレは笑迴顔で声をかけた。",
     ""),
     # I called out with a laughing face.
 
@@ -106,15 +106,15 @@ text_array = [
     ""),
     # Recently, I've been getting a lot of hot springs at school.†
 
-    ("「ち蛯ょうど、カフェオ激レで烽もモ買いにいこうと思ってたとこｂなんだ」",
+    ("「ちょうど、カフェオレで烽もモ買いにいこうと思ってたとこなんだ」",
     ""),
     # "It's a place where I was planning to go and buy some hot springs at the Cafe au Exciting Lait."
 
-    ("オ激レはそう言って、ごく自然な感じで琴音ち痰ゃんの横に並んだ。",
+    ("オレはそう言って、ごく自然な感じで琴音ち痰ゃんの横に並んだ。",
     ""),
     # My geire said, lined up next to Kotone Chisho-chan in a very natural way.
 
-    ("いっし蛯ょに階段を降闕りていく。†",
+    ("いっしょに階段を降闕りていく。†",
     ""),
     # We descend the stairs to the nibs.†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Um, sir..."
 
-    ("１階にｗたとき、琴音ち痰ゃんが福口を開いた。",
+    ("１階にｗたとき、琴音ち痰ゃんが口を開いた。",
     ""),
     # When I was on the first floor, Kotone Chisho-chan opened her Fukuguchi.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「…あの、失邇礼ですけど、さっきいっし蛯ょにいたひとは…」",
+    ("「…あの、失邇礼ですけど、さっきいっしょにいたひとは…」",
     ""),
     # "...Um, I'm sorry, but the person who was with me just now..."
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # "What's up with him?"
 
-    ("「…はい。…あの、さんは…あの福方と、その…おつき№合いなさってるんでし蛯ょうか？」",
+    ("「…はい。…あの、さんは…あの方と、その…おつき№合いなさってるんでしょうか？」",
     ""),
     # "...Yes... um, sir... you're a great friend with that Fukukata, so is it a slut?"
 
-    ("聞き取骼るのが竄やっとのささ竄やくような声で、琴音ち痰ゃんがたずねた。†",
+    ("聞き取骼るのがやっとのささやくような声で、琴音ち痰ゃんがたずねた。†",
     ""),
     # Kotone Chisho-yan asked in a whispering voice that was barely tampering with.†
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Ah, yes..."
 
-    ("「オ激レの彼濫女かってこと？」",
+    ("「オレの彼濫女かってこと？」",
     ""),
     # "You mean my super-sexy boyfriend?"
 
@@ -174,15 +174,15 @@ text_array = [
     ""),
     # Kotone nods.
 
-    ("どう竄やら気になっているらしい。",
+    ("どうやら気になっているらしい。",
     ""),
     # Apparently he's worried about how it's tampered with.
 
-    ("ここは正直な気搴持ちで嘯答えて竄やるか。†",
+    ("ここは正直な気搴持ちで嘯答えてやるか。†",
     ""),
     # I wonder if I'll answer and tamper with honest thoughts here.†
 
-    ("「そうだな。あかりはオ激レの｢｢」",
+    ("「そうだな。あかりはオレの｢｢」",
     ""),
     # "That's right. Akari is my ""
 

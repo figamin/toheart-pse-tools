@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Oh, Masochist? What's wrong?"
 
-    ("「さっき朝羽練が終尞わって、暇だからち蛯ょっと寄ってみたんだけど。なにか予阯定ある？」",
+    ("「さっき朝羽練が終尞わって、暇だからちょっと寄ってみたんだけど。なにか予定ある？」",
     ""),
     # "I just finished the morning training session, so I was bored so I stopped by. Is there any preliminary schedule?"
 
-    ("「い竄や、べつに」†",
+    ("「いや、べつに」†",
     ""),
     # "Tampering, it's all too bad" †
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # "Not yet. Because that's it." †
 
-    ("「駅前のシ㏍ョップには烽もう置いてたよ」",
+    ("「駅前のショップには烽もう置いてたよ」",
     ""),
     # "We already had hot pots in the shapp in front of the station."
 
-    ("「フ宴ライングしてんのか」",
+    ("「フライングしてんのか」",
     ""),
     # "Are you doing a banquet lying?"
 
-    ("「あそこ、たまに竄やるからね」",
+    ("「あそこ、たまにやるからね」",
     ""),
     # "I'll tamper with that from time to time."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Okay, shall we go and buy a MO now?”
 
-    ("「うん。僕はいちど家に寄って、またｗ磯翌鱶ｂ諱v",
+    ("「うん。僕はいちど家に寄って、またｗ磯翌鱶諱v",
     ""),
     # "Yes. I stopped by my house once more and again lol Isozuna no Hakub
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # So, I went back to buy a CD with Mama.†
 
-    ("「あれ、なんだｂ？」",
+    ("「あれ、なんだ？」",
     ""),
     # "Huh, what's b?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # When I looked at it, there was a gathering of people.
 
-    ("にくったらしい顔したネズミのｒぐるみが、おどけながら、子沁供たちに色とりどりの翌風船とチ宴ラシを配っていた。†",
+    ("にくったらしい顔したネズミのｒぐるみが、おどけながら、子沁供たちに色とりどりの翌風船とチラシを配っていた。†",
     ""),
     # The rat, R-gurumi, who looked like he had come, was annoyed, handing out colorful next-blooms and a flyer to the children, to which they had offered.†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Der is tough."
 
-    ("「まあ、仕鮪事だからし蛯ょうがねーだｂ」",
+    ("「まあ、仕鮪事だからしょうがねーだ」",
     ""),
     # "Well, it's a tuna thing, so there's no ecchi b."
 
@@ -126,15 +126,15 @@ text_array = [
     ""),
     # For tough tuna, the tuna is also good.†
 
-    ("「チ宴ラシ焜もらおうかな」",
+    ("「チラシ焜もらおうかな」",
     ""),
     # "May I have a feast?"
 
-    ("「どうせ、し蛯ょーもない広錐告だｂ？」",
+    ("「どうせ、しょーもない広錐告だ？」",
     ""),
     # "Are you going to hit a wide open fire anyway?"
 
-    ("と言いつつ烽も、♂史についていくオ激レ。",
+    ("と言いつつ烽も、♂史についていくオレ。",
     ""),
     # That said, I also got excited when I followed Masochistic History.
 
@@ -150,11 +150,11 @@ text_array = [
     ""),
     # "Maybe it's a mouse?"
 
-    ("「ネズミだｂ？」",
+    ("「ネズミだ？」",
     ""),
     # "A mouse b?"
 
-    ("氈次の瞬間、ネズミとオ激レの目が№合った。†",
+    ("氈次の瞬間、ネズミとオレの目が№合った。†",
     ""),
     # The next moment, the mouse and my throbbing eyes met.†
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "What's up?"
 
-    ("「あのネズミ、いま、香ロコツにオ激レから目をそらさなかったか？」",
+    ("「あのネズミ、いま、香ロコツにオレから目をそらさなかったか？」",
     ""),
     # "Did you not look away from me right now by that rat?"
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # "Huh, maybe?"
 
-    ("「い竄や、そらした、間瘧違いない。さながら、オ激レを避けるかのように。｢｢諞よしっ」†",
+    ("「いや、そらした、間瘧違いない。さながら、オレを避けるかのように。｢｢諞よしっ」†",
     ""),
     # "It must have been tampering, I've deflected, I'm sure. It's as if to avoid me. ""I'm fine" †
 
-    ("オ激レはネズミに近づいていく。",
+    ("オレはネズミに近づいていく。",
     ""),
     # My heart is getting closer to a rat.
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "!?"
 
-    ("「チ宴ラシち蛯ょーだい」",
+    ("「チラシちょーだい」",
     ""),
     # "A feast is a banquet."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("ネズミはニャッとぶっとい手を差し出すと、チ宴ラシといっし蛯ょに赤い翌風船をくれた。",
+    ("ネズミはニャッとぶっとい手を差し出すと、チラシといっしょに赤い翌風船をくれた。",
     ""),
     # The mouse gave a slutty hand and gave the banquet a red balloon to the nib.
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # More than that, the hot water...
 
-    ("オ激レは、のぞき鰍穴になっているぬいぐるみの福口をじーっと見た。",
+    ("オレは、のぞき鰍穴になっているぬいぐるみの口をじーっと見た。",
     ""),
     # I gazed at the plush toy Fukuguchi, which had been made into a peeping crocodile.
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # And then...†
 
-    ("また烽も竄や高ロコツに避けようとする。",
+    ("また烽もや高ロコツに避けようとする。",
     ""),
     # They also try to avoid tampering with hot water and high-pitchedness.
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # What is this guy?
 
-    ("オ激レは再びрヤツの前にま墲わる。",
+    ("オレは再びрヤツの前にま墲わる。",
     ""),
     # My ecstasy peers in front of the guy again.
 
@@ -239,10 +239,10 @@ text_array = [
     # Yeah...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("ち蛯ょっとだけじっとしてた烽ものの。†",
+    ("ちょっとだけじっとしてた烽ものの。†",
     ""),
     # The hot thing was just as quiet as I could.†
 
@@ -250,11 +250,11 @@ text_array = [
     ""),
     # The mouse rolled around, and secretly sniffed at the army of children.
 
-    ("へんな竄やつ。†",
+    ("へんなやつ。†",
     ""),
     # A strange tampering thing.†
 
-    ("「チ宴ラシ、なんて曹書いてあるの？」",
+    ("「チラシ、なんて曹書いてあるの？」",
     ""),
     # "What does it say is a flyer?"
 
@@ -278,11 +278,11 @@ text_array = [
     ""),
     # Masochi points to the red balloon.
 
-    ("「そうだな、掾持って帰って烽もし蛯ょーがねーし、お子様にプ激レゼントしよう」",
+    ("「そうだな、掾持って帰って烽もしょーがねーし、お子様にプレゼントしよう」",
     ""),
     # "Yeah, let's take your eyes home and have some hot sluts and give it a great present to your children."
 
-    ("♂史は、オ激レのか墲わりにてきとうな子沁供を見つけ、浴風船を手渡してくれた。†",
+    ("♂史は、オレのか墲わりにてきとうな子沁供を見つけ、浴風船を手渡してくれた。†",
     ""),
     # Masochi, who was probably a bit of a real boy, found a special child, and handed me a bath balloon.†
 
@@ -306,11 +306,11 @@ text_array = [
     ""),
     # Hmm, wait.
 
-    ("ぴ蛯ょこんと突き出したあの妙な髪型は…。",
+    ("ぴょこんと突き出したあの妙な髪型は…。",
     ""),
     # That strange hairstyle that sticks out...
 
-    ("オ激レはそっと近づいていった。◯",
+    ("オレはそっと近づいていった。◯",
     ""),
     # My heart gently approached.◯
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # A bathing girl takes a deep breath.
 
-    ("竅やっぱり揩理女緒ち痰ゃんだ。",
+    ("やっぱり揩理女緒ち痰ゃんだ。",
     ""),
     # I'm sure it's really hard to get the stimulus.
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # Erie Ochishon took a deep breath, as if to be relieved of the space where even Hou was in a difficult breath.
 
-    ("額には蛯大きな汗の玉が光骭る。†",
+    ("額には大きな汗の玉が光骭る。†",
     ""),
     # A huge bead of sweat glows on his forehead.†
 
@@ -338,11 +338,11 @@ text_array = [
     ""),
     # "I'm in trouble..."
 
-    ("誰にと烽もなくつぶ竄やく揩理女緒ち痰ゃん。",
+    ("誰にと烽もなくつぶやく揩理女緒ち痰ゃん。",
     ""),
     # I'm a smug woman who keeps messing around with no one else.
 
-    ("たぶん、オ激レと目が№合ったことだｂう。",
+    ("たぶん、オレと目が№合ったことだう。",
     ""),
     # It's probably that my eyes met with my hardcore character.
 
@@ -374,15 +374,15 @@ text_array = [
     ""),
     # "Huh? Why, how...!?"
 
-    ("£ぐるみのまま、慌てて立ち繧上がｂうと、ａモゾｃモゾする。",
+    ("£ぐるみのまま、慌てて立ち繧上がうと、ａモゾｃモゾする。",
     ""),
     # While still in unison, I hurriedly stood up and b and a moaned c.
 
-    ("「休憩だｂ？	いいから座ってｂよ」",
+    ("「休憩だ？	いいから座ってよ」",
     ""),
     # "It's a break b? Okay, sit b."
 
-    ("そう言いながら、オ激レ焜も揩理女緒ち痰ゃんの横にｍ會高ｨｂす。†",
+    ("そう言いながら、オレ焜も揩理女緒ち痰ゃんの横にｍ會高ｨす。†",
     ""),
     # With that in mind, I also got a high school student beside the man who was extremely excited.†
 
@@ -394,11 +394,11 @@ text_array = [
     ""),
     # "Ah, yes..."
 
-    ("「蛛大変だな。それ、暑いだｂ？」",
+    ("「蛛大変だな。それ、暑いだ？」",
     ""),
     # "Daddy is tough. That's a bit b?"
 
-    ("「ち蛯ょっとね」",
+    ("「ちょっとね」",
     ""),
     # "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
@@ -410,7 +410,7 @@ text_array = [
     ""),
     # "Haha, I wonder if it's going to be a diet or something like that."
 
-    ("「掾理女緒ち痰ゃん、竅やせるとこなんかないだｂ」",
+    ("「掾理女緒ち痰ゃん、やせるとこなんかないだ」",
     ""),
     # "I'm not a smug woman, I can't find a place to lose weight."
 
@@ -446,7 +446,7 @@ text_array = [
     ""),
     # Do I get it?”
 
-    ("「い竄や、誰かは墲わかんなかったけど、なんかピンとくる烽もんがあってさ」",
+    ("「いや、誰かは墲わかんなかったけど、なんかピンとくる烽もんがあってさ」",
     ""),
     # "No one knew, but there was something that really touched me."
 
@@ -466,16 +466,16 @@ text_array = [
     ""),
     # "Oh, the baths are similar to each other, and the next one is similar to each other."
 
-    ("掾理女緒ち痰ゃんってキャャ宴ラクターに。†",
+    ("掾理女緒ち痰ゃんってキャャラクターに。†",
     ""),
     # The gay girl is a banquet and a banquet.†
 
-    ("「けど蛯大変だな。こんな冾日に烽もバイトなんて。ち蛯ょっと働き過ぎなんじ痰ゃねーの？」",
+    ("「けど大変だな。こんな冾日に烽もバイトなんて。ちょっと働き過ぎなんじ痰ゃねーの？」",
     ""),
     # "But it's tough. On a day like this, you'll have to work part-time at a time like this. Are you working too much and doing phlegm?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「いくら欲しい烽ものがあるっつって烽も、少しは休まないと続かないぜ」",
@@ -502,7 +502,7 @@ text_array = [
     ""),
     # "you know what…"
 
-    ("うつむいたまま、掾理女緒ち痰ゃんが静かに福口を開いた。",
+    ("うつむいたまま、掾理女緒ち痰ゃんが静かに口を開いた。",
     ""),
     # With her face down, the girl Ochi Sphinja quietly opened her mouth.
 
@@ -578,19 +578,19 @@ text_array = [
     ""),
     # I can only say that level.†
 
-    ("「だけど、增弟たち烽もр私の言うことよくきいてくれるし、そんな蛯大変じ痰ゃないよ」",
+    ("「だけど、弟たち烽もр私の言うことよくきいてくれるし、そんな大変じ痰ゃないよ」",
     ""),
     # "But my brothers, Hou, listen to me well, and I have no sputum like that."
 
-    ("「ああ、そっか。良太の面倒燗も揩理女緒ち痰ゃんがひとりでみてんだ。ひとりで蛯大仕鮪事だな、それ」",
+    ("「ああ、そっか。良太の面倒燗も揩理女緒ち痰ゃんがひとりでみてんだ。ひとりで大仕鮪事だな、それ」",
     ""),
     # "Ah, I see. I watched Ryota's troublesome sake on his own. It's a big tuna on his own."
 
-    ("「あはっ。だからそんな蛯大変じ痰ゃないってば。新聞配達なんか、小さいこｂから竄やってたし」†",
+    ("「あはっ。だからそんな大変じ痰ゃないってば。新聞配達なんか、小さいこからやってたし」†",
     ""),
     # "Ahhh. That's why I'm not too sputum like that. I used to start delivering newspapers from a small place."
 
-    ("それから揩理女緒ち痰ゃんは、ち蛯ょっとひかえめな微笑をｂ浮かべて、",
+    ("それから揩理女緒ち痰ゃんは、ちょっとひかえめな微笑を浮かべて、",
     ""),
     # Then, the woman said, "I'm not too scared," she said,
 
@@ -598,7 +598,7 @@ text_array = [
     ""),
     # "...What a story like this doesn't matter."
 
-    ("つぶ竄やくように言った。",
+    ("つぶやくように言った。",
     ""),
     # He told me to mess with it.
 
@@ -622,11 +622,11 @@ text_array = [
     ""),
     # "Because I was worried that I wouldn't get any phlegms and phlegms would be too much..."
 
-    ("「んな墲わけねーだｂ？」",
+    ("「んな墲わけねーだ？」",
     ""),
     # "No way, is there no way b?"
 
-    ("オ激レは苦笑する。",
+    ("オレは苦笑する。",
     ""),
     # I laughed wryly.
 
@@ -646,7 +646,7 @@ text_array = [
     ""),
     # "I see, so maybe that's the reason for this, too?"
 
-    ("オ激レは息を吐いて空を見た。†",
+    ("オレは息を吐いて空を見た。†",
     ""),
     # I let out a breath and looked at the sky.†
 
@@ -674,7 +674,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「金のことは、さすがに無摶理っぽいけど…。バイトが忙しいときとか、ち蛯ょっとしたことだったら、オ激レ、協力して竄やるからさ」",
+    ("「金のことは、さすがに無摶理っぽいけど…。バイトが忙しいときとか、ちょっとしたことだったら、オレ、協力してやるからさ」",
     ""),
     # "It seems like money is just plain irrelevant... If it's busy with part-time jobs or something that's a bit of a problem, I'll work hard to tamper with you."
 
@@ -682,16 +682,16 @@ text_array = [
     ""),
     # "Kn..."
 
-    ("掾理女緒ち痰ゃんは唐遠慮深げに微笑んだ。†",
+    ("掾理女緒ち痰ゃんは遠慮深げに微笑んだ。†",
     ""),
     # The girl Ochi Symphonyan smiled with a timid smile.†
 
-    ("「あの、いいんだよ？	気をつかってくれなくて烽も。こうしていｂいｂ話をしてるだけで、п私、すごくうれしいから」",
+    ("「あの、いいんだよ？	気をつかってくれなくて烽も。こうしていい話をしてるだけで、п私、すごくうれしいから」",
     ""),
     # "Um, is that okay? You haven't taken care of me, so I'm so happy just to be talking about B and B."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -730,7 +730,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("オ激レがうなずくと、掾理女緒ち痰ゃんは真っ赤になって、慌てて立ち繧上がった。†",
+    ("オレがうなずくと、掾理女緒ち痰ゃんは真っ赤になって、慌てて立ち繧上がった。†",
     ""),
     # When my head nodded, the girl turned bright red and she stood in a hurry.†
 
@@ -778,7 +778,7 @@ text_array = [
     ""),
     # "Ah, is that so..."
 
-    ("どのへんが奄ラッコなんだｂう。",
+    ("どのへんが奄ラッコなんだう。",
     ""),
     # Which is the Amano sea otter?
 
@@ -794,11 +794,11 @@ text_array = [
     ""),
     # "(Yeah)"
 
-    ("堰ラッコは蛯大きくうなずいて、′こうへ烽歩いていく。",
+    ("堰ラッコは大きくうなずいて、′こうへ烽歩いていく。",
     ""),
     # The weir otter nodded loudly and strolled towards the '.
 
-    ("あんなｒぐるみのｒで烽も、生き生きとした表﨣情のままの揩理女緒ち痰ゃんが目にｂ浮かぶような感じだった。†",
+    ("あんなｒぐるみのｒで烽も、生き生きとした表﨣情のままの揩理女緒ち痰ゃんが目に浮かぶような感じだった。†",
     ""),
     # With such a r-gurumi, it felt like the lively, open-minded sputum was in my eyes.†
 
@@ -806,7 +806,7 @@ text_array = [
     ""),
     # "Ah, I'm here."
 
-    ("「增わりぃ、增わりぃ。じつはさっきのネズミ、い竄や奄ラッコなんだけど、Ｄ組の翌雛山さんだったぜ」",
+    ("「わりぃ、わりぃ。じつはさっきのネズミ、いや奄ラッコなんだけど、Ｄ組の翌雛山さんだったぜ」",
     ""),
     # "It's not like that, it's not like that. Actually, the rat from earlier was the tampering and Amano sea otter, but it was Hinayama-san the next day after Group D."
 

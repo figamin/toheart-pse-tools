@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Yeah. That's good."
 
-    ("その冾日、オ激レとｉ史は、屋繪上で飯を食うことにした。†",
+    ("その冾日、オレとｉ史は、屋繪上で飯を食うことにした。†",
     ""),
     # On that day, I and I decided to eat at the Yake.†
 
-    ("屋繪上にｗ磯翌ﾆ、眩しいくらいの太陽がオ激レたちを迎えてくれる。",
+    ("屋繪上にｗ磯翌ﾆ、眩しいくらいの太陽がオレたちを迎えてくれる。",
     ""),
     # On top of the house lol, the dazzling sun greets us and the others.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "It's nice weather."
 
-    ("「ああ。たまには、おてんと様の下で食って竄やｂーぜ。いつ烽もの購ロ買パン焜も、ちっとはマシになるか烽も知齟れねーだｂ？」",
+    ("「ああ。たまには、おてんと様の下で食ってやーぜ。いつ烽もの購ロ買パン焜も、ちっとはマシになるか烽も知れねーだ？」",
     ""),
     # "Yeah. Sometimes I eat it and tamper with you b. I don't know when it's better to buy something at least a little bit."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I'll leave."
 
-    ("パンのｕみを破阡り、£身を福口にしようとした瞬闖間…。†",
+    ("パンのｕみを破阡り、£身を口にしようとした瞬闖間…。†",
     ""),
     # I tried to tear the bread and make my body a blessing for a moment...†
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "Ah, I'm there... S≠ay! ~!"
 
-    ("オ激レを呼ぶ声がした。",
+    ("オレを呼ぶ声がした。",
     ""),
     # I heard a loud voice calling out to me.
 
-    ("声の福方を振關りｌくと、戟レミィがｋけてくるとこｂだった。",
+    ("声の方を振關りｌくと、戟レミィが駆けてくるとこだった。",
     ""),
     # When I called out the good fortune of voice, I was told that Remi would come to me.
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "Aaaah!"
 
-    ("「竅やあ」",
+    ("「やあ」",
     ""),
     # "Hey hey."
 
-    ("彼濫女のア＜メ潟リカ式あいさつに、オ激レたちはそれぞれのあいさつでこたえた。",
+    ("彼濫女のア＜メリカ式あいさつに、オレたちはそれぞれのあいさつでこたえた。",
     ""),
     # We responded to the girlfriend's overflowing woman's greeting at the Americanara ceremony with each of our greetings.
 
-    ("「增わざ墲わざ訪ねてきて、なんかオ激レに用か？」",
+    ("「わざ墲わざ訪ねてきて、なんかオレに用か？」",
     ""),
     # "I came over and over again, and I wonder if it's something I'd use?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "I've come to Amami lunch with them now on the day."
 
-    ("「堰ランチ？	戟レミィってたしか、学食派だったｂ？」",
+    ("「堰ランチ？	戟レミィってたしか、学食派だった？」",
     ""),
     # "Dinner? Is it really the school cafeteria b?"
 
@@ -106,19 +106,19 @@ text_array = [
     ""),
     # "That's fine. That's how I feel right now."
 
-    ("とか言って、戟レミィはオ激レの隣にｍ會高ｺ奄した。",
+    ("とか言って、戟レミィはオレの隣にｍ會高ｺ奄した。",
     ""),
     # That said, Hakuremi went to Mkai Takako Amami next to me.
 
-    ("ち痰ゃっかり｢｢オ激レたちに№合寘わせたのかは知迺らないが｢｢パン焜も用意している。†",
+    ("ち痰ゃっかり｢｢オレたちに№合寘わせたのかは知迺らないが｢｢パン焜も用意している。†",
     ""),
     # It's hard to tell whether they've given us all the rages to join us, but "We also have Pan-An prepared.†
 
-    ("「オ激レたちと食ったって、購ロ買パンは鰍所詮、購ロ買パンだぜ？」",
+    ("「オレたちと食ったって、購ロ買パンは鰍所詮、購ロ買パンだぜ？」",
     ""),
     # "Even if I ate it with some of us, the bread that I bought is just the bread that bought after all?"
 
-    ("…その購ロ買パンを少しで烽もｔ味くしようと、屋繪上に繧上がったオ激レたちだけどな。",
+    ("…その購ロ買パンを少しで烽もｔ味くしようと、屋繪上に繧上がったオレたちだけどな。",
     ""),
     # ...I've been so excited to try to taste some of the bread I bought, and the others have come up with the delicious soup.
 
@@ -126,23 +126,23 @@ text_array = [
     ""),
     # "Is that so? Japanese bread-flavored flower c"
 
-    ("「ア＜メ潟リカってパンまでマズイのか？	オ激レ、ア＜メ潟リカじ痰ゃなに食って烽も福口に№合いそうにねえな…」†",
+    ("「ア＜メリカってパンまでマズイのか？	オレ、ア＜メリカじ痰ゃなに食って烽も口に№合いそうにねえな…」†",
     ""),
     # "Is Americana-rika bad even bread bad? I'm really excited about Americana-rika and it looks like the Chinese-rika would be the best in the lucky mouth..."
 
-    ("「Ｎ盾ｏ	吹ｐ窒ｒ盾ｏｂｂ撃ｌｂ高ｍ。",
+    ("「Ｎ盾ｏ	吹ｐ窒ｒ盾ｏ撃ｌ高ｍ。",
     ""),
     # "N Shield O Blowing N Shield OBB Shot LB High M.
 
-    ("大苟丈夫謨よ。和食の撃レスト宴ラン、たくさんあるから」",
+    ("大苟丈夫謨よ。和食の撃レストラン、たくさんあるから」",
     ""),
     # He's a great sturdy one.There are many Japanese food stalls, such as "The Japanese food rest banquet run."
 
-    ("「和食倹レスト宴ランがないと生衰できねえなんて、オ激レってつくづく冾日本人だよな」",
+    ("「和食倹レストランがないと生衰できねえなんて、オレってつくづく冾日本人だよな」",
     ""),
     # "I'm a really strong Japanese person who can't go bad without a Japanese food thrift rest banquet run."
 
-    ("「それで烽も、Ｓｔ≠ａｔｂ唐入に住めるネ」",
+    ("「それで烽も、Ｓｔ≠ａｔ入に住めるネ」",
     ""),
     # "So even Hot can live in St≠atb Tanglian."
 
@@ -162,27 +162,27 @@ text_array = [
     ""),
     # I said that.
 
-    ("「なんだそれ？	オ激レ、戟レミィの手料摎理、食う約束したっけ？」",
+    ("「なんだそれ？	オレ、戟レミィの手料摎理、食う約束したっけ？」",
     ""),
     # "What is that? I, did you promise to eat the fees of War Remy?"
 
-    ("「シ㏍ョー堰ライの話ヨ」†",
+    ("「ショー堰ライの話ヨ」†",
     ""),
     # "The story of Shijyu Rai"†
 
-    ("「将女？	諱先のことなんて、增わかんねー諱よ」",
+    ("「将女？	諱先のことなんて、わかんねー諱よ」",
     ""),
     # "Master? I don't know what your name is, my name is."
 
-    ("戟レミィは桙時々、オ激レに気のあるような、そぶりを見せるけど、その辺はオ激レの都∮合のいい勘瘧違いか烽もしれない。",
+    ("戟レミィは桙時々、オレに気のあるような、そぶりを見せるけど、その辺はオレの都∮合のいい勘瘧違いか烽もしれない。",
     ""),
     # Otoko Remi sometimes shows her interest in me, but I think she's a bit of a good spirit in that area, and I think she's a bit of a good spirit.
 
-    ("「Ｗｂ≠ａｔ	＝ａ	入ｂ≠ａ高ｍｂ…」",
+    ("「Ｗ≠ａｔ	＝ａ	入≠ａ高ｍ…」",
     ""),
     # "Wb≠at =a Enter b≠a High mb..."
 
-    ("がっかりしたふうの撃レミィがつぶ竄やいた言葉は、オ激レには墲わからなかった。†",
+    ("がっかりしたふうの撃レミィがつぶやいた言葉は、オレには墲わからなかった。†",
     ""),
     # I couldn't understand the words that Ekei Remi, who was disappointed, muttered.†
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "I'll enjoy having this"
 
-    ("オ激レたちはそれぞれ、メ買ってきたパンを福口にした。",
+    ("オレたちはそれぞれ、メ買ってきたパンを口にした。",
     ""),
     # Each of us made a lucky drink of bread they had bought.
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "Yeah. Totte C-Mo!"
 
-    ("「なんかうら竄やましいよな…。そー艨ゆーの」",
+    ("「なんかうらやましいよな…。そー艨ゆーの」",
     ""),
     # "I'm jealous of you... That's right."
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "Huh..."
 
-    ("そんな竄やり取闔りの最穀、オ激レはｉ史がミ㏍ョーなことをしているのに気がついた。†",
+    ("そんなやり取闔りの最穀、オレはｉ史がミョーなことをしているのに気がついた。†",
     ""),
     # I realized that I'm doing something strange about this kind of tampering with the story.†
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # He pinched the sandwich's fire lettuce with his fingers and stared at him...
 
-    ("ついでに魔薄笑いなんか烽もｂ浮かべてるあたりが、不気味だといえば不気味だ。†",
+    ("ついでに魔薄笑いなんか烽も浮かべてるあたりが、不気味だといえば不気味だ。†",
     ""),
     # Also, the fact that he has a crazy smile and a hot flash of hot flashes is creepy, if you say it's creepy.†
 
@@ -246,11 +246,11 @@ text_array = [
     ""),
     # "Hey, I'm here. What did you do with that fire lettuce?"
 
-    ("♂史はち蛯ょっと驚いて、",
+    ("♂史はちょっと驚いて、",
     ""),
     # ♂Hisabi was surprised,
 
-    ("「あ…べつに、なんで烽もないよ。これをハムスターたちに食べさせたら、♀ぶだｂうなって思ってたんだ」",
+    ("「あ…べつに、なんで烽もないよ。これをハムスターたちに食べさせたら、♀ぶだうなって思ってたんだ」",
     ""),
     # "Ah... why don't they have any heat? I fed this to the hamsters and thought that female b would growl."
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # He said with a wry smile.
 
-    ("「そーい竄や、お前｢｢」†",
+    ("「そーいや、お前｢｢」†",
     ""),
     # "You're so tampering, you ""†
 
@@ -286,15 +286,15 @@ text_array = [
     ""),
     # "Do you have a hamster too?"
 
-    ("「Ｙｂ唐入！	マサシの、どんなハムスター？」†",
+    ("「Ｙ入！	マサシの、どんなハムスター？」†",
     ""),
     # "Yb Tangari! What kind of hamster is Masashi?"
 
-    ("「僕は、ジャャンガ潟リアンが二匹だよ」",
+    ("「僕は、ジャャンガリアンが二匹だよ」",
     ""),
     # "I have two Jaanga Katalian."
 
-    ("ジャャンガ潟リアンってのは、小さくて可愛い墲種類のハムスターだ。",
+    ("ジャャンガリアンってのは、小さくて可愛い墲種類のハムスターだ。",
     ""),
     # Jayanga Katalian is a small and cute hamster.
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # I don't want to think about it next time, but I'll use it as a reference and get some hot water."
 
-    ("オ激レは咳払いをひとつ、",
+    ("オレは咳払いをひとつ、",
     ""),
     # I cleared my throat one time,
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "But it's surprising that Karemy has a hamster."
 
-    ("ち蛯ょっと強引にｉ話にр割闃り桙込んでみる。",
+    ("ちょっと強引にｉ話にр割闃り桙込んでみる。",
     ""),
     # I tried to forcefully break the i-talk and smash it into the i-talk.
 
@@ -350,11 +350,11 @@ text_array = [
     ""),
     # What, what?”†
 
-    ("「オ激レ？	悪くないけどな…。考えとくよ」",
+    ("「オレ？	悪くないけどな…。考えとくよ」",
     ""),
     # "I'm super crazy? It's not bad though... I'll think about it."
 
-    ("とか言いつつ、オ激レは引いてしまった。",
+    ("とか言いつつ、オレは引いてしまった。",
     ""),
     # While saying that, I ended up with a big blow.
 
@@ -366,7 +366,7 @@ text_array = [
     ""),
     # And even Hou, the hamster is also...
 
-    ("ち蛯ょっと想恆像してみたくなってくるな。",
+    ("ちょっと想恆像してみたくなってくるな。",
     ""),
     # I feel like I want to try a picture of my heart.
 
@@ -390,31 +390,31 @@ text_array = [
     ""),
     # "Yeah, yes" †
 
-    ("「アタシの蛯大桝事な家族は『ジ㏍ョニー』＜」",
+    ("「アタシの大桝事な家族は『ジョニー』＜」",
     ""),
     # "My family is "Ji-Y-Y" <
 
-    ("「じ蛯ょ、じ蛯ょにぃ…？」",
+    ("「じょ、じょにぃ…？」",
     ""),
     # "Dear, daddy...?"
 
-    ("オ激レとｉ史は、思寬わず顔を見㈹合寘わせた。",
+    ("オレとｉ史は、思寬わず顔を見㈹合寘わせた。",
     ""),
     # I and I did not think about it, but instead looked at their faces and let them join together.
 
-    ("…ハムスターの、ジ㏍ョニー？†",
+    ("…ハムスターの、ジョニー？†",
     ""),
     # ...Hamster's Zikkony?†
 
-    ("「ぷぷぷ…。ハムスターにジ㏍ョニーだってよ」",
+    ("「ぷぷぷ…。ハムスターにジョニーだってよ」",
     ""),
     # "Puppu... It's a hamster and a jizzy."
 
-    ("オ激レたちはつい、＝吹き出してしまった。",
+    ("オレたちはつい、＝吹き出してしまった。",
     ""),
     # We all started to burst out.
 
-    ("犬ならと烽もかく、ハムスターに『ジ㏍ョニー』なんて、カッコ諠よすぎる…。†",
+    ("犬ならと烽もかく、ハムスターに『ジョニー』なんて、カッコ諠よすぎる…。†",
     ""),
     # It's a dog, and a hamster is so cool that he says "geekyy" to a hamster...†
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # Even Karemi was tempted and started laughing.
 
-    ("「…い竄や、おかしくねえよ。いかに烽も、ぷぷ…ア＜メ潟リカ人逅らしくて…その、グッドだぜ」†",
+    ("「…いや、おかしくねえよ。いかに烽も、ぷぷ…ア＜メリカ人逅らしくて…その、グッドだぜ」†",
     ""),
     # "...It's not weird, isn't it? No matter how crazy it is, it's puffy... it looks like a Megata Rika-san...it's good."
 

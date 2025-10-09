@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Doukiai c motom?"
 
-    ("聞き慣れない言葉だけど、意味は蛯大体岺わかる。†",
+    ("聞き慣れない言葉だけど、意味は大体岺わかる。†",
     ""),
     # It's a word you're not familiar with, but I can roughly understand the meaning.†
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Does it mean 'feathers call friends'?"
 
-    ("「Ｙｂ唐入！」",
+    ("「Ｙ入！」",
     ""),
     # "Yb Tangari!"
 
-    ("「增わざ墲わざ入しい言葉使うなよ。そんな言葉、覚えて烽も通じないって」",
+    ("「わざ墲わざ入しい言葉使うなよ。そんな言葉、覚えて烽も通じないって」",
     ""),
     # "Don't use words deliberately. You should remember those words and can't even understand them."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # ...I feel like I'm being told by Remy, and I feel like I'm going to take great care of him.†
 
-    ("「とこｂで、オ激レが子沁供を好きだと、なにかいいことあんのか？」",
+    ("「とこで、オレが子沁供を好きだと、なにかいいことあんのか？」",
     ""),
     # "Is there anything good about this when I like to have a baby in the b-?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "what kind?"†
 
-    ("「入ｂモｃ窒ｒｂｔ！	…ヒ・ミ・ツ翼＠」",
+    ("「入モｃ窒ｒｔ！	…ヒ・ミ・ツ翼＠」",
     ""),
     # "Input B-Mo C-Nitrobt! ...Himi Tsuyu @"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # With that, Karemy skipped and lioned away.
 
-    ("…自信って、なんの自信だｂうか？◯",
+    ("…自信って、なんの自信だうか？◯",
     ""),
     # ...What kind of confidence is that?◯
 

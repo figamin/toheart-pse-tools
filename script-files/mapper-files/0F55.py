@@ -18,7 +18,7 @@ text_array = [
     ""),
     # A: The weir radio.Relax
 
-    ("Ｂ	オ激レの入％浴タイムが。閨",
+    ("Ｂ	オレの入％浴タイムが。閨",
     ""),
     # B: My slutty bath time.Relax
 

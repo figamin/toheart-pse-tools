@@ -10,7 +10,7 @@ text_array = [
     ""),
     # I don't want to look like a perverted father like a pervert.
 
-    ("オ激レはすば竄やく立ち繧上がった。†",
+    ("オレはすばやく立ち繧上がった。†",
     ""),
     # My throbbing quickly rose to the ground.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "you know what,"
 
-    ("「戟レミィ、增わりぃ！	オ激レ、ち蛯ょっと今厓日は用があっから…」",
+    ("「戟レミィ、わりぃ！	オレ、ちょっと今厓日は用があっから…」",
     ""),
     # "Ah Remy, it's a little squeal! I'm going to have a lot of work to do on the day right now..."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "..."
 
-    ("オ激レは軽く手を振って撃レミィと別れ、その場を立ち獅去った。◯",
+    ("オレは軽く手を振って撃レミィと別れ、その場を立ち獅去った。◯",
     ""),
     # I waved lightly and parted ways with Ekire Remy, then stood there and left the scene.◯
 

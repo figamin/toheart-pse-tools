@@ -10,7 +10,7 @@ text_array = [
     ""),
     # This concludes the entire course on the current day.
 
-    ("い竄やあ〜土曜坥日はいいねぇ。",
+    ("いやあ〜土曜坥日はいいねぇ。",
     ""),
     # I'm not sure about Saturday night.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # *I want you to see Inumata.†
 
-    ("同じ２階の廊下をぐるっと回ってくると、文化系のク宴ラブハウスがある。",
+    ("同じ２階の廊下をぐるっと回ってくると、文化系のクラブハウスがある。",
     ""),
     # If you go round the corridor on the same second floor, you will find a culturally banquet love house.
 
-    ("い竄や、ただそれだけなんだけど。",
+    ("いや、ただそれだけなんだけど。",
     ""),
     # It's just tampering, but that's all.
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Ou"
 
-    ("ク宴ラスの翌女子が手を振って、玄関から出ていった。†",
+    ("クラスの翌女子が手を振って、玄関から出ていった。†",
     ""),
     # The girl waved her hand out of the entrance after the banquet.†
 
-    ("もし誰かに出初ったらいっし蛯ょに帰汲うかと思ったが、誰熬もいないみてーだな。",
+    ("もし誰かに出初ったらいっしょに帰汲うかと思ったが、誰熬もいないみてーだな。",
     ""),
     # I thought if I had first appeared with someone, I would return to the Ebi, but I'd see no one there.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # That night.
 
-    ("飯食って、浴風呂入って、サッパ潟リしてから、潤居間でごｂごｂテ激レビ見て…。",
+    ("飯食って、浴風呂入って、サッパリしてから、潤居間でごごテレビ見て…。",
     ""),
     # I ate dinner, took a bath, went straight to the laze, then watched the b-b-b-movie in the living room...
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # It was time for a good gay, so I went to bed and slept.
 
-    ("お竄やすみなさい。",
+    ("おやすみなさい。",
     ""),
     # Good night to tamper with.
 

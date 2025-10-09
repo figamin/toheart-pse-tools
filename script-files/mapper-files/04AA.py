@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I don't think there are many people in the world who say they like tests.
 
-    ("オ激レは魔当然、凵嫌いな福方だ。",
+    ("オレは魔当然、凵嫌いな方だ。",
     ""),
     # Of course, I'm a lucky guy who hates being a demon.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Hmm. I'm not confident."
 
-    ("その言い福方は、オ激レの不調をｊんでいるように烽も思える。†",
+    ("その言い方は、オレの不調をｊんでいるように烽も思える。†",
     ""),
     # It seems that the way he says that he is in a serious malfunction.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

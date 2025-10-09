@@ -2,11 +2,11 @@
 # Source file: 03A4.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（選択綜Ａ	待てよ、いっし蛯ょに帰汲うぜ。）閨（＋＝ａがある場㍼合）閨（駅前）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（選択綜Ａ	待てよ、いっしょに帰汲うぜ。）閨（＋＝ａがある場㍼合）閨（駅前）†",
     ""),
     # (Tomoko's Scales Event: Departing from school LV4) (Choice A, wait, I'll return to the Episode) (Little where += a is located) (In front of the station) †
 
-    ("「もし桙時間あんなら、なにかおごｂうか？」",
+    ("「もし桙時間あんなら、なにかおごうか？」",
     ""),
     # "If there's time, can you please do something?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "You're so phlegm, be spoiled by your words"
 
-    ("ふたりはрヤックに行き、オ激レはカフェオ激レとてり竄やき、委員長はアップ泣ルパイと撃レｃモンティーを鰍頼んだ。",
+    ("ふたりはрヤックに行き、オレはカフェオレとてりやき、委員長はアップルパイと撃レｃモンティーを鰍頼んだ。",
     ""),
     # The two went to рyak, and the Ogekira was tampering with Cafe au Gekira, and the chairman ordered a chopped rice pie and a chopped roe.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Ah, wait, Chairman."
 
-    ("行こうとする委員長をオ激レは呼び止めた。†",
+    ("行こうとする委員長をオレは呼び止めた。†",
     ""),
     # I called out to the chairman who was about to go.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「また、いっし蛯ょに、帰汲うな？」†",
+    ("「また、いっしょに、帰汲うな？」†",
     ""),
     # "Don't you return to the essay again?"
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # The chairman nodded a small head and leaned away shyly, ≠ quick to walk away.†
 
-    ("本末当、なんなんだ、このノ潟リは？",
+    ("本末当、なんなんだ、このノリは？",
     ""),
     # What's this really like, what's this nogatari?
 

@@ -10,11 +10,11 @@ text_array = [
     ""),
     # After the pestle school.
 
-    ("まるで眠阮りから目覚めたように、学校穀が賑笂やかになる。",
+    ("まるで眠りから目覚めたように、学校穀が賑笂やかになる。",
     ""),
     # The school grains become bustling, as if they had woken up from sleep.
 
-    ("磨喧寥騒のなかで、オ激レは唐鞄を手に取った。†",
+    ("喧寥騒のなかで、オレは鞄を手に取った。†",
     ""),
     # Amidst the bustle, I picked up a kara bag.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("ク宴ラスの男子が手を繧上げて、玄関から出て行った。†",
+    ("クラスの男子が手を繧上げて、玄関から出て行った。†",
     ""),
     # The boys at the Crown Rath lifted their hands and left the front door.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # I'm going back on my own.
 
-    ("意識して考えると竄寂しい烽ものがあるな。",
+    ("意識して考えると寂しい烽ものがあるな。",
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Does anyone know who?†
 
-    ("隣のｐ辮上さん、今骰夜燒も派阡手に夫婦ゲンカを竄やっている。",
+    ("隣のｐ辮上さん、今骰夜燒も派阡手に夫婦ゲンカをやっている。",
     ""),
     # Next to me, P-Benjo, now I'm also tampering with my husband and wife.
 

@@ -2,7 +2,7 @@
 # Source file: 038F.txt
 
 text_array = [
-    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見てない）閨（かつ）閨（選択綜Ａ	いっし蛯ょに帰汲うかと誘う。	の続き）†",
+    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見てない）閨（かつ）閨（選択綜Ａ	いっしょに帰汲うかと誘う。	の続き）†",
     ""),
     # (Tomoko, 2F, LV1) (I haven't seen the Likeability Event 8) (Katsu) (I invite you to return to Chosen A and Isshi Ebi. Continued) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "...kun" †
 
-    ("「今厓日燗もひとりでお帰闍りか？	たまには誰かといっし蛯ょに帰ったらどうだ？」",
+    ("「今厓日燗もひとりでお帰闍りか？	たまには誰かといっしょに帰ったらどうだ？」",
     ""),
     # "Are you going back to Uchikan on your own now? What if you once in a while, do you go back to Ebi with someone?"
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # Did you suddenly get angry?†
 
-    ("「という墲わけで、諱よかったらこのオ激レといっし蛯ょに帰迢らないか？」",
+    ("「という墲わけで、諱よかったらこのオレといっしょに帰迢らないか？」",
     ""),
     # "So, if you like, why don't you return to this eclipse with me?"
 
-    ("オ激レが笑迴顔で誘うと、",
+    ("オレが笑迴顔で誘うと、",
     ""),
     # When I asked her out with a laughing face,
 
@@ -55,10 +55,10 @@ text_array = [
     # It was completely rejected.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("苦笑するオ激レ。†",
+    ("苦笑するオレ。†",
     ""),
     # I laughed wryly.†
 

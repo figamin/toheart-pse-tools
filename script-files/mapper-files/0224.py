@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Hmm, hmm.
 
-    ("正直、いまはまだオ激レ自身熕も、本末当に先輩のことが好きなのかどうか、はっきりしないんだよな。",
+    ("正直、いまはまだオレ自身熕も、本末当に先輩のことが好きなのかどうか、はっきりしないんだよな。",
     ""),
     # To be honest, I'm still not sure if I really like my seniors.
 
-    ("竅絶対に凾嫌いじ痰ゃないし、か墲わいいと烽も思う。",
+    ("絶対に凾嫌いじ痰ゃないし、か墲わいいと烽も思う。",
     ""),
     # I'm sure I don't hate it, and I think it's fine for me to do it.
 
@@ -34,19 +34,19 @@ text_array = [
     ""),
     # However, it's even worse to respond to this with a casual attitude.
 
-    ("諱先輩には悪いが、今厓日のとこｂはち蛯ょっと唐遠慮しとこう。†",
+    ("諱先輩には悪いが、今厓日のとこはちょっと遠慮しとこう。†",
     ""),
     # I'm sorry to my senior, but I'll refrain from taking the time to stop at the moment.†
 
-    ("「悪いんだけど、今厓日はち蛯ょっと唐遠慮させて烽もらうぜ」",
+    ("「悪いんだけど、今厓日はちょっと遠慮させて烽もらうぜ」",
     ""),
     # "I'm sorry, but I'll refrain from tang and get some hot springs now."
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
-    ("「增わかりました…」",
+    ("「わかりました…」",
     ""),
     # "I understand..."
 
@@ -58,12 +58,12 @@ text_array = [
     ""),
     # "...Ugh, sorry."
 
-    ("オ激レが謝骼ると、",
+    ("オレが謝骼ると、",
     ""),
     # When I apologized,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は首を横に振った。",

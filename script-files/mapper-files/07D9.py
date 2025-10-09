@@ -10,7 +10,7 @@ text_array = [
     ""),
     # I'm also curious about the smoke coming out of the woman on the stairs, which is a miracle, so I'll try calling out to him.†
 
-    ("「キミ、ち蛯ょっといーかな？」",
+    ("「キミ、ちょっといーかな？」",
     ""),
     # "Is it okay, you?"
 
@@ -19,10 +19,10 @@ text_array = [
     # After the attack, Kotone Chisho-yan called out, and he replied with a terrifying and terrifying cry.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レの顔をじっと見つめる。",
+    ("オレの顔をじっと見つめる。",
     ""),
     # I stare at my face.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Big eyes.
 
-    ("さらっとして、ち蛯ょっとクセのある長い髪。",
+    ("さらっとして、ちょっとクセのある長い髪。",
     ""),
     # She has long, smooth, quirky hair.
 
@@ -42,35 +42,35 @@ text_array = [
     ""),
     # I see, if you look closely at her, the word "tamaki" seems to fit the point.†
 
-    ("「覚えてるだｂ？	前にオ激レ、昼休みに階段でぶつかったрヤツ」",
+    ("「覚えてるだ？	前にオレ、昼休みに階段でぶつかったрヤツ」",
     ""),
     # "Do you remember? I was so excited about it before, the guy who hit me on the stairs during lunch break."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("琴音ち痰ゃんはこくんとうなずいた。†",
     ""),
     # Kotone Chisho-chan nodded with Ko-kun.†
 
-    ("「ち蛯ょっと話があんだけど、いいかな？」",
+    ("「ちょっと話があんだけど、いいかな？」",
     ""),
     # "I've got a talk, but is that okay?"
 
-    ("オ激レは烽もう一度聞いた。",
+    ("オレは烽もう一度聞いた。",
     ""),
     # I listened to it again.
 
-    ("「…なんでし蛯ょうか」†",
+    ("「…なんでしょうか」†",
     ""),
     # "...Why are you eclips?"
 
-    ("「キミってさ、ウ純ワサでち蛯ょこっと聞いたんだけど…超能力、使えるんだってな」",
+    ("「キミってさ、ウ純ワサでちょこっと聞いたんだけど…超能力、使えるんだってな」",
     ""),
     # "You know, I heard that Ugh Wasa's eccentricity...I wonder if you can use your supernatural powers."
 
-    ("オ激レが聞くと彼濫女、一瞬悲しげな表﨣情をして目を嘯伏せた。",
+    ("オレが聞くと彼濫女、一瞬悲しげな表﨣情をして目を嘯伏せた。",
     ""),
     # When I heard, my boyfriend and woman looked down at me for a moment in a sad, gross-like atmosphere.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「からかいにきたんじ痰ゃねえんだ。ち蛯ょっと信じられねえからさ、確かめてみようと思ってな」",
+    ("「からかいにきたんじ痰ゃねえんだ。ちょっと信じられねえからさ、確かめてみようと思ってな」",
     ""),
     # "I came to tease you, but there's no phlegm. I can't believe it, so I thought I'd check it out."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "...I have superpowers."
 
-    ("「マジ？	じ痰ゃあ、竅やっぱあのときガ宴ラスがр割れたの烽も｢｢」",
+    ("「マジ？	じ痰ゃあ、やっぱあのときガラスがр割れたの烽も｢｢」",
     ""),
     # "Really? I'm not sure what to do with the banquet that time was broken, but the hot spring was ""
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "yes.
 
-    ("わたしが竄やりました…」†",
+    ("わたしがやりました…」†",
     ""),
     # I've tampered with it..."
 
@@ -103,14 +103,14 @@ text_array = [
     # "I'm curious, why did you do that?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("琴音ち痰ゃんは黙ってしまった。†",
     ""),
     # Kotone Chisho-chan went silent.†
 
-    ("オ激レの言葉は｢｢。",
+    ("オレの言葉は｢｢。",
     ""),
     # My ecstatic words were ".
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # B It's really good though.Relax
 
-    ("Ｃ	ガ宴ラスをр割驫るなんて感心しねえな。閨",
+    ("Ｃ	ガラスをр割驫るなんて感心しねえな。閨",
     ""),
     # C I'm not impressed that they're going to sail the banquet.Relax
 

@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Uh, that's fine" †
 
-    ("結局、オ激レは志保のつき№合いで商店街へ行くことになった。†",
+    ("結局、オレは志保のつき№合いで商店街へ行くことになった。†",
     ""),
     # In the end, I ended up going to the shopping district with Shiho's No.†
 

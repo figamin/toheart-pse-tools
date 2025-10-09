@@ -2,15 +2,15 @@
 # Source file: 01AD.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	いっし蛯ょに帰驪る）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	いっしょに帰驪る）†",
     ""),
     # (Akari Scales Event: Out of School) (A Return to the Episode)†
 
-    ("「じ痰ゃあ、いっし蛯ょに帰驪るか」",
+    ("「じ痰ゃあ、いっしょに帰驪るか」",
     ""),
     # "Ah, I'll go back to the slut?"
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Akari nodded happily.†
 
-    ("ち蛯ょっと蛯大回濶りして、商店街を烽歩いているときのことだ。",
+    ("ちょっと大回濶りして、商店街を烽歩いているときのことだ。",
     ""),
     # It was when I was walking around the shopping district with a huge round of voyages.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # Akari suddenly said, stopping.†
 
-    ("「なんだよ、竅やぶから棒に。げ、これか？」",
+    ("「なんだよ、やぶから棒に。げ、これか？」",
     ""),
     # "What is it, you can use it as a stick, right?!"
 
-    ("見骭ると、街頭藷ワゴンであ竄やしいぬいぐるみのセールを竄やっている。†",
+    ("見骭ると、街頭藷ワゴンであやしいぬいぐるみのセールをやっている。†",
     ""),
     # When I looked, I saw that they were selling silly stuffed animals on street wagons.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Yeah. This is a bear chow!"
 
-    ("「…お烽もいっきり、バッタｃモンじ痰ゃねーか、竅やめｂ、竅やめｂ。",
+    ("「…お烽もいっきり、バッタｃモンじ痰ゃねーか、やめ、やめ。",
     ""),
     # "...They're so excited, grasshoppers are so phlegmy, stop b, stop b.
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # Okay, let's buy it!”
 
-    ("增わずかに悩む烽ものの、あかりは即糟した。",
+    ("わずかに悩む烽ものの、あかりは即糟した。",
     ""),
     # Although the hot spring was a little worried, Akari immediately replied.
 
-    ("「げ、本気かよ。全然か墲わいくねーぞ、コ激レ」",
+    ("「げ、本気かよ。全然か墲わいくねーぞ、コレ」",
     ""),
     # "Ah, are you serious? It's not cute at all, this is super cute."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Akari held one Kuma Chau out of the Jun Wagon and held it up.†
 
-    ("「この目のうつｂさかげんとか、轣顔つきとか、ほかにはない魅力を感じるよ！」",
+    ("「この目のうつさかげんとか、轣顔つきとか、ほかにはない魅力を感じるよ！」",
     ""),
     # "I feel a unique charm, like my eyes and my face being depressed!"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "...You don't have to be phlegm like that, you're just being hit with a unique hot thing?"
 
-    ("「…うーん、そうか烽も。で烽もほら、個性的でか墲わいいでし蛯ょ？」",
+    ("「…うーん、そうか烽も。で烽もほら、個性的でか墲わいいでしょ？」",
     ""),
     # "...Hmm, I see, Hoo too. And Hoo too, it's unique and cute, slut?"
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # B It's so cute.Relax
 
-    ("Ｃ	竅絶対竭やめとけって。閨",
+    ("Ｃ	絶対竭やめとけって。閨",
     ""),
     # C: You definitely should stop taking the stakes.Relax
 

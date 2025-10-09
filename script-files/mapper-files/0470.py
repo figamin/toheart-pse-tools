@@ -2,15 +2,15 @@
 # Source file: 0470.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	フ宴ラー梶リ）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	フラー梶リ）†",
     ""),
     # (Shiho Scales Event PS) (Selection Sou Fan Rha Kajiri)†
 
-    ("「フ宴ラー梶リ、だｂ？」†",
+    ("「フラー梶リ、だ？」†",
     ""),
     # "Fan banquet ra kajiri, is that b?"
 
-    ("「そそ！	真っ赤なフ宴ラー梶リ。",
+    ("「そそ！	真っ赤なフラー梶リ。",
     ""),
     # "And that! A bright red feast.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I know a lot about it....Maybe my fan?”
 
-    ("「增わけねーだｂ」",
+    ("「わけねーだ」",
     ""),
     # "There's no way b."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I'm seriously sorry"
 
-    ("「で烽もさ、フ宴ラー梶リってカッコいいと思寬わない？	イタ潟リアン激レッド諠よ？	男熬も翌女熄も撃血が宸騒がない？」",
+    ("「で烽もさ、フラー梶リってカッコいいと思寬わない？	イタリアンレッド諠よ？	男熬も翌女熄も撃血が宸騒がない？」",
     ""),
     # "So, don't you think Fuenra Kajiri is cool? Itagata Ri is a super red slut? Is there no fuss about the attacks of both the man and the next woman, Kiri?"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Now. I think it's cool though..."
 
-    ("「でし蛯ょ？	でし蛯ょ？」†",
+    ("「でしょ？	でしょ？」†",
     ""),
     # "Dear slut? Deear slut?" †
 
-    ("「けどな、フ宴ラー梶リなんて逆立ちしたって手に入逑らねえぞ」",
+    ("「けどな、フラー梶リなんて逆立ちしたって手に入逑らねえぞ」",
     ""),
     # "But, I'm not going to get a hand-standing fuen kajiri."
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "What, do you want to make fun of someone else's dreams?"
 
-    ("「はいはい。夢は蛯大きく見なき痰ゃ損だよな」",
+    ("「はいはい。夢は大きく見なき痰ゃ損だよな」",
     ""),
     # "Yes, yes. Dreams are a shame if you don't see big phlegms."
 
-    ("お烽もいっきり馬鹿にした福口調で言った。",
+    ("お烽もいっきり馬鹿にした口調で言った。",
     ""),
     # Hoo also said in a blessing that made fun of him.
 

@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Whether it's hot or not"
 
-    ("「も〜っ、增わかんない墲わねえっ」†",
+    ("「も〜っ、わかんない墲わねえっ」†",
     ""),
     # "No, I don't know what to do."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "I want to see it, I also want to see it, I don't want to see it, so I mean, how about it, it's good."
 
-    ("「じ痰ゃあ、いっし蛯ょに見まし蛯ょうよ」†",
+    ("「じ痰ゃあ、いっしょに見ましょうよ」†",
     ""),
     # "Ah, I'll look at the ephemerals."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "It's fine, but..."
 
-    ("「…竅やっぱ竄やめ。",
+    ("「…やっぱやめ。",
     ""),
     # "...Stop tampering after all.
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "It looks like it's going to be a story."
 
-    ("「じ痰ゃ竄やっぱ、見に行きまし蛯ょう」",
+    ("「じ痰ゃやっぱ、見に行きましょう」",
     ""),
     # "I've been going to see it after all, sputum."
 
-    ("「はっきりしｂ」†",
+    ("「はっきりし」†",
     ""),
     # "Clearly b"†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "You..." †
 
-    ("なんて立ち話をして、オ激レたちは別れた。◯",
+    ("なんて立ち話をして、オレたちは別れた。◯",
     ""),
     # After talking, we broke up.◯
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # As I was walking to my house on the shopping district sailor route, I suddenly realized that it was a manga magazine that I love to read.
 
-    ("ち蛯ょうど目の前に≠普段から世話になってる本屋がある。",
+    ("ちょうど目の前に≠普段から世話になってる本屋がある。",
     ""),
     # There is a bookstore that I usually take care of in front of my eyes.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # The sash magazine I'm looking for is stacked flat in front of the store.
 
-    ("そのうち一箞冊を手に取闔り、パ宴ラパ宴ラとｒを開いた。",
+    ("そのうち一箞冊を手に取闔り、パラパラとｒを開いた。",
     ""),
     # Eventually, I picked up a book and held a feast and a feast.
 

@@ -14,15 +14,15 @@ text_array = [
     ""),
     # The ceremony is a retreat window, but if you think this year, it's not too difficult to get too close.
 
-    ("どうせ進艶級してク宴ラスが変﨑わるだけだし、感慨深いって墲わけで烽もなく、ただ桙時間だけが過ぎていった。◯",
+    ("どうせ進艶級してクラスが変﨑わるだけだし、感慨深いって墲わけで烽もなく、ただ桙時間だけが過ぎていった。◯",
     ""),
     # It was just a Shinen class and the banquet was changing, and it was so moving that there was no hot weather, and only the time passed.◯
 
-    ("終業式が終尞わった繧後、なんとなくオ激レは、ひとりで屋繪上にｗていた。",
+    ("終業式が終尞わった繧後、なんとなくオレは、ひとりで屋繪上にｗていた。",
     ""),
     # After the closing ceremony was over, I somehow managed to get on my own lol.
 
-    ("あたたかい陽射しと、ほどよく竄冷たい翌風。",
+    ("あたたかい陽射しと、ほどよく冷たい翌風。",
     ""),
     # The warm sunlight and the coldest of the next breeze.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # The word "Light Insect Arrow" is something that even the old people of the world are well-known.†
 
-    ("この繧後、すぐ二年になって、竅やがて三年、そして卒業か。",
+    ("この繧後、すぐ二年になって、やがて三年、そして卒業か。",
     ""),
     # After this, it was almost two years ago, and eventually three years later, and then they graduated.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Two more years.
 
-    ("その間に、オ激レはなにか有意義な学生生衰芋鰍ｑ隷曹るんだｂうか。",
+    ("その間に、オレはなにか有意義な学生生衰芋鰍ｑ隷曹るんだうか。",
     ""),
     # Meanwhile, I'm a meaningful student-aged roe lion and slave-sex.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # When you think about that,
 
-    ("「ほらァ、竅やっぱここにいた翌＠」",
+    ("「ほらァ、やっぱここにいた翌＠」",
     ""),
     # "Hey, after all, the next day I was here @."
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # Shiho looks at him saying that he was inadvertent, and
 
-    ("「一年間の締めってことで、いまから駅前でパ〜ッと遊びまし蛯ょうよ」",
+    ("「一年間の締めってことで、いまから駅前でパ〜ッと遊びましょうよ」",
     ""),
     # "With the end of the year, we'll be playing in front of the station now."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "That's all for you."
 
-    ("「ふん。どーせあんた烽も、そのつ烽もりだったんでし蛯ょ？」",
+    ("「ふん。どーせあんた烽も、そのつ烽もりだったんでしょ？」",
     ""),
     # "Hmm. You were also a hot pot, so be sure to sing?"
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "There's no phlegm.
 
-    ("よーし、♂史燻も誘って、いっち蛯ょ繰闌り出すか！」",
+    ("よーし、♂史燻も誘って、いっちょ繰り出すか！」",
     ""),
     # Okay, let's invite Masochi to smoke the squeals and start playing with the Ichi-chan!”
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Oh!"
 
-    ("｢｢という墲わけで、オ激レ、あかり、志保、♂史のいつ烽もの四人は、街に繰闌り出した。†",
+    ("｢｢という墲わけで、オレ、あかり、志保、♂史のいつ烽もの四人は、街に繰り出した。†",
     ""),
     # "So, the four members of Ikure, Akari, Shiho, and Masochist, went out to town.†
 

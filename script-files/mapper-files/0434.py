@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "That's good...
 
-    ("んじ痰ゃ、オ激レ焜も行くかな」",
+    ("んじ痰ゃ、オレ焜も行くかな」",
     ""),
     # I wonder if my phlegm will go too."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # This is the story of the image of the next woman who is the type that men would make their ideals.†
 
-    ("「｢｢でし蛯ょ〜？	男って墲わがままよねぇ」",
+    ("「｢｢でしょ〜？	男って墲わがままよねぇ」",
     ""),
     # "" "An slut? Men are selfish."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Ahhh? Do you say you like that?"
 
-    ("そう言うと、志保はオ激レのほうをｌいて、",
+    ("そう言うと、志保はオレのほうをｌいて、",
     ""),
     # When I said that, Shiho leaned over me,
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Don't say that, Ryo-Sai-cho?"
 
-    ("心なしかマジンった福口調の志保。",
+    ("心なしかマジンった口調の志保。",
     ""),
     # Shiho speaks in a heartless, humorous way.
 
@@ -70,19 +70,19 @@ text_array = [
     ""),
     # He looked over at Akari and looked at him with a vision of expectation until that moment.†
 
-    ("この質竡問はつまり…、遠ま墲わしに言ってるようだが、ズバ潟リ、ふたりのうちどっちかを選べと言ってるんだよな？",
+    ("この質竡問はつまり…、遠ま墲わしに言ってるようだが、ズバリ、ふたりのうちどっちかを選べと言ってるんだよな？",
     ""),
     # This quality question seems to be the case...I'm not too far away, but Zubagatari is telling you to choose which of the two of them, right?
 
-    ("オ激レは息を飲んだ。",
+    ("オレは息を飲んだ。",
     ""),
     # I took a breath.
 
-    ("ふたりはじっとオ激レを見つめてる。†",
+    ("ふたりはじっとオレを見つめてる。†",
     ""),
     # The two of them stare at me.†
 
-    ("諱よ〜し、ここらでハッキ潟リと言って竄やｂうじ痰ゃねえか。",
+    ("諱よ〜し、ここらでハッキリと言ってやうじ痰ゃねえか。",
     ""),
     # Okay, so I guess it's obvious that it's a bit of a sputum, and it's a bit of a sputum.
 

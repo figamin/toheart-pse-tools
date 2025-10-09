@@ -2,11 +2,11 @@
 # Source file: 0414.txt
 
 text_array = [
-    ("（志保	ノベ泣ルシーン）閨（選択綜	追いかけない）†",
+    ("（志保	ノベルシーン）閨（選択綜	追いかけない）†",
     ""),
     # (Shiho's novel crying scene) (Choose-so-so, don't chase)†
 
-    ("「…蛛大苟丈夫だって。明坙日になったらけｂっとしてるだｂ」",
+    ("「…蛛大苟丈夫だって。明坙日になったらけっとしてるだ」",
     ""),
     # "...You're strong. When it's Ming Shun, you're b."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Akari nodded small.‡
 
-    ("そして、オ激レたちは≠普通に帰った。◯",
+    ("そして、オレたちは≠普通に帰った。◯",
     ""),
     # And the others went back normally.◯
 

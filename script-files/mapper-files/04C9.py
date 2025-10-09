@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho Scales Event: Incoming Road 2) (Chooses: Parting)†
 
-    ("「じ痰ゃ、オ激レ帰驪る墲わ」",
+    ("「じ痰ゃ、オレ帰驪る墲わ」",
     ""),
     # "You're so excited, I'm going back to my heart."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hey, the story isn't over yet."
 
-    ("「オ激レ窿やっぱ急いでっから」",
+    ("「オレ窿やっぱ急いでっから」",
     ""),
     # "I'm really in a hurry after all."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I heard a loud noise from the attack after the attack, but I didn't follow him lol.
 
-    ("どうせくだらない用沫事だったんだｂ。◯",
+    ("どうせくだらない用沫事だったんだ。◯",
     ""),
     # It was just a silly splash b.◯
 

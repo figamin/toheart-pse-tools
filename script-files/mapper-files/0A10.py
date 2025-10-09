@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "It just happens. Ah, now ""
 
-    ("Ａ	見たいテ激レビで烽もあんのか？閨",
+    ("Ａ	見たいテレビで烽もあんのか？閨",
     ""),
     # A: Is there a hot movie that you want to watch with so much hotness?Relax
 

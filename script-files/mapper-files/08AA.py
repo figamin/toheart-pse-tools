@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Ahh."
 
-    ("彼濫女はオ激レに気づくと、にっこり微笑んだ。",
+    ("彼濫女はオレに気づくと、にっこり微笑んだ。",
     ""),
     # When the woman noticed me, she smiled and smiled.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
-    ("Ａ	いっし蛯ょに帰汲うと誘う。閨",
+    ("Ａ	いっしょに帰汲うと誘う。閨",
     ""),
     # A: When I return to Isshii, I invite him.Relax
 

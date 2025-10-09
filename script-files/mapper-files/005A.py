@@ -6,7 +6,7 @@ text_array = [
     ""),
     # 4/11 (Fri)†
 
-    ("竅やっと終尞わった。",
+    ("やっと終尞わった。",
     ""),
     # It's finally finished.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # It seems there's no one who knows.†
 
-    ("階段の下には生徒悼の艪御意見箱がある。",
+    ("階段の下には生徒悼の御意見箱がある。",
     ""),
     # Below the stairs is a box of comments to commemorate students.
 
-    ("諱よし、一般生徒の貴重な意見を入齠れといて竄やｂう。",
+    ("諱よし、一般生徒の貴重な意見を入齠れといてやう。",
     ""),
     # Okay, I'm going to send in valuable opinions from ordinary students and give them a try.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Ugh, what is it!?
 
-    ("竅停電か？†",
+    ("停電か？†",
     ""),
     # Is it a power outage?†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # I'll buy some more steamed meat on Ming Shun Day.
 
-    ("その繧後、キッチンで福口を艪ゆすいだ。◯",
+    ("その繧後、キッチンで口をゆすいだ。◯",
     ""),
     # After that, he shook Fukuguchi in the kitchen.◯
 

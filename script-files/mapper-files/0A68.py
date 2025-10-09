@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (A call out.)†
 
-    ("「諱よう。今厓日燗も竄やってんな」",
+    ("「諱よう。今厓日燗もやってんな」",
     ""),
     # "Let's be the one. You're also tampering with the sunkan right now."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Ah, kun!"
 
-    ("オ激レを見つけて微笑む揩理女緒ち痰ゃん。",
+    ("オレを見つけて微笑む揩理女緒ち痰ゃん。",
     ""),
     # I found a hardcore girl and smiled.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "What, what advice?"
 
-    ("「氏落ちｒいて、少しずつで烽も揩理解しｂって。",
+    ("「氏落ちｒいて、少しずつで烽も揩理解しって。",
     ""),
     # "I'm not going to get any more understanding of the hot weather, little by little.
 
-    ("私、言甯われたとおりに竄やったの。そしたら、いつ烽もよりよかった感じがするの」",
+    ("私、言甯われたとおりにやったの。そしたら、いつ烽もよりよかった感じがするの」",
     ""),
     # I did as I was told.Then, when will it feel better than hot?
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # On the other hand, it's falling down.†
 
-    ("「とこｂで、今厓日燗も教えて烽もらえるかな？」",
+    ("「とこで、今厓日燗も教えて烽もらえるかな？」",
     ""),
     # "At b, can you tell me about the sun-canceling weather now and get some hot spring?"
 
-    ("「增わかる範囲でいいならな」",
+    ("「わかる範囲でいいならな」",
     ""),
     # "I guess it's fine as far as I can understand."
 
@@ -74,16 +74,16 @@ text_array = [
     ""),
     # It'll help."
 
-    ("「たぶん、なんの役に烽も立たねーだｂうけど」†",
+    ("「たぶん、なんの役に烽も立たねーだうけど」†",
     ""),
     # "I think it's probably not a hit for anything."
 
-    ("「そんなことないよ、竅絶対！」",
+    ("「そんなことないよ、絶対！」",
     ""),
     # "That's not true, Absolutely!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("きっぱりと否阡定された。",
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # I see, isn't that?†
 
-    ("しかし、なに艪ゆえ、ここまで盲目的に信叶頼されてるんだｂ。",
+    ("しかし、なにゆえ、ここまで盲目的に信叶頼されてるんだ。",
     ""),
     # However, why are you being so blindly asked to be trusted?
 
-    ("オ激レの不甲纃斐なさは、オ激レ自身が一番謾よく知ってるからな。",
+    ("オレの不甲纃斐なさは、オレ自身が一番謾よく知ってるからな。",
     ""),
     # I know my own lack of power because I know the most about my lack of power.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Mingshun Day is Cao Guang-gang."
 
-    ("「古文と漢嚏字だけ勉強してり痰ゃいいだｂ」",
+    ("「古文と漢嚏字だけ勉強してり痰ゃいいだ」",
     ""),
     # "I only study classical Japanese and Chinese characters and just phlegm."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "What about the current country?"
 
-    ("「あんなのはセンス命。いまさら勉強しようがねーだｂ」†",
+    ("「あんなのはセンス命。いまさら勉強しようがねーだ」†",
     ""),
     # "That's what I mean by life. I can't study now b" †
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "I'm not smart"
 
-    ("「′き不阜きだって。オ激レなんかよく先生に言甯われるぜ？	お前は現糟国だけは点がいいなって」",
+    ("「′き不阜きだって。オレなんかよく先生に言甯われるぜ？	お前は現糟国だけは点がいいなって」",
     ""),
     # "You're so unfair. My teacher often tells me, right? You're the only one who has good points in the current country."
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Wow, that's amazing" †
 
-    ("「まあ、裏を返せば、古文笊や漢文熾も勉強しｂってことなんだけどさ」",
+    ("「まあ、裏を返せば、古文笊や漢文熾も勉強しってことなんだけどさ」",
     ""),
     # "Well, on the other hand, I'm also studying classical Japanese and Chinese fierce."
 
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # Is it phlegm back to normal?†
 
-    ("「竅やっぱりすごいんだ〜、くんって。そっか、センスかぁ。いいなあ」",
+    ("「やっぱりすごいんだ〜、くんって。そっか、センスかぁ。いいなあ」",
     ""),
     # "As expected, you're amazing, kun. I see, your taste. That's good."
 
-    ("「そんな、物みたいに言うなよ。それに、人の烽ものばっかりうら竄やましがってち痰ゃダ＜メだと思うぜ」",
+    ("「そんな、物みたいに言うなよ。それに、人の烽ものばっかりうらやましがってち痰ゃダ＜メだと思うぜ」",
     ""),
     # "Don't say something like that. Also, I think it's a shame that you're just envious of people's hot things."
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "?"
 
-    ("「竅やっぱさ、自分の烽もので勝縁負しなき痰ゃ」†",
+    ("「やっぱさ、自分の烽もので勝縁負しなき痰ゃ」†",
     ""),
     # "After all, I have to bear the phlegm that won't be able to win with my own hot stuff" †
 
-    ("「あっ。お母さん烽も言ってた。隣の家の芝生は青くてきれいに見えるけど、′こうから見たら、こっちの福方熾もきれいに見えるんだって」",
+    ("「あっ。お母さん烽も言ってた。隣の家の芝生は青くてきれいに見えるけど、′こうから見たら、こっちの方熾もきれいに見えるんだって」",
     ""),
     # "Ah. Mom Ho said that, the grass next door looks beautiful and blue, but from this point on, Fukukata Teir looks beautiful too."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "ah.
 
-    ("理女緒ち痰ゃんには揩理女緒ち痰ゃんの取闔り柄みたいのがあるだｂ？	それで勝縁負すり痰ゃいんだよ」†",
+    ("理女緒ち痰ゃんには揩理女緒ち痰ゃんの取闔り柄みたいのがあるだ？	それで勝縁負すり痰ゃいんだよ」†",
     ""),
     # Is there something like a pattern in Rimo Ochi Sphinja that looks like a character in Rimo Ochi Sphinja that?That's why I'm so grateful for the victory."
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "poor?"
 
-    ("「い竄や、あの、その…。が、学力笳やセンスが貧乏で烽も、それで烽も偉くなった人はいるってこと」",
+    ("「いや、あの、その…。が、学力笳やセンスが貧乏で烽も、それで烽も偉くなった人はいるってこと」",
     ""),
     # "Tsniff, um, um... But there are people who have poor academic ability and sense, and have become even more powerful because they have become more important to them."
 
@@ -222,11 +222,11 @@ text_array = [
     ""),
     # "You're saying good things"
 
-    ("「ひ蛯ょっとしたら、勉強ができなくと烽も、社長さん竄や学者さんになれた人がいるか烽もしれない烽もんね！」",
+    ("「ひょっとしたら、勉強ができなくと烽も、社長さんや学者さんになれた人がいるか烽もしれない烽もんね！」",
     ""),
     # "I think it's impossible to study, but I guess there's someone who has been able to become a president or a scholar, and it's a hot topic that can't be helped!"
 
-    ("「い竄や…。社長はと烽もかく、学者はいねーと思うぜ」",
+    ("「いや…。社長はと烽もかく、学者はいねーと思うぜ」",
     ""),
     # "It's a mess... I don't think there's a lot of the president, and there's no scholar."
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "I'm already a scholar and I'm not sure why are you sputum with hot water, that's what sputum?"
 
-    ("「あ、增わかった。学力の関係ない研結葛所！」",
+    ("「あ、わかった。学力の関係ない研結葛所！」",
     ""),
     # "Ah, I understand. Kenyukusho, which is irrelevant to academic ability!"
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Don't look for it" †
 
-    ("けっき蛯ょく、そんな雑談で桙時間は過ぎて、°体的な烽内容にはほとんど触齔れずに終尞わってしまった。◯",
+    ("けっきょく、そんな雑談で桙時間は過ぎて、°体的な烽内容にはほとんど触齔れずに終尞わってしまった。◯",
     ""),
     # At first, the chatting time passed, and I was left without much touching the physical content.◯
 

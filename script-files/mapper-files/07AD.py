@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone Scales Event PS) (Chounen Jishoyaana)†
 
-    ("「っつー增わけで、じ痰ゃあな」",
+    ("「っつーわけで、じ痰ゃあな」",
     ""),
     # "That's why, it's a phlegm."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Ah, yes. Good luck."
 
-    ("軽く手を振髏ると、琴音ち痰ゃんはち蛯ょこんと頭を下げた。◯",
+    ("軽く手を振髏ると、琴音ち痰ゃんはちょこんと頭を下げた。◯",
     ""),
     # He waved his hand lightly and bowed his head.◯
 

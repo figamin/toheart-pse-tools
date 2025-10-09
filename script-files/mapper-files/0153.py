@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Akari Likeability Event 6.1) (Select B: "Shoku" with a smile on his face)†
 
-    ("「じ痰ゃあ、オ激レ、もう帰驪る墲わ」",
+    ("「じ痰ゃあ、オレ、もう帰驪る墲わ」",
     ""),
     # "Ah, my slut, I'm already back."
 
-    ("オ激レは笑迴顔で言った。",
+    ("オレは笑迴顔で言った。",
     ""),
     # I said with a laughing face.
 
-    ("「あっ、浴送髑るよ」",
+    ("「あっ、浴送るよ」",
     ""),
     # "Ah, I'll take a bath."
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "It's fine, it's fine."
 
-    ("そう言って起き繧上がｂうとするあかりを、オ激レは手で制した。",
+    ("そう言って起き繧上がうとするあかりを、オレは手で制した。",
     ""),
     # With that in mind, Akari woke up and tried to b, but I won with my hand.
 
-    ("「そのまま寝てｂよ。",
+    ("「そのまま寝てよ。",
     ""),
     # "Just go to sleep just like that.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "…yes?"†
 
-    ("オ激レは唐鞄を取って立ち繧上がった。",
+    ("オレは鞄を取って立ち繧上がった。",
     ""),
     # I took a kara bag and stood up.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "...Yeah. Thank you."
 
-    ("微笑んで軽く手を繧上げると、オ激レはあかりの部屋を出た。＊",
+    ("微笑んで軽く手を繧上げると、オレはあかりの部屋を出た。＊",
     ""),
     # I smiled and lightly lifted my hands, and my gut left Akari's room.*
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # I'm friends, but I can't help but feel phlegm between my lovers.
 
-    ("それが、オ激レとあかりの、微妙であいまいな関係なんだ。",
+    ("それが、オレとあかりの、微妙であいまいな関係なんだ。",
     ""),
     # That's the subtle and ambiguous relationship between me and Akari.
 

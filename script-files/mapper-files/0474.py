@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho Scales Event PS) (Selection So Iize)†
 
-    ("「いいぜ。あの店のアイスはオ激レ焜も汲結構気に入ってるからな」",
+    ("「いいぜ。あの店のアイスはオレ焜も汲結構気に入ってるからな」",
     ""),
     # "That's fine. I really like the ice cream at that restaurant."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Oh, marinade."
 
-    ("オ激レたち二人はアイス屋に足をｌけた。†",
+    ("オレたち二人はアイス屋に足をｌけた。†",
     ""),
     # The two of us went to the ice cream shop.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Ahhh... there's no one hot spring, isn't there? Can you eat hot springs like that?"
 
-    ("「とーこｂがどっこいし蛯ょ、これで汲結構評判いいのよね」",
+    ("「とーこがどっこいしょ、これで汲結構評判いいのよね」",
     ""),
     # "Toko b is so cute, and I've got a pretty good reputation for this."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "...I think I should have had no phlegms to listen to."
 
-    ("「なに言ってんのよ。聞いてなき痰ゃ、カウンターで固まっち痰ゃうとこｂよ？」",
+    ("「なに言ってんのよ。聞いてなき痰ゃ、カウンターで固まっち痰ゃうとこよ？」",
     ""),
     # "What are you talking about? You don't listen to it, you're a phlegm that hardens at the counter, right?"
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "That's right, but..."
 
-    ("「諱先にｌめておいた福方がいい墲わよ？	どれにする？」",
+    ("「諱先にｌめておいた方がいい墲わよ？	どれにする？」",
     ""),
     # "The lucky one you've given at the beginning is better, right? Which one will you choose?"
 
-    ("「オ激レ、竅やっぱパス」",
+    ("「オレ、やっぱパス」",
     ""),
     # "I'm really, really pass."
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "Da<Meda<Me. You can't escape anymore. If that's the case, then I'll choose a phlegm?"
 
-    ("「增わーったよ、こーなったら破齡れかぶれだ」",
+    ("「わーったよ、こーなったら破齡れかぶれだ」",
     ""),
     # "I'm back, I'm going to break down in this situation."
 
-    ("「バッカでぇ、たかがアイスに蛯大げさな」",
+    ("「バッカでぇ、たかがアイスに大げさな」",
     ""),
     # "Bacca, it's just a big slut on ice cream."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "So, what are you going to eat to get a rash?"
 
-    ("オ激レが食べるのは｢｢。",
+    ("オレが食べるのは｢｢。",
     ""),
     # What I eat is ".
 

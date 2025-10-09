@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Aoi Likeability Event 1 After Selection B)†
 
-    ("「そり痰ゃ多いな、太髑るぞ〜」",
+    ("「そり痰ゃ多いな、太るぞ〜」",
     ""),
     # "There's a lot of phlegm, I'll skull it!"
 
-    ("からかうようにオ激レは言った。",
+    ("からかうようにオレは言った。",
     ""),
     # Teasingly, I said.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # Aoi Chisho-yan looks embarrassed and falls into the air.†
 
-    ("「いちど太っちまうと、縺後が蛯大変だぞぉ〜。とくに翌女の子のダイエットは入しいっていうからな」",
+    ("「いちど太っちまうと、縺後が大変だぞぉ〜。とくに翌女の子のダイエットは入しいっていうからな」",
     ""),
     # "If you get fat once, it's going to be tough afterwards. Especially since the next girl's diet is something you'll need."
 
-    ("「…竅や、竅やっぱりそうでし蛯ょうか」",
+    ("「…や、やっぱりそうでしょうか」",
     ""),
     # "...I guess so, I guess so, I'll just say it."
 
@@ -35,10 +35,10 @@ text_array = [
     # "I don't know much about it though."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("すると、葵ち痰ゃんはなに竄やら深署刻な表﨣情で考え桙込んでしまった。†",
+    ("すると、葵ち痰ゃんはなにやら深署刻な表﨣情で考え桙込んでしまった。†",
     ""),
     # Then, Aoi Chisho-yan was frustrated with all the tampering and serious police-like feelings.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Puh...!"
 
-    ("思寬わず≠吹き出す、オ激レ。",
+    ("思寬わず≠吹き出す、オレ。",
     ""),
     # Without thinking, I started ≠ sighing, I was so excited.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "picture"
 
-    ("「それくらいちっと烽も多くないさ。葵ち痰ゃんは運動笂やってんだから、少ないくらいだｂ」†",
+    ("「それくらいちっと烽も多くないさ。葵ち痰ゃんは運動笂やってんだから、少ないくらいだ」†",
     ""),
     # "There aren't that many hotpots. Aoi Chishonan is doing exercise horns, so it's not too many." †
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Ah, um..."
 
-    ("「はは、し蛯ょうがねーな。だいたい葵ち痰ゃんは格闘家なんだから、もっといっぱい食べて、体力つけなくち痰ゃいけないだｂ」",
+    ("「はは、しょうがねーな。だいたい葵ち痰ゃんは格闘家なんだから、もっといっぱい食べて、体力つけなくち痰ゃいけないだ」",
     ""),
     # "Haha, there's no slut. Aoi Chisho-chan is usually a martial artist, so I have to eat more and get more physically."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Yeah, that's true..."
 
-    ("「蛛大苟丈夫。運動してり痰ゃ、そうそう太ったりしないって。さっきは、ち蛯ょっとからかっただけさ」",
+    ("「蛛大苟丈夫。運動してり痰ゃ、そうそう太ったりしないって。さっきは、ちょっとからかっただけさ」",
     ""),
     # "Dragonfly is strong. If you exercise, you won't get fat much. I just teased you a little earlier."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan blinked his big eyes.
 
-    ("そしてよう竄やくオ激レの言葉を揩理解する。†",
+    ("そしてようやくオレの言葉を揩理解する。†",
     ""),
     # And I understand my words as I stolen.†
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # "Ahhh, senpai, that's terrible!"
 
-    ("葵ち痰ゃんは、照齒れたような、怒ったような、笑ったような複雑な表﨣情で、ポクポクとオ激レの胸を叩いた。†",
+    ("葵ち痰ゃんは、照齒れたような、怒ったような、笑ったような複雑な表﨣情で、ポクポクとオレの胸を叩いた。†",
     ""),
     # Aoi Chisho-yan pounded my heart with a complicated, illusion, angry, laughing, and pounding.†
 
-    ("「…增わはは、ゴ＜メンゴ＜メン！	增わはははは、ぐふっ」",
+    ("「…わはは、ゴ＜メンゴ＜メン！	わはははは、ぐふっ」",
     ""),
     # "...Bigwahaha, gomengo<mengo<men!Bigwahahaha, gufu."
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # Well, that's impressive.†
 
-    ("その繧後、オ激レと葵ち痰ゃんは、楽しくいっし蛯ょに汲昼£メシを食べた。",
+    ("その繧後、オレと葵ち痰ゃんは、楽しくいっしょに汲昼£メシを食べた。",
     ""),
     # After that, I and Aoi Chisho-yan happily ate lunch meals with the slut.
 

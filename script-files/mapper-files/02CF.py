@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I'll even greet you.†
 
-    ("オ激レはｒ鋳に出て、諱先輩が座ってるベンチへと近づいた。",
+    ("オレはｒ鋳に出て、諱先輩が座ってるベンチへと近づいた。",
     ""),
     # Ogere went to the R-casting and approached the bench where Senpai was sitting.
 
@@ -27,7 +27,7 @@ text_array = [
     # "Let's be your name, Senpai" ◯
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("声に気がつき、諱先輩はこっちを見た。",
@@ -42,12 +42,12 @@ text_array = [
     ""),
     # "What are you doing, Senpai? Hinata basking?"
 
-    ("オ激レがたずねると、",
+    ("オレがたずねると、",
     ""),
     # When I asked,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は、迎えの車がｗ磯翌ﾜで待ってます、と嘯答えた。†",
@@ -70,31 +70,31 @@ text_array = [
     ""),
     # "By the way, I'm a senior student. How was the test?"
 
-    ("オ激レが聞くと、諱先輩は、",
+    ("オレが聞くと、諱先輩は、",
     ""),
     # When I heard, my senior was
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("はい、好調です、と嘯答えた。†",
     ""),
     # Yes, he replied.†
 
-    ("「好調か。うら竄やましいなあ」",
+    ("「好調か。うらやましいなあ」",
     ""),
     # "Are you doing well? I'm jealous."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	オ激レ？	オ激レは｢｢」",
+    ("「え？	オレ？	オレは｢｢」",
     ""),
     # "Huh? I'm so excited? I'm so excited
 
-    ("Ａ	堰ラクシ㏍ョーだぜ！閨",
+    ("Ａ	堰ラクショーだぜ！閨",
     ""),
     # A The weir is easy!Relax
 

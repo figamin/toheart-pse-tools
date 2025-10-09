@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho Scales Event, 2nd floor 2) (Choose So, that's right)†
 
-    ("「そうだな。オ激レは奄初めてだし」",
+    ("「そうだな。オレは奄初めてだし」",
     ""),
     # "That's right. It's my first time in Amami."
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "Da<Meda<Me. There's no way you'll find a delicious restaurant in your first town."
 
-    ("「そうは言うけどな、実際行ってみねーと墲わかんねーだｂ」",
+    ("「そうは言うけどな、実際行ってみねーと墲わかんねーだ」",
     ""),
     # "That's what I say, but I don't know if I actually go."
 
-    ("「甘い甘い。だいたい、北海道と聞いてまず食べ物なんて、シ鴻ロート焜もいいとこ。北海道の醍岺醐味はズバ潟リ、蛛大自然鞫よ」†",
+    ("「甘い甘い。だいたい、北海道と聞いてまず食べ物なんて、シ鴻ロート焜もいいとこ。北海道の醍岺醐味はズバリ、蛛大自然鞫よ」†",
     ""),
     # "Sweet and sweet. When you hear about Hokkaido, the first thing you can do is to eat, but Shikoroth is also a good place. The best part of Hokkaido is Zubarari, the great natural tan."
 
-    ("「お前の福口から、諱よく『轣醍岺醐味は蛯大自然』なんて言葉が出髀る烽もんだ。ホントは食いたいんだｂ？	毛ガニ宴ラー＝メンとかさ」",
+    ("「お前の口から、諱よく『轣醍岺醐味は大自然』なんて言葉が出髀る烽もんだ。ホントは食いたいんだ？	毛ガニラー＝メンとかさ」",
     ""),
     # "Your Fukuguchi often hears the words, "The best part of the daisy is the great nature of the ecchi." Do you really want to eat it? A hair crab banquet ramen, etc."
 
@@ -38,23 +38,23 @@ text_array = [
     ""),
     # "That's secondary.
 
-    ("例えばぁ『摩鮪湖まし繧ゅうこ』とか『冝釧路湿原』とかの雄蝸大な蛯大自然を、心行くまでエンジ㏍ョイするのが北海道の楽しみ福方って烽もんよ」†",
+    ("例えばぁ『摩鮪湖まし繧ゅうこ』とか『冝釧路湿原』とかの雄蝸大な大自然を、心行くまでエンジョイするのが北海道の楽しみ方って烽もんよ」†",
     ""),
     # For example, Hokkaido's fun and fortune is to thrive on the huge nature of the majestic nature of Lake Masumi and Kushiro Wetlands to the heart of your heart."
 
-    ("「なにが北海道の楽しみ福方だ。お前の今言った場鰹所は、たしか修学旅行のコースに入っていないぜ？」",
+    ("「なにが北海道の楽しみ方だ。お前の今言った場鰹所は、たしか修学旅行のコースに入っていないぜ？」",
     ""),
     # "What is the fun and fortune-telling style of Hokkaido? The bonito spot you just mentioned is probably not on the school trip course?"
 
-    ("「た・と・え・ば、の話譏よ！	あたしたちの見に行く自然は、『洞齠爺湖とう竄やこ』とか『昭和新山』とかがあった墲わよね？	充分に自然を桙満喫できる墲わよ」†",
+    ("「た・と・え・ば、の話譏よ！	あたしたちの見に行く自然は、『洞齠爺湖とうやこ』とか『昭和新山』とかがあった墲わよね？	充分に自然を桙満喫できる墲わよ」†",
     ""),
     # "A tale of a saga! The nature we go to see is the ones where there are "Dong Yang Lake and the Tale of the Showa Shinzan" or "Showa Shinzan"? You can fully enjoy nature."
 
-    ("「自然が綺淏麗なのは墲わかるけどな、なんつーか、もっと体に直接伝崧わってくるようなｂモノじ痰ゃねーと」",
+    ("「自然が綺淏麗なのは墲わかるけどな、なんつーか、もっと体に直接伝崧わってくるようなモノじ痰ゃねーと」",
     ""),
     # "I can see that nature is beautiful, but I have to have b-sex that is more directly transmitted to my body."
 
-    ("「それが毛ガニ宴ラー＝メン？	まだまだガキね。食べ物しか目に入逑らないなんてさ、どっかのＯＬとかおばさん連中とかと同じじ痰ゃないの」†",
+    ("「それが毛ガニラー＝メン？	まだまだガキね。食べ物しか目に入逑らないなんてさ、どっかのＯＬとかおばさん連中とかと同じじ痰ゃないの」†",
     ""),
     # "Is that the hairy crab banquet ladies? You're still kidding. You only get to see food, just like office ladies and aunts."†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "You're the one who looks at nature, which has no flavour or frivolity, and enjoys it."
 
-    ("…オ激レと志保って、ことごとく意見が対立するよな。◯",
+    ("…オレと志保って、ことごとく意見が対立するよな。◯",
     ""),
     # ...I'm really excited and Shiho, and all of our opinions are in conflict.◯
 

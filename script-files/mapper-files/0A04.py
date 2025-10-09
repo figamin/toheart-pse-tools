@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What, is it for something?"
 
-    ("「おまえじ痰ゃない、諱よこの竄やつだ」",
+    ("「おまえじ痰ゃない、諱よこのやつだ」",
     ""),
     # "You have no phlegm, you're the one who's tampering with me."
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # However, I-Shin is a light and easy-to-love with pure footwork trained in soccer.†
 
-    ("「增わ、びっくりした」",
+    ("「わ、びっくりした」",
     ""),
     # "Ah, I was surprised."
 
-    ("「竅やい、こら、諱よけるな！」",
+    ("「やい、こら、諱よけるな！」",
     ""),
     # "I'll stop you, I'll avoid this!"
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Don't avoid it..."
 
-    ("「こんどはひっさつ『ド潟リ泣ルおでんキック』だ！」",
+    ("「こんどはひっさつ『ドリルおでんキック』だ！」",
     ""),
     # "This time it's a "Stick Oden Kick"!"
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # But I-Hisashi did not die.
 
-    ("必殺の『ド潟リ泣ルおでんキック』が炸裂するより前に、オ激レが首根っこをつかんだからだ。",
+    ("必殺の『ドリルおでんキック』が炸裂するより前に、オレが首根っこをつかんだからだ。",
     ""),
     # This is because before my deadly "Dogatari Oden Kick" exploded, I grabbed my neck.
 
@@ -118,15 +118,15 @@ text_array = [
     ""),
     # "Now, this one!" †
 
-    ("「おーおー、勇ましいガキンチ㏍ョだな」",
+    ("「おーおー、勇ましいガキンチョだな」",
     ""),
     # "Ohhh, you're a brave kid."
 
-    ("「は竄やくはなさないと、おまえ烽もいっし蛯ょにたおすぞ！」",
+    ("「はやくはなさないと、おまえ烽もいっしょにたおすぞ！」",
     ""),
     # "If you don't tamper with it, I'll defeat you, too!"
 
-    ("チビはそう言いながらオ激レのスネを蹴ってきた。",
+    ("チビはそう言いながらオレのスネを蹴ってきた。",
     ""),
     # Little said this and kicked my hardcore shin.
 

@@ -2,15 +2,15 @@
 # Source file: 038C.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオ激レについてｗ育翌鉤ｂるならな！）閨（選択綜Ｃ	ふたりと烽も蛯大苟丈夫か？）閨（の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ｃ	ふたりと烽も大苟丈夫か？）閨（の続き）†",
     ""),
     # (Tomoko's Scales Event: Leaving School LV2) (Choice Sou A about this Ogiri LOL, if you're going to get the next Haunted!) (Choice Sou C: Are the two and the Hoods strong too?) (Continued)†
 
-    ("「ふたりと烽も蛯大苟丈夫か？」",
+    ("「ふたりと烽も大苟丈夫か？」",
     ""),
     # "Are the two and the hot springs strong too?"
 
-    ("そう言って、オ激レはふたりに近づいた。",
+    ("そう言って、オレはふたりに近づいた。",
     ""),
     # With that in mind, I approached the two of them.
 
@@ -19,7 +19,7 @@ text_array = [
     # "...Ahhhh."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("あかりは涙目で頭を押さえ、保科は痛いより、巻き桙込まれたことに腹を立てている様子だった。†",
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Are you getting injured?"
 
-    ("「あんたのほうこそ目に涙ｗ浮かべて、諱よっぽど痛そう竄やないか」",
+    ("「あんたのほうこそ目に涙ｗ浮かべて、諱よっぽど痛そうやないか」",
     ""),
     # "You're the ones who are in your eyes, tears are in your eyes, and you're probably tampering with your true self."
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # Akari hurriedly rubbed her eyes.
 
-    ("そこでオ激レがр割って入體る。†",
+    ("そこでオレがр割って入體る。†",
     ""),
     # That's when I got into it.†
 
-    ("「えっと、保科だっけ？	悪ぃーけど、こいつを怒逑らねーで竄やってくんねーか。どう竄やら、オ激レがおどかしたのが原因辷らしいから」",
+    ("「えっと、保科だっけ？	悪ぃーけど、こいつを怒逑らねーでやってくんねーか。どうやら、オレがおどかしたのが原因辷らしいから」",
     ""),
     # "Um, is it Hoshina? It's bad, but you're going to tamper with this guy without getting mad at him. Apparently it's because it's the reason why I was so frightened."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Then Hoshina
 
-    ("「べつに怒ってない。これからは、ま墲わりに気いつけ竄や」",
+    ("「べつに怒ってない。これからは、ま墲わりに気いつけや」",
     ""),
     # "I'm not particularly angry. From now on, I'll be taking care of myself."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Uhh... I'll apologize again."
 
-    ("結局その冾日は、あかりといっし蛯ょに帰った。◯",
+    ("結局その冾日は、あかりといっしょに帰った。◯",
     ""),
     # In the end, he returned to Akari and Ebi.◯
 

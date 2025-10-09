@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari Likeability Event 1.1) (When Likeability is 7 or higher) (Lesson basis for the fourth frame time) (Lesson basis) (Lesson basis)†
 
-    ("轣育ち盛關りのｂ高校男子にとって、この汲昼£メシ前の４桙時間目は苦行に近い烽ものがある。",
+    ("轣育ち盛關りの高校男子にとって、この汲昼£メシ前の４桙時間目は苦行に近い烽ものがある。",
     ""),
     # For boys in high school who are raised and are well-bred, this fourth-game time before lunchtime is almost like a penance.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Anyway, let's hope that the lionworm on its belly does not squeal.
 
-    ("さすがにこればっかりは、努力笳や根性ではどうにかなる竄問阮題ではないからな。",
+    ("さすがにこればっかりは、努力笳や根性ではどうにかなる問題ではないからな。",
     ""),
     # Of course, this isn't a problem that can be tampered with effort or determination.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It would be awful if the hot springs were heard when the lesson was being held.
 
-    ("ク宴ラスヲにただで笑いを提汳供しちまう。†",
+    ("クラスヲにただで笑いを提汳供しちまう。†",
     ""),
     # We offer free laughter to the banquet.†
 

@@ -2,7 +2,7 @@
 # Source file: 0B1F.txt
 
 text_array = [
-    ("（綾∴香	好感度イベント４）閨（綾∴香	バト泣ルポイント	１以繹上）閨（驕夜イベントの前）閨（自分の部屋）†",
+    ("（綾∴香	好感度イベント４）閨（綾∴香	バトルポイント	１以繹上）閨（驕夜イベントの前）閨（自分の部屋）†",
     ""),
     # (Aya∴Ka, Likeability Event 4) (Aya∴Ka, Battle Cry Point, 1 or more) (Before the Night Event) (My room)†
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # I never thought he was that strong...†
 
-    ("いくら空闍手を竄やってたとはいえ、し蛯ょせんは翌女の子。",
+    ("いくら空闍手をやってたとはいえ、しょせんは翌女の子。",
     ""),
     # No matter how much he was doing the same thing, the girl was the next girl.
 
-    ("男のオ激レが本気で竄やれば、どうにかなると思っていたが…。",
+    ("男のオレが本気でやれば、どうにかなると思っていたが…。",
     ""),
     # I thought it would be possible if a man was seriously tampered with, but...
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # Damn it, it was sweet.
 
-    ("く竄やしいが、あの強さは本物だ。",
+    ("くやしいが、あの強さは本物だ。",
     ""),
     # It's tampering, but that strength is real.
 
-    ("素人じ痰ゃとて烽も太¢打ちでき竄やしない。†",
+    ("素人じ痰ゃとて烽も太¢打ちできやしない。†",
     ""),
     # Even amateurs can sputum and even sputum can be used to smash them with thick slurping effects.†
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # I thought that if you can make one hit, you'll win, but I thought that the first one would win, but it's a different story.
 
-    ("真に繧上闖手いрヤツ潟相闡手には、堰ラッキーヒットすらあり得ない。",
+    ("真に繧上闖手いрヤツ相闡手には、堰ラッキーヒットすらあり得ない。",
     ""),
     # It's impossible for a truly talented person to have a lucky hit.
 
-    ("素人パンチなんざ竄絶対に烽もら墲わない自信があり竄やがる。",
+    ("素人パンチなんざ絶対に烽もら墲わない自信がありやがる。",
     ""),
     # He is confident that he will never be able to stomp amateur punches.
 
-    ("磨事実、磨当たらないしな。†",
+    ("事実、当たらないしな。†",
     ""),
     # The fact that it is polished doesn't get polished.†
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # If so, there's just special training.
 
-    ("一朝齟一夕でどうにかなる烽もので烽もないが、竅やらないよりはマシだｂう。",
+    ("一朝一夕でどうにかなる烽もので烽もないが、やらないよりはマシだう。",
     ""),
     # One day, there's a hot spring that can be solved by just one evening, but it's better than not doing it.
 
-    ("諱よし、浴風呂入體る前に、いっち蛯ょ竄やるか。†",
+    ("諱よし、浴風呂入體る前に、いっちょやるか。†",
     ""),
     # Okay, I wonder if I'll squeal before I take a bath.†
 

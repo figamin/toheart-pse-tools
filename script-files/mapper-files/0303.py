@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Chiko's first event) (4th 9th day of the month, $young, skull) (Always occur) (Classroom for the first time) †
 
-    ("その冾日の１桙時間目、つまり新しいク宴ラスでの最燕初の授業はホーム泣ルームだった。",
+    ("その冾日の１桙時間目、つまり新しいクラスでの最燕初の授業はホームルームだった。",
     ""),
     # The first lesson on that day was the first time, that is, the new banquet, was at the Home Cry Room.
 
-    ("新しいク宴ラス担任の、木林譌先生が言う。†",
+    ("新しいクラス担任の、木林譌先生が言う。†",
     ""),
     # Mr. Kibayashi Misao, the new homeroom teacher at the banquet, said:†
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "All right, let's start by doing a simple introduction to each of these self-introductions at a time. Let's go from that side in order of number."†
 
-    ("そんな墲わけで、し蛯ょっぱなは、生徒たちのし蛯ょーもない自己紹譓介を聞かされた。",
+    ("そんな墲わけで、しょっぱなは、生徒たちのしょーもない自己紹譓介を聞かされた。",
     ""),
     # For this reason, the students were told about their rude self-introductions.
 
-    ("名前、氏去年のク宴ラス、梶所属している部賦動、℃味なんかを簡炎潔にひとことずつ言っていく。†",
+    ("名前、氏去年のクラス、梶所属している部賦動、℃味なんかを簡炎潔にひとことずつ言っていく。†",
     ""),
     # He says things like his name, last year's Celebrity, the club he belongs to, and the ℃ flavor.†
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # Masochi has no phlegm for those who are grossed in order to get such a hit.
 
-    ("いま烽も愛想笑いなんか返してるけど、多分本人はなんで笑尞われてるのか、增わかってないに痰違いない。",
+    ("いま烽も愛想笑いなんか返してるけど、多分本人はなんで笑尞われてるのか、わかってないに痰違いない。",
     ""),
     # Right now, Hou is smiling politely, but I guess he doesn't understand why he's laughing at him, so it's pretty sure he's phlegmy.
 
-    ("昔から微妙にズ激レたとこｂがあるんだよな、♂史って。†",
+    ("昔から微妙にズレたとこがあるんだよな、♂史って。†",
     ""),
     # There have been some places where Masochist has been a bit of a slutty thing for a long time.†
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # I'm sure he's been keeping a stool for a long time ever since he was in kindergarten, so he's still not sputum.
 
-    ("そんな墲わけだから、小学校の桙時分は、＊鰯哩煙まって飼邇育係を竄やらされていた烽もんだ。",
+    ("そんな墲わけだから、小学校の桙時分は、＊鰯哩煙まって飼邇育係をやらされていた烽もんだ。",
     ""),
     # For this reason, the elementary school's baits were those who had been forced to tamper with the caves of the caves.
 
-    ("などと考えているうちに、いよいよオ激レの番が回ってきた。†",
+    ("などと考えているうちに、いよいよオレの番が回ってきた。†",
     ""),
     # As I was thinking about this, it was finally my turn to be a real person.†
 
@@ -102,15 +102,15 @@ text_array = [
     ""),
     # Now, what should I say?
 
-    ("Ａ	「うっす、だ。みんな、一年間㈱仲良くしようぜ」とフ激レンド潟リーにいく。閨",
+    ("Ａ	「うっす、だ。みんな、一年間㈱仲良くしようぜ」とフレンドリーにいく。閨",
     ""),
     # A: "Oh, that's it. Let's all become friends for a year," he said to the FUGRENDGATARI.Relax
 
-    ("Ｂ	「うーす、っす。諱よｂしく」とナチャ宴ラ泣ルにいく。閨",
+    ("Ｂ	「うーす、っす。諱よしく」とナチャラルにいく。閨",
     ""),
     # B: "Uh, that's right. I'm happy to hear you," he goes to Nacha's banquet and crying.Relax
 
-    ("Ｃ	「です。諱よｂしくお願いします」と無俣にいく。閨",
+    ("Ｃ	「です。諱よしくお願いします」と無俣にいく。閨",
     ""),
     # C: "That's right. Please give me your name," he said to Mumata.Relax
 

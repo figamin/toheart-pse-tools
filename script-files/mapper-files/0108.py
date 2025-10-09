@@ -10,11 +10,11 @@ text_array = [
     ""),
     # I went home and ate the bento that I bought at a convenience store.
 
-    ("そして、午繻後２桙時ごｂ。",
+    ("そして、午後２桙時ご。",
     ""),
     # And then there was two b after the morning.
 
-    ("そｂそｂあかりがｗ磯翌髷ｎ條ﾔだ。",
+    ("そそあかりがｗ磯翌髷ｎ條ﾔだ。",
     ""),
     # That's b, that's b, that's b, lol Isoha is the one who will win the next day.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yeah, I'm going to have my phlegm."
 
-    ("あかりは脱いだ靴をきちんとそｂえ、家に繧上がった。◯",
+    ("あかりは脱いだ靴をきちんとそえ、家に繧上がった。◯",
     ""),
     # Akari put on her undressed shoes and sailed up at home.◯
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Was he good at Korean language?”
 
-    ("「得意じ痰ゃねーけど、苦闍手って墲わけで烽もないかな。ある程度アド潟リブが通用するし」†",
+    ("「得意じ痰ゃねーけど、苦闍手って墲わけで烽もないかな。ある程度アドリブが通用するし」†",
     ""),
     # "I'm good at phlegm, but I don't think I'm suffering, so I don't have any heat. Adgata Lib is a good option to some extent."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("オ激レがうなずくと、あかりは照齒れたように微笑んだ。†",
+    ("オレがうなずくと、あかりは照齒れたように微笑んだ。†",
     ""),
     # My head nodded, and Akari smiled lit up.†
 
@@ -103,7 +103,7 @@ text_array = [
     # "Ah, let's start with the Chinese character dictation."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("さ墲わさ墲わ…。",
@@ -111,7 +111,7 @@ text_array = [
     # It's so good...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("さ墲わさ墲わ…。",
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Hmm, ah, somehow..."
 
-    ("オ激レは、ノートに目を通しながら、無意識のうちにあかりのおさげ髪をいじっていた。†",
+    ("オレは、ノートに目を通しながら、無意識のうちにあかりのおさげ髪をいじっていた。†",
     ""),
     # I looked through my notebook and unconsciously played with Akari's pigtails.†
 
@@ -147,7 +147,7 @@ text_array = [
     # It's so good...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("さ墲わさ墲わ…。",
@@ -155,7 +155,7 @@ text_array = [
     # It's so good...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("さ墲わさ墲わ…。",
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # "...Um, I'm distracted, I can't gather my mugs."
 
-    ("「そうか、增わりぃ」",
+    ("「そうか、わりぃ」",
     ""),
     # "I see, it's a slut."
 
-    ("オ激レはあかりの髪から手を冾放した。†",
+    ("オレはあかりの髪から手を冾放した。†",
     ""),
     # My gut-released my hands from Akari's hair.†
 
@@ -179,18 +179,18 @@ text_array = [
     # "Heh..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「…さ墲わりたいの？」",
     ""),
     # "...Do you want to be a slut?"
 
-    ("「…で烽も、気が散骼るんだｂ？」",
+    ("「…で烽も、気が散骼るんだ？」",
     ""),
     # "...And you're also distracted by the way, b?"
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # I wonder if this has been this since I was in middle school."
 
-    ("「そｂそｂ変えたいとか思寬わねーの？」",
+    ("「そそ変えたいとか思寬わねーの？」",
     ""),
     # "You thought you wanted to change it?"
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "What do you think of Chishonan?"
 
-    ("「オ激レは、まあ、たまにはイ＜メチェンすんの烽もいいんじ痰ゃないかと思うな」",
+    ("「オレは、まあ、たまにはイ＜メチェンすんの烽もいいんじ痰ゃないかと思うな」",
     ""),
     # "I think that once in a while, I'm not going to have any phlegms."
 
@@ -247,18 +247,18 @@ text_array = [
     # "That's right..." †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「竅やっぱ、あかりはそのままがいいか烽もな」",
+    ("「やっぱ、あかりはそのままがいいか烽もな」",
     ""),
     # "After all, Akari is fine as is, or maybe Hot."
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("「なんて艪ゆーか、お前にはその地味な髪形が翌似㍽合ってるような気がするぜ」",
+    ("「なんてゆーか、お前にはその地味な髪形が翌似㍽合ってるような気がするぜ」",
     ""),
     # "What a silly thing, I feel like your plain hairstyle is aligned with the next match."
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # "Huh, is it plain?"
 
-    ("「そり痰ゃあ地味だｂう。派阡手なのがいいとは言甯わねえけどさ」",
+    ("「そり痰ゃあ地味だう。派阡手なのがいいとは言甯わねえけどさ」",
     ""),
     # "As a little sigh, it's plain. I don't think it's good to be a slut."
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # "...I guess so"
 
-    ("とかなんとか言いながら、その冾日燗もあかりといっし蛯ょに勉強した。†",
+    ("とかなんとか言いながら、その冾日燗もあかりといっしょに勉強した。†",
     ""),
     # While saying something like that, I studied the freshly-cooked Japanese with Akari as well.†
 

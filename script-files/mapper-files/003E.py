@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Shoe cabinet.
 
-    ("堰ラブ激レターは…ないか。",
+    ("堰ラブレターは…ないか。",
     ""),
     # Is there a huge letter of love for the dam...?
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I'm going back on my own.
 
-    ("意識して考えると竄寂しい烽ものがあるな。",
+    ("意識して考えると寂しい烽ものがあるな。",
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # I want to stay this way.
 
-    ("明坙日の教科のおさらいで烽も竄やっとくか。◯",
+    ("明坙日の教科のおさらいで烽もやっとくか。◯",
     ""),
     # Let's start tampering with the Ming Shun Day subject review.◯
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Let's keep this intact.
 
-    ("明坙日の教科のおさらいで烽も竄やっとくか。◯",
+    ("明坙日の教科のおさらいで烽もやっとくか。◯",
     ""),
     # Let's start tampering with the Ming Shun Day subject review.◯
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # The day was awful now.
 
-    ("竅やばいぜ。",
+    ("やばいぜ。",
     ""),
     # That's amazing.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Well, I don't have time to fall for the fallen slugs.
 
-    ("明坙日の教科のおさらいで烽も竄やっとくか。◯",
+    ("明坙日の教科のおさらいで烽もやっとくか。◯",
     ""),
     # Let's start tampering with the Ming Shun Day subject review.◯
 

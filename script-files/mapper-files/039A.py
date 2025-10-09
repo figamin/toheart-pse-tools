@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I'm not going to believe it."
 
-    ("オ激レはきっぱり言った。",
+    ("オレはきっぱり言った。",
     ""),
     # I said firmly.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Why?!"
 
-    ("「お前、自分がま墲わりからどんなふうに呼ばれてんのか知ってんのか？	歩く校熏内藷ワイドシ㏍ョーとか、制梵服葡た撃東ス寃○とか、まだまだいっぱいあるんだぞ」",
+    ("「お前、自分がま墲わりからどんなふうに呼ばれてんのか知ってんのか？	歩く校熏内藷ワイドショーとか、制梵服葡た撃東ス寃○とか、まだまだいっぱいあるんだぞ」",
     ""),
     # "Do you know how you were called by the people of the world? There are still so many more, such as the wide-legged school uniforms that are walking around, and the geitosu-su-su-su-su-su-su-su-o" in the kingdom of the Sanskrit uniforms."
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # "All the night club is lying."
 
-    ("オ激レは目を細めて言った。†",
+    ("オレは目を細めて言った。†",
     ""),
     # My eyes narrowed and said.†
 
-    ("「そう竄やって、何度燗も何度燗も狼がｗたーって言ってると、ホントに狼がｗて烽も誰熬も浮助けてくれねーぞ」",
+    ("「そうやって、何度燗も何度燗も狼がｗたーって言ってると、ホントに狼がｗて烽も誰熬も浮助けてくれねーぞ」",
     ""),
     # "When I said that, the wolf was soaked and warmed many times and then warmed, and it was really a wolf lol, and no one or more Yo will help me float."
 
-    ("「なによ、グ潟リム童話なんて揩持ち出して」",
+    ("「なによ、グリム童話なんて揩持ち出して」",
     ""),
     # "What, bring up the Ggata Rim fairy tales."
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # Shiho cried out.†
 
-    ("「つ、つまり！	このｂ高度に発展した薰情報化社脂を生きていくには、受け手側に烽も正しい判断力が竄問嵂われる墲わけよ。なんで烽もかんで烽もうのみにしち痰ゃダ＜メってことね」",
+    ("「つ、つまり！	この高度に発展した薰情報化社脂を生きていくには、受け手側に烽も正しい判断力が問嵂われる墲わけよ。なんで烽もかんで烽もうのみにしち痰ゃダ＜メってことね」",
     ""),
     # "In other words! In order to survive this highly developed B-Information Chain, the recipients are forced to slam their correct judgment and judgement. Why don't they just keep the broth and make them all the more broth?
 
-    ("「だよな。ってことで、オ激レは信じないぞ」",
+    ("「だよな。ってことで、オレは信じないぞ」",
     ""),
     # "That's right. So I don't believe you."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "What! I mean, I'm not phlegmy, what are you saying?!"
 
-    ("「なんで、お前がか墲わいそうなんだよ。無ヶ茶齟苦ル茶言うな」†",
+    ("「なんで、お前がか墲わいそうなんだよ。無ヶ茶苦ル茶言うな」†",
     ""),
     # "Why are you sorry about me? Don't say Mugachasaikurikucha."†
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Oh, it's fine, idiot!"
 
-    ("志保はアッカンベーと蛯大きく繧舌を出すと、つんっと顔を背け、竅坂をｋけ下濶りていった。†",
+    ("志保はアッカンベーと大きく繧舌を出すと、つんっと顔を背け、坂を駆け下濶りていった。†",
     ""),
     # Shiho spoke loudly and thrust into his tongue, then turned his face away and squealed down the hill and leaned back down.†
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("竅やっぱり、ち蛯ょっと信じられないな。◯",
+    ("やっぱり、ちょっと信じられないな。◯",
     ""),
     # After all, I can't believe it.◯
 

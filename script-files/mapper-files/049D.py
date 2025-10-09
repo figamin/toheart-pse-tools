@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I'm really happy."
 
-    ("「なんで？	…♂史は一年からあんたといっし蛯ょだから、いいとして…、あかりといっし蛯ょなのが気に入逑らないの？」",
+    ("「なんで？	…♂史は一年からあんたといっしょだから、いいとして…、あかりといっしょなのが気に入逑らないの？」",
     ""),
     # "Why? ...Since Makoto has been with you since the first year, it's fine...but don't you like Akari's Episode?"
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "Ah, what's wrong?"
 
-    ("「ガキじ痰ゃあるまいし、ク宴ラス替えなんかでｊんだりしてられるかよ」†",
+    ("「ガキじ痰ゃあるまいし、クラス替えなんかでｊんだりしてられるかよ」†",
     ""),
     # "There's no phlegm, so can you do it when you change your clothes?"
 
-    ("「そんじ痰ゃねぇ、いまのク宴ラスの顔ぶれに桙満足してる？」",
+    ("「そんじ痰ゃねぇ、いまのクラスの顔ぶれに桙満足してる？」",
     ""),
     # "That's all, you're satisfied with the current lineup of Crowds?"
 
-    ("「なんだよ。オ激レからなにが聞きたいんだ？」",
+    ("「なんだよ。オレからなにが聞きたいんだ？」",
     ""),
     # "What is it? What do you want to ask me?"
 
@@ -42,23 +42,23 @@ text_array = [
     ""),
     # I'm asking if you're satisfied."
 
-    ("…いったい志保は、オ激レから何を聞き出そうとしているんだｂうか？",
+    ("…いったい志保は、オレから何を聞き出そうとしているんだうか？",
     ""),
     # ...What exactly is Shiho trying to find out from me?
 
-    ("ハッキ潟リ言甯わないとこｂが怪しい…。†",
+    ("ハッキリ言甯わないとこが怪しい…。†",
     ""),
     # It's suspicious that the fact that you don't say anything is clear...†
 
-    ("「いまのク宴ラスに、凵嫌いなрヤツがいるかどうかをか？」",
+    ("「いまのクラスに、凵嫌いなрヤツがいるかどうかをか？」",
     ""),
     # "Would you like to see if there's someone in the banquet that I hate?"
 
-    ("オ激レは彼濫女が知闥りたいことは何なのか、逆に聞いてみた。",
+    ("オレは彼濫女が知闥りたいことは何なのか、逆に聞いてみた。",
     ""),
     # I asked her what the girl wanted to know.
 
-    ("とこｂが、",
+    ("とこが、",
     ""),
     # And b is
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Shiho started slamming and saying his verse.†
 
-    ("「気になるじ痰ゃんか。そんな聞き福方されたら」",
+    ("「気になるじ痰ゃんか。そんな聞き方されたら」",
     ""),
     # "Are you curious about phlegm? I wonder if you'll be able to hear such a good-for-you."
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # *Shiho says it's a good dog and drives away Hot too.
 
-    ("「增わーったよ！	もう誘うな、バカ！」†",
+    ("「わーったよ！	もう誘うな、バカ！」†",
     ""),
     # "I'm back! Don't invite me any more, you idiot!" †
 
-    ("オ激レは志保と別れ、さっさと帰った。◯",
+    ("オレは志保と別れ、さっさと帰った。◯",
     ""),
     # I broke up with Shiho and quickly went home.◯
 

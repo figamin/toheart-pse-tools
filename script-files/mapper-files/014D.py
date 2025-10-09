@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari Likeability Event 5.1) (Choice B Leave the rest to the two of you)†
 
-    ("竅やっぱり、ここはオ激レの出髀る汲幕じ痰ゃないな。",
+    ("やっぱり、ここはオレの出髀る汲幕じ痰ゃないな。",
     ""),
     # After all, this place is a sigh of a stomping stomping.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Leave the rest to the two of you.
 
-    ("オ激レは観念し、﨟矢⊥島を紹譓介することにした。†",
+    ("オレは観念し、﨟矢⊥島を紹譓介することにした。†",
     ""),
     # I thought of it and decided to introduce Ya-no-Island.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "what?"
 
-    ("「じつはさ、お前を紹譓介して欲しいって竄やつがいるんだ」",
+    ("「じつはさ、お前を紹譓介して欲しいってやつがいるんだ」",
     ""),
     # "Actually, there are people who want you to be introduced."
 
-    ("オ激レは汲視諮をそらしたまま言った。",
+    ("オレは汲視諮をそらしたまま言った。",
     ""),
     # I said with a distracted advice from the scrutiny.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "…picture?"†
 
-    ("「ほら、うちのク宴ラスに薰矢⊥島っているだｂ？	バスケ買部の…」",
+    ("「ほら、うちのクラスに薰矢⊥島っているだ？	バスケ買部の…」",
     ""),
     # "Look, you're in the banquet of my house, you're in the island? The basketball buyer's office..."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「お前ってさ、ほら、いまんトコつき№合ってるрヤツ焜もいねーし、まあ、﨟矢⊥島なら…いいрヤツだｂ？	だから…」",
+    ("「お前ってさ、ほら、いまんトコつき№合ってるрヤツ焜もいねーし、まあ、﨟矢⊥島なら…いいрヤツだ？	だから…」",
     ""),
     # "Look, you know, there's no one who's right in the right place, and if it's 﨟Ya⊥ Island... you're a good guy? That's why..."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Ahhh sputum..."
 
-    ("あかりはすごく竄寂しそうな顔をした。†",
+    ("あかりはすごく寂しそうな顔をした。†",
     ""),
     # Akari looked very lonely.†
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "Ah, sputum!"
 
-    ("禔口を挟むр隙を与えず、オ激レはその場を獅去闍り、廊下に隠皷れている薰矢⊥島とバトンタッチした。◯",
+    ("禔口を挟むр隙を与えず、オレはその場を獅去闍り、廊下に隠皷れている薰矢⊥島とバトンタッチした。◯",
     ""),
     # Without giving him a gap to interject, I lioned away from the scene and passed the baton to Seongya Island, which was hidden in the corridor.◯
 
-    ("﨟矢⊥島の熱心な垂告注白シーンなんか見骭る気に烽もなれず、オ激レは一足鞫先に教室へと戻った。†",
+    ("﨟矢⊥島の熱心な垂告注白シーンなんか見骭る気に烽もなれず、オレは一足鞫先に教室へと戻った。†",
     ""),
     # 﨟Ya⊥I couldn't help but watch the enthusiastic revelation scene on the island, so I returned to the classroom with a pair of shoes.†
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # Ah...
 
-    ("これでよかったんだｂーか。",
+    ("これでよかったんだーか。",
     ""),
     # Is this okay? b?
 
-    ("まあ、あかりが誰とつき№合おうと、オ激レにはそれを阻む権圏はない。†",
+    ("まあ、あかりが誰とつき№合おうと、オレにはそれを阻む権圏はない。†",
     ""),
     # Well, no matter who Akari goes with, I have no realm to stop him.†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # But.
 
-    ("けど、ホントは、磨薄々気がついてるんだ。",
+    ("けど、ホントは、薄々気がついてるんだ。",
     ""),
     # But, I'm actually aware of the slightest polish.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # It's like a light-hearted person...
 
-    ("あかりは、ホントは、オ激レのことが…。†",
+    ("あかりは、ホントは、オレのことが…。†",
     ""),
     # Akari is really about me...†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Ahhh sputum..."
 
-    ("呼ばれて、声の福方阜を見骭ると、竅寂しそうな顔をしたあかりが立っていた。",
+    ("呼ばれて、声の方阜を見骭ると、寂しそうな顔をしたあかりが立っていた。",
     ""),
     # When I was called, I looked at Fukukata Fu's voice, Akari stood there with a lonely face.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Akari..."
 
-    ("なに烽も言えず、言葉に詰まっていると、諱先にあかりが福口を開いた。†",
+    ("なに烽も言えず、言葉に詰まっていると、諱先にあかりが口を開いた。†",
     ""),
     # As he couldn't say anything, he was at a loss for words, Akari opened his mouth to the head of his name.†
 
@@ -135,7 +135,7 @@ text_array = [
     # "I've been blaming you."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("それで全て揩理解する。",
@@ -151,7 +151,7 @@ text_array = [
     # "Akari..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「あ、あのさ…」",
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # The opening cyaim sounded.†
 
-    ("チャャイムが鳴阮り終尞わると同椏時に、あかりはゴシゴシと目燒もとをこすった。",
+    ("チャャイムが鳴り終尞わると同椏時に、あかりはゴシゴシと目燒もとをこすった。",
     ""),
     # As Chaiim squealed and finished, Akari scrubbed her legs.
 

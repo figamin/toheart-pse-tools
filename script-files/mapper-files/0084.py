@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Hi Amai!!"
 
-    ("そこへ、戟レミィが竄やってきた。†",
+    ("そこへ、戟レミィがやってきた。†",
     ""),
     # Then, Karemi came to tamper with it.†
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Yeah, it's the day I'm going to be ""
 
-    ("オ激レのテスト泣結果は｢｢。",
+    ("オレのテスト結果は｢｢。",
     ""),
     # My test crying result was ".
 
-    ("Ａ	バッチ潟リさ。閨",
+    ("Ａ	バッチリさ。閨",
     ""),
     # A: Batchy latitude.Relax
 

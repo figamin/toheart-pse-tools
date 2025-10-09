@@ -14,7 +14,7 @@ text_array = [
     ""),
     # During lunch break, I was called by Ekiremi to the Yae.
 
-    ("掾理由を聞いて烽も、彼濫女は烽もの悲しげにオ激レを見つめるだけだ。†",
+    ("掾理由を聞いて烽も、彼濫女は烽もの悲しげにオレを見つめるだけだ。†",
     ""),
     # When asked why, even though she was, the woman just stared at me with a sad look on her face.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "If you don't have anything to do, I'll go back."
 
-    ("そう言うと、戟レミィの福口が動いた。",
+    ("そう言うと、戟レミィの口が動いた。",
     ""),
     # When I said that, Furemi's Fukuguchi moved.
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "teeth?"†
 
-    ("「アタシ今骰夜、戻阮ります…」",
+    ("「アタシ今骰夜、戻ります…」",
     ""),
     # "I'm going back to the night right now..."
 
-    ("「戻髢るって、ア＜メ潟リカへか？」",
+    ("「戻髢るって、ア＜メリカへか？」",
     ""),
     # "Shall I return to America?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # With that, Karemi pointed at the sky.
 
-    ("見骭ると、彼濫女が示した福方阜には、秩白っぽい真巨昼の獅月がｂ浮かんでいる。†",
+    ("見骭ると、彼濫女が示した方阜には、秩白っぽい真巨昼の獅月が浮かんでいる。†",
     ""),
     # As she watched, she saw a white-sized, truly huge daytime Shizuki floating in the air, which the woman showed.†
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # "Ahhh?"
 
-    ("オ激レはせせら笑った。",
+    ("オレはせせら笑った。",
     ""),
     # I laughed loudly.
 
-    ("「なんの冗談だよ。おめーはかぐ竄や姫か？」",
+    ("「なんの冗談だよ。おめーはかぐや姫か？」",
     ""),
     # "What kind of joke are you kidding me? Are you a Kagutana or a princess?"
 
-    ("いくらなんで烽も、そり痰ゃねーだｂ。",
+    ("いくらなんで烽も、そり痰ゃねーだ。",
     ""),
     # No matter how much you go, you can't get enough phlegm.
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "It's been three years since I was picked up by him... and I'm so happy that I'm not even happy..."
 
-    ("祈驪るような目で獅月を見繻上げ、自分に言い聞かせるように撃レミィは言った。",
+    ("祈驪るような目で獅月を見上げ、自分に言い聞かせるように撃レミィは言った。",
     ""),
     # Ekiremi said, looking up at Shizuki with prayerful eyes, as if to tell herself.
 
-    ("「あのなぁ…。いつオ激レがお前を拾ったんだよ？	オ激レは竹なんか取邇らねえぞ」†",
+    ("「あのなぁ…。いつオレがお前を拾ったんだよ？	オレは竹なんか取邇らねえぞ」†",
     ""),
     # "Um... When did I pick you up? I won't take any bamboo." †
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # The story is not right...
 
-    ("「おい、オ激レの話、聞いてっか？」†",
+    ("「おい、オレの話、聞いてっか？」†",
     ""),
     # "Hey, could you listen to me about this crazy story?"
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "...I'm sorry to say it..."
 
-    ("戟レミィはオ激レの言葉を無許視して、どんどん話を進めていく。",
+    ("戟レミィはオレの言葉を無許視して、どんどん話を進めていく。",
     ""),
     # Karemy ignores my words and continues to talk.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "...Is it death that won't stop you?"
 
-    ("「はいはい…增わかったよ。行かないでくれ、戟レミィ」",
+    ("「はいはい…わかったよ。行かないでくれ、戟レミィ」",
     ""),
     # "Yes, yes... I understand. Don't go, oh Remie."
 
-    ("オ激レは、いい加減うんざりして、戟レミィのｉ話に№合寘わせて竄やった。",
+    ("オレは、いい加減うんざりして、戟レミィのｉ話に№合寘わせてやった。",
     ""),
     # I got tired of it and ended up tampering with the i-story of Karemi and tampering with him.
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # I could see the hot water like that.
 
-    ("…ち蛯ょっとギャャグには見えない。†",
+    ("…ちょっとギャャグには見えない。†",
     ""),
     # ...It's hard to see Gyagu.†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "What, what happened!?"
 
-    ("「サャナ宴ラ、…」",
+    ("「サャナラ、…」",
     ""),
     # "Sana Feast,..."
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "I had a dream like that. Just now."
 
-    ("オ激レとｉ史は、戟レミィ焜も交えて、屋繪上で汲昼飯を食っている。",
+    ("オレとｉ史は、戟レミィ焜も交えて、屋繪上で汲昼飯を食っている。",
     ""),
     # My gei-re and I-shi are having lunch at the Yake, including the Kake Remie.
 
-    ("４桙時間目に見た夢はあまりに無ヶ茶な烽内容だったので、オ激レはふたりに話してみた。†",
+    ("４桙時間目に見た夢はあまりに無ヶ茶な烽内容だったので、オレはふたりに話してみた。†",
     ""),
     # The dream I had during the fourth fox was so crazy that I told them.†
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # "Whoa..."
 
-    ("♂史は鰍相変﨑わらず、無愛想な鰍リアクシ㏍ョンでこたえた。",
+    ("♂史は鰍相変﨑わらず、無愛想な鰍リアクションでこたえた。",
     ""),
     # Masochist responded with the unfriendly tits of tits, but with the unfriendly tits of tits.
 
-    ("もう一声『へんな夢だね』とか、欲しいとこｂだな。†",
+    ("もう一声『へんな夢だね』とか、欲しいとこだな。†",
     ""),
     # Another thing I want is, "That's a strange dream."†
 
@@ -214,19 +214,19 @@ text_array = [
     ""),
     # "I'm a dreamer, and am I Uzono-jin!?"
 
-    ("戟レミィだけが嬉々として、オ激レに聞いた。",
+    ("戟レミィだけが嬉々として、オレに聞いた。",
     ""),
     # Only Karemi asked me with joy.
 
-    ("「增わかんねえよ」",
+    ("「わかんねえよ」",
     ""),
     # "I don't know."
 
-    ("かぐ竄や姫が宇薗人かどうかを、聞かれてるみたいな烽もんだからだな。",
+    ("かぐや姫が宇薗人かどうかを、聞かれてるみたいな烽もんだからだな。",
     ""),
     # It's because they're being asked whether Kagutsun or the princess is Uzono.
 
-    ("オ激レには嘯答えられない。",
+    ("オレには嘯答えられない。",
     ""),
     # I can't answer my hardcore answer.
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # ...It's not that mirage.
 
-    ("「それより烽もな。オ激レはどうしてそんな夢を見たのかってのが気になるんだよ」†",
+    ("「それより烽もな。オレはどうしてそんな夢を見たのかってのが気になるんだよ」†",
     ""),
     # "More than that, I'm curious about why I had such a dream."
 
@@ -282,11 +282,11 @@ text_array = [
     ""),
     # Okay, let's check it out with Karemi.
 
-    ("「戟レミィ、お前、ア＜メ潟リカに帰驪るのいつだ？」",
+    ("「戟レミィ、お前、ア＜メリカに帰驪るのいつだ？」",
     ""),
     # "Are you going back to America?"
 
-    ("「いまのとこｂ魔当分、予阯定はない墲わｃ」",
+    ("「いまのとこ魔当分、予定はない墲わｃ」",
     ""),
     # "I'm not sure if I'm ready for now, I'm not sure if I'm going to be ready for now."
 
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # ...What is it, is it not?
 
-    ("「結局、なんだったんだｂーな…」",
+    ("「結局、なんだったんだーな…」",
     ""),
     # "In the end, what was it b..."
 

@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Oh, that's right..."
 
-    ("目に見えて揩理女緒ち痰ゃんは、ガック潟リと肩を獅落とす。",
+    ("目に見えて揩理女緒ち痰ゃんは、ガックリと肩を獅落とす。",
     ""),
     # Visibly, the spurt of the shoulders slumped.
 
-    ("「ま、こいつとつきあうっつって烽も、タカが知齟れてるけどな。少なくと烽も、恋人同士なんて烽もんじ痰ゃ…」†",
+    ("「ま、こいつとつきあうっつって烽も、タカが知れてるけどな。少なくと烽も、恋人同士なんて烽もんじ痰ゃ…」†",
     ""),
     # "Well, Taka is also familiar with Kon, who is dating this guy. At least Kon, lovers are all kinds of phlegm..."
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "'What is it?"
 
-    ("「あの場面で、あんなセ潟リフが出髀るなんて、ち蛯ょっとすごい墲わよ。度胸諡よね〜」",
+    ("「あの場面で、あんなセリフが出髀るなんて、ちょっとすごい墲わよ。度胸諡よね〜」",
     ""),
     # "It's a huge hit to see such a serene riff in that scene. It's a heartwarming feat."
 
-    ("「くだんねー話しようってんなら、オ激レは烽もう行くぜ」†",
+    ("「くだんねー話しようってんなら、オレは烽もう行くぜ」†",
     ""),
     # "If you're going to talk about it, I'll go now." †
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # It's like we're dating, it's a hot thing."
 
-    ("気色悪い福口調で志保がくっついてくる。",
+    ("気色悪い口調で志保がくっついてくる。",
     ""),
     # Shiho sticks to her with a creepy Fuku tone.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Perhaps, what?"
 
-    ("「磨当人が困骰るって言い出したら、気搴持ちよく公表できないじ痰ゃないの」",
+    ("「当人が困骰るって言い出したら、気搴持ちよく公表できないじ痰ゃないの」",
     ""),
     # "If Masu-san says he's in trouble, he's not phlegmy enough to make it public."
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "Hey, I'll leave you there."
 
-    ("「あらら、ち蛯ょっと待ってったら〜っ；」†",
+    ("「あらら、ちょっと待ってったら〜っ；」†",
     ""),
     # "Oh, I'll wait a moment!" †
 
-    ("ち蛯ょっと沈んだ揩理女緒ち痰ゃんのことが思い出されたが、今厓日のとこｂは志保と、いつ烽ものくだらないｉ話をしながら烽歩いた。◯",
+    ("ちょっと沈んだ揩理女緒ち痰ゃんのことが思い出されたが、今厓日のとこは志保と、いつ烽ものくだらないｉ話をしながら烽歩いた。◯",
     ""),
     # I remembered the sunk sank, but on the day I was on the brink of the day, I walked around with Shiho, talking about a silly hot topic.◯
 

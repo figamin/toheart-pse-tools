@@ -2,27 +2,27 @@
 # Source file: 0F0E.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル２）閨（テスト終了篇）閨（選択綜	志保）†",
+    ("（ゲーセンバトル２）閨（テスト終了篇）閨（選択綜	志保）†",
     ""),
     # (Arcade Battle Cry 2) (Test End Edition) (Selection Shiho)†
 
-    ("「志保、オ激レの鰍相闡手は魔当然おめーだ」",
+    ("「志保、オレの鰍相闡手は魔当然おめーだ」",
     ""),
     # "Shiho, of course, my super-sexual choy-tattoo is a shame."
 
-    ("「のぞむとこｂね」",
+    ("「のぞむとこね」",
     ""),
     # "It's where you want."
 
-    ("に竄やりと志保が笑う。†",
+    ("にやりと志保が笑う。†",
     ""),
     # Shiho laughs as he tampers with her.†
 
-    ("「お前と竄やると真武剣沍勝縁負になるからな。単ヲ純にス潟リ泣ルがあるぜ」",
+    ("「お前とやると真武剣沍勝縁負になるからな。単ヲ純にスリルがあるぜ」",
     ""),
     # "If you tamper with you, you'll end up with the idea of ​​a great victory. You'll have to be sad about Jun-Jun."
 
-    ("「なにしｂ、堰ラスボス諠より強力な奄ライバ泣ルがいっし蛯ょだからね〜」",
+    ("「なにし、堰ラスボス諠より強力な奄ライバルがいっしょだからね〜」",
     ""),
     # "What is it, Amami Raiba crying is stronger than the final boss of the weir."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Shiho Taru also sat next to him.
 
-    ("「覚蜉悟しｂ」",
+    ("「覚蜉悟し」",
     ""),
     # "I'm eager to understand b"
 

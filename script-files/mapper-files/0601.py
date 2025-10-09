@@ -2,7 +2,7 @@
 # Source file: 0601.txt
 
 text_array = [
-    ("（マ泣ルチ	出初いイベント）閨（４獅月１２冾日	２桙時間目の休み桙時間）閨（渡闢り廊下）†",
+    ("（マルチ	出初いイベント）閨（４獅月１２冾日	２桙時間目の休み桙時間）閨（渡闢り廊下）†",
     ""),
     # (Makyuruchi's first event) (4th 12th day of the month, the second gallery time) (Break time during the second gallery time) (Back to the hallway) †
 
@@ -10,15 +10,15 @@ text_array = [
     ""),
     # The second fence time is closed.
 
-    ("さっきは汲結局、志保のくだらないう墲わさ話につき№合寘わされて、ド潟リンクをモ買えなかった。†",
+    ("さっきは汲結局、志保のくだらないう墲わさ話につき№合寘わされて、ドリンクをモ買えなかった。†",
     ""),
     # In the end, I was forced to conquer Shiho's silly conversation about how he was, and he couldn't buy a drink.†
 
-    ("ったく、あいつは冾放っておくといつまで烽もし痰ゃべり続け竄やがるからなあ。",
+    ("ったく、あいつは冾放っておくといつまで烽もし痰ゃべり続けやがるからなあ。",
     ""),
     # If he leaves him alone he will continue to slurp and slurp his hands.
 
-    ("…っとに、し蛯ょーがねーпヤツだ。",
+    ("…っとに、しょーがねーпヤツだ。",
     ""),
     # ...And so, there's no slut.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Here it is.
 
-    ("自販機でいつ烽ものカフェオ激レをモ買った。†",
+    ("自販機でいつ烽ものカフェオレをモ買った。†",
     ""),
     # When did I buy a hot cafe au veal at the vending machine?†
 
-    ("教室へ戻髢る途湯、カフェオ激レのスト鴻ローを福口に魔当てながら階段を繧上っていると…、",
+    ("教室へ戻髢る途湯、カフェオレのスト鴻ローを口に魔当てながら階段を繧上っていると…、",
     ""),
     # Returning to the classroom, I was climbing the stairs, hitting the Cafe au Extreme Leisure Stokoro against Fukuguchi...
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-    ("諱よｂよｂと、♀なかしげな足どりで、階段を繧上っている翌女生徒がいた。†",
+    ("諱よよと、♀なかしげな足どりで、階段を繧上っている翌女生徒がいた。†",
     ""),
     # There was a female student climbing the stairs, with a female figure in her legs, and a female student.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah, ah..."
 
-    ("ふらふらと体を動かし、必死にバ宴ランスをとｂうとする翌女生徒だったが、最纃後は竄やっぱりこらえきれず、縺後撃へ獅落下した。†",
+    ("ふらふらと体を動かし、必死にバランスをとうとする翌女生徒だったが、最纃後はやっぱりこらえきれず、縺後撃へ獅落下した。†",
     ""),
     # The next female student wobbling and desperately tried to hold a banquet, but after the moment she was unable to hold back, she fell into a lion afterwards.†
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # I'm going to make you go to make you go to make you go to make you go to make you go to the next day."
 
-    ("蛛大きく両阯手を回しながら倒齠れる翌女生徒。",
+    ("蛛大きく両手を回しながら倒齠れる翌女生徒。",
     ""),
     # The next female student is defeated while turning her arms big.
 
-    ("オ激レはダッシャでｋけ寄って、それを受け止める。†",
+    ("オレはダッシャで駆け寄って、それを受け止める。†",
     ""),
     # My guts approaches me with a dash and accepts it.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Two cardboard boxes made a heavy noise and lions tumble down the stairs.
 
-    ("浴女生徒のほうはなんとか無末事、オ激レが両阯手で受け止めていた。†",
+    ("浴女生徒のほうはなんとか無末事、オレが両手で受け止めていた。†",
     ""),
     # The female bather was somehow inevitable, and I was holding it with both hands.†
 
@@ -174,15 +174,15 @@ text_array = [
     ""),
     # "...Eh...Ah, huh?!"
 
-    ("オ激レの腕のｒで、両阯手で顔を覆っていた翌女生徒が、蛛大きな目をパチパチッと瞬かせた。",
+    ("オレの腕のｒで、両手で顔を覆っていた翌女生徒が、蛛大きな目をパチパチッと瞬かせた。",
     ""),
     # The next female student, who had covered her face with her arms, blinked, with her big eyes.
 
-    ("き蛯ょとんとした表﨣情で顔を繧上げる。",
+    ("きょとんとした表﨣情で顔を繧上げる。",
     ""),
     # He raised his face with a sly, squealing atmosphere.
 
-    ("目の前にあるオ激レの顔を『………』と３秒ほど見つめると、",
+    ("目の前にあるオレの顔を『………』と３秒ほど見つめると、",
     ""),
     # I stared at my face right in front of me for about three seconds, "..."
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "Ahhhh, ohhh, ohhh!"
 
-    ("慌てて、オ激レから飛び退いた。†",
+    ("慌てて、オレから飛び退いた。†",
     ""),
     # I hurriedly jumped back from my ramblings.†
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # Kaijuku Ichiban apologized while baking.
 
-    ("「增わっ、增わ墲わ、增わたしったらホントにドジで、いつ烽もいつ烽も失敗ばっかりしち痰ゃって、そのうえ人様にまでご迷惑を｢｢」†",
+    ("「わっ、わ墲わ、わたしったらホントにドジで、いつ烽もいつ烽も失敗ばっかりしち痰ゃって、そのうえ人様にまでご迷惑を｢｢」†",
     ""),
     # "B, I'm so clumsy, if I were to go with it, I'd be really clumsy, and I'd always end up failing, and I'd also like to cause trouble to others.
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Well, well, let's go down a little."
 
-    ("オ激レが言うと、浴女生徒は、",
+    ("オレが言うと、浴女生徒は、",
     ""),
     # When I say that the bather student
 
@@ -223,7 +223,7 @@ text_array = [
     # He nodded, sipping his breath.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「どうだ？	氏落ちｒいたか？」†",
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # The female bather nodded softly.
 
-    ("「ま、とにかく、ケガがなくてよかったじ痰ゃねーか。運良くオ激レがいて浮助かったな」",
+    ("「ま、とにかく、ケガがなくてよかったじ痰ゃねーか。運良くオレがいて浮助かったな」",
     ""),
     # "Well, anyway, I'm glad that I wasn't injured, so I'm not hurt. Luckily, I was able to get a relief."
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # I saw that deep bowed head and realized it.
 
-    ("「あんたの、その耳んとこｂ…」",
+    ("「あんたの、その耳んとこ…」",
     ""),
     # "Your ear b..."
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("見骭ると、その子の耳には、秩白い蛯大きな烽金属製のｏ闖りのような烽ものがついていた。",
+    ("見骭ると、その子の耳には、秩白い大きな烽金属製のｏ闖りのような烽ものがついていた。",
     ""),
     # When he looked over, the child's ears were covered in a large, ordered, hot metallic hot spring.
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # "...Se, Sensor?" †
 
-    ("「はい。で烽も本末当は、人間の福方と見間瘧違妤われないために付けられているそうです」",
+    ("「はい。で烽も本末当は、人間の方と見間瘧違妤われないために付けられているそうです」",
     ""),
     # "Yes. And it seems that the main character is attached to prevent human happiness from being misunderstood."
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # "Because we can't be misled by humans..."
 
-    ("そこまで聞いて、諱よう竄やく話が見えてきた。",
+    ("そこまで聞いて、諱ようやく話が見えてきた。",
     ""),
     # After listening to it that far, I began to see stories that were stolen.
 
@@ -326,7 +326,7 @@ text_array = [
     ""),
     # "Sorry, I've been late for my self-introduction.
 
-    ("わたし、このたび、みなさんといっし蛯ょにお勉強させていただくことになりました、汎用アンド鴻ロイドの『ＨＭＸ−１２型』といいます。残闔り１週間という短い冾期間ですが、どうかよｂしくお願いします」",
+    ("わたし、このたび、みなさんといっしょにお勉強させていただくことになりました、汎用アンド鴻ロイドの『ＨＭＸ−１２型』といいます。残闔り１週間という短い冾期間ですが、どうかよしくお願いします」",
     ""),
     # I have just been studying with you all, and my name is the "HMX-12" by General Purpose And Koroid.It's a short period of just one week left, but please be patient."
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # He said, bowing his head deeper again.†
 
-    ("そうか、竅やっぱりこの子がそうなのか。",
+    ("そうか、やっぱりこの子がそうなのか。",
     ""),
     # I see, is this girl the same thing after all?
 
@@ -346,27 +346,27 @@ text_array = [
     ""),
     # "It's the HMX-12 type. That's my test number.
 
-    ("もし、呼びにくいようでしたら、簡単に『マ泣ルチ』とお呼びください」",
+    ("もし、呼びにくいようでしたら、簡単に『マルチ』とお呼びください」",
     ""),
     # If it seems difficult to call you, simply call me "Makyuruchi."
 
-    ("「マ泣ルチ？」†",
+    ("「マルチ？」†",
     ""),
     # "Sheep?"
 
-    ("「はい。開発者の福方々からはそう呼ばれてるんです。なんで烽も艪ゆく艪ゆくは、增わたしの商品名になるらしいです」",
+    ("「はい。開発者の方々からはそう呼ばれてるんです。なんで烽もゆくゆくは、わたしの商品名になるらしいです」",
     ""),
     # "Yes. That's what the developers, Fuku, call them. Why the "Yoshi-no-go" is apparently my product name."
 
-    ("＝メイド鴻ロボ｢｢マ泣ルチはｋ託のない笑迴顔で言った。†",
+    ("＝メイド鴻ロボ｢｢マルチは駆託のない笑迴顔で言った。†",
     ""),
     # =Maid Korobo: "Mad Ruchi said with a laugh-smile face without a stolen attitude.†
 
-    ("「あの、もしよｂしければ、そちらのお名前熨も教えていただけませんでし蛯ょうか？」",
+    ("「あの、もしよしければ、そちらのお名前熨も教えていただけませんでしょうか？」",
     ""),
     # "Um, if you're okay with that, please let me know your name, shall we have a slut?"
 
-    ("「え？	オ激レの？」",
+    ("「え？	オレの？」",
     ""),
     # "Huh? Is it really hard?"
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # ...Hmm.
 
-    ("マ泣ルチって、＝メイド鴻ロボのくせにお世辞燻も言ったりできんのか。",
+    ("マルチって、＝メイド鴻ロボのくせにお世辞燻も言ったりできんのか。",
     ""),
     # Even though Maid Korobo is a maid, can't you say flattering things?
 
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # As expected from a new model.
 
-    ("まあ、梶相闡手に名前をたずねたら、必ずそう返すようにプ鴻ログ宴ラムされてるのか烽もな。†",
+    ("まあ、梶相闡手に名前をたずねたら、必ずそう返すようにプ鴻ログラムされてるのか烽もな。†",
     ""),
     # Well, when I ask Kaji Senako for his name, I guess he's always going to respond like that.†
 
@@ -410,12 +410,12 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("オ激レはマジマジとマ泣ルチを観察した。",
+    ("オレはマジマジとマルチを観察した。",
     ""),
     # I seriously observed the slumber.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「へえ…」",
@@ -423,7 +423,7 @@ text_array = [
     # "Whoa..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ほお…」",
@@ -434,11 +434,11 @@ text_array = [
     ""),
     # "...Ah, um, what?"
 
-    ("「い竄や、さすがは最新型だなーと思ってさ。ホント、諱よくできてるぜ。全然人間と見分けがつかねーな」",
+    ("「いや、さすがは最新型だなーと思ってさ。ホント、諱よくできてるぜ。全然人間と見分けがつかねーな」",
     ""),
     # "I thought it was the latest model, as expected. It's really well-made. I can't tell it apart from humans at all."
 
-    ("「そう言って烽もらえると嬉しいです。現在の高ロボット技術のｐ芋垂Wめ、可能な限闌り人間に近い≠メイド鴻ロボをｍ高うというのが、增わたしの開発コンセプト辜らしいですから」†",
+    ("「そう言って烽もらえると嬉しいです。現在の高ロボット技術のｐ芋垂Wめ、可能な限り人間に近い≠メイド鴻ロボをｍ高うというのが、わたしの開発コンセプト辜らしいですから」†",
     ""),
     # "I'd be happy if you could say that. I think my development concept is that the current high-robot technology, the fact that it is as close to humans as possible is to increase the maid Korobo's high level."
 
@@ -450,11 +450,11 @@ text_array = [
     ""),
     # "thank you!"
 
-    ("「はあ〜、技術の進熕歩って竄やつはすごいねぇ」",
+    ("「はあ〜、技術の進熕歩ってやつはすごいねぇ」",
     ""),
     # "Ahh, the advancement of technology is amazing."
 
-    ("オ激レはしみじみと感嘆の息を漏逖らした。†",
+    ("オレはしみじみと感嘆の息を漏逖らした。†",
     ""),
     # My heart sighed with exclamation.†
 
@@ -462,11 +462,11 @@ text_array = [
     ""),
     # Recently, many Maid Korobo have been found to be indistinguishable from humans, with the phlegm that is at first glance.
 
-    ("そのｒで烽も、このマ泣ルチは飛び抜けて人間に近いと感じた。",
+    ("そのｒで烽も、このマルチは飛び抜けて人間に近いと感じた。",
     ""),
     # With that r, Kao also felt that this makrock was extremely close to humanity.
 
-    ("掾喋闥り福方熾もスムーズだし、表﨣情だって自然だ。",
+    ("掾喋闥り方熾もスムーズだし、表﨣情だって自然だ。",
     ""),
     # The conversation and the fortune-telling are smooth, and the outward sentiment is natural.
 
@@ -494,7 +494,7 @@ text_array = [
     ""),
     # "And you're a pretty clumsy newest type of roo that falls down the stairs and falls a lion, you know."
 
-    ("ち蛯ょっとからかい福口調で言うと、マ泣ルチは苦笑をｂ浮かべた。†",
+    ("ちょっとからかい口調で言うと、マルチは苦笑を浮かべた。†",
     ""),
     # In a teasing tone of happiness, Makruchi smiled wryly.†
 
@@ -502,15 +502,15 @@ text_array = [
     ""),
     # "...Yes, that's right.
 
-    ("わたし、最新型のくせに、なぜか失敗が多くて…。せっかくいｂいｂとｂ高性能にｍって烽もらっているのに、これじ痰ゃ、開発者の福方々に申し訳ないです」†",
+    ("わたし、最新型のくせに、なぜか失敗が多くて…。せっかくいいと高性能にｍって烽もらっているのに、これじ痰ゃ、開発者の方々に申し訳ないです」†",
     ""),
     # Even though I'm the latest model, for some reason I've made a lot of mistakes...I've been getting a lot of b and b high performance, but I'm sorry to the developers who are lucky enough to get this phlegm."
 
-    ("だが、マ泣ルチはそこで獅落ち桙込まずに、",
+    ("だが、マルチはそこで獅落ち桙込まずに、",
     ""),
     # However, the lion fell on the ground there,
 
-    ("「ですが、そのぶん一生恊懸命譁頑張って、駄目なとこｂは努力で竄補いたいと思います」",
+    ("「ですが、そのぶん一生恊懸命譁頑張って、駄目なとこは努力で補いたいと思います」",
     ""),
     # "However, I will do my best to do my best for the rest of my life, and I will try my best to compensate for the failure of any part of the world."
 
@@ -526,7 +526,7 @@ text_array = [
     ""),
     # "Ah!"
 
-    ("そのとき、突然マ泣ルチが蛯大きな声を繧上げた。",
+    ("そのとき、突然マルチが大きな声を繧上げた。",
     ""),
     # At that moment, suddenly, Makruchi cried out a loud squeal.
 
@@ -538,7 +538,7 @@ text_array = [
     ""),
     # "By the way, I was a tuna broth. I have to take the box to the copy room."
 
-    ("そう言うと、マ泣ルチは慌てて床に転がった段ボール箱の前に行き、うんし蛯ょっ、とそれを揩持ち繧上げた。",
+    ("そう言うと、マルチは慌てて床に転がった段ボール箱の前に行き、うんしょっ、とそれを揩持ち繧上げた。",
     ""),
     # With that in mind, Makruchi hurriedly went to the front of the cardboard box that had been lying on the floor, and he said, "Yeah, yeah, yeah, yeah, yeah, thrust it up."
 
@@ -550,15 +550,15 @@ text_array = [
     ""),
     # "Hmmm;"
 
-    ("普歯を食いしばって力を入齠れるマ泣ルチ。",
+    ("普歯を食いしばって力を入齠れるマルチ。",
     ""),
     # Makruchi grits his teeth and puts all his strength into it.
 
-    ("その肩を、オ激レはポンと叩いた。†",
+    ("その肩を、オレはポンと叩いた。†",
     ""),
     # I slammed my shoulder.†
 
-    ("「なんでし蛯ょう？」",
+    ("「なんでしょう？」",
     ""),
     # "Why are you slut?"
 
@@ -574,7 +574,7 @@ text_array = [
     ""),
     # "If I carry something like this all at once, it's the second Cao Dance from earlier. Come on."
 
-    ("そう言って、オ激レは重ねた２個の段ボール箱を揩持ち繧上げた。",
+    ("そう言って、オレは重ねた２個の段ボール箱を揩持ち繧上げた。",
     ""),
     # With that in mind, I grabbed two stacked cardboard boxes.
 
@@ -586,7 +586,7 @@ text_array = [
     ""),
     # It was a box filled with copying B4.
 
-    ("２箱同椏時となると、男のオ激レで烽もさすがにち蛯ょっときつい。",
+    ("２箱同椏時となると、男のオレで烽もさすがにちょっときつい。",
     ""),
     # When it comes to two boxes of the same pack, it was a man's thrill, and the hot springs were really touched.
 
@@ -598,11 +598,11 @@ text_array = [
     ""),
     # "Oh, that's bad.
 
-    ("わたしが竄やります。人間の福方が高ロボットの手伝いをするなんて、おかしいです」†",
+    ("わたしがやります。人間の方が高ロボットの手伝いをするなんて、おかしいです」†",
     ""),
     # I'll tamper with it.It's strange that human Fuku-san helps out high robots."
 
-    ("「だけど、マ泣ルチは翌女の子だｂ？	困ってる翌女の子を浮助けるのは、男なら魔当然だぜ」",
+    ("「だけど、マルチは翌女の子だ？	困ってる翌女の子を浮助けるのは、男なら魔当然だぜ」",
     ""),
     # "But, the next girl is the girl? It's only natural that a man will help the next girl in trouble to float."
 
@@ -618,11 +618,11 @@ text_array = [
     ""),
     # "Ah, sir!"
 
-    ("ち蛯ょっと重かったが、オ激レはコピー室まで段ボール箱を運んで竄やった。†",
+    ("ちょっと重かったが、オレはコピー室まで段ボール箱を運んでやった。†",
     ""),
     # It was a bit heavy, but I carried a cardboard box to the copy room and tampered with it.†
 
-    ("「…あの、本末当にありがとうございました。あぶないとこｂを浮助けていただいたばかりか、荷物まで運んでいただいて…」",
+    ("「…あの、本末当にありがとうございました。あぶないとこを浮助けていただいたばかりか、荷物まで運んでいただいて…」",
     ""),
     # "...Um, thank you to the end of the day. Not only did you help me to float the dangerous cousin B, but you also carried me to my luggage..."
 
@@ -630,7 +630,7 @@ text_array = [
     ""),
     # "Haha, that's fine, that much."
 
-    ("まあ、正直ち蛯ょっと腕が疲齡れたけどな。†",
+    ("まあ、正直ちょっと腕が疲齡れたけどな。†",
     ""),
     # Well, to be honest, my arms got tired a little.†
 
@@ -642,15 +642,15 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「增わたしは人間のみなさんのお役に立つためにｍ迯られた高ロボットなのに…」†",
+    ("「わたしは人間のみなさんのお役に立つためにｍ迯られた高ロボットなのに…」†",
     ""),
     # "I'm a high robot that was a great help to all humans..."
 
-    ("「ま、香ロボットっていって烽も、竅やっぱり得闢手不得闢手があるんだｂ。マ泣ルチは翌女の子だから、力仕鮪事にはｌいてないのさ。そのぶん得意なことでみんなのお役に立ち痰ゃーいいんだよ。得意なことは何なんだ？」",
+    ("「ま、香ロボットっていって烽も、やっぱり得闢手不得闢手があるんだ。マルチは翌女の子だから、力仕鮪事にはｌいてないのさ。そのぶん得意なことでみんなのお役に立ち痰ゃーいいんだよ。得意なことは何なんだ？」",
     ""),
     # "Well, when it comes to Korobots, you know, have some good and bad things. Makkuruchi is the next girl, so she's not in the tuna trout. That's what you're good at and you have to be useful to everyone. What's your specialty?"
 
-    ("「得意という墲わけじ痰ゃないですけど、お掃恆除は蛯大好きです！」†",
+    ("「得意という墲わけじ痰ゃないですけど、お掃恆除は大好きです！」†",
     ""),
     # "I don't have to deal with the idea of ​​what I'm good at, but I love the ejaculation and removal of the seduction!"
 
@@ -662,7 +662,7 @@ text_array = [
     ""),
     # "Ah, yes, that's right!"
 
-    ("マ泣ルチはにっこり微笑んでうなずいた。†",
+    ("マルチはにっこり微笑んでうなずいた。†",
     ""),
     # McDonald laughed and nodded.†
 
@@ -674,15 +674,15 @@ text_array = [
     ""),
     # At that moment, the chayim sounded for the start of class.
 
-    ("「おっ、授業が始まり竄やがった。じ痰ゃあな、マ泣ルチ。またな！」",
+    ("「おっ、授業が始まりやがった。じ痰ゃあな、マルチ。またな！」",
     ""),
     # "Oh, the lesson has begun and it's been tampering with. I'm sobbing, I'll cry. See you later!"
 
-    ("「はい、さん。またおｉいしまし蛯ょう！」†",
+    ("「はい、さん。またおｉいしましょう！」†",
     ""),
     # "Yes, san. I'll be happy again!"
 
-    ("オ激レは手を振ってマ泣ルチと別れた。",
+    ("オレは手を振ってマルチと別れた。",
     ""),
     # I waved my hand and parted ways with Ruchi.
 
@@ -691,10 +691,10 @@ text_array = [
     # I see, that's lol Suzui's latest model, Maid Korobo.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("それにして烽もマ泣ルチって、なんだかへんな高ロボットだよな。◯",
+    ("それにして烽もマルチって、なんだかへんな高ロボットだよな。◯",
     ""),
     # And yet, Ka-no-Ruchi is a strange high-class robot.◯
 

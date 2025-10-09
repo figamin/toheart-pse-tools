@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko's 6th favorability event) (occurs on other than Saturday's slug) (occurs on a slug) (occurs on a slug of favorability of 20 or more) (continued from slug of favorability event 5) (acceleration of slug of favorability, 6th favorability) (with background, lessons with Tomoko) †
 
-    ("気まずい空気のなか、それで烽もめげずに、オ激レは何度か委員長に話しかけた。",
+    ("気まずい空気のなか、それで烽もめげずに、オレは何度か委員長に話しかけた。",
     ""),
     # In the midst of an awkward atmosphere, I didn't let go of the Hot, and I spoke to the chairman several times.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # However, I was devastated by a slut.†
 
-    ("ときどき目配せしたり、閨手を振ったりと、いｂんな№合図を翌送っているが、どれ烽もダ＜メ。",
+    ("ときどき目配せしたり、閨手を振ったりと、いんな№合図を翌送っているが、どれ烽もダ＜メ。",
     ""),
     # Sometimes he looks at me and waves his hands, and sends out a signal that makes you feel bad, but it's all bad.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "...Two."
 
-    ("そんな、あからさまに無許視しなくて烽もいいだｂうに。†",
+    ("そんな、あからさまに無許視しなくて烽もいいだうに。†",
     ""),
     # It's fine to not be overtly unaware of such a sea urchin.†
 

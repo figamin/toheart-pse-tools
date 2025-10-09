@@ -38,7 +38,7 @@ text_array = [
     ""),
     # After all, if you do it, you may be able to learn more than the professor's words or be more familiar with it.
 
-    ("こいつはチャャンスだｂう。†",
+    ("こいつはチャャンスだう。†",
     ""),
     # This guy is a chance.†
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "Look, Ekire Remie, please hurry up."
 
-    ("玄関に出迎えようと立ちあがると、もう志保が盾居間の入闢り福口までｗている。",
+    ("玄関に出迎えようと立ちあがると、もう志保が盾居間の入闢り口までｗている。",
     ""),
     # When I stood up to greet him at the entrance, Shiho was already inside the shield living room and even reached Fukuguchi lol.
 
-    ("「ったく、し蛯ょーがねえ図々しさだな…」†",
+    ("「ったく、しょーがねえ図々しさだな…」†",
     ""),
     # "An slut, it's so shameless..."
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "What's the first time I've ever had in Amami, so I know what it's like?"
 
-    ("オ激レは志保を無許視して玄関にｌかった。†",
+    ("オレは志保を無許視して玄関にｌかった。†",
     ""),
     # I watched Shiho unauthorized and went to the entrance.†
 
-    ("「Ｇ盾ｏ盾ｏрｄ	≠魔ｖｂ獅ｎ奄ｉ獅ｎ№ｇ、」",
+    ("「Ｇ盾ｏ盾ｏрｄ	≠魔ｖ獅ｎ奄ｉ獅ｎ№ｇ、」",
     ""),
     # "G Shield O Shield O ≠ Demon VB Lion N Amai Lion."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Are you sure there was some kind of hot boar and some hot boar?"
 
-    ("「感リ激してるの…」",
+    ("「感リしてるの…」",
     ""),
     # "I'm feeling very emotional..."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Hahaha, that's a big deal."
 
-    ("家のｒを見迪られて感リ激されるの烽も、なんか照齒れるな。†",
+    ("家のｒを見迪られて感リされるの烽も、なんか照齒れるな。†",
     ""),
     # I also feel so moved by the excitement of seeing my house go to the house.†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "My sputum is on my hands."
 
-    ("戟レミィと盾居間に戻髢ると、志保のрヤツはテーブ泣ルにモ買ってきたジャース窿やらお菓子竡やらを広げている。",
+    ("戟レミィと盾居間に戻髢ると、志保のрヤツはテーブルにモ買ってきたジャース窿やらお菓子竡やらを広げている。",
     ""),
     # When he returns to the shield of Remy to the living room, Shiho's р guy spreads out the jerseys and sweets he's bought for Tabe Cry.
 
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # "Oh, you're playing lol?"
 
-    ("「なんか面猪白いの竄やってないかな〜」",
+    ("「なんか面猪白いのやってないかな〜」",
     ""),
     # "I wonder if the face is tampered with white boars."
 
-    ("遠慮するどこｂか、今度はＴＶに手を伸ばし始めた。",
+    ("遠慮するどこか、今度はＴＶに手を伸ばし始めた。",
     ""),
     # Someone who hesitated, now began reaching for TV.
 
-    ("「こらっ、ここは使用禁止。キッチンのテーブ泣ルに座鼾れ」†",
+    ("「こらっ、ここは使用禁止。キッチンのテーブルに座鼾れ」†",
     ""),
     # "Hey, no use here. Sit down at the kitchen table cry."
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # Enter the appropriate word in ( ) to provide the answer to the questionnaire.
 
-    ("Ｗ奄ｉ撃ｌ撃ｌ	Ｍ≠ａ窒ｒ凾ｙ	＝ａ獅ｎрｄ	Ｂ奄ｉ撃ｌ撃ｌ	メｃ盾ｏ高ｍｂ	≠ｂ窒ｒｂ？閨	Ｎ盾ｏ、（		）（		）†",
+    ("Ｗ奄ｉ撃ｌ撃ｌ	Ｍ≠ａ窒ｒ凾ｙ	＝ａ獅ｎрｄ	Ｂ奄ｉ撃ｌ撃ｌ	メｃ盾ｏ高ｍ	≠窒ｒ？閨	Ｎ盾ｏ、（		）（		）†",
     ""),
     # W Amai Shot L Attack M≠a Nitrossing = a lion B Amai Shot L Attack L Mec Shield O High Mb ≠b Nitrossing?N shield o, ( ) ( )†
 
-    ("「…＝メ潟リーとビ泣ルは『彼逕ら』だから、ｔｂｂ凾ｙでぇ、浴ｗ奄ｉ撃ｌ撃ｌで聞かれたから翌ｗ奄ｉ撃ｌ撃ｌ	氏ｎ盾ｏｔだｂ？」",
+    ("「…＝メリーとビルは『彼逕ら』だから、ｔ凾ｙでぇ、浴ｗ奄ｉ撃ｌ撃ｌで聞かれたから翌ｗ奄ｉ撃ｌ撃ｌ	氏ｎ盾ｏｔだ？」",
     ""),
     # "...= Megataly and Biryu are 'they', so I'm going to have a tbb's throbbing, bathing lol Amai Shot L, so the next lol Amai Shot L, Mr. N Shield Ot B?"
 
@@ -170,11 +170,11 @@ text_array = [
     ""),
     # "And even Hou has a lot of words, isn't it? You're so phlegm, you're so phlegm, you're so phlegm, you're so phlegm?"
 
-    ("「アホ。それじ痰ゃ本番の翌ｗ奄ｉ撃ｌ撃ｌで聞かれる竄問阮題が解けねえだｂ。…戟レミィ諠先生っ」",
+    ("「アホ。それじ痰ゃ本番の翌ｗ奄ｉ撃ｌ撃ｌで聞かれる問題が解けねえだ。…戟レミィ諠先生っ」",
     ""),
     # "Idiot. That's the end of the actual event lol. I can't solve the question that is being asked in Amane Shot L.... I'm gonna get it."
 
-    ("「Ｙｂ唐入？」",
+    ("「Ｙ入？」",
     ""),
     # "Yb Tangyu?"
 
@@ -182,23 +182,23 @@ text_array = [
     ""),
     # "Please tell me the shortened form of "Bathing lol Amai Shot L Attack L Announcer Mr. Shield Ot"
 
-    ("「…Ｉ	пｄ盾ｏ獅ｎ’ｔ	ｋ獅ｎ盾ｏ翌ｗ。知闥りマセン」",
+    ("「…Ｉ	пｄ盾ｏ獅ｎ’ｔ	駆獅ｎ盾ｏ翌ｗ。知闥りマセン」",
     ""),
     # "...I пd shield on lion't k lion the next day lol. Sorry for the knowledge."
 
-    ("「なぬ〜っ！	戟レミィ、この竄問阮題だぞ？	もしかして、オ激レの考え福方が間瘧違ってるのか？」",
+    ("「なぬ〜っ！	戟レミィ、この問題だぞ？	もしかして、オレの考え方が間瘧違ってるのか？」",
     ""),
     # "No! Haha! This is the question of tampering, isn't it? Maybe my thoughts are different in the way I think about it?"
 
-    ("オ激レはプ潟リントを撃レミィに差し出した。†",
+    ("オレはプリントを撃レミィに差し出した。†",
     ""),
     # Ogekira handed out Pugatalint to Ekire Remie.†
 
-    ("「Ｗ奄ｉ撃ｌ撃ｌ	Ｍ≠ａ窒ｒ凾ｙ	＝ａ獅ｎрｄ	Ｂ奄ｉ撃ｌ撃ｌ	メｃ盾ｏ高ｍｂ	≠ｂ窒ｒｂ？",
+    ("「Ｗ奄ｉ撃ｌ撃ｌ	Ｍ≠ａ窒ｒ凾ｙ	＝ａ獅ｎрｄ	Ｂ奄ｉ撃ｌ撃ｌ	メｃ盾ｏ高ｍ	≠窒ｒ？",
     ""),
     # "W Amai Shot L Attack M≠a Nitrossing =A Lion B Amai Shot L Attack M≠B Nitrossing?
 
-    ("Ｎ盾ｏ、ｔｂｂ凾ｙ	浴ｗ盾ｏ獅ｎ’ｔ」",
+    ("Ｎ盾ｏ、ｔ凾ｙ	浴ｗ盾ｏ獅ｎ’ｔ」",
     ""),
     # N shield o, tbb y bath lol shield o lion't"
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("トンチンカンな竄問囑答を繰闌り返すオ激レたち。",
+    ("トンチンカンな問囑答を繰り返すオレたち。",
     ""),
     # We're all crazy people repeating silly tampering with each other.
 
@@ -230,11 +230,11 @@ text_array = [
     ""),
     # "Sensei!"
 
-    ("「Ｗｂ≠ａｔ？	なにかおかしいの？」",
+    ("「Ｗ≠ａｔ？	なにかおかしいの？」",
     ""),
     # "Wb≠at? Is something wrong?"
 
-    ("「だってな、疑站問文の嘯答え福方は蛯主齊語と動兼詞の否阡定形でだｂ？	動兼詞が翌ｗ奄ｉ撃ｌ撃ｌだから、否阡定形が翌ｗ奄ｉ撃ｌ撃ｌ	氏ｎ盾ｏｔで｢｢」†",
+    ("「だってな、疑站問文の嘯答え方は主齊語と動兼詞の否阡定形でだ？	動兼詞が翌ｗ奄ｉ撃ｌ撃ｌだから、否阡定形が翌ｗ奄ｉ撃ｌ撃ｌ	氏ｎ盾ｏｔで｢｢」†",
     ""),
     # "What, the answer to the questionnaire questions is the answer to the questionnaire, the standard form of the sai word and the sai word are b? The sai word is the next lol, so the standard form is the next lol, the sai word is the next lol, the sai word is the next lol, the sai word is the sai word and the sai word is the sai word and the sai word is the sai word and the sai word is the sai word and the sai word is ""†
 
@@ -242,11 +242,11 @@ text_array = [
     ""),
     # "I'm thinking too much about it.
 
-    ("『Ｗ奄ｉ撃ｌ撃ｌ	Ｍ≠ａ窒ｒ凾ｙ	＝ａ獅ｎрｄ	Ｂ奄ｉ撃ｌ撃ｌ	メｃ盾ｏ高ｍｂ	≠ｂ窒ｒｂ？	って聞かれたら、",
+    ("『Ｗ奄ｉ撃ｌ撃ｌ	Ｍ≠ａ窒ｒ凾ｙ	＝ａ獅ｎрｄ	Ｂ奄ｉ撃ｌ撃ｌ	メｃ盾ｏ高ｍ	≠窒ｒ？	って聞かれたら、",
     ""),
     # "W Amai Shot L Attack M≠a Nitrossing =A Lion B Amai Shot L Attack L Mec Shield O High Mb ≠B Nitrossing?If you are asked,
 
-    ("Ｎ盾ｏ、ｔｂｂ凾ｙ	浴ｗ盾ｏ獅ｎ’ｔ』って嘯答えるのが≠普通ダャ？」",
+    ("Ｎ盾ｏ、ｔ凾ｙ	浴ｗ盾ｏ獅ｎ’ｔ』って嘯答えるのが≠普通ダャ？」",
     ""),
     # Is it normal to answer "N shield o, tbb y bath lol shield o lion't?"”
 
@@ -266,23 +266,23 @@ text_array = [
     ""),
     # "Oh noooo ;" †
 
-    ("戟レミィはア＜メ潟リカ人だから、文法なんて考えなくっていいんだ。",
+    ("戟レミィはア＜メリカ人だから、文法なんて考えなくっていいんだ。",
     ""),
     # Karemi is an American, so you don't have to think about grammar.
 
-    ("オ激レだって冾日本齧語で『＝メ潟リーとビ泣ルがｗたでし蛯ょう？』って聞かれたら、動兼詞『＠磯翌驕xの否阡定形を使って『＠てません』なんていちいち考えないぞ。†",
+    ("オレだって冾日本齧語で『＝メリーとビルがｗたでしょう？』って聞かれたら、動兼詞『＠磯翌驕xの否阡定形を使って『＠てません』なんていちいち考えないぞ。†",
     ""),
     # Even I'm a gangbang, I heard "= Megata Li and Biryuuu lol?When asked, "Donkanetsu, "I don't think about using the standard form of @Isozuki's sinister form and "I'm not @"†
 
-    ("冝日本齧語ぺらぺらだからといって、オ激レたちが今すぐ曹国鼾語の先生になれないのと同じで、戟レミィ焜も英皷語の先生にはなれないんだ。†",
+    ("冝日本齧語ぺらぺらだからといって、オレたちが今すぐ曹国鼾語の先生になれないのと同じで、戟レミィ焜も英皷語の先生にはなれないんだ。†",
     ""),
     # Just as being a bit of a Japanese bitters, it's just like the people who can't become Cao Guang Teachers right now, and even the singular members of the world cannot become a teacher of the English language.†
 
-    ("「ち蛯ょっと、なにがしまったのよ？」",
+    ("「ちょっと、なにがしまったのよ？」",
     ""),
     # "What's wrong, what happened?"
 
-    ("「…志保、オ激レたちな、…グ宴ラマーと英皷語、全滅か烽も…」",
+    ("「…志保、オレたちな、…グラマーと英皷語、全滅か烽も…」",
     ""),
     # "...Shiho, you guys, you guys...Guban Lamar and Eiyu, all-out destruction or even Hot..."
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # "Wh, why?!"
 
-    ("「Ｄ盾ｏ獅ｎ’ｔ	香ｍ奄ｉ獅ｎрｄ。気にしないで行きまシ㏍ョウ」",
+    ("「Ｄ盾ｏ獅ｎ’ｔ	香ｍ奄ｉ獅ｎрｄ。気にしないで行きまショウ」",
     ""),
     # "D Shield't Kamami Lion. Don't worry about it, let's go."
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # "...Can I go?"
 
-    ("その繧後、オ激レと志保は終始あきらめムード。",
+    ("その繧後、オレと志保は終始あきらめムード。",
     ""),
     # After that, I and Shiho were in a mood that gave up all the time.
 
@@ -306,7 +306,7 @@ text_array = [
     ""),
     # So, even Kao asked Geki Remi only the correct answer and studied normally, memorizing the answers completely.
 
-    ("テストなんて気にしない撃レミィの脳天気なテンシ㏍ョンだけが救いだったけど…。◯",
+    ("テストなんて気にしない撃レミィの脳天気なテンションだけが救いだったけど…。◯",
     ""),
     # The only salvation was Geki Remy's tranquil tenshic, who didn't care about the test...◯
 

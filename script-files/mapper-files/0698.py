@@ -2,27 +2,27 @@
 # Source file: 0698.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	ＬＶ４）閨（選択綜Ｂ	今厓日までご苦労さん）†",
+    ("（マルチ	回秤数イベント	ＬＶ４）閨（選択綜Ｂ	今厓日までご苦労さん）†",
     ""),
     # (Muryuruchi, Scales Event LV4) (Select B, you'll be working hard until the day of the day)†
 
-    ("「…マ泣ルチ、今厓日までご苦労さん」",
+    ("「…マルチ、今厓日までご苦労さん」",
     ""),
     # "...Mixing, you're going to have a hard time until the day you're in the middle of your life."
 
-    ("オ激レは、いｂいｂな思いを桙込めてマ泣ルチに言った。†",
+    ("オレは、いいな思いを桙込めてマルチに言った。†",
     ""),
     # I said to my cries with my b-boy feelings.†
 
-    ("「ありがとうございます。いｂいｂお世話になりました。いつかの冾日か、またおｉいできる冾日があれば嬉しいです」",
+    ("「ありがとうございます。いいお世話になりました。いつかの冾日か、またおｉいできる冾日があれば嬉しいです」",
     ""),
     # "Thank you very much. Thank you very much for your support. I would be happy if there was one day or another day I could have done it."
 
-    ("マ泣ルチは、ち蛯ょっぴり涙ぐんで言った。†",
+    ("マルチは、ちょっぴり涙ぐんで言った。†",
     ""),
     # "I'm not going to cry," said Ruchi, crying.†
 
-    ("「できれば、ａ高校生衰が終尞わるまで、ずっとマ泣ルチといっし蛯ょにいたかったぜ」",
+    ("「できれば、ａ高校生衰が終尞わるまで、ずっとマルチといっしょにいたかったぜ」",
     ""),
     # "If possible, I would have liked to be with Makruchi until the decline in high school students ended."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Mr. Miss…"
 
-    ("「で烽も、し蛯ょうがないよな。マ泣ルチは特別だ烽もんな」",
+    ("「で烽も、しょうがないよな。マルチは特別だ烽もんな」",
     ""),
     # "And there's no slut, too. Ma-yuruchi is special, it's hot."
 
@@ -38,19 +38,19 @@ text_array = [
     ""),
     # "yes…"
 
-    ("マ泣ルチはこくんとうなずいた。†",
+    ("マルチはこくんとうなずいた。†",
     ""),
     # Ruchi nodded with a cry of tea.†
 
-    ("「じ痰ゃあな、マ泣ルチ。元気でな」",
+    ("「じ痰ゃあな、マルチ。元気でな」",
     ""),
     # "You're so phlegm, you cry. Be fine."
 
-    ("オ激レは笑迴顔でそう言うと、マ泣ルチの頭に、ぽん、と手を置いた。",
+    ("オレは笑迴顔でそう言うと、マルチの頭に、ぽん、と手を置いた。",
     ""),
     # I said this with a laughing face, and then placed my hand on Makruchi's head.
 
-    ("「さん烽もお元気で。お体を蛯大切に」",
+    ("「さん烽もお元気で。お体を大切に」",
     ""),
     # "Sanka is doing well, too. Take care of your health."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yeah. It's phlegm."
 
-    ("オ激レは手を繧上げてマ泣ルチと別れた。†",
+    ("オレは手を繧上げてマルチと別れた。†",
     ""),
     # My gulp raised my hands and parted ways with Ruchi.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "If that's right~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    ("マ泣ルチはいつまで烽もいつまで烽も、オ激レに手を振っていた。◯",
+    ("マルチはいつまで烽もいつまで烽も、オレに手を振っていた。◯",
     ""),
     # Makkuruchi was waving to me for how long, how long, long, long, long, long.◯
 

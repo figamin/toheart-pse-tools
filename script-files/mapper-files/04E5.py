@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho Likeability Event PS)†
 
-    ("「竅やあ竄やあ、クン」",
+    ("「やあやあ、クン」",
     ""),
     # "Ahhh, sniff, snuggle."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "My name is Shiho.
 
-    ("相変﨑わらずのテンシ㏍ョンだな」",
+    ("相変﨑わらずのテンションだな」",
     ""),
     # It's a tenshi-chan without Aihenzaki."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "So, is it for something?"
 
-    ("「あたし今、ひとりで帰驪るとこなのよ。どお？	その辺までいっし蛯ょに帰んない？」",
+    ("「あたし今、ひとりで帰驪るとこなのよ。どお？	その辺までいっしょに帰んない？」",
     ""),
     # "I'm going home on my own now. What? Why? Why don't you come back to that area??"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # A: That's fine.Relax
 
-    ("Ｂ	竅やなこった。閨",
+    ("Ｂ	やなこった。閨",
     ""),
     # B That's a bit of a problem.Relax
 

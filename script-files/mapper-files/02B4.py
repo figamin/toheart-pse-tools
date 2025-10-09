@@ -23,7 +23,7 @@ text_array = [
     # A little while later, an old man with a phlegm on his face was riding a floating black chrysanthemum limousine...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("思い出したくない顔だ。†",
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # So, what should I do?
 
-    ("Ａ	じじいがｗ磯翌髑Oに連齪れ出す。閨",
+    ("Ａ	じじいがｗ磯翌Oに連齪れ出す。閨",
     ""),
     # A: Old man lol Iso's next skull starts to burst into the next skull.Relax
 

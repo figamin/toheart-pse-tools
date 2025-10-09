@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 3 of the battle to take on the balance scales) (Continued from Chosen Soku C, Kukoross Counter)†
 
-    ("こうなったら、ク鴻ロスカウンターってрヤツを叩き桙込んで竄やる。",
+    ("こうなったら、ク鴻ロスカウンターってрヤツを叩き桙込んでやる。",
     ""),
     # If this happens, the Kukoross counter will hit the guy, slam him, and tamper with it.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # 'I'm pushing so much, so I'm sure I'm letting my guard down.
 
-    ("見てｂよ〜…。†",
+    ("見てよ〜…。†",
     ""),
     # Look b...†
 
-    ("オ激レはガードしながら目を光迪らせ、タイミングを計った。",
+    ("オレはガードしながら目を光迪らせ、タイミングを計った。",
     ""),
     # I kept my eyes on the guard and timed it out.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # The target is a one-two shield two.
 
-    ("綾∴香の右スト激レートだ。",
+    ("綾∴香の右ストレートだ。",
     ""),
     # Aya∴Ka's right straight rating.
 
-    ("そいつにあ墲わせて、オ激レ焜も右を叩き桙込む。†",
+    ("そいつにあ墲わせて、オレ焜も右を叩き桙込む。†",
     ""),
     # He gives him a shot, and I also hit the right side and slammed it.†
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # Oh?
 
-    ("綾∴香の右がク潟リーンヒットした。",
+    ("綾∴香の右がクリーンヒットした。",
     ""),
     # Aya∴Ka's right hit Kugata Lean.
 
-    ("オ激レの右は伸びきってない。†",
+    ("オレの右は伸びきってない。†",
     ""),
     # My hard right side is not fully extended.†
 
-    ("ぐらりと揺齬れるオ激レの顔面に、",
+    ("ぐらりと揺齬れるオレの顔面に、",
     ""),
     # My face is shaking and shaking,
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # ・†
 
-    ("ク鴻ロスカウンターなんて、慣れないことは竄やる烽もんじ痰ゃねーな。",
+    ("ク鴻ロスカウンターなんて、慣れないことはやる烽もんじ痰ゃねーな。",
     ""),
     # The Kukoross counter is a must-have for things you don't get used to.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "ah…?"
 
-    ("ふと横を見骭るとセ潟リオがいて、ぱたぱたと下敷きで顔をあおいでくれていた。",
+    ("ふと横を見骭るとセリオがいて、ぱたぱたと下敷きで顔をあおいでくれていた。",
     ""),
     # I suddenly looked next to me and found Segata Rio, who was flapping his face with a slack underlay.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("オ激レは繧上体を起こすと、吹草の繧上であぐらをかいた。",
+    ("オレは繧上体を起こすと、吹草の繧上であぐらをかいた。",
     ""),
     # I lifted up my body and grabbed my legs on the ridge of the bush.
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "oh dear…"
 
-    ("「馬鹿ねえ。ジャャブで動きを止められてからじ痰ゃ出遅齟れるのは魔当然でし蛯ょ。ああいうのは、もう少しディフェンスが繧上達してから狙いなさいよ」",
+    ("「馬鹿ねえ。ジャャブで動きを止められてからじ痰ゃ出遅れるのは魔当然でしょ。ああいうのは、もう少しディフェンスが繧上達してから狙いなさいよ」",
     ""),
     # "That's stupid. It's only natural that you'll be slow to get phlegm after you stop moving. You should aim for that kind of thing once your defense improves a little more."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("なに烽も言えないオ激レに、",
+    ("なに烽も言えないオレに、",
     ""),
     # I can't say anything about it,
 

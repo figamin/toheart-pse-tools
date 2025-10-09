@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I'll leave my shopping to you."
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "What?"
 
-    ("あかりはち蛯ょっと驚いた顔をする。†",
+    ("あかりはちょっと驚いた顔をする。†",
     ""),
     # Akari Hachie looks surprised.†
 
-    ("「で烽も、さっきはいっし蛯ょに行くって…」",
+    ("「で烽も、さっきはいっしょに行くって…」",
     ""),
     # "And now, I'll be going to Ebi as well..."
 
-    ("「言ったけど、諱よく考えてみｂ。学校帰闍りの制梵服姿の男と翌女が、スーパーでモ買い物だぞ。それを見たのが、たとえ志保じ痰ゃなくて烽も、ウ純ワサになっちまうだｂ」",
+    ("「言ったけど、諱よく考えてみ。学校帰闍りの制梵服姿の男と翌女が、スーパーでモ買い物だぞ。それを見たのが、たとえ志保じ痰ゃなくて烽も、ウ純ワサになっちまうだ」",
     ""),
     # "I said that, but think about it carefully. A man in a Sanskrit uniform after school and the next woman are shopping at the supermarket. Seeing this, even if Shiho's phlegm is not phlegm, he's going to become a pure wasa."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "So, you should go by yourself."
 
-    ("「增わかった」",
+    ("「わかった」",
     ""),
     # "I understand."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Kaji Ai Henzaki is not a Henzaki, but he's a very clear guy.†
 
-    ("「とこｂで、なにか食べたい物の鰍リクエストはあ",
+    ("「とこで、なにか食べたい物の鰍リクエストはあ",
     ""),
     # "In this case, there's a request for something you want to eat.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Are you?”
 
-    ("「そうだな。たまにはなんか家薗的な竄やつが食いたいな。ファミ激レスじ痰ゃ食えないような」†",
+    ("「そうだな。たまにはなんか家薗的なやつが食いたいな。ファミレスじ痰ゃ食えないような」†",
     ""),
     # "That's right. Sometimes I want to eat something like Iezono-like. I can't eat it without any phlegm."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "My specialty is paying for money? ...Hmm, what is it? That's not a problem or anything like that." †
 
-    ("「まあ、お前にまかせるよ。好きなのｍってくれ。オ激レ的には、うまくて、安くて、栄養があれば文蝠句ねーから」",
+    ("「まあ、お前にまかせるよ。好きなのｍってくれ。オレ的には、うまくて、安くて、栄養があれば文蝠句ねーから」",
     ""),
     # "Well, I'll leave it to you. Please give me your favorite. For me, it's a good, cheap, and if you have nutrition, it's a slogan."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "That's tough enough..."
 
-    ("「お前ならできる。米はある、みそ烽もある、調味料燉も蛯主要な烽ものはひと通闥りそｂってる。",
+    ("「お前ならできる。米はある、みそ烽もある、調味料燉も主要な烽ものはひと通闥りそってる。",
     ""),
     # "You can do it. You have rice, miso hotpot, and you can also use seasonings and other major hotpots.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # After that I trust you!”
 
-    ("「うん、增わかった。",
+    ("「うん、わかった。",
     ""),
     # "Yeah, I understand.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Okay, that's your spirit!"
 
-    ("あかりは意外と調子に乗せ竄やすい。†",
+    ("あかりは意外と調子に乗せやすい。†",
     ""),
     # Akari is surprisingly easy to get carried away.†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Yeah, it's about 6 o'clock and there's a hot spring."
 
-    ("「うん、增わかった。それじ痰ゃ」",
+    ("「うん、わかった。それじ痰ゃ」",
     ""),
     # "Yeah, I understand. That's all phlegm."
 

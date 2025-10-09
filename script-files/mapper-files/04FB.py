@@ -2,23 +2,23 @@
 # Source file: 04FB.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	アクシ㏍ョン焜もの）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	アクション焜もの）†",
     ""),
     # (Shiho Scales Event PS) (Selective Accidental)†
 
-    ("「オ激レは竄やっぱアクシ㏍ョン焜ものかな」",
+    ("「オレはやっぱアクション焜ものかな」",
     ""),
     # "I guess I'm going to have to tamper with something that's really a mistake."
 
-    ("噤爆破とか銃ｏ撃甯戦とかカーアクシ㏍ョンとか、とにかく派阡手なрヤツは見てて気分がすっきりするからな。",
+    ("噤爆破とか銃ｏ撃甯戦とかカーアクションとか、とにかく派阡手なрヤツは見てて気分がすっきりするからな。",
     ""),
     # Watching people who are so swaying, like explosions, gun-o-shooting warfare, and car axials makes me feel refreshed.
 
-    ("「ブ泣ルーツウイ泣ルスとか？」",
+    ("「ブルーツウイルスとか？」",
     ""),
     # "What about the roots of my crying and crying?"
 
-    ("「ああ、ブ泣ルーツウイ泣ルスの出てる映謇画ってｖ鰯哩Cケてるよな」†",
+    ("「ああ、ブルーツウイルスの出てる映謇画ってｖ鰯哩Cケてるよな」†",
     ""),
     # "Ah, the image of the film that features the story of the film "Who's roots" is vs. Sardines are shattered"
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "I like "Guy Hard""
 
-    ("「竅やっぱあれが繧代表附だよな」",
+    ("「やっぱあれが繧代表附だよな」",
     ""),
     # "That's the one that's included in the representative after all."
 
-    ("「で烽もさ、ブ泣ルーツウイ泣ルスの映謇画竕やってた？",
+    ("「で烽もさ、ブルーツウイルスの映謇画竕やってた？",
     ""),
     # "And were you doing the film painting of the film, which is so crazy about its roots?
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # I don't remember though."
 
-    ("「＠てねえだｂ」†",
+    ("「＠てねえだ」†",
     ""),
     # "@Not b" ​​†
 
-    ("「じ痰ゃほかのアクシ㏍ョンは？」",
+    ("「じ痰ゃほかのアクションは？」",
     ""),
     # "What about other sputum?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Same on the right..."
 
-    ("結局その冾日は映謇画を竄やめ、ふたりでだべりながら帰った。◯",
+    ("結局その冾日は映謇画をやめ、ふたりでだべりながら帰った。◯",
     ""),
     # In the end, they stopped tampering with the Eiji paintings and went home together, drove away.◯
 

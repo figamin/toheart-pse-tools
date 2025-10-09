@@ -14,7 +14,7 @@ text_array = [
     ""),
     # It was a particularly surprising word, and it was a natural phrase that was not very hot.†
 
-    ("「なんなのよ！	そのつまんない鰍リアクシ㏍ョンは！」",
+    ("「なんなのよ！	そのつまんない鰍リアクションは！」",
     ""),
     # "What is it? That boring choriacciが!"
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "And I don't have a hot spring..."
 
-    ("志保は蛯大きく息を吸い桙込んで、",
+    ("志保は大きく息を吸い桙込んで、",
     ""),
     # Shiho took a deep breath and took a deep breath,
 
-    ("「き蛯ょうび、冝日本人で烽も曹国鼾語で１００点謫取齊れないのに、ハーフの子が英皷語で１００点なのよ？	すごいじ痰ゃないの！」",
+    ("「きょうび、冝日本人で烽も曹国鼾語で１００点謫取齊れないのに、ハーフの子が英皷語で１００点なのよ？	すごいじ痰ゃないの！」",
     ""),
     # "The Japanese are Japanese, and even the Chinese can't score 100 points in Cao Guang, but the half-Japanese child scores 100 points in English language, right? You can't get a lot of phlegm!"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # He explained that he had the power to do so.
 
-    ("「冝日本のテストは、本齧場から見鼬れば簡単なんだｂ」",
+    ("「冝日本のテストは、本齧場から見鼬れば簡単なんだ」",
     ""),
     # "Testing in Japan is easy if you look at it from the gnawing field."
 
-    ("オ激レにはどう烽も納得できない。†",
+    ("オレにはどう烽も納得できない。†",
     ""),
     # I can't believe it even if I'm a keen player.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "What are you talking about, he..."
 
-    ("とか言ってると、う墲わさの張本人が竄やってきた。†",
+    ("とか言ってると、う墲わさの張本人がやってきた。†",
     ""),
     # As I said that, the person who was involved in the Umawasa started tampering with me.†
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "YES?"
 
-    ("「お前、英皷語とグ宴ラマー、１００点だってよ」",
+    ("「お前、英皷語とグラマー、１００点だってよ」",
     ""),
     # "You're English-Japanese and Gubanquet Lamar, 100 points."
 
-    ("「Ａ窒ｒｂ	凵ｙ盾ｏ浮ｕ	入ｂ窒ｒ奄ｉ盾ｏ浮ｕ唐入？	轣冗談でし蛯ょ？」",
+    ("「Ａ窒ｒ	凵ｙ盾ｏ浮ｕ	入窒ｒ奄ｉ盾ｏ浮ｕ入？	轣冗談でしょ？」",
     ""),
     # "A nitrogen shield o floats into the b nitrogen shield o floats into the b nitrogen shield o floats into the bang? Is it a joke, slut?"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Why?"
 
-    ("「だってアタシ、增わからないスペ泣ルがあって、全泊部囎答えられなかったｃ」",
+    ("「だってアタシ、わからないスペルがあって、全泊部囎答えられなかったｃ」",
     ""),
     # "Because I had a slut that I didn't understand, and I couldn't answer all the staff members."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("どう竄やらまたして烽も志保ち痰ゃん薰情報はガセ辜らしい。",
+    ("どうやらまたして烽も志保ち痰ゃん薰情報はガセ辜らしい。",
     ""),
     # It seems that the information is fake and fake, even though it's tampered with, and it seems that the information is fake.
 
@@ -126,15 +126,15 @@ text_array = [
     ""),
     # "Is it 100 points?"
 
-    ("「い竄や、增わりぃ。それはこっちの勘瘧違いだった」",
+    ("「いや、わりぃ。それはこっちの勘瘧違いだった」",
     ""),
     # "It's a mess, it's a shame. That was a different instinct."
 
-    ("「そーデスカ。アタシち蛯ょっと、♀んだｃ」",
+    ("「そーデスカ。アタシちょっと、♀んだｃ」",
     ""),
     # "Sodeska. I'm a female c."
 
-    ("「增わりぃな、ぬかｊびさせちまって」",
+    ("「わりぃな、ぬかｊびさせちまって」",
     ""),
     # "Stop it, let me sniff it."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "never mind,"
 
-    ("…オ激レが謝ってどーすんだ志保！◯",
+    ("…オレが謝ってどーすんだ志保！◯",
     ""),
     # ...What should I do about Shiho when I apologize?◯
 

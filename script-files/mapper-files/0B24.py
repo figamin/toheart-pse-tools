@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 2) (After the weir lost) (Aya∴Ka, right) †
 
-    ("「という墲わけでセ潟リオ、結果は？」",
+    ("「という墲わけでセリオ、結果は？」",
     ""),
     # "So, what's the result, Seragata Rio?"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Yes, Aya∴Kaoru-sama's victory."
 
-    ("「竅やっりぃー！	Ｖ２！」",
+    ("「やっりぃー！	Ｖ２！」",
     ""),
     # "Aaaaah! V2!"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ahhh already..." †
 
-    ("「という墲わけで、それじ痰ゃ今厓日燗も、綾∴香謐先生の盾ワンポイント激レッスン〜！」",
+    ("「という墲わけで、それじ痰ゃ今厓日燗も、綾∴香謐先生の盾ワンポイントレッスン〜！」",
     ""),
     # "So, that's why, even if you're going to have a sigh of stimulation, it's Aya Kasu Sensei's shield lesson!"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "...Please... Kaji."
 
-    ("「今厓日は蛯大桝事なフット純ワークについて教えてあげる。フット純ワークは、攻ｍ撃に烽も防莓御に烽も№欠かせない、とにかく薰基本亦の薰基本で｢｢」†",
+    ("「今厓日は大桝事なフット純ワークについて教えてあげる。フット純ワークは、攻ｍ撃に烽も防莓御に烽も№欠かせない、とにかく薰基本亦の薰基本で｢｢」†",
     ""),
     # "I'll tell you about the footwork that's a big hit. With footwork, we're essential for attacks, m attacks, heat prevention, and heat prevention, so we're basically basically the same as ""†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # After that, I was taught some basic techniques for traveling and got some hot water.
 
-    ("移動の薰基本は円を意識したサーク潟リング。",
+    ("移動の薰基本は円を意識したサークリング。",
     ""),
     # The basic way to travel is the sarkugata ring, which is based on circles.
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # This is a combination of rotational motion using a pivot.†
 
-    ("′して飛び跳ねず、ス潟リ足で移動する。",
+    ("′して飛び跳ねず、スリ足で移動する。",
     ""),
     # ' and do not jump up and down, then move with your slats.
 
-    ("ヒザを柔迴らかくし、移動搏幅を一闊定にして、梶リズミカ泣ルに動く。",
+    ("ヒザを柔迴らかくし、移動搏幅を一闊定にして、梶リズミカルに動く。",
     ""),
     # He softens his knees, regulates his movements in a steady manner, and moves in a cry of rhythmic rhythm.
 
-    ("動きたい福方阜へ足を出し、もう一箞方の足を引き寄せる。",
+    ("動きたい方阜へ足を出し、もう一箞方の足を引き寄せる。",
     ""),
     # He puts his foot towards Fukukata Fu, who wants to move, and pulls another foot closer to him.
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # It seems simple, but it's a completely special method of transportation.
 
-    ("意識して反恃復荿練習することが蛯大切だ。†",
+    ("意識して反恃復荿練習することが大切だ。†",
     ""),
     # It is important to be consciously practising anti-reply.†
 
-    ("「前回パンチについて教えたけど、ち痰ゃんと家で烽も福練習してるみたいね。今厓日のパンチ、けっこう様になってた墲わよ」",
+    ("「前回パンチについて教えたけど、ち痰ゃんと家で烽も練習してるみたいね。今厓日のパンチ、けっこう様になってた墲わよ」",
     ""),
     # "I told you about punching last time, and it looks like you're practicing fortune at home with Chishunya. The punching on the day of the day is pretty good."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "You're so phlegm..."
 
-    ("「その調子でフット純ワーク焜も福練習してね」",
+    ("「その調子でフット純ワーク焜も練習してね」",
     ""),
     # "Practice your foot pure work centre with that tone."
 

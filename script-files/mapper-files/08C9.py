@@ -18,11 +18,11 @@ text_array = [
     ""),
     # Are you?”
 
-    ("「天ぷら？	天ぷらは冾日本の料摎理にｌまってるだｂ」",
+    ("「天ぷら？	天ぷらは冾日本の料摎理にｌまってるだ」",
     ""),
     # "Tempura? Tempura is waiting for Japanese food to be sent b."
 
-    ("オ激レの知髓る限闌り、天ぷらは和食の繧代表だ。†",
+    ("オレの知髓る限り、天ぷらは和食の繧代表だ。†",
     ""),
     # As far as I can tell from my heart, tempura is the representative of Japanese cuisine.†
 
@@ -38,17 +38,17 @@ text_array = [
     ""),
     # "I'm lying. I'm the first time I hear of that."
 
-    ("「えっとネ、テンプー堰ラはネ、增戦草国檮時緕代にポ泣ルトガ泣ルから渡ってきた『テンポ宴ラ潟リ』っていう揚げ物料摎理が汲ルーツなの」",
+    ("「えっとネ、テンプー堰ラはネ、戦草国檮時緕代にポルトガルから渡ってきた『テンポラリ』っていう揚げ物料摎理が汲ルーツなの」",
     ""),
     # "Um, the Tempoo Heir is the root of the fried food "Tempo Banquet Ragari" that was crossed from the warring country of the shogunate."
 
-    ("「けっ、テンポ宴ラ潟リからテンプ宴ラになったのか？	その話、出女過ぎてないか？」†",
+    ("「けっ、テンポラリからテンプラになったのか？	その話、出女過ぎてないか？」†",
     ""),
     # "Haha, did the Tempo Banquet change from Tempo Banquet to Tempo Banquet? Isn't that too much of a woman?"
 
-    ("「名前がテンプー堰ラになったのは、江戸梃時緕代のサントーキ㏍ョーデンって人が名付けたからだって」",
+    ("「名前がテンプー堰ラになったのは、江戸梃時緕代のサントーキョーデンって人が名付けたからだって」",
     ""),
-    # "The reason his name was Tempuuuu was because someone named Santoki ㏍yoden in Edo Shutoki da ."
+    # "The reason his name was Tempuuuu was because someone named Santoki yoden in Edo Shutoki da ."
 
     ("「誰それ？」",
     ""),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "The book was written by Cao."
 
-    ("「瘁例えばな、それが魔事実だったとして、天ぷらが和食じ痰ゃないと墲わかって烽も、いいことねーだｂ？」",
+    ("「瘁例えばな、それが魔事実だったとして、天ぷらが和食じ痰ゃないと墲わかって烽も、いいことねーだ？」",
     ""),
     # "For example, if that's a magical fact, it's a good thing to know that tempura is not a Japanese food, isn't it?"
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "So, Susi's roots are also in Japan, so there's no phlegm."
 
-    ("「增わーった墲わーった。",
+    ("「わーった墲わーった。",
     ""),
     # "I'm so sad.
 
-    ("寿司がどこの曹国の食いｂモンだｂーと、関係ねえってば」",
+    ("寿司がどこの曹国の食いモンだーと、関係ねえってば」",
     ""),
     # It's not related to what kind of Cao Province's food B-mon B-man, it's not related to the sushi."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # He heard from Karemi that he had a deep sense of the roots of Japanese culture that even Hot would be of no use, and on that day he was pushing and kicking.
 
-    ("で烽も、戟レミィはきっと話を聞いてくれる人を探してたんだｂう。",
+    ("で烽も、戟レミィはきっと話を聞いてくれる人を探してたんだう。",
     ""),
     # And even Ka-Remi was probably looking for someone to listen to.
 

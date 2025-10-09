@@ -2,11 +2,11 @@
 # Source file: 01A7.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ａ	待って、いっし蛯ょに帰驪る）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ａ	待って、いっしょに帰驪る）†",
     ""),
     # (Akari Scales Event 1F) (A Wait, I'll go back to the simile)†
 
-    ("「あかり、今厓日はいっし蛯ょに帰驪るか」",
+    ("「あかり、今厓日はいっしょに帰驪るか」",
     ""),
     # "Akari, will you return to Ebi now?"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「掃恆除終尞わるの、待ってて竄やるから」",
+    ("「掃恆除終尞わるの、待っててやるから」",
     ""),
     # "I'll wait and tamper with it until the scavenging and expulsion is over."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "You're phlegm, I'm in the shoe cabinet."
 
-    ("「增わかった。じ痰ゃ、＝早く終尞わらせてくるよ」†",
+    ("「わかった。じ痰ゃ、＝早く終尞わらせてくるよ」†",
     ""),
     # "I understand. I'll finish it soon." †
 
-    ("しばらく待っていると、掃恆除を終尞わらせ、あかりが竄やってきた。",
+    ("しばらく待っていると、掃恆除を終尞わらせ、あかりがやってきた。",
     ""),
     # After waiting for a while, Akari ended the scavenging and scavenging.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "...Whew, huh, oh, please keep me waiting."
 
-    ("「なんだ、磨走ってきたのか？」",
+    ("「なんだ、走ってきたのか？」",
     ""),
     # "What, have you been pursuing?"
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "I see, Sankya" ◯
 
-    ("ふたり並んで竄坂を下濶りていく。",
+    ("ふたり並んで坂を下濶りていく。",
     ""),
     # The two of them side by side and move down the hill.
 
-    ("行き烽も帰闍り烽もいっし蛯ょじ痰ゃ、おしどり夫婦呼ば墲わりされて烽も不思議はねー增わな。",
+    ("行き烽も帰闍り烽もいっしょじ痰ゃ、おしどり夫婦呼ば墲わりされて烽も不思議はねーわな。",
     ""),
     # It's not surprising that they go to the shrine and go back to the shrine, and when they call them a couple, it's not surprising.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Well, I don't care about it or smoke at the moment.†
 
-    ("「そうい竄や今厓日さ、階段で妙なことがあったんだよな」",
+    ("「そういや今厓日さ、階段で妙なことがあったんだよな」",
     ""),
     # "That's what happened, the day has just happened, something strange happened on the stairs."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "What a strange thing?"
 
-    ("ふと、昼休みのことを思い出したオ激レは、それをあかりに話して聞かせた。†",
+    ("ふと、昼休みのことを思い出したオレは、それをあかりに話して聞かせた。†",
     ""),
     # Suddenly, I remembered about lunch break, so I told Akari about it.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Wow, that's amazing. What Shiho said was right in the real world."
 
-    ("「本末当かどうかはｌまった墲わけじ痰ゃねー諱よ。ただ、本末当に汲窓ガ宴ラスはр割れた。きれいに、粉々に」",
+    ("「本末当かどうかはｌまった墲わけじ痰ゃねー諱よ。ただ、本末当に汲窓ガラスはр割れた。きれいに、粉々に」",
     ""),
     # "You can't tell if it's the end of the day, so don't you think about it, I'm not going to give you a sigh of phlegm. However, the end of the day, the banquet of the day has broken. It's beautifully shattered."
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # "Isn't there such a thing as if a strong next wind suddenly blowing?
 
-    ("「ほかの汲窓は全然なんと烽もなかったんだぜ？	それに、その琴音って子は、п割れるガ宴ラスに気がついたんだ。",
+    ("「ほかの汲窓は全然なんと烽もなかったんだぜ？	それに、その琴音って子は、п割れるガラスに気がついたんだ。",
     ""),
     # "The other windows didn't have any heat at all, right? And Kotone, too, noticed a banquet breaking.
 
-    ("風とかだったら、その子に予測できるはずないだｂ？」",
+    ("風とかだったら、その子に予測できるはずないだ？」",
     ""),
     # If it were wind, there's no way that child could predict it?”
 
-    ("「そっか。…じ痰ゃあ、竅やっぱりその子の未知のパ純ワーなのかな？」†",
+    ("「そっか。…じ痰ゃあ、やっぱりその子の未知のパ純ワーなのかな？」†",
     ""),
     # "I see....I see...I see, phlegm, is that the child's unknown power after all?"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Yeah, I'm the one who believes. There must be a lot of strange things in the world that have not been solved by science. What do you think of Chishunya?"
 
-    ("「オ激レは…」†",
+    ("「オレは…」†",
     ""),
     # "I'm so excited..." †
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Yes. Now it's ""
 
-    ("Ａ	竅やっぱり、あるんじ痰ゃないかと思う。閨",
+    ("Ａ	やっぱり、あるんじ痰ゃないかと思う。閨",
     ""),
     # A: I think there's nothing more to phlegm after all.Relax
 

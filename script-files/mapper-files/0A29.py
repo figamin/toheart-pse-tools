@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hey, I'm sputum."
 
-    ("オ激レは繧後撃から声をかけた。†",
+    ("オレは繧後撃から声をかけた。†",
     ""),
     # My gang called out after the attack.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Ah, kun."
 
-    ("掾理女緒ち痰ゃんはオ激レの揩持ってる袋を見て、",
+    ("掾理女緒ち痰ゃんはオレの揩持ってる袋を見て、",
     ""),
     # The girl Ochi Sphin-chan looks at the bag I'm holding,
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "What? It's pretty quick. Oh, maybe = I also simmered quickly?"
 
-    ("「竅やだなー。そんなのしてないよー」",
+    ("「やだなー。そんなのしてないよー」",
     ""),
     # "I don't like that. I haven't done that."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "law"
 
-    ("「ア泣ルバイトで、すごくきたえられち痰ゃったから」",
+    ("「アルバイトで、すごくきたえられち痰ゃったから」",
     ""),
     # "I was so excited about my part-time job that I was really excited."
 
@@ -78,19 +78,19 @@ text_array = [
     ""),
     # "Why is it a part-time job? ≠ Fast meal?"
 
-    ("「ときどきだけど、お汲昼を艪ゆっくり食べられないバイト焜もあるの。そのせいで、ごはんはパッと食べる癖がついち痰ゃったんだ」",
+    ("「ときどきだけど、お汲昼をゆっくり食べられないバイト焜もあるの。そのせいで、ごはんはパッと食べる癖がついち痰ゃったんだ」",
     ""),
     # "It's sometimes the time, but there are some part-time jobs where you can't eat lunch slowly. That's why I ended up having to eat a quick meal."
 
-    ("「う〜ん、そり痰ゃまた実用的なスキ泣ルだな」",
+    ("「う〜ん、そり痰ゃまた実用的なスキルだな」",
     ""),
     # "Hmm, it's a practical cry that makes me feel good."
 
-    ("オ激レが食堂にパンをモ買いに行ってる桙時間に、もう食っちまった墲わけだからな。†",
+    ("オレが食堂にパンをモ買いに行ってる桙時間に、もう食っちまった墲わけだからな。†",
     ""),
     # I've already eaten it when I went to the cafeteria to buy some bread.†
 
-    ("「すごいでし蛯ょ？	あはは」",
+    ("「すごいでしょ？	あはは」",
     ""),
     # "Amazing ecchi? Ahaha."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Huh? What?"
 
-    ("「い竄や、掾理女緒ち痰ゃんって面猪白いなと思って」",
+    ("「いや、掾理女緒ち痰ゃんって面猪白いなと思って」",
     ""),
     # "I thought that it was a bit white, I thought that the face of the girl was white."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "?"†
 
-    ("と、そこでオ激レはド潟リンクをモ買い忘齧れてたことに気づいた。",
+    ("と、そこでオレはドリンクをモ買い忘齧れてたことに気づいた。",
     ""),
     # And so I realized that I had been buying and forgetting about Dogata Link.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Ah, I was forgetting.
 
-    ("わりぃ、ち蛯ょっとド潟リンクャ買ってくる墲わ」",
+    ("わりぃ、ちょっとドリンクャ買ってくる墲わ」",
     ""),
     # I'm gonna buy Dogata Wrinkle, after all."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Oh, I'm going to smoke too."
 
-    ("掾理女緒ち痰ゃんはオ激レの繧後をついてきた。†",
+    ("掾理女緒ち痰ゃんはオレの繧後をついてきた。†",
     ""),
     # The girl Ochisou-chan followed me after my intense slut.†
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Kun, you often buy Jasya here."
 
-    ("「まーな、ここぐらいしかないだｂ。それに、ここのカフェオ激レ｢｢黽おっ！」",
+    ("「まーな、ここぐらいしかないだ。それに、ここのカフェオレ｢｢黽おっ！」",
     ""),
     # "Well, this is the only place. Also, the cafe au cultivated lait here is "Oh nooo!"
 
@@ -226,11 +226,11 @@ text_array = [
     ""),
     # "~~~~"
 
-    ("掾理女緒ち痰ゃんの笑迴顔が痛々しく艪ゆがむ。",
+    ("掾理女緒ち痰ゃんの笑迴顔が痛々しくゆがむ。",
     ""),
     # The laughter of the girl Ochi Sphinja's face shatters painfully.
 
-    ("どう竄やらいきなり立とうとして、£で手をぶつけたようだ。†",
+    ("どうやらいきなり立とうとして、£で手をぶつけたようだ。†",
     ""),
     # It seems he tried to stand up suddenly, but slammed his hand with £.†
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # "And this is the hot one too."
 
-    ("はいっと差し出した手をオ激レの前で開く。",
+    ("はいっと差し出した手をオレの前で開く。",
     ""),
     # He held out his hand and opened it in front of me.
 
@@ -278,11 +278,11 @@ text_array = [
     ""),
     # "Good name, found it."
 
-    ("「あ、い竄や…」",
+    ("「あ、いや…」",
     ""),
     # "Ah, it's tampering..."
 
-    ("オ激レが獅落としたのは１００円…と言おうとして、竅やめた。",
+    ("オレが獅落としたのは１００円…と言おうとして、やめた。",
     ""),
     # I tried to say that it was 100 yen for my leopardy, but then I stopped.
 
@@ -318,11 +318,11 @@ text_array = [
     ""),
     # "Ah, that's fine, that's not it.
 
-    ("私、そんなつ烽もりで竄やったんじ痰ゃない烽もの」",
+    ("私、そんなつ烽もりでやったんじ痰ゃない烽もの」",
     ""),
     # I've been tampering with such a strong heat, and I have no phlegm.''
 
-    ("「氏落とし蛯主は、拾い蛯主に一ц割から二投рﾌお礼をしなき痰ゃいけないんだぜ」",
+    ("「氏落とし主は、拾い主に一ц割から二投рﾌお礼をしなき痰ゃいけないんだぜ」",
     ""),
     # "The pirates must not thank the pirates for a single thump or two."
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # "it is…"
 
-    ("「ジャース黹一本、閨手頃だｂ？」†",
+    ("「ジャース黹一本、閨手頃だ？」†",
     ""),
     # "A jars bite is a reasonable b?"
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # The smug yan looked at the vending machine a little,
 
-    ("「じ痰ゃあ、くんおすすめのカフェオ激レにする！」",
+    ("「じ痰ゃあ、くんおすすめのカフェオレにする！」",
     ""),
     # "I'll make this Cafe au superb restaurant that I recommend!"
 
@@ -362,11 +362,11 @@ text_array = [
     ""),
     # "All the name"
 
-    ("オ激レはボタンを押す。†",
+    ("オレはボタンを押す。†",
     ""),
     # I press the button.†
 
-    ("「ほら。カフェオ激レ」",
+    ("「ほら。カフェオレ」",
     ""),
     # "Look. Cafe au Extremely Laver."
 
@@ -379,14 +379,14 @@ text_array = [
     # "What, this one is it?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("掾理女緒ち痰ゃんは受け取ったカフェオ激レを、嬉しそうにながめた。†",
+    ("掾理女緒ち痰ゃんは受け取ったカフェオレを、嬉しそうにながめた。†",
     ""),
     # Erie Ochishon looked happily at the cafe au gem that she had received.†
 
-    ("「じ痰ゃオ激レ、＝メシまだだし、教室戻髢る墲わ」",
+    ("「じ痰ゃオレ、＝メシまだだし、教室戻髢る墲わ」",
     ""),
     # "I'm really excited, I'm not ready to eat anymore, so I'm going to go back to the classroom."
 
@@ -410,15 +410,15 @@ text_array = [
     ""),
     # And Kao smiled happily, and the shores roamed in the hallway.†
 
-    ("なんだか少し変﨑わってるけど、竅やっぱり、いい子なんだよな。",
+    ("なんだか少し変﨑わってるけど、やっぱり、いい子なんだよな。",
     ""),
     # He's a bit weird, but he's definitely a good girl.
 
-    ("オ激レの手には３６０円が残っていた。",
+    ("オレの手には３６０円が残っていた。",
     ""),
     # I had 360 yen left in my hands.
 
-    ("これはまた次の機級にで烽も、掾理女緒ち痰ゃんにおごって竄やｂう。◯",
+    ("これはまた次の機級にで烽も、掾理女緒ち痰ゃんにおごってやう。◯",
     ""),
     # This is also on the next level, and the boat will be sold to the next level.◯
 

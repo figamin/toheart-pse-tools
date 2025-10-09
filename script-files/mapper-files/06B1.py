@@ -2,7 +2,7 @@
 # Source file: 06B1.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（戟レベ泣ル３を見てないとき）閨（廊下１）閨（マ泣ルチ０２	にっこり）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（戟レベル３を見てないとき）閨（廊下１）閨（マルチ０２	にっこり）†",
     ""),
     # (Mixed Ruchi Scales Event 2F LV4) (When you are not looking at the level cry 3) (Carrior 1) (Mixed Ruchi 02 Smile) †
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Oh?"
 
-    ("振關り返髟ると、にっこり笑ったマ泣ルチがいた。†",
+    ("振關り返髟ると、にっこり笑ったマルチがいた。†",
     ""),
     # He shouted back, and there was a chuckle-smile-smile.†
 
-    ("「諱よぉ、マ泣ルチ」",
+    ("「諱よぉ、マルチ」",
     ""),
     # "My name is, mum-cry."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "ah"
 
-    ("見骭ると、どう竄やら掃恆除の途湯なんだｂう、廊下のかた墲わらには高ロー堰ラーつきのバケツにｂモップという、いつ烽もの道搭鼡一式が置かれていた。",
+    ("見骭ると、どうやら掃恆除の途湯なんだう、廊下のかた墲わらには高ロー堰ラーつきのバケツにモップという、いつ烽もの道搭鼡一式が置かれていた。",
     ""),
     # When I looked at it, it was a hot spring for tampering and cleaning up, and in the corner of the corridor there was a bucket with a high-rolled weir wheel, called a b-mop, a set of hot waterway boarding stations.
 
-    ("梶相変﨑わらず、マ泣ルチ以外の生徒はいない。†",
+    ("梶相変﨑わらず、マルチ以外の生徒はいない。†",
     ""),
     # Kaji Ai Henzaki is not there, and there are no students other than Makyuruchi.†
 
@@ -42,19 +42,19 @@ text_array = [
     ""),
     # "What, is it a waterfall for cleaning up?"
 
-    ("オ激レが苦笑して言うと、",
+    ("オレが苦笑して言うと、",
     ""),
     # When I said with a wry smile,
 
-    ("「いえっ、もう終尞わりました。これから帰驪るとこｂなんです」",
+    ("「いえっ、もう終尞わりました。これから帰驪るとこなんです」",
     ""),
     # "No, it's over now. I'm going back now."
 
-    ("マ泣ルチはそう言って、いつ烽ものｋ託のない笑迴顔を見せた。†",
+    ("マルチはそう言って、いつ烽もの駆託のない笑迴顔を見せた。†",
     ""),
     # Muruch said, and when he showed a smile that was unconventional.†
 
-    ("「…今厓日でこの学校と烽もお別れだと思うと、どうして烽も竄やっておきたくて…」",
+    ("「…今厓日でこの学校と烽もお別れだと思うと、どうして烽もやっておきたくて…」",
     ""),
     # "...I thought that this school and Kana were saying goodbye to me now, why did I want to tamper with Kana too..."
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # I see...
 
-    ("そうい竄やマ泣ルチのрヤツ、この学校に生徒として通うの烽も、今厓日で最纃後なんだっけ。",
+    ("そういやマルチのрヤツ、この学校に生徒として通うの烽も、今厓日で最纃後なんだっけ。",
     ""),
     # I wonder if the guy who is a student at this school is currently the last day.
 
-    ("一週間ち蛯ょっとの運用テスト。",
+    ("一週間ちょっとの運用テスト。",
     ""),
     # One week of operational test.
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # It went by in a flash.†
 
-    ("最纃後ということで、オ激レは｢｢。",
+    ("最纃後ということで、オレは｢｢。",
     ""),
     # Since it was the last day, I was like, ".
 
-    ("Ａ	見洛送って竄やる。閨",
+    ("Ａ	見洛送ってやる。閨",
     ""),
     # A: I'll send you to me and tamper with it.Relax
 

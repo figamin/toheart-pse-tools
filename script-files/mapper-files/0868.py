@@ -2,11 +2,11 @@
 # Source file: 0868.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	シ㏍ョッピング）†",
+    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	ショッピング）†",
     ""),
     # (Fight Remy Scaling Event PS) (Select Scaling)†
 
-    ("「商店街でシ㏍ョッピングってのはどうだ？	それっぽいだｂ」",
+    ("「商店街でショッピングってのはどうだ？	それっぽいだ」",
     ""),
     # "What do you think about sailing in the shopping district? That's what it looks like."
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I don't even buy any hot springs.
 
-    ("「ソ激レッポイ、ソ激レッポイ！」",
+    ("「ソレッポイ、ソレッポイ！」",
     ""),
     # "So, so, so, so, so, so, so, so!"
 
-    ("オ激レと撃レミィは商店街へとｌかった。†",
+    ("オレと撃レミィは商店街へとｌかった。†",
     ""),
     # Meguri and Gekiremi went to the shopping district.†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Get £" †
 
-    ("商店街にｗてみたけど、戟レミィは自分の桙服とかはそっちのけで、オ激レに翌似㍽合うような洋棊服ばかり探してる。",
+    ("商店街にｗてみたけど、戟レミィは自分の桙服とかはそっちのけで、オレに翌似㍽合うような洋棊服ばかり探してる。",
     ""),
     # I went to the shopping district lol, but for Hakuremi, I left my own flapping clothes on my face, and I'm only looking for Western-style clothes that would look like the ones I'm in the next.
 
-    ("しか烽も撃レミィの場㍼合、体に魔当てるだけじ痰ゃなくて獅試賜しｂって言う。",
+    ("しか烽も撃レミィの場㍼合、体に魔当てるだけじ痰ゃなくて獅試賜しって言う。",
     ""),
     # However, even if you hit the fire Remy, you can only hit the magic on your body and give it a lion a try.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "What do you think?"
 
-    ("氏試賜室から出たオ激レは、見につけたサマージャャケットと綿のズボンを撃レミィに見せた。†",
+    ("氏試賜室から出たオレは、見につけたサマージャャケットと綿のズボンを撃レミィに見せた。†",
     ""),
     # After leaving the test room, Ogere showed Tetsuremi the summer jacket and cotton pants he had seen.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "You've only just happened to that point now."
 
-    ("戟レミィはオ激レを見骭るたびに、誉め言葉しか言甯わない。",
+    ("戟レミィはオレを見骭るたびに、誉め言葉しか言甯わない。",
     ""),
     # Every time I see a super rare, I only say compliments.
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # I'm not happy about it, but I'm getting bored of it even though I'm being praised for it.†
 
-    ("「Ｉｔ	入浮ｕ窒ｒｂ	堰ｉ唐入。だってホントなんだ烽もん」",
+    ("「Ｉｔ	入浮ｕ窒ｒ	堰ｉ入。だってホントなんだ烽もん」",
     ""),
     # "It's floating in. U-NRB, weir, I-Tangento. Because it's true, it's hot."
 
-    ("「じ痰ゃあ、結局オ激レにはどれが翌似㍽合うんだ？」",
+    ("「じ痰ゃあ、結局オレにはどれが翌似㍽合うんだ？」",
     ""),
     # "Ah, sputum, which one will suit me in the next episode?"
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "I'm so happy just to look at it."
 
-    ("「ったく、オ激レはｒせ替え人形かよ…」",
+    ("「ったく、オレはｒせ替え人形かよ…」",
     ""),
     # "Ah, I'm a re-subscribe doll..."
 
-    ("なんて言いながら烽も、オ激レは撃レミィのｊぶ顔が見鼬れるだけで気分がよかった。",
+    ("なんて言いながら烽も、オレは撃レミィのｊぶ顔が見鼬れるだけで気分がよかった。",
     ""),
     # As I said that, I felt good just by watching Gekiremi's jerk face.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # If you can get a laughing face just by changing your £, you'll feel like you want to do that at any time.†
 
-    ("「もっといｂんな、見ててイイ？」",
+    ("「もっといんな、見ててイイ？」",
     ""),
     # "No more b, can you look at it?"
 

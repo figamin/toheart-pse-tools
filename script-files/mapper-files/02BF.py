@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Kaji Concert is old.
 
-    ("年續代から考えて、意外にク宴ラシックなネタが通用するとみた。",
+    ("年續代から考えて、意外にクラシックなネタが通用するとみた。",
     ""),
     # Considering the 2019 era, I thought that a surprisingly banquet-like material would be valid.
 
-    ("オ激レは空を指差し、叫んだ。",
+    ("オレは空を指差し、叫んだ。",
     ""),
     # I pointed at the sky and cried.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Chaaaah!"
 
-    ("そのр隙をつき、オ激レはじじいの横を通窒うとした。",
+    ("そのр隙をつき、オレはじじいの横を通窒うとした。",
     ""),
     # Taking advantage of that gap, I let my old man pass through the side of the old man.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Damn, you're annoyed old man..."
 
-    ("オ激レが左へ行こうとすると、",
+    ("オレが左へ行こうとすると、",
     ""),
     # When I tried to go left,
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Give up, go home quietly, boy!"
 
-    ("ちっくし蛯ょう〜〜っ、腹立つぅ〜〜〜っ！†",
+    ("ちっくしょう〜〜っ、腹立つぅ〜〜〜っ！†",
     ""),
     # A little slut, I'm so angry!†
 
@@ -86,16 +86,16 @@ text_array = [
     ""),
     # At that time, after hearing the outrage, Senpai Nori came to the store.
 
-    ("「あ、諱先輩、こっちこっち！	オ激レ、オ激レ！」",
+    ("「あ、諱先輩、こっちこっち！	オレ、オレ！」",
     ""),
     # "Ah, Senpai I'm here! I'm super exciting, I'm super exciting!"
 
-    ("閨手を振髏るオ激レに気が付き、諱先輩は真っ直ぐこっちへと烽歩いてきた。†",
+    ("閨手を振髏るオレに気が付き、諱先輩は真っ直ぐこっちへと烽歩いてきた。†",
     ""),
     # I noticed my gesture waving my hand, and Senpai Kou started walking straight up here.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「諱先輩、こいつをなんとかしてくれよ。",
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # ...Koku.
 
-    ("諱先輩はうなずいて、オ激レに近づこうとした。",
+    ("諱先輩はうなずいて、オレに近づこうとした。",
     ""),
     # Senpai nodded and tried to get closer to me.
 

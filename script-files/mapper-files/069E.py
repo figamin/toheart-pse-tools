@@ -2,23 +2,23 @@
 # Source file: 069E.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	１階１）閨（選択綜	マ泣ルチと話し桙込む）†",
+    ("（マルチ	回秤数イベント	１階１）閨（選択綜	マルチと話し桙込む）†",
     ""),
     # (Muryuruchi, Scales Event, 1st floor 1) (Choose the selection and talk to Muryuruchi)†
 
-    ("「なあ、マ泣ルチ」",
+    ("「なあ、マルチ」",
     ""),
     # "Hey, mum-cry."
 
-    ("「はい？	なんでし蛯ょう？」",
+    ("「はい？	なんでしょう？」",
     ""),
     # "Yes? Why are you eclips?"
 
-    ("「オ激レ、香ロボットにはあんまり詳しくねーんだけど、香ロボットって、息切齔れしたり、汗をかいたりする烽もんなのか？」†",
+    ("「オレ、香ロボットにはあんまり詳しくねーんだけど、香ロボットって、息切齔れしたり、汗をかいたりする烽もんなのか？」†",
     ""),
     # "I'm not very knowledgeable about Konrobots, but are Konrobots the kind that can cause you to feel exhausted or sweaty?"
 
-    ("「他の高ロボットの福方はどうか墲わかりませんが、增わたしはします。なんで烽も、できる限闌り人間に近いようにｍ迯られているらしいですから」",
+    ("「他の高ロボットの方はどうか墲わかりませんが、わたしはします。なんで烽も、できる限り人間に近いようにｍ迯られているらしいですから」",
     ""),
     # "I don't know what other high-robots are like, but I do. I do that. Apparently, even Hot is as close to humans as possible."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Hmm."
 
-    ("できる限闌り人間に近く…ね。†",
+    ("できる限り人間に近く…ね。†",
     ""),
     # As close to being as human as possible...†
 
-    ("たしかにマ泣ルチは、耳のｏ闖りがなけり痰ゃ、ほとんど人間と区別がつかない。",
+    ("たしかにマルチは、耳のｏ闖りがなけり痰ゃ、ほとんど人間と区別がつかない。",
     ""),
     # It is true that Makruchi is hardly distinguishable from humans unless his ears are slurped.
 
@@ -39,14 +39,14 @@ text_array = [
     # Sometimes it makes me wonder if it's a high-level robot at the heart of the day.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("さらに興味が湧いてきた。†",
     ""),
     # I'm even more interested.†
 
-    ("オ激レはマ泣ルチに質竡問した。",
+    ("オレはマルチに質竡問した。",
     ""),
     # I asked Makuruchi the question.
 

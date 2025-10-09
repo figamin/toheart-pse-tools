@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Ah, it's tough.†
 
-    ("廊下を通って、階段前まで竄やってｗた。",
+    ("廊下を通って、階段前までやってｗた。",
     ""),
     # I went through the hallway and ended up tampering with it all the way to the front of the stairs lol.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # =Shall I come back soon?†
 
-    ("廊下を通って、下駄箱まで竄やってきた。",
+    ("廊下を通って、下駄箱までやってきた。",
     ""),
     # He went through the hallway and even the shoe cabinet.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # He was very warned of his lazy attitude, as he was disparaged from the teacher.†
 
-    ("学校を出て、竅坂道を烽歩く。",
+    ("学校を出て、坂道を烽歩く。",
     ""),
     # I left school and walked down the hill.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Isn't there?
 
-    ("いい竄や、ひとりで帰汲。†",
+    ("いいや、ひとりで帰汲。†",
     ""),
     # I'm going to go back on my own.†
 

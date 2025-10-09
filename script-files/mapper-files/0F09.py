@@ -2,23 +2,23 @@
 # Source file: 0F09.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル１）閨（卒業式篇）閨（選択綜	あかり）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	あかり）閨（蛛主人公煙負け）†",
     ""),
     # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Choice Akari) (Mrage Protagonist Smoke) †
 
-    ("「ち蛯ょ、ち蛯ょっと待て、こんなはずは…」",
+    ("「ちょ、ちょっと待て、こんなはずは…」",
     ""),
     # "Choo, wait a moment, this is what I mean..."
 
-    ("「なに？	あんた、增わざと竄やってんの？」",
+    ("「なに？	あんた、わざとやってんの？」",
     ""),
     # "What? Are you deliberately tampering with it?"
 
-    ("「い竄や、これはだな…」",
+    ("「いや、これはだな…」",
     ""),
     # "Tampering, this is..."
 
-    ("「竅やったー！	氈勝ったー！	イェイ！」",
+    ("「やったー！	氈勝ったー！	イェイ！」",
     ""),
     # "Yay! I won! Yeeee!"
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # Oh my goodness!”
 
-    ("志保のрヤツ、今度は竄やじり始めた。",
+    ("志保のрヤツ、今度はやじり始めた。",
     ""),
     # Shiho's р guy has now begun to tamper with and tease him.
 
-    ("「竅や〜い竄や〜い」",
+    ("「や〜いや〜い」",
     ""),
     # "It's so annoying."
 
-    ("「竅やったー！」",
+    ("「やったー！」",
     ""),
     # "Yes!"
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # Cuckold.
 
-    ("この光景、無ヶ茶齟苦ル茶プ宴ライド揀傷つくぜ。†",
+    ("この光景、無ヶ茶苦ル茶プライド揀傷つくぜ。†",
     ""),
     # This sight hurts Mugachasaikuri Tea banquet ride.†
 
-    ("「ま、あかりに竄やられてるようじ痰ゃ、あたしと墲戦うのは１００怩万年＃早い墲わね」",
+    ("「ま、あかりにやられてるようじ痰ゃ、あたしと墲戦うのは１００怩万年＃早い墲わね」",
     ""),
     # "Well, you're being tampered with by Akari, and it's 100 years to fight with me #Fast"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Shiho says with a warm face, thrilled face to face with Masochist.
 
-    ("「驕るせーな。オ激レは鰍相闡手を選ぶんだよ」",
+    ("「驕るせーな。オレは鰍相闡手を選ぶんだよ」",
     ""),
     # "You're arrogant. I choose a monk-related technique."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Oh, I'm going to make a painful excuse, so I'll give you some phlegm~ Bath @."
 
-    ("「ちくし蛯ょう」†",
+    ("「ちくしょう」†",
     ""),
     # "Chikushi Ebi"†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Damn..."
 
-    ("このｋ辱、忘齧れんぞ〜っ。†",
+    ("この駆辱、忘齧れんぞ〜っ。†",
     ""),
     # I can't forget this humiliation.†
 

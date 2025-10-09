@@ -10,19 +10,19 @@ text_array = [
     ""),
     # That's about the day I'm back now.
 
-    ("志保にはまだ奄負けてるが、根を詰めて竄やったって、縺上達しないような気がする。",
+    ("志保にはまだ奄負けてるが、根を詰めてやったって、縺上達しないような気がする。",
     ""),
     # I'm still defeated by Shiho, but I feel like I won't be able to improve even if I try to get my roots down and tamper with it.
 
-    ("なにより、いかにゲームとはいえ、こう何度燗も同じことを竄やってると飽きてくるんだよなぁ。",
+    ("なにより、いかにゲームとはいえ、こう何度燗も同じことをやってると飽きてくるんだよなぁ。",
     ""),
     # Above all, no matter how much it's a game, I get bored of it when I try to do the same thing over and over again.
 
-    ("冝日をｉめてト宴ライすっか。",
+    ("冝日をｉめてトライすっか。",
     ""),
     # Let's have a banquet and have a banquet.
 
-    ("オ激レは唐鞄を取って、ゲーセンを出た。◯",
+    ("オレは鞄を取って、ゲーセンを出た。◯",
     ""),
     # I grabbed my kara bag and left the arcade.◯
 

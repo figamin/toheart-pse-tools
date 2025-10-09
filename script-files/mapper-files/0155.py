@@ -2,7 +2,7 @@
 # Source file: 0155.txt
 
 text_array = [
-    ("（あかり	好感度イベント９．１）閨（５獅月１冾日限闌定）閨（冝放課繪後	ＭＡＰ選択が出髀る前に）閨（教室１	休み桙時間）閨（あかり	＝普通	０１）†",
+    ("（あかり	好感度イベント９．１）閨（５獅月１冾日限定）閨（冝放課繪後	ＭＡＰ選択が出髀る前に）閨（教室１	休み桙時間）閨（あかり	＝普通	０１）†",
     ""),
     # (Akari Likeability Event 9.1) (5th year of 1 month) (5th year of 1 day) (After school, before the MAP selection is made) (Classroom 1 holiday time) (Akari = normal 01)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Choo"
 
-    ("あかりが席に竄やってきた。†",
+    ("あかりが席にやってきた。†",
     ""),
     # Akari came into her seat.†
 

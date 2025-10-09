@@ -2,7 +2,7 @@
 # Source file: 044D.txt
 
 text_array = [
-    ("（志保	好感度イベントＸ）閨（選択綜	２竄問目	宦○）閨（ＳＥ：ピンポンピンポーン）†",
+    ("（志保	好感度イベントＸ）閨（選択綜	２問目	宦○）閨（ＳＥ：ピンポンピンポーン）†",
     ""),
     # (Shiho Likeability Event X) (Selection Sou 2nd Tampa Question) (SE: Ping Pong Pong) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "There's still more!"
 
-    ("『氈次の竄問阮題。閨	地昼繼上で、海に対する陸のр割㈱合はどれくらい？』",
+    ("『氈次の問題。閨	地昼繼上で、海に対する陸のр割㈱合はどれくらい？』",
     ""),
     # "The following is a question of the tampering issue.On the daytime route, how much is the land distribution company for the sea?'
 

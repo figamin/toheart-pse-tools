@@ -22,15 +22,15 @@ text_array = [
     ""),
     # What should I do?
 
-    ("せっかくだし、声をかけていっし蛯ょに帰汲うか。",
+    ("せっかくだし、声をかけていっしょに帰汲うか。",
     ""),
     # Since I'm going to have the chance, I'll call you back to the Ebi.
 
-    ("Ａ	いっし蛯ょに帰汲うと誘う。閨",
+    ("Ａ	いっしょに帰汲うと誘う。閨",
     ""),
     # A: When I return to Isshii, I invite him.Relax
 
-    ("Ｂ	竅やめとこう。閨",
+    ("Ｂ	やめとこう。閨",
     ""),
     # B Let's stop it.Relax
 

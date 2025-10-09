@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Just like last day, I read through the textbooks with great enthusiasm.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # A. Call out.Relax
 
-    ("Ｂ	竅やめておく。閨",
+    ("Ｂ	やめておく。閨",
     ""),
     # B: Stop it.Relax
 

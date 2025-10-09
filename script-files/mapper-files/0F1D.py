@@ -2,7 +2,7 @@
 # Source file: 0F1D.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル３）閨（終業式篇（ぱずる））閨（選択綜	志保を誘う）閨（蛛主人公煙負け（＝普通））†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	志保を誘う）閨（蛛主人公煙負け（＝普通））†",
     ""),
     # (Arcade Battle Cry 3) (Closing ceremony edition) (Selection ceremony invitation) (Selection So Shiho) (Dragon protagonist (= normal)) †
 

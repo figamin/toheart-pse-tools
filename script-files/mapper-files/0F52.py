@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Just...
 
-    ("瘁違うだｂ。†",
+    ("瘁違うだ。†",
     ""),
     # It's not that bad.†
 

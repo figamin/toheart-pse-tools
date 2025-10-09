@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Is the yukan also a broth now?"
 
-    ("「い竄や、今厓日はこれから『あじさい』で先輩たちの翌送別負なんだ」",
+    ("「いや、今厓日はこれから『あじさい』で先輩たちの翌送別負なんだ」",
     ""),
     # "I'm not going to get it, and now the day is now "Hydrangea" and it's a farewell to my seniors next time."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I see, the next day is the graduation ceremony, but it's hot."
 
-    ("「卒業したら、すぐに引っ越して行っち痰ゃう人熕も多いから、それより前に竄やるんだ」",
+    ("「卒業したら、すぐに引っ越して行っち痰ゃう人熕も多いから、それより前にやるんだ」",
     ""),
     # "When you graduate, there are many people who move in and go straight away, so you have to tamper with it before that."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Hmm."
 
-    ("三年生なんて、二雌月半ばごｂから学校に烽もｗてないし、もう出てった気分だったぜ。†",
+    ("三年生なんて、二雌月半ばごから学校に烽もｗてないし、もう出てった気分だったぜ。†",
     ""),
     # The third graders didn't even have a hot spring from mid-sized two-girls to school lol, so I felt like I had already left.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "…oh dear"
 
-    ("とは言え、£学のこｂ烽もさんざん佐藤謫先輩だったんだ。",
+    ("とは言え、£学のこ烽もさんざん佐藤謫先輩だったんだ。",
     ""),
     # That said, the £School's B-Ho was also a senior Sato Koto.
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # I'm so happy now that I'm not in the hot water.†
 
-    ("「あ、ごめん。悪いけど、ち蛯ょっと急ぐんだ。僕だけ出遅齟れち痰ゃってさ…」",
+    ("「あ、ごめん。悪いけど、ちょっと急ぐんだ。僕だけ出遅れち痰ゃってさ…」",
     ""),
     # "Ah, sorry. I'm sorry, but I'm in a hurry. I'm the only one who's slow to go out..."
 
-    ("「ああ、增わりぃ。気にせず行ってくれ」",
+    ("「ああ、わりぃ。気にせず行ってくれ」",
     ""),
     # "Ah, it's not too bad. Don't worry about it."
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # With a light wave, Masochi runs along the hallway.†
 
-    ("途湯、他ク宴ラスの翌女生徒に声をかけられ、笑迴顔で手を振關り、廊下を魔走ってるのを先生に高注意され、謝闔り、それで烽もまた魔走っていく。",
+    ("途湯、他クラスの翌女生徒に声をかけられ、笑迴顔で手を振關り、廊下を魔走ってるのを先生に高注意され、謝闔り、それで烽もまた魔走っていく。",
     ""),
     # After the bath and other party, the female student called out to her, she waved her hands with a laugh, and was warned by the teacher for running down the hallway, thanking her, and then the boy ran away from the demon again.
 
-    ("♂史を見てると、これが本末当の青春なんだｂうなァ…って気分になるぜ。◯",
+    ("♂史を見てると、これが本末当の青春なんだうなァ…って気分になるぜ。◯",
     ""),
     # Looking at Male History, I feel like this is my real youth.◯
 

@@ -2,7 +2,7 @@
 # Source file: 038A.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオ激レについてｗ育翌鉤ｂるならな！）閨（選択綜Ａ	あかり、蛛大苟丈夫か？）閨（の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ａ	あかり、蛛大苟丈夫か？）閨（の続き）†",
     ""),
     # (Tomoko's Scales Event: Departing from School LV2) (Choice Sou A about this Ogiri lol If you're going to get the next hook up, then you'll be in the next generation!) (Choice Sou A, is it light, a great man?) (Continued)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hey, Akari, are you sturdy, are you sturdy?"
 
-    ("オ激レはあかりに近づいてそう言った。†",
+    ("オレはあかりに近づいてそう言った。†",
     ""),
     # I said this as I approached Akari.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Akari asked with concern, and Hoshina deflected the advice of Tsumizu and said,
 
-    ("「気いつけ竄や」",
+    ("「気いつけや」",
     ""),
     # "You're not careful."
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("「ま、オ激レ焜も悪いんだけどさ」",
+    ("「ま、オレ焜も悪いんだけどさ」",
     ""),
     # "Well, I'm also insanely bad."
 
-    ("結局その冾日は、あかりといっし蛯ょに帰った。◯",
+    ("結局その冾日は、あかりといっしょに帰った。◯",
     ""),
     # In the end, he returned to Akari and Ebi.◯
 

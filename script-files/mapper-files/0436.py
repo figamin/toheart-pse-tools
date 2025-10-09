@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Style-date-reference-type-scale-scale-type-type-vs-event Shiho vs. Akari) (Selection-so Shiho)†
 
-    ("「オ激レはどっちかというと、ざっくばらんなタイプかな？」",
+    ("「オレはどっちかというと、ざっくばらんなタイプかな？」",
     ""),
     # "Is my geek type more of a rough-minded person?"
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # Shiho said, "What?' he says with a face.
 
-    ("「なんだよ、そのイсヤそーなツ宴ラは」",
+    ("「なんだよ、そのイсヤそーなツラは」",
     ""),
     # "What is that? That crazy banquet?"
 
-    ("選んで竄やったのに、なんて顔すんだ。",
+    ("選んでやったのに、なんて顔すんだ。",
     ""),
     # What a face you've chosen and tampered with.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Is that so...?
 
-    ("私燻もいっし蛯ょにいて、くつｂげるような人がいいと思うけど…」",
+    ("私燻もいっしょにいて、くつげるような人がいいと思うけど…」",
     ""),
     # I would prefer someone who is also smoking me and can wear a shoe buck..."
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # "I know that."
 
-    ("オ激レはきっぱり嘯答える。†",
+    ("オレはきっぱり嘯答える。†",
     ""),
     # My heart replied firmly.†
 
-    ("「あっそ。あんまりスト激レートに言甯われるとがっかりする墲わね」",
+    ("「あっそ。あんまりストレートに言甯われるとがっかりする墲わね」",
     ""),
     # "Oh, I'm disappointed if you're told at such a rapid rate."
 
-    ("「けど、オ激レは構寘わねえと思うな」",
+    ("「けど、オレは構寘わねえと思うな」",
     ""),
     # "But I don't think I'll take care of you."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "I'm a friend of Shiho and Chisho-yan, so I think it's a similar match the next day."
 
-    ("あかり烽もさすがに墲わかっているのか、志保の言葉に福口をはさんだ。",
+    ("あかり烽もさすがに墲わかっているのか、志保の言葉に口をはさんだ。",
     ""),
     # Akari Kana also understands the situation, so Shiho's words interjected with Fukuguchi.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # After that, as usual, the story was rife with silly stories.
 
-    ("なんかう竄やむ竄やになったけど、オ激レは志保みたいなрヤツが彼濫女で烽も悪くないと思ってるんだけどな…。◯",
+    ("なんかうやむやになったけど、オレは志保みたいなрヤツが彼濫女で烽も悪くないと思ってるんだけどな…。◯",
     ""),
     # It's become a bit of a pain, but I think that Shiho's guy is a huge girl and Hoo is not bad...◯
 

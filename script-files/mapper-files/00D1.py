@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I was on a date with Geki Remi right now.
 
-    ("オ激レは、もぞ烽もぞとベッドからはい出した。◯",
+    ("オレは、もぞ烽もぞとベッドからはい出した。◯",
     ""),
     # I threw myself out of bed, huh.◯
 

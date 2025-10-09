@@ -2,7 +2,7 @@
 # Source file: 00E9.txt
 
 text_array = [
-    ("（３獅月２５冾日	火）閨（春休み奄初叝日）閨（竅補習なし）閨（自分の部屋）†",
+    ("（３獅月２５冾日	火）閨（春休み奄初叝日）閨（補習なし）閨（自分の部屋）†",
     ""),
     # (3rd Lion Day, 25th, Tuesday) (Spring break, first Amami day) (No supplementary lessons) (My room) †
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # Without anyone giving him a sigh, he sleeps slowly.
 
-    ("ああ、なんて素晴逅らしいことだｂう。",
+    ("ああ、なんて素晴逅らしいことだう。",
     ""),
     # Ah, what a wonderful encounter.
 
-    ("けど、いつ烽もの桙時間にきっちり目が覚めてしまうとこｂが皮肉だな。◯",
+    ("けど、いつ烽もの桙時間にきっちり目が覚めてしまうとこが皮肉だな。◯",
     ""),
     # But it's ironic that when you wake up properly at the time of the hot springs, it's pretty ironic.◯
 

@@ -14,11 +14,11 @@ text_array = [
     ""),
     # = Early in the bed and sniff it.
 
-    ("あったかい布団のｒが一番飼落ちｒくのは、オ激レだけじ痰ゃないはずだ。",
+    ("あったかい布団のｒが一番飼落ちｒくのは、オレだけじ痰ゃないはずだ。",
     ""),
     # The most common way to keep a warm futon is to have a lot of phlegm.
 
-    ("そのうち、心地謦よい眠阮りに獅落ちていく…。◯",
+    ("そのうち、心地謦よい眠りに獅落ちていく…。◯",
     ""),
     # Eventually, the lion falls into a comfortable sleep...◯
 

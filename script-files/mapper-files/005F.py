@@ -18,15 +18,15 @@ text_array = [
     ""),
     # The classroom is the area where the leaders are on the day.†
 
-    ("「おらぁ、おめー轣ら、どき竄やがれっ！」",
+    ("「おらぁ、おめー轣ら、どきやがれっ！」",
     ""),
     # "Look, congratulations, smack me!"
 
-    ("用燉もないのに盾居残闔り竄やがって。†",
+    ("用燉もないのに盾居残闔りやがって。†",
     ""),
     # Even though there was no need to worry, he was left behind with the shield.†
 
-    ("「どけっつってんだｂーが！」",
+    ("「どけっつってんだーが！」",
     ""),
     # "It's so good, b!"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # I quickly went back.†
 
-    ("廊下を通って、階段前まで竄やってｗた。",
+    ("廊下を通って、階段前までやってｗた。",
     ""),
     # I went through the hallway and ended up tampering with it all the way to the front of the stairs lol.
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # It seems there's no one who knows.†
 
-    ("階段の下には生徒悼の艪御意見箱がある。",
+    ("階段の下には生徒悼の御意見箱がある。",
     ""),
     # Below the stairs is a box of comments to commemorate students.
 
-    ("諱よし、一般生徒の貴重な意見を入齠れといて竄やｂう。",
+    ("諱よし、一般生徒の貴重な意見を入齠れといてやう。",
     ""),
     # Okay, I'm going to send in valuable opinions from ordinary students and give them a try.
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # I'm going to lose weight by increasing the weight of the school cafeteria...†
 
-    ("学校を出て、いつ烽もの竄坂道を下驩る。",
+    ("学校を出て、いつ烽もの坂道を下驩る。",
     ""),
     # When did I leave school, I went down the hill.
 
-    ("ぺち痰ゃくち痰ゃおし痰ゃべりしながら帰驪る生徒、自転車でｋけ下濶りていく生徒、様々だ。",
+    ("ぺち痰ゃくち痰ゃおし痰ゃべりしながら帰驪る生徒、自転車で駆け下濶りていく生徒、様々だ。",
     ""),
     # There are a variety of students who go home while shaking their hair, and while they go down on their bikes.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # What should I do when I go home now?†
 
-    ("その冾日、オ激レがち蛯ょうどベッドに入唐うとしたときだった。†",
+    ("その冾日、オレがちょうどベッドに入うとしたときだった。†",
     ""),
     # That day, I was about to enter the bed of my ecstasy.†
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Should I also check out the earthquake information?†
 
-    ("テ激レビをつける。",
+    ("テレビをつける。",
     ""),
     # I'll give you a super reproducing video.
 

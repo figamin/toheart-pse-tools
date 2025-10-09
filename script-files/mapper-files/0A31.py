@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Oh, that's not the case..."
 
-    ("なんだか顔を真っ赤にして、掾理女緒ち痰ゃんはト宴ラックの繧上の蛯大きな段ボール箱に手を伸ばす。",
+    ("なんだか顔を真っ赤にして、掾理女緒ち痰ゃんはトラックの繧上の大きな段ボール箱に手を伸ばす。",
     ""),
     # Her face turned bright red, and the girl reached for the large cardboard box on the wings of the king rack.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # A: I'll lend you a hand.Relax
 
-    ("Ｂ	気をつけｂよ。閨",
+    ("Ｂ	気をつけよ。閨",
     ""),
     # B Take care b.Relax
 

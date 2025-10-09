@@ -2,15 +2,15 @@
 # Source file: 00E8.txt
 
 text_array = [
-    ("（４／２９	固闌定イベント）閨（＃音子）閨（堰ラジオを全話聞いたときに発生）閨（駅前）†",
+    ("（４／２９	固定イベント）閨（＃音子）閨（堰ラジオを全話聞いたときに発生）閨（駅前）†",
     ""),
     # (4/29) Rei (#Otoko) Rei (octo) Rei (octo) Rei (octo) Rei (octo) Rei (octo) (incident when listening to all episodes of the weir radio) Rei (in front of the station) †
 
-    ("午繻後になり、ブ宴ラブ宴ラと駅前にきたときだ。",
+    ("午後になり、ブラブラと駅前にきたときだ。",
     ""),
     # It was after the morning, when I came to the station with a banquet and love banquet.
 
-    ("ぼん竄やり烽歩いていると、",
+    ("ぼんやり烽歩いていると、",
     ""),
     # As I was walking around in a silence,
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Spicy = Shima Toonko?
 
-    ("…っつーと、オ激レがいつ烽も聞いてる奄ラジオのパーソナ潟リティと同じ名前じ痰ゃねーか。",
+    ("…っつーと、オレがいつ烽も聞いてる奄ラジオのパーソナリティと同じ名前じ痰ゃねーか。",
     ""),
     # ...I wonder if I have the same name and phlegm as the Amano Radio personality that I've heard about.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Anyway, let's send this guy out and ask him directly if he's the person himself.
 
-    ("オ激レはその背白に追いつき、声をかけた。†",
+    ("オレはその背白に追いつき、声をかけた。†",
     ""),
     # I caught up with that disdain and called out to me.†
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "Um, is this not a mirage?"
 
-    ("オ激レはパスケースを見せて言った。†",
+    ("オレはパスケースを見せて言った。†",
     ""),
     # I said, showing my pass case.†
 
-    ("「えっ、あーっ、п私のです！	あれえ、いつ獅落としたんだｂ！？」",
+    ("「えっ、あーっ、п私のです！	あれえ、いつ獅落としたんだ！？」",
     ""),
     # "What, ah, пIt's me! What, when did you lionize? b!?"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # He makes a surprised look on his face.
 
-    ("竅やばっ。",
+    ("やばっ。",
     ""),
     # It's dangerous.
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Um..." †
 
-    ("「あっ、オ激レ、ただのファンです。",
+    ("「あっ、オレ、ただのファンです。",
     ""),
     # "Ah, I'm just a fan.
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Yay! I'm not phlegm ""
 
-    ("オ激レは唐鞄からノートとペンを取闔り出して、みねち痰ゃんに渡した。†",
+    ("オレは鞄からノートとペンを取闔り出して、みねち痰ゃんに渡した。†",
     ""),
     # I took a notebook and pen from my bag and handed it to Minecchi Sho-chan.†
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # It's just a used hot spring.
 
-    ("こういうのって、竅やっぱり福練習する烽もんなんだｂうか。†",
+    ("こういうのって、やっぱり練習する烽もんなんだうか。†",
     ""),
     # This kind of thing is a hot spring that practices fortune after all.†
 
@@ -230,11 +230,11 @@ text_array = [
     ""),
     # "Yah, thank you."
 
-    ("「で烽も、梶リスナーの福方とこんな出初いをしたのは奄初めてですよ。すぐに墲わかりました？」",
+    ("「で烽も、梶リスナーの方とこんな出初いをしたのは奄初めてですよ。すぐに墲わかりました？」",
     ""),
     # "And this is the first time I've ever had such a first time with Kaji listener Fukukata. Did you get it right away?"
 
-    ("「い竄や、閨定咊期の名前がそのまんまだったし、声だって。話し福方とか、堰ラジオのまんまなんですね」†",
+    ("「いや、閨定咊期の名前がそのまんまだったし、声だって。話し方とか、堰ラジオのまんまなんですね」†",
     ""),
     # "The name of the stomping period was exactly like that, and the voices were just like that. It's just like talking and the way weir radio."
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "Yeah, I'm not silly."
 
-    ("「い竄や、ボケボケですよ」",
+    ("「いや、ボケボケですよ」",
     ""),
     # "It's a mess, it's a mess."
 
@@ -258,11 +258,11 @@ text_array = [
     ""),
     # "I guess so... hehe."
 
-    ("みねち痰ゃんは複雑そうに笑うと、パスケースを唐鞄におさめた。†",
+    ("みねち痰ゃんは複雑そうに笑うと、パスケースを鞄におさめた。†",
     ""),
     # Minechou-chan laughed complicatedly and then placed the pass case in a bag.†
 
-    ("「じつは今厓日燗も奄ラジオの福収録なんですよー」",
+    ("「じつは今厓日燗も奄ラジオの収録なんですよー」",
     ""),
     # "Actually, the Hakuan is currently recording the lucky record on Amana Radio."
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # "No, the studio is completely different."
 
-    ("じ痰ゃあ、なんでこんなとこｂに。",
+    ("じ痰ゃあ、なんでこんなとこに。",
     ""),
     # I'm not phlegm, why is this a place b?
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # "Ah, yes, it's fine."
 
-    ("オ激レはみねち痰ゃんとガッチ潟リ握闊手した。†",
+    ("オレはみねち痰ゃんとガッチリ握闊手した。†",
     ""),
     # My hardcore slurping slurping and slurping slurping.†
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("さっそく明坙日、みんなに自搦慢して竄やｂう。◯",
+    ("さっそく明坙日、みんなに自搦慢してやう。◯",
     ""),
     # Immediately, I'll give up on everyone and give up on it.◯
 

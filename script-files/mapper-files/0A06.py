@@ -2,11 +2,11 @@
 # Source file: 0A06.txt
 
 text_array = [
-    ("「おい坊蝟主、なに怒って唐ンだよ？	こいつがなにかしたのか？」",
+    ("「おい坊蝟主、なに怒ってンだよ？	こいつがなにかしたのか？」",
     ""),
     # "Hey Bo-go-sama, what are you angry about Tang? Did this guy do something?"
 
-    ("オ激レは目鱒を№合寘わせて子沁供に聞いた。",
+    ("オレは目鱒を№合寘わせて子沁供に聞いた。",
     ""),
     # I asked Kouken-san to send a stove to the stove.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Hey, you slurp your phlegm. That guy."
 
-    ("「こいつが？	姉ち痰ゃんをモ泣かせたって？」",
+    ("「こいつが？	姉ち痰ゃんをモかせたって？」",
     ""),
     # "What about this guy? You made Symptomy cry?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "There's no phlegm, it's Ryota."
 
-    ("「んじ痰ゃ良太。人瘰違いじ痰ゃねーか？	こいつ、そんな悪い竄やつじ痰ゃないぞ」",
+    ("「んじ痰ゃ良太。人瘰違いじ痰ゃねーか？	こいつ、そんな悪いやつじ痰ゃないぞ」",
     ""),
     # "Ryota, you're so phlegm. Isn't it different to humans? This guy, you can't have such a bad tampering or anything like that."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # The brat put out the man's name.
 
-    ("「そっか、っつーпヤツか。…って、それ、オ激レじ痰ゃねーか」†",
+    ("「そっか、っつーпヤツか。…って、それ、オレじ痰ゃねーか」†",
     ""),
     # "I see, is that ahhhhh?...Is that really something to phlegm?" †
 
@@ -78,19 +78,19 @@ text_array = [
     ""),
     # "Yes!?"
 
-    ("「たおす！	かくごしｂ！」",
+    ("「たおす！	かくごし！」",
     ""),
     # "I'll kill you! Be prepared b!"
 
-    ("「ち蛯ょ、ち蛯ょっと待て。オ、オ激レだって覚えがねーぞ、人瘰違いだって」",
+    ("「ちょ、ちょっと待て。オ、オレだって覚えがねーぞ、人瘰違いだって」",
     ""),
     # "Ah, wait a moment. Oh, I don't remember being a huge hit, it's a different person."
 
-    ("「とぼけるきか、ひき蛯ょう烽ものめ！」†",
+    ("「とぼけるきか、ひきょう烽ものめ！」†",
     ""),
     # "Are you silly? A little silly thing!"
 
-    ("「なんて名前、ほかに烽もいるだｂうが」",
+    ("「なんて名前、ほかに烽もいるだうが」",
     ""),
     # "What a name, there are other hotpots too."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "I was going!"
 
-    ("「…オ激レだな」",
+    ("「…オレだな」",
     ""),
     # "...I'm super excited."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Taos!!" †
 
-    ("「だ、だから、待てっつってんだｂ？	マジで知迺らねーって」",
+    ("「だ、だから、待てっつってんだ？	マジで知迺らねーって」",
     ""),
     # "That's why, wait b? You really don't know."
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Uhh..."
 
-    ("つって烽もこのガキ、おとなしく引きさがりそう烽もねえ顔して竄やがる。†",
+    ("つって烽もこのガキ、おとなしく引きさがりそう烽もねえ顔してやがる。†",
     ""),
     # And this kid is quietly trying to pull him off, but he's still trying to keep his face down.†
 
-    ("「增わ、增わかった。じ痰ゃあ、こうする。今度、お前の姉ち痰ゃんにｉったとき、悪かったって謝っておくよ」",
+    ("「わ、わかった。じ痰ゃあ、こうする。今度、お前の姉ち痰ゃんにｉったとき、悪かったって謝っておくよ」",
     ""),
     # "B, I understand. I'll do this. Next time I get it with your sister, I'll apologise for being wrong."
 
@@ -130,23 +130,23 @@ text_array = [
     ""),
     # "Ah, oh, I promise"
 
-    ("「男と男の竄やくそくだぞ？」",
+    ("「男と男のやくそくだぞ？」",
     ""),
     # "You're a man and a man tampering with it, damn it?"
 
-    ("「增わかった」",
+    ("「わかった」",
     ""),
     # "I understand."
 
-    ("オ激レははっきりうなずいた。†",
+    ("オレははっきりうなずいた。†",
     ""),
     # My head nodded clearly.†
 
-    ("「もし、竅やくそくを竄やぶったら、こんどこそたおすぞ、」",
+    ("「もし、やくそくをやぶったら、こんどこそたおすぞ、」",
     ""),
     # "If I break a smash or shit, I'll defeat it this time."
 
-    ("「增わかった、增わかった」",
+    ("「わかった、わかった」",
     ""),
     # "I get it, I get it."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "It's definitely!"
 
-    ("良太と名譁乗ったガキンチ㏍ョは、どすどすと帰っていった。†",
+    ("良太と名譁乗ったガキンチョは、どすどすと帰っていった。†",
     ""),
     # The gangster who had been riding Ryota was carried away, quickly headed home.†
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Who is Symptomy, what do you mean?"
 
-    ("「…さあな。オ激レだってここ最近、浴女の子をモ泣かした覚えなんかねーしな」",
+    ("「…さあな。オレだってここ最近、浴女の子をモかした覚えなんかねーしな」",
     ""),
     # "...Come on. Even my ecstasy hasn't remembered making a bathing girl cry recently."
 

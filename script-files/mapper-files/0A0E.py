@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (A' I'd call out to you.) "Hey, do you have a sputum?"
 
-    ("声をかけると、その子はき蛯ょｂっとこっちを振關りｌいた。†",
+    ("声をかけると、その子はきょっとこっちを振關りｌいた。†",
     ""),
     # When I called out to him, the child shouted this.†
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Ah, kun!"
 
-    ("竅やっぱ揩理女緒ち痰ゃんだった。",
+    ("やっぱ揩理女緒ち痰ゃんだった。",
     ""),
     # After all, it was a bit of a stimulus.
 
-    ("「はりきって竄やってんな、バイト」",
+    ("「はりきってやってんな、バイト」",
     ""),
     # "You're just trying to tamper with it, part-time job."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "And even though it's just after school is over, it's tough."
 
-    ("「うん。で烽も、ここは烽もうち蛯ょっとで終尞わりだよ」",
+    ("「うん。で烽も、ここは烽もうちょっとで終尞わりだよ」",
     ""),
     # "Yes. And here, the hot springs and hot springs are all over."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Oh, I see. Did you say you have some hooks. So after this, you're also having a different kind of tuna?"
 
-    ("「今厓日は４つだけ。で烽も、ゲームセンターは墲わりと楽だし、暇をみて宛名走書きのバイト焜もいっし蛯ょにできるから」†",
+    ("「今厓日は４つだけ。で烽も、ゲームセンターは墲わりと楽だし、暇をみて宛名走書きのバイト焜もいっしょにできるから」†",
     ""),
     # "There are only four days left right now. And the game centers are pretty easy, and when you're bored, you can also take part-time jobs with address writing at the address when you're bored."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Even though it's about making money, it's a lot of hard work.†
 
-    ("そんな揩理女緒ち痰ゃんに、オ激レのかけた言葉は｢｢。",
+    ("そんな揩理女緒ち痰ゃんに、オレのかけた言葉は｢｢。",
     ""),
     # My intense words were ".
 

@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Bye bye"
 
-    ("オ激レは≠早々に話を切關り繧上げた。",
+    ("オレは≠早々に話を切關り繧上げた。",
     ""),
     # My geisha quickly retreated and reopened.
 
-    ("「ち蛯ょ、ち蛯ょっと、もう帰っち痰ゃうの？」",
+    ("「ちょ、ちょっと、もう帰っち痰ゃうの？」",
     ""),
     # "And now, are you going home already?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "It's not too close."
 
-    ("オ激レは、すたすたとその場を繧後にした。",
+    ("オレは、すたすたとその場を繧後にした。",
     ""),
     # I went out of the scene with Stasta.
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "It's really good though"
 
-    ("オ激レに彼濫女のプ宴ライベートに干渉する権圏はねえし。",
+    ("オレに彼濫女のプライベートに干渉する権圏はねえし。",
     ""),
     # There's no right to interfere with my girlfriend's private life.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # If you think so,
 
-    ("「…增わたしっておかしいですよね…」",
+    ("「…わたしっておかしいですよね…」",
     ""),
     # "...I'm weird, isn't it?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "You could destroy something with such a power..."
 
-    ("メ泣きそうな声でそう言う。",
+    ("メきそうな声でそう言う。",
     ""),
     # He says in a cry of tears.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "hey hey…"
 
-    ("オ激レなんか悪いこと言ったか？†",
+    ("オレなんか悪いこと言ったか？†",
     ""),
     # Did I say something bad?†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("なんか急にブ泣ルーが入った琴音ち痰ゃんを、オ激レは黙って見洛送髑るしかなかった。",
+    ("なんか急にブルーが入った琴音ち痰ゃんを、オレは黙って見洛送るしかなかった。",
     ""),
     # I had no choice but to silently sniff Kotone Chisho-chan, who suddenly started crying, but I had no choice but to sniff out the stomp.
 

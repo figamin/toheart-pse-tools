@@ -27,7 +27,7 @@ text_array = [
     # "Yes, Senpai."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ？	…諱先﨎日はすみませんでしたって？	ははは、だから烽もういいって。あれはあれで楽しかったからさ」†",
@@ -35,7 +35,7 @@ text_array = [
     # "Huh? ...I'm sorry for the day I went to the next day? Hahaha, so I thought it was okay. That was fun."†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ？	イヌのボス？	ああ、そうだな、結局級えなかったな」",
@@ -43,15 +43,15 @@ text_array = [
     # "Huh? Dog boss? Ah, yes, I didn't get the grade in the end."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「残念ですかって？	うーん、そうだなあ。正直言うと、ち蛯ょっと残念か烽もなあ」†",
+    ("「残念ですかって？	うーん、そうだなあ。正直言うと、ちょっと残念か烽もなあ」†",
     ""),
     # "Are you sorry? Hmm, that's right. To be honest, it's a shame, it's a shame, but there's no other Hot."†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「夏にまた降漉に適した夜がありますから、そのときこそ失敗せずにお呼びしますって？	そっか」",
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「增わかった。じ痰ゃあ、楽しみにしてるぜ」†",
+    ("「わかった。じ痰ゃあ、楽しみにしてるぜ」†",
     ""),
     # "I understand. I'm looking forward to it."
 
-    ("オ激レが言うと、諱先輩は烽もう一度うなずいて、もとｗた廊下を烽歩いていった。◯",
+    ("オレが言うと、諱先輩は烽もう一度うなずいて、もとｗた廊下を烽歩いていった。◯",
     ""),
     # When I said to him, Senpai Nodded again and walked through the corridor where he had already been.◯
 

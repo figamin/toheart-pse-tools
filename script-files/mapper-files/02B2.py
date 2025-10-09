@@ -2,11 +2,11 @@
 # Source file: 02B2.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（選択綜Ｂ	いつ烽もいっし蛯ょに帰鼡れり痰ゃいいのにな）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（選択綜Ｂ	いつ烽もいっしょに帰鼡れり痰ゃいいのにな）†",
     ""),
     # (Seri°Chuang, Scales Event 1F LV2)Seri (Select B, whenever I can return to the hot springs, I wish I had phlegm)†
 
-    ("「いつ烽もいっし蛯ょに帰鼡れり痰ゃいいのになー」",
+    ("「いつ烽もいっしょに帰鼡れり痰ゃいいのになー」",
     ""),
     # "I wish I could just go home to the hot springs."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # To do that, I have to first do something about that V-rou.
 
-    ("オ激レはじじいを横目で見た。†",
+    ("オレはじじいを横目で見た。†",
     ""),
     # I looked at my old man sideways.†
 
@@ -27,7 +27,7 @@ text_array = [
     # "They're two of them becoming lovers with a tendency to sigh, so will they give up on that old man?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「なーんてな！」†",
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Twice.
 
-    ("こいつがいる限闌り、ふたりは素直に汲結ばれそうにないぜ。†",
+    ("こいつがいる限り、ふたりは素直に汲結ばれそうにないぜ。†",
     ""),
     # As long as this guy is there, it seems unlikely that the two will be united.†
 
@@ -59,10 +59,10 @@ text_array = [
     # I'm not sure what to do with my name, Senpai!”
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レは手を繧上げ、その場を獅去った。◯",
+    ("オレは手を繧上げ、その場を獅去った。◯",
     ""),
     # My heart lifted my hand and left the scene.◯
 

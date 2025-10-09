@@ -2,15 +2,15 @@
 # Source file: 0B3D.txt
 
 text_array = [
-    ("（綾∴香ＶＳあかり）閨（綾∴香	バト泣ルポイント１５以繹上）閨（あかり	好感度	１５以繹上）閨（昼休み）閨（２Ｆ廊下）†",
+    ("（綾∴香ＶＳあかり）閨（綾∴香	バトルポイント１５以繹上）閨（あかり	好感度	１５以繹上）閨（昼休み）閨（２Ｆ廊下）†",
     ""),
     # (Aya∴Ka VS Akari) (Aya∴Ka, Battle Cry Point 15 or more) (Akari Likes 15 or more) (Lunch break) (2F corridor) †
 
-    ("昼£メシを食い終えて、トイ激レで用を足してきた帰闍り。",
+    ("昼£メシを食い終えて、トイレで用を足してきた帰闍り。",
     ""),
     # After finishing lunch, I went home to eat more at Toy Gekkei.
 
-    ("オ激レはぼん竄やり廊下を烽歩きながら、対綾∴香用の対策を考えていた。†",
+    ("オレはぼんやり廊下を烽歩きながら、対綾∴香用の対策を考えていた。†",
     ""),
     # As I sniffed, walking down the hallway, I was thinking about how to deal with Aya∴Ka.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("瘁例の勝縁負、どうすれば綾∴香の竄やつに勝てるだｂうか。",
+    ("瘁例の勝縁負、どうすれば綾∴香のやつに勝てるだうか。",
     ""),
     # How can you beat the guy who is tampering with Aya∴Kawa?
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "What are you doing?"
 
-    ("「い竄や、べつに。ち蛯ょっと考えごとをな」†",
+    ("「いや、べつに。ちょっと考えごとをな」†",
     ""),
     # "Not to be a silly thing. I'll have some thoughts."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # Wait, the cursive library?
 
-    ("ボクシングのテクに関する曹資料とかがあるか烽も知齟れねーな。†",
+    ("ボクシングのテクに関する曹資料とかがあるか烽も知れねーな。†",
     ""),
     # I don't know if there is any information about boxing techniques or anything like that.†
 
-    ("「諱よし、つきあって竄やる、行こうぜ」",
+    ("「諱よし、つきあってやる、行こうぜ」",
     ""),
     # "Okay, I'll tamper with you, let's go."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("オ激レはあかりの肩を押した。†",
+    ("オレはあかりの肩を押した。†",
     ""),
     # I pushed Akari's shoulder.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # What, what are the techniques that will be useful for real battles...?
 
-    ("おお、こり痰ゃいい竄や。",
+    ("おお、こり痰ゃいいや。",
     ""),
     # Oh, it's fine to have stiff phlegm.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # This guy has come to me again, and I've come to Aya∴Kara.
 
-    ("見てｂよお。◯",
+    ("見てよお。◯",
     ""),
     # Look b.◯
 

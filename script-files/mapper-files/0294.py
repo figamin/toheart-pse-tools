@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I'm fine. I'm off."
 
-    ("オ激レはうなずいて嘯答えた。†",
+    ("オレはうなずいて嘯答えた。†",
     ""),
     # I nodded and replied.†
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # At the bonito spot called a school, there is a bonito spot that is not rich in water, even though it is innocent, and there is no heat.
 
-    ("この盾棟…文化秤部ク宴ラブハウス前は、オ激レにとってのそれだった。†",
+    ("この盾棟…文化秤部クラブハウス前は、オレにとってのそれだった。†",
     ""),
     # This shield building... before the Cultural Scaling Club Kuban Love House, it was something I did for me.†
 
-    ("ずらりと並んだク宴ラブの看板。",
+    ("ずらりと並んだクラブの看板。",
     ""),
     # A row of signs for Love for the Banquet.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # =Although it is usually a quiet hallway, I can now hear laughter and light music, and I'm oddly realizing it.
 
-    ("さて、諱先輩の属するオカ泣ルト研結級とは、いったいどんなとこｂなのか。†",
+    ("さて、諱先輩の属するオカルト研結級とは、いったいどんなとこなのか。†",
     ""),
     # Now, what exactly is the Okaryu Ruto Kenyuryu, which is where my senior is?†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # His long hair was slightly shaking, and his senior nodded.
 
-    ("さっぱりとした烽扉にプ宴ラスチックの表札で『オカ泣ルト研結級』と曹書かれている。†",
+    ("さっぱりとした烽扉にプラスチックの表札で『オカルト研結級』と曹書かれている。†",
     ""),
     # The refreshing hot door is a banquet nameplate with a "Oka-Crying Ruto Kenyu" written on the Cao.†
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # What's that? The outside is surprisingly normal.
 
-    ("オカ泣ルト研結級というからには、いかに烽もあ竄やしげなダークなイ＜メージを想恆像していたのだが…。",
+    ("オカルト研結級というからには、いかに烽もあやしげなダークなイ＜メージを想恆像していたのだが…。",
     ""),
     # Since it was a class of Okaryu Ruto Ken, it was a dark image that seemed to be a bit swaying...
 
-    ("い竄や、肝心なのは烽内側だよな。",
+    ("いや、肝心なのは烽内側だよな。",
     ""),
     # It's a shame, and the important thing is the inside of the hot spring.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # The closed, secret, hot door now opens.
 
-    ("興味津々、冝期待熨もｂ高まってきた。†",
+    ("興味津々、冝期待熨も高まってきた。†",
     ""),
     # I was very curious and anticipated, so my hopes for this item have increased.†
 
@@ -83,7 +83,7 @@ text_array = [
     # A sound of metal rubbing opens the door.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ？	％っていいの？	じ痰ゃ、おじ痰ゃましまーす」◯",
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "You should turn on the lights and phlegm, isn't it?"
 
-    ("オ激レが言うと先輩は、雰囲気が肝心です、と嘯答えた。",
+    ("オレが言うと先輩は、雰囲気が肝心です、と嘯答えた。",
     ""),
     # When I said that, my senior replied, "The atmosphere is important."
 
@@ -122,23 +122,23 @@ text_array = [
     ""),
     # "Ah, yes" †
 
-    ("諱よく見骭ると、部屋のｒ身は気㈲合いの入ったオカ泣ルトぶりだった。",
+    ("諱よく見骭ると、部屋のｒ身は気㈲合いの入ったオカルトぶりだった。",
     ""),
     # When I looked closely, I saw that the ramblings in the room looked like a gay crying full of energy.
 
-    ("部屋のそこかしこに並べられたあ竄やしげな品の数々。†",
+    ("部屋のそこかしこに並べられたあやしげな品の数々。†",
     ""),
     # A variety of silly and silly items lined up all over the room.†
 
-    ("机の繧上にはｌъ符、お守闔り、≠うそく立て、壁にはあ竄やしげな張闥りｎが、本棚には分喆厚い曹書物がぎっしりと…。",
+    ("机の繧上にはｌъ符、お守闔り、≠うそく立て、壁にはあやしげな張闥りｎが、本棚には分喆厚い曹書物がぎっしりと…。",
     ""),
     # On the desk, there are lъ marks, amulets, lie on the wall, a wall with a slurred slurred slurred slurred slurred slurred slurred slurred books, and the bookshelf is packed with thick, divided slurred books...
 
-    ("妙チク潟リンな手詩闕り人形煬もある。",
+    ("妙チクリンな手詩闕り人形煬もある。",
     ""),
     # There is also a hand-posted puppet hana that is a mysterious and sung by hand.
 
-    ("釘を打ったような跡こそないが、それで烽も十分あ竄やしい感じがした。",
+    ("釘を打ったような跡こそないが、それで烽も十分あやしい感じがした。",
     ""),
     # There were no signs of nails being pounded, but the hot water felt quite tampered with.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # Ah.
 
-    ("こり痰ゃ、ち蛯ょっとしたオカ泣ルト祉博物館だ。†",
+    ("こり痰ゃ、ちょっとしたオカルト祉博物館だ。†",
     ""),
     # It's the Oka-Crying Welfare Museum, which is so sad that it's a bit of a pain.†
 
@@ -158,19 +158,19 @@ text_array = [
     ""),
     # Working hard...
 
-    ("「う墲わ、これ、金属のｂ魔法陣…？」",
+    ("「う墲わ、これ、金属の魔法陣…？」",
     ""),
     # "Um, this is a metal b-magic circle...?"
 
-    ("足熨もとには烽金属の板でｍ迯られた蛯大きなｂ魔法陣があった。",
+    ("足熨もとには烽金属の板でｍ迯られた大きな魔法陣があった。",
     ""),
     # The foot noshi had a large B-magic circle with a hot metal plate.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	降ｍ魔のサーク泣ル？」",
+    ("「え？	降ｍ魔のサークル？」",
     ""),
     # "Huh? The Demon's Cyrk is crying?"
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # Ko-kun.†
 
-    ("「この円がｂ魔恂除けのサーク泣ルで、この三角形が召喚のサーク泣ルだって？」",
+    ("「この円が魔恂除けのサークルで、この三角形が召喚のサークルだって？」",
     ""),
     # "This circle is the Circle cry of the demon, and this triangle is the summoned Circle cry of the Sacred?"
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "Hey, phlegm, stiff phlegm is thick..."
 
-    ("思寬わずつぶ竄やくオ激レ。†",
+    ("思寬わずつぶやくオレ。†",
     ""),
     # I started to squeal and squeal.†
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # And then there's also hot spring...
 
-    ("淡い高ロウソクの鰍炎に照迴らされ、ぼん竄やりとたたずむ先輩。",
+    ("淡い高ロウソクの鰍炎に照迴らされ、ぼんやりとたたずむ先輩。",
     ""),
     # Senpai dazzles and thrashes from the pale, high candle flames, and he thrashs out.
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # It feels like a secret thing.
 
-    ("部屋の雰囲気のせいで烽もあるんだｂうけど。†",
+    ("部屋の雰囲気のせいで烽もあるんだうけど。†",
     ""),
     # There's a lot of hot water due to the atmosphere of the room.†
 
@@ -239,7 +239,7 @@ text_array = [
     # "And you're also Senior, that's amazing. Was this collected by all the Atari Club and Senior Isaac?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え、他の部員の人たち烽も協力してるって？	あ、そうか。ここの部員は先輩だけじ痰ゃないんだっけ」",
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("オ激レは烽もう一度箔部屋薗を見渡した。",
+    ("オレは烽もう一度箔部屋薗を見渡した。",
     ""),
     # My gei-re looked around Hakurei Sanzono again.
 
@@ -266,11 +266,11 @@ text_array = [
     ""),
     # A. Ask about n, which rolled up and rolled.Relax
 
-    ("Ｂ	妙チク潟リンな人形について聞く。閨",
+    ("Ｂ	妙チクリンな人形について聞く。閨",
     ""),
     # B: I'm asking about the dolls that are so wonderful.Relax
 
-    ("Ｃ	ガ宴ラス瓶に入った葉っぱについて聞く。閨",
+    ("Ｃ	ガラス瓶に入った葉っぱについて聞く。閨",
     ""),
     # C: Ask about the leaves in a banquet bottle.Relax
 

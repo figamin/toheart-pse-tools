@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Aoi Scales Event 5)†
 
-    ("諱よーしっ、今厓日燗も葵ち痰ゃんのとこに行って格闘技の福練習だ！†",
+    ("諱よーしっ、今厓日燗も葵ち痰ゃんのとこに行って格闘技の練習だ！†",
     ""),
     # Okay, I'm off to Aoi Chisho-chan's place for now and practice martial arts fortune!†
 
-    ("神社にｒくと、すでに烽もう体操葬にｒ替えた葵ち痰ゃんがいて、潤縁の下からサンドバッグを引っぱり出しているとこｂだった。",
+    ("神社にｒくと、すでに烽もう体操葬にｒ替えた葵ち痰ゃんがいて、潤縁の下からサンドバッグを引っぱり出しているとこだった。",
     ""),
     # When I went to the shrine, I saw Aoi Chisho-chan, who had already changed to a gymnastics, and it was B who had pulled out a punching bag from underneath the sinner.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Oh, Aoi Chisho-yan. Hot spring is quick whenever."
 
-    ("「はい。短い福練習の桙時間ですから、少しで烽も≠早くｗたいと思って」",
+    ("「はい。短い練習の桙時間ですから、少しで烽も≠早くｗたいと思って」",
     ""),
     # "Yes. It's a short time to practice for good luck, so I'd like to have a little bit more quickly."
 
-    ("「さすが福練習熱心だな。感心、感心」",
+    ("「さすが練習熱心だな。感心、感心」",
     ""),
     # "As expected of Fuku practice, he's enthusiastic about Fuku practice. Impressed, Impressed."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan smiles shyly.†
 
-    ("オ激レはサンドバッグを担いでいき、蛛大きな木の下でおｂした。",
+    ("オレはサンドバッグを担いでいき、蛛大きな木の下でおした。",
     ""),
     # I carried a punching bag and stroking it under a large tree.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Thank you very much, no matter how you say it."
 
-    ("「なにいってんだ。いっし蛯ょに福練習するんだぜ、ありがとうはいらねーだｂ」",
+    ("「なにいってんだ。いっしょに練習するんだぜ、ありがとうはいらねーだ」",
     ""),
     # "What are you going to do? We're all practicing fortune on Ebi, so we don't need any thank you."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "oh yeah"
 
-    ("オ激レがうなずいて言うと、葵ち痰ゃんはなに竄やら嬉しそうに微笑んだ。",
+    ("オレがうなずいて言うと、葵ち痰ゃんはなにやら嬉しそうに微笑んだ。",
     ""),
     # When I nodded my head, Aoi Chisho-yan smiled happily at what he had done.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「なんていうか、竅やっぱり楽しいですよね、誰かといっし蛯ょに福練習ができるっていうのは」",
+    ("「なんていうか、やっぱり楽しいですよね、誰かといっしょに練習ができるっていうのは」",
     ""),
     # "What do you mean, it's fun after all, isn't it? You can practice fortune with someone else."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Yes, take it, and take it" †
 
-    ("「オ激レがいて、嬉しい？」",
+    ("「オレがいて、嬉しい？」",
     ""),
     # "Are you happy about me being extremely excited?"
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("「そり痰ゃよかった。じつはさ、オ激レ、結構気にしてたんだよ。かえって葵ち痰ゃんの福練習を邪ｎ魔してんじ痰ゃないかって」",
+    ("「そり痰ゃよかった。じつはさ、オレ、結構気にしてたんだよ。かえって葵ち痰ゃんの練習を邪ｎ魔してんじ痰ゃないかって」",
     ""),
     # "I wish I had phlegm. Actually, I was really worried about it. I mean, Aoi Chi Sphlegmy's fortune practice, and I was actually worried about it."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "It's definitely more fun with two people than with one person.
 
-    ("やっぱり、ひとりは竄寂しいですから」",
+    ("やっぱり、ひとりは寂しいですから」",
     ""),
     # After all, one person is lonely."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "I see."
 
-    ("♀んでくれんならオ激レ焜も嬉しいぜ。",
+    ("♀んでくれんならオレ焜も嬉しいぜ。",
     ""),
     # If I were to have a female, I would be happy too.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # And then, Yu practice began.
 
-    ("オ激レは前回習った薰基礎羡練習を反恃復して行い、葵ち痰ゃんは薰基本ト激レーニングで体を温めた繧後、サンドバッグを使ったアタックト激レーニングを始めた。†",
+    ("オレは前回習った薰基礎羡練習を反恃復して行い、葵ち痰ゃんは薰基本トレーニングで体を温めた繧後、サンドバッグを使ったアタックトレーニングを始めた。†",
     ""),
     # My geire replied with the basic training I learned last time, and Aoi Chisho-yan warmed up his body with a rough training railing, then began to perform a powerful attack training using a punching bag.†
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # Sure!!
 
-    ("普歯切齔れのいい音とと烽もに、葵ち痰ゃんの回し蹴闖りが、サンドバッグを蛯大きく揺逞らす。",
+    ("普歯切齔れのいい音とと烽もに、葵ち痰ゃんの回し蹴闖りが、サンドバッグを大きく揺逞らす。",
     ""),
     # The sound of the slashing teeth and the hot flashes, Aoi Chisho-chan's spinning kicks swaying the punching bag.
 
@@ -194,19 +194,19 @@ text_array = [
     ""),
     # It's completely strange to see where such a powerhouse lies in the petite Aoi Chisho-chan.
 
-    ("そこが格闘技の怩奥の深いとこｂだよな。†",
+    ("そこが格闘技の怩奥の深いとこだよな。†",
     ""),
     # That's the deepest part of martial arts b.†
 
-    ("アタックト激レーニングは、実寬戦を想闡定した格闘技には№欠かせない福練習法だ。",
+    ("アタックトレーニングは、実寬戦を想闡定した格闘技には№欠かせない練習法だ。",
     ""),
     # Attack Training is a great way to practice fortunes, which is essential for martial arts that are thought of as real battles.
 
-    ("実際に技を魔当てたときの感触が身につき、体重の乗せ福方笊やフォームの研結に烽もなるし、ひいては技の威力洛繻上に烽もつながるらしい。†",
+    ("実際に技を魔当てたときの感触が身につき、体重の乗せ方笊やフォームの研結に烽もなるし、ひいては技の威力洛上に烽もつながるらしい。†",
     ""),
     # It becomes accustomed to the feeling of actually hitting a move, and it becomes a stove when you apply weight and the form of stove, and it also becomes a stove that leads to the power of the move, which is also a stove.†
 
-    ("いくら薰基本稽古竚やシャャドート激レーニングを積んで、きれいなフォーム窿やスピードを身につけたとして烽も、実際に技を魔当てたときに蛯大きなダ＜メージを与えられなければ、なんの意味燒もない。†",
+    ("いくら薰基本稽古竚やシャャドートレーニングを積んで、きれいなフォーム窿やスピードを身につけたとして烽も、実際に技を魔当てたときに大きなダ＜メージを与えられなければ、なんの意味燒もない。†",
     ""),
     # Even if you gain a basic training session and intense schadoto laning, and gain a beautiful form and speed, you won't be able to get a big smudge when you actually hit a magic move, so there's no point in firing.†
 
@@ -214,11 +214,11 @@ text_array = [
     ""),
     # In the case of the Divine Tong martial arts, which is important for mental training, it is also important for the martial arts where you actually hit the ball with your hand, and in the case of the martial arts where you can actually hit the ball with your arms, the power of the technique is also important for the increased value of the technique.†
 
-    ("パンチ窿や回し蹴闖りなど、単発の技を何本かずつ福練習してから、今度はコンビネーシ㏍ョンの福練習に移驤る。",
+    ("パンチ窿や回し蹴闖りなど、単発の技を何本かずつ練習してから、今度はコンビネーションの練習に移驤る。",
     ""),
     # After practicing several single-shot techniques, such as punching and turning kicks, he proceeded to practice the combination syringe.
 
-    ("実寬戦を連想させるコンビネーシ㏍ョンの福練習は、見てるだけでこっちまで熱くなってくる。†",
+    ("実寬戦を連想させるコンビネーションの練習は、見てるだけでこっちまで熱くなってくる。†",
     ""),
     # Just watching the combination song's fortune practice, which is reminiscent of a real battle, makes me get so excited.†
 
@@ -270,27 +270,27 @@ text_array = [
     ""),
     # A low kick from a cool shield, a one-two, and a round kick.†
 
-    ("コンビネーシ㏍ョンは、技を打ち続ける限闌り、呼吸を止めて行う一連の無酸素運動だ。",
+    ("コンビネーションは、技を打ち続ける限り、呼吸を止めて行う一連の無酸素運動だ。",
     ""),
     # Combination Symbol is a series of anaerobic exercises that involve stopping your breathing, as long as you continue to use your skills.
 
-    ("しか烽も、シャャドート激レーニングとは痰違って、実際にサンドバッグを打つので、スタミナの消耗燒もモ激しい。†",
+    ("しか烽も、シャャドートレーニングとは痰違って、実際にサンドバッグを打つので、スタミナの消耗燒もモしい。†",
     ""),
     # However, unlike Shadow's intense leaning, he actually hits punching bags, and his stamina is also extremely exhausted.†
 
-    ("冝日頃から福練習を積んでいない者だと、最燕初の１回目はと烽もかく、２回目、３回目と繰闌り返すうち、すぐに息が繧上がり、腕燔も動かなくなる。†",
+    ("冝日頃から練習を積んでいない者だと、最燕初の１回目はと烽もかく、２回目、３回目と繰り返すうち、すぐに息が繧上がり、腕燔も動かなくなる。†",
     ""),
     # For those who have not practiced for good luck on a regular basis, the first time they had been in the first session, and as they repeated the second and third sessions, their breath quickly rose and their arms stopped moving.†
 
-    ("だが、葵ち痰ゃんは、１分打ち、１分休みと、п延々とそれを繰闌り返し福練習する。",
+    ("だが、葵ち痰ゃんは、１分打ち、１分休みと、п延々とそれを繰り返し練習する。",
     ""),
     # However, Aoi Chisho-yan plays for a minute and then takes a break, and continues to practice fortune for a minute.
 
-    ("コンビネーシ㏍ョン自体熨も、凵徐々にモ激しく、複雑になっていく。†",
+    ("コンビネーション自体熨も、凵徐々にモしく、複雑になっていく。†",
     ""),
     # The combination symbol itself also gradually becomes more intense and complicated.†
 
-    ("ついついオ激レは、自分の福練習そっちのけでその光景に見とれてしまう。",
+    ("ついついオレは、自分の練習そっちのけでその光景に見とれてしまう。",
     ""),
     # I can't help but be overwhelmed by the sight of my own fortune practice.
 
@@ -298,11 +298,11 @@ text_array = [
     ""),
     # Wow.
 
-    ("オ激レ焜も≠早く薰基本を学んで、サンドバッグを蹴ったり殴ったりしてみたいぜ〜！†",
+    ("オレ焜も≠早く薰基本を学んで、サンドバッグを蹴ったり殴ったりしてみたいぜ〜！†",
     ""),
     # I'd like to learn the basics soon and kick and punch punches at the punching bag!†
 
-    ("「え？	サンドバッグをですか？	あ、いいですよ。どうぞ竄やってみてください」",
+    ("「え？	サンドバッグをですか？	あ、いいですよ。どうぞやってみてください」",
     ""),
     # "Huh? Do you use a punching bag? Ah, that's fine. Please try tampering."
 
@@ -310,11 +310,11 @@ text_array = [
     ""),
     # "picture?"
 
-    ("ためしに竄やりたいと言ってみたら、いと烽も簡単にＯＫが出たので、少々面食逅らった。†",
+    ("ためしにやりたいと言ってみたら、いと烽も簡単にＯＫが出たので、少々面食逅らった。†",
     ""),
     # I tried to tell them I wanted to try and tamper with it, but I found out that I was able to easily get it, so I was a little worried.†
 
-    ("「オ激レみたいなシ鴻ロウトが、いきなり竄やって烽もいいのかな？」",
+    ("「オレみたいなシ鴻ロウトが、いきなりやって烽もいいのかな？」",
     ""),
     # "Is it okay to have Shikorouto, who looks like I'm a real guy, suddenly tamper with him?"
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # "Yes. Hot springs are important to actually acquire the feeling of hitting a magical attack. Remember the basics I taught last time and try to accurately hit them one by one."
 
-    ("という墲わけで、オ激レはサンドバッグの前に立った。",
+    ("という墲わけで、オレはサンドバッグの前に立った。",
     ""),
     # So I stood in front of the punching bag.
 
@@ -330,11 +330,11 @@ text_array = [
     ""),
     # He was given a punching robe and put it in his hand.†
 
-    ("いつ烽も葵ち痰ゃんが福練習薯に使っているウ激レタン素材の赤いрヤツだ。",
+    ("いつ烽も葵ち痰ゃんが練習薯に使っているウレタン素材の赤いрヤツだ。",
     ""),
     # The red one made of super-retainer material used by Aoi Chisho-chan for its lucky training potatoes.
 
-    ("エクスト潟リームの汲ルール用で、つかみ技煖もできるように指が出髀るようになっている。",
+    ("エクストリームの汲ルール用で、つかみ技煖もできるように指が出髀るようになっている。",
     ""),
     # It is for the Extreme Ream's rule, and the fingers are designed to bend so that you can also use the gripping technique.
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # "I'll support you from the aftermath of the attack."
 
-    ("葵ち痰ゃんは、揺齬れるサンドバッグを繧後撃から抱えて固闌定した。†",
+    ("葵ち痰ゃんは、揺齬れるサンドバッグを繧後撃から抱えて固定した。†",
     ""),
     # Aoi Chisho-yan held the contradictory punching bag after it was fired, holding it in unison.†
 
@@ -363,7 +363,7 @@ text_array = [
     # It's just a punch...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("だが、いざサンドバッグを前にすると、殴驩るという単ヲ純な行動が妙に入しいことのように思えてしまう。†",
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # "...Um."
 
-    ("正しい打ち福方って、どんなだっけ？",
+    ("正しい打ち方って、どんなだっけ？",
     ""),
     # What is the correct way to bless you?
 
@@ -386,7 +386,7 @@ text_array = [
     ""),
     # "First, please make sure to keep your fist firmly so that you don't hurt your wrist."
 
-    ("戸惑ってるオ激レを見て、葵ち痰ゃんがアドバイスしてくれる。",
+    ("戸惑ってるオレを見て、葵ち痰ゃんがアドバイスしてくれる。",
     ""),
     # When I see my confusing slut, Aoi Chisho-yan gives me advice.
 
@@ -398,7 +398,7 @@ text_array = [
     ""),
     # Now, squeeze the base of your fingers from your little finger in order of number one... and that's fine.†
 
-    ("「磨当てる場鰹所は、人差し指とｒ指の付け根の辺阨りです。そこが揩拳で一番硬い部分です」",
+    ("「当てる場鰹所は、人差し指とｒ指の付け根の辺阨りです。そこが揩拳で一番硬い部分です」",
     ""),
     # "The bonito area where you polish it is the base of your index finger and r finger. That is the hardest part of your thrust."
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # "As soon as the jewel hits the demon, it turns the elbow from below to side 90 degrees.
 
-    ("手首ではなく、必ずヒジで返してください。ヒジから先は固闌定したままです。",
+    ("手首ではなく、必ずヒジで返してください。ヒジから先は固定したままです。",
     ""),
     # Be sure to return it with your elbows, not your wrist.The tip of the elbow remains firm.
 
@@ -434,7 +434,7 @@ text_array = [
     ""),
     # Please imagine the tanning of kendo baskets."
 
-    ("閨手首を固闌定したまま、ヒジを返す。†",
+    ("閨手首を固定したまま、ヒジを返す。†",
     ""),
     # Turn your elbows back while keeping your wrists tight.†
 
@@ -454,7 +454,7 @@ text_array = [
     ""),
     # Good name.
 
-    ("サンドバッグ越しに葵ち痰ゃんを≠吹っ飛ばすくらいのすげーパンチを打って、ビビ辜らせて竄やるぜ！†",
+    ("サンドバッグ越しに葵ち痰ゃんを≠吹っ飛ばすくらいのすげーパンチを打って、ビビ辜らせてやるぜ！†",
     ""),
     # I'll hit an incredible punch through the punching bag to blow away Aoi Chisho-chan, and then I'll make you scorn and tamper with it!†
 
@@ -474,7 +474,7 @@ text_array = [
     ""),
     # It's so fast!
 
-    ("オ激レは渾身の力を振關り絞闕り、サンドバッグを打ちつけた。†",
+    ("オレは渾身の力を振關り絞闕り、サンドバッグを打ちつけた。†",
     ""),
     # I expounded my all my strength and thrust into a punching bag.†
 
@@ -487,10 +487,10 @@ text_array = [
     # I'm so heavy that I wouldn't believe I'm a beginner."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「で烽もち蛯ょっとｂモーシ㏍ョンが蛯大きいですね。",
+    ("「で烽もちょっとモーションが大きいですね。",
     ""),
     # "Then the b-moshi-chan is big.
 
@@ -518,7 +518,7 @@ text_array = [
     ""),
     # "I'll do it!"
 
-    ("閨手首を抱え桙込んで、オ激レはうめいた。†",
+    ("閨手首を抱え桙込んで、オレはうめいた。†",
     ""),
     # I moaned as I held my wrists and bent over.†
 
@@ -526,15 +526,15 @@ text_array = [
     ""),
     # "Ah, are you sturdy, are you sturdy?!"
 
-    ("葵ち痰ゃんが心配そうにｋけ寄ってきた。",
+    ("葵ち痰ゃんが心配そうに駆け寄ってきた。",
     ""),
     # Aoi Chisho-yan came over to me with concern.
 
-    ("「だ、だいじ蛯ょーぶ、だいじ蛯ょーぶ…」",
+    ("「だ、だいじょーぶ、だいじょーぶ…」",
     ""),
     # "Oh, it's a little slut, it's a little slut..."
 
-    ("オ激レはぎこちなく笑ってみせた。",
+    ("オレはぎこちなく笑ってみせた。",
     ""),
     # I laughed awkwardly.
 
@@ -562,11 +562,11 @@ text_array = [
     ""),
     # "For those who hit a punching bag for the first time, they are usually surprised by the shock hit on the wrist, with no exceptions.
 
-    ("やっぱり≠普段から薰基本ト激レーニングを積んで、閨手首を鍛えておかないといけませんね」†",
+    ("やっぱり≠普段から薰基本トレーニングを積んで、閨手首を鍛えておかないといけませんね」†",
     ""),
     # After all, you have to train your wrists by carrying out intense training on a regular basis."
 
-    ("「…ってことは、葵ち痰ゃん烽も、いつ烽もそんなト激レーニング窿やってんの？」",
+    ("「…ってことは、葵ち痰ゃん烽も、いつ烽もそんなトレーニング窿やってんの？」",
     ""),
     # "...So, does Aoi Chishonan Hot Spring and when are you doing such a training session?"
 
@@ -578,11 +578,11 @@ text_array = [
     ""),
     # Running to gain stamina and training your body is basically the same basic principle."
 
-    ("「で烽も、そんなのいつ竄やってんの？	禔練習薯は魔走ったりしてないだｂう？	もしかして、家に帰ってからとか？」†",
+    ("「で烽も、そんなのいつやってんの？	禔練習薯は魔走ったりしてないだう？	もしかして、家に帰ってからとか？」†",
     ""),
     # "So when are you tampering with that? The Yu Practice Potato doesn't run on demons, right? Maybe it's been after you get home?" †
 
-    ("「いえ、帰ってからはとくに。だからいつ烽も朝、＝早起きして竄やるんです」",
+    ("「いえ、帰ってからはとくに。だからいつ烽も朝、＝早起きしてやるんです」",
     ""),
     # "Especially after you get home. That's why I always wake up early in the morning and tamper with it."
 
@@ -598,11 +598,11 @@ text_array = [
     ""),
     # Uh, uhh...
 
-    ("竅やっぱりこのコの強くなりたいって薰情熱は、並蝠大葬の烽ものじ痰ゃないぜ。†",
+    ("やっぱりこのコの強くなりたいって薰情熱は、並蝠大葬の烽ものじ痰ゃないぜ。†",
     ""),
     # After all, this girl's passion for wanting to be strong is the sputum of a big burial.†
 
-    ("「じ痰ゃあ≠普段、家に帰ってからはなに竄やってんの？」",
+    ("「じ痰ゃあ≠普段、家に帰ってからはなにやってんの？」",
     ""),
     # "What are you doing when you get home?"
 
@@ -642,7 +642,7 @@ text_array = [
     ""),
     # "Yes. Recently, there have been an increase in the number of gyms who pass the Koso ≡ fighting arts.
 
-    ("女子の部があるとこｂはまだ少ないですけど」†",
+    ("女子の部があるとこはまだ少ないですけど」†",
     ""),
     # There are still few b-stops in the girls' division."
 
@@ -658,11 +658,11 @@ text_array = [
     ""),
     # "£Funeral National Marriage Pharma?"
 
-    ("「はい。道齠場まではち蛯ょっと唐遠いんですけど、立派な師範がおられる道齠場で…。形意揶拳って艪御存じですか？」",
+    ("「はい。道齠場まではちょっと遠いんですけど、立派な師範がおられる道齠場で…。形意揶拳って御存じですか？」",
     ""),
     # "Yes. It's far from the road station, but it's a road station with a splendid master...Do you know that you're a stolen stylist?"
 
-    ("「い竄や…」",
+    ("「いや…」",
     ""),
     # "It's tampering..."
 
@@ -670,11 +670,11 @@ text_array = [
     ""),
     # "There's that kind of martial art. I'm only just a little bit more than that, but I think it might be useful for something."
 
-    ("「はあ〜、いｂいｂ竄やってんだなぁ。じ痰ゃあ、冝日曜坥日燗も忙しいんじ痰ゃないか。遊んでる桙時間なんか全然ないじ痰ゃないか」",
+    ("「はあ〜、いいやってんだなぁ。じ痰ゃあ、冝日曜坥日燗も忙しいんじ痰ゃないか。遊んでる桙時間なんか全然ないじ痰ゃないか」",
     ""),
     # "Ah, you're tampering with b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b
 
-    ("「まあ、で烽も、好きで竄やってますから、全然鞫疲齡れるとかはないですよ」",
+    ("「まあ、で烽も、好きでやってますから、全然鞫疲齡れるとかはないですよ」",
     ""),
     # "Well, I'm also tampering with Hot, so I don't get tired of anything at all."
 
@@ -682,15 +682,15 @@ text_array = [
     ""),
     # What a surprise...†
 
-    ("思寬わずオ激レは言う。",
+    ("思寬わずオレは言う。",
     ""),
     # I didn't think about it and said,
 
-    ("Ａ	葵ち痰ゃんは竄やっぱりすごいなあ。閨",
+    ("Ａ	葵ち痰ゃんはやっぱりすごいなあ。閨",
     ""),
     # A: Aoi Chisho-yan is amazing after all.Relax
 
-    ("Ｂ	オ激レにはとて烽も真乱似できそうにないぜ。閨",
+    ("Ｂ	オレにはとて烽も真乱似できそうにないぜ。閨",
     ""),
     # B I don't think Hot will ever be able to confuse me.Relax
 

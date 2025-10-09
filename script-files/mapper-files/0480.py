@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho п痃塙-included type likeability event) (Select Pass)†
 
-    ("「增わりぃ、今回はパスな」",
+    ("「わりぃ、今回はパスな」",
     ""),
     # "Stop it, I'll pass this time."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "That's what it is. It's phlegm."
 
-    ("オ激レは軽く右濶手をあげてから、志保に背をｌける。",
+    ("オレは軽く右濶手をあげてから、志保に背をｌける。",
     ""),
     # I briefly lifted my right hand and then turned my back against Shiho.
 

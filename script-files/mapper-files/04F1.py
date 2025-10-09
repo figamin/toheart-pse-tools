@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Yes. I'll be in front of the station on Saturday at 10 gaze."
 
-    ("「增わかった」",
+    ("「わかった」",
     ""),
     # "I understand."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # ...Shiho and 4-Kawaku-Hiku will also travel to Uzono.
 
-    ("ま、退窓はしないだｂうな…。◯",
+    ("ま、退窓はしないだうな…。◯",
     ""),
     # Well, I won't leave the window...◯
 

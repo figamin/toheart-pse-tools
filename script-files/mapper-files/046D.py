@@ -10,7 +10,7 @@ text_array = [
     ""),
     # On my way home, I first appeared at Shiho again in front of the bookstore.
 
-    ("「いようっ、インテ潟リ」",
+    ("「いようっ、インテリ」",
     ""),
     # "I'm here, Integata Ri."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "I haven't read the huangan right now."
 
-    ("「読んで烽も読まなくて烽も、おめえをインテ潟リ呼ば墲わりするрヤツはいねえよ」†",
+    ("「読んで烽も読まなくて烽も、おめえをインテリ呼ば墲わりするрヤツはいねえよ」†",
     ""),
     # "No one would ever read it, and even call me an Integata" †
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Is it different?"
 
-    ("「この男は…。あたしがいかにインテ潟リジェントな一面を揩持っているか、説明する必要があるようね」",
+    ("「この男は…。あたしがいかにインテリジェントな一面を揩持っているか、説明する必要があるようね」",
     ""),
     # "This guy... I think I need to explain how intelligent I have."
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "For example, do you know what books I was reading here now?"
 
-    ("「マンガだｂ？	木曜だから、пヤンコミか？」",
+    ("「マンガだ？	木曜だから、пヤンコミか？」",
     ""),
     # "It's a manga b? It's Thursday, so is it пYankomi?"
 
-    ("「ちが墲わいっ！	話が№合ってないでし蛯ょーが」",
+    ("「ちが墲わいっ！	話が№合ってないでしょーが」",
     ""),
     # "No! We didn't get the right thing, so slut."
 
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # "teeth?"†
 
-    ("「インテ潟リジェントだって言ってるそばからマンガ読むрヤツいない墲わよっ」",
+    ("「インテリジェントだって言ってるそばからマンガ読むрヤツいない墲わよっ」",
     ""),
     # "There's no one who reads manga from someone who says it's intelligent."
 
-    ("「增わーった墲わーった。マンガ読むрヤツはインテ潟リじ痰ゃねえっつうんだな？	…偏見だｂ、そり痰ゃ」",
+    ("「わーった墲わーった。マンガ読むрヤツはインテリじ痰ゃねえっつうんだな？	…偏見だ、そり痰ゃ」",
     ""),
     # "I'm so sad. Those who read manga don't have any phlegms, right? ...That's prejudice, that's a phlegm."
 
-    ("「う〜ん…インテ潟リ焜も読むマンガ焜もある墲わね」†このまま…",
+    ("「う〜ん…インテリ焜も読むマンガ焜もある墲わね」†このまま…",
     ""),
     # "Hmm... there's a manga that also reads Interigata Liberation" † I'll continue like this...
 

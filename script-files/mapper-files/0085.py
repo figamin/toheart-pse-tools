@@ -2,11 +2,11 @@
 # Source file: 0085.txt
 
 text_array = [
-    ("（冝期槙末テスト	２冾日目）閨（選択綜	バッチ潟リ）†",
+    ("（冝期槙末テスト	２冾日目）閨（選択綜	バッチリ）†",
     ""),
     # (2nd day of the sinus final test) (Secondhand sinus Batch-Katari)†
 
-    ("「バッチ潟リさ」",
+    ("「バッチリさ」",
     ""),
     # "Batch Latitude"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Well, that's thanks to all the hot springs.
 
-    ("「Ｓｂ≠ａ窒ｒ垂ｐ！	竅やったネ、！」",
+    ("「Ｓ≠ａ窒ｒ垂ｐ！	やったネ、！」",
     ""),
     # "Sb≠a nitrogen drip! I did that, huh!"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "A lot of hard work"
 
-    ("「とことんか。それじ痰ゃ公式覚えて烽もし蛯ょうがねえよな」",
+    ("「とことんか。それじ痰ゃ公式覚えて烽もしょうがねえよな」",
     ""),
     # "Is that really true? That's the official phlegm, remember the official phobia, so if there's no slut."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # It's a relief that the person himself is so sick and not phlegmy.†
 
-    ("「けど、戟レミィには英皷語があるだｂ」",
+    ("「けど、戟レミィには英皷語があるだ」",
     ""),
     # "But there's English language in Wang Remy."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Yes. English-Japanese language test, easy tea."
 
-    ("「うら竄やましいぜ」",
+    ("「うらやましいぜ」",
     ""),
     # "I'm jealous of you."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「じ痰ゃあ、べつの教科で頑張齟れよ。化学とか、現社とか」",
+    ("「じ痰ゃあ、べつの教科で頑張れよ。化学とか、現社とか」",
     ""),
     # "You're so phlegm, do your best in another subject. Chemistry, Currentsha, etc."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Yeah!"
 
-    ("「戟レミィの得意科目はどれなんだ？	意表を突いて現繻代社脂とか詳しそうだな」",
+    ("「戟レミィの得意科目はどれなんだ？	意表を突いて現代社脂とか詳しそうだな」",
     ""),
     # "Which subject is Karemi's specialty? I think you'll be surprised and understand the current Yadosha shi."
 

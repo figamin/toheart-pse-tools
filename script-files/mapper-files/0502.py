@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Ah, ah."
 
-    ("オ激レはうなずいて嘯答えた。",
+    ("オレはうなずいて嘯答えた。",
     ""),
     # I nodded and replied.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan laughed happily.†
 
-    ("たしかに少しは興味燒もあるしな、見学するくらいならいいだｂう。",
+    ("たしかに少しは興味燒もあるしな、見学するくらいならいいだう。",
     ""),
     # It's certainly a bit interesting, so it's fine if you're going to visit.
 

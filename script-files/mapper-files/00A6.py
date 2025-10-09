@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Yuuuu, it rained heavily on the night of the night. Didn't you notice?"
 
-    ("「え、い竄や、ぜんぜん…」",
+    ("「え、いや、ぜんぜん…」",
     ""),
     # "What, it's a mess, it's completely..."
 

@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Okay, I'm going to start to feel the excitement of the sun now.†
 
-    ("竅坂の途湯で、あかりが、ふあ〜っと蛯大きなあくびをした。",
+    ("坂の途湯で、あかりが、ふあ〜っと大きなあくびをした。",
     ""),
     # Akari yawned loudly at the onshore bathhouse on the hillside.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Well, it's a little bit."
 
-    ("オ激レは苦笑して嘯答えをにごした。†",
+    ("オレは苦笑して嘯答えをにごした。†",
     ""),
     # I smiled wryly and gave my answer.†
 

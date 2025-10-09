@@ -10,7 +10,7 @@ text_array = [
     ""),
     # I went home and ate a Pokkapoka bento that I bought at the bathtub.
 
-    ("そして、午繻後２桙時ごｂ。†",
+    ("そして、午後２桙時ご。†",
     ""),
     # And then there was two b after the morning.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Hello, sphinja" ◯
 
-    ("その冾日燗もあかりといっし蛯ょに勉強した。",
+    ("その冾日燗もあかりといっしょに勉強した。",
     ""),
     # I also studied the freshly-cooked Japanese with Akari.
 
-    ("明坙日のテストは英皷語と現繻代社脂だ。",
+    ("明坙日のテストは英皷語と現代社脂だ。",
     ""),
     # The Ming Shun test was conducted by English-Japanese language and Gendai Kaisha.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # The key to both the English-Ko-Gangan and the current-sha smoking surges is to win the memory.
 
-    ("前半は英皷語、とくに単齟語を重点的に怩復習し、縺後半は現社、あかりのノートを丸暗記する。",
+    ("前半は英皷語、とくに単語を重点的に怩復習し、縺後半は現社、あかりのノートを丸暗記する。",
     ""),
     # The first half focuses on the English language, especially the monophonic language, and in the second half, I memorize the notebooks of Gensha and Akari.
 
-    ("あかりがオ激レのために、ち痰ゃんとノートをコピーしてきてくれたのが嬉しかった。†",
+    ("あかりがオレのために、ち痰ゃんとノートをコピーしてきてくれたのが嬉しかった。†",
     ""),
     # I was happy that Akari had copied my notebook with a smug one for my hard work.†
 

@@ -10,12 +10,12 @@ text_array = [
     ""),
     # "It seems like the day is bad now."
 
-    ("オ激レは微笑んでそう言った。†",
+    ("オレは微笑んでそう言った。†",
     ""),
     # I smiled and said that.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は悲しそうな顔でうつむいた。",
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "sorry…"
 
-    ("「えっ？	なに謝ってんだよ。そういう冾日燗もあるさ。だって、こんないい天気なんだぜ。雨を降迯らすなんて、あまりに烽もだｂ？」†",
+    ("「えっ？	なに謝ってんだよ。そういう冾日燗もあるさ。だって、こんないい天気なんだぜ。雨を降迯らすなんて、あまりに烽もだ？」†",
     ""),
     # "Huh? What are you apologizing? There's such a nice weather. Is it too hot to let rain fall?" †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ？	本末当にｂ魔法があることを、オ激レに見せてあげたかったって？」",
+    ("「えっ？	本末当に魔法があることを、オレに見せてあげたかったって？」",
     ""),
     # "Huh? You wanted to show me that there's B-magic magic at the end of the day?"
 
@@ -43,10 +43,10 @@ text_array = [
     # So...†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「オ激レをｊばせたかった？」",
+    ("「オレをｊばせたかった？」",
     ""),
     # "Did you want me to make you squeal?"
 
@@ -54,19 +54,19 @@ text_array = [
     ""),
     # So...
 
-    ("諱先輩はち蛯ょっと涙ぐんだ目でうなずいた。",
+    ("諱先輩はちょっと涙ぐんだ目でうなずいた。",
     ""),
     # Senpai nodded with tears in tears.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩…。†",
     ""),
     # Senior name...†
 
-    ("「うん、增わかった。じ痰ゃあ、今度また見せてくれよ」",
+    ("「うん、わかった。じ痰ゃあ、今度また見せてくれよ」",
     ""),
     # "Yeah, I understand. I'll show you some more phlegm next time."
 
@@ -74,23 +74,23 @@ text_array = [
     ""),
     # "..."†
 
-    ("「今厓日はたまたまだｂ、たまたま」",
+    ("「今厓日はたまたまだ、たまたま」",
     ""),
     # "I just happened to be b, just happening."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("こくん…。",
     ""),
     # Ko-kun...
 
-    ("諱先輩は艪ゆっくりうなずいた。†",
+    ("諱先輩はゆっくりうなずいた。†",
     ""),
     # Senpai nodded slowly.†
 
-    ("「今度は竄絶対成功させようぜ！」",
+    ("「今度は絶対成功させようぜ！」",
     ""),
     # "Now, let's make it a success!"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「そのときは、オ激レ焜もまた手伝うからさ！」◯",
+    ("「そのときは、オレ焜もまた手伝うからさ！」◯",
     ""),
     # "At that time, I'll help out too!"
 

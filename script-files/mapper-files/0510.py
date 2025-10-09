@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aoi Cry Date Event 2) (Aoi Cry Date: 27th Day of the Fourth Day of the Year, Sunday of the Year, PM2) (Aoi Cry Date: 32 or higher) (Aoi Cry Date: 32 or higher) (Shopping Street)†
 
-    ("午繻後になり、適俣当にぶらぶらアーケードを烽歩いていると、本屋の前で見知った顔を見つけた。",
+    ("午後になり、適俣当にぶらぶらアーケードを烽歩いていると、本屋の前で見知った顔を見つけた。",
     ""),
     # After the morning, as I was walking around the arcade strolling around Tomoematato, I found a familiar face in front of a bookstore.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Aoi Chishonan.
 
-    ("オ激レは近寄って声をかけた。",
+    ("オレは近寄って声をかけた。",
     ""),
     # I came near and called out.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What are you doing, where is this? Is it a day for the train station to be used? Is it phlegmous for you to do?"
 
-    ("「今厓日は道齠場はお休みです。いまはち蛯ょっと欲しい本があったので、本屋さんで探してたとこｂなんです」†",
+    ("「今厓日は道齠場はお休みです。いまはちょっと欲しい本があったので、本屋さんで探してたとこなんです」†",
     ""),
     # "The roadside is closed on the day. I just wanted a book, so I was looking for it at a bookstore."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "It's sputum."
 
-    ("思寬わず笑ってしまう、オ激レ。†",
+    ("思寬わず笑ってしまう、オレ。†",
     ""),
     # I laughed without thinking, and was so intense.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Huh"
 
-    ("タイト泣ルからして、ずいぶんとつっこんだ烽内容逞らしいな。†",
+    ("タイトルからして、ずいぶんとつっこんだ烽内容逞らしいな。†",
     ""),
     # From the point of crying, it seems like the strong-selling content that's quite a bit of a hit.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "What are you, Senpai?"
 
-    ("「オ激レ？	べつになに烽も。暇だからブ宴ラブ宴ラしてただけさ」",
+    ("「オレ？	べつになに烽も。暇だからブラブラしてただけさ」",
     ""),
     # "I'm super crazy? What's that? I'm bored, so I just had a lovey-dovey party."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "What are you going to do now?"
 
-    ("「せっかくですし、またいつ烽もの場鰹所で福練習しようかと思って…」",
+    ("「せっかくですし、またいつ烽もの場鰹所で練習しようかと思って…」",
     ""),
     # "I've had the chance, so I thought about when I'd practice fortune at the bonito broth again..."
 
@@ -114,19 +114,19 @@ text_array = [
     ""),
     # "yes"
 
-    ("そういえば、肩には見慣れたスポーツバッグをし蛯ょっている。",
+    ("そういえば、肩には見慣れたスポーツバッグをしょっている。",
     ""),
     # Come to think of it, he has a familiar sports bag on his shoulder.
 
-    ("タオ泣ル窿や体操葬が入ってるんだｂう。†",
+    ("タオル窿や体操葬が入ってるんだう。†",
     ""),
     # There's a tao crying and gymnastics included.†
 
-    ("「梶相変﨑わらず福練習熱心だな、えらいよな」",
+    ("「梶相変﨑わらず練習熱心だな、えらいよな」",
     ""),
     # "Kaji Ai Henzaki is so enthusiastic about Fuku practice, that's amazing."
 
-    ("「いえ、好きなこと竄やってるだけですから、全然えらくなんかないですよ」",
+    ("「いえ、好きなことやってるだけですから、全然えらくなんかないですよ」",
     ""),
     # "No, I'm just tampering with what I love, so it's not that great at all."
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # Aoi Chisho-chan laughs as she glars.†
 
-    ("それにして烽も、こんなとこｂで葵ち痰ゃんにｉえるなんて珍しいよな。",
+    ("それにして烽も、こんなとこで葵ち痰ゃんにｉえるなんて珍しいよな。",
     ""),
     # And it's rare for Ho to get into Aoi Chisho-chan at a place like this.
 
-    ("ついでだし、オ激レ焜も福練習に参加しようかな。",
+    ("ついでだし、オレ焜も練習に参加しようかな。",
     ""),
     # Also, I think I'll take part in the lucky practice.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # A: Participate.Relax
 
-    ("Ｂ	竅やめとこう。閨",
+    ("Ｂ	やめとこう。閨",
     ""),
     # B Let's stop it.Relax
 

@@ -18,7 +18,7 @@ text_array = [
     ""),
     # ...I'm kind of sleepy.
 
-    ("トイ激レから戻ってきたオ激レは、自分の席へｒこうとした。†",
+    ("トイレから戻ってきたオレは、自分の席へｒこうとした。†",
     ""),
     # After returning from Toy Gekire, I tried to go to my seat.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Upure wow!"
 
-    ("いきなり背續後から突き飛ばされ、オ激レは二三燻歩謨よｂめいた。†",
+    ("いきなり背續後から突き飛ばされ、オレは二三燻歩謨よめいた。†",
     ""),
     # Suddenly he was thrust away from me from behind, and my heart was like a couple of slurping.†
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # When I replied, Shiho's guy was laughing groaning.
 
-    ("どう竄やらオ激レを突き飛ばしたのは、あいつらしい。",
+    ("どうやらオレを突き飛ばしたのは、あいつらしい。",
     ""),
     # It seems that he was the one who threw away my anger or whatever.
 
-    ("「てめー、オ激レになんの恨みがあんだ！」",
+    ("「てめー、オレになんの恨みがあんだ！」",
     ""),
     # "What, what grudge do you have about me!"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # When you think about it, there's plenty or some hot water.†
 
-    ("「戟レミィから聞いた墲わよ。あんたとぶつかると、もれなくド宴ラマチックな出初いができるんでし蛯ょ？」",
+    ("「戟レミィから聞いた墲わよ。あんたとぶつかると、もれなくドラマチックな出初いができるんでしょ？」",
     ""),
     # "I heard this from Garemy. When you bump into you, you can have a banquet and a ramatic first timer, slut?"
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("一瞬、なんのこと竄やら墲わからなかったが、諱よく考えてみると、戟レミィにそんなふうなことを言った覚えがある。†",
+    ("一瞬、なんのことやら墲わからなかったが、諱よく考えてみると、戟レミィにそんなふうなことを言った覚えがある。†",
     ""),
     # For a moment, I didn't understand what it was like, but when I thought about it, I remember saying something like that to Hakuremi.†
 
-    ("「プププ、ド宴ラマチックって言うより、コ＜メディチックって感じぃ？	アハハハッ！」",
+    ("「プププ、ドラマチックって言うより、コ＜メディチックって感じぃ？	アハハハッ！」",
     ""),
     # "Pupuu, it's more like a banquet ramatic, but rather like a komedic? Ahahaha!"
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # Shiho's guy started to laugh out loud.†
 
-    ("「…ンの竄やｂぉ〜っ」",
+    ("「…ンのやぉ〜っ」",
     ""),
     # "...But it's a bit of a mess."
 
-    ("いい加減、頭にｗたオ激レが、志保のрヤツをとっちめようとした瞬間｢｢。†",
+    ("いい加減、頭にｗたオレが、志保のрヤツをとっちめようとした瞬間｢｢。†",
     ""),
     # Just as I was laughing at my head, I tried to grab Shiho's р guy, ".†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # yeah?」◯
 
-    ("隣の席で予習かなんかを竄やっていた委員長がそんなことを言った。†",
+    ("隣の席で予習かなんかをやっていた委員長がそんなことを言った。†",
     ""),
     # The chairman, who was sitting next to me and was doing some preparations or something, said that.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "What's that noisy and bad! Even if you stretch your wings around the time of your break, you can't get phlegm."
 
-    ("「人のク宴ラス来て、羽伸ばさんといて竄や」",
+    ("「人のクラス来て、羽伸ばさんといてや」",
     ""),
     # "A man's banquet will come and we'll spread our wings."
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # Shiho looks like a kid, as the tough chairman of Kaji Ai Henzaki.
 
-    ("冝放っといたらキ潟リがなさそうだ。†",
+    ("冝放っといたらキリがなさそうだ。†",
     ""),
     # If I leave it alone, it wouldn't be possible.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

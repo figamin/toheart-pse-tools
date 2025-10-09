@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Tomoko's first favorability event) (continued from Chosen ABCD) (PCM = normal zamawaki)†
 
-    ("マジ＜メに竄やった竄やらないはと烽もかくとして、授業開始から３０分ほどが過ぎると、蛛大半の生徒は課濶題のプ潟リントを終尞わらせた。",
+    ("マジ＜メにやったやらないはと烽もかくとして、授業開始から３０分ほどが過ぎると、蛛大半の生徒は課濶題のプリントを終尞わらせた。",
     ""),
     # Seriously, it's a shame that he won't tamper with me, but after about 30 minutes have passed since the start of class, most of the students have completed the Pulatinate, which is the subject of the class.
 
-    ("その繧後、教室はダベ潟リｃモードに突涛した。†",
+    ("その繧後、教室はダベリｃモードに突涛した。†",
     ""),
     # After that, the classroom was hit by a storm in Dabelat Rei C mode.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Either make a fuss, or you're sleeping without any phlegm.
 
-    ("磨当然、オ激レ焜もそう。†",
+    ("当然、オレ焜もそう。†",
     ""),
     # Of course, the same goes for my super-sex.†
 
-    ("ちなみに、オ激レは｢｢。",
+    ("ちなみに、オレは｢｢。",
     ""),
     # Incidentally, I'm a geek saying, ".
 

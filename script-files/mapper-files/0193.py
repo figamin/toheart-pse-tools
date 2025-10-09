@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari Scales Event 1F 1) (Actually, I'm noisy about poverty topics)†
 
-    ("「お前迹ら、オ激レに貧乏性ネタを振っちまったからには覚蜉悟しｂよ。ち蛯ょっと竄やそっとじ痰ゃ終尞わらねーぜ」",
+    ("「お前迹ら、オレに貧乏性ネタを振っちまったからには覚蜉悟しよ。ちょっとやそっとじ痰ゃ終尞わらねーぜ」",
     ""),
     # "You guys have given me some poverty jokes to my superhuman, so be sure to understand. If you don't just tamper with it or just keep phlegm quietly, it won't be over."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "I'm saving, I'm saving."
 
-    ("「いつかゴミ袋とかに使おうと思って取っておくんだけど、使うより揩増える一箞方で、最纃後は汲結局まとめて捨てちまったりするだｂ」",
+    ("「いつかゴミ袋とかに使おうと思って取っておくんだけど、使うより揩増える一箞方で、最纃後は汲結局まとめて捨てちまったりするだ」",
     ""),
     # "I'll save it for someday using it in a garbage bag, but it's a little more likely to increase the amount of trash, and at the very least, I end up throwing it all away all at once."
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "When you have a can box, you start to start shaping small items and sputum."
 
-    ("「あと、捨てられないといえば、竅やっぱ桙服。",
+    ("「あと、捨てられないといえば、やっぱ桙服。",
     ""),
     # "And also, when I say I can't throw it away, I guess I'm wearing a fox.
 
-    ("時緕代遅齟れだし、もう竄絶対葬ないの烽も墲わかってんのに、捨てらんねー諱よな」",
+    ("時緕代遅れだし、もう絶対葬ないの烽も墲わかってんのに、捨てらんねー諱よな」",
     ""),
     # The time and age are late, and I know that no one will ever die, but I don't throw it away, right?
 
-    ("「いつかｒ髓ること烽もあるだｂうと思ってね」",
+    ("「いつかｒ髓ること烽もあるだうと思ってね」",
     ""),
     # "I hope that one day there will be some temptation."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "That's because it's poor, isn't it?"
 
-    ("「捨てようと思ってたはずの鰍穴開き靴下を、ついつい洗濯しちまって、し蛯ょーがねーから烽もう一回嚔履こうかとか。そういう経験ない？」",
+    ("「捨てようと思ってたはずの鰍穴開き靴下を、ついつい洗濯しちまって、しょーがねーから烽もう一回嚔履こうかとか。そういう経験ない？」",
     ""),
     # "You've probably been thinking of throwing it away and you end up washing the horny socks that you've been thinking of, and you'll probably wear them again, so you're not going to have a slut. Have you ever had that kind of experience?"
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "That's right" †
 
-    ("「たまにサイフのｒ身出してみたら『おい、これ、どこだ？』っつー店のサービス買券とかが蛯大量に出てきたりとか。しか烽もよく見闌り痰ゃとっくに有効卲期限が切齔れてたり」",
+    ("「たまにサイフのｒ身出してみたら『おい、これ、どこだ？』っつー店のサービス買券とかが大量に出てきたりとか。しか烽もよく見り痰ゃとっくに有効卲期限が切齔れてたり」",
     ""),
     # "Sometimes, when I put out my wallet, I get a lot of service tickets from stores, like, 'Hey, where is this?' But even if I look closely at the hot springs, the validity period has already expired."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Ah, it's got some hot water now."
 
-    ("「じ痰ゃあ、これがあったら貧乏性シ潟リーズ、行ってみるか？」",
+    ("「じ痰ゃあ、これがあったら貧乏性シリーズ、行ってみるか？」",
     ""),
     # "I'm not sure if this is what I'm saying, why don't you go to the poor Sigata Leeds?"
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Ah, there are, lots"
 
-    ("「刺身についてるし蛯ょう艪ゆとか墲わさびの袋。えてして竄冷蔵庫のドアの開けたとこに蛯大量にたまってんだよなー」",
+    ("「刺身についてるしょうゆとか墲わさびの袋。えてして冷蔵庫のドアの開けたとこに大量にたまってんだよなー」",
     ""),
     # "It comes with sashimi, and bags of sashimi and wasabi. I've accumulated a lot of sashimi when I opened the refrigerator door."
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "That's true" †
 
-    ("「コンビニのスパゲティーとかについてくるフォーク窿やスプーン。あれを洗って使ってる家煢も貧乏性だｂ」",
+    ("「コンビニのスパゲティーとかについてくるフォーク窿やスプーン。あれを洗って使ってる家煢も貧乏性だ」",
     ""),
     # "Forks and spoons that come with spaghetti at convenience stores. The dogs that wash and use are also poor."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # While I was saying that, I was in front of the house.
 
-    ("帰闍り道、п延々３０分間、貧乏性の話陂題だけで間が揩持つとは、オ激レたちって…。◯",
+    ("帰闍り道、п延々３０分間、貧乏性の話陂題だけで間が揩持つとは、オレたちって…。◯",
     ""),
     # I'm so excited that I can't help but think that I'm going back and forth for 30 minutes, just talking about poverty.◯
 

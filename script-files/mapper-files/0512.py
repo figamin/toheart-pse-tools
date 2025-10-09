@@ -2,15 +2,15 @@
 # Source file: 0512.txt
 
 text_array = [
-    ("（葵	冝日付イベント２）閨（選択綜Ｂ	竅やめとこう）†",
+    ("（葵	冝日付イベント２）閨（選択綜Ｂ	やめとこう）†",
     ""),
     # (Aoi Cry Date Event 2) (Select Sou B: Stop it)†
 
-    ("また今度ってことで、今厓日は竄やめとこう。",
+    ("また今度ってことで、今厓日はやめとこう。",
     ""),
     # Since it's the next time, I'll stop tampering with it now.
 
-    ("オ激レはまだ葵ち痰ゃんほど格闘好きって墲わけじ痰ゃないしな。",
+    ("オレはまだ葵ち痰ゃんほど格闘好きって墲わけじ痰ゃないしな。",
     ""),
     # I still have to say that I love fighting as much as Aoi Chishun.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "You're so good at practicing, do your best."
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan nodded cheerfully.†
 
-    ("「ではまた、ク宴ラブで」",
+    ("「ではまた、クラブで」",
     ""),
     # "See you banquet love again."
 

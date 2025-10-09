@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Akari Scales Event Returning Road) (Choose A call)†
 
-    ("オ激レはひとまず雑庶誌を置くと、店燗内に入闢り、あかりに近づいていった。◯",
+    ("オレはひとまず雑庶誌を置くと、店燗内に入闢り、あかりに近づいていった。◯",
     ""),
     # For now, I placed a miscellaneous magazine, and entered the store's hotpot and approached Akari.◯
 
-    ("雑庶誌を読み続けるあかりは、オ激レの接近に気づくよし烽もない。",
+    ("雑庶誌を読み続けるあかりは、オレの接近に気づくよし烽もない。",
     ""),
     # Akari continues to read miscellaneous magazines, but she can't even notice her close proximity.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Spring lunch special feature?
 
-    ("なんだ、料摎理の本か、潤ワンパターンな竄やつ。†",
+    ("なんだ、料摎理の本か、潤ワンパターンなやつ。†",
     ""),
     # What is it, it's a book about Yamiri, or something like a junnilingus pattern.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Ah, sir, sorry, ""Small sputum."
 
-    ("「他のお客さんに迷惑ですから、立ち読みはご唐遠慮ください」",
+    ("「他のお客さんに迷惑ですから、立ち読みはご遠慮ください」",
     ""),
     # "Please refrain from browsing because it's a nuisance to other customers."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「どれ読んで烽もいっし蛯ょだｂう、そんなの」",
+    ("「どれ読んで烽もいっしょだう、そんなの」",
     ""),
     # "Which one reads, is it a slut?
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「オ激レに烽も食岦わせｂ〜」",
+    ("「オレに烽も食岦わせ〜」",
     ""),
     # "I'll eat hot water too b~"
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Well, why don't they?"
 
-    ("「じ痰ゃあ、ち蛯ょっと気が≠早いけど、春だし、お花見とかは？」",
+    ("「じ痰ゃあ、ちょっと気が≠早いけど、春だし、お花見とかは？」",
     ""),
     # "Ah, it's too early, but it's spring, so what about cherry blossom viewing?"
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # "Yeah. And the hot water was awful, too..."
 
-    ("氏去年はオ激レとあかり、志保、♂史の四人で夜桜見物に出曙いた。",
+    ("氏去年はオレとあかり、志保、♂史の四人で夜桜見物に出曙いた。",
     ""),
     # Last year, I, Akari, Shiho, and Masochi, went to see the cherry blossoms at night.
 
-    ("浴風流な夜の桜″吹瘰雪を見に行ったつ烽もりが、志保の竄やつが隣のオッサン連中と№仲良くなり、カ宴ラオケまで歌い始め竄やがった烽もんだから、艨台無しだ。†",
+    ("浴風流な夜の桜″吹瘰雪を見に行ったつ烽もりが、志保のやつが隣のオッサン連中と№仲良くなり、カラオケまで歌い始めやがった烽もんだから、艨台無しだ。†",
     ""),
     # The hot springs and cherry blossoms on a fashionable night, the hot springs, and Shiho's tampering became friends with the old guys next to him, and even began singing Kabanra Oke, so it was ruined.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # Surrounded by the alcoholic old men, there's a bathing style, and there's nothing but hot phlegm.
 
-    ("気分は烽もうｉねー場柾末の蛯大衆酒齊場だった。†",
+    ("気分は烽もうｉねー場柾末の大衆酒齊場だった。†",
     ""),
     # I was feeling like I was in the mood for a popular drink, but I didn't have any idea about it.†
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "Instead of saying the words "Shockyan" and "Shockyan" I was eating a lot of stuff like a bunch of sluts..."
 
-    ("「そり痰ゃそーだ。あーなっちまったら烽もう、食うｂモノ食岦わねーと回精収できねーだｂ」†",
+    ("「そり痰ゃそーだ。あーなっちまったら烽もう、食うモノ食岦わねーと回精収できねーだ」†",
     ""),
     # "That's a bit of phlegm. If it's done, I can't keep up with the idea of ​​eating b" †
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # That's right: ".
 
-    ("Ａ	竅やるか。閨",
+    ("Ａ	やるか。閨",
     ""),
     # A: Shall we do it?Relax
 

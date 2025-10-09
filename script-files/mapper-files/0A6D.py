@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Erimeo's Likeability Event VS Shiho) (Closed days) (My room)†
 
-    ("今厓日はあえて竄やらなき痰ゃいけないこと烽もないし、たまには予習で烽もしとくか。",
+    ("今厓日はあえてやらなき痰ゃいけないこと烽もないし、たまには予習で烽もしとくか。",
     ""),
     # I don't have to do anything I have to tamper with on the day I'm currently in the middle of a while, so I'll have to do some prep work.
 
-    ("さらっとで烽も、竅やっとき痰ゃいいだｂ。†",
+    ("さらっとで烽も、やっとき痰ゃいいだ。†",
     ""),
     # It's light and hot, but it's fine to have a sputum.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Well..."
 
-    ("「フ宴ラフ宴ラ焜歩いてるだけのくせして、なにが『まあね』だ。どうせ遊びだｂ？」†",
+    ("「フラフラ焜歩いてるだけのくせして、なにが『まあね』だ。どうせ遊びだ？」†",
     ""),
     # "Even though I'm just walking around, what's 'Well?'. It's just a play b, right?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Hmm... this is why the common people are in trouble..."
 
-    ("「誰のｂモノマネだ？」",
+    ("「誰のモノマネだ？」",
     ""),
     # "Whose B-impersonation is this?"
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "A good thing? I'm playing with no phlegm.
 
-    ("庶民の竄娯楽を研結してんのよ」",
+    ("庶民の娯楽を研結してんのよ」",
     ""),
     # We are pursuing the entertainment that ordinary people have tampered with."
 
-    ("「なにが研結だ。だいたい、それを遊んでるっていうんだｂ？	オ＜メーの場㍼合は」",
+    ("「なにが研結だ。だいたい、それを遊んでるっていうんだ？	オ＜メーの場㍼合は」",
     ""),
     # "What is Kenyu? Are you playing around with it? B? Is it okay?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Ah, after the attack: ""
 
-    ("いきなり志保がオ激レの繧後撃を指差した。",
+    ("いきなり志保がオレの繧後撃を指差した。",
     ""),
     # Shiho suddenly pointed at the attack after my surge.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Ah, it's too much."
 
-    ("「驕るっせえ。見えてんだったら教えｂよな、さっさと」†",
+    ("「驕るっせえ。見えてんだったら教えよな、さっさと」†",
     ""),
     # "Stay arrogant. If you can see, teach me, quickly." †
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # I have to distract the topic.†
 
-    ("「これからバイトか？	いつ烽も蛯大変だな」",
+    ("「これからバイトか？	いつ烽も大変だな」",
     ""),
     # "Are you going to work part-time now? I'll be having a hard time even if it's hot."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("しかし揩理女緒ち痰ゃんは、言葉をとぎらせたまま、オ激レと志保を交互にながめる。∫",
+    ("しかし揩理女緒ち痰ゃんは、言葉をとぎらせたまま、オレと志保を交互にながめる。∫",
     ""),
     # However, while still holding her words out loud, she alternates between me and Shiho.∫
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Whoa, do you know about Shiho too?"
 
-    ("「まっ、いかにр私って人間が有名かが、うかがい知齟れる墲わね」",
+    ("「まっ、いかにр私って人間が有名かが、うかがい知れる墲わね」",
     ""),
     # "Well, I can see how famous I am."
 
@@ -218,11 +218,11 @@ text_array = [
     ""),
     # "relationship?"
 
-    ("聞くなり志保が、ヒャーッと小さく唇を鳴逍らして、オ激レの桙服のそでをひっぱった。†",
+    ("聞くなり志保が、ヒャーッと小さく唇を鳴逍らして、オレの桙服のそでをひっぱった。†",
     ""),
     # As soon as he heard, Shiho sniffed his lips into a small squeal and twitched the sleeves of my hard-working fox clothes.†
 
-    ("「ち蛯ょっとアンタ、この子どうしたのよ？	どこでひっかけたの？」",
+    ("「ちょっとアンタ、この子どうしたのよ？	どこでひっかけたの？」",
     ""),
     # "You're probably the one, what's wrong with this kid? Where did you get caught?"
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # I immediately met somebody.
 
-    ("掾理女緒ち痰ゃん烽もスト激レートなのはいいとして烽も、梶相闡手を見極めなき痰ゃダ＜メだｂう。",
+    ("掾理女緒ち痰ゃん烽もストレートなのはいいとして烽も、梶相闡手を見極めなき痰ゃダ＜メだう。",
     ""),
     # Although it's fine for the Jorime Ochi Shoyan to be extremely high, even if you don't know what to do with Kaji, you're not going to be a sphemy.
 
@@ -246,15 +246,15 @@ text_array = [
     ""),
     # "That's what I mean by the word "Ochisou-chan" means that."
 
-    ("「まったまた〜。けっこう真武剣な目譁よ。なんか竄やったんじ痰ゃないの？」",
+    ("「まったまた〜。けっこう真武剣な目譁よ。なんかやったんじ痰ゃないの？」",
     ""),
     # "Again, once again. It's a pretty true sword-fighting eye. Is there any kind of sputum?!"
 
-    ("ったく、こんな話陂題になると急にしつこくなり竄やがる。",
+    ("ったく、こんな話陂題になると急にしつこくなりやがる。",
     ""),
     # That's why when I talk about this kind of topic, I suddenly become persistent and end up tampering with it.
 
-    ("目の色まで変え竄やがって。∵",
+    ("目の色まで変えやがって。∵",
     ""),
     # They even changed the color of their eyes.∵
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # At the same time, the two of them squeal this one at the same time.
 
-    ("「う…。オ激レと志保ってのは｢｢」",
+    ("「う…。オレと志保ってのは｢｢」",
     ""),
     # "Uh... I'm a gut-re and Shiho are ""
 

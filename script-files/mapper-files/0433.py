@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Style-date-reference-type sizing-size-type VS event Shiho VS Akari) (2nd floor, 4/18)†
 
-    ("「竅やっほーっ、！」",
+    ("「やっほーっ、！」",
     ""),
     # "Ahhhh!"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Hey, hey, we're going to go to yak together now, but can you please come too?"
 
-    ("「пヤックかぁ…。いまのрヤックグ泣ル＜メって、なんだっけ？」†",
+    ("「пヤックかぁ…。いまのрヤックグル＜メって、なんだっけ？」†",
     ""),
     # "Are you пYak... What's the current рYakg crying? What is it?"
 

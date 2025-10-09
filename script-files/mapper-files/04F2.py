@@ -2,11 +2,11 @@
 # Source file: 04F2.txt
 
 text_array = [
-    ("（志保	ａ高感度型回秤数イベント）閨（選択綜	潤ワ潟リィけどパス）†",
+    ("（志保	ａ高感度型回秤数イベント）閨（選択綜	潤ワリィけどパス）†",
     ""),
     # (Shiho a high sensitivity type scale event) (Shojo Junwagata Li but pass)†
 
-    ("「潤ワ潟リィけど、パス」†",
+    ("「潤ワリィけど、パス」†",
     ""),
     # "Junwagata Li, but I'll pass"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Huh!? Why?"
 
-    ("「だいたい４桙時間煌もしんどいだｂ？	オールナイトじ痰ゃなくて、＝普通のрヤツを見に行けばいいじ痰ゃねえか」",
+    ("「だいたい４桙時間煌もしんどいだ？	オールナイトじ痰ゃなくて、＝普通のрヤツを見に行けばいいじ痰ゃねえか」",
     ""),
     # "Around 4-Fish Time Killing is also tough b? It's all night long, so it's okay to go and see the regular guy, right?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Because it's a ticket exclusively for All Night Monkeys? I want to go with you, right?"
 
-    ("「終尞わって烽も電車の始発まで桙時間あるだｂ？	それがまたしんどい」†",
+    ("「終尞わって烽も電車の始発まで桙時間あるだ？	それがまたしんどい」†",
     ""),
     # "The end of the day, the train has time to go before the start of the train b? That's another tough one."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Uhh;"
 
-    ("「もちｂんお前のおごりだｂうな？」",
+    ("「もちんお前のおごりだうな？」",
     ""),
     # "Mochib, it's your treat, b, isn't it?"
 

@@ -18,15 +18,15 @@ text_array = [
     ""),
     # In the first round of time, the healthy and healthy training will be a good outpost.
 
-    ("いちおう、竅やるだけのことは竄やったんだし、あとは運汢次謗第だな。†",
+    ("いちおう、やるだけのことはやったんだし、あとは運汢次謗第だな。†",
     ""),
     # Well, I've tampered with what I had to do, and the rest is a slander of Unhing.†
 
-    ("席替えをすませて待っていると、担亦当の先生が竄やってきた。",
+    ("席替えをすませて待っていると、担亦当の先生がやってきた。",
     ""),
     # As I waited for the seats to be changed, the teacher who was also involved started to tamper with me.
 
-    ("裏返しにした嘯答案用落と竄問阮題用落が配逕られてくる。†",
+    ("裏返しにした嘯答案用落と問題用落が配逕られてくる。†",
     ""),
     # The answers that have been turned over and the answers for the questionnaire are distributed.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # When the same time as Chaim, I heard a sound of the dropping over and over again, and the test began.
 
-    ("さあ、竅やるか。†",
+    ("さあ、やるか。†",
     ""),
     # Now, shall we do it?†
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # Second fox time, sincere.
 
-    ("…エネ泣ルギーとか、原子核とか、とにかく竄や竄やっこしい。",
+    ("…エネルギーとか、原子核とか、とにかくややっこしい。",
     ""),
     # ...It's just tampering and tampering with energy crying and atomic nuclei.
 
-    ("ええい、竅やるしかねぇ。†",
+    ("ええい、やるしかねぇ。†",
     ""),
     # Yes, I have no choice but to do it.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # The schedule for the first day was completed without a question.
 
-    ("オ激レは軽いスト激レッチで、コチコチになった身体をほぐした。†",
+    ("オレは軽いストレッチで、コチコチになった身体をほぐした。†",
     ""),
     # My hardcore throbbing was a light, intense stretch, and relaxed my tight body.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Choo"
 
-    ("身体熨も気分熾もすっきりしたとこｂで、あかりが様子を見に竄やってきた。†",
+    ("身体熨も気分熾もすっきりしたとこで、あかりが様子を見にやってきた。†",
     ""),
     # When the body and mood were refreshed, Akari began to watch the situation.†
 

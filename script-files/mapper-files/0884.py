@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "I hate kidding"
 
-    ("「堰ｉ獅ｎモｃ窒ｒｂрｄ奄ｉｂｂ撃ｌｂ。ウソでし蛯ょ？」",
+    ("「堰ｉ獅ｎモｃ窒ｒрｄ奄ｉ撃ｌ。ウソでしょ？」",
     ""),
     # "Dear lion, Nitrogen, Amaibb, Shooting LB. Is it a lie?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("オ激レには撃レミィの英皷語の意味が、諱よく墲わからなかった。",
+    ("オレには撃レミィの英皷語の意味が、諱よく墲わからなかった。",
     ""),
     # I couldn't really understand the meaning of the English-language word for Gekiremi.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # ...But the atmosphere makes me feel "unbelievable" too...†
 
-    ("そうだとして、なぜ、子沁供が凾嫌いだと信じられないことになるんだｂうか…？",
+    ("そうだとして、なぜ、子沁供が凾嫌いだと信じられないことになるんだうか…？",
     ""),
     # If that's the case, why can't you believe that you hate Kouken-sama?
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "I don't believe you!"
 
-    ("戟レミィはオ激レの腕から離齬れ、逃げるように魔走闡り出した。†",
+    ("戟レミィはオレの腕から離齬れ、逃げるように魔走闡り出した。†",
     ""),
     # Karemie was separated from my arms and started running away as if to escape.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # I called back at the bathtub,
 
-    ("「アタシ、知ってるｂモン！」",
+    ("「アタシ、知ってるモン！」",
     ""),
     # "I know B-mon!"
 
@@ -55,14 +55,14 @@ text_array = [
     # He left, leaving.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なにを知ってるって？",
     ""),
     # What do you know?
 
-    ("いったい撃レミィは何のために、あんなことを聞いたのだｂうか。",
+    ("いったい撃レミィは何のために、あんなことを聞いたのだうか。",
     ""),
     # Why did Geki Remy hear such a thing?
 

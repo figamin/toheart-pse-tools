@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Seri°Kawaii Scale Number Event 1F LV1)Seri (Selection C *Inmata Kyou: "Are you eating yukamon?)†
 
-    ("「竅やっぱ、＊淫俣冾｢い烽もん食べてんの？」",
+    ("「やっぱ、＊淫俣冾｢い烽もん食べてんの？」",
     ""),
     # "After all, *Inmata Kyou: Are you eating hot pot?”
 
-    ("オ激レは聞いた。",
+    ("オレは聞いた。",
     ""),
     # I heard.
 
@@ -19,22 +19,22 @@ text_array = [
     # "Huh? You really don't know what you're saying? I see, I don't know if it's good or bad unless you have a comparison target. It's a real name."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ？	オ激レはどういうの食べてるかって？	そうだなあ、たとえば｢｢」",
+    ("「えっ？	オレはどういうの食べてるかって？	そうだなあ、たとえば｢｢」",
     ""),
     # "Huh? What do I eat? I see? That's right, for example, ""
 
-    ("なんだｂう。",
+    ("なんだう。",
     ""),
     # What is it?
 
-    ("オ激レは身近な食い物をあげてみた。†",
+    ("オレは身近な食い物をあげてみた。†",
     ""),
     # I gave him some familiar food.†
 
-    ("「とｂｂぶっかけごはん。知ってる？」",
+    ("「とぶっかけごはん。知ってる？」",
     ""),
     # "BB bukkake meal. Do you know?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # He throbbed, and his senior shook his head.
 
-    ("「知迺らねーの？	じ痰ゃあ、おｂしなめたけ」",
+    ("「知迺らねーの？	じ痰ゃあ、おしなめたけ」",
     ""),
     # "Don't you understand? You're so phlegm, you should just sly."
 
@@ -58,27 +58,27 @@ text_array = [
     ""),
     # Heat.†
 
-    ("「秩湯どうふ烽も食ったことない？	そっかあ、それはち蛯ょっとか墲わいそうか烽もな」",
+    ("「秩湯どうふ烽も食ったことない？	そっかあ、それはちょっとか墲わいそうか烽もな」",
     ""),
     # "Did you eat Chichito or whatever hot pot you've ever eaten? I see, that's a bit of a pity, or a bit of a pity, or a little hot pot."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は悲しい顔をした。†",
     ""),
     # Senpai made a sad look on his face.†
 
-    ("「んー…、じ痰ゃあさ、今度機級があったら、オ激レが獅庶民の食い物ってのを教えて竄やるよ」",
+    ("「んー…、じ痰ゃあさ、今度機級があったら、オレが獅庶民の食い物ってのを教えてやるよ」",
     ""),
     # "Hmm... I'm not gonna have the model next time, I'll tell you that it's a food item from the common people and I'll tamper with it."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ？	お願いしますって？	諱よっし痰ゃ、まかせな。しか烽もオ激レがｍって竄やるぜ」",
+    ("「えっ？	お願いしますって？	諱よっし痰ゃ、まかせな。しか烽もオレがｍってやるぜ」",
     ""),
     # "Huh? Please? I'll leave it to you. But I'll tamper with my sputum."
 

@@ -6,23 +6,23 @@ text_array = [
     ""),
     # (Eiri Meo, part-time job with the balance event with the rules) (LV1) (School) (School) †
 
-    ("つま先をトントンッと竄やりながら、オ激レは校舎を出た。†",
+    ("つま先をトントンッとやりながら、オレは校舎を出た。†",
     ""),
     # I left the school building, tapping my toes.†
 
-    ("「お、今厓日燗も竄やってる」",
+    ("「お、今厓日燗もやってる」",
     ""),
     # "Oh, I'm currently tampering with the sunkan."
 
-    ("この前と同じ場鰹所で、あの垂巨蜍大なネズミ、い竄や、堰ラッコがチ宴ラシ配阡りを一段賜落させたとこｂらしかった。",
+    ("この前と同じ場鰹所で、あの垂巨蜍大なネズミ、いや、堰ラッコがチラシ配阡りを一段賜落させたとこらしかった。",
     ""),
     # It was like the other day that the huge rat, the tattered murmurs, and the dam otters had given them a far cry from the flyer.
 
-    ("この間は揩理女緒ち痰ゃんが竄やってたけど、今厓日燗も竄やってんのかな？†",
+    ("この間は揩理女緒ち痰ゃんがやってたけど、今厓日燗もやってんのかな？†",
     ""),
     # The other day, Ochi Symphonyan was tampering with it, but is he still tampering with it now?†
 
-    ("オ激レは…。",
+    ("オレは…。",
     ""),
     # My heart is...
 

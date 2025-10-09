@@ -2,15 +2,15 @@
 # Source file: 0F02.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル１）閨（卒業式篇）閨（選択綜	志保）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	志保）閨（蛛主人公沍勝ち）†",
     ""),
     # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Shiho) (Selection Protagonist) (The Great Protagonist) †
 
-    ("Ｙ盾ｏ浮ｕ	Ａ窒ｒｂ",
+    ("Ｙ盾ｏ浮ｕ	Ａ窒ｒ",
     ""),
     # Y shield o float A nitrogen
 
-    ("Ｇ窒ｒｂ≠ａｔ	Ｓｂ盾ｏ盾ｏｔｂ窒ｒ！！",
+    ("Ｇ窒ｒ≠ａｔ	Ｓ盾ｏ盾ｏｔ窒ｒ！！",
     ""),
     # G nitrogen rb ≠at Sb shield o shield otb nitrogen!!
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "All right! Raku Wang wins!"
 
-    ("振關り返って志保にピースをくれて竄やった。",
+    ("振關り返って志保にピースをくれてやった。",
     ""),
     # I retook a call and gave Shiho a piece and tampered with it.
 
-    ("「ち蛯ょっと、あんたどこで福練習したのよ！」",
+    ("「ちょっと、あんたどこで練習したのよ！」",
     ""),
     # "Ahhh, where did you practice fortune!"
 
@@ -30,19 +30,19 @@ text_array = [
     ""),
     # "I don't know, this is my ability."
 
-    ("「…まったく、人が手を抜いて竄やったのに、この子ったら可愛いんだから」",
+    ("「…まったく、人が手を抜いてやったのに、この子ったら可愛いんだから」",
     ""),
     # "...It's totally because people slapped and tampered with it, but this girl is so cute."
 
-    ("志保のрヤツ、あ墲わてて福口調を変えるとさらにおかしなことを言いだした。",
+    ("志保のрヤツ、あ墲わてて口調を変えるとさらにおかしなことを言いだした。",
     ""),
     # Shiho's р guy started saying something even more strange when he changed his Fuku tone.
 
-    ("「アホ…。素直に奄負けを認めｂ」†",
+    ("「アホ…。素直に奄負けを認め」†",
     ""),
     # "Idiot... I honestly admit to losing Amami b"†
 
-    ("残ったあかりとｉ史の勝縁負は、磨当然というかｉ史に軍配があがった。",
+    ("残ったあかりとｉ史の勝縁負は、当然というかｉ史に軍配があがった。",
     ""),
     # Of course, the remaining Akari and I-Hisaku's victory was the winner, and I-Hisaku, of course, the winner was the winner.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # In terms of content, I was pretty good at winning.
 
-    ("一箞方、志保に勝女したオ激レのほうはまんまとрヤツにрヤックをおごらせることができた。†",
+    ("一箞方、志保に勝女したオレのほうはまんまとрヤツにрヤックをおごらせることができた。†",
     ""),
     # On the other hand, I was able to get the yelling guy to win over Shiho.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Ah, what should I do? Well, just feast."
 
-    ("「なんかく竄やし〜っ；」†",
+    ("「なんかくやし〜っ；」†",
     ""),
     # "It's kind of tampering with you!" †
 

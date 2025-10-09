@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Although I was completely gross with some of the students, I couldn't see any of my close faces.†
 
-    ("廊下を通って、下駄箱まで竄やってきた。",
+    ("廊下を通って、下駄箱までやってきた。",
     ""),
     # He went through the hallway and even the shoe cabinet.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # I'm going back on my own.
 
-    ("意識して考えると竄寂しい烽ものがあるな。",
+    ("意識して考えると寂しい烽ものがあるな。",
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 

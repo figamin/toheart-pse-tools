@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Well, before I go home, I have to stop by the cursive library.†
 
-    ("図草書室に入ったオ激レは、窓際のあたたかい陽射しのｒに見覚えのある姿を見つけた。",
+    ("図草書室に入ったオレは、窓際のあたたかい陽射しのｒに見覚えのある姿を見つけた。",
     ""),
     # When I entered the cursive library, I found a familiar figure in the warm sunlight by the window.
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # I'm not fully ripe and sleepy, stiff phlegm.
 
-    ("軽く開かれた福口煬もとからは、竅や墲わらかな寝息が聞こえる。",
+    ("軽く開かれた口煬もとからは、や墲わらかな寝息が聞こえる。",
     ""),
     # From the lightly opened Fukuguchi Han, you can hear the soft breath and slept.
 
-    ("しか烽も、おまけにｃダ激レまでｂ垂逅らしてるぞ。†",
+    ("しか烽も、おまけにｃダレまで垂逅らしてるぞ。†",
     ""),
     # Furthermore, even Hou is also having a big b-like encounter with him.†
 
-    ("まあ、こんな気搴持ちいい陽気だし、窓際で本なんか読んでり痰ゃ盾居眠阮りしちまうの烽も無摶理ねえか。",
+    ("まあ、こんな気搴持ちいい陽気だし、窓際で本なんか読んでり痰ゃ盾居眠りしちまうの烽も無摶理ねえか。",
     ""),
     # Well, it's such a cheerful and cheerful atmosphere, and it's no use reading books by the window and sleeping in a shield.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # But I'm not sure if I'm going to work part-time like that and I want something and I wonder if there's a lot of hot water.
 
-    ("それと烽も、竅やむを得ぬ魔事諶情があったりするとか。†",
+    ("それと烽も、やむを得ぬ魔事諶情があったりするとか。†",
     ""),
     # Also, it seems that Hou also has an unavoidable magical attitude.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Mm..."
 
-    ("掾理女緒ち痰ゃんは福口をｂモグｃモグさせてつぶ竄やく。",
+    ("掾理女緒ち痰ゃんは口をモグｃモグさせてつぶやく。",
     ""),
     # The girl Ochi Sphin-chan makes her b-mouth moan and squirts her.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # And it slightly resents the anger.†
 
-    ("さーてと、オ激レ焜もいつまで烽も見てねーで、さっさと用沫事を済ませて帰驪るか。",
+    ("さーてと、オレ焜もいつまで烽も見てねーで、さっさと用沫事を済ませて帰驪るか。",
     ""),
     # Well, how long will I be watching the hot springs, so I'll quickly finish the droplets and go home.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Stump!
 
-    ("「竅やだっ…！」",
+    ("「やだっ…！」",
     ""),
     # "I don't want to...!"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # Suddenly, the man suddenly leapt his head from the desk and leapt.†
 
-    ("「竅やだっ！",
+    ("「やだっ！",
     ""),
     # "I don't want to!
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "a!?"
 
-    ("そこで奄初めてオ激レだと気づく。†",
+    ("そこで奄初めてオレだと気づく。†",
     ""),
     # That's when I realized that it was my first time Amami.†
 
@@ -158,19 +158,19 @@ text_array = [
     ""),
     # "My name is, I'll give it my name."
 
-    ("一瞬、ポカーンと竄停止する揩理女緒ち痰ゃん。",
+    ("一瞬、ポカーンと停止する揩理女緒ち痰ゃん。",
     ""),
     # For a moment, the slut stops tampering.
 
-    ("竅やがて、†",
+    ("やがて、†",
     ""),
     # Eventually,
 
-    ("「いっ、いっ、い竄やだぁっ！	あれ、竅やだっ！	どうしてっ！？」",
+    ("「いっ、いっ、いやだぁっ！	あれ、やだっ！	どうしてっ！？」",
     ""),
     # "Y-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-    ("蛛大慌てで福口にハンカチをあてる。†",
+    ("蛛大慌てで口にハンカチをあてる。†",
     ""),
     # In a panic, he places a handkerchief on Fukuguchi.†
 
@@ -182,15 +182,15 @@ text_array = [
     ""),
     # "Well, I saw it..."
 
-    ("「竅やだ、п私、いつ烽もこんなのばっかりー」",
+    ("「やだ、п私、いつ烽もこんなのばっかりー」",
     ""),
     # "I don't want to know, I'm always like this."
 
-    ("「い竄や、見たっつって烽も、ちらっとだから、そんな気にしなくて烽も…」",
+    ("「いや、見たっつって烽も、ちらっとだから、そんな気にしなくて烽も…」",
     ""),
     # "It's a bit of a mess, and I see it, but there's a glimpse of it, so I don't feel that way, and I also..."
 
-    ("「＜ダ激レなんかｂ垂逅らしてて。カッコ悪いし、恥ずかしい…」†",
+    ("「＜ダレなんか垂逅らしてて。カッコ悪いし、恥ずかしい…」†",
     ""),
     # "<<I'm having a really hardcore slut. It's gross and it's embarrassing..."
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("再びポカーンと竄停止する揩理女緒ち痰ゃん。",
+    ("再びポカーンと停止する揩理女緒ち痰ゃん。",
     ""),
     # Ochi Sphinya again stops tampering.
 
-    ("竅やがて、†",
+    ("やがて、†",
     ""),
     # Eventually,
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # It makes a voice that looks like it's disappearing.†
 
-    ("「ははは、悪かったって。とこｂで桙時間いいのか？	なんか慌ててるみたいだったけど」",
+    ("「ははは、悪かったって。とこで桙時間いいのか？	なんか慌ててるみたいだったけど」",
     ""),
     # "Hahaha, that was bad. Is there a good time for the b? It seemed like I was panicking."
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "That's right! Just phlegm, see you next time!"
 
-    ("オ激レに手を振關りつつ、°け出す揩理女緒ち痰ゃん。",
+    ("オレに手を振關りつつ、°け出す揩理女緒ち痰ゃん。",
     ""),
     # While waving my hand at me, I started to gross.
 
@@ -258,11 +258,11 @@ text_array = [
     ""),
     # "Oh, hey, front..."†
 
-    ("あーあ、竅やっちまった。†",
+    ("あーあ、やっちまった。†",
     ""),
     # Ah, I did it.†
 
-    ("「あのさ、前見ねーで烽歩くの、竅やめたほうがいいぜ」",
+    ("「あのさ、前見ねーで烽歩くの、やめたほうがいいぜ」",
     ""),
     # "Um, you should stop walking around without looking ahead."
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "Yes..."
 
-    ("メ泣きそうな声で揩理女緒ち痰ゃんは立ち繧上がる。†",
+    ("メきそうな声で揩理女緒ち痰ゃんは立ち繧上がる。†",
     ""),
     # In a cry of crying, the sound of Riki Ochisou-chan stood up.†
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "...Damn it.
 
-    ("私って、なんでこんなにドジなんだｂ」",
+    ("私って、なんでこんなにドジなんだ」",
     ""),
     # Why am I so clumsy?
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # "I feel like I'm feeling overpowered. Well, the lion fell a little more."
 
-    ("オ激レは烽扉を開けて竄やる。",
+    ("オレは烽扉を開けてやる。",
     ""),
     # I open the hot door and tamper with it.
 
@@ -318,11 +318,11 @@ text_array = [
     ""),
     # "Oh, it's phlegm."
 
-    ("元気に廊下をｋけて艪ゆく揩理女緒ち痰ゃん。",
+    ("元気に廊下を駆けてゆく揩理女緒ち痰ゃん。",
     ""),
     # I'm dying in the hallway with great energy.
 
-    ("オ激レはその繧後撃姿に手を振った。◯",
+    ("オレはその繧後撃姿に手を振った。◯",
     ""),
     # After that, I waved at the scene.◯
 

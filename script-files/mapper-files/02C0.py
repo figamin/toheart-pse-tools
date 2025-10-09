@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Older! If this happens, I'll defeat Temae and go to O-san!"
 
-    ("「ほほう、お烽もしｂい！	ならば竄やってみるがよい、小僧っ！」",
+    ("「ほほう、お烽もしい！	ならばやってみるがよい、小僧っ！」",
     ""),
     # "Oh, you're b! If so, try tampering with it, boy!"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Oh, let's go!"
 
-    ("オ激レは唐鞄を冾放って突入撃した。†",
+    ("オレは鞄を冾放って突入撃した。†",
     ""),
     # I fired my bag and rushed in.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Gash!
 
-    ("オ激レとじじいはモ激しくぶつかり、ガッチ潟リ閭手と手を組んだ。",
+    ("オレとじじいはモしくぶつかり、ガッチリ閭手と手を組んだ。",
     ""),
     # My old man and I collided with him violently and joined hands with the sturdy ramblings.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # The two did not even get back, and they were pushed back.†
 
-    ("「…フッ、フフフッ、なかなか竄やりおるな、小僧！」",
+    ("「…フッ、フフフッ、なかなかやりおるな、小僧！」",
     ""),
     # "...Haha, hehe, don't you tamper with it, kid!"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # ・
 
-    ("結局ふたりのモ激突は、′健がつかないまま、双羡方のスタミナ切齔れで一梭時賜断した。†",
+    ("結局ふたりのモ突は、′健がつかないまま、双羡方のスタミナ切齔れで一梭時賜断した。†",
     ""),
     # In the end, the two of them clashed with Mo, but they were unable to get a chance to fight each other, and they were given a chance to lose their stamina from the Sugai side.†
 
@@ -154,16 +154,16 @@ text_array = [
     ""),
     # At that moment, after hearing the outrage, Senpai Nori came out of the store.
 
-    ("「…せ、諱先輩、こ、こっち、オ激レだ〜」",
+    ("「…せ、諱先輩、こ、こっち、オレだ〜」",
     ""),
     # "...She, I'm a real-life senpai, this one, I'm super excited."
 
-    ("オ激レが繧弱々しく手を振髏ると、気づいた先輩は真っ直ぐこっちに烽歩いてきた。†",
+    ("オレが繧弱々しく手を振髏ると、気づいた先輩は真っ直ぐこっちに烽歩いてきた。†",
     ""),
     # When I waved my hand weakly, my senior noticed it and walked straight up here.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「…諱先輩、こ、こいつをなんとかしてくれよ。",
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # ...Koku.
 
-    ("諱先輩はうなずいて、オ激レに近づこうとした。",
+    ("諱先輩はうなずいて、オレに近づこうとした。",
     ""),
     # Senpai nodded and tried to get closer to me.
 

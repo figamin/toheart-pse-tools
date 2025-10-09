@@ -11,22 +11,22 @@ text_array = [
     # "Let's give up now."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レがそう言うと、諱先輩は悲しそうな顔でうつむいた。†",
+    ("オレがそう言うと、諱先輩は悲しそうな顔でうつむいた。†",
     ""),
     # When I said that, my senior fellow looked sad and looked down.†
 
-    ("「そり痰ゃあ、成功煬もあれば失敗熹もあるだｂ。",
+    ("「そり痰ゃあ、成功煬もあれば失敗熹もあるだ。",
     ""),
     # "As you're sighing, there are also successes and failures.
 
-    ("毎回確実に成功するんなら、世界樺のみんながｂ魔法使いだらけになってるって」",
+    ("毎回確実に成功するんなら、世界樺のみんなが魔法使いだらけになってるって」",
     ""),
     # If they're guaranteed to succeed every time, everyone in World Birch is full of b-wizards."
 
-    ("オ激レは微笑んで言った。†",
+    ("オレは微笑んで言った。†",
     ""),
     # I said with a smile.†
 
@@ -39,10 +39,10 @@ text_array = [
     # "What, Senpai, what are you apologizing? You've been enjoying Hot a lot with this."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ？	本末当にｂ魔法があることを、オ激レに見せてあげたかったって？」",
+    ("「えっ？	本末当に魔法があることを、オレに見せてあげたかったって？」",
     ""),
     # "Huh? You wanted to show me that there's B-magic magic at the end of the day?"
 
@@ -51,10 +51,10 @@ text_array = [
     # So...†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「オ激レをｊばせたかった？」",
+    ("「オレをｊばせたかった？」",
     ""),
     # "Did you want me to make you squeal?"
 
@@ -62,19 +62,19 @@ text_array = [
     ""),
     # So...
 
-    ("諱先輩はち蛯ょっと涙ぐんだ目でうなずいた。",
+    ("諱先輩はちょっと涙ぐんだ目でうなずいた。",
     ""),
     # Senpai nodded with tears in tears.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩…。†",
     ""),
     # Senior name...†
 
-    ("「うん、增わかった。じ痰ゃあ、今度また見せてくれよ」",
+    ("「うん、わかった。じ痰ゃあ、今度また見せてくれよ」",
     ""),
     # "Yeah, I understand. I'll show you some more phlegm next time."
 
@@ -82,23 +82,23 @@ text_array = [
     ""),
     # "..."†
 
-    ("「信じる力があれば、きっと垂叶うんだｂ？」",
+    ("「信じる力があれば、きっと垂叶うんだ？」",
     ""),
     # "If you have the power to believe, you'll surely make it come true b?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("こくん。",
     ""),
     # Ko-kun.
 
-    ("諱先輩は艪ゆっくりうなずいた。",
+    ("諱先輩はゆっくりうなずいた。",
     ""),
     # Senpai nodded slowly.
 
-    ("「今度は竄絶対に成功させようぜ！	オ激レ焜も、きっとｂ魔法を信じられそうだ」◯",
+    ("「今度は絶対に成功させようぜ！	オレ焜も、きっと魔法を信じられそうだ」◯",
     ""),
     # "Now, let's make it a success! I'm sure my slut will believe in b-magic."◯
 

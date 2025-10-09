@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Noooo!"
 
-    ("５桙時間目の休み桙時間、志保が竄やってきた。†",
+    ("５桙時間目の休み桙時間、志保がやってきた。†",
     ""),
     # Shiho started to fend off the break during the fifth fox.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What is that? If you have information about Shiho-chan, it's the right time."
 
-    ("「人を新聞の勧誘員みたいに艪ゆーな！」",
+    ("「人を新聞の勧誘員みたいにゆーな！」",
     ""),
     # "You're going to squeal people like newspaper recruiters!"
 
@@ -38,23 +38,23 @@ text_array = [
     ""),
     # "An unstable jet skiing deeds."
 
-    ("「なにぃ？	おめぇ１回オ激レに勝ったぐらいで、天逑狗になってんなぁ？	しか烽も味をしめて烽もう一度オ激レを奄負かそうって魂胆か」†",
+    ("「なにぃ？	おめぇ１回オレに勝ったぐらいで、天逑狗になってんなぁ？	しか烽も味をしめて烽もう一度オレを奄負かそうって魂胆か」†",
     ""),
     # "What? You've only won over me once, so you're so insane? But are you trying to get some taste of me and beat me again, Amami?"†
 
-    ("前回オ激レは、ジェットスキーゲームで志保に惨敗している。",
+    ("前回オレは、ジェットスキーゲームで志保に惨敗している。",
     ""),
     # Last time, Ogekire lost to Shiho in the jet ski game.
 
-    ("それ烽もそのはず、あいつは達人にコーチを受けた繧上に、じっくり福練習して竄やがったんだ。",
+    ("それ烽もそのはず、あいつは達人にコーチを受けた繧上に、じっくり練習してやがったんだ。",
     ""),
     # That's right, he was coached by a master and practiced fortune and tampered with it.
 
-    ("それでオ激レに魔当分の間は勝てると思ったのか、ご嘯丁寧に勝縁負の約束をしにｗたんだｂう。†",
+    ("それでオレに魔当分の間は勝てると思ったのか、ご嘯丁寧に勝縁負の約束をしにｗたんだう。†",
     ""),
     # So he thought I could win for the rest of my life, so I politely made a promise to win a victory lol.†
 
-    ("「氈勝縁負は桙時の運謇よ。まず、竅やってみなくち痰ゃ」",
+    ("「氈勝縁負は桙時の運謇よ。まず、やってみなくち痰ゃ」",
     ""),
     # "The best chance of winning is the luck of the moment. First, try to get it right."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # ...What is the luck of the time?
 
-    ("氈勝つ気がなけり痰ゃ、增わざ墲わざ約束しにｗ磯翌ｩよ。",
+    ("氈勝つ気がなけり痰ゃ、わざ墲わざ約束しにｗ磯翌ｩよ。",
     ""),
     # If you don't feel like winning, I'll make a promise lol.
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # Well, it's fine.
 
-    ("こっちの福方こそ、こんなときのために特訓してあるんだ。†",
+    ("こっちの方こそ、こんなときのために特訓してあるんだ。†",
     ""),
     # This is the Fukui that we are training in special circumstances for such situations.†
 
-    ("「…そうだな。オ激レ焜もあのときより、少しは繧上達したんだ。",
+    ("「…そうだな。オレ焜もあのときより、少しは繧上達したんだ。",
     ""),
     # "...That's right. My heart has improved a little since then.
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # Let's take it and stand."
 
-    ("「あたしは『３桙時半』にゲーセンで待ってるからね。学校が終尞わったら、まっすぐｗなさいよ。１秒で烽も遅齟れたらあんたの奄負けよ」†",
+    ("「あたしは『３桙時半』にゲーセンで待ってるからね。学校が終尞わったら、まっすぐｗなさいよ。１秒で烽も遅れたらあんたの奄負けよ」†",
     ""),
     # "I'll be waiting at the arcade at '3:30.' When school is over, go straight lol. If the hot springs are slow in just one second, I'll lose to your Amami."
 
-    ("「增わかったよ。まっすぐ行けば余裕だって」",
+    ("「わかったよ。まっすぐ行けば余裕だって」",
     ""),
     # "I understand. If you go straight, you'll have time."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "You're phlegmy!"
 
-    ("もう勝った気でいるのか、オ激レにパチンとウインクを残して、スキップしながら教室に戻っていった。",
+    ("もう勝った気でいるのか、オレにパチンとウインクを残して、スキップしながら教室に戻っていった。",
     ""),
     # Perhaps he felt like he had already won, so I left a snap and wink at me, and went back to the classroom, skipping.
 

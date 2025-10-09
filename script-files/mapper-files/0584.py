@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aoi After selecting the balance number event 2 A)†
 
-    ("「その一生恊懸命なとこｂが好きだってこと」",
+    ("「その一生恊懸命なとこが好きだってこと」",
     ""),
     # "That whole life I love b."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Do you want to continue your lifetime...?"
 
-    ("「うん。葵ち痰ゃんって、禔練習に打ち桙込んでいるとき烽もそうだけど、ク宴ラブ勧誘のとき烽も、いまの話し福方熾も、なんにで烽も一生恊懸命でさ、気搴持ちいいっていうか。そういうとこ、オ激レ焜も見習いたいよ」†",
+    ("「うん。葵ち痰ゃんって、禔練習に打ち桙込んでいるとき烽もそうだけど、クラブ勧誘のとき烽も、いまの話し方熾も、なんにで烽も一生恊懸命でさ、気搴持ちいいっていうか。そういうとこ、オレ焜も見習いたいよ」†",
     ""),
     # "Yes. Aoi Chisho-chan is the same as when he is pursuing practice, but when he is banquetting and recruiting a love story, and even if you're talking about Fukukata Teru, you're working hard for the rest of your life, and you can't help but feel good. I want to emulate that kind of thing too."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # With that in mind, Aoi Chisho-yan laughed embarrassedly.≠
 
-    ("…結局、その冾日燗もまた、夕髣暮れまで福練習につき№合ってしまった。◯",
+    ("…結局、その冾日燗もまた、夕髣暮れまで練習につき№合ってしまった。◯",
     ""),
     # ...In the end, the sunken also met the best as we practiced for good luck until the evening.◯
 

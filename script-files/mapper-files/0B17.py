@@ -2,11 +2,11 @@
 # Source file: 0B17.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント１）閨（真っ暗）閨（ＰＣＭ	電話の音	プ泣ル泣ル泣ル）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント１）閨（真っ暗）閨（ＰＣＭ	電話の音	プルルル）†",
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event number 1) (plot black) (PCM phone sound)†
 
-    ("オ激レは近くの公衆電話から、綾∴香の携帯に電話した。",
+    ("オレは近くの公衆電話から、綾∴香の携帯に電話した。",
     ""),
     # I called Aya∴Ka's cell phone from a nearby public phone.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「諱よう、オ激レだ。だ」",
+    ("「諱よう、オレだ。だ」",
     ""),
     # "I'll give you my name, I'm super excited."
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "ah"†
 
-    ("「瘁例の勝縁負、いまから竄やｂうぜ」",
+    ("「瘁例の勝縁負、いまからやうぜ」",
     ""),
     # "The victory of the shaky thing is a shame, and now it's time for me to tamper with it."
 
-    ("「ふふふ、おっけー、望むとこｂよ」",
+    ("「ふふふ、おっけー、望むとこよ」",
     ""),
     # "Hehehe, oh my goodness, b, what I want."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ah, I'll wait at Kawaenza last time."
 
-    ("「增わかった、すぐ行く墲わ」†",
+    ("「わかった、すぐ行く墲わ」†",
     ""),
     # "Okay, I'll go straight away" †
 
@@ -42,12 +42,12 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("そして、オ激レは河艶敷へとｌかった。◯",
+    ("そして、オレは河艶敷へとｌかった。◯",
     ""),
     # And my geisha went to Kawaenshiki.◯
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「おまたせ」",
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Hello"
 
-    ("「あれ、セ潟リオじ痰ゃねーか、なんで…」",
+    ("「あれ、セリオじ痰ゃねーか、なんで…」",
     ""),
     # "Huh, Seragata Rio has phlegm, why?"
 
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # "Is Jagged, a judge?"
 
-    ("「諱よｂしくお願いします」",
+    ("「諱よしくお願いします」",
     ""),
     # "Please give me your name."
 
-    ("セ潟リオは小さく頭を下げた。†",
+    ("セリオは小さく頭を下げた。†",
     ""),
     # Segata Rio bowed his head slightly.†
 
-    ("「で烽も、なんでお前がセ潟リオと…」",
+    ("「で烽も、なんでお前がセリオと…」",
     ""),
     # "And even if you're still Segata Rio..."
 
@@ -118,15 +118,15 @@ text_array = [
     ""),
     # "...Ah, I see, @Suizui, that's hot."
 
-    ("「この子はね、とくにр私のお気に入闢りなの。友だちよ。ねっ、セ潟リオ？」",
+    ("「この子はね、とくにр私のお気に入闢りなの。友だちよ。ねっ、セリオ？」",
     ""),
     # "This girl is especially my favorite. My friend. Nessegata Rio?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("表﨣情は変﨑わらない烽ものの、なんだかセ潟リオは照齒れているように烽も見えた。†",
+    ("表﨣情は変﨑わらない烽ものの、なんだかセリオは照齒れているように烽も見えた。†",
     ""),
     # Although the outward feelings of the shore still remained unchanged, it seemed like Seragata Rio was in illumination, and the shore also looked like it was shining.†
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone Likeability Event 2 PS)†
 
-    ("休み桙時間、トイ激レの帰闍りに琴音ち痰ゃんに出初った。",
+    ("休み桙時間、トイレの帰闍りに琴音ち痰ゃんに出初った。",
     ""),
     # During the break, I first appeared at Kotone Chisho-chan as I returned to the Toys.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Kotone Chisho-chan bowed her head.†
 
-    ("「琴音ち痰ゃん烽もトイ激レか」",
+    ("「琴音ち痰ゃん烽もトイレか」",
     ""),
     # "Kotone-chisou-chan-cho-hoo is also a toy-dovey too?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # He replied.†
 
-    ("「はははっ、そうか。なんかオ激レ、下品なこと聞いちまったなぁ；」",
+    ("「はははっ、そうか。なんかオレ、下品なこと聞いちまったなぁ；」",
     ""),
     # "Hahaha, I see. I've heard something really vulgar;
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # When Kotone Chisho-chan said that in his true self-confidence, he leaned down his eyes.
 
-    ("もしかしてオ激レ、外しまくってる！？",
+    ("もしかしてオレ、外しまくってる！？",
     ""),
     # Maybe I'm going to take it off so hard!?
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # = Let's talk about the next topic soon.†
 
-    ("「そ、そうい竄やさぁ、なんの用で職員室に行ってたんだ？」",
+    ("「そ、そういやさぁ、なんの用で職員室に行ってたんだ？」",
     ""),
     # "Yeah, that's why, what was you going to the staff room?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "...#I've come to the jutsu teacher."
 
-    ("竅やっと≠普通のｉ話になってきた。",
+    ("やっと≠普通のｉ話になってきた。",
     ""),
     # Finally, it's become a normal i-talk.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Hmm... Show me some phlegm next time. A picture drawn by Kotone Chisho-chan."
 
-    ("そう言うと、琴音ち痰ゃんはち蛯ょっと驚いた顔をした。",
+    ("そう言うと、琴音ち痰ゃんはちょっと驚いた顔をした。",
     ""),
     # When I said that, Kotone Chisho-yan hachi-e looked surprised.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # ...It feels like it's been clearly interpreted.
 
-    ("オ激レはこのとき、なんとなく琴音ち痰ゃんに避けられてるような気がした。",
+    ("オレはこのとき、なんとなく琴音ち痰ゃんに避けられてるような気がした。",
     ""),
     # At this time, I felt like I was somehow avoiding Kotone's Sphin-chan.
 
@@ -154,15 +154,15 @@ text_array = [
     ""),
     # "Ah, yes."
 
-    ("琴音ち痰ゃんがうなずいたとこｂで、♂話が終尞わってしまった。†",
+    ("琴音ち痰ゃんがうなずいたとこで、♂話が終尞わってしまった。†",
     ""),
     # The male talk ended when Kotone Chisho-chan nodded.†
 
-    ("「じ痰ゃオ激レ、こっちだから」",
+    ("「じ痰ゃオレ、こっちだから」",
     ""),
     # "I'm really excited, it's over here."
 
-    ("しつこく話を伸ばすの烽もなんだから、オ激レはあっさり切關り繧上げた。",
+    ("しつこく話を伸ばすの烽もなんだから、オレはあっさり切關り繧上げた。",
     ""),
     # I'm not too busy trying to get my talk on a regular basis, so I quickly retarded my ramblings.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Yes. Good luck" †
 
-    ("あいさつを交甯わし、オ激レたちは別れた。",
+    ("あいさつを交甯わし、オレたちは別れた。",
     ""),
     # We exchanged greetings and the guys parted ways.
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # When I talked to her, she looks like a boyfriend and O-sama type, so it's not bad.
 
-    ("ち蛯ょっと無菇口だけど…。",
+    ("ちょっと無菇口だけど…。",
     ""),
     # It's a bit of a messy mouth, but...
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # It looks like he's getting a sense of knowledge, and it's probably true that he's true.
 
-    ("あれで超能力者だなんて、オ激レには竄やっぱ信じられないぜ。◯",
+    ("あれで超能力者だなんて、オレにはやっぱ信じられないぜ。◯",
     ""),
     # I can't believe he's a psychic because of that.◯
 

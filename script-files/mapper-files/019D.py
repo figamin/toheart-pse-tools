@@ -2,15 +2,15 @@
 # Source file: 019D.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｃ	『ｋ』か烽も）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｃ	『駆』か烽も）†",
     ""),
     # (Akari Scales Event: Leave school) (C ``k'' or hot)†
 
-    ("「『ｋ』か烽も」",
+    ("「『駆』か烽も」",
     ""),
     # "The 'k' or hot' too."
 
-    ("オ激レは自信なさげに言った。",
+    ("オレは自信なさげに言った。",
     ""),
     # I said with a lack of confidence.
 
@@ -19,14 +19,14 @@ text_array = [
     # The light is
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("いかに烽も『ハズ激レ』ってな顔をしてる。†",
+    ("いかに烽も『ハズレ』ってな顔をしてる。†",
     ""),
     # Even Ho also looks like he's "a really bad guy."†
 
-    ("「增わかった、『≠』だ！」",
+    ("「わかった、『≠』だ！」",
     ""),
     # "Okay, it's '≠'!"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Booo"
 
-    ("「じ痰ゃあ、『＝ａ』ッ！	『ａｂ』！	『メｃ』！",
+    ("「じ痰ゃあ、『＝ａ』ッ！	『ａ』！	『メｃ』！",
     ""),
     # "Ah, phlegm, '=a'! 'ab'! 'Mec'!
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Oh, now. That's the phlegm, I'll hit you someday."
 
-    ("「へっ、いいんだよ、オ激レは。",
+    ("「へっ、いいんだよ、オレは。",
     ""),
     # "Heh, that's fine, I'm a cruel guy.
 

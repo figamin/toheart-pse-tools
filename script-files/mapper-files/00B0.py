@@ -14,7 +14,7 @@ text_array = [
     ""),
     # The weather is nice at the sunshade right now.
 
-    ("天気に艪比癆例して目覚めのほう烽も良けり痰ゃ、オ激レとしては蛯大舞助かりなんだが。†",
+    ("天気に比癆例して目覚めのほう烽も良けり痰ゃ、オレとしては大舞助かりなんだが。†",
     ""),
     # The weather is a good thing when I wake up, but as a result, I'm a great help.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "You woke up on the day you're in a slut."
 
-    ("「ほめてると烽も、凵嫌味を言ってると烽もとれる言い福方だな」",
+    ("「ほめてると烽も、凵嫌味を言ってると烽もとれる言い方だな」",
     ""),
     # "If you praise me, you can also say that if you say something sarcastic, you'll also get the good way."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Oh, I'm praising you."
 
-    ("慌ててオ激レの疑惑を否阡定する。†",
+    ("慌ててオレの疑惑を否阡定する。†",
     ""),
     # I hurriedly deny my allegations.†
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # Akari has been smiling somehow strangely for a while now.
 
-    ("「今厓日から教室までいっし蛯ょだと思うとね」",
+    ("「今厓日から教室までいっしょだと思うとね」",
     ""),
     # "I think it's all from the day of the day to the classroom right now."
 
-    ("「微妙な差だｂ」",
+    ("「微妙な差だ」",
     ""),
     # "It's a subtle difference."
 
-    ("「それが蛯大きいんだよ」",
+    ("「それが大きいんだよ」",
     ""),
     # "That's the big lily."
 

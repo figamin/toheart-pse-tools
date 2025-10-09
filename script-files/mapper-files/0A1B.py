@@ -22,15 +22,15 @@ text_array = [
     ""),
     # =I woke up too early.
 
-    ("窓の外には、まだ窒白く朝熬も竄やがかかっている。†",
+    ("窓の外には、まだ窒白く朝熬もやがかかっている。†",
     ""),
     # Outside the window, the still-white morning squeal was plagued.†
 
-    ("「し蛯ょーがねえ、寝なおすか」",
+    ("「しょーがねえ、寝なおすか」",
     ""),
     # "She's not gonna go to sleep again?"
 
-    ("そう言ってベッドに戻阮りかけたとき、†",
+    ("そう言ってベッドに戻りかけたとき、†",
     ""),
     # As I said that, I almost went back to bed,
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Has anyone just said, 'Take it!'
 
-    ("オ激レはカーテンを開ける。†",
+    ("オレはカーテンを開ける。†",
     ""),
     # I open the curtains.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("外を元気にｋけてるのは、玄太郎だった。",
+    ("外を元気に駆けてるのは、玄太郎だった。",
     ""),
     # It was Gentaro who was cheering up outside.
 
@@ -58,19 +58,19 @@ text_array = [
     ""),
     # That means...
 
-    ("「…竅やっぱり」",
+    ("「…やっぱり」",
     ""),
     # "...I thought so."
 
-    ("朝熬も竄やのｒ、学校の制梵服姿の新聞配達が、пヤツから必死に逃げてる。",
+    ("朝熬もやのｒ、学校の制梵服姿の新聞配達が、пヤツから必死に逃げてる。",
     ""),
     # Asa-Kei is a bit of a silence, and a newspaper delivery in school uniforms is desperately trying to escape from the п.
 
-    ("「し蛯ょーがねえなあ」",
+    ("「しょーがねえなあ」",
     ""),
     # "There's no slut."
 
-    ("オ激レは急いでｒ替えて外に飛び出した。◯",
+    ("オレは急いでｒ替えて外に飛び出した。◯",
     ""),
     # I quickly changed my r and ran out.◯
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "Ahhh! No sexual punishment!"
 
-    ("梶相変﨑わらず尻尾をバタつかせて、蛛大相びでｋける玄太郎の前に、オ激レはおどり出た。",
+    ("梶相変﨑わらず尻尾をバタつかせて、蛛大相びで駆ける玄太郎の前に、オレはおどり出た。",
     ""),
     # Kaji Ai Seizaki, his tail flapping, and I started to dance in front of Gentaro, who was slamming with a huge sway.
 
-    ("пヤツの目標は烽もちｂん、†",
+    ("пヤツの目標は烽もちん、†",
     ""),
     # The goal of the поринининининини
 
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # "Good morning... Why are you here?"
 
-    ("「オ激レの家、そこだから。それに、＝早起きは三文の得っていうしな」",
+    ("「オレの家、そこだから。それに、＝早起きは三文の得っていうしな」",
     ""),
     # "It's my house, that's where I go. Also, getting up early is a benefit of Sanmon."
 
-    ("そう言って、オ激レは玄太郎にｌかい№合う。†",
+    ("そう言って、オレは玄太郎にｌかい№合う。†",
     ""),
     # With that said, I met Gentarou's first match.†
 
-    ("「ほらっ。まーた勝闖手に家から出てき竄やがって。",
+    ("「ほらっ。まーた勝闖手に家から出てきやがって。",
     ""),
     # "Look. I've come out of the house and he's been tampering with me.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # I'll be angry if I don't return soon."
 
-    ("そして、その毛むくじ痰ゃらの頭をクシャャクシャャとかきなでて竄やる。",
+    ("そして、その毛むくじ痰ゃらの頭をクシャャクシャャとかきなでてやる。",
     ""),
     # Then, he smashes the head of the hairy sputum leather and smashes it off.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Thank you, kun..."
 
-    ("「ははっ。オ激レが彼＃氏っての烽も、あんまり悪かねーだｂ？」",
+    ("「ははっ。オレが彼＃氏っての烽も、あんまり悪かねーだ？」",
     ""),
     # "Haha. Is it really bad for me to be a guy #---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "...Delivery is just a little bit away, so when it's over, why don't you just take a break somewhere?"
 
-    ("「ああ、いいぜ。じ痰ゃ、ち蛯ょっとそこまでつきあうか」",
+    ("「ああ、いいぜ。じ痰ゃ、ちょっとそこまでつきあうか」",
     ""),
     # "Ah, that's fine. Let's go that far."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Aaaahhhhh!!"
 
-    ("悲鳴とと烽もに揩理女緒ち痰ゃんが飛び出してきてオ激レに抱きついた。†",
+    ("悲鳴とと烽もに揩理女緒ち痰ゃんが飛び出してきてオレに抱きついた。†",
     ""),
     # Screams and Kanoki started to burst out and hugged me.†
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # The man who apparently escaped from inside the Yahana was staring at the trembling bangs of the shaking swaying.
 
-    ("まだ狙って竄やがんのか。†",
+    ("まだ狙ってやがんのか。†",
     ""),
     # Are you still trying to tamper with it or cancer?†
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("オ激レに抱きついたまま、掾理女緒ち痰ゃんはコクンとうなずく。†",
+    ("オレに抱きついたまま、掾理女緒ち痰ゃんはコクンとうなずく。†",
     ""),
     # While holding me to my heart, the ramblings nodded.†
 
@@ -238,11 +238,11 @@ text_array = [
     ""),
     # "ah…"
 
-    ("そしてオ激レ焜も、そっと抱きしめ返す。",
+    ("そしてオレ焜も、そっと抱きしめ返す。",
     ""),
     # And my hardcore throbbing gently hugged me back.
 
-    ("オ激レの胸に、掾理女緒ち痰ゃんの震える呼吸が感じられる。",
+    ("オレの胸に、掾理女緒ち痰ゃんの震える呼吸が感じられる。",
     ""),
     # I could feel the trembling breathing of my intense breasts.
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "Hey, kun..."
 
-    ("掾理女緒ち痰ゃんはさらに強くオ激レを抱きしめる。†",
+    ("掾理女緒ち痰ゃんはさらに強くオレを抱きしめる。†",
     ""),
     # The girl Ochi Shoyan hugs me even more strongly.†
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # It's Gentaro.†
 
-    ("「增わっ、テ＜メーっ！	追っかけてき竄やがったのか！？」",
+    ("「わっ、テ＜メーっ！	追っかけてきやがったのか！？」",
     ""),
     # "Whoa, t<mee! Did you chase me?!"
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # The moment he yelled, пYatsun looked happy,
 
-    ("「增わうっ！！」",
+    ("「わうっ！！」",
     ""),
     # "Ahhhh!!"
 
@@ -302,15 +302,15 @@ text_array = [
     ""),
     # "Umaaaaahhhhh!!"
 
-    ("驚いた揩理女緒ち痰ゃんは、再び悲鳴を繧上げてｋけ出す。◯",
+    ("驚いた揩理女緒ち痰ゃんは、再び悲鳴を繧上げて駆け出す。◯",
     ""),
     # Surprised, the squealer Ochisouyan screams again and starts to thrust.◯
 
-    ("「增わあぁぁぁん！！	どうしてぇっ！？」",
+    ("「わあぁぁぁん！！	どうしてぇっ！？」",
     ""),
     # "Aaaaahhhh!! Why is that?!"
 
-    ("オ激レの横をすり抜け、ここぞとばかりにｋけ寄驫る蛯大型犬に、また烽も竄や追いかけられる揩理女緒ち痰ゃん。",
+    ("オレの横をすり抜け、ここぞとばかりに駆け寄驫る大型犬に、また烽もや追いかけられる揩理女緒ち痰ゃん。",
     ""),
     # The large dog slips past my hardcore, taking the stakes and takes the stakes to the side, and the dog is chased by the slutty big dog.
 
@@ -322,11 +322,11 @@ text_array = [
     ""),
     # Oops, I'm impressed by the situation where I'm incredible.†
 
-    ("「し蛯ょーがねえ」",
+    ("「しょーがねえ」",
     ""),
     # "There's no slut."
 
-    ("もう一度つぶ竄やいて、そしてｋけ出す。",
+    ("もう一度つぶやいて、そして駆け出す。",
     ""),
     # I messed up again and then started to thrust.
 
@@ -334,15 +334,15 @@ text_array = [
     ""),
     # "Here it!"
 
-    ("玄太郎を必死に追いかけ、そして横に並んで魔走髑る。",
+    ("玄太郎を必死に追いかけ、そして横に並んで魔走る。",
     ""),
     # He desperately chases Gentaro, then side by side and runs the demon skull.
 
-    ("「增わうっ！	增わうっ！」",
+    ("「わうっ！	わうっ！」",
     ""),
     # "Whoa! Whoa!"
 
-    ("пヤツは、オ激レにｌかって嬉しそうに吠え立てる。†",
+    ("пヤツは、オレにｌかって嬉しそうに吠え立てる。†",
     ""),
     # The guy barks happily as he goes to me.†
 
@@ -358,7 +358,7 @@ text_array = [
     ""),
     # "Look, grab me."
 
-    ("﨟情けない顔の揩理女緒ち痰ゃんの手を、オ激レは少し垂乱暴につかむ。†",
+    ("﨟情けない顔の揩理女緒ち痰ゃんの手を、オレは少し垂乱暴につかむ。†",
     ""),
     # 﨟I grabbed the hand of the pathetic face of Ochi Shoyan, a little roughly.†
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # With this momentum, the jammed bag from the morning paper came out of the shoulder.
 
-    ("が、しかし、それはそのまま、散邇らばること烽もなく、運良くオ激レの手元に獅落ちてくる。†",
+    ("が、しかし、それはそのまま、散邇らばること烽もなく、運良くオレの手元に獅落ちてくる。†",
     ""),
     # However, it still didn't splatter, and luckily the lion fell into my hands.†
 
@@ -386,7 +386,7 @@ text_array = [
     ""),
     # "I'll be there."
 
-    ("オ激レは、♂めて揩理女緒ち痰ゃんの手を強くにぎる。†",
+    ("オレは、♂めて揩理女緒ち痰ゃんの手を強くにぎる。†",
     ""),
     # I'm a male and I hold my hand tightly at the man I'm a male.†
 
@@ -394,15 +394,15 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("そのまま、掾理女緒ち痰ゃんを引っぱってｋけ抜けた。",
+    ("そのまま、掾理女緒ち痰ゃんを引っぱって駆け抜けた。",
     ""),
     # He then pulled the sphincter and ran through.
 
-    ("玄太郎の声が、少しずつ唐遠ざかる。",
+    ("玄太郎の声が、少しずつ遠ざかる。",
     ""),
     # Gentaro's voice gradually moved away from the Tang.
 
-    ("それで烽もオ激レたちは全力で魔走闡り続ける。†",
+    ("それで烽もオレたちは全力で魔走闡り続ける。†",
     ""),
     # So, we and the others continue to run wild with all our might.†
 
@@ -418,11 +418,11 @@ text_array = [
     ""),
     # Yes, what are the hot and hot pots going to start now.
 
-    ("そして、オ激レたちは、ただ全力で魔走闡り続ける。",
+    ("そして、オレたちは、ただ全力で魔走闡り続ける。",
     ""),
     # And we keep on running our magic with all our might.
 
-    ("青い青い空に昇って消えて艪ゆく朝熬も竄やのｒ、息を切逅らせて、そんなことを心に思いえがきながら。†",
+    ("青い青い空に昇って消えてゆく朝熬もやのｒ、息を切逅らせて、そんなことを心に思いえがきながら。†",
     ""),
     # The morning ascended to the blue sky and disappeared, the morning was absent, and I was breathing, thinking in my heart.†
 

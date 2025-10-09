@@ -6,19 +6,19 @@ text_array = [
     ""),
     # (Aoi Scales Event 6 after selection C)†
 
-    ("「このク宴ラブの≠メンバーだ！」",
+    ("「このクラブの≠メンバーだ！」",
     ""),
     # "This banquet love is a member!"
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
-    ("「ク宴ラブの≠メンバー？」",
+    ("「クラブの≠メンバー？」",
     ""),
     # "Are you a member of Kuban Love?"
 
-    ("竅坂下が繰闌り返す。",
+    ("坂下が繰り返す。",
     ""),
     # Sakashita retweets back.
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # Seniors are still officially ""
 
-    ("「正式なク宴ラブ員だ」",
+    ("「正式なクラブ員だ」",
     ""),
     # "I'm an official banquet love member."
 
-    ("オ激レは言い切った。†",
+    ("オレは言い切った。†",
     ""),
     # I said it perfectly.†
 
-    ("「オ激レ焜も同じク宴ラブの人間なんだ。だから、話に関係ない墲わけじ痰ゃないだｂ？」",
+    ("「オレ焜も同じクラブの人間なんだ。だから、話に関係ない墲わけじ痰ゃないだ？」",
     ""),
     # "I'm a gangster who's also a love story. So, you can't help but think that it's not related to the story."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "See, Senpai..."
 
-    ("葵ち痰ゃんが小さな声でささ竄やいた。",
+    ("葵ち痰ゃんが小さな声でささやいた。",
     ""),
     # Aoi Chisho-yan whispered in a small voice.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "oh dear…"
 
-    ("竅坂下がムスッとした顔で言った。",
+    ("坂下がムスッとした顔で言った。",
     ""),
     # Eisakashita said with a frustrated look on his face.
 
@@ -75,10 +75,10 @@ text_array = [
     # "If we were to play around with what we were doing forever, it would be amazing to see them sigh."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「たしかに、このオ激レの福練習なんて、竅坂下から見鼬れば、遊びみたいなｂモンか烽もしれねえ。で烽もな、葵ち痰ゃんは痰違うぜ。側で見ていたオ激レだから言える。この子の頑張闥りは正真正銘の本物だ。格闘技に打ち桙込む精神なら、多分、誰に烽も奄負けない！」†",
+    ("「たしかに、このオレの練習なんて、坂下から見鼬れば、遊びみたいなモンか烽もしれねえ。で烽もな、葵ち痰ゃんは痰違うぜ。側で見ていたオレだから言える。この子の頑張闥りは正真正銘の本物だ。格闘技に打ち桙込む精神なら、多分、誰に烽も奄負けない！」†",
     ""),
     # "It's true that if you look at this crazy lucky practice from the bottom of the hill, you can't find a fun B-mon or a fun one. And Aoi Chisho-chan is a different kind of phlegm. I can say that because I was watching from the side. This girl's hard work is genuine and authentic. If she is a spirit who is explosive in martial arts, then perhaps no one will beat anyone!"
 
@@ -87,14 +87,14 @@ text_array = [
     # "Isaac Senpai..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("しばらくして、竅坂下はふぅと息を吐いた。†",
+    ("しばらくして、坂下はふぅと息を吐いた。†",
     ""),
     # After a while, Sakashita exhaled.†
 

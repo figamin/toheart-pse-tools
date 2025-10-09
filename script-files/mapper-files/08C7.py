@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Announcement balance event: 2 LV1) (Choose-so: Returning by yourself)†
 
-    ("「增わりぃ、戟レミィ。話ならまた今度な」",
+    ("「わりぃ、戟レミィ。話ならまた今度な」",
     ""),
     # "Something, Remie. If you're going to talk, see you next time."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Tempu weir"
 
-    ("彼濫女は何かを言いかけて、竅やめた。",
+    ("彼濫女は何かを言いかけて、やめた。",
     ""),
     # The girl said something and stopped.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Oh, yeah... I'm sputum."
 
-    ("「Ｓｂｂ	凵ｙ盾ｏ浮ｕ」†",
+    ("「Ｓ	凵ｙ盾ｏ浮ｕ」†",
     ""),
     # "Sbb y shield o float" †
 
-    ("閨手を振って、オ激レはダッシャでその場を繧後にした。◯",
+    ("閨手を振って、オレはダッシャでその場を繧後にした。◯",
     ""),
     # Waving my hand, I dashed out of the scene.◯
 

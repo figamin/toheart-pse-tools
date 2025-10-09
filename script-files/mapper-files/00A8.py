@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I hope the results of your tests and study will be appreciated."
 
-    ("「まっ、いちおー、竅やることは竄やったんだ。あとは艪ゆうべ竄やった竄問阮題が出髀ることを祈驪るぜ」",
+    ("「まっ、いちおー、やることはやったんだ。あとはゆうべやった問題が出髀ることを祈驪るぜ」",
     ""),
     # "Well, I've tampered with anything I've done. I hope that the question that I've tampered with is coming up."
 

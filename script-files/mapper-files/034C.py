@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko's fourth favorability event) (continued from Chosen A)†
 
-    ("「おーい、いいんち蛯ょー！」",
+    ("「おーい、いいんちょー！」",
     ""),
     # "Hey, slut!"
 
@@ -15,10 +15,10 @@ text_array = [
     # After the attack, the chairman called out to me, and the chairman called out to me.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「なあ、ち蛯ょっと話が｢｢」",
+    ("「なあ、ちょっと話が｢｢」",
     ""),
     # "Hey, the story is ""
 
@@ -34,19 +34,19 @@ text_array = [
     ""),
     # "a…"
 
-    ("委員長は高ロコツにオ激レを無許視し、そのまま烽歩いていこうとする。†",
+    ("委員長は高ロコツにオレを無許視し、そのまま烽歩いていこうとする。†",
     ""),
     # The chairman ignores Takarokotsu's supernatural tragedy and tries to continue walking around.†
 
-    ("「ちくし蛯ょう、無許視すんじ痰ゃねー諱よ…」",
+    ("「ちくしょう、無許視すんじ痰ゃねー諱よ…」",
     ""),
     # "You're not allowed to see anything unacceptable, your name is...
 
-    ("もと烽もと素っ気なかった委員長だけど、瘁例の一処件以来、その竄冷たさに烽も、ますます≠磨きがかかった感じがする。†",
+    ("もと烽もと素っ気なかった委員長だけど、瘁例の一処件以来、その冷たさに烽も、ますます≠きがかかった感じがする。†",
     ""),
     # The chairman was originally a bit unfair, but since the incident occurred, it seems that the coldness of the hot water has been increasingly polished.†
 
-    ("話しかけて烽もこんな調子で、無許視されたり、竅冷たくあしら墲われたりと、ちっと烽もｉ話逖らしいｉ話にならない。",
+    ("話しかけて烽もこんな調子で、無許視されたり、冷たくあしら墲われたりと、ちっと烽もｉ話逖らしいｉ話にならない。",
     ""),
     # When I spoke to him, Kano was in this way, and he was seen as unauthorized and turned into a cold-hearted story, so it didn't turn out to be a bit of an i-talk.
 
@@ -55,7 +55,7 @@ text_array = [
     # How long will this be phlegm last? I don't think Hou will be able to escape from this annoying relationship.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱よし、そうだな。",

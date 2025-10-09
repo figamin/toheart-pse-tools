@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hello…"
 
-    ("Ａ	いっし蛯ょに帰汲うぜ。閨",
+    ("Ａ	いっしょに帰汲うぜ。閨",
     ""),
     # A: I'll return to the Episode.Relax
 

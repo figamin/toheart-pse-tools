@@ -10,12 +10,12 @@ text_array = [
     ""),
     # "I'm reading it again..."
 
-    ("オ激レはしみじみ言った。",
+    ("オレはしみじみ言った。",
     ""),
     # I cried out loud.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	濃いですかって？	そり痰ゃーな…」",
@@ -23,14 +23,14 @@ text_array = [
     # "Huh? Is it thick? It's sputum..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩はじっと本を見つめる。†",
     ""),
     # Senpai stared at the book.†
 
-    ("「竅やっぱり、悪ｈ魔とか、興味あんの？」",
+    ("「やっぱり、悪ｈ魔とか、興味あんの？」",
     ""),
     # "Are you interested in evil devils after all?"
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「まあ、オ激レ焜も興味ない墲わけじ痰ゃないけど」",
+    ("「まあ、オレ焜も興味ない墲わけじ痰ゃないけど」",
     ""),
     # "Well, I don't care about it either."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	本、見ますかって？	ああ、じ痰ゃあ、ち蛯ょっと」",
+    ("「え？	本、見ますかって？	ああ、じ痰ゃあ、ちょっと」",
     ""),
     # "Huh? Would you like to see the book? Ah, sputum, slutty, slutty."
 
@@ -58,12 +58,12 @@ text_array = [
     ""),
     # Para...
 
-    ("「このハエのイ宴ラスト、なに？」",
+    ("「このハエのイラスト、なに？」",
     ""),
     # "What is this flies' ending?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	これ烽も有名な悪ｈ魔ですって？	で烽もハエじ痰ゃん、これ？」†",
@@ -71,30 +71,30 @@ text_array = [
     # "Huh? Is this a famous evil devil? And the hot ones are flies, phlegmy, is this?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「ふーん、ハエの姿に烽もなれる悪ｈ魔なんだ？	で烽もこの姿のまま出てきたら、オ激レ、一発で倒せる自信あるな」†",
+    ("「ふーん、ハエの姿に烽もなれる悪ｈ魔なんだ？	で烽もこの姿のまま出てきたら、オレ、一発で倒せる自信あるな」†",
     ""),
     # "Hmm, are you an evil devil who can become a fly's appearance? And if Kao appears in this form, I'm sure I can defeat him in one shot." †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ！？	でかいの、こいつ！？	マジ！？",
     ""),
     # "What!? This guy is huge!? Seriously?!
 
-    ("でかい獅虫は竄やだなー、殺試虫剤とか効くんかな、こいつ？」",
+    ("でかい獅虫はやだなー、殺試虫剤とか効くんかな、こいつ？」",
     ""),
     # I don't want to tamper with big lion insects, is it effective for insecticides?”
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「殺試虫剤を獅試した文献はないって？	まあ、そーだｂうな…」†",
+    ("「殺試虫剤を獅試した文献はないって？	まあ、そーだうな…」†",
     ""),
     # "No literature has ever tried insecticides? Well, that's it..." †
 

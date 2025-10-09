@@ -22,7 +22,7 @@ text_array = [
     ""),
     # A. Call out.Relax
 
-    ("Ｂ	背白を見洛送髑る。閨",
+    ("Ｂ	背白を見洛送る。閨",
     ""),
     # B He sends a skull to see the back of his body.Relax
 

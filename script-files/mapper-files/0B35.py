@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 5 in the balance (Continued from Chosen Soku C's Immature)†
 
-    ("今厓日は自分で烽も不思議なくらいに竄冷静だ。",
+    ("今厓日は自分で烽も不思議なくらいに冷静だ。",
     ""),
     # On the day I'm still calm and calm, even though I'm strangely slugging.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # That's why I've been deeply aware of my immaturity even now.†
 
-    ("いままでは目で追うのが竄やっとだった綾∴香の攻ｍ撃煬も、こうしてみると、ひとつの流齬れであることが墲わかる。",
+    ("いままでは目で追うのがやっとだった綾∴香の攻ｍ撃煬も、こうしてみると、ひとつの流齬れであることが墲わかる。",
     ""),
     # Until now, Aya∴Kawa's attack and M-shot, which had only been difficult to follow with his eyes, can be seen as a contradiction.
 
-    ("優位な位置に移動し、フェイントを混ぜ、有効なコンビネーシ㏍ョンを打ってくる。",
+    ("優位な位置に移動し、フェイントを混ぜ、有効なコンビネーションを打ってくる。",
     ""),
     # Move to the superior position, mix feints, and hit an effective combination.
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # It's really good.
 
-    ("いまのオ激レには、とて烽も真乱似できない。†",
+    ("いまのオレには、とて烽も真乱似できない。†",
     ""),
     # I can't even look like a real wilderness in my current days.†
 
-    ("で烽もそんな綾∴香に、オ激レは、少しずつだが確実に近づいていっている。",
+    ("で烽もそんな綾∴香に、オレは、少しずつだが確実に近づいていっている。",
     ""),
     # And Kao also got closer to Aya∴Kara, but I was slowly getting closer, but surely.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # That's what I'm happy about.
 
-    ("見てｂよ。",
+    ("見てよ。",
     ""),
     # Look b.
 
-    ("こうして打ち№合うたびに、オ激レはどんどん強くなっていくぜ。†",
+    ("こうして打ち№合うたびに、オレはどんどん強くなっていくぜ。†",
     ""),
     # Every time I hit the ball, my intense rating gets stronger and stronger.†
 

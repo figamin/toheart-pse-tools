@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I'm actually not confident this time."
 
-    ("オ激レは、志保に笑尞われる覚蜉悟で、ホントのことを言った。†",
+    ("オレは、志保に笑尞われる覚蜉悟で、ホントのことを言った。†",
     ""),
     # I said the truth, with a sense of enlightenment that Shiho laughs at me.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Then Shiho said,
 
-    ("「竅やったぁ、〟仲間ね」",
+    ("「やったぁ、〟仲間ね」",
     ""),
     # "Yeah, yeah," your friends."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What is that... You're not confident about the noshi either."
 
-    ("諱取闔りあえず握闊手しながらのオ激レ。†",
+    ("諱取闔りあえず握闊手しながらのオレ。†",
     ""),
     # I kept talking about my name and clasped my heart out, and then I squealed.†
 

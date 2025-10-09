@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「だってさ、お前を見てると、いｂんな遊びに手ぇ出してるように見えるからな」",
+    ("「だってさ、お前を見てると、いんな遊びに手ぇ出してるように見えるからな」",
     ""),
     # "Because when I look at you, it looks like a guy is playing around with him."
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # ...Well, he doesn't seem to be involved in crime.†
 
-    ("「そんなこと…、みんな烽も竄やってる墲わよ！」",
+    ("「そんなこと…、みんな烽もやってる墲わよ！」",
     ""),
     # "That's what... Everyone is also tampering with Hot!"
 
-    ("「いい竄や、とくにお前が遊びに敏感だよ。コギャャ泣ルっぽいのにコギャャ泣ルじ痰ゃない、貴重な墲種類だ」",
+    ("「いいや、とくにお前が遊びに敏感だよ。コギャャルっぽいのにコギャャルじ痰ゃない、貴重な墲種類だ」",
     ""),
     # "You're particularly sensitive to play. You seem to cry, but you're crying, but you're not phlegmy, you're a precious variety."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "What's the meaning?"
 
-    ("「無摶理して、みんなの先を突っ魔走髑る必要はねえと思うけどな」",
+    ("「無摶理して、みんなの先を突っ魔走る必要はねえと思うけどな」",
     ""),
     # "I don't think there's any need to be stomped and stomped everyone's way."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "That's a shame! You're not doing anything incomprehensible."
 
-    ("「まあ、そのへんに関してはオ激レ焜もと竄やかく言う気はないよ」",
+    ("「まあ、そのへんに関してはオレ焜もとやかく言う気はないよ」",
     ""),
     # "Well, I don't want to tamper with anything about that."
 

@@ -11,7 +11,7 @@ text_array = [
     # "Ah, I'll ask you a monk."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ、部室へ行って取ってくるから、£鋳で待っててくれって？」",
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Nodded, and Senpai Kimi headed back down the hallway.†
 
-    ("£鋳のベンチで座って待っていると、少しして先輩が竄やってきた。",
+    ("£鋳のベンチで座って待っていると、少しして先輩がやってきた。",
     ""),
     # I sat on the cast bench and waited, and a little later my senior came to tamper with me.
 
@@ -35,22 +35,22 @@ text_array = [
     # He holds a small brown bottle in his hand.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	お待たせいたしましたって？	い竄やい竄や、全然待ってないぜ」",
+    ("「え？	お待たせいたしましたって？	いやいや、全然待ってないぜ」",
     ""),
     # "Huh? Sorry to keep you waiting? You've been tampering with it, you've been waiting at all."
 
-    ("諱先輩はどうぞとオ激レに小瓶を手渡した。†",
+    ("諱先輩はどうぞとオレに小瓶を手渡した。†",
     ""),
     # I handed me a small bottle, saying, "Isao Senpai."†
 
-    ("「悪いね、增わざ墲わざ。へえ、これがその薬か。なんか肉体鞫疲労椈時の栄養笳補虚給にって感じだな」",
+    ("「悪いね、わざ墲わざ。へえ、これがその薬か。なんか肉体鞫疲労椈時の栄養笳補虚給にって感じだな」",
     ""),
     # "That's bad, it's a move. Wow, is this the medicine? It feels like a nutritional supplement when physically exhausted and slaughtered."
 
-    ("その小瓶は鰍リポ寃○タンＤくらいの蛯大きさで、堰ラベ泣ルには何煢も曹書かれていなかった。",
+    ("その小瓶は鰍リポ寃○タンＤくらいの大きさで、堰ラベルには何煢も曹書かれていなかった。",
     ""),
     # The small bottle was about the size of a monk, and the weir rabe had no sardines written on it.
 
@@ -63,10 +63,10 @@ text_array = [
     # It's just a simple liquid.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("じぃーっとオ激レを見つめる先輩。",
+    ("じぃーっとオレを見つめる先輩。",
     ""),
     # Senior looks at me in a stern way.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # From there.
 
-    ("プ宴ラスチックのふたを開ける。",
+    ("プラスチックのふたを開ける。",
     ""),
     # Open the lid of the banquet rastic.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Yes, I'll have you."
 
-    ("瓶を福口に魔当て、こくっ、こくっ、といっきに飲み干した。†",
+    ("瓶を口に魔当て、こくっ、こくっ、といっきに飲み干した。†",
     ""),
     # He put the bottle against the Fukuguchi and drank it all at once.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # However, I was struggling with the good-hearted mouth.
 
-    ("きっとこれは、＠栖瑞家芍御用達のすんごいｂ高燕級闍な…。†",
+    ("きっとこれは、＠栖瑞家芍御用達のすんごい高燕級闍な…。†",
     ""),
     # I'm sure this is a very B-high-sized, high-season class that is popular with @Suizui family.†
 
@@ -138,19 +138,19 @@ text_array = [
     ""),
     # They became three.
 
-    ("竅やばい。",
+    ("やばい。",
     ""),
     # It's dangerous.
 
-    ("幻覚見てるぞ、オ激レ。◯",
+    ("幻覚見てるぞ、オレ。◯",
     ""),
     # I'm hallucinating, I'm extremely excited.◯
 
-    ("「あ、あの、諱先輩？	これどこの≠メーカーのド潟リンク？	タウ潟リンは何ミ潟リグ宴ラム｢｢」",
+    ("「あ、あの、諱先輩？	これどこの≠メーカーのドリンク？	タウリンは何ミリグラム｢｢」",
     ""),
     # "Ah, um, senior, is this? Which manufacturer's Dogata Link? What is Taugata Rin? What is Migata Rig Banquet Ram ""
 
-    ("竅や、竅やば。",
+    ("や、やば。",
     ""),
     # It's amazing, it's amazing.
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # Huh?
 
-    ("オ激レ、いったい…。†",
+    ("オレ、いったい…。†",
     ""),
     # I'm super excited, what on earth...†
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # @Suizui-san.
 
-    ("なんだか心配そうな顔でオ激レをのぞき桙込んでいる。†",
+    ("なんだか心配そうな顔でオレをのぞき桙込んでいる。†",
     ""),
     # He looked worried and peered at me.†
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # This might be a high-pillow from my senior's knees...
 
-    ("諱先輩の目が、じぃーっとオ激レを…。",
+    ("諱先輩の目が、じぃーっとオレを…。",
     ""),
     # Senpai's eyes were really exciting...
 
@@ -238,15 +238,15 @@ text_array = [
     ""),
     # Wow!”
 
-    ("オ激レは慌てて飛び起きた。†",
+    ("オレは慌てて飛び起きた。†",
     ""),
     # I frantically jumped up.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「オ激レ、いったい。…えっ！？	気站絶した？	マジで！？」",
+    ("「オレ、いったい。…えっ！？	気站絶した？	マジで！？」",
     ""),
     # "I'm so crazy, what on earth... What!? Did you lose your sense of self? Seriously!?"
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # Wow, why on earth, what on earth...?†
 
-    ("「え、薬のせい？	どう竄やら配∑合を間瘧違えたみたいですって？	じ痰ゃ、じ痰ゃあ、あれって、もしかして、諱先輩がｍった…？」",
+    ("「え、薬のせい？	どうやら配∑合を間瘧違えたみたいですって？	じ痰ゃ、じ痰ゃあ、あれって、もしかして、諱先輩がｍった…？」",
     ""),
     # "Huh, it's because of the medicine? It seems like they've been tampering with the wrong way, or how they've been dealt with it? That's a phlegm, maybe that's what my senior was doing...?"
 
@@ -270,11 +270,11 @@ text_array = [
     ""),
     # So, is it a medicine for handwriting?
 
-    ("竅や、竅やば〜っ…。†",
+    ("や、やば〜っ…。†",
     ""),
     # The slut and the slut are amazing...†
 
-    ("そこでオ激レはこう言った。",
+    ("そこでオレはこう言った。",
     ""),
     # So I said:
 

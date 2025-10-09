@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Game Remie Scales Event, 2nd Floor 2) (Selection A)†
 
-    ("戟レミィって、もしかして、オ激レのことを…？",
+    ("戟レミィって、もしかして、オレのことを…？",
     ""),
     # Is it like a rave?
 
-    ("変に冾期待してしまう、オ激レ。",
+    ("変に冾期待してしまう、オレ。",
     ""),
     # I'm really excited about something strange.
 
@@ -18,19 +18,19 @@ text_array = [
     ""),
     # ...To be honest, I think Karemi is super cute.
 
-    ("ハーフだし、グ宴ラマーだし、ダイナミックな性格で退窓しないし｢｢。",
+    ("ハーフだし、グラマーだし、ダイナミックな性格で退窓しないし｢｢。",
     ""),
     # He's half-Japanese, he's a banquet lamar, and his dynamic personality doesn't leave his window, and he says, ".
 
-    ("「オ激レは好きだぜ」†",
+    ("「オレは好きだぜ」†",
     ""),
     # "I like you tit" †
 
-    ("「Ｒｂ≠ａ撃ｌ撃ｌ凾ｙ！？」",
+    ("「Ｒ≠ａ撃ｌ撃ｌ凾ｙ！？」",
     ""),
     # "Rb≠a-shot l-shot l-shot l-y!?"
 
-    ("え〜と、『梶リア潟リィ？』ってのは『本末当？』って意味だったよな。",
+    ("え〜と、『梶リアリィ？』ってのは『本末当？』って意味だったよな。",
     ""),
     # Um, "Kajiriagata Li?'' means ''?'It meant that.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Well, I'm thinking too much and getting hot, and it's a bit of a pain."
 
-    ("「Ｙ盾ｏ浮ｕ	戟ｌ盾ｏ魔ｖｂ	香ｍｂ？」",
+    ("「Ｙ盾ｏ浮ｕ	戟ｌ盾ｏ魔ｖ	香ｍ？」",
     ""),
     # "Y Shield O Float, Shield O Magic VB, Incense MB?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Hey... you haven't even reached the weir Love."
 
-    ("オ激レは慌てて否阡定した。",
+    ("オレは慌てて否阡定した。",
     ""),
     # I hurriedly rejected it.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "If I were to say either way, it's like a weir."
 
-    ("「Ｌ奄ｉ汲ｋｂ…なの…？」",
+    ("「Ｌ奄ｉ汲駆…なの…？」",
     ""),
     # "Is it a L Amai kb...?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "what?"
 
-    ("「Ｓｂｂ	凵ｙ盾ｏ浮ｕ！	」",
+    ("「Ｓ	凵ｙ盾ｏ浮ｕ！	」",
     ""),
     # "Sbb, ye shield o float!"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # ...I don't really understand the name.
 
-    ("戟レミィは汲結局なにが言いたいんだｂう…。◯",
+    ("戟レミィは汲結局なにが言いたいんだう…。◯",
     ""),
     # What is he trying to say in the end, what is he trying to say...◯
 

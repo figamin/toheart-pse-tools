@@ -2,11 +2,11 @@
 # Source file: 04F9.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（３／６固闌定）閨（校蜊門）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（３／６固定）閨（校蜊門）†",
     ""),
     # (Shiho Scales Event PS) (3/6 fixed points) (School Gate)†
 
-    ("さっさと学校を出たオ激レ。",
+    ("さっさと学校を出たオレ。",
     ""),
     # I quickly left school.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I say it.
 
-    ("「だってぇ、ち蛯ょうどヒマしてたとこｂに、ナイスなタイミングであんたが出たからさ」",
+    ("「だってぇ、ちょうどヒマしてたとこに、ナイスなタイミングであんたが出たからさ」",
     ""),
     # "Because, you came out at a nice time when you were bored from the moment you weren't ready."
 

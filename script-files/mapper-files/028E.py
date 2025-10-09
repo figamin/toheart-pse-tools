@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Isao Senpai"
 
-    ("オ激レはち蛯ょっと唐遠慮ぎみに声をかけた。",
+    ("オレはちょっと遠慮ぎみに声をかけた。",
     ""),
     # I called out to him with a silence.
 
@@ -23,7 +23,7 @@ text_array = [
     # Then, he introduced the advice he had plunged into the book, and his senior said,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("′こうを見た。",
@@ -35,23 +35,23 @@ text_array = [
     # "I'm here, Senpai...;" †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「いよっ」",
     ""),
     # "Yes."
 
-    ("オ激レが手を繧上げて微笑むと、諱先輩は小さく頭を下げた。†",
+    ("オレが手を繧上げて微笑むと、諱先輩は小さく頭を下げた。†",
     ""),
     # My hand raised and smiled, and Senpai bowed his head slightly.†
 
-    ("「偶然だな。こんなとこｂでｉうなんて」",
+    ("「偶然だな。こんなとこでｉうなんて」",
     ""),
     # "It's a coincidence. I couldn't have uuuu like this at b."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「さっきから、なに読んでんの？」",
@@ -59,10 +59,10 @@ text_array = [
     # "What have you been reading for a while now?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レは表侮をのぞき桙込んだ。†",
+    ("オレは表侮をのぞき桙込んだ。†",
     ""),
     # I looked at the obvious insults and squealed.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # The golden wedge letters say, "The origins of evil and evil devils that are evident in the book A Magical Instinct."
 
-    ("Ａ	ち蛯ょっと読ませてくんない？閨",
+    ("Ａ	ちょっと読ませてくんない？閨",
     ""),
     # A: Would you mind letting me read it?Relax
 

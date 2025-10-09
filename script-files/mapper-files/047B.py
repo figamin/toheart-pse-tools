@@ -14,15 +14,15 @@ text_array = [
     ""),
     # It was a hassle to think about it, so I gave it to Shiho.
 
-    ("どうせ考えてあるんだｂ。†",
+    ("どうせ考えてあるんだ。†",
     ""),
     # I'm thinking about it anyway b.†
 
-    ("「なになに？	行きたいとこｂ、ないの？」",
+    ("「なになに？	行きたいとこ、ないの？」",
     ""),
     # "What? Is there no place to go?"
 
-    ("「お前の行きたい場鰹所に付いて行って竄やるよ」",
+    ("「お前の行きたい場鰹所に付いて行ってやるよ」",
     ""),
     # "I'll follow you to the bonito spot you want to go to and tamper with it."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Smoking?"
 
-    ("なにを言い出すのかと思えば、志保はとんで烽もないことを福口膜走った。",
+    ("なにを言い出すのかと思えば、志保はとんで烽もないことを口膜走った。",
     ""),
     # Just as he was wondering what he was saying, Shiho ran through the Fukuomolar membrane.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "And so. Is it plain phlegm for you?"
 
-    ("「…あんた、あたしをただの派阡手好き翌女だと思ってるでし蛯ょ？」†",
+    ("「…あんた、あたしをただの派阡手好き翌女だと思ってるでしょ？」†",
     ""),
     # "...You think I'm just a woman who likes sinners, simmon?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Yeah. I think so."
 
-    ("オ激レはうなずいた。†",
+    ("オレはうなずいた。†",
     ""),
     # I nodded.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "I wish I had sputum."
 
-    ("「なによう、增わかってんの？」†",
+    ("「なによう、わかってんの？」†",
     ""),
     # "What do you know?"
 
@@ -102,15 +102,15 @@ text_array = [
     ""),
     # "Yes, yes.
 
-    ("違いが墲わかるんだｂ」",
+    ("違いが墲わかるんだ」",
     ""),
     # I can see the difference b."
 
-    ("「っとに…、增わかってるんだか」",
+    ("「っとに…、わかってるんだか」",
     ""),
     # "Ahhhh... you know a little?"
 
-    ("增わかんねー諱よ。",
+    ("わかんねー諱よ。",
     ""),
     # I don't know, my name is.
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # ・†
 
-    ("適俣当にだべりながら、オ激レたちは志保の家の福方角に烽歩いていた。",
+    ("適俣当にだべりながら、オレたちは志保の家の方角に烽歩いていた。",
     ""),
     # While hanging out at Tomoemata, we were walking towards Shiho's family's Fukuwa.
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # "You seem even more and more like a bonito. I can't believe you're really fond of a bonito spot like this."
 
-    ("「なに言ってんのよ。あたしだってこういうとこｂで、ａ浮世で揩傷ついた心のモ翼を休めたりすんのよ？」†",
+    ("「なに言ってんのよ。あたしだってこういうとこで、ａ浮世で揩傷ついた心のモ翼を休めたりすんのよ？」†",
     ""),
     # "What are you talking about? I'm going to rest the wings of my heart that have been hurt in the world, in this situation, b?"
 
-    ("「增わーった墲わーった。なにが心のモ翼だ」",
+    ("「わーった墲わーった。なにが心のモ翼だ」",
     ""),
     # "I'm so silly. What is the wings of my heart?"
 

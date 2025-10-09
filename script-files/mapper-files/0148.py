@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Hey hey, please give me a break. That kind of thing is a pain. Please hit the other side."
 
-    ("オ激レはそう言って席を立ち繧上がった。",
+    ("オレはそう言って席を立ち繧上がった。",
     ""),
     # I said this and stood up from my seat.
 
-    ("「ち蛯ょ、ち蛯ょっと待った」",
+    ("「ちょ、ちょっと待った」",
     ""),
     # "I waited a moment."
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # Junya Island grabs that shoulder.†
 
-    ("「な、梶頼むよ。お前からの紹譓介なら、きっと神岸さん烽もむげには断齟れないと思うんだ」",
+    ("「な、梶頼むよ。お前からの紹譓介なら、きっと神岸さん烽もむげには断れないと思うんだ」",
     ""),
     # "W-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-    ("「なんだよ、オ激レをダシにしようってか？」",
+    ("「なんだよ、オレをダシにしようってか？」",
     ""),
     # "What is it? Are you going to make me a slurp?"
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # Konya⊥jima smiles wryly.
 
-    ("「べつにお前に迷惑かけるつ烽もりはないよ。ただ、竅やっぱ神岸さんだって、諱よく知迺らないрヤツ潟相闡手じ痰ゃ警卲戒するだｂうからさ」†",
+    ("「べつにお前に迷惑かけるつ烽もりはないよ。ただ、やっぱ神岸さんだって、諱よく知迺らないрヤツ相闡手じ痰ゃ警卲戒するだうからさ」†",
     ""),
     # "There's no way I'll cause trouble to you. However, even Kamigishi-san is not very aware of the fact that he doesn't know much about his feelings, so he should be warned against it."
 
-    ("「そういうことなら、オ激レじ痰ゃなく、♂史か志保に鰍頼んでくれよ。あいつらだってオ激レと同じくらいあかりと親しいぜ」",
+    ("「そういうことなら、オレじ痰ゃなく、♂史か志保に鰍頼んでくれよ。あいつらだってオレと同じくらいあかりと親しいぜ」",
     ""),
     # "If that's the case, then don't let my phlegm go and ask Masochi or Shiho for a choy. They're just as close to Akari as I'm."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I already asked Sato to hachi. And he's going to get mackerel so I don't want you to be angry."
 
-    ("「オ激レが怒體る？	なんで？」†",
+    ("「オレが怒體る？	なんで？」†",
     ""),
     # "Are you angry? Why?"
 

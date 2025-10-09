@@ -2,7 +2,7 @@
 # Source file: 0451.txt
 
 text_array = [
-    ("（志保	好感度イベントＸ）閨（選択綜	３竄問目	宦○	堰負け）閨（ＳＥ：ピンポンピンポーン）†",
+    ("（志保	好感度イベントＸ）閨（選択綜	３問目	宦○	堰負け）閨（ＳＥ：ピンポンピンポーン）†",
     ""),
     # (Shiho Likeability Event X) (Choice Sou 3rd Tampa Question: Nevy ○ Wrestling) (SE: Ping Pong Pong) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Ping Pong Pong!
 
-    ("「ま、こんな烽もんだｂ」",
+    ("「ま、こんな烽もんだ」",
     ""),
     # "Well, this is hot b."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Shiho is the best in scoring so far.
 
-    ("つまり、オ激レの奄負けだ。†",
+    ("つまり、オレの奄負けだ。†",
     ""),
     # In other words, it's a huge loss.†
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "Damn..."
 
-    ("ただただ悔しがる、オ激レ。",
+    ("ただただ悔しがる、オレ。",
     ""),
     # I'm just frustrated, I'm so excited.
 
-    ("あれだけ蛯大羡口を叩いておきながら…。†",
+    ("あれだけ大羡口を叩いておきながら…。†",
     ""),
     # Despite all the slamming things...†
 
@@ -75,7 +75,7 @@ text_array = [
     # "Get back out..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("氈勝ちをいいことに、好き勝闖手言ってるよ。†",
@@ -94,19 +94,19 @@ text_array = [
     ""),
     # Shiho suddenly said something strange with a serious look on his face.
 
-    ("どっかのプ鴻ロ激レス宴ラーのｂモノマネだっけか？†",
+    ("どっかのプ鴻ロレスラーのモノマネだっけか？†",
     ""),
     # Was it a b-impersonation of some other pro-ro-scary banquet?†
 
-    ("「な〜んてね。…氈勝縁負に勝ったことだし、そｂそｂ帰汲っか？」",
+    ("「な〜んてね。…氈勝縁負に勝ったことだし、そそ帰汲っか？」",
     ""),
     # "What?...I won't win the victory, so should I return to b?!"
 
-    ("「…氈勝闖手にしｂ。この次は奄負けねーぜ」†",
+    ("「…氈勝闖手にし。この次は奄負けねーぜ」†",
     ""),
     # "...I won't lose to Amashi next time." †
 
-    ("ゲーセンを出たオ激レたちは、（пヤックはおごらされてから）駅前で別れた。◯",
+    ("ゲーセンを出たオレたちは、（пヤックはおごらされてから）駅前で別れた。◯",
     ""),
     # After leaving the arcade, the others parted ways in front of the station (after the пYak was treated).◯
 

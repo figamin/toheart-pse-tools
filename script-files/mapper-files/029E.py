@@ -11,18 +11,18 @@ text_array = [
     # "I'm not busy!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「はは、なんつってな。まっ、失敗は成功の母って言うし、くじけず次回にチャャ激レンジだ」",
+    ("「はは、なんつってな。まっ、失敗は成功の母って言うし、くじけず次回にチャャレンジだ」",
     ""),
     # "Haha, what? Well, I say failure is the mother of success, so I'm not giving up and I'll end up in a tough situation next time."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「なんなら次はオ激レ焜も手伝って竄やるよ」†",
+    ("「なんなら次はオレ焜も手伝ってやるよ」†",
     ""),
     # "In any case, I'll help you out and tamper with it next time."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Senpai nodded his eyes with a moisturized look.
 
-    ("「諱よし、じ痰ゃあ、もういいだｂ。それより烽も先輩…」",
+    ("「諱よし、じ痰ゃあ、もういいだ。それより烽も先輩…」",
     ""),
     # "Okay, I'm fine with that. It's even better than that, Hou is also senior..."
 
@@ -42,12 +42,12 @@ text_array = [
     ""),
     # "?"†
 
-    ("「今厓日いっし蛯ょに帰汲うぜ？」",
+    ("「今厓日いっしょに帰汲うぜ？」",
     ""),
     # "I'll return to the slut now, right?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩はこくんとうなずいた。†",

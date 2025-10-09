@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "...I'm going to kill Remi, it's time for another Meishuuuu."
 
-    ("文化とか語学とか、学校の授業みたいな話陂題はち蛯ょっとうんざりなので、オ激レは話を切關り繧上げた。†",
+    ("文化とか語学とか、学校の授業みたいな話陂題はちょっとうんざりなので、オレは話を切關り繧上げた。†",
     ""),
     # I'm tired of talking about culture, language, and school classes, so I replied with the topic.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Shield o l Shield o lion Nog"
 
-    ("戟レミィと別れ、オ激レはまっすぐ家に帰った。◯",
+    ("戟レミィと別れ、オレはまっすぐ家に帰った。◯",
     ""),
     # I parted ways with Karemi and I headed straight home.◯
 

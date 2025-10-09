@@ -2,15 +2,15 @@
 # Source file: 0101.txt
 
 text_array = [
-    ("（あかり	冝日付イベント１）閨（Ａ	諱よし、じ痰ゃあ一処緒に竄やるか	の続き）†",
+    ("（あかり	冝日付イベント１）閨（Ａ	諱よし、じ痰ゃあ一処緒にやるか	の続き）†",
     ""),
     # (Akari Pilgrim Date Event 1) (Continued from A: A, Is it okay, can you tamper with me?)
 
-    ("「諱よし、じ痰ゃあいっし蛯ょに竄やるか」",
+    ("「諱よし、じ痰ゃあいっしょにやるか」",
     ""),
     # "All right, can you tamper with the phlegm?"
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Yes, yes."
 
-    ("「♂史ち痰ゃん烽もいっし蛯ょに、しよ？」",
+    ("「♂史ち痰ゃん烽もいっしょに、しよ？」",
     ""),
     # "Shall we do it with the ♂Shichi-Sho-chan's hot spring?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Yeah, I'm fine.
 
-    ("わかんないとこｂは姉さんに聞いたりしてるから」†",
+    ("わかんないとこは姉さんに聞いたりしてるから」†",
     ""),
     # I don't know about the other person, but I ask my sister."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I see? I thought it would be better to have a ♂ Shichi-Sho-chan."
 
-    ("「ま、♂史に烽も都∮合って烽もんがあんだｂ」",
+    ("「ま、♂史に烽も都∮合って烽もんがあんだ」",
     ""),
     # "Well, the city is suitable for the history of the Makoto, and the Chinese are the ones that are right for the Makoto."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # He told her to be careful, and Akari left the classroom.†
 
-    ("「なんだよ、お前熨もいっし蛯ょにｗ郁翌鞦ｂ痰いいだｂ？」",
+    ("「なんだよ、お前熨もいっしょにｗ郁翌鞦痰いいだ？」",
     ""),
     # "What is it? You'll also have a noshi lol. Is it okay to have the next slurp pounding b?!"
 

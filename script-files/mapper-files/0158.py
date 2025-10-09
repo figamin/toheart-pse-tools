@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("かち痰ゃっと鍵を開けると、竅やっぱりあかりだった。",
+    ("かち痰ゃっと鍵を開けると、やっぱりあかりだった。",
     ""),
     # I opened the lock with a sigh of a sigh, and it turned out to be Akari after all.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Akari, holding a supermarket shopping bag in her hand, bowed her head and leapt up to the house.†
 
-    ("「じ痰ゃあ、お艪台椛所借闔りるね」",
+    ("「じ痰ゃあ、お台椛所借闔りるね」",
     ""),
     # "Ah, I'll borrow your spot from the bay."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Akari immediately went to the kitchen, opened the bag and started washing and cutting the vegetables.
 
-    ("オ激レはその間、潤居間のソファーにｍかけ、テ激レビを見てくつｂいだ。†",
+    ("オレはその間、潤居間のソファーにｍかけ、テレビを見てくついだ。†",
     ""),
     # During that time, I leaned on the sofa in the living room and looked at the intense video and fell asleep.†
 

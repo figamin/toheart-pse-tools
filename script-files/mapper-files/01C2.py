@@ -2,7 +2,7 @@
 # Source file: 01C2.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ａ	軽く一眠阮りする）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ａ	軽く一眠りする）†",
     ""),
     # (Light scale event 2F) (A light sleeps down a little)†
 
@@ -10,15 +10,15 @@ text_array = [
     ""),
     # No, stiff phlegm.
 
-    ("軽く一眠阮りしよう。",
+    ("軽く一眠りしよう。",
     ""),
     # Let's take a quick sleep.
 
-    ("もう、どうしよう烽もないほど眠いときってあるからな、竅やっぱ。",
+    ("もう、どうしよう烽もないほど眠いときってあるからな、やっぱ。",
     ""),
     # I've had a lot of times I'm so sleepy that I can't help but feel so sleepy that I can't help but think about it.
 
-    ("つー增わけで、ほんの１０分。",
+    ("つーわけで、ほんの１０分。",
     ""),
     # So it's only 10 minutes.
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # hey hey!?
 
-    ("いったい何梔時間寝てたんだ、オ激レは！？†",
+    ("いったい何梔時間寝てたんだ、オレは！？†",
     ""),
     # How many hours were you sleeping, I'm so excited!?†
 
-    ("氈次の瞬間、オ激レはガバッと、机から繧上半身を起こした。",
+    ("氈次の瞬間、オレはガバッと、机から繧上半身を起こした。",
     ""),
     # The next moment, my slut suddenly leaned over and lifted my upper body from the desk.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "I've been waiting, sputum."
 
-    ("「オ激レを？」",
+    ("「オレを？」",
     ""),
     # "I'm so excited?"
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "I just had a stomping indigo sent to my final school, so I guess I'll have to wait about six holes."
 
-    ("「６桙時！？	マジか！？	なに竄やってんだ、オ激レは！？	熟㍼睡王か！？」†",
+    ("「６桙時！？	マジか！？	なにやってんだ、オレは！？	熟㍼睡王か！？」†",
     ""),
     # "Six-floor!? Seriously?! What are you doing, what are you doing?! Is it the king of the Mature Sleeping King?!" †
 
-    ("「まあまあ。そのぶん、いい夢見たでし蛯ょ」",
+    ("「まあまあ。そのぶん、いい夢見たでしょ」",
     ""),
     # "Okay, that's why I had a good dream."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "And also slept with a happy look on his face."
 
-    ("「まさか、お前、オ激レの寝逅顔をずっと見てたのか？」",
+    ("「まさか、お前、オレの寝逅顔をずっと見てたのか？」",
     ""),
     # "I can't believe you were watching my face as I was sleeping?"
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "what?"
 
-    ("「ち蛯ょっとこっちｗい？」",
+    ("「ちょっとこっちｗい？」",
     ""),
     # "Can I go here lol?"
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # Akari approaches when he is called.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

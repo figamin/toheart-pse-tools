@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (If there is no event, if there is no event) (March Lion Moon 9th Day) (Make it a date event) (Make it a cleaning event) (Make it clears the Jun living room) (Make it clears the Jun living room) †
 
-    ("諱よーし、竅やっか。",
+    ("諱よーし、やっか。",
     ""),
     # Okay, I'll give it a go.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Ahh.
 
-    ("さすがにこの広い家をひとりだけで竄やるのはつらいぜ。",
+    ("さすがにこの広い家をひとりだけでやるのはつらいぜ。",
     ""),
     # It's hard to tamper with this large house alone.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # I'll call you right away.
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "If it's Kamigan, it's ""
 
-    ("「あ、もし烽もし、オ激レだ」",
+    ("「あ、もし烽もし、オレだ」",
     ""),
     # "Ah, if it's hot, I'm super excited."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "yes?'
 
-    ("あっ、竅やべっ。",
+    ("あっ、やべっ。",
     ""),
     # Ah, that's bad.
 
@@ -122,15 +122,15 @@ text_array = [
     ""),
     # It's not usable, you guys.
 
-    ("こういうときのための、あかりだｂーが。",
+    ("こういうときのための、あかりだーが。",
     ""),
     # For times like this, this is the light.
 
-    ("ったく、どこ遊びに行き竄やがったんだ。",
+    ("ったく、どこ遊びに行きやがったんだ。",
     ""),
     # So, where did you go and play?
 
-    ("し蛯ょうがねえ、ひとりでなんとかするか。†",
+    ("しょうがねえ、ひとりでなんとかするか。†",
     ""),
     # There's no way I can do something on my own.†
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # ・†
 
-    ("結局、ひと通闥り掃恆除が終尞わったのは、陽燉も蛯大きく傾いた夕髣暮れどきだった。",
+    ("結局、ひと通闥り掃恆除が終尞わったのは、陽燉も大きく傾いた夕髣暮れどきだった。",
     ""),
     # In the end, the entire sweeping process was completed, even during the evening hours when Yang Xing was also leaning heavily.
 

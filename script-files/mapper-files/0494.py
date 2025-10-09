@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho Scales Event, 1st floor 2) (Selection Akarito)†
 
-    ("「今回はあかりと先約があっから、オ激レ、あかりと帰驪るぜ」",
+    ("「今回はあかりと先約があっから、オレ、あかりと帰驪るぜ」",
     ""),
     # "This time, Akari and I have a first-time commitment, and I'm going back to Akari."
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Thank you. And please give Shiho the number one."
 
-    ("「なんでだよ。お前が先だｂ？」",
+    ("「なんでだよ。お前が先だ？」",
     ""),
     # "Why? You're the first b?"
 
-    ("「志保はち痰ゃんにｗて欲しいんでし蛯ょ？",
+    ("「志保はち痰ゃんにｗて欲しいんでしょ？",
     ""),
     # "Shiho wants to be a stomp lol, slut?
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "...That's a shame, there's no phlegm."
 
-    ("オ激レは腹をｌめた。",
+    ("オレは腹をｌめた。",
     ""),
     # I slurped my stomach.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Uh, that's fine."
 
-    ("結局、オ激レは志保のつき№合いで商店街へ行くことになった。†",
+    ("結局、オレは志保のつき№合いで商店街へ行くことになった。†",
     ""),
     # In the end, I ended up going to the shopping district with Shiho's No.†
 

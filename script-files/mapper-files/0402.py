@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I guess it's hot..."
 
-    ("…ったく、その元気を全荘国の痰低健血圧な人たちに分けて竄やれっての。†",
+    ("…ったく、その元気を全荘国の痰低健血圧な人たちに分けてやれっての。†",
     ""),
     # ...They say they should divide their energy into people from all over the country with low phlegm and healthy blood pressure.†
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # "Oh, are you even saying that to Akari?"
 
-    ("「ったりめーだ。朝からその変なノ潟リで翌迫逕られり痰ゃあ、誰だって不気味がるっての」†",
+    ("「ったりめーだ。朝からその変なノリで翌迫逕られり痰ゃあ、誰だって不気味がるっての」†",
     ""),
     # "It's a bit of a slut. I was so excited that the next day I was so excited that everyone was creepy."
 
-    ("「そんなこと言甯われたって、このノ潟リは変えらんない墲わよ」",
+    ("「そんなこと言甯われたって、このノリは変えらんない墲わよ」",
     ""),
     # "Even if you say that, you won't be able to change this place."
 
-    ("「…その点ではオ激レ焜もあかり烽も、あきらめてるぜ」",
+    ("「…その点ではオレ焜もあかり烽も、あきらめてるぜ」",
     ""),
     # "...In that respect, I've given up on both my super-realistic and Akari Hot."
 
-    ("「なによう。あたしはこのノ潟リが気に入ってるのよ。あんたにあきらめられる筋㈲合いはない墲わ」†",
+    ("「なによう。あたしはこのノリが気に入ってるのよ。あんたにあきらめられる筋㈲合いはない墲わ」†",
     ""),
     # "What? I like this Nogatari. I don't have any confusion for you to give up."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Um, Shiho.
 
-    ("もうすぐホーム泣ルーム始まっち痰ゃうよ」",
+    ("もうすぐホームルーム始まっち痰ゃうよ」",
     ""),
     # The home crying room will soon begin."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Thank you very much for your help."
 
-    ("「ってな墲わけであたし、教室に戻髢るね。…あ、そうそう。あんたたち、くれぐれ烽も№仲良く竄やんなさい",
+    ("「ってな墲わけであたし、教室に戻髢るね。…あ、そうそう。あんたたち、くれぐれ烽も№仲良くやんなさい",
     ""),
     # "That's why I'm going to go back to the classroom... Oh, that's right. You guys, please be sure to tamper with us as well.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Oh well"†
 
-    ("変なセ潟リフを残して、志保は教室へ戻っていった。",
+    ("変なセリフを残して、志保は教室へ戻っていった。",
     ""),
     # Leaves a strange Segata riff, Shiho returns to the classroom.
 

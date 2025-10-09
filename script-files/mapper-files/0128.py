@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Well, maybe that kind of hot thing."
 
-    ("教室で友だちと話すあかりを眺めながら、オ激レは言った。",
+    ("教室で友だちと話すあかりを眺めながら、オレは言った。",
     ""),
     # I said, watching Akari talk to her friends in the classroom.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Oh, is that so..."
 
-    ("葵ち痰ゃんはち蛯ょっと動揺した感じで汲視諮をそらした。†",
+    ("葵ち痰ゃんはちょっと動揺した感じで汲視諮をそらした。†",
     ""),
     # Aoi Chisho-yan Hachiko was a little upset and he deflected the advice.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ah, um, sorry, sorry."
 
-    ("「あっ、ち蛯ょっ、葵ち痰ゃん…」",
+    ("「あっ、ちょっ、葵ち痰ゃん…」",
     ""),
     # "Ah, yeah, Aoi Chishou..."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Well, Akari is simply a long-term match, so it's not a hot topic, and it's not a single word, so it's impossible to say anything wrong.
 
-    ("磨事諶情を知迺らない彼濫女には、もっとはっきりと烽説明しとけばよかったかな。",
+    ("事諶情を知迺らない彼濫女には、もっとはっきりと烽説明しとけばよかったかな。",
     ""),
     # I wish I had given a more clear explanation to the girl who had no idea about her refined feelings.
 

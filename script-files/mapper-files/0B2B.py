@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 3, the second half of the month) (Aya∴Ka, left = normal)†
 
-    ("「じ痰ゃ、さっそく始めまし蛯ょうか」",
+    ("「じ痰ゃ、さっそく始めましょうか」",
     ""),
     # "No phlegm, let's start now."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("「セ潟リオ、グ鴻ローブ用意して」",
+    ("「セリオ、グ鴻ローブ用意して」",
     ""),
     # "Segata Rio, prepare some Ghoo robes."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("ふたりはセ潟リオからグ鴻ローブを受け取闔り、閨手にはめた。†",
+    ("ふたりはセリオからグ鴻ローブを受け取闔り、閨手にはめた。†",
     ""),
     # The two received the Ghoon robe from Segata Rio and put it in their hand.†
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "This is the third time I've ever won a victory like this."
 
-    ("「安心しｂ。今厓日で終尞わりだから」",
+    ("「安心し。今厓日で終尞わりだから」",
     ""),
     # "I'm relieved. It's the end of the day now."
 
-    ("「そう簡単にいくかしらね？	そｂそｂр私の強さが墲わかってきたんじ痰ゃない？」†",
+    ("「そう簡単にいくかしらね？	そそр私の強さが墲わかってきたんじ痰ゃない？」†",
     ""),
     # "I wonder if it'll go that easy, right? I'm starting to understand how strong I am, so don't I have any phlegm?"
 
-    ("「強い敵はそのぶん経験値がｂ高ぇーからな、倒しがいがあるぜ」",
+    ("「強い敵はそのぶん経験値が高ぇーからな、倒しがいがあるぜ」",
     ""),
     # "Strong enemies have high experience points, so they're worth defeating them."
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # "Experience points?"
 
-    ("「お前に勝てば、いっきに撃レベ泣ルアップだ」",
+    ("「お前に勝てば、いっきに撃レベルアップだ」",
     ""),
     # "If I beat you, I'll be able to get up to the level of fire at once."
 
-    ("「戟レベ泣ルアップって、なんの？」",
+    ("「戟レベルアップって、なんの？」",
     ""),
     # "What is it like to cry up?"
 
-    ("「い竄や、增わかんねーなら、いい」",
+    ("「いや、わかんねーなら、いい」",
     ""),
     # "If you don't know, it's fine."
 
@@ -62,23 +62,23 @@ text_array = [
     ""),
     # "?"†
 
-    ("「ま、前回、前々回は、ち蛯ょっと無謀すぎたからな。今厓日は慎重にいかせて烽もらうぜ」",
+    ("「ま、前回、前々回は、ちょっと無謀すぎたからな。今厓日は慎重にいかせて烽もらうぜ」",
     ""),
     # "Well, last time and the two previous episodes, it was too reckless. I'll be careful and get some hot springs now."
 
-    ("「梶相闡手をよく見骭るのは蛯大切だけど、消極的になるのは良くない墲わよ」",
+    ("「梶相闡手をよく見骭るのは大切だけど、消極的になるのは良くない墲わよ」",
     ""),
     # "It's important to look closely at Kaji Sengoku, but being reluctant is not good."
 
-    ("「增わかってる。まあ、見てｂって」",
+    ("「わかってる。まあ、見てって」",
     ""),
     # "I know. Well, look, b."
 
-    ("オ激レは両阯手のグ鴻ローブをぶつけて言った。†",
+    ("オレは両手のグ鴻ローブをぶつけて言った。†",
     ""),
     # Ogere said, slamming his hands on the Ghoon robe.†
 
-    ("「じ痰ゃあ、いい墲わよ。セ潟リオ、お願い」",
+    ("「じ痰ゃあ、いい墲わよ。セリオ、お願い」",
     ""),
     # "Ah, phlegm, that's good. Seragata Rio, please."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Yes. Let's go then..."
 
-    ("審判のセ潟リオが前に出髀る。",
+    ("審判のセリオが前に出髀る。",
     ""),
     # Judgment Segata Rio makes a comeback.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # ""Fight"†
 
-    ("オ激レは開始と同椏時に足を使い、移動する。",
+    ("オレは開始と同椏時に足を使い、移動する。",
     ""),
     # My geire uses my legs to move when I start.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Whoa..."
 
-    ("オ激レのフット純ワークを見て、綾∴香が感心した顔をする。",
+    ("オレのフット純ワークを見て、綾∴香が感心した顔をする。",
     ""),
     # Aya∴Ka looks impressed when she sees her hard-working footwork.
 
-    ("「ち痰ゃんと福練習したのね。",
+    ("「ち痰ゃんと練習したのね。",
     ""),
     # "You practiced fortune with a smug hug.
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # Although he barely locked his arm around, he was pushed by a shock after being hit.†
 
-    ("「ほらほらっ、こんな程度で足を止めない。グ宴ラつくのはフット純ワークが甘い証衷拠諡よ」",
+    ("「ほらほらっ、こんな程度で足を止めない。グラつくのはフット純ワークが甘い証衷拠諡よ」",
     ""),
     # "Look, here you go, I won't stop at this level. The reason I'm having a banquet is a proof that the pure footwork is a nice undertaking."
 
@@ -214,11 +214,11 @@ text_array = [
     ""),
     # Damn, it's no good.
 
-    ("このままじ痰ゃ、竅やがてガードをこじ開けられちまう。",
+    ("このままじ痰ゃ、やがてガードをこじ開けられちまう。",
     ""),
     # If you keep doing this, the guard will eventually be pryed open.
 
-    ("竅やはりディフェンス黹一辺倒じ痰ゃダ＜メだ。",
+    ("やはりディフェンス黹一辺倒じ痰ゃダ＜メだ。",
     ""),
     # As expected, it's just a defensive stone to be honest.
 
@@ -226,19 +226,19 @@ text_array = [
     ""),
     # I have to start using Hot from here too.†
 
-    ("諱よし、氈次の左ジャャブをパ潟リー（払い怩除け）して、反ｔ撃するっ。",
+    ("諱よし、氈次の左ジャャブをパリー（払い怩除け）して、反ｔ撃するっ。",
     ""),
     # Okay, I'll give you a t-t-shot by baku-ri (sweep away) the left jab.
 
-    ("°体的なコンビネーシ㏍ョンは！？",
+    ("°体的なコンビネーションは！？",
     ""),
     # °The physical combination scheme!?
 
-    ("Ａ	左闕手で外側にパ潟リーし、右で打つ！閨",
+    ("Ａ	左闕手で外側にパリーし、右で打つ！閨",
     ""),
     # A: Use your left hand to palat outwards and hit it on the right!Relax
 
-    ("Ｂ	右濶手で烽内側にパ潟リーし、左で打つ！閨",
+    ("Ｂ	右濶手で烽内側にパリーし、左で打つ！閨",
     ""),
     # B He uses his right hand to palatte inside the hot spring and hits on the left!Relax
 

@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "My name is, Senpai."
 
-    ("背白から声をかけると、諱先輩は艪ゆっくりと振關り返った。",
+    ("背白から声をかけると、諱先輩はゆっくりと振關り返った。",
     ""),
     # When I called out to him from a disdain, Senpai Kotobuki slowly replied.
 
-    ("竅や墲わらかな長い髪がふ墲わっと曹舞い、思寬わず見とれてしまう。",
+    ("や墲わらかな長い髪がふ墲わっと曹舞い、思寬わず見とれてしまう。",
     ""),
     # His long, soft hair and long hair suddenly danced, and I couldn't help but look over him.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I see. I see. ""
 
-    ("Ａ	いっし蛯ょに帰迢らないか？閨",
+    ("Ａ	いっしょに帰迢らないか？閨",
     ""),
     # A: Wouldn't you return to the essay?Relax
 

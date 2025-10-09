@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 4 of the balance (continued from Chosen Sou B, Torai Dance Battle)†
 
-    ("遠莱距離嵭戦はｂ高剄等なテクニックを要する。",
+    ("遠莱距離嵭戦は高剄等なテクニックを要する。",
     ""),
     # The battle for the Torai distance requires techniques such as high-speed b.
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # But that's what Aya∴Ka is aiming for.
 
-    ("多分オ激レがそう考えて、接近寀戦を挑むのを誘ってるに痰違いない。",
+    ("多分オレがそう考えて、接近寀戦を挑むのを誘ってるに痰違いない。",
     ""),
     # I'm sure my fierce thought that way and invited me to take on a close fight.
 
-    ("增わざ墲わざ罠にハマ驛るつ烽もりはない。†",
+    ("わざ墲わざ罠にハマ驛るつ烽もりはない。†",
     ""),
     # There is no need to fall into traps on purpose.†
 
-    ("ここからは唐遠莱距離嵭戦だ。",
+    ("ここからは遠莱距離嵭戦だ。",
     ""),
     # From here, it's the battle for the Tang Wonlai Dance.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # There's no female, there's no female, I let my guard down.†
 
-    ("オ激レのジャャブ！",
+    ("オレのジャャブ！",
     ""),
     # My superb japanese!
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Life is also.†
 
-    ("オ激レのジャャブ！",
+    ("オレのジャャブ！",
     ""),
     # My superb japanese!
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # The battle for the Torai Dance is unwind.
 
-    ("竅やっぱり接近寀戦しか｢｢。†",
+    ("やっぱり接近寀戦しか｢｢。†",
     ""),
     # After all, the only thing I can do is get close to.†
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # Aya∴Ka insteps after a moment of free time.
 
-    ("オ激レの目の前に現鼬れる。",
+    ("オレの目の前に現鼬れる。",
     ""),
     # It appears in front of my eyes.
 
-    ("竅やばいっ。",
+    ("やばいっ。",
     ""),
     # That's amazing.
 
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # Splaaaaahhhh!
 
-    ("綾∴香の右スト激レートが、ａモ鴻ロに入體る。",
+    ("綾∴香の右ストレートが、ａモ鴻ロに入體る。",
     ""),
     # Aya∴Ka's intense right rating gets into Amo Koro.
 
-    ("蛛大きくよｂけるオ激レ。†",
+    ("蛛大きくよけるオレ。†",
     ""),
     # My big bang is so big.†
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # Splaaaaah!
 
-    ("コンビネーシ㏍ョンの三発がク潟リーンヒット。",
+    ("コンビネーションの三発がクリーンヒット。",
     ""),
     # Combination Sydong's three hits hit Kugata Lean.
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # Damn….
 
-    ("竅やられた。",
+    ("やられた。",
     ""),
     # I got hit with it.
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Well, somehow..."
 
-    ("オ激レは頭を振關りながら体を起こした。†",
+    ("オレは頭を振關りながら体を起こした。†",
     ""),
     # My head shook my head and stood up.†
 

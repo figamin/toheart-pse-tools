@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aoi Likeability Event 1: After selection A)†
 
-    ("「葵ち痰ゃんは運動してるんだから、そのぶん≠普通の子謗より烽も多くて魔当たり前じ痰ゃないか。それで烽も男子と艪比べると少ないほうさ」",
+    ("「葵ち痰ゃんは運動してるんだから、そのぶん≠普通の子謗より烽も多くて魔当たり前じ痰ゃないか。それで烽も男子と比べると少ないほうさ」",
     ""),
     # "Aoi Chisho-chan is exercising, so there are more stimulation than normal children, so it's obvious that there's less sputum than normal children. So, compared to boys, there's less sputum."
 

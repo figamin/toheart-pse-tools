@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "This time I'll do my best on my own."
 
-    ("オ激レはそう言った。",
+    ("オレはそう言った。",
     ""),
     # That's what I said.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "It looks like it's going to drag you down."
 
-    ("「そんなことないよ。ち痰ゃんは、竅やればなんで烽も出女磯翌鴦ｂｾから。きっと逆に、п私のほうが教えられる立齬場になるよ」†",
+    ("「そんなことないよ。ち痰ゃんは、やればなんで烽も出女磯翌鴦ｾから。きっと逆に、п私のほうが教えられる立齬場になるよ」†",
     ""),
     # "That's not true. If you do it, why does it come out of the woman Iso Isouin's Goblin? I'm sure it will become a more contradiction place where I can teach you."
 
-    ("「メ買いかぶりすぎだっつーの。ま、とにかく墲わりぃな。今回はなんとなく自分のペースで竄やりたいんだ」",
+    ("「メ買いかぶりすぎだっつーの。ま、とにかく墲わりぃな。今回はなんとなく自分のペースでやりたいんだ」",
     ""),
     # "I've been buying too much. Well, it's just too bad. I want to tamper with it at my own pace this time."
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # Akari looked sad.†
 
-    ("「うん、增わかった。じ痰ゃ、がんばってね」",
+    ("「うん、わかった。じ痰ゃ、がんばってね」",
     ""),
     # "Yeah, I understand. Please do your best."
 
-    ("「おう、增わりぃな。誘ってくれたのに」",
+    ("「おう、わりぃな。誘ってくれたのに」",
     ""),
     # "Oh, that's bad. You invited me."
 
-    ("「いいよ、いいよ。ち蛯ょっと言ってみただけだから。",
+    ("「いいよ、いいよ。ちょっと言ってみただけだから。",
     ""),
     # "It's fine, it's fine. I just tried to say it.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Sanki Yo" †
 
-    ("「♂史ち痰ゃんはどう？	いっし蛯ょに」",
+    ("「♂史ち痰ゃんはどう？	いっしょに」",
     ""),
     # "How about ♂Shichi-sphin-chan? And sluts."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Sorry, I'm fine too.
 
-    ("わかんないとこｂは姉さんに聞いたりしてるから」",
+    ("わかんないとこは姉さんに聞いたりしてるから」",
     ""),
     # I don't know about it, but I ask my sister."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # When Akari said that, she left the classroom with a smile on her face.†
 
-    ("「いっし蛯ょにすればよかったのに…」",
+    ("「いっしょにすればよかったのに…」",
     ""),
     # "I should have done it all together..."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "What are you saying?... I'm sorry."
 
-    ("で烽も、竅やっぱ、断髓ること烽もなかったかな。†",
+    ("で烽も、やっぱ、断髓ること烽もなかったかな。†",
     ""),
     # So, I guess there was no hot spring, no hot spring after all.†
 

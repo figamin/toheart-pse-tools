@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Saturday, April 12th) (6th time of weir radio) (Sixth time) (Without listening to weir radio) (Without a place to listen to weir radio)†
 
-    ("いい竄や。",
+    ("いいや。",
     ""),
     # It's tampering.
 
-    ("このままテ激レビを見謖よう。",
+    ("このままテレビを見謖よう。",
     ""),
     # Let's continue to watch the intense replies of the TV show.
 
-    ("土曜の深髏夜は面猪白いの竄やってるからな。◯",
+    ("土曜の深髏夜は面猪白いのやってるからな。◯",
     ""),
     # On Saturday's Mirokuyo, they're tampering with white masks.◯
 

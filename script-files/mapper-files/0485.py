@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "That's amazing.
 
-    ("レミィはア＜メ潟リカ人だぜ？	英皷語で１００点謫取って烽もおかしくねえだｂ」†",
+    ("レミィはア＜メリカ人だぜ？	英皷語で１００点謫取って烽もおかしくねえだ」†",
     ""),
     # Remy is American, right?I'm not odd either by taking 100 points in English language."
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # Despite knowing it, Shiho says with an upset feeling.†
 
-    ("「いい竄や。オ激レはいつか竄やるだｂうって思ってたぜぇ」",
+    ("「いいや。オレはいつかやるだうって思ってたぜぇ」",
     ""),
     # "It's a good idea. I thought I'd do it someday."
 
-    ("オ激レは墲わざと意地悪く言った。",
+    ("オレは墲わざと意地悪く言った。",
     ""),
     # I deliberately said it mean.
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # Shiho finally made his true feelings.†
 
-    ("要するに、自分の薰情報で驚かないオ激レに腹が立つらしい。",
+    ("要するに、自分の薰情報で驚かないオレに腹が立つらしい。",
     ""),
     # In short, it seems that I'm angry at me who isn't surprised by my own information.
 
-    ("「オ激レは詳しいぜぇ。おとといｗ遺翌竄ｪれってんだ！」",
+    ("「オレは詳しいぜぇ。おとといｗ遺翌ｪれってんだ！」",
     ""),
     # "I know a lot about super-real people. The day before yesterday lol I've been tampered with the next day!"
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # When the woman left behind something hot and left her with a momentary, unfortunate look on her feet.
 
-    ("「ざまぁーみｂ！」",
+    ("「ざまぁーみ！」",
     ""),
     # "Zamaii b!"
 
-    ("とか言ってると、う墲わさの張本人が竄やってきた。†",
+    ("とか言ってると、う墲わさの張本人がやってきた。†",
     ""),
     # As I said that, the person who was involved in the Umawasa started tampering with me.†
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # "YES?"
 
-    ("「お前、英皷語とグ宴ラマー、１００点だってよ」",
+    ("「お前、英皷語とグラマー、１００点だってよ」",
     ""),
     # "You're English-Japanese and Gubanquet Lamar, 100 points."
 
-    ("「Ａ窒ｒｂ	凵ｙ盾ｏ浮ｕ	入ｂ窒ｒ奄ｉ盾ｏ浮ｕ唐入？	轣冗談でし蛯ょ？」",
+    ("「Ａ窒ｒ	凵ｙ盾ｏ浮ｕ	入窒ｒ奄ｉ盾ｏ浮ｕ入？	轣冗談でしょ？」",
     ""),
     # "A nitrogen shield o floats into the b nitrogen shield o floats into the b nitrogen shield o floats into the bang? Is it a joke, slut?"
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Why?"
 
-    ("「だってアタシ、增わからないスペ泣ルがあって、全泊部囎答えられなかったｃ」",
+    ("「だってアタシ、わからないスペルがあって、全泊部囎答えられなかったｃ」",
     ""),
     # "Because I had a slut that I didn't understand, and I couldn't answer all the staff members."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("どう竄やら、またして烽も志保ち痰ゃん薰情報はガセ辜らしい。",
+    ("どうやら、またして烽も志保ち痰ゃん薰情報はガセ辜らしい。",
     ""),
     # It seems that the information is fake, and that the tampering of the matter is also fake.
 
@@ -146,15 +146,15 @@ text_array = [
     ""),
     # "Is it 100 points?"
 
-    ("「增わりぃ。それはこっちの勘瘧違いだった」",
+    ("「わりぃ。それはこっちの勘瘧違いだった」",
     ""),
     # "She's not good. That was a different hunch."
 
-    ("「そーデスカ。アタシち蛯ょっと、♀んだｃ」",
+    ("「そーデスカ。アタシちょっと、♀んだｃ」",
     ""),
     # "Sodeska. I'm a female c."
 
-    ("「增わりぃな、ぬかｊびさせちまって」",
+    ("「わりぃな、ぬかｊびさせちまって」",
     ""),
     # "Stop it, let me sniff it."
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # "never mind,"
 
-    ("…どう竄やら、志保ち痰ゃん薰情報を伝染させてしまったらしい。",
+    ("…どうやら、志保ち痰ゃん薰情報を伝染させてしまったらしい。",
     ""),
     # ...It seems that it has caused Shiho's information to be transmitted.
 
-    ("ウイ泣ルスみたいな薰情報だな…。◯",
+    ("ウイルスみたいな薰情報だな…。◯",
     ""),
     # It's like a virgin cry...◯
 

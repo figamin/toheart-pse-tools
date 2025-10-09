@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Game Remy Scale Event 2nd Floor 4 LV1) (Selection Bell)†
 
-    ("「增わかった。",
+    ("「わかった。",
     ""),
     # "I understand.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # It's a bell."
 
-    ("お宸寺の烽鐘が小さくなっただけだｂ。†",
+    ("お宸寺の烽鐘が小さくなっただけだ。†",
     ""),
     # The hot bell at Otsuji Temple has just become smaller.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # This is my first time hearing about Amami.
 
-    ("くぅ〜っ、いきなり竄や竄やこしいっ！†",
+    ("くぅ〜っ、いきなりややこしいっ！†",
     ""),
     # Damn it, it's all suddenly tampering and confusing!†
 

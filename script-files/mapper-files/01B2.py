@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Most of the people have taken off the potatoes.
 
-    ("それで烽もさっきの桙時間、小雨がぱらついたおかげで、少しは過ごし竄やすくなったけど。†",
+    ("それで烽もさっきの桙時間、小雨がぱらついたおかげで、少しは過ごしやすくなったけど。†",
     ""),
     # And thanks to the light rain that had been lit up during the previous fox time, it became easier to spend some time a little.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Well. What about you?"
 
-    ("「п私燻も帰驪るよ。で烽もいまは、ち蛯ょっと屋繪上に行こうと思って」",
+    ("「п私燻も帰驪るよ。で烽もいまは、ちょっと屋繪上に行こうと思って」",
     ""),
     # "I'm going home to smoke too. And now I'm thinking of going to the bait bait."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Are you on the house?"
 
-    ("「ち蛯ょうどよかった。ち痰ゃん烽も、いっし蛯ょに行こ？」",
+    ("「ちょうどよかった。ち痰ゃん烽も、いっしょに行こ？」",
     ""),
     # "You're so happy. Let's go to Chishonan, too?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Hehe. That's fun going."
 
-    ("あかりはなに竄やら楽しそうに笑った。†",
+    ("あかりはなにやら楽しそうに笑った。†",
     ""),
     # Akari laughed happily and with all the tampering.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # What should I do?
 
-    ("Ａ	いっし蛯ょに屋繪上へ行く。閨",
+    ("Ａ	いっしょに屋繪上へ行く。閨",
     ""),
     # A. We went up to the shrine together.Relax
 

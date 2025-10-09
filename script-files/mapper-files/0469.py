@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "What is it for?"
 
-    ("ひ蛯ょっとしたらお烽もしｂい話か烽もしれないので、諱乗ってみた。†",
+    ("ひょっとしたらお烽もしい話か烽もしれないので、諱乗ってみた。†",
     ""),
     # I thought it might be a hot topic or a hot topic, so I decided to give it a go.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("お烽もしｂい話を冾期待していたオ激レは、そうこたえるしかない。†",
+    ("お烽もしい話を冾期待していたオレは、そうこたえるしかない。†",
     ""),
     # I was hoping for a bad story, so I had no choice but to answer that way.†
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # Shiho thrusts into the bath.
 
-    ("いつ烽ものことなんだが、志保の竄やることはいちいち揩理解できない。†",
+    ("いつ烽ものことなんだが、志保のやることはいちいち揩理解できない。†",
     ""),
     # When is it a hot topic, I can't understand Shiho's tampering with it at all.†
 
-    ("オ激レの嘯答えは｢｢。",
+    ("オレの嘯答えは｢｢。",
     ""),
     # My throbbing answer is ".
 

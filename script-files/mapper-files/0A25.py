@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Anthony Wannett..."
 
-    ("正直、オ激レは呆れた。",
+    ("正直、オレは呆れた。",
     ""),
     # To be honest, I was shocked.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "That's why I'm sure the korea that I'm not a fan of Inumata is probably going to be that tough..."
 
-    ("「おいおい、ち蛯ょっと待ってくれよ。",
+    ("「おいおい、ちょっと待ってくれよ。",
     ""),
     # "Hey hey, wait a moment.
 
-    ("んじ痰ゃなにか？	ク激レオパト宴ラとか、西太后とかの生まれ変﨑わり烽も不幸になってるってか？」",
+    ("んじ痰ゃなにか？	クレオパトラとか、西太后とかの生まれ変﨑わり烽も不幸になってるってか？」",
     ""),
     # What about the phlegm?Is it unhappy for the fierce Leopard Feast and the birthplace of Empress Dowager Cice?”
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I don't know that but..."
 
-    ("「だいたい、いまの不幸を前世のせいにすること自体、おかしいと思うぜ、オ激レは」",
+    ("「だいたい、いまの不幸を前世のせいにすること自体、おかしいと思うぜ、オレは」",
     ""),
     # "I think it's strange to blame the misfortunes I have now on my past life, I'm pretty sure."
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "Feehhhh"
 
-    ("「あ〜あ、マ潟リー・アント純ワネットがひどい姿に…」",
+    ("「あ〜あ、マリー・アント純ワネットがひどい姿に…」",
     ""),
     # "Ahh, Marie Antoinette looks terrible..."
 
-    ("ち蛯ょっと、こり痰ゃあんまりだな。†",
+    ("ちょっと、こり痰ゃあんまりだな。†",
     ""),
     # I'm sure there's too much stiffness.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "An kusushi!"
 
-    ("「蛛大苟丈夫か？	あ、增わりぃ、オ激レ、ハンカチいつ烽も揩持ってなくて…」",
+    ("「蛛大苟丈夫か？	あ、わりぃ、オレ、ハンカチいつ烽も揩持ってなくて…」",
     ""),
     # "Are you so strong? Ah, I'm so excited, I don't have a handkerchief at all..."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Eh, that's not it. Yes, it's fine. If it's a handkerchief, I'll be..."
 
-    ("ポケットをごそごそ竄やる揩理女緒ち痰ゃん。",
+    ("ポケットをごそごそやる揩理女緒ち痰ゃん。",
     ""),
     # I'm smug and squeeze my pocket.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Looks like I've plucked somewhere before slurping..."
 
-    ("掾理女緒ち痰ゃんは半ヴ泣きでつぶ竄やいた。†",
+    ("掾理女緒ち痰ゃんは半ヴきでつぶやいた。†",
     ""),
     # The woman was smashed in half crying.†
 
@@ -131,10 +131,10 @@ text_array = [
     # "There are times when Ant Pure Wannett's handkerchief doesn't even have one."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レは駅で烽もらったティッシャをポケットから取闔り出し、それで揩理女緒ち痰ゃんの顔竓や制梵服をふいて竄やった。†",
+    ("オレは駅で烽もらったティッシャをポケットから取闔り出し、それで揩理女緒ち痰ゃんの顔竓や制梵服をふいてやった。†",
     ""),
     # I took the tissue that I had received at the station from my pocket, and then wiped the face of my daughter Ochi Sphinja and her Sanskrit uniform to tamper with it.†
 

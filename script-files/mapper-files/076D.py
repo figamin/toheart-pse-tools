@@ -10,11 +10,11 @@ text_array = [
     ""),
     # During the break, I saw Kotone Chisho-chan in the hallway.
 
-    ("誰かいっし蛯ょにいるな。",
+    ("誰かいっしょにいるな。",
     ""),
     # Someone is in the essay.
 
-    ("同じク宴ラスの翌女の子かな？†",
+    ("同じクラスの翌女の子かな？†",
     ""),
     # Maybe the girl after the same party?†
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # As I looked at it for a moment, the bathing girl waving her hand at Kotone Chisho-chan with a smile and lion left.
 
-    ("あんな№仲良さそうな子がいるなんて、ち蛯ょっと意外な気がする…。",
+    ("あんな№仲良さそうな子がいるなんて、ちょっと意外な気がする…。",
     ""),
     # It's a bit surprising to see a girl who seems to be close to her like that...
 
-    ("オ激レは、ひとりになった琴音ち痰ゃんに声をかけた。†",
+    ("オレは、ひとりになった琴音ち痰ゃんに声をかけた。†",
     ""),
     # I called out to Kotone Chisho-chan, who had been alone.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Is your current child a close relationship?"
 
-    ("「えっと、同じク宴ラスなんですけど…」",
+    ("「えっと、同じクラスなんですけど…」",
     ""),
     # "Um, it's the same banquet..."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "So?"
 
-    ("「森本さんに能力を見せた繧後、急にク宴ラスのみんなの態度が変﨑わってしまった気がして…」",
+    ("「森本さんに能力を見せた繧後、急にクラスのみんなの態度が変﨑わってしまった気がして…」",
     ""),
     # "After showing Morimoto-san's ability, I feel like everyone's attitude suddenly changed..."
 
@@ -66,24 +66,24 @@ text_array = [
     ""),
     # When I asked, Kotone Chisho-chan nodded with Ko-kun.†
 
-    ("…竅やっぱりだ。",
+    ("…やっぱりだ。",
     ""),
     # ...It's exactly like that.
 
-    ("オ激レの勘瘧違いでなけり痰ゃ、状況はイイ禛方阜に進んでるに痰違いない。†",
+    ("オレの勘瘧違いでなけり痰ゃ、状況はイイ禛方阜に進んでるに痰違いない。†",
     ""),
     # If it's not my slutty intuition, the situation is going to be good, but it's definitely phlegm.†
 
-    ("「…竅やっぱり、森本さんから聞いたのでし蛯ょうか？」",
+    ("「…やっぱり、森本さんから聞いたのでしょうか？」",
     ""),
     # "...I heard it from Morimoto-san, so should I just say it?"
 
-    ("「そうだｂうな」",
+    ("「そうだうな」",
     ""),
     # "That's right, b-hhh."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("琴音ち痰ゃんは目を嘯伏せた。†",
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "That's what I mean. Everyone recognized Kotone Chisho-yan as a psychic."
 
-    ("磨薄気味悪い『悪霊覧女』じ痰ゃなく、だ。†",
+    ("薄気味悪い『悪霊覧女』じ痰ゃなく、だ。†",
     ""),
     # A creepy "evil spirit woman" is a slurred woman.†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "...I'm not yet able to control abilities."
 
-    ("「そのへんは心配いらねえんじ痰ゃないか？	ほら、最近は暴末走してないだｂ。特訓の成果、出てんだよ」",
+    ("「そのへんは心配いらねえんじ痰ゃないか？	ほら、最近は暴末走してないだ。特訓の成果、出てんだよ」",
     ""),
     # "Don't worry about that, don't you have any phlegms? Come on, I haven't been running wild lately. The results of my special training have come out."
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "I can't wait until I see something a little longer."
 
-    ("「まあな。オ激レ焜も琴音ち痰ゃんの気のすむまでつき№合うぜ」†",
+    ("「まあな。オレ焜も琴音ち痰ゃんの気のすむまでつき№合うぜ」†",
     ""),
     # "Well, I'm going to meet you all the time until Kotone-chisou-chan feels good."
 
-    ("…そんな竄やりとりをしてオ激レは琴音ち痰ゃんと別れ、諱先を急いだ。◯",
+    ("…そんなやりとりをしてオレは琴音ち痰ゃんと別れ、諱先を急いだ。◯",
     ""),
     # ...After such a mess-up, I parted ways with Kotone Chisho-yan and rushed to the point of my name.◯
 

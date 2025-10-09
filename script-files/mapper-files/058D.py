@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Aoi Scales Event 4 after selection B)†
 
-    ("「葵ち痰ゃんの教え福方がいいんだよ。ポイントが的確で墲わかり竄やすいよ」",
+    ("「葵ち痰ゃんの教え方がいいんだよ。ポイントが的確で墲わかりやすいよ」",
     ""),
     # "Aoi Chisho-yan's teachings are better. The key points are accurate and easy to understand."
 
-    ("「…增わ、п私はただ、以前自分が習ったことをそのまま教えただけで｢｢」",
+    ("「…わ、п私はただ、以前自分が習ったことをそのまま教えただけで｢｢」",
     ""),
     # "...But, I just taught me exactly what I had learned before and said, ""
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Be humble again."
 
-    ("「そ、それより烽も、竅やっぱり、こういう体を動かすことは本人のセンスですよ」†",
+    ("「そ、それより烽も、やっぱり、こういう体を動かすことは本人のセンスですよ」†",
     ""),
     # "And more, even if it's just that, it's up to you to move your body like this, it's up to you to feel the sense of your own."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ah. Well, since ancient times, the only thing that interests me was pretty quick to drink and drink."
 
-    ("「それはセンスのいい証衷拠ですよ。うら竄やましいです。",
+    ("「それはセンスのいい証衷拠ですよ。うらやましいです。",
     ""),
     # "That's a proof of taste. I'm jealous of it.
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # "It's a Tsubomori that's been trying hard to get the throbbing out."
 
-    ("「竅絶対にそれが葵ち痰ゃんのポイントだって。",
+    ("「絶対にそれが葵ち痰ゃんのポイントだって。",
     ""),
     # "That's definitely the key to Aoi Chisho-ya.
 
-    ("よし、オ激レ焜も葵ち痰ゃんみたく努力するぜー」†",
+    ("よし、オレ焜も葵ち痰ゃんみたく努力するぜー」†",
     ""),
     # Okay, I'll try my best as much as Aoi Chishonan."†
 
-    ("「はい、しっかり薰基礎ト激レーニングを積んで、筋力とスタミナをアップさせれば、п私なんかすぐに追い抜きますよ」",
+    ("「はい、しっかり薰基礎トレーニングを積んで、筋力とスタミナをアップさせれば、п私なんかすぐに追い抜きますよ」",
     ""),
     # "Yes, if you build up strong basic training and improve your strength and stamina, I'll quickly overtake you."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Haha, I wonder if there's a phlegm."
 
-    ("「いえ、竅絶対です。ただ、技術竢やセンスだけではだめですよ。",
+    ("「いえ、絶対です。ただ、技術竢やセンスだけではだめですよ。",
     ""),
     # "No, it's absolutely undoable. However, technical and skill alone is not enough.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Yeah, I'll do my best too, too."
 
-    ("「はい、いっし蛯ょに頑張闥りまし蛯ょう！」◯",
+    ("「はい、いっしょに頑張闥りましょう！」◯",
     ""),
     # "Yes, I'll do my best to all the espresso!" ◯
 

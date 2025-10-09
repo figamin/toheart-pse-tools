@@ -14,19 +14,19 @@ text_array = [
     ""),
     # "Damn it...?"
 
-    ("そう言って、縺上目づかいにオ激レの顔を覗き桙込んだ。†",
+    ("そう言って、縺上目づかいにオレの顔を覗き桙込んだ。†",
     ""),
     # With that in mind, I peered into my face and peered at my face.†
 
-    ("「瘁例によって保瀦健のほうはバッチ潟リなんだけど、物摯理が烽もう、最悪って感じ」",
+    ("「瘁例によって保瀦健のほうはバッチリなんだけど、物摯理が烽もう、最悪って感じ」",
     ""),
     # "As usual, Hole Ken is a perfect match, but the truthfulness seems to be the worst."
 
-    ("「どの竄問阮題？」",
+    ("「どの問題？」",
     ""),
     # "Which tampering questioning is it?"
 
-    ("「瘁例えば、竅問４だっけか？	エネ泣ルギー早資源のｗ点を言え、って竄問阮題があっただｂ？」",
+    ("「瘁例えば、問４だっけか？	エネルギー早資源のｗ点を言え、って問題があっただ？」",
     ""),
     # "For example, is it Question 4? Is there a question about how to say "The Late" lol, which is a quick resource for energy, and that's why you're so busy?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Yeah, there was" †
 
-    ("「全泊部が竄問阮題に出髀るなんて思ってなかったから、重要なрヤツしか覚えなかったし」",
+    ("「全泊部が問題に出髀るなんて思ってなかったから、重要なрヤツしか覚えなかったし」",
     ""),
     # "I never thought that all the Mall's club would be appearing in the question of tampering, so I only remembered the important ones."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Then, sniff a short sentence, say, sniff it."
 
-    ("「核分裂を烽説明すればいい竄やつね」",
+    ("「核分裂を烽説明すればいいやつね」",
     ""),
     # "You should explain nuclear fission, you should just say it."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "That kind of hot thing will forget in seconds."†
 
-    ("「そんな調子で、明坙日は蛯大苟丈夫？」",
+    ("「そんな調子で、明坙日は大苟丈夫？」",
     ""),
     # "With that kind of tone, are you sturdy on Mingshuin?
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Good luck, sphinja."
 
-    ("「はいはい、增わかってるよ」◯",
+    ("「はいはい、わかってるよ」◯",
     ""),
     # "Yes, yes, I know." ◯
 

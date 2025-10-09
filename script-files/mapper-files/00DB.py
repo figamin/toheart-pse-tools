@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I don't want to say it...
 
-    ("ひとつはっきりしていることは、竅補習確闃定だということだ。†",
+    ("ひとつはっきりしていることは、補習確闃定だということだ。†",
     ""),
     # One thing that is clear is that it is a confirmation of supplementary lessons.†
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Hehe..."
 
-    ("オ激レはがっくり肩を獅落とす。",
+    ("オレはがっくり肩を獅落とす。",
     ""),
     # My heart plucked my shoulders down.
 
-    ("前熨もって竄補習があるって墲わかっていれば、もう少し頑張齟れたと思うんだけどなあ。",
+    ("前熨もって補習があるって墲わかっていれば、もう少し頑張れたと思うんだけどなあ。",
     ""),
     # If I had known that there would be some supplementary lessons to tamper with the front gift, I think I'd have tried a little more.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Well, I'm not regretting it, and the hot springs are a celebration after the break.
 
-    ("ここは甘んじて竄補習を受けるとしよう。†",
+    ("ここは甘んじて補習を受けるとしよう。†",
     ""),
     # Let's just be content and take supplementary lessons here.†
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # On the day, it's a comforting party by yourself.
 
-    ("帰闍り支度を整えて、鞄を肩越しに引っかけると、オ激レは席を立った。◯",
+    ("帰闍り支度を整えて、鞄を肩越しに引っかけると、オレは席を立った。◯",
     ""),
     # I got ready to go home, hooked my bag over my shoulder, and I got up from my seat.◯
 
-    ("「ち蛯ょっとあんた、まだ帰んないでよ」",
+    ("「ちょっとあんた、まだ帰んないでよ」",
     ""),
     # "You're probably not going home yet."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Huh? Is it a place to go back?"
 
-    ("あかり烽もいっし蛯ょだ。†",
+    ("あかり烽もいっしょだ。†",
     ""),
     # Akari Hot is also a slut.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "...Please listen" †
 
-    ("「え、え？	それって、竅補習曙郁健ﾁてこと？」",
+    ("「え、え？	それって、補習曙郁健ﾁてこと？」",
     ""),
     # "What, what? Is that what you mean by Akebono Ikuken?"
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "No, you're not feeling well?"
 
-    ("「オ激レの実力なんて、し蛯ょせんはこんな烽もんなんだよ」†",
+    ("「オレの実力なんて、しょせんはこんな烽もんなんだよ」†",
     ""),
     # "My superb ability is such a hot thing."
 
-    ("「ねーねー、竅補習確闃定？」",
+    ("「ねーねー、補習確闃定？」",
     ""),
     # "Hey, are you sure you're getting the supplementary lesson?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Shut up. That's right, that's bad!"
 
-    ("ついにオ激レは開き直った。",
+    ("ついにオレは開き直った。",
     ""),
     # Finally, I was reopened.
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # Also, I'm gonna get mad.
 
-    ("どうせこの繧後、志保のрヤツから散々バカにされるだｂうからな。†",
+    ("どうせこの繧後、志保のрヤツから散々バカにされるだうからな。†",
     ""),
     # After this, Shiho's guy will be making fun of him a lot anyway.†
 
-    ("「竅やったーっ！",
+    ("「やったーっ！",
     ""),
     # "Yes!
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("志保の予想外な鰍リアクシ㏍ョンに、オ激レは福眉間にし墲わを寄せた。†",
+    ("志保の予想外な鰍リアクションに、オレは眉間にし墲わを寄せた。†",
     ""),
     # My guts throbbing throbbing at Shiho's unexpected choke.†
 
-    ("「志保熾もね、竅補習なの」",
+    ("「志保熾もね、補習なの」",
     ""),
     # "Shiho Taru is also a supplementary lesson."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Akari says with a wry smile.
 
-    ("「なんだ。おめーも竄補習か」",
+    ("「なんだ。おめーも補習か」",
     ""),
     # "What? Is it a supplementary lesson for you to tamper?"
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Not for females."
 
-    ("「…い竄や、お前の頭を考えると必然って気煖もするぜ」†",
+    ("「…いや、お前の頭を考えると必然って気煖もするぜ」†",
     ""),
     # "...I'm not going to get frustrated when I think about your head."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "What do you mean, that's it!"
 
-    ("「まあまあ、志保。ふたりでいっし蛯ょに竄補習なんだから、素直にｊばなき痰ゃ」",
+    ("「まあまあ、志保。ふたりでいっしょに補習なんだから、素直にｊばなき痰ゃ」",
     ""),
     # "Okay, Shiho. We're both going to tamper with the essay, so we'll just have to go through some sputum."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # Well, it's fine.†
 
-    ("「そうだ。このオ激レが特別につき№合って竄やるんだから、感謝するように」",
+    ("「そうだ。このオレが特別につき№合ってやるんだから、感謝するように」",
     ""),
     # "That's right. I'm going to be a special match and tamper with this, so I'm sure I'll be grateful."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # Shiho stomped at the floor.†
 
-    ("「オ激レに用ってそれだけか？	だったら今厓日は烽もう失邇礼するぜ。志保と同兼レベ泣ルだなんてシ㏍ョックでな」",
+    ("「オレに用ってそれだけか？	だったら今厓日は烽もう失邇礼するぜ。志保と同兼レベルだなんてショックでな」",
     ""),
     # "Is that all I should use for you? If that's the case now, I'll be sorry for the day. I'm not sure I'll be crying at the same level as Shiho."
 
@@ -182,11 +182,11 @@ text_array = [
     ""),
     # "What is that!"
 
-    ("じだんだ踏み続ける志保を繧後目に、オ激レは教室を出た。",
+    ("じだんだ踏み続ける志保を繧後目に、オレは教室を出た。",
     ""),
     # After Shiho continued to step on, I left the classroom.
 
-    ("テストの成績が悪いと、志保といっし蛯ょに竄補習ができる。",
+    ("テストの成績が悪いと、志保といっしょに補習ができる。",
     ""),
     # If you have poor test results, you can do tampering with Shiho and Ebi.
 

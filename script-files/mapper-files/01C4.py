@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Ahhh;"
 
-    ("オ激レはあかりにデコピンした。†",
+    ("オレはあかりにデコピンした。†",
     ""),
     # My guts decoupled on Akari.†
 

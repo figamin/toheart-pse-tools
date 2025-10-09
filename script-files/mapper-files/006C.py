@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The April 29th day of Shizuki is over.
 
-    ("艨ゆっくりと、意識が唐遠くなる…。◯",
+    ("艨ゆっくりと、意識が遠くなる…。◯",
     ""),
     # Slowly, my consciousness began to fade away...◯
 

@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "How are you going to say that?"
 
-    ("「どーしてって、オ激レの実力なんて、こんな烽もんだよ」",
+    ("「どーしてって、オレの実力なんて、こんな烽もんだよ」",
     ""),
     # "What do you think? My superb ability is such a hot thing."
 
@@ -34,19 +34,19 @@ text_array = [
     ""),
     # "You don't even say anything like Akari."
 
-    ("「アカ潟リ、のこと、增わかってるネ！」",
+    ("「アカリ、のこと、わかってるネ！」",
     ""),
     # "I know everything about Akagatari!"
 
-    ("「增わかってねー諱よ」",
+    ("「わかってねー諱よ」",
     ""),
     # "I don't know, my name is."
 
-    ("「きっと次のテストはバッチ潟リだｃ」",
+    ("「きっと次のテストはバッチリだｃ」",
     ""),
     # "The next test will surely be a great latitude c."
 
-    ("「逆にプ激レッシャャーだぜ。その希望的観測」†",
+    ("「逆にプレッシャャーだぜ。その希望的観測」†",
     ""),
     # "On the other hand, it's a huge hit. That wishful thinking"†
 

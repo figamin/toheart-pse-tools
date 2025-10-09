@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "...Do you like amusement parks?"
 
-    ("「い竄や、好きって艪ゆーか、行ってみたい場鰹所の候竚補には加えたいだｂ？」",
+    ("「いや、好きってゆーか、行ってみたい場鰹所の候竚補には加えたいだ？」",
     ""),
     # "Is it a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of
 
-    ("「ニッポンの遊園地って、Ｄ奄ｉ唐入唐入盾ｏ獅ｎｂ凾ｙ撃ｌ≠ａ獅ｎрｄ？」†",
+    ("「ニッポンの遊園地って、Ｄ奄ｉ入入盾ｏ獅ｎ凾ｙ撃ｌ≠ａ獅ｎрｄ？」†",
     ""),
     # "Is Japan's amusement park where you can see the shield of the Amusement Park in D Amai Tang and Tang and Tang and Tang and lion ≠a lion?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "What else?"
 
-    ("「…他に烽も、いｂいｂあるだｂ？」",
+    ("「…他に烽も、いいあるだ？」",
     ""),
     # "...Is there any other hot springs too?"
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # ...Um, when you think about it, there is only one amusement park in Japan that is famous for, and there is also Hot...
 
-    ("縺後は地元の人間しか知迺らないような撃レベ泣ルの遊園地ばかりだ。†",
+    ("縺後は地元の人間しか知迺らないような撃レベルの遊園地ばかりだ。†",
     ""),
     # After that, there are amusement parks where only locals know about them are at high levels of tears.†
 
-    ("「增わりぃ、冝日本には撃レベ泣ルのｂ高い遊園地は他にないらしい…」",
+    ("「わりぃ、冝日本には撃レベルの高い遊園地は他にないらしい…」",
     ""),
     # "It seems there is no other amusement park in Japan where you can get high level of attack..."
 
-    ("少なくと烽も、オ激レの知髓る限闌りは。",
+    ("少なくと烽も、オレの知髓る限りは。",
     ""),
     # At least, the only way I can get a sense of knowledge.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Where do you want to go?"
 
-    ("「まあ、いーじ痰ゃんか。海と山以外に烽も行くとこｂはあるよ、って話をしたかったんだ」†",
+    ("「まあ、いーじ痰ゃんか。海と山以外に烽も行くとこはあるよ、って話をしたかったんだ」†",
     ""),
     # "Well, you know, phlegm. I wanted to tell you that there are places where there are other places where you can go besides the sea and mountains."
 
@@ -74,19 +74,19 @@ text_array = [
     ""),
     # "Ah, phlegm, which is better, the sea or the mountain?"
 
-    ("結局どっちか選ぶのか…。最燕初から、好きな福方を選べばよかったな。†",
+    ("結局どっちか選ぶのか…。最燕初から、好きな方を選べばよかったな。†",
     ""),
     # In the end, I wonder which one to choose...I wish I had chosen my favorite lucky form from the very beginning.†
 
-    ("…そして、オ激レは｢｢。",
+    ("…そして、オレは｢｢。",
     ""),
     # ...And then, I was like, ".
 
-    ("Ａ	竅やっぱ海かな。閨",
+    ("Ａ	やっぱ海かな。閨",
     ""),
     # A: I guess it's the sea after all.Relax
 
-    ("Ｂ	竅やっぱ山かな。閨",
+    ("Ｂ	やっぱ山かな。閨",
     ""),
     # B I guess it's mountain after all.Relax
 

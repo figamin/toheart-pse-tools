@@ -2,7 +2,7 @@
 # Source file: 07A0.txt
 
 text_array = [
-    ("（琴音	回秤数イベントＰＳ）閨（ハイブ潟リッド）†",
+    ("（琴音	回秤数イベントＰＳ）閨（ハイブリッド）†",
     ""),
     # (Kotone Scales Event PS) (Hibugata Lid)†
 

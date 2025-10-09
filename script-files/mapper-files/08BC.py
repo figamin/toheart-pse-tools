@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Gakuremi Scales Event Outside School 1) (School Gate 2)†
 
-    ("生徒玄関を出たとこｂで、志保に出初った。",
+    ("生徒玄関を出たとこで、志保に出初った。",
     ""),
     # When I left the student's entrance, I first came to Shiho.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "This is... my husband."
 
-    ("彼濫女は何竕やらおかしな福口調で近づいてきた。†",
+    ("彼濫女は何竕やらおかしな口調で近づいてきた。†",
     ""),
     # The girl approached with a strange tone of luck.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "What are you planning?"
 
-    ("オ激レが聞くと、志保はニсヤ潟リと笑い、艨ゆっくりと、",
+    ("オレが聞くと、志保はニсヤリと笑い、艨ゆっくりと、",
     ""),
     # When I heard, Shiho laughed, slowly,
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # He said.
 
-    ("オ激レは思寬わず、たじｂいでしまった。",
+    ("オレは思寬わず、たじいでしまった。",
     ""),
     # I didn't think about it and ended up yelling me out.
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # Shiho was approaching the next day with a threatening sentence that he didn't really understand.
 
-    ("…ったく、言えばいいんだｂ！†",
+    ("…ったく、言えばいいんだ！†",
     ""),
     # ...You can just say it b!†
 
-    ("「チンギ㏍ョ宴ラク…ガン…なんだっけ？」",
+    ("「チンギョラク…ガン…なんだっけ？」",
     ""),
     # "Gengijyu banquet is easy...cancer... what is it?"
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "She sees the fish and fallen cochleas, closes the moon!"
 
-    ("「チンギ㏍ョ宴ラクガンヘイゲツシャウカ。どーだ、言ったぞ」†",
+    ("「チンギョラクガンヘイゲツシャウカ。どーだ、言ったぞ」†",
     ""),
     # "Gengicc's feast, sang, yegetsusshauka. What's that? I said that?"
 
-    ("「そんなにハッキ潟リ言甯われたら、照齒れるじ痰ゃないのぉ」",
+    ("「そんなにハッキリ言甯われたら、照齒れるじ痰ゃないのぉ」",
     ""),
     # "If you're so clear, you won't get enough phlegm to illuminate it."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "teeth?"†
 
-    ("「沈將魚視落蝸雁閉歯月羞花…。志保ち痰ゃんの、あまりのｔしさに、宦魚は沈み、鳥のカ潟リは獅落ち、氏月煬も隠皷れ、花煢もしぼんでしまうって意味の、古い言葉譌よ」",
+    ("「沈將魚視落蝸雁閉歯月羞花…。志保ち痰ゃんの、あまりのｔしさに、宦魚は沈み、鳥のカリは獅落ち、氏月煬も隠皷れ、花煢もしぼんでしまうって意味の、古い言葉譌よ」",
     ""),
     # "The old words mean that the fish are shining and the cattle goose close to the moon... The fish are so terribly grove that it sinks, the bird's lion falls, and the moonfish are hidden, and the flowerfish also fades away."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "fool"
 
-    ("志保の消えた福方に呟いて、オ激レは烽歩き出した。◯",
+    ("志保の消えた方に呟いて、オレは烽歩き出した。◯",
     ""),
     # I muttered to Shiho's disappearance of Fukukata, and my ecstasy started walking around.◯
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Ah, it's Remy..."
 
-    ("竅坂道の途湯で、ずっと前を行く撃レミィを見かけた。",
+    ("坂道の途湯で、ずっと前を行く撃レミィを見かけた。",
     ""),
     # At the onshore bath on the hill, I saw Geki Remy walking long ago.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # I wonder if the words Shiho used are real.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # A: Chase and call out to me.Relax
 
-    ("Ｂ	竅やっぱり竄やめる。閨",
+    ("Ｂ	やっぱりやめる。閨",
     ""),
     # B. I'm going to stop tampering after all.Relax
 

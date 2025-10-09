@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Cursive Commission"†
 
-    ("「とくそくじ蛯ょう？」",
+    ("「とくそくじょう？」",
     ""),
     # "Damn slut?"
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("「図草書委員会から返せって催促。で烽もオ激レ、なんか本借闔りてたっけか？」",
+    ("「図草書委員会から返せって催促。で烽もオレ、なんか本借闔りてたっけか？」",
     ""),
     # "The Cursive Script Committee asks you to give it back. And I was also extremely excited, did you borrow some books?"
 
-    ("「前の竄やつじ痰ゃないの？	いっし蛯ょに借闔りた竄やつ」",
+    ("「前のやつじ痰ゃないの？	いっしょに借闔りたやつ」",
     ""),
     # "Isn't there any phlegm from the previous tampering? The one that I borrowed from the epee?"
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「なんかタイト泣ルが面猪白そうだって」†",
+    ("「なんかタイトルが面猪白そうだって」†",
     ""),
     # "It looks like the tight crying is a bit of a frizzy" †
 
-    ("「ああ、そうい竄や、なんか借闔りたような…」",
+    ("「ああ、そういや、なんか借闔りたような…」",
     ""),
     # "Ah, it's like I've borrowed something..."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "That's what it means."
 
-    ("オ激レは机のｒを探ってみる。",
+    ("オレは机のｒを探ってみる。",
     ""),
     # I try to find the r on the desk.
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "Ah, I was buried while I was in the thinning textbook."
 
-    ("磨薄っぺらい本だからな。†",
+    ("薄っぺらい本だからな。†",
     ""),
     # It's a thin, polished book.†
 
-    ("「要は今厓日湯に返し痰ゃいいんだｂ？	冝放課繪後にで烽も寄ってくか」",
+    ("「要は今厓日湯に返し痰ゃいいんだ？	冝放課繪後にで烽も寄ってくか」",
     ""),
     # "The point is that you should just return it to the surgeon at the bayan bath now? Is it okay if I come over to the hot spring after the school is over?"
 
-    ("「で烽も、增わざ墲わざこんなの配ってるなんて、図草書委員煦も蛯大変だな」",
+    ("「で烽も、わざ墲わざこんなの配ってるなんて、図草書委員煦も大変だな」",
     ""),
     # "And it's tough for the cursive script committee member Han to say that he's bothering to hand out such things on purpose."
 

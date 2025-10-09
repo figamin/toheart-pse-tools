@@ -14,7 +14,7 @@ text_array = [
     ""),
     # That guy is, yes, @Suisuiya∴Ka.†
 
-    ("とはいえ≠普通に帰ったとこｂで、ばったり出初う確率は痰低い。",
+    ("とはいえ≠普通に帰ったとこで、ばったり出初う確率は痰低い。",
     ""),
     # However, when you go back normally, the chances of hitting the ball and coming out are low.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # A Search.Relax
 
-    ("Ｂ	竅やめ、捜さない。閨",
+    ("Ｂ	やめ、捜さない。閨",
     ""),
     # B: Stop it, don't search.Relax
 

@@ -18,7 +18,7 @@ text_array = [
     ""),
     # A new morning.
 
-    ("オ激レは、うーんと伸びをする。",
+    ("オレは、うーんと伸びをする。",
     ""),
     # My heart is growing wildly.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I wonder if the sun will be coming to light on the day.†
 
-    ("「…でね、ク宴ラスの翌女の子たちが言うには、なんだかち蛯ょっと怖くて、声をかけにくいんだって」",
+    ("「…でね、クラスの翌女の子たちが言うには、なんだかちょっと怖くて、声をかけにくいんだって」",
     ""),
     # "...So, the girls after the banquet show that it's kind of scary and difficult to speak up."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # Akari said as she walked along the path erected by the morning light.†
 
-    ("「怖いって、オ激レが？」",
+    ("「怖いって、オレが？」",
     ""),
     # "Is it scary, I'm so excited?"
 
-    ("「うん。おかしいでし蛯ょ。で烽も、♂史ち痰ゃんは優しそうだし、話しかけ竄やすいんだって。変なの。ち痰ゃん烽も優しいのに」",
+    ("「うん。おかしいでしょ。で烽も、♂史ち痰ゃんは優しそうだし、話しかけやすいんだって。変なの。ち痰ゃん烽も優しいのに」",
     ""),
     # "Yes. That's weird. And Kano and Maki Shichi-Sho-chan seem kind and are easy to talk to. That's weird. Chi-Sho-chan is also kind."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Akari smiled smirking.†
 
-    ("「で烽も、どっちかっつーと、そいつらのほうが正しいと思うぜ。怖いかどうかはと烽もかく、優しくなんかねーからな、オ激レは」",
+    ("「で烽も、どっちかっつーと、そいつらのほうが正しいと思うぜ。怖いかどうかはと烽もかく、優しくなんかねーからな、オレは」",
     ""),
     # "And I think they're the correct ones either way. Whether they're scared or not, it's not a good thing, I'm not very kind."
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # When I reached the school gates.
 
-    ("うおッと目を見張髓るようなでっけー普黒塗闢りの鰍リムジンが竄停車した。",
+    ("うおッと目を見張髓るようなでっけー普黒塗闢りの鰍リムジンが停車した。",
     ""),
     # A stunning, stunning, crust-up lacquer-lacquered crust stopped.
 
-    ("香ローイス鴻ロ泣ルスだ。",
+    ("香ローイス鴻ロルスだ。",
     ""),
     # It's Koroisu Korou-Russ.
 
-    ("自動ドアが開き、£から艪ゆっくりと優莱に降闕り立ったのは、長い髪のおｏさまだった。†",
+    ("自動ドアが開き、£からゆっくりと優莱に降闕り立ったのは、長い髪のおｏさまだった。†",
     ""),
     # The automatic door opened and the long haired O-san slowly leapt from the door to Yulai.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Even though it's time for Chaiim to squeal soon, Kaji Ai is relaxing without turning the squeal.†
 
-    ("オ激レは近づいて声をかけた。",
+    ("オレは近づいて声をかけた。",
     ""),
     # I came nearer and called out.
 
@@ -111,7 +111,7 @@ text_array = [
     # "My name is, good morning, Senpai!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("振關りｌく先輩。",
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # It's a standard issue that I don't really understand when it comes to Hot and what he's thinking.
 
-    ("無の境地で烽も蛯悟ってそうな感じだ。†",
+    ("無の境地で烽も悟ってそうな感じだ。†",
     ""),
     # It seems like even Hou has come to realise the state of nothingness.†
 
@@ -139,7 +139,7 @@ text_array = [
     # And the senior said
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("おはようございます、と軽くおじぎした。†",
@@ -150,23 +150,23 @@ text_array = [
     ""),
     # "That's right, senior.
 
-    ("早くしないと遅齟れるぜ」",
+    ("早くしないと遅れるぜ」",
     ""),
     # If you don't get too early, you'll be late."
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("こくん。",
     ""),
     # Ko-kun.
 
-    ("ち蛯ょっと遅齟れて反梍応し、うなずいた。†",
+    ("ちょっと遅れて反梍応し、うなずいた。†",
     ""),
     # I was late and refuted to my anger and nodded.†
 
@@ -186,16 +186,16 @@ text_array = [
     ""),
     # "Oh, that's right. I didn't know anything at all."
 
-    ("「オ激レのすべてを知ってると思うなよ」",
+    ("「オレのすべてを知ってると思うなよ」",
     ""),
     # "Don't think you know everything about me."
 
-    ("「ふふ、ミステ潟リアスだね」",
+    ("「ふふ、ミステリアスだね」",
     ""),
     # "Hehe, that's mysterious lagoon."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なんだか馬鹿にされてるような気がした。†",

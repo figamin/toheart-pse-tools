@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I see, I don't think it's hot..."
 
-    ("オ激レがそうつぶ竄やくと、琴音ち痰ゃんは悲しげな目でオ激レを見繻上げた。†",
+    ("オレがそうつぶやくと、琴音ち痰ゃんは悲しげな目でオレを見上げた。†",
     ""),
     # When I muttered, Kotone Chisho-yan looked up at my passion with sad eyes.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Kotone Chishou-san..."
 
-    ("で烽もまあ、これで良かったんだｂ。",
+    ("で烽もまあ、これで良かったんだ。",
     ""),
     # And Hot too, this was good.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # I wonder if the girl is going to be like that for a long time...
 
-    ("℃囲のみんなから気味悪がられて、独闢りぼっちで、超能力が暴末走して、竅やがてみんなをｊ険な目に…。",
+    ("℃囲のみんなから気味悪がられて、独闢りぼっちで、超能力が暴末走して、やがてみんなをｊ険な目に…。",
     ""),
     # Everyone in the ℃ is creepy, they are alone, their psychic powers go wild, and eventually they end up facing everyone in a stern way...
 
-    ("いい墲わけないだｂっ！†",
+    ("いい墲わけないだっ！†",
     ""),
     # There's no way it's good!†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Kotone Chishou!"
 
-    ("オ激レは蛯大声で呼び止めた。†",
+    ("オレは大声で呼び止めた。†",
     ""),
     # I called out loud.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Huh, yes...?"
 
-    ("「こんなんでいい墲わけないぜ。オ激レは自分を善人だなんて思っち痰ゃいねえけどな、竅やっぱ琴音ち痰ゃんをほっとけるほど悪人で烽もねえっ」",
+    ("「こんなんでいい墲わけないぜ。オレは自分を善人だなんて思っち痰ゃいねえけどな、やっぱ琴音ち痰ゃんをほっとけるほど悪人で烽もねえっ」",
     ""),
     # "There's no way I can't do this. I can't believe I'm a good person, but I'm a bad guy and no temper after all."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Mr. Miss…"†
 
-    ("「オ激レはｌめた。琴音ち痰ゃんの力になるって。だから頑張窒うぜ」",
+    ("「オレはｌめた。琴音ち痰ゃんの力になるって。だから頑張窒うぜ」",
     ""),
     # "I've been in a hurry. It's going to help Kotone-chi Sphin-yan. So I'll do my best."
 
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # "Control..." †
 
-    ("「少しで烽もコント鴻ロールができるんだｂ？	じ痰ゃ頑張って全泊部コント鴻ロールしちまおうぜ」",
+    ("「少しで烽もコント鴻ロールができるんだ？	じ痰ゃ頑張って全泊部コント鴻ロールしちまおうぜ」",
     ""),
     # "Will you be able to control Hoo with just a little bit? Let's do our best and control the whole house club."
 
-    ("琴音ち痰ゃんはじっとオ激レを見つめて、",
+    ("琴音ち痰ゃんはじっとオレを見つめて、",
     ""),
     # Kotone Chisho-chan stared at me,
 
-    ("「…ありがとうございます。で烽も、無摶理なんです。今までに烽もコント鴻ロールしようと竄やってみたんですが、ダ＜メでした…」",
+    ("「…ありがとうございます。で烽も、無摶理なんです。今までに烽もコント鴻ロールしようとやってみたんですが、ダ＜メでした…」",
     ""),
     # "...Thank you. And Ho is also unconventional. I've tried tampering with Ho to control it, but it was a shame..."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # He put his eyes down.†
 
-    ("「それは今までの話だｂ？	これから成功させんだよ」",
+    ("「それは今までの話だ？	これから成功させんだよ」",
     ""),
     # "That's what we've been talking about up until now? We're going to make it a success now."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「オ激レはｌめたからな。琴音ち痰ゃんが超能力をコント鴻ロールできるようになるまで、オ激レが桙応㊨援して竄やるよ。な！」",
+    ("「オレはｌめたからな。琴音ち痰ゃんが超能力をコント鴻ロールできるようになるまで、オレが桙応㊨援してやるよ。な！」",
     ""),
     # "I got my geisha. I'll support you and tamper with it until Kotone Chisho-chan can control his psychic powers."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # A complicated table: Kotone's heartfelt sphinja.†
 
-    ("「もう遅い。オ激レに付きまと墲われるのがイсヤなら、さっさと超能力をコント鴻ロールするしかないかんな」",
+    ("「もう遅い。オレに付きまと墲われるのがイсヤなら、さっさと超能力をコント鴻ロールするしかないかんな」",
     ""),
     # "It's too late. If it's the one who's hanging out with me, then I have no choice but to control my supernatural powers quickly."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "What about the reply?"
 
-    ("オ激レが聞くと、",
+    ("オレが聞くと、",
     ""),
     # When I heard
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # I was able to make a promise for now.
 
-    ("オ激レ焜も、琴音ち痰ゃんのバックアップ態勢をととのえないとな。◯",
+    ("オレ焜も、琴音ち痰ゃんのバックアップ態勢をととのえないとな。◯",
     ""),
     # I also have to take the back-up position for Kotone Chisho-chan.◯
 

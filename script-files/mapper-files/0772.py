@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "I'm in trouble..."
 
-    ("秩白くアスファ泣ルトに弾ける雨粒をながめながら、オ激レはため息まじりに呟いた。†",
+    ("秩白くアスファルトに弾ける雨粒をながめながら、オレはため息まじりに呟いた。†",
     ""),
     # I muttered with a sigh, sighing, looking at the raindrops that pop out of the aspha crying slug.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Fortunately, he quickly escaped to the arcade in the shopping district in front of the station, and although he didn't get wet, he was stuck for about 10 minutes.
 
-    ("すぐに止むだｂうと思い本屋でヒマをつぶしていたが、雨はいまだ降闕り続いている。",
+    ("すぐに止むだうと思い本屋でヒマをつぶしていたが、雨はいまだ降闕り続いている。",
     ""),
     # I was trying to stop soon, but I was in the bookstore and was dying from the rain, but the rain was still on the way.
 
-    ("し蛯ょうがない。",
+    ("しょうがない。",
     ""),
     # There's no slut.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "…Hello"
 
-    ("「竅やあ」",
+    ("「やあ」",
     ""),
     # "Hey hey."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # He asked.
 
-    ("「い竄や、そうじ痰ゃなくて。雨、＝早く止まねーかなって思って」†",
+    ("「いや、そうじ痰ゃなくて。雨、＝早く止まねーかなって思って」†",
     ""),
     # "It's not a mess, it's not a phlegm to clean up. Rain = I thought it might stop soon." †
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "It was abruptly."
 
-    ("オ激レは苦笑した。†",
+    ("オレは苦笑した。†",
     ""),
     # I gave a wry smile.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Then Kotone Chisho-chan thought for a moment,
 
-    ("「…あの、增わたし傘搦持ってますから、諱よかったらお家までお翌送闡りしまし蛯ょうか？」",
+    ("「…あの、わたし傘搦持ってますから、諱よかったらお家までお翌送闡りしましょうか？」",
     ""),
     # "...Um, I have an umbrella, so if you like, I'll send you home the next day, would you like?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # That's what I said.
 
-    ("「お家…って、オ激レん家まで？」",
+    ("「お家…って、オレん家まで？」",
     ""),
     # "Home... you're right up to my slurp house?"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Yes...I'm sure it's close, right?"
 
-    ("「まあ、歩いて通える翌距離だし、近いってい竄やあ近いけど…。それで烽も、片道１５分くらいあるぜ」",
+    ("「まあ、歩いて通える翌距離だし、近いっていやあ近いけど…。それで烽も、片道１５分くらいあるぜ」",
     ""),
     # "Well, it's the next distance you can walk in, so it's close, so it's close... So there's about 15 minutes each way."
 

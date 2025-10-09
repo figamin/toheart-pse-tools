@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (The Remy Scale Event Return Road 1 LV1) (Selection Soto)†
 
-    ("「いまのとこｂ、いないぜ」",
+    ("「いまのとこ、いないぜ」",
     ""),
     # "B is not here now."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "N Shield oN Shield o, it's a little secret" †
 
-    ("「ったく、どっちにしｂ話が進まねえぞ」",
+    ("「ったく、どっちにし話が進まねえぞ」",
     ""),
     # "At that's the case, which way, the b story won't progress."
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # "It's fine. I can't proceed, so hot."
 
-    ("「增わかった墲わかった。この話はここで終尞わり」",
+    ("「わかった墲わかった。この話はここで終尞わり」",
     ""),
     # "I understand, I understand. This story ends here."
 
-    ("キ潟リがないので、もう竄やめよう。†",
+    ("キリがないので、もうやめよう。†",
     ""),
     # There's no Kigatari, so stop tampering.†
 
-    ("その冾日は、戟レミィといｂいｂ話したけど、最纃後まで『驕秘密』って竄やつが気になっていた。",
+    ("その冾日は、戟レミィといい話したけど、最纃後まで『驕秘密』ってやつが気になっていた。",
     ""),
     # On that day, I talked about B-B and B-B with War Remi, but I was curious about the kind of guy who said "Arata Secret" until the very end.
 
-    ("驕秘密にするくらいだから、竅やっぱ、いるんだｂうか…？◯",
+    ("驕秘密にするくらいだから、やっぱ、いるんだうか…？◯",
     ""),
     # It's just a secret, so I guess there's one after all...?◯
 

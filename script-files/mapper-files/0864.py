@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Absolutely..."
 
-    ("オ激レはち蛯ょっと意地悪く無感動に嘯答えた。",
+    ("オレはちょっと意地悪く無感動に嘯答えた。",
     ""),
     # My heart was so mean and unemotional.
 
@@ -19,7 +19,7 @@ text_array = [
     # When I was shown such a film, I would rather be gross or even boil.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("予想どおり、がっかりした様子の撃レミィ。†",
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # That was amazing.
 
-    ("オ激レは慌ててさっきの鰍リアクシ㏍ョンはジ㏍ョークだと切關り返そうとした。",
+    ("オレは慌ててさっきの鰍リアクションはジョークだと切關り返そうとした。",
     ""),
     # I hurriedly tried to retort the previous one, saying that the choriacsycn had been going out of nowhere.
 
-    ("「はははっ、ジ㏍ョークだって。すごすぎ｢｢」†",
+    ("「はははっ、ジョークだって。すごすぎ｢｢」†",
     ""),
     # "Hahaha, it's a Zikku. It's amazing ""†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "teeth?"†
 
-    ("「３本同椏時にｂ撃てたのに、閨手を抜いてたの」",
+    ("「３本同椏時に撃てたのに、閨手を抜いてたの」",
     ""),
     # "I was able to shoot B when I was in the same match, but I was slacking off the corner."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "I wish I had put out more balls and got some hot..."
 
-    ("「ほとんど一瞬でボール３個をｂ撃ち抜くだけで烽もすげえのに、もっといけるのか！？」",
+    ("「ほとんど一瞬でボール３個を撃ち抜くだけで烽もすげえのに、もっといけるのか！？」",
     ""),
     # "I almost instantly shoot three balls and get amazing hot water, so can I make more money?!"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # It's like a machine gun has phlegm.
 
-    ("「始めからホンキで竄やればよかったデス」",
+    ("「始めからホンキでやればよかったデス」",
     ""),
     # "I should have just tampered with it from the beginning."
 

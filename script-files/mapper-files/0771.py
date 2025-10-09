@@ -10,7 +10,7 @@ text_array = [
     ""),
     # It's lunch break at Kaku.
 
-    ("琴音ち痰ゃんのとこｂへ行ってみようか。",
+    ("琴音ち痰ゃんのとこへ行ってみようか。",
     ""),
     # Shall we go to Kotone Chisho-chan's place B?
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # B I won't go.Relax
 
-    ("竅やっぱ邪ｎ魔するとまずいしな。",
+    ("やっぱ邪ｎ魔するとまずいしな。",
     ""),
     # It would be bad if you were to interfere with it.
 
-    ("ここは唐遠慮しておこう。†",
+    ("ここは遠慮しておこう。†",
     ""),
     # Let's refrain from doing this here.†
 

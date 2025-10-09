@@ -2,7 +2,7 @@
 # Source file: 03A2.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（選択綜Ａ	待てよ、いっし蛯ょに帰汲うぜ。）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（選択綜Ａ	待てよ、いっしょに帰汲うぜ。）†",
     ""),
     # (Tomoko's Scales Event: Leaving School LV4) (Choice A: Wait, I'll return to the Ebi.)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Haha.
 
-    ("オ激レは委員長の手をつかんだ。†",
+    ("オレは委員長の手をつかんだ。†",
     ""),
     # I grabbed the chairman's hand.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "...Ah."
 
-    ("「いっし蛯ょに帰汲うぜ。な？」",
+    ("「いっしょに帰汲うぜ。な？」",
     ""),
     # "Well, I'll return to the Ebi. What?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # The chairman nodded.
 
-    ("オ激レはニンマ潟リ笑った。",
+    ("オレはニンマリ笑った。",
     ""),
     # I laughed a lot.
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "What? What happened?"
 
-    ("「い竄や、べつに」†",
+    ("「いや、べつに」†",
     ""),
     # "Tampering, it's all too bad" †
 
-    ("オ激レと委員長はいっし蛯ょに並んで烽歩いた。",
+    ("オレと委員長はいっしょに並んで烽歩いた。",
     ""),
     # My gang and the chairman all walked alongside the sluts.
 
@@ -67,7 +67,7 @@ text_array = [
     # "Whoa..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # At that moment, the two become strangely aware of each other.
 
-    ("なんなんだ、このノ潟リは？",
+    ("なんなんだ、このノリは？",
     ""),
     # What is this nogatari?
 
-    ("つき№合い始めたばっかりのｒ学生カップ泣ルじ痰ゃねーんだぞ。†",
+    ("つき№合い始めたばっかりのｒ学生カップルじ痰ゃねーんだぞ。†",
     ""),
     # I've only just started to get together, so I'm crying and sighing.†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Ah, wait, Chairman."
 
-    ("行こうとする委員長をオ激レは呼び止めた。†",
+    ("行こうとする委員長をオレは呼び止めた。†",
     ""),
     # I called out to the chairman who was about to go.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「また、いっし蛯ょに、帰汲うな？」†",
+    ("「また、いっしょに、帰汲うな？」†",
     ""),
     # "Don't you return to the essay again?"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # The chairman nodded a small head and leaned away shyly, ≠ quick to walk away.†
 
-    ("本末当、なんなんだ、このノ潟リは？",
+    ("本末当、なんなんだ、このノリは？",
     ""),
     # What's this really like, what's this nogatari?
 

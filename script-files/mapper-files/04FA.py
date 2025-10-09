@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "That's...it really doesn't make any sense."
 
-    ("「なによ、それならそんなに急ぐこと烽もないでし蛯ょ」",
+    ("「なによ、それならそんなに急ぐこと烽もないでしょ」",
     ""),
     # "What, then, there's no need to hurry that much, so let's go."
 
-    ("「なに烽も予阯定がないと、時間を無駄にしてるみたいで烽もったいないだｂ？」†",
+    ("「なに烽も予定がないと、時間を無駄にしてるみたいで烽もったいないだ？」†",
     ""),
     # "What is it that if you don't have a pre-order, it seems like you're wasting your time, so it's a waste of hot water?"
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # "It's an Eiji painting... I haven't been to see it recently."
 
-    ("「とこｂであんた、どんな映謇画が好み？」",
+    ("「とこであんた、どんな映謇画が好み？」",
     ""),
     # "What kind of film painting do you like in this b?"
 
-    ("「オ激レか？	オ激レは｢｢」",
+    ("「オレか？	オレは｢｢」",
     ""),
     # "Are you so excited? I'm so excited
 
-    ("Ａ	アクシ㏍ョン焜もの。閨",
+    ("Ａ	アクション焜もの。閨",
     ""),
     # A: A message from the accident.Relax
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # B Comedy.Relax
 
-    ("Ｃ	ホ宴ラーもの。閨",
+    ("Ｃ	ホラーもの。閨",
     ""),
     # C: A banquet.Relax
 

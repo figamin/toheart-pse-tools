@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "What?"
 
-    ("「どうせならいっし蛯ょに帰汲うよ」†",
+    ("「どうせならいっしょに帰汲うよ」†",
     ""),
     # "I'll return to the ephemeral anyway."
 
-    ("「い竄や、今厓日はどっかテキトーに寄闃り道して帰汲うと思ってっからさ」",
+    ("「いや、今厓日はどっかテキトーに寄闃り道して帰汲うと思ってっからさ」",
     ""),
     # "I'm not going to let you know, I thought I'd come along and go back to something casually on the day."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yeah, sputum is sputum."
 
-    ("オ激レはあかりを追い越し、学校を出た。◯",
+    ("オレはあかりを追い越し、学校を出た。◯",
     ""),
     # I overtook Akari and left school.◯
 

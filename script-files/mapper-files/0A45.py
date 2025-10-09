@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (B I didn't see it as a lover.)
 
-    ("「悪いけどオ激レ、竅やっぱり揩理女緒ち痰ゃんのこと、恋人ってふうには見鼬れないんだ」",
+    ("「悪いけどオレ、やっぱり揩理女緒ち痰ゃんのこと、恋人ってふうには見鼬れないんだ」",
     ""),
     # "I'm sorry, but I'm super excited, but I still can't look up to you as a lover."
 
-    ("オ激レは汲視諮を獅落としてつぶ竄やいた。",
+    ("オレは汲視諮を獅落としてつぶやいた。",
     ""),
     # I stomped the advice of the simulator.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "yes…"
 
-    ("掾理女緒ち痰ゃん烽も、竅や竄やうつむく姿勢になる。†",
+    ("掾理女緒ち痰ゃん烽も、ややうつむく姿勢になる。†",
     ""),
     # The throbbing woman also becomes a slut, tampering, and looking down.†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "That's true.
 
-    ("私、ガッカ潟リなんかしてない烽もの。こんなに№仲良くなれたんだから」",
+    ("私、ガッカリなんかしてない烽もの。こんなに№仲良くなれたんだから」",
     ""),
     # I'm a hot dish that I haven't done anything about.We've become so close."
 
-    ("その言葉は本心なんだｂうか。",
+    ("その言葉は本心なんだうか。",
     ""),
     # Those words are true b.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "I'm going back now. See you next time!" †
 
-    ("そんな揩理女緒ち痰ゃんの繧後撃姿を見洛送闡りながら、どこか心に痛みを感じているオ激レが、そこにいた。◯",
+    ("そんな揩理女緒ち痰ゃんの繧後撃姿を見洛送闡りながら、どこか心に痛みを感じているオレが、そこにいた。◯",
     ""),
     # As I watched the attack after the scene was shot, I was suddenly there, feeling some pain in my heart.◯
 

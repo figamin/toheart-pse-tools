@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho's Scales Event Return Road 2) (Chooses and Breaks)†
 
-    ("「增わりぃ、オ激レ、急いでっから」",
+    ("「わりぃ、オレ、急いでっから」",
     ""),
     # "I'm so excited, I'm in a hurry."
 
-    ("オ激レは足¢早に校蜊門を抜けた。",
+    ("オレは足¢早に校蜊門を抜けた。",
     ""),
     # My guts passed through the school gates quickly.
 

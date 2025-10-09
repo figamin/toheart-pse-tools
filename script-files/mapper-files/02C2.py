@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri° Kaku, Scales Event 1F LV3)Seri (Carrior 2)†
 
-    ("１階の廊下にｗ磯翌ﾆ、ついつい、窓からｒ鋳の福方を見骭る癖がついてしまった。",
+    ("１階の廊下にｗ磯翌ﾆ、ついつい、窓からｒ鋳の方を見骭る癖がついてしまった。",
     ""),
     # I found myself in the corridor on the first floor lol. Iso-no-ni couldn't help but get into the habit of looking at the Fukukata of R-cast through the window.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # A. Call out.Relax
 
-    ("Ｂ	そっとしておいて竄やる。閨",
+    ("Ｂ	そっとしておいてやる。閨",
     ""),
     # B Leave it alone and tamper with it.Relax
 

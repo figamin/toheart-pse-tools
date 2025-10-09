@@ -30,7 +30,7 @@ text_array = [
     ""),
     # ・†
 
-    ("そうい竄や、この間オ激レ焜もｉ史に『つ艪ゆだく』をすすめて竄やったっけ。",
+    ("そういや、この間オレ焜もｉ史に『つゆだく』をすすめてやったっけ。",
     ""),
     # That being said, I wonder if my other day, I also recommended "Tsuga-do-do" and tampered with I-Hisashi.
 

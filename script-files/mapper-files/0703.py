@@ -10,19 +10,19 @@ text_array = [
     ""),
     # "I wonder what..."
 
-    ("つい、そんな煮えきらない感想を福口にしてしまった。",
+    ("つい、そんな煮えきらない感想を口にしてしまった。",
     ""),
     # I ended up venting my feelings to the end.
 
-    ("そんなオ激レの態度を、志保は見逃さない。†",
+    ("そんなオレの態度を、志保は見逃さない。†",
     ""),
     # Shiho doesn't overlook my intense attitude.†
 
-    ("「ち蛯ょっとあんた、なんなのよ、そのはっきりしない態度は」",
+    ("「ちょっとあんた、なんなのよ、そのはっきりしない態度は」",
     ""),
     # "What are you, what are you? That unclear attitude?"
 
-    ("「はっきりしｂって言甯われて烽もな」",
+    ("「はっきりしって言甯われて烽もな」",
     ""),
     # "It's clear that b is said to be true, and there's no hot weather."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It's kind of a lie, but there's no point in deciding on it without thinking about it...†
 
-    ("「じ痰ゃあ、こんなのはどお？	あの子の回濶りには今回の蛯大予言以外に烽もいｂいｂ不思議なことがし蛯ょっち繧ゅう起こってるのよ」",
+    ("「じ痰ゃあ、こんなのはどお？	あの子の回濶りには今回の大予言以外に烽もいい不思議なことがしょっち繧ゅう起こってるのよ」",
     ""),
     # "Ah, what's this? In addition to the great prophecy of this, there are strange things happening in that child's recurring episodes."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Hey..." †
 
-    ("「瘁例えば、見つめるだけで汲窓ガ宴ラスをр割ったり、重い花瓶を動かしたりすんのよ」",
+    ("「瘁例えば、見つめるだけで汲窓ガラスをр割ったり、重い花瓶を動かしたりすんのよ」",
     ""),
     # "For example, just staring at me, I break the banquet and move the heavy vase."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Yo?”
 
-    ("「だから、なんだかなぁ…だｂ」",
+    ("「だから、なんだかなぁ…だ」",
     ""),
     # "So, I don't know... b."
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Don't be bothered if someone other than you are disliked"
 
-    ("「うっさい墲わね。そういう意味じ痰ゃなくて、感動するなら感動、否阡定するならはっきり否阡定しなさいよ。こっちまで怒っていいのかｊんでいいのか、增わかんなくなるじ痰ゃない」",
+    ("「うっさい墲わね。そういう意味じ痰ゃなくて、感動するなら感動、否阡定するならはっきり否阡定しなさいよ。こっちまで怒っていいのかｊんでいいのか、わかんなくなるじ痰ゃない」",
     ""),
     # "That's annoying. If it's not phlegm in that sense, it's moving, if it's moving, if it's denied, then it's clearly denied. Is it okay to get angry or get judging, but I don't know what phlegm is."
 
-    ("「驕るせ。どう感じるかは人それぞれだｂーが」",
+    ("「驕るせ。どう感じるかは人それぞれだーが」",
     ""),
     # "You're arrogant. How you feel depends on each person."
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Oh, I guess your motivation is enough to confirm whether your psychic powers are true or not."
 
-    ("志保の烽もっと烽もらしい福口ぶりに、ま墲わりの連中は余計に感心してしまった。",
+    ("志保の烽もっと烽もらしい口ぶりに、ま墲わりの連中は余計に感心してしまった。",
     ""),
     # The people who lived in Madama were even more impressed by Shiho's more of a hot and humorous way of saying goodbye.
 
-    ("オ激レが文蝠句をつけたことで、逆に信叶頼性が繧上がったことになる。",
+    ("オレが文蝠句をつけたことで、逆に信叶頼性が繧上がったことになる。",
     ""),
     # When I put on a sentence phrase, it actually improved my reliability.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # The only one who is good at Yuko is absolutely good.†
 
-    ("「增わかった墲わかった。キ潟リがねえから、オ激レ焜もこれ以繹上詮索しねえよ」",
+    ("「わかった墲わかった。キリがねえから、オレ焜もこれ以繹上詮索しねえよ」",
     ""),
     # "I understand, I understand. There's no Kigatari, so I won't even scrutinize it anymore."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # He retorted with a silly look on his face.†
 
-    ("志保のрヤツ、オ激レを言い奄負かしたつ烽もりでいるのか嬉しそうに、",
+    ("志保のрヤツ、オレを言い奄負かしたつ烽もりでいるのか嬉しそうに、",
     ""),
     # Shiho's р guy looked happy as he was a stolen man who defeated Amami.
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # ...But, the information about his story on the day of the day was rare, and it was also quite a collection of hot topics.
 
-    ("そのあとのガ宴ラスがр割れるとかは嘘くさいけど。",
+    ("そのあとのガラスがр割れるとかは嘘くさいけど。",
     ""),
     # It's a lie to see that the banquet after that breaks.
 
-    ("超能力少酪女｢｢姫武琴音ち痰ゃんってどんな子なんだｂうか。",
+    ("超能力少酪女｢｢姫武琴音ち痰ゃんってどんな子なんだうか。",
     ""),
     # A young woman with a psychic power: "What kind of girl is Himetake Kotone Chisho-chan?
 

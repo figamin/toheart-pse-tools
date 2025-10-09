@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hey, I'm a sputum. That guy is a very scary dog, so it's not a sputum."
 
-    ("オ激レは軽く声をかける。†",
+    ("オレは軽く声をかける。†",
     ""),
     # I called out lightly.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Although the shoddy girl was suddenly shook her head,
 
-    ("「增わうっ！」",
+    ("「わうっ！」",
     ""),
     # "Sniff!"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Gentaro likes me so much..."
 
-    ("竅や竄や気の毒に感じながら、仕緖方なくオ激レは家に帰驪ることにした。◯",
+    ("やや気の毒に感じながら、仕緖方なくオレは家に帰驪ることにした。◯",
     ""),
     # Feeling like a bit of frustration, tampering, and cruelty, I decided to go home without any guilt.◯
 

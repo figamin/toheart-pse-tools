@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aoi Likeability Event 2) Li (An incident, favorability level 15 or higher) Li (Lunch break other than Saturday) Li (Classroom) †
 
-    ("授業終了の烽鐘が鳴阮り、空腹に耐える苦行の４桙時間目が終尞わる。",
+    ("授業終了の烽鐘が鳴り、空腹に耐える苦行の４桙時間目が終尞わる。",
     ""),
     # The end of the class is the hot bell, and the fourth penance period for enduring hunger is over.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Yes, it's over."
 
-    ("チ㏍ョークのついた手を払いながら、教師が言った。†",
+    ("チョークのついた手を払いながら、教師が言った。†",
     ""),
     # The teacher said, brushing his arms against him.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Gagaga...!
 
-    ("委員長のｍ令とと烽もに、ク宴ラスヲの生徒たちが椅子を引きずって立ち繧上がった。",
+    ("委員長のｍ令とと烽もに、クラスヲの生徒たちが椅子を引きずって立ち繧上がった。",
     ""),
     # The chairman's M-Rei and the students from the banquet Rasou stood up, dragging their chairs.
 
-    ("まだ夢亦でノートをとり続けているрヤツ焜もいれば、潤居眠阮りしたまま起きないрヤツ焜もいる。†",
+    ("まだ夢亦でノートをとり続けているрヤツ焜もいれば、潤居眠りしたまま起きないрヤツ焜もいる。†",
     ""),
     # Some people still keep taking notes in their dreams, while others still fall asleep and don't wake up.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # The students scatter in the dust.
 
-    ("諱よう竄やく汲昼休み。",
+    ("諱ようやく汲昼休み。",
     ""),
     # I was in lunch break after a long time of deceit.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Let's go buy panya."
 
-    ("オ激レはｉ史の肩を叩いて言った。",
+    ("オレはｉ史の肩を叩いて言った。",
     ""),
     # I said, tapping I-Shi on the shoulder.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Yes, sister, I've been feeling bored ever since I started to feel red phlegm in my stomach."
 
-    ("「…そうい竄や、そうだっけ」",
+    ("「…そういや、そうだっけ」",
     ""),
     # "...Tampering about it, is that so?"
 
@@ -98,19 +98,19 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「ま、せっかくだし、たまにはパンは竄やめて、食堂の奄ランチで烽も食ってくるとすっか」",
+    ("「ま、せっかくだし、たまにはパンはやめて、食堂の奄ランチで烽も食ってくるとすっか」",
     ""),
     # "Well, since we're doing it, we'll stop tampering with bread once in a while, and eat some steam at Amami lunch at the cafeteria."
 
-    ("オ激レは頭の繧後撃で手を組んで、教室を出た。†",
+    ("オレは頭の繧後撃で手を組んで、教室を出た。†",
     ""),
     # After my head was over, I joined hands and left the classroom.†
 
-    ("食堂に行き痰ゃ、知ってる顔の何人かくらいいんだｂう。",
+    ("食堂に行き痰ゃ、知ってる顔の何人かくらいいんだう。",
     ""),
     # I went to the cafeteria and had a few people with familiar faces.
 
-    ("そいつとごいっし蛯ょさせて烽もらうとしようか。†",
+    ("そいつとごいっしょさせて烽もらうとしようか。†",
     ""),
     # Let's have him peek and get him a hot pot.†
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # "I'll be like, where are you going?"
 
-    ("「あの、ち蛯ょうど、諱先輩のとこｂへ行こうと思ってたんです」",
+    ("「あの、ちょうど、諱先輩のとこへ行こうと思ってたんです」",
     ""),
     # "Um, I was thinking of going to B, my elder sister."
 
-    ("「オ激レんとこ？	なんか用？」",
+    ("「オレんとこ？	なんか用？」",
     ""),
     # "I'm going to have a really hard time? Is it for something?"
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "Ah, yes."
 
-    ("閨手にしたバッグにチ宴ラ潟リと目を竄やると、葵ち痰ゃんは照齒れくさそうにｘいて、縺上目づかいに微笑んだ。†",
+    ("閨手にしたバッグにチラリと目をやると、葵ち痰ゃんは照齒れくさそうにｘいて、縺上目づかいに微笑んだ。†",
     ""),
     # When I grabbed my eyes on the bag in my hand, Aoi Chisho-yan looked shining and smiled at me.†
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # Aoi Chisho-chan nods in a thick, thick nod.†
 
-    ("「えっ、マジ！？	オ激レのために！？」",
+    ("「えっ、マジ！？	オレのために！？」",
     ""),
     # "Huh, seriously?! For my hard work!?"
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Nooooo! I'm so happy that guy is!!"
 
-    ("オ激レがはし痰ゃぐと、葵ち痰ゃんは慌ててオ激レの制梵服のそでをつかみ、",
+    ("オレがはし痰ゃぐと、葵ち痰ゃんは慌ててオレの制梵服のそでをつかみ、",
     ""),
     # When my hardcore sighs, Aoi Chisho-chan hurriedly grabbed the sleeves of my hardcore sighs,
 
@@ -198,11 +198,11 @@ text_array = [
     ""),
     # He said with a red face.†
 
-    ("「あ、增わりぃ、增わりぃ。つい」",
+    ("「あ、わりぃ、わりぃ。つい」",
     ""),
     # "Ah, it's a little, it's a little. It's a bit overwhelming."
 
-    ("オ激レは、ハハハと笑って頭を掻いた。",
+    ("オレは、ハハハと笑って頭を掻いた。",
     ""),
     # I grinned haha ​​and scratched my head.
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("オ激レと葵ち痰ゃんは屋繪上へとｌかった。◯",
+    ("オレと葵ち痰ゃんは屋繪上へとｌかった。◯",
     ""),
     # My guts and Aoi Chisho-yan went up to Yae.◯
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # When I opened the door, I saw a dazzling sunlight pouring in high spirits.
 
-    ("コンク潟リートの床の繧上に躍阮り出た葵ち痰ゃんは、",
+    ("コンクリートの床の繧上に躍り出た葵ち痰ゃんは、",
     ""),
     # Aoi Chisho-chan, who leapt up on the floor of the Konkugata Reet,
 
@@ -238,11 +238,11 @@ text_array = [
     ""),
     # Yes yes.
 
-    ("なんていうか、元気でさ墲わ竄やかな葵ち痰ゃんには眩しい陽射しがよく翌似㍽合うよな。†",
+    ("なんていうか、元気でさ墲わやかな葵ち痰ゃんには眩しい陽射しがよく翌似㍽合うよな。†",
     ""),
     # I mean, the bright, lively, silly sunshine will match the next day.†
 
-    ("「諱先輩、こっち！	ここに座闕りまし蛯ょう！」",
+    ("「諱先輩、こっち！	ここに座闕りましょう！」",
     ""),
     # "Ikusenpai, this is here! I'll be sitting here!"
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Ou"†
 
-    ("オ激レたちは、並んでｍかけた。",
+    ("オレたちは、並んでｍかけた。",
     ""),
     # We all lined up and headed out.
 
@@ -262,11 +262,11 @@ text_array = [
     ""),
     # On the side of the wire mesh is a distant cityscape.
 
-    ("ａ高芻台の繧上にあるｂ高校だけに、屋繪上から見渡す景色はまさに竄絶品だ。†",
+    ("ａ高台の繧上にある高校だけに、屋繪上から見渡す景色はまさに絶品だ。†",
     ""),
     # As it is a high school B on the rumination platform, the view from above is truly exquisite.†
 
-    ("「增わあ、諱よく見えるぅ」",
+    ("「わあ、諱よく見えるぅ」",
     ""),
     # "Wow, I can see it clearly."
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "It's the first time I've risen to Yae."
 
-    ("「ここから見骭るとさ、ほら、町がまるでミニチャアのセットみたいに見えるだｂ？」",
+    ("「ここから見骭るとさ、ほら、町がまるでミニチャアのセットみたいに見えるだ？」",
     ""),
     # "From here on, look, the town looks like a mini-chaa set, right?"
 
@@ -294,7 +294,7 @@ text_array = [
     ""),
     # "…picture?"
 
-    ("「ミニチャアセットを蛯大囁爆破！	火薬をセットして、こう、ドカーンと木っ端微塵に！」",
+    ("「ミニチャアセットを大囁爆破！	火薬をセットして、こう、ドカーンと木っ端微塵に！」",
     ""),
     # "A huge whisper of minicha assets! Set the gunpowder, and let it all go wild!"
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # "That's what's become popular these days.
 
-    ("高い烽金かけてｍったセットを蛯大破壊するのが流行ってんだよ」",
+    ("高い烽金かけてｍったセットを大破壊するのが流行ってんだよ」",
     ""),
     # It's popular to destroy a set that you spend expensive hot money on."
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # "...Whoa, is that so?"
 
-    ("「なんなら今度、いっし蛯ょに映謇画観に行こうか？」",
+    ("「なんなら今度、いっしょに映謇画観に行こうか？」",
     ""),
     # "If that's the case, should I go and see Eiji next time?"
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「冝日頃の福練習の息抜きがてらにさ」",
+    ("「冝日頃の練習の息抜きがてらにさ」",
     ""),
     # "It's a breather from my daily fortune practice."
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # "Okay, I promise you a phlegm."
 
-    ("オ激レは葵ち痰ゃんの手を取って強引に指切關りした。†",
+    ("オレは葵ち痰ゃんの手を取って強引に指切關りした。†",
     ""),
     # I took Aoi Chisho-yan's hand and forced my fingers to cut me.†
 
@@ -366,7 +366,7 @@ text_array = [
     ""),
     # "...Please don't expect too much."
 
-    ("袋から出してフタを開け、オ激レに手渡す。†",
+    ("袋から出してフタを開け、オレに手渡す。†",
     ""),
     # I took it out of the bag, opened the lid, and handed it to me.†
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # The meat that was served with the bento was orthodox but had a huge amount of hot content.
 
-    ("ご飯とおかずが半分ずつに仕切逅られていて、ご飯はたまごとひき肉のそぼｂがけ、おかずはハンバーグにウインナー、＝メンチカツにコ鴻ロッケが入っている。†",
+    ("ご飯とおかずが半分ずつに仕切逅られていて、ご飯はたまごとひき肉のそぼがけ、おかずはハンバーグにウインナー、＝メンチカツにコ鴻ロッケが入っている。†",
     ""),
     # The rice and side dishes are divided into halves, with eggs and minced meat on top, the side dishes are hamburger and wieners, and the minced meat cutlet and the kokoro rocket.†
 
@@ -382,23 +382,23 @@ text_array = [
     ""),
     # "Wow, it's so amazing!"
 
-    ("オ激レはハシを取闔り出した。",
+    ("オレはハシを取闔り出した。",
     ""),
     # I started taking the snap.
 
-    ("「見た目は派阡手か烽もしれないですけど、たいした烽ものじ痰ゃないですよ。ク潟リームコ鴻ロッケなんて、竅冷凍燗ものですし…」†",
+    ("「見た目は派阡手か烽もしれないですけど、たいした烽ものじ痰ゃないですよ。クリームコ鴻ロッケなんて、冷凍燗ものですし…」†",
     ""),
     # "It looks like it's a bit of a frizzy or hot, but it doesn't have much heat. Kugata Limco Korokke is made from frozen sake..." †
 
-    ("「はは、そんなの魔当たり前だｂ？	あれっ、で烽も、このハンバーグは…」",
+    ("「はは、そんなの魔当たり前だ？	あれっ、で烽も、このハンバーグは…」",
     ""),
     # "Haha, that's obvious b? Huh, and even Hot, this hamburger is..."
 
-    ("「あ、それはр私の手詩闕りです。ち蛯ょっと形が変ですけど…」",
+    ("「あ、それはр私の手詩闕りです。ちょっと形が変ですけど…」",
     ""),
     # "Ah, that's my handwriting. The shape is strange though..."
 
-    ("「い竄や、そんなことはない。スゲーうまそうだぞ。それにして烽も手詩闕りとは竄やるじ痰ゃん。じ痰ゃあ、この≠メンチカツは？」†",
+    ("「いや、そんなことはない。スゲーうまそうだぞ。それにして烽も手詩闕りとはやるじ痰ゃん。じ痰ゃあ、この≠メンチカツは？」†",
     ""),
     # "It's not that I'm tampering. It looks really good. And even Hot is a hand-posting guy, so you can tamper with this. What about this ≠menchikatsu?"
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # "So, to be honest, most of the time, I've helped my mother and got some hot food."
 
-    ("「そう竄やって、母から子へ、子から孫へと、家薗の味は伝崧わっていく烽ものさ。きっとこのお弁抹当燗も、葵ち痰ゃんち繧代々の味なんだよな」",
+    ("「そうやって、母から子へ、子から孫へと、家薗の味は伝崧わっていく烽ものさ。きっとこのお弁抹当燗も、葵ち痰ゃんち繧代々の味なんだよな」",
     ""),
     # "The taste of Iezono, which is transmitted from mother to child, from child to grandchild, is a hot topic. I'm sure this bento-karao has a taste that has been around for generations."
 
@@ -466,7 +466,7 @@ text_array = [
     ""),
     # "Really, really, really! A woman who's gonna go out!"
 
-    ("「增わあ、諱よかった」",
+    ("「わあ、諱よかった」",
     ""),
     # "Ahhh, that's good."
 
@@ -474,11 +474,11 @@ text_array = [
     ""),
     # Aoi Chisho-ya stroking her breasts down with relief and stroking her.†
 
-    ("「お福口に№合寘わなかったらどうしようかと思ってたんですよ」",
+    ("「お口に№合寘わなかったらどうしようかと思ってたんですよ」",
     ""),
     # "I was wondering what I would do if I didn't get a No. 1 snake in the Fukuguchi area."
 
-    ("「い竄や、おいしいよ、本末当に。それより烽も、ほらっ、葵ち痰ゃん烽も食べなよ」",
+    ("「いや、おいしいよ、本末当に。それより烽も、ほらっ、葵ち痰ゃん烽も食べなよ」",
     ""),
     # "It's tasty, it's delicious, just to the end. Plus, come on, eat hot pot, Aoi Chisho-chan hot pot."
 
@@ -486,7 +486,7 @@ text_array = [
     ""),
     # "Ah, yes, that's right."
 
-    ("「い竄や、うん、マジいけてるよ、これ」",
+    ("「いや、うん、マジいけてるよ、これ」",
     ""),
     # "Tampering, yes, seriously, this is fine."
 
@@ -498,11 +498,11 @@ text_array = [
     ""),
     # Aoi Chisho-chan is a good person in the field of stimulation and says that it doesn't have stimulation.
 
-    ("そんな彼濫女が一生恊懸命つくってくれた、というポイント焜もプ宴ラスして、とて烽もｔ味しく感じた。",
+    ("そんな彼濫女が一生恊懸命つくってくれた、というポイント焜もプラスして、とて烽もｔ味しく感じた。",
     ""),
     # The key point was that the woman who worked so hard to make her the whole life, and I felt a great taste.
 
-    ("オ激レはハシと福口を動かし続け、あっという間に全泊部たいらげた。",
+    ("オレはハシと口を動かし続け、あっという間に全泊部たいらげた。",
     ""),
     # I continued to move Hashi and Fukuguchi, and in no time I managed to get all the Tomaribu club.
 

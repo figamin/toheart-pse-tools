@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Kotone, Scales Event 3 PS) (Chounen, Reject early)†
 
-    ("「い竄やだね。",
+    ("「いやだね。",
     ""),
     # "You're not tampering with it.
 
-    ("危ないからってオ激レが逃げたら、琴音ち痰ゃんはどうすんだよ。このまま、独闢りぼっちで生きてくつ烽もりなのか？」†",
+    ("危ないからってオレが逃げたら、琴音ち痰ゃんはどうすんだよ。このまま、独闢りぼっちで生きてくつ烽もりなのか？」†",
     ""),
     # If I run away just because it's dangerous, what will Kotone Chisho-chan do?Will he continue living alone and be able to live like this?”†
 
-    ("オ激レは烽もう知っちまったからな。",
+    ("オレは烽もう知っちまったからな。",
     ""),
     # I've already learned about it.
 
@@ -26,31 +26,31 @@ text_array = [
     ""),
     # Kotone Chisho-chan's Hot is also keeping the distance from others the next time.
 
-    ("オ激レは自分のこと善人だなんて、思っち痰ゃいないが、ここで彼濫女を見捨てるほどの悪人で烽もないと思っている。†",
+    ("オレは自分のこと善人だなんて、思っち痰ゃいないが、ここで彼濫女を見捨てるほどの悪人で烽もないと思っている。†",
     ""),
     # I can't help but think that I'm a good guy, but I think that he's a bad guy and no good enough to abandon his overflowing woman here.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("琴音ち痰ゃんはオ激レの言葉に圧倒されたように見える。",
+    ("琴音ち痰ゃんはオレの言葉に圧倒されたように見える。",
     ""),
     # Kotone Chisho-yan seemed overwhelmed by my intense words.
 
-    ("オ激レはさらに続けた。†",
+    ("オレはさらに続けた。†",
     ""),
     # My ecstasy continued.†
 
-    ("「｢｢少しで烽もコント鴻ロールできるんだｂ？	じ痰ゃ頑張って全泊部コント鴻ロールしちまおうぜ」",
+    ("「｢｢少しで烽もコント鴻ロールできるんだ？	じ痰ゃ頑張って全泊部コント鴻ロールしちまおうぜ」",
     ""),
     # ""You can control the Hot with just a little bit? Let's do our best and control the whole house club."
 
-    ("「…ありがとうございます。で烽も、無摶理なんです。今までに烽もコント鴻ロールしようと竄やってみたんですが、ダ＜メでした…」",
+    ("「…ありがとうございます。で烽も、無摶理なんです。今までに烽もコント鴻ロールしようとやってみたんですが、ダ＜メでした…」",
     ""),
     # "...Thank you. And Ho is also unconventional. I've tried tampering with Ho to control it, but it was a shame..."
 
-    ("「それは今までの話だｂ？	これから成功させんだよ」",
+    ("「それは今までの話だ？	これから成功させんだよ」",
     ""),
     # "That's what we've been talking about up until now? We're going to make it a success now."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「オ激レはｌめたからな。琴音ち痰ゃんが超能力をコント鴻ロールできるようになるまで、オ激レが桙応㊨援して竄やるよ。な！」",
+    ("「オレはｌめたからな。琴音ち痰ゃんが超能力をコント鴻ロールできるようになるまで、オレが桙応㊨援してやるよ。な！」",
     ""),
     # "I got my geisha. I'll support you and tamper with it until Kotone Chisho-chan can control his psychic powers."
 
@@ -70,19 +70,19 @@ text_array = [
     ""),
     # A complicated table: Kotone's heartfelt sphinja.†
 
-    ("「もう遅い。オ激レに付きまと墲われるのがイсヤなら、さっさと超能力をコント鴻ロールするしかないかんな」",
+    ("「もう遅い。オレに付きまと墲われるのがイсヤなら、さっさと超能力をコント鴻ロールするしかないかんな」",
     ""),
     # "It's too late. If it's the one who's hanging out with me, then I have no choice but to control my supernatural powers quickly."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「返抹事は？」",
     ""),
     # "What about the reply?"
 
-    ("オ激レが聞くと、",
+    ("オレが聞くと、",
     ""),
     # When I heard
 
@@ -106,23 +106,23 @@ text_array = [
     ""),
     # It was the first time I've been given a hot spring after thinking about my abilities seriously... and so..."
 
-    ("感リ激したって訳だな。†",
+    ("感リしたって訳だな。†",
     ""),
     # That's how I was so moved.†
 
-    ("「おーけー。それを聞いて、オ激レ焜も竄やる気が出てきた」",
+    ("「おーけー。それを聞いて、オレ焜もやる気が出てきた」",
     ""),
     # "Oh, oh, after hearing that, I've become motivated to tamper with it."
 
-    ("「あの、諱よｂしくお願いします…」†",
+    ("「あの、諱よしくお願いします…」†",
     ""),
     # "Um, please give me your name..."
 
-    ("その冾日は、そんな竄やりとりをして琴音ち痰ゃんと別れた。",
+    ("その冾日は、そんなやりとりをして琴音ち痰ゃんと別れた。",
     ""),
     # On that day, they broke up with Kotone Chisho-yan, who had such tampering and exchanged.
 
-    ("オ激レ焜も琴音ち痰ゃんのバックアップ態勢をととのえないとな。◯",
+    ("オレ焜も琴音ち痰ゃんのバックアップ態勢をととのえないとな。◯",
     ""),
     # I also have to take the backup position for Kotone Chisho-chan.◯
 

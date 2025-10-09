@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Next time at school."
 
-    ("そう言って、オ激レは微笑んだ。",
+    ("そう言って、オレは微笑んだ。",
     ""),
     # With that, I smiled.
 

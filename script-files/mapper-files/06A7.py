@@ -2,11 +2,11 @@
 # Source file: 06A7.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	帰闍り道）閨（選択綜Ａ	本気で打つ！）†",
+    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜Ａ	本気で打つ！）†",
     ""),
     # (Muryuruchi, the balance event, return road) (Select A, seriously play!)†
 
-    ("オ激レは、パキーンッ！と、本気でパックを打った。",
+    ("オレは、パキーンッ！と、本気でパックを打った。",
     ""),
     # I'm so excited!And he seriously hit the puck.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Kakoooon!
 
-    ("パックは真っ直ぐ飛び、あっという間に、マ泣ルチのゴールに突き刺さる。†",
+    ("パックは真っ直ぐ飛び、あっという間に、マルチのゴールに突き刺さる。†",
     ""),
     # The pack flew straight and quickly thrusts into the goal of Makruchi.†
 
@@ -22,19 +22,19 @@ text_array = [
     ""),
     # "What?!"
 
-    ("マ泣ルチは何がなんだか墲わからない様子で、そんな声を繧上げた。",
+    ("マルチは何がなんだか墲わからない様子で、そんな声を繧上げた。",
     ""),
     # Makruchi seemed unsure of what was going on, and he let out a voice like that.
 
-    ("堰ラケットを構えたまま、ピク潟リと烽も動いていない。†",
+    ("堰ラケットを構えたまま、ピクリと烽も動いていない。†",
     ""),
     # The dam racket was still in place, but the heat was not moving.†
 
-    ("「ほらほら、ゴール前がガ宴ラ空きだぜ！」",
+    ("「ほらほら、ゴール前がガラ空きだぜ！」",
     ""),
     # "Look, there's a banquet in front of the finish line!"
 
-    ("オ激レは汲結構マジだった。",
+    ("オレは汲結構マジだった。",
     ""),
     # I was pretty serious about my hard work.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "There's still a long way to go.
 
-    ("よし、氈次はマ泣ルチの番だ。ガツーンと思いきり打ってこい！」",
+    ("よし、氈次はマルチの番だ。ガツーンと思いきり打ってこい！」",
     ""),
     # Okay, it's Makruchi's turn.Play hard and as hard as you can!”
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Ah, yes, I'll do my best."
 
-    ("マ泣ルチはペシッとパックを打った。",
+    ("マルチはペシッとパックを打った。",
     ""),
     # Muruki Ruchi hit the puck.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Hehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh†
 
-    ("「そらっ、もっと気㈲合いを入齠れｂっ！」",
+    ("「そらっ、もっと気㈲合いを入齠れっ！」",
     ""),
     # "No, come on, come on more!"
 
@@ -138,19 +138,19 @@ text_array = [
     ""),
     # ・†
 
-    ("…結局、マ泣ルチはオ激レから、一度燗もゴールを奪えなかった。",
+    ("…結局、マルチはオレから、一度燗もゴールを奪えなかった。",
     ""),
     # ...In the end, Makruchi couldn't score the goal even after getting hot.
 
-    ("「なんだ、なんだ、竅やる気あんのか？」",
+    ("「なんだ、なんだ、やる気あんのか？」",
     ""),
     # "What, what, are you motivated?"
 
-    ("「…ううっ、すみません。どう竄やら、增わたし、運動関係の性能は、かなり痰低いらしいです」",
+    ("「…ううっ、すみません。どうやら、わたし、運動関係の性能は、かなり痰低いらしいです」",
     ""),
     # "...Uh, sorry. I guess my performance related to exercise is pretty low."
 
-    ("「どう竄やらそうらしいな」",
+    ("「どうやらそうらしいな」",
     ""),
     # "I don't think it's going to be tampered with."
 

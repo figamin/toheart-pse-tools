@@ -2,7 +2,7 @@
 # Source file: 0109.txt
 
 text_array = [
-    ("（あかり	冝日付イベント	２）閨（好感度が		のとき）閨（髪型変﨑わったフ宴ラグがＯＮのとき）閨（４獅月７冾日）†",
+    ("（あかり	冝日付イベント	２）閨（好感度が		のとき）閨（髪型変﨑わったフラグがＯＮのとき）閨（４獅月７冾日）†",
     ""),
     # (Akari Pick Date Event 2) Pick (when the likeability is ) Pick (when the hairstyle has changed is turned on) Pick (when the banquet rug is turned on) Pick (4th illuminated month 7th day)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # The day after the very last spring break.
 
-    ("その夜、オ激レはあかりを誘って、ふたりで花見に出かけた。†",
+    ("その夜、オレはあかりを誘って、ふたりで花見に出かけた。†",
     ""),
     # That night, I invited Akari to go out to see the cherry blossoms together.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Cherry blossoms spread all over the place.
 
-    ("たくさんの電箔灯が明髢るく光闌り、蒼い夜空のキャャンパスに鮮竭やかなピンクをｂ浮かび繧上がらせていた。",
+    ("たくさんの電箔灯が明髢るく光り、蒼い夜空のキャャンパスに鮮竭やかなピンクを浮かび繧上がらせていた。",
     ""),
     # Many electric foil lights glowed brightly, and bright pink roses in the blue night sky.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # The cherry blossoms were in full bloom.†
 
-    ("淡い光に照迴らされたピンク色のトンネ泣ルを、あかりとふたりで肩を並べて烽歩く。",
+    ("淡い光に照迴らされたピンク色のトンネルを、あかりとふたりで肩を並べて烽歩く。",
     ""),
     # The two of them walk alongside the pink tunnel cry, illuminated by the pale light.
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # When the bathing air blew, the petals poured in and poured high, just like snow.†
 
-    ("「…增わあ」",
+    ("「…わあ」",
     ""),
     # "...Whoa."
 
-    ("浴風に垂乱齬れる髪を押さえて、あかりは蛯大きく目を見開いた。",
+    ("浴風に垂乱齬れる髪を押さえて、あかりは大きく目を見開いた。",
     ""),
     # Akari's eyes widened as she held her hair in a fluttering atmosphere.
 
-    ("こみ繧上げる感動をうまく言葉にあら墲わせず、諱よう竄やくひとこと、",
+    ("こみ繧上げる感動をうまく言葉にあら墲わせず、諱ようやくひとこと、",
     ""),
     # People who don't properly express the excitement they have in their words, but instead tamper with their feelings,
 
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # Her eyes narrowed enchantingly, and she continued to stare at the cherry blossoms as they drifted out quickly.
 
-    ("オ激レはというと、そんなあかりを見ながら、今厓日、ふたりだけで烽も花見にｗてよかった、と思っていた。†",
+    ("オレはというと、そんなあかりを見ながら、今厓日、ふたりだけで烽も花見にｗてよかった、と思っていた。†",
     ""),
     # As for me, watching the light, I was glad that it was just the two of us who were alone in the middle of the day, and that's why I was glad that we had a cherry blossom viewing session.†
 
-    ("本末当は痰例年どおり、♂史竡や志保をく墲わえたいつ烽もの≠メンツで、始終賑笂やかな花見を行う予阯定でいた。",
+    ("本末当は痰例年どおり、♂史竡や志保をく墲わえたいつ烽もの≠メンツで、始終賑笂やかな花見を行う予定でいた。",
     ""),
     # As usual, the main event was planned to hold a lively cherry blossom viewing event, with the addition of Masochist and Shiho.
 
-    ("だが、あいつらふたりと烽も土壇齟場になってキャャンセ泣ルの電話を入齠れてきた。",
+    ("だが、あいつらふたりと烽も土壇場になってキャャンセルの電話を入齠れてきた。",
     ""),
     # However, they and Ho were both in the last minute and were left with a call saying "Cyaanse" crying.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "...I'm glad I did it."
 
-    ("つぶ竄やくように、あかりが言った。",
+    ("つぶやくように、あかりが言った。",
     ""),
     # Akari said, slamming her.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("なんだｂう。",
+    ("なんだう。",
     ""),
     # What is it?
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # Light squints her hair and squints her eyes.†
 
-    ("オ激レは艪ゆっくりと、あかりに近づいた。",
+    ("オレはゆっくりと、あかりに近づいた。",
     ""),
     # My guts slowly approached Akari.
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # "...Is it phlegm?"
 
-    ("呼ばれた瞬間、はっと艪我に返った。†",
+    ("呼ばれた瞬間、はっと我に返った。†",
     ""),
     # The moment I was called, I suddenly came to my senses.†
 
-    ("なに竄やってんだ、オ激レ。",
+    ("なにやってんだ、オレ。",
     ""),
     # What are you doing, I'm super excited.
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # Kari asked with a soft smile.
 
-    ("「あ、い竄や、髪に、花びらがついてたからさ」",
+    ("「あ、いや、髪に、花びらがついてたからさ」",
     ""),
     # "Ah, it was because you had petals in your hair."
 
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # "Ah, there's a sphin and a spurt. I'll take it for you."
 
-    ("あかりはオ激レの肩に手をかけ、背伸びした。",
+    ("あかりはオレの肩に手をかけ、背伸びした。",
     ""),
     # Akari put her hand on my shoulder and stretched out.
 
-    ("まるでオ激レの頭をなでるようにして、髪についた桜の花びらを払う。†",
+    ("まるでオレの頭をなでるようにして、髪についた桜の花びらを払う。†",
     ""),
     # It was like I was stroking my head and brushing off the cherry blossom petals from my hair.†
 
@@ -191,10 +191,10 @@ text_array = [
     # Right in front of me was Akari's face.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("目の竄やり場に困闕り、オ激レは汲視諮を足熨もとに獅落とした。†",
+    ("目のやり場に困闕り、オレは汲視諮を足熨もとに獅落とした。†",
     ""),
     # I was struggling to find a way to tamper with my eyes, so I threw my thud into my feet.†
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "Oh, oh, sunkya."
 
-    ("目をそらして礼を言うオ激レ。",
+    ("目をそらして礼を言うオレ。",
     ""),
     # I looked away and thanked him.
 
@@ -218,15 +218,15 @@ text_array = [
     ""),
     # "What?"
 
-    ("「なんだか、ち蛯ょっとそ墲わそ墲わしてる感じ」",
+    ("「なんだか、ちょっとそ墲わそ墲わしてる感じ」",
     ""),
     # "It feels like I'm gonna squeal and crazy."
 
-    ("「…気のせいだｂ」",
+    ("「…気のせいだ」",
     ""),
     # "...it's just my imagination b."
 
-    ("オ激レはコホンとせき払いした。†",
+    ("オレはコホンとせき払いした。†",
     ""),
     # I coughed away.†
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # He smiled and said,
 
-    ("カップに高注いだ熱いおモ茶を福口にしながら、オ激レは、",
+    ("カップに高注いだ熱いおモ茶を口にしながら、オレは、",
     ""),
     # While pouring hot tea into a cup, I made a sip of the delicious taste of the tea,
 
@@ -262,11 +262,11 @@ text_array = [
     ""),
     # He nodded and replied.†
 
-    ("縺後撃手に両阯手を重ね、桜を眺めるあかり。",
+    ("縺後撃手に両手を重ね、桜を眺めるあかり。",
     ""),
     # After that, Akari layered the sword and looked at the cherry blossoms.
 
-    ("ほんの少し髪型が変﨑わったくらいなのに、なんだかオ激レの知ってるあかりじ痰ゃないような気がした。†",
+    ("ほんの少し髪型が変﨑わったくらいなのに、なんだかオレの知ってるあかりじ痰ゃないような気がした。†",
     ""),
     # Even though my hairstyle had only changed a little, I felt like I had no idea what kind of phlegm I knew.†
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # It's similar."
 
-    ("ぼそりとつぶ竄やくと、",
+    ("ぼそりとつぶやくと、",
     ""),
     # When I muttered,
 
@@ -294,7 +294,7 @@ text_array = [
     ""),
     # "What, sputum? I couldn't hear you well."
 
-    ("オ激レは、ずずず…とおモ茶をすする。",
+    ("オレは、ずずず…とおモ茶をすする。",
     ""),
     # My gei-re sips some omo tea with zuzuzu.
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # "Uh over there!"
 
-    ("オ激レは熱いおモ茶を一気に飲み干し、♀うく繧舌を火揄傷しそうになった。◯",
+    ("オレは熱いおモ茶を一気に飲み干し、♀うく繧舌を火揄傷しそうになった。◯",
     ""),
     # I drank all the hot tea all at once, and my female tongue almost burned and hurt her.◯
 

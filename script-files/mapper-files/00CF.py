@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (April 13th day of the month of the month) (my room)
 
-    ("昼ごｂに目が覚めた。",
+    ("昼ごに目が覚めた。",
     ""),
     # I woke up at lunchtime.
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # On the day of the day, there is a cloudy blue sky.
 
-    ("下に降闕りて、竅冷蔵庫のｒの烽もので、適俣当な朝飯阡（昼だけど）をｍって食べた。†",
+    ("下に降闕りて、冷蔵庫のｒの烽もので、適俣当な朝飯阡（昼だけど）をｍって食べた。†",
     ""),
     # We stopped downstairs and ate a hot dish from the fridge, which was served at lunchtime (although it was lunchtime).†
 
-    ("それからが竄問阮題だ。",
+    ("それからが問題だ。",
     ""),
     # Then comes the question of tampering.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # There's nothing to do with hot water.
 
-    ("と、なれば、＝普段竰やりそう烽もないことに、竅やる気が出てくる。†",
+    ("と、なれば、＝普段竰やりそう烽もないことに、やる気が出てくる。†",
     ""),
     # In that case, I feel motivated to find myself not gonna do anything about it normally.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # It pulls the bed futon up and snugs up, then sniffs out from the window onto the roof.
 
-    ("下から布団タタキを揩持ってきて、オ激レ焜も屋根に繧上がる。†",
+    ("下から布団タタキを揩持ってきて、オレ焜も屋根に繧上がる。†",
     ""),
     # I brought a futon tataki from underneath, and my slurping slurping rose to the roof.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Spread the futon over the roof and pound it with a sash.
 
-    ("布団纈上げなんて、自分で竄やるのは何年ぶりだｂう。",
+    ("布団纈上げなんて、自分でやるのは何年ぶりだう。",
     ""),
     # It's been a number of years since I've tampered with my own futon.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Until then, let's watch the hot springs on the video that's piled up.†
 
-    ("結局その冾日の午繻後は、ＴＶ漬けで過ごしてしまった。◯",
+    ("結局その冾日の午後は、ＴＶ漬けで過ごしてしまった。◯",
     ""),
     # In the end, after the day of the day, I spent time soaking up on TV.◯
 

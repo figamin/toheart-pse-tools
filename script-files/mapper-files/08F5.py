@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "It's around."
 
-    ("「Ｒｂ≠ａ撃ｌ撃ｌ凾ｙ？」",
+    ("「Ｒ≠ａ撃ｌ撃ｌ凾ｙ？」",
     ""),
     # "Rb≠a-shot l-shot l-shot l-y?"
 

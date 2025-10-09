@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "When you think of Ha-Jun Wai, you're going to spend a school trip in just one week and one day after the snake."
 
-    ("「おい、知迺らねえ人が聞いたら、修学旅行でハ純ワイに行くのかと思うだｂが」",
+    ("「おい、知迺らねえ人が聞いたら、修学旅行でハ純ワイに行くのかと思うだが」",
     ""),
     # "Hey, if someone who doesn't knows asks, I think they'll go to Hajjang Wai for a school trip."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "It's the same kind of hot spring" †
 
-    ("「バ〜カ、行き先は北海道だｂーが。北と入じ痰ゃ、えれー瘁違いだ」",
+    ("「バ〜カ、行き先は北海道だーが。北と入じ痰ゃ、えれー瘁違いだ」",
     ""),
     # "Ahhh, I'm heading to Hokkaido, but when I enter the north, I'm not so bad."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Anyway, don't you think you're looking forward to it? Hokkaido Sep."
 
-    ("オ激レの意見は｢｢。",
+    ("オレの意見は｢｢。",
     ""),
     # My opinion is, ".
 

@@ -2,11 +2,11 @@
 # Source file: 0690.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	声をかける）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	声をかける）†",
     ""),
     # (Muryuruchi, Scaling Event 2F LV3) (Choose A, Call)†
 
-    ("マ泣ルチに声をかけることにした。",
+    ("マルチに声をかけることにした。",
     ""),
     # I decided to call out to Murchiruchi.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # However, he just calls out to him and doesn't look like a phlegm.
 
-    ("ここはひとつ、最新型の≠メイド鴻ロボットがどれほどの烽ものか、性能のほどをテストして竄やｂう。",
+    ("ここはひとつ、最新型の≠メイド鴻ロボットがどれほどの烽ものか、性能のほどをテストしてやう。",
     ""),
     # Here we have to test the performance of the latest model, Maid Kou robot, and test its performance.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # It's a test of search capabilities.†
 
-    ("「お〜い、マ泣ルチぃ〜」",
+    ("「お〜い、マルチぃ〜」",
     ""),
     # "Hey, I'm crying!"
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "?"
 
-    ("「オ激レだ、だ〜〜〜っ」",
+    ("「オレだ、だ〜〜〜っ」",
     ""),
     # "I'm super excited, huh..."
 
-    ("マ泣ルチがこっちをｌくより先に、ささっと、横の教室のｒへと隠皷れる。",
+    ("マルチがこっちをｌくより先に、ささっと、横の教室のｒへと隠皷れる。",
     ""),
     # Before Ruchi could stumble over me, she quickly hid into the classroom next to me.
 
@@ -42,27 +42,27 @@ text_array = [
     ""),
     # "Ah, hello, san, ""Ah, huh?!"
 
-    ("誰熬もいない教室に隠皷れたオ激レは、声をひそめて笑った。",
+    ("誰熬もいない教室に隠皷れたオレは、声をひそめて笑った。",
     ""),
     # I was hiding in the classroom where no one else was, and laughed in a loud voice.
 
-    ("くふふふ、マ泣ルチの竄やつ、多分いまごｂは、キ㏍ョ鴻ロキ㏍ョ鴻ロま墲わりを見渡して、必死にオ激レを捜していることだｂう。†",
+    ("くふふふ、マルチのやつ、多分いまごは、キョ鴻ロキョ鴻ロま墲わりを見渡して、必死にオレを捜していることだう。†",
     ""),
     # Hehehe, this is the kind of guy who is crying, and I'm probably just looking around, I'm desperately trying to find my way.†
 
-    ("もう少ししたら、きっとこの教室に烽も捜しにｗ磯翌ｾｂう。",
+    ("もう少ししたら、きっとこの教室に烽も捜しにｗ磯翌ｾう。",
     ""),
     # I'm sure I'll be looking for some hot springs in this classroom lol Iso Isao Seb.
 
-    ("そしたらまた『增わっ』と驚かして竄やるか。",
+    ("そしたらまた『わっ』と驚かしてやるか。",
     ""),
     # Then they'll start to surprise them and tamper with it again.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("い竄や、また前みたいに気站絶させちまったらか墲わいそうだしな。",
+    ("いや、また前みたいに気站絶させちまったらか墲わいそうだしな。",
     ""),
     # It would be a shame if he had to stomp and turned the stomp again like before.
 
@@ -95,14 +95,14 @@ text_array = [
     # ・†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("声をひそめて待つこと１分あまり…。",
     ""),
     # I waited for just over a minute with my voice in my voice...
 
-    ("同じ場鰹所でじっと待っているが、マ泣ルチがｗ磯翌驪C配はいっこうにない。",
+    ("同じ場鰹所でじっと待っているが、マルチがｗ磯翌驪C配はいっこうにない。",
     ""),
     # They waited at the same bonito spot, but they were crying lol. There were no issues with Isozu's Chronicle.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # What is that guy?
 
-    ("あっさり冾諦め竄やがったか？†",
+    ("あっさり冾諦めやがったか？†",
     ""),
     # Did you give up quickly?†
 
@@ -122,27 +122,27 @@ text_array = [
     ""),
     # I guess it's not particularly bothering me, but continuing to clean up and remove them.
 
-    ("だとしたら、こう竄やって隠皷れているオ激レは、まるっきりバカみたいじ痰ゃないか。†",
+    ("だとしたら、こうやって隠皷れているオレは、まるっきりバカみたいじ痰ゃないか。†",
     ""),
     # If that's the case, then I'm a real idiot who's been tampering with this and hiding it, and I'm totally stupid.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レは教室の入闢り福口から、そ〜っと頭を出して様子をうかがってみた。†",
+    ("オレは教室の入闢り口から、そ〜っと頭を出して様子をうかがってみた。†",
     ""),
     # As I entered the classroom, I gently exposed my head and checked on the situation.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("いない…？",
     ""),
     # not present…?
 
-    ("オ激レを捜してるどこｂか、マ泣ルチの姿自体、すでに廊下にはなかった。",
+    ("オレを捜してるどこか、マルチの姿自体、すでに廊下にはなかった。",
     ""),
     # Somewhere b was searching for me, and the sight of Makruchi itself was no longer in the hallway.
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "...Ugh."
 
-    ("ずっとニсヤニсヤして隠皷れていたオ激レって、いったい…。",
+    ("ずっとニсヤニсヤして隠皷れていたオレって、いったい…。",
     ""),
     # I was hiding my hardcore sex for a long time and was always smiling and hiding...
 
@@ -178,15 +178,15 @@ text_array = [
     ""),
     # "...Huh?"
 
-    ("バケツ窿やｂモップといった掃恆除道搭鼡一式が、すべて出しっぱなしなことに気がついた。",
+    ("バケツ窿やモップといった掃恆除道搭鼡一式が、すべて出しっぱなしなことに気がついた。",
     ""),
     # I noticed that all the set of sweeping and removal roads, such as buckets and b-mops, were left out.
 
-    ("…ということは、マ泣ルチの竄やつ、まだこの近葛所にいるってことか？",
+    ("…ということは、マルチのやつ、まだこの近葛所にいるってことか？",
     ""),
     # ...Does that mean that the guy who's tampered with Makruchi is still in this nearby Kuzukushi area?
 
-    ("オ激レはま墲わりを見渡した。",
+    ("オレはま墲わりを見渡した。",
     ""),
     # I looked around the area.
 
@@ -210,11 +210,11 @@ text_array = [
     ""),
     # "...Uhhhh, come on. Come on."
 
-    ("ぐすぐすと半ヴ泣きで廊下に出てきたのは、マ泣ルチだった。†",
+    ("ぐすぐすと半ヴきで廊下に出てきたのは、マルチだった。†",
     ""),
     # When I squealed, I came out into the hallway half-crying crying.†
 
-    ("「マ、マ泣ルチ」",
+    ("「マ、マルチ」",
     ""),
     # "Ma, ma-cry."
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # ",Mr. Miss!"
 
-    ("オ激レの顔を見て、ぱっと目を開く。",
+    ("オレの顔を見て、ぱっと目を開く。",
     ""),
     # I looked at my face and opened my eyes.
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "Now, ummm!"
 
-    ("マ泣ルチはモ泣きながら、たたたっと、小柾走闡りにｋけ寄ってきた。†",
+    ("マルチはモきながら、たたたっと、小柾走闡りに駆け寄ってきた。†",
     ""),
     # The squealing ruchi started crying, pounding it and approaching the small runners.†
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # The search was really serious!!”
 
-    ("「…な、なんだよ、マ泣ルチ。あれからずっと捜してたのか？	オ激レはまた、てっきり…」",
+    ("「…な、なんだよ、マルチ。あれからずっと捜してたのか？	オレはまた、てっきり…」",
     ""),
     # "...What's that, murmur. Have you been searching for me ever since? I'm definitely going to be like that..."
 
@@ -250,15 +250,15 @@ text_array = [
     ""),
     # "Uhh, I'm in a voice, but I can't see the heavens either..."
 
-    ("「增わ、悪かった悪かった。",
+    ("「わ、悪かった悪かった。",
     ""),
     # "Bang, it was bad, it was bad.
 
-    ("泣くなよ、ほら」",
+    ("くなよ、ほら」",
     ""),
     # Don't cry, come on."
 
-    ("オ激レは、ポケットから携帯用ティッシャを取闔り出し、マ泣ルチの目燒もとをふいて竄やった。†",
+    ("オレは、ポケットから携帯用ティッシャを取闔り出し、マルチの目燒もとをふいてやった。†",
     ""),
     # I grabbed a portable tissue from my pocket and wiped the surface of my crying lurch and tampered with it.†
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # "...Uh, thank you."
 
-    ("ティッシャを手渡すとマ泣ルチは、チ〜ンッと鼻をかんだ。",
+    ("ティッシャを手渡すとマルチは、チ〜ンッと鼻をかんだ。",
     ""),
     # When I handed her the Tissha, Ruchi shuddered.
 
@@ -278,19 +278,19 @@ text_array = [
     ""),
     # "...Grrrrr."
 
-    ("丸めたティッシャで目燒もとを拭くマ泣ルチを見ながらオ激レは言った。",
+    ("丸めたティッシャで目燒もとを拭くマルチを見ながらオレは言った。",
     ""),
     # I said, watching Makuruchi wipe the surface with the rolled tissue.
 
-    ("Ａ	お前って、ホントにとｂいな〜。閨",
+    ("Ａ	お前って、ホントにといな〜。閨",
     ""),
     # A You really are b.Relax
 
-    ("Ｂ	この程度でモ泣くなよ。閨",
+    ("Ｂ	この程度でモくなよ。閨",
     ""),
     # B Don't cry at this level.Relax
 
-    ("Ｃ	諱よしっ、もうモ泣くな！閨",
+    ("Ｃ	諱よしっ、もうモくな！閨",
     ""),
     # C: Okay, don't cry anymore!Relax
 

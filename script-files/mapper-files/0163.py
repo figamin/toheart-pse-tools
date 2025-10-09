@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari Likeability Event 12) Continued (Sunset)†
 
-    ("いｂいｂな場鰹所を捜しま墲わってるうちに、陽は沈み、夕髣暮れになった。",
+    ("いいな場鰹所を捜しま墲わってるうちに、陽は沈み、夕髣暮れになった。",
     ""),
     # As I searched for the bonito spot, the sun set and the evening began to fall.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Memories of a distant young day.
 
-    ("オ激レは、記憶にｂ浮かぶあの場鰹所を捜した。†",
+    ("オレは、記憶に浮かぶあの場鰹所を捜した。†",
     ""),
     # I searched for that bonito spot that was in my memory.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Haa, haa, haa..."
 
-    ("オ激レは辺阨りを見渡した。",
+    ("オレは辺阨りを見渡した。",
     ""),
     # My ghost looked over at the bayashi.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Akari said as he stood up from the bench.
 
-    ("「はァ、はァ…。あ、あかり、オ激レ…」†",
+    ("「はァ、はァ…。あ、あかり、オレ…」†",
     ""),
     # "Haa, haa... Ah, Akari, I'm super excited..."†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…いま考えるとね、п私、小さいこｂは、ち痰ゃんのこと、怖かったの」",
+    ("「…いま考えるとね、п私、小さいこは、ち痰ゃんのこと、怖かったの」",
     ""),
     # "...Looking at this point, I, the little girl B, was scared of her."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Did you be scared?"
 
-    ("「…うん、諱よくイジ＜メ辜られてたし、いたずら烽もされたし、п私、いっつ烽もモ泣いてたよ」",
+    ("「…うん、諱よくイジ＜メ辜られてたし、いたずら烽もされたし、п私、いっつ烽もモいてたよ」",
     ""),
     # "...Yeah, I was often bullied, I was also mischievous, and I was always crying."
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # "Oh, maybe that was..."
 
-    ("オ激レはとぼけた振關りをした。†",
+    ("オレはとぼけた振關りをした。†",
     ""),
     # My heart cried out in a weird way.†
 
-    ("「だけど、ある冾日を境に、п私、ち痰ゃんのことが突然怖くなくなったの。ち痰ゃんの優しいとこｂを見ち痰ゃったから」",
+    ("「だけど、ある冾日を境に、п私、ち痰ゃんのことが突然怖くなくなったの。ち痰ゃんの優しいとこを見ち痰ゃったから」",
     ""),
     # "But one day, I suddenly stopped being scared of Chishonan. I saw the kind part of Chishonan B and shonan."
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「…へ、へへ。…增わ、增わりぃな。あんときのいいだしっぺはじつはこのオ激レだ」",
+    ("「…へ、へへ。…わ、わりぃな。あんときのいいだしっぺはじつはこのオレだ」",
     ""),
     # "...He, hehe... I'm not too shy. The good times I do have at the time are actually this crazy thing."
 
-    ("「竅やっぱり〜。そうだｂうと思った〜」",
+    ("「やっぱり〜。そうだうと思った〜」",
     ""),
     # "I thought so. I thought so b."
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "And I was happy too.
 
-    ("来てくれたこと烽もうれしかったけど、それまでずっと怖いと思っていたち痰ゃんの優しいとこｂが見鼬れたから」",
+    ("来てくれたこと烽もうれしかったけど、それまでずっと怖いと思っていたち痰ゃんの優しいとこが見鼬れたから」",
     ""),
     # I was happy that he came, but I was able to see the kindness of Chishonan, who I had always been scared of."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「それから、それまで以繹上にいっし蛯ょにいるようになった。…п私が自転車に乗齒れるようになったの烽も、逆繼上がり出女磯翌鱶ｂ､になったの烽も、泳げるようになったの烽も、みんな、ち痰ゃんに教えて烽もらったからだよね」",
+    ("「それから、それまで以繹上にいっしょにいるようになった。…п私が自転車に乗齒れるようになったの烽も、逆繼上がり出女磯翌鱶､になったの烽も、泳げるようになったの烽も、みんな、ち痰ゃんに教えて烽もらったからだよね」",
     ""),
     # "And then, I've been in the sluts as well....The reason I was able to ride my bike, the woman Iso the next woman Iso the next woman, and the fact that I was able to swim was because everyone told me the chishonan and got the hot pot."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # Akari nodded with a laughing face.†
 
-    ("「…いつ烽もいっし蛯ょにいるうちに、どんどんいｂんなことが見えてきて、そしてどんどん好きになって｢｢」",
+    ("「…いつ烽もいっしょにいるうちに、どんどんいんなことが見えてきて、そしてどんどん好きになって｢｢」",
     ""),
     # "...As I was there, I started to see things that were so big, and then I started to like them more and more, ""
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "Ahhh sputum..."
 
-    ("あかりは竄や墲わらかく微笑むと、◯",
+    ("あかりはや墲わらかく微笑むと、◯",
     ""),
     # When Akari smiles softly and says,
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "...!"
 
-    ("あかりのあたたかな唇が、竅やさしく、で烽もはっきりと、オ激レの唇に触齔れた。†",
+    ("あかりのあたたかな唇が、やさしく、で烽もはっきりと、オレの唇に触齔れた。†",
     ""),
     # Akari's warm lips were gentle and the hottest and the hottest lips were clearly touching my intense lips.†
 
@@ -250,11 +250,11 @@ text_array = [
     ""),
     # Sweet kiss.
 
-    ("あかりの優しい想いが、その竄や墲わらかな唇からじん墲わりと伝崧わってくる。",
+    ("あかりの優しい想いが、そのや墲わらかな唇からじん墲わりと伝崧わってくる。",
     ""),
     # Akari's gentle feelings come through her tampering and soft lips.
 
-    ("オ激レはあかりの背白に手を回した。†",
+    ("オレはあかりの背白に手を回した。†",
     ""),
     # I put my hands around Akari's back.†
 
@@ -267,7 +267,7 @@ text_array = [
     # The shadows of the two holding hands with lips and lips were stretching out in the distance to the side.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「あかり…」†",
@@ -314,11 +314,11 @@ text_array = [
     ""),
     # Akari said that and smiled and †
 
-    ("「п私はち痰ゃんが好き。それにち痰ゃんのことを好きな自分熾も好き。こんなふたりが蛯大好き！」",
+    ("「п私はち痰ゃんが好き。それにち痰ゃんのことを好きな自分熾も好き。こんなふたりが大好き！」",
     ""),
     # "пI like Chisho-chan. I also like Teru, who likes Chisho-chan. I love the two of them!
 
-    ("はっきりした福口調でそう言った。†",
+    ("はっきりした口調でそう言った。†",
     ""),
     # He said this in a clear tone of luck.†
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # "Akari..." †
 
-    ("「ち蛯ょっと欲張闥りすぎると思うけど、それがр私の希望だよ」",
+    ("「ちょっと欲張闥りすぎると思うけど、それがр私の希望だよ」",
     ""),
     # "I think you're too greedy, but that's my hope."
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "Akari"
 
-    ("オ激レはあかりを抱き締めた。†",
+    ("オレはあかりを抱き締めた。†",
     ""),
     # I hugged Akari.†
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # He said bluntly at the smoked ears.
 
-    ("「增わりぃ」",
+    ("「わりぃ」",
     ""),
     # "Stunned"
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「お前の言葉ではっきり墲わかったぜ。オ激レ、竅やっぱり、お前が好きだ」",
+    ("「お前の言葉ではっきり墲わかったぜ。オレ、やっぱり、お前が好きだ」",
     ""),
     # "I can clearly understand it from your words. I really love you, after all."
 
@@ -378,15 +378,15 @@ text_array = [
     ""),
     # "...What?!"
 
-    ("あかりは、はっと顔を繧上げて、蛛大きな目でオ激レの顔を見た。",
+    ("あかりは、はっと顔を繧上げて、蛛大きな目でオレの顔を見た。",
     ""),
     # Akari quickly lifted her face and looked at my face with her big eyes.
 
-    ("オ激レは少し照齒れて、目をそらす。†",
+    ("オレは少し照齒れて、目をそらす。†",
     ""),
     # My heart lit up a little and looked away.†
 
-    ("「堰初めて…だよな。はっきり福口にしてこんなこと言ったのは」",
+    ("「堰初めて…だよな。はっきり口にしてこんなこと言ったのは」",
     ""),
     # "It's the first time I've ever heard of the dam... I've clearly said this."
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "..., sphinja."
 
-    ("オ激レのシャャツを握驤るあかりの手に、き繧ゅっと、力が加妺わった。",
+    ("オレのシャャツを握驤るあかりの手に、き繧ゅっと、力が加妺わった。",
     ""),
     # A spurt of strength was lifted into Akari's hands, clutching my fierce shaat.
 
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # He tied his hands up and looked straight at Akari.†
 
-    ("「ホントはいつ言って烽もよかったんだ、このセ潟リフ。…なのに、ずっと待たせちまって、ゴ＜メンな」",
+    ("「ホントはいつ言って烽もよかったんだ、このセリフ。…なのに、ずっと待たせちまって、ゴ＜メンな」",
     ""),
     # "When did you really say that, this Segata riff be fine. But, I'm so sorry to keep you waiting."
 
@@ -410,15 +410,15 @@ text_array = [
     ""),
     # "...Uh, uh, uh, uh, uh, uh..., uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-    ("あかりはギャッと強くオ激レに抱きついた。",
+    ("あかりはギャッと強くオレに抱きついた。",
     ""),
     # Akari hugged me hard and hard.
 
-    ("オ激レ焜もｕみ桙込むように、そんなあかりの肩を抱き返す。†",
+    ("オレ焜もｕみ桙込むように、そんなあかりの肩を抱き返す。†",
     ""),
     # I hugged Akari's shoulders back, as if to sniff it.†
 
-    ("「お前の欲張闥り、できるだけオ激レがかなえて竄やるよ。…だから、その、お前熨も、いままで通闥り、オ激レの墲わがままにつき№合ってくれよ」",
+    ("「お前の欲張闥り、できるだけオレがかなえてやるよ。…だから、その、お前熨も、いままで通闥り、オレの墲わがままにつき№合ってくれよ」",
     ""),
     # "I'll give you greed as much as possible and tamper with it. So, please be sure to keep in touch with me as much as possible, as I'm selfish, and I'll meet you."
 
@@ -434,11 +434,11 @@ text_array = [
     ""),
     # Her hair smelled nice and slurping.†
 
-    ("幼なじみで、＊のように思っていて、オ激レのことなんで烽も墲わかっていて…。",
+    ("幼なじみで、＊のように思っていて、オレのことなんで烽も墲わかっていて…。",
     ""),
     # He's a childhood friend, and he thinks he's *, and because he's really about me, he knows about him too...
 
-    ("そんなすべてをふくめて、あかりはオ激レにとって、一番蜚大切な翌女の子なんだ。",
+    ("そんなすべてをふくめて、あかりはオレにとって、一番蜚大切な翌女の子なんだ。",
     ""),
     # With all this in mind, Akari is my most precious girl after the next day.
 

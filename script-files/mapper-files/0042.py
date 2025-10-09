@@ -26,11 +26,11 @@ text_array = [
     ""),
     # I never had any particular experience with anyone.†
 
-    ("学校を出て、いつ烽もの竄坂道を下驩る。",
+    ("学校を出て、いつ烽もの坂道を下驩る。",
     ""),
     # When did I leave school, I went down the hill.
 
-    ("ぺち痰ゃくち痰ゃおし痰ゃべりしながら帰驪る生徒、自転車でｋけ下濶りていく生徒、様々だ。",
+    ("ぺち痰ゃくち痰ゃおし痰ゃべりしながら帰驪る生徒、自転車で駆け下濶りていく生徒、様々だ。",
     ""),
     # There are a variety of students who go home while shaking their hair, and while they go down on their bikes.
 

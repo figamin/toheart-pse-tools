@@ -2,7 +2,7 @@
 # Source file: 0A64.txt
 
 text_array = [
-    ("「じ、じつはр私、今厓日、これからア泣ルバイトに行かなき痰ゃいけないんだ…」",
+    ("「じ、じつはр私、今厓日、これからアルバイトに行かなき痰ゃいけないんだ…」",
     ""),
     # "I'm actually, I'm not going to go to work part-time now, so I have to go to a new job..."
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Is it a test?"
 
-    ("「＊淫俣枻唐竄ﾁてるお仕鮪事だから」†",
+    ("「＊淫俣枻ﾁてるお仕鮪事だから」†",
     ""),
     # "*It's a tuna that's been tampering with the inumata" †
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "half?"†
 
-    ("「今厓日は本末当は、ティッシャ配阡りと、ゲームセンターと、チ宴ラシ配阡りと、コンビニがあったんだけど、ティッシャとチ宴ラシを配髞るのはお休み」",
+    ("「今厓日は本末当は、ティッシャ配阡りと、ゲームセンターと、チラシ配阡りと、コンビニがあったんだけど、ティッシャとチラシを配髞るのはお休み」",
     ""),
     # "On the day of the day, there were hand-in-hand tissues, game centers, flyers, and convenience stores, but we're not going to be on the way to share the teasers and flyers."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Ahaha.
 
-    ("私、体は艪丈夫なほうだから、このくらいどうってことないよ」",
+    ("私、体は丈夫なほうだから、このくらいどうってことないよ」",
     ""),
     # I have a strong body, so it's not that big of a problem."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # The girl laughs without a hitch.
 
-    ("「で烽も、テストのほうまで蛯大苟丈夫って墲わけにいかねーだｂ」",
+    ("「で烽も、テストのほうまで大苟丈夫って墲わけにいかねーだ」",
     ""),
     # "And I can't help but feel that the test is strong enough."
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "That's because..." †
 
-    ("「とこｂで、今厓日のテストどうだった？」",
+    ("「とこで、今厓日のテストどうだった？」",
     ""),
     # "At the moment, how was the test on the day?"
 
-    ("「オ激レか？	まあ、そこそこかな」",
+    ("「オレか？	まあ、そこそこかな」",
     ""),
     # "Are you so intense? Well, maybe it's pretty good."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Wow, that's impressive."
 
-    ("「い、い竄や」",
+    ("「い、いや」",
     ""),
     # "No, it's tampering."
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # Yes, there's no hot water, really.†
 
-    ("「あの、じつは墲わからないとこｂがあって…、も、もし、諱よ、諱よかったら、ち蛯ょっと教えてくれないかな…？」",
+    ("「あの、じつは墲わからないとこがあって…、も、もし、諱よ、諱よかったら、ちょっと教えてくれないかな…？」",
     ""),
     # "Well, there's actually a place where I don't understand... But, if you like, I'd like to hear you, could you please let me know...?"
 
-    ("「え？	オ激レが？」",
+    ("「え？	オレが？」",
     ""),
     # "Huh? I'm so excited?"
 

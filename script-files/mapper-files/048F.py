@@ -10,11 +10,11 @@ text_array = [
     ""),
     # This time I decided to change my mouth and try to act like I was letting go.
 
-    ("志保のрヤツ、きっと困闕り出すだｂう。",
+    ("志保のрヤツ、きっと困闕り出すだう。",
     ""),
     # Shiho's guy will surely start to get in trouble.
 
-    ("「へっ…、オ激レの言うことが墲わからないようじ痰ゃ、まだまだだな…」",
+    ("「へっ…、オレの言うことが墲わからないようじ痰ゃ、まだまだだな…」",
     ""),
     # "Heh... I have no time to keep from understanding what I'm saying, but I still have a long way to go..."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I thought you were a good guy, but how did you think you're so absorbed in your child?"
 
-    ("オ激レは、あ墲われみをたっぷり桙込めて言った。†",
+    ("オレは、あ墲われみをたっぷり桙込めて言った。†",
     ""),
     # I said with plenty of sluts.†
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # "And so.
 
-    ("もうオ激レの手には奄負えないな…。な〜んて」",
+    ("もうオレの手には奄負えないな…。な〜んて」",
     ""),
     # I can't take over my hard work anymore...What?”
 
-    ("「そんな言い福方されると、気になるじ痰ゃないのよ！」",
+    ("「そんな言い方されると、気になるじ痰ゃないのよ！」",
     ""),
     # "When you say such a good thing, you'll be bothered by the phlegm!"
 
-    ("「もういいって、オ激レの言ったことは忘齧れてくれ」†",
+    ("「もういいって、オレの言ったことは忘齧れてくれ」†",
     ""),
     # "It's okay, just forget what I said"†
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # ...Although I said that, there's nothing I can say about it.
 
-    ("ネタが切齔れる前に、そｂそｂ逃げる用意で烽もしとくか…。",
+    ("ネタが切齔れる前に、そそ逃げる用意で烽もしとくか…。",
     ""),
     # Before the joke is cut off, I'll try to get some hot, ready to run away...
 
-    ("オ激レはさりげなく繧後ずさり、志保との間㈱合いを広げた。†",
+    ("オレはさりげなく繧後ずさり、志保との間㈱合いを広げた。†",
     ""),
     # My gei-re casually retreated and expanded the relationship between Shiho and other companies.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Tell me, oh!"
 
-    ("「べつになんで烽もいいだｂ」",
+    ("「べつになんで烽もいいだ」",
     ""),
     # "Why is it okay to have hot water?"
 
@@ -86,31 +86,31 @@ text_array = [
     ""),
     # "Hey!"
 
-    ("振關りｌきざま、オ激レは猛ダッシャを｢｢。†",
+    ("振關りｌきざま、オレは猛ダッシャを｢｢。†",
     ""),
     # I heard a lot about it, and my geisha was a fierce dash.
 
-    ("ダッシャをかけた瞬間、オ激レは柔迴らかい壁にぶつかり、跳ね返った。",
+    ("ダッシャをかけた瞬間、オレは柔迴らかい壁にぶつかり、跳ね返った。",
     ""),
     # The moment I put a dash, I hit a soft wall and bounced back.
 
-    ("縺後撃の志保にぶつかる形で、竅やっと止まる。",
+    ("縺後撃の志保にぶつかる形で、やっと止まる。",
     ""),
     # After the attack, he hits Shiho, and finally stops.
 
-    ("「イタタタ…。ち蛯ょっとあんた、いつまであたしに寄闃りかかってんのよ！」†",
+    ("「イタタタ…。ちょっとあんた、いつまであたしに寄闃りかかってんのよ！」†",
     ""),
     # "It's not good... How long are you coming to me?"
 
-    ("「增わ、增わりぃ…」",
+    ("「わ、わりぃ…」",
     ""),
     # "B, it's gonna fall for you..."
 
-    ("慌ててオ激レは、体勢を立て直した。",
+    ("慌ててオレは、体勢を立て直した。",
     ""),
     # In a hurry, I regained my position.
 
-    ("しかし、廊下の真んｒで、オ激レは何にぶつかったんだ？†",
+    ("しかし、廊下の真んｒで、オレは何にぶつかったんだ？†",
     ""),
     # However, what did I run into in the middle of the hallway?†
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "Haa!"
 
-    ("今更言うのはなんだけど、オ激レたちのすぐ目の前には烽金髪のｔ少酪女が立っていた。",
+    ("今更言うのはなんだけど、オレたちのすぐ目の前には烽金髪のｔ少酪女が立っていた。",
     ""),
     # I'm going to say it now, but in front of my hardcore girls, there was a blond young girl standing there.
 
-    ("オ激レと同じク宴ラスの、宮煖内兼レミィだ。†",
+    ("オレと同じクラスの、宮煖内兼レミィだ。†",
     ""),
     # It's Miyahanuchi Knee Remi, who is at the same time as my geisha.†
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # "Ou"
 
-    ("と言ったのがオ激レ。†",
+    ("と言ったのがオレ。†",
     ""),
     # I was really excited to say that.†
 
-    ("「香ローカは静かに烽歩きまし蛯ょうネ！」",
+    ("「香ローカは静かに烽歩きましょうネ！」",
     ""),
     # "Kaoru Roka quietly walks around!"
 
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # "Now, continue from before!"
 
-    ("「しまった！	逃げ遅齟れた！」†",
+    ("「しまった！	逃げ遅れた！」†",
     ""),
     # "Oh no! I got a bit late!"
 
-    ("その繧後、オ激レが福口からでまかせを言っていたことがバ激レ、志保に散々文蝠句を言甯われる羽目になってしまった…。†",
+    ("その繧後、オレが口からでまかせを言っていたことがバレ、志保に散々文蝠句を言甯われる羽目になってしまった…。†",
     ""),
     # After that, I was left to the point where I left my words out of Fukuguchi and ended up being forced to utter a lot of verses by Shiho...†
 

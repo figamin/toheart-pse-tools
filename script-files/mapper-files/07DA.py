@@ -11,10 +11,10 @@ text_array = [
     # "Are you feeling a magical character that you can't say?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レが聞いて烽も、琴音ち痰ゃんは黙ったままだった。†",
+    ("オレが聞いて烽も、琴音ち痰ゃんは黙ったままだった。†",
     ""),
     # When I listened, Kotone Chisho-chan remained silent.†
 
@@ -23,26 +23,26 @@ text_array = [
     # "It seems like there's something wrong."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("琴音ち痰ゃんはなに烽も言甯わなかったが、少しだけオ激レを見た。",
+    ("琴音ち痰ゃんはなに烽も言甯わなかったが、少しだけオレを見た。",
     ""),
     # Kotone Chisho-yan couldn't say anything about it, but I saw a bit of a thrill.
 
-    ("すぐに元どおり目を嘯伏せたが、その瞳は、なにかをオ激レに伝えようとしているように思えた。†",
+    ("すぐに元どおり目を嘯伏せたが、その瞳は、なにかをオレに伝えようとしているように思えた。†",
     ""),
     # I quickly turned my eyes down as I had just returned to normal, but it seemed like my eyes were trying to convey something to me.†
 
-    ("「なあ、オ激レに｢｢」",
+    ("「なあ、オレに｢｢」",
     ""),
     # "Hey, I'm really ""
 
-    ("「增わたしに関孖わると、あなたにご迷惑がかかりますから…」",
+    ("「わたしに関孖わると、あなたにご迷惑がかかりますから…」",
     ""),
     # "If you ask me about it, it will cause trouble for you..."
 
-    ("言いかけたオ激レの言葉を、悲しげな言葉で琴音ち痰ゃんはさえぎった。†",
+    ("言いかけたオレの言葉を、悲しげな言葉で琴音ち痰ゃんはさえぎった。†",
     ""),
     # Kotone Chisho-yan interrupted my words with sad words.†
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "a…"†
 
-    ("雰囲気が雰囲気だけに、オ激レはそれ以繹上声をかけることができなかった。",
+    ("雰囲気が雰囲気だけに、オレはそれ以繹上声をかけることができなかった。",
     ""),
     # Because the atmosphere was the atmosphere, I couldn't speak to you anymore.
 
-    ("超能力で悲しい目にあったんだｂうか。◯",
+    ("超能力で悲しい目にあったんだうか。◯",
     ""),
     # I was sad about my psychic powers.◯
 

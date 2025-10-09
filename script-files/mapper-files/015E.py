@@ -2,7 +2,7 @@
 # Source file: 015E.txt
 
 text_array = [
-    ("（あかり	冝日付イベント４）閨（５獅月２冾日限闌定）閨（好感度１１が発生しているなら）閨（艨ゆっくりフェード	公園）†",
+    ("（あかり	冝日付イベント４）閨（５獅月２冾日限定）閨（好感度１１が発生しているなら）閨（艨ゆっくりフェード	公園）†",
     ""),
     # (Akari Pick Date Event 4) Pick (5th Lion Month 2nd Date Limited) Pick (If 11 likes) Pick (Slow Fade Park)†
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "...Choosh sputum."
 
-    ("公園で、あかりがオ激レを待っていた。†",
+    ("公園で、あかりがオレを待っていた。†",
     ""),
     # Akari was waiting for me in the park.†
 
-    ("「いい加減にしｂっ！」",
+    ("「いい加減にしっ！」",
     ""),
     # "Don't take it off, b!"
 
@@ -27,7 +27,7 @@ text_array = [
     # "..."†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「しばらく、♂いたくねえ」",
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Sigh...
 
-    ("オ激レは烽歩き出す。†",
+    ("オレは烽歩き出す。†",
     ""),
     # My heart started walking.†
 

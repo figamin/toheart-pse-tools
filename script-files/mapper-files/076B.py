@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone Date and Standard Type Likeability Event PS) (In front of the school gate)†
 
-    ("「なんつーか、竅やっと新学匇期の実感が墲わいてきた気がするな」",
+    ("「なんつーか、やっと新学匇期の実感が墲わいてきた気がするな」",
     ""),
     # "I feel like I've finally started to feel the realization of the new school year."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Shin Takusei, like a student who had a student wearing the Sanskrit uniform from our school, has a feeling of discomfort that makes it hard to believe that he was the same as the one he was a year ago.
 
-    ("オ激レはどうだったかな？",
+    ("オレはどうだったかな？",
     ""),
     # How was my eccentric?
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I was trying to remember, but I couldn't remember what happened to the morning a year ago.†
 
-    ("「あかり、オ激レ焜も１年前はあんなだったか？」",
+    ("「あかり、オレ焜も１年前はあんなだったか？」",
     ""),
     # "Akari, did I have that kind of thing a year ago?"
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Yeah. When did the sphincter gosh?"
 
-    ("「バ〜カ、そんなこと聞いてねえよ。オ激レ焜も奄初々しかったかって聞いてんだ」",
+    ("「バ〜カ、そんなこと聞いてねえよ。オレ焜も奄初々しかったかって聞いてんだ」",
     ""),
     # "Baaa, I haven't heard of that. I asked if my geisha was in the early days of Amazake."
 
-    ("「う〜ん…、竅やっぱりいつ烽ものち痰ゃんだったよ」†",
+    ("「う〜ん…、やっぱりいつ烽ものち痰ゃんだったよ」†",
     ""),
     # "Hmm... I guess it was just a hot sputum after all."
 
-    ("「ったく。ま、お前はｖ朝オ激レといっし蛯ょだから、瘁違いがあって烽も墲わからねえか」",
+    ("「ったく。ま、お前はｖ朝オレといっしょだから、瘁違いがあって烽も墲わからねえか」",
     ""),
     # "Ahhh. Well, you're the same as V-morning people, so you're so confused, so you don't know what Hot is."
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # The child felt a severe discomfort.
 
-    ("新嵩生だｂうか。",
+    ("新嵩生だうか。",
     ""),
     # Is it a new generation?
 
-    ("で烽も、それ以外にオ激レたちとなに烽も痰違いはない。†",
+    ("で烽も、それ以外にオレたちとなに烽も痰違いはない。†",
     ""),
     # And there's no difference between the hot and the hot and the other guys.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # It even feels like that...†
 
-    ("「あの子、なんだか竄寂しそうだね」",
+    ("「あの子、なんだか寂しそうだね」",
     ""),
     # "That girl looks lonely somehow."
 
@@ -94,19 +94,19 @@ text_array = [
     ""),
     # Akari says, looking at the girl the next day.†
 
-    ("そうか…、竅寂しそうなんだ。",
+    ("そうか…、寂しそうなんだ。",
     ""),
     # I see... I see that it looks lonely.
 
-    ("ほかの生徒と痰違って見えたのは、あの子が竄寂しそうだからか…。",
+    ("ほかの生徒と痰違って見えたのは、あの子が寂しそうだからか…。",
     ""),
     # The reason why he looked different from the other students is because that child seemed lonely...
 
-    ("なんか盾ワケありなんだｂうな。†",
+    ("なんか盾ワケありなんだうな。†",
     ""),
     # Is there a shield that's wrong?†
 
-    ("そのうちに、浴女の子は校舎のｒへ見えなくなり、オ激レ焜もそれ以繹上考えることを竄やめた。◯",
+    ("そのうちに、浴女の子は校舎のｒへ見えなくなり、オレ焜もそれ以繹上考えることをやめた。◯",
     ""),
     # Eventually, the bathing girl disappeared from the school building, and my ecstasy stopped thinking about anything beyond that.◯
 

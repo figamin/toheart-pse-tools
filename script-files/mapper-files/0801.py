@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Meeting with Remi) (Third Lion, 6th Day (Thurs) (Break time at 1st Gallery)) (As the classroom is a moving bath, the next class is a separate classroom) (Corridor) †
 
-    ("休み桙時間、教室移動のためにオ激レは廊下を烽歩いていた。†",
+    ("休み桙時間、教室移動のためにオレは廊下を烽歩いていた。†",
     ""),
     # During the break, I was walking down the hallway to move to the classroom.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Oh no!"
 
-    ("突然誰かに飛びつかれ、オ激レは声を繧上げた。",
+    ("突然誰かに飛びつかれ、オレは声を繧上げた。",
     ""),
     # Suddenly someone jumped at me, and I let out a loud voice.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Are you thrill, thrillimee?!"
 
-    ("弾けそうな笑みをｂ浮かべ、オ激レに腕を高絡めてきたのは、ク宴ラス＜メイトの『宮煖内兼レミィ』だった。",
+    ("弾けそうな笑みを浮かべ、オレに腕を高絡めてきたのは、クラス＜メイトの『宮煖内兼レミィ』だった。",
     ""),
     # A smirk that looked like it was B-stroking, and the one who ties my arms to my heart out was Crown Las Mate's "Miyahnai Kanremi" who looked like he was.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # And even the hot springs have a generous, soft feel that hits this arm...
 
-    ("早国産では味嵂わえないボ潟リャームだと、オ激レは思う。",
+    ("早国産では味嵂わえないボリャームだと、オレは思う。",
     ""),
     # I think that this is a bogata ryam that is not something that can be enjoyed by early domestic products.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "?"
 
-    ("戟レミィがオ激レを呼んだ。†",
+    ("戟レミィがオレを呼んだ。†",
     ""),
     # Karemi called out to me.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "What, what?"
 
-    ("オ激レを呼び捨てにできる翌女の子って、じつは撃レミィと母さんのふたりだけなんだよな。",
+    ("オレを呼び捨てにできる翌女の子って、じつは撃レミィと母さんのふたりだけなんだよな。",
     ""),
     # The only girls who can call me out were actually Ekire Remi and her mother.
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # The only "bathing girl" is Karemi.†
 
-    ("「｢｢煕もうすぐチェンジ・ク宴ラス泣ルームね」",
+    ("「｢｢煕もうすぐチェンジ・クラスルームね」",
     ""),
     # "" "He's soon to change the Crown Crown room."
 
-    ("楽しくてし蛯ょーがないってふうに、戟レミィが言う。",
+    ("楽しくてしょーがないってふうに、戟レミィが言う。",
     ""),
     # It's fun and there's no ecstasy, says Wake Remie.
 
-    ("単なるク宴ラス替えが、まるでお祭闕りかなにかのように聞こえてしまうから不思議だ。",
+    ("単なるクラス替えが、まるでお祭闕りかなにかのように聞こえてしまうから不思議だ。",
     ""),
     # It's strange that simply changing the banquet sounds like a festival or something.
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # "That's right..."
 
-    ("たしかに、もうじきオ激レたちは二年生だ。†",
+    ("たしかに、もうじきオレたちは二年生だ。†",
     ""),
     # Certainly, we're in the second year soon.†
 
-    ("「また同じク宴ラスになるといいネ！」",
+    ("「また同じクラスになるといいネ！」",
     ""),
     # "I hope we'll be in the same party again!"
 
-    ("なんだか今厓日の撃レミィは、竅やけに親しげに話しかけてくる。",
+    ("なんだか今厓日の撃レミィは、やけに親しげに話しかけてくる。",
     ""),
     # It's a bit like that, Ekiremi, who is on the verge of the day, approaches me with a strange and friendly attitude.
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # "Oh, that's right."
 
-    ("オ激レこんなに撃レミィと№仲良かったっけ…？",
+    ("オレこんなに撃レミィと№仲良かったっけ…？",
     ""),
     # Was I so close to Ekire Remy so close...?
 
-    ("「もし、同じク宴ラスになれたら『潤縁は異な烽もの』って竄やつよネ」",
+    ("「もし、同じクラスになれたら『潤縁は異な烽もの』ってやつよネ」",
     ""),
     # "If we could end up with the same party, we would say, "Junen is a different kind of thing."
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # As a half-Japanese, he is a good master of Japanese language.
 
-    ("だけど、それにはあき足迹らず、早国鼾語の先生熕も知迺らないようなマイナーな『こと墲わざ』竅や『格言』をｉ話に混ぜてくる。",
+    ("だけど、それにはあき足迹らず、早国鼾語の先生熕も知迺らないようなマイナーな『こと墲わざ』や『格言』をｉ話に混ぜてくる。",
     ""),
     # However, he does not go unnoticed, and even Hayun Gong-gu's teacher Ying has mixed minor "Koto-do-ge" and "proverbs" into the i-speak.
 
-    ("そのせいか知迺らないが、英皷語の発音は竄や竄や怪しいんだよな…。†",
+    ("そのせいか知迺らないが、英皷語の発音はやや怪しいんだよな…。†",
     ""),
     # Perhaps because of that, it's hard to understand, but the pronunciation of English-Japanese language is tampering, tampering, and suspicious...†
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Hey, Geki Remi, the previous "Enjun Waina C-Mono" is ""
 
-    ("オ激レは言葉の意味を聞こうとしたが、",
+    ("オレは言葉の意味を聞こうとしたが、",
     ""),
     # I tried to ask the meaning of the words,
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # That's when the class started, the chayim rang.†
 
-    ("彼濫女は、ぴ蛯ょんとオ激レから離齬れて、",
+    ("彼濫女は、ぴょんとオレから離齬れて、",
     ""),
     # The girl is separated from my ecstasy and my ecstasy,
 
-    ("「またね、Ｓｂｂ	凵ｙ盾ｏ浮ｕ	戟ｌ≠ａｔｂ窒ｒ」",
+    ("「またね、Ｓ	凵ｙ盾ｏ浮ｕ	戟ｌ≠ａｔ窒ｒ」",
     ""),
     # "See you, Sbb, y shield o floats, l≠atb nitrogen."
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # He said that and sent a charred kiss.
 
-    ("突然のことでなに烽も言えないオ激レを残して、戟レミィはｋけて行った。",
+    ("突然のことでなに烽も言えないオレを残して、戟レミィは駆けて行った。",
     ""),
     # It was a sudden matter and I couldn't say anything about it, so I stopped by the way, and I was so excited.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # It's a Steady relationship?
 
-    ("「…あいつ、英皷語の使い福方を忘齧れたのかぁ？」◯",
+    ("「…あいつ、英皷語の使い方を忘齧れたのかぁ？」◯",
     ""),
     # "...Has that guy forgot about the use of English-Japanese language?!"◯
 

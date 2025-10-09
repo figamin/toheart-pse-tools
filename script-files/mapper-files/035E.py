@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "You're teasing, phlegm, your name is."
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
@@ -31,22 +31,22 @@ text_array = [
     # "If that's the case..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「オ激レ焜も本気で怒逑らなくち痰ゃなんねーな」",
+    ("「オレ焜も本気で怒逑らなくち痰ゃなんねーな」",
     ""),
     # "I have to seriously insult myself, I have to be seriously angry."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
     ""),
     # "..."†
 
-    ("增わずかな沈黙をはさんだ繧後、委員長は小さな声で、",
+    ("わずかな沈黙をはさんだ繧後、委員長は小さな声で、",
     ""),
     # After a slight silence, the chairman spoke in a small voice.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "…a?"
 
-    ("「こっちの人間で、そんな真武剣な顔で叱ってくれるんは、くんだけ竄やから」",
+    ("「こっちの人間で、そんな真武剣な顔で叱ってくれるんは、くんだけやから」",
     ""),
     # "The only person who scolds me with such a Shinbuken face is that you'll be tampering with a man like this."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # And the chairman smiled embarrassingly.
 
-    ("「ふふふ、なん竄やし蛯ょーもないこと言うて、ごめんな」",
+    ("「ふふふ、なんやしょーもないこと言うて、ごめんな」",
     ""),
     # "Hahaha, sorry for saying something that's not worth it."
 
@@ -95,14 +95,14 @@ text_array = [
     # "Ah, ah."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「今厓日のр私、なんかち蛯ょっと変か烽もな」",
+    ("「今厓日のр私、なんかちょっと変か烽もな」",
     ""),
     # "I'm on the day I'm on the verge of this, I'm not even gross."
 

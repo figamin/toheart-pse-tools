@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I was walking down the hallway in a flash of light, ".
 
-    ("「ち蛯ょっと、待ちなさいよっ！」",
+    ("「ちょっと、待ちなさいよっ！」",
     ""),
     # "Come on, wait!"
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # When I replied, I saw a few familiar female students glaring at me.
 
-    ("こいつらってたしか、あかりたちのク宴ラスで見かける顔だよな。†",
+    ("こいつらってたしか、あかりたちのクラスで見かける顔だよな。†",
     ""),
     # I'm sure these guys are the ones you see at Akari's banquet.†
 
-    ("「｢｢なによ！	今厓日齠一勛日くらい、縺代岺わってくれたっていいでし蛯ょ！？」",
+    ("「｢｢なによ！	今厓日齠一勛日くらい、縺代岺わってくれたっていいでしょ！？」",
     ""),
     # ""What! Is it okay if you could just come and fly around the next day, slut?!"
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # What are you saying?
 
-    ("思い魔当たる節を考えてみたが、さっぱりｂ浮かばない。†",
+    ("思い魔当たる節を考えてみたが、さっぱり浮かばない。†",
     ""),
     # I tried to think about the kind of trait that will make you think of, but I couldn't really feel any sense of it.†
 
-    ("竅やがて、し蛯ょーもないｌ解をしてることに気がついた。",
+    ("やがて、しょーもないｌ解をしてることに気がついた。",
     ""),
     # Eventually, I realized that I was trying to solve the problem.
 
-    ("どう竄やら彼濫女たちはオ激レにじ痰ゃなく、前を烽歩く翌女の子に言ってるらしい。",
+    ("どうやら彼濫女たちはオレにじ痰ゃなく、前を烽歩く翌女の子に言ってるらしい。",
     ""),
     # Apparently, the girls are saying it without stomping on me, but to the girls who walk in front of me.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # When I was called, the girl who replied with glasses was the next girl who had her hair piercings.
 
-    ("諱先ほどの翌女性徒たちがオ激レを追い越して、その子にｋけ寄っていく。",
+    ("諱先ほどの翌女性徒たちがオレを追い越して、その子に駆け寄っていく。",
     ""),
     # The next woman, the other day, overtakes me and approaches the child.
 
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # "..."
 
-    ("なに竄やら言い№合っている。",
+    ("なにやら言い№合っている。",
     ""),
     # Whatever you say is the right thing to say.
 
-    ("オ激レが側を通闥りかかると、♂話の終尞わりの部分だけを聞き取骼ることができた。†",
+    ("オレが側を通闥りかかると、♂話の終尞わりの部分だけを聞き取骼ることができた。†",
     ""),
     # As my ecstasy approached me, I was able to hear only the final part of the story.†
 
-    ("「增わかった、もういいっ！	アンタなんかに鰍頼まない墲わ！」",
+    ("「わかった、もういいっ！	アンタなんかに鰍頼まない墲わ！」",
     ""),
     # "Okay, I'm fine! I won't ask you to shave!"
 
@@ -123,7 +123,7 @@ text_array = [
     # Then, the girl who wears glasses is
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ふんっと、くだらなそうにきびすを返し、廊下を烽歩いて行った。†",
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # The phlegm is different from the bathing women.
 
-    ("ち蛯ょっとした翌女の墲戦いを垣間見た。◯",
+    ("ちょっとした翌女の墲戦いを垣間見た。◯",
     ""),
     # I got a glimpse of the woman's battle with the next woman.◯
 

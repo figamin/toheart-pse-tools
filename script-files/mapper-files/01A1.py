@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Akari Scales Event: Departing from school) (Choice A Dog)†
 
-    ("「竅やっぱ犬かな？」",
+    ("「やっぱ犬かな？」",
     ""),
     # "Is it a dog after all?"
 
-    ("オ激レは嘯答えた。",
+    ("オレは嘯答えた。",
     ""),
     # I replied.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Like a boss?"
 
-    ("「そうだな。ボスみたいな蛯大型犬煬もいいし、柴犬みたいな小型犬で烽もいいな」†",
+    ("「そうだな。ボスみたいな大型犬煬もいいし、柴犬みたいな小型犬で烽もいいな」†",
     ""),
     # "That's right. A large dog like a boss is nice, and a small dog like a Shiba Inu is nice, too." †
 
-    ("「竅やっぱり犬が好き？」",
+    ("「やっぱり犬が好き？」",
     ""),
     # "Do you really like dogs?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "The master of the dance is a hot topic."
 
-    ("「オ激レは人の言うことを聞くрヤツが好きだ。だからあかり、お前熨も烽もっとオ激レの言うことを聞け！」",
+    ("「オレは人の言うことを聞くрヤツが好きだ。だからあかり、お前熨も烽もっとオレの言うことを聞け！」",
     ""),
     # "I like people who listen to people. So, you should listen to what I'm saying, even if you're a noshi!"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "...Uh, yes" †
 
-    ("それから、オ激レとあかりはいｂいｂと店燗内の動物を見て回った。◯",
+    ("それから、オレとあかりはいいと店燗内の動物を見て回った。◯",
     ""),
     # Then I looked around at the animals in the store, including mygere and Akari Haii B.◯
 

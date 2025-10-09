@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Seri°Kawa, Scales Event 2F LV6)Seri (Select Sou B does not go)†
 
-    ("「增わりぃ、諱先輩。今厓日はオ激レ、用沫事あってさ」",
+    ("「わりぃ、諱先輩。今厓日はオレ、用沫事あってさ」",
     ""),
     # "Someone, Senpai. I'm really excited about this day, so I'm going to have to drop off."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩はち蛯ょっと竄寂しそうな顔をした。",
+    ("諱先輩はちょっと寂しそうな顔をした。",
     ""),
     # Senpai said, "Ichirou" looked lonely.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I wonder if this will be the next time the school trip is over.
 
-    ("オ激レは先輩を残して、歩き始めた。◯",
+    ("オレは先輩を残して、歩き始めた。◯",
     ""),
     # I started walking, leaving my senior there.◯
 

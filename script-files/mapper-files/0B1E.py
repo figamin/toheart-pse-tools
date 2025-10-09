@@ -2,11 +2,11 @@
 # Source file: 0B1E.txt
 
 text_array = [
-    ("『セ潟リオに質竡問』４獅月２０以降索",
+    ("『セリオに質竡問』４獅月２０以降索",
     ""),
     # "Qualifications on Segata Rio" Search after April Shizuki 20th
 
-    ("「そういえば、セ潟リオ。お前、まだテストは続いてんのか？」",
+    ("「そういえば、セリオ。お前、まだテストは続いてんのか？」",
     ""),
     # "By the way, Seragata Rio. Are you still continuing your tests?"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Yes, there are three more weeks left."
 
-    ("「ふうん。とこｂで、マ泣ルチの竄やつは元気で竄やってるか？」",
+    ("「ふうん。とこで、マルチのやつは元気でやってるか？」",
     ""),
     # "Hmm. In this case, are the ones who are tampering with Makruchi in good health and doing it?"
 
@@ -46,23 +46,23 @@ text_array = [
     ""),
     # "…yes"†
 
-    ("「じ痰ゃあ、もし、どこかであったら、オ激レがよｂしく言ってたって伝えてくれよ」",
+    ("「じ痰ゃあ、もし、どこかであったら、オレがよしく言ってたって伝えてくれよ」",
     ""),
     # "You're so phlegm, if there's somewhere, please let me know that I'm a b-sex guy."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「セ潟リオ？」",
+    ("「セリオ？」",
     ""),
     # "Segata Rio?"
 
-    ("「增わかりました」",
+    ("「わかりました」",
     ""),
     # "I understand."
 
-    ("セ潟リオは小さくうなずいた。†",
+    ("セリオは小さくうなずいた。†",
     ""),
     # Segata Rio nodded small.†
 

@@ -14,7 +14,7 @@ text_array = [
     ""),
     # He spotted Ekiremi's attack after walking down the hallway.
 
-    ("鞄を揩持ってるから、たぶん、帰驪るんだｂう。",
+    ("鞄を揩持ってるから、たぶん、帰驪るんだう。",
     ""),
     # I'm holding a bag, so I'm probably going back.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # A. Call out.Relax
 
-    ("Ｂ	竅やっぱり竄やめる。閨",
+    ("Ｂ	やっぱりやめる。閨",
     ""),
     # B. I'm going to stop tampering after all.Relax
 

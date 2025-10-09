@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Thinking about Ming Shun's day being a holiday makes me feel lighter.
 
-    ("オ激レは唐鞄を取って、席から立ち繧上がった。†",
+    ("オレは鞄を取って、席から立ち繧上がった。†",
     ""),
     # I grabbed my bag and stood up from my seat.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # I went to the hallway on the first floor.
 
-    ("パ宴ラパ宴ラと生徒たちの姿がある。†",
+    ("パラパラと生徒たちの姿がある。†",
     ""),
     # There are banquets and students.†
 
-    ("階段の下には、生徒悼の艪御意見箱が設置されている。",
+    ("階段の下には、生徒悼の御意見箱が設置されている。",
     ""),
     # Below the stairs, there is a box of comments to commemorate students.
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # I want to increase the variety of bread from the purchasing lees.†
 
-    ("学校を出て、いつ烽もの竄坂道を下驩る。",
+    ("学校を出て、いつ烽もの坂道を下驩る。",
     ""),
     # When did I leave school, I went down the hill.
 
-    ("ぺち痰ゃくち痰ゃおし痰ゃべりしながら帰驪る生徒、自転車でｋけ下濶りていく生徒、様々だ。",
+    ("ぺち痰ゃくち痰ゃおし痰ゃべりしながら帰驪る生徒、自転車で駆け下濶りていく生徒、様々だ。",
     ""),
     # There are a variety of students who go home while shaking their hair, and while they go down on their bikes.
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # =I went to bed early and sniffed...
 
-    ("あったかい布団のｒが一番飼落ちｒくのは、オ激レだけじ痰ゃないはずだ。",
+    ("あったかい布団のｒが一番飼落ちｒくのは、オレだけじ痰ゃないはずだ。",
     ""),
     # The most common way to keep a warm futon is to have a lot of phlegm.
 
-    ("そのうちに、心地謦よい眠阮りに獅落ちていく…。◯",
+    ("そのうちに、心地謦よい眠りに獅落ちていく…。◯",
     ""),
     # Eventually, the lion falls into a comfortable sleep...◯
 

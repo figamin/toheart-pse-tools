@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I'm grateful for the eagerness, but it's a bad thing."
 
-    ("オ激レは唐遠慮してそう言った。",
+    ("オレは遠慮してそう言った。",
     ""),
     # I said this with a eagerness.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Ah, yes, that's it, phlegm..."
 
-    ("オ激レと琴音ち痰ゃん、ふたりは笑迴顔であいさつし、閨手を振って別れた。◯",
+    ("オレと琴音ち痰ゃん、ふたりは笑迴顔であいさつし、閨手を振って別れた。◯",
     ""),
     # I was so excited and Kotone Chisho-yan, the two greeted each other with a laughing face, waving their hands and parting.◯
 

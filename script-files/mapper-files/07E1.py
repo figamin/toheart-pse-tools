@@ -15,26 +15,26 @@ text_array = [
     # If you keep it normal, it's normal."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("琴音ち痰ゃんは一瞬オ激レを見て、目を嘯伏せた。†",
+    ("琴音ち痰ゃんは一瞬オレを見て、目を嘯伏せた。†",
     ""),
     # Kotone Chisho-yan looked at me for a moment and then turned his eyes down.†
 
-    ("「オ激レが思うに、妙なウ純ワサを流すрヤツが話を蛯大きくしてんだｂ」",
+    ("「オレが思うに、妙なウ純ワサを流すрヤツが話を大きくしてんだ」",
     ""),
     # "I think that the guy who's splattering the strange slut wasa is making the story bigger."
 
-    ("ウ純ワサをばらまくｒ心人物を思いｂ浮かべながら言う。",
+    ("ウ純ワサをばらまくｒ心人物を思い浮かべながら言う。",
     ""),
     # He says with his thoughts on a heartfelt person who spreads all the Wasabi.
 
-    ("オ激レのよく知ってる翌女…。",
+    ("オレのよく知ってる翌女…。",
     ""),
     # My real girl is a very familiar girl...
 
-    ("竅やっぱ、悪いのはあいつだな。†",
+    ("やっぱ、悪いのはあいつだな。†",
     ""),
     # After all, that's the one who's the wrong person.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Are you feeling it..." †
 
-    ("「ち痰ゃんとした形で烽もう一回見てみてえな。そうすり痰ゃ、少しはハッキ潟リしそうだ。現実なのかどうかがさ」",
+    ("「ち痰ゃんとした形で烽もう一回見てみてえな。そうすり痰ゃ、少しはハッキリしそうだ。現実なのかどうかがさ」",
     ""),
     # "I'd like to take a look at it again with a slurping shape. If it's that, it looks like it's a little clearer. I wonder if it's real or not."
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "Little girl? Why?"
 
-    ("「さん…、お願いですから、增わたしに関孖わらないでください」",
+    ("「さん…、お願いですから、わたしに関孖わらないでください」",
     ""),
     # "Mr.... Please, please, please don't pester me."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("メ泣きそうな顔でそこまで言甯われると、こっちはなに烽も言えなくなってしまう。†",
+    ("メきそうな顔でそこまで言甯われると、こっちはなに烽も言えなくなってしまう。†",
     ""),
     # When he is told that with a crying face, he can't say anything.†
 
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # "I'm sorry about this..."
 
-    ("琴音ち痰ゃんはオ激レに頭を下げて、小柾走闡りに獅去っていった。†",
+    ("琴音ち痰ゃんはオレに頭を下げて、小柾走闡りに獅去っていった。†",
     ""),
     # Kotone Chisho-yan bowed his head to me and lioned away as he ran along the path.†
 
-    ("残されたオ激レはただ、琴音ち痰ゃんの繧後撃姿を見洛送髑る。",
+    ("残されたオレはただ、琴音ち痰ゃんの繧後撃姿を見洛送る。",
     ""),
     # The rest of me was just going to see Kotone Chisho-chan attack after he was shot.
 
-    ("琴音ち痰ゃんの超能力って、そんなにｊないｂモノなのだｂうか？◯",
+    ("琴音ち痰ゃんの超能力って、そんなにｊないモノなのだうか？◯",
     ""),
     # Kotone Chisho-yan's psychic powers are something that doesn't have much of a J-do, right?◯
 

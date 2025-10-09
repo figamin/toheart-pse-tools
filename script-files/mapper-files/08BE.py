@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Game Remy, Scales Event, Outside School 1) (Choose So, More Folding)†
 
-    ("「い竄や、ホントだって。",
+    ("「いや、ホントだって。",
     ""),
     # "It's really tampering, it's true.
 
-    ("レミィ、イズ、ベ潟リー＃人！」†",
+    ("レミィ、イズ、ベリー＃人！」†",
     ""),
     # Remy, Is, Belatley #People!”†
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # The girl's overflowing is completely uneven and doesn't seem to be hot.
 
-    ("「い竄やい竄や、戟レミィ凬日本齧一！	いよっ、男殺し！」",
+    ("「いやいや、戟レミィ凬日本齧一！	いよっ、男殺し！」",
     ""),
     # "Tampering and tampering, and thrashing, I'm the one to tease Japan! I'm gonna kill you guys!"
 
-    ("オ激レは、言ってる本人熕もよく墲わからないノ潟リで、は竄やし立てた。†",
+    ("オレは、言ってる本人熕もよく墲わからないノリで、はやし立てた。†",
     ""),
     # I was so fed up that even the person who said this didn't really understand, and I ended up tampering with him.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Who did you kill?"
 
-    ("盛關り繧上がってきたとこｂで（なにが？）、♂史のрヤツが竄やってきた。",
+    ("盛關り繧上がってきたとこで（なにが？）、♂史のрヤツがやってきた。",
     ""),
     # At the point where it was rising (what?), the guy from Masochist began tampering with it.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I'm not dead."
 
-    ("ちらりと撃レミィの福方を見骭ると、彼濫女はき蛯ょとんとした表﨣情でこっちを見ている。",
+    ("ちらりと撃レミィの方を見骭ると、彼濫女はきょとんとした表﨣情でこっちを見ている。",
     ""),
     # A glance at Ekiremi's fortune, the woman looked over at me in a squeal and squealing manner.
 
@@ -91,7 +91,7 @@ text_array = [
     # Karemy waved lightly and headed home.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「で、誰熬も死んでないの？」",

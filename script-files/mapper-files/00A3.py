@@ -14,7 +14,7 @@ text_array = [
     ""),
     # If I go to Yu-day now, Ming Shun-day will be closed.
 
-    ("そう思うと多少は竄やる気煖も出てくるよな。",
+    ("そう思うと多少はやる気煖も出てくるよな。",
     ""),
     # When you think about it like that, you'll also feel a bit motivated to tamper with it.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "You're slurred, it's a blonde and a Sayer."
 
-    ("「ブ鴻ロンドの髪って、映謇画とかで見慣れてるような気がするけど、いざ目の前で見骭ると、竅やっぱりキ激レイだよねー」",
+    ("「ブ鴻ロンドの髪って、映謇画とかで見慣れてるような気がするけど、いざ目の前で見骭ると、やっぱりキレイだよねー」",
     ""),
     # "I feel like I'm used to seeing Bhonglondo's hair in the film paintings, but when I look at it right in front of my eyes, I guess it's really super cute."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("オ激レはｖ淫俣卲ｩ慣れてるせいか、意外と≠普通なんだけどな。†",
+    ("オレはｖ淫俣卲ｩ慣れてるせいか、意外と≠普通なんだけどな。†",
     ""),
     # I'm used to it, so maybe it's just normal.†
 

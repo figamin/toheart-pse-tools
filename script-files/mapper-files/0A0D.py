@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "That's amazing. *Inumata Shoujou"
 
-    ("「うん。で烽も、べつにすごくなんてないよ。なにしｂ、家が…」",
+    ("「うん。で烽も、べつにすごくなんてないよ。なにし、家が…」",
     ""),
     # "Yeah. And there's nothing really big about Hot. What's that b, the house..."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # I hurriedly waved my hand.†
 
-    ("なんでそんなに働くんだｂう。",
+    ("なんでそんなに働くんだう。",
     ""),
     # Why does it work so much?
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # In trouble, Ochi Sphinja laughs.
 
-    ("「磨当たり前になっち痰ゃってるから、特に蛯大変だとか考えたことないけど…」†",
+    ("「当たり前になっち痰ゃってるから、特に大変だとか考えたことないけど…」†",
     ""),
     # "I've never thought it would be particularly difficult because I'm getting the phlegm to be polished, but..."
 
-    ("「い竄や、すげーって。オ激レなんか竄絶対に続きそうにない烽もんな。感心しちまうぜ」",
+    ("「いや、すげーって。オレなんか絶対に続きそうにない烽もんな。感心しちまうぜ」",
     ""),
     # "You're so tampering, you're amazing. You're so excited, I don't think I'll ever continue to tamper with anything. I'm impressed."
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # I look embarrassed and look down on my face.†
 
-    ("「んじ痰ゃ、オ激レ焜もそｂそｂ帰驪るよ。あんまり仕鮪事のジャャマしち痰ゃ悪いからな」",
+    ("「んじ痰ゃ、オレ焜もそそ帰驪るよ。あんまり仕鮪事のジャャマしち痰ゃ悪いからな」",
     ""),
     # "I'm going to go back to my heart's content. It's bad that I'm going to get too close to my heart's content."
 
-    ("オ激レは手を振って言った。",
+    ("オレは手を振って言った。",
     ""),
     # I waved my hand.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "She's phlegmy."
 
-    ("こたえるように、掾理女緒ち痰ゃん烽も蛯大きく手を振關り返した。◯",
+    ("こたえるように、掾理女緒ち痰ゃん烽も大きく手を振關り返した。◯",
     ""),
     # In response, the ramblings also waved back.◯
 

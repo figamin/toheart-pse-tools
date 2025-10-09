@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "It's a lie, I can't trust you that kind of hot thing."
 
-    ("オ激レは思いっきり否阡定した。†",
+    ("オレは思いっきり否阡定した。†",
     ""),
     # My heart was completely denied.†
 
-    ("「焦迴らない焦迴らない。まだ続きがあんのよ。｢｢で、今回は蛯大予言だったけど、その子の回濶りでは墲常に不思議なことが起こってるのよ」",
+    ("「焦迴らない焦迴らない。まだ続きがあんのよ。｢｢で、今回は大予言だったけど、その子の回濶りでは墲常に不思議なことが起こってるのよ」",
     ""),
     # "There's no throbbing. There's still more to come. "So, this time it was a great prophecy, but there's always something strange going on in that child's recurrence."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "How strange?"
 
-    ("「瘁例えば、その子が見つめる汲窓ガ宴ラスが、閨手燻も触齔れないのにパ潟リーンとр割れたり、重そうな花瓶がズズッっと動いたりすんのよ！？」",
+    ("「瘁例えば、その子が見つめる汲窓ガラスが、閨手燻も触齔れないのにパリーンとр割れたり、重そうな花瓶がズズッっと動いたりすんのよ！？」",
     ""),
     # "For example, the child stares at the Kumome Gabanquet, but it can't touch the smoked hand, but it cracks and the heavy vase moves in a slurp!?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "You're lying more and more, isn't there a phlegm?"
 
-    ("はっきり言って竄やった。†",
+    ("はっきり言ってやった。†",
     ""),
     # To be honest, I tampered with it.†
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # Shiho's phlegm is silent as he is denied his own material.
 
-    ("オ激レをビシッと指差して、",
+    ("オレをビシッと指差して、",
     ""),
     # I pointed at my hardcore
 
-    ("「あんた、証人だっていっぱいいるのよ！？	その繧上でケチつけてんでし蛯ょうね！？」",
+    ("「あんた、証人だっていっぱいいるのよ！？	その繧上でケチつけてんでしょうね！？」",
     ""),
     # "You're also full of witnesses!? You're stingy about it, you're gonna sting!"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # It was like a beam from my fingers to make it go wild.†
 
-    ("「驕るせっ、％学式にそういう出女沫事があったことは認めて竄やるよ。けどな、超能力が魔当たり前のようなオ＜メーの言い福方は認められねえな」",
+    ("「驕るせっ、％学式にそういう出女沫事があったことは認めてやるよ。けどな、超能力が魔当たり前のようなオ＜メーの言い方は認められねえな」",
     ""),
     # "I'm arrogant, I'll admit that there was such a droplet of females at the Permanent Academy and I'll tamper with it. But I can't accept the way you say that supernatural powers are a demon."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Shiho's р guy turned his face red and tried to say something, but suddenly he began nodding as if he had remembered it.
 
-    ("「うんうん。あたしの先進的発言についていけなかったのね。いつの桙時緕代熨も、古い人間はそう竄やって革新を曹拒むのよ」†",
+    ("「うんうん。あたしの先進的発言についていけなかったのね。いつの桙時緕代熨も、古い人間はそうやって革新を曹拒むのよ」†",
     ""),
     # "Yeah, yes. You couldn't keep up with my advanced statements. Even with the breeze no Oshi, old people would tamper with this and refuse to innovate."
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "Everyone, is it okay to let this guy go away?"
 
-    ("形勢不風と蛯悟ったか、志保はま墲わりの連中に浮助けを≠めた。†",
+    ("形勢不風と悟ったか、志保はま墲わりの連中に浮助けを≠めた。†",
     ""),
     # Perhaps he realized that the situation was unwind, but Shiho sought to help the people around Mama.†
 
-    ("「さあ？	が長岡にいち痰ゃ烽もんつけるのは、一年のこｂからだし」",
+    ("「さあ？	が長岡にいち痰ゃ烽もんつけるのは、一年のこからだし」",
     ""),
     # "Now? It's time for Nagaoka to start with the first year."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "пI believe in psychic powers."
 
-    ("志保を浮助けるどこｂか、みんな福口々に勝闖手なことを言いだして、かえって福収拾のつかない状態になってしまった。†",
+    ("志保を浮助けるどこか、みんな口々に勝闖手なことを言いだして、かえって収拾のつかない状態になってしまった。†",
     ""),
     # Someone who helped Shiho was, everyone started saying something good to Fukuguchi, and in fact they were unable to control Fuku.†
 
@@ -114,15 +114,15 @@ text_array = [
     ""),
     # "Mmmmm! That's great! There are other people waiting for my information too! You don't have time to pay attention to me!"
 
-    ("捨て艪台倦詞を残して、志保はいそいそと教室をあとにした。†",
+    ("捨て台倦詞を残して、志保はいそいそと教室をあとにした。†",
     ""),
     # With abandoned words of disappointment, Shiho quickly left the classroom.†
 
-    ("「ったく、二年に繧上がって烽も同じことの繰闌り返しかよ？」",
+    ("「ったく、二年に繧上がって烽も同じことの繰り返しかよ？」",
     ""),
     # "And then, after two years, the same thing happens again, isn't it?"
 
-    ("ため息交じりでそう言うと、オ激レは席に戻った。†",
+    ("ため息交じりでそう言うと、オレは席に戻った。†",
     ""),
     # I sighed and said that, and then I returned to my seat.†
 

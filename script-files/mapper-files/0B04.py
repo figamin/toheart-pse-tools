@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Ah, I like it, do you think?"
 
-    ("オ激レはきっぱり言った。",
+    ("オレはきっぱり言った。",
     ""),
     # I said firmly.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Where are you?"
 
-    ("「どのへんがって、いｂいｂだよ」",
+    ("「どのへんがって、いいだよ」",
     ""),
     # "Anyway, you're a b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "for example?"†
 
-    ("「たとえば？	そうだな、きれいだし、素直だし、可愛いし、なんていうか、いっし蛯ょにいると幸せな気分になるじ痰ゃんか」",
+    ("「たとえば？	そうだな、きれいだし、素直だし、可愛いし、なんていうか、いっしょにいると幸せな気分になるじ痰ゃんか」",
     ""),
     # "For example? That's right, she's beautiful, honest, and cute, what do you mean? When you're in the espresso, you'll feel happy."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("「なんかよく墲わかんねーけど、そんな感じ？	ははっ、なに言ってんだ、オ激レ？」",
+    ("「なんかよく墲わかんねーけど、そんな感じ？	ははっ、なに言ってんだ、オレ？」",
     ""),
     # "I don't really understand, but that's how it is? Haha, what are you talking about, I'm so brutal?"
 
@@ -43,10 +43,10 @@ text_array = [
     # I scratched my head to hide the light.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("そんなオ激レを、綾∴香は竄や墲わらかく微笑んでじっと見つめていた。†",
+    ("そんなオレを、綾∴香はや墲わらかく微笑んでじっと見つめていた。†",
     ""),
     # Ayaka stared at me with a soft smile.†
 

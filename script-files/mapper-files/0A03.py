@@ -6,23 +6,23 @@ text_array = [
     ""),
     # (B I won't go.)†
 
-    ("竅やっぱり、竅やめとくか。",
+    ("やっぱり、やめとくか。",
     ""),
     # After all, I guess I should stop doing that.
 
-    ("どうせ誰かのイタズ宴ラにｌまってる。",
+    ("どうせ誰かのイタズラにｌまってる。",
     ""),
     # I'm gonna be at someone's prank banquet anyway.
 
-    ("もし本末当に奄ラブ激レターだとして烽も、それはそれで返抹事に困骰る。",
+    ("もし本末当に奄ラブレターだとして烽も、それはそれで返抹事に困骰る。",
     ""),
     # If it were to be a fierce letter from Amami Love, it would be a pain to cancel it.
 
-    ("ま、どっちにしｂ、面倒なことになるのは間瘧違いないだｂう。",
+    ("ま、どっちにし、面倒なことになるのは間瘧違いないだう。",
     ""),
     # Well, it must be a pain to go to the trouble b.
 
-    ("オ激レは痰例の手試をカバンにおさめ、教室を出た。◯",
+    ("オレは痰例の手試をカバンにおさめ、教室を出た。◯",
     ""),
     # I put a hand test to phlegm in my bag and left the classroom.◯
 

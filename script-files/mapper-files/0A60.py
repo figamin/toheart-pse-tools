@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("駅でまで勉強なんて、ごくｂーなことだな。",
+    ("駅でまで勉強なんて、ごくーなことだな。",
     ""),
     # Studying at the station is a very beast.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It seems that the test study was also a must-read for studying.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

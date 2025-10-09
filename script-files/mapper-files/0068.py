@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Shoe cabinet.
 
-    ("堰ラブ激レターは…ないか。",
+    ("堰ラブレターは…ないか。",
     ""),
     # Is there a huge letter of love for the dam...?
 
@@ -75,7 +75,7 @@ text_array = [
     # There's phlegm to it...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("んに痰ゃ〜〜〜〜〜〜〜〜ん。",
@@ -83,7 +83,7 @@ text_array = [
     # There's phlegm to it...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("んに痰ゃ〜〜〜〜〜〜〜〜ん。†",
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Shut up!"
 
-    ("オ激レは飛び起きて怒鳴った。†",
+    ("オレは飛び起きて怒鳴った。†",
     ""),
     # I jumped up and yelled.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # There was a slender, floating black cat on the wall.
 
-    ("オ激レの顔を見骭ると、",
+    ("オレの顔を見骭ると、",
     ""),
     # I looked at my face,
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Look, sir!"
 
-    ("追い払おうとして烽も、もの珍しそうにオ激レを見つめて鳴くだけ。",
+    ("追い払おうとして烽も、もの珍しそうにオレを見つめて鳴くだけ。",
     ""),
     # In an attempt to drive him away, Hou just peers at me with a rare look on his face.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # It's a bit harsh, stiff phlegm.
 
-    ("思寬わず鰍投げつける物はないかとさがしたが、さすがにそれはか墲わいそうなので、竅やめて、ベッドに戻った。",
+    ("思寬わず鰍投げつける物はないかとさがしたが、さすがにそれはか墲わいそうなので、やめて、ベッドに戻った。",
     ""),
     # Without thinking about it, I looked for something to throw at me, but it was a shame that it was so bad that I stopped slurping and went back to bed.
 
@@ -154,12 +154,12 @@ text_array = [
     ""),
     # Put on headphones and listen to the CD.
 
-    ("これで、いいだｂ。†",
+    ("これで、いいだ。†",
     ""),
     # This is fine.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("今度は音楽がうるさくて眠齧れない。",

@@ -26,7 +26,7 @@ text_array = [
     ""),
     # B I won't go.Relax
 
-    ("い竄や、また今度にしよう。†",
+    ("いや、また今度にしよう。†",
     ""),
     # I'll tamper with it, I'll do it again next time.†
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (First day of the final test for the ritual) (Selected, Rakuwang wins)†
 
-    ("「ち蛯ょｂい烽もんさ。楽汪勝だったぜ」",
+    ("「ちょい烽もんさ。楽汪勝だったぜ」",
     ""),
     # "It's a good day. It was a great victory."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Akari smiled.
 
-    ("「ま、いちおう、お前といっし蛯ょに頑張った甲纃斐があったかな」",
+    ("「ま、いちおう、お前といっしょに頑張った甲纃斐があったかな」",
     ""),
     # "Well, I guess it was worth the effort you put in with me."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「それにして烽も、一驤夜漬けにしてこのでき、もしかしてオ激レって、真面目に竄やったらかなりスゲーんじ痰ゃねーか？」",
+    ("「それにして烽も、一驤夜漬けにしてこのでき、もしかしてオレって、真面目にやったらかなりスゲーんじ痰ゃねーか？」",
     ""),
     # "And then, if you soak it in the evening, you can do it, and if you're going to do it seriously, you'll have a lot of phlegm?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # When did I get a vague answer that was just like a hot one?†
 
-    ("「お前がそういうからには、かなり繧上出女なほうなんだｂ」",
+    ("「お前がそういうからには、かなり繧上出女なほうなんだ」",
     ""),
     # "If you're that kind of thing, you're a pretty big-time girl."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Oh, yes, well. I think I did it more than I thought."
 
-    ("「コツコツ真面目に竄やってる竄やつは、その分の蓄積がある烽もんだ。",
+    ("「コツコツ真面目にやってるやつは、その分の蓄積がある烽もんだ。",
     ""),
     # "The tampering people who keep working hard and seriously are accumulating.
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # It's fine to criticize the gods, but it's not safe just because the day the dam has finished, it's over.
 
-    ("明坙日から蛯大崩れってこと烽もありうる。",
+    ("明坙日から大崩れってこと烽もありうる。",
     ""),
     # It is possible that the slut will collapse from the Ming Shun Day.
 
-    ("「まあ、まだ奄初叝日だし、いっし蛯ょに頑張窒うぜ」",
+    ("「まあ、まだ奄初叝日だし、いっしょに頑張窒うぜ」",
     ""),
     # "Well, it's still the first Amazement day, so I'll do my best to join in on the slut."
 

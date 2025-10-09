@@ -2,15 +2,15 @@
 # Source file: 0861.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	いっし蛯ょに帰汲う）†",
+    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	いっしょに帰汲う）†",
     ""),
     # (Fall Remy: Scales Event PS) (Choose-so Return to Isshi-e)†
 
-    ("「なあ撃レミィ、いっし蛯ょに帰汲うぜ」",
+    ("「なあ撃レミィ、いっしょに帰汲うぜ」",
     ""),
     # "Hey, Ekire Remi, I'll return to the ephemeral."
 
-    ("「残念デス…。アタシ、ごいっし蛯ょできマセ〜ン」",
+    ("「残念デス…。アタシ、ごいっしょできマセ〜ン」",
     ""),
     # "Unfortunately... I'm good at it."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Kyado? ...Ah, archery foil?"
 
-    ("「ごいっし蛯ょします？」†",
+    ("「ごいっしょします？」†",
     ""),
     # "Can I suppose you suppose?"
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # …Yeah.
 
-    ("ま、どうせヒマだし、弓道箔部ってのがどんなとこｂなのか見てみるの烽もいいか烽も。",
+    ("ま、どうせヒマだし、弓道箔部ってのがどんなとこなのか見てみるの烽もいいか烽も。",
     ""),
     # Well, I've had time anyway, so I'll see what Kyudo Hokube is like, or maybe even Hokube.
 
-    ("「いいぜ。ごいっし蛯ょしまし蛯ょ」†",
+    ("「いいぜ。ごいっしょしましょ」†",
     ""),
     # "That's fine. I'll give you a slut"†
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "This is the Cado field."
 
-    ("戟レミィに案煦内されて竄やってきた弓道齠場には、すでに何人かの部員が竄やってきていた。†",
+    ("戟レミィに案煦内されてやってきた弓道齠場には、すでに何人かの部員がやってきていた。†",
     ""),
     # Several members have already been tampering with the idea of ​​being put into the Kyudo Hall, which was being tampered with by the king Remy.†
 
-    ("みると、みんな準備運動を竄やっている。",
+    ("みると、みんな準備運動をやっている。",
     ""),
     # Looking at it, everyone is tampering with warm-up exercises.
 
@@ -58,19 +58,19 @@ text_array = [
     ""),
     # "We'll also do warm-up exercises for Kyudo Kan."
 
-    ("ぴくりと烽も動かずに薰矢をｂ撃ってるようなイ＜メージがあるけど、竅やっぱ弓道燗もスポーツなんだな。†",
+    ("ぴくりと烽も動かずに薰矢を撃ってるようなイ＜メージがあるけど、やっぱ弓道燗もスポーツなんだな。†",
     ""),
     # There's an image of him shooting a snake without moving, but I guess Kyudo Kan is a sport after all.†
 
-    ("「準備体操は最燕初に済ませるの。、竅やってみる？」",
+    ("「準備体操は最燕初に済ませるの。、やってみる？」",
     ""),
     # "I'll do the warm-up exercises the first time I'm in the first place. Would you like to try it out?"
 
-    ("「い竄や、遠慮しとく」",
+    ("「いや、遠慮しとく」",
     ""),
     # "I'll just swear, please refrain."
 
-    ("なんでオ激レまで体操すんだよ。",
+    ("なんでオレまで体操すんだよ。",
     ""),
     # Why do I exercise so much so much?
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Sorry, death..."
 
-    ("「残念じ痰ゃねー諱よ。オ激レは見にｗただけなの」",
+    ("「残念じ痰ゃねー諱よ。オレは見にｗただけなの」",
     ""),
     # "I'm sorry, I have no phlegm, my name is. I just wanted to see it lol."
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "Oh? I'm going to exchange £"
 
-    ("そう言って、戟レミィは更衣室の福方へ烽歩いていった。",
+    ("そう言って、戟レミィは更衣室の方へ烽歩いていった。",
     ""),
     # With that in mind, Yu Remi walked to the Fukuwara area in the changing room.
 
-    ("オ激レは手近の壁に寄闃りかかってｎ囲を見ま墲わす。†",
+    ("オレは手近の壁に寄闃りかかってｎ囲を見ま墲わす。†",
     ""),
     # My gang approaches a wall near me and looks at the n-circumference.†
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # It looks like a roadside, but the walls are gone so well on this side, and you can see the sandy surface of the size of a tennis court.
 
-    ("さらに怩奥には的が置いてあるのを見骭ると、あの砂地の繧上を薰矢がビャンビャン飛ぶんだｂう。",
+    ("さらに怩奥には的が置いてあるのを見骭ると、あの砂地の繧上を薰矢がビャンビャン飛ぶんだう。",
     ""),
     # When I saw a target further downstairs, I saw that a dragon flew over that sandy land.
 
-    ("砂地の脇にバ激レーボールがいくつか転がってるけど、なにに使うんだｂう？†",
+    ("砂地の脇にバレーボールがいくつか転がってるけど、なにに使うんだう？†",
     ""),
     # There are a few voluptuous railballs lying on the side of the sandy surface, what are they using it for?†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # After a while, Geki Remi appeared wearing a hakama.
 
-    ("胴湯とはかまを身につけた撃レミィは、いかに烽も冾日本好きの外人ってノ潟リで、場瘴違いなのかハマってるのかよく墲わからない。",
+    ("胴湯とはかまを身につけた撃レミィは、いかに烽も冾日本好きの外人ってノリで、場瘴違いなのかハマってるのかよく墲わからない。",
     ""),
     # Ekiremi, wearing a basin and a hakama, is a foreigner who loves Japan, and it's hard to tell whether he's a different person or not.
 
@@ -142,16 +142,16 @@ text_array = [
     ""),
     # Suddenly, Ekire Remie began warming up.
 
-    ("律儀にそんなこと竄やらなくて烽もバチは魔当たらないだｂうに。",
+    ("律儀にそんなことやらなくて烽もバチは魔当たらないだうに。",
     ""),
     # They don't just tamper with that and the fire doesn't hit the target.
 
-    ("準備なんていいから、﨟矢をｂ撃つとこｂを見せて欲しいな。",
+    ("準備なんていいから、﨟矢を撃つとこを見せて欲しいな。",
     ""),
     # Preparation is fine, so I would like you to show me how I shoot an arrow b.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「イチ、ニ、サン、シ…」†",
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # ・†
 
-    ("竅やっと終尞わった。",
+    ("やっと終尞わった。",
     ""),
     # It's finally finished.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # I've had to wait quite a while...
 
-    ("「さ、＝早く竄やってくれ」",
+    ("「さ、＝早くやってくれ」",
     ""),
     # "Well, please tamper with it quickly."
 
@@ -198,15 +198,15 @@ text_array = [
     ""),
     # "Please show me your hands soon."
 
-    ("戟レミィが準備しているあいだに、諱先輩粕部員がふたり、こっちに竄やってきた。",
+    ("戟レミィが準備しているあいだに、諱先輩粕部員がふたり、こっちにやってきた。",
     ""),
     # While Garemy was preparing, two members of the former member of the Kasu club began to tamper with me.
 
-    ("戟レミィの福口ぶりからして先輩のはずだけど、ぱっと見血レミィ諠より年下に見えてしまう。",
+    ("戟レミィの口ぶりからして先輩のはずだけど、ぱっと見血レミィ諠より年下に見えてしまう。",
     ""),
     # Given the good-for-mouth attitude of Remie, he must be a senior, but at first glance he looks younger than Lemne Remie.
 
-    ("冝日本人って、竅やっぱ幼く見えるんだなぁ。†",
+    ("冝日本人って、やっぱ幼く見えるんだなぁ。†",
     ""),
     # Japanese people look young after all.†
 
@@ -238,11 +238,11 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("オ激レはあいまいにうなずいた。†",
+    ("オレはあいまいにうなずいた。†",
     ""),
     # I nodded vaguely.†
 
-    ("「彼濫女、すごい墲わよぉ。じっくり見て竄やんなさい」",
+    ("「彼濫女、すごい墲わよぉ。じっくり見てやんなさい」",
     ""),
     # "He's so crazy, he's so crazy. Take your time and tamper with it."
 
@@ -254,11 +254,11 @@ text_array = [
     ""),
     # Wow... The guy from Hakuremi said he was a sputum and slutty guy, but he was actually very skilled.
 
-    ("オ激レはじっくり見兼った。†",
+    ("オレはじっくり見兼った。†",
     ""),
     # I took a close look at my hard work.†
 
-    ("弓と薰矢を揩持って、′まりで烽もあるのか独特の烽歩き福方で位置にｒく。",
+    ("弓と薰矢を揩持って、′まりで烽もあるのか独特の烽歩き方で位置にｒく。",
     ""),
     # With the bow and arrows attached, the unique roaming and fortune is probably a roaming roaming style.
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # "Ehhhh..."
 
-    ("こっちを見て照齒れ笑いをｂ浮かべる撃レミィ。",
+    ("こっちを見て照齒れ笑いを浮かべる撃レミィ。",
     ""),
     # Ekiremi looks at me and smiles.
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # Is that all you have to do is keep people waiting so long?†
 
-    ("「見た見た？	戟レミィってね、♂はすっごいキ激レイなのに、﨟矢は変な福方へ飛んじ痰ゃうのよ」",
+    ("「見た見た？	戟レミィってね、♂はすっごいキレイなのに、﨟矢は変な方へ飛んじ痰ゃうのよ」",
     ""),
     # "Did you see it? The male is so crazy, but the arrows fly towards a strange lucky direction and phlegm."
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # Senior Kasu club member seemed to be good at explaining Ekire Remi's abilities and nodded his head to the match.†
 
-    ("「残念ねぇ…。せっかく撃レミィ、彼＃氏の前でカッコイイとこ見せようと思ったんでし蛯ょうけど」",
+    ("「残念ねぇ…。せっかく撃レミィ、彼＃氏の前でカッコイイとこ見せようと思ったんでしょうけど」",
     ""),
     # "I'm sorry... I was trying to make it so I thought I'd show you something cool in front of Mr. #, so I'll be eclipsing."
 
@@ -350,11 +350,11 @@ text_array = [
     ""),
     # Or, he#my boyfriend!?
 
-    ("「あ、オ激レ、戟レミィとは｢｢」†",
+    ("「あ、オレ、戟レミィとは｢｢」†",
     ""),
     # "Ah, I'm a geek, what is """†
 
-    ("「いいからいいから。…そうだ、戟レミィにア激レ窿やらせようよ。きっと彼＃氏燻も宸惚鼾れ直す墲わよ」",
+    ("「いいからいいから。…そうだ、戟レミィにアレ窿やらせようよ。きっと彼＃氏燻も宸惚鼾れ直す墲わよ」",
     ""),
     # "It's fine....That's right, let me make Humili do some crazy things. I'm sure he'll fall in love with him too."
 
@@ -366,19 +366,19 @@ text_array = [
     ""),
     # Senior Kasu club member said this and nodded to the match.
 
-    ("なにを竄やらせるんだ？",
+    ("なにをやらせるんだ？",
     ""),
     # What are you making them tamper with?
 
-    ("「戟レミィ、ア激レ窿やって見せなよ。きっと彼＃氏燻もｊぶよ〜」",
+    ("「戟レミィ、アレ窿やって見せなよ。きっと彼＃氏燻もｊぶよ〜」",
     ""),
     # "Haha Remi, let's do some super hard work and show you. I'm sure he'll smoke too."
 
-    ("だからオ激レは痰違うってば。†",
+    ("だからオレは痰違うってば。†",
     ""),
     # That's why I have to be extremely phlegm differently.†
 
-    ("「潤ワッカ潟リましたーっ」",
+    ("「潤ワッカリましたーっ」",
     ""),
     # "Junwakkararari is here."
 
@@ -386,7 +386,7 @@ text_array = [
     ""),
     # When Karemi nodded, one of his seniors went around the side of the road and headed out to the side of the sandstone.
 
-    ("その間に、戟レミィは薰矢を３本阮手にしている。",
+    ("その間に、戟レミィは薰矢を３本手にしている。",
     ""),
     # Meanwhile, Hakuremi has three Tomorrows in his hand.
 
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # With that in mind, the senior next to the sandbag plunged something into the sandbag.
 
-    ("地面にあたって跳ね返髟る、その何かはさっき見たバ激レーボールだった。",
+    ("地面にあたって跳ね返髟る、その何かはさっき見たバレーボールだった。",
     ""),
     # Something that hit the ground and bounced back was the fierce volleyball I had just seen.
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # At that moment, he fired one after another the Yatsuremi that had been holding.
 
-    ("３本をｂ撃つのに５秒熾もかかっていない。†",
+    ("３本を撃つのに５秒熾もかかっていない。†",
     ""),
     # It took less than five seconds to shoot three b.†
 
@@ -438,11 +438,11 @@ text_array = [
     ""),
     # It never thrusts into the ball, but the arrows certainly bounced it off.†
 
-    ("「どお？	すごいでし蛯ょ、戟レミィって」",
+    ("「どお？	すごいでしょ、戟レミィって」",
     ""),
     # "What? That's amazing, slut, slut, slut Remy."
 
-    ("諱先輩粕部員の言葉に、オ激レは無意識にうなずいていた。",
+    ("諱先輩粕部員の言葉に、オレは無意識にうなずいていた。",
     ""),
     # I nodded unconsciously to the words of my senior member Kasube.
 
@@ -466,11 +466,11 @@ text_array = [
     ""),
     # "Did you re-examine it?"
 
-    ("照齒れ笑いをｂ浮かべて撃レミィが聞いた。",
+    ("照齒れ笑いを浮かべて撃レミィが聞いた。",
     ""),
     # Ekiremi asked, laughing at him.
 
-    ("オ激レの嘯答えは｢｢。",
+    ("オレの嘯答えは｢｢。",
     ""),
     # My throbbing answer is ".
 
@@ -478,7 +478,7 @@ text_array = [
     ""),
     # A praises him as "Amazing."Relax
 
-    ("Ｂ	『瘁違うだｂ』と烽説教。閨",
+    ("Ｂ	『瘁違うだ』と烽説教。閨",
     ""),
     # B: "It's not mirage b."Relax
 

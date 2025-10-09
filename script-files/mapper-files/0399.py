@@ -2,11 +2,11 @@
 # Source file: 0399.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｂ	どっちが本末当かなんて墲わかんねーだｂ）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｂ	どっちが本末当かなんて墲わかんねーだ）†",
     ""),
     # (Tomoko's Scales Event: Departing from School LV1) (Choice B: I don't know which is the real deal b)†
 
-    ("「…どっちが本末当かなんて墲わかんねーだｂ。だからなんと烽も言えねーな」",
+    ("「…どっちが本末当かなんて墲わかんねーだ。だからなんと烽も言えねーな」",
     ""),
     # "...I don't know which one is the real deal. So I can't even say what a hot topic."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # If I were to express my personal opinion, I don't really want to trust Shiho.
 
-    ("志保ち痰ゃん薰情報を信じるのはシャャクだし、なにより悪く言う福方阜には賛同したくない。†",
+    ("志保ち痰ゃん薰情報を信じるのはシャャクだし、なにより悪く言う方阜には賛同したくない。†",
     ""),
     # Shayaku believes in Shiho's information, and most importantly, I don't want to agree with Fukukata Fu, who says bad things about it.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # That said, it's probably Shiho is more correct, and it's also violent that if he calls him a liar, he's going to fall for him.
 
-    ("まあ、本末当のとこｂは墲わかんねーんだし、そういうう墲わさが流齬れてるって程度に留めておこう。†",
+    ("まあ、本末当のとこは墲わかんねーんだし、そういうう墲わさが流齬れてるって程度に留めておこう。†",
     ""),
     # Well, I don't know about the main story, so let's just say that such a trait is in conflict.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Is there no close friends?”
 
-    ("「さあ？	誰かと親しくしてるとこｂなんて見たことない墲わね。きっとひとりでいるのが好きなのよ」",
+    ("「さあ？	誰かと親しくしてるとこなんて見たことない墲わね。きっとひとりでいるのが好きなのよ」",
     ""),
     # "Now? I've never seen anyone get along with B. I'm sure I like being alone."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Hmm..." †
 
-    ("「ち蛯ょっと？",
+    ("「ちょっと？",
     ""),
     # "Come on?
 

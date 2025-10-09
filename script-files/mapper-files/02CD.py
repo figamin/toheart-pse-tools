@@ -2,15 +2,15 @@
 # Source file: 02CD.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ６）閨（選択綜Ｃ	いい竄や、まだ待ってみよう）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ６）閨（選択綜Ｃ	いいや、まだ待ってみよう）†",
     ""),
     # (Seri° Kaori, Scales Event 2F LV6)Seri (Select C: Tamper, let's wait for it)†
 
-    ("いい竄や、まだ待ってみよう。",
+    ("いいや、まだ待ってみよう。",
     ""),
     # Tampering, let's wait.
 
-    ("オ激レは思った。",
+    ("オレは思った。",
     ""),
     # I thought so.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # It looks a bit awkward, but I'm sure it's the Shinbuken that's hot.
 
-    ("オ激レが先輩を信じなくてどうする。",
+    ("オレが先輩を信じなくてどうする。",
     ""),
     # What will I do if I don't believe in my senior?
 
-    ("信じる力がｂ魔法になるんだ。",
+    ("信じる力が魔法になるんだ。",
     ""),
     # The power of faith becomes b-magic.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Yeah.
 
-    ("オ激レは再び空を見繻上げた。†",
+    ("オレは再び空を見上げた。†",
     ""),
     # I looked up at the sky again.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # It's like a rain cloud.†
 
-    ("それが、ち蛯ょうどオ激レたちの頭纉上あたりに差しかかったとき…。",
+    ("それが、ちょうどオレたちの頭纉上あたりに差しかかったとき…。",
     ""),
     # That's when it hits the edge of the people who are so excited...
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # Paradise and paradise...
 
-    ("オ激レたちの頬を。",
+    ("オレたちの頬を。",
     ""),
     # My fierce cheeks.
 
@@ -106,19 +106,19 @@ text_array = [
     ""),
     # "It's raining!"
 
-    ("オ激レは飛び繧上がった。†",
+    ("オレは飛び繧上がった。†",
     ""),
     # My ramblings flew up.†
 
-    ("「竅やった！	雨だ！	雨降った！	すげえ、すげーぜ、諱先輩！	ホントに降ったよ！」",
+    ("「やった！	雨だ！	雨降った！	すげえ、すげーぜ、諱先輩！	ホントに降ったよ！」",
     ""),
     # "Yes! It's raining! It's raining! Amazing, amazing, Senpai! It really rained!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レは先輩の手を取ってはし痰ゃいだ。†",
+    ("オレは先輩の手を取ってはし痰ゃいだ。†",
     ""),
     # I took my senior's hand and sputum.†
 
@@ -126,15 +126,15 @@ text_array = [
     ""),
     # Strange weather.
 
-    ("キツネの嫁遠闢りって竄やつだよな。",
+    ("キツネの嫁遠闢りってやつだよな。",
     ""),
     # Fox's wife is a tampering thing.
 
-    ("竅銀色の筋が陽射しに光って輝いている。",
+    ("銀色の筋が陽射しに光って輝いている。",
     ""),
     # The silver skeleton glows in the sunlight.
 
-    ("オ激レは目を細め、空を見繻上げた。†",
+    ("オレは目を細め、空を見上げた。†",
     ""),
     # My eyes narrowed and looked up at the sky.†
 
@@ -158,16 +158,16 @@ text_array = [
     ""),
     # But it rained.
 
-    ("諱先輩とオ激レの信じる力が汲結果を示したんだ。†",
+    ("諱先輩とオレの信じる力が汲結果を示したんだ。†",
     ""),
     # The power of my senior and my fierce beliefs showed the results.†
 
-    ("「諱先輩、オ激レ、ａ魔法を信じるぜ！	だって、この目でたしかに見たんだからな！」",
+    ("「諱先輩、オレ、ａ魔法を信じるぜ！	だって、この目でたしかに見たんだからな！」",
     ""),
     # "I'm a senpai, I'm a gesture, I believe in a spell! Because I certainly saw it with my own eyes!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は嬉しそうな恥ずかしそうな、そんな複雑な表﨣情でうつむいた。◯",

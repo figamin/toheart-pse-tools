@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The current day is the 21st day of the 3rd Lion Day and the Friday Day.
 
-    ("昨厓日苴ゆっくり羽を伸ばしたせいか、今厓日はすこぶる調子がいい。†",
+    ("昨厓日ゆっくり羽を伸ばしたせいか、今厓日はすこぶる調子がいい。†",
     ""),
     # Perhaps because I slowly stretched my wings last year, I'm in great shape right now.†
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "The answers will be sent back from the day you've just lost."
 
-    ("「あーあ、凵嫌なこと思い出させ竄やがって…」",
+    ("「あーあ、凵嫌なこと思い出させやがって…」",
     ""),
     # "Ahh, you're making me remember something bad..."
 
-    ("そんなことを言いつつ烽歩いていると、縺後撃から誰かがｋけてきた。†",
+    ("そんなことを言いつつ烽歩いていると、縺後撃から誰かが駆けてきた。†",
     ""),
     # As I walked around saying this, someone started to hit me after the attack.†
 
-    ("「セーフ！	どう竄やらここら辺がギ潟リギ潟リのボーダーねっ！」",
+    ("「セーフ！	どうやらここら辺がギリギリのボーダーねっ！」",
     ""),
     # "Safe! Whatever you say, this is the borderline for Gigata Rigigata Ri!"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Oh good."
 
-    ("「あいさつ烽もいいけどな、オ激レたちを遅薯刻のデッド宴ラインにすんなっての」†",
+    ("「あいさつ烽もいいけどな、オレたちを遅薯刻のデッドラインにすんなっての」†",
     ""),
     # "The greetings and hot springs are nice too, but don't let the sluggish roe and the others go into the dead banquet line with late potatoes."
 

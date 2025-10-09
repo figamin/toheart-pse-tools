@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Senpai! Senpai!"
 
-    ("オ激レは店のｒにｌかって呼びかけた。†",
+    ("オレは店のｒにｌかって呼びかけた。†",
     ""),
     # I called out to the store's rumours.†
 
-    ("「オ激レだよ、だよ〜〜〜っ！」",
+    ("「オレだよ、だよ〜〜〜っ！」",
     ""),
     # "It's super exciting, it's not!"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Hey, boy, you?!"
 
-    ("店燗内の先輩は声に気が付いて、カ宴ラカ宴ラと店の戸を開け、こっちに烽歩いてきた。†",
+    ("店燗内の先輩は声に気が付いて、カラカラと店の戸を開け、こっちに烽歩いてきた。†",
     ""),
     # The senior inside the store, noticed the voice, opened the door to the store and walked over me.†
 
@@ -34,27 +34,27 @@ text_array = [
     ""),
     # "I'm here, here you go! Come on!"
 
-    ("オ激レは手招きした。",
+    ("オレは手招きした。",
     ""),
     # I beckoned.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("まっすぐオ激レを見つめながら、歩み寄ってくる先輩。",
+    ("まっすぐオレを見つめながら、歩み寄ってくる先輩。",
     ""),
     # Senpai walks up, staring straight at me.
 
-    ("あと３≠メート泣ル。",
+    ("あと３≠メートル。",
     ""),
     # Another 3 ≠mate cry.
 
-    ("２≠メート泣ル。",
+    ("２≠メートル。",
     ""),
     # 2≠m crying.
 
-    ("オ激レは手を伸ばす。†",
+    ("オレは手を伸ばす。†",
     ""),
     # I reached out to my hand.†
 

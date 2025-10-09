@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Hahaha, O-san, please give me some fun.
 
-    ("庶民に対するこのようなビッグプ激レゼントは、今回限闌りとさせていただきますぞ」",
+    ("庶民に対するこのようなビッグプレゼントは、今回限りとさせていただきますぞ」",
     ""),
     # This huge present for the common people will be limited to this very moment."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Twice.
 
-    ("こいつがいる限闌り、ふたりは素直に汲結ばれそうにないぜ。†",
+    ("こいつがいる限り、ふたりは素直に汲結ばれそうにないぜ。†",
     ""),
     # As long as this guy is there, it seems unlikely that the two will be united.†
 
@@ -43,10 +43,10 @@ text_array = [
     # I'm not sure what to do with my name, Senpai!”
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レは手を繧上げ、その場を獅去った。◯",
+    ("オレは手を繧上げ、その場を獅去った。◯",
     ""),
     # My heart lifted my hand and left the scene.◯
 

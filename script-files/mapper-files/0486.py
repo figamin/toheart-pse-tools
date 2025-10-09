@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho Scales Event, 2nd Floor 1) (Choose-so-go-go)†
 
-    ("「い〜竅や。オ激レは帰驪る！」",
+    ("「い〜や。オレは帰驪る！」",
     ""),
     # "Yeah, that's it. I'm back!"
 
-    ("オ激レは逆に、志保を押し返した。",
+    ("オレは逆に、志保を押し返した。",
     ""),
     # On the contrary, I pushed Shiho back.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Your information is fake. Just listening is useless."
 
-    ("そう言ってオ激レは、すたすたと廊下に出髀る。",
+    ("そう言ってオレは、すたすたと廊下に出髀る。",
     ""),
     # With that in mind, I came out into the hallway with a stubborn person.
 
-    ("そして、增わき目燒も振逅らず烽歩き出した。†",
+    ("そして、わき目燒も振逅らず烽歩き出した。†",
     ""),
     # And the stumbling blocked the ball and started walking.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Hey, wait!"
 
-    ("志保の声が追ってきたが、オ激レは無許視した。◯",
+    ("志保の声が追ってきたが、オレは無許視した。◯",
     ""),
     # Shiho's voice followed, but I was unauthorized.◯
 

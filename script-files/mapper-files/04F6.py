@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Oh, if you don't have to phlegm, you won't be able to get the heart of the girl next time, right?"
 
-    ("「いまのとこｂは必要ないね」†",
+    ("「いまのとこは必要ないね」†",
     ""),
     # "I don't need b at this moment" †
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "You're saying stoic things."
 
-    ("「いまのとこｂは、な」†",
+    ("「いまのとこは、な」†",
     ""),
     # "What is the place b now?"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "I don't have any phlegms. I'll get it at this point."
 
-    ("「增わかんねえこと言うな」†",
+    ("「わかんねえこと言うな」†",
     ""),
     # "Don't say anything you don't know"
 
-    ("なんて立ち話をして、オ激レたちは別れた。◯",
+    ("なんて立ち話をして、オレたちは別れた。◯",
     ""),
     # After talking, we broke up.◯
 

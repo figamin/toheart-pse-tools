@@ -2,11 +2,11 @@
 # Source file: 0184.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（選択綜Ａ	オ激レが窒白酒で）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（選択綜Ａ	オレが窒白酒で）†",
     ""),
     # (Akari Scales Event 2F) Li (Shoku Sou A, Ogere is Nibai sake)†
 
-    ("「オ激レが窒白酒飲んで撃酔っ払ったことか？」",
+    ("「オレが窒白酒飲んで撃酔っ払ったことか？」",
     ""),
     # "Did I get drunk after drinking nitrogen liquor?"
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Akari nodded twice.
 
-    ("「そうだｂうとは思ったけど、ビンゴかよ。さっさと忘齧れｂって言ってんのによ」",
+    ("「そうだうとは思ったけど、ビンゴかよ。さっさと忘齧れって言ってんのによ」",
     ""),
     # "I thought I'd b, but is it bingo? I'm saying, "Get forget b."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Akari chuckles.†
 
-    ("「ち痰ゃん、あのときは蛯大暴齧れだったね」",
+    ("「ち痰ゃん、あのときは大暴齧れだったね」",
     ""),
     # "Choy, you had a big dick at that time."
 
@@ -38,23 +38,23 @@ text_array = [
     ""),
     # "Tch..." †
 
-    ("「п私とｉ史ち痰ゃんからお菓子を取闔り繧上げて、ひな壇のぼって、一番續上で蛯大笑いして…」",
+    ("「п私とｉ史ち痰ゃんからお菓子を取闔り繧上げて、ひな壇のぼって、一番續上で大笑いして…」",
     ""),
     # "I picked up some sweets from me and I-Shin Chisho-chan, then climbed up the front door, and laughed loudly on the top of the house..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「だけど、そこでひな壇が崩れて烽もう蛯大変！",
+    ("「だけど、そこでひな壇が崩れて烽もう大変！",
     ""),
     # "But then the altar collapses and it's a pain!
 
-    ("めち痰ゃくち痰ゃの蛯大尅騒ぎ」",
+    ("めち痰ゃくち痰ゃの大尅騒ぎ」",
     ""),
     # A big stimulus is a big stimulus."
 
-    ("「お前の母さんが、面猪白がってオ激レに何杯熹も窒白酒闔",
+    ("「お前の母さんが、面猪白がってオレに何杯熹も窒白酒闔",
     ""),
     # "Your mother is wearing a big boar and slurping my face with a lot of cups of nitrogen wine.
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # Because I'll give you a drink"
 
-    ("「氏落っこちたち痰ゃん、そのままピク潟リと烽も動かなくて、みんなびっくりしたんだけど、じつはそのまま寝ち痰ゃってて…」",
+    ("「氏落っこちたち痰ゃん、そのままピクリと烽も動かなくて、みんなびっくりしたんだけど、じつはそのまま寝ち痰ゃってて…」",
     ""),
     # "They fell off, but the sputum fell on the ground, and the spurts didn't move, which was surprising, but in fact they just went to sleep and sputum..."
 
-    ("「お前、諱よくそんな蛯大昔のこと覚えてるな。感心するぜ」†",
+    ("「お前、諱よくそんな大昔のこと覚えてるな。感心するぜ」†",
     ""),
     # "You often remember such a long time ago. I'm impressed."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("「ア泣ルバムに貼ってあるの」",
+    ("「アルバムに貼ってあるの」",
     ""),
     # "It's stuck on Ahhh Rubum."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Akari said with a chuckle.†
 
-    ("「いま見骭ると、ちっち痰ゃいこｂのち痰ゃん、とって烽も可愛いんだよ」",
+    ("「いま見骭ると、ちっち痰ゃいこのち痰ゃん、とって烽も可愛いんだよ」",
     ""),
     # "When I look at it now, I see that the little phlegm is also cute, and the hot phlegm is also cute."
 

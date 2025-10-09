@@ -2,11 +2,11 @@
 # Source file: 0420.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（４／３０固闌定）閨（本屋煢内）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（４／３０固定）閨（本屋煢内）†",
     ""),
     # (Shiho Scales Event PS) (4/30th) (inside the bookstore)†
 
-    ("帰闍り道、オ激レは本屋に寄った。",
+    ("帰闍り道、オレは本屋に寄った。",
     ""),
     # On my way home, I stopped by a bookstore.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # It's Shiho.
 
-    ("文庫本のコーナーで、なに竄やら一心不枢乱に読みふけっている。†",
+    ("文庫本のコーナーで、なにやら一心不枢乱に読みふけっている。†",
     ""),
     # In the paperback section, he is indulging in reading something about things like tampering with one-minded temperament.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

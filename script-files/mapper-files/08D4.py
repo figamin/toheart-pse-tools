@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Karemi Likeability Event PS)†
 
-    ("「Ｈ盾ｏ翌ｗ	＝ａ窒ｒｂ	凵ｙ盾ｏ浮ｕ？」",
+    ("「Ｈ盾ｏ翌ｗ	＝ａ窒ｒ	凵ｙ盾ｏ浮ｕ？」",
     ""),
     # "H shield o the next lol = a nitrogen shield o floats?"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # During the break, Eki Remi suddenly asked.
 
-    ("戟レミィを見慣れていない連中は、じｂじｂとこっちを見ている。†",
+    ("戟レミィを見慣れていない連中は、じじとこっちを見ている。†",
     ""),
     # Those who are not used to seeing Karemi are looking at me with the b-b-b.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Oh, I hope they'll be sent to the game center on the next Sunday day."
 
-    ("「スト激レートだなぁ。デートのお誘いか？」",
+    ("「ストレートだなぁ。デートのお誘いか？」",
     ""),
     # "It's a very rapid rate. Is it an invitation to go on a date?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Jesus"†
 
-    ("オ激レの嘯答えは｢｢。",
+    ("オレの嘯答えは｢｢。",
     ""),
     # My throbbing answer is ".
 

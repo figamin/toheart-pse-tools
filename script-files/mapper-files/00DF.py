@@ -39,18 +39,18 @@ text_array = [
     # Open the door.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("う墲わち痰ゃ、デタ宴ラ＜メにつめ桙込んである。",
+    ("う墲わち痰ゃ、デタラ＜メにつめ桙込んである。",
     ""),
     # There's a lot of smears going on, and the feast is packed with fences.
 
-    ("縺後謖先考えないのはオ激レの悪い癖だな。",
+    ("縺後謖先考えないのはオレの悪い癖だな。",
     ""),
     # It's a bad habit of not thinking about what to do afterwards.
 
-    ("し蛯ょうがない、氈押し入齠れから始めるか。†",
+    ("しょうがない、氈押し入齠れから始めるか。†",
     ""),
     # There's no essay, so should I start with the smashing in?†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # After 30 minutes.†
 
-    ("なに竄やってんだ、オ激レは。",
+    ("なにやってんだ、オレは。",
     ""),
     # What are you doing, I'm so crazy.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # Another nostalgic thing has come up.†
 
-    ("パ宴ラパ宴ラ開いて目を通す。",
+    ("パラパラ開いて目を通す。",
     ""),
     # A banquet is held and a banquet is read.
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # I was wondering where it had gone, but I wondered if it was somewhere like this.
 
-    ("あっ、こいつ、てっきり捨てたと思ってたけど、怐奥に隠皷れて竄やがったのか。†",
+    ("あっ、こいつ、てっきり捨てたと思ってたけど、怐奥に隠皷れてやがったのか。†",
     ""),
     # Ah, I thought I'd throw this guy away, but he hid it deep inside and tampered with it.†
 
-    ("パ宴ラ、パ宴ラ…。",
+    ("パラ、パラ…。",
     ""),
     # A feast, a feast...
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "Same pattern again?"
 
-    ("どう烽も集薯力が足闡りないよな、オ激レは。†",
+    ("どう烽も集薯力が足闡りないよな、オレは。†",
     ""),
     # I don't know how much the potatoes are collected, I'm really excited.†
 

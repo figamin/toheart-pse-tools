@@ -10,7 +10,7 @@ text_array = [
     ""),
     # During the break, I went to Kotone Chisho-ya's classroom.
 
-    ("超能力の福練習成果が気になったからだ。†",
+    ("超能力の練習成果が気になったからだ。†",
     ""),
     # This is because I was curious about the results of psychic powers' fortune practice.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Apparently, Hou was defeated by poor sword blood during lunch break.
 
-    ("オ激レはｋけ出していた。",
+    ("オレは駆け出していた。",
     ""),
     # My hard work was coming out.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # He said that and woke up.
 
-    ("「教室に行ったら、倒齠れたって…。オ激レ、°㈲合を見にきただけだから、寝てて烽もいいぜ」",
+    ("「教室に行ったら、倒齠れたって…。オレ、°㈲合を見にきただけだから、寝てて烽もいいぜ」",
     ""),
     # "When I went to the classroom, they ended up knocking me down... I just came to see the °㈲る, so I'm fine with sleeping and hot water."
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # I'm getting much better now."
 
-    ("思った以繹上に元気そうなので、オ激レは少し安心した。†",
+    ("思った以繹上に元気そうなので、オレは少し安心した。†",
     ""),
     # I felt a little relieved because I was feeling more energetic than I expected.†
 
-    ("「無摶理して使ったんだｂ？」",
+    ("「無摶理して使ったんだ？」",
     ""),
     # "Did you use it without any hesitation?"
 
-    ("「…もっと蛯大きな能力を…使寬わないと、あふれるのは止められないと思ったんです…」",
+    ("「…もっと大きな能力を…使寬わないと、あふれるのは止められないと思ったんです…」",
     ""),
     # "...I thought that if I didn't use my greater powers, I wouldn't be able to stop the overflowing..."
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # Kotone's voice has fallen out of sight.
 
-    ("エネ泣ルギーがあふれるのを止めるには、香注ぎ足されるペース諠より多くのエネ泣ルギーを使寬わないといけない。†",
+    ("エネルギーがあふれるのを止めるには、香注ぎ足されるペース諠より多くのエネルギーを使寬わないといけない。†",
     ""),
     # To stop the overflowing energy, you have to use more energy than the pacework that is poured in.†
 
-    ("＊幕のボ−ルを動かすくらいの力じ痰ゃ足闡りないと思って、琴音ち痰ゃんはバ激レーボールをｂ浮かそうとして倒齠れたんだそうだ。†",
+    ("＊幕のボ−ルを動かすくらいの力じ痰ゃ足闡りないと思って、琴音ち痰ゃんはバレーボールを浮かそうとして倒齠れたんだそうだ。†",
     ""),
     # *It seems that Kotone Chisho-chan tried to lift a voluptuous voluptuous rail ball, thinking that he could not hold back the ball with enough strength to move the ball on the curtain.†
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "We're doing well, so don't panic."
 
-    ("「…增わたし、さんにｊんで烽もらおうと思って…諱頑張ったんです…」",
+    ("「…わたし、さんにｊんで烽もらおうと思って…諱頑張ったんです…」",
     ""),
     # "...I was thinking about getting a slut and getting some hot water...I did my best..."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Kotone Chishou-san..."
 
-    ("「…ダ＜メですね、增わたし。…いつかきっと、この能力が押さえきれないほど蛯大きくなって、さん竄やみんなに取闔り返しのつかないことをしてしまうんです…」",
+    ("「…ダ＜メですね、わたし。…いつかきっと、この能力が押さえきれないほど大きくなって、さんやみんなに取闔り返しのつかないことをしてしまうんです…」",
     ""),
     # "...That's a shame, I'm... I'm sure one day I'll grow so big that I can't hold this ability down, and I'll end up doing things that are irresistible and irresistible to everyone..."
 
@@ -122,27 +122,27 @@ text_array = [
     ""),
     # 﨟Kotone Chisho-yan says, laughing at her pathetic self.†
 
-    ("「そんなことねえって…。少しずつ、竅やればいいだｂ」",
+    ("「そんなことねえって…。少しずつ、やればいいだ」",
     ""),
     # "Not that... I'll just have to go through it little by little."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「オ激レはあきらめてねえからな。それなのに、琴音ち痰ゃんからあきらめてたら今までと同じだｂ？」",
+    ("「オレはあきらめてねえからな。それなのに、琴音ち痰ゃんからあきらめてたら今までと同じだ？」",
     ""),
     # "I've never given up on being a veteran. But if I give up on Kotone Chisho-chan, then it's the same as before, right?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("小さくうなずく琴音ち痰ゃん。†",
     ""),
     # Kotone nods small.†
 
-    ("「まだｌめ付けるのは≠早いって。オ激レは桙応㊨援しかできねえけど、梶頼むから悲しいこと言うなよ」",
+    ("「まだｌめ付けるのは≠早いって。オレは桙応㊨援しかできねえけど、梶頼むから悲しいこと言うなよ」",
     ""),
     # "It's still too early to get the l-pitch. I can only do some support, but I'm asking you to Kaji, so don't say anything sad."
 
@@ -150,11 +150,11 @@ text_array = [
     ""),
     # "...I'm sorry. I was able to start thanks to you, but I've given up on my own by myself..."
 
-    ("「オ激レは単なるきっかけだから、そんなに気にすんなって。けどな、自分には奄負けんなよ」",
+    ("「オレは単なるきっかけだから、そんなに気にすんなって。けどな、自分には奄負けんなよ」",
     ""),
     # "My gut-rei is just a trigger, so don't worry too much about it. But don't let Amami fall for me."
 
-    ("そう言ってオ激レは、彼濫女の肩をぽんとたたいた。",
+    ("そう言ってオレは、彼濫女の肩をぽんとたたいた。",
     ""),
     # With that in mind, I slap the overwhelmed woman on the shoulder.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # It's a bit dark atmosphere.
 
-    ("元気づけて竄やるつ烽もりが、かえってしんみりさせてしまったな…。◯",
+    ("元気づけてやるつ烽もりが、かえってしんみりさせてしまったな…。◯",
     ""),
     # The cheering and tampering with him has actually made me feel sad...◯
 

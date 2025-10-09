@@ -22,7 +22,7 @@ text_array = [
     ""),
     # As soon as I thought that, Jun was there, the hot springs were standing there, and I couldn't even get any more.
 
-    ("オ激レは玄関で靴を嘯履き、家を飛び出した。†",
+    ("オレは玄関で靴を嘯履き、家を飛び出した。†",
     ""),
     # I put on my shoes at the entrance and ran out of the house.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "that…"
 
-    ("「あかりなら、いまち蛯ょうど出かけた墲わよ」",
+    ("「あかりなら、いまちょうど出かけた墲わよ」",
     ""),
     # "If it's Akari, I'll be out and heading out."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # phone.
 
-    ("じ痰ゃあ、さっきの電話は、竅やっぱり。†",
+    ("じ痰ゃあ、さっきの電話は、やっぱり。†",
     ""),
     # I'm not sure what you've heard of the phone just now.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "I'm also trying to get some hot water and wait a few times, so I wonder if there's no phlegm?"
 
-    ("「どこ行ったか、增わかります？」",
+    ("「どこ行ったか、わかります？」",
     ""),
     # "Do you know where you went?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "I see? Sorry."
 
-    ("オ激レは頭を下げると、あかりの家を繧後にした。†",
+    ("オレは頭を下げると、あかりの家を繧後にした。†",
     ""),
     # I bowed my head and left Akari's house behind.†
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Male, I want to talk.
 
-    ("そのことだけが強くオ激レの背白を押した。",
+    ("そのことだけが強くオレの背白を押した。",
     ""),
     # That was the only thing that really pushed me back on my back.
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # I want to be a male...
 
-    ("今朝見た夢のせいか烽も知齟れない…。",
+    ("今朝見た夢のせいか烽も知れない…。",
     ""),
     # Perhaps because of the dream I had this morning, I can't even know about it...
 
-    ("あかりの竄やつが、メ泣きながらオ激レを待っているような…。",
+    ("あかりのやつが、メきながらオレを待っているような…。",
     ""),
     # It seems like Akari's tampering with tears is waiting for me to cries...
 

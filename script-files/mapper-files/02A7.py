@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Seri° Kaori Scale Event 2F LV5)Seri (Corridor 1)†
 
-    ("う〜っ、竅やべ竄やべっ。",
+    ("う〜っ、やべやべっ。",
     ""),
     # Hmm, it's so crazy.
 
-    ("ち蛯ょっと艪我揄慢しすぎたかな。",
+    ("ちょっと我揄慢しすぎたかな。",
     ""),
     # I guess I was holding back too much of a joke.
 
-    ("トイ激レ、トイ激レ…っと。",
+    ("トイレ、トイレ…っと。",
     ""),
     # Toys are super hard, toys are super hard...
 
@@ -27,18 +27,18 @@ text_array = [
     # @This is Suzumi-san.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「諱ようっ、どうしたんだ、こんなとこｂまできて？」",
+    ("「諱ようっ、どうしたんだ、こんなとこまできて？」",
     ""),
     # "I'm not saying, what's wrong, have you reached this point b?"
 
-    ("オ激レは軽く足踏みしながら聞いた。",
+    ("オレは軽く足踏みしながら聞いた。",
     ""),
     # I asked, stomping lightly.
 
-    ("「え、オ激レに用があるって？	う、う〜ん」",
+    ("「え、オレに用があるって？	う、う〜ん」",
     ""),
     # "Eh, I have something to do with you? Uh, hmm."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # What should I do...!?
 
-    ("Ａ	增わりぃっ、ち蛯ょっと待ってて！閨",
+    ("Ａ	わりぃっ、ちょっと待ってて！閨",
     ""),
     # A, wait a moment!Relax
 

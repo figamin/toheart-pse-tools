@@ -38,7 +38,7 @@ text_array = [
     ""),
     # What's the reason Kaji relationsman is Shiho...†
 
-    ("オ激レたちは、解けなかった竄問阮題をおたがいに言い№合って、どれくらい間瘧違ってるかを確かめた。",
+    ("オレたちは、解けなかった問題をおたがいに言い№合って、どれくらい間瘧違ってるかを確かめた。",
     ""),
     # We all said the tampering questions that we couldn't solve and answered them, and we decided to see how different it was.
 

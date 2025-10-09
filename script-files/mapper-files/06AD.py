@@ -2,7 +2,7 @@
 # Source file: 06AD.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	学校を出髀る１）閨（選択綜	あいさつして別れる）†",
+    ("（マルチ	回秤数イベント	学校を出髀る１）閨（選択綜	あいさつして別れる）†",
     ""),
     # (Muryuruchi, Scales Event, Departing from School 1) (Choice, Greetings and Parting)†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Oh, it's phlegm."
 
-    ("微笑んで、オ激レは手を振った。",
+    ("微笑んで、オレは手を振った。",
     ""),
     # I smiled and waved my hand.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "See you, Ming Shun-day!"
 
-    ("マ泣ルチ焜も明髢るく元気に手を振關り返した。◯",
+    ("マルチ焜も明髢るく元気に手を振關り返した。◯",
     ""),
     # The crying Ruchi-san also waved back with determination and energy.◯
 

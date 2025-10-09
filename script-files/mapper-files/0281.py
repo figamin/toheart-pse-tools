@@ -14,7 +14,7 @@ text_array = [
     ""),
     # @Suizui family's official residence @Suizui Seri °Ka.
 
-    ("こんなとこで、なに竄やってんだｂう。†",
+    ("こんなとこで、なにやってんだう。†",
     ""),
     # What are you doing in this situation?†
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "My name is, my name is, my name is, my name is, my name is, goodbye."
 
-    ("諱先輩の前に立ち、オ激レは笑迴顔で言った。",
+    ("諱先輩の前に立ち、オレは笑迴顔で言った。",
     ""),
     # I stood in front of my senior, and said with a laughing face.
 
-    ("「なに竄やってんの、こんなとこで？	えっ？	オ激レをたずねてきた？」",
+    ("「なにやってんの、こんなとこで？	えっ？	オレをたずねてきた？」",
     ""),
     # "What are you doing about this? What? You asked me about it?"
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # Kaji Ai Henzaki is not a man with a unique atmosphere.
 
-    ("どう烽もｉ話のテンポがち蛯ょっとズ激レ驛る。†",
+    ("どう烽もｉ話のテンポがちょっとズレ驛る。†",
     ""),
     # The tempo of the story is also very loud.†
 
-    ("「で、オ激レになんの用？」",
+    ("「で、オレになんの用？」",
     ""),
     # "So, what are you using for me?"
 
-    ("聞くと、諱先輩は嘯答えるより先に、なに竄やら手に揩持っていた烽ものを差し出して見せた。",
+    ("聞くと、諱先輩は嘯答えるより先に、なにやら手に揩持っていた烽ものを差し出して見せた。",
     ""),
     # When I asked, before I could answer, Senpai Koto offered me something I had been tampering with, or something I had in my hand, and showed me.
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # "it is…?"
 
-    ("それはあ竄やしい絵柄が描かれたカードの束だった。†",
+    ("それはあやしい絵柄が描かれたカードの束だった。†",
     ""),
     # It was a bunch of cards with tampering illustrations.†
 
-    ("ト宴ランプ…じ痰ゃない。",
+    ("トランプ…じ痰ゃない。",
     ""),
     # A banquet lamp... there's no phlegm.
 
-    ("閨占いに使う烽ものらしいけど、タ鴻ロットって竄やつかな。",
+    ("閨占いに使う烽ものらしいけど、タ鴻ロットってやつかな。",
     ""),
     # Apparently it's a hot dish used in fortune telling, but I guess Taholot is a tampering thing.
 
@@ -71,10 +71,10 @@ text_array = [
     # It seems to be quite a real hot dish.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ？	これでオ激レの運勢を占ってくれるって？」",
+    ("「えっ？	これでオレの運勢を占ってくれるって？」",
     ""),
     # "Huh? Is this going to tell you my fortune?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # A: It's a phlegm, shall we give you a fortune telling?Relax
 
-    ("Ｂ	いまはいい竄や。閨",
+    ("Ｂ	いまはいいや。閨",
     ""),
     # B It's tampering now.Relax
 

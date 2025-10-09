@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "I was thinking about talking about free activities on a school trip."
 
-    ("あかりは手にした本をオ激レに見せた。",
+    ("あかりは手にした本をオレに見せた。",
     ""),
     # Akari showed me the book she had picked up.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "What course do you recommend?"
 
-    ("「えっとね、まずは北海道蜩大学でク宴ラーク怎像を見て、清華煢亭に寄って、北蝟大付属植物園に行くでし蛯ょ？」",
+    ("「えっとね、まずは北海道蜩大学でクラーク怎像を見て、清華煢亭に寄って、北蝟大付属植物園に行くでしょ？」",
     ""),
     # "Um, first, I'll see the statue of Kuan Lark at Hokkaido University, then stop by Tsinghua Hangting, and head to the Northern Guang Grand Botanical Garden, huh?
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "law"†
 
-    ("「それから、北海道庁健旧本庁舎と、時計芟台と、札幌テ激レビャへ行って、それから｢｢」",
+    ("「それから、北海道庁健旧本庁舎と、時計芟台と、札幌テレビャへ行って、それから｢｢」",
     ""),
     # "We then went to the Hokkaido Government Office Ken and the former main building, Clockwork Plant, and Sapporo Tei Rebya, and then ""
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "picture…?"
 
-    ("「スタンプ宴ラ潟リー竅やってんじ痰ゃねーんだぞ。それじ痰ゃ移動だけで精齔一杯で、見て回驩る桙時間なんかねーだｂ」†",
+    ("「スタンプラリーやってんじ痰ゃねーんだぞ。それじ痰ゃ移動だけで精齔一杯で、見て回驩る桙時間なんかねーだ」†",
     ""),
     # "Stamp banquet Lagata Lee has to be done, so there's no need to phlegm. Just moving around is full of phlegm, and there's no time to go around looking around."
 
-    ("「竅や、竅やっぱり、そうかな…？」",
+    ("「や、やっぱり、そうかな…？」",
     ""),
     # "I wonder if that's true..."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Are you thinking of hoping to enjoy the photo book from the tourist spot?†
 
-    ("「各々竅絶対にはずしたくない場鰹所を選んで、そこを№順に回ったほうがいいんじ痰ゃねーか？」",
+    ("「各々絶対にはずしたくない場鰹所を選んで、そこを№順に回ったほうがいいんじ痰ゃねーか？」",
     ""),
     # "Each person should choose the bonito spot that you definitely don't want to miss and then go around in order of number, right?"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "If that's the case, where would you want to go?"
 
-    ("「…そうだなあ。いｂいｂと行きたいけど、欲を言えば竄やっぱり本齧場のクマ牧齧場にいってみたかったなあ」",
+    ("「…そうだなあ。いいと行きたいけど、欲を言えばやっぱり本齧場のクマ牧齧場にいってみたかったなあ」",
     ""),
     # "...That's right. I want to go with a b-b-b, but if I say greedy, I'd definitely want to go to the bear-maki-gane farm, the bear-maki-gane farm."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "There's a kindergarten where bears gather. I want to see it."
 
-    ("「行き痰ゃあいいだｂ？」",
+    ("「行き痰ゃあいいだ？」",
     ""),
     # "Is it okay to go and phlegm?"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # I have to go back the way I came."
 
-    ("「じ痰ゃ無摶理だｂ」",
+    ("「じ痰ゃ無摶理だ」",
     ""),
     # "No phlegm is irrelevant b."
 
@@ -139,19 +139,19 @@ text_array = [
     # "...That's right" †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「そんなにクマ、見たいか？」",
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # "...Hmm, maybe there is?"
 
-    ("「どれ、貸してみｂ」",
+    ("「どれ、貸してみ」",
     ""),
     # "Which one, lend me b."
 
-    ("オ激レはあかりからガイドブックを奪うと、パ宴ラパ宴ラめくった。†",
+    ("オレはあかりからガイドブックを奪うと、パラパラめくった。†",
     ""),
     # When I took the guidebook from Akari, I turned around a banquet.†
 
@@ -187,18 +187,18 @@ text_array = [
     # "...Um, bear, bear, bear, bear, bear, bear, bear, bear, bear..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「…クマ、クマ、クマ、クマ、クマ、クマ、クマ、クマ、クマ…」",
     ""),
     # "...Bear, bear, bear, bear, bear, bear, bear, bear, bear, bear..."
 
-    ("「…あの、竅やっぱりいいよ。クマだったら、近葛所の動物園に烽も｢｢」†",
+    ("「…あの、やっぱりいいよ。クマだったら、近葛所の動物園に烽も｢｢」†",
     ""),
     # "...Um, it's fine as expected. If it were a bear, then there's a zoo in Chikazusho that also had a hot pot.
 
-    ("「本齧場だｂ？」",
+    ("「本齧場だ？」",
     ""),
     # "It's a book b?"
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「本齧場で見骭るクマだから価値があるんだｂ？",
+    ("「本齧場で見骭るクマだから価値があるんだ？",
     ""),
     # "Is it worth it because it's a bear that's a bear that's popular in the book?
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "Huh, really?"
 
-    ("「約２１０墲種、１３００点の動物笊や鳥がいるらしいぜ。クマ焜もいるだｂ、きっと」",
+    ("「約２１０墲種、１３００点の動物笊や鳥がいるらしいぜ。クマ焜もいるだ、きっと」",
     ""),
     # "It seems there are about 210 species and 1,300 animal skeletons and birds. There are also bear skeletons, I'm sure."
 
@@ -230,11 +230,11 @@ text_array = [
     ""),
     # Akari's outward feelings suddenly became clear.†
 
-    ("「諱よし、じ痰ゃあ、そこで２桙時間ぐらいだな。あとは竄やっぱ本齧場の食い物を｢｢」",
+    ("「諱よし、じ痰ゃあ、そこで２桙時間ぐらいだな。あとはやっぱ本齧場の食い物を｢｢」",
     ""),
     # "Okay, it's phlegm, so it's about two shatters. And then I'll just go through the food from the main gnat.
 
-    ("「竅やっぱり」†",
+    ("「やっぱり」†",
     ""),
     # "I thought so" †
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # After that, the two of them also enjoyed talk about a free-action course.
 
-    ("おたがい、とくに約束熨もしていないのに、すっかりいっし蛯ょに行動する予阯定になってる。",
+    ("おたがい、とくに約束熨もしていないのに、すっかりいっしょに行動する予定になってる。",
     ""),
     # Even though you haven't made a promise, you've decided to take action together.
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # There's only a little more left until the school trip.
 
-    ("出発が待ち唐遠しいぜ。",
+    ("出発が待ち遠しいぜ。",
     ""),
     # It's a long way to wait for the departure.
 

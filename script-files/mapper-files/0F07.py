@@ -2,7 +2,7 @@
 # Source file: 0F07.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル１）閨（卒業式篇）閨（選択綜	あかり）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	あかり）†",
     ""),
     # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Akari)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Where is this?"
 
-    ("オ激レは艪ゆっくりと３人を見渡し、そして、",
+    ("オレはゆっくりと３人を見渡し、そして、",
     ""),
     # I slowly looked over the three of them, and
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Ehhhh!?!"†
 
-    ("「そう竄やって、いかに烽も『指名しないで』という顔をされると、逆にしたくなる烽もんだ」",
+    ("「そうやって、いかに烽も『指名しないで』という顔をされると、逆にしたくなる烽もんだ」",
     ""),
     # "When you tamper with this, even if you say, "Don't nominate," you'll want to turn the other way around."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Male history.
 
-    ("なんの自覚煌もなしにオ激レにプ激レッシャャーを与え竄やがる。†",
+    ("なんの自覚煌もなしにオレにプレッシャャーを与えやがる。†",
     ""),
     # Without any awareness, he gives me a strong rape and tampers with it.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Akari lionizes her shoulders.†
 
-    ("「堰負けて烽もどうせрヤックをおごるだけだｂ。ケチケチすんな」",
+    ("「堰負けて烽もどうせрヤックをおごるだけだ。ケチケチすんな」",
     ""),
     # "The dam is defeated and the hot weather is just going to be a treat for the yak anyway. Don't be stingy."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "cormorant~…"
 
-    ("「あら、ケチなのはいいことなのよ。何年かすればあかりだって立派な蛯主婦なんだから、無駄な出諸には胸を痛めないと、ねえ？」",
+    ("「あら、ケチなのはいいことなのよ。何年かすればあかりだって立派な主婦なんだから、無駄な出諸には胸を痛めないと、ねえ？」",
     ""),
     # "Oh, it's good to be stingy. In a few years, even Akari will be a great housewife, so I'll have to be so sad at the unnecessary outcomes, right?"
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Well, once in a while, playing games at the risk of your life is also a great hot thing."
 
-    ("そう言って志保は、ぽんっ、とあかりの肩に手を竄やって、椅子に座迯らせた。",
+    ("そう言って志保は、ぽんっ、とあかりの肩に手をやって、椅子に座迯らせた。",
     ""),
     # With that in mind, Shiho tampered with a hand on Akari's shoulder, then let him sit in the chair.
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # "I'm sorry, but I guess so, I'll give you a light tear and get some hot pot."
 
-    ("オ激レは椅子に座闕り、１００円玉を鰍投涛した。†",
+    ("オレは椅子に座闕り、１００円玉を鰍投涛した。†",
     ""),
     # I sat in a chair and threw a 100 yen coin into a whirlwind.†
 
-    ("戟レッツ、プ激レイ！◯",
+    ("戟レッツ、プレイ！◯",
     ""),
     # Let's go, please!◯
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # I hope I will apologize on the day.
 
-    ("オ激レは琴音ち痰ゃんに声をかけた。†",
+    ("オレは琴音ち痰ゃんに声をかけた。†",
     ""),
     # I called out to Kotone Chisho-chan.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "It was the other day, but ""
 
-    ("オ激レはまず切關り出した。",
+    ("オレはまず切關り出した。",
     ""),
     # My ecstasy first started to get in touch.
 
-    ("「磨事諶情熄もよく墲わかってねえうちに、立ち入ったこと言っちまって、迷惑かけたなぁって思ってさ」†",
+    ("「事諶情熄もよく墲わかってねえうちに、立ち入ったこと言っちまって、迷惑かけたなぁって思ってさ」†",
     ""),
     # "I didn't really understand the refinement of the matter, but I thought I was causing trouble by saying what I had gone in."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "no…"
 
-    ("「オ激レさ、知迺らねえうちに揩傷つけちまったんじ痰ゃねえかとマジで悩んだんだって」",
+    ("「オレさ、知迺らねえうちに揩傷つけちまったんじ痰ゃねえかとマジで悩んだんだって」",
     ""),
     # "I was really worried about how intense it was, I hurt my body and I didn't know what to do with it."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "...Um, don't worry too much."
 
-    ("「い竄や、琴音ち痰ゃんにあんな悲しい顔されたら気に烽もなるって」†",
+    ("「いや、琴音ち痰ゃんにあんな悲しい顔されたら気に烽もなるって」†",
     ""),
     # "If Kotone Chishonan gives such a sad face, he'll feel a bit nervous."
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # I guess it would have been bad to call you with a sudden phlegm.†
 
-    ("「…そうい竄や、自己紹譓介まだだったな。オ激レ、２−Ｂの」",
+    ("「…そういや、自己紹譓介まだだったな。オレ、２−Ｂの」",
     ""),
     # "...I didn't have any more tampering with myself. I'm 2-B."
 
-    ("「…增わたしは…もう、ご存知ですよね」",
+    ("「…わたしは…もう、ご存知ですよね」",
     ""),
     # "...I already know... you know it, right?"
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "ah.
 
-    ("一年Ｂ組姫武琴音ち痰ゃんで№合ってるだｂ？	…ごめんな、氈勝闖手に調べちまって」†",
+    ("一年Ｂ組姫武琴音ち痰ゃんで№合ってるだ？	…ごめんな、氈勝闖手に調べちまって」†",
     ""),
     # First-year Class B Himetake Kotone Chishonan is the right fit?...Sorry, please check it out with me."
 
-    ("「いいえ。…增わたし、＝普通じ痰ゃないですから、さんの目にとまるの烽もしかたがないことなんです…」",
+    ("「いいえ。…わたし、＝普通じ痰ゃないですから、さんの目にとまるの烽もしかたがないことなんです…」",
     ""),
     # "No...I'm not normally phlegm, so it's hard to catch your eye..."
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # With that said, Kotone Chisho-yan put his eyes down.
 
-    ("ウ純ワサになるのは、竅やっぱイсヤなんだｂう。†",
+    ("ウ純ワサになるのは、やっぱイсヤなんだう。†",
     ""),
     # The reason why you become a pure wasa is definitely something you're gonna be.†
 
-    ("オ激レの鰍リアクシ㏍ョンは｢｢。",
+    ("オレの鰍リアクションは｢｢。",
     ""),
     # My hardcore choriacchi (sweet) is ".
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # B And so there's no hot water.Relax
 
-    ("Ｃ	そういう言い福方謨よくないぜ。閨",
+    ("Ｃ	そういう言い方謨よくないぜ。閨",
     ""),
     # C: That kind of saying is not good.Relax
 

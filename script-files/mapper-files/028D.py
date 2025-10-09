@@ -22,15 +22,15 @@ text_array = [
     ""),
     # Wow.
 
-    ("＠栖瑞グ泣ループのおｏ様燉も、こんな獅庶民の商店街に足を運ぶこと烽もあるんだな。",
+    ("＠栖瑞グループのおｏ様燉も、こんな獅庶民の商店街に足を運ぶこと烽もあるんだな。",
     ""),
     # @O-sama from Suzui Guk-loop also has the opportunity to visit such a shopping street for ordinary people.
 
-    ("古糟書店なんかにはとんと盾縁のないオ激レだが、諱先輩がいるとなれば話は別だ。",
+    ("古糟書店なんかにはとんと盾縁のないオレだが、諱先輩がいるとなれば話は別だ。",
     ""),
     # I'm a bit of a big deal at Tokusoku Bookstores, but it's a different story if there's a senior Issue.
 
-    ("オ激レは店燗内に足を踏み入齠れた。◯",
+    ("オレは店燗内に足を踏み入齠れた。◯",
     ""),
     # My gei-le stepped into the store's hot water and picked it up.◯
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # The inside of the store was filled with the mildew that is unique to ancient books.
 
-    ("キツネ色に冾日焼けした本が、びっしりと棚に福収められている。",
+    ("キツネ色に冾日焼けした本が、びっしりと棚に収められている。",
     ""),
     # Fox-colored, tanned books are packed full of lucky books on shelves.
 

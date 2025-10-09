@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko's fourth favorability event) (continued from Chosen So B) †
 
-    ("オ激レは声をかけなかった。†",
+    ("オレは声をかけなかった。†",
     ""),
     # I didn't call out to him.†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # After that, it's somehow difficult to talk to the chairman.
 
-    ("こんなふうに避けてばっかりだと、おたがいどんどん溝が深くなるってこと烽も、增わかっち痰ゃいるんだが。†",
+    ("こんなふうに避けてばっかりだと、おたがいどんどん溝が深くなるってこと烽も、わかっち痰ゃいるんだが。†",
     ""),
     # If you keep avoiding them like this, you'll find that the trench will deepen and deepen.†
 

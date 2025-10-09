@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I'll stay! Kotone-chi Sphin-yan!"
 
-    ("景気良くオ激レは桙応える。",
+    ("景気良くオレは桙応える。",
     ""),
     # The economy is good, and I'm extremely excited.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Ufufu...san, it looks like the sunkan is fun right now."
 
-    ("そう言って彼濫女は、ち蛯ょっぴり微笑んだ。",
+    ("そう言って彼濫女は、ちょっぴり微笑んだ。",
     ""),
     # With that, the overflowing woman smiled ecstatically.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "If that's the case, do you have time now?"
 
-    ("「もちｂんヒマだぜ？」",
+    ("「もちんヒマだぜ？」",
     ""),
     # "You're bored, aren't you?"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Oh, that's an invitation to go on a date? That's fine, where will you get a hot pot and get it to suit you?"†
 
-    ("歩きながらオ激レたちはｉ話を楽しんでいる。",
+    ("歩きながらオレたちはｉ話を楽しんでいる。",
     ""),
     # As we walked, we were enjoying the i-talk.
 
-    ("琴音ち痰ゃんが、オ激レの冾放課繪後の過ごし福方を聞くので、あかり竄や志保たちとよく竄やってる遊びを話して聞かせることにした。†",
+    ("琴音ち痰ゃんが、オレの冾放課繪後の過ごし方を聞くので、あかりや志保たちとよくやってる遊びを話して聞かせることにした。†",
     ""),
     # Kotone Chisho-yan asks about how he spends his time after his hard work, so he decides to talk about Akari Tamper and the other games he often plays with Shiho and the others.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # The content is ".
 
-    ("Ａ	カ宴ラオケの話陂題。閨",
+    ("Ａ	カラオケの話陂題。閨",
     ""),
     # A: A talk about Kaban Raoke.Relax
 

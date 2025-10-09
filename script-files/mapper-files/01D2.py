@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("あかりはち蛯ょっと残念そうだ。†",
+    ("あかりはちょっと残念そうだ。†",
     ""),
     # Akari Hachie looks a bit disappointing.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I'm not phlegm, I'm not phlegm. I'll go there right away when I eat."
 
-    ("「增わかった」",
+    ("「わかった」",
     ""),
     # "I understand."
 

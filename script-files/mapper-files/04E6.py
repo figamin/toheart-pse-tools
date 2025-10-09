@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Let's go to the phlegm" †
 
-    ("志保と他愛ないし痰ゃべりをしながら、駅前まで竄やってきた。†",
+    ("志保と他愛ないし痰ゃべりをしながら、駅前までやってきた。†",
     ""),
     # I drove all the way to the station, trivial, phlegmy cattle with Shiho.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Oh, look at that."
 
-    ("志保が指差す先を見骭ると、ギターを抱えた兄ち痰ゃんがなに竄やら聞き覚えのない曲をひいている。",
+    ("志保が指差す先を見骭ると、ギターを抱えた兄ち痰ゃんがなにやら聞き覚えのない曲をひいている。",
     ""),
     # Looking at the point Shiho was pointing, his brother Chisho-yan, holding a guitar, was playing a song he didn't know about.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "What happened to that?"
 
-    ("「ち蛯ょっと聞いてくるから、あんたはここで待ってて」",
+    ("「ちょっと聞いてくるから、あんたはここで待ってて」",
     ""),
     # "I'll ask you, so please wait here."
 
-    ("そう言うと志保は、ギター弾きの兄ち痰ゃんの福方へ烽歩き出した。†",
+    ("そう言うと志保は、ギター弾きの兄ち痰ゃんの方へ烽歩き出した。†",
     ""),
     # With that in mind, Shiho started walking towards Fukukata, the brother of the guitar player.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # His brother, Sphinja, has a troubled look on his face, so isn't it?
 
-    ("あ…、兄ち痰ゃんが自分の唐鞄から本を取闔り出した。",
+    ("あ…、兄ち痰ゃんが自分の鞄から本を取闔り出した。",
     ""),
     # Oh... my brother, Chisho-chan, took a book from his own bag.
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "No. 1. Nagaoka Shiho, I'm singing!"
 
-    ("…あいつ、とうとう始め竄やがった…。†",
+    ("…あいつ、とうとう始めやがった…。†",
     ""),
     # ...That guy finally started tampering with him...†
 
-    ("志保の歌堰@兄ち痰ゃんが弾き始めたその曲は、前奏ではよく墲わからなかったけど、志保の歌い出しでよう竄やく墲わかった。",
+    ("志保の歌堰@兄ち痰ゃんが弾き始めたその曲は、前奏ではよく墲わからなかったけど、志保の歌い出しでようやく墲わかった。",
     ""),
     # Shiho's song that Brother Symphonyan started playing was not well understood in the prelude, but Shiho's song started to come up with a sung story.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # =It's a different story when it comes to singing by a high school girl who usually doesn't look forward to its own personality, but the next female uniform is wearing a Sanskrit uniform.†
 
-    ("しか烽もマイク焜もエコーもなしで、これだけ声が通齟れば、人を集めるの烽も簡単だｂう。",
+    ("しか烽もマイク焜もエコーもなしで、これだけ声が通れば、人を集めるの烽も簡単だう。",
     ""),
     # However, there is no hot water, no microphone, or echo, and if the voices are so incomprehensible, it's easy to gather people.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # It's frustrating, but Shiho's guy is extremely good at singing.
 
-    ("…今すぐ芸能界にデビャーしたとして烽も、歌唱派アイド泣ルで通用するか烽もしれない。†",
+    ("…今すぐ芸能界にデビャーしたとして烽も、歌唱派アイドルで通用するか烽もしれない。†",
     ""),
     # ...If he's just advertised into the entertainment industry right now, it's probably true that he'll be able to get the singular cry of singing.†
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Hey Shiho"
 
-    ("慌ててオ激レは志保にｋけ寄驫る。",
+    ("慌ててオレは志保に駆け寄驫る。",
     ""),
     # I hurriedly leapt over Shiho.
 
@@ -170,11 +170,11 @@ text_array = [
     ""),
     # "What? Do you want to sing too?"
 
-    ("「增わけねーだｂ。お前ひとりならと烽もかく、オ激レという連齪れがいること忘齧れんなよ」",
+    ("「わけねーだ。お前ひとりならと烽もかく、オレという連齪れがいること忘齧れんなよ」",
     ""),
     # "There's no way you can. If you're alone, you'll be alone, so don't forget that you're going to have a series of intense tragedy."
 
-    ("なにしｂその間、待たされてるだけなんだからな。",
+    ("なにしその間、待たされてるだけなんだからな。",
     ""),
     # What's that b I'm just making you wait for that while.
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # "Not well, your name is"
 
-    ("「增わかんない墲わね〜っ」†",
+    ("「わかんない墲わね〜っ」†",
     ""),
     # "I don't know, you're not sure."
 
-    ("「增わかんねえのはおめーだ。オ激レはお前みたく、人様に歌って聞かせるほどうまくねえんだよ」",
+    ("「わかんねえのはおめーだ。オレはお前みたく、人様に歌って聞かせるほどうまくねえんだよ」",
     ""),
     # "I don't know. I'm not good enough to sing to others like you, and I'm not good enough to sing to others."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "Oh, come to think of it, right. I just realized it."
 
-    ("「增わかったｂ？	だったらここで歌い続けるか帰驪るかｌめｂ。歌うんだったらオ激レは帰驪る」",
+    ("「わかった？	だったらここで歌い続けるか帰驪るかｌめ。歌うんだったらオレは帰驪る」",
     ""),
     # "Do you get it b? If so, I'll continue singing here or go back. If I'm going to sing, I'll go back."
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "You're so phlegm, it's 'mai'."
 
-    ("志保は『し蛯ょーがない墲わね』と兄ち痰ゃんにｌき直って、",
+    ("志保は『しょーがない墲わね』と兄ち痰ゃんにｌき直って、",
     ""),
     # Shiho said, "You're not in the guise," and replied with his brother, "You're not in the guise."
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # He waved.†
 
-    ("兄ち痰ゃんの福方熾も『俺の知ってる曲ならいつで烽も弾いて竄やるぜ』と気さくに手を振關り返してくれた。†",
+    ("兄ち痰ゃんの方熾も『俺の知ってる曲ならいつで烽も弾いてやるぜ』と気さくに手を振關り返してくれた。†",
     ""),
     # Fukukata Taru, who is the brother of the song, also waved back to his heartfelt reaction, saying, "If it's a song I know, I'll play and tamper with him."†
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "Well, that's it."
 
-    ("「オ激レが保証して竄やって烽もいいぜ？	おめえは将女、有名人になるってな」",
+    ("「オレが保証してやって烽もいいぜ？	おめえは将女、有名人になるってな」",
     ""),
     # "I'm hoping to get my guilty and tamper with it, isn't it okay? You're the owner, you're going to become a celebrity."
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "What, will you pay me?"
 
-    ("「ごじ蛯ょーだんを。あたしの未沫はあんたに保証されなくて烽も約束されてるのよ」†",
+    ("「ごじょーだんを。あたしの未沫はあんたに保証されなくて烽も約束されてるのよ」†",
     ""),
     # "An slut. My unspoiled droplets are not guaranteed to you, and the hot water is also promised."
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "You call me 'Shiho-chan confidence' and it's good to hear the hot weather."
 
-    ("「なんだそれ？	グ宴ラグ宴ラ艫ゆれるのか？」",
+    ("「なんだそれ？	グラグラ艫ゆれるのか？」",
     ""),
     # "What is that? Will the banquet be shaking?"
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "Idiot, the phlegm is different from the phlegm."
 
-    ("「轣冗談だよ。お前の根注拠のない自信なんて、どっちみちグ宴ラグ宴ラ艫ゆれるんだｂうが」†",
+    ("「轣冗談だよ。お前の根注拠のない自信なんて、どっちみちグラグラ艫ゆれるんだうが」†",
     ""),
     # "I'm kidding. Your unfounded confidence will just sway either way."
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # "It's because you're saying something boring."
 
-    ("そんなふうにつべこべ言い№合って、オ激レと志保はｉ札前で別れた。◯",
+    ("そんなふうにつべこべ言い№合って、オレと志保はｉ札前で別れた。◯",
     ""),
     # I was so lazy that I agreed, and I and Shiho parted ways with him in front of the I-card.◯
 

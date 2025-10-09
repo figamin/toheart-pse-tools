@@ -2,7 +2,7 @@
 # Source file: 01BE.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（４獅月２５冾日）閨（学校前の竄坂道２）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（４獅月２５冾日）閨（学校前の坂道２）†",
     ""),
     # (Akari Scales Event: Departing from school) (April 25th day) (American Slope 2) (American Slope 2 in front of school) †
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Well, shall we go back?
 
-    ("玄関を出たオ激レは、そこで、あかりの姿を見つけた。",
+    ("玄関を出たオレは、そこで、あかりの姿を見つけた。",
     ""),
     # After leaving the entrance, I found Akari there.
 
-    ("誰かを待ってるのか、なに竄やらぼけーっと突っ立っている。",
+    ("誰かを待ってるのか、なにやらぼけーっと突っ立っている。",
     ""),
     # He is standing there with a mess and silence, perhaps as if he is waiting for someone.
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Cake Shop"
 
-    ("「增わざ墲わざ太闡りに行くって墲わけだな」",
+    ("「わざ墲わざ太闡りに行くって墲わけだな」",
     ""),
     # "It's a matter of going on a journey on a journey."
 
-    ("「もう、またそんなイジ純ワ泣ル言う〜」",
+    ("「もう、またそんなイジ純ワル言う〜」",
     ""),
     # "I'm going to cry again and say that kind of shit."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "The hotpot is also delicious in the restaurant. Shiho's recommendation."
 
-    ("「あいつはなんで烽も蛯大げさに言うからな」",
+    ("「あいつはなんで烽も大げさに言うからな」",
     ""),
     # "Why does that guy say it exaggerated?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "What do you think? Wouldn't you even go to the Chishonan Chishonan?"
 
-    ("「オ激レ焜も？」",
+    ("「オレ焜も？」",
     ""),
     # "Are you gonna do I get a really bad?"
 

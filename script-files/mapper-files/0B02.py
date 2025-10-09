@@ -2,7 +2,7 @@
 # Source file: 0B02.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	し蛯ょーがねーな	の続き）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	しょーがねーな	の続き）†",
     ""),
     # (Aya∴Kawa Pick Date Event 2) (Continued from Selection A Shibiyoga No Na) †
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Yeah, I get a lot of feedback."
 
-    ("「し蛯ょーがねーな…」",
+    ("「しょーがねーな…」",
     ""),
     # "There's no slut..."
 
-    ("観念し、オ激レはその変な翌女につき№合うことにした。†",
+    ("観念し、オレはその変な翌女につき№合うことにした。†",
     ""),
     # I thought about it, and decided to meet the strange girl after that.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Not just phlegm, it's irrelevant"
 
-    ("オ激レが仏頂面で言うと、",
+    ("オレが仏頂面で言うと、",
     ""),
     # When I say "I'm a terrifying person"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # The bather raised one knee and held it, smiling mischievously.†
 
-    ("とこｂで、さっきのじーさんって、竅やっぱｗ栖瑞謳先輩のお付きのじーさんだよな。",
+    ("とこで、さっきのじーさんって、やっぱｗ栖瑞謳先輩のお付きのじーさんだよな。",
     ""),
     # In this part, the old man from earlier was definitely the old man who was accompanied by Senior Suzumi-san.
 
-    ("ってことは、こいつ烽もｗ栖瑞家の艪ゆかりの人間なんだｂうか。",
+    ("ってことは、こいつ烽もｗ栖瑞家のゆかりの人間なんだうか。",
     ""),
     # That means that this guy is also associated with the LOL family of Sumizui.
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # Come to think of it, the overall atmosphere is somewhat similar to that of seniors and there's no sign of anything.
 
-    ("い竄や、かなり翌似てる。†",
+    ("いや、かなり翌似てる。†",
     ""),
     # It's tampering, it's quite similar to the next day.†
 
-    ("「まっ、しばらくここで桙時間つぶしてれば、あの人熕もそのうちあきらめて帰驪るでし蛯ょ」",
+    ("「まっ、しばらくここで桙時間つぶしてれば、あの人熕もそのうちあきらめて帰驪るでしょ」",
     ""),
     # "Well, if I kill time here for a while, that person will eventually give up and return home."
 
@@ -67,7 +67,7 @@ text_array = [
     # The bather narrowed her eyes and chuckled.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ん、なに？	じぃーと見て」",
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Skirt"
 
-    ("「えっ？	見えてないでし蛯ょ？」",
+    ("「えっ？	見えてないでしょ？」",
     ""),
     # "Huh? I can't see it, slut?"
 
@@ -114,15 +114,15 @@ text_array = [
     ""),
     # "I've seen this very carefully the other day, so I'm not sure what phlegm is.
 
-    ("「今厓日は今厓日だｂ」",
+    ("「今厓日は今厓日だ」",
     ""),
     # "The current day is now the current day b."
 
-    ("オ激レが言うと、浴女はぷっと≠吹き出した。†",
+    ("オレが言うと、浴女はぷっと≠吹き出した。†",
     ""),
     # When I said that, the bather started squealing.†
 
-    ("「あははははっ、へんな竄やつ〜」",
+    ("「あははははっ、へんなやつ〜」",
     ""),
     # "Hahahaha, this is a strange tampering thing."
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # The bather leaned his face with a laugh.
 
-    ("い竄や、＝普通だと思うけどな、オ激レは。†",
+    ("いや、＝普通だと思うけどな、オレは。†",
     ""),
     # I think it's normal to tamper with it.†
 
-    ("「とこｂで、あなたと烽も妙なр巡闖り№合寘わせね。おたがいなんの接点燗もないはずなのに」",
+    ("「とこで、あなたと烽も妙なр巡闖り№合寘わせね。おたがいなんの接点燗もないはずなのに」",
     ""),
     # "At this point, you and Hot will also travel together in a strange way. You should not have a warm connection at all."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "Well."
 
-    ("「この出初い、きっと神様が仕組んだのね。つまりこれは運命の出初いって竄やつなのよ」",
+    ("「この出初い、きっと神様が仕組んだのね。つまりこれは運命の出初いってやつなのよ」",
     ""),
     # "This first time was set up by God. In other words, this is a tampering of the beginning of fate."
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("オ激レは馬鹿にするように聞き返す。†",
+    ("オレは馬鹿にするように聞き返す。†",
     ""),
     # I listened back as if to make fun of me.†
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # Huh?
 
-    ("いまと同じようなセ潟リフ、たしかどこかでオ激レが言ったような、言甯わないような…。†",
+    ("いまと同じようなセリフ、たしかどこかでオレが言ったような、言甯わないような…。†",
     ""),
     # The same as the ones we have now, and it's definitely something I've said somewhere before, and it seems like it's hard to say...†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "What do you say about your name?"
 
-    ("「オ激レか？	」",
+    ("「オレか？	」",
     ""),
     # "Are you so intense?"
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "Aya∴Ka"
 
-    ("「あ竄やか？」",
+    ("「あやか？」",
     ""),
     # "Are you tampering?"
 
@@ -242,15 +242,15 @@ text_array = [
     ""),
     # Kurusu Mizuya∴Curiousness”†
 
-    ("「＠栖瑞！？	竅やっぱりそうかー」",
+    ("「＠栖瑞！？	やっぱりそうかー」",
     ""),
     # "@Suizui!? Is that so?!"
 
-    ("「竅やっぱりって？」",
+    ("「やっぱりって？」",
     ""),
     # "What do you think?"
 
-    ("「い竄や、そうじ痰ゃないかと思ってたんだよ。さっきの浮黒スーツのじーさんって、＠栖瑞家の執鮪事かなんかだｂ？」",
+    ("「いや、そうじ痰ゃないかと思ってたんだよ。さっきの浮黒スーツのじーさんって、＠栖瑞家の執鮪事かなんかだ？」",
     ""),
     # "I thought it would be a bitter mess, and I thought there would be no phlegm to clean up. Is the old man in the floating black suit just now the @Suizui family tuna or something?"
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "Huh? How do you know?"
 
-    ("「うちのｂ高校に烽もｗ栖瑞って人がいるけど、あのじーさんが迎えにｗたからな」†",
+    ("「うちの高校に烽もｗ栖瑞って人がいるけど、あのじーさんが迎えにｗたからな」†",
     ""),
     # "There's someone at my B high school called Hoo, Suzui, but that old man came to pick me up lol" †
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # "What?! @Suizui!?"
 
-    ("「そうよ、聞いたことある名囑字でし蛯ょ？」",
+    ("「そうよ、聞いたことある名囑字でしょ？」",
     ""),
     # "Yes, I've heard of a famous squeal, squeal?"
 
@@ -290,11 +290,11 @@ text_array = [
     ""),
     # "Ah, oh, sputum..."
 
-    ("「テ激レビとかでよくＣＭ竄やってる烽もんね」",
+    ("「テレビとかでよくＣＭやってる烽もんね」",
     ""),
     # "It's a hot guy who often uses commercials in TV dramas like intense revivals."
 
-    ("「い竄や、それより烽も、オ激レのよく知ってる人が同じ名囑字だから、そっちのほうに驚いた」†",
+    ("「いや、それより烽も、オレのよく知ってる人が同じ名囑字だから、そっちのほうに驚いた」†",
     ""),
     # "I was surprised by the fact that I'm a man who I know well is the same famous character, so I was surprised."
 
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # "Who is that?"
 
-    ("「オ激レのいっこ繧上の先輩で、＠栖瑞芹°香っていう人なんだけど…」",
+    ("「オレのいっこ繧上の先輩で、＠栖瑞芹°香っていう人なんだけど…」",
     ""),
     # "My senior senior is @Suisui Seri °Ka..."
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # "Wow, I'm surprised. I can't believe you're in a relationship with your sister."
 
-    ("「こっち烽も驚いた。い竄やあ、世間は狭いぜ」",
+    ("「こっち烽も驚いた。いやあ、世間は狭いぜ」",
     ""),
     # "I was surprised too. I'm not a fan, the world is small."
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # "Maybe it's a fateful first time for the rest of your life."
 
-    ("「艨ゆく艪ゆくは宿命の奄ライバ泣ルになるとか？」",
+    ("「艨ゆくゆくは宿命の奄ライバルになるとか？」",
     ""),
     # "Is it possible that the future of the surge will become the fateful Amaya Raiba cry?"
 
@@ -355,11 +355,11 @@ text_array = [
     # "Someday, the owner will become a friend of the next day, the next day's friend."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("一呼吸おいて、ふたりは同椏時にプッと≠吹き出した。",
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # "Are you close to your sister?"
 
-    ("のぞき桙込むようにオ激レを見て聞いた。",
+    ("のぞき桙込むようにオレを見て聞いた。",
     ""),
     # I listened as I looked at me and peered in.
 
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # "How much?"
 
-    ("「どのくらいって、そうだな、といって烽も、まだ知闥りあって間煌もないから、ち蛯ょっと話をした程度だけど」",
+    ("「どのくらいって、そうだな、といって烽も、まだ知闥りあって間煌もないから、ちょっと話をした程度だけど」",
     ""),
     # "How long does it mean, I guess so, but the yo-san still knows and doesn't have a glimpse of it, so I only talked about it."
 
@@ -438,7 +438,7 @@ text_array = [
     ""),
     # "a?"
 
-    ("ずいぶんとスト激レートに聞くрヤツだなあ。†",
+    ("ずいぶんとストレートに聞くрヤツだなあ。†",
     ""),
     # He's the guy who listens to it at a very low rate.†
 
@@ -450,7 +450,7 @@ text_array = [
     ""),
     # A I like it.Relax
 
-    ("Ｂ	增わからない。閨",
+    ("Ｂ	わからない。閨",
     ""),
     # B I don't understand.Relax
 

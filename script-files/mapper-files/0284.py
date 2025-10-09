@@ -14,24 +14,24 @@ text_array = [
     ""),
     # Okay.
 
-    ("オ激レは気さくな笑迴顔で声をかけた。",
+    ("オレは気さくな笑迴顔で声をかけた。",
     ""),
     # My heart called out with a friendly face.
 
-    ("「諱よお、諱先輩。お冾日柄熾もよｂしいこって」†",
+    ("「諱よお、諱先輩。お冾日柄熾もよしいこって」†",
     ""),
     # "My name is, Senpai. I'm sure my heart is very good."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レを見た先輩は、少しなにかを考えた繧後、またカードの束を取闔り出した。†",
+    ("オレを見た先輩は、少しなにかを考えた繧後、またカードの束を取闔り出した。†",
     ""),
     # After seeing me, my senior thought up a little, he grabbed another stack of cards.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	閨占いますか？	そうだなあ…」",
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # A. I'll give you a fortune telling.Relax
 
-    ("Ｂ	いまは唐遠慮しとく。閨",
+    ("Ｂ	いまは遠慮しとく。閨",
     ""),
     # B I'll refrain from doing this now.Relax
 

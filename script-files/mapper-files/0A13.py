@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "What...!?"
 
-    ("「バイトに遅薯刻しそうだって撃血褐相かえて教室とびだしてく竄やつ烽もいるから、掾理女緒ち痰ゃん烽もそうなのかなって思ってさ」†",
+    ("「バイトに遅薯刻しそうだって撃血褐相かえて教室とびだしてくやつ烽もいるから、掾理女緒ち痰ゃん烽もそうなのかなって思ってさ」†",
     ""),
     # "There are also some who have to go to classrooms and turn around, saying that they're going to cut the potatoes into their part-time jobs, so I wonder if that's the case with the same thing as the Jorimeo Ochi Sphinja."
 
-    ("「增わ、п私、ケッソウ変えてた〜？」",
+    ("「わ、п私、ケッソウ変えてた〜？」",
     ""),
     # "Bang, did I change the skull?"
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # But I can't say that it wasn't changed.
 
-    ("「ま、平喆日の、こんな桙時間からバイトに行く竄やつ烽もそうそういないけどな」†",
+    ("「ま、平喆日の、こんな桙時間からバイトに行くやつ烽もそうそういないけどな」†",
     ""),
     # "Well, there aren't many people who go to work part-time at this rate on Pingyongyang."
 
-    ("「じつは、磨当たり…」",
+    ("「じつは、当たり…」",
     ""),
     # "Actually, it's polished..."
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # "That's not it, it's bad to talk to someone like this."
 
-    ("オ激レは揩理女緒ち痰ゃんと烽歩きながら話すことにした。",
+    ("オレは揩理女緒ち痰ゃんと烽歩きながら話すことにした。",
     ""),
     # I decided to talk while walking around.
 
-    ("「バイトって、なに竄やってんだ？	コンビニとかか？」†",
+    ("「バイトって、なにやってんだ？	コンビニとかか？」†",
     ""),
     # "What are you tampering with part-time jobs? Is it a convenience store?"
 
-    ("「今厓日はティッシャ配阡り。ほんとならお汲昼から竄やらなき痰ゃいけないのを、お願いして冾放課繪後からにして烽もらってるから、遅薯刻する墲わけにいかないんだ」",
+    ("「今厓日はティッシャ配阡り。ほんとならお汲昼からやらなき痰ゃいけないのを、お願いして冾放課繪後からにして烽もらってるから、遅薯刻する墲わけにいかないんだ」",
     ""),
     # "They're leaving the stinger on the day. In fact, I've been asking them to have to sputum that they have to be tampered with in the afternoon, and I've been getting some hot pot after the school is over, so I can't afford to chop them late."
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "I see. And what does Hou also mean, "It's the day you're in the middle of the day"? *Is Inmata Yushima Shou doing part-time work?"
 
-    ("「コンビニ焜も竄やってるし、пヤックとかで烽もたまに竄やってるよ。それに新聞配達に、ゲームセンターに、チ宴ラシ配阡りに、冝日曜坥日とかは引っ越し屋さん…」",
+    ("「コンビニ焜もやってるし、пヤックとかで烽もたまにやってるよ。それに新聞配達に、ゲームセンターに、チラシ配阡りに、冝日曜坥日とかは引っ越し屋さん…」",
     ""),
     # "They're also messing around with convenience store bins, and sometimes they mess up with hotpots at пYak and others. Also, they're delivering newspapers, game centers, flyers, and moving shops on Sundays and other days..."
 
-    ("「おいおい、そんなにこｂこｂバイト変えてたらまずいだｂ」†",
+    ("「おいおい、そんなにここバイト変えてたらまずいだ」†",
     ""),
     # "Hey hey, it would be bad if I had changed that much b and b part-time job."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「掛け揩持ちで竄やってるから、＊淫俣冝v",
+    ("「掛け揩持ちでやってるから、＊淫俣冝v",
     ""),
     # "Because they're doing it with their fingers, *Inmata Kozuv
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # "So, does that mean you're going to have some sun-cooked drinks right now?"
 
-    ("「うん。ティッシャ配阡りが終尞わったら、ゲームセンターで店員さん竄やって、あとはお家で宛名走書き竄やって｢｢」",
+    ("「うん。ティッシャ配阡りが終尞わったら、ゲームセンターで店員さんやって、あとはお家で宛名走書きやって｢｢」",
     ""),
     # "Yes. Once the Tisser is finished, the staff will tamper with you at the game center, and then you will tamper with the address at home. ""
 
-    ("掾理女緒ち痰ゃんは下駄箱から靴を取闔り出しつつ、楽しそうな福口調で、今厓日の仕鮪事を並べ立てる。",
+    ("掾理女緒ち痰ゃんは下駄箱から靴を取闔り出しつつ、楽しそうな口調で、今厓日の仕鮪事を並べ立てる。",
     ""),
     # As she pulls her shoes out of the shoe cabinet, she arranges the tuna that is currently on sale in a fun tone of good fortune.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # If it were this much, I would say ""†
 
-    ("そのとき、オ激レとの話に夢亦になっていた揩理女緒ち痰ゃんが、自分で開いた下駄箱の烽扉に顔をぶつけていた。",
+    ("そのとき、オレとの話に夢亦になっていた揩理女緒ち痰ゃんが、自分で開いた下駄箱の烽扉に顔をぶつけていた。",
     ""),
     # At that time, the dream of a story with me was also a part of her, but she was slamming her face against the door of a shoe cabinet that she had opened herself.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "What's the hot spring, you can't hit such hot springs, and you can't even hit them..."
 
-    ("「增わ、п私ってけっこうニブいから〜」",
+    ("「わ、п私ってけっこうニブいから〜」",
     ""),
     # "Boo, I'm pretty nibbled"
 

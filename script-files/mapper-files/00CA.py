@@ -10,7 +10,7 @@ text_array = [
     ""),
     # It's time for me.
 
-    ("街にで烽も繰闌り出すか。",
+    ("街にで烽も繰り出すか。",
     ""),
     # Will they also start to send out hot springs in town?
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # "Hey, town!"
 
-    ("目の前に、秩湯気の立つご飯とｋが置かれた。",
+    ("目の前に、秩湯気の立つご飯と駆が置かれた。",
     ""),
     # In front of me was a rice dish with steaming steam and k.
 
-    ("この店のカツ丼は、ち蛯ょっと変﨑わっていて、",
+    ("この店のカツ丼は、ちょっと変﨑わっていて、",
     ""),
     # The cutlet bowl at this restaurant is a bit of a stove,
 
-    ("ご飯とｋが別々になって出てくるのだ。",
+    ("ご飯と駆が別々になって出てくるのだ。",
     ""),
     # The rice and k come out separately.
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # In the small pot, half-boiled eggs are in the best possible way.
 
-    ("その下には蛯大きなカツがр埋燒もれている。†",
+    ("その下には大きなカツがр埋燒もれている。†",
     ""),
     # Below it is a large cutlet of lily buried.†
 
-    ("それを艪御飯に乗せ、禔口に運ぶ。",
+    ("それを御飯に乗せ、禔口に運ぶ。",
     ""),
     # It is placed on the rice and brought to the rice bowl.
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # That goes well with rice again.†
 
-    ("「オсヤジさん、これ、どー竅やってんの？」",
+    ("「オсヤジさん、これ、どーやってんの？」",
     ""),
     # "Oh my god, what are you doing with this?"
 
-    ("思寬わず聞いてしまう、オ激レ。",
+    ("思寬わず聞いてしまう、オレ。",
     ""),
     # I listened to it without thinking about it, and it was really exciting.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # The old man was happy to teach me.†
 
-    ("なんで烽もトマトジャースを隠し味に使った自家製のだしと、ササニシキと近江米をブ激レンドした艪御飯がｌめてなんだそうだ。",
+    ("なんで烽もトマトジャースを隠し味に使った自家製のだしと、ササニシキと近江米をブレンドした御飯がｌめてなんだそうだ。",
     ""),
     # Apparently, the chicken is made from homemade dashi made with tomato jars as a secret ingredient, and rice made from a brilliant blend of sasanishiki and Omi rice.
 

@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hey, tonight...!?"
 
-    ("「い、い竄や、なんで烽もない。オ激レが言う墲わけにはいかない」",
+    ("「い、いや、なんで烽もない。オレが言う墲わけにはいかない」",
     ""),
     # "No, there's no tampering, why is there no hot water? I can't just say it."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Haha, it's phlegm."
 
-    ("オ激レはいきなり魔走闡り出した。†",
+    ("オレはいきなり魔走闡り出した。†",
     ""),
     # My fierce suddenly started to run wild.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Akari went after her desperately.†
 
-    ("磨走ったおかげで、いつ烽もより≠早く家にｒくことができた。◯",
+    ("走ったおかげで、いつ烽もより≠早く家にｒくことができた。◯",
     ""),
     # Thanks to my success, I was able to get to my house sooner than I could.◯
 

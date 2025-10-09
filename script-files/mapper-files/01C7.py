@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "I'm going back."
 
-    ("オ激レは唐鞄を取って、席から立つと、あかりといっし蛯ょに教室を出た。†",
+    ("オレは鞄を取って、席から立つと、あかりといっしょに教室を出た。†",
     ""),
     # I grabbed my bag and got out of my seat and left the classroom with Akari and Ichigo.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "There's no one there, of course."
 
-    ("「時間が桙時間だしな。あとはク宴ラブハウスに、文化秤部の連中が残ってるくらいだｂ」",
+    ("「時間が桙時間だしな。あとはクラブハウスに、文化秤部の連中が残ってるくらいだ」",
     ""),
     # "Time is fuzzy. All that remains is the Cultural Scales Club at Kuban Love House."
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "From the Ming Shun Day, it's already been five Lion Moon."
 
-    ("「ああ、そうい竄やそうか」†",
+    ("「ああ、そういやそうか」†",
     ""),
     # "Ah, I guess that's what you're going to say."
 
-    ("「見慣れてるはずの竄坂道なのに、夕焼けだと全然べつの場鰹所にいるみたい」",
+    ("「見慣れてるはずの坂道なのに、夕焼けだと全然べつの場鰹所にいるみたい」",
     ""),
     # "It's a tampering slope that you should be familiar with, but at the sunset it feels like you're in a completely different bonito spot."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # Well then.
 
-    ("オ激レ焜もさっさとｒ替えて、夕飯で烽もモ買いに行きますか。◯",
+    ("オレ焜もさっさとｒ替えて、夕飯で烽もモ買いに行きますか。◯",
     ""),
     # Would you like to quickly change my veteran and go buy some hot pot for dinner?◯
 

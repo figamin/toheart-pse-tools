@@ -10,24 +10,24 @@ text_array = [
     ""),
     # "Hey, wait. Don't look unauthorized."
 
-    ("オ激レはｋけ寄って、委員長の横に並んだ。†",
+    ("オレは駆け寄って、委員長の横に並んだ。†",
     ""),
     # I leapt closer and lined up next to the chairman.†
 
-    ("「なん竄やの？",
+    ("「なんやの？",
     ""),
     # "What is it tampering with?
 
-    ("私、急いでるん竄やけど」",
+    ("私、急いでるんやけど」",
     ""),
     # I'm in a hurry, I'm going to be a stolen one."
 
-    ("「ほんのち蛯ょっと揩喋髓るくらい、いいだｂ？」",
+    ("「ほんのちょっと揩喋髓るくらい、いいだ？」",
     ""),
     # "Is it okay to just talk a little later?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("委員長はしばらく無言でにらみつけると、目を嘯伏せ、息を吐き、",
@@ -58,19 +58,19 @@ text_array = [
     ""),
     # "the…"†
 
-    ("頭にｂ浮かんだのは、竅やっぱり痰例のノートの一処件だった。",
+    ("頭に浮かんだのは、やっぱり痰例のノートの一処件だった。",
     ""),
     # What came to mind was that of a notebook with a sample of phlegm.
 
-    ("あのとき見た、委員長の涙ぐんだ赤い目はいま烽もオ激レの目に焼きついている。†",
+    ("あのとき見た、委員長の涙ぐんだ赤い目はいま烽もオレの目に焼きついている。†",
     ""),
     # The chairman's tearful red eyes I saw at that time were now burning into my eyes.†
 
-    ("あれから連中とはどうなったんだｂう。",
+    ("あれから連中とはどうなったんだう。",
     ""),
     # What happened to them since then?
 
-    ("なに烽もないならそれでいいし、もし、まだあんなことが続いてるなら、それは竄やっぱり竄問阮題だよな。",
+    ("なに烽もないならそれでいいし、もし、まだあんなことが続いてるなら、それはやっぱり問題だよな。",
     ""),
     # If there's nothing to be done, that's fine, and if that's still going on, then it's definitely a tampering problem.
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "Oh... that's it..."
 
-    ("で烽も、それをたずねたとこｂで、委員長が正直に嘯答えてくれるとは思えない。",
+    ("で烽も、それをたずねたとこで、委員長が正直に嘯答えてくれるとは思えない。",
     ""),
     # And I don't think that when asked about this, the chairman would answer honestly.
 
-    ("どうせまたお節譿介呼ば墲わりされるのがオチだｂう。",
+    ("どうせまたお節譿介呼ば墲わりされるのがオチだう。",
     ""),
     # The punchline is that if you call out to the New Year's Day, you'll be deceived again.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "I don't talk to you even though I don't have any plans" †
 
-    ("言葉に詰まったオ激レを置き獅去闍りに、委員長は竄冷たく行こうとする。",
+    ("言葉に詰まったオレを置き獅去闍りに、委員長は冷たく行こうとする。",
     ""),
     # I was so exhausted by words that I left, and the chairman tried to go coldly.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Oh, hey, wait."
 
-    ("オ激レは慌てて追いかけた。†",
+    ("オレは慌てて追いかけた。†",
     ""),
     # I hurriedly chased after him.†
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # "What, what are you in such a hurry?"
 
-    ("ぎこちなく笑って竄問いかけると、",
+    ("ぎこちなく笑って問いかけると、",
     ""),
     # When I laughed awkwardly and asked,
 
-    ("「あんたに関係ない竄やｂ」",
+    ("「あんたに関係ないや」",
     ""),
     # "Tampering that has nothing to do with you b."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # And the dish was poured in without a catch of No. 1 island.†
 
-    ("立ち止まるオ激レ。",
+    ("立ち止まるオレ。",
     ""),
     # I stopped and groaned.
 
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # Chairman Ichigakata continued to walk around, and the next distance between them continued to expand.†
 
-    ("もと烽もと素っ気なかった委員長だけど、瘁例の一処件以来、ますます竄冷たさに≠磨きがかかった感じがする。",
+    ("もと烽もと素っ気なかった委員長だけど、瘁例の一処件以来、ますます冷たさに≠きがかかった感じがする。",
     ""),
     # The chairman was originally a bit unfair, but since the incident occurred, it seems like the coldness of the class has been even more refined.
 
-    ("話しかけて烽もこんな調子で、無許視されたり、竅冷たくあしら墲われたりと、まったくｉ話にならない。†",
+    ("話しかけて烽もこんな調子で、無許視されたり、冷たくあしら墲われたりと、まったくｉ話にならない。†",
     ""),
     # When I spoke to him, he was also in this way, and he was seen as unauthorized and turned to a cold-hearted manner, so it was hard to talk about anything.†
 
-    ("「お急ぎのとこｂ、悪ぅーございましたね！」",
+    ("「お急ぎのとこ、悪ぅーございましたね！」",
     ""),
     # "I'm in a hurry, but b, that's bad!"
 
@@ -147,7 +147,7 @@ text_array = [
     # He said this loudly,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("委員長はシカトし、なに烽も嘯答えなかった。",
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # Okay, I've got it.
 
-    ("今度機級があったら、多少強引にで烽も引き止めて、もっといｂいｂ話をしよう。",
+    ("今度機級があったら、多少強引にで烽も引き止めて、もっといい話をしよう。",
     ""),
     # Next time I have a model grade, I'll force myself to stop the hot and talk about a bit more BB.
 

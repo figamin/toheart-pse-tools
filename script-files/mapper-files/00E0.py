@@ -2,11 +2,11 @@
 # Source file: 00E0.txt
 
 text_array = [
-    ("（３／２０）閨（♂史スペシャャ泣ルイベント）閨（潤居間）†",
+    ("（３／２０）閨（♂史スペシャャルイベント）閨（潤居間）†",
     ""),
     # (3/20)Le (♂ History Special Crying Event)Le (Jun Now)†
 
-    ("さてと、家にいて烽もし蛯ょうがないよな。",
+    ("さてと、家にいて烽もしょうがないよな。",
     ""),
     # Well, I guess I'm at home and there's no hot water.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Shall we go out?†
 
-    ("「竅やあ、」",
+    ("「やあ、」",
     ""),
     # "Hey hey."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I see, that's a pain. But then, isn't it quite phlegm? Isn't it pretty quick to have time to do it?"
 
-    ("「いまは、ち蛯ょっとペットシ㏍ョップに用沫事があって」†",
+    ("「いまは、ちょっとペットショップに用沫事があって」†",
     ""),
     # "Now, there's a droplet on the pet syrup."
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「ハムスターにかじらせるお竄やつだよ。前舞歯をけずってくれるんだ」",
+    ("「ハムスターにかじらせるおやつだよ。前舞歯をけずってくれるんだ」",
     ""),
     # "It's a tampering thing that makes hamsters nibble. They'll cut off the front tooth."
 
-    ("そうい竄やこいつの家って、ハムスターとか小動物系を飼ってんだっけ。†",
+    ("そういやこいつの家って、ハムスターとか小動物系を飼ってんだっけ。†",
     ""),
     # I wonder if this guy's house has hamsters or small animals.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "If I get rid of my teeth, I won't be able to eat food, so I don't have any phlegms?"
 
-    ("「い竄や、ハムスターって、普歯が伸びすぎるとスト激レスがたまって病気の原因になるんだ」",
+    ("「いや、ハムスターって、普歯が伸びすぎるとストレスがたまって病気の原因になるんだ」",
     ""),
     # "If you're a hamster, if your teeth grow too long, you'll get a lot of stress and cause illness."
 
@@ -102,27 +102,27 @@ text_array = [
     ""),
     # Although it is small from the outside, the inside of the store is quite spacious.
 
-    ("いｂんな動物がいる。",
+    ("いんな動物がいる。",
     ""),
     # There are some animals.
 
-    ("ち蛯ょっとした動物園って感じだな。†",
+    ("ちょっとした動物園って感じだな。†",
     ""),
     # It feels like a zoo.†
 
-    ("「おっ、なんか面猪白い竄やつがいるな」",
+    ("「おっ、なんか面猪白いやつがいるな」",
     ""),
     # "Oh, there's something like that that guy who's tampering with the boars."
 
-    ("細長くき痰ゃし痰ゃな感じのする撃褐色の毛並みの動物が、ピ㏍ョコピ㏍ョコ首を動かしてる。",
+    ("細長くき痰ゃし痰ゃな感じのする撃褐色の毛並みの動物が、ピョコピョコ首を動かしてる。",
     ""),
     # A long, thin, brown-colored animal with hair that feels like it's phlegm, is moving its head.
 
-    ("「プ激レー梶リードッグだね」",
+    ("「プレー梶リードッグだね」",
     ""),
     # "It's a stellar kaji lead dog."
 
-    ("「ア＜メ潟リカの垂草原にいるあれか」",
+    ("「ア＜メリカの垂草原にいるあれか」",
     ""),
     # "Are you in the grasslands of America?"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Isn't this guy keeping him?"
 
-    ("「世話するのが意外と蛯大変なんだよ。ほら、ケースの底に板みたいなのがあるよね」",
+    ("「世話するのが意外と大変なんだよ。ほら、ケースの底に板みたいなのがあるよね」",
     ""),
     # "It's surprisingly difficult to take care of. Look, there's a board-like piece at the bottom of the case."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Oh, there is."
 
-    ("コードのついた平べったいヘ泣ルス＜メーターみたいなのが置いてある。",
+    ("コードのついた平べったいヘルス＜メーターみたいなのが置いてある。",
     ""),
     # There's a flat meter-like chord with a cord.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "The more time-consuming a hot spring, the more cute the hot spring, the more hot spring you can't even get hot."
 
-    ("「オ激レは手間のかからない動物が好きだ」",
+    ("「オレは手間のかからない動物が好きだ」",
     ""),
     # "I like animals that are not too hassle-free."
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "What about Kame?"
 
-    ("「可愛くねーだｂ」",
+    ("「可愛くねーだ」",
     ""),
     # "That's so cute b."
 

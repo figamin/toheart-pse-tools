@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("「ずっと働きどおしだｂ？	たまに痰ゃ、どっか遊びに行ったり、家でゴ鴻ロゴ鴻ロしたりして烽もバチは魔当たんねえと思うぜ」†",
+    ("「ずっと働きどおしだ？	たまに痰ゃ、どっか遊びに行ったり、家でゴ鴻ロゴ鴻ロしたりして烽もバチは魔当たんねえと思うぜ」†",
     ""),
     # "Have you always worked? Sometimes I go out and play somewhere, or go to the house, and I think the fire is not a hit."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # And it seems he's having trouble with the reversal of the anger.
 
-    ("まあ、さすがにいまのは、ち蛯ょっと無神経だったか烽もな。",
+    ("まあ、さすがにいまのは、ちょっと無神経だったか烽もな。",
     ""),
     # Well, of course, what I'm talking about now was probably insensitive, or even a hot guy.
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # """I agree…"
 
-    ("掾理女緒ち痰ゃんは、そっとつぶ竄やいた。",
+    ("掾理女緒ち痰ゃんは、そっとつぶやいた。",
     ""),
     # The girl Ochi Sphin-yan quietly muttered her.
 
-    ("「なんだかр私、ア泣ルバイトをたくさんこなすことばっかり考えてたみたい」",
+    ("「なんだかр私、アルバイトをたくさんこなすことばっかり考えてたみたい」",
     ""),
     # "It seems like I was thinking about things like working a lot of different parts of the world."
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "Yeah... I don't think that's that kind of thing is very good though."
 
-    ("そして、ち蛯ょっと照齒れくさくなって、つけ加えた。†",
+    ("そして、ちょっと照齒れくさくなって、つけ加えた。†",
     ""),
     # And then, the slurred tingly, added.†
 
-    ("「まあ、オ激レがどうこう言う烽もんで烽もないけど｢｢」",
+    ("「まあ、オレがどうこう言う烽もんで烽もないけど｢｢」",
     ""),
     # "Well, I'm not saying anything about it, and there's no hot water, but ""
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "Sometimes, I have to go out and have to go and enjoy the troublesome sake of my younger brothers, so I think I'll be going out to play next time."
 
-    ("「バイト休めて烽も蛯大変なんだな」†",
+    ("「バイト休めて烽も大変なんだな」†",
     ""),
     # "It's tough to take a break from part-time work."
 
-    ("「だから、今度の冾日曜坥日、增弟たちと母さんのお見糟舞いに行こうかなって思って」",
+    ("「だから、今度の冾日曜坥日、弟たちと母さんのお見糟舞いに行こうかなって思って」",
     ""),
     # "So, I thought I might go and see my mother and my brothers on the next Sunday."
 
@@ -122,15 +122,15 @@ text_array = [
     ""),
     # "Hahaha, is that so?"
 
-    ("「增弟とか、思いっきりなついてそうだし」†",
+    ("「弟とか、思いっきりなついてそうだし」†",
     ""),
     # "I think my little brother is going to be as hard as I can."
 
-    ("「前だったら、諱よくいっし蛯ょに遊んでたよ。プ鴻ロ激レスごっことかして」",
+    ("「前だったら、諱よくいっしょに遊んでたよ。プ鴻ロレスごっことかして」",
     ""),
     # "I used to play with my slutty sluts. I'd play with a lot of replies."
 
-    ("「竅やっぱり？	で烽も、浴女の子が勇ましくプ鴻ロ激レスごっこってのはマズイんじ痰ゃねーの？」",
+    ("「やっぱり？	で烽も、浴女の子が勇ましくプ鴻ロレスごっこってのはマズイんじ痰ゃねーの？」",
     ""),
     # "I wonder if that's right? And, isn't it bad to see a bathing girl bravely playing a tough replies?"
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "That's right. Hehe..." †
 
-    ("そうこうしているうちに、′こうの福方で、再び何人かが動き始めていた。",
+    ("そうこうしているうちに、′こうの方で、再び何人かが動き始めていた。",
     ""),
     # Meanwhile, several people had started to move again in Kono Fukukata.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "I see, come on hard work."
 
-    ("「うん。…そ、それじ痰ゃ今度は、い、いっし蛯ょに遊びにつれてってね」",
+    ("「うん。…そ、それじ痰ゃ今度は、い、いっしょに遊びにつれてってね」",
     ""),
     # "Yes... well, that's it, then, let's have fun with the eps."
 
@@ -170,11 +170,11 @@ text_array = [
     ""),
     # "Yeah!"
 
-    ("そして揩理女緒ち痰ゃんは、再び垂巨蜍大な奄ラッコ頭をかぶって、＜タャタとコミカ泣ルに烽歩いていった。",
+    ("そして揩理女緒ち痰ゃんは、再び垂巨蜍大な奄ラッコ頭をかぶって、＜タャタとコミカルに烽歩いていった。",
     ""),
     # Then, Ochi Symphomani once again put on the huge Amaya sea otter head and walked around with the tears of the comic.
 
-    ("それを見洛送ってから、オ激レ焜も家に帰った。◯",
+    ("それを見洛送ってから、オレ焜も家に帰った。◯",
     ""),
     # After seeing this, I sent home too.◯
 

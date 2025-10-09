@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I walked along the hallway and looked out into the view outside.
 
-    ("秩白くかすんだ唐遠くの景色が見える。",
+    ("秩白くかすんだ遠くの景色が見える。",
     ""),
     # You can see a random, hazy view from the far away Tang Dynasty.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # There's no sign of the house above, but from here onwards, the hot springs also feel quite good.†
 
-    ("ふらふらと、こんなとこｂにｗてしまった。",
+    ("ふらふらと、こんなとこにｗてしまった。",
     ""),
     # I wandered around, and fell into this place.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # It was no use moving my legs.†
 
-    ("＊淫俣桒棟肛盾濶ｺ濶りしてる竄坂道。",
+    ("＊淫俣桒棟肛盾濶ｺ濶りしてる坂道。",
     ""),
     # *The Tamami slope is smashing through the anus.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # I wonder if my feet are being given high heat at all?
 
-    ("下濶りはスケボーで、ガーッとｋけ抜けるの烽も気搴持ちよさそうだ。†",
+    ("下濶りはスケボーで、ガーッと駆け抜けるの烽も気搴持ちよさそうだ。†",
     ""),
     # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.†
 

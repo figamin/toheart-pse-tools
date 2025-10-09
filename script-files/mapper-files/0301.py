@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Tomoko's first-time event, continuation of selection A) (Cursical Library)†
 
-    ("「諱取って竄やｂうか？」",
+    ("「諱取ってやうか？」",
     ""),
     # "Can I take my name and tamper with it?"
 
-    ("オ激レがそう言うと、浴女生徒は振關りｌいて、",
+    ("オレがそう言うと、浴女生徒は振關りｌいて、",
     ""),
     # When I said that, the bather student cried out,
 
@@ -18,19 +18,19 @@ text_array = [
     ""),
     # "Who are you?"I was almost grossly, my eyes were glaringly.
 
-    ("ち蛯ょっとキツイ感じのふたつの目が、めがねの撃レンズ越しにオ激レをにらむ。†",
+    ("ちょっとキツイ感じのふたつの目が、めがねの撃レンズ越しにオレをにらむ。†",
     ""),
     # Two eyes, which felt so tight, glared at me through the lens of my glasses.†
 
-    ("「い竄や、苦寀戦してるみたいだからさ」",
+    ("「いや、苦寀戦してるみたいだからさ」",
     ""),
     # "It seems like they're tampering, they're fighting hard."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レは背伸びして、ひ蛯ょいっと本に触齔れた。",
+    ("オレは背伸びして、ひょいっと本に触齔れた。",
     ""),
     # I stretched out and touched the book.
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "All right, come on."
 
-    ("オ激レはその本を取って、ぽん、とその子の手に乗せて竄やった。†",
+    ("オレはその本を取って、ぽん、とその子の手に乗せてやった。†",
     ""),
     # I took the book and put it in the child's hand and then tampered with it.†
 
-    ("その子はしばらくじっと本を見つめると、目鱒を繧上げ、オ激レを見た。",
+    ("その子はしばらくじっと本を見つめると、目鱒を繧上げ、オレを見た。",
     ""),
     # The child stared at the book for a moment, then raised his stove and looked at me.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # As if the voice in her heart had been understood, the female bather thanked her with a deep tingly expression.
 
-    ("その『ありがとう』のイントネーシ㏍ョンが微妙に変﨑わってることに気づく。†",
+    ("その『ありがとう』のイントネーションが微妙に変﨑わってることに気づく。†",
     ""),
     # He notices that the intangible in "Thank you" has been slightly changed.†
 
@@ -115,10 +115,10 @@ text_array = [
     # When I ask that,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("なにか気に痰障髀ることで烽も言っただｂうか、浴女生徒はいきなりムスッとした表﨣情になると、",
+    ("なにか気に痰障髀ることで烽も言っただうか、浴女生徒はいきなりムスッとした表﨣情になると、",
     ""),
     # I'm not saying something about it, and I just said it, but the female student suddenly became annoyed and unpleasant,
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # Hmm, he turned his back and tried to go.†
 
-    ("「お、おい、ち蛯ょっと」",
+    ("「お、おい、ちょっと」",
     ""),
     # "Oh, hey, slut."
 
@@ -138,15 +138,15 @@ text_array = [
     ""),
     # I shouted and looked over at me.†
 
-    ("「…なあ、オ激レ、なにか悪いこと言ったか？」",
+    ("「…なあ、オレ、なにか悪いこと言ったか？」",
     ""),
     # "...Hey, I'm so blunt, did you say something bad?"
 
-    ("オ激レはなんで怒逑らせたのか揩理由が墲わからず、苦笑して聞いた。",
+    ("オレはなんで怒逑らせたのか揩理由が墲わからず、苦笑して聞いた。",
     ""),
     # I didn't understand why I made him angry, so I asked with a wry smile.
 
-    ("すると翌女生徒は、キッとオ激レをにらみつけ、",
+    ("すると翌女生徒は、キッとオレをにらみつけ、",
     ""),
     # The next female student glares at me quickly,
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "fart?"
 
-    ("ぱちっとまばたきする、オ激レ。",
+    ("ぱちっとまばたきする、オレ。",
     ""),
     # I blinked quickly, my eyes out.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # Is Kansai dialect rare?
 
-    ("そり痰ゃ、まあ、うちのｂ高校じ痰ゃ珍しいけど。",
+    ("そり痰ゃ、まあ、うちの高校じ痰ゃ珍しいけど。",
     ""),
     # It's rare for my B high school to have phlegm.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # And Ho also said, ".†
 
-    ("「オ激レはべつに、珍しいだなんて、ひとこと烽も｢｢」",
+    ("「オレはべつに、珍しいだなんて、ひとこと烽も｢｢」",
     ""),
     # "I'm really, really rare, and I say """
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # It was supposed to continue saying that she hadn't said that, but the woman's words interrupted it.
 
-    ("「それと、うちとこ蛯大繿阪ち痰ゃう、神戸竚や」",
+    ("「それと、うちとこ大繿阪ち痰ゃう、神戸竚や」",
     ""),
     # "And also, our house is a great place to go, Kobe."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # When she left that pointless, the bather student turned around and then left.
 
-    ("今度は呼び止めるの烽も忘齧れ、オ激レは呆然とその背白を見洛送った。",
+    ("今度は呼び止めるの烽も忘齧れ、オレは呆然とその背白を見洛送った。",
     ""),
     # This time, I also forgot about the call-off, and I was stunned and looked at the back of my heart.
 
@@ -206,15 +206,15 @@ text_array = [
     ""),
     # "...Oh, yes, it's Kobe."
 
-    ("オ激レは、ぼそりとつぶ竄やいた。†",
+    ("オレは、ぼそりとつぶやいた。†",
     ""),
     # My heart muttered and muttered.†
 
-    ("とこｂで、いまの竄やりとり、なんか変じ痰ゃねーか？",
+    ("とこで、いまのやりとり、なんか変じ痰ゃねーか？",
     ""),
     # In this case, the current tampering and exchanges have changed somehow?
 
-    ("感謝されるのならと烽もかく、なんでオ激レが怒逑られなき痰ゃいけねーんだ。",
+    ("感謝されるのならと烽もかく、なんでオレが怒逑られなき痰ゃいけねーんだ。",
     ""),
     # If I were to be grateful, it would be a shame, so why should I have to be phlegmed to be angry?
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "What's wrong, the girl after that?"
 
-    ("その声を聞きつけ、あかりが竄やってきた。",
+    ("その声を聞きつけ、あかりがやってきた。",
     ""),
     # Hearing that voice, Akari began to tamper with it.
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Hoshina? Do you know that guy?"
 
-    ("「うん。だって、同じク宴ラスだ烽もん」",
+    ("「うん。だって、同じクラスだ烽もん」",
     ""),
     # "Yeah. Because it's the same party."
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "They're also hot.
 
-    ("「そうか、保科ってのか、あの翌女。くそ〜、チク閭シ㏍ョ〜、ムカつく〜」",
+    ("「そうか、保科ってのか、あの翌女。くそ〜、チク閭ショ〜、ムカつく〜」",
     ""),
     # "I see, Hoshina, the girl after that. Damn it, it's annoying, it's annoying."
 
@@ -299,18 +299,18 @@ text_array = [
     # "Yeah"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「？」",
     ""),
     # "?"
 
-    ("「…竅やっぱいい竄や。つまんないことだ」",
+    ("「…やっぱいいや。つまんないことだ」",
     ""),
     # "...It's a bit of a boring thing after all."
 
-    ("あかりに言って烽もし蛯ょうがない烽もんな。◯",
+    ("あかりに言って烽もしょうがない烽もんな。◯",
     ""),
     # To tell Akari, it's a hot spring that doesn't have a hot spring.◯
 

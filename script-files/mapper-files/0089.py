@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The third day of the grade and final exams.
 
-    ("今厓日の教科はグ宴ラマーと化学。",
+    ("今厓日の教科はグラマーと化学。",
     ""),
     # The subjects on the day are currently being taught by the Grammer and Chemistry.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # To be honest, both are hard work.†
 
-    ("諱取闔りあえず１桙時間目のグ宴ラマーに備えて、出闖題されそうな英文の冾日本齧語訳を眺める。",
+    ("諱取闔りあえず１桙時間目のグラマーに備えて、出闖題されそうな英文の冾日本齧語訳を眺める。",
     ""),
     # In preparation for the first round of the banquet, I looked at the Japanese rodent translation of English sentences that might be asked to be asked.
 
-    ("竅やがてチャャイムが鳴阮り、テスト開始だ。†",
+    ("やがてチャャイムが鳴り、テスト開始だ。†",
     ""),
     # Before long, the chaiim squealed and the test began.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "пYay! How are you doing? ...Oh, it's tough."
 
-    ("うるさいрヤツが竄やってきた。†",
+    ("うるさいрヤツがやってきた。†",
     ""),
     # A loud guy came in to tamper with me.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "What is it? Did you come to the next door to investigate?"
 
-    ("「增わざ墲わざアンタの調子を聞きにｗて竄やったのよ。で、どーなの？」",
+    ("「わざ墲わざアンタの調子を聞きにｗてやったのよ。で、どーなの？」",
     ""),
     # "I tried to hear your situation lol and tamper with it. So, what's up?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "let's see"
 
-    ("志保はオ激レの顔をじーっと見つめた。",
+    ("志保はオレの顔をじーっと見つめた。",
     ""),
     # Shiho stared at my face.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Ahhh..."
 
-    ("Ａ	調子バッチ潟リ。閨",
+    ("Ａ	調子バッチリ。閨",
     ""),
     # A: It's in perfect condition.Relax
 

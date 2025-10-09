@@ -2,19 +2,19 @@
 # Source file: 0689.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ａ	「增わっ！」と驚かす）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ａ	「わっ！」と驚かす）†",
     ""),
     # (Muryuruchi Scales Event 2F LV2) (Shocking Sou A surprise with "Whoa!")†
 
-    ("こういう無防備なрヤツは繧後撃から驚かせて竄やりたくなるよな。",
+    ("こういう無防備なрヤツは繧後撃から驚かせてやりたくなるよな。",
     ""),
     # I'm sure this defenseless guy will want to surprise him and tamper with him after the attack.
 
-    ("オ激レは足音を忍ばせ、マ泣ルチのすぐ真辮後撃まで近づいた。",
+    ("オレは足音を忍ばせ、マルチのすぐ真辮後撃まで近づいた。",
     ""),
     # I let out footsteps and got close to the attack after the cries of the cries.
 
-    ("それで烽もマ泣ルチは、まだ気がつかない。◯",
+    ("それで烽もマルチは、まだ気がつかない。◯",
     ""),
     # So, Kao also doesn't notice it yet.◯
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # Haha... I took a breath and rewound the window in amusement.
 
-    ("オ激レは肺いっぱいに、すぅ〜っと蛯大きく息を吸い桙込むと…。†",
+    ("オレは肺いっぱいに、すぅ〜っと大きく息を吸い桙込むと…。†",
     ""),
     # My lungs were full, and I took a deep breath and took a deep breath...†
 
-    ("「增わっ！」",
+    ("「わっ！」",
     ""),
     # "Bang!"
 
@@ -99,14 +99,14 @@ text_array = [
     # And then.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ふ〜〜〜〜〜〜〜〜〜〜〜………パタン。",
     ""),
     # Wow... Pattern.
 
-    ("あっけなく気を失い、そのまま床に崩れるマ泣ルチ。†",
+    ("あっけなく気を失い、そのまま床に崩れるマルチ。†",
     ""),
     # He suddenly faints and collapses on the floor.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Eh, uh..."
 
-    ("しばらく呆然とそれを眺めていたオ激レは、苦笑しながらま墲わりの様子を見渡した。",
+    ("しばらく呆然とそれを眺めていたオレは、苦笑しながらま墲わりの様子を見渡した。",
     ""),
     # I was staring at it in a stunning way for a while, and with a wry smile I looked over at the scene.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # Return the vision consultation to the foot gift.
 
-    ("仰旧けに倒齠れたマ泣ルチは、そのままピク潟リと烽も動かない。†",
+    ("仰旧けに倒齠れたマルチは、そのままピクリと烽も動かない。†",
     ""),
     # After being defeated by his anger, Makruchi still throbbed and the hot springs remained unmoved.†
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # "Oh, hey, are you serious..."
 
-    ("オ激レは、つぶ竄やきながらし痰ゃがみ桙込み、",
+    ("オレは、つぶやきながらし痰ゃがみ桙込み、",
     ""),
     # My hardcore throbbing and squelching,
 
-    ("「マ、マ泣ルチ」",
+    ("「マ、マルチ」",
     ""),
     # "Ma, ma-cry."
 
@@ -150,12 +150,12 @@ text_array = [
     ""),
     # His head tilted 90 degrees to the side, smashing it, and his bangs fell into a caucasian dance.†
 
-    ("「な、なあ、マ泣ルチ、轣冗談だｂ？」",
+    ("「な、なあ、マルチ、轣冗談だ？」",
     ""),
     # "W-hey, you cried, are you kidding me?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("だが、なんの返抹事燻もない。†",
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # Is it really a disaster??
 
-    ("「マ、マ泣ルチ、マ泣ルチっ」",
+    ("「マ、マルチ、マルチっ」",
     ""),
     # "Ma, mum, mum, mum, mum, mum
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # He lifted up his thin shoulders.†
 
-    ("マ泣ルチの体はとて烽も機械で出女ているとは思えないほど軽かった。",
+    ("マルチの体はとて烽も機械で出女ているとは思えないほど軽かった。",
     ""),
     # Makruchi's body was so light that it was hard to believe that the hot spring was coming out by a machine.
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # He looks just like a human, in the end.†
 
-    ("「おい、マ泣ルチ、しっかりしｂ！」",
+    ("「おい、マルチ、しっかりし！」",
     ""),
     # "Hey, mum-cry, be strong b!"
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # Warm, soft, and human-like skin.†
 
-    ("「マ泣ルチっ、マ泣ルチってば」",
+    ("「マルチっ、マルチってば」",
     ""),
     # "Sheep, I'm crying, I'm crying."
 
@@ -215,23 +215,23 @@ text_array = [
     # Peep, Peep!
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("だが、なんの反梍応煢もない。",
     ""),
     # However, there is no opposition to it.
 
-    ("「おいっ、マ泣ルチっ！	マ泣ルチっ！」",
+    ("「おいっ、マルチっ！	マルチっ！」",
     ""),
     # "Hey, I'm crying! I'm crying!"
 
-    ("艨ゆさ艪ゆさとモ激しく肩を揺さぶってみた。†",
+    ("艨ゆさゆさとモしく肩を揺さぶってみた。†",
     ""),
     # I tried to shake my shoulders vigorously.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("へんじがない。",
@@ -246,11 +246,11 @@ text_array = [
     ""),
     # That's right, there's no way they're joking about it.†
 
-    ("オ、オ激レがびっくりさせたせい…だよな、竅やっぱり。",
+    ("オ、オレがびっくりさせたせい…だよな、やっぱり。",
     ""),
     # Oh, it's because I was so surprised... I guess so.
 
-    ("「マ泣ルチぃ〜っ、しっかりしてくれぇぇ〜」",
+    ("「マルチぃ〜っ、しっかりしてくれぇぇ〜」",
     ""),
     # "Mmm, please do your best."
 
@@ -258,19 +258,19 @@ text_array = [
     ""),
     # Peep peep peep peep.
 
-    ("なんだよ、ち蛯ょっと驚かせただけだｂ〜？†",
+    ("なんだよ、ちょっと驚かせただけだ〜？†",
     ""),
     # What is it, I just surprised you b?†
 
-    ("きっと、ブ激レーカーが獅落ちたか、ヒャーズが飛んだんだｂう。",
+    ("きっと、ブレーカーが獅落ちたか、ヒャーズが飛んだんだう。",
     ""),
     # I'm sure the breaker has fallen or the fuse has blown.
 
-    ("どっちにしｂ、耐久性に竄問阮題ありだな。",
+    ("どっちにし、耐久性に問題ありだな。",
     ""),
     # Whichever way, there are some questions about durability.
 
-    ("「おい、マ泣ルチっ、起きｂ〜っ」",
+    ("「おい、マルチっ、起き〜っ」",
     ""),
     # "Hey, I'm crying, wake up b~"
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("体のどっかに、ブ激レーカー轣らしき烽もので烽もついてねーかな。",
+    ("体のどっかに、ブレーカー轣らしき烽もので烽もついてねーかな。",
     ""),
     # I think there's a hot spring that looks like a breaker laker somewhere and it's also hot.
 
@@ -295,7 +295,7 @@ text_array = [
     # Slightly.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ない。†",
@@ -310,11 +310,11 @@ text_array = [
     ""),
     # In times like these, who do you need to consult with??
 
-    ("竅やっぱ取闔りあえずは、保瀦健室へ運んだほうがいいか。",
+    ("やっぱ取闔りあえずは、保瀦健室へ運んだほうがいいか。",
     ""),
     # After all, I think it's better to take him to the Hoen health room.
 
-    ("い竄や、それより烽も≠メーカーのサービスマンに連腰絡を…。†",
+    ("いや、それより烽も≠メーカーのサービスマンに連腰絡を…。†",
     ""),
     # It's even more difficult to get involved with the manufacturer's service personnel...†
 
@@ -326,7 +326,7 @@ text_array = [
     ""),
     # "Buuuuhhhhh...
 
-    ("突然、鈍い音がしたかと思うと、マ泣ルチがうっすらと目を開いた。†",
+    ("突然、鈍い音がしたかと思うと、マルチがうっすらと目を開いた。†",
     ""),
     # Suddenly, a dull sound came to mind, and Makruchi opened his eyes slightly.†
 
@@ -334,11 +334,11 @@ text_array = [
     ""),
     # "...Uhhhhh."
 
-    ("ぱちぱちっ、とマ泣ルチは瞬きした。",
+    ("ぱちぱちっ、とマルチは瞬きした。",
     ""),
     # Slap, cried, and she blinked.
 
-    ("「マ泣ルチ？」",
+    ("「マルチ？」",
     ""),
     # "Sheep?"
 
@@ -346,15 +346,15 @@ text_array = [
     ""),
     # "...Ah, sir."
 
-    ("諱よう竄やく目の焦点があったのか、マ泣ルチは寝ぼけたようなぼん竄やり福口調でオ激レの名前をつぶ竄やいた。†",
+    ("諱ようやく目の焦点があったのか、マルチは寝ぼけたようなぼんやり口調でオレの名前をつぶやいた。†",
     ""),
     # Perhaps there was a focus on his eyes, but Makruchi muttered my name in a sleepy, drowsy, blissful way of speaking.†
 
-    ("ほっと安堵の息を漏逖らす、オ激レ。",
+    ("ほっと安堵の息を漏逖らす、オレ。",
     ""),
     # I let out a sigh of relief and throbbing.
 
-    ("「…ったく、なにがさんだよ。驚かせ竄やがって」",
+    ("「…ったく、なにがさんだよ。驚かせやがって」",
     ""),
     # "...What's that about? You're shocked me."
 
@@ -362,11 +362,11 @@ text_array = [
     ""),
     # He said with a wry smile and shocked.†
 
-    ("「…增わたし、いったい？」",
+    ("「…わたし、いったい？」",
     ""),
     # "...What on earth am I?"
 
-    ("艨ゆっくり立ち繧上がると、マ泣ルチはまだ目の覚めきっていない、ぼーっとした表﨣情のままつぶ竄やいた。",
+    ("艨ゆっくり立ち繧上がると、マルチはまだ目の覚めきっていない、ぼーっとした表﨣情のままつぶやいた。",
     ""),
     # As he stood up slowly, Makruchi muttered as he had not yet woken up, a daze that was disgusting.
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # I was wiping the window... it was all of a sudden..."†
 
-    ("そのとき、オ激レはこう言った。",
+    ("そのとき、オレはこう言った。",
     ""),
     # At that time, I said:
 

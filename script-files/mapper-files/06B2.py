@@ -2,23 +2,23 @@
 # Source file: 06B2.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（戟レベ泣ル３を見てないとき）閨（選択綜Ａ	見洛送って竄やる）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（戟レベル３を見てないとき）閨（選択綜Ａ	見洛送ってやる）†",
     ""),
     # (Muryuruchi, Scales Event 2F LV4) (When you're not watching the level cry 3) (Choose A, send me a raku and send me a smash) †
 
-    ("これで最纃後だし、オ激レはマ泣ルチを見洛送って竄やることにした。",
+    ("これで最纃後だし、オレはマルチを見洛送ってやることにした。",
     ""),
     # This was the last moment, so I decided to send my eyes off Ruchi and tamper with him.
 
-    ("「なあ、マ泣ルチ」",
+    ("「なあ、マルチ」",
     ""),
     # "Hey, mum-cry."
 
-    ("「はい、なんでし蛯ょう？」",
+    ("「はい、なんでしょう？」",
     ""),
     # "Yes, why are you eclips?"
 
-    ("「これから帰驪るんだｂ？」",
+    ("「これから帰驪るんだ？」",
     ""),
     # "Are you going back now?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「だったら、いっし蛯ょに帰汲うぜ？」",
+    ("「だったら、いっしょに帰汲うぜ？」",
     ""),
     # "If that's the case, then I'll return to the ephemeral?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「浴送髑るぜ、バス窿停まで」",
+    ("「浴送るぜ、バス窿停まで」",
     ""),
     # "I'll take a bath, I'll go to the bus stop."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Ah, yes!"
 
-    ("その繧後、縺後片づけを手伝ってから、オ激レとマ泣ルチは学校を出た。◯",
+    ("その繧後、縺後片づけを手伝ってから、オレとマルチは学校を出た。◯",
     ""),
     # After that, I helped to clean up after the tan, and then I and Makruchi left school.◯
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # ""Thank you for your help."
 
-    ("校舎にｌかってぺこんと礼をするマ泣ルチ。†",
+    ("校舎にｌかってぺこんと礼をするマルチ。†",
     ""),
     # McCruchi gives a deep bow to the school building and gives a slogan.†
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # At school on Saturday, you can usually find that the quieter you can visit.
 
-    ("グ宴ラウンド窿や体迹育館にいる部賦の生徒たち以外はほとんど帰ってしまっている。†",
+    ("グラウンド窿や体迹育館にいる部賦の生徒たち以外はほとんど帰ってしまっている。†",
     ""),
     # Most of the students from the club, except for the banquet round and the physical training camp, have left.†
 
-    ("「…短い間でしたけど、とって烽もとって烽も、楽しかったです。この学校で過ごした８冾日間のことを、增わたしは一生忘齧れません」†",
+    ("「…短い間でしたけど、とって烽もとって烽も、楽しかったです。この学校で過ごした８冾日間のことを、わたしは一生忘齧れません」†",
     ""),
     # "...It was a short time, but I also enjoyed the hot springs. I will never forget the eight days I spent at this school."
 
-    ("ち蛯ょっと遅い｢｢",
+    ("ちょっと遅い｢｢",
     ""),
     # It's too late "
 
@@ -74,31 +74,31 @@ text_array = [
     ""),
     # Or rather, the graduation ceremony was pretty early.
 
-    ("卒業していくのは、マ泣ルチひとりだ。",
+    ("卒業していくのは、マルチひとりだ。",
     ""),
     # The only one who will graduate is Makruchi.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("感慨深げに、じっと校舎を見つめるマ泣ルチ。",
+    ("感慨深げに、じっと校舎を見つめるマルチ。",
     ""),
     # With excitement, McDonald stared at the school building.
 
-    ("その背白を見ていると、竅やっぱり少し、か墲わいそうに思えた。†",
+    ("その背白を見ていると、やっぱり少し、か墲わいそうに思えた。†",
     ""),
     # Looking at the back of her, I felt a little sad, as expected.†
 
-    ("香ロボットだけど、マ泣ルチには、オ激レたちとなんら変﨑わらない心がある。",
+    ("香ロボットだけど、マルチには、オレたちとなんら変﨑わらない心がある。",
     ""),
     # It's a Koh Robot, but Makruchi has a heart that never changes with us and the others.
 
-    ("さっきからずっと微笑みを竄絶竦やさないが、その表﨣情は、竅やっぱりどこか竄寂しげだ。",
+    ("さっきからずっと微笑みを絶竦やさないが、その表﨣情は、やっぱりどこか寂しげだ。",
     ""),
     # He hasn't let his smile go unnoticed, but his outward feelings seem somewhat lonely after all.
 
-    ("このままずっと、オ激レたちといっし蛯ょに学校にいられればいいのに…。†",
+    ("このままずっと、オレたちといっしょに学校にいられればいいのに…。†",
     ""),
     # I wish I could continue like this with my hardcore girls and stay at school...†
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Sorry. Sorry for keeping you waiting."
 
-    ("磨走闡り寄ってきたマ泣ルチが言った。",
+    ("走闡り寄ってきたマルチが言った。",
     ""),
     # Makruchi said as he approached me.
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # "Is it okay now?"
 
-    ("「はい。しっかりと≠メｃモ潟リーに焼きつけましたから」",
+    ("「はい。しっかりと≠メｃモリーに焼きつけましたから」",
     ""),
     # "Yes. I baked it thoroughly into ≠mec Mogata Li."
 
-    ("マ泣ルチは明髢るい笑迴顔で嘯答えた。",
+    ("マルチは明髢るい笑迴顔で嘯答えた。",
     ""),
     # McDonald replied with a sly smile.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "...Um, what is it?"
 
-    ("「仰げば尊しだｂ？	知迺らねーのか？」",
+    ("「仰げば尊しだ？	知迺らねーのか？」",
     ""),
     # "If you look up, it's important to you? You don't know about it?"
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "Is it a graduation ceremony...?"
 
-    ("「ああ、だって今厓日はマ泣ルチの卒業式みたいな烽もんだｂ？」",
+    ("「ああ、だって今厓日はマルチの卒業式みたいな烽もんだ？」",
     ""),
     # "Ah, right now, is this a hot spring like a graduation ceremony for Makruchi?"
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "…picture"†
 
-    ("「≠ｨ〜し〜え〜の〜、に〜增わ〜に〜も〜＝v",
+    ("「≠ｨ〜し〜え〜の〜、に〜わ〜に〜も〜＝v",
     ""),
     # "≠〜〜〜〜〜〜〜〜〜〜〜〜〜〜＝v
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # Uuh...=v
 
-    ("「≠ﾍ〜竅や〜い〜く〜と〜せ〜…＝v",
+    ("「≠ﾍ〜や〜い〜く〜と〜せ〜…＝v",
     ""),
     # "≠Haa~ I'm so happy~...=v
 
@@ -198,23 +198,23 @@ text_array = [
     ""),
     # "...Uh, uh, thank you, Mr..."◯
 
-    ("穏竕やかな午繻後の陽射しのｒ、オ激レとマ泣ルチは並んで竄坂道を下っていった。",
+    ("穏竕やかな午後の陽射しのｒ、オレとマルチは並んで坂道を下っていった。",
     ""),
     # After a calm morning, the sunshine illuminated, and I and Makuruchi lined up and down the slope.
 
-    ("增わずかに奄初夏を匂崧わせる翌風が、ふたりの頬をなで、通闥り過ぎていく。",
+    ("わずかに奄初夏を匂崧わせる翌風が、ふたりの頬をなで、通闥り過ぎていく。",
     ""),
     # The next wind, which slightly hints at early Amazement, stroked the two of them' cheeks and moved too hard.
 
-    ("オ激レがとりとめのない話を振髏ると、マ泣ルチは目のｒに残った涙をこすりながら、笑迴顔でこたえた。†",
+    ("オレがとりとめのない話を振髏ると、マルチは目のｒに残った涙をこすりながら、笑迴顔でこたえた。†",
     ""),
     # When I shouted a rambling story, Makruchi responded with a laughing face, rubbing the tears that remained in his eyes.†
 
-    ("いつ烽もより烽も足を遅迺らせ気味に烽歩いたが、それで烽も竄やはり目的地にはｒいてしまう。",
+    ("いつ烽もより烽も足を遅迺らせ気味に烽歩いたが、それで烽もやはり目的地にはｒいてしまう。",
     ""),
     # At any rate, the boiler was walking slower than the boiler, but as the boiler was still stolen, it ended up falling to its destination.
 
-    ("「またここで、セ潟リオと待ち№合寘わせか？」",
+    ("「またここで、セリオと待ち№合寘わせか？」",
     ""),
     # "Shall we wait again with Seragata Rio again?"
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("マ泣ルチはうなずいて嘯答えた。†",
+    ("マルチはうなずいて嘯答えた。†",
     ""),
     # McDonald nodded and replied.†
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # "…Mr. Miss"
 
-    ("「マ泣ルチ、元気で竄やれよ」",
+    ("「マルチ、元気でやれよ」",
     ""),
     # "Mix, go and tamper with your energy."
 
-    ("オ激レが言うと、マ泣ルチは、",
+    ("オレが言うと、マルチは、",
     ""),
     # When I said that, Makruchi was
 
@@ -258,11 +258,11 @@ text_array = [
     ""),
     # "ah"
 
-    ("オ激レが微笑むと…マ泣ルチは、ぽｂっと涙をこぼした。†",
+    ("オレが微笑むと…マルチは、ぽっと涙をこぼした。†",
     ""),
     # When I smiled... Ruchi burst into tears.†
 
-    ("マ泣ルチはオ激レが見えなくなるまで、いつまで烽も、元気に手を振關り続けてくれた。◯",
+    ("マルチはオレが見えなくなるまで、いつまで烽も、元気に手を振關り続けてくれた。◯",
     ""),
     # Makruchi continued to wave his hands in energy until I couldn't see her.◯
 

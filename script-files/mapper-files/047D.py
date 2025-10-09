@@ -2,15 +2,15 @@
 # Source file: 047D.txt
 
 text_array = [
-    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	ひとりで遊んでｂ）†",
+    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	ひとりで遊んで）†",
     ""),
     # (Shiho's exam day return PS) (Choose-so, play alone b)†
 
-    ("「竅やだね。",
+    ("「やだね。",
     ""),
     # "I don't want to.
 
-    ("一人で遊んでｂ」†",
+    ("一人で遊んで」†",
     ""),
     # Play alone b"†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What? I'm still in the house, even though I'm still in the middle of my life."
 
-    ("「家でゴ鴻ロゴ鴻ロするのに二人熕もいらねえだｂ」",
+    ("「家でゴ鴻ロゴ鴻ロするのに二人熕もいらねえだ」",
     ""),
     # "We don't need two people to go to the house at home."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I just looked like yours."
 
-    ("志保を置いて、オ激レはとっとと帰った。",
+    ("志保を置いて、オレはとっとと帰った。",
     ""),
     # After leaving Shiho, I quickly went home.
 

@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Senior Faith!"
 
-    ("オ激レは思寬わず蛯大声で呼びかけた。",
+    ("オレは思寬わず大声で呼びかけた。",
     ""),
     # Without thinking, I called out loud.
 
@@ -22,12 +22,12 @@ text_array = [
     ""),
     # Senior peers overlooking me.†
 
-    ("「今度は、いっし蛯ょに帰汲うぜ？」",
+    ("「今度は、いっしょに帰汲うぜ？」",
     ""),
     # "Next time, let's go back to the ephemeral?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩はじっと見つめ、こくんと…。†",
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "I'm not going to meet you, Senpai..."
 
-    ("磨走闡り獅去驪る車にｌかってオ激レはつぶ竄やいた。",
+    ("走闡り獅去驪る車にｌかってオレはつぶやいた。",
     ""),
     # I was hit by the car as it plunged away, and I muttered.
 
-    ("縺後伯部座席からオ激レのほうに汲視諮を翌送髑る先輩の表﨣情は、とて烽も申し訳なさそうだった。◯",
+    ("縺後伯部座席からオレのほうに汲視諮を翌送る先輩の表﨣情は、とて烽も申し訳なさそうだった。◯",
     ""),
     # The senior's concerns about the outward concern from Hakube's seat to me from the next seat were apparently apologised to the public.◯
 

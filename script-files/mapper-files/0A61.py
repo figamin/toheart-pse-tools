@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (A call out.)†
 
-    ("「オッス。熱心に竄やってるじ痰ゃねーか」",
+    ("「オッス。熱心にやってるじ痰ゃねーか」",
     ""),
     # "Oh, you're so enthusiastic about tampering with all your phlegms?"
 

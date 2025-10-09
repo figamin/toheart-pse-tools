@@ -2,7 +2,7 @@
 # Source file: 05A0.txt
 
 text_array = [
-    ("（葵	回秤数イベント１２）閨（選択Ａ	葵ち痰ゃんと蛯大接近できますように	の続き）閨（葵	好感度＋５）†",
+    ("（葵	回秤数イベント１２）閨（選択Ａ	葵ち痰ゃんと大接近できますように	の続き）閨（葵	好感度＋５）†",
     ""),
     # (Aoi, Episode Scales Event 12) (Continued from Selection A: I hope you can get close to Aoi Chisho-chan and Episode) (Aoi, Likeability +5)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Isao Senpai, what did you ask for?"
 
-    ("「えっ、オ激レ？	…え、ええ〜っと。…あ、葵ち痰ゃんは？」",
+    ("「えっ、オレ？	…え、ええ〜っと。…あ、葵ち痰ゃんは？」",
     ""),
     # "What, I'm super excited? ...Eh, uh...Ah, what about Aoi Chishonan?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Wait.
 
-    ("当てて竄やｂうか？」",
+    ("当ててやうか？」",
     ""),
     # Do you want to attack it and tamper with it?”
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Yeah, it's probably about Aoi Chisho-ya...
 
-    ("もっと強くなれますように…ってとこだｂ？」",
+    ("もっと強くなれますように…ってとこだ？」",
     ""),
     # I hope I can become stronger... b?”
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Hehehehehe."
 
-    ("葵ち痰ゃんは一本気なだけに、考えてることがはっきりしていて、增わかり竄やすいぜ。†",
+    ("葵ち痰ゃんは一本気なだけに、考えてることがはっきりしていて、わかりやすいぜ。†",
     ""),
     # Aoi Chisho-yan is a serious person, so what he's thinking is clear and it's easy to understand.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "What did you ask, Senpai?"
 
-    ("「オ激レはだな…、その…」",
+    ("「オレはだな…、その…」",
     ""),
     # "I'm really... that's it..."
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "…the?"†
 
-    ("「うーん、竅やっぱ、ないし蛯ょ。",
+    ("「うーん、やっぱ、ないしょ。",
     ""),
     # "Hmm, after all, no, slut.
 
-    ("願い魔事は福口にしたら効力が無くなるっていうしな」",
+    ("願い魔事は口にしたら効力が無くなるっていうしな」",
     ""),
     # If you use a lucky spell to be a wish, it will no longer be effective."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # I, if it's me, I'll just have to..."
 
-    ("「い、い竄や…。げ、げふっ…」†",
+    ("「い、いや…。げ、げふっ…」†",
     ""),
     # "No, it's tampering... gay, gey..." †
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # Hashi.
 
-    ("それを間髪、受け止めるオ激レ。†",
+    ("それを間髪、受け止めるオレ。†",
     ""),
     # I took this in a flash.†
 
@@ -126,15 +126,15 @@ text_array = [
     ""),
     # "Are you strong, Aoi Chiffon?"
 
-    ("おしりの辺阨りを支えながら、オ激レが言った。",
+    ("おしりの辺阨りを支えながら、オレが言った。",
     ""),
     # I said, supporting the stomping of my butt.
 
-    ("キ宴ラン。",
+    ("キラン。",
     ""),
     # Kiban Ran.
 
-    ("太陽に輝き、オ激レの前舞歯が光骭る。",
+    ("太陽に輝き、オレの前舞歯が光骭る。",
     ""),
     # The sun shines, and my front dance denim glows.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Senpai..."
 
-    ("葵ち痰ゃんの目が蛯大きくなって≠潤んだ。†",
+    ("葵ち痰ゃんの目が大きくなって≠潤んだ。†",
     ""),
     # Aoi Chisho-chan's eyes grew larger and moistened.†
 
@@ -166,15 +166,15 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("オ激レは、增わっはっはっはっ、と笑った。†",
+    ("オレは、わっはっはっはっ、と笑った。†",
     ""),
     # My heart chuckled, slurping, slurping.†
 
-    ("なんだか知迺らないけど、葵ち痰ゃんといっきに蛯大接近できたぜ！",
+    ("なんだか知迺らないけど、葵ち痰ゃんといっきに大接近できたぜ！",
     ""),
     # It's kind of unfamiliar, but I was able to get close to Aoi Chisho-yan at once!
 
-    ("もしかして、神様の艪御圏益か烽もな翌＠◯",
+    ("もしかして、神様の御圏益か烽もな翌＠◯",
     ""),
     # Perhaps God's foe benefits or the next day @◯
 

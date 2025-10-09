@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko Scales Event 2F LV1) Sil (4 Shizuki) Sil (Breaks depending on whether you saw the Likeability Event 8) Silence (Stairs)†
 
-    ("階段の前で、オ激レ諠より先に教室を出たはずの委員長に追いついた。",
+    ("階段の前で、オレ諠より先に教室を出たはずの委員長に追いついた。",
     ""),
     # In front of the stairs, I caught up with the chairman, who was supposed to have left the classroom before my geisha.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Kaji Ai Henzaki is alone, not alone.
 
-    ("Ａ	いっし蛯ょに帰汲うぜと誘う。閨",
+    ("Ａ	いっしょに帰汲うぜと誘う。閨",
     ""),
     # A. I invite them to return to the Ebi.Relax
 

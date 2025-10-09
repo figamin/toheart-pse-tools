@@ -2,7 +2,7 @@
 # Source file: 068D.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ｃ	憶病だな〜、お前は）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ｃ	憶病だな〜、お前は）†",
     ""),
     # (Muryuruchi, Scales Event 2F LV2) (Choice C: You're sick, you)†
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "...Uhh.
 
-    ("わたし、思い烽もよらない奄負荷がかかったりすると、安全確保のため、ブ激レーカーが獅落ちる仕組みになってるんです」",
+    ("わたし、思い烽もよらない奄負荷がかかったりすると、安全確保のため、ブレーカーが獅落ちる仕組みになってるんです」",
     ""),
     # When I am under unwanted amphibious loads, the breaker laker falls to ensure safety."
 
-    ("「そうか、さっきのは、竅やっぱブ激レーカーが獅落ちた状態だったのか」",
+    ("「そうか、さっきのは、やっぱブレーカーが獅落ちた状態だったのか」",
     ""),
     # "I see, the breaking laker was already falling down."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「マ泣ルチが憶病なрヤツだってことが、諱よーく墲わかったよ」",
+    ("「マルチが憶病なрヤツだってことが、諱よーく墲わかったよ」",
     ""),
     # "I've come to realize that Makruchi is a cheating guy."
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # "..."†
 
-    ("「こんな怖がりなんじ痰ゃし蛯ょうがねー諱よな。",
+    ("「こんな怖がりなんじ痰ゃしょうがねー諱よな。",
     ""),
     # "I'm not so scared of this kind of phlegm, I'm not a real person.
 
-    ("もう竄絶対に驚かしたりしねー諱よ。悪かったな」",
+    ("もう絶対に驚かしたりしねー諱よ。悪かったな」",
     ""),
     # I'll never be surprised anymore, my name is.That was bad."
 
-    ("そう言ってオ激レは、マ泣ルチの頭をぐりぐりとなでた。",
+    ("そう言ってオレは、マルチの頭をぐりぐりとなでた。",
     ""),
     # With that, I stroking the head of the crying Ruchi.
 

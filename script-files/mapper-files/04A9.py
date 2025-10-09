@@ -2,7 +2,7 @@
 # Source file: 04A9.txt
 
 text_array = [
-    ("（志保	回秤数イベント	帰闍り道２）閨（３／１３固闌定）閨（校蜊門２）†",
+    ("（志保	回秤数イベント	帰闍り道２）閨（３／１３固定）閨（校蜊門２）†",
     ""),
     # (Shiho Scales Event Return Road 2) (3/13) (Standard) (School Gate 2)†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Shiho has come up with some less fun stories.†
 
-    ("オ激レの対梠応は｢｢。",
+    ("オレの対梠応は｢｢。",
     ""),
     # My hardcore anti-sou is ".
 

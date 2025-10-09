@@ -10,12 +10,12 @@ text_array = [
     ""),
     # "Go for it."
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("少し墲わからない顔をしたが、♂史はすぐに、",
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I nodded and answered.†
 
-    ("「とこｂでさ」",
+    ("「とこでさ」",
     ""),
     # "At b."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Oh, that's right... I'm not sure... I've had enough phlegm, it's been a while since I last saw it."
 
-    ("…っつー增わけで、その冾日はｉ史んちへ行くことになった。◯",
+    ("…っつーわけで、その冾日はｉ史んちへ行くことになった。◯",
     ""),
     # ...So, on that day, I decided to go to I-Shinchi.◯
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hi Amai!"
 
-    ("戟レミィはオ激レに気づいて、軽く手を振った。",
+    ("戟レミィはオレに気づいて、軽く手を振った。",
     ""),
     # When Karemi noticed me, she waved lightly.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Do you know?"
 
-    ("オ激レの顔を見骭るなり、戟レミィは声をかけてきた。",
+    ("オレの顔を見骭るなり、戟レミィは声をかけてきた。",
     ""),
     # As I looked at my face, Remy called out to me.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # A What?Relax
 
-    ("Ｂ	增わりぃけど、今度にして烽もらえるか？閨",
+    ("Ｂ	わりぃけど、今度にして烽もらえるか？閨",
     ""),
     # B It's a shame, but will you get some hot springs next time?Relax
 

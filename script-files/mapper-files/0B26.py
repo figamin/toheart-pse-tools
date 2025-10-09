@@ -34,11 +34,11 @@ text_array = [
     ""),
     # Okay.
 
-    ("今厓日こそは見てｂよ。",
+    ("今厓日こそは見てよ。",
     ""),
     # Look at the day right now.
 
-    ("オ激レは河艶敷へとｌかった。†",
+    ("オレは河艶敷へとｌかった。†",
     ""),
     # My guts went to Kawaenshiki.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # The M-Tour is on the day of the day.
 
-    ("闇雲に攻めるのは竄やめて、攻ｍ撃をじっくり見骭る。",
+    ("闇雲に攻めるのはやめて、攻ｍ撃をじっくり見骭る。",
     ""),
     # Stop tampering with a blind eye and take a closer look at the attack and M-shot.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # This is it.†
 
-    ("いままで、たかが一発ってことを意識しすぎて、ゴ潟リ气押しで叩き桙込むことばかり考えていた。",
+    ("いままで、たかが一発ってことを意識しすぎて、ゴリ气押しで叩き桙込むことばかり考えていた。",
     ""),
     # Until now, I've been so conscious that it's just one shot, that I've been thinking about pushing it and hitting it.
 
@@ -86,19 +86,19 @@ text_array = [
     ""),
     # If you hit the demon with one hit, you'll win.
 
-    ("オ激レは何度殴迚られて烽もいい。",
+    ("オレは何度殴迚られて烽もいい。",
     ""),
     # I'm hit so many times I'm good at Hot.
 
-    ("倒齠れない限闌り、チャャンスは何度で烽もある。†",
+    ("倒齠れない限り、チャャンスは何度で烽もある。†",
     ""),
     # As long as you can't defeat it, there are times when you can't defeat it, and there are times when you can't beat it.†
 
-    ("ガードに徹して、ク潟リーンヒットを防ぐ。",
+    ("ガードに徹して、クリーンヒットを防ぐ。",
     ""),
     # Become a guard and prevent Kugata Lean hits.
 
-    ("そして体力を温存し、′こうのスタミナが尽きてきたこｂに、速くて、正確なパンチをｌめる。",
+    ("そして体力を温存し、′こうのスタミナが尽きてきたこに、速くて、正確なパンチをｌめる。",
     ""),
     # He then conserves his strength and starts running out of stamina, and gives a fast, accurate punch.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "@Tana"
 
-    ("オ激レに遅齟れること十拍数分。",
+    ("オレに遅れること十拍数分。",
     ""),
     # I'm extremely slow to get to ten beats.
 
-    ("綾∴香たちが竄やってきた。†",
+    ("綾∴香たちがやってきた。†",
     ""),
     # Aya∴Kara and the others have come to tamper with it.†
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Sorry, sorry, did you wait?"
 
-    ("「い竄や。おかげでじっくりｍ寘戦が福練齬れたぜ。言っとくけど、今厓日は覚蜉悟しとけよ」",
+    ("「いや。おかげでじっくりｍ寘戦が練齬れたぜ。言っとくけど、今厓日は覚蜉悟しとけよ」",
     ""),
     # "It's a mess. Thanks to this, the battle for M-Ts has been a long-term confusion. I'll say that, but be sure to understand it now."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Whoa, you're bullish. I'm looking forward to it."
 
-    ("「とこｂで、今厓日が最終叝日謫よ。",
+    ("「とこで、今厓日が最終叝日謫よ。",
     ""),
     # "At this point, the last day is now the last day.
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "Is there any chance of winning?"
 
-    ("「さあな。そればっかりは竄やってみなくち痰ゃ墲わからない」",
+    ("「さあな。そればっかりはやってみなくち痰ゃ墲わからない」",
     ""),
     # "Now. You just have to tamper with that and you don't know what to do."
 
@@ -166,15 +166,15 @@ text_array = [
     ""),
     # "Hello, san."
 
-    ("「おう、セ潟リオ。今厓日燗もｔ人だな」",
+    ("「おう、セリオ。今厓日燗もｔ人だな」",
     ""),
     # "Oh, Segata Rio. I'm currently a T-shirt."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("セ潟リオはち蛯ょっぴり照齒れた｢｢諞ような気がした。†",
+    ("セリオはちょっぴり照齒れた｢｢諞ような気がした。†",
     ""),
     # Seragata Rio illuminated the story, "I felt like it was a sin.†
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "Oh, me?"
 
-    ("「もちｂんｔ人だぜ」",
+    ("「もちんｔ人だぜ」",
     ""),
     # "I'm a Mochi BNT person."
 

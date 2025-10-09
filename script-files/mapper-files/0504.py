@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Aoi's first event after selection C)†
 
-    ("「悪いけど、格闘技なんてオ激レには無摶理だよ」",
+    ("「悪いけど、格闘技なんてオレには無摶理だよ」",
     ""),
     # "I'm sorry, but martial arts is unconventional to me."
 
-    ("オ激レは正直にそう言った。",
+    ("オレは正直にそう言った。",
     ""),
     # I said that honestly.
 
-    ("そんな、ズブの素人が面猪白半分に参加したとこｂでケガするのがオチだ。",
+    ("そんな、ズブの素人が面猪白半分に参加したとこでケガするのがオチだ。",
     ""),
     # The punchline is that such a full-time amateur gets injured when he participates in the role of a white-faced man.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # It's better to be clear.
 
-    ("その場だけの言葉で、う竄やむ竄やにするのは性に№合寘わねーし。†",
+    ("その場だけの言葉で、うやむやにするのは性に№合寘わねーし。†",
     ""),
     # It's not a sexual confusion to use only the situation and tampering with words that are just there.†
 

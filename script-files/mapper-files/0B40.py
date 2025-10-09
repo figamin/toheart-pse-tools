@@ -2,11 +2,11 @@
 # Source file: 0B40.txt
 
 text_array = [
-    ("（綾∴香	エンディング）閨（綾∴香	綾∴香に挑峵戦	回秤数イベント６）閨（バト泣ルポイントが２０以繹上の場㍼合）†",
+    ("（綾∴香	エンディング）閨（綾∴香	綾∴香に挑峵戦	回秤数イベント６）閨（バトルポイントが２０以繹上の場㍼合）†",
     ""),
     # (Aya∴Ka ending) (Aya∴Ka challenges Aya∴Ka challenges Aya∴Ka, event 6) (Battle cry point is 20 or more)†
 
-    ("オ激レは退かず、地面を蹴って前に出た。",
+    ("オレは退かず、地面を蹴って前に出た。",
     ""),
     # I didn't retreat, but kicked the ground and came forward.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Instep!
 
-    ("それにあ墲わせて、綾∴香は竄絶妙なタイミングでカウンターを冾放つ！",
+    ("それにあ墲わせて、綾∴香は絶妙なタイミングでカウンターを冾放つ！",
     ""),
     # And with that in mind, Aya∴Ka fires the counter at an exquisite timing!
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Byaaah!
 
-    ("閃光のような左スト激レート！†",
+    ("閃光のような左ストレート！†",
     ""),
     # A fierce left straight rating that looks like a flash of light!†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "!?"
 
-    ("オ激レは右濶手でブ鴻ロッキングする。",
+    ("オレは右濶手でブ鴻ロッキングする。",
     ""),
     # My geira rocks with my right hand.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # It's a great chahansu!†
 
-    ("左のシ㏍ョートフック！",
+    ("左のショートフック！",
     ""),
     # Symbol hook on the left!
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Bus!
 
-    ("右のシ㏍ョートアッパー！",
+    ("右のショートアッパー！",
     ""),
     # The right upper!
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # Bass!
 
-    ("左右のアッパーが、オ激レのボディに、深く突き刺さる！†",
+    ("左右のアッパーが、オレのボディに、深く突き刺さる！†",
     ""),
     # The left and right uppers thrust deep into my intense body!†
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # I have to protect him...
 
-    ("オ激レが左闕手を下げ、必死にボディをガードした瞬間、†",
+    ("オレが左闕手を下げ、必死にボディをガードした瞬間、†",
     ""),
     # The moment my gut lowered my left hand and desperately guarded my body,
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # My eyes are shaking.
 
-    ("まるで撮影カ＜メ宴ラを獅落としたときのテ激レビ諠画面だ。†",
+    ("まるで撮影カ＜メラを獅落としたときのテレビ諠画面だ。†",
     ""),
     # It's like a screenshot of a filmed film called "Announcer" when he plucks through the film.†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # But!
 
-    ("オ激レは崩れない！",
+    ("オレは崩れない！",
     ""),
     # My throbbing won't collapse!
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # Sigh aaaaah!
 
-    ("オ激レのアゴを突き繧上げるように、綾∴香の右アッパーが炸裂した。†",
+    ("オレのアゴを突き繧上げるように、綾∴香の右アッパーが炸裂した。†",
     ""),
     # Aya∴Ka's right upper exploded, as if thrusts my chin up.†
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # It spreads out in front of my eyes.†
 
-    ("ち蛯ょっとしたｂ浮遊感。",
+    ("ちょっとした浮遊感。",
     ""),
     # It feels like a floating feeling.
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # Ah...
 
-    ("ちくし蛯ょー…。",
+    ("ちくしょー…。",
     ""),
     # Chikushi Episode...
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "Are you strong?"
 
-    ("近寄ってきたセ潟リオが、竅冷たいおしぼりを頬に魔当てた。",
+    ("近寄ってきたセリオが、冷たいおしぼりを頬に魔当てた。",
     ""),
     # As Segata Rio approached, he placed a cold towel on his cheek.
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "Ah, Sunkya..."
 
-    ("ひん竄やり竄冷たいおしぼりは、火照った肌から熱を奪っていく。",
+    ("ひんやり冷たいおしぼりは、火照った肌から熱を奪っていく。",
     ""),
     # The cold towel sniffs and sniffs the heat from the hot skin.
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # "That's about this..."
 
-    ("オ激レは頭を振って、縺上半身を起こした。",
+    ("オレは頭を振って、縺上半身を起こした。",
     ""),
     # I shook my head and lifted up my upper body.
 
@@ -282,15 +282,15 @@ text_array = [
     ""),
     # I still felt a little dizzy at the end of the day.†
 
-    ("「ごめん。途湯で竄やめて烽もよかったんだけど、つい熱くなっち痰ゃって…」",
+    ("「ごめん。途湯でやめて烽もよかったんだけど、つい熱くなっち痰ゃって…」",
     ""),
     # "Sorry. I stopped tampering with the water and the hot water would have been fine, but I ended up getting hot and phlegm..."
 
-    ("「い竄や、閨手を抜かれるよりマシだ」",
+    ("「いや、閨手を抜かれるよりマシだ」",
     ""),
     # "It's better than being dumbed, or being slapped."
 
-    ("縺上半身を両阯手で支え、空を見繻上げる。†",
+    ("縺上半身を両手で支え、空を見上げる。†",
     ""),
     # He supports his upper body with his hands and looks up at the sky.†
 
@@ -314,11 +314,11 @@ text_array = [
     ""),
     # "That's because it happened to be me as the Kaji relations player.
 
-    ("普通の鰍相闡手なら蛯大葬駐體る墲わよ」†",
+    ("普通の鰍相闡手なら大葬駐體る墲わよ」†",
     ""),
     # If you're a normal monk-related guy, you'll be in the middle of a burial funeral."
 
-    ("「お前に勝たなき痰ゃ意味ねーだｂ」",
+    ("「お前に勝たなき痰ゃ意味ねーだ」",
     ""),
     # "It's meaningless if you don't beat you."
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # "That's about the mindset before the lion exam.
 
-    ("結果的には竄やっぱり勝ちたいぜ」",
+    ("結果的にはやっぱり勝ちたいぜ」",
     ""),
     # In the end, I really want to win."
 
@@ -346,11 +346,11 @@ text_array = [
     ""),
     # "Well, the one that's lost in Amami this time."
 
-    ("「し蛯ょうがねぇ…」",
+    ("「しょうがねぇ…」",
     ""),
     # "No shii..."
 
-    ("「なに言ってんの、そっちの勝ちでし蛯ょ？」",
+    ("「なに言ってんの、そっちの勝ちでしょ？」",
     ""),
     # "What are you talking about? That's the winner, slut?"
 
@@ -362,7 +362,7 @@ text_array = [
     ""),
     # "...I got two shots from all over the house club, so I couldn't get any phlegm.
 
-    ("一発で烽も魔当てれば勝ち、って汲ルールだったでし蛯ょ」",
+    ("一発で烽も魔当てれば勝ち、って汲ルールだったでしょ」",
     ""),
     # The rule was that if you hit the demon with one shot, you'll win, slut."
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "Ah, is that so?"
 
-    ("一発又当てり痰ゃオ激レの勝ちなんだ。",
+    ("一発又当てり痰ゃオレの勝ちなんだ。",
     ""),
     # If you hit the ball again, it's a real win.
 
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # "Is that what?"
 
-    ("「だいたい、氈勝ったくせに、閨手を止めようとしないそっちが悪いんでし蛯ょ」",
+    ("「だいたい、氈勝ったくせに、閨手を止めようとしないそっちが悪いんでしょ」",
     ""),
     # "It's the fault of those who won, even though they've won, who refuses to stop their hands."
 
@@ -422,11 +422,11 @@ text_array = [
     ""),
     # I'm not going to be beaten up.†
 
-    ("「で烽も、そうか。オ激レの勝ちか…」",
+    ("「で烽も、そうか。オレの勝ちか…」",
     ""),
     # "And so, is that so? I'll win too..."
 
-    ("ク潟リーンヒットとはいえ、う竄やむ竄やのうちに入ったパンチだ。",
+    ("クリーンヒットとはいえ、うやむやのうちに入ったパンチだ。",
     ""),
     # Although it was a hit with Kugata Lean, it was a punch that ended up being a mess.
 
@@ -438,11 +438,11 @@ text_array = [
     ""),
     # "By the way, the person who lost the weir was a promise to listen to what the one who won the weir said."
 
-    ("オ激レはニсヤ潟リと笑って言った。",
+    ("オレはニсヤリと笑って言った。",
     ""),
     # I laughed and said, "I'm not going to stop it."
 
-    ("「し蛯ょうがない墲わね。なにをすればいいの？」",
+    ("「しょうがない墲わね。なにをすればいいの？」",
     ""),
     # "You're a slut. What should I do?"
 
@@ -450,15 +450,15 @@ text_array = [
     ""),
     # "Hmm, that's right, phlegm..."
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
-    ("Ａ	あと１００回、オ激レの言うことを聞け！閨",
+    ("Ａ	あと１００回、オレの言うことを聞け！閨",
     ""),
     # A Listen to what I'm saying 100 more times!Relax
 
-    ("Ｂ	一生オ激レの家於になれ！閨",
+    ("Ｂ	一生オレの家於になれ！閨",
     ""),
     # B Become my house forever!Relax
 

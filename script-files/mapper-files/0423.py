@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "It's basically what hospital you're talking about?"
 
-    ("「えっと…ア＜メ潟リカ」",
+    ("「えっと…ア＜メリカ」",
     ""),
     # "Um...A<Megata Rika"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Uhhh."
 
-    ("「百熾歩譲って、お前がその菌に感染したら、ち痰ゃんと見糟舞いに行って竄やるよ」",
+    ("「百熾歩譲って、お前がその菌に感染したら、ち痰ゃんと見糟舞いに行ってやるよ」",
     ""),
     # "I'll give you a 100-shot, and if you get infected with that bacteria, I'll go and tamper with you."
 

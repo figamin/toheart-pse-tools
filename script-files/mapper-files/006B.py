@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Okay, this is the end of the lessons on the day of the day...
 
-    ("諱よう竄やく自由の身になったぜ。",
+    ("諱ようやく自由の身になったぜ。",
     ""),
     # I've become free to blame and end up being free.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # I walked along the hallway and looked out into the view outside.
 
-    ("秩白くかすんだ唐遠くの景色が見える。",
+    ("秩白くかすんだ遠くの景色が見える。",
     ""),
     # You can see a random, hazy view from the far away Tang Dynasty.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # There's no sign of the house above, but from here onwards, the hot springs also feel quite good.†
 
-    ("廊下を通って、下駄箱まで竄やってきた。",
+    ("廊下を通って、下駄箱までやってきた。",
     ""),
     # He went through the hallway and even the shoe cabinet.
 

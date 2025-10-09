@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("「い竄や、急いでるから、そう思って」",
+    ("「いや、急いでるから、そう思って」",
     ""),
     # "I'm going to be in a hurry, so I think so."
 
-    ("「增わ、п私、そんな、いっし蛯ょに帰ってくれる男の人なんて｢｢」",
+    ("「わ、п私、そんな、いっしょに帰ってくれる男の人なんて｢｢」",
     ""),
     # "I, I, that guy who's going to come back to the essay is ""
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Ah, hey."
 
-    ("磨走闡り獅去驪る揩理女緒ち痰ゃん。†",
+    ("走闡り獅去驪る揩理女緒ち痰ゃん。†",
     ""),
     # The lion leaps forward.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # From here, a short scream and a dull sound began to be heard in the air.
 
-    ("どう竄やら、またコケたらしい。",
+    ("どうやら、またコケたらしい。",
     ""),
     # Apparently it's tampering, it seems like it's been falsified again.
 

@@ -26,7 +26,7 @@ text_array = [
     ""),
     # I thought I'd also put some hot water in my voice, and as I nearly returned the miscellaneous magazine to the shelf, I realized that the chairman alone had no phlegm.
 
-    ("委員長の横には他校の制梵服をｒた男がいて、ふたりいっし蛯ょに並んで烽歩いていた。†",
+    ("委員長の横には他校の制梵服をｒた男がいて、ふたりいっしょに並んで烽歩いていた。†",
     ""),
     # Next to the chairman was a man wearing Sanskrit uniforms from another school, and the two of them were walking alongside each other's thud.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Maybe he's Mr. #?
 
-    ("男の福方はしきりになにかを話しかけている様子だが、委員長の福方は痰例によっていつ烽ものポーカーフェイスでそれを聞き流しているといった状況だ。",
+    ("男の方はしきりになにかを話しかけている様子だが、委員長の方は痰例によっていつ烽ものポーカーフェイスでそれを聞き流しているといった状況だ。",
     ""),
     # The man Fukukata seems to be constantly talking to him about something, but the chairman Fukukata is always listening to it with a hot poker face.
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # Hmm.
 
-    ("委員長の意外なシチャエーシ㏍ョン。",
+    ("委員長の意外なシチャエーション。",
     ""),
     # The chairman's surprising tranquilizers.
 
-    ("ち蛯ょっと気になるな。",
+    ("ちょっと気になるな。",
     ""),
     # I'm really curious.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # A: Let's follow after the scene.Relax
 
-    ("Ｂ	プ宴ライベートには立ち入逑らない。閨",
+    ("Ｂ	プライベートには立ち入逑らない。閨",
     ""),
     # B Do not enter and visit the private banquet live.Relax
 

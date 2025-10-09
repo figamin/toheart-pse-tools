@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri°Kawa, Scale Scale Event 1F LV1)Seri (Seri A, approach and call)†
 
-    ("オ激レは近寄って声をかけることにした。†",
+    ("オレは近寄って声をかけることにした。†",
     ""),
     # I decided to approach and call out to him.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Senpai put the open book on his lap and read it silently.
 
-    ("艨ゆる竄やかな翌風にきれいな髪がなびいている。†",
+    ("艨ゆるやかな翌風にきれいな髪がなびいている。†",
     ""),
     # Beautiful hair flutters in the gentle, gentle ending wind.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # When I look at it like this, I can see that it's just like O-san.†
 
-    ("オ激レは目の前に行き、声をかけた。",
+    ("オレは目の前に行き、声をかけた。",
     ""),
     # My geira went right in front of me and called out to me.
 
@@ -43,10 +43,10 @@ text_array = [
     # "Shhh next day @"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩は顔を繧上げて、オ激レを見た。",
+    ("諱先輩は顔を繧上げて、オレを見た。",
     ""),
     # Senpai lifted his face and looked at me.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # When I asked, my senior, closed the book and showed me a clear insult.
 
-    ("ハードカバーのｂ高そうな本だった。",
+    ("ハードカバーの高そうな本だった。",
     ""),
     # It was a hardcover book that looked like a b-expensive.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "What is it, an overview of Yuzuna? Haha, the books you're reading are so unbeatable."
 
-    ("オ激レは苦笑し、図々しく横に座った。†",
+    ("オレは苦笑し、図々しく横に座った。†",
     ""),
     # I smiled wryly and sat beside her beloved.†
 
@@ -83,7 +83,7 @@ text_array = [
     # Ko-kun... Senpai nodded.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「へえ。じ痰ゃあ、お迎えがｗ磯翌ﾜで、ここでこうして桙時間つぶしてんだ？」",
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「とこｂで今厓日は部賦はないの？	休み？」",
+    ("「とこで今厓日は部賦はないの？	休み？」",
     ""),
     # "Are there no part-time work on the day of the day at this point? Are you off?"
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「ふーん、いつ烽も竄やってる墲わけじ痰ゃないんだ。そうだよな。",
+    ("「ふーん、いつ烽もやってる墲わけじ痰ゃないんだ。そうだよな。",
     ""),
     # "Hmm, there's no reason to avoid this when you're tampering with Hot Springs. That's right.
 
-    ("やっぱお烽金搴持ちのおｏ様だし、いｂいｂ厳しいんだよな」",
+    ("やっぱお烽金搴持ちのおｏ様だし、いい厳しいんだよな」",
     ""),
     # After all, O-san has a lot of money, so it's tough for me to be a big bud."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Huh..."
 
-    ("オ激レはベンチに深くｍかけた。",
+    ("オレはベンチに深くｍかけた。",
     ""),
     # My guts drove deep into the bench.
 
@@ -139,18 +139,18 @@ text_array = [
     # I squinted my eyes and looked at the sky.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩熹もオ激レにあ墲わせて空を見繻上げた。†",
+    ("諱先輩熹もオレにあ墲わせて空を見上げた。†",
     ""),
     # Senpai Kei also made me smack and looked up at the sky.†
 
-    ("うららかな午繻後。",
+    ("うららかな午後。",
     ""),
     # After a relaxed morning.
 
-    ("まだ冾日はｂ高い。",
+    ("まだ冾日は高い。",
     ""),
     # The date is still b high.
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # The bathing atmosphere blew, and my senior's hair fluttered into a smooth, serene dance.†
 
-    ("なんだｂうな。",
+    ("なんだうな。",
     ""),
     # What is b?
 
-    ("こう竄やって先輩のそばにいると、不思議と獅落ちｒいた気分になる。",
+    ("こうやって先輩のそばにいると、不思議と獅落ちｒいた気分になる。",
     ""),
     # When I was standing by my senior's side by side, I strangely felt like I had fallen lion.
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # It's like I've been doing it like this forever and it's nice to have hot water...
 
-    ("とはいえ、それはそれで変なので、オ激レは話を振髏ることにした。†",
+    ("とはいえ、それはそれで変なので、オレは話を振髏ることにした。†",
     ""),
     # That being said, it was strange, so I decided to throw away the topic.†
 
-    ("「とこｂでさ、諱先輩って｢｢」",
+    ("「とこでさ、諱先輩って｢｢」",
     ""),
     # "At the moment, my name is """
 

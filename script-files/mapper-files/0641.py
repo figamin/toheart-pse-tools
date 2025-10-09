@@ -2,7 +2,7 @@
 # Source file: 0641.txt
 
 text_array = [
-    ("（マ泣ルチ	好感度イベント	２）閨（好感度が	のとき）閨（昼休み）閨（図草書室）†",
+    ("（マルチ	好感度イベント	２）閨（好感度が	のとき）閨（昼休み）閨（図草書室）†",
     ""),
     # (Makyuruchi Likeability Event 2) (When Likeability is ) (Lunch break) (Cursic Library)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # lunch break.
 
-    ("オ激レは図草書室へと竄やってきた。†",
+    ("オレは図草書室へとやってきた。†",
     ""),
     # I came to the cursive library.†
 
@@ -30,19 +30,19 @@ text_array = [
     ""),
     # There is still 40 minutes of rest time.
 
-    ("さーて、そんじ痰ゃ、一休みしまし蛯ょうか。†",
+    ("さーて、そんじ痰ゃ、一休みしましょうか。†",
     ""),
     # Now, let's take a break, let's take a break.†
 
-    ("｢｢と、人の寄闃りつかない怩奥の福方へと移動したとき。◯",
+    ("｢｢と、人の寄闃りつかない怩奥の方へと移動したとき。◯",
     ""),
     # "And when I moved towards the deep, deep happiness that no one could come to.◯
 
-    ("「おっ、なんだ、マ泣ルチじ痰ゃねーか」",
+    ("「おっ、なんだ、マルチじ痰ゃねーか」",
     ""),
     # "Oh, what? You're crying, you have to phlegm?"
 
-    ("そこには、椅子に座ったマ泣ルチがいた。",
+    ("そこには、椅子に座ったマルチがいた。",
     ""),
     # There was a cry of murchi sitting in a chair.
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # Holding the mouse, he closed his eyes and did not move.
 
-    ("潤居眠阮りしてんのか…？†",
+    ("潤居眠りしてんのか…？†",
     ""),
     # Are you going to sleep in a sleepy night?†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("い竄や、潤居眠阮りなんてする墲わけはねーか。",
+    ("いや、潤居眠りなんてする墲わけはねーか。",
     ""),
     # Is there no way they could end up tampering or falling asleep?
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Yeah.†
 
-    ("液晶のｂモニターを見骭ると、",
+    ("液晶のモニターを見骭ると、",
     ""),
     # Looking at the LCD B-monitor,
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # Charging water?†
 
-    ("諱画面纐上には進行状況を表示する横棒が伸びていて、現在は６４唐％になっていた。",
+    ("諱画面纐上には進行状況を表示する横棒が伸びていて、現在は６４％になっていた。",
     ""),
     # There is a horizontal bar showing progress on the screen, and it is now 64 Tang %.
 
-    ("あっ、ち蛯ょっと進んで、６７唐％になった。",
+    ("あっ、ちょっと進んで、６７％になった。",
     ""),
     # Ah, I continued to move forward, and it reached 67 Tang Percent.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Hmm, is that so?
 
-    ("マ泣ルチの竄やつ、昼休みはこんなとこにｗて充電して竄やがんのか。",
+    ("マルチのやつ、昼休みはこんなとこにｗて充電してやがんのか。",
     ""),
     # I wonder if the guy who's tampering with masochistic lunar is here during lunch break lol, so I'm going to charge it and get it tampered with cancer.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # Maybe they've got the power off now.†
 
-    ("閨手首が外れて、ノートパソコンから伸びたケーブ泣ルが直拠結してる。",
+    ("閨手首が外れて、ノートパソコンから伸びたケーブルが直拠結してる。",
     ""),
     # His wrists have been removed and Cave Cryle, which has been extended from his laptop, is now directly supported.
 
@@ -138,19 +138,19 @@ text_array = [
     ""),
     # Hmm.
 
-    ("しかし、こう竄やってみると、マ泣ルチって、ほんとに高ロボットだな。",
+    ("しかし、こうやってみると、マルチって、ほんとに高ロボットだな。",
     ""),
     # However, when I tried to tamper with this, I found out that Makruchi is a really high-class robot.
 
-    ("外れた手首から機械が烽もｂ見えてるぞ。",
+    ("外れた手首から機械が烽も見えてるぞ。",
     ""),
     # You can see the machine from your missing wrist.
 
-    ("＝普段はどっから見て烽もまるっきり人間だし、ひ蛯ょっとしたら高ロボットっての烽も嘘じ痰ゃないのかとか思っていたけど、こんな光景を目の魔当たりにしたんじ痰ゃ、もう疑う余地はないな。†",
+    ("＝普段はどっから見て烽もまるっきり人間だし、ひょっとしたら高ロボットっての烽も嘘じ痰ゃないのかとか思っていたけど、こんな光景を目の魔当たりにしたんじ痰ゃ、もう疑う余地はないな。†",
     ""),
     # =I usually look at it from a certain point of view, and I was wondering if the high robots are a lie, but there's no room for doubting the sight of this kind of thing.†
 
-    ("おっ、諱画面の横棒がまたち蛯ょっと進んで、７１唐％になった。",
+    ("おっ、諱画面の横棒がまたちょっと進んで、７１％になった。",
     ""),
     # Oh, the horizontal bar on the name screen suddenly moved forward, reaching 71 Tang %.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("いまみたいに電源が切齔れてるとき、マ泣ルチの意識はどうなってんのかな。",
+    ("いまみたいに電源が切齔れてるとき、マルチの意識はどうなってんのかな。",
     ""),
     # I wonder what happens when the power is turned off like it is now, and what is Makruchi's consciousness?
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # Simple doubts arise.
 
-    ("竅やっぱ、オ激レたちが眠っているような状態なんだｂうな。",
+    ("やっぱ、オレたちが眠っているような状態なんだうな。",
     ""),
     # After all, it's like we're sleeping.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # If that's the case, then there's no way you can dream or a hot dream...†
 
-    ("「おーい、マ泣ルチ」",
+    ("「おーい、マルチ」",
     ""),
     # "Hey, mum-cry."
 
@@ -183,19 +183,19 @@ text_array = [
     # I tried to call out.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なんの反梍応煢もない。",
     ""),
     # There's no opposition to anything.
 
-    ("「マ泣ルチ、マ泣ルチ」",
+    ("「マルチ、マルチ」",
     ""),
     # "Mixed Ruchi, Mixed Ruchi."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「まるちぃ〜…」†",
@@ -211,7 +211,7 @@ text_array = [
     # I tried to tap on the cheek.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("反梍応なし。",
@@ -227,7 +227,7 @@ text_array = [
     # I tried pinching it.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("反梍応なし。†",
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("本末当に寝てる｢｢い竄や、電源が切齔れてる。",
+    ("本末当に寝てる｢｢いや、電源が切齔れてる。",
     ""),
     # I'm sleeping in the middle of my life, "It's sluggish, the power is turned off.
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # I thought as I pinched my cheeks.†
 
-    ("とこｂでこの肌って、いったいどんな素材を使っているんだｂう。",
+    ("とこでこの肌って、いったいどんな素材を使っているんだう。",
     ""),
     # What kind of material is this skin used in b?
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # It's part 2 of simple question questions.
 
-    ("オ激レのｒで眠っていた知的好濠心が、ふつふつと宸騒ぎだすぜ。†",
+    ("オレのｒで眠っていた知的好濠心が、ふつふつと宸騒ぎだすぜ。†",
     ""),
     # The intellectually friendly spirit that had been sleeping in my heart was starting to make a fuss.†
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("ここはひとつ、マ泣ルチの肌に使寬われている素材を研結するとしよう。†",
+    ("ここはひとつ、マルチの肌に使寬われている素材を研結するとしよう。†",
     ""),
     # Here, let's say that we sharpen the materials used on the skin of the makkuruchi.†
 
@@ -326,15 +326,15 @@ text_array = [
     ""),
     # But it's impressive.
 
-    ("限闌りなく人間に近いっての烽も納得だぜ。†",
+    ("限りなく人間に近いっての烽も納得だぜ。†",
     ""),
     # It's understandable that he's completely human.†
 
-    ("とこｂで、唇はどうなっているんだｂう？",
+    ("とこで、唇はどうなっているんだう？",
     ""),
     # In this case, what's going on with your lips b?
 
-    ("他の部分と同じ素材なんだｂうか？",
+    ("他の部分と同じ素材なんだうか？",
     ""),
     # Is it the same material as the rest of the parts?
 
@@ -366,7 +366,7 @@ text_array = [
     ""),
     # I never imagined that he boasts such a human perfection.
 
-    ("もは竄やこれは、誰かがさ墲わるであｂうことを想闡定してｍ迯られているとしか思えぬ。",
+    ("もはやこれは、誰かがさ墲わるであうことを想闡定してｍ迯られているとしか思えぬ。",
     ""),
     # It seems like this is simply being misunderstood as someone thinks that they will be violated.
 
@@ -374,11 +374,11 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("ならばこのオ激レが、みすみす製錐者の思惑どおりにハマって竄やｂうではないか。†",
+    ("ならばこのオレが、みすみす製錐者の思惑どおりにハマってやうではないか。†",
     ""),
     # In that case, this mega-reel would become addicted to the Misumisu Seijin's intentions and be a bit of a silence.†
 
-    ("今度は両阯手を頬に魔当て、そして｢｢。",
+    ("今度は両手を頬に魔当て、そして｢｢。",
     ""),
     # This time he put his hands on his cheeks and then said, ".
 
@@ -390,7 +390,7 @@ text_array = [
     ""),
     # He pushed his face inside.
 
-    ("おおっ、こ、これは、『ひ蛯ょっとこ！？』†",
+    ("おおっ、こ、これは、『ひょっとこ！？』†",
     ""),
     # Oh, this is "Hibi-Tottoko!"?'†
 
@@ -414,11 +414,11 @@ text_array = [
     ""),
     # "...Um, what?"
 
-    ("「い竄や、なに、今厓日の高ロボット工学の進熕歩という烽ものについてだな…。｢｢あっ」",
+    ("「いや、なに、今厓日の高ロボット工学の進熕歩という烽ものについてだな…。｢｢あっ」",
     ""),
     # "Tsmug, what about the hot topic of high robotics that have just been released... "Ah."
 
-    ("いつの間に起きたのか、マ泣ルチのふたつの目がじっとオ激レを見つめていた。",
+    ("いつの間に起きたのか、マルチのふたつの目がじっとオレを見つめていた。",
     ""),
     # I wondered when it had woken up, and two eyes of Makruchi were staring at me.
 
@@ -430,7 +430,7 @@ text_array = [
     ""),
     # "Huh...? Mr?"
 
-    ("各孖種コードを外すと、マ泣ルチはき蛯ょとんと不思議そうな顔で立ち繧上がった。",
+    ("各孖種コードを外すと、マルチはきょとんと不思議そうな顔で立ち繧上がった。",
     ""),
     # When I removed the various types of cords, McDonald stood up with a curious expression on his face.
 
@@ -438,11 +438,11 @@ text_array = [
     ""),
     # "What's wrong?"
 
-    ("「どうして目の前に…？	增わたし、いま充電していて…」†",
+    ("「どうして目の前に…？	わたし、いま充電していて…」†",
     ""),
     # "Why is it right in front of me...? I'm charging now..." †
 
-    ("「い、い竄や、はは、可愛い寝逅顔だったぜ」",
+    ("「い、いや、はは、可愛い寝逅顔だったぜ」",
     ""),
     # "I, I'm not a stomping, haha, you had a cute sleeping face."
 
@@ -450,7 +450,7 @@ text_array = [
     ""),
     # "...Huh?"
 
-    ("「じつはオ激レ焜もここへ汲昼寝にｗたんだけど、マ泣ルチが先にいてさ。見骭ると、なんだか充電してるみたいだったから、なんとなくずっと見てたんだ」†",
+    ("「じつはオレ焜もここへ汲昼寝にｗたんだけど、マルチが先にいてさ。見骭ると、なんだか充電してるみたいだったから、なんとなくずっと見てたんだ」†",
     ""),
     # "Actually, I took a nap here lol, but Ma-Ruchi was there first. When I looked, it seemed to be charging, so I was watching it for a long time."†
 
@@ -463,7 +463,7 @@ text_array = [
     # "Ah, I've been watching it for a long time. It was so cute that I always wanted to play pranks."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ん？	どうした？」",
@@ -474,20 +474,20 @@ text_array = [
     ""),
     # "..."†
 
-    ("「あの、マ泣ルチ？」",
+    ("「あの、マルチ？」",
     ""),
     # "Um, mum-cry?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっと、マ泣ルチさん？」",
+    ("「えっと、マルチさん？」",
     ""),
     # "Um, Mr. Makkuruchi?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「おい、まるちぃ〜」",
@@ -495,10 +495,10 @@ text_array = [
     # "Hey, it's round."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「おらあっ、マ泣ルチってばよぉーーーッ！」",
+    ("「おらあっ、マルチってばよぉーーーッ！」",
     ""),
     # "Oh, I'm going to cry!"
 
@@ -506,7 +506,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「お、おい、マ、マ泣ルチ…！？」",
+    ("「お、おい、マ、マルチ…！？」",
     ""),
     # "Oh, hey, ma, mum, mum-cry...!?"
 
@@ -518,7 +518,7 @@ text_array = [
     ""),
     # "Ahhh!"
 
-    ("マ泣ルチの体から、勢いよく窒白い蒸気が≠吹き出した｢｢かと思うと。†",
+    ("マルチの体から、勢いよく窒白い蒸気が≠吹き出した｢｢かと思うと。†",
     ""),
     # A vigorously white nitrogen vapor blew out of Makruchi's body, "I thought, "I thought so.†
 
@@ -534,7 +534,7 @@ text_array = [
     ""),
     # Battan.
 
-    ("マ泣ルチは床に倒齠れた。†",
+    ("マルチは床に倒齠れた。†",
     ""),
     # Muruch was brought to the floor.†
 
@@ -542,11 +542,11 @@ text_array = [
     ""),
     # "Well, it's a huge hit!" †
 
-    ("オ激レは倒齠れたマ泣ルチにｋけ寄って、その肩を抱え起こした。",
+    ("オレは倒齠れたマルチに駆け寄って、その肩を抱え起こした。",
     ""),
     # I leapt over to the slumber that had been defeated, and held her shoulder up.
 
-    ("「マ、マ泣ルチ、マ泣ルチっ！」",
+    ("「マ、マルチ、マルチっ！」",
     ""),
     # "Ma, mum, mum, mum, mum!"
 
@@ -562,7 +562,7 @@ text_array = [
     ""),
     # Although it's a fragrance robot, its cheeks are hot and hot, as if there was a fever.†
 
-    ("「マ泣ルチ、マ泣ルチっ！	しっかりしｂっ！」",
+    ("「マルチ、マルチっ！	しっかりしっ！」",
     ""),
     # "Sheep, Sigh, Sigh! Sigh, Sigh, Sigh, Sigh, Sigh, Sigh, Sigh, Sigh, Sigh, Sigh, Sigh, Sigh, Sigh, Sigh, B!"
 
@@ -578,7 +578,7 @@ text_array = [
     ""),
     # She swayed her shoulders and slapped her cheek.†
 
-    ("「マ泣ルチ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ッ！！」†",
+    ("「マルチ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ッ！！」†",
     ""),
     # "Crying Ruchi~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -602,7 +602,7 @@ text_array = [
     ""),
     # ・†
 
-    ("「なんだよ、マ泣ルチ、びっくりさせるなよ〜」",
+    ("「なんだよ、マルチ、びっくりさせるなよ〜」",
     ""),
     # "What is it, murmurchi, don't surprise me~"
 
@@ -615,7 +615,7 @@ text_array = [
     # "Did you overheat and get hot?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ったく、いきなり倒齠れるんだ烽もんな〜」",
@@ -626,7 +626,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「どうした、マ泣ルチ？	まだどっか調子悪いのか？」",
+    ("「どうした、マルチ？	まだどっか調子悪いのか？」",
     ""),
     # "What's wrong, murmurchi? Are you still not feeling well?"
 
@@ -642,7 +642,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「それより烽もさ、マ泣ルチ。ち蛯ょっと聞きたいことがあるんだけど」",
+    ("「それより烽もさ、マルチ。ちょっと聞きたいことがあるんだけど」",
     ""),
     # "More than that, I'm crying. I have something I'd like to ask you."
 
@@ -650,15 +650,15 @@ text_array = [
     ""),
     # "Yes? What?"
 
-    ("「充電湯って、マ泣ルチにすり痰ゃ、いうなれば眠ってるみたいな烽もんだｂ？」",
+    ("「充電湯って、マルチにすり痰ゃ、いうなれば眠ってるみたいな烽もんだ？」",
     ""),
     # "Charging water is so puffy that it's like sleeping, is it b?
 
-    ("「はい、そうです。眠阮りながら、体の機能をチェックしてるんです」†",
+    ("「はい、そうです。眠りながら、体の機能をチェックしてるんです」†",
     ""),
     # "Yes, that's right. I'm checking my body's function while sleeping."
 
-    ("「そこでち蛯ょっと質竡問なんだけど、マ泣ルチたち高ロボットって『夢』とかって、見んの？」",
+    ("「そこでちょっと質竡問なんだけど、マルチたち高ロボットって『夢』とかって、見んの？」",
     ""),
     # "There, I'm going to have a question about this, but do you see high robots like "dreams"?"
 
@@ -674,7 +674,7 @@ text_array = [
     ""),
     # Will Takarobots really dream or not?
 
-    ("＝普通に考えたら、磨当然見ないよな。",
+    ("＝普通に考えたら、当然見ないよな。",
     ""),
     # =If you think about it normally, of course, you wouldn't look at it.
 
@@ -686,7 +686,7 @@ text_array = [
     ""),
     # "I'll see, dream."
 
-    ("だが、マ泣ルチはあっさりとそう嘯答えた。",
+    ("だが、マルチはあっさりとそう嘯答えた。",
     ""),
     # However, Makruchi responded with ease.
 
@@ -702,19 +702,19 @@ text_array = [
     ""),
     # I also dream of a robot with a robot."
 
-    ("マ泣ルチは笑迴顔でうなずいた。†",
+    ("マルチは笑迴顔でうなずいた。†",
     ""),
     # Ruchi nodded with a laughing face.†
 
-    ("「体は眠ってて烽も、增わたしの頭にあるＣＰＵは眠逍らずに働いているんです。いくつかあるＣＰＵが交繻代で休みながら、記憶を整攝理したりとか、おたがいの状態をチェックし№合ったりしてるんです。夢はそのとき見骭るんです」†",
+    ("「体は眠ってて烽も、わたしの頭にあるＣＰＵは眠逍らずに働いているんです。いくつかあるＣＰＵが交代で休みながら、記憶を整攝理したりとか、おたがいの状態をチェックし№合ったりしてるんです。夢はそのとき見骭るんです」†",
     ""),
     # "My body is asleep, and the CPU in my head is working without sleep. Some CPUs rest on my intercourse, and they keep their memories in place, checking their condition and matching the number. My dreams are what I see."
 
-    ("「へえ。とこｂでマ泣ルチが見骭る夢って、どんな夢なんだ？	竅やっぱり電気羊がとんだり跳ねたりする夢か？」",
+    ("「へえ。とこでマルチが見骭る夢って、どんな夢なんだ？	やっぱり電気羊がとんだり跳ねたりする夢か？」",
     ""),
     # "Whoa. What kind of dream is a dream that Makruchi has on the b? Is it really a dream where an electric sheep sniffs and bouncing?"
 
-    ("「うーん。いｂいｂです。とくに新しく体験したことはよく夢で見ます。頭のｒで記憶を整攝理しなおしているからだそうです」†",
+    ("「うーん。いいです。とくに新しく体験したことはよく夢で見ます。頭のｒで記憶を整攝理しなおしているからだそうです」†",
     ""),
     # "Hmm. It's a b b b. I often dream about new experiences. Apparently it's because I re-align and reconstruct my memories with the r in my head."
 
@@ -743,14 +743,14 @@ text_array = [
     # "?"†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「＝早く、教えｂよ」",
+    ("「＝早く、教えよ」",
     ""),
     # "=I'll teach you quickly."
 
-    ("「竅やっぱり烽内藷緒です」",
+    ("「やっぱり烽内藷緒です」",
     ""),
     # "It's definitely Hot Spring."
 

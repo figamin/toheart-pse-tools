@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "What?"
 
-    ("「オ激レは味にうるさいんだぜ。オ激レの繧舌を桙満足させる料摎理をｍ鼾れるかい？」",
+    ("「オレは味にうるさいんだぜ。オレの繧舌を桙満足させる料摎理をｍ鼾れるかい？」",
     ""),
     # "My geeks are so noisy about the taste. Can you sniff the medication to satisfy my geeks?"
 
-    ("ギャャグのつ烽もりで、ち蛯ょっと気諡取ってみた。†",
+    ("ギャャグのつ烽もりで、ちょっと気諡取ってみた。†",
     ""),
     # With Gyagu's hot springs, I suddenly got a thrill tone.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Hehehe... I'm not confident in the process of cleaning or cleaning up."
 
-    ("戟レミィはギャャグにウケ驛るどこｂか、照齒れ笑いをｂ浮かべてそんなことを言った。†",
+    ("戟レミィはギャャグにウケ驛るどこか、照齒れ笑いを浮かべてそんなことを言った。†",
     ""),
     # He said something like that, with a laugh b, and a laughing b.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Go<Mengo<Men... Anyway, I wanted to help you out."
 
-    ("「♀うくとんで烽もない料摎理を食岦わされるとこｂだったぜ」†",
+    ("「♀うくとんで烽もない料摎理を食岦わされるとこだったぜ」†",
     ""),
     # "It was a bit of a silly thing that was forced to eat a lot of money."
 
-    ("それからｉ話燔も盛關り繧上がり、オ激レと撃レミィは駅の近くで別れ、それぞれの家に帰った。◯",
+    ("それからｉ話燔も盛關り繧上がり、オレと撃レミィは駅の近くで別れ、それぞれの家に帰った。◯",
     ""),
     # Then the i-changing storyline began to rise, and Meguri and Gekiremi parted ways near the station and returned to their respective homes.◯
 

@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "...Hokkaido Perfect Guide?"
 
-    ("オ激レはそのままタイト泣ルを読んだ。†",
+    ("オレはそのままタイトルを読んだ。†",
     ""),
     # I read Tight Crying.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yes. Go for your school trip research."
 
-    ("「梶相変﨑わらず、マ＜メな竄やつだなあ」",
+    ("「梶相変﨑わらず、マ＜メなやつだなあ」",
     ""),
     # "Kaji Ai Henzaki is not a masochist, you're a tampering guy."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Did you buy something, even Chishonan-san-san-san lol?"
 
-    ("「い竄や、ただなんとなく。せっかくだから、いっし蛯ょに帰驪るか」",
+    ("「いや、ただなんとなく。せっかくだから、いっしょに帰驪るか」",
     ""),
     # "It's just a mess, just for some reason. Since we're going to have it, we'll go back to Ebi."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Yeah, let's do that."
 
-    ("という墲わけで、あかりとふたりで公園まで竄やってきた。",
+    ("という墲わけで、あかりとふたりで公園までやってきた。",
     ""),
     # So, Akari and I both frantically tamper with us to the park.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「そこに座って、さっきモ買った本、いっし蛯ょに見謖ようよ」",
+    ("「そこに座って、さっきモ買った本、いっしょに見謖ようよ」",
     ""),
     # "Sit there and let's take a look at the book I just bought."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "That's right."
 
-    ("北海道のこと、オ激レ焜も少しくらいは下調べしといたほうがいいよな。",
+    ("北海道のこと、オレ焜も少しくらいは下調べしといたほうがいいよな。",
     ""),
     # I think you should do some research on Hokkaido and my geeks.
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # Even though I've had a half-day free time, I'm not going to get hit by a phlegm, which is a waste of time.†
 
-    ("オ激レはあかりといっし蛯ょにベンチにｍかけ、ガイドブックを見せて烽もらった。†",
+    ("オレはあかりといっしょにベンチにｍかけ、ガイドブックを見せて烽もらった。†",
     ""),
     # I went to Akari and Ichigo on the bench, showed me the guidebook and got a hot pot.†
 
-    ("「へえ、さすが『でっかいどう北海道』っていうだけのことはあるよな。名竃所件旧跡めじｂおしって感じだぜ」",
+    ("「へえ、さすが『でっかいどう北海道』っていうだけのことはあるよな。名竃所件旧跡めじおしって感じだぜ」",
     ""),
     # "Wow, it's just like "Big Hokkaido." It's like the famous site, Meji B-Oshi."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Ordinally, it's like a clock stand..."
 
-    ("「ありきたりだな。そういうのは写真で見て烽も同じだｂ？」",
+    ("「ありきたりだな。そういうのは写真で見て烽も同じだ？」",
     ""),
     # "It's a cliché. Is that the same thing in the photo?
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "oh dear…"†
 
-    ("「竅やっぱ北海道ってい竄や、とれたてピチピチのカニ料摎理とかじ痰ゃねーのか」",
+    ("「やっぱ北海道っていや、とれたてピチピチのカニ料摎理とかじ痰ゃねーのか」",
     ""),
     # "I guess Hokkaido is a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # "There are only a limit to how much you can eat, so I would definitely like to go to the hot springs as a plan."
 
-    ("「あと、その桙時間のうちに、おみ竄やげなんか烽もモ買嵓わなき痰ゃいけないから…」",
+    ("「あと、その桙時間のうちに、おみやげなんか烽もモ買嵓わなき痰ゃいけないから…」",
     ""),
     # "Also, within the time I have to spend with the sputum, such as slurred slurred slurred slurred..."
 
-    ("「み竄やげなんてのは、驕夜のうちに、ホテ泣ル窿やそのｎ辺でモ買っとき痰ゃいいんだよ」",
+    ("「みやげなんてのは、驕夜のうちに、ホテル窿やそのｎ辺でモ買っとき痰ゃいいんだよ」",
     ""),
     # "If you're going to slurp your hair, you can just buy some phlegm when you buy it on the night of the day."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "I also want to carefully choose the hot spring."
 
-    ("「そんな悩まずと烽も、北海道だったらどうせ定番でｌまりだｂ？」",
+    ("「そんな悩まずと烽も、北海道だったらどうせ定番でｌまりだ？」",
     ""),
     # "If you don't worry about that, even if it's Hokkaido, then it's probably a standard one and it's a L-Mari b?"
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # B Canned crab.Relax
 
-    ("Ｃ	秩白い竄やつ。閨",
+    ("Ｃ	秩白いやつ。閨",
     ""),
     # C: The unorthodox tampering thing.Relax
 

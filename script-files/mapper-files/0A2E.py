@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Yes, please."
 
-    ("掾理女緒ち痰ゃんはニッコ潟リ笑って、オ激レの手に弁抹当箱を強く押しつけた。†",
+    ("掾理女緒ち痰ゃんはニッコリ笑って、オレの手に弁抹当箱を強く押しつけた。†",
     ""),
     # The girl Ochisou-chan smiled and pressed her bento box against my heart's hand.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Yeah….
 
-    ("女の子っぽくないから、ち蛯ょっと恥ずかしいけどね」",
+    ("女の子っぽくないから、ちょっと恥ずかしいけどね」",
     ""),
     # I'm embarrassed because I don't look like a girl."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "The theory that it's elicited is good."
 
-    ("「これは烽もう蛯主婦の域に達してるな。じつは揩理女緒ち痰ゃん、料摎理がｎ味とか？」†",
+    ("「これは烽もう主婦の域に達してるな。じつは揩理女緒ち痰ゃん、料摎理がｎ味とか？」†",
     ""),
     # "This is already at the level of a housewife. Actually, it's a smug taste, and is it n-flavored?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Yes, this."
 
-    ("オ激レは自分のぶんの汲昼£メシを揩理女緒ち痰ゃんに差し出した。†",
+    ("オレは自分のぶんの汲昼£メシを揩理女緒ち痰ゃんに差し出した。†",
     ""),
     # I handed over my lunch to my daughter.†
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "Whoa..."
 
-    ("掾理女緒ち痰ゃんは唐遠慮深そうにオ激レを見ながら、ウィンナー香ロールを一箞口かじる。†",
+    ("掾理女緒ち痰ゃんは遠慮深そうにオレを見ながら、ウィンナー香ロールを一箞口かじる。†",
     ""),
     # As she looked at me with a sensible look, she nibbled the wiener incense roll in a bite.†
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "Ah...it's tasty..."
 
-    ("「だｂ？」",
+    ("「だ？」",
     ""),
     # "dab?"
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # With joy, Ochi Symphomaniac ate ​​bread.
 
-    ("お竄やつを烽もらった子沁供みたいだ。†",
+    ("おやつを烽もらった子沁供みたいだ。†",
     ""),
     # It looks like a child who has been given a tampering thing.†
 

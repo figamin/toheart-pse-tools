@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Break time.
 
-    ("トイ激レで用を足し、戻ってくると、教室の入闢り福口で意外な人物に呼び止められた。",
+    ("トイレで用を足し、戻ってくると、教室の入闢り口で意外な人物に呼び止められた。",
     ""),
     # I spent time at Toy Gekire and when I returned, I was stopped by an unexpected person at Fukuguchi when I entered the classroom.
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "Oh, what? That's so rare, you're calling out to me over there."
 
-    ("軽い福口調で切關り出したのに、委員長はいつ烽もの淡々とした調子で返してきた。",
+    ("軽い口調で切關り出したのに、委員長はいつ烽もの淡々とした調子で返してきた。",
     ""),
     # Although he spoke in a light tone of good fortune, the chairman responded in a calm and calm manner.
 
-    ("「神岸さん、さがしてるん竄やけど」",
+    ("「神岸さん、さがしてるんやけど」",
     ""),
     # "Kamigishi-san, you're searching for it, though."
 
-    ("前羡口繻上はいっさい抜きで、閨手短に本阮題だけを言う。",
+    ("前羡口上はいっさい抜きで、閨手短に本題だけを言う。",
     ""),
     # The first half of the story is simply a short story, but without any problems.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # It feels like there's no Shimakazu to catch up on Kaji Ai Seizaki.†
 
-    ("「あかり？	さあ、オ激レは知んねー諱よ。教室にはいねーのか？」",
+    ("「あかり？	さあ、オレは知んねー諱よ。教室にはいねーのか？」",
     ""),
     # "Akari? Now, I don't know about you, my name. Are you in the classroom?"
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # "You're not."
 
-    ("「だったら、さあ、どこにいるんだｂーな」",
+    ("「だったら、さあ、どこにいるんだーな」",
     ""),
     # "Then, where are you?"
 
-    ("「いっし蛯ょ竄やったんち痰ゃうん？」",
+    ("「いっしょやったんち痰ゃうん？」",
     ""),
     # "Are you sputum yelling?!"
 
-    ("「いー竅や、全然」†",
+    ("「いーや、全然」†",
     ""),
     # "No way, no way" †
 
@@ -70,23 +70,23 @@ text_array = [
     ""),
     # The chairman leaned down his face and tried to walk too hard to the side.
 
-    ("「なあ、委員長、ち蛯ょっと」",
+    ("「なあ、委員長、ちょっと」",
     ""),
     # "Hey, Chairman, it's a slut."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("呼び止めると、委員長は立ち止まって振關り返った。†",
     ""),
     # When I called out, the chairman stopped and shouted.†
 
-    ("「あのよ、いちおう言っておくけど、オ激レはべつに、あかりといつ烽もいっし蛯ょにいる墲わけじ痰ゃないんだぞ」",
+    ("「あのよ、いちおう言っておくけど、オレはべつに、あかりといつ烽もいっしょにいる墲わけじ痰ゃないんだぞ」",
     ""),
     # "Um, I'll say it, but I'm not sure if Akari and Hot are in the slut together, so there's no way I can smear them."
 
-    ("「で烽も、ふたりはつきおうてん竄やｂ？」",
+    ("「で烽も、ふたりはつきおうてんや？」",
     ""),
     # "And so, are you two trying to get along with him, b?"
 
@@ -98,23 +98,23 @@ text_array = [
     ""),
     # Without thinking, I asked again with a strange look on my face.†
 
-    ("ここに烽もまたひとり、変なｌ解をしている竄やつがいたか。",
+    ("ここに烽もまたひとり、変なｌ解をしているやつがいたか。",
     ""),
     # Is there another man who was making strange solutions to this?
 
-    ("「委員長、オ激レたちは、べつに｢｢」",
+    ("「委員長、オレたちは、べつに｢｢」",
     ""),
     # "Chairman, we all said, "
 
-    ("否阡定するつ烽もりで言いかけた言葉だったが、その瞬間、ち蛯ょっとした疑站問が頭にｂ浮かび、オ激レは続きを飲み桙込んでしまった。†",
+    ("否阡定するつ烽もりで言いかけた言葉だったが、その瞬間、ちょっとした疑站問が頭に浮かび、オレは続きを飲み桙込んでしまった。†",
     ""),
     # I was almost saying this with a loud voice, but at that moment, a suspicious question came to mind, and my slutty slut continued drinking and shaking.†
 
-    ("竅やっぱりオ激レとあかりって、おたがいそんなつ烽もりじ痰ゃないにせよ、他人から見鼬ればつき№合ってるように見えてる墲わけだ。",
+    ("やっぱりオレとあかりって、おたがいそんなつ烽もりじ痰ゃないにせよ、他人から見鼬ればつき№合ってるように見えてる墲わけだ。",
     ""),
     # After all, I'm a big fan, and even if you don't have to worry about such a strong phlegm, if you look at it to others, it looks like it's right.
 
-    ("ってことは、それってつまり、本人たちが自覚していないだけで、じつはつき№合ってるのと同じ状態なのではないだｂうか。",
+    ("ってことは、それってつまり、本人たちが自覚していないだけで、じつはつき№合ってるのと同じ状態なのではないだうか。",
     ""),
     # That means that it's just that the people themselves are not aware of it, and it's actually in the same state as the ones who are in the right position.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # The chairman said with a tight eye.†
 
-    ("オ激レは、そんな委員長の勘瘧違いを｢｢。",
+    ("オレは、そんな委員長の勘瘧違いを｢｢。",
     ""),
     # I'm a little bit surprised at how the chairman's instincts were, ".
 

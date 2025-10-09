@@ -2,11 +2,11 @@
 # Source file: 068E.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜ＡＢＣの続き）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜ＡＢＣの続き）†",
     ""),
     # (Makyuruchi Scales Event 2F LV2) (Continued from Chosen ABC)†
 
-    ("しばらくして、マ泣ルチは、はっとなにかを思い出したような顔をすると、",
+    ("しばらくして、マルチは、はっとなにかを思い出したような顔をすると、",
     ""),
     # After a while, Makruchi looked at him as if he had remembered something.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # He said that, and picked up the lion's leopard that had been lying on his feet and pulled it up.†
 
-    ("「諱よし、じ痰ゃあ、オ激レ焜も手伝って竄やるぜ」",
+    ("「諱よし、じ痰ゃあ、オレ焜も手伝ってやるぜ」",
     ""),
     # "Okay, I'll help you out and give it a phlegm."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What?!? That's so bad."
 
-    ("「気站絶させたお墲わび…ってい竄やぁ変だけど、そのせいで遅くなっちまったのは魔事実だしな。ふたりのほうがはかどるだｂ？」",
+    ("「気站絶させたお墲わび…っていやぁ変だけど、そのせいで遅くなっちまったのは魔事実だしな。ふたりのほうがはかどるだ？」",
     ""),
     # "It's weird that you've cut off the idea of ​​a slut... but it's a silly fact that it's late because of that. Are you two more likely to get better?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "...Yeah, that's right."
 
-    ("「それに、ふたりで竄やると掃恆除熄も楽しいじ痰ゃないか」",
+    ("「それに、ふたりでやると掃恆除熄も楽しいじ痰ゃないか」",
     ""),
     # "And also, if you both tamper with it, it's fun to wipe out your skin."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Ah, yes, that's right!"
 
-    ("そういう墲わけで、オ激レはその冾日燗もマ泣ルチを手伝い、ふたりでいっし蛯ょに掃恆除をした。◯",
+    ("そういう墲わけで、オレはその冾日燗もマルチを手伝い、ふたりでいっしょに掃恆除をした。◯",
     ""),
     # For that reason, I helped the young man with the crying and the two of them wiped out the eschat.◯
 

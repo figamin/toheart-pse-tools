@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Goremy Likeability Event PS) (Choice cannot be reached)†
 
-    ("「義搴理はあるんだがな…、增わりぃ、ち蛯ょっと予阯定があんだ」",
+    ("「義搴理はあるんだがな…、わりぃ、ちょっと予定があんだ」",
     ""),
     # "There's a good reason... but I'm not sure if it's time for you to decide."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Huh, is that?"
 
-    ("「ホント、增わりぃ」†",
+    ("「ホント、わりぃ」†",
     ""),
     # "Really, it's a bit silly" †
 

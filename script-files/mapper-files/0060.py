@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The classroom after the school was completed.
 
-    ("オ激レは唐鞄を手に取って、窓際の席から立ち繧上がった。†",
+    ("オレは鞄を手に取って、窓際の席から立ち繧上がった。†",
     ""),
     # I picked up a bag and stood up from my seat by the window.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Now, let's go home.†
 
-    ("ベッドがオ激レを呼んでるぜ。",
+    ("ベッドがオレを呼んでるぜ。",
     ""),
     # The bed is calling me crazy.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Please show us some good dreams right now.
 
-    ("という墲わけで、お竄やすみ。",
+    ("という墲わけで、おやすみ。",
     ""),
     # That's why it's so good to tamper with.
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Game Remy Scale Event 2nd Floor 4 LV1) (Selection Scale)†
 
-    ("「チ〜ンって鳴髢るから、チンだｂ？」†",
+    ("「チ〜ンって鳴髢るから、チンだ？」†",
     ""),
     # "It's a cock because it squeals, so is it a cock b?"
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Damn it?"
 
-    ("「『チン』は獅ｎ盾ｏｔ冾日本齧語激」",
+    ("「『チン』は獅ｎ盾ｏｔ冾日本齧語」",
     ""),
     # "'Chin' is a lion shield, and it's a strong Japanese rodent."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Sorry..."
 
-    ("增わからねーからって、誰で烽も選びそうな引っかけ回嚔答を選んじまった…。†",
+    ("わからねーからって、誰で烽も選びそうな引っかけ回嚔答を選んじまった…。†",
     ""),
     # I didn't know what to do, so I chose a catch-up answer that anyone would have chosen...†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "OK!" †
 
-    ("その冾日の帰闍りは、戟レミィに竄問阮題を教えるのを忘齧れて、クイズ蜒大痩で終尞わってしまった。◯",
+    ("その冾日の帰闍りは、戟レミィに問題を教えるのを忘齧れて、クイズ蜒大痩で終尞わってしまった。◯",
     ""),
     # The return of that date of study was to forget about teaching the quiz question to Remy, and ended up being extremely thin.◯
 

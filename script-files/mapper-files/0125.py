@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari VS Event: War Remi) (Selection B, surprisingly, Steady)†
 
-    ("オ激レは少し考えてみた。",
+    ("オレは少し考えてみた。",
     ""),
     # I thought about it for a moment.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "It's surprisingly, maybe Steady, so maybe it's a hot one."
 
-    ("竅や竄や冗談っぽく、オ激レは言った。",
+    ("やや冗談っぽく、オレは言った。",
     ""),
     # I said, slutty, tampering, and jokingly.
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # "What?! Is that so?"
 
-    ("なに竄やら過濶剰に驚く撃レミィ。",
+    ("なにやら過濶剰に驚く撃レミィ。",
     ""),
     # Ekimi is surprised by how he's tampered with.
 
-    ("「どうだｂうな。オ激レ焜もよく墲わかんねー竅や。おたがいつき№合い烽も長いしさ、けっこう感覚がマヒしちまってて…」†",
+    ("「どうだうな。オレ焜もよく墲わかんねーや。おたがいつき№合い烽も長いしさ、けっこう感覚がマヒしちまってて…」†",
     ""),
     # "What do you think? I don't know what you're doing. I don't really understand. The long-awaited hot springs are also quite a bit of a paralyzing sensation..."
 
-    ("「…そうデスね、竅やっぱり、長いつき№合いには勝てないデスね」",
+    ("「…そうデスね、やっぱり、長いつき№合いには勝てないデスね」",
     ""),
     # "...That's right, you know, you can't beat a long-term match."
 
@@ -54,19 +54,19 @@ text_array = [
     ""),
     # "bean paste?"
 
-    ("「｢｢Ｉ	≠ｂｂ撃ｌ	пｄ盾ｏ翌ｗ獅ｎ…」",
+    ("「｢｢Ｉ	≠撃ｌ	пｄ盾ｏ翌ｗ獅ｎ…」",
     ""),
     # ""I ≠bb shot l пd shield o the next lol lion..."
 
-    ("なに竄やら肩を獅落としてつぶ竄やいた。",
+    ("なにやら肩を獅落としてつぶやいた。",
     ""),
     # He tampered with something, and muttered his shoulders.
 
-    ("「おい、どーしたよ？	なんだかいつになくノ潟リが悪いじ痰ゃねーか」",
+    ("「おい、どーしたよ？	なんだかいつになくノリが悪いじ痰ゃねーか」",
     ""),
     # "Hey, what's up? Is it really that no one has the wrong phlegm?"
 
-    ("「≠ｂモｃ浮ｕ唐入ｂ	香ｍｂ」†",
+    ("「≠モｃ浮ｕ入	香ｍ」†",
     ""),
     # "≠B Mo C U Tang Iri B Incense Mb"†
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "Ah, hey..."
 
-    ("オ激レの声に烽も振關りｌかず、歩いていく。",
+    ("オレの声に烽も振關りｌかず、歩いていく。",
     ""),
     # I couldn't help but shout at my loud voice, and walked away.
 
-    ("なんだよ、そんなにシ㏍ョックなこと言ったのかよ、オ激レは。†",
+    ("なんだよ、そんなにショックなこと言ったのかよ、オレは。†",
     ""),
     # What is it? I was so excited. I was saying such a sloppy thing.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Yes, yes, I'm pretty sure I'm standing there casually and passing by."
 
-    ("竅やってきたのは志保だった。",
+    ("やってきたのは志保だった。",
     ""),
     # It was Shiho who came.
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "What, you're you?"
 
-    ("「なんだとはなによ、こっちが『なんだ』諱よ。とこｂで撃レミィ、どーしたの？」",
+    ("「なんだとはなによ、こっちが『なんだ』諱よ。とこで撃レミィ、どーしたの？」",
     ""),
     # "What is it, what is it? I'm the name of you. Ekirei Remie at the b, what did you do?"
 
-    ("「…さあ？	軽い気搴持ちで、オ激レとあかりがステディか烽もっつったら、あんな反梍応でな」†",
+    ("「…さあ？	軽い気搴持ちで、オレとあかりがステディか烽もっつったら、あんな反梍応でな」†",
     ""),
     # "...Now? If I had a light mood, and I was so steady or hot, I'd be able to resist that kind of reversal."
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # "You and Akari studied it."
 
-    ("「そり痰ゃスタディだｂ。おめーのくだんねーボケにつき№合ってるヒマはねーんだよ」",
+    ("「そり痰ゃスタディだ。おめーのくだんねーボケにつき№合ってるヒマはねーんだよ」",
     ""),
     # "As you're a study, it's a shame. You're so stupid, I don't have time to get the right fit."
 
-    ("「な〜んだかんだ言いながらつっこむとこｂがあんたのオイシイとこね」†",
+    ("「な〜んだかんだ言いながらつっこむとこがあんたのオイシイとこね」†",
     ""),
     # "What's wrong, when I thrust into you, b, is your favorite."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "...It's okay. I was stupid to consult with you."
 
-    ("「うそうそ、增わかった！	だぶん撃レミィは、どっかｋ㈲合が悪くなったのよ」",
+    ("「うそうそ、わかった！	だぶん撃レミィは、どっか駆㈲合が悪くなったのよ」",
     ""),
     # "No way, I get it! Ekire Remy has just gotten a bad match somewhere."
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # So even Shiho never returns.†
 
-    ("「もしくはさ、戟レミィはあんたに気があって、その言葉にシ㏍ョックを受けたのよ」",
+    ("「もしくはさ、戟レミィはあんたに気があって、その言葉にショックを受けたのよ」",
     ""),
     # "Or, you know, Haremy had a crush on you and was swayed by those words."
 
-    ("「シ㏍ョックぅ？」",
+    ("「ショックぅ？」",
     ""),
     # "Should I get it?"
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # I see?
 
-    ("もし仮にそうだとして烽も、いまのはただの冗談だｂーが。",
+    ("もし仮にそうだとして烽も、いまのはただの冗談だーが。",
     ""),
     # Even if that's the case, even if it's the case, it's just a joke.
 
-    ("あんなにシ㏍ョック受けるか、フツー。†",
+    ("あんなにショック受けるか、フツー。†",
     ""),
     # I'm just ok with that kind of squeal.†
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("まあ、掾理由はよく墲わかんねーが、とにかく撃レミィにシ㏍ョックを与えてしまったらしい。◯",
+    ("まあ、掾理由はよく墲わかんねーが、とにかく撃レミィにショックを与えてしまったらしい。◯",
     ""),
     # Well, I don't really know why, but apparently he gave Geki Remy a shook.◯
 

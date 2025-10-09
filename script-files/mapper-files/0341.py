@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko's first favorability event) (Continued from Chosen Sou A: Copy it to Akari and get it hot)†
 
-    ("オ激レはあかりの席へと烽歩いていった。",
+    ("オレはあかりの席へと烽歩いていった。",
     ""),
     # My guts walked to Akari's seat.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # As expected of Akari, a serious child.
 
-    ("％笂問に苦寀戦しながら烽も、ち痰ゃんと自分だけでプ潟リントに取闔り組んでいた。",
+    ("％笂問に苦寀戦しながら烽も、ち痰ゃんと自分だけでプリントに取闔り組んでいた。",
     ""),
     # While fighting hardships with %Koto, Hoo also worked together on Pugata Rint on his own.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # While using notebooks and textbooks as references, I gradually write down the answers.†
 
-    ("「諱よっ、竅やってんな」",
+    ("「諱よっ、やってんな」",
     ""),
     # "My name is, you're doing it."
 
@@ -42,19 +42,19 @@ text_array = [
     ""),
     # "When you're done, I'll copy it."
 
-    ("オ激レが言うと、あかりは困った顔をした。†",
+    ("オレが言うと、あかりは困った顔をした。†",
     ""),
     # When I said, Akari looked troubled.†
 
-    ("「ダ＜メだよ、ち痰ゃんと自分で竄やらなき痰ゃ」",
+    ("「ダ＜メだよ、ち痰ゃんと自分でやらなき痰ゃ」",
     ""),
     # "It's a sputum, you have to do it yourself."
 
-    ("「オ激レが繧代幾苦闍手なの知ってんだｂ」",
+    ("「オレが繧代幾苦闍手なの知ってんだ」",
     ""),
     # "I know that I'm a tough guy at all times."
 
-    ("「苦闍手だったらなおさらだよ。ち痰ゃんと自分で竄やらないと」†",
+    ("「苦闍手だったらなおさらだよ。ち痰ゃんと自分でやらないと」†",
     ""),
     # "It's even more so if you're suffering, you have to tamper with it yourself."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Is it okay? Come on, please...≠ooo!"
 
-    ("「…もう、し蛯ょうがないなあ。",
+    ("「…もう、しょうがないなあ。",
     ""),
     # "...There's no more ecstasy anymore.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # I understand.I'll bring it to my seat when it's finished."
 
-    ("「竅やたっ、そうこなくっち痰ゃ」",
+    ("「やたっ、そうこなくっち痰ゃ」",
     ""),
     # "Ah, that's it, that's the phlegm."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # He also says something preachy.
 
-    ("「はいはい、增わかってるよ」†",
+    ("「はいはい、わかってるよ」†",
     ""),
     # "Yes, yes, I know."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Your brains are as smart as you say, don't you have to suffer like this?"
 
-    ("オ激レは手を繧上げて、自分の席へと戻った。",
+    ("オレは手を繧上げて、自分の席へと戻った。",
     ""),
     # My geira lifted my hand and returned to my seat.
 

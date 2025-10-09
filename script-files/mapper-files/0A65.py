@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (A I'll accept it.)†
 
-    ("「增わかった。で烽も、オ激レの墲わかる範囲でしか教えられないぜ？」",
+    ("「わかった。で烽も、オレの墲わかる範囲でしか教えられないぜ？」",
     ""),
     # "I understand. And you can only teach me about Hot as far as I can understand?"
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "which one?"
 
-    ("ああ、この程度だったらなんとかオ激レで烽も教えられるな。",
+    ("ああ、この程度だったらなんとかオレで烽も教えられるな。",
     ""),
     # Ah, if it were at this level, I could somehow teach you hot food.
 
-    ("という墲わけで、オ激レは揩理女緒ち痰ゃんの勉強をみて竄やった。†",
+    ("という墲わけで、オレは揩理女緒ち痰ゃんの勉強をみてやった。†",
     ""),
     # So, I saw the study of the sinner, and tampered with it.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Kun is so smart. I'm impressed and phlegm."
 
-    ("「オ激レが？	轣冗談じ痰ゃねー諱よ。今厓日のテストだってヒイヒイ言ってたんだ。",
+    ("「オレが？	轣冗談じ痰ゃねー諱よ。今厓日のテストだってヒイヒイ言ってたんだ。",
     ""),
     # "Are you so crazy? You're kidding me, sigh. You said it was the test on the day of the day.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "I'm in a difficult position with chemistry at all."
 
-    ("「まあ、オ激レ焜も苦闍手だな」",
+    ("「まあ、オレ焜も苦闍手だな」",
     ""),
     # "Well, I'm in a tough situation too."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "Just looking at things like the nature of matter makes me feel like I'm studying something incredible.
 
-    ("レーザー光倹とかスペースシャャト泣ルとか、もう、そういう世界」",
+    ("レーザー光倹とかスペースシャャトルとか、もう、そういう世界」",
     ""),
     # Laser light thrift and Space Shaat crying, that's the world."
 
-    ("ち蛯ょっと痰違う気煖もするが。†",
+    ("ちょっと痰違う気煖もするが。†",
     ""),
     # There are also some phlegms that are different to the point.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Whoa..."
 
-    ("いつに烽も揩増してキ宴ラキ宴ラした痰眼差し。",
+    ("いつに烽も揩増してキラキラした痰眼差し。",
     ""),
     # The phlegm gaze was always growing and the banquet was flapping.
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "If we're doing this, I'm sure we'll be able to score better points at any time."
 
-    ("いまのでそれはないだｂーな、と思いつつ烽も、",
+    ("いまのでそれはないだーな、と思いつつ烽も、",
     ""),
     # I thought that it wasn't right now, but I also thought that
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # Then, the spurt of the spurts ran to the spurt building with energy.
 
-    ("しかし揩理女緒ち痰ゃんのオ激レ信仰には、なんか盲目的な烽ものがあるな。◯",
+    ("しかし揩理女緒ち痰ゃんのオレ信仰には、なんか盲目的な烽ものがあるな。◯",
     ""),
     # However, there is something that is blind to the belief that I have incredibly strong.◯
 

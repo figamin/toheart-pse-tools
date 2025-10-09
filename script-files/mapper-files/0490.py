@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho Scales Event, 1st floor 1) (Selections: Preach)†
 
-    ("「そ烽もそ烽もなぁ、お前の竄やってることは、出初いを≠めるって言うより、男を誘ってるんだよ」",
+    ("「そ烽もそ烽もなぁ、お前のやってることは、出初いを≠めるって言うより、男を誘ってるんだよ」",
     ""),
     # "And you're both, you're tampering with it, rather than ≠ being a first-timer, it's just that you're tempting a man."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "That was a bad romance."
 
-    ("「オ激レが思うにだな…、出初いってのは、氈勝闖手に起こるんだよ。探す烽もんじ痰ゃねえだｂ」",
+    ("「オレが思うにだな…、出初いってのは、氈勝闖手に起こるんだよ。探す烽もんじ痰ゃねえだ」",
     ""),
     # "I think that's what I think... when I first start, it happens to you. I'm looking for a hot phlegm."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Also, I don't think there is any charm or hot water as a bather.†
 
-    ("「それがあんたの揩理想ってрヤツぅ？	遅齟れてるぅ」",
+    ("「それがあんたの揩理想ってрヤツぅ？	遅れてるぅ」",
     ""),
     # "Is that your ideal? You're late."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What, what?"
 
-    ("「映謇画竕やド宴ラマじ痰ゃないんだから、馬鹿正直にチャャンスを待ってると、春なんて一生雛ない墲わよぉ」",
+    ("「映謇画竕やドラマじ痰ゃないんだから、馬鹿正直にチャャンスを待ってると、春なんて一生雛ない墲わよぉ」",
     ""),
     # "There's no phlegm for the gazebo or the banquet, so if you wait for Chansus honestly, spring will never be a chick."
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Oh, oh... life, you can't throw kaji. Boy."
 
-    ("「けっ、氈勝闖手に言ってｂ。そー艨ゆーこと竄やってるとな、竅絶対痛い目見骭るんだよ」",
+    ("「けっ、氈勝闖手に言って。そー艨ゆーことやってるとな、絶対痛い目見骭るんだよ」",
     ""),
     # "Ah, say it to me with a silence. If you're doing that, you'll definitely be in a painful way."
 
-    ("「じ痰ゃあ、あたしはひとりだけ、いい目を見骭る役阮ねぇ」",
+    ("「じ痰ゃあ、あたしはひとりだけ、いい目を見骭る役ねぇ」",
     ""),
     # "Ah, I'm the only one who can see the good eyes."
 
-    ("「一生竦やってｂ」◯",
+    ("「一生竦やって」◯",
     ""),
     # "I'll do my best forever" ◯
 

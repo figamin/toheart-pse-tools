@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho Likeability Type Scales Event PS) (Selection Pass)†
 
-    ("「增わりぃけど、パス」",
+    ("「わりぃけど、パス」",
     ""),
     # "It's a bit off, but pass."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "You want to go with your body and then you can't help but sputum."
 
-    ("「增わけ墲わからんこと言うな」",
+    ("「わけ墲わからんこと言うな」",
     ""),
     # "Don't say anything you don't understand."
 

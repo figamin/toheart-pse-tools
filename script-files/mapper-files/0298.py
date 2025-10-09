@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri°Kawa, Scales Event 2F LV3)Seri (Select Soku C: About the leaves in small bottles)†
 
-    ("オ激レは棚の繧上の葉っぱの入ったガ宴ラス瓶について聞いた。",
+    ("オレは棚の繧上の葉っぱの入ったガラス瓶について聞いた。",
     ""),
     # I asked about the banquet jar with leaves on the shelves.
 
@@ -22,12 +22,12 @@ text_array = [
     ""),
     # Mr. Yale, replied his senior.†
 
-    ("「なんかに使うの？	ポプ潟リ？」",
+    ("「なんかに使うの？	ポプリ？」",
     ""),
     # "Are you using it for something? Pop-gatari?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	幸運のおまじない用？	氏月桂樹の葉を揩持っていると幸運になるって？」",
@@ -39,7 +39,7 @@ text_array = [
     # Ko-kun.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「へえ、ジプシーのおまじないなんだ」",
@@ -51,18 +51,18 @@ text_array = [
     # Ko-kun.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	一㊧枚くれるって？	くれくれ、幸運にしてくれ」",
     ""),
     # "Huh? You'll give me one coin? Please give me good luck."
 
-    ("諱先輩はガ宴ラス瓶をとってふたを開けた。",
+    ("諱先輩はガラス瓶をとってふたを開けた。",
     ""),
     # Senpai took the banquet bottle and opened the lid.
 
-    ("キャッ…と音がして、コ泣ルクのふたが開くと、部屋薗にいい≠香闕りが漂った。",
+    ("キャッ…と音がして、コルクのふたが開くと、部屋薗にいい≠香闕りが漂った。",
     ""),
     # A clap sound came out, and when the lid of the ko-shiruku opened, a pleasant syrup wafted through the room.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Apparently, the laurel tree is also used as herbs.†
 
-    ("諱先輩はその葉っぱにお祈闍りし、ていねいに浮封尓筒に入齠れて、オ激レにくれた。",
+    ("諱先輩はその葉っぱにお祈闍りし、ていねいに浮封尓筒に入齠れて、オレにくれた。",
     ""),
     # Senpai prayed to the leaves, carefully put them in a floating tube and gave them to me.
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "You'll have to put it in your bag. It's because the hot springs are walking around with them."
 
-    ("オ激レは唐鞄を開け、内側のポケットに浮封尓筒をしまった。†",
+    ("オレは鞄を開け、内側のポケットに浮封尓筒をしまった。†",
     ""),
     # I opened my bag and put a floating tube in my inner pocket.†
 
-    ("「これでオ激レに烽も幸運が訪齧れる？」",
+    ("「これでオレに烽も幸運が訪齧れる？」",
     ""),
     # "Will this make me feel lucky and happy?
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # It seems like it will actually be effective at the end of the day.†
 
-    ("諱よく駅で竄やってる、幸運のお祈闍りとかっていう竄やつ。",
+    ("諱よく駅でやってる、幸運のお祈闍りとかっていうやつ。",
     ""),
     # It's a tampering thing that often goes around at stations, like praying for good fortune.
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # Those kinds of things are bad.
 
-    ("﨟基本的にオ激レは信じないクチだから。",
+    ("﨟基本的にオレは信じないクチだから。",
     ""),
     # 﨟I'm basically a guy who doesn't believe in me.
 
-    ("竅やっぱ、うそくせーとか思ってしまう。†",
+    ("やっぱ、うそくせーとか思ってしまう。†",
     ""),
     # I can't help but think that it's a lie after all.†
 
@@ -143,7 +143,7 @@ text_array = [
     # What?†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("うっ。",
@@ -162,12 +162,12 @@ text_array = [
     ""),
     # "Hehe..."
 
-    ("照齒れ隠しにオ激レが微笑むと、",
+    ("照齒れ隠しにオレが微笑むと、",
     ""),
     # When I smiled at the hidden gem,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は少し赤くなってうつむいた。",

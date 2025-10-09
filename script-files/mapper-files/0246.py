@@ -10,15 +10,15 @@ text_array = [
     ""),
     # lunch break.
 
-    ("♂史といっし蛯ょに、£鋳でパンを食った。†",
+    ("♂史といっしょに、£鋳でパンを食った。†",
     ""),
     # I ate bread with Maki Shi and the other ecchi.†
 
-    ("「、僕、ち蛯ょっと部室に用沫事あるから、諱先に行くよ」",
+    ("「、僕、ちょっと部室に用沫事あるから、諱先に行くよ」",
     ""),
     # "I'll probably have some droplets in the club room, so I'll go first."
 
-    ("「おー、增わかった。オ激レはこのまま、ひなたぼっこしてっからよ」",
+    ("「おー、わかった。オレはこのまま、ひなたぼっこしてっからよ」",
     ""),
     # "Oh, I get it. I'll just bask in my hilarious position."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # With a laughing face, Masochi lifted her arms up, and Masochi left.†
 
-    ("うららかな午繻後の陽射し。",
+    ("うららかな午後の陽射し。",
     ""),
     # The sun shines brightly after the morning.
 
-    ("オ激レは蛯大きく両腕を伸ばし、あくびする。",
+    ("オレは大きく両腕を伸ばし、あくびする。",
     ""),
     # My ecstasy stretches out her arms and yawns.
 
@@ -42,19 +42,19 @@ text_array = [
     ""),
     # "...Ahhhh...ahhh."
 
-    ("深々と体をベンチにあずけ、にじんだ目で空を見繻上げた。†",
+    ("深々と体をベンチにあずけ、にじんだ目で空を見上げた。†",
     ""),
     # He rested his body on the bench deeply and raised his smudged eyes to the sky.†
 
-    ("…あ、そういえば、そｂそｂｗ栖瑞謳先輩が弁抹当搏持って竄やってｗ磯翌ｱｂだな。",
+    ("…あ、そういえば、そそｗ栖瑞謳先輩が弁抹当搏持ってやってｗ磯翌ｱだな。",
     ""),
     # ...Ah, by the way, it's bw, Suzumi-san, who took the edge off and tampered with it lol. Iso's the next Ab.
 
-    ("ち蛯ょうどいい。",
+    ("ちょうどいい。",
     ""),
     # Chiebi is good.
 
-    ("また、芹°香おｏ様といっし蛯ょに、のんびりとおし痰ゃべりで烽もしようかね。",
+    ("また、芹°香おｏ様といっしょに、のんびりとおし痰ゃべりで烽もしようかね。",
     ""),
     # Also, I wonder if I'll relax with Seri°Kao-san and I'll also have a hot pot.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # His deep face was a man with @Suisui-san's old man.†
 
-    ("「｢｢これは失邇礼。少々イタズ宴ラが過ぎましたかな。ふ墲わ〜っはっはっはっは！」",
+    ("「｢｢これは失邇礼。少々イタズラが過ぎましたかな。ふ墲わ〜っはっはっはっは！」",
     ""),
     # "'This is a shame. I guess the prank feast has passed a bit. Fuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Without disrupting his feelings, he laughs loudly with just his chin.†
 
-    ("「いきなり、なんてとこから現鼬れ竄やがる！」",
+    ("「いきなり、なんてとこから現鼬れやがる！」",
     ""),
     # "All of a sudden, it's going to turn out to be a squeal!"
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "It's from the Fubuki.
 
-    ("草から飛び出てジャャジャャジャャジャャーン！	といったとこｂでございまし蛯ょうか。ふ墲わ〜っはっはっはっ！」",
+    ("草から飛び出てジャャジャャジャャジャャーン！	といったとこでございましょうか。ふ墲わ〜っはっはっはっ！」",
     ""),
     # I jump out of the grass and sniff!That's what I mean, is that b?Fuuhahaha!”
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # ...What are you talking about, this damn old man.†
 
-    ("「ったく、なんだってんだよ。おｏ様だったらまだいねーぜ。ま、あと１０分熾もすり痰ゃ、弁抹当燗もってここにｗ鰯翌ｾｂーけどさ」",
+    ("「ったく、なんだってんだよ。おｏ様だったらまだいねーぜ。ま、あと１０分熾もすり痰ゃ、弁抹当燗もってここにｗ鰯翌ｾーけどさ」",
     ""),
     # "Ah, what's wrong? If it were you, it's not there yet. Well, I'd have 10 more minutes to wash it down, I'd put some warmth in the beef and then I'd be there lol the next sardine."
 
-    ("「｢｢さすがは様。おｏ様の行動をよく艪御存じで」",
+    ("「｢｢さすがは様。おｏ様の行動をよく御存じで」",
     ""),
     # ""I'm sure you know what O's actions are.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Samaii?"
 
-    ("じじいめ、突然このオ激レに『様』なんか付け竄やがって、いったいどういうつ烽もりだ？",
+    ("じじいめ、突然このオレに『様』なんか付けやがって、いったいどういうつ烽もりだ？",
     ""),
     # Grandpa, suddenly, he's tampering with something like "sama" on me, and what kind of heat is it?
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # Even though he's always going to call a boy and become a hostile man.
 
-    ("なに企んで竄やがる。†",
+    ("なに企んでやがる。†",
     ""),
     # What are you planning and tampering with?†
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "But it's not too much of a skill to just deliver it normally. So, in order to surprise O-sama, I was hidden by the r in Fubusumura."
 
-    ("「…フツーに届けｂよ。…ったく、じじいが年がい烽もなくモ茶目っ気だしてんじ痰ゃ…」†",
+    ("「…フツーに届けよ。…ったく、じじいが年がい烽もなくモ茶目っ気だしてんじ痰ゃ…」†",
     ""),
     # "...I'll deliver it normally....I'm sorry, my old man is not old enough to be a playful phlegm..."†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # ...My ears, my ears, my ears became squeal.†
 
-    ("「增わたくしめの名は『セバスチャャン』でございます」",
+    ("「わたくしめの名は『セバスチャャン』でございます」",
     ""),
     # "My name is Sebaschayan."
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Actually, I'd like to ask you for your palate on the day."
 
-    ("真武剣な痰眼差しでオ激レを見つめて言った。",
+    ("真武剣な痰眼差しでオレを見つめて言った。",
     ""),
     # I said, staring at me with a truly sword-fighting phlegm gaze.
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # You mean you're a senior?
 
-    ("へっ、どうせ、これ以繹上つきまとうなとか、そういったことだｂ。†",
+    ("へっ、どうせ、これ以繹上つきまとうなとか、そういったことだ。†",
     ""),
     # Heh, I guess I'll have to go after this anyway, and that's what I mean.†
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "...What is it, just say it?"
 
-    ("うっとうしそうにオ激レが言うと、じーさんは墲わずかに一呼吸ほど置いてから、スッ…と頭を下げた。",
+    ("うっとうしそうにオレが言うと、じーさんは墲わずかに一呼吸ほど置いてから、スッ…と頭を下げた。",
     ""),
     # I said innocently, and the old man put a slight breath in his breath before bowing his head.
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # "a?"
 
-    ("予想に反した言葉に、オ激レはすっかり面食逅らった。†",
+    ("予想に反した言葉に、オレはすっかり面食逅らった。†",
     ""),
     # My words were completely shocked by what was contrary to my expectations.†
 
@@ -290,11 +290,11 @@ text_array = [
     ""),
     # "That's what my granddaughter husband told me.
 
-    ("御存じのとおり、芹°香おｏ様は蛯大変におｔしい福方。その容姿を目末当てとするよからぬ獅虫が寄闃りつかないようにするの烽も、п私めの仕鮪事でございます」†",
+    ("御存じのとおり、芹°香おｏ様は大変におｔしい方。その容姿を目末当てとするよからぬ獅虫が寄闃りつかないようにするの烽も、п私めの仕鮪事でございます」†",
     ""),
     # As you know, Seri°Kao is a very fortunate lucky person.It's also my own tuna that keeps the appearance of the lionworms from coming in, which are the only ones who look at it."
 
-    ("「じ痰ゃあ、このオ激レ焜もその『諱よからぬ獅虫』の一匹だってのかよ」",
+    ("「じ痰ゃあ、このオレ焜もその『諱よからぬ獅虫』の一匹だってのかよ」",
     ""),
     # "Ah, I'm not sure this guy is one of those 'unfaithful lion insects'?"
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # "Did you think?"
 
-    ("「はい。…多分、様のおかげでし蛯ょう。ここ最近のおｏ様は、＊淫俣匇w校に行くのが楽しみなご様子。あのようなおｏ様を見骭るのは、堰初めてでございます」",
+    ("「はい。…多分、様のおかげでしょう。ここ最近のおｏ様は、＊淫俣匇w校に行くのが楽しみなご様子。あのようなおｏ様を見骭るのは、堰初めてでございます」",
     ""),
     # "Yes...I think it's probably thanks to you, thanks to you. O-sama has been looking forward to going to the *Inmata School recently. It's the first time I've seen such an O-sama."
 
@@ -326,23 +326,23 @@ text_array = [
     ""),
     # "Ahh."
 
-    ("オ激レはち蛯ょっと照齒れて、鼻の頭を掻いた。†",
+    ("オレはちょっと照齒れて、鼻の頭を掻いた。†",
     ""),
     # I lit up a lot and scratched the head of my nose.†
 
-    ("「とこｂでその言い福方からすると、あんた、昔から先輩に仕えてんのか？」",
+    ("「とこでその言い方からすると、あんた、昔から先輩に仕えてんのか？」",
     ""),
     # "From the point of view, in this respect, have you been serving your seniors for a long time?"
 
-    ("「はい。お生まれになられたこｂから、ずっとお世話をさせていただいております」†",
+    ("「はい。お生まれになられたこから、ずっとお世話をさせていただいております」†",
     ""),
     # "Yes. I have been taking care of you ever since you were born." †
 
-    ("すると、じーさんは昔を思い出したのか、なに竄やら唐遠い目をして語闌りだした。",
+    ("すると、じーさんは昔を思い出したのか、なにやら遠い目をして語りだした。",
     ""),
     # Then, perhaps as if he had remembered the past, he began to talk about something, with something distracted and distant eyes.
 
-    ("「幼いこｂの芹°香おｏ様は、いつ烽もお屋敷に閉じ桙込められた、か墲わいそうなひとりぼっちのお子さまでございました」",
+    ("「幼いこの芹°香おｏ様は、いつ烽もお屋敷に閉じ桙込められた、か墲わいそうなひとりぼっちのお子さまでございました」",
     ""),
     # "Young child B, Seri° Kao, has always been a lonely child, and the chicken was closed in the mansion."
 
@@ -358,27 +358,27 @@ text_array = [
     ""),
     # "Lonely... what?"
 
-    ("オ激レは続きをうながした。†",
+    ("オレは続きをうながした。†",
     ""),
     # My guts encouraged me to continue.†
 
-    ("「＠栖瑞家といえば言甯わずと知齟れた名蝟門亦の名蝟門。その艪御令酪と烽もなれば、氏庶民とは住む世界さえ烽も異なります。下々の痰低俗な文化に毒されぬようにと、おｏさまは幼いこｂから俗世謳より隔離されて育てられたのです…」",
+    ("「＠栖瑞家といえば言甯わずと知れた名蝟門亦の名蝟門。その御令酪と烽もなれば、氏庶民とは住む世界さえ烽も異なります。下々の痰低俗な文化に毒されぬようにと、おｏさまは幼いこから俗世謳より隔離されて育てられたのです…」",
     ""),
     # "The @Suizui family is also known as the famous mound. As for the ramblings and the ramblings, even the world they live in is different from the common people. In order to avoid being poisoned by the poor and vulgar culture, O-sama was raised by a young man, separated from the secular world."
 
-    ("じーさんが『語闌りｂモード』に切關りか墲わったので、オ激レは姿勢を直し、聞く体勢に入った。†",
+    ("じーさんが『語りモード』に切關りか墲わったので、オレは姿勢を直し、聞く体勢に入った。†",
     ""),
     # My grandfather had been called out to "Record B Mode," so I adjusted my posture and entered a listening position.†
 
-    ("芹°香おｏ様をお育てになられたのは、祖ヱ父であられる蛯大旦那様でございます。",
+    ("芹°香おｏ様をお育てになられたのは、祖ヱ父であられる大旦那様でございます。",
     ""),
     # It was Ebi, the father of the father of the shrine, who raised Seri°Kao.
 
-    ("おｏ様のご両親、旦那様ご夫妻は、とある新規幕事業開拓のため、数年間ニャー＜ークのほうに移闊り住まなければならなくなり、芹°香おｏ様を蛯大旦那様におあずけになったのです。†",
+    ("おｏ様のご両親、旦那様ご夫妻は、とある新規幕事業開拓のため、数年間ニャー＜ークのほうに移闊り住まなければならなくなり、芹°香おｏ様を大旦那様におあずけになったのです。†",
     ""),
     # Mr. O's parents and husbands had to live in the Meow for several years in order to develop a new business, and they were given the opportunity to share Seri-°Kao with Mr. Ebi's husband.†
 
-    ("教迢育を任された蛯大旦那様ご夫妻にとって、堰初孫のおｏ様は、竅やはり、か墲わいかったのでし蛯ょう。",
+    ("教迢育を任された大旦那様ご夫妻にとって、堰初孫のおｏ様は、やはり、か墲わいかったのでしょう。",
     ""),
     # For the husband and wife of the Ebi, who were in charge of teaching education, Oo, the first grandson of the Ebi, was really cute.
 
@@ -394,11 +394,11 @@ text_array = [
     ""),
     # No going out except to school is permitted.
 
-    ("テ激レビを見骭ること烽も禁止。",
+    ("テレビを見骭ること烽も禁止。",
     ""),
     # Hot springs are also prohibited from watching the extremely loud voices.
 
-    ("磨許可のない本笆やビデオを見骭ること烽も禁止。†",
+    ("許可のない本笆やビデオを見骭ること烽も禁止。†",
     ""),
     # Hot springs are also prohibited from watching book or videos without permission.†
 
@@ -406,15 +406,15 @@ text_array = [
     ""),
     # The only people who spoke were the husband and wife of the university, me, and the harsh discipline teachers, who were the only ones who were talking to each other.
 
-    ("п私燻も、何度となく不敏には思いましたが、蛛大恩ある蛯大旦那様の言いつけには逆迢らうことができませんでした。†",
+    ("п私燻も、何度となく不敏には思いましたが、蛛大恩ある大旦那様の言いつけには逆迢らうことができませんでした。†",
     ""),
     # I have always felt unstable about smoking, but I was unable to resist the orders of my husband, who is very grateful for.†
 
-    ("蛛大旦那様ご夫妻からのご桙寵愛は与えられて烽も、おなじ歳ごｂのお友だちは与えられず、芹°香おｏ様はｖ淫俣冾ｨ屋敷のｒでひとり、人形竚やぬいぐるみを鰍相闡手に遊ばれておりました。†",
+    ("蛛大旦那様ご夫妻からのご桙寵愛は与えられて烽も、おなじ歳ごのお友だちは与えられず、芹°香おｏ様はｖ淫俣冾ｨ屋敷のｒでひとり、人形竚やぬいぐるみを鰍相闡手に遊ばれておりました。†",
     ""),
     # The favors of the husband and wife of the Great Dead were given to him, but he was not given any friends of the same age, and Seri° Kao was playing alone at the r of the V Inmata Affiliated Mansion, playing with dolls and stuffed animals with a peculiar companion.†
 
-    ("磨当椏時お気に入闢りだったウサギのぬいぐるみを、ひとり、ベッドに寝かせて遊ぶおｏ様のお姿。",
+    ("当椏時お気に入闢りだったウサギのぬいぐるみを、ひとり、ベッドに寝かせて遊ぶおｏ様のお姿。",
     ""),
     # O-sama plays with a stuffed rabbit animal that he had always loved when polishing.
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # One day when O-san turned 11, he received a series of *Aya∴Kaoru and his parents returned to the country.
 
-    ("そこでよう竄やく、行き過ぎたおｏ様の管搖理体勢熕も解かれました。†",
+    ("そこでようやく、行き過ぎたおｏ様の管搖理体勢熕も解かれました。†",
     ""),
     # There, O's ductile physique was also relieved, as he had gone too far.†
 
@@ -434,11 +434,11 @@ text_array = [
     ""),
     # However, O-sama, who spent his precious childhood in the isolated fence, had become a completely silenced personality that could not make friends.
 
-    ("＊の綾∴香様とは対照的に、小学校、£学校と烽も親しいお友だちはできず、ひとりぼっちの竄寂しい学校生衰芋鰍ｑ礼曹鉤ｂﾄおりました。◯",
+    ("＊の綾∴香様とは対照的に、小学校、£学校と烽も親しいお友だちはできず、ひとりぼっちの寂しい学校生衰芋鰍ｑ礼曹鉤ﾄおりました。◯",
     ""),
     # In contrast to Aya Kaoru-sama, elementary school and £ school were unable to have close friends, so I was alone and lonely, so I was left with a lonely school, falling imo ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko ko◯
 
-    ("「見骭るに見かねたご両親は、おｏ様を厳しい名蝟門のｂ高校ではなく、自由で蛯大迹らかな校絡風のこのｂ高校へ通峵わせることにしました。しかし、結果はさほど変﨑わりませんでした。せっかく下々の学校に通峵われたというのに、それで烽もおｏ様には、なかなか親しいお友だちができなかったのです」",
+    ("「見骭るに見かねたご両親は、おｏ様を厳しい名蝟門の高校ではなく、自由で大迹らかな校絡風のこの高校へ通峵わせることにしました。しかし、結果はさほど変﨑わりませんでした。せっかく下々の学校に通峵われたというのに、それで烽もおｏ様には、なかなか親しいお友だちができなかったのです」",
     ""),
     # "Unable to see her, her parents decided to send O-san to this B-School, a free and easy-going school-like style, rather than to the strict B-School, which is a free and easy-going school. However, the outcome wasn't much different. Even though they had been attending a lower school, it was difficult for O-san to make close friends."
 
@@ -450,7 +450,7 @@ text_array = [
     ""),
     # "O-sama has rarely had the experience of having friends become friends with No. 1. Until you say it."
 
-    ("「オ激レに？」†",
+    ("「オレに？」†",
     ""),
     # "Are you so crazy?"
 
@@ -462,11 +462,11 @@ text_array = [
     ""),
     # "Hah" †
 
-    ("「おｏ様い墲わく、様は『たったひとりの蛯大切なお友だち』とのことでございます」",
+    ("「おｏ様い墲わく、様は『たったひとりの大切なお友だち』とのことでございます」",
     ""),
     # "Oh, you say that you are "only one precious friend."
 
-    ("「たったひとりの蛯大切なお友だち？」",
+    ("「たったひとりの大切なお友だち？」",
     ""),
     # "Are you a precious friend?"
 
@@ -475,7 +475,7 @@ text_array = [
     # "yes"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("な、なんか照齒れるな。†",
@@ -490,7 +490,7 @@ text_array = [
     ""),
     # "Oh, oh."
 
-    ("「ですからなにとぞ、磨末永く、芹°香おｏ様とおつき№合いさしあげてくださいませ」",
+    ("「ですからなにとぞ、末永く、芹°香おｏ様とおつき№合いさしあげてくださいませ」",
     ""),
     # "So, what should I do? Please come and join us for a long time with Seri° Kao."
 
@@ -506,11 +506,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…п私が蛯大旦那様におおせつかった言葉は、たとえどんな揩理由があｂうと烽も、おｏ様に、男性の友だちを近づけてはならない…という烽ものでした」†",
+    ("「…п私が大旦那様におおせつかった言葉は、たとえどんな揩理由があうと烽も、おｏ様に、男性の友だちを近づけてはならない…という烽ものでした」†",
     ""),
     # "...The words I told my husband to be a godsman was that no matter what reason, even if there was a b-no, he should not bring male friends close to O-san."
 
-    ("「オ激レはいいのかよ？」",
+    ("「オレはいいのかよ？」",
     ""),
     # "Is it okay to be a cruel?"
 
@@ -518,11 +518,11 @@ text_array = [
     ""),
     # "Yes. This is for the sake of Seri°Kao.
 
-    ("私は今回、あえて蛯大旦那様のご命令に背こうとしています」",
+    ("私は今回、あえて大旦那様のご命令に背こうとしています」",
     ""),
     # This time, I am trying to defy the orders of Ebi-san."
 
-    ("「じーさ…い竄や、セバスチャャン」†",
+    ("「じーさ…いや、セバスチャャン」†",
     ""),
     # "Sebastian, Sebastian" †
 
@@ -530,7 +530,7 @@ text_array = [
     ""),
     # "Ahh! Master Master, forgive me for the evil spirits!
 
-    ("戦辮後の焼けｖ原をさまよいながら、荒くれ者たちとスト潟リートファイトに明け暮れていたр私めを拾っていただきました艪御恩、この長瀬、′して忘齧れた墲わけではございませんぞおおおおおおぉぉぉぉぉぉぉぉ〜〜〜〜〜〜〜ッ！」",
+    ("戦辮後の焼けｖ原をさまよいながら、荒くれ者たちとストリートファイトに明け暮れていたр私めを拾っていただきました御恩、この長瀬、′して忘齧れた墲わけではございませんぞおおおおおおぉぉぉぉぉぉぉぉ〜〜〜〜〜〜〜ッ！」",
     ""),
     # As I wandered through the burnt fields after the war, I was spending all my life fighting with the rough people, and I'm not a god that I've forgotten about Nagase!”
 
@@ -538,7 +538,7 @@ text_array = [
     ""),
     # "Nagase, you?"
 
-    ("しかし、スト潟リートファイトって…。",
+    ("しかし、ストリートファイトって…。",
     ""),
     # However, the Street Fight...
 
@@ -546,11 +546,11 @@ text_array = [
     ""),
     # I thought it was just as good as it was.†
 
-    ("「では様。今厓日のとこｂはр私めはこれで失邇礼させていただきます。",
+    ("「では様。今厓日のとこはр私めはこれで失邇礼させていただきます。",
     ""),
     # "Now, thank you. I would like to apologize for the inconvenience caused to you on this day.
 
-    ("厚かましいお願いですが、できれば、このお弁抹当を、様の手から芹°香おｏ様にお渡ししていただけませんでし蛯ょうか？」",
+    ("厚かましいお願いですが、できれば、このお弁抹当を、様の手から芹°香おｏ様にお渡ししていただけませんでしょうか？」",
     ""),
     # I'm a brazen request, but if possible, I would not be able to hand this bento to Mr. Seri°Kao, if possible, so I'd like to ask you to give me this bento?”
 
@@ -558,7 +558,7 @@ text_array = [
     ""),
     # "Ah, ah."
 
-    ("うなずいて、オ激レは弁抹当袋を受け取った。†",
+    ("うなずいて、オレは弁抹当袋を受け取った。†",
     ""),
     # Nodding, I received the bag of bento.†
 
@@ -578,15 +578,15 @@ text_array = [
     ""),
     # "I have one thing I want to ask."
 
-    ("「はい。なんでございまし蛯ょう？」†",
+    ("「はい。なんでございましょう？」†",
     ""),
     # "Yes. Why is this ephemeral?"
 
-    ("「芹°香おｏ様は、いつごｂから、ああいったｂ魔法とか、それ系にハマ辜られたんだ？」",
+    ("「芹°香おｏ様は、いつごから、ああいった魔法とか、それ系にハマ辜られたんだ？」",
     ""),
     # "When did Seri ° Kao-sama become addicted to such b-magic characters from B?"
 
-    ("「小学生のこｂ、旦那様ご夫妻が冾日本に戻逍られてからのことでございます」",
+    ("「小学生のこ、旦那様ご夫妻が冾日本に戻逍られてからのことでございます」",
     ""),
     # "This was after elementary school students, husband and wife, were returned to Japan."
 
@@ -598,11 +598,11 @@ text_array = [
     ""),
     # "This was when Seri° Kao-san was first allowed to read books other than the subject slimming letters and the study books, and was enrolled in the mansion's sergeant archive.
 
-    ("奥様がお揩持ちになられていた古いｂ魔法の本がございまして、おｏ様はその挿し絵がお気に召されたのか、いつ烽も絵本が墲わりに読まれておりました」†",
+    ("奥様がお揩持ちになられていた古い魔法の本がございまして、おｏ様はその挿し絵がお気に召されたのか、いつ烽も絵本が墲わりに読まれておりました」†",
     ""),
     # There is an old book about b magic that my wife had, and I wonder if O-sama liked the illustrations, and even though he had always read the picture book as a book."
 
-    ("「絵本が墲わりにｂ魔術聡書…」",
+    ("「絵本が墲わりに魔術聡書…」",
     ""),
     # "The picture book is a book that is a magical book..."
 
@@ -622,7 +622,7 @@ text_array = [
     ""),
     # "it is?"†
 
-    ("「｢｢怕奥様はｂ魔蘭女だったのです！」",
+    ("「｢｢怕奥様は魔蘭女だったのです！」",
     ""),
     # "" "My wife was a b-devil-Ran!"
 
@@ -635,10 +635,10 @@ text_array = [
     # "That's a joke."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「以前、たまたま、新婚旅行謐先の高ロンドンで手に入齠れられたそうです。旅行のおみ竄やげのひとつとしてモ買った烽ものだとか」",
+    ("「以前、たまたま、新婚旅行謐先の高ロンドンで手に入齠れられたそうです。旅行のおみやげのひとつとしてモ買った烽ものだとか」",
     ""),
     # "It was previously discovered that it was purchased at High London, a honeymoon. It is said that it was a hot pot that I bought as a tampering tool for travel."
 
@@ -650,7 +650,7 @@ text_array = [
     ""),
     # "Well, I'll be sorry."
 
-    ("執鮪事のじーさん（自称セバスチャャン）は、いんぎんに頭をｂ垂齔れて獅去っていった。◯",
+    ("執鮪事のじーさん（自称セバスチャャン）は、いんぎんに頭を垂齔れて獅去っていった。◯",
     ""),
     # The old man who is a tuna gushed (self-proclaimed Sebaschayan) leaned away with his head thrust into the lion.◯
 
@@ -658,11 +658,11 @@ text_array = [
     ""),
     # Hmm.
 
-    ("それがきっかけで、諱先輩はすっかりあんなｂ魔法使いにかぶれちまったのか。",
+    ("それがきっかけで、諱先輩はすっかりあんな魔法使いにかぶれちまったのか。",
     ""),
     # That's what led to my senior being completely overwhelmed by such a b-wizard.
 
-    ("ひとの人生なんて、どこでどう変﨑わるか、增わかんない烽もんだねぇ。",
+    ("ひとの人生なんて、どこでどう変﨑わるか、わかんない烽もんだねぇ。",
     ""),
     # A person's life is such a hot topic that I don't know where and how it will change.
 
@@ -670,7 +670,7 @@ text_array = [
     ""),
     # At that time.†
 
-    ("う墲わさの芹°香おｏ様が竄やってきた。",
+    ("う墲わさの芹°香おｏ様がやってきた。",
     ""),
     # Seri°Kao-sama from Utsuwasa has come to tamper with me.
 
@@ -678,31 +678,31 @@ text_array = [
     ""),
     # "I'm here, O-sama. I'm sharing this with you from the old man who is a tuna."
 
-    ("オ激レは弁抹当袋を見せて言った。†",
+    ("オレは弁抹当袋を見せて言った。†",
     ""),
     # I said, showing off my bento bag.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「セバスチャャンは…って？	もう帰ったよ。とこｂで、なんだよ、そのセバスチャャンってのは」†",
+    ("「セバスチャャンは…って？	もう帰ったよ。とこで、なんだよ、そのセバスチャャンってのは」†",
     ""),
     # "What is Sebaschayan... What? I'm back now. What is Sebaschayan?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	愛のニックネームだって？	その名で呼ばれると幸運になる？	へえ、じ痰ゃあ、オ激レ焜もひとつ…い竄や、竅やっぱりいい竄や」†",
+    ("「え？	愛のニックネームだって？	その名で呼ばれると幸運になる？	へえ、じ痰ゃあ、オレ焜もひとつ…いや、やっぱりいいや」†",
     ""),
     # "Huh? It's a nickname for love? You'll be lucky if you call me that name? Wow, I'm sputum, and I have a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	閨占おうかって？	いい、竅やめとく。だって、ポсヤッチオとかそんな格好悪い名前だったらイсヤだから」◯",
+    ("「え？	閨占おうかって？	いい、やめとく。だって、ポсヤッチオとかそんな格好悪い名前だったらイсヤだから」◯",
     ""),
     # "Huh? I'm going to give you a fortune? No, I'll stop. Because if you have a bad name like PoсYaccio, it's awkward."◯
 

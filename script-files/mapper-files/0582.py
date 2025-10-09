@@ -10,11 +10,11 @@ text_array = [
     ""),
     # That's right.
 
-    ("あんな熱心に誘ってくれたんだ、せっかくだから、葵ち痰ゃんのク宴ラブ見学にで烽も行くか。",
+    ("あんな熱心に誘ってくれたんだ、せっかくだから、葵ち痰ゃんのクラブ見学にで烽も行くか。",
     ""),
     # He invited me so enthusiastically, so since I was going to have a chance, I'd also go to visit Aoi Chisho-yan's banquet and love.
 
-    ("実際に入體るかどうかはと烽もかく、♀動燗内容を見ておくの烽もいいだｂう。",
+    ("実際に入體るかどうかはと烽もかく、♀動燗内容を見ておくの烽もいいだう。",
     ""),
     # Whether it actually fits in or not is also good, so it's good to check out the contents of the female hot water.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # I'm bored anyway.†
 
-    ("オ激レは、葵ち痰ゃんが言っていた福練習齒場鰹所へとｌかった。†",
+    ("オレは、葵ち痰ゃんが言っていた練習齒場鰹所へとｌかった。†",
     ""),
     # I went to the bonito area where Aoi Chisho-yan had said about it.†
 
-    ("学校の裏阯手に古い神社がある。",
+    ("学校の裏手に古い神社がある。",
     ""),
     # There is an old shrine in the back of the school.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # With almost no one approached at this point, it has now become a completely empty space.
 
-    ("瘁例の格闘好き少酪女葵ち痰ゃんは、冝放課繪後喧淫俣冾ｱこで福練習をしているらしいが…。†",
+    ("瘁例の格闘好き少酪女葵ち痰ゃんは、冝放課繪後喧淫俣冾ｱこで練習をしているらしいが…。†",
     ""),
     # The fighting-loving young woman Aoi Chisho-chan apparently practices for fortune at the Tsukimata after the school's school...†
 
@@ -54,19 +54,19 @@ text_array = [
     ""),
     # It was before the man's wife lol.†
 
-    ("し蛯ょうがない。",
+    ("しょうがない。",
     ""),
     # There's no slut.
 
-    ("もうち蛯ょっと待ってみて、それで烽もｗないなら帰驪るとしよう。",
+    ("もうちょっと待ってみて、それで烽もｗないなら帰驪るとしよう。",
     ""),
     # I'll wait a little while, and then if there's no hot water, I'll go home.
 
-    ("オ激レはお堂の階段にｍ會高ｺ奄し、しばらくそこで待つことにした。†",
+    ("オレはお堂の階段にｍ會高ｺ奄し、しばらくそこで待つことにした。†",
     ""),
     # I decided to wait for a while on the stairs of the hall.†
 
-    ("とこｂで、ク宴ラブの≠メンバーって、全泊部で何人ぐらいいるんだｂ？",
+    ("とこで、クラブの≠メンバーって、全泊部で何人ぐらいいるんだ？",
     ""),
     # In this case, how many members of Kuban Love are in all the night club?
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # At that time, Aoi Chisho-yan said that the number of items required to torture like that was short of the regular number of items, so it means that there are quite a few.
 
-    ("あと、話の烽内容からすると、彼濫女がク宴ラブの繧代表みたいな感じだけど、本末当のとこｂはどうなんだｂう。†",
+    ("あと、話の烽内容からすると、彼濫女がクラブの繧代表みたいな感じだけど、本末当のとこはどうなんだう。†",
     ""),
     # Also, from the content of the story, the girl is like the representative of the banquet love story, but what about the b at the end of the day?†
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # Sure!!
 
-    ("音は一闊定の間隔で繰闌り返される。†",
+    ("音は一闊定の間隔で繰り返される。†",
     ""),
     # The sounds are repeated at a constant interval.†
 
@@ -118,15 +118,15 @@ text_array = [
     ""),
     # "?"
 
-    ("いったいなんの音だｂう？",
+    ("いったいなんの音だう？",
     ""),
     # What sound is it b?
 
-    ("どこから聞こえてくるんだｂう？",
+    ("どこから聞こえてくるんだう？",
     ""),
     # Where do you hear it from?
 
-    ("誘嵭われるようにして、音の発生源と思える福方阜へ烽歩いて行くと、そこには…。◯",
+    ("誘嵭われるようにして、音の発生源と思える方阜へ烽歩いて行くと、そこには…。◯",
     ""),
     # As if to be attracted to the shore, I walked to Fukukata Fu, which seems to be the source of the sound, and found myself there...◯
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # Sure!!
 
-    ("そこには、サンドバッグを鰍相闡手に、ひとり蹴闖りの福練習をする葵ち痰ゃんの姿があった。",
+    ("そこには、サンドバッグを鰍相闡手に、ひとり蹴闖りの練習をする葵ち痰ゃんの姿があった。",
     ""),
     # There, Aoi Chisho-yan was practicing fortune by kicking herself with a punching bag together.
 
@@ -166,15 +166,15 @@ text_array = [
     ""),
     # After a smashing, he kicked the upper stage with a sprint.
 
-    ("空闍手のスタイ泣ルだｂうか。",
+    ("空闍手のスタイルだうか。",
     ""),
     # It's a sky-climbing style that's crying.
 
-    ("速いうえに、キ激レ焜もある。",
+    ("速いうえに、キレ焜もある。",
     ""),
     # Not only is it fast, but there are also some anger-ramblings.
 
-    ("しか烽も、あんなに強く蹴ってるってのに、全然バ宴ランスを崩さない。",
+    ("しか烽も、あんなに強く蹴ってるってのに、全然バランスを崩さない。",
     ""),
     # However, even though he kicks so hard, he doesn't break the banquet at all.
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # "Ahhh, that's amazing..."
 
-    ("オ激レの福口から自然と感嘆の息が漏齪れる。",
+    ("オレの口から自然と感嘆の息が漏齪れる。",
     ""),
     # A breath of exclamation naturally blew through my intense Fuku-ku.
 
-    ("正直、空闍手を竄やってるなんて聞いたとき烽も、浴女の子だし蛯大したことはないだｂうなんて、ａ高をくくっていた。",
+    ("正直、空闍手をやってるなんて聞いたとき烽も、浴女の子だし大したことはないだうなんて、ａ高をくくっていた。",
     ""),
     # To be honest, when I heard that he was tampering with the air, he was also a bathing girl and not a big deal, so he was holding his A high.
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Um, Aoi-chi's phlegm..."
 
-    ("驚かさないように、ち蛯ょっと抑え気味の声で呼びかけてみた。†",
+    ("驚かさないように、ちょっと抑え気味の声で呼びかけてみた。†",
     ""),
     # To avoid being surprised, I called out in a silly voice that seemed to hold back.†
 
@@ -238,23 +238,23 @@ text_array = [
     ""),
     # Sure!!
 
-    ("声はモ激しい蹴闖りの音にかき消され、彼濫女の耳には届かない。",
+    ("声はモしい蹴闖りの音にかき消され、彼濫女の耳には届かない。",
     ""),
     # Her voice was drowned out by the sound of intense kicks, and it was hard to reach the woman's ears.
 
-    ("じ痰ゃあ、今度は烽もっと蛯大きな声で｢｢。",
+    ("じ痰ゃあ、今度は烽もっと大きな声で｢｢。",
     ""),
     # I'm not gonna get slurp, this time I'm gonna squealing louder ".
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("と思ったが、竅やっぱり竄やめた。",
+    ("と思ったが、やっぱりやめた。",
     ""),
     # I thought so, but I ended up stopping it.
 
-    ("あんな真武剣に竄やってるんだし、邪ｎ魔するの烽もなんだな。",
+    ("あんな真武剣にやってるんだし、邪ｎ魔するの烽もなんだな。",
     ""),
     # They're doing that kind of tampering with the Shinbuken, and it's no wonder they're trying to get mad.
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "Haa..., haa..., haa..."
 
-    ("葵ち痰ゃんは揺齬れるサンドバッグに抱きつくと、動きを固闌定して、深く息を吐いた。",
+    ("葵ち痰ゃんは揺齬れるサンドバッグに抱きつくと、動きを固定して、深く息を吐いた。",
     ""),
     # Aoi Chisho-yan hugged her shaking punching bag, then firmly moved and let out a deep breath.
 
@@ -286,15 +286,15 @@ text_array = [
     ""),
     # "Hehhh..., hehhh..., hehhh..."
 
-    ("肩がモ激しく繧上下している。†",
+    ("肩がモしく繧上下している。†",
     ""),
     # His shoulders are moving up and down vigorously.†
 
-    ("そして、ひと息つくと、足熨もとのスポーツタオ泣ルを拾って、額の汗を拭った。",
+    ("そして、ひと息つくと、足熨もとのスポーツタオルを拾って、額の汗を拭った。",
     ""),
     # After taking a break, I picked up a sports towel with a squeal and a squeal on my forehead and wiped away the sweat.
 
-    ("どう竄やらひと休みするらしい。",
+    ("どうやらひと休みするらしい。",
     ""),
     # Apparently he's going to take a break from tampering.
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("オ激レを見て、ち蛯ょっとびっくりしたような顔をする。†",
+    ("オレを見て、ちょっとびっくりしたような顔をする。†",
     ""),
     # When I saw my hardcore, I looked surprised.†
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # "My name is"
 
-    ("オ激レは片阨手を繧上げてあいさつした。",
+    ("オレは片阨手を繧上げてあいさつした。",
     ""),
     # I greeted him with my arms raised.
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # senior!”
 
-    ("すると葵ち痰ゃんは、こぼれるような笑迴顔をｂ浮かべ、小柾走闡りにｋけ寄ってきた。†",
+    ("すると葵ち痰ゃんは、こぼれるような笑迴顔を浮かべ、小柾走闡りに駆け寄ってきた。†",
     ""),
     # Then Aoi Chisho-yan had a smile on his face that looked like it was spilling out, and he came near the runners of the rock.†
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # "Well... right?"
 
-    ("オ激レは苦笑してうなずいた。",
+    ("オレは苦笑してうなずいた。",
     ""),
     # I nodded with a wry smile.
 
@@ -386,11 +386,11 @@ text_array = [
     ""),
     # "is that so?"
 
-    ("「だから葵ち痰ゃんは、オ激レに構寘わず、禔練習を続けなよ」†",
+    ("「だから葵ち痰ゃんは、オレに構寘わず、禔練習を続けなよ」†",
     ""),
     # "That's why Aoi Chisho-chan should not be too concerned about me, and continue practicing with Yu."
 
-    ("「はい。｢｢で烽も、ち蛯ょうどいまから、休憩しようと思っていたんです」",
+    ("「はい。｢｢で烽も、ちょうどいまから、休憩しようと思っていたんです」",
     ""),
     # "Yes. "I was planning on taking a break from now on."
 
@@ -406,11 +406,11 @@ text_array = [
     ""),
     # Aoi Chisho-yan said this and haphazardly cried out, and then moved under the large tree.†
 
-    ("「とこｂでさ」",
+    ("「とこでさ」",
     ""),
     # "At b."
 
-    ("オ激レが聞いた。",
+    ("オレが聞いた。",
     ""),
     # I heard it.
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # "...It seems like there's no one else other than Aoi Chisho-yan."
 
-    ("オ激レはま墲わりを見渡しながら言った。",
+    ("オレはま墲わりを見渡しながら言った。",
     ""),
     # I said, looking around the corner.
 
@@ -466,7 +466,7 @@ text_array = [
     ""),
     # Aoi Chishoyan nodded in embarrassment.†
 
-    ("「は〜、オ激レはまたてっきり、もと烽もとそういうのが好きな連中が何人か集まってできた同好拷なんだと思ってた」",
+    ("「は〜、オレはまたてっきり、もと烽もとそういうのが好きな連中が何人か集まってできた同好拷なんだと思ってた」",
     ""),
     # "Haa, I thought it was a good torture that was created by a group of a few people who liked that kind of thing."
 
@@ -494,27 +494,27 @@ text_array = [
     ""),
     # Aoi Chisho-yan leapt over the top and exhaled.†
 
-    ("「学校からの魔許可さえおりれば、部室竡や福練習齒場鰹所が借闔りられるらしいんです。そしたら、雨の冾日だって福練習できますし、部部で福練習用の墲器葛とか烽もモ買えますし、体操葬にｒ替える更衣室だって…」†",
+    ("「学校からの魔許可さえおりれば、部室竡や練習齒場鰹所が借闔りられるらしいんです。そしたら、雨の冾日だって練習できますし、部部で練習用の墲器葛とか烽もモ買えますし、体操葬にｒ替える更衣室だって…」†",
     ""),
     # "If you have the permission from the school, you can rent a club room or a bonito area for the Fuku practice hall. Then you can practice on rainy days, and you can buy kudzu and hot pots for the Fuku practice, and you can even buy a changing room where you can replace it with a gymnastics..."
 
-    ("そういえば、更衣室がないのに、葵ち痰ゃんはどこでｒ替えてるんだｂう。",
+    ("そういえば、更衣室がないのに、葵ち痰ゃんはどこでｒ替えてるんだう。",
     ""),
     # Come to think of it, even though there is no changing room, where do Aoi Chisho-chan go?
 
-    ("竅やっぱ、この林のｒでだｂうな。",
+    ("やっぱ、この林のｒでだうな。",
     ""),
     # After all, it's the r of this forest.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("い竄や、だからどうって墲わけじ痰ゃないけど。†",
+    ("いや、だからどうって墲わけじ痰ゃないけど。†",
     ""),
     # It's a tampering, so why not give up?†
 
-    ("「とにかく、ひとりじ痰ゃ駄目なんですよね。せめてふたりいれば、片荿方がキックミットを揩持ったりとか、もっと有効なト激レーニングができるんですけど…」",
+    ("「とにかく、ひとりじ痰ゃ駄目なんですよね。せめてふたりいれば、片荿方がキックミットを揩持ったりとか、もっと有効なトレーニングができるんですけど…」",
     ""),
     # "Anyway, you have to be alone. If there are at least two people, one can do more effective training, such as having one person throwing a kick mitt..."
 
@@ -530,11 +530,11 @@ text_array = [
     ""),
     # Aoi Chisho-yan took a deep breath and smiled as if he had regained his energy.†
 
-    ("「п私ひとりで烽も、なんとか竄やっていくつ烽もりです」",
+    ("「п私ひとりで烽も、なんとかやっていくつ烽もりです」",
     ""),
     # "I managed to tamper with the hot springs on my own."
 
-    ("だがその笑迴顔は、ち蛯ょっとぎこちない感じがした。†",
+    ("だがその笑迴顔は、ちょっとぎこちない感じがした。†",
     ""),
     # However, his laughter-like face felt awkward.†
 
@@ -554,7 +554,7 @@ text_array = [
     ""),
     # "Hmm" †
 
-    ("「それじ痰ゃ、今厓日はせっかく先輩がｗてくださったんですから、空闍手の『型』を通じて、﨟基本の技をいｂいｂ竄披露したいと思います」†",
+    ("「それじ痰ゃ、今厓日はせっかく先輩がｗてくださったんですから、空闍手の『型』を通じて、﨟基本の技をいい披露したいと思います」†",
     ""),
     # "That's right, my senior has given me the opportunity to show off my basic skills through the "mold" of the Sky-Cut" †
 
@@ -570,11 +570,11 @@ text_array = [
     ""),
     # "Now, let's get started!"
 
-    ("その繧後、葵ち痰ゃんは素人に烽も墲わかり竄やすい解煢説を交えながら、いｂいｂな技を竄披露してくれた。",
+    ("その繧後、葵ち痰ゃんは素人に烽も墲わかりやすい解煢説を交えながら、いいな技を披露してくれた。",
     ""),
     # After that, Aoi Chisho-yan showed off her beast-like techniques, including the theory that it's easy to understand for amateurs.
 
-    ("最燕初は適俣当に見物してからすぐに帰汲うと思っていたのだが、結局その冾日はずるずると夕髣暮れまで福練習につき№合ってしまった。＝",
+    ("最燕初は適俣当に見物してからすぐに帰汲うと思っていたのだが、結局その冾日はずるずると夕髣暮れまで練習につき№合ってしまった。＝",
     ""),
     # Saien Hatsu had thought that he would return to Tamomatato as soon as he saw it, but in the end he was recklessly practicing fortune until the evening was over, and he ended up making a great fit.=
 
@@ -598,7 +598,7 @@ text_array = [
     ""),
     # If you like, please come back again.
 
-    ("月曜とｐ曜は個人的な都∮合でお休みですが、それ以外はｖ淫俣冾ｱこで竄やってますから」",
+    ("月曜とｐ曜は個人的な都∮合でお休みですが、それ以外はｖ淫俣冾ｱこでやってますから」",
     ""),
     # Mondays and P-days are closed due to personal Tokyo, but other than that, I'm tampering with V Inumata."
 
@@ -610,7 +610,7 @@ text_array = [
     ""),
     # "Ah, ah."
 
-    ("その笑迴顔を前にしてはとて烽も断闥りきれず、オ激レはあいまいな返抹事でこたえた。◯",
+    ("その笑迴顔を前にしてはとて烽も断闥りきれず、オレはあいまいな返抹事でこたえた。◯",
     ""),
     # In front of her face, the laughter couldn't be helped, and my ecstasy answered with an ambiguous response.◯
 

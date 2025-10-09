@@ -2,7 +2,7 @@
 # Source file: 038B.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオ激レについてｗ育翌鉤ｂるならな！）閨（選択綜Ｂ	保科、蛛大苟丈夫か？）閨（の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ｂ	保科、蛛大苟丈夫か？）閨（の続き）†",
     ""),
     # (Tomoko's Scales Event: Departing from School LV2) (Choice Sou A about this Ogeki Lol, if you're going to get a hook up next to you!) (Choice Sou B: Hoshina, are you strong in the Great?) (Continued)†
 
@@ -14,12 +14,12 @@ text_array = [
     ""),
     # "Hey, are you sturdy, are you sturdy?"
 
-    ("オ激レは保科に近づいた。†",
+    ("オレは保科に近づいた。†",
     ""),
     # My geisha approached Hoshina.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ケガはないか？	保科…だったよな？」",
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "That guy is fine. He's the one who's the wrong."
 
-    ("まあ、根本的な原因はオ激レだけど。†",
+    ("まあ、根本的な原因はオレだけど。†",
     ""),
     # Well, the underlying cause is pretty bad.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "I bumped into her with great force and it was a phlegm."
 
-    ("「もうええって。今纃後は烽もうち蛯ょっとま墲わりに気いつけな」",
+    ("「もうええって。今纃後は烽もうちょっとま墲わりに気いつけな」",
     ""),
     # "That's fine. Now, I'll be careful not to let the hot springs go."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Uh, let's apologize again..."
 
-    ("結局、その冾日はそのまま、蛛大人しくあかりといっし蛯ょに帰った。◯",
+    ("結局、その冾日はそのまま、蛛大人しくあかりといっしょに帰った。◯",
     ""),
     # In the end, the day was still intact and quietly returned to Akari's Ebi.◯
 

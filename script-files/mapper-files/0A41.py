@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Even if you're a hard part-time job or a hot guy, when you're working, you'll laugh really clearly.†
 
-    ("「じ痰ゃあ、今厓日からしっかりとア泣ルバイト探ししなき痰ゃ」",
+    ("「じ痰ゃあ、今厓日からしっかりとアルバイト探ししなき痰ゃ」",
     ""),
     # "I'm not going to find a part-time job from the moment I cried."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # If you're so enthusiastic about this, you can feel at ease by watching this hot spring.†
 
-    ("「あ、そｂそｂ始まりそう。行かなき痰ゃ」",
+    ("「あ、そそ始まりそう。行かなき痰ゃ」",
     ""),
     # "Ah, it looks like it's going to start b. I'll have to go."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Yeah. See you later."
 
-    ("蛛大きく手を振髏る揩理女緒ち痰ゃんを見洛送闡り、オ激レ焜も家に帰った。◯",
+    ("蛛大きく手を振髏る揩理女緒ち痰ゃんを見洛送闡り、オレ焜も家に帰った。◯",
     ""),
     # I went to see the loud waving hand, and my heart went home too.◯
 

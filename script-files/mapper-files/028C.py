@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Seri°Kawa, Scales Event, Departing from School LV1)Seri (Select C, Just Being Just Dang)†
 
-    ("オ激レはただ呆然とするばかりだった。",
+    ("オレはただ呆然とするばかりだった。",
     ""),
     # My heart was just stunned.
 
-    ("諱先輩は、ちらりとオ激レに汲視諮を鰍投げかけてから、梶リムジンに乗闖り桙込んだ。",
+    ("諱先輩は、ちらりとオレに汲視諮を鰍投げかけてから、梶リムジンに乗闖り桙込んだ。",
     ""),
     # Senpai gave me a quick glimpse of the advice I had, then took the Kaji Limousine and stroking me.
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # The old man slammed the door and calmly walked into the driver's seat.
 
-    ("オ激レのことなど、完全に無許視だ。†",
+    ("オレのことなど、完全に無許視だ。†",
     ""),
     # I'm completely unauthorized about my ecstasy.†
 
-    ("タイсヤでジャャ潟リを踏む音を鳴逍らしながら、梶リムジンは鰍滑驫るように魔走闡り獅去った。",
+    ("タイсヤでジャャリを踏む音を鳴逍らしながら、梶リムジンは鰍滑驫るように魔走闡り獅去った。",
     ""),
     # As he heard the sound of stomping on the Jayagatali at Taiya, the Kaji Limousine ran away like a thud and thud.
 
-    ("呆然と立ち尽くすオ激レと、砂ぼこりだけがそこに取闔り残された。◯",
+    ("呆然と立ち尽くすオレと、砂ぼこりだけがそこに取闔り残された。◯",
     ""),
     # I stood there in stunned light, and only a dusty dust was left there.◯
 

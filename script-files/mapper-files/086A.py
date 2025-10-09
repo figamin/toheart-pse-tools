@@ -2,15 +2,15 @@
 # Source file: 086A.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	ペットシ㏍ョップ）†",
+    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	ペットショップ）†",
     ""),
     # (Fight Remy Scales Event PS) (Select Pet Sympos)†
 
-    ("「ペットシ㏍ョップへ行くか」",
+    ("「ペットショップへ行くか」",
     ""),
     # "Shall we go to Petsyop?"
 
-    ("ホテ泣ルなんてギャャグ焜も考えたが、へたするとイ＜メージダウンになりかねないので竄やめた。†",
+    ("ホテルなんてギャャグ焜も考えたが、へたするとイ＜メージダウンになりかねないのでやめた。†",
     ""),
     # I even thought about crying a hole in the air, but I stopped tampering with it because if it were torn down, it could cause an image to be ruined.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Yeah, I'm off!"
 
-    ("「…今のジ㏍ョークなんだけど…？」",
+    ("「…今のジョークなんだけど…？」",
     ""),
     # "...It's the current Zikku...?"
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Huh? Are you not going?"
 
-    ("「じ痰ゃなくて、恋人同士はペットシ㏍ョップになんか行かねえだｂ？」",
+    ("「じ痰ゃなくて、恋人同士はペットショップになんか行かねえだ？」",
     ""),
     # "Not phlegm, so can't your lover go to Pet Syup?"
 
-    ("特齠殊なカップ泣ルはのぞいて。†",
+    ("特齠殊なカップルはのぞいて。†",
     ""),
     # Take a look at the special occasions of a couple crying.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "...?"
 
-    ("「增わかんねえか？	つまり｢｢」",
+    ("「わかんねえか？	つまり｢｢」",
     ""),
     # "You don't know? I mean, ""
 
-    ("「アハハハッ！	ジ㏍ョークですか！」",
+    ("「アハハハッ！	ジョークですか！」",
     ""),
     # "Hahaha! Are you a shit!"
 

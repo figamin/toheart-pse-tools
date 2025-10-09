@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Just a childhood friend"
 
-    ("オ激レは言った。†",
+    ("オレは言った。†",
     ""),
     # I said.†
 

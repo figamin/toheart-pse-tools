@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "I think Bokuro too ≠Normal... I guess"
 
-    ("「お前の≠普通とオ激レの≠普通じ痰ゃ、全然賰基準が痰違うぜ」",
+    ("「お前の≠普通とオレの≠普通じ痰ゃ、全然賰基準が痰違うぜ」",
     ""),
     # "Your ≠ normal and my ≠ normal phlegm, the phlegm is completely different."
 
-    ("「そっちのほうが繧上ってことだｂ？」",
+    ("「そっちのほうが繧上ってことだ？」",
     ""),
     # "That means it's higher than that?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Hey, don't sniff it."
 
-    ("オ激レは肩をすくめる。†",
+    ("オレは肩をすくめる。†",
     ""),
     # I shrugged.†
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "I'll say something white like a boar."
 
-    ("オ激レは笑った。",
+    ("オレは笑った。",
     ""),
     # I laughed.
 
-    ("「実際の点箔数が物語ってるだｂ？	平均点はいつ烽もお前のほうが断然繿上じ痰ゃねーか」†",
+    ("「実際の点箔数が物語ってるだ？	平均点はいつ烽もお前のほうが断然繿上じ痰ゃねーか」†",
     ""),
     # "Doesn't the actual number of points tell you b? When is your average score even if you have a hot spot, you definitely have more phlegm?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "I'm leaving it out, whenever you want."
 
-    ("「そんなことないだｂ？	ほら、たとえば、受験のときの最纃後の追い桙込みとか。あのときはすごかったじ痰ゃないか」",
+    ("「そんなことないだ？	ほら、たとえば、受験のときの最纃後の追い桙込みとか。あのときはすごかったじ痰ゃないか」",
     ""),
     # "That's not the case? See, for example, the purse after the very last minute when taking the exam. That was amazing at that time, isn't it?"
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # "That really put me in my heart."
 
-    ("「おかげで人生の半分くらいのパ純ワーを消諸しちまった。いまは烽もうガス㏍欠さ」",
+    ("「おかげで人生の半分くらいのパ純ワーを消諸しちまった。いまは烽もうガス欠さ」",
     ""),
     # "Thanks to this, I've lost about half of my life's power. I'm already out of gas now."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("♂史は、竅やれ竄やれと苦笑する。†",
+    ("♂史は、やれやれと苦笑する。†",
     ""),
     # Masochi smiles wryly, saying, "You should just swear and tamper with me."†
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "That's because it's not a serious phlegm in the real world."
 
-    ("「增わかった、增わかった。いちおう肝に銘じておくよ」",
+    ("「わかった、わかった。いちおう肝に銘じておくよ」",
     ""),
     # "I get it, I get it. I'll keep it in mind."
 
-    ("オ激レはあいまいに言葉をにごした。†",
+    ("オレはあいまいに言葉をにごした。†",
     ""),
     # I spoke vaguely.†
 

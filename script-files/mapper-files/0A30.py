@@ -30,15 +30,15 @@ text_array = [
     ""),
     # That's a coincidence.†
 
-    ("どう竄やら今厓日は引っ越しのバイト辜らしい。",
+    ("どうやら今厓日は引っ越しのバイト辜らしい。",
     ""),
     # It seems like it's a part-time job that's been moving on the day.
 
-    ("タオ泣ルを首にかけ、シャャツのそでをまくり、諱頑芒丈そうなオッサンにまじって、元気に動き回ってる。†",
+    ("タオルを首にかけ、シャャツのそでをまくり、諱頑芒丈そうなオッサンにまじって、元気に動き回ってる。†",
     ""),
     # He is holding Tao's crying around his neck, rolling up his shawl sleeves, and moving around energetically, tying the sturdy old man who looks like he is.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

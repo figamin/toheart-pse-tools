@@ -19,7 +19,7 @@ text_array = [
     # "Yes, Senpai."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("声に気がついて、諱先輩はこっちを見た。†",
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Ahhhh phlegm" "
 
-    ("Ａ	いっし蛯ょに帰んない？閨",
+    ("Ａ	いっしょに帰んない？閨",
     ""),
     # A: Don't you go back to the essay?Relax
 

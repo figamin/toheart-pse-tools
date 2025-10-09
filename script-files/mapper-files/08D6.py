@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Fall Remie Likeability Event PS) (Selecting)†
 
-    ("「增わりぃ、その冾日は都∮合寘わるくてな」",
+    ("「わりぃ、その冾日は都∮合寘わるくてな」",
     ""),
     # "It's a shame, that day is bad for the capital."
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「ホント、增わりぃな」",
+    ("「ホント、わりぃな」",
     ""),
     # "Really, it's a shame."
 
-    ("「Ｗｂ≠ａｔ	＝ａ	入ｂ≠ａ高ｍｂ。残念デス…」",
+    ("「Ｗ≠ａｔ	＝ａ	入≠ａ高ｍ。残念デス…」",
     ""),
     # "Wb≠at =a Enter b≠a high mb. It's a shame..."
 

@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Yawning, I looked out the window and saw a familiar face from the cast.◯
 
-    ("メ泣く子燻も黙髢る蛯大髑企業『＠栖瑞グ泣ループ』のご令酪、芹°香様だ。",
+    ("メく子燻も黙髢る大企業『＠栖瑞グループ』のご令酪、芹°香様だ。",
     ""),
     # This is Seri-de-ka, a dairy company from the large skull company "@Suizui Gukkyu Loop", where even the children cry, is silent.
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # Why is this so much that he has a beautiful appearance, excellent grades, and is a picture-perfect drawing O...
 
-    ("オ激レとは住む世界さえ異なる人間のはずが、最近なにかと接点が多い。",
+    ("オレとは住む世界さえ異なる人間のはずが、最近なにかと接点が多い。",
     ""),
     # I'm sure he's a different person to live in from my geisha, but recently he's been in contact with something.
 
-    ("ほんと、人の盾縁って竄やつはなにがきっかけで始まるか、增わかんない烽もんだねぇ。†",
+    ("ほんと、人の盾縁ってやつはなにがきっかけで始まるか、わかんない烽もんだねぇ。†",
     ""),
     # In fact, it's hard to understand what kind of person's shields are like that when it comes to tampering with them.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # And it's that O-sama.
 
-    ("さっきからｒ鋳のベンチでひとり、なにを竄やってるのかというと…。",
+    ("さっきからｒ鋳のベンチでひとり、なにをやってるのかというと…。",
     ""),
     # I wonder what he's been doing on an R-cast bench for a while now...
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # I was just looking at the clouds in the warm morning sunshine.
 
-    ("マジでなに竄やってんだｂう。",
+    ("マジでなにやってんだう。",
     ""),
     # Seriously, what are you doing?
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # I wonder if it's a sunbath...?†
 
-    ("諱先輩は、まるで目を開けたまま寝てんじ痰ゃないのかと思えるほど、ピク潟リと烽も動かない。",
+    ("諱先輩は、まるで目を開けたまま寝てんじ痰ゃないのかと思えるほど、ピクリと烽も動かない。",
     ""),
     # The Hoshi Senpai couldn't move so hard that it felt as if he was sleeping with his eyes open.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # It's like a doll.
 
-    ("竅やっぱりへんな先輩だよ。◯",
+    ("やっぱりへんな先輩だよ。◯",
     ""),
     # He's an incredible senior after all.◯
 

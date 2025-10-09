@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Akari Scales Event 1F) (B Waving with a hand)†
 
-    ("オ激レは、じ痰ゃーなと手を振った。",
+    ("オレは、じ痰ゃーなと手を振った。",
     ""),
     # I waved my hand, sighing.
 
-    ("あかりはそんなオ激レには気づかず、廊下を烽歩いていった。◯",
+    ("あかりはそんなオレには気づかず、廊下を烽歩いていった。◯",
     ""),
     # Akari didn't notice such a thrill, and walked down the hallway.◯
 

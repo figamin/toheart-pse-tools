@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho Scales Event, 1st floor 3) (Select So I'm happy)†
 
-    ("「嬉しいっていうか、それなりに気が休まるな。みんなでいれば、悲しくなることはねえだｂうから」",
+    ("「嬉しいっていうか、それなりに気が休まるな。みんなでいれば、悲しくなることはねえだうから」",
     ""),
     # "I'm so happy, it's quite relaxing. If we're all together, we won't be sad."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Wow, I'm so happy."
 
-    ("志保はニッコ潟リというか、に竄やりと微笑む。",
+    ("志保はニッコリというか、にやりと微笑む。",
     ""),
     # Shiho smiles with a grin on the scene, rather than trying to get into it.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I just think that I'm happy."
 
-    ("「なんか引っかかるな、その言い福方…」",
+    ("「なんか引っかかるな、その言い方…」",
     ""),
     # "It's a bit annoying, that's the way you say it..."
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # "So you're interested in guys?"
 
-    ("「お前な、オ激レにそのケがあるように見えるか？」",
+    ("「お前な、オレにそのケがあるように見えるか？」",
     ""),
     # "You seem to have that trash on me?"
 
-    ("「增わからないから聞いてんのよ」",
+    ("「わからないから聞いてんのよ」",
     ""),
     # "I'm listening because I don't know."
 
-    ("「ある墲わけねーだｂっ！」",
+    ("「ある墲わけねーだっ！」",
     ""),
     # "There's no way there's anything!"
 
-    ("「ふ〜ん、竅やっぱりぃ？」",
+    ("「ふ〜ん、やっぱりぃ？」",
     ""),
     # "Hmm, do you think so?"
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "He's a guy who's not good at trying..."
 
-    ("「增わかったから、あんたは帰っていい墲わよ」",
+    ("「わかったから、あんたは帰っていい墲わよ」",
     ""),
     # "I understand, so you're fine to go home."
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # *Shiho says it's a good dog and drives away Hot too.
 
-    ("「增わーったよ！	もう誘うな、バカ！」†",
+    ("「わーったよ！	もう誘うな、バカ！」†",
     ""),
     # "I'm back! Don't invite me any more, you idiot!" †
 
-    ("オ激レは志保と別れ、さっさと帰った。◯",
+    ("オレは志保と別れ、さっさと帰った。◯",
     ""),
     # I broke up with Shiho and quickly went home.◯
 

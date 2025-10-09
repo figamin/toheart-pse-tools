@@ -10,11 +10,11 @@ text_array = [
     ""),
     # On that day, the lesson was held during the third fox time.
 
-    ("オ激レたち二年は全員笈視聴覚室に集められ、修学旅行のガイダンスを受けた。",
+    ("オレたち二年は全員笈視聴覚室に集められ、修学旅行のガイダンスを受けた。",
     ""),
     # During my second year, everyone was gathered in the audiovisual room and received guidance on the school trip.
 
-    ("旅行のしおりを受け取闔り、コースの烽説明、いｂいｂな高注意毎事項などを聞く。†",
+    ("旅行のしおりを受け取闔り、コースの烽説明、いいな高注意毎事項などを聞く。†",
     ""),
     # You will receive your travel bookmarks, listen to information about the course, and listen to all the information you need to be careful about.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # This year's destination is Hokkaido.
 
-    ("雄蝸大な土地、あふれる蛯大自然。",
+    ("雄蝸大な土地、あふれる大自然。",
     ""),
     # The cochleatic land, the overflowing great vineyard.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Tsukasa no Sensei also promising that "Hokkaido is big," and the guidance ended without a hitch.†
 
-    ("席に座ってパ宴ラパ宴ラしおりを眺めていると、嬉しそうな顔をしたあかりが竄やってきた。",
+    ("席に座ってパラパラしおりを眺めていると、嬉しそうな顔をしたあかりがやってきた。",
     ""),
     # As I sat down at my seat and looked at the banquet and banquet bookmarks, Akari came to me with a happy look on her face.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Oh, what?
 
-    ("嬉しそうな顔し竄やがって」†",
+    ("嬉しそうな顔しやがって」†",
     ""),
     # He looks happy and tampered with it."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Chisho-yan, you've been wanting to go to Hokkaido for a long time now."
 
-    ("「おう。憧齠れの北の蛯大地が、いよいよ目前に翌迫ってきたぜ」",
+    ("「おう。憧齠れの北の大地が、いよいよ目前に翌迫ってきたぜ」",
     ""),
     # "Yes. The northern lilies that I admire are finally approaching the next moment."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「そうい竄や、しおりのこのページだけどな」",
+    ("「そういや、しおりのこのページだけどな」",
     ""),
     # "It's a bookmark page, though."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("オ激レとあかりは、ふたりでしおりを見て、しばらく盛關り繧上がった。◯",
+    ("オレとあかりは、ふたりでしおりを見て、しばらく盛關り繧上がった。◯",
     ""),
     # I and Akari both saw the bookmarks and gathered together for a while.◯
 

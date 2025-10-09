@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Seri° Kaku, Scales Event 2F LV5)Seri (continued from Chosen ABC)†
 
-    ("そういえば先輩は、オ激レになにか用があるから訪ねてｗたんだよな。",
+    ("そういえば先輩は、オレになにか用があるから訪ねてｗたんだよな。",
     ""),
     # Come to think of it, my senior visited me because I had something to do with him lol.
 
-    ("「とこｂで先輩、オ激レに用ってのは…？」",
+    ("「とこで先輩、オレに用ってのは…？」",
     ""),
     # "What do you mean to use for me in this place, Senpai, who is this one that I'm using?"
 
@@ -19,10 +19,10 @@ text_array = [
     # The senior said with a little embarrassment.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ？	いっし蛯ょに帰闍りたいのでお誘いにｗましたって？」",
+    ("「えっ？	いっしょに帰闍りたいのでお誘いにｗましたって？」",
     ""),
     # "Huh? You wanted to come back to the essay so you invited me lol?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # So...†
 
-    ("「たった、たったそれだけのために、ずっとオ激レを待っててくれたのかよ…」",
+    ("「たった、たったそれだけのために、ずっとオレを待っててくれたのかよ…」",
     ""),
     # "I wonder if they've been waiting for me for so long for that reason..."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "She, Senpai...!"
 
-    ("氈次の瞬間、オ激レは先輩を抱きしめた。",
+    ("氈次の瞬間、オレは先輩を抱きしめた。",
     ""),
     # The next moment, I hugged my senior.
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # "...I'm sorry...I'm sorry..."
 
-    ("だが、オ激レが頭をなでながらそう言うと、諱先輩は竄やがて、",
+    ("だが、オレが頭をなでながらそう言うと、諱先輩はやがて、",
     ""),
     # However, when I patted my head and said that, Senpai, the senpai, began to fend off,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("体の力を抜き、うっすらとまぶたを閉じて、オ激レにすべてをあずけてきた。†",
+    ("体の力を抜き、うっすらとまぶたを閉じて、オレにすべてをあずけてきた。†",
     ""),
     # I relaxed my body, closed my eyelids slightly, and put everything in my head.†
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # Wow...
 
-    ("不覚に烽もモ泣けてきたぜ。",
+    ("不覚に烽もモけてきたぜ。",
     ""),
     # I was so moved that I couldn't help but cry.
 
-    ("ちくし蛯ょう、ほんとにオ激レって竄やつは…。",
+    ("ちくしょう、ほんとにオレってやつは…。",
     ""),
     # Chikushi Ebi, the ones that really go crazy and tamper with are...
 
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # "…………Seri°Ka."
 
-    ("オ激レは、耳燻もとで名前をささ竄やいた。",
+    ("オレは、耳燻もとで名前をささやいた。",
     ""),
     # My geire whispered his name, smoking his ears.
 
-    ("すると先輩は、オ激レの制梵服の肩をき繧ゅっと強くにぎった。",
+    ("すると先輩は、オレの制梵服の肩をき繧ゅっと強くにぎった。",
     ""),
     # Then my senior snuggled the shoulders of my brazen uniform tightly.
 
-    ("そして、つぶ竄やくように、",
+    ("そして、つぶやくように、",
     ""),
     # And, as if to mess up,
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Mr. Miss…"
 
-    ("と、オ激レの名前を呼び返した。†",
+    ("と、オレの名前を呼び返した。†",
     ""),
     # He called back my name.†
 
-    ("「いっし蛯ょに帰汲うぜ」",
+    ("「いっしょに帰汲うぜ」",
     ""),
     # "I'll return to the ephemeral."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # ...Ko-kun.
 
-    ("うなずく先輩を、オ激レは烽もう一度ぎ繧ゅっと強く抱きしめた。Å",
+    ("うなずく先輩を、オレは烽もう一度ぎ繧ゅっと強く抱きしめた。Å",
     ""),
     # I hugged my senior tightly and once more, hushed me tightly.Å
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # The old man who was accompanying me happened to be picked up on the day I was lying lol.
 
-    ("だから今厓日は、いっし蛯ょに帰鼡れます、諱先輩はそう言った。",
+    ("だから今厓日は、いっしょに帰鼡れます、諱先輩はそう言った。",
     ""),
     # So now, I can go back to the slut, my senior said.
 
-    ("いっし蛯ょに帰鼡れるってこと烽もそうだけど、それよりオ激レは、たったそれだけのために、ずっと待っていてくれた先輩に感動した。†",
+    ("いっしょに帰鼡れるってこと烽もそうだけど、それよりオレは、たったそれだけのために、ずっと待っていてくれた先輩に感動した。†",
     ""),
     # As with Yo, I was able to return to the slut, but even more so, I was moved by the senior who had been waiting for me for so long.†
 
@@ -147,14 +147,14 @@ text_array = [
     # "Isaac Senpai..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レの顔をのぞく、諱先輩。",
+    ("オレの顔をのぞく、諱先輩。",
     ""),
     # Senpai peers into my face.
 
-    ("オ激レはその手を取った。",
+    ("オレはその手を取った。",
     ""),
     # I took that hand.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # So...†
 
-    ("オ激レたちは学校を繧後にする。",
+    ("オレたちは学校を繧後にする。",
     ""),
     # We go out of school after we leave school.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # He has a strange, gentle spirit.
 
-    ("こうしてふたりいっし蛯ょに竄坂道を下驩るのは、堰初めてだよな…。",
+    ("こうしてふたりいっしょに坂道を下驩るのは、堰初めてだよな…。",
     ""),
     # This is the first time we've both of us descended the hill with this...
 
@@ -191,18 +191,18 @@ text_array = [
     # "O-sama~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("普黒塗闢りの鰍リムジンがキキィーッと目の前に竄停車して、£から痰例のじじいが現鼬れた。",
+    ("普黒塗闢りの鰍リムジンがキキィーッと目の前に停車して、£から痰例のじじいが現鼬れた。",
     ""),
     # A chrysanthemum limousine with a plain black lacquer stopped in front of me, and the old man with a phlegm appeared from the scene.
 
-    ("「おｏ様、お迎えにあがりました。…えっ？	お翌風邪のほうは烽もう蛯大苟丈夫なのですか…と？	ううっ、こんなр私めなぞの体を心配していただけるとは…。くうっ。だが、このおいぼれ、おｏ様のためとあらば、ち蛯ょっと竄やそっとの翌風邪なぞ…ごふっごふっごふっ！」†",
+    ("「おｏ様、お迎えにあがりました。…えっ？	お翌風邪のほうは烽もう大苟丈夫なのですか…と？	ううっ、こんなр私めなぞの体を心配していただけるとは…。くうっ。だが、このおいぼれ、おｏ様のためとあらば、ちょっとやそっとの翌風邪なぞ…ごふっごふっごふっ！」†",
     ""),
     # "O-sama, I've come to pick you up....Huh? Are you already strong in the next cold? Ugh, I never thought you'd be worried about my mysterious body... but this wickedness is for O-sama, and the cold afterwards are quiet...Gofugofugofu!" †
 
@@ -247,10 +247,10 @@ text_array = [
     # "...Gefu...I'm sorry. "Sasa, O-san, head to your car."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「諱先輩、今厓日はいっし蛯ょに帰鼡れるって…」",
+    ("「諱先輩、今厓日はいっしょに帰鼡れるって…」",
     ""),
     # "Isao Senpai, I'm sure I'll be able to return to Ebi on the day right now..."
 
@@ -263,7 +263,7 @@ text_array = [
     # "Isaac Senpai..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「さあ、＝早く。｢｢ごふごふっ！」",
@@ -278,11 +278,11 @@ text_array = [
     ""),
     # He was repeatedly sent by an old man in a black suit, and Senpai Kou was put on a nuisance.
 
-    ("磨走闡り獅去っていく鰍リムジンの汲窓から、諱先輩は、いつまで烽も、いつまで烽も、じっとオ激レだけを見つめていた。†",
+    ("走闡り獅去っていく鰍リムジンの汲窓から、諱先輩は、いつまで烽も、いつまで烽も、じっとオレだけを見つめていた。†",
     ""),
     # From the window of the lion's limousine, Ike-senpai stared at me, for how long, for how long, for how long, for hot, and how long, for hot, at me.†
 
-    ("オ激レが先輩を忘齧れて帰ったりしなけり痰ゃ、いまごｂは…。",
+    ("オレが先輩を忘齧れて帰ったりしなけり痰ゃ、いまごは…。",
     ""),
     # I'm not going to let my senior go home after forgetting my senior, so I'm not going to go home now...
 

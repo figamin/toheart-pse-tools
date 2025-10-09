@@ -10,11 +10,11 @@ text_array = [
     ""),
     # I went to school before noon.
 
-    ("少し≠早いけど、弓道箔部はまだ終尞わっていないのだｂうか。†",
+    ("少し≠早いけど、弓道箔部はまだ終尞わっていないのだうか。†",
     ""),
     # It's a little quick, but the archery foil section hasn't finished yet.†
 
-    ("冝日曜の学校って、オ激レには痰違和感があるな。†",
+    ("冝日曜の学校って、オレには痰違和感があるな。†",
     ""),
     # I have a sense of discomfort when I'm at school on Sundays.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "...Oh" †
 
-    ("戟レミィはニッコ潟リ微笑んで、",
+    ("戟レミィはニッコリ微笑んで、",
     ""),
     # Karemi smiled nigglingly,
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Absolutely..."
 
-    ("「＜カッタ。それじ痰ゃ、行きまし蛯ょ！」",
+    ("「＜カッタ。それじ痰ゃ、行きましょ！」",
     ""),
     # "<Cutta. That's all, let's go, let's go!"
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # I'll say that, but I don't feel bad about it.
 
-    ("「Ｎ盾ｏ	吹ｐ窒ｒ盾ｏｂｂ撃ｌｂ高ｍ！」†",
+    ("「Ｎ盾ｏ	吹ｐ窒ｒ盾ｏ撃ｌ高ｍ！」†",
     ""),
     # "N Shield O Blowing N Shield OBB Shot LB High M!"
 
-    ("「ふう…、竅やっとｒいたぜ」",
+    ("「ふう…、やっとｒいたぜ」",
     ""),
     # "Whew... I'm finally happy."
 
-    ("学校から出髀るまでに、同遠級生竦や繧上縁級生からさんざん竄冷笳やかされてしまった。",
+    ("学校から出髀るまでに、同遠級生竦や繧上縁級生からさんざん冷笳やかされてしまった。",
     ""),
     # By the time I left school, I was forced to be hesitant by my classmates and senior classmates.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # I hope you will not let the village ostracism be made because of that.
 
-    ("「どーしたの？	＝早く入唐」",
+    ("「どーしたの？	＝早く入」",
     ""),
     # "What's up? = I'm in Tang quickly."
 

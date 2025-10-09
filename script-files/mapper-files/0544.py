@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Aoi Likeability Event 1 After Selection A) (Continued from Selection AB)†
 
-    ("「とこｂで、諱先輩はいつ烽もパンなんですか？」",
+    ("「とこで、諱先輩はいつ烽もパンなんですか？」",
     ""),
     # "At the moment, when is Ko-senpai also bread?"
 
-    ("オ激レの手の烽ものを見て、葵ち痰ゃんが聞く。",
+    ("オレの手の烽ものを見て、葵ち痰ゃんが聞く。",
     ""),
     # Aoi Chisho-yan listens to me when he sees the hot food on my hands.
 
-    ("「ああ。オ激レんちって、両親共働きだから、母親熕も忙しくってさ。だいたいコ激レかな」",
+    ("「ああ。オレんちって、両親共働きだから、母親熕も忙しくってさ。だいたいコレかな」",
     ""),
     # "Yeah. My parents are both working, so my mother, Yi, is busy too. I think it's pretty much super exciting."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Is that so..."
 
-    ("ち蛯ょっぴり同贒情するような目をする彼濫女。",
+    ("ちょっぴり同贒情するような目をする彼濫女。",
     ""),
     # A boyfriend with eyes that are lying in love with each other.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # I'm right, here's one thing.†
 
-    ("「そり痰ゃあオ激レだってさ、たまには、愛訷情のこ烽もったうまい弁抹当が食べたいさ…」",
+    ("「そり痰ゃあオレだってさ、たまには、愛訷情のこ烽もったうまい弁抹当が食べたいさ…」",
     ""),
     # "I'm really excited, I want to eat some delicious bento with hot, lovely hot springs..."
 
-    ("オ激レは哀鼈れみを誘う声で言った。",
+    ("オレは哀鼈れみを誘う声で言った。",
     ""),
     # I said in a voice that tempted me.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "I'm tired of bread already..."
 
-    ("そして、增わざとらしく、横目で葵ち痰ゃんを見た。†",
+    ("そして、わざとらしく、横目で葵ち痰ゃんを見た。†",
     ""),
     # Then, as if deliberately, he looked at Aoi Chisho-yan.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Can you bring me some bento peaches?!"
 
-    ("キ宴ラキ宴ラ輝いた目ですかさずオ激レが言うと、葵ち痰ゃんは『あっ』と福口に手を魔当て、言葉を止めた。†",
+    ("キラキラ輝いた目ですかさずオレが言うと、葵ち痰ゃんは『あっ』と口に手を魔当て、言葉を止めた。†",
     ""),
     # The banquet and banquet were shining eyes, so I said, and Aoi Chisho-yan put his hand on Fukuguchi and stopped talking.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Ah, in fact, I told my mother, ""
 
-    ("「いい竄や！」",
+    ("「いいや！」",
     ""),
     # "Tampering!"
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("「竅やったー！」†",
+    ("「やったー！」†",
     ""),
     # "Yes!"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "And don't expect too much, either.
 
-    ("私、閨手謗先がぶきっち蛯ょで…」",
+    ("私、閨手謗先がぶきっちょで…」",
     ""),
     # I'm the one who slandered me..."
 

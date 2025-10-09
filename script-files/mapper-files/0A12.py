@@ -2,15 +2,15 @@
 # Source file: 0A12.txt
 
 text_array = [
-    ("（Ａ	見たいテ激レビで烽もあんのか？）†",
+    ("（Ａ	見たいテレビで烽もあんのか？）†",
     ""),
     # (A: Is there a hot spring with the super revival you want to watch?)†
 
-    ("「見たいテ激レビで烽もあんのか？」",
+    ("「見たいテレビで烽もあんのか？」",
     ""),
     # "Is there a hot spring with the intense TV drama you want to see?"
 
-    ("「えっ、テ激レビ？	テ、テ激レビは、あんまりみないから〜」",
+    ("「えっ、テレビ？	テ、テレビは、あんまりみないから〜」",
     ""),
     # "What, a super revival? I don't really see super revivals on TV."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Do you often hurry up for that reason?"
 
-    ("「まあ、たまに見たいド宴ラマの再厓放藍送とかを竄やってるときは」",
+    ("「まあ、たまに見たいドラマの再厓放藍送とかをやってるときは」",
     ""),
     # "Well, when you're tampering with the re-eating of the banquet llama you sometimes want to see."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Hmm" †
 
-    ("「テ激レビあんまり見ないって、テ激レビぎらいとか、そういう揩理由？」",
+    ("「テレビあんまり見ないって、テレビぎらいとか、そういう揩理由？」",
     ""),
     # "Is that why you don't watch TV super replies too much, or are you afraid of TV super replies, or something like that?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Eh, uh, um, studying, maybe...?"
 
-    ("「まーな。さすがにオ激レ焜も、勉強するときは切髏るかな」",
+    ("「まーな。さすがにオレ焜も、勉強するときは切髏るかな」",
     ""),
     # "Well, I guess I'll be able to cut my heart off when I study."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Ah, ah."
 
-    ("掾理女緒ち痰ゃんはｋけ出した。†",
+    ("掾理女緒ち痰ゃんは駆け出した。†",
     ""),
     # The girl started to get out of her mouth.†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # The group at Doyu was a group of judo foil clubs.
 
-    ("轣礼儀正しい柔道箔部は一階樺に聞こえるほどの蛯大声で、",
+    ("轣礼儀正しい柔道箔部は一階樺に聞こえるほどの大声で、",
     ""),
     # The polite judo foil club is loud enough to sound like a first-floor birch.
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # It's hard to believe that he is calling out such things with a mysterious powerhouse.†
 
-    ("だけど、けっき蛯ょくなにをそんなに慌てていたんだｂう？",
+    ("だけど、けっきょくなにをそんなに慌てていたんだう？",
     ""),
     # But, what were you really panicking about?
 

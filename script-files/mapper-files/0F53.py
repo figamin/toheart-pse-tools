@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Is it a gyap from the cultures of Kansai and Kanto?
 
-    ("これを聞かなかったら、オ激レ焜もきつねっこち痰ゃんと同じミスを犯してたことだｂう。",
+    ("これを聞かなかったら、オレ焜もきつねっこち痰ゃんと同じミスを犯してたことだう。",
     ""),
     # If I hadn't heard this, I'd have made the same mistake as my fox-like sputum.
 

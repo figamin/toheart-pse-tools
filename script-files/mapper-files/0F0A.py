@@ -2,19 +2,19 @@
 # Source file: 0F0A.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル２）閨（システムイベント	学年又末テスト繝後）閨（３／１９固闌定）†",
+    ("（ゲーセンバトル２）閨（システムイベント	学年又末テスト繝後）閨（３／１９固定）†",
     ""),
     # (Arcade Battle Cry 2) (System Events: Grade and Final Test) (3/19) †
 
-    ("「竅やっと終尞わったね」",
+    ("「やっと終尞わったね」",
     ""),
     # "It's finally finished."
 
-    ("今度はｉ史が竄やってきた。†",
+    ("今度はｉ史がやってきた。†",
     ""),
     # This time, I-Hisashi has started tampering with it.†
 
-    ("「諱よう、ごくｂうさん。どうだった？」",
+    ("「諱よう、ごくうさん。どうだった？」",
     ""),
     # "I'll be my name, sir, b-san. How was it?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Just judge by this face."
 
-    ("オ激レがそう言うと、♂史は納得したようにうなずいた。†",
+    ("オレがそう言うと、♂史は納得したようにうなずいた。†",
     ""),
     # When I said that, Makishi nodded in agreement.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "More than that, the penance has come to an end. Maybe we can all go out to play together on the day?"
 
-    ("オ激レは、今朝あかりと言ってたことを提案した。",
+    ("オレは、今朝あかりと言ってたことを提案した。",
     ""),
     # I suggested that I was Akari this morning.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "nice.
 
-    ("部賦の福練習熄も明坙日からだし」",
+    ("部賦の練習熄も明坙日からだし」",
     ""),
     # The club's fortune training session will also start from the Ming Shun Day."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I'm here...! Hey!!"
 
-    ("不意に、なに竄やら宸騒がしくオ激レを呼ぶ声がした。",
+    ("不意に、なにやら宸騒がしくオレを呼ぶ声がした。",
     ""),
     # Suddenly, there was a loud noise, yelling at me.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # It's Shiho.
 
-    ("「…なんだよ。さ墲わ竄やかな達成感を艪台無しにするようなでけー声で」",
+    ("「…なんだよ。さ墲わやかな達成感を台無しにするようなでけー声で」",
     ""),
     # "...What is it? In a loud voice that seems to ruin the silly sense of accomplishment."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Then Shiho came over and over again,
 
-    ("「ねえねえ、今厓日はみんなでゲーセン行くんでし蛯ょ？」",
+    ("「ねえねえ、今厓日はみんなでゲーセン行くんでしょ？」",
     ""),
     # "Hey, hey, we're all going to the arcade on the day right now, slut?"
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "Why? Don't you have to phlegm like that?"
 
-    ("「いつｌまったんだよ、そんなｋ体的に」†",
+    ("「いつｌまったんだよ、そんな駆体的に」†",
     ""),
     # "When did you get 1, so in your physical condition"
 
-    ("「あ、多分それ、п私が言ったんだ。ゲーセンかカ宴ラオケがいいかなーって」",
+    ("「あ、多分それ、п私が言ったんだ。ゲーセンかカラオケがいいかなーって」",
     ""),
     # "Oh, maybe that's what I said. I wonder if an arcade or a banquet raoke would be better."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Well, wherever you go, it's fine."
 
-    ("「じ痰ゃあ、そうとｌまれば行動謫よ。パーッとゲームして、テストのスト激レス解消ね」",
+    ("「じ痰ゃあ、そうとｌまれば行動謫よ。パーッとゲームして、テストのストレス解消ね」",
     ""),
     # "You'll have to be careful, and if you're going to do something, you'll be in the mood. Play a game and get rid of the test's stricken response."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Yes" ◯
 
-    ("という墲わけで、ゲーセンに竄やってきた。",
+    ("という墲わけで、ゲーセンにやってきた。",
     ""),
     # That's why I came to the arcade.
 
@@ -122,15 +122,15 @@ text_array = [
     ""),
     # The test termination has ended, and since the day of the Meiang and Ming Shun is a celebration, the body and soul are both light and light.†
 
-    ("「諱第２回、ゲーセンバト泣ル〜！	ドンドン、パフパフ、ヒャーヒャー！」",
+    ("「諱第２回、ゲーセンバトル〜！	ドンドン、パフパフ、ヒャーヒャー！」",
     ""),
     # "I've been crying out of the second anniversary, arcade battles! Don't, Puff Puff, Hyaaahhhh!"
 
-    ("「え〜っ、また竄やるの〜？」",
+    ("「え〜っ、またやるの〜？」",
     ""),
     # "Eh, are you going to tamper with me again?"
 
-    ("「あれを竄やらなき痰ゃ始まんないでし蛯ょ？」†",
+    ("「あれをやらなき痰ゃ始まんないでしょ？」†",
     ""),
     # "If you don't tamper with that, it won't start, is that sputum?"
 
@@ -150,15 +150,15 @@ text_array = [
     ""),
     # "It's phlegm, it's phlegm.
 
-    ("やｂ竄やｂっ？」",
+    ("ややっ？」",
     ""),
     # Or b-drugs or b?”
 
-    ("「…ったく、し蛯ょーがねーな」",
+    ("「…ったく、しょーがねーな」",
     ""),
     # "...Not really, no slut."
 
-    ("つき№合って竄やっか。†",
+    ("つき№合ってやっか。†",
     ""),
     # Let's tamper with it by matching it.†
 
@@ -170,11 +170,11 @@ text_array = [
     ""),
     # "Heart by Heart"
 
-    ("制梵服藍女子ｎ高生が、でっかいハムスターだか、うさぎだとかと墲戦う、意味不明のアクシ㏍ョンゲームだ。",
+    ("制梵服藍女子ｎ高生が、でっかいハムスターだか、うさぎだとかと墲戦う、意味不明のアクションゲームだ。",
     ""),
     # It's an incomprehensible actuation game in which high school girls in Sanskrit uniforms fight against big hamsters and rabbits.
 
-    ("登齠場キャャ宴ラにはなんとなく見覚えがあり、どう烽も他人の気がしないのは、気のせいか。†",
+    ("登齠場キャャラにはなんとなく見覚えがあり、どう烽も他人の気がしないのは、気のせいか。†",
     ""),
     # I somehow recognised the registration hall, and I wonder if it's just my imagination that I don't feel like a person.†
 
@@ -182,11 +182,11 @@ text_array = [
     ""),
     # Just like last time, I first played a surge in Jayanken's match against the other team.
 
-    ("また烽も竄やオ激レの勝ち。",
+    ("また烽もやオレの勝ち。",
     ""),
     # Also, the battle and my fierce victory was won.
 
-    ("これで指名権はオ激レにあるって墲わけだ。†",
+    ("これで指名権はオレにあるって墲わけだ。†",
     ""),
     # This means that I have the right to nomination.†
 

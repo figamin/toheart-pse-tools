@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("もいっし蛯ょに帰汲」†",
+    ("もいっしょに帰汲」†",
     ""),
     # I'll return to the essays"
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # A: That's fine.Relax
 
-    ("Ｂ	增わりぃけど、今厓日は…。閨",
+    ("Ｂ	わりぃけど、今厓日は…。閨",
     ""),
     # B It's a bit late, but it's the day I'm off now...Relax
 

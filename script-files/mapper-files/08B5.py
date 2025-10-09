@@ -2,11 +2,11 @@
 # Source file: 08B5.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	「潤ワ潟リィけど」）†",
+    ("（戟レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	「潤ワリィけど」）†",
     ""),
     # (Game Remy Scale Event 1st Floor 3 LV2) (Selection So "Junwagata Li") †
 
-    ("「潤ワ潟リィけど今厓日はち蛯ょっと、用があるんだ」",
+    ("「潤ワリィけど今厓日はちょっと、用があるんだ」",
     ""),
     # "Junwagata Li, but I have something to do now."
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "...Is that so?"
 
-    ("「ホント、增わりぃな」",
+    ("「ホント、わりぃな」",
     ""),
     # "Really, it's a shame."
 
-    ("オ激レは平謝闔りで通した。†",
+    ("オレは平謝闔りで通した。†",
     ""),
     # I passed through with gratitude.†
 

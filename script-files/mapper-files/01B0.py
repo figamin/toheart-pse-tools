@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari Scales Event: Departing from school) (B Kamai is so cute)†
 
-    ("「…竅やっぱ、いくら見て烽もか墲わいくねー增わ」",
+    ("「…やっぱ、いくら見て烽もか墲わいくねーわ」",
     ""),
     # "...After all, it's so cute, even though you look at it."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Yeah, I want it, buy me" †
 
-    ("結局あかりは、オ激レの意見など耳燻も貸さずにクマチャウをモ買うことにした。",
+    ("結局あかりは、オレの意見など耳燻も貸さずにクマチャウをモ買うことにした。",
     ""),
     # In the end, Akari decided to buy some bear chow without lent my ears to my opinions.
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "Uncle, please give me one of this"†
 
-    ("オ激レは烽もう一回、じっくりとクマチャウを観察してみた。",
+    ("オレは烽もう一回、じっくりとクマチャウを観察してみた。",
     ""),
     # I took another thorough observation of the bear chow.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("何度見て烽も、竅やっぱりか墲わいくない。†",
+    ("何度見て烽も、やっぱりか墲わいくない。†",
     ""),
     # Even if I watched it many times, I still didn't look cute.†
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # ...However, he is not very close to his girlfriend.
 
-    ("オ激レの福口から、好きとか凾嫌いとか言甯われて烽も困骰るだｂう。",
+    ("オレの口から、好きとか凾嫌いとか言甯われて烽も困骰るだう。",
     ""),
     # My hardcore Fukuguchi tells me that he likes me or dislikes me, and Ho is also in trouble.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Are you ok...?"
 
-    ("「そう。カ潟リフォ泣ルニアの太陽って感じ」",
+    ("「そう。カリフォルニアの太陽って感じ」",
     ""),
     # "Yes. It feels like the sun of Kagata Rifo-Crying."
 
-    ("いつ烽も陽気なア＜メ潟リカ人、ってノ潟リだｂう。†",
+    ("いつ烽も陽気なア＜メリカ人、ってノリだう。†",
     ""),
     # It's the kind of person who is always cheerful in the hot weather.†
 
@@ -70,15 +70,15 @@ text_array = [
     ""),
     # "Oh, oh" †
 
-    ("オ激レがこたえると、戟レミィは廊下をスキップしながら獅去っていった。",
+    ("オレがこたえると、戟レミィは廊下をスキップしながら獅去っていった。",
     ""),
     # When I responded, Karemy skipped the hallway and lioned away.
 
-    ("…あいつ、オ激レに気があるのかな？",
+    ("…あいつ、オレに気があるのかな？",
     ""),
     # ...I wonder if he's interested in me?
 
-    ("それにして烽も、話に脈獄絡がない竄やつだ。◯",
+    ("それにして烽も、話に脈獄絡がないやつだ。◯",
     ""),
     # But even Kano is a tampering thing that doesn't involve any confusion in the story.◯
 

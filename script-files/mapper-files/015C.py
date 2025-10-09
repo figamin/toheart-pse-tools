@@ -10,19 +10,19 @@ text_array = [
     ""),
     # Beep, beep...†
 
-    ("それで烽も朝は竄やってくる。",
+    ("それで烽も朝はやってくる。",
     ""),
     # So the hot springs start to come in the morning.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ほとんど№裸同然の格好で寝ちまったらしい。",
     ""),
     # Apparently he fell asleep dressed almost like a naked man.
 
-    ("ベッドの繧上で体を起こし、ほうけた顔で、ぼん竄やりと目の前を眺めた。†",
+    ("ベッドの繧上で体を起こし、ほうけた顔で、ぼんやりと目の前を眺めた。†",
     ""),
     # He lifted himself up on the bed, looking in front of him with a sloppy look on his face.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # On that day, I left the house for 10 minutes and earlier than the hot spring.
 
-    ("磨当然、あかりを避けるためだった。†",
+    ("当然、あかりを避けるためだった。†",
     ""),
     # Of course, it was to avoid light.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # I wanted to spend a little time on the hot water and keep it in order to keep it in a good condition.Å
 
-    ("席に座闕り、ぼん竄やりと汲窓の外を眺めていると｢｢。",
+    ("席に座闕り、ぼんやりと汲窓の外を眺めていると｢｢。",
     ""),
     # I sat in my seat and looked out the window as I sniffed and looked out the window.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Choo"
 
-    ("遅齟れてｒいたあかりが竄やってきた。†",
+    ("遅れてｒいたあかりがやってきた。†",
     ""),
     # Akari, who was late, started tampering with her.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Akari"
 
-    ("言葉を遮って、オ激レは言った。†",
+    ("言葉を遮って、オレは言った。†",
     ""),
     # I interrupted my words and said, "I'm not going to stop you."†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "What??"
 
-    ("「增わりぃけど、いまはち蛯ょっとひとりにしてくんねーか」",
+    ("「わりぃけど、いまはちょっとひとりにしてくんねーか」",
     ""),
     # "It's a shame, but now you'll leave me alone."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "………sorry"
 
-    ("あかりが獅去った繧後、オ激レは、ゴンッと額を打ちつけ、机にうつ嘯伏した。†",
+    ("あかりが獅去った繧後、オレは、ゴンッと額を打ちつけ、机にうつ嘯伏した。†",
     ""),
     # After Akari left, I thrust my forehead pounded and leaned against my desk.†
 

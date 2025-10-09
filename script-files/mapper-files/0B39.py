@@ -2,7 +2,7 @@
 # Source file: 0B39.txt
 
 text_array = [
-    ("「それじ痰ゃ、そｂそｂ始めよっか」",
+    ("「それじ痰ゃ、そそ始めよっか」",
     ""),
     # "That's all, let's start b, let's start b."
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("「セ潟リオ、グ鴻ローブの用意して」",
+    ("「セリオ、グ鴻ローブの用意して」",
     ""),
     # "Segata Rio prepares a Ghoo robe."
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "yes"†
 
-    ("オ激レは繧上薯を脱ぐと、足熨もとに置き、軽く準備運動して体を温めた。",
+    ("オレは繧上薯を脱ぐと、足熨もとに置き、軽く準備運動して体を温めた。",
     ""),
     # After taking off the potatoes and putting them on a noshi, I warmed up my body by warming up my legs.
 
-    ("それから、セ潟リオが揩持ってきたグ鴻ローブを手にはめる。†",
+    ("それから、セリオが揩持ってきたグ鴻ローブを手にはめる。†",
     ""),
     # Then he puts the Ghoon robe that Segata Rio had brought.†
 
@@ -71,14 +71,14 @@ text_array = [
     # Aya∴Ka laughed mischievously.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("挑発してるつ烽もりかよ？†",
     ""),
     # Is it a provocative Tsukamori?†
 
-    ("「で烽もどう？	なかなかできない烽もんでし蛯ょ、熟繒練者からク潟リーンヒットを奪うのは」",
+    ("「で烽もどう？	なかなかできない烽もんでしょ、熟繒練者からクリーンヒットを奪うのは」",
     ""),
     # "So what about Hot Springs? It's a rare thing to do, and it's the one that takes a Kugata Lean hit from the mature masters."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # If we are committed to winning and losing, why will we not be able to move boldly?”
 
-    ("「へえ、なんか蛯悟ってる墲わね」",
+    ("「へえ、なんか悟ってる墲わね」",
     ""),
     # "Whoa, I'm sure I'm realising something."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Thanks to you" †
 
-    ("「で烽も、。あなた、最燕初のこｂに艪比べるとずいぶん強くなったのよ」",
+    ("「で烽も、。あなた、最燕初のこに比べるとずいぶん強くなったのよ」",
     ""),
     # "And you, too. You've become much stronger when you compare it to the first one in the first place."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Yeah. To be honest, I'm also surprised. I've managed to improve so much in such a short period of time.
 
-    ("相闡手がр私じ痰ゃなければ、パンチ黹一発ぐらい、とっくに魔当たってるでし蛯ょうね」†",
+    ("相闡手がр私じ痰ゃなければ、パンチ黹一発ぐらい、とっくに魔当たってるでしょうね」†",
     ""),
     # If my partner doesn't have any phlegm, I've been hit by about a punching stone for a long time now."
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # "If you have a № friend who started during the same huang period, you can quickly find out if you compare them."
 
-    ("そうか、才能あるのか、オ激レ。†",
+    ("そうか、才能あるのか、オレ。†",
     ""),
     # I see, is he talented? I'm super excited.†
 
-    ("「だからр私燻も、最燕初は冗談半分で鰍相闡手してたけど、最近はお烽もしｂい墲わ。このまま一発熹も烽もら墲わないで逃げ切齔れるのか、自分で烽も汲結構ギ潟リギ潟リだから」",
+    ("「だからр私燻も、最燕初は冗談半分で鰍相闡手してたけど、最近はお烽もしい墲わ。このまま一発熹も烽もら墲わないで逃げ切齔れるのか、自分で烽も汲結構ギリギリだから」",
     ""),
     # "So, I used to smoke in the first place, and I was just kidding myself, but recently I've been getting a good stomp. I wonder if I can keep trying to get away without having to get a quick shot or a hot pot, so I'm pretty sure I'll be able to pull out some hot pot myself."
 
@@ -174,23 +174,23 @@ text_array = [
     ""),
     # "Huh"
 
-    ("綾∴香の竄やつ、じつは、びびってんじ痰ゃ…。†",
+    ("綾∴香のやつ、じつは、びびってんじ痰ゃ…。†",
     ""),
     # Aya∴The tampering with fragrance is actually quite frightening...†
 
-    ("「で烽もр私って、ギ潟リギ潟リになればなるほど、燃えるし、強くなるタイプなのよねー」",
+    ("「で烽もр私って、ギリギリになればなるほど、燃えるし、強くなるタイプなのよねー」",
     ""),
     # "And I'm the type who becomes a gigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("凵嫌なこと言い竄やがる。",
+    ("凵嫌なこと言いやがる。",
     ""),
     # They're slandering things.
 
-    ("い竄や、これ烽も心攝理嵭戦のうちか。†",
+    ("いや、これ烽も心攝理嵭戦のうちか。†",
     ""),
     # Is this a battle of heart attack?†
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "Well, let's start earlier than that."
 
-    ("「そうね。じ痰ゃあ、セ潟リオ」",
+    ("「そうね。じ痰ゃあ、セリオ」",
     ""),
     # "Yeah. Seragata Rio."
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("綾∴香に呼ばれ、審判のセ潟リオが前に出髀る。",
+    ("綾∴香に呼ばれ、審判のセリオが前に出髀る。",
     ""),
     # Called by Aya∴Ka, the judge, Segata Rio, comes forward.
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "It's good, start off with phlegm."
 
-    ("綾∴香が構え、オ激レ焜も同椏時に構えを取骼る。◯",
+    ("綾∴香が構え、オレ焜も同椏時に構えを取骼る。◯",
     ""),
     # Aya∴Ka takes the stance, and my stance takes the stance when the same time comes.◯
 
@@ -227,11 +227,11 @@ text_array = [
     # Lady: ""
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("これが最纃後だ。",
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # It's an infight.
 
-    ("オ激レ焜も離齬れず、受けて立つ！†",
+    ("オレ焜も離齬れず、受けて立つ！†",
     ""),
     # My heart is still in unison, and I'm taking it!†
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # Spa Ann!
 
-    ("幕を開けた途端、接近寀戦のモ激しい打ち№合いが始まった。†",
+    ("幕を開けた途端、接近寀戦のモしい打ち№合いが始まった。†",
     ""),
     # As soon as the curtain began, the fierce battle of close-up battle began.†
 
@@ -306,7 +306,7 @@ text_array = [
     ""),
     # Bang!
 
-    ("オ激レは右回濶りに逃げる。†",
+    ("オレは右回濶りに逃げる。†",
     ""),
     # My erect escapes to turn right.†
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # My legs stopped, Chaangsu!
 
-    ("オ激レは懐に入闢り桙込んで、左フックを冾放つ！",
+    ("オレは懐に入闢り桙込んで、左フックを冾放つ！",
     ""),
     # My gangbang enters my pocket, sniffs, and fires a left hook!
 
@@ -358,7 +358,7 @@ text_array = [
     ""),
     # Damn it!
 
-    ("綾∴香は右でパ潟リー（受け流し）する。†",
+    ("綾∴香は右でパリー（受け流し）する。†",
     ""),
     # Aya∴Ka parries the parlor on the right.†
 
@@ -386,7 +386,7 @@ text_array = [
     ""),
     # A hit in your head!
 
-    ("オ激レの汲視界が軽く揺齬れる。†",
+    ("オレの汲視界が軽く揺齬れる。†",
     ""),
     # My vision was slightly shaken.†
 
@@ -394,11 +394,11 @@ text_array = [
     ""),
     # Aya∴Ka's hits!
 
-    ("反射的に、オ激レはダッキングする。",
+    ("反射的に、オレはダッキングする。",
     ""),
     # Reflexively, my ramblings ducking.
 
-    ("ヒザを獅落とし、綾∴香のスト激レートを真下に避ける。",
+    ("ヒザを獅落とし、綾∴香のストレートを真下に避ける。",
     ""),
     # Drop your knees and avoid Aya∴Ka's sharp rating directly below.
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # Aya∴Ka creates a gap!†
 
-    ("オ激レの反ｔ撃！",
+    ("オレの反ｔ撃！",
     ""),
     # My violent counter-t-shot!
 
@@ -454,7 +454,7 @@ text_array = [
     ""),
     # Shall I quit...!?
 
-    ("い竄や、駄目だ！",
+    ("いや、駄目だ！",
     ""),
     # It's not good, it's no good!
 

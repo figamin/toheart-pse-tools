@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Ah, I feel so sleepy now..."
 
-    ("「ふぁ〜あ。なにしｂ、昨厓日は嘯字ばっかの本を一気に読んだからな」",
+    ("「ふぁ〜あ。なにし、昨厓日は嘯字ばっかの本を一気に読んだからな」",
     ""),
     # "Ahhh. What is it? Last day, I read a book that was written all over the place all at once."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Amazing, sputum."
 
-    ("「感心するだｂ？	けどな、ふあぁ…勉強の本じ痰ゃねえよ」◯",
+    ("「感心するだ？	けどな、ふあぁ…勉強の本じ痰ゃねえよ」◯",
     ""),
     # "Are you impressed? But, uh... the main point of studying is phlegm." ◯
 

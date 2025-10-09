@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri°Chuang, 1F, LV3)Seri (Select Sou A, call out.)Seri (£cast)†
 
-    ("オ激レは渡闢り廊下を経由してｒ鋳に出た。◯",
+    ("オレは渡闢り廊下を経由してｒ鋳に出た。◯",
     ""),
     # My gekire went out to the r-casting hallway.◯
 
@@ -19,7 +19,7 @@ text_array = [
     # I approached him and called out to him, and his senior fellow looked over me.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「諱よっ、また冾日光′浴してたのか？」",
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Senpai answered with Ko-kun.
 
-    ("「ほんと、好きだねえ、この場鰹所が。隣阯りに座って烽もいい？」",
+    ("「ほんと、好きだねえ、この場鰹所が。隣りに座って烽もいい？」",
     ""),
     # "I really like this bonito spot. Is it okay to sit next to you and roast?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Ko-kun...
 
-    ("オ激レは先輩の横にｍ會高ｺ奄した。†",
+    ("オレは先輩の横にｍ會高ｺ奄した。†",
     ""),
     # I went to Mkai Takako next to my senior.†
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # The weather was nice with a blue sky.
 
-    ("穏竕やかな陽射しと、さ墲わ竄やかな翌風が気搴持ちいい。",
+    ("穏竕やかな陽射しと、さ墲わやかな翌風が気搴持ちいい。",
     ""),
     # The gentle sunlight and the gentle after-wind are thrilling.
 
-    ("諱先輩がこうしてし蛯ょっち繧ゅうひなたぼっこしてるの烽も、なんとなく墲わかるぜ。",
+    ("諱先輩がこうしてしょっち繧ゅうひなたぼっこしてるの烽も、なんとなく墲わかるぜ。",
     ""),
     # I can understand how Senpai-senpai is doing this and basking in the air all the time.
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("蛛大きく伸びをして、オ激レは横を見た。†",
+    ("蛛大きく伸びをして、オレは横を見た。†",
     ""),
     # My head stretched out loudly, and I looked at the side.†
 
-    ("諱先輩は空の一点をぼーっと見繻上げていた。",
+    ("諱先輩は空の一点をぼーっと見上げていた。",
     ""),
     # Senpai Koto was staring at Sora's point casually.
 
-    ("まどｂんでいるように烽も見えるし、＝普段のままって気煖もする。†",
+    ("まどんでいるように烽も見えるし、＝普段のままって気煖もする。†",
     ""),
     # He also looks like he's in a madoka b, and he's also excited to be as normal.†
 
@@ -74,19 +74,19 @@ text_array = [
     ""),
     # A short gaze that can be spent with my senior.
 
-    ("学校が終尞わり、諱先輩の家からお迎えの車がｗ磯翌ﾜでの、增わずかな数十分。",
+    ("学校が終尞わり、諱先輩の家からお迎えの車がｗ磯翌ﾜでの、わずかな数十分。",
     ""),
     # As school was over, I got a car to pick me up from my senior's house lol Isohana, and it was only a few minutes long.
 
-    ("短い艪ゆえの、蛛大切なひとときだよな。†",
+    ("短いゆえの、蛛大切なひとときだよな。†",
     ""),
     # It's a precious moment because of the short squeal.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("それにして烽も、キ激レイだよな。",
+    ("それにして烽も、キレイだよな。",
     ""),
     # And so, the hot springs are also super-stolen.
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # As I look closely at it like this, I really feel that way.
 
-    ("艨ゆら艪ゆら翌風に揺齬れる髪熹も、磨薄い唇熕も、肌の窒白さ烽も、もうみんなカンペキって感じ。",
+    ("艨ゆらゆら翌風に揺齬れる髪熹も、薄い唇熕も、肌の窒白さ烽も、もうみんなカンペキって感じ。",
     ""),
     # The hair slurping and shaking with the next wind, the thin polished lips slurping, and the nitrogen and hot skin of the skin are all just fine.
 
-    ("生まれの痰違いって竄やつかね。†",
+    ("生まれの痰違いってやつかね。†",
     ""),
     # Is it because the difference in phlegm from birth is tampering?†
 
@@ -115,18 +115,18 @@ text_array = [
     # I'm not a fan, but a senior who is awkward.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("なんとなく、ち蛯ょっかいをかけたくなったオ激レは｢｢。",
+    ("なんとなく、ちょっかいをかけたくなったオレは｢｢。",
     ""),
     # For some reason, I felt like I was trying to make a lie.
 
-    ("Ａ	諱先輩の頭をグ潟リグ潟リした。閨",
+    ("Ａ	諱先輩の頭をグリグリした。閨",
     ""),
     # A: I rewatched my senior's head.Relax
 
-    ("Ｂ	諱先輩のつ竄やつ竄やの髪をほめた。閨",
+    ("Ｂ	諱先輩のつやつやの髪をほめた。閨",
     ""),
     # B: I praised my senior's tampering and tampering hair.Relax
 

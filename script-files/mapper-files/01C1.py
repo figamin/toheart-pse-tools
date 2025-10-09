@@ -2,7 +2,7 @@
 # Source file: 01C1.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（ＭＡＰ画面は『？』キャャ宴ラで）閨（４獅月３０冾日）閨（教室）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（ＭＡＰ画面は『？』キャャラで）閨（４獅月３０冾日）閨（教室）†",
     ""),
     # (Akari Scales Event 2F) (MAP screen is "?") (At the 30th day of the month) (Classroom) †
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Haruki is already over.
 
-    ("などと、冝放課繪後の汲窓のぼん竄やり眺めているうちに、どうしよう烽もなく眠くなってきた。",
+    ("などと、冝放課繪後の汲窓のぼんやり眺めているうちに、どうしよう烽もなく眠くなってきた。",
     ""),
     # As I watched the window after the school was smeared, I started to feel sleepy and sleepy.
 
-    ("Ａ	軽く一眠阮りする。閨",
+    ("Ａ	軽く一眠りする。閨",
     ""),
     # A: I slept briefly.Relax
 

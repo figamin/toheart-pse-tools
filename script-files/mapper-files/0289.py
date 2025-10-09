@@ -10,27 +10,27 @@ text_array = [
     ""),
     # "It's another day of Ming Shun."
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("こくん、と先輩はうなずいた。",
     ""),
     # Ko-kun, the senior nodded.
 
-    ("オ激レは手を振って先輩の前を通闥り過ぎた。†",
+    ("オレは手を振って先輩の前を通闥り過ぎた。†",
     ""),
     # I waved my hand and walked too far in front of my senior.†
 
-    ("竅坂道の途湯で、いかに烽もｂ高燕級といった感じの浮黒塗闢りの鰍リムジンとすれ痰違った。",
+    ("坂道の途湯で、いかに烽も高燕級といった感じの浮黒塗闢りの鰍リムジンとすれ痰違った。",
     ""),
     # It was a waterfall on a hill, and the hot water was like a floating black lacquer that looked like a B-high Tsubame-grade, and it was a bit different to the spurt.
 
-    ("多分、諱先輩んちの車だｂう。",
+    ("多分、諱先輩んちの車だう。",
     ""),
     # It's probably the car of my senior.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # As expected from Mr. O, you could greet me by car.
 
-    ("オ激レ焜もあ竄やかりたいねぇ。◯",
+    ("オレ焜もあやかりたいねぇ。◯",
     ""),
     # I want to be adamant too.◯
 

@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「『＃人だね』って意味で通じたんだｂ？	どういう意味の言葉なのか、戟レミィに聞いてみたかったんだよ」",
+    ("「『＃人だね』って意味で通じたんだ？	どういう意味の言葉なのか、戟レミィに聞いてみたかったんだよ」",
     ""),
     # "Did you understand the meaning of '#You're a person' b? I wanted to ask Karen Remie what the word meant."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # You use good words too."
 
-    ("「い竄や、まあ…オ激レだって、こと墲わざ竄や格言の一つ竄や二つ、使うこと烽もあるぜ」",
+    ("「いや、まあ…オレだって、こと墲わざや格言の一つや二つ、使うこと烽もあるぜ」",
     ""),
     # "It's tampering, well... I'm a bit of a slut, and there are also some tampering and two sayings, and I use them."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "You can also ask about other hot water."
 
-    ("「い竄や、今厓日は取闔りあえず、それだけだから」",
+    ("「いや、今厓日は取闔りあえず、それだけだから」",
     ""),
     # "It's a mess, I can't wait for the day right now, that's all."
 

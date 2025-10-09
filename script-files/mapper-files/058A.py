@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I wonder if it's because I want to know more about Aoi Chisho-yan...?"
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "What, пAre you talking about me...?"
 
-    ("オ激レは『うん』とうなずく。†",
+    ("オレは『うん』とうなずく。†",
     ""),
     # I nodded "Yes."†
 
-    ("「いまはただ見てるだけだし、言ってしまえばか竄やの外って感じだけど、いっし蛯ょに福練習すれば、もっと身近になれるんじ痰ゃないかと思って」",
+    ("「いまはただ見てるだけだし、言ってしまえばかやの外って感じだけど、いっしょに練習すれば、もっと身近になれるんじ痰ゃないかと思って」",
     ""),
     # "I'm just looking at it now, and to put it simply, it feels like it's tampering, but I think if I practice for the good fortune together, I can become closer to you, so I think it's not worth phlegm."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("オ激レが笑うと、葵ち痰ゃん烽も笑迴顔を返した。",
+    ("オレが笑うと、葵ち痰ゃん烽も笑迴顔を返した。",
     ""),
     # When I laughed, Aoi Chisho-yan-chan-san-chan's face turned back.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "What about Aoi Chisho-ya?"
 
-    ("オ激レがからかうように言うと、",
+    ("オレがからかうように言うと、",
     ""),
     # When I say to myself,
 

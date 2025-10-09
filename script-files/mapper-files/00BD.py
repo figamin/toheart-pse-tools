@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I heard these voices from the attack after the attack.
 
-    ("振關りｌくと、′こうのほうから葵ち痰ゃんがｋけてくる。†",
+    ("振關りｌくと、′こうのほうから葵ち痰ゃんが駆けてくる。†",
     ""),
     # As I shouted, Aoi Chisho-chan started to come from Kou.†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # In front of me, Aoi Chisho-yan said, breathing painfully with her shoulders.†
 
-    ("「葵ち痰ゃん、磨走ってきたのか？」",
+    ("「葵ち痰ゃん、走ってきたのか？」",
     ""),
     # "Aoi Chisho-yan, have you been polishing your way?"
 
-    ("「はい、今朝はち蛯ょっと遅齟れち痰ゃって…」",
+    ("「はい、今朝はちょっと遅れち痰ゃって…」",
     ""),
     # "Yes, this morning, I'm late and sputum..."
 
@@ -67,10 +67,10 @@ text_array = [
     # The two bow their heads and introduce themselves to each other.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("なんとなく、ち蛯ょっと、瘁違和感のある光景だよな。◯",
+    ("なんとなく、ちょっと、瘁違和感のある光景だよな。◯",
     ""),
     # For some reason, it's a scene that feels strange.◯
 

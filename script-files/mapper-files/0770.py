@@ -10,7 +10,7 @@ text_array = [
     ""),
     # So, what about lunch break on the day of the day?
 
-    ("琴音ち痰ゃんのとこｂに行ってみるかな。",
+    ("琴音ち痰ゃんのとこに行ってみるかな。",
     ""),
     # I think I'll go to Kotone Chisho-chan when it comes to B.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # B I won't go.Relax
 
-    ("竅やっぱ竄やめとこう。†",
+    ("やっぱやめとこう。†",
     ""),
     # Let's stop tampering after all.†
 

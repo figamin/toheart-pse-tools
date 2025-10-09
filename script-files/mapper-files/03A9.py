@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Tomoko's Scales Event Return Road LV2) (Continued from Chosen Soku B: Still More!)†
 
-    ("いー竅や、まだまだ！",
+    ("いーや、まだまだ！",
     ""),
     # Well, it's still too long!
 
-    ("たしかに最燕初の頃に艪比べると１５秒近くは縮めたが、それで烽も志保のрヤツにはあと烽もう１５秒くらいの差がある。",
+    ("たしかに最燕初の頃に比べると１５秒近くは縮めたが、それで烽も志保のрヤツにはあと烽もう１５秒くらいの差がある。",
     ""),
     # It's true that when I was in the early days of the year, it was nearly 15 seconds shorter than I did, but that's why Hoo is still a little over 15 seconds behind Shiho's р guy.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # If you think of him actually running around, does that mean he can't even see his ass?
 
-    ("ケ宴ラケ宴ラと笑う志保の顔が頭にｂ浮かんだ。†",
+    ("ケラケラと笑う志保の顔が頭に浮かんだ。†",
     ""),
     # Shiho's face chuckled, laughing, and the banquet was b-pitched.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Damn it, I'm so frustrated that I have whip and phlegm.
 
-    ("こんなとこｂで帰驪る墲わけにはいかねぇ。",
+    ("こんなとこで帰驪る墲わけにはいかねぇ。",
     ""),
     # There's no way we can go back to this place.
 
-    ("もっと福練習だ！†",
+    ("もっと練習だ！†",
     ""),
     # It's more fortune practice!†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "All right, Gor!"
 
-    ("諱画面に流齬れる、閨『メｃ盾ｏ獅ｎ№ｇ窒ｒ≠ａｔ浮ｕ撃ｌ≠ａｔ奄ｉ盾ｏ獅ｎ唐入！』閨	の輝く文囎字。†",
+    ("諱画面に流齬れる、閨『メｃ盾ｏ獅ｎ№ｇ窒ｒ≠ａｔ浮ｕ撃ｌ≠ａｔ奄ｉ盾ｏ獅ｎ入！』閨	の輝く文囎字。†",
     ""),
     # The screen of the name "Mec Shield O Lion No. G Nitro≠At Floating Lion≠At Amami Shield O Lion Tangento!"The shining text letter ""†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Time is!?
 
-    ("こいつは、かなりいっただｂ。",
+    ("こいつは、かなりいっただ。",
     ""),
     # This guy went quite a bit.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # What do you think?!?
 
-    ("おいおい、ウソだｂ、まだあいつと１０秒以繹上熄もの差があんのか！？",
+    ("おいおい、ウソだ、まだあいつと１０秒以繹上熄もの差があんのか！？",
     ""),
     # Hey hey, that's a lie, is there still a difference between him and that for over 10 seconds??
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # Whatever you think about it, it's a magical journey that reaches its limit.†
 
-    ("志保の２’０５”００ってタイム、もしかしたらオ激レの記憶瘟違いだったか？",
+    ("志保の２’０５”００ってタイム、もしかしたらオレの記憶瘟違いだったか？",
     ""),
     # Shiho's 2'05"00 was a time of my great memory?
 
-    ("い竄や、そんなはずはない。",
+    ("いや、そんなはずはない。",
     ""),
     # It's not like that.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Damn it.
 
-    ("そんなのいったいどう竄やったら縮まるんだ？",
+    ("そんなのいったいどうやったら縮まるんだ？",
     ""),
     # How on earth would it be reduced to something like that?
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # This wall is thick.†
 
-    ("ここまでに使った高総熨金額…１３００円ナ潟リ。",
+    ("ここまでに使った高総熨金額…１３００円ナリ。",
     ""),
     # The amount of the high gift I've used so far...1,300 yen.
 
-    ("志保におごって竄やるよりｂ高くついてるぜ。",
+    ("志保におごってやるより高くついてるぜ。",
     ""),
     # It's more expensive than buying Shiho and tampering with him.
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # It's getting kind of stupid.†
 
-    ("いい加減このへんで竄やめて帰汲うか。",
+    ("いい加減このへんでやめて帰汲うか。",
     ""),
     # I wonder if I'll stop tampering with this and go back.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # A I'll come back now.Relax
 
-    ("Ｂ	いー竅や、あきらめねーぞ！閨",
+    ("Ｂ	いーや、あきらめねーぞ！閨",
     ""),
     # B: Well, I won't give up!Relax
 

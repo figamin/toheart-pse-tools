@@ -2,15 +2,15 @@
 # Source file: 018A.txt
 
 text_array = [
-    ("（選択綜Ａ	竅やって烽もいいかな）†",
+    ("（選択綜Ａ	やって烽もいいかな）†",
     ""),
     # (Is it okay to do Chosen A and Hot?)†
 
-    ("「そうだな、そういうことなら、竅やるか」",
+    ("「そうだな、そういうことなら、やるか」",
     ""),
     # "Yeah, if that's the case, then I'll do it."
 
-    ("「うん、竅やｂう」",
+    ("「うん、やう」",
     ""),
     # "Yeah, I'm gonna b."
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "And then, let's eat some hot pot with the ≠menyar from earlier and get some hot pot."
 
-    ("「增わかった」",
+    ("「わかった」",
     ""),
     # "I understand."
 
-    ("「その他熨もオ激レの好物ばっかりでよｂしく」",
+    ("「その他熨もオレの好物ばっかりでよしく」",
     ""),
     # "I'm sure I'll just have other favorites from other Shichio."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Lucky is no good"
 
-    ("「增わかってるよ、そんなことは…」",
+    ("「わかってるよ、そんなことは…」",
     ""),
     # "I know that, that's what I mean..."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "What about that sigh?"
 
-    ("「ため息なんかついてねーだｂ、はあ…」",
+    ("「ため息なんかついてねーだ、はあ…」",
     ""),
     # "I didn't sigh b, haa..."
 

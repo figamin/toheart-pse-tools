@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (3rd Lion, 8th Saturday, Saturday, Sunday, Sunday) (1st time for the weir radio) (1st time for the weir radio) (Low-limited places to not listen to the weir radio)†
 
-    ("竅やめとこ。",
+    ("やめとこ。",
     ""),
     # Stop it.
 
-    ("竅やっぱ眠たい。",
+    ("やっぱ眠たい。",
     ""),
     # I really want to sleep.
 

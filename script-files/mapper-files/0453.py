@@ -2,7 +2,7 @@
 # Source file: 0453.txt
 
 text_array = [
-    ("（志保	好感度イベントＸ）閨（選択綜	３竄問目	×	氈勝ち）閨（ＳＥ：ブッブー）†",
+    ("（志保	好感度イベントＸ）閨（選択綜	３問目	×	氈勝ち）閨（ＳＥ：ブッブー）†",
     ""),
     # (Shiho Likeability Event X) (Choice 3rd Temptation Question × Win) (SE: Bubboo)†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "You idiot."
 
-    ("「氈次を見てｂよぉ」†",
+    ("「氈次を見てよぉ」†",
     ""),
     # "Look at me, b"
 
@@ -42,35 +42,35 @@ text_array = [
     ""),
     # ・†
 
-    ("秩白熱したデッドヒートの魔末、得点はオ激レの鰍リードで終尞わった。",
+    ("秩白熱したデッドヒートの魔末、得点はオレの鰍リードで終尞わった。",
     ""),
     # The orderly, dead heat was a deadly goal, and the score ended with a huge lead.
 
-    ("つまり、オ激レの勝女。",
+    ("つまり、オレの勝女。",
     ""),
     # In other words, I'm a huge winner.
 
-    ("「增わっはっは、增わりぃな志保。今回煢もオ激レの勝ちだ」",
+    ("「わっはっは、わりぃな志保。今回煢もオレの勝ちだ」",
     ""),
     # "Ahhh, it's a bit of a shame. This time, Han also won a huge victory."
 
-    ("と、ふんぞり返阨り、オ激レは彼濫女の肩をバンバン叩いた。†",
+    ("と、ふんぞり返阨り、オレは彼濫女の肩をバンバン叩いた。†",
     ""),
     # He leaned back, and I slapped the woman on the shoulder.†
 
-    ("前回同様、增わざと意地悪く言ったせいで、志保は怒闢り嘯爆発寸前の形褐相だ。",
+    ("前回同様、わざと意地悪く言ったせいで、志保は怒闢り嘯爆発寸前の形褐相だ。",
     ""),
     # Just like last time, Shiho is on the verge of anger and explosion due to his intentional, mean-looking statements.
 
-    ("オ激レとしては、こんなふうに志保を怒逑らせるのが楽しくて仕緖方がない。",
+    ("オレとしては、こんなふうに志保を怒逑らせるのが楽しくて仕緖方がない。",
     ""),
     # As a real fan, I enjoy making Shiho angry like this and have no way of trying to do it.
 
-    ("ほれ、憎まれ福口の一つで烽も叩いてみｂ。†",
+    ("ほれ、憎まれ口の一つで烽も叩いてみ。†",
     ""),
     # Come on, try criticizing Ho with one of the hated lucky mouths.†
 
-    ("とこｂが彼濫女は、",
+    ("とこが彼濫女は、",
     ""),
     # And then there is a woman who is a woman
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Hehehehe..."
 
-    ("意外に烽も、不敵な笑みをｂ浮かべた。",
+    ("意外に烽も、不敵な笑みを浮かべた。",
     ""),
     # Surprisingly, Hoo also smiled defiantly.
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # He said with an unnatural smile.†
 
-    ("オ激レはよう竄やく気がついた。",
+    ("オレはようやく気がついた。",
     ""),
     # I noticed that it was a bit of a rage.
 
-    ("彼濫女は、轣顔を引きつらせてまで、ム潟リсヤ潟リ余裕を浮装っていたんだ。",
+    ("彼濫女は、轣顔を引きつらせてまで、ムリсヤリ余裕を浮装っていたんだ。",
     ""),
     # The woman was even holding her face twitching, pretending to be full of room for Mugata Riсyakarari.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # The sun has already set in full...†
 
-    ("「イッケ〜ッ！	なんかに竄絶対苑負けない墲わよぉ！！」",
+    ("「イッケ〜ッ！	なんかに絶対苑負けない墲わよぉ！！」",
     ""),
     # "Ikke! I'm sure you'll never lose to the point of something!"
 
@@ -138,15 +138,15 @@ text_array = [
     ""),
     # "Hey, Shiho, I'll come back now." †
 
-    ("その冾日はオ激レの快進ｐ撃が続き、クイズから全汨勝で突っ魔走っていた。",
+    ("その冾日はオレの快進ｐ撃が続き、クイズから全汨勝で突っ魔走っていた。",
     ""),
     # On that day, my succession continued to hit a rapid pace, and I was running with a win from the quiz and running.
 
-    ("しかし、それが彼濫女の闘淘本能（？）に火を付けたらしく、一向に勝縁負を竄やめようとしない。",
+    ("しかし、それが彼濫女の闘淘本能（？）に火を付けたらしく、一向に勝縁負をやめようとしない。",
     ""),
     # However, it seems that this sparked the instincts (?) of a woman's fight, and he refuses to stop tampering with the victory.
 
-    ("增わざと奄負けて烽も、見破逕られてしまい、逆効果だ。†",
+    ("わざと奄負けて烽も、見破逕られてしまい、逆効果だ。†",
     ""),
     # The Amami deliberately loses, and the Hot will be spotted, and it has the opposite effect.†
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Kaji, please, Shiho, phlegm!" †
 
-    ("結局、志保がオ激レに勝ったゲームはモ麻摶雀。",
+    ("結局、志保がオレに勝ったゲームはモ麻摶雀。",
     ""),
     # In the end, the game Shiho defeated me was Moma-Masu-Masu.
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # It's a game that almost makes you think of it with luck.
 
-    ("どうで烽もいいようなｌ健をつけるまでに、何芍台の機寀種をр巡っただｂうか。",
+    ("どうで烽もいいようなｌ健をつけるまでに、何芍台の機寀種をр巡っただうか。",
     ""),
     # How many peonies were you going to go around the plant species before you could get some good health, which is good for you?
 
-    ("軽く２千円は飛んだｂう…。†",
+    ("軽く２千円は飛んだう…。†",
     ""),
     # I easily drove 2,000 yen...†
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # Shiho, dressed as if to run away from home, went home in a flash of excitement.
 
-    ("ちくし蛯ょう、これじ痰ゃどっちが勝ちなのか墲わかんねえな。†",
+    ("ちくしょう、これじ痰ゃどっちが勝ちなのか墲わかんねえな。†",
     ""),
     # I don't know which one wins if this is the phlegm.†
 

@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka) (If the deadline expires, the winner is not defeated) (A call comes at night) (A call arrives at 9 hours) (My room) (My room)
 
-    ("浴風呂燔もあがり、ベッドでごｂごｂしてると。",
+    ("浴風呂燔もあがり、ベッドでごごしてると。",
     ""),
     # The bathing was also gone and I was bingeed in bed.
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # I heard the sound of a phone ringing from underneath.†
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。†",
+    ("プルルルルルルルル…。†",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "What, Aya∴Kaori?
 
-    ("よくオ激レんちの電話番剥寘わかったな」",
+    ("よくオレんちの電話番剥寘わかったな」",
     ""),
     # I really understand that my phone number is stripped off."
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # "It's a shame, but please make sure you pass the deadline. Yes, so I won the winner."
 
-    ("「うっ、し蛯ょうがねー。そういうことだな」†",
+    ("「うっ、しょうがねー。そういうことだな」†",
     ""),
     # "Uh, there's no slut. That's what it is."
 
-    ("「もちｂん、約束は覚えてる墲わね？」",
+    ("「もちん、約束は覚えてる墲わね？」",
     ""),
     # "Mochibun, you remember the promise, right?"
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Tch."
 
-    ("し蛯ょうがねーな。†",
+    ("しょうがねーな。†",
     ""),
     # There's no essay.†
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "Hmm, what should I do?"
 
-    ("「金のかかることは勘弁してくれよ。オ激レ、自搦慢じ痰ゃないけど貧乏人だから」†",
+    ("「金のかかることは勘弁してくれよ。オレ、自搦慢じ痰ゃないけど貧乏人だから」†",
     ""),
     # "Please forgive me for the money. I'm extremely irritated, but I'm a poor person."
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # It's a phlegm.
 
-    ("オ激レは受話嶸器を置いた。",
+    ("オレは受話嶸器を置いた。",
     ""),
     # I placed the receiver.
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # I never thought he had forgotten about the victory that was a big hit.
 
-    ("オ激レとしたことが。◯",
+    ("オレとしたことが。◯",
     ""),
     # It was something that was extremely exciting.◯
 

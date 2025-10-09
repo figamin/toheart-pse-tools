@@ -2,11 +2,11 @@
 # Source file: 07DD.txt
 
 text_array = [
-    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	竅やめる）†",
+    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	やめる）†",
     ""),
     # (Kotone PS Scale Number Event) (Stop Selection)†
 
-    ("瘁例の階段での話をしようと思ったけど、竅やっぱ竄やめとこう。",
+    ("瘁例の階段での話をしようと思ったけど、やっぱやめとこう。",
     ""),
     # I was thinking of talking about the staircase of the miraculous situation, but I'll stop tampering with it.
 

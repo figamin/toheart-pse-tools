@@ -2,7 +2,7 @@
 # Source file: 02C5.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ３）閨（選択綜Ａ	頭をグ潟リグ潟リする）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ３）閨（選択綜Ａ	頭をグリグリする）†",
     ""),
     # (Seri°Kawa, Scales, 1F, LV3)Seri (Select Sou A, head is gugata rigugata)†
 
@@ -14,28 +14,28 @@ text_array = [
     ""),
     # "?"
 
-    ("オ激レはいきなり先輩の頭に両阯手のげんこつを魔当てると、痛くない程度にグ潟リグ潟リした。",
+    ("オレはいきなり先輩の頭に両手のげんこつを魔当てると、痛くない程度にグリグリした。",
     ""),
     # I suddenly hit the genkotsu of my hand against my senior's head and it started to squeal to the point where it didn't hurt.
 
-    ("グ潟リグ潟リグ潟リ…。†",
+    ("グリグリグリ…。†",
     ""),
     # Gugata Riggata Riggata Riggata Ri...†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱よく意味が揩理解できないらしく、き蛯ょとんとした顔でオ激レを見骭る先輩。",
+    ("諱よく意味が揩理解できないらしく、きょとんとした顔でオレを見骭る先輩。",
     ""),
     # It seems that he doesn't really understand the meaning, so his senior looks at me with a sly face.
 
-    ("えい、グ潟リグ潟リグ潟リ…。†",
+    ("えい、グリグリグリ…。†",
     ""),
     # Yeah, Gugata Riggata Riggata Riggata Ri...†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("そのうち、なんだか困った顔になった。",
@@ -46,27 +46,27 @@ text_array = [
     ""),
     # Looking at my senior's troubled face, I felt somehow happy.
 
-    ("もっと竄やｂう。†",
+    ("もっとやう。†",
     ""),
     # I'll tamper with it more.†
 
-    ("えい、えい、グ潟リグ潟リグ潟リグ潟リ…。",
+    ("えい、えい、グリグリグリグリ…。",
     ""),
     # Ei, Ei, Gugata Riggata Riggata Riggata Riggata Riggata Riggata Riggata Ri...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("えい、えい、グ潟リグ潟リグ潟リグ潟リグ潟リ…。",
+    ("えい、えい、グリグリグリグリグリ…。",
     ""),
     # Ei, Ei, Gugata Riggata Riggata Riggata Riggata Riggata Riggata Riggata Riggata Riggata Riggata Rig...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩はどうしていいか墲わからずに、オ激レのなすがまま、グ潟リグ潟リされ続けた。†",
+    ("諱先輩はどうしていいか墲わからずに、オレのなすがまま、グリグリされ続けた。†",
     ""),
     # Without knowing what to do with Senpai, I continued to be stolen at my mercy.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # I stopped trying because I was troubled enough.
 
-    ("そして先輩の顔をのぞき桙込んで、オ激レは、",
+    ("そして先輩の顔をのぞき桙込んで、オレは、",
     ""),
     # Then he peered into the senior's face and turned his throbbing
 
@@ -91,7 +91,7 @@ text_array = [
     # The senior is
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("こくん、とうなずいた。†",
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "My name is here!"
 
-    ("なにが『諱よし』なのかよく墲わからないが、とにかくオ激レはガッツポーズを取った。†",
+    ("なにが『諱よし』なのかよく墲わからないが、とにかくオレはガッツポーズを取った。†",
     ""),
     # I'm not sure what the "good name" is, but I took a fist pose anyway.†
 

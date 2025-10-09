@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The third day of the Maki Final Test Yasushi
 
-    ("廊下を通って、階段前まで竄やってｗた。",
+    ("廊下を通って、階段前までやってｗた。",
     ""),
     # I went through the hallway and ended up tampering with it all the way to the front of the stairs lol.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # It seems there's no one who knows.†
 
-    ("階段の下には生徒悼の艪御意見箱がある。",
+    ("階段の下には生徒悼の御意見箱がある。",
     ""),
     # Below the stairs is a box of comments to commemorate students.
 
-    ("諱よし、一般生徒の貴重な意見を入齠れといて竄やｂう。",
+    ("諱よし、一般生徒の貴重な意見を入齠れといてやう。",
     ""),
     # Okay, I'm going to send in valuable opinions from ordinary students and give them a try.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # I'm going to lose weight by increasing the weight of the school cafeteria...†
 
-    ("学校を出て、竅坂道を烽歩く。",
+    ("学校を出て、坂道を烽歩く。",
     ""),
     # I left school and walked down the hill.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Isn't there?
 
-    ("いい竄や、ひとりで帰汲。†",
+    ("いいや、ひとりで帰汲。†",
     ""),
     # I'm going to go back on my own.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Is Mingshun Japan English language and the current society?
 
-    ("グ宴ラマーと英皷語がべつべつにあるってのが、いまいち納得いかないぜ。",
+    ("グラマーと英皷語がべつべつにあるってのが、いまいち納得いかないぜ。",
     ""),
     # I can't really understand that the English language and English language are all mixed together.
 

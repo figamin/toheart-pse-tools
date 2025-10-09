@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Kotone, Scales Event PS) (Chone: Academic Center talk)†
 
-    ("「｢｢っつう感じで、オ激レたちが行くとついバト泣ルになっちまんだよ」",
+    ("「｢｢っつう感じで、オレたちが行くとついバトルになっちまんだよ」",
     ""),
     # ""The 'Tsuu Kanji' and when we go, I end up crying."
 
-    ("ゲーセンバト泣ルの話なんかが、琴音ち痰ゃんには珍しいだｂうと話して聞かせた。†",
+    ("ゲーセンバトルの話なんかが、琴音ち痰ゃんには珍しいだうと話して聞かせた。†",
     ""),
     # I told him about the story of the game center battle crying, which is rare for Kotone Chisho-yan.†
 
-    ("「…增わたし、ゲームセンターって怖いとこｂだと思ってました」",
+    ("「…わたし、ゲームセンターって怖いとこだと思ってました」",
     ""),
     # "...I thought arcades are scary places B."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "You're looking at me with a great eye, Kotone Chishonan..."
 
-    ("「竅やっぱり、間瘧違ってるんでし蛯ょうか…？」",
+    ("「やっぱり、間瘧違ってるんでしょうか…？」",
     ""),
     # "As expected, it's a different story, so let's go with the essay...?"
 
-    ("「それはな、たぶん蛯大人が間瘧違ってるんだ」",
+    ("「それはな、たぶん大人が間瘧違ってるんだ」",
     ""),
     # "That's probably because the ecchi adults are different."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "...?"
 
-    ("「ゲーセンはガ宴ラの悪い連中のたまり場って言うんだｂ？	オ激レたちが生まれる前はマジでそうだったらしいけどな」",
+    ("「ゲーセンはガラの悪い連中のたまり場って言うんだ？	オレたちが生まれる前はマジでそうだったらしいけどな」",
     ""),
     # "Arcades are called hangouts for the bad guys who are having a banquet b? Apparently it was really like that before the people who were ecstatic were born."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「けど、いまは痰違うぜ？	ゲーセンは小さな遊園地ってノ潟リかな？」",
+    ("「けど、いまは痰違うぜ？	ゲーセンは小さな遊園地ってノリかな？」",
     ""),
     # "But now, isn't it phlegm wrong? Is the arcade a small amusement park a little?
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Is that so..." †
 
-    ("「まあ琴音ち痰ゃんの言うように、多少はうるさいとこｂだけどな」",
+    ("「まあ琴音ち痰ゃんの言うように、多少はうるさいとこだけどな」",
     ""),
     # "Well, like Kotone Chisho-yan said, he's a bit noisy."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「竅やっぱ苦闍手か？	そういう場鰹所って」",
+    ("「やっぱ苦闍手か？	そういう場鰹所って」",
     ""),
     # "Are you suffering after all? That kind of bonito spot?"
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "a bit…"
 
-    ("「そっか…。オ激レ焜も琴音ち痰ゃんみたいな子をゲーセンに連齪れていくのは痰違うって思うしな。無摶理に行こうなんて言甯わねえよ」",
+    ("「そっか…。オレ焜も琴音ち痰ゃんみたいな子をゲーセンに連齪れていくのは痰違うって思うしな。無摶理に行こうなんて言甯わねえよ」",
     ""),
     # "I see... I think it's different to having a child who looks like Kotone Chishonan to the arcade, which is different. I don't want to say I'll go without saying anything."
 
-    ("「ありがとうございます…。で烽も、さんとなら、ごいっし蛯ょして烽もいいですよ」",
+    ("「ありがとうございます…。で烽も、さんとなら、ごいっしょして烽もいいですよ」",
     ""),
     # "Thank you... And if it's with you, you'll be happy to have a smack and a smack together."
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # "yes"†
 
-    ("う〜ん…、竅やっぱ琴音ち痰ゃんはゲーセンが苦闍手なのか…。",
+    ("う〜ん…、やっぱ琴音ち痰ゃんはゲーセンが苦闍手なのか…。",
     ""),
     # Hmm... after all, Kotone Chisho-yan is having a hard time with arcades...
 
-    ("まあ、オ激レ的に烽もゲームに熱白してる琴音ち痰ゃんなんてイ＜メージじ痰ゃねえからな。◯",
+    ("まあ、オレ的に烽もゲームに熱白してる琴音ち痰ゃんなんてイ＜メージじ痰ゃねえからな。◯",
     ""),
     # Well, I'm really excited about Kotone's sphin-chan, who's also passionate about the game, so it's just so amazing.◯
 

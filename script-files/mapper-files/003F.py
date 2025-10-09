@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Maki Final Test 2nd Day Yasushi
 
-    ("同じ２階の廊下をぐるっと回ってくると、文化系のク宴ラブハウスがある。",
+    ("同じ２階の廊下をぐるっと回ってくると、文化系のクラブハウスがある。",
     ""),
     # If you go round the corridor on the same second floor, you will find a culturally banquet love house.
 
-    ("い竄や、ただそれだけなんだけど。",
+    ("いや、ただそれだけなんだけど。",
     ""),
     # It's just tampering, but that's all.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # I went to the hallway on the first floor.
 
-    ("パ宴ラパ宴ラと生徒たちの姿がある。†",
+    ("パラパラと生徒たちの姿がある。†",
     ""),
     # There are banquets and students.†
 
-    ("階段の下には、生徒悼の艪御意見箱が設置されている。",
+    ("階段の下には、生徒悼の御意見箱が設置されている。",
     ""),
     # Below the stairs, there is a box of comments to commemorate students.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # I want to increase the variety of bread from the purchasing lees.†
 
-    ("＊淫俣桒棟肛盾濶ｺ濶りしてる竄坂道。",
+    ("＊淫俣桒棟肛盾濶ｺ濶りしてる坂道。",
     ""),
     # *The Tamami slope is smashing through the anus.
 
@@ -50,23 +50,23 @@ text_array = [
     ""),
     # I wonder if my feet are being given high heat at all?
 
-    ("下濶りはスケボーで、ガーッとｋけ抜けるの烽も気搴持ちよさそうだ。†",
+    ("下濶りはスケボーで、ガーッと駆け抜けるの烽も気搴持ちよさそうだ。†",
     ""),
     # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.†
 
-    ("明纐後卲日はグ宴ラマーと化学。",
+    ("明纐後卲日はグラマーと化学。",
     ""),
     # After the day of the year, there was a gland and chemistry.
 
-    ("竅やっぱ、戟レミィは母装国鼾語だけに、グ宴ラマー楽汪勝なんだｂうな。",
+    ("やっぱ、戟レミィは母装国鼾語だけに、グラマー楽汪勝なんだうな。",
     ""),
     # After all, since the mother-made Korean language, Gubanquet Lama is a ghost wangsheng.
 
-    ("体熨もグ宴ラマーだしな…って、う墲わっ、寒ぅ。",
+    ("体熨もグラマーだしな…って、う墲わっ、寒ぅ。",
     ""),
     # The body gift is also a banquet lamar... I'm waaaa, it's cold.
 
-    ("勉強は冾日曜坥日に竄やるってことで、諱取闔りあえず今厓日はぐっすり休煖もう。◯",
+    ("勉強は冾日曜坥日にやるってことで、諱取闔りあえず今厓日はぐっすり休煖もう。◯",
     ""),
     # Since studying is a little Sunday, I'll be doing it on Sunday, so I'll be able to get some good sleep on the day I'm off.◯
 

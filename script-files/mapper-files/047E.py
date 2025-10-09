@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("「ち蛯ょっとぉ、まだなに烽も言ってない墲わよ？」",
+    ("「ちょっとぉ、まだなに烽も言ってない墲わよ？」",
     ""),
     # "Ahhhh, I haven't said anything about it yet, right?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "What! Listen to me, sphin-yourself!"
 
-    ("「…增わ〜ったから、言ってみ」",
+    ("「…わ〜ったから、言ってみ」",
     ""),
     # "...I've broken up, so tell me."
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "What is that phlegm?"
 
-    ("「なんだって、カ宴ラオケのよ」†",
+    ("「なんだって、カラオケのよ」†",
     ""),
     # "What's that, it's Kabanquet Raoke"†
 
-    ("「カ宴ラオケぇ？	オ激レと勝縁負したいって意味だな？	′闘なんて盾ワケ夋わかんねえこと言うなよ」",
+    ("「カラオケぇ？	オレと勝縁負したいって意味だな？	′闘なんて盾ワケ夋わかんねえこと言うなよ」",
     ""),
     # "Kaban Raoke? Doesn't it mean that you want to win a victory with me? 'Don't say anything that you don't understand why fighting is a shield."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "It's a fight"
 
-    ("オ激レと志保はとにかく競い№合うのが好きだ。",
+    ("オレと志保はとにかく競い№合うのが好きだ。",
     ""),
     # I love how I and Shiho compete and match each other.
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # It's because they don't have to sputum with whom they want to lose to Amami alone, and they both don't want to lose to him.
 
-    ("掾理由は｢｢、なんだｂうか。",
+    ("掾理由は｢｢、なんだうか。",
     ""),
     # The reason for this is, "What is it b?
 
-    ("そうだ、あいつが勝つと人を竄冷笳やかすからだ。",
+    ("そうだ、あいつが勝つと人を冷笳やかすからだ。",
     ""),
     # That's right, if he wins, he will snatch up people.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # So, what should I do this time?
 
-    ("Ａ	竅やって竄やｂうじ痰ゃねえか。閨",
+    ("Ａ	やってやうじ痰ゃねえか。閨",
     ""),
     # A: Do you have to tamper with it or b?Relax
 

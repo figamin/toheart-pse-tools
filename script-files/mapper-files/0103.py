@@ -34,7 +34,7 @@ text_array = [
     ""),
     # That's amazing.
 
-    ("帰闍りに寄驫るから、家で待ってｂとか言ったくせによ。†",
+    ("帰闍りに寄驫るから、家で待ってとか言ったくせによ。†",
     ""),
     # I'd come over to visit him, so I said "b" at home.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Well, I'm not sure if I'll be honest with you on the day of the year, but I'm not sure if you're going to get it right.
 
-    ("保瀦健のほうは、ひととおり範囲のページを高総なめしとけばいいとして、竅問阮題は物摯理か。",
+    ("保瀦健のほうは、ひととおり範囲のページを高総なめしとけばいいとして、問題は物摯理か。",
     ""),
     # Horen Ken's question is that it's okay to tan all the pages in a full range, but is the question question sincere?
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # Akari's voice came.
 
-    ("諱よう竄やくｗたか。†",
+    ("諱ようやくｗたか。†",
     ""),
     # I'm going to give up my name lol Taka.†
 
-    ("オ激レは部屋を出て、階段を降闕りていった。",
+    ("オレは部屋を出て、階段を降闕りていった。",
     ""),
     # I left the room and descended the stairs.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("あかりはうなずくと、靴を脱ぎ、きちんとそｂえた。",
+    ("あかりはうなずくと、靴を脱ぎ、きちんとそえた。",
     ""),
     # Akari nodded, took off her shoes and put them on properly.
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "I wonder since studying for the first school year test."
 
-    ("「そうい竄やそうか」",
+    ("「そういやそうか」",
     ""),
     # "Is that what you mean?"
 
-    ("あかりはなに竄やら目を細めて、オ激レの部屋を見渡した。†",
+    ("あかりはなにやら目を細めて、オレの部屋を見渡した。†",
     ""),
     # Akari squinted her eyes for something, and looked around my room.†
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "The layout and hood won't change either."
 
-    ("「…これがベストポジシ㏍ョンだからな。模様がえのしようがねー諱よ」",
+    ("「…これがベストポジションだからな。模様がえのしようがねー諱よ」",
     ""),
     # "...This is the best position. I can't help but feel the pattern, my name is."
 
@@ -155,11 +155,11 @@ text_array = [
     # "what?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「…ふざけんなよ」",
@@ -170,23 +170,23 @@ text_array = [
     ""),
     # "Hehehe" †
 
-    ("隣阯りの部屋から揩持ってきたガ宴ラステーブ泣ルの繧上に勉強道搭鼡一式を広げる。",
+    ("隣りの部屋から揩持ってきたガラステーブルの繧上に勉強道搭鼡一式を広げる。",
     ""),
     # I spread a set of study paths over the banquet that I brought from the next room.
 
-    ("あかりはクッシ㏍ョンの繧上にｍ會高ｺ奄した。",
+    ("あかりはクッションの繧上にｍ會高ｺ奄した。",
     ""),
     # Akari went to Mkai Takako on the side of the cushions.
 
-    ("透け透けガ宴ラスで、あかりのナマふと烽も烽もがよく見える。†",
+    ("透け透けガラスで、あかりのナマふと烽も烽もがよく見える。†",
     ""),
     # The see-through banquet is over, and you can easily see the raw and hot springs of light.†
 
-    ("「お前、ち蛯ょっと太っただｂ？」",
+    ("「お前、ちょっと太っただ？」",
     ""),
     # "You're going to get fat hit?"
 
-    ("「えっ！？	うっ、うん、ち蛯ょっとだけ…。",
+    ("「えっ！？	うっ、うん、ちょっとだけ…。",
     ""),
     # "What?! Uh, yes, just silly...
 
@@ -198,11 +198,11 @@ text_array = [
     ""),
     # "Well?"
 
-    ("「竅やだ…。ダイエットしようかな」†",
+    ("「やだ…。ダイエットしようかな」†",
     ""),
     # "I don't want to... I wonder if I'll go on a diet" †
 
-    ("「ばーか、そこまでは太ってねー諱よ。以前が細すぎたっていうか、ち蛯ょうどいい感じじ痰ゃねーか？」",
+    ("「ばーか、そこまでは太ってねー諱よ。以前が細すぎたっていうか、ちょうどいい感じじ痰ゃねーか？」",
     ""),
     # "Oh my name isn't that fat. I mean, I was too thin before, but I guess you have a nice phlegm?"
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # And...
 
-    ("こうしてじっくり見骭ると、ここｂなしか、バスト焜も膨逍らみを揩増してきてるよーな気煖も…。†",
+    ("こうしてじっくり見骭ると、ここなしか、バスト焜も膨逍らみを揩増してきてるよーな気煖も…。†",
     ""),
     # When I looked closely at this point, I found out that my bust size was getting bigger and bigger...†
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # "What?"
 
-    ("「い、い竄や、べつに…」",
+    ("「い、いや、べつに…」",
     ""),
     # "No, it's tampering, it's all..."
 
-    ("オ激レはコホンとせき払いした。",
+    ("オレはコホンとせき払いした。",
     ""),
     # I coughed away.
 
@@ -246,11 +246,11 @@ text_array = [
     ""),
     # "I was looking over here now."
 
-    ("「い竄やあ、そのシャャーペン見て、梶相変﨑わらず子沁供っぽいｎ味してんなーって思ってな」",
+    ("「いやあ、そのシャャーペン見て、梶相変﨑わらず子沁供っぽいｎ味してんなーって思ってな」",
     ""),
     # "I'm not going to get it, I thought, looking at that Sharpen, Kaji Ai Henzaki is so stinging like a stinging experience."
 
-    ("「あっ、これ？	可愛いでし蛯ょ？」",
+    ("「あっ、これ？	可愛いでしょ？」",
     ""),
     # "Ah, this? Ah, is this? A cute eps?"
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Dogs don't have any phlegms, they're damn."
 
-    ("「くまぁ？	いぬだｂぉ〜？」",
+    ("「くまぁ？	いぬだぉ〜？」",
     ""),
     # "Damn it? Dog b?"
 
@@ -270,15 +270,15 @@ text_array = [
     ""),
     # "No, it's not good, come on."
 
-    ("あかりはシャャーペンをオ激レの顔に近づけた。†",
+    ("あかりはシャャーペンをオレの顔に近づけた。†",
     ""),
     # Akari brought the mechanical pencil closer to my face.†
 
-    ("「いぬ…だｂ？」",
+    ("「いぬ…だ？」",
     ""),
     # "Dog... is that b?"
 
-    ("「がおーう、がおーう！	ね、くまでし蛯ょ？」",
+    ("「がおーう、がおーう！	ね、くまでしょ？」",
     ""),
     # "Goooo, goooo! Hey, slut?"
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # "Silly"
 
-    ("オ激レはため息をついた。†",
+    ("オレはため息をついた。†",
     ""),
     # I sighed.†
 
@@ -302,11 +302,11 @@ text_array = [
     ""),
     # "That's right. Well, on the Ming Shun Day, the first frame is Hole-Hi, and the second frame is sincere."
 
-    ("「保瀦健は男嵐女別々だし、いっし蛯ょに勉強する必要はないよね」†",
+    ("「保瀦健は男嵐女別々だし、いっしょに勉強する必要はないよね」†",
     ""),
     # "Hore Ken is a separate male and female, so there's no need to study with Ebi."
 
-    ("「い竄や、せっかくだし、もっとく墲わしく勉強するって福方法燒もあるぜ」",
+    ("「いや、せっかくだし、もっとく墲わしく勉強するって方法燒もあるぜ」",
     ""),
     # "It's a pain, and since we're going to do it, there's also a way to save money by studying more carefully."
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # Akari smiles awkwardly and wryly.†
 
-    ("「ばーか、轣冗談だよ、轣冗談。それより烽も物摯理だ、物摯理。そっちの福方を重点的に竄やるぞ」",
+    ("「ばーか、轣冗談だよ、轣冗談。それより烽も物摯理だ、物摯理。そっちの方を重点的にやるぞ」",
     ""),
     # "Oh, I'm a joke, I'm a joke. More importantly, I'm a sincere, I'm a sincere person. I'll focus on that kind of happiness."
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("やっぱりち痰ゃん、п私謗より烽も竄問阮題を揩理解するのが≠早いなあって思って」",
+    ("やっぱりち痰ゃん、п私謗より烽も問題を揩理解するのが≠早いなあって思って」",
     ""),
     # I think it's quicker to understand the question of the question, rather than slander."
 
@@ -378,15 +378,15 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「そうだよ、竅絶対。ち痰ゃんは、もと烽もと頭が良いんだから。ただ｢｢」†",
+    ("「そうだよ、絶対。ち痰ゃんは、もと烽もと頭が良いんだから。ただ｢｢」†",
     ""),
     # "That's right, I'm sure. Chishonan is really smart, and I just say """†
 
-    ("「｢｢竊やらないだけだ、ってんだｂ？」",
+    ("「｢｢竊やらないだけだ、ってんだ？」",
     ""),
     # ""You just don't do it, you know, b?"
 
-    ("オ激レが『はいはい…』と両肩を寄せてそう言うと、あかりはクスッと微笑んだ。",
+    ("オレが『はいはい…』と両肩を寄せてそう言うと、あかりはクスッと微笑んだ。",
     ""),
     # When I said, "Yes, yes...", Akari smiled.
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "that's right.
 
-    ("やる気を出したち痰ゃんはなんだって出女磯翌鴦ｂｾってこと、п私、知ってるんだ。サッカーだって昔はｉ史ち痰ゃんより繧上闖手だった烽もんね？」†",
+    ("やる気を出したち痰ゃんはなんだって出女磯翌鴦ｾってこと、п私、知ってるんだ。サッカーだって昔はｉ史ち痰ゃんより繧上闖手だった烽もんね？」†",
     ""),
     # I know that I'm motivated and what kind of woman Isozuki's is, what kind of woman is.Even in soccer, it was a great player than I-Shin Chisho-chan, right?”†
 
@@ -410,7 +410,7 @@ text_array = [
     ""),
     # "Male history is basically dull."
 
-    ("「だから、今回のテスト焜も、きっとバッチ潟リだよ」",
+    ("「だから、今回のテスト焜も、きっとバッチリだよ」",
     ""),
     # "So this test case is sure to be a perfect match for this time."
 
@@ -423,18 +423,18 @@ text_array = [
     # "Yeah, surely."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「諱よしっ。",
     ""),
     # "I'm fine.
 
-    ("んじ痰ゃ、いっち蛯ょ気㈲合いを入齠れて頑張闥りますか」",
+    ("んじ痰ゃ、いっちょ気㈲合いを入齠れて頑張闥りますか」",
     ""),
     # "Would you like to try hard to get in touch with me?"
 
@@ -446,12 +446,12 @@ text_array = [
     ""),
     # With that in mind, Akari left.†
 
-    ("それにして烽もあかりのрヤツ、根注拠煖もないのにオ激レを揩持ち繧上げてくれるぜ。",
+    ("それにして烽もあかりのрヤツ、根注拠煖もないのにオレを揩持ち繧上げてくれるぜ。",
     ""),
     # And even though he's a light guy, he's still able to hold me up even though he doesn't have any roots.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("まあ、少しで烽もその冾期待にこたえるために、一驤夜漬けで烽も、諱頑張闥りますか。◯",

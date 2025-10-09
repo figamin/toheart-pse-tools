@@ -10,15 +10,15 @@ text_array = [
     ""),
     # "No, the worst."
 
-    ("ため息まじりのオ激レ。",
+    ("ため息まじりのオレ。",
     ""),
     # I sighed so hard.
 
-    ("「竅やったぁ！	な・か・まぁ！」",
+    ("「やったぁ！	な・か・まぁ！」",
     ""),
     # "Yeah! What? Well!"
 
-    ("同類を見つけ、志保は蛯大相びする。†",
+    ("同類を見つけ、志保は大相びする。†",
     ""),
     # Shiho finds a similar person and ecstasys.†
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "It's fine.
 
-    ("仲良くいっし蛯ょにセンセにマークされようね翌＠」",
+    ("仲良くいっしょにセンセにマークされようね翌＠」",
     ""),
     # Let's be marked by the teacher by our friend, the next day @."
 
-    ("そう言って、志保はバンバンとオ激レの肩を叩いた。",
+    ("そう言って、志保はバンバンとオレの肩を叩いた。",
     ""),
     # With that in mind, Shiho slapped me on the shoulder.
 

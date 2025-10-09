@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Well, I guess I'll eat some hot springs for breakfast too.
 
-    ("昨厓日、フ宴ランスパンをモ買っといたからな。",
+    ("昨厓日、フランスパンをモ買っといたからな。",
     ""),
     # Last day, I bought some Fen Rance Pan.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Throw in more butter.
 
-    ("そして、ふふ、驕秘蔵の食材、ベーコンと曹卵を竄冷蔵庫から取闔り出す。",
+    ("そして、ふふ、驕秘蔵の食材、ベーコンと曹卵を冷蔵庫から取闔り出す。",
     ""),
     # Heh, he takes the secret ingredients, bacon and caucas eggs, from the refrigerator.
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # Since Akari said this to me before, I have been eating breakfast in a flash of light.†
 
-    ("フ宴ライパンを火にかけ、十分に熱する。",
+    ("フライパンを火にかけ、十分に熱する。",
     ""),
     # Heat the fuban raipan over the heat and heat it thoroughly.
 
-    ("熱くなったとこｂで、軽く福油を引く。",
+    ("熱くなったとこで、軽く油を引く。",
     ""),
     # When it gets hot, lightly drip the lucky oil.
 
-    ("そして、まずはベーコン潟投下。",
+    ("そして、まずはベーコン投下。",
     ""),
     # And first, drop the bacon lagoon.
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # = A fragrant smell lingering over it.
 
-    ("ベーコンは両面をカ潟リカ潟リに焼き、皿へ。†",
+    ("ベーコンは両面をカリカリに焼き、皿へ。†",
     ""),
     # Bake both sides of the bacon into kagatarikarari and onto a plate.†
 
-    ("氈次はベーコンの福油が残ったフ宴ライパンに、早卵を鰍投下。",
+    ("氈次はベーコンの油が残ったフライパンに、早卵を鰍投下。",
     ""),
     # Hajime dropped the eggs quickly on the fuen raipan, which had bacon oil left behind.
 
@@ -90,31 +90,31 @@ text_array = [
     ""),
     # Conk...ja!
 
-    ("焼き福方はターンオーバー。",
+    ("焼き方はターンオーバー。",
     ""),
     # Yakifuku-cho is turned over.
 
-    ("﨟基本的にサニーサイドアップなオ激レだが、今厓日は痰違う。",
+    ("﨟基本的にサニーサイドアップなオレだが、今厓日は痰違う。",
     ""),
     # 﨟I'm basically a big fan of a sunny side up, but I'm not phlegmy right now.
 
-    ("せっかくのベーコンの福油だ、しっかり両面に味を焼き付けよう。†",
+    ("せっかくのベーコンの油だ、しっかり両面に味を焼き付けよう。†",
     ""),
     # It's a bacon lucky oil, so let's cook the flavor firmly on both sides.†
 
-    ("おっと、焼ける前にド潟リンクを用意しないとな。",
+    ("おっと、焼ける前にドリンクを用意しないとな。",
     ""),
     # Oops, I have to prepare some drinks before it can cook.
 
-    ("たしか竄冷蔵庫のｒに…。†",
+    ("たしか冷蔵庫のｒに…。†",
     ""),
     # It's true that it's in the fridge...†
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。†",
+    ("プルルルルルルルル…。†",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...†
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # On a morning like this, who is it from?†
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。†",
+    ("プルルルルルルルル…。†",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...†
 
@@ -147,7 +147,7 @@ text_array = [
     # "Yes." †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「もし烽もし」",
@@ -155,7 +155,7 @@ text_array = [
     # "If it's hot."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「もし烽もーし？」",
@@ -163,7 +163,7 @@ text_array = [
     # "What if there's a hot spring?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ、あっ、諱先輩！？」†",
@@ -187,14 +187,14 @@ text_array = [
     # "What's wrong, suddenly?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ？」†",
     ""),
     # "Huh?" †
 
-    ("諱先輩はオ激レに『いま、お暇ですか…？』と聞いてきたではないか。",
+    ("諱先輩はオレに『いま、お暇ですか…？』と聞いてきたではないか。",
     ""),
     # My senior said to me, "Are you bored now...?""I've heard this.
 
@@ -206,15 +206,15 @@ text_array = [
     ""),
     # O's invitation!
 
-    ("オ激レをどっかに誘ってくれるってことか。",
+    ("オレをどっかに誘ってくれるってことか。",
     ""),
     # Does that mean he'll invite me somewhere?
 
-    ("だとしたら、もちｂん…。†",
+    ("だとしたら、もちん…。†",
     ""),
     # If that's the case, then it's a mochi b...†
 
-    ("そのとき、キッチンの福方角から、なに竄やら焦げくさ〜い臭いが。",
+    ("そのとき、キッチンの方角から、なにやら焦げくさ〜い臭いが。",
     ""),
     # At that time, something was silenced and burning smelled from the Fuku direction of the kitchen.
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # Ah!?
 
-    ("竅やばっ、目玉焼き！？",
+    ("やばっ、目玉焼き！？",
     ""),
     # Amazing, fried egg!?
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # I was forgetting.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # A: A, a long time, a long time.Relax
 
-    ("Ｂ	增わ、悪いけど、いまは…。閨",
+    ("Ｂ	わ、悪いけど、いまは…。閨",
     ""),
     # B I'm sorry, but for now...Relax
 

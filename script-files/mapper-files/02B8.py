@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "And the two of you, the two and the other guys, just their faces look alike the next day."
 
-    ("「そり痰ゃ、戟血がつながってる烽もの、磨当然鞫よ。で烽も『だけ』っていうのはどういう意味？」†",
+    ("「そり痰ゃ、戟血がつながってる烽もの、当然鞫よ。で烽も『だけ』っていうのはどういう意味？」†",
     ""),
     # "As a result, it's a hot spring that is connected to blood, of course, it's a tan. So what does it mean to say that the hot spring is just 'on'?"
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Your personality is completely opposite, so you have phlegm?"
 
-    ("「あら、それはう墲わべだけ見た印象でし蛯ょ？	これで烽もр私と姉さん、いｂいｂ翌似てるのよ」",
+    ("「あら、それはう墲わべだけ見た印象でしょ？	これで烽もр私と姉さん、いい翌似てるのよ」",
     ""),
     # "Oh, that's the impression I've only seen Umawabe, yeah? Now, I feel like I and my sister are similar to the next day."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Is that so...?"
 
-    ("オ激レが聞くと、",
+    ("オレが聞くと、",
     ""),
     # When I heard
 
@@ -55,7 +55,7 @@ text_array = [
     # "Ahaha, joking, joking."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("へ、変な翌女。†",

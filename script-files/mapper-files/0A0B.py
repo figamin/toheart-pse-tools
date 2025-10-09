@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (A Why do you spend so much time at work?)†
 
-    ("「そんなにバイトばっか竄やってどうすんだ？	なにか欲しい烽ものがあんのか？」",
+    ("「そんなにバイトばっかやってどうすんだ？	なにか欲しい烽ものがあんのか？」",
     ""),
     # "What are you doing when you just mess up with so many part-time jobs? Is there something you want?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Uh, yes. Well, well, that kind of hot thing "I wonder if there's no phlegm..."
 
-    ("「そんな烽もん、ねえ…。ま、オ激レがどうこう言えたことじ痰ゃないけど、あんまり無摶理すんなよな」†",
+    ("「そんな烽もん、ねえ…。ま、オレがどうこう言えたことじ痰ゃないけど、あんまり無摶理すんなよな」†",
     ""),
     # "That kind of hot thing, hey... Well, I can't say anything about it, but don't be too silly." †
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "?"
 
-    ("「なにが欲しいのかはしらねーけど、無摶理のしすぎで体こ墲わしちまったら、元煬も子燻もないだｂ？」†",
+    ("「なにが欲しいのかはしらねーけど、無摶理のしすぎで体こ墲わしちまったら、元煬も子燻もないだ？」†",
     ""),
     # "I don't know what I want, but if I'm too unapologetic and end up shaking my body, I wonder if there's no yuan or ko-smoking b?"
 
-    ("「あっ、それなら蛯大苟丈夫。",
+    ("「あっ、それなら大苟丈夫。",
     ""),
     # "Ah, then, it's sturdy.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Ah, yes!"
 
-    ("そして、オ激レは手を振って別れた。◯",
+    ("そして、オレは手を振って別れた。◯",
     ""),
     # Then I waved my hand and parted ways.◯
 

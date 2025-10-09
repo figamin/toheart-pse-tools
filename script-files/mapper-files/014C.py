@@ -2,11 +2,11 @@
 # Source file: 014C.txt
 
 text_array = [
-    ("（あかり	好感度イベント	５．１）閨（選択綜Ａ	竅やっぱ、﨟矢⊥島にあかりは竄やれねえっ！）†",
+    ("（あかり	好感度イベント	５．１）閨（選択綜Ａ	やっぱ、﨟矢⊥島にあかりはやれねえっ！）†",
     ""),
     # (Akari Likeability Event 5.1) (Select A: After all, Akari can't be tampered with on 﨟YA⊥ Island!)†
 
-    ("竅やっぱ、﨟矢⊥島にあかりは竄やれねえっ！",
+    ("やっぱ、﨟矢⊥島にあかりはやれねえっ！",
     ""),
     # After all, Akari can't be tampered with on Ya-jima!
 
@@ -19,10 +19,10 @@ text_array = [
     # "What, what!?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レは、じっとあかりの目を見つめた。†",
+    ("オレは、じっとあかりの目を見つめた。†",
     ""),
     # I stared in Akari's eyes.†
 
@@ -31,22 +31,22 @@ text_array = [
     # "...What? Is it phlegm?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「…ち痰ゃん？」",
     ""),
     # "...Is it phlegm?"
 
-    ("增わずかな沈黙の繧後｢｢。†",
+    ("わずかな沈黙の繧後｢｢。†",
     ""),
     # After a slight silence, ".†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "...Do you have a favorite guy right now?"
 
-    ("と、オ激レは聞いた。",
+    ("と、オレは聞いた。",
     ""),
     # I asked.
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "What!? What!? What!?"
 
-    ("いきなりのオ激レの質竡問に、明逍らかにあかりは動揺していた。†",
+    ("いきなりのオレの質竡問に、明逍らかにあかりは動揺していた。†",
     ""),
     # Akari was suddenly shaken by the sudden question of how she was extremely angry.†
 
-    ("オ激レは一度うつむいて、はあ〜…と、息を吐いて見せた。",
+    ("オレは一度うつむいて、はあ〜…と、息を吐いて見せた。",
     ""),
     # I looked down at me once, and then exhaled and showed him.
 
@@ -103,7 +103,7 @@ text_array = [
     # "Are you there?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「…いないのか？」",
@@ -111,10 +111,10 @@ text_array = [
     # "...Are you there?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("真武剣な表﨣情のオ激レを見たあかりは、竅やがてコクンとうなずき、",
+    ("真武剣な表﨣情のオレを見たあかりは、やがてコクンとうなずき、",
     ""),
     # Akari saw the real sword of the real sword and the heart was filled with excitement, and then he nodded.
 
@@ -122,16 +122,16 @@ text_array = [
     ""),
     # "There is...
 
-    ("小さくそうつぶ竄やいた。†",
+    ("小さくそうつぶやいた。†",
     ""),
     # He muttered a small amount.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「そうか…」",
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "All right"
 
-    ("そう言って、今度はオ激レが強くうなずいた。",
+    ("そう言って、今度はオレが強くうなずいた。",
     ""),
     # With that said, this time I nodded hard.
 
@@ -206,19 +206,19 @@ text_array = [
     ""),
     # "…picture"
 
-    ("「このことに関しては、もうオ激レに、なに烽も聞くんじ痰ゃねぇ」",
+    ("「このことに関しては、もうオレに、なに烽も聞くんじ痰ゃねぇ」",
     ""),
     # "About this, I've already heard something about it, so I'm not going to have to sputum."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「いいな」†",
     ""),
     # "That's nice" †
 
-    ("「うん、增わかった」",
+    ("「うん、わかった」",
     ""),
     # "Yeah, I understand."
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # "What is it, '...' and that's what you mean?'! Do you think that makes sense?!"
 
-    ("﨟矢⊥島は蛯大きく手を振って言った。",
+    ("﨟矢⊥島は大きく手を振って言った。",
     ""),
     # 﨟Ya⊥jima said with a loud wave.
 
-    ("「他に好きな男がいるからあきらめｂって！？	いったい誰なんだ、そいつは！？」†",
+    ("「他に好きな男がいるからあきらめって！？	いったい誰なんだ、そいつは！？」†",
     ""),
     # "Is there another guy I like so I'm going to give up b?! Who is that?!" †
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "If you don't know at least who the monkeys are, I wonder if it's okay if you're satisfied!"
 
-    ("暴齧れる薰矢⊥島を見て、竅やれ竄やれと肩をすくめると、オ激レは教室へと戻った。",
+    ("暴齧れる薰矢⊥島を見て、やれやれと肩をすくめると、オレは教室へと戻った。",
     ""),
     # Seeing Konya Island as he was groped, I shrugged and told him to sniff, and then I returned to the classroom.
 
@@ -258,19 +258,19 @@ text_array = [
     ""),
     # Akari's favorite guy...
 
-    ("ホントいうと、なんとなく、增わかってる。",
+    ("ホントいうと、なんとなく、わかってる。",
     ""),
     # Actually, I know somehow.
 
-    ("增わかってるけど、オ激レは…。",
+    ("わかってるけど、オレは…。",
     ""),
     # I know this but I'm really into it...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("竅やっぱオ激レって、ずるいрヤツだ。◯",
+    ("やっぱオレって、ずるいрヤツだ。◯",
     ""),
     # After all, he's a really unfair guy.◯
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # ""He's a girl or a hot girl."
 
-    ("オ激レは天苴井を見繻上げながら言った。",
+    ("オレは天井を見上げながら言った。",
     ""),
     # I said, looking at Tenrei.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # I'm not particularly aware of this, but I think this is a relationship that naturally matches the point.†
 
-    ("「そう…でし蛯ょうね…」",
+    ("「そう…でしょうね…」",
     ""),
     # "Yes... so slut..."
 
-    ("オ激レとは逆に、床に汲視諮を獅落として言う、琴音ち痰ゃん。",
+    ("オレとは逆に、床に汲視諮を獅落として言う、琴音ち痰ゃん。",
     ""),
     # Conversely, Kotone Chisho-yan is a lion who says to the floor to sniff the sniff.
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Well, we're in a relationship where we can match up with each other without any worries."
 
-    ("「なんだか、うら竄やましいです…」",
+    ("「なんだか、うらやましいです…」",
     ""),
     # "I'm jealous of you..."
 
-    ("琴音ち痰ゃんは小さくつぶ竄やいた。†",
+    ("琴音ち痰ゃんは小さくつぶやいた。†",
     ""),
     # Kotone Chisho-chan muttered a little.†
 
-    ("「じ痰ゃあ、オ激レはこっちだから」",
+    ("「じ痰ゃあ、オレはこっちだから」",
     ""),
     # "I'm not phlegm, I'm going to be this one."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yes, then..."
 
-    ("軽く手をあげて言い、オ激レは琴音ち痰ゃんと別れた。◯",
+    ("軽く手をあげて言い、オレは琴音ち痰ゃんと別れた。◯",
     ""),
     # I raised my hand slightly and said, and I parted ways with Kotone Chisho-yan.◯
 

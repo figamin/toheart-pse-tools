@@ -2,7 +2,7 @@
 # Source file: 0154.txt
 
 text_array = [
-    ("（あかり	冝日付	好感度イベント９）閨（５獅月１冾日限闌定）閨（好感度イベント８を見た）閨（１桙時間目の休み桙時間）閨（教室	休み桙時間）†",
+    ("（あかり	冝日付	好感度イベント９）閨（５獅月１冾日限定）閨（好感度イベント８を見た）閨（１桙時間目の休み桙時間）閨（教室	休み桙時間）†",
     ""),
     # (Akari Date: Likeability Event 9) (5th Lion/Month 1st Date Limited) (See the Likeability Event 8) (Closed time in the first fence) (Class closed time) (Class closed time) †
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Choo"
 
-    ("あかりがオ激レの席へと竄やってきた。",
+    ("あかりがオレの席へとやってきた。",
     ""),
     # Akari came to my seat.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "My name is, I'll give it my name."
 
-    ("自然な感じで微笑みを返したつ烽もりだが、增わずかにぎこちない烽ものになってしまう。†",
+    ("自然な感じで微笑みを返したつ烽もりだが、わずかにぎこちない烽ものになってしまう。†",
     ""),
     # The hot spring smiles with a natural smile, but it turns into a slightly awkward, hot spring.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "what happened…?"
 
-    ("さすがあかり、そんなオ激レの微妙な不自然さ烽も見逃さない。",
+    ("さすがあかり、そんなオレの微妙な不自然さ烽も見逃さない。",
     ""),
     # As expected of Akari, you won't miss the subtle unnaturalness of my supernatural character.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # He asks with a chuckle.
 
-    ("「いん竄や、べつになに烽も」",
+    ("「いんや、べつになに烽も」",
     ""),
     # "All you can do is tamper with it, what's the heat?"
 
-    ("オ激レは冗談めかしてごまかした。†",
+    ("オレは冗談めかしてごまかした。†",
     ""),
     # I jokingly cheated.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # The moment Akari appeared in front of her eyes, my heart blew through my heart.
 
-    ("どう竄やらオ激レは、自分で烽も気づかないうちに、あかりを強く意識しちまってるらしい。†",
+    ("どうやらオレは、自分で烽も気づかないうちに、あかりを強く意識しちまってるらしい。†",
     ""),
     # Apparently, I'm becoming more and more aware of Akari without even realizing it.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # It would be better to have a natural feel to it before, and to have a good fit.†
 
-    ("がしかし、このオ激レが意識しているということを、あかりに気づかれるのは、ち蛯ょっとシャャクなような気がする。†",
+    ("がしかし、このオレが意識しているということを、あかりに気づかれるのは、ちょっとシャャクなような気がする。†",
     ""),
     # However, it seems like it's a bit shaky for Akari to realize that this guy is conscious of him.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Can I go to Chishonan's house now on the day?"
 
-    ("「オ激レんちに？	なにしにｗ磯翌鴦ｂｾ？」",
+    ("「オレんちに？	なにしにｗ磯翌鴦ｾ？」",
     ""),
     # "Are you a really hardcore guy? What's up lol Isozumai Gyu B-Se?"
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # It's a happy offer.
 
-    ("最近近葛所の定食屋煢もすっかり食いつくし、堰ラー＝メン焜も、コンビニの弁抹当燗も、ほか弁熾も、ファーストフード焜も、どれ烽も烽もうマンネ潟リでげっぷ気味だ。",
+    ("最近近葛所の定食屋煢もすっかり食いつくし、堰ラー＝メン焜も、コンビニの弁抹当燗も、ほか弁熾も、ファーストフード焜も、どれ烽も烽もうマンネリでげっぷ気味だ。",
     ""),
     # Recently, I've been eating all the set meal restaurant in the nearby Kuzusho era, and I've been eating it all the way through, including the Heir Ra (mensen), the convenience store's bento-eat, the fast food parlor, and all the hot springs are bogged down and I'm feeling like I'm burping.
 
@@ -122,15 +122,15 @@ text_array = [
     ""),
     # There is no reason to stop it.
 
-    ("オ激レはＯＫした。†",
+    ("オレはＯＫした。†",
     ""),
     # I was OK with that.†
 
-    ("「じ痰ゃあ、今厓日の帰闍り、いっし蛯ょにスーパーに寄っていこうね」",
+    ("「じ痰ゃあ、今厓日の帰闍り、いっしょにスーパーに寄っていこうね」",
     ""),
     # "Ah, let's go back to the supermarket on the day of the year."
 
-    ("そのセ潟リフを聞いて、はっと気がついた。",
+    ("そのセリフを聞いて、はっと気がついた。",
     ""),
     # I suddenly realized this Segata riff.
 
@@ -146,15 +146,15 @@ text_array = [
     ""),
     # Hmm, hmm.
 
-    ("そういうことはいままで何度燗もあったけど、今回はち蛯ょっと状況が痰違う。",
+    ("そういうことはいままで何度燗もあったけど、今回はちょっと状況が痰違う。",
     ""),
     # I've had that kind of thing happening many times before, but this time the situation is different.
 
-    ("なんてたって、オ激レとあかりは、もう…。†",
+    ("なんてたって、オレとあかりは、もう…。†",
     ""),
     # No matter how hard I and Akari are...†
 
-    ("「いっし蛯ょに行ってくれるでし蛯ょ？」",
+    ("「いっしょに行ってくれるでしょ？」",
     ""),
     # "You'll go to the essay, are you essay?"
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Absolutely"
 
-    ("オ激レはコホンとせき払いした。",
+    ("オレはコホンとせき払いした。",
     ""),
     # I coughed away.
 

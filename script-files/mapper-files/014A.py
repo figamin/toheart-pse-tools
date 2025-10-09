@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Akari Likeability Event 5) (Continued from Chosen AB)†
 
-    ("「知迺らねーけど、そういうことらしい。かといって長岡さんにお願いすると、ほら、一瞬にしてう墲わさが広まっち痰ゃいそうだｂ？」",
+    ("「知迺らねーけど、そういうことらしい。かといって長岡さんにお願いすると、ほら、一瞬にしてう墲わさが広まっち痰ゃいそうだ？」",
     ""),
     # "I don't know about it, but that's what it is. But when I asked Nagaoka-san, you see, the spurts of the spurts spread in an instant, so it seems like they're going to spread."
 
-    ("まあ、間瘧違いなく、そーだｂーな。",
+    ("まあ、間瘧違いなく、そーだーな。",
     ""),
     # Well, it must be a bit uneasy, it's pretty b.
 
-    ("「だから、オ激レ？」",
+    ("「だから、オレ？」",
     ""),
     # "So, I'm so gross?"
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "...That's a pain."
 
-    ("オ激レは、心齔底剪嫌な顔をして言った。",
+    ("オレは、心齔底剪嫌な顔をして言った。",
     ""),
     # I said with a disgusting look on my face.
 
-    ("「けど、ま、きっかけだけｍってくれたら、その繧後の押しの部分は自分で竄やるからさ」",
+    ("「けど、ま、きっかけだけｍってくれたら、その繧後の押しの部分は自分でやるからさ」",
     ""),
     # "But, if you only want to give me the trigger, I'll tamper with the part that I push after that."
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # Certainly, Akari is weak to pushing.
 
-    ("梶相闡手が誰であれ、強引に烽ものを鰍頼まれると曹拒みきれないとこｂがある。",
+    ("梶相闡手が誰であれ、強引に烽ものを鰍頼まれると曹拒みきれないとこがある。",
     ""),
     # No matter who the Kaji Concert is, if you are forced to ask for something hot, you can't refuse Cao.
 
-    ("もし烽も薰矢⊥島が頭を下げて鰍頼んだら、あいつは断闥りきれねーだｂーな。†",
+    ("もし烽も薰矢⊥島が頭を下げて鰍頼んだら、あいつは断闥りきれねーだーな。†",
     ""),
     # If Yunya Island bowed his head and asked for the kalp, he wouldn't be able to stop him.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Is it time for the next break?"
 
-    ("「おう、セッティング諠よｂしく！」",
+    ("「おう、セッティング諠よしく！」",
     ""),
     # "Oh, please bear the setting!"
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # 﨟Yajima said with a laughing face.
 
-    ("「おいおい、いくらなんで烽もそり痰ゃち蛯ょっと気が≠早すぎんじ痰ゃねーか？」†",
+    ("「おいおい、いくらなんで烽もそり痰ゃちょっと気が≠早すぎんじ痰ゃねーか？」†",
     ""),
     # "Hey, how quickly does it feel to have a sputum even if it's too early, isn't it?"
 
-    ("「いい竄や、善は急げだ。言ったｂ、堰ライバ泣ルは多いんだ。のんびり構えてる余裕はない」",
+    ("「いいや、善は急げだ。言った、堰ライバルは多いんだ。のんびり構えてる余裕はない」",
     ""),
     # "Tampering, good is hurry. I said b, there are a lot of weir-Raiba crying. I can't afford to be laid back."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # He put his hands together, and Ya-jima said with apologies.
 
-    ("「…ったく、し蛯ょーがねーなあ」†",
+    ("「…ったく、しょーがねーなあ」†",
     ""),
     # "...I don't have any sluts" †
 

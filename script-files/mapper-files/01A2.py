@@ -2,7 +2,7 @@
 # Source file: 01A2.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ｂ	竅やっぱ猫だな）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ｂ	やっぱ猫だな）†",
     ""),
     # (Akari Scales Event: Departing from school) (Select B: It's a cat after all)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "It's a cat."
 
-    ("オ激レはそう嘯答えた。",
+    ("オレはそう嘯答えた。",
     ""),
     # I replied like that.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "A cat who doesn't take pampering?"
 
-    ("「なつかない猫。ノ宴ラ猫とか。甘えてくると可愛いんだけどな」",
+    ("「なつかない猫。ノラ猫とか。甘えてくると可愛いんだけどな」",
     ""),
     # "Cats that don't like you. Like cats that are banquets. They're cute when they're spoiled."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Do you like being spoiled?"
 
-    ("「おう、好きだ。お前熨もオ激レに甘えたいか？」",
+    ("「おう、好きだ。お前熨もオレに甘えたいか？」",
     ""),
     # "Oh, I like you. Do you want to be pampered by my supernatural too?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "already…"†
 
-    ("それから、オ激レとあかりはいｂいｂと店燗内の動物を見て回った。◯",
+    ("それから、オレとあかりはいいと店燗内の動物を見て回った。◯",
     ""),
     # Then I looked around at the animals in the store, including mygere and Akari Haii B.◯
 

@@ -2,7 +2,7 @@
 # Source file: 0F05.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル１）閨（卒業式篇）閨（選択綜	♂史）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	♂史）閨（蛛主人公沍勝ち）†",
     ""),
     # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Choice and History) (Mrage Protagonist Wins) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # game over.
 
-    ("「まあ、こんな烽もんだｂ。",
+    ("「まあ、こんな烽もんだ。",
     ""),
     # "Well, this is hot b.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # It's so cute, Masochisou-san."
 
-    ("「…ふう、し蛯ょうがない。あんまりｂ高いのは唐遠慮してよ」†",
+    ("「…ふう、しょうがない。あんまり高いのは遠慮してよ」†",
     ""),
     # "...Whoa, there's no shii. Please refrain from being too expensive."
 
-    ("「增わかってるって。ハンデ焜もあるし、コー堰ラでいいぜ」",
+    ("「わかってるって。ハンデ焜もあるし、コー堰ラでいいぜ」",
     ""),
     # "You know. There's a handicap, so it's fine for a Kou-Dara."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "What is it, how sweet?!"
 
-    ("「オ激レが勝ったんだから、文蝠句ねーだｂ」†",
+    ("「オレが勝ったんだから、文蝠句ねーだ」†",
     ""),
     # "I won, so it's a verse b"
 
-    ("「ハア〜、甘い墲わねぇ。っとに、禔練菶乳がけのイチゴミ泣ルクみたいに甘い墲わ。、あんたのその甘さがいつか、自分の身を滅ぼすことになる墲わよ」",
+    ("「ハア〜、甘い墲わねぇ。っとに、禔練菶乳がけのイチゴミルクみたいに甘い墲わ。、あんたのその甘さがいつか、自分の身を滅ぼすことになる墲わよ」",
     ""),
     # "Haaaah, it's a sweet roe. It's a sweet roe like the strawberry roe weeping roe with lean slut. Your sweetness will one day destroy you."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "What are you talking about..."
 
-    ("その繧後の志保あかり墲戦はというと、磨当然のことながら志保の圧汕勝となった。",
+    ("その繧後の志保あかり墲戦はというと、当然のことながら志保の圧汕勝となった。",
     ""),
     # After that, when it came to the match against Shiho Akari, Shiho was naturally hit by Shiho's siege.
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # "...Keah, when I say things like sweet people, what do I do? Is it sweet to have phlegm?"
 
-    ("オ激レはすかさずつっこんだ。",
+    ("オレはすかさずつっこんだ。",
     ""),
     # My heart started moving around in a flash.
 
-    ("「なに言って唐ンのよ。あたしの場㍼合、べつに甘い盾ワケじ痰ゃない墲わよ」",
+    ("「なに言ってンのよ。あたしの場㍼合、べつに甘い盾ワケじ痰ゃない墲わよ」",
     ""),
     # "What do you mean by Tang? I have a very sweet shield, so there's no phlegm."
 
-    ("「どこが痰違うってんだ、言ってみｂ」†",
+    ("「どこが痰違うってんだ、言ってみ」†",
     ""),
     # "What's the difference in phlegm, say b" †
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "I'm really not hungry. That means there's no point in ordering high-volume hot foods I don't want to eat. What do you think?"
 
-    ("「增わーった、增わーった」",
+    ("「わーった、わーった」",
     ""),
     # "I'm gonna gonna gonna gonna gonna gonna gonna gonna gonna gonna gon
 

@@ -2,7 +2,7 @@
 # Source file: 00CD.txt
 
 text_array = [
-    ("（３獅月２４冾日	朝）閨（竅補習あり）閨（自分の部屋）†",
+    ("（３獅月２４冾日	朝）閨（補習あり）閨（自分の部屋）†",
     ""),
     # (Morning of the 24th day of the 3rd month) (Additional lessons are included) (My room) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Spring break starts from Mingshuun Day.
 
-    ("だがオ激レには…とほほ…竅補習授業がある。†",
+    ("だがオレには…とほほ…補習授業がある。†",
     ""),
     # But I have a supplementary lesson for him...hehehe...†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Spring break starts from Ming Shun Day."
 
-    ("「諱よく墲わかってるな。けど、半分ハズ激レだ」†",
+    ("「諱よく墲わかってるな。けど、半分ハズレだ」†",
     ""),
     # "You know the facts well. But it's half-hearted and extremely hard."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Why?"
 
-    ("「オ激レには竄補習があんだよ」",
+    ("「オレには補習があんだよ」",
     ""),
     # "I have to have some tampering lessons for you."
 

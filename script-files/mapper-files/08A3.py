@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Oh, I'm going to kill Remie, the phlegm is still a good day."
 
-    ("オ激レは、片阨手を繧上げてあいさつ。",
+    ("オレは、片阨手を繧上げてあいさつ。",
     ""),
     # I greeted him with my arms raised.
 
-    ("「うん。Ｓｂｂ	凵ｙ盾ｏ浮ｕ	ｔ盾ｏ高ｍ盾ｏ窒ｒ窒ｒ盾ｏ翌ｗ」",
+    ("「うん。Ｓ	凵ｙ盾ｏ浮ｕ	ｔ盾ｏ高ｍ盾ｏ窒ｒ窒ｒ盾ｏ翌ｗ」",
     ""),
     # "Yes. Sbb, y shield o float, t shield o high m shield o nitrogen nitrogen shield o next lol"
 

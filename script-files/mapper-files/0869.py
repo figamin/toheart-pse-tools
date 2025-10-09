@@ -2,23 +2,23 @@
 # Source file: 0869.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	ホテ泣ル）†",
+    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	ホテル）†",
     ""),
     # (Game Remy Scales Event PS) (Select Soho Tear)†
 
-    ("「じ痰ゃ、ホテ泣ル行くか」",
+    ("「じ痰ゃ、ホテル行くか」",
     ""),
     # "I'm not gonna cry, shall we go?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("軽べつのまなざし…。†",
     ""),
     # A light gaze...†
 
-    ("「お、おい、ジ㏍ョークだっての！	イッツ、ジ㏍ョーク。ＯＫ？」",
+    ("「お、おい、ジョークだっての！	イッツ、ジョーク。ＯＫ？」",
     ""),
     # "Oh, hey, it's a Ziku! It's Ziku. OK?"
 
@@ -35,18 +35,18 @@ text_array = [
     # "S-Sorry, oh Remie. I didn't mean anything."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("この間をどーすんだ！？†",
     ""),
     # What will you do during this time??†
 
-    ("「アハハハッ、梶ｊ盾ｏ汲ｋｂデース。Ｉｔ	梶ｊ盾ｏ汲ｋｂ。ＯＫ？」",
+    ("「アハハハッ、梶ｊ盾ｏ汲駆デース。Ｉｔ	梶ｊ盾ｏ汲駆。ＯＫ？」",
     ""),
     # "Hahaha, Kaji J Shield Ok B-Days. It Kaji J Shield Ok B-Days. OK?"
 

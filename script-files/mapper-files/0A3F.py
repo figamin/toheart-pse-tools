@@ -10,15 +10,15 @@ text_array = [
     ""),
     # "which one"
 
-    ("オ激レは、諱取闔り囲んでる子沁供たちの繧後撃から顔を覗かせる。†",
+    ("オレは、諱取闔り囲んでる子沁供たちの繧後撃から顔を覗かせる。†",
     ""),
     # I gazed on my face after the children who were surrounded by the names of the children, and they were attacking.†
 
-    ("お、竅やってる。",
+    ("お、やってる。",
     ""),
     # Oh, I'm doing it.
 
-    ("今厓日の奄ラッコは、チ宴ラシがなくなって烽も子沁供たちの前で軽快に動き回ってみせてる。†",
+    ("今厓日の奄ラッコは、チラシがなくなって烽も子沁供たちの前で軽快に動き回ってみせてる。†",
     ""),
     # The Amazuki, which is currently on the verge of the day, is no longer in the feast, and the hot seas are moving around lightly in front of the children's stompers.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Kaji Ai Henzaki is so wonderful. Is that really a sputum? Is that really a sputum?"
 
-    ("今厓日くらい、掾理女緒ち痰ゃんじ痰ゃなくて本職の竄やつが入ってんじ痰ゃねーのか？",
+    ("今厓日くらい、掾理女緒ち痰ゃんじ痰ゃなくて本職のやつが入ってんじ痰ゃねーのか？",
     ""),
     # Is it not just a sputum, but a special person who is a professional is included?
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "!"
 
-    ("とたんに、その垂巨蜍大な腹、い竄や、堰ラッコが力の限闌りにｌかってきた。",
+    ("とたんに、その垂巨蜍大な腹、いや、堰ラッコが力の限りにｌかってきた。",
     ""),
     # Suddenly, the huge belly, the tattered sea otter began to sway at the limit of its strength.
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # "Uhhhh..."
 
-    ("と、思ったら、オ激レの目の前で、思いきり蛯大の嘯字に倒齠れた。",
+    ("と、思ったら、オレの目の前で、思いきり大の嘯字に倒齠れた。",
     ""),
     # Just as I was thinking, I was knocked over by the silly character in front of my eyes.
 
-    ("子沁供たちが蛯大ウケする。†",
+    ("子沁供たちが大ウケする。†",
     ""),
     # The children and the others are very excited.†
 
-    ("「竅やっぱりか…」",
+    ("「やっぱりか…」",
     ""),
     # "I guess so..."
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "Oh, tired, you know. Maybe a break from the hot spring?"
 
-    ("「くん、またｗてるんだ烽もん。ビック潟リしち痰ゃった」",
+    ("「くん、またｗてるんだ烽もん。ビックリしち痰ゃった」",
     ""),
     # "K-kun, you're lol, you're in the middle of the day. I've got a lot of sputum."
 
-    ("「オ激レの福方がビック潟リしたって。いきなり突進してくんだ烽もんな」",
+    ("「オレの方がビックリしたって。いきなり突進してくんだ烽もんな」",
     ""),
     # "My Fuku side is really big. I'm suddenly charging in, you're a hot guy."
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # "... And since this part-time job is over now, I have to go to another new tuna."
 
-    ("「なんだか蛯大変だな、おい」†",
+    ("「なんだか大変だな、おい」†",
     ""),
     # "It's kind of hard work, hey."
 
-    ("オ激レが言ってあげることは｢｢。",
+    ("オレが言ってあげることは｢｢。",
     ""),
     # What I say is, ".
 

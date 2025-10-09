@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Into Koro, who first appeared with Kotone) (Akari standing)†
 
-    ("「で烽も、今年齡一年、ずっとち痰ゃんといっし蛯ょだと思うと、なんだか嬉しいな」",
+    ("「で烽も、今年齡一年、ずっとち痰ゃんといっしょだと思うと、なんだか嬉しいな」",
     ""),
     # "And it's nice to think that this year, the whole year has been going for a long time, so it's a bit nice."
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "...What's that? Now?"
 
-    ("机の繧上で頬杖をついたオ激レは、くだらなそうに息を吐いた。†",
+    ("机の繧上で頬杖をついたオレは、くだらなそうに息を吐いた。†",
     ""),
     # I rested my chin on the back of my desk and let out a sloppy sigh.†
 
-    ("「おたがい、轣顔だって見飽きてるだｂ」",
+    ("「おたがい、轣顔だって見飽きてるだ」",
     ""),
     # "You're tired of seeing your face even though you're still in the middle."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # It's the third day of my second year.
 
-    ("そういえば、あかりといっし蛯ょのク宴ラスになったのは、何年ぶりだｂう。",
+    ("そういえば、あかりといっしょのクラスになったのは、何年ぶりだう。",
     ""),
     # Come to think of it, it's been a number of years since I've been able to finish off the banquet with Akari and Isshi's Eve.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # £I guess since my first year of schooling...
 
-    ("幼稚園のこｂからずっと同じ学校に通ってるけど、ク宴ラスがいっし蛯ょになったのはほんの２、３回しかない。†",
+    ("幼稚園のこからずっと同じ学校に通ってるけど、クラスがいっしょになったのはほんの２、３回しかない。†",
     ""),
     # I've been attending the same school since I was in kindergarten, but only two or three times have the Crown Lace become a slut.†
 
-    ("「ねえ、今厓日いっし蛯ょに帰汲っか？」",
+    ("「ねえ、今厓日いっしょに帰汲っか？」",
     ""),
     # "Hey, should I return to the slut now?"
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # Suddenly, Shiho's guy jumped into the classroom in a fuss.†
 
-    ("ク宴ラスの連中は、いったいなんの宸騒ぎだと声のほうに顔をｌける。†",
+    ("クラスの連中は、いったいなんの宸騒ぎだと声のほうに顔をｌける。†",
     ""),
     # The people at the Crowd Race look at their voices, what kind of fuss is causing.†
 
-    ("声の蛯主が志保だと墲わかると、",
+    ("声の主が志保だと墲わかると、",
     ""),
     # When I know that Shiho is the voice leader,
 
-    ("「なんだよ長岡、その蛯大ニャースってのは」",
+    ("「なんだよ長岡、その大ニャースってのは」",
     ""),
     # "What is Nagaoka? What is that Ebi Meowth?"
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Please listen to it here lol."
 
-    ("教拒を叩きながら志保がそう言うと、何人かはぞｂぞｂと立ち繧上がって、教壇のま墲わりに集まりだした。",
+    ("教拒を叩きながら志保がそう言うと、何人かはぞぞと立ち繧上がって、教壇のま墲わりに集まりだした。",
     ""),
     # Shiho said this while refusing to teach, and some of them stood up and began to gather as part of the podium.
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # ...Everyone likes it.†
 
-    ("「ち痰ゃん、志保が蛯大ニャースだって」",
+    ("「ち痰ゃん、志保が大ニャースだって」",
     ""),
     # "Choy, Shiho is a big meowth."
 
-    ("「知髓るか。どーせガセだよ。お前が繧代岺わりに聞いて竄やってくれ」",
+    ("「知髓るか。どーせガセだよ。お前が繧代岺わりに聞いてやってくれ」",
     ""),
     # "You know? It's a fake. You should listen and tamper with me, even if you're a god."
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # "Are you not going to go?"
 
-    ("「オ激レはパス。あと鰍頼んだぜ」",
+    ("「オレはパス。あと鰍頼んだぜ」",
     ""),
     # "I passed. Also, I ordered a chrysanthemum."
 
-    ("「ホント、志保には竄冷たいんだから〜」†",
+    ("「ホント、志保には冷たいんだから〜」†",
     ""),
     # "Really, Shiho is cold to it."
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # Akari nodded with a wry smile and gave a lecture.
 
-    ("オ激レは机にうつぶした。",
+    ("オレは机にうつぶした。",
     ""),
     # I lay face down on my desk.
 
-    ("なにしｂＨＲまで桙時間が少しある。",
+    ("なにしＨＲまで桙時間が少しある。",
     ""),
     # What's the case, there's a little time left until bHR.
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # "Yes, yes! There! Don't sleep, go over here."
 
-    ("名指しで呼ばれ、オ激レの気分は一気にぶち壊しになった。†",
+    ("名指しで呼ばれ、オレの気分は一気にぶち壊しになった。†",
     ""),
     # I was called by name and my mood suddenly fell apart.†
 
-    ("「驕るせーぞ。それだけ集まり痰ゃ十分だｂ」",
+    ("「驕るせーぞ。それだけ集まり痰ゃ十分だ」",
     ""),
     # "You're arrogant. That's enough phlegm to gather together is enough."
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # Masashi, = Please send him back to you soon."
 
-    ("見骭ると、♂史がち蛯ょうど教室にｗたとこｂだった。",
+    ("見骭ると、♂史がちょうど教室にｗたとこだった。",
     ""),
     # When I looked at it, I found out that it was a place where I went to the Masochigachi Ebido Classroom.
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "What's wrong? Shiho" †
 
-    ("「今から取っときの蛯大ニャースを竄披露すんのよ。みんなあんたと",
+    ("「今から取っときの大ニャースを披露すんのよ。みんなあんたと",
     ""),
     # "I'm going to show off the nigiri meowth I got when I got it. Everyone with you
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # No one can wait, but Shiho's guy came up with his specialty.
 
-    ("「あ、うん、增わかったよ」",
+    ("「あ、うん、わかったよ」",
     ""),
     # "Ah, yes, I understand."
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "You're also a noshi lol"
 
-    ("志保を取闔り囲んだ連中から烽も呼ばれ、にっち烽もさっち烽もオ激レは№仲間に加妺わらずを得ない状況になっていた。†",
+    ("志保を取闔り囲んだ連中から烽も呼ばれ、にっち烽もさっち烽もオレは№仲間に加妺わらずを得ない状況になっていた。†",
     ""),
     # The people who gathered Shiho were called out to him, and I couldn't get any of my geeks to join the team.†
 
@@ -242,19 +242,19 @@ text_array = [
     ""),
     # I got it."
 
-    ("オ激レは渋々立ち繧上がった。",
+    ("オレは渋々立ち繧上がった。",
     ""),
     # My rave reluctantly stood up.
 
-    ("…ちきし蛯ょー、オ激レの安辷らかなひとときを邪ｎ魔し竄やがってぇ。†",
+    ("…ちきしょー、オレの安辷らかなひとときを邪ｎ魔しやがってぇ。†",
     ""),
     # ...They're making me mess with my extremely secure moments.†
 
-    ("「さ〜て、みんなそｂったとこｂで、本阮題に入體る墲わよぉ」",
+    ("「さ〜て、みんなそったとこで、本題に入體る墲わよぉ」",
     ""),
     # "Well, everyone is b, and they'll be able to get into the main topic."
 
-    ("「長岡さん、今度は誰のスキャャンダ泣ル？」",
+    ("「長岡さん、今度は誰のスキャャンダル？」",
     ""),
     # "Nagaoka-san, whose scyaander will you cry this time?"
 
@@ -262,11 +262,11 @@ text_array = [
     ""),
     # One of the bathing girls listens.†
 
-    ("「スキャャンダ泣ルっ、じつに惜しい墲わね」",
+    ("「スキャャンダルっ、じつに惜しい墲わね」",
     ""),
     # "Scandescent crying, it's a really sad moment."
 
-    ("「それじ痰ゃあ、磨事庶件？」",
+    ("「それじ痰ゃあ、事庶件？」",
     ""),
     # "That's all, phlegm, is it a common polish?"
 
@@ -286,11 +286,11 @@ text_array = [
     ""),
     # With a view of expectations and anxiety.†
 
-    ("連中はこの際、ガセだｂうがなんだｂうが、とにかく志保からのお烽もしｂい話を聞きたい、そう思っているんだｂう。",
+    ("連中はこの際、ガセだうがなんだうが、とにかく志保からのお烽もしい話を聞きたい、そう思っているんだう。",
     ""),
     # At this point, the people are fake, b, b, but they just want to hear some b, b, b, b, b, b, b.
 
-    ("オ激レは連中と痰違ってあきれ顔で、",
+    ("オレは連中と痰違ってあきれ顔で、",
     ""),
     # My hardcore face is disgusting, unlike those of them,
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # "Did you get stuck in the joke and finally bring up the mysterious flame phenomenon?"
 
-    ("聞こえるような声で言って竄やった。†",
+    ("聞こえるような声で言ってやった。†",
     ""),
     # He said it in a sound that he could hear and tampered with.†
 
@@ -314,19 +314,19 @@ text_array = [
     ""),
     # "Well, let me hear you say it's a bit of a sphin."
 
-    ("言いかけたオ激レをｉ史が引きとめた。†",
+    ("言いかけたオレをｉ史が引きとめた。†",
     ""),
     # I-Shi stopped the extremely rare thing that almost said to me.†
 
-    ("「あんた、あたしの話を聞いた繧後で烽もそんな福口がきけるのかしらね」",
+    ("「あんた、あたしの話を聞いた繧後で烽もそんな口がきけるのかしらね」",
     ""),
     # "I wonder if you can even hear that kind of Fukutoku after hearing about my story."
 
-    ("ここぞとばかり蛯大羡口をたたく志保。†",
+    ("ここぞとばかり大羡口をたたく志保。†",
     ""),
     # Shiho, taking the tribute to this, thrusts the ephemeral.†
 
-    ("「はいはい、オ激レは黙ってるから、さっさと終尞わらしてくれ」",
+    ("「はいはい、オレは黙ってるから、さっさと終尞わらしてくれ」",
     ""),
     # "Yes, yes, I'll be silent, so please stop it quickly."
 
@@ -334,11 +334,11 @@ text_array = [
     ""),
     # There's no point in saying this here.
 
-    ("諱よく考えたら、オ激レが志保に文蝠句をつけたとこｂで、集まったみんなに迷惑がかかるだけだ。†",
+    ("諱よく考えたら、オレが志保に文蝠句をつけたとこで、集まったみんなに迷惑がかかるだけだ。†",
     ""),
     # When I think about it, I found out that when I put a sentence slogan on Shiho, it only caused trouble to everyone who gathered.†
 
-    ("「｢｢さ〜て、とんだ邪ｎ魔が入ったけど、ここからホントの本阮題鞫よ」",
+    ("「｢｢さ〜て、とんだ邪ｎ魔が入ったけど、ここからホントの本題鞫よ」",
     ""),
     # "Well, there's a really evil-inducing man, but from here on, the real issue of the original."
 
@@ -354,11 +354,11 @@ text_array = [
     ""),
     # "Esper?"
 
-    ("連中は怪訝そうな声でつぶ竄やいた。",
+    ("連中は怪訝そうな声でつぶやいた。",
     ""),
     # The guys muttered in a suspicious voice.
 
-    ("オ激レは思寬わず鼻で笑ってしまう。",
+    ("オレは思寬わず鼻で笑ってしまう。",
     ""),
     # I couldn't help but laugh at me.
 
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # Then another person asked.
 
-    ("「瘁例えば、念力とかテ激レパシーとか使う人？」",
+    ("「瘁例えば、念力とかテレパシーとか使う人？」",
     ""),
     # "For example, do you use telekinetic force or intense repathy?"
 
@@ -394,11 +394,11 @@ text_array = [
     ""),
     # Shiho nodded, and everyone cried out in a whisper, "What?" and "Are you serious?"He's saying something like that.
 
-    ("梶リアクシ㏍ョンとしては半信半疑って感じ。†",
+    ("梶リアクションとしては半信半疑って感じ。†",
     ""),
     # As a Kaji Reaxy, I feel like I'm half skeptical.†
 
-    ("オ激レはというと、竅やっぱり鼻で笑った。",
+    ("オレはというと、やっぱり鼻で笑った。",
     ""),
     # When it comes to my ecstasy, I ended up laughing with my nose.
 
@@ -406,11 +406,11 @@ text_array = [
     ""),
     # "You're lying, you're just fake, aren't you phlegm?"
 
-    ("なんて言って竄やｂうかと思ったが、ここで言い№合って烽も長くなるだけなので竄やめた。",
+    ("なんて言ってやうかと思ったが、ここで言い№合って烽も長くなるだけなのでやめた。",
     ""),
     # I thought I'd say something like that and say it, but I stopped tampering with it, as it only went so far as to say it and it would only take a long time.
 
-    ("縺代岺わりにオ激レは、",
+    ("縺代岺わりにオレは、",
     ""),
     # In spite of the fact that I'm a big fan,
 
@@ -454,7 +454,7 @@ text_array = [
     ""),
     # "It seems that there are people who don't know, so I'll explain it to you."
 
-    ("そう言って、志保はそのときの様子を身振關り手振關りで語闌りはじめた。†",
+    ("そう言って、志保はそのときの様子を身振關り手振關りで語りはじめた。†",
     ""),
     # With that in mind, Shiho began to speak gestures and hand-shaking about what had happened at the time.†
 
@@ -474,11 +474,11 @@ text_array = [
     ""),
     # Does anyone hear that, do you think?†
 
-    ("するとしばらくして、生徒のひとりが天苴井を指差して『♀ないっ！』って叫んだ！",
+    ("するとしばらくして、生徒のひとりが天井を指差して『♀ないっ！』って叫んだ！",
     ""),
     # Then, a while later, one of the students pointed at Tenrei and said, "No female!"' he cried!
 
-    ("みんなが見繻上げると、早舞苺台の繧上を照迴らす照明のひとつが、フッと暗くなったの。",
+    ("みんなが見上げると、早舞苺台の繧上を照迴らす照明のひとつが、フッと暗くなったの。",
     ""),
     # As everyone looked up, one of the lights illuminated the sky on the Hayabuki Ichibandai became dimmed.
 
@@ -498,7 +498,7 @@ text_array = [
     ""),
     # Fortunately, it was good that the place fell off the head of the principal's office was a bonito spot that was off the head of the principal's office, but if that big Amai light had been stomping with life, it would have been a great success in the head of the principal's office that was so impressive that it would have been a total of nowhere."
 
-    ("だったら小さい奄ライトなら蛯大苟丈夫なのかと突っ桙込んで竄やりたくなったが、竅やめた。†",
+    ("だったら小さい奄ライトなら大苟丈夫なのかと突っ桙込んでやりたくなったが、やめた。†",
     ""),
     # So I wanted to slam and tamper with it, thinking that a small Amane Light would be tough, but I stopped doing it.†
 
@@ -514,7 +514,7 @@ text_array = [
     ""),
     # "Yes! How will it connect?!"
 
-    ("変なポーズをつけて、オ激レを指さす志保。",
+    ("変なポーズをつけて、オレを指さす志保。",
     ""),
     # Shiho puts on a strange pose and points to me.
 
@@ -538,7 +538,7 @@ text_array = [
     ""),
     # Someone lets out that voice.†
 
-    ("「蛛大予言。いい言葉ね…。そんな蛯大予言を、新嵩生の一人がしてたとすると、話はつながる墲わね」",
+    ("「蛛大予言。いい言葉ね…。そんな大予言を、新嵩生の一人がしてたとすると、話はつながる墲わね」",
     ""),
     # "The Great Prophecy. That's a good word... If one of the Shin Taeng-sen had that Great Prophecy, the story would be connected."
 
@@ -546,11 +546,11 @@ text_array = [
     ""),
     # "Nagaoka Yu, seriously? Is that really true? It just happens to have phlegm." †
 
-    ("そんな竄問いに、志保はチッチと指を振った。",
+    ("そんな問いに、志保はチッチと指を振った。",
     ""),
     # At the slamming question, Shiho shook his fingers.
 
-    ("「あまい墲わね。そのあたりは調査済み。その子は前の学校で烽も、たびたび蛯大予言してるんだから」†",
+    ("「あまい墲わね。そのあたりは調査済み。その子は前の学校で烽も、たびたび大予言してるんだから」†",
     ""),
     # "It's sweet. That's what I've done. The child has also made great predictions at his previous school."
 
@@ -582,7 +582,7 @@ text_array = [
     ""),
     # The people gathered were impressed by Shiho's words, 'Wow!'†
 
-    ("オ激レの鰍リアクシ㏍ョンは｢｢。",
+    ("オレの鰍リアクションは｢｢。",
     ""),
     # My hardcore choriacchi (sweet) is ".
 

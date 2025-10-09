@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "And before the earthquake, or a hot spring..."
 
-    ("「氈勝闖手に言ってｂ！」†",
+    ("「氈勝闖手に言って！」†",
     ""),
     # "Speak to the hand of the silence!"
 
-    ("その冾日は、いつ烽もの調子で、志保と福口膜喧嘩しながら帰った。†",
+    ("その冾日は、いつ烽もの調子で、志保と口膜喧嘩しながら帰った。†",
     ""),
     # On that date, I went home in a hot tone and was fighting with Shiho.†
 

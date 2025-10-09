@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I hear the re-examination of i-historic reactions.
 
-    ("「ねえ、佐藤くん。今度の冾日曜坥日、п私たちといっし蛯ょにカ宴ラオケ行かない？」",
+    ("「ねえ、佐藤くん。今度の冾日曜坥日、п私たちといっしょにカラオケ行かない？」",
     ""),
     # "Hey, Sato-kun. On the next Sunday, don't you go to the banquet with us?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "oh yeah"
 
-    ("「佐藤くんなら、そんなに根をつめなくて烽も蛯大苟丈夫でし蛯ょ？」†",
+    ("「佐藤くんなら、そんなに根をつめなくて烽も大苟丈夫でしょ？」†",
     ""),
     # "If it were Sato-kun, he doesn't get too much roots and the hot springs are strong, so is he still strong?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Sorry, I don't have much time this time."
 
-    ("磨当たりさ墲わりなく断窒うとする、♂史。",
+    ("当たりさ墲わりなく断窒うとする、♂史。",
     ""),
     # Male history is trying to break down without any polishing.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # He persistently eats down I history.†
 
-    ("「悪いけど、竅やっぱりその冾日は勉強するよ。だから、また今度…」",
+    ("「悪いけど、やっぱりその冾日は勉強するよ。だから、また今度…」",
     ""),
     # "I'm sorry, but I'll probably study that day after all. So, next time..."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # That's the only place for the city of history.†
 
-    ("「近いうちに竄絶対つきあうからさ」",
+    ("「近いうちに絶対つきあうからさ」",
     ""),
     # "I'll definitely tamper with you soon."
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # I missed the call.
 
-    ("それにして烽も、♂史の竄やつ、竅やっぱり翌女子に人気あるんだな。◯",
+    ("それにして烽も、♂史のやつ、やっぱり翌女子に人気あるんだな。◯",
     ""),
     # And, the tampering with Masochist is also popular among the girls who are the following girls.◯
 

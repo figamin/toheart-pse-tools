@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Uhhhh!?"
 
-    ("教室を出髀るなり、オ激レは廊下でぼけーっと突っ立っていた翌女生徒にぶつかった。",
+    ("教室を出髀るなり、オレは廊下でぼけーっと突っ立っていた翌女生徒にぶつかった。",
     ""),
     # As soon as I left the classroom, I was standing in the hallway, and the next time I bumped into a female student.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # The female bather was flat... and kneeled in the hallway.†
 
-    ("「增わ、增わりぃ！	蛛大苟丈夫か！？」",
+    ("「わ、わりぃ！	蛛大苟丈夫か！？」",
     ""),
     # "B, snuggle! Are you sturdy and sturdy?!"
 
-    ("とっさに謝骼ると、オ激レは翌女生徒に手を貸し、立ち繧上がらせた。",
+    ("とっさに謝骼ると、オレは翌女生徒に手を貸し、立ち繧上がらせた。",
     ""),
     # I quickly apologised, and the next female student helped me out and got her to stand up.
 
@@ -39,10 +39,10 @@ text_array = [
     # "...Identity Senpai"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("梶相変﨑わらずなノー梶リアクシ㏍ョン。†",
+    ("梶相変﨑わらずなノー梶リアクション。†",
     ""),
     # Kaji Ai Henzaki is no Kaji Reactor†
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # "Sorry, I didn't look closely at my name before."
 
-    ("諱先輩のスカートにほこりが付いてたので、オ激レはぽんぽんと手で払って竄やった。†",
+    ("諱先輩のスカートにほこりが付いてたので、オレはぽんぽんと手で払ってやった。†",
     ""),
     # There was dust on my senior's skirt, so I wiped it off with my hand and tampered with my ecstasy.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ？	こちらこそ、すみません…って？	諱先輩は艪ゆっくり烽歩いてたんだ、悪くないって」",
+    ("「えっ？	こちらこそ、すみません…って？	諱先輩はゆっくり烽歩いてたんだ、悪くないって」",
     ""),
     # "Huh? I'm sorry... What? Senpai Koto was walking slowly, not a bad thing."
 
-    ("悪くはないけど、今纃後は烽もうち蛯ょっと機敏に避けて欲しいかな。",
+    ("悪くはないけど、今纃後は烽もうちょっと機敏に避けて欲しいかな。",
     ""),
     # It's not bad, but I think I'd like you to be agile and avoid the hot springs after this time.
 
@@ -70,12 +70,12 @@ text_array = [
     ""),
     # It's easy to make someone walk alone.†
 
-    ("「とこｂで、今厓日はなんの用？	オ激レに用があってｗたんだｂ？」",
+    ("「とこで、今厓日はなんの用？	オレに用があってｗたんだ？」",
     ""),
     # "And what do you want on the day you're in the middle of the day? I had some great deal lol b?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ？	また部室にｗて欲しいって？」",

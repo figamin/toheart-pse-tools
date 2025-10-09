@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Are you listening to people?"
 
-    ("オ激レが手を伸ばすと、掾理女緒ち痰ゃんは素¢早く自分で立ち繧上がって、",
+    ("オレが手を伸ばすと、掾理女緒ち痰ゃんは素¢早く自分で立ち繧上がって、",
     ""),
     # When I reached out, the jeered woman Ochisou-chan quickly rose to her own pace,
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Yes, yes. It doesn't hurt at all."
 
-    ("「そのうち、本末当に蛯大ケガするぞ」",
+    ("「そのうち、本末当に大ケガするぞ」",
     ""),
     # "I'll get seriously injured at the end of the day."
 

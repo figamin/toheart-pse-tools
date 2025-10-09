@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Uhh!"
 
-    ("今厓日、この一勛日さえ頑張齟れば、明坙日からはゴールデンウィークだ。",
+    ("今厓日、この一勛日さえ頑張れば、明坙日からはゴールデンウィークだ。",
     ""),
     # If you try harder for this day, it will be Golden Week from Ming Shun Day.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # And after that, there is a school trip waiting.
 
-    ("そう考えると、竅やる気が出てくるな。†",
+    ("そう考えると、やる気が出てくるな。†",
     ""),
     # Thinking about it like that makes me feel motivated.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Ah, if you're patient now, you'll be off."
 
-    ("「まるでオ激レが、凵嫌々学校に通ってるふうに聞こえるじ痰ゃないか」",
+    ("「まるでオレが、凵嫌々学校に通ってるふうに聞こえるじ痰ゃないか」",
     ""),
     # "It sounds like I'm going to school reluctantly, so it's not a phlegm."
 

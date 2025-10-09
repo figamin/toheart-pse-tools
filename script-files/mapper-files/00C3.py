@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "On such a nice day, it makes me want to go out and play somewhere rather than going to school."
 
-    ("「学校さぼｂうって誘ってんのか？」",
+    ("「学校さぼうって誘ってんのか？」",
     ""),
     # "Are you invited me to skip school?"
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # "I don't have to cleanse it, but..."
 
-    ("「なんだ。いっし蛯ょに海の見える公園にで烽も行って、のんびりしようかと思ったのに」†",
+    ("「なんだ。いっしょに海の見える公園にで烽も行って、のんびりしようかと思ったのに」†",
     ""),
     # "What? I was thinking of going to a park with a view of the sea at the beach and relaxing."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「いま、しばらく、さぼること考えたｂ？」",
+    ("「いま、しばらく、さぼること考えた？」",
     ""),
     # "Did you think about skipping for a while now?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("「竅やーい、不良」",
+    ("「やーい、不良」",
     ""),
     # "Ah, delinquent."
 

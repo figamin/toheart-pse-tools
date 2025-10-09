@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "I have something to do, so I'm in a hurry. I'm not sputum."
 
-    ("オ激レは烽歩き出した。",
+    ("オレは烽歩き出した。",
     ""),
     # My heart started walking.
 
-    ("「あ、ち蛯ょっとったらぁ〜」◯",
+    ("「あ、ちょっとったらぁ〜」◯",
     ""),
     # "Ah, I'm going to have a peek" ◯
 

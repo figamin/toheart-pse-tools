@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "You're phlegm, if you're in your mood."
 
-    ("オ激レはそう嘯答えた。",
+    ("オレはそう嘯答えた。",
     ""),
     # I replied like that.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Please @. We'll be waiting for you."
 
-    ("葵ち痰ゃんは真っ直ぐオ激レを見て言った。◯",
+    ("葵ち痰ゃんは真っ直ぐオレを見て言った。◯",
     ""),
     # Aoi Chisho-yan said as he looked straight at me.◯
 

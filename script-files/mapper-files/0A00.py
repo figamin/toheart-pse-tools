@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("オ激レの下駄箱になにか入ってる。",
+    ("オレの下駄箱になにか入ってる。",
     ""),
     # Something's in my shoe cabinet.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # A hand test...?
 
-    ("いまどき、下駄箱に入齠れる竄やつがいるんだな。",
+    ("いまどき、下駄箱に入齠れるやつがいるんだな。",
     ""),
     # I'm sure there are some people who can put them in shoe cabinets these days.
 
-    ("こういうのって、パターンだと奄ラブ激レターか不幸の手試だったりする墲わけだが…。",
+    ("こういうのって、パターンだと奄ラブレターか不幸の手試だったりする墲わけだが…。",
     ""),
     # In a pattern, this kind of thing could be a fierce letter of Amami's love or a hand-test for misfortune...
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Check it out with your hand.†
 
-    ("いちおう、オ激レ宛て…になってるな。",
+    ("いちおう、オレ宛て…になってるな。",
     ""),
     # Well, it's addressed to me...
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # let's see?
 
-    ("ち蛯ょっと冾期待しつつ、普封を切垂うとしたとき、",
+    ("ちょっと冾期待しつつ、普封を切垂うとしたとき、",
     ""),
     # I was hoping for it, but when I tried to cut off the regular seal,
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Hmm? What's up?"
 
-    ("「い竄や、べつに」",
+    ("「いや、べつに」",
     ""),
     # "Tampering, it's all too bad."
 
-    ("オ激レは手試をポケットにつっこんだ。",
+    ("オレは手試をポケットにつっこんだ。",
     ""),
     # I put my hand test in my pocket.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Oh no, I hid it without thinking.
 
-    ("まあ、增わざ墲わざ見せるような烽もんで烽もないけどな。†",
+    ("まあ、わざ墲わざ見せるような烽もんで烽もないけどな。†",
     ""),
     # Well, it's a hot pot that you're trying to show off on purpose, so there's no hot pot.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Now..."
 
-    ("自分の席に座ったオ激レは、さっきの浮封尓筒をポケットから取闔り出した。",
+    ("自分の席に座ったオレは、さっきの浮封尓筒をポケットから取闔り出した。",
     ""),
     # I sat in my seat and took the floating closure from my pocket.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # This is...
 
-    ("堰ラブ激レターか！？",
+    ("堰ラブレターか！？",
     ""),
     # A fierce letter of love for the weir!?
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # Judging from the character, she certainly looks like the next girl.†
 
-    ("い竄や、待てよ。",
+    ("いや、待てよ。",
     ""),
     # Tamper, wait.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # In fact, Shiho's work is something that's all about phlegm?
 
-    ("そｂそｂ薰情報のネタがつきたんで、自分の手でｍ高うとしてるとか…？",
+    ("そそ薰情報のネタがつきたんで、自分の手でｍ高うとしてるとか…？",
     ""),
     # I've got some information about it, so I'm trying to raise my weight with my own hands...
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # That's an impossible story.
 
-    ("い竄や、で烽も、あいつにこんなきれいな嘯字が曹書ける墲わけねーしな。†",
+    ("いや、で烽も、あいつにこんなきれいな嘯字が曹書ける墲わけねーしな。†",
     ""),
     # It's a bit of a pain, and even if he's not sure he can write such a beautiful letter of writing.†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # Well, whether it's real or not is that you can tell if it's real or not.
 
-    ("で、もし志保の竄やつだったら｢｢黽その場でしめて竄やｂう。†",
+    ("で、もし志保のやつだったら｢｢黽その場でしめてやう。†",
     ""),
     # So, if it were Shiho's tampering with him, "I'll squeal and tamper with him on the spot.†
 

@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Do you want to hear?"
 
-    ("「教えｂよ」",
+    ("「教えよ」",
     ""),
     # "Teach me b."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Wha... you're a bather, but are you interested in cars?"
 
-    ("「…っとに、あんたってセクハ宴ラの塊みたいなрヤツね」†",
+    ("「…っとに、あんたってセクハラの塊みたいなрヤツね」†",
     ""),
     # "...Ahhh, you're like a mass of sexual harassment" †
 
-    ("「言いがかりだ。男は≠普通、そう思うだｂ」",
+    ("「言いがかりだ。男は≠普通、そう思うだ」",
     ""),
     # "It's a bit of accusation. Men are normally, I think so."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Hmm. Why did you read a car book? Did you want some hot water in your car?"
 
-    ("「ま、そんなとこｂね」",
+    ("「ま、そんなとこね」",
     ""),
     # "Well, that's a b place."
 
@@ -62,19 +62,19 @@ text_array = [
     ""),
     # "Mochi, bright red ""
 
-    ("オ激レはその言葉の先を想恆像してしまった。",
+    ("オレはその言葉の先を想恆像してしまった。",
     ""),
     # I thought about the end of those words.
 
-    ("Ａ	ポ泣ルチェ。閨",
+    ("Ａ	ポルチェ。閨",
     ""),
     # A: Porcelain.Relax
 
-    ("Ｂ	フ宴ラー梶リ。閨",
+    ("Ｂ	フラー梶リ。閨",
     ""),
     # B: Fan banquet kajiri.Relax
 
-    ("Ｃ	カ泣ルー堰ラ。閨",
+    ("Ｃ	カルー堰ラ。閨",
     ""),
     # C. Kakururu weirla.Relax
 

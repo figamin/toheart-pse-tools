@@ -10,11 +10,11 @@ text_array = [
     ""),
     # It's completely right, it's right!
 
-    ("オ激レは瞬発力を生かしたダッシャで翌距離を縮める。†",
+    ("オレは瞬発力を生かしたダッシャで翌距離を縮める。†",
     ""),
     # My gut-re uses his explosive power to close the next distance.†
 
-    ("梶リーチはオ激レのほうが長いんだ。",
+    ("梶リーチはオレのほうが長いんだ。",
     ""),
     # Kaji Reach is longer than me.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Why, in a simple way...
 
-    ("あっ、竅やべっ。",
+    ("あっ、やべっ。",
     ""),
     # Ah, that's bad.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # What happened?
 
-    ("もしかして、竅やられちまったのか…？†",
+    ("もしかして、やられちまったのか…？†",
     ""),
     # Maybe he was defeated...?†
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "I'm here..."
 
-    ("オ激レは繧上体を起こすと、吹草の繧上であぐらをかいた。",
+    ("オレは繧上体を起こすと、吹草の繧上であぐらをかいた。",
     ""),
     # I lifted up my body and grabbed my legs on the ridge of the bush.
 
@@ -167,7 +167,7 @@ text_array = [
     # "You idiot. It's the same as last time you're sputuming to thrust in from the front."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「せめて、もう少し足を使ったらどうなの？	フット純ワークは薰基本亦の薰基本譁よ」",
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # "That's bad, I'm an amateur who doesn't even know about the basics."
 
-    ("「まあ、で烽もこれでひとつ学習したでし蛯ょ？」",
+    ("「まあ、で烽もこれでひとつ学習したでしょ？」",
     ""),
     # "Well, did you learn something from this, slut?"
 
-    ("「…ちくし蛯ょう」†",
+    ("「…ちくしょう」†",
     ""),
     # "...Chikushi Ebi"†
 

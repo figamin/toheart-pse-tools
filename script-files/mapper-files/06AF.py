@@ -2,7 +2,7 @@
 # Source file: 06AF.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	学校を出髀る１）閨（選択綜Ｂ	なんとかならねーのか？）†",
+    ("（マルチ	回秤数イベント	学校を出髀る１）閨（選択綜Ｂ	なんとかならねーのか？）†",
     ""),
     # (Muryuruchi, Scales Event, Departing from School 1) (Choice B, Can't I do something about it?)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # But can't we do something a little more?”
 
-    ("あまりに突然過ぎて、そんなことしか福口にできなかった。†",
+    ("あまりに突然過ぎて、そんなことしか口にできなかった。†",
     ""),
     # It was so sudden that Fukuchu could only do that.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # If so...
 
-    ("だったら、せめて、明坙日は明髢るくマ泣ルチを見洛送って竄やｂう。◯",
+    ("だったら、せめて、明坙日は明髢るくマルチを見洛送ってやう。◯",
     ""),
     # If that's the case, at least on the Ming Shun Day, he will send him a cry of tears and send him a stolen message.◯
 

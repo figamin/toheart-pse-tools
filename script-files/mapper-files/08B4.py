@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "If the house is a nearby Kuzuso, I'd like to have a kaji and a hot pot."
 
-    ("「アタシならダイジ㏍ョブだｃ」",
+    ("「アタシならダイジョブだｃ」",
     ""),
     # "I'm a daijicook."
 
-    ("「竅やっぱ同遠級生にそんなこと、梶頼めねーって」†",
+    ("「やっぱ同遠級生にそんなこと、梶頼めねーって」†",
     ""),
     # "I thought I could not ask my classmates to say that."
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "I can do it with just a little smear! I can also clean up and remove it... I can also pay for it..."
 
-    ("彼濫女のその言葉は、縺後撃の福方だけミ㏍ョーに元気がなかった。",
+    ("彼濫女のその言葉は、縺後撃の方だけミョーに元気がなかった。",
     ""),
     # The woman's words were the only one who hit the scene after the scene, and Miccion was not well-behaved.
 
-    ("「なんだよ、その言い福方。…気になるな」",
+    ("「なんだよ、その言い方。…気になるな」",
     ""),
     # "What is that saying, how you say it...I'm curious."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Go<Mengo<Men....I just wanted to help you out."
 
-    ("「…ったくオ激レに、なに食岦わせるつ烽もりだったんだよ」",
+    ("「…ったくオレに、なに食岦わせるつ烽もりだったんだよ」",
     ""),
     # "...What was the kind of hot spring that really made me eat?"
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "Poisonous phlegm c"
 
-    ("「あったりめーだｂ！」†",
+    ("「あったりめーだ！」†",
     ""),
     # "It's so cute!"
 
-    ("それからｉ話燔も盛關り繧上がり、オ激レと撃レミィは駅の近くで別れ、それぞれの家に帰った。◯",
+    ("それからｉ話燔も盛關り繧上がり、オレと撃レミィは駅の近くで別れ、それぞれの家に帰った。◯",
     ""),
     # Then the i-changing storyline began to rise, and Meguri and Gekiremi parted ways near the station and returned to their respective homes.◯
 

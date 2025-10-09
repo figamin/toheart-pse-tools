@@ -18,11 +18,11 @@ text_array = [
     ""),
     # Furthermore, the pleasant breeze of spring creeps through the gap in the window and flows through the flow, stroking my cheeks.
 
-    ("ああ、もう艪我揄慢できねぇ。",
+    ("ああ、もう我揄慢できねぇ。",
     ""),
     # Ah, I can't hold back any more.
 
-    ("氈次の授業は竄絶対に盾居眠阮りできない先生だし、いまのうちに寝とかねーとな。†",
+    ("氈次の授業は絶対に盾居眠りできない先生だし、いまのうちに寝とかねーとな。†",
     ""),
     # The teacher is a teacher who can never stomp the shield in his next class, so he may go to sleep now.†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # The classroom is pure and pure and noisy, but this kind of squeal is surprisingly unpleasant.
 
-    ("耳瘤障闖りというより、むしｂ獅落ちｒく。†",
+    ("耳瘤障闖りというより、むし獅落ちｒく。†",
     ""),
     # Rather than having an osteopathy disorder, it's a leopard that falls.†
 
-    ("諱よく、赤ち痰ゃんは母親の心汾臓の音を聞くと獅落ちｒくという話を耳にするが、小薯ｒ高校と聞き慣れたざ墲わめき烽も一妤種それと翌似たような効果があるのか烽も知齟れない。",
+    ("諱よく、赤ち痰ゃんは母親の心汾臓の音を聞くと獅落ちｒくという話を耳にするが、小薯ｒ高校と聞き慣れたざ墲わめき烽も一妤種それと翌似たような効果があるのか烽も知れない。",
     ""),
     # I often hear that when I hear the sound of the mother's heartbeat, the red sphincterus falls, but I can't tell whether the sphincterus, which is used to hearing the sound of the potato high school, has a similar effect to the sphincterus species.
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("增わい墲わい墲わい墲わい…。",
+    ("わい墲わい墲わい墲わい…。",
     ""),
     # A little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit
 
-    ("が竄やが竄やが竄やが竄や…。†",
+    ("がやがやがやがや…。†",
     ""),
     # It's tampering, tampering, tampering, tampering...†
 
@@ -67,14 +67,14 @@ text_array = [
     # Kaji Ai Henzaki is a noisy classroom.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("しかしこり痰ゃあ、いくらなんで烽も、ち蛯ょっとうるさ過ぎるんじ痰ゃねーのか。",
+    ("しかしこり痰ゃあ、いくらなんで烽も、ちょっとうるさ過ぎるんじ痰ゃねーのか。",
     ""),
     # But there's so much stiffness, how no matter how loud the chicken is, is it too loud, so it's too loud?
 
-    ("オ激レはべつに気になんねーけど、そのうち隣の教室の先生がキ激レて飛んでくるぞ。",
+    ("オレはべつに気になんねーけど、そのうち隣の教室の先生がキレて飛んでくるぞ。",
     ""),
     # I don't really care about it, but eventually the teacher in the classroom next door will go wild and fly away.
 

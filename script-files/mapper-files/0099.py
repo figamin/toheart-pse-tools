@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "No way. It's super bad."
 
-    ("「そんな。ち痰ゃん、今回はち痰ゃんと勉強したんでし蛯ょ？」",
+    ("「そんな。ち痰ゃん、今回はち痰ゃんと勉強したんでしょ？」",
     ""),
     # "That's not it. I studied with Chishonan this time, so shonan?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Kari asked with a worried look on his face.†
 
-    ("「まあ、オ激レの実力なんて、梶所詮この程度の烽ものってことだｂ」",
+    ("「まあ、オレの実力なんて、梶所詮この程度の烽ものってことだ」",
     ""),
     # "Well, my superb ability is just this much."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Well, anyway. If you look forward to it too much, you'll be disappointed afterwards, so it's annoying."
 
-    ("「п私は蛯大苟丈夫だと思うよ？」",
+    ("「п私は大苟丈夫だと思うよ？」",
     ""),
     # "I think I'm strong, don't you think?"
 
-    ("「根注拠結レスのくせし竄やがって」†",
+    ("「根注拠結レスのくせしやがって」†",
     ""),
     # "They're making a pointless replies"
 

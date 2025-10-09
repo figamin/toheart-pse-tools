@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Game Remy: Scaling Event PS) (Choose Up)†
 
-    ("オ激レは≠早足で撃レミィに追いついた。",
+    ("オレは≠早足で撃レミィに追いついた。",
     ""),
     # My gems quickly caught up with Ekimi Remy.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # He called out to me in a greeting that Remie often uses.†
 
-    ("「Ｏｂ、≠ｂ撃ｌ撃ｌ盾ｏ、」",
+    ("「Ｏ、≠撃ｌ撃ｌ盾ｏ、」",
     ""),
     # "Ob, ≠b Shot l Shot l Shield o."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # A laughing face replied.
 
-    ("英皷語だけでｉ話が成關り立ってしまうなんて、オ激レって曹国際人？",
+    ("英皷語だけでｉ話が成關り立ってしまうなんて、オレって曹国際人？",
     ""),
     # Is it really a Cao International who can make i-speak with just English-Japanese language?
 
-    ("「ただのあいさつだけでし蛯ょ？」†",
+    ("「ただのあいさつだけでしょ？」†",
     ""),
     # "Just just say hello?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「そうか。じ痰ゃいっし蛯ょに帰汲うぜ」",
+    ("「そうか。じ痰ゃいっしょに帰汲うぜ」",
     ""),
     # "I see. I'll return to the sputum."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Hey,"
 
-    ("校蜊門を出たとこｂで撃レミィが聞いた。",
+    ("校蜊門を出たとこで撃レミィが聞いた。",
     ""),
     # Ekiremi asked when he left the school gates.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Yes...Is there any hope?"
 
-    ("「エート…、恋人同士が行くとこｂ！」",
+    ("「エート…、恋人同士が行くとこ！」",
     ""),
     # "At... where lovers go!"
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # "Hey, lovers...!?"
 
-    ("Ａ	シ㏍ョッピング。閨",
+    ("Ａ	ショッピング。閨",
     ""),
     # A. Simply pick.Relax
 
-    ("Ｂ	ホテ泣ル。閨",
+    ("Ｂ	ホテル。閨",
     ""),
     # B: Crying.Relax
 
-    ("Ｃ	ペットシ㏍ョップ。閨",
+    ("Ｃ	ペットショップ。閨",
     ""),
     # C Petshop.Relax
 

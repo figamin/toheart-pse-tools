@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho Scales Event, 1st floor 2) (In front of the Hayasho store) (Shiho 2)†
 
-    ("オ激レたちは、駅前商店街に竄やってきた。",
+    ("オレたちは、駅前商店街にやってきた。",
     ""),
     # We've all fed up in the shopping district in front of the station.
 
-    ("「なあ。オ激レはどういう用女件で連齪れてこられてんだ？」",
+    ("「なあ。オレはどういう用女件で連齪れてこられてんだ？」",
     ""),
     # "Hey. What kind of women have you been doing for me?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "I didn't listen."
 
-    ("「洋棊服の見立てを竄やって欲しいのよ」",
+    ("「洋棊服の見立てをやって欲しいのよ」",
     ""),
     # "I want you to tamper with the idea of ​​Western clothing."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I would like you to score my chosen Western style clothes based on your senses."
 
-    ("「…なんでオ激レに、そんなこと鰍頼むんだよ」",
+    ("「…なんでオレに、そんなこと鰍頼むんだよ」",
     ""),
     # "...Why are you asking me to say such a charcoal?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "You don't really understand the kind of fox clothes that are popular with boys. So, if you're a man, it's fine to see them, then it's fine." †
 
-    ("「オ激レにぃ？」",
+    ("「オレにぃ？」",
     ""),
     # "Is it really me?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # ...Why are you gonna bet on such a thing?
 
-    ("「梶頼むのは構寘わねえけど、そのイチかバチかみたいな揩理由、竅やめてくれよ」†",
+    ("「梶頼むのは構寘わねえけど、そのイチかバチかみたいな揩理由、やめてくれよ」†",
     ""),
     # "I don't care about Kaji, but please stop saying that it's a bit of a sting or a bit of a sting."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # I'll choose clothes... but in the end, you're the one who's OK with it, right?If my sense of style is bad and your senses are bad, then I won't be able to hit the marks even if I can't hit the mark."
 
-    ("「だからどーした。オ激レ焜もお前に選ばれたんだぜ？	だったら、お前ひとりの責任だｂ」",
+    ("「だからどーした。オレ焜もお前に選ばれたんだぜ？	だったら、お前ひとりの責任だ」",
     ""),
     # "So what did you do? I was chosen by you too, right? If that's the case, it's your own responsibility."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "That's why it's a gamble."
 
-    ("「なんだ、そのヘ揀理雷は！	オ激レが気に入逑らねえんならなぁ、他の男を探してこい！」",
+    ("「なんだ、そのヘ揀理雷は！	オレが気に入逑らねえんならなぁ、他の男を探してこい！」",
     ""),
     # "What, hey, ririi! If you don't like me, come on, look for another man!"
 
-    ("オ激レ諠よかセンスのいい男なんて、ごまんといるだｂーが！†",
+    ("オレ諠よかセンスのいい男なんて、ごまんといるだーが！†",
     ""),
     # There are so many men with good taste who are super-sexual!†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Hahaha...it looks like the shop is closed on the day right now..."
 
-    ("たしかに、志保の示した福方角には、閉店したブティック辜らしき嘯建物が見える。",
+    ("たしかに、志保の示した方角には、閉店したブティック辜らしき嘯建物が見える。",
     ""),
     # It is true that in the Fuku direction that Shiho has shown, you can see a building that looks like a closed boutique.
 

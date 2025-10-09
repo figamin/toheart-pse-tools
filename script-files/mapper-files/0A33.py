@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (A I'll lend you a hand.)†
 
-    ("「諱よし、ち蛯ょっと手を貸すぜ」†",
+    ("「諱よし、ちょっと手を貸すぜ」†",
     ""),
     # "Okay, I'll lend you a hand" †
 

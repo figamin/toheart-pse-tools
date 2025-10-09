@@ -14,7 +14,7 @@ text_array = [
     ""),
     # =I was thinking of eating some hot pot as a meal, but the cup noodles were out of stock.
 
-    ("休みの冾日燗もインスタント食品という自分に竄問阮題を感じるが、それで烽も竄やはり竄補充だけはしとかないとな。◯",
+    ("休みの冾日燗もインスタント食品という自分に問題を感じるが、それで烽もやはり補充だけはしとかないとな。◯",
     ""),
     # I feel that the holiday season is a problem with me as an instant food, but I guess I have to replenish the hot season after all.◯
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # So I went shopping lol.
 
-    ("堰ラー＝メンと、うどんと、ついでに竄やきそば烽もモ買っといた。",
+    ("堰ラー＝メンと、うどんと、ついでにやきそば烽もモ買っといた。",
     ""),
     # I bought some udon noodles, and some udon noodles, as well as some tanyaki soba noodles.
 
-    ("これでしばらくは蛯大苟丈夫だ。",
+    ("これでしばらくは大苟丈夫だ。",
     ""),
     # This will be strong for a while.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "My name is, are you buying a gift wrapping spots too?"
 
-    ("「うん、ち蛯ょっと姉さんに鰍頼まれて…」†",
+    ("「うん、ちょっと姉さんに鰍頼まれて…」†",
     ""),
     # "Yeah, my sister asked me to sardines..."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "That's a good idea of ​​how it is..."
 
-    ("「で烽も人のことは言えねーか。オ激レ焜も千絵株さんには頭纉上がんねーもんな」",
+    ("「で烽も人のことは言えねーか。オレ焜も千絵株さんには頭纉上がんねーもんな」",
     ""),
     # "And can't even talk about people either. I'm also really excited about Chie-san."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # ♂Hi no Shi...
 
-    ("千絵株さんとは、結構歳が離齬れているせいか、オ激レ焜も昔からどう烽も頭が繧上がらなかった。†",
+    ("千絵株さんとは、結構歳が離齬れているせいか、オレ焜も昔からどう烽も頭が繧上がらなかった。†",
     ""),
     # Perhaps because I'm in a very different age with Chie Kabu, I've always been unable to get any brains on my mind.†
 
-    ("「いまは身重だからね、し蛯ょうがないよ」",
+    ("「いまは身重だからね、しょうがないよ」",
     ""),
     # "I'm so tired now, I can't do anything."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "I wonder if it was Nanato-ga Welfare Month...?"
 
-    ("「じ痰ゃあ、お腹熾も蛯大きいんだｂ？」",
+    ("「じ痰ゃあ、お腹熾も大きいんだ？」",
     ""),
     # "You're so phlegm, your stomach is big, right?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Well."
 
-    ("などと話しつつ、オ激レとｉ史は並んで烽歩き出した。†",
+    ("などと話しつつ、オレとｉ史は並んで烽歩き出した。†",
     ""),
     # While talking about this, my geisha and I began to walk alongside each other.†
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # "Boshu, was the morning funeral now?"
 
-    ("「うん。グ宴ランドの都∮合で、たまたま」",
+    ("「うん。グランドの都∮合で、たまたま」",
     ""),
     # "Yes. It's just a coincidence of the city of Gevenland."
 
-    ("「朝っぱらから蛯大変だな、お前熨も」",
+    ("「朝っぱらから大変だな、お前熨も」",
     ""),
     # "It's tough to be a slut in the morning, you're a noshi too."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "It's fun, and there's no hot water."
 
-    ("♂史はさ墲わ竄やかに言った。†",
+    ("♂史はさ墲わやかに言った。†",
     ""),
     # Makoto Shi said in a frank manner.†
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # "...I see." †
 
-    ("小学生のこｂまでは、どっちかっていうと鰍頼阯りない感じだったｉ史だが、最近はそんなとこはほとんど感じさせなくなった。",
+    ("小学生のこまでは、どっちかっていうと鰍頼りない感じだったｉ史だが、最近はそんなとこはほとんど感じさせなくなった。",
     ""),
     # Up until elementary school student B, I had a rather unsatisfactory feel to its name, but recently I hardly feel that way.
 
-    ("オ激レなんかより、全然しっかりしてる。†",
+    ("オレなんかより、全然しっかりしてる。†",
     ""),
     # It's much more solid than my nerds.†
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "He looks like he wants to say something."
 
-    ("「い竄や、まあ、そうだな」",
+    ("「いや、まあ、そうだな」",
     ""),
     # "Tsniff, well, that's right."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # A: Good luck.Relax
 
-    ("Ｂ	最近、もてるだｂ。閨",
+    ("Ｂ	最近、もてるだ。閨",
     ""),
     # B I've been getting it recently.Relax
 

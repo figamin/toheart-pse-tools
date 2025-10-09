@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "What? Is it time for you to go home alone to Kouan?"
 
-    ("「ええ竄やｂ、べつに…」",
+    ("「ええや、べつに…」",
     ""),
     # "Ah, b, it's too..."
 
-    ("目をそらし、ボソッとつぶ竄やく。",
+    ("目をそらし、ボソッとつぶやく。",
     ""),
     # He looks away and squelchs it out.
 
-    ("「たまには友だちといっし蛯ょに帰ったらどうだ？」",
+    ("「たまには友だちといっしょに帰ったらどうだ？」",
     ""),
     # "How about going back to Ebi with my friends once in a while?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "That's not you."
 
-    ("「はは、委員長は高ロン潟リーが好きだ烽もんな」",
+    ("「はは、委員長は高ロンリーが好きだ烽もんな」",
     ""),
     # "Haha, the chairman is a hot guy who likes Takaron Gata Lee."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Ah, kun..."
 
-    ("オ激レは手を繧上げて、委員長と別れた。◯",
+    ("オレは手を繧上げて、委員長と別れた。◯",
     ""),
     # My heart lifted my hands and parted ways with the chairman.◯
 

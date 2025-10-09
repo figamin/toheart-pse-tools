@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The school trip will begin on the day of the year.
 
-    ("いつ烽もより、かなり≠早い桙時間に、オ激レは家を出た。†",
+    ("いつ烽もより、かなり≠早い桙時間に、オレは家を出た。†",
     ""),
     # At a much faster time than ever, I left the house.†
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # Whenever I was, he had a laughing face.
 
-    ("だが、オ激レを見骭るその瞳は微かにうるみ、揺齬れていた。†",
+    ("だが、オレを見骭るその瞳は微かにうるみ、揺齬れていた。†",
     ""),
     # However, his eyes as he watched me were faintly moist and shaking.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("あかりは、なにかを言いかけて竄やめた。",
+    ("あかりは、なにかを言いかけてやめた。",
     ""),
     # Akari said something and stopped tampering with him.
 
@@ -54,19 +54,19 @@ text_array = [
     ""),
     # Light...†
 
-    ("この休みｒ、オ激レはずっと考えていた。",
+    ("この休みｒ、オレはずっと考えていた。",
     ""),
     # I was thinking about this break for a long time.
 
-    ("これからふたりは、どう竄やってつき№合っていけばいいのか。",
+    ("これからふたりは、どうやってつき№合っていけばいいのか。",
     ""),
     # From now on, how should the two of them tamper with each other and get along?
 
-    ("オ激レにとって、あかりはいったいなんなのか。",
+    ("オレにとって、あかりはいったいなんなのか。",
     ""),
     # What exactly is Akari for me?
 
-    ("そして、オ激レが出した汲結論は｢｢。†",
+    ("そして、オレが出した汲結論は｢｢。†",
     ""),
     # And the conclusion that I came to was, ".†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "All right, let's go."
 
-    ("オ激レは笑迴顔でそう言って、あかりの背白をぽんと軽く叩いた。†",
+    ("オレは笑迴顔でそう言って、あかりの背白をぽんと軽く叩いた。†",
     ""),
     # I said with a laughing face and lightly tapped Akari's back.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "…a"
 
-    ("あかりは蛯大きく目を見開くと、",
+    ("あかりは大きく目を見開くと、",
     ""),
     # Akari's eyes wide open,
 
@@ -110,15 +110,15 @@ text_array = [
     ""),
     # They still have more time to spare.†
 
-    ("だから、いままで通闥り竄やっていく。",
+    ("だから、いままで通闥りやっていく。",
     ""),
     # That's why I'll continue to tamper with it.
 
-    ("ずっとこのままでいようと烽も、ある冾日を境に恋人同士になｂうと烽も、それで烽もあかりはあかりに痰違いない。†",
+    ("ずっとこのままでいようと烽も、ある冾日を境に恋人同士になうと烽も、それで烽もあかりはあかりに痰違いない。†",
     ""),
     # Wanting to stay like this for a long time, and after one day they become lovers, and so even Hoshi is sure to be a phlegm for the light.†
 
-    ("オ激レはあかりが好きだ。",
+    ("オレはあかりが好きだ。",
     ""),
     # I like Akari.
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # I felt like it was okay to just say "I love you."◯
 
-    ("学校前の道には、観光バス４艪台が連なっていた。",
+    ("学校前の道には、観光バス４台が連なっていた。",
     ""),
     # There were four tourist bus trains on the road in front of the school.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # The students waited inside the school rim.
 
-    ("オ激レは重たいあかりの荷物を置くと、連中に加妺わらず、地面にｍ會高ｺ奄した。†",
+    ("オレは重たいあかりの荷物を置くと、連中に加妺わらず、地面にｍ會高ｺ奄した。†",
     ""),
     # When I placed the heavy light bags, the people didn't get along, so I hung up on the ground.†
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "Ah, I'm tired of my own devil... The one who's a slut."
 
-    ("あかりの荷物があまりに烽も重かったので、オ激レは自分のと交換して竄やった。",
+    ("あかりの荷物があまりに烽も重かったので、オレは自分のと交換してやった。",
     ""),
     # Akari's luggage was so heavy that I exchanged it for my own and tampered with it.
 

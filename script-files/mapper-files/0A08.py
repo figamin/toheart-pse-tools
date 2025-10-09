@@ -6,23 +6,23 @@ text_array = [
     ""),
     # (Erimeo Ou's Scales Event) (Bukinote: A day without Shiho's appearance event) (Kyuuu LV1) (Shopping Street)†
 
-    ("商店街を烽歩いていると、不意にオ激レの目の前にポケットティッシャが差し出された。",
+    ("商店街を烽歩いていると、不意にオレの目の前にポケットティッシャが差し出された。",
     ""),
     # As I was walking around the shopping district, a pocket tissue suddenly reached out in front of me.
 
-    ("諱よく駅前なんかで配ってる竄やつだ。†",
+    ("諱よく駅前なんかで配ってるやつだ。†",
     ""),
     # It's a tampering thing that I often give away in front of stations.†
 
-    ("「あーなになに、增『轣育毛・殖毛ダイナマイトキャャンペーン！！』增？」",
+    ("「あーなになに、『轣育毛・殖毛ダイナマイトキャャンペーン！！』？」",
     ""),
     # "Ah, what, what? 'Hair growth/growth hair dynamite champagne!''
 
-    ("いまのとこｂ、オ激レには関係ねー話だな。",
+    ("いまのとこ、オレには関係ねー話だな。",
     ""),
     # This is nothing to do with me at the moment.
 
-    ("それをポケットに入齠れかけて、オ激レはふと気が付いた。",
+    ("それをポケットに入齠れかけて、オレはふと気が付いた。",
     ""),
     # I put it in my pocket and began to take it, and suddenly I realized it.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # A: I'll call you out.Relax
 
-    ("Ｂ	竅やめておく。閨",
+    ("Ｂ	やめておく。閨",
     ""),
     # B: Stop it.Relax
 

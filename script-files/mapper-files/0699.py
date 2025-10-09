@@ -2,19 +2,19 @@
 # Source file: 0699.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ａ	記念にネコプ潟リしようぜ）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ａ	記念にネコプリしようぜ）†",
     ""),
     # (Macyu Ruchi, Scales Event 2F LV4) (Choice A, let's make a commemorative Nekopukulato)†
 
-    ("「マ泣ルチ、最纃後の記念にネコプ潟リしようぜ」",
+    ("「マルチ、最纃後の記念にネコプリしようぜ」",
     ""),
     # "Makuruchi, let's go to the Cat Lagoon to commemorate the end of the day."
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
-    ("「ネコプ潟リってなんですか？」",
+    ("「ネコプリってなんですか？」",
     ""),
     # "What is Nekopugatari?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Is that?"
 
-    ("「そうそう。記念にいっし蛯ょに撮獅うぜ」",
+    ("「そうそう。記念にいっしょに撮獅うぜ」",
     ""),
     # "That's right. I'll take a picture of the lily as a commemorative photo."
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Get the finished stickers, nyan" †
 
-    ("「增わあ、さんと墲わたしがたくさん写ってますー」",
+    ("「わあ、さんと墲わたしがたくさん写ってますー」",
     ""),
     # "Ahhh, there are lots of people and me in pictures."
 
-    ("機械から出てきた写真を眺めて、マ泣ルチは顔をほこｂばせた。†",
+    ("機械から出てきた写真を眺めて、マルチは顔をほこばせた。†",
     ""),
     # Looking at the photo that came out of the machine, Ruchi Makkuri turned his face.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Okay, phlegm, this..."
 
-    ("チ㏍ョキチ㏍ョキ…。",
+    ("チョキチョキ…。",
     ""),
     # It's so rough...
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "Look, half at a time."
 
-    ("備えつけのはさみで半分に切って、片荿方をマ泣ルチに手渡した。†",
+    ("備えつけのはさみで半分に切って、片荿方をマルチに手渡した。†",
     ""),
     # He cut it in half with the provided scissors and handed the one-sided side to Makruchi.†
 
-    ("マ泣ルチはネコプ潟リシールの写真を蛯大切そうに胸に魔当てると、",
+    ("マルチはネコプリシールの写真を大切そうに胸に魔当てると、",
     ""),
     # Makkuruchi carefully pees a photo of Nekopgata Resille and places a demon on his chest.
 

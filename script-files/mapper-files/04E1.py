@@ -2,7 +2,7 @@
 # Source file: 04E1.txt
 
 text_array = [
-    ("（志保	好感度型回秤数イベントＰＳ）閨（好感度で回秤数イベントに入齠れ替岺わり）閨（３／２１限闌定）†",
+    ("（志保	好感度型回秤数イベントＰＳ）閨（好感度で回秤数イベントに入齠れ替岺わり）閨（３／２１限定）†",
     ""),
     # (Shiho Likeability Type Scales Event PS) (Since it is a good feeling that it will be replaced by the Scales Event) (3/21 limit)†
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Oh, it's Shiho who beckons me like this.
 
-    ("あかり烽もいっし蛯ょだな。",
+    ("あかり烽もいっしょだな。",
     ""),
     # Akari Hot is also a slut.
 
-    ("オ激レは二人の福方へｌかった。†",
+    ("オレは二人の方へｌかった。†",
     ""),
     # My geisha was on the two of us for good luck.†
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # There's a saurus written on his face.I want to go to yak with me."
 
-    ("「そり痰ゃおめーがそう思ってんだｂーが」",
+    ("「そり痰ゃおめーがそう思ってんだーが」",
     ""),
     # "That's what I think, b."
 
-    ("志保のрヤツ、要するにオ激レを誘いたかったらしい。",
+    ("志保のрヤツ、要するにオレを誘いたかったらしい。",
     ""),
     # Shiho's guy, in other words, he wanted to invite me to do some crazy things.
 
-    ("むち痰ゃくち痰ゃな志保の竄やり福方に、あかり烽もくすくす笑っている。†",
+    ("むち痰ゃくち痰ゃな志保のやり方に、あかり烽もくすくす笑っている。†",
     ""),
     # Akari Hou is chuckling at Shiho's way of tampering with whipping phlegm and blessing.†
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # "Even so, you have one choice, too."
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
-    ("Ａ	行って竄やるよ。閨",
+    ("Ａ	行ってやるよ。閨",
     ""),
     # A I'll go and tamper with it.Relax
 
-    ("Ｂ	增わりぃけど、パス。閨",
+    ("Ｂ	わりぃけど、パス。閨",
     ""),
     # B But I pass.Relax
 

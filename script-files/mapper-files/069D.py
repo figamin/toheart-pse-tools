@@ -2,7 +2,7 @@
 # Source file: 069D.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	１階１）閨（４獅月１４冾日）閨（ＣＧマ泣ルチ	廊下掃恆除）†",
+    ("（マルチ	回秤数イベント	１階１）閨（４獅月１４冾日）閨（ＣＧマルチ	廊下掃恆除）†",
     ""),
     # (Marry Cry Scales Event, 1st floor 1) (4th Lion, 14th Day) (CG Marry Cry Scales Hallway Scavenging)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # As I descended to the first floor, there was a female student who swept the hallway with an A-mop in hand.
 
-    ("額に汗して一生恊懸命掃恆除するのは高ロボットのマ泣ルチだ。†",
+    ("額に汗して一生恊懸命掃恆除するのは高ロボットのマルチだ。†",
     ""),
     # It's the high robot's murmur who sweats and tries hard to wipe out his forehead for the rest of his life.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Even though it's a Koh Robot, the sight of him sweeping and seriously sweeping away all his life is a good looking person from the outside.†
 
-    ("マ泣ルチが、ふぅ、と一息ついて手を休めたので、近寄って声をかけた。",
+    ("マルチが、ふぅ、と一息ついて手を休めたので、近寄って声をかけた。",
     ""),
     # Muruch said, "Heh," he took a break and rested his hand, so he approached me and called out.
 
-    ("「諱よっ、マ泣ルチ」†",
+    ("「諱よっ、マルチ」†",
     ""),
     # "My name is, my cry"†
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # "Ah, hello."
 
-    ("マ泣ルチはにっこりと笑迴顔で嘯答えた。",
+    ("マルチはにっこりと笑迴顔で嘯答えた。",
     ""),
     # Ruchi replied with a smile and a smile.
 
-    ("「またずいぶんと熱心に竄やってるじ痰ゃねーか。感心、感心」†",
+    ("「またずいぶんと熱心にやってるじ痰ゃねーか。感心、感心」†",
     ""),
     # "When you're doing it so enthusiastically again, you have to be phlegmy. Impressed, Impressed."
 
-    ("「增わたし、お掃恆除蜿大好きなんですよー」",
+    ("「わたし、お掃恆除蜿大好きなんですよー」",
     ""),
     # "I love cleaning and removing your gear."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "You're a tranquilizer who likes to sweep and remove it."
 
-    ("…い竄や、そうで烽もないか。",
+    ("…いや、そうで烽もないか。",
     ""),
     # ...Is it a mess, and so is there no hot water?
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Well, it's good to clean up and remove it.
 
-    ("頑張齟れよ」",
+    ("頑張れよ」",
     ""),
     # Do your best."
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "Oh, I'm in awe."
 
-    ("オ激レは微笑んだ。†",
+    ("オレは微笑んだ。†",
     ""),
     # I smiled.†
 
-    ("さて、これからオ激レは｢｢。",
+    ("さて、これからオレは｢｢。",
     ""),
     # Well, from now on, I'm going to say ".
 
-    ("Ａ	マ泣ルチと話し桙込む。閨",
+    ("Ａ	マルチと話し桙込む。閨",
     ""),
     # A. He talks to Ruchi and flies.Relax
 

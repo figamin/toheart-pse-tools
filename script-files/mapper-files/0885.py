@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Game Remy Scales Event 2nd Floor 1 Selection C)†
 
-    ("子沁供って言って烽も、ピンからキ潟リまであるよな。",
+    ("子沁供って言って烽も、ピンからキリまであるよな。",
     ""),
     # It's said that he's getting a little bit of a baby, and even the other way around, it's all over the place.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I like honest kids. I hate being cocky."
 
-    ("オ激レはきっぱりと言った。",
+    ("オレはきっぱりと言った。",
     ""),
     # I said firmly.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Apparently, if you don't get one, you won't be able to get on here...
 
-    ("オ激レの嘯答えは｢｢。",
+    ("オレの嘯答えは｢｢。",
     ""),
     # My throbbing answer is ".
 

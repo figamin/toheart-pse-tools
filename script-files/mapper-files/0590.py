@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aoi Scales Event 5 after selection A)†
 
-    ("「葵ち痰ゃんは、竅やっぱりすごいなあ」",
+    ("「葵ち痰ゃんは、やっぱりすごいなあ」",
     ""),
     # "Aoi Chisho-yan is amazing after all."
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "You're not going to be a continuous stream of effort from morning to night. I'll respect you, really."
 
-    ("オ激レが言うと、葵ち痰ゃんは苦笑をｂ浮かべた。†",
+    ("オレが言うと、葵ち痰ゃんは苦笑を浮かべた。†",
     ""),
     # When I said that, Aoi Chisho-yan gave a wry smile.†
 
-    ("「增わ、п私って、﨟基本的に才能ないですから、なにをするに烽も人齔一倍努力しないと駄目なんです。だから｢｢」",
+    ("「わ、п私って、﨟基本的に才能ないですから、なにをするに烽も人齔一倍努力しないと駄目なんです。だから｢｢」",
     ""),
     # "But I'm basically not talented, so I have to work harder than anyone else in order to do anything. That's why I say "
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "If you don't have talent, that's not a phlegm."
 
-    ("オ激レは言葉をさえぎっていった。",
+    ("オレは言葉をさえぎっていった。",
     ""),
     # My heart interrupted.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Is it a talent that you can put in effort?"
 
-    ("「うん。ほら、£葬国の孔子燻も言ってんだｂ？",
+    ("「うん。ほら、£葬国の孔子燻も言ってんだ？",
     ""),
     # "Yes. Come on, are you talking about smoking Confucius from the funeral?
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # "?"†
 
-    ("「つまり、なにごと烽も楽しんで竄やってる人間にはかな墲わないってことだｂ。だから本末当に楽しんで格闘技ができる葵ち痰ゃんは、格闘技の才能があるってことなんじ痰ゃない？」†",
+    ("「つまり、なにごと烽も楽しんでやってる人間にはかな墲わないってことだ。だから本末当に楽しんで格闘技ができる葵ち痰ゃんは、格闘技の才能があるってことなんじ痰ゃない？」†",
     ""),
     # "In other words, people who enjoy and tamper with things like that are not good at anything. So Aoi Chisho-yan, who can enjoy martial arts and play martial arts, has the talent for martial arts, so is it not good for you?"
 
-    ("「そ、そうでし蛯ょうか？」",
+    ("「そ、そうでしょうか？」",
     ""),
     # "Oh, is that so, is it a lily?"
 
-    ("「格闘技、楽しんで竄やってんだｂ？」",
+    ("「格闘技、楽しんでやってんだ？」",
     ""),
     # "Are you having fun with martial arts and doing tampering?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Ah, yes."
 
-    ("葵ち痰ゃんは蛯大きくうなずいた。",
+    ("葵ち痰ゃんは大きくうなずいた。",
     ""),
     # Aoi Chisho-yan nodded his head loudly.
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "a…"†
 
-    ("「だからさ、もっと自信攝持ってくれよ。オ激レの先生なんだからさ」",
+    ("「だからさ、もっと自信攝持ってくれよ。オレの先生なんだからさ」",
     ""),
     # "So, please have more confidence. You're a great teacher."
 
-    ("オ激レがポンと肩を叩いて言うと、葵ち痰ゃんは恥ずかしそうに顔を嘯伏せて、縺上目づかいにオ激レを見た。",
+    ("オレがポンと肩を叩いて言うと、葵ち痰ゃんは恥ずかしそうに顔を嘯伏せて、縺上目づかいにオレを見た。",
     ""),
     # When I smacked my shoulder and said, Aoi Chisho-yan looked down in shyness and looked at me with her eyes on her.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Even in the evening, the practice continued until the evening.
 
-    ("帰闍り際、葵ち痰ゃんはオ激レに、格闘技の本を貸してくれた。†",
+    ("帰闍り際、葵ち痰ゃんはオレに、格闘技の本を貸してくれた。†",
     ""),
     # As I returned home, Aoi Chisho-yan lent me a book on martial arts.†
 

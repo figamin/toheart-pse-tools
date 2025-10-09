@@ -2,7 +2,7 @@
 # Source file: 0640.txt
 
 text_array = [
-    ("（マ泣ルチ	好感度イベント	１）閨（好感度が	のとき）閨（３桙時間目の休み桙時間）閨（渡闢り廊下）†",
+    ("（マルチ	好感度イベント	１）閨（好感度が	のとき）閨（３桙時間目の休み桙時間）閨（渡闢り廊下）†",
     ""),
     # (Makkuruchi Likeability Event 1) (When Likeability is ) (When Rest Time in the 3rd Floor Time) (Counter corridor) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The third fence time is the break time.
 
-    ("渡闢り廊下でマ泣ルチを見かけた。†",
+    ("渡闢り廊下でマルチを見かけた。†",
     ""),
     # I saw Ruchi in the corridor along the way.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Hello, dogs, dogs."
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "The weather is nice now, too."
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Do you like hinata basking?"
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「增わん、",
+    ("「わん、",
     ""),
     # "Bang,
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Wow" †
 
-    ("「うーん、ごいっし蛯ょしたいのは竄やま竄やまですが、增わたしは授業があるからダ＜メなんですよー」",
+    ("「うーん、ごいっしょしたいのはやまやまですが、わたしは授業があるからダ＜メなんですよー」",
     ""),
     # "Hmm, I want to sing together, but I'm not slaughter because I have classes."
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # But he's also very strict.
 
-    ("いぬ鰍相闡手に敬鼬語なんか使い竄やがって。",
+    ("いぬ鰍相闡手に敬鼬語なんか使いやがって。",
     ""),
     # They used the words "Anyaku" to the dog monk.
 
-    ("い竄や、で烽も、まあ、機械で出女たマ泣ルチにすれば、いぬ烽も人間煌も自分たち高ロボットとは痰違う『生き物』なんだし、瘁違いなんてないのか烽もしれねーな。†",
+    ("いや、で烽も、まあ、機械で出女たマルチにすれば、いぬ烽も人間煌も自分たち高ロボットとは痰違う『生き物』なんだし、瘁違いなんてないのか烽もしれねーな。†",
     ""),
     # If we were to make Karashi, and then, if we were to turn the woman out of a machine into a cry, both the dog and the human Kirashi were "living creatures" that were different from those of high robots, so it's no surprise that there's nothing wrong with them.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "It's almost time for lunch."
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "Are you hungry?"
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
-    ("「そうですかぁ。うら竄やましいです。",
+    ("「そうですかぁ。うらやましいです。",
     ""),
     # "I see. I'm jealous.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # I can't eat, so I'm not hungry either."
 
-    ("「增わん、",
+    ("「わん、",
     ""),
     # "Bang,
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "...How do you feel when you're hungry?"
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "I want to know."
 
-    ("「增わんっ」†",
+    ("「わんっ」†",
     ""),
     # "Booo" †
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # ""please!”
 
-    ("「增わんっ」†",
+    ("「わんっ」†",
     ""),
     # "Booo" †
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Is it tasty?"
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # It's not there anymore."
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "Was it that tasty?"
 
-    ("「增わんっ」†",
+    ("「わんっ」†",
     ""),
     # "Booo" †
 
@@ -206,12 +206,12 @@ text_array = [
     ""),
     # "I see. I see. If I receive something again next time, I'll bring you some."
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "...Hey, dog."
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # "Kuuuuuu"
 
-    ("「增わたし、犬さんがうら竄やましいですー」",
+    ("「わたし、犬さんがうらやましいですー」",
     ""),
     # "I'm jealous of dogs."
 
-    ("「增わん、",
+    ("「わん、",
     ""),
     # "Bang,
 
@@ -251,14 +251,14 @@ text_array = [
     # It's delicious, but I don't know what it is.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("香ロボットって、いったいどんな気搴持ちなんだｂう？",
+    ("香ロボットって、いったいどんな気搴持ちなんだう？",
     ""),
     # What kind of energy does a fragrance robot have?
 
-    ("オ激レたち人間のことを見て、どんな気搴持ちでいるんだｂう？",
+    ("オレたち人間のことを見て、どんな気搴持ちでいるんだう？",
     ""),
     # When I see people, what kind of energy do you have?
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # That's stupid.
 
-    ("香ロボットなんて、プ鴻ログ宴ラムどおりに動いてんだから、気搴持ち烽もなに烽もないだｂう。",
+    ("香ロボットなんて、プ鴻ログラムどおりに動いてんだから、気搴持ち烽もなに烽もないだう。",
     ""),
     # The Koh Robots are moving in the way they are, so there are no hot and no hot pots.
 
@@ -279,10 +279,10 @@ text_array = [
     # No matter how hot it is, no matter how hot it is, no matter how hot it is...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("マ泣ルチには…あるような気がする…。†",
+    ("マルチには…あるような気がする…。†",
     ""),
     # I feel like there is something in Makruchi...†
 
@@ -290,11 +290,11 @@ text_array = [
     ""),
     # "By the way, dog."
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
-    ("「おーい、マ泣ルチー」†",
+    ("「おーい、マルチー」†",
     ""),
     # "Hey, Luchi, yeah" †
 
@@ -302,15 +302,15 @@ text_array = [
     ""),
     # "?"
 
-    ("声に気づき、マ泣ルチはこっちを見た。",
+    ("声に気づき、マルチはこっちを見た。",
     ""),
     # When Makruchi noticed the voice, he looked over at me.
 
-    ("「增わんっ」",
+    ("「わんっ」",
     ""),
     # "No way."
 
-    ("と同椏時に、きち痰ゃない犬がオ激レの足熨もとにｋけ寄ってきた。†",
+    ("と同椏時に、きち痰ゃない犬がオレの足熨もとに駆け寄ってきた。†",
     ""),
     # At the same time, a dog with no phlegms approached my slutty feet.†
 
@@ -326,11 +326,11 @@ text_array = [
     ""),
     # "Yes! I'm fine now too"
 
-    ("その繧後、チャャイムが鳴髢る１分前まで、オ激レはマ泣ルチとなにげないおし痰ゃべりをした。",
+    ("その繧後、チャャイムが鳴髢る１分前まで、オレはマルチとなにげないおし痰ゃべりをした。",
     ""),
     # After that, until one minute before Chaim pounded, I cried and casually sputum battered my eyes.
 
-    ("マ泣ルチはいつ烽もどおり、明髢るく素直で前糟きな、とて烽もいいрヤツだった。◯",
+    ("マルチはいつ烽もどおり、明髢るく素直で前糟きな、とて烽もいいрヤツだった。◯",
     ""),
     # He was always like a hot topic, and was very honest, honest, and very cheerful.◯
 

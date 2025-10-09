@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Game Remy: Scales Event PS) (Chooses that are different phlegm)†
 
-    ("「瘁違うだｂ、それはよぉ」",
+    ("「瘁違うだ、それはよぉ」",
     ""),
     # "No, that's not good."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Is it not that mirage...?"
 
-    ("「諱よく知迺らねえけど、あれは弓道じ痰ゃねえだｂ？」",
+    ("「諱よく知迺らねえけど、あれは弓道じ痰ゃねえだ？」",
     ""),
     # "I don't know much about it, but that's a archery phlegm?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Yeah…"†
 
-    ("「最燕初に撃レミィが竄やって見せた竄やつ、カッコ良かったじ痰ゃねえか。あっちの福方を見せてくれよ」",
+    ("「最燕初に撃レミィがやって見せたやつ、カッコ良かったじ痰ゃねえか。あっちの方を見せてくれよ」",
     ""),
     # "The tampering that Ekiremi first saw at the very beginning was cool, so you have no phlegm. Show me that lucky side."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I'm sorry... I'm suffering from the pain."
 
-    ("「苦闍手って、＝普通の竄やつがか？」",
+    ("「苦闍手って、＝普通のやつがか？」",
     ""),
     # "Is the pain-related thing = a normal tampering thing?"
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「『うん』って…オ激レ、けっこー冝期待してたんだぞぉ」",
+    ("「『うん』って…オレ、けっこー冝期待してたんだぞぉ」",
     ""),
     # "I was hoping for "Yes"...I was really excited about it."
 
-    ("そんなことを言ってると、さっきの先輩が竄やってきた。†",
+    ("そんなことを言ってると、さっきの先輩がやってきた。†",
     ""),
     # As I said that, the senior I just said it started tampering with.†
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # "What was it, Mr. #? Karemi Remi's special move."
 
-    ("「すごかったけど、あれって蛯大痩じ痰ゃ役に立たないんじ痰ゃないっすか？」",
+    ("「すごかったけど、あれって大痩じ痰ゃ役に立たないんじ痰ゃないっすか？」",
     ""),
     # "It was amazing, but is that too much weight loss phlegm not of any use? Isn't that useless?"
 
-    ("「そうなのよぉ。動いてさえいれば唐遠的（的までの翌距離が唐遠い墲種目）の的で烽もど真んｒなのにねぇ」†",
+    ("「そうなのよぉ。動いてさえいれば遠的（的までの翌距離が遠い墲種目）の的で烽もど真んｒなのにねぇ」†",
     ""),
     # "That's right. As long as it's moving, it's the target of the Tang Yuan (the next distance to Tang Yuan) and the Chiang is just right."
 
-    ("「どうする？	戟レミィ。彼＃氏は蛯大痩で優泓勝しｂって言ってる墲わよ？	諱頑張って福練習するしかない墲わね」",
+    ("「どうする？	戟レミィ。彼＃氏は大痩で優泓勝しって言ってる墲わよ？	諱頑張って練習するしかない墲わね」",
     ""),
     # "What will you do? Hakuremi. He's a huge slender guy and you're saying he's a b-skinned guy. He's just going to have to do his best and practice for good luck."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Another senior says that.†
 
-    ("「い竄や、そこまでは｢｢」",
+    ("「いや、そこまでは｢｢」",
     ""),
     # "It's a bit of a mess, and that's how it goes "
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "What is that phlegm?"
 
-    ("「諱頑張ってね撃レミィ。できれば唐遠的でｊ咽竃ｵて欲しい墲わ」",
+    ("「諱頑張ってね撃レミィ。できれば遠的でｊ咽竃ｵて欲しい墲わ」",
     ""),
     # "Good luck with your heart, Ekiremi. I hope you'll be a little thirsty and get a thirst."
 
-    ("「そうそう。ウチは唐遠的が繧弱点だから」",
+    ("「そうそう。ウチは遠的が繧弱点だから」",
     ""),
     # "That's right. Our weakness is Tang Yuan."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Hey"†
 
-    ("なんかま墲わりの変なノ潟リに押し切逅られてしまったぜ。",
+    ("なんかま墲わりの変なノリに押し切逅られてしまったぜ。",
     ""),
     # I was somehow overcome by a strange, no-gata-ri.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Surrounded by his strangely good-looking seniors, it looks like he's having fun...
 
-    ("ま、オ激レが見にｗたおかげで撃レミィがｊ咽竃ｷるようになれば、それはそれで嬉しいけど。◯",
+    ("ま、オレが見にｗたおかげで撃レミィがｊ咽竃ｷるようになれば、それはそれで嬉しいけど。◯",
     ""),
     # Well, I'm happy if I could see it lol and Geki Remi started slurping.◯
 

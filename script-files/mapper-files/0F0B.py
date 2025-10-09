@@ -2,11 +2,11 @@
 # Source file: 0F0B.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル２）閨（学年テスト繝後）閨（選択綜	あかり）†",
+    ("（ゲーセンバトル２）閨（学年テスト繝後）閨（選択綜	あかり）†",
     ""),
     # (Arcade Battle Cry 2) (After the grade test) (Selection Akari)†
 
-    ("「竅やっぱりここは、無俣にあかりだな」",
+    ("「やっぱりここは、無俣にあかりだな」",
     ""),
     # "As expected, this place is a light in Mumata."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Huh!?"
 
-    ("「今回は対岺戦型のアクシ㏍ョンゲームだ。前回以繹上に、実力が烽ものを言うぜ」",
+    ("「今回は対岺戦型のアクションゲームだ。前回以繹上に、実力が烽ものを言うぜ」",
     ""),
     # "This time it's a battle-type accident game. I'll be talking about my abilities more than last time."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "I'm more and less confident..."
 
-    ("「お竄やお竄や、閨手詞い鰍相闡手を選んだ烽ものねぇ。てっきりあたしを指名するかと思ったのに」",
+    ("「おやおや、閨手詞い鰍相闡手を選んだ烽ものねぇ。てっきりあたしを指名するかと思ったのに」",
     ""),
     # "You've got a lot of tampering, tampering, or choosing a cute and cute interchangeable thing. I thought I'd just nominate me."
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Unfortunately, if I fight you I'll get tired."
 
-    ("「あら、艨我が宿敵とは思えないセ潟リフね」",
+    ("「あら、艨我が宿敵とは思えないセリフね」",
     ""),
     # "Oh, it's a Segata riff that I don't think is my archenemy."
 
-    ("「なんとで烽も言え。さあ、竅やるぞ、あかり」†",
+    ("「なんとで烽も言え。さあ、やるぞ、あかり」†",
     ""),
     # "What's more, I'll say it too. Come on, let's do it, Akari."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "All right, when this happens, I'll do my best!"
 
-    ("あかりはキ潟リッと真武剣な表﨣情になった。",
+    ("あかりはキリッと真武剣な表﨣情になった。",
     ""),
     # Akari suddenly became a real sword-like scientist.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # ♂She insults and Shiho's voice = support.
 
-    ("オ激レのほうがすっかり悪役だ。†",
+    ("オレのほうがすっかり悪役だ。†",
     ""),
     # My geek is a completely villain.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "All right, the game is starting."
 
-    ("オ激レとあかりは椅子に座った。",
+    ("オレとあかりは椅子に座った。",
     ""),
     # Megure and Akari sat in their chairs.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Put in a 100 yen coin and press the start button lightly.
 
-    ("「戟レッツ、プ激レイ！」◯",
+    ("「戟レッツ、プレイ！」◯",
     ""),
     # "Let's do it, do it!" ◯
 

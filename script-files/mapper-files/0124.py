@@ -2,15 +2,15 @@
 # Source file: 0124.txt
 
 text_array = [
-    ("（あかり	ＶＳイベント	戟レミィ）閨（選択綜Ａ	フ激レンド）†",
+    ("（あかり	ＶＳイベント	戟レミィ）閨（選択綜Ａ	フレンド）†",
     ""),
     # (Akari VS Event Karemi) (Selection A Fried Rend)†
 
-    ("「そり痰ゃ魔当然、フ激レンドだｂ。いまさらなに言ってんだ」",
+    ("「そり痰ゃ魔当然、フレンドだ。いまさらなに言ってんだ」",
     ""),
     # "Of course, phlegm is a huge trend b. What are you talking about now?"
 
-    ("「秩ｒｂ≠ａ撃ｌ撃ｌ凾ｙ？」",
+    ("「秩ｒ≠ａ撃ｌ撃ｌ凾ｙ？」",
     ""),
     # "Order RB≠A Shot l Shot l Shot l Snap l Snap l Y?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # When I said that, Karemi nodded, somehow convinced himself.†
 
-    ("「入盾ｏ	≠≠ａ垂ｐ垂ｐ凾ｙ	ｔ盾ｏ	≠ｂ≠ａ窒ｒ！」",
+    ("「入盾ｏ	≠≠ａ垂ｐ垂ｐ凾ｙ	ｔ盾ｏ	≠≠ａ窒ｒ！」",
     ""),
     # "Intrusion shield o ≠ a hanging plow y t shield o ≠ b ≠ a nitrogen!"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Oh, hey, hey."
 
-    ("なんだか知迺らないが、戟レミィは嬉しそうにｋけ足で戻っていった。",
+    ("なんだか知迺らないが、戟レミィは嬉しそうに駆け足で戻っていった。",
     ""),
     # It was somehow hard to understand, but Furemi happily returned in a silence.
 

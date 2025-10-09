@@ -2,11 +2,11 @@
 # Source file: 039E.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ３）閨（４獅月）閨（好感度イベント８を見ていない状態なら発生）閨（下濶り竄坂）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ３）閨（４獅月）閨（好感度イベント８を見ていない状態なら発生）閨（下濶り坂）†",
     ""),
     # (Tomoko's Scales Event: Departing from school LV3) (4 Shizuki) (occurs if you are not watching the Likeability Event 8) (occurs (Shimohachiritsuzaka)†
 
-    ("下濶り竄坂をのんびり烽歩いていると、縺後撃からオ激レを追い抜いていく翌女生徒がひとり。†",
+    ("下濶り坂をのんびり烽歩いていると、縺後撃からオレを追い抜いていく翌女生徒がひとり。†",
     ""),
     # As I was walking leisurely along the Shimofuritanhigashi slope, there was a female student who overtook me after the attack.†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # He's the chairman.
 
-    ("オ激レには目燒もくれず、通闥り過ぎていく。†",
+    ("オレには目燒もくれず、通闥り過ぎていく。†",
     ""),
     # I didn't even take a look at my ramblings, and I ended up commuting too much.†
 

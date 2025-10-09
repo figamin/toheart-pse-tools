@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "As you can see" †
 
-    ("「じ痰ゃあ、オ激レは帰驪るの竄やめた」",
+    ("「じ痰ゃあ、オレは帰驪るのやめた」",
     ""),
     # "Ah, I've stopped going back."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Here you go."
 
-    ("「…なんだよ、オ激レと帰闍りてえのか？」",
+    ("「…なんだよ、オレと帰闍りてえのか？」",
     ""),
     # "...What is it? Can I go back to my heart's content?"
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "I'm sorry, I'll say it..."
 
-    ("とか言いながら、オ激レ焜も無摶理に断髓る揩理由はないので、つき№合って竄やることにした。†",
+    ("とか言いながら、オレ焜も無摶理に断髓る揩理由はないので、つき№合ってやることにした。†",
     ""),
     # As I said that, there was no reason to let my slut go unnoticed, so I decided to go and tamper with it.†
 
-    ("「ねえ、新学匇期が始まって３週間ほど経つけど、新しいク宴ラス、どお？」",
+    ("「ねえ、新学匇期が始まって３週間ほど経つけど、新しいクラス、どお？」",
     ""),
     # "Hey, it's been about three weeks since the new school divination began, but what about the new banquet?"
 
@@ -62,23 +62,23 @@ text_array = [
     ""),
     # "Absolutely...
 
-    ("雅史はいっし蛯ょだし…、一年のときと変﨑わらねえな」",
+    ("雅史はいっしょだし…、一年のときと変﨑わらねえな」",
     ""),
     # Masashi is a ephemeral...I'm not sure if it's a year or so."
 
-    ("「あかり烽もいっし蛯ょになったでし蛯ょ」",
+    ("「あかり烽もいっしょになったでしょ」",
     ""),
     # "Akari Hot was also a slut."
 
-    ("「そうだな…。あいつとは、ほとんどｖ淫俣棏投銜鰍ｍ寘わせてるから、ク宴ラスなんて関係ねえよ」",
+    ("「そうだな…。あいつとは、ほとんどｖ淫俣棏投銜鰍ｍ寘わせてるから、クラスなんて関係ねえよ」",
     ""),
     # "That's right... He's pretty much going on with him, so it's not related to the Crown."
 
-    ("「みんないっし蛯ょで、嬉しい？」†",
+    ("「みんないっしょで、嬉しい？」†",
     ""),
     # "Are you all happy about this ecstasy?"
 
-    ("「♂史竡やあかりと同じク宴ラスになったことがか？」",
+    ("「♂史竡やあかりと同じクラスになったことがか？」",
     ""),
     # "Has it been the same banquet as Shiko and Akari?"
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # A: I'm not happy.Relax
 
-    ("Ｂ	ち蛯ょっと嬉しいかな。閨",
+    ("Ｂ	ちょっと嬉しいかな。閨",
     ""),
     # B I'm sure I'm happy.Relax
 

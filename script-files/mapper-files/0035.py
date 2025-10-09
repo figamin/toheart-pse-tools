@@ -14,7 +14,7 @@ text_array = [
     ""),
     # It's over, it's over.
 
-    ("オ激レは伸びをして、蛛大きなあくびをした。†",
+    ("オレは伸びをして、蛛大きなあくびをした。†",
     ""),
     # My heart thrived and yawned in a huge yawn.†
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # Shoe cabinet.
 
-    ("学園ｉモノの漫譁画とかじ痰ゃ、堰ラブ激レターとかが入齠れてあったりするけど、実際にそんなことはあるのだｂーか？†",
+    ("学園ｉモノの漫譁画とかじ痰ゃ、堰ラブレターとかが入齠れてあったりするけど、実際にそんなことはあるのだーか？†",
     ""),
     # There are manga and powerful letters of the school i-tale, such as the sputum and the dam's love letter, but is that actually the case?†
 
-    ("学校を出て、いつ烽もの竄坂道を下驩る。",
+    ("学校を出て、いつ烽もの坂道を下驩る。",
     ""),
     # When did I leave school, I went down the hill.
 
-    ("ぺち痰ゃくち痰ゃおし痰ゃべりしながら帰驪る生徒、自転車でｋけ下濶りていく生徒、様々だ。",
+    ("ぺち痰ゃくち痰ゃおし痰ゃべりしながら帰驪る生徒、自転車で駆け下濶りていく生徒、様々だ。",
     ""),
     # There are a variety of students who go home while shaking their hair, and while they go down on their bikes.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # If you're not sleepy, awakening should be good.
 
-    ("お竄やすみ。◯",
+    ("おやすみ。◯",
     ""),
     # Good night to tamper with.◯
 

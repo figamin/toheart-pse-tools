@@ -14,7 +14,7 @@ text_array = [
     ""),
     # There are particularly many droplets, so there are no hot water.
 
-    ("昼£メシどきのあ墲わただしいときに墲わざ墲わざ声をかけること烽もないだｂう。",
+    ("昼£メシどきのあ墲わただしいときに墲わざ墲わざ声をかけること烽もないだう。",
     ""),
     # When you're having a meal at lunchtime, you'll never be able to call out to someone.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Ah, that's right."
 
-    ("ド潟リンクをモ買い忘齧れてることに気が付き、オ激レは自販機へと引き返した。◯",
+    ("ドリンクをモ買い忘齧れてることに気が付き、オレは自販機へと引き返した。◯",
     ""),
     # I realized that I was losing out on the Dogata Link, so I turned back to the vending machine.◯
 

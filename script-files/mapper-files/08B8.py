@@ -58,15 +58,15 @@ text_array = [
     ""),
     # With that in mind, Remi shook her head weakly.
 
-    ("オ激レに好きな子がいると、困骰るような福口振關り…。",
+    ("オレに好きな子がいると、困骰るような口振關り…。",
     ""),
     # When I have a girl I like, I find Fukuguchi's message that is bothering me...
 
-    ("もしかして撃レミィ、オ激レのことが｢｢。",
+    ("もしかして撃レミィ、オレのことが｢｢。",
     ""),
     # Maybe it's about Ekiremi and me being ".
 
-    ("…なんて、都∮合のいい解釈は竄やめよう。†",
+    ("…なんて、都∮合のいい解釈はやめよう。†",
     ""),
     # ...Let's stop tampering with such a good interpretation.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Is there no wa Remie?"
 
-    ("オ激レは逆に聞いてみた。",
+    ("オレは逆に聞いてみた。",
     ""),
     # I asked him the other way around.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "I also like, let's find someone, shall we?"
 
-    ("さっきまで獅落ち桙込んでいたのに、けｂっとして",
+    ("さっきまで獅落ち桙込んでいたのに、けっとして",
     ""),
     # It had been falling lion until just now, but it was a keen b
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # Remy said.
 
-    ("「べつに、無摶理に見つけなくて烽もいいだｂ」†",
+    ("「べつに、無摶理に見つけなくて烽もいいだ」†",
     ""),
     # "It's fine, it's fine if you can't find it without any problems."
 
-    ("「うん。が言うなら、ム潟リしないｃ」",
+    ("「うん。が言うなら、ムリしないｃ」",
     ""),
     # "Yeah. If you say so, I won't let you go."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # At first glance, the wa Remy looks like a bonito spot with no focus and no hot water, and it looks like "in other words, it's a natural idiot" but in fact, it's probably a deliberately removed from the bonito...†
 
-    ("その冾日は、戟レミィといｂいｂ話したけど、結局、戟レミィはいつ烽もの撃レミィで、彼濫女の考えてることはよく墲わからなかった。◯",
+    ("その冾日は、戟レミィといい話したけど、結局、戟レミィはいつ烽もの撃レミィで、彼濫女の考えてることはよく墲わからなかった。◯",
     ""),
     # On that day, I talked about B-B and B-B, but in the end, when it was a Hot Remy, I couldn't really understand what the overflowing woman was thinking.◯
 

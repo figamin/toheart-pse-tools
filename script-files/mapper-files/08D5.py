@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "That's fine. I'm going to have time anyway."
 
-    ("「Ｒｂ≠ａ撃ｌ撃ｌ凾ｙ？」",
+    ("「Ｒ≠ａ撃ｌ撃ｌ凾ｙ？」",
     ""),
     # "Rb≠a-shot l-shot l-shot l-y?"
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Ou"†
 
-    ("「それは艪謎デス」",
+    ("「それは謎デス」",
     ""),
     # "That's a mystery."
 
-    ("オ激レは座ったままズッコケそうになった。",
+    ("オレは座ったままズッコケそうになった。",
     ""),
     # My guts almost throbbed while sitting.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Ah Remie"
 
-    ("「アハハッ、艨謎が艪謎を呼びマ〜ス」",
+    ("「アハハッ、艨謎が謎を呼びマ〜ス」",
     ""),
     # "Hahaha, the mystery of the sinners call the mystery of the sinners, so good."
 

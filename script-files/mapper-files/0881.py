@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Now, what's up with you when you're home?"
 
-    ("オ激レは冾放課繪後の予阯定を考えながら、廊下を烽歩いていた。†",
+    ("オレは冾放課繪後の予定を考えながら、廊下を烽歩いていた。†",
     ""),
     # I walked down the hallway, thinking about the prospects after the school was completed.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Uhhh!"
 
-    ("そんな掛け声が聞こえたかと思うと、オ激レは何かに突き飛ばされ、廊下を転がった。◯",
+    ("そんな掛け声が聞こえたかと思うと、オレは何かに突き飛ばされ、廊下を転がった。◯",
     ""),
     # Just as I heard such a shout, something forced me to squeal and tumbled down the hallway.◯
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Aaaaah, oh yeah!?"
 
-    ("「ハアィ、。Ｈ盾ｏ翌ｗ	＝ａ窒ｒｂ	凵ｙ盾ｏ浮ｕ？」",
+    ("「ハアィ、。Ｈ盾ｏ翌ｗ	＝ａ窒ｒ	凵ｙ盾ｏ浮ｕ？」",
     ""),
     # "Hawaii. H shield o the next w = a nitrogen rb y shield o float u?"
 
-    ("そう言った撃レミィは、このアング泣ルからだと、堰ラッキーなことにパンツ丸見え状態なのであった。",
+    ("そう言った撃レミィは、このアングルからだと、堰ラッキーなことにパンツ丸見え状態なのであった。",
     ""),
     # When Ekiremi said that, he was lucky enough to see his panties completely visible.
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # "Ah, fine, sunkya..."
 
-    ("片阨手を繧上げて桙応えながら、オ激レはスカートのｒ身から目が冾放せなかった。",
+    ("片阨手を繧上げて桙応えながら、オレはスカートのｒ身から目が冾放せなかった。",
     ""),
     # As I raised my arms and responded, my eyes couldn't be helped out from the skirt.
 
-    ("ビャーティフ泣ルホ純ワイトだな…。†",
+    ("ビャーティフルホ純ワイトだな…。†",
     ""),
     # Byatif crying is pure white...†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

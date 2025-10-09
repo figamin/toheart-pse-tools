@@ -2,7 +2,7 @@
 # Source file: 0F1C.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル３）閨（終業式篇（ぱずる））閨（選択綜	志保を誘う）閨（蛛主人公沍勝ち（＝普通））†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	志保を誘う）閨（蛛主人公沍勝ち（＝普通））†",
     ""),
     # (Arcade Battle Cry 3) (Closing ceremony edition) (Selection ceremony invitation) (Invites Shiho) (Dragon protagonist, the normal))†
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Oh noooo! I got it!"
 
-    ("「く竄やし〜〜〜っ」",
+    ("「くやし〜〜〜っ」",
     ""),
     # "It's tampering~~"
 
-    ("「見たか、あかり？	オ激レの勝ちだｂ？」",
+    ("「見たか、あかり？	オレの勝ちだ？」",
     ""),
     # "Did you see it, Akari? Is it a huge win??"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Yeah, I think Shiho Taru also did his best."
 
-    ("「增わっはっは」",
+    ("「わっはっは」",
     ""),
     # "Ahhhhhh"
 

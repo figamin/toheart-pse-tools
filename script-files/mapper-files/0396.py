@@ -2,7 +2,7 @@
 # Source file: 0396.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ａ	いっし蛯ょに帰汲うかと誘う）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ａ	いっしょに帰汲うかと誘う）†",
     ""),
     # (Tomoko's Scales Event: Departing from School LV1) (Selection A invites you to return to Isshi-e)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Shall I invite you to this place?
 
-    ("オ激レは≠早足気味に烽歩いて彼濫女に追いつき、横に並んだ。†",
+    ("オレは≠早足気味に烽歩いて彼濫女に追いつき、横に並んだ。†",
     ""),
     # My gang walked around like a quick walk, catching up to the overflowing woman and lined up next to me.†
 
@@ -27,14 +27,14 @@ text_array = [
     # He shouts gently.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「いいとこでｉったな。",
     ""),
     # "I was a good place.
 
-    ("よかったら途湯までいっし蛯ょに帰迢らないか？」",
+    ("よかったら途湯までいっしょに帰迢らないか？」",
     ""),
     # If you like, why not return to the bathhouse?”
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Ah, that's right."
 
-    ("かたい愛想笑いでこたえ、立ち止まるオ激レ。",
+    ("かたい愛想笑いでこたえ、立ち止まるオレ。",
     ""),
     # I responded with a hard, friendly smile and stopped and throbbed.
 
@@ -74,20 +74,20 @@ text_array = [
     ""),
     # "I don't know what kind of thing a hot topic, but I'm not close to you, so will you suddenly get along and get along with me?"
 
-    ("竅冷たく言った。†",
+    ("冷たく言った。†",
     ""),
     # He said coldly.†
 
-    ("「…え、あ、增わりぃ」",
+    ("「…え、あ、わりぃ」",
     ""),
     # "...Oh, ah, it's so good."
 
-    ("オ激レが謝骼ると、",
+    ("オレが謝骼ると、",
     ""),
     # When I apologized,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("委員長は背白をｌけ、歩いていった。†",
@@ -95,7 +95,7 @@ text_array = [
     # The chairman stumbled and walked away.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("う〜ん。",
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # I stared at the back of my back as I moved away, and thought, ".†
 
-    ("「あらら、フ宴ラ黹れた墲わねぇ」",
+    ("「あらら、フラ黹れた墲わねぇ」",
     ""),
     # "Oh, you're a feast."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "What is it, were you watching?"
 
-    ("「オホホ。あんたがフ宴ラ黹れるトコをばっちりとねぇ〜」",
+    ("「オホホ。あんたがフラ黹れるトコをばっちりとねぇ〜」",
     ""),
     # "Ohhh. You're the perfect place to be choked up at the feast."
 
@@ -138,15 +138,15 @@ text_array = [
     ""),
     # "Oh no, you have to be too phlegm, my name is."
 
-    ("オ激レはうっとうしそうに言った。",
+    ("オレはうっとうしそうに言った。",
     ""),
     # I said innocently.
 
-    ("まったく、い竄やな場面をい竄やなрヤツに見迪られちまったぜ。†",
+    ("まったく、いやな場面をいやなрヤツに見迪られちまったぜ。†",
     ""),
     # I was completely taken aback by the guy who didn't want to slaughter in a completely unslaughter situation.†
 
-    ("「で烽もま、し蛯ょうがないんじ痰ゃない？	彼濫女、学校にいるときは超おカタイからね」",
+    ("「で烽もま、しょうがないんじ痰ゃない？	彼濫女、学校にいるときは超おカタイからね」",
     ""),
     # "And so, don't you have any stimulations? You're so gross when you're at school, you're so gross."
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # "Do you know about the chairman?"
 
-    ("「磨当然。",
+    ("「当然。",
     ""),
     # "Of course.
 
-    ("去年、おんなじク宴ラスだし」",
+    ("去年、おんなじクラスだし」",
     ""),
     # Last year, it was the same party."
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # Oh, I see.
 
-    ("氏去年、こいつはあかりと同じだから、保科と烽も同じク宴ラスだった墲わけか。†",
+    ("氏去年、こいつはあかりと同じだから、保科と烽も同じクラスだった墲わけか。†",
     ""),
     # Last year, this guy is the same as Akari, so Hoshina and Hoshi were the same banquet.†
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "You should honestly say, "Let me hear you, Shiho, sphin, sphin, sphin, sphin, sphin, sphin, sphin, sphin, sphin, sphin, sphin, sphin, sphin, sphin, sphin, sphin, sphin, stymie."
 
-    ("「あー、增わかった、增わかった。聞かせてくれ」",
+    ("「あー、わかった、わかった。聞かせてくれ」",
     ""),
     # "Ah, I get it, I get it. Let me know."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "I wonder why you are like that now. If you say that from the very beginning, you'll have no phlegm."
 
-    ("「いいから、＝早く教えｂよ」",
+    ("「いいから、＝早く教えよ」",
     ""),
     # "It's fine = quickly teach me b."
 
@@ -227,10 +227,10 @@ text_array = [
     # "Yes, yes. I won't be so nervous, I won't be worried. Impatience will be abomination."†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("ここでイ宴ライ宴ラしてはいけない。",
+    ("ここでイライラしてはいけない。",
     ""),
     # Don't have a banquet here.
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Dark now?"
 
-    ("聞き返すと、志保は待ってましたとばかりに顔をほこｂばせた。†",
+    ("聞き返すと、志保は待ってましたとばかりに顔をほこばせた。†",
     ""),
     # When I asked again, Shiho looked up and said, "I'd been waiting for you."†
 
@@ -270,11 +270,11 @@ text_array = [
     ""),
     # Lift your voice,
 
-    ("「＊晩のように、制梵服姿のまま夜遊びしてるらしいのよ。この間煌も、遅い桙時間に男の子といっし蛯ょのとこｂを目ｖ撃されてる墲わ」",
+    ("「＊晩のように、制梵服姿のまま夜遊びしてるらしいのよ。この間煌も、遅い桙時間に男の子といっしょのとこを目ｖ撃されてる墲わ」",
     ""),
     # "* Apparently he's going out at night wearing his Sanskrit uniform like in the evening. The other day, Kira was also shot at the boy at a late hour."
 
-    ("まるっきり芸能券レポーターのような福口振關りで言う。†",
+    ("まるっきり芸能券レポーターのような口振關りで言う。†",
     ""),
     # He says this in Fukuguchi's words, like a reporter of an entertainment voucher.†
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # "What, that's sputum. That's a lie. There's no sputum from Weekly Shoten magazines thrown into the trash can at the station. That's about that committee chairman..."
 
-    ("「けど、あたし烽も見たのよね。Ｓ谷の駅前で、オシャャ激レした保科さんが背広のダンディーなオジ様と№仲良くツーシ㏍ョットしてるとこｂ」",
+    ("「けど、あたし烽も見たのよね。Ｓ谷の駅前で、オシャャレした保科さんが背広のダンディーなオジ様と№仲良くツーショットしてるとこ」",
     ""),
     # "But I also saw Hoshina. In front of the station in S-tani, Hoshina, who was so excited, was squealing with the dandy old man in a suit, and was in great numbers."
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # "Well, to put it another way, the girl who has been living with her is the girl this time.
 
-    ("普段、学校とかで真面目に竄やってるぶん、そう竄やってスト激レスを発散してんじ痰ゃない？」",
+    ("普段、学校とかで真面目にやってるぶん、そうやってストレスを発散してんじ痰ゃない？」",
     ""),
     # Since you usually do it seriously at school, don't you think you're going to have to vent your stimulation by stoking it out?”
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # "It seems like there are a lot of pain and hardships, unlike anyone else."
 
-    ("「ち蛯ょっとぉ、ずいぶんと突っかかってくる墲わねー！	あたしがなんの気鼡苦労燔もなしに、お気楽に生きてるとで烽も言いたいの！？」",
+    ("「ちょっとぉ、ずいぶんと突っかかってくる墲わねー！	あたしがなんの気鼡苦労燔もなしに、お気楽に生きてるとで烽も言いたいの！？」",
     ""),
     # "Ahhhh, you're thrust into me a lot! I want to say that I'm living a comfortable life without any worries!?"
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # "...Damn it" †
 
-    ("「それより烽もだ。おい、志保。お前、そんな悪質なう墲わさ、軽々しく福口にするな」",
+    ("「それより烽もだ。おい、志保。お前、そんな悪質なう墲わさ、軽々しく口にするな」",
     ""),
     # "More than that, it's Hot. Hey, Shiho. Don't just say such a malicious trash and say it casually."
 
@@ -358,7 +358,7 @@ text_array = [
     ""),
     # Honorary Kison's honorary is also very popular."
 
-    ("「まあ、そり痰ゃ…そーか烽もしんないけどさ。で烽も、いまさらし蛯ょうがない墲わよ。",
+    ("「まあ、そり痰ゃ…そーか烽もしんないけどさ。で烽も、いまさらしょうがない墲わよ。",
     ""),
     # "Well, it's a bit of a phlegm... I don't think it's that hot, either. And the hot, it's a hot topic right now.
 
@@ -382,11 +382,11 @@ text_array = [
     ""),
     # "That's a lot of hot water."
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
-    ("「志保ち痰ゃん薰情報熾も汲結構だけどよ、あんまりいい加減なう墲わさを広めんのは竄やめとけよ」",
+    ("「志保ち痰ゃん薰情報熾も汲結構だけどよ、あんまりいい加減なう墲わさを広めんのはやめとけよ」",
     ""),
     # "I'm fine with the information about Shiho-chan, but stop tampering with the idea of ​​spreading the simplicity."
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "Are you going to do?! You!
 
-    ("例の超能力少酪女のときといい、もうち蛯ょっとこの志保ち痰ゃん薰情報を信じたらどうなの！？」†",
+    ("例の超能力少酪女のときといい、もうちょっとこの志保ち痰ゃん薰情報を信じたらどうなの！？」†",
     ""),
     # It was when she was a psychic powered woman, and what would happen if she believed this information about Shiho's sphinx??”†
 
@@ -406,11 +406,11 @@ text_array = [
     ""),
     # "It's hard to hear people say it's most of them! ...It's about half."
 
-    ("「半分デマなら十分だｂ」†",
+    ("「半分デマなら十分だ」†",
     ""),
     # "Half a hoax is enough b"
 
-    ("「で烽も逆に言えば５０パーセントは真実ってことでし蛯ょ？	これは烽もうあたしという人間を信じるかどうかの竄問阮題鞫よ」",
+    ("「で烽も逆に言えば５０パーセントは真実ってことでしょ？	これは烽もうあたしという人間を信じるかどうかの問題鞫よ」",
     ""),
     # "And on the other hand, if you say that 50% of the time, then 50% is true, right? This is a question of whether or not you believe in a person like me."
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # That's abrupt, hey.
 
-    ("しかし、どうなんだｂ。",
+    ("しかし、どうなんだ。",
     ""),
     # But what about it b?
 
@@ -442,7 +442,7 @@ text_array = [
     ""),
     # A: I believe in Shiho.Relax
 
-    ("Ｂ	どっちが本末当かなんて墲わかんねーだｂ。閨",
+    ("Ｂ	どっちが本末当かなんて墲わかんねーだ。閨",
     ""),
     # B I don't know which is the real deal b.Relax
 

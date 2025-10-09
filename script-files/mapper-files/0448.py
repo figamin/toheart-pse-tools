@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hey!!"
 
-    ("うつらうつらしていると志保のрヤツが怒鳴阮り桙込んできた。†",
+    ("うつらうつらしていると志保のрヤツが怒鳴り桙込んできた。†",
     ""),
     # As I was feeling depressed, Shiho's guy yelled and came in.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Yak is treating me!”
 
-    ("「增わりぃ…、ついうっかり…」",
+    ("「わりぃ…、ついうっかり…」",
     ""),
     # "I'm not going to let you know..."
 

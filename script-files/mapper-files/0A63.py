@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Part-time job? What if you take a break from the test period?"
 
-    ("「うん。だから、チ宴ラシ配阡りのバイトとかは休ませて烽もらってるよ。いつ烽もの半分くらいしか働いてないんだ」†",
+    ("「うん。だから、チラシ配阡りのバイトとかは休ませて烽もらってるよ。いつ烽もの半分くらいしか働いてないんだ」†",
     ""),
     # "Yeah. That's why I take my time off from part-time jobs to deliver flyers and get some hot springs. When are I only working about half of the hot springs?"
 
-    ("「そんな調子で蛯大苟丈夫かよ、テスト？」",
+    ("「そんな調子で大苟丈夫かよ、テスト？」",
     ""),
     # "Is this how strong you are, are you going to test?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "How was your test on the day of the day?"
 
-    ("「オ激レか？	まあ、そこそこかな」",
+    ("「オレか？	まあ、そこそこかな」",
     ""),
     # "Are you so intense? Well, maybe it's pretty good."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Wow, that's impressive."
 
-    ("「い、い竄や」",
+    ("「い、いや」",
     ""),
     # "No, it's tampering."
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # Yes, there's no hot water, really.†
 
-    ("「あの、じつは墲わからないとこｂがあって…、も、もし、諱よ、諱よかったら、ち蛯ょっと教えてくれないかな…？」",
+    ("「あの、じつは墲わからないとこがあって…、も、もし、諱よ、諱よかったら、ちょっと教えてくれないかな…？」",
     ""),
     # "Well, there's actually a place where I don't understand... But, if you like, I'd like to hear you, could you please let me know...?"
 
-    ("「え？	オ激レが？」",
+    ("「え？	オレが？」",
     ""),
     # "Huh? I'm so excited?"
 

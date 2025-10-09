@@ -10,7 +10,7 @@ text_array = [
     ""),
     # That guy is ".
 
-    ("「竅やっほ〜っ！	〜っ！」",
+    ("「やっほ〜っ！	〜っ！」",
     ""),
     # "Ahhhh!!"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What's wrong, what's the day?"
 
-    ("「これから姉さんとр私、ち蛯ょっとした用沫事があってね。だからム潟リсヤ潟リ車で連齪れてこられたのよ」†",
+    ("「これから姉さんとр私、ちょっとした用沫事があってね。だからムリсヤリ車で連齪れてこられたのよ」†",
     ""),
     # "From now on, my sister and I have had some droplets that were so sad. That's why we've been sending us a series of posts in a Mugata Riс大好きないます"
 
@@ -35,14 +35,14 @@ text_array = [
     # "Splashes? Senpai, are you experiencing droplets?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は、はい、とうなずいた。",
     ""),
     # Senpai nodded, yes.
 
-    ("「じ痰ゃあ、オ激レと帰っち痰ゃダ＜メじ痰ゃん」",
+    ("「じ痰ゃあ、オレと帰っち痰ゃダ＜メじ痰ゃん」",
     ""),
     # "I'm going to get phlegm, I'm going to get back to my phlegm <<Me-sphlegmy phlegmy."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「で烽も、いきなり姉さんとのツーシ㏍ョットが見鼬れるなんてね。本末当に№仲いいのね」",
+    ("「で烽も、いきなり姉さんとのツーショットが見鼬れるなんてね。本末当に№仲いいのね」",
     ""),
     # "And you can't help but suddenly see a two-squeal with your sister. You're really close at the heart."
 
@@ -59,7 +59,7 @@ text_array = [
     # "Oh, that's fine. What, senior, are you?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("こくっと先輩はうなずいた。",
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「こう竄やって横に並ぶと、竅やっぱ翌似てるよな」",
+    ("「こうやって横に並ぶと、やっぱ翌似てるよな」",
     ""),
     # "If you sniff and line them up side by side, you'll end up looking similar to the next day."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "What, п us?"
 
-    ("「おう、竅やっぱり撃血を分けた姉事だな」",
+    ("「おう、やっぱり撃血を分けた姉事だな」",
     ""),
     # "Oh, I guess it's the sister who divided the blood after all."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Both Senpai Kei and Aya∴Ki are T-shaped like O-sama.†
 
-    ("「あーあ、ちくし蛯ょー」",
+    ("「あーあ、ちくしょー」",
     ""),
     # "Ahh, chikushi ecchi."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "What? What's wrong?"
 
-    ("「ふたりと烽も、今厓日はこれから用沫事があるんだｂ？」",
+    ("「ふたりと烽も、今厓日はこれから用沫事があるんだ？」",
     ""),
     # "Are you two and the hot springs going to be droplets now on the day?"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Really?!"
 
-    ("「姉さん烽も行きたいでし蛯ょ？」",
+    ("「姉さん烽も行きたいでしょ？」",
     ""),
     # "Sister, you want to go to the hot springs too, slut?"
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # "Haha, joking, joking."
 
-    ("綾∴香はぺｂっと繧舌を出す。",
+    ("綾∴香はぺっと繧舌を出す。",
     ""),
     # Aya∴Ka pees out her tongue.
 
-    ("「…まったく、＠栖瑞家のご令酪と烽もあｂうお福方が、なんという…」",
+    ("「…まったく、＠栖瑞家のご令酪と烽もあうお方が、なんという…」",
     ""),
     # "...What do you think, the @Suizui family's dairy and hot blessings are...?"
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "Little bit!?"
 
-    ("今度は矛譁先がオ激レにｌいた。",
+    ("今度は矛譁先がオレにｌいた。",
     ""),
     # This time, the sperm was thrilled.
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "Ahh, there's no way to play it."
 
-    ("竅やれ竄やれと肩をすくめる綾∴香。",
+    ("やれやれと肩をすくめる綾∴香。",
     ""),
     # Aya∴Ka shrugs her shoulders, saying, "You're going to tamper with me."
 
@@ -243,10 +243,10 @@ text_array = [
     # "Ou"†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩熹もオ激レに、失邇礼します、と頭を下げて、車に乗闖り桙込んだ。",
+    ("諱先輩熹もオレに、失邇礼します、と頭を下げて、車に乗闖り桙込んだ。",
     ""),
     # Senpai Kei also bowed his head and said, "I'd like to thank you for your help," and got into the car and snatched it.
 
@@ -254,15 +254,15 @@ text_array = [
     ""),
     # Slam.
 
-    ("とドアが締まり、車は艪ゆっくり魔走闡り出した。†",
+    ("とドアが締まり、車はゆっくり魔走闡り出した。†",
     ""),
     # The doors closed and the car slowly began to run wild.†
 
-    ("「…おｏ様っての烽もなにかと蛯大変だなァ」",
+    ("「…おｏ様っての烽もなにかと大変だなァ」",
     ""),
     # "...Oh, it's tough to see the hot springs of O-sama."
 
-    ("氏去っていく鰍リムジンを見つめて、つぶ竄やくオ激レだった。◯",
+    ("氏去っていく鰍リムジンを見つめて、つぶやくオレだった。◯",
     ""),
     # I stared at the calf limousine as he left, and it was a bit violent and groaning.◯
 

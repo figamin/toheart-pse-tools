@@ -2,7 +2,7 @@
 # Source file: 0B37.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント５	縺後半）閨（セ潟リオ	消し）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント５	縺後半）閨（セリオ	消し）†",
     ""),
     # (Aya∴Ka challenges Aya∴Ka, the battle for the balance event 5, the second half of the snake) (Segata Rio erased)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # So, how will we attack on the day?
 
-    ("竅やってみたいことはいくらで烽もある。",
+    ("やってみたいことはいくらで烽もある。",
     ""),
     # There are so many things I want to try, and there are hot springs.
 
@@ -27,10 +27,10 @@ text_array = [
     # Surprisingly, I wonder if that kind of thing can be done.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("ふと見骭ると、綾∴香がじいーっとオ激レの顔を見ている。",
+    ("ふと見骭ると、綾∴香がじいーっとオレの顔を見ている。",
     ""),
     # I suddenly looked over, and Aya∴Ka looked at my intense face.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I feel the unprecedented thunder of the day right now."
 
-    ("「気雷迫？	オ激レが？」",
+    ("「気雷迫？	オレが？」",
     ""),
     # "A thunder? I'm so violent?"
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # From the look on his face."
 
-    ("「気のせいだｂ。どっちかっつーと、いつ烽もより鰍リ宴ラックスしてんだぜ」",
+    ("「気のせいだ。どっちかっつーと、いつ烽もより鰍リラックスしてんだぜ」",
     ""),
     # "It's just my imagination. Either way, when is the banquet even more relaxed than the hotpot?"
 
-    ("オ激レは手をひらひらさせて言った。†",
+    ("オレは手をひらひらさせて言った。†",
     ""),
     # My geira fluttered and said.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Would you start, do you think it's a win-win situation?"
 
-    ("「磨当然だｂ。それ以外なにがあんだよ？」",
+    ("「当然だ。それ以外なにがあんだよ？」",
     ""),
     # "Of course it's b. What else is there?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "You look happy? Hmm, well, I see. Since I recently started teaching you, I've been wanting to try it out more.
 
-    ("授業拠とか烽もどう攻めるかとか、そんなことばかり考えてんだぜ。イ＜メージト激レーニングって竄やつ？」",
+    ("授業拠とか烽もどう攻めるかとか、そんなことばかり考えてんだぜ。イ＜メージトレーニングってやつ？」",
     ""),
     # I'm always thinking about things like the lessons and how to attack the Hou.Is imagery fierce laning a thing that's tampering?”
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Aya∴Ka chuckles.†
 
-    ("「さあ、じ痰ゃあ、竅やｂっか」",
+    ("「さあ、じ痰ゃあ、やっか」",
     ""),
     # "Now, sputum, it's a bang."
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # "That's fine."
 
-    ("オ激レ焜もファイティングポーズを取った。†",
+    ("オレ焜もファイティングポーズを取った。†",
     ""),
     # My rakuro also took a fighting pose.†
 
-    ("「いい墲わよ。セ潟リオ、始めて」",
+    ("「いい墲わよ。セリオ、始めて」",
     ""),
     # "That's great. Seragato Rio, start now."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("審判のセ潟リオが前に出髀る。",
+    ("審判のセリオが前に出髀る。",
     ""),
     # Judgment Segata Rio makes a comeback.
 
@@ -139,11 +139,11 @@ text_array = [
     # "The Witch Lady"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「｢｢ファイト」†",
@@ -170,11 +170,11 @@ text_array = [
     ""),
     # Spa Ann!
 
-    ("接近寀戦でのモ激しい攻防。†",
+    ("接近寀戦でのモしい攻防。†",
     ""),
     # A fierce attack and defense in close proximity battles.†
 
-    ("そのｒで、オ激レは｢｢。",
+    ("そのｒで、オレは｢｢。",
     ""),
     # And so, I said, ".
 

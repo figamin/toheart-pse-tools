@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Saturday, March 22nd) (3rd Shizuki Radio) (3rd time) (Without the place where you don't listen to the weir radio)†
 
-    ("堰ラジオはいい竄や。",
+    ("堰ラジオはいいや。",
     ""),
     # The weir radio is a good thing.
 
-    ("今厓日はテ激レビを見謖よう。",
+    ("今厓日はテレビを見謖よう。",
     ""),
     # Let's take a look at the TV dramatic revue on the day.
 

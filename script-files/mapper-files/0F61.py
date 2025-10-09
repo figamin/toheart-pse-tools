@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (April 20th day of the month) (April 10th day of the month of the month) (Little light spot)†
 
-    ("竅やっぱり、こういうときに聞き竄やすいのはあかりだぜ。",
+    ("やっぱり、こういうときに聞きやすいのはあかりだぜ。",
     ""),
     # After all, it's easy to hear at times like this.
 
@@ -19,7 +19,7 @@ text_array = [
     # Pipopa...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ツー…ツー…ツー…。†",
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Damn, you can't use it, you know.†
 
-    ("結局、♂史に聞いて、磨事なきを得た。◯",
+    ("結局、♂史に聞いて、事なきを得た。◯",
     ""),
     # In the end, I asked Masochist about it and found that it was fine.◯
 

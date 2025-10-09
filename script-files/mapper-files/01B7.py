@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari Scales Event 2F) (C I thought it was dog-like)†
 
-    ("竅やっぱりあかりって、犬チックだよなあ。",
+    ("やっぱりあかりって、犬チックだよなあ。",
     ""),
     # After all, Akari is dog-like.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # Okay, let's try this lion.†
 
-    ("「おい、あかり、あかり。ち蛯ょっとｗい」",
+    ("「おい、あかり、あかり。ちょっとｗい」",
     ""),
     # "Hey, Akari, Akari. It's a bit lol."
 
-    ("オ激レが手招きして言うと、",
+    ("オレが手招きして言うと、",
     ""),
     # When I beckoned,
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("オ激レが変なｂモードに入ったのを敏感に察知して、あかり烽も警卲戒ｉモードに入體る。†",
+    ("オレが変なモードに入ったのを敏感に察知して、あかり烽も警卲戒ｉモードに入體る。†",
     ""),
     # Sensitively detects that my gesture has entered a strange B mode, Akari Hot also enters the i-mode of the warning.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Hand"
 
-    ("と、オ激レは手を出した。",
+    ("と、オレは手を出した。",
     ""),
     # And I started to take my hands.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Hand"
 
-    ("三度目にしてよう竄やく、あかりは右の手を重ねてきた。",
+    ("三度目にしてようやく、あかりは右の手を重ねてきた。",
     ""),
     # Akari began to slam the third time, and then she tied her right hand up.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Okama"
 
-    ("オ激レが言うと、あかりは仕緖方なく逆の手を重ねてきた。†",
+    ("オレが言うと、あかりは仕緖方なく逆の手を重ねてきた。†",
     ""),
     # When I said that Akari had been putting up the opposite hands without any effort.†
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # Akari thinks about her and tries to place her chin on the lining of her hand.
 
-    ("オ激レは手を引っ桙込めた。",
+    ("オレは手を引っ桙込めた。",
     ""),
     # My heart pulled my hand out.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "...Even now" †
 
-    ("虹が消えてなくなるまでを見届けてから、その繧後、ふたりでいっし蛯ょに帰った。◯",
+    ("虹が消えてなくなるまでを見届けてから、その繧後、ふたりでいっしょに帰った。◯",
     ""),
     # After watching the rainbow disappear and disappear, the two of them returned to the Ebi.◯
 

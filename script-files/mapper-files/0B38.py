@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「もし烽もし、オ激レ」",
+    ("「もし烽もし、オレ」",
     ""),
     # "If it's hot, I'm super excited."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Ah, thank you for getting tired" †
 
-    ("「磨当然、今厓日燗も勝縁負の申し桙込みだ」",
+    ("「当然、今厓日燗も勝縁負の申し桙込みだ」",
     ""),
     # "Of course, the current case is that the winners of the Kohinkan are also included."
 
-    ("「オッケー、望むとこｂよ」",
+    ("「オッケー、望むとこよ」",
     ""),
     # "Okay, it's b I want."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Ah, phlegm, when should I go to the bonito area?"
 
-    ("「うん、增わかった」",
+    ("「うん、わかった」",
     ""),
     # "Yeah, I understand."
 
-    ("「とこｂで、今厓日が約束の最終叝日なんだけど、自信のほどは？」",
+    ("「とこで、今厓日が約束の最終叝日なんだけど、自信のほどは？」",
     ""),
     # "At the moment, the final day of the promised day is, how confident are you?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "That's also vague."
 
-    ("「まあ、禔口で言って烽もし蛯ょうがないことだ。",
+    ("「まあ、禔口で言って烽もしょうがないことだ。",
     ""),
     # "Well, I mean, I don't have to say it on my own terms.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "That's the case with Hot" †
 
-    ("「じ痰ゃーな、遅齟れんなよ」",
+    ("「じ痰ゃーな、遅れんなよ」",
     ""),
     # "You're so phlegm, don't be too late."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("ぐっと揩拳を握闊り、普虚空を見繻上げる。",
+    ("ぐっと揩拳を握闊り、普虚空を見上げる。",
     ""),
     # He clenches his fist and raises his eyes on the vanguard.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # There is already no cloud in my heart.
 
-    ("いざ、增戦いの場へお烽もむかん。◯",
+    ("いざ、戦いの場へお烽もむかん。◯",
     ""),
     # Now, let's go to the battlefield.◯
 
@@ -122,15 +122,15 @@ text_array = [
     ""),
     # "Hello, san."
 
-    ("「諱よう、セ潟リオ。オッス」",
+    ("「諱よう、セリオ。オッス」",
     ""),
     # "I'll give you my name, Seragata Rio. Oss."
 
-    ("オ激レが言うと、セ潟リオは行儀良くおじぎをした。",
+    ("オレが言うと、セリオは行儀良くおじぎをした。",
     ""),
     # When I said that Segata Rio bowed well.
 
-    ("どっちかというと、綾∴香謐よりセ潟リオのほうが育ちが良いって感じだな。†",
+    ("どっちかというと、綾∴香謐よりセリオのほうが育ちが良いって感じだな。†",
     ""),
     # Rather, it seems that Segata Rio has grown better than Aya∴Kami.†
 

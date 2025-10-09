@@ -11,7 +11,7 @@ text_array = [
     # "Please give me your medicine now..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「まあ、今回はとくになんと烽もなかったからよかったけどさ。失敗薬飲まされたなんて、ぞっとするぜ」†",
@@ -19,14 +19,14 @@ text_array = [
     # "Well, I'm glad that there were no hot water this time. It's scary to see you being given a drug that will make you take."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え、すみませんって？	あ、い竄や、そんな強くは言ってねーって。",
+    ("「え、すみませんって？	あ、いや、そんな強くは言ってねーって。",
     ""),
     # "Eh, sorry? Ah, I'm not going to say that strongly.
 
-    ("もと烽もとオ激レのこと心配してくれたんだしさ。怒っち痰ゃいねー諱よ。それより｢｢」",
+    ("もと烽もとオレのこと心配してくれたんだしさ。怒っち痰ゃいねー諱よ。それより｢｢」",
     ""),
     # He was really worried about me.I'm angry, I'm not a real person.Rather than that, ""
 
@@ -34,12 +34,12 @@ text_array = [
     ""),
     # "?"†
 
-    ("「今厓日いっし蛯ょに帰汲うぜ？」",
+    ("「今厓日いっしょに帰汲うぜ？」",
     ""),
     # "I'll return to the slut now, right?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩はこくんとうなずいた。†",

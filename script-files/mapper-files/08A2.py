@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "My name is, thief Remie."
 
-    ("「、明坙日ダイジ㏍ョブ？」",
+    ("「、明坙日ダイジョブ？」",
     ""),
     # "Are you dying?!"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Mingshun Day is the final exam for the first time" †
 
-    ("「そーい竄や、そんな烽もんがあったよな…」",
+    ("「そーいや、そんな烽もんがあったよな…」",
     ""),
     # "There was a silence, there was something like that..."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Yeah. The red dot pass is full of work."
 
-    ("彼濫女はオ激レの顔をまじまじと見つめ、",
+    ("彼濫女はオレの顔をまじまじと見つめ、",
     ""),
     # The overwhelmed woman stared at my hardcore face,
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # Ekiremi says happily.
 
-    ("ホントなのかジ㏍ョークなのか、諱よく墲わからない。",
+    ("ホントなのかジョークなのか、諱よく墲わからない。",
     ""),
     # I don't really know if it's true or if it's a jicc.
 
-    ("まあ、英皷語のテストはホントだｂうけど。†",
+    ("まあ、英皷語のテストはホントだうけど。†",
     ""),
     # Well, the English language test is true.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "What did you think of Hayunang?
 
-    ("「早国鼾語のテスト、こと墲わざの竄問阮題ほとんど出ないの」",
+    ("「早国鼾語のテスト、こと墲わざの問題ほとんど出ないの」",
     ""),
     # "The test of Hayun Guang's language is rarely mentioned."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # After all, Japanese tests are tough for international students."
 
-    ("「アタシ、Ｓｔ≠ａｔｂ唐入で烽も同じダャ」",
+    ("「アタシ、Ｓｔ≠ａｔ入で烽も同じダャ」",
     ""),
     # "I'm St≠atb Tang Iri, so the chicken is the same."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # When I see her, it looks like she's enjoying school like an amusement park.
 
-    ("「ア＜メ潟リカは冾日本と痰違って、学歴なんて竄問阮題にしないだｂ？」†",
+    ("「ア＜メリカは冾日本と痰違って、学歴なんて問題にしないだ？」†",
     ""),
     # "Unlike Japan, Americans, educational background is not a question of whether it is a problem with Americans?"
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Nippon's tough stuff like that."
 
-    ("「なんか、ア＜メ潟リカがうら竄やましいな…」†",
+    ("「なんか、ア＜メリカがうらやましいな…」†",
     ""),
     # "I'm so jealous of America..."
 

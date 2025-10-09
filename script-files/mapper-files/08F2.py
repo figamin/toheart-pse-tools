@@ -10,7 +10,7 @@ text_array = [
     ""),
     # (I don't believe it)
 
-    ("「そんなくだらないｂモノ、信じねえな」",
+    ("「そんなくだらないモノ、信じねえな」",
     ""),
     # "I don't believe that such a silly thing."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Is it silly?"
 
-    ("「…なんつーか、ヘンだｂ？	死んだрヤツが化けて出髀るなんて？」",
+    ("「…なんつーか、ヘンだ？	死んだрヤツが化けて出髀るなんて？」",
     ""),
     # "...What a weird thing? A dead guy is transformed and thrilled?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Is it dead and hot? Is it still alive?†
 
-    ("「增わかりました！」",
+    ("「わかりました！」",
     ""),
     # "I understand!"
 

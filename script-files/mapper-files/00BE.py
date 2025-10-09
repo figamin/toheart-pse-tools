@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Oh, the day is the day of unburned garbage."
 
-    ("閨手にゴミ袋を揩持ったオ激レが言った。†",
+    ("閨手にゴミ袋を揩持ったオレが言った。†",
     ""),
     # I said, holding a garbage bag in my hand.†
 
@@ -39,14 +39,14 @@ text_array = [
     # "Throw away the chicken, throw away the chicken, and even the chicken will accumulate quickly."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「なんだよ？」",
     ""),
     # "What is it?"
 
-    ("「なんだか蛯主婦みたい」",
+    ("「なんだか主婦みたい」",
     ""),
     # "It looks like a housewife."
 

@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Which one doesn't have a hot pot?"
 
-    ("「增わからないから、お烽もしｂいのか烽もな」†",
+    ("「わからないから、お烽もしいのか烽もな」†",
     ""),
     # "I don't know, so I wonder if it's a hot spring, or something like that."
 
-    ("「…增わかりました！」",
+    ("「…わかりました！」",
     ""),
     # "...I understand!"
 

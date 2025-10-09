@@ -2,7 +2,7 @@
 # Source file: 0A27.txt
 
 text_array = [
-    ("「п私、竅やっぱり、前世でヒドイことばっかりしてたのかなあ…」",
+    ("「п私、やっぱり、前世でヒドイことばっかりしてたのかなあ…」",
     ""),
     # "I guess I was always talking about terrible things in my previous life..."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Don't panic and fall."
 
-    ("「だ、だいじ蛯ょぶだよぉ」",
+    ("「だ、だいじょぶだよぉ」",
     ""),
     # "Oh, it's a slut."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Okay, let's go, yeah..."†
 
-    ("オ激レたちは唐鞄をカサが墲わりにして、濡齡れた道路を一気にｋけ抜けていった。◯",
+    ("オレたちは鞄をカサが墲わりにして、濡齡れた道路を一気に駆け抜けていった。◯",
     ""),
     # The people who were slurped the kara bags were swept away and quickly sprinted through the wet road.◯
 

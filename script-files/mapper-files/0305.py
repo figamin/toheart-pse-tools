@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Hmm, that's it.
 
-    ("部賦は帰誾宅泊部で、℃味はゴ鴻ロ寝。以繹上、諱よｂしく」",
+    ("部賦は帰誾宅泊部で、℃味はゴ鴻ロ寝。以繹上、諱よしく」",
     ""),
     # The part is a reconstructed house club, and the ℃ is a slumber.I'm sure I'll give you a name for myself."
 
-    ("オ激レは肩ひじ張迺らず、＝普段どおりナチャ宴ラ泣ルにあいさつした。",
+    ("オレは肩ひじ張迺らず、＝普段どおりナチャラルにあいさつした。",
     ""),
     # My heart was not shaking, and as usual, I greeted the Nacha banquet and cried.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # This is enough.†
 
-    ("席に座骰ると、あかりの竄やつがこっちを見て、『もう、面倒くさがりなんだから』という顔をしていた。",
+    ("席に座骰ると、あかりのやつがこっちを見て、『もう、面倒くさがりなんだから』という顔をしていた。",
     ""),
     # When I sat down in my seat, Akari's tampering looked at me and looked at me, "I'm lazy now."
 

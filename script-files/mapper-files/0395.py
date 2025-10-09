@@ -2,7 +2,7 @@
 # Source file: 0395.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（４獅月）閨（下濶り竄坂）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（４獅月）閨（下濶り坂）†",
     ""),
     # (Tomoko's Scales Event: Departing from school LV1) (4 Shizuki) (Shimohachiritsuzaka) †
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # Those prickly hair must be awkward.
 
-    ("艨我が２−Ｂのク宴ラス委員長、保科智子じ痰ゃねーか。†",
+    ("艨我が２−Ｂのクラス委員長、保科智子じ痰ゃねーか。†",
     ""),
     # Is Hoshina Tomoko the chairman of my 2-B club?†
 
-    ("そういえば、せっかく席が隣同士になったってのに、ほとんど福口を聞いたことがない。",
+    ("そういえば、せっかく席が隣同士になったってのに、ほとんど口を聞いたことがない。",
     ""),
     # Come to think of it, even though we had to end up having to sit next to each other, I have hardly ever heard of Fukuguchi.
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("いい機級だし、声をかけていっし蛯ょに帰汲うと誘ってみるの烽もいいか烽もしんねーな。",
+    ("いい機級だし、声をかけていっしょに帰汲うと誘ってみるの烽もいいか烽もしんねーな。",
     ""),
     # It's a great opportunity, and when I call out to him, I invite him back to the Ebi, it's okay, or it's not good.
 
-    ("Ａ	いっし蛯ょに帰汲うかと誘う。閨",
+    ("Ａ	いっしょに帰汲うかと誘う。閨",
     ""),
     # A: I invite them to return to Ebi.Relax
 
-    ("Ｂ	竅やっぱり、あいさつだけにする。閨",
+    ("Ｂ	やっぱり、あいさつだけにする。閨",
     ""),
     # B. After all, I'll just say a greeting.Relax
 

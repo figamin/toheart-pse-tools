@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I called out, phlegm was completely different.
 
-    ("「うん、Ｓｂｂ	凵ｙ盾ｏ浮ｕ！」",
+    ("「うん、Ｓ	凵ｙ盾ｏ浮ｕ！」",
     ""),
     # "Yes, Sbb, y shield o float!"
 

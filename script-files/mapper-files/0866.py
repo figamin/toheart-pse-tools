@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Game Remy Scale Event PS) (2nd floor 3)†
 
-    ("授業が終尞わり、廊下を何げなく烽歩いていると、諱先の福方を制梵服をｒた烽金髪が烽歩いている。",
+    ("授業が終尞わり、廊下を何げなく烽歩いていると、諱先の方を制梵服をｒた烽金髪が烽歩いている。",
     ""),
     # As the class was over, I casually walked down the hallway, a blond hair in a brazen uniform was roaming around the hallway.
 

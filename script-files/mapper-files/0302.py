@@ -6,28 +6,28 @@ text_array = [
     ""),
     # (Tomoko's first-time event, continuation of Selection B) †
 
-    ("オ激レは、諱よっと背伸びし、棚から本を抜き取骼ると、それを翌女生徒の前に差し出した。",
+    ("オレは、諱よっと背伸びし、棚から本を抜き取骼ると、それを翌女生徒の前に差し出した。",
     ""),
     # I stretched my head over me, pulled the book out of the shelf, and handed it over to the female student the next day.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("き蛯ょとんした顔でオ激レを見つめながら、本を受け取骼る。†",
+    ("きょとんした顔でオレを見つめながら、本を受け取骼る。†",
     ""),
     # I took the book, staring at me with a slutty face.†
 
-    ("「そいつを取闔りたかったんだｂ？」",
+    ("「そいつを取闔りたかったんだ？」",
     ""),
     # "Did you want to get that guy b?"
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("浴女生徒は黙ったまま、いぶかしそうな目をこっちにｌけた。",
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # I can't say thank you.
 
-    ("か墲わりに、ち蛯ょっとキツイ感じのふたつの目が、めがねの撃レンズ越しにオ激レをにらむ。†",
+    ("か墲わりに、ちょっとキツイ感じのふたつの目が、めがねの撃レンズ越しにオレをにらむ。†",
     ""),
     # Instead of being a bit of a slut, the two eyes, which looked tough, glared at me through the lens of my glasses.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("たしかに、親切の押しр売阡りって竄やつはオ激レ焜も好きじ痰ゃないから気搴持ちは墲わかる。",
+    ("たしかに、親切の押しр売阡りってやつはオレ焜も好きじ痰ゃないから気搴持ちは墲わかる。",
     ""),
     # It's true that people who push and sell kindness are also very slurred, so I don't like them, so I can understand what they are trying to do.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Well, is that okay?
 
-    ("催促してるみたいに思寬われるの烽もなんだし、オ激レは背をｌけて、立ち獅去驪ることにした。",
+    ("催促してるみたいに思寬われるの烽もなんだし、オレは背をｌけて、立ち獅去驪ることにした。",
     ""),
     # It was a bit strange to think that he was urging me, so I decided to turn my back and stand and go away.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Ah, um!"
 
-    ("行こうとしたオ激レを翌女生徒が呼び止めた。†",
+    ("行こうとしたオレを翌女生徒が呼び止めた。†",
     ""),
     # The next female student called out to me when I was about to go.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "?"
 
-    ("立ち止まり、首だけをｌけたオ激レに対し、浴女生徒はひとこと、",
+    ("立ち止まり、首だけをｌけたオレに対し、浴女生徒はひとこと、",
     ""),
     # When I stopped and only threw my head, the female bather said something.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # This is the kind of person who can't say "thank you."
 
-    ("じつはオ激レ焜もそうなんだよな。",
+    ("じつはオレ焜もそうなんだよな。",
     ""),
     # Actually, that's the case with me too.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # When I smiled smugly in my heart...†
 
-    ("「…ついで言うたらなん竄やけど」",
+    ("「…ついで言うたらなんやけど」",
     ""),
     # "...If I were to say that, what would it be like?"
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "This is the book I took to get a lion. It's the guy next to it."
 
-    ("そう言って、さっき取って竄やった本をオ激レに突き返してきた。†",
+    ("そう言って、さっき取ってやった本をオレに突き返してきた。†",
     ""),
     # With that in mind, I threw back the book I had just taken over.†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # ...Even though he can't even say anything about the emojis, his accusation is just as good as he is.
 
-    ("渋々本を受け取骼ると、オ激レはそれを烽もとの位置に戻し、隣の本に手をかけた。†",
+    ("渋々本を受け取骼ると、オレはそれを烽もとの位置に戻し、隣の本に手をかけた。†",
     ""),
     # Reluctantly, I picked up the book, and I put it back to its original position and put my hand on the book next to me.†
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "Is this one?"
 
-    ("「ちがう、右の竄やつ」",
+    ("「ちがう、右のやつ」",
     ""),
     # "Not right, the tampering thing."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("オ激レは本を棚から抜き取って、ほれっ、と翌女生徒に手渡した。†",
+    ("オレは本を棚から抜き取って、ほれっ、と翌女生徒に手渡した。†",
     ""),
     # I pulled the book off the shelf and handed it to the female student the next day, saying, "Look, oh my goodness."†
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Is it right?”
 
-    ("オ激レが聞くと、浴女生徒はタイト泣ルを確認し、",
+    ("オレが聞くと、浴女生徒はタイトルを確認し、",
     ""),
     # When I heard, the bather student confirmed that he was crying tightly,
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "thank you"
 
-    ("関西特有のイントネーシ㏍ョンで礼を言った。",
+    ("関西特有のイントネーションで礼を言った。",
     ""),
     # I thanked him at the intonation that is typical of Kansai.
 
@@ -218,11 +218,11 @@ text_array = [
     ""),
     # "What's wrong, do you have phlegm?"
 
-    ("いまのｉ話を聞きつけ、あかりが竄やってきた。",
+    ("いまのｉ話を聞きつけ、あかりがやってきた。",
     ""),
     # After hearing the i-chan, Akari began to tamper with it.
 
-    ("「い竄や、いまの翌女の子がさ、本が取齊れなくて困ってたから取って竄やったんだ」†",
+    ("「いや、いまの翌女の子がさ、本が取齊れなくて困ってたから取ってやったんだ」†",
     ""),
     # "It's a mess, the girl who just the next day was having trouble getting a book, so I took it and took it."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "Do you know?"
 
-    ("「うん。だって、同じク宴ラスだ烽もん」",
+    ("「うん。だって、同じクラスだ烽もん」",
     ""),
     # "Yeah. Because it's the same party."
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # Hoshina... I mean, that guy.
 
-    ("そうい竄や、関西弁し痰ゃべってたよな。†",
+    ("そういや、関西弁し痰ゃべってたよな。†",
     ""),
     # I guess he was tampering with the Kansai dialect and phlegm.†
 
@@ -258,11 +258,11 @@ text_array = [
     ""),
     # "Is he from Oyosaka?"
 
-    ("オ激レが聞くと、あかりは『えーっと…』と福口煬もとに手を魔当てて繧上をｌいた。",
+    ("オレが聞くと、あかりは『えーっと…』と口煬もとに手を魔当てて繧上をｌいた。",
     ""),
     # When I heard, Akari said, "Um..." and put her hand on Fukuguchi Han and leaned over the top.
 
-    ("「ううん、たしか蛯大繿阪じ痰ゃなくて、京都とか神戸のほうだったんじ痰ゃないかな。",
+    ("「ううん、たしか大繿阪じ痰ゃなくて、京都とか神戸のほうだったんじ痰ゃないかな。",
     ""),
     # "Uh, I think it's not a huge phlegm, but rather a phlegm from Kyoto or Kobe.
 
@@ -290,11 +290,11 @@ text_array = [
     ""),
     # "And then, Ho is also a strong-willed woman."
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
-    ("「う、うん、ち蛯ょっと…ね」",
+    ("「う、うん、ちょっと…ね」",
     ""),
     # "Uh, yes, yeah..."
 

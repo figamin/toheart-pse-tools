@@ -6,31 +6,31 @@ text_array = [
     ""),
     # (Meeting with Remie Into Honglo) (3rd Lion Day, 5th Day ($) Evening) (Saisho Store)†
 
-    ("何気なくオ激レは、商店街をうｂついていた。",
+    ("何気なくオレは、商店街をうついていた。",
     ""),
     # I casually leapt through the shopping district.
 
-    ("立ち読みで烽もしようと、本屋に寄鰍うとしたら、店の脇で、小さな男の子がモ泣いているのに気がついた。†",
+    ("立ち読みで烽もしようと、本屋に寄鰍うとしたら、店の脇で、小さな男の子がモいているのに気がついた。†",
     ""),
     # I was about to stop by the bookstore to try to browse and try to cook it off, but I noticed a little boy crying at the side of the store.†
 
-    ("５、６才に見えるその子は、增わん墲わんと派阡手にモ泣いている。",
+    ("５、６才に見えるその子は、わん墲わんと派阡手にモいている。",
     ""),
     # The child, who appears to be 5 or 6 years old, is crying with excitement at the slumber.
 
-    ("℃囲の通行人は、無関心に通闥り過ぎて艪ゆくだけだ。",
+    ("℃囲の通行人は、無関心に通闥り過ぎてゆくだけだ。",
     ""),
     # Passersby in the ℃ are simply too indifferent to sway.
 
-    ("「竅やれ竄やれ…」",
+    ("「やれやれ…」",
     ""),
     # "Damn it, tamper..."
 
-    ("オ激レは、メ泣いている男の子に近寄闃り、",
+    ("オレは、メいている男の子に近寄闃り、",
     ""),
     # I approached the crying boy,
 
-    ("「ガキンチ㏍ョ、どうした？」",
+    ("「ガキンチョ、どうした？」",
     ""),
     # "Gakkinchi, what's wrong?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Mom...Mom...Shuss."
 
-    ("ガキンチ㏍ョは『お母さん』と繰闌り返すだけで、閨なに烽も嘯答えてはくれない。",
+    ("ガキンチョは『お母さん』と繰り返すだけで、閨なに烽も嘯答えてはくれない。",
     ""),
     # Gakinchi simply repeats his response to "mom," and he doesn't even answer anything.
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "...You got separated from your mother, haven't you?"
 
-    ("メ泣きながら、今度はうなずいた。†",
+    ("メきながら、今度はうなずいた。†",
     ""),
     # I nodded this time, crying.†
 
-    ("「オ激レが捜して竄やるよ。…名前は？」",
+    ("「オレが捜してやるよ。…名前は？」",
     ""),
     # "I'll search and tamper with it. What's your name?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Shus... Sachiko."
 
-    ("「それはお母さんの名前だｂ。お前んだよ」",
+    ("「それはお母さんの名前だ。お前んだよ」",
     ""),
     # "That's your mother's name. It's you."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "I'm 5 years old... @Isn't there any phlegm in elementary school at 2018?
 
-    ("母さんとはぐれたぐらいで、いつまで烽もモ泣いてんなよ」",
+    ("母さんとはぐれたぐらいで、いつまで烽もモいてんなよ」",
     ""),
     # I've been separated from my mother, so how long will I be crying?
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Gusun" †
 
-    ("メ買い物の途湯ではぐれたのなら、母親は近くにいるだｂうと、付近を烽歩き回ってみたが、全然見つからなかった。",
+    ("メ買い物の途湯ではぐれたのなら、母親は近くにいるだうと、付近を烽歩き回ってみたが、全然見つからなかった。",
     ""),
     # If he had been separated from the bathhouse after shopping, his mother would be nearby and walked around the area, but he couldn't find anything.
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # I walked for another hour...
 
-    ("ガキの足じ痰ゃ、たしかに限界だｂう。",
+    ("ガキの足じ痰ゃ、たしかに限界だう。",
     ""),
     # The phlegm of a kid's feet is certainly at his limit.
 
-    ("オ激レは苦笑して、",
+    ("オレは苦笑して、",
     ""),
     # My heart smiled wryly,
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # ・†
 
-    ("母親を捜して、オ激レはタカミツをおぶって、狭くはない商店街を３桙時間近く烽も烽歩き回濶り、諱よう竄やく見つけた頃には、とっぷりと冾日が暮れていた。",
+    ("母親を捜して、オレはタカミツをおぶって、狭くはない商店街を３桙時間近く烽も烽歩き回濶り、諱ようやく見つけた頃には、とっぷりと冾日が暮れていた。",
     ""),
     # Looking for his mother, I was carrying Takamitsu on my shoulder, and nearly three tiny shopping districts were roaming around, and by the time I found them, the sun had fallen completely.
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # Apparently Takamitsu's mother was searching outside the shopping district.†
 
-    ("近くの交番にで烽も預ければ、こんな苦労はしなくて烽もよかったのだけど、オ激レは、あえて最纃後までつき№合ったんだ。",
+    ("近くの交番にで烽も預ければ、こんな苦労はしなくて烽もよかったのだけど、オレは、あえて最纃後までつき№合ったんだ。",
     ""),
     # If I had left the hot pot at a nearby police box, I wouldn't have had to go through this hard work and the hot pot would have been fine, but I deliberately managed to get there until the very last minute.
 

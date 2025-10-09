@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Kaji Ai Henzaki is not here, the weather is nice.
 
-    ("オ激レの気分熾もいい。†",
+    ("オレの気分熾もいい。†",
     ""),
     # My mood is also good.†
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "What is it, all of a sudden?"
 
-    ("「桜の花びらが福口に入っち痰ゃった；」",
+    ("「桜の花びらが口に入っち痰ゃった；」",
     ""),
     # "The cherry blossom petals entered the Fukumouth and phlegms came into the Fukumouth;
 
-    ("そう言って、磨薄鵠桃色の花びらをつまんでオ激レに見せる。",
+    ("そう言って、薄鵠桃色の花びらをつまんでオレに見せる。",
     ""),
     # With that in mind, I pinch the polished, pink-colored petals and show them to me.
 

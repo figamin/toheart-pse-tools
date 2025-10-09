@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Are you taking a breather and taking a breather?"
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Are you taking a breather...?"
 
-    ("「そうさ。友だちとファーストフードに行ってダベったりとか、休みの冾日にぶらっとモ買い物に出かけるとか、たまには鰍リ宴ラックスしないと続かないぜ？	ガムシャャ宴ラなト激レーニングばっかりじ痰ゃ疲齡れち痰ゃうだｂ？」†",
+    ("「そうさ。友だちとファーストフードに行ってダベったりとか、休みの冾日にぶらっとモ買い物に出かけるとか、たまには鰍リラックスしないと続かないぜ？	ガムシャャラなトレーニングばっかりじ痰ゃ疲齡れち痰ゃうだ？」†",
     ""),
     # "That's right. You can go to fast food with friends and go shopping on your days off, or just go shopping on your days off, or just have to have a relaxing banquet once in a while, right? The whole bunch of banquets are all busy, so you're tired and phlegm?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "...Uhhhhh."
 
-    ("「朝から晩まで肩に力が入闢りっぱなしじ痰ゃ、スト激レスとかたまらねーか？」",
+    ("「朝から晩まで肩に力が入闢りっぱなしじ痰ゃ、ストレスとかたまらねーか？」",
     ""),
     # "Is it irresistible to have a strong shoulder from morning to night?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Then Aoi Chisho-yan responded with a wry smile.†
 
-    ("「で烽も汲結局、п私って、こう竄やって福練習してるときが一番楽しいんですよ。だから疲齡れないし、スト激レスとか烽もたまんないです。どっちかというと、禔練習竢やってるときが、＊淫俣冾ﾌ息抜きって感じですから…」",
+    ("「で烽も汲結局、п私って、こうやって練習してるときが一番楽しいんですよ。だから疲齡れないし、ストレスとか烽もたまんないです。どっちかというと、禔練習竢やってるときが、＊淫俣冾ﾌ息抜きって感じですから…」",
     ""),
     # "In the end, I enjoy the hot springs and practice fortunes. That's why I can't get tired of it, and I can't get enough of the intense responses and hot springs. Rather, when I'm practicing, I feel like I'm just breathing through the innocent mata..."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「諱先輩といっし蛯ょに福練習できるから、前鞫より烽もっと楽しいっていうか…エヘヘ」",
+    ("「諱先輩といっしょに練習できるから、前鞫より烽もっと楽しいっていうか…エヘヘ」",
     ""),
     # "I can practice fortune with my senior, so it's even more fun than the previous one...hehehe."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Ah, yes."
 
-    ("ガ宴ラに烽もなく、オ激レはち蛯ょっと赤逅らんだ頬でうなずいた。Å",
+    ("ガラに烽もなく、オレはちょっと赤逅らんだ頬でうなずいた。Å",
     ""),
     # There was no heat in the banquet, and my head nodded with a faint heart as I cried out.Å
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Even in the evening, the practice continued until the evening.
 
-    ("帰闍り際、葵ち痰ゃんはオ激レに、格闘技の本を貸してくれた。†",
+    ("帰闍り際、葵ち痰ゃんはオレに、格闘技の本を貸してくれた。†",
     ""),
     # As I returned home, Aoi Chisho-yan lent me a book on martial arts.†
 

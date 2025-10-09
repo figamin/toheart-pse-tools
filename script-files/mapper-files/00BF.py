@@ -14,11 +14,11 @@ text_array = [
     ""),
     # The sky is pretty nice weather.
 
-    ("一箞方、オ激レのほうはというと、今厓日は気分快調、すこぶる調子がいい。†",
+    ("一箞方、オレのほうはというと、今厓日は気分快調、すこぶる調子がいい。†",
     ""),
     # As for my hard work, I'm feeling very good on the day I'm in a good mood.†
 
-    ("「オッス、オ宴ラ、！」",
+    ("「オッス、オラ、！」",
     ""),
     # "Oh, my banquet!"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Not really, I'm feeling good on the day right now."
 
-    ("「おう、今厓日はバ潟リバ潟リ快調だぜ！	あかり、背白に奄負ぶされっ！」",
+    ("「おう、今厓日はバリバリ快調だぜ！	あかり、背白に奄負ぶされっ！」",
     ""),
     # "Oh, I'm feeling good now on the day! Akari, I'm being defeated by the backlash!"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "What, why...?"
 
-    ("「それぐらいテンシ㏍ョンがｂ高いってことだ」†",
+    ("「それぐらいテンションが高いってことだ」†",
     ""),
     # "That means that the tensy is so high."
 

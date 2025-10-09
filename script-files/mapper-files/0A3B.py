@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Ah, I love you."
 
-    ("オ激レは、年續上っぽく、できるかぎり平静を浮装って嘯答えた。†",
+    ("オレは、年續上っぽく、できるかぎり平静を浮装って嘯答えた。†",
     ""),
     # I replied, looking like I was a year-old man, and pretending to be as calm as possible.†
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # The brat then smirked,
 
-    ("「そうか。、おまえ、いい竄やつなんだな」",
+    ("「そうか。、おまえ、いいやつなんだな」",
     ""),
     # "I see. You're a tampering guy."
 
-    ("「いい竄やつって、おまえなー」†",
+    ("「いいやつって、おまえなー」†",
     ""),
     # "You're the one who's tampering with me" †
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "You have no phlegm, it's Ryota."
 
-    ("「增わかってるよ。あのな、オ激レの福方がはるかに年續上なんだから、もっとソンケーしてし痰ゃべれ。あと、フ泣ルネームで呼ぶな」",
+    ("「わかってるよ。あのな、オレの方がはるかに年續上なんだから、もっとソンケーしてし痰ゃべれ。あと、フルネームで呼ぶな」",
     ""),
     # "I know. Well, my luck with the good fortune is much older than me, so I'll give you more sluts and sluts. Also, don't call me by my name."
 
-    ("そう言ってオ激レは、良太の目のｂ高さにかがみこむ。†",
+    ("そう言ってオレは、良太の目の高さにかがみこむ。†",
     ""),
     # With that in mind, I leaned over Ryota's eyes.†
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "You have no phlegm, it's Ryota."
 
-    ("「增わかってるよ。あのな、オ激レの福方がはるかに年續上なんだから、もっとソンケーしてし痰ゃべれ。あとな、おまえって言うな」",
+    ("「わかってるよ。あのな、オレの方がはるかに年續上なんだから、もっとソンケーしてし痰ゃべれ。あとな、おまえって言うな」",
     ""),
     # "I know. I know that, my blessing is much older than me, so I'll give you more sluts and sluts. Also, don't you say it?"
 
-    ("そう言ってオ激レは、良太の目のｂ高さにかがみこむ。†",
+    ("そう言ってオレは、良太の目の高さにかがみこむ。†",
     ""),
     # With that in mind, I leaned over Ryota's eyes.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Ryota no Tomoe also likes Symptomy?"
 
-    ("「だいすきだぞ。ねえち痰ゃんは竄やさしいし、びじんだ」",
+    ("「だいすきだぞ。ねえち痰ゃんはやさしいし、びじんだ」",
     ""),
     # "I really love it. Hey, phlegm is easy to tamper with, and it's so frustrating."
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # "Hey, you guys, you're kind of a hit-out.
 
-    ("弟なんだから、ち蛯ょっと唐遠慮しｂよな」",
+    ("弟なんだから、ちょっと遠慮しよな」",
     ""),
     # Since he's his younger brother, he's probably a little shy away from him.'
 
-    ("笑って言いながら、オ激レは良太に軽くデコピンを入齠れて竄やる。†",
+    ("笑って言いながら、オレは良太に軽くデコピンを入齠れてやる。†",
     ""),
     # As I laughed, I lightly put decopine on Ryota and tampered with it.†
 
-    ("「竅やったなー！！	くらえー！！」",
+    ("「やったなー！！	くらえー！！」",
     ""),
     # "I did it!! Come on!"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Whoa, stay there.
 
-    ("やめｂって、こら」",
+    ("やめって、こら」",
     ""),
     # Stop it, come on."
 
@@ -90,23 +90,23 @@ text_array = [
     ""),
     # "Hey."
 
-    ("オ激レは良太の髪の毛をクシャャクシャャにして反ｔ撃する。",
+    ("オレは良太の髪の毛をクシャャクシャャにして反ｔ撃する。",
     ""),
     # I gulp Ryota's hair and fires back at him.
 
-    ("体の墲わりにデカイ頭を揺すられて、ク宴ラク宴ラになってる良太。†",
+    ("体の墲わりにデカイ頭を揺すられて、クラクラになってる良太。†",
     ""),
     # Ryota's big head is shaking instead of his body, making it easy to have a banquet.†
 
-    ("「あはははは。、お烽もしｂいぞ」",
+    ("「あはははは。、お烽もしいぞ」",
     ""),
     # "Hahahaha. It's a hot one."
 
-    ("そして、オ激レの足にへばりつくように抱きついて、",
+    ("そして、オレの足にへばりつくように抱きついて、",
     ""),
     # Then, he hugged me as if to snuggle my legs,
 
-    ("「、にーち痰ゃんみたいでお烽もしｂいぞー」",
+    ("「、にーち痰ゃんみたいでお烽もしいぞー」",
     ""),
     # "Nice, it looks like a sputum, so it's a bit bang."
 
@@ -118,15 +118,15 @@ text_array = [
     ""),
     # "My baby is a sputum and it's nice to have a hot pot."
 
-    ("「なっ！？	ばか竄やｂー、照齒れること言うんじ痰ゃねー」",
+    ("「なっ！？	ばかやー、照齒れること言うんじ痰ゃねー」",
     ""),
     # "What!? You idiot, b, you have to say what's glaring for, phlegm."
 
-    ("思寬わず赤くなってしまい、オ激レはとっさに良太をポンとはたく。†",
+    ("思寬わず赤くなってしまい、オレはとっさに良太をポンとはたく。†",
     ""),
     # Without thinking about it, I quickly turned red, and I quickly plucked Ryota.†
 
-    ("「いてー。にーち痰ゃんがい竄やだったら、こぶんで烽もいいぞ」",
+    ("「いてー。にーち痰ゃんがいやだったら、こぶんで烽もいいぞ」",
     ""),
     # "Hey. If you're tampering with sputum, it's good to have a sniff and hot pot."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Don't suddenly lower the Amami rank" †
 
-    ("とか竄やってると、",
+    ("とかやってると、",
     ""),
     # If you're tampering with something like that,
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "yeah?"†
 
-    ("「良太、なに竄やってるの！？」",
+    ("「良太、なにやってるの！？」",
     ""),
     # "Ryota, what are you doing to tamper with?!"
 
@@ -158,15 +158,15 @@ text_array = [
     ""),
     # "Oh, I'm not a sputum."
 
-    ("いきなりタイミングがかぶるオ激レたち。",
+    ("いきなりタイミングがかぶるオレたち。",
     ""),
     # The guys suddenly get the timing different.
 
-    ("「くん、また良太が何か竄やったの？」†",
+    ("「くん、また良太が何かやったの？」†",
     ""),
     # "Kun, did Ryota do something again?"
 
-    ("「ん？	い竄や、べつに」",
+    ("「ん？	いや、べつに」",
     ""),
     # "Hmm? It's tampering, it's all right."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "Oh, I was playing."
 
-    ("この悪ガキが、オ激レになついてるのが不思議でならないって感じだ。†",
+    ("この悪ガキが、オレになついてるのが不思議でならないって感じだ。†",
     ""),
     # It's hard to believe that this bad boy is attached to me.†
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "I'm really thrilled."
 
-    ("「本薄部で待機って、また玉三郎を追っかけてたのね？	だめでし蛯ょ、ひよこを一人にしたら」",
+    ("「本薄部で待機って、また玉三郎を追っかけてたのね？	だめでしょ、ひよこを一人にしたら」",
     ""),
     # "You waited in the thin section and were chasing Tamasaburo again, right? No good, I left the chick alone."
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "I'm going to have a hot spring" †
 
-    ("「ははっ、おまえ兄貴なんだ？	それなのにｖほったらかしにしてんのか？	ひでー竅やつだなー」",
+    ("「ははっ、おまえ兄貴なんだ？	それなのにｖほったらかしにしてんのか？	ひでーやつだなー」",
     ""),
     # "Haha, are you big brother? But are you leaving him alone? You're the one who's Hidera."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "Here it!
 
-    ("走髑るとあぶないでし蛯ょー！",
+    ("走るとあぶないでしょー！",
     ""),
     # Running skulls and dangerous!
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # already…"
 
-    ("オ激レは思寬わず笑ってしまった。†",
+    ("オレは思寬わず笑ってしまった。†",
     ""),
     # I laughed without thinking.†
 
@@ -250,11 +250,11 @@ text_array = [
     ""),
     # "What, what's wrong, kun...?"
 
-    ("「い竄やあー。いつ烽も、なーんか鰍頼阯りねえ揩理女緒ち痰ゃん烽も、立派にお姉ち痰ゃんしてんだなって思ってさ」",
+    ("「いやあー。いつ烽も、なーんか鰍頼りねえ揩理女緒ち痰ゃん烽も、立派にお姉ち痰ゃんしてんだなって思ってさ」",
     ""),
     # "Ahhh. I think that even when you're not roe, or whatever, you're not roe, you're also roe-no-roe, but you're roe-no-roe, and you're terribly slutty, slut."
 
-    ("「竅や、竅やだな〜」",
+    ("「や、やだな〜」",
     ""),
     # "I don't like it, I don't like it."
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # "K-kun. What weren't you saying at the end of the day? Is there something strange saying?"
 
-    ("「だからさ、遊んでたんだって。自分の墲弟を信じｂよ」",
+    ("「だからさ、遊んでたんだって。自分の墲弟を信じよ」",
     ""),
     # "That's why I was playing. Believe in your brother."
 
@@ -306,11 +306,11 @@ text_array = [
     ""),
     # "Yeah!"
 
-    ("そして揩理女緒ち痰ゃんはｋけていった。",
+    ("そして揩理女緒ち痰ゃんは駆けていった。",
     ""),
     # And then she started to wear it.
 
-    ("その、小さくと烽もしっかりとした繧後撃姿がオ激レには、ほほえましく思えた。◯",
+    ("その、小さくと烽もしっかりとした繧後撃姿がオレには、ほほえましく思えた。◯",
     ""),
     # The small, strong and roasted appearance of the scene after the scene seemed to smile at me.◯
 

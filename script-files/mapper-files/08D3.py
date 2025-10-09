@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「全然知迺らなくて烽も、横の撃レーンで竄やってるрヤツの竄やり福方を真乱似しとき痰ゃいいんだよ」",
+    ("「全然知迺らなくて烽も、横の撃レーンでやってるрヤツのやり方を真乱似しとき痰ゃいいんだよ」",
     ""),
     # "It's fine for you to just sputum when you don't know anything about it, and you can just sputum when you confuse the way the guy who's tampering with the side attack lane."
 
-    ("オ激レ諠よりうまいрヤツがゴ鴻ロゴ鴻ロしてるだｂうし。",
+    ("オレ諠よりうまいрヤツがゴ鴻ロゴ鴻ロしてるだうし。",
     ""),
     # The guy who's better than my slutty sluts is grossing.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I'm not confident..."
 
-    ("「自信なんて、だんだんついてくる烽ものだｂ」†",
+    ("「自信なんて、だんだんついてくる烽ものだ」†",
     ""),
     # "Confidence is something that gradually becomes more and more popular" †
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "...Yeah. Go <Men, say it without saying anything..."
 
-    ("「增わりぃな」†",
+    ("「わりぃな」†",
     ""),
     # "It's so good" †
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # Remy went home in a flash.
 
-    ("…なんだｂ？",
+    ("…なんだ？",
     ""),
     # ...What is b?
 
-    ("じつは撃レミィ、オ激レに教えて欲しかったのか？◯",
+    ("じつは撃レミィ、オレに教えて欲しかったのか？◯",
     ""),
     # Actually, did you want me to tell you Ekiremi?◯
 

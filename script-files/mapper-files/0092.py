@@ -2,15 +2,15 @@
 # Source file: 0092.txt
 
 text_array = [
-    ("（冝期槙末テスト	４冾日目）閨（選択綜	バッチ潟リ）†",
+    ("（冝期槙末テスト	４冾日目）閨（選択綜	バッチリ）†",
     ""),
     # (4th day of the sinus final test) (Selection of Batch-Katari)†
 
-    ("「バッチ潟リだぜ」",
+    ("「バッチリだぜ」",
     ""),
     # "It's a big latitude."
 
-    ("オ激レは自搦慢げに言って竄やった。",
+    ("オレは自搦慢げに言ってやった。",
     ""),
     # I said it arrogantly and fed it off.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "That's awful."
 
-    ("ジ鴻ロジ鴻ロとオ激レを見つめる志保。",
+    ("ジ鴻ロジ鴻ロとオレを見つめる志保。",
     ""),
     # Shiho looks at Jikoro and I'm a stomping.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「あんたが調子いいだなんて、まさか、イケナイこと竄やったんじ痰ゃないでし蛯ょーね？」",
+    ("「あんたが調子いいだなんて、まさか、イケナイことやったんじ痰ゃないでしょーね？」",
     ""),
     # "I can't believe you're in good spirits, you're just kidding me something bad, don't you pester me?"
 
-    ("「馬鹿なこと言うな。オ激レはアンフェアなことはしない蛯主義なんだ」",
+    ("「馬鹿なこと言うな。オレはアンフェアなことはしない主義なんだ」",
     ""),
     # "Don't say stupid things. I'm an eclipsist who doesn't do anything unfair."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # I worked hard at Messin Police Station to study.
 
-    ("あかりといっし蛯ょにな。†",
+    ("あかりといっしょにな。†",
     ""),
     # Become a slut with Akari.†
 
-    ("「お前こそ、ズ泣ル窿やってんじ痰ゃねーのか？」",
+    ("「お前こそ、ズル窿やってんじ痰ゃねーのか？」",
     ""),
     # "Are you the one who's crying and doing sputum?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "...I can't believe it."
 
-    ("「氈勝闖手に疑ってｂ。これがオ激レの実力だ」◯",
+    ("「氈勝闖手に疑って。これがオレの実力だ」◯",
     ""),
     # "I doubt that I'm b. This is my great ability."◯
 

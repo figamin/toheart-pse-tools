@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Uhhhhh..."
 
-    ("木の前で、ちっち痰ゃな翌女の子がモ泣いていた。",
+    ("木の前で、ちっち痰ゃな翌女の子がモいていた。",
     ""),
     # In front of the tree, the next girl was crying, groaning.
 
-    ("関孖わるとどうせ高ロクなことにならないので、そのまま素通闥りしようと思ったが、竅やっぱり気になって声をかけてしまった。†",
+    ("関孖わるとどうせ高ロクなことにならないので、そのまま素通闥りしようと思ったが、やっぱり気になって声をかけてしまった。†",
     ""),
     # If I were to go to the slut, it wouldn't be a good thing anyway, so I decided to just go straight to it, but I was so curious that I called out to him.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Uhhhhh..., whhh..."
 
-    ("「メ泣いてち痰ゃ墲わかんねーだｂ？」",
+    ("「メいてち痰ゃ墲わかんねーだ？」",
     ""),
     # "You cry and you don't know what to do with your phlegm?"
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # At that moment, a cat meowed meowed on my head.
 
-    ("見繻上げると、ａ高さ３≠メート泣ルほどの木の枝に、秩白部黒ブチの猫が乗っていた。",
+    ("見上げると、ａ高さ３≠メートルほどの木の枝に、秩白部黒ブチの猫が乗っていた。",
     ""),
     # When I looked up, I saw a cat with a black cat in the silence was riding on a tree branch that was a height of 3 ≠ Mett.
 
-    ("どう竄やら木に登ったっきり、降闕りられなくなったらしい。†",
+    ("どうやら木に登ったっきり、降闕りられなくなったらしい。†",
     ""),
     # Apparently he ended up climbing a tree, but he couldn't stop descending.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Is Tasuke Taimaisuke? Ah, is Taimai the cat saved?"
 
-    ("オ激レはひとり納得し、うなずいた。",
+    ("オレはひとり納得し、うなずいた。",
     ""),
     # I was convinced and nodded.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Big brother, please help Taimaisuke out..."
 
-    ("制梵服の端をつかんですがる翌女の子に、オ激レは、",
+    ("制梵服の端をつかんですがる翌女の子に、オレは、",
     ""),
     # The next girl grabs the edge of her brat's uniform, and I'm in a stern position.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # He replied with an ambiguous response and a laughing face.
 
-    ("もう一度、木の繧上の猫を見繻上げる。",
+    ("もう一度、木の繧上の猫を見上げる。",
     ""),
     # Once again, look up at the cat on the wooden ridge.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "I'm in trouble..."
 
-    ("あのｂ高さじ痰ゃ、さすがにジャャンプって墲わけにはいかないだｂうし、木登闢りしように烽も、閨手頃な枝がない。",
+    ("あの高さじ痰ゃ、さすがにジャャンプって墲わけにはいかないだうし、木登闢りしように烽も、閨手頃な枝がない。",
     ""),
     # That tall phlegm is definitely not enough to make a jam, and even though I was going to register a tree, there were no affordable branches.
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Well, there's a ladder and it's not like phlegm, but that's a hot flash of phlegm that's leaning against it.
 
-    ("ち蛯ょっと無摶理っぽそうだぞ。†",
+    ("ちょっと無摶理っぽそうだぞ。†",
     ""),
     # It looks like he's just plain unrealistic.†
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "I won't be able to climb even though I'm not going to stop myself."
 
-    ("ブツブツ言いながら烽もなんとかよじ登ってみようとしたが、竅やっぱり枝がないので無摶理だった。",
+    ("ブツブツ言いながら烽もなんとかよじ登ってみようとしたが、やっぱり枝がないので無摶理だった。",
     ""),
     # As I cried out loud, I tried to climb up the mountain, but as expected, there were no branches so it was unrealistic.
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # Haa, no good, stiff phlegm.†
 
-    ("「こいつは、ち蛯ょっとオ激レには…」",
+    ("「こいつは、ちょっとオレには…」",
     ""),
     # "This guy is really crazy..."
 
@@ -163,7 +163,7 @@ text_array = [
     # As I said, I heard the bathing girl peering into her face with anxiety.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("うー…。†",
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # Grilled!
 
-    ("禔方法としては間瘧違ってないが、いかんせん、オ激レが蹴った程度じ痰ゃ木はビクと烽もしないのだった。",
+    ("禔方法としては間瘧違ってないが、いかんせん、オレが蹴った程度じ痰ゃ木はビクと烽もしないのだった。",
     ""),
     # It's not a different method, but even so, the only thing that I kicked was that the wood didn't sway or stomp.
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "Hey"
 
-    ("アイスク潟リームをなめた見知迺らぬ翌女子校生に声をかけられた。",
+    ("アイスクリームをなめた見知迺らぬ翌女子校生に声をかけられた。",
     ""),
     # I was approached by a schoolgirl who had not yet come to terms with the idea of ​​licking the Ice Cream.
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # Next to Nishion Jiji's Fall Girls "Naka-named
 
-    ("寺落女てらじ蛯ょの制梵服だった。",
+    ("寺落女てらじょの制梵服だった。",
     ""),
     # It was a Sanskrit uniform for a temple-dead woman.
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「ひとりじ痰ゃキビシーんでし蛯ょ？」",
+    ("「ひとりじ痰ゃキビシーんでしょ？」",
     ""),
     # "Are you gross alone, you're gross?"
 
@@ -258,15 +258,15 @@ text_array = [
     ""),
     # The woman after the fallen woman in the Nenji Temple said this and gave the bathing girl a ice cream,
 
-    ("「じ痰ゃあ、あんた、土苴台ね」",
+    ("「じ痰ゃあ、あんた、土台ね」",
     ""),
     # "You're a sputum, you're a landing table."
 
-    ("オ激レを指さして言った。†",
+    ("オレを指さして言った。†",
     ""),
     # I pointed at me and said.†
 
-    ("「土苴台って、オ激レがあ？」",
+    ("「土台って、オレがあ？」",
     ""),
     # "Is it a really tough job on the Ruin Station?"
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "Well, that's the case with Hot..."
 
-    ("いきなり現鼬れて指示すんなと言いたかったが、まあ、猫を浮助けるにはてっとり≠早い福方法だし、し蛯ょうがないか。",
+    ("いきなり現鼬れて指示すんなと言いたかったが、まあ、猫を浮助けるにはてっとり≠早い方法だし、しょうがないか。",
     ""),
     # I wanted to say that you should suddenly show your cat and point it out, but it's a quick way to help a cat float, so why not give it a slut?
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # Let's follow the phrases here without saying anything.†
 
-    ("ち蛯ょいｒ注気味になって木につかまる。",
+    ("ちょいｒ注気味になって木につかまる。",
     ""),
     # I'm starting to feel like I'm not going to take it to the tree.
 
@@ -298,11 +298,11 @@ text_array = [
     ""),
     # "Okay. Don't just move."
 
-    ("宦寺落女の翌女はさすがにいちおう靴を脱ぐと、オ激レの太股を踏んづけ、背白、肩へと登っていった。",
+    ("宦寺落女の翌女はさすがにいちおう靴を脱ぐと、オレの太股を踏んづけ、背白、肩へと登っていった。",
     ""),
     # After the woman who went to Eunji Temple, she took off her shoes, stepped on my intense thighs, and rose to her shoulders.
 
-    ("運動神経がいいのか、ひ蛯ょいひ蛯ょーいと、軽竚やかな足鞫取闔りだった。†",
+    ("運動神経がいいのか、ひょいひょーいと、軽竚やかな足鞫取闔りだった。†",
     ""),
     # He seemed to have good athletic ability, and he was very light at his feet.†
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # "Uh, ugh..."
 
-    ("ち蛯ょっと痛い。†",
+    ("ちょっと痛い。†",
     ""),
     # It hurts a lot.†
 
@@ -326,7 +326,7 @@ text_array = [
     ""),
     # "Oh, hey, how about it? Will it arrive?"
 
-    ("なにげなく見繻上げると、スカートのｒ身がｂモ鴻ロ見えだった。",
+    ("なにげなく見上げると、スカートのｒ身がモ鴻ロ見えだった。",
     ""),
     # I casually looked up, and the skirt looked like a b-moothed man.
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # "Oh, oh..."
 
-    ("言甯われたとおり、オ激レ焜も背筋を伸ばした。",
+    ("言甯われたとおり、オレ焜も背筋を伸ばした。",
     ""),
     # As I was told, I also straightened my spine.
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "Oh, oh."
 
-    ("ずっと繧上を見繻上げたまま、オ激レは艪ゆっくりとｍ會高ｺ奄す。†",
+    ("ずっと繧上を見上げたまま、オレはゆっくりとｍ會高ｺ奄す。†",
     ""),
     # While keeping my eyes closed, I slowly moved to the top of my body.†
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("浴女の子と翌女子校生はアイスク潟リームとブチ猫を交換した。",
+    ("浴女の子と翌女子校生はアイスクリームとブチ猫を交換した。",
     ""),
     # The bathing girl and the next school girl exchanged Ice Cream and a stink cat.
 
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # "I'm glad you've been told, it's a waste."
 
-    ("にっこり微笑みながら、宦寺落女の翌女はとけたアイスク潟リームをなめた。†",
+    ("にっこり微笑みながら、宦寺落女の翌女はとけたアイスクリームをなめた。†",
     ""),
     # With a smile, the woman after the Eunji-san fell asleep the melted Ice Cream.†
 
@@ -414,11 +414,11 @@ text_array = [
     ""),
     # "you're welcome"
 
-    ("さっきまでのモ泣き顔はどこへ竄やら、浴女の子はブチ猫を抱いて、そのまま嬉しそうに魔走闡り獅去っていった。†",
+    ("さっきまでのモき顔はどこへやら、浴女の子はブチ猫を抱いて、そのまま嬉しそうに魔走闡り獅去っていった。†",
     ""),
     # Where did the horny crying face that had just happened had been tampering with, the bathing girl hugged the sniff cat and then happily drove away.†
 
-    ("「おいおい、オ激レには礼なしかよ」",
+    ("「おいおい、オレには礼なしかよ」",
     ""),
     # "Hey hey, I'm not sorry about my hard work."
 
@@ -434,7 +434,7 @@ text_array = [
     ""),
     # "Well, it's a shame, so I'll give you a reward. Yes."
 
-    ("彼濫女はそう言って、閨手に揩持っていたアイスク潟リームを差し出した。†",
+    ("彼濫女はそう言って、閨手に揩持っていたアイスクリームを差し出した。†",
     ""),
     # The woman said, handing out the Ice Cream she had in her hand.†
 
@@ -442,11 +442,11 @@ text_array = [
     ""),
     # "Huh? A reward, can you eat this and phlegm?"
 
-    ("と言いつつ烽も、諱取闔りあえず受け取骼るだけは受け取骼る、オ激レ。†",
+    ("と言いつつ烽も、諱取闔りあえず受け取骼るだけは受け取骼る、オレ。†",
     ""),
     # That said, I was so excited that I could not accept it, but just accept it.†
 
-    ("「いいじ痰ゃない、п私のただ見したんだから、そのぶん、それで艪我揄慢しなさいよ」",
+    ("「いいじ痰ゃない、п私のただ見したんだから、そのぶん、それで我揄慢しなさいよ」",
     ""),
     # "No good phlegm, I just saw it, so just hold back on the fact that you say it."
 
@@ -462,7 +462,7 @@ text_array = [
     ""),
     # "...Ugh."
 
-    ("なんだ、気づいて竄やがったのか。",
+    ("なんだ、気づいてやがったのか。",
     ""),
     # What, did you notice and tamper with it?
 
@@ -470,7 +470,7 @@ text_array = [
     ""),
     # At first glance, he looks strange, but in fact he's surprisingly shy.†
 
-    ("「で烽もそれ、おいしいのよ。いまうちの学校で烽も評判のお店の竄やつだから。食べてみて。じ痰ゃーね」",
+    ("「で烽もそれ、おいしいのよ。いまうちの学校で烽も評判のお店のやつだから。食べてみて。じ痰ゃーね」",
     ""),
     # "And that's the case, it's delicious. It's a tampering thing from a restaurant that's also popular at our school. Try it. It's sputum."
 
@@ -486,7 +486,7 @@ text_array = [
     ""),
     # Lick the melting ice cream.
 
-    ("ぺｂ。",
+    ("ぺ。",
     ""),
     # peb.
 
@@ -502,7 +502,7 @@ text_array = [
     ""),
     # "What, is this indirect kissing and phlegm?
 
-    ("う墲わっ、オ激レ、名前熨も知迺らない行きずりの翌女と間接キスしちまったのか！？",
+    ("う墲わっ、オレ、名前熨も知迺らない行きずりの翌女と間接キスしちまったのか！？",
     ""),
     # I'm so excited, I've had an indirect kiss with the girl after a trip that doesn't even make any noises!?
 

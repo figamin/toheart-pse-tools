@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Well, it's probably true that the capital and the people who are familiar with each other are first introduced to the number ones.
 
-    ("し蛯ょうがない。",
+    ("しょうがない。",
     ""),
     # There's no slut.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # I'm sure he was doing a new Eiji painting.
 
-    ("タイト泣ルは漢嚏字齊一文囎字の…忘齧れた。",
+    ("タイトルは漢嚏字齊一文囎字の…忘齧れた。",
     ""),
     # Tight crying was a Chinese character, Qi Yi Xiang, and I forgot.
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # And I feel that both the Hou and the Hou, who painted the Hou by himself, are unhealthy.†
 
-    ("ここは蛯大人しく、ゲーセンでカネと桙時間を消諸しよう。",
+    ("ここは大人しく、ゲーセンでカネと桙時間を消諸しよう。",
     ""),
     # Let's stay quiet here and spend money and time at the arcade.
 
-    ("前に志保たちと勝縁負したシャーティングを竄やった。",
+    ("前に志保たちと勝縁負したシャーティングをやった。",
     ""),
     # He previously tampered with Sharting, who had won the victory with Shiho and the others.
 
-    ("このキャャ宴ラ、どことなく先輩に翌似てるような気がする。",
+    ("このキャャラ、どことなく先輩に翌似てるような気がする。",
     ""),
     # I feel like this Kayabanra looks a bit like my senior the next day.
 

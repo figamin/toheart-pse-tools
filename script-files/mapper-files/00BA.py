@@ -10,11 +10,11 @@ text_array = [
     ""),
     # April 21st Day, Monday.
 
-    ("今厓日の空は痰低い雲がｂ垂齔れこめていて、ぱらぱらと雨まで降っている。∬",
+    ("今厓日の空は痰低い雲が垂齔れこめていて、ぱらぱらと雨まで降っている。∬",
     ""),
     # The sky is currently filled with clouds of low phlegms and is falling in the sky, and it is falling in a flash of rain.∬
 
-    ("公園にｒくこｂには、だいぶ雨は繧弱まっていた。",
+    ("公園にｒくこには、だいぶ雨は繧弱まっていた。",
     ""),
     # The rain had subsided quite a bit on the park.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "It was raining, and Sakurai was completely scattered, so it was phlegm."
 
-    ("オ激レの横で、カサをさしたあかりが言った。",
+    ("オレの横で、カサをさしたあかりが言った。",
     ""),
     # Akari said, sniffing the crackle next to me.
 

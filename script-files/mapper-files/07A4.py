@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Kotone Scales Event PS) (Chounen Sogo)†
 
-    ("「おう、帰驪るとこｂだぜ？	じ痰ゃな」",
+    ("「おう、帰驪るとこだぜ？	じ痰ゃな」",
     ""),
     # "Oh, it's the place where I'm going back, right? I have to sputum."
 
-    ("オ激レは軽く手をあげた。",
+    ("オレは軽く手をあげた。",
     ""),
     # I lifted my hand slightly.
 

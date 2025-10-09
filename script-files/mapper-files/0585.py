@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aoi: After selecting the balance number event 2 B)†
 
-    ("「格闘技を竄やってる姿が好きってことさ」",
+    ("「格闘技をやってる姿が好きってことさ」",
     ""),
     # "That means I love how they tamper with martial arts."
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Martial arts...?"
 
-    ("「うん。だから、恥ずかしがることないさ。格闘技を竄やってるときの葵ち痰ゃんって、本末当に輝いてるっていうか、生き生きしてるし、いちばん良い顔してる。葵ち痰ゃんのク宴ラスの翌女の子たちにはその顔はできないと思うぜ」†",
+    ("「うん。だから、恥ずかしがることないさ。格闘技をやってるときの葵ち痰ゃんって、本末当に輝いてるっていうか、生き生きしてるし、いちばん良い顔してる。葵ち痰ゃんのクラスの翌女の子たちにはその顔はできないと思うぜ」†",
     ""),
     # "Yes, so I'm not embarrassed. When I'm tampering with martial arts, Aoi Chisho-chan is really bright and lively, and has the best face. I don't think the girls after Aoi Chisho-chan's banquet can have that face."
 
-    ("「そうでし蛯ょうか…？」",
+    ("「そうでしょうか…？」",
     ""),
     # "Is that so, is it a lily?..."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan smiled with a smile.≠
 
-    ("…結局、その冾日燗もまた、夕髣暮れまで福練習につき№合ってしまった。◯",
+    ("…結局、その冾日燗もまた、夕髣暮れまで練習につき№合ってしまった。◯",
     ""),
     # ...In the end, the sunken also met the best as we practiced for good luck until the evening.◯
 

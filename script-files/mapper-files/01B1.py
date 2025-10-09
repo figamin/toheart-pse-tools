@@ -2,15 +2,15 @@
 # Source file: 01B1.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｃ	竅絶対竭やめとけって）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｃ	絶対竭やめとけって）†",
     ""),
     # (Akari Scales Event: Out of school) (C: Don't forget to stop)†
 
-    ("「竅絶対竭やめとけって」",
+    ("「絶対竭やめとけって」",
     ""),
     # "You should definitely stop shaking."
 
-    ("オ激レは強く言った。",
+    ("オレは強く言った。",
     ""),
     # I said strongly.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Huh? Why?"
 
-    ("「どうせ夜見なおしたら、ブ泣ルーになるから。悪いこと言甯わん」†",
+    ("「どうせ夜見なおしたら、ブルーになるから。悪いこと言甯わん」†",
     ""),
     # "If I look at it again at night, I'll end up crying. I won't say anything bad."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "That's not there."
 
-    ("オ激レはきっぱり言い切った。†",
+    ("オレはきっぱり言い切った。†",
     ""),
     # My heart was completely uttering.†
 
-    ("駅前まで竄やってきた。",
+    ("駅前までやってきた。",
     ""),
     # I've fed it all the way to the station.
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("增わざとらしくため息つく、あかり。†",
+    ("わざとらしくため息つく、あかり。†",
     ""),
     # Akari sighs deliberately.†
 
-    ("「增わかった、增わかった、戻魔うぜ」",
+    ("「わかった、わかった、戻魔うぜ」",
     ""),
     # "Okay, I get it, I'll go back."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "However, you're the one who buys the food."
 
-    ("「うん、もちｂん！	イエイ！」†",
+    ("「うん、もちん！	イエイ！」†",
     ""),
     # "Yeah, mochibun! Yeeee!" †
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # However, just controlling the Kuma Chau, what is that lion-falling fin?
 
-    ("妙なことでスト激レスためられると、こっち烽も困骰るからな。",
+    ("妙なことでストレスためられると、こっち烽も困骰るからな。",
     ""),
     # If something strange happens and you get a real response, this guy will be in trouble too.
 
-    ("しかし、增わがままなんかめったに言甯わないあかりが、なぜ、あそこまで固執するのか。",
+    ("しかし、わがままなんかめったに言甯わないあかりが、なぜ、あそこまで固執するのか。",
     ""),
     # However, why is Akari, who is selfish and rarely speaking, so persisting?
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # Akari returned with a bear chow bag (just a plastic bag...) happily as she held the bear chow bag.
 
-    ("オ激レが見てる前で、なんと、あかりの他に烽も翌女子ｎ高生がひとつモ買っていた。",
+    ("オレが見てる前で、なんと、あかりの他に烽も翌女子ｎ高生がひとつモ買っていた。",
     ""),
     # In front of me, in addition to Akari, the next female high school student bought one of the following year's movies.
 
-    ("まさか、本末当に蛯大人気なのか！？†",
+    ("まさか、本末当に大人気なのか！？†",
     ""),
     # I can't believe it's a very popular ep!?†
 

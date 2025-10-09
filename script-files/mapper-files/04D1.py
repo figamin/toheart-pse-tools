@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho's Scales Event: Incoming Road 3) (Chooses: Parting)†
 
-    ("「增わりぃな。急いでんだ」",
+    ("「わりぃな。急いでんだ」",
     ""),
     # "No way. I'm in a hurry."
 
-    ("オ激レは立ち止まらず、すたすたと通闥り過ぎた。",
+    ("オレは立ち止まらず、すたすたと通闥り過ぎた。",
     ""),
     # My gang didn't stop and I was too close to him.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Ahhh, ohhhh..."
 
-    ("縺後撃から甘ったるい声が聞こえてきたが、オ激レは無許視した。◯",
+    ("縺後撃から甘ったるい声が聞こえてきたが、オレは無許視した。◯",
     ""),
     # After the attack, I heard a spoiled voice, but I was unauthorized.◯
 

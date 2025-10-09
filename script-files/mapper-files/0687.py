@@ -2,19 +2,19 @@
 # Source file: 0687.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜ＡＢＣの続き）閨（マ泣ルチ０Ｅ	微笑）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜ＡＢＣの続き）閨（マルチ０Ｅ	微笑）†",
     ""),
     # (Mixed Luchi, Scales Event 2F LV1) (Continued from Chosen ABC) (Mixed Luchi 0E Smile) †
 
-    ("「增わたし、さんみたいな、こんな親切な福方におｉいしたの、生まれて奄初めてです」",
+    ("「わたし、さんみたいな、こんな親切な方におｉいしたの、生まれて奄初めてです」",
     ""),
     # "It's the first time I've ever been born in Amami that I've been in such a kind, kind, lucky face like Mr.."
 
-    ("「竅や、竅やめｂよ。だいたいマ泣ルチ、お前って生まれてどのくらいになるんだ？」†",
+    ("「や、やめよ。だいたいマルチ、お前って生まれてどのくらいになるんだ？」†",
     ""),
     # "Yes, stop b. It's about time for you to be born, how long have you been born?"
 
-    ("「はい、ち蛯ょうど、２週間になります」",
+    ("「はい、ちょうど、２週間になります」",
     ""),
     # "Yes, it's been two weeks."
 

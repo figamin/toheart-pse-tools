@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, battle for Aya∴Ka, balance number event 4, second half of the month) (Aya∴Ka, left = normal)†
 
-    ("「…じ痰ゃ、そｂそｂ始めよっか」",
+    ("「…じ痰ゃ、そそ始めよっか」",
     ""),
     # "...I've got phlegm, let's start b, let's start b."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("「セ潟リオ、グ鴻ローブ」",
+    ("「セリオ、グ鴻ローブ」",
     ""),
     # "Segata Rio, Ghoo Robe"
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "yes"
 
-    ("ふたりはセ潟リオからグ鴻ローブを受け取闔り、閨手にはめた。†",
+    ("ふたりはセリオからグ鴻ローブを受け取闔り、閨手にはめた。†",
     ""),
     # The two received the Ghoon robe from Segata Rio and put it in their hand.†
 
-    ("「今厓日で４回目。ここまでは楽汪勝だったけど、正直そｂそｂｊなくなってきた墲わ」",
+    ("「今厓日で４回目。ここまでは楽汪勝だったけど、正直そそｊなくなってきた墲わ」",
     ""),
     # "This is the fourth time I've had it on my day. Up until this point, I've been in a gay victory, but to be honest, it's starting to disappear."
 
@@ -39,10 +39,10 @@ text_array = [
     # "It's a different story, it's a reversed adage. It's finally time for me to seriously defeat the smoker."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("おい、ち蛯ょっと待て。†",
+    ("おい、ちょっと待て。†",
     ""),
     # Hey, wait a moment.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "You've been playing before, so do you say you're also saying you're saying you're playing?"
 
-    ("「べつに遊んでた墲わけじ痰ゃないけど、本気で竄やってた墲わけで烽もない墲わ。余力を残しつつ、それなりに竄やってたの」",
+    ("「べつに遊んでた墲わけじ痰ゃないけど、本気でやってた墲わけで烽もない墲わ。余力を残しつつ、それなりにやってたの」",
     ""),
     # "I've been playing with it all, but it's not a slut, so it's a slut that I've been seriously tampering with, so it's a slut. I kept some energy and was tampering with it."
 
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # Then Aya∴Ka clenched his fist in a flash,
 
-    ("「という墲わけで、今厓日のр私はち蛯ょっと手強い墲わよ」",
+    ("「という墲わけで、今厓日のр私はちょっと手強い墲わよ」",
     ""),
     # "So, on the day I'm on the shore, I'm a tough one."
 
-    ("不敵な笑みをｂ浮かべた。",
+    ("不敵な笑みを浮かべた。",
     ""),
     # He gave a defiant smile.
 
-    ("「望むとこｂだ…」",
+    ("「望むとこだ…」",
     ""),
     # "It's b I want..."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # I don't really want to do that at the end of the day.†
 
-    ("「じ痰ゃあ、いい墲わよ。セ潟リオ、お願い」",
+    ("「じ痰ゃあ、いい墲わよ。セリオ、お願い」",
     ""),
     # "Ah, phlegm, that's good. Seragata Rio, please."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Yes. Let's go then..."
 
-    ("審判のセ潟リオが前に出髀る。",
+    ("審判のセリオが前に出髀る。",
     ""),
     # Judgment Segata Rio makes a comeback.
 
@@ -107,7 +107,7 @@ text_array = [
     # "The Witch Lady"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「｢｢ファイト」†",
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # Suddenly, a right hook from the instep!
 
-    ("オ激レはとっさに繧後撃にスウェーする。",
+    ("オレはとっさに繧後撃にスウェーする。",
     ""),
     # My gangbang quickly swung into the attack after the attack.
 
-    ("かｂうじて回避。†",
+    ("かうじて回避。†",
     ""),
     # Evade it by b.†
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # Continue with a Shield One Two!
 
-    ("オ激レはステッピングで右回濶りに回避する。†",
+    ("オレはステッピングで右回濶りに回避する。†",
     ""),
     # I avoided the geek by stepping and turning right.†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "I'm practicing, right?"
 
-    ("してなき痰ゃ、さっそく沈んでるとこｂだ。",
+    ("してなき痰ゃ、さっそく沈んでるとこだ。",
     ""),
     # If you don't do that, it's time to sink right away.
 
@@ -210,11 +210,11 @@ text_array = [
     ""),
     # Byaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-    ("追い打ちのジャャブをパ潟リー！",
+    ("追い打ちのジャャブをパリー！",
     ""),
     # Pagatali is the best for you!
 
-    ("オ激レの反ｔ撃、潤ワンツー！",
+    ("オレの反ｔ撃、潤ワンツー！",
     ""),
     # My intense anti-T-shot, Jun one-two!
 
@@ -226,11 +226,11 @@ text_array = [
     ""),
     # Ah!?
 
-    ("竅やった！",
+    ("やった！",
     ""),
     # I did it!
 
-    ("オ激レのパンチが奄初めて魔当たった！",
+    ("オレのパンチが奄初めて魔当たった！",
     ""),
     # My intense punch hit me for the first time in Amami!
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # Aya∴Ka's feet are always very skilled.
 
-    ("インファイター（接近寀戦が得意な選闡手）の嘯爆発力に、アウトタイプ（遠莱距離が得意）の素¢早いフット純ワークと竄冷静な判断力をあ墲わせ揩持つ、い墲わばオール激レンジタイプだ。",
+    ("インファイター（接近寀戦が得意な選闡手）の嘯爆発力に、アウトタイプ（遠莱距離が得意）の素¢早いフット純ワークと冷静な判断力をあ墲わせ揩持つ、い墲わばオールレンジタイプだ。",
     ""),
     # It's a very intense range type that has the explosive power of the Infighter (selectors who are good at close combat), and the out-type (savvy at long distances) with the pure, quick footwork and calm judgment.
 

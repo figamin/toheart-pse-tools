@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Thank you for your hard work, as I've just got a little bit of a day."
 
-    ("「諱よｂしければ、肩をお烽もみしまし蛯ょうか？」†",
+    ("「諱よしければ、肩をお烽もみしましょうか？」†",
     ""),
     # "If you're happy with this, I'll splash my shoulders, shall I peek?"
 
-    ("「諱よｂしければ、肩をお烽もみしますが？」†",
+    ("「諱よしければ、肩をお烽もみしますが？」†",
     ""),
     # "If you're happy with it, I'll massage my shoulder?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Yes, I'll beat you!"
 
-    ("「はい、增わかりました！」†",
+    ("「はい、わかりました！」†",
     ""),
     # "Yes, I understand!"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Course health is the best, isn't it?"
 
-    ("「增わかりました。必要なときはいつで烽も唐遠慮なさらずにおっし痰ゃってくださいね」†",
+    ("「わかりました。必要なときはいつで烽も遠慮なさらずにおっし痰ゃってくださいね」†",
     ""),
     # "I understand. Whenever you need it, please don't hesitate to shave your hands and give it a go."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Please use it again" †
 
-    ("「強さはどうしますか？」閨「強さはどのくらいがよｂしいですか？」閨「お好みの強さは？」閨",
+    ("「強さはどうしますか？」閨「強さはどのくらいがよしいですか？」閨「お好みの強さは？」閨",
     ""),
     # "What do you want to do with strength?" replies: "How much strength is best?" replies: "What is your preferred strength?" replies:
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Yes, you're weak."
 
-    ("「增わかりました」†",
+    ("「わかりました」†",
     ""),
     # "I understand" †
 
@@ -154,15 +154,15 @@ text_array = [
     ""),
     # "Skin, squish, squish"
 
-    ("マ泣ルチは一生恊懸命燒もんでいる。",
+    ("マルチは一生恊懸命燒もんでいる。",
     ""),
     # Muruch is trying hard for the rest of his life.
 
-    ("マ泣ルチは嬉しそうに揉んでいる。",
+    ("マルチは嬉しそうに揉んでいる。",
     ""),
     # Ruchi looks happy and squeezes her.
 
-    ("「諱よいし蛯ょ、諱よいし蛯ょ」「ずいぶん、こってますねー」「ツボはこの辺でし蛯ょうか」「ぎ繧ゅっ、ぎ繧ゅっ」「艨ゆったり、梶リ宴ラックスしてください」「ぐっ、ぐっ」「お疲齡れでし蛯ょう？」「＊淫俣冝A蛛大変ですねー」",
+    ("「諱よいしょ、諱よいしょ」「ずいぶん、こってますねー」「ツボはこの辺でしょうか」「ぎ繧ゅっ、ぎ繧ゅっ」「艨ゆったり、梶リラックスしてください」「ぐっ、ぐっ」「お疲齡れでしょう？」「＊淫俣冝A蛛大変ですねー」",
     ""),
     # "I'm so excited, I'm going to say it," "It's quite a bit of a stretch," "I'm going to have a peek at the point," "I'm going to have a peek at the end of the day," "I'm going to have a relaxed time for the Kaji banquet," "Guh, gh." "You're tired, I'm going to have a peek at the end of the day." "It's tough, I'm going to have you."
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Ton,Ton,Ton."
 
-    ("マ泣ルチは頑張って叩いている。",
+    ("マルチは頑張って叩いている。",
     ""),
     # Makkuruchi is trying hard to beat him.
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Heh, heh..."†
 
-    ("「ど、どう竄やら、增わたしのほうのｂモーターが熱くなってしまったようです」†",
+    ("「ど、どうやら、わたしのほうのモーターが熱くなってしまったようです」†",
     ""),
     # "What, it seems like my b-motor has gotten hot, after all."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "S-Sorry.
 
-    ("や竄や、オーバーヒートのようです」†",
+    ("やや、オーバーヒートのようです」†",
     ""),
     # It seems like a tampering or overheating."
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "It's re-released!"
 
-    ("「もう、諱よｂしいんですか？」†",
+    ("「もう、諱よしいんですか？」†",
     ""),
     # "Are you sure you're saying this?"
 
@@ -250,11 +250,11 @@ text_array = [
     ""),
     # "Yes? Is it over?"
 
-    ("「終了でし蛯ょうか？」†",
+    ("「終了でしょうか？」†",
     ""),
     # "Is it finished, is it ephemeral?"
 
-    ("「いかがでしたか？」閨「今厓日はどうでし蛯ょうか？」閨「少しは繧上達したでし蛯ょうか？」閨",
+    ("「いかがでしたか？」閨「今厓日はどうでしょうか？」閨「少しは繧上達したでしょうか？」閨",
     ""),
     # "How did you like?" "How about the day now?" "What's the day?" "You've improved a little, are you sung?"
 
@@ -266,15 +266,15 @@ text_array = [
     ""),
     # B: No training!
 
-    ("「そうですか、增わたし烽もお役に立てて嬉しいです」†",
+    ("「そうですか、わたし烽もお役に立てて嬉しいです」†",
     ""),
     # "I see, I'm happy that Hou can be of help."
 
-    ("「ああ、諱よかった。いｂいｂ勉強した甲纃斐がありました」†",
+    ("「ああ、諱よかった。いい勉強した甲纃斐がありました」†",
     ""),
     # "Ah, I'm glad. It was worth studying for my b-b"
 
-    ("「本末当ですか？	実は隠皷れて福練習してたんですよー」†",
+    ("「本末当ですか？	実は隠皷れて練習してたんですよー」†",
     ""),
     # "Are you doing the utmost? Actually, I was practicing fortune by hiding my eyes." †
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「增わ、增わたし…」†",
+    ("「わ、わたし…」†",
     ""),
     # "B, I'm..."
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "Oh, it's so deep..."
 
-    ("「氈次は、なにをしまし蛯ょうか？」†",
+    ("「氈次は、なにをしましょうか？」†",
     ""),
     # "What will you do next?"
 

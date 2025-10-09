@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone's Likeability Event 1) (The time off the next day after seeing the balance event)†
 
-    ("オ激レは琴音ち痰ゃんの教室を探していた。",
+    ("オレは琴音ち痰ゃんの教室を探していた。",
     ""),
     # I was looking for a Kotone Chisho-yaan classroom.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # I peeked through the first year classrooms and walked around the classrooms.
 
-    ("Ａク宴ラス…、いない。",
+    ("Ａクラス…、いない。",
     ""),
     # A-Can's Day... there's no.
 
-    ("Ｂク宴ラス…、いた。",
+    ("Ｂクラス…、いた。",
     ""),
     # B-Candy Lace..., board.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Kotone Chishoyan is sitting in his seat (probably) reading a book.†
 
-    ("しかし、呼び出そうに烽も彼濫女の席は怩奥の福方で、蛛大きな声を出さないといけない。",
+    ("しかし、呼び出そうに烽も彼濫女の席は怩奥の方で、蛛大きな声を出さないといけない。",
     ""),
     # However, in an attempt to summon him, he must speak loudly, as he is in the middle of the lucky side of the woman.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # After only talking twice, it's also unnatural to call out to him so easily.
 
-    ("どうした烽もんかと迷っていると、別の子がち蛯ょうど教室から出てきた。",
+    ("どうした烽もんかと迷っていると、別の子がちょうど教室から出てきた。",
     ""),
     # While wondering what to do with the hot springs, another child came out of the class of Chibiyodo.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Okay, let's call that girl and have her come along.†
 
-    ("「ち蛯ょっといいかな」",
+    ("「ちょっといいかな」",
     ""),
     # "Can I just have a good time?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("浴女の子は『なんで繧上縁級生が？』って顔で、オ激レを見繻上げる。†",
+    ("浴女の子は『なんで繧上縁級生が？』って顔で、オレを見上げる。†",
     ""),
     # The bathing girl said, "Why is there a senior classmate?"I looked up at my intense ecstasy with a look on my face.†
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Ah, that lol, the medium-sized woman is ""
 
-    ("そこまで言ってから、浴女の子は慌てて福口を押さえた。",
+    ("そこまで言ってから、浴女の子は慌てて口を押さえた。",
     ""),
     # After saying that, the bathing girl hurriedly held down Fukuguchi.
 
-    ("つい、うっかり福口にしたって感じだ。†",
+    ("つい、うっかり口にしたって感じだ。†",
     ""),
     # It felt like he accidentally turned into a lucky mouth.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # The words I rephrased were also somewhat awkward.
 
-    ("どう竄やらこの子は、琴音ち痰ゃんにあまり良い印象を揩持っていないらしい。",
+    ("どうやらこの子は、琴音ち痰ゃんにあまり良い印象を揩持っていないらしい。",
     ""),
     # Apparently, this girl doesn't have a very good impression of Kotone Chisho-chan.
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # What is it, sputum?†
 
-    ("「今、姫武さんのことｗ媒濫女って言ったｂ？	それってみんなが言ってることなのか？」",
+    ("「今、姫武さんのことｗ媒濫女って言った？	それってみんなが言ってることなのか？」",
     ""),
     # "I just said Himetake-san lol, you're a medium-sized woman b? Is that what everyone is saying?"
 
-    ("オ激レは気になって聞いてみた。",
+    ("オレは気になって聞いてみた。",
     ""),
     # I was curious about it and asked.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Ah, no... I'm saying it."
 
-    ("要領を得ないこたえだが、みんなで言っているんだｂう。",
+    ("要領を得ないこたえだが、みんなで言っているんだう。",
     ""),
     # It's a response that's hard to get into, but everyone is saying it.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # When that happens, I start to wonder why.†
 
-    ("「それって、ウ純ワサの超能力と関係がある話なのか？	オ激レ、彼濫女のこと良く知迺らなくってさ」",
+    ("「それって、ウ純ワサの超能力と関係がある話なのか？	オレ、彼濫女のこと良く知迺らなくってさ」",
     ""),
     # "Is that something related to Ujn Wasa's supernatural powers? I'm really dying to know about her boyfriend and women."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "And the hot spring..." †
 
-    ("「ウ純ワサのこと、知ってるんだｂ？	教えてくれないか」",
+    ("「ウ純ワサのこと、知ってるんだ？	教えてくれないか」",
     ""),
     # "Do you know Usun Wasa? B? Can you tell me?"
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "That's fine. Please tell me more about that story."
 
-    ("場鰹所を変えて翌女の子から話を聞き、オ激レは琴音ち痰ゃんに関してかなりの薰情報を得體ることができた。†",
+    ("場鰹所を変えて翌女の子から話を聞き、オレは琴音ち痰ゃんに関してかなりの薰情報を得體ることができた。†",
     ""),
     # I changed the bonito spot and listened to the story from the girl the following day, and I was able to get a lot of information about Kotone Chisho-chan.†
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # Two.†
 
-    ("突然、蛍光伯灯笂や汲窓ガ宴ラスがр割れたりして、琴音ち痰ゃんがｌまってみんなに謝闔り出すのがいつ烽ものパターン辜らしい。†",
+    ("突然、蛍光伯灯笂や汲窓ガラスがр割れたりして、琴音ち痰ゃんがｌまってみんなに謝闔り出すのがいつ烽ものパターン辜らしい。†",
     ""),
     # It seems that when suddenly, the fluorescence basin and the banquet of the banquet suddenly crack, Kotone Chisho-chan and start to apologize to everyone.†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # At first, the teachers and others looked into the mischief of Kotone's sphemy, but they couldn't find any suspicious hot pot.
 
-    ("閨手燻も触齔れずに蛍光伯灯笂やガ宴ラスをр割ったりするには、それなりの仕掛けが必要なはずだ。",
+    ("閨手燻も触齔れずに蛍光伯灯笂やガラスをр割ったりするには、それなりの仕掛けが必要なはずだ。",
     ""),
     # You'll need a certain amount of gimmick to play the fluorescence and gabanquet without touching it.
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # However, there was no way he would believe in the psychic powers that Kotone Chisho-yan said.
 
-    ("なにしｂ琴音ち痰ゃん自身、超能力が自由にならないと言うんだ。",
+    ("なにし琴音ち痰ゃん自身、超能力が自由にならないと言うんだ。",
     ""),
     # What is it that Kotone Chisho-yan herself says that her psychic powers cannot be free.
 
-    ("見せｂと言甯われて見せられない超能力なんて、信じられる墲わけがない。†",
+    ("見せと言甯われて見せられない超能力なんて、信じられる墲わけがない。†",
     ""),
     # There's no way you can believe that you have a psychic power that you can't show when you say "b" or "show me."†
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # Ujn Wasazo, who was admitted to a mental hospital, was also in conflict.
 
-    ("しばらくたって彼濫女は戻ってきたが、梶相変﨑わらず物（蛛主に蛍光伯灯笂や汲窓ガ宴ラス）が壊皷れる現象は止まらなかった。",
+    ("しばらくたって彼濫女は戻ってきたが、梶相変﨑わらず物（蛛主に蛍光伯灯笂や汲窓ガラス）が壊皷れる現象は止まらなかった。",
     ""),
     # After a while, the woman returned, but the phenomenon of Kaji Ai Henzaki (mainly the Fluorescent Hakutoko and the Kumumagata Banquet) was not stopped.
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # However, the students were incompatible.
 
-    ("ガ宴ラスをр割っているのは彼濫女に取闔り憑いた悪霊のせいだと誰かが言い出した。†",
+    ("ガラスをр割っているのは彼濫女に取闔り憑いた悪霊のせいだと誰かが言い出した。†",
     ""),
     # Someone said that it was the evil spirit that possessed the woman who was hanging out the banquet.†
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # So the nicknames she gave were "@Mediated Woman" and "Evil Spirit Woman."
 
-    ("〟仲のいい友だち烽も、℃囲の目を気にしてだんだん唐遠ざかっていく。",
+    ("〟仲のいい友だち烽も、℃囲の目を気にしてだんだん遠ざかっていく。",
     ""),
     # "Even his close friend, Kano, gradually moves away from him, worrying about his eyes.
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # So, after entering this school, some students also came to hear about the Ujn wasa and approached them with enthusiasm.
 
-    ("だが、一度で烽も現象を目にすると『シャャ激レになんない』と逃げるように離齬れてしまう。",
+    ("だが、一度で烽も現象を目にすると『シャャレになんない』と逃げるように離齬れてしまう。",
     ""),
     # However, when he sees the phenomenon at once, he ends up breaking away, saying, "There's nothing in the fierce."
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # The conversation with the bathing girl lasted a long time, and in the end I couldn't talk to Kotone Chisho-yan.
 
-    ("ま、かなりの福収穫はあったが…。◯",
+    ("ま、かなりの収穫はあったが…。◯",
     ""),
     # Well, there was a considerable fortune-telling harvest...◯
 

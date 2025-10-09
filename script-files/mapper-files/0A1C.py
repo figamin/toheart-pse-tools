@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Erimeo O's Scales Event) (Back to the LV2)†
 
-    ("「增わう」",
+    ("「わう」",
     ""),
     # "I'll snatch it."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hmm?"
 
-    ("オ激レの足熨もとになにかが飛びついてきた。†",
+    ("オレの足熨もとになにかが飛びついてきた。†",
     ""),
     # Something jumped at my feet.†
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Oh, what? Gentaro, don't you have any phlegm?"
 
-    ("「增わう」",
+    ("「わう」",
     ""),
     # "I'll snatch it."
 
-    ("玄太郎は、この近葛所で飼寬われている蛯大きなイヌで、とにかく人なつっこい。",
+    ("玄太郎は、この近葛所で飼寬われている大きなイヌで、とにかく人なつっこい。",
     ""),
     # Gentaro is a large dog that is being kept in this nearby Kudzu area, and is extremely friendly.
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # However, when is the only time for the next woman?†
 
-    ("「なんだか今厓日は機刹嫌がいいな。男のオ激レにくっついてくるなんて」",
+    ("「なんだか今厓日は機刹嫌がいいな。男のオレにくっついてくるなんて」",
     ""),
     # "I'm not a good moment for the day right now. It's sticking to a man's hardcore guy."
 
-    ("オ激レは玄太郎の頭を荒っぽくなでる。",
+    ("オレは玄太郎の頭を荒っぽくなでる。",
     ""),
     # I gulp Gentaro's head roughly.
 
-    ("すると玄太郎燔もすがるようにして、オ激レの顔を蛯大きな繧舌で汲豪快に舐める。†",
+    ("すると玄太郎燔もすがるようにして、オレの顔を大きな繧舌で汲豪快に舐める。†",
     ""),
     # Then Gentarou retreated, licking my face with a huge tongue.†
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "Hahahaha..."
 
-    ("べｂべｂ。†",
+    ("べべ。†",
     ""),
     # BB.†
 
-    ("「ははは、ばか、竅やめｂよ」",
+    ("「ははは、ばか、やめよ」",
     ""),
     # "Haha, idiot, stop b."
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Hahahaha..."
 
-    ("べｂべｂ。†",
+    ("べべ。†",
     ""),
     # BB.†
 
-    ("「おいおい、制梵服がｉ俾奄るだｂ？」",
+    ("「おいおい、制梵服がｉ俾奄るだ？」",
     ""),
     # "Hey hey, the Brahmin uniforms are in the air, right?"
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "Hahahaha..."
 
-    ("べｂべｂ。†",
+    ("べべ。†",
     ""),
     # BB.†
 
-    ("「♂ねーっつってんだｂがッ！」",
+    ("「♂ねーっつってんだがッ！」",
     ""),
     # "You're so gay, b!"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # There, even Hou was trembling, and there was a harsh, emotional, emotional woman, Ochi Sphinja.
 
-    ("どこから揩持ってきたのか、両阯手でしっかりと棒切齔れをにぎっている。",
+    ("どこから揩持ってきたのか、両手でしっかりと棒切齔れをにぎっている。",
     ""),
     # I was holding the stick cut and kneaded firmly with my hands, wondering where he brought it from.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # When I almost said,
 
-    ("「增わうっ！！」",
+    ("「わうっ！！」",
     ""),
     # "Ahhhh!!"
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # Until then, she was standing bravely, but when Gentaro was seen as a female, she ended up running away.†
 
-    ("「增わうっ！	增わうっ！」",
+    ("「わうっ！	わうっ！」",
     ""),
     # "Whoa! Whoa!"
 
-    ("玄太郎、妙に蛯大相びだな。",
+    ("玄太郎、妙に大相びだな。",
     ""),
     # Gentaro is strangely ecstasy.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # I screamed desperately and shouted the stick around.
 
-    ("掾理女緒ち痰ゃんが暴齧れれば暴齧れるだけ、玄太郎は蛯大相びで追い回す。",
+    ("掾理女緒ち痰ゃんが暴齧れれば暴齧れるだけ、玄太郎は大相びで追い回す。",
     ""),
     # If the shoman is sniffing, he will sniff and sniffing, Gentaro chases him with a huge sniffing.
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # It seems like he's misguided...†
 
-    ("とりあえずオ激レは｢｢。",
+    ("とりあえずオレは｢｢。",
     ""),
     # For now, I'm a bit of a geek.
 

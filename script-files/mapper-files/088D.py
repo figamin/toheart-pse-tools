@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kazuremi, 2nd floor 2) (Selection C)†
 
-    ("だけど、そんなことを聞かれるほどの№仲じ痰ゃないよな…、オ激レと撃レミィは。",
+    ("だけど、そんなことを聞かれるほどの№仲じ痰ゃないよな…、オレと撃レミィは。",
     ""),
     # But I don't have any kind of friendship to get asked about such things... I'm a gut and Ekire Remi.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Why are you asking that?"
 
-    ("オ激レは逆に、聞き返してみた。†",
+    ("オレは逆に、聞き返してみた。†",
     ""),
     # On the contrary, I asked again.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Ekiremi answers with a smile.
 
-    ("「なんだよ、オ激レに知迺られち痰ゃまずいことなのか？」",
+    ("「なんだよ、オレに知迺られち痰ゃまずいことなのか？」",
     ""),
     # "What is it? Is it bad to be able to get my knowledge from you?"
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Tell me, tell me!"
 
-    ("自分のことは棚に繧上げて、オ激レには教えｂと撃レミィは言う。†",
+    ("自分のことは棚に繧上げて、オレには教えと撃レミィは言う。†",
     ""),
     # He puts himself on the shelf and tells me, b, and Ekiremi.†
 
-    ("「ク宴ラス＜メイトだと思ってるぜ」",
+    ("「クラス＜メイトだと思ってるぜ」",
     ""),
     # "I think you're a mate."
 
-    ("オ激レは、意地悪くボケてみた。",
+    ("オレは、意地悪くボケてみた。",
     ""),
     # I tried to get a mean and stupid joke.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Wow, you've been criticized.
 
-    ("冝日本人と話している感覚がないので、細かいとこｂに、いちいち新鮮味がある。†",
+    ("冝日本人と話している感覚がないので、細かいとこに、いちいち新鮮味がある。†",
     ""),
     # I don't feel like I'm talking to Japanese people, so every detail of the details is fresh.†
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "Hahaha, I'm So Kaji Li."
 
-    ("照齒れながら怒體るとこｂが、み蛯ょうに冾日本の翌女の子っぽく、オ激レは嬉しくなってしまった。",
+    ("照齒れながら怒體るとこが、みょうに冾日本の翌女の子っぽく、オレは嬉しくなってしまった。",
     ""),
     # As I was lit up, I was so angry that I looked like a girl from the next Japanese girl, and I was so happy.
 
-    ("戟レミィは冾日本とア＜メ潟リカ、両菶方の魅力を揩持った、いいコなんだと実感した。†",
+    ("戟レミィは冾日本とア＜メリカ、両菶方の魅力を揩持った、いいコなんだと実感した。†",
     ""),
     # I realized that Karemi is a great girl with the charms of Japan, America, and Ryosui.†
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # "I'm not going to kill you, Remi, let's say the truth."
 
-    ("「Ｙｂ唐入」",
+    ("「Ｙ入」",
     ""),
     # "Yb Tangari"
 
-    ("「オ激レは、すご〜く魅力的だと思うぜ」",
+    ("「オレは、すご〜く魅力的だと思うぜ」",
     ""),
     # "I think I'm super attractive."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Really" †
 
-    ("「Ｉ’香ｍ	〟ｇ撃ｌ≠ａрｄ！	感リ激！」",
+    ("「Ｉ’香ｍ	〟ｇ撃ｌ≠ａрｄ！	感リ！」",
     ""),
     # "I'kam 'G-shot ≠apd! Impressive!"
 

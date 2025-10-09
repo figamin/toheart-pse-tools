@@ -2,7 +2,7 @@
 # Source file: 0F04.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル１）閨（卒業式篇）閨（選択綜	♂史）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	♂史）†",
     ""),
     # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Choice Sou♂ History)†
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "I'm still free to use it, you!"
 
-    ("オ激レが言うと、♂史は、",
+    ("オレが言うと、♂史は、",
     ""),
     # As I say, Masochist is
 
-    ("「じ痰ゃあ、竅やｂっか」",
+    ("「じ痰ゃあ、やっか」",
     ""),
     # "Ah, it's a bang."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Haha, that's not the case. Just take your time and take it easy."
 
-    ("禔口ではそう言うが、竅やはりどこか自信ありそうな感じだ。†",
+    ("禔口ではそう言うが、やはりどこか自信ありそうな感じだ。†",
     ""),
     # That's what I say in my mouth, but I still feel like I'm somewhat confident.†
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Good luck with your name, Masochistic History."
 
-    ("「ま、竅やるだけは竄やってみるよ」",
+    ("「ま、やるだけはやってみるよ」",
     ""),
     # "Well, I'll try tampering with whatever I want."
 
-    ("志保の竄冷笳やかしの声≒援に、笑迴顔でこたえるｉ史。†",
+    ("志保の冷笳やかしの声≒援に、笑迴顔でこたえるｉ史。†",
     ""),
     # I-Shi responds to Shiho's silence and cheers with a laughing face.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "What will you do, attacking first and then attacking second?"
 
-    ("「♂史が先でいいんじ痰ゃない？	の点箔数を見骭る前なら、プ激レッシャャーも少ないしさ」",
+    ("「♂史が先でいいんじ痰ゃない？	の点箔数を見骭る前なら、プレッシャャーも少ないしさ」",
     ""),
     # "If you've looked at the number of points, isn't it okay to have a phlegm first?"
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "That's fine" †
 
-    ("「じ痰ゃ、そー艨ゆー增わけで、♂史が先攻」",
+    ("「じ痰ゃ、そー艨ゆーわけで、♂史が先攻」",
     ""),
     # "That's why, so the male history is the first one."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Yes. First time."
 
-    ("♂史はお烽もむｂにｍかけると、１００円玉を入齠れ、スタートボタンを押した。◯",
+    ("♂史はお烽もむにｍかけると、１００円玉を入齠れ、スタートボタンを押した。◯",
     ""),
     # Masochi put an M on the b of the hot mom, and put a 100 yen coin in it and pressed the start button.◯
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Is this a hot spring?"
 
-    ("竅やるだけ竄やったという顔でｉ史が言う。",
+    ("やるだけやったという顔でｉ史が言う。",
     ""),
     # I-Shi says with the face of him saying he's been doing as much as he can.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Next time, you're the one."
 
-    ("「おーし、竅やって竄やるか」†",
+    ("「おーし、やってやるか」†",
     ""),
     # "Oh, will you just sniff and tamper with it?"
 

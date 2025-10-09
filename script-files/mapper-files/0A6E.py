@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "It's just friends.
 
-    ("中学んときから、ずっといっし蛯ょだったからな」",
+    ("中学んときから、ずっといっしょだったからな」",
     ""),
     # I've been a slut ever since I was in middle school."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Hmm... "Just" friend."
 
-    ("「なんだよ、へんな顔し竄やがって。そうじ痰ゃねえかよ？」",
+    ("「なんだよ、へんな顔しやがって。そうじ痰ゃねえかよ？」",
     ""),
     # "What is it? You're making a strange face. Don't you have to cleanse it?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "yeah?"†
 
-    ("なんだ、急に意味ありげな福口調になり竄やがって。",
+    ("なんだ、急に意味ありげな口調になりやがって。",
     ""),
     # What's that? Suddenly, it became a meaningful tone of good fortune and was tampering with it.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Erie Ochisou-chan, do you know Akari?
 
-    ("と、再び志保が、オ激レの腕を垂乱暴に引っぱる。†",
+    ("と、再び志保が、オレの腕を垂乱暴に引っぱる。†",
     ""),
     # Then, Shiho violently pulls my arms back.†
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # Just as I was irritated, she turned to a smug look on her face as if it were a Shinbu sword.
 
-    ("「どんなネット純ワークを揩持ってるのか墲わからないけど、とあかりの関係をかぎつけるとは蛯大した烽ものね。",
+    ("「どんなネット純ワークを揩持ってるのか墲わからないけど、とあかりの関係をかぎつけるとは大した烽ものね。",
     ""),
     # "I don't know what kind of network work he has, but it's a huge hit to pinpoint Akari's relationship.
 
-    ("第齣一沿級のジャャーナ潟リズムだ墲わ」†",
+    ("第齣一沿級のジャャーナリズムだ墲わ」†",
     ""),
     # It's Jaana Ratta Rhythm, a class of first-class people."
 
@@ -102,19 +102,19 @@ text_array = [
     ""),
     # "Hey, I'm saying something incomprehensible, so I have no phlegm."
 
-    ("「なによ！	ひ蛯ょっとしたらр私の奄ライバ泣ルになるか烽も知齟れないのよ」",
+    ("「なによ！	ひょっとしたらр私の奄ライバルになるか烽も知れないのよ」",
     ""),
     # "What! Maybe I'll be able to cry my Amami Raiba and I can't even know."
 
-    ("「へんな奄ライバ泣ル意識搦持つんじ痰ゃねー諱よ」",
+    ("「へんな奄ライバル意識搦持つんじ痰ゃねー諱よ」",
     ""),
     # "You're so conscious of the strange Amaya Raiba crying, so be sure to keep your eyes peeled, sputum."
 
-    ("「堰ライバ泣ル…」",
+    ("「堰ライバル…」",
     ""),
     # "Yay Raiba crying..."
 
-    ("「みｂ、掾理女緒ち痰ゃんが困ってるぞ」¶",
+    ("「み、掾理女緒ち痰ゃんが困ってるぞ」¶",
     ""),
     # "Mib, I'm in trouble with my daughter Ochi Sphin's a problem"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Um, I don't have a computer, so that's not the case... I'm not very knowledgeable about internet-like topics..."
 
-    ("再び志保がオ激レの腕を引っぱる。†",
+    ("再び志保がオレの腕を引っぱる。†",
     ""),
     # Shiho pulls my arm again.†
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Damn! That's annoying, oh!"
 
-    ("「竅やっぱり、あの子、ただ者じ痰ゃない墲わ」",
+    ("「やっぱり、あの子、ただ者じ痰ゃない墲わ」",
     ""),
     # "As expected, that child is just a slut."
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Well, in a way, it's just merely a phlegm."
 
-    ("「あんた烽も聞いたでし蛯ょ？	ネット純ワークって言ったら、真っ先にインターネットを連想した墲わ。",
+    ("「あんた烽も聞いたでしょ？	ネット純ワークって言ったら、真っ先にインターネットを連想した墲わ。",
     ""),
     # "You've heard of it too, slut? When I said "network," I was the first thing that reminded me of the Internet.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # After all, it's exactly as I saw it."
 
-    ("「そんなのたまたまだｂ？	インターネットってど烽もってたぜ」",
+    ("「そんなのたまたまだ？	インターネットってど烽もってたぜ」",
     ""),
     # "Is that something like that just happening b? I had a lot of steam on the internet."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "That's just a coincidence. You can't help it."
 
-    ("「どっちがだ。それより、あかりを揩持ち出して話を竄や竄やこしくするのは竄やめｂ」†",
+    ("「どっちがだ。それより、あかりを揩持ち出して話をややこしくするのはやめ」†",
     ""),
     # "Which one is more? Instead, stop tampering with the light and tampering with it b"
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "What is that phlegm?"
 
-    ("「п私、ち蛯ょっとあの子に興味が出てきた墲わ」",
+    ("「п私、ちょっとあの子に興味が出てきた墲わ」",
     ""),
     # "I'm a little interested in that girl."
 
@@ -178,19 +178,19 @@ text_array = [
     ""),
     # "Ah, um..."
 
-    ("「ね、浴雛山さん。せっかくだから、そこまでごいっし蛯ょしまし蛯ょ。",
+    ("「ね、浴雛山さん。せっかくだから、そこまでごいっしょしましょ。",
     ""),
     # "Hey, Bath Hinayama-san. Since we're going to have it, we're going to give you such a great slut.
 
-    ("時間、あるでし蛯ょ？」",
+    ("時間、あるでしょ？」",
     ""),
     # Is there time?”
 
-    ("「掾理女緒ち痰ゃんはバイトだっつってんだｂが。なにがごいっし蛯ょだ。",
+    ("「掾理女緒ち痰ゃんはバイトだっつってんだが。なにがごいっしょだ。",
     ""),
     # "They're part-time jobs, b. What's that all of you?
 
-    ("理女緒ち痰ゃん烽も、こんな竄やつに唐遠慮しなくていいんだぜ？」∵",
+    ("理女緒ち痰ゃん烽も、こんなやつに遠慮しなくていいんだぜ？」∵",
     ""),
     # Even Rimo Ochi Shoyanchou doesn't have to be shy about such tampering things, right?”∵
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # "Look here."
 
-    ("「オ＜メーがいばるこっち痰ゃねーだｂ」†",
+    ("「オ＜メーがいばるこっち痰ゃねーだ」†",
     ""),
     # "Oh, I'm gonna have to sputum here b"
 
-    ("いっし蛯ょに烽歩きながら、志保は揩理女緒ち痰ゃんに、オ激レとあかりを汲結びつける、どんな薰情報ソースを揩持ってるのかをさかんに聞き出そうとしていた。",
+    ("いっしょに烽歩きながら、志保は揩理女緒ち痰ゃんに、オレとあかりを汲結びつける、どんな薰情報ソースを揩持ってるのかをさかんに聞き出そうとしていた。",
     ""),
     # As they walked around, Shiho was trying to find out what kind of information source he had to connect me with Akari.
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "It's almost time for the tuna celebratory festival. That's it, sphemy, kun, see you later."
 
-    ("ニッコ潟リと笑って、掾理女緒ち痰ゃんは獅去っていった。†",
+    ("ニッコリと笑って、掾理女緒ち痰ゃんは獅去っていった。†",
     ""),
     # With a smile on his face, the lion went away.†
 
@@ -246,11 +246,11 @@ text_array = [
     ""),
     # "﨟Information sources are byte-based companies, so it's a good idea to use them."
 
-    ("こいつ、まだ言って竄やがる。†",
+    ("こいつ、まだ言ってやがる。†",
     ""),
     # This guy still says it and tampers with it.†
 
-    ("「さっきはインターネットとか言ってたじ痰ゃねえか。それに、どう竄やって烽も揩理女緒ち痰ゃんが魔事諶情通には見えねえけどな」",
+    ("「さっきはインターネットとか言ってたじ痰ゃねえか。それに、どうやって烽も揩理女緒ち痰ゃんが魔事諶情通には見えねえけどな」",
     ""),
     # "You said the Internet earlier, you're talking about it, so you're not phlegm. Also, how can you tamper with it, you don't look like a magical friend."
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "There's no way an Ana Honglog alien like you can understand it, so there's no way there's no way there's no way there's no way there's no way there."
 
-    ("「けっ。自分だってインターネットなんか竄やってねえくせに」†",
+    ("「けっ。自分だってインターネットなんかやってねえくせに」†",
     ""),
     # "Ahhh. I haven't tampered with the Internet either."
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # "Hmm. "Just a friend" isn't quite cool.
 
-    ("モテないのが、たまにｂモテ驛ると、すぐにつけあがるんだから」",
+    ("モテないのが、たまにモテ驛ると、すぐにつけあがるんだから」",
     ""),
     # The reason why you're not popular is that sometimes you get a lot of popularity and get a lot of attention right away."
 

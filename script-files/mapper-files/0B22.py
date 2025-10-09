@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Turn left and browse!
 
-    ("オ激レは素人ながらにフット純ワークを生かし、左に回濶り桙込んだ。",
+    ("オレは素人ながらにフット純ワークを生かし、左に回濶り桙込んだ。",
     ""),
     # Although I was an amateur, I used my pure footwork and turned to the left and snatched it.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Bang!
 
-    ("パ潟リー（閨手で払いのけ）される。†",
+    ("パリー（閨手で払いのけ）される。†",
     ""),
     # It is smashed off with a hand.†
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # Bang, Bang, Bang, Bang.
 
-    ("パ潟リー、パ潟リー、スウェー。",
+    ("パリー、パリー、スウェー。",
     ""),
     # Palata Lee, Palata Lee, Sweet.
 
-    ("くっ、磨当たらない。†",
+    ("くっ、当たらない。†",
     ""),
     # Damn, it won't polish.†
 
-    ("綾∴香は、つかず離齬れずの一闊定の翌距離を保ちながら、ダンスで烽も踊髣るように鰍リズミカ泣ルなフット純ワークで、右へ左へ移動する。",
+    ("綾∴香は、つかず離齬れずの一闊定の翌距離を保ちながら、ダンスで烽も踊髣るように鰍リズミカルなフット純ワークで、右へ左へ移動する。",
     ""),
     # Aya∴Ka keeps the distance that follows, without any confusion, and while dancing, he moves right and left with pure footwork that is like a cry of rhythmic sluts and crying in the dance.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # It's an annoying Mana Co., Ltd.†
 
-    ("くそっ、梶リーチはオ激レのほうが長いんだ。",
+    ("くそっ、梶リーチはオレのほうが長いんだ。",
     ""),
     # Damn, Kaji Reach is longer than me.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # Why, in a simple way...
 
-    ("あっ、竅やべっ。",
+    ("あっ、やべっ。",
     ""),
     # Ah, that's bad.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # Damn it...
 
-    ("ディフェンスがうまくてカス潟リ焜もしねー。†",
+    ("ディフェンスがうまくてカスリ焜もしねー。†",
     ""),
     # He has good defense and doesn't have any problems.†
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "I'm here..."
 
-    ("オ激レは繧上体を起こすと、吹草の繧上であぐらをかいた。",
+    ("オレは繧上体を起こすと、吹草の繧上であぐらをかいた。",
     ""),
     # I lifted up my body and grabbed my legs on the ridge of the bush.
 
@@ -218,11 +218,11 @@ text_array = [
     ""),
     # "That's bad, I'm an amateur who doesn't even know about the basics."
 
-    ("「まあ、で烽もこれでひとつ学習したでし蛯ょ？」",
+    ("「まあ、で烽もこれでひとつ学習したでしょ？」",
     ""),
     # "Well, did you learn something from this, slut?"
 
-    ("「…ちくし蛯ょう」†",
+    ("「…ちくしょう」†",
     ""),
     # "...Chikushi Ebi"†
 

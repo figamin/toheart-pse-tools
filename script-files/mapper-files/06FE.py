@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I got it"†
 
-    ("「增わかりました」†",
+    ("「わかりました」†",
     ""),
     # "I understand" †
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # "Well, let's get started" †
 
-    ("もみ烽もみ烽もみ…。	セ潟リオは真面目に烽もんでいる。	セ潟リオは無表﨣情に烽もんでいる。",
+    ("もみ烽もみ烽もみ…。	セリオは真面目に烽もんでいる。	セリオは無表﨣情に烽もんでいる。",
     ""),
     # Crack and burnt...Segata Rio is seriously hot.Segata Rio is in a state of unrequited sentiment.
 
-    ("とんとんとん…。	セ潟リオは真面目に叩いている。	セ潟リオは無表﨣情に叩いている。「………」†",
+    ("とんとんとん…。	セリオは真面目に叩いている。	セリオは無表﨣情に叩いている。「………」†",
     ""),
     # Twinkle...Segata Rio is seriously bashing.Segata Rio is criticizing the unrequited feelings."..."†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Too much massage can actually have a negative effect on your body"
 
-    ("「少し休憩しまし蛯ょう」†",
+    ("「少し休憩しましょう」†",
     ""),
     # "Let's take a little break" †
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「諱よｂしいですか？」†",
+    ("「諱よしいですか？」†",
     ""),
     # "Are you sure you're saying this?"
 
@@ -162,15 +162,15 @@ text_array = [
     ""),
     # "..."†
 
-    ("「では、続けまし蛯ょう」†",
+    ("「では、続けましょう」†",
     ""),
     # "Now, let's continue" †
 
-    ("「諱よｂしいですか？」†",
+    ("「諱よしいですか？」†",
     ""),
     # "Are you sure you're saying this?"
 
-    ("「竅停止します」†",
+    ("「停止します」†",
     ""),
     # "It will stop" †
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Are you finished?"
 
-    ("「ご桙満足いただけたでし蛯ょうか？」閨",
+    ("「ご桙満足いただけたでしょうか？」閨",
     ""),
     # "You're satisfied, are you slut?"
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "I'm happy" †
 
-    ("「なんでし蛯ょう？」†",
+    ("「なんでしょう？」†",
     ""),
     # "Why did you slut?"
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "...
 
-    ("よく、增わかりません」†",
+    ("よく、わかりません」†",
     ""),
     # Well, I don't know."
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "I will update to new data by next time" †
 
-    ("「氈次回は少し電圧を調整してみまし蛯ょう」†",
+    ("「氈次回は少し電圧を調整してみましょう」†",
     ""),
     # "Next time, I'll try adjusting the voltage a little."
 
@@ -290,11 +290,11 @@ text_array = [
     ""),
     # "Analyze data on the human body "Keiraku""†
 
-    ("「なにが、いけなかったのでし蛯ょうか？」†",
+    ("「なにが、いけなかったのでしょうか？」†",
     ""),
     # "What was it that I couldn't do, so I'll give it a peek?"
 
-    ("「同じ失敗を繰闌り返さないよう高注意します」†",
+    ("「同じ失敗を繰り返さないよう高注意します」†",
     ""),
     # "We'll be careful not to repeat the same mistake" †
 

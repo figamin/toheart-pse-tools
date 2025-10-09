@@ -2,7 +2,7 @@
 # Source file: 0351.txt
 
 text_array = [
-    ("（智子	好感度イベント７回目）閨（発生条緒件	好感度イベント６回目を見た繧後、回秤数イベントの「学校を出髀る」でｉうと差し替えで発生する）閨（下濶り竄坂）†",
+    ("（智子	好感度イベント７回目）閨（発生条緒件	好感度イベント６回目を見た繧後、回秤数イベントの「学校を出髀る」でｉうと差し替えで発生する）閨（下濶り坂）†",
     ""),
     # (Tomoko's 7th favorability event) (Accuracy condition: After seeing the sixth favorability event, the balance event occurs when the i-u is replaced with the "going out of school") (Shimohamaitsuzaka) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # briskly….
 
-    ("縺後撃から≠早足気味に烽歩いてきた翌女生徒が、スッ…とオ激レの汲視界を横切った。†",
+    ("縺後撃から≠早足気味に烽歩いてきた翌女生徒が、スッ…とオレの汲視界を横切った。†",
     ""),
     # After the attack, the female student walked quickly, almost walking straight after the attack, and then crossed my field of vision.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I'm off...
 
-    ("だが委員長はオ激レにはいちべつ烽もくれず、無表﨣情のまま通闥り過ぎていった。†",
+    ("だが委員長はオレにはいちべつ烽もくれず、無表﨣情のまま通闥り過ぎていった。†",
     ""),
     # However, the chairman didn't give me any small amount of energy, and he kept on communicating too much without any worries.†
 
@@ -47,22 +47,22 @@ text_array = [
     # Didn't you notice?
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("んな墲わけねー諱よな。",
     ""),
     # That's no way, that's true.
 
-    ("竅やっぱりまた、無許視されたんだｂうな。",
+    ("やっぱりまた、無許視されたんだうな。",
     ""),
     # After all, I was deemed unauthorized again.
 
-    ("ちっくし蛯ょう。†",
+    ("ちっくしょう。†",
     ""),
     # A small slut.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # A: "Hey, wait," he calls out.Relax
 
-    ("Ｂ	こっち烽も無許視して竄やった。閨",
+    ("Ｂ	こっち烽も無許視してやった。閨",
     ""),
     # B. I also ignored this and tampered with it.Relax
 

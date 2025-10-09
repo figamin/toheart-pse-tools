@@ -14,11 +14,11 @@ text_array = [
     ""),
     # He knocked his head down and squealed.†
 
-    ("同じ２階の廊下をぐるっと回ってくると、文化系のク宴ラブハウスがある。",
+    ("同じ２階の廊下をぐるっと回ってくると、文化系のクラブハウスがある。",
     ""),
     # If you go round the corridor on the same second floor, you will find a culturally banquet love house.
 
-    ("い竄や、ただそれだけなんだけど。",
+    ("いや、ただそれだけなんだけど。",
     ""),
     # It's just tampering, but that's all.
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Ou"
 
-    ("ク宴ラスの翌女子が手を振って、玄関から出ていった。†",
+    ("クラスの翌女子が手を振って、玄関から出ていった。†",
     ""),
     # The girl waved her hand out of the entrance after the banquet.†
 
-    ("もし誰かに出初ったらいっし蛯ょに帰汲うかと思ったが、誰熬もいないみてーだな。",
+    ("もし誰かに出初ったらいっしょに帰汲うかと思ったが、誰熬もいないみてーだな。",
     ""),
     # I thought if I had first appeared with someone, I would return to the Ebi, but I'd see no one there.
 
@@ -47,10 +47,10 @@ text_array = [
     # There's no phlegm, I'll come back on my own.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("竅やばい。",
+    ("やばい。",
     ""),
     # It's dangerous.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # My eyes can't sleep.
 
-    ("し蛯ょうがない、羊で烽も数えるか。†",
+    ("しょうがない、羊で烽も数えるか。†",
     ""),
     # There are no sluts, so should we count the hot springs with sheep?†
 
@@ -86,12 +86,12 @@ text_array = [
     ""),
     # Umm...†
 
-    ("竅やばっ、ど忘齧れした。",
+    ("やばっ、ど忘齧れした。",
     ""),
     # I'm so sorry, I've forgotten about it.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("気になる。",

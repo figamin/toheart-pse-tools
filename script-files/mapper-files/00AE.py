@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Going to school is a hassle.
 
-    ("しかし、今厓日は半ドンだと思うと、少しは竄やる気になってくる。",
+    ("しかし、今厓日は半ドンだと思うと、少しはやる気になってくる。",
     ""),
     # However, when I think about the current day being half-dozen, I feel a little motivated to tamper with it.
 

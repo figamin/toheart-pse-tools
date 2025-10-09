@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Yes, it's over."
 
-    ("綾∴香がいきなり立ち繧上がったので、オ激レはベンチに頭をぶつけてしまった。†",
+    ("綾∴香がいきなり立ち繧上がったので、オレはベンチに頭をぶつけてしまった。†",
     ""),
     # Aya∴Ka suddenly rose to the ground, and I hit my head against the bench.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What's that, all of a sudden!"
 
-    ("「もう蛯大苟丈夫そうじ痰ゃない。ほら、そんなに元気なんだから」",
+    ("「もう大苟丈夫そうじ痰ゃない。ほら、そんなに元気なんだから」",
     ""),
     # "I'm not sure I'll cleanse it anymore. Come on, I'm so energetic."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "...That's why."
 
-    ("「サービス終了。悪いけどр私、こう見えて烽もそれほど暇じ痰ゃないのよね。これから烽も予阯定ギッシ潟リだし」",
+    ("「サービス終了。悪いけどр私、こう見えて烽もそれほど暇じ痰ゃないのよね。これから烽も予定ギッシリだし」",
     ""),
     # "Service is over. Sorry, but I look like this, but I don't have much time for Hot even though it's not that long. From now on, Hot Hot will be ready to go."
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # Aya∴Ka defeated the attack after she plunged into her skirt.†
 
-    ("「もう少しつき№合ってあげたいのはрヤマсヤマだけど、今厓日のとこｂはこれで失邇礼する墲わ」",
+    ("「もう少しつき№合ってあげたいのはрヤマсヤマだけど、今厓日のとこはこれで失邇礼する墲わ」",
     ""),
     # "I would like to meet a little more points in the 'Yama с yama', but I'm sorry for the moment when it's on the 'Yama с '
 
-    ("「ちぇっ、し蛯ょーがねーな」",
+    ("「ちぇっ、しょーがねーな」",
     ""),
     # "Chh, there's no slut."
 
@@ -58,27 +58,27 @@ text_array = [
     ""),
     # "Ou"
 
-    ("「お腹、お蛯大桝事にー」",
+    ("「お腹、お大桝事にー」",
     ""),
     # "Her stomach is for you."
 
-    ("閨手を振髏ると、綾∴香はそのまま駅の福方阜へと烽歩いていった。†",
+    ("閨手を振髏ると、綾∴香はそのまま駅の方阜へと烽歩いていった。†",
     ""),
     # Waving her hand, Aya∴Ka continued walking to Fukukata Fu, the station.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("行っちまった。",
     ""),
     # I went.
 
-    ("し痰ゃーねーな、オ激レ焜も帰驪るとするか。",
+    ("し痰ゃーねーな、オレ焜も帰驪るとするか。",
     ""),
     # I'm not going to have any phlegms, I'm going to go home too.
 
-    ("立ち繧上がｂうとしたとき、",
+    ("立ち繧上がうとしたとき、",
     ""),
     # When the person stands up,
 
@@ -94,19 +94,19 @@ text_array = [
     ""),
     # K, uuuuu...
 
-    ("まだヒジ打ちのダ＜メージが残って竄やがった。",
+    ("まだヒジ打ちのダ＜メージが残ってやがった。",
     ""),
     # He still had a damaging elbow hit and was tampering with it.
 
-    ("こり痰ゃ鰍相桝当すごい竄やつを食逅らったな。",
+    ("こり痰ゃ鰍相桝当すごいやつを食逅らったな。",
     ""),
     # I was hit with a lot of tampering with the slurping slurping.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("今纃後、あいつを怒逑らせるのは竄やめたほうが良さそうだな。",
+    ("今纃後、あいつを怒逑らせるのはやめたほうが良さそうだな。",
     ""),
     # I think it would be better to stop making him angry after this.
 

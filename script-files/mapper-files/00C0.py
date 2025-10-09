@@ -18,7 +18,7 @@ text_array = [
     ""),
     # This is especially true when the weather is as good as on the day of the day.†
 
-    ("「ち蛯ょっと翌風邪気味なの」",
+    ("「ちょっと翌風邪気味なの」",
     ""),
     # "I feel like I'm getting cold after all."
 

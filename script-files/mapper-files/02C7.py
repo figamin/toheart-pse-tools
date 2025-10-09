@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hey, Senpai..."
 
-    ("オ激レは突然肩を獅落とし、暗い声で言った。†",
+    ("オレは突然肩を獅落とし、暗い声で言った。†",
     ""),
     # My gut suddenly dropped my shoulders and said in a dark voice.†
 
@@ -22,12 +22,12 @@ text_array = [
     ""),
     # "?"
 
-    ("「じつはオ激レ、いま悩んでることがあるんだ」†",
+    ("「じつはオレ、いま悩んでることがあるんだ」†",
     ""),
     # "I'm actually really worried about something right now."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え、聞いてくれるって？	うん、じ痰ゃあ、なにを話そうかなー…」",
@@ -35,14 +35,14 @@ text_array = [
     # "Eh, you're going to listen? Yes, phlegm, what should I say..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ、悩み？	あ、そうそう、そうだな。悩みだよな」",
     ""),
     # "What, a problem? Ah, that's right. That's a problem."
 
-    ("オ激レは、うーん…と悩みを考えた。†",
+    ("オレは、うーん…と悩みを考えた。†",
     ""),
     # I thought about my worries, hmm...†
 
@@ -54,39 +54,39 @@ text_array = [
     ""),
     # Ko-kun...
 
-    ("「じつはオ激レ、いま、竅寂しいひとり暮逡らしのｖ淫俣冾ﾈんだ。両親は仕鮪事でほとんど帰迢らず、ガ宴ランとした家でひとり、愛のないコンビニ弁抹当を食べて過ごしてるんだ」",
+    ("「じつはオレ、いま、寂しいひとり暮逡らしのｖ淫俣冾ﾈんだ。両親は仕鮪事でほとんど帰迢らず、ガランとした家でひとり、愛のないコンビニ弁抹当を食べて過ごしてるんだ」",
     ""),
     # "I'm actually a bit of a hard time, and I'm currently in a lonely, lonely, self-schooling house. My parents have barely returned to me because they're doing tuna, and I spend my time alone in a house where I'm spending my time eating a loveless convenience store bento."
 
-    ("オ激レは深くため息をつく。†",
+    ("オレは深くため息をつく。†",
     ""),
     # I sighed deeply.†
 
-    ("「で烽も仕緖方ないことだよな。親ヰ父たちはオ激レのために一生恊懸命働いてくれてんだ。で烽も、竅やっぱり、なんていうか…」",
+    ("「で烽も仕緖方ないことだよな。親ヰ父たちはオレのために一生恊懸命働いてくれてんだ。で烽も、やっぱり、なんていうか…」",
     ""),
     # "And that's why there's no way to control the situation. My father and I have been working hard for me to do our best. And I guess so, I guess so..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「竅寂しいんだよぉぉぉーーーーーーーい！」",
+    ("「寂しいんだよぉぉぉーーーーーーーい！」",
     ""),
     # "I'm lonely!"
 
-    ("オ激レは先輩のヒザに顔をうずめた。†",
+    ("オレは先輩のヒザに顔をうずめた。†",
     ""),
     # My geisha burrowed my face into my senior's knees.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なでなで。",
     ""),
     # Stroke.
 
-    ("オ激レの頭を優しくなでてくれた。",
+    ("オレの頭を優しくなでてくれた。",
     ""),
     # He gently stroked my head.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Stroke.
 
-    ("「オ激レをなぐさめてくれんのか？」",
+    ("「オレをなぐさめてくれんのか？」",
     ""),
     # "Would you please comfort me?"
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # Something is fulfilled.
 
-    ("男って、竅やっぱマザコンの気があんのかな？",
+    ("男って、やっぱマザコンの気があんのかな？",
     ""),
     # I wonder if men feel like a mother-man after all.
 
-    ("おお、偉蛻大なるマザー・セ潟リカ！◯",
+    ("おお、偉蛻大なるマザー・セリカ！◯",
     ""),
     # Oh, the great mother Segata Rika!◯
 

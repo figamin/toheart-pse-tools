@@ -2,11 +2,11 @@
 # Source file: 0A6C.txt
 
 text_array = [
-    ("（Ｂ	あかりといっし蛯ょに行く。）†",
+    ("（Ｂ	あかりといっしょに行く。）†",
     ""),
     # (B: Go to Akari and Isshii.)†
 
-    ("「浴雛山さん、急にどうしち痰ゃったんだｂ？」",
+    ("「浴雛山さん、急にどうしち痰ゃったんだ？」",
     ""),
     # "Bath Hinayama-san, what's the sudden phlegm? b?"
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What, п?"
 
-    ("「昔からよくあることだｂ？	いまさら烽説明するの烽もおっくうだぜ」",
+    ("「昔からよくあることだ？	いまさら烽説明するの烽もおっくうだぜ」",
     ""),
     # "It's been a common occurrence for a long time? I'm not too excited to explain it now."
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # I'm used to it now"
 
-    ("あのときのまま気が変﨑わっていなければ、掾理女緒ち痰ゃんはオ激レのことが好きなはずだ。",
+    ("あのときのまま気が変﨑わっていなければ、掾理女緒ち痰ゃんはオレのことが好きなはずだ。",
     ""),
     # If she hadn't changed as she was back then, then Erie Ochi Sphin-yan would love me.
 
-    ("そんな揩理女緒ち痰ゃんにすれば、オ激レとあかりの関係は、気になって仕緖方ないとこだｂう。",
+    ("そんな揩理女緒ち痰ゃんにすれば、オレとあかりの関係は、気になって仕緖方ないとこだう。",
     ""),
     # If I were to use this as a stimulating stimulus, I was curious about the relationship between me and Akari, so I was sure I had to deal with her.
 
-    ("すぐに追いかけて、あかりのことをただの幼なじみだと言って竄やれば、それで解煙だ。",
+    ("すぐに追いかけて、あかりのことをただの幼なじみだと言ってやれば、それで解煙だ。",
     ""),
     # If you immediately chase Akari and say that she's just a childhood friend, then it's time to smoke.
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「お前、オ激レの幼なじみか？」",
+    ("「お前、オレの幼なじみか？」",
     ""),
     # "Are you my childhood friend?"
 
-    ("「えっ？	うん、そうでし蛯ょ？」",
+    ("「えっ？	うん、そうでしょ？」",
     ""),
     # "Huh? Yes, that's right, slut?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # He showed a complicated table.
 
-    ("「だから、增わざ墲わざ追っかけて訂正すること烽もないって言ってんだよ」",
+    ("「だから、わざ墲わざ追っかけて訂正すること烽もないって言ってんだよ」",
     ""),
     # "That's why I say there's no need to go along and revise it."
 

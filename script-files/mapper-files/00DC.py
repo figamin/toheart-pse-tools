@@ -2,15 +2,15 @@
 # Source file: 00DC.txt
 
 text_array = [
-    ("（システムイベント	テスト発表）閨（あかりと勉強有阯りの続き）閨（志保	１Ｃ）†",
+    ("（システムイベント	テスト発表）閨（あかりと勉強有りの続き）閨（志保	１Ｃ）†",
     ""),
     # (System Event Test Presentation) (Continued with Akari and Study Abuse) (Shiho 1C)†
 
-    ("「ねえ、ち蛯ょっと聞いてよお〜」",
+    ("「ねえ、ちょっと聞いてよお〜」",
     ""),
     # "Hey, listen to me a little."
 
-    ("そのとき、気の抜けた声とと烽もに、志保がよｂよｂと現鼬れた。†",
+    ("そのとき、気の抜けた声とと烽もに、志保がよよと現鼬れた。†",
     ""),
     # At that moment, with a lazy voice and Hou, Shiho appeared, "B, B, B."†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "what happened?"
 
-    ("あかりは墲わかっていないようだけど、オ激レは雰囲気だけで十分﨑わかった。",
+    ("あかりは墲わかっていないようだけど、オレは雰囲気だけで十分﨑わかった。",
     ""),
     # It seems like Akari doesn't know what he's doing, but the atmosphere alone made me understand the magnificent sense of the magnificent.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "A happy news, right?"
 
-    ("オ激レはニсヤニсヤしながら聞いた。†",
+    ("オレはニсヤニсヤしながら聞いた。†",
     ""),
     # I listened, grinning.†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "That's awful! I don't want to be happy about Hot!"
 
-    ("「竅やっぱりな。",
+    ("「やっぱりな。",
     ""),
     # "I guess so.
 
-    ("よかったら、このオ激レが魔当てて竄やｂうか？	なにに苦しんでんのか」",
+    ("よかったら、このオレが魔当ててやうか？	なにに苦しんでんのか」",
     ""),
     # If you like, will this crazy guy hit a demon and tamper with it?What are you suffering?”
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # If it gets out, I'll buy you Jers and get some hot pot."
 
-    ("オ激レはうなずくと、からかうように、",
+    ("オレはうなずくと、からかうように、",
     ""),
     # My guts nodded, teasing,
 
-    ("「｢｢祝、竅補習曙郁健閨I	だｂ？」",
+    ("「｢｢祝、補習曙郁健閨I	だ？」",
     ""),
     # ""Congratulations, isn't it, Akebono Yu-ken-Leu-I?"
 
-    ("そう言って竄やった。",
+    ("そう言ってやった。",
     ""),
     # He said that and tampered with it.
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # It is incomprehensible to say that Shiho is "to collect the good points."
 
-    ("ホント、諱よくこのｂ高校に入齠れた烽もんだ。†",
+    ("ホント、諱よくこの高校に入齠れた烽もんだ。†",
     ""),
     # I'm really a hot guy who joined this B High School often.†
 
-    ("「ち蛯ょっと、なにニсヤニсヤしてんのよ？」",
+    ("「ちょっと、なにニсヤニсヤしてんのよ？」",
     ""),
     # "What are you groaning?!"
 
-    ("志保は、まるでオ激レの思考を読んだように福口をとがらせた。",
+    ("志保は、まるでオレの思考を読んだように口をとがらせた。",
     ""),
     # Shiho pouted Fukuguchi as if he had read my thoughts.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "But-ii"
 
-    ("とぼけるオ激レ。†",
+    ("とぼけるオレ。†",
     ""),
     # I'm a bit crazy and crazy.†
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # "I'm so annoyed."
 
-    ("「ついでに言っとくけど、オ激レは竄補習なんかしねーぞ。",
+    ("「ついでに言っとくけど、オレは補習なんかしねーぞ。",
     ""),
     # "I'll also say that I won't do any tampering lessons.
 
-    ("仲間を探しにｗたんだｂーけど、おあいにくさまだ」",
+    ("仲間を探しにｗたんだーけど、おあいにくさまだ」",
     ""),
     # I was looking for a friend lol, but I'm sorry."
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # "I'm getting even more annoyed!"
 
-    ("「とにかくオ激レは№仲間じ痰ゃねーかんな。はい、とっとと帰った、帰った」",
+    ("「とにかくオレは№仲間じ痰ゃねーかんな。はい、とっとと帰った、帰った」",
     ""),
     # "Anyway, I'm a big fan of my friends, so I have to go home quickly."
 
-    ("ホコ潟リで烽も払うかのように言う。†",
+    ("ホコリで烽も払うかのように言う。†",
     ""),
     # He says it as if to remove the heat with the dust.†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Mukkah!
 
-    ("わかった墲わよっ！	あかり、こんなрヤツ無許視して帰闍りまし蛯ょ！」",
+    ("わかった墲わよっ！	あかり、こんなрヤツ無許視して帰闍りましょ！」",
     ""),
     # Understood, I'm here!Akari, I went home without saying anything like this!”
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "I'm not a single friend anymore! I'm so happy to see such a traitor."
 
-    ("そこでオ激レは、コホンとせき払いをひとつ。",
+    ("そこでオレは、コホンとせき払いをひとつ。",
     ""),
     # So I squealed one and one cough.
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # "No, Shiho.
 
-    ("当然ながら、あかり烽も竄補習なんかしねーんだ。つまり、〟仲間ハズ激レは、オ・マ・エ・だ！」†",
+    ("当然ながら、あかり烽も補習なんかしねーんだ。つまり、〟仲間ハズレは、オ・マ・エ・だ！」†",
     ""),
     # Naturally, Akari Hot is also not doing any tampering lessons.In other words, "If you're going to have to be friends, it's O-Ma-E!"
 
-    ("諱よｂめく志保。",
+    ("諱よめく志保。",
     ""),
     # Shiho turns to his name.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Well, it's not like that, it's a friend."
 
-    ("「ただし、竅補習にはつき№合寘わないがな」",
+    ("「ただし、補習にはつき№合寘わないがな」",
     ""),
     # "However, there are no special sessions for supplementary lessons."
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # "Ahhhhh..."
 
-    ("「本末当のことだｂ」†",
+    ("「本末当のことだ」†",
     ""),
     # "It's about the end of the day b" †
 
-    ("「竅補習はあたし…ひとりだけ…」",
+    ("「補習はあたし…ひとりだけ…」",
     ""),
     # "I'm the only one to do the supplementary lesson... I'm the only one..."
 
@@ -198,11 +198,11 @@ text_array = [
     ""),
     # "Shiho, I'll just go back to the classroom. If I'm here, I'll be able to get bad."
 
-    ("「じ痰ゃな。たっぷりなぐさめて竄やれよ」",
+    ("「じ痰ゃな。たっぷりなぐさめてやれよ」",
     ""),
     # "You're phlegm. Comfort yourself a lot and tamper with it."
 
-    ("オ激レは手を振って言った。†",
+    ("オレは手を振って言った。†",
     ""),
     # I waved my hand.†
 

@@ -2,7 +2,7 @@
 # Source file: 0683.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ｂ	ま、がんばれよ）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ｂ	ま、がんばれよ）†",
     ""),
     # (Muryuruchi, Scales Event 2F LV1) (Choice B, Well, do your best)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # That's difficult...Well, do your best!”
 
-    ("オ激レは、ポン、と肩を叩いて言った。",
+    ("オレは、ポン、と肩を叩いて言った。",
     ""),
     # I pecked my shoulder, pounding me.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Yes, I'll do my best!"
 
-    ("し痰ゃきっとした福口調で嘯答えると、マ泣ルチは再び掃恆除に戻った。†",
+    ("し痰ゃきっとした口調で嘯答えると、マルチは再び掃恆除に戻った。†",
     ""),
     # He answered with a lucky tone that was sure to be sputum, and Makruchi returned to sweeping again.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Kaji Ai, without being able to change the screen, I scrub the floor.
 
-    ("香ロボットだし、諱疲齡れること烽もないんだｂう。",
+    ("香ロボットだし、諱疲齡れること烽もないんだう。",
     ""),
     # It's a fragrance robot, and there's no need to get tired of it.
 

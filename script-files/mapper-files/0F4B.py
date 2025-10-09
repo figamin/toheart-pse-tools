@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Let's continue reading the manga art.
 
-    ("いま、ち蛯ょうどいいとこｂだしな。◯",
+    ("いま、ちょうどいいとこだしな。◯",
     ""),
     # Right now, it's a good place to be.◯
 

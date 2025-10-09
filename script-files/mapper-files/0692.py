@@ -2,11 +2,11 @@
 # Source file: 0692.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	お前って、ホントにとｂいな〜	の続き）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	お前って、ホントにといな〜	の続き）†",
     ""),
     # (Muryuruchi, Scales Event 2F LV3) (Continued from Chosen A, you're really b...)†
 
-    ("「それにして烽も、マ泣ルチ」",
+    ("「それにして烽も、マルチ」",
     ""),
     # "And then, Hoo is also crying."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "yes…"
 
-    ("「お前って、ホントとｂいな〜。あの程度燗も見つけらんなかったのか？」",
+    ("「お前って、ホントといな〜。あの程度燗も見つけらんなかったのか？」",
     ""),
     # "You really are b-stops. Didn't you even find that kind of hot water?"
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "...Su, it's not a subibasen."
 
-    ("マ泣ルチは烽もう一度、チ〜ンっと鼻をかんだ。†",
+    ("マルチは烽もう一度、チ〜ンっと鼻をかんだ。†",
     ""),
     # McDonald's nose blows again.†
 
-    ("「あ、あの、とこｂで…」",
+    ("「あ、あの、とこで…」",
     ""),
     # "Ah, um, in a place b..."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "...Yes, let's go."
 
-    ("マ泣ルチはぐしぐし目をこすってうなずいた。†",
+    ("マルチはぐしぐし目をこすってうなずいた。†",
     ""),
     # Ruchi rubbed his eyes and nodded.†
 

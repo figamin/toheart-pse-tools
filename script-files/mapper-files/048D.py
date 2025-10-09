@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "What is that phlegm?"
 
-    ("「春ってさぁ。出初いの季節でし蛯ょ？	〟仲間煌内でうるさいのよ。『新しい恋に出初いたい墲わぁ』って」†",
+    ("「春ってさぁ。出初いの季節でしょ？	〟仲間煌内でうるさいのよ。『新しい恋に出初いたい墲わぁ』って」†",
     ""),
     # "Spring is here. It's the first season to be released, so slut? ) It's noisy in Kannai."I want to start a new love""
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "So?"
 
-    ("「みんな宸騒ぐなら、あたし烽も宸騒いじ痰ゃう、ってノ潟リ諠よ」",
+    ("「みんな宸騒ぐなら、あたし烽も宸騒いじ痰ゃう、ってノリ諠よ」",
     ""),
     # "If everyone makes a fuss, I'll make a fuss too, and I'll make a fuss too."
 
-    ("「それで、男を誘惑する福方法を考えてたって墲わけだ」",
+    ("「それで、男を誘惑する方法を考えてたって墲わけだ」",
     ""),
     # "So, even if you were thinking of a blessing to seduce a man, it's no surprise."
 
-    ("「ち蛯ょっと、いまの言葉、知迺らない人が聞いたらｌ解するじ痰ゃないの」",
+    ("「ちょっと、いまの言葉、知迺らない人が聞いたらｌ解するじ痰ゃないの」",
     ""),
     # "If someone who doesn't understand the words you just said, it's impossible to understand them."
 
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # Shiho is silenced.
 
-    ("…ったく、增わかってねえなぁ。†",
+    ("…ったく、わかってねえなぁ。†",
     ""),
     # ...I really don't know.†
 
-    ("そこでオ激レは｢｢。",
+    ("そこでオレは｢｢。",
     ""),
     # So I said, ".
 
-    ("Ａ	デタ宴ラ＜メを≠吹き桙込む。閨",
+    ("Ａ	デタラ＜メを≠吹き桙込む。閨",
     ""),
     # A: Blow out the lame banquet <Me ≠ to blow the ball.Relax
 

@@ -2,11 +2,11 @@
 # Source file: 07A9.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	いっし蛯ょにどうだ）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	いっしょにどうだ）†",
     ""),
     # (Kotone, the balance event PS) (How about Chosen So Isshi-eyo)†
 
-    ("「｢｢琴音ち痰ゃん烽もいっし蛯ょにどうだ？」†",
+    ("「｢｢琴音ち痰ゃん烽もいっしょにどうだ？」†",
     ""),
     # ""How about Kotone Chishonan, too?"
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "...Ah, yes. I'll accompany you."
 
-    ("「ははっ、旅は道連齪れってノ潟リだな」",
+    ("「ははっ、旅は道連齪れってノリだな」",
     ""),
     # "Haha, it's a great place to travel."
 
-    ("「そ、そうでし蛯ょうか…」",
+    ("「そ、そうでしょうか…」",
     ""),
     # "Oh, that's right, is that a slut..."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "It's okay. You say it's bad, so there's no reason to say it's bad."
 
-    ("オ激レと琴音ち痰ゃんは、駅前へと足をｌけた。†",
+    ("オレと琴音ち痰ゃんは、駅前へと足をｌけた。†",
     ""),
     # My heart and Kotone Chisho-yan walked towards the station.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # A пyak...
 
-    ("オ激レの見てる烽ものに気づいたらしく、琴音ち痰ゃんがオ激レを見繻上げた。†",
+    ("オレの見てる烽ものに気づいたらしく、琴音ち痰ゃんがオレを見上げた。†",
     ""),
     # Apparently he had noticed something hot that I was watching, and Kotone Chisho-chan looked at me.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "...Ah, yes."
 
-    ("「腹減ったっつーか…、なんか福口に入齠れたくなってな。琴音ち痰ゃんは｢｢食岦わねえか」†",
+    ("「腹減ったっつーか…、なんか口に入齠れたくなってな。琴音ち痰ゃんは｢｢食岦わねえか」†",
     ""),
     # "I'm hungry... I feel like I want to go into Fukuguchi. Kotone Chisho-chan said, "You're eating it, aren't you?"
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "I see... it's pretty cool, isn't it? пYak's ≠Meña?"
 
-    ("「增わたし、ほとんど食べたことないんです…」†",
+    ("「わたし、ほとんど食べたことないんです…」†",
     ""),
     # "I've hardly ever eaten..."
 
-    ("「そうか？	だったらなんか食ってみるの烽もいいぞ。量はいらないだｂうから…Ｓポテトとか」",
+    ("「そうか？	だったらなんか食ってみるの烽もいいぞ。量はいらないだうから…Ｓポテトとか」",
     ""),
     # "I see? If that's the case, a hot spring would be good to try something. I don't need a lot... S potatoes, etc."
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "Oh, do you hate potatoes?
 
-    ("んじ痰ゃ、パイ。エビチ潟リパイとかグ宴ラタンパイとかあるぞ」",
+    ("んじ痰ゃ、パイ。エビチリパイとかグラタンパイとかあるぞ」",
     ""),
     # Slurp, pie.There are some Ebichigata Ripai and some Gubanquet Rattan."
 
-    ("片っ端から≠メニャーを紹譓介する、オ激レ。",
+    ("片っ端から≠メニャーを紹譓介する、オレ。",
     ""),
     # I'm really excited to introduce everyone to Meña.
 
@@ -99,7 +99,7 @@ text_array = [
     # I'm starting to look like a store clerk at a yacht.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「あと…、じ痰ゃがバターパイと｢｢」",
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # ・†
 
-    ("「ついてねえよなぁ。オ激レはと烽もかく、琴音ち痰ゃんは久々なのに桙満員なんて」",
+    ("「ついてねえよなぁ。オレはと烽もかく、琴音ち痰ゃんは久々なのに桙満員なんて」",
     ""),
     # "I don't have one. I'm a big fan, and Kotone-chisou-chan has been in a while, so it's full of foxes."
 
-    ("「いいえ。…こう竄やって外で食べるの烽も新鮮です」",
+    ("「いいえ。…こうやって外で食べるの烽も新鮮です」",
     ""),
     # "No....The hot water that you tamper with and eat outside is also fresh."
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # "I see? If you say that, it will help you to get a hot pot."
 
-    ("み蛯ょうに盾ワク純ワクしながらｌかったまではよかったが、席が全泊部楓рﾜっててしかたなく店を出髀るしかない。",
+    ("みょうに盾ワク純ワクしながらｌかったまではよかったが、席が全泊部楓рﾜっててしかたなく店を出髀るしかない。",
     ""),
     # It was good until I was completely excited about the ecstasy, but all the seats were Mamaribe Kaede, so I had no choice but to leave the store.
 
-    ("結局、オ激レたちは駅前の広鼾場にまで戻ってきた。†",
+    ("結局、オレたちは駅前の広鼾場にまで戻ってきた。†",
     ""),
     # In the end, the two of us returned to the Gangyuan area in front of the station.†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "After all, just mentioning my name, it was on my face."
 
-    ("「あ…增わたし、変な顔しましたか？」",
+    ("「あ…わたし、変な顔しましたか？」",
     ""),
     # "Ah... did I look strange?"
 

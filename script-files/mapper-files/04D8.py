@@ -10,11 +10,11 @@ text_array = [
     ""),
     # During the break, I saw Shiho in the hallway.
 
-    ("いっし蛯ょにいるのは、内藤と長田だｂう。†",
+    ("いっしょにいるのは、内藤と長田だう。†",
     ""),
     # The ones in the Ebi are Naito and Nagata.†
 
-    ("あのふたり｢｢志保熾も含めて三人は、学年じ痰ゃあち蛯ょっとは知迺られてる。",
+    ("あのふたり｢｢志保熾も含めて三人は、学年じ痰ゃあちょっとは知迺られてる。",
     ""),
     # Those two people, including Shiho Taru, are known to all three in their grades.
 
@@ -22,19 +22,19 @@ text_array = [
     ""),
     # It looks like the recent female high school girl.†
 
-    ("実際、冝放課繪後になるとち蛯ょくち蛯ょくつるんでは駅前で遊び烽歩いてる。",
+    ("実際、冝放課繪後になるとちょくちょくつるんでは駅前で遊び烽歩いてる。",
     ""),
     # In fact, after the school is over, I hang out and walk around in front of the station.
 
-    ("カ宴ラオケで他の学校の生徒とコンパなんて、し蛯ょっち繧ゅうだｂう。",
+    ("カラオケで他の学校の生徒とコンパなんて、しょっち繧ゅうだう。",
     ""),
     # It's a shame that I'll be having a party with students from other schools at Kabanquet Raoke.
 
-    ("学校のｒで烽も人気がｂ高いから、外で烽も汲結構ｍモテ驛るだｂうな。†",
+    ("学校のｒで烽も人気が高いから、外で烽も汲結構ｍモテ驛るだうな。†",
     ""),
     # The hot springs are also very popular in school r, so it's pretty popular outside and it's pretty popular.†
 
-    ("しかし、オ激レが疑站問なのは、内藤と長田はと烽もかく、あの志保熾も男子の間じ痰ゃポイントがｂ高いってとこｂだ。",
+    ("しかし、オレが疑站問なのは、内藤と長田はと烽もかく、あの志保熾も男子の間じ痰ゃポイントが高いってとこだ。",
     ""),
     # However, what's the question I'm skeptical about is that Naito and Nagata are also popular, and Shiho Taru is also a high point for men.
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # Well, to put it simply, Shiho Taru also has a cute look that would make sense to him as he walks around with smiles.
 
-    ("けどな、あいつに関してはｒ身が竄問阮題だ。†",
+    ("けどな、あいつに関してはｒ身が問題だ。†",
     ""),
     # But when it comes to him, the question of him is that he is tampering with.†
 
-    ("誰彼となく桙憎まれ福口をたたくガサツな性格。",
+    ("誰彼となく桙憎まれ口をたたくガサツな性格。",
     ""),
     # He has a rough personality, and is hated by none of his boyfriend and is hated by Fukumoku.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # It would be different if he at least says he's cute in front of the man he likes, but that's not the case with him.
 
-    ("オ激レとしては、志保とはうるさすぎない間㈱合いで友達竰やってるのがベストだと思う。†",
+    ("オレとしては、志保とはうるさすぎない間㈱合いで友達竰やってるのがベストだと思う。†",
     ""),
     # As a guy, I think it's best to be friends with Shiho at Minakami Co., Ltd., which is not too noisy.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "I was walking around with a face that seemed like I was gonna do it, but was there some kind of thought?!"
 
-    ("「べつに。志保ってなんでｂモテ驛るのか、ってな」",
+    ("「べつに。志保ってなんでモテ驛るのか、ってな」",
     ""),
     # "And so. I wonder why Shiho is so popular with B?"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # I'm talking about it with a serious face.
 
-    ("オ激レは驚いた。†",
+    ("オレは驚いた。†",
     ""),
     # I was surprised.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Do you really think so?"
 
-    ("オ激レが聞くと、♂史は照齒れ笑いをｂ浮かべて、",
+    ("オレが聞くと、♂史は照齒れ笑いを浮かべて、",
     ""),
     # When I heard, Makira Shi made a laugh and laughed.
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "That's why it is."
 
-    ("言甯われてから、オ激レは気がついた。",
+    ("言甯われてから、オレは気がついた。",
     ""),
     # After being told, I noticed it.
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # Hmm...
 
-    ("竅やっぱそういうことなのか烽もしれない。◯",
+    ("やっぱそういうことなのか烽もしれない。◯",
     ""),
     # I guess that's what it means, but I guess it's a hot topic.◯
 

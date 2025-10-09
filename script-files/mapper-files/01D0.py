@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "do not have"
 
-    ("「п私燻もないの。じ痰ゃ、いっし蛯ょに帰汲？」",
+    ("「п私燻もないの。じ痰ゃ、いっしょに帰汲？」",
     ""),
     # "I don't have any smoke. Do you have any phlegms, do you want to return to the slut?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # What should I do?
 
-    ("Ａ	じ痰ゃあ、いっし蛯ょに。閨",
+    ("Ａ	じ痰ゃあ、いっしょに。閨",
     ""),
     # A: It's all phlegm, all ephemerals.Relax
 

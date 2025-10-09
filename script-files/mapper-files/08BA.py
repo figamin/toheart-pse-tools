@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Which one?"
 
-    ("オ激レは、とぼけてみた。†",
+    ("オレは、とぼけてみた。†",
     ""),
     # I tried to be a bit weird.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "It's so popular, it's not good."
 
-    ("「オ激レがぁ？」",
+    ("「オレがぁ？」",
     ""),
     # "Is it really hard?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Yes," Karemi nodded,
 
-    ("「アカ潟リ窿やシホと、いつ烽もいっし蛯ょにいるｃ」",
+    ("「アカリ窿やシホと、いつ烽もいっしょにいるｃ」",
     ""),
     # "Akagata Rikan and Shiho are always in the nibble."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # He said.†
 
-    ("「オ激レが、あかり竄や志保のрヤツと？」",
+    ("「オレが、あかりや志保のрヤツと？」",
     ""),
     # "Is it like Akari-Tsuki or Shiho's р guy?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「瘁違うって。オ激レはあのふたりととくに、深い№仲って墲わけじ痰ゃないぞ」",
+    ("「瘁違うって。オレはあのふたりととくに、深い№仲って墲わけじ痰ゃないぞ」",
     ""),
     # "It's not that bad. I'm particularly close to those two, so there's no reason to be a deep friendship."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Karemi waits with a pure excitement and excitement in her shield.
 
-    ("「オ激レには好きな子が…」†",
+    ("「オレには好きな子が…」†",
     ""),
     # "My favorite girl is..."
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # He gave a wry smile.
 
-    ("「增わりぃ墲わりぃ。…で烽もな、こんなこと人に言いふらすことじ痰ゃないと思うぜ」†",
+    ("「わりぃ墲わりぃ。…で烽もな、こんなこと人に言いふらすことじ痰ゃないと思うぜ」†",
     ""),
     # "It's so cute... And I don't think there's anything to say to someone like this." †
 
-    ("「…そうか烽も知齟れない。ゴ＜メンネ、、言いにくいこと聞いて」",
+    ("「…そうか烽も知れない。ゴ＜メンネ、、言いにくいこと聞いて」",
     ""),
     # "...I see, you can't even know anything. Go <Menne, listen to what is difficult to say."
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # "It's really good" †
 
-    ("それっきり、この話陂題は消えてしまったけど、オ激レとしては撃レミィの気搴持ちを聞いてみたかった…。",
+    ("それっきり、この話陂題は消えてしまったけど、オレとしては撃レミィの気搴持ちを聞いてみたかった…。",
     ""),
     # That's exactly what the topic has been removed, but as a gem, I wanted to ask about Ekire Remi's ability to play...
 
-    ("オ激レから正直に言うべきだったか烽もな。◯",
+    ("オレから正直に言うべきだったか烽もな。◯",
     ""),
     # I wonder if I should have been honest with myself.◯
 

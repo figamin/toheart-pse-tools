@@ -6,16 +6,16 @@ text_array = [
     ""),
     # (Seri°Kawa, Scales Event, Return Road, LV1)Seri (continued from Chosen ABC)†
 
-    ("オ激レは、諱先輩が『ａ魔術聡書に見骭る悪ｈ魔の起源』をモ買うのにつき№合って、いっし蛯ょに古糟書店を出た。†",
+    ("オレは、諱先輩が『ａ魔術聡書に見骭る悪ｈ魔の起源』をモ買うのにつき№合って、いっしょに古糟書店を出た。†",
     ""),
     # My Gekira was the best I could buy "The Origins of Evil H Demons That I Love A Magical Sense Book," so I left the old bookstore together.†
 
-    ("「へえ、カードで支払いができるなんてな。あのじーさん、意外とハイカ宴ラな店蜩主だな」",
+    ("「へえ、カードで支払いができるなんてな。あのじーさん、意外とハイカラな店蜩主だな」",
     ""),
     # "Wow, you can pay with your card. That old man is surprisingly a banquet."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	諱先輩の好きそうな本を取闔り置きしてくれるって？	いい人そうだ烽もんな」",
@@ -43,7 +43,7 @@ text_array = [
     # "Oh, that's right. What? Does that old man's taste the same n-tasting as senior?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ａ魔術組≡合のｉ員？	そういうのがあんだ？」",
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Ko-kun.†
 
-    ("「で烽も先輩がひとりでいるなんて珍しいな。そうだ、諱よかったら、これからオ激レと｢｢」",
+    ("「で烽も先輩がひとりでいるなんて珍しいな。そうだ、諱よかったら、これからオレと｢｢」",
     ""),
     # "And it's rare for Ka-san to have a senior on his own. That's right, if you like, I'll start with my ecstasy ""
 
@@ -67,7 +67,7 @@ text_array = [
     # At that time, a picture-like tuna in a suit appeared, wondering where he had appeared.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	もう行かなければなりませんって？	そうか。せっかくｉったのに、残念だな」",
@@ -75,18 +75,18 @@ text_array = [
     # "Huh? You have to go now? I see. I've had enough, so it's a shame."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「そうだな、じ痰ゃあ、また今度の機級に」†",
     ""),
     # "Yeah, I'm sputum, I'll be back to the next machine class" †
 
-    ("ち蛯ょっと申し訳なさそうな顔をして、諱先輩は獅去っていった。",
+    ("ちょっと申し訳なさそうな顔をして、諱先輩は獅去っていった。",
     ""),
     # With a look of apologies, Senpai left.
 
-    ("縺後にはオ激レと、諱先輩の髪の竄や墲わらかな匂いだけが残った。†",
+    ("縺後にはオレと、諱先輩の髪のや墲わらかな匂いだけが残った。†",
     ""),
     # After the smash, all I was left with was the tampering with my senior's hair and a soft smell.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Senpai is escorted by a tuna-chan old man and rides a chrysanthemum limousine with a black tinged sachet.
 
-    ("車が魔走闡り出すとき、ちらっとこっちを振關りｌいたので、オ激レは笑迴顔で手を振った。†",
+    ("車が魔走闡り出すとき、ちらっとこっちを振關りｌいたので、オレは笑迴顔で手を振った。†",
     ""),
     # As the car started to run wild, I glimpseed over this one, so I waved my hand with a laugh.†
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # Hmm.
 
-    ("竅やっぱりおｏ様だし、時間の管搖理が厳しいんだｂーな。",
+    ("やっぱりおｏ様だし、時間の管搖理が厳しいんだーな。",
     ""),
     # It's O-san after all, and the time is strict.
 
-    ("そういうとこ、ち蛯ょっとか墲わいそうだな。◯",
+    ("そういうとこ、ちょっとか墲わいそうだな。◯",
     ""),
     # That's a shame, I think it's a bit sad.◯
 

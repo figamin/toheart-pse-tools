@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Akari Scales Event 2F) (Choice B: That's bad, I have something to do)†
 
-    ("少し考えてから、オ激レは言った。",
+    ("少し考えてから、オレは言った。",
     ""),
     # After thinking for a moment, I said, "I'm not going to stop it."
 
-    ("「悪いな、今厓日はち蛯ょっと用があるんだ」",
+    ("「悪いな、今厓日はちょっと用があるんだ」",
     ""),
     # "That's bad, I have a good time right now."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "yes…"
 
-    ("あかりは、少しだけ竄寂しそうな顔をした。",
+    ("あかりは、少しだけ寂しそうな顔をした。",
     ""),
     # Akari looked a little lonely.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # She waved her hand slightly, and Akari walked down the hallway by herself.
 
-    ("增わりぃな、あかり。",
+    ("わりぃな、あかり。",
     ""),
     # It's so cute, Akari.
 

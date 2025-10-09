@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Is it different?"
 
-    ("「この男は…。あたしがいかにインテ潟リジェントな一面を揩持っているか、説明する必要があるようね」",
+    ("「この男は…。あたしがいかにインテリジェントな一面を揩持っているか、説明する必要があるようね」",
     ""),
     # "This guy... I think I need to explain how intelligent I have."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "For example, do you know what books I was reading here now?"
 
-    ("「マンガだｂ？	＄曜だから、пヤンコミか？」",
+    ("「マンガだ？	＄曜だから、пヤンコミか？」",
     ""),
     # "It's a manga b? It's $yo, so is it пYankomi?"
 
-    ("「ちが墲わいっ！	話が№合ってないでし蛯ょーが」",
+    ("「ちが墲わいっ！	話が№合ってないでしょーが」",
     ""),
     # "No! We didn't get the right thing, so slut."
 
@@ -50,23 +50,23 @@ text_array = [
     ""),
     # "teeth?"†
 
-    ("「インテ潟リジェントだって言ってるそばからマンガ読むрヤツいない墲わよっ」",
+    ("「インテリジェントだって言ってるそばからマンガ読むрヤツいない墲わよっ」",
     ""),
     # "There's no one who reads manga from the side that says it's intelligent."
 
-    ("「增わーった墲わーった。マンガ読むрヤツはインテ潟リじ痰ゃねえっつうんだな？	…偏見だｂ、そり痰ゃ」",
+    ("「わーった墲わーった。マンガ読むрヤツはインテリじ痰ゃねえっつうんだな？	…偏見だ、そり痰ゃ」",
     ""),
     # "I'm so sad. Those who read manga don't have any phlegms, aren't they? ...I'm prejudiced, phlegms."
 
-    ("「う〜ん…インテ潟リ焜も読むマンガ焜もある墲わね」",
+    ("「う〜ん…インテリ焜も読むマンガ焜もある墲わね」",
     ""),
     # "Hmm... there's a manga that's also available to read Integata Liber."
 
-    ("「けっ。…で、お前の言うインテ潟リはなにを読むんだよ」†",
+    ("「けっ。…で、お前の言うインテリはなにを読むんだよ」†",
     ""),
     # "Ah... And what do you read about the integatali you're talking about?"
 
-    ("オ激レの言葉に、志保は得意そうな顔で、",
+    ("オレの言葉に、志保は得意そうな顔で、",
     ""),
     # Shiho seemed to be good at my words,
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "And what was discovered?"
 
-    ("「べつに。あたしたちが知ったとこｂで一生役に立たない発見謖よ」†",
+    ("「べつに。あたしたちが知ったとこで一生役に立たない発見謖よ」†",
     ""),
     # "And so, I found out that will never be useful for the rest of my life."
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Kaji Ryaseiu? What is that phlegm?" †
 
-    ("「流齬れ星が雨みたいに降ってくるのを言うんだって。勉強になったでし蛯ょ」",
+    ("「流齬れ星が雨みたいに降ってくるのを言うんだって。勉強になったでしょ」",
     ""),
     # "They say that the stars are falling like rain. It was a learning experience."
 
-    ("「雨みたいに降ってきたらрヤバイだｂ」",
+    ("「雨みたいに降ってきたらрヤバイだ」",
     ""),
     # "If it rains like rain, it's dangerous."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Because I'm an amateur"
 
-    ("「流齬れ星が獅落ちてきたら一蛻大桝事でし蛯ょーが。",
+    ("「流齬れ星が獅落ちてきたら一蛻大桝事でしょーが。",
     ""),
     # "If the lion falls in a flurry of water, it's a dawn and a dawn.
 
@@ -142,31 +142,31 @@ text_array = [
     ""),
     # "Look, a star of confusion... haaaaah, bang!'
 
-    ("ってことになったらムード焜も艪台無しよ」",
+    ("ってことになったらムード焜も台無しよ」",
     ""),
     # If that happens, the mood will ruin the situation."
 
-    ("「いいから蛯大声で言うな」",
+    ("「いいから大声で言うな」",
     ""),
     # "It's fine, don't say it loudly."
 
-    ("道の真んｒでバコ〜ンとか蛯大げさに墲わめくから、恥ずかしいったらあり痰ゃしない。†",
+    ("道の真んｒでバコ〜ンとか大げさに墲わめくから、恥ずかしいったらあり痰ゃしない。†",
     ""),
     # They're all groaning in the middle of the road, and they're all over the place, so if you're embarrassed, you won't get enough of anything.†
 
-    ("「途湯で消えち痰ゃうから、恋人たちは№仲良く夜空を見繻上げられるのよ」",
+    ("「途湯で消えち痰ゃうから、恋人たちは№仲良く夜空を見上げられるのよ」",
     ""),
     # "They disappear in the air, so their lovers can look up at the night sky with great friendship."
 
-    ("「增わかった墲わかった。その、香ロマンチックな流齬れ星が山ほど見鼬れるんだな？」",
+    ("「わかった墲わかった。その、香ロマンチックな流齬れ星が山ほど見鼬れるんだな？」",
     ""),
     # "I understand, I understand. I can see that romantic, unrequited star is so impressive, isn't it?"
 
-    ("「竅やっと揩理解した墲わね」",
+    ("「やっと揩理解した墲わね」",
     ""),
     # "I finally understand it."
 
-    ("「はじめから烽説明すればよかっただｂ」†",
+    ("「はじめから烽説明すればよかっただ」†",
     ""),
     # "I should have explained it from the beginning b"
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Whoa..."
 
-    ("「どお？	見てみたいでし蛯ょ？」",
+    ("「どお？	見てみたいでしょ？」",
     ""),
     # "What? I want to see, slut?"
 

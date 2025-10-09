@@ -2,11 +2,11 @@
 # Source file: 06A5.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	帰闍り道）閨（選択綜Ａ	ゲーセンで遊ぼうか、と誘う）†",
+    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜Ａ	ゲーセンで遊ぼうか、と誘う）†",
     ""),
     # (Muryuruchi, the balance event, return trip) (Selection A, invites you to play at the arcade) †
 
-    ("「じ痰ゃあさ、ち蛯ょっとオ激レにつき№合えよ」",
+    ("「じ痰ゃあさ、ちょっとオレにつき№合えよ」",
     ""),
     # "I'm not sure if you're going to get the slut, so be sure to get the slut out of me."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # To kill time."
 
-    ("「…で烽も、セ潟リオさんが」",
+    ("「…で烽も、セリオさんが」",
     ""),
     # "... And even Segata Rio-san."
 
@@ -46,19 +46,19 @@ text_array = [
     ""),
     # "Yes."
 
-    ("オ激レはマ泣ルチを連齪れてゲーセンへｌかった。†",
+    ("オレはマルチを連齪れてゲーセンへｌかった。†",
     ""),
     # I went to the arcade with a string of cries.†
 
-    ("店燗内に入った途端、マ泣ルチは物珍しそうに、き蛯ょｂき蛯ょｂとま墲わりを見渡した。",
+    ("店燗内に入った途端、マルチは物珍しそうに、きょきょとま墲わりを見渡した。",
     ""),
     # As soon as I entered the store, I looked around the area with a strange look on my face.
 
-    ("「マ泣ルチはゲーセンに入ったことあんのか？」",
+    ("「マルチはゲーセンに入ったことあんのか？」",
     ""),
     # "Has Makruchi gone to the arcade?"
 
-    ("「いえ、堰初めてです。とって烽も賑笂やかで、楽しそうなとこｂですね」",
+    ("「いえ、堰初めてです。とって烽も賑笂やかで、楽しそうなとこですね」",
     ""),
     # "No, this is my first time at the weir. The hot springs are also bustling and fun."
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Ah, it's fun. The top tip of the Amyers <Mento is packed into this space."
 
-    ("「增わあ…」",
+    ("「わあ…」",
     ""),
     # "Ahhh..."
 
-    ("マ泣ルチは子沁供のように目を輝かせた。",
+    ("マルチは子沁供のように目を輝かせた。",
     ""),
     # Muruch's eyes lit up like a child's sting.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("「＝メダ泣ルゲームだ。お烽金で≠メダ泣ルをモ買って、掾増竭やして遊ぶんだ」†",
+    ("「＝メダルゲームだ。お烽金で≠メダルをモ買って、掾増竭やして遊ぶんだ」†",
     ""),
     # "It's a medal crying game. I'll buy a medal crying model with hot money and play with it."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Wha... No phlegm, what is that?"
 
-    ("「対岺戦型の格闘ゲームだ。ほら、二苴台がｌかい№合ってるだｂ？	プ激レイсヤー同士が対岺戦できるようになってんだよ」†",
+    ("「対岺戦型の格闘ゲームだ。ほら、二台がｌかい№合ってるだ？	プレイсヤー同士が対岺戦できるようになってんだよ」†",
     ""),
     # "It's a fighting game that's a battle-type fighting game. See, the 1st digit is right? The game has become possible for both players to fight against each other."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "What is that?!"
 
-    ("そう言ってマ泣ルチがたずねたのは、エアホッケーの艪台だった。",
+    ("そう言ってマルチがたずねたのは、エアホッケーの台だった。",
     ""),
     # With that in mind, Makruchi asked him to be an air hockey platform.
 
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # "..."†
 
-    ("「なんだ、竅やってみるか？」",
+    ("「なんだ、やってみるか？」",
     ""),
     # "What, shall we try?"
 
-    ("「はいっ！	…あっ、で烽も、增わたし、お烽金搴持ってないんです」",
+    ("「はいっ！	…あっ、で烽も、わたし、お烽金搴持ってないんです」",
     ""),
     # "Yes! ...Ah, and I don't have any hot water."
 
-    ("「そんなぐらい、オ激レがおごって竄やるって。ほら、′こうに行きな」",
+    ("「そんなぐらい、オレがおごってやるって。ほら、′こうに行きな」",
     ""),
     # "You're going to buy me so much and tamper with me. Come on, go like this."
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "Yes, thank you!"
 
-    ("オ激レたちは、艨台をはさんでｌかい№合った。",
+    ("オレたちは、艨台をはさんでｌかい№合った。",
     ""),
     # We both got on the table and got a good match.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # And if you hit the puck back, hit the goal of Kaji-related players and score, it's a goal."
 
-    ("「はいっ、增わかりました！」",
+    ("「はいっ、わかりました！」",
     ""),
     # "Yes, I understand!"
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "All right, I'll start with the phlegm" †
 
-    ("オ激レは１００円玉を二∮枚竃投涛した。",
+    ("オレは１００円玉を二∮枚竃投涛した。",
     ""),
     # My guts threw two or more 100 yen coins.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # He grabs the pack that came out in his hand and places it on the field.†
 
-    ("さーてと、オ激レは｢｢。",
+    ("さーてと、オレは｢｢。",
     ""),
     # Well, I said, ".
 

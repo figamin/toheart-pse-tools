@@ -2,7 +2,7 @@
 # Source file: 044A.txt
 
 text_array = [
-    ("（志保	好感度イベントＸ）閨（選択綜	１竄問目	×）閨（ＳＥ：ブッブー）†",
+    ("（志保	好感度イベントＸ）閨（選択綜	１問目	×）閨（ＳＥ：ブッブー）†",
     ""),
     # (Shiho Likeability Event X) (Select Sou 1st Temptation Question ×) (SE: Bubboo)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「あははっ、ハズ激レ〜ッ！」",
+    ("「あははっ、ハズレ〜ッ！」",
     ""),
     # "Ahaha, I'm going to do it super hard!"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Damn..."†
 
-    ("『氈次の竄問阮題。",
+    ("『氈次の問題。",
     ""),
     # "The following is a question of the tampering issue.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # C. The North Pole.Relax
 
-    ("Ｄ	現在熏も艪謎。閨",
+    ("Ｄ	現在熏も謎。閨",
     ""),
     # D Currently, the yeah is also a mystery.Relax
 

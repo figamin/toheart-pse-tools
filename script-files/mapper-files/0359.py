@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Uh, seko..."
 
-    ("「浴女の子誘うん竄や、增常識竡やｂ？」",
+    ("「浴女の子誘うんや、常識竡や？」",
     ""),
     # "Do you want to invite a bath girl to do something, or is it a common sense or b?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "...Oh, I'll laugh as if to myself."
 
-    ("「で烽も、オ激レの前で笑ったのは奄初めてだぜ」",
+    ("「で烽も、オレの前で笑ったのは奄初めてだぜ」",
     ""),
     # "And this is the first time I've ever laughed in front of my gang."
 
@@ -74,16 +74,16 @@ text_array = [
     ""),
     # "Hehhhhh."
 
-    ("「な、なん竄やの？」",
+    ("「な、なんやの？」",
     ""),
     # "What, what is it tampering with?"
 
-    ("「い竄や、ここまでｗ磯翌ﾌ烽も蛯大変だったなーと思ってな」",
+    ("「いや、ここまでｗ磯翌ﾌ烽も大変だったなーと思ってな」",
     ""),
     # "I'm not going to get it, I think it was a lot of trouble to see Isohachi."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「で烽も、さっきの委員長の笑迴顔、それだけの価値はあったぜ？」",
@@ -102,23 +102,23 @@ text_array = [
     ""),
     # It's a waste of time."
 
-    ("「はいはい、增わーったよ。そのか墲わりрヤックだかんな」",
+    ("「はいはい、わーったよ。そのか墲わりрヤックだかんな」",
     ""),
     # "Yes, yes, I'm back. Or rather, it's a yak."
 
-    ("「なん竄や、пヤックって？」",
+    ("「なんや、пヤックって？」",
     ""),
     # "What's that tampering, what's пyak?"
 
-    ("「пヤクドナ泣ルド」",
+    ("「пヤクドナルド」",
     ""),
     # "пYakdonna crying"
 
-    ("「пヤクド窿やｂ？」†",
+    ("「пヤクド窿や？」†",
     ""),
     # "Are you __________________________________________________________________________________________________________________________
 
-    ("「пヤクドナ泣ルドはрヤックが墲常識だぞ」",
+    ("「пヤクドナルドはрヤックが墲常識だぞ」",
     ""),
     # "The common sense of рyak donna yuryuru is рyak."
 
@@ -126,23 +126,23 @@ text_array = [
     ""),
     # "The yakdo is common sense.
 
-    ("ヤクドナ泣ルドはрヤクド、пヤックはрヤッキントッシャのパソコン窿やん」",
+    ("ヤクドナルドはрヤクド、пヤックはрヤッキントッシャのパソコン窿やん」",
     ""),
     # Yakudana is a yakd, and yakd is a yakd computer.
 
-    ("「い竄や、まあ、パソコン焜もрヤックだけど…」",
+    ("「いや、まあ、パソコン焜もрヤックだけど…」",
     ""),
     # "It's a mess, well, the computer bait is also a yacht..."
 
-    ("「おんなじ竄やったら使い分けできへん竄やん」†",
+    ("「おんなじやったら使い分けできへんやん」†",
     ""),
     # "If you tamper with something, you won't be able to use it in different ways."
 
-    ("「で烽も≠普通、пヤック行こうぜっつって、パソコンは出てこねーだｂ？」",
+    ("「で烽も≠普通、пヤック行こうぜっつって、パソコンは出てこねーだ？」",
     ""),
     # "So, the hot ones are usually too, so let's go to YAK, so the computer won't come out, right?"
 
-    ("「せ竄やけど、昨厓日сbクャ買うてん言甯われたらどっちか墲わからへん竄やんか」",
+    ("「せやけど、昨厓日сbクャ買うてん言甯われたらどっちか墲わからへんやんか」",
     ""),
     # "It's a bit of a joke, but if you get the message from buying it last day, then you don't know which one you mean?"
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "It's definitely more efficient to use differently"
 
-    ("オ激レたちは、そんなくだらない議論をр延々と繰闌り返した。†",
+    ("オレたちは、そんなくだらない議論をр延々と繰り返した。†",
     ""),
     # We kept repeating such a silly discussion over and over again.†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # Well, the enemy on last day is now a friend on last day.
 
-    ("增戦いから芽生える友﨤情熄もある…だｂ？◯",
+    ("戦いから芽生える友﨤情熄もある…だ？◯",
     ""),
     # There are also friends who can grow from the battle... is that b?◯
 

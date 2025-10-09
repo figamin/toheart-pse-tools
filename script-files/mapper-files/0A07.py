@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Huh, Bath Hinayama...?"
 
-    ("オ激レは急いで席を立った。◯",
+    ("オレは急いで席を立った。◯",
     ""),
     # I quickly got up from my seat.◯
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "My name is, I'll give you a name. Is there something to splash?"
 
-    ("「あの、くん…。いま、ち蛯ょっとお桙時間いいですか？」",
+    ("「あの、くん…。いま、ちょっとお桙時間いいですか？」",
     ""),
     # "Um, kun... Is it okay to have some time now?"
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # "I have a story"
 
-    ("オ激レたちは屋繪上に竄やってきた。",
+    ("オレたちは屋繪上にやってきた。",
     ""),
     # We've been tampering with the house.
 
-    ("さすがにこの桙時間は人ひとりなく、ガ宴ランとしている。†",
+    ("さすがにこの桙時間は人ひとりなく、ガランとしている。†",
     ""),
     # Of course, this feast time is a one-off, with no one left.†
 
-    ("なんの話だｂう。",
+    ("なんの話だう。",
     ""),
     # What's the story?
 
-    ("竅やっぱ、この間のことだｂうか…。",
+    ("やっぱ、この間のことだうか…。",
     ""),
     # I guess that's what happened in the other day...
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Suddenly, Symphonyan bowed his head violently.†
 
-    ("「え？	あ、い竄や、この前の冾放課繪後のことだったら、オ激レのほうこそ…」",
+    ("「え？	あ、いや、この前の冾放課繪後のことだったら、オレのほうこそ…」",
     ""),
     # "Huh? Ah, it's a mess, if it happened after the previous school day, I'm the one who's been really into it..."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Um, my younger brother seems to have caused trouble to you and sputum."
 
-    ("增弟…？",
+    ("弟…？",
     ""),
     # A little brother...?
 
@@ -102,15 +102,15 @@ text_array = [
     ""),
     # ...I mean, maybe that's it?†
 
-    ("「あ、ひ蛯ょっとして、あんときのガキ…つーか、男の子って、掾理女緒ち痰ゃんの墲弟？」",
+    ("「あ、ひょっとして、あんときのガキ…つーか、男の子って、掾理女緒ち痰ゃんの墲弟？」",
     ""),
     # "Ah, maybe that kid...or rather, is the boy the younger brother of the man who is the man who is the man who is the man who is the man who is the man who is the man who is the man who is still in the middle?"
 
-    ("「…突然で驚かせち痰ゃったでし蛯ょ？」",
+    ("「…突然で驚かせち痰ゃったでしょ？」",
     ""),
     # "...I was surprised at how sudden it was, sputum, slut?"
 
-    ("「い竄や、まあ」",
+    ("「いや、まあ」",
     ""),
     # "Tampering, well."
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # Did Ane-chan refer to Arime O-chan refer to Arime O-chan?
 
-    ("なるほど、諱よう竄やく話がつながった。",
+    ("なるほど、諱ようやく話がつながった。",
     ""),
     # I see, the story that led to the story being fed up.
 
-    ("じ痰ゃあ、『姉ち痰ゃんをモ泣かした』ってのは、つまり、掾理女緒ち痰ゃんがモ泣いたってことか。",
+    ("じ痰ゃあ、『姉ち痰ゃんをモかした』ってのは、つまり、掾理女緒ち痰ゃんがモいたってことか。",
     ""),
     # If you say "I made my sister cry" then it means that the girl crying after all is crying.
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # "Yes, yes. Oh, um, and you have to tell us that it's a waste to cause trouble to others...
 
-    ("理由はどうあれ、それは竄やっち痰ゃいけないことなんだって、だから｢｢」",
+    ("理由はどうあれ、それはやっち痰ゃいけないことなんだって、だから｢｢」",
     ""),
     # Whatever the reason, it's something you have to tamper with, so ""
 
-    ("「オ激レ、べつに迷惑だとは思ってないけど」†",
+    ("「オレ、べつに迷惑だとは思ってないけど」†",
     ""),
     # "I don't think it's a nuisance, though."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("「お、增弟のこと、怒ってないんですか？」",
+    ("「お、弟のこと、怒ってないんですか？」",
     ""),
     # "Oh, are you not angry about your little brother?"
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Ah... Umm... I'm relieved..."
 
-    ("掾理女緒ち痰ゃんは竄やっと安心したような微笑みをうかべた。",
+    ("掾理女緒ち痰ゃんはやっと安心したような微笑みをうかべた。",
     ""),
     # Erie Ochishonan finally smiled with a relief after tampering.
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # It seemed like he was seriously worried.
 
-    ("「あの子、ち蛯ょっと垂乱暴なとこｂがあるけど、すごくいい子なの。",
+    ("「あの子、ちょっと垂乱暴なとこがあるけど、すごくいい子なの。",
     ""),
     # "That girl has a rough spot that's a bit violent, but she's a really good girl.
 
@@ -214,15 +214,15 @@ text_array = [
     ""),
     # It's nice to take care of my little sister and friends."
 
-    ("「そうい竄や、ガキ蜒大将って感じだったな」†",
+    ("「そういや、ガキ蜒大将って感じだったな」†",
     ""),
     # "It was like that, I was like a brat, a master of the brat."
 
-    ("「子沁供なのに、ち蛯ょっと素直じ痰ゃないとこｂ烽もあって、ときどき手を焼くけど…」",
+    ("「子沁供なのに、ちょっと素直じ痰ゃないとこ烽もあって、ときどき手を焼くけど…」",
     ""),
     # "Even though I'm a child, I have a lot of honest phlegm and sometimes I get a lot of trouble..."
 
-    ("「そうか？	オ激レはけっこう素直に思えたぜ。姉ち痰ゃんに謝っとくって言ったら、そのままおとなしく帰ってったし」†",
+    ("「そうか？	オレはけっこう素直に思えたぜ。姉ち痰ゃんに謝っとくって言ったら、そのままおとなしく帰ってったし」†",
     ""),
     # "I see? I thought my gut-reality was pretty honest. I told her I apologize to my sister, but she went home quietly."†
 
@@ -238,11 +238,11 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「增わりぃ」",
+    ("「わりぃ」",
     ""),
     # "Stunned"
 
-    ("オ激レは頭を掻いて、ち蛯ょっと頭を下げる。†",
+    ("オレは頭を掻いて、ちょっと頭を下げる。†",
     ""),
     # I scratched my head and bowed my head a little.†
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「なんかオ激レ、掾理女緒ち痰ゃんをモ泣かしち痰ゃったらしいしな」",
+    ("「なんかオレ、掾理女緒ち痰ゃんをモかしち痰ゃったらしいしな」",
     ""),
     # "It seems like I've been making a stimulating cry, and I've been crying."
 
@@ -258,15 +258,15 @@ text_array = [
     ""),
     # "Ah, no. That's what I meant when I said ""†
 
-    ("「とにかく、オ激レの話燔もち痰ゃんと聞いてくれねーか？」",
+    ("「とにかく、オレの話燔もち痰ゃんと聞いてくれねーか？」",
     ""),
     # "Anyway, can you listen to me, "I'm talking about something so burnt?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「オ激レ、いまはまだ揩理女緒ち痰ゃんのこと、好きとかどうとか、そんなふうには正直思えない。けど好きになる烽もならねーも、けっき蛯ょく、これから次謗第ってことだｂ？」",
+    ("「オレ、いまはまだ揩理女緒ち痰ゃんのこと、好きとかどうとか、そんなふうには正直思えない。けど好きになる烽もならねーも、けっきょく、これから次謗第ってことだ？」",
     ""),
     # "I'm so excited, I'm still not sure what I like or what I want to say about it. But I'm not going to fall in love with you, but now it's time for the next slander, right?
 
@@ -279,7 +279,7 @@ text_array = [
     # "In that sense, it was a friend... that's what I meant."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「なんつーか、うまく言えねーけど…」",
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「だったらまず、オ激レに敬鼬語を使うの竄やめてくんないか？」",
+    ("「だったらまず、オレに敬鼬語を使うのやめてくんないか？」",
     ""),
     # "If that's the case, why don't you stop using yelling sings on me?"
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「調子狂うんだよな。だいたい同遠級生が敬鼬語で話してんのって、おかしいだｂ？」",
+    ("「調子狂うんだよな。だいたい同遠級生が敬鼬語で話してんのって、おかしいだ？」",
     ""),
     # "You're getting mad. Isn't it weird that your classmates are speaking in yeong-sama?!"
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # "Yes... there's no phlegm, yes! Oh, that's right... right!"
 
-    ("「そっちのほうがオ激レ焜も気楽に話せるしな」",
+    ("「そっちのほうがオレ焜も気楽に話せるしな」",
     ""),
     # "That's the kind of thing that makes me feel more comfortable talking."
 
@@ -342,11 +342,11 @@ text_array = [
     ""),
     # "Ahaha."
 
-    ("ま、この前のモ泣きそうな顔のときよりか、ずいぶんと進展したよな。†",
+    ("ま、この前のモきそうな顔のときよりか、ずいぶんと進展したよな。†",
     ""),
     # Well, I think it's been much better than when he looked like he was crying the other day.†
 
-    ("「あ、とこｂでさ」",
+    ("「あ、とこでさ」",
     ""),
     # "Ah, here it is b."
 
@@ -354,11 +354,11 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「オ激レ、じつはさ…」",
+    ("「オレ、じつはさ…」",
     ""),
     # "I'm really, really..."
 
-    ("オ激レは汲視諮をそらして空を見繻上げた。†",
+    ("オレは汲視諮をそらして空を見上げた。†",
     ""),
     # I distracted the advice of the scrutiny and looked up at the sky.†
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # I was happy."
 
-    ("照齒れかくしに笑うオ激レ。",
+    ("照齒れかくしに笑うオレ。",
     ""),
     # I laughed so hard.
 
@@ -394,11 +394,11 @@ text_array = [
     ""),
     # Oops, it's class.†
 
-    ("「竅やべっ、戻魔うぜ」",
+    ("「やべっ、戻魔うぜ」",
     ""),
     # "Noooo, I'll go back."
 
-    ("オ激レがぽんと肩を叩いて言うと、",
+    ("オレがぽんと肩を叩いて言うと、",
     ""),
     # When I said, tapping my shoulder,
 
@@ -410,7 +410,7 @@ text_array = [
     ""),
     # The girl nodded awkwardly.†
 
-    ("ふたりはいっし蛯ょに階段をｋけ下濶りた。◯",
+    ("ふたりはいっしょに階段を駆け下濶りた。◯",
     ""),
     # The two of them all set off the stairs and plunged down the ebony.◯
 

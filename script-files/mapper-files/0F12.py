@@ -2,19 +2,19 @@
 # Source file: 0F12.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル２）閨（冝期槙末テスト繝後篇（ＨｂｂＨ））閨（選択綜	♂史）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	♂史）閨（蛛主人公沍勝ち）†",
     ""),
     # (Arcade Battle Cry 2) (Cycle Final Test Part 2 (HbbH)) (Cycle Contest ♂ History) (Mrage Protagonist Wins)†
 
-    ("「♂史〜、もうち蛯ょっとうまくなってくれよ」",
+    ("「♂史〜、もうちょっとうまくなってくれよ」",
     ""),
     # "Masturbation, I hope you get better at it."
 
-    ("「竅やっぱり福練習量が足闡りないよ」",
+    ("「やっぱり練習量が足闡りないよ」",
     ""),
     # "I'm still not getting enough practice."
 
-    ("「禔練習量って、お前が言うとサッカーの福練習みたいに聞こえるな」†",
+    ("「禔練習量って、お前が言うとサッカーの練習みたいに聞こえるな」†",
     ""),
     # "When you say "Yu practice amount," it sounds like soccer fortune practice."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Coach me."
 
-    ("「オ激レが？」",
+    ("「オレが？」",
     ""),
     # "Is it really me?"
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "That's nice though...
 
-    ("よし、竅やるか」†",
+    ("よし、やるか」†",
     ""),
     # Okay, shall we do it?”†
 
-    ("♂史をコーチしつつ、オ激レ自身熕もゲームを堪能した。",
+    ("♂史をコーチしつつ、オレ自身熕もゲームを堪能した。",
     ""),
     # While coaching Makoshi, Ikehi himself also enjoyed the game.
 

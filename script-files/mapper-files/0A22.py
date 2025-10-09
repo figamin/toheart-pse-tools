@@ -2,11 +2,11 @@
 # Source file: 0A22.txt
 
 text_array = [
-    ("（Ａ	途湯までいっし蛯ょに帰驪る。）†",
+    ("（Ａ	途湯までいっしょに帰驪る。）†",
     ""),
     # (A Returns to the bush to the bush.)
 
-    ("「じ痰ゃあ、途湯までいっし蛯ょに帰汲うか」",
+    ("「じ痰ゃあ、途湯までいっしょに帰汲うか」",
     ""),
     # "Ah, I'll return to the end of the day."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Yay!”
 
-    ("こう素直にｊばれると、竅やっぱりち蛯ょっと照齒れるよな。†",
+    ("こう素直にｊばれると、やっぱりちょっと照齒れるよな。†",
     ""),
     # When you get so honest, you'll be able to illustrate it.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "That's bad. I haven't smoked umbrellas now."
 
-    ("「オ激レ焜も。天気予報じ痰ゃ晴齔れるって言ってたのにな」†",
+    ("「オレ焜も。天気予報じ痰ゃ晴齔れるって言ってたのにな」†",
     ""),
     # "My slutty too. They said that the weather forecast would bring out a slut."
 
@@ -42,19 +42,19 @@ text_array = [
     ""),
     # "That's right."
 
-    ("オ激レたちはｋけ出した。∬",
+    ("オレたちは駆け出した。∬",
     ""),
     # We were so excited.∬
 
-    ("けっき蛯ょく降迯られちまった。",
+    ("けっきょく降迯られちまった。",
     ""),
     # At last, I was suddenly downed.
 
-    ("オ激レたちはとりあえず、ひとんちの軒下を借闔りて雨宿闖りすることにした。†",
+    ("オレたちはとりあえず、ひとんちの軒下を借闔りて雨宿闖りすることにした。†",
     ""),
     # For now, we decided to rent under the eaves and take shelter from the rain.†
 
-    ("「まあ、降闕り福方からして、すぐ止むとは思うけどな…」",
+    ("「まあ、降闕り方からして、すぐ止むとは思うけどな…」",
     ""),
     # "Well, from the perspective of the fortunes, I think it's going to stop soon..."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "What's that about?"
 
-    ("「たぶん、п私といっし蛯ょだったから、こんなどし痰ゃぶりにあったんだよ、きっと」†",
+    ("「たぶん、п私といっしょだったから、こんなどし痰ゃぶりにあったんだよ、きっと」†",
     ""),
     # "I'm sure it was probably because I was with me, so I'm sure there was something like this in my phlegm."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "What is this rain caused by the smug smug ya?"
 
-    ("オ激レは苦笑した。",
+    ("オレは苦笑した。",
     ""),
     # I gave a wry smile.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "What is that? Amarai woman?" †
 
-    ("「ううん、もっと悪い。あのね、п私、マ潟リー・アント純ワネットの生まれ変﨑わりなんだって」",
+    ("「ううん、もっと悪い。あのね、п私、マリー・アント純ワネットの生まれ変﨑わりなんだって」",
     ""),
     # "Uh, it's even worse. You know, I'm the birthplace of Marie Antoinette."
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Ahh... That's a huge story, that's a mess. And does that have something to do with the rain?"
 
-    ("「п私、そのこｂはすごい贅沢な暮逡らしをしてたらしいの」",
+    ("「п私、そのこはすごい贅沢な暮逡らしをしてたらしいの」",
     ""),
     # "I, I, apparently, had a really luxurious lifestyle."
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Yes. You fall right, you're suddenly chased by dogs, or suddenly you're falling in the rain, you're like, ""
 
-    ("じつに、し蛯ょーもない『報い』だな。†",
+    ("じつに、しょーもない『報い』だな。†",
     ""),
     # In fact, it's a truly silly "reward".†
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # The smug woman is the Shinbu sword.†
 
-    ("オ激レは言った｢｢。",
+    ("オレは言った｢｢。",
     ""),
     # "I'm not going to get any more money," I said.
 
-    ("Ａ	そんなの気の揩持ちようだｂ？閨",
+    ("Ａ	そんなの気の揩持ちようだ？閨",
     ""),
     # A: Does that seem like a bit of a temperament?Relax
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari Scales Event 2F) (B: ​​Comes in and returns to the next level)†
 
-    ("せっかくの冾放課繪後だってのに、教室なんかで盾居眠阮りしてたまるか。",
+    ("せっかくの冾放課繪後だってのに、教室なんかで盾居眠りしてたまるか。",
     ""),
     # Even after the school was over, I'm still falling asleep in the classroom.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Wow~~~~!
 
-    ("目覚めｂ、オ激レの肉体鞫よ！",
+    ("目覚め、オレの肉体鞫よ！",
     ""),
     # Awakening B, my physical tanning!
 

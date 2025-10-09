@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Let's make it next to Aoi Chisho-chan.
 
-    ("オ激レは葵ち痰ゃんの隣にｍ會高ｺ奄した。†",
+    ("オレは葵ち痰ゃんの隣にｍ會高ｺ奄した。†",
     ""),
     # My gangbang went to Mkai Takako Amami next to Aoi Chisho-chan.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # A smiley face came back, almost spilling around.†
 
-    ("オ激レはそのあいさつを受けてすぐに、",
+    ("オレはそのあいさつを受けてすぐに、",
     ""),
     # I immediately received the greeting,
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # The woman twitched her shoulders and looked at me, terrified.
 
-    ("そして、オ激レだと墲わかると、",
+    ("そして、オレだと墲わかると、",
     ""),
     # And when I realize that it's a bit of a big deal,
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # His eyes lifted, and Kotone Chisho-chan quietly interpreted.†
 
-    ("同じ一年だけど、なんていうか、ち蛯ょっと対照的な感じがするふたりだな。",
+    ("同じ一年だけど、なんていうか、ちょっと対照的な感じがするふたりだな。",
     ""),
     # It's been the same year, but it feels like the two of them are in a very contrasting way.
 
-    ("髪型がシ㏍ョートと高ロングっての烽もあるけど、体迹育系と文系って感じ烽もする。",
+    ("髪型がショートと高ロングっての烽もあるけど、体迹育系と文系って感じ烽もする。",
     ""),
     # There are also hot hairstyles with a long hairstyle, but they also have a physical education and humanities style that is very popular.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # Don't even feel like a healthy girl and a quiet, gentle O-sama.†
 
-    ("オ激レは話陂題を探そうと、それぞれふたりの≠メニャーに高注目した。",
+    ("オレは話陂題を探そうと、それぞれふたりの≠メニャーに高注目した。",
     ""),
     # In order to find a topic, I made a lot of attention to the two of them, ≠Meña.
 
-    ("葵ち痰ゃんはオ激レと同じＡ奄ランチ。",
+    ("葵ち痰ゃんはオレと同じＡ奄ランチ。",
     ""),
     # Aoi Chisho-chan is the same as my gei-re.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # Kotone Chisho-chan is full of udon noodles.†
 
-    ("「お、葵ち痰ゃん烽もオ激レと同じＡ奄ランチか」",
+    ("「お、葵ち痰ゃん烽もオレと同じＡ奄ランチか」",
     ""),
     # "Oh, Aoi Chishonan is the same as my geisha, A Amami lunch?"
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「とこｂが、学食熕もｖ淫俣﨎Hってると、さすがにマンネ潟リになる。だから繧上縁級者はカツに烽もいｂいｂ新しい味を≠める墲わけだ」",
+    ("「とこが、学食熕もｖ淫俣﨎Hってると、さすがにマンネリになる。だから繧上縁級者はカツに烽もいい新しい味を≠める墲わけだ」",
     ""),
     # "When the school cafeteria is also in the middle of the day, it will become a rut. That's why the higher-ranking people will be able to ≠ with a new flavor in their cutlet."
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("「ケチャャップ、し蛯ょう艪ゆ、マャネーズ。渋い竄やつになると、磨塩をぱらっとひと振關りとか、とうがらしとか。またある者はド激レッシングなんかをかけたりして」†",
+    ("「ケチャャップ、しょうゆ、マャネーズ。渋いやつになると、塩をぱらっとひと振關りとか、とうがらしとか。またある者はドレッシングなんかをかけたりして」†",
     ""),
     # "Ketchap, shiizu, shiizu, and manaise. When it comes to tampering, they suddenly sprinkle a sprinkle of salt, or burnt peppers. Some people also sprinkle a lot of dressing."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "It's deep."
 
-    ("「縺後半はち蛯ょっと邪道寄闃りだけどな」",
+    ("「縺後半はちょっと邪道寄闃りだけどな」",
     ""),
     # "The second half is a bit of a bad approach."
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "But Senpai is a tonkatsu sauce."
 
-    ("「オ激レ焜も以前はし蛯ょう艪ゆ派だった」",
+    ("「オレ焜も以前はしょうゆ派だった」",
     ""),
     # "I used to be a fan of the similes."
 
@@ -194,11 +194,11 @@ text_array = [
     ""),
     # "But why is it now...?"
 
-    ("「オ激レ焜も一周ま墲わっちまったってことかなァ」",
+    ("「オレ焜も一周ま墲わっちまったってことかなァ」",
     ""),
     # "I guess it means that my slutty slut went all around."
 
-    ("オ激レは唐遠くを見てつぶ竄やいた。",
+    ("オレは遠くを見てつぶやいた。",
     ""),
     # I saw the distance from the Tang Dynasty and muttered.
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("「竅やっぱり王道って烽もんは、王道たる揩理由があって王道なんだよな」",
+    ("「やっぱり王道って烽もんは、王道たる揩理由があって王道なんだよな」",
     ""),
     # "After all, Homon is a classic road, and it's a classic road with a reason that's the classic road."
 
@@ -214,15 +214,15 @@ text_array = [
     ""),
     # "Is the classic tonkatsu sauce?"
 
-    ("「人はいつか、とんかつソースに回帰する。とんかつソース宴ｉ唐入王道。キングス鴻ロード、イエーイ！」",
+    ("「人はいつか、とんかつソースに回帰する。とんかつソースｉ入王道。キングス鴻ロード、イエーイ！」",
     ""),
     # "People will one day return to tonkatsu sauce. Pork cutlet sauce banquet i Tangari's classic. King's Hong Road, Yeeee!"
 
-    ("オ激レが親指を立てると、葵ち痰ゃんは複雑な笑迴顔で返した。†",
+    ("オレが親指を立てると、葵ち痰ゃんは複雑な笑迴顔で返した。†",
     ""),
     # When I gave a thumbs up, Aoi Chisho-yan responded with a complicated face.†
 
-    ("と、そんな感じで、オ激レはハシ以繹上に福口を動かし続けた。",
+    ("と、そんな感じで、オレはハシ以繹上に口を動かし続けた。",
     ""),
     # And with that in mind, I continued to move Fukuguchi over the top of Hashi.
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # The number of weir lunches has hardly decreased.
 
-    ("そう竄やって、しばらくすると。†",
+    ("そうやって、しばらくすると。†",
     ""),
     # After a while, do that.†
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "I'm sorry..."
 
-    ("琴音ち痰ゃんがお烽もむｂに席を立って言った。",
+    ("琴音ち痰ゃんがお烽もむに席を立って言った。",
     ""),
     # Kotone Chisho-yan stood up to Ohomomu B and said.
 
@@ -250,11 +250,11 @@ text_array = [
     ""),
     # It's just a bowl of udon noodles, and the hot water is completely eaten, so it's strange that it's not too phlegm.†
 
-    ("「あ、いけね、オ激レ焜も≠早く食岦わねーと」",
+    ("「あ、いけね、オレ焜も≠早く食岦わねーと」",
     ""),
     # "Oh, go ahead, I'll have to go quickly."
 
-    ("オ激レが慌ててハシを握闊り直すと、",
+    ("オレが慌ててハシを握闊り直すと、",
     ""),
     # I hurriedly grabbed the pines and retook them,
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Sorry. First..."
 
-    ("琴音ち痰ゃんはそう言って、ト激レイを揩持ってそのまま行ってしまった。†",
+    ("琴音ち痰ゃんはそう言って、トレイを揩持ってそのまま行ってしまった。†",
     ""),
     # Kotone Chisho-yan said, then took Togekirei with him and left.†
 
@@ -274,15 +274,15 @@ text_array = [
     ""),
     # "Himetake-san, it seemed difficult for me to stay."
 
-    ("「えっ？	い竄や、そんなことないって」",
+    ("「えっ？	いや、そんなことないって」",
     ""),
     # "Huh? It's not like that."
 
-    ("オ激レは慌てて否阡定した。†",
+    ("オレは慌てて否阡定した。†",
     ""),
     # I hurriedly rejected it.†
 
-    ("「そうじ痰ゃないよ。なに烽も揩喋迺らなかったのは、単に蛯大人しいからさ」",
+    ("「そうじ痰ゃないよ。なに烽も揩喋迺らなかったのは、単に大人しいからさ」",
     ""),
     # "There's no phlegm to clean up. The reason why he didn't speak to him is simply because he's so quiet."
 
@@ -298,11 +298,11 @@ text_array = [
     ""),
     # He didn't explain anything he had said that after that.†
 
-    ("で烽も、ち蛯ょっと配慮が足闡りなかったかな。",
+    ("で烽も、ちょっと配慮が足闡りなかったかな。",
     ""),
     # And I think Hou's consideration wasn't something to be considered.
 
-    ("せめて烽もう少し、琴音ち痰ゃんに話を振って竄やればよかったか。◯",
+    ("せめて烽もう少し、琴音ち痰ゃんに話を振ってやればよかったか。◯",
     ""),
     # I should have at least talked about Kotone Chisho-chan and tampered with it.◯
 

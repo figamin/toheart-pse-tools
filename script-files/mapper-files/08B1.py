@@ -2,7 +2,7 @@
 # Source file: 08B1.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	いっし蛯ょに帰驪る）閨（下駄箱）†",
+    ("（戟レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	いっしょに帰驪る）閨（下駄箱）†",
     ""),
     # (Game Remy Scale Event 1st Floor 3 LV2) (Choices Return to Isshichieko) (Shoe cabinet)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "That's fine."
 
-    ("「竅やったぁ」†",
+    ("「やったぁ」†",
     ""),
     # "I did it" †
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # Their i-talk was quite high.†
 
-    ("「戟レミィんちって、けっこー裕泓福なんだｂ？」",
+    ("「戟レミィんちって、けっこー裕泓福なんだ？」",
     ""),
     # "Is Karemy's pretty Yuuufu b?"
 
-    ("たしか、戟レミィのモ父さんは貿易会社の社長を竄やってて、けっこーでかいｉ社を揩持ってたはずだ。",
+    ("たしか、戟レミィのモ父さんは貿易会社の社長をやってて、けっこーでかいｉ社を揩持ってたはずだ。",
     ""),
     # I'm sure that Moda from Wake Remy was tampering with the president of a trading company and had a huge company called I.
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "I don't really understand this, but right now, D≠aрd's tuna is going well..."
 
-    ("「お前んちにア激レ、いる？」",
+    ("「お前んちにアレ、いる？」",
     ""),
     # "Are you grossing at your house?"
 
-    ("「ア激レって？」",
+    ("「アレって？」",
     ""),
     # "What's that so intense?"
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Yeah. I'm here."
 
-    ("磨当たり前のように、戟レミィはうなずいた。",
+    ("当たり前のように、戟レミィはうなずいた。",
     ""),
     # As if to be expected, Karemi nodded.
 
-    ("オ激レにとっては全然桝当たり前じ痰ゃないけど。†",
+    ("オレにとっては全然桝当たり前じ痰ゃないけど。†",
     ""),
     # For me, it's just a normal phlegm.†
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "What type of thing is that?"
 
-    ("きっと、エプ鴻ロンとほうきが翌似㍽合う、パツキンの≠メイドさんってノ潟リだｂう。",
+    ("きっと、エプ鴻ロンとほうきが翌似㍽合う、パツキンの≠メイドさんってノリだう。",
     ""),
     # I'm sure Ephonron and broom are the same as the next one, and Patskin's maid is no match for them.
 
-    ("「ク泣ルスの、何年か前に出たｂモデ泣ルだｃ」",
+    ("「クルスの、何年か前に出たモデルだｃ」",
     ""),
     # "It's a b model cry that came out a few years ago, c."
 
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # An unexpected answer came back.
 
-    ("「ク泣ルス…って、あのｗ栖瑞エ激レクト鴻ロニクスの？	パツキンじ痰ゃねーの？」†",
+    ("「クルス…って、あのｗ栖瑞エレクト鴻ロニクスの？	パツキンじ痰ゃねーの？」†",
     ""),
     # "Cry... what is that lol Suzuri Era's super rectangular Koronics? Doesn't he have any phlegms?" †
 
-    ("「パツキン、瘁違うｃ。家のはブ泣ルネットなの」",
+    ("「パツキン、瘁違うｃ。家のはブルネットなの」",
     ""),
     # "Putskin, it's not c. The house is a slutty cry."
 
-    ("「ブ泣ルネット？	なにそれ？」",
+    ("「ブルネット？	なにそれ？」",
     ""),
     # "Splash Net? What is that?"
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Karemi was in trouble.
 
-    ("どう竄やら、冝日本齧語でうまく烽説明できないらしい。†",
+    ("どうやら、冝日本齧語でうまく烽説明できないらしい。†",
     ""),
     # Apparently, it seems that it is difficult to explain things like tampering with Japanese bitters.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # And so the hot ones too
 
-    ("「пｄ≠ａ窒ｒ汲ｋ	ａｂ窒ｒ盾ｏ翌ｗ獅ｎの髪なの」",
+    ("「пｄ≠ａ窒ｒ汲駆	ａ窒ｒ盾ｏ翌ｗ獅ｎの髪なの」",
     ""),
     # "пd≠a nitrogen pump, ab nitrogen shield, the next lol lion's hair."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Anyway, I tried to say it in English.
 
-    ("「ダークブ宴ラウン…。はいはい、こげモ茶色ね。…で烽もそれって、冝日本人？」",
+    ("「ダークブラウン…。はいはい、こげモ茶色ね。…で烽もそれって、冝日本人？」",
     ""),
     # "Dark Bread Feast Round... Yes, yes, it's dark brown... And is that a Japanese person too?"
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "It's not shaking.
 
-    ("ａ高ｍｂ窒ｒ奄ｉモｃ≠ａ獅ｎなの」†",
+    ("ａ高ｍ窒ｒ奄ｉモｃ≠ａ獅ｎなの」†",
     ""),
     # A high mb nitrogen Amaimo C≠A lion」†
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Hmm.
 
-    ("わざ墲わざ冾日本の≠メーカーのを使寬わなくて烽も、ア＜メ潟リカにだって汲結構すごいのがそｂってるだｂ？」",
+    ("わざ墲わざ冾日本の≠メーカーのを使寬わなくて烽も、ア＜メリカにだって汲結構すごいのがそってるだ？」",
     ""),
     # They don't use Japan's manufacturers, so they're pretty incredible, even in America, they're b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b”
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "It's true that there's an image that seems to be of poor quality in the foreign minister's electrical appliances."
 
-    ("…い竄や、冝日本が良すぎるのか。†",
+    ("…いや、冝日本が良すぎるのか。†",
     ""),
     # ...Is it too good to be tampered with, is Japan too good?†
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "He's a hard worker"
 
-    ("「うら竄やましいよなー」",
+    ("「うらやましいよなー」",
     ""),
     # "I'm jealous of you."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "Do you want a maid? Why?"
 
-    ("「オ激レんち、ほとんど誰熬もいねーし。誰か掃恆除とか、飯剥ったりとかしてくれると、普助かるんだよな」†",
+    ("「オレんち、ほとんど誰熬もいねーし。誰か掃恆除とか、飯剥ったりとかしてくれると、普助かるんだよな」†",
     ""),
     # "I'm a really tough guy, almost no one. If someone cleans up or removes food, it'll help to spread the word."
 

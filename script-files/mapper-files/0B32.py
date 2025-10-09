@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Okay, it's good" †
 
-    ("「とこｂで、今厓日が最終叝日謫よ」",
+    ("「とこで、今厓日が最終叝日謫よ」",
     ""),
     # "At this time, the last day is now the last day."
 
-    ("「增わかってる。今厓日こそはｌめるぜ」",
+    ("「わかってる。今厓日こそはｌめるぜ」",
     ""),
     # "I know. I'll be able to do it now."
 
@@ -47,7 +47,7 @@ text_array = [
     # I have no confidence in anything.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「お待たせ」",
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "Oh, @Tana. Let's start with phlegm."
 
-    ("オ激レは繧上薯を脱ぎ、足熨もとに置いた。†",
+    ("オレは繧上薯を脱ぎ、足熨もとに置いた。†",
     ""),
     # I took off the potatoes on top and put them on my feet.†
 
-    ("「セ潟リオ、グ鴻ローブ貸してくれ」",
+    ("「セリオ、グ鴻ローブ貸してくれ」",
     ""),
     # "Segata Rio, lend me your Ghoo Robe."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("セ潟リオはバッグからグ鴻ローブを取闔り出す。",
+    ("セリオはバッグからグ鴻ローブを取闔り出す。",
     ""),
     # Segata Rio pulls out his gukong robe from his bag.
 

@@ -18,7 +18,7 @@ text_array = [
     ""),
     # @This is Suzumi-san.
 
-    ("なにをしているのか、またぼん竄やりと空をながめている。",
+    ("なにをしているのか、またぼんやりと空をながめている。",
     ""),
     # He peers at the sky again, gazing at what he is doing.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Maybe it's a sunbathing.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

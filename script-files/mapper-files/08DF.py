@@ -6,19 +6,19 @@ text_array = [
     ""),
     # (Good Remy Likeability Event PS) (Select Sogo) †
 
-    ("「オ激レは撃レミィに義搴理はたっぷりあるからな。",
+    ("「オレは撃レミィに義搴理はたっぷりあるからな。",
     ""),
     # "I'm a geisha, so there's plenty of sensibility to Ekiremi.
 
-    ("もちｂん行くぜ」",
+    ("もちん行くぜ」",
     ""),
     # Let's go for it."
 
-    ("オ激レはうなずいた。†",
+    ("オレはうなずいた。†",
     ""),
     # I nodded.†
 
-    ("「うんっ、きっとお烽もしｂいｃ」",
+    ("「うんっ、きっとお烽もしいｃ」",
     ""),
     # "Yeah, I'm sure it's a bc."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Ekimi is overwhelmed.
 
-    ("「んじ痰ゃ、あかりとかｉ史とか誘って烽もいいだｂ？」",
+    ("「んじ痰ゃ、あかりとかｉ史とか誘って烽もいいだ？」",
     ""),
     # "Is it okay to invite people like red and i-hisa, and then have a hot spring?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "...Sorry. I want you to be the one who's special now on the day." †
 
-    ("「オ激レだけ？」",
+    ("「オレだけ？」",
     ""),
     # "Are you just a cruel?"
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # Plus, it looks kind of embarrassing.
 
-    ("…まさか、家族にオ激レを『未沫のダンナ様デ〜ス』とか紹譓介するんじ痰ゃねえだｂーな！？†",
+    ("…まさか、家族にオレを『未沫のダンナ様デ〜ス』とか紹譓介するんじ痰ゃねえだーな！？†",
     ""),
     # ...I can't believe it's a shame that I'll be introducing my family to "Unsplashed Husband"!?†
 
-    ("「いいでし蛯ょ？」",
+    ("「いいでしょ？」",
     ""),
     # "Is that okay?"
 
-    ("戟レミィに聞かれ、オ激レは、",
+    ("戟レミィに聞かれ、オレは、",
     ""),
     # When asked by Remy, I was
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "I'm not going to take it all. How long has it been since?"
 
-    ("增わりとあっさり嘯答えた。",
+    ("わりとあっさり嘯答えた。",
     ""),
     # He answered with a quick response.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Waving happily, Karemi returned to the classroom.
 
-    ("オ激レだけにｗて欲しいといった盾ワケって、いったい何なんだｂう…。◯",
+    ("オレだけにｗて欲しいといった盾ワケって、いったい何なんだう…。◯",
     ""),
     # What exactly is the shield that I want because I'm a big fan? B...◯
 

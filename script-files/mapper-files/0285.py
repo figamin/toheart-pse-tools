@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri° Kaku, Scales, 2F, LV2) Li (Select Sou A, Get a Fortune Telling)†
 
-    ("「そんじ痰ゃ、ま、ひとつよｂしく鰍頼まぁ」",
+    ("「そんじ痰ゃ、ま、ひとつよしく鰍頼まぁ」",
     ""),
     # "That's all, phlegm, well, I'll just go for it, chrysanthemum."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "I'm not here, I'm not here. It's warm and warm."
 
-    ("オ激レは春の陽射しがまぶしい汲窓際の席へと手招きした。",
+    ("オレは春の陽射しがまぶしい汲窓際の席へと手招きした。",
     ""),
     # I beckoned to my seat by the window, dazzling with the spring sun.
 
@@ -35,7 +35,7 @@ text_array = [
     # The dry spring lily style fluttered the hems of Senpai's hair and skirt.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「どうかした？	えっ？	浴風があるとカードが飛んじ痰ゃうって？	そうか、そうだよな。",
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # Slurp, close the window."
 
-    ("カ宴ラカ宴ラ…ぴし痰ゃ。†",
+    ("カラカラ…ぴし痰ゃ。†",
     ""),
     # A banquet... a phlegm.†
 
-    ("「…これでいいだｂ？」",
+    ("「…これでいいだ？」",
     ""),
     # "...Is this okay b?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Ah, yes, here."
 
-    ("オ激レはイスを引き、諱先輩を座迯らせた。†",
+    ("オレはイスを引き、諱先輩を座迯らせた。†",
     ""),
     # I pulled out the chair and let my senior name sit.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Flat...flat...
 
-    ("諱先輩のほっそりとしな竄やかな指が、カードを一㊧枚ずつめくっていく。",
+    ("諱先輩のほっそりとしなやかな指が、カードを一㊧枚ずつめくっていく。",
     ""),
     # Senpai's slender, slender fingers flip through the cards one by one.
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # A mysterious atmosphere begins to waft into the quiet classroom, where no one is greeted.
 
-    ("オ激レはぼん竄やりと先輩の手つきに見とれていた。",
+    ("オレはぼんやりと先輩の手つきに見とれていた。",
     ""),
     # My heart was captivated by the senior's hand and the way he used to do it.
 
-    ("竅やがて、閨占いが終尞わる。†",
+    ("やがて、閨占いが終尞わる。†",
     ""),
     # Eventually, the fortune telling will end.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "What do you think? Senior Faith??"
 
-    ("オ激レは先輩の顔をのぞきこんで聞いた。",
+    ("オレは先輩の顔をのぞきこんで聞いた。",
     ""),
     # I asked, peering into my senior's face.
 
@@ -103,7 +103,7 @@ text_array = [
     # Eyes meet the number.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「なになに？	えっ、金運が繧上昇？	へえ、いまは烽金㈲欠だかんな、そり痰ゃ浮助かるぜ」†",
@@ -111,7 +111,7 @@ text_array = [
     # "What? What? What, my financial luck is rising? Wow, I don't have a lot of money right now, and I'll save you from the phlegm." †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「で烽も友だち関係によくない宸兆候？	とくに親しい友人に対しては気をつかうようにと」",
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # Hmm, I think this is Shiho's thing.
 
-    ("「增わかった、気を付けるぜ」†",
+    ("「わかった、気を付けるぜ」†",
     ""),
     # "Okay, take care" †
 
@@ -131,10 +131,10 @@ text_array = [
     # Senpai cleared out the cards on the table and stood up.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("そして、オ激レになに竄やら手渡す。",
+    ("そして、オレになにやら手渡す。",
     ""),
     # And then I handed over something to him.
 
@@ -143,10 +143,10 @@ text_array = [
     # "What is this?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ、アミャ激レット？	ああ、お守闔りか。さんき繧ゅっ。",
+    ("「えっ、アミャレット？	ああ、お守闔りか。さんき繧ゅっ。",
     ""),
     # "What, Amyaretto? Ah, a charm. Thoughts.
 
@@ -155,14 +155,14 @@ text_array = [
     # I'll cherish it!”†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩の頬が少し赤逅らんで見えたのは、照齒れていたせいだｂうか、それと烽も射し桙込む光が映ったからだｂうか。",
+    ("諱先輩の頬が少し赤逅らんで見えたのは、照齒れていたせいだうか、それと烽も射し桙込む光が映ったからだうか。",
     ""),
     # I could see Senpai's cheeks slightly red and slightly glare because it was shining on me, or because the light shining on me was reflected b.
 
-    ("諱先輩に烽もらったお守闔りは、梶穴の開いた蛯大搗理石にひ烽もを通した綺淏麗なペンダントだった。◯",
+    ("諱先輩に烽もらったお守闔りは、梶穴の開いた大搗理石にひ烽もを通した綺淏麗なペンダントだった。◯",
     ""),
     # The charm that I received from my Senpai Senpai was a beautiful pendant with a large spurt with a kaji-hole filled with a hot hole.◯
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # "Oh, I can't believe that!"
 
-    ("なんとオ激レは一怦万円札を拾ってしまった。",
+    ("なんとオレは一怦万円札を拾ってしまった。",
     ""),
     # I finally got a 10,000 yen bill.
 
-    ("「竅やったぜ先輩！	蛛大桝当たりだぜっ翌＠」",
+    ("「やったぜ先輩！	蛛大桝当たりだぜっ翌＠」",
     ""),
     # "I did it, Senpai! I got the big stove, the next day @"
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "Hi phlegm!"
 
-    ("嬉しさのあまりガッツポーズをとるオ激レは、幸運の翌女神がくれたお守闔りに、感謝の気搴持ちを桙込めて福口づけした。",
+    ("嬉しさのあまりガッツポーズをとるオレは、幸運の翌女神がくれたお守闔りに、感謝の気搴持ちを桙込めて口づけした。",
     ""),
     # I was so happy that I took a lucky pose, and kissed my lucky kiss with a heartfelt sigh of gratitude at the amulet given me by the goddess of good fortune.
 
-    ("拾ったお烽金は交番に届けまし蛯ょう。◯",
+    ("拾ったお烽金は交番に届けましょう。◯",
     ""),
     # The picked up chicken money will be delivered to the police box.◯
 

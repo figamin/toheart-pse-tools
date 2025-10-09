@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Tomoko's 12th Likeability Event) (Continued after AB selection)†
 
-    ("なんだｂう、変な気分だ。",
+    ("なんだう、変な気分だ。",
     ""),
     # What a b, it feels strange.
 
-    ("心汾臓がモ激しく胸を打つ。",
+    ("心汾臓がモしく胸を打つ。",
     ""),
     # My heart pounds violently in my chest.
 
@@ -18,23 +18,23 @@ text_array = [
     ""),
     # The skeleton on my head also feels like it's pulmonary.
 
-    ("もしかして、オ激レ、緊張してんのか。",
+    ("もしかして、オレ、緊張してんのか。",
     ""),
     # Maybe I'm extremely nervous.
 
-    ("竅やがて、委員長はぎこちなく笑った。",
+    ("やがて、委員長はぎこちなく笑った。",
     ""),
     # Before long, the chairman laughed awkwardly.
 
-    ("「…な、なん竄や変な感じになって烽もうたな」†",
+    ("「…な、なんや変な感じになって烽もうたな」†",
     ""),
     # "...What, what kind of tampering and weird feeling, I've been feeling so hot."
 
-    ("「で、結局どうなんだ？	瘁例のう墲わさはあくまでただのう墲わさなんだｂ？」",
+    ("「で、結局どうなんだ？	瘁例のう墲わさはあくまでただのう墲わさなんだ？」",
     ""),
     # "So, what's going on in the end? Is this just a slut b?"
 
-    ("「磨当然竭や。そんなことしてる暇あるかいな」",
+    ("「当然竭や。そんなことしてる暇あるかいな」",
     ""),
     # "Of course it's a stove. Do you have time to do that?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Is that so..."
 
-    ("そのはっきりとした嘯答えに、オ激レはほっと胸をなで下奄した。†",
+    ("そのはっきりとした嘯答えに、オレはほっと胸をなで下奄した。†",
     ""),
     # At this clear answer, my heart stroking down in relief.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Oh.
 
-    ("どーせ、そんなこったｂーと思ったぜ。",
+    ("どーせ、そんなこったーと思ったぜ。",
     ""),
     # I thought that was a bit of a thing anyway.
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # After all, it's only true that information about Shiho's stomping is nothing more than information about Shiho's stomping.
 
-    ("′諟情報熾もいい加減にしｂってんだ。",
+    ("′諟情報熾もいい加減にしってんだ。",
     ""),
     # 'The information on the archetype is also sloppy.
 
-    ("（オ激レ焜内箔部	志保	信叶頼度−１）†",
+    ("（オレ焜内箔部	志保	信叶頼度−１）†",
     ""),
     # (Our internal foil section Shiho Nobukana Reliability -1)†
 
-    ("その繧後、オ激レは委員長を駅まで翌送った。†",
+    ("その繧後、オレは委員長を駅まで翌送った。†",
     ""),
     # After that, I sent the chairman to the station the next day.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Ah, I've waited."
 
-    ("オ激レは呼び止めた。†",
+    ("オレは呼び止めた。†",
     ""),
     # I called out.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "...What does that mean?"
 
-    ("「案外身近なとこｂに運命の鰍相闡手がいるか烽もしれねーってこと」",
+    ("「案外身近なとこに運命の鰍相闡手がいるか烽もしれねーってこと」",
     ""),
     # "It's a bit like that, perhaps, there's a fateful monkey in a place that's surprisingly close to me."
 
@@ -138,19 +138,19 @@ text_array = [
     ""),
     # "Ah, I've waited!"
 
-    ("「…なん竄やの？」†",
+    ("「…なんやの？」†",
     ""),
     # "...What is it tampering?"
 
-    ("「もし、帰闍りが遅くて家を閉め出されたら、本末当にオ激レんとこｗいよ。",
+    ("「もし、帰闍りが遅くて家を閉め出されたら、本末当にオレんとこｗいよ。",
     ""),
     # "If I was late to go home and I was able to close my house, I'd be really upset at the end of the day.
 
-    ("泊めて竄やんぜ」",
+    ("泊めてやんぜ」",
     ""),
     # I'll just stay there and tamper with it."
 
-    ("「…增わかった。じ痰ゃ」",
+    ("「…わかった。じ痰ゃ」",
     ""),
     # "...I understand. I'll give you some phlegm."
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # Thanks to this, I feel like the next distance between me and the chairman has come a lot closer.
 
-    ("こんな夜にばったり出初えた幸運を、オ激レは目に見えないなにかに感謝した。◯",
+    ("こんな夜にばったり出初えた幸運を、オレは目に見えないなにかに感謝した。◯",
     ""),
     # I was grateful for the good fortune of having come out on such a night.◯
 

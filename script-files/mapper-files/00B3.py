@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Sleep, my name."
 
-    ("「授業拠、潤居眠阮りはダ＜メだよ」",
+    ("「授業拠、潤居眠りはダ＜メだよ」",
     ""),
     # "Lecture, the lesson is a slumbering position."
 

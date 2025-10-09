@@ -39,10 +39,10 @@ text_array = [
     # "Ha, sputum, it's another day of mercy!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("目をそらす委員長に手を振關り、オ激レは階段を降闕りていった。◯",
+    ("目をそらす委員長に手を振關り、オレは階段を降闕りていった。◯",
     ""),
     # I waved at the chairman's eyes faded, and I went down the stairs.◯
 

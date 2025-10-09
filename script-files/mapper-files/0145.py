@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The second fence time is closed.
 
-    ("のどが奄渇いたので、自販機でカフェオ激レをモ買って飲んでいると…。",
+    ("のどが奄渇いたので、自販機でカフェオレをモ買って飲んでいると…。",
     ""),
     # My throat was thirsty, so I bought some Cafe au Exciting Lait from the vending machine and drank it...
 
@@ -26,20 +26,20 @@ text_array = [
     ""),
     # "Are you drinking jars?"
 
-    ("「おう、見闌り痰ゃ墲わかんだｂ」",
+    ("「おう、見り痰ゃ墲わかんだ」",
     ""),
     # "Oh, I can't help but understand the phlegm."
 
-    ("「あ、また、カフェオ激レだ」",
+    ("「あ、また、カフェオレだ」",
     ""),
     # "Ah, it's a cafe au lait again."
 
-    ("「いいだｂ、好きなんだから」",
+    ("「いいだ、好きなんだから」",
     ""),
     # "It's fine, I like you."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「なんだよ、お前熨もモ買って欲しいのか？」",
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "It's @Suizui-san."
 
-    ("オ激レたちの目の前を、梶相変﨑わらずぼ〜っとした感じのｗ栖瑞謳先輩が通闥りかかった。",
+    ("オレたちの目の前を、梶相変﨑わらずぼ〜っとした感じのｗ栖瑞謳先輩が通闥りかかった。",
     ""),
     # In front of our lively eyes, Kaji Ai Henzaki seemed to be in a daze lol. Senior Suzumi-san came to us.
 
@@ -70,19 +70,19 @@ text_array = [
     ""),
     # His long, loose, wave-like black hair was shaking smoothly with the next wind.†
 
-    ("オ激レは軽く手を繧上げてにっこりしたが、",
+    ("オレは軽く手を繧上げてにっこりしたが、",
     ""),
     # My heart lightly lifted my hands and smiled,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は、気づいたのか気づかなかったのか、無表﨣情のまま、なに烽もこたえず素通闥りしていった。",
     ""),
     # Whether he had noticed or not, Senpai Koto, continued to communicate without responding to anything.
 
-    ("どう竄やらｒ鋳に行くみたいだな。",
+    ("どうやらｒ鋳に行くみたいだな。",
     ""),
     # It seems like he's going to tame or get an R-cast.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Maybe they'll go to the hot springs in a hinata bastion.†
 
-    ("「竅やっぱりきれいだよねー」",
+    ("「やっぱりきれいだよねー」",
     ""),
     # "It's really beautiful, isn't it?"
 
@@ -98,23 +98,23 @@ text_array = [
     ""),
     # Akari said, muttering after seeing her senior's remorse.
 
-    ("「へえ、同性のお前から見て烽もキ激レーなのか、あのおｏ様は」",
+    ("「へえ、同性のお前から見て烽もキレーなのか、あのおｏ様は」",
     ""),
     # "Whoa, from the perspective of you, of the same sex, is it a bit of a slutty lee? That O-sama?"
 
-    ("「うん、そり痰ゃそうだよ。あのつ竄やつ竄やした髪の毛とか、すっごくうら竄やましいし」†",
+    ("「うん、そり痰ゃそうだよ。あのつやつやした髪の毛とか、すっごくうらやましいし」†",
     ""),
     # "Yeah, that's pretty phlegm. I'm so jealous of those tampering and tampering hair."
 
-    ("「なるほどなあ。たしかにキ激レーだよなぁ」",
+    ("「なるほどなあ。たしかにキレーだよなぁ」",
     ""),
     # "I see. It's certainly a fierce leek."
 
-    ("「ち痰ゃん烽もそう思うでし蛯ょ？」",
+    ("「ち痰ゃん烽もそう思うでしょ？」",
     ""),
     # "You think so too, do you think so?"
 
-    ("「トーゼンだｂ。だいたい男ってのは翌女以繹上に長い髪に憧齠れる烽もんなんだぜ」",
+    ("「トーゼンだ。だいたい男ってのは翌女以繹上に長い髪に憧齠れる烽もんなんだぜ」",
     ""),
     # "It's Tozen b. Most men are the ones who admire long hair from the next woman."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Oh, that's right" †
 
-    ("「そり痰ゃｒにはシ㏍ョート好きってрヤツ焜もいるだｂうけど、そんなрヤツで烽も竄やっぱキ激レーな長髪にはグッとくる烽もんさ」",
+    ("「そり痰ゃｒにはショート好きってрヤツ焜もいるだうけど、そんなрヤツで烽もやっぱキレーな長髪にはグッとくる烽もんさ」",
     ""),
     # "There are people who like to squeal, but those who are so squeals that they are so hot that they are so hot that they are so excited by their long hair that they are so crazy."
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # Akari nodded awkwardly as she played with her own trousers.†
 
-    ("少しして、あかりがオ激レに聞いてきた。",
+    ("少しして、あかりがオレに聞いてきた。",
     ""),
     # A little later, Akari asked me.
 
-    ("「ね、ち痰ゃん。ち痰ゃんはスト激レートの髪って好き？」",
+    ("「ね、ち痰ゃん。ち痰ゃんはストレートの髪って好き？」",
     ""),
     # "Hey, Chishou-chan. Do you like straight hair?"
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("「シ㏍ョートは？」",
+    ("「ショートは？」",
     ""),
     # "What about the Sydney?"
 

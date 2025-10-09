@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Akari is in the r"
 
-    ("「あかり烽もいっし蛯ょか。ち蛯ょうど腹熾も減ってるし、オ激レ焜も食うかね」†",
+    ("「あかり烽もいっしょか。ちょうど腹熾も減ってるし、オレ焜も食うかね」†",
     ""),
     # "Are you gonna have a red hot spring? My thrill is getting less and I'll eat a lot of my thrill too."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Ah, yes. Thank you, Shiho...huh? Ah, sphemy?"
 
-    ("あかりはオ激レがいっし蛯ょだと気づくと、驚いた顔でそう言った。",
+    ("あかりはオレがいっしょだと気づくと、驚いた顔でそう言った。",
     ""),
     # Akari said with a surprise expression when she realized that she was a ecstasy.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # ・†
 
-    ("それぞれ高注文の品をト激レイにのせて、オ激レたちは二階へｌかった。",
+    ("それぞれ高注文の品をトレイにのせて、オレたちは二階へｌかった。",
     ""),
     # Each of them placed high-order items on the tage leis, and the others headed second floor.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "'Let's do this."
 
-    ("そう言うと、ト激レイを揩持っていない志保が手℃早く席にｒいた。†",
+    ("そう言うと、トレイを揩持っていない志保が手℃早く席にｒいた。†",
     ""),
     # With that in mind, Shiho, who hadn't been holding Togeki Rei, went into his seat early.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Shiho recommends seating on the side of his own.
 
-    ("オ激レとあかりがｍ會高ｺ奄すと、志保は愛用のバッグから缶ジャースを取闔り出した。†",
+    ("オレとあかりがｍ會高ｺ奄すと、志保は愛用のバッグから缶ジャースを取闔り出した。†",
     ""),
     # When Igere and Akari went to Mkai Takako Amami, Shiho picked up a can of jars from his favorite bag.†
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Yeah, thank you."
 
-    ("「なんだよ、お前迹らド潟リンクは鰍頼まねえのかと思ったら、ち痰ゃっかり用意してたのか」†",
+    ("「なんだよ、お前迹らドリンクは鰍頼まねえのかと思ったら、ち痰ゃっかり用意してたのか」†",
     ""),
     # "What is it? I thought you didn't order Dogata Link, but did you have a little sputum ready?"
 
-    ("「この福方が好きな烽ものが飲めていいじ痰ゃん」",
+    ("「この方が好きな烽ものが飲めていいじ痰ゃん」",
     ""),
     # "It's okay to drink something that I like this Fuku-money."
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "That shaking feeling is so shocking I'm intimidated..."
 
-    ("オ激レは苦笑しつつ、ハンバーガーのｕみｎを開いた。",
+    ("オレは苦笑しつつ、ハンバーガーのｕみｎを開いた。",
     ""),
     # My gut-le smiled wryly and opened the hamburger umin.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Is it tasty? Chishunya?"
 
-    ("縺上目づかいにオ激レの顔を覗きこむあかり。",
+    ("縺上目づかいにオレの顔を覗きこむあかり。",
     ""),
     # Akari peers into my face with her eyes on her face.
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "Isn't it tasty?"
 
-    ("「い竄や、まずくはねえな」",
+    ("「いや、まずくはねえな」",
     ""),
     # "It's not a mess, it's not a problem."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # When I pulled it with my private teeth, I ended up coming out of all the Tomaribu.
 
-    ("たった二茁口でｋが無くなってしまい、残ったのはステーキソースの染みたパンだけ…。†",
+    ("たった二茁口で駆が無くなってしまい、残ったのはステーキソースの染みたパンだけ…。†",
     ""),
     # The K disappeared after just two mouths, and all that remains was bread soaked in steak sauce...†
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # Akari took out the n-napkins.
 
-    ("サンキャと受け取って福口を拭きながらｌい側を見骭る。",
+    ("サンキャと受け取って口を拭きながらｌい側を見骭る。",
     ""),
     # He took it as he was sunkya and wiped his Fukuguchi and looked at the side.
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "Look, talk conversation"
 
-    ("そう言って、オ激レとあかりを交互に指差す。",
+    ("そう言って、オレとあかりを交互に指差す。",
     ""),
     # With that in mind, I pointed alternately between me and Akari.
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # Akari Kao also looks suspiciously.†
 
-    ("志保の福方は鰍相変﨑わらずニコニコとこっちの竄やり取闔りを見物している。",
+    ("志保の方は鰍相変﨑わらずニコニコとこっちのやり取闔りを見物している。",
     ""),
     # Shiho's Fukukata is watching the tampering and interjecting with a smile, not even a swaying.
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # "Shiho, did you have something nice about it, and was there a hot spring?"
 
-    ("「嬉しい墲わよぉ。こう竄やって、〟仲むつまじいふたりを見てるとね」",
+    ("「嬉しい墲わよぉ。こうやって、〟仲むつまじいふたりを見てるとね」",
     ""),
     # "I'm so happy. I'm going to do this, and look at the two of you who are so crazy."
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # "???" †
 
-    ("「志保〜、梶頼むからオ激レたちを不安にさせないでくれよ」",
+    ("「志保〜、梶頼むからオレたちを不安にさせないでくれよ」",
     ""),
     # "Shiho, please, Kaji, so don't make us all worried."
 
@@ -290,11 +290,11 @@ text_array = [
     ""),
     # "What, me?"
 
-    ("き蛯ょとんとした顔で言うと、",
+    ("きょとんとした顔で言うと、",
     ""),
     # With a sly face,
 
-    ("「ゴ＜メンゴ＜メン。そーい竄や全然闡手ぇつけてなかった墲わね〜」",
+    ("「ゴ＜メンゴ＜メン。そーいや全然闡手ぇつけてなかった墲わね〜」",
     ""),
     # "Go<Mengo<Men. It's a tampering and you didn't even touch it at all."
 
@@ -310,15 +310,15 @@ text_array = [
     ""),
     # In the end, Shiho, who is a sputum batter, is just silent and smiling.
 
-    ("なにを聞いて烽もオ激レたちに烽もっとｉ話しｂと言うだけでちっと烽も要領を得ない。",
+    ("なにを聞いて烽もオレたちに烽もっとｉ話しと言うだけでちっと烽も要領を得ない。",
     ""),
     # What he asked, and even the hottest guys, he told me more about i-talks, but he couldn't get the temper into it.
 
-    ("あいつは何を考えているんだｂうか？",
+    ("あいつは何を考えているんだうか？",
     ""),
     # What is he thinking?
 
-    ("ますます志保のおかしさに≠磨きがかかったようなひとときだった。◯",
+    ("ますます志保のおかしさに≠きがかかったようなひとときだった。◯",
     ""),
     # It was a moment when Shiho's weirdness was getting even more refined.◯
 

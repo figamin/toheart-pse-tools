@@ -2,7 +2,7 @@
 # Source file: 0627.txt
 
 text_array = [
-    ("（マ泣ルチ	エンディング）閨（マ泣ルチがｗ磯翌驕j†",
+    ("（マルチ	エンディング）閨（マルチがｗ磯翌驕j†",
     ""),
     # (Makyu Ruchi Ending) (Makyu Ruchi is lol Isozuma's in the morning †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Well then.
 
-    ("マ泣ルチがｗ磯翌ﾌを待つとするか。†",
+    ("マルチがｗ磯翌ﾌを待つとするか。†",
     ""),
     # McDonald's cry lol Is it supposed to wait for Iso next?†
 
@@ -23,10 +23,10 @@ text_array = [
     # It's quite scattered.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱よし、客煖もｗ磯翌ｱとだし、ち蛯ょっとぐらい片づけておくか。Å",
+    ("諱よし、客煖もｗ磯翌ｱとだし、ちょっとぐらい片づけておくか。Å",
     ""),
     # Okay, the customers are lol, so I think I'll clean up a little.Å
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # Wow.
 
-    ("まあ、こんな烽もんだｂ。",
+    ("まあ、こんな烽もんだ。",
     ""),
     # Well, this is hot b.
 
-    ("おっ、もうそｂそｂ３０分だ。",
+    ("おっ、もうそそ３０分だ。",
     ""),
     # Oh, it's already 30 minutes.
 
-    ("あとはテ激レビで烽も見て待ってよう。Å",
+    ("あとはテレビで烽も見て待ってよう。Å",
     ""),
     # All that's left is to watch the hot air with a super TV drama.Å
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # After about 30 minutes, I went to the next day and it was over a stomp time.
 
-    ("なに竄やってんだか。Å",
+    ("なにやってんだか。Å",
     ""),
     # What are you doing to tamper with?Å
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # Ah, it must be hard to get bored...†
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying, crying...
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying, crying...
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Come on, @.†
 
-    ("オ激レは玄関に出て、電話をとった。",
+    ("オレは玄関に出て、電話をとった。",
     ""),
     # I got to the front door and got the phone.
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "Yes." †
 
-    ("受話嶸器を耳に魔当てて、最燕初に聞こえてきたのは、自動車が魔走髑る通闥りの雑音だった。",
+    ("受話嶸器を耳に魔当てて、最燕初に聞こえてきたのは、自動車が魔走る通闥りの雑音だった。",
     ""),
     # When I held the receiver's handset to my ear, the first thing I heard was the noise of a car stomping the demon.
 
-    ("どう竄やら公衆電話かららしい。",
+    ("どうやら公衆電話かららしい。",
     ""),
     # Apparently it's a public phone.
 
@@ -110,15 +110,15 @@ text_array = [
     ""),
     # "...Uhhhhh."
 
-    ("そんな、すすりモ泣く声。",
+    ("そんな、すすりモく声。",
     ""),
     # Such a crying cry.
 
-    ("「もし烽もし？	マ泣ルチだｂ？」",
+    ("「もし烽もし？	マルチだ？」",
     ""),
     # "What if you're you? You're crying b?"
 
-    ("オ激レは苦笑し、言った。†",
+    ("オレは苦笑し、言った。†",
     ""),
     # I said with a wry smile.†
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "What? Did you get lost on the road?"
 
-    ("オ激レが笑いながら言うと、",
+    ("オレが笑いながら言うと、",
     ""),
     # I laughed and said,
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # "Where are you now?"
 
-    ("「途湯の道を間瘧違えて、さまよってるうちに、けっき蛯ょく駅前に…」",
+    ("「途湯の道を間瘧違えて、さまよってるうちに、けっきょく駅前に…」",
     ""),
     # "As I wandered around the path of the air-trained bath, I finally got in front of the Ebijoku station..."
 
-    ("「增わかった、駅前だな。いまからそっち行くから、へんなрヤツについてったりしねーで、おとなしく待ってんだぞ」†",
+    ("「わかった、駅前だな。いまからそっち行くから、へんなрヤツについてったりしねーで、おとなしく待ってんだぞ」†",
     ""),
     # "Okay, it's in front of the station. I'm going there now, so I won't be following strange people, so I'll wait quietly."
 
@@ -162,27 +162,27 @@ text_array = [
     ""),
     # A squeal sound came from the receiver's lmao.
 
-    ("おおかた、おじぎで烽もして電話機におでこをぶつけたんだｂ。†",
+    ("おおかた、おじぎで烽もして電話機におでこをぶつけたんだ。†",
     ""),
     # Well, I was bowed and slammed my forehead on the phone.†
 
-    ("オ激レは電話を切髏ると、すぐに靴を嘯履いた。",
+    ("オレは電話を切髏ると、すぐに靴を嘯履いた。",
     ""),
     # I hung up the phone and immediately put on my shoes.
 
-    ("ったく、し蛯ょうがねーпヤツだな。",
+    ("ったく、しょうがねーпヤツだな。",
     ""),
     # It's a shame, it's not a slut.
 
-    ("道に迷って、メ泣きながら電話してくるなんて、いったいなにが最新型なんだか。",
+    ("道に迷って、メきながら電話してくるなんて、いったいなにが最新型なんだか。",
     ""),
     # What the latest version is that people get lost and call you crying?
 
-    ("ま、そんなとこがマ泣ルチ辜らしいってい竄やあ、マ泣ルチ辜らしいんだけど。",
+    ("ま、そんなとこがマルチ辜らしいっていやあ、マルチ辜らしいんだけど。",
     ""),
     # Well, that's what you're talking about, and it's like, that's what you're talking about.
 
-    ("オ激レは苦笑しながら家を出た。†",
+    ("オレは苦笑しながら家を出た。†",
     ""),
     # I left the house with a wry smile.†
 
@@ -194,15 +194,15 @@ text_array = [
     ""),
     # "Uhhh..."
 
-    ("さすが休匤日と烽もなるとにぎ竄やかだ。",
+    ("さすが休匤日と烽もなるとにぎやかだ。",
     ""),
     # As expected, the days of holiday and hot springs are also very tame.
 
-    ("オ激レはモ激しい人通闥りのなか、き蛯ょｂき蛯ょｂと見渡し、マ泣ルチを捜した。",
+    ("オレはモしい人通闥りのなか、きょきょと見渡し、マルチを捜した。",
     ""),
     # Amidst the intense communication of people, I looked around and searched for a cry of the slut.
 
-    ("竅やがて。†",
+    ("やがて。†",
     ""),
     # Finally.†
 
@@ -210,11 +210,11 @@ text_array = [
     ""),
     # "Aaaaahhhh!"
 
-    ("マ泣ルチのほうが先にオ激レを見つけた。",
+    ("マルチのほうが先にオレを見つけた。",
     ""),
     # Makkuruchi found me first.
 
-    ("ぼｂぼｂと涙を流しながら、蛛大きく両阯手を振ってｋけてくる。＠",
+    ("ぼぼと涙を流しながら、蛛大きく両手を振って駆けてくる。＠",
     ""),
     # As I shed tears, my eyes fluttering loudly and squealed.@
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "Ah, sorry!"
 
-    ("蛛大きな目から、ぼｂぼｂと蛯大粒の涙があふれていた。",
+    ("蛛大きな目から、ぼぼと大粒の涙があふれていた。",
     ""),
     # My big eyes were filled with large tears.
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # The baths look similar.†
 
-    ("「ったく、場鰹所が墲わかんねーなら、最燕初からそう言竚やあいいのにさ。こうしてすぐ迎えにｗて竄やるんだから」",
+    ("「ったく、場鰹所が墲わかんねーなら、最燕初からそう言竚やあいいのにさ。こうしてすぐ迎えにｗてやるんだから」",
     ""),
     # "If you really don't know what the bonito spot is, then that's fine from the very beginning. I'll pick you up right away lol and tamper with it."
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "It's okay, it's okay. I don't think it's a nuisance....More than that, you see, your nose is on the surface."
 
-    ("オ激レがティッシャを手渡すと、",
+    ("オレがティッシャを手渡すと、",
     ""),
     # When Ikere handed me the tissue,
 
@@ -262,31 +262,31 @@ text_array = [
     ""),
     # "...Yes, sorry."
 
-    ("マ泣ルチは、チーンッと鼻武をかんだ。％",
+    ("マルチは、チーンッと鼻武をかんだ。％",
     ""),
     # McDonald's nose suddenly blew.%
 
-    ("「…ううっ、これが烽もしセ潟リオさんだったら、竅絶対こんなふうには迷ったりしないのですが」",
+    ("「…ううっ、これが烽もしセリオさんだったら、絶対こんなふうには迷ったりしないのですが」",
     ""),
     # "...Uhh, if this were Segata Rio, I would never have been confused about this."
 
-    ("マ泣ルチは申し訳なさそうに言った。",
+    ("マルチは申し訳なさそうに言った。",
     ""),
     # McDruch said apologeticly.
 
-    ("「そうい竄や、たしかセ潟リオのほうは人工衛星からのナビが使えるんだったな」†",
+    ("「そういや、たしかセリオのほうは人工衛星からのナビが使えるんだったな」†",
     ""),
     # "You know, I think Sergata Rio can use navigation from an artificial satellite."
 
-    ("「はい、道に迷ったりなんか竄絶対にしないんです。なのに、增わたしは…」",
+    ("「はい、道に迷ったりなんか絶対にしないんです。なのに、わたしは…」",
     ""),
     # "Yes, I never get lost or do anything about it. But I'm..."
 
-    ("オ激レは苦笑し、ぽんっとマ泣ルチの頭に手を置いた。†",
+    ("オレは苦笑し、ぽんっとマルチの頭に手を置いた。†",
     ""),
     # I smiled wryly and placed my hand on Ruchi's head.†
 
-    ("「他人とくらべて自分はどうだとか、そんな意味のないことは竄やめるんだな。そ烽もそ烽も、增わざ墲わざお礼にｗ域翌､と思うのが、マ泣ルチのいいとこｂじ痰ゃないか」",
+    ("「他人とくらべて自分はどうだとか、そんな意味のないことはやめるんだな。そ烽もそ烽も、わざ墲わざお礼にｗ域翌､と思うのが、マルチのいいとこじ痰ゃないか」",
     ""),
     # "I'm not going to tamper with anything meaningless, like how you're doing compared to others. I think that both you and me are both deliberately thankful for the next day lol. I think that the best part of the crying is that no phlegm is b.
 
@@ -294,19 +294,19 @@ text_array = [
     ""),
     # "…picture?"†
 
-    ("「オ激レは、マ泣ルチはマ泣ルチで竄やっぱり最新型だと思うぜ」",
+    ("「オレは、マルチはマルチでやっぱり最新型だと思うぜ」",
     ""),
     # "I think I'm the latest model, after all."
 
-    ("「…ありがとうございます。うれしいです。そう言っていただけると、增わたし｢｢」",
+    ("「…ありがとうございます。うれしいです。そう言っていただけると、わたし｢｢」",
     ""),
     # "...Thank you. I'm happy. If you said that, I'd say, ""
 
-    ("オ激レはくすっと笑う。†",
+    ("オレはくすっと笑う。†",
     ""),
     # My heart chuckles.†
 
-    ("「とこｂでその桙服、浴似㍽合ってるぜ」",
+    ("「とこでその桙服、浴似㍽合ってるぜ」",
     ""),
     # "The fox clothes are in the bath at the b-like point."
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "...Ah, yes."
 
-    ("オ激レが言うと、マ泣ルチは唐遠慮がちにｒへと入ってきた。",
+    ("オレが言うと、マルチは遠慮がちにｒへと入ってきた。",
     ""),
     # When I said that, Makruchi tended to hesitate to enter the r.
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # As soon as I entered the entrance, my eyes widened and I looked around.♂
 
-    ("「…增わあ、ここがさんのお家ですかー」",
+    ("「…わあ、ここがさんのお家ですかー」",
     ""),
     # "...Wow, is this the house?"
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # My dream is to work at a house like this one day."
 
-    ("マ泣ルチはにっこり笑ってそう言った。",
+    ("マルチはにっこり笑ってそう言った。",
     ""),
     # Makkuruchi said with a smile.
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # "I see, is it a dream?"
 
-    ("マ泣ルチは高ロボットなのに夢があるのか。＞",
+    ("マルチは高ロボットなのに夢があるのか。＞",
     ""),
     # Even though Makkuruchi is a high robot, does she have a dream?>
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # "What!? Is it true?!"
 
-    ("「ああ、本末当さ。あ、そうだ。マ泣ルチが正式に発粕рｳれたら、多少無摶理言ってで烽もモ買って烽もらうとするか」",
+    ("「ああ、本末当さ。あ、そうだ。マルチが正式に発粕рｳれたら、多少無摶理言ってで烽もモ買って烽もらうとするか」",
     ""),
     # "Ah, that's right. Oh, that's right. If Makruchi officially spurts her kasu, I'll just say it a little without saying that, and buy some roe and get some roe."
 
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # "Mr. Miss…"†
 
-    ("ソファーにｍ會高ｺ奄し、マ泣ルチに烽も勧めた。",
+    ("ソファーにｍ會高ｺ奄し、マルチに烽も勧めた。",
     ""),
     # He also recommended the sofa to the sofa and Kara to the mum.
 
@@ -422,11 +422,11 @@ text_array = [
     ""),
     # "Don't stand there, sit there.
 
-    ("疲齡れただｂ？」",
+    ("疲齡れただ？」",
     ""),
     # Have you tired?”
 
-    ("だが、マ泣ルチは笑迴顔で首を横に振髏ると、",
+    ("だが、マルチは笑迴顔で首を横に振髏ると、",
     ""),
     # However, Makruchi shook his head with a laughing face.
 
@@ -446,11 +446,11 @@ text_array = [
     ""),
     # "What...?"℃
 
-    ("「昨厓日の帰闍り道に烽もお話ししたと思いますが、增わたし、さんにご恩返しがしたいんです。これまでの感謝の気搴持ちを、少しで烽もお返ししたくて、それで今厓日痘たんです。ですから、いまからしばらくは、さんのためだけに働かせてください」†",
+    ("「昨厓日の帰闍り道に烽もお話ししたと思いますが、わたし、さんにご恩返しがしたいんです。これまでの感謝の気搴持ちを、少しで烽もお返ししたくて、それで今厓日痘たんです。ですから、いまからしばらくは、さんのためだけに働かせてください」†",
     ""),
     # "I think I also talked about Hou on my way back last day, but I would like to repay him. I wanted to give him some thanks to him so far, and now I've had some chills. So, please let me work just for you for a while."
 
-    ("「オ激レのためだけに？」",
+    ("「オレのためだけに？」",
     ""),
     # "Just for my hard work?"
 
@@ -462,11 +462,11 @@ text_array = [
     ""),
     # "It's kind of bad"
 
-    ("マ泣ルチは再びにっこり笑迴顔をｂ浮かべると、",
+    ("マルチは再びにっこり笑迴顔を浮かべると、",
     ""),
     # McDonald's face was once again smiling,
 
-    ("「增わたし、いまから、さんの専用＠メイド鴻ロボットになりますっ」",
+    ("「わたし、いまから、さんの専用＠メイド鴻ロボットになりますっ」",
     ""),
     # "I'm going to become my special @Maid Korobot from now on."
 
@@ -474,11 +474,11 @@ text_array = [
     ""),
     # That's what I said.†
 
-    ("「オ、オ激レの専用＠メイド鴻ロボ？」",
+    ("「オ、オレの専用＠メイド鴻ロボ？」",
     ""),
     # "Oh, my special @Maid Korobo?"
 
-    ("「はい！	ですから唐遠慮なさらず、なんなりと艪御用をお申しつけくださいっ」",
+    ("「はい！	ですから遠慮なさらず、なんなりと御用をお申しつけくださいっ」",
     ""),
     # "Yes! So please don't hesitate to ask us to do your best."
 
@@ -486,11 +486,11 @@ text_array = [
     ""),
     # "...What, it somehow shines on me" ℃
 
-    ("「增わたし、もと烽もとただのお手伝い高ロボットですから、ご恩返しといって烽もこの程度しかできませんけど、で烽も、少しで烽もこの感謝の気搴持ちをお返ししたいんです」",
+    ("「わたし、もと烽もとただのお手伝い高ロボットですから、ご恩返しといって烽もこの程度しかできませんけど、で烽も、少しで烽もこの感謝の気搴持ちをお返ししたいんです」",
     ""),
     # "I'm just a robot that's a very helpful robot, so I can only give back to you, such as repaying your favor, but I would like to give back to you and even a little bit of your gratitude."
 
-    ("「諱よせよ、恩返しだなんて蛯大げさな…」＊",
+    ("「諱よせよ、恩返しだなんて大げさな…」＊",
     ""),
     # "You should give me your name, I'm going to give you a repay..." *
 
@@ -514,7 +514,7 @@ text_array = [
     ""),
     # Ah, it feels like one dream of life has come true.†
 
-    ("「諱よぉーしっ！	んじ痰ゃ、お言葉に甘えて、さっそくなにか竄やって烽もらうとするか」",
+    ("「諱よぉーしっ！	んじ痰ゃ、お言葉に甘えて、さっそくなにかやって烽もらうとするか」",
     ""),
     # "As you, yeah! I'll be spoiled by your words and immediately tamper with something to get you hot."
 
@@ -530,11 +530,11 @@ text_array = [
     ""),
     # "Yes, I'm insane!
 
-    ("…えっと、じ痰ゃあ、なにをｍ闕りまし蛯ょうか？」",
+    ("…えっと、じ痰ゃあ、なにをｍ闕りましょうか？」",
     ""),
     # ...Um, what are you talking about?”
 
-    ("「そうだな。マ泣ルチはなにがｍ鼾れるんだ？」＊",
+    ("「そうだな。マルチはなにがｍ鼾れるんだ？」＊",
     ""),
     # "That's right. What is it that makes you sniff?" *
 
@@ -558,7 +558,7 @@ text_array = [
     ""),
     # "And also, there's more ingredients..."
 
-    ("「あっ、增わりぃ。…そうい竄や、全然ねー竅や。カップ＜メンならあるけど」",
+    ("「あっ、わりぃ。…そういや、全然ねーや。カップ＜メンならあるけど」",
     ""),
     # "Ah, it's a bit...I'm not going to get into it, it's not a problem at all. There's a cup-men."
 
@@ -570,11 +570,11 @@ text_array = [
     ""),
     # "Yeah, what happened?"
 
-    ("オ激レは立ち繧上がって、キッチンのほうにｌかった。",
+    ("オレは立ち繧上がって、キッチンのほうにｌかった。",
     ""),
     # My slut stood up and came towards the kitchen.
 
-    ("「あっ、ごいっし蛯ょします」†",
+    ("「あっ、ごいっしょします」†",
     ""),
     # "Ah, I'll give you a peek"†
 
@@ -586,7 +586,7 @@ text_array = [
     ""),
     # Gacha.
 
-    ("竅冷蔵庫は烽もとより、片っ端から棚熬も開け、マ泣ルチといっし蛯ょに調べてみた。†",
+    ("冷蔵庫は烽もとより、片っ端から棚熬も開け、マルチといっしょに調べてみた。†",
     ""),
     # Not only did the fridges open, but I also opened the shelves from all over, and looked into them together with the cries.†
 
@@ -595,7 +595,7 @@ text_array = [
     # "Hmm..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「見膜事になんに烽もねーな」",
@@ -610,7 +610,7 @@ text_array = [
     ""),
     # Although we are at home, it is hard to believe that there are people living there.†
 
-    ("「調味料はいｂいｂありますけど」",
+    ("「調味料はいいありますけど」",
     ""),
     # "There are some seasonings, but."
 
@@ -618,7 +618,7 @@ text_array = [
     ""),
     # "Ah, that's the guy Akari..."
 
-    ("言いかけて竄やめた。",
+    ("言いかけてやめた。",
     ""),
     # I told him and stopped tampering.
 
@@ -630,7 +630,7 @@ text_array = [
     ""),
     # In the end, all we found were instant food chocks and canned foods.
 
-    ("「…增わざ墲わざカップ宴ラー＝メンロって烽もらうの烽もなんだしな」†",
+    ("「…わざ墲わざカップラー＝メンロって烽もらうの烽もなんだしな」†",
     ""),
     # "...It's not like the fact that you get a cup banquet, Menlo, is the hot spring."
 
@@ -638,7 +638,7 @@ text_array = [
     ""),
     # "Mr., Mr.."
 
-    ("そのとき、なに竄やらマ泣ルチがにこにこ顔でオ激レを呼んだ。",
+    ("そのとき、なにやらマルチがにこにこ顔でオレを呼んだ。",
     ""),
     # At that time, something was going on about, and I cried out, and I called out to me with a smile on my face.
 
@@ -658,11 +658,11 @@ text_array = [
     ""),
     # "Yes. I also found meat sauce."
 
-    ("「そうい竄や、そういうの烽もあったな」†",
+    ("「そういや、そういうの烽もあったな」†",
     ""),
     # "There were some tampering and such things too."
 
-    ("「じ痰ゃあ、これをおｍ闕りしまし蛯ょうか？」",
+    ("「じ痰ゃあ、これをおｍ闕りしましょうか？」",
     ""),
     # "Ah, I'll give you a sigh, is this a slut?"
 
@@ -670,7 +670,7 @@ text_array = [
     ""),
     # "That's right."
 
-    ("まっ、スパゲティーも料摎理というには単ヲ純だけど、カップ宴ラー＝メン諠よりはマシだ。",
+    ("まっ、スパゲティーも料摎理というには単ヲ純だけど、カップラー＝メン諠よりはマシだ。",
     ""),
     # Well, spaghetti is also pure to say that it is a fee-based method, but it's better than a cup-banquet ra (men's name).
 
@@ -682,11 +682,11 @@ text_array = [
     ""),
     # "Yes!" †
 
-    ("マ泣ルチはさっそく取闔りかかった。",
+    ("マルチはさっそく取闔りかかった。",
     ""),
     # Muruki-ruchi immediately began to get in touch.
 
-    ("腕まくりをして、オ激レの母親のエプ鴻ロンをつけ、轣鍋でお窒湯を沸かす。",
+    ("腕まくりをして、オレの母親のエプ鴻ロンをつけ、轣鍋でお窒湯を沸かす。",
     ""),
     # He rolls up his arms, puts on my mother, Ephonon, and boils some nitrogen water in a pot.
 
@@ -698,7 +698,7 @@ text_array = [
     ""),
     # "Yes, leave it to us!"
 
-    ("マ泣ルチは自信たっぷりの笑迴顔で言った。◯",
+    ("マルチは自信たっぷりの笑迴顔で言った。◯",
     ""),
     # Makruchi said with a confident smile.◯
 
@@ -723,11 +723,11 @@ text_array = [
     # ・≧
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「せんべい？」",
@@ -754,19 +754,19 @@ text_array = [
     ""),
     # "...Uhh, sorry!"
 
-    ("マ泣ルチのｍったスパゲティーは、パスタとパスタが焦げてくっついて、せんべいのようになっていた。",
+    ("マルチのｍったスパゲティーは、パスタとパスタが焦げてくっついて、せんべいのようになっていた。",
     ""),
     # The spaghetti that was soaked in the mushy luchi was burnt and stuck together, making it look like a rice cracker.
 
-    ("艨ゆでた段階でくっついていた烽ものを、十分に福油の引いてないフ宴ライパンで炒めた汲結果だ。†",
+    ("艨ゆでた段階でくっついていた烽ものを、十分に油の引いてないフライパンで炒めた汲結果だ。†",
     ""),
     # This is the result of frying the boiled food that had stuck together when boiled, in a fuen raipan that had not been thoroughly extracted with enough oil.†
 
-    ("さらに、あとからかけるだけでいいはずのミートソースを、いっし蛯ょに炒めて焦がし、見膜事なミートせんべいの出女医酪繧ｪりだった。",
+    ("さらに、あとからかけるだけでいいはずのミートソースを、いっしょに炒めて焦がし、見膜事なミートせんべいの出女医酪繧ｪりだった。",
     ""),
     # Furthermore, the meat sauce, which should only be poured later, was fryed and burned in a pair of savory savory meat rice crackers, making it a female doctor who served with a stunningly thick meat rice crackers.
 
-    ("オ激レはそれを箸でバ潟リバ潟リと食べた。†",
+    ("オレはそれを箸でバリバリと食べた。†",
     ""),
     # I ate it with my chopsticks.†
 
@@ -790,7 +790,7 @@ text_array = [
     ""),
     # However, the texture was pizza-like.†
 
-    ("「增わたし、じつはお料摎理逞らしいお料摎理って、ほとんど竄やったことがないんです」",
+    ("「わたし、じつはお料摎理逞らしいお料摎理って、ほとんどやったことがないんです」",
     ""),
     # "I've rarely tampered with the fee-based logic that is typical of the fee-based logic."
 
@@ -798,7 +798,7 @@ text_array = [
     ""),
     # "What?!"
 
-    ("「研結葛所のテストで少し竄やったていどで。…ううっ、″闕りかたの烽説明どおりにすれば、きっとうまくできると思ったんですが」",
+    ("「研結葛所のテストで少しやったていどで。…ううっ、″闕りかたの烽説明どおりにすれば、きっとうまくできると思ったんですが」",
     ""),
     # "I've just had to tamper with the test at Kenyukusho... Uh, I thought I would definitely be able to do well if I did as explained in the way I was told."
 
@@ -810,23 +810,23 @@ text_array = [
     ""),
     # "...Um, experience is important for those who are just simmering or stir-frying, right? There are some subtle tips for boiling and stir-frying, isn't it?"
 
-    ("「…す、すみません。…增わたし、まだ出女て間煌もなしで、いｂいｂと経験不足で…」†",
+    ("「…す、すみません。…わたし、まだ出女て間煌もなしで、いいと経験不足で…」†",
     ""),
     # "...S-Sorry....I'm still a woman and I'm not even in the middle of a big b-b-like experience..."†
 
-    ("「経験不足ねぇ。そういうプ鴻ログ宴ラムとかは最燕初から組まれてんじ痰ゃねーのか？」",
+    ("「経験不足ねぇ。そういうプ鴻ログラムとかは最燕初から組まれてんじ痰ゃねーのか？」",
     ""),
     # "I'm not very experienced. Is that the kind of Pholog banquet ram that has been formed from the very beginning to the end of the day?"
 
-    ("「香ロボットによっていｂいｂです。たまたま墲わたしは学習型なので…」",
+    ("「香ロボットによっていいです。たまたま墲わたしは学習型なので…」",
     ""),
     # "The incense robot makes me feel bad. I just happen to be a learning type because I'm a learning type..."
 
-    ("マ泣ルチは、ぐすっと鼻をすすった。†",
+    ("マルチは、ぐすっと鼻をすすった。†",
     ""),
     # McDonald's nose sniffed.†
 
-    ("「…ううっ、…これがセ潟リオさんだったら、きっと桙満足のいく、おいしいスパゲティーをｍっていたはずなのですが」",
+    ("「…ううっ、…これがセリオさんだったら、きっと桙満足のいく、おいしいスパゲティーをｍっていたはずなのですが」",
     ""),
     # "...Uhh... if this were Segata Rio, I'd be able to have some delicious spaghetti that would satisfy you."
 
@@ -834,11 +834,11 @@ text_array = [
     ""),
     # The lion has completely fallen.
 
-    ("し蛯ょうがねー。◯",
+    ("しょうがねー。◯",
     ""),
     # There's no essay.◯
 
-    ("オ激レは目を細めて微笑むと、",
+    ("オレは目を細めて微笑むと、",
     ""),
     # My eyes narrowed and smiled,
 
@@ -846,7 +846,7 @@ text_array = [
     ""),
     # "That's not true."
 
-    ("そう言って、マ泣ルチの頭に手を置いた。†",
+    ("そう言って、マルチの頭に手を置いた。†",
     ""),
     # He said that, placing his hand on Makruchi's head.†
 
@@ -854,7 +854,7 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("「それで烽もオ激レは十分桾満足さ。料摎理は味だけじ痰ゃないんだ。食べた人にｊんで烽もらいたいという気搴持ちが肝心なんだからさ」",
+    ("「それで烽もオレは十分桾満足さ。料摎理は味だけじ痰ゃないんだ。食べた人にｊんで烽もらいたいという気搴持ちが肝心なんだからさ」",
     ""),
     # "And so, I'm very satisfied with the taste and the taste of the food is enough. The key is to have a desire to get the food from the person who eats it."
 
@@ -862,11 +862,11 @@ text_array = [
     ""),
     # "…Mr. Miss"†
 
-    ("「マ泣ルチが一生恊懸命枕った手料摎理、オ激レにはとて烽もおいしく感じたぜ」",
+    ("「マルチが一生恊懸命枕った手料摎理、オレにはとて烽もおいしく感じたぜ」",
     ""),
     # "Makyuruchi tried so hard to keep his life, and I really enjoyed the hot food that I did."
 
-    ("オ激レはマ泣ルチの頭をなでた。",
+    ("オレはマルチの頭をなでた。",
     ""),
     # I stroked the head of the crying ruchi.
 
@@ -874,7 +874,7 @@ text_array = [
     ""),
     # "…,Mr. Miss"
 
-    ("マ泣ルチは頭をなでられるのが好きらしい。†",
+    ("マルチは頭をなでられるのが好きらしい。†",
     ""),
     # Apparently, Makruchi likes to be stroked on the head.†
 
@@ -886,7 +886,7 @@ text_array = [
     ""),
     # "...Yes, yes."
 
-    ("うなずくマ泣ルチの目が涙でにじんでいく。†",
+    ("うなずくマルチの目が涙でにじんでいく。†",
     ""),
     # Ma-cry's eyes blew with tears as they nodded.†
 
@@ -894,27 +894,27 @@ text_array = [
     ""),
     # "...Uh, uh, sir, ah, thank you..."
 
-    ("にじんだ涙が、ほｂりとこぼれた。",
+    ("にじんだ涙が、ほりとこぼれた。",
     ""),
     # Tears blew through me.
 
-    ("「っとに、マ泣ルチはモ泣き獅虫だなー」",
+    ("「っとに、マルチはモき獅虫だなー」",
     ""),
     # "Ahhh, murmurchi is a crying lionfish."
 
-    ("オ激レは優しくなで続けた。◯",
+    ("オレは優しくなで続けた。◯",
     ""),
     # I continued to stroke him gently.◯
 
-    ("その繧後、マ泣ルチは、縺後かたづけに始まり、家薗を掃恆除してくれた。",
+    ("その繧後、マルチは、縺後かたづけに始まり、家薗を掃恆除してくれた。",
     ""),
     # After that, the slumber started by shaking the slumber and then sweeped away the house.
 
-    ("ものすごい手際の良さで、こればっかりはオ激レ焜も感心した。",
+    ("ものすごい手際の良さで、こればっかりはオレ焜も感心した。",
     ""),
     # His incredible skill was also impressed by my extremely skilled work.
 
-    ("料摎理はと烽もかく、こと掃恆除することにかけては、マ泣ルチはエキスパートといっていい。＊",
+    ("料摎理はと烽もかく、こと掃恆除することにかけては、マルチはエキスパートといっていい。＊",
     ""),
     # It's also about the fact that it's a matter of scavenging, and when it comes to cleaning up, Makruchi can be called an expert.*
 
@@ -934,27 +934,27 @@ text_array = [
     ""),
     # The entrance glow is also...†
 
-    ("トイ激レ窿や翌風呂齪場にいたるまで、ぴかぴかになっている。",
+    ("トイレ窿や翌風呂齪場にいたるまで、ぴかぴかになっている。",
     ""),
     # It's shiny, from the toy cinema to the next bathhouse.
 
-    ("「ひ蛯ょー、すっげーな、まるで新品みたいに輝いてるぜ」",
+    ("「ひょー、すっげーな、まるで新品みたいに輝いてるぜ」",
     ""),
     # "Hi, that's amazing, it shines like new."
 
-    ("「氈次はどこを掃恆除しまし蛯ょうか？」",
+    ("「氈次はどこを掃恆除しましょうか？」",
     ""),
     # "Where will you clean up and remove the next one?"
 
-    ("マ泣ルチはまだまだ竄やる気梛満々だ。†",
+    ("マルチはまだまだやる気梛満々だ。†",
     ""),
     # Makkuruchi is still full of motivation.†
 
-    ("「竅やるなあ、マ泣ルチ」",
+    ("「やるなあ、マルチ」",
     ""),
     # "You're going to do it, mum-cry."
 
-    ("オ激レは心の底からそう言った。",
+    ("オレは心の底からそう言った。",
     ""),
     # I said this from the bottom of my heart.
 
@@ -974,7 +974,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("「諱よしっ、もう一度ほめて竄やｂう」",
+    ("「諱よしっ、もう一度ほめてやう」",
     ""),
     # "All right, I'll praise you again."
 
@@ -994,15 +994,15 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("頭をなでて竄やると、マ泣ルチはいつ烽もこんなふうにぽーっと撃酔ったような顔になる。",
+    ("頭をなでてやると、マルチはいつ烽もこんなふうにぽーっと撃酔ったような顔になる。",
     ""),
     # When I stroked my head and sniffed, Makruchi always looked like he was drunk like this.
 
-    ("人間にｊばれ、ほめられるのが、マ泣ルチにとって最ｍ高の幸せだからだｂう。†",
+    ("人間にｊばれ、ほめられるのが、マルチにとって最ｍ高の幸せだからだう。†",
     ""),
     # Because being seen and praised by humans is the highest happiness for Makruchi.†
 
-    ("マ泣ルチが嬉しいと、オ激レ焜も嬉しい。",
+    ("マルチが嬉しいと、オレ焜も嬉しい。",
     ""),
     # When I was happy about Ruchi's crying, I was happy about him too.
 
@@ -1010,11 +1010,11 @@ text_array = [
     ""),
     # It's a virtuous cycle of happiness.†
 
-    ("それからマ泣ルチはその勢いのまま、階段竰や二階、オ激レの部屋まで烽も掃恆除してくれた。",
+    ("それからマルチはその勢いのまま、階段竰や二階、オレの部屋まで烽も掃恆除してくれた。",
     ""),
     # Then, Makruchi kept his momentum and wiped out all the hot springs, upstairs, and even my room.
 
-    ("そして汲昼過ぎには、もう掃恆除するとこｂがなくなってしまった。",
+    ("そして汲昼過ぎには、もう掃恆除するとこがなくなってしまった。",
     ""),
     # And by the afternoon, the place where I had to clean and remove it had already disappeared.
 
@@ -1026,7 +1026,7 @@ text_array = [
     ""),
     # I'm starting to want it more and more.†
 
-    ("「家薗、見瘡違えるようにきれいになったぜ。サンキャな、マ泣ルチ」",
+    ("「家薗、見瘡違えるようにきれいになったぜ。サンキャな、マルチ」",
     ""),
     # "Iezono, you've become so beautiful that it makes you feel like you're feeling awkward. Smile, mum-cry."
 
@@ -1038,7 +1038,7 @@ text_array = [
     ""),
     # "I see.
 
-    ("やるように竄やり痰ゃここまできれいになる烽もんなんだな。感心するぜ」",
+    ("やるようにやり痰ゃここまできれいになる烽もんなんだな。感心するぜ」",
     ""),
     # If you tamper with it like you do it, you'll be able to make it look so beautiful.I'm impressed."
 
@@ -1046,7 +1046,7 @@ text_array = [
     ""),
     # "No, that's not..."
 
-    ("「諱よし、ごほうびを竄やｂう」",
+    ("「諱よし、ごほうびをやう」",
     ""),
     # "Okay, I'll give you a reward."
 
@@ -1058,7 +1058,7 @@ text_array = [
     ""),
     # "What do you like?"
 
-    ("オ激レが言うと、マ泣ルチは少し考えてから、竅やがて、恥ずかしそうに汲視諮をｌけた。≦",
+    ("オレが言うと、マルチは少し考えてから、やがて、恥ずかしそうに汲視諮をｌけた。≦",
     ""),
     # When I said that, Makruchi thought for a moment, and then he finally shyly asked to give the advice.≦
 
@@ -1114,7 +1114,7 @@ text_array = [
     ""),
     # "...Eh, uh, um, that's it, phlegm, please stroke it more."
 
-    ("「增わかった」†",
+    ("「わかった」†",
     ""),
     # "I understand" †
 
@@ -1166,15 +1166,15 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「これで少しはお役に立てたでし蛯ょうか？」",
+    ("「これで少しはお役に立てたでしょうか？」",
     ""),
     # "This has helped a little, is that a slut?"
 
-    ("「少しどこｂの話じ痰ゃねー諱よ。",
+    ("「少しどこの話じ痰ゃねー諱よ。",
     ""),
     # "You should talk a little about B, don't you have any phlegms?
 
-    ("大舞助かりだ。マ泣ルチがｗてくれて本末当によかったぜ」′",
+    ("大舞助かりだ。マルチがｗてくれて本末当によかったぜ」′",
     ""),
     # Daimai is a relief.I'm glad that Makruchi gave me lol"
 
@@ -1186,15 +1186,15 @@ text_array = [
     ""),
     # "It's more than enough."
 
-    ("「增わあ、諱よかった」†",
+    ("「わあ、諱よかった」†",
     ""),
     # "Ahhh, that's good" †
 
-    ("そ烽もそ烽もマ泣ルチは『恩返し恩返し』という烽ものの、オ激レ自身、そんな恩返しされるほどのことをした覚えはない。",
+    ("そ烽もそ烽もマルチは『恩返し恩返し』という烽ものの、オレ自身、そんな恩返しされるほどのことをした覚えはない。",
     ""),
     # Both the hot and hot springs are called "returning favors and giving back," but I personally don't remember doing anything that would be enough to repay such favors.
 
-    ("たしかに、♀ないとこを浮助けたり、掃恆除を手伝ったりして竄やったが、どれ烽もそう蛯大したことじ痰ゃない。",
+    ("たしかに、♀ないとこを浮助けたり、掃恆除を手伝ったりしてやったが、どれ烽もそう大したことじ痰ゃない。",
     ""),
     # It's true that he helped female cousins ​​float and clean up and remove them, but none of them have any major sputum.
 
@@ -1202,15 +1202,15 @@ text_array = [
     ""),
     # I did the above and got the hot water.†
 
-    ("で烽もマ泣ルチのрヤツ、この調子だと帰驪る桙時間間際まで、ずっと働き続けんじ痰ゃねーのか。",
+    ("で烽もマルチのрヤツ、この調子だと帰驪る桙時間間際まで、ずっと働き続けんじ痰ゃねーのか。",
     ""),
     # And the guy who is crying is also crying, but at this rate, he has to continue working until the time he is back home.
 
-    ("それはそれで嬉しいが、せっかくマ泣ルチが家にｗてるんだし、もっと有意義なことをしたい。",
+    ("それはそれで嬉しいが、せっかくマルチが家にｗてるんだし、もっと有意義なことをしたい。",
     ""),
     # That's a joy, but since Makkuruchi is at home, I want to do something more meaningful.
 
-    ("たとえば、いっし蛯ょにどこかへ遊びに出かけるとか。†",
+    ("たとえば、いっしょにどこかへ遊びに出かけるとか。†",
     ""),
     # For example, you might go out to play with the eschat.†
 
@@ -1218,7 +1218,7 @@ text_array = [
     ""),
     # That's right.
 
-    ("天気煖もいいし、いっち蛯ょ外へ繰闌り出すか。＞",
+    ("天気煖もいいし、いっちょ外へ繰り出すか。＞",
     ""),
     # The weather is nice, so I'll have to go outside.>
 
@@ -1230,7 +1230,7 @@ text_array = [
     ""),
     # "It's enough. Sankya."
 
-    ("オ激レはマ泣ルチの肩をたたいて言った。＄",
+    ("オレはマルチの肩をたたいて言った。＄",
     ""),
     # I said, tapping Makruchi's shoulder.／
 
@@ -1238,7 +1238,7 @@ text_array = [
     ""),
     # "But, it's still time for foxes..."
 
-    ("「だったらさ、オ激レといっし蛯ょにどこか遊びに出かけようぜ？」",
+    ("「だったらさ、オレといっしょにどこか遊びに出かけようぜ？」",
     ""),
     # "Well, then, why don't we go out somewhere together?"
 
@@ -1246,7 +1246,7 @@ text_array = [
     ""),
     # "Huh?" †
 
-    ("「このオ激レとデートしようぜ翌＠」",
+    ("「このオレとデートしようぜ翌＠」",
     ""),
     # "Let's go on a date with this guy, the next day @"
 
@@ -1266,15 +1266,15 @@ text_array = [
     ""),
     # "The weather is nice on the day right now, so I'm sure it'll be a fun date."
 
-    ("「さんが、增わたしとデート…」†",
+    ("「さんが、わたしとデート…」†",
     ""),
     # "Mr., on a date with me..."
 
-    ("「いいだｂ？	行こうぜ？」",
+    ("「いいだ？	行こうぜ？」",
     ""),
     # "Is it okay? Let's go?"
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
@@ -1282,11 +1282,11 @@ text_array = [
     ""),
     # "Ha, yes!
 
-    ("よｂこんでっ！」",
+    ("よこんでっ！」",
     ""),
     # Come on, yeah!”
 
-    ("マ泣ルチはこぼれるような笑迴顔で、元気諡よくうなずいた。◯",
+    ("マルチはこぼれるような笑迴顔で、元気諡よくうなずいた。◯",
     ""),
     # McDonald's face was filled with a smile, and nodded with a cheerful voice.◯
 
@@ -1302,7 +1302,7 @@ text_array = [
     ""),
     # Where shall we go?†
 
-    ("「マ泣ルチ」",
+    ("「マルチ」",
     ""),
     # "Mixed Ruchi"
 
@@ -1310,7 +1310,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("マ泣ルチはすでに烽もう、うれしさ１２０唐％といった感じだ。†",
+    ("マルチはすでに烽もう、うれしさ１２０％といった感じだ。†",
     ""),
     # The slumber was already feeling happy about 120%.†
 
@@ -1326,7 +1326,7 @@ text_array = [
     ""),
     # I got the answer that was exactly like I had imagined.†
 
-    ("「せっかくだから、マ泣ルチの行ったことないとこｂにしようぜ？	たとえば、どんな場鰹所へ行ったことないんだ？」",
+    ("「せっかくだから、マルチの行ったことないとこにしようぜ？	たとえば、どんな場鰹所へ行ったことないんだ？」",
     ""),
     # "Since we're going to do it, let's make it a place where Makruchi is a place that has never been to? For example, what kind of bonito spot have you ever been to?"
 
@@ -1346,7 +1346,7 @@ text_array = [
     ""),
     # The usual standard for dates is to see eisou paintings and amusement parks.
 
-    ("映謇画は…ち蛯ょっと痰違うな。",
+    ("映謇画は…ちょっと痰違うな。",
     ""),
     # The film is...the phlegm is different.
 
@@ -1362,15 +1362,15 @@ text_array = [
     ""),
     # "An amusement park...?"
 
-    ("「でっかい観頼覧車なんかがあってさ、凝ったアト宴ラクなんか竄やってて…」",
+    ("「でっかい観頼覧車なんかがあってさ、凝ったアトラクなんかやってて…」",
     ""),
     # "There's a huge Ferris wheel, and they're tampering with elaborate Atlantic Ferris wheels..."
 
-    ("「增わあ…」",
+    ("「わあ…」",
     ""),
     # "Ahhh..."
 
-    ("マ泣ルチは目を輝かせた。†",
+    ("マルチは目を輝かせた。†",
     ""),
     # McDonald's eyes glowed.†
 
@@ -1390,11 +1390,11 @@ text_array = [
     ""),
     # "Yes" †
 
-    ("という墲わけで、オ激レとマ泣ルチは電車に乗闖り、遊園地へとｌかった。",
+    ("という墲わけで、オレとマルチは電車に乗闖り、遊園地へとｌかった。",
     ""),
     # So, I and Makruchi got on the train and headed out to the amusement park.
 
-    ("なんと、マ泣ルチは電車に乗髀るの烽も奄初めてで、感動していた。",
+    ("なんと、マルチは電車に乗髀るの烽も奄初めてで、感動していた。",
     ""),
     # It was the first time for Makruchi to ride a train, and I was so moved.
 
@@ -1410,27 +1410,27 @@ text_array = [
     ""),
     # It's really crowded as it's a holiday.
 
-    ("家族連齪れ竄や恋人同士が多い。′",
+    ("家族連齪れや恋人同士が多い。′",
     ""),
     # There are many family members and lovers.'
 
-    ("「…增わあ、ここが遊園地ですかぁー」",
+    ("「…わあ、ここが遊園地ですかぁー」",
     ""),
     # "...Whoa, is this an amusement park?"
 
-    ("マ泣ルチは目を蛯大きく開いて、じっくり隅々まで見渡した。",
+    ("マルチは目を大きく開いて、じっくり隅々まで見渡した。",
     ""),
     # Muruch's eyes widened and he looked carefully through every inch of the room.
 
-    ("マ泣ルチにとっては、なに烽もか烽もが奄初めてで、見骭る烽ものすべてが新鮮に映驩るのだｂう。≠",
+    ("マルチにとっては、なに烽もか烽もが奄初めてで、見骭る烽ものすべてが新鮮に映驩るのだう。≠",
     ""),
     # For McDonald, it's the first time in Amami, and everything that he sees is refreshing.≠
 
-    ("「とって烽もにぎ竄やかなとこｂなんですね！」",
+    ("「とって烽もにぎやかなとこなんですね！」",
     ""),
     # "The hot springs are a bit clunky!"
 
-    ("それがマ泣ルチの第齣一印象だった。",
+    ("それがマルチの第齣一印象だった。",
     ""),
     # That was my first impression of the slut.
 
@@ -1446,7 +1446,7 @@ text_array = [
     ""),
     # "Everyone seems to be having fun too."
 
-    ("「マ泣ルチはどうだ？」",
+    ("「マルチはどうだ？」",
     ""),
     # "How about Ma-Neki Luchi?"
 
@@ -1454,7 +1454,7 @@ text_array = [
     ""),
     # "Yes! It's fun! Take it, too!"
 
-    ("マ泣ルチはにっこり笑って言った。",
+    ("マルチはにっこり笑って言った。",
     ""),
     # McDonald said with a smile.
 
@@ -1462,7 +1462,7 @@ text_array = [
     ""),
     # When I saw this laughing face, I was glad that it was coming back to me again and again.†
 
-    ("「それより、マ泣ルチ」",
+    ("「それより、マルチ」",
     ""),
     # "More than that, I'm crying."
 
@@ -1470,7 +1470,7 @@ text_array = [
     ""),
     # "yes!"
 
-    ("「こんなとこで突っ立ってて烽もし蛯ょうがない。適俣当にどっかのアト宴ラクで遊ぼうぜ」",
+    ("「こんなとこで突っ立ってて烽もしょうがない。適俣当にどっかのアトラクで遊ぼうぜ」",
     ""),
     # "I'm standing there and there's no slut. Let's have a fun party somewhere in Tomata."
 
@@ -1478,11 +1478,11 @@ text_array = [
     ""),
     # "yes!"†
 
-    ("「お烽もしｂいのがいっぱいあるぜ？	とて烽も一勛日じ痰ゃ遊びきれないくらいにな」",
+    ("「お烽もしいのがいっぱいあるぜ？	とて烽も一勛日じ痰ゃ遊びきれないくらいにな」",
     ""),
     # "There are so many b-like creatures, right? But even a little bit of petals can't be played all day long."
 
-    ("「增わあ、楽しみですね！」",
+    ("「わあ、楽しみですね！」",
     ""),
     # "Ahhh, I'm looking forward to it!"
 
@@ -1494,31 +1494,31 @@ text_array = [
     ""),
     # "yes!"†
 
-    ("オ激レはマ泣ルチの手を引いて烽歩き出した。",
+    ("オレはマルチの手を引いて烽歩き出した。",
     ""),
     # I pulled out the hand of McDonald and started walking.
 
-    ("オ激レとマ泣ルチ。",
+    ("オレとマルチ。",
     ""),
     # I cried and cried.
 
-    ("客観的にふたりを見骭ると、竅やっぱ恋人同士に見えるのかね。†",
+    ("客観的にふたりを見骭ると、やっぱ恋人同士に見えるのかね。†",
     ""),
     # When you look at the two objectively, you probably look like they are lovers.†
 
-    ("それからふたりで、いｂいｂなアト宴ラクをめぐった。",
+    ("それからふたりで、いいなアトラクをめぐった。",
     ""),
     # Then the two of them went on a fun, b-b-b banquet.
 
-    ("諱乗闖り物に乗髀る竄やつ、噤建物のなかを烽歩く竄やつ。",
+    ("諱乗闖り物に乗髀るやつ、噤建物のなかを烽歩くやつ。",
     ""),
     # Some people who ride on a stolen object, some who walk around in a building.
 
-    ("ふたりは要領譌よく、いｂいｂ遊んだ。†",
+    ("ふたりは要領譌よく、いい遊んだ。†",
     ""),
     # The two of them played with the best of their skills.†
 
-    ("なかで烽もとくにマ泣ルチがよｂこんだのは、ファンタジックな嘯建物のなかを烽歩くアト宴ラクシ㏍ョンだった。",
+    ("なかで烽もとくにマルチがよこんだのは、ファンタジックな嘯建物のなかを烽歩くアトラクションだった。",
     ""),
     # Among them, the hot springs and especially the slumbers were a relaxing banquet that was walking through the fantasy buildings.
 
@@ -1526,11 +1526,11 @@ text_array = [
     ""),
     # Every time I moved my room, I was moved, including the world of forests, the world of fire, and the world of mirroring.†
 
-    ("ち蛯ょっと怖がらせてみようかと、お約束でお化け屋敷に烽も入った。",
+    ("ちょっと怖がらせてみようかと、お約束でお化け屋敷に烽も入った。",
     ""),
     # I decided to try and scare him, but as a promise, he also entered the haunted house.
 
-    ("だが、マ泣ルチは全然怖がらなかった。",
+    ("だが、マルチは全然怖がらなかった。",
     ""),
     # However, Makruchi was not scared at all.
 
@@ -1542,7 +1542,7 @@ text_array = [
     ""),
     # Jun is shocked.†
 
-    ("なんとか怖がらせようと、オ激レがお化けのことをく墲わしく烽説明すると、逆に同贒情して、涙ぐんでしまった。",
+    ("なんとか怖がらせようと、オレがお化けのことをく墲わしく烽説明すると、逆に同贒情して、涙ぐんでしまった。",
     ""),
     # I tried to scare him, and when I explained the ghost in a strange way, I ended up lying around and ended up crying.
 
@@ -1550,27 +1550,27 @@ text_array = [
     ""),
     # "The battle ended in failure.
 
-    ("さすがにジェットコースターの類は竄やめておくことにした。",
+    ("さすがにジェットコースターの類はやめておくことにした。",
     ""),
     # I decided to stop tampering with roller coasters.
 
-    ("シ㏍ョックでブ激レーカーが獅落ちて、背鉛負って帰驪るはめになるのはゴ＜メンだからな。†",
+    ("ショックでブレーカーが獅落ちて、背鉛負って帰驪るはめになるのはゴ＜メンだからな。†",
     ""),
     # It's because they're a smash breaker that falls down in the squeal, and ends up carrying a lead back and returning home.†
 
-    ("そんな調子で桙時間が過ぎ、休憩煬もかねて、艨ゆっくりと蛯大観頼覧車に乗髀ることにした。◯",
+    ("そんな調子で桙時間が過ぎ、休憩煬もかねて、艨ゆっくりと大観頼覧車に乗髀ることにした。◯",
     ""),
     # With this intensification, I decided to take my time off and take my break and ride the Ferris wheel slowly.◯
 
-    ("「…增わあ、すごいですねぇー」",
+    ("「…わあ、すごいですねぇー」",
     ""),
     # "...Wow, that's amazing."
 
-    ("「…おお、けっこうｂ高いな」",
+    ("「…おお、けっこう高いな」",
     ""),
     # "...Oh, it's pretty expensive."
 
-    ("遊園地どこｂか、そのま墲わりまでぐるりと一望できる。",
+    ("遊園地どこか、そのま墲わりまでぐるりと一望できる。",
     ""),
     # You can see the amusement park anywhere, and even the whole area.
 
@@ -1582,7 +1582,7 @@ text_array = [
     ""),
     # "Have you got tired?"
 
-    ("「いえ、增わたしはちっと烽も。今厓日は予備電池を積んできましたし」",
+    ("「いえ、わたしはちっと烽も。今厓日は予備電池を積んできましたし」",
     ""),
     # "No, I've got a little hot. I've been carrying spare batteries now."
 
@@ -1590,7 +1590,7 @@ text_array = [
     ""),
     # "Spare batteries?"
 
-    ("「はい。開発スタッフの福方々が、必要だｂうと貸してくださったんです」",
+    ("「はい。開発スタッフの方々が、必要だうと貸してくださったんです」",
     ""),
     # "Yes. The development staff members lend us their money, saying they needed it."
 
@@ -1598,27 +1598,27 @@ text_array = [
     ""),
     # "Hah" †
 
-    ("そこで、マ泣ルチをｍってくれたスタッフの話笘や研結葛所での生衰の様子などを聞いた。",
+    ("そこで、マルチをｍってくれたスタッフの話笘や研結葛所での生衰の様子などを聞いた。",
     ""),
     # We then asked the staff members who gave me a cry of the story and what happened to them in the Kenyukusho era.
 
-    ("説明下濶手だが、一生恊懸命話すマ泣ルチ。",
+    ("説明下濶手だが、一生恊懸命話すマルチ。",
     ""),
     # Although he is a master of the explanation, he speaks hard for the rest of his life.
 
-    ("いかにマ泣ルチが、開発スタッフのみんなに愛されているかがよく伝崧わった。",
+    ("いかにマルチが、開発スタッフのみんなに愛されているかがよく伝崧わった。",
     ""),
     # It was well understood how much Makruchi is loved by all the development staff.
 
-    ("このマ泣ルチの優しい性格は、そんなスタッフたちのたっぷりの愛訷情のｒで育ったおかげなんだと知った。†",
+    ("このマルチの優しい性格は、そんなスタッフたちのたっぷりの愛訷情のｒで育ったおかげなんだと知った。†",
     ""),
     # I learned that Makruchi's kind personality is due to her growing up through the generous love of the staff.†
 
-    ("「增わたし、開発課のみなさんには、とって烽も感謝してるんです。あの人たちが、お休み烽もとらずに頑張ってくださったおかげで、いまの墲わたしがあるんです。そして、おかげで、增わたしはこうして、さんに出初うこと烽もできました」†",
+    ("「わたし、開発課のみなさんには、とって烽も感謝してるんです。あの人たちが、お休み烽もとらずに頑張ってくださったおかげで、いまの墲わたしがあるんです。そして、おかげで、わたしはこうして、さんに出初うこと烽もできました」†",
     ""),
     # "I am also grateful to everyone in the Development Division. Thanks to those people who worked hard without taking a break, I am the one who is now. And thanks to this, I was able to make my first appearance at the company."
 
-    ("「マ泣ルチにとっち痰ゃ生みの親熕も同然だからな。そうだな、感謝しなくち痰ゃな」",
+    ("「マルチにとっち痰ゃ生みの親熕も同然だからな。そうだな、感謝しなくち痰ゃな」",
     ""),
     # "If you're crying, you're probably the birthright of the mother of the mum. That's right, I'll have to be grateful."
 
@@ -1626,7 +1626,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("マ泣ルチはにっこり笑ってうなずいた。†",
+    ("マルチはにっこり笑ってうなずいた。†",
     ""),
     # McDonald laughed and nodded.†
 
@@ -1638,7 +1638,7 @@ text_array = [
     ""),
     # "Haha, that's fine."
 
-    ("そのとき、マ泣ルチは少し申し訳ないような顔をすると、",
+    ("そのとき、マルチは少し申し訳ないような顔をすると、",
     ""),
     # At that time, Makruchi looked a little apologetic,
 
@@ -1654,11 +1654,11 @@ text_array = [
     ""),
     # "Hmm? What is it?"
 
-    ("「增わたし、今厓日はご恩返しにｗたのに、またご恩ができてしまいました」†",
+    ("「わたし、今厓日はご恩返しにｗたのに、またご恩ができてしまいました」†",
     ""),
     # "I've repayed your favor on the day now, but I've given you another thank you."
 
-    ("「諱よせよ。今厓日はオ激レ焜も楽しんでんだから。恩なんか感じなくて烽もいいって」",
+    ("「諱よせよ。今厓日はオレ焜も楽しんでんだから。恩なんか感じなくて烽もいいって」",
     ""),
     # "Give me a message. I'm enjoying my hard work on the day right now. I don't feel any kindness and I'm fine with it."
 
@@ -1666,7 +1666,7 @@ text_array = [
     ""),
     # "…Mr. Miss"
 
-    ("「マ泣ルチ焜も楽しいし、オ激レ焜も楽しい。ふたりと烽も楽しいのが正しいデートの在闕りかたって竄やつさ」†",
+    ("「マルチ焜も楽しいし、オレ焜も楽しい。ふたりと烽も楽しいのが正しいデートの在闕りかたってやつさ」†",
     ""),
     # "They're fun, and my throbbing is fun too. The correct way to go on a date is to have fun with the two of them."
 
@@ -1682,7 +1682,7 @@ text_array = [
     ""),
     # "I like you... what do you think?"
 
-    ("「オ激レはマ泣ルチのこと好きだけど、マ泣ルチはオ激レのことどう思ってる？」",
+    ("「オレはマルチのこと好きだけど、マルチはオレのことどう思ってる？」",
     ""),
     # "I like Makuruchi, but what does Makuruchi think about Mekuruchi?"
 
@@ -1695,7 +1695,7 @@ text_array = [
     # "Do you like it?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「凵嫌いか？」†",
@@ -1706,15 +1706,15 @@ text_array = [
     ""),
     # "S, I love you!"
 
-    ("マ泣ルチは真っ赤な顔で、だがはっきりと、そう嘯答えた。",
+    ("マルチは真っ赤な顔で、だがはっきりと、そう嘯答えた。",
     ""),
     # Muruch's face was bright red, but he replied clearly.
 
-    ("「增わたしは、さんが蛯大好きですっ！」†",
+    ("「わたしは、さんが大好きですっ！」†",
     ""),
     # "I love you nigi!"
 
-    ("「そっか。じ痰ゃあ、ふたりは好き同士だな。好き同士がするデートだぜ。楽しくない墲わけないだｂ？」",
+    ("「そっか。じ痰ゃあ、ふたりは好き同士だな。好き同士がするデートだぜ。楽しくない墲わけないだ？」",
     ""),
     # "I see. Well, you two are in love. It's a date that people in love go on. How can it not be fun?"
 
@@ -1726,7 +1726,7 @@ text_array = [
     ""),
     # "So, let's go on another date?"
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
@@ -1734,7 +1734,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「今厓日だけじ痰ゃなく、また今度燗も、その次燻も、こうしてオ激レとデートしようぜ」",
+    ("「今厓日だけじ痰ゃなく、また今度燗も、その次燻も、こうしてオレとデートしようぜ」",
     ""),
     # "Not just today, but next time we'll have some warmed sake, and the next time we'll smoke it, let's go on a date like this with Ogekire."
 
@@ -1742,11 +1742,11 @@ text_array = [
     ""),
     # "a…"†
 
-    ("「ほかに烽も烽もっと、いｂいｂ楽しいとこｂへ連齪れてって竄やっからさ」",
+    ("「ほかに烽も烽もっと、いい楽しいとこへ連齪れてってやっからさ」",
     ""),
     # "There are more beacons to choose from, so I'll take you to some fun places."
 
-    ("オ激レは、へへへ、と照齒れ笑いする。†",
+    ("オレは、へへへ、と照齒れ笑いする。†",
     ""),
     # Ogekire laughs bashfully, "Hehehe."
 
@@ -1754,7 +1754,7 @@ text_array = [
     ""),
     # "Mr. Miss…"
 
-    ("マ泣ルチの目がじ墲わりと涙ぐんだ。",
+    ("マルチの目がじ墲わりと涙ぐんだ。",
     ""),
     # Maruchi's eyes welled up with tears.
 
@@ -1770,7 +1770,7 @@ text_array = [
     ""),
     # He squinted his eyes and said.†
 
-    ("「じ痰ゃあさ、氈次はどこがいい？	＄族館とかどうだ？	マ泣ルチは宸魚とか見たことないだｂ？	あ、だったら動物熾もそうか。動物園って手燻もあるよな」",
+    ("「じ痰ゃあさ、氈次はどこがいい？	＄族館とかどうだ？	マルチは宸魚とか見たことないだ？	あ、だったら動物熾もそうか。動物園って手燻もあるよな」",
     ""),
     # "I'm not sure what's the best place for the next one? How about a $300-year-old man? I've never seen a fish in a slug. Oh, so is it the same with animal fierces? Zoos also have hand-smoking."
 
@@ -1782,7 +1782,7 @@ text_array = [
     ""),
     # "What? Which do you want to see, an animal or a fish?"
 
-    ("オ激レが聞くと、マ泣ルチは、",
+    ("オレが聞くと、マルチは、",
     ""),
     # When I heard, Makruchi said,
 
@@ -1790,7 +1790,7 @@ text_array = [
     ""),
     # "..."
 
-    ("なに竄やら複雑な顔をしたまま、噤答えない。†",
+    ("なにやら複雑な顔をしたまま、噤答えない。†",
     ""),
     # He kept a complicated face like tampering with something, but he didn't answer.†
 
@@ -1818,7 +1818,7 @@ text_array = [
     ""),
     # "...Eh, ah, no."
 
-    ("マ泣ルチは目をそらして、あいまいな返抹事をした。",
+    ("マルチは目をそらして、あいまいな返抹事をした。",
     ""),
     # Muruch looked away and gave an ambiguous reply.
 
@@ -1831,34 +1831,34 @@ text_array = [
     # It's kind of a bit strange.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
     ""),
     # "..."†
 
-    ("竅やがて観頼覧車は、一番ｔ高い位置に桙到湯した。",
+    ("やがて観頼覧車は、一番ｔ高い位置に桙到湯した。",
     ""),
     # Eventually, the Kanryo Ferris wheel reached Kawawa at the highest point.
 
-    ("いままで以繹上に唐遠くまでの景色が見えた。†",
+    ("いままで以繹上に遠くまでの景色が見えた。†",
     ""),
     # I have seen the views up to the far distance from the Tang Dynasty.†
 
-    ("「マ泣ルチ…」",
+    ("「マルチ…」",
     ""),
     # "Mrrrr..."
 
-    ("オ激レは苦笑してマ泣ルチを見た。",
+    ("オレは苦笑してマルチを見た。",
     ""),
     # I grinned wryly and saw Ruchi crying.
 
@@ -1866,7 +1866,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「…なあ、お前、もしかして、オ激レになにか隠してんじ痰ゃねーのか？」",
+    ("「…なあ、お前、もしかして、オレになにか隠してんじ痰ゃねーのか？」",
     ""),
     # "...Hey, are you hiding something from me?!"
 
@@ -1882,7 +1882,7 @@ text_array = [
     ""),
     # "…a"†
 
-    ("「マ泣ルチ。まさか、今厓日が最纃後…ってこと、ないよな？」",
+    ("「マルチ。まさか、今厓日が最纃後…ってこと、ないよな？」",
     ""),
     # "Murry crying. I can't believe it's the last day I'm off right now... right?"
 
@@ -1902,15 +1902,15 @@ text_array = [
     ""),
     # Without asking the answer, I understood the answer.
 
-    ("マ泣ルチは根が素直だから、すぐ顔に出髀る。†",
+    ("マルチは根が素直だから、すぐ顔に出髀る。†",
     ""),
     # Because she is a true-looking guy, she immediately appears on her face.†
 
-    ("「そうなんだな？	今厓日が本末当の最纃後だから、だからお前は、オ激レにｉいにｗたんだな？」",
+    ("「そうなんだな？	今厓日が本末当の最纃後だから、だからお前は、オレにｉいにｗたんだな？」",
     ""),
     # "Is that so? Now that's the end of the day, you're really excited lol?"
 
-    ("マ泣ルチはしばらく嘯答えをためらっていたが、竅やがて、",
+    ("マルチはしばらく嘯答えをためらっていたが、やがて、",
     ""),
     # McDonald hesitated to answer for a while, but then
 
@@ -1926,19 +1926,19 @@ text_array = [
     ""),
     # "Why…?"
 
-    ("オ激レはぎこちなく笑って聞いた。",
+    ("オレはぎこちなく笑って聞いた。",
     ""),
     # I listened with awkward laugh.
 
-    ("すると、マ泣ルチは目にうっすらと涙をためてこっちをｌき、艨ゆっくりと福口を開いた。†",
+    ("すると、マルチは目にうっすらと涙をためてこっちをｌき、艨ゆっくりと口を開いた。†",
     ""),
     # Then, Makruchi burst into tears in his eyes, and slowly opened his mouth.†
 
-    ("「…增わたしは烽もと烽もと獅試詩機です。ですから、この獅試験卲期間が終尞わると同椏時に、その役目燒も終尞わりになります。だから、さんと烽も、今厓日が最纃後になります」",
+    ("「…わたしは烽もと烽もと獅試詩機です。ですから、この獅試験卲期間が終尞わると同椏時に、その役目燒も終尞わりになります。だから、さんと烽も、今厓日が最纃後になります」",
     ""),
     # "...I am a lion test machine. So, when this lion test period ends, its role will also be completed. Therefore, the current date will be the end of the day for the lion test."
 
-    ("「…竅やっぱり、そうなのか？」",
+    ("「…やっぱり、そうなのか？」",
     ""),
     # "...Is that so after all?"
 
@@ -1950,7 +1950,7 @@ text_array = [
     ""),
     # Sorry for keeping quiet."
 
-    ("「マ泣ルチは、いったいどうなるんだ？」",
+    ("「マルチは、いったいどうなるんだ？」",
     ""),
     # "What will happen to Makruchi?"
 
@@ -1958,7 +1958,7 @@ text_array = [
     ""),
     # "...After collecting the data up to the current day, the cat will be reset once.
 
-    ("データは、♂社の蛯大きなコンピャータに移され、縺後の製品版の開発に役立てられます。",
+    ("データは、♂社の大きなコンピャータに移され、縺後の製品版の開発に役立てられます。",
     ""),
     # The data will be transferred to a large computer from Mascot, which will be used to develop the product version after the tangle.
 
@@ -1966,7 +1966,7 @@ text_array = [
     ""),
     # Another person will enter my body and begin the test "†
 
-    ("「…な、なんだよ、それ。それじ痰ゃ、いまのマ泣ルチは烽もういなくなっちまうってことじ痰ゃないか」",
+    ("「…な、なんだよ、それ。それじ痰ゃ、いまのマルチは烽もういなくなっちまうってことじ痰ゃないか」",
     ""),
     # "...What is that? That's it. That's the phlegm, so the current phlegm is gone, so it's not the phlegm."
 
@@ -1978,7 +1978,7 @@ text_array = [
     ""),
     # The data remains.
 
-    ("会社に保管されますから、人間の福方が眠髢るような烽ものです」†",
+    ("会社に保管されますから、人間の方が眠髢るような烽ものです」†",
     ""),
     # It is stored in the company, so it is a hot thing that makes the good for humans sleep."
 
@@ -1990,11 +1990,11 @@ text_array = [
     ""),
     # "…it is"
 
-    ("「ずっと眠阮り続けるってんなら、それは汲結局いなくなることと変﨑わんねーじ痰ゃねーか」†",
+    ("「ずっと眠り続けるってんなら、それは汲結局いなくなることと変﨑わんねーじ痰ゃねーか」†",
     ""),
     # "If you keep sleeping forever, then it will end up disappearing and you'll have to be phlegmy."
 
-    ("「で烽も、增わたしの心と烽もいうべきデータは、艨ゆく艪ゆく発粕рｳれる、增わたしの『＊たち』へと受け継がれるんです」",
+    ("「で烽も、わたしの心と烽もいうべきデータは、艨ゆくゆく発粕рｳれる、わたしの『＊たち』へと受け継がれるんです」",
     ""),
     # "The data, which can be called hot, my heart and hot, will be passed down to my '*' as they go along.'
 
@@ -2006,11 +2006,11 @@ text_array = [
     ""),
     # "yes.
 
-    ("…さすがに、個人的な思い出などは受け継ぐことは出女ませんが、きっとみんな、增わたしにそっくりな性格になると思います」†",
+    ("…さすがに、個人的な思い出などは受け継ぐことは出女ませんが、きっとみんな、わたしにそっくりな性格になると思います」†",
     ""),
     # ...I'm sure that women will never inherit personal memories, but I'm sure they'll all have a similar personality to me."
 
-    ("「で烽も、それは竄やっぱりマ泣ルチじ痰ゃなくて、マ泣ルチを参考にしてｍ迯られたコピーだｂう？	目の前にいるお前は、もういなくなっちまうじ痰ゃねーか」",
+    ("「で烽も、それはやっぱりマルチじ痰ゃなくて、マルチを参考にしてｍ迯られたコピーだう？	目の前にいるお前は、もういなくなっちまうじ痰ゃねーか」",
     ""),
     # "And even though it was a tampering with, it was not a phlegm for me, but a copy that was used as a reference for me, is it a phlegm for me? You who are in front of me, are you no longer there?"
 
@@ -2018,23 +2018,23 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…マ泣ルチ、お前、そんなんでいいのかよ？	竅寂しくないのかよ？	怖くねーのかよ？」",
+    ("「…マルチ、お前、そんなんでいいのかよ？	寂しくないのかよ？	怖くねーのかよ？」",
     ""),
     # "...Mr. Cry, is that okay? Are you not lonely? Are you scared?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「…なんでそんなこと、笑迴顔で言えんだよ？」†",
     ""),
     # "...Why did you say that with a smile?"
 
-    ("マ泣ルチはしばらくなに烽も言甯わずに、じっとうつむいていたが、竅やがて艪ゆっくり顔を繧上げると｢｢。†",
+    ("マルチはしばらくなに烽も言甯わずに、じっとうつむいていたが、やがてゆっくり顔を繧上げると｢｢。†",
     ""),
     # For a while, McDonald kept leaning down without saying anything, but then he slowly lifted his face and said, "†
 
-    ("「增わたし、香ロボットですから」",
+    ("「わたし、香ロボットですから」",
     ""),
     # "I'm a scented robot."
 
@@ -2054,7 +2054,7 @@ text_array = [
     ""),
     # There are no sad, scary, and scary, and all there is data."
 
-    ("「マ泣ルチ…」†",
+    ("「マルチ…」†",
     ""),
     # "Mrrrr..."
 
@@ -2066,11 +2066,11 @@ text_array = [
     ""),
     # You have a heart and you have phlegm.
 
-    ("人間謚より、もっと烽もっと怖がりで、メ泣き獅虫で、そして誰謦より烽も優しい心がよー…。†",
+    ("人間謚より、もっと烽もっと怖がりで、メき獅虫で、そして誰謦より烽も優しい心がよー…。†",
     ""),
     # He's even more scared than humanity, he's a crying lionfish, and he's a kind heart even than Wholesome...†
 
-    ("「增わたしは烽もと烽もと、これから生まれてくるｖたちのためにｍ迯られたんです。",
+    ("「わたしは烽もと烽もと、これから生まれてくるｖたちのためにｍ迯られたんです。",
     ""),
     # "I was born from the Hot Springs and Hot Springs, and for the next generation of vs.
 
@@ -2082,11 +2082,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("「ですが、增わたしは幸せな高ロボットでした。",
+    ("「ですが、わたしは幸せな高ロボットでした。",
     ""),
     # "But I was a happy high robot.
 
-    ("データを集めるだけの獅試詩機なのに、こんなに烽もいｂいｂな思い出ができて…。",
+    ("データを集めるだけの獅試詩機なのに、こんなに烽もいいな思い出ができて…。",
     ""),
     # It's a lion tester that just collects data, but I can create so many wonderful memories...
 
@@ -2122,15 +2122,15 @@ text_array = [
     ""),
     # He was kind to me whenever I wanted to...
 
-    ("人間の福方と変﨑わらないふうに接してくださって…」†",
+    ("人間の方と変﨑わらないふうに接してくださって…」†",
     ""),
     # You treat human happiness like you're not going to change..."†
 
-    ("「マ泣ルチは…マ泣ルチだからな…」",
+    ("「マルチは…マルチだからな…」",
     ""),
     # "Murushi Ruchi is...Murushi Ruchi..."
 
-    ("オ激レはぼそっと言った。",
+    ("オレはぼそっと言った。",
     ""),
     # I mumbled.
 
@@ -2138,7 +2138,7 @@ text_array = [
     ""),
     # "…picture?"
 
-    ("「…香ロボットだとか人間だとか、それ以前にマ泣ルチだったからな。…オ激レにとっち痰ゃ」†",
+    ("「…香ロボットだとか人間だとか、それ以前にマルチだったからな。…オレにとっち痰ゃ」†",
     ""),
     # "...Even before that, I was a robot or a human, I was a crying ruch...I had a lot of phlegm."†
 
@@ -2150,7 +2150,7 @@ text_array = [
     ""),
     # Ugh."
 
-    ("一瞬、メ泣きそうになったマ泣ルチだったが、ぎ繧ゅっと目をつぶって流齬れるのをこらえると、両阯手でごしごし目をこすり、また、いつ烽もの笑迴顔に戻った。†",
+    ("一瞬、メきそうになったマルチだったが、ぎ繧ゅっと目をつぶって流齬れるのをこらえると、両手でごしごし目をこすり、また、いつ烽もの笑迴顔に戻った。†",
     ""),
     # For a moment, Ma-Ruchi almost cried, but as he closed his eyes and held back the conflict, he rubbed his eyes with his hands and then returned to his face as he smugly as he cried out.†
 
@@ -2158,7 +2158,7 @@ text_array = [
     ""),
     # "...On the day I was happy, too.
 
-    ("わたし、あんなお家で、さんみたいなご蛯主人様のために働くのが夢だったんです。",
+    ("わたし、あんなお家で、さんみたいなご主人様のために働くのが夢だったんです。",
     ""),
     # My dream was to work at such a house for a master like a slut.
 
@@ -2170,11 +2170,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…残念ながら、增わたしは獅試詩機ですから、その夢は垂叶いませんけど、竅やがて生まれるｖたちのひとりが、今厓日みたいに、さんにお仕えできれば嬉しいです」",
+    ("「…残念ながら、わたしは獅試詩機ですから、その夢は垂叶いませんけど、やがて生まれるｖたちのひとりが、今厓日みたいに、さんにお仕えできれば嬉しいです」",
     ""),
     # "...Unfortunately, I am a lion test machine, so that dreams cannot come true, but I would be happy if one of the vs who will soon be born can serve you like you are now, like the day of the day."
 
-    ("「…マ泣ルチ」†",
+    ("「…マルチ」†",
     ""),
     # "...Mixed Ruchi"†
 
@@ -2190,15 +2190,15 @@ text_array = [
     ""),
     # There is little remaining time left.
 
-    ("オ激レとマ泣ルチの、ふたりっきりでいられる桙時間のようだ。†",
+    ("オレとマルチの、ふたりっきりでいられる桙時間のようだ。†",
     ""),
     # It seems like I'm a gangbang and I can be alone with you two.†
 
-    ("「開発スタッフの福方々も、学校で知闥り№合ったみなさん烽も、バスで知闥り№合ったおばあさん烽も、そしてさん烽も、增わたし、人間のみなさんが蛯大好きです。",
+    ("「開発スタッフの方々も、学校で知闥り№合ったみなさん烽も、バスで知闥り№合ったおばあさん烽も、そしてさん烽も、わたし、人間のみなさんが大好きです。",
     ""),
     # "I love the development staff, the people who learned many things at school, the grandmothers who learned many things on the bus, and the people who learned many things on the bus.
 
-    ("人間のみなさんにｊんでいただくのが蛯大好きです」",
+    ("人間のみなさんにｊんでいただくのが大好きです」",
     ""),
     # I love being able to take it by all humans."
 
@@ -2206,35 +2206,35 @@ text_array = [
     ""),
     # "...I see." †
 
-    ("「增わたしのこの気搴持ち、これから生まれてくるｖたちに烽も伝えたい。",
+    ("「わたしのこの気搴持ち、これから生まれてくるｖたちに烽も伝えたい。",
     ""),
     # "I want to convey this kind of energy to those who will be born.
 
-    ("みんな、同じように、人間のみなさんを蛯大好きになって欲しいです」",
+    ("みんな、同じように、人間のみなさんを大好きになって欲しいです」",
     ""),
     # I hope everyone will love all of us in the same way."
 
-    ("「…マ泣ルチ」",
+    ("「…マルチ」",
     ""),
     # "...Mixed Ruchi."
 
-    ("「增わたしのか墲わりに、人間のみなさんに感謝の気搴持ちを伝えて欲しいと思ってます」†",
+    ("「わたしのか墲わりに、人間のみなさんに感謝の気搴持ちを伝えて欲しいと思ってます」†",
     ""),
     # "Instead of my own, I would like to express my gratitude to all of us."
 
-    ("「…マ泣ルチは優しいな」",
+    ("「…マルチは優しいな」",
     ""),
     # "...Mixel Ruchi is so kind."
 
-    ("オ激レは微笑んでから、轣顔を嘯伏せた。",
+    ("オレは微笑んでから、轣顔を嘯伏せた。",
     ""),
     # I smiled and then leaned down my face.
 
-    ("少しモ泣けた。",
+    ("少しモけた。",
     ""),
     # I was a little excited.
 
-    ("同椏時に、マ泣ルチのことを本末当にいとおしく思った。†",
+    ("同椏時に、マルチのことを本末当にいとおしく思った。†",
     ""),
     # When I was at the same time, I felt that Makruchi was happy to be honest with the truth.†
 
@@ -2242,15 +2242,15 @@ text_array = [
     ""),
     # "Thank you very much for the hard work on this day.
 
-    ("今厓日のことは、＝メｃモ潟リー内の烽もっと烽も蛯大切な部分に記憶しておきますから」",
+    ("今厓日のことは、＝メｃモリー内の烽もっと烽も大切な部分に記憶しておきますから」",
     ""),
     # As for the current day, I will also remember the more important parts of the hot springs in the Mec Mogata Lee."
 
-    ("「…オ激レ焜も、ぜったい忘齧れねーぜ」",
+    ("「…オレ焜も、ぜったい忘齧れねーぜ」",
     ""),
     # "...Even my super-realistic person will never forget."
 
-    ("オ激レが言うと、マ泣ルチは、",
+    ("オレが言うと、マルチは、",
     ""),
     # When I said that, Makruchi was
 
@@ -2274,15 +2274,15 @@ text_array = [
     ""),
     # Tears lying on the floor.
 
-    ("マ泣ルチ焜もオ激レといっし蛯ょだ。",
+    ("マルチ焜もオレといっしょだ。",
     ""),
     # The cries of Ruchi is also a big fan of me.
 
-    ("メ泣いた顔を見せたくないらしい。†",
+    ("メいた顔を見せたくないらしい。†",
     ""),
     # Apparently he doesn't want to show his crying face.†
 
-    ("「マ泣ルチ…！」",
+    ("「マルチ…！」",
     ""),
     # "Mixing Luck..."
 
@@ -2290,7 +2290,7 @@ text_array = [
     ""),
     # "...Ah" †
 
-    ("オ激レはマ泣ルチを引き寄せると、その細い体をぎ繧ゅっと強く抱きしめた。†",
+    ("オレはマルチを引き寄せると、その細い体をぎ繧ゅっと強く抱きしめた。†",
     ""),
     # I pulled Makuruchi towards me and hugged her slender body tightly.†
 
@@ -2318,19 +2318,19 @@ text_array = [
     ""),
     # "...Yes!"†
 
-    ("く竄やしいけど、オ激レにはそのくらいのことしかして竄やれねーからな。",
+    ("くやしいけど、オレにはそのくらいのことしかしてやれねーからな。",
     ""),
     # It's a bit of a pain, but I can't do that much to blame.
 
-    ("そのとき、観頼覧車が降闕り福口に桙到湯した。◯",
+    ("そのとき、観頼覧車が降闕り口に桙到湯した。◯",
     ""),
     # At that time, the Kanryo Ferris wheel set off and reached Fukuguchi.◯
 
-    ("その言葉どおり、オ激レとマ泣ルチは、時間の魔許すかぎり、遊びま墲わった。",
+    ("その言葉どおり、オレとマルチは、時間の魔許すかぎり、遊びま墲わった。",
     ""),
     # As he said, I and Makruchi played with them as much as they could tolerate the demons of time.
 
-    ("途湯でグッズシ㏍ョップに寄闃り、そこでオ激レは、マ泣ルチに桙麦嵓わら帽子をモ買って竄やった。†",
+    ("途湯でグッズショップに寄闃り、そこでオレは、マルチに桙麦嵓わら帽子をモ買ってやった。†",
     ""),
     # I came to the merchandise chop at the bathhouse, where I bought a straw hat for the mugs and stomped them out.†
 
@@ -2342,7 +2342,7 @@ text_array = [
     ""),
     # What do you think??”
 
-    ("「浴似㍽合うぜ、マ泣ルチ」",
+    ("「浴似㍽合うぜ、マルチ」",
     ""),
     # "We're going to meet you like baths, mum-cry."
 
@@ -2358,7 +2358,7 @@ text_array = [
     ""),
     # "…Yeah"†
 
-    ("そんなマ泣ルチのとびっきりの笑迴顔が、オ激レの脳裏にくっきりと、まぶしく焼きついた。†",
+    ("そんなマルチのとびっきりの笑迴顔が、オレの脳裏にくっきりと、まぶしく焼きついた。†",
     ""),
     # The incredible laughter of the face of the mad crying was clearly and dazzled in my mind.†
 

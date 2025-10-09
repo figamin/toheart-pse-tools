@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "What about hot money?"
 
-    ("「どうして烽も欲しい桙服があるからって、オ激レから",
+    ("「どうして烽も欲しい桙服があるからって、オレから",
     ""),
     # "Why do you have a fox clothes that I want, too, I'm really excited?
 
@@ -42,19 +42,19 @@ text_array = [
     ""),
     # "It's a common occurrence in the midst of a huge collapse."
 
-    ("「けっ、どーせそんなこったｂうと思ったぜ」†",
+    ("「けっ、どーせそんなこったうと思ったぜ」†",
     ""),
     # "Ah, I thought I'd be like that anyway."
 
-    ("あかりの言う『ひな壇蜥大崩壊哩事庶件』とは、ちっち痰ゃい子沁供のこｂの話だ。",
+    ("あかりの言う『ひな壇蜥大崩壊哩事庶件』とは、ちっち痰ゃい子沁供のこの話だ。",
     ""),
     # Akari's words, "The Great Collapse of the World War II" is about the fact that he is a slutty child who has a deep slut.
 
-    ("秩白酒に撃酔ったオ激レが、あかりんちのひな壇に繧上って、それをぶっつぶした｢｢とまあ、そんな烽内容だ。",
+    ("秩白酒に撃酔ったオレが、あかりんちのひな壇に繧上って、それをぶっつぶした｢｢とまあ、そんな烽内容だ。",
     ""),
     # I was drunk with Choibai Sake and climbed up to Akarinchi's podium and muttered it to me, "Well, that's the kind of hot content.
 
-    ("しかし、そんな蛯大昔の話をよく覚えている烽もんだ。†",
+    ("しかし、そんな大昔の話をよく覚えている烽もんだ。†",
     ""),
     # However, I remember such a long time ago story.†
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "Hehe, well."
 
-    ("なに竄やらふくみ笑いをするあかり。†",
+    ("なにやらふくみ笑いをするあかり。†",
     ""),
     # Akari laughs with something and laughs.†
 
-    ("「そんなに記憶力いいんなら一怦万円のこと烽も覚えてるだｂ？」",
+    ("「そんなに記憶力いいんなら一怦万円のこと烽も覚えてるだ？」",
     ""),
     # "If your memory is so good, you remember a thousand yen or even a few b?"
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "Tch..." †
 
-    ("一見騙され竄やすそうな感じだが、あかりはこれで意外としっかりしてる。",
+    ("一見騙されやすそうな感じだが、あかりはこれで意外としっかりしてる。",
     ""),
     # At first glance, it seems easy to deceive, but Akari is surprisingly sturdy.
 
-    ("まあ、オ激レの嘘を見抜くのが得意だっての烽もあるが。†",
+    ("まあ、オレの嘘を見抜くのが得意だっての烽もあるが。†",
     ""),
     # Well, there are also some who are good at spotting my lies.†
 

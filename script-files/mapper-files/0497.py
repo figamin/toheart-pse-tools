@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Shiho Scales Event, 1st floor 2) (Selection Scales)†
 
-    ("「ダ＜メダ＜メ。今厓日はオ激レ、用があるかんな」",
+    ("「ダ＜メダ＜メ。今厓日はオレ、用があるかんな」",
     ""),
     # "Da<Meda<Me. I'm really busy on the day right now, so I have no need for it."
 
-    ("と、オ激レは言った。",
+    ("と、オレは言った。",
     ""),
     # said my geek.
 
-    ("このオ激レが『用がある』というときは気が乗迴らないときが多い。",
+    ("このオレが『用がある』というときは気が乗迴らないときが多い。",
     ""),
     # When this guy says "I have something to do", he often doesn't feel like he's coming.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Akari smiled awkwardly.†
 
-    ("「增わりぃな」",
+    ("「わりぃな」",
     ""),
     # "It's so bad."
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Oh, take care and return."
 
-    ("オ激レは、歩いて行くあかりを見洛送った。",
+    ("オレは、歩いて行くあかりを見洛送った。",
     ""),
     # I walked over to Akari and drove away.
 
-    ("「さてと、オ激レ焜も帰っかな」",
+    ("「さてと、オレ焜も帰っかな」",
     ""),
     # "Now, I'll go home too."
 
-    ("そうつぶ竄やいたとき、†",
+    ("そうつぶやいたとき、†",
     ""),
     # When I muttered that,
 
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # "Are you sure you'll get to the shopping district and get the right fit?"
 
-    ("「オ激レ？」",
+    ("「オレ？」",
     ""),
     # "Is it really hard?"
 
-    ("「あんたしかいないでし蛯ょ」†",
+    ("「あんたしかいないでしょ」†",
     ""),
     # "You're the only one there" †
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

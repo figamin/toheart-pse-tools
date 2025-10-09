@@ -2,7 +2,7 @@
 # Source file: 07A8.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（ハイブ潟リッド）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（ハイブリッド）†",
     ""),
     # (Kotone Scales Event PS) (Hibugata Lid)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Mr. Miss"
 
-    ("不意に繧後撃から呼ばれ、オ激レは振關り返った。",
+    ("不意に繧後撃から呼ばれ、オレは振關り返った。",
     ""),
     # Suddenly, I was called out after the attack, and my anger replied.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Hello"
 
-    ("彼濫女はオ激レにぺこりと頭を下げた。",
+    ("彼濫女はオレにぺこりと頭を下げた。",
     ""),
     # The overwhelmed woman bowed her head to me.
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Stumble around the station"
 
-    ("Ａ	琴音ち痰ゃん烽もいっし蛯ょにどうだ？閨",
+    ("Ａ	琴音ち痰ゃん烽もいっしょにどうだ？閨",
     ""),
     # A: How about Kotone's sphin-chan and other hot springs?Relax
 
-    ("Ｂ	っつー增わけで、じ痰ゃあな。閨",
+    ("Ｂ	っつーわけで、じ痰ゃあな。閨",
     ""),
     # B So, it's a phlegm.Relax
 

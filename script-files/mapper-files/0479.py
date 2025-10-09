@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "My name is, kun."
 
-    ("校蜊門を出たとこｂで、志保が竄やってきた。",
+    ("校蜊門を出たとこで、志保がやってきた。",
     ""),
     # When I left the school gate, Shiho came to tamper with me.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「冝期槙末事試験のち蛯ょーしはどうかね？",
+    ("「冝期槙末事試験のちょーしはどうかね？",
     ""),
     # "How about the last exam after the final exam for the ritual?
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Hmm?”
 
-    ("言いながら、オ激レの肩をバンバン叩く。",
+    ("言いながら、オレの肩をバンバン叩く。",
     ""),
     # As I said, I slap my hardcore shoulder.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Ticchic, it's a different twilight...
 
-    ("毎坙日が楽しいんじ痰ゃなくて、＊淫俣橳唐yしんでるのよ」",
+    ("毎坙日が楽しいんじ痰ゃなくて、＊淫俣橳yしんでるのよ」",
     ""),
     # Every day is fun, but I'm not phlegmy, and I'm dying for the Inumata thunder."
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "What do you say, like Professor Isao?"
 
-    ("「なに烽も帰って勉強しｂなんて言甯わねえよ。オ激レはオ激レで用があるから帰驪るんだ。ほか魔当たってくれ」†",
+    ("「なに烽も帰って勉強しなんて言甯わねえよ。オレはオレで用があるから帰驪るんだ。ほか魔当たってくれ」†",
     ""),
     # "What do you mean, you can go home and study, and you can't say b. I'm a geek, so I have something to do, so I'll go back. I'll hit the geek."†
 
-    ("「そんなこと言甯わないでさぁ、どうせ汲昼寝かビデオで烽も見骭るんでし蛯ょ？	だったらあたしにつき№合ってよ〜」",
+    ("「そんなこと言甯わないでさぁ、どうせ汲昼寝かビデオで烽も見骭るんでしょ？	だったらあたしにつき№合ってよ〜」",
     ""),
     # "Don't say that, I'll probably be taking a nap or watching Hot on the video anyway, so I'll be watching it? Then, I'll get the number one for me."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Shiho says pretty sharp things.
 
-    ("こいつと烽もつき№合いは長い福方だからな…。",
+    ("こいつと烽もつき№合いは長い方だからな…。",
     ""),
     # This guy and the hottest guy are a long-term lucky guy...
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # A: No phlegm.Relax
 
-    ("Ｂ	ひとりで遊んでｂよ。閨",
+    ("Ｂ	ひとりで遊んでよ。閨",
     ""),
     # B Play alone and b.Relax
 

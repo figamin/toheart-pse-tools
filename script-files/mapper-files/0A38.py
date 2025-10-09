@@ -22,7 +22,7 @@ text_array = [
     ""),
     # From there, the child, Sinfuku, chases after her with energy.
 
-    ("「こらまてー、たまさぶｂー！」†",
+    ("「こらまてー、たまさぶー！」†",
     ""),
     # "Come on, Tamasabu b!"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Huh?
 
-    ("いつぞ竄やのガキ、い竄や、掾理女緒ち痰ゃんの墲弟の良太じ痰ゃねーか。",
+    ("いつぞやのガキ、いや、掾理女緒ち痰ゃんの墲弟の良太じ痰ゃねーか。",
     ""),
     # When will you say it's a brat, a brat, or a little bit of a younger brother, Ryotai, is it?
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # A. Call out.Relax
 
-    ("Ｂ	竅やめておく。閨",
+    ("Ｂ	やめておく。閨",
     ""),
     # B: Stop it.Relax
 

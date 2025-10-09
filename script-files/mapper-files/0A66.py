@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "What...? Oh, that's right. You know, it's the Ming Shun test."
 
-    ("「い竄や、オ激レ、人になにか教えられるほど、頭謫よくねーから」†",
+    ("「いや、オレ、人になにか教えられるほど、頭謫よくねーから」†",
     ""),
     # "I'm not so smart enough to be able to teach someone something" †
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Yeah!"†
 
-    ("そして、オ激レはまっすぐ家に帰った。◯",
+    ("そして、オレはまっすぐ家に帰った。◯",
     ""),
     # And then I went straight home.◯
 

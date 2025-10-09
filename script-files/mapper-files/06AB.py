@@ -2,19 +2,19 @@
 # Source file: 06AB.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	学校を出髀る）閨（４獅月１８冾日）閨（下駄箱）†",
+    ("（マルチ	回秤数イベント	学校を出髀る）閨（４獅月１８冾日）閨（下駄箱）†",
     ""),
     # (Muryuruchi, the sizing event, leave school) (4th 18th day) (Shoe cabinet) †
 
-    ("下駄箱で、靴を嘯履き替えているマ泣ルチを見かけた。",
+    ("下駄箱で、靴を嘯履き替えているマルチを見かけた。",
     ""),
     # I saw Makruchi changing his shoes in the shoe cabinet.
 
-    ("オ激レは近寄って声をかけた。",
+    ("オレは近寄って声をかけた。",
     ""),
     # I came near and called out.
 
-    ("「諱よっ、マ泣ルチ」†",
+    ("「諱よっ、マルチ」†",
     ""),
     # "My name is, my cry"†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ah, hello!"
 
-    ("マ泣ルチはいつ烽もの明髢るい笑迴顔でこたえた。",
+    ("マルチはいつ烽もの明髢るい笑迴顔でこたえた。",
     ""),
     # When did she replied with a loud, crisp look on her face.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("マ泣ルチはうなずいた。†",
+    ("マルチはうなずいた。†",
     ""),
     # McDonald nodded.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # That's right: ".
 
-    ("Ａ	いっし蛯ょに帰汲うぜ、と誘う。閨",
+    ("Ａ	いっしょに帰汲うぜ、と誘う。閨",
     ""),
     # A. I invite him to return to the episode.Relax
 

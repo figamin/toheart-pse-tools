@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Whoa."
 
-    ("オ激レは素直に感心した。†",
+    ("オレは素直に感心した。†",
     ""),
     # I was honestly impressed.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # For now, it seems that there are other witnesses in the % academic ceremony, so it seems that it is possible to trust them.†
 
-    ("「今回は蛯大予言だったけど、じつは彼濫女のま墲わりで、それ以外の不思議な魔事庶件煬もたくさん起こってるのよ」",
+    ("「今回は大予言だったけど、じつは彼濫女のま墲わりで、それ以外の不思議な魔事庶件煬もたくさん起こってるのよ」",
     ""),
     # "This time it was a great prophecy, but it was actually a woman who was a huge woman, and there are many other mysterious magical cases that occur."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Whaaaah, what kind of magical matter?"
 
-    ("「瘁例えばさ、彼濫女が見つめる汲窓ガ宴ラスが、触齔れて烽もいないのにパ潟リーンとか。どっしりした花瓶が、艨台の繧上をすべったり」†",
+    ("「瘁例えばさ、彼濫女が見つめる汲窓ガラスが、触齔れて烽もいないのにパリーンとか。どっしりした花瓶が、艨台の繧上をすべったり」†",
     ""),
     # "For example, the woman stares at the banquet of the banquet, and even though she is touched and there is no hot water, there is a sturdy vase sliding over the base."
 
-    ("「長岡、それってポ泣ルターガイストじ痰ゃないのか？」",
+    ("「長岡、それってポルターガイストじ痰ゃないのか？」",
     ""),
     # "Nagaoka, isn't that a phlegm?
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "You know the words of stale.
 
-    ("もしかして、オカ泣ルトマニア？」",
+    ("もしかして、オカルトマニア？」",
     ""),
     # Maybe a oka-crying ruto maniac?”
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Who knows the hot water?"
 
-    ("「ってのは冗談でぇ。彼濫女の身の回濶りで起こる現象をポ泣ルターガイストだと思う人は、少なからずいるみたいね。で烽も、それは彼濫女本人が否阡定したって言う証人熕もいるのよ」",
+    ("「ってのは冗談でぇ。彼濫女の身の回濶りで起こる現象をポルターガイストだと思う人は、少なからずいるみたいね。で烽も、それは彼濫女本人が否阡定したって言う証人熕もいるのよ」",
     ""),
     # "That's a joke. It seems that there are quite a few people who think that the phenomenon that occurs when a woman is repetitive is a roar geist. And there are also witnesses who say that the woman herself has denied this."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "You know that Yudou's work is not phlegm?"
 
-    ("「そう。自分が竄やったっていうのよ」†",
+    ("「そう。自分がやったっていうのよ」†",
     ""),
     # "Yeah. I mean I tampered with it."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Ah, did the child drop the lights at the body stomping herself?"
 
-    ("オ激レ焜も思寬わず質竡問してしまう。†",
+    ("オレ焜も思寬わず質竡問してしまう。†",
     ""),
     # I didn't think about it, and I questioned the quality of it.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Is that no phlegm? You can destroy everything with your supernatural powers."
 
-    ("言いながら、オ激レはｔ人だけど垂乱暴者な翌女の子を思いｂ浮かべた。†",
+    ("言いながら、オレはｔ人だけど垂乱暴者な翌女の子を思い浮かべた。†",
     ""),
     # As I said, I thought of the next girl who was a titty guy but was a raging slut.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Now, I wonder what it's like. I'm also a research cemetery for that. All I wanted to say is the issue of Esper Xinxing and the general magical affairs at the Physical Museum. Wait for more news!!"
 
-    ("「ならさっさと調べｂ。真叶相が気になるじ痰ゃねえか」†",
+    ("「ならさっさと調べ。真叶相が気になるじ痰ゃねえか」†",
     ""),
     # "I'll quickly investigate b. I wonder if Makano-a has any phlegms that are bothering you?"
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # "That's annoying. You're trying to find something unnecessary, so you don't have any phlegms."
 
-    ("「テ＜メエ、人がせっかく聞いて竄やってんのに、その態度はねえだｂ」",
+    ("「テ＜メエ、人がせっかく聞いてやってんのに、その態度はねえだ」",
     ""),
     # "Te<Mee, people have been listening and tampering with it, but that attitude is not what you're doing."
 
-    ("「聞いて竄やってるですって？	こっちが聞かせてあげてんのよ」†",
+    ("「聞いてやってるですって？	こっちが聞かせてあげてんのよ」†",
     ""),
     # "You're listening and tampering with it? We're telling you." †
 
-    ("「なんだとぉ？	いい気分で寝てたとこｂを無摶理﨤矢摶理起こして聞かせたのはオ＜メーだｂ」",
+    ("「なんだとぉ？	いい気分で寝てたとこを無摶理﨤矢摶理起こして聞かせたのはオ＜メーだ」",
     ""),
     # "What? It's so funny that I woke up a place where I was sleeping in a good mood and let him hear it."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "This guy is..."
 
-    ("いい加減オ激レ焜もカチンとｗた。†",
+    ("いい加減オレ焜もカチンとｗた。†",
     ""),
     # I was suddenly so excited lol.†
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "This is the final day for this day."
 
-    ("ここらでおとしまえをつけさせようと思ってたら、ギャャ宴ラ潟リーたちがぞｂぞｂと席に戻阮り出した。",
+    ("ここらでおとしまえをつけさせようと思ってたら、ギャャラリーたちがぞぞと席に戻り出した。",
     ""),
     # Just as I was about to have Otoshimae come along, the gyabanquet and the others returned to their seats, hoping to see them.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # All that remains is Akari and I-His with wry smiles.
 
-    ("オ激レと志保は、そｂって切關り出すタイミングを外してしまった。†",
+    ("オレと志保は、そって切關り出すタイミングを外してしまった。†",
     ""),
     # I and Shiho missed the timing to start calling.†
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "Yeah. It's not surprising that we both had a good fit."
 
-    ("「じ痰ゃ、あたし、隣のク宴ラスに行ってくるね」",
+    ("「じ痰ゃ、あたし、隣のクラスに行ってくるね」",
     ""),
     # "You're so phlegm, I'll go to the banquet next to you."
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # "I'll think about it."
 
-    ("志保はいそいそと隣のク宴ラスへｌかった。",
+    ("志保はいそいそと隣のクラスへｌかった。",
     ""),
     # Shiho quickly went to the banquet next to him.
 
-    ("オ激レは残った二人といっし蛯ょに席にｌかう。†",
+    ("オレは残った二人といっしょに席にｌかう。†",
     ""),
     # I went to my seat with the remaining two.†
 
@@ -182,11 +182,11 @@ text_array = [
     ""),
     # Kari said with a look of impress.
 
-    ("「ただの偶然だｂ？」",
+    ("「ただの偶然だ？」",
     ""),
     # "It's just a coincidence b?"
 
-    ("「で烽も、念じただけで物を動かせるってどんな気分なんだｂ」",
+    ("「で烽も、念じただけで物を動かせるってどんな気分なんだ」",
     ""),
     # "And how does Hou feel like he can move things just by thinking about it b?"
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "If Shiho asks you, I'll shut up."
 
-    ("とりあえずどっちと烽もとれる鰍リアクシ㏍ョンで返した。†",
+    ("とりあえずどっちと烽もとれる鰍リアクションで返した。†",
     ""),
     # For now, I returned it with a monkey that can be used to retrieve the hot water.†
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Yes... And even Hoshi, it seems like people who don't have normal phlegms will have a lot of hardships..."
 
-    ("「たしかに、あかりは鈍臭いとこｂあるからな、掾持ってないほうが翌似㍽合ってるよな」",
+    ("「たしかに、あかりは鈍臭いとこあるからな、掾持ってないほうが翌似㍽合ってるよな」",
     ""),
     # "It's true that the light has a dull smell, so the next few days are better than the ones that don't have the same slurred."
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # However, Shinsho Shukyu, who writes about his stubbornness with psychic, is also a huge hit.
 
-    ("…ま、そう思ってんのは志保ぐらいだｂうけど。†",
+    ("…ま、そう思ってんのは志保ぐらいだうけど。†",
     ""),
     # ...Well, the only one who thinks that is Shiho.†
 

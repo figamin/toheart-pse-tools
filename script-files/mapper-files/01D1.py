@@ -2,15 +2,15 @@
 # Source file: 01D1.txt
 
 text_array = [
-    ("（あかり	氏試験）閨（Ａ	じ痰ゃあ、いっし蛯ょに）†",
+    ("（あかり	氏試験）閨（Ａ	じ痰ゃあ、いっしょに）†",
     ""),
     # (Akari's exam) (A: Ah, sphemy, split)†
 
-    ("「じ痰ゃあ、いっし蛯ょに」",
+    ("「じ痰ゃあ、いっしょに」",
     ""),
     # "Ah, sputum, all sluts."
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("あかりは蛯大きくうなずいた。†",
+    ("あかりは大きくうなずいた。†",
     ""),
     # Akari nodded loudly.†
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "They're the kind of thing that doesn't last for the collecting potato power."
 
-    ("「オ激レは瞬発力タイプなんだよ」†",
+    ("「オレは瞬発力タイプなんだよ」†",
     ""),
     # "I'm the explosive type"
 
-    ("アーケードに竄やってきた。",
+    ("アーケードにやってきた。",
     ""),
     # I've been tampering with the arcade.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Buy Mesha on the afternoon"
 
-    ("オ激レはあかりを待たせて、ぽっかぽか弁抹当で適俣当なのをひとつ高注文した。†",
+    ("オレはあかりを待たせて、ぽっかぽか弁抹当で適俣当なのをひとつ高注文した。†",
     ""),
     # I made Akari wait, and ordered a high-priced one of the best bentos at Tomata.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "*It's a bit of a slut, so don't you get bored of it?"
 
-    ("「同じ烽ものだと飽きるから、工夫が必要だな。うまく高ローテーシ㏍ョン組んで、縺舌を桙満足させなき痰ゃなんない。好きな物ばっかり食うと、すぐに飽きちまうからな」†",
+    ("「同じ烽ものだと飽きるから、工夫が必要だな。うまく高ローテーション組んで、縺舌を桙満足させなき痰ゃなんない。好きな物ばっかり食うと、すぐに飽きちまうからな」†",
     ""),
     # "If you eat the same hot food, you'll get bored of it, so you need to think about it. You have to put together a high-speed rotation and not satisfy your tongue. If you eat everything you like, you'll get bored quickly."
 
@@ -102,15 +102,15 @@ text_array = [
     ""),
     # "Hmm.
 
-    ("やっぱり蛯大変だね、いｂいｂと」",
+    ("やっぱり大変だね、いいと」",
     ""),
     # It's really tough, it's so b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b
 
-    ("「ああ、蛛大変だぞ。だからお前熨も烽もっとオ激レに協力してくれ」",
+    ("「ああ、蛛大変だぞ。だからお前熨も烽もっとオレに協力してくれ」",
     ""),
     # "Ah, it's tough, so please help me out more with the noshi."
 
-    ("「うん、增わかった」",
+    ("「うん、わかった」",
     ""),
     # "Yeah, I understand."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "I'm not phlegm, I'm not phlegm. I'll go there right away when I eat."
 
-    ("「增わかった」",
+    ("「わかった」",
     ""),
     # "I understand."
 

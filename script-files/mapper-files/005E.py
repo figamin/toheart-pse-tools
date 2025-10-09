@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The classroom has finished and students are becoming sparsely populated.
 
-    ("オ激レ焜もさっさと帰闍りますか。†",
+    ("オレ焜もさっさと帰闍りますか。†",
     ""),
     # Will I be able to go back quickly to my stolen experience?†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I walked along the hallway and looked out into the view outside.
 
-    ("秩白くかすんだ唐遠くの景色が見える。",
+    ("秩白くかすんだ遠くの景色が見える。",
     ""),
     # You can see a random, hazy view from the far away Tang Dynasty.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Shoe cabinet.
 
-    ("堰ラブ激レターは…ないか。",
+    ("堰ラブレターは…ないか。",
     ""),
     # Is there a huge letter of love for the dam...?
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # disappointing.†
 
-    ("＊淫俣桒棟肛盾濶ｺ濶りしてる竄坂道。",
+    ("＊淫俣桒棟肛盾濶ｺ濶りしてる坂道。",
     ""),
     # *The Tamami slope is smashing through the anus.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # I wonder if my feet are being given high heat at all?
 
-    ("下濶りはスケボーで、ガーッとｋけ抜けるの烽も気搴持ちよさそうだ。†",
+    ("下濶りはスケボーで、ガーッと駆け抜けるの烽も気搴持ちよさそうだ。†",
     ""),
     # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # The night of the 15th day of the 4th day of the 15th day of the 4th month.†
 
-    ("ガ宴ラガ宴ラ…。",
+    ("ガラガラ…。",
     ""),
     # A banquet and a banquet and a banquet and a banquet.
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # It's moving slowly.
 
-    ("あのｂ高さからして、增戦闘機だな。",
+    ("あの高さからして、戦闘機だな。",
     ""),
     # Given that B-height, it's a big fighter.
 
-    ("驕夜間炎演習で烽も竄やってんのか。",
+    ("驕夜間炎演習で烽もやってんのか。",
     ""),
     # Are you also tampering with hot springs during the nighttime flame exercise?
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # Idiot, Shiho's phlegm is not there.†
 
-    ("オ激レは光が見えなくなるまで、ぼん竄やりと目で追いかけた。",
+    ("オレは光が見えなくなるまで、ぼんやりと目で追いかけた。",
     ""),
     # I chased after him with my eyes, silenced until the light disappeared.
 
-    ("氏月明かりのなか、グ激レーがかった奄ラインがかすかに見える。",
+    ("氏月明かりのなか、グレーがかった奄ラインがかすかに見える。",
     ""),
     # Amami Line, which has a gritty texture, is faintly visible in the moonlight.
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Kawa Pick Date Event 2) (Continued from Chosen A Greeting) (Continued from Chosen B Breathing with Nose))†
 
-    ("オ激レは顔を傾けると、思いっきり鼻で息を吸った。",
+    ("オレは顔を傾けると、思いっきり鼻で息を吸った。",
     ""),
     # I tilted my face and inhaleeded my nose.
 
@@ -15,14 +15,14 @@ text_array = [
     # "Suh, haa..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「すぅ〜っ、はぁ〜っ…」†",
     ""),
     # "Suhh, haa..."†
 
-    ("「…なに竄やってんの？」",
+    ("「…なにやってんの？」",
     ""),
     # "...What are you tampering with?!"
 
@@ -39,7 +39,7 @@ text_array = [
     # "It smells nice like Aya∴"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -51,7 +51,7 @@ text_array = [
     # "Suh, haa..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「すぅ〜っ、はぁ〜っ…」",
@@ -59,7 +59,7 @@ text_array = [
     # "Suh, haa..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ああ、いい匂いだ〜」",
@@ -75,18 +75,18 @@ text_array = [
     # "Suh, haa..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「すぅ〜っ、はぁ〜っ…」",
     ""),
     # "Suh, haa..."
 
-    ("「もういいでし蛯ょ？」",
+    ("「もういいでしょ？」",
     ""),
     # "All right now, slut?"
 
-    ("「い竄や、まだだッ！！」",
+    ("「いや、まだだッ！！」",
     ""),
     # "No, I'm not ready yet!"
 
@@ -99,7 +99,7 @@ text_array = [
     # "Suh, haa..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「すぅ〜っ、はぁ〜っ…」",
@@ -107,7 +107,7 @@ text_array = [
     # "Suh, haa..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「で、いつまで、そうしてるつ烽もり？」",

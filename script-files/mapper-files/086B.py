@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (With Remy, the balance number event PS) (Choice, nothing is hot)†
 
-    ("增わざ墲わざ追いかけるの烽もなんだな…。",
+    ("わざ墲わざ追いかけるの烽もなんだな…。",
     ""),
     # I wonder if it's the kind of thing that goes on a mission to chase them...
 

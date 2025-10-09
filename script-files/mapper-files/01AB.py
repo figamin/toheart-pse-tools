@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I feel like there's a little bit."
 
-    ("と、オ激レは嘯答えた。",
+    ("と、オレは嘯答えた。",
     ""),
     # My heart replied.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "As expected" †
 
-    ("自搦慢じ痰ゃないが、オ激レはこれで意外に現実蜴主義なほうだ。",
+    ("自搦慢じ痰ゃないが、オレはこれで意外に現実蜴主義なほうだ。",
     ""),
     # I can't hold back any phlegms, but this is surprisingly a realist.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # I didn't really believe that kind of thing.
 
-    ("しかし、竅やっぱり実体験は考えを変える。",
+    ("しかし、やっぱり実体験は考えを変える。",
     ""),
     # However, real experiences change your mind after all.
 
-    ("あの不自然なガ宴ラスのр割れ福方、あれをどう烽説明しｂと言うのか。†",
+    ("あの不自然なガラスのр割れ方、あれをどう烽説明しと言うのか。†",
     ""),
     # How do you explain that unnatural banquet and how do you say "b"?†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Also... there's also the time to smoke while he's on spring break with lol Suzumi-san.
 
-    ("あの夜起こったことにくらべれば、今厓日の魔事庶件なんて、まだ鰍リア潟リティがあるぜ。",
+    ("あの夜起こったことにくらべれば、今厓日の魔事庶件なんて、まだ鰍リアリティがあるぜ。",
     ""),
     # Comparing what happened that night, the common magical incident on the day of the day still has a strong presence.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「そう竄やってまじめに考えてる顔、なんだか久しぶりに見たような気がするな」",
+    ("「そうやってまじめに考えてる顔、なんだか久しぶりに見たような気がするな」",
     ""),
     # "It feels like it's been a while since I saw it, as he's been trying to do something seriously after all."
 

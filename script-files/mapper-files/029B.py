@@ -2,15 +2,15 @@
 # Source file: 029B.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｂ	竅やめとく）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｂ	やめとく）†",
     ""),
     # (Seri°Kawa, Scales Event 2F LV4)Seri (Select Sou B, Stop)†
 
-    ("「い竄や、竅やっぱ唐遠慮しとくぜ」",
+    ("「いや、やっぱ遠慮しとくぜ」",
     ""),
     # "I'll just swear, I'll just refrain from doing it."
 
-    ("オ激レは断った。",
+    ("オレは断った。",
     ""),
     # I refused.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Anti-sphemy"
 
-    ("オ激レは先輩と別れた。◯",
+    ("オレは先輩と別れた。◯",
     ""),
     # I broke up with my senior.◯
 

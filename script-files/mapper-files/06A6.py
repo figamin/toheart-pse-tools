@@ -2,11 +2,11 @@
 # Source file: 06A6.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	帰闍り道）閨（選択綜	あいさつして別れる）†",
+    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜	あいさつして別れる）†",
     ""),
     # (Muryuruchi, the balance event, return trip) (Choice, greeting and parting)†
 
-    ("「オ激レのほうはゲーセンで烽も寄っていこうかと思って」",
+    ("「オレのほうはゲーセンで烽も寄っていこうかと思って」",
     ""),
     # "I thought I'd stop by the arcade for my gem."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Yes, see you later" †
 
-    ("笑迴顔で手を振髏るマ泣ルチと別れ、オ激レはゲーセンへと入っていった。",
+    ("笑迴顔で手を振髏るマルチと別れ、オレはゲーセンへと入っていった。",
     ""),
     # I broke up with a laugh and waved my hand and cried, and I entered the arcade.
 

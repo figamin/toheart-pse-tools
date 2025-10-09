@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "There is, if there is."
 
-    ("「あら、ち蛯ょっと強気が減っち痰ゃった墲わね」",
+    ("「あら、ちょっと強気が減っち痰ゃった墲わね」",
     ""),
     # "Oh, the powerful force has decreased, so it's a sigh of phlegm."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It's not that it's because you've gained strength...†
 
-    ("「いいか、見てｂよ。今厓日は意地で烽もパンチを魔当てて竄やるからな」",
+    ("「いいか、見てよ。今厓日は意地で烽もパンチを魔当ててやるからな」",
     ""),
     # "Look, look, b. I'll be stubborn on the day now, and I'll hit the punch with the enemy and tamper."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "I wonder if I can do it?"
 
-    ("「へっ。いくら空闍手を竄やってたからとはいえ、浴女の子を鰍相闡手に一発熹も魔当てられないなんて、﨟情けなさすぎるからな」†",
+    ("「へっ。いくら空闍手をやってたからとはいえ、浴女の子を鰍相闡手に一発熹も魔当てられないなんて、﨟情けなさすぎるからな」†",
     ""),
     # "Heh. No matter how much he's tampering with the sky, it's too pathetic that he can't even hit a bathing girl with a single shot at the cattle."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Yes. A famous fighter."
 
-    ("「そり痰ゃまた蛯大きく出たな」",
+    ("「そり痰ゃまた大きく出たな」",
     ""),
     # "If you've got a sigh of phlegm, it's a big spider again."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「ふふ、セ潟リオ、グ鴻ローブ用意して」",
+    ("「ふふ、セリオ、グ鴻ローブ用意して」",
     ""),
     # "Haha, Seragata Rio, prepare some Ghoo robes."
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "yes"
 
-    ("セ潟リオはスポーツバッグのｒから、赤と青のグ鴻ローブを取闔り出し、掾持ってきた。",
+    ("セリオはスポーツバッグのｒから、赤と青のグ鴻ローブを取闔り出し、掾持ってきた。",
     ""),
     # Segata Rio took out a red and blue ghoo robe from his sports bag and brought it to him.
 
-    ("オ激レと綾∴香はそれを受け取闔り、閨手にはめた。†",
+    ("オレと綾∴香はそれを受け取闔り、閨手にはめた。†",
     ""),
     # Megure and Aya Kara received it and put it in their hands.†
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Oh, it won't start even if you're talking silly. Let's start quickly."
 
-    ("「そうね。セ潟リオ」†",
+    ("「そうね。セリオ」†",
     ""),
     # "Yes, Seragata Rio" †
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Yes. See you later..."
 
-    ("審判のセ潟リオが前に出髀る。",
+    ("審判のセリオが前に出髀る。",
     ""),
     # Judgment Segata Rio makes a comeback.
 
@@ -134,15 +134,15 @@ text_array = [
     ""),
     # Rough!
 
-    ("氏試㍽合開始の声とと烽もに、オ激レは蛯大きく前に踏み出した。",
+    ("氏試㍽合開始の声とと烽もに、オレは大きく前に踏み出した。",
     ""),
     # With the voices of the start of the test, I took a big step forward.
 
-    ("積極的に接近するオ激レを見て、綾∴香が意外そうな顔をする。†",
+    ("積極的に接近するオレを見て、綾∴香が意外そうな顔をする。†",
     ""),
     # Seeing my guts approaching her proactively, Aya∴Ka makes a surprising look on her face.†
 
-    ("どの福方阜から攻めるか！？",
+    ("どの方阜から攻めるか！？",
     ""),
     # Which Fukukata Fu will you attack??
 

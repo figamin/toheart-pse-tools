@@ -11,10 +11,10 @@ text_array = [
     # "That means this book is..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「いｂんなｂ魔術聡書から悪ｈ魔の起源を考察する本って墲わけだな！」",
+    ("「いんな魔術聡書から悪ｈ魔の起源を考察する本って墲わけだな！」",
     ""),
     # "It's a book that examines the origins of evil evil demons from B-Magic Insights, isn't it?"
 
@@ -22,16 +22,16 @@ text_array = [
     ""),
     # = Normally, it would be a hot topic to be completely touched, but Senpai Nods with Ko-kun.†
 
-    ("「じつはオ激レ焜も、悪ｈ魔にはく墲わしいんだぜ？",
+    ("「じつはオレ焜も、悪ｈ魔にはく墲わしいんだぜ？",
     ""),
     # "In fact, I'm a bit of a slutty guy, right?
 
-    ("『ヘクシ㏍ョン蜒大ｑ魔王』って知ってる？」",
+    ("『ヘクション蜒大ｑ魔王』って知ってる？」",
     ""),
     # Do you know "Hexyūn Kandai Q Demon King"?”
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「知迺らないって？	ふっふっふっ、じ痰ゃあ、閨『ペッコ鴻ロ蜒大ｑ魔王』は？」",
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # Senpai shook his head from side to side.†
 
-    ("「なんだ先輩、勉強が足闡りないな。けっこう≠メジャャーな連中なんだぜ？	ま、その本には載ってないだｂうけどさ」",
+    ("「なんだ先輩、勉強が足闡りないな。けっこう≠メジャャーな連中なんだぜ？	ま、その本には載ってないだうけどさ」",
     ""),
     # "What's that senior, I don't have much time to study. They're pretty different kinds of people, right? Well, it's not in that book."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	ぜひ教えて欲しいって？	そうだな、また今度、教えて竄やるよ。オ激レのすばらしいイ宴ラスト付きで」",
+    ("「え？	ぜひ教えて欲しいって？	そうだな、また今度、教えてやるよ。オレのすばらしいイラスト付きで」",
     ""),
     # "Huh? You really want me to let you know? That's right, I'll tell you again next time. Come with my amazing, amazing party ending."
 

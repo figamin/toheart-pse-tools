@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho Scales Event, 1st floor 2) (Selection Scales)†
 
-    ("「ダ＜メだ。オ激レは忙しいんだ」",
+    ("「ダ＜メだ。オレは忙しいんだ」",
     ""),
     # "It's a damn thing. I'm busy."
 
-    ("オ激レは首を横に振った。",
+    ("オレは首を横に振った。",
     ""),
     # I shook my head.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "She's phlegmy."
 
-    ("オ激レは志保を冾放っといて、下駄箱へｌかった。◯",
+    ("オレは志保を冾放っといて、下駄箱へｌかった。◯",
     ""),
     # I left Shiho alone and went to the shoe cabinet.◯
 

@@ -10,15 +10,15 @@ text_array = [
     ""),
     # "See you, Senpai."
 
-    ("オ激レは微笑んで手を振った。",
+    ("オレは微笑んで手を振った。",
     ""),
     # I smiled and waved.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩はなに竄やら考えたあと、",
+    ("諱先輩はなにやら考えたあと、",
     ""),
     # After thinking about what he was saying,
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # He nodded a small head.
 
-    ("オ激レはその前を通闥り過ぎた。◯",
+    ("オレはその前を通闥り過ぎた。◯",
     ""),
     # My gang had gone too far before that.◯
 

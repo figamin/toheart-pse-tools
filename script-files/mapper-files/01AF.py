@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "...When you say that, you don't feel that way and it seems like there's no heat."
 
-    ("「でし蛯ょ〜？」",
+    ("「でしょ〜？」",
     ""),
     # "Ahhhhh?"
 
-    ("オ激レが賛同したので、そのまま一気にモ買う福方阜へと流齬れていった。",
+    ("オレが賛同したので、そのまま一気にモ買う方阜へと流齬れていった。",
     ""),
     # My gei-re agreed, so I suddenly lost track of Fukukata Fu, who bought the mov.
 
@@ -22,12 +22,12 @@ text_array = [
     ""),
     # "Uncle, please give me one of this"†
 
-    ("オ激レは烽もう一回、じっくりとクマチャウを観察してみた。",
+    ("オレは烽もう一回、じっくりとクマチャウを観察してみた。",
     ""),
     # I took another thorough observation of the bear chow.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("個性的…ではあるな。†",

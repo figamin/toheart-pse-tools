@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「ひな祭闕りのときは、必ずｒてたじ痰ゃねーか、可愛い竄やつ」",
+    ("「ひな祭闕りのときは、必ずｒてたじ痰ゃねーか、可愛いやつ」",
     ""),
     # "When you're having a Hinamatsuri festival, you'll always have to phlegm, or something cute."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "My parents said that every time I watched you, the girl I wanted, and that I wanted a girl with a bath. My memory was so sad that I was left in my memory."
 
-    ("「どっちかというと、あれはうちのお母さんのｎ味で、п私はム潟リсヤ潟リヲせられたって感じなんだけど…」",
+    ("「どっちかというと、あれはうちのお母さんのｎ味で、п私はムリсヤリヲせられたって感じなんだけど…」",
     ""),
     # "In fact, that was my mother's n-flavor, and I felt like I was being given a Mugata RiсYagata Rio..."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "You're fine with phlegm, you can wear it."
 
-    ("「で烽も、ま墲わりのみんなは≠普通の格好してるでし蛯ょ？	п私だけｂ浮いてて、恥ずかしくて、あんまり外には出たくなかったな」",
+    ("「で烽も、ま墲わりのみんなは≠普通の格好してるでしょ？	п私だけ浮いてて、恥ずかしくて、あんまり外には出たくなかったな」",
     ""),
     # "And even for Hou, everyone in the world dresses normally, yeah? I'm the only one who's standing there, and I'm embarrassed, so I didn't really want to go outside."
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # "...Tch, is that?"
 
-    ("オ激レは繧舌打ちして言った。†",
+    ("オレは繧舌打ちして言った。†",
     ""),
     # I clicked my tongue and said,†
 
-    ("あかりの言う『ひな壇蜥大崩壊哩事庶件』とは、ちっち痰ゃい子沁供のこｂの話だ。",
+    ("あかりの言う『ひな壇蜥大崩壊哩事庶件』とは、ちっち痰ゃい子沁供のこの話だ。",
     ""),
     # Akari's words, "The Great Collapse of the World War II" is about the fact that he is a slutty child who has a deep slut.
 
-    ("秩白酒に撃酔ったオ激レが、あかりんちのひな壇に繧上って、それをぶっつぶした｢｢とまあ、そんな烽内容だ。",
+    ("秩白酒に撃酔ったオレが、あかりんちのひな壇に繧上って、それをぶっつぶした｢｢とまあ、そんな烽内容だ。",
     ""),
     # I was drunk with Choibai Sake and climbed up to Akarinchi's podium and muttered it to me, "Well, that's the kind of hot content.
 
-    ("しかし、そんな蛯大昔の話をよく覚えている烽もんだ。†",
+    ("しかし、そんな大昔の話をよく覚えている烽もんだ。†",
     ""),
     # However, I remember such a long time ago story.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Hehe, well."
 
-    ("なに竄やらふくみ笑いをするあかり。†",
+    ("なにやらふくみ笑いをするあかり。†",
     ""),
     # Akari laughs with something and laughs.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Uh, what's the hot spring. And the hot spring is nice too."
 
-    ("「なーんか隠してるだｂ」",
+    ("「なーんか隠してるだ」",
     ""),
     # "What is it, I'm hiding it b."
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # "What?!? Yes, it's not like ""
 
-    ("「お前の嘘ぐらいすぐ墲わかんだよ！	おらっ、なに隠してる、秩白状しｂ！」†",
+    ("「お前の嘘ぐらいすぐ墲わかんだよ！	おらっ、なに隠してる、秩白状し！」†",
     ""),
     # "I know as quickly as you can lie! What are you hiding, I confess your order!" †
 
-    ("その繧後、あかりの家に、磨当椏時のオ激レの痴態を写した写真が残っていることが判明した。",
+    ("その繧後、あかりの家に、当椏時のオレの痴態を写した写真が残っていることが判明した。",
     ""),
     # After that, it was revealed that there was a photograph of my lewd behavior when I was masturbating.
 

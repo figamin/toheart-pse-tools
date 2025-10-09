@@ -2,7 +2,7 @@
 # Source file: 0F13.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル２）閨（冝期槙末テスト繝後篇（ＨｂｂＨ））閨（選択綜	♂史がｗた）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	♂史がｗた）閨（蛛主人公煙負け）†",
     ""),
     # (Arcade Battle Cry 2) (Red Season Final Test Part 2 (HbbH)) (Choice Songs: Makishi lol) (Mrage Protagonist: Lost) †
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Because of this, it's a bit of a boar."
 
-    ("「こういうことがあるから福油断できねーんだ」",
+    ("「こういうことがあるから油断できねーんだ」",
     ""),
     # "Because of this, I can't let my guard down."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "It's absolutely not" †
 
-    ("う墲わさをすれば、志保とあかりがこっちへ竄やってｗた。",
+    ("う墲わさをすれば、志保とあかりがこっちへやってｗた。",
     ""),
     # If I did it, Shiho and Akari were tampering with me lol.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Shiho seems to still be stalking what he has done to an outcast.†
 
-    ("「ああ、楽しいね。お前をかまって竄やれないくらいな」",
+    ("「ああ、楽しいね。お前をかまってやれないくらいな」",
     ""),
     # "Ah, that's fun. I can't take care of you and tamper with it."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Yeah, it's fine.
 
-    ("やｂ」†",
+    ("や」†",
     ""),
     # つけた」†
 

@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Game Remy Scale Event 1st Floor 2 LV2) (Shoe cabinet)†
 
-    ("「じ痰ゃあ、いっし蛯ょに帰汲うぜ」",
+    ("「じ痰ゃあ、いっしょに帰汲うぜ」",
     ""),
     # "Ah, I'll return to the slut."
 
-    ("オ激レが聞くと、",
+    ("オレが聞くと、",
     ""),
     # When I heard
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "It's not bad, isn't it?"
 
-    ("オ激レはうなずいた。†",
+    ("オレはうなずいた。†",
     ""),
     # I nodded.†
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "I love Japanese cherry blossoms"
 
-    ("「ア＜メ潟リカには咲いてないのか？」",
+    ("「ア＜メリカには咲いてないのか？」",
     ""),
     # "Is it not blooming in America?"
 
-    ("「ち蛯ょっとだけ、轣咲いてるｃ。ニッポンみたいに、たくさん咲いてないの」",
+    ("「ちょっとだけ、轣咲いてるｃ。ニッポンみたいに、たくさん咲いてないの」",
     ""),
     # "It's just the climax of the flowers blooming. It's not blooming as many as Japan."
 
@@ -70,31 +70,31 @@ text_array = [
     ""),
     # "That's right?"
 
-    ("オ激レは言い切った。†",
+    ("オレは言い切った。†",
     ""),
     # I said it perfectly.†
 
-    ("「…そういえば撃レミィの田舎って、ア＜メ潟リカのどこだっけ？」",
+    ("「…そういえば撃レミィの田舎って、ア＜メリカのどこだっけ？」",
     ""),
     # "...By the way, where is the countryside of Ekiremi in America?"
 
-    ("「アタシ？	アタシの田舎はＳ≠ａ獅ｎ	Ｆ窒ｒ≠ａ獅ｎモｃ奄ｉ唐入モｃ盾ｏｃ」",
+    ("「アタシ？	アタシの田舎はＳ≠ａ獅ｎ	Ｆ窒ｒ≠ａ獅ｎモｃ奄ｉ入モｃ盾ｏｃ」",
     ""),
     # "Me? My countryside is S≠a lion, F nitrogen≠a lion, Amane tangential mo c shield oc"
 
-    ("「サンフ宴ランシスコかあ…。",
+    ("「サンフランシスコかあ…。",
     ""),
     # "Sanfu banquet, Lancisco...
 
-    ("金蜍門橋ゴールデンゲートブ潟リッジが有名な場鰹所だよな」",
+    ("金蜍門橋ゴールデンゲートブリッジが有名な場鰹所だよな」",
     ""),
     # Kinryumon Bridge Golden Gate Bugata Ridge is a famous bonito spot."
 
-    ("オ激レには、観光名竃所のイ＜メージしかない場鰹所だ。†",
+    ("オレには、観光名竃所のイ＜メージしかない場鰹所だ。†",
     ""),
     # In my mind, it's a bonito spot that only has an image of the tourist spot.†
 
-    ("「、Ｓ≠ａ獅ｎ	Ｆ窒ｒ≠ａ獅ｎモｃ奄ｉ唐入モｃ盾ｏは『ＳＦ』って略すのよ」",
+    ("「、Ｓ≠ａ獅ｎ	Ｆ窒ｒ≠ａ獅ｎモｃ奄ｉ入モｃ盾ｏは『ＳＦ』って略すのよ」",
     ""),
     # "S≠a lion, F nitrogen≠a lion, Amai tangential mo c shield o is shortened to "SF"."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "And what kind of city is SF?"
 
-    ("「えっとね、いつ烽もｂ盾ｏ№ｇ№ｇ凾ｙなの。朝と夜は涼しいｃ」",
+    ("「えっとね、いつ烽も盾ｏ№ｇ№ｇ凾ｙなの。朝と夜は涼しいｃ」",
     ""),
     # "Um, the hot water is always a Nog Nog shield. It's cool in the mornings and nights."
 
@@ -142,19 +142,19 @@ text_array = [
     ""),
     # "You can't see... maybe it's fog?"
 
-    ("「キ潟リ？」",
+    ("「キリ？」",
     ""),
     # "Kigatari?"
 
-    ("「ほら、朝になると外が真っ窒白なときがたまにあるだｂ？	外に出髀ると桙服が湿ってきて、気搴持ち悪い竄やつ」†",
+    ("「ほら、朝になると外が真っ窒白なときがたまにあるだ？	外に出髀ると桙服が湿ってきて、気搴持ち悪いやつ」†",
     ""),
     # "Look, in the morning, sometimes it's completely white outside b? When I go outside, my fox clothes get wet and they're just too moist." †
 
-    ("「Ｏｂ、凵ｙｂ唐入。キ潟リデ〜ス」",
+    ("「Ｏ、凵ｙ入。キリデ〜ス」",
     ""),
     # "Ob, yib Tangari. Kigata Ridesu."
 
-    ("「ＳＦってｖ淫俣坙ｶが出てるのかよ？	そり痰ゃ寒いだｂ？」",
+    ("「ＳＦってｖ淫俣坙ｶが出てるのかよ？	そり痰ゃ寒いだ？」",
     ""),
     # "Is SF a v Inumata Kunka appearing? Is it cold if it's phlegm?"
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # It's hot in Japan's summer c"
 
-    ("「なんか良さそうだな…。で烽も、冬は寒いんだｂ？」",
+    ("「なんか良さそうだな…。で烽も、冬は寒いんだ？」",
     ""),
     # "It looks good... And is it cold in winter too?"
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "So, in SF, is there a white bonito bonito spot?
 
-    ("戟レミィはち蛯ょっと考えて、",
+    ("戟レミィはちょっと考えて、",
     ""),
     # I thought about it,
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "Just sputum, Chayana Town"
 
-    ("「おめーは外人かっつーの。アジアは忘齧れｂ」",
+    ("「おめーは外人かっつーの。アジアは忘齧れ」",
     ""),
     # "Hello, you're a foreigner. Forget Asia."
 
@@ -246,11 +246,11 @@ text_array = [
     ""),
     # Her overly girl is half foreigner.†
 
-    ("「ゴ＜メンゴ＜メン。ＳＦ、とって烽もいいとこｂなんだけど、どこ烽も≠普通に見えるの」",
+    ("「ゴ＜メンゴ＜メン。ＳＦ、とって烽もいいとこなんだけど、どこ烽も≠普通に見えるの」",
     ""),
     # "Go<Mengo<Men. SF, the best part is b, but it looks just normal to see that no matter what you say."
 
-    ("「考えてみれば、どんな綺淏麗な景色熕も、地元の人間にしてみれば、磨当たり前のことなんだよな…」",
+    ("「考えてみれば、どんな綺淏麗な景色熕も、地元の人間にしてみれば、当たり前のことなんだよな…」",
     ""),
     # "When you think about it, any beautiful scenery is obvious to the locals..."
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "Please tell me about the fun bonito spots in Japan."
 
-    ("「冝日本のぉ？	そんなの、オ激レが知闥りてー諱よ」",
+    ("「冝日本のぉ？	そんなの、オレが知闥りてー諱よ」",
     ""),
     # "Is it Japan? I know that, my heart is here, my name is."
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # ...What is it? Is there no phlegm to listen to where to play?†
 
-    ("「自然なら、確かにいいとこｂは山ほどあるだｂーな」",
+    ("「自然なら、確かにいいとこは山ほどあるだーな」",
     ""),
     # "In nature, there are certainly a lot of good b-s."
 
@@ -298,15 +298,15 @@ text_array = [
     ""),
     # "If I were to go with Karemi, I would say "
 
-    ("Ａ	竅やっぱ海かな。閨",
+    ("Ａ	やっぱ海かな。閨",
     ""),
     # A: I guess it's the sea after all.Relax
 
-    ("Ｂ	竅やっぱ山かな。閨",
+    ("Ｂ	やっぱ山かな。閨",
     ""),
     # B I guess it's mountain after all.Relax
 
-    ("Ｃ	遊園地とかの福方が楽しくないか？閨",
+    ("Ｃ	遊園地とかの方が楽しくないか？閨",
     ""),
     # C: Isn't the happiness of amusement parks and other places fun?Relax
 

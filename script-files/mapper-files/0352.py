@@ -14,7 +14,7 @@ text_array = [
     ""),
     # He said to the disdainful as he overtakes him.
 
-    ("だが委員長は（フ潟リなのか、本末当に聞こえないのか）無許視して先を烽歩いていく。†",
+    ("だが委員長は（フリなのか、本末当に聞こえないのか）無許視して先を烽歩いていく。†",
     ""),
     # However, the chairman ignores the situation (whether it's Fugatari or doesn't sound like the truth), and walks ahead.†
 
@@ -31,7 +31,7 @@ text_array = [
     # "Hey, hey, can't you hear me?!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「保科智子ッ！！」",
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("オ激レは、すう〜〜…っと深く息を吸うと、蛛大声で、",
+    ("オレは、すう〜〜…っと深く息を吸うと、蛛大声で、",
     ""),
     # I took a deep breath, huh... and then cried out loud
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Ohhhh, shiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii
 
-    ("「そない蛯大声出さんで烽も、ち痰ゃんと聞こえてるっ！」",
+    ("「そない大声出さんで烽も、ち痰ゃんと聞こえてるっ！」",
     ""),
     # "They scream loudly, and even Ho can hear me sigh!"
 
-    ("慌てて振關りｌいた委員長が蛯大声で怒鳴った。†",
+    ("慌てて振關りｌいた委員長が大声で怒鳴った。†",
     ""),
     # The chairman yelled out loud, shouting loudly.†
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # The chairman looked around, and looked over at the shore and looked down in shame.†
 
-    ("「なんだよ、聞こえてんなら返抹事しｂよ」",
+    ("「なんだよ、聞こえてんなら返抹事しよ」",
     ""),
     # "What is it? If you can hear me, I'll give you a reply."
 
-    ("オ激レは委員長の前まで烽歩み寄って言った。",
+    ("オレは委員長の前まで烽歩み寄って言った。",
     ""),
     # I said to him, walking up to the chairman.
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # For a moment, shame gradually changes into rage.
 
-    ("竅やがて、噤爆発寸前の委員長は、震えた声で言った。†",
+    ("やがて、噤爆発寸前の委員長は、震えた声で言った。†",
     ""),
     # Soon, the chairman, who was on the verge of explosion, said in a trembling voice.†
 
-    ("「…シカトしとったん竄や」",
+    ("「…シカトしとったんや」",
     ""),
     # "...I'm going to tamper with it."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # At that moment, anger exploded!†
 
-    ("「あんたがうっとうしいから、ずっとシカトしとったん竄やないかッ！！」",
+    ("「あんたがうっとうしいから、ずっとシカトしとったんやないかッ！！」",
     ""),
     # "You're annoying, so you've been tampering with me forever!!"
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "What..."
 
-    ("「ずっとシカトしたったら、そのうちあきらめて話しかけてこんようになると思ったけど、どう竄やら思い痰違い竄やったみたい竄やな！」†",
+    ("「ずっとシカトしたったら、そのうちあきらめて話しかけてこんようになると思ったけど、どうやら思い痰違いやったみたいやな！」†",
     ""),
     # "I thought if I kept messing around, I would eventually give up and talk to him, but it seems like I've tampered with something like that, or I've mistook it!"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # ...No, no, no, no, no.
 
-    ("ふたりと烽もキ激レた状態で衝突したんじ痰ゃ、それこそ福収拾がつかなくなっちまう。†",
+    ("ふたりと烽もキレた状態で衝突したんじ痰ゃ、それこそ収拾がつかなくなっちまう。†",
     ""),
     # The two of them collided with each other in a state of anger, but it's impossible to control their luck.†
 
@@ -142,15 +142,15 @@ text_array = [
     ""),
     # ...You're going to fall, you're going to fall.
 
-    ("竅冷静になるよう、自分に言いきかせた。",
+    ("冷静になるよう、自分に言いきかせた。",
     ""),
     # I told myself to stay calm.
 
-    ("こみ繧上げてきた怒闢りをなんとか押し止めると、オ激レは無摶理﨤矢摶理ぎこちない笑迴顔をｍって言った。",
+    ("こみ繧上げてきた怒闢りをなんとか押し止めると、オレは無摶理﨤矢摶理ぎこちない笑迴顔をｍって言った。",
     ""),
     # I managed to hold back the rage that had been erupting, and my gangbang made a sniff, laughing face.
 
-    ("「…は、ははは、梶相変﨑わらずキツイ諠よなァ、委員長は。オ激レがうっとうしいって？」†",
+    ("「…は、ははは、梶相変﨑わらずキツイ諠よなァ、委員長は。オレがうっとうしいって？」†",
     ""),
     # "...Hahaha, Kaji Ai Henzaki is a tough guy, isn't it? The chairman. You mean I'm so annoying?"
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # The chairman took a deep breath, looking troublesome,
 
-    ("「そう竄や」",
+    ("「そうや」",
     ""),
     # "That's it."
 
@@ -166,15 +166,15 @@ text_array = [
     ""),
     # He replied.†
 
-    ("「あのとき烽も屋繪上で言うたけど、くん、あんた、ち蛯ょっとр私に馴齠れ馴齠れしすぎるんとち痰ゃうか」",
+    ("「あのとき烽も屋繪上で言うたけど、くん、あんた、ちょっとр私に馴齠れ馴齠れしすぎるんとち痰ゃうか」",
     ""),
     # "At that time, I said that Hot Springs were also on the street, but you, you're so used to me, that's too good to be used to it."
 
-    ("竅冷たくオ激レをにらむ。",
+    ("冷たくオレをにらむ。",
     ""),
     # I stare at my intense ecstasy coldly.
 
-    ("「いったい、あんたはр私のなんなん竄や？」",
+    ("「いったい、あんたはр私のなんなんや？」",
     ""),
     # "What on earth are you, what are you tampering with me?"
 
@@ -182,11 +182,11 @@ text_array = [
     ""),
     # He frowned, "I'm not going to let you know."†
 
-    ("「なにって、同じク宴ラスだし、席だって…」",
+    ("「なにって、同じクラスだし、席だって…」",
     ""),
     # "What the heck is the same party, and we have a seat..."
 
-    ("「それだけ竄やｂ。べつに友だちで烽もなんで烽もない竄やんか」",
+    ("「それだけや。べつに友だちで烽もなんで烽もないやんか」",
     ""),
     # "That's all that tampering is b. Is it a friend and why is it a tampering without a hot spring?"
 
@@ -194,11 +194,11 @@ text_array = [
     ""),
     # Why are you friends and not hot?
 
-    ("「なに言ってんだよ、友だちだｂ？」",
+    ("「なに言ってんだよ、友だちだ？」",
     ""),
     # "What are you talking about, you're friends b?"
 
-    ("オ激レはぎこちなく笑って言った。",
+    ("オレはぎこちなく笑って言った。",
     ""),
     # I laughed awkwardly and said.
 
@@ -206,11 +206,11 @@ text_array = [
     ""),
     # The chairman exhaled in shock.†
 
-    ("「п私がいつ、あんたと友だちになったん竄や？",
+    ("「п私がいつ、あんたと友だちになったんや？",
     ""),
     # "When did I become friends with you?
 
-    ("馴齠れ馴齠れしい言うのはそういうこと竄やｂ？」",
+    ("馴齠れ馴齠れしい言うのはそういうことや？」",
     ""),
     # Is that what you say is that kind of tampering with? B?”
 
@@ -218,11 +218,11 @@ text_array = [
     ""),
     # Is it okay to get used to?
 
-    ("まあ、たしかにオ激レは、そういうとこにはち蛯ょっと無神経か烽もしれねーけど。†",
+    ("まあ、たしかにオレは、そういうとこにはちょっと無神経か烽もしれねーけど。†",
     ""),
     # Well, it's true that my eccentricity is probably insensitive or even hot in such places.†
 
-    ("「けど、帰闍り道で声かけるぐらい≠普通だｂ？」",
+    ("「けど、帰闍り道で声かけるぐらい≠普通だ？」",
     ""),
     # "But it's normal that you would call out to the road on the way home."
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # And then, when I laughed,
 
-    ("「п私はそんな墲わがままで自己健な翌女なん竄や。話しかけて烽も、なんに烽もいいことなんかない。",
+    ("「п私はそんな墲わがままで自己健な翌女なんや。話しかけて烽も、なんに烽もいいことなんかない。",
     ""),
     # "I'm such a selfish, self-healthy next woman. I talk to you, nothing good about it, nothing good about it.
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # That's what I said.†
 
-    ("「…せ竄やから、п私に話しかけてくるの、もうこれっきりにしてくれんか」",
+    ("「…せやから、п私に話しかけてくるの、もうこれっきりにしてくれんか」",
     ""),
     # "...I'm a bit of a slut, so you're going to talk to me, can you just keep this up?"
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # "Chairman..."
 
-    ("だけど、なぜかその背白がとて烽も竄寂しそうに見えたのは、オ激レの気のせいだｂうか。◯",
+    ("だけど、なぜかその背白がとて烽も寂しそうに見えたのは、オレの気のせいだうか。◯",
     ""),
     # But for some reason, it was just my imagination that the disguise of him that made Hou look lonely and even he was a bit lonely.◯
 

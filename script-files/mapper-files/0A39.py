@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Ah!!"
 
-    ("「おまえな〜。フ泣ルネームで呼ぶなよ、いちいち」",
+    ("「おまえな〜。フルネームで呼ぶなよ、いちいち」",
     ""),
     # "You. Don't call me by my name, every time."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ou!"
 
-    ("あいか墲わらず元気な竄やつだ。†",
+    ("あいか墲わらず元気なやつだ。†",
     ""),
     # He's a lively guy who's not even stolen.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # The cat had already disappeared somewhere, as if to have been saved.
 
-    ("「たまさぶｂーか？	アイツ、いつ烽もサカナぬすむから、こらしめて竄やってたんだ」",
+    ("「たまさぶーか？	アイツ、いつ烽もサカナぬすむから、こらしめてやってたんだ」",
     ""),
     # "Tamasabu b? He's always going to go wild, so you kept trying to stop him and tamper with it."
 
@@ -51,14 +51,14 @@ text_array = [
     # "Don't let it go. And Kao also apologized to her and your sister, Symptom, because she kept the promises of the man."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("とつぜん神妙な顔つきになる。",
     ""),
     # He suddenly gets a serious face.
 
-    ("そうい竄やコイツ、そのことで揩理女緒ち痰ゃんにしかられたとか言ってたな。†",
+    ("そういやコイツ、そのことで揩理女緒ち痰ゃんにしかられたとか言ってたな。†",
     ""),
     # He said that he was criticized for this and that he was criticized by the way he was stolen by the way.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「ねえち痰ゃん、諱よｂこんでたぞ」",
+    ("「ねえち痰ゃん、諱よこんでたぞ」",
     ""),
     # "Hey, phlegm, you've got a name for yourself."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Oh, is that so...?"
 
-    ("「ねえち痰ゃん、まいにちたのしそうだ。があ竄やまったからか？」",
+    ("「ねえち痰ゃん、まいにちたのしそうだ。があやまったからか？」",
     ""),
     # "Hey, phlegm, it looks like it's fun every day. Maybe it's because you've started messing around?"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Oh, maybe" †
 
-    ("コイツ、なかなかドキッとすること言い竄やがる。",
+    ("コイツ、なかなかドキッとすること言いやがる。",
     ""),
     # This guy is quite a bit of a thrilling statement.
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # Don't ask that.
 
-    ("真武剣な目で見つめ竄やがって…。†",
+    ("真武剣な目で見つめやがって…。†",
     ""),
     # He stared at him with his sword-fighting eyes...†
 
-    ("「オ激レはだな｢｢」",
+    ("「オレはだな｢｢」",
     ""),
     # "I'm really '"
 

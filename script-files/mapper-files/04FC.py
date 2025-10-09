@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What, did you not know?"
 
-    ("「あんたっていつ烽もだるそうにしてるからね。そー艨ゆー刺ヮ激に飢えてるんだ墲わ」",
+    ("「あんたっていつ烽もだるそうにしてるからね。そー艨ゆー刺ヮに飢えてるんだ墲わ」",
     ""),
     # "You're always looking lame for the Hot. You're so hungry for the snake."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # I don't remember though."
 
-    ("「ＣＭとか竄やってねえしな、多分風てねえんだｂ」",
+    ("「ＣＭとかやってねえしな、多分風てねえんだ」",
     ""),
     # "We haven't tampered with commercials, it's probably not windy b."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Ah, that's it, I'm also hot" †
 
-    ("結局その冾日は映謇画を竄やめ、ふたりでだべりながら帰った。◯",
+    ("結局その冾日は映謇画をやめ、ふたりでだべりながら帰った。◯",
     ""),
     # In the end, they stopped tampering with the Eiji paintings and went home together, drove away.◯
 

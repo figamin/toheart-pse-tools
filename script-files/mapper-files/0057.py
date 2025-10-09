@@ -18,7 +18,7 @@ text_array = [
     ""),
     # =I usually make a loud noise, so does that mean that the vocal cords are also perfect?†
 
-    ("オ激レは駄目だ。",
+    ("オレは駄目だ。",
     ""),
     # I'm not good at it.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # My throat is quickly shaking.
 
-    ("いま烽もガ宴ラガ宴ラだ。",
+    ("いま烽もガラガラだ。",
     ""),
     # It's a banquet and a banquet right now.
 

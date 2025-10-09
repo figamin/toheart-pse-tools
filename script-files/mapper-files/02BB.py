@@ -14,7 +14,7 @@ text_array = [
     ""),
     # As I walked through the front of the Kokasu Bookstore, I saw lol, Suzui-san, for £, just like before.
 
-    ("瘁例によって、オカ泣ルト関係の本で烽も探してるんだｂうか。†",
+    ("瘁例によって、オカルト関係の本で烽も探してるんだうか。†",
     ""),
     # As usual, I'm also looking for Hot in books related to Oka-Crying.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # A Talk to me.Relax
 
-    ("Ｂ	竅やめとく。閨",
+    ("Ｂ	やめとく。閨",
     ""),
     # B I'll stop.Relax
 

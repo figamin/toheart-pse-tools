@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("「なんか緊張してるみたいだし、梶リ宴ラックスしないとな」",
+    ("「なんか緊張してるみたいだし、梶リラックスしないとな」",
     ""),
     # "It looks like I'm nervous, so I have to have a relaxing Kajiribanquet."
 
@@ -83,7 +83,7 @@ text_array = [
     # "Yes, a little bit..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なんか、いまいち効果がないみたいだな。†",

@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (3rd 23rd Day of the Year, Noon) (Go to the arcade) (In front of the arcade) †
 
-    ("ゲーセンへと竄やってきた。",
+    ("ゲーセンへとやってきた。",
     ""),
     # I've come to the arcade.
 
-    ("し蛯ょうがない。",
+    ("しょうがない。",
     ""),
     # There's no slut.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # Shall we kill some time here?†
 
-    ("£へ入唐うとしたとき、",
+    ("£へ入うとしたとき、",
     ""),
     # When I was about to enter Tang,
 
-    ("「Ｈｂ撃ｌ撃ｌ盾ｏ	ｔｂｂ窒ｒｂ？」",
+    ("「Ｈ撃ｌ撃ｌ盾ｏ	ｔ窒ｒ？」",
     ""),
     # "Hb Shot l Shot l Shield O Tbb Nitrob?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # It's Karemy.†
 
-    ("「こんなとこｂでｉうなんて、珍しいな」",
+    ("「こんなとこでｉうなんて、珍しいな」",
     ""),
     # "It's rare to say this in b."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Ah, I'm almost dead"
 
-    ("「じ痰ゃあ、、いっし蛯ょに遊ぼ」",
+    ("「じ痰ゃあ、、いっしょに遊ぼ」",
     ""),
     # "Ah, I'll play with you all."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Well, it's local."
 
-    ("「じ痰ゃあ、いｂいｂ案煦内して」",
+    ("「じ痰ゃあ、いい案煦内して」",
     ""),
     # "You're so phlegm, you're so blonde, don't you think?"
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Okay" †
 
-    ("その冾日は、戟レミィとｉ話を楽しみながら、いｂんな場鰹所へ行った。",
+    ("その冾日は、戟レミィとｉ話を楽しみながら、いんな場鰹所へ行った。",
     ""),
     # On that day, I went to the bonito spot, enjoying the i-talk with Karenmi.
 

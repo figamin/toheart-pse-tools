@@ -18,11 +18,11 @@ text_array = [
     ""),
     # Kotone's sphincter turns bright red.
 
-    ("か〜增わいいったらあり痰ゃしない。†",
+    ("か〜わいいったらあり痰ゃしない。†",
     ""),
     # If it's okay, there's no phlegm.†
 
-    ("「はははっ、ジ㏍ョークだって。",
+    ("「はははっ、ジョークだって。",
     ""),
     # "Hahaha, it's a Zikku.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # On the day I couldn't help but tease Kotone Chisho-chan.
 
-    ("堰初々しい鰍リアクシ㏍ョンがたまらない、ってрヤツ？◯",
+    ("堰初々しい鰍リアクションがたまらない、ってрヤツ？◯",
     ""),
     # Is this the primal tuna that's irresistible?◯
 

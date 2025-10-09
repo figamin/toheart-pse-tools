@@ -2,7 +2,7 @@
 # Source file: 01B3.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ａ	いっし蛯ょに屋繪上へ行く）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ａ	いっしょに屋繪上へ行く）†",
     ""),
     # (Akari Scales Event 2F) (A Goes up to the Ishishi-niya-ke)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Well, I'm bored.
 
-    ("つき№合って竄やるか。",
+    ("つき№合ってやるか。",
     ""),
     # Will you try to match the number and tamper with it?
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Hehe, Akari laughs.
 
-    ("「なんだよ、もったいぶり竄やがって」",
+    ("「なんだよ、もったいぶりやがって」",
     ""),
     # "What is it? It's a waste."
 
-    ("ぼ竄やきながら、オ激レはあかりといっし蛯ょに階段を繧上っていった。◯",
+    ("ぼやきながら、オレはあかりといっしょに階段を繧上っていった。◯",
     ""),
     # As I was messing around, I went up the stairs with Akari and Ebi.◯
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # I see, maybe it's because of the light rain just now.
 
-    ("そういえば、虹が出髀るには、ち蛯ょうどいいぱらつきｋ㈲合だったからな。",
+    ("そういえば、虹が出髀るには、ちょうどいいぱらつき駆㈲合だったからな。",
     ""),
     # Come to think of it, for the time when the rainbows could come out, it was a flapping slurp.
 
-    ("教室の汲窓とは福方阜が反対だから、ぜんぜん気づかなかったぜ。†",
+    ("教室の汲窓とは方阜が反対だから、ぜんぜん気づかなかったぜ。†",
     ""),
     # Fukukata Fu is the opposite of the classroom's Kumimado, so I never noticed it at all.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Akari smiles and nods.
 
-    ("「ね、＠てよかったでし蛯ょ？」",
+    ("「ね、＠てよかったでしょ？」",
     ""),
     # "Hey, I'm glad @, ecchi?"
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "By the way, I feel like it's been a while since I've seen a rainbow."
 
-    ("オ激レが空を見繻上げてつぶ竄やいたとき、†",
+    ("オレが空を見上げてつぶやいたとき、†",
     ""),
     # When I looked up at the sky and muttered,
 
-    ("「ふふ、子沁供のこｂは、し蛯ょっち繧ゅう見てたはずなのにね」",
+    ("「ふふ、子沁供のこは、しょっち繧ゅう見てたはずなのにね」",
     ""),
     # "Hehe, the baby boy must have been watching the slut all the time."
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # Akari said, taking a light step.†
 
-    ("「べつに虹自体、出髀る確率は減っち痰ゃいないんだｂうけど、いちいち気にとめなくなったからな」",
+    ("「べつに虹自体、出髀る確率は減っち痰ゃいないんだうけど、いちいち気にとめなくなったからな」",
     ""),
     # "The chances of rainbows being adorned have decreased, but they don't care every time."
 
-    ("「そう竄やって、少しずつ目にする機級がなくなっていくのか烽もね」",
+    ("「そうやって、少しずつ目にする機級がなくなっていくのか烽もね」",
     ""),
     # "I wonder if the weapons that you're going to disappear little by little by little."
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Aka Hot" †
 
-    ("「蛛大人になるとだんだん見えなくなっち痰ゃうなんて、ち蛯ょっと≠メ泣ルヘンだよね」",
+    ("「蛛大人になるとだんだん見えなくなっち痰ゃうなんて、ちょっと≠メルヘンだよね」",
     ""),
     # "When you become an adult, you gradually lose sight, so it's probably because you're crying."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "...Huh? Well, light... maybe?"†
 
-    ("「п私は竄やっぱり橋だと思ってたか烽も。どこか不思議な曹国へ通じる橋」",
+    ("「п私はやっぱり橋だと思ってたか烽も。どこか不思議な曹国へ通じる橋」",
     ""),
     # "I thought it was a bridge after all, but I guess it was also a bridge that leads to a mysterious Cao Kingdom."
 
@@ -222,15 +222,15 @@ text_array = [
     ""),
     # "...Huh?"†
 
-    ("また、思いついたシチャエーシ㏍ョンのみの話をして竄やがる。",
+    ("また、思いついたシチャエーションのみの話をしてやがる。",
     ""),
     # He also talks about only the idea of ​​the schaesicyun that he has come up with, and ends up tampering with.
 
-    ("あかりはよくこの手の『もし烽も』シ潟リーズの質竡問をする。",
+    ("あかりはよくこの手の『もし烽も』シリーズの質竡問をする。",
     ""),
     # Akari often asks this type of "If You're a Hot Spring" questioning the quality of Shigata Leeds.
 
-    ("それを聞いてどうすんだ、と言いたいが、＊度のことなので適俣当に嘯答えて竄やる。†",
+    ("それを聞いてどうすんだ、と言いたいが、＊度のことなので適俣当に嘯答えてやる。†",
     ""),
     # I would like to ask you what to do when I hear that, but since it's about the level, I'll answer and tamper with the idea of ​​Tomata.†
 
@@ -242,15 +242,15 @@ text_array = [
     ""),
     # "honto?"
 
-    ("「そんな曹国ある墲わけねーし、どうせどっかで行き倒齠れたりしてんだｂ」",
+    ("「そんな曹国ある墲わけねーし、どうせどっかで行き倒齠れたりしてんだ」",
     ""),
     # "There's no way there's a Cao Kingdom like that, and they've been going somewhere and knocking over them anyway."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("あかりはち蛯ょっと複雑な顔をした。†",
+    ("あかりはちょっと複雑な顔をした。†",
     ""),
     # Akari Hachie gave a complicated look.†
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # Go to Katsura"†
 
-    ("「ふふっ、じ痰ゃ竄やーめた。行かない」",
+    ("「ふふっ、じ痰ゃやーめた。行かない」",
     ""),
     # "Hehe, I've got a lot of phlegm. I'm not going."
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「竅やっぱり、ち痰ゃんを置いていったら、心配だからね」",
+    ("「やっぱり、ち痰ゃんを置いていったら、心配だからね」",
     ""),
     # "After all, I'm worried if I leave my sphincatcher behind."
 
@@ -330,11 +330,11 @@ text_array = [
     ""),
     # "Ah!"
 
-    ("あーあ、案の定、靴下を濡逕らし竄やがった。†",
+    ("あーあ、案の定、靴下を濡逕らしやがった。†",
     ""),
     # Ah, as expected, I've been tampering with my socks.†
 
-    ("そんなあかりを見て、オ激レは｢｢。",
+    ("そんなあかりを見て、オレは｢｢。",
     ""),
     # Seeing Akari, I said, ".
 

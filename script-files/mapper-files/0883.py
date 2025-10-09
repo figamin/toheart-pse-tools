@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "You're so phlegm, I think I like it"
 
-    ("「竅やっぱり！」",
+    ("「やっぱり！」",
     ""),
     # "As expected!"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "I love you too, I love you!"
 
-    ("言いながら、オ激レの腕をブンブン振關り回すので、困ってしまう。",
+    ("言いながら、オレの腕をブンブン振關り回すので、困ってしまう。",
     ""),
     # As I said, I started to sway my arms around, which was a problem.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "I also like people who are kind to the children!"
 
-    ("オ激レの腕を抱きしめながら言う。",
+    ("オレの腕を抱きしめながら言う。",
     ""),
     # He says as he holds my arms.
 
-    ("予想外の蛯大接近…。†",
+    ("予想外の大接近…。†",
     ""),
     # An unexpected approach to the ep...†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Oh, hey..."
 
-    ("彼濫女はぴ蛯ょこんと一煦歩退いて、°け出した。",
+    ("彼濫女はぴょこんと一煦歩退いて、°け出した。",
     ""),
     # The woman stepped back and began to step out.
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # "..."†
 
-    ("その場に立ち尽くしてしまうオ激レ…。",
+    ("その場に立ち尽くしてしまうオレ…。",
     ""),
     # I'm so excited that I stand there...
 
-    ("戟レミィの竄やつ、いったいどういうつ烽もりで、あんなことを聞いたんだｂうか？",
+    ("戟レミィのやつ、いったいどういうつ烽もりで、あんなことを聞いたんだうか？",
     ""),
     # What kind of temptation did you hear of the tampering with Remi?
 
-    ("ク宴ラスで烽も、そんなに話したりする№仲じ痰ゃなかったはずなのにな…。◯",
+    ("クラスで烽も、そんなに話したりする№仲じ痰ゃなかったはずなのにな…。◯",
     ""),
     # At the end of the party, Hou would have had no stimulation to talk so much about it...◯
 

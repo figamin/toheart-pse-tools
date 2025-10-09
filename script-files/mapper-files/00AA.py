@@ -14,11 +14,11 @@ text_array = [
     ""),
     # It's the third day of the final exams in the grade.
 
-    ("竅やっぱり赤点は避けたいぜ。†",
+    ("やっぱり赤点は避けたいぜ。†",
     ""),
     # I really want to avoid red spots.†
 
-    ("「ち痰ゃん、グ宴ラマー、ばっちり？」",
+    ("「ち痰ゃん、グラマー、ばっちり？」",
     ""),
     # "Choy, banquet lamar, is that perfect?"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Is it true?"
 
-    ("「そ、それでは、前置健詞の竄問阮題です！」",
+    ("「そ、それでは、前置健詞の問題です！」",
     ""),
     # "Well, now, here's the question of the prefixed version!"
 
-    ("いきなり竄問阮題を出してきた。",
+    ("いきなり問題を出してきた。",
     ""),
     # Suddenly he raised a question of tampering.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "ah?"†
 
-    ("たしかその竄問阮題は、土曜に竄やった竄問阮題集に曹書いてあったな。",
+    ("たしかその問題は、土曜にやった問題集に曹書いてあったな。",
     ""),
     # I'm sure the question of the tampering was written in the collection of tampering questions that I tampered on Saturday.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # The answer is, ".
 
-    ("「Ｉ	浴ｗ≠ａ唐入	入浮ｕ窒ｒ垂ｐ窒ｒ奄ｉ唐入ｂрｄ	＝ａｔ	ｔｂｂ	氏ｎｂ翌ｗ唐入。…だｂ？」†",
+    ("「Ｉ	浴ｗ≠ａ入	入浮ｕ窒ｒ垂ｐ窒ｒ奄ｉ入рｄ	＝ａｔ	ｔ	氏ｎ翌ｗ入。…だ？」†",
     ""),
     # "I bath lol ≠a tang rind, floating nitrogen rind, amai tang rind, bрd =at tbb san, nb the next lol tang rind.... is that b?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Amazing! That's right, sphinja."
 
-    ("「＝早く烽も忘齧れてたら、とっくにサャナ宴ラだぜ」†",
+    ("「＝早く烽も忘齧れてたら、とっくにサャナラだぜ」†",
     ""),
     # "If I could forget the hot springs soon, it's already a Sayana feast."
 

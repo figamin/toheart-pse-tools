@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("オ激レは汲視諮をそらし、こほっと咳払いする。†",
+    ("オレは汲視諮をそらし、こほっと咳払いする。†",
     ""),
     # I deflected the advice of the counsel and cleared my throat.†
 
-    ("「ったく、つまんねーとこでコケ窿やがって。お前みたいなドジを標準撫装備してる竄やつは、ち蛯ょっとした場鰹所で烽も福油断すんじ痰ゃねー諱よ」",
+    ("「ったく、つまんねーとこでコケ窿やがって。お前みたいなドジを標準撫装備してるやつは、ちょっとした場鰹所で烽も油断すんじ痰ゃねー諱よ」",
     ""),
     # "It's so boring, it's a bit boring. If you're a guy who's equipped with clumsy equipment like you, you'll have to be careless at the bonito spot where you're gonna have to be careful, don't let your guard down, don't let your guard down, don't you?
 
-    ("「…うん、增わかった。気をつけるよ」",
+    ("「…うん、わかった。気をつけるよ」",
     ""),
     # "...Yeah, I understand. I'll take care."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Well, it's a minor injury that's the best thing."
 
-    ("オ激レが行こうとすると、",
+    ("オレが行こうとすると、",
     ""),
     # When I try to go,
 
@@ -83,7 +83,7 @@ text_array = [
     # "I was happy just now."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Oh, sorry."
 
-    ("禔口ではそう謝闔りつつ烽も、あかりは竄やっぱり嬉しそうに微笑んでいた。",
+    ("禔口ではそう謝闔りつつ烽も、あかりはやっぱり嬉しそうに微笑んでいた。",
     ""),
     # While he apologized at Yu-ku, Akari smiled happily as he tampered with such a joyous look on his face.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Ahhh..."
 
-    ("オ激レは背をｌけて、その場を獅去った。◯",
+    ("オレは背をｌけて、その場を獅去った。◯",
     ""),
     # I turned my back and left the scene.◯
 

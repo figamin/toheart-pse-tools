@@ -2,11 +2,11 @@
 # Source file: 07F7.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	いっし蛯ょに帰汲うぜ）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	いっしょに帰汲うぜ）†",
     ""),
     # (Kotone, the balance event PS) (Select So, I'll return to the simulator)†
 
-    ("「いっし蛯ょに帰汲うぜ」",
+    ("「いっしょに帰汲うぜ」",
     ""),
     # "I'll return to the ephemeral."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("琴音ち痰ゃんの見てる福方に、なるほど、秩白地にモ茶色のぶちの入った猫が烽歩いている。",
+    ("琴音ち痰ゃんの見てる方に、なるほど、秩白地にモ茶色のぶちの入った猫が烽歩いている。",
     ""),
     # As Fukukata watches Kotone Chisho-yan, I see, a cat with brown thorns on a white background is walking around.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # A cry of voice made the cat approach Kotone Chisho-chan.
 
-    ("足元まで竄やってきて、体をこすりつけた。†",
+    ("足元までやってきて、体をこすりつけた。†",
     ""),
     # He began to tamper with me to my feet and rubbed my body.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Oh, this time I've come over here.†
 
-    ("オ激レの足に体をすりつけ始めた。",
+    ("オレの足に体をすりつけ始めた。",
     ""),
     # I began to rub my body against my hardcore legs.
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # If you look closely at his name, he looks very neat and sleek, as if it were a pet cat.
 
-    ("しかし、観察してると猫はさっさとオ激レから離齬れて琴音ち痰ゃんの福方へ戻ってしまった。",
+    ("しかし、観察してると猫はさっさとオレから離齬れて琴音ち痰ゃんの方へ戻ってしまった。",
     ""),
     # However, as I was observing, the cat quickly separated from my slut and returned to Kotone's Symptomy's fortune.
 
-    ("「ははっ、なんか凾嫌甯われてるなぁ、オ激レ」†",
+    ("「ははっ、なんか凾嫌甯われてるなぁ、オレ」†",
     ""),
     # "Haha, I'm getting disliked, I'm super excited" †
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # I know of a spell that cats like.It's probably because of that."
 
-    ("猫を竄やさしく抱き繧上げると、琴音ち痰ゃんは猫にほおずりした。",
+    ("猫をやさしく抱き繧上げると、琴音ち痰ゃんは猫にほおずりした。",
     ""),
     # As he gently hugged the cat and lifted it up, Kotone Chisho-chan squealed at the cat.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「どう竄やるんだ？」",
+    ("「どうやるんだ？」",
     ""),
     # "How are you going to tamper with it?"
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「なんで？	目を見て話せ、とか言うだｂ？」",
+    ("「なんで？	目を見て話せ、とか言うだ？」",
     ""),
     # "Why? You say, look in your eyes, talk, b?"
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # That's about humans though.
 
-    ("「增わたしたちはそうですが、猫同士は目が№合うと、それがケンカの№合図になるんです。人間とはケンカしませんが、竅やっぱり苦闍手なんですよ」†",
+    ("「わたしたちはそうですが、猫同士は目が№合うと、それがケンカの№合図になるんです。人間とはケンカしませんが、やっぱり苦闍手なんですよ」†",
     ""),
     # "As we do, when cats meet their eyes, that's the signal to fight. We don't fight with humans, but we're still struggling."
 
@@ -182,15 +182,15 @@ text_array = [
     ""),
     # Well, in any case, Kotone Chisho-chan seems to be a huge fan of cats.
 
-    ("Ａ	オ激レ焜も猫が好き。閨",
+    ("Ａ	オレ焜も猫が好き。閨",
     ""),
     # A. I also like cats.Relax
 
-    ("Ｂ	オ激レは犬が好き。閨",
+    ("Ｂ	オレは犬が好き。閨",
     ""),
     # B I love dogs.Relax
 
-    ("Ｃ	オ激レは猫が凾嫌い。閨",
+    ("Ｃ	オレは猫が凾嫌い。閨",
     ""),
     # C I hate cats.Relax
 

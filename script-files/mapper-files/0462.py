@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (VS Event Shiho vs Tomoko) (Select So Tomoko follows)†
 
-    ("「竅やめとけ、志保。お前が悪い」",
+    ("「やめとけ、志保。お前が悪い」",
     ""),
     # "Stop it, Shiho. It's your fault."
 
-    ("オ激レは委員長の肩を揩持つことにした。†",
+    ("オレは委員長の肩を揩持つことにした。†",
     ""),
     # I decided to hold the chairman's shoulder.†
 
-    ("「ち蛯ょっとあんた、なんてこと言うのよ！」",
+    ("「ちょっとあんた、なんてこと言うのよ！」",
     ""),
     # "What do you mean, you?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Shiho is unfair.
 
-    ("オ激レはせき払いをひとつして、",
+    ("オレはせき払いをひとつして、",
     ""),
     # I cough one more time,
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "'That's the one the principal-sensei said the other day, isn't it?"
 
-    ("「增わかってるじ痰ゃねーか」†",
+    ("「わかってるじ痰ゃねーか」†",
     ""),
     # "You know what phlegm is there?"
 
@@ -58,16 +58,16 @@ text_array = [
     ""),
     # Shiho left behind a word that looked like a villain's abandonment.
 
-    ("「…これでち蛯ょっとは静かになっただｂ？」",
+    ("「…これでちょっとは静かになっただ？」",
     ""),
     # "...Is this just quieter b?"
 
-    ("オ激レは委員長に声をかけた。†",
+    ("オレは委員長に声をかけた。†",
     ""),
     # I called out to the chairman.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("無言の委員長。",
@@ -79,7 +79,7 @@ text_array = [
     # "Because of that kind of thing, it makes you feel a bit noisy, right?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「しまった。",

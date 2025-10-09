@@ -2,7 +2,7 @@
 # Source file: 0262.txt
 
 text_array = [
-    ("（ＶＳイベント	芹°香ＶＳマ泣ルチ）閨（選択綜	ａ魔法に鰍頼髣る）†",
+    ("（ＶＳイベント	芹°香ＶＳマルチ）閨（選択綜	ａ魔法に鰍頼髣る）†",
     ""),
     # (VS Event Seri°Ka VS Makkuruchi) Li (Select So A to rely on the magic) †
 
@@ -10,23 +10,23 @@ text_array = [
     ""),
     # "This time, let's borrow the power of a magic."
 
-    ("正直、最新型とはいえ、マ泣ルチはいまいち不安だからなあ。",
+    ("正直、最新型とはいえ、マルチはいまいち不安だからなあ。",
     ""),
     # To be honest, even though it's the latest model, I'm not too worried about Makkuruchi.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("オ激レが言うと、諱先輩はこくんとうなずいた。†",
+    ("オレが言うと、諱先輩はこくんとうなずいた。†",
     ""),
     # When I said that, my senior nodded with Ko-kun.†
 
-    ("優莱なしぐさで、スカートのポケットからペンデャ宴ラムを取闔り出すと目の前にかざす。",
+    ("優莱なしぐさで、スカートのポケットからペンデャラムを取闔り出すと目の前にかざす。",
     ""),
     # With a gesture, he pulls out the pendya banquet ram from the pocket of his skirt and holds it in front of him.
 
-    ("そんな烽ものいつ烽も揩持ち烽歩いてんのか、というｖ髢暮なツッコミは置いといて、オ激レは先輩の行動をおとなしく見迪守った。",
+    ("そんな烽ものいつ烽も揩持ち烽歩いてんのか、というｖ髢暮なツッコミは置いといて、オレは先輩の行動をおとなしく見迪守った。",
     ""),
     # Putting aside the silly comments of how he was walking around with such hot springs, I quietly followed the actions of my senior.
 
@@ -59,7 +59,7 @@ text_array = [
     # As if to be stolen by the Shinkenko, Senpai threw the advice on his feet.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	下にあるって？	どこ？」",
@@ -67,10 +67,10 @@ text_array = [
     # "Huh? It's below? Where?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「足？	足ってオ激レの？」",
+    ("「足？	足ってオレの？」",
     ""),
     # "Foots? Are your feet so intense?"
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # Ko-kun.†
 
-    ("オ激レは慌てて足を踏み変えた。",
+    ("オレは慌てて足を踏み変えた。",
     ""),
     # I hurriedly stepped on my feet.
 
-    ("するとコンク潟リートの床の繧上に、見慣れた竄銀の輝きが…。",
+    ("するとコンクリートの床の繧上に、見慣れた銀の輝きが…。",
     ""),
     # Then, on the floor of the Konkulato Reet, a familiar glow of silver was seen...
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Ah, there it is."
 
-    ("どう竄やら１００円玉は、オ激レがずっと足で踏んづけていたらしい。†",
+    ("どうやら１００円玉は、オレがずっと足で踏んづけていたらしい。†",
     ""),
     # Apparently, I kept stitching around with my feet for the 100 yen coin.†
 
@@ -99,14 +99,14 @@ text_array = [
     # "Ha, Ha, Sankya, Senpai, Isao."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("諱先輩は『どういたしまして』とつぶ竄やく。",
+    ("諱先輩は『どういたしまして』とつぶやく。",
     ""),
     # Senpai, the senior, muttered, "You're welcome."
 
-    ("「い竄やあ、おかげで浮助かったよ」",
+    ("「いやあ、おかげで浮助かったよ」",
     ""),
     # "Tsniff, thanks to you, I was saved."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Ah, that was good."
 
-    ("マ泣ルチ焜もｊんでくれる。",
+    ("マルチ焜もｊんでくれる。",
     ""),
     # Ruchi-san also jerks off.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # He says a little sad.†
 
-    ("「まあまあ。今回は先輩に鰍頼んだけど、氈次はマ泣ルチにお願いするぜ」",
+    ("「まあまあ。今回は先輩に鰍頼んだけど、氈次はマルチにお願いするぜ」",
     ""),
     # "Okay. I asked my senior this time to have a choy, but I'll ask Makruchi to do that."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # Well, I'm glad that I was able to find 100 yen, even though it's hot.
 
-    ("しかし、たかが１００円のために、最新型の≠メイド鴻ロボと蛯大熨財閥のおｏ様を手伝崧わせるオ激レって、いったい…？◯",
+    ("しかし、たかが１００円のために、最新型の≠メイド鴻ロボと大熨財閥のおｏ様を手伝崧わせるオレって、いったい…？◯",
     ""),
     # However, for just 100 yen, what about me who helps the latest model, Maid Korobo and O-sama from the Ebi O-noshi Zaibatsu, help out, is it?◯
 

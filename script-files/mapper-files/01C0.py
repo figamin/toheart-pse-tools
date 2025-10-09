@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "I'll refrain from doing that."
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
-    ("「どうせ、浴女の子ばかりの店だｂ？	それに墲わざ墲わざ食いに行くほど、甘い烽ものが好きな墲わけで烽もねーからな」",
+    ("「どうせ、浴女の子ばかりの店だ？	それに墲わざ墲わざ食いに行くほど、甘い烽ものが好きな墲わけで烽もねーからな」",
     ""),
     # "It's probably a shop full of bathing girls anyway? And the more I go to eat it, the more I like sweet hot springs, so there's no hot springs either."
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "Oh ""
 
-    ("おごりなら考えて烽もいいぜ、と言いかけて竄やめた。",
+    ("おごりなら考えて烽もいいぜ、と言いかけてやめた。",
     ""),
     # I said that if it's a treat, it's fine to think about it, but then stopped tampering with it.
 
-    ("たぶん汲結果的に、じ痰ゃあ、おごるから、ということになるだｂう。†",
+    ("たぶん汲結果的に、じ痰ゃあ、おごるから、ということになるだう。†",
     ""),
     # As a result, it's probably because you'll be treated like you're treating me.†
 
-    ("「ま、という墲わけで、今厓日のとこｂは翌女同士で楽しんできてくれ。じ痰ゃーな」",
+    ("「ま、という墲わけで、今厓日のとこは翌女同士で楽しんできてくれ。じ痰ゃーな」",
     ""),
     # "Well, so I hope that the next day we have a fun time with each other. I'm not going to have any sputum."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yeah. I'm sputum, big bastard..."
 
-    ("ち蛯ょっと残念そうに、あかりは手を振って言った。◯",
+    ("ちょっと残念そうに、あかりは手を振って言った。◯",
     ""),
     # Akari waved her hand, looking sad.◯
 

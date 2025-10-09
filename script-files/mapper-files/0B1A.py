@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, the battle for the balance event 1) (Continued from Selection C Feint)†
 
-    ("オ激レと綾∴香の実力差は明猪白。",
+    ("オレと綾∴香の実力差は明猪白。",
     ""),
     # The difference in ability between megare and Aya∴Ka is Akiii Shira.
 
-    ("本沫なら、その差をр埋めるために烽も、普虚をついたｊ襲攻ｍ撃で攻めたいとこｂだ。",
+    ("本沫なら、その差をр埋めるために烽も、普虚をついたｊ襲攻ｍ撃で攻めたいとこだ。",
     ""),
     # If it's a pure drop, in order to fill the gap, he is also a man who attacks with a J-attack M-attack that involves a widespread breach.
 
-    ("だが、綾∴香はそれを読んで、カウンターを狙っている可能性がｂ高い。",
+    ("だが、綾∴香はそれを読んで、カウンターを狙っている可能性が高い。",
     ""),
     # However, it is highly likely that Aya∴Ka reads this and is aiming for the counter.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # So, first, feint it, then attack it after the attack!†
 
-    ("オ激レは行く気梛満々の汲視諮で綾∴香をにらみ、前に出つつジャャブを｢｢。",
+    ("オレは行く気梛満々の汲視諮で綾∴香をにらみ、前に出つつジャャブを｢｢。",
     ""),
     # My gutsy glares at Aya∴Kara as I was fully eager to go, and as I came forward he spoke to Jaab, ".
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # I'm sure it's hard to believe it's the current rebellious situation.
 
-    ("竅やはりカウンターを狙って竄やがったな。†",
+    ("やはりカウンターを狙ってやがったな。†",
     ""),
     # As expected, they tried to target the counter.†
 
-    ("オ激レはすかさず前に出髀る、そして打つ！",
+    ("オレはすかさず前に出髀る、そして打つ！",
     ""),
     # My hardcore moments immediately come forward and then hit it!
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # One Two Shields from Jaab!
 
-    ("タイミングをずらしたおかげで、綾∴香の反ｔ撃が一瞬出遅齟れる。",
+    ("タイミングをずらしたおかげで、綾∴香の反ｔ撃が一瞬出遅れる。",
     ""),
     # Thanks to the shift in timing, Aya∴Ka's counter-tears are delayed for a moment.
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # I was forced to stoke!
 
-    ("オ激レの右濶手は伸びきってしまっている。",
+    ("オレの右濶手は伸びきってしまっている。",
     ""),
     # My right hand is now fully extended.
 
-    ("竅やばい、と思った瞬間。†",
+    ("やばい、と思った瞬間。†",
     ""),
     # The moment I thought it was amazing.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # ah….
 
-    ("竅やられちまった。",
+    ("やられちまった。",
     ""),
     # I was defeated.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # I read it well, but the technique just couldn't keep up at all.
 
-    ("ちくし蛯ょう。†",
+    ("ちくしょう。†",
     ""),
     # Chikushi Ebi.†
 
@@ -119,10 +119,10 @@ text_array = [
     # "It was pretty good, the attack I'm on now. I was really trying to get a J-raid, M-raid lol, I thought I'd try to hit the next day, and I was aiming for a counter-T. So what is feint?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「素人だし軽くあしらおうと思ってたから、うっかり引っかかるとこｂだった墲わ」†",
+    ("「素人だし軽くあしらおうと思ってたから、うっかり引っかかるとこだった墲わ」†",
     ""),
     # "I'm an amateur and I was thinking of putting it on a lighter side, so I was inadvertently caught on the spot."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "It's no point if the phlegm doesn't continue after the snake."
 
-    ("「まあ、そうだけど、読み№合いで奄負けたのは、ち蛯ょっとシ㏍ョック。素人ってのをうまく逆闍手にとられた墲わ」",
+    ("「まあ、そうだけど、読み№合いで奄負けたのは、ちょっとショック。素人ってのをうまく逆闍手にとられた墲わ」",
     ""),
     # "Well, that's true, but the one who lost Amami in the reading No. 1 was a little bit shy. I was able to get the amateurs to be a good-looking guy."
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "It's just a coincidence though" †
 
-    ("「あとは薰基本的な竄問阮題ね。パンチ、はっきり言って、素人丸出しよ」",
+    ("「あとは薰基本的な問題ね。パンチ、はっきり言って、素人丸出しよ」",
     ""),
     # "The rest is a basic question of tampering. Punch, to be honest, let's be an amateur."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # I can't say anything back.
 
-    ("く竄やしいが、たしかにそのとおりだ。†",
+    ("くやしいが、たしかにそのとおりだ。†",
     ""),
     # It's tampering, but it's certainly true.†
 

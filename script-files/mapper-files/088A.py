@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Hey! Karemy."
 
-    ("オ激レは前を烽歩いてる撃レミィに声をかけた。",
+    ("オレは前を烽歩いてる撃レミィに声をかけた。",
     ""),
     # I called out to Ekiremi, who was walking in front of me.
 
-    ("「Ｗｂ≠ａｔ？	…あ、」",
+    ("「Ｗ≠ａｔ？	…あ、」",
     ""),
     # "Wb≠at? ...Ah."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "I'll be here. Are you going home now?"
 
-    ("「Ｇ盾ｏ盾ｏрｄ	ｔ奄ｉ高ｍ奄ｉ獅ｎ№ｇ！	アタシ今ち蛯ょうどにｉいたいって思ってたの」",
+    ("「Ｇ盾ｏ盾ｏрｄ	ｔ奄ｉ高ｍ奄ｉ獅ｎ№ｇ！	アタシ今ちょうどにｉいたいって思ってたの」",
     ""),
     # "G Shield O Shield Oрd Tamai High M Amai Lion No.! I was thinking that I wanted to be a lie."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Can I ask?"
 
-    ("「なにを聞きたいかによるけどな。とにかく言ってみｂよ」†",
+    ("「なにを聞きたいかによるけどな。とにかく言ってみよ」†",
     ""),
     # "It depends on what you want to ask. Just say it b."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "What?!"
 
-    ("…いったいどういう意味で聞いているんだｂうか。",
+    ("…いったいどういう意味で聞いているんだうか。",
     ""),
     # ...What exactly are you listening to?
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # The bather told the man, "What do you think?There is only one meaning in Japan that says ".†
 
-    ("オ激レの嘯答えは｢｢。",
+    ("オレの嘯答えは｢｢。",
     ""),
     # My throbbing answer is ".
 
-    ("Ａ	もちｂん好き。閨",
+    ("Ａ	もちん好き。閨",
     ""),
     # A I love Mochi b.Relax
 

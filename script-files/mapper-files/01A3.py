@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「お前熨も好きだｂ？」",
+    ("「お前熨も好きだ？」",
     ""),
     # "Do you like your spider too?"
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Really?"
 
-    ("「テ激レビで竄やってたんだ」†",
+    ("「テレビでやってたんだ」†",
     ""),
     # "I was tampering with a TV drama"
 
-    ("あかりの熊好きは（オ激レ焜内箔部で）有名だ。",
+    ("あかりの熊好きは（オレ焜内箔部で）有名だ。",
     ""),
     # Akari's bear lover is famous (for his inner foil section).
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # For some reason, I don't really know what it is, but I have no eye on bear merchandise.†
 
-    ("「きっとか墲わいいぞー、小ぐま。ぬいぐるみみたいでよ、転がして竄やったらｊんだりさ」",
+    ("「きっとか墲わいいぞー、小ぐま。ぬいぐるみみたいでよ、転がしてやったらｊんだりさ」",
     ""),
     # "I'm sure it's nice, small bear. It looks like a stuffed animal, and if you roll it up and tamper with it, you'll end up slurping it."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「サーカスみたいに小さいこｂから仕梹込めば芸煬もおぼえるんだぜ？	教えた芸を成功するたびに、はちみつとか角砂恪糖笂やるんだ。連中、甘いの好きだからなー」",
+    ("「サーカスみたいに小さいこから仕梹込めば芸煬もおぼえるんだぜ？	教えた芸を成功するたびに、はちみつとか角砂恪糖笂やるんだ。連中、甘いの好きだからなー」",
     ""),
     # "If you put a small piece like a circus into it, you'll remember the artisan too. Every time you succeed in a skill you teach, you do honey or cube sugar sardines. They like sweets."
 
@@ -63,7 +63,7 @@ text_array = [
     # "I'll wear a red collar."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「想恆像した？」",
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "...Uh" †
 
-    ("それから、オ激レとあかりはいｂいｂと店燗内の動物を見て回った。◯",
+    ("それから、オレとあかりはいいと店燗内の動物を見て回った。◯",
     ""),
     # Then I looked around at the animals in the store, including mygere and Akari Haii B.◯
 

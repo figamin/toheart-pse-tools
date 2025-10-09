@@ -2,15 +2,15 @@
 # Source file: 024A.txt
 
 text_array = [
-    ("（芹°香	好感度イベント８	冝日付つき）閨（Ｂ	增わっ、悪いけど、いまはち蛯ょっと）†",
+    ("（芹°香	好感度イベント８	冝日付つき）閨（Ｂ	わっ、悪いけど、いまはちょっと）†",
     ""),
     # (Seri°Ka Likeability Event 8 with date) Silence (B, I'm sorry, but I'm not sure what to do now)†
 
-    ("「增わ、悪いけど、いまはち蛯ょっとそれどこｂじ痰ゃない魔事態が発生してて…！」",
+    ("「わ、悪いけど、いまはちょっとそれどこじ痰ゃない魔事態が発生してて…！」",
     ""),
     # "I'm sorry, but now there's a magical situation where there's no phlegm left...!"
 
-    ("オ激レはあ墲わてて言った。",
+    ("オレはあ墲わてて言った。",
     ""),
     # I said in a hurry.
 
@@ -19,14 +19,14 @@ text_array = [
     # And the senior said
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("そうですか、すみません…、と悲しそうな声で謝った。†",
     ""),
     # I see, sorry... I apologized in a sad voice.†
 
-    ("「えっ？	い、い竄や、そういう意味じ痰ゃ…」",
+    ("「えっ？	い、いや、そういう意味じ痰ゃ…」",
     ""),
     # "Huh? No, it's a tampering, that's what it means..."
 

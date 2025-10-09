@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka challenges Aya∴Ka, event 5) (Continued from Selection B, Aya∴Ka's strength)†
 
-    ("オ激レは綾∴香の強さを痛感していた。",
+    ("オレは綾∴香の強さを痛感していた。",
     ""),
     # My geire was keenly aware of the strength of Aya∴Ka.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # The speed of attacks and m-fire attacks and skillful footwork.
 
-    ("優位な位置に移動し、フェイントを混ぜ、有効なコンビネーシ㏍ョンを打ってくる。",
+    ("優位な位置に移動し、フェイントを混ぜ、有効なコンビネーションを打ってくる。",
     ""),
     # Move to the superior position, mix feints, and hit an effective combination.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # It's really good.
 
-    ("いまのオ激レには、とて烽も真乱似できない。",
+    ("いまのオレには、とて烽も真乱似できない。",
     ""),
     # I can't even look like a real wilderness in my current days.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # And that's fine for Hot too.
 
-    ("そんなスゲー熟繒練者のこいつから、素人のオ激レがポイントを奪う。",
+    ("そんなスゲー熟繒練者のこいつから、素人のオレがポイントを奪う。",
     ""),
     # This amazing mature master, an amateur me is taking the points.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # That's what makes it meaningful.
 
-    ("目標がｂ高ければｂ高いだけ、こっち烽も燃えるからな。†",
+    ("目標が高ければ高いだけ、こっち烽も燃えるからな。†",
     ""),
     # If your target is higher, the higher the b, the hot springs will burn too.†
 

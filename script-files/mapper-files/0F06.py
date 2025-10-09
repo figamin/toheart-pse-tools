@@ -2,7 +2,7 @@
 # Source file: 0F06.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル１）閨（卒業式篇）閨（選択綜	♂史）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	♂史）閨（蛛主人公煙負け）†",
     ""),
     # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Choice Sou Maki) (Mrage Protagonist Smoke) †
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "I'm feeling bad right now."
 
-    ("「…なんつーか、こんなこと烽もあるだｂ」",
+    ("「…なんつーか、こんなこと烽もあるだ」",
     ""),
     # "...I mean, there's something like this."
 
-    ("とは言った烽ものの、じっさいオ激レとｉ史の腕の差なんてこんな烽もんだｂう。†",
+    ("とは言った烽ものの、じっさいオレとｉ史の腕の差なんてこんな烽もんだう。†",
     ""),
     # That said, the difference between my skills and I-Shin's skills is really hot.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Eh, is that so?"
 
-    ("「い竄や、これが実力さ。",
+    ("「いや、これが実力さ。",
     ""),
     # "Tampering, this is how skilled it is.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "That kind of casual thing is it."
 
-    ("「だからオ激レは本末当に…」",
+    ("「だからオレは本末当に…」",
     ""),
     # "That's why I'm in the end of my life..."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "...You guys, just by playing games, don't deepen your affection and join in with the No. 1"
 
-    ("その繧後の志保あかり墲戦はというと、磨当然のことながら志保の圧汕勝となった。",
+    ("その繧後の志保あかり墲戦はというと、当然のことながら志保の圧汕勝となった。",
     ""),
     # After that, when it came to the match against Shiho Akari, Shiho was naturally hit by Shiho's siege.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Hehe, thank you" †
 
-    ("「なんだ志保、お前こそрヤックごときで友﨤情深め№合い竄やがって。人のこと言えんのか」",
+    ("「なんだ志保、お前こそрヤックごときで友﨤情深め№合いやがって。人のこと言えんのか」",
     ""),
     # "What is Shiho? You're the kind of friend who's like a yuck, and you're a slutty friend. Can you talk about people?"
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Oh, isn't #?
 
-    ("女の友﨤情って。汗くさいのといっし蛯ょにしないで」",
+    ("女の友﨤情って。汗くさいのといっしょにしないで」",
     ""),
     # A female friend, affection.Don't peek at me with sweaty."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # He says that with a sorry face.†
 
-    ("「オ激レたちのどの辺が汗くさいってんだよ。そっちこそアブノーマ泣ルじ痰ゃねえか」",
+    ("「オレたちのどの辺が汗くさいってんだよ。そっちこそアブノーマルじ痰ゃねえか」",
     ""),
     # "All the people around me are sweating. That's the one who's crying and having phlegm?"
 

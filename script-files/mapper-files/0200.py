@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The first fence time is the break time.
 
-    ("オ激レは『普黒ｍ魔術の蛯大系』を手にして、二年の教室前へと竄やってきた。",
+    ("オレは『普黒ｍ魔術の大系』を手にして、二年の教室前へとやってきた。",
     ""),
     # I picked up the "Black M Magical Evil Series" and started tampering with my second year of class.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # When I asked a second-year student who had been in the talks about @Sumizu's classroom, he told me it was 2-A.
 
-    ("オ激レはさっそく２−Ａの教室へとｌかった。◯",
+    ("オレはさっそく２−Ａの教室へとｌかった。◯",
     ""),
     # My guts immediately went to the 2-A classroom.◯
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # But unfortunately, the 2-A classroom was in a shell of nowhere.
 
-    ("多分、氈次の授業が教室移動なんだｂう。",
+    ("多分、氈次の授業が教室移動なんだう。",
     ""),
     # I think the next class will probably be moving to the classroom.
 
-    ("し蛯ょうがない、また出直すとするか。",
+    ("しょうがない、また出直すとするか。",
     ""),
     # There's no essay, so I'll start again.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "?"
 
-    ("音の福方をｌくと、誰熬もいないと思った教室に、ぽつんとひとり翌女生徒が立っていた。",
+    ("音の方をｌくと、誰熬もいないと思った教室に、ぽつんとひとり翌女生徒が立っていた。",
     ""),
     # When I heard the song of Oto no Fukukata, a female student next door stood alone in the classroom, which I thought there was no one there.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # What, were you there?
 
-    ("どう竄やらずっといたらしい。",
+    ("どうやらずっといたらしい。",
     ""),
     # Apparently he's been tampering with it for a long time.
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # It was on the floor and had phlegm and cancer, so I couldn't see it.
 
-    ("ひとりでなに竄やってんだ？",
+    ("ひとりでなにやってんだ？",
     ""),
     # What are you doing on your own?
 
-    ("ま、いい竄や、とにかく本を返すとしよう。†",
+    ("ま、いいや、とにかく本を返すとしよう。†",
     ""),
     # Well, let's just say it's a bit of a joke, or just return the book.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "@Suizui-san"
 
-    ("声をかけながら、オ激レはｒに入っていった。",
+    ("声をかけながら、オレはｒに入っていった。",
     ""),
     # As I called out, I went into the r.
 
@@ -99,26 +99,26 @@ text_array = [
     # I noticed the voice and my senior name was also leapt over me.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("き蛯ょとんとオ激レを見骭る、諱先輩。",
+    ("きょとんとオレを見骭る、諱先輩。",
     ""),
     # Senpai is watching my egotistical stimulating.
 
-    ("「どーも、朝ぶつかった一年のｂモンだけど、覚えてます？	今朝はすんませんでした」",
+    ("「どーも、朝ぶつかった一年のモンだけど、覚えてます？	今朝はすんませんでした」",
     ""),
     # "Hello, I'm a B-man from a year when I bumped into the morning, but do you remember? Sorry this morning."
 
-    ("オ激レは笑迴顔で言った。†",
+    ("オレは笑迴顔で言った。†",
     ""),
     # I said with a laughing face.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「とこｂで、さっきからひとりでなに竄やってんスか？	みんな、もう行っち痰ゃったよ？」",
+    ("「とこで、さっきからひとりでなにやってんスか？	みんな、もう行っち痰ゃったよ？」",
     ""),
     # "What have you been tampering with, here you go, on your own? Everyone, have you already gone and sputum?"
 
@@ -143,50 +143,50 @@ text_array = [
     # When I asked, my senior said
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("こくん、とうなずいてこたえた。†",
     ""),
     # Ko-kun nodded and answered.†
 
-    ("「それって烽もしかして『普黒ｍ魔術の蛯大系』って竄やつ？」",
+    ("「それって烽もしかして『普黒ｍ魔術の大系』ってやつ？」",
     ""),
     # "Is that something that's tampering with, "The Epis of the Black Magic"?"
 
-    ("オ激レはニッと笑って言った。",
+    ("オレはニッと笑って言った。",
     ""),
     # I said with a grin.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「え？	どうして知ってるかって？	ふふっ、それはね、じ痰ゃ〜〜〜〜んっ！」",
     ""),
     # "Huh? How do you know? Hehe, that's a phlegm!"
 
-    ("オ激レは背白に隠していた本を先輩に見せた。",
+    ("オレは背白に隠していた本を先輩に見せた。",
     ""),
     # I showed my senior the book I had hidden behind my back.
 
-    ("「このオ激レが揩持ってるからなんだな〜」†",
+    ("「このオレが揩持ってるからなんだな〜」†",
     ""),
     # "It's because this guy has it~"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「多分、ぶつかったときに獅落としたんだｂ。ひとの手づたいにオ激レんとこに届いたんだ。じ痰ゃあ、はい、たしかに返したぜ」",
+    ("「多分、ぶつかったときに獅落としたんだ。ひとの手づたいにオレんとこに届いたんだ。じ痰ゃあ、はい、たしかに返したぜ」",
     ""),
     # "I think I leoparded when I bumped into him. It reached me with a hand. I got phlegm, yes, I certainly gave it back."
 
-    ("オ激レは先輩に本を手渡した。†",
+    ("オレは先輩に本を手渡した。†",
     ""),
     # I handed the book to my senior.†
 
-    ("「そう竄やって一生恊懸命探したりするくらいだから、諱よっぽど蛯大切な本なんじ痰ゃないの？」",
+    ("「そうやって一生恊懸命探したりするくらいだから、諱よっぽど大切な本なんじ痰ゃないの？」",
     ""),
     # "I've been trying to do this and I'll try hard to find the whole life, so I'm not sure what the important book is, right?"
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # Senpai nodded with Ko-kun.
 
-    ("「じ痰ゃあ、もう獅落とさないようにな。って、オ激レがぶつかったせいか、はははっ」",
+    ("「じ痰ゃあ、もう獅落とさないようにな。って、オレがぶつかったせいか、はははっ」",
     ""),
     # "You're so phlegm, don't let the lion fall any more. Maybe because I was hit by a violent slurred, hahaha."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("諱先輩は無表﨣情にオ激レを見つめている。",
+    ("諱先輩は無表﨣情にオレを見つめている。",
     ""),
     # Senpai is staring at me in a hollow manner.
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # It emits a unique atmosphere...†
 
-    ("それにして烽も、近くで見骭ると竄やっぱり綺淏麗だよなァ。",
+    ("それにして烽も、近くで見骭るとやっぱり綺淏麗だよなァ。",
     ""),
     # But when I looked up close, I saw that it was so beautiful.
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # As expected of you, O.
 
-    ("なんつーか、からだの部品ひとつひとつがすべてスペシャャ泣ルオーダーでｍ迯られてるって感じだよな。†",
+    ("なんつーか、からだの部品ひとつひとつがすべてスペシャャルオーダーでｍ迯られてるって感じだよな。†",
     ""),
     # It feels like every single part of the body is being ordered by Specialty Cry.†
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # It's so gorgeous that it looks like a doll.
 
-    ("ぼけ〜っとしてる点が、ち蛯ょっと変な感じではあるけど。†",
+    ("ぼけ〜っとしてる点が、ちょっと変な感じではあるけど。†",
     ""),
     # The point of being so silly is a bit strange.†
 
-    ("「そういえば先輩って、オカ泣ルト関係が好きなんだって？」",
+    ("「そういえば先輩って、オカルト関係が好きなんだって？」",
     ""),
     # "By the way, Senpai says he likes Okakyuruto's relationship?"
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Huh? You really don't know what you're saying? Hmm, that's right.
 
-    ("先輩、オカ泣ルト研結級ってとこに鰍所属してるんだって？」",
+    ("先輩、オカルト研結級ってとこに鰍所属してるんだって？」",
     ""),
     # Senpai, you say you belong to Okaryuuto Ken Yui-ryu?”
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # Ko-kun.†
 
-    ("「諱よく墲わかんないけど、あそこって、普黒ｍ魔術とか降漉術とか竄やってるって話だけど、実際ホントにそういうこと竄やってんの？	えっ？	竅やってるって？	マジ！？」",
+    ("「諱よく墲わかんないけど、あそこって、普黒ｍ魔術とか降漉術とかやってるって話だけど、実際ホントにそういうことやってんの？	えっ？	やってるって？	マジ！？」",
     ""),
     # "I don't really know what you're saying, but you're talking about how they're tampering with Fukuro M magic and Suzukijutsu, but are you actually actually tampering with that kind of thing? What? You're doing it? Seriously?!"
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # His senior replied with a genuinely serious attitude.†
 
-    ("「たしか『科学にр埋燒もれた秘術的学竓問の怩復興を目的とする』とかそういう部だｂ？」",
+    ("「たしか『科学にр埋燒もれた秘術的学竓問の怩復興を目的とする』とかそういう部だ？」",
     ""),
     # "Is this a club like that "they aim to revive the secret academic questions that have been buried in science"?"
 
@@ -290,11 +290,11 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「％学したときに烽もらったク宴ラブ案煦内の曹資料に曹書いてあったよな」",
+    ("「％学したときに烽もらったクラブ案煦内の曹資料に曹書いてあったよな」",
     ""),
     # "When I learned about the %, I got a banquet love plan that Cao wrote it in the Cao document inside the banquet love planner."
 
-    ("正直、磨当椏時はかなりうさんくさく思ったが、同椏時にち蛯ょっと気になったの烽も魔事実だ。†",
+    ("正直、当椏時はかなりうさんくさく思ったが、同椏時にちょっと気になったの烽も魔事実だ。†",
     ""),
     # To be honest, I felt quite sad when I was doing it, but it's also a terrible fact that I was curious about the same thing.†
 
@@ -318,12 +318,12 @@ text_array = [
     ""),
     # Ko-kun.†
 
-    ("「え、ク宴ラブの部長が考えたって？	そうか、諱先輩が部長って墲わけじ痰ゃない烽もんな。…え？	部長は優秀なオカ泣ルト祉博士だけど、幽覧迫部員で部には滅多に顔を出さないって？	ナハハ、オカ泣ルトだけに幽覧迫部員か、お烽もしれー！」",
+    ("「え、クラブの部長が考えたって？	そうか、諱先輩が部長って墲わけじ痰ゃない烽もんな。…え？	部長は優秀なオカルト祉博士だけど、幽覧迫部員で部には滅多に顔を出さないって？	ナハハ、オカルトだけに幽覧迫部員か、お烽もしれー！」",
     ""),
     # "What, did the manager of Kuen Love think about it? I see, Senpai Osamu is a club president who can't help but sigh....Huh? The manager is an excellent member of the Okaryokuruto Welfare, but he is a member of the Yuranai Club and rarely appears in the club? Nahaha, so he's a member of the Yuranai Club, so he's a member of the Yuranai Club, or maybe he's a member of the Yuranai Club!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「すみません…」†",
@@ -338,15 +338,15 @@ text_array = [
     ""),
     # Go, go, I stopped my senior by a simple, slurred questioning.
 
-    ("氈次の授業に遅齟れちまう。",
+    ("氈次の授業に遅れちまう。",
     ""),
     # I'm late to the next class.
 
-    ("このオ激レはと烽もかく、諱先輩まで怒逑られち痰ゃか墲わいそうだ。†",
+    ("このオレはと烽もかく、諱先輩まで怒逑られち痰ゃか墲わいそうだ。†",
     ""),
     # This is a bit of a rage, and even my senior fellows are probably angry and it's a shame.†
 
-    ("「じ痰ゃあ、諱先輩、そｂそｂ桙時間だから。",
+    ("「じ痰ゃあ、諱先輩、そそ桙時間だから。",
     ""),
     # "You're so phlegm, Senpai, it's bold, it's bold time.
 
@@ -366,7 +366,7 @@ text_array = [
     ""),
     # "She's phlegmy."
 
-    ("閨手を振って、オ激レが行こうとすると｢｢。",
+    ("閨手を振って、オレが行こうとすると｢｢。",
     ""),
     # I waved my hand and tried to go, ".
 
@@ -387,14 +387,14 @@ text_array = [
     # "Huh? What?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩は、ぽそぽそと小さな声で言った。†",
     ""),
     # Senpai said in a small voice.†
 
-    ("「｢｢え？	オカ泣ルトに興味はおありですかって？」",
+    ("「｢｢え？	オカルトに興味はおありですかって？」",
     ""),
     # ""What? Are you interested in Okaryuto?"
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # "That's right..."
 
-    ("はっきりいって、オ激レはその手の超峵常現象の類は一切信じないクチだ。",
+    ("はっきりいって、オレはその手の超峵常現象の類は一切信じないクチだ。",
     ""),
     # To be honest, I don't believe in any of those kinds of supernatural phenomena.
 
@@ -438,7 +438,7 @@ text_array = [
     ""),
     # Then, Senpai Ie-senpai said in a quiet cry that was so low that I couldn't hear again.†
 
-    ("「…えっ？	今度ク宴ラブの見学にｗませんかって？	うん、いいね。暇があったら行くよ」",
+    ("「…えっ？	今度クラブの見学にｗませんかって？	うん、いいね。暇があったら行くよ」",
     ""),
     # "...Huh? Would you like to visit Kuban Love next time? Yes, that's good. I'll go if I have time."
 
@@ -447,7 +447,7 @@ text_array = [
     # When I answered with a laughing face, my senior said,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なぜか赤い顔をしてうつむいた。†",
@@ -458,11 +458,11 @@ text_array = [
     ""),
     # That's when Chaiim rang.
 
-    ("「あっ、竅やべっ、遅齟れちまう！	じ痰ゃあな、諱先輩、また今度」",
+    ("「あっ、やべっ、遅れちまう！	じ痰ゃあな、諱先輩、また今度」",
     ""),
     # "Ah, I'm not going to get late! I'm not going to get any more sluggish, Senpai, see you next time."
 
-    ("オ激レは先輩に手を振って、２−Ａの教室を繧後にした。◯",
+    ("オレは先輩に手を振って、２−Ａの教室を繧後にした。◯",
     ""),
     # I waved to my senior and left the 2-A classroom.◯
 

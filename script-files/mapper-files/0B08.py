@@ -10,7 +10,7 @@ text_array = [
     ""),
     # As I went back to school and walked along the streets, I saw a group of rambling girls (the next girls' school next door).
 
-    ("アイスク潟リームを片阨手に楽しそうにお揩喋闥りしている。",
+    ("アイスクリームを片阨手に楽しそうにお揩喋闥りしている。",
     ""),
     # He speaks happily with Ice Cream in his arms.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # I haven't noticed this yet.
 
-    ("あいさつして烽もいいが、どう竄やら友だちといっし蛯ょらしいし、もしかしたらオジャャマか烽もな。",
+    ("あいさつして烽もいいが、どうやら友だちといっしょらしいし、もしかしたらオジャャマか烽もな。",
     ""),
     # It's nice to say hello, but it seems like he's a bit of a slut with friends, and maybe he's not even a slut.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # A Greetings.Relax
 
-    ("Ｂ	竅やめとこう。閨",
+    ("Ｂ	やめとこう。閨",
     ""),
     # B Let's stop it.Relax
 

@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Now, it's food."
 
-    ("オ激レは立ち繧上がった。",
+    ("オレは立ち繧上がった。",
     ""),
     # My throbbing rose to the ground.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # ""
 
-    ("♂史が竄やってきた。",
+    ("♂史がやってきた。",
     ""),
     # Masochi has been tampering with it.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # There's a club meeting during lunch break.I'll eat there now on the day."
 
-    ("「あ、そう。し蛯ょーがねーな。じ痰ゃ、今厓日はひとりで学食で烽も食うか」",
+    ("「あ、そう。しょーがねーな。じ痰ゃ、今厓日はひとりで学食で烽も食うか」",
     ""),
     # "There's no Kasai City Episode. I'm going to eat hot springs on my own in the cafeteria."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Will there be a lot of sputum in the cafeteria too?
 
-    ("オ激レはポケットに手を突っ桙込み、だらだらした足鞫取闔りで教室を出た。†",
+    ("オレはポケットに手を突っ桙込み、だらだらした足鞫取闔りで教室を出た。†",
     ""),
     # My geira stuck her hands into her pockets and left the classroom with her legs sloppy.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # It's crowded with students.
 
-    ("オ激レは取闔りあえず食柏券をモ買い、引き換えた奄ランチを乗せたト激レイを揩持って、空いた席を探した。",
+    ("オレは取闔りあえず食柏券をモ買い、引き換えた奄ランチを乗せたトレイを揩持って、空いた席を探した。",
     ""),
     # I went to buy a meal ticket and took a togeki Rei with the Amami lunch I had redeemed, and looked for an available seat.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # By chance, there were two people in the nearby Kuzu area, Aoi Chisho-chan and Kotone Chisho-chan.
 
-    ("見たとこｂ、ふたりいっし蛯ょって感じじ痰ゃないが、′かい№合寘わせに座っている。†",
+    ("見たとこ、ふたりいっしょって感じじ痰ゃないが、′かい№合寘わせに座っている。†",
     ""),
     # When I saw it, the two of them couldn't feel phlegm, but they sat there in a slut.†
 

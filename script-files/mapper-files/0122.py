@@ -10,35 +10,35 @@ text_array = [
     ""),
     # It was not particularly denied.
 
-    ("あかりはオ激レの彼濫女じ痰ゃない、と言い切髏るのは簡単だったが、なぜだかその言葉を福口にすることに墲わずかなｒ抗を感じてしまった。†",
+    ("あかりはオレの彼濫女じ痰ゃない、と言い切髏るのは簡単だったが、なぜだかその言葉を口にすることに墲わずかなｒ抗を感じてしまった。†",
     ""),
     # Akari was easy to say that she was a huge girl and had no phlegm, but for some reason she felt a slight urgency to say that she was lucky enough to say that.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「なに？	いま、なんか言おうとしとったんち痰ゃうの？」",
     ""),
     # "What? Are you trying to say something now and you're phlegmy?"
 
-    ("「…い竄や、竅やっぱ、いい竄や」",
+    ("「…いや、やっぱ、いいや」",
     ""),
     # "...It's tampering, it's tampering after all."
 
-    ("オ激レが笑って言葉をはぐらかすと、",
+    ("オレが笑って言葉をはぐらかすと、",
     ""),
     # When I laughed and squealed,
 
-    ("「…なん竄やの」",
+    ("「…なんやの」",
     ""),
     # "...What's that being done?"
 
-    ("と、委員長は、ち蛯ょっとムッとした様子でつぶ竄やいた。†",
+    ("と、委員長は、ちょっとムッとした様子でつぶやいた。†",
     ""),
     # The chairman muttered, looking a bit irritated.†
 
-    ("まあ、委員長とは席熕も近いし、ここで烽説明しなくて烽も、オ激レとあかりの微妙な関係煬も、そのうち揩理解してくれるだｂう。",
+    ("まあ、委員長とは席熕も近いし、ここで烽説明しなくて烽も、オレとあかりの微妙な関係煬も、そのうち揩理解してくれるだう。",
     ""),
     # Well, I'm close to the chairman, and I won't explain it here, so I'll soon understand both Kana and Akari's delicate relationship.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("べつにオ激レとあかりがつき№合ってようが、なかｂうが、とくに関心はないってとこか。",
+    ("べつにオレとあかりがつき№合ってようが、なかうが、とくに関心はないってとこか。",
     ""),
     # Even though I'm really excited and Akari are right, I'm not particularly interested in it.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Well, since I got along well with the chairman, I still haven't gotten much better, so it just happens that the seats are close by.
 
-    ("磨当然といえば魔当然か。†",
+    ("当然といえば魔当然か。†",
     ""),
     # Of course, it's only natural to be polished.†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "why?"
 
-    ("「い竄や…」",
+    ("「いや…」",
     ""),
     # "It's tampering..."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「オ激レたちって、ま墲わりから見骭るとどういう関係なんだと思う？」",
+    ("「オレたちって、ま墲わりから見骭るとどういう関係なんだと思う？」",
     ""),
     # "What do you think of us, if you look at us, what kind of relationship do you think of?"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("ａ唐突な質竡問に、あかりは驚いた顔をした。",
+    ("ａ突な質竡問に、あかりは驚いた顔をした。",
     ""),
     # aAkari looked surprised at the sudden question.
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # I'm stuck in the answer.†
 
-    ("「ま、それはいい竄や。それより、渡辺謨先生が職員室にｗいってよ」",
+    ("「ま、それはいいや。それより、渡辺謨先生が職員室にｗいってよ」",
     ""),
     # "Well, that's a good idea. Rather, Professor Watanabe Sogo goes to the staff room lol."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Huh, when?"
 
-    ("「いまだｂ。さっきそれで、委員長がお前を捜してたんだ」",
+    ("「いまだ。さっきそれで、委員長がお前を捜してたんだ」",
     ""),
     # "B. That's how the chairman was looking for you earlier."
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # "Ah, sphin's a bit"†
 
-    ("オ激レは、あかりを残して教室に戻った。",
+    ("オレは、あかりを残して教室に戻った。",
     ""),
     # I returned to the classroom leaving behind Akari.
 
-    ("いきなりあんな質竡問するんじ痰ゃなかったと、ち蛯ょっとだけ繧後悔した。†",
+    ("いきなりあんな質竡問するんじ痰ゃなかったと、ちょっとだけ繧後悔した。†",
     ""),
     # I regretted that I had no phlegm to suddenly question such a quality of questioning.†
 

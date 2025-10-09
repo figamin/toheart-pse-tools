@@ -14,7 +14,7 @@ text_array = [
     ""),
     # A surefire win!†
 
-    ("氏試㍽合開始と同椏時に急接近し、不意打ち気味のスト激レートを冾放つ。",
+    ("氏試㍽合開始と同椏時に急接近し、不意打ち気味のストレートを冾放つ。",
     ""),
     # At the same time as the start of the test, he suddenly approached, and hit a sudden, straight rate that seemed to be a surprise attack.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Hitsuji!
 
-    ("死角から、青い閃光が魔走髑る。†",
+    ("死角から、青い閃光が魔走る。†",
     ""),
     # A blue flash of light turns into a demon skull from the blind spot.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # a~….
 
-    ("竅やられちまったぜ。",
+    ("やられちまったぜ。",
     ""),
     # I was defeated.
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # A beautiful counter on the temporal foil.
 
-    ("ちくし蛯ょう。†",
+    ("ちくしょう。†",
     ""),
     # Chikushi Ebi.†
 
-    ("「諱先關手必泄勝のｊ襲攻ｍ撃。どうせ、そんなことだｂうと思ってね、警卲戒してたのよ」",
+    ("「諱先關手必泄勝のｊ襲攻ｍ撃。どうせ、そんなことだうと思ってね、警卲戒してたのよ」",
     ""),
     # "The J-raid, M-raid, is a must-have for the first time. I was hoping that it was B, so I was wary of the guard."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "good?
 
-    ("相闡手に読まれてたら、せっかくのｊ襲熄もｊ襲にならない墲わ。今厓日なんて、実力の差をр埋めようとして、いきなり突っ桙込んでくるのは予想できることでし蛯ょ」",
+    ("相闡手に読まれてたら、せっかくのｊ襲熄もｊ襲にならない墲わ。今厓日なんて、実力の差をр埋めようとして、いきなり突っ桙込んでくるのは予想できることでしょ」",
     ""),
     # If it was read by a related person, even the J-raids would not become J-raids.It's easy to imagine that on the day of the day, they suddenly start plunging into the gap in their ability, trying to fill the gap in their skills.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Ku…"
 
-    ("く竄やしいが、なるほど、と思った。†",
+    ("くやしいが、なるほど、と思った。†",
     ""),
     # It's a bit of a mess, but I thought, "I see."†
 
@@ -115,7 +115,7 @@ text_array = [
     # "It's always a surprise to the man who is adorable. In martial arts, you can't just hit it with just a simple, pure punch. You also need to be skilled in the heart-wrenching battle."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("たしかに、甘かった。†",

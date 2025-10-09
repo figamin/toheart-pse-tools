@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Shall I say, why are you rushing it?"
 
-    ("「長々と考えてると、どうせ高ロクなこと思いつかないでし蛯ょ？」",
+    ("「長々と考えてると、どうせ高ロクなこと思いつかないでしょ？」",
     ""),
     # "If you think about it at length, you can't think of anything good, right?"
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "Um..."
 
-    ("とか言いつつ、諱よく墲わかって竄やがるぜ。†",
+    ("とか言いつつ、諱よく墲わかってやがるぜ。†",
     ""),
     # While saying that, I'm not sure what I'm saying, and I'm going to tamper with it.†
 
-    ("「增わかった、增わかった。だったら前みたいにひざ高枕してくれ、ひざ高枕」",
+    ("「わかった、わかった。だったら前みたいにひざ高枕してくれ、ひざ高枕」",
     ""),
     # "I get it, I get it. Then give me a knee-high pillow like before, knee-high pillow."
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "Yes, yes..."
 
-    ("綾∴香のひざに頭を乗せたオ激レは、う〜んと蛯大きく背伸びした。",
+    ("綾∴香のひざに頭を乗せたオレは、う〜んと大きく背伸びした。",
     ""),
     # With my head on Aya∴Kaoru's knee, I stood my head and stretched out loudly.
 
-    ("「ふう。さ墲わ竄やかな翌風、青葉の≠香闕り、そしておｏ様のふと烽も烽も。",
+    ("「ふう。さ墲わやかな翌風、青葉の≠香闕り、そしておｏ様のふと烽も烽も。",
     ""),
     # "Whoa. The silly next-wind, Aoba's ≠ Koujo, and O's sudden hot and hot spring.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "It's such a high-quality romance."
 
-    ("竅やれ竄やれと笑う綾∴香。†",
+    ("やれやれと笑う綾∴香。†",
     ""),
     # Aya∴Ka laughs and says, "You're going to tamper with me."†
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # "Is it wrong how you use it?"
 
-    ("「磨当たらずと烽も唐遠からずだｂ」†",
+    ("「当たらずと烽も遠からずだ」†",
     ""),
     # "The hot springs are not too far from the ground if they are polished" †
 
-    ("オ激レは桙満足げに、深く息を吐いた。",
+    ("オレは桙満足げに、深く息を吐いた。",
     ""),
     # I let out a deep breath, satisfied with my heart.
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # oh yeah.
 
-    ("ちなみにセ潟リオは、バスの桙時間があるとかで、ひと足鞫先に帰ってしまった。",
+    ("ちなみにセリオは、バスの桙時間があるとかで、ひと足鞫先に帰ってしまった。",
     ""),
     # Incidentally, I ended up going home a little further than I had the bus time to go to Segata Rio.
 
-    ("香ロボットなのに気がｗく竄やつだ。†",
+    ("香ロボットなのに気がｗくやつだ。†",
     ""),
     # It's a scent robot, but it's a bit of a pain lol.†
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # "Let's win again with something."
 
-    ("オ激レの頬を両阯手ではさんで言う。",
+    ("オレの頬を両手ではさんで言う。",
     ""),
     # I said with my hardcore cheeks in my hands.
 
-    ("「おう、望むとこｂだ。だけど、氈次燻も勝ちは譲迴らねーからな」†",
+    ("「おう、望むとこだ。だけど、氈次燻も勝ちは譲迴らねーからな」†",
     ""),
     # "Oh, I hope b. But even if you don't get a win, I won't give up."
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "What? So you mean you're saying that you still didn't really have any phlegm this time?"
 
-    ("「本末当のことを言えば、今回はち蛯ょっとだけ唐遠慮したの。さすがに素人叶相闡手じ痰ゃね」",
+    ("「本末当のことを言えば、今回はちょっとだけ遠慮したの。さすがに素人叶相闡手じ痰ゃね」",
     ""),
     # "To talk about the truth, this time I just refrained from silly. I guess it's an amateur, but I'm sure I'll have to do some phlegm."
 
@@ -234,23 +234,23 @@ text_array = [
     ""),
     # Yeah.
 
-    ("こうして見骭ると、竅やっぱ、＃人だよな。",
+    ("こうして見骭ると、やっぱ、＃人だよな。",
     ""),
     # When I look at it like this, I see that it's definitely #person.
 
-    ("戟血搆統の痰違いって竄やつかね。",
+    ("戟血搆統の痰違いってやつかね。",
     ""),
     # I guess the difference in phlegm in blood pressure is a bit of a tampering thing.
 
-    ("時緕代が桙時緕代なら、貴族かお姫様ってとこｂなんだｂうな。†",
+    ("時緕代が桙時緕代なら、貴族かお姫様ってとこなんだうな。†",
     ""),
     # If the tide is a tide of fukuji, then it's a nobleman or a princess b.†
 
-    ("そう考えると、平民のオ激レにとって、このひざ高枕はぜいたくだ。",
+    ("そう考えると、平民のオレにとって、このひざ高枕はぜいたくだ。",
     ""),
     # When you think about it that way, this knee-high pillow is luxurious for me, a commoner.
 
-    ("せっかくだから、余すとこｂなく楽しんでおこう。",
+    ("せっかくだから、余すとこなく楽しんでおこう。",
     ""),
     # Since you're going to have it, let's have fun without any worries.
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「今回、氈勝縁負しようだなんて言い出したの、あれ、п私を繧励まそうとしてなんでし蛯ょ？」",
+    ("「今回、氈勝縁負しようだなんて言い出したの、あれ、п私を繧励まそうとしてなんでしょ？」",
     ""),
     # "This time, you said you were going to win the match, what are you trying to encourage me?"
 
@@ -282,11 +282,11 @@ text_array = [
     ""),
     # "I'd like to ask about that."
 
-    ("オ激レの目をのぞき桙込んで言う。†",
+    ("オレの目をのぞき桙込んで言う。†",
     ""),
     # I peer in my eyes and squealed.†
 
-    ("「憧齠れの人に勝っち痰ゃった話、п私がいまで烽も気にしてる烽もんだから、增わざ墲わざあのときと同じようなこと、してくれたんでし蛯ょ？」",
+    ("「憧齠れの人に勝っち痰ゃった話、п私がいまで烽も気にしてる烽もんだから、わざ墲わざあのときと同じようなこと、してくれたんでしょ？」",
     ""),
     # "The story of how I beat the person I admire, and I'm worried about Hot even as well, so you've done the same thing as I did back then, so you're gonna do it?"
 
@@ -294,11 +294,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("なーんだ、增わかってたのか。",
+    ("なーんだ、わかってたのか。",
     ""),
     # What, did you really understand?
 
-    ("だったらいまさら隠して烽もし蛯ょうがない。",
+    ("だったらいまさら隠して烽もしょうがない。",
     ""),
     # If that's the case, then I'll hide it now and there's no need to sing it out.
 
@@ -306,11 +306,11 @@ text_array = [
     ""),
     # "...well."
 
-    ("オ激レは言った。†",
+    ("オレは言った。†",
     ""),
     # I said.†
 
-    ("「お前、あのとき、彼に悪いと思ってるとか言ってたよな。あれはオ激レ、瘁違うと思うぜ」",
+    ("「お前、あのとき、彼に悪いと思ってるとか言ってたよな。あれはオレ、瘁違うと思うぜ」",
     ""),
     # "You said back then that you thought he was bad. I think it was really crazy, I don't think it was wrong."
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「結局、堰負けてどうなるかなんて、人によるんだ。すねるрヤツ焜もいり痰ゃ、氈勝てるまで福練習するрヤツ焜もいる。どっちかっつーと、オ激レは福練習するぜ。今回の勝縁負熾も、最燕初はボ鴻ロボ鴻ロだったけど、縺後半はずいぶん進熕歩したｂ？」",
+    ("「結局、堰負けてどうなるかなんて、人によるんだ。すねるрヤツ焜もいり痰ゃ、氈勝てるまで練習するрヤツ焜もいる。どっちかっつーと、オレは練習するぜ。今回の勝縁負熾も、最燕初はボ鴻ロボ鴻ロだったけど、縺後半はずいぶん進熕歩した？」",
     ""),
     # "In the end, what happens when a dam is lost depends on the person. There are also people who are swaying, and some people who practice fortune until they can win. Either way, I'll practice fortune. In this win-win situation, the first one was Bo-Ko-Ko-Ro, but did they make a big progress in the second half?"
 
@@ -331,10 +331,10 @@ text_array = [
     # "Well, that's how it is. So, don't worry about him, how long?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("綾∴香はしばらくオ激レを見つめてから、",
+    ("綾∴香はしばらくオレを見つめてから、",
     ""),
     # Aya∴Ka stared at me for a while,
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # "ah…"
 
-    ("「そうなんでし蛯ょ？」",
+    ("「そうなんでしょ？」",
     ""),
     # "Is that so, slut?"
 
@@ -370,11 +370,11 @@ text_array = [
     ""),
     # I smiled.†
 
-    ("「、あんた、いい竄やつね…」",
+    ("「、あんた、いいやつね…」",
     ""),
     # "You're a tampering guy..."
 
-    ("「なんだ、いまごｂ墲わかったのか？	オ激レは昔からすごくイイсヤツだぜ」",
+    ("「なんだ、いまご墲わかったのか？	オレは昔からすごくイイсヤツだぜ」",
     ""),
     # "What, do you know now? I've always been a really good guy."
 
@@ -386,7 +386,7 @@ text_array = [
     ""),
     # The sunlight above the sky is dazzling.†
 
-    ("オ激レが、ふう、と息を吐いて目を閉じた、そのとき。",
+    ("オレが、ふう、と息を吐いて目を閉じた、そのとき。",
     ""),
     # I let out a sigh and closed my eyes.
 
@@ -430,7 +430,7 @@ text_array = [
     ""),
     # Kiss...Isn't there any phlegm?
 
-    ("オ激レは思寬わず自分の唇を指でたしかめた。",
+    ("オレは思寬わず自分の唇を指でたしかめた。",
     ""),
     # I didn't think about it and tried to confirm with my fingers.
 
@@ -447,22 +447,22 @@ text_array = [
     # "..."†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「そうだな…」†",
     ""),
     # "That's right..." †
 
-    ("「帰闍り、どこか寄ってく？	今厓日のとこｂはр私がおごる墲わよ」",
+    ("「帰闍り、どこか寄ってく？	今厓日のとこはр私がおごる墲わよ」",
     ""),
     # "Would you like me to come back somewhere? I'll be treating you to the b-day of the day."
 
@@ -482,7 +482,7 @@ text_array = [
     ""),
     # morning.
 
-    ("教室へ入體ると、男子軍団が集まって、なに竄やら盾ワイ純ワイ窿やっていた。†",
+    ("教室へ入體ると、男子軍団が集まって、なにやら盾ワイ純ワイ窿やっていた。†",
     ""),
     # Once I entered the classroom, a group of boys gathered and were doing some tampering and doing some pure shields.†
 
@@ -494,7 +494,7 @@ text_array = [
     ""),
     # "Ah, good morning."
 
-    ("「なに竄やってんだ？」",
+    ("「なにやってんだ？」",
     ""),
     # "What are you doing tampering with?"
 
@@ -502,7 +502,7 @@ text_array = [
     ""),
     # When I looked at it, it was a huge hit with some common magazines.†
 
-    ("「垣本の格闘技スピ潟リッツ見てたんだ」",
+    ("「垣本の格闘技スピリッツ見てたんだ」",
     ""),
     # "I was watching Kakimoto's martial arts Spikegata Ritz."
 
@@ -530,7 +530,7 @@ text_array = [
     ""),
     # "@Suisuiya∴Scent is..."
 
-    ("「氏去年のエクスト潟リームの翌女子チャャンプさ。すげーんだぜ？	その筋じ痰ゃ格闘技の翌女王とか言甯われてて、強えーのなんのって」†",
+    ("「氏去年のエクストリームの翌女子チャャンプさ。すげーんだぜ？	その筋じ痰ゃ格闘技の翌女王とか言甯われてて、強えーのなんのって」†",
     ""),
     # "Mr. Mr. Chayamp is the girl after Extreme Reim last year. That's amazing? He's been told that he's the queen after martial arts, so what is he so strong?"
 
@@ -538,7 +538,7 @@ text_array = [
     ""),
     # Haa, Aya∴Kagura?
 
-    ("オ激レは机の繧上にある『格闘技スピ潟リッツ』を手に取闔り、見た。",
+    ("オレは机の繧上にある『格闘技スピリッツ』を手に取闔り、見た。",
     ""),
     # I picked up the "Spigata Ritz" on the table and saw it.
 
@@ -547,7 +547,7 @@ text_array = [
     # There was a photo of a girl with long hair kicking her in a throbbing hand.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ま、間瘧違いない。",
@@ -558,7 +558,7 @@ text_array = [
     ""),
     # It's Aya∴Kaori.†
 
-    ("「いいだｂ、その子」",
+    ("「いいだ、その子」",
     ""),
     # "It's fine, that kid."
 
@@ -566,7 +566,7 @@ text_array = [
     ""),
     # Kakimoto said happily.
 
-    ("「いまじ痰ゃすっかりアイド泣ルになっちまったけど、オ激レは空闍手竡やってたこｂから目つけてたんだぜ」",
+    ("「いまじ痰ゃすっかりアイドルになっちまったけど、オレは空闍手竡やってたこから目つけてたんだぜ」",
     ""),
     # "I've just started crying completely, but I was watching the b-watching guy who was doing some slut."
 
@@ -614,7 +614,7 @@ text_array = [
     ""),
     # I really can't believe it, isn't it?
 
-    ("あいつ、オ激レといるときには、全然そんな素振關り見せねーし。",
+    ("あいつ、オレといるときには、全然そんな素振關り見せねーし。",
     ""),
     # When he's with me, he doesn't show any of that kind of realism at all.
 
@@ -626,7 +626,7 @@ text_array = [
     ""),
     # Hmm.†
 
-    ("「竅やっほー！」",
+    ("「やっほー！」",
     ""),
     # "Ahhhh!"
 
@@ -634,7 +634,7 @@ text_array = [
     ""),
     # "…oh"
 
-    ("笑いながら綾∴香が竄やってきた。†",
+    ("笑いながら綾∴香がやってきた。†",
     ""),
     # Aya∴Ka began to laugh as she began to tamper with her.†
 
@@ -642,7 +642,7 @@ text_array = [
     ""),
     # "Sorry, sorry, did you wait?"
 
-    ("「い竄や、そんなに」",
+    ("「いや、そんなに」",
     ""),
     # "No, that much."
 
@@ -658,7 +658,7 @@ text_array = [
     ""),
     # "What, look at me? Is there something?"
 
-    ("「え、い竄や、べつに」",
+    ("「え、いや、べつに」",
     ""),
     # "What, it's tampering, it's all."
 
@@ -670,7 +670,7 @@ text_array = [
     ""),
     # But there's no hot guy either...
 
-    ("そんな有名な竄やつだとは…なあ。",
+    ("そんな有名なやつだとは…なあ。",
     ""),
     # I can't believe it's such a famous tampering thing... I can't believe it.
 
@@ -678,7 +678,7 @@ text_array = [
     ""),
     # What does that mean?
 
-    ("つまり綾∴香って、おｏさまで、帰窓国子落女で、格闘技チャャンプで、アイド泣ルな墲わけか。",
+    ("つまり綾∴香って、おｏさまで、帰窓国子落女で、格闘技チャャンプで、アイドルな墲わけか。",
     ""),
     # In other words, Aya∴Ka is a woman who is a woman who is Kimado Kuniko, a martial arts champ, and is a very saddened person.
 
@@ -687,7 +687,7 @@ text_array = [
     # That's luxurious.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「なんだ？」",
@@ -706,12 +706,12 @@ text_array = [
     ""),
     # "What have you been thinking about this time?"
 
-    ("「い竄や、べつに、なに烽も」",
+    ("「いや、べつに、なに烽も」",
     ""),
     # "Tsmear, what's more, what's hot?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「なんだよ」†",
@@ -798,7 +798,7 @@ text_array = [
     ""),
     # Standing-eating Amano Ramen restaurant is located on the street.
 
-    ("味で評判のこの店は、驕夜と烽もなると、♂社帰闍りのサ宴ラ潟リーマンなんかで蛯大賑崧わいだ。",
+    ("味で評判のこの店は、驕夜と烽もなると、♂社帰闍りのサラリーマンなんかで大賑崧わいだ。",
     ""),
     # This restaurant, which has a reputation for its taste, is filled with slumber and hot springs, and is a huge hit with a banquet and a la la la salaryman who has returned to the company.
 
@@ -818,15 +818,15 @@ text_array = [
     ""),
     # "Eater"
 
-    ("オ激レは浮黒コシ㏍ョウの缶を取って、堰ラー＝メンに振關りかけた。†",
+    ("オレは浮黒コショウの缶を取って、堰ラー＝メンに振關りかけた。†",
     ""),
     # I took a can of floating black koshi ccum and almost shouted to the weir Ramen.†
 
-    ("「なに、コシ㏍ョウかけるの？」",
+    ("「なに、コショウかけるの？」",
     ""),
     # "What, do you want to wear something?"
 
-    ("「ああ、オ激レはな」",
+    ("「ああ、オレはな」",
     ""),
     # "Ah, I'm a cruel thing."
 
@@ -834,7 +834,7 @@ text_array = [
     ""),
     # "I'm sputum, I smoke the next day too."
 
-    ("綾∴香熏もまねして、ぱっぱとコシ㏍ョウを振關りかける。",
+    ("綾∴香熏もまねして、ぱっぱとコショウを振關りかける。",
     ""),
     # Aya∴King also imitates her and sways her.
 
@@ -862,7 +862,7 @@ text_array = [
     ""),
     # "Hmm? What?"
 
-    ("「お前、おｏさまなんだし、こんな奄ラー＝メンなんかじ痰ゃ桙満たされねーだｂ？」",
+    ("「お前、おｏさまなんだし、こんな奄ラー＝メンなんかじ痰ゃ桙満たされねーだ？」",
     ""),
     # "You're O-sama, so am I not satisfied with such Amaya Ramen b?"
 
@@ -878,7 +878,7 @@ text_array = [
     ""),
     # "But, I've been eating it on the ground."
 
-    ("「あら、ク宴ラスで烽もｔ味しいって評判なのよ、ここ」",
+    ("「あら、クラスで烽もｔ味しいって評判なのよ、ここ」",
     ""),
     # "Oh, it's a reputation for being a banquet and the hot spring is also delicious, here."
 
@@ -950,27 +950,27 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「オ激レ焜も同じさ。最近ついついお前のことを考えちまう。…なんでだｂうな」†",
+    ("「オレ焜も同じさ。最近ついついお前のことを考えちまう。…なんでだうな」†",
     ""),
     # "My ecstatic slut is the same. I've been thinking about you lately... why is that so?" †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
     ""),
     # "..."†
 
-    ("增わざ墲わざ嘯答えなくて烽も、おたがい、掾理由は墲わかってる。",
+    ("わざ墲わざ嘯答えなくて烽も、おたがい、掾理由は墲わかってる。",
     ""),
     # I don't bother to answer, and I know why.
 
@@ -978,7 +978,7 @@ text_array = [
     ""),
     # The two and Hot are both equally enthusiastic.
 
-    ("たしかにオ激レたち、気が№合う烽もんな。†",
+    ("たしかにオレたち、気が№合う烽もんな。†",
     ""),
     # It's true that we're all incredible, so we're all in love with each other.†
 
@@ -1002,19 +1002,19 @@ text_array = [
     ""),
     # "Yes, yes = I'll give you menma."
 
-    ("「ばか竄やｂ〜。",
+    ("「ばかや〜。",
     ""),
     # "Damn it, b.
 
-    ("交換穴レートが痰違うだｂ〜」†",
+    ("交換穴レートが痰違うだ〜」†",
     ""),
     # The exchange hole rate is different b~"
 
-    ("「ああ、もう、そんなモ泣かなくて烽も…」",
+    ("「ああ、もう、そんなモかなくて烽も…」",
     ""),
     # "Ah, I don't cry like that anymore, so I'm not going to cry..."
 
-    ("「メ泣いてねー諱よっ！」",
+    ("「メいてねー諱よっ！」",
     ""),
     # "Don't cry, my name is!"
 
@@ -1026,7 +1026,7 @@ text_array = [
     ""),
     # But.
 
-    ("オ激レはぷっと≠吹き出した。†",
+    ("オレはぷっと≠吹き出した。†",
     ""),
     # My heart started squealing.†
 
@@ -1042,7 +1042,7 @@ text_array = [
     ""),
     # "You're such a weirdo, you."
 
-    ("オ激レが言うと、綾∴香は、†",
+    ("オレが言うと、綾∴香は、†",
     ""),
     # When I say that Aya∴Ka is
 

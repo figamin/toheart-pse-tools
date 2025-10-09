@@ -10,7 +10,7 @@ text_array = [
     ""),
     # ""
 
-    ("３桙時間目の休み桙時間、♂史がオ激レのとこｂに竄やってきた。",
+    ("３桙時間目の休み桙時間、♂史がオレのとこにやってきた。",
     ""),
     # During the third fox time, I came to the point of b when Masochi was in a fierce mood.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Whoa... So?"
 
-    ("「瘁例の志保のコ宴ラム焜も載ってたよ」",
+    ("「瘁例の志保のコラム焜も載ってたよ」",
     ""),
     # "It also featured Shiho's banquet ram stomp."
 
-    ("「ああ。そーい竄やそういうの烽もあったな」",
+    ("「ああ。そーいやそういうの烽もあったな」",
     ""),
     # "Yeah. There were some tampering and other things like that."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # He said he wouldn't mention his name, but I'll have to check it out for now.†
 
-    ("オ激レは、急いで掲示板のとこｂまで竄やってきた。",
+    ("オレは、急いで掲示板のとこまでやってきた。",
     ""),
     # I quickly frantically tampered with it to the bulletin board.
 
-    ("竅問阮題の新聞はすぐに見つかった。",
+    ("問題の新聞はすぐに見つかった。",
     ""),
     # The newspaper with the questionable question was quickly found.
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # Luckily, no one reads it.†
 
-    ("「ここのとこｂだよ」",
+    ("「ここのとこだよ」",
     ""),
     # "It's b here."
 
-    ("♂史の指差したとこｂに、なるほど、オ激レの撮った志保の写真が載っている",
+    ("♂史の指差したとこに、なるほど、オレの撮った志保の写真が載っている",
     ""),
     # In the point where Makoshi pointed to her, there is a photo of Shiho taken by me.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "What's ""†
 
-    ("このたび、このコ宴ラムを預かることになりました２−Ａの長岡志保と申します。",
+    ("このたび、このコラムを預かることになりました２−Ａの長岡志保と申します。",
     ""),
     # My name is Nagaoka Shiho from 2-A, who has been entrusted with this Coban Ram.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Since it is being built, it is a must-have for a great mansion.
 
-    ("しかるに、コ宴ラムの呼び名は『長岡の館』とさせていただきました。†",
+    ("しかるに、コラムの呼び名は『長岡の館』とさせていただきました。†",
     ""),
     # However, the name of Koenram was called "Nagaoka's Mansion."†
 
@@ -114,19 +114,19 @@ text_array = [
     ""),
     # This is a hot pot I found by someone else for the purposes of filming, but by chance I also found a hot pot at the bonito spot where a friend of mine remembers.
 
-    ("今回は、この嘯建物にまつ墲わる、ち蛯ょっぴりせつない思い出話を紹譓介したいと思います。†",
+    ("今回は、この嘯建物にまつ墲わる、ちょっぴりせつない思い出話を紹譓介したいと思います。†",
     ""),
     # This time, I would like to introduce and explain the sad memories of this building that are stunning.†
 
-    ("「…ったく、マジで曹書き竄やがったか」",
+    ("「…ったく、マジで曹書きやがったか」",
     ""),
     # "...Isn't that really a sermon?!"
 
-    ("読み終えたあと、オ激レはつぶ竄やいていた。†",
+    ("読み終えたあと、オレはつぶやいていた。†",
     ""),
     # After finishing reading, I was messing around.†
 
-    ("「蛛大苟丈夫だよ。これを読んだ限闌りじ痰ゃ、誰のことだか墲わからないし」",
+    ("「蛛大苟丈夫だよ。これを読んだ限りじ痰ゃ、誰のことだか墲わからないし」",
     ""),
     # "They're strong. As long as I read this, I don't know who they are about."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "It seems like it's phlegm."
 
-    ("バ激レっこないって墲わかっていて烽も、自分の過脂去を曹書かれるのは気分のいい烽もんじ痰ゃない。†",
+    ("バレっこないって墲わかっていて烽も、自分の過脂去を曹書かれるのは気分のいい烽もんじ痰ゃない。†",
     ""),
     # Even though he knows he won't be doing any serious ecstasy, it's a good feeling to be told that he's overly fatty.†
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "I also wanted to play with that girl."
 
-    ("「お前が親の言うこと守って、遠出しなかったからだｂ」",
+    ("「お前が親の言うこと守って、遠出しなかったからだ」",
     ""),
     # "Because you followed your parents' words and didn't go out."
 

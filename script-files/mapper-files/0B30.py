@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 4) (After the weir lost) (Aya∴Ka, right laughs) †
 
-    ("「という墲わけでセ潟リオ、結果は？」",
+    ("「という墲わけでセリオ、結果は？」",
     ""),
     # "So, what's the result, Seragata Rio?"
 
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "Yes, Aya∴Kaoru-sama's victory."
 
-    ("「竅やっりぃー！	４勝目！」",
+    ("「やっりぃー！	４勝目！」",
     ""),
     # "Aaaaah! My fourth win!"
 
-    ("「っきし蛯ょー…」†",
+    ("「っきしょー…」†",
     ""),
     # "An slut..."
 
-    ("「それでは、恒瘢例、潤ワンポイント激レッスンのコーナー！」",
+    ("「それでは、恒瘢例、潤ワンポイントレッスンのコーナー！」",
     ""),
     # "Now, here's the corner for constant scarring, Jun's one-point, intense lessons!"
 
@@ -30,35 +30,35 @@ text_array = [
     ""),
     # "Ou"
 
-    ("「今厓日はコンビネーシ㏍ョンについて。攻ｍ撃で打ち奄負けるのはコンビネーシ㏍ョンの組み立てが甘いせいよ。いまから教えるのは｢｢」†",
+    ("「今厓日はコンビネーションについて。攻ｍ撃で打ち奄負けるのはコンビネーションの組み立てが甘いせいよ。いまから教えるのは｢｢」†",
     ""),
     # "I'm talking about the combination sign right now. I'm talking about the combination sign. I'm losing with an attack M-shot because the combination sign is not easy to assemble. I'm going to tell you now ""†
 
-    ("その繧後、﨟基本的なコンビネーシ㏍ョンの組み立てについて教寀わった。",
+    ("その繧後、﨟基本的なコンビネーションの組み立てについて教寀わった。",
     ""),
     # After that, I was taught about the assembly of the basic combination scheme.
 
-    ("コンビネーシ㏍ョン｢｢すな墲わち、技と技の連携により、攻ｍ撃竚やディフェンスは、様々な広がりをみせる。",
+    ("コンビネーション｢｢すな墲わち、技と技の連携により、攻ｍ撃竚やディフェンスは、様々な広がりをみせる。",
     ""),
     # Combination Symbion "The combination of techniques and techniques allows for a variety of expansions in attacks and attacks and defenses.
 
-    ("本沫その組み№合寘わせにパターンはないが、すでに完成された有効なコンビネーシ㏍ョンは確実に存在する。†",
+    ("本沫その組み№合寘わせにパターンはないが、すでに完成された有効なコンビネーションは確実に存在する。†",
     ""),
     # There is no pattern in the combination of the original droplets, but there are certainly already completed effective combinations.†
 
-    ("攻ｍ撃のコンビネーシ㏍ョン。",
+    ("攻ｍ撃のコンビネーション。",
     ""),
     # A combination of attack and M-shots.
 
-    ("ディフェンスのコンビネーシ㏍ョン。",
+    ("ディフェンスのコンビネーション。",
     ""),
     # Defensive combination.
 
-    ("その使いどこｂと有用性を、增わかり竄やすく教えてくれた。†",
+    ("その使いどこと有用性を、わかりやすく教えてくれた。†",
     ""),
     # It was easy to understand and explains how it is useful.†
 
-    ("「﨟基本をおぼえたら今度はコンビネーシ㏍ョンを福練習してね」",
+    ("「﨟基本をおぼえたら今度はコンビネーションを練習してね」",
     ""),
     # "After learning the basics, now you should practice the combination scheme."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Shake it!
 
-    ("オ激レは盾ワンツース潟リーのコンビネーシ㏍ョンを打ってみせる。†",
+    ("オレは盾ワンツースリーのコンビネーションを打ってみせる。†",
     ""),
     # My Gekira will play the combination of One Two Thousand Rat Lee Shield.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Oh, is that so?"
 
-    ("「この数﨎日で、オ激レ焜もずいぶん繧上達したような気がするぜ」",
+    ("「この数﨎日で、オレ焜もずいぶん繧上達したような気がするぜ」",
     ""),
     # "I feel like my surge has improved a lot over the past few days."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Hehe, that's good for the students."
 
-    ("「生徒じ痰ゃねー諱よ、敵だｂ」",
+    ("「生徒じ痰ゃねー諱よ、敵だ」",
     ""),
     # "Students, you have no phlegm, your name is your enemy."
 
@@ -107,7 +107,7 @@ text_array = [
     # "They are enemies, students, and even hotpots."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なんか複雑な気分だな。◯",

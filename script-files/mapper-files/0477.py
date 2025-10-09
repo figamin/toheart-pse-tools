@@ -10,7 +10,7 @@ text_array = [
     ""),
     # I'm sure Takabei leek, which tastes like that, was on sale at convenience stores.
 
-    ("無ヶ茶な組み№合寘わせに聞こえるけど、じつはｔ味しいんだｂう。",
+    ("無ヶ茶な組み№合寘わせに聞こえるけど、じつはｔ味しいんだう。",
     ""),
     # It sounds like a crazy combination of the number one, but it actually tastes great.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Well, maybe Fumaga Tea Grain and Beef Celsius...?"
 
-    ("オ激レは一番安全な道を選んだ。†",
+    ("オレは一番安全な道を選んだ。†",
     ""),
     # I chose the safest path.†
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "Hmm.
 
-    ("口のｒに浮抹ヶ茶の≠香闕りがまったりと広がって、その繧後を追うように、香牛絜乳のまｂ竄やかな甘みがすぎて艪ゆく味嵂わいが｢｢」",
+    ("口のｒに浮抹ヶ茶の≠香闕りがまったりと広がって、その繧後を追うように、香牛絜乳のまやかな甘みがすぎてゆく味嵂わいが｢｢」",
     ""),
     # The sweetness of the Ukimagacha tea slowly spreads in the mouth, and as if following it, the sweetness of the sweet beef and beef milk is so tame that it is ""
 
-    ("「增わけ墲わかんねーこと言ってんじ痰ゃねえよ。『まったり』ってなんなんだ。いっぺん烽説明してみｂ」†",
+    ("「わけ墲わかんねーこと言ってんじ痰ゃねえよ。『まったり』ってなんなんだ。いっぺん烽説明してみ」†",
     ""),
     # "You're saying something you don't understand, you have no idea what it's like. What is "relaxed"? Let me explain it all at once b"
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "...Now? You're relaxing, don't you have any phlegm?"
 
-    ("「增わかんねー諱よ」",
+    ("「わかんねー諱よ」",
     ""),
     # "I don't know, my name is."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "I wonder if there's a similar hot spring to you."
 
-    ("好きなрヤツは好きだｂう。",
+    ("好きなрヤツは好きだう。",
     ""),
     # I like the one I like.
 

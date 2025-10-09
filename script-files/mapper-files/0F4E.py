@@ -14,7 +14,7 @@ text_array = [
     ""),
     # sleepy.
 
-    ("もういい竄や。",
+    ("もういいや。",
     ""),
     # It's already tampered with it.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Turn off the lights and go to sleep.
 
-    ("お竄やすみ。",
+    ("おやすみ。",
     ""),
     # Good night to tamper with.
 

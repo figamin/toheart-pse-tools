@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Light scale event 1F) (B: ​​It's better to take life insurance)†
 
-    ("「生命保険に入ったほうがいいでし蛯ょう」",
+    ("「生命保険に入ったほうがいいでしょう」",
     ""),
     # "You'd better get life insurance, slut."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "No way, tell me..."
 
-    ("「オ激レにできるアドバイスは、ただひとつ。生命保険に入體ることをおすすめします」◯",
+    ("「オレにできるアドバイスは、ただひとつ。生命保険に入體ることをおすすめします」◯",
     ""),
     # "There's only one advice I can give you. I recommend getting life insurance."◯
 

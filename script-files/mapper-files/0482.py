@@ -2,7 +2,7 @@
 # Source file: 0482.txt
 
 text_array = [
-    ("（志保	回秤数イベント	２階１）閨（選択綜	聞いて竄やる）†",
+    ("（志保	回秤数イベント	２階１）閨（選択綜	聞いてやる）†",
     ""),
     # (Shiho's Scales Event, 2nd Floor 1) (Choices: Listen and tamper)†
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # If you think it's a lie, you don't have to believe it.
 
-    ("そう思い、オ激レは聞いて竄やることにした。",
+    ("そう思い、オレは聞いてやることにした。",
     ""),
     # Thinking that, I decided to listen and tamper with it.
 
-    ("「聞いて竄やるから、＝早く言えよ」",
+    ("「聞いてやるから、＝早く言えよ」",
     ""),
     # "I'll listen and tamper with it, so tell me quickly."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Yes, yes...Huh? What about the history of the ♂?"
 
-    ("志保はオ激レの言うことを適俣当に聞き流して、他のギャャ宴ラ潟リーを探している。†",
+    ("志保はオレの言うことを適俣当に聞き流して、他のギャャラリーを探している。†",
     ""),
     # Shiho listens to what I'm saying to Tomomatato and searches for other Gyabanquet Lagatari.†
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # "Anyone? Did the genius at the top of the grade get the perfect one and get some hot water?"
 
-    ("「そういうニャース焜もいいけど、今回は烽もうち蛯ょっと身近な人のニャースなのよ」†",
+    ("「そういうニャース焜もいいけど、今回は烽もうちょっと身近な人のニャースなのよ」†",
     ""),
     # "Meowth like that is nice, but this time Hot is also a meowth from someone close to us."
 
-    ("「じ痰ゃあ、ウチのク宴ラスの沢苟井だ。あいつ烽も頭いいからな」",
+    ("「じ痰ゃあ、ウチのクラスの沢苟井だ。あいつ烽も頭いいからな」",
     ""),
     # "Ah, it's Sawasui, my banquet. That guy is smart too."
 
-    ("「惜しいっ！	同じク宴ラス、ってまでは№合ってる墲わね」",
+    ("「惜しいっ！	同じクラス、ってまでは№合ってる墲わね」",
     ""),
     # "It's a shame! It's the same banquet, so it's the perfect match for you."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Shiho jumps up and down in an exaggerated way.†
 
-    ("戟レミィがすごい成績？閨	オ激レの鰍リアクシ㏍ョンは｢｢。",
+    ("戟レミィがすごい成績？閨	オレの鰍リアクションは｢｢。",
     ""),
     # Is Karemi amazing results?My heart's crust is ".
 

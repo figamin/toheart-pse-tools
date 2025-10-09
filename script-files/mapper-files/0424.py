@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "This! What do you mean?!"
 
-    ("「增わかってるけどな」",
+    ("「わかってるけどな」",
     ""),
     # "I know though."
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Is that disease so popular?"
 
-    ("「昔ア＜メ潟リカで流行ったらしい墲わ」",
+    ("「昔ア＜メリカで流行ったらしい墲わ」",
     ""),
     # "It seems to have been popular in America in the past."
 
-    ("「昔！？	ア＜メ潟リカ！？	…おめえ、そり痰ゃオ激レたちに痰ゃ関係ねーだｂ？」",
+    ("「昔！？	ア＜メリカ！？	…おめえ、そり痰ゃオレたちに痰ゃ関係ねーだ？」",
     ""),
     # "A long time ago!? Americana!? ...You know, phlegm has nothing to do with us, phlegm?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Shiho's fear of staphylococcus fertilizers, also known as the foreign minister's government, have not been confirmed in Japan.
 
-    ("心配したオ激レがバカだった。◯",
+    ("心配したオレがバカだった。◯",
     ""),
     # I was so worried that I was stupid.◯
 

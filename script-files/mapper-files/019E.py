@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Akari Scales Event: Departing from school) (4th Lion, 9th Day) (School Gate 2)†
 
-    ("校蜊門を出たとこｂであかりを見かけた。",
+    ("校蜊門を出たとこであかりを見かけた。",
     ""),
     # I saw Kari when I left the school gates.
 
-    ("ひとりみたいだな、今厓日は志保といっし蛯ょじ痰ゃないのか。",
+    ("ひとりみたいだな、今厓日は志保といっしょじ痰ゃないのか。",
     ""),
     # He looks like he's alone, isn't he a sputum with Shiho on the day?
 
-    ("オ激レは繧後撃から声をかけた。",
+    ("オレは繧後撃から声をかけた。",
     ""),
     # My gang called out after the attack.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # What should I do?
 
-    ("Ａ	だったらいっし蛯ょに帰汲うぜ。閨",
+    ("Ａ	だったらいっしょに帰汲うぜ。閨",
     ""),
     # A: If so, I'll return to the ephemeral.Relax
 

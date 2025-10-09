@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari Scales Event 1F) (A lined up next to each other)†
 
-    ("オ激レは≠早足で烽歩き、あかりの横に並んだ。",
+    ("オレは≠早足で烽歩き、あかりの横に並んだ。",
     ""),
     # My gei-re walked quickly and lined up next to Akari.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "A hallway..."
 
-    ("廊下の掃恆除は艪比較的％早く終尞わるけど…。†",
+    ("廊下の掃恆除は比較的％早く終尞わるけど…。†",
     ""),
     # The removal of hallways will be completed relatively quickly though...†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # What should I do?
 
-    ("Ａ	待って、いっし蛯ょに帰驪る。閨",
+    ("Ａ	待って、いっしょに帰驪る。閨",
     ""),
     # A Wait, I'll go back to the slut.Relax
 

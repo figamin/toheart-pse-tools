@@ -14,7 +14,7 @@ text_array = [
     ""),
     # We'll be in school again from Mingshun Day.
 
-    ("し蛯ょーがない、今厓日は≠早めに寝ておこう。◯",
+    ("しょーがない、今厓日は≠早めに寝ておこう。◯",
     ""),
     # There's no slut, I'll go to bed early on the day.◯
 

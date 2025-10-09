@@ -19,7 +19,7 @@ text_array = [
     # I can't stand it if I get a strange answer.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("だが委員長は、ほんの少し意外そうな顔はした烽ものの、",
@@ -34,12 +34,12 @@ text_array = [
     ""),
     # And leaving that alone, I left without any worries.
 
-    ("べつにオ激レとあかりがつき№合ってようが、なかｂうが、とくに関心はないってことか。†",
+    ("べつにオレとあかりがつき№合ってようが、なかうが、とくに関心はないってことか。†",
     ""),
     # Even if I'm a bit of a good match, I guess I'm not particularly interested in it.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("まあ、委員長がどう思おうとべつにこっちは汲結構なんだけど…。",
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # Hmm.
 
-    ("しかし、この反梍応はこの反梍応で、竅やっぱりち蛯ょっとさみしい烽ものがあるな。",
+    ("しかし、この反梍応はこの反梍応で、やっぱりちょっとさみしい烽ものがあるな。",
     ""),
     # However, this anti-humanity is due to this anti-humanity, and I still find something sad to see.
 
-    ("ってことはオ激レ、もしかして委員長のこと、意識してんのか。◯",
+    ("ってことはオレ、もしかして委員長のこと、意識してんのか。◯",
     ""),
     # That means I'm really conscious of the chairman, is it possible?◯
 

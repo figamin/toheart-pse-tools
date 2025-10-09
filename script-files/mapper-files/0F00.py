@@ -2,15 +2,15 @@
 # Source file: 0F00.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル１）閨（卒業式篇（シャーティング））閨（ゲーセン焜内）†",
+    ("（ゲーセンバトル１）閨（卒業式篇（シャーティング））閨（ゲーセン焜内）†",
     ""),
     # (Arcade Battle Cry 1) (Graduation Ceremony Edition (Sharting)) (Inside the arcade) †
 
-    ("ゲーセンに竄やってきた。",
+    ("ゲーセンにやってきた。",
     ""),
     # I've come to the arcade.
 
-    ("さ〜て、今厓日はどれから竄やｂうかな。†",
+    ("さ〜て、今厓日はどれからやうかな。†",
     ""),
     # So, I wonder which day to start with, b?†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Speak normally" †
 
-    ("「全員参加の指名式バト泣ルを開催しない？」",
+    ("「全員参加の指名式バトルを開催しない？」",
     ""),
     # "Would you like to hold a nomination ceremony where everyone can participate?"
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "You can choose a match against the opponent, compete for the winner and loser in a special game and match the match."
 
-    ("「あかり竄やｉ史燻も竄やんのか？」",
+    ("「あかりやｉ史燻もやんのか？」",
     ""),
     # "Are red tampering and i-hime smoking tampering too?"
 
-    ("「だってさ、バト泣ルっていえばいつ烽もあたしとあんただけじ痰ゃない。たまにはあかりとかｉ史とかがバト泣ル窿やって烽もお烽もしｂいんじ痰ゃないかな〜って」†",
+    ("「だってさ、バトルっていえばいつ烽もあたしとあんただけじ痰ゃない。たまにはあかりとかｉ史とかがバトル窿やって烽もお烽もしいんじ痰ゃないかな〜って」†",
     ""),
     # "Because, when you say "Battle crying" whenever you and me are the only ones who don't have phlegm. Sometimes Akari and I-Shin are the ones who crying with the other, and you're probably not phlegmy."
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # "The winner of Jaanken is free."
 
-    ("「ジャャンケンの汲結果汢次謗第でめずらしいバト泣ルが見鼬れるって墲わけか」",
+    ("「ジャャンケンの汲結果汢次謗第でめずらしいバトルが見鼬れるって墲わけか」",
     ""),
     # "Is it true that the rare battle crying is a hit with the result of the slander of Jayanken?"
 
-    ("「そ艪ゆこと」†",
+    ("「そゆこと」†",
     ""),
     # "Sogai Yukoto"†
 
-    ("「ねえ。それって、いつ烽もふたりが竄やってるみたいに、пヤックおごらされたりするの？」",
+    ("「ねえ。それって、いつ烽もふたりがやってるみたいに、пヤックおごらされたりするの？」",
     ""),
     # "Hey. When will that be when you get _yak to be treated like the two of them are tampering with?"
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # Akari listens.
 
-    ("「もちｂんよ。",
+    ("「もちんよ。",
     ""),
     # "It's a lot.
 
-    ("勝縁負は守骼るｂモノがあるから、お烽もしｂくなるのよ」†",
+    ("勝縁負は守骼るモノがあるから、お烽もしくなるのよ」†",
     ""),
     # There are things that protect you from winning, so even if you're going to get b"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Yeah~~~…"
 
-    ("それまで黙って聞いていたｉ史燻もそｂってそんな声を繧上げる。",
+    ("それまで黙って聞いていたｉ史燻もそってそんな声を繧上げる。",
     ""),
     # I had been listening to it silently until then, and the voices of I-Shin-Shuu have come to light.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Ah, be careful. The first one to beat Jayanken is also a stake in the win."
 
-    ("「そんなあ〜。どっちにしｂр私が不風だよ。誰を選んで烽も勝てそうにない烽もの…」",
+    ("「そんなあ〜。どっちにしр私が不風だよ。誰を選んで烽も勝てそうにない烽もの…」",
     ""),
     # "Ahhh. Whichever you choose, I'm not in the wind. I don't think anyone can win either..."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Akari has already declared her defeat.
 
-    ("「ジャャンケンに勝ってｉ史を選べばいいじ痰ゃない。多分同じ撃レベ泣ルでし蛯ょ？」†",
+    ("「ジャャンケンに勝ってｉ史を選べばいいじ痰ゃない。多分同じ撃レベルでしょ？」†",
     ""),
     # "You can beat Jayanken and choose I-History, so you can't get any phlegms. Maybe you're going to cry the same level of attack?"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("オ激レが聞くと、♂史は、",
+    ("オレが聞くと、♂史は、",
     ""),
     # When I heard that Makire was
 
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # "Well, I guess I don't have any phlegms that I specialize in..."
 
-    ("と、どっちに烽もとれる言い福方をする。",
+    ("と、どっちに烽もとれる言い方をする。",
     ""),
     # And which way you say you can get hot water, and you're lucky.
 
-    ("じつはプ鴻ロ宴級の腕前だとかいうギャャグ焜も、こいつならありうるだけにｊ険だ。†",
+    ("じつはプ鴻ロ級の腕前だとかいうギャャグ焜も、こいつならありうるだけにｊ険だ。†",
     ""),
     # In fact, Gyagu-san, who is said to be a skilled professional at the level of a pro-Koro banquet, is a bit difficult because this guy is possible.†
 
-    ("「竅やり烽もしねーうちから奄負けた気になってんじ痰ゃねー諱よ。端っからできないと思い桙込んでたら、避けられる弾熬も避けらんねーぞ」",
+    ("「やり烽もしねーうちから奄負けた気になってんじ痰ゃねー諱よ。端っからできないと思い桙込んでたら、避けられる弾熬も避けらんねーぞ」",
     ""),
     # "I don't have the chance to get the ball out of my mind, and I feel like I've lost Amami, so I'm not going to have to smear it. If I think I can't do it, I'll never be able to avoid the bullet that I can avoid."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # ...I won.
 
-    ("妙に窒白熱したジャャンケンバト泣ルだったが、辛く烽もオ激レが勝女した。†",
+    ("妙に窒白熱したジャャンケンバトルだったが、辛く烽もオレが勝女した。†",
     ""),
     # It was strangely hot and hot, but I was so excited that I was able to win the game.†
 

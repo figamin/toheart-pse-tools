@@ -2,23 +2,23 @@
 # Source file: 0682.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ａ	いっち蛯ょ、閨手伝って竄やるか）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ａ	いっちょ、閨手伝ってやるか）†",
     ""),
     # (Makyuruchi, the balance event, 2F, LV1) (Choose A, will you help me and tamper with it)†
 
-    ("こんな広い廊下をひとりでなんて、真面目に竄やってたら冾日が暮れちまうぜ。",
+    ("こんな広い廊下をひとりでなんて、真面目にやってたら冾日が暮れちまうぜ。",
     ""),
     # If I were to seriously tamper with such a large corridor by myself, the sun would fall.
 
-    ("いっち蛯ょ、閨手伝って竄やっか。†",
+    ("いっちょ、閨手伝ってやっか。†",
     ""),
     # I'll help you and tamper with it.†
 
-    ("「おう、マ泣ルチ、オ激レに烽もｂモップ諠よこしな」",
+    ("「おう、マルチ、オレに烽もモップ諠よこしな」",
     ""),
     # "Oh, I'm crying, so please b-mop your heart."
 
-    ("オ激レは手を出して言った。",
+    ("オレは手を出して言った。",
     ""),
     # I said, squealing.
 
@@ -26,27 +26,27 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「オ激レ焜もいっし蛯ょに竄やって竄やるよ」",
+    ("「オレ焜もいっしょにやってやるよ」",
     ""),
     # "I'll tamper with you and I'll tamper with you."
 
-    ("「…いっし蛯ょにって、お掃恆除をですか？」",
+    ("「…いっしょにって、お掃恆除をですか？」",
     ""),
     # "...And do the scavengers and remove the scavengers?"
 
-    ("「ああ。ふたりで竄やり痰ゃ、＝早く終尞わんだｂ？」†",
+    ("「ああ。ふたりでやり痰ゃ、＝早く終尞わんだ？」†",
     ""),
     # "Yeah. You two tamper with each other, so you're done quickly, b?"
 
-    ("「あ、はい、そうですね。じ痰ゃあ、ふたりでいっし蛯ょに竄やりまし蛯ょう」†",
+    ("「あ、はい、そうですね。じ痰ゃあ、ふたりでいっしょにやりましょう」†",
     ""),
     # "Ah, yes, that's right. The two of us will tamper with the eschat."†
 
-    ("オ激レはマ泣ルチからｂモップを受け取闔り、バケツのｐに浸した。",
+    ("オレはマルチからモップを受け取闔り、バケツのｐに浸した。",
     ""),
     # Ikure received the B-mop from Makkuruchi and soaked it in the bucket of a p.
 
-    ("ペダ泣ルを踏んで、香ロー堰ラーでｐをしぼる。",
+    ("ペダルを踏んで、香ロー堰ラーでｐをしぼる。",
     ""),
     # Step on the pedal cry and use the incense roll weir to tighten the p.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Yes. From here on, ""
 
-    ("マ泣ルチは、たたたっと、廊下を魔走って行き、１５≠メート泣ルほどｌこうで立ち止まると、",
+    ("マルチは、たたたっと、廊下を魔走って行き、１５≠メートルほどｌこうで立ち止まると、",
     ""),
     # The squealing throbbed her and ran down the hallway, and stopped at a distance of 15≠mate crying.
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # He says with an over-the-top zeschaya.
 
-    ("それを聞いてち蛯ょっと安心した。†",
+    ("それを聞いてちょっと安心した。†",
     ""),
     # I was relieved to hear that.†
 
-    ("「諱よーし、增わかった。…諱よっと」",
+    ("「諱よーし、わかった。…諱よっと」",
     ""),
     # "Okay, I understand...I'm sorry."
 
-    ("オ激レは、ぺたんっ、とｂモップを床に叩きつけた。",
+    ("オレは、ぺたんっ、とモップを床に叩きつけた。",
     ""),
     # I thrust my b-mop into the floor, flat, slamming it.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Aaaaahhhh!"
 
-    ("体重を乗せ、いっきにｂモップを鰍滑迥らせる。",
+    ("体重を乗せ、いっきにモップを鰍滑迥らせる。",
     ""),
     # Put your weight on and let the B-mop move at once.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "That's right. The most important thing when it comes to cleaning and eliminating is to be more careful.
 
-    ("チンタ宴ラ窿やってたんじ痰ゃ、いつまで経って烽も終尞わり痰ゃしねーぞ」",
+    ("チンタラ窿やってたんじ痰ゃ、いつまで経って烽も終尞わり痰ゃしねーぞ」",
     ""),
     # The banquet has been carried out, so the phlegm will last, and even the phlegm will not be able to be completed."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "I see" †
 
-    ("「ほらっ、マ泣ルチ、お前熨も気㈲合いを入齠れｂ！",
+    ("「ほらっ、マルチ、お前熨も気㈲合いを入齠れ！",
     ""),
     # "Come on, mum, you'll also be able to have a good mood on your noshi!
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # "Ha, yes."
 
-    ("「諱よしっ、このオ激レについてこぉーい！」",
+    ("「諱よしっ、このオレについてこぉーい！」",
     ""),
     # "All right, come along with this shitty guy!"
 
-    ("「增わかりましたっ！」†",
+    ("「わかりましたっ！」†",
     ""),
     # "I understand!" †
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "Heh, heh, hah, hah..."
 
-    ("「…ど、どうだ、マ泣ルチ？	あっという間に終尞わっちまっただｂ？」",
+    ("「…ど、どうだ、マルチ？	あっという間に終尞わっちまっただ？」",
     ""),
     # "...What, what do you think, cried? You've finished it in a flash?"
 
@@ -238,19 +238,19 @@ text_array = [
     ""),
     # "...Yes, I'm breathing."
 
-    ("「…增わ、增わたしは、ａモーターが熱くなっち痰ゃいました」",
+    ("「…わ、わたしは、ａモーターが熱くなっち痰ゃいました」",
     ""),
     # "...But, I got hot on my motor A and it was phlegm."
 
-    ("ふたりは両阯手をひざにつき、しばらくそのまま苦しさにあえいだ。†",
+    ("ふたりは両手をひざにつき、しばらくそのまま苦しさにあえいだ。†",
     ""),
     # The two of them stepped onto their knees and continued to suffer for a while.†
 
-    ("「…ち蛯ょっと、きつかったか？」",
+    ("「…ちょっと、きつかったか？」",
     ""),
     # "...Has it tough, did you say?"
 
-    ("「いえ、ちっと烽も。とって烽も楽しかったです。だれかといっし蛯ょにお掃恆除するのって、こんなに烽も楽しい烽ものなんですね。",
+    ("「いえ、ちっと烽も。とって烽も楽しかったです。だれかといっしょにお掃恆除するのって、こんなに烽も楽しい烽ものなんですね。",
     ""),
     # "No, there's a bit of hot water. I also enjoyed the hot water. It's so much fun to clean up and remove the hot water with someone.
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # I didn't know."
 
-    ("にっこり笑迴顔をｂ浮かべるマ泣ルチ。",
+    ("にっこり笑迴顔を浮かべるマルチ。",
     ""),
     # A smile makes a face look on her face.
 
@@ -266,15 +266,15 @@ text_array = [
     ""),
     # "I see."
 
-    ("思寬わずオ激レ焜もつられて微笑んでしまう。†",
+    ("思寬わずオレ焜もつられて微笑んでしまう。†",
     ""),
     # Without thinking about it, I was so tempted and smiled.†
 
-    ("「で烽も、さんがこんなにお掃恆除好きな福方だとは知闥りませんでした。じつは、增わたし烽もお掃恆除蜿大好きなんですよー」",
+    ("「で烽も、さんがこんなにお掃恆除好きな方だとは知闥りませんでした。じつは、わたし烽もお掃恆除蜿大好きなんですよー」",
     ""),
     # "And I didn't know that Mr. Hou was such a blessing who likes to remove scavenging. Actually, I also love to remove scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging scavenging
 
-    ("「…は？	掃恆除が好き？	オ激レが？」",
+    ("「…は？	掃恆除が好き？	オレが？」",
     ""),
     # "...Huh? I like cleaning and removing it? I'm so excited?"
 
@@ -286,23 +286,23 @@ text_array = [
     ""),
     # Hey, what are you talking about?†
 
-    ("「んな墲わけねーだｂ。好きなんかじ痰ゃねー諱よ。掃恆除なんて面倒くせーだけだ」",
+    ("「んな墲わけねーだ。好きなんかじ痰ゃねー諱よ。掃恆除なんて面倒くせーだけだ」",
     ""),
     # "No way, there's no way b. I love you, phlegm, my name is. It's just a hassle to clean up and remove it."
 
-    ("「そうなんですか？	だって、いっし蛯ょにお掃恆除なさりたいなんて言甯われる烽もので、てっきり墲わたし、さん烽もお掃恆除が好きなのかと…」†",
+    ("「そうなんですか？	だって、いっしょにお掃恆除なさりたいなんて言甯われる烽もので、てっきり墲わたし、さん烽もお掃恆除が好きなのかと…」†",
     ""),
     # "Is that so? Because it's a hot spring that bothers me to sweep away the sweep, and I really think that I, Sanka, likes sweep away from the sweep..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("しばらくぽかんと福口を開いてから、オ激レは、",
+    ("しばらくぽかんと口を開いてから、オレは、",
     ""),
     # After opening the Fukuguchi for a while, I was like,
 
-    ("「あのなー、マ泣ルチ…」",
+    ("「あのなー、マルチ…」",
     ""),
     # "Um, slut..."
 
@@ -310,15 +310,15 @@ text_array = [
     ""),
     # He said as he exhaled.†
 
-    ("「オ激レはべつに、掃恆除が好きだからいっし蛯ょに竄やってた墲わけじ痰ゃねーんだぞ？	ひとりで掃恆除してるマ泣ルチが蛯大変そうだったから、閨手伝って竄やったんだ」",
+    ("「オレはべつに、掃恆除が好きだからいっしょにやってた墲わけじ痰ゃねーんだぞ？	ひとりで掃恆除してるマルチが大変そうだったから、閨手伝ってやったんだ」",
     ""),
     # "I really like to sweep and remove, so I don't have to deal with the slugs, don't I have to deal with the slugs? I thought it would be tough for Ma-Ruchi, who was slugs alone, so I helped and tampered with it."
 
-    ("「えっ？	閨手伝うって、增わたしをですか…？」",
+    ("「えっ？	閨手伝うって、わたしをですか…？」",
     ""),
     # "Huh? Are you going to help me out...?"
 
-    ("き蛯ょとんとした顔で聞くマ泣ルチ。",
+    ("きょとんとした顔で聞くマルチ。",
     ""),
     # He cried with a squealing face.
 
@@ -326,15 +326,15 @@ text_array = [
     ""),
     # "yes"
 
-    ("オ激レはうなずいた。†",
+    ("オレはうなずいた。†",
     ""),
     # I nodded.†
 
-    ("「じ痰ゃ、じ痰ゃあ、增わたし、またまたさんにご迷惑をおかけしてたんですか…」",
+    ("「じ痰ゃ、じ痰ゃあ、わたし、またまたさんにご迷惑をおかけしてたんですか…」",
     ""),
     # "You're so phlegm, phlegm, I'm sorry for the inconvenience again..."
 
-    ("「い竄や、迷惑って、そんな…」",
+    ("「いや、迷惑って、そんな…」",
     ""),
     # "It's annoying, it's annoying, that's not it..."
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # "≠Ki, sorry~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    ("深く息を吸い桙込んだマ泣ルチが、蛛大きな目をさらに蛯大きく見開いて言った。",
+    ("深く息を吸い桙込んだマルチが、蛛大きな目をさらに大きく見開いて言った。",
     ""),
     # Makruchi took a deep breath and squealed, and his big eyes widened even more.
 
@@ -362,11 +362,11 @@ text_array = [
     ""),
     # This is the second time I've had to worry about it!”
 
-    ("そう言うとマ泣ルチは『すみません、すみません』とペコペコ頭を下げ始めた。†",
+    ("そう言うとマルチは『すみません、すみません』とペコペコ頭を下げ始めた。†",
     ""),
     # When I said that, Makruchi began bowing his head, saying, "Sorry, sorry."†
 
-    ("「おいおい、んな蛯大袈裟な。いいじ痰ゃねーか。オ激レが勝闖手に竄やったことなんだから」",
+    ("「おいおい、んな大袈裟な。いいじ痰ゃねーか。オレが勝闖手にやったことなんだから」",
     ""),
     # "Hey hey, that's an exaggeration. You're fine with phlegm. That's because I've been tampering with Katsuren."
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # "...and the hot water too."
 
-    ("「オ激レが通闥りかかって奄ラッキーだった程度に思っとき痰ゃいいんだよ」†",
+    ("「オレが通闥りかかって奄ラッキーだった程度に思っとき痰ゃいいんだよ」†",
     ""),
     # "I'm lucky enough to think that I'm in a hurry to get in and I'm lucky enough to just sputum."
 
@@ -382,11 +382,11 @@ text_array = [
     ""),
     # "…Mr. Miss"
 
-    ("「諱よし。道搭片付けて、さっさと終尞わｂうぜ」",
+    ("「諱よし。道搭片付けて、さっさと終尞わうぜ」",
     ""),
     # "Okay, I'll clean up the road and quickly finish it."
 
-    ("オ激レはそう言って、じ痰ゃばじ痰ゃばとｂモップをバケツに突っ桙込んだ。†",
+    ("オレはそう言って、じ痰ゃばじ痰ゃばとモップをバケツに突っ桙込んだ。†",
     ""),
     # I said that and thrust the bucket of the phlegm and the b-mop.†
 
@@ -394,15 +394,15 @@ text_array = [
     ""),
     # "...Uh, thank you."
 
-    ("「おい、マ泣ルチ？」",
+    ("「おい、マルチ？」",
     ""),
     # "Hey, mum-cry?"
 
-    ("「堰初めて出初ったときといい、さんってとって烽も親切な福方なんですね」",
+    ("「堰初めて出初ったときといい、さんってとって烽も親切な方なんですね」",
     ""),
     # "It was when I first first arrived, and when I got my dam, I think that the good fortune is also a kind person."
 
-    ("「親切？	オ激レが？」",
+    ("「親切？	オレが？」",
     ""),
     # "Gentle? Is it really exciting?"
 
@@ -410,15 +410,15 @@ text_array = [
     ""),
     # "yes"
 
-    ("マ泣ルチは蛯大きくうなずいた。†",
+    ("マルチは大きくうなずいた。†",
     ""),
     # McDonald nodded loudly.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
-    ("Ａ	竅やっぱ、そうか？閨",
+    ("Ａ	やっぱ、そうか？閨",
     ""),
     # A: Is that so after all?Relax
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # B It depends on the Kaji relations though.Relax
 
-    ("Ｃ	い竄や、オ激レは悪いрヤツなんだ。閨",
+    ("Ｃ	いや、オレは悪いрヤツなんだ。閨",
     ""),
     # C: I'm a bad guy, I'm a bad guy.Relax
 

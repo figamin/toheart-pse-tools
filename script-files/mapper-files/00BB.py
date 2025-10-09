@@ -22,7 +22,7 @@ text_array = [
     ""),
     # I want to spend a meaningful time.
 
-    ("＊淫俣冾ｻれだとキ潟リがないがな。†",
+    ("＊淫俣冾ｻれだとキリがないがな。†",
     ""),
     # *If you're looking for an inmata, there's no way there's anything.†
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # hot.
 
-    ("遠くのほうで、かげｂうが立っている。†",
+    ("遠くのほうで、かげうが立っている。†",
     ""),
     # A slug is standing in the distance.†
 
-    ("「ち蛯ょっと汲暑いね」",
+    ("「ちょっと汲暑いね」",
     ""),
     # "It's so hot, isn't it?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Akari said, flapping the chest of her Sanskrit uniform.
 
-    ("「ち蛯ょっとどこｂじ痰ゃねーぞ。そーとー暑い。",
+    ("「ちょっとどこじ痰ゃねーぞ。そーとー暑い。",
     ""),
     # "I'm not going to have any phlegms. It's so hot.
 

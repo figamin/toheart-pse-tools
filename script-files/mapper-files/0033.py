@@ -6,7 +6,7 @@ text_array = [
     ""),
     # 3/3 (Mr. Month)†
 
-    ("ふう、諱よう竄やく長い授業が終尞わった。",
+    ("ふう、諱ようやく長い授業が終尞わった。",
     ""),
     # Wow, the long lesson that was fake and spurred over has ended.
 

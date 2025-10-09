@@ -2,11 +2,11 @@
 # Source file: 0F11.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル２）閨（卒業式篇）閨（選択綜	♂史）†",
+    ("（ゲーセンバトル２）閨（卒業式篇）閨（選択綜	♂史）†",
     ""),
     # (Arcade Battle Cry 2) (Graduation Ceremony Edition) (Choice Sou♂ History)†
 
-    ("「♂史、竅やｂうぜ」",
+    ("「♂史、やうぜ」",
     ""),
     # "Masturbation, yeah, b"
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "You don't have to worry about winning or losing Amano."
 
-    ("「あら、堰負けたらрヤックでし蛯ょ？」†",
+    ("「あら、堰負けたらрヤックでしょ？」†",
     ""),
     # "Oh, if you lose the dam, you'll have to go to yach?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What is that?! If it were me, I'd be a lot of j!" †
 
-    ("「たりめーだｂ、お前からふんだくらねーで誰からふんだくんだ」",
+    ("「たりめーだ、お前からふんだくらねーで誰からふんだくんだ」",
     ""),
     # "Tarime b, I don't have much to you, and who do you have much to it?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # If you have a sputum from your family, then
 
-    ("おかしな福口調で志保は文蝠句を言い出した。",
+    ("おかしな口調で志保は文蝠句を言い出した。",
     ""),
     # In a strange tone of Fuku, Shiho began to say a sung verse.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # I feel sorry for you, but this guy gets ruined from time to time.†
 
-    ("「んじ痰ゃ、竅やｂうぜ、♂史」",
+    ("「んじ痰ゃ、やうぜ、♂史」",
     ""),
     # "A phlegm, a phlegm, a b, a history of the male."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「なんなの、あのふたり？	おホｃモだちって竄やつ？」",
+    ("「なんなの、あのふたり？	おホｃモだちってやつ？」",
     ""),
     # "What are you two? Are you a guy like a c-mochi?"
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "...Now, come on?"
 
-    ("オ激レがにらんだので、あかりは無俣な回嚔答をする。†",
+    ("オレがにらんだので、あかりは無俣な回嚔答をする。†",
     ""),
     # I stared at him, so Akari gave a boring replies.†
 
-    ("「いい墲わよ、そっちが男同士ならあたしたちは翌女の子同士、′こうで遊びまし蛯ょ」",
+    ("「いい墲わよ、そっちが男同士ならあたしたちは翌女の子同士、′こうで遊びましょ」",
     ""),
     # "It's a great girl, if they're both guys, we'll play together the next girl, let's play together."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # Akari waved awkwardly, and Shiho and Kana roamed along.†
 
-    ("「そっちだって翌女同士べたべたし竄やがって。オ激レたちがホｃモだちなら、あいつらは｢｢」",
+    ("「そっちだって翌女同士べたべたしやがって。オレたちがホｃモだちなら、あいつらは｢｢」",
     ""),
     # "Even that's the next woman, it's sticky and tampering with each other. If we're all crazy, they'll be like "
 

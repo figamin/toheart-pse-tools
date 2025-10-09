@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Oh, that's it.
 
-    ("やｂうぜ」",
+    ("やうぜ」",
     ""),
     # Oh b, okay."
 
@@ -38,12 +38,12 @@ text_array = [
     ""),
     # That's fine.
 
-    ("オ激レは河艶敷へとｌかった。†",
+    ("オレは河艶敷へとｌかった。†",
     ""),
     # My guts went to Kawaenshiki.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("さてと。",
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # He also avoids and attacks and attacks.
 
-    ("簡単に魔当てさせてはくれないだｂう。†",
+    ("簡単に魔当てさせてはくれないだう。†",
     ""),
     # You won't let me hit you with a magic attack easily.†
 
@@ -94,19 +94,19 @@ text_array = [
     ""),
     # If it lasts longer, the more different the technique will be.
 
-    ("むしｂ短咊期褐逸倹墲ｾ。",
+    ("むし短咊期褐逸倹墲ｾ。",
     ""),
     # B. Brown and thrift during the period.
 
-    ("竅やっぱり今厓日燗も開始直纈後から全力だな。†",
+    ("やっぱり今厓日燗も開始直纈後から全力だな。†",
     ""),
     # I'm sure I'll be doing my best now after the start of the day.†
 
-    ("綾∴香に引けを取邇らない部分がオ激レにあるとすれば、それはパンチ力と瞬発力しかない。",
+    ("綾∴香に引けを取邇らない部分がオレにあるとすれば、それはパンチ力と瞬発力しかない。",
     ""),
     # If I had to be in the same place as Aya Kaori, it was all about punching and explosive power.
 
-    ("ふとこｂに潜關り桙込んで、強引にｌめる。",
+    ("ふとこに潜關り桙込んで、強引にｌめる。",
     ""),
     # He hids into the duvet B and forces him to LOL.
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # "Oh, @Tana."
 
-    ("オ激レに遅齟れること十拍数分。",
+    ("オレに遅れること十拍数分。",
     ""),
     # I'm extremely slow to get to ten beats.
 
-    ("綾∴香たちが竄やってきた。†",
+    ("綾∴香たちがやってきた。†",
     ""),
     # Aya∴Kara and the others have come to tamper with it.†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Did you wait?"
 
-    ("「い竄や、べつに。いまち蛯ょうどｋ体的な勝ちのパターンを考えてたとこｂだ」",
+    ("「いや、べつに。いまちょうど駆体的な勝ちのパターンを考えてたとこだ」",
     ""),
     # "It's a bit of a mess. I was thinking of a winning pattern like Ichibiki K."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "Whoa, I'm looking forward to that"
 
-    ("「とこｂで、今厓日が最終叝日謫よ。",
+    ("「とこで、今厓日が最終叝日謫よ。",
     ""),
     # "At this point, the last day is now the last day.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "Is there any chance of winning?"
 
-    ("「さあな。そればっかりは竄やってみなくち痰ゃ墲わからない」",
+    ("「さあな。そればっかりはやってみなくち痰ゃ墲わからない」",
     ""),
     # "Now. You just have to tamper with that and you don't know what to do."
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # "Hello"
 
-    ("＝メイド鴻ロボットのセ潟リオがいた。",
+    ("＝メイド鴻ロボットのセリオがいた。",
     ""),
     # = There was Seragata Rio, the maid Korobot.
 
-    ("「おう、セ潟リオ。元気か？」",
+    ("「おう、セリオ。元気か？」",
     ""),
     # "Oh, Seragata Rio. How are you?"
 

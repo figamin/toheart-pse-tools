@@ -2,11 +2,11 @@
 # Source file: 047F.txt
 
 text_array = [
-    ("（志保	п割闃り桙込み型好感度イベント）閨（選択綜	竅やったｂーじ痰ゃん）†",
+    ("（志保	п割闃り桙込み型好感度イベント）閨（選択綜	やったーじ痰ゃん）†",
     ""),
     # (Shiho's пsplitting and splitting type favorability event) (Select Sou I did it B-Splitting)†
 
-    ("「諱よ〜し、竅やったｂーじ痰ゃんか」",
+    ("「諱よ〜し、やったーじ痰ゃんか」",
     ""),
     # "Okay, I've done it, you're phlegmy?"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Oh, okay!"
 
-    ("…オ激レと志保は、近葛所のカ宴ラオケボックスへとｌかった。◯",
+    ("…オレと志保は、近葛所のカラオケボックスへとｌかった。◯",
     ""),
     # ...My geire and Shiho went to the Kaban Raoke Box in Chikazusho.◯
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Shiho first started by adjusting the microphone.
 
-    ("ボ潟リャーム、エコーの長さと深さなど、念箔闢りに自分好みのセッティングに№合寘わせる。",
+    ("ボリャーム、エコーの長さと深さなど、念箔闢りに自分好みのセッティングに№合寘わせる。",
     ""),
     # You can carefully simplify the settings you like, such as the length and depth of the echo.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "...I'm going to test the microphone right now.
 
-    ("♪街がフ純ワフ純ワ气ぁ、ここｂウキウキぃ、もおすぐぅ、あなたにぃｉえ〜驕るのぉ」†",
+    ("♪街がフ純ワフ純ワ气ぁ、ここウキウキぃ、もおすぐぅ、あなたにぃｉえ〜驕るのぉ」†",
     ""),
     # ♪The city is pure and pure, I'm excited, I'm coming soon, I'm hoping for you."†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # That said.†
 
-    ("「…そーかい。ったく、マイクのテストまで歌にし竄やがって。カ宴ラオケの王様だな」",
+    ("「…そーかい。ったく、マイクのテストまで歌にしやがって。カラオケの王様だな」",
     ""),
     # "...That's right. You've even tampered with the microphone's test. He's the king of Kaban Raoke."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Oh, Lady King."
 
-    ("「氈勝闖手にしｂ」",
+    ("「氈勝闖手にし」",
     ""),
     # "I'll take a look at you b"
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # ...I don't think he'll let go if he holds the microphone, but if he holds the microphone, he'll sing wherever he goes.†
 
-    ("竅やがて、セッティングが終尞わったらしく、今度は鰍リｃモコン片阨手に前熨もって押さえておいた曲目竃リストのページを指でなぞる。",
+    ("やがて、セッティングが終尞わったらしく、今度は鰍リｃモコン片阨手に前熨もって押さえておいた曲目竃リストのページを指でなぞる。",
     ""),
     # Apparently the setting was finished, so now I traced the page of the song list, which I had held with my fingers with a front noshi on the side of the karaku remote control.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Beep beep...
 
-    ("％力を終えると、彼濫女は素¢早くお立ち艪台に繧上った。",
+    ("％力を終えると、彼濫女は素¢早くお立ち台に繧上った。",
     ""),
     # After finishing his % power, the woman quickly rose to the stage.
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # Shihome, I'm starting to star in Shintokuimo...
 
-    ("しか烽も、オ激レとの勝縁負で歌うなんて、諱よほど自信があるらしい。†",
+    ("しか烽も、オレとの勝縁負で歌うなんて、諱よほど自信があるらしい。†",
     ""),
     # However, it seems that Kao is very confident in singing with a victory for me.†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # I've mentioned it many times, but Shiho's song is pretty good.
 
-    ("悔しいが、オ激レは彼濫女ほど、うまくない。",
+    ("悔しいが、オレは彼濫女ほど、うまくない。",
     ""),
     # It's frustrating, but I'm not as good as a guy.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # ・†
 
-    ("「≠盾ｏ窒ｒｂ魔ｖｂ窒ｒ	凵ｙ盾ｏ浮ｕ	＝ａ窒ｒｂ	香ｍ凾ｙ	潤ｏ獅ｎ撃ｌ凾ｙ	≠ｂｂ撃ｌ奄ｉ獅ｎ№ｇ	≠ｂ≠ａ窒ｒｔ」",
+    ("「≠盾ｏ窒ｒ魔ｖ窒ｒ	凵ｙ盾ｏ浮ｕ	＝ａ窒ｒ	香ｍ凾ｙ	潤ｏ獅ｎ撃ｌ凾ｙ	≠撃ｌ奄ｉ獅ｎ№ｇ	≠≠ａ窒ｒｔ」",
     ""),
     # "≠ shield o nitrogen vb nitrogen vb nitrogen shield o float = a nitrogen m sniff y sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # The usual "Jun-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-H
 
-    ("…さて、竅問阮題の、採点挙結果だ。†",
+    ("…さて、問題の、採点挙結果だ。†",
     ""),
     # ...Now, here are the results of the ratings for the questionnaire.†
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # Dadadadadadadadadadadada...
 
-    ("ド宴ラムが鳴阮り響き、カウンターがめまぐるしく変化する…。",
+    ("ドラムが鳴り響き、カウンターがめまぐるしく変化する…。",
     ""),
     # The banquet roars and the counter changes rapidly...
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # Shaan!
 
-    ("シンバ泣ルの音と共に、結果が表示された。†",
+    ("シンバルの音と共に、結果が表示された。†",
     ""),
     # The results were displayed along with the sound of simba crying.†
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # 685 points!
 
-    ("…竅やるな。",
+    ("…やるな。",
     ""),
     # ...Don't do it.
 
@@ -218,11 +218,11 @@ text_array = [
     ""),
     # At first glance, it seems amazing to get hundreds of hot spots, but in fact, the score for the final year is about 200 points, between 500 and 700.†
 
-    ("は竄やい話、彼濫女の得点は２００点椏満点湯、１８５点という墲わけだ。",
+    ("はやい話、彼濫女の得点は２００点椏満点湯、１８５点という墲わけだ。",
     ""),
     # It's a bit of a pain, but the point for the girl's all 200 points is 185 points.
 
-    ("「竅やったぁ！	３位謌よぉ！」",
+    ("「やったぁ！	３位謌よぉ！」",
     ""),
     # "Yes! 3rd place, yeah!"
 
@@ -230,11 +230,11 @@ text_array = [
     ""),
     # Shiho is sputuming.†
 
-    ("ファンファー戟レの繧後、諱画面はイニシャャ泣ル登録譏画面に変﨑わった。",
+    ("ファンファー戟レの繧後、諱画面はイニシャャル登録譏画面に変﨑わった。",
     ""),
     # After the fanfare was released, the name screen turned into a registered page for registration.
 
-    ("しか烽もこの店は、縺上位１０名のイニシャャ泣ルが登録できるようになっている。†",
+    ("しか烽もこの店は、縺上位１０名のイニシャャルが登録できるようになっている。†",
     ""),
     # However, this store is now available for registration of the top 10 people in the Inisha Cry.†
 
@@ -258,11 +258,11 @@ text_array = [
     ""),
     # = Shiho says, feeling like Hou won early.
 
-    ("「增わかってるよ」",
+    ("「わかってるよ」",
     ""),
     # "I know."
 
-    ("カ宴ラオケ採点機ってのは、歌がうまけり痰ゃ良い点が出髀るって墲わけじ痰ゃない。†",
+    ("カラオケ採点機ってのは、歌がうまけり痰ゃ良い点が出髀るって墲わけじ痰ゃない。†",
     ""),
     # The Kaban Raoke Score Machine is a song that is good enough to show good points when the song is good.†
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # Machines cannot score techniques.
 
-    ("それどこｂか、逆に減点の対象にしてしまう。",
+    ("それどこか、逆に減点の対象にしてしまう。",
     ""),
     # In other words, it becomes a target for a deduction.
 
@@ -290,15 +290,15 @@ text_array = [
     ""),
     # Shiho's р guy skips Voice.
 
-    ("…見てｂよぉ。",
+    ("…見てよぉ。",
     ""),
     # ...Look b.
 
-    ("オ激レは艪ゆっくりと、お立ち艪台に繧上った。",
+    ("オレはゆっくりと、お立ち台に繧上った。",
     ""),
     # I slowly climbed up to the platform.
 
-    ("カ宴ラオケでｂ高得点を取骼るコツは、とにかく『正確な音程で一鼈語鼬一鼈語はっきり歌う』だ。",
+    ("カラオケで高得点を取骼るコツは、とにかく『正確な音程で一鼈語鼬一鼈語はっきり歌う』だ。",
     ""),
     # The trick to getting a high score at Kaen Laoke is to "sing clearly in the 'Xin' Xin' Xin' Xin' Xin' with accurate pitches."
 
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # "Ah no shit, you, wa, wah no 'kohhhh'"
 
-    ("オ激レは、教科痩書通闥りの薰基本技で歌い始めた。",
+    ("オレは、教科痩書通闥りの薰基本技で歌い始めた。",
     ""),
     # My geire began singing using the basic techniques that are familiar with the subject's slimming book.
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # Without even understanding other people's energy, Shiho laughs and tumbles on the sofa.
 
-    ("…今に見てｂよぉ。†",
+    ("…今に見てよぉ。†",
     ""),
     # ...Look at it now.†
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # ・†
 
-    ("「き蛯ょ〜う烽も・オ激レは、あの冾日〜のキ・ミ・をさがす」◯",
+    ("「きょ〜う烽も・オレは、あの冾日〜のキ・ミ・をさがす」◯",
     ""),
     # "I'm going to search for that day's love" ◯
 
@@ -366,7 +366,7 @@ text_array = [
     ""),
     # Now... it must have worked.
 
-    ("「アハハハッ、それ、誰のｂモノマネだったのぉ？",
+    ("「アハハハッ、それ、誰のモノマネだったのぉ？",
     ""),
     # "Hahaha, who was that a b-impersonation?
 
@@ -390,7 +390,7 @@ text_array = [
     ""),
     # Shaan!
 
-    ("シンバ泣ルの音と共に、結果が表示された。†",
+    ("シンバルの音と共に、結果が表示された。†",
     ""),
     # The results were displayed along with the sound of simba crying.†
 
@@ -402,11 +402,11 @@ text_array = [
     ""),
     # It's a proud first place.
 
-    ("「竅やったぜぇっ！！」",
+    ("「やったぜぇっ！！」",
     ""),
     # "I did that!"
 
-    ("お立ち艪台でガッツポーズのオ激レ。",
+    ("お立ち台でガッツポーズのオレ。",
     ""),
     # He makes a fierce pose on the stand-up stand.
 
@@ -418,11 +418,11 @@ text_array = [
     ""),
     # Shiho, who is in the Ichiban, has her eyes blackened with a nitrous bleach due to the excessive droplets of women.†
 
-    ("「どー竅やら、コンピャータはオ激レの歌がお気に召したみたいだぜぇ？」",
+    ("「どーやら、コンピャータはオレの歌がお気に召したみたいだぜぇ？」",
     ""),
     # "What do you think, computers like my singular songs?"
 
-    ("オ激レは小バカにするように言って竄やった。",
+    ("オレは小バカにするように言ってやった。",
     ""),
     # I told him to make fun of him, and he tampered with it.
 
@@ -438,7 +438,7 @@ text_array = [
     ""),
     # "Now come on."
 
-    ("オ激レはすっとぼけた。†",
+    ("オレはすっとぼけた。†",
     ""),
     # My heart was just blurred.†
 
@@ -446,11 +446,11 @@ text_array = [
     ""),
     # "That's true! There's no way a phlegm is something that can't be helped by 695 points of warming up such a smug song!"
 
-    ("「テ＜メェ！	さっきから、下濶手下濶手うるせえぞっ！	うまかｂうがなんだｂうが、点箔数汾勝縁負だぜ？」†",
+    ("「テ＜メェ！	さっきから、下濶手下濶手うるせえぞっ！	うまかうがなんだうが、点箔数汾勝縁負だぜ？」†",
     ""),
     # "Tee<Me! I've been shutting down my hands for the Shimohana! What a delicious b-swana b-swana, but the point number is a good match for the victory?"
 
-    ("言い返して竄やると、志保は手足をジタバタさせて、",
+    ("言い返してやると、志保は手足をジタバタさせて、",
     ""),
     # When he retorted and tampered, Shiho freaked out his arms and legs,
 
@@ -458,15 +458,15 @@ text_array = [
     ""),
     # "I'm so sorry! If you can do it, I'll be able to do it!"
 
-    ("今度は彼濫女熄も痰例の歌い福方を始めた。",
+    ("今度は彼濫女熄も痰例の歌い方を始めた。",
     ""),
     # This time, the woman who had overflowed also began singing and blessings.
 
-    ("しかし、掾理雷を知っているオ激レとは痰違い、単に下濶手に歌うだけで、得点は下がる一箞方だった。†",
+    ("しかし、掾理雷を知っているオレとは痰違い、単に下濶手に歌うだけで、得点は下がる一箞方だった。†",
     ""),
     # However, it was different from my geisha who knows about thunder, and the score was reduced by simply singing in my hand.†
 
-    ("オ激レの福方は、１曲目ほどではないにしｂ、安闊定して６８０点苴台をキープし続けた。†",
+    ("オレの方は、１曲目ほどではないにし、安闊定して６８０点台をキープし続けた。†",
     ""),
     # My geek Fukukata was not as good as the first song, but he was eager to keep his score at 680 points.†
 
@@ -490,11 +490,11 @@ text_array = [
     ""),
     # ・†
 
-    ("その冾日はオ激レの蛯大汨勝女に終尞わり、まんまと志保にрヤクドナ泣ルドをおごらせることに成功した。",
+    ("その冾日はオレの大汨勝女に終尞わり、まんまと志保にрヤクドナルドをおごらせることに成功した。",
     ""),
     # On that day, he ended up with the woman who was a big fan of the slut, and he managed to get Shiho to treat her to the slut.
 
-    ("…で烽も、オ激レ焜も志保みたく、うまく歌えるようになりたい烽もんだ…。◯",
+    ("…で烽も、オレ焜も志保みたく、うまく歌えるようになりたい烽もんだ…。◯",
     ""),
     # ...I want to be able to sing well, both Ka and my super-realistic guy, and I want to be able to sing well...◯
 

@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hmm, hmm;"
 
-    ("オ激レはあかりの頬をつねった。†",
+    ("オレはあかりの頬をつねった。†",
     ""),
     # I bitten off Akari's cheek.†
 

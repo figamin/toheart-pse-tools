@@ -2,7 +2,7 @@
 # Source file: 08F0.txt
 
 text_array = [
-    ("（戟レミィ	氏試験卲日帰闍り	ＰＳ）閨（テストヲの撃レミィが出ない冾日）閨（このイベントは、あかりとの勉強有阯り無しで≠メッセージの一蝿部が変化します）閨（廊下）閨（あかりと勉強無しの場㍼合の追加）†",
+    ("（戟レミィ	氏試験卲日帰闍り	ＰＳ）閨（テストヲの撃レミィが出ない冾日）閨（このイベントは、あかりとの勉強有り無しで≠メッセージの一蝿部が変化します）閨（廊下）閨（あかりと勉強無しの場㍼合の追加）†",
     ""),
     # (The day after the test was returned to the day) (The day after the test was not fired) (This event will change one fly part of the message without having to study with Akari) (Carrior) (Additional lights and no study spaces) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # So, what will I do when I go home?
 
-    ("こう竄やって家に帰ってからの予阯定を考えるひとときが心地いい。†",
+    ("こうやって家に帰ってからの予定を考えるひとときが心地いい。†",
     ""),
     # It's a pleasant moment to tamper with this and think about what to expect after you get home.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # When it comes to enjoying Yuichi's first experience during the tough test period, it's that schools will be over soon.
 
-    ("氈次の科目にそなえて勉強しｂって意味だｂうけど、オ激レは休憩梃時間だと思ってる。",
+    ("氈次の科目にそなえて勉強しって意味だうけど、オレは休憩梃時間だと思ってる。",
     ""),
     # It means b to study in preparation for the subject of the sinning, but I think that I'm a break and a restriction time.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Hmm...†
 
-    ("…とりあえずはあかりと勉強だｂ。",
+    ("…とりあえずはあかりと勉強だ。",
     ""),
     # ...For now, I'll study with Akari.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # I was twisting my head and called out to me.
 
-    ("「、いっし蛯ょに帰汲」",
+    ("「、いっしょに帰汲」",
     ""),
     # "We'll return to the essay."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Oh, is it oh Remy? That's fine."
 
-    ("オ激レはうなずいた。†",
+    ("オレはうなずいた。†",
     ""),
     # I nodded.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("「ク宴ラスのみんなで、戟血液型診断竰やってるの」",
+    ("「クラスのみんなで、戟血液型診断竰やってるの」",
     ""),
     # "Everyone at Celebration is doing a blood type diagnosis."
 
@@ -106,23 +106,23 @@ text_array = [
     ""),
     # You attack the blood type of your related player."†
 
-    ("「ふ〜ん…、お烽もしれえじ痰ゃねえか。オ激レの撃血液型、磨当ててみｂよ」",
+    ("「ふ〜ん…、お烽もしれえじ痰ゃねえか。オレの撃血液型、当ててみよ」",
     ""),
     # "Hmm... you can't get enough phlegm. Try brushing my intense blood type."
 
-    ("テストの話陂題鞫よりは、諱よっぽどお烽もしｂい。",
+    ("テストの話陂題鞫よりは、諱よっぽどお烽もしい。",
     ""),
     # It's much better than the test topic.
 
-    ("「うん、磨当てる魔当てるっ」",
+    ("「うん、当てる魔当てるっ」",
     ""),
     # "Yeah, I'll hit the magician who will polish it."
 
-    ("「どう竄やって調べるんだ？」†",
+    ("「どうやって調べるんだ？」†",
     ""),
     # "How do you tamper with it and investigate?"
 
-    ("「えっとね、氈次の質竡問にシ㏍ョージキに嘯答えてください」",
+    ("「えっとね、氈次の質竡問にショージキに嘯答えてください」",
     ""),
     # "Um, please answer the following question."
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # "A ghost?"
 
-    ("Ａ	信じる福方かな？閨",
+    ("Ａ	信じる方かな？閨",
     ""),
     # A: Is it the way you believe in?Relax
 
-    ("Ｂ	そんなくだらないｂモノ、信じねえな。閨",
+    ("Ｂ	そんなくだらないモノ、信じねえな。閨",
     ""),
     # B I don't believe in such a silly thing.Relax
 

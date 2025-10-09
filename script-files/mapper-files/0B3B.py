@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Now, the final day of the promised day is the final day. That means that this victory is ""
 
-    ("「あー、增わーった、增わーった。お前の勝ちでいいよ」",
+    ("「あー、わーった、わーった。お前の勝ちでいいよ」",
     ""),
     # "Ah, I'm gonna snatch, I'm gonna hit you. It's fine for you to win."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Aya∴Ka smiled and smiled happily.†
 
-    ("「もちｂん、約束は覚えてる墲わね？」",
+    ("「もちん、約束は覚えてる墲わね？」",
     ""),
     # "Mochibun, you remember the promise, right?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Tch."
 
-    ("し蛯ょうがねーな。†",
+    ("しょうがねーな。†",
     ""),
     # There's no essay.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Aya∴Ka looked over me mischievously.
 
-    ("「金のかかることは勘弁してくれよ。オ激レ、自搦慢じ痰ゃないけど貧乏人だから」†",
+    ("「金のかかることは勘弁してくれよ。オレ、自搦慢じ痰ゃないけど貧乏人だから」†",
     ""),
     # "Please forgive me for the money. I'm extremely irritated, but I'm a poor person."
 
@@ -83,7 +83,7 @@ text_array = [
     # "There's no other things like asking 100 more times."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「なんだよ、その間は」",
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Well, it's bingo.†
 
-    ("結局、いｂいｂボツ案が出た魔末、いまからファーストフードのバーガーをおごることで獅落ちｒいた。",
+    ("結局、いいボツ案が出た魔末、いまからファーストフードのバーガーをおごることで獅落ちｒいた。",
     ""),
     # In the end, the idea of ​​discarding a bad b-b was proposed, and now I'm off to the lion to treat me to a fast food burger.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # It's cheap if you think Shiho is blessed with it.†
 
-    ("「とこｂで、綾∴香」",
+    ("「とこで、綾∴香」",
     ""),
     # "Aya∴Kara at the place b."
 
@@ -135,11 +135,11 @@ text_array = [
     # "Is it okay for the end of the day? I'm fine with that, then..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「…だったら、なに？」",
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("もしかして、オ激レ、得意なことがない？",
+    ("もしかして、オレ、得意なことがない？",
     ""),
     # Maybe I'm really into something I'm good at?
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # Oh no.
 
-    ("じつはオ激レって、無能な人間なのか。†",
+    ("じつはオレって、無能な人間なのか。†",
     ""),
     # Actually, am I an incompetent person?†
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # After all, "Great Bowl" Ira-men <Let's eat quickly and make a victory for the winner."
 
-    ("「うん、增わかった」",
+    ("「うん、わかった」",
     ""),
     # "Yeah, I understand."
 
@@ -226,11 +226,11 @@ text_array = [
     ""),
     # Oh well, it's easy.†
 
-    ("「い、い竄や、さらに『メ激辛』を追加しよう。",
+    ("「い、いや、さらに『メ辛』を追加しよう。",
     ""),
     # "I'll add some tampering and more "Super spicy."
 
-    ("大盛關り『メ激辛』堰ラー＝メン＜早食い勝縁負だ」",
+    ("大盛關り『メ辛』堰ラー＝メン＜早食い勝縁負だ」",
     ""),
     # A large portion of "super spicy" yarn ramen <<A quick eater is a win-win situation."
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # Wow.†
 
-    ("「じ痰ゃ、『蛛大盛關りモ激辛艶ラー＝メン＜早食い勝縁負』でいいのね？」",
+    ("「じ痰ゃ、『蛛大盛關りモ辛艶ラー＝メン＜早食い勝縁負』でいいのね？」",
     ""),
     # "Is it okay to have a big savory savory roe with super spicy and shiny ramen <fast eating and winning the game"?"
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "Oh, oh."
 
-    ("「增わかった、受けて立つ墲わよ。じ痰ゃあ、氏試㍽合の冾日はいつにする？」",
+    ("「わかった、受けて立つ墲わよ。じ痰ゃあ、氏試㍽合の冾日はいつにする？」",
     ""),
     # "Okay, I'll take it and get on. When will the test be held?"
 
@@ -258,11 +258,11 @@ text_array = [
     ""),
     # "...Oh, that's right" †
 
-    ("なんか、諱取闔り返しのつかない福方阜に流齬れてしまったような気がする。",
+    ("なんか、諱取闔り返しのつかない方阜に流齬れてしまったような気がする。",
     ""),
     # It feels like I've been in conflict with Fukukata Fu, which has no reciprocity.
 
-    ("そ烽もそ烽もオ激レは『蛛大盛關りモ激辛艶ラー＝メン』の≠早食いが得意なのか、おい。†",
+    ("そ烽もそ烽もオレは『蛛大盛關りモ辛艶ラー＝メン』の≠早食いが得意なのか、おい。†",
     ""),
     # Is it good at eating fast foods like "Great Large Large Moss Extremely Spicy and Spicy Ramen"?†
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "You're so excited to eat a burger, so I've been feeling hungry lately after all this time."
 
-    ("「あ、そり痰ゃ太髑る前尅兆か烽もな。食岦わないほうがいいんじ痰ゃねーか？」",
+    ("「あ、そり痰ゃ太る前尅兆か烽もな。食岦わないほうがいいんじ痰ゃねーか？」",
     ""),
     # "Oh, there's a sign of sputum that you can skull a thick skull, or a skull. Isn't it better not to eat it, so skull?"
 

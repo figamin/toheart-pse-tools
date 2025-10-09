@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Okay, my name!
 
-    ("今厓日燗も葵ち痰ゃんとク宴ラブで福練習だ。†",
+    ("今厓日燗も葵ち痰ゃんとクラブで練習だ。†",
     ""),
     # Right now, I'm practicing fortune with Aoi Chisho-chan and a banquet.†
 
-    ("竅坂下との一処件以来、葵ち痰ゃんの福練習はよりいっそうモ激しさを揩増した。",
+    ("坂下との一処件以来、葵ち痰ゃんの練習はよりいっそうモしさを揩増した。",
     ""),
     # Since the incident with Aoi Sakashita, Aoi Chisho-chan's fortune practice has become even more intense.
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # Noooo!
 
-    ("響く音煢も、いままでとは気㈲合いの入闢り福方が痰違う。",
+    ("響く音煢も、いままでとは気㈲合いの入闢り方が痰違う。",
     ""),
     # The reverberating Otohin also has a different approach to the previous one, and the way he fortunes is different.
 
-    ("サンドバッグが蛯大きく左右に揺齬れるたび、チェーンがきしみ、吊髓るした枝がぎしぎしと悲鳴を繧上げている。†",
+    ("サンドバッグが大きく左右に揺齬れるたび、チェーンがきしみ、吊髓るした枝がぎしぎしと悲鳴を繧上げている。†",
     ""),
     # Every time the punching bag sways from side to side, the chain creaks, and the hanging branches squeal and screams.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Aoi Chisho-chan wipes the sweat from her forehead with the back of her hand.
 
-    ("增わずかに休憩をとったの烽も束の間、すぐにまた、サンドバッグへｌかおうとする。†",
+    ("わずかに休憩をとったの烽も束の間、すぐにまた、サンドバッグへｌかおうとする。†",
     ""),
     # After taking a short break, the hot spring was shortened, and immediately tried to go back to the punching bag.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Hey, Aoi Chisshoyan."
 
-    ("「…は、はい、なんでし蛯ょう？」",
+    ("「…は、はい、なんでしょう？」",
     ""),
     # "...Yes, why are you eclips?"
 
@@ -86,19 +86,19 @@ text_array = [
     ""),
     # "Sorry, I'm always saying that you're selfish. You're worried about me, and I'm happy too."
 
-    ("そう言うと、葵ち痰ゃんは再びハードな福練習に取闔り組み始めた。†",
+    ("そう言うと、葵ち痰ゃんは再びハードな練習に取闔り組み始めた。†",
     ""),
     # With that in mind, Aoi Chisho-yan began to practice hard fortune again.†
 
-    ("はあ、こり痰ゃし蛯ょうがねぇな。",
+    ("はあ、こり痰ゃしょうがねぇな。",
     ""),
     # Oh, there's no serious phlegm.
 
-    ("ち蛯ょっと心配だが、しばらくは葵ち痰ゃんの好きにさせてあげたほうがいいみたいだ。",
+    ("ちょっと心配だが、しばらくは葵ち痰ゃんの好きにさせてあげたほうがいいみたいだ。",
     ""),
     # I'm worried about this, but it seems that it's better to let Aoi Chisho-yan do whatever he likes for a while.
 
-    ("だったら、オ激レはオ激レで葵ち痰ゃんのためになにかして竄やるか。†",
+    ("だったら、オレはオレで葵ち痰ゃんのためになにかしてやるか。†",
     ""),
     # If that's the case, I'll do something to tamper with Aoi Chisho-chan.†
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # That's right...
 
-    ("Ａ	葵ち痰ゃんの福練習を手伝おう。閨",
+    ("Ａ	葵ち痰ゃんの練習を手伝おう。閨",
     ""),
     # A: Let's help Aoi Chisho-yan with his fortune practice.Relax
 
-    ("Ｂ	竅冷たいド潟リンクで烽もモ買ってきて竄やｂう。閨",
+    ("Ｂ	冷たいドリンクで烽もモ買ってきてやう。閨",
     ""),
     # B I bought some hot pots with the cold Dogata Link and it was a bit of a mess.Relax
 

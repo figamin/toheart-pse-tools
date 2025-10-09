@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko's first favorability event) (Continued from Chosen Sou B: The Chairman of the Committee to copy it and get a hot pot) (Lecture 2)†
 
-    ("隣の席を見骭ると、さすがに委員長は真面目に課濶題を竄やっていた。",
+    ("隣の席を見骭ると、さすがに委員長は真面目に課濶題をやっていた。",
     ""),
     # Looking at the seat next to me, the chairman was seriously trying to tamper with the issue.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # It's as if he's just copying Cao's answer, which he's known from the very beginning.†
 
-    ("５分熾も経たないうちに竄問阮題を全て片づけると、プ潟リントをぺらっと裏返しにして机の端に置き、べつの竄問阮題集を開いて取闔りかかった。",
+    ("５分熾も経たないうちに問題を全て片づけると、プリントをぺらっと裏返しにして机の端に置き、べつの問題集を開いて取闔りかかった。",
     ""),
     # Within five minutes of fifteen minutes, I cleared all the questions I had, and then turned the Pulatinate over and placed it on the edge of the desk, opened a collection of questions I had to ask for.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # It seems that even Hot has a high standard deviation.†
 
-    ("それにして烽も、なんで委員長みたいな頭のいいрヤツが、オ激レなんかと同じｂ高校にいるんだｂう。",
+    ("それにして烽も、なんで委員長みたいな頭のいいрヤツが、オレなんかと同じ高校にいるんだう。",
     ""),
     # And why is there such a smart guy like the chairman at B high school, the same as my supernatural being.
 
-    ("まあ、オ激レは入学繩後に堕資落した福口だけど、それにして烽もこの差はいったいなんなんだ。",
+    ("まあ、オレは入学繩後に堕資落した口だけど、それにして烽もこの差はいったいなんなんだ。",
     ""),
     # Well, I'm a veteran Fukuguchi who lost his pride after he entered the school, but what exactly is this difference in Hou?
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Oh, that's right.
 
-    ("それより烽も、＝早いとこプ潟リントを写させて烽もら墲わねーとな。",
+    ("それより烽も、＝早いとこプリントを写させて烽もら墲わねーとな。",
     ""),
     # Even more so, I'd like to copy the Pulato Rint and get some hot springs at the earliest.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Hey, Chairman."
 
-    ("声をかけると、委員長は竄問阮題集の手を止めて、こっちを見た。",
+    ("声をかけると、委員長は問題集の手を止めて、こっちを見た。",
     ""),
     # When I called out to him, the chairman stopped the questionnaire and looked over at me.
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # There is no refund.†
 
-    ("「なあ、悪いけどさ、そのプ潟リント写させてくんない？」",
+    ("「なあ、悪いけどさ、そのプリント写させてくんない？」",
     ""),
     # "Hey, sorry, but can you please let me copy that Pulato Rinto?"
 
-    ("オ激レは笑迴顔で言った。",
+    ("オレは笑迴顔で言った。",
     ""),
     # I said with a laughing face.
 
@@ -75,7 +75,7 @@ text_array = [
     # "It's so troublesome and hard work."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("すると委員長は『なんでр私が…』とで烽も言いたげに、ため息をついてそっぽをｌいた。†",
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # It's like a bit of a pain, and a bit of a phlegm would probably say something like "it's fine."
 
-    ("この行動が意味するのはきっと『それぐらい自分で竄やれ』ってことなんだｂう。",
+    ("この行動が意味するのはきっと『それぐらい自分でやれ』ってことなんだう。",
     ""),
     # What this action probably means is, "You should tamper with that much."
 
-    ("竅やっぱり、おｌい委員長様はダ＜メか。†",
+    ("やっぱり、おｌい委員長様はダ＜メか。†",
     ""),
     # After all, Chairman Orii is a bad guy.†
 
-    ("し蛯ょうがない。",
+    ("しょうがない。",
     ""),
     # There's no slut.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Yes.
 
-    ("委員長は素っ気なく、オ激レの前にプ潟リントを差し出した。",
+    ("委員長は素っ気なく、オレの前にプリントを差し出した。",
     ""),
     # The chairman was curt and handed out a Pugata Rinto before me.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「見せて欲しいん竄やｂ」",
+    ("「見せて欲しいんや」",
     ""),
     # "I want you to show me, b."
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # That's bad."
 
-    ("オ激レはぎこちなくうなずいて、その手からプ潟リントを受け取った。†",
+    ("オレはぎこちなくうなずいて、その手からプリントを受け取った。†",
     ""),
     # I nodded awkwardly and received the Pugata Rinto from its hand.†
 
-    ("「…へえ、委員長、キ激レーな嘯字綜書くなー」",
+    ("「…へえ、委員長、キレーな嘯字綜書くなー」",
     ""),
     # "...Whoa, Chairman, don't write a lot of words."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # In the white-white n, the answers were written in fine, beautiful, and singular letters.
 
-    ("噤答えがあってんかのどうかは墲わかんねーけど（い竄や、多分あってんだｂうけど）いかに烽も模範解嚔答って感じの嘯答案用落だ。†",
+    ("噤答えがあってんかのどうかは墲わかんねーけど（いや、多分あってんだうけど）いかに烽も模範解嚔答って感じの嘯答案用落だ。†",
     ""),
     # I don't know if there is an answer (it's probably a bit of a problem), but it's a simple answer that seems to be a model answer.†
 
@@ -162,15 +162,15 @@ text_array = [
     ""),
     # I thought it was more of a thing.†
 
-    ("「せ竄やけど、そのくらい自分でせんと、もっとアホになんで」",
+    ("「せやけど、そのくらい自分でせんと、もっとアホになんで」",
     ""),
     # "It's a bit of a silence, but if I don't take that much, why would I be even more stupid?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("だが、言うことは竄やっぱりキツイ翼女だった。◯",
+    ("だが、言うことはやっぱりキツイ翼女だった。◯",
     ""),
     # However, what she says was a tough girl with wings after all.◯
 

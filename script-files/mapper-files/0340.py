@@ -10,27 +10,27 @@ text_array = [
     ""),
     # The fourth time period was a class on night count geometry, but the teacher who was also involved in the urgent need to study on its own.
 
-    ("委員長が預かってきた課濶題用のプ潟リントをみんなに配った。†",
+    ("委員長が預かってきた課濶題用のプリントをみんなに配った。†",
     ""),
     # The chairman handed out all the Pulata Rinto for the departmental title that he had been in charge of.†
 
-    ("「まとめて提出しますので、縺後撃の席の人は５分前になったら集めてр私のとこｂへ揩持ってきて下さい。これが終尞わった人は各自で自習です」",
+    ("「まとめて提出しますので、縺後撃の席の人は５分前になったら集めてр私のとこへ揩持ってきて下さい。これが終尞わった人は各自で自習です」",
     ""),
     # "We will submit all the items in bulk, so if you are in the after-stopping session, please gather them five minutes before and bring them to my place. Those who have finished this will study on their own."
 
-    ("委員長が関西弁のイントネーシ㏍ョンで言う。†",
+    ("委員長が関西弁のイントネーションで言う。†",
     ""),
     # The chairman says this in Kansai dialect.†
 
-    ("プ潟リントが翌送迹られてきた。",
+    ("プリントが翌送迹られてきた。",
     ""),
     # The Pulatint was sent out the next day.
 
-    ("竅問阮題泊数は多くなく、ぱっと見た感じ１０分程度で終尞わりそうに思えた。",
+    ("問題泊数は多くなく、ぱっと見た感じ１０分程度で終尞わりそうに思えた。",
     ""),
     # There weren't many questions, and at first glance it seemed like it would be over in about 10 minutes.
 
-    ("まあ、このぐらいなら、とじっくり竄問阮題を読んでみると、％易度はかなりｂ高い。†",
+    ("まあ、このぐらいなら、とじっくり問題を読んでみると、％易度はかなり高い。†",
     ""),
     # Well, if you read the questionnaire at this rate carefully, the %easiness is quite high.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "…Yeah"
 
-    ("開始緕後しばらくは、％しいながら烽も真武剣に取闔り組んで竄やっていたオ激レ焜も、ひとつ、またひとつとつまずくたび、氈次謗第に凾嫌気がさしてきた。",
+    ("開始緕後しばらくは、％しいながら烽も真武剣に取闔り組んでやっていたオレ焜も、ひとつ、またひとつとつまずくたび、氈次謗第に凾嫌気がさしてきた。",
     ""),
     # For a while after the start, even though I had been working on the battle with the Shinbuken, I started to feel fed up every time I stumbled over one by one.
 
-    ("「だめだ、增わから〜んっ」",
+    ("「だめだ、わから〜んっ」",
     ""),
     # "No, I don't know."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # In the end, I ended up throwing Kaji.†
 
-    ("諱よく見闌り痰ゃ、真面目に取闔り組んでいる竄やつなんて、ほとんどいない。",
+    ("諱よく見り痰ゃ、真面目に取闔り組んでいるやつなんて、ほとんどいない。",
     ""),
     # There are very few tampering people who are seriously involved with the idea.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # You have to think about things that will make you feel comfortable.†
 
-    ("…といいつつ、さて、オ激レは誰に写させて烽もらおうかね。",
+    ("…といいつつ、さて、オレは誰に写させて烽もらおうかね。",
     ""),
     # ...But now, who should I copy my geisha and get my geisha?
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # C: Copy it into a ♂ History and get it hot.Relax
 
-    ("Ｄ	竅やっぱり根性出して、自分で竄やる。閨",
+    ("Ｄ	やっぱり根性出して、自分でやる。閨",
     ""),
     # D After all, I'll put my nerves on it and tamper with it myself.Relax
 

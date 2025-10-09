@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "...Ah, the last gaze time was a battle with the Sleepy Demon all the way through."
 
-    ("「とくに終尞わり近くは、こっくりこっくり、何度燗も竄やってたね」",
+    ("「とくに終尞わり近くは、こっくりこっくり、何度燗もやってたね」",
     ""),
     # "Especially near the end, I've been tampering with the hot water many times."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Hehehe" †
 
-    ("「まあ、竅冷たいｐで顔で烽も洗って、目覚ましてくる墲わ」",
+    ("「まあ、冷たいｐで顔で烽も洗って、目覚ましてくる墲わ」",
     ""),
     # "Well, I'm going to wash the hot pot with my face and wake you up."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I have an enchantment."
 
-    ("本末当は揩持ってないがいちおうそう言って、オ激レはトイ激レへとｌかった。◯",
+    ("本末当は揩持ってないがいちおうそう言って、オレはトイレへとｌかった。◯",
     ""),
     # I didn't have the one at all, but I said "I'm going to do it" and my gei-re went to Toy gei-re.◯
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "She seems to be sleepy, is she lacking sleep?"
 
-    ("「い竄や、どっちかというと、これは春の陽気のせいだｂう」",
+    ("「いや、どっちかというと、これは春の陽気のせいだう」",
     ""),
     # "It's tampering, or rather, this is due to the cheerfulness of spring."
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "As expected of you, Poet Poet!"
 
-    ("「い竄や、香詩人熕もなに烽も、ホントにだな…」†",
+    ("「いや、香詩人熕もなに烽も、ホントにだな…」†",
     ""),
     # "The tampering, the Poet Poet, and what is it, really..."
 
-    ("「とこｂで、」",
+    ("「とこで、」",
     ""),
     # "At b."
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # "What kind of khankari is Toakari?"
 
-    ("「オ激レとあかりの、関係？」",
+    ("「オレとあかりの、関係？」",
     ""),
     # "Is it a relationship between me and Akari?"
 
-    ("「入ｔｂ≠ａрｄ凾ｙ	潤ｏ窒ｒ	≠窒ｒ奄ｉｂ獅ｎрｄ？」",
+    ("「入ｔ≠ａрｄ凾ｙ	潤ｏ窒ｒ	≠窒ｒ奄ｉ獅ｎрｄ？」",
     ""),
     # "In "Tb≠aрd, yeast, yeast, ≠nitrite, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, y
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # "Tell me, tell me."
 
-    ("「オ激レとあかりがステディかフ激レンドか、だって？」",
+    ("「オレとあかりがステディかフレンドか、だって？」",
     ""),
     # "Are you a Steady or a Fantasy friend?"
 
-    ("「凵ｙｂ唐入！」",
+    ("「凵ｙ入！」",
     ""),
     # "Yib Tangyu!"
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "Ah, it's a tote tit."
 
-    ("まあ、聞いてんだから、噤答えて竄やるか。†",
+    ("まあ、聞いてんだから、噤答えてやるか。†",
     ""),
     # Well, since I've heard it, I'll answer it and tamper with it.†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # That's right: ".
 
-    ("Ａ	そり痰ゃ魔当然、フ激レンドだｂ。閨",
+    ("Ａ	そり痰ゃ魔当然、フレンドだ。閨",
     ""),
     # A: Of course, phlegm is a huge trend b.Relax
 

@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("オ激レは唐鞄を揩持って席を立ち繧上がった。†",
+    ("オレは鞄を揩持って席を立ち繧上がった。†",
     ""),
     # I stood up from my seat with my kara bag.†
 
-    ("竅坂道の途湯であかりが聞いてきた。",
+    ("坂道の途湯であかりが聞いてきた。",
     ""),
     # Kari asked at the bathhouse on the hill.
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「べつに汲豪勢にする必要はねーぞ。派阡手なのだったら、ファミ激レスとかで烽も食えんだから。なんか家薗的な竄やつにしてくれ」†",
+    ("「べつに汲豪勢にする必要はねーぞ。派阡手なのだったら、ファミレスとかで烽も食えんだから。なんか家薗的なやつにしてくれ」†",
     ""),
     # "There's no need to make it a full-scale player. If you're a fan, you could eat hot food with family replies or something. Please make it a tampering thing like a Japanese-style guy."
 
-    ("「增わかった。",
+    ("「わかった。",
     ""),
     # "I understand.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "My specialty is paying for money? ...Hmm, what is it? That's not a problem or anything like that." †
 
-    ("「まあ、お前にまかせるよ。好きなのｍってくれ。オ激レ的には、うまくて、安くて、栄養があれば文蝠句ねーから」",
+    ("「まあ、お前にまかせるよ。好きなのｍってくれ。オレ的には、うまくて、安くて、栄養があれば文蝠句ねーから」",
     ""),
     # "Well, I'll leave it to you. Please give me your favorite. For me, it's a good, cheap, and if you have nutrition, it's a slogan."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "That's tough enough..."
 
-    ("「お前ならできる。米はある、みそ烽もある、調味料燉も蛯主要な烽ものはひと通闥りそｂってる。",
+    ("「お前ならできる。米はある、みそ烽もある、調味料燉も主要な烽ものはひと通闥りそってる。",
     ""),
     # "You can do it. You have rice, miso hotpot, and you can also use seasonings and other major hotpots.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # After that I trust you!”
 
-    ("「うん、增わかった。",
+    ("「うん、わかった。",
     ""),
     # "Yeah, I understand.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Okay, that's your spirit!"
 
-    ("あかりは意外と調子に乗せ竄やすい。†",
+    ("あかりは意外と調子に乗せやすい。†",
     ""),
     # Akari is surprisingly easy to get carried away.†
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # ・†
 
-    ("制梵服姿の男嵐女がスーパーでモ買い物する様は、なんだか、いかに烽もという感じで凾嫌だったが、まあ、し蛯ょうがない。",
+    ("制梵服姿の男嵐女がスーパーでモ買い物する様は、なんだか、いかに烽もという感じで凾嫌だったが、まあ、しょうがない。",
     ""),
     # I was so pleased with the sight of a man and a woman in a Sanskrit uniform shopping at the supermarket, like a hot spring, but I can't help but feel bad about it.
 
-    ("あかりの選んだ食材は、豆燈、豚肉、のり、だいこん、にんじん、キャウ潟リ、アスパ宴ラ、戟レタス、たまご、アボカド、納豆、などなどだった。",
+    ("あかりの選んだ食材は、豆燈、豚肉、のり、だいこん、にんじん、キャウリ、アスパラ、戟レタス、たまご、アボカド、納豆、などなどだった。",
     ""),
     # Akari's ingredients were bean lantern, pork, seaweed, daikon, carrot, kyaugatari, Aspa banquet, roe lettuce, egg, avocado, natto, and more.
 
@@ -150,23 +150,23 @@ text_array = [
     ""),
     # The light is not only delicious, but also nutritious.
 
-    ("まあ、食い物に関してはあかりにまかせておけば蛯大苟丈夫だ。",
+    ("まあ、食い物に関してはあかりにまかせておけば大苟丈夫だ。",
     ""),
     # Well, if you leave it to Akari when it comes to food, it's sturdy.
 
-    ("そういう意味では鰍頼燉もしい竄やつだ。†",
+    ("そういう意味では鰍頼燉もしいやつだ。†",
     ""),
     # In that sense, it's a tampering thing that can even be used to.†
 
-    ("なんだかんだでいｂいｂモ買ったが、♂計は意外と安かった。",
+    ("なんだかんだでいいモ買ったが、♂計は意外と安かった。",
     ""),
     # I bought a B-Mo, no matter what, but the male line was surprisingly cheap.
 
-    ("オ激レがモ買うと、すぐに３０００円オーバーとかになってしまうのに、さすが値段を見て選んで竄やがる。",
+    ("オレがモ買うと、すぐに３０００円オーバーとかになってしまうのに、さすが値段を見て選んでやがる。",
     ""),
     # When Ikere-re buy a Mo, it quickly ends up over 3,000 yen, but as expected, I choose and tamper with it, looking at the price.
 
-    ("小さいこｂからよく家の手伝いをしてきたおかげで身についた技術だ。†",
+    ("小さいこからよく家の手伝いをしてきたおかげで身についた技術だ。†",
     ""),
     # This is the skill I have acquired thanks to my help from a small house.†
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # It was past five gazes when I went to the house.
 
-    ("夕飯にはまだち蛯ょっと≠早い。†",
+    ("夕飯にはまだちょっと≠早い。†",
     ""),
     # It's still too early for dinner.†
 
@@ -210,15 +210,15 @@ text_array = [
     ""),
     # Akari, holding a supermarket shopping bag in her hand, bowed her head and leapt up to the house.†
 
-    ("「適俣当にキッチン使っていいぜ。オ激レは部屋でｒがえてくるから」",
+    ("「適俣当にキッチン使っていいぜ。オレは部屋でｒがえてくるから」",
     ""),
     # "You can use the kitchen for Tomatata. I'll get some r in my room."
 
-    ("「うん、增わかった。じ痰ゃ、お艪台椛所借闔りるね」†",
+    ("「うん、わかった。じ痰ゃ、お台椛所借闔りるね」†",
     ""),
     # "Yeah, I understand. I'll borrow your slut from the bayashi."
 
-    ("堰ラフな格好にｒ替えて盾居間へと竄やってくると、＝早速あかりはキッチンのほうで、料摎理の準備にかかっていた。",
+    ("堰ラフな格好にｒ替えて盾居間へとやってくると、＝早速あかりはキッチンのほうで、料摎理の準備にかかっていた。",
     ""),
     # When Akari changed into a rough-looking dam and came into the shield living room, she was immediately in the kitchen to prepare for the fee-making process.
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # * Washing and cutting vegetables.
 
-    ("オ激レはソファーにｍ會高ｺ奄すと、テ激レビの鰍リｃモコンを押しながら、あかりに言った。†",
+    ("オレはソファーにｍ會高ｺ奄すと、テレビの鰍リｃモコンを押しながら、あかりに言った。†",
     ""),
     # I told Akari, "M-kai Takako Amami" to the sofa, and while pressing the C-Motor control of the TV Revitalizer, I was able to tell him.†
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "I see."
 
-    ("あかりがてきぱき用意している間、オ激レはぼけーっとテ激レビを見ていた。†",
+    ("あかりがてきぱき用意している間、オレはぼけーっとテレビを見ていた。†",
     ""),
     # While Akari was preparing the film quickly, I was watching the dramatic TV drama in a silly manner.†
 

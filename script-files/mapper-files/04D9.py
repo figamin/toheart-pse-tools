@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Ahhhh..."
 
-    ("歩きながら、思寬わず蛯大きなあくびをしてしまう。†",
+    ("歩きながら、思寬わず大きなあくびをしてしまう。†",
     ""),
     # As I walked, I yawned loudly without thinking.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Akari said with a smile.
 
-    ("昨厓日、３桙時過ぎまでＴＶを見てて、案の定、寝過ごすとこｂを起こしにｗたあかりに救寀われたんだ。",
+    ("昨厓日、３桙時過ぎまでＴＶを見てて、案の定、寝過ごすとこを起こしにｗたあかりに救寀われたんだ。",
     ""),
     # Last day, I was watching the TV until after 3 puffs, and as expected, Akari was saved by the time I woke up when I was sleeping.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It's no wonder I'm sleepy.†
 
-    ("「ったりめえだｂ。お前が起こしにｗてくれなかったら、まだベッドのｒだ」",
+    ("「ったりめえだ。お前が起こしにｗてくれなかったら、まだベッドのｒだ」",
     ""),
     # "It's so good. If you don't wake me up, I'm still in the bed."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Good for you"
 
-    ("「オ激レ的には、寝てた福方が良かったか烽もな」",
+    ("「オレ的には、寝てた方が良かったか烽もな」",
     ""),
     # "I'm really excited, I guess Fuku was better when I was sleeping, isn't it?"
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "It's a damn thing. That's what it is."
 
-    ("「增わかってるよ」",
+    ("「わかってるよ」",
     ""),
     # "I know."
 
-    ("そんなことを言いながら竄坂道を行くと、",
+    ("そんなことを言いながら坂道を行くと、",
     ""),
     # While saying that, I went down the hill,
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Oh good! You two!"
 
-    ("オ激レたちを追い越して現鼬れたのは、志保。†",
+    ("オレたちを追い越して現鼬れたのは、志保。†",
     ""),
     # Shiho passed us and showed up.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("あいさつを交甯わすと志保はジ鴻ロジ鴻ロとオ激レたちを見芟比べた。†",
+    ("あいさつを交甯わすと志保はジ鴻ロジ鴻ロとオレたちを見芟比べた。†",
     ""),
     # As they exchanged greetings, Shiho compared Jikoro Jikoro and the others.†
 
@@ -106,19 +106,19 @@ text_array = [
     ""),
     # "You're happy to have a good young man. And if you don't get too strong, you'll be bored and your pet will be bored."
 
-    ("「蛛大きな世話だ。あかりが勝闖手に世話笘やいてくるんだから、そのせいでオ激レにしっかりしｂなんて言甯われたら迷惑だ」",
+    ("「蛛大きな世話だ。あかりが勝闖手に世話笘やいてくるんだから、そのせいでオレにしっかりしなんて言甯われたら迷惑だ」",
     ""),
     # "You're so great about taking care of me. Akari comes to take care of me by Katsura, so it would be a nuisance if I were to be told that I'd be strong and say "B."
 
-    ("「ち蛯ょっとあかり、聞いたぁ？	迷惑ですってよ、このグータ宴ラ学生は」",
+    ("「ちょっとあかり、聞いたぁ？	迷惑ですってよ、このグータラ学生は」",
     ""),
     # "Did you hear this, Akari? You're annoying, this student of the Guta Banquet."
 
-    ("まるで自分のことのように蛯大袈裟な調子で志保が言う。",
+    ("まるで自分のことのように大袈裟な調子で志保が言う。",
     ""),
     # Shiho says in an exaggerated tone, as if it were her own.
 
-    ("…悪かったな、グータ宴ラ学生で。†",
+    ("…悪かったな、グータラ学生で。†",
     ""),
     # ...That's bad, I'm a student at Guta Banquet.†
 
@@ -126,23 +126,23 @@ text_array = [
     ""),
     # "Well, well, this is how it's been for so long..."
 
-    ("「もお〜っ、そんな繧弱気じ痰ゃいつまでたって烽も手間がかかる墲わよ？	このグータ宴ラは」",
+    ("「もお〜っ、そんな繧弱気じ痰ゃいつまでたって烽も手間がかかる墲わよ？	このグータラは」",
     ""),
     # "Oh noooo, no matter how long will it take for a long time to spend with hot springs? This banquet is here."
 
-    ("「おめー、そり痰ゃあかりにとって烽も蛯大きなお世話だ」",
+    ("「おめー、そり痰ゃあかりにとって烽も大きなお世話だ」",
     ""),
     # "Hello, the hot springs are also great help to you."
 
-    ("「うっさい墲わね、普助言でし蛯ょーが。ア・ド・バ・イ・ス、と烽もいうのよ」†",
+    ("「うっさい墲わね、普助言でしょーが。ア・ド・バ・イ・ス、と烽もいうのよ」†",
     ""),
     # "That's a shame, it's a general advice. I'm going to say "A-do-I-Su"
 
-    ("「ヘ揀理雷ばっかこね竄やがって…」",
+    ("「ヘ揀理雷ばっかこねやがって…」",
     ""),
     # "He's just thundering..."
 
-    ("「あんたはあたしの言うことなすこと、いちいちケチ付けたがる墲わね〜。なに？	まさか、あたしに気があるんじ痰ゃないでし蛯ょうね？」",
+    ("「あんたはあたしの言うことなすこと、いちいちケチ付けたがる墲わね〜。なに？	まさか、あたしに気があるんじ痰ゃないでしょうね？」",
     ""),
     # "You want to sting down every single thing I say. What? I can't believe you're interested in me, don't you have any phlegms?"
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # This time, Shiho is half teased.†
 
-    ("「テ＜メ〜、好き冾放阨題言い竄やがって〜〜〜っ」",
+    ("「テ＜メ〜、好き冾放阨題言いやがって〜〜〜っ」",
     ""),
     # "Te<Me~, you're just slandering the question you like~~"
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # There was no heat until I heard Akari's words, and something was wrong.
 
-    ("さっきから妙にあかりをｃイシ㏍ョしてるように烽も見える。†",
+    ("さっきから妙にあかりをｃイショしてるように烽も見える。†",
     ""),
     # I can see the hot water as if it had been oddly making a light come out for a while now.†
 
@@ -203,14 +203,14 @@ text_array = [
     # Perhaps he himself noticed it, but then he began hiding the lights.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("增わざとらしい艪台倦詞に、声熕もないオ激レたち。†",
+    ("わざとらしい台倦詞に、声熕もないオレたち。†",
     ""),
     # Their voices were so deliberate, and they were so enthusiastic.†
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "That's all, you two. I'm feeling weird right now, so I'm heading out first."
 
-    ("くるりと身をひるがえすと、志保は急ぎ足で竄坂を繧上っていった。†",
+    ("くるりと身をひるがえすと、志保は急ぎ足で坂を繧上っていった。†",
     ""),
     # He flinched, and Shiho quickly climbed up the Tamushihill.†
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "here we go…"
 
-    ("残ったオ激レたちは、轣顔を見㈹合寘わせるしかなかった。◯",
+    ("残ったオレたちは、轣顔を見㈹合寘わせるしかなかった。◯",
     ""),
     # The rest of us had no choice but to look at the faces and send them together.◯
 

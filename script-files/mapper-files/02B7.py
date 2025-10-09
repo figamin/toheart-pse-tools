@@ -27,10 +27,10 @@ text_array = [
     # "What's up with? Your sister is the type of person who speaks clearly like you, so you have no phlegm."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「まあ、それはそうか烽も知齟れないけど、浴似てる部分熾も多いのよ。たとえば、好みとかね」",
+    ("「まあ、それはそうか烽も知れないけど、浴似てる部分熾も多いのよ。たとえば、好みとかね」",
     ""),
     # "Well, that's true, but the hot springs aren't even known, but there are a lot of heat that makes the bath look alike. For example, your preference."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yeah. Favourite food, clothing taste, male type."
 
-    ("そう言うと、＊はくすくす笑って、オ激レの顔を下からのぞき桙込んできた。",
+    ("そう言うと、＊はくすくす笑って、オレの顔を下からのぞき桙込んできた。",
     ""),
     # When I said that, * chuckled and peered into my face from below.
 
@@ -67,7 +67,7 @@ text_array = [
     # No, did you take it seriously?”
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("へ、変な翌女。†",

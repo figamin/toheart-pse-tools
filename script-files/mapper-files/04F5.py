@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Yeah. It looks like a bit of a boar."
 
-    ("「でし蛯ょ〜？	いっし蛯ょに見てみない？」",
+    ("「でしょ〜？	いっしょに見てみない？」",
     ""),
     # "Ahhhhhhh? Why don't you take a look at it?"
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "That's good. Maybe I'll invite Akari and Hot to watch it." †
 
-    ("「あ、うんうん。あかり竄やｉ史燻もね」",
+    ("「あ、うんうん。あかりやｉ史燻もね」",
     ""),
     # "Ah, yes, yes. Also like red tampering and i-hime smoking."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "That's it, give me."
 
-    ("なんて立ち話をして、オ激レたちは別れた。◯",
+    ("なんて立ち話をして、オレたちは別れた。◯",
     ""),
     # After talking, we broke up.◯
 

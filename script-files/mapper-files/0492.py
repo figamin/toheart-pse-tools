@@ -2,7 +2,7 @@
 # Source file: 0492.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階２）閨（４／１０固闌定）閨（廊下２）閨（あかり	立ち）†",
+    ("（志保	回秤数イベント	１階２）閨（４／１０固定）閨（廊下２）閨（あかり	立ち）†",
     ""),
     # (Shiho Scales Event 1st floor 2) Silhouette (4/10th) Silhouette (Corride 2) Silhouette (Red) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Are you going back?"
 
-    ("「うん。ち痰ゃん烽もいっし蛯ょに帰汲」",
+    ("「うん。ち痰ゃん烽もいっしょに帰汲」",
     ""),
     # "Yes. I'll return to the slut."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("オ激レの嘯答えは｢｢。",
+    ("オレの嘯答えは｢｢。",
     ""),
     # My throbbing answer is ".
 

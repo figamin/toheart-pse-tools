@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I think half of it has exceeded.
 
-    ("前熨もって竄補習があるって墲わかっていれば、もう少し頑張齟れたと思うがな。†",
+    ("前熨もって補習があるって墲わかっていれば、もう少し頑張れたと思うがな。†",
     ""),
     # If I had known that there would be some supplementary lessons to tamper with the front gift, I think I would have tried a little more.†
 
-    ("なにはと烽もあれ、諱取闔りあえずなんとか竄補習は免齧れた。",
+    ("なにはと烽もあれ、諱取闔りあえずなんとか補習は免齧れた。",
     ""),
     # Even though I was wondering what it was, I managed to get rid of the tampering supplementary lessons without even realizing it.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # So, will you go back?
 
-    ("帰闍り支度を整えて、鞄を肩越しに引っかけると、オ激レは席を立った。◯",
+    ("帰闍り支度を整えて、鞄を肩越しに引っかけると、オレは席を立った。◯",
     ""),
     # I got ready to go home, hooked my bag over my shoulder, and I got up from my seat.◯
 
-    ("「ち蛯ょっとあんた、まだ帰んないでよ」",
+    ("「ちょっとあんた、まだ帰んないでよ」",
     ""),
     # "You're probably not going home yet."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Huh? Is it a place to go back?"
 
-    ("あかり烽もいっし蛯ょだ。†",
+    ("あかり烽もいっしょだ。†",
     ""),
     # Akari Hot is also a slut.†
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "What were the results of the test?"
 
-    ("「竅やっぱそのことか。",
+    ("「やっぱそのことか。",
     ""),
     # "That's after all.
 
-    ("取闔りあえず、竅補習だけは免齧れたと言っておこう」†",
+    ("取闔りあえず、補習だけは免齧れたと言っておこう」†",
     ""),
     # Let's not hesitate to ask, and say that we've been able to do the supplementary lessons for a while."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Seriously"
 
-    ("オ激レはキッパ潟リ噬答えた。",
+    ("オレはキッパリ噬答えた。",
     ""),
     # My gang replied.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "...I'm so excited! I feel like it's not that good."
 
-    ("「オ激レのくせにってなんだってんだよ」†",
+    ("「オレのくせにってなんだってんだよ」†",
     ""),
     # "What's with me, even though I'm a real guy?"
 
@@ -90,19 +90,19 @@ text_array = [
     ""),
     # "...Damn it. I just happened to be in a bad mood, and ""
 
-    ("「怐万年不調だｂ、お前は」†",
+    ("「怐万年不調だ、お前は」†",
     ""),
     # "You've been feeling bad for a long time, you're"
 
-    ("「きぃ〜、く竄やしぃ〜！」",
+    ("「きぃ〜、くやしぃ〜！」",
     ""),
     # "Kiii, it's a bit of a mess!"
 
-    ("「話ってそれだけか？	じ痰ゃ、オ激レはこれで帰驪るかんな」†",
+    ("「話ってそれだけか？	じ痰ゃ、オレはこれで帰驪るかんな」†",
     ""),
     # "Is that all I have to say? That's the point of my phlegm, I'm going to go back to my veteran." †
 
-    ("じだんだ踏み続ける志保を繧後目に、オ激レは教室を出た。◯",
+    ("じだんだ踏み続ける志保を繧後目に、オレは教室を出た。◯",
     ""),
     # After Shiho continued to step on, I left the classroom.◯
 

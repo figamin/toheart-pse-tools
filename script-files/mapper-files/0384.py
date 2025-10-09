@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko's Scales Event 3: Departing from school LV1) (Continued from Chosen A)†
 
-    ("オ激レは、すぅ〜と息を吸い桙込んで、",
+    ("オレは、すぅ〜と息を吸い桙込んで、",
     ""),
     # I took a breath and took a bang,
 

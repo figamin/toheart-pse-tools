@@ -2,7 +2,7 @@
 # Source file: 0F08.txt
 
 text_array = [
-    ("（ゲーセンバト泣ル１）閨（卒業式篇）閨（選択綜	あかり）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	あかり）閨（蛛主人公沍勝ち）†",
     ""),
     # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Choice Akari) (Mrage Protagonist) (The Great Protagonist) †
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # game over.
 
-    ("結果は蛯大羡方の予想どおり、オ激レの勝ち。†",
+    ("結果は大羡方の予想どおり、オレの勝ち。†",
     ""),
     # The result was a huge win, as expected by Ebida-Kai.†
 
-    ("「增わりいな、竅やっぱオ激レの勝ちだ」",
+    ("「わりいな、やっぱオレの勝ちだ」",
     ""),
     # "It's a bit of a shame, it's a really big win after all."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ahhh..."
 
-    ("「オ激レ、腹減ってっから、カ泣ルテットсヤック３個くらい食えそうだな」",
+    ("「オレ、腹減ってっから、カルテットсヤック３個くらい食えそうだな」",
     ""),
     # "I'm so hungry, I think I can eat about three rutet yaks."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Um, it's 990 yen for taxes to be removed..."
 
-    ("「はは、バ〜カ、轣冗談だ。コー堰ラ黹一杯だけにしといて竄やるよ」",
+    ("「はは、バ〜カ、轣冗談だ。コー堰ラ黹一杯だけにしといてやるよ」",
     ""),
     # "Ha ha, baaa, I'm kidding. I'll just leave it full and tamper with it."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Huh, really?"
 
-    ("「ま、ち蛯ょっとイジ＜メすぎたしな」",
+    ("「ま、ちょっとイジ＜メすぎたしな」",
     ""),
     # "Well, I'm probably bullied you too much."
 
-    ("「竅やれ竄やれ、甘い墲わね。あたしだったら唐遠慮しないくせにさ」",
+    ("「やれやれ、甘い墲わね。あたしだったら遠慮しないくせにさ」",
     ""),
     # "Tamper it, that's a sweet thing. If it were me, I wouldn't be shy about it."
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "And you, you vs. Si history, are you a surprising card-like phlegm?"
 
-    ("「し蛯ょうがない墲わね。さあ、♂史。かかってらっし痰ゃい」",
+    ("「しょうがない墲わね。さあ、♂史。かかってらっし痰ゃい」",
     ""),
     # "It's a gay girl with no ecstasy. Come on, Masochist. There's a lot of phlegm."
 
-    ("「なんか、竅やだなあ…」†",
+    ("「なんか、やだなあ…」†",
     ""),
     # "I don't know what..."
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # The victory after that is more clear than watching the fire.
 
-    ("磨当然ながら志保の圧汕勝。",
+    ("当然ながら志保の圧汕勝。",
     ""),
     # Of course, Shiho's siege shanthuang.
 
-    ("ったく、ちっとは手加減しｂっつうんだ。†",
+    ("ったく、ちっとは手加減しっつうんだ。†",
     ""),
     # I'll just take it easy and just go ahead and do it.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "I'm so glad, depending on your name, Shiho..."†
 
-    ("「ははは、♂史、もっと言って竄やれ」",
+    ("「ははは、♂史、もっと言ってやれ」",
     ""),
     # "Hahaha, Masochi, say more, tamper with it."
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "Can you say that?
 
-    ("次は艪我が身謳よ？」",
+    ("次は我が身謳よ？」",
     ""),
     # Next, let's say my own self?”
 
-    ("「驕るせ、ほざいてｂ」†",
+    ("「驕るせ、ほざいて」†",
     ""),
     # "Arrogantly, sniff b"†
 

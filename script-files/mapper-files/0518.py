@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("「ほら、諱よくそうすると緊張しなくなるっていうだｂ？」",
+    ("「ほら、諱よくそうすると緊張しなくなるっていうだ？」",
     ""),
     # "Look, if you do it well, you say you won't get nervous, right?"
 
@@ -51,7 +51,7 @@ text_array = [
     # "Yes, a little bit..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なんか、いまいち効果がないみたいだな。†",

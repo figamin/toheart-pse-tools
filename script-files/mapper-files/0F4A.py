@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Oden soup spaghetti...
 
-    ("そうい竄や、なんか腹が減ってきたな。",
+    ("そういや、なんか腹が減ってきたな。",
     ""),
     # I feel like I'm getting hungry, like that.
 

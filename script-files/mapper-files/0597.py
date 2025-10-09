@@ -2,11 +2,11 @@
 # Source file: 0597.txt
 
 text_array = [
-    ("（葵	回秤数イベント６	選択繿後	ＡＢＣの続き）＝i竅坂下	＝普通）",
+    ("（葵	回秤数イベント６	選択繿後	ＡＢＣの続き）＝i坂下	＝普通）",
     ""),
     # (Aoi, the balance number event 6 after selection, continuation of ABC) = iresakashita = normal)
 
-    ("「…そうね。たしかにの言うとおりね。葵がどのくらい頑張ってるか烽も知迺らないのに、遊びだなんて、ち蛯ょっと福口が過ぎたか烽もね」",
+    ("「…そうね。たしかにの言うとおりね。葵がどのくらい頑張ってるか烽も知迺らないのに、遊びだなんて、ちょっと口が過ぎたか烽もね」",
     ""),
     # "...Yes. That's true. You're right. Even Ko hasn't heard of how hard Aoi is working, but it's a game, and it's a bit late, isn't Fukuguchi?
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Koe-san"†
 
-    ("「で烽も、つい挑発的なことばかり言っち痰ゃったの烽も、葵のことを思ってのことだってこと、增わかってほしいの」",
+    ("「で烽も、つい挑発的なことばかり言っち痰ゃったの烽も、葵のことを思ってのことだってこと、わかってほしいの」",
     ""),
     # "I want you to understand that both Kano and Kano, who were always provocative, are all about Aoi."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "It seems like it's a waste of time to talk about it from now on, and I'm already back home on the day, but yes, I'll make sure I'll make sure I'm making sure I can make a clear confirmation of how hard you're working hard soon and get it."
 
-    ("そう言うと竄坂下は、不敵な笑みをｂ浮かべた。",
+    ("そう言うと坂下は、不敵な笑みを浮かべた。",
     ""),
     # As he said that, Tamushi Sakashita gave a defiant smile.
 
@@ -34,20 +34,20 @@ text_array = [
     ""),
     # "What? Should I also do some hot springs to watch Yu practice?"
 
-    ("「いいえ。せっかく、おたがい垂武道を竄やってるのよ。",
+    ("「いいえ。せっかく、おたがい垂武道をやってるのよ。",
     ""),
     # "No. You're all trying to tame the Tabudo.
 
-    ("もっと実力を明確にする福方法があるでし蛯ょ？」",
+    ("もっと実力を明確にする方法があるでしょ？」",
     ""),
     # Is there a blessing to make your ability clearer?”
 
-    ("竅坂下はくすっと笑って、葵ち痰ゃんを見た。",
+    ("坂下はくすっと笑って、葵ち痰ゃんを見た。",
     ""),
     # Sakashita chuckled and looked at Aoi Chisho-ya.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("葵ち痰ゃんは、厳しい表﨣情で汲視諮を返す。",
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Maybe, maybe.†
 
-    ("「おい、まさか、葵ち痰ゃんと竄やりあおうってんじ痰ゃないだｂうな」",
+    ("「おい、まさか、葵ち痰ゃんとやりあおうってんじ痰ゃないだうな」",
     ""),
     # "Hey, I can't believe it, Aoi-chi, tamper with sphin, you can't help but sphin, you can't do it."
 
@@ -70,19 +70,19 @@ text_array = [
     ""),
     # "That's right."
 
-    ("「ち蛯ょ、ち蛯ょっと待てよ。そんなこと、いきなり言甯われて烽も、葵ち痰ゃんに烽も心の準備って烽もんが｢｢」",
+    ("「ちょ、ちょっと待てよ。そんなこと、いきなり言甯われて烽も、葵ち痰ゃんに烽も心の準備って烽もんが｢｢」",
     ""),
     # "And wait a moment. That's what happened suddenly, and Hoo, Aoi Chishonan, Hoo, and Hoo, were prepared for the heart, but Hoomon said, ""
 
-    ("「誰熬も、いますぐにとは言ってない墲わ。近いうちにって言ったでし蛯ょ？」†",
+    ("「誰熬も、いますぐにとは言ってない墲わ。近いうちにって言ったでしょ？」†",
     ""),
     # "No one said it right now. I said it soon, yeah?"
 
-    ("「增戦ってどうしようってんだ」",
+    ("「戦ってどうしようってんだ」",
     ""),
     # "What are you doing to fight?"
 
-    ("「葵に墲わからせてあげるのよ。いまの努力が鰍所詮、どの程度の撃レベ泣ルでしかないかをね。多分、それで目が覚めるから」†",
+    ("「葵に墲わからせてあげるのよ。いまの努力が鰍所詮、どの程度の撃レベルでしかないかをね。多分、それで目が覚めるから」†",
     ""),
     # "I'll let Aoi understand this. I wonder how much effort you're doing now is just a level of tearfulness. That's probably why you'll wake up."
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "There's no way Aoi Chisho-yan will lose to Amane, right?"
 
-    ("「もちｂん。",
+    ("「もちん。",
     ""),
     # "Mochib.
 
-    ("勝ったら、氈勝ったで、п私燻もこのク宴ラブを認めるしかないでし蛯ょうね」",
+    ("勝ったら、氈勝ったで、п私燻もこのクラブを認めるしかないでしょうね」",
     ""),
     # If I win, I won, and I have no choice but to accept this love for the banquet."
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # I'll say it simply.†
 
-    ("「だいたい、空闍手博部がそんな簡単に他流似試㍽合を竄やって烽もいいのかよ？」",
+    ("「だいたい、空闍手博部がそんな簡単に他流似試㍽合をやって烽もいいのかよ？」",
     ""),
     # "Is it okay to generally do that Sora-Kate Hirobe to tamper with a similar test of other styles like that?"
 
-    ("「こんなとこでち蛯ょっと手㍽合寘わせするぐらい、どうってことない墲わ」",
+    ("「こんなとこでちょっと手㍽合寘わせするぐらい、どうってことない墲わ」",
     ""),
     # "It's so unfair that I'm going to let you slip around at a place like this."
 
@@ -130,27 +130,27 @@ text_array = [
     ""),
     # "Ah, Aoi Chishou..."
 
-    ("「それで、もしр私が勝てば、好恵さん烽もこのク宴ラブのことを…、いえ、エクスト潟リームのことを、見直していただけますね？」†",
+    ("「それで、もしр私が勝てば、好恵さん烽もこのクラブのことを…、いえ、エクストリームのことを、見直していただけますね？」†",
     ""),
     # "So, if I win, Yoshie-san and Ko could also review this banquet love..., no, Extreme Ream?"
 
-    ("「…もちｂんよ」",
+    ("「…もちんよ」",
     ""),
     # "...It's a mochibun."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("葵ち痰ゃんと竄坂下は、火花が散骼るほど見つめ№合った。",
+    ("葵ち痰ゃんと坂下は、火花が散骼るほど見つめ№合った。",
     ""),
     # Aoi Chisho-yan and Tsumano Sakashita stared at each other so much that sparks blew through them.
 
-    ("竅坂下の福口煬もとには、增わずかな笑みがｂ浮かんでいる。",
+    ("坂下の口煬もとには、わずかな笑みが浮かんでいる。",
     ""),
     # A slight smile appears in front of Fukuguchi Hao, who is down to Haosaka.
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # Hey hey, it's starting to happen without a lot of heat.
 
-    ("まるで少年マンガノ潟リだ。†",
+    ("まるで少年マンガノリだ。†",
     ""),
     # It's like a boys' manga.†
 
-    ("「п私はク宴ラブで忙しいし、氏試㍽合の冾日はこっちの都∮合でｌめさせて烽もらうけど、いい？」",
+    ("「п私はクラブで忙しいし、氏試㍽合の冾日はこっちの都∮合でｌめさせて烽もらうけど、いい？」",
     ""),
     # "I'm busy with love for the banquet, and on the day of the test, I'll have you come across this city and get some hot springs, is that okay?"
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Yes, it's fine."
 
-    ("「じ痰ゃあ、いずれ、こっちから連腰絡する墲わ。それまでに、しっかりと福練習しておくことね、葵」",
+    ("「じ痰ゃあ、いずれ、こっちから連腰絡する墲わ。それまでに、しっかりと練習しておくことね、葵」",
     ""),
     # "Ahhh, I'll eventually get a throbbing relationship from here. By then, I'll have to practice for good luck, Aoi."
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # "You're phlegmy."
 
-    ("そう言い残すと、竅坂下は背をｌけ、神社を獅去っていった。",
+    ("そう言い残すと、坂下は背をｌけ、神社を獅去っていった。",
     ""),
     # When he left that pointed out, Sakashita turned his back and left the shrine.
 
-    ("葵ち痰ゃんは一言煬も福口をきかず、その背白が見えなくなるまで、じっと見つめ続けた。",
+    ("葵ち痰ゃんは一言煬も口をきかず、その背白が見えなくなるまで、じっと見つめ続けた。",
     ""),
     # Aoi Chisho-yan didn't say a word and continued to stare at him until he couldn't see his disguise.
 

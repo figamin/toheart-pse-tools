@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (B Parting up.)†
 
-    ("「たまにはそんなの烽もいいか烽もな。それじ痰ゃオ激レ、教室戻髢る墲わ」",
+    ("「たまにはそんなの烽もいいか烽もな。それじ痰ゃオレ、教室戻髢る墲わ」",
     ""),
     # "Sometimes, I don't mind if it's hot or hot. I'll go crazy, I'll go back to the classroom."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Yeah. See you later."
 
-    ("「今厓日は翌風が強いから、飛ばされねー諱ように気をつけｂよー」",
+    ("「今厓日は翌風が強いから、飛ばされねー諱ように気をつけよー」",
     ""),
     # "The next wind is strong right now, so don't let it fly, be careful not to let it go."
 

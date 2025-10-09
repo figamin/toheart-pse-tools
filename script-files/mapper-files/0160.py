@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I can't get an i yet.†
 
-    ("オ激レ自身、気搴持ちの整攝理がついてないじ痰ゃないか。",
+    ("オレ自身、気搴持ちの整攝理がついてないじ痰ゃないか。",
     ""),
     # I myself am not a phlegm that is not intelligent enough to keep my energy-hearted.
 
-    ("こんな状態であかりにｉって烽も、結局同じことの繰闌り返しになるんじ痰ゃないのか。†",
+    ("こんな状態であかりにｉって烽も、結局同じことの繰り返しになるんじ痰ゃないのか。†",
     ""),
     # In this situation, even if you have a karii and a karii, the same thing will continue to repeat, so you won't be able to phlegm.†
 

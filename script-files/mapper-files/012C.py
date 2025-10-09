@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "He's a lazy woman, you can't phlegm."
 
-    ("オ激レはぷっと≠吹き出しながら否阡定した。",
+    ("オレはぷっと≠吹き出しながら否阡定した。",
     ""),
     # My heart blew out loud and rejected me.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "I see... what is it?"
 
-    ("「ああ、オ激レとあかりは、ただの幼なじみさ。まあ、言ってみり痰ゃ家族みたいな烽もんかな。いっし蛯ょにいるのが≠普通なんだ」",
+    ("「ああ、オレとあかりは、ただの幼なじみさ。まあ、言ってみり痰ゃ家族みたいな烽もんかな。いっしょにいるのが≠普通なんだ」",
     ""),
     # "Ah, I'm a gut and Akari are just childhood friends. Well, I guess they're just like family. It's normal for them to be in the slut."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Are you a family-like hot spring thing?"
 
-    ("「ま、オ激レの福方は、ただいま彼濫女蜿募集薯ってことにしといてくれ」",
+    ("「ま、オレの方は、ただいま彼濫女蜿募集薯ってことにしといてくれ」",
     ""),
     # "Well, my super-sexual Fukukata should just say that he's looking for a huge girl and a potato."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # After saying this, Kotone Chishoyan smiled wryly at her overly eulogy.†
 
-    ("「はははっ、そり痰ゃどーも、ごていねいに。じ痰ゃあ、オ激レはこっちだから」",
+    ("「はははっ、そり痰ゃどーも、ごていねいに。じ痰ゃあ、オレはこっちだから」",
     ""),
     # "Hahaha, you're so careful. I'm going to get some phlegm, because I'm going to get some phlegm."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Yes, then..."
 
-    ("軽く手をあげて言い、オ激レは琴音ち痰ゃんと別れた。◯",
+    ("軽く手をあげて言い、オレは琴音ち痰ゃんと別れた。◯",
     ""),
     # I raised my hand slightly and said, and I parted ways with Kotone Chisho-yan.◯
 

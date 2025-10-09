@@ -2,7 +2,7 @@
 # Source file: 0410.txt
 
 text_array = [
-    ("（志保	ノベ泣ルシーン）閨（あかりシナ潟リオの終盤が近い場㍼合、発生しない）†",
+    ("（志保	ノベルシーン）閨（あかりシナリオの終盤が近い場㍼合、発生しない）†",
     ""),
     # (Shiho's novel crying scene) (Not occurrences when Akari Scina Gata Rio is near the end) †
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("どうせ『冝放課繪後にで烽も遊びに行こう』って言うんだｂう。†",
+    ("どうせ『冝放課繪後にで烽も遊びに行こう』って言うんだう。†",
     ""),
     # They're probably going to say, "Let's go and have some fun after school."†
 
-    ("「学校終尞わったらカ宴ラオケ行かない？」",
+    ("「学校終尞わったらカラオケ行かない？」",
     ""),
     # "When school is over, why don't you go to Kabanraoke?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "I see" †
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

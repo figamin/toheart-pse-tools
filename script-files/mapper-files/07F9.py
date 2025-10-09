@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Kotone, Scales Event PS) (Chome, I like dogs)†
 
-    ("「オ激レ、じつは犬が好きなんだよな」",
+    ("「オレ、じつは犬が好きなんだよな」",
     ""),
     # "I really like dogs."
 
-    ("「增わたし烽も好きですよ」",
+    ("「わたし烽も好きですよ」",
     ""),
     # "I also like Hot."
 
-    ("「あっそう？	で烽もさ、こう竄やって近くで見骭ると、猫熹も捨てた烽もんじ痰ゃねえよな」",
+    ("「あっそう？	で烽もさ、こうやって近くで見骭ると、猫熹も捨てた烽もんじ痰ゃねえよな」",
     ""),
     # "Ahh? And when I tampered with this and looked up close, I saw that there was no phlegm for the cat that had even been thrown away."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「オ激レは犬派だけど、どっち烽も動物を可愛がる気搴持ちは同じだｂうし、〟仲良くしような」",
+    ("「オレは犬派だけど、どっち烽も動物を可愛がる気搴持ちは同じだうし、〟仲良くしような」",
     ""),
     # "I'm a dog fan, but both of them have the same desire to love animals, so I think we'll get along well."
 

@@ -2,15 +2,15 @@
 # Source file: 08F1.txt
 
 text_array = [
-    ("（戟レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	信じる福方かな？）†",
+    ("（戟レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	信じる方かな？）†",
     ""),
     # (Remie, the test day return PS) (Choice, the lucky katakana?)†
 
-    ("「信じる福方かな？」",
+    ("「信じる方かな？」",
     ""),
     # "Is it the way you trust?"
 
-    ("竅やっぱ、いると思うけどな。",
+    ("やっぱ、いると思うけどな。",
     ""),
     # I think there are after all.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "You love me, I have no phlegm. You're not going to get it, 﨟Essentially" †
 
-    ("「增わかりました！」",
+    ("「わかりました！」",
     ""),
     # "I understand!"
 

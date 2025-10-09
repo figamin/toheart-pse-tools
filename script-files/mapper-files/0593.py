@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Now, it's time for the gay practice!
 
-    ("オ激レは気㈲合いを入齠れて、神社へとｌかった。†",
+    ("オレは気㈲合いを入齠れて、神社へとｌかった。†",
     ""),
     # My gangbang got into the shrine and got into the shrine.†
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # In addition to Aoi Chisho-ya, there was another unfamiliar female student in the next day.†
 
-    ("「どうして墲わかってくれないの。葵、あなたほどの墲逸材が、くだらない遊びのために空闍手を竄やめるなんて馬鹿げてる墲わ！」",
+    ("「どうして墲わかってくれないの。葵、あなたほどの墲逸材が、くだらない遊びのために空闍手をやめるなんて馬鹿げてる墲わ！」",
     ""),
     # "Why don't you understand? Aoi, it's ridiculous that a talented person like you would stop tampering with Skywalk for some silly game!"
 
-    ("「そ、そんな、エクスト潟リームは遊びなんかじ痰ゃありません」",
+    ("「そ、そんな、エクストリームは遊びなんかじ痰ゃありません」",
     ""),
     # "Oh, there's no phlegm to play with Extreme Ream."
 
-    ("「テ激レビと企業が手を組んで竄やってるお祭闕り企謚画でし蛯ょ？	十分に遊びだ墲わ」",
+    ("「テレビと企業が手を組んでやってるお祭闕り企謚画でしょ？	十分に遊びだ墲わ」",
     ""),
     # "It's a festival-like painting of companies working together to tamper with TV drama? It's a lot of fun."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "it is…"†
 
-    ("なに竄やらモ激しく言いｑってるな。",
+    ("なにやらモしく言いｑってるな。",
     ""),
     # He's been saying something like tampering with and slutty.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # It's an extraordinary atmosphere though...
 
-    ("とこｂであの翌女、見たことあるぞ。",
+    ("とこであの翌女、見たことあるぞ。",
     ""),
     # I've seen that woman the next day at B.
 
-    ("オ激レと同じ二年で、Ｄ組の竄坂下って竄やつだ。",
+    ("オレと同じ二年で、Ｄ組の坂下ってやつだ。",
     ""),
     # It was the same two years as me, and Class D's Tamper Sakashita was the tampering guy.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # I think he was affiliated with Sorata Hirobu Kabuto.†
 
-    ("なんで烽もずいぶん強いらしく、新人ながら烽もｂ高校センバツの≠メンバーに選ばれたとか、どうとかいってたな。",
+    ("なんで烽もずいぶん強いらしく、新人ながら烽も高校センバツの≠メンバーに選ばれたとか、どうとかいってたな。",
     ""),
     # Why did Hoo seem to be quite strong, and even though he's a new employee, he was also chosen as a member of the B High School Senbatsu.
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # My grade has a pretty famous face.
 
-    ("そいつが葵ち痰ゃんになんの用なんだｂう。†",
+    ("そいつが葵ち痰ゃんになんの用なんだう。†",
     ""),
     # What is that guy doing for Aoi Chishonan?†
 
-    ("「今年、葵がウチのｂ高校にｗ磯翌ﾁて知って、п私、本末当に嬉しかった。また葵といっし蛯ょに空闍手ができるんだって、楽しみにしてたのに」",
+    ("「今年、葵がウチの高校にｗ磯翌ﾁて知って、п私、本末当に嬉しかった。また葵といっしょに空闍手ができるんだって、楽しみにしてたのに」",
     ""),
     # "This year, Aoi was able to find out that she went to our B High School lol, Iso the next day, and I was so happy. I was looking forward to seeing that she could make a Skywalker with Aoi again."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # What?
 
-    ("葵ち痰ゃんと竄坂下って知闥り№合いなのか。",
+    ("葵ち痰ゃんと坂下って知闥り№合いなのか。",
     ""),
     # Are Aoi Chisho-chan and Tampering Downhill a great deal of knowledge?
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # Given the content of the story, it seems like they're quite close friends.
 
-    ("あのふたりの共通点っつーと、竅やっぱ空闍手なんだｂうなぁ…。†",
+    ("あのふたりの共通点っつーと、やっぱ空闍手なんだうなぁ…。†",
     ""),
     # The two of them all have a commonality, and I'm really into the air...†
 
-    ("「だけどまさか、あなたまで、空闍手を竄やめてこんな『ごっこ遊び』を始めてるとは思寬わなかった墲わ」",
+    ("「だけどまさか、あなたまで、空闍手をやめてこんな『ごっこ遊び』を始めてるとは思寬わなかった墲わ」",
     ""),
     # "But I can't believe you've stopped tampering with the sky and started playing this 'pretty game'."
 
@@ -115,10 +115,10 @@ text_array = [
     # "I have no phlegm to play!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("突然の葵ち痰ゃんの翌迫力に、竅坂下はち蛯ょっと驚いた顔をする。",
+    ("突然の葵ち痰ゃんの翌迫力に、坂下はちょっと驚いた顔をする。",
     ""),
     # The sudden impact of Aoi Chisho-ya's sudden shock makes Haisakashita look surprised.
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # Aoi Chisho-yan himself also felt awkward, so he looked away.†
 
-    ("竅坂下はふっと笑って、",
+    ("坂下はふっと笑って、",
     ""),
     # Sakashita suddenly laughed,
 
-    ("「｢｢ごっこでし蛯ょ？」",
+    ("「｢｢ごっこでしょ？」",
     ""),
     # "" "You're playing lily?"
 
@@ -142,23 +142,23 @@ text_array = [
     ""),
     # I said it again.†
 
-    ("「…香総≡合格闘技だかなんだか知迺らないけど、こんな空き地でチ㏍ョ鴻ロチ㏍ョ鴻ロ窿やってる撃レベ泣ルなんて、ごっこ遊びに過ぎない墲わ」",
+    ("「…香総≡合格闘技だかなんだか知迺らないけど、こんな空き地でチョ鴻ロチョ鴻ロ窿やってる撃レベルなんて、ごっこ遊びに過ぎない墲わ」",
     ""),
     # "...I don't know if it's a fighting sport or something, but the attack level crying of playing in a vacant lot like this is nothing more than a pretend play."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「言いかえれば、その程度で烽も十分通用する撃レベ泣ルだってことよね、そのエクスト潟リームとかっていう蛯大痩は」†",
+    ("「言いかえれば、その程度で烽も十分通用する撃レベルだってことよね、そのエクストリームとかっていう大痩は」†",
     ""),
     # "In other words, it's a massive amount of tears that can be used to achieve that level of heat, and that extra-sized skin, like Extreme Ream."
 
-    ("「ち、瘁違います！	エクスト潟リームはｌして撃レベ泣ルの痰低い蛯大痩じ痰ゃありません。いｂいｂな格闘技の世界からトップク宴ラスの人たちが集まってきてるんです。現に綾∴香あ竄やかさんだって｢｢」†",
+    ("「ち、瘁違います！	エクストリームはｌして撃レベルの痰低い大痩じ痰ゃありません。いいな格闘技の世界からトップクラスの人たちが集まってきてるんです。現に綾∴香あやかさんだって｢｢」†",
     ""),
     # "Ah, it's not good! Extreme lame has a low level of stimulation and low level of stimulation. People from the world of b-b-b-fighting martial arts gather together. In fact, Aya∴Katanyaka is """
 
-    ("「竅やっぱり、綾∴香が原因なのね？」",
+    ("「やっぱり、綾∴香が原因なのね？」",
     ""),
     # "Is Aya∴Ka really the cause?"
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "C------"
 
-    ("「本末当は、空闍手か高総≡合格闘技かなんて、そんなことはどうで烽もよくて、ただ綾∴香みたいに雑庶誌とかに載って、チсヤホсヤ焜もては竄やされたいだけなのね？」†",
+    ("「本末当は、空闍手か高総≡合格闘技かなんて、そんなことはどうで烽もよくて、ただ綾∴香みたいに雑庶誌とかに載って、チсヤホсヤ焜もてはやされたいだけなのね？」†",
     ""),
     # "The truth is that it's a battle with Koso and Takaso, and that's not what I think, and I just want to be featured in miscellaneous magazines like Aya∴Ka, and be to be tossed around with Chi-yaho, right?"
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # Who are you talking about?†
 
-    ("「ち、瘁違います、增わたしは…」",
+    ("「ち、瘁違います、わたしは…」",
     ""),
     # "Ah, I'm not shaking, I'm..."
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # "I'm not going to squeal!"
 
-    ("竅坂下は怒鳴った。†",
+    ("坂下は怒鳴った。†",
     ""),
     # Sakashita yelled.†
 
-    ("「氏去年、綾∴香がその蛯大痩のｂ高校生柏部蝠門で優泓勝してからという烽もの、各地のジム窿や道齠場で、あの子に憧齠れて蛯大痩に出たがる翌女子が急搴増葬だって話譏よ」",
+    ("「氏去年、綾∴香がその大痩の高校生柏部蝠門で優泓勝してからという烽もの、各地のジム窿や道齠場で、あの子に憧齠れて大痩に出たがる翌女子が急搴増葬だって話譏よ」",
     ""),
     # "It's been a while since Aya∴Kawa won with the big-skinned high school student Kashiwabe Kazamon last year, and the next girl who admired that girl and wanted to get big-skinned and suddenly started burialing at gyms and roadside venues around the country."
 
@@ -214,16 +214,16 @@ text_array = [
     ""),
     # "That's why I'm..."
 
-    ("葵ち痰ゃんの言葉をさえぎるように、竅坂下は深く息を吐いた。†",
+    ("葵ち痰ゃんの言葉をさえぎるように、坂下は深く息を吐いた。†",
     ""),
     # As if to interrupt Aoi Chishoyan's words, Sakashita let out a deep breath.†
 
-    ("「いま竄や綾∴香は、それ系の雑庶誌には載骰るし、ファン焜もついたりして、まるでち蛯ょっとしたアイド泣ル状態だ墲わ」",
+    ("「いまや綾∴香は、それ系の雑庶誌には載骰るし、ファン焜もついたりして、まるでちょっとしたアイドル状態だ墲わ」",
     ""),
     # "Now, Tanzania and Aya∴Ka have been featured in all sorts of magazines, and fans have also appeared, making me cry like I'm crying."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「べつにそれ自体悪いとは言甯わない。なんであれ、蛛大痩で優泓勝した人間が高注目を集めるのは汲結構なことだと思う墲わ」",
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「で烽も、いっし蛯ょに空闍手を竄やってきた人間として見骭ると、いまの彼濫女はすごく不愉快なの」",
+    ("「で烽も、いっしょに空闍手をやってきた人間として見骭ると、いまの彼濫女はすごく不愉快なの」",
     ""),
     # "And when you look at him as someone who has been tampering with the sluts, the current boyfriends are very unpleasant."
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "The Skywalker is the name of the "buki martial arts." However, there is no skill to defeat the monks.
 
-    ("私たちは空闍手を通じて垂武道を学んでいるのよ。その精神を蛯大桝事にしなき痰ゃいけないの。それは、たとえフ泣ルコンタクトの実寬戦空闍手であって烽も同様だ墲わ」†",
+    ("私たちは空闍手を通じて垂武道を学んでいるのよ。その精神を大桝事にしなき痰ゃいけないの。それは、たとえフルコンタクトの実寬戦空闍手であって烽も同様だ墲わ」†",
     ""),
     # We are learning the Tabudo art through the sky.That spirit must be turned into a phlegm.Even if it's a real battle with the Furyu Contact, the same goes for Hou."
 
@@ -270,23 +270,23 @@ text_array = [
     ""),
     # "If the next trend continues to accelerate like this, what do you think will the sky be like?
 
-    ("武道としての空闍手は軽旧視され、ただの格闘術になっち痰ゃうでし蛯ょ？	だからいまの綾∴香を見てると不愉快なの！	それに続こうとするあなたたち烽も含めてね！」†",
+    ("武道としての空闍手は軽旧視され、ただの格闘術になっち痰ゃうでしょ？	だからいまの綾∴香を見てると不愉快なの！	それに続こうとするあなたたち烽も含めてね！」†",
     ""),
     # The simulator as a martial arts is considered to be light and old, and can become just martial arts?That's why it's uncomfortable to see Aya∴Ka now!Including you guys who are trying to continue!”†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("增わずかな間を置いてから、葵ち痰ゃんは艪ゆっくりと顔を繧上げ、小さく福口を開いた。",
+    ("わずかな間を置いてから、葵ち痰ゃんはゆっくりと顔を繧上げ、小さく口を開いた。",
     ""),
     # After a short pause, Aoi Chisho-yan slowly lifted his face and opened his mouth small.
 
-    ("「增わ、п私、いまの綾∴香さんが羨ましいとか、あんなふうに有名になりたいとか、けっしてそんな揩理由でエクスト潟リームに出髀る墲わけじ痰ゃありません」†",
+    ("「わ、п私、いまの綾∴香さんが羨ましいとか、あんなふうに有名になりたいとか、けっしてそんな揩理由でエクストリームに出髀る墲わけじ痰ゃありません」†",
     ""),
     # "I'm jealous of Aya∴Ka now, or wanting to become so famous, I have absolutely no reason to come to Extreme Ream for such reasons."
 
-    ("「じ痰ゃあ、どうして？	ずっと竄やってた空闍手を竄やめて、いきなりこんなこと竄やり始めて、誰が見たって、綾∴香に続こうとしてるとしか思えないでし蛯ょ！？」†",
+    ("「じ痰ゃあ、どうして？	ずっとやってた空闍手をやめて、いきなりこんなことやり始めて、誰が見たって、綾∴香に続こうとしてるとしか思えないでしょ！？」†",
     ""),
     # "Ah, why? Stop tampering with Sora, which I've been doing for so long, and suddenly started tampering with this, and no matter who sees it, I can only imagine that he's trying to continue with Aya∴Kawa!?"
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("葵ち痰ゃんは、真っ直ぐな目で、強く蛯大きくうなずいた。†",
+    ("葵ち痰ゃんは、真っ直ぐな目で、強く大きくうなずいた。†",
     ""),
     # Aoi Chisho-yan nodded his head with straight eyes and a strong, loud ecstasy.†
 
@@ -343,14 +343,14 @@ text_array = [
     # "So I've always been thinking about it, and I've been trying my best to get closer to Aya∴Kawa and catch up."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「で烽も獅去年、綾∴香さんは、空闍手を竄やっていて烽も竄絶対に追いつけない世界へ行ってしまったんです」",
+    ("「で烽も獅去年、綾∴香さんは、空闍手をやっていて烽も絶対に追いつけない世界へ行ってしまったんです」",
     ""),
     # "And then, last year, Aya∴Ka went to a world where he was tampering with the Sky and couldn't keep up with the Sky."
 
-    ("「ａ高校空闍手に行かず、瘁例の蛯大痩に乗闖り換えたからね」",
+    ("「ａ高校空闍手に行かず、瘁例の大痩に乗闖り換えたからね」",
     ""),
     # "I didn't go to A High School Sky and instead changed my weight to the huge weight that was a miracle."
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan, just a simple but simple fan of Jun-yan, who was hoping for the fighting skills of Takaso, passed the exam, is no use.
 
-    ("目標とする人が、空闍手からエクスト潟リームに移っち痰ゃったから、自分熾も繧後を追ったのか。",
+    ("目標とする人が、空闍手からエクストリームに移っち痰ゃったから、自分熾も繧後を追ったのか。",
     ""),
     # The person he was aiming to move from the Sky to Extreme Ream, so perhaps he followed the fire after him.
 
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # I see.
 
-    ("…って、オ激レ、なんでコソコソ隠皷れて話を聞いてんだ？†",
+    ("…って、オレ、なんでコソコソ隠皷れて話を聞いてんだ？†",
     ""),
     # ...I mean, why are you secretly hiding and listening to the story?†
 
@@ -390,7 +390,7 @@ text_array = [
     ""),
     # "And you can see Hoo, Aoi..."
 
-    ("そのとき、竅坂下が竄冷たい声で言った。",
+    ("そのとき、坂下が冷たい声で言った。",
     ""),
     # At that moment, Sakashita said in a cold voice.
 
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「綾∴香が獅去ったあとの空闍手界には、このр私燻もふくめて、目標となる存在がいないってことでし蛯ょ？」†",
+    ("「綾∴香が獅去ったあとの空闍手界には、このр私燻もふくめて、目標となる存在がいないってことでしょ？」†",
     ""),
     # "After Aya∴Kaori left, there is no target in the world of Soragata, including my smoking, essay?"
 
@@ -418,7 +418,7 @@ text_array = [
     ""),
     # hey hey.
 
-    ("なんだか、ち蛯ょっと竄やばい雲行きになってきたぞ。",
+    ("なんだか、ちょっとやばい雲行きになってきたぞ。",
     ""),
     # It's getting a cloud of crazy stuff going on.
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # Aoi Chi, phlegmy, I kept it and silently phlegmy.†
 
-    ("竅坂下は声のトーンを獅落として続けた。",
+    ("坂下は声のトーンを獅落として続けた。",
     ""),
     # Sakashita continued to slurp his tone of voice.
 
@@ -442,11 +442,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("「けどそれは綾∴香が現役だったこｂの話譏よ。いまは痰違う墲わ。",
+    ("「けどそれは綾∴香が現役だったこの話譏よ。いまは痰違う墲わ。",
     ""),
     # "But that's about Aya∴Kawa being active. My phlegm is completely different now.
 
-    ("空闍手の烽財産で墲戦ってる綾∴香に艪比べ、п私は今熏も冾日搏増しに強くなっている墲わ。だから、いまは奄負ける気がしない！」",
+    ("空闍手の烽財産で墲戦ってる綾∴香に比べ、п私は今熏も冾日搏増しに強くなっている墲わ。だから、いまは奄負ける気がしない！」",
     ""),
     # Compared to Aya∴Chuang, who is fighting with the Hot Assets of the Sky, I am now becoming stronger and stronger to increase daily life.That's why I don't feel like I'm losing to Amane right now!”
 
@@ -454,12 +454,12 @@ text_array = [
     ""),
     # "I see, there's no way there either."
 
-    ("「そうか烽も、じ痰ゃない墲わ！	多分、ううん、竅絶対にそうよ」†",
+    ("「そうか烽も、じ痰ゃない墲わ！	多分、ううん、絶対にそうよ」†",
     ""),
     # "I see, the hot springs are also not phlegmy! I think so, uh, that's definitely true."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「そして、葵、なんの進熕歩熾もしてないのは、あなたに烽も言えることなのよ！」",
@@ -470,7 +470,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「進熕歩してないどこｂか、ブ宴ランクのせいで、逆に繧弱くなってるでし蛯ょうね！」",
+    ("「進熕歩してないどこか、ブランクのせいで、逆に繧弱くなってるでしょうね！」",
     ""),
     # "It's not progressing well, but it's getting weaker due to the blank rank, so it's actually getting weaker!"
 
@@ -478,7 +478,7 @@ text_array = [
     ""),
     # "I'm weak...?"
 
-    ("「そうにｌまってるでし蛯ょ？	こんな場鰹所ででたらめなト激レーニングを竄やってるあなたと、空闍手を続けてるр私と、どっちが実力がつくか、そんなことは歴然としてる墲わ」",
+    ("「そうにｌまってるでしょ？	こんな場鰹所ででたらめなトレーニングをやってるあなたと、空闍手を続けてるр私と、どっちが実力がつくか、そんなことは歴然としてる墲わ」",
     ""),
     # "You're so yelling, slut? It's clear who will develop your skills, you, who's doing some crazy training at a bonito spot like this, or me, who keeps playing the Skywalk."
 
@@ -486,7 +486,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「ち痰ゃんとしたジムでト激レーナーの指導を受けているならまだし烽も、こんなとこｂで独学で竄やって強くなれるほど格闘技は甘くない墲わ。あなたが竄やってるのは、梶所詮、ごっこ遊びのр延長でしかないのよ！」",
+    ("「ち痰ゃんとしたジムでトレーナーの指導を受けているならまだし烽も、こんなとこで独学でやって強くなれるほど格闘技は甘くない墲わ。あなたがやってるのは、梶所詮、ごっこ遊びのр延長でしかないのよ！」",
     ""),
     # "It would be fine if you were being taught by a trainer at a gym that was so blunt, and even Ho is not so easy to martial arts so that you can become stronger by self-taught at this place. You're just an extension of pretend play after all!"
 
@@ -498,15 +498,15 @@ text_array = [
     ""),
     # "And choosing such a pretend game over our Sorata Hirobe, I can only describe it as a bit of a martial arts!"
 
-    ("「增わ、п私は、п私は…」†",
+    ("「わ、п私は、п私は…」†",
     ""),
     # "B, п, п, п..."†
 
-    ("「おい、ち蛯ょっと待てよ。それは逆に言うと、竅坂下、お前がなめてんじ痰ゃねぇか？」",
+    ("「おい、ちょっと待てよ。それは逆に言うと、坂下、お前がなめてんじ痰ゃねぇか？」",
     ""),
     # "Hey, wait a moment. Conversely, you're probably thinking about it, you're licking it, don't you have any phlegms?"
 
-    ("ついに艪我揄慢できず、オ激レはふたりの前に姿を現した。",
+    ("ついに我揄慢できず、オレはふたりの前に姿を現した。",
     ""),
     # Finally, I couldn't resist the slut, and I appeared in front of the two of them.
 
@@ -514,7 +514,7 @@ text_array = [
     ""),
     # "See, Senpai!"
 
-    ("オ激レの姿を見て、葵ち痰ゃんの表﨣情熄もぱっと明髢るくなる。†",
+    ("オレの姿を見て、葵ち痰ゃんの表﨣情熄もぱっと明髢るくなる。†",
     ""),
     # Seeing my appearance as I suddenly felt a sense of excitement.†
 
@@ -522,11 +522,11 @@ text_array = [
     ""),
     # "You... Class B?"
 
-    ("いぶかしげにオ激レを見て、竅坂下が言った。",
+    ("いぶかしげにオレを見て、坂下が言った。",
     ""),
     # Akesakashita said as he looked at me with a deep eye on me.
 
-    ("「へぇ、お前みたいな有名人にまで顔が知齟れてるなんて、オ激レ焜も有名になった烽もんだな」†",
+    ("「へぇ、お前みたいな有名人にまで顔が知れてるなんて、オレ焜も有名になった烽もんだな」†",
     ""),
     # "Wow, the fact that even famous people like you have a strange face is something that even my super-realistic man has become famous."
 
@@ -538,19 +538,19 @@ text_array = [
     ""),
     # What am I licking?”
 
-    ("竅坂下がにらんで言った。",
+    ("坂下がにらんで言った。",
     ""),
     # Sakashita glares and said.
 
-    ("その鋭い目に、うかつに烽も、ち蛯ょっとだけひるんでしまった。",
+    ("その鋭い目に、うかつに烽も、ちょっとだけひるんでしまった。",
     ""),
     # In his sharp eyes, the hunched eyes were delighted, and even the sinner was flinching.
 
-    ("さすが空闍手を竄やってるだけのことはあるぜ。",
+    ("さすが空闍手をやってるだけのことはあるぜ。",
     ""),
     # As expected, there are times when he's just tampering with Skywalk.
 
-    ("浴女のくせにすげー目し竄やがる。†",
+    ("浴女のくせにすげー目しやがる。†",
     ""),
     # Even though she's a bathing woman, she looks amazing.†
 
@@ -558,15 +558,15 @@ text_array = [
     ""),
     # "Hey, what are you licking?"
 
-    ("「このク宴ラブをだ」",
+    ("「このクラブをだ」",
     ""),
     # "This banquet love"
 
-    ("オ激レは言った。",
+    ("オレは言った。",
     ""),
     # I said.
 
-    ("「うちのク宴ラブがごっこ遊びのр延長だって？	葵ち痰ゃんが逆に繧弱くなってるって？	竅坂下、お前、なに烽も知迺らないくせによくそんなことを福口にできる烽もんだな」",
+    ("「うちのクラブがごっこ遊びのр延長だって？	葵ち痰ゃんが逆に繧弱くなってるって？	坂下、お前、なに烽も知迺らないくせによくそんなことを口にできる烽もんだな」",
     ""),
     # "Is my love for the banquet extension of pretend play? Is Aoi Chisho-chan becoming weaker? Asakashita, you, even though you don't know what hot springs are, you can often do that in your lucky mouth."
 
@@ -579,7 +579,7 @@ text_array = [
     # "Aoi Chisho-chan is making the effort to do it alone, or have you ever seen Ho at once?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「この子がどんなに一生恊懸命菇練習してるか、お前、見たことあんのかよ？」",
@@ -598,7 +598,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「精神鍛錬こそが垂武道の目的って言うんなら、この子が竄やってるのは断じて遊びなんかじ痰ゃない。間瘧違いなく立派な垂武道だ！	このオ激レが断言して竄やる！」",
+    ("「精神鍛錬こそが垂武道の目的って言うんなら、この子がやってるのは断じて遊びなんかじ痰ゃない。間瘧違いなく立派な垂武道だ！	このオレが断言してやる！」",
     ""),
     # "If mental training is the purpose of Tabudo, then this child is absolutely smiting out, and it's absolutely spurring to play around with it. It's a splendid Tabudo! This guy is adamant and will tamper with it!"
 
@@ -607,7 +607,7 @@ text_array = [
     # "See, Senpai..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -642,11 +642,11 @@ text_array = [
     ""),
     # "Yeah, you have good phlegm, that's what you mean."
 
-    ("「だいたいあなた、さっきから盾随分と知ったような福口聞いてるけど、いったい葵のなんなのよ？」",
+    ("「だいたいあなた、さっきから盾随分と知ったような口聞いてるけど、いったい葵のなんなのよ？」",
     ""),
     # "I've been hearing Fukuguchi, as if you've already known a lot of Shield, what exactly is Aoi?"
 
-    ("「オ、オ激レか？」",
+    ("「オ、オレか？」",
     ""),
     # "Oh, are you so intense?"
 
@@ -654,7 +654,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「オ、オ激レはだな、その、つまり｢｢」",
+    ("「オ、オレはだな、その、つまり｢｢」",
     ""),
     # "Oh, I'm really, that is, ""
 
@@ -666,7 +666,7 @@ text_array = [
     ""),
     # B He's a man who is in love with this girl!Relax
 
-    ("Ｃ	このク宴ラブの≠メンバーだ！閨",
+    ("Ｃ	このクラブの≠メンバーだ！閨",
     ""),
     # C: This banquet love is a member!Relax
 

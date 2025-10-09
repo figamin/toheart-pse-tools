@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Choo"
 
-    ("縺後撃から追っかけてきたあかりが、オ激レを追い越し、前に立った。†",
+    ("縺後撃から追っかけてきたあかりが、オレを追い越し、前に立った。†",
     ""),
     # Akari, who had been chasing after the attack after the attack, overtook O'Raa and stood in front of him.†
 

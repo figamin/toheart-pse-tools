@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The 5th gaze time is closed.
 
-    ("滅多に通ったりしないク宴ラブハウス前で、ばったりｗ栖瑞謳先輩にｉった。†",
+    ("滅多に通ったりしないクラブハウス前で、ばったりｗ栖瑞謳先輩にｉった。†",
     ""),
     # I ran into a banquet in front of the Love House, which I rarely go to, lol. I came across Suzumi-san.†
 
@@ -19,23 +19,23 @@ text_array = [
     # "I'll stay here."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「また、あの浮黒ネコにエサを竄やってたのか？	そうか。ご苦労だねえ」†",
+    ("「また、あの浮黒ネコにエサをやってたのか？	そうか。ご苦労だねえ」†",
     ""),
     # "And again, were you tampering with food on that floating black cat? I see. That's a pain."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「えっ？	今度新しいｂ魔法の薬をｍ骰るから、どんな薬がいいかって？	完成したら、オ激レにくれるって？	うーん、そうだなあ…」†",
+    ("「えっ？	今度新しい魔法の薬をｍ骰るから、どんな薬がいいかって？	完成したら、オレにくれるって？	うーん、そうだなあ…」†",
     ""),
     # "Huh? I'm going to sniff a new B-magic potion next time, so what kind of potion would be best? When it's finished, I'll give it to you? Hmm, that's right..." †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「うーん」",
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Ah, that's right.
 
-    ("やっぱｂ魔法の薬ってんなら、ア激レがいい竄や。そう、ホ激レ薬！」",
+    ("やっぱ魔法の薬ってんなら、アレがいいや。そう、ホレ薬！」",
     ""),
     # After all, if it's a b-magic potion, it's a good idea to get it super tough.Yes, hey, hey!”
 
@@ -58,23 +58,23 @@ text_array = [
     ""),
     # "..."†
 
-    ("「えっ？	それをどう使うかって？	へへ、′まってんだｂ？	目の前の先輩に飲ませるんだよ。そんで、オ激レのこと、好きになって烽もらうんだ」",
+    ("「えっ？	それをどう使うかって？	へへ、′まってんだ？	目の前の先輩に飲ませるんだよ。そんで、オレのこと、好きになって烽もらうんだ」",
     ""),
     # "Huh? How do you use that? Hehe, are you so excited? B? I'll let the senior in front of me drink it. And then I'll like you and get some hot pot."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("へへへっ、照齒れてうつむいてしまった。",
     ""),
     # Hehehe, I lit up and turned my eyes down.
 
-    ("ち蛯ょっとした冗談なのに。†",
+    ("ちょっとした冗談なのに。†",
     ""),
     # It's a bit of a joke.†
 
-    ("「というのは、まあ、轣冗談として…って、ええっ！？	諱頑張ってｍってみますって！？	ホ激レ薬を！？	マ、マジかよ！？」",
+    ("「というのは、まあ、轣冗談として…って、ええっ！？	諱頑張ってｍってみますって！？	ホレ薬を！？	マ、マジかよ！？」",
     ""),
     # "Well, as a joke... What?! I'm going to do my best and try it out!? A super-sexual medicine!? Ma, are you serious?!"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Hmm, you said you should do your best to be true.
 
-    ("怐万が一、ホントに完成したとして烽も、諱先輩のｍった薬を、諱先輩に飲ませて、オ激レを好きにさせるんだぞ。",
+    ("怐万が一、ホントに完成したとして烽も、諱先輩のｍった薬を、諱先輩に飲ませて、オレを好きにさせるんだぞ。",
     ""),
     # If it's true that it's finished, Kao will also let his Senpai take the medicine that Senpai has had, making me love him.
 

@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ahhh. What is the organic compound that makes it into a heart?"
 
-    ("偉そうにしてる志保にｌかって、さっきのテストの竄問阮題を出してみた。",
+    ("偉そうにしてる志保にｌかって、さっきのテストの問題を出してみた。",
     ""),
     # I took the arrogant Shiho and asked him to give the question of tampering with the test I just said.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Surprisingly, the hot answer also came out easily.†
 
-    ("「竅やるじ痰ゃねえか…」",
+    ("「やるじ痰ゃねえか…」",
     ""),
     # "You're going to have to be phlegm..."
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # "Me? I'll just say it later." †
 
-    ("「ふん…。明坙日でモ泣きを見骭るなよ」",
+    ("「ふん…。明坙日でモきを見骭るなよ」",
     ""),
     # "Hmm... Don't watch Moe cry on Ming Shun Day."
 
-    ("「それはこっちのセ潟リフ諠よ」",
+    ("「それはこっちのセリフ諠よ」",
     ""),
     # "That's this Segata Rifle."
 
-    ("オ激レと志保は、おたがいに不敵な笑みをｂ浮かべ№合った。◯",
+    ("オレと志保は、おたがいに不敵な笑みを浮かべ№合った。◯",
     ""),
     # I and Shiho both smiled defiantly at each other and met with each other.◯
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko's Pilgrim Date Event 1st Selection ABC Continued)†
 
-    ("たまに笑いを取骼るрヤツ焜もいたが、﨟基本的には魔当たり痰障闖りのない、し蛯ょーもない自己紹譓介が続いた。",
+    ("たまに笑いを取骼るрヤツ焜もいたが、﨟基本的には魔当たり痰障闖りのない、しょーもない自己紹譓介が続いた。",
     ""),
     # There were also people who sometimes laughed, but basically, they continued to introduce themselves to the evil spirits and silly self-introductions without any stimulus.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # My hobbies are reading books and...and I also like to introduce some after-age.
 
-    ("一年間謚よｂしくお願いします」",
+    ("一年間謚よしくお願いします」",
     ""),
     # I hope you will be blessed for a year."
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # Akari has been like that since she was a child.
 
-    ("なにを竄やって烽も≠普通というか、妥桝当というか、とにかく目立つことのないрヤツだった。",
+    ("なにをやって烽も≠普通というか、妥桝当というか、とにかく目立つことのないрヤツだった。",
     ""),
     # Whatever you do, it's normal, or rather, it's a reasonable price, and it's just a bit of a little conspicuous.
 
-    ("艨ゆえに、なんと艪ゆーか、イマイチ存在感に№欠けてて影が魔薄い。",
+    ("艨ゆえに、なんとゆーか、イマイチ存在感に№欠けてて影が魔薄い。",
     ""),
     # Because of this, it's a bit of a lack of presence and the shadows are shady.
 
-    ("ま、その辺が、あかりらしいってい竄やあ、あかりらしいんだけど。†",
+    ("ま、その辺が、あかりらしいっていやあ、あかりらしいんだけど。†",
     ""),
     # Well, that's what it is like, it's like Akari, it's like Akari.†
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # This guy is still just as boring as Akari, and is not inferior to Amami.
 
-    ("い竄や、同じ淡葬泊で烽も、保科の場㍼合は威圧的っつーか『気軽に話しかけないで』みたいな雰囲気がビシバシ凬放出されていた。",
+    ("いや、同じ淡葬泊で烽も、保科の場㍼合は威圧的っつーか『気軽に話しかけないで』みたいな雰囲気がビシバシ凬放出されていた。",
     ""),
     # Even though he was at the same burial, Hoshina was intimidating and the atmosphere of "Don't talk to me casually."
 
-    ("それは蛯大きな痰違いだよな。†",
+    ("それは大きな痰違いだよな。†",
     ""),
     # That's a huge difference in phlegm.†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # For some reason, Hoshina is the type who might even stomp the enemy.
 
-    ("実際いまだって、浴女子の一蝿部は横目で保科を見ながらヒソヒソとささ竄やいてる。",
+    ("実際いまだって、浴女子の一蝿部は横目で保科を見ながらヒソヒソとささやいてる。",
     ""),
     # Even now, the one-fly club of the bathing girls is whispering around looking at Hoshina.
 
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # When I spoke a little bit the other day, I felt a bit like that, but Hoshina is the type who hates being a lone wolf, or rather than a slut, it's the type who hates shaking it.†
 
-    ("そうい竄やあいつ、関西出身なんだっけ。",
+    ("そういやあいつ、関西出身なんだっけ。",
     ""),
     # I guess that guy is from Kansai.
 
-    ("諱よく、′こうの連中は根本的に関穴東のノ潟リが肌に№合寘わないみたいなことを耳にするけど、竅やっぱあの態度って、そういったことが原因なのかね。",
+    ("諱よく、′こうの連中は根本的に関穴東のノリが肌に№合寘わないみたいなことを耳にするけど、やっぱあの態度って、そういったことが原因なのかね。",
     ""),
     # I often hear people from the 'Ko's people fundamentally hear that the Nogata Ri from Kanto's East are not engaging in their skin, but I wonder if that's the reason behind his attitude.
 
-    ("い竄や、単ヲ純に個人の性格の竄問阮題か…。†",
+    ("いや、単ヲ純に個人の性格の問題か…。†",
     ""),
     # It's a question of tampering, or a simple question of the individual's personality...†
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # Reflection, regret.†
 
-    ("そんなこんなで、新しいク宴ラスの自己紹譓介煢もひととおり終了した。",
+    ("そんなこんなで、新しいクラスの自己紹譓介煢もひととおり終了した。",
     ""),
     # And so, the self-introduction and introduction to the new banquet has now been completed.
 
@@ -166,31 +166,31 @@ text_array = [
     ""),
     # The new homeroom teacher stood up and said,†
 
-    ("「諱よーし、諱取闔りあえず自己紹譓介煢も終尞わったし、氈次は、各ク宴ラス委員の選出をしたいと思う。まずは委員長をｌめて、あとはそいつに進行して烽もらおうと思う」",
+    ("「諱よーし、諱取闔りあえず自己紹譓介煢も終尞わったし、氈次は、各クラス委員の選出をしたいと思う。まずは委員長をｌめて、あとはそいつに進行して烽もらおうと思う」",
     ""),
     # "All right, I've finished my self-introduction and introductions, and I'd like to select each classmate. I'll start by making the chairperson, and then I'll proceed and get him to do it."
 
-    ("ということで、氈次はク宴ラスの委員長の選出をすることになった。†",
+    ("ということで、氈次はクラスの委員長の選出をすることになった。†",
     ""),
     # So, Hajime was elected as chairman of the Crown Rath.†
 
-    ("しかし、このク宴ラス委員の選出って竄やつ、＊度のことながら手間謚取骼るんだよな。",
+    ("しかし、このクラス委員の選出ってやつ、＊度のことながら手間謚取骼るんだよな。",
     ""),
     # However, this selection of committee members in the banquet is a pain to tamper with.
 
-    ("原因は自分から竄やりたいってрヤツがいないせいだが、ま、そり痰ゃ魔当然か。",
+    ("原因は自分からやりたいってрヤツがいないせいだが、ま、そり痰ゃ魔当然か。",
     ""),
     # The reason is that there's no one who wants to tamper with it on his own, but it's only natural that it's a phlegm.
 
-    ("ク宴ラス委員なんて、い墲わ艪ゆるただの雑用係だ烽もんな。",
+    ("クラス委員なんて、い墲わゆるただの雑用係だ烽もんな。",
     ""),
     # The Crowdrass committee member is just a casual, casual chore manager.
 
-    ("進んで竄やりたがるようなｊ特なрヤツなんぞいる墲わけがない。†",
+    ("進んでやりたがるようなｊ特なрヤツなんぞいる墲わけがない。†",
     ""),
     # There's no way there's anyone who's particularly peculiar to want to tamper with.†
 
-    ("かといって、他人をр推薦して凾嫌がる烽ものを押しつけ№合うの烽も唐遠慮したい。",
+    ("かといって、他人をр推薦して凾嫌がる烽ものを押しつけ№合うの烽も遠慮したい。",
     ""),
     # However, I would also like to refrain from recommending others and pushing them to the extent that they are reluctant to meet them.
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # When Professor Kirin Michi said this, all of them screamed in a frustration.
 
-    ("生徒は全泊部で４０人ち蛯ょい。",
+    ("生徒は全泊部で４０人ちょい。",
     ""),
     # There are 40 students from all over the club.
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # If there is about a 40th chance that Juno Jun will be appointed as chairman, this is no longer a trout.†
 
-    ("ク宴ラスヲの生徒（オ激レ含む）がブーイングを飛ばすと、木林センセは苦笑し、增わかった墲わかった、と言った。",
+    ("クラスヲの生徒（オレ含む）がブーイングを飛ばすと、木林センセは苦笑し、わかった墲わかった、と言った。",
     ""),
     # When a student at Kuban Rasou (including me) booed, Kibayashi-sensei smiled wryly and said, "I understand."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # Voices like, "You should do it, you should do it, and the classroom gifts suddenly start making a fuss about the pure technique and pure Wa.†
 
-    ("オ激レはオ激レで≠メｃモ帳を開いてシャャーペンで嘯字を曹書き桙込み、それを破って丸めて、あかりに鰍投げた。",
+    ("オレはオレで≠メｃモ帳を開いてシャャーペンで嘯字を曹書き桙込み、それを破って丸めて、あかりに鰍投げた。",
     ""),
     # I opened my ≠Mec Mo Book, wrote a singa character with a shahpen, broke it, rolled it up, and threw it on, and threw a chrysanthemum at Akari.
 
@@ -258,11 +258,11 @@ text_array = [
     ""),
     # As soon as I open the ℃ and see r, the surface feelings change.
 
-    ("『お前をр推薦して竄やｂーか？』と曹書いてある。",
+    ("『お前をр推薦してやーか？』と曹書いてある。",
     ""),
     # "Are you tampering with me?"It says Cao.
 
-    ("あかりは慌ててこっちをｌき、『竅やめて、竅やめて』と手を振った。†",
+    ("あかりは慌ててこっちをｌき、『やめて、やめて』と手を振った。†",
     ""),
     # Akari hurriedly leapt over me and waved, "Stop it, stop it."†
 
@@ -274,11 +274,11 @@ text_array = [
     ""),
     # "No, no, I, that kind of thing is absolutely incomprehensible."
 
-    ("「オ激レ、п推薦しよっかなー」",
+    ("「オレ、п推薦しよっかなー」",
     ""),
     # "I'm terribly recommend it."
 
-    ("「お願い、竅やめて、ち痰ゃん」",
+    ("「お願い、やめて、ち痰ゃん」",
     ""),
     # "Please, stop it, sphin' ya."
 
@@ -290,11 +290,11 @@ text_array = [
     ""),
     # It's a long time, so it's possible to warm up the artwork like this.†
 
-    ("だがそれに関しては、結局あかりのрヤツがマジで凾嫌がるので、し蛯ょうがなく竄やめて竄やることにした。",
+    ("だがそれに関しては、結局あかりのрヤツがマジで凾嫌がるので、しょうがなくやめてやることにした。",
     ""),
     # However, in the end, Akari's guy really didn't want to be so he decided to stop tampering with him and do it.
 
-    ("ただでさえ存在感ないんだから、たまにはこういうとこｂで目立ったらどうかと烽も思うがね。",
+    ("ただでさえ存在感ないんだから、たまにはこういうとこで目立ったらどうかと烽も思うがね。",
     ""),
     # It already has no presence, so I'm also thinking that it might be a good idea to stand out in a place like this once in a while.
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("これはつまり、オ激レの知ってる範囲には、п推薦すべき人間がいないってことか。†",
+    ("これはつまり、オレの知ってる範囲には、п推薦すべき人間がいないってことか。†",
     ""),
     # This means that within my knowledge there is no one to recommend.†
 
@@ -350,11 +350,11 @@ text_array = [
     ""),
     # However, it's also a shitty thing.
 
-    ("目を№合寘わせないようにうつむく生徒たちを、木林譌先生は艪ゆっくりと見渡した。†",
+    ("目を№合寘わせないようにうつむく生徒たちを、木林譌先生はゆっくりと見渡した。†",
     ""),
     # Professor Kirin Yu looked over at the students who looked down to prevent them from squealing their eyes.†
 
-    ("「し蛯ょうがないな。それじ痰ゃ、諱先生が勝闖手にｌめるぞ〜。文蝠句ないな〜？」",
+    ("「しょうがないな。それじ痰ゃ、諱先生が勝闖手にｌめるぞ〜。文蝠句ないな〜？」",
     ""),
     # "There's no slut. That's it, the teacher of the Ikusoku will be able to win the ball. There's no silence, right?"
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # When I looked over, it was one of the girls who had just looked at Hoshina and quivered about it.†
 
-    ("「保科さんは、氏去年熹もＣ組で委員長を竄やってたから、適任だと思いまーす」",
+    ("「保科さんは、氏去年熹もＣ組で委員長をやってたから、適任だと思いまーす」",
     ""),
     # "I think Hoshina-san is the right person to do the class C because Mr. Kei also tampered with the chairman last year.
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "Hoshina-san is serious and has a strong sense of responsibility, and I think he's the perfect person to be honest."
 
-    ("一箞方、言甯われたほうの保科は、さぞ竄や迷惑そうな顔をしてるだｂうと思いき竄や、まるで他人鱒事みたいに涼しい顔をしている。",
+    ("一箞方、言甯われたほうの保科は、さぞや迷惑そうな顔をしてるだうと思いきや、まるで他人鱒事みたいに涼しい顔をしている。",
     ""),
     # On the other hand, Hoshina, who was the one who was told to be a nuisance, seemed to be a bit of a trout, but she looked cool as if torn off.
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # There's no way I can't hear you...†
 
-    ("「どうだ、保科？	お前にр推薦があったけど、竅やってみないか？」",
+    ("「どうだ、保科？	お前にр推薦があったけど、やってみないか？」",
     ""),
     # "What do you think, Hoshina? You've got a recommendation, why don't you give it a try?"
 
@@ -414,11 +414,11 @@ text_array = [
     ""),
     # When Professor Kibayashi asked, Hoshina quickly lifted her face and stood up from her chair.†
 
-    ("「そこの三人のр推薦人が、どうして烽も…って言うの竄やったら、べつに竄やって烽も構いませんけど」",
+    ("「そこの三人のр推薦人が、どうして烽も…って言うのやったら、べつにやって烽も構いませんけど」",
     ""),
     # "If the three recommended people there tamper with saying, "Why are you too?", it's okay to tamper with it and then try to tamper with it."
 
-    ("関西イントネーシ㏍ョンの敬鼬語でそう言うと、保科は撃レンズ越しの竄冷たい目を三人の翌女生徒にｌけた。",
+    ("関西イントネーションの敬鼬語でそう言うと、保科は撃レンズ越しの冷たい目を三人の翌女生徒にｌけた。",
     ""),
     # When I said this in the Kansai Intona Shijing, Hoshina gave the cold eyes through the lens of the three female students the following female students.
 
@@ -434,7 +434,7 @@ text_array = [
     ""),
     # Hmm, it's cool.†
 
-    ("「どうだ、そこの三人？	お前たちがぜひにって言うんなら、保科煢も竄やってくれるそうだぞ？」",
+    ("「どうだ、そこの三人？	お前たちがぜひにって言うんなら、保科煢もやってくれるそうだぞ？」",
     ""),
     # "What do you think, the three of them there? If you guys are saying that, then Hoshina Hane will tamper with it too, right?"
 
@@ -462,7 +462,7 @@ text_array = [
     ""),
     # "That's what it is, Hoshina.
 
-    ("よし、じ痰ゃ、お前が委員長を竄やれ。",
+    ("よし、じ痰ゃ、お前が委員長をやれ。",
     ""),
     # Okay, sputum, you should tamper with the chairman.
 
@@ -486,23 +486,23 @@ text_array = [
     ""),
     # After that, Hoshina proceeded extremely efficiently, and he was able to do the other committee members and the attackers who were tasked with sweeping and removing the cards, and was very skilled at making the attackers.
 
-    ("生徒の司脂によるホーム泣ルームが、こんなスムーズに流齬れるなんて異瘉例のことだ。†",
+    ("生徒の司脂によるホームルームが、こんなスムーズに流齬れるなんて異瘉例のことだ。†",
     ""),
     # It's a strange case that the home crying room caused by students' fat is in such a smooth conflict.†
 
-    ("昨年熹もク宴ラス委員長を竄やってたというだけあって、たしかに要領がいい。",
+    ("昨年熹もクラス委員長をやってたというだけあって、たしかに要領がいい。",
     ""),
     # Last year, Kei also tampered with the chairman of the Clans, so it's certainly good to know what to do.
 
-    ("だが、それ以繹上に、保科が発する威圧的な空気が教室賜の無駄羡口を減迪らし、滞闡りなくホーム泣ルームを進行させた。",
+    ("だが、それ以繹上に、保科が発する威圧的な空気が教室賜の無駄羡口を減迪らし、滞闡りなくホームルームを進行させた。",
     ""),
     # However, from then on, the intimidating atmosphere that Hoshina exuded reduced the waste of classrooms, causing the home crying room to proceed without a hitch.
 
-    ("彼濫女が揩持ち前のクールボイスで揩喋髓ると、教室賜に緊張感が魔走闡り、それまでの魔喧寥騒がウソのようにピタ潟リと止むのだ。†",
+    ("彼濫女が揩持ち前のクールボイスで揩喋髓ると、教室賜に緊張感が魔走闡り、それまでの魔喧寥騒がウソのようにピタリと止むのだ。†",
     ""),
     # When the girl speaks with her natural cool voice, tension erupts around the classroom, and the previous magical throbbing halts like a lie.†
 
-    ("で、結局なんだかんだで、その桙時間は予阯定以繹上に空き桙時間ができた。",
+    ("で、結局なんだかんだで、その桙時間は予定以繹上に空き桙時間ができた。",
     ""),
     # In the end, no matter what, the free time was available after the scheduled time.
 
@@ -510,24 +510,24 @@ text_array = [
     ""),
     # At this time, I ended up putting up a seat with a tingly slurping effect, and the seats were changed.
 
-    ("席がｌまり、ふと気がつけば、なんとオ激レの隣には保科が座っていた。†",
+    ("席がｌまり、ふと気がつけば、なんとオレの隣には保科が座っていた。†",
     ""),
     # The seats were up, and before I knew it, Hoshina was sitting next to me.†
 
-    ("「諱よっ、いいんち蛯ょー」",
+    ("「諱よっ、いいんちょー」",
     ""),
     # "As you, my name is, slut."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「お隣さんだな。しばらくよｂしくたのむぜ」",
+    ("「お隣さんだな。しばらくよしくたのむぜ」",
     ""),
     # "You're your neighbor. I'll ask you for a while."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("委員長はなに烽も言甯わず、そっぽをｌく。†",

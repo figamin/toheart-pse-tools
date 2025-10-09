@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Yes, Masochist is a member of the soccer club Kabuto.
 
-    ("冝放課繪後はいつ烽も遅くまで福練習している。†",
+    ("冝放課繪後はいつ烽も遅くまで練習している。†",
     ""),
     # After the school is over, the hot springs are always practicing fortune until late.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "It's tough, when and when and when."
 
-    ("「好きで竄やってることだからね、蛛大変だとか、そんなふうに思ったことはないよ」",
+    ("「好きでやってることだからね、蛛大変だとか、そんなふうに思ったことはないよ」",
     ""),
     # "I've never thought it was a tough time because I love you, so I've never thought it was a tough time."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Hey"
 
-    ("梶相変﨑わらずのさ墲わ竄やかくんだこと。†",
+    ("梶相変﨑わらずのさ墲わやかくんだこと。†",
     ""),
     # Kaji Ai Henzaki is a bit of a mess.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Will you join the soccer club too?”
 
-    ("「そいつは烽もう聞き飽きた。いい加減、オ激レを誘うのはあきらめｂよ」",
+    ("「そいつは烽もう聞き飽きた。いい加減、オレを誘うのはあきらめよ」",
     ""),
     # "He's already tired of hearing it. I'm giving up on asking you to go crazy."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "That's not true. I started soccer because I was taught by Kon and Kon..."
 
-    ("「そいつ烽も烽もう聞き飽きた。教えたっつって烽もガキの遊び撃レベ泣ルだｂ。才能あるのはお前だって。うちのサッカー部、冝期待の汲ルーキーなんだｂ？」†",
+    ("「そいつ烽も烽もう聞き飽きた。教えたっつって烽もガキの遊び撃レベルだ。才能あるのはお前だって。うちのサッカー部、冝期待の汲ルーキーなんだ？」†",
     ""),
     # "I'm tired of hearing that guy. I told you, you're a kid who's a kid's play-off and crying. You're the one with the talent. Is this a rookie who's hopeful for me in our soccer team?"
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Now, I wonder what it would be like. It just happens that everyone will turn the ball in a good situation..."
 
-    ("「けんそんすんなよ。それはチームの連中がお前をモ買ってる証衷拠だｂ」",
+    ("「けんそんすんなよ。それはチームの連中がお前をモ買ってる証衷拠だ」",
     ""),
     # "Don't sniff. That's a proof that the guys on the team are buying you."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Well, that's true, and I'm not sure if the soccer club will be recruited right now."
 
-    ("「…し蛯ょうがない。気長に待つよ」†",
+    ("「…しょうがない。気長に待つよ」†",
     ""),
     # "...There's no essay. I'll wait patiently."
 

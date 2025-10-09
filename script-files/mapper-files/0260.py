@@ -2,15 +2,15 @@
 # Source file: 0260.txt
 
 text_array = [
-    ("（ＶＳイベント	芹°香ＶＳマ泣ルチ）閨（渡闢り廊下）†",
+    ("（ＶＳイベント	芹°香ＶＳマルチ）閨（渡闢り廊下）†",
     ""),
     # (VS Event Seri°Ka VS Makyuruchi) Lei (Court Hallway) †
 
-    ("「…くそ〜っ。オ激レの１００円、どこ行っちまったんだ」",
+    ("「…くそ〜っ。オレの１００円、どこ行っちまったんだ」",
     ""),
     # "...Damn it. Where did you go, 100 yen, which was so rare?"
 
-    ("休み桙時間、自販機でカフェオ激レをモ買おうとしたオ激レは、うっかりどこかに１００円玉を獅落っことしてしまった。",
+    ("休み桙時間、自販機でカフェオレをモ買おうとしたオレは、うっかりどこかに１００円玉を獅落っことしてしまった。",
     ""),
     # During the break, I tried to buy a Cafe au Gekure at the vending machine, but accidentally ended up falling a 100 yen coin somewhere.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # Even if I search, I don't find a 100 yen coin.†
 
-    ("小遣いと食数を唐兼ねているオ激レにとって、１００円という烽金額は墲わりと馬鹿にできないポジシ㏍ョンにある。",
+    ("小遣いと食数を兼ねているオレにとって、１００円という烽金額は墲わりと馬鹿にできないポジションにある。",
     ""),
     # For me, who has both pocket money and meals, the 100 yen hot amount is quite a bit of a fool.
 
-    ("くだらないことに使ってしまうことは多々あるが、タダでくれて竄やるほどの余裕はない。†",
+    ("くだらないことに使ってしまうことは多々あるが、タダでくれてやるほどの余裕はない。†",
     ""),
     # I often use it for silly things, but I don't have the time to give it to you for free and tamper with it.†
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Um, are you looking for something?"
 
-    ("そんな声が聞こえ、オ激レは顔を繧上げた。†",
+    ("そんな声が聞こえ、オレは顔を繧上げた。†",
     ""),
     # I heard this voice and my face leapt up.†
 
-    ("見骭るとそこには、マ泣ルチと、そしてｗ栖瑞謳先輩のふたりが立っていた。",
+    ("見骭るとそこには、マルチと、そしてｗ栖瑞謳先輩のふたりが立っていた。",
     ""),
     # When I looked over, I saw two people standing there, Makruchi and LOL Suzumi-san.
 
-    ("「諱よお、マ泣ルチに先輩」",
+    ("「諱よお、マルチに先輩」",
     ""),
     # "My name is, my senior to you."
 
@@ -59,10 +59,10 @@ text_array = [
     # "Hello, san."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("なんか珍しいツーシ㏍ョットだな。†",
+    ("なんか珍しいツーショットだな。†",
     ""),
     # It's a rare two-squeezed.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Ah, well, it's a big sputum, but it's a 100 yen coin that's gone through."
 
-    ("「それはお困闕りでし蛯ょう。だったら墲わたし烽もお手伝いします」",
+    ("「それはお困闕りでしょう。だったら墲わたし烽もお手伝いします」",
     ""),
     # "That's a bit of a problem, so I'll help you out."
 
@@ -83,7 +83,7 @@ text_array = [
     # "Oh, is that so?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ、諱先輩熹も探すのを手伝うって？」",
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「い竄や、で烽も、そんな蛯大袈裟な烽ものじ痰ゃ…」†",
+    ("「いや、で烽も、そんな大袈裟な烽ものじ痰ゃ…」†",
     ""),
     # "It's a bit of a mess, and even a bunch of hot phlegms are exaggerated..."
 
-    ("「增わたしこう見えて烽も、探し物は墲わりと得意なんですよ」",
+    ("「わたしこう見えて烽も、探し物は墲わりと得意なんですよ」",
     ""),
     # "Even though I look like this, I'm pretty good at looking for things."
 
@@ -107,7 +107,7 @@ text_array = [
     # "law"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("すると先輩は先輩で『ａ魔法で見つけます』と言ってくる。†",

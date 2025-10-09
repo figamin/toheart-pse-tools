@@ -2,7 +2,7 @@
 # Source file: 04F3.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（４／２３固闌定）閨（アーケード街）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（４／２３固定）閨（アーケード街）†",
     ""),
     # (Shiho Scales Event PS) (4/23rd) (Arcade Street) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # It's Shiho.
 
-    ("どう竄やら、ひとりらしいな…。",
+    ("どうやら、ひとりらしいな…。",
     ""),
     # Apparently he's a selfish guy...
 

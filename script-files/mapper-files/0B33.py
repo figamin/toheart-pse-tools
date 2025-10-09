@@ -14,11 +14,11 @@ text_array = [
     ""),
     # You can see Aya∴Ka's attack and m attack.†
 
-    ("いままでは目で追うのが竄やっとだった綾∴香の攻ｍ撃煬も、こうしてみると、ひとつの流齬れであることが墲わかる。",
+    ("いままでは目で追うのがやっとだった綾∴香の攻ｍ撃煬も、こうしてみると、ひとつの流齬れであることが墲わかる。",
     ""),
     # Until now, Aya∴Kawa's attack and M-shot, which had only been difficult to follow with his eyes, can be seen as a contradiction.
 
-    ("優位な位置に移動し、フェイントを混ぜ、有効なコンビネーシ㏍ョンを打ってくる。",
+    ("優位な位置に移動し、フェイントを混ぜ、有効なコンビネーションを打ってくる。",
     ""),
     # Move to the superior position, mix feints, and hit an effective combination.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # It's really good.
 
-    ("いまのオ激レには、とて烽も真乱似できない。†",
+    ("いまのオレには、とて烽も真乱似できない。†",
     ""),
     # I can't even look like a real wilderness in my current days.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # He deliberately launches risky attacks and M-fires and takes unnecessary adventures.
 
-    ("梶相闡手への挑発なのか、自分をｂ高めるために必要な行動なのか、それは墲わからない。",
+    ("梶相闡手への挑発なのか、自分を高めるために必要な行動なのか、それは墲わからない。",
     ""),
     # I don't know if it's a provocation to Kaji Sensei or whether it is an action necessary to improve myself.
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # That's the point of the anti-T attack.
 
-    ("あとは、オ激レ自身のテクニックが、ついてこれるかどうかだ。",
+    ("あとは、オレ自身のテクニックが、ついてこれるかどうかだ。",
     ""),
     # The rest is whether I can follow my own techniques.
 
-    ("今厓日のオ激レは、自分で烽も不思議なくらいに竄冷静だった。†",
+    ("今厓日のオレは、自分で烽も不思議なくらいに冷静だった。†",
     ""),
     # On the day I was on the verge of fire, I was so calm that I could even tamper with it.†
 

@@ -2,23 +2,23 @@
 # Source file: 0662.txt
 
 text_array = [
-    ("（ＶＳイベント	マ泣ルチＶＳ撃レミィ）閨（戟レミィに竄やる）†",
+    ("（ＶＳイベント	マルチＶＳ撃レミィ）閨（戟レミィにやる）†",
     ""),
     # (VS Event Makkuruchi VS Geki Remi) (I'll tamper with Remi) †
 
-    ("諱よし、戟レミィに竄やｂう。",
+    ("諱よし、戟レミィにやう。",
     ""),
     # Okay, I'm going to tamper with Hajime.
 
-    ("あいつは変に冾日本文化にかぶれたとこｂがあるからな。",
+    ("あいつは変に冾日本文化にかぶれたとこがあるからな。",
     ""),
     # That guy has been strangely obsessed with Japanese culture.
 
-    ("きっとこういうのはｊぶだｂう。†",
+    ("きっとこういうのはｊぶだう。†",
     ""),
     # I'm sure this kind of thing is a j-b.†
 
-    ("オ激レは撃レミィのいる２−Ｃへと竄やってきた。",
+    ("オレは撃レミィのいる２−Ｃへとやってきた。",
     ""),
     # I came to the 2-C where Ekire Remy was.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Hey, huh Remie."
 
-    ("％闢り福口から呼ぶと、",
+    ("％闢り口から呼ぶと、",
     ""),
     # When you call from Fukuguchi,
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ah,!"
 
-    ("戟レミィはすぐに気づいてｋけ寄ってきた。†",
+    ("戟レミィはすぐに気づいて駆け寄ってきた。†",
     ""),
     # Karemi immediately noticed and came up with me.†
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "what,?"
 
-    ("「諱よお、いい物笊やｂうか？」",
+    ("「諱よお、いい物笊やうか？」",
     ""),
     # "My name is, can you have a good thing or something?"
 
-    ("「うん、ち蛯ょーだい！」",
+    ("「うん、ちょーだい！」",
     ""),
     # "Yeah, it's a slut!"
 
-    ("「…ち蛯ょーだいってな。",
+    ("「…ちょーだいってな。",
     ""),
     # "...It's a lie.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Oh, you have to say something nice to you.
 
-    ("よし、じ痰ゃあ、竅やｂう」",
+    ("よし、じ痰ゃあ、やう」",
     ""),
     # Okay, phlegm, slut, b."
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "This guy."
 
-    ("オ激レはポケットから痰例のお守闔りを取闔り出して見せた。†",
+    ("オレはポケットから痰例のお守闔りを取闔り出して見せた。†",
     ""),
     # My geira showed me a talisman from my pocket.†
 
-    ("「Ｏｂ！	Ｊ≠ａ垂ｐ≠ａ獅ｎｂ唐入ｂ	＝ａ高ｍ浮ｕ撃ｌｂｔ！	お守闔りネ！」",
+    ("「Ｏ！	Ｊ≠ａ垂ｐ≠ａ獅ｎ入	＝ａ高ｍ浮ｕ撃ｌｔ！	お守闔りネ！」",
     ""),
     # "Ob! Latarp≠a lion Tangular B =A high m floating u attack! Please give me a charm!"
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "I'm so happy!"
 
-    ("「こいつはｖ恂除けのお守闔りといってな、いｂいｂな災酷から揩持ち蛯主を守ってくれるという、ありがたいシ鴻ロｃモンだ」",
+    ("「こいつはｖ恂除けのお守闔りといってな、いいな災酷から揩持ち主を守ってくれるという、ありがたいシ鴻ロｃモンだ」",
     ""),
     # "This guy is a great amulet to protect his lieutenant from bad disasters."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Amazing Death!"
 
-    ("まあ、詳しいことはオ激レ焜もよく知迺らないが、そういうｂモンだｂ。†",
+    ("まあ、詳しいことはオレ焜もよく知迺らないが、そういうモンだ。†",
     ""),
     # Well, I don't know much about the details, but that's the kind of b-mon.†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "She's phlegm, come on."
 
-    ("「Ｔｂ≠ａ獅ｎ汲ｋ	凵ｙ盾ｏ浮ｕ！」",
+    ("「Ｔ≠ａ獅ｎ汲駆	凵ｙ盾ｏ浮ｕ！」",
     ""),
     # "Tb≠a lion, ye shield o float!"
 
@@ -146,15 +146,15 @@ text_array = [
     ""),
     # "Is it not that bad? Is it Shinto? If so, then would you worship me two times?"
 
-    ("「い竄や、オ激レ焜も詳しいことは知迺らないけど…」",
+    ("「いや、オレ焜も詳しいことは知迺らないけど…」",
     ""),
     # "I don't know much about the details of my slut, but..."
 
-    ("戟レミィの竄やつ、梶相変﨑わらず変な知識だけは一嚠丁前なんだよな。†",
+    ("戟レミィのやつ、梶相変﨑わらず変な知識だけは一嚠丁前なんだよな。†",
     ""),
     # The tampering with Kaji Ai, the strange knowledge is unbearable.†
 
-    ("「まあ、そういうのは揩持ってるだけで艪御圏益がある烽もんだ」",
+    ("「まあ、そういうのは揩持ってるだけで御圏益がある烽もんだ」",
     ""),
     # "Well, that kind of thing is just something you can benefit from, even if you have one."
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "=normal"
 
-    ("「じ痰ゃあ、もうすでに艪御圏益バッチ潟リね！」",
+    ("「じ痰ゃあ、もうすでに御圏益バッチリね！」",
     ""),
     # "You're already getting enough of the benefits of the siege!"
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "ah"†
 
-    ("「ね。これって、どのくらいのＰ盾ｏ翌ｗｂ窒ｒがあるのかな？」",
+    ("「ね。これって、どのくらいのＰ盾ｏ翌ｗ窒ｒがあるのかな？」",
     ""),
     # "Look. I wonder how many NNs there will be this one after the next?
 
@@ -187,11 +187,11 @@ text_array = [
     # "Pure? Now, are you not slanderous enough to slander?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "I'll say it, but I hope you'll try the effects without any effort."
 
-    ("「えっ！？	…ウ、ウン、增わかった」",
+    ("「えっ！？	…ウ、ウン、わかった」",
     ""),
     # "What?! ...Woo, uh, uh, I understand."
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # Although this was said in the story, Ekiremi seemed somewhat disappointed.
 
-    ("さては、竅やるつ烽もりだったな。◯",
+    ("さては、やるつ烽もりだったな。◯",
     ""),
     # Well, it was a hot spring.◯
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # 4/18 (Fri)†
 
-    ("本坙日の全過程、諱よう竄やく終了。",
+    ("本坙日の全過程、諱ようやく終了。",
     ""),
     # The entire process of the main day is finished.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # However, once it's finally finished, it's strange that the fatigue that had just been gone just now disappears like a lie.
 
-    ("張闥り切ってアフタースクールをエンジ㏍ョイしよう。†",
+    ("張闥り切ってアフタースクールをエンジョイしよう。†",
     ""),
     # Let's go through the after school and start working on the after school.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # It seems there's no one who knows.†
 
-    ("階段の下には生徒悼の艪御意見箱がある。",
+    ("階段の下には生徒悼の御意見箱がある。",
     ""),
     # Below the stairs is a box of comments to commemorate students.
 
-    ("諱よし、一般生徒の貴重な意見を入齠れといて竄やｂう。",
+    ("諱よし、一般生徒の貴重な意見を入齠れといてやう。",
     ""),
     # Okay, I'm going to send in valuable opinions from ordinary students and give them a try.
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # As expected, when the Fridays and hot springs start to grow, the fatigue of a week has been piled up.
 
-    ("こんな、なに烽もしてないオ激レでさえ疲齡れるんだ。",
+    ("こんな、なに烽もしてないオレでさえ疲齡れるんだ。",
     ""),
     # Even my hardcore, such as this, can get tired.
 
-    ("朝羽練とか竄やってるｉ史は、蛛大変だな。",
+    ("朝羽練とかやってるｉ史は、蛛大変だな。",
     ""),
     # I'm a history of doing morning wings and tampering is tough.
 
-    ("などと考えながら、眠阮りに獅落ちていく。◯",
+    ("などと考えながら、眠りに獅落ちていく。◯",
     ""),
     # Thinking about this, I lay down in my sleep.◯
 

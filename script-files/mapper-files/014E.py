@@ -2,7 +2,7 @@
 # Source file: 014E.txt
 
 text_array = [
-    ("（あかり	好感度イベント６）閨（好感度が	６６以繹上	のとき）閨（このイベントは６．１と同じ冾日に）閨（４獅月２８冾日限闌定）閨（朝イベントと差し替え）†",
+    ("（あかり	好感度イベント６）閨（好感度が	６６以繹上	のとき）閨（このイベントは６．１と同じ冾日に）閨（４獅月２８冾日限定）閨（朝イベントと差し替え）†",
     ""),
     # (Akari Likeability Event 6) (When Likeability is above 66) (This event is the same day as 6.1) (April 28th day limit) (Substitute for morning event) †
 
@@ -31,26 +31,26 @@ text_array = [
     # "I'm going" †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("その冾日、なぜか、あかりはｗなかった。",
     ""),
     # For some reason, there was no light on that day.
 
-    ("寝坊ってことはないだｂうし、さては翌風邪で烽もひき竄やがったか。",
+    ("寝坊ってことはないだうし、さては翌風邪で烽もひきやがったか。",
     ""),
     # It's not like he overslept, and now he's been hit with the cold the next day.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("いつ烽も側にいるрヤツがいないと、なんだか妙に竄寂しく感じる。†",
+    ("いつ烽も側にいるрヤツがいないと、なんだか妙に寂しく感じる。†",
     ""),
     # Whenever there's no one around, it feels strangely lonely.†
 
-    ("ホーム泣ルームが終尞わった繧後、オ激レは担任の先生を呼び止めて聞いた。",
+    ("ホームルームが終尞わった繧後、オレは担任の先生を呼び止めて聞いた。",
     ""),
     # After the Home Crying Room was over, I called out to my homeroom teacher to ask.
 
@@ -70,15 +70,15 @@ text_array = [
     ""),
     # "It looks like there was a connection between the hips just now."
 
-    ("そうか、竅やっぱ翌風邪か。",
+    ("そうか、やっぱ翌風邪か。",
     ""),
     # I see, it's probably the next cold after all.
 
-    ("そうい竄や、浴風邪気味だって言ってたな。",
+    ("そういや、浴風邪気味だって言ってたな。",
     ""),
     # He said he was duped and thought he was about to have a cold bath.
 
-    ("…ったく、し蛯ょうがねーな。†",
+    ("…ったく、しょうがねーな。†",
     ""),
     # ...I'm not sure if there's anything wrong with it.†
 

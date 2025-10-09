@@ -10,11 +10,11 @@ text_array = [
     ""),
     # (Carrior 1)†
 
-    ("ふう、諱よう竄やく今厓日燗も一勛日終尞わったか。",
+    ("ふう、諱ようやく今厓日燗も一勛日終尞わったか。",
     ""),
     # Hmm, the sun has just ended up being a day.
 
-    ("オ激レは教室を出髀るなり、蛛大きく伸びをした。",
+    ("オレは教室を出髀るなり、蛛大きく伸びをした。",
     ""),
     # As soon as I left the classroom, my husband grew significantly.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Well. What about you?"
 
-    ("「п私燻もいま帰驪るとこ。ち蛯ょうど教室を出たら、ち痰ゃんが出てくるのが見えたから。ね、せっかくだし、いっし蛯ょに帰汲う？」",
+    ("「п私燻もいま帰驪るとこ。ちょうど教室を出たら、ち痰ゃんが出てくるのが見えたから。ね、せっかくだし、いっしょに帰汲う？」",
     ""),
     # "I'm going back to my house now. When I left the Chieyodo class, I saw a symptom-chan coming out. Hey, since we're going to do it, will we all return to the Chieyo?"
 
-    ("あかりといっし蛯ょにか。†",
+    ("あかりといっしょにか。†",
     ""),
     # Is it like Akari and Issue?†
 

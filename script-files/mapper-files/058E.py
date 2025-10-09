@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "No flattering phlegm."
 
-    ("「じ痰ゃあ、オ激レって意外と見梃込みある？」",
+    ("「じ痰ゃあ、オレって意外と見梃込みある？」",
     ""),
     # "Ah, phlegm, is there a surprising amount of ratings on my intense trait?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ahhh phlegm!"
 
-    ("「諱先輩なら、きっとすぐр私に追いつけますよ。しっかり薰基礎ト激レーニングを積んで、筋力とスタミナをアップさせれば、間瘧違いなく強くなると思います！」",
+    ("「諱先輩なら、きっとすぐр私に追いつけますよ。しっかり薰基礎トレーニングを積んで、筋力とスタミナをアップさせれば、間瘧違いなく強くなると思います！」",
     ""),
     # "If you're a senior in your life, you'll probably be able to catch up with me right away. If you gain strong basic training and improve your strength and stamina, you'll definitely get stronger!"
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Yes. That's what I'm feeling!"
 
-    ("「いっし蛯ょに頑張窒うぜ！」",
+    ("「いっしょに頑張窒うぜ！」",
     ""),
     # "I'll do my best to you, too!"
 
-    ("「はい、諱頑張闥りまし蛯ょう！」◯",
+    ("「はい、諱頑張闥りましょう！」◯",
     ""),
     # "Yes, I'll do my best to celebrate this!" ◯
 

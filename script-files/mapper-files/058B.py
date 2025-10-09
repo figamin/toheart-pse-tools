@@ -6,19 +6,19 @@ text_array = [
     ""),
     # (Aoi Scales Event 4)†
 
-    ("諱よーし、ク宴ラブに行って福練習だ。",
+    ("諱よーし、クラブに行って練習だ。",
     ""),
     # Okay, I'm off to the banquet love and practice fortune.
 
-    ("今厓日からはオ激レ焜も参加するんだよな。†",
+    ("今厓日からはオレ焜も参加するんだよな。†",
     ""),
     # From now on, I'm also going to be participating.†
 
-    ("前回の約束どおり、その冾日からオ激レは実際に格闘技の福練習を始めることになった。",
+    ("前回の約束どおり、その冾日からオレは実際に格闘技の練習を始めることになった。",
     ""),
     # As promised last time, from that day onwards, I actually began practicing martial arts fortune.
 
-    ("指導するのは、もちｂん葵ち痰ゃんだ。",
+    ("指導するのは、もちん葵ち痰ゃんだ。",
     ""),
     # The person who teaches me is Mochibun Aoi Chishonan.
 
@@ -26,19 +26,19 @@ text_array = [
     ""),
     # On the day of the first day of training, I learned about the basics of the Scottish Technique and got a hot topic.†
 
-    ("いまでこそ、いｂいｂ混ぜ混ぜのオ潟リジナ泣ルスタイ泣ルの格闘技を竄やってる葵ち痰ゃんだが、幼い頃から習っていたという空闍手がその薰基本スタイ泣ルになっているという。†",
+    ("いまでこそ、いい混ぜ混ぜのオリジナルスタイルの格闘技をやってる葵ち痰ゃんだが、幼い頃から習っていたという空闍手がその薰基本スタイルになっているという。†",
     ""),
     # It's only now that Aoi Chisho-yan has been tampering with martial arts such as Ogata Rijina crying, which mixes mixed with b-boys, but it is said that Sora-chan, who he has been learning since he was a child, is basically the type of art that he has been practicing.†
 
-    ("葵ち痰ゃんは体操梠服に、オ激レはジャャージ姿にｒ替え、禔練習齒場へ。◯",
+    ("葵ち痰ゃんは体操梠服に、オレはジャャージ姿にｒ替え、禔練習齒場へ。◯",
     ""),
     # Aoi Chisho-yan changed into a gymnastics uniform, and my gei-le changed into a jayaji style, then headed to the training hall.◯
 
-    ("「いいですか。まずは正しい揩拳の握闊り福方から烽説明します」",
+    ("「いいですか。まずは正しい揩拳の握闊り方から烽説明します」",
     ""),
     # "Is that okay? First, I'll explain the correct way to the cleavage of the fist."
 
-    ("「掾拳の握闊り福方？」",
+    ("「掾拳の握闊り方？」",
     ""),
     # "Are you happy with the cleavage of the jeans?"
 
@@ -94,35 +94,35 @@ text_array = [
     ""),
     # It's a strain and hurts your wrist."
 
-    ("「增わかった」†",
+    ("「わかった」†",
     ""),
     # "I understand" †
 
-    ("その他に烽も、﨟基本の立ち福方笊や構え福方など、葵ち痰ゃんは自分の福練習そっちのけで、一から十まで、こと細かに指導してくれた。†",
+    ("その他に烽も、﨟基本の立ち方笊や構え方など、葵ち痰ゃんは自分の練習そっちのけで、一から十まで、こと細かに指導してくれた。†",
     ""),
     # In addition, Aoi Chisho-chan gave me detailed instructions from first to ten, including basic standing and stance.†
 
-    ("「縺上達への近道は、まずは薰基礎をしっかりと身につけることです。同じことを何度燗も何度燗も繰闌り返して、無駄のない効率のいい動きを体で覚えてください」",
+    ("「縺上達への近道は、まずは薰基礎をしっかりと身につけることです。同じことを何度燗も何度燗も繰り返して、無駄のない効率のいい動きを体で覚えてください」",
     ""),
     # "The shortest way to improving your skills is to first acquire the basics. Repeat the same thing over and over again, and learn the efficient movements of your body."
 
-    ("「何度燗も繰闌り返し…ね」†",
+    ("「何度燗も繰り返し…ね」†",
     ""),
     # "It's been repeated over and over again..."
 
-    ("「あの、﨟基礎羡練習をつまらないとは思寬わないでくださいね。熟繒練者で烽もいきつくとこｂは薰基礎羡練習なんです。",
+    ("「あの、﨟基礎羡練習をつまらないとは思寬わないでくださいね。熟繒練者で烽もいきつくとこは薰基礎羡練習なんです。",
     ""),
     # "Um, don't think that basic practice is boring. If you're a mature master and you're also very strict about the practice of basic practice, you're a basic practice.
 
-    ("基礎にこそ、いｂいｂと学ぶことがありますから」",
+    ("基礎にこそ、いいと学ぶことがありますから」",
     ""),
     # There is something to learn from the basics that you can learn from the best."
 
-    ("「增わかった」†",
+    ("「わかった」†",
     ""),
     # "I understand" †
 
-    ("｢｢裵基本の立ち福方と構え。",
+    ("｢｢裵基本の立ち方と構え。",
     ""),
     # "The basics of standing up and stance.
 
@@ -146,15 +146,15 @@ text_array = [
     ""),
     # £step thrust, thrust top thrust, thrust jaw hit...†
 
-    ("まさに超地味ぃ〜な福練習だった。",
+    ("まさに超地味ぃ〜な練習だった。",
     ""),
     # It was truly a very plain fortune practice.
 
-    ("本心を言うと、竅やっぱりオ激レ焜も、ビシバシサンドバッグを蹴ったり殴ったりするような派阡手な福練習がしたかった。",
+    ("本心を言うと、やっぱりオレ焜も、ビシバシサンドバッグを蹴ったり殴ったりするような派阡手な練習がしたかった。",
     ""),
     # To put it in truth, I really wanted to practice for a savvy good job, like kicking and punching a punching punching bag.
 
-    ("だが一箞方で、﨟基礎が烽もっと烽も蛯大切だという揩理雷煖も墲わかるのだ。",
+    ("だが一箞方で、﨟基礎が烽もっと烽も大切だという揩理雷煖も墲わかるのだ。",
     ""),
     # However, in a simple way, we can understand that the foundations are even more important to the thunderbolt.
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # Aoi Chishonanchon has been working hard to teach you all the time, so I'll follow you honestly and receive guidance here.Å
 
-    ("結局その冾日は、オ激レに薰基礎を教えるだけで、夕髣暮れを迎えてしまった。",
+    ("結局その冾日は、オレに薰基礎を教えるだけで、夕髣暮れを迎えてしまった。",
     ""),
     # In the end, I ended up teaching me the basics and finally finally came to an evening.
 
-    ("縺後片づけがすんで帰闍り支度が整ってから、葵ち痰ゃんが笑迴顔でオ激レに言ってきた。†",
+    ("縺後片づけがすんで帰闍り支度が整ってから、葵ち痰ゃんが笑迴顔でオレに言ってきた。†",
     ""),
     # After I finished tidying up, I went home and was ready, and Aoi Chisho-chan said to me with a laughing face.†
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「はい。体重移動シフトウエイトとか、力の抜き福方とか、諱よく墲わかってるっていうか」†",
+    ("「はい。体重移動シフトウエイトとか、力の抜き方とか、諱よく墲わかってるっていうか」†",
     ""),
     # "Yes. I think I know the weight shift weight and how to relieve strength and make you feel good."
 
-    ("「い竄やあ〜…」",
+    ("「いやあ〜…」",
     ""),
     # "Tsnatch..."
 
@@ -198,15 +198,15 @@ text_array = [
     ""),
     # I would be happy if you could praise Ho for your flattery.
 
-    ("照齒れながら、オ激レは言った。",
+    ("照齒れながら、オレは言った。",
     ""),
     # I said, shining on my face.
 
-    ("Ａ	だてに福練習を見てた墲わけじ痰ゃないぜ。閨",
+    ("Ａ	だてに練習を見てた墲わけじ痰ゃないぜ。閨",
     ""),
     # A: I've been watching lucky practice for a while now, so there's no reason to stop it.Relax
 
-    ("Ｂ	葵ち痰ゃんの教え福方がいいんだよ。閨",
+    ("Ｂ	葵ち痰ゃんの教え方がいいんだよ。閨",
     ""),
     # B: Aoi Chisho-chan's teachings are better.Relax
 

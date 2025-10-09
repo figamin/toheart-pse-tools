@@ -2,7 +2,7 @@
 # Source file: 0840.txt
 
 text_array = [
-    ("（戟レミィ	ノベ泣ルシーン）†",
+    ("（戟レミィ	ノベルシーン）†",
     ""),
     # (Great Remy Novel Crying Scene)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The fifth fence time is closed...
 
-    ("オ激レは、いつで烽も寝齔れる態勢でばったりと机にうつぶしている。",
+    ("オレは、いつで烽も寝齔れる態勢でばったりと机にうつぶしている。",
     ""),
     # I'm always on my desk, ready to sleep with my nose.
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # He's Shiho's guy.
 
-    ("オ激レ以外の連中はどこにそんな元気があるのか、ぞｂぞｂと志保の揩持ってきた薰情報を聞こうと集まっていく。†",
+    ("オレ以外の連中はどこにそんな元気があるのか、ぞぞと志保の揩持ってきた薰情報を聞こうと集まっていく。†",
     ""),
     # They gather together to find out where the other people outside of me are so energetic, and ask Shiho what kind of information he brings.†
 
-    ("志保のハイテンシ㏍ョンで勢いだけは一人前の前羡口繻上に、みんなは興味津々だ。",
+    ("志保のハイテンションで勢いだけは一人前の前羡口上に、みんなは興味津々だ。",
     ""),
     # Shiho's high-tension tranquility is the only thing that makes him a full-fledged student, and everyone is very interested.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # I like it.
 
-    ("連中、ひ蛯ょっとして始めから信用してなくて、トークだけを楽しんでるんじ痰ゃねーのか？",
+    ("連中、ひょっとして始めから信用してなくて、トークだけを楽しんでるんじ痰ゃねーのか？",
     ""),
     # The guys haven't trusted them from the beginning, so they're just enjoying the conversation, so don't they just have to stomp?
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # i guess so.†
 
-    ("氈勝闖手に聞こえてくる志保ち痰ゃん薰情報によると、戟レミィが急き蛯ょ帰窓国することになったそうだ。",
+    ("氈勝闖手に聞こえてくる志保ち痰ゃん薰情報によると、戟レミィが急きょ帰窓国することになったそうだ。",
     ""),
     # According to information on Shiho's smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug sm
 
-    ("戟レミィが帰窓国って…、まさか、ア＜メ潟リカに帰驪るのか？",
+    ("戟レミィが帰窓国って…、まさか、ア＜メリカに帰驪るのか？",
     ""),
     # Is Karemi a return to America?... Is it possible that he will return to America?
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "That's easy.
 
-    ("鈴だｂ」",
+    ("鈴だ」",
     ""),
     # It's a bell b."
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "A correct answer! Amazing!"
 
-    ("戟レミィは、目をキ宴ラキ宴ラさせながらオ激レを尊敬の痰眼差しで見つめている。",
+    ("戟レミィは、目をキラキラさせながらオレを尊敬の痰眼差しで見つめている。",
     ""),
     # Karemi looks at me with a respectful phlegm gaze, her eyes sparkling and banquetting.
 
-    ("「トーゼンだ。こんな竄問阮題、堰初熄歩の奄初熄歩だぜ」",
+    ("「トーゼンだ。こんな問題、堰初熄歩の奄初熄歩だぜ」",
     ""),
     # "It's Tozen. This is the first Amazement of the first mile of the weir."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Amazing, amazing."
 
-    ("「他に烽も出してみｂ。オ激レが解いて竄やるぜ」",
+    ("「他に烽も出してみ。オレが解いてやるぜ」",
     ""),
     # "I'll try to release another hot pot. I'll break it down and tamper with it."
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Yes! That's the phlegm ""†
 
-    ("その冾日の帰闍りは、戟レミィに竄問阮題を教えるのを忘齧れて、クイズ蜒大痩で終尞わってしまった。",
+    ("その冾日の帰闍りは、戟レミィに問題を教えるのを忘齧れて、クイズ蜒大痩で終尞わってしまった。",
     ""),
     # The return of that date of study was to forget about teaching the quiz question to Remy, and ended up being extremely thin.
 
-    ("正解率はけっこーａ高くて、正解するたびに彼濫女は感リ激のし通しだった。◯",
+    ("正解率はけっこーａ高くて、正解するたびに彼濫女は感リのし通しだった。◯",
     ""),
     # The correct answer rate was high, and every time he answered correctly, the girl was so moved that she was extremely moved.◯
 

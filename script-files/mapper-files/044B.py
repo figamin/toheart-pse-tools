@@ -2,7 +2,7 @@
 # Source file: 044B.txt
 
 text_array = [
-    ("（志保	好感度イベントＸ）閨（選択綜	１竄問目	宦○）閨（ＳＥ：ピンポンピンポーン）†",
+    ("（志保	好感度イベントＸ）閨（選択綜	１問目	宦○）閨（ＳＥ：ピンポンピンポーン）†",
     ""),
     # (Shiho Likeability Event X) (Select Sou 1st Temptation Question) (SE: Ping Pong Pong) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Ping Pong Pong!
 
-    ("「竅やりぃ！	こんなの楽汪勝だぜ」",
+    ("「やりぃ！	こんなの楽汪勝だぜ」",
     ""),
     # "Don't do it! This is a great victory."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Hmmm..."
 
-    ("『氈次の竄問阮題。",
+    ("『氈次の問題。",
     ""),
     # "The following is a question of the tampering issue.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # C. The North Pole.Relax
 
-    ("Ｄ	現在熏も艪謎。閨",
+    ("Ｄ	現在熏も謎。閨",
     ""),
     # D Currently, the yeah is also a mystery.Relax
 

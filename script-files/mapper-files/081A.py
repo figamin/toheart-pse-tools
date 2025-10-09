@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (There is a theory that the Agricultural Center Exclusion Event 1: The Arcade Exclusion)†
 
-    ("オ激レは撃レミィに急かされて、ゲーセンに入った。†",
+    ("オレは撃レミィに急かされて、ゲーセンに入った。†",
     ""),
     # I was rushed by Ekire Remy and entered the arcade.†
 
@@ -14,19 +14,19 @@ text_array = [
     ""),
     # This arcade is the largest in this area, and there are quite a few game consoles installed inside the store in Jun Wangfu Hongloa.
 
-    ("％闢り福口付近には、プ宴ライズマシーン窿やネコプ潟リントが置かれている。†",
+    ("％闢り口付近には、プライズマシーン窿やネコプリントが置かれている。†",
     ""),
     # Near % Fukuguchi, there are Pen Rise Machinery and Nekoprata Lint.†
 
-    ("瘁例によってネコプ潟リントは、浴女子校生軍団に占領されていた。",
+    ("瘁例によってネコプリントは、浴女子校生軍団に占領されていた。",
     ""),
     # As usual, Nekopgata Lint was occupied by a group of school girls.
 
-    ("…空いてきたら、戟レミィといっし蛯ょに撮ってみよう。†",
+    ("…空いてきたら、戟レミィといっしょに撮ってみよう。†",
     ""),
     # ...When the space opens, I'll take a picture with Ebi with the help of the slut.†
 
-    ("で、店の怩奥は壁負いに蛯大型梃筐体物がずらりと並んでいて、残闔りのスペースには対岺戦格闘入モノ窿やクイズゲームなどが置かれている。†",
+    ("で、店の怩奥は壁負いに大型梃筐体物がずらりと並んでいて、残闔りのスペースには対岺戦格闘入モノ窿やクイズゲームなどが置かれている。†",
     ""),
     # In the back of the store, there are rows of large-scale stove-cased items lined up on the wall, and in the remaining space there are battle-filled melee stories and quiz games.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # The gay remi looked around the store's hot water and her eyes glowed,
 
-    ("「、ナニか竄やって竄やって！」",
+    ("「、ナニかやってやって！」",
     ""),
     # "I mean, I'll just tamper with it!"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # He begs like a child's sting.
 
-    ("「オ激レがひとりで遊んでどーすんだよ。お前が竄やるの」†",
+    ("「オレがひとりで遊んでどーすんだよ。お前がやるの」†",
     ""),
     # "What are you going to do with me playing alone? You're going to tamper with me?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Yeah…"†
 
-    ("最近のゲームはどんどん竄や竄やこしくなってきてるからな。",
+    ("最近のゲームはどんどんややこしくなってきてるからな。",
     ""),
     # These days, games are becoming more and more complicated.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # In fighting games, it's not a problem unless commands are entered.
 
-    ("なに烽も考えなくて烽も遊べるようなジャャン泣ルは、竅やっぱあれか…。†",
+    ("なに烽も考えなくて烽も遊べるようなジャャンルは、やっぱあれか…。†",
     ""),
     # I wonder if Jayan crying is enough to play with hot springs without thinking about anything...†
 
@@ -70,27 +70,27 @@ text_array = [
     ""),
     # "How about Sharting?"
 
-    ("弾をｂ撃って敵を倒せばいいからな。",
+    ("弾を撃って敵を倒せばいいからな。",
     ""),
     # Just shoot a b-shot to defeat the enemy.
 
-    ("これ以繹上単ヲ純な汲ルールはないだｂう。",
+    ("これ以繹上単ヲ純な汲ルールはないだう。",
     ""),
     # There is no purely a simple rule to understand this.
 
-    ("「Ｓｂ盾ｏ盾ｏｔ奄ｉ獅ｎ№ｇ？	それ、ドーпヤッテ遊ぶの？」",
+    ("「Ｓ盾ｏ盾ｏｔ奄ｉ獅ｎ№ｇ？	それ、ドーпヤッテ遊ぶの？」",
     ""),
     # "Sb shield o shield o Amai lion? Are you going to play with that?"
 
-    ("オ激レはｎ囲を見渡し、シャーティングを探した。†",
+    ("オレはｎ囲を見渡し、シャーティングを探した。†",
     ""),
     # Ogere looked around the n-circle and looked for Sharting.†
 
-    ("たしか『おｏ様はｂ魔蘭女』ってрヤツだったか？",
+    ("たしか『おｏ様は魔蘭女』ってрヤツだったか？",
     ""),
     # Is it true that "O-sama is a b demon orchid woman"?
 
-    ("オ激レ焜も汲結構遊んでるゲームなので、なにかとアドバイスはできるはずだ。",
+    ("オレ焜も汲結構遊んでるゲームなので、なにかとアドバイスはできるはずだ。",
     ""),
     # It's a game that I play quite a bit, so I should be able to give you advice on anything.
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # He plays the remie in a row and makes him sit in front of the platform.
 
-    ("「このボタンで、シ㏍ョット。隣がボンバー。ボンバーは一ｈ撃必殺錘武﨑器だけど、数に限闌りがあるから、ピンチのときにうまく使うんだぞ」†",
+    ("「このボタンで、ショット。隣がボンバー。ボンバーは一ｈ撃必殺錘武﨑器だけど、数に限りがあるから、ピンチのときにうまく使うんだぞ」†",
     ""),
     # "This button gives you a shredded button. The bomber is next to you. The bomber is a killing machine for a first hour, but there are limited numbers, so you can use it well in times of crisis."
 
-    ("「Ｗｂ≠ａｔ？	諱よく墲わからないｃ」",
+    ("「Ｗ≠ａｔ？	諱よく墲わからないｃ」",
     ""),
     # "Wb≠at? I don't really understand the name c"
 
@@ -126,19 +126,19 @@ text_array = [
     ""),
     # The overwhelmed woman shook her head.
 
-    ("「ア潟リマセーン」",
+    ("「アリマセーン」",
     ""),
     # "Agata Limasaen"
 
-    ("「まったくのゲーム宴初心者かよ…」",
+    ("「まったくのゲーム初心者かよ…」",
     ""),
     # "Are you a completely new to the game party?"
 
-    ("今の桙時緕代、ゲームの遊び福方を知迺らないっての烽も、ある意味、天然記念物だよな。†",
+    ("今の桙時緕代、ゲームの遊び方を知迺らないっての烽も、ある意味、天然記念物だよな。†",
     ""),
     # In a sense, the current gaze, the fact that people don't know how to play and enjoy games is also a natural monument.†
 
-    ("「し蛯ょーがねえ、オ激レが一から教えて竄やるよ」",
+    ("「しょーがねえ、オレが一から教えてやるよ」",
     ""),
     # "There's no slut, I'll tell you from scratch and tamper with it."
 
@@ -150,19 +150,19 @@ text_array = [
     ""),
     # "Okay, sputum, first start with the shooting lever ""†
 
-    ("オ激レは、戟レバー竅やボタンの扱い福方、果てはコイン潟投涛からゲームスタートまでを解煢説した。",
+    ("オレは、戟レバーやボタンの扱い方、果てはコイン投涛からゲームスタートまでを解煢説した。",
     ""),
     # I explained how to handle the hero lever and buttons, and even the fact that it was from the start of the game, the Coingata throw to the start of the game.
 
-    ("しかしズブの素人である撃レミィにどこまで揩理解させられたかは、ち蛯ょっと疑站問だ。",
+    ("しかしズブの素人である撃レミィにどこまで揩理解させられたかは、ちょっと疑站問だ。",
     ""),
     # However, it is a question of how far he has been made to understand by Ekiremi, a complete amateur.
 
-    ("あとは実際に竄やって烽もらうしかない。†",
+    ("あとは実際にやって烽もらうしかない。†",
     ""),
     # All that's left is to actually tamper with it and get hot.†
 
-    ("「じ痰ゃあ≠早速、教えたとおりに竄やってみｂよ」",
+    ("「じ痰ゃあ≠早速、教えたとおりにやってみよ」",
     ""),
     # "You're so phlegm ≠ I'll try tampering as I told you."
 
@@ -170,11 +170,11 @@ text_array = [
     ""),
     # "Yesser!"
 
-    ("戟レミィの竄やつ、いきなりオ激レに敬迪礼した。",
+    ("戟レミィのやつ、いきなりオレに敬迪礼した。",
     ""),
     # I suddenly praised my hard work for the guy who was tampering with me.
 
-    ("オ激レは思寬わず辺阨りを見渡した。",
+    ("オレは思寬わず辺阨りを見渡した。",
     ""),
     # Without thinking, I looked around.
 
@@ -182,24 +182,24 @@ text_array = [
     ""),
     # Ha, you're a shame.
 
-    ("オ激レは教官かなんかかよ。†",
+    ("オレは教官かなんかかよ。†",
     ""),
     # Is it an instructor or something?†
 
-    ("戟レミィは１プ激レイ側の席に座闕り、戟レバーを引っつかんで、シ㏍ョットボタンに手をかけた。",
+    ("戟レミィは１プレイ側の席に座闕り、戟レバーを引っつかんで、ショットボタンに手をかけた。",
     ""),
     # War Remi sat in the seat on the side of the 1st play, grabbed the war lever, and placed his hand on the shack button.
 
-    ("オ激レは隣の２プ激レイ側の席に、彼濫女の邪ｎ魔にならないよう少し離齬れてｍかけた。",
+    ("オレは隣の２プレイ側の席に、彼濫女の邪ｎ魔にならないよう少し離齬れてｍかけた。",
     ""),
     # I was sitting next to me on the two-player Gerei side and was a little apart so that I wouldn't become an evil man for the overwhelmed woman.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("戟レミィは無言で、デｃモ諠画面を眺めている。†",
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "...I'm not letting go of my hand."
 
-    ("オ激レはズッコケそうになった。",
+    ("オレはズッコケそうになった。",
     ""),
     # My hardcore almost throbbed.
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「あったりまえだｂ。まだカネ焜も入齠れてねーうちから構えるрヤツがあるか！」",
+    ("「あったりまえだ。まだカネ焜も入齠れてねーうちから構えるрヤツがあるか！」",
     ""),
     # "It's okay. I haven't got any money yet, is there someone who is standing there?"
 
@@ -238,11 +238,11 @@ text_array = [
     ""),
     # He was a little nervous, and he grabbed a 100 yen coin and sniffed at Kaji Totao's mouth.
 
-    ("…と思いき竄や、素¢早く痰例の『構え』を取骼る。",
+    ("…と思いきや、素¢早く痰例の『構え』を取骼る。",
     ""),
     # ...I thought so, but quickly took the 'stance' of phlegm.'
 
-    ("それっきり、ピク潟リと烽も動かない。",
+    ("それっきり、ピクリと烽も動かない。",
     ""),
     # That's when the heat didn't move.
 
@@ -250,23 +250,23 @@ text_array = [
     ""),
     # "The wakaremie, pusha, the start button..."
 
-    ("苦笑しつつ、オ激レは横からボタンを押して竄やった。†",
+    ("苦笑しつつ、オレは横からボタンを押してやった。†",
     ""),
     # With a wry smile, I pressed a button from the side to tamper with it.†
 
-    ("蛛主人公の、ほうきにまたがったｂ魔蘭女が飛び出してくる。",
+    ("蛛主人公の、ほうきにまたがった魔蘭女が飛び出してくる。",
     ""),
     # The protagonist, the B Demon Ran-sung woman, straddles a broom, jumps out.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("もう始まってるのに、戟レミィは動かない。",
     ""),
     # It's already begun, but Karemi doesn't move.
 
-    ("「…攻ｍ撃しｂよ撃レミィ」",
+    ("「…攻ｍ撃しよ撃レミィ」",
     ""),
     # "...Attack m, fire b, fire Remie."
 
@@ -294,7 +294,7 @@ text_array = [
     ""),
     # "Hello, it's a bomber!"
 
-    ("「Ｗｂ≠ａｔ？	Ｗｂ≠ａｔ？」",
+    ("「Ｗ≠ａｔ？	Ｗ≠ａｔ？」",
     ""),
     # "Wb≠at? Wb≠at?"
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # Karemy nodded.
 
-    ("その竄やりとりの間、蛛主人公がまったく無摶傷なのが不思議だ。",
+    ("そのやりとりの間、蛛主人公がまったく無摶傷なのが不思議だ。",
     ""),
     # It's strange that the protagonist is completely innocent during the tampering exchange.
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # "I was forgetting!"
 
-    ("香注意して竄やると、戟レミィの操髑るｂ魔法使いは、右へ左へでたらめな福方阜に動き始めた。",
+    ("香注意してやると、戟レミィの操る魔法使いは、右へ左へでたらめな方阜に動き始めた。",
     ""),
     # When I warned him, the b-wizard who was the manipulation of the skull of Remy began to move towards the bullshit Fukukata Fu, who was coming out right and left.
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # It was like a drunkard.
 
-    ("しかし、竅やっと動き出したかと思えば、今度は右濶手が止まっている。†",
+    ("しかし、やっと動き出したかと思えば、今度は右濶手が止まっている。†",
     ""),
     # However, just as he finally started moving, his right hand had stopped.†
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # "I was forgetting!"
 
-    ("諱よう竄やく、でたらめに動きながら、でたらめにｂ魔法をｂ撃てるようになってきた。†",
+    ("諱ようやく、でたらめに動きながら、でたらめに魔法を撃てるようになってきた。†",
     ""),
     # I've started to be able to b-shot b-magic bullshit by moving casually.†
 
@@ -362,7 +362,7 @@ text_array = [
     ""),
     # It's too much...
 
-    ("てきとうにｂ撃っていたｂ魔法攻ｍ撃が、ザコを捕逡らえた。",
+    ("てきとうに撃っていた魔法攻ｍ撃が、ザコを捕逡らえた。",
     ""),
     # The b-magic attack M-shot, which was already shooting B, caught the weaklings.
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # "I defeated it!"
 
-    ("戟レミィはオ激レにｌかって、嬉しそうに言う。",
+    ("戟レミィはオレにｌかって、嬉しそうに言う。",
     ""),
     # Karemi said happily, yelling at me.
 
@@ -398,7 +398,7 @@ text_array = [
     ""),
     # "I defeated it!"
 
-    ("「增わかった墲わかった。いちいち報枢告すんな」†",
+    ("「わかった墲わかった。いちいち報枢告すんな」†",
     ""),
     # "I understand, I understand. Don't report it every time."
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # It's too much...
 
-    ("１面の半ばごｂには、諱よう竄やく撃レバーとボタン、二つのことが同椏時こなせるようになってきた。",
+    ("１面の半ばごには、諱ようやく撃レバーとボタン、二つのことが同椏時こなせるようになってきた。",
     ""),
     # In the middle of the first page, he is now able to do two things: a firing lever and a button, which he has to say.
 
@@ -430,7 +430,7 @@ text_array = [
     ""),
     # "what?"
 
-    ("「その、『Ｐ』って竄やつをだよ」",
+    ("「その、『Ｐ』ってやつをだよ」",
     ""),
     # "That's the kind of tampering thing called 'P'."
 
@@ -446,12 +446,12 @@ text_array = [
     ""),
     # "Yeah. If you take that guy, you'll get a boost."
 
-    ("オ激レが言うと、戟レミィはじっと自分の手元と画面を見芟比べ始めた。",
+    ("オレが言うと、戟レミィはじっと自分の手元と画面を見芟比べ始めた。",
     ""),
     # When I said that, Karemi started to stare at her hands and the screen.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「どうした？	諱取骼るんだよ」",
@@ -474,7 +474,7 @@ text_array = [
     ""),
     # "Hey... okay, this is what's going on."
 
-    ("オ激レは撃レミィの手をつかんで撃レバーを操総した。",
+    ("オレは撃レミィの手をつかんで撃レバーを操総した。",
     ""),
     # I grabbed Ekire Remy's hand and manipulated the Ekimo lever.
 
@@ -482,7 +482,7 @@ text_array = [
     ""),
     # Move the wizard to collect items.
 
-    ("「Ｉ	入ｂｂ。そうなのネ」",
+    ("「Ｉ	入。そうなのネ」",
     ""),
     # "I'm in bb. That's right."
 
@@ -490,11 +490,11 @@ text_array = [
     ""),
     # "This means "to get your name""
 
-    ("アイテムを回精収できたｂ魔法使いは『パ純ワーアップ』のボイスとと烽もに攻ｍ撃が変化した。",
+    ("アイテムを回精収できた魔法使いは『パ純ワーアップ』のボイスとと烽もに攻ｍ撃が変化した。",
     ""),
     # The B-wizard, who was able to collect items, changed his attack and M-shot to the voice of "Pure War Up" and the Hot.
 
-    ("「Ｐ盾ｏ翌ｗｂ窒ｒ	普ｕ垂ｐ！」",
+    ("「Ｐ盾ｏ翌ｗ窒ｒ	普ｕ垂ｐ！」",
     ""),
     # "P shield o the next wb nitrogen is wide u ur p!!"
 
@@ -510,11 +510,11 @@ text_array = [
     ""),
     # "Yes, yes, that was good" †
 
-    ("こんな調子で撃レミィはゲームが終尞わるまで、ことあるごとにオ激レに報枢告してくれた。",
+    ("こんな調子で撃レミィはゲームが終尞わるまで、ことあるごとにオレに報枢告してくれた。",
     ""),
     # With this in mind, Gekiremi would report to me every time I had experienced it until the game ended.
 
-    ("ゲーセンを出髀る頃には、オ激レはへとへとで『もう撃レミィの報枢告はうんざり』状態だった。†",
+    ("ゲーセンを出髀る頃には、オレはへとへとで『もう撃レミィの報枢告はうんざり』状態だった。†",
     ""),
     # By the time I left the arcade, I was exhausted and was in a state of exhaustion and "I'm tired of Ekirei's report."†
 
@@ -534,7 +534,7 @@ text_array = [
     ""),
     # You can enjoy it that much with Sharting.
 
-    ("うら竄やましいくらいだ。†",
+    ("うらやましいくらいだ。†",
     ""),
     # I'm so envious of it.†
 
@@ -550,7 +550,7 @@ text_array = [
     ""),
     # @"
 
-    ("戟レミィはいつ烽もの太陽のような笑みといっし蛯ょに、ほっぺにチャーしてくれた。",
+    ("戟レミィはいつ烽もの太陽のような笑みといっしょに、ほっぺにチャーしてくれた。",
     ""),
     # When did He remy give a smile like the sun, and he stroking it to his cheeks.
 

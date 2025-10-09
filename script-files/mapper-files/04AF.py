@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Test preparation...
 
-    ("オ激レは少し考えて、",
+    ("オレは少し考えて、",
     ""),
     # I thought about it for a moment,
 
-    ("「…いいぜ。損はしねえだｂうし」",
+    ("「…いいぜ。損はしねえだうし」",
     ""),
     # "...That's fine. I won't lose out."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # The day was at рYak, where we exchanged opinions with Shiho about preparing for the test.
 
-    ("話し№合ったくらいで、点が良くなるとは思えないけど、何煢もしないよりはマシだｂう…。◯",
+    ("話し№合ったくらいで、点が良くなるとは思えないけど、何煢もしないよりはマシだう…。◯",
     ""),
     # I don't think the points will improve if we just met the answer, but it's better than not doing anything...◯
 

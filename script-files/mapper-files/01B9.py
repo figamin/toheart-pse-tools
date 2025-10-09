@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hey, Akari."
 
-    ("オ激レは背白から呼び止め、追いついた。◯",
+    ("オレは背白から呼び止め、追いついた。◯",
     ""),
     # I called out from a disdain and caught up.◯
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「じ痰ゃあ、いっし蛯ょに帰汲うぜ」",
+    ("「じ痰ゃあ、いっしょに帰汲うぜ」",
     ""),
     # "Ah, I'll return to the slut."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "what?"
 
-    ("「今厓日はち蛯ょっとお前に質竡問があるんだ」",
+    ("「今厓日はちょっとお前に質竡問があるんだ」",
     ""),
     # "You've got a question about the quality of yours right now."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "I'll ask you a few questions," so please answer in order."
 
-    ("「增わかった」†",
+    ("「わかった」†",
     ""),
     # "I understand" †
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "The owner's occupation?"
 
-    ("「そうだ。お前熨も烽もうｂ高校２年なんだから、少しはそういうこと烽も考えてるだｂ」",
+    ("「そうだ。お前熨も烽もう高校２年なんだから、少しはそういうこと烽も考えてるだ」",
     ""),
     # "That's right. You're already in your second year of B high school, so I'm thinking about that kind of thing."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Akari is troubled by the Shinbuken.†
 
-    ("「現実的に言うと、竅やっぱり≠普通のＯＬかな。で烽も学校の先生とか、人に烽ものを教える仕鮪事には憧齠れたりするなあ。あと、保母さんとか、調搨理師、デザイナーとかに烽もなりたいし…」",
+    ("「現実的に言うと、やっぱり≠普通のＯＬかな。で烽も学校の先生とか、人に烽ものを教える仕鮪事には憧齠れたりするなあ。あと、保母さんとか、調搨理師、デザイナーとかに烽もなりたいし…」",
     ""),
     # "Realistically, I guess I'm just a regular office lady. And I also admire school teachers and tuna who teaches hot foods to others. I also want to become a nursery school teacher, a courier, a designer, or something like that..."
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "What?! I'm not sputum, the president's secret moth book."
 
-    ("「お前、さっきと全然瘻違うだｂ」",
+    ("「お前、さっきと全然瘻違うだ」",
     ""),
     # "You're completely different from before."
 
-    ("「ま、まあ、﨟基本的にいｂいｂ竄やってみたいということで…」†",
+    ("「ま、まあ、﨟基本的にいいやってみたいということで…」†",
     ""),
     # "Well, well 﨟I basically want to try tampering with something like that..."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "3...2...1..."
 
-    ("「ち蛯ょっ、凵貯熬金！",
+    ("「ちょっ、凵貯熬金！",
     ""),
     # "Ahhh, save up money!
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # To the bank"†
 
-    ("「竅銀行に凾貯熬金か。じ痰ゃあ、氈次の質竡問。お前が知ってるなかで一番ｔ高価な料摎理といえば？」",
+    ("「銀行に凾貯熬金か。じ痰ゃあ、氈次の質竡問。お前が知ってるなかで一番ｔ高価な料摎理といえば？」",
     ""),
     # "Are you saving money at Yin Bank? You're not sure what the most expensive fees you know?"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Oh, Kita-Kaikyo Duck?"
 
-    ("「フォアグ宴ラ？	キャャビア？	そ、それと烽もト潟リャフか烽も…」",
+    ("「フォアグラ？	キャャビア？	そ、それと烽もトリャフか烽も…」",
     ""),
     # "Foaggu Feast? Ciavia? And also, Hot, Togata Ryav or Hot..."
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "Pe, Kita-Kaikyo Duck"†
 
-    ("「北椁京ダックな。じ痰ゃあ、氈次の質竡問。目の前に蛯大きいつづらと、小さいつづら、£ぐらいのつづらがある。どれかひとつ、おみ竄やげに揩持って帰驪るとしたら、どれを選ぶ？」",
+    ("「北椁京ダックな。じ痰ゃあ、氈次の質竡問。目の前に大きいつづらと、小さいつづら、£ぐらいのつづらがある。どれかひとつ、おみやげに揩持って帰驪るとしたら、どれを選ぶ？」",
     ""),
     # "It's a Kita-Kaikyo duck. It's a sphemous question. There are big spurts, small spurts, and £-spurts. If you were to bring one of them back with you, which would you choose?"
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Diagnosis results..."
 
-    ("「ズバ潟リ、あなたは｢｢」",
+    ("「ズバリ、あなたは｢｢」",
     ""),
     # "Zubarakuri, you're ""
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # A: He's a totally ordinary person.Relax
 
-    ("Ｂ	生命保険に入ったほうがいいでし蛯ょう。閨",
+    ("Ｂ	生命保険に入ったほうがいいでしょう。閨",
     ""),
     # B: It's better to get life insurance.Relax
 

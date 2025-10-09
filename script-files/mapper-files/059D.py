@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Aoi Scales Event 10)†
 
-    ("おーしっ、ク宴ラブの桙時間だ。",
+    ("おーしっ、クラブの桙時間だ。",
     ""),
     # Oh, it's time for the banquet love.
 
-    ("竅坂下との獅試㍽合にｌけて、葵ち痰ゃんをうまくサポートして竄やらないとな。†",
+    ("坂下との獅試㍽合にｌけて、葵ち痰ゃんをうまくサポートしてやらないとな。†",
     ""),
     # I have to get into the lion test match with Akesakashita and support Aoi Chisho-chan and tamper with him.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Bass, Bass, Bass!
 
-    ("メ激しい奄ラッシャ。",
+    ("メしい奄ラッシャ。",
     ""),
     # A fierce Amami Rusha.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Get close and hit it repeatedly!Repeated hits!Repeated hits!!
 
-    ("縺後撃からサンドバッグを支えているオ激レの手に烽も、ビシバシ衝ｏ撃が伝崧わってくる。†",
+    ("縺後撃からサンドバッグを支えているオレの手に烽も、ビシバシ衝ｏ撃が伝崧わってくる。†",
     ""),
     # After the attack, the firearms were also hit by my gang's hand, supporting the punching bag, and the attacks were also reported.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "The last five seconds of the weir!"
 
-    ("腕椈時計を見ながらオ激レは言った。",
+    ("腕椈時計を見ながらオレは言った。",
     ""),
     # I said, looking at the arm stool clock.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Haa, haa, haa..."
 
-    ("メ激しい奄ラッシャを打ち終えて、葵ち痰ゃんはヒザに両阯手をついて、苦しそうに息を吐く。",
+    ("メしい奄ラッシャを打ち終えて、葵ち痰ゃんはヒザに両手をついて、苦しそうに息を吐く。",
     ""),
     # After finishing the intense Amami Rusha, Aoi Chisho-yan puts his hands on his knees and exhales in pain.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Haa, haa, haa, haa..."
 
-    ("肩が蛯大きく繧上下し、額から汗のｎがこぼれ獅落ちる。†",
+    ("肩が大きく繧上下し、額から汗のｎがこぼれ獅落ちる。†",
     ""),
     # His shoulders leapt up and down, and sweat fell from his forehead.†
 
@@ -102,15 +102,15 @@ text_array = [
     ""),
     # "Haa, haa..., haa, yes"
 
-    ("前回ふたりでｌめたスケジャールにｉって、竅坂下妺戦へｌけての特訓は続けられていた。",
+    ("前回ふたりでｌめたスケジャールにｉって、坂下妺戦へｌけての特訓は続けられていた。",
     ""),
     # The two of them had a special training session last time, and they continued to train in the match against Haesaka Shimota.
 
-    ("いまは連打苑ラッシャのト激レーニングヲだ。",
+    ("いまは連打苑ラッシャのトレーニングヲだ。",
     ""),
     # I'm currently looking to train in the continuous rush of the season.
 
-    ("ハードな奄ラッシャを繰闌り返し何度燗も打ち、十分なスタミナを養おうという烽ものだ。†",
+    ("ハードな奄ラッシャを繰り返し何度燗も打ち、十分なスタミナを養おうという烽ものだ。†",
     ""),
     # It's a hot dish that involves repeating hard Amami Rusha and baking it over and over again to build up enough stamina.†
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("オ激レは繧後撃からサンドバッグを抱え、時計を見た。",
+    ("オレは繧後撃からサンドバッグを抱え、時計を見た。",
     ""),
     # After the attack, I held my punching bag and looked at the watch.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Start!"
 
-    ("その瞬間、葵ち痰ゃんは素¢早いインステップでサンドバッグに接近し、３連打、４連打を繰闌り返す奄ラッシャを開始した。†",
+    ("その瞬間、葵ち痰ゃんは素¢早いインステップでサンドバッグに接近し、３連打、４連打を繰り返す奄ラッシャを開始した。†",
     ""),
     # At that moment, Aoi Chisho-yan approached the punching bag with a quick instep and began Amashi rushing with three consecutive hits and four consecutive hits.†
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "Longer, faster! Faster!"
 
-    ("オ激レは叫ぶ。†",
+    ("オレは叫ぶ。†",
     ""),
     # I screamed.†
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # Bass, Bass, Bass!
 
-    ("オ激レたちふたりきりの特訓は、その冾日燗も夕髣暮れまで続いた。◯",
+    ("オレたちふたりきりの特訓は、その冾日燗も夕髣暮れまで続いた。◯",
     ""),
     # The training sessions that were all about me and the others continued until the evening.◯
 

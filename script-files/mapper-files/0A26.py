@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Did Gihong Rochin hurt?"
 
-    ("オ激レは興味津々たずねた。",
+    ("オレは興味津々たずねた。",
     ""),
     # I asked with interest.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「い竄や、アント純ワネットっつったら、竅やっぱギ鴻ロチンだｂうと思ってさ。前世がそうなら、感想聞いとこうと思って」",
+    ("「いや、アント純ワネットっつったら、やっぱギ鴻ロチンだうと思ってさ。前世がそうなら、感想聞いとこうと思って」",
     ""),
     # "If it's a tampering, Anto-Pure Wannett, I thought I'd end up with Giho Rochin. If that were the case in my previous life, I'd like to hear my thoughts."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Sorry, I don't remember..."
 
-    ("「そっか。そり痰ゃ残念だな。ギ鴻ロチンって、竅やっぱ痛いのかな〜って思ってさ」",
+    ("「そっか。そり痰ゃ残念だな。ギ鴻ロチンって、やっぱ痛いのかな〜って思ってさ」",
     ""),
     # "I see. That's a shame. I thought Giho Rochin would still hurt."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "It's for a moment, so it doesn't hurt, so I guess there's no phlegm...?"
 
-    ("「スパッと首が切齔れるだｂ？	その切逅られた瞬間って、まだ意識があるのかな？」",
+    ("「スパッと首が切齔れるだ？	その切逅られた瞬間って、まだ意識があるのかな？」",
     ""),
     # "You can cut your head off quickly b? Is there still a sense of consciousness at the moment you come across it?"
 
@@ -42,19 +42,19 @@ text_array = [
     ""),
     # "..."†
 
-    ("「すぐ意識はなくなるだｂうけどさ、ほんの少しくらいは蛯大苟丈夫じ痰ゃないかな。だったら、離齬れた自分の胴体とか見えるのかな？」",
+    ("「すぐ意識はなくなるだうけどさ、ほんの少しくらいは大苟丈夫じ痰ゃないかな。だったら、離齬れた自分の胴体とか見えるのかな？」",
     ""),
     # "I'll soon lose consciousness, but I think there's only a little bit of stimulating phlegm. If that's the case, can you see your own body in disarray?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「それが墲わかるのはギ鴻ロチンで切逅られたことのあるрヤツだけだからな。",
     ""),
     # "The only people who can understand that are known are those who have been met with Gi Hong Rochin.
 
-    ("当然そんな竄やつは生きてないし」",
+    ("当然そんなやつは生きてないし」",
     ""),
     # Of course, those tampering people aren't alive."
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # Ha, that's it.
 
-    ("なにギ鴻ロチンで盛關り繧上がってんだ、オ激レは。",
+    ("なにギ鴻ロチンで盛關り繧上がってんだ、オレは。",
     ""),
     # What's the rise of Giho Lotin? I'm super excited.
 
-    ("掾理女緒ち痰ゃんはその、首を切逅られたマ潟リー・アント純ワネットだっつってんのに。†",
+    ("掾理女緒ち痰ゃんはその、首を切逅られたマリー・アント純ワネットだっつってんのに。†",
     ""),
     # The woman who was called the head of Marie Anto, who was cut off by the head.†
 
-    ("「增わ、增わりぃ、オ激レ、デ潟リカシーなかった？」",
+    ("「わ、わりぃ、オレ、デリカシーなかった？」",
     ""),
     # "B, I'm so excited, didn't you have any Degata Rikasia?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "That's it, I'll go now."
 
-    ("「え？	まだ蛯大降闕りだぜ」",
+    ("「え？	まだ大降闕りだぜ」",
     ""),
     # "Huh? I'm still in a big leap."
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("ち蛯ょっと困った顔をする揩理女緒ち痰ゃん。",
+    ("ちょっと困った顔をする揩理女緒ち痰ゃん。",
     ""),
     # A thud looks awkward.
 
-    ("「だけど、このままじ痰ゃバイトに遅齟れち痰ゃうから…」",
+    ("「だけど、このままじ痰ゃバイトに遅れち痰ゃうから…」",
     ""),
     # "But, I'm going to keep going like this and get slower and slower than I'm going to work part-time..."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Yes. That's a phlegm."
 
-    ("掾理女緒ち痰ゃん雨のｒへとｋけ出す。",
+    ("掾理女緒ち痰ゃん雨のｒへと駆け出す。",
     ""),
     # I'm starting to move out to the rain.
 
@@ -134,15 +134,15 @@ text_array = [
     ""),
     # Kick!
 
-    ("鳴阮り響く急ブ激レーキの音。",
+    ("鳴り響く急ブレーキの音。",
     ""),
     # The sound of a sudden rake echoing.
 
-    ("オ激レはびっくりした。†",
+    ("オレはびっくりした。†",
     ""),
     # I was surprised.†
 
-    ("見骭ると、自動車は飛び出した揩理女緒ち痰ゃんの体ス激レス激レで竄停まっていた。",
+    ("見骭ると、自動車は飛び出した揩理女緒ち痰ゃんの体スレスレで停まっていた。",
     ""),
     # When I looked over, the car was stopped as it ran out of fire with the intense replies of the body of the car.
 

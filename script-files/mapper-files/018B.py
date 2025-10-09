@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "If I'm bored"
 
-    ("と、オ激レは嘯答えた。",
+    ("と、オレは嘯答えた。",
     ""),
     # My heart replied.
 
-    ("「その前に冾期槙末テスト焜もあるし、まだ先の話だｂ？	予阯定なんか墲わかんねーからな」",
+    ("「その前に冾期槙末テスト焜もあるし、まだ先の話だ？	予定なんか墲わかんねーからな」",
     ""),
     # "Before that, there's a final exam test for the first time, so it's still a long way off. I don't know what to expect."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "I see..."
 
-    ("「まあ、時厲期が近くなり痰ゃ、おのずと予阯定熬も見えてくんだｂ。そのときまた考えようぜ」",
+    ("「まあ、時厲期が近くなり痰ゃ、おのずと予定熬も見えてくんだ。そのときまた考えようぜ」",
     ""),
     # "Well, the time is approaching, and we can see the predictions b. Let's think about it again."
 

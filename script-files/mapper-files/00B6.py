@@ -22,7 +22,7 @@ text_array = [
     ""),
     # It's quite tough for a sleepy manako.
 
-    ("おかげで、バッチ潟リ目が覚めたけど。†",
+    ("おかげで、バッチリ目が覚めたけど。†",
     ""),
     # Thanks to this, I woke up completely.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I overslept a little this day, so I thought I'd cut my sputum late, but I ended up sputum."
 
-    ("「そんとき痰ゃ、オ激レだけセーフだな」",
+    ("「そんとき痰ゃ、オレだけセーフだな」",
     ""),
     # "That's when it comes to phlegm, I'm the only one who's extremely safe."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "That's terrible..." †
 
-    ("ち蛯ょっと前までは肌寒かったけど、近頃はずいぶん暖かい…ってより、暑い。",
+    ("ちょっと前までは肌寒かったけど、近頃はずいぶん暖かい…ってより、暑い。",
     ""),
     # It was chilly up until recently, but it's been quite warm these days...and it's even hotter.
 
-    ("『春たけな墲わ』って竄やつか。†",
+    ("『春たけな墲わ』ってやつか。†",
     ""),
     # Is it tampering with "Spring Shot"?†
 

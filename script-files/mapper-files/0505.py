@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Yeah, the cutlet sandwiches are selling well!"
 
-    ("うっかり蛯大桝事なことを忘齧れてた。",
+    ("うっかり大桝事なことを忘齧れてた。",
     ""),
     # I accidentally forgot about the things that happened to me.
 
-    ("オ激レはｉ史を追いかけた。◯",
+    ("オレはｉ史を追いかけた。◯",
     ""),
     # I chased I-Hisashi.◯
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Students flocked to the bread store, and the cutlet sandwiches they had already sold out.
 
-    ("オ激レ宴ランキング諠第二位のウインナー香ロール焜もない。†",
+    ("オレランキング諠第二位のウインナー香ロール焜もない。†",
     ""),
     # There is no wiener incense roll, which is the second most popular in the rankings of my super banquet.†
 
-    ("「ち蛯ょっと遅かったね」",
+    ("「ちょっと遅かったね」",
     ""),
     # "It was too late."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Damn it!"
 
-    ("「し蛯ょうがないよ。",
+    ("「しょうがないよ。",
     ""),
     # "There's no eclipse.
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "There's a lot of blessings in the remains... you have to be a sputum, right?
 
-    ("オ激レたちは仕緖方なく、人の壁がすくまで、食堂の隅で待つことにした。†",
+    ("オレたちは仕緖方なく、人の壁がすくまで、食堂の隅で待つことにした。†",
     ""),
     # Without any guilt, we decided to wait in the corner of the cafeteria until the human walls were slaughtered.†
 
-    ("そう竄やって暇そうに待っていると、",
+    ("そうやって暇そうに待っていると、",
     ""),
     # If you're waiting in a hurry and then,
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "Would you like to eat the weir lunch?"
 
-    ("「おう、戟レミィ。今厓日は出遅齟れちまってな。仕緖方なく残闔り物のパンを待ってんだ」",
+    ("「おう、戟レミィ。今厓日は出遅れちまってな。仕緖方なく残闔り物のパンを待ってんだ」",
     ""),
     # "Oh, huh, huh Remi. I'm not too late at the sunrise right now. I'm waiting for the remaining bread."
 
-    ("「残闔り物おいしくないよ。みんなでいっし蛯ょに奄ランチセット食べよ」†",
+    ("「残闔り物おいしくないよ。みんなでいっしょに奄ランチセット食べよ」†",
     ""),
     # "The rest of the food isn't tasty. Let's all have an Amami lunch set together."†
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "It's been bread these days."
 
-    ("オ激レとｉ史はうなずいた。",
+    ("オレとｉ史はうなずいた。",
     ""),
     # I nodded my head.
 
-    ("「諱よし撃レミィ、いっし蛯ょに奄ランチすっか」",
+    ("「諱よし撃レミィ、いっしょに奄ランチすっか」",
     ""),
     # "I'm not saying that, Ikebukuro, I'll have Amano lunch together."
 
@@ -110,15 +110,15 @@ text_array = [
     ""),
     # Mashiro chose A Amami lunch, which is the daily soup stock.
 
-    ("今厓日のＡ奄ランチは、チキンカツとサ宴ラダか。",
+    ("今厓日のＡ奄ランチは、チキンカツとサラダか。",
     ""),
     # On the day of A Amami lunch, there's chicken cutlet and salad banquet ladder.
 
-    ("「ま、妥桝当なｐだな。オ激レ焜も…っと」",
+    ("「ま、妥桝当なｐだな。オレ焜も…っと」",
     ""),
     # "Well, that's a reasonable price. I'm also really excited..."
 
-    ("オ激レとｉ史は、Ａ奄ランチの食柏券をモ買った。†",
+    ("オレとｉ史は、Ａ奄ランチの食柏券をモ買った。†",
     ""),
     # Ikere and I-Shi bought a ticket to Kashiwa from A Amana Lunch.†
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # I also bought a "Great voucher ticket."†
 
-    ("「諱よりによって天ぷらうどんかよ。ア＜メ潟リカ人のくせに」",
+    ("「諱よりによって天ぷらうどんかよ。ア＜メリカ人のくせに」",
     ""),
     # "It's tempura udon depending on the name. Even though it's an American."
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "N shield oN shield oN shield o! That's a prejudice. I love Udon Kang c."
 
-    ("「そら、好きな竄やつ烽もいるだｂうけど…」",
+    ("「そら、好きなやつ烽もいるだうけど…」",
     ""),
     # "Oh, there are some tampering people I like, but..."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "It's not strange at all" †
 
-    ("オ激レたちは空いてる席に座闕り、箸を取った。",
+    ("オレたちは空いてる席に座闕り、箸を取った。",
     ""),
     # We sat in an empty seat and grabbed our chopsticks.
 
@@ -162,23 +162,23 @@ text_array = [
     ""),
     # "I'll have you."
 
-    ("３人そｂって言う。†",
+    ("３人そって言う。†",
     ""),
     # The three of them say b.†
 
-    ("ひとくちめを食べ始めたそのとき、戟レミィがいきなりコシ㏍ョウのビンをつかんだ。",
+    ("ひとくちめを食べ始めたそのとき、戟レミィがいきなりコショウのビンをつかんだ。",
     ""),
     # Just as I started eating a bite, Azuremi suddenly grabbed a bottle of Koshiccup.
 
-    ("なにをするのかと思えば、なんと撃レミィは、コシ㏍ョウをそのままうどんに振關りかけ始めたではないか。†",
+    ("なにをするのかと思えば、なんと撃レミィは、コショウをそのままうどんに振關りかけ始めたではないか。†",
     ""),
     # Just as I was wondering what he was doing, I realized that Ekiremi had begun to sprinkle the koshikudou directly into the udon noodles.†
 
-    ("「お、おいっ、戟レミィ、うどんにかけるのはコシ㏍ョウじ痰ゃねーだｂ！？」",
+    ("「お、おいっ、戟レミィ、うどんにかけるのはコショウじ痰ゃねーだ！？」",
     ""),
     # "Oh, hey, oh, oh, oh, it's really hard to put on udon noodles, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh, oh,
 
-    ("「Ｎ盾ｏ	吹ｐ窒ｒ盾ｏｂｂ撃ｌｂ高ｍ。アタシ、こっちがスキ！」",
+    ("「Ｎ盾ｏ	吹ｐ窒ｒ盾ｏ撃ｌ高ｍ。アタシ、こっちがスキ！」",
     ""),
     # "N Shield O, Blow P Nitro Shield OBB Shock LB High. I like this one!"
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # While I was saying this, Ka-Remie's suspicious behavior continued.
 
-    ("今度はソースのビンをつかみ、テンプ宴ラにかけ始めた。",
+    ("今度はソースのビンをつかみ、テンプラにかけ始めた。",
     ""),
     # This time I grabbed a bottle of sauce and started putting it on the tempura.
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # Of course, I-Shin's smoked eyes are also rolling.†
 
-    ("「おいおい、さすがにそり痰ゃねーだｂ？」",
+    ("「おいおい、さすがにそり痰ゃねーだ？」",
     ""),
     # "Hey hey, you really have to be phlegm b?"
 
@@ -226,12 +226,12 @@ text_array = [
     ""),
     # When I saw the happy Ekiremi, she certainly felt like a small thing, like a food-like chore.
 
-    ("い竄や、もしかしたら、本末当にうまいのか？†",
+    ("いや、もしかしたら、本末当にうまいのか？†",
     ""),
     # It's a bit of a mess, or maybe it's really good for the realm?†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("機級があったら獅試してみるか。",

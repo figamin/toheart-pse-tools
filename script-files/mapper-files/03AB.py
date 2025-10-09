@@ -2,15 +2,15 @@
 # Source file: 03AB.txt
 
 text_array = [
-    ("（智子	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｂ	いー竅や、まだまだ、もう少し！）閨（選択綜Ｂ	いー竅や、冝諦めねーぞ！）閨（選択綜Ｂ	いー竅や、なにかを掴むまでは！）†",
+    ("（智子	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｂ	いーや、まだまだ、もう少し！）閨（選択綜Ｂ	いーや、冝諦めねーぞ！）閨（選択綜Ｂ	いーや、なにかを掴むまでは！）†",
     ""),
     # (Tomoko's Scales Event Return Road LV2) (Choice Solved B, I'm a little more!) (Choice Solved B, I'm a little more!) (Choice Solved B, I'm a bit more open, I'm not going to give up!) (Choice Solved B, I'm a bit more until I get something!) †
 
-    ("いー竅や！",
+    ("いーや！",
     ""),
     # Well done!
 
-    ("ここまでｗたら烽もう、なにかをつかむまでは竄絶対に帰鼡れねー！",
+    ("ここまでｗたら烽もう、なにかをつかむまでは絶対に帰鼡れねー！",
     ""),
     # Once you've reached this point, you'll never have to go back until you get something!
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Please Kaji!
 
-    ("誰か、模範プ激レイをしてくれ〜っ！†",
+    ("誰か、模範プレイをしてくれ〜っ！†",
     ""),
     # Someone please give me a great example!†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # The older brother of a gamer who is now in the air, takes over the game console and throws a whirlwind of coins.
 
-    ("ミ㏍ョーに慣れた手つき。",
+    ("ミョーに慣れた手つき。",
     ""),
     # Hands that are used to being Miccident.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # The game has begun.†
 
-    ("スタート前の微妙なアクセ泣ル調整！",
+    ("スタート前の微妙なアクセル調整！",
     ""),
     # A subtle adjustment of accessories before the start!
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # A sudden, successful start!
 
-    ("…なるほど、ああ竄やるんだな。†",
+    ("…なるほど、ああやるんだな。†",
     ""),
     # ...I see, I'm going to tamper with it.†
 
-    ("見膜事な奄ライン諠取闔り、竅絶妙なコーナ潟リング！",
+    ("見膜事な奄ライン諠取闔り、絶妙なコーナリング！",
     ""),
     # The beautiful Amane Line's stunning view of the exquisite corner latitude ring!
 
-    ("おお〜っ、あのヘアピンをフ泣ルス鴻ロット泣ルのまま突っ桙込んで曲がったぞ！",
+    ("おお〜っ、あのヘアピンをフルス鴻ロットルのまま突っ桙込んで曲がったぞ！",
     ""),
     # Oh, I thrust that hairpin with a cry of crying and bent it!
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("いまのを参考にして、オ激レ焜もさっそくプ激レイしてみるぜ！",
+    ("いまのを参考にして、オレ焜もさっそくプレイしてみるぜ！",
     ""),
     # Using the current one as a reference, I'll try making a big splash right away!
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # Ahhhaha!
 
-    ("もう少し福練習すれば、２’００”００の壁を破髞ること烽も夢じ痰ゃねーぜ。†",
+    ("もう少し練習すれば、２’００”００の壁を破髞ること烽も夢じ痰ゃねーぜ。†",
     ""),
     # If I practice for a little more fortune, I can't dream of breaking the 2'00'00 barrier.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # ・†
 
-    ("なんてことを竄やってるうちに、時庶刻は｢｢黽げげげっ、もう９桙時すぎ！？",
+    ("なんてことをやってるうちに、時庶刻は｢｢黽げげげっ、もう９桙時すぎ！？",
     ""),
     # While I was tampering with this, I was told, "Shock, it's already nine frames!"?
 
@@ -202,28 +202,28 @@ text_array = [
     ""),
     # Chairman?
 
-    ("こんな桙時間に、しか烽も制梵服姿で、いったいなに竄やってんだ。†",
+    ("こんな桙時間に、しか烽も制梵服姿で、いったいなにやってんだ。†",
     ""),
     # At this time, even though the hot springs are wearing Sanskrit uniforms, what exactly are they doing?†
 
-    ("諱よく見骭ると、委員長は、他校の制梵服をｒた男といっし蛯ょに並んで烽歩いていた。",
+    ("諱よく見骭ると、委員長は、他校の制梵服をｒた男といっしょに並んで烽歩いていた。",
     ""),
     # Looking closely, the chairman was walking alongside a man wearing Sanskrit uniform from another school, along with a man walking alongside him.
 
-    ("男のほうは、たしか前に本屋で立ち読みしてたとき、チ宴ラッと見た顔だ。",
+    ("男のほうは、たしか前に本屋で立ち読みしてたとき、チラッと見た顔だ。",
     ""),
     # The man's face looked like he had seen a banquet while browsing at a bookstore the other day.
 
-    ("こんな桙時間にまでいっし蛯ょにいるってことは、竅やっぱりふたりはつき№合ってんだｂうか。†",
+    ("こんな桙時間にまでいっしょにいるってことは、やっぱりふたりはつき№合ってんだうか。†",
     ""),
     # If they are at the same time like this, it means that the two of them are right in line with each other.†
 
-    ("ひとりだったら間瘧違いなく声をかけるとこなんだが、せっかくふたり№仲良く烽歩いてんだ、＊髢暮な真乱似は竄やめて、そっとしといて竄やるか。†",
+    ("ひとりだったら間瘧違いなく声をかけるとこなんだが、せっかくふたり№仲良く烽歩いてんだ、＊髢暮な真乱似はやめて、そっとしといてやるか。†",
     ""),
     # If she were alone, she would definitely call out to him, but the two of them were walking around in great harmony. *Stop tampering with the likes of a sinner, and just keep quiet and tampering with them.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("…で烽も委員長、なんだかちっと烽も楽しそうじ痰ゃないな。",
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # The man is approaching me in a simple way... and I can also take the opportunity to get the chance.
 
-    ("オ激レが見てるってことには、ふたりと烽も気がついてない。†",
+    ("オレが見てるってことには、ふたりと烽も気がついてない。†",
     ""),
     # The two and Ho don't notice that I'm watching.†
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # That was when it was.
 
-    ("委員長が無表﨣情のまま、スッと唐鞄を揩持ち繧上げたかと思うと、それを｢｢。",
+    ("委員長が無表﨣情のまま、スッと鞄を揩持ち繧上げたかと思うと、それを｢｢。",
     ""),
     # I thought the chairman had quickly brought the Karabako bag without any worries, and he replied, ".
 
@@ -262,11 +262,11 @@ text_array = [
     ""),
     # "Ahhh!"
 
-    ("しか烽も、磨当たったのは角のトコ。†",
+    ("しか烽も、当たったのは角のトコ。†",
     ""),
     # However, the chicken was polished on the corner.†
 
-    ("あ、あれは、痛いだｂ。",
+    ("あ、あれは、痛いだ。",
     ""),
     # Oh, that hurts.
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # When I suddenly realized it, the chairman was no longer visible.
 
-    ("結局オ激レは、そのｂ唐突なシチャエーシ㏍ョンに、ただ呆然と立ちつくすだけだった。◯",
+    ("結局オレは、その突なシチャエーションに、ただ呆然と立ちつくすだけだった。◯",
     ""),
     # In the end, I was simply stunned at the sudden b-like situation.◯
 

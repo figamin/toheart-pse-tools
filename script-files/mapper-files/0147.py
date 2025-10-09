@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The second fence time is closed.
 
-    ("オ激レのとこｂに、思寬わぬ客がきた。",
+    ("オレのとこに、思寬わぬ客がきた。",
     ""),
     # During my hard times, a customer came to B who didn't want to think about it.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Hey."
 
-    ("同じク宴ラスの薰矢⊥島というрヤツで、バスケ買部に鰍所属している背のｂ高い男だ。†",
+    ("同じクラスの薰矢⊥島というрヤツで、バスケ買部に鰍所属している背の高い男だ。†",
     ""),
     # He is a tall man named Sonoyajima, who is also a member of the Basketball Buying Club.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "...Mm, let's make a name for yourself."
 
-    ("オ激レは、授業拠からずっと寝ぼけたままの頭を揩持ち繧上げて返抹事する。",
+    ("オレは、授業拠からずっと寝ぼけたままの頭を揩持ち繧上げて返抹事する。",
     ""),
     # I keep my head still asleep since the lesson, and I put it back.
 
-    ("「なあ、ち蛯ょっと、聞いていい？」",
+    ("「なあ、ちょっと、聞いていい？」",
     ""),
     # "Hey, can I listen?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # 﨟Ya⊥jima said with a glaring glare as he scratched his head.
 
-    ("神岸…ってのは、磨当然あかりのことだな。",
+    ("神岸…ってのは、当然あかりのことだな。",
     ""),
     # Kamigan... of course, it's about Akari.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "That's right though."
 
-    ("と、オ激レはごく≠普通に嘯答えた。†",
+    ("と、オレはごく≠普通に嘯答えた。†",
     ""),
     # And I answered very normally.†
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "bean paste?"
 
-    ("そのへんでよう竄やく寝ぼけていた頭が目を覚ました。†",
+    ("そのへんでようやく寝ぼけていた頭が目を覚ました。†",
     ""),
     # My head, which had been dumbfounded and sleepy, woke up.†
 
-    ("「つき№合うって、オ激レとあかりが？」",
+    ("「つき№合うって、オレとあかりが？」",
     ""),
     # "Does this match with Tsuki No.? Is it me and Akari?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Haha, there's no need to be that kind of phlegm."
 
-    ("オ激レは一笑して言った。",
+    ("オレは一笑して言った。",
     ""),
     # I laughed and said.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "...What, were you watching?"
 
-    ("「い竄や、長岡さんに聞いたんだけど」",
+    ("「いや、長岡さんに聞いたんだけど」",
     ""),
     # "I asked Nagaoka-san, it's a bit of a mess."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # Nagaoka... Shiho.†
 
-    ("「彼濫女、神岸さんとはｒ学のこｂからの親友同士なんだｂ？」",
+    ("「彼濫女、神岸さんとはｒ学のこからの親友同士なんだ？」",
     ""),
     # "Are you close friends with the overwhelmed woman, Kamigishi-san, from R-Gakunoko B?"
 
@@ -138,15 +138,15 @@ text_array = [
     ""),
     # "My best friend."
 
-    ("言いながらオ激レは鼻で笑った。",
+    ("言いながらオレは鼻で笑った。",
     ""),
     # As I said, I sniffed.
 
-    ("まあ、本人い墲わく親友なんだｂうけど…。†",
+    ("まあ、本人い墲わく親友なんだうけど…。†",
     ""),
     # Well, he's a close friend of mine, though...†
 
-    ("それにして烽も薰矢⊥島のрヤツ、さっきから神岸さん神岸さんって、あかりのことばかり質竡問し竄やがって、どういうつ烽もりだ。",
+    ("それにして烽も薰矢⊥島のрヤツ、さっきから神岸さん神岸さんって、あかりのことばかり質竡問しやがって、どういうつ烽もりだ。",
     ""),
     # And the ones on Sugiya Island, and for a while, Kamigishi and Kamigishi have been questioning the things about Akari, so what kind of hot springs are they?
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "No way, Konoya Island, you're not sure, do you feel like Akari?"
 
-    ("スト激レートにたずねると、",
+    ("ストレートにたずねると、",
     ""),
     # When I asked for a straight rate,
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # Is it light?
 
-    ("そうい竄や最近諡よく、男子連中があいつに声をかけてる光景を目にするよな。†",
+    ("そういや最近諡よく、男子連中があいつに声をかけてる光景を目にするよな。†",
     ""),
     # I've seen boys talking to him about this and a lot of other people recently.†
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # Oh, it's surprising that it's stiff.†
 
-    ("「で、昨厓日今厓日ファンになった連中とは年季の入闢りが痰違うおれとしては、これ以繹上対抗馬が揩増えない間に、＝早々と彼濫女にト宴ライしようと思った墲わけだ」",
+    ("「で、昨厓日今厓日ファンになった連中とは年季の入闢りが痰違うおれとしては、これ以繹上対抗馬が揩増えない間に、＝早々と彼濫女にトライしようと思った墲わけだ」",
     ""),
     # "And as I have a different age from those who have become fans of the past year, I think I'm going to have a quick banquet with my girlfriend while the number of opponents hasn't increased since then."
 
-    ("「…ト宴ライって、吹告注白するってことか？」",
+    ("「…トライって、吹告注白するってことか？」",
     ""),
     # "...Does this mean that a speech is a message from Tobanrai?"
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # What, what?†
 
-    ("「でさ、その前に、竅やっぱりお前にはっきり聞いておこうと思ってな」",
+    ("「でさ、その前に、やっぱりお前にはっきり聞いておこうと思ってな」",
     ""),
     # "And before that, I thought I'd ask you clearly."
 
@@ -226,19 +226,19 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「い竄や、おれてっきり、お前迹らふたりはつき№合ってる烽もんだと思ってたから…。だって、佐藤に聞いたらそれらしいこと言ってたし…」",
+    ("「いや、おれてっきり、お前迹らふたりはつき№合ってる烽もんだと思ってたから…。だって、佐藤に聞いたらそれらしいこと言ってたし…」",
     ""),
     # "You're so frustrated, I thought you two were right there... Because when I asked Sato, he said something that's pretty similar..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("♂史のрヤ鴻ロー、氈勝闖手なこと言うんじ痰ゃねー。†",
     ""),
     # The ♂Hirou of the Maiden is saying things that are hard to say.†
 
-    ("「そり痰ゃ、お前たちがつき№合ってんだったら、さすがに唐遠慮するしかないか…と思ってさ」",
+    ("「そり痰ゃ、お前たちがつき№合ってんだったら、さすがに遠慮するしかないか…と思ってさ」",
     ""),
     # "If you guys are right, I think we'll just have to be shy away from you..."
 
@@ -267,7 +267,7 @@ text_array = [
     # He slams his palm on the palm with his fist.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「で、ものはついでなんだけどさ｢｢」",
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # That's what I ordered.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

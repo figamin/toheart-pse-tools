@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "He's this kid's coach!"
 
-    ("とりあえずノ潟リだけで、オ激レは言った。",
+    ("とりあえずノリだけで、オレは言った。",
     ""),
     # For now, I just said, "Nogatari."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Coach? You?"
 
-    ("「そうだ！	葵ち痰ゃんを立派な一流の格闘家に育て繧上げるのがオ激レの使命なんだ！」",
+    ("「そうだ！	葵ち痰ゃんを立派な一流の格闘家に育て繧上げるのがオレの使命なんだ！」",
     ""),
     # "That's right! My mission is to raise Aoi Chisho-chan into a top-class martial artist!"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "...Should I say, Senpai?"†
 
-    ("「いいか、葵！	このオ激レが必ずお前を立派な格闘家にして竄やるからな！	ついてこい！」",
+    ("「いいか、葵！	このオレが必ずお前を立派な格闘家にしてやるからな！	ついてこい！」",
     ""),
     # "Look, Aoi! I'll definitely make you a great fighter! Follow me!"
 
@@ -43,18 +43,18 @@ text_array = [
     # "What stupid are you saying?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ぐっ。",
     ""),
     # Wow.
 
-    ("せっかく盛關り繧上がった艪謎の雰囲気だったが、竅坂下に一蹴されてしまった。†",
+    ("せっかく盛關り繧上がった謎の雰囲気だったが、坂下に一蹴されてしまった。†",
     ""),
     # The atmosphere was a mysterious atmosphere that had been thrilled with great success, but was dismissed by Sakashita.†
 

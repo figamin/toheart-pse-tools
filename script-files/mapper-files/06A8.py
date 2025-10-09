@@ -2,19 +2,19 @@
 # Source file: 06A8.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	帰闍り道）閨（選択綜	＝普通に打つ）†",
+    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜	＝普通に打つ）†",
     ""),
     # (Mixing Luck, the balance event, return road) (Choose-soku = hit normally)†
 
-    ("オ激レは、パキンッと、ごく≠普通にパックを打った。",
+    ("オレは、パキンッと、ごく≠普通にパックを打った。",
     ""),
     # My geisha hit the puck in a flash and just as normal.
 
-    ("ススー…とパックは鰍滑っていき、そのままマ泣ルチのゴールに真っ直ぐ突き刺さった。",
+    ("ススー…とパックは鰍滑っていき、そのままマルチのゴールに真っ直ぐ突き刺さった。",
     ""),
     # Susu... Puck slid down, then thrust straight into the goal of Makkuruchi.
 
-    ("少し遅齟れて、マ泣ルチが空振關りする。†",
+    ("少し遅れて、マルチが空振關りする。†",
     ""),
     # The slower the story goes, and Makruchi rushes over.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "S-Sorry, I was thinking about hitting it back, but the timing is...
 
-    ("「ははは、結構ニブイなあ、マ泣ルチって」†",
+    ("「ははは、結構ニブイなあ、マルチって」†",
     ""),
     # "Hahaha, that's pretty ny-sigh, you're crying"
 
-    ("「氈次は、增わたしが打つ番ですね」",
+    ("「氈次は、わたしが打つ番ですね」",
     ""),
     # "It's my turn to play in the silence."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "All right, @i!"
 
-    ("マ泣ルチはペシッとパックを打った。",
+    ("マルチはペシッとパックを打った。",
     ""),
     # Muruki Ruchi hit the puck.
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # ・†
 
-    ("結局、マ泣ルチはオ激レから一度燗もゴールを奪えなかった。",
+    ("結局、マルチはオレから一度燗もゴールを奪えなかった。",
     ""),
     # In the end, Makkuruchi couldn't score the goal even after getting hot.
 
-    ("「…マ泣ルチって、ホント、ニブイ諠よな」",
+    ("「…マルチって、ホント、ニブイ諠よな」",
     ""),
     # "...Mrrrrr is really a nibble."
 

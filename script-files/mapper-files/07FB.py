@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "You'll have to wait a second time."
 
-    ("オ激レは右濶手を軽く繧上げた。",
+    ("オレは右濶手を軽く繧上げた。",
     ""),
     # Ogekire lightly raised his right hand.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Yes, goodbye..."
 
-    ("琴音ち痰ゃんはち蛯ょこんと頭を下げた。◯",
+    ("琴音ち痰ゃんはちょこんと頭を下げた。◯",
     ""),
     # Kotone's head bowed.◯
 

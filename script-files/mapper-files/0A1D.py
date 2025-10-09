@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (A: Hold down Gentaro.)†
 
-    ("「くらっ、いい加減にしｂ！」",
+    ("「くらっ、いい加減にし！」",
     ""),
     # "Damn, just take it apart b!"
 
-    ("オ激レは玄太郎の首輪をつかみ、地面に押さえつけた。",
+    ("オレは玄太郎の首輪をつかみ、地面に押さえつけた。",
     ""),
     # I grabbed Gentaro's collar and held it down to the ground.
 
-    ("「おらっ、おとなしくしてｂ」†",
+    ("「おらっ、おとなしくして」†",
     ""),
     # "L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-L-
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Run away, are you from this guy?"
 
-    ("そう言ってオ激レは玄太郎の頭をポンポンと叩いてみせる。†",
+    ("そう言ってオレは玄太郎の頭をポンポンと叩いてみせる。†",
     ""),
     # With that in mind, I slap Gentaro's head.†
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # I'm coming closer to you,
 
-    ("「增わうっ！」",
+    ("「わうっ！」",
     ""),
     # "Sniff!"
 
-    ("再び起き繧上がった玄太郎が飛びかかｂうとする。†",
+    ("再び起き繧上がった玄太郎が飛びかかうとする。†",
     ""),
     # Gentaro wakes up again and tries to jump on him.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Hey!"
 
-    ("オ激レは玄太郎を押さえつけると、ペタンと路纔上に座闕り桙込んでしまっている揩理女緒ち痰ゃんに片阨手を差し出した。†",
+    ("オレは玄太郎を押さえつけると、ペタンと路纔上に座闕り桙込んでしまっている揩理女緒ち痰ゃんに片阨手を差し出した。†",
     ""),
     # I held down Gentaro and held out a hand to the slug that was sitting on the street and was shaking its face.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Ah, well. Wow, Gentaro?"
 
-    ("オ激レは玄太郎に顔を近づける。",
+    ("オレは玄太郎に顔を近づける。",
     ""),
     # I brought my face closer to Gentaro.
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # Gentaro shook his tail happily.†
 
-    ("「ほらな？	蛛大人しい烽もんだｂ？」",
+    ("「ほらな？	蛛大人しい烽もんだ？」",
     ""),
     # "Look? A quiet hot b?"
 
-    ("「增わうっ！」",
+    ("「わうっ！」",
     ""),
     # "Sniff!"
 
@@ -118,15 +118,15 @@ text_array = [
     ""),
     # Once again, lightly slam your head.†
 
-    ("「う、うん…。だけどこのコ、し蛯ょっち繧ゅうр私のスカートにかみついてくるから…」",
+    ("「う、うん…。だけどこのコ、しょっち繧ゅうр私のスカートにかみついてくるから…」",
     ""),
     # "Uh, yes... But this girl is always biting my skirt..."
 
-    ("「掾理女緒ち痰ゃん烽も竄やられてんのか？	ったく、し蛯ょーがねーイヌだな」",
+    ("「掾理女緒ち痰ゃん烽もやられてんのか？	ったく、しょーがねーイヌだな」",
     ""),
     # "Are you being tampered with, is it that you're not a dog?"
 
-    ("「增わうっ！」",
+    ("「わうっ！」",
     ""),
     # "Sniff!"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # He looks like he doesn't understand at all.
 
-    ("磨当たり前か。†",
+    ("当たり前か。†",
     ""),
     # Is it obvious to polish?†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Look, Gentaro.
 
-    ("理女緒ち痰ゃんビビってるだｂ？	どっか遊びにいってこい」",
+    ("理女緒ち痰ゃんビビってるだ？	どっか遊びにいってこい」",
     ""),
     # Rimo Ochi is scared, isn't he?Come and play somewhere."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # When I hit the butt,
 
-    ("「增わうっ！」",
+    ("「わうっ！」",
     ""),
     # "Sniff!"
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # Gentaro was left in a straightforward manner.†
 
-    ("「とこｂで揩理女緒ち痰ゃん。さっきオ激レに逃げｂとかって言ってたけど…」",
+    ("「とこで揩理女緒ち痰ゃん。さっきオレに逃げとかって言ってたけど…」",
     ""),
     # "I'm in the middle of b. I said to my hardcore slut b earlier that I'd run away, but..."
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "Ah, ugh, yes. I thought, kun, that dogs are in trouble..."
 
-    ("「オ激レが？」†",
+    ("「オレが？」†",
     ""),
     # "Is it really that bad?"
 
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # "Whoa, that's why you helped me out lol? Puff..."
 
-    ("「で烽も、結局、п私のほうが浮助けられち痰ゃったねっ。えへへっ、カッコ純ワ泣ルイっ」",
+    ("「で烽も、結局、п私のほうが浮助けられち痰ゃったねっ。えへへっ、カッコ純ワルイっ」",
     ""),
     # "And in the end, I was able to help my body out. Hehe, I'm so cool, I'm crying so hard."
 
-    ("「い竄やぁ、かっこいい烽もなに烽も…」†",
+    ("「いやぁ、かっこいい烽もなに烽も…」†",
     ""),
     # "It's so tampering, what's cool hotpot and what's hotpot..."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "No, don't let it all fall for you anymore."
 
-    ("「う墲わ、あぶねっ！	とりあえず、棒を振關り回すのは竄やめよう竄や」†",
+    ("「う墲わ、あぶねっ！	とりあえず、棒を振關り回すのはやめようや」†",
     ""),
     # "Uh, that's dangerous! For now, I'll stop tampering with the stick."
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # At that time.
 
-    ("「增わ、增わしの桜が〜っ！",
+    ("「わ、わしの桜が〜っ！",
     ""),
     # "Big, my cherry blossoms are here!
 
@@ -242,11 +242,11 @@ text_array = [
     ""),
     # "!?"
 
-    ("「竅やべっ」",
+    ("「やべっ」",
     ""),
     # "Aaaaahhhhh"
 
-    ("ご近葛所からそんな声が聞こえたので、＊軏介なことになる前に、オ激レたちふたりは≠早々にド鴻ロンした。†",
+    ("ご近葛所からそんな声が聞こえたので、＊軏介なことになる前に、オレたちふたりは≠早々にド鴻ロンした。†",
     ""),
     # I heard this voice from the nearby Kuzuso, so before we could go to the tsuyu, we both quickly went to the tsuyu.†
 

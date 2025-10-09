@@ -14,7 +14,7 @@ text_array = [
     ""),
     # ""
 
-    ("縺後撃からオ激レを呼ぶ声がした。",
+    ("縺後撃からオレを呼ぶ声がした。",
     ""),
     # After the attack, I heard a loud noise.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "oh dear"
 
-    ("「じ痰ゃあ、いっし蛯ょに帰汲うよ」",
+    ("「じ痰ゃあ、いっしょに帰汲うよ」",
     ""),
     # "Ah, I'll return to the slut."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Hmm" †
 
-    ("「ち蛯ょっと待ってて」",
+    ("「ちょっと待ってて」",
     ""),
     # "Wait a moment."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "It's a hassle to wear these."
 
-    ("「だったら烽もっと簡単な竄やつにしｂよ。脱ぎ嘯履きの多い冾日本人酔きじ痰ゃねーだｂーが」",
+    ("「だったら烽もっと簡単なやつにしよ。脱ぎ嘯履きの多い冾日本人酔きじ痰ゃねーだーが」",
     ""),
     # "Then, I'll make it a simpler tamper. I'll take off my clothes and get drunk, and I'm not going to have to worry about the Japanese people being drunk."
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # Masochi laughed as he reconnected his untied shoelaces.
 
-    ("「…ったく、＝早くしｂよ」",
+    ("「…ったく、＝早くしよ」",
     ""),
     # "...Okay, hurry up b."
 
-    ("そう言って、オ激レは一足鞫先に玄関を出た。†",
+    ("そう言って、オレは一足鞫先に玄関を出た。†",
     ""),
     # With that in mind, I walked out the entrance.†
 
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # "Hey, are you still?"
 
-    ("「もうち蛯ょっと｢｢」",
+    ("「もうちょっと｢｢」",
     ""),
     # "Mouchiebi"
 
-    ("あ〜、なんだかイ宴ライ宴ラしてきた。†",
+    ("あ〜、なんだかイライラしてきた。†",
     ""),
     # Ah, it's kind of a feast and a banquet.†
 
-    ("諱よう竄やく靴ひ烽もを汲結び終えたのか、♂史は立ち繧上がった。",
+    ("諱ようやく靴ひ烽もを汲結び終えたのか、♂史は立ち繧上がった。",
     ""),
     # Perhaps he had finished stolen his shoes and stomping, Masochist has come to light.
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # It's so late.
 
-    ("諱よし、軽く制裁をくれて竄やる。†",
+    ("諱よし、軽く制裁をくれてやる。†",
     ""),
     # Okay, I'll give you some light punishment and tamper with it.†
 
-    ("オ激レは撃柱のかげに隠皷れ、様子をうかがった。",
+    ("オレは撃柱のかげに隠皷れ、様子をうかがった。",
     ""),
     # My gang retreated under the stake, and I looked into the situation.
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # A: I scream and terrify me.Relax
 
-    ("Ｂ	遅いっ、とチ㏍ョップ！閨",
+    ("Ｂ	遅いっ、とチョップ！閨",
     ""),
     # B It's late, and chic-yop!Relax
 

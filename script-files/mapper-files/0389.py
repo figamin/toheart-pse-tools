@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Because I have something to do"
 
-    ("と、オ激レは言った。†",
+    ("と、オレは言った。†",
     ""),
     # said my geek.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Akari looks sad.
 
-    ("オ激レの『用がある』は本末当に用がある場㍼合以外に、掾理由燉もなく断髓る場㍼合に烽も用いられる。",
+    ("オレの『用がある』は本末当に用がある場㍼合以外に、掾理由燉もなく断髓る場㍼合に烽も用いられる。",
     ""),
     # In addition to the fact that I have a "sense of use" is used for situations where there is a "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "That's phlegm, right?"
 
-    ("笑迴顔を残し、あかりは竄寂しそうにひとりで帰っていった。◯",
+    ("笑迴顔を残し、あかりは寂しそうにひとりで帰っていった。◯",
     ""),
     # With a smile on his face, Akari left alone in a lonely look on her face.◯
 

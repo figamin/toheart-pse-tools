@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The first fence time is the break time.
 
-    ("オ激レとあかりは廊下で、昨厓日見たテ激レビの話陂題に花を咲かせていた。",
+    ("オレとあかりは廊下で、昨厓日見たテレビの話陂題に花を咲かせていた。",
     ""),
     # My geisha and Akari were in the hallway, and they were blooming in the story of the dramatic TV drama I saw last day.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Ah, hello, "Um, Kamigishi Senpai."
 
-    ("へえ、朝ち蛯ょこっとｉっただけなのに、葵ち痰ゃん、あかりの名前を覚えてたのか。†",
+    ("へえ、朝ちょこっとｉっただけなのに、葵ち痰ゃん、あかりの名前を覚えてたのか。†",
     ""),
     # Wow, I only remembered the names of Aoi Chisho-chan and Akari even though they only had a morning peek.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "What's wrong? Here it is."
 
-    ("「いえ、ち蛯ょっと通闥りかかっただけなんですけど…」",
+    ("「いえ、ちょっと通闥りかかっただけなんですけど…」",
     ""),
     # "No, I just started to get in."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Ah, no, sorry. We're so close friends, so I thought maybe..."
 
-    ("「オ激レがあいつと？」",
+    ("「オレがあいつと？」",
     ""),
     # "Is it really me with that guy?"
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Yeah, yeah..."
 
-    ("「そうだな、あかりとオ激レは｢｢」",
+    ("「そうだな、あかりとオレは｢｢」",
     ""),
     # "Yeah, Akari and I'm "
 

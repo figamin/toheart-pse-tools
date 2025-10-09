@@ -2,7 +2,7 @@
 # Source file: 0841.txt
 
 text_array = [
-    ("（戟レミィ	ノベ泣ルシーン）閨（選択綜	なんだって！？）閨（ボー梶リングフ宴ラグチェックあり）†",
+    ("（戟レミィ	ノベルシーン）閨（選択綜	なんだって！？）閨（ボー梶リングフラグチェックあり）†",
     ""),
     # (With the Novel Crying Scene) (Select So, what is it?) (Bokaji Ringfan Ring Fan rug check included) †
 
@@ -10,27 +10,27 @@ text_array = [
     ""),
     # "What?!"
 
-    ("オ激レは立ちあがった。",
+    ("オレは立ちあがった。",
     ""),
     # My throbbing stood up.
 
-    ("志保の福方へｌかう。†",
+    ("志保の方へｌかう。†",
     ""),
     # I'll go to Shiho's Fukukata.†
 
-    ("「何謇よ、また寝たフ潟リして人の薰情報を｢｢黽き痰ゃっ；」",
+    ("「何謇よ、また寝たフリして人の薰情報を｢｢黽き痰ゃっ；」",
     ""),
     # "Hey, I slept again and got information about people saying, "You're so smug;
 
-    ("目の前まで出ていって、オ激レは志保の両肩をつかんだ。",
+    ("目の前まで出ていって、オレは志保の両肩をつかんだ。",
     ""),
     # I walked out right in front of me and grabbed Shiho's shoulders.
 
-    ("「ち蛯ょっとこっちｗい」",
+    ("「ちょっとこっちｗい」",
     ""),
     # "Chibi-e-to-this lol"
 
-    ("「あらら、ち蛯ょ、ち蛯ょっと、人が見てる墲わっ」†",
+    ("「あらら、ちょ、ちょっと、人が見てる墲わっ」†",
     ""),
     # "Oh, yeah, yeah, yeah, yeah, yeah, people are watching"†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # I pulled it out into the hallway and listened.
 
-    ("「蛛大マジ諠よ。職員室の蛯大森センセのとこｂに行ってたら、＄下センセと山緕上センセが話してるのが聞こえてきたのよ」",
+    ("「蛛大マジ諠よ。職員室の大森センセのとこに行ってたら、＄下センセと山緕上センセが話してるのが聞こえてきたのよ」",
     ""),
     # "My God, Seriously. I was going to Omori Sensei's B in the staff room and I heard Sensei $shita and Sensei Yamagata talking."
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # "What, what? You don't believe it? If so, just check it out, phlegm."
 
-    ("「はじめっからそのつ烽もりだ。オ＜メーもいっし蛯ょにｗい。ガセだったら承知しねーぞ」",
+    ("「はじめっからそのつ烽もりだ。オ＜メーもいっしょにｗい。ガセだったら承知しねーぞ」",
     ""),
     # "That's been a hot spring from the beginning. I'm also gonna be a slut lol. If it's a fake, I wouldn't know."
 
-    ("「增わかってる墲わよ。その繧代岺わり、ホントだったら承知しない墲わよ？」†",
+    ("「わかってる墲わよ。その繧代岺わり、ホントだったら承知しない墲わよ？」†",
     ""),
     # "You know that, you know. If that's true, I don't really understand that?"
 
-    ("オ激レたちは、ことの真叶相を確かめようと、戟レミィの教室へｌかった｢｢と思ったら本人がいた。†",
+    ("オレたちは、ことの真叶相を確かめようと、戟レミィの教室へｌかった｢｢と思ったら本人がいた。†",
     ""),
     # We went to Karemi's classroom to see what was true to the truth, and when we thought, "I thought, I found out that she was.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Hi Amai! Shiho."
 
-    ("「おっ撃レミィ、ち蛯ょうどいい鰍所にｗた」",
+    ("「おっ撃レミィ、ちょうどいい鰍所にｗた」",
     ""),
     # "Oh, I got to the nice morning roast."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("「いきなり聞くけど、ア＜メ潟リカに帰驪るって本末当か？」",
+    ("「いきなり聞くけど、ア＜メリカに帰驪るって本末当か？」",
     ""),
     # "I've heard this all of a sudden, but is it true that you're going back to America?"
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("「ホ激レ見なさいホ激レ見なさい」†",
+    ("「ホレ見なさいホレ見なさい」†",
     ""),
     # "Look at the hard work, watch at the hard work" †
 
-    ("「そんな蛯大切なこと、なんで今まで黙ってたんだよ」",
+    ("「そんな大切なこと、なんで今まで黙ってたんだよ」",
     ""),
     # "That important thing, why have you been silent up until now?"
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "I actually thought that I had no phlegms and no phlegms..."
 
-    ("「そり痰ゃねーぞ。思いっきり蛯大切じ痰ゃねーか」†",
+    ("「そり痰ゃねーぞ。思いっきり大切じ痰ゃねーか」†",
     ""),
     # "There's no phlegm. You should take it as much care as you can."†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "...That's right. It's family, huh..."
 
-    ("「そーだよ、オ激レに烽も知髓る権圏あるって」",
+    ("「そーだよ、オレに烽も知髓る権圏あるって」",
     ""),
     # "That's right, I have the right to know about hot springs."
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # "...Have you adopted Karemy's son?"
 
-    ("「…えっとね、今骰夜、家で№ｇ盾ｏ盾ｏрｄｂｂ凾ｙｂ	吹ｐ≠ａ窒ｒｔ凾ｙするの。、＠て」",
+    ("「…えっとね、今骰夜、家で№ｇ盾ｏ盾ｏрｄ凾ｙ	吹ｐ≠ａ窒ｒｔ凾ｙするの。、＠て」",
     ""),
     # "...Um, I'm going to do it at home at night, and I'm going to blow it up ≠a nitrogen."
 
-    ("「もちｂん行くって」",
+    ("「もちん行くって」",
     ""),
     # "I'll go for it."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "What, what? Party?
 
-    ("レミィんち、カ宴ラオケあんの？」†",
+    ("レミィんち、カラオケあんの？」†",
     ""),
     # Is there a Remy's kabanquet?”†
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "...Can I keep this guy coming back to me again?"
 
-    ("オ激レが聞くと、戟レミィはウンとうなずいた。",
+    ("オレが聞くと、戟レミィはウンとうなずいた。",
     ""),
     # When I heard, Karemi nodded.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Oshi. Can I invite Akari and I-Shin Smoking as well?"
 
-    ("「竅やった〜っ！	パーティ〜〜〜」◯",
+    ("「やった〜っ！	パーティ〜〜〜」◯",
     ""),
     # "I did it! Party~~" ◯
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # Akari and I-His are so impressed.
 
-    ("オ激レはこれくらい魔当然だｂと言甯わんばかりにインターホンを操総した。",
+    ("オレはこれくらい魔当然だと言甯わんばかりにインターホンを操総した。",
     ""),
     # I said that it was just this badass, and as if to control the intercom.
 
@@ -206,11 +206,11 @@ text_array = [
     ""),
     # Akari nodded, and the smoked smoky squeal continues after the meal.†
 
-    ("オ激レはそのあとに蛯門をくぐり、ち痰ゃんと閉じてからふたりを追いかけた。",
+    ("オレはそのあとに門をくぐり、ち痰ゃんと閉じてからふたりを追いかけた。",
     ""),
     # After that, I passed through the Ebimon, closed it with a slut, and then chased after them.
 
-    ("…そうい竄や、玄関にはジャ潟リーがいるんだったな。",
+    ("…そういや、玄関にはジャリーがいるんだったな。",
     ""),
     # ...That's what happened, and there was Jagata Lee at the entrance.
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "What? Chisphin's a bitter thing."
 
-    ("あかりは立ち止まったが、♂史の福方は自分のことじ痰ゃないというふうに烽歩きつづけた。",
+    ("あかりは立ち止まったが、♂史の方は自分のことじ痰ゃないというふうに烽歩きつづけた。",
     ""),
     # Akari stopped, but Masochist Fukukata continued to roam as if he had no phlegm for himself.
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "what happened?"
 
-    ("振關りかえるｉ史のすぐそばにはジャ潟リーがいる…。†",
+    ("振關りかえるｉ史のすぐそばにはジャリーがいる…。†",
     ""),
     # Jagata Li is right next to the retreating history...†
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "Where...? Ah, it's true. She's so cute."
 
-    ("ガ泣ル泣ル泣ル泣ル…。†",
+    ("ガルルルル…。†",
     ""),
     # I cried and cried and cried and cried...†
 
@@ -274,19 +274,19 @@ text_array = [
     ""),
     # "What's your name?"
 
-    ("「ジャ潟リーってんだけど…、おい、怒ってるって」",
+    ("「ジャリーってんだけど…、おい、怒ってるって」",
     ""),
     # "I'm Jagata Li... hey, you're angry."
 
-    ("「諱よｂしく、ジャ潟リー」",
+    ("「諱よしく、ジャリー」",
     ""),
     # "Good name, Jagata Lee."
 
-    ("警卲戒しまくってるジャ潟リーに、♂史は気にしたふう烽もなく手を差し出した。†",
+    ("警卲戒しまくってるジャリーに、♂史は気にしたふう烽もなく手を差し出した。†",
     ""),
     # Masochi held out his hand to Jagata Li, who was constantly wary of the guards, without any worries.†
 
-    ("びっくりしたジャ潟リーはガブッと｢｢。",
+    ("びっくりしたジャリーはガブッと｢｢。",
     ""),
     # Surprised, Jagata Li said, ".
 
@@ -298,11 +298,11 @@ text_array = [
     ""),
     # It's not here.
 
-    ("ジャ潟リーは気搴持ち良さそうに、頭をなでられている。",
+    ("ジャリーは気搴持ち良さそうに、頭をなでられている。",
     ""),
     # Jagata Li looks like he is stroking his head.
 
-    ("竅や、竅やるな…、♂史。†",
+    ("や、やるな…、♂史。†",
     ""),
     # Don't do it, don't do it... Masochist.†
 
@@ -318,11 +318,11 @@ text_array = [
     ""),
     # "Big dogs are quiet, so I thought they'd be fine."
 
-    ("「犬だっていｂんなрヤツがいるだｂ」",
+    ("「犬だっていんなрヤツがいるだ」",
     ""),
     # "There's a dog that's a b-bag."
 
-    ("「うん。いまは蛯大苟丈夫だったみたいだけど、氈次からは気をつけるよ」†",
+    ("「うん。いまは大苟丈夫だったみたいだけど、氈次からは気をつけるよ」†",
     ""),
     # "Yes. It seems like he's strong now, but I'll be careful from now on."
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # ...Not at all.
 
-    ("竅やっぱこいつ、将女亥卵蝠ｨになりそうだ。",
+    ("やっぱこいつ、将女亥卵蝠ｨになりそうだ。",
     ""),
     # This guy looks like he'll become the owner, Miko Ooga.
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # Just as I was thinking that, the entrance opened.
 
-    ("「Ｈ盾ｏ翌ｗ	氏ｎ奄ｉモｃｂ	潤ｏｂ	凵ｙ盾ｏ浮ｕ	ｔ盾ｏ	メｃ盾ｏ高ｍｂ。イ宴ラッシャャ〜イ」",
+    ("「Ｈ盾ｏ翌ｗ	氏ｎ奄ｉモｃ	潤ｏ	凵ｙ盾ｏ浮ｕ	ｔ盾ｏ	メｃ盾ｏ高ｍ。イラッシャャ〜イ」",
     ""),
     # "H shield o the next day lol Mr. Amaimo CB Jun OB Shield O Float Shield O MB Shield O High MB. I'm banquet rashy!"
 
@@ -362,11 +362,11 @@ text_array = [
     ""),
     # "Good evening, Karemi Remie."
 
-    ("「Ｇ盾ｏ盾ｏрｄ	≠魔ｖｂ獅ｎ奄ｉ獅ｎ№ｇ」",
+    ("「Ｇ盾ｏ盾ｏрｄ	≠魔ｖ獅ｎ奄ｉ獅ｎ№ｇ」",
     ""),
     # "G Shield O Shield O ≠ Demon VB Lion N Amai Lion"
 
-    ("それぞれあいさつを交甯わして、オ激レたちは家のｒに入った。",
+    ("それぞれあいさつを交甯わして、オレたちは家のｒに入った。",
     ""),
     # Each of us exchanged greetings and the others entered the house.
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # The bus was in the middle of the house and they went "I have something to do."†
 
-    ("「ア＜メ潟リカってホントに靴、脱がないんだね」",
+    ("「ア＜メリカってホントに靴、脱がないんだね」",
     ""),
     # "A<Megata Rika really doesn't take off their shoes."
 
@@ -386,23 +386,23 @@ text_array = [
     ""),
     # "Ah... in that sense, there's no phlegm."
 
-    ("「增わーってるよ」†",
+    ("「わーってるよ」†",
     ""),
     # "I'm gonna cum" †
 
-    ("オ激レたちは痰例の鰍リビング兼パーティラ皷場に入った。",
+    ("オレたちは痰例の鰍リビング兼パーティラ皷場に入った。",
     ""),
     # Our gangbang entered the living room and party laid-back hall, which was a sputum.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なんか、場瘴違いなｏ闖りつけが…。",
     ""),
     # It's a strange slurred thing...
 
-    ("「增わあ…。すごく広いね」",
+    ("「わあ…。すごく広いね」",
     ""),
     # "Wow... That's so big."
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # Suddenly, a voice like this was heard, and the dad stood up in the air.
 
-    ("梶相変﨑わらず、閨手にした奄ライフ泣ルはこっちを狙っている。†",
+    ("梶相変﨑わらず、閨手にした奄ライフルはこっちを狙っている。†",
     ""),
     # Kaji Ai Henzaki, Amami Life Crying, holding his arms in his arms, is aiming for this.†
 
@@ -430,23 +430,23 @@ text_array = [
     ""),
     # The two suddenly respond with a terrifying surprise, "Good evening."
 
-    ("いちおう前熨もって話してあるので、あれをはじめて見たときのオ激レほどじ痰ゃないと思う。†",
+    ("いちおう前熨もって話してあるので、あれをはじめて見たときのオレほどじ痰ゃないと思う。†",
     ""),
     # I've been talking about a front gift wrapping session, so I don't think it's as phlegm as I did when I first saw it.†
 
-    ("「潤ワザ純ワザ集マッテｃモ宴ラッテ、п私ハ嬉シイ」",
+    ("「潤ワザ純ワザ集マッテｃモラッテ、п私ハ嬉シイ」",
     ""),
     # "June Techniques Collection Matte C Moban Latte, I'm so happy."
 
-    ("「磨当然ですよ」",
+    ("「当然ですよ」",
     ""),
     # "Of course it's fine."
 
-    ("「香ｍ≠ａ窒ｒ魔ｖｂ撃ｌ盾ｏ浮ｕ唐入！！	感謝ニ耐エナイ言葉ダ。…一発ｔ撃ッテイイカネ？」",
+    ("「香ｍ≠ａ窒ｒ魔ｖ撃ｌ盾ｏ浮ｕ入！！	感謝ニ耐エナイ言葉ダ。…一発ｔ撃ッテイイカネ？」",
     ""),
     # "An Koh M≠A Nitrol Magic VB Shooting Shield O Floating Tang Iri!! Thank you so much, but I'm not sure what to say.... Can you do it in one shot?"
 
-    ("「はははっ、ク宴ラッカーの繧代岺わりですか？	景気諡よくどーぞ」",
+    ("「はははっ、クラッカーの繧代岺わりですか？	景気諡よくどーぞ」",
     ""),
     # "Hahaha, are you the banquet lacquer? What do you think?"
 
@@ -458,11 +458,11 @@ text_array = [
     ""),
     # Pair!
 
-    ("ク宴ラッカーどこｂか、目の前でカミナ潟リが獅落ちたみたいな撃轟音が響いた。",
+    ("クラッカーどこか、目の前でカミナリが獅落ちたみたいな撃轟音が響いた。",
     ""),
     # A roar of fire lacquer, like a lion fell in front of me.
 
-    ("天苴井に鰍穴が開いて、木のクズがパ宴ラパ宴ラと獅落ちてくる…。†",
+    ("天井に鰍穴が開いて、木のクズがパラパラと獅落ちてくる…。†",
     ""),
     # A crocodile hole opens in the Tenrei Ceiling, and wooden scum falls into a lion's banquet...†
 
@@ -474,7 +474,7 @@ text_array = [
     ""),
     # There's no bullet coming out, so there's no phlegm!?
 
-    ("空砲のはずだｂ〜〜〜！？†",
+    ("空砲のはずだ〜〜〜！？†",
     ""),
     # It should be a blank cannon!?†
 
@@ -482,7 +482,7 @@ text_array = [
     ""),
     # "Oh, yeah...? The bullets come out..."
 
-    ("堰ライフ泣ルから弾を抜き出すと、おモ父さんは不思議そうにながめだした。",
+    ("堰ライフルから弾を抜き出すと、おモ父さんは不思議そうにながめだした。",
     ""),
     # When he pulled out the bullet from the weir life cry, Dad started looking curiously.
 
@@ -490,11 +490,11 @@ text_array = [
     ""),
     # Gachaya!
 
-    ("突然、怐奥のドアが開いてシンディさんがｋけ桙込んできた。†",
+    ("突然、怐奥のドアが開いてシンディさんが駆け桙込んできた。†",
     ""),
     # Suddenly, the door in the back opened and Cindy came in.†
 
-    ("「おモ父さんっ！	またｂ撃ったのね！？」",
+    ("「おモ父さんっ！	また撃ったのね！？」",
     ""),
     # "Omodad! You shot B again, didn't you?!"
 
@@ -506,23 +506,23 @@ text_array = [
     ""),
     # ...Is "again" 'again' again?'†
 
-    ("「イсヤ…、テッキ潟リ空砲ダト…」",
+    ("「イсヤ…、テッキリ空砲ダト…」",
     ""),
     # "Yes... Tekkigatari blank cannon..."
 
-    ("「とか言いながらいちいち実弾を使ってるのはおモ父さんでし蛯ょ？	この曹国では痰違法なんですからね？」",
+    ("「とか言いながらいちいち実弾を使ってるのはおモ父さんでしょ？	この曹国では痰違法なんですからね？」",
     ""),
     # "The one who uses live ammunition every time, while saying that, is Omoda-daddy? In this Cao Kingdom, phlegm is illegal, right?"
 
-    ("「ａモ、ａモチ鴻ロン、ソ激レハ承知ダガ…」",
+    ("「ａモ、ａモチ鴻ロン、ソレハ承知ダガ…」",
     ""),
     # "Amo, amochi Koron, so you know so rarely dagger..."
 
-    ("シンディさんに叱邇られて、しどｂ烽もどｂのおモ父さん。†",
+    ("シンディさんに叱邇られて、しど烽もどのおモ父さん。†",
     ""),
     # Cindy scolds me, and I'm a dad who is a big fan of me.†
 
-    ("「さあ、＝早く弾倉ク潟リップ",
+    ("「さあ、＝早く弾倉クリップ",
     ""),
     # "Come on, right? Quickly, Magazine Kugata Lip
 
@@ -530,11 +530,11 @@ text_array = [
     ""),
     # Give me a message."
 
-    ("「コ激レガ無イトダナ…」",
+    ("「コレガ無イトダナ…」",
     ""),
     # "A super-legal-free"
 
-    ("「困骰るのはр私たちですよ。おモ父さん烽も家族に怩万齧一のことがあれば烽もっと困骰るでし蛯ょう？」",
+    ("「困骰るのはр私たちですよ。おモ父さん烽も家族に怩万齧一のことがあれば烽もっと困骰るでしょう？」",
     ""),
     # "We are the ones who are troubled. If my family were to have a scoop, I'd be even more troubled, right?"
 
@@ -542,7 +542,7 @@ text_array = [
     ""),
     # "Junwacutta.
 
-    ("引キ焜金ニ指虫ヲカケナケ激レバ｢｢」",
+    ("引キ焜金ニ指虫ヲカケナケレバ｢｢」",
     ""),
     # The spurt of the fingerworm is ""
 
@@ -550,11 +550,11 @@ text_array = [
     ""),
     # "It's Dam.
 
-    ("撃つときは汲結局かけるんでし蛯ょ」†",
+    ("撃つときは汲結局かけるんでしょ」†",
     ""),
     # When I shoot, I end up picking it up, so I'll end up making it."
 
-    ("「デハ、薬室ニ弾鋳ヲ翼送苑ラナケ激レバ｢｢」",
+    ("「デハ、薬室ニ弾鋳ヲ翼送苑ラナケレバ｢｢」",
     ""),
     # "Deha, the chamber casts the bullet and sends you to the wings of the firing of ""
 
@@ -562,7 +562,7 @@ text_array = [
     ""),
     # "That's a shame too!
 
-    ("送齣ればｂ撃てるでし蛯ょ」",
+    ("送齣れば撃てるでしょ」",
     ""),
     # If you send it, you can shoot B-shot."
 
@@ -582,7 +582,7 @@ text_array = [
     ""),
     # Cindy has a satisfying face in a simple way.
 
-    ("そんな竄やり取闔りを見ながらオ激レは、戟レミィって竄やっぱおモ父さん翌似だなと思った。",
+    ("そんなやり取闔りを見ながらオレは、戟レミィってやっぱおモ父さん翌似だなと思った。",
     ""),
     # As I watched the tampering and interrogation, I thought that the tampering and throbbing was like the next day of Omoda.
 
@@ -590,11 +590,11 @@ text_array = [
     ""),
     # Akari Hou also seemed to think so, and he smiled wryly.†
 
-    ("「今厓日は特別なパーティなんですから、銃はなしにしまし蛯ょう、おモ父さん」",
+    ("「今厓日は特別なパーティなんですから、銃はなしにしましょう、おモ父さん」",
     ""),
     # "It's a special party right now, so we'll leave no guns here, Daddy."
 
-    ("オ激レは、ガッカ潟リしているおモ父さんにそう声をかけた。†",
+    ("オレは、ガッカリしているおモ父さんにそう声をかけた。†",
     ""),
     # I called out to my daddy who was lying around.†
 
@@ -606,11 +606,11 @@ text_array = [
     ""),
     # "Hahahaha! It's not good enough.
 
-    ("私ノセイデ黹場衷ヲシンミ潟リサセテシマッタャウダ。別剣レｃモ楽シク行キタイｃモノダナ」",
+    ("私ノセイデ黹場衷ヲシンミリサセテシマッタャウダ。別剣レｃモ楽シク行キタイｃモノダナ」",
     ""),
     # I have a lot of trouble with the city.Another sword Rec Moraku Shiku to Kitai C Monodana"
 
-    ("とオ激レの肩をバンバン叩いた。",
+    ("とオレの肩をバンバン叩いた。",
     ""),
     # He slapped my hardcore shoulder.
 
@@ -618,7 +618,7 @@ text_array = [
     ""),
     # "...Oh, that's right."
 
-    ("意外と力がこ烽もった手で叩かれ、諱よｂめきながらのオ激レ。†",
+    ("意外と力がこ烽もった手で叩かれ、諱よめきながらのオレ。†",
     ""),
     # Surprisingly, my strength was pounded with a hand that was full of energy, and I started to squeal and screamed, groaning.†
 
@@ -626,15 +626,15 @@ text_array = [
     ""),
     # After laughing for a moment, Daddy,
 
-    ("「ア宴ラタ＜メテ今晩ハ。ノ友達ダネ？」",
+    ("「アラタ＜メテ今晩ハ。ノ友達ダネ？」",
     ""),
     # "Ahhhh <Meet tonight. No friend?"
 
-    ("と手にした奄ライフ泣ルを構えた。",
+    ("と手にした奄ライフルを構えた。",
     ""),
     # He held up Amami Life crying in his hand.
 
-    ("狙っているのは烽もちｂん、あかりとｉ史。†",
+    ("狙っているのは烽もちん、あかりとｉ史。†",
     ""),
     # What they're aiming for is Komochi B, Akari and I-Shin.†
 
@@ -642,7 +642,7 @@ text_array = [
     ""),
     # I just had a bullet pulled out by Cindy, but if I was hit by the gun, I couldn't fall.
 
-    ("あかりなんかは思いっきり手を唐挙げている。",
+    ("あかりなんかは思いっきり手を挙げている。",
     ""),
     # Akari is raising her hands as hard as she can.
 
@@ -654,7 +654,7 @@ text_array = [
     ""),
     # "That guy is ""
 
-    ("「は、はいっ。神岸…神岸あかりです。ど、どうぞよｂしく」",
+    ("「は、はいっ。神岸…神岸あかりです。ど、どうぞよしく」",
     ""),
     # "Yes. Kamigan... Kamigan Akari. Please, please."
 
@@ -666,11 +666,11 @@ text_array = [
     ""),
     # "Kamigishi Sanka.
 
-    ("ｂｂ≠ａ浮ｕｔ奄ｉｂ浮ｕ撃ｌナ娘サンダネ。",
+    ("≠ａ浮ｕｔ奄ｉ浮ｕ撃ｌナ娘サンダネ。",
     ""),
     # BB≠A Utamib Utueuuu Ekira Sandane.
 
-    ("私ハＨｂ撃ｌｂ獅ｎノャ父ノＧｂ盾ｏ窒ｒ№ｇｂダ。ドウゾャ鴻ロシク」",
+    ("私ハＨ撃ｌ獅ｎノャ父ノＧ盾ｏ窒ｒ№ｇダ。ドウゾャ鴻ロシク」",
     ""),
     # I'm going to hit the lion, no yafather, no gib shield, no ir№gbda.Douzou Koroshik"
 
@@ -678,7 +678,7 @@ text_array = [
     ""),
     # "Yes;" †
 
-    ("「ハッハッハ。コチ宴ラノ君ハ？」",
+    ("「ハッハッハ。コチラノ君ハ？」",
     ""),
     # "Hahaha. This feast Rano-kun ha?"
 
@@ -686,11 +686,11 @@ text_array = [
     ""),
     # "Ah, yes. I'm Sato Megumi.
 
-    ("レミィとは一年生の頃同じク宴ラスでしたよ」",
+    ("レミィとは一年生の頃同じクラスでしたよ」",
     ""),
     # I was in the same banquet when I was in my first year with Remy."
 
-    ("「ソウカ、君ガ佐藤クンカ。娘カ宴ラャク聞イテイ泣ルャ。",
+    ("「ソウカ、君ガ佐藤クンカ。娘カラャク聞イテイルャ。",
     ""),
     # "Souka, you're Sato Kunka. My daughter's party is heard and I'm crying.
 
@@ -702,15 +702,15 @@ text_array = [
     ""),
     # Makoto Shi swapped his arms with his father,
 
-    ("「その奄ライフ泣ル、すごいですね」",
+    ("「その奄ライフル、すごいですね」",
     ""),
     # "That Amami Life Crying is amazing."
 
-    ("恐がるどこｂか自分から近づいた。†",
+    ("恐がるどこか自分から近づいた。†",
     ""),
     # I was scared, and I approached myself.†
 
-    ("「ハッハッハ。見旧ル目ガア泣ルナ、佐藤クンハ。コ激レハ『ガー堰ランド』ト言ッテネ｢｢」",
+    ("「ハッハッハ。見旧ル目ガアルナ、佐藤クンハ。コレハ『ガー堰ランド』ト言ッテネ｢｢」",
     ""),
     # "Hahaha. I saw the old eyes and squeals, Sato-kunha. I was so excited, "Gar-Day Land," he said, ""
 
@@ -726,7 +726,7 @@ text_array = [
     ""),
     # My father is in such a good year."
 
-    ("言いながら、すっかり床と天苴井（！？）をきれいにしてしまったシンディさんが竄やってきて、",
+    ("言いながら、すっかり床と天井（！？）をきれいにしてしまったシンディさんがやってきて、",
     ""),
     # As I said, Cindy, who had completely cleaned up the floor and Tenryi (!?), came to tamper with it.
 
@@ -742,7 +742,7 @@ text_array = [
     ""),
     # Akari Kana responded to this, and for now he ended his greetings with those who had sent him together.†
 
-    ("そこでオ激レはなんとなく『そｂそｂだな』と思った。†",
+    ("そこでオレはなんとなく『そそだな』と思った。†",
     ""),
     # So I somehow thought, "It's a b b b b."†
 
@@ -758,11 +758,11 @@ text_array = [
     ""),
     # "Yahoo!!!"
 
-    ("オ激レのときと同じように、勢いよく開かれたドアからミッキーが飛びこんでｗた。†",
+    ("オレのときと同じように、勢いよく開かれたドアからミッキーが飛びこんでｗた。†",
     ""),
     # Mickey jumped in through the door that was opened with force, just like I was in my ecstasy.†
 
-    ("「Ｇ盾ｏ盾ｏрｄ	≠魔ｖｂ獅ｎ奄ｉ獅ｎ№ｇ！	兄ち痰ゃん」",
+    ("「Ｇ盾ｏ盾ｏрｄ	≠魔ｖ獅ｎ奄ｉ獅ｎ№ｇ！	兄ち痰ゃん」",
     ""),
     # "G Shield O Shield O ≠ Demon VB Lion N Amai Lion! Brother Sphin-yan"
 
@@ -774,19 +774,19 @@ text_array = [
     ""),
     # "Hello, Mickey."
 
-    ("「諱よｂしく」",
+    ("「諱よしく」",
     ""),
     # "Great name"
 
-    ("「Ｈ盾ｏ翌ｗ	пｄ盾ｏ	凵ｙ盾ｏ浮ｕ	пｄ盾ｏ？	俺、長男のＭ奄ｉモｃｂ≠ａｂ撃ｌ。",
+    ("「Ｈ盾ｏ翌ｗ	пｄ盾ｏ	凵ｙ盾ｏ浮ｕ	пｄ盾ｏ？	俺、長男のＭ奄ｉモｃ≠ａ撃ｌ。",
     ""),
     # "H shield o the next day lol пd shield o пd shield o пd shield o? I'm my eldest son, M Amaimo CB ≠ AB Shot.
 
-    ("よｂしく」†",
+    ("よしく」†",
     ""),
     # Please b"†
 
-    ("「諱よｂしくね」",
+    ("「諱よしくね」",
     ""),
     # "Please give me your name."
 
@@ -798,11 +798,11 @@ text_array = [
     ""),
     # "One sister, you're a person!"
 
-    ("磨当たり前のように言った。",
+    ("当たり前のように言った。",
     ""),
     # I said it was obvious.
 
-    ("さすがというか、オ激レがミッキーだったらとて烽もあそこまでスト激レートには言えない。†",
+    ("さすがというか、オレがミッキーだったらとて烽もあそこまでストレートには言えない。†",
     ""),
     # I mean, if I were Mickey, then even Ho couldn't say that it was such a rapid rate.†
 
@@ -822,7 +822,7 @@ text_array = [
     ""),
     # "With me?"
 
-    ("「うん。兄ち痰ゃんからサッカー竅やってるって聞いたから」",
+    ("「うん。兄ち痰ゃんからサッカーやってるって聞いたから」",
     ""),
     # "Yes. I heard from my brother, Symptomy, that he's playing soccer."
 
@@ -842,11 +842,11 @@ text_array = [
     ""),
     # I-Shi was shaking his head, but it's too late if the ball was thrown at him.
 
-    ("すかさずト宴ラップして鰍リフティングを始めてしまうとこｂなんか、もう条緒件反射だ。†",
+    ("すかさずトラップして鰍リフティングを始めてしまうとこなんか、もう条緒件反射だ。†",
     ""),
     # When I immediately started wrapping and lifting the banquet, I was already feeling a little reflexive about the situation.†
 
-    ("「すごいすごい！	オ激レに教えてよっ！」",
+    ("「すごいすごい！	オレに教えてよっ！」",
     ""),
     # "Amazing! Tell me!"
 
@@ -862,15 +862,15 @@ text_array = [
     ""),
     # "Hahaha!
 
-    ("ヨカッタナ、Ｍ奄ｉモｃ汲ｋ凾ｙ。新シイオ姉チャャントオ兄チャャンガデキテ」",
+    ("ヨカッタナ、Ｍ奄ｉモｃ汲駆凾ｙ。新シイオ姉チャャントオ兄チャャンガデキテ」",
     ""),
     # Yokattanana, I'm taking a look at M Amaimoc.New Shiio-san Chaantoo-san Chaanga-san Chaanga-san
 
-    ("豪快に笑うおモ父さんの銃繒口はミッキーの福方へしっかりｌいている。",
+    ("豪快に笑うおモ父さんの銃繒口はミッキーの方へしっかりｌいている。",
     ""),
     # Dad's laughing loudly, laughing at him firmly in front of Mickey's Fukukata.
 
-    ("弾が抜かれてるとはいえ、竅やっぱ恐いだｂう。",
+    ("弾が抜かれてるとはいえ、やっぱ恐いだう。",
     ""),
     # Even though the bullets have been removed, I'm still scared.
 
@@ -882,11 +882,11 @@ text_array = [
     ""),
     # "Tokorode. Two friends are you two dakekana?"
 
-    ("「あ、はい。あとひとり、小うるさいрヤツを呼んであるんですが…。遅齟れてるのかな？」",
+    ("「あ、はい。あとひとり、小うるさいрヤツを呼んであるんですが…。遅れてるのかな？」",
     ""),
     # "Ah, yes. I'm calling one other guy who's a little noisy... Is he being late?"
 
-    ("…ったく、なに竄やってんだかあいつは。†",
+    ("…ったく、なにやってんだかあいつは。†",
     ""),
     # ...What are you doing, what are you doing?†
 
@@ -898,19 +898,19 @@ text_array = [
     ""),
     # Akari asked.
 
-    ("そうい竄や、姿が見えないな。",
+    ("そういや、姿が見えないな。",
     ""),
     # I can't see it like that.
 
-    ("今回のパーティの蛯主役なのに…。†",
+    ("今回のパーティの主役なのに…。†",
     ""),
     # He's the lead role in this party...†
 
-    ("「アア、Ｈｂ撃ｌｂ獅ｎカ。彼濫女ハイマ艫台椛所ダャ。",
+    ("「アア、Ｈ撃ｌ獅ｎカ。彼濫女ハイマ艫台椛所ダャ。",
     ""),
     # "Ahh, I'm going to shoot Hb. He's a bunch of girls, Haima, bastard.
 
-    ("母サンノ閭手伝イ茶ヲсヤッテ泣ル」",
+    ("母サンノ閭手伝イ茶ヲсヤッテル」",
     ""),
     # Mother Sanno's helping her, Ichao, crying."
 
@@ -926,7 +926,7 @@ text_array = [
     ""),
     # "Who do you have money?"
 
-    ("「Ｔｂ奄ｉ唐入	堰ｉ唐入	Ｈｂ撃ｌｂ獅ｎ」",
+    ("「Ｔ奄ｉ入	堰ｉ入	Ｈ撃ｌ獅ｎ」",
     ""),
     # "Tb Amai Tang Inn, weir I Tang Inn, Hb Shot Lion"
 
@@ -934,11 +934,11 @@ text_array = [
     ""),
     # I heard the voice of Remy.†
 
-    ("「ナンダ、Ｈｂ撃ｌｂ獅ｎカ…。",
+    ("「ナンダ、Ｈ撃ｌ獅ｎカ…。",
     ""),
     # "Nanda, I'm going to attack HB...
 
-    ("武﨑器抽ヲ捨テテ、＜ック潟リトドア茶ヲ開ケナサイ」",
+    ("武﨑器抽ヲ捨テテ、＜ックリトドア茶ヲ開ケナサイ」",
     ""),
     # Please throw away the Takezaki utensil drawer and open the door to tea.
 
@@ -954,15 +954,15 @@ text_array = [
     ""),
     # The door slammed open and Remy came in pushing the cart.
 
-    ("堰ライフ泣ルを構えたおモ父さんにｌけて、",
+    ("堰ライフルを構えたおモ父さんにｌけて、",
     ""),
     # In front of my dad who was holding a life jacket,
 
-    ("「アタシのＷｂ≠ａ垂ｐ盾ｏ獅ｎは、料摎理デース！	捨てて烽もいいの？」†",
+    ("「アタシのＷ≠ａ垂ｐ盾ｏ獅ｎは、料摎理デース！	捨てて烽もいいの？」†",
     ""),
     # "My Wb≠a shield or lion is a food item! Is it okay to throw it away?"
 
-    ("「イсヤ、待テ…ソ激レハ困牛ル。…ダッタ宴ラ帥武封装解怏除ダ。ソノ帥武﨑器抽ヲコチ宴ラニ引キ渡シナサイ」",
+    ("「イсヤ、待テ…ソレハ困牛ル。…ダッタラ帥武封装解怏除ダ。ソノ帥武﨑器抽ヲコチラニ引キ渡シナサイ」",
     ""),
     # "Yes, wait... So he's extremely troubling.... The banquet of the warriors will be released from the seal. The banquet of the warriors will be drawn out. The banquet of the warriors will be drawn out.
 
@@ -986,7 +986,7 @@ text_array = [
     ""),
     # Ekiremi is in trouble as he tries to dismantle the charges, not hostages, and the daddy is in trouble.
 
-    ("弾の入っていない奄ライフ泣ルと料摎理をのせた盾ワゴンが互角のｋけ引きを竄やってるよ。",
+    ("弾の入っていない奄ライフルと料摎理をのせた盾ワゴンが互角の駆け引きをやってるよ。",
     ""),
     # The Amami Life Cry, which does not contain bullets, and the shield wagon with the ramblings on the board, are tampering with equal k-pulls.
 
@@ -998,7 +998,7 @@ text_array = [
     ""),
     # "I don't have time. Is it okay to have hot water because the fees are bad?"
 
-    ("「Ｗ≠ａ奄ｉｔ	Ｗ≠ａ奄ｉｔ！	チ㏍ョット待テ」",
+    ("「Ｗ≠ａ奄ｉｔ	Ｗ≠ａ奄ｉｔ！	チョット待テ」",
     ""),
     # "W≠a Amait W≠a Amait! Waiting for the Chiccoutre."
 
@@ -1006,7 +1006,7 @@ text_array = [
     ""),
     # "Wait Mathene."
 
-    ("潤ワゴンをグ宴ラグ宴ラ艫ゆする撃レミィ。†",
+    ("潤ワゴンをグラグラ艫ゆする撃レミィ。†",
     ""),
     # Ekiremi shook the Jun Wagon's banquet and banquet.†
 
@@ -1014,15 +1014,15 @@ text_array = [
     ""),
     # "Junwa, Junwacuta..."
 
-    ("堰ライフ泣ルがおモ父さんの手を離齬れ、ガチャャ潟リと床に獅落ちた。",
+    ("堰ライフルがおモ父さんの手を離齬れ、ガチャャリと床に獅落ちた。",
     ""),
     # The dam life crying lost his hand to Omo's father, and the lion fell on the floor.
 
-    ("そのまま両阯手燻もあげる。†",
+    ("そのまま両手燻もあげる。†",
     ""),
     # I'll also add some ryo-san smoked smoky sardines.†
 
-    ("「ＹＥＡＨ！	Ｈｂ撃ｌｂ獅ｎの勝ちだ！」",
+    ("「ＹＥＡＨ！	Ｈ撃ｌ獅ｎの勝ちだ！」",
     ""),
     # "YEAH! HB Shot Lion wins!"
 
@@ -1034,19 +1034,19 @@ text_array = [
     ""),
     # Is it the guy who said he had a victory?
 
-    ("…そり痰ゃ、弾のない奄ライフ泣ルの奄負けだよな、＝普通は。†",
+    ("…そり痰ゃ、弾のない奄ライフルの奄負けだよな、＝普通は。†",
     ""),
     # ...I'm not sure if it's a loss, Amami Life's cry of a bulletless Amami, right?†
 
-    ("「あらあらヘ激レンち痰ゃん、まだ並べ終尞わっていないの？	お料摎理がさめてしまう墲わよ」",
+    ("「あらあらヘレンち痰ゃん、まだ並べ終尞わっていないの？	お料摎理がさめてしまう墲わよ」",
     ""),
     # "Oh, hey hey hey hey hey, haven't you finished putting them all in yet? It's a shame that's getting rid of the fees."
 
-    ("そうこうしてる間に、潤ワゴンを引いたお母さん烽も竄やってきた。",
+    ("そうこうしてる間に、潤ワゴンを引いたお母さん烽もやってきた。",
     ""),
     # Meanwhile, mother Ho, who had pulled the Jun wagon, also started tampering with her.
 
-    ("「＝早くしｂよＨｂ撃ｌｂ獅ｎ。俺、もう死んじ痰ゃうか",
+    ("「＝早くしよＨ撃ｌ獅ｎ。俺、もう死んじ痰ゃうか",
     ""),
     # "=I'm quick to get b and Hb shot lb lb. I'm dead now, can I have phlegm?
 
@@ -1054,7 +1054,7 @@ text_array = [
     ""),
     # too…"
 
-    ("おおげさなアクシ㏍ョンで、ミッキーは床にへたりこんだ。†",
+    ("おおげさなアクションで、ミッキーは床にへたりこんだ。†",
     ""),
     # With a massive axe, Mickey slacked onto the floor.†
 
@@ -1074,11 +1074,11 @@ text_array = [
     ""),
     # "It's... right?"
 
-    ("オ激レはうなずいた。†",
+    ("オレはうなずいた。†",
     ""),
     # I nodded.†
 
-    ("「ねえ、お母さん。今骰夜は砂恪糖と魔塩、間瘧違えなかっただｂうね？」",
+    ("「ねえ、お母さん。今骰夜は砂恪糖と魔塩、間瘧違えなかっただうね？」",
     ""),
     # "Hey, mom. At the moment, the sun was not different from the miso sugar and the magic salt, right?"
 
@@ -1086,7 +1086,7 @@ text_array = [
     ""),
     # "Dragonfly, Mickey, sputum."
 
-    ("「うん、ダイジ㏍ョーブ」",
+    ("「うん、ダイジョーブ」",
     ""),
     # "Yeah, Daijikuhub."
 
@@ -1102,7 +1102,7 @@ text_array = [
     ""),
     # Noooo!
 
-    ("「Ｊｂ唐入浮ｕ唐入！	せっかくの料摎理が〜〜〜っ」",
+    ("「Ｊ入浮ｕ入！	せっかくの料摎理が〜〜〜っ」",
     ""),
     # "JB Tang'i U Tang'i! The fees for the money are all gone~~~"
 
@@ -1110,7 +1110,7 @@ text_array = [
     ""),
     # Once again, Mickey thrusts into the floor and lie down.
 
-    ("見骭ると、おモ父さん烽も同じことを竄やってる。†",
+    ("見骭ると、おモ父さん烽も同じことをやってる。†",
     ""),
     # When I looked at it, Omoda and Hou are also doing the same thing.†
 
@@ -1118,7 +1118,7 @@ text_array = [
     ""),
     # When Cindy saw this,
 
-    ("「ふふっ、ふたりと烽も安心しなさい。チキン窿やサ宴ラダは無末事謗よ」",
+    ("「ふふっ、ふたりと烽も安心しなさい。チキン窿やサラダは無末事謗よ」",
     ""),
     # "Hehe, both of you and Hot, don't worry. Chicken and Saban Rada are slanderous."
 
@@ -1126,11 +1126,11 @@ text_array = [
     ""),
     # He says something happy.
 
-    ("正直、オ激レ焜も安心した。",
+    ("正直、オレ焜も安心した。",
     ""),
     # To be honest, I was relieved too.
 
-    ("あかり竄やｉ史は苦笑するだけだ。†",
+    ("あかりやｉ史は苦笑するだけだ。†",
     ""),
     # Akari tampering and I-Hisashi are just a bitter smile.†
 
@@ -1138,7 +1138,7 @@ text_array = [
     ""),
     # "Hahaha! Everyone is so Koro-Rode, starting ℃ meauka!"
 
-    ("いつの間にか奄ライフ泣ルを手にしたおモ父さん。",
+    ("いつの間にか奄ライフルを手にしたおモ父さん。",
     ""),
     # Before I knew it, Omoda father had picked up Amami Life Crying.
 
@@ -1154,7 +1154,7 @@ text_array = [
     ""),
     # ・
 
-    ("お母さんの自己紹譓介煢も終尞わって、みんなで乾杯のグ宴ラスを揩持ち繧上げたとき｢｢。†",
+    ("お母さんの自己紹譓介煢も終尞わって、みんなで乾杯のグラスを揩持ち繧上げたとき｢｢。†",
     ""),
     # When the mother's self-introduction and introduction was over, everyone brought together a toast ".†
 
@@ -1182,7 +1182,7 @@ text_array = [
     ""),
     # Yeah, it's a thunder!?†
 
-    ("「…イсヤ、テッキ潟リ全泊部掘褐リ出シタト思ッテイタンダガ…」",
+    ("「…イсヤ、テッキリ全泊部掘褐リ出シタト思ッテイタンダガ…」",
     ""),
     # "...I'm not sure what to do with all the Tekkigatara clubs."
 
@@ -1190,7 +1190,7 @@ text_array = [
     ""),
     # Was this house filled with lightning??
 
-    ("オ激レ、戟レミィとｒをうｂついていたぞ。",
+    ("オレ、戟レミィとｒをうついていたぞ。",
     ""),
     # I was really excited and had a r-played with Remy.
 
@@ -1214,11 +1214,11 @@ text_array = [
     ""),
     # "Yaaa, Suman..."
 
-    ("おモ父さんとシンディさんは、こと烽もあｂうに繧後片づけを誰が竄やるかでｂモ＜メ始めた。†",
+    ("おモ父さんとシンディさんは、こと烽もあうに繧後片づけを誰がやるかでモ＜メ始めた。†",
     ""),
     # Dad and Cindy began b-mo because of who would tamper with the tidying up after the tsunami.†
 
-    ("「ち蛯ょ、ち蛯ょっと、地拠雷ですよ？	踏んだ人は蛯大ケガしてるんじ痰ゃ…！？」",
+    ("「ちょ、ちょっと、地拠雷ですよ？	踏んだ人は大ケガしてるんじ痰ゃ…！？」",
     ""),
     # "And now, it's a thunder, isn't it? Those who step on it are seriously injured, so phlegm...!?"
 
@@ -1226,7 +1226,7 @@ text_array = [
     ""),
     # "Bang~~"
 
-    ("不意にテ宴ラスの福方からそんな声が聞こえた。†",
+    ("不意にテラスの方からそんな声が聞こえた。†",
     ""),
     # Suddenly, I heard this voice from Fukukata at the banquet.†
 
@@ -1262,15 +1262,15 @@ text_array = [
     ""),
     # "I'm sorry too!"
 
-    ("ダッシャでシンディさんがｋけ寄驫る。",
+    ("ダッシャでシンディさんが駆け寄驫る。",
     ""),
     # Cindy jumps over the Dashsha.
 
-    ("その手にはタオ泣ルが…。",
+    ("その手にはタオルが…。",
     ""),
     # Tao crying in his hand...
 
-    ("たぶん、ダッシャしたのは志保の桙服がｉ俾奄ﾄるからだｂう。†",
+    ("たぶん、ダッシャしたのは志保の桙服がｉ俾奄ﾄるからだう。†",
     ""),
     # I think the reason I drove was because Shiho's ramblings were smashing.†
 
@@ -1278,7 +1278,7 @@ text_array = [
     ""),
     # "What, no matter how you say it. Keho, keho."
 
-    ("タオ泣ルで土を獅落とされ、轣礼を言う志保。†",
+    ("タオルで土を獅落とされ、轣礼を言う志保。†",
     ""),
     # Shiho is lionized by a squeal of the soil and gives a squeal.†
 
@@ -1298,7 +1298,7 @@ text_array = [
     ""),
     # "Ahhh..., oh, it's fine~"
 
-    ("「はははっ、お前なに竄やってんだよ」",
+    ("「はははっ、お前なにやってんだよ」",
     ""),
     # "Hahaha, what are you doing to tamper with?"
 
@@ -1342,7 +1342,7 @@ text_array = [
     ""),
     # "That's right. Why do you get into someone's house from the r?"
 
-    ("「それはあんた、玄関におっかない犬がいるでし蛯ょ？	しかたないからｒにま墲わった途端、ドカ〜ン諠よ」",
+    ("「それはあんた、玄関におっかない犬がいるでしょ？	しかたないからｒにま墲わった途端、ドカ〜ン諠よ」",
     ""),
     # "That's right, you have a scary dog ​​at the entrance? I have no choice, so the moment I snatch out, I'm thrustling."
 
@@ -1350,7 +1350,7 @@ text_array = [
     ""),
     # "Muu, I'm in a position where I am in a position, but it's a bit different."
 
-    ("「おモ父さん、失邇礼でし蛯ょ」†",
+    ("「おモ父さん、失邇礼でしょ」†",
     ""),
     # "Daddy, I'm sorry for the inconvenience" †
 
@@ -1358,7 +1358,7 @@ text_array = [
     ""),
     # "Ah... I'll, Sumanane, Owasan."
 
-    ("「こんなрヤツはほっといて、みんなで乾杯しまし蛯ょうよ」†",
+    ("「こんなрヤツはほっといて、みんなで乾杯しましょうよ」†",
     ""),
     # "Leave this guy alone and let's all toast together."†
 
@@ -1374,7 +1374,7 @@ text_array = [
     ""),
     # ・†
 
-    ("乾杯を終えて、諱よう竄やくお別れパーティがはじまった。",
+    ("乾杯を終えて、諱ようやくお別れパーティがはじまった。",
     ""),
     # After the toast, a farewell party began, with a fake statement.
 
@@ -1394,7 +1394,7 @@ text_array = [
     ""),
     # "Hehe, when I say Shiho."
 
-    ("あかりはとなりで、ふたりの竄やりとりに目を細めている。†",
+    ("あかりはとなりで、ふたりのやりとりに目を細めている。†",
     ""),
     # Akari squinted next to her as they both tampered and exchanged.†
 
@@ -1406,7 +1406,7 @@ text_array = [
     ""),
     # Ekimi Remy, holding a Jars bottle, came over here.
 
-    ("「なんだよ、蛛主役がふるまってどーすんだよ。オ激レが高注いで竄やるから撃レミィ焜も飲め」",
+    ("「なんだよ、蛛主役がふるまってどーすんだよ。オレが高注いでやるから撃レミィ焜も飲め」",
     ""),
     # "What's that? The main character is acting like he's going to act. I'll pour a lot of energy and tamper with it, so drink Ekire Remy's too."
 
@@ -1418,7 +1418,7 @@ text_array = [
     ""),
     # "It's fine, come on."
 
-    ("オ激レは撃レミィの手からビンを取った。†",
+    ("オレは撃レミィの手からビンを取った。†",
     ""),
     # I took a bottle from Ekire Remy's hand.†
 
@@ -1426,7 +1426,7 @@ text_array = [
     ""),
     # "Uh, yes..."
 
-    ("半信半疑といった表﨣情でグ宴ラスに高注がれるジャースを見つめる。†",
+    ("半信半疑といった表﨣情でグラスに高注がれるジャースを見つめる。†",
     ""),
     # He stares at Jers, who is poured into the gangster, with his skepticism and is skeptical.†
 
@@ -1438,7 +1438,7 @@ text_array = [
     ""),
     # "Look, it's dam, straighten your head more."
 
-    ("′こうではｉ史とミッキーがマンツーマンで鰍リフティングの福練習だ。",
+    ("′こうではｉ史とミッキーがマンツーマンで鰍リフティングの練習だ。",
     ""),
     # 'In this article, I-Shin and Mickey practice their one-on-one choy lifting fortune.
 
@@ -1446,7 +1446,7 @@ text_array = [
     ""),
     # Everyone has their own circles.†
 
-    ("「戟レミィ〜〜〜っ、ち蛯ょっとｗてみれ〜」",
+    ("「戟レミィ〜〜〜っ、ちょっとｗてみれ〜」",
     ""),
     # "Ahhh, try it lol"
 
@@ -1462,7 +1462,7 @@ text_array = [
     ""),
     # Don't just invite them when they all make a fuss.†
 
-    ("オ激レは微笑んで、",
+    ("オレは微笑んで、",
     ""),
     # My heart smiled,
 
@@ -1478,23 +1478,23 @@ text_array = [
     ""),
     # "ah"
 
-    ("戟レミィが志保の福方へ行くと、無ヶ茶なｉ話が聞こえてくる。†",
+    ("戟レミィが志保の方へ行くと、無ヶ茶なｉ話が聞こえてくる。†",
     ""),
     # As Karemi goes to Shiho's Fuku, he hears a crazy i-talk.†
 
-    ("「ち蛯ょっとあんた、今骰夜は一曲歌えるようになるまで曹国に帰さない墲わよ」",
+    ("「ちょっとあんた、今骰夜は一曲歌えるようになるまで曹国に帰さない墲わよ」",
     ""),
     # "You'll never return to Cao Guo right now, until you can sing a song."
 
-    ("「アタシ、≠ｂ≠ａ窒ｒ奄ｉ獅ｎ№ｇ専蜷門ダャ？」",
+    ("「アタシ、≠≠ａ窒ｒ奄ｉ獅ｎ№ｇ専蜷門ダャ？」",
     ""),
     # "I, ≠b≠a Nitro-Rijn Sennimond?"
 
-    ("「んなこたぁヒャャク焜もシ㏍ョーチ諠よ。あたしが手謗取闔り足鞫取闔りで、あんたを歌姫に仕立てる墲わ」†",
+    ("「んなこたぁヒャャク焜もショーチ諠よ。あたしが手謗取闔り足鞫取闔りで、あんたを歌姫に仕立てる墲わ」†",
     ""),
     # "You're so yeah, you're a slut. I'll make you a diva with my hands and feet."
 
-    ("戟レミィんちにカ宴ラオケセットがあったことで、いつに烽も揩増してあいつは曹舞い繧上がってる。",
+    ("戟レミィんちにカラオケセットがあったことで、いつに烽も揩増してあいつは曹舞い繧上がってる。",
     ""),
     # With the Kabanquet Raoke set at the Remy's, the number of hot springs has increased and he has risen to Cao Dance.
 
@@ -1502,7 +1502,7 @@ text_array = [
     ""),
     # ...I'm not sure if the guy from Ekirei will let him sleep and get some hot.†
 
-    ("さて、ひとりで突っ立ってるの烽もなんだし、オ激レはシンディさんたちの福方へｌかった。",
+    ("さて、ひとりで突っ立ってるの烽もなんだし、オレはシンディさんたちの方へｌかった。",
     ""),
     # Well, it's no wonder he was standing there alone, and I was in the fortunes of Cindy and others.
 
@@ -1514,7 +1514,7 @@ text_array = [
     ""),
     # "How about hot water?"
 
-    ("「ち蛯ょうどよいとこｂへ。さん、これを召し繧上がってください」",
+    ("「ちょうどよいとこへ。さん、これを召し繧上がってください」",
     ""),
     # "To the place b. Mr., please come and gather this and come up."
 
@@ -1522,7 +1522,7 @@ text_array = [
     ""),
     # Karemy's mother handed me the soup over there.†
 
-    ("增器を揩持って、オ激レはスープをじっくり観察してしまう。",
+    ("器を揩持って、オレはスープをじっくり観察してしまう。",
     ""),
     # With the bowl in, Ogere carefully observes the soup.
 
@@ -1538,7 +1538,7 @@ text_array = [
     ""),
     # Cindy smiles.
 
-    ("照齒れ笑いしながら、オ激レはグ宴ラスを置いてスプーンを手に取った。",
+    ("照齒れ笑いしながら、オレはグラスを置いてスプーンを手に取った。",
     ""),
     # With a glaring laugh, I placed the banquet and picked up a spoon.
 
@@ -1558,7 +1558,7 @@ text_array = [
     ""),
     # "Ah, no... I don't know what kind of magical character he is, but something suddenly happened, right? That's a phlegm, there's no choice."
 
-    ("「いいじ痰ゃないのお母さん。こう竄やって知闥り№合えたんだから。…とうぶん冾日本に戻齧れないと思うけど、これから烽もよｂしくお願いね、君」†",
+    ("「いいじ痰ゃないのお母さん。こうやって知闥り№合えたんだから。…とうぶん冾日本に戻齧れないと思うけど、これから烽もよしくお願いね、君」†",
     ""),
     # "Mom, who has no phlegm. I've been able to understand this by tampering with this and getting the best of my knowledge...I don't think I'll be able to return to Japan, but please be careful from now on, you."
 
@@ -1566,7 +1566,7 @@ text_array = [
     ""),
     # "Yes. Please come and speak up if you come back."
 
-    ("「もちｂんですと烽も。さん烽もご旅行などで西海岸へおいでになったら、ぜひ墲わたくしど烽もにご連腰絡くださいませ」",
+    ("「もちんですと烽も。さん烽もご旅行などで西海岸へおいでになったら、ぜひ墲わたくしど烽もにご連腰絡くださいませ」",
     ""),
     # "We also have Mochi B and Hot Springs. If you come to the West Coast for a trip or something, please contact me with the other party."
 
@@ -1582,7 +1582,7 @@ text_array = [
     ""),
     # got it"
 
-    ("オ激レ焜も頭を下げる。†",
+    ("オレ焜も頭を下げる。†",
     ""),
     # My head bowed too.†
 
@@ -1606,11 +1606,11 @@ text_array = [
     ""),
     # "Is that guy really drinking alcohol and phlegm?"
 
-    ("「潤ワカ潟リマセン」†",
+    ("「潤ワカリマセン」†",
     ""),
     # "Junwakagata is sorry" †
 
-    ("「…ま、いっか。どうせあいつは半分歌いにｗたような烽もんだｂうし」",
+    ("「…ま、いっか。どうせあいつは半分歌いにｗたような烽もんだうし」",
     ""),
     # "...Well, it's okay. That guy's half-singing anyway lol."
 
@@ -1618,11 +1618,11 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「諱よし、ち蛯ょっと外に出謠ようぜ」",
+    ("「諱よし、ちょっと外に出謠ようぜ」",
     ""),
     # "Okay, let's go outside."
 
-    ("オ激レはテ宴ラスを指差した。",
+    ("オレはテラスを指差した。",
     ""),
     # I pointed to the banquet.
 
@@ -1634,11 +1634,11 @@ text_array = [
     ""),
     # "Oh, right now, the night is full of fuzzy months, isn't it?"
 
-    ("テ宴ラスに出髀ると、まん丸の獅月が目についた。",
+    ("テラスに出髀ると、まん丸の獅月が目についた。",
     ""),
     # As I went to the banquet, I saw a round Shizuki.
 
-    ("「うん。とって烽もｂ≠ａ獅ｎｔ≠ａ唐入ｔ奄ｉモｃ」†",
+    ("「うん。とって烽も≠ａ獅ｎｔ≠ａ入ｔ奄ｉモｃ」†",
     ""),
     # "Yes. Take the chicken too b≠a lion≠a tangari taamimoc"
 
@@ -1647,11 +1647,11 @@ text_array = [
     # The two of them watch for a while.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「ごめんね、…」",
@@ -1666,11 +1666,11 @@ text_array = [
     ""),
     # "What?"
 
-    ("「みんなが唐入ｔ≠ａｔｂ唐入に帰驪るの、黙ってて」",
+    ("「みんなが入ｔ≠ａｔ入に帰驪るの、黙ってて」",
     ""),
     # "Everyone returns to Tangyu t≠atb Tangyu, stay quiet."
 
-    ("「ああ…。そのことならべつにいいって。こう竄やってパーティに烽も出齒れたことだし」",
+    ("「ああ…。そのことならべつにいいって。こうやってパーティに烽も出齒れたことだし」",
     ""),
     # "Ah... That's fine. It's been a bit of a problem. I was able to send a hot pot out to the party."
 
@@ -1678,7 +1678,7 @@ text_array = [
     ""),
     # "We've finally become friends with each other."
 
-    ("「もうｉえないって墲わけで烽もねえだｂ」",
+    ("「もうｉえないって墲わけで烽もねえだ」",
     ""),
     # "It's because I can't say it anymore, so there's no hot b."
 
@@ -1686,11 +1686,11 @@ text_array = [
     ""),
     # "I don't know that c" †
 
-    ("「ア＜メ潟リカに行けばｉえるだｂ。そのときは連腰絡してくれって、お前の母さん言ってたぞ」",
+    ("「ア＜メリカに行けばｉえるだ。そのときは連腰絡してくれって、お前の母さん言ってたぞ」",
     ""),
     # "If you go to Agata Rika, you can get it. At that time, your mother told me to connect you."
 
-    ("「そうだね。いっし蛯ょに行けばいいんだネ」",
+    ("「そうだね。いっしょに行けばいいんだネ」",
     ""),
     # "That's right. You should just go to Ebi."
 
@@ -1702,7 +1702,7 @@ text_array = [
     ""),
     # "It's me?"
 
-    ("「なんだ。そっちからｗなくて烽もオ激レの福方が行くって」†",
+    ("「なんだ。そっちからｗなくて烽もオレの方が行くって」†",
     ""),
     # "What? From there lol, it's not like my lucky side to go."
 
@@ -1726,23 +1726,23 @@ text_array = [
     ""),
     # "Yeah, it's fun to take it."
 
-    ("「…いつかゲーセン行ったｂ？	楽しかったよな、あんときは」",
+    ("「…いつかゲーセン行った？	楽しかったよな、あんときは」",
     ""),
     # "...I went to the arcade someday? It was fun, right? That time."
 
-    ("「Ｓｂ盾ｏ盾ｏｔ奄ｉ獅ｎ№ｇ、とって烽もｂｂモｃ奄ｉｔｂしたよ」†",
+    ("「Ｓ盾ｏ盾ｏｔ奄ｉ獅ｎ№ｇ、とって烽もモｃ奄ｉｔしたよ」†",
     ""),
     # "Sb shield o shield o ot amai lion, and I also took the bonfire BB-mo camitb"
 
-    ("「うら竄やましいよな、戟レミィはゲームでエキサイトできて」",
+    ("「うらやましいよな、戟レミィはゲームでエキサイトできて」",
     ""),
     # "I'm jealous of you, you can have fun with the game."
 
-    ("「うら竄やましいの？」",
+    ("「うらやましいの？」",
     ""),
     # "Are you jealous?"
 
-    ("「うら竄やましいって。いままでゲームのお烽もしｂさを知迺らないで生きてこれたんだから。これからゲームを楽しめるってのは、得だと思うぜ？」†",
+    ("「うらやましいって。いままでゲームのお烽もしさを知迺らないで生きてこれたんだから。これからゲームを楽しめるってのは、得だと思うぜ？」†",
     ""),
     # "I'm jealous of you. I've been able to live without knowing the b-ness of games up until now. I think it's a great benefit to be able to enjoy the game from now on."
 
@@ -1750,7 +1750,7 @@ text_array = [
     ""),
     # "Isn't the game fun?"
 
-    ("「楽しくないっていうか、堰初めて竄やったときの感動がなくなったっつーか…」",
+    ("「楽しくないっていうか、堰初めてやったときの感動がなくなったっつーか…」",
     ""),
     # "It's not fun, I guess it's gone because the first time I tampered with the dam is gone..."
 
@@ -1774,7 +1774,7 @@ text_array = [
     ""),
     # "Sorry, death..."
 
-    ("「気搴持ち烽も嬉しいけど、オ激レはオ激レで撃レミィを見てるだけで楽しいんだよ。だからなに烽もいらねえって」",
+    ("「気搴持ち烽も嬉しいけど、オレはオレで撃レミィを見てるだけで楽しいんだよ。だからなに烽もいらねえって」",
     ""),
     # "I'm happy to see the hustle and cheerful, but it's fun to watch Meguri Remi on Meguri. So I don't need Hoo either."
 
@@ -1798,11 +1798,11 @@ text_array = [
     ""),
     # The next day I'm going to get muscle pain?”
 
-    ("「望むとこｂデース」†",
+    ("「望むとこデース」†",
     ""),
     # "What you want b-dates"
 
-    ("「おっ、言ったなぁ？	竅絶対だぞ？」",
+    ("「おっ、言ったなぁ？	絶対だぞ？」",
     ""),
     # "Oh, did you say it? It's definitely true?"
 
@@ -1814,11 +1814,11 @@ text_array = [
     ""),
     # Eki Remi nodded cheerfully.
 
-    ("もう冾日本にいられる桙時間は少ないだｂうに、片っ端からデートの約束する撃レミィがひどくけなげに思えてくる…。†",
+    ("もう冾日本にいられる桙時間は少ないだうに、片っ端からデートの約束する撃レミィがひどくけなげに思えてくる…。†",
     ""),
     # I've only had a little time to stay in Japan, but I feel like Ekiremi, who I promise to go on a date, seems so brave...†
 
-    ("「いｂいｂ行きたいとこｂがあるのにな…」",
+    ("「いい行きたいとこがあるのにな…」",
     ""),
     # "There's a place where I want to go to a b...
 
@@ -1826,7 +1826,7 @@ text_array = [
     ""),
     # "Yeah, I want to go."
 
-    ("「そうい竄や、戟レミィは桜が好きだったな」",
+    ("「そういや、戟レミィは桜が好きだったな」",
     ""),
     # "You know, I liked cherry blossoms."
 
@@ -1834,7 +1834,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「ミッキーとかシンディさんとか、みんなで花見に行ったら楽しいだｂうな」",
+    ("「ミッキーとかシンディさんとか、みんなで花見に行ったら楽しいだうな」",
     ""),
     # "It would be fun if Mickey and Cindy all went to see the cherry blossoms together."
 
@@ -1846,11 +1846,11 @@ text_array = [
     ""),
     # @Year is no longer...†
 
-    ("「もう、ム潟リだネ…」",
+    ("「もう、ムリだネ…」",
     ""),
     # "It's already Mugatari..."
 
-    ("ここにきてはじめて、竅寂しそうに撃レミィが言う。",
+    ("ここにきてはじめて、寂しそうに撃レミィが言う。",
     ""),
     # For the first time I came here, Ekiremi said with a lonely look on his face.
 
@@ -1866,7 +1866,7 @@ text_array = [
     ""),
     # It's quiet...
 
-    ("見繻上げると、氏月は鰍相変﨑わらず、オ激レたちをかすかに青く照迴らしている。",
+    ("見上げると、氏月は鰍相変﨑わらず、オレたちをかすかに青く照迴らしている。",
     ""),
     # Looking at it, the moon doesn't turn out to be a smear, but rather makes the mega-release and the others look slightly blue.
 
@@ -1874,7 +1874,7 @@ text_array = [
     ""),
     # It felt like the party's squealing roar had also been sucked into the moonlight.
 
-    ("物悲しく静かで、それでいて竄やさしい桙時間が流齬れる…。†",
+    ("物悲しく静かで、それでいてやさしい桙時間が流齬れる…。†",
     ""),
     # It's sad and quiet, yet easy to tamper with, and the time of foxes flows through the flow...†
 
@@ -1882,7 +1882,7 @@ text_array = [
     ""),
     # "I wonder what..."
 
-    ("思寬わず福口にした。",
+    ("思寬わず口にした。",
     ""),
     # Without thinking about it, I made a lucky drink.
 
@@ -1890,11 +1890,11 @@ text_array = [
     ""),
     # "What, what?"
 
-    ("「い竄や…、１１年ぶりに再拷できて、親しくなれたのに、またｉえなくなっちまうなんて、さみしいよな」†",
+    ("「いや…、１１年ぶりに再拷できて、親しくなれたのに、またｉえなくなっちまうなんて、さみしいよな」†",
     ""),
     # "It's so sad that you've been tortured again after 11 years and become close friends, but it's sad that you're going to disappear again."
 
-    ("「ダイジ㏍ョブだよ。明坙日燗もｉえるｃ？」",
+    ("「ダイジョブだよ。明坙日燗もｉえるｃ？」",
     ""),
     # "It's Daiji KK Work. Mingshuun's sunkan is also ilc?"
 
@@ -1922,7 +1922,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("てっきり１、２週間謚よ艪ゆうがある烽もんだと思ってたのに。◯",
+    ("てっきり１、２週間謚よゆうがある烽もんだと思ってたのに。◯",
     ""),
     # I thought it was a hot topic for a week or two.◯
 
@@ -1942,15 +1942,15 @@ text_array = [
     ""),
     # "Was it Mihon?"
 
-    ("戟レミィが聞くと、志保は『生徒をほったらかして先生だけ夢亦になる墲わけないでし蛯ょ』なんて言い出した。†",
+    ("戟レミィが聞くと、志保は『生徒をほったらかして先生だけ夢亦になる墲わけないでしょ』なんて言い出した。†",
     ""),
     # When Garemy asked, Shiho said, "There's no way that the teacher would become a dream after leaving the students alone."†
 
-    ("オ激レは魔当然、言いかえす。",
+    ("オレは魔当然、言いかえす。",
     ""),
     # Of course, I'm going to say it again.
 
-    ("「驕るせー諱よ。たまたま艪我に返っただけだｂ？」",
+    ("「驕るせー諱よ。たまたま我に返っただけだ？」",
     ""),
     # "Arrogant, sir. You just happened to come to your senses b?"
 
@@ -1966,7 +1966,7 @@ text_array = [
     ""),
     # "What?!"
 
-    ("声をあげると、志保は撃レミィの両阯手をがっしりつかんだ。†",
+    ("声をあげると、志保は撃レミィの両手をがっしりつかんだ。†",
     ""),
     # As he let out a cry of voice, Shiho grabbed Gekiremi's slants.†
 
@@ -1974,11 +1974,11 @@ text_array = [
     ""),
     # "I don't have time. Come on, I'll sing."†
 
-    ("戟レミィの歌声は、歌というより烽も棒読みのセ潟リフって感じで、これじ痰ゃみんなから歌うなと言甯われるの烽も無摶理燉もない撃レベ泣ルだった。",
+    ("戟レミィの歌声は、歌というより烽も棒読みのセリフって感じで、これじ痰ゃみんなから歌うなと言甯われるの烽も無摶理燉もない撃レベルだった。",
     ""),
     # The singing voice of Karemi was more like a laid-back riff than a song, and everyone was told not to sing, and it was a throbbing level crying that was completely unconventional.
 
-    ("オ激レは繧上闖手いとか下濶手謗より烽も、妙に真武剣な本人を見ていて楽しかった。",
+    ("オレは繧上闖手いとか下濶手謗より烽も、妙に真武剣な本人を見ていて楽しかった。",
     ""),
     # It was fun to watch the man who was strangely Shinbuken, rather than just being a slander of Shimoharu.
 
@@ -1986,11 +1986,11 @@ text_array = [
     ""),
     # When I think about this at the end of the day, I can't help but enjoy myself casually...†
 
-    ("…竅やがて盛關り繧上がったお別れパーティ焜も、おしまいに近づいた。◯",
+    ("…やがて盛關り繧上がったお別れパーティ焜も、おしまいに近づいた。◯",
     ""),
     # ...The farewell party that had come to an end soon came to a great extent.◯
 
-    ("蛛門の前で、オ激レたちと撃レミィ黹一家はｌかい№合った。",
+    ("蛛門の前で、オレたちと撃レミィ黹一家はｌかい№合った。",
     ""),
     # In front of the gate, we and the other members of the Ekiremi-Ki family met in a 10th place.
 
@@ -1998,7 +1998,7 @@ text_array = [
     ""),
     # One by one, to say goodbye.†
 
-    ("「今骰夜ハ艫我々ノタ＜メニ集マッテイタダイテ、本末当ニア潟リガトウ」",
+    ("「今骰夜ハ艫我々ノタ＜メニ集マッテイタダイテ、本末当ニアリガトウ」",
     ""),
     # "We're not going tonight, we're not going to go to the Men's Collection, the Hon'ble True Cat, Rigato."
 
@@ -2010,7 +2010,7 @@ text_array = [
     ""),
     # Everyone's family is already phlegm, so don't say anything gross."
 
-    ("「感リ激ダ！",
+    ("「感リダ！",
     ""),
     # "I'm so moved!
 
@@ -2026,7 +2026,7 @@ text_array = [
     ""),
     # "Damn you sputum, daddy. I'll make you trouble until the very end."
 
-    ("「シカシダナ、最纃後ク宴ライｃ撃タセテク激レテｃモイイジャャナイカ」",
+    ("「シカシダナ、最纃後クライｃ撃タセテクレテｃモイイジャャナイカ」",
     ""),
     # "Shikashidana, the very last day after the banquet rai c, taseteku super retété c, moiijanaika"
 
@@ -2034,15 +2034,15 @@ text_array = [
     ""),
     # "Daddy, that's incredible.
 
-    ("日本じ痰ゃ獅試しｂ撃ち烽も犯罪なんですから」†",
+    ("日本じ痰ゃ獅試し撃ち烽も犯罪なんですから」†",
     ""),
     # Japanese phlegm and lion test shots are also a crime."
 
-    ("「ノ気搴持チハ純ワカ泣ル。",
+    ("「ノ気搴持チハ純ワカル。",
     ""),
     # "A pure and lukewarm crying with all my heart.
 
-    ("空ニレケ激レバリ険ハ無イノダシ、コノ際バ激レナケ激レバイインダ」",
+    ("空ニレケレバリ険ハ無イノダシ、コノ際バレナケレバイインダ」",
     ""),
     # Sky Nireke Super Rebari-no-dashi, Super Rebari-in-dashi, Super Rebari-in-dashi"
 
@@ -2054,7 +2054,7 @@ text_array = [
     ""),
     # As Cindy was struggling with the incredible thunder,
 
-    ("「まったく、メ父さんには困った烽ものでし蛯ょ？明坙日にはいなくなる墲わけだし、君は安心していい墲わよ」",
+    ("「まったく、メ父さんには困った烽ものでしょ？明坙日にはいなくなる墲わけだし、君は安心していい墲わよ」",
     ""),
     # "All right, it's a problem for Dad, you're in trouble? On Ming Shun Day, you'll be gone, so you can feel safe."
 
@@ -2062,11 +2062,11 @@ text_array = [
     ""),
     # He says with an amazed look on his face.†
 
-    ("「コ宴ラ、ナンテコト言ウンダＳ凾ｙ獅ｎрｄ凾ｙ」",
+    ("「コラ、ナンテコト言ウンダＳ凾ｙ獅ｎрｄ凾ｙ」",
     ""),
     # "The banquet is a lingering lion."
 
-    ("「…增わかってる墲わよ、メ父さん。",
+    ("「…わかってる墲わよ、メ父さん。",
     ""),
     # "...I know that, Daddy.
 
@@ -2074,7 +2074,7 @@ text_array = [
     ""),
     # Let's say goodbye to you soon."
 
-    ("「シカタナイナ…。名残惜シイガ、ａモタｃモタシテイ泣ルト娘ニ掃恆除サ激レテシマウ」",
+    ("「シカタナイナ…。名残惜シイガ、ａモタｃモタシテイルト娘ニ掃恆除サレテシマウ」",
     ""),
     # "Shikatanaina... I'm so sad to bear the name, a mota c mota tits and girls are sweeping and removing them very seriously."
 
@@ -2082,11 +2082,11 @@ text_array = [
     ""),
     # With that in mind, Dad, Omo held out his left hand.
 
-    ("右濶手は烽もちｂん、堰ライフ泣ル。",
+    ("右濶手は烽もちん、堰ライフル。",
     ""),
     # His hand is a hot mochi b, and he is crying.
 
-    ("オ激レは苦笑しつつ、左闕手を出した。†",
+    ("オレは苦笑しつつ、左闕手を出した。†",
     ""),
     # My heart smiled wryly and then put my hand on the left side.†
 
@@ -2094,15 +2094,15 @@ text_array = [
     ""),
     # "Goodbye, goodbye."
 
-    ("「ア潟リガトウ。",
+    ("「アリガトウ。",
     ""),
     # "Agata Rigato.
 
-    ("ヨッカタ宴ラ、コノガー堰ランド茶ヲ受ケ諠取ッテ欲シイ」",
+    ("ヨッカタラ、コノガー堰ランド茶ヲ受ケ諠取ッテ欲シイ」",
     ""),
     # Yokata Banquet is a desire to receive the Konogarh Heir Land tea and get the tea."
 
-    ("おモ父さんは愛用の奄ライフ泣ルを差し出した。",
+    ("おモ父さんは愛用の奄ライフルを差し出した。",
     ""),
     # Omoda offered his favorite Amami Life Crying.
 
@@ -2122,7 +2122,7 @@ text_array = [
     ""),
     # "Daddy!"
 
-    ("シンディさんの一喝で、おモ父さんは『すまん』と慌てて奄ライフ泣ルを引っ桙込めた。†",
+    ("シンディさんの一喝で、おモ父さんは『すまん』と慌てて奄ライフルを引っ桙込めた。†",
     ""),
     # At Cindy's shouting, Daddy, panicked and shouted Amami Life crying in a hurry.†
 
@@ -2130,7 +2130,7 @@ text_array = [
     ""),
     # "Great Dena!"
 
-    ("最纃後におモ父さんとア＜メ潟リカ式に抱き№合ってあいさつを交甯わす。",
+    ("最纃後におモ父さんとア＜メリカ式に抱き№合ってあいさつを交甯わす。",
     ""),
     # At the very end, he hugged the Americanara dad and exchanged greetings with him.
 
@@ -2138,7 +2138,7 @@ text_array = [
     ""),
     # I'm starting to feel like saying goodbye to the end of the day.†
 
-    ("オ激レはシンディさんに目をｌけた。",
+    ("オレはシンディさんに目をｌけた。",
     ""),
     # I looked up to Cindy.
 
@@ -2146,11 +2146,11 @@ text_array = [
     ""),
     # "You... it was a short time, but I was happy to be able to get the answers."
 
-    ("「オ激レの福方こそ」",
+    ("「オレの方こそ」",
     ""),
     # "My great luck is the one"
 
-    ("シンディさんと烽もア＜メ潟リカ式のあいさつ。",
+    ("シンディさんと烽もア＜メリカ式のあいさつ。",
     ""),
     # Cindy and Ho also greeted us at the American Academy of Arts.
 
@@ -2178,7 +2178,7 @@ text_array = [
     ""),
     # "My brother, I wanted to teach you soccer and get some hot food."
 
-    ("「オ激レがサッカーを？」†",
+    ("「オレがサッカーを？」†",
     ""),
     # "Is it my playing soccer?"
 
@@ -2190,7 +2190,7 @@ text_array = [
     ""),
     # "You're talking about the old days, don't you have any phlegm?"
 
-    ("「ずるいよ、Ｈｂ撃ｌｂ獅ｎは。",
+    ("「ずるいよ、Ｈ撃ｌ獅ｎは。",
     ""),
     # "It's unfair, Hb Shot Lion.
 
@@ -2198,7 +2198,7 @@ text_array = [
     ""),
     # I wish they had given me the opportunity to share my brothers with me sooner."
 
-    ("そう言ってミッキーがモ泣きそうな目をしたのには驚いた。†",
+    ("そう言ってミッキーがモきそうな目をしたのには驚いた。†",
     ""),
     # I was surprised to see Mickey crying eyes saying that.†
 
@@ -2210,7 +2210,7 @@ text_array = [
     ""),
     # I'm losing the word I can say.
 
-    ("だけど、オ激レに心配かけまいと思ったんだｂう。",
+    ("だけど、オレに心配かけまいと思ったんだう。",
     ""),
     # But I was thinking about not worrying about me.
 
@@ -2226,7 +2226,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("オ激レたちは固く握闊手を交甯わした。†",
+    ("オレたちは固く握闊手を交甯わした。†",
     ""),
     # We swept our hands tightly.†
 
@@ -2234,7 +2234,7 @@ text_array = [
     ""),
     # "...I am so grateful for the heart of the night, and for the sake of your heart."
 
-    ("お母さんはオ激レに深々と頭を下げた。†",
+    ("お母さんはオレに深々と頭を下げた。†",
     ""),
     # My mother bowed her head deeply to me.†
 
@@ -2274,15 +2274,15 @@ text_array = [
     ""),
     # After saying that, there was Karemi Remie.
 
-    ("戟レミィは蛯門喧柱のかげでこっちを見ている。",
+    ("戟レミィは門喧柱のかげでこっちを見ている。",
     ""),
     # The wa Remie looks over at me with the scrubs of the Evil Mansion.
 
-    ("オ激レはｋけ寄った。",
+    ("オレは駆け寄った。",
     ""),
     # My heart was close to me.
 
-    ("「おい撃レミィ、そんなとこｂで何竕やってんだよ。お前熨もいっし蛯ょにｌこうで並べよ」†",
+    ("「おい撃レミィ、そんなとこで何竕やってんだよ。お前熨もいっしょにｌこうで並べよ」†",
     ""),
     # "Hey, Ekire Remi, how are you doing with B? You can also line up the noshi with the sluts."
 
@@ -2290,11 +2290,11 @@ text_array = [
     ""),
     # "...I'm sad..."
 
-    ("「バカだなぁ。そんなことしてたら、余計に悲しくなるだけだｂ」",
+    ("「バカだなぁ。そんなことしてたら、余計に悲しくなるだけだ」",
     ""),
     # "You're stupid. If you do that, you'll just make me even more sad."
 
-    ("言いながら、オ激レは右濶手を差し出した。",
+    ("言いながら、オレは右濶手を差し出した。",
     ""),
     # As I said, I held out my right hand.
 
@@ -2306,7 +2306,7 @@ text_array = [
     ""),
     # "Here you, a swagger."
 
-    ("そう言うと、戟レミィは艪ゆっくり手を出した。†",
+    ("そう言うと、戟レミィはゆっくり手を出した。†",
     ""),
     # With that in mind, Wolf Remie slowly put her hands on him.†
 
@@ -2318,7 +2318,7 @@ text_array = [
     ""),
     # "...Are you going back now?"
 
-    ("「しかたねえだｂ。いつまで烽もいっし蛯ょにはいられねえから」",
+    ("「しかたねえだ。いつまで烽もいっしょにはいられねえから」",
     ""),
     # "There's nothing I can do about it. How long will I not be able to stay with you at the Niji."
 
@@ -2326,7 +2326,7 @@ text_array = [
     ""),
     # "Yeah... Again..."
 
-    ("「なあ、いつかア＜メ潟リカに行って烽もいいか？」†",
+    ("「なあ、いつかア＜メリカに行って烽もいいか？」†",
     ""),
     # "Hey, will you go to America someday and have some hot springs?"
 
@@ -2342,7 +2342,7 @@ text_array = [
     ""),
     # "Yeah! Let's go!"
 
-    ("「…瘁違うだｂ。お前はオ激レを待ってればいいの」†",
+    ("「…瘁違うだ。お前はオレを待ってればいいの」†",
     ""),
     # "...No way. You should just wait for me to be extremely excited." †
 
@@ -2350,7 +2350,7 @@ text_array = [
     ""),
     # "Ah, yes. I'll pick you up lol!"
 
-    ("おいおい、オ激レがア＜メ潟リカへ撃レミィを迎えに行くってことは、彼濫女を嫁さんにするって意味だぞ！？",
+    ("おいおい、オレがア＜メリカへ撃レミィを迎えに行くってことは、彼濫女を嫁さんにするって意味だぞ！？",
     ""),
     # Hey, when I go to Amegata Rika to pick up Ekiremi, it means that he will make a woman with all the girls!?
 
@@ -2362,11 +2362,11 @@ text_array = [
     ""),
     # He answered with a jokey hush.†
 
-    ("｢｢竊やがて、みんなそれぞれに別れのあいさつを終えて、今度はオ激レたちが帰驪ることになった。",
+    ("｢｢竊やがて、みんなそれぞれに別れのあいさつを終えて、今度はオレたちが帰驪ることになった。",
     ""),
     # "In time, everyone had finished their farewell greetings, and this time we all went back.
 
-    ("「今厓日はア潟リガト」",
+    ("「今厓日はアリガト」",
     ""),
     # "Right now is Agata Rigato."
 
@@ -2386,7 +2386,7 @@ text_array = [
     ""),
     # "bye bye"†
 
-    ("オ激レたちは何度燗も振關り返阨りながら撃レミィ邸をあとにした。",
+    ("オレたちは何度燗も振關り返阨りながら撃レミィ邸をあとにした。",
     ""),
     # We left the Gekiremi residence many times as we warmed up.
 
@@ -2406,11 +2406,11 @@ text_array = [
     ""),
     # "I promised to go and play someday."
 
-    ("「なによう、ひとりでサンフ宴ランシスコまで行くつ烽もり？」",
+    ("「なによう、ひとりでサンフランシスコまで行くつ烽もり？」",
     ""),
     # "What is it like to go to Sanfu banquet Lancisco on your own?"
 
-    ("「そんな烽もん墲わかんねえよ。行きたき痰ゃ自分で行き痰ゃあいいだｂ」†",
+    ("「そんな烽もん墲わかんねえよ。行きたき痰ゃ自分で行き痰ゃあいいだ」†",
     ""),
     # "I don't know that kind of hot water. If you want to go, you can just go and go yourself." †
 
@@ -2446,7 +2446,7 @@ text_array = [
     ""),
     # Masashi should become Pro-Koro's soccer selection team and go with a test session."
 
-    ("「サンフ宴ランシスコで獅試㍽合、あるのかな…？」",
+    ("「サンフランシスコで獅試㍽合、あるのかな…？」",
     ""),
     # "Is there a lion test session at Sanfu banquet Lancisco?
 
@@ -2466,7 +2466,7 @@ text_array = [
     ""),
     # "Yeah..."≫
 
-    ("あかりの家の前でみんなと別れたオ激レは、自分の家には戻逍らずに公園へ竄やってきた。",
+    ("あかりの家の前でみんなと別れたオレは、自分の家には戻逍らずに公園へやってきた。",
     ""),
     # After breaking up with everyone in front of Akari's house, I didn't go back to my house and ended up going to the park.
 
@@ -2482,19 +2482,19 @@ text_array = [
     ""),
     # There's no phlegm like that.
 
-    ("心のｒに烽も竄や烽も竄やがあって、それを晴逅らしたい気分…ってのが正解だｂう。†",
+    ("心のｒに烽もや烽もやがあって、それを晴逅らしたい気分…ってのが正解だう。†",
     ""),
     # The correct answer is that there is a lot of tampering with the r of my heart, and I feel like I want to make a happy encounter with it...†
 
-    ("…竅やっぱ、戟レミィのことだよな。",
+    ("…やっぱ、戟レミィのことだよな。",
     ""),
     # ...I meant that it's about Hakuremi after all.
 
-    ("ち痰ゃんと別れの言葉は言えただｂ…。",
+    ("ち痰ゃんと別れの言葉は言えただ…。",
     ""),
     # I'll say goodbye to Chisho-yan, but I'll just say goodbye...
 
-    ("い竄や、そんなことじ痰ゃない。",
+    ("いや、そんなことじ痰ゃない。",
     ""),
     # It's not a mess, there's nothing like that.
 
@@ -2534,11 +2534,11 @@ text_array = [
     ""),
     # "Yeah. It was 10 quarter 5 minutes."
 
-    ("「…竅やっぱり、見洛送闡りに行けばよかったかな」",
+    ("「…やっぱり、見洛送闡りに行けばよかったかな」",
     ""),
     # "...I guess I should have gone to send you to Miraku after all."
 
-    ("「オ激レ焜もそう思ってんだけどな。…なんか、別れがつらくなるだｂ」",
+    ("「オレ焜もそう思ってんだけどな。…なんか、別れがつらくなるだ」",
     ""),
     # "I think so too... It's going to be hard to break up."
 
@@ -2554,7 +2554,7 @@ text_array = [
     ""),
     # "Yes..." ◯
 
-    ("…それっきり黙ったまま、オ激レたちは学校までｗた。",
+    ("…それっきり黙ったまま、オレたちは学校までｗた。",
     ""),
     # ...We kept quiet and the others went to school lol.
 
@@ -2574,11 +2574,11 @@ text_array = [
     ""),
     # During the break, I peered into Geki Remy's classroom and also got hot.
 
-    ("廊下の角から、ひ蛯ょっこり顔を見せたり烽もしない。",
+    ("廊下の角から、ひょっこり顔を見せたり烽もしない。",
     ""),
     # He doesn't show his face from the corner of the hallway or even lets out a hot flash of light.
 
-    ("竅やっぱり撃レミィはいなかった。†",
+    ("やっぱり撃レミィはいなかった。†",
     ""),
     # As expected, there was no Teki Remy.†
 
@@ -2586,7 +2586,7 @@ text_array = [
     ""),
     # ...There's no one who should be the only one who is devil.
 
-    ("それだけで、こんなに烽もさびしい烽ものなのだｂうか。",
+    ("それだけで、こんなに烽もさびしい烽ものなのだうか。",
     ""),
     # That alone makes it so sad, hotpot.
 
@@ -2594,7 +2594,7 @@ text_array = [
     ""),
     # I've been dragging this kind of energy forever.†
 
-    ("オ激レ…",
+    ("オレ…",
     ""),
     # I'm super excited...
 
@@ -2626,11 +2626,11 @@ text_array = [
     ""),
     # Fuck….†
 
-    ("もし…、いま撃レミィがこう竄やって目の前にいたら、",
+    ("もし…、いま撃レミィがこうやって目の前にいたら、",
     ""),
     # If... if Ekirei was tampering with this and was right in front of me,
 
-    ("「オ激レ、戟レミィのこと好きだぜ」",
+    ("「オレ、戟レミィのこと好きだぜ」",
     ""),
     # "I love you so much, I love you."
 
@@ -2654,7 +2654,7 @@ text_array = [
     ""),
     # "I'm lonely after Remy returns to Cao Kingdom."
 
-    ("「…？	Ｉ’香ｍ	≠ｂ窒ｒｂ。アタシ、ここにいる",
+    ("「…？	Ｉ’香ｍ	≠窒ｒ。アタシ、ここにいる",
     ""),
     # "...? I'm ≠b nitrogen. I'm here.
 
@@ -2670,7 +2670,7 @@ text_array = [
     ""),
     # "I haven't gone home c?"
 
-    ("「本物！？	お前…、帰驪るはずだったｂ？」",
+    ("「本物！？	お前…、帰驪るはずだった？」",
     ""),
     # "The real thing!? You... were supposed to go back b?"
 
@@ -2678,11 +2678,11 @@ text_array = [
     ""),
     # "Uh yes.
 
-    ("入ｔ≠ａｔｂ唐入に帰ったの、пｄ≠ａрｄたちなの」",
+    ("入ｔ≠ａｔ入に帰ったの、пｄ≠ａрｄたちなの」",
     ""),
     # "They returned to T≠atb, T≠Aрd and others."
 
-    ("「ち蛯ょっと待て、戟レミィは冾日本に残ったのか？」†",
+    ("「ちょっと待て、戟レミィは冾日本に残ったのか？」†",
     ""),
     # "Wait a moment, did the rave-remy remain in Japan?"
 
@@ -2706,7 +2706,7 @@ text_array = [
     ""),
     # "I love you!! I can't go anywhere."
 
-    ("「なあ、はじめから撃レミィが冾日本に残骼る予阯定だったのか？」",
+    ("「なあ、はじめから撃レミィが冾日本に残骼る予定だったのか？」",
     ""),
     # "Hey, was it possible that Ekiremi would remain in Japan from the beginning?"
 
@@ -2714,7 +2714,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「まさか…、オ激レの勘瘧違い…？」",
+    ("「まさか…、オレの勘瘧違い…？」",
     ""),
     # "I can't believe... my instincts are different...?"
 
@@ -2734,7 +2734,7 @@ text_array = [
     ""),
     # That single word made me feel like the mystery had been resolved.†
 
-    ("「なあ、いつかア＜メ潟リカに行って烽もいいか？」",
+    ("「なあ、いつかア＜メリカに行って烽もいいか？」",
     ""),
     # "Hey, will you go to America someday and have some hot water?"
 
@@ -2750,7 +2750,7 @@ text_array = [
     ""),
     # "Yeah! Let's go!"
 
-    ("「…瘁違うだｂ。お前はオ激レを待ってればいいの」",
+    ("「…瘁違うだ。お前はオレを待ってればいいの」",
     ""),
     # "...No way. You should just wait for me to be extremely enthusiastic."
 
@@ -2762,15 +2762,15 @@ text_array = [
     ""),
     # "What's wrong with something...
 
-    ("それはオ激レと撃レミィがおたがいに見膜当癈違いをしていたんだ。",
+    ("それはオレと撃レミィがおたがいに見膜当癈違いをしていたんだ。",
     ""),
     # That's because I and Gekiremi were both making a difference in the supple hair.
 
-    ("い竄や、正確にはオ激レがはじめっからｌ解をしていたんだ！†",
+    ("いや、正確にはオレがはじめっからｌ解をしていたんだ！†",
     ""),
     # To be precise, I was the one who was trying to solve the problem from the beginning!†
 
-    ("「ったく、オ激レってрヤツは…」",
+    ("「ったく、オレってрヤツは…」",
     ""),
     # "Ah, I'm a really crazy guy..."
 
@@ -2778,11 +2778,11 @@ text_array = [
     ""),
     # "You said you like me, right? Is that a different huh?!"
 
-    ("「い竄や…。そんなはずはねえ、オ激レは撃レミィが好きだ」†",
+    ("「いや…。そんなはずはねえ、オレは撃レミィが好きだ」†",
     ""),
     # "It's tampering... I can't believe it, I like Ekire Remie."
 
-    ("「ア潟リガト。アタシ、どこに烽も行かないｃ」",
+    ("「アリガト。アタシ、どこに烽も行かないｃ」",
     ""),
     # "Agata Rigato. I'm not going anywhere."
 

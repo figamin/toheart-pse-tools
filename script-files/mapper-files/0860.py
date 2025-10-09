@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I'm here, huh Remie."
 
-    ("「Ｉｔ’入	＝ａ	入浮ｕ窒ｒ垂ｐ窒ｒ奄ｉ唐入ｂ、」",
+    ("「Ｉｔ’入	＝ａ	入浮ｕ窒ｒ垂ｐ窒ｒ奄ｉ入、」",
     ""),
     # "It' in = a floating nitrogen flowing nitrogen flowing nitrogen amane tangent b."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Oh, oh" †
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
-    ("Ａ	いっし蛯ょに帰汲うぜ。閨",
+    ("Ａ	いっしょに帰汲うぜ。閨",
     ""),
     # A: I'll return to the Episode.Relax
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # lunch break.
 
-    ("昼£メシを食い終えたオ激レは、ち蛯ょいとトイ激レへ用足しに出かけた。†",
+    ("昼£メシを食い終えたオレは、ちょいとトイレへ用足しに出かけた。†",
     ""),
     # After finishing the lunch meal, I went out to Chibi and Toy Gekure to add more.†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "What, where are you going?"
 
-    ("「図草書室に本を返しに。いっし蛯ょに行く？」",
+    ("「図草書室に本を返しに。いっしょに行く？」",
     ""),
     # "To return the book to the cursive library. Would you like to go to the essay?"
 
-    ("なんでオ激レが…と思ったが、とくに用沫事燻もないので、ち蛯ょっと考えてから、",
+    ("なんでオレが…と思ったが、とくに用沫事燻もないので、ちょっと考えてから、",
     ""),
     # I was wondering why I was so excited... but there was no particularly splashing, so I thought about it,
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # This bookstore was just expanded a few years ago, and the air conditioning room is good, quiet, and it's a comfortable bonito area inside the schoolroom.
 
-    ("本なんてめったに借闔りないこのオ激レだが、昼寝の場鰹所としてはときどきｗ用している。†",
+    ("本なんてめったに借闔りないこのオレだが、昼寝の場鰹所としてはときどきｗ用している。†",
     ""),
     # I rarely borrow books, but I sometimes use them as a bonito spot for naps.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Even though it's not like I'm borrowing something like this, it's a hassle to come back to it, so I can't get over it.
 
-    ("だが正直にそれを言うと、あかりの竄やつがまた、なんだかんだと福口うるさいので、",
+    ("だが正直にそれを言うと、あかりのやつがまた、なんだかんだと口うるさいので、",
     ""),
     # But to be honest, Akari's tampering is also noisy about Fukuchu,
 
@@ -106,15 +106,15 @@ text_array = [
     ""),
     # That's what I said.†
 
-    ("そんなオ激レを見て、あかりはクスッと笑う。",
+    ("そんなオレを見て、あかりはクスッと笑う。",
     ""),
     # Akari chuckles when she sees this intense roar.
 
-    ("いかに烽も『し蛯ょうがないなあ、ち痰ゃんは…』という顔だ。",
+    ("いかに烽も『しょうがないなあ、ち痰ゃんは…』という顔だ。",
     ""),
     # Even the heavens look on his face, "There's no shit, there's no shit, no shitty..."
 
-    ("オ激レがその場しのぎに嘯答えてるのがバ激レてる墲わけだ。",
+    ("オレがその場しのぎに嘯答えてるのがバレてる墲わけだ。",
     ""),
     # The reason why I'm the one who's just trying to get through the situation is that it's so crazy.
 
@@ -122,19 +122,19 @@ text_array = [
     ""),
     # Yes, why don't you think about it?
 
-    ("い竄やだねえ、長いつき№合いっての烽も。",
+    ("いやだねえ、長いつき№合いっての烽も。",
     ""),
     # I don't want to mess up, but I'm also using a long time to match.
 
-    ("增常に本心を見透かされる烽もんな。†",
+    ("常に本心を見透かされる烽もんな。†",
     ""),
     # You're always able to see through your true feelings.†
 
-    ("「じ痰ゃ、もし借闔りたい本があったら言ってね。カードの曹書き福方、教えてあげるから」",
+    ("「じ痰ゃ、もし借闔りたい本があったら言ってね。カードの曹書き方、教えてあげるから」",
     ""),
     # "No, if there's a book you want to borrow, please tell me. I'll teach you how to write a card, how to write a good-bye card."
 
-    ("それぐらい知ってるのだがオ激レは、",
+    ("それぐらい知ってるのだがオレは、",
     ""),
     # I know that much, but I'm
 
@@ -151,10 +151,10 @@ text_array = [
     # With a smile on his face, Akari said, walking towards Lkou.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("借闔りるにしｂ借闔りないにしｂ、とにかく本を見て回迚らないといけなくなった。",
+    ("借闔りるにし借闔りないにし、とにかく本を見て回迚らないといけなくなった。",
     ""),
     # I'm borrowing, b, I'm losing money, b, and I just had to look around and go around.
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # I feel like I've been able to get it on well.
 
-    ("ま、いい竄や。",
+    ("ま、いいや。",
     ""),
     # Well, it's tampering.
 
@@ -170,15 +170,15 @@ text_array = [
     ""),
     # There may be some books that look like they're white in the real world, or maybe they're hot.†
 
-    ("オ激レはしらみつぶしに本棚を見て回った。",
+    ("オレはしらみつぶしに本棚を見て回った。",
     ""),
     # I looked around my bookshelf in a slumber.
 
-    ("タイト泣ルだけを流し見していく。",
+    ("タイトルだけを流し見していく。",
     ""),
     # I'll just sweep tight crying and watch.
 
-    ("閨手前の本棚を通闥り抜け、そして、怐奥のほうにある背のｂ高い本棚までｗたとき…。◯",
+    ("閨手前の本棚を通闥り抜け、そして、怐奥のほうにある背の高い本棚までｗたとき…。◯",
     ""),
     # When I walked through the bookshelf in front of me, and then I reached the taller bookshelves that were deep in the middle...◯
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # One of the following female students seemed to stretch out in a silence and reach for a high position.
 
-    ("どう竄やら取闔りたい本に手が届かないらしい。",
+    ("どうやら取闔りたい本に手が届かないらしい。",
     ""),
     # Apparently he can't reach the book he wants to tamper with.
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # One of the following female students seemed to stretch out in a silence and reach for a high position.
 
-    ("どう竄やら取闔りたい本に手が届かないらしい。",
+    ("どうやら取闔りたい本に手が届かないらしい。",
     ""),
     # Apparently he can't reach the book he wants to tamper with.
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # He's a child I've never seen before.†
 
-    ("浴女の子は、まるでバ激レ潟リーナみたいに爪謦先でｃ鴻ロャ鴻ロと立ち、必死に手を伸ばす。",
+    ("浴女の子は、まるでバレリーナみたいに爪謦先でｃ鴻ロャ鴻ロと立ち、必死に手を伸ばす。",
     ""),
     # The bathing girl stands with her claws at the tip of her claws, like a fierce radaria, and desperately reaches out to her hand.
 
@@ -226,15 +226,15 @@ text_array = [
     ""),
     # It's not true that you're watching silently.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
-    ("Ａ	諱取って竄やｂうか、と聞いた。閨",
+    ("Ａ	諱取ってやうか、と聞いた。閨",
     ""),
     # A: I asked if I could take my name and tamper with it.Relax
 
-    ("Ｂ	なに烽も言甯わず、本を取って竄やった。閨",
+    ("Ｂ	なに烽も言甯わず、本を取ってやった。閨",
     ""),
     # B: Without saying anything, he took the book and frantically frustrated it.Relax
 

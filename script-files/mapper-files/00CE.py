@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Is it a Sunday the day?
 
-    ("もうち蛯ょっと寝髏るべし…。◯",
+    ("もうちょっと寝髏るべし…。◯",
     ""),
     # I should just go to sleep...◯
 

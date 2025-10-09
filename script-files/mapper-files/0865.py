@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Game Remy: Scales Event PS) (Choice: Break up)†
 
-    ("「オ激レ、いまから帰驪るから、んじ痰ゃなって」",
+    ("「オレ、いまから帰驪るから、んじ痰ゃなって」",
     ""),
     # "I'm going back now, so I'm going to have to smear it."
 
-    ("「Ｔｂ≠ａｔ’入	秩ｒ奄ｉ№ｇｂｔ？	帰っち痰ゃうの？」",
+    ("「Ｔ≠ａｔ’入	秩ｒ奄ｉ№ｇｔ？	帰っち痰ゃうの？」",
     ""),
     # "Tb≠at' in Choiri Amai No. Gbt? Are you going back and phlegm?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What are you hoping for?"
 
-    ("「ううん…。Ｔ≠ａ汲ｋｂ	堰ｉｔ	≠≠ａ唐入凾ｙ、またね」",
+    ("「ううん…。Ｔ≠ａ汲駆	堰ｉｔ	≠≠ａ入凾ｙ、またね」",
     ""),
     # "Uh... T≠a-bumped weir it ≠≠a-cup y, see you next time."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "It's phlegm."
 
-    ("竅やたらとがっかりした様子の撃レミィに手を振って、オ激レはその場を繧後にした。◯",
+    ("やたらとがっかりした様子の撃レミィに手を振って、オレはその場を繧後にした。◯",
     ""),
     # I waved at Ekiremi, who seemed extremely disappointed, and I left the scene.◯
 

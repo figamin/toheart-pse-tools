@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "yes?"
 
-    ("あかりはち蛯ょっと残念そうな顔をした。†",
+    ("あかりはちょっと残念そうな顔をした。†",
     ""),
     # Akari Hachie looked sad.†
 
-    ("「じ痰ゃあ、ち蛯ょっとだけ汲窓の外見て」",
+    ("「じ痰ゃあ、ちょっとだけ汲窓の外見て」",
     ""),
     # "Ah, I'll just look out the window."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("言甯われるまま、オ激レは汲窓の外を見た。",
+    ("言甯われるまま、オレは汲窓の外を見た。",
     ""),
     # As I was being told, I looked out the window.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Maybe it's because of the light rain that was just now.
 
-    ("そういえば、虹が出髀るには、ち蛯ょうどいいぱらつきｋ㈲合だったからな。†",
+    ("そういえば、虹が出髀るには、ちょうどいいぱらつき駆㈲合だったからな。†",
     ""),
     # Come to think of it, for the time when the rainbows could come out, it was a flapping slurp.†
 
-    ("「きれいでし蛯ょ？」",
+    ("「きれいでしょ？」",
     ""),
     # "She's beautiful, slut?"
 

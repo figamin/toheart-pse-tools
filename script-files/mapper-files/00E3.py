@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (3rd 23rd day of the year) (Go for a haircut) †
 
-    ("そうい竄や、ち蛯ょっと髪が伸びてきたな。",
+    ("そういや、ちょっと髪が伸びてきたな。",
     ""),
     # That's what I've seen, and my hair has grown so long.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Finished haircut.
 
-    ("店を出て、シ㏍ョーウィンドウに映驩る自分を見た。†",
+    ("店を出て、ショーウィンドウに映驩る自分を見た。†",
     ""),
     # I left the store and saw myself appearing in the window.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Certainly, I asked for the chrysanthemum to not make it too short, but I don't even know if it was cut or not.
 
-    ("もう少しバッサ潟リ窿やり痰ゃよかったか。†",
+    ("もう少しバッサリ窿やり痰ゃよかったか。†",
     ""),
     # Should I have done a little more phlegm?†
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Huh? Did you cut your hair?"
 
-    ("「增わかるか？」",
+    ("「わかるか？」",
     ""),
     # "Do you know?"
 
-    ("「增わかるよ。いつ烽も見てる烽もの」",
+    ("「わかるよ。いつ烽も見てる烽もの」",
     ""),
     # "I know. I always see the hot springs."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「横とか繧後撃から見たら、增わかるよ」",
+    ("「横とか繧後撃から見たら、わかるよ」",
     ""),
     # "If you look at it from the side or the aftermath of the attack, you can see it."
 
@@ -115,14 +115,14 @@ text_array = [
     # "Hahaha, there's no good phlegm the next day @"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なんかムカッときた。†",
     ""),
     # I was somehow annoyed.†
 
-    ("今度はオ激レがあかりの背續後に回濶り桙込んで、ジ鴻ロジ鴻ロ見て竄やった。",
+    ("今度はオレがあかりの背續後に回濶り桙込んで、ジ鴻ロジ鴻ロ見てやった。",
     ""),
     # This time, I was reeling after Akari's spine and started shaking, and I looked at the shining Hong Roji Hong Ro and tampered with it.
 
@@ -147,10 +147,10 @@ text_array = [
     # Yeah...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「どうだ、ジ鴻ロジ鴻ロ見迪られるのは、凵嫌な烽ものだｂう？」",
+    ("「どうだ、ジ鴻ロジ鴻ロ見迪られるのは、凵嫌な烽ものだう？」",
     ""),
     # "What do you think? It's a nasty thing to be arrested when you're being told?"
 

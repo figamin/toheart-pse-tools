@@ -10,19 +10,19 @@ text_array = [
     ""),
     # He's the one who makes a fuss.
 
-    ("＝普段の授業は眠くてし蛯ょうがねーくせに、こういうときはなぜかぱっちり目が覚める。",
+    ("＝普段の授業は眠くてしょうがねーくせに、こういうときはなぜかぱっちり目が覚める。",
     ""),
     # =Even though I'm sleepy and don't have much time for me in my usual classes, for some reason I wake up completely at times like this.
 
-    ("ち蛯ょうどそこで、♂史たち数人がテ激レビの話陂題で盛關り繧上がっていた。",
+    ("ちょうどそこで、♂史たち数人がテレビの話陂題で盛關り繧上がっていた。",
     ""),
     # There, several Masochist and others were thrilled about the talk of the TV drama.
 
-    ("オ激レ焜もそれに加妺わった。†",
+    ("オレ焜もそれに加妺わった。†",
     ""),
     # My hard worker also joined in with that.†
 
-    ("「最近、バ宴ラエティーの笑うポイントとかで嘯字が出髀る番組が多いけど、あれの使いどこｂ烽もセンスいるよなー」",
+    ("「最近、バラエティーの笑うポイントとかで嘯字が出髀る番組が多いけど、あれの使いどこ烽もセンスいるよなー」",
     ""),
     # "Lately, there are a lot of programs that have been making silly notes on the laughing points of Baen Raety, but I think that the use of that is also good at b-hoo has a sense of style."
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "But, the hot water has become quite popular too. Until a while ago, it was a laugh."
 
-    ("「ああ、禔収録スタッフが墲わざとらしい笑い声を繧上げる竄やつ？」",
+    ("「ああ、禔収録スタッフが墲わざとらしい笑い声を繧上げるやつ？」",
     ""),
     # "Ah, is this the one who the staff member who recorded Yu has a deliberate laugh?
 
-    ("「俺、ア激レ、ムカつくんだよ」",
+    ("「俺、アレ、ムカつくんだよ」",
     ""),
     # "I'm so gross, I'm getting annoyed."
 
@@ -54,27 +54,27 @@ text_array = [
     ""),
     # In particular, there were some people who were shut up in the girls' flies club the next day, and the classroom was completely closed.†
 
-    ("增わい墲わい墲わい墲わい…。",
+    ("わい墲わい墲わい墲わい…。",
     ""),
     # A little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit of a little bit
 
-    ("が竄やが竄やが竄やが竄や…。†",
+    ("がやがやがやがや…。†",
     ""),
     # It's tampering, tampering, tampering, tampering...†
 
-    ("ミ㏍ョーに盛關り繧上がる教室。",
+    ("ミョーに盛關り繧上がる教室。",
     ""),
     # A classroom that will attract many visitors.
 
-    ("オ激レは、ふとま墲わりを見渡して思った。",
+    ("オレは、ふとま墲わりを見渡して思った。",
     ""),
     # I thought, looking around the corner.
 
-    ("いくらなんで烽も、こり痰ゃ、ち蛯ょっとうるさ過ぎ竄やしねーか。",
+    ("いくらなんで烽も、こり痰ゃ、ちょっとうるさ過ぎやしねーか。",
     ""),
     # No matter how much you say it, even if it's hard, it's too loud and stuffed.
 
-    ("もう少しボ潟リャームを獅落とさねーと、隣の教室の先生がキ激レて飛んでくるぞ。",
+    ("もう少しボリャームを獅落とさねーと、隣の教室の先生がキレて飛んでくるぞ。",
     ""),
     # To lionize the Bogata Riam a little more, the teacher in the classroom next door will go wild and fly away.
 

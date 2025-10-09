@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Akari seemed disappointed.
 
-    ("ち蛯ょっと竄冷たかったか。†",
+    ("ちょっと冷たかったか。†",
     ""),
     # Was it cold after all?†
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # "Yeah, there's no phlegm."
 
-    ("閨手を振關り、オ激レは烽歩きだした。†",
+    ("閨手を振關り、オレは烽歩きだした。†",
     ""),
     # I waved my hand and started walking.†
 
-    ("そうい竄や手に本を揩持ってたみたいだけど、なんだｂう？",
+    ("そういや手に本を揩持ってたみたいだけど、なんだう？",
     ""),
     # It seems like he was tampering with a book in his hand, but what's that?
 
-    ("まあ、いまじ痰ゃなくていいって言ってたし、た墲わいのないことなんだｂう。◯",
+    ("まあ、いまじ痰ゃなくていいって言ってたし、た墲わいのないことなんだう。◯",
     ""),
     # Well, he said that there's no need to phlegm right now, so it's a shameless thing.◯
 

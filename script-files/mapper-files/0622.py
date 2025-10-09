@@ -2,7 +2,7 @@
 # Source file: 0622.txt
 
 text_array = [
-    ("（マ泣ルチ	エンディング）閨（Ｂ	お礼なんてしにｗなくていい）†",
+    ("（マルチ	エンディング）閨（Ｂ	お礼なんてしにｗなくていい）†",
     ""),
     # (Makyuruchi Ending) (B, there's no need to thank you lol) †
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "And, but..."
 
-    ("「そんな蛯大したことは竄やっち痰ゃいねーだｂ？	感謝の気搴持ちなら、電話で烽も十分さ」",
+    ("「そんな大したことはやっち痰ゃいねーだ？	感謝の気搴持ちなら、電話で烽も十分さ」",
     ""),
     # "You can't do anything big like that, don't you have to tamper with me? If you're feeling grateful, you can also get enough of the phone."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("マ泣ルチは少し考えると、",
+    ("マルチは少し考えると、",
     ""),
     # When I think about it for a moment,
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # He said.†
 
-    ("「增わかりました。では、電話で、お礼を言甯わせてください」",
+    ("「わかりました。では、電話で、お礼を言甯わせてください」",
     ""),
     # "I understand. Now, please give me a thank you over the phone."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Oh, that's about it"
 
-    ("「さん、今厓日まで、いｂいｂありがとうございました。このご恩、增わたしは一生忘齧れません」",
+    ("「さん、今厓日まで、いいありがとうございました。このご恩、わたしは一生忘齧れません」",
     ""),
     # "Mr. Thank you so much for the buddy up until the day you've just finished. I will never forget this kind of thank you."
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # "..."†
 
-    ("なんだか、ち蛯ょっと胸がき繧ゅんとなった。",
+    ("なんだか、ちょっと胸がき繧ゅんとなった。",
     ""),
     # My heart was shining in a slurp.
 
-    ("なんだｂう。†",
+    ("なんだう。†",
     ""),
     # What is it?†
 
-    ("「な、なあ、マ泣ルチ」",
+    ("「な、なあ、マルチ」",
     ""),
     # "What, hey, mum-cry."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「諱よかったら、またこうして電話してｗいよ。いつで烽も鰍相闡手になるからさ。なんなら今度、オ激レとどっか遊びに行こうぜ？」",
+    ("「諱よかったら、またこうして電話してｗいよ。いつで烽も鰍相闡手になるからさ。なんなら今度、オレとどっか遊びに行こうぜ？」",
     ""),
     # "If you like it, please call me again lol. When will Hot be a friend of mine? Let's go and play somewhere next time with me?"
 
@@ -110,12 +110,12 @@ text_array = [
     ""),
     # I, too, hot..."
 
-    ("「マ泣ルチ？」",
+    ("「マルチ？」",
     ""),
     # "Sheep?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -150,11 +150,11 @@ text_array = [
     ""),
     # If it were to happen, I should have invited her out of the day, so I guess she'd have to be phlegmed.
 
-    ("馬鹿かオ激レは。†",
+    ("馬鹿かオレは。†",
     ""),
     # Is it stupid or something?†
 
-    ("まあ、いい竄や。",
+    ("まあ、いいや。",
     ""),
     # Well, it's tampering.
 

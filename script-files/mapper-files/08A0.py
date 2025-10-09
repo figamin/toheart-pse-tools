@@ -2,11 +2,11 @@
 # Source file: 08A0.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	今厓日はち蛯ょっと）†",
+    ("（戟レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	今厓日はちょっと）†",
     ""),
     # (Game Remie Scale Event 2nd Floor 4 LV1) (Selected Days Now)†
 
-    ("「增わりぃ、今厓日はち蛯ょっと、用沫事があってな」",
+    ("「わりぃ、今厓日はちょっと、用沫事があってな」",
     ""),
     # "I'm sorry, I'm sorry, but I'm going to have to drop off now."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Really good."
 
-    ("オ激レが謝骼ると、",
+    ("オレが謝骼ると、",
     ""),
     # When I apologized,
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "She's phlegm."
 
-    ("「Ｓｂｂ	凵ｙ盾ｏ浮ｕ	戟ｌ≠ａｔｂ窒ｒ」",
+    ("「Ｓ	凵ｙ盾ｏ浮ｕ	戟ｌ≠ａｔ窒ｒ」",
     ""),
     # "Sbb, y shield o floats, l≠atb nitrogen"
 

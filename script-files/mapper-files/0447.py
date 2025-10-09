@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho Likeability Event 4) (8 likeability, 23rd round of 23rd round of 2018) (In front of the arcade) (In front of the arcade)
 
-    ("オ激レは約束どおり、まっすぐゲーセンに竄やってきた。",
+    ("オレは約束どおり、まっすぐゲーセンにやってきた。",
     ""),
     # As promised, I started tampering straight at the arcade.
 
-    ("「竅やっほー、」",
+    ("「やっほー、」",
     ""),
     # "Ahhhhh."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "You're the one who won't let your feet snatch up."
 
-    ("オ激レたちは、おたがいに不敵な笑みをｂ浮かべてゲーセンに入った。†",
+    ("オレたちは、おたがいに不敵な笑みを浮かべてゲーセンに入った。†",
     ""),
     # We entered the arcade with a defiant smile on our faces.†
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # ・†
 
-    ("「さて…と、氈勝縁負は烽もちｂん、あれだｂ？」",
+    ("「さて…と、氈勝縁負は烽もちん、あれだ？」",
     ""),
     # "Well... And the winner is the best b, is that b?"
 
-    ("オ激レは、ジェットスキータイプの蛯大型機を指差した。",
+    ("オレは、ジェットスキータイプの大型機を指差した。",
     ""),
     # Ogere pointed to a large jet ski-type epdo.
 
-    ("「そうよ。聞いとくけど、少しはうまくなったんでし蛯ょうね？」",
+    ("「そうよ。聞いとくけど、少しはうまくなったんでしょうね？」",
     ""),
     # "Yeah. I'll listen, but I've gotten a little better, so be it?"
 
-    ("「でなき痰ゃ、竅やんねー諱よ」",
+    ("「でなき痰ゃ、やんねー諱よ」",
     ""),
     # "If you don't have any phlegms, it's a shame, your name is."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Hmm... I'm looking forward to it."
 
-    ("「そんじ痰ゃ、オ激レから行かせて烽もらうぜ」",
+    ("「そんじ痰ゃ、オレから行かせて烽もらうぜ」",
     ""),
     # "That's all, I'll let you go and get some hot water."
 
@@ -82,23 +82,23 @@ text_array = [
     ""),
     # Shiho has plenty of room to spare.
 
-    ("…見てｂよ、その鼻っ撃柱をへし折って竄やるからな。†",
+    ("…見てよ、その鼻っ撃柱をへし折ってやるからな。†",
     ""),
     # ...Look, b, I'll break that nose pole and tamper with it.†
 
-    ("対糟物の漫譁画だと、諱先に手の烽内を見せた福方が奄負けだが、オ激レには竄絶対の自信があった。",
+    ("対糟物の漫譁画だと、諱先に手の烽内を見せた方が奄負けだが、オレには絶対の自信があった。",
     ""),
     # In the manga series that is against the discord, Fukuda, who showed his hand at the top of his name, lost to Amami, but I was confident that he would be tampering with.
 
-    ("お烽もむｂにバイクにまたがって、梶投涛茁口へコインを入齠れる。",
+    ("お烽もむにバイクにまたがって、梶投涛茁口へコインを入齠れる。",
     ""),
     # He straddles his bike and inserts a coin into the Kaji Totao Dio.
 
-    ("…特訓成果を見せて竄やるぜ！†",
+    ("…特訓成果を見せてやるぜ！†",
     ""),
     # ...I'll show you the results of my training and tamper with it!†
 
-    ("まずは、スタート前のアクセ泣ル調整。",
+    ("まずは、スタート前のアクセル調整。",
     ""),
     # First, adjust the accessories to the cry before the start.
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # And the goal!!†
 
-    ("オ激レはちらりと志保の福方を見骭る。",
+    ("オレはちらりと志保の方を見骭る。",
     ""),
     # I glimpse at Shiho's Fukukata.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # ...Shiho's guy is staring at the screen.
 
-    ("で、タイムは…竅やったぜ、２’０１”１８！",
+    ("で、タイムは…やったぜ、２’０１”１８！",
     ""),
     # And the time... I did it, 2'01"18!
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # It's 4 seconds faster than his time.
 
-    ("このゲームに揩理解のある竄やつなら、４秒縮めることがどれほど入しいか墲わかるはずだ。",
+    ("このゲームに揩理解のあるやつなら、４秒縮めることがどれほど入しいか墲わかるはずだ。",
     ""),
     # If you're a guy with an understanding of this game, you'll see how much it's worth saving up 4 seconds.
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # In fact, it seems that Shiho Taru also understands this...†
 
-    ("バイクを降闕りたオ激レは、",
+    ("バイクを降闕りたオレは、",
     ""),
     # I was so excited to take my bike off,
 
-    ("「どーだい、オ激レのテクは？」",
+    ("「どーだい、オレのテクは？」",
     ""),
     # "What, what are my superb techniques?"
 
@@ -187,7 +187,7 @@ text_array = [
     # I asked, groaning.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("志保は、まだボーッとしている。†",
@@ -198,11 +198,11 @@ text_array = [
     ""),
     # "What's wrong, Shiho? Do you give up?"
 
-    ("すると、はっと艪我に返ったように、",
+    ("すると、はっと我に返ったように、",
     ""),
     # And as if he suddenly came to his senses,
 
-    ("「す、少しは竄やるようになったじ痰ゃない…」",
+    ("「す、少しはやるようになったじ痰ゃない…」",
     ""),
     # "S--I've started tampering with a little bit, so I don't have any phlegm..."
 
@@ -218,11 +218,11 @@ text_array = [
     ""),
     # I'm looking forward to it, Shiho."
 
-    ("オ激レは、ポンと彼濫女の背白を押した。",
+    ("オレは、ポンと彼濫女の背白を押した。",
     ""),
     # I suddenly pushed my boyfriend and woman back.
 
-    ("二、三燻歩謨よｂめいた繧後、振關り返阨り、",
+    ("二、三燻歩謨よめいた繧後、振關り返阨り、",
     ""),
     # After a few steps, I replied,
 
@@ -238,11 +238,11 @@ text_array = [
     ""),
     # "I'm watching."
 
-    ("おち蛯ょくったふうな声で桙応えるオ激レ。",
+    ("おちょくったふうな声で桙応えるオレ。",
     ""),
     # I responded with a slutty voice.
 
-    ("彼濫女の竄冷静さを奪うためのｍ寘戦だ。†",
+    ("彼濫女の冷静さを奪うためのｍ寘戦だ。†",
     ""),
     # It's a battle to take away the man's calmness.†
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # Unable to fully recover from the ramblings after the start, he thrusts into the worst position.
 
-    ("そのまま蛯大きくはらんで、カーブの出繒口で壁にボディをガンガンぶつける。",
+    ("そのまま大きくはらんで、カーブの出繒口で壁にボディをガンガンぶつける。",
     ""),
     # The slug slurps wide, and the body is slammed against the wall with the curved opening.
 
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # ・
 
-    ("竅やがてゴール。†",
+    ("やがてゴール。†",
     ""),
     # I finally got to the finish line.†
 
@@ -310,19 +310,19 @@ text_array = [
     ""),
     # The time is...2'15" 48.
 
-    ("竅冷静さを失った志保は、実力燉も出しきれず無様な汲結果に終尞わった。",
+    ("冷静さを失った志保は、実力燉も出しきれず無様な汲結果に終尞わった。",
     ""),
     # After losing his composure, Shiho was unable to fully demonstrate his ability and ended up with a miserable result.
 
-    ("…今回はオ激レのｍ寘戦汾勝ちだ。†",
+    ("…今回はオレのｍ寘戦汾勝ちだ。†",
     ""),
     # ...This time I'm going to win the battle for a fierce battle.†
 
-    ("「增わりぃなぁ、志保。惜しかったなぁ」",
+    ("「わりぃなぁ、志保。惜しかったなぁ」",
     ""),
     # "That's so bad, Shiho. I was so sad."
 
-    ("オ激レは、できるだけムカつくように言って竄やった。",
+    ("オレは、できるだけムカつくように言ってやった。",
     ""),
     # I tried to tamper with it as annoyed as possible.
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # The level of annoyance is probably low or hot, but I said it in a way that looks like Shiho's wild side, so it seems like it will be effective or hot.†
 
-    ("「竅や、竅やる墲わね…。今厓日だけは志保ち痰ゃんの奄負けよ」",
+    ("「や、やる墲わね…。今厓日だけは志保ち痰ゃんの奄負けよ」",
     ""),
     # "You're going to have a stomp, you're going to lose to Amami on the day of the day."
 
@@ -342,15 +342,15 @@ text_array = [
     ""),
     # That's all the way, her face twitching with anger.
 
-    ("どんな状況で烽も偉そうに言うとこｂが、志保逡らしくて笑ってしまう。†",
+    ("どんな状況で烽も偉そうに言うとこが、志保逡らしくて笑ってしまう。†",
     ""),
     # In any situation, whenever you say it with arrogance, B laughs at how he is so shy.†
 
-    ("「素直に『堰負け』を『堰負け』と認めるなんて、オ激レにはち蛯ょっと真乱似できねえなぁ〜」",
+    ("「素直に『堰負け』を『堰負け』と認めるなんて、オレにはちょっと真乱似できねえなぁ〜」",
     ""),
     # "To honestly admit that a 'wealth loss' is a 'wealth loss', I can't really resemble a real-life 'wealth loss'."
 
-    ("強調して『堰負け』を連呼するオ激レ。",
+    ("強調して『堰負け』を連呼するオレ。",
     ""),
     # I'm so excited that I keep saying "die loss" repeatedly.
 
@@ -362,11 +362,11 @@ text_array = [
     ""),
     # Even if he's a cool face, even the strong-willed han that he can say to him is just a gyagg with a twitching face.†
 
-    ("調子に乗ったオ激レは、さらに志保をムカつかせた。",
+    ("調子に乗ったオレは、さらに志保をムカつかせた。",
     ""),
     # I got carried away and got even more annoyed Shiho.
 
-    ("「しかしよぉ、＝普通納得いかねえよな〜。あんな『堰負け福方』。それをこう烽もあっさり『堰負け』と認めるなんて、さすが志保様。『堰負けて烽も』カッコイイ諠よな〜」†",
+    ("「しかしよぉ、＝普通納得いかねえよな〜。あんな『堰負け方』。それをこう烽もあっさり『堰負け』と認めるなんて、さすが志保様。『堰負けて烽も』カッコイイ諠よな〜」†",
     ""),
     # "But, I don't think I'll be able to accept that. That kind of 'good way to lose the weir'. Shiho-san can easily recognize it as 'good lose', as expected of Shiho-san. 'Gotta lose the weir', too' he's a cool guy, right?'
 
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # "Ohhhh... well, hot.
 
-    ("負けは奄負けだからぁ、пヤックで烽もおごｂうか？」",
+    ("負けは奄負けだからぁ、пヤックで烽もおごうか？」",
     ""),
     # The loss is Amami, so can you please take care of the пYak?”
 
@@ -394,11 +394,11 @@ text_array = [
     ""),
     # Since then, Shiho has fewer Yukou-ho numbers, and was a bit unfortunate until the very end.
 
-    ("というより、どう竄やってオ激レに怩復讐しようか考えていたんだｂう…。",
+    ("というより、どうやってオレに怩復讐しようか考えていたんだう…。",
     ""),
     # Rather, I was thinking about how to tamper with it and get revenge on me...
 
-    ("それにして烽も、あまりに見膜事な勝女にオ激レ自身驚いている。†",
+    ("それにして烽も、あまりに見膜事な勝女にオレ自身驚いている。†",
     ""),
     # However, even Hou is extremely surprised by the fact that Katsuie is so gross.†
 

@@ -2,7 +2,7 @@
 # Source file: 07E8.txt
 
 text_array = [
-    ("（琴音	回秤数イベント３	ＰＳ）閨（選択綜	別の福方法）†",
+    ("（琴音	回秤数イベント３	ＰＳ）閨（選択綜	別の方法）†",
     ""),
     # (Kotone, Scales Event 3 PS) (Chounen, another method of happiness)†
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "... And even then, we cannot cause trouble for Mr. Ryojo."
 
-    ("「オ激レは迷惑だなんてこれっぽっち烽も思っち痰ゃいねえけど、琴音ち痰ゃんはどうなんだ？	オ激レといて迷惑か？」†",
+    ("「オレは迷惑だなんてこれっぽっち烽も思っち痰ゃいねえけど、琴音ち痰ゃんはどうなんだ？	オレといて迷惑か？」†",
     ""),
     # "I'm not gonna think that my trash is a nuisance, but what about Kotone's trash? Is it a nuisance to me with my trash?" †
 
-    ("琴音ち痰ゃんは竄寂しげな表﨣情でオ激レを見繻上げ、",
+    ("琴音ち痰ゃんは寂しげな表﨣情でオレを見上げ、",
     ""),
     # Kotone Chisho-chan is a lonely and lonely person, and I look at my intense traits,
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # He put his eyes down.
 
-    ("オ激レは『ははっ』と乾いた声で笑い、",
+    ("オレは『ははっ』と乾いた声で笑い、",
     ""),
     # My guts laughed dryly, "Haha!"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Kotone Chisho-chan is a lie that's a good thing.
 
-    ("もっと怖い顔で言ってくれれば、オ激レ焜もおとなしく退散したか烽もしれねえのに」",
+    ("もっと怖い顔で言ってくれれば、オレ焜もおとなしく退散したか烽もしれねえのに」",
     ""),
     # If you said it with a more scary look on your face, I'd be quietly retreated, or maybe it's a hot one."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "…sorry…"†
 
-    ("「いいって。それより、なんか考えようぜ。超能力で人に迷惑かけなくて烽もすむ福方法」",
+    ("「いいって。それより、なんか考えようぜ。超能力で人に迷惑かけなくて烽もすむ方法」",
     ""),
     # "That's fine. Instead, let's think about something. A blessing method that will help you with supernatural powers and not cause trouble to others."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Um, I'm happy that you're so excited. And the hot weather is also unconventional..."
 
-    ("「あきらめるのはまだ≠早いって。なんか福方法あるだｂ？」",
+    ("「あきらめるのはまだ≠早いって。なんか方法あるだ？」",
     ""),
     # "It's still too early to give up. Is there a way to be blessed?"
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…そうだ、たしかさっき、少しだけコント鴻ロールできるって言ってたｂ？	それを福練習して全泊部コント鴻ロールできるようにするんだ」",
+    ("「…そうだ、たしかさっき、少しだけコント鴻ロールできるって言ってた？	それを練習して全泊部コント鴻ロールできるようにするんだ」",
     ""),
     # "...Yes, I think you said earlier that you can control a little bit? You'll practice that and be able to control a whole house club."
 
-    ("「…できません。今までに烽も竄やってみましたが、ダ＜メでした…」†",
+    ("「…できません。今までに烽もやってみましたが、ダ＜メでした…」†",
     ""),
     # "...I can't. I've tried tampering with hot water up until now, but it was a shame..."
 
-    ("「それは今までの話だｂ。これから烽もそうとは限迪らねえさ」",
+    ("「それは今までの話だ。これから烽もそうとは限迪らねえさ」",
     ""),
     # "That's what we've seen up until now. It's not always the case with Hot Springs."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「諱よし！	オ激レはｌめた。琴音ち痰ゃんが超能力を使いこなせるようになるまで桙応㊨援するってな」",
+    ("「諱よし！	オレはｌめた。琴音ち痰ゃんが超能力を使いこなせるようになるまで桙応㊨援するってな」",
     ""),
     # "All right! I've got a gag. Kotone Chisho-chan will give you some support until you can master your supernatural powers."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # I can't help but say it's nonsense anymore.
 
-    ("やるだけ竄やって、それで烽もダ＜メだったら言うんだ」",
+    ("やるだけやって、それで烽もダ＜メだったら言うんだ」",
     ""),
     # If you're going to do it as much as you can, then you'll say it."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Yes...
 
-    ("よｂしく、お願いします…」",
+    ("よしく、お願いします…」",
     ""),
     # Please, please..."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("オ激レ焜もただ桙応㊨援するだけじ痰ゃダ＜メだ。",
+    ("オレ焜もただ桙応㊨援するだけじ痰ゃダ＜メだ。",
     ""),
     # Even my hard work is just to support her, so I'm not going to let her help out.
 

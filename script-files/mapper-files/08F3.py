@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I don't believe it, but it's okay."
 
-    ("だから怪談とかホ宴ラーとかがある墲わけだし。",
+    ("だから怪談とかホラーとかがある墲わけだし。",
     ""),
     # That's why there are ghost stories and hobans.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Don't you believe it?"
 
-    ("「フィクシ㏍ョンだけで充分だよ」†",
+    ("「フィクションだけで充分だよ」†",
     ""),
     # "Fixing alone is enough"
 
-    ("「增わかりました！」",
+    ("「わかりました！」",
     ""),
     # "I understand!"
 

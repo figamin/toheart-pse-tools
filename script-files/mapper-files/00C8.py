@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Well, what will I eat on the day?
 
-    ("キ㏍ョ鴻ロキ㏍ョ鴻ロ辺阨りを見渡していると、",
+    ("キョ鴻ロキョ鴻ロ辺阨りを見渡していると、",
     ""),
     # Looking around the sky,
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Where am I going out?"
 
-    ("「い竄や、適俣当に飯食いにな。お前は？」",
+    ("「いや、適俣当に飯食いにな。お前は？」",
     ""),
     # "Tsniff, have fun with Tomatato. What about you?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「梶相変﨑わらず、ち痰ゃっかりして竄やがんな、お前は」†",
+    ("「梶相変﨑わらず、ち痰ゃっかりしてやがんな、お前は」†",
     ""),
     # "Kaji Ai no Kaji, don't let it go, don't you, just mess up, don't you?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "I'm going to get back now."
 
-    ("「返す前に、オ激レに烽もそいつをコピーさせてくれよ」",
+    ("「返す前に、オレに烽もそいつをコピーさせてくれよ」",
     ""),
     # "Before I give you a copy of it, please let me copy it."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Okay, phlegm.
 
-    ("こいつは思寬わぬ福収穫だ。",
+    ("こいつは思寬わぬ収穫だ。",
     ""),
     # This guy is a precious harvest that you can't imagine.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # I'm glad I first appeared in Male History.
 
-    ("これで明坙日のテスト焜もバッチ潟リだ、多分。◯",
+    ("これで明坙日のテスト焜もバッチリだ、多分。◯",
     ""),
     # This will probably make the test on Ming Shun Day perfect.◯
 

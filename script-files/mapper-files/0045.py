@@ -14,7 +14,7 @@ text_array = [
     ""),
     # The sun has just ended on the day.
 
-    ("これからはオ激レの桙時間だ。†",
+    ("これからはオレの桙時間だ。†",
     ""),
     # It's my super time to get into it.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("ク宴ラスの翌女子が手を振って、玄関から出ていった。†",
+    ("クラスの翌女子が手を振って、玄関から出ていった。†",
     ""),
     # The girl waved her hand out of the entrance after the banquet.†
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Well, it's over.
 
-    ("空を見鼬れば、まだ冾日はｂ高い。",
+    ("空を見鼬れば、まだ冾日は高い。",
     ""),
     # If you look at the sky, the day is still high.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # The April 26th day of Shizuki is over.
 
-    ("その冾日は不覚に烽も、遅くまで、テ激レビの深髏夜坙放藍送を見てしまった。",
+    ("その冾日は不覚に烽も、遅くまで、テレビの深髏夜坙放藍送を見てしまった。",
     ""),
     # On that day, I was left unaware of the sudden release of the TV drama, and I watched the deep night and indigo.
 

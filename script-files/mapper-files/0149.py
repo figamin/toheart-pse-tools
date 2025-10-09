@@ -22,7 +22,7 @@ text_array = [
     ""),
     # He bowed his head saying that.†
 
-    ("「竅やっぱ神岸さんだって、諱よく知迺らないрヤツ潟相闡手じ痰ゃ警卲戒するだｂうからさ」",
+    ("「やっぱ神岸さんだって、諱よく知迺らないрヤツ相闡手じ痰ゃ警卲戒するだうからさ」",
     ""),
     # "Even Kamigishi-san is not very knowledgeable about him, so he should be warned against the phlegms of all things that are not well known."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Well."
 
-    ("だからってこのオ激レをダシにするのは気に入逑らないが、まあ断髓る揩理由燉もない。†",
+    ("だからってこのオレをダシにするのは気に入逑らないが、まあ断髓る揩理由燉もない。†",
     ""),
     # That's why I don't like the fact that I use this slurp, but I don't have a reason to stop it.†
 
-    ("「で烽もよ、こういうことなら、オ激レ諠よかｉ史か志保に鰍頼んだほうがいいぜ？	アイツ辜ら烽もあかりとは№仲良いし」",
+    ("「で烽もよ、こういうことなら、オレ諠よかｉ史か志保に鰍頼んだほうがいいぜ？	アイツ辜ら烽もあかりとは№仲良いし」",
     ""),
     # "And if this is the case, why don't you order a catfish from Ishii or Shiho? He and Ho are also friends with Akari."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I already asked Sato to hachi. He's going to hate him because he'll be hated by you."
 
-    ("「オ激レが恨む？	なんで？」†",
+    ("「オレが恨む？	なんで？」†",
     ""),
     # "You're so grudged? Why?"
 

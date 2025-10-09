@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Tan!
 
-    ("とっさに踏んだステップでなんとか衝突は回避した烽ものの、浴女生徒はきびしい目でオ激レをにらんだ。",
+    ("とっさに踏んだステップでなんとか衝突は回避した烽ものの、浴女生徒はきびしい目でオレをにらんだ。",
     ""),
     # Although the collision was managed to avoid the collision with a quick step, the female student glared at me with harsh eyes.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "...Ugh."
 
-    ("思寬わずひるんでしまうオ激レ。†",
+    ("思寬わずひるんでしまうオレ。†",
     ""),
     # I flinch without thinking about it.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # They were probably talking about the three female students the next day.†
 
-    ("「增わ、悪ぃ」",
+    ("「わ、悪ぃ」",
     ""),
     # "Bang, bad."
 

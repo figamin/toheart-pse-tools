@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (The Remy Scales Event: The Entrance Road 1 LV1) (Change the story)†
 
-    ("オ激レは話陂題を変えようと、考えた。",
+    ("オレは話陂題を変えようと、考えた。",
     ""),
     # I thought about changing the subject.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "This day will be a good day for you to take it."
 
-    ("そんなセ潟リフと一処緒に出てきた本は『こと墲わざ格言辞典』だった。",
+    ("そんなセリフと一処緒に出てきた本は『こと墲わざ格言辞典』だった。",
     ""),
     # The book that came up with Segata Rif was "Kotomo Terusa Aphrodisiction."
 
-    ("それ烽も、出版社の痰違うのが２福冊。†",
+    ("それ烽も、出版社の痰違うのが２冊。†",
     ""),
     # The publisher's sputum is different, and the two Fuku books are also different.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Hello, you know such suspicious words, but are you still buying a MO?"
 
-    ("オ激レは思いっきり、呆れてしまった。†",
+    ("オレは思いっきり、呆れてしまった。†",
     ""),
     # My heart was so shocked.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "It's boring to read the same book, so I'm going to buy a different book."
 
-    ("「へいへい。べんき蛯ょー熱心なこった」",
+    ("「へいへい。べんきょー熱心なこった」",
     ""),
     # "Hey hey. A eager ecstasy."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Do you also read it?”
 
-    ("「轣冗談は竄やめｂって」",
+    ("「轣冗談はやめって」",
     ""),
     # "Stop tampering with joking"
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "ah"†
 
-    ("「Ｗｂ撃ｌ撃ｌ…」",
+    ("「Ｗ撃ｌ撃ｌ…」",
     ""),
     # "Wb Shot l..."
 
-    ("戟レミィはち蛯ょっと考えて、",
+    ("戟レミィはちょっと考えて、",
     ""),
     # I thought about it,
 
-    ("「２４福冊搓持ってるｃ！」",
+    ("「２４冊搓持ってるｃ！」",
     ""),
     # "I have 24 lucky books!"
 
@@ -98,35 +98,35 @@ text_array = [
     ""),
     # He said with amusement.†
 
-    ("「２４福冊！？	そこに揩持ってるのを№合寘わせてか？」",
+    ("「２４冊！？	そこに揩持ってるのを№合寘わせてか？」",
     ""),
     # "24 Fukushi Publishings!? Could you please send me a bunch of people who have them there?"
 
-    ("オ激レが聞くと、彼濫女は首を横に振關り、",
+    ("オレが聞くと、彼濫女は首を横に振關り、",
     ""),
     # When I heard, the woman shook her head,
 
-    ("「ううん。これを№合寘わせたら、２６福冊鴻」",
+    ("「ううん。これを№合寘わせたら、２６冊鴻」",
     ""),
     # "Uh, if we put this together, we'll be 26 Fukuzaku Ko."
 
-    ("と、磨当然のように言う。",
+    ("と、当然のように言う。",
     ""),
     # He says, of course.
 
-    ("「まさか全泊部、こと墲わざの本じ痰ゃ、ねーだｂーな？」",
+    ("「まさか全泊部、こと墲わざの本じ痰ゃ、ねーだーな？」",
     ""),
     # "I can't believe it's the whole house club, and the real phlegm of the work, isn't it?"
 
-    ("「Ｙｂ唐入」†",
+    ("「Ｙ入」†",
     ""),
     # "Yb Tangari"†
 
-    ("「ウソだｂ…」",
+    ("「ウソだ…」",
     ""),
     # "That's a lie..."
 
-    ("同じ墲種類の辞典を２４福冊熏も…。",
+    ("同じ墲種類の辞典を２４冊熏も…。",
     ""),
     # There are also 24 other dictionaries of the same type...
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # Ekire Remi laughs mischievously.
 
-    ("「なんか安心したぜ…。だけどな、冝日本の文化を語骭るなら、早国鼾語辞典の１０福冊竝や２０福冊、本棚に並べるくらいじ痰ゃねーとな」",
+    ("「なんか安心したぜ…。だけどな、冝日本の文化を語骭るなら、早国鼾語辞典の１０冊竝や２０冊、本棚に並べるくらいじ痰ゃねーとな」",
     ""),
     # "I feel relieved... But if I were to talk about Japanese culture, I would have to put 10 Fukuzaku and 20 Fukuzaku from the Hayatokon Dictionary on my bookshelf."
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Is that so? I'm going to buy some hot Japanese language dictionary and read it c"
 
-    ("「もーいいって。前言撤回！	オ激レが悪かった。こと墲わざ以外に烽もマイナーな冾日本齧語まで使寬われたら、こっちが困骰るぜ」",
+    ("「もーいいって。前言撤回！	オレが悪かった。こと墲わざ以外に烽もマイナーな冾日本齧語まで使寬われたら、こっちが困骰るぜ」",
     ""),
     # "That's fine. Retracted the previous statement! I was in a bad mood. If I were to use Japanese language, which is not just a little bit of a move, I'd be in trouble."
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # Karemi nodded in an ambiguous response.
 
-    ("辞典をモ買って読むのは構寘わないけど、出初う度に曹国鼾語の授業をさせられるオ激レは、ち蛯ょっと勘弁して烽もらいたいな。†",
+    ("辞典をモ買って読むのは構寘わないけど、出初う度に曹国鼾語の授業をさせられるオレは、ちょっと勘弁して烽もらいたいな。†",
     ""),
     # I don't care about buying and reading the dictionary, but I'm forced to take Cao Guo Gang lessons every time I first appeared, so I'd like to give up on the silly silly.†
 

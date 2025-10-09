@@ -2,11 +2,11 @@
 # Source file: 0471.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	カ泣ルー堰ラ）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	カルー堰ラ）†",
     ""),
     # (Shiho Scales Event PS) (Choose-so Kakyuru-yura)†
 
-    ("「カ泣ルー堰ラだｂ？」†",
+    ("「カルー堰ラだ？」†",
     ""),
     # "It's Kaganru Weirla b?"
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "That's right, on Sunday, the family was saying, "Why are you living in the air?"
 
-    ("「…カ泣ルー堰ラに乗髀ると、人生逅守闔りなのか？」",
+    ("「…カルー堰ラに乗髀ると、人生逅守闔りなのか？」",
     ""),
     # "...When I ride the Kakuruuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
-    ("それくらいの人なら烽もっとｂ高い車搦持ってるだｂ。†",
+    ("それくらいの人なら烽もっと高い車搦持ってるだ。†",
     ""),
     # Those who are that kind of person would have a higher car buying experience.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # A car slander for those who have abandoned their ambition and only managed to protect Iezono."
 
-    ("「おめえ、そり痰ゃカ泣ルー堰ラロってる人に失邇礼だぞ」",
+    ("「おめえ、そり痰ゃカルー堰ラロってる人に失邇礼だぞ」",
     ""),
     # "Dear, I'm sorry to those who are crying and crying."
 
@@ -42,19 +42,19 @@ text_array = [
     ""),
     # "Who are you apologizing to?"
 
-    ("「カ泣ルー堰ラロってる人。で烽も、あたしはそう思ってんのよ！」†",
+    ("「カルー堰ラロってる人。で烽も、あたしはそう思ってんのよ！」†",
     ""),
     # "They're the ones who are crying and dying. And I think so too!"
 
-    ("「オ激レしー轣らねっと」",
+    ("「オレしー轣らねっと」",
     ""),
     # "I'm so excited, I'm going to take it."
 
-    ("寒くなりそうなので、オ激レは逃げ出した。",
+    ("寒くなりそうなので、オレは逃げ出した。",
     ""),
     # It was about to get cold, so I ran away.
 
-    ("「ち蛯ょっと、どこ逃げんのよっ！」◯",
+    ("「ちょっと、どこ逃げんのよっ！」◯",
     ""),
     # "Where are you running away, huh?" ◯
 

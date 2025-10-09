@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Maaaa? Are you not showing your strength?"
 
-    ("「そんなことねー諱よ、これが実力さ。みんなオ激レをモ買いかぶりすぎだぜ」",
+    ("「そんなことねー諱よ、これが実力さ。みんなオレをモ買いかぶりすぎだぜ」",
     ""),
     # "No way, this is your ability. Everyone is just buying me too much."
 
-    ("「カイ…カブ潟リ？」",
+    ("「カイ…カブリ？」",
     ""),
     # "Kai... Kabulachi?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "And I also think that I have a good mind."
 
-    ("「それがモ買いかぶりだってんだ。オ激レの実力なんて、ａ高が知齟れてるぜ」",
+    ("「それがモ買いかぶりだってんだ。オレの実力なんて、ａ高が知れてるぜ」",
     ""),
     # "That's how I bought the mag. My high school is well-known about my superb ability."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "The 'kenson' is delicious"
 
-    ("お竄やまあ、通じてませんよ。†",
+    ("おやまあ、通じてませんよ。†",
     ""),
     # It's not clear, it's not understood.†
 

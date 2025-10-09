@@ -2,15 +2,15 @@
 # Source file: 019B.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	「＝ａ」だｂ）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	「＝ａ」だ）†",
     ""),
     # (Akari Scales Event Departs from School) (A "=b" b)†
 
-    ("「『＝ａ』だｂ？」",
+    ("「『＝ａ』だ？」",
     ""),
     # "Is '=a' b?"
 
-    ("オ激レは自信たっぷりに言った。",
+    ("オレは自信たっぷりに言った。",
     ""),
     # I said with confidence.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Akari smiles as she watches.†
 
-    ("「どうだ、正解だｂ？」",
+    ("「どうだ、正解だ？」",
     ""),
     # "What do you think? Is that correct?"
 
@@ -43,11 +43,11 @@ text_array = [
     # "Now, I don't think it's coming out."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「あかり」",

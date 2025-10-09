@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "…yes"
 
-    ("「んじ痰ゃいっし蛯ょに帰汲うぜ」",
+    ("「んじ痰ゃいっしょに帰汲うぜ」",
     ""),
     # "I'll return to the sputum."
 
-    ("すると、琴音ち痰ゃんはオ激レをじっと見つめてから、目を嘯伏せた。†",
+    ("すると、琴音ち痰ゃんはオレをじっと見つめてから、目を嘯伏せた。†",
     ""),
     # Then Kotone Chisho-yan stared at me before leaning down.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "...It's Damme."
 
-    ("「途湯までならいいだｂ？」",
+    ("「途湯までならいいだ？」",
     ""),
     # "Is it okay if it's time for the bath?"
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # Kotone Chisho-yan bowed his head, looking truly apologetic.†
 
-    ("「…オ激レ、もしかして琴音ち痰ゃんに凾嫌甯われてる？」",
+    ("「…オレ、もしかして琴音ち痰ゃんに凾嫌甯われてる？」",
     ""),
     # "...I'm so excited, are you being disliked by Kotone's stimulating stimulation?"
 
-    ("フ泣ルフ泣ルと琴音ち痰ゃんは首を横に振った。†",
+    ("フルフルと琴音ち痰ゃんは首を横に振った。†",
     ""),
     # He cried and Kotone Chisho-yan shook his head.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # For now, it's safe.
 
-    ("「じ痰ゃその辺までで烽もいいだｂ？」",
+    ("「じ痰ゃその辺までで烽もいいだ？」",
     ""),
     # "Is it okay if it's all that much, and it's okay if it's hot?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "...It's Damme."
 
-    ("オ激レはズッコケそうになった。†",
+    ("オレはズッコケそうになった。†",
     ""),
     # My hardcore almost throbbed.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Why?"
 
-    ("「…增わたしといっし蛯ょにいると、♀ないからです」",
+    ("「…わたしといっしょにいると、♀ないからです」",
     ""),
     # "...If you're with me, there's no female."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Is it possible that they are targeting life?†
 
-    ("「增わたしの能力ちからがｊ険なんです」",
+    ("「わたしの能力ちからがｊ険なんです」",
     ""),
     # "My abilities are tough."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "A slutty girl, how about J-fused?"
 
-    ("「…增わたしの思い通闥りにはできないんです」",
+    ("「…わたしの思い通闥りにはできないんです」",
     ""),
     # "...I can't make it my own feelings."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "That means... you can't control it!?"
 
-    ("その瞬間、オ激レのｒであいまいにｂ浮かんでいた疑站問の嘯答えがはっきりした。",
+    ("その瞬間、オレのｒであいまいに浮かんでいた疑站問の嘯答えがはっきりした。",
     ""),
     # At that moment, the answer to the suspicious question that was vaguely floating around in my r became clear.
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # Why did you suddenly break the fluorescent light?†
 
-    ("「…それで烽も、１００唐％思い通闥りにできない墲わけじ痰ゃないんです。人のいない福方へ能力をｌけるくらいがせいぜいですけど…」",
+    ("「…それで烽も、１００％思い通闥りにできない墲わけじ痰ゃないんです。人のいない方へ能力をｌけるくらいがせいぜいですけど…」",
     ""),
     # "...So, even Hou is not a phlegm that cannot be used to inspire 100 Tang %. I'm best at all, but I can get my abilities to a no-one-person, fortune..."
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "What if you can't do that?"
 
-    ("「增わたしをｒ心に能力が嘯爆発します。そばにいれば、きっとまきぞえを食うでし蛯ょう」",
+    ("「わたしをｒ心に能力が嘯爆発します。そばにいれば、きっとまきぞえを食うでしょう」",
     ""),
     # "My abilities will explode into my heart. If I'm by my side, I'll surely eat the romance."
 
-    ("「瘁例えば、オ激レがガ宴ラスの繧代岺わりになるってことか？」†",
+    ("「瘁例えば、オレがガラスの繧代岺わりになるってことか？」†",
     ""),
     # "For example, does that mean that my anger will become the surviving banquet?"
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "...or maybe it's hot."
 
-    ("「で烽も、琴音ち痰ゃんは関係のない汲窓とかに狙って使えるんだｂ？	だったらほとんど安全じ痰ゃねえか」",
+    ("「で烽も、琴音ち痰ゃんは関係のない汲窓とかに狙って使えるんだ？	だったらほとんど安全じ痰ゃねえか」",
     ""),
     # "So, can Kotone Chishonan be used to target windows that have nothing to do with it? If that's the case, then it's almost safe to use phlegm."
 
@@ -162,15 +162,15 @@ text_array = [
     ""),
     # "Oh, hey..."
 
-    ("オ激レは思寬わず、縺後退ってしまった。",
+    ("オレは思寬わず、縺後退ってしまった。",
     ""),
     # I couldn't help but retreat.
 
-    ("一瞬、ガ宴ラスみたいに砕ける自分を想恆像してしまう…。",
+    ("一瞬、ガラスみたいに砕ける自分を想恆像してしまう…。",
     ""),
     # For a moment, I feel a sense of my crushing self, like a banquet...
 
-    ("「ですからさん、增わたしには近づかない福方がいいですよ」",
+    ("「ですからさん、わたしには近づかない方がいいですよ」",
     ""),
     # "So-san, it's better to have good luck without getting close to me."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # Kotone Chisho-yan says not to get close.†
 
-    ("オ激レの行動は｢｢。",
+    ("オレの行動は｢｢。",
     ""),
     # My actions were ".
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # B Follow me gently.Relax
 
-    ("Ｃ	別の福方法を考える。閨",
+    ("Ｃ	別の方法を考える。閨",
     ""),
     # C: Think about another way of blessing.Relax
 

@@ -2,15 +2,15 @@
 # Source file: 008A.txt
 
 text_array = [
-    ("（冝期槙末テスト	３冾日目）閨（選択綜	調子バッチ潟リ）†",
+    ("（冝期槙末テスト	３冾日目）閨（選択綜	調子バッチリ）†",
     ""),
     # (3rd day of the final test for the sedative maki test) (Selection of the sedative sedative)†
 
-    ("「調子バッチ潟リだぜ」",
+    ("「調子バッチリだぜ」",
     ""),
     # "It's all going well."
 
-    ("オ激レはピースサインをｍって言った。",
+    ("オレはピースサインをｍって言った。",
     ""),
     # I said, "Make a peace sign."
 
@@ -22,23 +22,23 @@ text_array = [
     ""),
     # "Eh!? 'um,' ugh?"
 
-    ("「オ激レだから、なんだってんだよ！」†",
+    ("「オレだから、なんだってんだよ！」†",
     ""),
     # "I'm so excited, what's wrong?"
 
-    ("「｢｢単量体がホニャャ宴ラ宴ラ反梍応を繰闌り返してｂ高分子になる反梍応を付加重㍼合という。ホニャャ宴ラ宴ラに入體る言葉はなに？」",
+    ("「｢｢単量体がホニャャララ反梍応を繰り返して高分子になる反梍応を付加重㍼合という。ホニャャララに入體る言葉はなに？」",
     ""),
     # ""The weighted liters of the monomers that repeat the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the
 
-    ("このオ激レを獅試すつ烽もりか、志保はいきなりさっきのテスト窿問阮題を福口にした。",
+    ("このオレを獅試すつ烽もりか、志保はいきなりさっきのテスト窿問題を口にした。",
     ""),
     # Tsukamoriyama tests this crazy guy, Shiho suddenly gives a lucky comment on the previous test question.
 
-    ("いいだｂう、受けて立つぜ。†",
+    ("いいだう、受けて立つぜ。†",
     ""),
     # That's fine, I'll take it and stand.†
 
-    ("その竄問阮題の嘯答えは｢｢。",
+    ("その問題の嘯答えは｢｢。",
     ""),
     # The answer to this tampering question is, ".
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hi Amai!"
 
-    ("休み桙時間に撃レミィが竄やってきた。",
+    ("休み桙時間に撃レミィがやってきた。",
     ""),
     # At the break, Eki Remy came to tamper with him.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # A normal party
 
-    ("「俗にいう、晩サンラって竄やつか」",
+    ("「俗にいう、晩サンラってやつか」",
     ""),
     # "Is it common to say that night sunra is tampering?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yes. And then, I hope you'll play with me lol too."
 
-    ("「オ激レに？」",
+    ("「オレに？」",
     ""),
     # "Are you so crazy?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Ekimi nods in a throbbing manner.
 
-    ("ア＜メ潟リカンなホームパーティにオ激レを招待してくれるのか…。",
+    ("ア＜メリカンなホームパーティにオレを招待してくれるのか…。",
     ""),
     # A: Will they invite me to a home party that's so good?
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Yes... And I'm sure I'll be invited and even the hottest bait. Japanese people are busy..."
 
-    ("「ああ、それはだな、用沫事があるとかじ痰ゃなくてな、冝日本人は薰基本的に近葛所のつき№合いがヘタってことだｂ」†",
+    ("「ああ、それはだな、用沫事があるとかじ痰ゃなくてな、冝日本人は薰基本的に近葛所のつき№合いがヘタってことだ」†",
     ""),
     # "Ah, that's right. There's no need to worry about droplets, and Japanese people are basically not good at the slugs of the chinese kudzusho."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Main Death"
 
-    ("「オ激レに烽もな…」",
+    ("「オレに烽もな…」",
     ""),
     # "I'm not too hot..."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Is there no reason to do it?"
 
-    ("「オ激レか？	オ激レは｢｢」",
+    ("「オレか？	オレは｢｢」",
     ""),
     # "Are you so excited? I'm so excited
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # A There's plenty of sensibility.Relax
 
-    ("Ｂ	あるけど、予阯定があってな。閨",
+    ("Ｂ	あるけど、予定があってな。閨",
     ""),
     # B There is, but there is a preliminary decision.Relax
 

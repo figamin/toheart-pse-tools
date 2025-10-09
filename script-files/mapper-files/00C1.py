@@ -14,11 +14,11 @@ text_array = [
     ""),
     # Yeah….
 
-    ("時計を見骭ると、ア宴ラームの鳴髢る１０分前。",
+    ("時計を見骭ると、アラームの鳴髢る１０分前。",
     ""),
     # I looked at the clock and saw that it was 10 minutes before the banquet ram ringing.
 
-    ("オ激レにしてはめずらしい目の覚め福方だ。†",
+    ("オレにしてはめずらしい目の覚め方だ。†",
     ""),
     # It's a rare sight to be awakened for me.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # A red-light store in the area where you can enjoy the potato chopping.†
 
-    ("「增わーーーーーっ！」",
+    ("「わーーーーーっ！」",
     ""),
     # "Aaaaah!"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "I was really surprised, too..."
 
-    ("「ははは、增わりぃ、增わりぃ。で烽も、たまにはこういう朝熬も刺ヮ激があっていいだｂ？」",
+    ("「ははは、わりぃ、わりぃ。で烽も、たまにはこういう朝熬も刺ヮがあっていいだ？」",
     ""),
     # "Haha, it's not too bad, it's not too bad. And is it okay to have a strong stimulation like this in the mornings like this?"
 

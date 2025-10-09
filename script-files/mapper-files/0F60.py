@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Huh?
 
-    ("チャャンネ泣ルは？",
+    ("チャャンネルは？",
     ""),
     # What about Channe crying?
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I forgot.
 
-    ("竅やばい。",
+    ("やばい。",
     ""),
     # It's dangerous.
 

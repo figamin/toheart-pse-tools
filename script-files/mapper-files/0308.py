@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Tomoko's Pick Date Event 2 New) (Condition: Tomoko's Picks above 25) (When looking at the Picks Event 11) (When looking at the Picks Event 27th day, PM2 frame)†
 
-    ("という墲わけで、ぶらぶら街へ繰闌り出した。†",
+    ("という墲わけで、ぶらぶら街へ繰り出した。†",
     ""),
     # So I went strolling around town.†
 
-    ("適俣当な店で汲昼£メシをすませ、通闥りのほうへと竄やってきたとき…。†",
+    ("適俣当な店で汲昼£メシをすませ、通闥りのほうへとやってきたとき…。†",
     ""),
     # I had just finished eating lunch at a restaurant that was within the realm of Maimata, and when I started tampering with the directions...†
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("広鼾場に、ち蛯ょっと気になる翌女の子がいた。†",
+    ("広鼾場に、ちょっと気になる翌女の子がいた。†",
     ""),
     # There was a girl in Guangzhou's office that caught my eye the next day.†
 
-    ("髪は高ロングのスト激レート。",
+    ("髪は高ロングのストレート。",
     ""),
     # Her hair is very long and straight.
 
-    ("轣顔はまだち蛯ょっと幼い感じだから、オ激レとタ＜メか、チ㏍ョイ下といったとこｂか。",
+    ("轣顔はまだちょっと幼い感じだから、オレとタ＜メか、チョイ下といったとこか。",
     ""),
     # His face is still young, so he's probably going to be a bit of a slut, or something like that.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # And Ho is also a pretty girl.
 
-    ("なにより、かつ目すべきはそのスタイ泣ル。",
+    ("なにより、かつ目すべきはそのスタイル。",
     ""),
     # Above all, what you should look at is the style of tears.
 
-    ("雑庶誌のｂモデ泣ルみたいだぜ。",
+    ("雑庶誌のモデルみたいだぜ。",
     ""),
     # It's like a b-model cry from a miscellaneous magazine.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # If it's a man, you'll never be staring at him.†
 
-    ("浴女の子は待ちぼうけで烽もくらってるのか、ち蛯ょっとすねた顔で、退窓そうに空を眺めていた。",
+    ("浴女の子は待ちぼうけで烽もくらってるのか、ちょっとすねた顔で、退窓そうに空を眺めていた。",
     ""),
     # The bathing girl looked sleepy, looking at the sky, looking away, as if she was waiting for a while, as if she was staring at the sky.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Check the time and sigh lightly.
 
-    ("どう竄やら、けっこう待たされてるらしい。",
+    ("どうやら、けっこう待たされてるらしい。",
     ""),
     # Apparently he's been forced to wait quite a while, even if it's tampered with.
 
@@ -75,11 +75,11 @@ text_array = [
     # At that time.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("おたがい、不意に、目と目が№合った。",
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "...!"
 
-    ("そして、慌ててオ激レから目をそらす。†",
+    ("そして、慌ててオレから目をそらす。†",
     ""),
     # Then, I hurriedly turned my eyes away from me.†
 
@@ -102,23 +102,23 @@ text_array = [
     ""),
     # What...?
 
-    ("まるでオ激レに見迪られち痰ゃマズいかのようなその態度。",
+    ("まるでオレに見迪られち痰ゃマズいかのようなその態度。",
     ""),
     # His attitude seems to be as if he's bad at being overwhelmed by my slut.
 
-    ("あ竄やしい。",
+    ("あやしい。",
     ""),
     # It's tampering.
 
-    ("竅やっぱり、どっかでｉっている…？†",
+    ("やっぱり、どっかでｉっている…？†",
     ""),
     # I guess I'm getting an I...?†
 
-    ("オ激レは目を細め、じっと彼濫女を観察した。",
+    ("オレは目を細め、じっと彼濫女を観察した。",
     ""),
     # My eyes narrowed and stared at me.
 
-    ("彼濫女はちらっと目をｌけ、またそらすと、最燕初からなにごと烽もなかったかのような顔で横をｌき、しらじらしく空を見繻上げた。",
+    ("彼濫女はちらっと目をｌけ、またそらすと、最燕初からなにごと烽もなかったかのような顔で横をｌき、しらじらしく空を見上げた。",
     ""),
     # The woman glanced at me, then turned her back, and she looked up at the side with a look of nothing but a broth from the beginning, looking up at the sky with a sly look at the sky with a tingly face.
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "...!"
 
-    ("浴女の子｢｢い竄や、委員長は、ビクッと肩を振髏る墲わせた。†",
+    ("浴女の子｢｢いや、委員長は、ビクッと肩を振髏る墲わせた。†",
     ""),
     # Bathing girl: "Tampering, the chairman shook her shoulders.†
 
@@ -158,19 +158,19 @@ text_array = [
     ""),
     # "What? Was he the chairman?"
 
-    ("オ激レは笑いながら近づいた。†",
+    ("オレは笑いながら近づいた。†",
     ""),
     # I laughed and approached.†
 
-    ("「諱よお、今厓日はコンタクトなのか？	髪型煬もスト激レートだしさ、遠目からじ痰ゃ全然岺わかんなかったぜ」",
+    ("「諱よお、今厓日はコンタクトなのか？	髪型煬もストレートだしさ、遠目からじ痰ゃ全然岺わかんなかったぜ」",
     ""),
     # "As you, are you in contact now? Your hairstyle is also extremely high, so I couldn't understand anything without phlegm from afar."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("なに竄やら複雑な表﨣情の委員長。†",
+    ("なにやら複雑な表﨣情の委員長。†",
     ""),
     # The chairman of all sorts of tampering and complicated table feelings.†
 
@@ -186,15 +186,15 @@ text_array = [
     ""),
     # When I said that, the chairman exhaled a light sigh,
 
-    ("「そうい竄や、近葛所竢や烽もんな。休みの冾日笂やし、おって烽も不思議站やないか」",
+    ("「そういや、近葛所竢や烽もんな。休みの冾日笂やし、おって烽も不思議站やないか」",
     ""),
     # "It's all that, Chikazu Chosho and Hot. It's a holiday, so why are you a strange sight?"
 
-    ("ひとりごとのようにつぶ竄やいた。†",
+    ("ひとりごとのようにつぶやいた。†",
     ""),
     # He muttered like a monologue.†
 
-    ("「とこｂで、そんなおめかしして、いったい誰を待ってんだ？」",
+    ("「とこで、そんなおめかしして、いったい誰を待ってんだ？」",
     ""),
     # "At the time, who are you waiting for, with that kind of clatter?"
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「誰かを待ってんだｂ？」",
+    ("「誰かを待ってんだ？」",
     ""),
     # "Are you waiting for someone?"
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Ahhh, no one..."†
 
-    ("「あっ、なんだァ？	あ竄やしいーな。さては見迪られたくない『誰かさん』か？」",
+    ("「あっ、なんだァ？	あやしいーな。さては見迪られたくない『誰かさん』か？」",
     ""),
     # "Ah, what? That's so frustrating. Now, is this 'someone' who doesn't want to be seen?'
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "...uh."
 
-    ("どう竄やらビンゴ辜らしく、委員長はなに竄やら複雑な顔でｂモゴｃモゴとくちびるを動かした。†",
+    ("どうやらビンゴ辜らしく、委員長はなにやら複雑な顔でモゴｃモゴとくちびるを動かした。†",
     ""),
     # It seemed like he was tampering with bingo, and the chairman moved his lips with a complicated face.†
 
@@ -230,15 +230,15 @@ text_array = [
     ""),
     # He asks Yuri as he teases her.
 
-    ("「だ、誰で烽もええ竄やｂ…」",
+    ("「だ、誰で烽もええや…」",
     ""),
     # "Ah, who's the good guy, b..."
 
-    ("「隠すとこｂが、ますますあ竄やしー諱よなァ。まさか彼＃氏か？」†",
+    ("「隠すとこが、ますますあやしー諱よなァ。まさか彼＃氏か？」†",
     ""),
     # "The hidden part is even more and more, it's a real name. Is it him #?"
 
-    ("「か、彼＃氏なんかおらん言うた竄やｂ、前熨も」",
+    ("「か、彼＃氏なんかおらん言うたや、前熨も」",
     ""),
     # "Oh, he says he doesn't have any Mr. #, b, and a front gift."
 
@@ -246,15 +246,15 @@ text_array = [
     ""),
     # "Ah, who's it? Umm..."
 
-    ("「もう誰で烽もええ竄やｂ。用がないん竄やったら、＝早鞫よ行って」",
+    ("「もう誰で烽もええや。用がないんやったら、＝早鞫よ行って」",
     ""),
     # "Who's the one who's the one who's good enough to get it b. If you don't have anything to do with it, then go quickly."
 
-    ("委員長はそう言うと、トン、と片阨手でオ激レの胸を押した。†",
+    ("委員長はそう言うと、トン、と片阨手でオレの胸を押した。†",
     ""),
     # The chairman said this and pushed my heart with a slut with his arms.†
 
-    ("「な、なんだよ、せっかくｉったってのに、つれねーなァ。あ、そうそう、とこｂで…」",
+    ("「な、なんだよ、せっかくｉったってのに、つれねーなァ。あ、そうそう、とこで…」",
     ""),
     # "What, what? Even though I've had enough, I'm not in trouble. Oh, that's right, in a place where b..."
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "...What?"
 
-    ("うるさそうにオ激レをにらむ、委員長。†",
+    ("うるさそうにオレをにらむ、委員長。†",
     ""),
     # The chairman glares at me with a loud voice.†
 
@@ -271,7 +271,7 @@ text_array = [
     # "=Even the hot spring without glasses is pretty good, too."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「それに、その桙服熾も、髪型煬も翌似㍽合ってるぜ」",
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # "What, what are you going to say, suddenly..."
 
-    ("「い竄や、マジ、マジ、正直な感想」",
+    ("「いや、マジ、マジ、正直な感想」",
     ""),
     # "It's a bit of a mess, seriously, seriously, honest thoughts."
 
@@ -314,19 +314,19 @@ text_array = [
     ""),
     # Rather than the chairman's comments, Ho also feels like "Toc Mokochayan."
 
-    ("＝普段は地味だし、それほど目立たないが、竅やっぱスゲー＃人タイプだよ、委員長は。†",
+    ("＝普段は地味だし、それほど目立たないが、やっぱスゲー＃人タイプだよ、委員長は。†",
     ""),
     # = Usually it's plain and not that noticeable, but I'm just a fantastic guy, the chairman.†
 
-    ("そんなことを竄やっていると。",
+    ("そんなことをやっていると。",
     ""),
     # That's what you're doing.
 
-    ("「すまん、すまん、えらい遅齟れて烽もうた」",
+    ("「すまん、すまん、えらい遅れて烽もうた」",
     ""),
     # "Sorry, sorry, I'm so late, I've been so excited."
 
-    ("そんな関西弁に振關りｌくと、そこには渋いサ宴ラ潟リーマンふうのオジさんが立っていた。†",
+    ("そんな関西弁に振關りｌくと、そこには渋いサラリーマンふうのオジさんが立っていた。†",
     ""),
     # When I spoke to this Kansai dialect, I saw an old man standing there who looked like a cool, casual salaryman.†
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # As soon as he looked at the person, the chairman turned his head down and held his face down with his hand.†
 
-    ("「おっ、なん竄やァ、智子？	今厓日は友だちといっし蛯ょか？」",
+    ("「おっ、なんやァ、智子？	今厓日は友だちといっしょか？」",
     ""),
     # "Oh, what's that tampering with you, Tomoko? Is it a slut with my friends on the day now?"
 
@@ -358,11 +358,11 @@ text_array = [
     ""),
     # Oh, dad?
 
-    ("ってことは、このナイスミド泣ルなｒ年が、保科ラ父？†",
+    ("ってことは、このナイスミドルなｒ年が、保科ラ父？†",
     ""),
     # So, is this nice and sad year of the year Hoshinara father?†
 
-    ("「そんなん竄やない。彼とは、いまここで偶然おうただけ竄や。それに、彼＃氏なんか竄やない、ただのク宴ラス＜メイト窿や」",
+    ("「そんなんやない。彼とは、いまここで偶然おうただけや。それに、彼＃氏なんかやない、ただのクラス＜メイト窿や」",
     ""),
     # "I'm not tampering with that. I'm just accidentally tampering with him here. And I'm not tampering with him, I'm just a banquet."
 
@@ -386,11 +386,11 @@ text_array = [
     ""),
     # I bow my head and greet him.
 
-    ("竅やっぱり第齣一印象が肝心だ。",
+    ("やっぱり第齣一印象が肝心だ。",
     ""),
     # After all, the first impression of the first one is important.
 
-    ("「保科のモ父です、諱よｂしく」",
+    ("「保科のモ父です、諱よしく」",
     ""),
     # "I'm Hoshina's Mo-dad, please give it a name."
 
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # Huh?
 
-    ("そうい竄や委員長、この間たしか両親は離婚したって言ってたよな。",
+    ("そういや委員長、この間たしか両親は離婚したって言ってたよな。",
     ""),
     # Speaking of which, the committee chairman, I think his parents had said they had divorced the other day.
 
@@ -414,11 +414,11 @@ text_array = [
     ""),
     # It was said that my father was still there...†
 
-    ("「…おモ父さん、今厓日はたまたまこっちに出張竰やったから、п私とｉう約束してたん竄や」",
+    ("「…おモ父さん、今厓日はたまたまこっちに出張竰やったから、п私とｉう約束してたんや」",
     ""),
     # "...Dad, I happened to have made a business trip over here on the day, so I made a promise with me."
 
-    ("オ激レの疑站問を察したかのように、委員長が烽説明してくれた。†",
+    ("オレの疑站問を察したかのように、委員長が烽説明してくれた。†",
     ""),
     # The chairman explained it to me, as if he had sensed my suspicions.†
 
@@ -434,7 +434,7 @@ text_array = [
     ""),
     # If it were a father, he would say it clearly, so he would have had to phlegm.†
 
-    ("「じ痰ゃあ、ぼちぼち行こうか。良かったら、くん烽もどう竄や？	いっし蛯ょに食鱒事で烽も」",
+    ("「じ痰ゃあ、ぼちぼち行こうか。良かったら、くん烽もどうや？	いっしょに食鱒事で烽も」",
     ""),
     # "Ah, let's go slowly. If you'd like, how about you tampering with the hot springs? We'll eat and eat trout and also have some hot springs."
 
@@ -446,7 +446,7 @@ text_array = [
     ""),
     # "Oh, daddy...;" †
 
-    ("「…い竄や、せっかくの親子諮嵩逑らずですし、遠慮します」",
+    ("「…いや、せっかくの親子諮嵩逑らずですし、遠慮します」",
     ""),
     # "...I'm not going to let the parent and child consultations go into question, so I'll refrain from doing so."
 

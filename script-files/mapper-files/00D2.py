@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I woke up early on the day.†
 
-    ("だが、冝日曜坥日だというのに予阯定はなし。",
+    ("だが、冝日曜坥日だというのに予定はなし。",
     ""),
     # However, even though it was a Sunday day, there was no preliminary decision.
 
-    ("し蛯ょうがない。",
+    ("しょうがない。",
     ""),
     # There's no slut.
 

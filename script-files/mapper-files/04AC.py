@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Whoa. Now, you studied enough to die, right?"
 
-    ("「バ〜カ。オ激レが死にそうなくらい勉強したら、閨",
+    ("「バ〜カ。オレが死にそうなくらい勉強したら、閨",
     ""),
     # "Baaa. I studied so much that I might die,
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Oh well... I think I can get 5 or 60 points" †
 
-    ("「竅や、竅やる墲わね…」",
+    ("「や、やる墲わね…」",
     ""),
     # "You're going to do it, you're going to do it..."
 

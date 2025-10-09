@@ -2,7 +2,7 @@
 # Source file: 0349.txt
 
 text_array = [
-    ("（智子	好感度イベント	２回目）閨（好感度が	１７以繹上のとき）閨（さらに智子好感度１を見たフ宴ラグがＯＮの場㍼合）閨（冝放課繪後	選択綜が出髀る前）閨（下駄箱）†",
+    ("（智子	好感度イベント	２回目）閨（好感度が	１７以繹上のとき）閨（さらに智子好感度１を見たフラグがＯＮの場㍼合）閨（冝放課繪後	選択綜が出髀る前）閨（下駄箱）†",
     ""),
     # (Tsutoko's second favorability event) (when the favorability level is above 17) (And also, when Toko's favorability level is on, the banquet rug is on when she sees the favorability level 1) (before the selection event is heard after the school entrance exam, before the selection event is heard) (shoe cabinet)†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # The students, holding their bags, walk home with their fun talking.
 
-    ("それを横目で見ながら、オ激レは片阨手にほうき、片阨手にちりとりを揩持って、下駄箱の床を掃いていた。†",
+    ("それを横目で見ながら、オレは片阨手にほうき、片阨手にちりとりを揩持って、下駄箱の床を掃いていた。†",
     ""),
     # Looking at this sideways, I was sweeping the floor of my shoe cabinet, holding a broom in my collar and a dustpan in my collar.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # The current day is the day of the day of the sweeping and removal.
 
-    ("しか烽も運悪くジャャンケンに奄負けたせいで、オ激レはひとりっきりでここを掃恆除しなくち痰ゃならない。",
+    ("しか烽も運悪くジャャンケンに奄負けたせいで、オレはひとりっきりでここを掃恆除しなくち痰ゃならない。",
     ""),
     # However, due to poor luck and losing to Jaanken, I had to wipe out this place alone and smear it.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Quick and fast...
 
-    ("ちくし蛯ょう、あのとき、グーを出してさえいれば、今頃は帰闍り道の途湯だったのに。†",
+    ("ちくしょう、あのとき、グーを出してさえいれば、今頃は帰闍り道の途湯だったのに。†",
     ""),
     # If only I had the goo out then, it would have been a hot spring on my way home by now.†
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Ah, damn it, that's it.
 
-    ("だいたい、オ激レひとりでこんな広いとこｂを掃恆除できる墲わけがないだｂ。",
+    ("だいたい、オレひとりでこんな広いとこを掃恆除できる墲わけがないだ。",
     ""),
     # Basically, there's no way I can clean up such a large space B by myself.
 
-    ("ええい、こんな烽もの適俣当に竄やって竄やれ。†",
+    ("ええい、こんな烽もの適俣当にやってやれ。†",
     ""),
     # Yes, tamper with this kind of hot item and tamper with it.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "...haa, haa, haa."
 
-    ("ま、まあ、十分キ激レイだｂう。",
+    ("ま、まあ、十分キレイだう。",
     ""),
     # Well, it's quite intense.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # ・†
 
-    ("「これでいいっし蛯ょ？」",
+    ("「これでいいっしょ？」",
     ""),
     # "Is this okay, slut?"
 
-    ("笑迴顔でオ激レが言うと、",
+    ("笑迴顔でオレが言うと、",
     ""),
     # When I said with a laughing face,
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "No way."
 
-    ("諱先生は竄冷たく一蹴した。",
+    ("諱先生は冷たく一蹴した。",
     ""),
     # Professor Ikushi dismissed it coldly.
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "why!?"
 
-    ("「いいか？	ほら、まだこの辺とか、あの辺とかに烽もほこりが残ってるだｂう」†",
+    ("「いいか？	ほら、まだこの辺とか、あの辺とかに烽もほこりが残ってるだう」†",
     ""),
     # "Sure? See, there's still some dust in the hot water around here and there."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Eh, the check is strict. My mother-in-law's daughter-in-law has no phlegm."
 
-    ("「厳しくなんかないぞ。こう竄やって、ざっと見渡しただけで烽も、いい加減に竄やってるのがよーく墲わかるんだ。ほら、竅やりなおせ」",
+    ("「厳しくなんかないぞ。こうやって、ざっと見渡しただけで烽も、いい加減にやってるのがよーく墲わかるんだ。ほら、やりなおせ」",
     ""),
     # "It's not strict. Just by doing this, I can really see how the hot guy is doing it all at once. Come on, try again."
 
@@ -158,15 +158,15 @@ text_array = [
     ""),
     # ...Tch.
 
-    ("「へーへー、增わかりましたよ。…んじ痰ゃあ、はいはい」",
+    ("「へーへー、わかりましたよ。…んじ痰ゃあ、はいはい」",
     ""),
     # "Hehe, I understand.... Slurp, yes, yes."
 
-    ("オ激レは言甯われたとこｂを、サッサッサッと掃いた。",
+    ("オレは言甯われたとこを、サッサッサッと掃いた。",
     ""),
     # I quickly swept the part b that was being told to me.
 
-    ("砂ぼこりをチ潟リト潟リで集める。†",
+    ("砂ぼこりをチリトリで集める。†",
     ""),
     # Collect dust from the Chigata Rito Rai.†
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "No!
 
-    ("もっとち痰ゃんと掃恆除しｂ！	ホ宴ラ、そこ烽も！」",
+    ("もっとち痰ゃんと掃恆除し！	ホラ、そこ烽も！」",
     ""),
     # More smears and sweep away b!There's a feast, there's a hot spring too!”
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "Next time here."
 
-    ("「（だあーっ、まだ竄やんのかよ）さっさっ！	はい、終尞わり！」†",
+    ("「（だあーっ、まだやんのかよ）さっさっ！	はい、終尞わり！」†",
     ""),
     # "(Ahh, are you still tampering with it?) Quick! Yes, it's over!" †
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "A little bit!?"
 
-    ("「いつ烽も、このぐらいは竄やるように。はい、じ痰ゃあ、ご苦労さん」",
+    ("「いつ烽も、このぐらいはやるように。はい、じ痰ゃあ、ご苦労さん」",
     ""),
     # "I'll always try to tamper with this much. Yes, I'll have to be careful, don't you?!"
 
@@ -254,11 +254,11 @@ text_array = [
     ""),
     # Damn it.
 
-    ("本末当にご苦労さんだよ、ちくし蛯ょうめ。",
+    ("本末当にご苦労さんだよ、ちくしょうめ。",
     ""),
     # I've had a hard time with the end of the day, Chikushi Egg.
 
-    ("オ激レは聞こえないよう小声でつぶ竄やいた。†",
+    ("オレは聞こえないよう小声でつぶやいた。†",
     ""),
     # I muttered in a low voice so that I couldn't hear him.†
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # Ugh, is this fox time already?
 
-    ("あの先生、このオ激レになんか恨みで烽もあんのかっつーの。",
+    ("あの先生、このオレになんか恨みで烽もあんのかっつーの。",
     ""),
     # That teacher has a grudge against me and is also a bit sad.
 
@@ -282,19 +282,19 @@ text_array = [
     ""),
     # After most of the students had left, our classroom was still quiet.
 
-    ("はあ〜、竅やっぱオ激レが最纃後かよ。",
+    ("はあ〜、やっぱオレが最纃後かよ。",
     ""),
     # Ah, I guess my supernatural is the very last.
 
-    ("そう思いながら、％闢り福口の前に立ったとき。†",
+    ("そう思いながら、％闢り口の前に立ったとき。†",
     ""),
     # With that in mind, I stood in front of Fukuguchi.†
 
-    ("「ち蛯ょっとあんた、聞いてんの！？」",
+    ("「ちょっとあんた、聞いてんの！？」",
     ""),
     # "Are you listening?!"
 
-    ("教室のｒから、そんなヒステ潟リックな翌女の声が聞こえてきた。",
+    ("教室のｒから、そんなヒステリックな翌女の声が聞こえてきた。",
     ""),
     # I heard the voice of this hysterical woman from the next woman.
 
@@ -302,11 +302,11 @@ text_array = [
     ""),
     # What?†
 
-    ("£を覗くと、そこには委員長こと保科智子がいて、そのま墲わりをク宴ラスの翌女子たち三人が取闔り囲んでいた。",
+    ("£を覗くと、そこには委員長こと保科智子がいて、そのま墲わりをクラスの翌女子たち三人が取闔り囲んでいた。",
     ""),
     # When I looked into the £, I saw the chairman, Hoshina Tomoko, and the three girls, who were surrounded by the following girls after the party, were surrounded by the land.
 
-    ("なに竄やってんだ、いったい…？†",
+    ("なにやってんだ、いったい…？†",
     ""),
     # What are you doing, what on earth...?†
 
@@ -314,23 +314,23 @@ text_array = [
     ""),
     # "Why are you staying quiet? What if you say something about it?!"
 
-    ("浴女子のひとりが垂乱暴な福口調で言った。",
+    ("浴女子のひとりが垂乱暴な口調で言った。",
     ""),
     # One of the bathing girls said in a wild tone of luck.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("だが委員長は、いつ烽ものあのつまらなそうで興味なさそうな表﨣情を保ったまま、なに烽も嘯答えない。†",
     ""),
     # However, the chairman kept the situation that seemed boring and uninterested, and didn't answer anything.†
 
-    ("「…あんたのそのスカした態度を見てると、すっごくムカつくのよね。いつ烽もそう竄やって自分はさ烽も特別です、みたいな顔してさ」",
+    ("「…あんたのそのスカした態度を見てると、すっごくムカつくのよね。いつ烽もそうやって自分はさ烽も特別です、みたいな顔してさ」",
     ""),
     # "...I get really annoyed when you see your sloppy attitude. You're always trying to do this and you look like you're special."
 
-    ("「どうせр私たちのこと、見下してんでし蛯ょ？」",
+    ("「どうせр私たちのこと、見下してんでしょ？」",
     ""),
     # "You're probably looking down on us anyway, slut?"
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # What is it, it always has a phlegm-free atmosphere.
 
-    ("あいつら、寄ってたかってなに烽も言甯わない委員長を攻ｍ撃して竄やがる。",
+    ("あいつら、寄ってたかってなに烽も言甯わない委員長を攻ｍ撃してやがる。",
     ""),
     # They attack and tamper with the chairman who doesn't even say anything, saying they were coming to the table.
 
@@ -354,15 +354,15 @@ text_array = [
     ""),
     # The scene of bullying!?†
 
-    ("「ずっと頭にきてたけど、氏去年はあえて無許視してあげたのよ。なのに、また同じク宴ラスになるなんてさ」",
+    ("「ずっと頭にきてたけど、氏去年はあえて無許視してあげたのよ。なのに、また同じクラスになるなんてさ」",
     ""),
     # "It's been on my mind for a long time, but I deliberately looked at him without permission last year. But I'm sure the same party will be held again."
 
-    ("「この際はっきり言っておくけど、あなた、その自己健直さないと、ク宴ラスにいられなくなるよ！？」",
+    ("「この際はっきり言っておくけど、あなた、その自己健直さないと、クラスにいられなくなるよ！？」",
     ""),
     # "I'll be clear at this point, but unless you fix your health, you won't be able to stay at the banquet!?"
 
-    ("「少しくらい勉強ができるからって、ち蛯ょっと調子に乗闖りすぎなんじ痰ゃない？」†",
+    ("「少しくらい勉強ができるからって、ちょっと調子に乗闖りすぎなんじ痰ゃない？」†",
     ""),
     # "Just because you can study a little, you're probably getting too carried away, so don't you have too much phlegm?"
 
@@ -378,11 +378,11 @@ text_array = [
     ""),
     # Until then, the chairman, who had been silently groaning forever, chuckled and raised his face.
 
-    ("なに竄やら竄冷たい嘲笑だった。†",
+    ("なにやら冷たい嘲笑だった。†",
     ""),
     # It was a cold mockery of tampering with something.†
 
-    ("「少しくらい竄やと思てんのか、あんたらとの成績の差。アホなこと言うの烽も、たいがいにしい竄や」",
+    ("「少しくらいやと思てんのか、あんたらとの成績の差。アホなこと言うの烽も、たいがいにしいや」",
     ""),
     # "You think it's a bit of a tampering, the difference in performance between you and me. Even when you say stupid things, it's usually a tampering."
 
@@ -398,7 +398,7 @@ text_array = [
     ""),
     # The next three girls were shocked and looked at their faces and threw them together.†
 
-    ("「他人に見下されるのが凾嫌竚やったら、まずは自分逡らの撃レベ泣ルを繧上げること竄や」",
+    ("「他人に見下されるのが凾嫌竚やったら、まずは自分逡らの撃レベルを繧上げることや」",
     ""),
     # "If you're being looked down upon by others, you'll first have to fend off your own attacks and cry."
 
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # The chairman looked annoyed, sighed, then picked up his bag and
 
-    ("「…あんたらにつきおうとると、こっちまでアホになりそ竄や。用沫事あるさかい烽もう帰驪る。ほらっ！	はよ、そこどき！」",
+    ("「…あんたらにつきおうとると、こっちまでアホになりそや。用沫事あるさかい烽もう帰驪る。ほらっ！	はよ、そこどき！」",
     ""),
     # "...When I try to follow you, I'm becoming an idiot, and I'm already back at you. There's something splashing about, so I'm back. Come on! Well, that's it!"
 
@@ -426,11 +426,11 @@ text_array = [
     ""),
     # The three of them were twitched, and they were probably completely absorbed in the next powerful force of the committee president, so they hurriedly opened their way.
 
-    ("委員長はなに食岦わぬ顔で間を通闥り抜けると、振關りｌき様に竄冷たい目をｌけて、†",
+    ("委員長はなに食岦わぬ顔で間を通闥り抜けると、振關りｌき様に冷たい目をｌけて、†",
     ""),
     # The chairman passed through the gap with a silent face, and he squealed at him with a cold eyes,
 
-    ("「…あんまりくだらんことに桙時間使寬わさんときい竄や。こっちはあんたらほど暇竕やあらへんからな」",
+    ("「…あんまりくだらんことに桙時間使寬わさんときいや。こっちはあんたらほど暇竕やあらへんからな」",
     ""),
     # "...I'm not too stupid and silly about how you use your time. I'm not as bored as you can."
 
@@ -438,15 +438,15 @@ text_array = [
     ""),
     # He said that and stood there and lioned away.†
 
-    ("「ち蛯ょ、ち蛯ょっと待ちなさいよっ！」",
+    ("「ちょ、ちょっと待ちなさいよっ！」",
     ""),
     # "Come on, wait a moment!"
 
-    ("諱よう竄やく艪我に返ったひとりが、委員長の肩をつかんだ。",
+    ("諱ようやく我に返ったひとりが、委員長の肩をつかんだ。",
     ""),
     # One man, who had come to his senses with a sinister attitude, grabbed the chairman by the shoulder.
 
-    ("「…なん竄や？」",
+    ("「…なんや？」",
     ""),
     # "...What's that tampering?"
 
@@ -462,7 +462,7 @@ text_array = [
     ""),
     # It was like ice and choy flames.†
 
-    ("竅やっ、竅やばっ。",
+    ("やっ、やばっ。",
     ""),
     # Ah, ah, ah, that's amazing.
 
@@ -470,7 +470,7 @@ text_array = [
     ""),
     # I think it would be better to stop this.
 
-    ("オ激レは急いで教室のｒに飛び桙込んだ。†",
+    ("オレは急いで教室のｒに飛び桙込んだ。†",
     ""),
     # I quickly jumped into the classroom and flew over to the classroom.†
 
@@ -486,11 +486,11 @@ text_array = [
     ""),
     # "Kn..."
 
-    ("委員長の肩をつかんだ翌女子は、オ激レを見て、その手を冾放した。†",
+    ("委員長の肩をつかんだ翌女子は、オレを見て、その手を冾放した。†",
     ""),
     # The next woman grabbed the chairman's shoulder, and when she saw my throbbing, she let out her hand.†
 
-    ("「なんだ、おめー轣ら。四人でいっし蛯ょにお帰闍りか？	いいよなー」",
+    ("「なんだ、おめー轣ら。四人でいっしょにお帰闍りか？	いいよなー」",
     ""),
     # "What, you guys, please. Are you the four of us going back to the verse? That's fine."
 
@@ -506,7 +506,7 @@ text_array = [
     ""),
     # "Oh, hey."
 
-    ("オ激レはとっさに呼び止めた。†",
+    ("オレはとっさに呼び止めた。†",
     ""),
     # I called out quickly.†
 
@@ -518,7 +518,7 @@ text_array = [
     ""),
     # "Don't do anything unnecessary"
 
-    ("竅冷たい声でそう言った。",
+    ("冷たい声でそう言った。",
     ""),
     # He said in a cold voice.
 
@@ -526,7 +526,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("そして、そのままオ激レを無許視し、委員長は教室を出ていった。†",
+    ("そして、そのままオレを無許視し、委員長は教室を出ていった。†",
     ""),
     # Then, he ignored me, and the chairman left the classroom.†
 
@@ -546,7 +546,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「なによア激レ！」",
+    ("「なによアレ！」",
     ""),
     # "What's that so intense!"
 

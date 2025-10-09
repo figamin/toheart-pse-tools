@@ -10,7 +10,7 @@ text_array = [
     ""),
     # After the last lesson I had just returned all the test answers.
 
-    ("これがいまのオ激レの成績って墲わけだ。",
+    ("これがいまのオレの成績って墲わけだ。",
     ""),
     # This is what my current achievements are like.
 

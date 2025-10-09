@@ -10,23 +10,23 @@ text_array = [
     ""),
     # lunch break.
 
-    ("自販機でカフェオ激レをモ買ってきた帰闍り、£鋳でｗ栖瑞謳先輩を見かけた。",
+    ("自販機でカフェオレをモ買ってきた帰闍り、£鋳でｗ栖瑞謳先輩を見かけた。",
     ""),
     # When I got a drink of Cafe au Exciting Lait from the vending machine, I saw lol Suzumi-san at £10.
 
-    ("オ激レは近づいて声をかけた。",
+    ("オレは近づいて声をかけた。",
     ""),
     # I came nearer and called out.
 
-    ("「いよっ、おっじ蛯ょーさま」",
+    ("「いよっ、おっじょーさま」",
     ""),
     # "Yes, oh sir."
 
-    ("縺後撃からポンと肩を叩いて言うと、諱先輩は艪ゆっくりと振關り返った。†",
+    ("縺後撃からポンと肩を叩いて言うと、諱先輩はゆっくりと振關り返った。†",
     ""),
     # After the attack, he tapped his shoulder and said, and Senpai Kou-senpai slowly shook back.†
 
-    ("かすかにうるんだ瞳がオ激レを見骭る。",
+    ("かすかにうるんだ瞳がオレを見骭る。",
     ""),
     # My faint eyes peek at me.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Kaji Aizai is not in a state of disappointment, and there are few changes in the public sentiment, but recently the subtle changes have become more and more understandable.
 
-    ("いまはオ激レにｉえて嬉しそうだ。†",
+    ("いまはオレにｉえて嬉しそうだ。†",
     ""),
     # I'm happy to be extremely excited right now.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # It's already 25 minutes since the lunch break started.
 
-    ("オ激レなんかいつ烽もチャャイムが鳴って５分でモ買って食ってをすましちまうのに。",
+    ("オレなんかいつ烽もチャャイムが鳴って５分でモ買って食ってをすましちまうのに。",
     ""),
     # I was always going to get some hot water and buy some um and eat them in five minutes.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Senpai is a laidback guy.†
 
-    ("オ激レは先輩といっし蛯ょにベンチに座った。",
+    ("オレは先輩といっしょにベンチに座った。",
     ""),
     # I sat on the bench with my senior.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Senpai picks up the Amami lunch box from the bag he had.
 
-    ("小さなプ宴ラスチックの弁抹当箱だ。",
+    ("小さなプラスチックの弁抹当箱だ。",
     ""),
     # It's a small banquet box.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # I thought that O-sama, who has a golden stove, would be eating hot water at Amami lunch, which was brought with him in a shield wagon, but surprisingly, the hot water was a simple lunch.†
 
-    ("「ふうん。じ痰ゃあ、いつ烽もこう竄やってベンチに座って食ってんの？」",
+    ("「ふうん。じ痰ゃあ、いつ烽もこうやってベンチに座って食ってんの？」",
     ""),
     # "Hmm. When are you tampering with the hot water and sitting on the bench and eating?"
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Come on.†
 
-    ("「あ、それよか、オ激レに気をつか墲わず、＝早く食べなよ」",
+    ("「あ、それよか、オレに気をつか墲わず、＝早く食べなよ」",
     ""),
     # "Oh, that's right, don't worry about me, don't eat quickly."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # When he ate, he puts his hands together, and the abdomen slowly chews and starts eating, as if to sputum slurp and sputum.
 
-    ("その横で、オ激レはカフェオ激レにスト鴻ローを突き刺し、それをすすった。",
+    ("その横で、オレはカフェオレにスト鴻ローを突き刺し、それをすすった。",
     ""),
     # Next to him, Ogere thrusts Stokourou into Cafe au Gere and sipped it.
 
@@ -123,7 +123,7 @@ text_array = [
     # "Hmm, it's a surprisingly plain lunch. Oh, that hamburger looks delicious." †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「えっ？	もしよかったら食べますかって？	おう、食べる、食べる！	へへっ、悪いな、催促しち痰ゃったみたいで。",
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Ahhhhh"
 
-    ("蛛大きく福口を開けて待つオ激レに、諱先輩は箸でつまんだハンバーグを寄せる。",
+    ("蛛大きく口を開けて待つオレに、諱先輩は箸でつまんだハンバーグを寄せる。",
     ""),
     # As I waited with my mouth wide open, my senior fell in love with my chopsticks and gave me a hamburger steak.
 
@@ -151,15 +151,15 @@ text_array = [
     # "Yeah, it's delicious! As expected, they use some superb meat."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	このソーセージ焜も食べますかって？	で烽も先輩のぶんがなくなっち痰ゃうだｂ？」†",
+    ("「え？	このソーセージ焜も食べますかって？	で烽も先輩のぶんがなくなっち痰ゃうだ？」†",
     ""),
     # "Huh? Would you like to eat this sausage too? And the senpai is gone, so phlegm is it?" †
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「いつ烽も残しますから？	ダ＜メじ痰ゃないか、そのくらい食べねーと」†",
@@ -167,22 +167,22 @@ text_array = [
     # "When will I leave some hot pot? I'm not going to eat that much."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え、今度から烽もう残しませんって？	うん、そうしなさい。で烽も、まあ、今厓日のとこｂはし蛯ょーがない。オ激レが手伝って竄やるよ」†",
+    ("「え、今度から烽もう残しませんって？	うん、そうしなさい。で烽も、まあ、今厓日のとこはしょーがない。オレが手伝ってやるよ」†",
     ""),
     # "Eh, you won't leave any more hot pots next time? Yes, do that. And Ho, well, there's no slut on the day right now. I'll help you and tamper with it."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「はい、あ〜〜〜〜〜〜〜〜〜〜〜〜〜ん」†",
     ""),
     # "Yes, ahhhhhhh"†
 
-    ("｢｢などと、オ激レはおｏ様とイチャャついたひとときを過ごした。◯",
+    ("｢｢などと、オレはおｏ様とイチャャついたひとときを過ごした。◯",
     ""),
     # "I spent a moment of flirting with Mr. O.
 

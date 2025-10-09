@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aoi, Episode Scales Event 12) (Continued from Selection B, I hope you become stronger)†
 
-    ("なにはと烽もあれ、竅やっぱり葵ち痰ゃんより烽も繧弱いっていう現状を打破しないとな。",
+    ("なにはと烽もあれ、やっぱり葵ち痰ゃんより烽も繧弱いっていう現状を打破しないとな。",
     ""),
     # I have to overcome the current situation where hot springs are weaker than Aoi Chishonan.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Isao Senpai, what did you ask for?"
 
-    ("「えっ、オ激レ？	へへへ、恥ずかしいけど、もっと強くなれますようにってな」",
+    ("「えっ、オレ？	へへへ、恥ずかしいけど、もっと強くなれますようにってな」",
     ""),
     # "What, I'm super excited? Hehe, I'm embarrassed, but I hope I can become even stronger."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("「少しで烽も≠早く繧上達できればいいと思ってさ。他力本阮願だけど」†",
+    ("「少しで烽も≠早く繧上達できればいいと思ってさ。他力本願だけど」†",
     ""),
     # "I hope I can improve my energy quickly in a little bit. I hope I can really improve my skills."
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # The two laughed out loud.†
 
-    ("「とこｂでさ、前から一度聞きたいと思ってたんだけど」",
+    ("「とこでさ、前から一度聞きたいと思ってたんだけど」",
     ""),
     # "I've been wanting to hear it for a while now, but."
 
-    ("「はい、なんでし蛯ょう？」",
+    ("「はい、なんでしょう？」",
     ""),
     # "Yes, why are you eclips?"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Ah, the person you admire?
 
-    ("ど、どんな竄やつなんだ、そいつは？†",
+    ("ど、どんなやつなんだ、そいつは？†",
     ""),
     # What kind of tampering is it, what kind of guy?†
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "What's wrong?"
 
-    ("「い、い竄や、べつに…」†",
+    ("「い、いや、べつに…」†",
     ""),
     # "No, it's tampering, it's all..."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # What is it, a bather?
 
-    ("ふう、ち蛯ょっと焦ったぜ。",
+    ("ふう、ちょっと焦ったぜ。",
     ""),
     # Wow, I was so panicked.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # I'm sure it's called Aya∴Ka.
 
-    ("これだけ葵ち痰ゃんが尊敬してるってことは、諱よっぽど出女のいいお姉さんなんだｂうな。†",
+    ("これだけ葵ち痰ゃんが尊敬してるってことは、諱よっぽど出女のいいお姉さんなんだうな。†",
     ""),
     # If Aoi Chisho-yan respects her so much, she's a really good-looking woman with a big name.†
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # What is it, a bather?
 
-    ("ふう、ち蛯ょっと焦ったぜ。",
+    ("ふう、ちょっと焦ったぜ。",
     ""),
     # Wow, I was so panicked.
 
@@ -194,11 +194,11 @@ text_array = [
     ""),
     # I'm sure it's called Aya∴Ka.
 
-    ("これだけ葵ち痰ゃんが尊敬してるってことは、諱よっぽど出女のいいお姉さんなんだｂうな。",
+    ("これだけ葵ち痰ゃんが尊敬してるってことは、諱よっぽど出女のいいお姉さんなんだうな。",
     ""),
     # If Aoi Chisho-yan respects her so much, she's a really good-looking woman with a big name.
 
-    ("オ激レの知ってる綾∴香とはえらい痰違いだぜ。†",
+    ("オレの知ってる綾∴香とはえらい痰違いだぜ。†",
     ""),
     # It's a huge difference to the Aya Kaori I know.†
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # Even though he has the same name, he has a relationship of unorthodox relationship with his situation, such as respect and longing.
 
-    ("あ、で烽も、格闘技を竄やってるっていうのは同じだな。†「じ痰ゃあ、今度はр私から質竡問します。",
+    ("あ、で烽も、格闘技をやってるっていうのは同じだな。†「じ痰ゃあ、今度はр私から質竡問します。",
     ""),
     # Oh, and the same goes for Kao, who is tampering with martial arts.† "I'll ask you the question this time.
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # Why do you want to be strong?”
 
-    ("「オ激レか？」",
+    ("「オレか？」",
     ""),
     # "Are you so intense?"
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("「オ激レは、その、竅やっぱり、＝早く葵ち痰ゃんの福練習鰹相闡手が務まるくらいになりたいからさ。いまはまだ、あんまし力になって竄やれないし。ま、そういうことだな」†",
+    ("「オレは、その、やっぱり、＝早く葵ち痰ゃんの練習鰹相闡手が務まるくらいになりたいからさ。いまはまだ、あんまし力になってやれないし。ま、そういうことだな」†",
     ""),
     # "I really want to be able to practice Aoi Chisho-chan's Fuku training soon, so I want to be able to work hard at the time. Right now, I can't really help you with it. Well, that's what it is."
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "Ah, that's a good word"
 
-    ("「そういうことで、これから烽も頑張って強くなｂうぜ」",
+    ("「そういうことで、これから烽も頑張って強くなうぜ」",
     ""),
     # "That's why, I'll do my best from now on and become stronger."
 

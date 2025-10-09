@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "My name is, do you have phlegm?"
 
-    ("竅やっぱ制梵服をｒたパツキンは、街で烽も学校で烽も存在感があるな。",
+    ("やっぱ制梵服をｒたパツキンは、街で烽も学校で烽も存在感があるな。",
     ""),
     # After all, Patskin, who is wearing Sanskrit uniforms, has a strong presence in town and at school.
 
-    ("「Ｏｂ！	開いた福口へ、ボタ餅」",
+    ("「Ｏ！	開いた口へ、ボタ餅」",
     ""),
     # "Ob! To the open Fukuguchi, bota mochi."
 
-    ("戟レミィはオ激レに気づくと、♀怪な言葉を福口にした。",
+    ("戟レミィはオレに気づくと、♀怪な言葉を口にした。",
     ""),
     # When Karemi noticed me, he spoke a female-slutty word in a lucky voice.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "What exactly is it, what is the word?"
 
-    ("「ニッポン黹語激」",
+    ("「ニッポン黹語」",
     ""),
     # "Japanese Monogoku"
 
-    ("「開いた福口がどーしたって？	ふさがらないのか？」",
+    ("「開いた口がどーしたって？	ふさがらないのか？」",
     ""),
     # "What's the open Fukuguchi? Does it not block?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Hemp means "Don't struggle, good things happen." It's a great Japanese rodent."
 
-    ("「オ激レは、生まれて奄初めて聞いたぜ」†",
+    ("「オレは、生まれて奄初めて聞いたぜ」†",
     ""),
     # "It's the first time I've heard of it in Amami" †
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "I feel like the wonderful culture of Japan is gradually disappearing..."
 
-    ("まるで自分のことのように、戟レミィは竄寂しげにつぶ竄やいた。",
+    ("まるで自分のことのように、戟レミィは寂しげにつぶやいた。",
     ""),
     # It was like she was her own, and Karemi muttered in a lonely way.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "If I leave that kind of hot water to the people who are the ones who are the ones, it's fine, isn't it?"
 
-    ("少なくと烽も、オ激レには入しすぎる竄問阮題だ。",
+    ("少なくと烽も、オレには入しすぎる問題だ。",
     ""),
     # At least, it's a question of how much he's going to get into me too much.
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "I'm worried..." †
 
-    ("なんか、話がｌい福方阜に変﨑わってきたぜ…。",
+    ("なんか、話がｌい方阜に変﨑わってきたぜ…。",
     ""),
     # It's been a bit of a turn of events like Fukukata Fu, who is talking about it...
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

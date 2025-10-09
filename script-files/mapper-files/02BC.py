@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Just as I stepped out thinking that, I was called out to me by a disgrace.
 
-    ("「あのー、すみません。最寄闃りのＪＲ駅へは、どう竄やって行けば｢｢」",
+    ("「あのー、すみません。最寄闃りのＪＲ駅へは、どうやって行けば｢｢」",
     ""),
     # "Um, sorry. How can I do to the nearest JR station, ""
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "!"
 
-    ("じじいのモ激しい一喝が、オ激レの鼓血膜をビ潟リビ潟リと震岦わせた。†",
+    ("じじいのモしい一喝が、オレの鼓血膜をビリビリと震岦わせた。†",
     ""),
     # My grandfather's intense thud made my bloody blood membranes shining.†
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "What horse's skeleton is this? Is it you again, boy!"
 
-    ("言甯わずと知齟れた執鮪事のじじいだった。",
+    ("言甯わずと知れた執鮪事のじじいだった。",
     ""),
     # He was a well-known old man with a tuna that was unrequited.
 
-    ("「こ、このくそじじい〜…。誰か烽も確認せず、怒鳴阮りつけてんのか」†",
+    ("「こ、このくそじじい〜…。誰か烽も確認せず、怒鳴りつけてんのか」†",
     ""),
     # "Hey, this damn old man... Is anyone yelling at me without checking the hot one?"
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # He waved his hand, as if he was a dog to chase away the hot springs.†
 
-    ("「なんだよ、いいだｂ。オ激レはただ、諱先輩にあいさつしようと思っただけだ。あんたに用はねーんだよ」",
+    ("「なんだよ、いいだ。オレはただ、諱先輩にあいさつしようと思っただけだ。あんたに用はねーんだよ」",
     ""),
     # "What is it, okay? B. I just wanted to say hello to my senior. I have no use for you."
 
-    ("そう言ってオ激レが行こうとすると、じじいが目の前に立ちはだかった。†",
+    ("そう言ってオレが行こうとすると、じじいが目の前に立ちはだかった。†",
     ""),
     # As I said that, my grandfather stood in front of me.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "What is it? Let it go~"
 
-    ("オ激レが左に寄驫ると…。",
+    ("オレが左に寄驫ると…。",
     ""),
     # When I hit the left...
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Hmm!"
 
-    ("オ激レが右に寄驫ると…。",
+    ("オレが右に寄驫ると…。",
     ""),
     # When I hit the right...
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Hmm!"
 
-    ("オ激レがまた、左を通窒うとすると…。",
+    ("オレがまた、左を通窒うとすると…。",
     ""),
     # If I say that I'm going to pass through my left again...
 
@@ -106,15 +106,15 @@ text_array = [
     ""),
     # "Yeah, it's annoying! Let it go!"
 
-    ("「いい竄や、どかぬっ！	小僧、ここから先は一煦歩熾も通さぬぞっ！」",
+    ("「いいや、どかぬっ！	小僧、ここから先は一煦歩熾も通さぬぞっ！」",
     ""),
     # "Tsmpeezing, you're not going to get through! Boy, no one will pass through from here!"
 
-    ("くそっ、じじいめ、あくまでオ激レのジャャマをする気か。",
+    ("くそっ、じじいめ、あくまでオレのジャャマをする気か。",
     ""),
     # Damn it, old man, are you just trying to do my crazy jerk?
 
-    ("オ激レ焜も意地になってきた。†",
+    ("オレ焜も意地になってきた。†",
     ""),
     # My hard work is getting stubborn too.†
 

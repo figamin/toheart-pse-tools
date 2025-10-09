@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("立ち止まり、見繻上げるオ激レ。†",
+    ("立ち止まり、見上げるオレ。†",
     ""),
     # I stopped and looked up.†
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # Dadadadadada...!
 
-    ("猛スピードで踊阯り場に飛び桙込んできたのは、掾理女緒ち痰ゃんだった。",
+    ("猛スピードで踊り場に飛び桙込んできたのは、掾理女緒ち痰ゃんだった。",
     ""),
     # It was a surge to the dance hall at a rapid pace that led to the dance.
 
-    ("二段飛ばしで階段をｋけ下濶りてくる。†",
+    ("二段飛ばしで階段を駆け下濶りてくる。†",
     ""),
     # He skips two steps and moves down the stairs.†
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Ah!?"
 
-    ("掾理女緒ち痰ゃんはオ激レに気がつき、急ブ激レーキをかけた。",
+    ("掾理女緒ち痰ゃんはオレに気がつき、急ブレーキをかけた。",
     ""),
     # Erie Ochi Shoyan noticed me and suddenly made a rake.
 
-    ("失速し、バ宴ランスをくずす。",
+    ("失速し、バランスをくずす。",
     ""),
     # It stalls and ruins the banquet lance.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Is it true?†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

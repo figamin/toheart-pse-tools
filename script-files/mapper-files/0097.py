@@ -2,11 +2,11 @@
 # Source file: 0097.txt
 
 text_array = [
-    ("（冝期槙末テスト	５冾日目最終叝日）閨（選択綜	バッチ潟リ）†",
+    ("（冝期槙末テスト	５冾日目最終叝日）閨（選択綜	バッチリ）†",
     ""),
     # (The last day of the 5th day of the final test) (Selection of the 1st day) (Selection of Batch-Katari)†
 
-    ("「バッチ潟リってとこかな」",
+    ("「バッチリってとこかな」",
     ""),
     # "Maybe it's a big latitude place?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # He said.†
 
-    ("「オ激レの実力ねえ。",
+    ("「オレの実力ねえ。",
     ""),
     # "My superb ability isn't there.
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "That's not true."
 
-    ("「まあ、オ激レはバッチ潟リだと思ってるけど、噤答案用落が返ってくるまでホントのとこｂは墲わかんねーし」†",
+    ("「まあ、オレはバッチリだと思ってるけど、噤答案用落が返ってくるまでホントのとこは墲わかんねーし」†",
     ""),
     # "Well, I think I'm a perfect radar, but I don't really know what the answer is until the answer is sent back."
 
-    ("「きっと蛯大苟丈夫だよ！」",
+    ("「きっと大苟丈夫だよ！」",
     ""),
     # "I'm sure it's sturdy!"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Akari nodded with a laughing face.
 
-    ("この根注拠のない信叶頼感は、いつ烽もどっからｗてるんだｂう。†",
+    ("この根注拠のない信叶頼感は、いつ烽もどっからｗてるんだう。†",
     ""),
     # This unfounded, unrequited feeling of trust is what makes you think of it, and when did the hot spring come from?†
 

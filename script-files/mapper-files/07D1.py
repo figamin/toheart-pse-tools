@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Let's make it next to Kotone Chisho-chan.
 
-    ("オ激レは琴音ち痰ゃんの隣にｍ會高ｺ奄した。†",
+    ("オレは琴音ち痰ゃんの隣にｍ會高ｺ奄した。†",
     ""),
     # My geisha went to Mkai Takako Amami next to Kotone Chisho-chan.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # The woman twitched her shoulders and looked at me, terrified.
 
-    ("そして、オ激レだと墲わかると、",
+    ("そして、オレだと墲わかると、",
     ""),
     # And when I realize that it's a bit of a big deal,
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "…Hello"
 
-    ("ち蛯ょっとだけ微笑んで、頭を下げた。†",
+    ("ちょっとだけ微笑んで、頭を下げた。†",
     ""),
     # He smiled a little and bowed his head.†
 
-    ("オ激レは琴音ち痰ゃんのあいさつを受けてから、",
+    ("オレは琴音ち痰ゃんのあいさつを受けてから、",
     ""),
     # After receiving Kotone Chisho-chan's greeting,
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # First, I will introduce Kotone's Sphincter and Aoi's Sphincter.
 
-    ("「…諱よｂしく」",
+    ("「…諱よしく」",
     ""),
     # "...Please give me your name."
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # When Aoi Chisho-chan smiled, Kotone Chisho-chan turned to her face in trouble.†
 
-    ("琴音ち痰ゃん、竅やっぱりまだ他人とは関孖わりたくないみたいだな。",
+    ("琴音ち痰ゃん、やっぱりまだ他人とは関孖わりたくないみたいだな。",
     ""),
     # Kotone Chisho-yan, it seems he still doesn't want to be involved with other people.
 
-    ("で烽も蛯大苟丈夫。",
+    ("で烽も大苟丈夫。",
     ""),
     # And the hot springs are also sturdy.
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # If the results of our special training come to light, we will surely be able to become friends with anyone and everyone without any worries.†
 
-    ("オ激レは話陂題を探そうと、それぞれふたりの≠メニャーに高注目した。",
+    ("オレは話陂題を探そうと、それぞれふたりの≠メニャーに高注目した。",
     ""),
     # In order to find a topic, I made a lot of attention to the two of them, ≠Meña.
 
-    ("葵ち痰ゃんはオ激レと同じＡ奄ランチ。",
+    ("葵ち痰ゃんはオレと同じＡ奄ランチ。",
     ""),
     # Aoi Chisho-chan is the same as my gei-re.
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # "It's a bit of a bland meal for lunch."
 
-    ("「そうでし蛯ょうか」",
+    ("「そうでしょうか」",
     ""),
     # "That's right, is that a slut?"
 
-    ("「うどんつったって、ここのはただのキツネうどんだｂ。",
+    ("「うどんつったって、ここのはただのキツネうどんだ。",
     ""),
     # "Even if it's udon noodles, it's just a fox udon here.
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # It would be fine if it was hotpot udon."†
 
-    ("「で烽も、增わたしはこのくらいでち蛯ょうどですから…」",
+    ("「で烽も、わたしはこのくらいでちょうどですから…」",
     ""),
     # "And even though I'm still a little bit like this..."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Yeah…"†
 
-    ("「で烽も、うどん一杯ってのは安く繧上がるよな。そこが≠メ潟リットって言竚やー＝メ潟リットか」",
+    ("「で烽も、うどん一杯ってのは安く繧上がるよな。そこが≠メリットって言竚やー＝メリットか」",
     ""),
     # "And even a bowl of udon noodles is cheap, so I guess that's what I mean by Megata Rit = Megata Rit."
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # Kotone Chisho-yan looks troubled.†
 
-    ("「あ、悪い。ついオ激レの感覚で言っちまった。オ激レの場㍼合、食数熹も小遣いのうちだから」",
+    ("「あ、悪い。ついオレの感覚で言っちまった。オレの場㍼合、食数熹も小遣いのうちだから」",
     ""),
     # "Oh, sorry. I couldn't help but say it with a strong feeling. I had to go through a lot of my time, and the number of meals in the meal was also a lot of pocket money."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "That's why Kenyu is essential to know how to follow V Inumata 﨎にないます" †
 
-    ("と、そんな感じで、オ激レはハシ以繹上に福口を動かし続けた。",
+    ("と、そんな感じで、オレはハシ以繹上に口を動かし続けた。",
     ""),
     # And with that in mind, I continued to move Fukuguchi over the top of Hashi.
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # The number of weir lunches has hardly decreased.
 
-    ("そう竄やって、しばらくすると。†",
+    ("そうやって、しばらくすると。†",
     ""),
     # After a while, do that.†
 
@@ -234,19 +234,19 @@ text_array = [
     ""),
     # It's quicker for a bathing girl.†
 
-    ("「あ、いけね、オ激レ焜も≠早く食岦わねーと」",
+    ("「あ、いけね、オレ焜も≠早く食岦わねーと」",
     ""),
     # "Oh, go ahead, I'll have to go quickly."
 
-    ("オ激レが慌ててハシを握闊り直すと、",
+    ("オレが慌ててハシを握闊り直すと、",
     ""),
     # I hurriedly grabbed the pines and retook them,
 
-    ("「あ、いいですよ。どうぞ、ご艪ゆっくり」",
+    ("「あ、いいですよ。どうぞ、ごゆっくり」",
     ""),
     # "Ah, that's fine. Please take it easy."
 
-    ("葵ち痰ゃんはそう言って、ト激レイを手にし、ひとりで行ってしまった。†",
+    ("葵ち痰ゃんはそう言って、トレイを手にし、ひとりで行ってしまった。†",
     ""),
     # Aoi Chishoyan said, holding a handheld Rei and leaving on his own.†
 
@@ -254,11 +254,11 @@ text_array = [
     ""),
     # "I wonder if there's something to do with it?"
 
-    ("オ激レがつぶ竄やくと、",
+    ("オレがつぶやくと、",
     ""),
     # When I messed up,
 
-    ("「松原さん、增わたしとさんに気を遣ってくれたんですよ」",
+    ("「松原さん、わたしとさんに気を遣ってくれたんですよ」",
     ""),
     # "Matsubara-san, you were considerate of me and me."
 

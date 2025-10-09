@@ -11,10 +11,10 @@ text_array = [
     # "Well, if you don't like it, you have no phlegm."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("なんだかムスッとした顔で、オ激レを見つめる。†",
+    ("なんだかムスッとした顔で、オレを見つめる。†",
     ""),
     # He looks kind of ugly and stares at me.†
 
@@ -30,19 +30,19 @@ text_array = [
     ""),
     # This vague meow is difficult for a child to come to terms with.
 
-    ("「好きっていうか、その手前っていうか、好きときらいのｒ間謚より、そのち蛯ょっと繧上っつーかだな…」†",
+    ("「好きっていうか、その手前っていうか、好きときらいのｒ間謚より、そのちょっと繧上っつーかだな…」†",
     ""),
     # "I mean, I don't think I'm just in front of that, but rather than just the one from Ikutokirai's R-Mazou, it's a bit more than that..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("うう〜ん。",
     ""),
     # Hmm.
 
-    ("オ激レ焜もオ激レで、どう納得させたいのか墲わからなくなってきた。†",
+    ("オレ焜もオレで、どう納得させたいのか墲わからなくなってきた。†",
     ""),
     # My eccentricity is also so I'm starting to feel unsure how I want to convince him.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I don't really understand it somehow.
 
-    ("もうすこしハッキ潟リしｂ」",
+    ("もうすこしハッキリし」",
     ""),
     # It's a little more clearer and more b"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Uh..."
 
-    ("こいつ、いきなり鋭いこと言い竄やがる。",
+    ("こいつ、いきなり鋭いこと言いやがる。",
     ""),
     # This guy suddenly makes sharp statements.
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "Hey,"
 
-    ("「だから、フ泣ルネームで呼ぶな」",
+    ("「だから、フルネームで呼ぶな」",
     ""),
     # "So, don't call me by my name."
 
-    ("「もし、またねえち痰ゃんいじめたら、こんどこそ竄やっつけるぞ」",
+    ("「もし、またねえち痰ゃんいじめたら、こんどこそやっつけるぞ」",
     ""),
     # "If I bully you again, I'll tamper with you."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Yeah, I also got a front gift.
 
-    ("もういじめねえから安心しｂ」",
+    ("もういじめねえから安心し」",
     ""),
     # I won't bully you anymore so I'm relieved."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "So don't say it to you."
 
-    ("「もし、またねえち痰ゃんいじめたら、こんどこそ竄やっつけるぞ」",
+    ("「もし、またねえち痰ゃんいじめたら、こんどこそやっつけるぞ」",
     ""),
     # "If I bully you again, I'll tamper with you."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Yeah, I also got a front gift.
 
-    ("もういじめねえから安心しｂ」",
+    ("もういじめねえから安心し」",
     ""),
     # I won't bully you anymore so I'm relieved."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Then Ryota smirked and †
 
-    ("「ずっと、竅やくそくだぞ！」",
+    ("「ずっと、やくそくだぞ！」",
     ""),
     # "It's always going to be a shit!"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # ...But it's true that we have to make phlegm clear about the phlegm that we must eventually have.
 
-    ("そんなことを考えながら、オ激レは家に帰った。◯",
+    ("そんなことを考えながら、オレは家に帰った。◯",
     ""),
     # With that in mind, I went home.◯
 

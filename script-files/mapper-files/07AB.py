@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Kotone Chisho-yan looked down in her eyes shyly.
 
-    ("「べつに恥ずかしがることないぜ？	その福方が断然、＝普通っぽくていいじ痰ゃねえか」†",
+    ("「べつに恥ずかしがることないぜ？	その方が断然、＝普通っぽくていいじ痰ゃねえか」†",
     ""),
     # "I'm not particularly embarrassed, right? That lucky face is definitely normal and you have good phlegm."
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Don't be mean..."
 
-    ("「增わっはっは」†",
+    ("「わっはっは」†",
     ""),
     # "Ahhhhaha" †
 
-    ("琴音ち痰ゃんとの、ち蛯ょっとしたデートってノ潟リでその冾日は楽しかったな。◯",
+    ("琴音ち痰ゃんとの、ちょっとしたデートってノリでその冾日は楽しかったな。◯",
     ""),
     # I had a really sad date with Kotone Chisho-yan, and it was fun to see the day.◯
 

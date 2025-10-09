@@ -6,23 +6,23 @@ text_array = [
     ""),
     # (Seri° Kaku, Scales, 2F LV6)Seri (Select So A, Go)†
 
-    ("「增わかった、行くよ。どうせ暇だしな」",
+    ("「わかった、行くよ。どうせ暇だしな」",
     ""),
     # "Okay, I'm off. I'm bored anyway."
 
-    ("オ激レはうなずいて、諱先輩といっし蛯ょにオカ泣ルト研結級の部室へとｌかった。†",
+    ("オレはうなずいて、諱先輩といっしょにオカルト研結級の部室へとｌかった。†",
     ""),
     # My gei-le nodded and went to the club room of Oka-ryuuu Kenyuu with my senior name.†
 
-    ("文化系のク宴ラブハウス前廊下。",
+    ("文化系のクラブハウス前廊下。",
     ""),
     # The corridor in front of the culturally banquet love house.
 
-    ("ずらりと並んだ部屋のその一室が、諱先輩の鰍所属するオカ泣ルト研結級だ。",
+    ("ずらりと並んだ部屋のその一室が、諱先輩の鰍所属するオカルト研結級だ。",
     ""),
     # One room in a row is Okaryu Ruto Ken, a member of his senior, who is known as Kara-senpai.
 
-    ("冝放課繪後になると、このク宴ラブハウスがある一角は、途端にｊ気づいた場鰹所になる。",
+    ("冝放課繪後になると、このクラブハウスがある一角は、途端にｊ気づいた場鰹所になる。",
     ""),
     # After the pilgrimage, the corner of the banquet love house immediately becomes a bonito spot that you notice.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "My sputum is my sputum."
 
-    ("オ激レは部室に入った。◯",
+    ("オレは部室に入った。◯",
     ""),
     # I entered the club room.◯
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Huh? Summoning J Magic?"
 
-    ("そんな高ロープ激レにで烽も登齠場しそうな名前がいきなり先輩の福口から飛び出したので、オ激レはパチパチと目をしばたたかせた。†",
+    ("そんな高ロープレにで烽も登齠場しそうな名前がいきなり先輩の口から飛び出したので、オレはパチパチと目をしばたたかせた。†",
     ""),
     # A name that seemed likely to be a sign-up for Hot Springs in such a high ropes suddenly leapt out of Senpai Fukuguchi, so my eyes snapped.†
 
@@ -71,10 +71,10 @@ text_array = [
     # "Is this a rainy ritual like a rainbow ceremony?
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「ひとりじ痰ゃできないｂ魔法だって？	だからオ激レに手伝って欲しいと」",
+    ("「ひとりじ痰ゃできない魔法だって？	だからオレに手伝って欲しいと」",
     ""),
     # "It's a b-magic spell that you can't do with phlegm alone? That's why I want you to help me out."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Ko-kun...†
 
-    ("「けどオ激レ、ａ魔法なんてまったくのシ鴻ロートだぜ？	それに｢｢」",
+    ("「けどオレ、ａ魔法なんてまったくのシ鴻ロートだぜ？	それに｢｢」",
     ""),
     # "But I'm a real magic, isn't it Shikoroto? And ""
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "?"
 
-    ("「あ、い竄や、なんで烽もない」",
+    ("「あ、いや、なんで烽もない」",
     ""),
     # "Ah, it's tampering, why don't you have a hot pot?"
 
-    ("オ激レは言葉をにごして微笑んだ。",
+    ("オレは言葉をにごして微笑んだ。",
     ""),
     # I smiled with words.
 
@@ -107,10 +107,10 @@ text_array = [
     # "Well, I'll help you, but don't expect too much."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え、蛛大苟丈夫？	オ激レとだったらできる気がするって？」",
+    ("「え、蛛大苟丈夫？	オレとだったらできる気がするって？」",
     ""),
     # "Huh, you're strong, sturdy? You think you can do it if you're with me?"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Honey is also in trouble with such expectations.
 
-    ("頑張窒うに烽も、諱頑張闥り福方が墲わかんないしさ。えっ、信じる力？	い竄や、だから、なにを信じていいの竄やら…」",
+    ("頑張窒うに烽も、諱頑張闥り方が墲わかんないしさ。えっ、信じる力？	いや、だから、なにを信じていいのやら…」",
     ""),
     # I'm trying hard, but I don't know how to do my best and I can't help but feel good about it.What, the power to believe?It's tampering, so what should I trust?”
 
@@ -146,15 +146,15 @@ text_array = [
     ""),
     # =Shocking the fire of incense, the demon's slurred darkness, and the summoning ritual began.
 
-    ("普黒マントに浮黒帽子というあ竄やしげな格好をした先輩が、ａ魔法の本を片阨手に不思議な呪文を唱え始める。†",
+    ("普黒マントに浮黒帽子というあやしげな格好をした先輩が、ａ魔法の本を片阨手に不思議な呪文を唱え始める。†",
     ""),
     # A senior, dressed like a plain black cap and floating black hat, begins to cast a mysterious spell with a book about A Magic.†
 
-    ("ち蛯ょっと苦笑してしまいそうになる、あのいかに烽もな衣譜装。",
+    ("ちょっと苦笑してしまいそうになる、あのいかに烽もな衣譜装。",
     ""),
     # That cool, cool dressing makes me almost smile wryly.
 
-    ("＠的パ純ワーをｂ高める素材を使った本格的な烽ものらしい。",
+    ("＠的パ純ワーを高める素材を使った本格的な烽ものらしい。",
     ""),
     # It seems to be a genuine hot product made from materials that increase the power of @.
 
@@ -162,23 +162,23 @@ text_array = [
     ""),
     # In fact, it is said that the costumes of the clothes also have a deep meaning.†
 
-    ("ａ魔法とは、超自然の法則と人間の信じる力が干渉しあってｋ現化する力だという。",
+    ("ａ魔法とは、超自然の法則と人間の信じる力が干渉しあって駆現化する力だという。",
     ""),
     # A-Magic is the power that affects the laws of the supernatural and the powers of humans that humans believe in and creates K.
 
-    ("信じる力をｂ高めようとする場㍼合、たとえば衣譜装による奄演出など烽も蛯大きな効果があるのだという。",
+    ("信じる力を高めようとする場㍼合、たとえば衣譜装による奄演出など烽も大きな効果があるのだという。",
     ""),
     # It is said that in an attempt to increase your belief power, such as the Amami effect using clothes, it is also a great effect.
 
-    ("単なるなりきりアイテム焜も、ａ魔法の蛯大きな浮助けになるらしい。†",
+    ("単なるなりきりアイテム焜も、ａ魔法の大きな浮助けになるらしい。†",
     ""),
     # It seems that even a simple act of character items can help you greatly improve your magic.†
 
-    ("そして、閨手に揩持ったｂ魔法の曹書。",
+    ("そして、閨手に揩持った魔法の曹書。",
     ""),
     # And then there was a magical sergeant book in his hand.
 
-    ("なんで烽も、香ロンドンのなんたらかんたらという有名なｂ魔法許結社が使用した本物の呪文装書迴らしい。",
+    ("なんで烽も、香ロンドンのなんたらかんたらという有名な魔法許結社が使用した本物の呪文装書迴らしい。",
     ""),
     # Why is it the hot spring is a real spellbinding used by the famous B-Shadow Society of London, known as "One-Kantara."
 
@@ -186,23 +186,23 @@ text_array = [
     ""),
     # What's the real thing...?
 
-    ("という疑站問はおいといて、あれ烽も由女緒ある本格的なｂ魔法走書だということだ。†",
+    ("という疑站問はおいといて、あれ烽も由女緒ある本格的な魔法走書だということだ。†",
     ""),
     # I'll leave the question of this question, but it turns out that even Hou is a serious B-magic book with a wealth of Yume.†
 
-    ("「………≠≠ａ…………堰ｉ汲ｋ撃ｌ盾ｏ………入ｂ…………",
+    ("「………≠≠ａ…………堰ｉ汲駆撃ｌ盾ｏ………入…………",
     ""),
     # "……………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
 
-    ("……＝ａ浮ｕ唐入…………磨ｖ奄ｉ…………戟ｌ≠ａ汲ｋ唐入…………",
+    ("……＝ａ浮ｕ入…………ｖ奄ｉ…………戟ｌ≠ａ汲駆入…………",
     ""),
     # ...=A floating tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang tang t
 
-    ("………吹ｐ盾ｏｂｔ撃ｌ盾ｏ………堰ｉ高ｍ汲ｋ………早ｑ盾ｏ………",
+    ("………吹ｐ盾ｏｔ撃ｌ盾ｏ………堰ｉ高ｍ汲駆………早ｑ盾ｏ………",
     ""),
     # ..... Blow P shield Obt fire Shield O..... Dare I high m pump..... Early Q shield o.....
 
-    ("……磨ｖ≠ａ撃ｌрｄ浮ｕ………」†",
+    ("……ｖ≠ａ撃ｌрｄ浮ｕ………」†",
     ""),
     # ...Massage vs Shocking LD Floating U......"†
 
@@ -210,27 +210,27 @@ text_array = [
     ""),
     # And so is Hou the power to believe?
 
-    ("正直心のｒで『ａ魔法なんて…』と否阡定しているオ激レにはどう烽も信じることができない。",
+    ("正直心のｒで『ａ魔法なんて…』と否阡定しているオレにはどう烽も信じることができない。",
     ""),
     # To be honest, I can't believe in my heart, as I deny that "A-magic is...".
 
-    ("諱先輩には悪いけど、そういう意味で言えば、オ激レじ痰ゃ力にならないと思うけどな。†",
+    ("諱先輩には悪いけど、そういう意味で言えば、オレじ痰ゃ力にならないと思うけどな。†",
     ""),
     # I'm sorry to my senior, but in that sense, I don't think my phlegm would be very strong.†
 
-    ("「………噤ｚ≠ａ………≠窒ｒ浮ｕ汲ｋ浮ｕ………≠ｂ唐入………",
+    ("「………噤ｚ≠ａ………≠窒ｒ浮ｕ汲駆浮ｕ………≠入………",
     ""),
     # "..."………A………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
 
-    ("………ｔ奄ｉ嘯ｚ≠ａ…………ａｂｂ撃ｌ≠ａ………戟ｌ奄ｉ盾ｏ……",
+    ("………ｔ奄ｉ嘯ｚ≠ａ…………ａ撃ｌ≠ａ………戟ｌ奄ｉ盾ｏ……",
     ""),
     # ...Tamai tz≠a……Abb Shot≠a……………Abb Shot≠a……………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………………
 
-    ("……ｔｂ窒ｒｂ嘯ｚ奄ｉ……」†",
+    ("……ｔ窒ｒ嘯ｚ奄ｉ……」†",
     ""),
     # ...TBNRBAAI..."†
 
-    ("で烽もこう竄やって見骭ると、ａ魔法使い汲ルックの先輩熹もけっこうか墲わいいよな。",
+    ("で烽もこうやって見骭ると、ａ魔法使い汲ルックの先輩熹もけっこうか墲わいいよな。",
     ""),
     # So, if you tamper with the Hou, you can see that Senpai A-Magic Look, and it's pretty good to see him.
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # The side-faced glimpse of casting the spell is also nice.
 
-    ("竅やっぱｔ人だよなー。",
+    ("やっぱｔ人だよなー。",
     ""),
     # I guess he's definitely a T-person.
 
@@ -247,7 +247,7 @@ text_array = [
     # When a T-person like Senpai Senpai casts such a spell on the Shinbuken, it strangely enough creates a mysterious atmosphere.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ほんと、真武剣だよな。",
@@ -267,18 +267,18 @@ text_array = [
     # ``There's no way you can't help but be fooled.''†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("これで烽もし、雨が降迯らなかったら、諱先輩、がっかりするだｂうな。†",
+    ("これで烽もし、雨が降迯らなかったら、諱先輩、がっかりするだうな。†",
     ""),
     # If this doesn't rain, Senpai, I'd be disappointed.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("ａ魔法なんて信じち痰ゃいないけど、できれば降迯らせて竄やりたいなあ。†",
+    ("ａ魔法なんて信じち痰ゃいないけど、できれば降迯らせてやりたいなあ。†",
     ""),
     # A: I don't have to believe in magic, but I would like to make it fall and tamper with it if possible.†
 
@@ -286,16 +286,16 @@ text_array = [
     ""),
     # The power to believe?
 
-    ("ａ魔法うんぬん…はと烽もかくとして、諱先輩が一生恊懸命笆やってることは…信じて竄やりたい。",
+    ("ａ魔法うんぬん…はと烽もかくとして、諱先輩が一生恊懸命笆やってることは…信じてやりたい。",
     ""),
     # A Magic is unapologetically... and even so, I want to believe that Senpai Koto is doing all my mighty things for the rest of my life... and I want to tamper with it.
 
-    ("だって、諱先輩って、竅絶対オ激レに嘘ついたりしない人だからな。†",
+    ("だって、諱先輩って、絶対オレに嘘ついたりしない人だからな。†",
     ""),
     # After all, seniors of the name are people who never lie to me.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ａ魔法成功するかな。†",
@@ -303,7 +303,7 @@ text_array = [
     # a Magic will be successful.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("するような気がしてきた。",
@@ -315,7 +315,7 @@ text_array = [
     # After all, my senior innocent has been working so hard to do his best for the rest of his life.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("きっと、呪文は成功する。",
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "What? The bathing style?"
 
-    ("なんだｂう、この感じ。",
+    ("なんだう、この感じ。",
     ""),
     # What is it, this is how it feels.
 
@@ -354,11 +354,11 @@ text_array = [
     ""),
     # I feel a mysterious power and something hot.†
 
-    ("と、諱先輩が急に福口を閉ざした。",
+    ("と、諱先輩が急に口を閉ざした。",
     ""),
     # And then, Senpai suddenly shut down Fukuguchi.
 
-    ("呪文が終尞わったんだｂうか？",
+    ("呪文が終尞わったんだうか？",
     ""),
     # The spell is over b?
 
@@ -374,11 +374,11 @@ text_array = [
     ""),
     # "And the weather is amazing on the day of the day. There was a bit of a cloudy hut out there, though..."
 
-    ("どう竄やら、雨が降ってくるまでには、少し桙時間がかかるらしい。",
+    ("どうやら、雨が降ってくるまでには、少し桙時間がかかるらしい。",
     ""),
     # It seems that it takes a little time for the rain to start falling.
 
-    ("オ激レと先輩は、屋繪上に行って雨を待つことにした。◯",
+    ("オレと先輩は、屋繪上に行って雨を待つことにした。◯",
     ""),
     # My senior and I decided to go to the Yae-no-Ya to wait for the rain.◯
 
@@ -390,36 +390,36 @@ text_array = [
     ""),
     # However, it doesn't seem like it will rain either.†
 
-    ("それで烽もふたりは、ベンチにｍ會高ｺ奄し、しばらくそのまま、ぼん竄やりと空を見繻上げて待った。†",
+    ("それで烽もふたりは、ベンチにｍ會高ｺ奄し、しばらくそのまま、ぼんやりと空を見上げて待った。†",
     ""),
     # So the two of them also hung up on the bench, and then continued to sniff and looked up at the sky for a while, and waited.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -427,30 +427,30 @@ text_array = [
     # "..."†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「降迯らねえな…」†",
     ""),
     # "It's not going down..."
 
-    ("諱先輩はいつ烽もと変﨑わらぬ表﨣情で、ぼーっと空を見繻上げている。",
+    ("諱先輩はいつ烽もと変﨑わらぬ表﨣情で、ぼーっと空を見上げている。",
     ""),
     # Senpai, who is always at the same time, looks up at the sky in a blankly manner.
 
@@ -462,11 +462,11 @@ text_array = [
     ""),
     # If it's too stiff, it won't seem like it's going to fall apart.
 
-    ("待てば待つほど、降迯らなかったとき、諱先輩が受けるシ㏍ョック焜も蛯大きいだｂう。†",
+    ("待てば待つほど、降迯らなかったとき、諱先輩が受けるショック焜も大きいだう。†",
     ""),
     # The more you wait, the more you don't get off the ground, the more your senior's acceptance is.†
 
-    ("そこでオ激レは｢｢。",
+    ("そこでオレは｢｢。",
     ""),
     # So I said, ".
 
@@ -478,7 +478,7 @@ text_array = [
     ""),
     # B There are successes and failures.Relax
 
-    ("Ｃ	いい竄や、まだ待ってみよう。閨",
+    ("Ｃ	いいや、まだ待ってみよう。閨",
     ""),
     # C: It's a good idea, let's wait.Relax
 

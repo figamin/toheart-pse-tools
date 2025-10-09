@@ -42,7 +42,7 @@ text_array = [
     ""),
     # I called back at the bathtub,
 
-    ("「アタシ、知ってるｂモン！」",
+    ("「アタシ、知ってるモン！」",
     ""),
     # "I know B-mon!"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # What do you know?
 
-    ("いったい撃レミィは何のために、あんなことを聞いたのだｂうか。",
+    ("いったい撃レミィは何のために、あんなことを聞いたのだうか。",
     ""),
     # Why did Geki Remy hear such a thing?
 

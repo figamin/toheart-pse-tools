@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hey, wait!"
 
-    ("オ激レは背白から委員長を呼び止めた。",
+    ("オレは背白から委員長を呼び止めた。",
     ""),
     # I called out to the chairman from a disdain.
 
@@ -19,7 +19,7 @@ text_array = [
     # But, however.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("委員長はその呼びかけ烽も無許視して、歩いていく。†",
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # Heh, it's just a matter of being a shikato.
 
-    ("だったらこっち烽も、それ鰍相梠応に竄やらせて烽もらうぜ。",
+    ("だったらこっち烽も、それ鰍相梠応にやらせて烽もらうぜ。",
     ""),
     # If that's the case, I'll have him tamper with that and get him hot.
 
-    ("オ激レは２≠メート泣ルの翌距離をキープしつつ、委員長の繧後をつけていく。†",
+    ("オレは２≠メートルの翌距離をキープしつつ、委員長の繧後をつけていく。†",
     ""),
     # I kept the distance after 2≠mate crying, and followed the chairman after the meeting.†
 
-    ("「おいっ、いいんち蛯ょーっ」",
+    ("「おいっ、いいんちょーっ」",
     ""),
     # "Hey, slutty sluts."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Hey, yeah
 
-    ("ん・ち蛯ょーっ」",
+    ("ん・ちょーっ」",
     ""),
     # Hmm, slut."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "What? You can hear me, you have phlegm. If that's the case, you'll see me without permission, you have phlegm. My name is."
 
-    ("オ激レがそう言うと、委員長はこっちを見て、はぁ…と息を吐いた。",
+    ("オレがそう言うと、委員長はこっちを見て、はぁ…と息を吐いた。",
     ""),
     # When I said that, the chairman looked at me and sighed, "Ahhh..."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "I don't have to use it for a while, but since I'm talking to you, why don't you just say hello?"
 
-    ("「增わかった。じ痰ゃあ、さよなら」",
+    ("「わかった。じ痰ゃあ、さよなら」",
     ""),
     # "I understand. I'll say goodbye."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # I'm trying to go.†
 
-    ("「おい、ち蛯ょっと待てよ」",
+    ("「おい、ちょっと待てよ」",
     ""),
     # "Hey, wait a moment."
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # "What? Is there something still?"
 
-    ("「なんだ、そり痰ゃ。さよなら言竚やあいいって烽もんじ痰ゃねーだｂ。気搴持ちが蛯大切なんだよ」",
+    ("「なんだ、そり痰ゃ。さよなら言竚やあいいって烽もんじ痰ゃねーだ。気搴持ちが大切なんだよ」",
     ""),
     # "What, that's all, phlegm. Goodbye, it's okay, phlegm. B. Those who are so phlegm are important."
 
-    ("「気搴持ち？	なん竄や、気搴持ちって？」†",
+    ("「気搴持ち？	なんや、気搴持ちって？」†",
     ""),
     # "What are you trying to be? What are you trying to be? What are you trying to be??"
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # He abandoned this, and the chairman tried to go again.
 
-    ("いま、ち蛯ょっとだけ、オ激レに邪険にされる志保の気搴持ちが墲わかったような気がした。†",
+    ("いま、ちょっとだけ、オレに邪険にされる志保の気搴持ちが墲わかったような気がした。†",
     ""),
     # I felt like I had realized that Shiho's desire to be made to be rude by me.†
 
@@ -174,24 +174,24 @@ text_array = [
     ""),
     # "Hey, wait."
 
-    ("苦笑しながらオ激レは横に並んだ。†",
+    ("苦笑しながらオレは横に並んだ。†",
     ""),
     # With a wry smile, I lined up side by side.†
 
-    ("「驕馴齠れ馴齠れし繧ゅうせんといてって、この前熨も、その前熨も、言うた竄やｂ？」",
+    ("「驕馴齠れ馴齠れし繧ゅうせんといてって、この前熨も、その前熨も、言うたや？」",
     ""),
     # "You're so happy to be able to keep on getting used to it, and the front noshi, are you talking about the front noshi, or the front noshi?
 
-    ("「なんでそんなにオ激レを凾嫌うんだ？」",
+    ("「なんでそんなにオレを凾嫌うんだ？」",
     ""),
     # "Why do you hate me so much?"
 
-    ("「べつにあんたを凾嫌ってる墲わけ竄やない。ただ、つきまと墲われるんがうっとうしいだけ竄や」†",
+    ("「べつにあんたを凾嫌ってる墲わけやない。ただ、つきまと墲われるんがうっとうしいだけや」†",
     ""),
     # "It's not a silence that you hate me. But it's just annoying that you're being stalked."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("思寬わず立ち止まってしまった。†",

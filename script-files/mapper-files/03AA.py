@@ -2,11 +2,11 @@
 # Source file: 03AA.txt
 
 text_array = [
-    ("（智子	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｂ	いー竅や、まだまだ、もう少し！）閨（選択綜Ｂ	いー竅や、冝諦めねーぞ！	の続き）†",
+    ("（智子	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｂ	いーや、まだまだ、もう少し！）閨（選択綜Ｂ	いーや、冝諦めねーぞ！	の続き）†",
     ""),
     # (Tomoko's Scales Event Return Road LV2) (Choice Scales B, I'm a little more!) (Choice Scales B, I'm a little more!) (Continued from Choice Scales B, I'm a pity, I'm not going to give up!) †
 
-    ("いー竅や、あきらめねーぞ！",
+    ("いーや、あきらめねーぞ！",
     ""),
     # Well, I won't give up!
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # Once this is here, will you be able to back down?
 
-    ("もう少しなにかをつかむまで福練習だ。†",
+    ("もう少しなにかをつかむまで練習だ。†",
     ""),
     # We'll practice fortune until we get a little more grasp of something.†
 
-    ("何回か竄やってコツはつかめてきた。",
+    ("何回かやってコツはつかめてきた。",
     ""),
     # I've tampered it a few times and got the hang of it.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # = Early peaches.
 
-    ("そして、とにかく短い翌距離を魔走髑ること。",
+    ("そして、とにかく短い翌距離を魔走ること。",
     ""),
     # And then, just take a short distance to the next day to run.
 
-    ("だがそれ以外に烽も、きっとなにか速く魔走髑るための秘けつがあるに痰違いない。†",
+    ("だがそれ以外に烽も、きっとなにか速く魔走るための秘けつがあるに痰違いない。†",
     ""),
     # But other than that, there must be some secret to the fact that it is possible to run at a speedy speed.†
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # Slow down with each curve and it's a bit of a pain.
 
-    ("かといってフ泣ルス鴻ロット泣ルで突っ桙込んで、アウトに膨逍らんでからブ激レーキしてたんじ痰ゃ立ち繧上がりが遅すぎる。",
+    ("かといってフルス鴻ロットルで突っ桙込んで、アウトに膨逍らんでからブレーキしてたんじ痰ゃ立ち繧上がりが遅すぎる。",
     ""),
     # However, he thrusts into the air with a cry of tears, and then swells out, then he makes a thrust and rumbles violently, and his sputum rises too slowly.
 
-    ("それに、ジャャンプの繧上闖手な使い福方。†",
+    ("それに、ジャャンプの繧上闖手な使い方。†",
     ""),
     # Plus, the lucky way to use Jump's Ring Technique.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # With these various techniques intertwined, it's hard to believe that the time 2'05"00 will be played out for the first time.
 
-    ("それにして烽も、実際に取闔り組んで墲わかったが、いくら福練習したとはいえ、志保のрヤツにあんなタイムが出せるなんておかしい。",
+    ("それにして烽も、実際に取闔り組んで墲わかったが、いくら練習したとはいえ、志保のрヤツにあんなタイムが出せるなんておかしい。",
     ""),
     # And I actually got involved with Hou and found out, but no matter how much he practiced for good, it's strange that Shiho's guy could give such a time.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Ha, I see.
 
-    ("さてはあんに痰ゃｂう、誰かにコーチを鰍頼み竄やがったな。",
+    ("さてはあんに痰ゃう、誰かにコーチを鰍頼みやがったな。",
     ""),
     # Well, that's all, I've asked someone to be the coach.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # As Shiho's guy continued to get more serious.
 
-    ("もしかして、あいつ、オ激レを奄負かすことに生きがいを感じてきたとか？†",
+    ("もしかして、あいつ、オレを奄負かすことに生きがいを感じてきたとか？†",
     ""),
     # Maybe he has felt a sense of purpose in defeating me?†
 
@@ -98,19 +98,19 @@ text_array = [
     ""),
     # In fact, Shiho is a typical powerful figure when it comes to things that are not particularly down-to-date.
 
-    ("少しはそのパ純ワーのベクト泣ルをスポーツとか勉強とかにｌけり痰ゃいーものを。",
+    ("少しはそのパ純ワーのベクトルをスポーツとか勉強とかにｌけり痰ゃいーものを。",
     ""),
     # I've got a little bit of a pain in my hands for sports and studying.
 
-    ("まあ、オ激レが言うセ潟リフじ痰ゃないな。†",
+    ("まあ、オレが言うセリフじ痰ゃないな。†",
     ""),
     # Well, I'm talking about the Serbs and Riff, which I'm talking about.†
 
-    ("とにかく、こうなり痰ゃ烽もう、オ激レ焜も繧後には退けないぜ。",
+    ("とにかく、こうなり痰ゃ烽もう、オレ焜も繧後には退けないぜ。",
     ""),
     # Anyway, I can't resist this kind of thing, even if it's so hot, and even my super-response is over.
 
-    ("なんとして烽も、志保を超えて竄やる。†",
+    ("なんとして烽も、志保を超えてやる。†",
     ""),
     # Anyway, even Hot will tamper with over Shiho.†
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # That's right.
 
-    ("ここはひとまず繧上闖手いрヤツがプ激レイするのを待って、そいつからテクを垂盗み取獅う。",
+    ("ここはひとまず繧上闖手いрヤツがプレイするのを待って、そいつからテクを垂盗み取獅う。",
     ""),
     # For now, wait for the guy who's really good at him to stolen his technique, then stole the technique from him.
 
@@ -166,15 +166,15 @@ text_array = [
     ""),
     # It's gotten completely dark outside.†
 
-    ("オ激レは、ずーっとギャャ宴ラ潟リーを続けたが、そうそう繧上闖手いрヤツは現鼬れなかった。",
+    ("オレは、ずーっとギャャラリーを続けたが、そうそう繧上闖手いрヤツは現鼬れなかった。",
     ""),
     # My geira continued to play Gyabanquet Lala-Lee for the rest of my life, but the one who was so good at it didn't show up.
 
-    ("プ激レイしていくのは蛯大葬オ激レと同じ撃レベ泣ルか、それ以下。",
+    ("プレイしていくのは大葬オレと同じ撃レベルか、それ以下。",
     ""),
     # The ones who are making a big stomping are either the same level of attack as the Ebi Funeral, or below.
 
-    ("しか烽もカップ泣ルが多い。",
+    ("しか烽もカップルが多い。",
     ""),
     # However, there are a lot of couples crying.
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # =If it were a normal Iezono, it would be totally time for dinner.†
 
-    ("な、なんだか途端に、いま竄やってることがむなしくなってきた。",
+    ("な、なんだか途端に、いまやってることがむなしくなってきた。",
     ""),
     # Well, at a moment, it's becoming more and more unavoidable that I'm currently tampering with.
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # A I'll come back now.Relax
 
-    ("Ｂ	いー竅や、なにかをつかむまでは！閨",
+    ("Ｂ	いーや、なにかをつかむまでは！閨",
     ""),
     # B: It's nice, until you grab something!Relax
 

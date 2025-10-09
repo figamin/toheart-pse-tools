@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (A I like it.)†
 
-    ("「オ激レ焜も、掾理女緒ち痰ゃんのこと、好きだ」",
+    ("「オレ焜も、掾理女緒ち痰ゃんのこと、好きだ」",
     ""),
     # "I also like the slutty girl Ochisou-chan."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("蛛大きな瞳が、オ激レを見すえる。",
+    ("蛛大きな瞳が、オレを見すえる。",
     ""),
     # His big eyes looked at me.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # However, he immediately stroking with a mischievous laugh.*
 
-    ("「髪の毛おｂしたら、誰だか墲わかんなくなっち痰ゃうけど、それで烽もいいの？」",
+    ("「髪の毛おしたら、誰だか墲わかんなくなっち痰ゃうけど、それで烽もいいの？」",
     ""),
     # "If I b my hair, I'm not sure who I'm going to get, but is it okay for hot water?"
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # "Yes, ""
 
-    ("そんな揩理女緒ち痰ゃんに、オ激レは手を伸ばす。†",
+    ("そんな揩理女緒ち痰ゃんに、オレは手を伸ばす。†",
     ""),
     # I reached out to her to see her.†
 
-    ("「竅やっぱ、オ激レは、こっちの揩理女緒ち痰ゃんじ痰ゃないと墲わかんねーな」",
+    ("「やっぱ、オレは、こっちの揩理女緒ち痰ゃんじ痰ゃないと墲わかんねーな」",
     ""),
     # "After all, I don't know if I have to have this smug woman."
 
-    ("自分のセ潟リフに少し照齒れながら、オ激レは、掾理女緒ち痰ゃんの洗い髪を軽く握驤る。",
+    ("自分のセリフに少し照齒れながら、オレは、掾理女緒ち痰ゃんの洗い髪を軽く握驤る。",
     ""),
     # With a slight glare at my own Segata riff, I lightly squeezed the washing hair of the shogi-san.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Kuh...?"
 
-    ("「ち痰ゃんと乾かしてこなき痰ゃ、浴風邪ひくぜ。タオ泣ルで拭いただけだｂ？」",
+    ("「ち痰ゃんと乾かしてこなき痰ゃ、浴風邪ひくぜ。タオルで拭いただけだ？」",
     ""),
     # "If you don't dry it out, you'll catch a cold in the bath. Did you just wipe it off with a cry of a toau?"
 
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # Without trying to unlock her hand, she nodded her head.†
 
-    ("「ド宴ライсヤー使寬わなくたって、お家に帰驪るまでに勝闖手に乾いち痰ゃうから…」",
+    ("「ドライсヤー使寬わなくたって、お家に帰驪るまでに勝闖手に乾いち痰ゃうから…」",
     ""),
     # "Even if you don't use the banquet, you'll be able to dry out your hands before you can go home..."
 
-    ("そして、この雰囲気とセ潟リフのちぐはぐさに小さく笑う。†",
+    ("そして、この雰囲気とセリフのちぐはぐさに小さく笑う。†",
     ""),
     # And I laughed a little at this atmosphere and the inconsistency of the Segata riff.†
 
-    ("「あはは。い竄やだな、п私。いつ烽も、そんなことばっかり言ってる。せっかくくんが、こんなに近くにいるのにね…」",
+    ("「あはは。いやだな、п私。いつ烽も、そんなことばっかり言ってる。せっかくくんが、こんなに近くにいるのにね…」",
     ""),
     # "Hahaha. I don't want to mess up, me. I've always said that. Even though you're so close, you're still so close..."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "Yeah…"†
 
-    ("そしてオ激レの目を見て、静かに目をつむる。",
+    ("そしてオレの目を見て、静かに目をつむる。",
     ""),
     # Then I looked at my eyes and quietly closed my eyes.
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # "Yeah…"†
 
-    ("オ激レ焜もなんとなく、軽く目をつむる。",
+    ("オレ焜もなんとなく、軽く目をつむる。",
     ""),
     # I somehow managed to close my eyes slightly.
 
-    ("淡い暗闇のｒ、オ激レたちの唇が静かに触齔れ№合った。†",
+    ("淡い暗闇のｒ、オレたちの唇が静かに触齔れ№合った。†",
     ""),
     # The pale darkness of the darkness, my fierce lips quietly touched each other and met.†
 
@@ -198,19 +198,19 @@ text_array = [
     ""),
     # "My smoking tickles too..."
 
-    ("「し蛯ょーがねえなあ…」",
+    ("「しょーがねえなあ…」",
     ""),
     # "There's no shii..."
 
-    ("そしてオ激レたちは、たったいままで触齔れていた鰍相闡手の唇を見て、おたがいに微笑む。†",
+    ("そしてオレたちは、たったいままで触齔れていた鰍相闡手の唇を見て、おたがいに微笑む。†",
     ""),
     # Then we both looked at the lips of our sarcasm-related hands that had been touching them up until now, and smiled at us.†
 
-    ("吹告注白されてから、ずいぶん桙時間のかかった返抹事だったけど、けっき蛯ょく、これはゴールなんかじ痰ゃなくスタートなんだと、なんとなく感じた。†",
+    ("吹告注白されてから、ずいぶん桙時間のかかった返抹事だったけど、けっきょく、これはゴールなんかじ痰ゃなくスタートなんだと、なんとなく感じた。†",
     ""),
     # It took quite a while since the announcement was made, but I somehow felt that this was a start without any stimulation.†
 
-    ("「じ痰ゃあ、增弟たちが待ってるから、п私、帰驪るね…」",
+    ("「じ痰ゃあ、弟たちが待ってるから、п私、帰驪るね…」",
     ""),
     # "Ahhh, my little brothers are waiting, so I'm coming back..."
 
@@ -254,11 +254,11 @@ text_array = [
     ""),
     # "Whoa, I wish there was no phlegm, isn't it?"
 
-    ("「だから、ア泣ルバイト焜も少しずつ減迪らしていけるし、少しは家にいられると思うんだ。掃恆除とか烽もきちんとできると思うし」",
+    ("「だから、アルバイト焜も少しずつ減迪らしていけるし、少しは家にいられると思うんだ。掃恆除とか烽もきちんとできると思うし」",
     ""),
     # "That's why I can gradually reduce the number of people who have been crying and have a little bit of stay at home. I think I can do proper cleaning and removing the food."
 
-    ("「そり痰ゃいいな。それに、良太に烽も、掾理女緒ち痰ゃんのこといｂいｂ聞いてみてーしさ」£",
+    ("「そり痰ゃいいな。それに、良太に烽も、掾理女緒ち痰ゃんのこといい聞いてみてーしさ」£",
     ""),
     # "I'd love to hear you phlegm. Also, I'd like to ask Ryota about Jochi's BB."
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # "That's it, phlegm, next time! I'll be waiting!"
 
-    ("掾理女緒ち痰ゃんはオ激レの手を、ぎ繧ゅうっと強くにぎった。",
+    ("掾理女緒ち痰ゃんはオレの手を、ぎ繧ゅうっと強くにぎった。",
     ""),
     # The woman's hand squeezed hard and hard.
 
@@ -282,11 +282,11 @@ text_array = [
     ""),
     # Hahaha, he's the highest laughing face ever.†
 
-    ("そして手を振って小柾走闡りにｋけていった。",
+    ("そして手を振って小柾走闡りに駆けていった。",
     ""),
     # Then he waved and drove towards the small run.
 
-    ("少しだけ乾いた髪の毛が、流齬れ艪ゆくｐ面のように、浴風に揺齬れていた。◯",
+    ("少しだけ乾いた髪の毛が、流齬れゆくｐ面のように、浴風に揺齬れていた。◯",
     ""),
     # Her slightly dry hair was shaking with the bathing breeze, like a p-plane that was trembling in tandem.◯
 

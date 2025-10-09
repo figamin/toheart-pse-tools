@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Fourth Lion Day, 15th day, Tuesday.
 
-    ("ち蛯ょっと寝坊した。",
+    ("ちょっと寝坊した。",
     ""),
     # I overslept a little.
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # Ping Pong.
 
-    ("「增わーってるよ！」",
+    ("「わーってるよ！」",
     ""),
     # "I'm gonna cum!"
 
-    ("オ激レはベッドから跳ね起きた。†",
+    ("オレはベッドから跳ね起きた。†",
     ""),
     # I jumped out of bed.†
 
-    ("家から公園まで、磨走ってきた。",
+    ("家から公園まで、走ってきた。",
     ""),
     # I've been scouring from my house to the park.
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Heh, heh. Please, don't oversleep."
 
-    ("「悪かったな。オ激レだって、したくてしてる墲わけじ痰ゃねー諱よ」†",
+    ("「悪かったな。オレだって、したくてしてる墲わけじ痰ゃねー諱よ」†",
     ""),
     # "That's bad. Even my supernatural romance is something I want to do, so I have no idea what to do."
 
-    ("「もうち蛯ょっと…",
+    ("「もうちょっと…",
     ""),
     # "I'm going to have a peek...
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Slowly, the Demon Sword..."
 
-    ("「ったく。だったら待たなき痰ゃいいのによ。今纃後はオ激レをおいていけ」",
+    ("「ったく。だったら待たなき痰ゃいいのによ。今纃後はオレをおいていけ」",
     ""),
     # "That's a shame. If that's the case, you don't have to wait for phlegm. Leave me a bitch after this time."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "What are you watching?"
 
-    ("「い竄や、べつに…」†",
+    ("「いや、べつに…」†",
     ""),
     # "Tampering, it's all..."
 

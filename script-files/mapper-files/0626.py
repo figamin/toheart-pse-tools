@@ -2,15 +2,15 @@
 # Source file: 0626.txt
 
 text_array = [
-    ("（マ泣ルチ	エンディング）閨（Ｂ	戟レミィを優譌先させる）†",
+    ("（マルチ	エンディング）閨（Ｂ	戟レミィを優譌先させる）†",
     ""),
     # (Makyuruchi ending) (B makes the Witch Remy stand out)†
 
-    ("戟レミィのほうが先に約束しちまったからな、マ泣ルチには悪いが、正直に言って断窒う。†",
+    ("戟レミィのほうが先に約束しちまったからな、マルチには悪いが、正直に言って断窒う。†",
     ""),
     # It's bad for Makruchi, but to be honest, I refuse.†
 
-    ("「すまん、マ泣ルチ」",
+    ("「すまん、マルチ」",
     ""),
     # "Sorry, I'm crying."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「＠いっつったあとでなんだけど、諱よく考えたら、オ激レ、今厓日は人とｉう約束してんだ」",
+    ("「＠いっつったあとでなんだけど、諱よく考えたら、オレ、今厓日は人とｉう約束してんだ」",
     ""),
     # "@After all, it's only after that, but when I think about it, I'm really making a promise with someone on the day of the day."
 
@@ -42,16 +42,16 @@ text_array = [
     ""),
     # "Don't worry about that."
 
-    ("マ泣ルチは明髢るくそう言ってくれた。†",
+    ("マルチは明髢るくそう言ってくれた。†",
     ""),
     # McDonald said this intently.†
 
-    ("「じ痰ゃあ、マ泣ルチとは、また次の機級にってことでな」",
+    ("「じ痰ゃあ、マルチとは、また次の機級にってことでな」",
     ""),
     # "I mean, I'm going to be the next level of my cry."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「どうした？」",
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # It's a phlegm.
 
-    ("オ激レは受話嶸器を置いた。†",
+    ("オレは受話嶸器を置いた。†",
     ""),
     # I placed the receiver.†
 

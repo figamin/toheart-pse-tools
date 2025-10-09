@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko's Scales Event: Leaving from school LV4) (4 Shizuki) (occurs if you are looking at a likeability level of 8) (occupying the school (outside the school) †
 
-    ("校蜊門を出たとこｂで、委員長を見つけた。",
+    ("校蜊門を出たとこで、委員長を見つけた。",
     ""),
     # I found the chairman when I left the school gates.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # It feels like I'm waiting for someone.†
 
-    ("「諱よっ、いいんち蛯ょ」",
+    ("「諱よっ、いいんちょ」",
     ""),
     # "As you, my name is, slut."
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # I can't believe the classmates that the chairman is waiting for...†
 
-    ("「なあ、もしかして、オ激レを待っててくれたのか？」",
+    ("「なあ、もしかして、オレを待っててくれたのか？」",
     ""),
     # "Hey, maybe you waited for me to be extremely excited?"
 
-    ("ニンマ潟リ笑って聞くと、",
+    ("ニンマリ笑って聞くと、",
     ""),
     # When I listened to it,
 
-    ("「じ蛯ょ、轣冗談言甯わんといて」",
+    ("「じょ、轣冗談言甯わんといて」",
     ""),
     # "Just, please don't let the jokes go."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # With that said, the chairman tries to go.
 
-    ("Ａ	待てよ、いっし蛯ょに帰汲うぜ。閨",
+    ("Ａ	待てよ、いっしょに帰汲うぜ。閨",
     ""),
     # A Wait, I'll return to the ephemeral.Relax
 

@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Game Remy, Scales Event, Outside of School 1) (Choose a Choice)†
 
-    ("志保はオ激レに嘘の言葉を教えて、縺後でバカにしようと企んでるのか烽もしれない。",
+    ("志保はオレに嘘の言葉を教えて、縺後でバカにしようと企んでるのか烽もしれない。",
     ""),
     # I'm sure Shiho is planning to teach me some lie and make fun of me afterwards.
 
-    ("オ激レは撃レミィに志保の使った怪しげな言葉の意味をたずねてみようと、声をかけることにした。†",
+    ("オレは撃レミィに志保の使った怪しげな言葉の意味をたずねてみようと、声をかけることにした。†",
     ""),
     # Ogekire decided to call out to Ekiremi to ask the meaning of the suspicious words that Shiho used.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Apparently it got through.†
 
-    ("そこで、オ激レは｢｢。",
+    ("そこで、オレは｢｢。",
     ""),
     # So I said, ".
 

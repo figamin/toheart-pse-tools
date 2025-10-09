@@ -10,7 +10,7 @@ text_array = [
     ""),
     # A miserable night.
 
-    ("潤居間でテ激レビを見ていると、すごい映怏像が飛び桙込んできた。†",
+    ("潤居間でテレビを見ていると、すごい映怏像が飛び桙込んできた。†",
     ""),
     # As I was watching the TV drama in the Jun living room, a huge image of Eiji jumped in.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # From above the sky, the next woman, who had no choice but to dance to the sky, slowly descended to Yulai.†
 
-    ("羽毛のような軽竚やかさで降闕り立った彼濫女たちは、それぞれ竄冷たいビ泣ルのｒへと入っていく。",
+    ("羽毛のような軽竚やかさで降闕り立った彼濫女たちは、それぞれ冷たいビルのｒへと入っていく。",
     ""),
     # The women, who are raised up with feather-like light fragility, each enters the cold crying r.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # People burst into laughter.
 
-    ("竅やがて画面に『ク泣ルスガ純ワＨＭシ潟リーズ』の文囎字。†",
+    ("やがて画面に『クルスガ純ワＨＭシリーズ』の文囎字。†",
     ""),
     # Eventually, the screen depicts the text "Kusansuruga Pure Wa HM Shigata Leeds".†
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # Home <This is a commercial for Maid Korobo.
 
-    ("＝メーカー間のシェアヱいがモ激しい業界だけに、イ＜メージ夋戦略に烽も烽金がかかってるぜ。",
+    ("＝メーカー間のシェアヱいがモしい業界だけに、イ＜メージ夋戦略に烽も烽金がかかってるぜ。",
     ""),
     # =As an industry with a strong sense of share among manufacturers, the image-making strategy is also exploiting money.
 
-    ("いまのＣＭだけで、いったいいくらくらいかかってるんだｂうか。",
+    ("いまのＣＭだけで、いったいいくらくらいかかってるんだうか。",
     ""),
     # I wonder how much it's going to cost just for the current commercials.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # I don't even get a gift of my feelings.†
 
-    ("いずれ、こんなふうなＣＭで、あのマ泣ルチ焜も登齠場するんだｂうか。",
+    ("いずれ、こんなふうなＣＭで、あのマルチ焜も登齠場するんだうか。",
     ""),
     # Maybe someday, that Makkuruchi-san will also be on a social networking ground in a commercial like this.
 

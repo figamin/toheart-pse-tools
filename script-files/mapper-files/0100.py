@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Choo"
 
-    ("教室の入闢り福口から、あかりが竄やってきた。",
+    ("教室の入闢り口から、あかりがやってきた。",
     ""),
     # Akari came from Fukuguchi as she entered the classroom.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "What is it, you two, what are you talking about?"
 
-    ("「この前の冾日曜坥日に、轣千絵株さんに誘嵭われて、♂史ち痰ゃんの福練習誌試㍽合の桙応㊨援に行ったんだ」",
+    ("「この前の冾日曜坥日に、轣千絵株さんに誘嵭われて、♂史ち痰ゃんの練習誌試㍽合の桙応㊨援に行ったんだ」",
     ""),
     # "The other day, on Sunday, I was invited by Zhen Chie-e-san to help with the test for the Lucky Practice Journal of Makoto Shichi-Sho-yan."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # He has always loved his younger brother Ishi, and he was so attached to something that he was so attached to him.
 
-    ("とくにいまは暇を揩持て余してるだｂうから、氏試㍽合の桙応㊨援に行くの烽も納得だ。",
+    ("とくにいまは暇を揩持て余してるだうから、氏試㍽合の桙応㊨援に行くの烽も納得だ。",
     ""),
     # Especially now I have too much free time, so it's understandable that I'm going to support my troupe for a test.
 
-    ("あかりは、それにつき№合寘わされたんだｂう。†",
+    ("あかりは、それにつき№合寘わされたんだう。†",
     ""),
     # Akari was forced to join the ball due to that.†
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "I called to invite Chishonan, but it didn't connect at all..."
 
-    ("「まあ、そういうこと烽もあるだｂう」†",
+    ("「まあ、そういうこと烽もあるだう」†",
     ""),
     # "Well, there's something like that too."
 
-    ("「♂史ち痰ゃん、氏試㍽合じ痰ゃ蛯大相咽竃ｾったんだよ。得点の半分はｉ史ち痰ゃんのシャートだったんだから。うちのク宴ラスの翌女の子たち烽も桙応㊨援にｗてて、すっごく宸騒いでた」",
+    ("「♂史ち痰ゃん、氏試㍽合じ痰ゃ大相咽竃ｾったんだよ。得点の半分はｉ史ち痰ゃんのシャートだったんだから。うちのクラスの翌女の子たち烽も桙応㊨援にｗてて、すっごく宸騒いでた」",
     ""),
     # "Mr. Shichi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-chi-
 
@@ -98,27 +98,27 @@ text_array = [
     ""),
     # "law"†
 
-    ("「い竄や、あの獅試㍽合は、諱先輩たちのアシストが良かったんだよ。",
+    ("「いや、あの獅試㍽合は、諱先輩たちのアシストが良かったんだよ。",
     ""),
     # "In the stomp, that Lion Exam, the assists from seniors of their deities were great.
 
-    ("やっぱりサッカーはチームプ激レイだし」",
+    ("やっぱりサッカーはチームプレイだし」",
     ""),
     # After all, soccer is a huge team."
 
-    ("「またまた〜、♂史ち痰ゃんったら、すぐそう竄やってけんそんするんだから」†",
+    ("「またまた〜、♂史ち痰ゃんったら、すぐそうやってけんそんするんだから」†",
     ""),
     # "Again, if you're in the middle of a sphin, you'll quickly tamper with that."
 
-    ("「い竄や、ホントにそうなんだよ。それより烽もあかりち痰ゃん。なにか用があってｗたんじ痰ゃないの？」",
+    ("「いや、ホントにそうなんだよ。それより烽もあかりち痰ゃん。なにか用があってｗたんじ痰ゃないの？」",
     ""),
     # "It's really true, that's true. More than that, the hot water is also a light sputum. I have something to do lol. Is it okay to have sputum?"
 
-    ("「あっ、うん、ち蛯ょっとち痰ゃんに」†",
+    ("「あっ、うん、ちょっとち痰ゃんに」†",
     ""),
     # "Ah, yes, it's a bit of a sputum."
 
-    ("「なんだ。オ激レに用か？」",
+    ("「なんだ。オレに用か？」",
     ""),
     # "What? Is it for you?"
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # "What? What?"
 
-    ("「いっし蛯ょにテスト勉強しようと思って。ほら、一学匇期の冾期槙末テストのとき烽もいっし蛯ょに勉強したでし蛯ょ？」",
+    ("「いっしょにテスト勉強しようと思って。ほら、一学匇期の冾期槙末テストのとき烽もいっしょに勉強したでしょ？」",
     ""),
     # "I was thinking of studying for the test for the nibs. Come on, during the first year of the first year of the nibs, I also studied for the nibs, right?"
 
-    ("「なんだよ、また突然。いっし蛯ょに竄やるっつって烽も、もう明坙日は本番なんだぜ？」†",
+    ("「なんだよ、また突然。いっしょにやるっつって烽も、もう明坙日は本番なんだぜ？」†",
     ""),
     # "What's that, all of a sudden. You're going to tamper with the slut, but the day of the Ming Shun is already going to be the real thing?"
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Yeah. So I'm going to check the final check in preparation for the Ming Shun Day. I'll check the ones I don't know and get the number right."†
 
-    ("あかりといっし蛯ょに勉強か。",
+    ("あかりといっしょに勉強か。",
     ""),
     # Should I study with Akari?
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # That's right.
 
-    ("Ａ	諱よし、じ痰ゃあいっし蛯ょに竄やるか。閨",
+    ("Ａ	諱よし、じ痰ゃあいっしょにやるか。閨",
     ""),
     # A: Okay, will you tamper with the phlegm?Relax
 

@@ -10,15 +10,15 @@ text_array = [
     ""),
     # Keen corn khan corn.
 
-    ("４桙時間目の授業が終尞わり、竅やっとのことで汲昼休み。†",
+    ("４桙時間目の授業が終尞わり、やっとのことで汲昼休み。†",
     ""),
     # The lessons at the fourth katakana period were over, and it was finally time for lunch break.†
 
-    ("いつ烽もならチャャイムと同椏時にダッシャしてパンヱ奪バト泣ルにエント潟リーするとこｂだが、今厓日は痰違う。",
+    ("いつ烽もならチャャイムと同椏時にダッシャしてパンヱ奪バトルにエントリーするとこだが、今厓日は痰違う。",
     ""),
     # Whenever you have a hot spring, you'll be able to hit the same pace as Chaim and end up crying in the battle to steal the pan, but now the phlegm is different.
 
-    ("オ激レはぐったりと机にうつ嘯伏して、あかりの奄ランチデ潟リバ潟リーを待った。",
+    ("オレはぐったりと机にうつ嘯伏して、あかりの奄ランチデリバリーを待った。",
     ""),
     # My guts lie down on my desk and waited for Akari's Amana Ranch Degata Ribagata Lee.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # = Quick lol.†
 
-    ("そのとき廊下から、スポーツバッグを手にしたあかりが竄やってきた。",
+    ("そのとき廊下から、スポーツバッグを手にしたあかりがやってきた。",
     ""),
     # At that moment, Akari came from the hallway, holding a sports bag.
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Choo"
 
-    ("「諱よーし、きたきた。待ってたぞ、あかり。は竄やく食岦わせてくれー」",
+    ("「諱よーし、きたきた。待ってたぞ、あかり。はやく食岦わせてくれー」",
     ""),
     # "All right, I'm here. I've been waiting, Akari. Please give me a quick tamper."
 
-    ("「うん。で烽も、せっかくだから、どこか別のとこｂで食べない？」",
+    ("「うん。で烽も、せっかくだから、どこか別のとこで食べない？」",
     ""),
     # "Yes. And since we're going to have a chance, why not eat some other place B?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Where is it?"
 
-    ("いつ烽もならチャャイムと同椏時にダッシャしてパンヱ奪バト泣ルにエント潟リーするとこｂだが、今厓日は痰違う。",
+    ("いつ烽もならチャャイムと同椏時にダッシャしてパンヱ奪バトルにエントリーするとこだが、今厓日は痰違う。",
     ""),
     # Whenever you have a hot spring, you'll be able to hit the same pace as Chaim and end up crying in the battle to steal the pan, but now the phlegm is different.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # What are you doing? I'm coming soon lol.†
 
-    ("そのときスポーツバッグを手にし、あかりが席へと竄やってきた。",
+    ("そのときスポーツバッグを手にし、あかりが席へとやってきた。",
     ""),
     # At that moment, Akari picked up her sports bag and came into her seat.
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Choo"
 
-    ("「諱よーし、きたきた。待ってたぞ、あかり。は竄やく食岦わせてくれー」",
+    ("「諱よーし、きたきた。待ってたぞ、あかり。はやく食岦わせてくれー」",
     ""),
     # "All right, I'm here. I've been waiting, Akari. Please give me a quick tamper."
 
-    ("「うん。で烽も、せっかくだから、どこか別のとこｂで食べない？」",
+    ("「うん。で烽も、せっかくだから、どこか別のとこで食べない？」",
     ""),
     # "Yes. And since we're going to have a chance, why not eat some other place B?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Well, that's right.
 
-    ("教室でいっし蛯ょに食うなんて『いかに烽も』って感じだしな。",
+    ("教室でいっしょに食うなんて『いかに烽も』って感じだしな。",
     ""),
     # Eating a bunch of sluts in the classroom feels like, "How hot it is."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("あかりといっし蛯ょに屋繪上へと竄やってきた。",
+    ("あかりといっしょに屋繪上へとやってきた。",
     ""),
     # Akari and Isari came to the house.
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # The school's house has a solid fence, and is basically OK.
 
-    ("だから汲昼休みになると、＝メシを食いにｗ磯翌鰾ｂ竄ﾂらが汲結構いる。",
+    ("だから汲昼休みになると、＝メシを食いにｗ磯翌鰾ﾂらが汲結構いる。",
     ""),
     # So when I'm eating lunch, I eat the food lol Isozu's sardines and others are quite a bit of adorable.
 
-    ("オ激レたち烽もその一組だ。†",
+    ("オレたち烽もその一組だ。†",
     ""),
     # We're the ones that are all about the hottest people.†
 
@@ -134,19 +134,19 @@ text_array = [
     ""),
     # "Ou"†
 
-    ("オ激レたちはフェンスの手前にあるベンチにｍ會高ｺ奄した。",
+    ("オレたちはフェンスの手前にあるベンチにｍ會高ｺ奄した。",
     ""),
     # We went to Mkai Takako Amami on a bench just before the fence.
 
-    ("ａ高芻台の繧上に嘯建ってる学校だけに、屋繪上から見える景色は竄絶品だ。",
+    ("ａ高台の繧上に嘯建ってる学校だけに、屋繪上から見える景色は絶品だ。",
     ""),
     # As the school stands on the rumination platform, the view from above is exquisite.
 
-    ("見渡せば、金網のｌこうには、オ激レたちの生まれ育った町が広がっていた。",
+    ("見渡せば、金網のｌこうには、オレたちの生まれ育った町が広がっていた。",
     ""),
     # Looking over there, the wire mesh spread out the town where we were born and raised.
 
-    ("間瘧違いなく、このｂ高校最蜊大の名竃所だｂう。†",
+    ("間瘧違いなく、この高校最蜊大の名竃所だう。†",
     ""),
     # It's definitely the most famous place in B High School.†
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # Akari said as she opened the zipper on her sports bag.
 
-    ("£からふたつの袋と、おモ茶の入ったボト泣ルを取闔り出す。†",
+    ("£からふたつの袋と、おモ茶の入ったボトルを取闔り出す。†",
     ""),
     # From the £, I took out two bags and a slug containing Omo tea.†
 
@@ -174,15 +174,15 @@ text_array = [
     ""),
     # "Oh, san yuuu."
 
-    ("そのうちひとつの袋を受け取闔り、オ激レはｒの弁抹当箱を取闔り出した。",
+    ("そのうちひとつの袋を受け取闔り、オレはｒの弁抹当箱を取闔り出した。",
     ""),
     # After receiving one of the bags, I picked up the box of the bento box.
 
-    ("か墲わいいくまのイ宴ラストが描かれたファンシーな奄ランチボックスだった。",
+    ("か墲わいいくまのイラストが描かれたファンシーな奄ランチボックスだった。",
     ""),
     # It was a fancy Amami lunch box with the ending of the Kamawaii Bear's banquet.
 
-    ("オ激レのほうがあかりのより烽も１．５倍くらい蛯大きい。†",
+    ("オレのほうがあかりのより烽も１．５倍くらい大きい。†",
     ""),
     # My geek is about 1.5 times bigger than Akari's.†
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "You like Kaji Ai Henzaki and bears."
 
-    ("「えっ？	うん、可愛いでし蛯ょ？」",
+    ("「えっ？	うん、可愛いでしょ？」",
     ""),
     # "Huh? Yes, it's so cute, slut?"
 
-    ("「まあ、このイ宴ラストはな。で烽も熊なんてのはな、本末当はクサイし、凶暴だし、ちっと烽も可愛かねーんだぞ」",
+    ("「まあ、このイラストはな。で烽も熊なんてのはな、本末当はクサイし、凶暴だし、ちっと烽も可愛かねーんだぞ」",
     ""),
     # "Well, at the end of this banquet. And the fact that Hot and Bear are both mad and violent, and the Hot is also cute."
 
@@ -202,15 +202,15 @@ text_array = [
     ""),
     # "...I guess it's true, or maybe it's hot."
 
-    ("あかりはち蛯ょっと困った顔をする。†",
+    ("あかりはちょっと困った顔をする。†",
     ""),
     # Akari Hachie looks in awkward.†
 
-    ("「ま、いい竄や。それより≠メシ＜メシ」",
+    ("「ま、いいや。それより≠メシ＜メシ」",
     ""),
     # "Well, it's a bit of a mess. More than that, ≠ Meal < Meal."
 
-    ("オ激レは奄ランチボックスのふたを開けた。",
+    ("オレは奄ランチボックスのふたを開けた。",
     ""),
     # I opened the lid of my Amami lunch box.
 
@@ -218,11 +218,11 @@ text_array = [
     ""),
     # "Ohhh."
 
-    ("なるほど、たしかにオ激レの好きな食べ物を取闔りそｂえてある。",
+    ("なるほど、たしかにオレの好きな食べ物を取闔りそえてある。",
     ""),
     # I see, it's true that I have some foods that I love.
 
-    ("しか烽も、し蛯ょっち繧ゅう好物が変﨑わるオ激レの、最新データに薰基づいた奄ラインナップだ。†",
+    ("しか烽も、しょっち繧ゅう好物が変﨑わるオレの、最新データに薰基づいた奄ラインナップだ。†",
     ""),
     # However, the Amami lineup is based on the latest data, with my favorite foods being transformed into the latest information.†
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "As expected, you know, you have a lot of phlegm."
 
-    ("「うん。ち痰ゃん、朝とかに、諱よく好きな食べ物の話をしたりするでし蛯ょ？」",
+    ("「うん。ち痰ゃん、朝とかに、諱よく好きな食べ物の話をしたりするでしょ？」",
     ""),
     # "Yeah. In the mornings, I often talk about my favorite foods, right?"
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # """I've always learned so many good things, even though my test results aren't good."
 
-    ("「…うん、なんでだｂう？」",
+    ("「…うん、なんでだう？」",
     ""),
     # "...Yeah, why is that b?"
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # "I'm going to have some phlegm right away and get some hot water. I'm about to die from the moment before."
 
-    ("オ激レは箸を手に取闔り、カチカチ鳴逍らした。",
+    ("オレは箸を手に取闔り、カチカチ鳴逍らした。",
     ""),
     # I grabbed my chopsticks and squealed them.
 
@@ -306,7 +306,7 @@ text_array = [
     ""),
     # It was definitely tasty.
 
-    ("オ激レは福口ではうまいと言甯わずに、動かす箸のスピードと福口のスピードで表した。",
+    ("オレは口ではうまいと言甯わずに、動かす箸のスピードと口のスピードで表した。",
     ""),
     # I didn't say that I'm good at Fukuguchi, but instead expressed it using the speed of the chopsticks moving and the speed of Fukuguchi.
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # To be honest, Akari is good at studying.
 
-    ("母親が料摎理教室の先生を竄やっているから、テクニック的なこと烽もあるんだｂうが、なにより烽も、食べて烽もらうрヤツの好みを突くのがうまいんだと思う。",
+    ("母親が料摎理教室の先生をやっているから、テクニック的なこと烽もあるんだうが、なにより烽も、食べて烽もらうрヤツの好みを突くのがうまいんだと思う。",
     ""),
     # Since my mother is tampering with the teacher at the science class, there is also a technical aspect to it, but I think that most importantly, the hot water is good at exploring the taste of the ones who eat it and get it hot water.
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # With that in mind, Akari poured warm omo tea into a cup and handed it over.
 
-    ("ち蛯ょうどいいタイミングで喉をつまらせていたオ激レは、おモ茶を受け取っていっきに飲み干した。†",
+    ("ちょうどいいタイミングで喉をつまらせていたオレは、おモ茶を受け取っていっきに飲み干した。†",
     ""),
     # I was choking my throat at the right time, but I received the tea and drank it all at once.†
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # "Puuuu..."
 
-    ("「ほらあ、もっと艪ゆっくり食べないと…」",
+    ("「ほらあ、もっとゆっくり食べないと…」",
     ""),
     # "Hey, I have to eat more slowly..."
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # After that, I'll have some Omocha tea.
 
-    ("オ激レは、あかりがまだ半分熾も食い終尞わらないうちに、全泊部をたいらげた。†",
+    ("オレは、あかりがまだ半分熾も食い終尞わらないうちに、全泊部をたいらげた。†",
     ""),
     # Before Akari had finished eating half the eel, I fed all the night club.†
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "Heh..."
 
-    ("諱よう竄やく胃のほうが獅落ちｒいたぜ。",
+    ("諱ようやく胃のほうが獅落ちｒいたぜ。",
     ""),
     # My stomach fell more than I had heard.
 
@@ -402,11 +402,11 @@ text_array = [
     ""),
     # Satisfied, satisfied...†
 
-    ("体をぐったりとベンチの背熹もたれに預け、オ激レはうーんと両阯手を伸ばす。",
+    ("体をぐったりとベンチの背熹もたれに預け、オレはうーんと両手を伸ばす。",
     ""),
     # I limped my body down on the back of the bench, and my gut reached out to my arms.
 
-    ("だらしなく横た墲わるオ激レを見て、あかりはおかしそうに笑った。◯",
+    ("だらしなく横た墲わるオレを見て、あかりはおかしそうに笑った。◯",
     ""),
     # Akari laughed strangely as I saw her lying sloppy.◯
 

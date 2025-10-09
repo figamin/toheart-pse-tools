@@ -2,7 +2,7 @@
 # Source file: 0473.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（帰闍り道１	３／４固闌定）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（帰闍り道１	３／４固定）†",
     ""),
     # (Shiho Scales Event PS) (Return Road 1 3/4 fixed)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # It was when I walked in front of the station.
 
-    ("誰かが蛯大声で叫んでいる。†",
+    ("誰かが大声で叫んでいる。†",
     ""),
     # Someone is screaming ecstasy.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "The person over there!"
 
-    ("…オ激レじ痰ゃねえよな？†",
+    ("…オレじ痰ゃねえよな？†",
     ""),
     # ...I have to be really phlegmy, right?†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "This is there!"
 
-    ("げ、オ激レじ痰ゃねえか。",
+    ("げ、オレじ痰ゃねえか。",
     ""),
     # Geo has super phlegm.
 
-    ("慌てて声のする福方へ振關り返髟る。†",
+    ("慌てて声のする方へ振關り返髟る。†",
     ""),
     # I hurriedly cried back to the voice of Fukua.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "This one over here."
 
-    ("人混みのｌこうでぴ蛯ょんぴ蛯ょん飛び跳ねる、目立つピンクの制梵服が見えた。",
+    ("人混みのｌこうでぴょんぴょん飛び跳ねる、目立つピンクの制梵服が見えた。",
     ""),
     # I could see a prominent pink uniform jumping up and down in the crowd.
 
@@ -58,19 +58,19 @@ text_array = [
     ""),
     # ...There's phlegm, Shiho's phlegm.
 
-    ("こんな街樺で人のフ泣ルネーム叫び竄やがって、恥ずかしーだｂうが。",
+    ("こんな街樺で人のフルネーム叫びやがって、恥ずかしーだうが。",
     ""),
     # I'm embarrassed to see people crying and screaming names in this town.
 
-    ("オ激レは別人を浮装って、志保に近づいた。†",
+    ("オレは別人を浮装って、志保に近づいた。†",
     ""),
     # I pretended to be a different person and approached Shiho.†
 
-    ("「竅やー竅やー、」",
+    ("「やーやー、」",
     ""),
     # "Ah, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 
-    ("「おい、てめえ、オ激レに恥かかせんなよ」",
+    ("「おい、てめえ、オレに恥かかせんなよ」",
     ""),
     # "Hey, yeah, don't be embarrassed by me."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Shame? Why?"
 
-    ("「みんなに聞こえる声で、人のフ泣ルネームを呼ぶなっての」†",
+    ("「みんなに聞こえる声で、人のフルネームを呼ぶなっての」†",
     ""),
     # "You should call someone's name in a voice that everyone can hear."
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "Ah, what do you mean?... That's not good. No one knows about you."
 
-    ("「そー艨ゆー竅問阮題じ痰ゃなくってな」",
+    ("「そー艨ゆー問題じ痰ゃなくってな」",
     ""),
     # "That's right, the question is that there's no phlegm."
 
-    ("「じ痰ゃどういう竄問阮題鞫よ」",
+    ("「じ痰ゃどういう問題鞫よ」",
     ""),
     # "What kind of tampering is it?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "...Oh, how about that, how is it and hot is fine? What on earth is it?"
 
-    ("「あ、そうそう。忘齧れるとこｂだった墲わ」",
+    ("「あ、そうそう。忘齧れるとこだった墲わ」",
     ""),
     # "Ah, that's right. It was a place where I could forget."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "...Don't stop people by doing something so casually that you can forget"†
 
-    ("「いいじ痰ゃないのよ。ほら、′こうのアイスク潟リーム屋さんで新しい≠メニャーが出てるんだってさ」",
+    ("「いいじ痰ゃないのよ。ほら、′こうのアイスクリーム屋さんで新しい≠メニャーが出てるんだってさ」",
     ""),
     # "I don't have any phlegms. Come on, there's a new one that's out at Koko's Ice Cream Ream Shop."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # How much will I call you Hot?”
 
-    ("「それは烽もういい。で、アイスを食いに行くからオ激レにつき№合えってんだな？」",
+    ("「それは烽もういい。で、アイスを食いに行くからオレにつき№合えってんだな？」",
     ""),
     # "That's fine. So, I'm going to eat ice cream so I'm going to get some great deals and I'm going to get the best one?"
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

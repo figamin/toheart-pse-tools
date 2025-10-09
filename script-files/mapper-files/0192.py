@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "It's before the test, so I'm off now from the day."
 
-    ("「へえ。とこｂで、なんの話してたんだ？」",
+    ("「へえ。とこで、なんの話してたんだ？」",
     ""),
     # "Whoa. What were you talking about in b?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Yes. For example, when you order a great value fast food set, you can't help but calculate the total number of each item in your head and don't you think you'll get slurping?"
 
-    ("「するする。ほんの数十円ч割安ってだけで、本沫飲来ﾝたく烽もないはずのカフェオ激レとかを鰍頼んだりして」",
+    ("「するする。ほんの数十円ч割安ってだけで、本沫飲来ﾝたく烽もないはずのカフェオレとかを鰍頼んだりして」",
     ""),
     # "I'll do it. I'm just a few tens of yen cheaper, but I'm also ordering a café au rave, which I should have had no hot water."
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # Akari nodded.†
 
-    ("「そう竄やってち蛯ょっと得しただけで、すごく幸せになるよね」",
+    ("「そうやってちょっと得しただけで、すごく幸せになるよね」",
     ""),
     # "Just tampering with this, you'll be extremely happy just by getting it."
 
-    ("「まさに貧乏性って竄やつだよね」",
+    ("「まさに貧乏性ってやつだよね」",
     ""),
     # "Poverty is just a tampering thing, isn't it?"
 

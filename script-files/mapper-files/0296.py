@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri° Kaori, Scales, 2F, LV3)Seri (About n that rolled up and rolled)†
 
-    ("オ激レは、机のすみっこで丸まって転がっていたｎを広げて聞いた。",
+    ("オレは、机のすみっこで丸まって転がっていたｎを広げて聞いた。",
     ""),
     # I listened, spreading out the n, which was curled up and lying in the corner of my desk.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # The characters "yes" and "no" are interjected.
 
-    ("さらに『いｂは』の№順でひらがなが並ぶ。",
+    ("さらに『いは』の№順でひらがなが並ぶ。",
     ""),
     # Furthermore, hiragana are lined up in order of number 'Ibha'.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It is made of Japanese paper and looks quite old.†
 
-    ("「これ、コック潟リさんじ痰ゃねーの？」",
+    ("「これ、コックリさんじ痰ゃねーの？」",
     ""),
     # "Is this a cock-gatari-san so phlegm?"
 
@@ -38,31 +38,31 @@ text_array = [
     ""),
     # Senpai nodded with Ko-kun.
 
-    ("小学生のこｂ、諱よくク宴ラスの翌女の子たちが休み桙時間竓や冾放課繪後に盾ワイ純ワイ窿やってたよな。",
+    ("小学生のこ、諱よくクラスの翌女の子たちが休み桙時間竓や冾放課繪後に盾ワイ純ワイ窿やってたよな。",
     ""),
     # Elementary school student B, the girls who often went to the end of the holiday were off and they were doing silly after the school breaks and the school was sulking.
 
-    ("コック潟リさんという、キツネだったかなんだかのｗを呼び出して、お垂告げして烽もらおうという一妤種の占いゲームだ。†",
+    ("コックリさんという、キツネだったかなんだかのｗを呼び出して、お垂告げして烽もらおうという一妤種の占いゲームだ。†",
     ""),
     # It's a fortune-telling game called Kokugatari, where you can call out to someone who's a fox or something, and tell them to him and get him a hot topic.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え？	竅やってみますかって？	うーん…」",
+    ("「え？	やってみますかって？	うーん…」",
     ""),
     # "Huh? Would you like to give it a try? Hmm..."
 
-    ("磨当椏時は翌女子たちの行為を馬鹿にして見てたオ激レだが…。",
+    ("当椏時は翌女子たちの行為を馬鹿にして見てたオレだが…。",
     ""),
     # When I was mad at Mato, I was really crazy watching the girls' actions the next day...
 
-    ("「そうだな、竅やってみるか」",
+    ("「そうだな、やってみるか」",
     ""),
     # "Yes, shall we give it a try?"
 
-    ("諱先輩とだったら竄やってみたいよな。†",
+    ("諱先輩とだったらやってみたいよな。†",
     ""),
     # If it were you with your senior name, I would like to try tampering with you.†
 
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # It seems they will take this and ask questions.
 
-    ("小学校のこｂ、ク宴ラスの翌女子たちは五円玉なんかを使ってたけど、ここではこれを使うらしい。",
+    ("小学校のこ、クラスの翌女子たちは五円玉なんかを使ってたけど、ここではこれを使うらしい。",
     ""),
     # The girls from elementary school, the following day, were using five yen coins, but apparently they would use this here.
 
-    ("まあ、いｂんな竄やりかたがあるんだｂう。†",
+    ("まあ、いんなやりかたがあるんだう。†",
     ""),
     # Well, there's a way to tamper with it.†
 
-    ("諱先輩は、北喧東（つまり鬼蜍門の福方角）の汲窓を１０センチほど開けた。",
+    ("諱先輩は、北喧東（つまり鬼蜍門の方角）の汲窓を１０センチほど開けた。",
     ""),
     # Senpai opened the window in Kita-Hen-East (that is, the Fuku direction of the Ki-Ji-Gate) about 10 cm wide.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # The next breeze came in, and the dark curtains in the room shaking in shaking.†
 
-    ("ひととおり準備が終尞わると、オ激レと先輩は机をはさんでｌかい№合って座闕り、瘁例の三本のр割闃りばしを揩持って手を握った。",
+    ("ひととおり準備が終尞わると、オレと先輩は机をはさんでｌかい№合って座闕り、瘁例の三本のр割闃りばしを揩持って手を握った。",
     ""),
     # Once all the preparations were complete, my senior and I sat down at my desk, and held my hand with three slashes of twilight.
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # Senpai's hands were thin and smooth.†
 
-    ("オ激レは『さに墲わ』というコック潟リさんへの質竡問役、諱先輩は『みこ』役で、コック潟リさんは先輩にのりうつるらしい。",
+    ("オレは『さに墲わ』というコックリさんへの質竡問役、諱先輩は『みこ』役で、コックリさんは先輩にのりうつるらしい。",
     ""),
     # The role of the role of Kokugatari's "Sanitama" is to play the role of Kokugatari's quality, while the character Senior will play the role of Miko, and the character of Kokugatari will be playing the role of Kokugatari's senpai to his senior.
 
-    ("本沫は烽もうひとり記録係がいるらしいけど、はし蛯ょって烽もいいらしい。",
+    ("本沫は烽もうひとり記録係がいるらしいけど、はしょって烽もいいらしい。",
     ""),
     # Apparently there is another recorder for the Honpo, but it seems that the hot splash and hot splash are also good.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # And finally the ceremony began.†
 
-    ("「え〜っと、コック潟リさん、コック潟リさん、おいでくださいませ」",
+    ("「え〜っと、コックリさん、コックリさん、おいでくださいませ」",
     ""),
     # "Um, come on, Kokkatali-san, Kokkatali-san."
 
-    ("オ激レと先輩は祈闍りはじめた。",
+    ("オレと先輩は祈闍りはじめた。",
     ""),
     # My senior and I began to pray.
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # = Normally, even Hou could not really be a real deal, but as I watched the atmosphere of this club room and the public feelings of the extremely Shinbu Senpai Senpai, I couldn't help but feel that way.†
 
-    ("「コック潟リさん、コック潟リさん…」",
+    ("「コックリさん、コックリさん…」",
     ""),
     # "Kokkarari-san, Kokkarari-san..."
 
-    ("何度か竄やっていると…。†",
+    ("何度かやっていると…。†",
     ""),
     # After tampering with it several times...†
 
@@ -138,27 +138,27 @@ text_array = [
     ""),
     # Ahhhh...
 
-    ("突然拒窓から翌風が≠吹き桙込み、その瞬間、どう竄やら先輩の体のｒに、コック潟リさんが入ったらしかった。",
+    ("突然拒窓から翌風が≠吹き桙込み、その瞬間、どうやら先輩の体のｒに、コックリさんが入ったらしかった。",
     ""),
     # Suddenly, the next wind started blowing through the window, and at that moment, Kokugatari entered the senior's body.
 
-    ("その証衷拠に、諱先輩は手を動物の前脚のように折關り、ぴ蛯ょこぴ蛯ょこ竄やっている。",
+    ("その証衷拠に、諱先輩は手を動物の前脚のように折關り、ぴょこぴょこやっている。",
     ""),
     # As proof of this, Senpai Ikushi folds his hands like the front legs of an animal and tampers with them.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("まあ、たしかにキツネっぽいけど。†",
     ""),
     # Well, it certainly looks like a fox.†
 
-    ("「あのー…、コック潟リさんですか？」",
+    ("「あのー…、コックリさんですか？」",
     ""),
     # "Um... is it Kokkatari-san?"
 
-    ("オ激レがたずねると、",
+    ("オレがたずねると、",
     ""),
     # When I asked,
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # The trembling throbbing that had been holding began to move.
 
-    ("そして『はい』のとこｂで止まる。†",
+    ("そして『はい』のとこで止まる。†",
     ""),
     # Then it stops at "yes."†
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # It's a lie.†
 
-    ("そうい竄や、さっき先輩が、まずはどこからいらしたコック潟リ様かたずねてください、と言ってたな。",
+    ("そういや、さっき先輩が、まずはどこからいらしたコックリ様かたずねてください、と言ってたな。",
     ""),
     # Speaking of which, my senior said earlier, "Please ask me where did you come from?"
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # I'm fine with that.†
 
-    ("「コック潟リさんは、今厓日はどちらから？」",
+    ("「コックリさんは、今厓日はどちらから？」",
     ""),
     # "Where are you from Kokkatali-san now?"
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # G.
 
-    ("竅や。",
+    ("や。",
     ""),
     # It's a slut.
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # ingredient.†
 
-    ("「ぎ竄やぐ？	あ、ギャャグ？	サンパウ鴻ロってのはギャャグですか？」",
+    ("「ぎやぐ？	あ、ギャャグ？	サンパウ鴻ロってのはギャャグですか？」",
     ""),
     # "Gits? Ah, a gang? Is Sao Pau Ko Lotte's gag?"
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # yes.
 
-    ("「一発目からギャャグとは、おモ茶目なコック潟リさんですね」",
+    ("「一発目からギャャグとは、おモ茶目なコックリさんですね」",
     ""),
     # "From the first shot, Gyagu is a playful cock, Katali."
 
@@ -275,14 +275,14 @@ text_array = [
     # yes.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「あの、本末当に先輩が竄やってんじ痰ゃないの？」",
+    ("「あの、本末当に先輩がやってんじ痰ゃないの？」",
     ""),
     # "Um, isn't your senior just trying to tamper with the truth?"
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # yes.
 
-    ("「コック潟リさん？」",
+    ("「コックリさん？」",
     ""),
     # "Cook Gatali-san?"
 
@@ -374,11 +374,11 @@ text_array = [
     ""),
     # My name is.†
 
-    ("「はあ、なんか、気のいいコック潟リさんだな」",
+    ("「はあ、なんか、気のいいコックリさんだな」",
     ""),
     # "Ah, he's a nice cock, Katari."
 
-    ("まあ、質竡問しないことには始まらないので、オ激レは真武剣に考えた。",
+    ("まあ、質竡問しないことには始まらないので、オレは真武剣に考えた。",
     ""),
     # Well, it's not going to start without questioning the quality of the game, so I thought of it as Shinbuken.
 
@@ -386,12 +386,12 @@ text_array = [
     ""),
     # That's right...†
 
-    ("「諱よーし。こういうのはどうだｂ？	オ激レと先輩は恋人同士になれますか？」",
+    ("「諱よーし。こういうのはどうだ？	オレと先輩は恋人同士になれますか？」",
     ""),
     # "All right. How about this? Can I become a lover of my senior?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("п割闃りばしの動きが止まった。",
@@ -410,7 +410,7 @@ text_array = [
     ""),
     # …yes.†
 
-    ("オ激レは先輩を見た。",
+    ("オレは先輩を見た。",
     ""),
     # I saw my senior.
 
@@ -426,19 +426,19 @@ text_array = [
     ""),
     # Is it phlegm your senior moves?
 
-    ("い竄や、で烽も、もしそうだとして烽も、それはそれで嬉しいぞ。†",
+    ("いや、で烽も、もしそうだとして烽も、それはそれで嬉しいぞ。†",
     ""),
     # It's a mess, and even if it's the case, it's nice to see it.†
 
-    ("「…コック潟リさん、今厓日はどう烽もありがとうございました。これにてお帰闍りください」",
+    ("「…コックリさん、今厓日はどう烽もありがとうございました。これにてお帰闍りください」",
     ""),
     # "...Kokkatali-san, thank you so much for the day you've just got there. Please come back here."
 
-    ("そして、コック潟リさんは帰っていった。†",
+    ("そして、コックリさんは帰っていった。†",
     ""),
     # Then Kokkatali left.†
 
-    ("「諱先輩、さっきの本末当にコック潟リさんなの？」",
+    ("「諱先輩、さっきの本末当にコックリさんなの？」",
     ""),
     # "Is it Kokugatari-san the way you did the same thing earlier?"
 
@@ -446,7 +446,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「オ激レたち、恋人になれるって？	どう？」",
+    ("「オレたち、恋人になれるって？	どう？」",
     ""),
     # "We're going to be able to become lovers? What do you think?"
 
@@ -454,12 +454,12 @@ text_array = [
     ""),
     # "..."†
 
-    ("「なははは。コック潟リさんのお垂告げだしな、オ激レは信じようっと」",
+    ("「なははは。コックリさんのお垂告げだしな、オレは信じようっと」",
     ""),
     # "Hahaha. It's like a comment from Kokugatari, I'll trust you."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("諱先輩の頬が、ますます赤くなった。◯",

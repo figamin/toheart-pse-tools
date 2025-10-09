@@ -2,7 +2,7 @@
 # Source file: 0A69.txt
 
 text_array = [
-    ("（Ｂ	竅やめておく。）†",
+    ("（Ｂ	やめておく。）†",
     ""),
     # (B: Stop it.)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # When you study with such an enthusiastic face, it's difficult to say "I'm a real person."
 
-    ("ま、今厓日は声をかけるのは竄やめとこう。◯",
+    ("ま、今厓日は声をかけるのはやめとこう。◯",
     ""),
     # Well, I'll stop talking to you on the day.◯
 

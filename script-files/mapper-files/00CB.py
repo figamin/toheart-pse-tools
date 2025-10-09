@@ -22,11 +22,11 @@ text_array = [
     ""),
     # From there, there's nothing to be heated.†
 
-    ("家にいて烽もし蛯ょうがないので、ぶらぶらと出かけることにした。",
+    ("家にいて烽もしょうがないので、ぶらぶらと出かけることにした。",
     ""),
     # I was at home and didn't have a hot spring, so I decided to go strolling around.
 
-    ("なにをする墲わけで烽もないが、行ってみれば、竅やることがあるか烽もしれない。†",
+    ("なにをする墲わけで烽もないが、行ってみれば、やることがあるか烽もしれない。†",
     ""),
     # There's no need to do anything about it, but when I go there, I don't know if there's anything I'll do or something.†
 

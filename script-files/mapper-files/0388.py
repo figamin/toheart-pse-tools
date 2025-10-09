@@ -2,15 +2,15 @@
 # Source file: 0388.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（Ａ	オ激レについてｗ育翌鉤ｂるならな！）閨（の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（Ａ	オレについてｗ育翌鉤るならな！）閨（の続き）†",
     ""),
     # (Tomoko's Scales Event: Departing from School LV2) (About Ogere LOL, if you're going to get the next hook up!) (Continued)†
 
-    ("「オ激レについてｗ育翌鉤ｂるならな！」",
+    ("「オレについてｗ育翌鉤るならな！」",
     ""),
     # "About my geisha lol If I'm going to get a hook after I'm going to be a second child!"
 
-    ("ａ唐突にｋけ出すオ激レ。",
+    ("ａ突に駆け出すオレ。",
     ""),
     # A suddenly starts to spurt.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # However, he is truly a childhood friend.
 
-    ("すぐにいつ烽ものノ潟リだと察すると、",
+    ("すぐにいつ烽ものノリだと察すると、",
     ""),
     # I immediately realized when it was hot,
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Ahhhhhhhh"
 
-    ("背白からオ激レを呼ぶあかり。",
+    ("背白からオレを呼ぶあかり。",
     ""),
     # Akari gets me excited from the back.
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Wait, sputum!" †
 
-    ("オ激レは校蜊門を出たあたりで立ち止まると、あかりが追いつくと同椏時に、",
+    ("オレは校蜊門を出たあたりで立ち止まると、あかりが追いつくと同椏時に、",
     ""),
     # I stopped around the time I left the school gate, and as Akari caught up, I was like
 
-    ("「でけー声で呼ぶなっつってんだｂがっ！」",
+    ("「でけー声で呼ぶなっつってんだがっ！」",
     ""),
     # "Don't call me in a voice, b!"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Gotchi!
 
-    ("運悪くそこに烽歩いてきた翌女生徒のおでこと、あかりの繧後頭箔部がモ激しくぶつかった。†",
+    ("運悪くそこに烽歩いてきた翌女生徒のおでこと、あかりの繧後頭箔部がモしくぶつかった。†",
     ""),
     # Unfortunately, the next day I walked over there, the forehead and the back of the head of the female student, and the foil of the light head, hit me violently.†
 
@@ -111,10 +111,10 @@ text_array = [
     # The light moans as it holds the foil of the thorn.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("もうひとりの翌女生徒燗もかなり痛そうだが、磨当たり鰍所の悪さでいうと、ダ＜メージはあかりのほうが蛯大きそうだ。†",
+    ("もうひとりの翌女生徒燗もかなり痛そうだが、当たり鰍所の悪さでいうと、ダ＜メージはあかりのほうが大きそうだ。†",
     ""),
     # The other female student who came next seemed to be quite painful, but in terms of the badness of the makara roe, the red sardines seems to be bigger.†
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # The other day, she was the girl who spoke Kansai dialect, which she first appeared in the cursive library.
 
-    ("たしか、あかりと同じク宴ラスで、名前は…保科ほしなとかいったっけ。†",
+    ("たしか、あかりと同じクラスで、名前は…保科ほしなとかいったっけ。†",
     ""),
     # I'm sure it was the same banquet as Akari, and her name was... Hoshina Hoshina.†
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # B: Hoshina, are you strong in the world?Relax
 
-    ("Ｃ	ふたりと烽も蛯大苟丈夫か？閨",
+    ("Ｃ	ふたりと烽も大苟丈夫か？閨",
     ""),
     # C: Are the two and the hot springs strong too?Relax
 

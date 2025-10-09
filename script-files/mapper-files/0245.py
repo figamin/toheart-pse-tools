@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The 5th gaze time is closed.
 
-    ("めったに通ったりしないク宴ラブハウス前で、ばったりとｗ栖瑞謳先輩にｉった。",
+    ("めったに通ったりしないクラブハウス前で、ばったりとｗ栖瑞謳先輩にｉった。",
     ""),
     # In front of the love house where I rarely go to, I ran into lol Suzumi-san.
 
@@ -19,18 +19,18 @@ text_array = [
     # "I'll give you my name" ◯
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「え、こんにちはって？	おう、こんち墲わ。こんなとこでなに竄やってんの？	まだ冾放課繪後じ痰ゃないぜ？」†",
+    ("「え、こんにちはって？	おう、こんち墲わ。こんなとこでなにやってんの？	まだ冾放課繪後じ痰ゃないぜ？」†",
     ""),
     # "Hello? Oh, hello. What are you doing about this? You still have to sputum after the school is over?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「ネコにエサ窿やってたって？	…ネコって、この前のクソ…い竄や、普黒ネコか。",
+    ("「ネコにエサ窿やってたって？	…ネコって、この前のクソ…いや、普黒ネコか。",
     ""),
     # "You said they were feeding cats? ...Cats are the shit...the other day, the tampering, or the plain black cat.
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # The uncute cat approached the senior's foot noshi and rubbed her body down as if to be pampered.
 
-    ("すっかりなついて竄やがる。†",
+    ("すっかりなついてやがる。†",
     ""),
     # He's completely attached to me and tampered with it.†
 
-    ("ス潟リス潟リ…。",
+    ("スリスリ…。",
     ""),
     # Sugata Risugata Ri...
 
@@ -75,14 +75,14 @@ text_array = [
     # "But, senior innocent."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「そう竄やってるとその浮黒ネコ、なんだか先輩の使いｂ魔って感じだよな、ははは」†",
+    ("「そうやってるとその浮黒ネコ、なんだか先輩の使い魔って感じだよな、ははは」†",
     ""),
     # "When I tamper with that, that floating black cat feels like a senior's messenger, hahaha."
 
-    ("オ激レが冗談半分でそう言ったときだ。",
+    ("オレが冗談半分でそう言ったときだ。",
     ""),
     # That's when I said that half a joke.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # With the foot of my senior, the uncute floating black cat was like a human,
 
-    ("｢｢に竄やり、",
+    ("｢｢にやり、",
     ""),
     # "Tamper against it,
 

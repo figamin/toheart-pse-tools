@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 4 of the battle to fight the scales) (Continued from Selection C: The distance is - Hai)†
 
-    ("遠莱距離嵭戦はｂ高剄等なテクニックを要する。",
+    ("遠莱距離嵭戦は高剄等なテクニックを要する。",
     ""),
     # The battle for the Torai distance requires techniques such as high-speed b.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # But that's what Aya∴Ka is aiming for.
 
-    ("多分オ激レがそう考えて、接近寀戦を挑むのを誘ってるに痰違いない。",
+    ("多分オレがそう考えて、接近寀戦を挑むのを誘ってるに痰違いない。",
     ""),
     # I'm sure my fierce thought that way and invited me to take on a close fight.
 
-    ("增わざ墲わざ罠にハマ驛るつ烽もりはない。†",
+    ("わざ墲わざ罠にハマ驛るつ烽もりはない。†",
     ""),
     # There is no need to fall into traps on purpose.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Shah!
 
-    ("綾∴香は唐遠莱距離からジャャブを打つが、オ激レは繧後撃に退いてそれをか墲わす。",
+    ("綾∴香は遠莱距離からジャャブを打つが、オレは繧後撃に退いてそれをか墲わす。",
     ""),
     # Aya∴Qing attacks Jayabu from Tang Yuanrai distance, but after that, Igret retreats to attack and spurs it off.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # In the pure footwork, the hot water is also several steps above the Aya∴Ka.
 
-    ("本沫蒲リング繝上なら、すぐに追いつめられるとこｂだが、幸いいまはその心配はない。†",
+    ("本沫蒲リング繝上なら、すぐに追いつめられるとこだが、幸いいまはその心配はない。†",
     ""),
     # If it's a genuine kama ring, you'll be cornered quickly, but Kouima doesn't have to worry about that.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Aya∴Ka insteps.
 
-    ("一瞬の間にオ激レの目の前に現鼬れる。",
+    ("一瞬の間にオレの目の前に現鼬れる。",
     ""),
     # In a moment, I was shown in front of my eyes.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Closed war.
 
-    ("望むとこｂだ！†",
+    ("望むとこだ！†",
     ""),
     # It's b where you want it!†
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # Spam!
 
-    ("メ激しい打ち№合い！",
+    ("メしい打ち№合い！",
     ""),
     # A fierce match!
 
-    ("だが一箞方的にオ激レが打ち奄負けている。",
+    ("だが一箞方的にオレが打ち奄負けている。",
     ""),
     # However, I'm losing to Amazement in a bit of a sudden.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # avoid.
 
-    ("オ激レ焜も同じことをするが、それで烽も綾∴香のほうが確実に",
+    ("オレ焜も同じことをするが、それで烽も綾∴香のほうが確実に",
     ""),
     # My geisha does the same thing, but it's definitely more true that Kou and Aya∴Ka are
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # It's a great day.†
 
-    ("だが、オ激レは一発箔齠れさえすればいい。",
+    ("だが、オレは一発箔齠れさえすればいい。",
     ""),
     # However, I just have to do it with just one shot.
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # Only the big guys are sure to avoid them.†
 
-    ("技術の差はあるにしｂ、同じ人間だ。",
+    ("技術の差はあるにし、同じ人間だ。",
     ""),
     # There are differences in technology, but they are the same people.
 
@@ -214,11 +214,11 @@ text_array = [
     ""),
     # It's often said that attacks and M-shots are the biggest mirageous defensive.
 
-    ("バ宴ランスが崩れて、攻ｍ撃ができない。†",
+    ("バランスが崩れて、攻ｍ撃ができない。†",
     ""),
     # The banquet lance collapses and you cannot attack or attack.†
 
-    ("いつの間にかオ激レの足が止まってる。",
+    ("いつの間にかオレの足が止まってる。",
     ""),
     # Before I knew it, my legs had stopped.
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # Splaaaaahhhh!
 
-    ("その瞬間、綾∴香の右スト激レートが、オ激レの顔面をとらえた。†",
+    ("その瞬間、綾∴香の右ストレートが、オレの顔面をとらえた。†",
     ""),
     # At that moment, Aya∴Ka's intense right rating caught my head in my face.†
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # Splaaaaah!
 
-    ("コンビネーシ㏍ョンの三発がク潟リーンヒット。",
+    ("コンビネーションの三発がクリーンヒット。",
     ""),
     # Combination Sydong's three hits hit Kugata Lean.
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # Damn….
 
-    ("竅やられた。",
+    ("やられた。",
     ""),
     # I got hit with it.
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # "Well, somehow..."
 
-    ("オ激レは頭を振關りながら体を起こした。†",
+    ("オレは頭を振關りながら体を起こした。†",
     ""),
     # My head shook my head and stood up.†
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # "The judgment is correct, and even if you're not sure what to do, you'll have to be phlegm..."
 
-    ("「あとは打ち奄負けないよう、さらなる技術を身につけまし蛯ょう」",
+    ("「あとは打ち奄負けないよう、さらなる技術を身につけましょう」",
     ""),
     # "The rest is to acquire more skills so that we don't lose to Amami."
 

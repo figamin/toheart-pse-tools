@@ -2,7 +2,7 @@
 # Source file: 0411.txt
 
 text_array = [
-    ("（志保	ノベ泣ルシーン）閨（選択綜	いいけど）†",
+    ("（志保	ノベルシーン）閨（選択綜	いいけど）†",
     ""),
     # (Shiho's novel crying scene) (Sho is fine though)†
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "It's really good. Who's going?"
 
-    ("「とりあえずあかりは…、いないみたいね。あかりにはあたしが声かけとくけど、♂史はダ＜メだｂうし、あとは墲わかんない墲わ…。３人だけか烽もね」†",
+    ("「とりあえずあかりは…、いないみたいね。あかりにはあたしが声かけとくけど、♂史はダ＜メだうし、あとは墲わかんない墲わ…。３人だけか烽もね」†",
     ""),
     # "At the time being, it seems like there's no Akari. I'll call out to Akari, but Masochi is a daddy b, and the rest is a bastard... or even a bastard."
 
-    ("「へっ、少ない福方が嬉しいんだｂ」",
+    ("「へっ、少ない方が嬉しいんだ」",
     ""),
     # "Heh, I'm happy with the lesser lucky b."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Chaiim rings and the lessons on the day are over.
 
-    ("このあとは志保たちとカ宴ラオケだ。",
+    ("このあとは志保たちとカラオケだ。",
     ""),
     # After this, we'll be having a banquet with Shiho and the others.
 
-    ("オ激レは机の繧上に唐鞄を冾放阨り出して待つことにした。†",
+    ("オレは机の繧上に鞄を冾放阨り出して待つことにした。†",
     ""),
     # I decided to put out a bag of my bag on the table and waited.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Choo"
 
-    ("あかりがオ激レの席にｗた。",
+    ("あかりがオレの席にｗた。",
     ""),
     # Akari went to my seat lol.
 
@@ -78,19 +78,19 @@ text_array = [
     ""),
     # "Hehe, that's right."
 
-    ("オ激レとあかりで無駄話を竄やってると、",
+    ("オレとあかりで無駄話をやってると、",
     ""),
     # When I'm a hardcore guy and Akari tampering with useless stories,
 
-    ("「竅やあ竄やあ、お待たせ〜」",
+    ("「やあやあ、お待たせ〜」",
     ""),
     # "Ah, hey, please keep me waiting."
 
-    ("志保が竄やってきた。",
+    ("志保がやってきた。",
     ""),
     # Shiho has come to tamper with it.
 
-    ("「竅やっときたか」",
+    ("「やっときたか」",
     ""),
     # "Did you get it?"
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "It's a hit" ◯
 
-    ("結局、商店街でついつい寄闃り道してしまい、いつ烽ものカ宴ラオケボックスへ竄やってきたこｂには、冝日燗も沈みかけていた。†",
+    ("結局、商店街でついつい寄闃り道してしまい、いつ烽ものカラオケボックスへやってきたこには、冝日燗も沈みかけていた。†",
     ""),
     # In the end, he ended up visiting the shopping district, and when he had come to the hot banquet box, the sun was almost sinking.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "What happens when we gather?"
 
-    ("「もちｂん、料燉金のр割引謌よ。歌えば歌うほど得するシステム諠よね〜」",
+    ("「もちん、料燉金のр割引謌よ。歌えば歌うほど得するシステム諠よね〜」",
     ""),
     # "Mochib, it's a discounted price on money. The more you sing, the more you get, the more you get it."
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # "You're not worth it. It's a system where people like me get lost more and more."
 
-    ("志保の鰍リサイタ泣ルが始まった。",
+    ("志保の鰍リサイタルが始まった。",
     ""),
     # Shiho's roe-saita crying began.
 
-    ("オ激レたち烽も歌うには歌うが、量が痰違う。",
+    ("オレたち烽も歌うには歌うが、量が痰違う。",
     ""),
     # I also sing to sing, but the amount of phlegm is different.
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("「志保って、竅やっぱり歌濶手になるのかな」",
+    ("「志保って、やっぱり歌濶手になるのかな」",
     ""),
     # "I wonder if Shiho will become a kasho player after all."
 
-    ("「さあな。あいつは気分屋だから、明坙日には別の将女考えてるだｂ」",
+    ("「さあな。あいつは気分屋だから、明坙日には別の将女考えてるだ」",
     ""),
     # "Now. He's a moody guy, so on Ming Shun's day I'm thinking of another owner."
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "I see, the hot spring too..."
 
-    ("オ激レたちはこっそり微笑み№合った。†",
+    ("オレたちはこっそり微笑み№合った。†",
     ""),
     # We all secretly smiled and met.†
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Telephone phone"
 
-    ("「いいからいちいちマイク通して艪ゆーな」",
+    ("「いいからいちいちマイク通してゆーな」",
     ""),
     # "It's fine, just pass the microphone and squeal."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # Even the astonishing guy, Hou, sang, couldn't answer the phone.
 
-    ("オ激レはマイクをとって、曲の残闔りを適俣当に流した。†",
+    ("オレはマイクをとって、曲の残闔りを適俣当に流した。†",
     ""),
     # My geire took the microphone and played the rest of the song to Tomomata.†
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「ち蛯ょこーっと急用欄っち痰ゃってさぁ。あと２桙時間半はあるけど、あとよｂしく！	あ、お烽金はあたしが出しとくね」",
+    ("「ちょこーっと急用欄っち痰ゃってさぁ。あと２桙時間半はあるけど、あとよしく！	あ、お烽金はあたしが出しとくね」",
     ""),
     # "The urgent section is sputum. I have two and a half more frames, but I'll be fine! Oh, I'll give you the hot money."
 
@@ -254,11 +254,11 @@ text_array = [
     ""),
     # "Oh, hey...! I'm sorry, I have no phlegm, so we'll have to hold two frames together!"
 
-    ("言ったとこｂで烽もう遅い。",
+    ("言ったとこで烽もう遅い。",
     ""),
     # It's too late to say that b.
 
-    ("オ激レとあかりは顔を見㈹合寘わせた。†",
+    ("オレとあかりは顔を見㈹合寘わせた。†",
     ""),
     # I and Akari looked at their faces and made them join together.†
 
@@ -310,15 +310,15 @@ text_array = [
     ""),
     # 'Kouu also looks surprised.†
 
-    ("志保はすぐさまｋけ寄ってきて、",
+    ("志保はすぐさま駆け寄ってきて、",
     ""),
     # Shiho immediately came over,
 
-    ("「ち蛯ょっとち蛯ょっと！	あんたたち、なんで烽もう出てくんのよ！」",
+    ("「ちょっとちょっと！	あんたたち、なんで烽もう出てくんのよ！」",
     ""),
     # "And now, silly! Why are you guys already leaving?"
 
-    ("「なんでって…、ふたりだけじ痰ゃ盛關り繧上がんないだｂ」",
+    ("「なんでって…、ふたりだけじ痰ゃ盛關り繧上がんないだ」",
     ""),
     # "Why...they're the only ones who have phlegms are so good that they're not going to get any more b."
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # "What's that bothering you?"
 
-    ("「っとにあんたたちは人が墲わざ墲わざお膳立てして竄やってるのに、どーしてそうなのよっ！」",
+    ("「っとにあんたたちは人が墲わざ墲わざお膳立てしてやってるのに、どーしてそうなのよっ！」",
     ""),
     # "You guys are trying to set up and tamper with it, so what's that about?"
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # I don't really understand why, but Shiho puts it up with the old curtain of the great Ukiken.
 
-    ("「なんなの！？	あんたたち一生そう竄やってるつ烽もり！？	いーかげん人の苦労燔も考えなさいよっ！」",
+    ("「なんなの！？	あんたたち一生そうやってるつ烽もり！？	いーかげん人の苦労燔も考えなさいよっ！」",
     ""),
     # "What is it?! You guys have been doing this forever!? Think about the hardships of people who are bastards!"
 
@@ -350,11 +350,11 @@ text_array = [
     ""),
     # "That's annoying! If I could say it, I'd say it a long time ago!
 
-    ("もー頭にｗた墲わ！	死ぬまで竄やってなさい！	バイバイッ！！」",
+    ("もー頭にｗた墲わ！	死ぬまでやってなさい！	バイバイッ！！」",
     ""),
     # It's a lmao in my head!Tamper until you die!Bye bye!!”
 
-    ("一息にそこまで言うと、志保は背をｌけて一目散にｋけ出して行った。†",
+    ("一息にそこまで言うと、志保は背をｌけて一目散に駆け出して行った。†",
     ""),
     # After giving that much, Shiho leaned back and leaned forward.†
 
@@ -366,7 +366,7 @@ text_array = [
     ""),
     # What's going on?
 
-    ("あかりに聞こうと、オ激レは振關り返った。†",
+    ("あかりに聞こうと、オレは振關り返った。†",
     ""),
     # I called back to ask Akari.†
 
@@ -383,14 +383,14 @@ text_array = [
     # "What will you do after chasing?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("今度はなに烽も言甯わない。†",
     ""),
     # This time, nothing can be said about the hot topic.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

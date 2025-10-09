@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (April Lion Day 20th Day) (Men's Day) (♂ History Place)†
 
-    ("竅やっぱ、驕夜遅くに翌女の子のうちに電話するのは竄問阮題があるだｂう。",
+    ("やっぱ、驕夜遅くに翌女の子のうちに電話するのは問題があるだう。",
     ""),
     # After all, calling the girl the next day late at night is a question of the question.
 
@@ -19,10 +19,10 @@ text_array = [
     # Popapi...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Oh, Bingo, it's Masochist herself.†
 
-    ("「オ激レ、」",
+    ("「オレ、」",
     ""),
     # "I'm super excited."
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # "Actually..." †
 
-    ("竅やっぱりｉ史は鰍頼阯りになるぜ。",
+    ("やっぱりｉ史は鰍頼りになるぜ。",
     ""),
     # After all, I-Hisashi will become a roe lantern.
 
-    ("チャャンネ泣ルは…これでよし、と。",
+    ("チャャンネルは…これでよし、と。",
     ""),
     # Channe's crying...this is fine.
 
-    ("（オ激レ焜内箔部	♂史	信叶頼度＋１）◯",
+    ("（オレ焜内箔部	♂史	信叶頼度＋１）◯",
     ""),
     # (My inner foil section, ♂ History, Shinkana Reliability +1)◯
 

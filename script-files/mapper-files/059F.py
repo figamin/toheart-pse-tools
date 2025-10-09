@@ -2,11 +2,11 @@
 # Source file: 059F.txt
 
 text_array = [
-    ("（葵	回秤数イベント１２）閨（氏月・＄ク宴ラブに行くを３回カウントすると発生）閨（かつ、回秤数イベント５を見ている）†",
+    ("（葵	回秤数イベント１２）閨（氏月・＄クラブに行くを３回カウントすると発生）閨（かつ、回秤数イベント５を見ている）†",
     ""),
     # (Aoi, the balance event 12) (occurs when you count three times the time you go to the month/$Kbanquet Love) (also looking at the balance event 5) †
 
-    ("諱よーし、そんじ痰ゃあ、ク宴ラブに行くか。†",
+    ("諱よーし、そんじ痰ゃあ、クラブに行くか。†",
     ""),
     # Okay, so let's go to the banquet love.†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I went to the shrine, but there was no sign of Aoi Chisho-chan.
 
-    ("どうしたんだｂう？†",
+    ("どうしたんだう？†",
     ""),
     # What's wrong?†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # I accidentally forgot about it.
 
-    ("氏月曜とｐ曜は、ク宴ラブのない冾日だった。",
+    ("氏月曜とｐ曜は、クラブのない冾日だった。",
     ""),
     # Mr. Monday and P.Y. were days without love for the banquet.
 
-    ("何回間瘧違えり痰ゃ気が済むんだ、オ激レは！†",
+    ("何回間瘧違えり痰ゃ気が済むんだ、オレは！†",
     ""),
     # How many times have you ever felt a bit different, I'm so happy!†
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # His voice was a voice that was not too different, but Aoi Chisho-ya-san.†
 
-    ("「どうなさったんですか？	今厓日はク宴ラブはお休みの冾日ですよ」",
+    ("「どうなさったんですか？	今厓日はクラブはお休みの冾日ですよ」",
     ""),
     # "What happened? Now, the day of the banquet love is a day off."
 
-    ("「い竄やあ、習慣になっててさ、諱よく間瘧違えてｗち痰ゃうんだよ。それはそうと葵ち痰ゃんは？	ジムの冾日じ痰ゃないのか？」†",
+    ("「いやあ、習慣になっててさ、諱よく間瘧違えてｗち痰ゃうんだよ。それはそうと葵ち痰ゃんは？	ジムの冾日じ痰ゃないのか？」†",
     ""),
     # "I've become a habit, so I often get the impression that I've been wrong lol. That's right, what about Aoi Chisho-chan? Isn't it phlegm on the gym's schedule?" †
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "The current day is when the time for the fire is slower than the fire. Since I'm going to have the chance, I'm always looking forward to the fire, so I thought I'd do some fire with the fire cleanup here."
 
-    ("「おっ、だったら、ち蛯ょうどいい竄や。オ激レ焜も手伝うよ」†",
+    ("「おっ、だったら、ちょうどいいや。オレ焜も手伝うよ」†",
     ""),
     # "Oh, then, I'll help out too." †
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Huh, is that okay?"
 
-    ("「なに言ってんだ。オ激レだってク宴ラブの一員なんだからさ。なにより烽も、葵ち痰ゃんといっし蛯ょに掃恆除がしたいんだよ」",
+    ("「なに言ってんだ。オレだってクラブの一員なんだからさ。なにより烽も、葵ち痰ゃんといっしょに掃恆除がしたいんだよ」",
     ""),
     # "What are you talking about? Even my ecstatic is a part of the banquet love. Above all, I want to wipe out Aoi Chisho-chan and scavenge."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Isaac Senpai..."
 
-    ("「ほら、オ激レに烽も一㊧枚ぞうきん貸してくれよ」",
+    ("「ほら、オレに烽も一㊧枚ぞうきん貸してくれよ」",
     ""),
     # "Look, please lend me a photo of me."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Under the blue sky, the two swept the interior of the shrine with a broom and scrubed the shrine.
 
-    ("艨御圏益がありますように…、と、しっかり下心を抱きつつ、オ激レは葵ち痰ゃんといっし蛯ょに掃恆除に繧励んだ。†",
+    ("艨御圏益がありますように…、と、しっかり下心を抱きつつ、オレは葵ち痰ゃんといっしょに掃恆除に繧励んだ。†",
     ""),
     # I hope that there will be some benefits to the people... and while firmly embracing ulterior motives, I worked hard to clean up and remove Aoi Chishonan.†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "I wonder if they'll make a wish come true as a thank you."
 
-    ("「諱先輩、いっし蛯ょにお願いしまし蛯ょうか？」",
+    ("「諱先輩、いっしょにお願いしましょうか？」",
     ""),
     # "I asked Senpai, I'd like to ask you to join us, is it a episode?"
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # The two of them put their hands together and wished to be a magician.†
 
-    ("オ激レの願い魔事はというと｢｢。",
+    ("オレの願い魔事はというと｢｢。",
     ""),
     # My wish for magic is ".
 
-    ("Ａ	葵ち痰ゃんと蛯大接近できますように。閨",
+    ("Ａ	葵ち痰ゃんと大接近できますように。閨",
     ""),
     # A: I hope we can get close to Aoi Chisho-chan.Relax
 

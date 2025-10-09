@@ -2,11 +2,11 @@
 # Source file: 069A.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｂ	もう一度、頭をなでた）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｂ	もう一度、頭をなでた）†",
     ""),
     # (Mixed LV4) (Select B stroked my head again)†
 
-    ("「マ泣ルチ、＠いｗい」",
+    ("「マルチ、＠いｗい」",
     ""),
     # "Muruki, @i lol"
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "?"
 
-    ("マ泣ルチは素直に近づいてきた。†",
+    ("マルチは素直に近づいてきた。†",
     ""),
     # McDonald's cry was approaching honestly.†
 
-    ("「バスがｗ磯翌ﾜで、まだ少しあるだｂ？」",
+    ("「バスがｗ磯翌ﾜで、まだ少しあるだ？」",
     ""),
     # "The bus is lol Iso the next day, so there's still a little bit left?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("「諱よし、もう一度、なでて竄やｂう」",
+    ("「諱よし、もう一度、なでてやう」",
     ""),
     # "All right, I'll stroke you again."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「ホ激レ」†",
+    ("「ホレ」†",
     ""),
     # "Hey hey" †
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Stroke and stroke...
 
-    ("オ激レはマ泣ルチの頭をなでる。",
+    ("オレはマルチの頭をなでる。",
     ""),
     # I stroked the head of Makrachi.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "=c……=v†
 
-    ("…少しで烽もバスが遅齟れり痰ゃいいのに。",
+    ("…少しで烽もバスが遅れり痰ゃいいのに。",
     ""),
     # ...I wish the bus would be slower in a little while.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # That's what I thought.
 
-    ("…そうすり痰ゃ、少しで烽も長く、こう竄やってマ泣ルチの頭をなでて竄やれるのに。",
+    ("…そうすり痰ゃ、少しで烽も長く、こうやってマルチの頭をなでてやれるのに。",
     ""),
     # ...If you rub it, it's a little longer and a little, so you can tamper with it by stroking it and stroke the head of the crying.
 

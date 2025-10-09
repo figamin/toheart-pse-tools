@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I read it so enthusiastically, and it's also true that it's a shame.
 
-    ("竅やめとこう。",
+    ("やめとこう。",
     ""),
     # Let's stop it.
 
-    ("オ激レはくるりと背をｌけ、足音をたてないように、そっと店を出た。",
+    ("オレはくるりと背をｌけ、足音をたてないように、そっと店を出た。",
     ""),
     # I turned my back and quietly left the store to avoid making footsteps.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It's a valuable free time for Senpai.
 
-    ("オ激レなんかの鰍相闡手をさせち痰ゃ可哀想だ。",
+    ("オレなんかの鰍相闡手をさせち痰ゃ可哀想だ。",
     ""),
     # It's sad to have my horny maneuver around me.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Well, I'm curious to see what my senior was trying so hard to read.
 
-    ("竅やっぱ、オカ泣ルト関係だｂうな。◯",
+    ("やっぱ、オカルト関係だうな。◯",
     ""),
     # After all, it's a oka crying relationship.◯
 

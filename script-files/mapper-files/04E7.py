@@ -2,15 +2,15 @@
 # Source file: 04E7.txt
 
 text_array = [
-    ("（志保	好感度イベントＰＳ）閨（選択綜	竅やなこった）†",
+    ("（志保	好感度イベントＰＳ）閨（選択綜	やなこった）†",
     ""),
     # (Shiho Likeability Event PS) (Selection Sou Yanakota)†
 
-    ("「竅やなこった。ひとりで帰ってｂ」",
+    ("「やなこった。ひとりで帰って」",
     ""),
     # "I'm not that bad. Go home alone b."
 
-    ("「ち蛯ょっと、なに？	あんた、あたしのこと凾嫌いになったの！？」",
+    ("「ちょっと、なに？	あんた、あたしのこと凾嫌いになったの！？」",
     ""),
     # "What? You've come to hate me, huh?!"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What, you can't find it?"
 
-    ("あきらめたふうだったので、オ激レは志保を置いてさっさと烽歩き出した。◯",
+    ("あきらめたふうだったので、オレは志保を置いてさっさと烽歩き出した。◯",
     ""),
     # He seemed to have given up, so I left Shiho behind and quickly started walking around.◯
 

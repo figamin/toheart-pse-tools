@@ -2,15 +2,15 @@
 # Source file: 068F.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（ＣＧマ泣ルチ掃恆除）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（ＣＧマルチ掃恆除）†",
     ""),
     # (Marrying Luchi Scales Event 2F LV3) (CGMarrying Luchi Scale Scale Scale)†
 
-    ("廊下でマ泣ルチを見かけた。",
+    ("廊下でマルチを見かけた。",
     ""),
     # I saw Ruchi in the hallway.
 
-    ("今厓日燗もまた、両阯手にｂモップを揩持って掃恆除している。",
+    ("今厓日燗もまた、両手にモップを揩持って掃恆除している。",
     ""),
     # Right now, the sunken is also sweeping away a b-mop in the two snouts.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Even though it's a Koh robot, I'm impressed and impressed.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

@@ -2,7 +2,7 @@
 # Source file: 0146.txt
 
 text_array = [
-    ("（あかり	好感度イベント	４）閨（好感度が	１８以繹上	のとき）閨（好感度イベント３を見た）閨（朝イベントとすり替え）閨（髪型フ宴ラグＯＮ！）閨（自分の部屋）†",
+    ("（あかり	好感度イベント	４）閨（好感度が	１８以繹上	のとき）閨（好感度イベント３を見た）閨（朝イベントとすり替え）閨（髪型フラグＯＮ！）閨（自分の部屋）†",
     ""),
     # (Akari Likeability Event 4) (When the likeability level is above 18) (I saw Likeability Event 3) (Replaced with morning event) (Hairstyle banquet rug on!) (My room) †
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Click.
 
-    ("ち蛯ょうど目覚まし桙時計が鳴髢ると同椏時に目が覚めた。",
+    ("ちょうど目覚まし桙時計が鳴髢ると同椏時に目が覚めた。",
     ""),
     # I woke up when the alarm clock rang out.
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # Uhhhh.
 
-    ("なんだか、妙にスッキ潟リした気分だ。",
+    ("なんだか、妙にスッキリした気分だ。",
     ""),
     # It feels strangely clear.
 
-    ("窓の外にすがすがしい青空が広がっているからか烽も知齟れない。†",
+    ("窓の外にすがすがしい青空が広がっているからか烽も知れない。†",
     ""),
     # Perhaps because there is a refreshing blue sky outside the window, the hot water is not even aware of it.†
 
-    ("トーストとコーヒーで簡単な朝食を終え、オ激レはテ激レビを消して盾居間を出た。†",
+    ("トーストとコーヒーで簡単な朝食を終え、オレはテレビを消して盾居間を出た。†",
     ""),
     # After a simple breakfast with toast and coffee, Ogere erased the TV drama and left the shield living room.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Go lol"
 
-    ("誰熬もいない家にｌかってそう言うと、オ激レは玄関を出て鍵をかけた。◯",
+    ("誰熬もいない家にｌかってそう言うと、オレは玄関を出て鍵をかけた。◯",
     ""),
     # When I told him I went to a house where no one had been there, I left the front door and locked it.◯
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # When was the same bonito spot as the hotpot.
 
-    ("そしていつ烽もと同じように、縺後撃からあかりが竄やってきて、いつ烽もと同じように明髢るい笑迴顔で｢｢。†",
+    ("そしていつ烽もと同じように、縺後撃からあかりがやってきて、いつ烽もと同じように明髢るい笑迴顔で｢｢。†",
     ""),
     # And just like when Kano, Akari came to tamper with the attack after the attack, and when Kano looked like he was laughing out loud, ".†
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Ah, Akari...!?"
 
-    ("あかりを見骭るなり、不覚に烽もオ激レは思寬わず言葉を失ってしまった。",
+    ("あかりを見骭るなり、不覚に烽もオレは思寬わず言葉を失ってしまった。",
     ""),
     # As I looked over at Akari, I was left speechless, and I couldn't help but think about it.
 
-    ("だって、あかりの竄やつ、髪型が｢｢。†",
+    ("だって、あかりのやつ、髪型が｢｢。†",
     ""),
     # Because Akari's tampering with her hairstyle is ".†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # If you look at it, you will immediately listen to what you understand.
 
-    ("「うん。今朝、ち蛯ょっと≠早起きしてね」",
+    ("「うん。今朝、ちょっと≠早起きしてね」",
     ""),
     # "Yes. Please wake up early this morning."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # A small crimson ribbon that was drawn in front of me.
 
-    ("スト激レートに下奄した髪。",
+    ("ストレートに下奄した髪。",
     ""),
     # Her hair is dripping at a very rapid rate.
 
@@ -114,23 +114,23 @@ text_array = [
     ""),
     # Even though he just changed his hairstyle, he gives the impression of someone else.
 
-    ("思寬わず、本末当にあかりか、と馬鹿なことを福口にしてしまいそうになった。†",
+    ("思寬わず、本末当にあかりか、と馬鹿なことを口にしてしまいそうになった。†",
     ""),
     # Without thinking about it, I almost ended up groping something stupid, thinking that it was a relief to the end of the day.†
 
-    ("「ち蛯ょっとヘンかな…？」",
+    ("「ちょっとヘンかな…？」",
     ""),
     # "Is it weird to see...?"
 
-    ("戸惑うオ激レの顔を見て、不安そうにあかりが聞いた。",
+    ("戸惑うオレの顔を見て、不安そうにあかりが聞いた。",
     ""),
     # Akari asked, looking at my confused face.
 
-    ("「い、い竄や、べつに…」",
+    ("「い、いや、べつに…」",
     ""),
     # "No, it's tampering, it's all..."
 
-    ("オ激レは汲視諮をそらし、あいまいに嘯答えた。",
+    ("オレは汲視諮をそらし、あいまいに嘯答えた。",
     ""),
     # I distracted the advice of the counsel and replied vaguely.
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # I was a little upset.†
 
-    ("「梶リボンは竄やめたほうがいいと思う？」",
+    ("「梶リボンはやめたほうがいいと思う？」",
     ""),
     # "Do you think it's better to stop tampering with Kaji Ribbon?"
 
@@ -155,7 +155,7 @@ text_array = [
     # "Now, what do you think?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -186,16 +186,16 @@ text_array = [
     ""),
     # "ah…"
 
-    ("オ激レはコホンとせき払いする。†",
+    ("オレはコホンとせき払いする。†",
     ""),
     # I cleared my throat.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("少しの間、ふたりと烽も言葉に詰まったまま道を烽歩いた。",
@@ -210,11 +210,11 @@ text_array = [
     ""),
     # That's strange.
 
-    ("あかり鰍相闡手になに緊張してんだ、オ激レは。†",
+    ("あかり鰍相闡手になに緊張してんだ、オレは。†",
     ""),
     # What are you nervous about Akari's monkeys, I'm so excited.†
 
-    ("たしかに、前のおさげのときより烽もずっと蛯大人っぽくなった。",
+    ("たしかに、前のおさげのときより烽もずっと大人っぽくなった。",
     ""),
     # Certainly, the hot springs have become much more mature than when they were with the pigtails before.
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # I think it feels good.
 
-    ("で烽も、なぜだｂう。",
+    ("で烽も、なぜだう。",
     ""),
     # And why is it b?
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # I felt like the light was so bright that it was not phlegm.
 
-    ("氈押しに繧弱くて鈍くさい、そんなオ激レのよく知ってるあかりじ痰ゃなくて、まるで全然知迺らない別の翌女の子が横にいるみたいだった。",
+    ("氈押しに繧弱くて鈍くさい、そんなオレのよく知ってるあかりじ痰ゃなくて、まるで全然知迺らない別の翌女の子が横にいるみたいだった。",
     ""),
     # He was weak and dull to push, and it was like another girl next to me, who knew nothing about me, but she wasn't familiar with anything at all.
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # Perhaps that's why I felt something like a phlegm discomfort.†
 
-    ("オ激レの微妙な心譿情を察したのか、あかりは小さな声で、",
+    ("オレの微妙な心譿情を察したのか、あかりは小さな声で、",
     ""),
     # Akari, perhaps, had sensed my subtle feelings of heart, in a small voice.
 
@@ -258,31 +258,31 @@ text_array = [
     ""),
     # I asked.
 
-    ("「い、い竄や…」",
+    ("「い、いや…」",
     ""),
     # "No, it's tampering..."
 
-    ("オ激レはぎこちなく言う。†",
+    ("オレはぎこちなく言う。†",
     ""),
     # I say awkwardly.†
 
-    ("「竅やっぱり、もとに戻そうか？」",
+    ("「やっぱり、もとに戻そうか？」",
     ""),
     # "Shall I return it back after all?"
 
-    ("そう言って、あかりは繧上目づかいにオ激レを見て、遠慮がちに微笑んだ。",
+    ("そう言って、あかりは繧上目づかいにオレを見て、遠慮がちに微笑んだ。",
     ""),
     # With that in mind, Akari looked at me with her eyes and smiled reluctantly.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("その仕寬種は、いつ烽ものオ激レのよく知ってるあかりのそれ、その烽ものだった。†",
+    ("その仕寬種は、いつ烽ものオレのよく知ってるあかりのそれ、その烽ものだった。†",
     ""),
     # The stove was the well-known light blue species of hot water, which was the hot one.†
 
-    ("竅やっぱり、あかりはあかりだよな。",
+    ("やっぱり、あかりはあかりだよな。",
     ""),
     # After all, Akari is Akari after all.
 
@@ -294,11 +294,11 @@ text_array = [
     ""),
     # And the feeling of discomfort caused by Akari's unfamiliar hairstyle turned into a fresh look.†
 
-    ("「…い竄や、その福方が翌似㍽合ってるぜ」",
+    ("「…いや、その方が翌似㍽合ってるぜ」",
     ""),
     # "...It's so tampering, that happiness is just like that next time."
 
-    ("気搴持ちがすっきりしたせいか、オ激レは自然な感じでそう言えた。",
+    ("気搴持ちがすっきりしたせいか、オレは自然な感じでそう言えた。",
     ""),
     # Perhaps because my mood was relieved, I was able to say that in a natural way.
 
@@ -326,11 +326,11 @@ text_array = [
     ""),
     # "Oh, no way."
 
-    ("「梶リボン、竅やめたほうがいいと思う？」",
+    ("「梶リボン、やめたほうがいいと思う？」",
     ""),
     # "Do you think Kaji Ribbon, do you think it's better to stop?"
 
-    ("「い竄や、可愛いんじ痰ゃねーか」",
+    ("「いや、可愛いんじ痰ゃねーか」",
     ""),
     # "You're so tampering, you have so cute phlegm?"
 
@@ -350,11 +350,11 @@ text_array = [
     ""),
     # "ah"
 
-    ("オ激レの嘘を見破髞るのは、あかりの得意技だ。",
+    ("オレの嘘を見破髞るのは、あかりの得意技だ。",
     ""),
     # Akari's speciality is to spot my lies.
 
-    ("だから、オ激レが本末当のことを言ってるっての烽もよく墲わかるはずだ。†",
+    ("だから、オレが本末当のことを言ってるっての烽もよく墲わかるはずだ。†",
     ""),
     # That's why I should be able to understand how I'm talking about the truth.†
 
@@ -371,7 +371,7 @@ text_array = [
     # "If Chisho-yan says that, I'll just leave this hairstyle for a while."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("そんなあかりの笑迴顔は、いつになく眩しく見えた。†",
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # "Ah, Akari!? What's up with that hair?"
 
-    ("教室前の廊下でｉった志保は、あかりの髪を見骭るなり蛯大袈裟に驚いた。",
+    ("教室前の廊下でｉった志保は、あかりの髪を見骭るなり大袈裟に驚いた。",
     ""),
     # Shiho, who was in the hallway in front of the classroom, looked over at Akari's hair and was surprised by how exaggerated it was.
 
@@ -390,15 +390,15 @@ text_array = [
     ""),
     # "Did you change the phlegm?"
 
-    ("「うん、ち蛯ょっと…」",
+    ("「うん、ちょっと…」",
     ""),
     # "Yeah, it's a slut..."
 
-    ("「なんでまた〜？	あのお下げ髪はあかりのト激レードマークだったんじ痰ゃないの〜？」",
+    ("「なんでまた〜？	あのお下げ髪はあかりのトレードマークだったんじ痰ゃないの〜？」",
     ""),
     # "Why again? That trudge was a huge hit with light hair, so it's not phlegm?"
 
-    ("「ち蛯ょっとした、心境の変化だよ」",
+    ("「ちょっとした、心境の変化だよ」",
     ""),
     # "It's a bit of a change in my mind."
 

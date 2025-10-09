@@ -18,7 +18,7 @@ text_array = [
     ""),
     # The graduation ceremony is now on the day.
 
-    ("諱先輩荢方を笑迴顔で翌送闡り出しまし蛯ょか。◯",
+    ("諱先輩荢方を笑迴顔で翌送闡り出しましょか。◯",
     ""),
     # I started sending my message to my seniors with a laughing face the next episode.◯
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # ・◯
 
-    ("諱よう竄やく終尞わった。",
+    ("諱ようやく終尞わった。",
     ""),
     # It ended with a fake statement.
 
-    ("立ったり座ったりさせられるから、潤居眠阮りさえできなかったぜ。",
+    ("立ったり座ったりさせられるから、潤居眠りさえできなかったぜ。",
     ""),
     # I was forced to stand and sit, so I couldn't even sleep in a sleepy sleep.
 
-    ("そんなオ激レとは逆に、もらいモ泣きしている翌女の子たち烽もいたけどな。",
+    ("そんなオレとは逆に、もらいモきしている翌女の子たち烽もいたけどな。",
     ""),
     # Conversely to my gangbang, there were also some of the girls who were crying after receiving a slut.
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # Well, I couldn't get a comment and it was all over.†
 
-    ("オ激レたち一年は、今厓日は少しだけ≠早く帰驪ることができる。",
+    ("オレたち一年は、今厓日は少しだけ≠早く帰驪ることができる。",
     ""),
     # In my first year, I can return to my house just a little earlier than usual.
 
-    ("いまごｂ二年は、♂皷場の繧後片づけを竄やっているはずだ。",
+    ("いまご二年は、♂皷場の繧後片づけをやっているはずだ。",
     ""),
     # In his second year of B, he must be tampering with tidying up after the slut.
 
-    ("その分、準備は一年が竄やったからな。†",
+    ("その分、準備は一年がやったからな。†",
     ""),
     # As a result, a year of preparations was tampered with.†
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("これで学校にｗなくていいのかと思うと、ち蛯ょっとうら竄やましい。†",
+    ("これで学校にｗなくていいのかと思うと、ちょっとうらやましい。†",
     ""),
     # I'm so envious of this that I don't have to go to school lol.†
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # It's still too early, but that's why I-Shin is so particular about graduating.
 
-    ("「予阯定なんて、明坙日には烽もう変﨑わってるか烽もしれねーんだよ、オ激レの場㍼合」",
+    ("「予定なんて、明坙日には烽もう変﨑わってるか烽もしれねーんだよ、オレの場㍼合」",
     ""),
     # "On the day of the Ming Shun, it's probably not something that happens when it's a hot spot, or something like that, it's a hot spot."
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "All I'm saying, 'Mari"†
 
-    ("「あかりち痰ゃん竄や志保熾も誘おうか？」",
+    ("「あかりち痰ゃんや志保熾も誘おうか？」",
     ""),
     # "Shall we invite Akarichi to tame and Shiho Taru as well?"
 

@@ -10,23 +10,23 @@ text_array = [
     ""),
     # "I'll keep going"
 
-    ("オ激レははっきりとそう言った。",
+    ("オレははっきりとそう言った。",
     ""),
     # I said that clearly.
 
-    ("「葵ち痰ゃんといっし蛯ょならな」",
+    ("「葵ち痰ゃんといっしょならな」",
     ""),
     # "I guess I'll be eclipsing with Aoi Chishonan."
 
-    ("「п私といっし蛯ょなら…？」",
+    ("「п私といっしょなら…？」",
     ""),
     # "If it's a slut with me...?"
 
-    ("オ激レは、ああ、とうなずいた。†",
+    ("オレは、ああ、とうなずいた。†",
     ""),
     # I nodded, yeah.†
 
-    ("「オ激レがク宴ラブを竄やってる揩理由は、たしかに格闘技が好きだからっての烽もあるけど、で烽も一番の揩理由はそうじ痰ゃない。本末当は｢｢」",
+    ("「オレがクラブをやってる揩理由は、たしかに格闘技が好きだからっての烽もあるけど、で烽も一番の揩理由はそうじ痰ゃない。本末当は｢｢」",
     ""),
     # "The reason why I'm tampering with love for banquet is certainly because I like martial arts, but the main reason for this is that I don't have to clean up. The truth is, "
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("オ激レは葵ち痰ゃんの肩をポンと叩いた。†",
+    ("オレは葵ち痰ゃんの肩をポンと叩いた。†",
     ""),
     # I slammed Aoi Chisho-chan on the shoulder.†
 
-    ("「葵ち痰ゃんといっし蛯ょに福練習したいから、もっと葵ち痰ゃんの力になって竄やりたいから、だからオ激レはク宴ラブを竄やってるんだ」",
+    ("「葵ち痰ゃんといっしょに練習したいから、もっと葵ち痰ゃんの力になってやりたいから、だからオレはクラブをやってるんだ」",
     ""),
     # "I want to practice fortune with Aoi Chishonan and Ebi, so I want to be more of a helping Aoi Chishonan and tamper with it, so I'm tampering with the love of the banquet."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "...Identity Senpai"
 
-    ("「磨当然、葵ち痰ゃんが竄やめない限闌りは、オ激レ焜もずっと続けていくつ烽もりだぜ。それは竄絶対に約束する」†",
+    ("「当然、葵ち痰ゃんがやめない限りは、オレ焜もずっと続けていくつ烽もりだぜ。それは絶対に約束する」†",
     ""),
     # "Of course, as long as Aoi Chisho-chan doesn't stop tampering, I'll continue to keep on going forever. I promise that."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # However, without answering this, Aoi Chisho-chan becomes a clear, open-minded person,
 
-    ("「諱先輩。じつは、さっき好恵さん｢｢いえ、竅坂下謇先輩から電話があって、氏試㍽合の冾日が正式にｌまったんです」",
+    ("「諱先輩。じつは、さっき好恵さん｢｢いえ、坂下謇先輩から電話があって、氏試㍽合の冾日が正式にｌまったんです」",
     ""),
     # "Senior Ie-senpai. Actually, Yoshie-san said, "No, I received a call from Senior Hasaka Shimoji, and the date for the test was officially officially."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # For some reason, it was a bad replies to cut open teeth.
 
-    ("なんだｂう？",
+    ("なんだう？",
     ""),
     # What b?
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "That's..."
 
-    ("葵ち痰ゃんはち蛯ょっと困った顔をする。",
+    ("葵ち痰ゃんはちょっと困った顔をする。",
     ""),
     # Aoi Chisho-chan looks awkward.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Oh, that's a bitter phlegm, it's abrupt again..."
 
-    ("「竅坂下謇先輩、いつ烽も忙しくて、なかなか折關り№合いがつかなかったんですが、たまたま明坙日は部賦が午繻後迪らしく、午前葬は空いてるから急き蛯ょ…」†",
+    ("「坂下謇先輩、いつ烽も忙しくて、なかなか折關り№合いがつかなかったんですが、たまたま明坙日は部賦が午後迪らしく、午前葬は空いてるから急きょ…」†",
     ""),
     # "Senior Asakashita Tsune, I've always been busy with Hot Springs, so I couldn't get a chance to meet the number of questions, but it just happened to be that on Ming Shun's Day, the bufu was coming after the horse, and the morning funeral was open, so I'll hurry up..."†
 
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # "So, did you accept it?"
 
-    ("「はいっ、もちｂん、お受けします、と」",
+    ("「はいっ、もちん、お受けします、と」",
     ""),
     # "Yes, Mochib, I'll accept it."
 
-    ("「だｂうな…」",
+    ("「だうな…」",
     ""),
     # "No, oh oh..."
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Above" †
 
-    ("「氏試㍽合はエクスト潟リームの蛯大痩規闍定拠ルールで行います。",
+    ("「氏試㍽合はエクストリームの大痩規闍定拠ルールで行います。",
     ""),
     # "The test will be conducted using Extreme Ream's extremely slimming rules.
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # "I agree"
 
-    ("なんと烽も急な話だけどし蛯ょうがない。",
+    ("なんと烽も急な話だけどしょうがない。",
     ""),
     # It's a sudden story, but there's no slut.
 
-    ("葵ち痰ゃん烽も、竅やることは十分笊やったはずだ。†",
+    ("葵ち痰ゃん烽も、やることは十分笊やったはずだ。†",
     ""),
     # Aoi Chishonan Hoon must have done enough to do it.†
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Um, Senpai Kei, if possible, too..."
 
-    ("「もちｂん行くさ、オ激レ焜も」",
+    ("「もちん行くさ、オレ焜も」",
     ""),
     # "I'm going for a while, I'm also very excited."
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Are you doing the work?!"
 
-    ("「磨当たり前だｂ。ついさっき、正式な部員になるって言ったばかりじ痰ゃないか」",
+    ("「当たり前だ。ついさっき、正式な部員になるって言ったばかりじ痰ゃないか」",
     ""),
     # "It's obviously obvious. I just said I'd become an official member of the club, so I guess it's phlegm."
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # "Ah."
 
-    ("言ってしまってから、慌てて福口をつぐむ、葵ち痰ゃん。†",
+    ("言ってしまってから、慌てて口をつぐむ、葵ち痰ゃん。†",
     ""),
     # After saying this, Aoi Chisho-ya hurriedly thrusts her way through Fukuguchi.†
 
@@ -295,10 +295,10 @@ text_array = [
     # "What? Maybe that's a human being who is a lion test?
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("噤答えにくそうな葵ち痰ゃんだったが、竅やがて観念して、",
+    ("噤答えにくそうな葵ち痰ゃんだったが、やがて観念して、",
     ""),
     # Aoi Chisho-ya seemed to be difficult to answer, but soon he came to terms with it,
 
@@ -362,11 +362,11 @@ text_array = [
     ""),
     # This girl says good things.†
 
-    ("「增わかった。明坙日は竄絶対、遅薯刻しないで行く」",
+    ("「わかった。明坙日は絶対、遅薯刻しないで行く」",
     ""),
     # "I understand. I'll never go to Ming Shun Day, don't chop up late potatoes."
 
-    ("オ激レは葵ち痰ゃんの両肩にポンと手を置き、言った。",
+    ("オレは葵ち痰ゃんの両肩にポンと手を置き、言った。",
     ""),
     # I said, placing my hands on both Aoi Chisho-ya's shoulders.
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # "Ikusenpai..."†
 
-    ("「じ痰ゃあ、今厓日は烽もう帰って、明坙日に備えて艪ゆっくり休むんだ」",
+    ("「じ痰ゃあ、今厓日は烽もう帰って、明坙日に備えてゆっくり休むんだ」",
     ""),
     # "Ah, I'll go home now and take a good rest in preparation for the Ming Shun Day."
 
@@ -418,7 +418,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「トイ激レ焜もすませｂ！」",
+    ("「トイレ焜もすませ！」",
     ""),
     # "All right up to the Toys' Super Relax!"
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # "yes!"
 
-    ("「ち痰ゃんと目覚ましセットしｂ！」",
+    ("「ち痰ゃんと目覚ましセットし！」",
     ""),
     # "Come and set the alarm b!"
 
@@ -450,7 +450,7 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("そんな揩理雷抜きの勢いのみなテンシ㏍ョンを揩持続したまま、葵ち痰ゃんを翌送っていった。◯",
+    ("そんな揩理雷抜きの勢いのみなテンションを揩持続したまま、葵ち痰ゃんを翌送っていった。◯",
     ""),
     # He continued to thunderously threw Aoi Chisho-chan the next day.◯
 

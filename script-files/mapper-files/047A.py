@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "No phlegms."
 
-    ("結局オ激レ焜も遊ぶんだからな。",
+    ("結局オレ焜も遊ぶんだからな。",
     ""),
     # In the end, I'm also playing with it.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I'll let you get me now."
 
-    ("なんて言ってるが、あいつの頭のｒじ痰ゃ、もう段謦取闔りが出女医酪繧ｪってるだｂう。†",
+    ("なんて言ってるが、あいつの頭のｒじ痰ゃ、もう段謦取闔りが出女医酪繧ｪってるだう。†",
     ""),
     # That's what he says, but the phlegm on his head is already a female doctor.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # A You have to choose.Relax
 
-    ("Ｂ	じ痰ゃあ、′めて竄やる。閨",
+    ("Ｂ	じ痰ゃあ、′めてやる。閨",
     ""),
     # B: It's phlegm, I'll tamper with it.Relax
 

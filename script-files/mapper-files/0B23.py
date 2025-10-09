@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Okay, turn right and turn it right!
 
-    ("オ激レは素人ながらにフット純ワークを生かし、右へと回濶り桙込んだ。",
+    ("オレは素人ながらにフット純ワークを生かし、右へと回濶り桙込んだ。",
     ""),
     # Although I was an amateur, I used my pure footwork and turned to the right and sniffed.
 
-    ("自分で構えてみて墲わかったが、構えた前足の外側へと回濶り桙込まれると、じつに竄やっかいな烽ものだ。",
+    ("自分で構えてみて墲わかったが、構えた前足の外側へと回濶り桙込まれると、じつにやっかいな烽ものだ。",
     ""),
     # I tried to hold it myself and realized that when I was turned around to the outside of my front legs, it was a truly troublesome thing to do.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # There's no way I shouldn't use this lol.†
 
-    ("オ激レは、積極的に右へ右へと心がけながらジャャブを冾放つ。",
+    ("オレは、積極的に右へ右へと心がけながらジャャブを冾放つ。",
     ""),
     # My gei-re actively tries to get the Jaab out of my mind, and then moves right.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Bang!
 
-    ("今度はパ潟リー（閨手で払いのけ）される。†",
+    ("今度はパリー（閨手で払いのけ）される。†",
     ""),
     # This time it is palata ly (sweep away with a hand).†
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # Bang, Bang, Bang, Bang.
 
-    ("パ潟リー、パ潟リー、スウェー。",
+    ("パリー、パリー、スウェー。",
     ""),
     # Palata Lee, Palata Lee, Sweet.
 
-    ("くっ、磨当たらない。†",
+    ("くっ、当たらない。†",
     ""),
     # Damn, it won't polish.†
 
-    ("綾∴香は、つかず離齬れずの一闊定の翌距離を保ちながら、ダンスで烽も踊髣るように鰍リズミカ泣ルなフット純ワークで、右へ左へ移動する。",
+    ("綾∴香は、つかず離齬れずの一闊定の翌距離を保ちながら、ダンスで烽も踊髣るように鰍リズミカルなフット純ワークで、右へ左へ移動する。",
     ""),
     # Aya∴Ka keeps the distance that follows, without any confusion, and while dancing, he moves right and left with pure footwork that is like a cry of rhythmic sluts and crying in the dance.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # It's an annoying Mana Co., Ltd.†
 
-    ("くそっ、梶リーチはオ激レのほうが長いんだ。",
+    ("くそっ、梶リーチはオレのほうが長いんだ。",
     ""),
     # Damn, Kaji Reach is longer than me.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # And I'm done...
 
-    ("オ激レが移動したその先に、綾∴香のパンチが待ち受けていた。",
+    ("オレが移動したその先に、綾∴香のパンチが待ち受けていた。",
     ""),
     # A punch from Aya∴Ka was waiting for me as soon as I moved.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # It was read.
 
-    ("回濶り桙込むオ激レに№合寘わせて打ったんだ。†",
+    ("回濶り桙込むオレに№合寘わせて打ったんだ。†",
     ""),
     # I played it with my hard work and squealing.†
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # Why, in a simple way...
 
-    ("あっ、竅やべっ。",
+    ("あっ、やべっ。",
     ""),
     # Ah, that's bad.
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # Damn it...
 
-    ("ディフェンスがうまくてカス潟リ焜もしねー。†",
+    ("ディフェンスがうまくてカスリ焜もしねー。†",
     ""),
     # He has good defense and doesn't have any problems.†
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "I'm here..."
 
-    ("オ激レは繧上体を起こすと、吹草の繧上であぐらをかいた。",
+    ("オレは繧上体を起こすと、吹草の繧上であぐらをかいた。",
     ""),
     # I lifted up my body and grabbed my legs on the ridge of the bush.
 
@@ -242,11 +242,11 @@ text_array = [
     ""),
     # "The rest is the application.
 
-    ("基本は右だけど、同じ福方阜ばかりじ痰ゃすぐ読まれるでし蛯ょ。なんにで烽も変化をつけないとね」",
+    ("基本は右だけど、同じ方阜ばかりじ痰ゃすぐ読まれるでしょ。なんにで烽も変化をつけないとね」",
     ""),
     # Basically, it's on the right, but if you keep on reading the same Fukukata Fu, you'll be read right away.I have to change the hot springs, too."
 
-    ("「…ちくし蛯ょう、增わかってるけどなあ」†",
+    ("「…ちくしょう、わかってるけどなあ」†",
     ""),
     # "...I know that, I know that."
 

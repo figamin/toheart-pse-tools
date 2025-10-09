@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hi Amai!"
 
-    ("彼濫女はオ激レに気づくと、にっこり微笑んだ。",
+    ("彼濫女はオレに気づくと、にっこり微笑んだ。",
     ""),
     # When the woman noticed me, she smiled and smiled.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Oh no."
 
-    ("「ネェ、。いっし蛯ょに帰汲」†",
+    ("「ネェ、。いっしょに帰汲」†",
     ""),
     # "Nah. I'll come back to you all." †
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # A: That's fine.Relax
 
-    ("Ｂ	今厓日はち蛯ょっと…。閨",
+    ("Ｂ	今厓日はちょっと…。閨",
     ""),
     # B It's a little late now...Relax
 

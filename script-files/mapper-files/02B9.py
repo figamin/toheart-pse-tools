@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri°Kawa, Scales Event, Leaving School LV2)Seri (Selection C: Two and Hots don't even get a t-san)†
 
-    ("「で烽も、竅やっぱりふたりと烽もｔ人だな」",
+    ("「で烽も、やっぱりふたりと烽もｔ人だな」",
     ""),
     # "And I think both Kano and Kano are just T-shirts after all."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Oh, Mr. Mr. #, I'm not going to say good things!"
 
-    ("「正直だからな、オ激レは」†",
+    ("「正直だからな、オレは」†",
     ""),
     # "Because I'm honest, I'm so excited"
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # "..."†
 
-    ("「う、う〜ん、そうだなあ、どっち烽も…って言いたいとこｂだが、竅やっぱ先輩かな？」",
+    ("「う、う〜ん、そうだなあ、どっち烽も…って言いたいとこだが、やっぱ先輩かな？」",
     ""),
     # "Uh, hmm, that's right, I'm not sure... but I guess I'm a senior after all?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「竅やっぱり？	どうせそう言うと思ったけど」",
+    ("「やっぱり？	どうせそう言うと思ったけど」",
     ""),
     # "I thought so? I thought I'd say that anyway."
 

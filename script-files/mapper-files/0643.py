@@ -2,7 +2,7 @@
 # Source file: 0643.txt
 
 text_array = [
-    ("（マ泣ルチ	好感度イベント４）閨（好感度が	のとき）閨（５桙時間目の休み桙時間）閨（廊下２）†",
+    ("（マルチ	好感度イベント４）閨（好感度が	のとき）閨（５桙時間目の休み桙時間）閨（廊下２）†",
     ""),
     # (Makkuruchi Likeability Event 4) (When Likeability is ) (Break time in 5th frame time) (Corridor 2) †
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Ah, san."
 
-    ("「ち蛯ょっといいか？」",
+    ("「ちょっといいか？」",
     ""),
     # "Can I just suppose?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "yes?"†
 
-    ("「じつは、ち蛯ょっと質竡問があるんだけどさ」",
+    ("「じつは、ちょっと質竡問があるんだけどさ」",
     ""),
     # "In fact, there are some questions about this."
 
@@ -46,27 +46,27 @@ text_array = [
     ""),
     # "ah"
 
-    ("オ激レはうなずいた。†",
+    ("オレはうなずいた。†",
     ""),
     # I nodded.†
 
-    ("「さっきの桙時間、ふとある疑站問がｂ浮かんでな。どうして烽もそれが気になっちまって」",
+    ("「さっきの桙時間、ふとある疑站問が浮かんでな。どうして烽もそれが気になっちまって」",
     ""),
     # "At the time I had just heard a question about a suspicious site suddenly came to mind. Why did you even get curious about that?"
 
-    ("「なんでし蛯ょう？」",
+    ("「なんでしょう？」",
     ""),
     # "Why are you slut?"
 
-    ("「マ泣ルチの体のことなんだ」",
+    ("「マルチの体のことなんだ」",
     ""),
     # "It's about the body of Makruchi."
 
-    ("「增わたしのからだ…ですか？」†",
+    ("「わたしのからだ…ですか？」†",
     ""),
     # "Is it my body...?"
 
-    ("「うん。マ泣ルチってさ、たしか、可能な限闌り人間に翌似せてつくられてんだｂ？」",
+    ("「うん。マルチってさ、たしか、可能な限り人間に翌似せてつくられてんだ？」",
     ""),
     # "Yeah. Is it true that you're made to look like a human being the next time possible?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("「ということは、＝普段は目に見えないようなとこｂ烽も鰍リア泣ルに再現されてると思うんだ」",
+    ("「ということは、＝普段は目に見えないようなとこ烽も鰍リアルに再現されてると思うんだ」",
     ""),
     # "That means that the 'b-hot' that is normally invisible' is also reproduced in the 'Karyuru'."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「マ泣ルチのさぁ」",
+    ("「マルチのさぁ」",
     ""),
     # "The squeal is coming."
 
@@ -107,15 +107,15 @@ text_array = [
     # ""What's going on down there?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」†",
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "What?!"
 
-    ("「どうして烽も知闥りたいんだよ。マ泣ルチがどこまでホントの人間っぽいのかってさ」",
+    ("「どうして烽も知闥りたいんだよ。マルチがどこまでホントの人間っぽいのかってさ」",
     ""),
     # "Why do you want to know about Hou too? I wonder how true Makruchi looks like a human?"
 
@@ -142,27 +142,27 @@ text_array = [
     ""),
     # "it is…"
 
-    ("「教えｂよぉ〜」",
+    ("「教えよぉ〜」",
     ""),
     # "Teach me b"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「な、梶頼むよ〜」†",
     ""),
     # "W-Please Kaji~"
 
-    ("「…增わ、增わかりました。本末当はみだりに福口にしち痰ゃいけないことなんですけど、他ならぬさんの鰍頼みですし…」",
+    ("「…わ、わかりました。本末当はみだりに口にしち痰ゃいけないことなんですけど、他ならぬさんの鰍頼みですし…」",
     ""),
     # "...I understand. I have to go through it. I have to sigh the truth, but I'm asking no other people for a chomp on my face..."
 
-    ("「話せるぜ、マ泣ルチ！	…で、どうなってるんだ？」†",
+    ("「話せるぜ、マルチ！	…で、どうなってるんだ？」†",
     ""),
     # "I can talk about it, Ruchi! ...So, what's going on?"
 
-    ("「…人間の福方と同じようになってます」",
+    ("「…人間の方と同じようになってます」",
     ""),
     # "...It's just like human happiness."
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # ...Ko-kun.
 
-    ("マ泣ルチは小さくうなずいた。†",
+    ("マルチは小さくうなずいた。†",
     ""),
     # McDonald nodded small.†
 
-    ("「…マ、マ泣ルチ」",
+    ("「…マ、マルチ」",
     ""),
     # "...Ma, Ma, I'm crying."
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「…オ、オ激レ、見てみたい」",
+    ("「…オ、オレ、見てみたい」",
     ""),
     # "...Oh, I'd like to see it."
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「マ泣ルチの…見たいっ！」",
+    ("「マルチの…見たいっ！」",
     ""),
     # "I want to see Makruchi's...!"
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "What, what, what?!?"
 
-    ("「いいだｂ？	見せてくれよ〜！」",
+    ("「いいだ？	見せてくれよ〜！」",
     ""),
     # "Is it okay? Show me it!"
 
@@ -214,11 +214,11 @@ text_array = [
     ""),
     # "And also hot?"
 
-    ("「…開発者の福方が、人には見せち痰ゃいけないとこｂだって…」",
+    ("「…開発者の方が、人には見せち痰ゃいけないとこだって…」",
     ""),
     # "...The developer's Fukui is a place where you have to show off people b..."
 
-    ("「いいじ痰ゃないか、オ激レとマ泣ルチの№仲だｂ？」",
+    ("「いいじ痰ゃないか、オレとマルチの№仲だ？」",
     ""),
     # "Isn't there any phlegm? Is it the number one friend of me and my cries?"
 
@@ -226,31 +226,31 @@ text_array = [
     ""),
     # "That's right, but..."
 
-    ("「ちらっと見骭るだけ！	触ったりとかは竄絶対しないから！」",
+    ("「ちらっと見骭るだけ！	触ったりとかは絶対しないから！」",
     ""),
     # "Just take a glance! I'll never touch it or tamper with it!"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("「マ泣ルチぃ〜」",
+    ("「マルチぃ〜」",
     ""),
     # "Mmm, squeal!"
 
-    ("オ激レはち蛯ょっと甘えた顔でマ泣ルチを見つめてみた。",
+    ("オレはちょっと甘えた顔でマルチを見つめてみた。",
     ""),
     # My heart was so excited that I looked at Ruchi with a spoiled look on his face.
 
-    ("うつむいたまま、しばらく悩んでいたマ泣ルチだったが、竅やがて曹囁くような声で言った。†",
+    ("うつむいたまま、しばらく悩んでいたマルチだったが、やがて曹囁くような声で言った。†",
     ""),
     # While still facing down, Ma-luchi was worried for a while, but then he said in a voice that seemed to whisper.†
 
-    ("「…增わかりました。ほ、ほんの、ち蛯ょっぴりだけ…ですよ？」",
+    ("「…わかりました。ほ、ほんの、ちょっぴりだけ…ですよ？」",
     ""),
     # "...I understand. Just a little, just a slut...?"
 
-    ("「竅やったぜ、堰ラッキー！	じ痰ゃ、＝早速どこか人気のないとこｂへ｢｢」",
+    ("「やったぜ、堰ラッキー！	じ痰ゃ、＝早速どこか人気のないとこへ｢｢」",
     ""),
     # "I've done it, lucky weir! I'm not sure what to expect, right away, but I'm not sure what you're popular with, ""
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # And then.†
 
-    ("「≠ｿ蛯ょぉーーーっと、待ったああぁぁーーーーーーーーーーーーーーーーーーーーっ！」",
+    ("「≠ｿょぉーーーっと、待ったああぁぁーーーーーーーーーーーーーーーーーーーーっ！」",
     ""),
     # "≠ So yeah, I've waited aaaahhh!"
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # What are you forcing a pure maid, Korobo, who is free from dirt and is pure!”
 
-    ("「うるせーのがｗたよ。…いいとこなのに。マ泣ルチ、あっち行こうぜ」",
+    ("「うるせーのがｗたよ。…いいとこなのに。マルチ、あっち行こうぜ」",
     ""),
     # "Shut up lol. That's fine. Sneak, let's go over there."
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # briskly….
 
-    ("「ち蛯ょっと、待ちなさいよおぉぉぉーーっ！」†",
+    ("「ちょっと、待ちなさいよおぉぉぉーーっ！」†",
     ""),
     # "Come on, wait!" †
 
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # "Yes..." (Pho)
 
-    ("「つ、つ、ついに、マ泣ルチの秘密の部分が、人目に触齔れるときが…」†",
+    ("「つ、つ、ついに、マルチの秘密の部分が、人目に触齔れるときが…」†",
     ""),
     # "At last time, when the secret part of Makruchi is touched by someone else..."
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # What is the secret part?=v
 
-    ("襲いｗ磯翌驕A志保チ㏍ョップ！†",
+    ("襲いｗ磯翌驕A志保チョップ！†",
     ""),
     # Attacks lol Iso's next riots, Shiho Chicup!†
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # Pash!
 
-    ("だがオ激レはそれを素っ気なく受け止めた。†",
+    ("だがオレはそれを素っ気なく受け止めた。†",
     ""),
     # But I took it curtly.†
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # "Ah, huh?!"
 
-    ("「じ痰ゃ、マ泣ルチ、他行こうか？」",
+    ("「じ痰ゃ、マルチ、他行こうか？」",
     ""),
     # "She's phlegm, I'll go elsewhere?"
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "...Eh, ah, ha, yes"†
 
-    ("「諱よし、誰熬もいないな。ここならいいだｂ？」",
+    ("「諱よし、誰熬もいないな。ここならいいだ？」",
     ""),
     # "Okay, there's no one here. Is this okay?"
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # "Yes..."
 
-    ("マ泣ルチは小さくうなずいた。†",
+    ("マルチは小さくうなずいた。†",
     ""),
     # McDonald nodded small.†
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # "Well, can't you?!"
 
-    ("「≧｢｢みーっつ、みんなのアイド泣ル長岡志保たぁ〜、このあたしのことだーーーっ！＝v†",
+    ("「≧｢｢みーっつ、みんなのアイドル長岡志保たぁ〜、このあたしのことだーーーっ！＝v†",
     ""),
     # "≧" "Mie, everyone's crying, Nagaoka Shiho, it's about me! =v†
 
@@ -398,7 +398,7 @@ text_array = [
     ""),
     # "Ahhhhhhhh!
 
-    ("学園の超アイド泣ル志保ち痰ゃんよっ翌＠",
+    ("学園の超アイドル志保ち痰ゃんよっ翌＠",
     ""),
     # The school's super-deep crying is the next day @
 
@@ -418,11 +418,11 @@ text_array = [
     ""),
     # ""Isn't there...?"
 
-    ("ガ宴ラガ宴ラッ！",
+    ("ガラガラッ！",
     ""),
     # Gabanquet Ragabanquet Ragabanquet Raga!
 
-    ("「ち蛯ょっとアンタ、ひとのク宴ラスでなに竄やってんの！？」†",
+    ("「ちょっとアンタ、ひとのクラスでなにやってんの！？」†",
     ""),
     # "You're going to be the one who's doing it at the end of the crowd!"
 
@@ -430,11 +430,11 @@ text_array = [
     ""),
     # "Guuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
-    ("「い、い、いよいよ、マ泣ルチの秘密の部分が、赤≒裸々に姿を現すときがきたっっっ！」",
+    ("「い、い、いよいよ、マルチの秘密の部分が、赤≒裸々に姿を現すときがきたっっっ！」",
     ""),
     # "No, it's finally time for Makruchi's secret part to appear red or nothing!"
 
-    ("「ち蛯ょ、ち蛯ょっと、見骭るだけですよ…」",
+    ("「ちょ、ちょっと、見骭るだけですよ…」",
     ""),
     # "I'll just look forward to it..."
 
@@ -482,7 +482,7 @@ text_array = [
     ""),
     # "Ah!"
 
-    ("「おおっ！	…に、人間とそっくりの可愛いｂモノがついてるじ痰ゃね〜か」",
+    ("「おおっ！	…に、人間とそっくりの可愛いモノがついてるじ痰ゃね〜か」",
     ""),
     # "Oh! ...I guess it's phlegm with a cute B-like thing that looks just like a human?"
 
@@ -490,7 +490,7 @@ text_array = [
     ""),
     # "...Ah, don't look too much.... I'm embarrassed."†
 
-    ("「≠ｿくし蛯ょ〜〜〜〜〜〜〜〜〜〜〜〜〜っ！",
+    ("「≠ｿくしょ〜〜〜〜〜〜〜〜〜〜〜〜〜っ！",
     ""),
     # "≠Sokushii-e-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 

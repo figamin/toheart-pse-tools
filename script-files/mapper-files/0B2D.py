@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 4 of the battle to take on the balance (continued from Chosen A approaching battle)†
 
-    ("遠莱距離嵭戦はｂ高剄等なテクニックを要する。",
+    ("遠莱距離嵭戦は高剄等なテクニックを要する。",
     ""),
     # The battle for the Torai distance requires techniques such as high-speed b.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # It's an approaching battle!†
 
-    ("オ激レは痰低く構え、インステップして綾∴香に接近する。",
+    ("オレは痰低く構え、インステップして綾∴香に接近する。",
     ""),
     # I hold on with low phlegm and step in and approach Aya∴Ka.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I caught it!
 
-    ("しか烽も、ボディがガ宴ラ空きだ！",
+    ("しか烽も、ボディがガラ空きだ！",
     ""),
     # However, the body of the hot springs is empty!
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Chaangsu!
 
-    ("オ激レはボディに右フックを叩き桙込む。†",
+    ("オレはボディに右フックを叩き桙込む。†",
     ""),
     # My guts hits the right hook into the body and frays it.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Splaaaaahhhh!
 
-    ("その瞬間、綾∴香の右スト激レートが、オ激レの側頭箔部をとらえた。†",
+    ("その瞬間、綾∴香の右ストレートが、オレの側頭箔部をとらえた。†",
     ""),
     # At that moment, Aya∴Ka's intense right rating captured my temporal foil.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Splaaaaah!
 
-    ("コンビネーシ㏍ョンの三発がク潟リーンヒット。",
+    ("コンビネーションの三発がクリーンヒット。",
     ""),
     # Combination Sydong's three hits hit Kugata Lean.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Damn….
 
-    ("竅やられた。",
+    ("やられた。",
     ""),
     # I got hit with it.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Well, somehow..."
 
-    ("オ激レは頭を振關りながら体を起こした。†",
+    ("オレは頭を振關りながら体を起こした。†",
     ""),
     # My head shook my head and stood up.†
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "The body guard was open, too..."
 
-    ("「ふふっ、そう、增わざと翌＠」†",
+    ("「ふふっ、そう、わざと翌＠」†",
     ""),
     # "Hehe, yes, deliberately the next day@"†
 

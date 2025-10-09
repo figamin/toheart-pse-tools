@@ -2,7 +2,7 @@
 # Source file: 07E4.txt
 
 text_array = [
-    ("（琴音	回秤数イベント３	ＰＳ）閨（ハイブ潟リッド）†",
+    ("（琴音	回秤数イベント３	ＰＳ）閨（ハイブリッド）†",
     ""),
     # (Kotone, Scale Event 3 PS) (Hibugata Lid)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Oh, Kotone's sphemy.
 
-    ("彼濫女はオ激レに気づくと、ぺこりと頭を下げた。",
+    ("彼濫女はオレに気づくと、ぺこりと頭を下げた。",
     ""),
     # When the woman noticed me, she bowed her head.
 

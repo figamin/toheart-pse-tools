@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hi Amai!"
 
-    ("休み桙時間、自販機でカフェオ激レをモ買った帰闍りにオ激レは撃レミィに出初った。",
+    ("休み桙時間、自販機でカフェオレをモ買った帰闍りにオレは撃レミィに出初った。",
     ""),
     # During the break, I bought a Cafe au Gekile from the vending machine and got on for the first time at Gekire Remy.
 
@@ -18,23 +18,23 @@ text_array = [
     ""),
     # "Oh, oh, oh Remi. Is it for something?"
 
-    ("「、ａｂ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇ好き？」",
+    ("「、ａ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇ好き？」",
     ""),
     # "Ab Shield O next time you shoot Amai Lion likes Kog?"
 
-    ("戟レミィはいきなり、ボウ潟リングは好きかと聞いてきた。",
+    ("戟レミィはいきなり、ボウリングは好きかと聞いてきた。",
     ""),
     # Suddenly, Karemi asked if she liked Bowlat Ring.
 
-    ("「なんだよ、竅やぶからぼうに」",
+    ("「なんだよ、やぶからぼうに」",
     ""),
     # "What is it, I'm going to be a daze, I'm going to be a daze."
 
-    ("「今ネ、ａｂ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇが流行ってるのｃ」",
+    ("「今ネ、ａ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇが流行ってるのｃ」",
     ""),
     # "Now, AB Shield O next W Era Lion is popular now."
 
-    ("「マジかよぉ？	オ激レ知迺らねえぜ」†",
+    ("「マジかよぉ？	オレ知迺らねえぜ」†",
     ""),
     # "Are you serious? I don't know anything about it" †
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Hey, do you like it?"
 
-    ("「ボウ潟リングなんて、好きで烽も凾嫌いで烽もねえ」",
+    ("「ボウリングなんて、好きで烽も凾嫌いで烽もねえ」",
     ""),
     # "I like Bow Lado Ring, I hate boiled chicken, and I don't have boiled chicken."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # When I said that, Karemi gave a troubled look on her face.
 
-    ("「Ｗｂ撃ｌ撃ｌ…じ痰ゃあｂｂ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇできる？」",
+    ("「Ｗ撃ｌ撃ｌ…じ痰ゃあ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇできる？」",
     ""),
     # "Wb Shot l... Is it possible to get a phlegm? BB Shield the next lol Shot lion No.?"
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # "Yes, I guess I'll just have to accept it."
 
-    ("「Ｒｂ≠ａ撃ｌ撃ｌ凾ｙ？	じ痰ゃ教えて教えてっ」†",
+    ("「Ｒ≠ａ撃ｌ撃ｌ凾ｙ？	じ痰ゃ教えて教えてっ」†",
     ""),
     # "Rb≠a-shot l-shot l-shot l-y? Please tell me the phlegm."
 
-    ("「はあ？	戟レミィまさか、ボウ潟リング焜も知迺らねえのか？」",
+    ("「はあ？	戟レミィまさか、ボウリング焜も知迺らねえのか？」",
     ""),
     # "Huh? Is Remy not even aware of Bowgata Ring??"
 
-    ("「知ってマース。で烽も、竅やったことないの」",
+    ("「知ってマース。で烽も、やったことないの」",
     ""),
     # "I know, Mars. And I've never done it before."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("オ激レの返抹事は｢｢。",
+    ("オレの返抹事は｢｢。",
     ""),
     # My replies were ".
 

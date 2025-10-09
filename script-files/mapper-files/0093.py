@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "That's annoying. You should just shave your phlegm!"
 
-    ("「竅やっぱ、ひがんでんじ痰ゃねーかよ」†",
+    ("「やっぱ、ひがんでんじ痰ゃねーかよ」†",
     ""),
     # "After all, you have to have phlegms with a carrot after all."
 
-    ("「どーせ、あたしは、ひとり竄寂しくマ泣ル諠よりペケが多い嘯答案にр埋燒もれるのよ」",
+    ("「どーせ、あたしは、ひとり寂しくマル諠よりペケが多い嘯答案にр埋燒もれるのよ」",
     ""),
     # "What, I'm alone, so lonely, I'm buried in the answer sheet that has more pikes than the one I'm crying."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I thought it would suit me a certain number..."
 
-    ("「ははは、＝普段はつき№合いのいいオ激レで烽も、さすがにそこまではなあ」†",
+    ("「ははは、＝普段はつき№合いのいいオレで烽も、さすがにそこまではなあ」†",
     ""),
     # "Hahaha = I usually have a good fit, so I'm a hot guy, but it's definitely not that good."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Shiho went home after being bullied.
 
-    ("しかし、竅やっぱりマ泣ル諠よりペケが多い嘯答案にはр埋燒もれたくないぜ。◯",
+    ("しかし、やっぱりマル諠よりペケが多い嘯答案にはр埋燒もれたくないぜ。◯",
     ""),
     # However, I don't want to be buried in the answer sheet, which has more pikes than the ones I'm crying.◯
 

@@ -2,7 +2,7 @@
 # Source file: 069C.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜ＡＢＣ	の続き）閨（駅前）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜ＡＢＣ	の続き）閨（駅前）†",
     ""),
     # (Makkuruchi Scales Event 2F LV4) (Continued from Chosen ABC) (In front of station) †
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Soon the bus came lol.
 
-    ("目の前で竄停まり、プシャーッと烽扉が開く。†",
+    ("目の前で停まり、プシャーッと烽扉が開く。†",
     ""),
     # He stopped in front of him, and the hot door opened suddenly.†
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "…Mr. Miss"
 
-    ("「マ泣ルチ、元気で竄やれよ」",
+    ("「マルチ、元気でやれよ」",
     ""),
     # "Mix, go and tamper with your energy."
 
-    ("オ激レが言うと、マ泣ルチは、",
+    ("オレが言うと、マルチは、",
     ""),
     # When I said that, Makruchi was
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("マ泣ルチは深々とおじぎをすると、セ潟リオとふたりでバスに乗闖りこんだ。†",
+    ("マルチは深々とおじぎをすると、セリオとふたりでバスに乗闖りこんだ。†",
     ""),
     # Muruch bowed deeply, and then both of them boarded the bus with Seragato Rio.†
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # Bang Hong Ro Hong Ro Hong Ro Hong Ro...
 
-    ("バスが艪ゆっくり魔走闡り出す。",
+    ("バスがゆっくり魔走闡り出す。",
     ""),
     # The bus slowly sets out.
 
-    ("「マ泣ルチ」",
+    ("「マルチ」",
     ""),
     # "Mixed Ruchi"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Goodbye, Mr., goodbye, goodbye!'
 
-    ("マ泣ルチは繧後伯部座席の汲窓にへばりつき、ぽｂぽｂと涙をこぼしながら、見えなくなるまで、いつまで烽もいつまで烽も、閨手を振關り続けた。◯",
+    ("マルチは繧後伯部座席の汲窓にへばりつき、ぽぽと涙をこぼしながら、見えなくなるまで、いつまで烽もいつまで烽も、閨手を振關り続けた。◯",
     ""),
     # After the crying came to the window in Hakube seat, she cried out and she cried out tears, waving her hands, both for as long as they were invisible, and for as long as they could no longer see.◯
 

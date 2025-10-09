@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "An phlegm, what?"
 
-    ("オ激レは右濶手を繧上げた。",
+    ("オレは右濶手を繧上げた。",
     ""),
     # My head lifted my right hand.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「…Ｓｂｂ	凵ｙ盾ｏ浮ｕ	戟ｌ≠ａｔｂ窒ｒ」",
+    ("「…Ｓ	凵ｙ盾ｏ浮ｕ	戟ｌ≠ａｔ窒ｒ」",
     ""),
     # "...Sbb, y shield o floats, l≠atb nitrogen"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("オ激レたちは烽もう一度、閨手を振って別れた。◯",
+    ("オレたちは烽もう一度、閨手を振って別れた。◯",
     ""),
     # We all waved our hands once more and parted ways.◯
 

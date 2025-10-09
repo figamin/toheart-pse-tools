@@ -2,15 +2,15 @@
 # Source file: 0393.txt
 
 text_array = [
-    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（選択綜Ａ	いっし蛯ょに帰汲うかと誘う）閨（選択綜Ａ	委員長が竄寂しそうに…）†",
+    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（選択綜Ａ	いっしょに帰汲うかと誘う）閨（選択綜Ａ	委員長が寂しそうに…）†",
     ""),
     # (Tomoko's Scale Event 2F LV1) (See the Likeability Event 8) (Select A invites you to return to the Episode) (Choice A, Chairman looks lonely...) †
 
-    ("「委員長が竄寂しそうにしてるから…かな」",
+    ("「委員長が寂しそうにしてるから…かな」",
     ""),
     # "I guess because the chairman is trying to be lonely..."
 
-    ("「竅寂しそう？",
+    ("「寂しそう？",
     ""),
     # "Do you think you're lonely?
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I?”
 
-    ("「まあな。たとえば休み桙時間とか、ぽつんとひとりで座ってるだｂ？	その顔がなんと烽も竄寂しげなんだよな」",
+    ("「まあな。たとえば休み桙時間とか、ぽつんとひとりで座ってるだ？	その顔がなんと烽も寂しげなんだよな」",
     ""),
     # "Well. For example, when you're resting, you're sitting alone b? His face looks so lonely, even the chicken."
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…クールなｔ少酪女が見せる竄寂しげな横迚顔。しか烽もすぐ隣の席だぜ？	オ激レじ痰ゃなくて烽も、男なら冾放っておけないだｂ」",
+    ("「…クールなｔ少酪女が見せる寂しげな横迚顔。しか烽もすぐ隣の席だぜ？	オレじ痰ゃなくて烽も、男なら冾放っておけないだ」",
     ""),
     # "...A cool little girl shows off her lonely, side-faced face. But Kao is sitting right next to her, right? I have no phlegm and I can't leave Kao alone if she's a man."
 
-    ("「＃少酪女って誰のこと竄や」",
+    ("「＃少酪女って誰のことや」",
     ""),
     # "#Who's the little girl is tampering with?"
 
-    ("「委員長にｌまってるだｂ？」",
+    ("「委員長にｌまってるだ？」",
     ""),
     # "I'm waiting for the chairman b?"
 
@@ -46,23 +46,23 @@ text_array = [
     ""),
     # The chairman said this and ignored him, but his face was a little red.†
 
-    ("「つまりくんは、竅寂しそうにしとるр私を気づかって、〟仲良うしてくれてる墲わけ竄やな」",
+    ("「つまりくんは、寂しそうにしとるр私を気づかって、〟仲良うしてくれてる墲わけやな」",
     ""),
     # "Iron-kun noticed me as I looked lonely and "it's a bit of a mess because he's getting along well."
 
-    ("「う〜ん。そう言うと、なんかニャアンスが痰違うんだよな。そうじ痰ゃなくて、竅寂しそうにしているｔ少酪女を男は無許視できないってことだな」†",
+    ("「う〜ん。そう言うと、なんかニャアンスが痰違うんだよな。そうじ痰ゃなくて、寂しそうにしているｔ少酪女を男は無許視できないってことだな」†",
     ""),
     # "Hmm. When I say that, I see that the phlegm is different. It means that men cannot see the phlegm unacceptable, as they don't cleanse the phlegm and look lonely."
 
-    ("「なん竄やそれ」",
+    ("「なんやそれ」",
     ""),
     # "What's that tampering?"
 
-    ("「だってそうなんだからし蛯ょうがねーだｂ」",
+    ("「だってそうなんだからしょうがねーだ」",
     ""),
     # "Because that's the case, there's no ecchi b."
 
-    ("委員長は呆れた顔をしたが、竅やがて、ふっと笑って、",
+    ("委員長は呆れた顔をしたが、やがて、ふっと笑って、",
     ""),
     # The chairman looked shocked, but then he suddenly laughed,
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # He said.†
 
-    ("「え？	変か、オ激レ？」",
+    ("「え？	変か、オレ？」",
     ""),
     # "Huh? Is it weird, I'm super crazy?"
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "I'm going to say things that seem like light film thinness..."
 
-    ("「軽膜薄ぅ？	おいおい、瘁違うだｂ？	オ激レはいたって真面目にだな…」",
+    ("「軽膜薄ぅ？	おいおい、瘁違うだ？	オレはいたって真面目にだな…」",
     ""),
     # "Is the light film thin? Hey, it's not that bad? I'm really serious..."
 
-    ("「そ竄やな、真面目笆やな」",
+    ("「そやな、真面目笆やな」",
     ""),
     # "You're tampering, you're serious."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "He's saying stupid things seriously"
 
-    ("「增わ、悪かったな、アホで」",
+    ("「わ、悪かったな、アホで」",
     ""),
     # "Bang, that's bad, you idiot."
 
@@ -114,23 +114,23 @@ text_array = [
     ""),
     # "mother"
 
-    ("オ激レ焜もつられて笑う。†",
+    ("オレ焜もつられて笑う。†",
     ""),
     # I laughed when I was so nervous.†
 
-    ("委員長が笑うとオ激レは嬉しくなる。",
+    ("委員長が笑うとオレは嬉しくなる。",
     ""),
     # When the chairman laughs, I feel extremely happy.
 
-    ("めったに笑尞わない委員長をオ激レが笑尞わせたんだという達成感。",
+    ("めったに笑尞わない委員長をオレが笑尞わせたんだという達成感。",
     ""),
     # I felt a sense of accomplishment that I made the chairman laugh out loud, which rarely made him laugh.
 
-    ("それと同椏時に、この貴重な笑迴顔を独闢り占めしている優越感がオ激レを嬉しくさせる。†",
+    ("それと同椏時に、この貴重な笑迴顔を独闢り占めしている優越感がオレを嬉しくさせる。†",
     ""),
     # At the same time, the sense of superiority that makes me stand out from this precious face makes me excited.†
 
-    ("少し烽歩いてから、オ激レは言った。",
+    ("少し烽歩いてから、オレは言った。",
     ""),
     # After a short walk, I said, "I'm not going to stop."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「そｂそｂ、ひとりっきりでいるの烽も飽きてこないか？	諱取闔りあえずこの辺で、友だち、″っち痰ゃどうだ？」",
+    ("「そそ、ひとりっきりでいるの烽も飽きてこないか？	諱取闔りあえずこの辺で、友だち、″っち痰ゃどうだ？」",
     ""),
     # "B, b, are you bored of being alone? I'm not going to get bored of it all? I'm not going to get any more friends here and there, "What about phlegm?"”
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「閨手頃なとこで、オ激レなんかおすすめだぜ？	オ激レたち、意外と気が№合うだｂ？」",
+    ("「閨手頃なとこで、オレなんかおすすめだぜ？	オレたち、意外と気が№合うだ？」",
     ""),
     # "It's a reasonable place, so I recommend you a geek, right? We're the ones who are surprisingly intimate, right?"
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "...Well, there's no stomping, so there's no stomping. Rather, I think it's the type who can make it with no temptation."
 
-    ("「だｂ？」†",
+    ("「だ？」†",
     ""),
     # "dab?"†
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "I'm feeling good."
 
-    ("オ激レが、ははっと笑うと、委員長熬も、",
+    ("オレが、ははっと笑うと、委員長熬も、",
     ""),
     # When I laughed aaaaa, the chairman, Kei,
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # He said with a mischievous smile.†
 
-    ("そのうちク宴ラスの竄やつらの前でで烽も、自然とこの笑迴顔ができるようになるといい。",
+    ("そのうちクラスのやつらの前でで烽も、自然とこの笑迴顔ができるようになるといい。",
     ""),
     # I hope that soon, you will naturally be able to make a laughing face in front of the tampering people of the Crowd.
 
-    ("そうすれば、みんなとの翌距離燉も縮まるし、委員長だって竄寂しい思いをしなくてすむ。",
+    ("そうすれば、みんなとの翌距離燉も縮まるし、委員長だって寂しい思いをしなくてすむ。",
     ""),
     # This will shorten the next distance between you and everyone, and even the chairman will not have to feel lonely.
 
@@ -207,10 +207,10 @@ text_array = [
     # "I'm really a weird guy, kun."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("けど、それまでは、この笑迴顔はオ激レだけの烽ものにしておきたい。◯",
+    ("けど、それまでは、この笑迴顔はオレだけの烽ものにしておきたい。◯",
     ""),
     # However, until then, I want to keep this laughing face just like my super-sexy.◯
 

@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Hey, senior.
 
-    ("オ激レは心のｒでつぶ竄やくと、その場を繧後にした。◯",
+    ("オレは心のｒでつぶやくと、その場を繧後にした。◯",
     ""),
     # I messed up with my heart and left the scene behind.◯
 

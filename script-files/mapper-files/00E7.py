@@ -2,15 +2,15 @@
 # Source file: 00E7.txt
 
 text_array = [
-    ("（４獅月２９冾日	朝）閨（♂史とモ買い物）閨（最近、もてるだｂ）†",
+    ("（４獅月２９冾日	朝）閨（♂史とモ買い物）閨（最近、もてるだ）†",
     ""),
     # (April 29th Day, Morning) (Masked with Masked) (Lately, Mote-da b) †
 
-    ("「最近、もてるだｂ？」",
+    ("「最近、もてるだ？」",
     ""),
     # "You've been so busy lately?"
 
-    ("オ激レは聞いた。",
+    ("オレは聞いた。",
     ""),
     # I heard.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Huh? ...What's that, all of a sudden?"
 
-    ("「い竄や、なんとなく聞きたくてな」†",
+    ("「いや、なんとなく聞きたくてな」†",
     ""),
     # "It's a bit of a mess, I just want to hear it."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I think it's not too hot and there's no hot water."
 
-    ("「けっこうファンがいるって話だｂ？」",
+    ("「けっこうファンがいるって話だ？」",
     ""),
     # "You mean there are quite a few fans?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Are you kid who's keeping his eyes on you?"
 
-    ("「え？	い竄や、そういうのは、べつに…」",
+    ("「え？	いや、そういうのは、べつに…」",
     ""),
     # "Huh? It's all that stuff..."
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # "What is it, tell me?"
 
-    ("に竄やけたツ宴ラのオ激レが、ヒジで小突く。",
+    ("にやけたツラのオレが、ヒジで小突く。",
     ""),
     # My hardcore thrusts into the banquet, and thrusts with my elbow.
 
-    ("「ま、まあ、そり痰ゃ、ち蛯ょっと気になる鰍相闡手ぐらいいるけど…」†",
+    ("「ま、まあ、そり痰ゃ、ちょっと気になる鰍相闡手ぐらいいるけど…」†",
     ""),
     # "Well, well, there are so many monkeys that I'm curious about, though..."
 
-    ("「なんだ、教えｂよ、ほれほれ」",
+    ("「なんだ、教えよ、ほれほれ」",
     ""),
     # "What, teach me, b, come on."
 

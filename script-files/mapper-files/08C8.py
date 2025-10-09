@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hi Amai!"
 
-    ("戟レミィはオ激レに気づくと、にっこり手を振った。†",
+    ("戟レミィはオレに気づくと、にっこり手を振った。†",
     ""),
     # When Karemi noticed me, she smiled and waved.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "That's right."
 
-    ("彼濫女はオ激レがうなずく前に、",
+    ("彼濫女はオレがうなずく前に、",
     ""),
     # Before my throbbing nodded,
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Looks, listen, listen."
 
-    ("とオ激レの腕を引っ張った。†",
+    ("とオレの腕を引っ張った。†",
     ""),
     # He pulled my arm.†
 
-    ("オ激レは｢｢。",
+    ("オレは｢｢。",
     ""),
     # I'm '.
 

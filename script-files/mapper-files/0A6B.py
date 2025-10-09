@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (A chases after Erimoo.)†
 
-    ("「悪い、あかり。オ激レ、ち蛯ょっと先に行く」",
+    ("「悪い、あかり。オレ、ちょっと先に行く」",
     ""),
     # "Sorry, Akari. I'm going ahead, huh."
 
-    ("オ激レの言いたいことをなんとなく察したのか、あかりはキ㏍ョトンとしたままうなずく。",
+    ("オレの言いたいことをなんとなく察したのか、あかりはキョトンとしたままうなずく。",
     ""),
     # Akari nodded, squealingly, perhaps because he had somehow understood what I was trying to say.
 
-    ("そしてオ激レは揩理女緒ち痰ゃんの繧後を追った。◯",
+    ("そしてオレは揩理女緒ち痰ゃんの繧後を追った。◯",
     ""),
     # And I followed the slut after the slut.◯
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "picture?"†
 
-    ("「オ激レとあかりに唐遠慮したんだｂ？」",
+    ("「オレとあかりに遠慮したんだ？」",
     ""),
     # "Did you refrain from being a tangible person and Akari?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "And so, there's no hot water."
 
-    ("「で烽も竄やっぱり、くんって、神岸さんと№仲が良いんだよね？」",
+    ("「で烽もやっぱり、くんって、神岸さんと№仲が良いんだよね？」",
     ""),
     # "And as expected, Kang is good friends with Kamigishi, right?"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Oh, that's right..."
 
-    ("心なしか、そうつぶ竄やく揩理女緒ち痰ゃんの声は嬉しそうだった。†",
+    ("心なしか、そうつぶやく揩理女緒ち痰ゃんの声は嬉しそうだった。†",
     ""),
     # In spite of her heart, the voice of Ochi-san who was muttering was so happy.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Say that,
 
-    ("「…ち蛯ょっと、ほっとしち痰ゃった…」†",
+    ("「…ちょっと、ほっとしち痰ゃった…」†",
     ""),
     # "...I felt relieved and relieved..."
 

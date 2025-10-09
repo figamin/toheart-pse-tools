@@ -2,7 +2,7 @@
 # Source file: 00D0.txt
 
 text_array = [
-    ("（４獅月２０冾日	昼）閨（戟レミィ、マ泣ルチのイベントがない場㍼合）閨（ある場㍼合はそれぞれのファイ泣ルへ）閨（自分の部屋）†",
+    ("（４獅月２０冾日	昼）閨（戟レミィ、マルチのイベントがない場㍼合）閨（ある場㍼合はそれぞれのファイルへ）閨（自分の部屋）†",
     ""),
     # (April 20th day, noon) (Available in the event where there are no events for the Remy or Makkuruchi) (Available in the event for each Fkkuruchi) (My room) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Fourth day of the 20th day of the 19th day of the 1990s, Sunday Day of the 1990s.
 
-    ("目が覚めると、竅やっぱり汲昼。",
+    ("目が覚めると、やっぱり汲昼。",
     ""),
     # When I woke up, it was lunchtime after all.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # =You're eating a meal and taking a break.
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # From who?†
 
-    ("オ激レは玄関に出て受話嶸器を取闔り繧上げた。",
+    ("オレは玄関に出て受話嶸器を取闔り繧上げた。",
     ""),
     # I went out to the entrance and grabbed the receiver and put it up.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yes."
 
-    ("「竅やっほー！	あ・た・し翌＠」",
+    ("「やっほー！	あ・た・し翌＠」",
     ""),
     # "Ahhhh! Ah, the next day @"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Suddenly, a voice of mercy came to me.†
 
-    ("オ激レの知闥り№合いのｒで、こんな無逍礼なрヤツはひとりしかいない。",
+    ("オレの知闥り№合いのｒで、こんな無逍礼なрヤツはひとりしかいない。",
     ""),
     # With my extremely insightful knowledge, there is only one such unpopular person.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Yo"
 
-    ("まずはしっかり名譁乗髀るのが礼儀だｂうが。",
+    ("まずはしっかり名譁乗髀るのが礼儀だうが。",
     ""),
     # First of all, it's polite to be sure to follow the famous one.
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "Which one do you go?"
 
-    ("オ激レは断固として気づかない振關りをする。†",
+    ("オレは断固として気づかない振關りをする。†",
     ""),
     # My guts resolutely makes unnoticed calls.†
 
-    ("「ち蛯ょっとあんた、寝ぼけてんじ痰ゃないの？	こんな可愛い彼濫女が電話してあげてんのに」",
+    ("「ちょっとあんた、寝ぼけてんじ痰ゃないの？	こんな可愛い彼濫女が電話してあげてんのに」",
     ""),
     # "Are you sleeping, don't you have any phlegms? Such a cute girl is calling me."
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "Ah, what do you need, oh?"
 
-    ("キ潟リがないので、諱先に折齔れる。†",
+    ("キリがないので、諱先に折齔れる。†",
     ""),
     # Since there is no Kigatari, I can be reeled to the name.†
 
-    ("「なによ、增わかってんじ痰ゃないの。まったく、とぼけんの烽もいい加減にしなさいよ」",
+    ("「なによ、わかってんじ痰ゃないの。まったく、とぼけんの烽もいい加減にしなさいよ」",
     ""),
     # "What, you know, you don't have any phlegms. Just take it easy to even the shady, completely shady."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Congratulations to keep it all in mind. When I call, first I will give my name a name!"
 
-    ("「オ激レとあたしで十分通じる№仲でし蛯ょーが。",
+    ("「オレとあたしで十分通じる№仲でしょーが。",
     ""),
     # "I'm a great friend and I'm a great friend.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Yes, yes, it's fine. And what do you need?"
 
-    ("受話嶸器を少し唐遠ざけて言った。†",
+    ("受話嶸器を少し遠ざけて言った。†",
     ""),
     # He said, moving the receiver slightly away.†
 
-    ("「そうそう。あんた、どうせいま暇でし蛯ょ？	あたしんちまでｗて」",
+    ("「そうそう。あんた、どうせいま暇でしょ？	あたしんちまでｗて」",
     ""),
     # "That's right. How are you bored? I'm not even gonna get in the middle of it lol."
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # "It's a really weird thing. One way, 190 yen."
 
-    ("「カネの竄問阮題じ痰ゃねーだｂが。なんでオ激レが墲わざ墲わざ出曙かなき痰ゃなんねーんだ」",
+    ("「カネの問題じ痰ゃねーだが。なんでオレが墲わざ墲わざ出曙かなき痰ゃなんねーんだ」",
     ""),
     # "The title of the tampering with money is a question of how it is. Why did I make a phlegm on purpose to make a phlegm on purpose to make a phlegm?"
 
-    ("「なんで？	いいじ痰ゃん。暇でし蛯ょ？」",
+    ("「なんで？	いいじ痰ゃん。暇でしょ？」",
     ""),
     # "Why? I'm fine with phlegm. I'm bored, slut?"
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # I started kneading the daddy.†
 
-    ("「增わりぃな、つき№合ってらんねー諱よ」",
+    ("「わりぃな、つき№合ってらんねー諱よ」",
     ""),
     # "Not good, I'm not a good candidate, I'm a no-go."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "What? What kind of service is this?"
 
-    ("「トーク宴ライブにご招待ってのは？」",
+    ("「トークライブにご招待ってのは？」",
     ""),
     # "What are you invited to the talk party live?"
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Whose's?"
 
-    ("「もちｂん、あたしの」",
+    ("「もちん、あたしの」",
     ""),
     # "Mochib, my."
 
@@ -182,11 +182,11 @@ text_array = [
     ""),
     # Gacha.
 
-    ("オ激レは受話嶸器を置いた。",
+    ("オレは受話嶸器を置いた。",
     ""),
     # I placed the receiver.
 
-    ("ひとに烽ものを鰍頼むなら、もっとそれなりの鰍頼み福方ってのがあるだｂーが。",
+    ("ひとに烽ものを鰍頼むなら、もっとそれなりの鰍頼み方ってのがあるだーが。",
     ""),
     # If you want to order hot kalp from someone, there's a way to get better than that.
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # When I tried to get back to the second floor, I stepped on my feet.†
 
-    ("プ泣ル泣ル泣ル泣ル泣ル泣ル泣ル泣ル…。",
+    ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
@@ -206,11 +206,11 @@ text_array = [
     ""),
     # "yes"
 
-    ("「ち蛯ょっとォ〜、いきなり切逅らないでよォ。せっかくあたしが誘ってあげてんのに」",
+    ("「ちょっとォ〜、いきなり切逅らないでよォ。せっかくあたしが誘ってあげてんのに」",
     ""),
     # "Ahhhh, don't suddenly come across it. I've been asking you out."
 
-    ("「だから、遠慮するっつってんだｂーがよ」†",
+    ("「だから、遠慮するっつってんだーがよ」†",
     ""),
     # "That's why I'm refraining from doing that, b."
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "This is fine..." †
 
-    ("結局その冾日は、家でごｂごｂ過ごした。◯",
+    ("結局その冾日は、家でごご過ごした。◯",
     ""),
     # In the end, I spent the day at home.◯
 

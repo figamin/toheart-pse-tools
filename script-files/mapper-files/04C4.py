@@ -10,15 +10,15 @@ text_array = [
     ""),
     # "Stay, Shiho."
 
-    ("「おっ、じ痰ゃん。いいとこｂにｗた墲わね」",
+    ("「おっ、じ痰ゃん。いいとこにｗた墲わね」",
     ""),
     # "Oh, sputum. You're in the good spot b."
 
-    ("なに竄やら裏のありそうな笑みをｂ浮かべて、志保が言う。†",
+    ("なにやら裏のありそうな笑みを浮かべて、志保が言う。†",
     ""),
     # Shiho says with a smile on his face that seems like something is going on about.†
 
-    ("オ激レの行動は。",
+    ("オレの行動は。",
     ""),
     # What is my intense behavior?
 

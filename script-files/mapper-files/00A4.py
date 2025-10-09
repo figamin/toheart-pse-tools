@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("慌てて髪を押さえるオ激レ。",
+    ("慌てて髪を押さえるオレ。",
     ""),
     # I hurriedly pressed my hair down.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "...There it is... I'm so tired, it's jumping up on my slut."
 
-    ("さ墲わった感じ、まるで漫譁画のキャャ宴ラクターみたいになってる。",
+    ("さ墲わった感じ、まるで漫譁画のキャャラクターみたいになってる。",
     ""),
     # It feels like a banquet of a manga artist.
 
@@ -83,18 +83,18 @@ text_array = [
     # That's amazing.This kind of thing is so strong that it's wet, but there's no way the phlegm is washed now, and the phlegm is still washing your head..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ふたりして玄関で考え桙込んでしまう。†",
     ""),
     # They both ponder in the entrance.†
 
-    ("「そうだ、いい福方法があるよ」",
+    ("「そうだ、いい方法があるよ」",
     ""),
     # "Yeah, there's a good way to bless you."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "What's up?"
 
-    ("「ち蛯ょっと、おじ痰ゃまするね」",
+    ("「ちょっと、おじ痰ゃまするね」",
     ""),
     # "You're going to have some phlegm, ugly."
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # With that, Akari took off her shoes and rose into the house and creaked her.†
 
-    ("「オ激レんちの艪台椛所に、なにがあんだよ」",
+    ("「オレんちの台椛所に、なにがあんだよ」",
     ""),
     # "What's up with my super-stricken bait?"
 
-    ("「濡逕らして烽もいいタオ泣ル、ある？」",
+    ("「濡逕らして烽もいいタオル、ある？」",
     ""),
     # "Do you have a nice hot toast cry?"
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("タオ泣ルをｐで濡逕らす。†",
+    ("タオルをｐで濡逕らす。†",
     ""),
     # I wet the Tao crying with p.†
 
-    ("「濡齡れタオ泣ルなんかじ痰ゃ直んねーぞ」",
+    ("「濡齡れタオルなんかじ痰ゃ直んねーぞ」",
     ""),
     # "You're wet, so crying, so you don't have any phlegms right."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # Next time I'll borrow the fire range."
 
-    ("そう言うと、あかりは、濡逕らしたタオ泣ルを撃レンジに入齠れてしまった。†",
+    ("そう言うと、あかりは、濡逕らしたタオルを撃レンジに入齠れてしまった。†",
     ""),
     # When Akari said that, he got wet, and he got into the range.†
 
@@ -163,7 +163,7 @@ text_array = [
     # Chee!
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ホントにチンしちまったよ。†",
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "There... Yes, please."
 
-    ("あかりは、はいと、秩湯気の立つ熱々タオ泣ルを差し出した。",
+    ("あかりは、はいと、秩湯気の立つ熱々タオルを差し出した。",
     ""),
     # Akari offered a hot, steaming hot tao cry.
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # Yes, Akari nods.†
 
-    ("オ激レはすぐに、タオ泣ルを髪に魔当てた。",
+    ("オレはすぐに、タオルを髪に魔当てた。",
     ""),
     # I immediately hit Tao crying against my hair.
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # "You know the secret tricks, don't you have to be phlegm? Where did you get the knowledge?"
 
-    ("「この間、テ激レビで竄やってたの」",
+    ("「この間、テレビでやってたの」",
     ""),
     # "The other day, I was tampering with a TV drama."
 
-    ("「そうか、いいこと聞いたぜ。これで多い冾日燗も安心って竄やつだな」†",
+    ("「そうか、いいこと聞いたぜ。これで多い冾日燗も安心ってやつだな」†",
     ""),
     # "I see, I heard something good. I'm sure this is a safe place to tamper with the many popular Japanese-style dishes."
 

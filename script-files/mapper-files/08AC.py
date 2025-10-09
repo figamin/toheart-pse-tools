@@ -10,7 +10,7 @@ text_array = [
     ""),
     # ""I guess it's the sea after all."
 
-    ("オ激レはち蛯ょっと考え、そう嘯答えた。",
+    ("オレはちょっと考え、そう嘯答えた。",
     ""),
     # I thought about it a little and replied.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Do you like the ocean?"
 
-    ("「おう。海ってのは、とくに夏の海が盾ワク純ワクしてくるな。色がいいよ。青い空…もっと青い海。それから、％道雲と窒白い砂浜、カ宴ラフ泣ルなビーチパ宴ラソ泣ル｢｢。なんかそれだけで盾ワク純ワクしてくるな」",
+    ("「おう。海ってのは、とくに夏の海が盾ワク純ワクしてくるな。色がいいよ。青い空…もっと青い海。それから、％道雲と窒白い砂浜、カラフルなビーチパラソル｢｢。なんかそれだけで盾ワク純ワクしてくるな」",
     ""),
     # "Oh, the sea, especially the summer sea, is really exciting with shields. The colour is nice. Blue sky... blue sea. Also, the sea is more blue. Also, the Doku clouds and the Nitrogen sandy beach, the beaches that are banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and the banquets and
 
-    ("頭のｒに景色をｂ浮かべて、思い付くままの言葉をならべる。†",
+    ("頭のｒに景色を浮かべて、思い付くままの言葉をならべる。†",
     ""),
     # I put the scenery on my head and arrange the words that come to mind.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # The thunderbolt was met with a slurping throbbing.
 
-    ("「そんな雰囲気だけで、楽しいことが起こりそうな気がしてくるんだよ。…だから、オ激レは断然『海』、しか烽も、夏の海が好きだな」",
+    ("「そんな雰囲気だけで、楽しいことが起こりそうな気がしてくるんだよ。…だから、オレは断然『海』、しか烽も、夏の海が好きだな」",
     ""),
     # "That kind of atmosphere makes me feel like something fun might happen. That's why I definitely love the 'sea' and the sea in the summer."
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # "I was born near the sea, so after hearing about the desire of Kedo, who had never thought of the sea in particular, I've also started to feel special about the summer sea."
 
-    ("「なんだよ…。西海岸カ潟リフォ泣ルニア辜育ちだから、海は≠普通だって？	なんかうら竄やましすぎるｂモノの見綷方だな」†",
+    ("「なんだよ…。西海岸カリフォルニア辜育ちだから、海は≠普通だって？	なんかうらやましすぎるモノの見綷方だな」†",
     ""),
     # "What is it... I grew up in Kagata Rifo-shine on the West Coast, so the sea is ≠ normal? It's a bit of a b-throat way to see things that are too envious of."
 
-    ("「アタシは海が好きな、うら竄やましいネ」",
+    ("「アタシは海が好きな、うらやましいネ」",
     ""),
     # "I love the sea, so I'm jealous."
 
-    ("「ちぇ、ち蛯ょーしいーこと言っち痰ゃってまあ」",
+    ("「ちぇ、ちょーしいーこと言っち痰ゃってまあ」",
     ""),
     # "Chh, I'm gonna say something so phlegm."
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # The ramblings persistently eat away at him.
 
-    ("オ激レは仕緖方なく、",
+    ("オレは仕緖方なく、",
     ""),
     # I'm not in charge of anything,
 
-    ("「じ痰ゃあ、增わかった。ち蛯ょっと気が≠早いが、夏休みに行こう」",
+    ("「じ痰ゃあ、わかった。ちょっと気が≠早いが、夏休みに行こう」",
     ""),
     # "Ah, I understand. I feel like it's too early, but let's go on summer vacation."
 

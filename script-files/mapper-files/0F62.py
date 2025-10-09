@@ -10,11 +10,11 @@ text_array = [
     ""),
     # To be honest, it's Shaku who is the one who is trying to borrow money from him, but I can call him the most without hesitation.
 
-    ("聞き竄やすいぜ。",
+    ("聞きやすいぜ。",
     ""),
     # It's easy to hear.
 
-    ("つー增わけで、′郁健閨B†",
+    ("つーわけで、′郁健閨B†",
     ""),
     # So, 'Yuu Ken Lib†
 
@@ -23,7 +23,7 @@ text_array = [
     # Papipo...
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ツー…ツー…ツー…。†",
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Kaji Ai Henzaki is talking to someone else without saying that?†
 
-    ("結局、♂史に聞いて、磨事なきを得た。◯",
+    ("結局、♂史に聞いて、事なきを得た。◯",
     ""),
     # In the end, I asked Masochist about it and found that it was fine.◯
 

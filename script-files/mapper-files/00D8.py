@@ -2,7 +2,7 @@
 # Source file: 00D8.txt
 
 text_array = [
-    ("（システムイベント	テスト発表）閨（あかりと勉強有阯り）閨（Ｓａ５の場㍼合）†",
+    ("（システムイベント	テスト発表）閨（あかりと勉強有り）閨（Ｓａ５の場㍼合）†",
     ""),
     # (System Event Test Presentation) Pin (Lights and Study) Pin (Standby Sa5) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I'm surprised.
 
-    ("努力の成果がこう烽も明確に出髀ると、竅やはり自分の実力を信じたくなる。",
+    ("努力の成果がこう烽も明確に出髀ると、やはり自分の実力を信じたくなる。",
     ""),
     # When the results of my efforts clearly show the results, I feel like I want to believe in my own abilities.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("いいタイミングで、あかりが竄やってきた。†",
+    ("いいタイミングで、あかりがやってきた。†",
     ""),
     # At the right time, Akari came tampering with it.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "What did you think of the results of the test?"
 
-    ("「ああ。いま、平均を出したとこｂだ」",
+    ("「ああ。いま、平均を出したとこだ」",
     ""),
     # "Yeah. It's now b, where we've got the average."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "What point?"
 
-    ("いちおう気をつかってか、少し唐遠慮気味に聞く。†",
+    ("いちおう気をつかってか、少し遠慮気味に聞く。†",
     ""),
     # Perhaps he was careful, but asked, a little more reserved.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Oh, see, see it."
 
-    ("オ激レは赤マ泣ルばかりのテストを広げた。†",
+    ("オレは赤マルばかりのテストを広げた。†",
     ""),
     # I spread the test with a lot of red-skinned cries.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # A light laughs as if flowers have bloomed at a glance.
 
-    ("オ激レ焜もオ激レで気を良くし、",
+    ("オレ焜もオレで気を良くし、",
     ""),
     # My hard work is also very excited,
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # He then takes a scorn into thinking, "I'm not going to get any more."†
 
-    ("「竅やっぱり、竅やればできるね、ち痰ゃんは」",
+    ("「やっぱり、やればできるね、ち痰ゃんは」",
     ""),
     # "After all, you can do it if you do it, Chissho-chan."
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # But to be honest, I feel that this time it's only possible because Akari's laughter-like support was there.†
 
-    ("「とこｂで、お前はどうなんだよ？」",
+    ("「とこで、お前はどうなんだよ？」",
     ""),
     # "At b, what about you?"
 
-    ("オ激レが聞くと、",
+    ("オレが聞くと、",
     ""),
     # When I heard
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "What? Was it no good?"
 
-    ("オ激レが顔をのぞき桙込むと、",
+    ("オレが顔をのぞき桙込むと、",
     ""),
     # When I looked into my face,
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Akari smiled and slurped.†
 
-    ("「えへへー、п私燻もバッチ潟リだよー」",
+    ("「えへへー、п私燻もバッチリだよー」",
     ""),
     # "Hehe, I'm a smoked man."
 

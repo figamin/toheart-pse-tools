@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Eh!? You're not going?"
 
-    ("「今厓日のとこｂは、な。…また誘ってくれ竄や」†",
+    ("「今厓日のとこは、な。…また誘ってくれや」†",
     ""),
     # "B, the moment I'm off... Please invite me again." †
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "It's phlegm."
 
-    ("オ激レは右濶手を繧上げた。†",
+    ("オレは右濶手を繧上げた。†",
     ""),
     # My head lifted my right hand.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Bye bye, sphinja."
 
-    ("そんな言葉に翌送迹られて、オ激レはふたりと別れた。◯",
+    ("そんな言葉に翌送迹られて、オレはふたりと別れた。◯",
     ""),
     # The next day, I was sent to the two of them.◯
 

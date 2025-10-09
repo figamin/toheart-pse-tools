@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (VS Event Shiho vs Tomoko) (Select Sou Shiho follows Korou)†
 
-    ("「委員長、そり痰ゃあち蛯ょっと言い過ぎだぜ。こいつみたく、禔口から生まれたようなрヤツ辜らには、休み桙時間くらい宸騒がせて竄やってくれよ」",
+    ("「委員長、そり痰ゃあちょっと言い過ぎだぜ。こいつみたく、禔口から生まれたようなрヤツ辜らには、休み桙時間くらい宸騒がせてやってくれよ」",
     ""),
     # "Chairman, you're just saying something too much. Just like this guy, please make a fuss and tamper with the guys who seem to have been born from your mouth, and make a fuss about the time you've had to rest."
 
-    ("志保はムカつく翌女だが、かといって揩喋髓るなと言うの烽も唐酷な話だ。",
+    ("志保はムカつく翌女だが、かといって揩喋髓るなと言うの烽も酷な話だ。",
     ""),
     # Shiho is annoyed the next woman, but even so, it's a bit cruel to say that she shouldn't talk.
 
-    ("「そうそう、あたしは福口から生まれて｢｢あれ？」†",
+    ("「そうそう、あたしは口から生まれて｢｢あれ？」†",
     ""),
     # "Yeah, I was born from Fukuguchi and said, "Huh?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "It's your fault!"
 
-    ("「いい竄や、オ＜メーのせいだぞ！」",
+    ("「いいや、オ＜メーのせいだぞ！」",
     ""),
     # "It's a tampering, it's just my fault!"
 

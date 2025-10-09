@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Then, a little while later, it was a day.†
 
-    ("マイパートナー葵ち痰ゃんは、今厓日燗も福練習に繧励んでいる。",
+    ("マイパートナー葵ち痰ゃんは、今厓日燗も練習に繧励んでいる。",
     ""),
     # My partner Aoi Chisho-yan is currently working hard to practice for Lucky Hikan as well.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # It gets so hot as I watch it.†
 
-    ("最近じ痰ゃオ激レ焜も見てるばかりじ痰ゃない。",
+    ("最近じ痰ゃオレ焜も見てるばかりじ痰ゃない。",
     ""),
     # Recently, I've been watching my phlegm and my phlegm are just too much.
 
-    ("葵ち痰ゃんのコーチの烽もと、ト激レーニングを積み、冝日搏増しに≠メキ＜メキと腕を繧上げていた。",
+    ("葵ち痰ゃんのコーチの烽もと、トレーニングを積み、冝日搏増しに≠メキ＜メキと腕を繧上げていた。",
     ""),
     # With Aoi Chishonan's coach, he trained hard, and his arms were raised as he continued to increase his daily life.
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # I would like to at least become a good enough man to work as a Spar Kajiring slug.†
 
-    ("い竄や。",
+    ("いや。",
     ""),
     # It's tampering.
 
-    ("これだけ実力がつき痰ゃ、そｂそｂいけるんじ痰ゃないのか。",
+    ("これだけ実力がつき痰ゃ、そそいけるんじ痰ゃないのか。",
     ""),
     # With such a strong ability, I wonder if there's no phlegm.
 
-    ("葵ち痰ゃんい墲わく、どう竄やらオ激レには天性の素質があるらしいしな。",
+    ("葵ち痰ゃんい墲わく、どうやらオレには天性の素質があるらしいしな。",
     ""),
     # It seems that Aoi's sphemous spurts have natural abilities, such as tampering and fierceness.
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Aoi Chishonan"
 
-    ("「…は、はい、なんでし蛯ょう？」",
+    ("「…は、はい、なんでしょう？」",
     ""),
     # "...Yes, why are you eclips?"
 
-    ("「なあ、いまからオ激レとスパーしようぜ？」",
+    ("「なあ、いまからオレとスパーしようぜ？」",
     ""),
     # "Hey, let's sparr with me now?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "What?!"
 
-    ("「オ激レ焜もずいぶん強くなったしさ、そｂそｂ鰍相闡手できると思うんだよ」†",
+    ("「オレ焜もずいぶん強くなったしさ、そそ鰍相闡手できると思うんだよ」†",
     ""),
     # "My hard work has become much stronger, so I think I can do it together."
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "That's true, but..."
 
-    ("「いいから、いいから。いっち蛯ょ竄やってみようぜ。いまのオ激レの実力がどのくらいなのか、氏試してみたいんだ」†",
+    ("「いいから、いいから。いっちょやってみようぜ。いまのオレの実力がどのくらいなのか、氏試してみたいんだ」†",
     ""),
     # "It's fine, it's fine. Let's try to tamper with it. I'd like to test out how much my current talent is."
 
-    ("「增わかりました。そこまでおっし痰ゃるなら」",
+    ("「わかりました。そこまでおっし痰ゃるなら」",
     ""),
     # "I understand. If you're that big of a phlegm."
 
@@ -110,15 +110,15 @@ text_array = [
     ""),
     # "Good name, phlegm" †
 
-    ("そして、オ激レと葵ち痰ゃんのスパー梶リングが始まった。†",
+    ("そして、オレと葵ち痰ゃんのスパー梶リングが始まった。†",
     ""),
     # Then, I and Aoi Chisho-yan's sparring ring began.†
 
-    ("「葵ち痰ゃん、閨手加減無用だぜ。本気で竄やってくれないと実力が墲わからないからな」",
+    ("「葵ち痰ゃん、閨手加減無用だぜ。本気でやってくれないと実力が墲わからないからな」",
     ""),
     # "Aoi Chisho-yan, you don't need to do anything. If you don't do it seriously, you won't be able to understand your abilities."
 
-    ("「…增わかりました」",
+    ("「…わかりました」",
     ""),
     # "...I understand."
 
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # Uh, ummm...
 
-    ("額に竄冷たい烽ものが魔当たっている…。",
+    ("額に冷たい烽ものが魔当たっている…。",
     ""),
     # A cold hot pot hits my forehead...
 
-    ("いったい、オ激レは…？†",
+    ("いったい、オレは…？†",
     ""),
     # What about me...?†
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "...Aoi... is it sphemous?"
 
-    ("オ激レはぼん竄やりとつぶ竄やいた。†",
+    ("オレはぼんやりとつぶやいた。†",
     ""),
     # My heart started messing around and muttering.†
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # My eyes were a little moist.
 
-    ("どうしたんだｂ。",
+    ("どうしたんだ。",
     ""),
     # What's wrong b?
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # A wet handkerchief is in her hand.
 
-    ("そっか、さっきまで額に感じていた竄冷たい感触はこれだったのか。†",
+    ("そっか、さっきまで額に感じていた冷たい感触はこれだったのか。†",
     ""),
     # I see, this was the cold feeling I had felt on my forehead up until now.†
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # Oh, I see.
 
-    ("そうい竄や、スパーの途湯だったっけ。",
+    ("そういや、スパーの途湯だったっけ。",
     ""),
     # I guess it was a tampering, and it was a sparrow.
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # Wow, 﨟I have no sympathy.†
 
-    ("「自分で烽も、まさかク潟リーンヒットするとは思寬わなくて…」",
+    ("「自分で烽も、まさかクリーンヒットするとは思寬わなくて…」",
     ""),
     # "I never thought that even a hot spring would hit Kugata Lean myself..."
 
@@ -282,11 +282,11 @@ text_array = [
     ""),
     # Tears are about to fall into the air right now.†
 
-    ("オ激レは平気を浮装い、ニカッと笑うと、",
+    ("オレは平気を浮装い、ニカッと笑うと、",
     ""),
     # I looked fine and smiled,
 
-    ("「い竄や、それよりナイスなパンチだったぜ」",
+    ("「いや、それよりナイスなパンチだったぜ」",
     ""),
     # "Tampering, it was a nicer punch."
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # "Isaac Senpai..."
 
-    ("葵ち痰ゃんは、濡齡れたハンカチをオ激レの頬にそっと押し魔当てた。†",
+    ("葵ち痰ゃんは、濡齡れたハンカチをオレの頬にそっと押し魔当てた。†",
     ""),
     # Aoi Chisho-yan gently pressed a wet handkerchief against my fierce cheeks.†
 
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # "Ah, sorry! Does it hurt?!"
 
-    ("「あ、い竄や、ち蛯ょっと、な。はは…」",
+    ("「あ、いや、ちょっと、な。はは…」",
     ""),
     # "Ah, it's a bit of a mess, a bit. Haha..."
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # The bathing atmosphere blew through, and the trees in the forest squealed.
 
-    ("さ墲わ竄やかな奄初夏の翌風だ。",
+    ("さ墲わやかな奄初夏の翌風だ。",
     ""),
     # It's a bit of a messy day after early Amami.
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # It's good to keep you excited.†
 
-    ("ク宴ラブの≠メンバーは、いまだに葵ち痰ゃんとオ激レのふたりだけ。",
+    ("クラブの≠メンバーは、いまだに葵ち痰ゃんとオレのふたりだけ。",
     ""),
     # The only members of Kuban Love are Aoi Chisho-yan and me.
 
@@ -338,11 +338,11 @@ text_array = [
     ""),
     # Unfortunately, the torture that was approved by the school was not inflicted on the torture of the same school.†
 
-    ("だが、オ激レはべつに、いまのままで烽もいいと思っている。",
+    ("だが、オレはべつに、いまのままで烽もいいと思っている。",
     ""),
     # However, I really think that the hot water is fine as it is now.
 
-    ("こうして葵ち痰ゃんとふたり、誰に烽もジャャマされないク宴ラブリ動っての烽も、それはそれで悪くない烽もんだ。†",
+    ("こうして葵ち痰ゃんとふたり、誰に烽もジャャマされないクラブリ動っての烽も、それはそれで悪くない烽もんだ。†",
     ""),
     # The two of them, who are in love with Aoi Chisho-chan, and the banquet that no one can sing about, are not bad either.†
 
@@ -354,27 +354,27 @@ text_array = [
     ""),
     # Aoi Chishonan-chan also said that last day.†
 
-    ("どう竄やらオ激レと同じ気搴持ちらしい。",
+    ("どうやらオレと同じ気搴持ちらしい。",
     ""),
     # Apparently he has the same energy as me, even though he's tampered with it.
 
-    ("ふたりだけのク宴ラブ…か。",
+    ("ふたりだけのクラブ…か。",
     ""),
     # A love for the two of them... is it?
 
-    ("だとしたらなおさら、パートナーのオ激レがフォ鴻ローして竄やらないとな。†",
+    ("だとしたらなおさら、パートナーのオレがフォ鴻ローしてやらないとな。†",
     ""),
     # If that's the case, it's even more important that my partner, my titularity, follow me and tamper with it.†
 
-    ("秋のエクスト潟リームにはまだ冾日はあるが、葵ち痰ゃんは≠早く烽も気㈲合い十分で繧励んでいる。",
+    ("秋のエクストリームにはまだ冾日はあるが、葵ち痰ゃんは≠早く烽も気㈲合い十分で繧励んでいる。",
     ""),
     # There are still days to be raised in the autumn Extreme Ream, but Aoi Chisho-chan is also quick to get enough of the spirits and is working hard.
 
-    ("スパー梶リングで実寬戦感覚を養えば、さらに強くなれるだｂう。",
+    ("スパー梶リングで実寬戦感覚を養えば、さらに強くなれるだう。",
     ""),
     # If you develop a sense of real battle with Spar Kaji Ring, you will become even stronger.
 
-    ("ただし、パートナーのオ激レに、その鰍相闡手が務まればだが…。†",
+    ("ただし、パートナーのオレに、その鰍相闡手が務まればだが…。†",
     ""),
     # However, if the partner is able to work as a supporter...†
 
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # "Isaac Senpai..."
 
-    ("「…へへ、ホント、いいパンチだった。最近とくに撃レベ泣ルアップしてんじ痰ゃねーの？」",
+    ("「…へへ、ホント、いいパンチだった。最近とくに撃レベルアップしてんじ痰ゃねーの？」",
     ""),
     # "...Hehe, it was a really good punch. Have you ever been crying up recently?
 
@@ -398,7 +398,7 @@ text_array = [
     ""),
     # Okay..."
 
-    ("オ激レは起き繧上がった。†",
+    ("オレは起き繧上がった。†",
     ""),
     # My ramblings started to rise.†
 
@@ -410,7 +410,7 @@ text_array = [
     ""),
     # "What?!"
 
-    ("「さっきのは福油断しすぎた。あんなのオ激レの実力じ痰ゃねーぜ」",
+    ("「さっきのは油断しすぎた。あんなのオレの実力じ痰ゃねーぜ」",
     ""),
     # "I was too careful about the previous one. I have no stimulation of my abilities like that."
 
@@ -418,7 +418,7 @@ text_array = [
     ""),
     # "And, and the hot spring..."
 
-    ("「はいはい、竅やる竄やる！」",
+    ("「はいはい、やるやる！」",
     ""),
     # "Yes, yes, I'll do it!"
 
@@ -462,11 +462,11 @@ text_array = [
     ""),
     # "...I'm your name, I'm your name, I'm your name!"
 
-    ("葵ち痰ゃんはと烽もかく、このオ激レがエクスト潟リームに参加できる冾日は、",
+    ("葵ち痰ゃんはと烽もかく、このオレがエクストリームに参加できる冾日は、",
     ""),
     # There are also many Aoi Chisho-chan and other hot spots, and the date when this mega-reel can participate in Extreme Ream is
 
-    ("いったいいつになること竄やら…。†",
+    ("いったいいつになることやら…。†",
     ""),
     # Whatever happens, it's like it's tampering...†
 

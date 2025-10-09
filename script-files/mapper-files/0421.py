@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Choosing)†
 
-    ("オ激レは声をかけようと近づいた｢｢とこｂで立ち止まる。",
+    ("オレは声をかけようと近づいた｢｢とこで立ち止まる。",
     ""),
     # I approached me to call out to him, "Stop at Tokib.
 
-    ("見たとこｂ、本に夢亦でрヤツはр隙だらけだ。",
+    ("見たとこ、本に夢亦でрヤツはр隙だらけだ。",
     ""),
     # When I see it, the dreams in books are also full of gaps.
 
-    ("諱よし、軽くおどかして竄やれ。†",
+    ("諱よし、軽くおどかしてやれ。†",
     ""),
     # Okay, just timidate and tamper with it.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Shihhhhh"
 
-    ("オ激レは背續後から息を≠吹きかけた。◯",
+    ("オレは背續後から息を≠吹きかけた。◯",
     ""),
     # My heart started sighing after I turned back.◯
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Uhhhhh"
 
-    ("いきなり声を繧上げる志保に、オ激レ焜も驚いてしまう。†",
+    ("いきなり声を繧上げる志保に、オレ焜も驚いてしまう。†",
     ""),
     # Even my heart is surprised by Shiho's sudden voice.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "The miased phlegm is different. 'Staphylaxis', bacterial aceta'"†
 
-    ("「その細菌がお前に挑峵戦してきたって思ったのか？	お前、病気だｂ？	頭の」",
+    ("「その細菌がお前に挑峵戦してきたって思ったのか？	お前、病気だ？	頭の」",
     ""),
     # "Did you think that bacteria have been fighting you? You're sick? Your head?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # With what idea is that bacteria will start fighting after the attack?
 
-    ("「うっさい墲わね、男のあんたに痰ゃ墲わかんない墲わよ。このキ㏍ョーフが」†",
+    ("「うっさい墲わね、男のあんたに痰ゃ墲わかんない墲わよ。このキョーフが」†",
     ""),
     # "That's a shame, I don't know about the man. This kid is."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "What is it? Is it written Cao in that book?"
 
-    ("オ激レは志保の手にした本を下からのぞいた。",
+    ("オレは志保の手にした本を下からのぞいた。",
     ""),
     # I peeked from below at the book Shiho had in his hands.
 
-    ("見骭ると、『忍び寄驫るミク鴻ロの恐怖』なんてタイト泣ルがついている。",
+    ("見骭ると、『忍び寄驫るミク鴻ロの恐怖』なんてタイトルがついている。",
     ""),
     # When I looked at it, I saw a tight cry, "The terror of Miku Hongro sneaking up in the air."
 
@@ -94,19 +94,19 @@ text_array = [
     ""),
     # It's a treasure trove of new discoveries and new information.†
 
-    ("「あんた烽も読む？	怖くてトイ激レ焜も行けなくなる墲わよ」",
+    ("「あんた烽も読む？	怖くてトイレ焜も行けなくなる墲わよ」",
     ""),
     # "You're also reading Hot too? I'm scared to be unable to even go to Toy's Super Relax."
 
-    ("竅やけに嬉しそうな顔で志保が言う。",
+    ("やけに嬉しそうな顔で志保が言う。",
     ""),
     # Shiho said with a rather happy look on his face.
 
-    ("細菌の怖さと幽覧の怖さをごっち痰ゃにして竄やがる。†",
+    ("細菌の怖さと幽覧の怖さをごっち痰ゃにしてやがる。†",
     ""),
     # They are tampering with the scaryness of bacteria and the scaryness of ghosts.†
 
-    ("「アホ。細菌の本読んでトイ激レに行けなくなるかよ」",
+    ("「アホ。細菌の本読んでトイレに行けなくなるかよ」",
     ""),
     # "Idiot. I wonder if I'll be able to go to Toy Gekire after reading a book about bacteria."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "...I'm seriously injured. My head"
 
-    ("「增わかってない墲わね〜。いい？	黄色ブドウル菌、略してブドキャーはそこいらじ繧ゅうにくっついてる細菌なのよ。ほら、あんたに烽も付いてる墲わ」",
+    ("「わかってない墲わね〜。いい？	黄色ブドウル菌、略してブドキャーはそこいらじ繧ゅうにくっついてる細菌なのよ。ほら、あんたに烽も付いてる墲わ」",
     ""),
     # "You don't understand it. Okay? Staphylococcus aureus, or for short, budkyar, is a bacteria that is stuck all over the place. Come on, you also have hot pot."
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "If you don't see phlegm, I'm not afraid of it" †
 
-    ("「あんた、病院行ってないでし蛯ょうね？」",
+    ("「あんた、病院行ってないでしょうね？」",
     ""),
     # "You haven't gone to the hospital, are you ecstatic?"
 
@@ -150,11 +150,11 @@ text_array = [
     ""),
     # "Hospital? Don't go, my name. You're the one who's going."
 
-    ("「そお、ち蛯ょっとだけ安心した墲わ。…奴逑らはあそこにいるのよ」",
+    ("「そお、ちょっとだけ安心した墲わ。…奴逑らはあそこにいるのよ」",
     ""),
     # "Oh, I'm relieved that it's just a slut...the slaves are over there."
 
-    ("「增わかんねーこと言ってねえで、このオ激レに烽も墲わかるように言え」†",
+    ("「わかんねーこと言ってねえで、このオレに烽も墲わかるように言え」†",
     ""),
     # "I'm not saying anything I don't know, so I can tell you this guy so that he can understand it."
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # Listen carefully, right?First of all, do you know about antibiotics?”
 
-    ("「抗生物質？	病気のときに使う薬だｂ？	それ烽も効き目抜群の」",
+    ("「抗生物質？	病気のときに使う薬だ？	それ烽も効き目抜群の」",
     ""),
     # "Antibiotics? A drug used when you're sick? The hot water is also very effective."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Hey, are you afraid of bacteria that are resistant to that medicine?"
 
-    ("「半分抹当たり。で、その強い細菌が外に出て、たまたまその辺にいたブドキャーと出初ったりすると、『お近づきの印にどうぞ』ってノ潟リで抗生物質が効かなくなる能力をプ激レゼントするのよ。細菌ってのはそう竄やってアイテム交換するみたいに能力を交換すんの」†",
+    ("「半分抹当たり。で、その強い細菌が外に出て、たまたまその辺にいたブドキャーと出初ったりすると、『お近づきの印にどうぞ』ってノリで抗生物質が効かなくなる能力をプレゼントするのよ。細菌ってのはそうやってアイテム交換するみたいに能力を交換すんの」†",
     ""),
     # "At half of the time. When the strong bacteria go outside and happen to be out with a budokya who happened to be around, they will express their ability to prevent antibiotics from working at Nogatari, saying, "Please use the sign of approach." Bacteria exchange abilities like exchanging abilities like exchanging items."
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "oh yeah"†
 
-    ("「それは墲わかったが、ブドキャーって≠普通にいるんだｂ？	それで病気になるのか？」",
+    ("「それは墲わかったが、ブドキャーって≠普通にいるんだ？	それで病気になるのか？」",
     ""),
     # "I understand that, but is Budkyah normally there? B? Will that make you sick?"
 
-    ("薬の効かない病原菌は怖いけど、＝普通の菌は怖くないだｂ。",
+    ("薬の効かない病原菌は怖いけど、＝普通の菌は怖くないだ。",
     ""),
     # I'm scared of pathogens that don't work, but I'm not scared of normal bacteria.
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "Not, I'm a name" †
 
-    ("「じ痰ゃあさ、ブドキャーが人間をシ㏍ョック死させる力を烽もらってたらどうする？」",
+    ("「じ痰ゃあさ、ブドキャーが人間をショック死させる力を烽もらってたらどうする？」",
     ""),
     # "What if Budkyah receives the power to kill humans?"
 

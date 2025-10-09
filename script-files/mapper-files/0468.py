@@ -2,7 +2,7 @@
 # Source file: 0468.txt
 
 text_array = [
-    ("（志保	追加イベント３	帰闍り道）閨（４／１６固闌定）†",
+    ("（志保	追加イベント３	帰闍り道）閨（４／１６固定）†",
     ""),
     # (Shiho Additional Event 3 Return Road) (Standard 4/16)†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # A: What is it for?Relax
 
-    ("Ｂ	竅やだね。閨",
+    ("Ｂ	やだね。閨",
     ""),
     # B I don't like it.Relax
 

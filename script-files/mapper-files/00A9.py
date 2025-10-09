@@ -14,7 +14,7 @@ text_array = [
     ""),
     # It's the second day of the final exams in the grade.
 
-    ("ま、氏落譌第しない程度にはがんばｂう。†",
+    ("ま、氏落譌第しない程度にはがんばう。†",
     ""),
     # Well, I'll do my best to not let the people go wrong.†
 

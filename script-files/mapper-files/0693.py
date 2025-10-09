@@ -2,19 +2,19 @@
 # Source file: 0693.txt
 
 text_array = [
-    ("（マ泣ルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｂ	こんな程度でモ泣くなよ）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｂ	こんな程度でモくなよ）†",
     ""),
     # (Muryuruchi, Scales Event 2F LV3) (Choice B Don't cry at this level)†
 
-    ("「おいおい、この程度でモ泣くなよ」",
+    ("「おいおい、この程度でモくなよ」",
     ""),
     # "Hey hey, don't cry at this level."
 
-    ("オ激レはマ泣ルチの頭をなでて言った。",
+    ("オレはマルチの頭をなでて言った。",
     ""),
     # I said, stroking the head of the crying ruchi.
 
-    ("マ泣ルチは背が痰低いので、ち蛯ょうどなで竄やすい位置に頭がある。†",
+    ("マルチは背が痰低いので、ちょうどなでやすい位置に頭がある。†",
     ""),
     # Since the back of the murmur is short, the head is in a position that is easy to tamper with.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Here you see..."
 
-    ("オ激レは苦笑しながら、ティッシャでマ泣ルチの目燒もとを拭った。",
+    ("オレは苦笑しながら、ティッシャでマルチの目燒もとを拭った。",
     ""),
     # I smiled wryly and wiped away the corners of my crying Ruchi with a tissue.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "...Subibasen."
 
-    ("マ泣ルチは烽もう一度、チ〜ンっと鼻をかんだ。†",
+    ("マルチは烽もう一度、チ〜ンっと鼻をかんだ。†",
     ""),
     # McDonald's nose blows again.†
 

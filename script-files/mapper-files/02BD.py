@@ -2,11 +2,11 @@
 # Source file: 02BD.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｂ	竅やめとく）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｂ	やめとく）†",
     ""),
     # (Seri°Kawaii Scale Event Return Road LV2)Seri (Select Sou B: Stop)†
 
-    ("今厓日は竄やめとくか。",
+    ("今厓日はやめとくか。",
     ""),
     # Should I stop tampering with this day?
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # It's bad that it's phlegm.
 
-    ("オ激レは店を通闥り過ぎ、家に帰った。◯",
+    ("オレは店を通闥り過ぎ、家に帰った。◯",
     ""),
     # I went through the store too much and went home.◯
 

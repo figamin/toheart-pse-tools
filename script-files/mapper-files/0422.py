@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I'm scared of phlegm."
 
-    ("「でし蛯ょーっ？	病院のブドキャーはいｂんな菌と出初うからさ、いｂんな能力を烽もらっち痰ゃう可能性がある墲わけなのよ」",
+    ("「でしょーっ？	病院のブドキャーはいんな菌と出初うからさ、いんな能力を烽もらっち痰ゃう可能性がある墲わけなのよ」",
     ""),
     # "What's that? The hospital's budokya is a germ that has been released for a while, so it's possible that you can get some abilities and get some sputum."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "...You look like Professor Kirin Ming."
 
-    ("「略してウ泣ルト宴ラ・ブドキャーＤＸ、かな」",
+    ("「略してウルトラ・ブドキャーＤＸ、かな」",
     ""),
     # "For short, I think U-Ryuto Banquet La Budkyar DX."
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri°Chuang, Scales Event, Departing from School LV2)Seri (Continued from Chosen ABC)Seri (Two Erase Sebas = Normal)†
 
-    ("「おｏ様菶方、そｂそｂお桙時間でございます」",
+    ("「おｏ様菶方、そそお桙時間でございます」",
     ""),
     # "O-sama, it's time for you to b-sama."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Ah, maybe old man, senior, is there any pain in his stimulation?†
 
-    ("「あまり遅くなりますと、これからのご予阯定が…」",
+    ("「あまり遅くなりますと、これからのご予定が…」",
     ""),
     # "If it's too late, I'll be able to make a prediction for the future..."
 
-    ("「はいはい、增わかってますって」",
+    ("「はいはい、わかってますって」",
     ""),
     # "Yes, yes, I know."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # * is lightly decorated with a german.
 
-    ("こ、これは、うら竄やましいぞ。†",
+    ("こ、これは、うらやましいぞ。†",
     ""),
     # I'm jealous of this.†
 
-    ("氏去闍りぎ墲わに、＊はオ激レに近寄って、",
+    ("氏去闍りぎ墲わに、＊はオレに近寄って、",
     ""),
     # I left the house, * approached me,
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # A good person?
 
-    ("オ激レが？",
+    ("オレが？",
     ""),
     # Is it really crazy?
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Well, I think that the heat is not bad for me.†
 
-    ("「ああ、ここにまた、オ激レの虜となる翌女子がひと",
+    ("「ああ、ここにまた、オレの虜となる翌女子がひと",
     ""),
     # "Ah, here's another girl who's become so captivated by my supernatural
 
@@ -82,16 +82,16 @@ text_array = [
     ""),
     # the law of nature…"
 
-    ("オ激レは目を閉じて、フッと笑う。",
+    ("オレは目を閉じて、フッと笑う。",
     ""),
     # My guts closed my eyes and laughed.
 
-    ("「お調子ノ潟リなとこｂがなければ、もう少し点箔数ｐ高いんだけどね〜」",
+    ("「お調子ノリなとこがなければ、もう少し点箔数ｐ高いんだけどね〜」",
     ""),
     # "If we don't have a place where we're feeling good, the number of points would be a little higher."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("なに烽も言い返せない。†",
@@ -106,15 +106,15 @@ text_array = [
     ""),
     # "What?"
 
-    ("「これから烽もうちの姉さんのこと、いｂいｂよｂしく鰍頼む墲わね」",
+    ("「これから烽もうちの姉さんのこと、いいよしく鰍頼む墲わね」",
     ""),
     # "Now, I'll be asking you to be a chrysanthemum for you, my sister."
 
-    ("「諱よｂしく鰍頼むって…」†",
+    ("「諱よしく鰍頼むって…」†",
     ""),
     # "You're gonna ask for your kara..."
 
-    ("「さっ、姉さん、帰闍りまし蛯ょ」",
+    ("「さっ、姉さん、帰闍りましょ」",
     ""),
     # "Now, sister, I'm back."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # So...
 
-    ("諱先輩はうなずくと、目でオ激レにさようならを言い、車に乗闖り桙込んだ。†",
+    ("諱先輩はうなずくと、目でオレにさようならを言い、車に乗闖り桙込んだ。†",
     ""),
     # Senpai nodded, and said goodbye to me with his eyes, then got into the car and snatched it.†
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # Her older sister is her older sister, and * is a shady character with V.
 
-    ("それはそうと、さっきのよｂしく鰍頼むっていうセ潟リフ。",
+    ("それはそうと、さっきのよしく鰍頼むっていうセリフ。",
     ""),
     # That being said, the previous one was Segata Rif, who was asking for the chrysanthemum.
 
-    ("あれは竄やっぱ、ああいう意味なのか？◯",
+    ("あれはやっぱ、ああいう意味なのか？◯",
     ""),
     # Does that mean something like that after all, after all?◯
 

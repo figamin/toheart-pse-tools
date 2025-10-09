@@ -30,15 +30,15 @@ text_array = [
     ""),
     # ・†
 
-    ("このｍ曲家は完璧裄主義って竄やつだな。",
+    ("このｍ曲家は完璧裄主義ってやつだな。",
     ""),
     # This m-man is a guy who is tampering with perfect sleeves.
 
-    ("陶芸家の『気に入逑らん！』『ガシャャーン』ってрヤツといっし蛯ょか。",
+    ("陶芸家の『気に入逑らん！』『ガシャャーン』ってрヤツといっしょか。",
     ""),
     # I'm going to say "I like it!" and "Gashan" with the ceramic artist.
 
-    ("戟血液がＡ型の人間には完璧裄主義が多いって話だが、こいつ烽もそうなんだｂうか。◯",
+    ("戟血液がＡ型の人間には完璧裄主義が多いって話だが、こいつ烽もそうなんだうか。◯",
     ""),
     # It's said that people with type A blood tend to be perfect sleeves are often the same, but is this guy the same?◯
 

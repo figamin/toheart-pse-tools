@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "But-ii"
 
-    ("オ激レ焜もガキじ痰ゃない。",
+    ("オレ焜もガキじ痰ゃない。",
     ""),
     # I'm also really excited, so I can't help but feel phlegm.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I won't be able to stay thrilled and excited about Hot school trips.
 
-    ("それに、志保のрヤツにそんなとこｂを見迪られるの烽も艪御免だ。†",
+    ("それに、志保のрヤツにそんなとこを見迪られるの烽も御免だ。†",
     ""),
     # Also, I'm sorry that Shiho's guy would be able to see such a thing.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What is that curt attitude? You can't help but look at me saying, 'I'm a Hokkaido native'!"
 
-    ("「北海道生まれだなんて言う気はねーけどな、いちいちｊんでるの烽もガキっぽいだｂ？」",
+    ("「北海道生まれだなんて言う気はねーけどな、いちいちｊんでるの烽もガキっぽいだ？」",
     ""),
     # "I don't think I was born in Hokkaido, but the hot guy who is always jerking is also a brat?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "That's the point of meaning, it's not phlegm... but that's what it is."
 
-    ("「じ痰ゃあ、あんたがどれくらい蛯大人か見せてみなさいよ！」",
+    ("「じ痰ゃあ、あんたがどれくらい大人か見せてみなさいよ！」",
     ""),
     # "Ah, let's see how mature you are!"
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # Are the standards for adults like hot and hot?”
 
-    ("「あんたが言い出したことでし蛯ょ？	あんたがｌめなさいよ」†",
+    ("「あんたが言い出したことでしょ？	あんたがｌめなさいよ」†",
     ""),
     # "That's what you said, slut? You should give me yours."†
 
-    ("「んじ痰ゃな、１週間煌も前から盾ワク純ワクしねーのが蛯大人じ痰ゃねーのか？」",
+    ("「んじ痰ゃな、１週間煌も前から盾ワク純ワクしねーのが大人じ痰ゃねーのか？」",
     ""),
     # "You're not excited about the shield for a week, are you a grown-up adult who's not really excited about it?"
 
-    ("艨我ながら、無ヶ茶齟苦ル茶な揩理雷だ。",
+    ("艨我ながら、無ヶ茶苦ル茶な揩理雷だ。",
     ""),
     # Although I am, it is a thunderous thunder.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "I'm not purely excited, either!"
 
-    ("「楽しみなんだｂ？	じ繧ゅーぶん盾ワク純ワクしてるじ痰ゃねーか」†",
+    ("「楽しみなんだ？	じ繧ゅーぶん盾ワク純ワクしてるじ痰ゃねーか」†",
     ""),
     # "Are you looking forward to it? Is it really exciting to see the shield and phlegm when you're purely excited?" †
 
@@ -82,19 +82,19 @@ text_array = [
     ""),
     # "Is that so? What happened to Nature?"
 
-    ("「あれは楽しみ福方を言っただけでぇ、あたしが楽しみだなんて一言煬も言ってない墲わよ」",
+    ("「あれは楽しみ方を言っただけでぇ、あたしが楽しみだなんて一言煬も言ってない墲わよ」",
     ""),
     # "That was just a good fortune, and I didn't even say that I'm looking forward to it."
 
-    ("オ激レにガキ扱いされるのが悔しくて、ム潟リсヤ潟リ否阡定するとこｂが笑える。†",
+    ("オレにガキ扱いされるのが悔しくて、ムリсヤリ否阡定するとこが笑える。†",
     ""),
     # I'm so frustrated that I'm being treated like a brat by a huge guy, and it's funny how I'm not sure what's going on.†
 
-    ("「ふ〜ん。オ激レには『あたしは楽しみにしてるんだけど、あなたはどう？』って言ってるふうに見えたんだけどなぁ」",
+    ("「ふ〜ん。オレには『あたしは楽しみにしてるんだけど、あなたはどう？』って言ってるふうに見えたんだけどなぁ」",
     ""),
     # "Hmm. I thought to myself, 'I'm looking forward to it, but how about you?'
 
-    ("どんな言い訳が飛び出すか冾期待しながら、オ激レはどんどん彼濫女を言葉で追いつめた。",
+    ("どんな言い訳が飛び出すか冾期待しながら、オレはどんどん彼濫女を言葉で追いつめた。",
     ""),
     # I was hoping to see what kind of excuse I would make, but I continued to corner the overflowing woman with words.
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # "Uh... No one can have phlegm!"
 
-    ("痛いとこｂを突かれ、一瞬繒口ご烽もる志保。",
+    ("痛いとこを突かれ、一瞬繒口ご烽もる志保。",
     ""),
     # Shiho is pounded at the painful part and for a moment, he threw himself in a slumber.
 
-    ("へっ、簡単に追いつめられて竄やんの。†",
+    ("へっ、簡単に追いつめられてやんの。†",
     ""),
     # Heh, he's easily cornered and tampered with it.†
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # "What! That grinning face?"
 
-    ("「べつにぃ。志保は蛯大人だなぁ、って思ってな」",
+    ("「べつにぃ。志保は大人だなぁ、って思ってな」",
     ""),
     # "And you think. Shiho is an adult, isn't it?"
 
-    ("「そー諱よ、增わかればいいのよ。",
+    ("「そー諱よ、わかればいいのよ。",
     ""),
     # "That's it, you should just understand.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # ...He got so angry that he ran away.
 
-    ("ったく、いまどきの小学生の福方がしっかりしてるぜ。◯",
+    ("ったく、いまどきの小学生の方がしっかりしてるぜ。◯",
     ""),
     # The lucky side of elementary school students these days is solid.◯
 

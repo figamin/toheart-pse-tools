@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Oh, oh, sputum..."
 
-    ("オ激レはとまどいながら烽もその場を獅去驪る。†",
+    ("オレはとまどいながら烽もその場を獅去驪る。†",
     ""),
     # My heart was confused, but Hou also stumbled away from the scene.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "If the two and Hot are both okay, I'll go and go again somewhere else..."
 
-    ("と、なんだかよく墲わからないが、キ宴ラキ宴ラした目で言った。†",
+    ("と、なんだかよく墲わからないが、キラキラした目で言った。†",
     ""),
     # He said with his eyes, although I don't really understand it.†
 

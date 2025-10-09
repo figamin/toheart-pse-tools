@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "I'll arrest you"
 
-    ("繰闌り返し、オ激レは言った。†",
+    ("繰り返し、オレは言った。†",
     ""),
     # I retold the other way around, and said, "I'm not going to stop it."†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "You can arrest the police and the police force, as easily as you can."
 
-    ("「できるとかできないとかの竄問阮題じ痰ゃ…」",
+    ("「できるとかできないとかの問題じ痰ゃ…」",
     ""),
     # "The question of whether you can or can't do it is a question of whether you can or can't do it..."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("こういうあかりの『もし烽も話』に最纃後までつき№合うと、蛛大葬最纃後は変な福方阜のド宴ラマに発展する。",
+    ("こういうあかりの『もし烽も話』に最纃後までつき№合うと、蛛大葬最纃後は変な方阜のドラマに発展する。",
     ""),
     # If you follow this "If You're a Hot" to the very end, it will develop into a strange banquet llama of Fukukata Fu after the final day of the funeral.
 

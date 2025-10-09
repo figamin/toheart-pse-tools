@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Shiho Scales Event, 2nd floor 2) (Choosesoku break up)†
 
-    ("「じ痰ゃ、オ激レは忙しいから…」",
+    ("「じ痰ゃ、オレは忙しいから…」",
     ""),
     # "You're so busy, I'm busy..."
 
-    ("彼濫女がなにか言う前に、オ激レはそう言って烽歩き出した。",
+    ("彼濫女がなにか言う前に、オレはそう言って烽歩き出した。",
     ""),
     # Before the overwhelmed woman said anything, I said, and started walking around.
 
-    ("「ち蛯ょっとぉ！	話を聞きなさいよぉ！」",
+    ("「ちょっとぉ！	話を聞きなさいよぉ！」",
     ""),
     # "Come on! Listen to me!"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Rejected"
 
-    ("「コ宴ラーッ！	！」",
+    ("「コラーッ！	！」",
     ""),
     # "Announced roar!"
 

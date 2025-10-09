@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "I'm going."
 
-    ("誰熬もいない盾居間にｌかって言うと、オ激レは玄関を出て、鍵をかけた。†",
+    ("誰熬もいない盾居間にｌかって言うと、オレは玄関を出て、鍵をかけた。†",
     ""),
     # When I said "I'm in the room where no one was in the shield, I left the front door and locked it.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # ""So, at that moment, Shiho..."
 
-    ("いつ烽もの竄坂道を、あかりのくだらない話を聞きながら烽歩いていると、",
+    ("いつ烽もの坂道を、あかりのくだらない話を聞きながら烽歩いていると、",
     ""),
     # When I was walking down the hill, listening to the silly stories of light,
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "...Do you want it?"
 
-    ("見骭ると、＝メガネにお下げの翌女生徒が、オ激レたちの横を烽歩いて行く。",
+    ("見骭ると、＝メガネにお下げの翌女生徒が、オレたちの横を烽歩いて行く。",
     ""),
     # As I looked, the next female student strolled beside us and threw herself in her glasses.
 
@@ -59,18 +59,18 @@ text_array = [
     # Akari greeted him and Hoo also
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("保科はチ宴ラ潟リと汲視諮をｌけただけで、なに烽も言甯わずに通闥り過ぎていく。†",
+    ("保科はチラリと汲視諮をｌけただけで、なに烽も言甯わずに通闥り過ぎていく。†",
     ""),
     # Hoshina only responded with a banquet and a banquet, but he contacted him too much without any comments.†
 
-    ("「たしか、お前と同じク宴ラスなんだよな？」",
+    ("「たしか、お前と同じクラスなんだよな？」",
     ""),
     # "I'm sure you're in the same banquet as you?"
 
-    ("「うん。ク宴ラスの委員長なんだ」",
+    ("「うん。クラスの委員長なんだ」",
     ""),
     # "Yes. I'm the chairman of the Celebration."
 

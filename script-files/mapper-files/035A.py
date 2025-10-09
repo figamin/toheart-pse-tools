@@ -2,7 +2,7 @@
 # Source file: 035A.txt
 
 text_array = [
-    ("（智子	好感度イベント１０回目）閨（土曜坥日以外）閨（好感度が	２５のとき）閨（好感度イベント９を見たフ宴ラグがＯＮの場㍼合）閨（４桙時間目の授業拠）†",
+    ("（智子	好感度イベント１０回目）閨（土曜坥日以外）閨（好感度が	２５のとき）閨（好感度イベント９を見たフラグがＯＮの場㍼合）閨（４桙時間目の授業拠）†",
     ""),
     # (Tomoko's 10th Affection Event) (other than Saturday's Day) (when the Affection is 25) (when the Affection Rug is on when seeing the Affection Event 9 is on) (teaching basis for the fourth fence time) †
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # The fourth time was the English language lesson.
 
-    ("「この文の『≠≠ａ奄ｉ窒ｒ凾ｙ	ｔ≠ａ撃ｌｂ唐入』ってのはひとつの単齟語で｢｢」†",
+    ("「この文の『≠≠ａ奄ｉ窒ｒ凾ｙ	ｔ≠ａ撃ｌ入』ってのはひとつの単語で｢｢」†",
     ""),
     # "In this sentence, "≠a Amai Nir y t ≠a Tsukuri" is a single word ""†
 
-    ("オ激レは、ぼけーっとした眠い目で汲窓の外を眺めていた。",
+    ("オレは、ぼけーっとした眠い目で汲窓の外を眺めていた。",
     ""),
     # My gut-le was looking out the window with a blurred and sleepy look.
 
@@ -30,16 +30,16 @@ text_array = [
     ""),
     # It's a peaceful day for a relaxed day.
 
-    ("こんな冾日は、ち蛯ょっと気を抜いただけで烽もウトウト眠くなっちまう。†",
+    ("こんな冾日は、ちょっと気を抜いただけで烽もウトウト眠くなっちまう。†",
     ""),
     # On such a day, I just let my guard down and my hot waters start to become sleepy.†
 
-    ("開いた汲窓のр隙間から、そよそよと艪ゆる竄やかに翌風が流齬れてきて、それがまた心地いい眠気を誘う。",
+    ("開いた汲窓のр隙間から、そよそよとゆるやかに翌風が流齬れてきて、それがまた心地いい眠気を誘う。",
     ""),
     # The next air flows gently and gently from the gap in the open window, which also leads to a comfortable sleepiness.
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("ああ、ダ＜メだ。",
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # Cutlet...
 
-    ("ああ、テキストを読む先生の声と、普黒板を叩くチ㏍ョークの音が、まるで子邇守歌のように聞こえる。†",
+    ("ああ、テキストを読む先生の声と、普黒板を叩くチョークの音が、まるで子邇守歌のように聞こえる。†",
     ""),
     # Ah, the voice of the teacher reading the text and the sound of the sound of the thud hitting the blackboard sound like a robin.†
 
-    ("眠い目でま墲わりを見骭ると、どう竄やら№睡ｐ魔に襲尞われてるのはオ激レひとりじ痰ゃないらしい。",
+    ("眠い目でま墲わりを見骭ると、どうやら№睡ｐ魔に襲尞われてるのはオレひとりじ痰ゃないらしい。",
     ""),
     # When I looked at the area with sleepy eyes, I found out that I was the one who was attacked by the devil, but it was hard to be the only one who was attacked by the devil.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # This is the situation anyway.
 
-    ("もうひとりぐらい、梶リタイсヤしたとこｂで竄問阮題ねー諱よな。",
+    ("もうひとりぐらい、梶リタイсヤしたとこで問題ねー諱よな。",
     ""),
     # When I got rid of the Kaji era, I was left with a bit of a problem, and it was a bit of a sinister question.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Unfortunately, I was able to see my eyes perfectly with Mr. Ikushiro.
 
-    ("竅や、竅やべっ…！",
+    ("や、やべっ…！",
     ""),
     # It's so funny...!
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Uhh."
 
-    ("オ激レは反射的に教科痩書の影に顔を隠した。",
+    ("オレは反射的に教科痩書の影に顔を隠した。",
     ""),
     # I reflexively hid my face in the shadows of the subject slimming books.
 
@@ -122,19 +122,19 @@ text_array = [
     ""),
     # "Kuuu..." †
 
-    ("ク宴ラスヲの笑い声にｕまれながら、オ激レは椅子から立ち繧上がった。",
+    ("クラスヲの笑い声にｕまれながら、オレは椅子から立ち繧上がった。",
     ""),
     # I stood up from my chair, thrilled by the laughter of the banquet Rasou.
 
-    ("ちっくし蛯ょう。",
+    ("ちっくしょう。",
     ""),
     # A small slut.
 
-    ("なんだよテ＜メー轣ら、途端にイキイキした目し竄やがって。†",
+    ("なんだよテ＜メー轣ら、途端にイキイキした目しやがって。†",
     ""),
     # What is it? <They're so excited, and as soon as they got excited.†
 
-    ("「いま烽説明した一文を訳してみｂ。ち痰ゃんと予習してればできるだｂ」",
+    ("「いま烽説明した一文を訳してみ。ち痰ゃんと予習してればできるだ」",
     ""),
     # "I'll translate the sentence I just explained b. If you prepare with a sphin, you can do it."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Yeah, yeah, well."
 
-    ("オ激レはひきつった笑迴顔をｂ浮かべた。",
+    ("オレはひきつった笑迴顔を浮かべた。",
     ""),
     # My heart stroking a twitching smile on my face.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Read it first and then translate it."
 
-    ("「…ええと、『Ｒｂ≠ａрｄ奄ｉ獅ｎ№ｇ	≠≠ａ奄ｉ窒ｒ凾ｙｔ≠ａ撃ｌｂ唐入	堰ｉ唐入	≠獅ｎ鰍ｊ盾ｏ凾ｙ≠ａｂｂ撃ｌｂ		≠魔ｖｂ獅ｎ	≠盾ｏ窒ｒ	＝ａрｄ浮ｕ撃ｌｔ唐入．』」†",
+    ("「…ええと、『Ｒ≠ａрｄ奄ｉ獅ｎ№ｇ	≠≠ａ奄ｉ窒ｒ凾ｙｔ≠ａ撃ｌ入	堰ｉ入	≠獅ｎ鰍ｊ盾ｏ凾ｙ≠ａ撃ｌ		≠魔ｖ獅ｎ	≠盾ｏ窒ｒ	＝ａрｄ浮ｕ撃ｌｔ入．』」†",
     ""),
     # "...Well, 'Rb≠aрd Amai Lion No. G ≠a Amai Nir yt ≠a Shot Lion Tang Inn Weir I Tang Inn ≠ Lion Kyr y ≠ Lion Kyr y ≠Abb Shot Lion ≠Ma VB Lion ≠ Shield O y y ≠Aрd Floating Tang Inn 」≠"†
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # Um...
 
-    ("この『≠≠ａ奄ｉ窒ｒ凾ｙ	ｔ≠ａ撃ｌｂ唐入』ってのはなんだｂう？",
+    ("この『≠≠ａ奄ｉ窒ｒ凾ｙ	ｔ≠ａ撃ｌ入』ってのはなんだう？",
     ""),
     # What is this "≠a Amai Nir Ring Y t ≠a Shokulb T ≠ Tang irin"?
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "≠≠a Amai Nirry" is... a fairy.
 
-    ("『ｔ≠ａ撃ｌｂ唐入』は…話、話の複舶数形か？",
+    ("『ｔ≠ａ撃ｌ入』は…話、話の複舶数形か？",
     ""),
     # Is "T≠Ageki LB Tangari"... a multiple-size form of the story?
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # Translate quickly."
 
-    ("ちくし蛯ょう。",
+    ("ちくしょう。",
     ""),
     # Chikushi Ebi.
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # Seriously, I just don't know what it was like from the very beginning.
 
-    ("誰か、ヘ泣ルプしてくれるрヤツはいねーか？",
+    ("誰か、ヘルプしてくれるрヤツはいねーか？",
     ""),
     # Is there anyone who will cry?
 
-    ("♂史…は唐遠いし。",
+    ("♂史…は遠いし。",
     ""),
     # Male History... is far away.
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # Light...
 
-    ("も唐遠い。†",
+    ("も遠い。†",
     ""),
     # It's also far away.†
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "Um, that's right..."
 
-    ("磨当たって砕けｂの精神で、適俣当に訳そうとした、そのとき。†",
+    ("当たって砕けの精神で、適俣当に訳そうとした、そのとき。†",
     ""),
     # That's when I tried to translate it into Tomimatato, with the spirit of polishing and crushing.†
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # ""Reading fairy tales is fun and fun to eat with adults"
 
-    ("「…諱よし。ち蛯ょっと桙時間がかかりすぎだが、まあ、いいだｂう。",
+    ("「…諱よし。ちょっと桙時間がかかりすぎだが、まあ、いいだう。",
     ""),
     # "...Okay, that's fine. It's taking too long, but well, that's fine.
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "Heh."
 
-    ("オ激レは椅子に座って、蛛大きく息を吐いた。",
+    ("オレは椅子に座って、蛛大きく息を吐いた。",
     ""),
     # I sat in my chair and let out a deep breath.
 
@@ -286,11 +286,11 @@ text_array = [
     ""),
     # I hope the answer was perfect.
 
-    ("オ激レは烽もう一度梼切齔れを開いて見た。",
+    ("オレは烽もう一度梼切齔れを開いて見た。",
     ""),
     # I opened my firearm one more time and looked at it.
 
-    ("磨薄目のシャャーペンで曹書かれた蛯大人びた綺淏麗な嘯字。",
+    ("薄目のシャャーペンで曹書かれた大人びた綺淏麗な嘯字。",
     ""),
     # A mature, elegant and elegant character written in a thin, polished Sharpen.
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # Is the core of the mechanical pencil I'm using...H?†
 
-    ("オ激レは福口煬もとを手で覆い、",
+    ("オレは口煬もとを手で覆い、",
     ""),
     # My geisha covered the Fukuguchi hana with my hands,
 
@@ -306,12 +306,12 @@ text_array = [
     ""),
     # "...sanki tsuyu"
 
-    ("と、ささ竄やき声で言った。†",
+    ("と、ささやき声で言った。†",
     ""),
     # he said in a whisper.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("委員長はなに烽もこたえず、もう一㊧枚、スッとｎ切齔れをよこした。",
@@ -346,12 +346,12 @@ text_array = [
     ""),
     # "That was bad."
 
-    ("オ激レが言うと、",
+    ("オレが言うと、",
     ""),
     # When I say it,
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("委員長は正面を見たままくすっと笑った。◯",

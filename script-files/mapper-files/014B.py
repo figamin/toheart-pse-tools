@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hey, Akari."
 
-    ("オ激レは廊下に出て、教室のあかりを呼んだ。",
+    ("オレは廊下に出て、教室のあかりを呼んだ。",
     ""),
     # I went out into the hallway and called out to Akari from the classroom.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("なんに烽も知迺らないあかりは、席を立つと、すたたと、＝早足でオ激レの烽もとへ竄やってｗ磯翌驕B†",
+    ("なんに烽も知迺らないあかりは、席を立つと、すたたと、＝早足でオレの烽もとへやってｗ磯翌驕B†",
     ""),
     # Akari, who has no idea what kind of hot springs, left her seat and took a quick trip to my hot springs lol Isozuna B†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What, sputum?"
 
-    ("いつ烽ものにっこり笑迴顔をｂ浮かべる。",
+    ("いつ烽ものにっこり笑迴顔を浮かべる。",
     ""),
     # When I saw that he was smiling at the hottest face, I looked up at him.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Yes.
 
-    ("見慣れた笑迴顔にち蛯ょっとだけ罪悪感が湧く。",
+    ("見慣れた笑迴顔にちょっとだけ罪悪感が湧く。",
     ""),
     # The familiar face of the laughter makes me feel guilty.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「…ち蛯ょっと、このオ激レにつき№合ってくれ」",
+    ("「…ちょっと、このオレにつき№合ってくれ」",
     ""),
     # "...Come on, please meet my number for this hard work."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「い竄や、その…」",
+    ("「いや、その…」",
     ""),
     # "It's tampering, that..."
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "...Is it phlegm?"
 
-    ("きっといま、廊下の影では薰矢⊥島の竄やつが、ハ宴ラハ宴ラしながら、オ激レとあかりを見迪守っているんだｂーなあ。",
+    ("きっといま、廊下の影では薰矢⊥島のやつが、ハラハラしながら、オレとあかりを見迪守っているんだーなあ。",
     ""),
     # I'm sure the shadows in the corridor now include the tales of Sugiya Island, who are hanging out and about, and are protecting me and Akari as they are banquets.
 
-    ("この盾縁談をまとめる烽もブチ壊す烽も、オ激レの腹ひとつって墲わけか。",
+    ("この盾縁談をまとめる烽もブチ壊す烽も、オレの腹ひとつって墲わけか。",
     ""),
     # Both the Horizons that are compiling this shield marriage proposal and the Horizons that are destroying it are all about my hard work.
 
@@ -138,15 +138,15 @@ text_array = [
     ""),
     # Will Akari become a boyfriend on Tomoya Island?
 
-    ("ち蛯ょっと想恆像してみよう。†",
+    ("ちょっと想恆像してみよう。†",
     ""),
     # Let's try a picture of my thoughts.†
 
-    ("あかりと薰矢⊥島が№仲良くいっし蛯ょに登下校…。",
+    ("あかりと薰矢⊥島が№仲良くいっしょに登下校…。",
     ""),
     # Akari and Konoyajima are in great numbers and go to and from school...
 
-    ("あかりのあのうまい手料摎理が、﨟矢⊥島の福口に運ばれる…。",
+    ("あかりのあのうまい手料摎理が、﨟矢⊥島の口に運ばれる…。",
     ""),
     # Akari's delicious handling fees are brought to Fukuguchi on Ya-jima...
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # However, even Ya-jima is such a good guy who would be a waste to Akari.
 
-    ("性格煌もいいし、バスケで烽も目立ってるし、ク宴ラスのみんなから好かれる人気者だ。",
+    ("性格煌もいいし、バスケで烽も目立ってるし、クラスのみんなから好かれる人気者だ。",
     ""),
     # He has a good personality, and his hot springs are also noticeable in basketball, and is a popular guy who is liked by everyone at the Crown Lace.
 
-    ("オ激レとは蛯大瘻違いだな、はは。†",
+    ("オレとは大瘻違いだな、はは。†",
     ""),
     # Haha, it's a different fistula from my gut-re.†
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # 﨟A man like Yajima, he's probably going to be in front of Akari for the rest of his life.
 
-    ("この場をぶち壊すのは簡単だが、諱第三者のオ激レにその権圏があるのか。†",
+    ("この場をぶち壊すのは簡単だが、諱第三者のオレにその権圏があるのか。†",
     ""),
     # It's easy to destroy this situation, but does that have a realm of my own name, a third party?†
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # What's that about?!†
 
-    ("オ激レがひとり、頭を悩ませていると、",
+    ("オレがひとり、頭を悩ませていると、",
     ""),
     # As I was alone in my mind,
 
-    ("「…ち痰ゃん、п私に用があるんでし蛯ょ？」",
+    ("「…ち痰ゃん、п私に用があるんでしょ？」",
     ""),
     # "...Choy, I have something to do, slut?"
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "Is it something difficult to say?"
 
-    ("「い、い竄や…」",
+    ("「い、いや…」",
     ""),
     # "No, it's tampering..."
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "Hey, sputum.
 
-    ("私でよかったら、なんで烽も唐遠慮しないで言ってみて」",
+    ("私でよかったら、なんで烽も遠慮しないで言ってみて」",
     ""),
     # If you're happy with me, why don't hesitate to say it?"
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "oh?"
 
-    ("「オ激レ…」",
+    ("「オレ…」",
     ""),
     # "I'm super excited..."
 
@@ -246,19 +246,19 @@ text_array = [
     ""),
     # "I?"
 
-    ("「オ激レは…」",
+    ("「オレは…」",
     ""),
     # "I'm so excited..."
 
-    ("「オ激レは？」†",
+    ("「オレは？」†",
     ""),
     # "What about me?"
 
-    ("オ激レはああぁぁっ｢｢。",
+    ("オレはああぁぁっ｢｢。",
     ""),
     # I'm aaaaahhhh.
 
-    ("Ａ	竅やっぱ、﨟矢⊥島にあかりは竄やれねえっ！閨",
+    ("Ａ	やっぱ、﨟矢⊥島にあかりはやれねえっ！閨",
     ""),
     # A After all, Akari can't be tampered with on 﨟YA⊥ Island!Relax
 

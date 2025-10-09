@@ -10,11 +10,11 @@ text_array = [
     ""),
     # I saw I-Shin in front of the station, when I went home.
 
-    ("なに竄やら見かけない子沁供を前にして、困った顔をしている。",
+    ("なにやら見かけない子沁供を前にして、困った顔をしている。",
     ""),
     # He looks troubled in front of a child who has never seen anything tampering with him.
 
-    ("「諱よう、なに竄やってんだ？」",
+    ("「諱よう、なにやってんだ？」",
     ""),
     # "I'm not saying this, what are you tampering with?
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ah, actually..." †
 
-    ("「竅やいっ、なかまをよぶとはひき蛯ょうだぞ！」",
+    ("「やいっ、なかまをよぶとはひきょうだぞ！」",
     ""),
     # "I'm not going to talk about friends, it's a lie!"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "You're just big!"
 
-    ("「オ激レから見闌り痰ゃチビだってんだ」",
+    ("「オレから見り痰ゃチビだってんだ」",
     ""),
     # "I'm really excited and looking at it, you're a little."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Is this guy your knowledge?"
 
-    ("「い竄や、堰初対面だけど」",
+    ("「いや、堰初対面だけど」",
     ""),
     # "It's the first time I met the wein."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "What is it, what on earth?"
 
-    ("オ激レが聞くと、",
+    ("オレが聞くと、",
     ""),
     # When I heard
 

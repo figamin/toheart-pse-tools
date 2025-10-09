@@ -42,7 +42,7 @@ text_array = [
     ""),
     # A scattered lion-falling petals lay a pink mug on the road in front of the school gates.†
 
-    ("「なんだか散闔り始めると、竅寂しくなっち痰ゃうなあ」",
+    ("「なんだか散闔り始めると、寂しくなっち痰ゃうなあ」",
     ""),
     # "When it starts to disperse, I feel lonely and I can't help but feel sad."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "?"
 
-    ("オ激レとあかりは『なんだｂう』とおたがいの顔を見㈹合寘わせ、校蜊門に近づいた。†",
+    ("オレとあかりは『なんだう』とおたがいの顔を見㈹合寘わせ、校蜊門に近づいた。†",
     ""),
     # I and Akari looked at each other's faces and sang, "What's that?!" and then they came together, and approached the school gates.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "good morning"
 
-    ("明髢るい笑迴顔であいさつをくれたのはマ泣ルチだった。",
+    ("明髢るい笑迴顔であいさつをくれたのはマルチだった。",
     ""),
     # It was a cried cry that gave me a greeting with a gentle smile.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # He holds a bamboo ram in his hand.
 
-    ("どう竄やら玄関前を掃恆除しながら、通髓る生徒ひとりひとりにあいさつしているらしい。†",
+    ("どうやら玄関前を掃恆除しながら、通髓る生徒ひとりひとりにあいさつしているらしい。†",
     ""),
     # Apparently they are greeting each student who is communicating by messing around, sweeping away the front door.†
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "good morning"
 
-    ("ほとんどの生徒が見血き烽もせず通闥り過ぎて行くなか、オ激レは立ち止まって、笑迴顔で声をかけた。†",
+    ("ほとんどの生徒が見血き烽もせず通闥り過ぎて行くなか、オレは立ち止まって、笑迴顔で声をかけた。†",
     ""),
     # As most of the students were in too much contact without even bleeding, I stopped and called out to him with a laughing face.†
 
-    ("「諱よっ、マ泣ルチ。今厓日燗も元気だな」",
+    ("「諱よっ、マルチ。今厓日燗も元気だな」",
     ""),
     # "My name is, I'm crying. I'm feeling well now."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Yes."
 
-    ("マ泣ルチはにっこり微笑んだ。†",
+    ("マルチはにっこり微笑んだ。†",
     ""),
     # McDonald smiled.†
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "High robots these days are becoming more and more human-like.
 
-    ("もし烽もあの蛯大きな耳がなかったら、竅絶対に人間と区別できないな」†",
+    ("もし烽もあの大きな耳がなかったら、絶対に人間と区別できないな」†",
     ""),
     # If Kao had no big ears, I would never be able to distinguish myself from humans."
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「い竄や、なんで烽もない」",
+    ("「いや、なんで烽もない」",
     ""),
     # "It's not tampering, why don't you have a hot pot?"
 
-    ("そうか、マ泣ルチと烽も今厓日でお別れか…。†",
+    ("そうか、マルチと烽も今厓日でお別れか…。†",
     ""),
     # I see, Makruchi and Kao are saying goodbye to the day right now...†
 

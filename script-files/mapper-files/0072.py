@@ -6,7 +6,7 @@ text_array = [
     ""),
     # "Aaaaah!"
 
-    ("「は、はいっ、增わっ、增わかりました」†",
+    ("「は、はいっ、わっ、わかりました」†",
     ""),
     # "Yes, yeah, yeah, yeah, I understand."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ha, yes, I'm grateful."
 
-    ("「こ、ここまでプ激レイして下さったさん、本末当にありがとうございましたーーーーーーーーーーーーーーーーーーーーーーーっ！」†",
+    ("「こ、ここまでプレイして下さったさん、本末当にありがとうございましたーーーーーーーーーーーーーーーーーーーーーーーっ！」†",
     ""),
     # "Thank you to everyone who has made such a strong comedy up to this point, to the end of the day!" †
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Ah, I heard that I've received a message from musician DOZA....Um, that's right."
 
-    ("『オプシ㏍ョンｃモード』の『おまけ』のなかをのぞいてみてください。ボクからみなさんへ素敵なプ激レゼントがあります。†",
+    ("『オプションｃモード』の『おまけ』のなかをのぞいてみてください。ボクからみなさんへ素敵なプレゼントがあります。†",
     ""),
     # Take a look inside the "Bonus" section of "Opsis C Mode."I have a wonderful presentation to everyone.†
 
-    ("「｢｢だ、そうです。さあ、いったいなにが届いているのでし蛯ょうか」",
+    ("「｢｢だ、そうです。さあ、いったいなにが届いているのでしょうか」",
     ""),
     # "'Yes, that's right. Now, what on earth has arrived, so let's have a slut?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Aaaaahhhh!"
 
-    ("「え？	音楽家からだからバ激レバ激レですか？	そうか烽もしれませんねえ」",
+    ("「え？	音楽家からだからバレバレですか？	そうか烽もしれませんねえ」",
     ""),
     # "Huh? Because it's a musician, is it really a big buzz? I see, it's not like you're a hot guy."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Aaaaah, aaah, aaah"
 
-    ("「えっ？	『♂社の宣伝』ですか？	えっと、これから烽もよｂしくおねがいしまーすっ！」",
+    ("「えっ？	『♂社の宣伝』ですか？	えっと、これから烽もよしくおねがいしまーすっ！」",
     ""),
     # "Huh? Is it a 'Advertiser from ♂ Company'? Um, please be careful from now on!"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Aaaaah!"
 
-    ("「えっ、あっ、はい、もうおしまいですか？	增わかりました！」†",
+    ("「えっ、あっ、はい、もうおしまいですか？	わかりました！」†",
     ""),
     # "Eh, ah, yes, is it over now? I understand!" †
 

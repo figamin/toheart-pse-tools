@@ -2,11 +2,11 @@
 # Source file: 0623.txt
 
 text_array = [
-    ("（マ泣ルチ	エンディング）閨（戟レミィとデートの約束がない場㍼合）†",
+    ("（マルチ	エンディング）閨（戟レミィとデートの約束がない場㍼合）†",
     ""),
     # (Makyuruchi ending) (A place where there is no date agreement with Remi)†
 
-    ("「お前がｗ磯翌鴦ｂﾈら、たとえ予阯定があって烽もキャャンセ泣ルするさ」",
+    ("「お前がｗ磯翌鴦ﾈら、たとえ予定があって烽もキャャンセルするさ」",
     ""),
     # "You're lol Iso Izunai's Goblin, and even if you have a preliminary decision, you'll be crying."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "yes.
 
-    ("わたし烽もできる限闌り急いでそちらへｌかいます。ほんの３０分ほどで、到湯すると思いますから！」",
+    ("わたし烽もできる限り急いでそちらへｌかいます。ほんの３０分ほどで、到湯すると思いますから！」",
     ""),
     # I will hurry up and come over there as much as possible.I think the water will arrive in just 30 minutes!”
 
-    ("「とこｂでさ、お前、オ激レんちの場鰹所…」",
+    ("「とこでさ、お前、オレんちの場鰹所…」",
     ""),
     # "At the moment, you're a bonito spot in my super-sized house..."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # That guy is pretty irrelevant.
 
-    ("ち蛯ょっと心配だぜ。◯",
+    ("ちょっと心配だぜ。◯",
     ""),
     # I'm worried about this.◯
 

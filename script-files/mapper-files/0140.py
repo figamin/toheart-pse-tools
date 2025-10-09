@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Ahhhhhhhh.
 
-    ("目覚まし桙時計を止めてからきっかり１０分纒後、オ激レは背伸びをしてベッドから降闕りた。",
+    ("目覚まし桙時計を止めてからきっかり１０分纒後、オレは背伸びをしてベッドから降闕りた。",
     ""),
     # After turning off the alarm clock, I spent 10 minutes, and then I stretched out and dropped from bed.
 
-    ("さぁ〜て、今厓日燗も一勛日、はりきって頑張闥りまし蛯ょうかね。†",
+    ("さぁ〜て、今厓日燗も一勛日、はりきって頑張闥りましょうかね。†",
     ""),
     # Well, I'm going to try my best now, as I'm going to have a great day to enjoy the sun.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Go lol"
 
-    ("誰熬もいない家に言うと、オ激レは玄関を出て、鍵をしめた。◯",
+    ("誰熬もいない家に言うと、オレは玄関を出て、鍵をしめた。◯",
     ""),
     # When I told the house where no one was there, I left the front door and locked the lock.◯
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Good morning."
 
-    ("縺後撃からｋけ寄ってきたあかりが、オ激レの横に並んで言った。",
+    ("縺後撃から駆け寄ってきたあかりが、オレの横に並んで言った。",
     ""),
     # Akari, who had come up after the attack, said in line next to me.
 
@@ -42,12 +42,12 @@ text_array = [
     ""),
     # "Oh, Akari.
 
-    ("相変﨑わらずタ激レ目だな」",
+    ("相変﨑わらずタレ目だな」",
     ""),
     # It's a huge slut, not a hit."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("あかりは困った顔でぎこちなく笑った。†",
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # The greenery of the park always looks even more vibrant than the hot springs.
 
-    ("艨ゆうべ小雨がパ宴ラついたせいだｂう。",
+    ("艨ゆうべ小雨がパラついたせいだう。",
     ""),
     # It's because the light rain fell into a feast.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Akari suddenly asked at the park's ramblings.
 
-    ("「今厓日燗もお汲昼はパンでし蛯ょ？」",
+    ("「今厓日燗もお汲昼はパンでしょ？」",
     ""),
     # "Right now, the sun is a bit of bread for lunch, right?"
 
@@ -86,23 +86,23 @@ text_array = [
     ""),
     # "That's right though."
 
-    ("オ激レはうなずいた。†",
+    ("オレはうなずいた。†",
     ""),
     # I nodded.†
 
-    ("最近のオ激レの汲昼£メシは、もっぱらパン食だ。",
+    ("最近のオレの汲昼£メシは、もっぱらパン食だ。",
     ""),
     # Recently, my gosh lunch meals are mainly for bread.
 
-    ("弁抹当なんかはｍってる暇はないし、学食の≠メニャーはぜんぶ食い飽きてしまったので、♂史といっし蛯ょに購ロ買粕部のパンをモ買って食ってる。†",
+    ("弁抹当なんかはｍってる暇はないし、学食の≠メニャーはぜんぶ食い飽きてしまったので、♂史といっしょに購ロ買粕部のパンをモ買って食ってる。†",
     ""),
     # I don't have time to eat bento and I'm tired of eating all the food in the cafeteria, so I bought some bread from the purse roe kasube bread from the slutty roe.†
 
-    ("カツサンドにウインナー香ロール、パックのカフェオ激レと、しめて３２０円が最近の定番鉛ランチセットだ。",
+    ("カツサンドにウインナー香ロール、パックのカフェオレと、しめて３２０円が最近の定番鉛ランチセットだ。",
     ""),
     # This is the latest standard lead lunch set for 320 yen, with cutlet sandwiches, wiener incense rolls, and a pack of Cafe au Gueki Lait.
 
-    ("気分によっては、カツサンドをツナサンドにかえたり、カフェオ激レをフ泣ルーツミックスにかえたりして、いｂいｂ飽きないようｖ淫俣厓H夫している。†",
+    ("気分によっては、カツサンドをツナサンドにかえたり、カフェオレをフルーツミックスにかえたりして、いい飽きないようｖ淫俣厓H夫している。†",
     ""),
     # Depending on your mood, you can change the cutlet sandwiches to tuna sandwiches or the Cafe au Geki Lait to a squeal roots mix, and make sure you get bored of it.†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "It's the day I've had a peach with bento."
 
-    ("「えっ？	オ激レのぶんを？」",
+    ("「えっ？	オレのぶんを？」",
     ""),
     # "Huh? My super-sexy?"
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # "Wha, Sankya, I'm thinking lol. I wonder if there's anything to be lost, so why are you suddenly again?"
 
-    ("「うん、最近いｂいｂとお弁抹当の≠メニャーを研結しててね、それでぜひ獅試食して、感想を聞かせて烽もらおうと思って」",
+    ("「うん、最近いいとお弁抹当の≠メニャーを研結しててね、それでぜひ獅試食して、感想を聞かせて烽もらおうと思って」",
     ""),
     # "Yeah, I've been researching the ≠Meña, a slutty b-b-and-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-
 
-    ("「禔練習鰹相闡手って墲わけか。まあ、オ激レはタダで食えるだけで嬉しいけどさ」†",
+    ("「禔練習鰹相闡手って墲わけか。まあ、オレはタダで食えるだけで嬉しいけどさ」†",
     ""),
     # "Is it okay to practice bonito? Well, I'm happy that I can just eat my gut lee for free." †
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "That's good."
 
-    ("「お汲昼になったら、いっし蛯ょに食べようね」",
+    ("「お汲昼になったら、いっしょに食べようね」",
     ""),
     # "When it's lunchtime, let's eat it together."
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # Akari laughed happily.†
 
-    ("諱よーし、一食ぶん烽金がｂ浮いたぜ。",
+    ("諱よーし、一食ぶん烽金が浮いたぜ。",
     ""),
     # Okay, I've saved up a bit of hot money for one meal.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # This guy is lucky to have no idea about Amami.†
 
-    ("「じ痰ゃあ、お汲昼になったらいっし蛯ょにね」",
+    ("「じ痰ゃあ、お汲昼になったらいっしょにね」",
     ""),
     # "You'll have to be a sputum, and when it's noon, please come and sing."
 

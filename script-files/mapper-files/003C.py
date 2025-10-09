@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The first day was over without a doubt.
 
-    ("あとはまっすぐ帰驪るなり、寄闃り道するなり、オ激レの自由だ。†",
+    ("あとはまっすぐ帰驪るなり、寄闃り道するなり、オレの自由だ。†",
     ""),
     # All that's left is my freedom, like going straight back or coming in.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # I went to the hallway on the first floor.
 
-    ("パ宴ラパ宴ラと生徒たちの姿がある。†",
+    ("パラパラと生徒たちの姿がある。†",
     ""),
     # There are banquets and students.†
 
-    ("階段の下には、生徒悼の艪御意見箱が設置されている。",
+    ("階段の下には、生徒悼の御意見箱が設置されている。",
     ""),
     # Below the stairs, there is a box of comments to commemorate students.
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Fourth day of the 5th day of the Shizuki, it's a laidback night.
 
-    ("飯食ったまま寝てしまい、目を覚ますと、午繻後闌１１桙時だった。",
+    ("飯食ったまま寝てしまい、目を覚ますと、午後１１桙時だった。",
     ""),
     # I fell asleep while eating, and when I woke up, it was 11 o'clock after the morning.
 

@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (3rd day of the final exam for the sedan) (Selected and additional sedans)†
 
-    ("「付加反梍応だｂ」",
+    ("「付加反梍応だ」",
     ""),
     # "Additional reversal b."
 
-    ("オ激レは嘯答えた。",
+    ("オレは嘯答えた。",
     ""),
     # I replied.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Masashi, is that right?
 
-    ("ち蛯ょうど、そこを通闥りかかったｉ史に汲視諮を飛ばし、志保が聞いた。†",
+    ("ちょうど、そこを通闥りかかったｉ史に汲視諮を飛ばし、志保が聞いた。†",
     ""),
     # Shiho asked, "The I-Story," which had been sent through the discussion, and he asked.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "picture?
 
-    ("問１の鰍穴ъ埋め竄問阮題？",
+    ("問１の鰍穴ъ埋め問題？",
     ""),
     # Is it the question of question 1 that fills up the plaster hole?
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # The answer is, yes, "Additional Reversal" is the correct answer."
 
-    ("磨当然のように、♂史が言った。",
+    ("当然のように、♂史が言った。",
     ""),
     # As if to be expected, Masumi said.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Hehe.
 
-    ("人を獅試すような真乱似し竄やがって。",
+    ("人を獅試すような真乱似しやがって。",
     ""),
     # He was trying to imitate people like a lion.
 
-    ("じつはこれって、昨厓日あかりと竄やった竄問阮題なんだよな。†",
+    ("じつはこれって、昨厓日あかりとやった問題なんだよな。†",
     ""),
     # Actually, this is a question of tampering with the light of the last day.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # After saying that, Shiho left the classroom with Stasta.
 
-    ("あいつ、多分オ激レをバカにしたかったんだｂうな。◯",
+    ("あいつ、多分オレをバカにしたかったんだうな。◯",
     ""),
     # He probably wanted to make fun of a super rare guy.◯
 

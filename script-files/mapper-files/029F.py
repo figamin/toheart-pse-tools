@@ -2,19 +2,19 @@
 # Source file: 029F.txt
 
 text_array = [
-    ("（選択綜	ＡＢＣの続き）閨（学校前の竄坂道２）†",
+    ("（選択綜	ＡＢＣの続き）閨（学校前の坂道２）†",
     ""),
     # (Continued from Chosen ABC) (Tansukado 2 in front of school)†
 
-    ("オ激レは先輩とふたりで学校を出た。",
+    ("オレは先輩とふたりで学校を出た。",
     ""),
     # I left school with my senior.
 
-    ("諱先輩は艪ゆっくりとオ激レの横を烽歩いている。",
+    ("諱先輩はゆっくりとオレの横を烽歩いている。",
     ""),
     # Senpai Iku was slowly walking alongside my throbbing.
 
-    ("もしかして、こう竄やって先輩と帰驪るのって奄初めてなんじ痰ゃないか？",
+    ("もしかして、こうやって先輩と帰驪るのって奄初めてなんじ痰ゃないか？",
     ""),
     # Perhaps it's the first time I've ever been able to go back to my seniors by messing around with my seniors?
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Even the hot springs aren't sleepy either.
 
-    ("もしかしてあの薬、効果としてはち痰ゃんと成功してたのか烽も知齟れないな。†",
+    ("もしかしてあの薬、効果としてはち痰ゃんと成功してたのか烽も知れないな。†",
     ""),
     # I don't know if that medicine was successful in terms of effectiveness.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # ""Kiki!
 
-    ("普黒塗闢りの鰍リムジンが目の前に竄停車した。†",
+    ("普黒塗闢りの鰍リムジンが目の前に停車した。†",
     ""),
     # A chrysanthemum limousine with a plain black lacquer stopped in front of me.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # The old man in a floating black suit had hanged out of the car.
 
-    ("「諱よお、じーさん。悪いけど、今厓日は先輩、オ激レといっし蛯ょに｢｢」†",
+    ("「諱よお、じーさん。悪いけど、今厓日は先輩、オレといっしょに｢｢」†",
     ""),
     # "My name is, old man. I'm sorry, but I'm currently in the middle of my day, and I'm a big fan of ""†
 
@@ -87,7 +87,7 @@ text_array = [
     # "Sasa, O-san, head to the car"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「諱先輩…」",
@@ -95,7 +95,7 @@ text_array = [
     # "Isaac Senpai..."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("「せんぱ〜い…」",
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # In the end, O-san was repeatedly called out.
 
-    ("車に乗せられた繧後煬も、諱先輩はじっとオ激レを見つめていた。",
+    ("車に乗せられた繧後煬も、諱先輩はじっとオレを見つめていた。",
     ""),
     # After being put in the car, Senpai Iku was staring at me.
 

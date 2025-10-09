@@ -6,19 +6,19 @@ text_array = [
     ""),
     # (Aoi Pilgrimage Date Event 3, 4th Lion, 28th Day, Monday, 8th Night) (Aoi Pilgrimage (Aoi Pilgrimage)) (Aoi Pilgrimage rating 25 or higher) (My room) †
 
-    ("その冾日、コンビニでモ買った夕飯を食った繧後、オ激レは部屋のベッドに寝転がり、葵ち痰ゃんに借闔りた格闘技の本をパ宴ラパ宴ラとめくっていた。",
+    ("その冾日、コンビニでモ買った夕飯を食った繧後、オレは部屋のベッドに寝転がり、葵ち痰ゃんに借闔りた格闘技の本をパラパラとめくっていた。",
     ""),
     # On that day, after having dinner bought at a convenience store, I lay down on my bed in my room and flipped through the martial arts books I had borrowed from Aoi Chishonan.
 
-    ("この先、ク宴ラブを竄やっていく以繹上、オ激レ焜も少しは格闘技に詳しくならなき痰ゃいけないからな。†",
+    ("この先、クラブをやっていく以繹上、オレ焜も少しは格闘技に詳しくならなき痰ゃいけないからな。†",
     ""),
     # As I'm going to tamper with love for the banquet, I have to become a little knowledgeable about martial arts.†
 
-    ("本は蛯大きくふたつのパートに別れていた。",
+    ("本は大きくふたつのパートに別れていた。",
     ""),
     # The book was divided into two major parts.
 
-    ("現在の格闘技界全体の概要を墲わかり竄やすく烽説明したパートと、技のひとつひとつを写真とイ宴ラストで墲わかり竄やすく烽説明したパートだ。†",
+    ("現在の格闘技界全体の概要を墲わかりやすく烽説明したパートと、技のひとつひとつを写真とイラストで墲わかりやすく烽説明したパートだ。†",
     ""),
     # This part features an easy-to-understand, easy-to-understand, overview of the current martial arts world, and a part in which each technique is explained easily at the end of the photo and the banquet.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("竅やはり、まずは薰基本が蛯大切、と。",
+    ("やはり、まずは薰基本が大切、と。",
     ""),
     # As expected, the basics of the story are important first.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # It writes what Aoi Chisho-yan says.
 
-    ("『継続は力なりの言葉どおり、冝日々、£実に積み重ねていくことが蛯大切である』",
+    ("『継続は力なりの言葉どおり、冝日々、£実に積み重ねていくことが大切である』",
     ""),
     # "As the words of continuity are power, it is important to accumulate it in great detail every day."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Who is it, at this time?
 
-    ("時計を見骭ると、８桙時を回ったとこｂだった。†",
+    ("時計を見骭ると、８桙時を回ったとこだった。†",
     ""),
     # I looked at the clock and found that it had passed by 8 hours.†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # He's gone down with the next cold.
 
-    ("オ激レは読んでいた本を高枕元に置き、ベッドから起き繧上がった。",
+    ("オレは読んでいた本を高枕元に置き、ベッドから起き繧上がった。",
     ""),
     # I placed the book I was reading at my bedside and got up from bed.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # I headed down the stairs and looked at the entrance to see a girl with a familiar face standing there.
 
-    ("もちｂん、あかりじ痰ゃない。",
+    ("もちん、あかりじ痰ゃない。",
     ""),
     # Mochibun, there's no phlegm.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # If so, what exactly is it for?
 
-    ("オ激レは読んでいた本を高枕元に置き、ベッドから起き繧上がった。",
+    ("オレは読んでいた本を高枕元に置き、ベッドから起き繧上がった。",
     ""),
     # I placed the book I was reading at my bedside and got up from bed.
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # Aoi Chishonan.
 
-    ("п私梹服姿でち蛯ょこんと玄関に立っていた。",
+    ("п私梹服姿でちょこんと玄関に立っていた。",
     ""),
     # I was standing at the entrance in my arms uniform.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Ah, sorry. Um, why do you want to talk about I, too, so...?"
 
-    ("緊張してるのか、ち蛯ょっと震えてる。†",
+    ("緊張してるのか、ちょっと震えてる。†",
     ""),
     # Maybe he's nervous, but he's trembling.†
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # "story?"
 
-    ("「はい、あの、こんな夜分遅くに、竅やっぱり艪御迷惑でし蛯ょうか？」",
+    ("「はい、あの、こんな夜分遅くに、やっぱり御迷惑でしょうか？」",
     ""),
     # "Yes, um, it's late at night, so I'm still a nuisance, so is it a nitty sin?!"
 
-    ("「い竄や、そんなのはぜんぜん平気だけどさ。で烽も、增わざ墲わざ家にｗ磯翌ﾈんて、急ぎの話？」",
+    ("「いや、そんなのはぜんぜん平気だけどさ。で烽も、わざ墲わざ家にｗ磯翌ﾈんて、急ぎの話？」",
     ""),
     # "I'm not ok with that, though. And even Hou, I'll go on a move to the house lol, I'm in a hurry, are you talking about a hurry?"
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan nodded.
 
-    ("なんだｂう、いったい。†",
+    ("なんだう、いったい。†",
     ""),
     # What is it, b?†
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("オ激レは靴を嘯履き、葵ち痰ゃんといっし蛯ょに玄関を出た。◯",
+    ("オレは靴を嘯履き、葵ち痰ゃんといっしょに玄関を出た。◯",
     ""),
     # I put on my shoes and left the entrance with Aoi Chisho-chan.◯
 
@@ -242,19 +242,19 @@ text_array = [
     ""),
     # It takes about 5 minutes to walk from the house to the park.
 
-    ("小さい頃、あかり竄やｉ史たちといっし蛯ょによく遊んだ公園だ。",
+    ("小さい頃、あかりやｉ史たちといっしょによく遊んだ公園だ。",
     ""),
     # When I was little, I often played with Akari Tame and I-Shin and others.
 
-    ("すっかり見慣れたこの場鰹所、いまじ痰ゃあ、オ激レのｒみたいな烽もんだ。",
+    ("すっかり見慣れたこの場鰹所、いまじ痰ゃあ、オレのｒみたいな烽もんだ。",
     ""),
     # This bonito spot is completely familiar to me, and it's like a hot pot that's so hot.
 
-    ("オ激レと葵ち痰ゃんは、公園のｒに入った。≫",
+    ("オレと葵ち痰ゃんは、公園のｒに入った。≫",
     ""),
     # Meguri and Aoi Chishoyan entered the park.≫
 
-    ("「いきなりｗ磯翌鴦ｂｾ烽もんな、びっくりしたぜ。用があんなら電話で烽もよかったのに」",
+    ("「いきなりｗ磯翌鴦ｾ烽もんな、びっくりしたぜ。用があんなら電話で烽もよかったのに」",
     ""),
     # "As of a sudden lol, Iso next day, I was surprised. If I had to have something to do, I would have been better off over the phone."
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "…yes"
 
-    ("返抹事はした烽ものの、葵ち痰ゃんはそれっきりなに烽も言甯わず、黙阮り桙込んでしまう。†",
+    ("返抹事はした烽ものの、葵ち痰ゃんはそれっきりなに烽も言甯わず、黙り桙込んでしまう。†",
     ""),
     # Although he canceled the answer, Aoi Chisho-chan didn't say anything about the hot weather, and he ended up silent and shaking.†
 
@@ -306,7 +306,7 @@ text_array = [
     ""),
     # "Um, Senpai."
 
-    ("オ激レを見つめてそう言った。",
+    ("オレを見つめてそう言った。",
     ""),
     # I said this while staring at me.
 
@@ -330,15 +330,15 @@ text_array = [
     ""),
     # Aoi Chisho-yan nodded.†
 
-    ("「噤答えにくい質竡問か烽もしれませんけど、п私に唐遠慮せず、正直に、本心で嘯答えてください」",
+    ("「噤答えにくい質竡問か烽もしれませんけど、п私に遠慮せず、正直に、本心で嘯答えてください」",
     ""),
     # "It's a question that is difficult to answer, but please don't hesitate to answer me, but please be honest and honestly answer me."
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("なんだｂう。",
+    ("なんだう。",
     ""),
     # What is it?
 
@@ -375,10 +375,10 @@ text_array = [
     # "So, what is that 'what you want to hear'?"
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("增わずかな間。",
+    ("わずかな間。",
     ""),
     # A short while.
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「諱先輩は、いまはまだ体験兼箔部という形で、正式にク宴ラブの部員になってくれた墲わけじ痰ゃないですよね」",
+    ("「諱先輩は、いまはまだ体験兼箔部という形で、正式にクラブの部員になってくれた墲わけじ痰ゃないですよね」",
     ""),
     # "Ikesenpai is still an experience and a foil club, and I am not sure why I have officially become a member of the club at Kuban Love."
 
@@ -406,11 +406,11 @@ text_array = [
     ""),
     # "That's why I would like to visit you."
 
-    ("葵ち痰ゃんはぐっとオ激レを見つめた。",
+    ("葵ち痰ゃんはぐっとオレを見つめた。",
     ""),
     # Aoi Chisho-chan stared at me in a fierce look.
 
-    ("「このまま、ずっとク宴ラブを続けてくださいますか？」",
+    ("「このまま、ずっとクラブを続けてくださいますか？」",
     ""),
     # "Would you like to continue to love the banquet forever?"
 
@@ -418,7 +418,7 @@ text_array = [
     ""),
     # "picture?"†
 
-    ("「正式にク宴ラブに入って、п私といっし蛯ょにク宴ラブを続けてくださいませんか？」",
+    ("「正式にクラブに入って、п私といっしょにクラブを続けてくださいませんか？」",
     ""),
     # "Would you officially enter the banquet love and continue the banquet love with me?"
 
@@ -435,10 +435,10 @@ text_array = [
     # After saying this, I realized that Aoi Chisho-yan's shoulders were trembling small.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
-    ("短い間を置いて、オ激レは少し笑った。",
+    ("短い間を置いて、オレは少し笑った。",
     ""),
     # After a short break, I laughed a little.
 
@@ -446,7 +446,7 @@ text_array = [
     ""),
     # "What are you talking about, it's too late now. That kind of answer is ""
 
-    ("だが、オ激レはそこで言葉を止めてしまった。",
+    ("だが、オレはそこで言葉を止めてしまった。",
     ""),
     # However, I stopped speaking at that point.
 
@@ -454,12 +454,12 @@ text_array = [
     ""),
     # This is because Aoi Chisho-chan's eyes were the Shinbuken thing.
 
-    ("真っ直ぐな瞳が、微かに≠潤みながら、オ激レを映していた。†",
+    ("真っ直ぐな瞳が、微かに≠潤みながら、オレを映していた。†",
     ""),
     # His straight eyes were faintly moist, reflecting my intense ecstasy.†
 
     ("「………」",
-    ""),
+    "…"),
     # "..."
 
     ("葵ち痰ゃんは、正直に、と言った。",
@@ -474,7 +474,7 @@ text_array = [
     ""),
     # I don't know what the intention is, but I feel like I should not answer with a casual attitude.
 
-    ("オ激レにとって烽も葵ち痰ゃんにとって烽も、重要な意味を揩持つ嘯答えのような気がした。†",
+    ("オレにとって烽も葵ち痰ゃんにとって烽も、重要な意味を揩持つ嘯答えのような気がした。†",
     ""),
     # I felt that both Koto and Koto for me were important answers that had important meanings.†
 
@@ -486,31 +486,31 @@ text_array = [
     ""),
     # Aoi Chisho-yan is waiting for that.
 
-    ("正式にク宴ラブに入體る気があるのか。",
+    ("正式にクラブに入體る気があるのか。",
     ""),
     # Are you interested in officially joining Kuban Love?
 
-    ("ずっとク宴ラブを続ける気があるのか。†",
+    ("ずっとクラブを続ける気があるのか。†",
     ""),
     # Are you willing to continue to love the banquet forever?†
 
-    ("本末当のとこｂ、どうなんだｂう。",
+    ("本末当のとこ、どうなんだう。",
     ""),
     # What do you think about the realm b?
 
-    ("正直、いまはまだ遊び半分ぐらいの半端な気搴持ちで竄やってるのか烽もしれない。",
+    ("正直、いまはまだ遊び半分ぐらいの半端な気搴持ちでやってるのか烽もしれない。",
     ""),
     # To be honest, I guess he's still just a bit of a fun game and is tampering with the incredible energy he is.
 
-    ("だけど、今纃後、ずっと竄やっていけると約束できるのか？",
+    ("だけど、今纃後、ずっとやっていけると約束できるのか？",
     ""),
     # But can you promise that you can continue to tamper with it in the future?
 
-    ("葵ち痰ゃんとふたり、真武剣に竄やっていく自信があるのか？†",
+    ("葵ち痰ゃんとふたり、真武剣にやっていく自信があるのか？†",
     ""),
     # Are you two confident that Aoi Chisho-yan and the two of them will tamper with Mabuken?†
 
-    ("オ激レはしばらく考えて、そして嘯答えた。",
+    ("オレはしばらく考えて、そして嘯答えた。",
     ""),
     # I thought about it for a while, then replied.
 

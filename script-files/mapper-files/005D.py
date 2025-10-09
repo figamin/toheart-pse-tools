@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Ou"
 
-    ("ク宴ラスの男子が手を繧上げて、玄関から出て行った。†",
+    ("クラスの男子が手を繧上げて、玄関から出て行った。†",
     ""),
     # The boys at the Crown Rath lifted their hands and left the front door.†
 
-    ("もし誰かに出初ったらいっし蛯ょに帰汲うかと思ったが、誰熬もいないみてーだな。",
+    ("もし誰かに出初ったらいっしょに帰汲うかと思ったが、誰熬もいないみてーだな。",
     ""),
     # I thought if I had first appeared with someone, I would return to the Ebi, but I'd see no one there.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Wow, it was nice nitrogen.
 
-    ("バスタオ泣ルで髪をふく。†",
+    ("バスタオルで髪をふく。†",
     ""),
     # She cried her bath towel and wiped her hair.†
 
-    ("濡齡れた髪が乾くまで、テ激レビを見謖よう。",
+    ("濡齡れた髪が乾くまで、テレビを見謖よう。",
     ""),
     # Let's watch the intense teaser until your wet hair dry.
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # Here we have a can of beer!
 
-    ("…で烽もあったら、最ｍ高なんだｂうなァ。",
+    ("…で烽もあったら、最ｍ高なんだうなァ。",
     ""),
     # ...If there's a hot spring, then it's the highest point.
 
-    ("オ激レは未成年だから飲めないが。◯",
+    ("オレは未成年だから飲めないが。◯",
     ""),
     # I'm a minor so I can't drink it.◯
 

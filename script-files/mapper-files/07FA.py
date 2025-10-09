@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone, Scales Event PS) (Chounen, Cats hate)†
 
-    ("「オ激レはどっちかっつーと、猫は凾嫌いだな」",
+    ("「オレはどっちかっつーと、猫は凾嫌いだな」",
     ""),
     # "I hate cats either way."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "...Why?"
 
-    ("「そり痰ゃあまず、驕夜になるとうるさいだｂ？	人んちだｂうと勝闖手にずかずか繧上がりこんで食い物枢盗んだりするし…」†",
+    ("「そり痰ゃあまず、驕夜になるとうるさいだ？	人んちだうと勝闖手にずかずか繧上がりこんで食い物枢盗んだりするし…」†",
     ""),
     # "Not at all, it's noisy when it's arrogant night? When it's a slut, it's a bit louder? When I get a guy, I'll come in and stole the food..."†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # It somehow got the atmosphere down.
 
-    ("竅やっぱ福口に出して言うべきじ痰ゃなかったか。◯",
+    ("やっぱ口に出して言うべきじ痰ゃなかったか。◯",
     ""),
     # After all, there was nothing I should have said in my lucky words.◯
 
