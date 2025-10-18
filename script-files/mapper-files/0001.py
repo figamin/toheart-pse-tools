@@ -1647,35 +1647,35 @@ text_array = [
     # "What, you're saying so badly. I'm going to deliberately teach you, the poor guy who doesn't know anything about?"
 
     ("「ホントは説明を聞かせたくてウズウズしてんだ？	目が輝いてるぜ」",
-    ""),
+    "You're just itching to tell me, aren't you? I see that glint in your eyes."),
     # "Actually, you're so thrilled that you want to hear some explanation b? Your eyes are shining."
 
     ("「まーね。この学校熏内の薰情報を分け隔てなくみんなにお伝えするのがあたしのステータスだからね」",
-    ""),
+    "Well, you know, it's my job to make sure everyone has fair and equal access to school gossip."),
     # "Well, my status is to share information within this school with everyone without discriminating."
 
     ("じつにくだらんステータスだな。",
-    ""),
+    "What a pointless job."),
     # It's a really silly status.
 
     ("「アンタ焜も知闥りたい薰情報があったら、気軽に聞いていい墲わよ。志保ちゃんネット純ワークは、あらゆる薰情報のホットステーションだから翌＠」",
-    ""),
+    "If there's anything you want to know, feel free to ask me. The Shiho Network is a hotspot for all kinds of info"),
     # "If you have any information you want to know, you can feel free to ask us. Shiho Chisho-yan Network is a hot station for all sorts of information, so the next day is."
 
     ("「はいはい…」",
-    ""),
+    "Sure, whatever…"),
     # "Yes, yes…"
 
     ("オレは呆れた顔でうなずいた。",
-    ""),
+    "I nod and roll my eyes."),
     # I nodded with a shocked look on my face.
 
     ("「んじゃ、教えてあげるけど、＠栖瑞謳先輩のｗ栖瑞って、＠栖瑞電工とかｗ栖瑞熕金属とか、＠栖瑞竦銀行とかのあのｗ栖瑞なのよ。",
-    ""),
+    "Fine, I'll tell you. Serika Kurusugawa, as in Kurusugawa Electric Works, Kurusugawa Metals, and Kurusugawa Bank. Do you know the Kurusugawa Group?"),
     # "I'll tell you the phlegm, but @Suzui-senpai-senpai-san lol Suzui is the lol Suzui-san lol from @Suzui Denko, lol Suzui-Keiko, and @Suzui-Ryu Bank.
 
     ("来栖瑞グループって知ってる？」",
-    ""),
+    "Yeah, even I've heard of them. Huh, so she's one of those Kurusugawas?"),
     # Do you know about Kurusu Mizuguruloop?”
 
     ("「そりゃ、いくらオレでも知ってるさ。へえ、あのｗ栖瑞か」",
