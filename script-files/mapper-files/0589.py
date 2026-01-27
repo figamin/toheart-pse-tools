@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I said.
 
-    ("葵ち痰ゃん烽も同意するようにうなずく。",
+    ("葵ち痰ゃんも同意するようにうなずく。",
     ""),
     # Aoi Chisho-yan-chan nodded in agreement.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "That's right.
 
-    ("やっぱり格闘技は、自分でやらなくち痰ゃ面猪白くないです烽ものね？」",
+    ("やっぱり格闘技は、自分でやらなくち痰ゃ面猪白くないですものね？」",
     ""),
     # After all, martial arts are something you have to tamper with on your own, so you're not too bored with the phlegm, right?”
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "Ah, watching Aoi Chisho-yan practice hard for the rest of his life makes me look like he's having a lot of fun."
 
-    ("「はい！	楽しいです、とて烽も！」",
+    ("「はい！	楽しいです、とても！」",
     ""),
     # "Yes! It's fun, and even hot!"
 
-    ("葵ち痰ゃんは、いつ烽ものあのさ墲わやかな笑迴顔を見せた。",
+    ("葵ち痰ゃんは、いつものあのさわやかな笑顔を見せた。",
     ""),
     # Aoi Chisho-yan showed a fuzzy face that was so funny.
 
-    ("「その楽しさっての、オレ焜も知闥りたいんだ」",
+    ("「その楽しさっての、オレも知闥りたいんだ」",
     ""),
     # "I want to know about that fun too."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Aoi Chisho-yan nodded.†
 
-    ("「本末当にやっていけるのか、まだ墲わかんねーから、諱取闔りあえずは仮遠箔部って形にしといて欲しいんだけどさ」†",
+    ("「本末当にやっていけるのか、まだわかんねーから、諱取りあえずは仮遠箔部って形にしといて欲しいんだけどさ」†",
     ""),
     # "I don't know yet whether we can tamper with the end of the art, so I hope they will make it into a temporary foil section without asking for a name for themselves."
 
-    ("「はい、わかりました！	それで烽もとって烽もうれしいです、とって烽も！」",
+    ("「はい、わかりました！	それでもとってもうれしいです、とっても！」",
     ""),
     # "Yes, I understand! And I'm happy to have some hot pot, and I also take some hot pot!"
 

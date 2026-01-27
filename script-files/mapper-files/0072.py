@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Aaaaahhhh!"
 
-    ("「え？	音楽家からだからバレバレですか？	そうか烽もしれませんねえ」",
+    ("「え？	音楽家からだからバレバレですか？	そうかもしれませんねえ」",
     ""),
     # "Huh? Because it's a musician, is it really a big buzz? I see, it's not like you're a hot guy."
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # "Aaaaah, aaah, aaah"
 
-    ("「えっ？	『♂社の宣伝』ですか？	えっと、これから烽もよしくおねがいしまーすっ！」",
+    ("「えっ？	『雅社の宣伝』ですか？	えっと、これからもよしくおねがいしまーすっ！」",
     ""),
-    # "Huh? Is it a 'Advertiser from ♂ Company'? Um, please be careful from now on!"
+    # "Huh? Is it a 'Advertiser from 雅 Company'? Um, please be careful from now on!"
 
     ("「ふごっ、ふごっ、ふごごーーーーーぉ」†",
     ""),
     # "Aaaaah, aaah, aaah" †
 
-    ("「えっ、はっ、はいっ！	たしかにそれでは短すぎますよねっ！	えっと、そ烽もそ烽もこのｉ社の創立は｢｢」†",
+    ("「えっ、はっ、はいっ！	たしかにそれでは短すぎますよねっ！	えっと、そもそもこの社の創立は｢｢」†",
     ""),
     # "Eh, ha, yes! That's certainly too short! Um, both the hot and hot pots were founded by the company """†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Eh, ah, yes, is it over now? I understand!" †
 
-    ("「それではさん、なごりおしいですが、ここでお墲わかれです。それでは」†",
+    ("「それではさん、なごりおしいですが、ここでおわかれです。それでは」†",
     ""),
     # "Now, I'm sorry, but I'll say goodbye to you here. See you later."†
 

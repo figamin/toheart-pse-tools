@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "What are you, what are you? That unclear attitude?"
 
-    ("「はっきりしって言甯われて烽もな」",
+    ("「はっきりしって言甯われてもな」",
     ""),
     # "It's clear that b is said to be true, and there's no hot weather."
 
-    ("なんか嘘くさいし、かといって頭ごなしに否阡定できる話で烽もないし…。†",
+    ("なんか嘘くさいし、かといって頭ごなしに否阡定できる話でもないし…。†",
     ""),
     # It's kind of a lie, but there's no point in deciding on it without thinking about it...†
 
-    ("「じ痰ゃあ、こんなのはどお？	あの子の回濶りには今回の大予言以外に烽もいい不思議なことがしょっち繧ゅう起こってるのよ」",
+    ("「じ痰ゃあ、こんなのはどお？	あの子の回濶りには今回の大予言以外にもいい不思議なことがしょっちゅう起こってるのよ」",
     ""),
     # "Ah, what's this? In addition to the great prophecy of this, there are strange things happening in that child's recurring episodes."
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # "Hey..." †
 
-    ("「瘁例えば、見つめるだけで汲窓ガラスをр割ったり、重い花瓶を動かしたりすんのよ」",
+    ("「瘁例えば、見つめるだけで窓ガラスをр割ったり、重い花瓶を動かしたりすんのよ」",
     ""),
     # "For example, just staring at me, I break the banquet and move the heavy vase."
 
-    ("「おめー、そり痰ゃデマ焜もいいとこだ」†",
+    ("「おめー、そり痰ゃデマもいいとこだ」†",
     ""),
     # "Hello, it's good to have a sigh and a hoax."
 
-    ("「だったら、％学式での出女沫事はどう烽説明すんの",
+    ("「だったら、％学式での出女沫事はどう説明すんの",
     ""),
     # "If that's the case, how do you explain the droplets of women at the % academic ceremony?
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "So, I don't know... b."
 
-    ("「そんなんじ痰ゃ翌女の子に凾嫌甯われち痰ゃう墲わよ」",
+    ("「そんなんじ痰ゃ翌女の子に凾嫌甯われち痰ゃうわよ」",
     ""),
     # "If you have that kind of phlegm, the girl will sniff you and your phlegm will be disgusted."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Don't be bothered if someone other than you are disliked"
 
-    ("「うっさい墲わね。そういう意味じ痰ゃなくて、感動するなら感動、否阡定するならはっきり否阡定しなさいよ。こっちまで怒っていいのかｊんでいいのか、わかんなくなるじ痰ゃない」",
+    ("「うっさいわね。そういう意味じ痰ゃなくて、感動するなら感動、否阡定するならはっきり否阡定しなさいよ。こっちまで怒っていいのかｊんでいいのか、わかんなくなるじ痰ゃない」",
     ""),
     # "That's annoying. If it's not phlegm in that sense, it's moving, if it's moving, if it's denied, then it's clearly denied. Is it okay to get angry or get judging, but I don't know what phlegm is."
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Oh, I guess your motivation is enough to confirm whether your psychic powers are true or not."
 
-    ("志保の烽もっと烽もらしい口ぶりに、ま墲わりの連中は余計に感心してしまった。",
+    ("志保のもっともらしい口ぶりに、まわりの連中は余計に感心してしまった。",
     ""),
     # The people who lived in Madama were even more impressed by Shiho's more of a hot and humorous way of saying goodbye.
 
-    ("オレが文蝠句をつけたことで、逆に信叶頼性が繧上がったことになる。",
+    ("オレが文蝠句をつけたことで、逆に信叶頼性が上がったことになる。",
     ""),
     # When I put on a sentence phrase, it actually improved my reliability.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # The only one who is good at Yuko is absolutely good.†
 
-    ("「わかった墲わかった。キリがねえから、オレ焜もこれ以繹上詮索しねえよ」",
+    ("「わかったわかった。キリがねえから、オレもこれ以繹上詮索しねえよ」",
     ""),
     # "I understand, I understand. There's no Kigatari, so I won't even scrutinize it anymore."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # He retorted with a silly look on his face.†
 
-    ("志保のрヤツ、オレを言い奄負かしたつ烽もりでいるのか嬉しそうに、",
+    ("志保のрヤツ、オレを言い奄負かしたつもりでいるのか嬉しそうに、",
     ""),
     # Shiho's р guy looked happy as he was a stolen man who defeated Amami.
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # Skipping is what makes it so magical.†
 
-    ("氈勝ち奄負けなんてどうで烽もいいが、あいつにああいう態度を取邇られると、なんだか奄負けたような気がしてし痰ゃくだ。†",
+    ("氈勝ち奄負けなんてどうでもいいが、あいつにああいう態度を取邇られると、なんだか奄負けたような気がしてし痰ゃくだ。†",
     ""),
     # It's fine if you win or lose, Amano, but when he acts like that, I feel like I've lost, and it's a bit of a stretch.†
 
-    ("…それにして烽も今厓日のあいつの薰情報は珍しくまと烽もだったな。",
+    ("…それにしても今厓日のあいつの薰情報は珍しくまともだったな。",
     ""),
     # ...But, the information about his story on the day of the day was rare, and it was also quite a collection of hot topics.
 

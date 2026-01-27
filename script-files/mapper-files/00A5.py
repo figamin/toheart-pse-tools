@@ -2,11 +2,11 @@
 # Source file: 00A5.txt
 
 text_array = [
-    ("（３獅月１１冾日	朝）閨（玄関）†",
+    ("（３月１１冾日	朝）閨（玄関）",
     ""),
-    # (Morning of the 11th day of the 3rd month) (Entrance)†
+    # (Morning of the 11th day of the 3rd month) (Entrance)
 
-    ("３獅月１１冾日、火曜坥日。",
+    ("３月１１冾日、火曜坥日。",
     ""),
     # The 11th day of the 3rd month of the 1990s, Tuesday.
 
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "I'm going."
 
-    ("誰熬もいない盾居間にｌかって言うと、オレは玄関を出て、鍵をかけた。†",
+    ("誰熬もいない盾居間にｌかって言うと、オレは玄関を出て、鍵をかけた。",
     ""),
-    # When I said "I'm in the room where no one was in the shield, I left the front door and locked it.†
+    # When I said "I'm in the room where no one was in the shield, I left the front door and locked it.
 
     ("「｢｢でね、そのとき、志保がぁ…」",
     ""),
     # ""So, at that moment, Shiho..."
 
-    ("いつ烽もの坂道を、あかりのくだらない話を聞きながら烽歩いていると、",
+    ("いつもの坂道を、あかりのくだらない話を聞きながら歩いていると、",
     ""),
     # When I was walking down the hill, listening to the silly stories of light,
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # Akari suddenly stopped saying this.
 
-    ("「…ほしな？」†",
+    ("「…ほしな？」",
     ""),
     # "...Do you want it?"
 
-    ("見骭ると、＝メガネにお下げの翌女生徒が、オレたちの横を烽歩いて行く。",
+    ("見骭ると、＝メガネにお下げの翌女生徒が、オレたちの横を歩いて行く。",
     ""),
     # As I looked, the next female student strolled beside us and threw herself in her glasses.
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # Ah, this guy.
 
-    ("あのとき、図草書室でｉった関西弁の生意気な翌女だ。†",
+    ("あのとき、図草書室でった関西弁の生意気な翌女だ。",
     ""),
-    # She was the cheeky next woman who spoke Kansai dialect, which she had in the cursive library at that time.†
+    # She was the cheeky next woman who spoke Kansai dialect, which she had in the cursive library at that time.
 
     ("「おはよう」",
     ""),
     # "good morning"
 
-    ("あかりがあいさつして烽も、",
+    ("あかりがあいさつしても、",
     ""),
     # Akari greeted him and Hoo also
 
@@ -62,9 +62,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("保科はチラリと汲視諮をｌけただけで、なに烽も言甯わずに通闥り過ぎていく。†",
+    ("保科はチラリと視諮をｌけただけで、なにも言甯わずに通闥り過ぎていく。",
     ""),
-    # Hoshina only responded with a banquet and a banquet, but he contacted him too much without any comments.†
+    # Hoshina only responded with a banquet and a banquet, but he contacted him too much without any comments.
 
     ("「たしか、お前と同じクラスなんだよな？」",
     ""),
@@ -74,16 +74,16 @@ text_array = [
     ""),
     # "Yes. I'm the chairman of the Celebration."
 
-    ("「…で烽も、あいつ、お前になんのあいさつ烽もしなかったぜ？」†",
+    ("「…でも、あいつ、お前になんのあいさつもしなかったぜ？」",
     ""),
     # "... And even Kano, he didn't even say anything to you, did he?"
 
-    ("「…う、うん。正直言うと、保科さんとは、そんなに親しく烽もないんだ」",
+    ("「…う、うん。正直言うと、保科さんとは、そんなに親しくもないんだ」",
     ""),
     # "...Ugh, yes. To be honest, I'm not that close to Hoshina-san."
 
-    ("あかりは苦笑してそう言った。†",
+    ("あかりは苦笑してそう言った。",
     ""),
-    # Akari said with a wry smile.†
+    # Akari said with a wry smile.
 
 ]

@@ -2,11 +2,11 @@
 # Source file: 08B3.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	「遠慮しとくぜ」）†",
+    ("（レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	「遠慮しとくぜ」）",
     ""),
-    # (Game Remy Scale Event 1st Floor 3 LV2) (Choice So "Please refrain")†
+    # (Game Remy Scale Event 1st Floor 3 LV2) (Choice So "Please refrain")
 
-    ("「遠慮しとく墲わ」",
+    ("「遠慮しとくわ」",
     ""),
     # "I'll refrain from doing that."
 
@@ -14,21 +14,21 @@ text_array = [
     ""),
     # "What?"
 
-    ("「オレは味にうるさいんだぜ。オレの繧舌を桙満足させる料摎理をｍ鼾れるかい？」",
+    ("「オレは味にうるさいんだぜ。オレの舌を桙満足させる料摎理をｍ鼾れるかい？」",
     ""),
     # "My geeks are so noisy about the taste. Can you sniff the medication to satisfy my geeks?"
 
-    ("ギャャグのつ烽もりで、ちょっと気諡取ってみた。†",
+    ("ギャャグのつもりで、ちょっと気諡取ってみた。",
     ""),
-    # With Gyagu's hot springs, I suddenly got a thrill tone.†
+    # With Gyagu's hot springs, I suddenly got a thrill tone.
 
     ("「エヘヘ…。アタシ、料摎理燉も掃恆除熄も、全然自信ないの」",
     ""),
     # "Hehehe... I'm not confident in the process of cleaning or cleaning up."
 
-    ("戟レミィはギャャグにウケ驛るどこか、照齒れ笑いを浮かべてそんなことを言った。†",
+    ("レミィはギャャグにウケ驛るどこか、照齒れ笑いを浮かべてそんなことを言った。",
     ""),
-    # He said something like that, with a laugh b, and a laughing b.†
+    # He said something like that, with a laugh b, and a laughing b.
 
     ("「そり痰ゃねーぞ。家哩事の苦闍手な≠メイドなんて詐欺だ」",
     ""),
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Go<Mengo<Men... Anyway, I wanted to help you out."
 
-    ("「♀うくとんで烽もない料摎理を食岦わされるとこだったぜ」†",
+    ("「♀うくとんでもない料摎理を食岦わされるとこだったぜ」",
     ""),
     # "It was a bit of a silly thing that was forced to eat a lot of money."
 
-    ("それからｉ話燔も盛關り繧上がり、オレと撃レミィは駅の近くで別れ、それぞれの家に帰った。◯",
+    ("それから話燔も盛關り上がり、オレと撃レミィは駅の近くで別れ、それぞれの家に帰った。◯",
     ""),
     # Then the i-changing storyline began to rise, and Meguri and Gekiremi parted ways near the station and returned to their respective homes.◯
 

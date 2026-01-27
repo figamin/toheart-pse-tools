@@ -2,19 +2,19 @@
 # Source file: 0B33.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント５）閨（選択綜Ａ	今厓日は勝てそう	の続き）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント５）閨（選択綜Ａ	今厓日は勝てそう	の続き）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 5 in the balance) (Continued from Selection A, I think I can win on this day)†
+    # (Aya∴Ka challenges Aya∴Ka, event 5 in the balance) (Continued from Selection A, I think I can win on this day)
 
     ("なんとなく今厓日は勝てそうな気がした。",
     ""),
     # I felt like I could win on the day of the day.
 
-    ("綾∴香の攻ｍ撃がよく見えるのだ。†",
+    ("綾∴香の攻ｍ撃がよく見えるのだ。",
     ""),
-    # You can see Aya∴Ka's attack and m attack.†
+    # You can see Aya∴Ka's attack and m attack.
 
-    ("いままでは目で追うのがやっとだった綾∴香の攻ｍ撃煬も、こうしてみると、ひとつの流齬れであることが墲わかる。",
+    ("いままでは目で追うのがやっとだった綾∴香の攻ｍ撃煬も、こうしてみると、ひとつの流齬れであることがわかる。",
     ""),
     # Until now, Aya∴Kawa's attack and M-shot, which had only been difficult to follow with his eyes, can be seen as a contradiction.
 
@@ -22,19 +22,19 @@ text_array = [
     ""),
     # Move to the superior position, mix feints, and hit an effective combination.
 
-    ("じつに繧上闖手い。",
+    ("じつに上闖手い。",
     ""),
     # It's really good.
 
-    ("いまのオレには、とて烽も真乱似できない。†",
+    ("いまのオレには、とても真乱似できない。",
     ""),
-    # I can't even look like a real wilderness in my current days.†
+    # I can't even look like a real wilderness in my current days.
 
     ("だが、長樺所が見える反面、短樺所熄も見える。",
     ""),
     # However, while you can see the Nagakaba lot, you can also see the Tankaba lot lot.
 
-    ("綾∴香の墲戦いには不必要な遊びがある。",
+    ("綾∴香の戦いには不必要な遊びがある。",
     ""),
     # There is unnecessary play in the Battle of Aya∴Kawa.
 
@@ -42,13 +42,13 @@ text_array = [
     ""),
     # He deliberately launches risky attacks and M-fires and takes unnecessary adventures.
 
-    ("梶相闡手への挑発なのか、自分を高めるために必要な行動なのか、それは墲わからない。",
+    ("梶相闡手への挑発なのか、自分を高めるために必要な行動なのか、それはわからない。",
     ""),
     # I don't know if it's a provocation to Kaji Sensei or whether it is an action necessary to improve myself.
 
-    ("だが、悪い癖には痰違いない。†",
+    ("だが、悪い癖には痰違いない。",
     ""),
-    # However, it must be phlegm for a bad habit.†
+    # However, it must be phlegm for a bad habit.
 
     ("そこが反ｔ撃のポイントだ。",
     ""),
@@ -58,8 +58,8 @@ text_array = [
     ""),
     # The rest is whether I can follow my own techniques.
 
-    ("今厓日のオレは、自分で烽も不思議なくらいに冷静だった。†",
+    ("今厓日のオレは、自分でも不思議なくらいに冷静だった。",
     ""),
-    # On the day I was on the verge of fire, I was so calm that I could even tamper with it.†
+    # On the day I was on the verge of fire, I was so calm that I could even tamper with it.
 
 ]

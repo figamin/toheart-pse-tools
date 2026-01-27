@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I said.
 
-    ("「本末当はさ、どんなрヤツで烽もみんな揩持ってるんだよな、そういう気搴持ちって」",
+    ("「本末当はさ、どんなрヤツでもみんな持ってるんだよな、そういう気搴持ちって」",
     ""),
     # "At the end of the day, all the people who have the hot springs, so you're probably thinking that way."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Huh?" †
 
-    ("「みんな、自分だけが揩持つ価値観ってやつがあってさ、本末当はそれを大切にしたいんだけど、ま墲わりからはみだすのが凾嫌で、はっきりそれを認めることができなかったり」",
+    ("「みんな、自分だけが持つ価値観ってやつがあってさ、本末当はそれを大切にしたいんだけど、まわりからはみだすのが凾嫌で、はっきりそれを認めることができなかったり」",
     ""),
     # "Everyone has a kind of thing that only they have, and I want to cherish those values, but I don't want to reveal them from the perspective of the people, so I can't accept them clearly."
 
@@ -30,7 +30,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「で烽も、葵ち痰ゃんにはそれが言えるんだよな。そういうとこ、うらやましいよ」†",
+    ("「でも、葵ち痰ゃんにはそれが言えるんだよな。そういうとこ、うらやましいよ」†",
     ""),
     # "And that's what you can say to Aoi Chisho-yan. I'm jealous of that."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Oh, is that so...?"
 
-    ("「うん。オレ焜も真乱似したいって思う」",
+    ("「うん。オレも真乱似したいって思う」",
     ""),
     # "Yeah. I want to look like my geek-raku."
 

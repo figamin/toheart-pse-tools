@@ -2,9 +2,9 @@
 # Source file: 008D.txt
 
 text_array = [
-    ("（冝期槙末テスト	３冾日目）閨（選択綜	連鎖）†",
+    ("（冝期槙末テスト	３冾日目）閨（選択綜	連鎖）",
     ""),
-    # (3rd day of the final test for the ritual period) (Choice chain)†
+    # (3rd day of the final test for the ritual period) (Choice chain)
 
     ("「連鎖反梍応だ」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Masashi, is that right?
 
-    ("ちょうど、そこを通闥りかかったｉ史に汲視諮を飛ばし、志保が聞いた。†",
+    ("ちょうど、そこを通闥りかかった史に視諮を飛ばし、志保が聞いた。",
     ""),
-    # Shiho asked, "The I-Story," which had been sent through the discussion, and he asked.†
+    # Shiho asked, "The I-Story," which had been sent through the discussion, and he asked.
 
     ("「問１の鰍穴ъ埋め問題？",
     ""),
@@ -34,13 +34,13 @@ text_array = [
     ""),
     # The answer is "Additional reversal."
 
-    ("当然のように言う、♂史。",
+    ("当然のように言う、雅史。",
     ""),
     # Masumi says it as if it were natural.
 
-    ("やべっ、オレの嘯答え、間瘧違ってら。†",
+    ("やべっ、オレの嘯答え、間違ってら。",
     ""),
-    # I'm not sure what a surprise answer is, my slutty answer is wrong.†
+    # I'm not sure what a surprise answer is, my slutty answer is wrong.
 
     ("「アハハッ！	バッカでぇ〜。こんな問題熨も解けないくせに、なにがバッチリなのよぉ？」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Kuuu..."
 
-    ("オレはｉ史をにらみつけた。",
+    ("オレは史をにらみつけた。",
     ""),
     # I glared at I-Hisashi.
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "What, did you say something bad?"
 
-    ("ちょっと繧後撃に退きながら、♂史が言った。†",
+    ("ちょっと後撃に退きながら、雅史が言った。",
     ""),
-    # Masumi said as she retreated to the attack after the attack.†
+    # Masumi said as she retreated to the attack after the attack.
 
     ("「で、ホントのとこは、どーなのよ？」",
     ""),
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "I'm so excited, I'm looking forward to seeing you!"
 
-    ("「てめぇ…」†",
+    ("「てめぇ…」",
     ""),
-    # "That's right..." †
+    # "That's right..." 
 
-    ("「で烽も、〟仲間ね」",
+    ("「でも、〟仲間ね」",
     ""),
     # "And Hoo too," he's friends."
 

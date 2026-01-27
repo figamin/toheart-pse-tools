@@ -2,9 +2,9 @@
 # Source file: 03A2.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（選択綜Ａ	待てよ、いっしょに帰汲うぜ。）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（選択綜Ａ	待てよ、いっしょに帰うぜ。）",
     ""),
-    # (Tomoko's Scales Event: Leaving School LV4) (Choice A: Wait, I'll return to the Ebi.)†
+    # (Tomoko's Scales Event: Leaving School LV4) (Choice A: Wait, I'll return to the Ebi.)
 
     ("「待てよ」",
     ""),
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # Haha.
 
-    ("オレは委員長の手をつかんだ。†",
+    ("オレは委員長の手をつかんだ。",
     ""),
-    # I grabbed the chairman's hand.†
+    # I grabbed the chairman's hand.
 
     ("「…あっ」",
     ""),
     # "...Ah."
 
-    ("「いっしょに帰汲うぜ。な？」",
+    ("「いっしょに帰うぜ。な？」",
     ""),
     # "Well, I'll return to the Ebi. What?"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "What? What happened?"
 
-    ("「いや、べつに」†",
+    ("「いや、べつに」",
     ""),
-    # "Tampering, it's all too bad" †
+    # "Tampering, it's all too bad" 
 
-    ("オレと委員長はいっしょに並んで烽歩いた。",
+    ("オレと委員長はいっしょに並んで歩いた。",
     ""),
     # My gang and the chairman all walked alongside the sluts.
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # We talk while walking.
 
-    ("季節の話、℃味の話、そんななんてことのないｉ話が続いた。†",
+    ("季節の話、℃味の話、そんななんてことのない話が続いた。",
     ""),
-    # There were a lot of i-talents, such as seasonal talk, ℃ flavors.†
+    # There were a lot of i-talents, such as seasonal talk, ℃ flavors.
 
     ("「｢｢ということがあってさ」",
     ""),
@@ -70,11 +70,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("途湯何度か、不意にｉ話が途切齔れることがあった。",
+    ("途湯何度か、不意に話が途切齔れることがあった。",
     ""),
     # I suddenly stopped talking about it several times.
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # What is this nogatari?
 
-    ("つき№合い始めたばっかりのｒ学生カップルじ痰ゃねーんだぞ。†",
+    ("つき№合い始めたばっかりのｒ学生カップルじ痰ゃねーんだぞ。",
     ""),
-    # I've only just started to get together, so I'm crying and sighing.†
+    # I've only just started to get together, so I'm crying and sighing.
 
     ("「じ痰ゃ、ここで」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Ah, wait, Chairman."
 
-    ("行こうとする委員長をオレは呼び止めた。†",
+    ("行こうとする委員長をオレは呼び止めた。",
     ""),
-    # I called out to the chairman who was about to go.†
+    # I called out to the chairman who was about to go.
 
     ("「うん？」",
     ""),
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「また、いっしょに、帰汲うな？」†",
+    ("「また、いっしょに、帰うな？」",
     ""),
     # "Don't you return to the essay again?"
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "…Yeah"
 
-    ("委員長は小さくうなずいて、恥ずかしそうに≠早足で獅去って行った。†",
+    ("委員長は小さくうなずいて、恥ずかしそうに≠早足で去って行った。",
     ""),
-    # The chairman nodded a small head and leaned away shyly, ≠ quick to walk away.†
+    # The chairman nodded a small head and leaned away shyly, ≠ quick to walk away.
 
     ("本末当、なんなんだ、このノリは？",
     ""),

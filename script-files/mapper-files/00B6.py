@@ -2,15 +2,15 @@
 # Source file: 00B6.txt
 
 text_array = [
-    ("（４獅月１６冾日	朝）閨（自分の部屋）†",
+    ("（４月１６冾日	朝）閨（自分の部屋）†",
     ""),
     # (4th Lion, 16th Day, morning) (morning) (morning)
 
-    ("４獅月１６冾日、＄曜坥日。",
+    ("４月１６冾日、＄曜坥日。",
     ""),
     # Fourth Lion's 16th day, $Yoshi-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu-Kyu
 
-    ("「う墲わっ…」",
+    ("「うわっ…」",
     ""),
     # "Uhhh..."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # It was chilly up until recently, but it's been quite warm these days...and it's even hotter.
 
-    ("『春たけな墲わ』ってやつか。†",
+    ("『春たけなわ』ってやつか。†",
     ""),
     # Is it tampering with "Spring Shot"?†
 

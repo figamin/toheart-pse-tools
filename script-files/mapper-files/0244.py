@@ -10,11 +10,11 @@ text_array = [
     ""),
     # The third fence time is the break time.
 
-    ("渡闢り廊下を烽歩いていると、瘁例によってまた、£鋳にいるｗ栖瑞謳先輩を見かけた。†",
+    ("渡闢り廊下を歩いていると、瘁例によってまた、鋳にいるｗ栖瑞謳先輩を見かけた。†",
     ""),
-    # As I was walking down the corridor, I saw another senior at the £kitte lol.†
+    # As I was walking down the corridor, I saw another senior at the kitte lol.†
 
-    ("いつ烽もの、ひなたぼっこか？",
+    ("いつもの、ひなたぼっこか？",
     ""),
     # When are you basking in hot food?
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # At first glance, it looks unobtrusive, but in fact there are some subtle surrealistic views in the movement of the eyes.
 
-    ("オレは先輩の表﨣情研結家で烽もあるのだ。†",
+    ("オレは先輩の表﨣情研結家でもあるのだ。†",
     ""),
     # My gei-re is a senior and I also have a hot-selling family.†
 
-    ("「さっきから、この辺ウ鴻ロウ鴻ロしてるけど、なにかさがし烽もの？」",
+    ("「さっきから、この辺ウ鴻ロウ鴻ロしてるけど、なにかさがしもの？」",
     ""),
     # "I've been doing this around here for a while now, but what are you looking for?!"
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "You know? And it's the most grain you're looking for at dowsing..."
 
-    ("諱先輩は烽金属のお烽もりがついたペンデャラム（振關り子）をかざして言った。†",
+    ("諱先輩は金属のおもりがついたペンデャラム（振關り子）をかざして言った。†",
     ""),
     # Senpai said, holding up a pendya banquet ram with a hot metal heater.†
 
-    ("「ふ〜ん。なんならオレ焜も、捜すの手伝ってやうか？」",
+    ("「ふ〜ん。なんならオレも、捜すの手伝ってやうか？」",
     ""),
     # "Hmm. In any case, can I help you find me and tamper with me?"
 
@@ -126,7 +126,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え？	ダウジングの汲結果ではどうやらこの盾縁の下にいるようですって？	そうか。",
+    ("「え？	ダウジングの結果ではどうやらこの盾縁の下にいるようですって？	そうか。",
     ""),
     # "Huh? What do you think of the result of the dowsing, and how does it seem to be under this shield? I see.
 
@@ -226,11 +226,11 @@ text_array = [
     ""),
     # "Huuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
-    ("ネコは全身告総毛立たせて繧後ずさりした。",
+    ("ネコは全身告総毛立たせて後ずさりした。",
     ""),
     # The cat retreated with her whole body raised her hair.
 
-    ("猫のくせに、しっかりとお約束を墲わかってやがる。†",
+    ("猫のくせに、しっかりとお約束をわかってやがる。†",
     ""),
     # Even though he's a cat, he clearly understands his promises and tampers with it.†
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Tototototo..., Piece.
 
-    ("クソネコは、いと烽もたやすく先輩のひざに飛び乗った。",
+    ("クソネコは、いともたやすく先輩のひざに飛び乗った。",
     ""),
     # The shitty cat was easily stolen and jumped onto the senior's knee.
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # Senpai is staring at the floating black cat intently.
 
-    ("それにして烽も、可愛くないネコだな〜。",
+    ("それにしても、可愛くないネコだな〜。",
     ""),
     # And even Hot is not a cute cat.
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # The more I watch, the more I get a feast that seems to have come to me and it becomes a tampering experience.
 
-    ("で烽もまあこの際、可愛くないのはどうで烽もいい。†",
+    ("でもまあこの際、可愛くないのはどうでもいい。†",
     ""),
     # And at this point, it's nice that it's not cute, isn't it?†
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # Even though it's an animal, it's hard to take a life without any worries...
 
-    ("普黒ｍ魔術というからには、多少ダークなこと烽もやってるだうとは思ってたけど、まさかネコをいけにえにするなどと…。",
+    ("普黒ｍ魔術というからには、多少ダークなこともやってるだうとは思ってたけど、まさかネコをいけにえにするなどと…。",
     ""),
     # Since it's called the "Fujiku M magic," I thought he would be doing something a little darker than that, but I never thought he would sacrifice a cat...
 
@@ -418,7 +418,7 @@ text_array = [
     ""),
     # After all, the strict teaching education of O-san has been transformed into such a distorted n-taste.
 
-    ("そう思うと、なんだか少しか墲わいそうになってきた。†",
+    ("そう思うと、なんだか少しかわいそうになってきた。†",
     ""),
     # When I think about it, I started to feel a little sorry for him.†
 
@@ -470,7 +470,7 @@ text_array = [
     ""),
     # It cried.†
 
-    ("「…く、くぬやぉ〜っ！	わかった、もう墲わかった。",
+    ("「…く、くぬやぉ〜っ！	わかった、もうわかった。",
     ""),
     # "...Damn, it's a mess! I understand, I already understand.
 
@@ -478,7 +478,7 @@ text_array = [
     ""),
     # Senpai, this guy, after all, sacrifice, sacrifice.
 
-    ("先輩の魔術の研結に役立つんなら、こいつ烽も生まれてきた甲纃斐があるって烽もんだ。そうだ？」",
+    ("先輩の魔術の研結に役立つんなら、こいつも生まれてきた甲纃斐があるってもんだ。そうだ？」",
     ""),
     # If it helps to help Senpai's B-Magic Skills, then this guy is worthy of the armour he was born in.Is that b?”
 
@@ -506,7 +506,7 @@ text_array = [
     ""),
     # The cat scratched my hand again.†
 
-    ("「こ、この…！	諱よし、諱先輩。じ痰ゃあ今厓日の冾放課繪後にで烽も、さっそく儀式を始めよう」",
+    ("「こ、この…！	諱よし、諱先輩。じ痰ゃあ今厓日の冾放課繪後にでも、さっそく儀式を始めよう」",
     ""),
     # "Hey, this...! Okay, Senpai. Let's start the ritual right away after the school day."
 
@@ -526,7 +526,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	か墲わいそう？	可哀想って、この可愛くないネコがか？」†",
+    ("「えっ？	かわいそう？	可哀想って、この可愛くないネコがか？」†",
     ""),
     # "Huh? Poor me? Poor, is this uncute cat?"†
 
@@ -534,7 +534,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ、か墲わいい！？	うそだぉ、こんな桙憎ったらしいネコのどこが可愛いんだ！？」†",
+    ("「えっ、かわいい！？	うそだぉ、こんな桙憎ったらしいネコのどこが可愛いんだ！？」†",
     ""),
     # "What, is it okay?! That's a lie, what's so cute about this cat that you've hated with?!"
 
@@ -582,7 +582,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ！？	か墲わりに飼う！？	飼うって、このクソネコを！？」",
+    ("「えっ！？	かわりに飼う！？	飼うって、このクソネコを！？」",
     ""),
     # "What!? I'll keep it for a while!? You're going to keep it, this shitty cat!?"
 
@@ -614,7 +614,7 @@ text_array = [
     ""),
     # "Yeah, there's phlegm~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    ("諱先輩が手を冾放して烽も、可愛くないネコは、逃げずに先輩の足熨もとに付きまとっている。†",
+    ("諱先輩が手を冾放しても、可愛くないネコは、逃げずに先輩の足熨もとに付きまとっている。†",
     ""),
     # Senpai lets out his hands and the uncute cat keeps on his feet, but the uncute cat doesn't run away and hangs out with his senior's feet.†
 
@@ -662,7 +662,7 @@ text_array = [
     ""),
     # ・†
 
-    ("｢｢という墲わけで、結局諡先輩は可愛くないネコを飼うことになった。◯",
+    ("｢｢というわけで、結局諡先輩は可愛くないネコを飼うことになった。◯",
     ""),
     # "That's why, in the end, Senpai-senpai ended up keeping a cat that's not cute.◯
 

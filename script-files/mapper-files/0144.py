@@ -2,9 +2,9 @@
 # Source file: 0144.txt
 
 text_array = [
-    ("（あかり	好感度イベント	２．１）閨（好感度が	１４以繹上	のとき）閨（３桙時間目の休み桙時間）閨（廊下）†",
+    ("（あかり	好感度イベント	２．１）閨（好感度が	１４以繹上	のとき）閨（３桙時間目の休み桙時間）閨（廊下）",
     ""),
-    # (Akari Likeability Event 2.1) (When Likeability is above 14) (Break time in the third frame) (Carrior) †
+    # (Akari Likeability Event 2.1) (When Likeability is above 14) (Break time in the third frame) (Carrior) 
 
     ("３桙時間目の休み桙時間。",
     ""),
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("オレは汲視諮をそらし、こほっと咳払いする。†",
+    ("オレは視諮をそらし、こほっと咳払いする。",
     ""),
-    # I deflected the advice of the counsel and cleared my throat.†
+    # I deflected the advice of the counsel and cleared my throat.
 
-    ("「ったく、つまんねーとこでコケ窿やがって。お前みたいなドジを標準撫装備してるやつは、ちょっとした場鰹所で烽も油断すんじ痰ゃねー諱よ」",
+    ("「ったく、つまんねーとこでコケ窿やがって。お前みたいなドジを標準撫装備してるやつは、ちょっとした場鰹所でも油断すんじ痰ゃねー諱よ」",
     ""),
     # "It's so boring, it's a bit boring. If you're a guy who's equipped with clumsy equipment like you, you'll have to be careless at the bonito spot where you're gonna have to be careful, don't let your guard down, don't let your guard down, don't you?
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "...Yeah, I understand. I'll take care."
 
-    ("「ま、軽いケガでなによりだ」†",
+    ("「ま、軽いケガでなによりだ」",
     ""),
     # "Well, it's a minor injury that's the best thing."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Akari called out.
 
-    ("「なんだよ？」†",
+    ("「なんだよ？」",
     ""),
     # "What is it?"
 
@@ -86,9 +86,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「人を心配させといて、なーにが嬉しいだ」",
     ""),
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Oh, sorry."
 
-    ("禔口ではそう謝闔りつつ烽も、あかりはやっぱり嬉しそうに微笑んでいた。",
+    ("禔口ではそう謝りつつも、あかりはやっぱり嬉しそうに微笑んでいた。",
     ""),
     # While he apologized at Yu-ku, Akari smiled happily as he tampered with such a joyous look on his face.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Ahhh..."
 
-    ("オレは背をｌけて、その場を獅去った。◯",
+    ("オレは背をｌけて、その場を去った。◯",
     ""),
     # I turned my back and left the scene.◯
 

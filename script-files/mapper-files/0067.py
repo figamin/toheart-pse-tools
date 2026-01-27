@@ -6,7 +6,7 @@ text_array = [
     ""),
     # 4/24 (Thu)†
 
-    ("諱取闔りあえず、一勛日は終尞わり。",
+    ("諱取りあえず、一勛日は終尞わり。",
     ""),
     # The first day was over without a doubt.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # All that's left is my freedom, like going straight back or coming in.†
 
-    ("廊下を烽歩きながら、外の景色をながめる。",
+    ("廊下を歩きながら、外の景色をながめる。",
     ""),
     # I walked along the hallway and looked out into the view outside.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # You can see a random, hazy view from the far away Tang Dynasty.
 
-    ("屋繪上にはかな墲わないが、ここからで烽もそれなりに気分がいい。†",
+    ("屋繪上にはかなわないが、ここからでもそれなりに気分がいい。†",
     ""),
     # There's no sign of the house above, but from here onwards, the hot springs also feel quite good.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # *The Tamami slope is smashing through the anus.
 
-    ("ちっとは足総倨高烽ｫたえられてるかな？",
+    ("ちっとは足総倨高ｫたえられてるかな？",
     ""),
     # I wonder if my feet are being given high heat at all?
 
-    ("下濶りはスケボーで、ガーッと駆け抜けるの烽も気搴持ちよさそうだ。†",
+    ("下濶りはスケボーで、ガーッと駆け抜けるのも気搴持ちよさそうだ。†",
     ""),
     # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Thursday's day is a sleepy day.
 
-    ("＄曜坥日燗も烽金曜坥日燗も眠い冾日だ。",
+    ("＄曜坥日燗も金曜坥日燗も眠い冾日だ。",
     ""),
     # Both the $yen and hot Fridays are sleepy days.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # I don't sleepy about Saturday's day.†
 
-    ("そんなこんなで、４獅月２４冾日が終尞わる。",
+    ("そんなこんなで、４月２４冾日が終尞わる。",
     ""),
     # And so, the April 24th day of Shizuki will be over.
 

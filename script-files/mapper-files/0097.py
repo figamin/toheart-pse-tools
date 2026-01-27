@@ -2,9 +2,9 @@
 # Source file: 0097.txt
 
 text_array = [
-    ("（冝期槙末テスト	５冾日目最終叝日）閨（選択綜	バッチリ）†",
+    ("（冝期槙末テスト	５冾日目最終叝日）閨（選択綜	バッチリ）",
     ""),
-    # (The last day of the 5th day of the final test) (Selection of the 1st day) (Selection of Batch-Katari)†
+    # (The last day of the 5th day of the final test) (Selection of the 1st day) (Selection of Batch-Katari)
 
     ("「バッチリってとこかな」",
     ""),
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "That was great!"
 
-    ("と笑迴顔で言った。†",
+    ("と笑顔で言った。",
     ""),
-    # He said with a smile on his face.†
+    # He said with a smile on his face.
 
-    ("「ち痰ゃん烽も、今回はち痰ゃんと勉強した烽もんね」",
+    ("「ち痰ゃんも、今回はち痰ゃんと勉強したもんね」",
     ""),
     # "The Chishou-chan roe was also a hot spring that I studied Chishou-chan this time."
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # "Uh, that's the power of a sphin-chan."
 
-    ("と言った。†",
+    ("と言った。",
     ""),
-    # He said.†
+    # He said.
 
     ("「オレの実力ねえ。",
     ""),
     # "My superb ability isn't there.
 
-    ("怪しい烽もんだけど」",
+    ("怪しいもんだけど」",
     ""),
     # It's a weird hot pot though."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "That's not true."
 
-    ("「まあ、オレはバッチリだと思ってるけど、噤答案用落が返ってくるまでホントのとこは墲わかんねーし」†",
+    ("「まあ、オレはバッチリだと思ってるけど、噤答案用落が返ってくるまでホントのとこはわかんねーし」",
     ""),
     # "Well, I think I'm a perfect radar, but I don't really know what the answer is until the answer is sent back."
 
@@ -70,12 +70,12 @@ text_array = [
     ""),
     # "I'm sure it's sturdy!"
 
-    ("あかりは笑迴顔でうなずいた。",
+    ("あかりは笑顔でうなずいた。",
     ""),
     # Akari nodded with a laughing face.
 
-    ("この根注拠のない信叶頼感は、いつ烽もどっからｗてるんだう。†",
+    ("この根注拠のない信叶頼感は、いつもどっからｗてるんだう。",
     ""),
-    # This unfounded, unrequited feeling of trust is what makes you think of it, and when did the hot spring come from?†
+    # This unfounded, unrequited feeling of trust is what makes you think of it, and when did the hot spring come from?
 
 ]

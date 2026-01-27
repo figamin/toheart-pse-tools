@@ -2,7 +2,7 @@
 # Source file: 08BF.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	学校外１）閨（選択綜	言ってみただけだ）†",
+    ("（レミィ	回秤数イベント	学校外１）閨（選択綜	言ってみただけだ）†",
     ""),
     # (The Remy Scales Event, Outside School 1) (I just tried to say it)†
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「『＃人だね』って意味で通じたんだ？	どういう意味の言葉なのか、戟レミィに聞いてみたかったんだよ」",
+    ("「『＃人だね』って意味で通じたんだ？	どういう意味の言葉なのか、レミィに聞いてみたかったんだよ」",
     ""),
     # "Did you understand the meaning of '#You're a person' b? I wanted to ask Karen Remie what the word meant."
 
-    ("「Ｎ盾ｏＮ盾ｏ！	他のｔしさ烽も目立たなくなるほどｔしい、って意味の言葉翼」",
+    ("「Ｎ盾ｏＮ盾ｏ！	他のｔしさも目立たなくなるほどｔしい、って意味の言葉翼」",
     ""),
     # "N shield oN shield o! The words wings mean that other t-like spirits are so t-like that they become less noticeable."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # You use good words too."
 
-    ("「いや、まあ…オレだって、こと墲わざや格言の一つや二つ、使うこと烽もあるぜ」",
+    ("「いや、まあ…オレだって、ことわざや格言の一つや二つ、使うこともあるぜ」",
     ""),
     # "It's tampering, well... I'm a bit of a slut, and there are also some tampering and two sayings, and I use them."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "That's right" †
 
-    ("「他に烽も聞いていいよ、」",
+    ("「他にも聞いていいよ、」",
     ""),
     # "You can also ask about other hot water."
 
-    ("「いや、今厓日は取闔りあえず、それだけだから」",
+    ("「いや、今厓日は取りあえず、それだけだから」",
     ""),
     # "It's a mess, I can't wait for the day right now, that's all."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Yes. See you later" †
 
-    ("…これで、志保の使った怪しげな言葉は本物だってことが墲わかった。",
+    ("…これで、志保の使った怪しげな言葉は本物だってことがわかった。",
     ""),
     # ...Now, it turns out that the suspicious words that Shiho used are real.
 

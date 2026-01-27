@@ -2,9 +2,9 @@
 # Source file: 0495.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階２）閨（選択綜	志保と）†",
+    ("（志保	回秤数イベント	１階２）閨（選択綜	志保と）",
     ""),
-    # (Shiho Scales Event, 1st floor 2) (Shosho Shiho)†
+    # (Shiho Scales Event, 1st floor 2) (Shosho Shiho)
 
     ("「あかり｢｢」",
     ""),
@@ -30,12 +30,12 @@ text_array = [
     ""),
     # "Sorry, Akari."
 
-    ("「ううん。いいの」†",
+    ("「ううん。いいの」",
     ""),
-    # "Uh, that's fine" †
+    # "Uh, that's fine" 
 
-    ("結局、オレは志保のつき№合いで商店街へ行くことになった。†",
+    ("結局、オレは志保のつき№合いで商店街へ行くことになった。",
     ""),
-    # In the end, I ended up going to the shopping district with Shiho's No.†
+    # In the end, I ended up going to the shopping district with Shiho's No.
 
 ]

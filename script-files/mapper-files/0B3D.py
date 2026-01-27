@@ -2,17 +2,17 @@
 # Source file: 0B3D.txt
 
 text_array = [
-    ("（綾∴香ＶＳあかり）閨（綾∴香	バトルポイント１５以繹上）閨（あかり	好感度	１５以繹上）閨（昼休み）閨（２Ｆ廊下）†",
+    ("（綾∴香ＶＳあかり）閨（綾∴香	バトルポイント１５以繹上）閨（あかり	好感度	１５以繹上）閨（昼休み）閨（２Ｆ廊下）",
     ""),
-    # (Aya∴Ka VS Akari) (Aya∴Ka, Battle Cry Point 15 or more) (Akari Likes 15 or more) (Lunch break) (2F corridor) †
+    # (Aya∴Ka VS Akari) (Aya∴Ka, Battle Cry Point 15 or more) (Akari Likes 15 or more) (Lunch break) (2F corridor) 
 
-    ("昼£メシを食い終えて、トイレで用を足してきた帰闍り。",
+    ("昼メシを食い終えて、トイレで用を足してきた帰闍り。",
     ""),
     # After finishing lunch, I went home to eat more at Toy Gekkei.
 
-    ("オレはぼんやり廊下を烽歩きながら、対綾∴香用の対策を考えていた。†",
+    ("オレはぼんやり廊下を歩きながら、対綾∴香用の対策を考えていた。",
     ""),
-    # As I sniffed, walking down the hallway, I was thinking about how to deal with Aya∴Ka.†
+    # As I sniffed, walking down the hallway, I was thinking about how to deal with Aya∴Ka.
 
     ("ううむ。",
     ""),
@@ -22,21 +22,21 @@ text_array = [
     ""),
     # How can you beat the guy who is tampering with Aya∴Kawa?
 
-    ("蛛大見得を切って勝縁負を挑んだのはいいが、さっぱり勝てる気がしない。†",
+    ("蛛大見得を切って勝縁負を挑んだのはいいが、さっぱり勝てる気がしない。",
     ""),
-    # It's fine to take on the victory and take on the victory match, but I don't feel like I can win at all.†
+    # It's fine to take on the victory and take on the victory match, but I don't feel like I can win at all.
 
-    ("一発又当てればいいだけの話だが、どうに烽もそれが思ったほど簡単じ痰ゃない。",
+    ("一発又当てればいいだけの話だが、どうにもそれが思ったほど簡単じ痰ゃない。",
     ""),
     # It's just a matter of hitting it again, but even if it's not as easy as it would have been like that, it's not as easy as it might have thought.
 
-    ("いかんせん実力に差がありすぎて、子沁供のようにあしら墲われてしまう。",
+    ("いかんせん実力に差がありすぎて、子沁供のようにあしらわれてしまう。",
     ""),
     # There is no difference in their ability, and they are treated like a child's sensibility.
 
-    ("さて、どうした烽ものか。†",
+    ("さて、どうしたものか。",
     ""),
-    # So, what's the hot thing?†
+    # So, what's the hot thing?
 
     ("「ち痰ゃん」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "What are you doing?"
 
-    ("「いや、べつに。ちょっと考えごとをな」†",
+    ("「いや、べつに。ちょっと考えごとをな」",
     ""),
     # "Not to be a silly thing. I'll have some thoughts."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Hey.
 
-    ("私、図草書室に行って本を借闔りようと思うんだけど、暇なら一処緒に行かない？」",
+    ("私、図草書室に行って本を借りようと思うんだけど、暇なら一処緒に行かない？」",
     ""),
     # I'm thinking of going to the cursive library and borrowing books, but if I'm bored, why not go and have a place?”
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # Wait, the cursive library?
 
-    ("ボクシングのテクに関する曹資料とかがあるか烽も知れねーな。†",
+    ("ボクシングのテクに関する曹資料とかがあるかも知れねーな。",
     ""),
-    # I don't know if there is any information about boxing techniques or anything like that.†
+    # I don't know if there is any information about boxing techniques or anything like that.
 
     ("「諱よし、つきあってやる、行こうぜ」",
     ""),
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("オレはあかりの肩を押した。†",
+    ("オレはあかりの肩を押した。",
     ""),
-    # I pushed Akari's shoulder.†
+    # I pushed Akari's shoulder.
 
-    ("そういう墲わけで、図草書室。",
+    ("そういうわけで、図草書室。",
     ""),
     # That's how it is, the Cursive Library.
 
-    ("おお、ある墲わ、ある墲わ、スポーツ系。",
+    ("おお、あるわ、あるわ、スポーツ系。",
     ""),
     # Oh, there's a certain amount, there's a certain amount, sports.
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # Martial arts include judo, koku-chan, and boxing.
 
-    ("あった、あった。†",
+    ("あった、あった。",
     ""),
-    # There was, there was.†
+    # There was, there was.
 
     ("閨手に取ってめくってみる。",
     ""),
@@ -118,21 +118,21 @@ text_array = [
     ""),
     # Oh, it's fine to have stiff phlegm.
 
-    ("借闔りとこう。†",
+    ("借りとこう。",
     ""),
-    # Let's borrow it.†
+    # Let's borrow it.
 
     ("「いい本あった？」",
     ""),
     # "Did you have a good book?"
 
-    ("「あった、あった。お前のおかげで、いい本見つかったぜ。さんき繧ゅ」",
+    ("「あった、あった。お前のおかげで、いい本見つかったぜ。さんきゅ」",
     ""),
     # "There it is, there it is. Thanks to you, I found a great book. Sanki-no."
 
-    ("「えっ」†",
+    ("「えっ」",
     ""),
-    # "What?" †
+    # "What?" 
 
     ("諱よーし。",
     ""),

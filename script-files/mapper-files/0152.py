@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「…浴風邪、うつるよ」",
+    ("「…風邪、うつるよ」",
     ""),
     # "...I'm going to get a bath cold."
 

@@ -2,9 +2,9 @@
 # Source file: 02C7.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ３？）閨（選択綜Ｃ	人生叶相談したりして）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ３？）閨（選択綜Ｃ	人生叶相談したりして）",
     ""),
-    # (Seri°Kawa, Scales Event 1F LV3?)Seri (Selective C, consult with us for life)†
+    # (Seri°Kawa, Scales Event 1F LV3?)Seri (Selective C, consult with us for life)
 
     ("いきなり人生叶相談したりして。",
     ""),
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "Hey, Senpai..."
 
-    ("オレは突然肩を獅落とし、暗い声で言った。†",
+    ("オレは突然肩を落とし、暗い声で言った。",
     ""),
-    # My gut suddenly dropped my shoulders and said in a dark voice.†
+    # My gut suddenly dropped my shoulders and said in a dark voice.
 
     ("「？」",
     ""),
     # "?"
 
-    ("「じつはオレ、いま悩んでることがあるんだ」†",
+    ("「じつはオレ、いま悩んでることがあるんだ」",
     ""),
     # "I'm actually really worried about something right now."
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "What, a problem? Ah, that's right. That's a problem."
 
-    ("オレは、うーん…と悩みを考えた。†",
+    ("オレは、うーん…と悩みを考えた。",
     ""),
-    # I thought about my worries, hmm...†
+    # I thought about my worries, hmm...
 
     ("「家薗の魔事諶情なんだけど…」",
     ""),
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "I'm actually a bit of a hard time, and I'm currently in a lonely, lonely, self-schooling house. My parents have barely returned to me because they're doing tuna, and I spend my time alone in a house where I'm spending my time eating a loveless convenience store bento."
 
-    ("オレは深くため息をつく。†",
+    ("オレは深くため息をつく。",
     ""),
-    # I sighed deeply.†
+    # I sighed deeply.
 
-    ("「で烽も仕緖方ないことだよな。親ヰ父たちはオレのために一生恊懸命働いてくれてんだ。で烽も、やっぱり、なんていうか…」",
+    ("「でも仕緖方ないことだよな。親ヰ父たちはオレのために一生恊懸命働いてくれてんだ。でも、やっぱり、なんていうか…」",
     ""),
     # "And that's why there's no way to control the situation. My father and I have been working hard for me to do our best. And I guess so, I guess so..."
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "I'm lonely!"
 
-    ("オレは先輩のヒザに顔をうずめた。†",
+    ("オレは先輩のヒザに顔をうずめた。",
     ""),
-    # My geisha burrowed my face into my senior's knees.†
+    # My geisha burrowed my face into my senior's knees.
 
     ("「………」",
     "…"),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # He gently stroked my head.
 
-    ("「…せ、諱先輩」†",
+    ("「…せ、諱先輩」",
     ""),
-    # "...She, Senpai" †
+    # "...She, Senpai" 
 
     ("なでなで。",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "Would you please comfort me?"
 
-    ("こくん…。†",
+    ("こくん…。",
     ""),
-    # Ko-kun...†
+    # Ko-kun...
 
     ("「…ううっ、ありがとな。",
     ""),
@@ -114,15 +114,15 @@ text_array = [
     ""),
     # Seniors are really kind.Ughhh..."
 
-    ("なでなで。†",
+    ("なでなで。",
     ""),
-    # Stroke.†
+    # Stroke.
 
     ("ああ〜。",
     ""),
     # ah~.
 
-    ("諱先輩になでられると、不思議と獅落ちｒいた気分になる。",
+    ("諱先輩になでられると、不思議と落ちｒいた気分になる。",
     ""),
     # When I was stroked by my senior, I strangely felt like I was falling for a lion.
 

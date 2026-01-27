@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Shiho Scales Event PS)
 
-    ("（選択綜	コ＜メディ焜もの）",
+    ("（選択綜	コ＜メディもの）",
     ""),
     # (Choice Comment <Mediate)
 
-    ("「コ＜メディ焜ものなんかいいんじ痰ゃねえか」",
+    ("「コ＜メディものなんかいいんじ痰ゃねえか」",
     ""),
     # "Comedy-like stuff is fine, isn't it phlegm?"
 
-    ("腹がよじれそうなギャャグのひとつで烽もあれば、幸せな気分になれるからな。†",
+    ("腹がよじれそうなギャャグのひとつでもあれば、幸せな気分になれるからな。†",
     ""),
     # One of the gyagus that makes your stomach feel shaky and if you have some hot water, you'll feel happy.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What, did you not know?"
 
-    ("「あんたっていつ烽もだるそうにしてるからね。そー艨ゆー刺ヮに飢えてるんだ墲わ」",
+    ("「あんたっていつもだるそうにしてるからね。そー艨ゆー刺ヮに飢えてるんだわ」",
     ""),
     # "You're always looking lame for the Hot. You're so hungry for the snake."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "That was bad" †
 
-    ("「で烽もさぁ、最近コ＜メディの新錐ってｗてた？",
+    ("「でもさぁ、最近コ＜メディの新錐ってｗてた？",
     ""),
     # "And now, have you heard of a new comedy comedy recently?
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # "We haven't tampered with commercials, it's probably not windy b."
 
-    ("「どうする？	なんで烽もいいから見骭る？」†",
+    ("「どうする？	なんでもいいから見骭る？」†",
     ""),
     # "What do you do? Why do you watch the hot springs, too?"†
 
-    ("「それは勘弁してくれ。見たく烽もない映謇画にカネ払うほど裕泓福じ痰ゃねえしな」",
+    ("「それは勘弁してくれ。見たくもない映謇画にカネ払うほど裕泓福じ痰ゃねえしな」",
     ""),
     # "Please forgive me. You're so lucky that you're so wealthy that you'll pay for a film that you don't want to see."
 
-    ("「あっそれ、あたし烽も〜」†",
+    ("「あっそれ、あたしも〜」†",
     ""),
     # "Ah, that's it, I'm also hot" †
 

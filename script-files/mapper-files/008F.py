@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Masashi, is that right?
 
-    ("ちょうど、そこを通闥りかかったｉ史に汲視諮を飛ばし、志保が聞いた。†",
+    ("ちょうど、そこを通闥りかかった史に視諮を飛ばし、志保が聞いた。†",
     ""),
     # Shiho asked, "The I-Story," which had been sent through the discussion, and he asked.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # The answer is, "Additional Reversal."
 
-    ("当然のようにｉ史が言う。",
+    ("当然のように史が言う。",
     ""),
     # I-Shin says it, of course.
 
-    ("やべっ、オレの嘯答え、間瘧違ってら。†",
+    ("やべっ、オレの嘯答え、間違ってら。†",
     ""),
     # I'm not sure what a surprise answer is, my slutty answer is wrong.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Kuuu..."
 
-    ("オレはｉ史をにらみつけた。",
+    ("オレは史をにらみつけた。",
     ""),
     # I glared at I-Hisashi.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "What, did you say something bad?"
 
-    ("ちょっと繧後撃に退きながら、♂史が言った。†",
+    ("ちょっと後撃に退きながら、雅史が言った。†",
     ""),
     # Masumi said as she retreated to the attack after the attack.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "That's right..." †
 
-    ("「で烽も、〟仲間ね」",
+    ("「でも、〟仲間ね」",
     ""),
     # "And Hoo too," he's friends."
 

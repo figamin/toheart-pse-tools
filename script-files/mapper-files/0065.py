@@ -2,17 +2,17 @@
 # Source file: 0065.txt
 
 text_array = [
-    ("４／２２（火）†",
+    ("４／２２（火）",
     ""),
-    # 4/22 (Tue)†
+    # 4/22 (Tue)
 
     ("ああ、終尞わった、終尞わった。",
     ""),
     # Ah, it's over, it's over.
 
-    ("首を倒すとコキッと鳴った。†",
+    ("首を倒すとコキッと鳴った。",
     ""),
-    # He knocked his head down and squealed.†
+    # He knocked his head down and squealed.
 
     ("同じ２階の廊下をぐるっと回ってくると、文化系のクラブハウスがある。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # It's just tampering, but that's all.
 
-    ("べつに誰と出初うこと烽もなかった。†",
+    ("べつに誰と出初うこともなかった。",
     ""),
-    # I never had any chance to come out with anyone.†
+    # I never had any chance to come out with anyone.
 
     ("「くん、ばいばーい」",
     ""),
@@ -34,17 +34,17 @@ text_array = [
     ""),
     # "Ou"
 
-    ("クラスの翌女子が手を振って、玄関から出ていった。†",
+    ("クラスの翌女子が手を振って、玄関から出ていった。",
     ""),
-    # The girl waved her hand out of the entrance after the banquet.†
+    # The girl waved her hand out of the entrance after the banquet.
 
-    ("もし誰かに出初ったらいっしょに帰汲うかと思ったが、誰熬もいないみてーだな。",
+    ("もし誰かに出初ったらいっしょに帰うかと思ったが、誰熬もいないみてーだな。",
     ""),
     # I thought if I had first appeared with someone, I would return to the Ebi, but I'd see no one there.
 
-    ("し痰ゃーない、ひとりで帰汲う。†",
+    ("し痰ゃーない、ひとりで帰う。",
     ""),
-    # There's no phlegm, I'll come back on my own.†
+    # There's no phlegm, I'll come back on my own.
 
     ("「………」",
     "…"),
@@ -58,17 +58,17 @@ text_array = [
     ""),
     # My eyes can't sleep.
 
-    ("しょうがない、羊で烽も数えるか。†",
+    ("しょうがない、羊でも数えるか。",
     ""),
-    # There are no sluts, so should we count the hot springs with sheep?†
+    # There are no sluts, so should we count the hot springs with sheep?
 
     ("マトンが１匹…。",
     ""),
     # There's one mutton...
 
-    ("マトンが２匹…。†",
+    ("マトンが２匹…。",
     ""),
-    # Two muttons...†
+    # Two muttons...
 
     ("マトンは肉か。",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # Huh, what is it?
 
-    ("えっと…。†",
+    ("えっと…。",
     ""),
-    # Umm...†
+    # Umm...
 
     ("やばっ、ど忘齧れした。",
     ""),

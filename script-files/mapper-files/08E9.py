@@ -2,19 +2,19 @@
 # Source file: 08E9.txt
 
 text_array = [
-    ("（戟レミィと志保と勉強	３／１５）閨（選択綜	そうだ、戟レミィ。英皷語を教えてくれ）†",
+    ("（レミィと志保と勉強	３／１５）閨（選択綜	そうだ、レミィ。英皷語を教えてくれ）",
     ""),
-    # (Ge Remie, Shiho and Study 3/15) (Choose-so, That's right, Gae Remie. Please teach me English language)†
+    # (Ge Remie, Shiho and Study 3/15) (Choose-so, That's right, Gae Remie. Please teach me English language)
 
-    ("「そうだ、戟レミィ。英皷語を教えてくれ」",
+    ("「そうだ、レミィ。英皷語を教えてくれ」",
     ""),
     # "Yeah, ye remi. Please teach me English language."
 
-    ("「あ、あたし烽もあたし烽もーっ」",
+    ("「あ、あたしもあたしもーっ」",
     ""),
     # "Oh, me, me, me, me, me."
 
-    ("「Ｅ獅ｎ№ｇ撃ｌ奄ｉ入？」",
+    ("「Ｅｎ№ｇ撃ｌ奄入？」",
     ""),
     # "E Lion attack lion Amai Tang Enrich B?"
 
@@ -26,23 +26,23 @@ text_array = [
     ""),
     # Is it okay to go to Remy's to study?”
 
-    ("「あたし烽もあたし烽もーっ」",
+    ("「あたしもあたしもーっ」",
     ""),
     # "I'm hot and me hot and me hot too."
 
-    ("「なんでおめーもｗ磯翌鴦ｾよ」†",
+    ("「なんでおめーもｗ磯翌鴦ｾよ」",
     ""),
-    # "Why don't you think so lol Isozumai B-se" †
+    # "Why don't you think so lol Isozumai B-se" 
 
     ("「あんたこそ、ひとりで頑張髓るってあかりにカッコつけたくせに何言ってんのよ」",
     ""),
     # "You're the only one who wants to look cool in Akari that you'll do your best on your own, but what are you saying?"
 
-    ("「てめぇ、なんで烽もあかりから聞き出すな」",
+    ("「てめぇ、なんでもあかりから聞き出すな」",
     ""),
     # "Hey, why don't you even get the hot one from Akari?"
 
-    ("「知迺らない墲わよ。あかりが言ったんだから」",
+    ("「知迺らないわよ。あかりが言ったんだから」",
     ""),
     # "It's a unaware thing. Akari said that."
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "S≠ay, I want to go to my house."
 
-    ("妙に冾期待した表﨣情で撃レミィが言う。†",
+    ("妙に冾期待した表﨣情で撃レミィが言う。",
     ""),
-    # Geki Remi says in a strangely anticipated table.†
+    # Geki Remi says in a strangely anticipated table.
 
     ("「オレんち？」",
     ""),
@@ -70,15 +70,15 @@ text_array = [
     ""),
     # I'm studying at the school.
 
-    ("「こら、氈勝闖手にｌめんな。…けど、なんか悪いだ？	教寀わるのはこっちなのに、わざ墲わざ家にｗて烽もらうなんて」†",
+    ("「こら、氈勝闖手にｌめんな。…けど、なんか悪いだ？	教寀わるのはこっちなのに、わざわざ家にｗてもらうなんて」",
     ""),
     # "Hey, I'm not going to get into it... But is it a bit of a problem? I'm going to teach you, but I'm going to have to go to the house and get some hot water."
 
-    ("「そんなことないｃ。アタシ、から教えて烽もらうモン」",
+    ("「そんなことないｃ。アタシ、から教えてもらうモン」",
     ""),
     # "Not that's the case. I'll tell you and get some hot b."
 
-    ("「教えて烽もらうって、化学と現社を？」",
+    ("「教えてもらうって、化学と現社を？」",
     ""),
     # "Tell me and get some hot water, chemistry and the current company?"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Yb Tangari"
 
-    ("教えられるほどオレ焜も詳しくねーぞ？",
+    ("教えられるほどオレも詳しくねーぞ？",
     ""),
     # I'm not as knowledgeable about my super-reality as I can teach you, right?
 
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # Go for study at the slut!”
 
-    ("「こら、′めるなっつーの」†",
+    ("「こら、′めるなっつーの」",
     ""),
-    # "Here it's Merunattsu'"†
+    # "Here it's Merunattsu'"
 
     ("結局、成關り行きで勉強級をすることになってしまった。",
     ""),

@@ -2,11 +2,11 @@
 # Source file: 02AC.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（選択綜	う墲わあっ、オレは大ばか者だあっ！）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（選択綜	うわあっ、オレは大ばか者だあっ！）†",
     ""),
     # (Seri°Chuang, 2nd floor, LV5)Seri (Select Sou Wow, I'm a huge idiot!)†
 
-    ("「う墲わあっ、オレは大ばか者だあっ！」",
+    ("「うわあっ、オレは大ばか者だあっ！」",
     ""),
     # "Um, I'm a huge idiot!"
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # What a stupid guy, he's a b-ish guy!†
 
-    ("「こんなとこにひとり、諱先輩を置き獅去闍りにするなんて、オレは大ばか者だああぁぁっ！	諱先輩、こんなオレを殴ってくれー！」",
+    ("「こんなとこにひとり、諱先輩を置き去闍りにするなんて、オレは大ばか者だああぁぁっ！	諱先輩、こんなオレを殴ってくれー！」",
     ""),
     # "To leave a senpai-senpai alone in this place and leave me alone, I'm a huge idiot! Senpai-senpai, please hit me like this!"
 
@@ -42,7 +42,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	それより烽も、おｉいできて嬉しいですって？	うっ、ううっ。せんぱーいっ、ごめんよぉーっ！！！」",
+    ("「えっ？	それよりも、おいできて嬉しいですって？	うっ、ううっ。せんぱーいっ、ごめんよぉーっ！！！」",
     ""),
     # "Huh? What's more, you're happy to have you, Hoo? Uh, uhh. Senpai, I'm sorry!!!"
 

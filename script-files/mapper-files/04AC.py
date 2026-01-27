@@ -22,7 +22,7 @@ text_array = [
     ""),
     # You're at the top of the school year all at once?”†
 
-    ("「そっちこそ、お馬鹿ね。世のｒそんなに甘くない墲わ」",
+    ("「そっちこそ、お馬鹿ね。世のｒそんなに甘くないわ」",
     ""),
     # "That's the one who's stupid. It's not that sweet in the world."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Oh well... I think I can get 5 or 60 points" †
 
-    ("「や、やる墲わね…」",
+    ("「や、やるわね…」",
     ""),
     # "You're going to do it, you're going to do it..."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Well" †
 
-    ("その冾日の学校帰闍りは、テストの傾血と対策の話陂題で盛關り繧上がった。†",
+    ("その冾日の学校帰闍りは、テストの傾血と対策の話陂題で盛關り上がった。†",
     ""),
     # The school trip to school was a major hit with the topic of inclination and preparation for the test.†
 

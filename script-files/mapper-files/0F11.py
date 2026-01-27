@@ -2,11 +2,11 @@
 # Source file: 0F11.txt
 
 text_array = [
-    ("（ゲーセンバトル２）閨（卒業式篇）閨（選択綜	♂史）†",
+    ("（ゲーセンバトル２）閨（卒業式篇）閨（選択綜	雅史）",
     ""),
-    # (Arcade Battle Cry 2) (Graduation Ceremony Edition) (Choice Sou♂ History)†
+    # (Arcade Battle Cry 2) (Graduation Ceremony Edition) (Choice Sou雅 History)
 
-    ("「♂史、やうぜ」",
+    ("「雅史、やうぜ」",
     ""),
     # "Masturbation, yeah, b"
 
@@ -18,17 +18,17 @@ text_array = [
     ""),
     # "You don't have to worry about winning or losing Amano."
 
-    ("「あら、堰負けたらрヤックでしょ？」†",
+    ("「あら、堰負けたらрヤックでしょ？」",
     ""),
     # "Oh, if you lose the dam, you'll have to go to yach?"
 
-    ("「♂史に勝って、пヤックおごって烽もらって烽も寝覚めが悪いだけだし、いらねー諱よ」",
+    ("「雅史に勝って、пヤックおごってもらっても寝覚めが悪いだけだし、いらねー諱よ」",
     ""),
     # "You beat Masochi, you're paying for a hot spring, and you're just not waking up, so I don't need it."
 
-    ("「なによそれ〜っ！	あたしだったらｊんでふんだくるくせに〜っ！」†",
+    ("「なによそれ〜っ！	あたしだったらｊんでふんだくるくせに〜っ！」",
     ""),
-    # "What is that?! If it were me, I'd be a lot of j!" †
+    # "What is that?! If it were me, I'd be a lot of j!" 
 
     ("「たりめーだ、お前からふんだくらねーで誰からふんだくんだ」",
     ""),
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # In a strange tone of Fuku, Shiho began to say a sung verse.
 
-    ("か墲わいそうだが、ときどき壊皷れるんだよな、こいつ。†",
+    ("かわいそうだが、ときどき壊皷れるんだよな、こいつ。",
     ""),
-    # I feel sorry for you, but this guy gets ruined from time to time.†
+    # I feel sorry for you, but this guy gets ruined from time to time.
 
-    ("「んじ痰ゃ、やうぜ、♂史」",
+    ("「んじ痰ゃ、やうぜ、雅史」",
     ""),
     # "A phlegm, a phlegm, a b, a history of the male."
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "...Now, come on?"
 
-    ("オレがにらんだので、あかりは無俣な回嚔答をする。†",
+    ("オレがにらんだので、あかりは無俣な回嚔答をする。",
     ""),
-    # I stared at him, so Akari gave a boring replies.†
+    # I stared at him, so Akari gave a boring replies.
 
-    ("「いい墲わよ、そっちが男同士ならあたしたちは翌女の子同士、′こうで遊びましょ」",
+    ("「いいわよ、そっちが男同士ならあたしたちは翌女の子同士、′こうで遊びましょ」",
     ""),
     # "It's a great girl, if they're both guys, we'll play together the next girl, let's play together."
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "...Uh, yes. I'm phlegm."
 
-    ("あかりはぎこちなく手を振關り、志保とと烽もに烽歩いていく。†",
+    ("あかりはぎこちなく手を振關り、志保とともに歩いていく。",
     ""),
-    # Akari waved awkwardly, and Shiho and Kana roamed along.†
+    # Akari waved awkwardly, and Shiho and Kana roamed along.
 
     ("「そっちだって翌女同士べたべたしやがって。オレたちがホｃモだちなら、あいつらは｢｢」",
     ""),
     # "Even that's the next woman, it's sticky and tampering with each other. If we're all crazy, they'll be like "
 
-    ("「戟レズだち？」",
+    ("「レズだち？」",
     ""),
     # "Are you a lesbian?"
 
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Don't say it with a serious look on your face."
 
-    ("「あっ…」†",
+    ("「あっ…」",
     ""),
-    # "Ah..." †
+    # "Ah..." 
 
     ("さて、それじ痰ゃ、ゲームを始めますか。",
     ""),
@@ -138,10 +138,6 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
-    ""),
-    # ・†
-
     ("・",
     ""),
     # ・
@@ -158,8 +154,12 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
 ]

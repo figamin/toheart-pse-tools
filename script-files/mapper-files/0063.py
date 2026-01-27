@@ -6,7 +6,7 @@ text_array = [
     ""),
     # 4/20 (Step Day)†
 
-    ("４獅月２０冾日が終尞わる。",
+    ("４月２０冾日が終尞わる。",
     ""),
     # The 20th day of the 4th month of Shizuki is over.
 

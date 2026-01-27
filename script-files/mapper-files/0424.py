@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Is that disease so popular?"
 
-    ("「昔ア＜メリカで流行ったらしい墲わ」",
+    ("「昔ア＜メリカで流行ったらしいわ」",
     ""),
     # "It seems to have been popular in America in the past."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "A long time ago!? Americana!? ...You know, phlegm has nothing to do with us, phlegm?"
 
-    ("「たしかに、あまり関係ない墲わね」",
+    ("「たしかに、あまり関係ないわね」",
     ""),
     # "It certainly doesn't matter."
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "Idiot! I'm scared of that, I have no idea what you're saying."†
 
-    ("結局、ブドウル菌自体にはｊ険はなくて、その能力をｊ険な菌が獲得してしまうことが恐汲しいのだそうだ。",
+    ("結局、ブドウル菌自体にはｊ険はなくて、その能力をｊ険な菌が獲得してしまうことが恐しいのだそうだ。",
     ""),
     # In the end, the staphylococcus bacteria themselves do not have any J-stimulus, and it is apparently scary that J-stimulus bacteria will acquire this ability.
 
-    ("志保の怖がっているブドウル菌煖も、外相国の話で、冝日本で確認されていないらしい。",
+    ("志保の怖がっているブドウル菌も、外相国の話で、冝日本で確認されていないらしい。",
     ""),
     # Shiho's fear of staphylococcus fertilizers, also known as the foreign minister's government, have not been confirmed in Japan.
 

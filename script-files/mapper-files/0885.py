@@ -2,27 +2,27 @@
 # Source file: 0885.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階１	選択綜Ｃ）†",
+    ("（レミィ	回秤数イベント	２階１	選択綜Ｃ）",
     ""),
-    # (Game Remy Scales Event 2nd Floor 1 Selection C)†
+    # (Game Remy Scales Event 2nd Floor 1 Selection C)
 
-    ("子沁供って言って烽も、ピンからキリまであるよな。",
+    ("子沁供って言っても、ピンからキリまであるよな。",
     ""),
     # It's said that he's getting a little bit of a baby, and even the other way around, it's all over the place.
 
-    ("「好きで烽も凾嫌いで烽も…両菶方だな」",
+    ("「好きでも凾嫌いでも…両菶方だな」",
     ""),
     # "I like it, I hate it, I hate it, and I also like it... it's the rudder."
 
-    ("世のｒ、諱よい子燻も悪い子燻もいるから、どちらかにはｌめられない。†",
+    ("世のｒ、諱よい子燻も悪い子燻もいるから、どちらかにはｌめられない。",
     ""),
-    # There are also people in the world who smoke good and bad, so you can't get one to either of them.†
+    # There are also people in the world who smoke good and bad, so you can't get one to either of them.
 
     ("「両菶方はダ＜メ」",
     ""),
     # "Ryo-sou is the one that's dam"
 
-    ("「そんなこと言甯われて烽もなぁ…」",
+    ("「そんなこと言甯われてもなぁ…」",
     ""),
     # "I'm not hoping to hear that kind of thing happen..."
 
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Do you like it? Do you hate it?"
 
-    ("戟レミィが急かす。†",
+    ("レミィが急かす。",
     ""),
-    # Karemi rushes.†
+    # Karemi rushes.
 
     ("…諱よし、はっきりｌめよう。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # I heard that.
 
-    ("「う〜ん…」†",
+    ("「う〜ん…」",
     ""),
-    # "Yeah…"†
+    # "Yeah…"
 
     ("どちらかにｌめないと、この場は乗闖り切齔れないらしい…。",
     ""),

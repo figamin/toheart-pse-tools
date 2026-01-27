@@ -2,9 +2,9 @@
 # Source file: 0485.txt
 
 text_array = [
-    ("（志保	回秤数イベント	２階１）閨（選択綜	だからどーした）†",
+    ("（志保	回秤数イベント	２階１）閨（選択綜	だからどーした）",
     ""),
-    # (Shiho Scales Event, 2nd floor 1) (What did you do with Choice?)†
+    # (Shiho Scales Event, 2nd floor 1) (What did you do with Choice?)
 
     ("「だからどーした？」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "That's amazing.
 
-    ("レミィはア＜メリカ人だぜ？	英皷語で１００点謫取って烽もおかしくねえだ」†",
+    ("レミィはア＜メリカ人だぜ？	英皷語で１００点謫取ってもおかしくねえだ」",
     ""),
     # Remy is American, right?I'm not odd either by taking 100 points in English language."
 
@@ -38,37 +38,37 @@ text_array = [
     ""),
     # "What do you mean, I want to say that Japanese English language is easy?
 
-    ("わけ？」†",
+    ("わけ？」",
     ""),
-    # Why?”†
+    # Why?”
 
-    ("「そうだよ。知迺らねえの？	戟レミィはいつ烽も英皷語の成績は抜群だぜ？」",
+    ("「そうだよ。知迺らねえの？	レミィはいつも英皷語の成績は抜群だぜ？」",
     ""),
     # "That's right. You don't know? When is Ji Remie's achievements in English language, isn't he?"
 
-    ("「し、知ってる墲わよ。で烽も今回はパーフェクトなんだからね！」",
+    ("「し、知ってるわよ。でも今回はパーフェクトなんだからね！」",
     ""),
     # "I know you, I know. And Ho is perfect this time too!"
 
-    ("知っているр割には、動揺した感じで志保が言う。†",
+    ("知っているр割には、動揺した感じで志保が言う。",
     ""),
-    # Despite knowing it, Shiho says with an upset feeling.†
+    # Despite knowing it, Shiho says with an upset feeling.
 
     ("「いいや。オレはいつかやるだうって思ってたぜぇ」",
     ""),
     # "It's a good idea. I thought I'd do it someday."
 
-    ("オレは墲わざと意地悪く言った。",
+    ("オレはわざと意地悪く言った。",
     ""),
     # I deliberately said it mean.
 
-    ("「ムカつく墲わね〜っ。あたしより詳しいなんて！」",
+    ("「ムカつくわね〜っ。あたしより詳しいなんて！」",
     ""),
     # "You're so annoying. You know more than me!"
 
-    ("志保はついに本音を出した。†",
+    ("志保はついに本音を出した。",
     ""),
-    # Shiho finally made his true feelings.†
+    # Shiho finally made his true feelings.
 
     ("要するに、自分の薰情報で驚かないオレに腹が立つらしい。",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "It's so damn annoying!"
 
-    ("「へっへーだ！」†",
+    ("「へっへーだ！」",
     ""),
     # "Hehe!"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Look at the next one!"
 
-    ("彼濫女はいつ烽もの捨てぜりふを残し、不機刹嫌な足鞫取闔りで帰っていった。",
+    ("彼女はいつもの捨てぜりふを残し、不機刹嫌な足鞫取りで帰っていった。",
     ""),
     # When the woman left behind something hot and left her with a momentary, unfortunate look on her feet.
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "Zamaii b!"
 
-    ("とか言ってると、う墲わさの張本人がやってきた。†",
+    ("とか言ってると、うわさの張本人がやってきた。",
     ""),
-    # As I said that, the person who was involved in the Umawasa started tampering with me.†
+    # As I said that, the person who was involved in the Umawasa started tampering with me.
 
-    ("「なあ、戟レミィ」",
+    ("「なあ、レミィ」",
     ""),
     # "Hey, huh Remie."
 
@@ -114,15 +114,15 @@ text_array = [
     ""),
     # "You're English-Japanese and Gubanquet Lamar, 100 points."
 
-    ("「Ａ窒ｒ	凵ｙ盾ｏ浮ｕ	入窒ｒ奄ｉ盾ｏ浮ｕ入？	轣冗談でしょ？」",
+    ("「Ａ窒ｒ	凵ｙ盾ｏ浮ｕ	入窒ｒ奄盾ｏ浮ｕ入？	轣冗談でしょ？」",
     ""),
     # "A nitrogen shield o floats into the b nitrogen shield o floats into the b nitrogen shield o floats into the bang? Is it a joke, slut?"
 
-    ("戟レミィは小首をかしげた。",
+    ("レミィは小首をかしげた。",
     ""),
     # Karemy managed to shake her head.
 
-    ("「なんでだよ？」†",
+    ("「なんでだよ？」",
     ""),
     # "Why?"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("どうやら、またして烽も志保ち痰ゃん薰情報はガセ辜らしい。",
+    ("どうやら、またしても志保ち痰ゃん薰情報はガセ辜らしい。",
     ""),
     # It seems that the information is fake, and that the tampering of the matter is also fake.
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # ...That's a hoax girl.
 
-    ("「、アタシ、１００点なの？」†",
+    ("「、アタシ、１００点なの？」",
     ""),
     # "Is it 100 points?"
 
-    ("「わりぃ。それはこっちの勘瘧違いだった」",
+    ("「わりぃ。それはこっちの勘違いだった」",
     ""),
     # "She's not good. That was a different hunch."
 

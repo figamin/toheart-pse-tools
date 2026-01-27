@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Yes, see you later."
 
-    ("笑迴顔のマルチに手を振って、オレはその場を繧後にした。◯",
+    ("笑顔のマルチに手を振って、オレはその場を後にした。◯",
     ""),
     # I waved at the slut-looking murmurchi's face, and I left the scene.◯
 

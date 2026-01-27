@@ -2,7 +2,7 @@
 # Source file: 0383.txt
 
 text_array = [
-    ("（智子	回秤数イベント３	学校を出髀る	ＬＶ１）閨（３獅月）閨（下駄箱）†",
+    ("（智子	回秤数イベント３	学校を出髀る	ＬＶ１）閨（３月）閨（下駄箱）†",
     ""),
     # (Tomoko's Scales Event 3: Leave school LV1) (3 Shizuki) (Shoe cabinet) †
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "?"
 
-    ("振關り返髟るとｉ史だった。†",
+    ("振關り返髟ると史だった。†",
     ""),
     # When I looked back, it was an i-historic story.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "oh dear"
 
-    ("「じ痰ゃあ、いっしょに帰汲うよ」",
+    ("「じ痰ゃあ、いっしょに帰うよ」",
     ""),
     # "Ah, I'll return to the slut."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "It's fine, but are you a good club?"
 
-    ("「一度ウェアを取闔りに家に帰汲うと思って」",
+    ("「一度ウェアを取りに家に帰うと思って」",
     ""),
     # "I thought I'd come home after getting my clothes."
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "Wait a moment."
 
-    ("♂史はそう言うと、下駄箱からシャーズを取闔り出し、足を入齠れた。",
+    ("雅史はそう言うと、下駄箱からシャーズを取り出し、足を入齠れた。",
     ""),
     # When Masochi said that, he pulled out the shawz from the shoe cabinet and put his foot in.
 
-    ("いかに烽も嘯履くのがうざったそうな長いひ烽ものシャーズだ。†",
+    ("いかにも嘯履くのがうざったそうな長いひものシャーズだ。†",
     ""),
     # It's a long, long, hot spring shrub that looks annoying to wear, even if it's hot.†
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # "It's a hassle to wear these."
 
-    ("「だったら烽もっと簡単なやつにしよ。脱ぎ嘯履きの多い冾日本人酔きじ痰ゃねーだーが」",
+    ("「だったらもっと簡単なやつにしよ。脱ぎ嘯履きの多い冾日本人酔きじ痰ゃねーだーが」",
     ""),
     # "Then, I'll make it a simpler tamper. I'll take off my clothes and get drunk, and I'm not going to have to worry about the Japanese people being drunk."
 
-    ("「はは、か烽もね」",
+    ("「はは、かもね」",
     ""),
     # "Haha, or even Hot."
 
-    ("♂史は、ほどけた靴ひ烽もを汲結び直しながら笑った。",
+    ("雅史は、ほどけた靴ひもを結び直しながら笑った。",
     ""),
     # Masochi laughed as he reconnected his untied shoelaces.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Waiting outside for a few seconds.
 
-    ("短い桙時間だが汲結構長く感じる。",
+    ("短い桙時間だが結構長く感じる。",
     ""),
     # It's a short time, but it feels quite long.
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # Ah, it's kind of a feast and a banquet.†
 
-    ("諱ようやく靴ひ烽もを汲結び終えたのか、♂史は立ち繧上がった。",
+    ("諱ようやく靴ひもを結び終えたのか、雅史は立ち上がった。",
     ""),
     # Perhaps he had finished stolen his shoes and stomping, Masochist has come to light.
 
-    ("こっちに烽歩いてくる。",
+    ("こっちに歩いてくる。",
     ""),
     # I'm walking over here.
 

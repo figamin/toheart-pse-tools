@@ -2,9 +2,9 @@
 # Source file: 0A15.txt
 
 text_array = [
-    ("（Ａ’	バイトか？）†",
+    ("（Ａ’	バイトか？）",
     ""),
-    # (A' part-time job?)†
+    # (A' part-time job?)
 
     ("「またバイトか？」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Daddy is tough. I'm in a hurry b? That's bad, stop me."
 
-    ("「あ、いいの。まだちょっと余裕あるから」†",
+    ("「あ、いいの。まだちょっと余裕あるから」",
     ""),
     # "Ah, that's fine. I still have some time."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "What kind of part-time job?"
 
-    ("「今厓日はティッシャ配阡り。ほんとはお汲昼からの仕鮪事なんだけど、事諶情を話したら、冝放課繪後からにしてくれたの」",
+    ("「今厓日はティッシャ配阡り。ほんとはお昼からの仕鮪事なんだけど、事諶情を話したら、冝放課繪後からにしてくれたの」",
     ""),
     # "They're giving away the tuna on the day. They actually have to be done during lunchtime, but when I told them about the refined aspects, they gave me the opportunity to do it after the school was in charge."
 
-    ("「事諶情って？」†",
+    ("「事諶情って？」",
     ""),
     # "What is polished relationship?"
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # It looks like it's hiding something.
 
-    ("まあ、わざ墲わざつっこむこと烽もないが。†",
+    ("まあ、わざわざつっこむこともないが。",
     ""),
-    # Well, there's no need to worry about trying to do anything.†
+    # Well, there's no need to worry about trying to do anything.
 
     ("「そっか。じ痰ゃ頑張ってティッシャ配齡れよ」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "Yeah, I'll do my best to give it a go!"
 
-    ("妙なｉ話だ。†",
+    ("妙な話だ。",
     ""),
-    # It's a strange story.†
+    # It's a strange story.
 
     ("「そ、それじ痰ゃ、ごめん。また今度ねっ！」",
     ""),

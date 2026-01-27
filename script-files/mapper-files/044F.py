@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Easy and easy"
 
-    ("「やる墲わね…」†",
+    ("「やるわね…」†",
     ""),
     # "You're going to do it..."
 

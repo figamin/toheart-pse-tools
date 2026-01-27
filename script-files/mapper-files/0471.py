@@ -10,15 +10,15 @@ text_array = [
     ""),
     # "It's Kaganru Weirla b?"
 
-    ("「そうそう、冝日曜坥日に家族で｢｢ってなんで人生、轣守闔りに入ってんのよ！」",
+    ("「そうそう、冝日曜坥日に家族で｢｢ってなんで人生、轣守りに入ってんのよ！」",
     ""),
     # "That's right, on Sunday, the family was saying, "Why are you living in the air?"
 
-    ("「…カルー堰ラに乗髀ると、人生逅守闔りなのか？」",
+    ("「…カルー堰ラに乗髀ると、人生逅守りなのか？」",
     ""),
     # "...When I ride the Kakuruuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
-    ("それくらいの人なら烽もっと高い車搦持ってるだ。†",
+    ("それくらいの人ならもっと高い車搦持ってるだ。†",
     ""),
     # Those who are that kind of person would have a higher car buying experience.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Who are you apologizing to?"
 
-    ("「カルー堰ラロってる人。で烽も、あたしはそう思ってんのよ！」†",
+    ("「カルー堰ラロってる人。でも、あたしはそう思ってんのよ！」†",
     ""),
     # "They're the ones who are crying and dying. And I think so too!"
 

@@ -2,9 +2,9 @@
 # Source file: 0624.txt
 
 text_array = [
-    ("（マルチ	エンディング）閨（戟レミィとデートの約束がある場㍼合）†",
+    ("（マルチ	エンディング）閨（レミィとデートの約束がある場㍼合）",
     ""),
-    # (Makyuruchi ending) (A place where there is a date with Remie)†
+    # (Makyuruchi ending) (A place where there is a date with Remie)
 
     ("うっ！？",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # A. Makes Ruchi the crying cry ahead.Relax
 
-    ("Ｂ	戟レミィを優譌先させる。閨",
+    ("Ｂ	レミィを優譌先させる。閨",
     ""),
     # B Makes the Witch Remy adorable.Relax
 

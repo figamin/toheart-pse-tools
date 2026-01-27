@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Yeah, sputum, that much."
 
-    ("た墲わいのないｉ話が二言三言。",
+    ("たわいのない話が二言三言。",
     ""),
     # There are a few words and words that are completely unrequited.
 

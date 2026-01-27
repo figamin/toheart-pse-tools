@@ -18,11 +18,11 @@ text_array = [
     ""),
     # I'm surprised.
 
-    ("努力の成果がこう烽も明確に出髀ると、やはり自分の実力を信じたくなる。",
+    ("努力の成果がこうも明確に出髀ると、やはり自分の実力を信じたくなる。",
     ""),
     # When the results of my efforts clearly show the results, I feel like I want to believe in my own abilities.
 
-    ("まっ、これ烽もあかりのおかげか烽もな。†",
+    ("まっ、これもあかりのおかげかもな。†",
     ""),
     # Well, this is both hot and hot, perhaps thanks to the light.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # At the right time, Akari came tampering with it.†
 
-    ("「テストの汲結果、どうだった？」",
+    ("「テストの結果、どうだった？」",
     ""),
     # "What did you think of the results of the test?"
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # A light laughs as if flowers have bloomed at a glance.
 
-    ("オレ焜もオレで気を良くし、",
+    ("オレもオレで気を良くし、",
     ""),
     # My hard work is also very excited,
 
-    ("「まあ、軽い烽もんよ」",
+    ("「まあ、軽いもんよ」",
     ""),
     # "Well, it's a light hot pot."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "It just happened to be рyama hit the demon."
 
-    ("だが正直、今回はあかりのこの笑迴顔の桙応㊨援があったればこそって気がする。†",
+    ("だが正直、今回はあかりのこの笑顔の桙応㊨援があったればこそって気がする。†",
     ""),
     # But to be honest, I feel that this time it's only possible because Akari's laughter-like support was there.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "пI'm..."
 
-    ("その途端、あかりはガクッと肩を獅落とした。†",
+    ("その途端、あかりはガクッと肩を落とした。†",
     ""),
     # At the same time, Akari squealed down her shoulders.†
 

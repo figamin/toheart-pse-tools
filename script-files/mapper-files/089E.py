@@ -2,7 +2,7 @@
 # Source file: 089E.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	驕鈴）†",
+    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	驕鈴）†",
     ""),
     # (Fall Remy Scale Event, 2nd Floor 4 LV1) (Selected Scale)†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "A correct answer! Amazing!"
 
-    ("戟レミィは、目をキラキラさせながらオレを尊敬の痰眼差しで見つめている。",
+    ("レミィは、目をキラキラさせながらオレを尊敬の痰眼差しで見つめている。",
     ""),
     # Karemi looks at me with a respectful phlegm gaze, her eyes sparkling and banquetting.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Amazing, amazing."
 
-    ("「他に烽も出してみ。オレが解いてやるぜ」",
+    ("「他にも出してみ。オレが解いてやるぜ」",
     ""),
     # "I'll try to release another hot pot. I'll break it down and tamper with it."
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Yes! That's the phlegm ""†
 
-    ("その冾日の帰闍りは、戟レミィに問題を教えるのを忘齧れて、クイズ蜒大痩で終尞わってしまった。",
+    ("その冾日の帰闍りは、レミィに問題を教えるのを忘齧れて、クイズ蜒大痩で終尞わってしまった。",
     ""),
     # The return of that date of study was to forget about teaching the quiz question to Remy, and ended up being extremely thin.
 
-    ("正解率はけっこーａ高くて、正解するたびに彼濫女は感リのし通しだった。◯",
+    ("正解率はけっこーａ高くて、正解するたびに彼女は感リのし通しだった。◯",
     ""),
     # The correct answer rate was high, and every time he answered correctly, the girl was so moved that she was extremely moved.◯
 

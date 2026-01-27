@@ -2,7 +2,7 @@
 # Source file: 0F1A.txt
 
 text_array = [
-    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	♂史を誘う）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	雅史を誘う）閨（蛛主人公煙負け）†",
     ""),
     # (Arcade Battle Cry 3) (Closing ceremony edition) (Choices, Inviting History) (Dragon protagonist) (Fluffy) †
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I'm praising you, so just be honest with me"
 
-    ("「ねえ、もう一回竕やうよ。そうすれば本末当にうまくなったか墲わかるよ」",
+    ("「ねえ、もう一回竕やうよ。そうすれば本末当にうまくなったかわかるよ」",
     ""),
     # "Hey, I'll give it another go. If I do that, I'll know if I've gotten better at it."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Is it okay, Kaji return match"†
 
-    ("結局のとこ、♂史の腕はそれほどで烽もなかったが（笑）、うまくなってることだけは確かだった。",
+    ("結局のとこ、雅史の腕はそれほどでもなかったが（笑）、うまくなってることだけは確かだった。",
     ""),
     # In the end, B, Masochist's skills were not that great and there were no hot water (lol), but I was certain he was getting better.
 

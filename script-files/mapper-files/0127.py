@@ -2,7 +2,7 @@
 # Source file: 0127.txt
 
 text_array = [
-    ("（あかり	ＶＳイベント	葵）閨（４獅月２３冾日以降）閨（あかり好感度２５		葵好感度８以繹上）閨（１桙時間目の休み桙時間）閨（廊下１	あかり	笑迴顔）†",
+    ("（あかり	ＶＳイベント	葵）閨（４月２３冾日以降）閨（あかり好感度２５		葵好感度８以繹上）閨（１桙時間目の休み桙時間）閨（廊下１	あかり	笑顔）†",
     ""),
     # (Akari Event Aoi) (Akari's favourability 25, Akari's favourability 8 or higher) (Akari's favourability 15) (Akari's favourability 8 or higher) (Akari's favourability 1 hour) (Akari's favourability 1 face)†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "My name is."
 
-    ("片阨手を繧上げてあいさつすると、",
+    ("片阨手を上げてあいさつすると、",
     ""),
     # When I greet him with my hand raised,
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Ah, hello, "Um, Kamigishi Senpai."
 
-    ("へえ、朝ちょこっとｉっただけなのに、葵ち痰ゃん、あかりの名前を覚えてたのか。†",
+    ("へえ、朝ちょこっとっただけなのに、葵ち痰ゃん、あかりの名前を覚えてたのか。†",
     ""),
     # Wow, I only remembered the names of Aoi Chisho-chan and Akari even though they only had a morning peek.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「あっ、いえっ、すみません。あんまり№仲がいい烽もので、そうかなあと思って…」†",
+    ("「あっ、いえっ、すみません。あんまり№仲がいいもので、そうかなあと思って…」†",
     ""),
     # "Ah, no, sorry. We're so close friends, so I thought maybe..."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Yeah, Akari and I'm "
 
-    ("Ａ	まあ、そんなみたいな烽もんかな。閨",
+    ("Ａ	まあ、そんなみたいなもんかな。閨",
     ""),
     # A: Well, maybe that kind of hot thing.Relax
 

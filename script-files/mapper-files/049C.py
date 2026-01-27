@@ -2,9 +2,9 @@
 # Source file: 049C.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階３）閨（選択綜	話す）†",
+    ("（志保	回秤数イベント	１階３）閨（選択綜	話す）",
     ""),
-    # (Shiho Scales Event, 1st floor 3) (Choice Speak)†
+    # (Shiho Scales Event, 1st floor 3) (Choice Speak)
 
     ("「いようっ！」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Are you going home?"
 
-    ("「見てのとおりね」†",
+    ("「見てのとおりね」",
     ""),
-    # "As you can see" †
+    # "As you can see" 
 
     ("「じ痰ゃあ、オレは帰驪るのやめた」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "I'm sorry, I'll say it..."
 
-    ("とか言いながら、オレ焜も無摶理に断髓る揩理由はないので、つき№合ってやることにした。†",
+    ("とか言いながら、オレも無摶理に断髓る理由はないので、つき№合ってやることにした。",
     ""),
-    # As I said that, there was no reason to let my slut go unnoticed, so I decided to go and tamper with it.†
+    # As I said that, there was no reason to let my slut go unnoticed, so I decided to go and tamper with it.
 
     ("「ねえ、新学匇期が始まって３週間ほど経つけど、新しいクラス、どお？」",
     ""),
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Masashi is a ephemeral...I'm not sure if it's a year or so."
 
-    ("「あかり烽もいっしょになったでしょ」",
+    ("「あかりもいっしょになったでしょ」",
     ""),
     # "Akari Hot was also a slut."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "That's right... He's pretty much going on with him, so it's not related to the Crown."
 
-    ("「みんないっしょで、嬉しい？」†",
+    ("「みんないっしょで、嬉しい？」",
     ""),
     # "Are you all happy about this ecstasy?"
 
-    ("「♂史竡やあかりと同じクラスになったことがか？」",
+    ("「雅史竡やあかりと同じクラスになったことがか？」",
     ""),
     # "Has it been the same banquet as Shiko and Akari?"
 

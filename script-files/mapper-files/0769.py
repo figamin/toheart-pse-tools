@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone Scales Event Chang Seeds Crying Likeability Event PS) (4/26)†
 
-    ("「どっかで飯で烽も食うかな…」",
+    ("「どっかで飯でも食うかな…」",
     ""),
     # "I wonder if I'll eat some hot food somewhere..."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # Kotone's head bowed.†
 
-    ("だめ烽もとで≠メシに誘ってみると、あっさりＯＫが出たので、オレたちは近くの店に入った。†",
+    ("だめもとで≠メシに誘ってみると、あっさりＯＫが出たので、オレたちは近くの店に入った。†",
     ""),
     # I invited him to eat at the restaurant, and he quickly found an OK, so we went to a nearby store.†
 
-    ("食べながらふたりで話していると、彼濫女は今厓日燗もオレに超能力の特訓を見て烽もらいたいと言う。",
+    ("食べながらふたりで話していると、彼女は今厓日燗もオレに超能力の特訓を見てもらいたいと言う。",
     ""),
     # As they were talking while eating, the woman said that she wanted me to watch my supernatural powers training and get some hot.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # My throbbing looks like a dad who can show his daughter a 100-point answer.†
 
-    ("「そうか？	で烽もこないだみたく、無摶理すんなよ」",
+    ("「そうか？	でもこないだみたく、無摶理すんなよ」",
     ""),
     # "I see? And don't let the heat go away, don't let it go without thinking."
 
@@ -118,15 +118,15 @@ text_array = [
     ""),
     # It's the moment when your supernatural powers are activated.†
 
-    ("ボールがゆっくりと…、しかし確実に浮き繧上がる。",
+    ("ボールがゆっくりと…、しかし確実に浮き上がる。",
     ""),
     # The ball slowly...but it definitely floats up.
 
-    ("今に烽も獅落ちそうな感じで、梶頼りない。†",
+    ("今にも落ちそうな感じで、梶頼りない。†",
     ""),
     # It looks like the lion is about to fall by now, and Kaji Yorikazu is not in the middle of the day.†
 
-    ("じりじりボールは繧上昇を続け、琴音ち痰ゃんの目の高さくらいでぴたりと止まった。",
+    ("じりじりボールは上昇を続け、琴音ち痰ゃんの目の高さくらいでぴたりと止まった。",
     ""),
     # The ball continued to rise, and stopped tightly at about B-high in Kotone Chisho-chan's eyes.
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # It's been about 10 seconds to come...
 
-    ("オレが口を開こうとした瞬間に、ボールはぽとりと地面に獅落ち、琴音ち痰ゃんは大きく息を吐いた。†",
+    ("オレが口を開こうとした瞬間に、ボールはぽとりと地面に落ち、琴音ち痰ゃんは大きく息を吐いた。†",
     ""),
     # Just as I was about to open my lucky mouth, the ball fell on the ground, and Kotone Chisho-yan let out a deep sigh.†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Amazing..."
 
-    ("すべてが終尞わった繧後で、言おうとしていた言葉をオレはやっと言えた。†",
+    ("すべてが終尞わった後で、言おうとしていた言葉をオレはやっと言えた。†",
     ""),
     # After everything was over, I finally managed to say what I was trying to say.†
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Is it really tough?"
 
-    ("「はい…で烽も、昨厓日謫よりはずっと能力が強くなってます」†",
+    ("「はい…でも、昨厓日謫よりはずっと能力が強くなってます」†",
     ""),
     # "Yes... And Hou has become much stronger than last year's Nikkei."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "…yes"
 
-    ("彼濫女はうなずき、オレ焜も下に獅落ちたボールを拾ってから隣にｍかける。†",
+    ("彼女はうなずき、オレも下に落ちたボールを拾ってから隣にｍかける。†",
     ""),
     # The woman nodded, and my throbbing picked up a ball that had fallen below me before pouring it over to my side.†
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "Ah... I guess that's the case, right?"
 
-    ("「さんのお気搴持ちはよく墲わかります…。で烽も、わたしはこんな能力、無くなってしまえばいいと思ってますから…」",
+    ("「さんのお気搴持ちはよくわかります…。でも、わたしはこんな能力、無くなってしまえばいいと思ってますから…」",
     ""),
     # "I can understand how much you are thinking... And I think it would be fine if you lost this ability..."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "Don't worry...
 
-    ("わたし、ＴＶに出なくて烽も、さんのおっし痰ゃったやり方ならきっとうまくいくって信じてますから…」",
+    ("わたし、ＴＶに出なくても、さんのおっし痰ゃったやり方ならきっとうまくいくって信じてますから…」",
     ""),
     # I'm not appearing on TV and I believe that if I'm a guy who's tampering with all the sputum and blessings, it's sure to work out..."
 
@@ -230,11 +230,11 @@ text_array = [
     ""),
     # How stupid I am when I'm so stupid, even though I've been asked to do that!†
 
-    ("「いいんですよさん。…今厓日は墲わたし、諱頑張闥りますから…監督のほう、お願いします」",
+    ("「いいんですよさん。…今厓日はわたし、諱頑張闥りますから…監督のほう、お願いします」",
     ""),
     # "It's fine....I'll do my best on the day right now...I'd like to ask the director."
 
-    ("琴音ち痰ゃんは気まずい雰囲気を盛關り返そうと精齔一杯の笑迴顔でとりつくってくれた。†",
+    ("琴音ち痰ゃんは気まずい雰囲気を盛關り返そうと精齔一杯の笑顔でとりつくってくれた。†",
     ""),
     # Kotone Chisho-yan tried to bring back the awkward atmosphere and grabbed her with a full face.†
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # What do I do about it when I'm crying?
 
-    ("縺励ます方が逆に繧励まされてどーすんだ！",
+    ("縺励ます方が逆に励まされてどーすんだ！",
     ""),
     # What will the lucky person who encourages you to be encouraged?
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "Ah, yes" †
 
-    ("…その冾日の特訓は、ふたりと烽もいつになく力の入った烽もので、琴音ち痰ゃんは烽もとより、オレまで汲結構へとへとになったほどだった。",
+    ("…その冾日の特訓は、ふたりともいつになく力の入ったもので、琴音ち痰ゃんはもとより、オレまで結構へとへとになったほどだった。",
     ""),
     # ...The training sessions on the day were more intense than usual, with Kotone Chisho-chan not only being hot, but I was quite exhausted as well as my intense surges.
 

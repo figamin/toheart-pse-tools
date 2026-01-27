@@ -2,9 +2,9 @@
 # Source file: 046E.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	話し桙込む）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	話し桙込む）",
     ""),
-    # (Shiho's Scales Event PS) (Chooses Scales)†
+    # (Shiho's Scales Event PS) (Chooses Scales)
 
     ("「…で、実際はなにを読んでたんだ？」",
     ""),
@@ -18,17 +18,17 @@ text_array = [
     ""),
     # "Teach me b."
 
-    ("「今厓日は自動車齊専蜷門叙誌謗よ」†",
+    ("「今厓日は自動車齊専蜷門叙誌謗よ」",
     ""),
     # "It's a slander of the automotive slander on the day."
 
-    ("「へえ…お前、浴女のくせに車に興味あんのか」",
+    ("「へえ…お前、女のくせに車に興味あんのか」",
     ""),
     # "Wha... you're a bather, but are you interested in cars?"
 
-    ("「…っとに、あんたってセクハラの塊みたいなрヤツね」†",
+    ("「…っとに、あんたってセクハラの塊みたいなрヤツね」",
     ""),
-    # "...Ahhh, you're like a mass of sexual harassment" †
+    # "...Ahhh, you're like a mass of sexual harassment" 
 
     ("「言いがかりだ。男は≠普通、そう思うだ」",
     ""),
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "You're honestly phlegm..."
 
-    ("「うん、素直」†",
+    ("「うん、素直」",
     ""),
-    # "Yeah, honest" †
+    # "Yeah, honest" 
 
-    ("「ふん。じ痰ゃあなんで車の本なんか読み出したんだ？	車で烽も欲しくなったか？」",
+    ("「ふん。じ痰ゃあなんで車の本なんか読み出したんだ？	車でも欲しくなったか？」",
     ""),
     # "Hmm. Why did you read a car book? Did you want some hot water in your car?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Well, that's a b place."
 
-    ("「いったいどんな車だ」†",
+    ("「いったいどんな車だ」",
     ""),
     # "What kind of car is this?"
 

@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("「はい、おまかせください！	ついに墲わたしの撃レーダーが役立つときがきました」",
+    ("「はい、おまかせください！	ついにわたしの撃レーダーが役立つときがきました」",
     ""),
     # "Yes, leave it to us! It's finally time for my Shooting Radar to be useful."
 
-    ("「戟レーダー氈ぁ？」",
+    ("「レーダー氈ぁ？」",
     ""),
     # "What radar?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I see, it's good to study.
 
-    ("よし、じ痰ゃあ≠早速探して烽もらうとするか」",
+    ("よし、じ痰ゃあ≠早速探してもらうとするか」",
     ""),
     # Okay, let's look for it right away and get some hot water."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # I'm sure the fire radar is searching for the situation in the n-circumference.
 
-    ("１０秒ほどすると、今度はし痰ゃがみこんで、コンクリートの繧上を見渡し始めた。",
+    ("１０秒ほどすると、今度はし痰ゃがみこんで、コンクリートの上を見渡し始めた。",
     ""),
     # After about 10 seconds, the phlegm swelled in, and began to look over the confines of the Konkulato Reet.
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # I also peeked at the vending machine's underside.
 
-    ("「…なあ、それって烽もしかして、目で探してんじ痰ゃねーか？」†",
+    ("「…なあ、それってもしかして、目で探してんじ痰ゃねーか？」†",
     ""),
     # "...Hey, is that something that's probably something you're looking for with your eyes?"
 
-    ("「はい、すみません。どうやら墲わたしには、戟レーダー分析機能はないみたいです…」",
+    ("「はい、すみません。どうやらわたしには、レーダー分析機能はないみたいです…」",
     ""),
     # "Yes, sorry. I don't seem to have a radar analysis function for me..."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Um..."
 
-    ("「で烽も、ご安心を。",
+    ("「でも、ご安心を。",
     ""),
     # "And don't worry, don't worry.
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # I have a b high performance CCD camera!”†
 
-    ("などと言いつつ、四つんばいで探し回迚られて烽もなあ。",
+    ("などと言いつつ、四つんばいで探し回迚られてもなあ。",
     ""),
     # While saying this, I was searching for it on all fours and was also excited.
 
-    ("「なあ、マルチ。オレ焜も手伝おうか？」",
+    ("「なあ、マルチ。オレも手伝おうか？」",
     ""),
     # "Hey, I'm crying. Shall I help you too?"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "No. Please take your time."
 
-    ("「で烽もなあ…」†",
+    ("「でもなあ…」†",
     ""),
     # "And that's hot too..." †
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "I'm sorry for the inconvenience."
 
-    ("マルチがオレの足熨もと烽も調べ始めた。",
+    ("マルチがオレの足熨もとも調べ始めた。",
     ""),
     # Muruki Ruchi began to look into my foot and hot water.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # Senpai nodded with Ko-kun.†
 
-    ("ま、なにはと烽もあれ１００円が見つかってよかったぜ。",
+    ("ま、なにはともあれ１００円が見つかってよかったぜ。",
     ""),
     # Well, I'm glad that I was able to find 100 yen, even though it's hot.
 

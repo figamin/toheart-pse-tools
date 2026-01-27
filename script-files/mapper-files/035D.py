@@ -2,9 +2,9 @@
 # Source file: 035D.txt
 
 text_array = [
-    ("（智子	好感度イベント１２回目）閨（選択綜Ａの続き）†",
+    ("（智子	好感度イベント１２回目）閨（選択綜Ａの続き）",
     ""),
-    # (Tomoko's 12th Likeability Event) (Continued from Chosen A)†
+    # (Tomoko's 12th Likeability Event) (Continued from Chosen A)
 
     ("「じ痰ゃあ、＠いよ」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "If the chairman wants to do that, I'm lucky, there's no one in my house."
 
-    ("そう言ってオレ焜も、真っ直ぐ委員長の目を見つめ返した。†",
+    ("そう言ってオレも、真っ直ぐ委員長の目を見つめ返した。",
     ""),
-    # With that in mind, I stared straight back into the chairman's eyes.†
+    # With that in mind, I stared straight back into the chairman's eyes.
 
     ("「………」",
     "…"),
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Hmm, stupid.
 
-    ("冗談にｌまってるやない。しかし、節操ないねんな。そうやって誰で烽もホイホイ誘うんか？」†",
+    ("冗談にｌまってるやない。しかし、節操ないねんな。そうやって誰でもホイホイ誘うんか？」",
     ""),
-    # It's not a joke about him being a silly thing.But it's not sensible.Who would even invite the han to do this and say it?”†
+    # It's not a joke about him being a silly thing.But it's not sensible.Who would even invite the han to do this and say it?”
 
-    ("「誰で烽もって墲わけじ痰ゃねー諱よ。",
+    ("「誰でもってわけじ痰ゃねー諱よ。",
     ""),
     # "Whoever lets you break it off with hot water, you're not going to be phlegmy.
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # Because the committee member is the chairman... is that b?”
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「委員長だから、真武剣に言ったんだぞ」",
     ""),
@@ -74,8 +74,8 @@ text_array = [
     "…"),
     # "..."
 
-    ("そのとき、オレたちふたりのま墲わりだけ、艨ゆっくりと桙時間が流齬れたような気がした。†",
+    ("そのとき、オレたちふたりのまわりだけ、艨ゆっくりと桙時間が流齬れたような気がした。",
     ""),
-    # At that time, it felt like the two of us were slowly losing their time.†
+    # At that time, it felt like the two of us were slowly losing their time.
 
 ]

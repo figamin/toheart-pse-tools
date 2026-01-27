@@ -2,33 +2,33 @@
 # Source file: 0034.txt
 
 text_array = [
-    ("３／４（火）†",
+    ("３／４（火）",
     ""),
-    # 3/4 (Tue)†
+    # 3/4 (Tue)
 
     ("諱よし、今厓日の授業はこれで終尞わり…っと。",
     ""),
     # Okay, this is the end of the lessons on the day of the day...
 
-    ("諱ようやく自由の身になったぜ。†",
+    ("諱ようやく自由の身になったぜ。",
     ""),
-    # I've become free to blame and end up being free.†
+    # I've become free to blame and end up being free.
 
-    ("教室を出て、廊下を烽歩く。",
+    ("教室を出て、廊下を歩く。",
     ""),
     # I left the classroom and walked down the hallway.
 
-    ("知った顔は…いないみたいだな。†",
+    ("知った顔は…いないみたいだな。",
     ""),
-    # It seems like there's no one to know about.†
+    # It seems like there's no one to know about.
 
     ("１階の廊下にｗた。",
     ""),
     # I went to the hallway on the first floor.
 
-    ("知ってる人間は…いないみたいだな。†",
+    ("知ってる人間は…いないみたいだな。",
     ""),
-    # It seems there's no one who knows.†
+    # It seems there's no one who knows.
 
     ("階段の下には生徒悼の御意見箱がある。",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # Okay, I'm going to send in valuable opinions from ordinary students and give them a try.
 
-    ("学食の≠メニャーを揩増竭やせ…と。†",
+    ("学食の≠メニャーを増竭やせ…と。",
     ""),
-    # I'm going to lose weight by increasing the weight of the school cafeteria...†
+    # I'm going to lose weight by increasing the weight of the school cafeteria...
 
     ("ふあ〜あ。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # It breathes out the air outside and stretches out loudly.
 
-    ("さてと、帰闍りますか。†",
+    ("さてと、帰闍りますか。",
     ""),
-    # Well, will you go back?†
+    # Well, will you go back?
 
     ("驕夜。",
     ""),

@@ -2,17 +2,17 @@
 # Source file: 07DC.txt
 
 text_array = [
-    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	ガラスをр割驫るなんて）†",
+    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	ガラスをр割驫るなんて）",
     ""),
-    # (Kotone PS Scale Event) (What if you're going to split the banquet last) †
+    # (Kotone PS Scale Event) (What if you're going to split the banquet last) 
 
-    ("「ガラスをр割驫るなんて感心しねえな」†",
+    ("「ガラスをр割驫るなんて感心しねえな」",
     ""),
     # "I'm not impressed that they're going to sail the banquet."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「なあ、マジであのガラスをр割ったのか？」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # In fact, I couldn't believe it.
 
-    ("なにかが魔当たってр割れたってことは、充分有り得體る。†",
+    ("なにかが魔当たってр割れたってことは、充分有り得體る。",
     ""),
-    # If something hits a demon and breaks, it's quite reasonable.†
+    # If something hits a demon and breaks, it's quite reasonable.
 
     ("「いけないことですよね…」",
     ""),
@@ -38,23 +38,23 @@ text_array = [
     ""),
     # Kotone Chishoyan said in a cry of tears.
 
-    ("「あ、わりぃ、怒ってる墲わけじ痰ゃねえんだ」",
+    ("「あ、わりぃ、怒ってるわけじ痰ゃねえんだ」",
     ""),
     # "Ah, I'm not going to let you know, I have no way of phlegm being angry."
 
-    ("オレは慌てて弁解した。†",
+    ("オレは慌てて弁解した。",
     ""),
-    # I hurriedly gave an excuse.†
+    # I hurriedly gave an excuse.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("琴音ち痰ゃんはなに烽もこたえない。†",
+    ("琴音ち痰ゃんはなにもこたえない。",
     ""),
-    # Kotone's sphin-chan can't respond to anything.†
+    # Kotone's sphin-chan can't respond to anything.
 
-    ("「わりぃ、そういうつ烽もりで言ったんじ痰ゃねえんだよ…」",
+    ("「わりぃ、そういうつもりで言ったんじ痰ゃねえんだよ…」",
     ""),
     # "I'm not saying that, I'm not phlegmy as I said that..."
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Sorry, stop it for something silly."
 
-    ("ただただ謝骼るしかなかった。†",
+    ("ただただ謝骼るしかなかった。",
     ""),
-    # I had no choice but to apologize.†
+    # I had no choice but to apologize.
 
     ("「………」",
     "…"),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "I'm fine to go now."
 
-    ("オレが言うと、琴音ち痰ゃんは頭を下げてきびすを返した。†",
+    ("オレが言うと、琴音ち痰ゃんは頭を下げてきびすを返した。",
     ""),
-    # When I said, Kotone Chisho-yan bowed his head and replied.†
+    # When I said, Kotone Chisho-yan bowed his head and replied.
 
     ("…縺上縁級生が下演級生をモかすなんて、ただのいじめじ痰ゃねえか〜っ！",
     ""),
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # That's stupid b!
 
-    ("琴音ち痰ゃんの姿が見えなくなってから烽も、自己剏嫌悪におちいるオレだった。◯",
+    ("琴音ち痰ゃんの姿が見えなくなってからも、自己剏嫌悪におちいるオレだった。◯",
     ""),
     # After Kotone Chisho-chan disappeared from sight, Kao was also extremely rebellious and disgusted.◯
 

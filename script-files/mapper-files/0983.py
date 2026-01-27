@@ -2,11 +2,11 @@
 # Source file: 0983.txt
 
 text_array = [
-    ("（♂史回秤数イベント	３／１０	１階）閨（下駄箱）†",
+    ("（雅史回秤数イベント	３／１０	１階）閨（下駄箱）†",
     ""),
     # (Male History Scale Event 3/10, 1st floor) (Shoe cabinet)†
 
-    ("下駄箱でｉ史を見かけた。",
+    ("下駄箱で史を見かけた。",
     ""),
     # I saw I-History in the shoe cabinet.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Sato-kun the next day @"
 
-    ("という甘い声が聞こえ、三人の翌女生徒たちがｉ史を取闔り囲んだ。†",
+    ("という甘い声が聞こえ、三人の翌女生徒たちが史を取り囲んだ。†",
     ""),
     # A sweet voice was heard, and the three female students gathered around I-Shin.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What do you want?"
 
-    ("振關り返ったｉ史が聞く。",
+    ("振關り返った史が聞く。",
     ""),
     # I hear the re-examination of i-historic reactions.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Hey, Sato-kun. On the next Sunday, don't you go to the banquet with us?"
 
-    ("と、浴女生徒Ａ。†",
+    ("と、女生徒Ａ。†",
     ""),
     # And bathing student A.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Let's go, let's go, let's go, my name is."
 
-    ("と、浴女生徒Ｂはｉ史の手をひっぱった。",
+    ("と、女生徒Ｂは史の手をひっぱった。",
     ""),
     # And then the bathing student B pulled i-shi's hand.
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "It's open on Sunday, right?"
 
-    ("と、浴女生徒Ｃが聞く。†",
+    ("と、女生徒Ｃが聞く。†",
     ""),
     # Bathing student C asked.†
 
-    ("「で烽も、氈次の冾日曜坥日はテストの真っ最穀じ痰ゃなかったっけ？」",
+    ("「でも、氈次の冾日曜坥日はテストの真っ最穀じ痰ゃなかったっけ？」",
     ""),
     # "So, did you have the most sputum on the test on Sunday, the next day?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "oh yeah"
 
-    ("「佐藤くんなら、そんなに根をつめなくて烽も大苟丈夫でしょ？」†",
+    ("「佐藤くんなら、そんなに根をつめなくても大苟丈夫でしょ？」†",
     ""),
     # "If it were Sato-kun, he doesn't get too much roots and the hot springs are strong, so is he still strong?"
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "Sorry, I don't have much time this time."
 
-    ("当たりさ墲わりなく断窒うとする、♂史。",
+    ("当たりさわりなく断窒うとする、雅史。",
     ""),
     # Male history is trying to break down without any polishing.
 
-    ("だが、浴女生徒たちは、そう簡単に逃がしてはくれない。†",
+    ("だが、女生徒たちは、そう簡単に逃がしてはくれない。†",
     ""),
     # However, the bathing students don't let them get away that easily.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "I have discounted flies tickets up to that date."
 
-    ("しつこくｉ史に食い下がる。†",
+    ("しつこく史に食い下がる。†",
     ""),
     # He persistently eats down I history.†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # The three of them begin to consult with Kaji.
 
-    ("♂史の都∮合はそっちのけだ。†",
+    ("雅史の都∮合はそっちのけだ。†",
     ""),
     # That's the only place for the city of history.†
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "I'll definitely tamper with you soon."
 
-    ("あくまでｍの痰低い、♂史。",
+    ("あくまでｍの痰低い、雅史。",
     ""),
     # A male history with low phlegm.
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # "Yeah. I'm sorry, I'm hurry."†
 
-    ("ぎこちなく笑って言うと、♂史は、浴女生徒たちから逃げるように獅去っていく。",
+    ("ぎこちなく笑って言うと、雅史は、女生徒たちから逃げるように去っていく。",
     ""),
     # When I laughed awkwardly, Masochi leaves the bathing students as if to escape.
 
-    ("「じ痰ゃ〜ね〜浴＠」",
+    ("「じ痰ゃ〜ね〜＠」",
     ""),
     # "She's got a phlegm~~bath @"
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # Three female students waving their hands and roaring.†
 
-    ("「あ。おい、♂｢｢」",
+    ("「あ。おい、雅｢｢」",
     ""),
-    # "Ah. Hey, ♂ ""
+    # "Ah. Hey, 雅 ""
 
-    ("声をかけようとしたが、すでにｉ史は玄関を出、校舎の外へと移動していた。",
+    ("声をかけようとしたが、すでに史は玄関を出、校舎の外へと移動していた。",
     ""),
     # He tried to call out to him, but I-Shi had already left the entrance and moved outside the school building.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # I missed the call.
 
-    ("それにして烽も、♂史のやつ、やっぱり翌女子に人気あるんだな。◯",
+    ("それにしても、雅史のやつ、やっぱり翌女子に人気あるんだな。◯",
     ""),
     # And, the tampering with Masochist is also popular among the girls who are the following girls.◯
 

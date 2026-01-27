@@ -2,9 +2,9 @@
 # Source file: 0621.txt
 
 text_array = [
-    ("（マルチ	エンディング）閨（Ａ	こう、＠い）†",
+    ("（マルチ	エンディング）閨（Ａ	こう、＠い）",
     ""),
-    # (Muruki Ruchi Ending) (A, @i)†
+    # (Muruki Ruchi Ending) (A, @i)
 
     ("「いまからオレんちにｗ磯翌ﾁてことか？」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Are you doing the hon?!
 
-    ("よかったですー。ほかにご予定がおありとかだったら、どうしようかと思ってたんですよー」†",
+    ("よかったですー。ほかにご予定がおありとかだったら、どうしようかと思ってたんですよー」",
     ""),
     # That's good.If there were any other plans, I would have been wondering what to do."
 

@@ -2,9 +2,9 @@
 # Source file: 0413.txt
 
 text_array = [
-    ("（志保	ノベルシーン）閨（選択綜	今厓日は気分じ痰ゃねえんだ。）†",
+    ("（志保	ノベルシーン）閨（選択綜	今厓日は気分じ痰ゃねえんだ。）",
     ""),
-    # (Shiho's novel crying scene) (Something is a little bit of a phlegm on the day of the day)†
+    # (Shiho's novel crying scene) (Something is a little bit of a phlegm on the day of the day)
 
     ("「わりいな。今厓日は気分じ痰ゃねえんだ」",
     ""),
@@ -14,13 +14,13 @@ text_array = [
     ""),
     # "Eh, uh, uh!"
 
-    ("「なんて言って烽も行かねえかんな」",
+    ("「なんて言っても行かねえかんな」",
     ""),
     # "What do you say, can't you even go to the hot water?"
 
-    ("「ちぇっ、つまんないの〜っ」†",
+    ("「ちぇっ、つまんないの〜っ」",
     ""),
-    # "Chh, it's boring" †
+    # "Chh, it's boring" 
 
     ("「また今度な」",
     ""),
@@ -30,8 +30,8 @@ text_array = [
     ""),
     # "Hey hey"
 
-    ("うざったそうにオレへと手を振って、志保は帰っていった。†",
+    ("うざったそうにオレへと手を振って、志保は帰っていった。",
     ""),
-    # Shiho waved to me with annoyance and went home.†
+    # Shiho waved to me with annoyance and went home.
 
 ]

@@ -2,15 +2,15 @@
 # Source file: 0540.txt
 
 text_array = [
-    ("（葵	好感度イベント１）閨（発生条緒件	好感度１０以繹上）閨（昼休み）閨（£鋳）†",
+    ("（葵	好感度イベント１）閨（発生条緒件	好感度１０以繹上）閨（昼休み）閨（鋳）†",
     ""),
-    # (Aoi's Likeability Event 1) Lily (An incident, favorability above 10) Lily (lunch break) Lily (£cast) †
+    # (Aoi's Likeability Event 1) Lily (An incident, favorability above 10) Lily (lunch break) Lily (cast) †
 
     ("昼休み。",
     ""),
     # lunch break.
 
-    ("青空の広がる気搴持ちのいい天気だったので、オレは久しぶりにｒ鋳に出て、ベンチに座闕り、そこで汲昼£メシを食うことにした。†",
+    ("青空の広がる気搴持ちのいい天気だったので、オレは久しぶりにｒ鋳に出て、ベンチに座闕り、そこで昼メシを食うことにした。†",
     ""),
     # The weather was beautiful with a blue sky and a cheerful atmosphere, so I went out to the R-cast for the first time in a while, sat on the bench, where I decided to eat lunch.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I'm alone now.
 
-    ("いつ烽もはｉ史といっしょに食ってるが、あいつはときどき、姉の手詩闕り弁抹当を揩持参してくることがあり、そんなときは自然と別々に食うことになる。†",
+    ("いつもは史といっしょに食ってるが、あいつはときどき、姉の手詩闕り弁抹当を持参してくることがあり、そんなときは自然と別々に食うことになる。†",
     ""),
     # He always eats the food with I-Shin, but sometimes he brings his sister's hand-popularity with him, and in such cases he naturally eats it separately.†
 
@@ -26,23 +26,23 @@ text_array = [
     ""),
     # Cafe au lait with two breads and packs.
 
-    ("＊度おなじみのさえない汲昼£メシだ。",
+    ("＊度おなじみのさえない昼メシだ。",
     ""),
     # *This is the familiar, unfamiliar lunch meal.
 
-    ("かといって学食はｗ用者が多いし、とて烽も獅落ちｒいて飯が食える環境じ痰ゃない。",
+    ("かといって学食はｗ用者が多いし、とても落ちｒいて飯が食える環境じ痰ゃない。",
     ""),
     # However, there are many people who use the school cafeteria, and even the lion is falling apart, so there's no need to worry about it.
 
-    ("昼はやっぱり、こう、のんびりといきたい烽もんだ。†",
+    ("昼はやっぱり、こう、のんびりといきたいもんだ。†",
     ""),
     # During the day, I really want to go relaxed and relaxed.†
 
-    ("うららかな陽射しを≠浴びながら、パンの袋を破髞る。",
+    ("うららかな陽射しを≠びながら、パンの袋を破髞る。",
     ""),
     # He tears the bag of bread while experiencing the bright sunlight.
 
-    ("カフェオレにスト鴻ローを突き刺し、ひとくちすすって、たまにはひとりで食うの烽もいい烽もんだな、なんて思っていると…。†",
+    ("カフェオレにスト鴻ローを突き刺し、ひとくちすすって、たまにはひとりで食うのもいいもんだな、なんて思っていると…。†",
     ""),
     # I was thinking that the hot springs of thrusts into the Cafe au Era, sip a bite, and sometimes eating them alone is a good hot spring...†
 
@@ -54,19 +54,19 @@ text_array = [
     ""),
     # By chance, Aoi Chisho-chan appeared.
 
-    ("閨手には、お弁抹当袋を揩持っている。",
+    ("閨手には、お弁抹当袋を持っている。",
     ""),
     # He holds a bag of bento bag in his hand.
 
-    ("「諱先輩、ひとりでお食鱒事ですか？」",
+    ("「諱先輩、ひとりでお食事ですか？」",
     ""),
     # "Is it true that you're eating trout alone, are you talking about eating trout?"
 
-    ("「うん、まあ。…葵ち痰ゃん烽も？」†",
+    ("「うん、まあ。…葵ち痰ゃんも？」†",
     ""),
     # "Yeah, well... Aoi Chishonan, too?"
 
-    ("「はい、いつ烽もいっしょの友だちが今厓日はお休みで。あの、ごいっしょして烽もよしいですか？」",
+    ("「はい、いつもいっしょの友だちが今厓日はお休みで。あの、ごいっしょしてもよしいですか？」",
     ""),
     # "Yes, when will my friend be off on the day of the day? Is it okay to have a good time to have a good time to have a good time?"
 
@@ -82,19 +82,19 @@ text_array = [
     ""),
     # Aoi Chisho-chan went to Mkai Takako next to me.◯
 
-    ("「いつ烽もここで食べられてるんですか？」",
+    ("「いつもここで食べられてるんですか？」",
     ""),
     # "When are you able to eat hot spring here?"
 
-    ("「いや、いつ烽もは教室で食ってるけど、今厓日はたまたま天気がよかったからさ」",
+    ("「いや、いつもは教室で食ってるけど、今厓日はたまたま天気がよかったからさ」",
     ""),
     # "I'm not going to eat at all times in the classroom, but the weather just happened to be nice on the day."
 
-    ("「そうですね。せっかく、こんなにいい天気だし、外に出ないと烽もったいないですよね」†",
+    ("「そうですね。せっかく、こんなにいい天気だし、外に出ないともったいないですよね」†",
     ""),
     # "That's right. The weather is so nice, so it would be a waste if you don't go outside."
 
-    ("葵ち痰ゃんはヒザの繧上に弁抹当を置いて、広げ始めた。",
+    ("葵ち痰ゃんはヒザの上に弁抹当を置いて、広げ始めた。",
     ""),
     # Aoi Chisho-chan placed the valve cutter on the knees and began to spread it.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "...Puh."
 
-    ("そのセリフがなんと烽も微笑ましく、オレは思寬わず≠吹き出してしまった。",
+    ("そのセリフがなんとも微笑ましく、オレは思寬わず≠吹き出してしまった。",
     ""),
     # The Segata riff was heartwarming, and I couldn't help but burst out loud without thinking about it.
 

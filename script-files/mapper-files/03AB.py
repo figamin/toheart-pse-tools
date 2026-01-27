@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Well done!
 
-    ("ここまでｗたら烽もう、なにかをつかむまでは絶対に帰鼡れねー！",
+    ("ここまでｗたらもう、なにかをつかむまでは絶対に帰鼡れねー！",
     ""),
     # Once you've reached this point, you'll never have to go back until you get something!
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # ...I see, I'm going to tamper with it.†
 
-    ("見膜事な奄ライン諠取闔り、絶妙なコーナリング！",
+    ("見膜事な奄ライン諠取り、絶妙なコーナリング！",
     ""),
     # The beautiful Amane Line's stunning view of the exquisite corner latitude ring!
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # ...I definitely don't think this will be a real contradiction.†
 
-    ("まったく無駄のないジャャンプで立ち繧上がりをフォ鴻ロー。",
+    ("まったく無駄のないジャャンプで立ち上がりをフォ鴻ロー。",
     ""),
     # He follows the rise with a completely lean, completely free-spirited Jampu.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Wow, it's the real thing.
 
-    ("ゲーマーふう兄ち痰ゃんは、渋く『ＺＺＺ』とネームを盾刻んで獅去っていった。†",
+    ("ゲーマーふう兄ち痰ゃんは、渋く『ＺＺＺ』とネームを盾刻んで去っていった。†",
     ""),
     # The gamer-like brother, Sympyan, liostefully laced his name with a shield, "ZZZ."†
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("いまのを参考にして、オレ焜もさっそくプレイしてみるぜ！",
+    ("いまのを参考にして、オレもさっそくプレイしてみるぜ！",
     ""),
     # Using the current one as a reference, I'll try making a big splash right away!
 
@@ -150,11 +150,11 @@ text_array = [
     ""),
     # Ahhhaha!
 
-    ("もう少し練習すれば、２’００”００の壁を破髞ること烽も夢じ痰ゃねーぜ。†",
+    ("もう少し練習すれば、２’００”００の壁を破髞ることも夢じ痰ゃねーぜ。†",
     ""),
     # If I practice for a little more fortune, I can't dream of breaking the 2'00'00 barrier.
 
-    ("これで次回はテ＜メーにおごって烽もらうぜ、志保！†",
+    ("これで次回はテ＜メーにおごってもらうぜ、志保！†",
     ""),
     # Now, next time I'll buy Temae and get some hot water, Shiho!†
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # While I was tampering with this, I was told, "Shock, it's already nine frames!"?
 
-    ("なんでこんなことに熱くなっているのか、自分で烽もよく揩理解できないが、で烽も、まあ、これで烽もう志保のрヤツには奄負けないぜ！",
+    ("なんでこんなことに熱くなっているのか、自分でもよく理解できないが、でも、まあ、これでもう志保のрヤツには奄負けないぜ！",
     ""),
     # I don't really understand why I'm so excited about this, but I can't help but feel the same way, but now I can't beat Shiho's р guy!
 
-    ("しかしこの、いったん熱くなったときの集薯力、艨我ながら感條服する烽ものがあるな。†",
+    ("しかしこの、いったん熱くなったときの集薯力、艨我ながら感條服するものがあるな。†",
     ""),
     # However, once it gets hot, there is something that will make you feel excited.†
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # It's getting late.
 
-    ("＝早く帰汲。",
+    ("＝早く帰。",
     ""),
     # = Return soon.
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # Chairman?
 
-    ("こんな桙時間に、しか烽も制梵服姿で、いったいなにやってんだ。†",
+    ("こんな桙時間に、しかも制梵服姿で、いったいなにやってんだ。†",
     ""),
     # At this time, even though the hot springs are wearing Sanskrit uniforms, what exactly are they doing?†
 
-    ("諱よく見骭ると、委員長は、他校の制梵服をｒた男といっしょに並んで烽歩いていた。",
+    ("諱よく見骭ると、委員長は、他校の制梵服をｒた男といっしょに並んで歩いていた。",
     ""),
     # Looking closely, the chairman was walking alongside a man wearing Sanskrit uniform from another school, along with a man walking alongside him.
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # If they are at the same time like this, it means that the two of them are right in line with each other.†
 
-    ("ひとりだったら間瘧違いなく声をかけるとこなんだが、せっかくふたり№仲良く烽歩いてんだ、＊髢暮な真乱似はやめて、そっとしといてやるか。†",
+    ("ひとりだったら間違いなく声をかけるとこなんだが、せっかくふたり№仲良く歩いてんだ、＊髢暮な真乱似はやめて、そっとしといてやるか。†",
     ""),
     # If she were alone, she would definitely call out to him, but the two of them were walking around in great harmony. *Stop tampering with the likes of a sinner, and just keep quiet and tampering with them.†
 
@@ -226,7 +226,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("…で烽も委員長、なんだかちっと烽も楽しそうじ痰ゃないな。",
+    ("…でも委員長、なんだかちっとも楽しそうじ痰ゃないな。",
     ""),
     # ...And also the chairman of the committee, it's a bit hard to have fun with Hoo.
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # The man moved his face to the chairman and continued to talk about something.†
 
-    ("男が一箞方的に言い寄ってる…っていうふうに烽も取齊れるな。",
+    ("男が一箞方的に言い寄ってる…っていうふうにも取齊れるな。",
     ""),
     # The man is approaching me in a simple way... and I can also take the opportunity to get the chance.
 
-    ("オレが見てるってことには、ふたりと烽も気がついてない。†",
+    ("オレが見てるってことには、ふたりとも気がついてない。†",
     ""),
     # The two and Ho don't notice that I'm watching.†
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # That was when it was.
 
-    ("委員長が無表﨣情のまま、スッと鞄を揩持ち繧上げたかと思うと、それを｢｢。",
+    ("委員長が無表﨣情のまま、スッと鞄を持ち上げたかと思うと、それを｢｢。",
     ""),
     # I thought the chairman had quickly brought the Karabako bag without any worries, and he replied, ".
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Ahhh!"
 
-    ("しか烽も、当たったのは角のトコ。†",
+    ("しかも、当たったのは角のトコ。†",
     ""),
     # However, the chicken was polished on the corner.†
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # The man opposed, crouching down and held his face.
 
-    ("か墲わいそうに、鼻を押さえて涙流してる。",
+    ("かわいそうに、鼻を押さえて涙流してる。",
     ""),
     # Poor guy, I hold my nose down and cry.
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # Wow.†
 
-    ("一箞方、加害者の委員長は痛がる男にフンッと背をｌけ、そのままスタスタと烽歩み獅去っていく。",
+    ("一箞方、加害者の委員長は痛がる男にフンッと背をｌけ、そのままスタスタと歩み去っていく。",
     ""),
     # On the other hand, the perpetrator's chairman thrusts back at the man who is in pain, then stumbles and leaves.
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # The man was still crouching on the ground.
 
-    ("ポケットからティッシャを取闔り出して鼻に詰めてる。",
+    ("ポケットからティッシャを取り出して鼻に詰めてる。",
     ""),
     # I took tissue out of my pocket and stuffed it into my nose.
 
@@ -306,11 +306,11 @@ text_array = [
     ""),
     # Ugh, it's miserable.†
 
-    ("それにして烽も、なんなんだ、いったい？",
+    ("それにしても、なんなんだ、いったい？",
     ""),
     # And what is it about Hot?
 
-    ("ふと気がつくと、委員長の姿は烽もう見えなくなっていた。",
+    ("ふと気がつくと、委員長の姿はもう見えなくなっていた。",
     ""),
     # When I suddenly realized it, the chairman was no longer visible.
 

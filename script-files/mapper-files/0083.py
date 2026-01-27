@@ -2,9 +2,9 @@
 # Source file: 0083.txt
 
 text_array = [
-    ("（冝期槙末テスト	１冾日目）閨（選択綜	けっこーпヤバイぜ）†",
+    ("（冝期槙末テスト	１冾日目）閨（選択綜	けっこーпヤバイぜ）",
     ""),
-    # (First day of the 1st year of the cypress final test) (Choice Sokui Kekko is incredible)†
+    # (First day of the 1st year of the cypress final test) (Choice Sokui Kekko is incredible)
 
     ("「けっこーпヤバイぜ」",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Damn it...?"
 
-    ("そう言って、縺上目づかいにオレの顔を覗き桙込んだ。†",
+    ("そう言って、縺上目づかいにオレの顔を覗き桙込んだ。",
     ""),
-    # With that in mind, I peered into my face and peered at my face.†
+    # With that in mind, I peered into my face and peered at my face.
 
-    ("「瘁例によって保瀦健のほうはバッチリなんだけど、物摯理が烽もう、最悪って感じ」",
+    ("「瘁例によって保瀦健のほうはバッチリなんだけど、物摯理がもう、最悪って感じ」",
     ""),
     # "As usual, Hole Ken is a perfect match, but the truthfulness seems to be the worst."
 
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "For example, is it Question 4? Is there a question about how to say "The Late" lol, which is a quick resource for energy, and that's why you're so busy?"
 
-    ("「うん、あったあった」†",
+    ("「うん、あったあった」",
     ""),
-    # "Yeah, there was" †
+    # "Yeah, there was" 
 
     ("「全泊部が問題に出髀るなんて思ってなかったから、重要なрヤツしか覚えなかったし」",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "What, you're a noshi too?"
 
-    ("「全泊部はとて烽も覚えらんないから、いくつか繧代表的なのだけ覚えてたんだ」",
+    ("「全泊部はとても覚えらんないから、いくつか代表的なのだけ覚えてたんだ」",
     ""),
     # "All the Tomari Club doesn't even remember Hot, so I only remembered a few typical ones."
 
@@ -54,19 +54,19 @@ text_array = [
     ""),
     # "That's right."
 
-    ("「ち痰ゃんと覚えておけばよかった」†",
+    ("「ち痰ゃんと覚えておけばよかった」",
     ""),
-    # "I should have remembered it as a little sphin" †
+    # "I should have remembered it as a little sphin" 
 
     ("「あとは、短文をｍ鼾れ、ってрヤツとか」",
     ""),
     # "Then, sniff a short sentence, say, sniff it."
 
-    ("「核分裂を烽説明すればいいやつね」",
+    ("「核分裂を説明すればいいやつね」",
     ""),
     # "You should explain nuclear fission, you should just say it."
 
-    ("「なんだ、お前は墲わかったのか？」",
+    ("「なんだ、お前はわかったのか？」",
     ""),
     # "What, did you understand?"
 
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # "I've recited it over there many times. Didn't you remember Chisho-ya?"
 
-    ("「あんな烽もん、秒単位で忘齧れちまうよ」†",
+    ("「あんなもん、秒単位で忘齧れちまうよ」",
     ""),
-    # "That kind of hot thing will forget in seconds."†
+    # "That kind of hot thing will forget in seconds."
 
     ("「そんな調子で、明坙日は大苟丈夫？」",
     ""),
     # "With that kind of tone, are you sturdy on Mingshuin?
 
-    ("「さあね。調子いいか烽もしんねーし、悪いか烽もしれない」",
+    ("「さあね。調子いいかもしんねーし、悪いかもしれない」",
     ""),
     # "Now, I'm feeling well or not, I'm feeling bad or not."
 

@@ -2,11 +2,11 @@
 # Source file: 088B.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階２）閨（選択綜Ａ）†",
+    ("（レミィ	回秤数イベント	２階２）閨（選択綜Ａ）",
     ""),
-    # (Game Remie Scales Event, 2nd Floor 2) (Selection A)†
+    # (Game Remie Scales Event, 2nd Floor 2) (Selection A)
 
-    ("戟レミィって、もしかして、オレのことを…？",
+    ("レミィって、もしかして、オレのことを…？",
     ""),
     # Is it like a rave?
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I'm really excited about something strange.
 
-    ("…はっきり言って、戟レミィは超可愛いと思うな。",
+    ("…はっきり言って、レミィは超可愛いと思うな。",
     ""),
     # ...To be honest, I think Karemi is super cute.
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # He's half-Japanese, he's a banquet lamar, and his dynamic personality doesn't leave his window, and he says, ".
 
-    ("「オレは好きだぜ」†",
+    ("「オレは好きだぜ」",
     ""),
-    # "I like you tit" †
+    # "I like you tit" 
 
     ("「Ｒ≠ａ撃ｌ撃ｌ凾ｙ！？」",
     ""),
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # Um, "Kajiriagata Li?'' means ''?'It meant that.
 
-    ("「まあな。あんまり深く考えて烽もらって烽も困骰るけど」†",
+    ("「まあな。あんまり深く考えてもらっても困骰るけど」",
     ""),
     # "Well, I'm thinking too much and getting hot, and it's a bit of a pain."
 
-    ("「Ｙ盾ｏ浮ｕ	戟ｌ盾ｏ魔ｖ	香ｍ？」",
+    ("「Ｙ盾ｏ浮ｕ	ｌ盾ｏ魔ｖ	香ｍ？」",
     ""),
     # "Y Shield O Float, Shield O Magic VB, Incense MB?"
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # I hurriedly rejected it.
 
-    ("「どっちかって言うと、堰ライクかな」†",
+    ("「どっちかって言うと、堰ライクかな」",
     ""),
     # "If I were to say either way, it's like a weir."
 
-    ("「Ｌ奄ｉ汲駆…なの…？」",
+    ("「Ｌ奄駆…なの…？」",
     ""),
     # "Is it a L Amai kb...?"
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # Ekiremi said that and looked very sad.
 
-    ("けれど、得意のダイナミックな感誧情表現だと考えたら、＝普通にがっかりしてる、だけか烽もしれない。†",
+    ("けれど、得意のダイナミックな感誧情表現だと考えたら、＝普通にがっかりしてる、だけかもしれない。",
     ""),
-    # However, if you think of it as a dynamic expression of affection that you specialize in, it's probably just that you're disappointed or rather, you might be surprised.†
+    # However, if you think of it as a dynamic expression of affection that you specialize in, it's probably just that you're disappointed or rather, you might be surprised.
 
-    ("「で烽もアタシ、あきらめないから」",
+    ("「でもアタシ、あきらめないから」",
     ""),
     # "And I won't give up, either."
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # "Sbb, ye shield o float!"
 
-    ("そう言って、彼濫女は獅去っていった。",
+    ("そう言って、彼女は去っていった。",
     ""),
     # With that said, the overflowing woman lioned away.
 
-    ("…諱よく墲わからない。",
+    ("…諱よくわからない。",
     ""),
     # ...I don't really understand the name.
 
-    ("戟レミィは汲結局なにが言いたいんだう…。◯",
+    ("レミィは結局なにが言いたいんだう…。◯",
     ""),
     # What is he trying to say in the end, what is he trying to say...◯
 

@@ -2,11 +2,11 @@
 # Source file: 00BA.txt
 
 text_array = [
-    ("（４獅月２１冾日	朝）閨（自分の部屋）†",
+    ("（４月２１冾日	朝）閨（自分の部屋）†",
     ""),
     # (Morning of April 21st Day) (morning of my room)
 
-    ("４獅月２１冾日、氏月曜坥日。",
+    ("４月２１冾日、氏月曜坥日。",
     ""),
     # April 21st Day, Monday.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # The sky is currently filled with clouds of low phlegms and is falling in the sky, and it is falling in a flash of rain.∬
 
-    ("公園にｒくこには、だいぶ雨は繧弱まっていた。",
+    ("公園にｒくこには、だいぶ雨は弱まっていた。",
     ""),
     # The rain had subsided quite a bit on the park.
 

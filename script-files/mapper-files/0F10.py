@@ -2,17 +2,17 @@
 # Source file: 0F10.txt
 
 text_array = [
-    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	志保）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	志保）閨（蛛主人公煙負け）",
     ""),
-    # (Arcade Battle Cry 2) (Red Season Final Test Part 2 (HbbH)) (Selection Shiho) (Mrage Protagonist Suffering) †
+    # (Arcade Battle Cry 2) (Red Season Final Test Part 2 (HbbH)) (Selection Shiho) (Mrage Protagonist Suffering) 
 
-    ("「あっはっは。なんだっけ？	あたしはボス諠より繧弱いのよね？	そのあたしに奄負けるようじ痰ゃ、ボスにはとーてー氈勝てない墲わよ〜」",
+    ("「あっはっは。なんだっけ？	あたしはボス諠より弱いのよね？	そのあたしに奄負けるようじ痰ゃ、ボスにはとーてー氈勝てないわよ〜」",
     ""),
     # "Ahhh. What is it? I'm weaker than the boss's slut, right? I'm not going to lose to Amami, I can't beat the boss."
 
-    ("「驕るせー諱よ」†",
+    ("「驕るせー諱よ」",
     ""),
-    # "Arrogant, my name"†
+    # "Arrogant, my name"
 
     ("「ね、悔しい？」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Would you tamper with me until I win?"
 
-    ("「…しょうがねぇ、もう一回だけつき№合ってやるよ」†",
+    ("「…しょうがねぇ、もう一回だけつき№合ってやるよ」",
     ""),
     # "...She's not going to come again, I'll tamper with it."
 

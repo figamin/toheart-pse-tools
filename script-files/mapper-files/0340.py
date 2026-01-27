@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko Likeability Event 1) (When Likeability is above 16) (Classic holiday time) (Classic holiday time) (Classic holiday time) (Classic holiday time))†
 
-    ("四梹時間目は繧代泊数幾何の授業だったが、担亦当の先生が急用で自習になった。",
+    ("四梹時間目は代泊数幾何の授業だったが、担亦当の先生が急用で自習になった。",
     ""),
     # The fourth time period was a class on night count geometry, but the teacher who was also involved in the urgent need to study on its own.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # The chairman handed out all the Pulata Rinto for the departmental title that he had been in charge of.†
 
-    ("「まとめて提出しますので、縺後撃の席の人は５分前になったら集めてр私のとこへ揩持ってきて下さい。これが終尞わった人は各自で自習です」",
+    ("「まとめて提出しますので、縺後撃の席の人は５分前になったら集めてр私のとこへ持ってきて下さい。これが終尞わった人は各自で自習です」",
     ""),
     # "We will submit all the items in bulk, so if you are in the after-stopping session, please gather them five minutes before and bring them to my place. Those who have finished this will study on their own."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "…Yeah"
 
-    ("開始緕後しばらくは、％しいながら烽も真武剣に取闔り組んでやっていたオレ焜も、ひとつ、またひとつとつまずくたび、氈次謗第に凾嫌気がさしてきた。",
+    ("開始緕後しばらくは、％しいながらも真武剣に取り組んでやっていたオレも、ひとつ、またひとつとつまずくたび、氈次謗第に凾嫌気がさしてきた。",
     ""),
     # For a while after the start, even though I had been working on the battle with the Shinbuken, I started to feel fed up every time I stumbled over one by one.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # In the end, I ended up throwing Kaji.†
 
-    ("諱よく見り痰ゃ、真面目に取闔り組んでいるやつなんて、ほとんどいない。",
+    ("諱よく見り痰ゃ、真面目に取り組んでいるやつなんて、ほとんどいない。",
     ""),
     # There are very few tampering people who are seriously involved with the idea.
 
@@ -66,21 +66,21 @@ text_array = [
     ""),
     # You have to think about things that will make you feel comfortable.†
 
-    ("…といいつつ、さて、オレは誰に写させて烽もらおうかね。",
+    ("…といいつつ、さて、オレは誰に写させてもらおうかね。",
     ""),
     # ...But now, who should I copy my geisha and get my geisha?
 
-    ("Ａ	あかりに写させて烽もらう。閨",
+    ("Ａ	あかりに写させてもらう。閨",
     ""),
     # A: Let Akari copy it and get a hot pot.Relax
 
-    ("Ｂ	委員長に写させて烽もらう。閨",
+    ("Ｂ	委員長に写させてもらう。閨",
     ""),
     # B: Have the chairman copy it and get it hot.Relax
 
-    ("Ｃ	♂史に写させて烽もらう。閨",
+    ("Ｃ	雅史に写させてもらう。閨",
     ""),
-    # C: Copy it into a ♂ History and get it hot.Relax
+    # C: Copy it into a 雅 History and get it hot.Relax
 
     ("Ｄ	やっぱり根性出して、自分でやる。閨",
     ""),

@@ -2,11 +2,11 @@
 # Source file: 0510.txt
 
 text_array = [
-    ("（葵	冝日付イベント２）閨（４獅月２７冾日	冝日曜坥日	ＰＭ２桙時）閨（葵	好感度３２以繹上で発生する）閨（商店街）†",
+    ("（葵	冝日付イベント２）閨（４月２７冾日	冝日曜坥日	ＰＭ２桙時）閨（葵	好感度３２以繹上で発生する）閨（商店街）",
     ""),
-    # (Aoi Cry Date Event 2) (Aoi Cry Date: 27th Day of the Fourth Day of the Year, Sunday of the Year, PM2) (Aoi Cry Date: 32 or higher) (Aoi Cry Date: 32 or higher) (Shopping Street)†
+    # (Aoi Cry Date Event 2) (Aoi Cry Date: 27th Day of the Fourth Day of the Year, Sunday of the Year, PM2) (Aoi Cry Date: 32 or higher) (Aoi Cry Date: 32 or higher) (Shopping Street)
 
-    ("午後になり、適俣当にぶらぶらアーケードを烽歩いていると、本屋の前で見知った顔を見つけた。",
+    ("午後になり、適俣当にぶらぶらアーケードを歩いていると、本屋の前で見知った顔を見つけた。",
     ""),
     # After the morning, as I was walking around the arcade strolling around Tomoematato, I found a familiar face in front of a bookstore.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I came near and called out.
 
-    ("「諱よお、葵ち痰ゃん！」†",
+    ("「諱よお、葵ち痰ゃん！」",
     ""),
     # "My name is, Aoi Chishonan!"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What are you doing, where is this? Is it a day for the train station to be used? Is it phlegmous for you to do?"
 
-    ("「今厓日は道齠場はお休みです。いまはちょっと欲しい本があったので、本屋さんで探してたとこなんです」†",
+    ("「今厓日は道齠場はお休みです。いまはちょっと欲しい本があったので、本屋さんで探してたとこなんです」",
     ""),
     # "The roadside is closed on the day. I just wanted a book, so I was looking for it at a bookstore."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Book? Martial arts?"
 
-    ("「えっ、どうして墲わかるんですか？」",
+    ("「えっ、どうしてわかるんですか？」",
     ""),
     # "What, how do you know?"
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "It's sputum."
 
-    ("思寬わず笑ってしまう、オレ。†",
+    ("思寬わず笑ってしまう、オレ。",
     ""),
-    # I laughed without thinking, and was so intense.†
+    # I laughed without thinking, and was so intense.
 
     ("「で、本はモ買えたのか？」",
     ""),
@@ -70,15 +70,15 @@ text_array = [
     ""),
     # "Huh"
 
-    ("タイトルからして、ずいぶんとつっこんだ烽内容逞らしいな。†",
+    ("タイトルからして、ずいぶんとつっこんだ内容逞らしいな。",
     ""),
-    # From the point of crying, it seems like the strong-selling content that's quite a bit of a hit.†
+    # From the point of crying, it seems like the strong-selling content that's quite a bit of a hit.
 
     ("「諱先輩はなにを？」",
     ""),
     # "What are you, Senpai?"
 
-    ("「オレ？	べつになに烽も。暇だからブラブラしてただけさ」",
+    ("「オレ？	べつになにも。暇だからブラブラしてただけさ」",
     ""),
     # "I'm super crazy? What's that? I'm bored, so I just had a lovey-dovey party."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "The weather is so nice.
 
-    ("部屋でじっとしてるの烽も烽もったいないですよね」",
+    ("部屋でじっとしてるのももったいないですよね」",
     ""),
     # It's a waste to have a hot pot staying still in the room."
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # "Well."
 
-    ("葵ち痰ゃんが言うと、本末当にそんな気になる。†",
+    ("葵ち痰ゃんが言うと、本末当にそんな気になる。",
     ""),
-    # When Aoi Chisho-yan says that, it's just the right thing to think about.†
+    # When Aoi Chisho-yan says that, it's just the right thing to think about.
 
     ("「これからどうすんの？」",
     ""),
     # "What are you going to do now?"
 
-    ("「せっかくですし、またいつ烽もの場鰹所で練習しようかと思って…」",
+    ("「せっかくですし、またいつもの場鰹所で練習しようかと思って…」",
     ""),
     # "I've had the chance, so I thought about when I'd practice fortune at the bonito broth again..."
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # Come to think of it, he has a familiar sports bag on his shoulder.
 
-    ("タオル窿や体操葬が入ってるんだう。†",
+    ("タオル窿や体操葬が入ってるんだう。",
     ""),
-    # There's a tao crying and gymnastics included.†
+    # There's a tao crying and gymnastics included.
 
     ("「梶相変﨑わらず練習熱心だな、えらいよな」",
     ""),
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # "No, I'm just tampering with what I love, so it's not that great at all."
 
-    ("葵ち痰ゃんは照齒れて笑う。†",
+    ("葵ち痰ゃんは照齒れて笑う。",
     ""),
-    # Aoi Chisho-chan laughs as she glars.†
+    # Aoi Chisho-chan laughs as she glars.
 
-    ("それにして烽も、こんなとこで葵ち痰ゃんにｉえるなんて珍しいよな。",
+    ("それにしても、こんなとこで葵ち痰ゃんにえるなんて珍しいよな。",
     ""),
     # And it's rare for Ho to get into Aoi Chisho-chan at a place like this.
 
-    ("ついでだし、オレ焜も練習に参加しようかな。",
+    ("ついでだし、オレも練習に参加しようかな。",
     ""),
     # Also, I think I'll take part in the lucky practice.
 

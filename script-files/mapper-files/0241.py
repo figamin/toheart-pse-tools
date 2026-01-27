@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The first fence time is the break time.
 
-    ("轣顔で烽も洗って目を覚まそうと、洗面竃所へとｌかっていると、階段の前で、とんとん…と背白を叩かれた。",
+    ("轣顔でも洗って目を覚まそうと、洗面竃所へとｌかっていると、階段の前で、とんとん…と背白を叩かれた。",
     ""),
     # I was walking to the bathroom to wash the hot springs with my face and wake up, when I was in front of the stairs, I was criticized for a smack.
 
@@ -30,7 +30,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	…諱先﨎日はすみませんでしたって？	ははは、だから烽もういいって。あれはあれで楽しかったからさ」†",
+    ("「えっ？	…諱先﨎日はすみませんでしたって？	ははは、だからもういいって。あれはあれで楽しかったからさ」†",
     ""),
     # "Huh? ...I'm sorry for the day I went to the next day? Hahaha, so I thought it was okay. That was fun."†
 
@@ -46,7 +46,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「残念ですかって？	うーん、そうだなあ。正直言うと、ちょっと残念か烽もなあ」†",
+    ("「残念ですかって？	うーん、そうだなあ。正直言うと、ちょっと残念かもなあ」†",
     ""),
     # "Are you sorry? Hmm, that's right. To be honest, it's a shame, it's a shame, but there's no other Hot."†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "I understand. I'm looking forward to it."
 
-    ("オレが言うと、諱先輩は烽もう一度うなずいて、もとｗた廊下を烽歩いていった。◯",
+    ("オレが言うと、諱先輩はもう一度うなずいて、もとｗた廊下を歩いていった。◯",
     ""),
     # When I said to him, Senpai Nodded again and walked through the corridor where he had already been.◯
 

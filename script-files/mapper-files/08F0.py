@@ -2,7 +2,7 @@
 # Source file: 08F0.txt
 
 text_array = [
-    ("（戟レミィ	氏試験卲日帰闍り	ＰＳ）閨（テストヲの撃レミィが出ない冾日）閨（このイベントは、あかりとの勉強有り無しで≠メッセージの一蝿部が変化します）閨（廊下）閨（あかりと勉強無しの場㍼合の追加）†",
+    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（テストヲの撃レミィが出ない冾日）閨（このイベントは、あかりとの勉強有り無しで≠メッセージの一蝿部が変化します）閨（廊下）閨（あかりと勉強無しの場㍼合の追加）†",
     ""),
     # (The day after the test was returned to the day) (The day after the test was not fired) (This event will change one fly part of the message without having to study with Akari) (Carrior) (Additional lights and no study spaces) †
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # It means b to study in preparation for the subject of the sinning, but I think that I'm a break and a restriction time.
 
-    ("せいぜい有効に使寬わせて烽もら墲わねえと。†",
+    ("せいぜい有効に使寬わせてもらわねえと。†",
     ""),
     # I'll use it effectively and get some hot water.†
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # I was twisting my head and called out to me.
 
-    ("「、いっしょに帰汲」",
+    ("「、いっしょに帰」",
     ""),
     # "We'll return to the essay."
 
-    ("「お、戟レミィか。いいぜ」",
+    ("「お、レミィか。いいぜ」",
     ""),
     # "Oh, is it oh Remy? That's fine."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("「クラスのみんなで、戟血液型診断竰やってるの」",
+    ("「クラスのみんなで、血液型診断竰やってるの」",
     ""),
     # "Everyone at Celebration is doing a blood type diagnosis."
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "Well, it looks like it's phlegm."
 
-    ("「戟血液型診断、知ってる？」",
+    ("「血液型診断、知ってる？」",
     ""),
     # "Do you know about blood type diagnosis?"
 
-    ("「戟血液型…って、Ａ型はまじめとか、Ｂ型はながら族とかいうрヤツか？」",
+    ("「血液型…って、Ａ型はまじめとか、Ｂ型はながら族とかいうрヤツか？」",
     ""),
     # "Blood type...is A the one called serious blood type, or B the one called a tribe?"
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # You attack the blood type of your related player."†
 
-    ("「ふ〜ん…、お烽もしれえじ痰ゃねえか。オレの撃血液型、当ててみよ」",
+    ("「ふ〜ん…、おもしれえじ痰ゃねえか。オレの撃血液型、当ててみよ」",
     ""),
     # "Hmm... you can't get enough phlegm. Try brushing my intense blood type."
 
-    ("テストの話陂題鞫よりは、諱よっぽどお烽もしい。",
+    ("テストの話陂題鞫よりは、諱よっぽどおもしい。",
     ""),
     # It's much better than the test topic.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "oh"†
 
-    ("「あなたはｃー戟レイを信じますか？」",
+    ("「あなたはｃーレイを信じますか？」",
     ""),
     # "Do you believe in c-Ray?"
 
@@ -146,11 +146,11 @@ text_array = [
     ""),
     # B I don't believe in such a silly thing.Relax
 
-    ("Ｃ	信じねえけど、お烽もしれえよな。閨",
+    ("Ｃ	信じねえけど、おもしれえよな。閨",
     ""),
     # C I don't believe it, but it's okay.Relax
 
-    ("Ｄ	信じない墲わけじ痰ゃねえな。閨",
+    ("Ｄ	信じないわけじ痰ゃねえな。閨",
     ""),
     # D: There's no reason to believe it.Relax
 

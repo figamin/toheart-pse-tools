@@ -2,19 +2,19 @@
 # Source file: 08C8.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	寄闃り道２	ＬＶ３）閨（デートの約束がある場㍼合）閨（早書店）†",
+    ("（レミィ	回秤数イベント	寄闃り道２	ＬＶ３）閨（デートの約束がある場㍼合）閨（早書店）",
     ""),
-    # (Announcement of the Remy Scales Event: Visiting Road 2 LV3) (A place where there is a date promise) (A Hara Bookstore)†
+    # (Announcement of the Remy Scales Event: Visiting Road 2 LV3) (A place where there is a date promise) (A Hara Bookstore)
 
-    ("「Ｈ奄ｉ！	」",
+    ("「Ｈ奄！	」",
     ""),
     # "Hi Amai!"
 
-    ("戟レミィはオレに気づくと、にっこり手を振った。†",
+    ("レミィはオレに気づくと、にっこり手を振った。",
     ""),
-    # When Karemi noticed me, she smiled and waved.†
+    # When Karemi noticed me, she smiled and waved.
 
-    ("「諱よお、戟レミィ」",
+    ("「諱よお、レミィ」",
     ""),
     # "My name is, thief Remie."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "That's right."
 
-    ("彼濫女はオレがうなずく前に、",
+    ("彼女はオレがうなずく前に、",
     ""),
     # Before my throbbing nodded,
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Looks, listen, listen."
 
-    ("とオレの腕を引っ張った。†",
+    ("とオレの腕を引っ張った。",
     ""),
-    # He pulled my arm.†
+    # He pulled my arm.
 
     ("オレは｢｢。",
     ""),

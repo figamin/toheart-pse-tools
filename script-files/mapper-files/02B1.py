@@ -38,11 +38,11 @@ text_array = [
     ""),
     # Tw...
 
-    ("こいつがいる限り、ふたりは素直に汲結ばれそうにないぜ。†",
+    ("こいつがいる限り、ふたりは素直に結ばれそうにないぜ。†",
     ""),
     # As long as this guy is there, it seems unlikely that the two will be united.†
 
-    ("「なんだか繧後撃がうるさいからな。",
+    ("「なんだか後撃がうるさいからな。",
     ""),
     # "It's because the attacks after the scenes are noisy.
 
@@ -54,7 +54,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレは手を繧上げ、その場を獅去った。◯",
+    ("オレは手を上げ、その場を去った。◯",
     ""),
     # My heart lifted my hand and left the scene.◯
 

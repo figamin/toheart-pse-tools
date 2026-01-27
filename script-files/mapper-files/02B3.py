@@ -2,9 +2,9 @@
 # Source file: 02B3.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（選択綜Ｃ	また乗っけてくれよな）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（選択綜Ｃ	また乗っけてくれよな）",
     ""),
-    # (Seri°Kawa, Scales Event 1F LV2)Seri (Please take me on again)†
+    # (Seri°Kawa, Scales Event 1F LV2)Seri (Please take me on again)
 
     ("「また乗っけてくれよな」",
     ""),
@@ -22,19 +22,19 @@ text_array = [
     ""),
     # This huge present for the common people will be limited to this very moment."
 
-    ("車のなかでじじいが言った。†",
+    ("車のなかでじじいが言った。",
     ""),
-    # The old man said in the car.†
+    # The old man said in the car.
 
     ("ちっ。",
     ""),
     # Twice.
 
-    ("こいつがいる限り、ふたりは素直に汲結ばれそうにないぜ。†",
+    ("こいつがいる限り、ふたりは素直に結ばれそうにないぜ。",
     ""),
-    # As long as this guy is there, it seems unlikely that the two will be united.†
+    # As long as this guy is there, it seems unlikely that the two will be united.
 
-    ("「なんだか繧後撃がうるさいからな。",
+    ("「なんだか後撃がうるさいからな。",
     ""),
     # "It's because the attacks after the scenes are noisy.
 
@@ -46,7 +46,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレは手を繧上げ、その場を獅去った。◯",
+    ("オレは手を上げ、その場を去った。◯",
     ""),
     # My heart lifted my hand and left the scene.◯
 

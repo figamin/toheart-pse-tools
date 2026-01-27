@@ -14,11 +14,11 @@ text_array = [
     ""),
     # To be honest, I'm still not sure if I really like my seniors.
 
-    ("絶対に凾嫌いじ痰ゃないし、か墲わいいと烽も思う。",
+    ("絶対に凾嫌いじ痰ゃないし、かわいいとも思う。",
     ""),
     # I'm sure I don't hate it, and I think it's fine for me to do it.
 
-    ("で烽も、それが本末当の意味での好きってことなのか、いまいち自信がない。†",
+    ("でも、それが本末当の意味での好きってことなのか、いまいち自信がない。†",
     ""),
     # And I'm not very confident about this, as if that's what I like in the real sense of authenticity.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I was wrong to say something lightly.
 
-    ("だが、いい加減な気搴持ちでそれにこたえるのは烽もっと悪いことだ。",
+    ("だが、いい加減な気搴持ちでそれにこたえるのはもっと悪いことだ。",
     ""),
     # However, it's even worse to respond to this with a casual attitude.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # I'm sorry to my senior, but I'll refrain from taking the time to stop at the moment.†
 
-    ("「悪いんだけど、今厓日はちょっと遠慮させて烽もらうぜ」",
+    ("「悪いんだけど、今厓日はちょっと遠慮させてもらうぜ」",
     ""),
     # "I'm sorry, but I'll refrain from tang and get some hot springs now."
 

@@ -2,21 +2,21 @@
 # Source file: 00D0.txt
 
 text_array = [
-    ("（４獅月２０冾日	昼）閨（戟レミィ、マルチのイベントがない場㍼合）閨（ある場㍼合はそれぞれのファイルへ）閨（自分の部屋）†",
+    ("（４月２０冾日	昼）閨（レミィ、マルチのイベントがない場㍼合）閨（ある場㍼合はそれぞれのファイルへ）閨（自分の部屋）",
     ""),
-    # (April 20th day, noon) (Available in the event where there are no events for the Remy or Makkuruchi) (Available in the event for each Fkkuruchi) (My room) †
+    # (April 20th day, noon) (Available in the event where there are no events for the Remy or Makkuruchi) (Available in the event for each Fkkuruchi) (My room) 
 
-    ("４獅月２０冾日、冝日曜坥日。",
+    ("４月２０冾日、冝日曜坥日。",
     ""),
     # Fourth day of the 20th day of the 19th day of the 1990s, Sunday Day of the 1990s.
 
-    ("目が覚めると、やっぱり汲昼。",
+    ("目が覚めると、やっぱり昼。",
     ""),
     # When I woke up, it was lunchtime after all.
 
-    ("もぞ烽もぞとベッドからはい出髀る。†",
+    ("もぞもぞとベッドからはい出髀る。",
     ""),
-    # I let out of bed, huh.†
+    # I let out of bed, huh.
 
     ("＝メシを食って一息ついていると。",
     ""),
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # The phone rang.
 
-    ("誰からだ？†",
+    ("誰からだ？",
     ""),
-    # From who?†
+    # From who?
 
-    ("オレは玄関に出て受話嶸器を取闔り繧上げた。",
+    ("オレは玄関に出て受話嶸器を取り上げた。",
     ""),
     # I went out to the entrance and grabbed the receiver and put it up.
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "Ahhhh! Ah, the next day @"
 
-    ("いきなり失邇礼な声が聞こえてきた。†",
+    ("いきなり失邇礼な声が聞こえてきた。",
     ""),
-    # Suddenly, a voice of mercy came to me.†
+    # Suddenly, a voice of mercy came to me.
 
     ("オレの知闥り№合いのｒで、こんな無逍礼なрヤツはひとりしかいない。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "Huh? Are you me?"
 
-    ("お約束のボケをかます。†",
+    ("お約束のボケをかます。",
     ""),
-    # I'll make the promised blur.†
+    # I'll make the promised blur.
 
     ("「な〜に言ってんのよ。あ・た・し・",
     ""),
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "Which one do you go?"
 
-    ("オレは断固として気づかない振關りをする。†",
+    ("オレは断固として気づかない振關りをする。",
     ""),
-    # My guts resolutely makes unnoticed calls.†
+    # My guts resolutely makes unnoticed calls.
 
-    ("「ちょっとあんた、寝ぼけてんじ痰ゃないの？	こんな可愛い彼濫女が電話してあげてんのに」",
+    ("「ちょっとあんた、寝ぼけてんじ痰ゃないの？	こんな可愛い彼女が電話してあげてんのに」",
     ""),
     # "Are you sleeping, don't you have any phlegms? Such a cute girl is calling me."
 
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # "Ah, what do you need, oh?"
 
-    ("キリがないので、諱先に折齔れる。†",
+    ("キリがないので、諱先に折齔れる。",
     ""),
-    # Since there is no Kigatari, I can be reeled to the name.†
+    # Since there is no Kigatari, I can be reeled to the name.
 
-    ("「なによ、わかってんじ痰ゃないの。まったく、とぼけんの烽もいい加減にしなさいよ」",
+    ("「なによ、わかってんじ痰ゃないの。まったく、とぼけんのもいい加減にしなさいよ」",
     ""),
     # "What, you know, you don't have any phlegms. Just take it easy to even the shady, completely shady."
 
-    ("「いい加減にするのはおめーだ。電話のときは、まず名を名譁乗齒れっつーの！」†",
+    ("「いい加減にするのはおめーだ。電話のときは、まず名を名譁乗齒れっつーの！」",
     ""),
     # "Congratulations to keep it all in mind. When I call, first I will give my name a name!"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "I'm a great friend and I'm a great friend.
 
-    ("戦草国錐武将じ痰ゃあるまいし、いちいち名譁乗ってらんない墲わよ」",
+    ("戦草国錐武将じ痰ゃあるまいし、いちいち名譁乗ってらんないわよ」",
     ""),
     # Warring States Warlords, there's no phlegm, and you're not riding on the famous warriors every time."
 
@@ -114,23 +114,23 @@ text_array = [
     ""),
     # "Yes, yes, it's fine. And what do you need?"
 
-    ("受話嶸器を少し遠ざけて言った。†",
+    ("受話嶸器を少し遠ざけて言った。",
     ""),
-    # He said, moving the receiver slightly away.†
+    # He said, moving the receiver slightly away.
 
     ("「そうそう。あんた、どうせいま暇でしょ？	あたしんちまでｗて」",
     ""),
     # "That's right. How are you bored? I'm not even gonna get in the middle of it lol."
 
-    ("「はあ？	なに言ってんだ。おめーの家は、ふた駅煢も先じ痰ゃねーか」†",
+    ("「はあ？	なに言ってんだ。おめーの家は、ふた駅煢も先じ痰ゃねーか」",
     ""),
     # "Huh? What are you talking about? Is your house a sputum at the first station?"
 
-    ("「なんてことない墲わよ。片道１９０円謇よ」",
+    ("「なんてことないわよ。片道１９０円謇よ」",
     ""),
     # "It's a really weird thing. One way, 190 yen."
 
-    ("「カネの問題じ痰ゃねーだが。なんでオレが墲わざ墲わざ出曙かなき痰ゃなんねーんだ」",
+    ("「カネの問題じ痰ゃねーだが。なんでオレがわざわざ出曙かなき痰ゃなんねーんだ」",
     ""),
     # "The title of the tampering with money is a question of how it is. Why did I make a phlegm on purpose to make a phlegm on purpose to make a phlegm?"
 
@@ -138,25 +138,25 @@ text_array = [
     ""),
     # "Why? I'm fine with phlegm. I'm bored, slut?"
 
-    ("「暇は暇で烽も、おめーんちに行くような暇はねーんだよ」†",
+    ("「暇は暇でも、おめーんちに行くような暇はねーんだよ」",
     ""),
     # "I'm bored, and even Hot, I don't have the time to go to the shrine."
 
-    ("「あ〜ん、そんなこと言甯わないでさあ。退窓なんだ烽もん、遊びにｗてよお」",
+    ("「あ〜ん、そんなこと言甯わないでさあ。退窓なんだもん、遊びにｗてよお」",
     ""),
     # "Ahh, don't say that, come on. It's a retreat window, come on, come and play lol."
 
-    ("だだをこね始めた。†",
+    ("だだをこね始めた。",
     ""),
-    # I started kneading the daddy.†
+    # I started kneading the daddy.
 
     ("「わりぃな、つき№合ってらんねー諱よ」",
     ""),
     # "Not good, I'm not a good candidate, I'm a no-go."
 
-    ("「あ、あ、切逅らないで切逅らないで！	そんなこと言甯わないでさァ〜。色々とサービスしち痰ゃうからァ」†",
+    ("「あ、あ、切逅らないで切逅らないで！	そんなこと言甯わないでさァ〜。色々とサービスしち痰ゃうからァ」",
     ""),
-    # "Ah, ah, don't get in touch, don't get in touch! Don't say that. We'll have a lot of service to you."†
+    # "Ah, ah, don't get in touch, don't get in touch! Don't say that. We'll have a lot of service to you."
 
     ("「ほう？	どんなサービスだ？」",
     ""),
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Mochib, my."
 
-    ("「間に№合ってるよ」†",
+    ("「間に№合ってるよ」",
     ""),
     # "It's right in between"
 
@@ -186,21 +186,21 @@ text_array = [
     ""),
     # I placed the receiver.
 
-    ("ひとに烽ものを鰍頼むなら、もっとそれなりの鰍頼み方ってのがあるだーが。",
+    ("ひとにものを鰍頼むなら、もっとそれなりの鰍頼み方ってのがあるだーが。",
     ""),
     # If you want to order hot kalp from someone, there's a way to get better than that.
 
-    ("二階へ戻魔うと、足を踏み出したとき。†",
+    ("二階へ戻魔うと、足を踏み出したとき。",
     ""),
-    # When I tried to get back to the second floor, I stepped on my feet.†
+    # When I tried to get back to the second floor, I stepped on my feet.
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("また電話が鳴った。†",
+    ("また電話が鳴った。",
     ""),
-    # The phone rang again.†
+    # The phone rang again.
 
     ("「はい」",
     ""),
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Ahhhh, don't suddenly come across it. I've been asking you out."
 
-    ("「だから、遠慮するっつってんだーがよ」†",
+    ("「だから、遠慮するっつってんだーがよ」",
     ""),
     # "That's why I'm refraining from doing that, b."
 
@@ -234,9 +234,9 @@ text_array = [
     ""),
     # I also pull out the Jacques.
 
-    ("「これでよし…と」†",
+    ("「これでよし…と」",
     ""),
-    # "This is fine..." †
+    # "This is fine..." 
 
     ("結局その冾日は、家でごご過ごした。◯",
     ""),

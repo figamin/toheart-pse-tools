@@ -2,7 +2,7 @@
 # Source file: 08BC.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	学校外１）閨（校蜊門２）†",
+    ("（レミィ	回秤数イベント	学校外１）閨（校門２）†",
     ""),
     # (Gakuremi Scales Event Outside School 1) (School Gate 2)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "This is... my husband."
 
-    ("彼濫女は何竕やらおかしな口調で近づいてきた。†",
+    ("彼女は何竕やらおかしな口調で近づいてきた。†",
     ""),
     # The girl approached with a strange tone of luck.†
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # I didn't think about it and ended up yelling me out.
 
-    ("「お前…£葬国鼾語、うまいな…」†",
+    ("「お前…葬国鼾語、うまいな…」†",
     ""),
-    # "You... £Funeral Kongo, you're good..."
+    # "You... Funeral Kongo, you're good..."
 
     ("「真面目な顔して、なに言ってんのよ。あんた、ノーミソが鳥並ね」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Oh, shut up! Because you're saying something bad that's hard to be honest."
 
-    ("「つべこべ言甯わないの。『沈將魚視落蝸雁閉歯月羞花』…あんた烽も言ってみて」",
+    ("「つべこべ言甯わないの。『沈將魚視落蝸雁閉歯月羞花』…あんたも言ってみて」",
     ""),
     # "You're not saying anything. 'She looks at the fish, fallen cochlea, closes the moon's ooze,' so you should also tell me."
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "Why?"
 
-    ("「＝早くぅ！	さっさと言甯わないと、蛛大声出す墲わよ」",
+    ("「＝早くぅ！	さっさと言甯わないと、蛛大声出すわよ」",
     ""),
     # "= Quick! If you don't say it quickly, you'll scream out loud."
 
-    ("なんだかよく墲わからない脅し文蝠句で、志保は翌迫ってきた。",
+    ("なんだかよくわからない脅し文蝠句で、志保は翌迫ってきた。",
     ""),
     # Shiho was approaching the next day with a threatening sentence that he didn't really understand.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "teeth?"†
 
-    ("「沈將魚視落蝸雁閉歯月羞花…。志保ち痰ゃんの、あまりのｔしさに、宦魚は沈み、鳥のカリは獅落ち、氏月煬も隠皷れ、花煢もしぼんでしまうって意味の、古い言葉譌よ」",
+    ("「沈將魚視落蝸雁閉歯月羞花…。志保ち痰ゃんの、あまりのｔしさに、宦魚は沈み、鳥のカリは落ち、氏月煬も隠皷れ、花煢もしぼんでしまうって意味の、古い言葉譌よ」",
     ""),
     # "The old words mean that the fish are shining and the cattle goose close to the moon... The fish are so terribly grove that it sinks, the bird's lion falls, and the moonfish are hidden, and the flowerfish also fades away."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "What is it phlegm? Is it a Japanese petite??"
 
-    ("なんだか知迺らないが、こいつ、戟レミィみたいなこと言ってるぜ。†",
+    ("なんだか知迺らないが、こいつ、レミィみたいなこと言ってるぜ。†",
     ""),
     # It's kind of unfamiliar, but this guy is saying something like War Remi.†
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Ah... There's no word that's something you could have for me."
 
-    ("歌うように言って、志保は獅去っていった。",
+    ("歌うように言って、志保は去っていった。",
     ""),
     # He told him to sing, and Shiho lioned away.
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # "fool"
 
-    ("志保の消えた方に呟いて、オレは烽歩き出した。◯",
+    ("志保の消えた方に呟いて、オレは歩き出した。◯",
     ""),
     # I muttered to Shiho's disappearance of Fukukata, and my ecstasy started walking around.◯
 
-    ("「あっ、戟レミィだ…」",
+    ("「あっ、レミィだ…」",
     ""),
     # "Ah, it's Remy..."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # At the onshore bath on the hill, I saw Geki Remy walking long ago.
 
-    ("彼濫女だけは、遠くて烽も見分けはつく。",
+    ("彼女だけは、遠くても見分けはつく。",
     ""),
     # Only the woman who is far away can tell the difference between her and her heart.
 

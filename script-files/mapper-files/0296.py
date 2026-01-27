@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Elementary school student B, the girls who often went to the end of the holiday were off and they were doing silly after the school breaks and the school was sulking.
 
-    ("コックリさんという、キツネだったかなんだかのｗを呼び出して、お垂告げして烽もらおうという一妤種の占いゲームだ。†",
+    ("コックリさんという、キツネだったかなんだかのｗを呼び出して、お垂告げしてもらおうという一種の占いゲームだ。†",
     ""),
     # It's a fortune-telling game called Kokugatari, where you can call out to someone who's a fox or something, and tell them to him and get him a hot topic.†
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # If it were you with your senior name, I would like to try tampering with you.†
 
-    ("用意したのはさっきのｎと、п割闃りばし三本をク鴻ロスさせたような烽もの。",
+    ("用意したのはさっきのｎと、п割闃りばし三本をク鴻ロスさせたようなもの。",
     ""),
     # What I prepared was a hot dish that looked like the n mentioned earlier and three п-splitting spurts.
 
-    ("これを揩持って質竡問するそうな。",
+    ("これを持って質竡問するそうな。",
     ""),
     # It seems they will take this and ask questions.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Well, there's a way to tamper with it.†
 
-    ("諱先輩は、北喧東（つまり鬼蜍門の方角）の汲窓を１０センチほど開けた。",
+    ("諱先輩は、北喧東（つまり鬼蜍門の方角）の窓を１０センチほど開けた。",
     ""),
     # Senpai opened the window in Kita-Hen-East (that is, the Fuku direction of the Ki-Ji-Gate) about 10 cm wide.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # The next breeze came in, and the dark curtains in the room shaking in shaking.†
 
-    ("ひととおり準備が終尞わると、オレと先輩は机をはさんでｌかい№合って座闕り、瘁例の三本のр割闃りばしを揩持って手を握った。",
+    ("ひととおり準備が終尞わると、オレと先輩は机をはさんでｌかい№合って座闕り、瘁例の三本のр割闃りばしを持って手を握った。",
     ""),
     # Once all the preparations were complete, my senior and I sat down at my desk, and held my hand with three slashes of twilight.
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # Senpai's hands were thin and smooth.†
 
-    ("オレは『さに墲わ』というコックリさんへの質竡問役、諱先輩は『みこ』役で、コックリさんは先輩にのりうつるらしい。",
+    ("オレは『さにわ』というコックリさんへの質竡問役、諱先輩は『みこ』役で、コックリさんは先輩にのりうつるらしい。",
     ""),
     # The role of the role of Kokugatari's "Sanitama" is to play the role of Kokugatari's quality, while the character Senior will play the role of Miko, and the character of Kokugatari will be playing the role of Kokugatari's senpai to his senior.
 
-    ("本沫は烽もうひとり記録係がいるらしいけど、はしょって烽もいいらしい。",
+    ("本沫はもうひとり記録係がいるらしいけど、はしょってもいいらしい。",
     ""),
     # Apparently there is another recorder for the Honpo, but it seems that the hot splash and hot splash are also good.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # My senior and I began to pray.
 
-    ("＝普通ならとて烽もマジにはできないこと烽も、この部室の雰囲気と、き墲わめて真武剣な先輩の表﨣情を見ていると、ついついその気になってくる。†",
+    ("＝普通ならとてもマジにはできないことも、この部室の雰囲気と、きわめて真武剣な先輩の表﨣情を見ていると、ついついその気になってくる。†",
     ""),
     # = Normally, even Hou could not really be a real deal, but as I watched the atmosphere of this club room and the public feelings of the extremely Shinbu Senpai Senpai, I couldn't help but feel that way.†
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # After tampering with it several times...†
 
-    ("ひ繧ゅーーー…。",
+    ("ひゅーーー…。",
     ""),
     # Ahhhh...
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # ≠.†
 
-    ("「おお、サンパウ鴻ロから？	しかしその墲わりには冾日本齧語が墲わかるんですね」",
+    ("「おお、サンパウ鴻ロから？	しかしそのわりには冾日本齧語がわかるんですね」",
     ""),
     # "Oh, from Sao Paulo? But for that, you can understand Japanese rodents."
 
@@ -426,11 +426,11 @@ text_array = [
     ""),
     # Is it phlegm your senior moves?
 
-    ("いや、で烽も、もしそうだとして烽も、それはそれで嬉しいぞ。†",
+    ("いや、でも、もしそうだとしても、それはそれで嬉しいぞ。†",
     ""),
     # It's a mess, and even if it's the case, it's nice to see it.†
 
-    ("「…コックリさん、今厓日はどう烽もありがとうございました。これにてお帰闍りください」",
+    ("「…コックリさん、今厓日はどうもありがとうございました。これにてお帰闍りください」",
     ""),
     # "...Kokkatali-san, thank you so much for the day you've just got there. Please come back here."
 

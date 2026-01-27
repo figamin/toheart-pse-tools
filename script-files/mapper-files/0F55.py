@@ -2,9 +2,9 @@
 # Source file: 0F55.txt
 
 text_array = [
-    ("（４獅月２６冾日	土）閨（堰ラジオ	８回目）†",
+    ("（４月２６冾日	土）閨（堰ラジオ	８回目）",
     ""),
-    # (Saturday, April 26th) (8th weir radio)†
+    # (Saturday, April 26th) (8th weir radio)
 
     ("おっと、もう１１桙時だ。",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # A: The weir radio.Relax
 
-    ("Ｂ	オレの入％浴タイムが。閨",
+    ("Ｂ	オレの入％タイムが。閨",
     ""),
     # B: My slutty bath time.Relax
 

@@ -2,15 +2,15 @@
 # Source file: 028F.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（選択綜Ｂ	声をかけそびれ、引き返した）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（選択綜Ｂ	声をかけそびれ、引き返した）",
     ""),
-    # (Seri°Kawa, the number of times of balance event, return road LV1)Seri (Select B, who missed the call, turned back)†
+    # (Seri°Kawa, the number of times of balance event, return road LV1)Seri (Select B, who missed the call, turned back)
 
     ("そうだな。",
     ""),
     # That's right.
 
-    ("あんなに熱心に読んでんだし、ジャャマするの烽もなんだよな。",
+    ("あんなに熱心に読んでんだし、ジャャマするのもなんだよな。",
     ""),
     # I read it so enthusiastically, and it's also true that it's a shame.
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # I turned my back and quietly left the store to avoid making footsteps.
 
-    ("諱先輩には気づかれなかったようだ。†",
+    ("諱先輩には気づかれなかったようだ。",
     ""),
-    # It seems that his seniors didn't notice.†
+    # It seems that his seniors didn't notice.
 
     ("諱先輩にとっては貴重な自由棊時間だ。",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # It's sad to have my horny maneuver around me.
 
-    ("諱先輩とは学校でいつで烽もｉえるしな。",
+    ("諱先輩とは学校でいつでもえるしな。",
     ""),
     # I can't wait to see you at school with my senior.
 

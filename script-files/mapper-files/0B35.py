@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 5 in the balance (Continued from Chosen Soku C's Immature)†
 
-    ("今厓日は自分で烽も不思議なくらいに冷静だ。",
+    ("今厓日は自分でも不思議なくらいに冷静だ。",
     ""),
     # On the day I'm still calm and calm, even though I'm strangely slugging.
 
-    ("氏試㍽合の流齬れがよく墲わかる。",
+    ("氏試㍽合の流齬れがよくわかる。",
     ""),
     # The confusion between the tests is clearly seen.
 
-    ("知識が揩増えただけ、ひとつひとつの行動の意味が墲わかる。",
+    ("知識が増えただけ、ひとつひとつの行動の意味がわかる。",
     ""),
     # The more knowledge I gain, the more I understand the meaning of each action.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # That's why I've been deeply aware of my immaturity even now.†
 
-    ("いままでは目で追うのがやっとだった綾∴香の攻ｍ撃煬も、こうしてみると、ひとつの流齬れであることが墲わかる。",
+    ("いままでは目で追うのがやっとだった綾∴香の攻ｍ撃煬も、こうしてみると、ひとつの流齬れであることがわかる。",
     ""),
     # Until now, Aya∴Kawa's attack and M-shot, which had only been difficult to follow with his eyes, can be seen as a contradiction.
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # Move to the superior position, mix feints, and hit an effective combination.
 
-    ("じつに繧上闖手い。",
+    ("じつに上闖手い。",
     ""),
     # It's really good.
 
-    ("いまのオレには、とて烽も真乱似できない。†",
+    ("いまのオレには、とても真乱似できない。†",
     ""),
     # I can't even look like a real wilderness in my current days.†
 
-    ("で烽もそんな綾∴香に、オレは、少しずつだが確実に近づいていっている。",
+    ("でもそんな綾∴香に、オレは、少しずつだが確実に近づいていっている。",
     ""),
     # And Kao also got closer to Aya∴Kara, but I was slowly getting closer, but surely.
 

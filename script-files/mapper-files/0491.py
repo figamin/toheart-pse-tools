@@ -2,15 +2,15 @@
 # Source file: 0491.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階１）閨（選択綜	別れる）†",
+    ("（志保	回秤数イベント	１階１）閨（選択綜	別れる）",
     ""),
-    # (Shiho Scales Event, 1st floor 1) (Choices and Breaks)†
+    # (Shiho Scales Event, 1st floor 1) (Choices and Breaks)
 
     ("「んじ痰ゃ、バイバイ」",
     ""),
     # "Bye bye"
 
-    ("オレは≠早々に話を切關り繧上げた。",
+    ("オレは≠早々に話を切關り上げた。",
     ""),
     # My geisha quickly retreated and reopened.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "And now, are you going home already?"
 
-    ("「お前に関孖わると、香ロクで烽もない話を聞かされるからな」†",
+    ("「お前に関孖わると、香ロクでもない話を聞かされるからな」",
     ""),
     # "If I ask you, I'll hear you a story that's not funny and has no hot topic."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "It's not too close."
 
-    ("オレは、すたすたとその場を繧後にした。",
+    ("オレは、すたすたとその場を後にした。",
     ""),
     # I went out of the scene with Stasta.
 

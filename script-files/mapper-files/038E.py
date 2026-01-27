@@ -2,7 +2,7 @@
 # Source file: 038E.txt
 
 text_array = [
-    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（４獅月）閨（好感度イベント８を見たかどうかで分岐する）閨（階段）†",
+    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（４月）閨（好感度イベント８を見たかどうかで分岐する）閨（階段）†",
     ""),
     # (Tomoko Scales Event 2F LV1) Sil (4 Shizuki) Sil (Breaks depending on whether you saw the Likeability Event 8) Silence (Stairs)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Kaji Ai Henzaki is alone, not alone.
 
-    ("Ａ	いっしょに帰汲うぜと誘う。閨",
+    ("Ａ	いっしょに帰うぜと誘う。閨",
     ""),
     # A. I invite them to return to the Ebi.Relax
 

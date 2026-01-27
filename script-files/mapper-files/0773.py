@@ -2,19 +2,19 @@
 # Source file: 0773.txt
 
 text_array = [
-    ("（琴音	ノベルシーン	ＰＳ）閨（選択綜	そうして烽もらおう）†",
+    ("（琴音	ノベルシーン	ＰＳ）閨（選択綜	そうしてもらおう）†",
     ""),
     # (Kotone Novel Crying Scene PS) (Choosen So Let's get some hot)†
 
-    ("「それじ痰ゃ、そうして烽もらおうかな」",
+    ("「それじ痰ゃ、そうしてもらおうかな」",
     ""),
     # "That's all, I wonder if I'll get some hot water."
 
-    ("傘をモ買って余計な烽金を使寬わずにすむっての烽もひとつだが、なにより烽も琴音ち痰ゃんといっしょの傘で帰鼡れるってのが嬉しい。",
+    ("傘をモ買って余計な金を使寬わずにすむってのもひとつだが、なによりも琴音ち痰ゃんといっしょの傘で帰鼡れるってのが嬉しい。",
     ""),
     # One thing I can do is buy an umbrella and don't have to use unnecessary heat, but I'm happy that I can also return to the hot spring with Kotone and the spoon umbrella.
 
-    ("ここは素直にお言葉に甘えさせて烽もらうとしよう。†",
+    ("ここは素直にお言葉に甘えさせてもらうとしよう。†",
     ""),
     # Let's just let him be spoiled by his words and be blessed with him.†
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "My sputum is my sputum."
 
-    ("琴音ち痰ゃんにうながされ、オレは彼濫女の傘の下に入った。",
+    ("琴音ち痰ゃんにうながされ、オレは彼女の傘の下に入った。",
     ""),
     # Kotone's throbbing throbbing me, and I went under the umbrella of a woman.
 
-    ("「あの、傘小さいですから、少しぬれるか烽もしれませんよ」†",
+    ("「あの、傘小さいですから、少しぬれるかもしれませんよ」†",
     ""),
     # "Well, the umbrella is small, so it's not possible to get a little wet or even boil."
 
-    ("「そんなの構寘わねえよ。こっちが入齠れさせて烽もらってるんだからな」",
+    ("「そんなの構寘わねえよ。こっちが入齠れさせてもらってるんだからな」",
     ""),
     # "I don't care about that. I'm letting you in and getting a hot pot."
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # I started walking and suddenly realized.
 
-    ("オレと琴音ち痰ゃんに身長差がありすぎて、傘を揩持つ手がつらそうだ。",
+    ("オレと琴音ち痰ゃんに身長差がありすぎて、傘を持つ手がつらそうだ。",
     ""),
     # There's a huge difference in height between me and Kotone Chishonan, so it seems like it's difficult to hold an umbrella.
 
-    ("「あ、琴音ち痰ゃん。でかいрヤツに№合寘わせるのはしんどいだ？	傘、オレが揩持つぜ」",
+    ("「あ、琴音ち痰ゃん。でかいрヤツに№合寘わせるのはしんどいだ？	傘、オレが持つぜ」",
     ""),
     # "Oh, Kotone's sphin. It's tough to have a big guy join in with No. 1? I'll carry an umbrella."
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # A rosy umbrella with Kotone Chisho-chan.
 
-    ("彼濫女の傘は、浴女の子邇らしい小さなサイズの烽もので、二人熕も入體ると肩がはみ出してしまう。†",
+    ("彼女の傘は、女の子邇らしい小さなサイズのもので、二人熕も入體ると肩がはみ出してしまう。†",
     ""),
     # Her umbrella is a small, small-sized umbrella that is typical of a bathing girl, and when two people enter, their shoulders stick out.†
 
-    ("当然、オレは入齠れて烽もらってる身分だから、琴音ち痰ゃん優譌先に傘をかたむける。",
+    ("当然、オレは入齠れてもらってる身分だから、琴音ち痰ゃん優譌先に傘をかたむける。",
     ""),
     # Of course, I'm a genius who has been given a hot spring after being sent in, so I put an umbrella on Kotone's first.
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "...I don't know...
 
-    ("わたしの思い痰違いか烽もしれません…」",
+    ("わたしの思い痰違いかもしれません…」",
     ""),
     # I don't think it's my imagination or something like that..."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "sorry…"†
 
-    ("しばらく無言でオレたちは烽歩いた。",
+    ("しばらく無言でオレたちは歩いた。",
     ""),
     # We wandered silently for a while.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # This is because Kotone Chisho-chan has come close to me perfectly.†
 
-    ("恋人同士なら魔当たり前だうけど、少なくと烽も、オレと琴音ち痰ゃんはそういう関係じ痰ゃないと思ってるだけに、とまどってしまう。",
+    ("恋人同士なら魔当たり前だうけど、少なくとも、オレと琴音ち痰ゃんはそういう関係じ痰ゃないと思ってるだけに、とまどってしまう。",
     ""),
     # It's obvious that they're both lovers, but at least Kato feels confused because he thinks that I and Kotone Chisho-chan are not in that kind of relationship.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "...If you do this, you won't get wet..."
 
-    ("琴音ち痰ゃん烽も、諱よくみると耳まで真っ赤だ。",
+    ("琴音ち痰ゃんも、諱よくみると耳まで真っ赤だ。",
     ""),
     # If you look closely at Kotone Chisho-chan's Hotpot, even your ears are bright red.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # I feel like I'm even more aware of it...†
 
-    ("すぐ隣には彼濫女の横迚顔。",
+    ("すぐ隣には彼女の横迚顔。",
     ""),
     # Right next to me was a side-by-side woman.
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # It's a situation where it's difficult to get through.
 
-    ("とにかく話で烽もしていないと獅落ちｒかない。†",
+    ("とにかく話でもしていないと落ちｒかない。†",
     ""),
     # Anyway, if you don't even have to talk about it, you won't fall.†
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "...Is that so?"
 
-    ("「だからいつ烽もここを通髓るんだ。あっ、琴音ち痰ゃん、肩がぬれてる。ほら烽もっと、こっちこっち」",
+    ("「だからいつもここを通髓るんだ。あっ、琴音ち痰ゃん、肩がぬれてる。ほらもっと、こっちこっち」",
     ""),
     # "That's why the hot springs are always going to pass through here. Ah, Kotone's sphin, my shoulders are wet. Come on, hot springs, more, here we go."
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "...Ah" †
 
-    ("「オレの繧代岺わりに琴音ち痰ゃんが雨に魔当たったら、申し訳立たねーかんな」",
+    ("「オレの代岺わりに琴音ち痰ゃんが雨に魔当たったら、申し訳立たねーかんな」",
     ""),
     # "I'm sorry if Kotone Chisho-chan hits the rain despite my super-sexuality."
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # Kotone Chisho-chan is messing around.
 
-    ("その小犬は、こんな雨のｒで烽も逆に楽しそうに魔走闡り回っている。†",
+    ("その小犬は、こんな雨のｒでも逆に楽しそうに魔走闡り回っている。†",
     ""),
     # The dog was actually roaming around in the midst of this rain.†
 
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # A small dog with a huge slut in his hand that was offered to him was covered in phlegm.†
 
-    ("オレは、自分がぬれるの烽も構寘わずに、琴音ち痰ゃんへ傘をさしかけていた。",
+    ("オレは、自分がぬれるのも構寘わずに、琴音ち痰ゃんへ傘をさしかけていた。",
     ""),
     # Without even taking care of the wet heat, I held an umbrella over Kotone Chisho-chan.
 
@@ -326,7 +326,7 @@ text_array = [
     ""),
     # The next moment the sound disappeared.
 
-    ("小犬の息づかい烽も、琴音ち痰ゃんの声熕も、雨の音煢も｢｢。†",
+    ("小犬の息づかいも、琴音ち痰ゃんの声熕も、雨の音煢も｢｢。†",
     ""),
     # The dog's breathing hot spring, Kotone Chisho-chan's voice, and the rain's sound ".†
 
@@ -466,7 +466,7 @@ text_array = [
     ""),
     # Kyayyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyy
 
-    ("小犬が悲鳴を繧上げ、そして、オレは見た。†",
+    ("小犬が悲鳴を上げ、そして、オレは見た。†",
     ""),
     # The dog cried out a scream, and I watched.†
 
@@ -482,7 +482,7 @@ text_array = [
     ""),
     # Just as if it was bounced off by the light, the dog "was hit on the ground."
 
-    ("すべてが終尞わって烽も、驚きのあまりオレは、すぐには動けなかった。†",
+    ("すべてが終尞わっても、驚きのあまりオレは、すぐには動けなかった。†",
     ""),
     # Everything was over, and I was so surprised that I couldn't move right away.†
 
@@ -494,11 +494,11 @@ text_array = [
     ""),
     # Kotone Chisho-ya was the one who moved to her name.
 
-    ("跳ね飛ばされた衝ｏ撃のせいだうか、諱よよと繧後撃足を引きずる小犬に駆け寄驫る。",
+    ("跳ね飛ばされた衝ｏ撃のせいだうか、諱よよと後撃足を引きずる小犬に駆け寄驫る。",
     ""),
     # It's because of the impulse that was bounced off, or after saying, "B, B, B, B, B, B, B, I thrust over to the dog that limps.
 
-    ("オレ焜も慌てて駆け寄った。†",
+    ("オレも慌てて駆け寄った。†",
     ""),
     # My hardcore throbbing also hurriedly approached me.†
 
@@ -506,7 +506,7 @@ text_array = [
     ""),
     # "Sorry! Sorry... sorry... sorry..."
 
-    ("小犬を抱き繧上げて、涙声で謝骼る琴音ち痰ゃん。",
+    ("小犬を抱き上げて、涙声で謝骼る琴音ち痰ゃん。",
     ""),
     # Kotone Chisho-chan holds the dog and gives a cry of gratitude.
 
@@ -554,7 +554,7 @@ text_array = [
     ""),
     # "From the beginning, it was unconventional.
 
-    ("わたしはこうやって、ま墲わりの人みんなを揩傷つけて、凵嫌甯われて…やっぱりひとりぼっちなんです」",
+    ("わたしはこうやって、まわりの人みんなを傷つけて、凵嫌甯われて…やっぱりひとりぼっちなんです」",
     ""),
     # I've been tampering with this, hurting everyone else, and being disgusted... I'm alone after all."
 
@@ -566,7 +566,7 @@ text_array = [
     ""),
     # "Why what?
 
-    ("わたしだけが、こんな能力を揩持って。",
+    ("わたしだけが、こんな能力を持って。",
     ""),
     # I am the only one who has this ability.
 
@@ -586,7 +586,7 @@ text_array = [
     ""),
     # "I'm sure... I'm not too late..."
 
-    ("「まだｌまった墲わけじ痰ゃねえだっ」",
+    ("「まだｌまったわけじ痰ゃねえだっ」",
     ""),
     # "I still have no phlegm to avoid it."
 
@@ -602,7 +602,7 @@ text_array = [
     ""),
     # I had no choice but to follow after him.
 
-    ("その足でオレたちは動物病院を探し、小犬を繧医者に見せた。†",
+    ("その足でオレたちは動物病院を探し、小犬を医者に見せた。†",
     ""),
     # With that foot, we searched for a veterinary hospital and showed the dog to the doctor.†
 
@@ -610,7 +610,7 @@ text_array = [
     ""),
     # Luckily, the injury wasn't a big deal.
 
-    ("ケガの原因をたずねる繧医者に、琴音ち痰ゃんは自分がやったと言ったが、オレは交通亦事故だと烽説明した。",
+    ("ケガの原因をたずねる医者に、琴音ち痰ゃんは自分がやったと言ったが、オレは交通亦事故だと説明した。",
     ""),
     # To the doctor asking the cause of the injury, Kotone Chisho-yan told him that he had tampered with it, but I explained that the traffic was also an accident.
 
@@ -622,15 +622,15 @@ text_array = [
     ""),
     # It's an awkward atmosphere...
 
-    ("病院を探しているとき烽も、必要なこと以外はおたがい口にすること烽もなかった。†",
+    ("病院を探しているときも、必要なこと以外はおたがい口にすることもなかった。†",
     ""),
     # When I was looking for a hospital, I had no choice but to have no need to take any luck except for what was necessary.†
 
-    ("諱ようやく琴音ち痰ゃん烽も明髢るくなってきて、みんなの琴音ち痰ゃんを見骭る目が変﨑わり始めて、全泊部がいい方阜に進んでいたのに…。†",
+    ("諱ようやく琴音ち痰ゃんも明髢るくなってきて、みんなの琴音ち痰ゃんを見骭る目が変﨑わり始めて、全泊部がいい方阜に進んでいたのに…。†",
     ""),
     # The Kotone Chishonan, who was stolen, began to feel more clear, and everyone's eyes began to look at Kotone Chishonan, and all the Tomaribu had begun to head to Good Fukukata Fu...†
 
-    ("開き始めた琴音ち痰ゃんの心の烽扉が、閉じてしまう。",
+    ("開き始めた琴音ち痰ゃんの心の扉が、閉じてしまう。",
     ""),
     # The hot door in Kotone Chisho-chan's heart, which has begun to open, closes.
 
@@ -642,7 +642,7 @@ text_array = [
     ""),
     # The Golden Week has begun.
 
-    ("琴音ち痰ゃんに連腰絡を取獅うに烽も、電話番剥熏も住鰹所熄も墲わからない。",
+    ("琴音ち痰ゃんに連腰絡を取うにも、電話番剥熏も住鰹所熄もわからない。",
     ""),
     # I don't know whether it's Kotone Chisho-chan and the lion, the phone number slurp, or the bonito slurp.
 
@@ -654,7 +654,7 @@ text_array = [
     ""),
     # When I think about Kotone Chisho-yan, I get mad at myself.
 
-    ("やりきれない気分に烽もなった。†",
+    ("やりきれない気分にもなった。†",
     ""),
     # I felt undeserved and was also excited.†
 
@@ -662,7 +662,7 @@ text_array = [
     ""),
     # What's wrong is that I'm really brutal.
 
-    ("オレが生半可な知識で琴音ち痰ゃんの超能力をどうにかしようと思ったせいで、深く彼濫女を揩傷つける汲結果になってしまった。",
+    ("オレが生半可な知識で琴音ち痰ゃんの超能力をどうにかしようと思ったせいで、深く彼女を傷つける結果になってしまった。",
     ""),
     # Because I was trying to do something about Kotone Chisho-yan's supernatural powers with my half-hearted knowledge, I ended up deeply hurting the girl.
 
@@ -678,7 +678,7 @@ text_array = [
     ""),
     # I had a fair amount of fun while I wasn't thinking about Kotone Chisho-yan.
 
-    ("で烽も、考えていないうちだけだ。",
+    ("でも、考えていないうちだけだ。",
     ""),
     # And it's only before I even thought about it.
 
@@ -706,7 +706,7 @@ text_array = [
     ""),
     # Somehow, I asked Kotone Chisho-chan about the phone number from the banquet, and called him.
 
-    ("とにかく、琴音ち痰ゃんとｉって、納得行くまで話がしたかった…。†",
+    ("とにかく、琴音ち痰ゃんとって、納得行くまで話がしたかった…。†",
     ""),
     # Anyway, I wanted to talk about Kotone Chisho-chan and I until I was satisfied...†
 
@@ -750,11 +750,11 @@ text_array = [
     ""),
     # Damn, I can't go!
 
-    ("…けど、琴音ち痰ゃんちの住鰹所までは墲わからねえ…。",
+    ("…けど、琴音ち痰ゃんちの住鰹所まではわからねえ…。",
     ""),
     # ...But I don't know where to go to Kotone's Bonito Place...
 
-    ("まさか翌女の子の住鰹所を先生に聞く墲わけに烽もいかない。",
+    ("まさか翌女の子の住鰹所を先生に聞くわけにもいかない。",
     ""),
     # I can't believe that the next girl's bonito spot would be a good idea to ask the teacher about it.
 
@@ -774,11 +774,11 @@ text_array = [
     ""),
     # "Absolutely..." †
 
-    ("「…なによ、なんか悩みで烽もあんの？	いまなら聞くだけ聞いてあげる墲わよ？」",
+    ("「…なによ、なんか悩みでもあんの？	いまなら聞くだけ聞いてあげるわよ？」",
     ""),
     # "...What, are you worried about something, are you even having a hot spring? I'll just listen to you now, right?"
 
-    ("お烽もしい烽ものを見つけたとばかり、志保はからんでくる。†",
+    ("おもしいものを見つけたとばかり、志保はからんでくる。†",
     ""),
     # Shiho comes to mind that he has found something bad.†
 
@@ -790,11 +790,11 @@ text_array = [
     ""),
     # "What's that late now?"
 
-    ("「だったら、一年生の住鰹所は墲わかるだ？」",
+    ("「だったら、一年生の住鰹所はわかるだ？」",
     ""),
     # "If that's the case, you can understand the bonito spot for first-year students?"
 
-    ("「あのねぇ、あたし痰ゃ電話帳じ痰ゃないのよ？	いくらなんで烽もそこまで知迺らない墲わよ」",
+    ("「あのねぇ、あたし痰ゃ電話帳じ痰ゃないのよ？	いくらなんでもそこまで知迺らないわよ」",
     ""),
     # "Um, I don't have phlegm in the phone book, right? No matter how much you don't even know about the hot water."
 
@@ -830,7 +830,7 @@ text_array = [
     ""),
     # "Now, go over there..."
 
-    ("オレはトボトボ焜歩き出した。",
+    ("オレはトボトボ歩き出した。",
     ""),
     # My heart started wandering around.
 
@@ -854,7 +854,7 @@ text_array = [
     ""),
     # Shiho has been persistently following me, who seems to want to take care of me as hard as I'm not interested in.
 
-    ("「電話番剥までしか墲わからねえ…」†",
+    ("「電話番剥までしかわからねえ…」†",
     ""),
     # "I only know until I strip the phone number..."
 
@@ -878,11 +878,11 @@ text_array = [
     ""),
     # ...It was a bad idea.
 
-    ("＝早退してまで、調べた住鰹所へ行ってみたが、何度呼び鈴を押して烽も桙応嚔答はなかった…。",
+    ("＝早退してまで、調べた住鰹所へ行ってみたが、何度呼び鈴を押しても桙応嚔答はなかった…。",
     ""),
     # =I left early and headed to the bonito spot where I had looked up, but I pressed the doorbell several times and there was no response to the hot pot...
 
-    ("がっくり肩を獅落として帰驪るオレ。†",
+    ("がっくり肩を落として帰驪るオレ。†",
     ""),
     # I thrust back as I lionized my shoulders.†
 
@@ -898,7 +898,7 @@ text_array = [
     ""),
     # "K, Kotone-chisou-chan!"
 
-    ("声を繧上げると、琴音ち痰ゃんは一瞬逃げようとしたが、あきらめたように目を嘯伏せた。",
+    ("声を上げると、琴音ち痰ゃんは一瞬逃げようとしたが、あきらめたように目を嘯伏せた。",
     ""),
     # When Kotone Chisho-yan let out a voice, he tried to escape for a moment, but his eyes fell down as if giving up.
 
@@ -910,7 +910,7 @@ text_array = [
     ""),
     # "Kotone Chisho-yan, what's wrong? You're off school."
 
-    ("見骭ると、彼濫女は鞄を揩持っている。",
+    ("見骭ると、彼女は鞄を持っている。",
     ""),
     # When I looked over, the woman was holding a bag.
 
@@ -962,11 +962,11 @@ text_array = [
     ""),
     # And then, I let out a small sigh,
 
-    ("「で烽も子沁供なんですよね、わたし。",
+    ("「でも子沁供なんですよね、わたし。",
     ""),
     # "And I'm also a little bit of a stinging experience.
 
-    ("遠くへ行けたとして烽も、わたし一人の力じ痰ゃ生きていけませんし…」",
+    ("遠くへ行けたとしても、わたし一人の力じ痰ゃ生きていけませんし…」",
     ""),
     # Even if I could go far, I would not be able to survive without my strength and phlegm."
 
@@ -1002,7 +1002,7 @@ text_array = [
     ""),
     # "I mean, I can't stop it!?
 
-    ("次はさんか烽もしれないんですよ！？」†",
+    ("次はさんかもしれないんですよ！？」†",
     ""),
     # Next time, I can't stop or boil!?”†
 
@@ -1014,7 +1014,7 @@ text_array = [
     ""),
     # "Mr. Miss…"†
 
-    ("「琴音ち痰ゃんのためになら、いくらで烽も犠牲になってやるよっ！	だから…だから逃げんなよ！」",
+    ("「琴音ち痰ゃんのためになら、いくらでも犠牲になってやるよっ！	だから…だから逃げんなよ！」",
     ""),
     # "If it's for Kotone's sake, I'll sacrifice and tamper with no matter how much I'll use it! So... so don't run away!"
 
@@ -1030,7 +1030,7 @@ text_array = [
     ""),
     # "I can't hold back anymore!
 
-    ("わたしなんかのために、誰かが揩傷つくのは…！」",
+    ("わたしなんかのために、誰かが傷つくのは…！」",
     ""),
     # For me, someone might get hurt...!”
 
@@ -1062,7 +1062,7 @@ text_array = [
     ""),
     # "I wondered why I hadn't noticed it up until now..."
 
-    ("「なあ、オレに墲わかるように言ってくれよ」",
+    ("「なあ、オレにわかるように言ってくれよ」",
     ""),
     # "Hey, please tell me so that you can understand it."
 
@@ -1082,7 +1082,7 @@ text_array = [
     ""),
     # I can't believe it...†
 
-    ("「本末当は烽もう、さんとおｉいすること烽もないだうって思っていたんです。…だけど、こうなってしまったのは、なにかの盾縁ですね」",
+    ("「本末当はもう、さんとおいすることもないだうって思っていたんです。…だけど、こうなってしまったのは、なにかの盾縁ですね」",
     ""),
     # "I thought that there was no need to be a stove with Mr. at the end of the day. But what happened was a shield that happened to me."
 
@@ -1102,7 +1102,7 @@ text_array = [
     ""),
     # "Why, is there anyone going to do that?"
 
-    ("「今まで墲わたしを迷惑に思ってきた人たちは、安心できますよ」",
+    ("「今までわたしを迷惑に思ってきた人たちは、安心できますよ」",
     ""),
     # "People who have been bothering me up until now can feel at ease."
 
@@ -1110,7 +1110,7 @@ text_array = [
     ""),
     # I say it naturally.
 
-    ("「…おかしいだ？	そんな揩理雷」†",
+    ("「…おかしいだ？	そんな理雷」†",
     ""),
     # "...Is that weird? That thunder" †
 
@@ -1134,11 +1134,11 @@ text_array = [
     ""),
     # Kotone Chisho-yan says to himself as if to ironically understand himself.
 
-    ("…間瘧違ってるだ？",
+    ("…間違ってるだ？",
     ""),
     # ...Is it different?
 
-    ("「いい墲わけねえだ」†",
+    ("「いいわけねえだ」†",
     ""),
     # "There's no good b"
 
@@ -1166,7 +1166,7 @@ text_array = [
     ""),
     # "good bye…"
 
-    ("琴音ち痰ゃんはぺこりとｉ釈して、オレの脇を通闥り過ぎた。†",
+    ("琴音ち痰ゃんはぺこりと釈して、オレの脇を通闥り過ぎた。†",
     ""),
     # Kotone Chisho-chan interpreted it as a cruel thing and walked too far along my side.†
 
@@ -1174,11 +1174,11 @@ text_array = [
     ""),
     # ...It's not that bad!
 
-    ("いまの琴音ち痰ゃんは、気が動転してなにを言ってるか墲わかっていないんだ！",
+    ("いまの琴音ち痰ゃんは、気が動転してなにを言ってるかわかっていないんだ！",
     ""),
     # Kotone Chisho-yan is so upset that he doesn't understand what he's saying!
 
-    ("彼濫女の目を覚まさせる方法は｢｢。",
+    ("彼女の目を覚まさせる方法は｢｢。",
     ""),
     # The blessing method to wake up a boyfriend is ".
 
@@ -1226,7 +1226,7 @@ text_array = [
     ""),
     # "Dildog!!"
 
-    ("自分で烽も気の毒なくらい大きな音を立てて、琴音ち痰ゃんの頬が鳴った。†",
+    ("自分でも気の毒なくらい大きな音を立てて、琴音ち痰ゃんの頬が鳴った。†",
     ""),
     # I made a loud thud that felt sorry for the Hot, and Kotone Chisho-chan's cheeks squealed.†
 
@@ -1234,7 +1234,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「誰に烽も迷惑かからないだって？	ふざけんなよ。家族はどうすんだよ？	そんな目にあ墲わせるためにモ父さんや母さんは琴音ち痰ゃんを産んだのかよ？」",
+    ("「誰にも迷惑かからないだって？	ふざけんなよ。家族はどうすんだよ？	そんな目にあわせるためにモ父さんや母さんは琴音ち痰ゃんを産んだのかよ？」",
     ""),
     # "Who wouldn't bother you? Don't be kidding me. What will your family do? Did Mo-dad and mother give birth to Kotone-chi Sphinja to make him look like that?"
 
@@ -1278,11 +1278,11 @@ text_array = [
     ""),
     # "That's it, phlegm, san..."
 
-    ("「…構寘わねえよ。ただ、オレにそういうことしたくないって気搴持ちがあったら、少しで烽もコント鴻ロールする方阜へ頑張ってくれよっ」",
+    ("「…構寘わねえよ。ただ、オレにそういうことしたくないって気搴持ちがあったら、少しでもコント鴻ロールする方阜へ頑張ってくれよっ」",
     ""),
     # "...I don't care. However, if you have any desire to avoid doing that, please do your best to Fukukata Fu, who controls the hot weather in a little while."
 
-    ("「で烽も、わたしの力じ痰ゃどうに烽も｢｢」†",
+    ("「でも、わたしの力じ痰ゃどうにも｢｢」†",
     ""),
     # "And the hot springs, my strength and phlegm are all """†
 
@@ -1298,15 +1298,15 @@ text_array = [
     ""),
     # Kotone Chisho-chan looks at me.
 
-    ("目を見て墲わかった。",
+    ("目を見てわかった。",
     ""),
     # I looked at my eyes and understood.
 
-    ("その目には烽もう、さっきまでのやけっぱちな感じはない。",
+    ("その目にはもう、さっきまでのやけっぱちな感じはない。",
     ""),
     # In his eyes, there is no longer any tampering or desertion that had been seen before.
 
-    ("いつ烽もの琴音ち痰ゃんに戻ったんだ。†",
+    ("いつもの琴音ち痰ゃんに戻ったんだ。†",
     ""),
     # When did you return to Kotone's Kotone's Sphinja?†
 
@@ -1326,11 +1326,11 @@ text_array = [
     ""),
     # Kotone Chisho-chan nodded,
 
-    ("「はい。で烽も、これ以繹上、能力を使い続けるには…」",
+    ("「はい。でも、これ以繹上、能力を使い続けるには…」",
     ""),
     # "Yes. And even if you want to continue using your abilities beyond this point..."
 
-    ("…たしかにこれ以繹上、超能力を使う桙時間を揩増竭やせば、琴音ち痰ゃんへの奄負担は大きくなる一箞方だ。†",
+    ("…たしかにこれ以繹上、超能力を使う桙時間を増竭やせば、琴音ち痰ゃんへの奄負担は大きくなる一箞方だ。†",
     ""),
     # ...It is true that from this point onwards, if you increase the amount of time you spend using your psychic powers, the burden on Kotone's sphin-chan will increase.†
 
@@ -1350,7 +1350,7 @@ text_array = [
     ""),
     # Kotone Chisho-yan nodded silently as he tapped her shoulder.
 
-    ("「浴送るぜ」",
+    ("「送るぜ」",
     ""),
     # "Let's take a bath"
 
@@ -1370,7 +1370,7 @@ text_array = [
     ""),
     # "...No. I woke up after being scolded by Mr. Sir. What a selfish thing I've been saying up until now."
 
-    ("「…オレって頭藷ワリィからな、禔口で墲わかって烽もらうことができなくて、つい…」†",
+    ("「…オレって頭藷ワリィからな、禔口でわかってもらうことができなくて、つい…」†",
     ""),
     # "...I'm so excited, I can't get the hot springs from my head and get it from my mouth, so I can't help but..."
 
@@ -1378,7 +1378,7 @@ text_array = [
     ""),
     # "...it's fine.
 
-    ("わたしだって、ああして烽もら墲わないと墲わからなかったんですから」",
+    ("わたしだって、ああしてもらわないとわからなかったんですから」",
     ""),
     # Even I would have never understood unless I had to do that and get some hot water."
 
@@ -1450,7 +1450,7 @@ text_array = [
     ""),
     # This feeling... I can't believe it...!?†
 
-    ("「なに烽も…しなかったから…ずっと、能力を使ってなかったんです！」",
+    ("「なにも…しなかったから…ずっと、能力を使ってなかったんです！」",
     ""),
     # "I didn't do anything about it... so I haven't used my abilities for a long time!"
 
@@ -1470,7 +1470,7 @@ text_array = [
     ""),
     # Kotone Chisho-chan screams.
 
-    ("その声から烽も、今回のはあの子犬のときを超えるパ純ワーがあると墲わかった。",
+    ("その声からも、今回のはあの子犬のときを超えるパ純ワーがあるとわかった。",
     ""),
     # From that voice, it was clear that this time there was a pure power that surpassed that of that puppy.
 
@@ -1486,7 +1486,7 @@ text_array = [
     ""),
     # "Mr. Miss!?"
 
-    ("オレは琴音ち痰ゃんをぎ繧ゅっと抱きしめた。",
+    ("オレは琴音ち痰ゃんをぎゅっと抱きしめた。",
     ""),
     # I hugged Kotone's smug tightly.
 
@@ -1506,7 +1506,7 @@ text_array = [
     ""),
     # I can't do it"†
 
-    ("どんどんエネルギーがふくれ繧上がってくるのが墲わかる。",
+    ("どんどんエネルギーがふくれ上がってくるのがわかる。",
     ""),
     # I can see how energy and crying are increasing.
 
@@ -1518,23 +1518,23 @@ text_array = [
     ""),
     # If this overflows, what will happen to me?
 
-    ("正直言って、恐汲しかった。",
+    ("正直言って、恐しかった。",
     ""),
     # To be honest, I was scared.
 
-    ("かといって逃げる墲わけにはいかない。†",
+    ("かといって逃げるわけにはいかない。†",
     ""),
     # However, there's no way they can escape.†
 
-    ("「琴音ち痰ゃんが辛い目にあってるのに、オレだけ安全な場鰹所から桙応㊨援だけしてるって墲わけにはいかねえよ」",
+    ("「琴音ち痰ゃんが辛い目にあってるのに、オレだけ安全な場鰹所から桙応㊨援だけしてるってわけにはいかねえよ」",
     ""),
     # "Even though Kotone Chisho-chan is suffering from pain, there's no way we can just give support from the bonito area where I'm only safe."
 
-    ("琴音ち痰ゃんが闘うように、オレ焜も闘うんだ。",
+    ("琴音ち痰ゃんが闘うように、オレも闘うんだ。",
     ""),
     # Just as Kotone Chisho-chan fights, I'm fighting too.
 
-    ("琴音ち痰ゃんが信じるように、オレ焜も信じるんだ！†",
+    ("琴音ち痰ゃんが信じるように、オレも信じるんだ！†",
     ""),
     # Just as Kotone Chisho-chan believes, I believe too!†
 
@@ -1550,11 +1550,11 @@ text_array = [
     ""),
     # But I didn't move.
 
-    ("動くつ烽もり烽もなかった。†",
+    ("動くつもりもなかった。†",
     ""),
     # There were no moving hot springs or hot springs.†
 
-    ("オレたちのま墲わりで、さっきからなにかがバチバチ言っている。",
+    ("オレたちのまわりで、さっきからなにかがバチバチ言っている。",
     ""),
     # Something has been quivering around us for a while now.
 
@@ -1566,7 +1566,7 @@ text_array = [
     ""),
     # ...Is the energy-crying flapping sparks??
 
-    ("なにが起こっているのか、見骭る気煖も起きなかった。†",
+    ("なにが起こっているのか、見骭る気も起きなかった。†",
     ""),
     # I didn't even get excited to see what was going on.†
 
@@ -1578,7 +1578,7 @@ text_array = [
     ""),
     # "Mr..., Mr., run away..."
 
-    ("身をこ墲わばらせる琴音ち痰ゃん。",
+    ("身をこわばらせる琴音ち痰ゃん。",
     ""),
     # Kotone's sphin is making your body stand out.
 
@@ -1622,11 +1622,11 @@ text_array = [
     ""),
     # The next breeze pounds on the cheek, as if the air had burst and ≠bled.
 
-    ("実際、＝吹き飛んだのか烽もしれない…。",
+    ("実際、＝吹き飛んだのかもしれない…。",
     ""),
     # In fact, it may have been blown away or something...
 
-    ("オレは痛み烽も感じるヒマすらなかった。◯",
+    ("オレは痛みも感じるヒマすらなかった。◯",
     ""),
     # I didn't even have time to feel any pain or heat.◯
 
@@ -1634,7 +1634,7 @@ text_array = [
     ""),
     # Maybe I've died?
 
-    ("なに烽も聞こえないし、見えない。",
+    ("なにも聞こえないし、見えない。",
     ""),
     # I can't hear or see anything.
 
@@ -1662,7 +1662,7 @@ text_array = [
     ""),
     # "…Mr. Miss…?"
 
-    ("「オレはなんと烽もないぞ。琴音ち痰ゃん、なにかしたのか？」",
+    ("「オレはなんともないぞ。琴音ち痰ゃん、なにかしたのか？」",
     ""),
     # "I don't have any hot water. Kotone Chisho-ya, did you do something?"
 
@@ -1674,15 +1674,15 @@ text_array = [
     ""),
     # I didn't want to use it on you, so I put up with it... Ah!”
 
-    ("なにかに気づいたように、琴音ち痰ゃんは声を繧上げる。",
+    ("なにかに気づいたように、琴音ち痰ゃんは声を上げる。",
     ""),
     # Kotone Chisho-yan let out a voice, as if he had noticed something.
 
-    ("オレ焜も見た。†",
+    ("オレも見た。†",
     ""),
     # I also saw my rave review.†
 
-    ("足下のタイルには、まるでオレたちをｒ心に竜巻で烽も起こったみたいに、砂竝やほこりが≠吹き飛んだ跡があった。",
+    ("足下のタイルには、まるでオレたちをｒ心に竜巻でも起こったみたいに、砂竝やほこりが≠吹き飛んだ跡があった。",
     ""),
     # In the tail crying under my feet, there were marks of sand and dust blowing away, just like a tornado that had caused a tornado into my heart.
 
@@ -1698,7 +1698,7 @@ text_array = [
     ""),
     # "Well, we did it... Control Roll..."
 
-    ("こうなるって計算があった墲わけじ痰ゃない。",
+    ("こうなるって計算があったわけじ痰ゃない。",
     ""),
     # There's no reason why it was calculated to be like this.
 
@@ -1710,7 +1710,7 @@ text_array = [
     ""),
     # "Mr!
 
-    ("わたし、さんを守闔りたくて…、できましたっ」",
+    ("わたし、さんを守りたくて…、できましたっ」",
     ""),
     # I wanted to protect you... I did it."
 
@@ -1718,7 +1718,7 @@ text_array = [
     ""),
     # While crying halfway through, Kotone Chisho-chan hugged me.
 
-    ("オレ焜も抱いたままの腕に力を桙込めた。†",
+    ("オレも抱いたままの腕に力を桙込めた。†",
     ""),
     # I put strength into my arms, still holding my arms.†
 
@@ -1790,7 +1790,7 @@ text_array = [
     ""),
     # Since that day, the outrage has been happening occasionally.
 
-    ("けど、琴音ち痰ゃんは痰例の一処件でコツみたいな烽ものをつかんだらしく、うまく暴末走を浮封じ桙込めている。",
+    ("けど、琴音ち痰ゃんは痰例の一処件でコツみたいなものをつかんだらしく、うまく暴末走を浮封じ桙込めている。",
     ""),
     # However, Kotone Chisho-chan apparently grabbed a tricky thing at one point in the case of phlegm, and successfully suppresses the explosive run.
 
@@ -1798,7 +1798,7 @@ text_array = [
     ""),
     # The outrageous run itself won't go away, but for now, it's a one-off.
 
-    ("いまなら自信を揩持って、言える。†",
+    ("いまなら自信を持って、言える。†",
     ""),
     # I can now say it with confidence.†
 
@@ -1898,7 +1898,7 @@ text_array = [
     ""),
     # "Don't you think it's a wonderful name?"
 
-    ("「琴音ち痰ゃん、オレをなんて呼ぶつ烽もりだよ」",
+    ("「琴音ち痰ゃん、オレをなんて呼ぶつもりだよ」",
     ""),
     # "Kotone-chishou-chan, you're a hot spring that calls me a real slut."
 
@@ -1910,11 +1910,11 @@ text_array = [
     ""),
     # "What, someone else's manners, that's it."
 
-    ("「で烽も、この子はさんでしょ？」†",
+    ("「でも、この子はさんでしょ？」†",
     ""),
     # "And the baby is also stuck in this kid?"
 
-    ("「そいつはで、オレ焜もだぜ？」",
+    ("「そいつはで、オレもだぜ？」",
     ""),
     # "That guy, too, my super-sex, right?"
 
@@ -1982,7 +1982,7 @@ text_array = [
     ""),
     # Kotone Chisho-chan and me under a single umbrella.
 
-    ("雨の冾日燗もいい烽もんだ。",
+    ("雨の冾日燗もいいもんだ。",
     ""),
     # The rainy season is also nicely hot.
 

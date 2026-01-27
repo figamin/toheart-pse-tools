@@ -14,15 +14,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("「いんな魔術聡書から悪ｈ魔の起源を考察する本って墲わけだな！」",
+    ("「いんな魔術聡書から悪ｈ魔の起源を考察する本ってわけだな！」",
     ""),
     # "It's a book that examines the origins of evil evil demons from B-Magic Insights, isn't it?"
 
-    ("＝普通なら、そのまんまとつっこまれそうな烽ものだが、諱先輩はこくんとうなずく。†",
+    ("＝普通なら、そのまんまとつっこまれそうなものだが、諱先輩はこくんとうなずく。†",
     ""),
     # = Normally, it would be a hot topic to be completely touched, but Senpai Nods with Ko-kun.†
 
-    ("「じつはオレ焜も、悪ｈ魔にはく墲わしいんだぜ？",
+    ("「じつはオレも、悪ｈ魔にはくわしいんだぜ？",
     ""),
     # "In fact, I'm a bit of a slutty guy, right?
 

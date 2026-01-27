@@ -2,11 +2,11 @@
 # Source file: 0771.txt
 
 text_array = [
-    ("（３回目）†",
+    ("（３回目）",
     ""),
-    # (3rd time)†
+    # (3rd time)
 
-    ("氈次は汲昼休みだな。",
+    ("氈次は昼休みだな。",
     ""),
     # It's lunch break at Kaku.
 
@@ -30,8 +30,8 @@ text_array = [
     ""),
     # It would be bad if you were to interfere with it.
 
-    ("ここは遠慮しておこう。†",
+    ("ここは遠慮しておこう。",
     ""),
-    # Let's refrain from doing this here.†
+    # Let's refrain from doing this here.
 
 ]

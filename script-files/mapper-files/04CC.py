@@ -2,9 +2,9 @@
 # Source file: 04CC.txt
 
 text_array = [
-    ("（志保	回秤数イベント	寄闃り道３）閨（５／２固定）閨（пヤクド前）閨（志保１）†",
+    ("（志保	回秤数イベント	寄闃り道３）閨（５／２固定）閨（пヤクド前）閨（志保１）",
     ""),
-    # (Shiho Scales Event: Incoming Road 3) (5/2nd) (front of the yakud) (Shiho 1) †
+    # (Shiho Scales Event: Incoming Road 3) (5/2nd) (front of the yakud) (Shiho 1) 
 
     ("「やっほー、」",
     ""),

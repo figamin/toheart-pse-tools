@@ -2,23 +2,23 @@
 # Source file: 00D5.txt
 
 text_array = [
-    ("（システムイベント	卒業式）閨（朝）閨（自分の部屋）†",
+    ("（システムイベント	卒業式）閨（朝）閨（自分の部屋）",
     ""),
-    # (System Event Graduation Ceremony) (Morning) (My Room) †
+    # (System Event Graduation Ceremony) (Morning) (My Room) 
 
-    ("３獅月７冾日、金曜坥日。",
+    ("３月７冾日、金曜坥日。",
     ""),
     # The 7th day of the 3rd Lion Mon, Friday Day.
 
-    ("なんとなく、＝早めに目が覚めた。†",
+    ("なんとなく、＝早めに目が覚めた。",
     ""),
-    # For some reason, I woke up early.†
+    # For some reason, I woke up early.
 
     ("今厓日は卒業式。",
     ""),
     # The graduation ceremony is now on the day.
 
-    ("諱先輩荢方を笑迴顔で翌送闡り出しましょか。◯",
+    ("諱先輩荢方を笑顔で翌送闡り出しましょか。◯",
     ""),
     # I started sending my message to my seniors with a laughing face the next episode.◯
 
@@ -38,13 +38,13 @@ text_array = [
     ""),
     # And then the graduation ceremony began.
 
-    ("在校生にすれば、べつに感慨深く烽もなく、かったるい桙時間の無駄でしかない。",
+    ("在校生にすれば、べつに感慨深くもなく、かったるい桙時間の無駄でしかない。",
     ""),
     # For current students, they are extremely emotional and have no heat, and it is nothing more than a waste of time.
 
-    ("♂史みたいに、お世話になった先輩とかがいるならばと烽もかく。†",
+    ("雅史みたいに、お世話になった先輩とかがいるならばともかく。",
     ""),
-    # Like Masochi, if there are seniors who helped me, I'd also like Masochi.†
+    # Like Masochi, if there are seniors who helped me, I'd also like Masochi.
 
     ("・",
     ""),
@@ -74,31 +74,31 @@ text_array = [
     ""),
     # I was forced to stand and sit, so I couldn't even sleep in a sleepy sleep.
 
-    ("そんなオレとは逆に、もらいモきしている翌女の子たち烽もいたけどな。",
+    ("そんなオレとは逆に、もらいモきしている翌女の子たちもいたけどな。",
     ""),
     # Conversely to my gangbang, there were also some of the girls who were crying after receiving a slut.
 
-    ("ま、諱取闔りあえず、終尞わりっと。†",
+    ("ま、諱取りあえず、終尞わりっと。",
     ""),
-    # Well, I couldn't get a comment and it was all over.†
+    # Well, I couldn't get a comment and it was all over.
 
     ("オレたち一年は、今厓日は少しだけ≠早く帰驪ることができる。",
     ""),
     # In my first year, I can return to my house just a little earlier than usual.
 
-    ("いまご二年は、♂皷場の繧後片づけをやっているはずだ。",
+    ("いまご二年は、雅皷場の後片づけをやっているはずだ。",
     ""),
     # In his second year of B, he must be tampering with tidying up after the slut.
 
-    ("その分、準備は一年がやったからな。†",
+    ("その分、準備は一年がやったからな。",
     ""),
-    # As a result, a year of preparations was tampered with.†
+    # As a result, a year of preparations was tampered with.
 
     ("「三年生とは、もうお別れだね」",
     ""),
     # "It's already goodbye to the third graders."
 
-    ("と、♂史。",
+    ("と、雅史。",
     ""),
     # And Masochistic History.
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # "ah"
 
-    ("これで学校にｗなくていいのかと思うと、ちょっとうらやましい。†",
+    ("これで学校にｗなくていいのかと思うと、ちょっとうらやましい。",
     ""),
-    # I'm so envious of this that I don't have to go to school lol.†
+    # I'm so envious of this that I don't have to go to school lol.
 
-    ("「僕たち烽も二年續後には卒業だね」",
+    ("「僕たちも二年續後には卒業だね」",
     ""),
     # "We, Hot, will also graduate after two years."
 
@@ -118,19 +118,19 @@ text_array = [
     ""),
     # "You're quick to hear, that's the question."
 
-    ("二年續後だなんて、すぐに想恆像できないぜ。†",
+    ("二年續後だなんて、すぐに想恆像できないぜ。",
     ""),
-    # I can't imagine it being two years later.†
+    # I can't imagine it being two years later.
 
     ("「は進学するの？」",
     ""),
     # "Are you going to go to college?"
 
-    ("まだ≠早いっつってんのに、それで烽もｉ史は卒業にこだ墲わる。",
+    ("まだ≠早いっつってんのに、それでも史は卒業にこだわる。",
     ""),
     # It's still too early, but that's why I-Shin is so particular about graduating.
 
-    ("「予定なんて、明坙日には烽もう変﨑わってるか烽もしれねーんだよ、オレの場㍼合」",
+    ("「予定なんて、明坙日にはもう変﨑わってるかもしれねーんだよ、オレの場㍼合」",
     ""),
     # "On the day of the Ming Shun, it's probably not something that happens when it's a hot spot, or something like that, it's a hot spot."
 
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # Apparently."
 
-    ("微笑むｉ史。†",
+    ("微笑む史。",
     ""),
-    # I-Shin smiles.†
+    # I-Shin smiles.
 
     ("「なあ、そんなことより、今厓日暇か？」",
     ""),
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("部賦謂鰍煖xみだし」",
+    ("部賦謂鰍xみだし」",
     ""),
     # Parts of the so-called monkfish x simmered."
 
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # "It's fine."
 
-    ("「諱よし、′まり」†",
+    ("「諱よし、′まり」",
     ""),
-    # "All I'm saying, 'Mari"†
+    # "All I'm saying, 'Mari"
 
     ("「あかりち痰ゃんや志保熾も誘おうか？」",
     ""),
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # "...That's right."
 
-    ("「じ痰ゃあ、声かけてくるよ」†",
+    ("「じ痰ゃあ、声かけてくるよ」",
     ""),
     # "I'll call you out, phlegm."
 
-    ("という墲わけで、その冾日は久しぶりに連中とぶらつくことになった。◯",
+    ("というわけで、その冾日は久しぶりに連中とぶらつくことになった。◯",
     ""),
     # So, it was a long time since I had been strolling around with them.◯
 

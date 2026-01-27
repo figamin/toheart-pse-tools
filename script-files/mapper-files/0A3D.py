@@ -2,9 +2,9 @@
 # Source file: 0A3D.txt
 
 text_array = [
-    ("（Ｃ	そういう話はしたくない。）†",
+    ("（Ｃ	そういう話はしたくない。）",
     ""),
-    # (C I don't want to talk about that kind of thing.)†
+    # (C I don't want to talk about that kind of thing.)
 
     ("「悪いけど、オレ、子沁供葛相闡手にそういう話はしたくねえんだ」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # My gecko bends over in front of Ryota.
 
-    ("「おまえ烽もそのうち墲わかるようになるって。こういう烽もんだって」†",
+    ("「おまえもそのうちわかるようになるって。こういうもんだって」",
     ""),
     # "Your hot spring will eventually become aware of this. It's a hot spring."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "I understand."
 
-    ("と、深くうなずいた。†",
+    ("と、深くうなずいた。",
     ""),
-    # He nodded deeply.†
+    # He nodded deeply.
 
-    ("「で烽も、またねえち痰ゃんをいじめるんじ痰ゃないぞ」",
+    ("「でも、またねえち痰ゃんをいじめるんじ痰ゃないぞ」",
     ""),
     # "And then, you're going to bully your phlegm again, so you won't have phlegm."
 
@@ -42,17 +42,17 @@ text_array = [
     ""),
     # I won't bully you anymore so I'm relieved."
 
-    ("すると良太は、ニカッと笑って、†",
+    ("すると良太は、ニカッと笑って、",
     ""),
-    # Then Ryota smirked and †
+    # Then Ryota smirked and 
 
     ("「ずっと、やくそくだぞ！」",
     ""),
     # "It's always going to be a shit!"
 
-    ("と言い残して、°けていってしまった。†",
+    ("と言い残して、°けていってしまった。",
     ""),
-    # I left the answer and started °.†
+    # I left the answer and started °.
 
     ("ガキのくせに、男迺らしいрヤツだな…。",
     ""),

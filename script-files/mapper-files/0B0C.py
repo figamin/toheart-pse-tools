@@ -110,7 +110,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「で、いつまで、そうしてるつ烽もり？」",
+    ("「で、いつまで、そうしてるつもり？」",
     ""),
     # "So, how long will you keep doing that?"
 

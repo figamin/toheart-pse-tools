@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Right now, I'm practicing fortune with Aoi Chisho-chan and a banquet.†
 
-    ("坂下との一処件以来、葵ち痰ゃんの練習はよりいっそうモしさを揩増した。",
+    ("坂下との一処件以来、葵ち痰ゃんの練習はよりいっそうモしさを増した。",
     ""),
     # Since the incident with Aoi Sakashita, Aoi Chisho-chan's fortune practice has become even more intense.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # The reverberating Otohin also has a different approach to the previous one, and the way he fortunes is different.
 
-    ("サンドバッグが大きく左右に揺齬れるたび、チェーンがきしみ、吊髓るした枝がぎしぎしと悲鳴を繧上げている。†",
+    ("サンドバッグが大きく左右に揺齬れるたび、チェーンがきしみ、吊髓るした枝がぎしぎしと悲鳴を上げている。†",
     ""),
     # Every time the punching bag sways from side to side, the chain creaks, and the hanging branches squeal and screams.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Aoi Chisho-chan wipes the sweat from her forehead with the back of her hand.
 
-    ("わずかに休憩をとったの烽も束の間、すぐにまた、サンドバッグへｌかおうとする。†",
+    ("わずかに休憩をとったのも束の間、すぐにまた、サンドバッグへｌかおうとする。†",
     ""),
     # After taking a short break, the hot spring was shortened, and immediately tried to go back to the punching bag.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "...Yes, why are you eclips?"
 
-    ("まだ呼吸煖も獅落ちｒかないままの葵ち痰ゃんが振關り返髟る。",
+    ("まだ呼吸も落ちｒかないままの葵ち痰ゃんが振關り返髟る。",
     ""),
     # The lion still hadn't fallen, and Aoi Chisho-chan shook back.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan nodded and responded with a chuckle.
 
-    ("「たしかに先輩の言うとおりです。だけど、しばらくはр私の好きにさせてくれませんか。どうして烽もじっとしてられないんです」",
+    ("「たしかに先輩の言うとおりです。だけど、しばらくはр私の好きにさせてくれませんか。どうしてもじっとしてられないんです」",
     ""),
     # "It's true that your senior said, but will you let me do what I want for a while? Why can't you stay still?"
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "Aoi Chishonan..."
 
-    ("「すみません、いつ烽も墲わがままばかり言って。心配してくれて、とって烽も嬉しいです」",
+    ("「すみません、いつもわがままばかり言って。心配してくれて、とっても嬉しいです」",
     ""),
     # "Sorry, I'm always saying that you're selfish. You're worried about me, and I'm happy too."
 
-    ("そう言うと、葵ち痰ゃんは再びハードな練習に取闔り組み始めた。†",
+    ("そう言うと、葵ち痰ゃんは再びハードな練習に取り組み始めた。†",
     ""),
     # With that in mind, Aoi Chisho-yan began to practice hard fortune again.†
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # A: Let's help Aoi Chisho-yan with his fortune practice.Relax
 
-    ("Ｂ	冷たいドリンクで烽もモ買ってきてやう。閨",
+    ("Ｂ	冷たいドリンクでもモ買ってきてやう。閨",
     ""),
     # B I bought some hot pots with the cold Dogata Link and it was a bit of a mess.Relax
 

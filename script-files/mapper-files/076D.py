@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Maybe the girl after the same party?†
 
-    ("少し見ていると、浴女の子は琴音ち痰ゃんに笑迴顔で手を振って獅去っていった。",
+    ("少し見ていると、女の子は琴音ち痰ゃんに笑顔で手を振って去っていった。",
     ""),
     # As I looked at it for a moment, the bathing girl waving her hand at Kotone Chisho-chan with a smile and lion left.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "So?"
 
-    ("「森本さんに能力を見せた繧後、急にクラスのみんなの態度が変﨑わってしまった気がして…」",
+    ("「森本さんに能力を見せた後、急にクラスのみんなの態度が変﨑わってしまった気がして…」",
     ""),
     # "After showing Morimoto-san's ability, I feel like everyone's attitude suddenly changed..."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # ...It's exactly like that.
 
-    ("オレの勘瘧違いでなけり痰ゃ、状況はイイ禛方阜に進んでるに痰違いない。†",
+    ("オレの勘違いでなけり痰ゃ、状況はイイ禛方阜に進んでるに痰違いない。†",
     ""),
     # If it's not my slutty intuition, the situation is going to be good, but it's definitely phlegm.†
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # A creepy "evil spirit woman" is a slurred woman.†
 
-    ("「…みんなが墲わたしのこと、どんな目で見ていたかは知ってます…。で烽も…、いまはまだ困骰るんです」",
+    ("「…みんながわたしのこと、どんな目で見ていたかは知ってます…。でも…、いまはまだ困骰るんです」",
     ""),
     # "...I know how everyone looked at me... And Hou... I'm still in trouble right now."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Why?"
 
-    ("「…まだ、能力をコント鴻ロールできるようになった墲わけではありませんから」†",
+    ("「…まだ、能力をコント鴻ロールできるようになったわけではありませんから」†",
     ""),
     # "...I'm not yet able to control abilities."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "I can't wait until I see something a little longer."
 
-    ("「まあな。オレ焜も琴音ち痰ゃんの気のすむまでつき№合うぜ」†",
+    ("「まあな。オレも琴音ち痰ゃんの気のすむまでつき№合うぜ」†",
     ""),
     # "Well, I'm going to meet you all the time until Kotone-chisou-chan feels good."
 

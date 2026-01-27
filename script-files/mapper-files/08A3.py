@@ -2,15 +2,15 @@
 # Source file: 08A3.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	１階	３／１３）閨（選択綜	別れる）†",
+    ("（レミィ	回秤数イベント	１階	３／１３）閨（選択綜	別れる）",
     ""),
-    # (Game Remy Scale Event 1st floor, 3/13) (Choice Break)†
+    # (Game Remy Scale Event 1st floor, 3/13) (Choice Break)
 
     ("「おう撃レミィ、んじ痰ゃまた明坙日な」",
     ""),
     # "Oh, I'm going to kill Remie, the phlegm is still a good day."
 
-    ("オレは、片阨手を繧上げてあいさつ。",
+    ("オレは、片阨手を上げてあいさつ。",
     ""),
     # I greeted him with my arms raised.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Yes. Sbb, y shield o float, t shield o high m shield o nitrogen nitrogen shield o next lol"
 
-    ("戟レミィは、小さく手を振ってこたえた。◯",
+    ("レミィは、小さく手を振ってこたえた。◯",
     ""),
     # Karemi responded with a small waving.◯
 

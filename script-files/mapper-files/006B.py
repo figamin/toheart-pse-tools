@@ -2,9 +2,9 @@
 # Source file: 006B.txt
 
 text_array = [
-    ("４／２８（氏月）†",
+    ("４／２８（氏月）",
     ""),
-    # 4/28 (Mr. and Mon)†
+    # 4/28 (Mr. and Mon)
 
     ("諱よし、今厓日の授業はこれで終尞わり…っと。",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I've become free to blame and end up being free.
 
-    ("明坙日は祝叝日だしな、気分熾も開匇放的だ。†",
+    ("明坙日は祝叝日だしな、気分熾も開匇放的だ。",
     ""),
-    # Ming Shun Day is a celebration day, and the mood is liberating.†
+    # Ming Shun Day is a celebration day, and the mood is liberating.
 
-    ("廊下を烽歩きながら、外の景色をながめる。",
+    ("廊下を歩きながら、外の景色をながめる。",
     ""),
     # I walked along the hallway and looked out into the view outside.
 
@@ -26,17 +26,17 @@ text_array = [
     ""),
     # You can see a random, hazy view from the far away Tang Dynasty.
 
-    ("屋繪上にはかな墲わないが、ここからで烽もそれなりに気分がいい。†",
+    ("屋繪上にはかなわないが、ここからでもそれなりに気分がいい。",
     ""),
-    # There's no sign of the house above, but from here onwards, the hot springs also feel quite good.†
+    # There's no sign of the house above, but from here onwards, the hot springs also feel quite good.
 
     ("廊下を通って、下駄箱までやってきた。",
     ""),
     # He went through the hallway and even the shoe cabinet.
 
-    ("諱先生とすれ痰違って、だらだらした態度を高注意された。†",
+    ("諱先生とすれ痰違って、だらだらした態度を高注意された。",
     ""),
-    # He was very warned of his lazy attitude, as he was disparaged from the teacher.†
+    # He was very warned of his lazy attitude, as he was disparaged from the teacher.
 
     ("ふあ〜あ。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # It breathes out the air outside and stretches out loudly.
 
-    ("さてと、帰闍りますか。†",
+    ("さてと、帰闍りますか。",
     ""),
-    # Well, will you go back?†
+    # Well, will you go back?
 
     ("明坙日は緑の冾日だ。",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # However, it is unfair to celebrate only greenery.
 
-    ("赤の冾日笂や青の冾日燗も揩増竭やしてほしい烽もんだ。◯",
+    ("赤の冾日笂や青の冾日燗も増竭やしてほしいもんだ。◯",
     ""),
     # I hope that the red nichisou and blue nichisou will also be added to the hot springs.◯
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # However, it is unfair to celebrate only greenery.
 
-    ("赤の冾日笂や青の冾日燗も揩増竭やしてほしい烽もんだ。†",
+    ("赤の冾日笂や青の冾日燗も増竭やしてほしいもんだ。",
     ""),
-    # I hope that the red nichisou and blue nichisou will also be added to the hot springs.†
+    # I hope that the red nichisou and blue nichisou will also be added to the hot springs.
 
-    ("ま、明坙日は葵ち痰ゃんの獅試㍽合だからな。",
+    ("ま、明坙日は葵ち痰ゃんの試㍽合だからな。",
     ""),
     # Well, Ming Shun Sun is a lion test session for Aoi Chishonan.
 

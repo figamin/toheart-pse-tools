@@ -2,17 +2,17 @@
 # Source file: 03A3.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（選択綜Ｂ	へんなрヤツ	の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（選択綜Ｂ	へんなрヤツ	の続き）",
     ""),
-    # (Tomoko's Scales Event: LV4) (Continued from Chosen B: Strange р--)†
+    # (Tomoko's Scales Event: LV4) (Continued from Chosen B: Strange р--)
 
     ("「へんなрヤツ」",
     ""),
     # "A strange guy"
 
-    ("オレは、なにやら≠早足で獅去っていく委員長の背白を見つめながらつぶやいた。†",
+    ("オレは、なにやら≠早足で去っていく委員長の背白を見つめながらつぶやいた。",
     ""),
-    # I muttered as I stared at the chairman's disguise as he stumbled around, as he left quickly.†
+    # I muttered as I stared at the chairman's disguise as he stumbled around, as he left quickly.
 
     ("「………」",
     "…"),

@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ou!"
 
-    ("あいか墲わらず元気なやつだ。†",
+    ("あいかわらず元気なやつだ。†",
     ""),
     # He's a lively guy who's not even stolen.†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # The cat had already disappeared somewhere, as if to have been saved.
 
-    ("「たまさぶーか？	アイツ、いつ烽もサカナぬすむから、こらしめてやってたんだ」",
+    ("「たまさぶーか？	アイツ、いつもサカナぬすむから、こらしめてやってたんだ」",
     ""),
     # "Tamasabu b? He's always going to go wild, so you kept trying to stop him and tamper with it."
 
-    ("「はー、梶頼燉もしい烽もんだな。お前、いっつ烽も誰かこらしめてんじ痰ゃん？」†",
+    ("「はー、梶頼燉もしいもんだな。お前、いっつも誰かこらしめてんじ痰ゃん？」†",
     ""),
     # "Haa, you're a hot spring, Kaji Yori-setsu. Is there anyone else to stop you from sputum?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Ou!!"
 
-    ("「いばるないばるな。で烽も、ち痰ゃんとお前の姉ち痰ゃんに謝ったぞ。男と男の約束は守ったからな」",
+    ("「いばるないばるな。でも、ち痰ゃんとお前の姉ち痰ゃんに謝ったぞ。男と男の約束は守ったからな」",
     ""),
     # "Don't let it go. And Kao also apologized to her and your sister, Symptom, because she kept the promises of the man."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # He suddenly gets a serious face.
 
-    ("そういやコイツ、そのことで揩理女緒ち痰ゃんにしかられたとか言ってたな。†",
+    ("そういやコイツ、そのことで理女緒ち痰ゃんにしかられたとか言ってたな。†",
     ""),
     # He said that he was criticized for this and that he was criticized by the way he was stolen by the way.†
 

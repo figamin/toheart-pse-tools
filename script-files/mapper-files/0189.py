@@ -2,9 +2,9 @@
 # Source file: 0189.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	帰闍り道）閨（選択綜Ｂ	雑庶誌を読み終えてから）†",
+    ("（あかり	回秤数イベント	帰闍り道）閨（選択綜Ｂ	雑庶誌を読み終えてから）",
     ""),
-    # (Akari Scales Event Returning Road) (After reading Chosen Soku B Miscellaneous Magazine)†
+    # (Akari Scales Event Returning Road) (After reading Chosen Soku B Miscellaneous Magazine)
 
     ("ま、いっか。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I'm sure I'm in the R anyway, so if the phlegm appears, I'll notice my intense b.
 
-    ("オレはマンガ雑庶誌を読み出した。†",
+    ("オレはマンガ雑庶誌を読み出した。",
     ""),
-    # My gei-re read manga and miscellaneous magazines.†
+    # My gei-re read manga and miscellaneous magazines.
 
     ("え〜と、なんだよ、看板マンガのくせに、また休みかよ。",
     ""),
@@ -26,13 +26,13 @@ text_array = [
     ""),
     # Is it true that Professor Eun-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-Yu-
 
-    ("読み切關りやってんな、またモかせ系かよ、立ち読みで涙流すの烽もあれだしなー。",
+    ("読み切關りやってんな、またモかせ系かよ、立ち読みで涙流すのもあれだしなー。",
     ""),
     # You're tampering with the reading, you're making me cry again, and it's also a hot topic that makes me cry when I browse.
 
-    ("あれ、このマンガ打ち切關りかよ、これから面猪白くなりそうだったのに。†",
+    ("あれ、このマンガ打ち切關りかよ、これから面猪白くなりそうだったのに。",
     ""),
-    # Huh, is this manga canceled? I was about to turn a bit of a slut out of now.†
+    # Huh, is this manga canceled? I was about to turn a bit of a slut out of now.
 
     ("・",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("あー、なんだかんだで１０分ぐらいたっちまったな。",
     ""),
@@ -70,15 +70,15 @@ text_array = [
     ""),
     # That's good.
 
-    ("あかりのやつ、オレに気づかずに横を通闥り過ぎやがったのか？†",
+    ("あかりのやつ、オレに気づかずに横を通闥り過ぎやがったのか？",
     ""),
-    # Was the guy who tampered with Akari, who didn't notice me, and then drove me too far away?†
+    # Was the guy who tampered with Akari, who didn't notice me, and then drove me too far away?
 
     ("しょーがねーな。",
     ""),
     # There's no essay.
 
-    ("マンガに夢亦になってて気づかないオレ焜もオレだけどさ。",
+    ("マンガに夢亦になってて気づかないオレもオレだけどさ。",
     ""),
     # My dreams are also like that in manga, I don't notice them, and I'm super crazy.
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # Well, is that okay?
 
-    ("べつにこれといって用がある墲わけじ痰ゃなし。",
+    ("べつにこれといって用があるわけじ痰ゃなし。",
     ""),
     # There is no need to worry about this.
 
-    ("帰汲、帰汲。◯",
+    ("帰、帰。◯",
     ""),
     # Returning, coming back.◯
 

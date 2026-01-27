@@ -2,9 +2,9 @@
 # Source file: 08B8.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	帰闍り道１	ＬＶ１）閨（選択綜	いる）†",
+    ("（レミィ	回秤数イベント	帰闍り道１	ＬＶ１）閨（選択綜	いる）",
     ""),
-    # (The Remy Scales Event Return Road 1 LV1) (Selection Sou)†
+    # (The Remy Scales Event Return Road 1 LV1) (Selection Sou)
 
     ("「いるぜぇ」",
     ""),
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "I can't say anything more than this."
 
-    ("こんな場鰹所で、ホントのことは言えない。†",
+    ("こんな場鰹所で、ホントのことは言えない。",
     ""),
-    # I can't really say anything at a bonito spot like this.†
+    # I can't really say anything at a bonito spot like this.
 
     ("「どんなひと？」",
     ""),
     # "What kind of person?"
 
-    ("「それ烽もダ＜メ」",
+    ("「それもダ＜メ」",
     ""),
     # "That's a bad thing too."
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Sorry, death..."
 
-    ("戟レミィはホントに残念そうに、目を嘯伏せた。",
+    ("レミィはホントに残念そうに、目を嘯伏せた。",
     ""),
     # Karemi looked truly sad and leaned down her eyes.
 
-    ("「そんなこと聞いて、いったいどーすんだよ」†",
+    ("「そんなこと聞いて、いったいどーすんだよ」",
     ""),
     # "What on earth are you going to hear about that?"
 
-    ("「…なんで烽もないの」",
+    ("「…なんでもないの」",
     ""),
     # "...Why don't you have a hot pot?"
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # Maybe it's about Ekiremi and me being ".
 
-    ("…なんて、都∮合のいい解釈はやめよう。†",
+    ("…なんて、都∮合のいい解釈はやめよう。",
     ""),
-    # ...Let's stop tampering with such a good interpretation.†
+    # ...Let's stop tampering with such a good interpretation.
 
-    ("「戟レミィは、いないのか？」",
+    ("「レミィは、いないのか？」",
     ""),
     # "Is there no wa Remie?"
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "Me?"
 
-    ("「ああ」†",
+    ("「ああ」",
     ""),
-    # "ah"†
+    # "ah"
 
-    ("「アタシ焜も好きな人、見つけようかナァ」",
+    ("「アタシも好きな人、見つけようかナァ」",
     ""),
     # "I also like, let's find someone, shall we?"
 
-    ("さっきまで獅落ち桙込んでいたのに、けっとして",
+    ("さっきまで落ち桙込んでいたのに、けっとして",
     ""),
     # It had been falling lion until just now, but it was a keen b
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Remy said.
 
-    ("「べつに、無摶理に見つけなくて烽もいいだ」†",
+    ("「べつに、無摶理に見つけなくてもいいだ」",
     ""),
     # "It's fine, it's fine if you can't find it without any problems."
 
@@ -106,23 +106,23 @@ text_array = [
     ""),
     # "Yeah. If you say so, I won't let you go."
 
-    ("さっきと烽もう、瘁違うことを言ってる。",
+    ("さっきともう、瘁違うことを言ってる。",
     ""),
     # I'm saying something different from before.
 
-    ("いったいどれが彼濫女の本心なのか、諱よく墲わからない。",
+    ("いったいどれが彼女の本心なのか、諱よくわからない。",
     ""),
     # I don't really know which one is the true feelings of a woman.
 
-    ("もしかしたら、からか墲われてるのか烽もな…。†",
+    ("もしかしたら、からかわれてるのかもな…。",
     ""),
-    # Perhaps it's been teased or even being stolen...†
+    # Perhaps it's been teased or even being stolen...
 
-    ("戟レミィは一見、ピントがとんで烽もない場鰹所に№合ってる｢｢要するに天然ボケ｢｢って感じだけど、じつは墲わざと外してるのか烽も…。†",
+    ("レミィは一見、ピントがとんでもない場鰹所に№合ってる｢｢要するに天然ボケ｢｢って感じだけど、じつはわざと外してるのかも…。",
     ""),
-    # At first glance, the wa Remy looks like a bonito spot with no focus and no hot water, and it looks like "in other words, it's a natural idiot" but in fact, it's probably a deliberately removed from the bonito...†
+    # At first glance, the wa Remy looks like a bonito spot with no focus and no hot water, and it looks like "in other words, it's a natural idiot" but in fact, it's probably a deliberately removed from the bonito...
 
-    ("その冾日は、戟レミィといい話したけど、結局、戟レミィはいつ烽もの撃レミィで、彼濫女の考えてることはよく墲わからなかった。◯",
+    ("その冾日は、レミィといい話したけど、結局、レミィはいつもの撃レミィで、彼女の考えてることはよくわからなかった。◯",
     ""),
     # On that day, I talked about B-B and B-B, but in the end, when it was a Hot Remy, I couldn't really understand what the overflowing woman was thinking.◯
 

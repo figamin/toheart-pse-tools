@@ -2,7 +2,7 @@
 # Source file: 0F06.txt
 
 text_array = [
-    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	♂史）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	雅史）閨（蛛主人公煙負け）†",
     ""),
     # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Choice Sou Maki) (Mrage Protagonist Smoke) †
 
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "I'm feeling bad right now."
 
-    ("「…なんつーか、こんなこと烽もあるだ」",
+    ("「…なんつーか、こんなこともあるだ」",
     ""),
     # "...I mean, there's something like this."
 
-    ("とは言った烽ものの、じっさいオレとｉ史の腕の差なんてこんな烽もんだう。†",
+    ("とは言ったものの、じっさいオレと史の腕の差なんてこんなもんだう。†",
     ""),
     # That said, the difference between my skills and I-Shin's skills is really hot.†
 
-    ("「梶相闡手がｉ史だからって、余裕コキすぎたんじ痰ゃないのぉ？」",
+    ("「梶相闡手が史だからって、余裕コキすぎたんじ痰ゃないのぉ？」",
     ""),
     # "Even if Kaji's relations are I-His, you're so generous, so you don't have to phlegm?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # You gave up the victory, right?”
 
-    ("その点、♂史は嬉しいことを言う。†",
+    ("その点、雅史は嬉しいことを言う。†",
     ""),
     # In that regard, Masushi says something happy about it.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Tampering, this is how skilled it is.
 
-    ("わざと奄負けるなんて墲器用なことできねえよ」",
+    ("わざと奄負けるなんて器用なことできねえよ」",
     ""),
     # There's no way you can do anything clever to lose on purpose, Amami."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "...You guys, just by playing games, don't deepen your affection and join in with the No. 1"
 
-    ("その繧後の志保あかり墲戦はというと、当然のことながら志保の圧汕勝となった。",
+    ("その後の志保あかり戦はというと、当然のことながら志保の圧汕勝となった。",
     ""),
     # After that, when it came to the match against Shiho Akari, Shiho was naturally hit by Shiho's siege.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Shiho, what are you eating?"
 
-    ("「あたし？	そーね、あたし、いまそんなにお腹すいてないから、ポテトでいい墲わよ」",
+    ("「あたし？	そーね、あたし、いまそんなにお腹すいてないから、ポテトでいいわよ」",
     ""),
     # "Me? Well, I'm not that hungry right now, so potatoes are fine."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Ah, I'm annoyed" †
 
-    ("卒業式なんて、在校生にとっては、そんななんで烽もない一勛日に過ぎない。◯",
+    ("卒業式なんて、在校生にとっては、そんななんでもない一勛日に過ぎない。◯",
     ""),
     # For current students, graduation ceremonies are nothing more than just one day without hot water.◯
 

@@ -10,7 +10,7 @@ text_array = [
     ""),
     # It's bad that you get the sputum of tuna and it's bad.
 
-    ("さっ、今厓日の汲昼£メシは何にするかな。†",
+    ("さっ、今厓日の昼メシは何にするかな。†",
     ""),
     # Well, what do I have to eat lunch on the day?†
 

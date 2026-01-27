@@ -2,7 +2,7 @@
 # Source file: 0F43.txt
 
 text_array = [
-    ("（３獅月１５冾日	土）閨（堰ラジオ	２回目）閨（冝期槙末テスト２冾日目）閨（氏試験２冾日目終了	イベント）†",
+    ("（３月１５冾日	土）閨（堰ラジオ	２回目）閨（冝期槙末テスト２冾日目）閨（氏試験２冾日目終了	イベント）†",
     ""),
     # (Saturday, 15th March) (2nd Weir Radio) (2nd Weir Radio) (2nd Day of the Cryptom Final Test) (2nd Day of the Cryptom Exam Exam) (2nd Event) †
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # ...That's ridiculous.†
 
-    ("まあ、オレ焜もオレなりにがんばるとするか。",
+    ("まあ、オレもオレなりにがんばるとするか。",
     ""),
     # Well, I think I'll try my best as well.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Isn't it lonely to tamper with it?
 
-    ("堰ラジオで烽も聞こうか。",
+    ("堰ラジオでも聞こうか。",
     ""),
     # Shall we listen to the hot springs on the weir radio too?
 

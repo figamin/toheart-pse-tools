@@ -26,7 +26,7 @@ text_array = [
     ""),
     # The child told me that Kotone Chisho-yan had gone to the Hore Infirmary.
 
-    ("なんで烽も、昼休みに貧剣血で倒齠れたらしい。",
+    ("なんでも、昼休みに貧剣血で倒齠れたらしい。",
     ""),
     # Apparently, Hou was defeated by poor sword blood during lunch break.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # He said that and woke up.
 
-    ("「教室に行ったら、倒齠れたって…。オレ、°㈲合を見にきただけだから、寝てて烽もいいぜ」",
+    ("「教室に行ったら、倒齠れたって…。オレ、°㈲合を見にきただけだから、寝ててもいいぜ」",
     ""),
     # "When I went to the classroom, they ended up knocking me down... I just came to see the °㈲る, so I'm fine with sleeping and hot water."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "We're doing well, so don't panic."
 
-    ("「…わたし、さんにｊんで烽もらおうと思って…諱頑張ったんです…」",
+    ("「…わたし、さんにｊんでもらおうと思って…諱頑張ったんです…」",
     ""),
     # "...I was thinking about getting a slut and getting some hot water...I did my best..."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Kotone Chishou-san..."
 
-    ("「…ダ＜メですね、わたし。…いつかきっと、この能力が押さえきれないほど大きくなって、さんやみんなに取闔り返しのつかないことをしてしまうんです…」",
+    ("「…ダ＜メですね、わたし。…いつかきっと、この能力が押さえきれないほど大きくなって、さんやみんなに取り返しのつかないことをしてしまうんです…」",
     ""),
     # "...That's a shame, I'm... I'm sure one day I'll grow so big that I can't hold this ability down, and I'll end up doing things that are irresistible and irresistible to everyone..."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "My gut-rei is just a trigger, so don't worry too much about it. But don't let Amami fall for me."
 
-    ("そう言ってオレは、彼濫女の肩をぽんとたたいた。",
+    ("そう言ってオレは、彼女の肩をぽんとたたいた。",
     ""),
     # With that in mind, I slap the overwhelmed woman on the shoulder.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # It's a bit dark atmosphere.
 
-    ("元気づけてやるつ烽もりが、かえってしんみりさせてしまったな…。◯",
+    ("元気づけてやるつもりが、かえってしんみりさせてしまったな…。◯",
     ""),
     # The cheering and tampering with him has actually made me feel sad...◯
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Light scale event 1F 1) (Choice B: No, it's so sputum)†
 
-    ("「ったく、冝期槙末燒もすぐそこだってのに、なにくだんねーことで盛關り繧上がってんだ」",
+    ("「ったく、冝期槙末燒もすぐそこだってのに、なにくだんねーことで盛關り上がってんだ」",
     ""),
     # "Even though the sinister age of the sinister maki Sue-setsu is just around the corner, what is causing the rise to great success?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "That's the phlegm" †
 
-    ("あかりとｉ史に手を振って、オレは烽歩き出した。◯",
+    ("あかりと史に手を振って、オレは歩き出した。◯",
     ""),
     # Waving to Akari and Ishi, I began to walk around.◯
 

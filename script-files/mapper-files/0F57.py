@@ -2,7 +2,7 @@
 # Source file: 0F57.txt
 
 text_array = [
-    ("（４獅月２６冾日	土）閨（堰ラジオ	８回目）閨（堰ラジオ聞かない場㍼合）†",
+    ("（４月２６冾日	土）閨（堰ラジオ	８回目）閨（堰ラジオ聞かない場㍼合）†",
     ""),
     # (Saturday, April 26th) (8th weir radio) (1st place to listen to the weir radio) (1st place to listen to the weir radio) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # yes.
 
-    ("オレの入％浴タイムが始まるのだ。†",
+    ("オレの入％タイムが始まるのだ。†",
     ""),
     # My slutty bath time begins.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # I took off my clothes, plunged into the washing machine and put them in the washing machine...
 
-    ("誰か背白で烽も流してくんねーかな。◯",
+    ("誰か背白でも流してくんねーかな。◯",
     ""),
     # I wonder if someone will let you know if you're disgusted, and let the hot water go.◯
 

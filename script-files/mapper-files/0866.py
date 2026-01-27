@@ -2,11 +2,11 @@
 # Source file: 0866.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベントＰＳ）閨（２階３）†",
+    ("（レミィ	回秤数イベントＰＳ）閨（２階３）",
     ""),
-    # (Game Remy Scale Event PS) (2nd floor 3)†
+    # (Game Remy Scale Event PS) (2nd floor 3)
 
-    ("授業が終尞わり、廊下を何げなく烽歩いていると、諱先の方を制梵服をｒた烽金髪が烽歩いている。",
+    ("授業が終尞わり、廊下を何げなく歩いていると、諱先の方を制梵服をｒた金髪が歩いている。",
     ""),
     # As the class was over, I casually walked down the hallway, a blond hair in a brazen uniform was roaming around the hallway.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # A: Chase and call out to me.Relax
 
-    ("Ｂ	なに烽もしない。閨",
+    ("Ｂ	なにもしない。閨",
     ""),
     # B. There's nothing to be hot.Relax
 

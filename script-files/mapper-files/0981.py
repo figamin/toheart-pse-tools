@@ -2,15 +2,15 @@
 # Source file: 0981.txt
 
 text_array = [
-    ("（♂史回秤数イベント	３／４	学校を出髀る）閨（校蜊門２）†",
+    ("（雅史回秤数イベント	３／４	学校を出髀る）閨（校門２）",
     ""),
-    # (Male History Scale Event 3/4) Lee (School Gate 2)†
+    # (Male History Scale Event 3/4) Lee (School Gate 2)
 
-    ("校蜊門近くで、♂史を見かけた。",
+    ("校門近くで、雅史を見かけた。",
     ""),
     # I saw Masochistic History near the school gates.
 
-    ("「諱よっ、♂史」",
+    ("「諱よっ、雅史」",
     ""),
     # "As you, Male History"
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "I'll change the r now and get a club."
 
-    ("そう、♂史はサッカー部兜所属だ。",
+    ("そう、雅史はサッカー部兜所属だ。",
     ""),
     # Yes, Masochist is a member of the soccer club Kabuto.
 
-    ("冝放課繪後はいつ烽も遅くまで練習している。†",
+    ("冝放課繪後はいつも遅くまで練習している。",
     ""),
-    # After the school is over, the hot springs are always practicing fortune until late.†
+    # After the school is over, the hot springs are always practicing fortune until late.
 
-    ("「蛛大変だな、いつ烽もいつ烽も」",
+    ("「蛛大変だな、いつもいつも」",
     ""),
     # "It's tough, when and when and when."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Hey"
 
-    ("梶相変﨑わらずのさ墲わやかくんだこと。†",
+    ("梶相変﨑わらずのさわやかくんだこと。",
     ""),
-    # Kaji Ai Henzaki is a bit of a mess.†
+    # Kaji Ai Henzaki is a bit of a mess.
 
-    ("「それより烽も、どう？",
+    ("「それよりも、どう？",
     ""),
     # "What about Hot, too?
 
@@ -58,23 +58,23 @@ text_array = [
     ""),
     # Will you join the soccer club too?”
 
-    ("「そいつは烽もう聞き飽きた。いい加減、オレを誘うのはあきらめよ」",
+    ("「そいつはもう聞き飽きた。いい加減、オレを誘うのはあきらめよ」",
     ""),
     # "He's already tired of hearing it. I'm giving up on asking you to go crazy."
 
-    ("「で烽も、もったいないと思うなァ。せっかく才能あるのに」",
+    ("「でも、もったいないと思うなァ。せっかく才能あるのに」",
     ""),
     # "And I think it's a waste to have a hot topic. Even though he's talented."
 
-    ("「ねー諱よ」†",
+    ("「ねー諱よ」",
     ""),
-    # "Hey, my name"†
+    # "Hey, my name"
 
-    ("「そんなことないよ。僕がサッカー始めたの烽も、もと烽もとに教寀わったからだし…」",
+    ("「そんなことないよ。僕がサッカー始めたのも、もともとに教寀わったからだし…」",
     ""),
     # "That's not true. I started soccer because I was taught by Kon and Kon..."
 
-    ("「そいつ烽も烽もう聞き飽きた。教えたっつって烽もガキの遊び撃レベルだ。才能あるのはお前だって。うちのサッカー部、冝期待の汲ルーキーなんだ？」†",
+    ("「そいつももう聞き飽きた。教えたっつってもガキの遊び撃レベルだ。才能あるのはお前だって。うちのサッカー部、冝期待のルーキーなんだ？」",
     ""),
     # "I'm tired of hearing that guy. I told you, you're a kid who's a kid's play-off and crying. You're the one with the talent. Is this a rookie who's hopeful for me in our soccer team?"
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # "Don't sniff. That's a proof that the guys on the team are buying you."
 
-    ("「そうかな…」†",
+    ("「そうかな…」",
     ""),
-    # "Is that so..." †
+    # "Is that so..." 
 
-    ("「ま、それはと烽もかく、サッカー部の勧誘は今纃後、お断闥りだかんな」",
+    ("「ま、それはともかく、サッカー部の勧誘は今纃後、お断闥りだかんな」",
     ""),
     # "Well, that's true, and I'm not sure if the soccer club will be recruited right now."
 
-    ("「…しょうがない。気長に待つよ」†",
+    ("「…しょうがない。気長に待つよ」",
     ""),
     # "...There's no essay. I'll wait patiently."
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # "That's why don't expect it. It's phlegm."
 
-    ("深嵩闢りすると、どう烽も断闥りにくくなる。",
+    ("深嵩闢りすると、どうも断闥りにくくなる。",
     ""),
     # If you get too close, it becomes difficult to stop the heat.
 
-    ("半ば強引に切關り繧上げ、背をｌけた。",
+    ("半ば強引に切關り上げ、背をｌけた。",
     ""),
     # He forced himself to lift his back and leaned back.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Ah, phlegm, come on again."
 
-    ("♂史はにっこり笑って言った。◯",
+    ("雅史はにっこり笑って言った。◯",
     ""),
     # Masochi said with a smile.◯
 

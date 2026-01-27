@@ -2,11 +2,11 @@
 # Source file: 0A6C.txt
 
 text_array = [
-    ("（Ｂ	あかりといっしょに行く。）†",
+    ("（Ｂ	あかりといっしょに行く。）",
     ""),
-    # (B: Go to Akari and Isshii.)†
+    # (B: Go to Akari and Isshii.)
 
-    ("「浴雛山さん、急にどうしち痰ゃったんだ？」",
+    ("「雛山さん、急にどうしち痰ゃったんだ？」",
     ""),
     # "Bath Hinayama-san, what's the sudden phlegm? b?"
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "What, п?"
 
-    ("「昔からよくあることだ？	いまさら烽説明するの烽もおっくうだぜ」",
+    ("「昔からよくあることだ？	いまさら説明するのもおっくうだぜ」",
     ""),
     # "It's been a common occurrence for a long time? I'm not too excited to explain it now."
 
-    ("「で烽も、勘瘧違いされたままでいいの？」",
+    ("「でも、勘違いされたままでいいの？」",
     ""),
     # "And is it okay if you leave Hoo in a misunderstanding too?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Additionally.
 
-    ("もう慣れたよ」†",
+    ("もう慣れたよ」",
     ""),
     # I'm used to it now"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # If she hadn't changed as she was back then, then Erie Ochi Sphin-yan would love me.
 
-    ("そんな揩理女緒ち痰ゃんにすれば、オレとあかりの関係は、気になって仕緖方ないとこだう。",
+    ("そんな理女緒ち痰ゃんにすれば、オレとあかりの関係は、気になって仕緖方ないとこだう。",
     ""),
     # If I were to use this as a stimulating stimulus, I was curious about the relationship between me and Akari, so I was sure I had to deal with her.
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # But...
 
-    ("ただの幼なじみか…。†",
+    ("ただの幼なじみか…。",
     ""),
-    # Just a childhood friend...†
+    # Just a childhood friend...
 
     ("「あかり」",
     ""),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Are you just a childhood friend?"
 
-    ("「ただの…？」†",
+    ("「ただの…？」",
     ""),
     # "Just...?"
 
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # He showed a complicated table.
 
-    ("「だから、わざ墲わざ追っかけて訂正すること烽もないって言ってんだよ」",
+    ("「だから、わざわざ追っかけて訂正することもないって言ってんだよ」",
     ""),
     # "That's why I say there's no need to go along and revise it."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("深く取骼る烽もよし、軽く受け止める烽もよし。",
+    ("深く取骼るもよし、軽く受け止めるもよし。",
     ""),
     # You can also take a deep look, or take a light look.
 

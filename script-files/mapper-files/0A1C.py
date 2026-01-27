@@ -2,9 +2,9 @@
 # Source file: 0A1C.txt
 
 text_array = [
-    ("（掾理女緒	回秤数イベント）閨（帰驪る	ＬＶ２）†",
+    ("（掾理女緒	回秤数イベント）閨（帰驪る	ＬＶ２）",
     ""),
-    # (Erimeo O's Scales Event) (Back to the LV2)†
+    # (Erimeo O's Scales Event) (Back to the LV2)
 
     ("「わう」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Hmm?"
 
-    ("オレの足熨もとになにかが飛びついてきた。†",
+    ("オレの足熨もとになにかが飛びついてきた。",
     ""),
-    # Something jumped at my feet.†
+    # Something jumped at my feet.
 
     ("「おっ、なんだ。玄太郎じ痰ゃねーか」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # Gentaro is a large dog that is being kept in this nearby Kudzu area, and is extremely friendly.
 
-    ("ただし、いつ烽もは翌女性に限ってなんだが…。†",
+    ("ただし、いつもは翌女性に限ってなんだが…。",
     ""),
-    # However, when is the only time for the next woman?†
+    # However, when is the only time for the next woman?
 
     ("「なんだか今厓日は機刹嫌がいいな。男のオレにくっついてくるなんて」",
     ""),
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # I gulp Gentaro's head roughly.
 
-    ("すると玄太郎燔もすがるようにして、オレの顔を大きな繧舌で汲豪快に舐める。†",
+    ("すると玄太郎燔もすがるようにして、オレの顔を大きな舌で豪快に舐める。",
     ""),
-    # Then Gentarou retreated, licking my face with a huge tongue.†
+    # Then Gentarou retreated, licking my face with a huge tongue.
 
-    ("「う墲わっ、♂ねーな、このрヤ鴻ロー」",
+    ("「うわっ、雅ねーな、このрヤ鴻ロー」",
     ""),
     # "Uh, you're not a slut, this yang rou."
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "Hahahaha..."
 
-    ("べべ。†",
+    ("べべ。",
     ""),
-    # BB.†
+    # BB.
 
     ("「ははは、ばか、やめよ」",
     ""),
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Hahahaha..."
 
-    ("べべ。†",
+    ("べべ。",
     ""),
-    # BB.†
+    # BB.
 
-    ("「おいおい、制梵服がｉ俾奄るだ？」",
+    ("「おいおい、制梵服が俾奄るだ？」",
     ""),
     # "Hey hey, the Brahmin uniforms are in the air, right?"
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "Hahahaha..."
 
-    ("べべ。†",
+    ("べべ。",
     ""),
-    # BB.†
+    # BB.
 
-    ("「♂ねーっつってんだがッ！」",
+    ("「雅ねーっつってんだがッ！」",
     ""),
     # "You're so gay, b!"
 
@@ -94,23 +94,23 @@ text_array = [
     ""),
     # "Hey, come on...!"
 
-    ("「ん？」†",
+    ("「ん？」",
     ""),
-    # "yeah?"†
+    # "yeah?"
 
     ("「くんから、はっ、離齬れなさいっ…！」",
     ""),
     # "From you, kun, please, get away with us...!"
 
-    ("そこには、震えながら烽も、きびしい表﨣情の揩理女緒ち痰ゃんがいた。",
+    ("そこには、震えながらも、きびしい表﨣情の理女緒ち痰ゃんがいた。",
     ""),
     # There, even Hou was trembling, and there was a harsh, emotional, emotional woman, Ochi Sphinja.
 
-    ("どこから揩持ってきたのか、両手でしっかりと棒切齔れをにぎっている。",
+    ("どこから持ってきたのか、両手でしっかりと棒切齔れをにぎっている。",
     ""),
     # I was holding the stick cut and kneaded firmly with my hands, wondering where he brought it from.
 
-    ("「あっ、あっちへ行きなさいっ…！」†",
+    ("「あっ、あっちへ行きなさいっ…！」",
     ""),
     # "Ah, go over there...!"
 
@@ -126,17 +126,17 @@ text_array = [
     ""),
     # "Ahhhh!!"
 
-    ("玄太郎は嬉しそうに吠え立て、掾理女緒ち痰ゃんのほうに飛び出した。†",
+    ("玄太郎は嬉しそうに吠え立て、掾理女緒ち痰ゃんのほうに飛び出した。",
     ""),
-    # Gentaro barked happily and ran towards the shoddy smugan.†
+    # Gentaro barked happily and ran towards the shoddy smugan.
 
     ("「き痰ゃあっ！」",
     ""),
     # "Ahhhh!"
 
-    ("それまでは勇ましく立っていた揩理女緒ち痰ゃんだったが、♀んでせまりくる玄太郎の姿に、さすがに逃げｍになってしまう。†",
+    ("それまでは勇ましく立っていた理女緒ち痰ゃんだったが、♀んでせまりくる玄太郎の姿に、さすがに逃げｍになってしまう。",
     ""),
-    # Until then, she was standing bravely, but when Gentaro was seen as a female, she ended up running away.†
+    # Until then, she was standing bravely, but when Gentaro was seen as a female, she ended up running away.
 
     ("「わうっ！	わうっ！」",
     ""),
@@ -150,19 +150,19 @@ text_array = [
     ""),
     # "As expected of a pervert dog."
 
-    ("пヤツはイヌのくせに、浴女の子のスカートのｒ身に目がない。",
+    ("пヤツはイヌのくせに、女の子のスカートのｒ身に目がない。",
     ""),
     # Although she's a dog, she has no eye on the skirt of a bath girl.
 
-    ("近葛所じ痰ゃ、スケベ犬なんて名前で通ってるくらいだ。†",
+    ("近葛所じ痰ゃ、スケベ犬なんて名前で通ってるくらいだ。",
     ""),
-    # He even goes by the name of a perverted dog.†
+    # He even goes by the name of a perverted dog.
 
     ("「どっ、どっか行ってぇーーっ！」",
     ""),
     # "W-w-w-go somewhere!"
 
-    ("必死に叫びながらブンブンと棒を振關り回す揩理女緒ち痰ゃん。",
+    ("必死に叫びながらブンブンと棒を振關り回す理女緒ち痰ゃん。",
     ""),
     # I screamed desperately and shouted the stick around.
 
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # If the shoman is sniffing, he will sniff and sniffing, Gentaro chases him with a huge sniffing.
 
-    ("へんないたちごっこだな。†",
+    ("へんないたちごっこだな。",
     ""),
-    # It's a weird game of play.†
+    # It's a weird game of play.
 
     ("「は、＝早く逃げて、くんっ！！」",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("なんか勘瘧違いしてるみたいだけど…。†",
+    ("なんか勘違いしてるみたいだけど…。",
     ""),
-    # It seems like he's misguided...†
+    # It seems like he's misguided...
 
     ("とりあえずオレは｢｢。",
     ""),

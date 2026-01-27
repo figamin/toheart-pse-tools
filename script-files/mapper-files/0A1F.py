@@ -2,11 +2,11 @@
 # Source file: 0A1F.txt
 
 text_array = [
-    ("（Ｃ	逃げる。）†",
+    ("（Ｃ	逃げる。）",
     ""),
-    # (C: Run away.)†
+    # (C: Run away.)
 
-    ("諱よく墲わからないけど、なんだか逃げなき痰ゃいけないらしい。",
+    ("諱よくわからないけど、なんだか逃げなき痰ゃいけないらしい。",
     ""),
     # I don't really understand the name, but it seems like I have to run away from it.
 
@@ -18,27 +18,27 @@ text_array = [
     ""),
     # "Oh, oh, sputum..."
 
-    ("オレはとまどいながら烽もその場を獅去驪る。†",
+    ("オレはとまどいながらもその場を去驪る。",
     ""),
-    # My heart was confused, but Hou also stumbled away from the scene.†
+    # My heart was confused, but Hou also stumbled away from the scene.
 
-    ("氏去闍り際、背白で揩理女緒ち痰ゃんが、",
+    ("氏去闍り際、背白で理女緒ち痰ゃんが、",
     ""),
     # As he left, he was in a disguise and was smug,
 
-    ("「二人と烽も無末事だったら、またどこかでр巡闖りｉおうね…」",
+    ("「二人とも無末事だったら、またどこかでр巡闖りおうね…」",
     ""),
     # "If the two and Hot are both okay, I'll go and go again somewhere else..."
 
-    ("と、なんだかよく墲わからないが、キラキラした目で言った。†",
+    ("と、なんだかよくわからないが、キラキラした目で言った。",
     ""),
-    # He said with his eyes, although I don't really understand it.†
+    # He said with his eyes, although I don't really understand it.
 
-    ("諱取闔りあえず、いまｗた道を少し引き返した。",
+    ("諱取りあえず、いまｗた道を少し引き返した。",
     ""),
     # Without trying to get my name back, I turned a little on the path I had just said.
 
-    ("しかし、掾理女緒ち痰ゃんってよく墲わからない子だよな。",
+    ("しかし、掾理女緒ち痰ゃんってよくわからない子だよな。",
     ""),
     # However, I guess Erie Ochi is a child who doesn't really understand it.
 

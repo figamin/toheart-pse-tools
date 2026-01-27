@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It feels strangely clear.
 
-    ("窓の外にすがすがしい青空が広がっているからか烽も知れない。†",
+    ("窓の外にすがすがしい青空が広がっているからかも知れない。†",
     ""),
     # Perhaps because there is a refreshing blue sky outside the window, the hot water is not even aware of it.†
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # When I told him I went to a house where no one had been there, I left the front door and locked it.◯
 
-    ("いつ烽もと同じ桙時間。",
+    ("いつもと同じ桙時間。",
     ""),
     # When is the same time as the hot spring.
 
-    ("いつ烽もと同じ場鰹所。",
+    ("いつもと同じ場鰹所。",
     ""),
     # When was the same bonito spot as the hotpot.
 
-    ("そしていつ烽もと同じように、縺後撃からあかりがやってきて、いつ烽もと同じように明髢るい笑迴顔で｢｢。†",
+    ("そしていつもと同じように、縺後撃からあかりがやってきて、いつもと同じように明髢るい笑顔で｢｢。†",
     ""),
     # And just like when Kano, Akari came to tamper with the attack after the attack, and when Kano looked like he was laughing out loud, ".†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Ah, Akari...!?"
 
-    ("あかりを見骭るなり、不覚に烽もオレは思寬わず言葉を失ってしまった。",
+    ("あかりを見骭るなり、不覚にもオレは思寬わず言葉を失ってしまった。",
     ""),
     # As I looked over at Akari, I was left speechless, and I couldn't help but think about it.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "...Did you change your hairstyle?"
 
-    ("見鼬ればすぐに墲わかることをあえて聞く。",
+    ("見鼬ればすぐにわかることをあえて聞く。",
     ""),
     # If you look at it, you will immediately listen to what you understand.
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "Yes. Please wake up early this morning."
 
-    ("頬にかかる髪がまだ慣れないのか、あかりはそう言いながら烽もしきりに髪に触齔れていた。†",
+    ("頬にかかる髪がまだ慣れないのか、あかりはそう言いながらもしきりに髪に触齔れていた。†",
     ""),
     # Akari said as he was constantly touching his hair, perhaps because he wasn't used to the hair that was still stuck on his cheek.†
 
-    ("前で汲結んだ小さな鰍リボン。",
+    ("前で結んだ小さな鰍リボン。",
     ""),
     # A small crimson ribbon that was drawn in front of me.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "No, it's tampering, it's all..."
 
-    ("オレは汲視諮をそらし、あいまいに嘯答えた。",
+    ("オレは視諮をそらし、あいまいに嘯答えた。",
     ""),
     # I distracted the advice of the counsel and replied vaguely.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("「浴似㍽合寘わないんなら、正直にそう言ってね」",
+    ("「似㍽合寘わないんなら、正直にそう言ってね」",
     ""),
     # "If you don't have to sing together like a bath, be honest and say that."
 
@@ -198,7 +198,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("少しの間、ふたりと烽も言葉に詰まったまま道を烽歩いた。",
+    ("少しの間、ふたりとも言葉に詰まったまま道を歩いた。",
     ""),
     # For a moment, the two of them and the others walked down the road, stuck in words.
 
@@ -214,11 +214,11 @@ text_array = [
     ""),
     # What are you nervous about Akari's monkeys, I'm so excited.†
 
-    ("たしかに、前のおさげのときより烽もずっと大人っぽくなった。",
+    ("たしかに、前のおさげのときよりもずっと大人っぽくなった。",
     ""),
     # Certainly, the hot springs have become much more mature than when they were with the pigtails before.
 
-    ("浴似㍽合寘わない墲わけで烽もない。",
+    ("似㍽合寘わないわけでもない。",
     ""),
     # There is no hot water, so there is no hot water.
 
@@ -226,11 +226,11 @@ text_array = [
     ""),
     # I think it feels good.
 
-    ("で烽も、なぜだう。",
+    ("でも、なぜだう。",
     ""),
     # And why is it b?
 
-    ("素直にそれをほめる気に烽もなれなかった。†",
+    ("素直にそれをほめる気にもなれなかった。†",
     ""),
     # I couldn't even get too excited about praiseing it honestly.†
 
@@ -238,11 +238,11 @@ text_array = [
     ""),
     # I felt like the light was so bright that it was not phlegm.
 
-    ("氈押しに繧弱くて鈍くさい、そんなオレのよく知ってるあかりじ痰ゃなくて、まるで全然知迺らない別の翌女の子が横にいるみたいだった。",
+    ("氈押しに弱くて鈍くさい、そんなオレのよく知ってるあかりじ痰ゃなくて、まるで全然知迺らない別の翌女の子が横にいるみたいだった。",
     ""),
     # He was weak and dull to push, and it was like another girl next to me, who knew nothing about me, but she wasn't familiar with anything at all.
 
-    ("だからなのか、なんとなく痰違和感みたいな烽ものを感じた。†",
+    ("だからなのか、なんとなく痰違和感みたいなものを感じた。†",
     ""),
     # Perhaps that's why I felt something like a phlegm discomfort.†
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "Shall I return it back after all?"
 
-    ("そう言って、あかりは繧上目づかいにオレを見て、遠慮がちに微笑んだ。",
+    ("そう言って、あかりは上目づかいにオレを見て、遠慮がちに微笑んだ。",
     ""),
     # With that in mind, Akari looked at me with her eyes and smiled reluctantly.
 
@@ -278,7 +278,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("その仕寬種は、いつ烽ものオレのよく知ってるあかりのそれ、その烽ものだった。†",
+    ("その仕寬種は、いつものオレのよく知ってるあかりのそれ、そのものだった。†",
     ""),
     # The stove was the well-known light blue species of hot water, which was the hot one.†
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # After all, Akari is Akari after all.
 
-    ("そんな魔当たり前のことをあらためて認識した途端、胸につかえていた烽ものは意外なほどあっさりと消えてしまった。",
+    ("そんな魔当たり前のことをあらためて認識した途端、胸につかえていたものは意外なほどあっさりと消えてしまった。",
     ""),
     # As soon as I realized this obvious thing, the hot thing that had been held in my chest disappeared surprisingly quickly.
 
@@ -306,7 +306,7 @@ text_array = [
     ""),
     # "...honto?"
 
-    ("「ああ、浴似㍽合ってる。なんだかいつ烽ものお前じ痰ゃないみたいでさ、動揺しちまったぜ」",
+    ("「ああ、似㍽合ってる。なんだかいつものお前じ痰ゃないみたいでさ、動揺しちまったぜ」",
     ""),
     # "Ah, it looks like a bath. It seems like you're a hottie, you're not phlegm, and I'm so upset."
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # Akari's speciality is to spot my lies.
 
-    ("だから、オレが本末当のことを言ってるっての烽もよく墲わかるはずだ。†",
+    ("だから、オレが本末当のことを言ってるってのもよくわかるはずだ。†",
     ""),
     # That's why I should be able to understand how I'm talking about the truth.†
 
@@ -374,7 +374,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("そんなあかりの笑迴顔は、いつになく眩しく見えた。†",
+    ("そんなあかりの笑顔は、いつになく眩しく見えた。†",
     ""),
     # Akari's face looked more dazzling than ever before.†
 
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # "Ah, Akari!? What's up with that hair?"
 
-    ("教室前の廊下でｉった志保は、あかりの髪を見骭るなり大袈裟に驚いた。",
+    ("教室前の廊下でった志保は、あかりの髪を見骭るなり大袈裟に驚いた。",
     ""),
     # Shiho, who was in the hallway in front of the classroom, looked over at Akari's hair and was surprised by how exaggerated it was.
 

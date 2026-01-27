@@ -2,9 +2,9 @@
 # Source file: 06AA.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜ＡＢＣの続き）閨（ゲーセン前）†",
+    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜ＡＢＣの続き）閨（ゲーセン前）",
     ""),
-    # (Muryuruchi, the balance event, return trip) (continued from Chosen ABC) (in front of the arcade) †
+    # (Muryuruchi, the balance event, return trip) (continued from Chosen ABC) (in front of the arcade) 
 
     ("ゲームを終えて店を出髀ると、ちょうど痰例の友だち高ロボット、セリオがやってきた。",
     ""),
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "Ah, Seragata Rio."
 
-    ("「お待たせしました、マルチさん。どう烽も、こんにちは、さん」",
+    ("「お待たせしました、マルチさん。どうも、こんにちは、さん」",
     ""),
     # "Sorry for the wait, Ruchi-san. Hello, Mr."
 
-    ("「おっす」†",
+    ("「おっす」",
     ""),
-    # "Oh" †
+    # "Oh" 
 
-    ("「さん。今厓日はありがとうございました。とって烽も楽しかったです」",
+    ("「さん。今厓日はありがとうございました。とっても楽しかったです」",
     ""),
     # "Mr. Thank you for the day you've just got a little fun."
 
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Oh, let's play with the ephemeral next time."
 
-    ("「はいっ」†",
+    ("「はいっ」",
     ""),
-    # "Yes" †
+    # "Yes" 
 
     ("ブ鴻ロ鴻ロ鴻ロ鴻ロ…。",
     ""),
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Mr. See you later."
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
-    ("にっこり笑迴顔で手を振って、マルチはとんとんと、バスに乗闖り桙込んだ。",
+    ("にっこり笑顔で手を振って、マルチはとんとんと、バスに乗闖り桙込んだ。",
     ""),
     # He smiled and waved his hand with a smile, and cried, and quickly got on the bus and snatched.
 
@@ -62,19 +62,19 @@ text_array = [
     ""),
     # "Goodbye, san."
 
-    ("「おう、じ痰ゃあな」†",
+    ("「おう、じ痰ゃあな」",
     ""),
-    # "Oh, sputum" †
+    # "Oh, sputum" 
 
     ("ブ鴻ロ鴻ロ鴻ロ鴻ロ…。",
     ""),
     # Bang Hong Ro Hong Ro Hong Ro...
 
-    ("ふたりの乗ったバスが魔走闡り獅去っていく。",
+    ("ふたりの乗ったバスが魔走闡り去っていく。",
     ""),
     # The bus they were on leaves the lion with a scourge.
 
-    ("一番續後撃の席に座ったマルチが、窓から笑迴顔で手を振っていた。◯",
+    ("一番續後撃の席に座ったマルチが、窓から笑顔で手を振っていた。◯",
     ""),
     # Makruchi sat in the seat of the first aftermath, and was waving from the window with a laughing face.◯
 

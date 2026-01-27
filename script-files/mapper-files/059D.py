@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Oh, it's time for the banquet love.
 
-    ("坂下との獅試㍽合にｌけて、葵ち痰ゃんをうまくサポートしてやらないとな。†",
+    ("坂下との試㍽合にｌけて、葵ち痰ゃんをうまくサポートしてやらないとな。†",
     ""),
     # I have to get into the lion test match with Akesakashita and support Aoi Chisho-chan and tamper with him.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Get close and hit it repeatedly!Repeated hits!Repeated hits!!
 
-    ("縺後撃からサンドバッグを支えているオレの手に烽も、ビシバシ衝ｏ撃が伝崧わってくる。†",
+    ("縺後撃からサンドバッグを支えているオレの手にも、ビシバシ衝ｏ撃が伝崧わってくる。†",
     ""),
     # After the attack, the firearms were also hit by my gang's hand, supporting the punching bag, and the attacks were also reported.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Haa, haa, haa, haa..."
 
-    ("肩が大きく繧上下し、額から汗のｎがこぼれ獅落ちる。†",
+    ("肩が大きく上下し、額から汗のｎがこぼれ落ちる。†",
     ""),
     # His shoulders leapt up and down, and sweat fell from his forehead.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Haa, haa..., haa, yes"
 
-    ("前回ふたりでｌめたスケジャールにｉって、坂下妺戦へｌけての特訓は続けられていた。",
+    ("前回ふたりでｌめたスケジャールにって、坂下戦へｌけての特訓は続けられていた。",
     ""),
     # The two of them had a special training session last time, and they continued to train in the match against Haesaka Shimota.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # I'm currently looking to train in the continuous rush of the season.
 
-    ("ハードな奄ラッシャを繰り返し何度燗も打ち、十分なスタミナを養おうという烽ものだ。†",
+    ("ハードな奄ラッシャを繰り返し何度燗も打ち、十分なスタミナを養おうというものだ。†",
     ""),
     # It's a hot dish that involves repeating hard Amami Rusha and baking it over and over again to build up enough stamina.†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # They do not allow anti-T attacks, do not allow evasions, and continue to give damage until the Kaji Senju player KOs.
 
-    ("その連打苑ラッシャを使いこなすためには、なにはと烽もあれ、まずは十分なスタミナを養嵭わなけり痰ゃいけないのだ。†",
+    ("その連打苑ラッシャを使いこなすためには、なにはともあれ、まずは十分なスタミナを養嵭わなけり痰ゃいけないのだ。†",
     ""),
     # In order to master the continuous rascha, you must first develop enough stamina and gain enough stimulation.†
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("オレは繧後撃からサンドバッグを抱え、時計を見た。",
+    ("オレは後撃からサンドバッグを抱え、時計を見た。",
     ""),
     # After the attack, I held my punching bag and looked at the watch.
 
-    ("葵ち痰ゃん烽も繧上体を起こし、構え始める。†",
+    ("葵ち痰ゃんも上体を起こし、構え始める。†",
     ""),
     # Aoi Chisho-chan's body is lifted up and begins to stand up.†
 

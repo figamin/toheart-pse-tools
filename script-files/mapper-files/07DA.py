@@ -2,11 +2,11 @@
 # Source file: 07DA.txt
 
 text_array = [
-    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	言えない魔事諶情があんのか？）†",
+    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	言えない魔事諶情があんのか？）",
     ""),
-    # (Kotone PS Scale Number Event) (Chounen: Are there any magical feelings that you can't say?)†
+    # (Kotone PS Scale Number Event) (Chounen: Are there any magical feelings that you can't say?)
 
-    ("「言えない魔事諶情があんのか？」†",
+    ("「言えない魔事諶情があんのか？」",
     ""),
     # "Are you feeling a magical character that you can't say?"
 
@@ -14,9 +14,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレが聞いて烽も、琴音ち痰ゃんは黙ったままだった。†",
+    ("オレが聞いても、琴音ち痰ゃんは黙ったままだった。",
     ""),
-    # When I listened, Kotone Chisho-chan remained silent.†
+    # When I listened, Kotone Chisho-chan remained silent.
 
     ("「なんか訳ありらしいな」",
     ""),
@@ -26,13 +26,13 @@ text_array = [
     "…"),
     # "..."
 
-    ("琴音ち痰ゃんはなに烽も言甯わなかったが、少しだけオレを見た。",
+    ("琴音ち痰ゃんはなにも言甯わなかったが、少しだけオレを見た。",
     ""),
     # Kotone Chisho-yan couldn't say anything about it, but I saw a bit of a thrill.
 
-    ("すぐに元どおり目を嘯伏せたが、その瞳は、なにかをオレに伝えようとしているように思えた。†",
+    ("すぐに元どおり目を嘯伏せたが、その瞳は、なにかをオレに伝えようとしているように思えた。",
     ""),
-    # I quickly turned my eyes down as I had just returned to normal, but it seemed like my eyes were trying to convey something to me.†
+    # I quickly turned my eyes down as I had just returned to normal, but it seemed like my eyes were trying to convey something to me.
 
     ("「なあ、オレに｢｢」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "If you ask me about it, it will cause trouble for you..."
 
-    ("言いかけたオレの言葉を、悲しげな言葉で琴音ち痰ゃんはさえぎった。†",
+    ("言いかけたオレの言葉を、悲しげな言葉で琴音ち痰ゃんはさえぎった。",
     ""),
-    # Kotone Chisho-yan interrupted my words with sad words.†
+    # Kotone Chisho-yan interrupted my words with sad words.
 
     ("「迷惑？」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Kotone Chisho-chan bowed her head and gave a squeal.
 
-    ("「あ…」†",
+    ("「あ…」",
     ""),
-    # "a…"†
+    # "a…"
 
     ("雰囲気が雰囲気だけに、オレはそれ以繹上声をかけることができなかった。",
     ""),

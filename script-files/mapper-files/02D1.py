@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Huh? That's amazing? It's not like that.
 
-    ("ラクショーつって烽も、オレなりの奄ラクショーだからさ」†",
+    ("ラクショーつっても、オレなりの奄ラクショーだからさ」†",
     ""),
     # The easy way, the hot water is just my super-loving Amami."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # I wonder if there's such a good b-magic that's right for the city.
 
-    ("いや、で烽もやるだけやって烽もらおうか。†",
+    ("いや、でもやるだけやってもらおうか。†",
     ""),
     # Let's tamper with it, and then we'll tamper with it as much as we can with it.†
 
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # ・†
 
-    ("なんだかよく墲わからないけど、呪文をかけ終尞わったらしい。",
+    ("なんだかよくわからないけど、呪文をかけ終尞わったらしい。",
     ""),
     # I don't really understand it, but it seems that he has finished putting up a spell.
 
-    ("これで今厓日勉強を始めると、オレは一妤種の催眠状態になり、教科痩書竢やノートに曹書かれた烽内容がスラスラと頭に入ってくるらしい。†",
+    ("これで今厓日勉強を始めると、オレは一種の催眠状態になり、教科痩書竢やノートに曹書かれた内容がスラスラと頭に入ってくるらしい。†",
     ""),
     # Now that I start studying, I'm in a state of hypnosis, and it seems that the subject's slimming letters and the contents of Cao written on the notebook will be in my mind.†
 
-    ("本末当だとすれば便風な烽もんだ。",
+    ("本末当だとすれば便風なもんだ。",
     ""),
     # If it's just the end of the day, it's a hot spring.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Well, the key is to tell yourself that such b-magic is being applied.
 
-    ("とにかく、諱先輩が桙応㊨援してくれたことにはか墲わりはない。†",
+    ("とにかく、諱先輩が桙応㊨援してくれたことにはかわりはない。†",
     ""),
     # Anyway, there's nothing wrong with the fact that Senpai Senpai supported me.†
 

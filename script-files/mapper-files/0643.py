@@ -50,7 +50,7 @@ text_array = [
     ""),
     # I nodded.†
 
-    ("「さっきの桙時間、ふとある疑站問が浮かんでな。どうして烽もそれが気になっちまって」",
+    ("「さっきの桙時間、ふとある疑站問が浮かんでな。どうしてもそれが気になっちまって」",
     ""),
     # "At the time I had just heard a question about a suspicious site suddenly came to mind. Why did you even get curious about that?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("「ということは、＝普段は目に見えないようなとこ烽も鰍リアルに再現されてると思うんだ」",
+    ("「ということは、＝普段は目に見えないようなとこも鰍リアルに再現されてると思うんだ」",
     ""),
     # "That means that the 'b-hot' that is normally invisible' is also reproduced in the 'Karyuru'."
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "What?!"
 
-    ("「どうして烽も知闥りたいんだよ。マルチがどこまでホントの人間っぽいのかってさ」",
+    ("「どうしても知闥りたいんだよ。マルチがどこまでホントの人間っぽいのかってさ」",
     ""),
     # "Why do you want to know about Hou too? I wonder how true Makruchi looks like a human?"
 
-    ("「…えっ、で、で烽も…」†",
+    ("「…えっ、で、でも…」†",
     ""),
     # "...Eh, and the hot water..."†
 
@@ -206,11 +206,11 @@ text_array = [
     ""),
     # "Is it okay? Show me it!"
 
-    ("「で、で烽も…」",
+    ("「で、でも…」",
     ""),
     # "And, and the hot spring..."
 
-    ("「で烽も？」",
+    ("「でも？」",
     ""),
     # "And also hot?"
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "≠ So yeah, I've waited aaaahhh!"
 
-    ("耳を突き抜けるような声を繧上げて現鼬れたのは、志保だった。†",
+    ("耳を突き抜けるような声を上げて現鼬れたのは、志保だった。†",
     ""),
     # It was Shiho who showed up with a voice that was piercing his ears.†
 
@@ -386,7 +386,7 @@ text_array = [
     ""),
     # "" "Ahhhh!"
 
-    ("び繧ゅーんっ！",
+    ("びゅーんっ！",
     ""),
     # Bang!
 
@@ -498,7 +498,7 @@ text_array = [
     ""),
     # I didn't get a slog in between~~~~~~~”†
 
-    ("「なーんだ、￥闖りの下には、ち痰ゃんと可愛い耳がついてんじ痰ゃねーか。なに烽も、隠すことないのにさ」",
+    ("「なーんだ、￥闖りの下には、ち痰ゃんと可愛い耳がついてんじ痰ゃねーか。なにも、隠すことないのにさ」",
     ""),
     # "What? Under the ￥, there are cute ears and cute ears on the ground, so there's nothing to hide. No matter what, I'm not going to hide it."
 
@@ -506,7 +506,7 @@ text_array = [
     ""),
     # "And now, you have to take it off in front of people."
 
-    ("「で烽も、これで夜燒も悩まずに眠齧れそうだぜ。サン閭キャーな」†",
+    ("「でも、これで夜燒も悩まずに眠齧れそうだぜ。サン閭キャーな」†",
     ""),
     # "And now I can sleep without worrying about Hot and the night sky. It's a bit of a pain."
 

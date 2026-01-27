@@ -2,11 +2,11 @@
 # Source file: 08DC.txt
 
 text_array = [
-    ("（戟レミィと志保と勉強	３／１５）閨（テスト２冾日目に連鋸結）†",
+    ("（レミィと志保と勉強	３／１５）閨（テスト２冾日目に連鋸結）†",
     ""),
     # (Great Remie, Shiho and Study 3/15) (Shafting on the second day of the test)†
 
-    ("調子が悪い繧上にプレッシャャーなんて、勘弁して欲しいぜ。",
+    ("調子が悪い上にプレッシャャーなんて、勘弁して欲しいぜ。",
     ""),
     # I hope you will not be able to be a big hit or a big deal.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # ...I'm really strong, are you really strong?
 
-    ("たしかｗ週の獅月曜火曜と英皷語の二連チャャンが待ってるんだよな。",
+    ("たしかｗ週の月曜火曜と英皷語の二連チャャンが待ってるんだよな。",
     ""),
     # I'm sure lol. I'm waiting for you to have a double chayan in the weekly Monday, Tuesday and English-Japanese language.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # My already low confidence is getting less and less...†
 
-    ("化学とか現社とかは、授業を聞いてなくて烽も考えれば墲わかる部分ってのがある。",
+    ("化学とか現社とかは、授業を聞いてなくても考えればわかる部分ってのがある。",
     ""),
     # There are some parts where chemistry and gensha have not listened to classes and can be understood when you consider the hot topic.
 
-    ("けど、英皷語はスペルを覚えてないと話にならないし、グラマーなんてスペル以外に烽も文のｍ闕り方熾も覚えてないと何煢もできない。",
+    ("けど、英皷語はスペルを覚えてないと話にならないし、グラマーなんてスペル以外にも文のｍ闕り方熾も覚えてないと何煢もできない。",
     ""),
     # However, in English, you cannot talk about English, unless you remember the word "Size" or "Size" or "Size" or "Size" or "Size" or "Size" or "Size" or "Size" or "Size" can't be done without memorizing the word "Size" or "Size" or "Size".
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "You thought I wouldn't go crazy anymore, slut?"
 
-    ("「な、なんで墲わかるんだよ」",
+    ("「な、なんでわかるんだよ」",
     ""),
     # "W-how do you know?"
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "The guy who's been making a groaning noise from the daytime will be able to say it and it's over."
 
-    ("「うっさい墲わねぇ！	明纐後卲日からの英皷語二連チャャンで悩んでたのよっ」",
+    ("「うっさいわねぇ！	明纐後卲日からの英皷語二連チャャンで悩んでたのよっ」",
     ""),
     # "That's so annoying! I was worried about the double English language from the day after the Ming Dynasty."
 
-    ("こいつ烽もオレと同じかよ…。",
+    ("こいつもオレと同じかよ…。",
     ""),
     # This guy's hot is the same as my superlative...
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Which one would normally not growl."
 
-    ("「うなる墲わよ！	うーっ、うーっ、うーっ！」",
+    ("「うなるわよ！	うーっ、うーっ、うーっ！」",
     ""),
     # "It's groaning! Hmm, um, um!"
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Are you an imitation of a pigeon?"
 
-    ("オレの繧後撃で撃レミィが聞いた。",
+    ("オレの後撃で撃レミィが聞いた。",
     ""),
     # Ekiremi heard after the fire was hit.
 
-    ("「あ、戟レミィ」",
+    ("「あ、レミィ」",
     ""),
     # "Ah, oh, oh Remy."
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Yeah. It's crying in the morning."
 
-    ("「へぇ…、あたし烽も奄初めて聞く墲わね」",
+    ("「へぇ…、あたしも奄初めて聞くわね」",
     ""),
     # "Wha... I've heard of Hou for the first time in Amami."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "...It's a bit of a pigeon."†
 
-    ("「戟レミィ、それって別の生き物じ痰ゃないのぉ？",
+    ("「レミィ、それって別の生き物じ痰ゃないのぉ？",
     ""),
     # "Are you a different creature, isn't it?
 
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # "Idiot. Why is this guy who is like he's trying to conquer the world, transformed into a pigeon?"
 
-    ("「それ烽もそうデス」†",
+    ("「それもそうデス」†",
     ""),
     # "That's true for Hot" †
 
-    ("「アホはどっちよ。ハトが世界征梵服する墲わけねーだ、なんて油断しきってるよーなрヤツが次のシーンで真っ先に死ぬのよ。って典型的笂やられ一般人ね〜」",
+    ("「アホはどっちよ。ハトが世界征梵服するわけねーだ、なんて油断しきってるよーなрヤツが次のシーンで真っ先に死ぬのよ。って典型的笂やられ一般人ね〜」",
     ""),
     # "Which idiot? I can't believe the pigeons are going to take over the world, and the guy who's completely careless is going to die in the next scene. That's a typical normal person who's been defeated."
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # I was completely unsuccessful.
 
-    ("「明纐後卲日はモｃ高ｍ奄ｉ入ｔ窒ｒ凾ｙで、その次は現代社脂？」",
+    ("「明纐後卲日はモｃ高ｍ奄入ｔ窒ｒ凾ｙで、その次は現代社脂？」",
     ""),
     # "After the day after the Meiang, the MoCB is high in M ​​Amami Tang, and the next one is the current banquet?"
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "Shit, just because you happened to know it, you're arrogant."
 
-    ("…戟レミィは化学と現社が苦闍手なんだな。",
+    ("…レミィは化学と現社が苦闍手なんだな。",
     ""),
     # ...I guess Chemistry and the current company are in trouble with each other.
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # My worries are different from those of us.
 
-    ("「戟レミィはいい墲わよねぇ、英皷語バッチシで」†",
+    ("「レミィはいいわよねぇ、英皷語バッチシで」†",
     ""),
     # "Yaremy is great, you're in the English language" †
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # I'm '.
 
-    ("Ａ	「そうだ、戟レミィ。英皷語を教えてくれ」閨",
+    ("Ａ	「そうだ、レミィ。英皷語を教えてくれ」閨",
     ""),
     # A: "Yeah, ye Remie. Please teach me English language."
 

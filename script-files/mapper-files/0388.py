@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What?!"
 
-    ("あっけに取邇られたまま、置き獅去闍りにされるあかり。†",
+    ("あっけに取邇られたまま、置き去闍りにされるあかり。†",
     ""),
     # Akari is left alone and left behind.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # However, he is truly a childhood friend.
 
-    ("すぐにいつ烽ものノリだと察すると、",
+    ("すぐにいつものノリだと察すると、",
     ""),
     # I immediately realized when it was hot,
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ah, well, wait."
 
-    ("鞄を胸に抱え、すぐに繧後を追ってくる。†",
+    ("鞄を胸に抱え、すぐに後を追ってくる。†",
     ""),
     # He holds his bag to his chest and immediately follows him.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Wait, sputum!" †
 
-    ("オレは校蜊門を出たあたりで立ち止まると、あかりが追いつくと同椏時に、",
+    ("オレは校門を出たあたりで立ち止まると、あかりが追いつくと同椏時に、",
     ""),
     # I stopped around the time I left the school gate, and as Akari caught up, I was like
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # He yelled at me.†
 
-    ("驚いたあかりがビクッと繧後撃にのけぞったその瞬間、",
+    ("驚いたあかりがビクッと後撃にのけぞったその瞬間、",
     ""),
     # The moment when Akari, surprised, twitched and leaned over to the attack,
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Gotchi!
 
-    ("運悪くそこに烽歩いてきた翌女生徒のおでこと、あかりの繧後頭箔部がモしくぶつかった。†",
+    ("運悪くそこに歩いてきた翌女生徒のおでこと、あかりの後頭箔部がモしくぶつかった。†",
     ""),
     # Unfortunately, the next day I walked over there, the forehead and the back of the head of the female student, and the foil of the light head, hit me violently.†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Head to head.
 
-    ("しか烽も、かなりいい音がしたぞ。†",
+    ("しかも、かなりいい音がしたぞ。†",
     ""),
     # But the hot water also sounded pretty good.†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # Huh?
 
-    ("そういえば、この巻き桙込まれたほうの彼濫女、見覚えがあるな。",
+    ("そういえば、この巻き桙込まれたほうの彼女、見覚えがあるな。",
     ""),
     # Come to think of it, this guy who's got a bunch of creaks on his face looks familiar.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # Oh, that's right.
 
-    ("この前の汲昼休み、図草書室で出初った関西弁の翌女の子だ。",
+    ("この前の昼休み、図草書室で出初った関西弁の翌女の子だ。",
     ""),
     # The other day, she was the girl who spoke Kansai dialect, which she first appeared in the cursive library.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # I guess this guy has only bad impressions.
 
-    ("ま、諱取闔りあえず、ここは｢｢。",
+    ("ま、諱取りあえず、ここは｢｢。",
     ""),
     # Well, I couldn't help but say, ".
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # B: Hoshina, are you strong in the world?Relax
 
-    ("Ｃ	ふたりと烽も大苟丈夫か？閨",
+    ("Ｃ	ふたりとも大苟丈夫か？閨",
     ""),
     # C: Are the two and the hot springs strong too?Relax
 

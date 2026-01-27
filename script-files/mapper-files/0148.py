@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hey hey, please give me a break. That kind of thing is a pain. Please hit the other side."
 
-    ("オレはそう言って席を立ち繧上がった。",
+    ("オレはそう言って席を立ち上がった。",
     ""),
     # I said this and stood up from my seat.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Junya Island grabs that shoulder.†
 
-    ("「な、梶頼むよ。お前からの紹譓介なら、きっと神岸さん烽もむげには断れないと思うんだ」",
+    ("「な、梶頼むよ。お前からの紹譓介なら、きっと神岸さんもむげには断れないと思うんだ」",
     ""),
     # "W-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # Konya⊥jima smiles wryly.
 
-    ("「べつにお前に迷惑かけるつ烽もりはないよ。ただ、やっぱ神岸さんだって、諱よく知迺らないрヤツ相闡手じ痰ゃ警卲戒するだうからさ」†",
+    ("「べつにお前に迷惑かけるつもりはないよ。ただ、やっぱ神岸さんだって、諱よく知迺らないрヤツ相闡手じ痰ゃ警卲戒するだうからさ」†",
     ""),
     # "There's no way I'll cause trouble to you. However, even Kamigishi-san is not very aware of the fact that he doesn't know much about his feelings, so he should be warned against it."
 
-    ("「そういうことなら、オレじ痰ゃなく、♂史か志保に鰍頼んでくれよ。あいつらだってオレと同じくらいあかりと親しいぜ」",
+    ("「そういうことなら、オレじ痰ゃなく、雅史か志保に鰍頼んでくれよ。あいつらだってオレと同じくらいあかりと親しいぜ」",
     ""),
     # "If that's the case, then don't let my phlegm go and ask Masochi or Shiho for a choy. They're just as close to Akari as I'm."
 
-    ("「佐藤には烽もう鰍頼んだんだ。そしたらあいつ、お前が怒體るから凾嫌だって」",
+    ("「佐藤にはもう鰍頼んだんだ。そしたらあいつ、お前が怒體るから凾嫌だって」",
     ""),
     # "I already asked Sato to hachi. And he's going to get mackerel so I don't want you to be angry."
 

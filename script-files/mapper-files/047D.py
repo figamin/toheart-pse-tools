@@ -2,17 +2,17 @@
 # Source file: 047D.txt
 
 text_array = [
-    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	ひとりで遊んで）†",
+    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	ひとりで遊んで）",
     ""),
-    # (Shiho's exam day return PS) (Choose-so, play alone b)†
+    # (Shiho's exam day return PS) (Choose-so, play alone b)
 
     ("「やだね。",
     ""),
     # "I don't want to.
 
-    ("一人で遊んで」†",
+    ("一人で遊んで」",
     ""),
-    # Play alone b"†
+    # Play alone b"
 
     ("「なによ〜っ、家でゴ鴻ロゴ鴻ロしてるくせに〜」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "We don't need two people to go to the house at home."
 
-    ("「ヘ揀理雷だ墲わ〜っ；」",
+    ("「ヘ揀理雷だわ〜っ；」",
     ""),
     # "Hey, it's thunder!"
 

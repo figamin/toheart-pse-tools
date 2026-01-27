@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "I'll follow you to the bonito spot you want to go to and tamper with it."
 
-    ("「あら、そ。どこで烽もいいのねぇ？」†",
+    ("「あら、そ。どこでもいいのねぇ？」†",
     ""),
     # "Oh, that. Where's the hot water?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "That's boring" †
 
-    ("「じ痰ゃあ、散燻歩で烽もしますか」",
+    ("「じ痰ゃあ、散燻歩でもしますか」",
     ""),
     # "You're so phlegm, can you smoke it for a simmer?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Smoking?"
 
-    ("なにを言い出すのかと思えば、志保はとんで烽もないことを口膜走った。",
+    ("なにを言い出すのかと思えば、志保はとんでもないことを口膜走った。",
     ""),
     # Just as he was wondering what he was saying, Shiho ran through the Fukuomolar membrane.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # I nodded.†
 
-    ("「甘い墲わね…。砂恪糖にコーヒー％齠れるくらい甘い墲わね」",
+    ("「甘いわね…。砂恪糖にコーヒー％齠れるくらい甘いわね」",
     ""),
     # "It's a sweet rice ball... It's so sweet that it can be poured into sugar with coffee."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "What is that phlegm?"
 
-    ("「あたしは痰違いが墲わかる翌女謠よ。派阡手か地味かなんて、縺上っ面だけで物抹事を判断しないの」",
+    ("「あたしは痰違いがわかる翌女謠よ。派阡手か地味かなんて、縺上っ面だけで物抹事を判断しないの」",
     ""),
     # "I'm the next woman who can tell the difference in phlegm. Whether it's a slut or plain, I don't judge something just based on my overtitude."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Yes, yes.
 
-    ("違いが墲わかるんだ」",
+    ("違いがわかるんだ」",
     ""),
     # I can see the difference b."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # ・†
 
-    ("適俣当にだべりながら、オレたちは志保の家の方角に烽歩いていた。",
+    ("適俣当にだべりながら、オレたちは志保の家の方角に歩いていた。",
     ""),
     # While hanging out at Tomoemata, we were walking towards Shiho's family's Fukuwa.
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # "You seem even more and more like a bonito. I can't believe you're really fond of a bonito spot like this."
 
-    ("「なに言ってんのよ。あたしだってこういうとこで、ａ浮世で揩傷ついた心のモ翼を休めたりすんのよ？」†",
+    ("「なに言ってんのよ。あたしだってこういうとこで、ａ浮世で傷ついた心のモ翼を休めたりすんのよ？」†",
     ""),
     # "What are you talking about? I'm going to rest the wings of my heart that have been hurt in the world, in this situation, b?"
 
-    ("「わーった墲わーった。なにが心のモ翼だ」",
+    ("「わーったわーった。なにが心のモ翼だ」",
     ""),
     # "I'm so silly. What is the wings of my heart?"
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("やっぱ空気がいい墲わよねぇ」",
+    ("やっぱ空気がいいわよねぇ」",
     ""),
     # The atmosphere is really good, isn't it?"
 
@@ -186,15 +186,15 @@ text_array = [
     ""),
     # "ah"
 
-    ("冝日俣当たり烽もいい。",
+    ("冝日俣当たりもいい。",
     ""),
     # The Himata Rakusen is also good.
 
-    ("志保じ痰ゃなくて烽もいい気分になれる。†",
+    ("志保じ痰ゃなくてもいい気分になれる。†",
     ""),
     # Shiho's phlegm doesn't have to be phlegm, and it makes me feel good.†
 
-    ("「ここでのんびり羽を伸ばしてると、テストのことなんてどうで烽もよくなってきち痰ゃう墲わ」",
+    ("「ここでのんびり羽を伸ばしてると、テストのことなんてどうでもよくなってきち痰ゃうわ」",
     ""),
     # "As I slowly stretch my wings here, I can't help but feel the tests and the heat is getting better."
 
@@ -202,19 +202,19 @@ text_array = [
     ""),
     # "...I'm not very well."
 
-    ("「一生このまま学生でいたい墲わ〜」",
+    ("「一生このまま学生でいたいわ〜」",
     ""),
     # "I want to stay like this forever"
 
-    ("「それはいいか烽もな」†",
+    ("「それはいいかもな」†",
     ""),
     # "Is that okay?" †
 
-    ("こんな感じで、結局２桙時間近く烽も河艶敷で過ごしてしまった。",
+    ("こんな感じで、結局２桙時間近くも河艶敷で過ごしてしまった。",
     ""),
     # In this way, I ended up spending nearly two tiny hours at Kawayashiki.
 
-    ("たまにはいいよな、のんびりするの烽も。",
+    ("たまにはいいよな、のんびりするのも。",
     ""),
     # Sometimes it's fine, and I also have some relaxing hot springs.
 

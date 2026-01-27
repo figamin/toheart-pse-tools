@@ -2,15 +2,15 @@
 # Source file: 024A.txt
 
 text_array = [
-    ("（芹°香	好感度イベント８	冝日付つき）閨（Ｂ	わっ、悪いけど、いまはちょっと）†",
+    ("（芹°香	好感度イベント８	冝日付つき）閨（Ｂ	わっ、悪いけど、いまはちょっと）",
     ""),
-    # (Seri°Ka Likeability Event 8 with date) Silence (B, I'm sorry, but I'm not sure what to do now)†
+    # (Seri°Ka Likeability Event 8 with date) Silence (B, I'm sorry, but I'm not sure what to do now)
 
     ("「わ、悪いけど、いまはちょっとそれどこじ痰ゃない魔事態が発生してて…！」",
     ""),
     # "I'm sorry, but now there's a magical situation where there's no phlegm left...!"
 
-    ("オレはあ墲わてて言った。",
+    ("オレはあわてて言った。",
     ""),
     # I said in a hurry.
 
@@ -22,9 +22,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("そうですか、すみません…、と悲しそうな声で謝った。†",
+    ("そうですか、すみません…、と悲しそうな声で謝った。",
     ""),
-    # I see, sorry... I apologized in a sad voice.†
+    # I see, sorry... I apologized in a sad voice.
 
     ("「えっ？	い、いや、そういう意味じ痰ゃ…」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "See, Senpai!?"
 
-    ("つーつーつー…。†",
+    ("つーつーつー…。",
     ""),
-    # Hi, thump...†
+    # Hi, thump...
 
     ("あーあ…。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # It's different...
 
-    ("諱先輩…。†",
+    ("諱先輩…。",
     ""),
-    # Senior name...†
+    # Senior name...
 
     ("っと！",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # There's no phlegm right in the situation like this.
 
-    ("目玉焼きだ、目玉焼き。†",
+    ("目玉焼きだ、目玉焼き。",
     ""),
-    # Fried eggs, fried eggs.†
+    # Fried eggs, fried eggs.
 
     ("だが、時すでに遅し。",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # Think about it and it's only natural that phlegm is a trait.
 
-    ("臭いの出た桙時点でどうせ烽もう焦げ焦げ状態だったに痰違いないからな。†",
+    ("臭いの出た桙時点でどうせもう焦げ焦げ状態だったに痰違いないからな。",
     ""),
-    # When the smell came out, the phlegm was probably burnt anyway, and it must have been stinging.†
+    # When the smell came out, the phlegm was probably burnt anyway, and it must have been stinging.
 
     ("こんなことなら最燕初からあきらめて、諱先輩と話しすり痰ゃよかったぜ。",
     ""),

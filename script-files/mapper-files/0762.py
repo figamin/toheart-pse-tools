@@ -10,7 +10,7 @@ text_array = [
     ""),
     # When I went to the vending machine to buy some delicious Cafe au Lait, I noticed a bit of a noisy atmosphere in the hallways.
 
-    ("見骭ると、４、５人が誰かを遠巻きに取闔り囲んでいる。†",
+    ("見骭ると、４、５人が誰かを遠巻きに取り囲んでいる。†",
     ""),
     # When I looked around, four or five people were surrounding someone in a long way.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # The next girl holds her head and sputum oozes in the middle of the hallway.
 
-    ("ま墲わりの連中は、気づかってしきりに声をかけていた。",
+    ("まわりの連中は、気づかってしきりに声をかけていた。",
     ""),
     # The people who were in the middle of the day kept calling out to me, noticing.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Sir Isamu, shall I call you?"
 
-    ("ギャャラリーのひとりが近づいて、浴女の子の肩にふれた。†",
+    ("ギャャラリーのひとりが近づいて、女の子の肩にふれた。†",
     ""),
     # One of the Gyabanquet Raragali approached and touched the shoulder of the bathing girl.†
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Damn, please don't do it!"
 
-    ("浴女の子が声を繧上げる。",
+    ("女の子が声を上げる。",
     ""),
     # The bathing girl lets out a voice.
 
-    ("その声で墲わかった。",
+    ("その声でわかった。",
     ""),
     # I understood it from that voice.
 
@@ -70,7 +70,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレは近寄驫ること烽もできず、息を呑んだ。",
+    ("オレは近寄驫ることもできず、息を呑んだ。",
     ""),
     # I couldn't approach or smoke, so I took my breath.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # But what exactly is it?†
 
-    ("これ烽も琴音ち痰ゃんのせいなのか？",
+    ("これも琴音ち痰ゃんのせいなのか？",
     ""),
     # Is this because of Kotone's sphincter?
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Suddenly, Kotone Chisho-yan glared at Tenrei.
 
-    ("オレと何人か烽もつられて天井を見上げる。†",
+    ("オレと何人かもつられて天井を見上げる。†",
     ""),
     # I was also stolen and a few other people were tempted and I looked up at Tensai.†
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "Skinny!"
 
-    ("諱取闔り巻きの誰かがびっくりして声を繧上げる。†",
+    ("諱取り巻きの誰かがびっくりして声を上げる。†",
     ""),
     # Someone who was in charge of the story was surprised and raised his voice.†
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # It definitely burst out suddenly.
 
-    ("トリックで烽も使寬わない限り、んなことできるはずがない。†",
+    ("トリックでも使寬わない限り、んなことできるはずがない。†",
     ""),
     # Unless you use Hot Springs at Togata Lick, you can't do anything like that.†
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "Kotone Chishonan, you're getting hurt!"
 
-    ("オレが止めて烽も、琴音ち痰ゃんはやめようとしない。",
+    ("オレが止めても、琴音ち痰ゃんはやめようとしない。",
     ""),
     # I stopped him and Kano refused to stop tampering with Kotone Chisho-chan.
 
-    ("ま墲わりの連中は何煢もしようとしない。",
+    ("まわりの連中は何煢もしようとしない。",
     ""),
     # The people who are in the world don't try to do anything.
 
@@ -218,11 +218,11 @@ text_array = [
     ""),
     # "Kotone-chisou-chan..."
 
-    ("なに烽も言えなかった。†",
+    ("なにも言えなかった。†",
     ""),
     # I couldn't say anything about it.†
 
-    ("琴音ち痰ゃんは職員室へ蛍光伯灯をр割ったことを謝闔りに行き、オレ焜もそれにつき№合った。",
+    ("琴音ち痰ゃんは職員室へ蛍光伯灯をр割ったことを謝りに行き、オレもそれにつき№合った。",
     ""),
     # Kotone Chisho-yan went to the staff room to thank him for breaking the fluorescent light, and my geisha also got the right choice.
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # The teacher just looks troubled.
 
-    ("なにし、п割れた原因が揩理解不能だからだ。",
+    ("なにし、п割れた原因が理解不能だからだ。",
     ""),
     # What is the reason for the cracking of the п is because it is incomprehensible.
 
@@ -242,11 +242,11 @@ text_array = [
     ""),
     # I'm extremely speechless when Kotone Chisho-chan broke things at school and fell down.
 
-    ("超能力って実在するのか烽もしれない…。",
+    ("超能力って実在するのかもしれない…。",
     ""),
     # I wonder if psychic powers exist or not...
 
-    ("もしそうだとして、なぜ蛍光伯灯をр割ったのか聞いてみたかったが、とて烽もそういう雰囲気じ痰ゃなかった。†",
+    ("もしそうだとして、なぜ蛍光伯灯をр割ったのか聞いてみたかったが、とてもそういう雰囲気じ痰ゃなかった。†",
     ""),
     # If that were the case, I wanted to ask why he broke the fluorescent light, but the atmosphere of Hot Springs also didn't have that kind of feeling.†
 
@@ -254,11 +254,11 @@ text_array = [
     ""),
     # However, it was strange for me to break it myself.
 
-    ("あんなに繧後悔するくらいなら、やる意味なんてないのに。",
+    ("あんなに後悔するくらいなら、やる意味なんてないのに。",
     ""),
     # There's no point in shaking it than regretting it so much.
 
-    ("なにか揩理由がありそうだな…。◯",
+    ("なにか理由がありそうだな…。◯",
     ""),
     # There seems to be some reason...◯
 

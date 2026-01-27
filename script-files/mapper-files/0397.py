@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Tomoko's Scales Event: Departing from School LV1) (Continued from Chosen B: Just Greetings after all)†
 
-    ("いっしょに帰驪るほど親しく烽もないし、やっぱりあいさつだけにしておこう。",
+    ("いっしょに帰驪るほど親しくもないし、やっぱりあいさつだけにしておこう。",
     ""),
     # They are so close that they can't get back to the slut, so I'll just leave them to say hello after all.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Ah, sigh, again, simultaneous day."
 
-    ("閨手を繧上げて、にっこり微笑むと、",
+    ("閨手を上げて、にっこり微笑むと、",
     ""),
     # He lifted his hand up and smiled,
 
@@ -38,7 +38,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("委員長はなに烽もこたえず、視諮をそらした。",
+    ("委員長はなにもこたえず、視諮をそらした。",
     ""),
     # The chairman was unable to respond to anything and distracted the advice of the eyes.
 

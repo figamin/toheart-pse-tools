@@ -2,11 +2,11 @@
 # Source file: 06A6.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜	あいさつして別れる）†",
+    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜	あいさつして別れる）",
     ""),
-    # (Muryuruchi, the balance event, return trip) (Choice, greeting and parting)†
+    # (Muryuruchi, the balance event, return trip) (Choice, greeting and parting)
 
-    ("「オレのほうはゲーセンで烽も寄っていこうかと思って」",
+    ("「オレのほうはゲーセンでも寄っていこうかと思って」",
     ""),
     # "I thought I'd stop by the arcade for my gem."
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "You're phlegm, take care and return."
 
-    ("「はい、ではまた」†",
+    ("「はい、ではまた」",
     ""),
-    # "Yes, see you later" †
+    # "Yes, see you later" 
 
-    ("笑迴顔で手を振髏るマルチと別れ、オレはゲーセンへと入っていった。",
+    ("笑顔で手を振髏るマルチと別れ、オレはゲーセンへと入っていった。",
     ""),
     # I broke up with a laugh and waved my hand and cried, and I entered the arcade.
 

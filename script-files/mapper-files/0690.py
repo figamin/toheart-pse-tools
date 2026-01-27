@@ -14,7 +14,7 @@ text_array = [
     ""),
     # However, he just calls out to him and doesn't look like a phlegm.
 
-    ("ここはひとつ、最新型の≠メイド鴻ロボットがどれほどの烽ものか、性能のほどをテストしてやう。",
+    ("ここはひとつ、最新型の≠メイド鴻ロボットがどれほどのものか、性能のほどをテストしてやう。",
     ""),
     # Here we have to test the performance of the latest model, Maid Kou robot, and test its performance.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # I was hiding in the classroom where no one else was, and laughed in a loud voice.
 
-    ("くふふふ、マルチのやつ、多分いまごは、キョ鴻ロキョ鴻ロま墲わりを見渡して、必死にオレを捜していることだう。†",
+    ("くふふふ、マルチのやつ、多分いまごは、キョ鴻ロキョ鴻ロまわりを見渡して、必死にオレを捜していることだう。†",
     ""),
     # Hehehe, this is the kind of guy who is crying, and I'm probably just looking around, I'm desperately trying to find my way.†
 
-    ("もう少ししたら、きっとこの教室に烽も捜しにｗ磯翌ｾう。",
+    ("もう少ししたら、きっとこの教室にも捜しにｗ磯翌ｾう。",
     ""),
     # I'm sure I'll be looking for some hot springs in this classroom lol Iso Isao Seb.
 
@@ -62,7 +62,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("いや、また前みたいに気站絶させちまったらか墲わいそうだしな。",
+    ("いや、また前みたいに気站絶させちまったらかわいそうだしな。",
     ""),
     # It would be a shame if he had to stomp and turned the stomp again like before.
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # When I called out to him, I thought I had a glance at him for a moment.
 
-    ("とくに気にせず、そのまま掃恆除を続けてるのか烽もしれないな。",
+    ("とくに気にせず、そのまま掃恆除を続けてるのかもしれないな。",
     ""),
     # I guess it's not particularly bothering me, but continuing to clean up and remove them.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # I've killed time by killing it because of that.
 
-    ("肩越しに学生盗鞄を揩持って、帰汲うと思ったとき…。†",
+    ("肩越しに学生盗鞄を持って、帰うと思ったとき…。†",
     ""),
     # I was holding a student's bag over my shoulder and thinking about returning...†
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # ...Does that mean that the guy who's tampered with Makruchi is still in this nearby Kuzukushi area?
 
-    ("オレはま墲わりを見渡した。",
+    ("オレはまわりを見渡した。",
     ""),
     # I looked around the area.
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "...What's that, murmur. Have you been searching for me ever since? I'm definitely going to be like that..."
 
-    ("「ううっ、声はすれど烽も姿は見えず…」",
+    ("「ううっ、声はすれども姿は見えず…」",
     ""),
     # "Uhh, I'm in a voice, but I can't see the heavens either..."
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # Don't cry, come on."
 
-    ("オレは、ポケットから携帯用ティッシャを取闔り出し、マルチの目燒もとをふいてやった。†",
+    ("オレは、ポケットから携帯用ティッシャを取り出し、マルチの目燒もとをふいてやった。†",
     ""),
     # I grabbed a portable tissue from my pocket and wiped the surface of my crying lurch and tampered with it.†
 

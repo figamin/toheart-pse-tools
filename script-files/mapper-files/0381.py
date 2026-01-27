@@ -2,15 +2,15 @@
 # Source file: 0381.txt
 
 text_array = [
-    ("（智子	回秤数イベント	１階	ＬＶ１）閨（３獅月）閨（１Ｆ廊下）†",
+    ("（智子	回秤数イベント	１階	ＬＶ１）閨（３月）閨（１Ｆ廊下）",
     ""),
-    # (Tomoko's Scales Event, 1st floor LV1) (3 Shizuki) (1st floor corridor)†
+    # (Tomoko's Scales Event, 1st floor LV1) (3 Shizuki) (1st floor corridor)
 
     ("さーてと、これから帰ってなにすっかな。",
     ""),
     # Well, what will happen when I go home now?
 
-    ("たらたらと廊下を烽歩いていると｢｢。",
+    ("たらたらと廊下を歩いていると｢｢。",
     ""),
     # I was walking down the hallway in a flash of light, ".
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Come on, wait!"
 
-    ("いきなり背續後から、そんな声に呼び止められた。†",
+    ("いきなり背續後から、そんな声に呼び止められた。",
     ""),
-    # Suddenly, I was stopped by such a voice after I turned to my back.†
+    # Suddenly, I was stopped by such a voice after I turned to my back.
 
     ("「は？」",
     ""),
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # When I replied, I saw a few familiar female students glaring at me.
 
-    ("こいつらってたしか、あかりたちのクラスで見かける顔だよな。†",
+    ("こいつらってたしか、あかりたちのクラスで見かける顔だよな。",
     ""),
-    # I'm sure these guys are the ones you see at Akari's banquet.†
+    # I'm sure these guys are the ones you see at Akari's banquet.
 
     ("「｢｢なによ！	今厓日齠一勛日くらい、縺代岺わってくれたっていいでしょ！？」",
     ""),
     # ""What! Is it okay if you could just come and fly around the next day, slut?!"
 
-    ("浴女生徒のひとりが言った。",
+    ("女生徒のひとりが言った。",
     ""),
     # One of the bathing students said.
 
@@ -46,25 +46,25 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("なにを繧代岺われって？",
+    ("なにを代岺われって？",
     ""),
     # What are you saying?
 
-    ("思い魔当たる節を考えてみたが、さっぱり浮かばない。†",
+    ("思い魔当たる節を考えてみたが、さっぱり浮かばない。",
     ""),
-    # I tried to think about the kind of trait that will make you think of, but I couldn't really feel any sense of it.†
+    # I tried to think about the kind of trait that will make you think of, but I couldn't really feel any sense of it.
 
     ("やがて、しょーもないｌ解をしてることに気がついた。",
     ""),
     # Eventually, I realized that I was trying to solve the problem.
 
-    ("どうやら彼濫女たちはオレにじ痰ゃなく、前を烽歩く翌女の子に言ってるらしい。",
+    ("どうやら彼女たちはオレにじ痰ゃなく、前を歩く翌女の子に言ってるらしい。",
     ""),
     # Apparently, the girls are saying it without stomping on me, but to the girls who walk in front of me.
 
-    ("なーんだ、古典的。†",
+    ("なーんだ、古典的。",
     ""),
-    # What a classic.†
+    # What a classic.
 
     ("「待ちなさいってば！」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # The next woman, the other day, overtakes me and approaches the child.
 
-    ("＝メガネの子は面倒くさそうに息を吐いた。†",
+    ("＝メガネの子は面倒くさそうに息を吐いた。",
     ""),
-    # =The girl with glasses sighed in pain.†
+    # =The girl with glasses sighed in pain.
 
     ("「………………！？」",
     ""),
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # Whatever you say is the right thing to say.
 
-    ("オレが側を通闥りかかると、♂話の終尞わりの部分だけを聞き取骼ることができた。†",
+    ("オレが側を通闥りかかると、雅話の終尞わりの部分だけを聞き取骼ることができた。",
     ""),
-    # As my ecstasy approached me, I was able to hear only the final part of the story.†
+    # As my ecstasy approached me, I was able to hear only the final part of the story.
 
-    ("「わかった、もういいっ！	アンタなんかに鰍頼まない墲わ！」",
+    ("「わかった、もういいっ！	アンタなんかに鰍頼まないわ！」",
     ""),
     # "Okay, I'm fine! I won't ask you to shave!"
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # One of the three said:
 
-    ("「アンタって、そんなふうにいつ烽も自分本位だから、ぜんぜん友だちができないのよ！」†",
+    ("「アンタって、そんなふうにいつも自分本位だから、ぜんぜん友だちができないのよ！」",
     ""),
     # "You're always selfish, so you can't make any friends at all!"
 
@@ -126,9 +126,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("ふんっと、くだらなそうにきびすを返し、廊下を烽歩いて行った。†",
+    ("ふんっと、くだらなそうにきびすを返し、廊下を歩いて行った。",
     ""),
-    # Hmm, I turned my sloppy acne back and walked down the hallway.†
+    # Hmm, I turned my sloppy acne back and walked down the hallway.
 
     ("「性格悪ぅ〜」",
     ""),
@@ -138,19 +138,19 @@ text_array = [
     ""),
     # "He's really not cooperative."
 
-    ("「あんなрヤツに鰍頼んだр私が馬鹿だった墲わ！」†",
+    ("「あんなрヤツに鰍頼んだр私が馬鹿だったわ！」",
     ""),
     # "I was an idiot for asking such a guy!"
 
-    ("浴女生徒三人は、それぞれブツブツと文蝠句を言いながら引き返してきた。",
+    ("女生徒三人は、それぞれブツブツと文蝠句を言いながら引き返してきた。",
     ""),
     # The three bathing students each turned back, uttering a slogan.
 
-    ("浴女性徒たちとすれ痰違う。",
+    ("女性徒たちとすれ痰違う。",
     ""),
     # The phlegm is different from the bathing women.
 
-    ("ちょっとした翌女の墲戦いを垣間見た。◯",
+    ("ちょっとした翌女の戦いを垣間見た。◯",
     ""),
     # I got a glimpse of the woman's battle with the next woman.◯
 

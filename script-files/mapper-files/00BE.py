@@ -2,11 +2,11 @@
 # Source file: 00BE.txt
 
 text_array = [
-    ("（４獅月２４冾日	朝）閨（自分の部屋）†",
+    ("（４月２４冾日	朝）閨（自分の部屋）†",
     ""),
     # (April 24th day of the month) (morning) (morning my room)
 
-    ("４獅月２４冾日、木曜坥日。",
+    ("４月２４冾日、木曜坥日。",
     ""),
     # April 24th, Thursday, Thursday.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Oh, the day is the day of unburned garbage."
 
-    ("閨手にゴミ袋を揩持ったオレが言った。†",
+    ("閨手にゴミ袋を持ったオレが言った。†",
     ""),
     # I said, holding a garbage bag in my hand.†
 
-    ("「捨てて烽も捨てて烽も、すぐたまるんだよ」",
+    ("「捨てても捨てても、すぐたまるんだよ」",
     ""),
     # "Throw away the chicken, throw away the chicken, and even the chicken will accumulate quickly."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "It looks like a housewife."
 
-    ("「…ひとりで生衰すり痰ゃ墲わかるよ、お前熨も」†",
+    ("「…ひとりで生衰すり痰ゃわかるよ、お前熨も」†",
     ""),
     # "...I can understand the phlegm alone, you'll also get a little weak."
 

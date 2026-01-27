@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I don't understand any kind of strategy!"
 
-    ("じじいはあごだけを動かして、ふ墲わっはっはっはっと笑った。†",
+    ("じじいはあごだけを動かして、ふわっはっはっはっと笑った。†",
     ""),
     # The old man moved only his chin and laughed at him.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Ah, Senpai I'm here! I'm super exciting, I'm super exciting!"
 
-    ("閨手を振髏るオレに気が付き、諱先輩は真っ直ぐこっちへと烽歩いてきた。†",
+    ("閨手を振髏るオレに気が付き、諱先輩は真っ直ぐこっちへと歩いてきた。†",
     ""),
     # I noticed my gesture waving my hand, and Senpai Kou started walking straight up here.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "I'm not a fan, please do something about this guy.
 
-    ("先輩にｉおうとするのを邪ｎ魔すんだぜ〜〜〜？」",
+    ("先輩におうとするのを邪ｎ魔すんだぜ〜〜〜？」",
     ""),
     # You're going to get mad to tell your senior?
 

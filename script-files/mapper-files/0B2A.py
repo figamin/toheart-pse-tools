@@ -2,11 +2,11 @@
 # Source file: 0B2A.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント３）閨（堰負けた繧後）閨（綾∴香	右	笑い）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント３）閨（堰負けた後）閨（綾∴香	右	笑い）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 3) (After the weir lost) (Aya∴Ka, right laughs) †
+    # (Aya∴Ka challenges Aya∴Ka, event 3) (After the weir lost) (Aya∴Ka, right laughs) 
 
-    ("「という墲わけでセリオ、結果は？」",
+    ("「というわけでセリオ、結果は？」",
     ""),
     # "So, what's the result, Seragata Rio?"
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Ahhhh! My third win!"
 
-    ("「ちっ…」†",
+    ("「ちっ…」",
     ""),
-    # "Tch..." †
+    # "Tch..." 
 
     ("ガードをかためて、体力温存。",
     ""),
@@ -34,13 +34,13 @@ text_array = [
     ""),
     # Even though it was a battle with the stomping, it was impossible for them to get the stomp guards to be unlocked...
 
-    ("こいつの実力を前にはｍ寘戦熕もなに烽もあった烽もんじ痰ゃない。",
+    ("こいつの実力を前にはｍ寘戦熕もなにもあったもんじ痰ゃない。",
     ""),
     # In front of this guy's abilities, there were no other kinds of fireworks.
 
-    ("くそ。†",
+    ("くそ。",
     ""),
-    # Fuck.†
+    # Fuck.
 
     ("「それでは、恒瘢例、潤ワンポイントレッスンのコーナー！」",
     ""),
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # "…please"
 
-    ("「さて３回目の今厓日はディフェンスについて教える墲わ。今厓日のｍ寘戦は、ディフェンス重居視だったんでしょ？」",
+    ("「さて３回目の今厓日はディフェンスについて教えるわ。今厓日のｍ寘戦は、ディフェンス重居視だったんでしょ？」",
     ""),
     # "Well, on the third day, I'll be teaching you about defense. In the M-day game on the day, I was looking at the defence as a serious defence player, right?"
 
-    ("「まあ…。で烽も思うようにいかなかった」†",
+    ("「まあ…。でも思うようにいかなかった」",
     ""),
     # "Well... And the hot one didn't go as well as I wanted."
 
-    ("「ブ鴻ロック黹一辺倒だからよ。ディフェンスには様々なテクニックがある墲わ。用途に桙応じて使い分けなき痰ゃね」†",
+    ("「ブ鴻ロック黹一辺倒だからよ。ディフェンスには様々なテクニックがあるわ。用途に桙応じて使い分けなき痰ゃね」",
     ""),
     # "Boohoo Rock Shade is all about. There are a variety of techniques for defense. You have to use different phlegms depending on the purpose."
 
-    ("その繧後、ディフェンスの薰基本テクニックを教寀わった。",
+    ("その後、ディフェンスの薰基本テクニックを教寀わった。",
     ""),
     # After that, I was taught basic defense techniques.
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # Be aware that it is always one with attack and M-shot.
 
-    ("まずそれが第齣一。†",
+    ("まずそれが第齣一。",
     ""),
-    # First of all, that's the first one.†
+    # First of all, that's the first one.
 
     ("そして駆体的なテクニック。",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # Ibuki Vage CC and dodge the attack and M-shot.
 
-    ("イ買ヴェイジョンには、さらに何妺種類かのテクニックがある。†",
+    ("イ買ヴェイジョンには、さらに何種類かのテクニックがある。",
     ""),
-    # There are also techniques for how many types of yam.†
+    # There are also techniques for how many types of yam.
 
     ("縺上体を反逕らせて避ける、スウェーイング。",
     ""),
@@ -110,25 +110,25 @@ text_array = [
     ""),
     # Sugata ripping, swinging his upper body to avoid attacking and attacking.
 
-    ("縺上体を下げて攻ｍ撃をか墲わす、ダッキング。",
+    ("縺上体を下げて攻ｍ撃をかわす、ダッキング。",
     ""),
     # Ducking lowers his upper body and attacks M-shots.
 
-    ("円を描くように繧上体を動かし、梶相闡手を幻惑する、ウィービング。†",
+    ("円を描くように上体を動かし、梶相闡手を幻惑する、ウィービング。",
     ""),
-    # Weaving moves his body in a circle and illudes his kaji relations.†
+    # Weaving moves his body in a circle and illudes his kaji relations.
 
-    ("「全泊部を一度におぼえる必要はない墲わ。",
+    ("「全泊部を一度におぼえる必要はないわ。",
     ""),
     # "There's no need to remember all nights at once.
 
-    ("基本的なディフェンス以外は、自分のスタイルにあ墲わせて練習すればいいから」",
+    ("基本的なディフェンス以外は、自分のスタイルにあわせて練習すればいいから」",
     ""),
     # Other than basic defense, you can just practice for your own style and cry."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ん？	どうかした？」",
     ""),
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "Isn't this apart from the first one in the first time?"
 
-    ("「どこが？」†",
+    ("「どこが？」",
     ""),
     # "Where is?"
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # "What do you mean, recently I'm trying to challenge you to win a victory lol, or have you come to teach me about martial arts, I'm no longer sure enough."
 
-    ("「どっち烽もでしょ」",
+    ("「どっちもでしょ」",
     ""),
     # "Everyone's hot, I'll give it a slut."
 
-    ("「どっち烽も…か」†",
+    ("「どっちも…か」",
     ""),
     # "Are you two...?"
 

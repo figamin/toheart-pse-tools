@@ -2,19 +2,19 @@
 # Source file: 01B2.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（４獅月２２冾日）閨（廊下）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（４月２２冾日）閨（廊下）†",
     ""),
     # (Akari Scales Event 2F) (April Lion, 22nd Day) (Carrior)†
 
-    ("しかし、今厓日は汲暑い一勛日だった。",
+    ("しかし、今厓日は暑い一勛日だった。",
     ""),
     # However, the day was a hot day.
 
-    ("ほとんどのрヤツが繧上薯を脱いでたな。",
+    ("ほとんどのрヤツが上薯を脱いでたな。",
     ""),
     # Most of the people have taken off the potatoes.
 
-    ("それで烽もさっきの桙時間、小雨がぱらついたおかげで、少しは過ごしやすくなったけど。†",
+    ("それでもさっきの桙時間、小雨がぱらついたおかげで、少しは過ごしやすくなったけど。†",
     ""),
     # And thanks to the light rain that had been lit up during the previous fox time, it became easier to spend some time a little.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Ah, sputum."
 
-    ("歩いてきたあかりにばったりｉった。†",
+    ("歩いてきたあかりにばったりった。†",
     ""),
     # I ran over to Akari as I walked.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Well. What about you?"
 
-    ("「п私燻も帰驪るよ。で烽もいまは、ちょっと屋繪上に行こうと思って」",
+    ("「п私燻も帰驪るよ。でもいまは、ちょっと屋繪上に行こうと思って」",
     ""),
     # "I'm going home to smoke too. And now I'm thinking of going to the bait bait."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Are you on the house?"
 
-    ("「ちょうどよかった。ち痰ゃん烽も、いっしょに行こ？」",
+    ("「ちょうどよかった。ち痰ゃんも、いっしょに行こ？」",
     ""),
     # "You're so happy. Let's go to Chishonan, too?"
 

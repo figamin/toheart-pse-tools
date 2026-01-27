@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Do you like your spider too?"
 
-    ("「うん。で烽も、ホントの熊は凶暴なんだよ」",
+    ("「うん。でも、ホントの熊は凶暴なんだよ」",
     ""),
     # "Yes. And the bears are really violent, too."
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # "I was tampering with a TV drama"
 
-    ("あかりの熊好きは（オレ焜内箔部で）有名だ。",
+    ("あかりの熊好きは（オレ内箔部で）有名だ。",
     ""),
     # Akari's bear lover is famous (for his inner foil section).
 
-    ("なんでかよく墲わかんねーけど、くまグッズとかに目がない。†",
+    ("なんでかよくわかんねーけど、くまグッズとかに目がない。†",
     ""),
     # For some reason, I don't really know what it is, but I have no eye on bear merchandise.†
 
-    ("「きっとか墲わいいぞー、小ぐま。ぬいぐるみみたいでよ、転がしてやったらｊんだりさ」",
+    ("「きっとかわいいぞー、小ぐま。ぬいぐるみみたいでよ、転がしてやったらｊんだりさ」",
     ""),
     # "I'm sure it's nice, small bear. It looks like a stuffed animal, and if you roll it up and tamper with it, you'll end up slurping it."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("結構いいか烽も！」",
+    ("結構いいかも！」",
     ""),
     # It's pretty good, too!”
 

@@ -2,11 +2,11 @@
 # Source file: 04FB.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	アクション焜もの）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	アクションもの）",
     ""),
-    # (Shiho Scales Event PS) (Selective Accidental)†
+    # (Shiho Scales Event PS) (Selective Accidental)
 
-    ("「オレはやっぱアクション焜ものかな」",
+    ("「オレはやっぱアクションものかな」",
     ""),
     # "I guess I'm going to have to tamper with something that's really a mistake."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What about the roots of my crying and crying?"
 
-    ("「ああ、ブルーツウイルスの出てる映謇画ってｖ鰯哩Cケてるよな」†",
+    ("「ああ、ブルーツウイルスの出てる映謇画ってｖ鰯哩Cケてるよな」",
     ""),
     # "Ah, the image of the film that features the story of the film "Who's roots" is vs. Sardines are shattered"
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "I like "Guy Hard""
 
-    ("「やっぱあれが繧代表附だよな」",
+    ("「やっぱあれが代表附だよな」",
     ""),
     # "That's the one that's included in the representative after all."
 
-    ("「で烽もさ、ブルーツウイルスの映謇画竕やってた？",
+    ("「でもさ、ブルーツウイルスの映謇画竕やってた？",
     ""),
     # "And were you doing the film painting of the film, which is so crazy about its roots?
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # I don't remember though."
 
-    ("「＠てねえだ」†",
+    ("「＠てねえだ」",
     ""),
-    # "@Not b" ​​†
+    # "@Not b" ​​
 
     ("「じ痰ゃほかのアクションは？」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I don't know.
 
-    ("来てるかどうか烽も墲わからねえし」",
+    ("来てるかどうかもわからねえし」",
     ""),
     # I don't know if he's coming or not."
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "If that's the case, then you won't get any phlegms."
 
-    ("「＠てなき痰ゃボツだな。見たく烽もねえ映謇画にカネ払うほど裕泓福じ痰ゃねえしよ」",
+    ("「＠てなき痰ゃボツだな。見たくもねえ映謇画にカネ払うほど裕泓福じ痰ゃねえしよ」",
     ""),
     # "@You're not going to get rid of the phlegm. You're not going to want to see it, so you're so lucky that you're so lucky that you're going to pay money to the phlegm."
 
-    ("「右に同じ…」†",
+    ("「右に同じ…」",
     ""),
     # "Same on the right..."
 

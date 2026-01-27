@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "...Why?"
 
-    ("「そり痰ゃあまず、驕夜になるとうるさいだ？	人んちだうと勝闖手にずかずか繧上がりこんで食い物枢盗んだりするし…」†",
+    ("「そり痰ゃあまず、驕夜になるとうるさいだ？	人んちだうと勝闖手にずかずか上がりこんで食い物枢盗んだりするし…」†",
     ""),
     # "Not at all, it's noisy when it's arrogant night? When it's a slut, it's a bit louder? When I get a guy, I'll come in and stole the food..."†
 
-    ("「…そうですか。…で烽も、さんが思ってるほど悪い子たちじ痰ゃないですよ」",
+    ("「…そうですか。…でも、さんが思ってるほど悪い子たちじ痰ゃないですよ」",
     ""),
     # "I see... So... And Kao is as bad as you might think, so you can't sputum."
 
-    ("「ま、好き好きだし。琴音ち痰ゃんに文蝠句言うつ烽もりはないぜ」",
+    ("「ま、好き好きだし。琴音ち痰ゃんに文蝠句言うつもりはないぜ」",
     ""),
     # "Well, I love you. There's no way Kotone's words to say to verses."
 

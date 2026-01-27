@@ -2,11 +2,11 @@
 # Source file: 019D.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｃ	『駆』か烽も）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｃ	『駆』かも）",
     ""),
-    # (Akari Scales Event: Leave school) (C ``k'' or hot)†
+    # (Akari Scales Event: Leave school) (C ``k'' or hot)
 
-    ("「『駆』か烽も」",
+    ("「『駆』かも」",
     ""),
     # "The 'k' or hot' too."
 
@@ -22,9 +22,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("いかに烽も『ハズレ』ってな顔をしてる。†",
+    ("いかにも『ハズレ』ってな顔をしてる。",
     ""),
-    # Even Ho also looks like he's "a really bad guy."†
+    # Even Ho also looks like he's "a really bad guy."
 
     ("「わかった、『≠』だ！」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "пd"!"≠"!"≠"!"'g'!"
 
-    ("『≠』！	『堰ｉ』！	『梶ｊ』｢｢」†",
+    ("『≠』！	『堰』！	『梶ｊ』｢｢」",
     ""),
-    # "≠"!"Weir i"!"Kajij" """†
+    # "≠"!"Weir i"!"Kajij" """
 
     ("「も、もう。それじ痰ゃ、いつかは魔当たるよ」",
     ""),

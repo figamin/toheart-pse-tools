@@ -6,15 +6,15 @@ text_array = [
     ""),
     # (Erimeo's Likeability Event VS Shiho) (Closed days) (My room)†
 
-    ("今厓日はあえてやらなき痰ゃいけないこと烽もないし、たまには予習で烽もしとくか。",
+    ("今厓日はあえてやらなき痰ゃいけないこともないし、たまには予習でもしとくか。",
     ""),
     # I don't have to do anything I have to tamper with on the day I'm currently in the middle of a while, so I'll have to do some prep work.
 
-    ("さらっとで烽も、やっとき痰ゃいいだ。†",
+    ("さらっとでも、やっとき痰ゃいいだ。†",
     ""),
     # It's light and hot, but it's fine to have a sputum.†
 
-    ("さてと、腹熾も減ったことだし、食鱒事がてらモ買い物にで烽も行ってこよう。◯",
+    ("さてと、腹熾も減ったことだし、食事がてらモ買い物にでも行ってこよう。◯",
     ""),
     # Well, my worries have decreased, so I'll go shopping while eating and trout.◯
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Well..."
 
-    ("「フラフラ焜歩いてるだけのくせして、なにが『まあね』だ。どうせ遊びだ？」†",
+    ("「フラフラ歩いてるだけのくせして、なにが『まあね』だ。どうせ遊びだ？」†",
     ""),
     # "Even though I'm just walking around, what's 'Well?'. It's just a play b, right?"
 
-    ("「フッ…、これだから獅庶民は困骰る墲わね…」",
+    ("「フッ…、これだから庶民は困骰るわね…」",
     ""),
     # "Hmm... this is why the common people are in trouble..."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Ah, after the attack: ""
 
-    ("いきなり志保がオレの繧後撃を指差した。",
+    ("いきなり志保がオレの後撃を指差した。",
     ""),
     # Shiho suddenly pointed at the attack after my surge.
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "Stay arrogant. If you can see, teach me, quickly." †
 
-    ("そして立ち繧上がって、ぶつかった鰍相闡手を振關り返髟る。",
+    ("そして立ち上がって、ぶつかった鰍相闡手を振關り返髟る。",
     ""),
     # Then he stood up and waved back to the bumps of the thorns.
 
-    ("「どう烽もすみません。",
+    ("「どうもすみません。",
     ""),
     # "I'm sorry about that.
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "a…"
 
-    ("びっくりしながら烽も、掾理女緒ち痰ゃんは素¢早く立ち繧上がる。†",
+    ("びっくりしながらも、掾理女緒ち痰ゃんは素¢早く立ち上がる。†",
     ""),
     # Surprisingly, Hou, the man who is the one who is the one who is suddenly raised up quickly.†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # I have to distract the topic.†
 
-    ("「これからバイトか？	いつ烽も大変だな」",
+    ("「これからバイトか？	いつも大変だな」",
     ""),
     # "Are you going to work part-time now? I'll be having a hard time even if it's hot."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("しかし揩理女緒ち痰ゃんは、言葉をとぎらせたまま、オレと志保を交互にながめる。∫",
+    ("しかし理女緒ち痰ゃんは、言葉をとぎらせたまま、オレと志保を交互にながめる。∫",
     ""),
     # However, while still holding her words out loud, she alternates between me and Shiho.∫
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # "Oh?"
 
-    ("「へえ、志保のこと烽も知ってんだ？」†",
+    ("「へえ、志保のことも知ってんだ？」†",
     ""),
     # "Whoa, do you know about Shiho too?"
 
-    ("「まっ、いかにр私って人間が有名かが、うかがい知れる墲わね」",
+    ("「まっ、いかにр私って人間が有名かが、うかがい知れるわね」",
     ""),
     # "Well, I can see how famous I am."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Well.
 
-    ("もと烽もと目立ってる繧上に、自分で図々しく宣伝までしてるからな」",
+    ("もともと目立ってる上に、自分で図々しく宣伝までしてるからな」",
     ""),
     # They even advertise themselves in admirable way, even on the standout side of the boat."
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "Yeah? Um...?"
 
-    ("「浴雛山です」",
+    ("「雛山です」",
     ""),
     # "It's Bath Hinayama"
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # I immediately met somebody.
 
-    ("掾理女緒ち痰ゃん烽もストレートなのはいいとして烽も、梶相闡手を見極めなき痰ゃダ＜メだう。",
+    ("掾理女緒ち痰ゃんもストレートなのはいいとしても、梶相闡手を見極めなき痰ゃダ＜メだう。",
     ""),
     # Although it's fine for the Jorime Ochi Shoyan to be extremely high, even if you don't know what to do with Kaji, you're not going to be a sphemy.
 
-    ("つって烽も、そり痰ゃ無摶理か。†",
+    ("つっても、そり痰ゃ無摶理か。†",
     ""),
     # So even if it's not smeared, is it irrelevant?†
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # A Just friends.Relax
 
-    ("Ｂ	つきあってるみたいな烽もんだ。閨",
+    ("Ｂ	つきあってるみたいなもんだ。閨",
     ""),
     # B It's like we're dating.Relax
 

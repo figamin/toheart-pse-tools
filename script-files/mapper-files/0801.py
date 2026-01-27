@@ -2,23 +2,23 @@
 # Source file: 0801.txt
 
 text_array = [
-    ("（戟レミィとの出逢い）閨（３獅月６冾日（木）１桙時限目の休み桙時間）閨（教室移動湯につき、氈次の授業は別の教室です）閨（廊下）†",
+    ("（レミィとの出逢い）閨（３月６冾日（木）１桙時限目の休み桙時間）閨（教室移動湯につき、氈次の授業は別の教室です）閨（廊下）",
     ""),
-    # (Meeting with Remi) (Third Lion, 6th Day (Thurs) (Break time at 1st Gallery)) (As the classroom is a moving bath, the next class is a separate classroom) (Corridor) †
+    # (Meeting with Remi) (Third Lion, 6th Day (Thurs) (Break time at 1st Gallery)) (As the classroom is a moving bath, the next class is a separate classroom) (Corridor) 
 
-    ("休み桙時間、教室移動のためにオレは廊下を烽歩いていた。†",
+    ("休み桙時間、教室移動のためにオレは廊下を歩いていた。",
     ""),
-    # During the break, I was walking down the hallway to move to the classroom.†
+    # During the break, I was walking down the hallway to move to the classroom.
 
     ("「グッドｃモーニン！	！」",
     ""),
     # "Good c Morning!"
 
-    ("「お墲わっ！」",
+    ("「おわっ！」",
     ""),
     # "Oh no!"
 
-    ("突然誰かに飛びつかれ、オレは声を繧上げた。",
+    ("突然誰かに飛びつかれ、オレは声を上げた。",
     ""),
     # Suddenly someone jumped at me, and I let out a loud voice.
 
@@ -26,23 +26,23 @@ text_array = [
     ""),
     # When I'm in the same position, I feel like something is hanging from my right arm...◯
 
-    ("「Ｈ奄ｉ！」",
+    ("「Ｈ奄！」",
     ""),
     # "Hi Amai!"
 
-    ("「戟レ、戟レミィ！？」",
+    ("「レ、レミィ！？」",
     ""),
     # "Are you thrill, thrillimee?!"
 
-    ("弾けそうな笑みを浮かべ、オレに腕を高絡めてきたのは、クラス＜メイトの『宮煖内兼レミィ』だった。",
+    ("弾けそうな笑みを浮かべ、オレに腕を高絡めてきたのは、クラス＜メイトの『宮内兼レミィ』だった。",
     ""),
     # A smirk that looked like it was B-stroking, and the one who ties my arms to my heart out was Crown Las Mate's "Miyahnai Kanremi" who looked like he was.
 
-    ("本末当は烽もっと横文囎字がつながった長い名前迹らしいけど、冝日本では省略しているそうだ。†",
+    ("本末当はもっと横文囎字がつながった長い名前迹らしいけど、冝日本では省略しているそうだ。",
     ""),
-    # The main story seems to be a long name that is connected to more horizontal letters, but it is apparently omitted in Japan.†
+    # The main story seems to be a long name that is connected to more horizontal letters, but it is apparently omitted in Japan.
 
-    ("それにして烽も、この腕に魔当たる、たっぷりとした柔迴らかい感触…。",
+    ("それにしても、この腕に魔当たる、たっぷりとした柔らかい感触…。",
     ""),
     # And even the hot springs have a generous, soft feel that hits this arm...
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "?"
 
-    ("戟レミィがオレを呼んだ。†",
+    ("レミィがオレを呼んだ。",
     ""),
-    # Karemi called out to me.†
+    # Karemi called out to me.
 
     ("「な、なんだよ」",
     ""),
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # …correction.
 
-    ("『浴女の子』は、戟レミィひとりだけだ。†",
+    ("『女の子』は、レミィひとりだけだ。",
     ""),
-    # The only "bathing girl" is Karemi.†
+    # The only "bathing girl" is Karemi.
 
     ("「｢｢煕もうすぐチェンジ・クラスルームね」",
     ""),
     # "" "He's soon to change the Crown Crown room."
 
-    ("楽しくてしょーがないってふうに、戟レミィが言う。",
+    ("楽しくてしょーがないってふうに、レミィが言う。",
     ""),
     # It's fun and there's no ecstasy, says Wake Remie.
 
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "That's right..."
 
-    ("たしかに、もうじきオレたちは二年生だ。†",
+    ("たしかに、もうじきオレたちは二年生だ。",
     ""),
-    # Certainly, we're in the second year soon.†
+    # Certainly, we're in the second year soon.
 
     ("「また同じクラスになるといいネ！」",
     ""),
@@ -114,25 +114,25 @@ text_array = [
     ""),
     # Was I so close to Ekire Remy so close...?
 
-    ("「もし、同じクラスになれたら『潤縁は異な烽もの』ってやつよネ」",
+    ("「もし、同じクラスになれたら『潤縁は異なもの』ってやつよネ」",
     ""),
     # "If we could end up with the same party, we would say, "Junen is a different kind of thing."
 
-    ("…なんだって？†",
+    ("…なんだって？",
     ""),
-    # ...What is it?†
+    # ...What is it?
 
-    ("冝日系ハーフだけあって、戟レミィの冾日本齧語は達者だ。",
+    ("冝日系ハーフだけあって、レミィの冾日本齧語は達者だ。",
     ""),
     # As a half-Japanese, he is a good master of Japanese language.
 
-    ("だけど、それにはあき足迹らず、早国鼾語の先生熕も知迺らないようなマイナーな『こと墲わざ』や『格言』をｉ話に混ぜてくる。",
+    ("だけど、それにはあき足迹らず、早国鼾語の先生熕も知迺らないようなマイナーな『ことわざ』や『格言』を話に混ぜてくる。",
     ""),
     # However, he does not go unnoticed, and even Hayun Gong-gu's teacher Ying has mixed minor "Koto-do-ge" and "proverbs" into the i-speak.
 
-    ("そのせいか知迺らないが、英皷語の発音はやや怪しいんだよな…。†",
+    ("そのせいか知迺らないが、英皷語の発音はやや怪しいんだよな…。",
     ""),
-    # Perhaps because of that, it's hard to understand, but the pronunciation of English-Japanese language is tampering, tampering, and suspicious...†
+    # Perhaps because of that, it's hard to understand, but the pronunciation of English-Japanese language is tampering, tampering, and suspicious...
 
     ("「なあ撃レミィ、さっきの『エン純ワイナｃモノ』って｢｢」",
     ""),
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # I tried to ask the meaning of the words,
 
-    ("「今度は、ステディな関係になりたい墲わネ翼＠」",
+    ("「今度は、ステディな関係になりたいわネ翼＠」",
     ""),
     # "Next time, I want to have a steady relationship @."
 
-    ("という彼濫女の言葉に、さえぎられた。",
+    ("という彼女の言葉に、さえぎられた。",
     ""),
     # I was interrupted by the words of the woman.
 
@@ -154,15 +154,15 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("そこで授業開始のチャャイムが鳴った。†",
+    ("そこで授業開始のチャャイムが鳴った。",
     ""),
-    # That's when the class started, the chayim rang.†
+    # That's when the class started, the chayim rang.
 
-    ("彼濫女は、ぴょんとオレから離齬れて、",
+    ("彼女は、ぴょんとオレから離齬れて、",
     ""),
     # The girl is separated from my ecstasy and my ecstasy,
 
-    ("「またね、Ｓ	凵ｙ盾ｏ浮ｕ	戟ｌ≠ａｔ窒ｒ」",
+    ("「またね、Ｓ	凵ｙ盾ｏ浮ｕ	ｌ≠ａｔ窒ｒ」",
     ""),
     # "See you, Sbb, y shield o floats, l≠atb nitrogen."
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # He said that and sent a charred kiss.
 
-    ("突然のことでなに烽も言えないオレを残して、戟レミィは駆けて行った。",
+    ("突然のことでなにも言えないオレを残して、レミィは駆けて行った。",
     ""),
     # It was a sudden matter and I couldn't say anything about it, so I stopped by the way, and I was so excited.
 

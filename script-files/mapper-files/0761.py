@@ -2,21 +2,21 @@
 # Source file: 0761.txt
 
 text_array = [
-    ("（琴音	追加イベント）†",
+    ("（琴音	追加イベント）",
     ""),
-    # (Kotone Additional Event)†
+    # (Kotone Additional Event)
 
     ("その夜、オレは自前でモ買ってきた『超能力の世界』って本を開いた。",
     ""),
     # That night, I opened a book called "The World of Psychic Powers" that I bought myself.
 
-    ("自分なりに勉強して、琴音ち痰ゃんのサポートをするためだ。†",
+    ("自分なりに勉強して、琴音ち痰ゃんのサポートをするためだ。",
     ""),
-    # This is to study in my own way and support Kotone Chisho-chan.†
+    # This is to study in my own way and support Kotone Chisho-chan.
 
-    ("なになに｢｢、超能力には大きく分けて４墲種類がある、と。†",
+    ("なになに｢｢、超能力には大きく分けて４種類がある、と。",
     ""),
-    # What is it? "There are four main types of psychic powers.†
+    # What is it? "There are four main types of psychic powers.
 
     ("まずはテレパシー。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # To put it simply, it's an ability to communicate with each other in a heart.
 
-    ("あかりとは、あるていど目で通じ№合えるけど、そういうのはテレパシーじ痰ゃねえな。†",
+    ("あかりとは、あるていど目で通じ№合えるけど、そういうのはテレパシーじ痰ゃねえな。",
     ""),
-    # Akari is a perfect match for each individual person, but that kind of thing is extremely repathetic and phlegm.†
+    # Akari is a perfect match for each individual person, but that kind of thing is extremely repathetic and phlegm.
 
     ("氈次は透挙視。",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # The ability to see the box's body, the distant objects and splashes.
 
-    ("オレなら箱のｒ身謳より、もっと見たい烽ものがあるけどな。†",
+    ("オレなら箱のｒ身謳より、もっと見たいものがあるけどな。",
     ""),
-    # If it's me, there's something I want to see more than the box's roe sung.†
+    # If it's me, there's something I want to see more than the box's roe sung.
 
     ("お次は、予知。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Also, it seems that the ability to learn about things that happened a long time will also be included in the number one group.
 
-    ("＠能力者って、諱よく他人の過脂去を見抜いたりするけど、そういう能力だな。†",
+    ("＠能力者って、諱よく他人の過脂去を見抜いたりするけど、そういう能力だな。",
     ""),
-    # @Users of ability often recognize the over-leakage of others, but that's the ability.†
+    # @Users of ability often recognize the over-leakage of others, but that's the ability.
 
     ("最纃後が念力。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # It's the ability to use Kotone Chisho-chan.
 
-    ("念じるだけで物を動かしたりする能力。†",
+    ("念じるだけで物を動かしたりする能力。",
     ""),
-    # The ability to move things just by thinking about it.†
+    # The ability to move things just by thinking about it.
 
     ("ふむふむ｢｢、これらの超能力はすべて同じエネルギーを元に発現する、と…。",
     ""),
@@ -82,41 +82,41 @@ text_array = [
     ""),
     # We call this energy and soul lol.
 
-    ("う〜む…、ややこしい。†",
+    ("う〜む…、ややこしい。",
     ""),
-    # Hmm...it's complicated.†
+    # Hmm...it's complicated.
 
-    ("結局、読んで墲わかったことは、最新の揩理論では、超能力は人間の魂をエネルギーにしているらしいってことだ。†",
+    ("結局、読んでわかったことは、最新の理論では、超能力は人間の魂をエネルギーにしているらしいってことだ。",
     ""),
-    # In the end, what I learned after reading it is that the latest theory suggests that psychic powers make human souls irritating.†
+    # In the end, what I learned after reading it is that the latest theory suggests that psychic powers make human souls irritating.
 
     ("超能力を使うと減っていくエネルギーを、『精神エネルギー』っていうらしい。",
     ""),
     # The energy-crying sensation that decreases when you use psychic powers is apparently called "mental energy-crying sensation."
 
-    ("精神エネルギーを扱える人｢｢つまり超能力者は、魂の一蝿部を墲削って超能力を使っていることになる。†",
+    ("精神エネルギーを扱える人｢｢つまり超能力者は、魂の一蝿部を削って超能力を使っていることになる。",
     ""),
-    # People who can handle mental energy and crying "In other words, psychics are using their psychic powers by cutting down one of their souls.†
+    # People who can handle mental energy and crying "In other words, psychics are using their psychic powers by cutting down one of their souls.
 
     ("当然、使いすぎればその人は死んでしまう。",
     ""),
     # Shrith Of course, if you use it too much, you will die.
 
-    ("＝普通の人で烽も、精神的に無摶理をすることで減っていき、やがて死んでしまう。†",
+    ("＝普通の人でも、精神的に無摶理をすることで減っていき、やがて死んでしまう。",
     ""),
-    # =A normal person, even if they are mentally incomprehensible, the number of people who lose their minds will decrease, and eventually die.†
+    # =A normal person, even if they are mentally incomprehensible, the number of people who lose their minds will decrease, and eventually die.
 
-    ("ときたまニャースでやってる、過労死とか突然死の何ч割か烽も魂の使いすぎが原因辷らしい。",
+    ("ときたまニャースでやってる、過労死とか突然死の何ч割かも魂の使いすぎが原因辷らしい。",
     ""),
     # Apparently, the cause of overwork and sudden deaths is caused by excessive use of souls.
 
-    ("そういう烽ものなんだそうだ。",
+    ("そういうものなんだそうだ。",
     ""),
     # Apparently, that's what it is.
 
-    ("琴音ち痰ゃんと出初う前のオレなら、笑い飛ばしてしまいそうな烽説明だぜ。†",
+    ("琴音ち痰ゃんと出初う前のオレなら、笑い飛ばしてしまいそうな説明だぜ。",
     ""),
-    # This is a hot explanation that would make you laugh if you were a bit of a thriller before you first appeared with Kotone Chisho-chan.†
+    # This is a hot explanation that would make you laugh if you were a bit of a thriller before you first appeared with Kotone Chisho-chan.
 
     ("…で、死なない程度に使った分はどうなるかというと、精神エネルギーは宇薗から少しずつ補充されるらしい。",
     ""),
@@ -126,31 +126,31 @@ text_array = [
     ""),
     # It's a lie to say that it's from Uzono, but in fact, there's a mysterious substance that looks like it's not visible to Uzono but it's there.
 
-    ("つまり、それが精神エネルギー。†",
+    ("つまり、それが精神エネルギー。",
     ""),
-    # In other words, that's mental energy and sorrow.†
+    # In other words, that's mental energy and sorrow.
 
-    ("その揩理雷から考えると、琴音ち痰ゃんの場㍼合、いっぱいになって烽もエネルギーが流齬れ桙込んできて、氈勝闖手にあふれてしまうのだう。",
+    ("その理雷から考えると、琴音ち痰ゃんの場㍼合、いっぱいになってもエネルギーが流齬れ桙込んできて、氈勝闖手にあふれてしまうのだう。",
     ""),
     # Considering the thunder, Kotone's sphin is filled up, and the energy and energy flows in conflict, causing the man to overflow with his hands.
 
-    ("オレはそう考えた。†",
+    ("オレはそう考えた。",
     ""),
-    # That's what I thought.†
+    # That's what I thought.
 
-    ("肝心のコント鴻ロールの仕緖方が出ているかと読み進むと、超能力燉も繰り返し使うことで繧上達したデータがある、と烽説明があった。",
+    ("肝心のコント鴻ロールの仕緖方が出ているかと読み進むと、超能力燉も繰り返し使うことで上達したデータがある、と説明があった。",
     ""),
     # As I continued reading to see if the key control method was available, I was told that there was data that the psychic powers also improved by repeatedly using them.
 
-    ("つまり、琴音ち痰ゃんに烽も練習すれば使いこなせるようになるか烽もしれないんだ。†",
+    ("つまり、琴音ち痰ゃんにも練習すれば使いこなせるようになるかもしれないんだ。",
     ""),
-    # In other words, if you practice Kotone Chishonan and Hot, you will probably be able to use them properly.†
+    # In other words, if you practice Kotone Chishonan and Hot, you will probably be able to use them properly.
 
-    ("超能力は科学じ痰ゃまだ解明できてないし、この本を曹書いたрヤツ焜も信用できるか墲わからないが、オレはとりあえず信じることにした。†",
+    ("超能力は科学じ痰ゃまだ解明できてないし、この本を曹書いたрヤツも信用できるかわからないが、オレはとりあえず信じることにした。",
     ""),
-    # Psychic powers have not yet been solved, and I don't know if I can trust the author of this book, but I decided to believe it for now.†
+    # Psychic powers have not yet been solved, and I don't know if I can trust the author of this book, but I decided to believe it for now.
 
-    ("その繧後煬も隅々まで目を通してみたが、琴音ち痰ゃんと同じケースの超能力については烽説明がなく、仕緖方なしにあきらめた。",
+    ("その後煬も隅々まで目を通してみたが、琴音ち痰ゃんと同じケースの超能力については説明がなく、仕緖方なしにあきらめた。",
     ""),
     # After that, I looked through every corner of the hana, but there was no explanation for the psychic powers in the same case as Kotone Chisho-chan, so I gave up without any effort.
 

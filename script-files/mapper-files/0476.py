@@ -2,15 +2,15 @@
 # Source file: 0476.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	スイカコーヒー）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	スイカコーヒー）",
     ""),
-    # (Shiho Scales Event PS) (Selection Watermelon Coffee)†
+    # (Shiho Scales Event PS) (Selection Watermelon Coffee)
 
     ("「…スイカコーヒーかな？	ダ＜メージが少なそうなのは」",
     ""),
     # "...Is it watermelon coffee? Is it that there are fewer damage?"
 
-    ("「じ痰ゃ、あたし烽もそれ」",
+    ("「じ痰ゃ、あたしもそれ」",
     ""),
     # "That's the phlegm, I too."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What is it?'' doesn't it?"
 
-    ("「べつに。どれで烽もよかったからね」†",
+    ("「べつに。どれでもよかったからね」",
     ""),
     # "And so, which one would have been better?"
 
@@ -30,13 +30,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("数分纒後｢｢。†",
+    ("数分纒後｢｢。",
     ""),
-    # After a few minutes, ".†
+    # After a few minutes, ".
 
     ("「どお？	どお？」",
     ""),
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Hmm, right? Is it normal to have phlegm?"
 
-    ("なんつーか、コーヒーの味しかしない。†",
+    ("なんつーか、コーヒーの味しかしない。",
     ""),
-    # It just tastes like coffee.†
+    # It just tastes like coffee.
 
-    ("「何となくスイカの≠香闕りが繧後を引く感じ、しない？」",
+    ("「何となくスイカの≠香闕りが後を引く感じ、しない？」",
     ""),
     # "I don't think the watermelon's sniffness is coming from behind, isn't it?"
 
@@ -58,12 +58,12 @@ text_array = [
     ""),
     # "here we go…?"
 
-    ("「『さあ？』じ痰ゃない墲わよ。ほれほれ、無くならないうちにスイカを感じなさいっ」",
+    ("「『さあ？』じ痰ゃないわよ。ほれほれ、無くならないうちにスイカを感じなさいっ」",
     ""),
     # "'Now?'' I'm not phlegmy. Come on, feel the watermelon before it goes away."
 
-    ("「べつにいいんだよ。コーヒーアイスで」†",
+    ("「べつにいいんだよ。コーヒーアイスで」",
     ""),
-    # "It's really good. With coffee ice cream" †
+    # "It's really good. With coffee ice cream" 
 
 ]

@@ -2,15 +2,15 @@
 # Source file: 07DB.txt
 
 text_array = [
-    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	べついいけどな）†",
+    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	べついいけどな）",
     ""),
-    # (Kotone PS Scale Event) (Select So, it's good)†
+    # (Kotone PS Scale Event) (Select So, it's good)
 
-    ("「べつにいいけどな」†",
+    ("「べつにいいけどな」",
     ""),
     # "It's really good though"
 
-    ("オレに彼濫女のプライベートに干渉する権圏はねえし。",
+    ("オレに彼女のプライベートに干渉する権圏はねえし。",
     ""),
     # There's no right to interfere with my girlfriend's private life.
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Kotone Chisho-yan said in a voice that was about to disappear.
 
-    ("「え？」†",
+    ("「え？」",
     ""),
-    # "picture?"†
+    # "picture?"
 
     ("「あんな能力ちからで、物を壊したりするなんて…」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "hey hey…"
 
-    ("オレなんか悪いこと言ったか？†",
+    ("オレなんか悪いこと言ったか？",
     ""),
-    # Did I say something bad?†
+    # Did I say something bad?
 
     ("「これ以繹上お話しして、あなたにご迷惑がかかるといけませんから、しつれいします…」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # Kotone Chisho-chan bowed her head and gave a squeal.
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("なんか急にブルーが入った琴音ち痰ゃんを、オレは黙って見洛送るしかなかった。",
     ""),

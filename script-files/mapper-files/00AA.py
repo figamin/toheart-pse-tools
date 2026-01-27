@@ -2,11 +2,11 @@
 # Source file: 00AA.txt
 
 text_array = [
-    ("（３獅月１７冾日	朝）閨（自分の部屋）†",
+    ("（３月１７冾日	朝）閨（自分の部屋）†",
     ""),
     # (Morning of the 17th day of the 3rd month) (morning of my room)
 
-    ("３獅月１７冾日、氏月曜坥日。",
+    ("３月１７冾日、氏月曜坥日。",
     ""),
     # The 17th day of the 3rd month of the 1990s, and the Monday day of the 1990s.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # The answer is, ".
 
-    ("「Ｉ	浴ｗ≠ａ入	入浮ｕ窒ｒ垂ｐ窒ｒ奄ｉ入рｄ	＝ａｔ	ｔ	氏ｎ翌ｗ入。…だ？」†",
+    ("「Ｉ	ｗ≠ａ入	入浮ｕ窒ｒ垂ｐ窒ｒ奄入рｄ	＝ａｔ	ｔ	氏ｎ翌ｗ入。…だ？」†",
     ""),
     # "I bath lol ≠a tang rind, floating nitrogen rind, amai tang rind, bрd =at tbb san, nb the next lol tang rind.... is that b?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Amazing! That's right, sphinja."
 
-    ("「＝早く烽も忘齧れてたら、とっくにサャナラだぜ」†",
+    ("「＝早くも忘齧れてたら、とっくにサャナラだぜ」†",
     ""),
     # "If I could forget the hot springs soon, it's already a Sayana feast."
 

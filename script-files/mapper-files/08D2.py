@@ -2,9 +2,9 @@
 # Source file: 08D2.txt
 
 text_array = [
-    ("（戟レミィ	好感度イベント	ＰＳ）閨（選択綜	いいぜ）†",
+    ("（レミィ	好感度イベント	ＰＳ）閨（選択綜	いいぜ）",
     ""),
-    # (Karemi Remi Likeability Event PS) (Selection So Iize)†
+    # (Karemi Remi Likeability Event PS) (Selection So Iize)
 
     ("「いいぜ」",
     ""),
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # I love it."
 
-    ("そう言うが≠早いか、戟レミィはいきなりオレに抱きついた。†",
+    ("そう言うが≠早いか、レミィはいきなりオレに抱きついた。",
     ""),
-    # But it's too early, and Suddenly, Karemi hugged me suddenly.†
+    # But it's too early, and Suddenly, Karemi hugged me suddenly.
 
     ("「お、おいおい！	離齬れって」",
     ""),
     # "Oh, hey! It's a break-up b."
 
-    ("禔口ではそう言って烽も、内心、悪い気はしてない。",
+    ("禔口ではそう言っても、内心、悪い気はしてない。",
     ""),
     # He said that, but inside, he didn't feel bad about it.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # ...But this is a shame.
 
-    ("こんなとこ誰かに見迪られたら、ちょっとしたニャースだぞ！？†",
+    ("こんなとこ誰かに見迪られたら、ちょっとしたニャースだぞ！？",
     ""),
-    # If someone like mews me, it would be a meow that I'd be surprised!?†
+    # If someone like mews me, it would be a meow that I'd be surprised!?
 
-    ("幸いというか残念というか、戟レミィはオレを押し倒したりすること烽もなく大人しく離齬れた。",
+    ("幸いというか残念というか、レミィはオレを押し倒したりすることもなく大人しく離齬れた。",
     ""),
     # Fortunately or rather unfortunate, the ramblings were quietly separated, without pushing me down.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yb Tangari"
 
-    ("「ま、いいけどな」†",
+    ("「ま、いいけどな」",
     ""),
     # "Well, that's fine."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "I'Kam" G-Ekil≠aрd!”
 
-    ("戟レミィは飛び繧上がってｊんだ。",
+    ("レミィは飛び上がってｊんだ。",
     ""),
     # The ramblings jumped up and went up.
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # "It was a Sunday. How can you tamper with the wait?!"
 
-    ("「Ｉ	メｃ≠ａ獅ｎ’ｔ	入≠ａ凾ｙ。がｌめて」",
+    ("「Ｉ	メｃ≠ａｎ’ｔ	入≠ａ凾ｙ。がｌめて」",
     ""),
     # "I Mec≠a lion't Come in≠a y. But please."
 
-    ("「…じ痰ゃあ、£將央駅に朝の１０桙時ってのはどうだ？」†",
+    ("「…じ痰ゃあ、將央駅に朝の１０桙時ってのはどうだ？」",
     ""),
-    # "...I'm not sure what's the 10-minute gaze at £Shaoyu Station?"
+    # "...I'm not sure what's the 10-minute gaze at Shaoyu Station?"
 
-    ("「Ｔ≠ａｔ’入	＝ａ撃ｌ撃ｌ	秩ｒ奄ｉ№ｇｔ。駅に１０桙時ネ？」",
+    ("「Ｔ≠ａｔ’入	＝ａ撃ｌ撃ｌ	秩ｒ奄№ｇｔ。駅に１０桙時ネ？」",
     ""),
     # "Tb≠at' enter = A-shot l Shot l Choi Amai No. GBT. 10 gazes at the station?"
 
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "ah"
 
-    ("うなずくと、戟レミィはにっこり微笑んだ。†",
+    ("うなずくと、レミィはにっこり微笑んだ。",
     ""),
-    # Nodded, and Karemy smiled.†
+    # Nodded, and Karemy smiled.
 
     ("「じ痰ゃあ冾日曜坥日に入	凵ｙ盾ｏ浮ｕ！」",
     ""),

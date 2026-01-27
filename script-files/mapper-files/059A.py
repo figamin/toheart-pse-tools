@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aoi Scales Event 7 after selection B)†
 
-    ("諱よし、ここはひとつ、冷たいドリンクで烽もモ買ってきてやるか。",
+    ("諱よし、ここはひとつ、冷たいドリンクでもモ買ってきてやるか。",
     ""),
     # Okay, here's one thing: I wonder if I'll buy some hot pots and tamper with the cold Dogata Link.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Hey, Aoi-chi's sphemy."
 
-    ("オレは繧後撃から声をかけた。†",
+    ("オレは後撃から声をかけた。†",
     ""),
     # My gang called out after the attack.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "I bought a Dogata Link, so why don't you take a break?"
 
-    ("「ありがとうございます。で烽も、もう少し…」",
+    ("「ありがとうございます。でも、もう少し…」",
     ""),
     # "Thank you. And there's a little more..."
 

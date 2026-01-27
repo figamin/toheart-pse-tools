@@ -10,7 +10,7 @@ text_array = [
     ""),
     # It seems like he's busy, so stop talking to him.
 
-    ("オレはティッシャを揩持ったまま、その場を離齬れた。†",
+    ("オレはティッシャを持ったまま、その場を離齬れた。†",
     ""),
     # Ogere left the scene, holding the tissue behind.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It started to catch on immediately.†
 
-    ("「って、アンタ、なんか面猪白い烽もの揩持ってんじ痰ゃないのよ〜」",
+    ("「って、アンタ、なんか面猪白いもの持ってんじ痰ゃないのよ〜」",
     ""),
     # "And you, you have a white boar and a white hot pot, so you don't have any phlegms."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("やっぱりハゲのティッシャね。ふふん、志保ち痰ゃんの目に狂いはなかった墲わ」",
+    ("やっぱりハゲのティッシャね。ふふん、志保ち痰ゃんの目に狂いはなかったわ」",
     ""),
     # It's definitely a bald Tissya.Hehe, Shiho's eyes were never crazy."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I remember the tissues I'm giving away every single one, so I have no phlegm, my name is."
 
-    ("「こんなの烽もらっち痰ゃうなんて、、ひょっとして頭アブないとか？」",
+    ("「こんなのもらっち痰ゃうなんて、、ひょっとして頭アブないとか？」",
     ""),
     # "You're probably getting a hot stimulus like this, isn't it a bad head?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # It's the exact opposite of Ochisou-chan.
 
-    ("「アンタ焜も誘ってあげたいけど、もう人柏数がね〜」",
+    ("「アンタも誘ってあげたいけど、もう人柏数がね〜」",
     ""),
     # "I'd like to invite you too, but I'm already in the number of people."
 

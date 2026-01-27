@@ -2,7 +2,7 @@
 # Source file: 08B1.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	いっしょに帰驪る）閨（下駄箱）†",
+    ("（レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	いっしょに帰驪る）閨（下駄箱）†",
     ""),
     # (Game Remy Scale Event 1st Floor 3 LV2) (Choices Return to Isshichieko) (Shoe cabinet)†
 
@@ -14,23 +14,23 @@ text_array = [
     ""),
     # "I did it" †
 
-    ("戟レミィとの帰闍り道。",
+    ("レミィとの帰闍り道。",
     ""),
     # A journey back with Remy.
 
-    ("ふたりのｉ話は、それなりに盛關り繧上がっていた。†",
+    ("ふたりの話は、それなりに盛關り上がっていた。†",
     ""),
     # Their i-talk was quite high.†
 
-    ("「戟レミィんちって、けっこー裕泓福なんだ？」",
+    ("「レミィんちって、けっこー裕泓福なんだ？」",
     ""),
     # "Is Karemy's pretty Yuuufu b?"
 
-    ("たしか、戟レミィのモ父さんは貿易会社の社長をやってて、けっこーでかいｉ社を揩持ってたはずだ。",
+    ("たしか、レミィのモ父さんは貿易会社の社長をやってて、けっこーでかい社を持ってたはずだ。",
     ""),
     # I'm sure that Moda from Wake Remy was tampering with the president of a trading company and had a huge company called I.
 
-    ("「良く墲わからないけど、いまはＤ≠ａрｄのお仕鮪事がうまく行ってるから…」†",
+    ("「良くわからないけど、いまはＤ≠ａрｄのお仕鮪事がうまく行ってるから…」†",
     ""),
     # "I don't really understand this, but right now, D≠aрd's tuna is going well..."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Yeah. I'm here."
 
-    ("当たり前のように、戟レミィはうなずいた。",
+    ("当たり前のように、レミィはうなずいた。",
     ""),
     # As if to be expected, Karemi nodded.
 
@@ -90,19 +90,19 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("戟レミィは困ってしまった。",
+    ("レミィは困ってしまった。",
     ""),
     # Karemi was in trouble.
 
-    ("どうやら、冝日本齧語でうまく烽説明できないらしい。†",
+    ("どうやら、冝日本齧語でうまく説明できないらしい。†",
     ""),
     # Apparently, it seems that it is difficult to explain things like tampering with Japanese bitters.†
 
-    ("それで烽も、",
+    ("それでも、",
     ""),
     # And so the hot ones too
 
-    ("「пｄ≠ａ窒ｒ汲駆	ａ窒ｒ盾ｏ翌ｗ獅ｎの髪なの」",
+    ("「пｄ≠ａ窒ｒ駆	ａ窒ｒ盾ｏ翌ｗｎの髪なの」",
     ""),
     # "пd≠a nitrogen pump, ab nitrogen shield, the next lol lion's hair."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Anyway, I tried to say it in English.
 
-    ("「ダークブラウン…。はいはい、こげモ茶色ね。…で烽もそれって、冝日本人？」",
+    ("「ダークブラウン…。はいはい、こげモ茶色ね。…でもそれって、冝日本人？」",
     ""),
     # "Dark Bread Feast Round... Yes, yes, it's dark brown... And is that a Japanese person too?"
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "It's not shaking.
 
-    ("ａ高ｍ窒ｒ奄ｉモｃ≠ａ獅ｎなの」†",
+    ("ａ高ｍ窒ｒ奄モｃ≠ａｎなの」†",
     ""),
     # A high mb nitrogen Amaimo C≠A lion」†
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "Hmm.
 
-    ("わざ墲わざ冾日本の≠メーカーのを使寬わなくて烽も、ア＜メリカにだって汲結構すごいのがそってるだ？」",
+    ("わざわざ冾日本の≠メーカーのを使寬わなくても、ア＜メリカにだって結構すごいのがそってるだ？」",
     ""),
     # They don't use Japan's manufacturers, so they're pretty incredible, even in America, they're b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b”
 
-    ("「ニッポンの製品は№ｇ盾ｏ盾ｏрｄ	早ｑ浮ｕ≠ａ撃ｌ奄ｉｔ凾ｙだって、пｄ≠ａрｄが言ってた盾ワ」†",
+    ("「ニッポンの製品は№ｇ盾ｏ盾ｏрｄ	早ｑ浮ｕ≠ａ撃ｌ奄ｔ凾ｙだって、пｄ≠ａрｄが言ってた盾ワ」†",
     ""),
     # "Japan's products are No. G Shield O Shield OрD, the shield that пd ≠AрD said was """
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # ...Is it too good to be tampered with, is Japan too good?†
 
-    ("「彼濫女は働き者祉」",
+    ("「彼女は働き者祉」",
     ""),
     # "He's a hard worker"
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # A That's good, that.Relax
 
-    ("Ｂ	遠慮しとく墲わ。閨",
+    ("Ｂ	遠慮しとくわ。閨",
     ""),
     # B I'll refrain from doing that.Relax
 

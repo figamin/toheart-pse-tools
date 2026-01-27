@@ -2,15 +2,15 @@
 # Source file: 0661.txt
 
 text_array = [
-    ("（ＶＳイベント	マルチＶＳ撃レミィ）閨（マルチにやる）†",
+    ("（ＶＳイベント	マルチＶＳ撃レミィ）閨（マルチにやる）",
     ""),
-    # (VS Event Makkuruchi VS Geki Remi) (Tampering on Makkuruchi) †
+    # (VS Event Makkuruchi VS Geki Remi) (Tampering on Makkuruchi) 
 
     ("そうだな。",
     ""),
     # That's right.
 
-    ("オッチョコチョイレベルでいうとマルチのほうが繧上だよな。",
+    ("オッチョコチョイレベルでいうとマルチのほうが上だよな。",
     ""),
     # In terms of how hard it is, the big crying is more impressive.
 
@@ -22,23 +22,23 @@ text_array = [
     ""),
     # "Ah, san."
 
-    ("偶然に烽も一階の廊下でマルチと出初った。",
+    ("偶然にも一階の廊下でマルチと出初った。",
     ""),
     # By chance, Ho also first came out in the hallway on the first floor with a cry of tears.
 
-    ("「おっす、マルチ！	ちょうどいいとこでｉったな」",
+    ("「おっす、マルチ！	ちょうどいいとこでったな」",
     ""),
     # "Oh, I'm crying! I got a good spot b."
 
-    ("「なんですか？」†",
+    ("「なんですか？」",
     ""),
     # "What is it?"
 
-    ("「じつは、お前に渡したい烽ものがあってな」",
+    ("「じつは、お前に渡したいものがあってな」",
     ""),
     # "In fact, there's something I want to give to you."
 
-    ("オレはポケットからｉ史に烽もらったお守闔りを出して渡した。",
+    ("オレはポケットから史にもらったお守りを出して渡した。",
     ""),
     # I gave the amulet I had received from my pocket and handed it over.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "this is…?"
 
-    ("「お守闔りだよ。",
+    ("「お守りだよ。",
     ""),
     # "It's a talisman.
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # It protects you from accidents and injuries.I'll tamper with McDonald."
 
-    ("「えっ？」†",
+    ("「えっ？」",
     ""),
-    # "Huh?" †
+    # "Huh?" 
 
     ("「ほら、マルチはオッチョコチョイだから、転んでケガとかしないようにな」",
     ""),
@@ -70,23 +70,23 @@ text_array = [
     ""),
     # "Makyuruchi is a good girl, so I'm sure God will protect him more than usual."
 
-    ("オレは笑いながら、マルチの頭にポンポンと手を置いた。†",
+    ("オレは笑いながら、マルチの頭にポンポンと手を置いた。",
     ""),
-    # I laughed, and placed my hand on Makruchi's head.†
+    # I laughed, and placed my hand on Makruchi's head.
 
     ("「…うっ、、さん。こんなに親切にしていただいて。ありがとうございますっ。きっと大切にします！」",
     ""),
     # "...Uh...san. Thank you for being so kind. I'm sure I'll cherish you!"
 
-    ("「はは、そんな大袈裟な烽もんじ痰ゃねーって。だいたい、お守闔りより烽も、自分自身を大切にしてくれよな」",
+    ("「はは、そんな大袈裟なもんじ痰ゃねーって。だいたい、お守りよりも、自分自身を大切にしてくれよな」",
     ""),
     # "Haha, you have to be exaggerated and sputum. Generally, you should take care of yourself, even if it's more than just amulet."
 
-    ("「さん…」†",
+    ("「さん…」",
     ""),
-    # "Mr. Miss…"†
+    # "Mr. Miss…"
 
-    ("それにして烽も、こんなにｊんでくれるとは思寬わなかった。",
+    ("それにしても、こんなにｊんでくれるとは思寬わなかった。",
     ""),
     # But I never thought that Hot would come so much.
 

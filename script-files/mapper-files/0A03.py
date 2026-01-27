@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I'm gonna be at someone's prank banquet anyway.
 
-    ("もし本末当に奄ラブレターだとして烽も、それはそれで返抹事に困骰る。",
+    ("もし本末当に奄ラブレターだとしても、それはそれで返抹事に困骰る。",
     ""),
     # If it were to be a fierce letter from Amami Love, it would be a pain to cancel it.
 
-    ("ま、どっちにし、面倒なことになるのは間瘧違いないだう。",
+    ("ま、どっちにし、面倒なことになるのは間違いないだう。",
     ""),
     # Well, it must be a pain to go to the trouble b.
 

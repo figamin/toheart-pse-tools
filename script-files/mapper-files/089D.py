@@ -2,7 +2,7 @@
 # Source file: 089D.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	鐘）†",
+    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	鐘）†",
     ""),
     # (Game Remy Scale Event 2nd Floor 4 LV1) (Selection Bell)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # It's a bell."
 
-    ("お宸寺の烽鐘が小さくなっただけだ。†",
+    ("お宸寺の鐘が小さくなっただけだ。†",
     ""),
     # The hot bell at Otsuji Temple has just become smaller.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Oh no (I actually didn't know about it)"
 
-    ("「正解は『梶リン（戟レイ）』デス」",
+    ("「正解は『梶リン（レイ）』デス」",
     ""),
     # "The correct answer is 'Kaji Rin' (Kaji Rin)'"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Damn it, it's all suddenly tampering and confusing!†
 
-    ("「戟レミィ、潤ワンｃモアチャャンス！」",
+    ("「レミィ、潤ワンｃモアチャャンス！」",
     ""),
     # "Great Remy, Jun One C More Chaance!"
 

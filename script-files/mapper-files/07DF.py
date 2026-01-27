@@ -2,25 +2,25 @@
 # Source file: 07DF.txt
 
 text_array = [
-    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	声をかける）†",
+    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	声をかける）",
     ""),
-    # (Kotone PS Scale Event) (Chounen Soko)†
+    # (Kotone PS Scale Event) (Chounen Soko)
 
     ("今厓日こそ謝っとかねえとな。",
     ""),
     # I hope I will apologize on the day.
 
-    ("オレは琴音ち痰ゃんに声をかけた。†",
+    ("オレは琴音ち痰ゃんに声をかけた。",
     ""),
-    # I called out to Kotone Chisho-chan.†
+    # I called out to Kotone Chisho-chan.
 
     ("「いようっ」",
     ""),
     # "I'll stay here."
 
-    ("琴音ち痰ゃんは無言で振關り返髟ると、ぺこりとｉ釈した。†",
+    ("琴音ち痰ゃんは無言で振關り返髟ると、ぺこりと釈した。",
     ""),
-    # Kotone Chisho-yan silently shouted and interpreted with a silence.†
+    # Kotone Chisho-yan silently shouted and interpreted with a silence.
 
     ("「こないだのことなんだけど｢｢」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # My ecstasy first started to get in touch.
 
-    ("「事諶情熄もよく墲わかってねえうちに、立ち入ったこと言っちまって、迷惑かけたなぁって思ってさ」†",
+    ("「事諶情熄もよくわかってねえうちに、立ち入ったこと言っちまって、迷惑かけたなぁって思ってさ」",
     ""),
     # "I didn't really understand the refinement of the matter, but I thought I was causing trouble by saying what I had gone in."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "no…"
 
-    ("「オレさ、知迺らねえうちに揩傷つけちまったんじ痰ゃねえかとマジで悩んだんだって」",
+    ("「オレさ、知迺らねえうちに傷つけちまったんじ痰ゃねえかとマジで悩んだんだって」",
     ""),
     # "I was really worried about how intense it was, I hurt my body and I didn't know what to do with it."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "...Um, don't worry too much."
 
-    ("「いや、琴音ち痰ゃんにあんな悲しい顔されたら気に烽もなるって」†",
+    ("「いや、琴音ち痰ゃんにあんな悲しい顔されたら気にもなるって」",
     ""),
     # "If Kotone Chishonan gives such a sad face, he'll feel a bit nervous."
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Kotone Chisho-yan suddenly looked in trouble.
 
-    ("いきなりち痰ゃん付けで呼ぶのはまずかったかな。†",
+    ("いきなりち痰ゃん付けで呼ぶのはまずかったかな。",
     ""),
-    # I guess it would have been bad to call you with a sudden phlegm.†
+    # I guess it would have been bad to call you with a sudden phlegm.
 
     ("「…そういや、自己紹譓介まだだったな。オレ、２−Ｂの」",
     ""),
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "ah.
 
-    ("一年Ｂ組姫武琴音ち痰ゃんで№合ってるだ？	…ごめんな、氈勝闖手に調べちまって」†",
+    ("一年Ｂ組姫武琴音ち痰ゃんで№合ってるだ？	…ごめんな、氈勝闖手に調べちまって」",
     ""),
     # First-year Class B Himetake Kotone Chishonan is the right fit?...Sorry, please check it out with me."
 
-    ("「いいえ。…わたし、＝普通じ痰ゃないですから、さんの目にとまるの烽もしかたがないことなんです…」",
+    ("「いいえ。…わたし、＝普通じ痰ゃないですから、さんの目にとまるのもしかたがないことなんです…」",
     ""),
     # "No...I'm not normally phlegm, so it's hard to catch your eye..."
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # With that said, Kotone Chisho-yan put his eyes down.
 
-    ("ウ純ワサになるのは、やっぱイсヤなんだう。†",
+    ("ウ純ワサになるのは、やっぱイсヤなんだう。",
     ""),
-    # The reason why you become a pure wasa is definitely something you're gonna be.†
+    # The reason why you become a pure wasa is definitely something you're gonna be.
 
     ("オレの鰍リアクションは｢｢。",
     ""),
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # A: That's right.Relax
 
-    ("Ｂ	そうで烽もないって。閨",
+    ("Ｂ	そうでもないって。閨",
     ""),
     # B And so there's no hot water.Relax
 

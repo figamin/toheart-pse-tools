@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone PS Scale Event) (Hibugata Lid) (This is the second Scale Event) †
 
-    ("歩いていると、どこかで見たような翌女の子の姿闔が…。",
+    ("歩いていると、どこかで見たような翌女の子の姿が…。",
     ""),
     # As I was walking, I saw the next girl appearing as if I had seen it somewhere...
 

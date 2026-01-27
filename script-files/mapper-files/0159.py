@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("引き出しのｒからトランプを取闔り出した。",
+    ("引き出しのｒからトランプを取り出した。",
     ""),
     # I took out a banquet lamp from the drawer.
 
-    ("「神経褐衰辮弱で烽もやっか」",
+    ("「神経褐衰辮弱でもやっか」",
     ""),
     # "I'm weak in my nerves and I'm going to tamper with my hot water."
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # ・†
 
-    ("結果をｒ継する気に烽もなれない。",
+    ("結果をｒ継する気にもなれない。",
     ""),
     # I can't even get too excited about passing the results.
 
-    ("３墲戦竦やって３墲戦と烽もオレの圧汕勝に終尞わる。†",
+    ("３戦竦やって３戦ともオレの圧汕勝に終尞わる。†",
     ""),
     # The battle for the 3rd race was also a major hit, and the 3rd race and the 3rd race were also defeated by a massive surge in Shangai.†
 
@@ -134,7 +134,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「いまのがい墲わゆる『あかりギャャグ』か？」",
+    ("「いまのがいわゆる『あかりギャャグ』か？」",
     ""),
     # "Is this the current "Akari Gyagu"?
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("「お烽もしくねー」",
+    ("「おもしくねー」",
     ""),
     # "You're not b-huh?"
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "Ah; hehe" †
 
-    ("「…まあ、それはと烽もかくだ。ホラ、お前、堰負けたんだから≠早く脱げよ」",
+    ("「…まあ、それはともかくだ。ホラ、お前、堰負けたんだから≠早く脱げよ」",
     ""),
     # "...Well, that's the case. Hooray, you lost the dam, so take it off quickly."
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "...What is it?"
 
-    ("「…いまのがい墲わゆる『ち痰ゃんギャャグ』なんだね」",
+    ("「…いまのがいわゆる『ち痰ゃんギャャグ』なんだね」",
     ""),
     # "...It's the current "Choy, Gyagu""
 
@@ -242,19 +242,19 @@ text_array = [
     ""),
     # The simulator has begun.†
 
-    ("以前に烽もこうしてｍ闕りにｗたことがあるので、キッチンの使い方笊や、＆囎丁竰や食岦器の位置とかはすでに心得ているようだ。",
+    ("以前にもこうしてｍ闕りにｗたことがあるので、キッチンの使い方笊や、＆囎丁竰や食岦器の位置とかはすでに心得ているようだ。",
     ""),
     # I've been laughing at the time before, so it seems that he already knows how to use the kitchen, the location of the kitchen, and the food storage and food storage.
 
-    ("棚に並んだ調味料燉も、あかりがモ買いたした烽ものが汲結構ある。†",
+    ("棚に並んだ調味料燉も、あかりがモ買いたしたものが結構ある。†",
     ""),
     # There are quite a few seasonings on the shelves that Akari bought.†
 
-    ("まるで獅月イチの通い妻だな。",
+    ("まるで月イチの通い妻だな。",
     ""),
     # It's like Shizuki Ichi's wife.
 
-    ("いや、いくらなんで烽も妻ってのはやっぱりちょっとな。",
+    ("いや、いくらなんでも妻ってのはやっぱりちょっとな。",
     ""),
     # It's a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a
 
@@ -278,11 +278,11 @@ text_array = [
     ""),
     # I thought, looking sideways as Akari stood in the kitchen.†
 
-    ("フライパンと菜ばしで、なにか炒め烽ものをしている。",
+    ("フライパンと菜ばしで、なにか炒めものをしている。",
     ""),
     # They are stir-fried and boiled with fried fried bread and vegetable stew.
 
-    ("ジャッ…という油の音とと烽もに、＝香ばしい匂いが漂ってきた。†",
+    ("ジャッ…という油の音とともに、＝香ばしい匂いが漂ってきた。†",
     ""),
     # The sound of the fortune oil and the hot water started to waft with a fragrant smell.†
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # "Armorable, armorable, armorable, armorable, armorable, armorable, armorable."
 
-    ("足で鰍リズムを取闔りながら、楽しそうに歌なんかうたってやがる。†",
+    ("足で鰍リズムを取りながら、楽しそうに歌なんかうたってやがる。†",
     ""),
     # He sings happily as he controls the rhythm of his legs.†
 
@@ -318,15 +318,15 @@ text_array = [
     ""),
     # Aspa Fenra and carrot meat wrapped in meat.
 
-    ("アボカドと納豆の和え烽もの。",
+    ("アボカドと納豆の和えもの。",
     ""),
     # Avocado and natto with hot water.
 
-    ("き繧ゅうり、蛛大根、にんじんの、スティックサラダと手詩闕りタルタルソース。",
+    ("きゅうり、蛛大根、にんじんの、スティックサラダと手詩闕りタルタルソース。",
     ""),
     # Cucumber, radish, carrot, sticks and hand-populated sauce.
 
-    ("豆燈と墲わかめ、禔油あげ、ネギの駆だくさんおみそ汁。",
+    ("豆燈とわかめ、禔油あげ、ネギの駆だくさんおみそ汁。",
     ""),
     # Dori lantern, seaweed, fried chicken, and miso soup with green onions.
 
@@ -346,11 +346,11 @@ text_array = [
     ""),
     # The beef season from last time was good, but for the bentoho and the many people who eat out, this kind of fee-making method seems valuable.†
 
-    ("それにして烽も、安い材料濫でよくこれだけｍ鼾れる烽もんだ。",
+    ("それにしても、安い材料でよくこれだけｍ鼾れるもんだ。",
     ""),
     # However, the hot springs are also cheap and often slurping hot springs.
 
-    ("あかりい墲わく、冷蔵庫に材料を残しながらｍっていけば、この撃レベルを保ちつつ、一食あたり３００円煢内でやっていけるらしい。",
+    ("あかりいわく、冷蔵庫に材料を残しながらｍっていけば、この撃レベルを保ちつつ、一食あたり３００円煢内でやっていけるらしい。",
     ""),
     # It seems that if you leave the ingredients in the fridge while still moving, you can keep the level of tears and tamper with the fire for 300 yen per serving.
 
@@ -358,7 +358,7 @@ text_array = [
     ""),
     # He's quite an economical guy.†
 
-    ("オレ焜内箔部のあかりポイントが、またひとつ繧上昇したぜ。†",
+    ("オレ内箔部のあかりポイントが、またひとつ上昇したぜ。†",
     ""),
     # The light points on the inner foil section of my stove have risen one more time.†
 
@@ -366,7 +366,7 @@ text_array = [
     ""),
     # "Eat a lot.
 
-    ("肉巻きとか、まだまだおか墲わりあるよ」",
+    ("肉巻きとか、まだまだおかわりあるよ」",
     ""),
     # There's still a lot of okara rolls to eat with meat."
 
@@ -382,11 +382,11 @@ text_array = [
     ""),
     # I'll have some phlegm."†
 
-    ("最燕初に箸をつけたのは、£將央にどんとあるアスパラとにんじんの肉巻きだ。",
+    ("最燕初に箸をつけたのは、將央にどんとあるアスパラとにんじんの肉巻きだ。",
     ""),
-    # The first ones to wear chopsticks were a certain Aspa Fenra and carrot meat wrapped in meat at £Saiho.
+    # The first ones to wear chopsticks were a certain Aspa Fenra and carrot meat wrapped in meat at Saiho.
 
-    ("下芍ゆでしたアスパラとにんじんを、豚肉で魔薄く巻き、禔油を引いたフライパンで、うまく転がしながら焼き、仕緕上げに、塩、こしょうで味を整えた烽ものだ。†",
+    ("下芍ゆでしたアスパラとにんじんを、豚肉で魔薄く巻き、禔油を引いたフライパンで、うまく転がしながら焼き、仕緕上げに、塩、こしょうで味を整えたものだ。†",
     ""),
     # The Aspa Fried and carrots are wrapped in pork, wrapped in a thin layer of pork, and baked in a fuban raipan with wheat oil, and rolled nicely while rolling it, and seasoned with polished salt and savory syrup.†
 
@@ -418,11 +418,11 @@ text_array = [
     ""),
     # good"†
 
-    ("氈次に、アボカドと納豆の和え烽もの。",
+    ("氈次に、アボカドと納豆の和えもの。",
     ""),
     # Next, there is a hot dish with avocado and natto.
 
-    ("１センチ角に切ったアボカドと納豆を和え、からし、しょうゆ、昆布などで味をつけて、轣千切關り大根とキャウリの繧上にのせた烽ものだ。†",
+    ("１センチ角に切ったアボカドと納豆を和え、からし、しょうゆ、昆布などで味をつけて、轣千切關り大根とキャウリの上にのせたものだ。†",
     ""),
     # This is a hot dish made with avocado cut into 1 cm squares and natto, seasoned with mustard, shiizu roe, kelp, etc., and placed on a syrup of daikon radish and kelp.†
 
@@ -430,7 +430,7 @@ text_array = [
     ""),
     # The slimy avocado and the sticky natto adolescence make you eat.
 
-    ("シャャキシャャキした大根の浮歯ごたえ烽もよく、これまた飯がすすむぜ。",
+    ("シャャキシャャキした大根の浮歯ごたえもよく、これまた飯がすすむぜ。",
     ""),
     # The crispy radish with a crispy radish is also nice, and the rice is also good.
 
@@ -438,7 +438,7 @@ text_array = [
     ""),
     # Is the guy who's tampering with Akari trying to make my heart go wild?†
 
-    ("き繧ゅうり、蛛大根、にんじんの、スティックサラダ。",
+    ("きゅうり、蛛大根、にんじんの、スティックサラダ。",
     ""),
     # Stick banquet ladder with cucumbers, radish, carrots.
 
@@ -446,7 +446,7 @@ text_array = [
     ""),
     # A good day for a break from the palate.
 
-    ("しか烽も、＊菜をそのままぼりぼり食うと、非嵓常にうまい感じがする。†",
+    ("しかも、＊菜をそのままぼりぼり食うと、非嵓常にうまい感じがする。†",
     ""),
     # However, when you eat the vegetables as they are, they always seem delicious.†
 
@@ -454,7 +454,7 @@ text_array = [
     ""),
     # "I casually hate the takkyurutakyurus sauce myself."
 
-    ("「誰で烽も簡単にｍ鼾れるよ」",
+    ("「誰でも簡単にｍ鼾れるよ」",
     ""),
     # "Whoever can easily sniff out the hot springs."
 
@@ -462,7 +462,7 @@ text_array = [
     ""),
     # "It's easy, but it's annoying. Taking that into something is annoying."
 
-    ("豆燈と墲わかめ、禔油あげ、ねぎの駆だくさんおみそ汁。",
+    ("豆燈とわかめ、禔油あげ、ねぎの駆だくさんおみそ汁。",
     ""),
     # Miso soup with douko and roe wakame, fried chicken and green onions.
 
@@ -478,11 +478,11 @@ text_array = [
     ""),
     # Akarime is just knowing what I like about him.†
 
-    ("浴風味のために、きざみネギが入ってるの烽もポイントだ。",
+    ("風味のために、きざみネギが入ってるのもポイントだ。",
     ""),
     # Another highlight is that it contains chopped green onions for the bath flavor.
 
-    ("こういう地味な部分でｌして手を抜いたりしないあかりに、さらに烽もうひとつ、オレポイントをやう。†",
+    ("こういう地味な部分でｌして手を抜いたりしないあかりに、さらにもうひとつ、オレポイントをやう。†",
     ""),
     # Akari doesn't slacking off on such plain parts, but then he's also making another big deal of revenge.†
 
@@ -494,11 +494,11 @@ text_array = [
     ""),
     # If you have miso soup with Chichishiro rice and there are no pickles there, then that is subject to a penalty.
 
-    ("だが、あかりはち痰ゃんと墲わかってる。",
+    ("だが、あかりはち痰ゃんとわかってる。",
     ""),
     # However, Akari knows that she's a bit of a sphin.
 
-    ("しか烽も、チョチョイとお手軽にたくあんやしば漬けを出すのではなく、なすの浅漬けをからしつきで出す。",
+    ("しかも、チョチョイとお手軽にたくあんやしば漬けを出すのではなく、なすの浅漬けをからしつきで出す。",
     ""),
     # However, instead of simply adding takuan tan or shiba pickled vegetables, the boiled eggplant is served with mustard.
 
@@ -510,11 +510,11 @@ text_array = [
     ""),
     # However, last time I was Shicha, and the last time I was hotpot, so I was really a guy with a lot of Ekirepert Gata Lee.
 
-    ("あかりの母さん烽も料摎理はプ鴻ロ級（というかプ鴻ロ）だが、将女的にはきっとあかりのやつ烽も、堰負けず劣逞らずの腕前になるはずだ。†",
+    ("あかりの母さんも料摎理はプ鴻ロ級（というかプ鴻ロ）だが、将女的にはきっとあかりのやつも、堰負けず劣逞らずの腕前になるはずだ。†",
     ""),
     # Akari's mother, Yori, is also a pro-Koro banquet (or rather, she is a pro-Koro), but as a result of the owner, Akari's tampering and Yori must be able to be skilled as she is not inferior to the dam.†
 
-    ("「あかり、おか墲わりだっ！」",
+    ("「あかり、おかわりだっ！」",
     ""),
     # "Akari, you're a gay!"
 
@@ -526,7 +526,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「こんな短い桙時間で、そつなくまとめあげるとは、お前熨もやるようになった烽もんだなァ」",
+    ("「こんな短い桙時間で、そつなくまとめあげるとは、お前熨もやるようになったもんだなァ」",
     ""),
     # "You've started to tamper with the idea of ​​putting it all together in such a short amount of time."
 
@@ -534,7 +534,7 @@ text_array = [
     ""),
     # "Oh, is that so?"
 
-    ("「うむ。…これなら烽もう、いつ嫁に出して烽も恥ずかしくないぜ」",
+    ("「うむ。…これならもう、いつ嫁に出しても恥ずかしくないぜ」",
     ""),
     # "Yeah...If this is the case, I'm not embarrassed to send it to my wife when it comes to Hot."
 
@@ -590,11 +590,11 @@ text_array = [
     ""),
     # I lay on my back on the sofa.
 
-    ("あかりは繧後片づけをやっている。",
+    ("あかりは後片づけをやっている。",
     ""),
     # Akari is tampering with tidying up afterwards.
 
-    ("見糟舞いのお礼にしては、おつりがｗそうなほどだ。",
+    ("見舞いのお礼にしては、おつりがｗそうなほどだ。",
     ""),
     # As a thank you for the dance, it's a change lol.
 
@@ -626,7 +626,7 @@ text_array = [
     ""),
     # After that, Akari and Ichio saw a dramatic revival on the TV program, who had finished tidying up.
 
-    ("食鱒事が済み、片づけ烽も終尞わり、とくにすること烽もなくなったふたりは、なんとなく無菇口になった。†",
+    ("食事が済み、片づけも終尞わり、とくにすることもなくなったふたりは、なんとなく無菇口になった。†",
     ""),
     # The food and trout have already been done, and the tidying up steam has been completed, and the two have no more heat have been left, so somehow they have become uncool.†
 
@@ -638,11 +638,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("どこかそ墲わそ墲わし、氏落ちｒかないふたり。",
+    ("どこかそわそわし、氏落ちｒかないふたり。",
     ""),
     # The two of them are somehow nervous, and the people are not disappointed.
 
-    ("くだらないバラエティー番組を見ながら烽も、意識は別のとこにあるような感じだった。†",
+    ("くだらないバラエティー番組を見ながらも、意識は別のとこにあるような感じだった。†",
     ""),
     # While watching the silly banquet daily show, it seemed like Hou was in another place.†
 
@@ -650,19 +650,19 @@ text_array = [
     ""),
     # In fact, that was the case for me.
 
-    ("この繧後、ふたりはどうするんだ。",
+    ("この後、ふたりはどうするんだ。",
     ""),
     # What will the two of them do after this?
 
-    ("そのことばかりが頭に浮かび、どうして烽もテレビの画面に集薯できなかった。†",
+    ("そのことばかりが頭に浮かび、どうしてもテレビの画面に集薯できなかった。†",
     ""),
     # That's all I came to mind, and why did the hot springs not gather on the screen of the TV dramatic revival?†
 
-    ("あかりのいれてくれたおモ茶を、何度となく口に運び、妙に乾く喉をうるお墲わせた。",
+    ("あかりのいれてくれたおモ茶を、何度となく口に運び、妙に乾く喉をうるおわせた。",
     ""),
     # I brought the omo tea with light to Fukuku multiple times, moisturizing my strangely dry throat.
 
-    ("あかり烽も同じで、何度となくおモ茶をおか墲わりしていた。",
+    ("あかりも同じで、何度となくおモ茶をおかわりしていた。",
     ""),
     # The same goes for Akari Hot Spring, and I used to drink Omocha many times.
 
@@ -674,7 +674,7 @@ text_array = [
     ""),
     # The program ended, with the 7:55pm.
 
-    ("ちらりと桙時計を見たあかりが、諱よしっ、と言って、ソファーから立ち繧上がった。",
+    ("ちらりと桙時計を見たあかりが、諱よしっ、と言って、ソファーから立ち上がった。",
     ""),
     # Akari glanced at the fox clock and said, "Okay, okay?" and stood up from the sofa.
 
@@ -718,7 +718,7 @@ text_array = [
     ""),
     # "Ah."
 
-    ("あ墲わてて冾放す。†",
+    ("あわてて冾放す。†",
     ""),
     # I'll let it go.†
 

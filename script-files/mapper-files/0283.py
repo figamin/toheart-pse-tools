@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I decided to stop my guts.
 
-    ("「とくに占って烽もらいたいこと烽もないしさ、それに悪いんだけど、オレ、閨占いとかって、あんまりしないことにしてるんだ」†",
+    ("「とくに占ってもらいたいこともないしさ、それに悪いんだけど、オレ、閨占いとかって、あんまりしないことにしてるんだ」†",
     ""),
     # "There's nothing particularly hot about fortune telling, and it's bad, but I'm not really trying to get a fortune telling."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I thought about it for a moment.
 
-    ("「なんていうか、未沫芋翌ｐﾉ知っち痰ゃうと、それだけで損した気分になるっていうか…。だってそれって、小熄説のオチの部分を最燕初に読んじまうような烽もんだ？」",
+    ("「なんていうか、未沫芋翌ｐﾉ知っち痰ゃうと、それだけで損した気分になるっていうか…。だってそれって、小熄説のオチの部分を最燕初に読んじまうようなもんだ？」",
     ""),
     # "What do you mean, if you can't help but think that's enough, you'll feel like you've lost out...Is that the kind of thing that makes you read the punchline of the theory that you're the first to read?"
 
@@ -78,7 +78,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え？	今厓日は烽もう帰驪るって？	あ、そう。悪いな、わざ墲わざｗて烽もらったのに。またな」",
+    ("「え？	今厓日はもう帰驪るって？	あ、そう。悪いな、わざわざｗてもらったのに。またな」",
     ""),
     # "Huh? You're already back on the day now? Ah, that's right. That's a shame, I made a move lol and got a hot pot. See you later."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Something strange senior.
 
-    ("で烽も綺淏麗だよな。◯",
+    ("でも綺淏麗だよな。◯",
     ""),
     # And the hot spring is also beautiful.◯
 

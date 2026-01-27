@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("オレは鞄を揩持って席を立ち繧上がった。†",
+    ("オレは鞄を持って席を立ち上がった。†",
     ""),
     # I stood up from my seat with my kara bag.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "What?" †
 
-    ("「バナナの葉っぱにくるんで、地面にр埋めて、その繧上でたき火して蒸し焼にするрヤツ。名前は知迺らん」",
+    ("「バナナの葉っぱにくるんで、地面にр埋めて、その上でたき火して蒸し焼にするрヤツ。名前は知迺らん」",
     ""),
     # "They wrap around banana leaves, bury them in the ground, and then bonfire them on the basin to make steam. Their names are unknown."
 
-    ("「で烽も、丸ごとの豚なんて手に入逑らないよ。半分になったのなら≠メーカーに直接告注文すればモ買えるけど、それで烽も２０怩万円以繹上は…」",
+    ("「でも、丸ごとの豚なんて手に入逑らないよ。半分になったのなら≠メーカーに直接告注文すればモ買えるけど、それでも２０怩万円以繹上は…」",
     ""),
     # "And you can't get a whole pig, either. If it's half-held, you can buy a mo by ordering directly from the manufacturer, but that's why the pork is worth more than 200,000 yen..."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「べつに汲豪勢にする必要はねーぞ。派阡手なのだったら、ファミレスとかで烽も食えんだから。なんか家薗的なやつにしてくれ」†",
+    ("「べつに豪勢にする必要はねーぞ。派阡手なのだったら、ファミレスとかでも食えんだから。なんか家薗的なやつにしてくれ」†",
     ""),
     # "There's no need to make it a full-scale player. If you're a fan, you could eat hot food with family replies or something. Please make it a tampering thing like a Japanese-style guy."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "That's tough enough..."
 
-    ("「お前ならできる。米はある、みそ烽もある、調味料燉も主要な烽ものはひと通闥りそってる。",
+    ("「お前ならできる。米はある、みそもある、調味料燉も主要なものはひと通闥りそってる。",
     ""),
     # "You can do it. You have rice, miso hotpot, and you can also use seasonings and other major hotpots.
 
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # ・†
 
-    ("制梵服姿の男嵐女がスーパーでモ買い物する様は、なんだか、いかに烽もという感じで凾嫌だったが、まあ、しょうがない。",
+    ("制梵服姿の男嵐女がスーパーでモ買い物する様は、なんだか、いかにもという感じで凾嫌だったが、まあ、しょうがない。",
     ""),
     # I was so pleased with the sight of a man and a woman in a Sanskrit uniform shopping at the supermarket, like a hot spring, but I can't help but feel bad about it.
 
-    ("あかりの選んだ食材は、豆燈、豚肉、のり、だいこん、にんじん、キャウリ、アスパラ、戟レタス、たまご、アボカド、納豆、などなどだった。",
+    ("あかりの選んだ食材は、豆燈、豚肉、のり、だいこん、にんじん、キャウリ、アスパラ、レタス、たまご、アボカド、納豆、などなどだった。",
     ""),
     # Akari's ingredients were bean lantern, pork, seaweed, daikon, carrot, kyaugatari, Aspa banquet, roe lettuce, egg, avocado, natto, and more.
 
-    ("なにをｍ骰るか、さっぱり墲わからない。†",
+    ("なにをｍ骰るか、さっぱりわからない。†",
     ""),
     # I have no idea what to do.†
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # Akari has been making the whole time, and he has been saying things like, "Pork is rich in vitamin B1 and is good for recovering from fatigue."
 
-    ("あかりは味のみならず栄養に烽もうるさい。",
+    ("あかりは味のみならず栄養にもうるさい。",
     ""),
     # The light is not only delicious, but also nutritious.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # In that sense, it's a tampering thing that can even be used to.†
 
-    ("なんだかんだでいいモ買ったが、♂計は意外と安かった。",
+    ("なんだかんだでいいモ買ったが、雅計は意外と安かった。",
     ""),
     # I bought a B-Mo, no matter what, but the male line was surprisingly cheap.
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "Hello"
 
-    ("「おう、縺上がれ繧上がれ」",
+    ("「おう、縺上がれ上がれ」",
     ""),
     # "Oh, go up and go up."
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "My sputum is my sputum."
 
-    ("スーパーのモ買い物袋を手に揩持ったあかりは、ぺこりと頭を下げて家に繧上がった。†",
+    ("スーパーのモ買い物袋を手に持ったあかりは、ぺこりと頭を下げて家に上がった。†",
     ""),
     # Akari, holding a supermarket shopping bag in her hand, bowed her head and leapt up to the house.†
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "You can use the kitchen for Tomatata. I'll get some r in my room."
 
-    ("「うん、わかった。じ痰ゃ、お台椛所借闔りるね」†",
+    ("「うん、わかった。じ痰ゃ、お台椛所借りるね」†",
     ""),
     # "Yeah, I understand. I'll borrow your slut from the bayashi."
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # Then the voice came back.
 
-    ("「うん。で烽も、準備だけしとくよ」",
+    ("「うん。でも、準備だけしとくよ」",
     ""),
     # "Yes. And I'll just prepare for you, too."
 

@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "…Mr. Miss"
 
-    ("マルチ焜も寂しそうに言った。†",
+    ("マルチも寂しそうに言った。†",
     ""),
     # Ruchi-san also said sadly.†
 
-    ("「…で烽も、さんにそう言って烽もらえて、わたし、嬉しいです」",
+    ("「…でも、さんにそう言ってもらえて、わたし、嬉しいです」",
     ""),
     # "... And I'm happy that Kao said that to me and got Hoo."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # With that, Ruchi smiled.
 
-    ("なんだか、とて烽も窒健気に思えた。",
+    ("なんだか、とても窒健気に思えた。",
     ""),
     # It seemed like Hot was also brave.
 

@@ -2,9 +2,9 @@
 # Source file: 0481.txt
 
 text_array = [
-    ("（志保	回秤数イベント	２階１）閨（３／２１固定）閨（廊下１）閨（志保２）†",
+    ("（志保	回秤数イベント	２階１）閨（３／２１固定）閨（廊下１）閨（志保２）",
     ""),
-    # (Shiho Scales Event 2nd Floor 1) (3/21st Crimson) (Corridor 1) (Shiho 2)†
+    # (Shiho Scales Event 2nd Floor 1) (3/21st Crimson) (Corridor 1) (Shiho 2)
 
     ("「あっ、、聞いて聞いてっ」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # As I was about to appear in a big way, Shiho suddenly started to come in.
 
-    ("「なんだってんだよ」†",
+    ("「なんだってんだよ」",
     ""),
     # "What is it?"
 

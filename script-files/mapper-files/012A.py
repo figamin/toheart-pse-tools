@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Vending Machine"
 
-    ("片阨手を繧上げて通闥り過ぎようとしたオレを、",
+    ("片阨手を上げて通闥り過ぎようとしたオレを、",
     ""),
     # I tried to lift my arms up and reach too much,
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yes, there was some ℃ litter" †
 
-    ("「おう、さんき繧ゅ、わりぃな」",
+    ("「おう、さんきゅ、わりぃな」",
     ""),
     # "Oh, it's so good, it's so good."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Kotone Chisho-chan was in front of me.
 
-    ("どうやら繧上から降闕りてきたらしい。†",
+    ("どうやら上から降闕りてきたらしい。†",
     ""),
     # Apparently it was starting to fall from above the scene.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Oh, Kotone Chishou-chan."
 
-    ("オレは笑迴顔で声をかけた。",
+    ("オレは笑顔で声をかけた。",
     ""),
     # I called out with a laughing face.
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # Kotone Chisho-yan responds a small greeting.
 
-    ("最近、学校で烽もよくｉうよな。†",
+    ("最近、学校でもよくうよな。†",
     ""),
     # Recently, I've been getting a lot of hot springs at school.†
 
-    ("「ちょうど、カフェオレで烽もモ買いにいこうと思ってたとこなんだ」",
+    ("「ちょうど、カフェオレでもモ買いにいこうと思ってたとこなんだ」",
     ""),
     # "It's a place where I was planning to go and buy some hot springs at the Cafe au Exciting Lait."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Ah, yes..."
 
-    ("「オレの彼濫女かってこと？」",
+    ("「オレの彼女かってこと？」",
     ""),
     # "You mean my super-sexy boyfriend?"
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # "That's right. Akari is my ""
 
-    ("Ａ	彼濫女か烽もな。閨",
+    ("Ａ	彼女かもな。閨",
     ""),
     # A Hero or a Hot girl.Relax
 
-    ("Ｂ	彼濫女なんかじ痰ゃないよ。閨",
+    ("Ｂ	彼女なんかじ痰ゃないよ。閨",
     ""),
     # B: There's no phlegm for women.Relax
 

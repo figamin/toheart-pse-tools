@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri°Chuang, Scales Event 1F LV1)Seri (Carrior 2)†
 
-    ("１階の廊下へ降闕りてきて、ふと汲窓の外を見骭ると…。",
+    ("１階の廊下へ降闕りてきて、ふと窓の外を見骭ると…。",
     ""),
     # I began to descend to the corridor on the first floor and suddenly looked out the window...
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Oh? There's phlegm, @Suisui-san, you have phlegm?"
 
-    ("£鋳のベンチで、なにやら本を読んでいるｗ栖瑞謳先輩を見かけた。",
+    ("鋳のベンチで、なにやら本を読んでいるｗ栖瑞謳先輩を見かけた。",
     ""),
-    # On the bench of £ I saw Senpai Suzumi-san reading books and doing something about it.
+    # On the bench of  I saw Senpai Suzumi-san reading books and doing something about it.
 
     ("Ａ	近寄って声をかける。閨",
     ""),

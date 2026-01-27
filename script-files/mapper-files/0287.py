@@ -2,7 +2,7 @@
 # Source file: 0287.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（校蜊門燒内）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（校門燒内）†",
     ""),
     # (Sei°Chuang, Scales Event, Departing from School LV1)Sei (inside the school rim)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Oh, I'm a senior.
 
-    ("校蜊門の側で、ぼーっとたたずむｗ栖瑞謳先輩を見かけた。†",
+    ("校門の側で、ぼーっとたたずむｗ栖瑞謳先輩を見かけた。†",
     ""),
     # I saw Senpai Suzumi-san standing dazed by the school gates.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # When I called out to him from a disdain, Senpai Kotobuki slowly replied.
 
-    ("や墲わらかな長い髪がふ墲わっと曹舞い、思寬わず見とれてしまう。",
+    ("やわらかな長い髪がふわっと曹舞い、思寬わず見とれてしまう。",
     ""),
     # His long, soft hair and long hair suddenly danced, and I couldn't help but look over him.
 

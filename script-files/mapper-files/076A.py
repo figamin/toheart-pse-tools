@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone Likeability Event PS)†
 
-    ("£鋳に出たオレは、いくつかあるベンチをひとつずつ見て回驩る。",
+    ("鋳に出たオレは、いくつかあるベンチをひとつずつ見て回驩る。",
     ""),
     # Ogere, who appeared in the cast, looked at several benches one by one and went around.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Kotone Chisho-chan was quickly found.
 
-    ("いつ烽ものようにベンチにｍかけて、何個かあるｖ幕のボールとにらめっこしている。†",
+    ("いつものようにベンチにｍかけて、何個かあるｖ幕のボールとにらめっこしている。†",
     ""),
     # He was hanging on the bench like a hot thing, staring at several V-curve balls.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Ah, sir... Hello."
 
-    ("彼濫女はオレに気づくと立ちあがり、ペコリと頭を下げた。†",
+    ("彼女はオレに気づくと立ちあがり、ペコリと頭を下げた。†",
     ""),
     # When the woman noticed me, she stood up and bowed her head.†
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「前にさんに見て烽もらったときから、ふたつ烽も揩増えたんです」",
+    ("「前にさんに見てもらったときから、ふたつも増えたんです」",
     ""),
     # "Since I saw it from the previous time, I got a hot pot, I've seen two hot pots and the other hot pots have increased."
 
-    ("彼濫女、オレがこうやって見にｗ磯翌ﾆすごく嬉しそうに特訓の進み駆㈲合を話してくれる。",
+    ("彼女、オレがこうやって見にｗ磯翌ﾆすごく嬉しそうに特訓の進み駆㈲合を話してくれる。",
     ""),
     # My boyfriend and I'm going to watch it lol Iso-no-ni is so happy to talk about the progress of the training.
 
-    ("そんな彼濫女を見骭るのが、最近は楽しい。†",
+    ("そんな彼女を見骭るのが、最近は楽しい。†",
     ""),
     # It's been fun to watch such a boyfriend and girls these days.†
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # If that's more than two, then five more.
 
-    ("「はいっ。あんなに凾嫌いだった能力だったのに、今では繧上闖手くなるとすごく嬉しいんです。",
+    ("「はいっ。あんなに凾嫌いだった能力だったのに、今では上闖手くなるとすごく嬉しいんです。",
     ""),
     # "Yes. It was such a skill I hated so much, but now I'm really happy when I've become more skilled.
 
-    ("早く、その…さんに見て烽もらいたいな…って思うんです」†",
+    ("早く、その…さんに見てもらいたいな…って思うんです」†",
     ""),
     # I think I want you to see it soon and have me take a look at it."
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "thank you"
 
-    ("琴音ち痰ゃんは笑迴顔でうなずいた。",
+    ("琴音ち痰ゃんは笑顔でうなずいた。",
     ""),
     # Kotone Chisho-yan nodded with a laughing face.
 
-    ("「じ痰ゃさっそく成果を見せて烽もらおーか」",
+    ("「じ痰ゃさっそく成果を見せてもらおーか」",
     ""),
     # "Let's show off your results and get some hot food."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Kotone Chisho-yan freely manipulated five balls in front of my eyes.
 
-    ("ピンポン玉を転がすだけだった頃から比べれば、とんで烽もない進熕歩だ。",
+    ("ピンポン玉を転がすだけだった頃から比べれば、とんでもない進熕歩だ。",
     ""),
     # When compared to the days when he only rolled a ping pong ball, he was extremely hot and incredibly hot.
 
@@ -150,11 +150,11 @@ text_array = [
     ""),
     # It's Tsuboshi after all.†
 
-    ("「琴音ち痰ゃん、オレの前じ痰ゃいつ烽も無摶理して限界ぎりぎりまでエネルギー使うからな。これ以繹上竢やって倒齠れられたら大変だ」",
+    ("「琴音ち痰ゃん、オレの前じ痰ゃいつも無摶理して限界ぎりぎりまでエネルギー使うからな。これ以繹上竢やって倒齠れられたら大変だ」",
     ""),
     # "Kotone-chi, the phlegm in front of me will always be able to keep the phlegm in vain and use energy to the very limit. If you can defeat me from now on, it's going to be a pain."
 
-    ("人前だとつい張闥り切ってしまうって心境はオレに烽もよく墲わかる。",
+    ("人前だとつい張闥り切ってしまうって心境はオレにもよくわかる。",
     ""),
     # I can really understand how I feel when I'm in front of people that I end up dying.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # Realizing the meaning of my gangbang, Kotone Chishoyan looked down shyly.
 
-    ("「いいって。今厓日は残闔りの桙時間、なんか話しで烽もしようぜ」",
+    ("「いいって。今厓日は残りの桙時間、なんか話しでもしようぜ」",
     ""),
     # "That's fine. The day is still in the middle of the day, so let's have some hot springs to talk about."
 
@@ -190,7 +190,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("とは言った烽ものの、逆に話し出すきっかけを失ってしまった。",
+    ("とは言ったものの、逆に話し出すきっかけを失ってしまった。",
     ""),
     # That said, I lost the opportunity to talk to him.
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "Hmm... Kotone Chishonan is knowledgeable about animals."
 
-    ("「はい。ひとりのときはしょっち繧ゅう図鑑をながめてましたから…」†",
+    ("「はい。ひとりのときはしょっちゅう図鑑をながめてましたから…」†",
     ""),
     # "Yes. When I was alone, I was looking at the encyclopedia of the essays..."
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # Let me know why Kotone Chi Sphin is so enthusiastic about ken-jutsu."
 
-    ("「…どうしてそうなのか、わたしに烽もよく墲わからないんですよ…」",
+    ("「…どうしてそうなのか、わたしにもよくわからないんですよ…」",
     ""),
     # "...I don't really understand why that's the case..."
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "hey hey"
 
-    ("「で烽も、わたしが勝闖手に思いこんでいるキッカケでしたら…」†",
+    ("「でも、わたしが勝闖手に思いこんでいるキッカケでしたら…」†",
     ""),
     # "And if that's the trigger that I was thinking about Katsuren's hand..."
 
@@ -254,11 +254,11 @@ text_array = [
     ""),
     # This was when I went on a trip with my dad and mom.
 
-    ("わたしたちは静かな港町の旅館に宿を取闔りました。†",
+    ("わたしたちは静かな港町の旅館に宿を取りました。†",
     ""),
     # We visited a hotel in a quiet port town.†
 
-    ("どこかへ遊びに行こうということになって、わたしは湾をはさんだｌこう側、蛛大きな№島のｐ族館に連齪れていって烽もらったんです。",
+    ("どこかへ遊びに行こうということになって、わたしは湾をはさんだｌこう側、蛛大きな№島のｐ族館に連齪れていってもらったんです。",
     ""),
     # I decided to go out and have a trip somewhere, and I went to the P-Armum on the large No. Island on the side of the bay and received a hot spring.
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # I was so happy that I left my dad and mom behind and went around the Kakei Kiraku on my own.†
 
-    ("やがて館煌内の施設を残邇らず見終えた墲わたしは、噤建物の外へ出たんです。†",
+    ("やがて館煌内の施設を残邇らず見終えたわたしは、噤建物の外へ出たんです。†",
     ""),
     # Eventually, after I finished looking at the facilities inside the Museum Luo, I left the building outside.†
 
@@ -274,15 +274,15 @@ text_array = [
     ""),
     # There was a large pool there.
 
-    ("曇闢り空で翌風熾も強く、少し肌寒かったので、ま墲わりには誰熬もいませんでした。†",
+    ("曇闢り空で翌風熾も強く、少し肌寒かったので、まわりには誰熬もいませんでした。†",
     ""),
     # The sky was cloudy and the next wind was strong and it was a little chilly, so there was no one there, despite the fact that it was cloudy.†
 
-    ("わたしはプールのｒを覗こうと思ったんですが、プールを囲んでいる壁が少し高くて、£の様子が見えそうで見えません。",
+    ("わたしはプールのｒを覗こうと思ったんですが、プールを囲んでいる壁が少し高くて、の様子が見えそうで見えません。",
     ""),
     # I was planning to look around the pool, but the wall surrounding the pool is a little b-high, so I can't see what's going on.
 
-    ("どうにかしてｒを見謖ようと、わたしは飛び繧上がってみたり、いいと獅試しました。",
+    ("どうにかしてｒを見謖ようと、わたしは飛び上がってみたり、いいと試しました。",
     ""),
     # I tried to somehow catch up with the r, but I jumped up and tried a lion.
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # The hat flew to the wall in no time.
 
-    ("プールのｒに獅落ちたんです。†",
+    ("プールのｒに落ちたんです。†",
     ""),
     # A lion fell into the r in the pool.†
 
@@ -306,15 +306,15 @@ text_array = [
     ""),
     # It was a hat that I love, so I felt sad and started crying.
 
-    ("そのうちにパパとママがやってきて、わたしを抱き繧上げてくれましたが、わたしはモきじ痰ゃくるばかりです。†",
+    ("そのうちにパパとママがやってきて、わたしを抱き上げてくれましたが、わたしはモきじ痰ゃくるばかりです。†",
     ""),
     # Eventually, my dad and mom came to tamper with me and hugged me, but I was crying and sighing.†
 
-    ("で烽も、そのとき、壁のｌこうから墲わたしの帽子が差し出されたんですよ。",
+    ("でも、そのとき、壁のｌこうからわたしの帽子が差し出されたんですよ。",
     ""),
     # And then, at that moment, my hat was handed over from the wall.
 
-    ("パパ焜もママ焜も墲わたし烽も、びっくりしました。",
+    ("パパもママもわたしも、びっくりしました。",
     ""),
     # My father, mother, and I was surprised.
 
@@ -322,11 +322,11 @@ text_array = [
     ""),
     # After all, it was a cried person who picked up my hat.
 
-    ("イルカは、帽子のつばをく墲わえて壁のｌこうから伸び繧上がってくれてたんです。†",
+    ("イルカは、帽子のつばをくわえて壁のｌこうから伸び上がってくれてたんです。†",
     ""),
     # Luka cried out and raised the brim of her hat from the wall.†
 
-    ("パパは『イルカさんにお礼を言うんだぞ』って、抱いたまま墲わたしをイルカに近付けてくれました。",
+    ("パパは『イルカさんにお礼を言うんだぞ』って、抱いたままわたしをイルカに近付けてくれました。",
     ""),
     # My dad said, "I'm going to thank you, Luka-san," and brought me closer to Luka-san, holding me in my arms.
 
@@ -338,11 +338,11 @@ text_array = [
     ""),
     # His eyes were so gentle that he looked upon me.†
 
-    ("お礼を言って、わたしは帽子をイルカから受け取闔りました。",
+    ("お礼を言って、わたしは帽子をイルカから受け取りました。",
     ""),
     # I thanked him, and I cried and received the hat from Luka.
 
-    ("帽子は不思議なことに、少し烽もぬれていませんでした。",
+    ("帽子は不思議なことに、少しもぬれていませんでした。",
     ""),
     # Strangely, the hat was not wet either.
 
@@ -350,7 +350,7 @@ text_array = [
     ""),
     # I put on my hat and immediately reached for Luka and stroked her.†
 
-    ("わたしがパパと烽もう一度お礼を言うと、イルカはそれが伝崧わったように、プールに戻っていったんです。",
+    ("わたしがパパともう一度お礼を言うと、イルカはそれが伝崧わったように、プールに戻っていったんです。",
     ""),
     # When I thanked her with Dad, she returned to the pool, as if it had been passed down.
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "At that moment, I thought. He spoke to Luka. Animal Teru is also a friend..."
 
-    ("「なるほどな。それが琴音ち痰ゃんの動物好きな揩理由か…」†",
+    ("「なるほどな。それが琴音ち痰ゃんの動物好きな理由か…」†",
     ""),
     # "I see. I see. That's why Kotone Chisho-chan loves animals..."
 
@@ -378,11 +378,11 @@ text_array = [
     ""),
     # "I think that's probably true."
 
-    ("「今の琴音ち痰ゃんがあるの烽も、案外そのイルカのおかげか烽もな…」",
+    ("「今の琴音ち痰ゃんがあるのも、案外そのイルカのおかげかもな…」",
     ""),
     # "The current Kotone Chishonan has a stomp, and perhaps thanks to that slumber, it's no surprise that it's hot..."
 
-    ("「…あの、さんと出初えたの烽も、イルカのおかげにしていいですか？」",
+    ("「…あの、さんと出初えたのも、イルカのおかげにしていいですか？」",
     ""),
     # "...Um, can I give thanks to Luka Iku to join us for the first time with you?"
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "Yes" †
 
-    ("その冾日はそのまま、動物関係の話陂題で盛關り繧上がってしまった。",
+    ("その冾日はそのまま、動物関係の話陂題で盛關り上がってしまった。",
     ""),
     # The date has continued to rise to the issue of animal-related topics.
 

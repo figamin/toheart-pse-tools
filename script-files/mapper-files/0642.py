@@ -2,27 +2,27 @@
 # Source file: 0642.txt
 
 text_array = [
-    ("（マルチ	好感度イベント３）閨（好感度が	のとき）閨（昼休み）閨（食堂）†",
+    ("（マルチ	好感度イベント３）閨（好感度が	のとき）閨（昼休み）閨（食堂）",
     ""),
-    # (Makyuruchi Likeability Event 3) (When Likeability is ) (Lunch break) (Dinner) (Dinner) †
+    # (Makyuruchi Likeability Event 3) (When Likeability is ) (Lunch break) (Dinner) (Dinner) 
 
-    ("昼休みの購ロ買粕部は、局地的な墲戦齔場と化す。",
+    ("昼休みの購ロ買粕部は、局地的な戦齔場と化す。",
     ""),
     # During lunch break, the Buying Kasube branch becomes a localized warhouse.
 
-    ("目を撃血膜走迹らせた修女ど烽もが、うまいパンを≠めて、艨我謇先にと、せきを切ったかのように襲いかかるのだ。",
+    ("目を撃血膜走迹らせた修女どもが、うまいパンを≠めて、艨我謇先にと、せきを切ったかのように襲いかかるのだ。",
     ""),
     # Her eyes were shot and the nun, who had her bloodshot, spurred her on, and she sought out the delicious bread and attacked her as if she had cut off her cough.
 
-    ("オレとｉ史は、いよいよ墲戦いがモ化するほんのひと足鞫先に、目的のブツのゲットに成功していた。†",
+    ("オレと史は、いよいよ戦いがモ化するほんのひと足鞫先に、目的のブツのゲットに成功していた。",
     ""),
-    # My guts and I-Shin were able to get the desired item, just as the battle for the battle was getting more and more intense.†
+    # My guts and I-Shin were able to get the desired item, just as the battle for the battle was getting more and more intense.
 
     ("「醜いねぇ。食い物でｑう姿は…」",
     ""),
     # "It's ugly. How 'K-san' is eating it..."
 
-    ("メしい墲戦齔場を見ながらオレは、修女ど烽もが恋い焦がれて止まぬカツサンドを口にする。",
+    ("メしい戦齔場を見ながらオレは、修女どもが恋い焦がれて止まぬカツサンドを口にする。",
     ""),
     # As I watched the fierce battlefield, my nun and the man who was in love with him were in a state of love, and I ate a slutty cutlet sandwich.
 
@@ -30,21 +30,21 @@ text_array = [
     ""),
     # "The winner is certainly worth it."
 
-    ("と、すでに自分熾も目的のパンを手に入齠れたｉ史が言った。†",
+    ("と、すでに自分熾も目的のパンを手に入齠れた史が言った。",
     ""),
-    # He said, "Ishi, who has already acquired the bread that he is aiming for."†
+    # He said, "Ishi, who has already acquired the bread that he is aiming for."
 
-    ("戦いはよりモしさを揩増していく。",
+    ("戦いはよりモしさを増していく。",
     ""),
     # The battle becomes even more intense.
 
-    ("もう繧上縁級生熕も下演級生熕も男子燻も翌女子燻もあった烽もんじ痰ゃない。",
+    ("もう上縁級生熕も下演級生熕も男子燻も翌女子燻もあったもんじ痰ゃない。",
     ""),
     # There were already some high-level students, some high-level students, some formal performance students, some for boys, and some for the next girl.
 
-    ("すさまじい形褐相で人間の群鼬れを掻き分け、目的のパンへと手を伸ばす。†",
+    ("すさまじい形褐相で人間の群鼬れを掻き分け、目的のパンへと手を伸ばす。",
     ""),
-    # With its incredibly brownish shape, he stroking through the human throb and reaching for the bread he wanted.†
+    # With its incredibly brownish shape, he stroking through the human throb and reaching for the bread he wanted.
 
     ("「みんな要領が悪いねぇ」",
     ""),
@@ -54,17 +54,17 @@ text_array = [
     ""),
     # I let out a casual smile of my ability to tamper with it.
 
-    ("カツサンドのｕみｎをくし痰ゃくし痰ゃにして、ぽいっとゴミ箱に捨てたとき｢｢。†",
+    ("カツサンドのｕみｎをくし痰ゃくし痰ゃにして、ぽいっとゴミ箱に捨てたとき｢｢。",
     ""),
-    # When I threw the cutlet sandwich into a sputum and sputum and throw it in the trash can, I said, ".†
+    # When I threw the cutlet sandwich into a sputum and sputum and throw it in the trash can, I said, ".
 
     ("「すっ、すみませ〜ん。カツサンド２個と、カレーパン１個と、やきそばパン１個と｢｢」",
     ""),
     # "S-Sorry. Two cutlet sandwiches, one curry roe bread, one yakisoba bread, and ""
 
-    ("メ甯戦謳区の真っ直鋳から、聞き覚えのある声が聞こえてきた。†",
+    ("メ甯戦謳区の真っ直鋳から、聞き覚えのある声が聞こえてきた。",
     ""),
-    # A familiar voice came to hearing from the straight casting of the Megeki Kosen Sui District.†
+    # A familiar voice came to hearing from the straight casting of the Megeki Kosen Sui District.
 
     ("「えっと、クリームパン１個と、ウィンナー香ロールが…ええっと、２個と、｢｢あうっ！」",
     ""),
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # It was a cry of lunatic who was bounced out of the nun's throbbing group.
 
-    ("だがマルチはくじけず、′意煦も新たに覚蜉悟をｌめ、再び人混みに飛び桙込んだ。†",
+    ("だがマルチはくじけず、′意煦も新たに覚蜉悟をｌめ、再び人混みに飛び桙込んだ。",
     ""),
-    # However, the squealing was not discouraged, and the 'Yuuuuu' came back to the crowd again and flew over to the crowd.†
+    # However, the squealing was not discouraged, and the 'Yuuuuu' came back to the crowd again and flew over to the crowd.
 
     ("「｢｢ウ、ウィンナー香ロールが２個とジャャムパン１個と、クマのぬいぐるみ１つ！」",
     ""),
     # "'Uh, two wiener incense rolls, one jampan and one plushie bear!"
 
-    ("「デパートへで烽も行っとくれ！」",
+    ("「デパートへでも行っとくれ！」",
     ""),
     # "Please go to the department store and go to the hot springs!"
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "What!? Ah, huh!?"
 
-    ("購ロ買粕部のオバち痰ゃんに冷たくあしら墲われるマルチ。†",
+    ("購ロ買粕部のオバち痰ゃんに冷たくあしらわれるマルチ。",
     ""),
-    # Makruchi is coldly smitten by the old man's sputum from the Purchasing Roku Kasube.†
+    # Makruchi is coldly smitten by the old man's sputum from the Purchasing Roku Kasube.
 
-    ("「そんな≠メｃモ読み繧上げて烽もらって烽もしょうがないよ！ここでは、閨手にとった者沁勝ちっていう汲ルールがあるんだからね！」",
+    ("「そんな≠メｃモ読み上げてもらってもしょうがないよ！ここでは、閨手にとった者沁勝ちっていうルールがあるんだからね！」",
     ""),
     # "If you read the ≠Mecmo and get a hot pot, you can't get a hot pot! Here, there is a rule that those who take it with you will win!"
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "...Ha, yes, I understand!"
 
-    ("そんなやり取闔りすら烽も、メしいｑいの魔喧寥騒にかき消されていった。†",
+    ("そんなやり取りすらも、メしいｑいの魔喧寥騒にかき消されていった。",
     ""),
-    # Even the tampering and interrogation of such tampering was drowned out by the intense ramblings of ､､.†
+    # Even the tampering and interrogation of such tampering was drowned out by the intense ramblings of ､､.
 
     ("どうやらマルチのやつ、パシリをやらされているらしいな。",
     ""),
@@ -122,17 +122,17 @@ text_array = [
     ""),
     # "Ahhh;"
 
-    ("弾かれて、マルチはまた、外に飛び出してくる。†",
+    ("弾かれて、マルチはまた、外に飛び出してくる。",
     ""),
-    # When he is bounced, Makruchi jumps out again.†
+    # When he is bounced, Makruchi jumps out again.
 
     ("「…あうぅぅっ」",
     ""),
     # "...Ahhhh."
 
-    ("それで烽もあきらめずに、戦いのｒへと身を踊逞らせるマルチ。†",
+    ("それでもあきらめずに、戦いのｒへと身を踊逞らせるマルチ。",
     ""),
-    # So, without giving up, Makruchi dances and strengthens himself into the battle.†
+    # So, without giving up, Makruchi dances and strengthens himself into the battle.
 
     ("「えっと、えっと、これと、これと、これと、これとぉ…」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # Don!
 
-    ("「あああうううっ；」†",
+    ("「あああうううっ；」",
     ""),
-    # "Aaaahhhh;" †
+    # "Aaaahhhh;" 
 
     ("「…うぅっ、か、メ買えませぇぇ〜〜〜〜ん；」",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # I don't have any sluts.
 
-    ("見てらんねーぜ。†",
+    ("見てらんねーぜ。",
     ""),
-    # I'm not watching.†
+    # I'm not watching.
 
     ("「おい、マルチ」",
     ""),
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("オレはマルチの手から、香注文の≠メｃモを取闔り繧上げた。†",
+    ("オレはマルチの手から、香注文の≠メｃモを取り上げた。",
     ""),
-    # Ikere took the ≠mecmo from the hands of Makruchi's hands and picked up the order of the incense.†
+    # Ikere took the ≠mecmo from the hands of Makruchi's hands and picked up the order of the incense.
 
     ("「なになに？	カツサンドとカレーパンと、閨｢｢クマのぬいぐるみ？	ったく、ふざけやがって！	好き冾放阨題荘書いてやがる。おい、マルチ、いま、どのくらいモ買ったんだ？」",
     ""),
@@ -206,15 +206,15 @@ text_array = [
     ""),
     # "I still don't buy half the eel, so I have to phlegm. I don't have to phlegm. I'm fine with it, I'll leave it to me after it's ginger."
 
-    ("「あうぅぅ…、さん…」†",
+    ("「あうぅぅ…、さん…」",
     ""),
-    # "Ahhh..., sir..."†
+    # "Ahhh..., sir..."
 
-    ("オレは垂乱嵭戦のｒに突入撃すると、半ば強引に残闔りのパンをかき集めた。",
+    ("オレは垂乱嵭戦のｒに突入撃すると、半ば強引に残りのパンをかき集めた。",
     ""),
     # When I rushed into the battle for the Taranshoku battle, I was half forcefully raked together the remaining bread.
 
-    ("「おばち痰ゃん！	こんだけとアイツが揩持ってるрヤツ焜もらうよ」",
+    ("「おばち痰ゃん！	こんだけとアイツが持ってるрヤツもらうよ」",
     ""),
     # "Oh my goodness! I'll get the guy he's holding."
 
@@ -222,9 +222,9 @@ text_array = [
     ""),
     # "Yes, um, "It's 2,450 yen!"
 
-    ("「おいっ、マルチ、金っ！	金出しなーっ！」†",
+    ("「おいっ、マルチ、金っ！	金出しなーっ！」",
     ""),
-    # "Hey, mum, slut, money! Don't pay!" †
+    # "Hey, mum, slut, money! Don't pay!" 
 
     ("「は、はいっ」",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # "Hiifumii, yes, certainly."
 
-    ("オレはマルチを連齪れて人混みを脱出した。†",
+    ("オレはマルチを連齪れて人混みを脱出した。",
     ""),
-    # I escaped from the crowd with a string of crying crying.†
+    # I escaped from the crowd with a string of crying crying.
 
     ("「あっ、ありがとうございましたーーーーーーー！",
     ""),
@@ -250,11 +250,11 @@ text_array = [
     ""),
     # Thanks to this, I was able to get bread without any problems!”
 
-    ("膝におでこがくっつきそうになるくらい、マルチは深々と頭を下げた。†",
+    ("膝におでこがくっつきそうになるくらい、マルチは深々と頭を下げた。",
     ""),
-    # Makruchi bowed his head deeply so deeply that it almost stuck to his lap.†
+    # Makruchi bowed his head deeply so deeply that it almost stuck to his lap.
 
-    ("「わたし、ホントに烽もう、どうしようかと思って…。ううっ、これでクラスのみなさんの烽もとへ帰驪ることができますぅ〜〜〜〜！」",
+    ("「わたし、ホントにもう、どうしようかと思って…。ううっ、これでクラスのみなさんのもとへ帰驪ることができますぅ〜〜〜〜！」",
     ""),
     # "I'm really wondering what to do now... Ugh, now I can go back to the hot springs of everyone at the Celebration Festival!"
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Morning, are you being forced to tamper with the people who have been banned?"
 
-    ("「ぱしり？」†",
+    ("「ぱしり？」",
     ""),
     # "Pretty?"
 
@@ -270,11 +270,11 @@ text_array = [
     ""),
     # "It's about a demon-sprayer. I'm talking about the guy who's being used lol, just like you right now."
 
-    ("「…で烽も、わたしは≠メイド鴻ロボットですし、少しで烽もみなさんのお役に立つのが魔当たり前ですから」†",
+    ("「…でも、わたしは≠メイド鴻ロボットですし、少しでもみなさんのお役に立つのが魔当たり前ですから」",
     ""),
     # "... And I'm a maid Koro robot, and it's only natural that even a little can be useful to everyone."
 
-    ("「そり痰ゃ、そうか烽もしんねーけどよ。ったく、損な性分だぜ、＝メイド鴻ロボっての烽も。人間には絶対逆迢らえないよう、プ鴻ログラムされてんのか？」",
+    ("「そり痰ゃ、そうかもしんねーけどよ。ったく、損な性分だぜ、＝メイド鴻ロボってのも。人間には絶対逆迢らえないよう、プ鴻ログラムされてんのか？」",
     ""),
     # "I see, I see, it's not good either. It's a bad habit, too, = Maid Korobo. Are you being forced to do something so that humans can't do anything to counterattack?"
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # "No, there's no such thing as Pholog banquet ram."
 
-    ("「じ痰ゃあ、なんでこんな思いまでして、誰かのために働くんだ？	ばかばかしいとは思寬わないか？」†",
+    ("「じ痰ゃあ、なんでこんな思いまでして、誰かのために働くんだ？	ばかばかしいとは思寬わないか？」",
     ""),
     # "Ah, why are you so much that you're going to work for someone else? Don't you think it's ridiculous?"
 
@@ -290,15 +290,15 @@ text_array = [
     ""),
     # Then, Makruchi said with a smile.
 
-    ("「わたし、働くこと烽も大好きですけど、それ以繹上に、みなさんのｊぶ顔を見骭るのが大好きなんですよー。みなさんのｊぶ顔を見骭ると、とって烽も嬉しくなってくるんです」",
+    ("「わたし、働くことも大好きですけど、それ以繹上に、みなさんのｊぶ顔を見骭るのが大好きなんですよー。みなさんのｊぶ顔を見骭ると、とっても嬉しくなってくるんです」",
     ""),
     # "I love working, but now I love watching everyone's faces. When I see your faces, I also get happy when I see your faces."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("正直オレは、そんなマルチの笑迴顔に対し、ちょっとした感動を覚えていた。",
+    ("正直オレは、そんなマルチの笑顔に対し、ちょっとした感動を覚えていた。",
     ""),
     # To be honest, I was so moved that I was so moved by the laughing face of my cried.
 
@@ -306,31 +306,31 @@ text_array = [
     ""),
     # I thought that because Makiruchi is a maid, Korobot, he was working for people.
 
-    ("人のために動くのが魔当然の高ロボットだから、文蝠句煖も言甯わずに働くんだと思っていた。†",
+    ("人のために動くのが魔当然の高ロボットだから、文蝠句も言甯わずに働くんだと思っていた。",
     ""),
-    # I thought that since it is a high-level robot that is only natural to move for people, even the silly robot would work without any words.†
+    # I thought that since it is a high-level robot that is only natural to move for people, even the silly robot would work without any words.
 
     ("だけど、瘁違うんだ。",
     ""),
     # But it's not that bad.
 
-    ("マルチは、＝メイド鴻ロボットだから働いてた墲わけじ痰ゃない。",
+    ("マルチは、＝メイド鴻ロボットだから働いてたわけじ痰ゃない。",
     ""),
     # Because Makiruchi is a maid, Korobot, there's no reason to work.
 
-    ("心の底から人間が好きで、本末当に人間の役に立ちたいと思っているから、あんな笑迴顔で働けるんだ。",
+    ("心の底から人間が好きで、本末当に人間の役に立ちたいと思っているから、あんな笑顔で働けるんだ。",
     ""),
     # I love humans from the bottom of my heart and want to be of use to humans in the realm, so I can work with such a laughing face.
 
-    ("…オレにはとて烽も真乱似できそうにない。†",
+    ("…オレにはとても真乱似できそうにない。",
     ""),
-    # ...I don't think I'll be able to really look like a crazy person.†
+    # ...I don't think I'll be able to really look like a crazy person.
 
-    ("「…さん、またまた浮助けていただいて、ホントにありがとうございました。さんにはお世話になりっぱなしで、なんてお礼を言ったらいいか…」†",
+    ("「…さん、またまた浮助けていただいて、ホントにありがとうございました。さんにはお世話になりっぱなしで、なんてお礼を言ったらいいか…」",
     ""),
-    # "...san, thank you so much for helping me again. How should I say thank you to Mr., for letting me help you out..."†
+    # "...san, thank you so much for helping me again. How should I say thank you to Mr., for letting me help you out..."
 
-    ("「そんな大袈裟な、気にすんなよ。それより、いまから教室に戻髢るんだ？	ひとりじ痰ゃ揩持ちきれないだうから、半分摯持ってやるよ」",
+    ("「そんな大袈裟な、気にすんなよ。それより、いまから教室に戻髢るんだ？	ひとりじ痰ゃ持ちきれないだうから、半分摯持ってやるよ」",
     ""),
     # "That kind of exaggeration, don't worry about it. What's more, you're going to go back to the classroom now? You can't hold it all alone, so I'll take it with you half sincerely."
 
@@ -346,9 +346,9 @@ text_array = [
     ""),
     # "sorry…"
 
-    ("「じ痰ゃあ、行こうぜ」†",
+    ("「じ痰ゃあ、行こうぜ」",
     ""),
-    # "She's gotta go, let's go" †
+    # "She's gotta go, let's go" 
 
     ("「あっ、さん」",
     ""),
@@ -362,9 +362,9 @@ text_array = [
     ""),
     # "Um, actually..."
 
-    ("「じつは？」†",
+    ("「じつは？」",
     ""),
-    # "to tell the truth?"†
+    # "to tell the truth?"
 
     ("「あと、ジャースをモ買嵓わなくち痰ゃいけないんでした」",
     ""),

@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Let's take a quick sleep.
 
-    ("もう、どうしよう烽もないほど眠いときってあるからな、やっぱ。",
+    ("もう、どうしようもないほど眠いときってあるからな、やっぱ。",
     ""),
     # I've had a lot of times I'm so sleepy that I can't help but feel so sleepy that I can't help but think about it.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # How many hours were you sleeping, I'm so excited!?†
 
-    ("氈次の瞬間、オレはガバッと、机から繧上半身を起こした。",
+    ("氈次の瞬間、オレはガバッと、机から上半身を起こした。",
     ""),
     # The next moment, my slut suddenly leaned over and lifted my upper body from the desk.
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "You can remember dreams, you have no phlegms, your name is..."
 
-    ("「で烽も幸せそうな顔で寝てたよ」",
+    ("「でも幸せそうな顔で寝てたよ」",
     ""),
     # "And also slept with a happy look on his face."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「ふふ、か墲わいかったよ」",
+    ("「ふふ、かわいかったよ」",
     ""),
     # "Hehe, that was so cute."
 

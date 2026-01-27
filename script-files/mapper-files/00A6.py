@@ -2,11 +2,11 @@
 # Source file: 00A6.txt
 
 text_array = [
-    ("（３獅月１２冾日	朝）閨（玄関）†",
+    ("（３月１２冾日	朝）閨（玄関）†",
     ""),
     # (Morning of the 12th day of the 3rd month) (Entrance)†
 
-    ("３獅月１２冾日、＄曜坥日。",
+    ("３月１２冾日、＄曜坥日。",
     ""),
     # The 12th day of the 3rd month of the 12th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the
 

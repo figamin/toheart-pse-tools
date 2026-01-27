@@ -2,11 +2,11 @@
 # Source file: 0B01.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（４獅月１１冾日燗金曜坥日）閨（商店街）†",
+    ("（綾∴香	冝日付イベント２）閨（４月１１冾日燗金曜坥日）閨（商店街）†",
     ""),
     # (Aya∴Chuang Date Event 2) (April Lion, 11th, Friday, Clover) (Shopping Street)†
 
-    ("その冾日の帰闍り、オレはちょっと寄闃り道し、商店街を烽歩いていた。",
+    ("その冾日の帰闍り、オレはちょっと寄闃り道し、商店街を歩いていた。",
     ""),
     # On that day, I came round and walked around the shopping district.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # @Are you Suzumi-san?
 
-    ("てことは、もしかしたら、またこの近くに先輩がいるのか烽もしんねーな。",
+    ("てことは、もしかしたら、またこの近くに先輩がいるのかもしんねーな。",
     ""),
     # So, maybe there's a senior nearby again, so it's not surprising.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # let's see?†
 
-    ("諱先輩の姿を捜しつつ烽歩き出すと、",
+    ("諱先輩の姿を捜しつつ歩き出すと、",
     ""),
     # As I started walking around searching for Senpai's figure,
 
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # It's a pretty formal fox-clothed seal.
 
-    ("近葛所でパーティで烽もやってんのか？",
+    ("近葛所でパーティでもやってんのか？",
     ""),
     # Are you also tampering with hotpot at a party at Chikazusho?
 
-    ("しかし、あのガタイで浮黒スーツとは、なんと烽も妙な翌迫力があるぜ。†",
+    ("しかし、あのガタイで浮黒スーツとは、なんとも妙な翌迫力があるぜ。†",
     ""),
     # However, that hardy, floating black suit has a strange impact on the next day.†
 
-    ("そんなことを思いつつ烽歩き出すと、",
+    ("そんなことを思いつつ歩き出すと、",
     ""),
     # Thinking about this, I started walking around,
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # A Sanskrit uniform for a temple-dead woman.
 
-    ("そうだ、間瘧違いない。†",
+    ("そうだ、間違いない。†",
     ""),
     # That's right, it must be awkward.†
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # "Stop tampering with strange ways of remembering" †
 
-    ("「こんなとこでｉうなんて偶然ね。あっ、そうだ、ちょうどいい墲わ」",
+    ("「こんなとこでうなんて偶然ね。あっ、そうだ、ちょうどいいわ」",
     ""),
     # "It's a coincidence that I'm in a place like this. Ah, that's right, it's a good shot."
 
-    ("浴女はなにやら、ポンと手を叩くと、",
+    ("女はなにやら、ポンと手を叩くと、",
     ""),
     # The bather clapped her hand,
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「そうねぇ、２、３０分ほど桙時間がつぶせる場鰹所ならどこで烽もいい墲わ。さ、行きましょ」",
+    ("「そうねぇ、２、３０分ほど桙時間がつぶせる場鰹所ならどこでもいいわ。さ、行きましょ」",
     ""),
     # "Yeah, wherever you go, you can kill the time for about 2-30 minutes, and wherever you go is a good spot. Now, let's go."
 
-    ("禔口をはさむ余地さえ与えず、彼濫女は強引にオレの腕を引いて烽歩き出す。†",
+    ("禔口をはさむ余地さえ与えず、彼女は強引にオレの腕を引いて歩き出す。†",
     ""),
     # Without even giving him room to sniff, the woman forcibly pulls my arms and starts walking.†
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # "Oh, hey, wait. What's that all of a sudden."
 
-    ("「く墲わしくは繧後で烽説明する墲わ。",
+    ("「くわしくは後で説明するわ。",
     ""),
     # "I'll explain it after the event.
 
-    ("取闔りあえず、いまは急いでるのよ」",
+    ("取りあえず、いまは急いでるのよ」",
     ""),
     # I'm not going to ask for it, and I'm in a hurry now."
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Ah, that's amazing!"
 
-    ("浴女は人混みのｒでなにかを見つけ、ささっとオレの背續後に隠皷れた。†",
+    ("女は人混みのｒでなにかを見つけ、ささっとオレの背續後に隠皷れた。†",
     ""),
     # The bather found something in the crowd and quickly hid after my backlash.†
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "Hey?"
 
-    ("なんだうと思い、オレ焜も人混みのほうを見骭ると、",
+    ("なんだうと思い、オレも人混みのほうを見骭ると、",
     ""),
     # I was thinking, "What the heck is that," I looked at the crowd,
 
@@ -254,11 +254,11 @@ text_array = [
     ""),
     # What, did you still stomp around here?†
 
-    ("じーさんはやっぱり誰かを捜している様子で、きょきょと辺阨りを見回しながら烽歩いていた。",
+    ("じーさんはやっぱり誰かを捜している様子で、きょきょと辺阨りを見回しながら歩いていた。",
     ""),
     # Old man seemed to be searching for someone, and he was walking around looking around and looking around.
 
-    ("見鼬れば見骭るほど、普黒いスーツがま墲わりから浮いている。",
+    ("見鼬れば見骭るほど、普黒いスーツがまわりから浮いている。",
     ""),
     # The more you look at it, the more your plain black suit stands out.
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # That old man is looking for someone.
 
-    ("そしてオレの繧後撃には、コソコソと隠皷れる怪しいрヤツがいる。",
+    ("そしてオレの後撃には、コソコソと隠皷れる怪しいрヤツがいる。",
     ""),
     # And after my hardcore attack, there's a suspicious guy who's secretly hiding.
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # "Yeah, thank you."
 
-    ("浴女は曲がり角を覗いて繧後撃を確認すると、",
+    ("女は曲がり角を覗いて後撃を確認すると、",
     ""),
     # The bather looked at the corner and checked the attack after the scene was revealed.
 
@@ -350,11 +350,11 @@ text_array = [
     ""),
     # "I never thought I'd be forced to help me escape right away."
 
-    ("「ふふふ、おかげで浮助かった墲わ」",
+    ("「ふふふ、おかげで浮助かったわ」",
     ""),
     # "Hahaha, thanks to you, I've saved you."
 
-    ("「これでオレ焜も共犯者って墲わけだな」",
+    ("「これでオレも共犯者ってわけだな」",
     ""),
     # "Now, I'm accused, too."
 
@@ -366,11 +366,11 @@ text_array = [
     ""),
     # "Is that so b?"
 
-    ("「瘁違う墲わよ。そんなんじ痰ゃないって、失邇礼ね。",
+    ("「瘁違うわよ。そんなんじ痰ゃないって、失邇礼ね。",
     ""),
     # "It's a different story. I'm sorry to say there's no such thing as phlegm.
 
-    ("私が墲被害者なの」",
+    ("私が被害者なの」",
     ""),
     # I'm the victim."
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # "What do you think? The fact that you run away is basically a proof that you're doing something that's irrelevant?"
 
-    ("「あら、そうとは限迪らない墲わよ。悪いやつらから逃げてきたヒ鴻ロインか烽もしれない墲わ」†",
+    ("「あら、そうとは限迪らないわよ。悪いやつらから逃げてきたヒ鴻ロインかもしれないわ」†",
     ""),
     # "Oh, that's not the case. Heroine, or perhaps he's a hot-headed man who escaped from the bad guys."
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # I said with a ha ha ha.
 
-    ("「んー、おしい墲わね。",
+    ("「んー、おしいわね。",
     ""),
     # "Hmm, that's a good shot.
 
@@ -418,7 +418,7 @@ text_array = [
     ""),
     # "...What kind of phlegm is this?"
 
-    ("「それはそうと、いつまで烽もこんなとこにいると、またすぐ見つかっち痰ゃう墲わ。ねえ、この際ついでってことで、あと烽もう少しр私につき№合ってよ」",
+    ("「それはそうと、いつまでもこんなとこにいると、またすぐ見つかっち痰ゃうわ。ねえ、この際ついでってことで、あともう少しр私につき№合ってよ」",
     ""),
     # "That said, if you stay here in a place like this, I'll be able to find you again soon. Hey, I'll be on the verge of your support, so please go ahead and meet me a little more."
 
@@ -434,11 +434,11 @@ text_array = [
     ""),
     # "Why am I so crazy..."
 
-    ("「いいじ痰ゃない。きっとこれ烽もなにかの盾縁謇よ。ほらほら〜」",
+    ("「いいじ痰ゃない。きっとこれもなにかの盾縁謇よ。ほらほら〜」",
     ""),
     # "No good phlegm. I'm sure this is a shield-like bond. Come on, see..."
 
-    ("浴女は手を引いて言った。",
+    ("女は手を引いて言った。",
     ""),
     # The bather pulled her hand and said.
 

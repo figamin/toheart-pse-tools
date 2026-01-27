@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone, the balance event PS) (How about Chosen So Isshi-eyo)†
 
-    ("「｢｢琴音ち痰ゃん烽もいっしょにどうだ？」†",
+    ("「｢｢琴音ち痰ゃんもいっしょにどうだ？」†",
     ""),
     # ""How about Kotone Chishonan, too?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Oh, that's right, is that a slut..."
 
-    ("「いいっていいって。べつに悪いって言ってる墲わけじ痰ゃねえから」",
+    ("「いいっていいって。べつに悪いって言ってるわけじ痰ゃねえから」",
     ""),
     # "It's okay. You say it's bad, so there's no reason to say it's bad."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # My heart and Kotone Chisho-yan walked towards the station.†
 
-    ("「｢｢っつーの烽も、なんだと思ってな」",
+    ("「｢｢っつーのも、なんだと思ってな」",
     ""),
     # "I thought "What's that about the hot springs?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # A пyak...
 
-    ("オレの見てる烽ものに気づいたらしく、琴音ち痰ゃんがオレを見上げた。†",
+    ("オレの見てるものに気づいたらしく、琴音ち痰ゃんがオレを見上げた。†",
     ""),
     # Apparently he had noticed something hot that I was watching, and Kotone Chisho-chan looked at me.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "I'm hungry... I feel like I want to go into Fukuguchi. Kotone Chisho-chan said, "You're eating it, aren't you?"
 
-    ("「…いえ、構いませんよ。さんだけ召し繧上がってください」",
+    ("「…いえ、構いませんよ。さんだけ召し上がってください」",
     ""),
     # "...No, it's fine. Please just take it up."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "I've hardly ever eaten..."
 
-    ("「そうか？	だったらなんか食ってみるの烽もいいぞ。量はいらないだうから…Ｓポテトとか」",
+    ("「そうか？	だったらなんか食ってみるのもいいぞ。量はいらないだうから…Ｓポテトとか」",
     ""),
     # "I see? If that's the case, a hot spring would be good to try something. I don't need a lot... S potatoes, etc."
 
-    ("「で烽も…」†",
+    ("「でも…」†",
     ""),
     # "And the hot spring..." †
 
@@ -134,15 +134,15 @@ text_array = [
     ""),
     # ・†
 
-    ("「ついてねえよなぁ。オレはと烽もかく、琴音ち痰ゃんは久々なのに桙満員なんて」",
+    ("「ついてねえよなぁ。オレはともかく、琴音ち痰ゃんは久々なのに桙満員なんて」",
     ""),
     # "I don't have one. I'm a big fan, and Kotone-chisou-chan has been in a while, so it's full of foxes."
 
-    ("「いいえ。…こうやって外で食べるの烽も新鮮です」",
+    ("「いいえ。…こうやって外で食べるのも新鮮です」",
     ""),
     # "No....The hot water that you tamper with and eat outside is also fresh."
 
-    ("「そうか？	そう言って烽もらうと浮助かるよ」†",
+    ("「そうか？	そう言ってもらうと浮助かるよ」†",
     ""),
     # "I see? If you say that, it will help you to get a hot pot."
 

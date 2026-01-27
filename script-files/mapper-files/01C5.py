@@ -2,9 +2,9 @@
 # Source file: 01C5.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ｂ	耳ひっぱり）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ｂ	耳ひっぱり）",
     ""),
-    # (Light scale event 2F) (B ear pull)†
+    # (Light scale event 2F) (B ear pull)
 
     ("「こいつぅ〜…」",
     ""),
@@ -14,8 +14,8 @@ text_array = [
     ""),
     # "I was, I was, I was."
 
-    ("オレはあかりの耳をひっぱった。†",
+    ("オレはあかりの耳をひっぱった。",
     ""),
-    # I pulled Akari's ears.†
+    # I pulled Akari's ears.
 
 ]

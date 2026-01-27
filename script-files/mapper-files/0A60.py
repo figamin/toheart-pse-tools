@@ -2,17 +2,17 @@
 # Source file: 0A60.txt
 
 text_array = [
-    ("（掾理女緒	冝日付イベント）閨（３獅月１７冾日）閨（一人で帰った場㍼合）閨（駅前）†",
+    ("（掾理女緒	冝日付イベント）閨（３月１７冾日）閨（一人で帰った場㍼合）閨（駅前）",
     ""),
-    # (Eli Moo O's Pick Date Event) (3rd Lion Day, 17th Day) (Little place where I went home alone) (In front of the station) †
+    # (Eli Moo O's Pick Date Event) (3rd Lion Day, 17th Day) (Little place where I went home alone) (In front of the station) 
 
     ("駅前までｗたとき、′こうのベンチでうちの生徒を見かけた。",
     ""),
     # When I was loving it, I saw my student on a bench.
 
-    ("教科痩書だか参考総書だかに、熱心に目を魔走迹らせている。†",
+    ("教科痩書だか参考総書だかに、熱心に目を魔走迹らせている。",
     ""),
-    # His eyes are passionately shaking over the topics of thinning and reference books.†
+    # His eyes are passionately shaking over the topics of thinning and reference books.
 
     ("ふーん。",
     ""),
@@ -22,13 +22,13 @@ text_array = [
     ""),
     # Studying at the station is a very beast.
 
-    ("と思ったら、あり痰ゃ揩理女緒ち痰ゃんだ。",
+    ("と思ったら、あり痰ゃ理女緒ち痰ゃんだ。",
     ""),
     # Just as I thought so, there was a phlegm and a phlegm.
 
-    ("さすがに揩理女緒ち痰ゃん烽もテスト勉強拠迺らしい。†",
+    ("さすがに理女緒ち痰ゃんもテスト勉強拠迺らしい。",
     ""),
-    # It seems that the test study was also a must-read for studying.†
+    # It seems that the test study was also a must-read for studying.
 
     ("オレは｢｢。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 04F7.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	べつに）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	べつに）",
     ""),
-    # (Shiho Scales Event PS) (Selection)†
+    # (Shiho Scales Event PS) (Selection)
 
     ("「べつに…」",
     ""),
@@ -14,19 +14,19 @@ text_array = [
     ""),
     # "And which one?"
 
-    ("「どちらで烽も」",
+    ("「どちらでも」",
     ""),
     # "Whether it's hot or not"
 
-    ("「も〜っ、わかんない墲わねえっ」†",
+    ("「も〜っ、わかんないわねえっ」",
     ""),
     # "No, I don't know what to do."
 
-    ("「見たい気煖もするし、見たくない気煖もするし、つまりどうで烽もいいってことだ」",
+    ("「見たい気もするし、見たくない気もするし、つまりどうでもいいってことだ」",
     ""),
     # "I want to see it, I also want to see it, I don't want to see it, so I mean, how about it, it's good."
 
-    ("「じ痰ゃあ、いっしょに見ましょうよ」†",
+    ("「じ痰ゃあ、いっしょに見ましょうよ」",
     ""),
     # "Ah, I'll look at the ephemerals."
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # I'm sleepy at night."
 
-    ("「で烽もさ、めったに見鼬れないチャャンスだし」",
+    ("「でもさ、めったに見鼬れないチャャンスだし」",
     ""),
     # "And it's a chahansu that rarely catches your eye."
 
-    ("「話の墲種にはなりそうだな」",
+    ("「話の種にはなりそうだな」",
     ""),
     # "It looks like it's going to be a story."
 
@@ -62,17 +62,17 @@ text_array = [
     ""),
     # "I've been going to see it after all, sputum."
 
-    ("「はっきりし」†",
+    ("「はっきりし」",
     ""),
-    # "Clearly b"†
+    # "Clearly b"
 
     ("「あはははっ、あんたの真乱似しただけよ〜」",
     ""),
     # "Hahaha, I just looked like you in a wild look."
 
-    ("「お前なあ…」†",
+    ("「お前なあ…」",
     ""),
-    # "You..." †
+    # "You..." 
 
     ("なんて立ち話をして、オレたちは別れた。◯",
     ""),

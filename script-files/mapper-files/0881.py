@@ -2,23 +2,23 @@
 # Source file: 0881.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階１）閨（廊下）†",
+    ("（レミィ	回秤数イベント	２階１）閨（廊下）",
     ""),
-    # (Game Remy Scale Event, 2nd Floor 1) (Carrior)†
+    # (Game Remy Scale Event, 2nd Floor 1) (Carrior)
 
     ("「さてと、帰ってなにすっかな？」",
     ""),
     # "Now, what's up with you when you're home?"
 
-    ("オレは冾放課繪後の予定を考えながら、廊下を烽歩いていた。†",
+    ("オレは冾放課繪後の予定を考えながら、廊下を歩いていた。",
     ""),
-    # I walked down the hallway, thinking about the prospects after the school was completed.†
+    # I walked down the hallway, thinking about the prospects after the school was completed.
 
     ("「ヘイ、！！」",
     ""),
     # "Hey!!"
 
-    ("「う墲わっ！」",
+    ("「うわっ！」",
     ""),
     # "Uhhh!"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Just as I heard such a shout, something forced me to squeal and tumbled down the hallway.◯
 
-    ("「げげっ、戟レミィ！？」",
+    ("「げげっ、レミィ！？」",
     ""),
     # "Aaaaah, oh yeah!?"
 
@@ -38,21 +38,21 @@ text_array = [
     ""),
     # When Ekiremi said that, he was lucky enough to see his panties completely visible.
 
-    ("少々体が痛むけど、そんなことは関係ない。†",
+    ("少々体が痛むけど、そんなことは関係ない。",
     ""),
-    # It hurts a little, but that doesn't matter.†
+    # It hurts a little, but that doesn't matter.
 
     ("「ふぁ、ファイン、サンキャー…」",
     ""),
     # "Ah, fine, sunkya..."
 
-    ("片阨手を繧上げて桙応えながら、オレはスカートのｒ身から目が冾放せなかった。",
+    ("片阨手を上げて桙応えながら、オレはスカートのｒ身から目が冾放せなかった。",
     ""),
     # As I raised my arms and responded, my eyes couldn't be helped out from the skirt.
 
-    ("ビャーティフルホ純ワイトだな…。†",
+    ("ビャーティフルホ純ワイトだな…。",
     ""),
-    # Byatif crying is pure white...†
+    # Byatif crying is pure white...
 
     ("オレは｢｢。",
     ""),

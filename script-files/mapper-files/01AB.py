@@ -2,9 +2,9 @@
 # Source file: 01AB.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ｃ	少しだけ、あるような気がしてきた）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ｃ	少しだけ、あるような気がしてきた）",
     ""),
-    # (Akari Scales Event 1F) (C I feel like there's a little bit)†
+    # (Akari Scales Event 1F) (C I feel like there's a little bit)
 
     ("「少しだけ、あるような気がしてきた」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「さすがにな」†",
+    ("「さすがにな」",
     ""),
-    # "As expected" †
+    # "As expected" 
 
     ("自搦慢じ痰ゃないが、オレはこれで意外に現実蜴主義なほうだ。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # However, real experiences change your mind after all.
 
-    ("あの不自然なガラスのр割れ方、あれをどう烽説明しと言うのか。†",
+    ("あの不自然なガラスのр割れ方、あれをどう説明しと言うのか。",
     ""),
-    # How do you explain that unnatural banquet and how do you say "b"?†
+    # How do you explain that unnatural banquet and how do you say "b"?
 
     ("それに…春休みのｗ栖瑞謳先輩との出女沫事燻もあるしな。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # Comparing what happened that night, the common magical incident on the day of the day still has a strong presence.
 
-    ("超峵常現象なんて、もう珍しくないからな。†",
+    ("超峵常現象なんて、もう珍しくないからな。",
     ""),
-    # It's not uncommon for super common phenomena to occur anymore.†
+    # It's not uncommon for super common phenomena to occur anymore.
 
     ("「ふふ…」",
     ""),

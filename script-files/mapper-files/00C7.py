@@ -2,11 +2,11 @@
 # Source file: 00C7.txt
 
 text_array = [
-    ("（３獅月１６冾日	朝）閨（自分の部屋）†",
+    ("（３月１６冾日	朝）閨（自分の部屋）†",
     ""),
     # (Morning of the 16th day of the 3rd month) (morning of my room)
 
-    ("３獅月１６冾日、冝日曜坥日。",
+    ("３月１６冾日、冝日曜坥日。",
     ""),
     # The 16th day of the 3rd month of the 1990s, Sunday Day of the 1990s.
 

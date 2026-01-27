@@ -2,9 +2,9 @@
 # Source file: 0358.txt
 
 text_array = [
-    ("（智子	好感度イベント９回目）閨（選択綜Ｂの続き）†",
+    ("（智子	好感度イベント９回目）閨（選択綜Ｂの続き）",
     ""),
-    # (Tomoko's 9th Likeability Event) (Continued from Chosen So B) †
+    # (Tomoko's 9th Likeability Event) (Continued from Chosen So B) 
 
     ("今厓日はやめとこう。",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Since we broke up like that last time, it's been a bit difficult to talk to them.
 
-    ("…とはいう烽ものの、いつまで烽もこんなことやってち痰ゃ、一煦歩熾も前に進まないしな。",
+    ("…とはいうものの、いつまでもこんなことやってち痰ゃ、一煦歩熾も前に進まないしな。",
     ""),
     # ...That said, even though it's hot, how long should you keep tampering with this, even a single stomping will not move forward.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Anyway, I have to talk.
 
-    ("わかっち痰ゃいるけど、どうに烽も…なあ。◯",
+    ("わかっち痰ゃいるけど、どうにも…なあ。◯",
     ""),
     # I have a lot of understanding, but I guess it's hot... I see.◯
 

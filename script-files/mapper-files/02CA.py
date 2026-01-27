@@ -2,9 +2,9 @@
 # Source file: 02CA.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ６）閨（選択綜Ｂ	行かない）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ６）閨（選択綜Ｂ	行かない）",
     ""),
-    # (Seri°Kawa, Scales Event 2F LV6)Seri (Select Sou B does not go)†
+    # (Seri°Kawa, Scales Event 2F LV6)Seri (Select Sou B does not go)
 
     ("「わりぃ、諱先輩。今厓日はオレ、用沫事あってさ」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Ko-kun...
 
-    ("小さくうなずく。†",
+    ("小さくうなずく。",
     ""),
-    # Nodded small.†
+    # Nodded small.
 
     ("今度ってことは、修学旅行が終尞わってからってことになるのかな。",
     ""),

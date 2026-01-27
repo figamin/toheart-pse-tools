@@ -2,15 +2,15 @@
 # Source file: 0125.txt
 
 text_array = [
-    ("（あかり	ＶＳイベント	戟レミィ）閨（選択綜Ｂ	案外、ステディ）†",
+    ("（あかり	ＶＳイベント	レミィ）閨（選択綜Ｂ	案外、ステディ）",
     ""),
-    # (Akari VS Event: War Remi) (Selection B, surprisingly, Steady)†
+    # (Akari VS Event: War Remi) (Selection B, surprisingly, Steady)
 
     ("オレは少し考えてみた。",
     ""),
     # I thought about it for a moment.
 
-    ("どっちで烽もないって嘯答えが一番近いんだが、いまは二者択齣一、それはなしだ。",
+    ("どっちでもないって嘯答えが一番近いんだが、いまは二者択齣一、それはなしだ。",
     ""),
     # The closest answer is to say that there is no hot water, but now there is no choice.
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # Hmm.
 
-    ("そうだな、強いて言うなら、友だちというニャアンスには痰違和感を覚えるか烽もな。",
+    ("そうだな、強いて言うなら、友だちというニャアンスには痰違和感を覚えるかもな。",
     ""),
     # That's right, if I had to say, I feel like I'm not phlegmy when I say my friend.
 
-    ("ということは、消誌去法だ。†",
+    ("ということは、消誌去法だ。",
     ""),
-    # That means it's a way to remove the magazine.†
+    # That means it's a way to remove the magazine.
 
-    ("「案外、ステディなのか烽もしれねーな」",
+    ("「案外、ステディなのかもしれねーな」",
     ""),
     # "It's surprisingly, maybe Steady, so maybe it's a hot one."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Ekimi is surprised by how he's tampered with.
 
-    ("「どうだうな。オレ焜もよく墲わかんねーや。おたがいつき№合い烽も長いしさ、けっこう感覚がマヒしちまってて…」†",
+    ("「どうだうな。オレもよくわかんねーや。おたがいつき№合いも長いしさ、けっこう感覚がマヒしちまってて…」",
     ""),
     # "What do you think? I don't know what you're doing. I don't really understand. The long-awaited hot springs are also quite a bit of a paralyzing sensation..."
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "bean paste?"
 
-    ("「｢｢Ｉ	≠撃ｌ	пｄ盾ｏ翌ｗ獅ｎ…」",
+    ("「｢｢Ｉ	≠撃ｌ	пｄ盾ｏ翌ｗｎ…」",
     ""),
     # ""I ≠bb shot l пd shield o the next lol lion..."
 
-    ("なにやら肩を獅落としてつぶやいた。",
+    ("なにやら肩を落としてつぶやいた。",
     ""),
     # He tampered with something, and muttered his shoulders.
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # "Hey, what's up? Is it really that no one has the wrong phlegm?"
 
-    ("「≠モｃ浮ｕ入	香ｍ」†",
+    ("「≠モｃ浮ｕ入	香ｍ」",
     ""),
-    # "≠B Mo C U Tang Iri B Incense Mb"†
+    # "≠B Mo C U Tang Iri B Incense Mb"
 
-    ("そう言うと、戟レミィは背白をｌけて、トボトボと戻っていった。",
+    ("そう言うと、レミィは背白をｌけて、トボトボと戻っていった。",
     ""),
     # With that in mind, Karemi replied and throbbed back.
 
@@ -78,13 +78,13 @@ text_array = [
     ""),
     # "Ah, hey..."
 
-    ("オレの声に烽も振關りｌかず、歩いていく。",
+    ("オレの声にも振關りｌかず、歩いていく。",
     ""),
     # I couldn't help but shout at my loud voice, and walked away.
 
-    ("なんだよ、そんなにショックなこと言ったのかよ、オレは。†",
+    ("なんだよ、そんなにショックなこと言ったのかよ、オレは。",
     ""),
-    # What is it? I was so excited. I was saying such a sloppy thing.†
+    # What is it? I was so excited. I was saying such a sloppy thing.
 
     ("「はいはい、そこそこ、ぼーっと立ってると通行のジャャマ諠よぉ」",
     ""),
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "What is it, what is it? I'm the name of you. Ekirei Remie at the b, what did you do?"
 
-    ("「…さあ？	軽い気搴持ちで、オレとあかりがステディか烽もっつったら、あんな反梍応でな」†",
+    ("「…さあ？	軽い気搴持ちで、オレとあかりがステディかもっつったら、あんな反梍応でな」",
     ""),
     # "...Now? If I had a light mood, and I was so steady or hot, I'd be able to resist that kind of reversal."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "As you're a study, it's a shame. You're so stupid, I don't have time to get the right fit."
 
-    ("「な〜んだかんだ言いながらつっこむとこがあんたのオイシイとこね」†",
+    ("「な〜んだかんだ言いながらつっこむとこがあんたのオイシイとこね」",
     ""),
     # "What's wrong, when I thrust into you, b, is your favorite."
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # As I said, I slugged away with my hand.
 
-    ("それで烽も志保は帰迢らない。†",
+    ("それでも志保は帰迢らない。",
     ""),
-    # So even Shiho never returns.†
+    # So even Shiho never returns.
 
-    ("「もしくはさ、戟レミィはあんたに気があって、その言葉にショックを受けたのよ」",
+    ("「もしくはさ、レミィはあんたに気があって、その言葉にショックを受けたのよ」",
     ""),
     # "Or, you know, Haremy had a crush on you and was swayed by those words."
 
@@ -162,15 +162,15 @@ text_array = [
     ""),
     # I see?
 
-    ("もし仮にそうだとして烽も、いまのはただの冗談だーが。",
+    ("もし仮にそうだとしても、いまのはただの冗談だーが。",
     ""),
     # Even if that's the case, even if it's the case, it's just a joke.
 
-    ("あんなにショック受けるか、フツー。†",
+    ("あんなにショック受けるか、フツー。",
     ""),
-    # I'm just ok with that kind of squeal.†
+    # I'm just ok with that kind of squeal.
 
-    ("「でなき痰ゃ、じつは、戟レミィはあかりに気があってぇ｢｢」",
+    ("「でなき痰ゃ、じつは、レミィはあかりに気があってぇ｢｢」",
     ""),
     # "Not at all, actually, Haremi is in love with Akari. "
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Idiot, stupid, stupid, stupid, stupid, stupid, stupid, stupid, stupid, stupid."
 
-    ("「キィーーーッ！」†",
+    ("「キィーーーッ！」",
     ""),
     # "Keeeee!"
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("まあ、掾理由はよく墲わかんねーが、とにかく撃レミィにショックを与えてしまったらしい。◯",
+    ("まあ、掾理由はよくわかんねーが、とにかく撃レミィにショックを与えてしまったらしい。◯",
     ""),
     # Well, I don't really know why, but apparently he gave Geki Remy a shook.◯
 

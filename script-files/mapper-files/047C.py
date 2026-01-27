@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "I invited you to play with me, and I'm not going to get any sighs."
 
-    ("「なははっ、ジョークジョーク。べつにいいんじ痰ゃない？	行ったとこで成績は繧上がり烽も下がり烽もしない墲わよ」",
+    ("「なははっ、ジョークジョーク。べつにいいんじ痰ゃない？	行ったとこで成績は上がりも下がりもしないわよ」",
     ""),
     # "Hahaha, I'm not sure what to do. Isn't there any phlegm? When I went there, my grades improved and my temperature went down, and my temperature didn't go anywhere."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Your place is at the bottom, so it's the bottom. There's no way it will go up or down from now on." †
 
-    ("「言った墲わね〜っ、あんただってすぐに№仲間鞄闢りよ。死なば烽もと烽もなんだからっ」",
+    ("「言ったわね〜っ、あんただってすぐに№仲間鞄闢りよ。死なばもともなんだからっ」",
     ""),
     # "You said it, you should immediately bring your number one companion. If you die, you're not going to have a stove, b and stove."
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Don't call yourself stupid. Will you be forced to join us all the way to the other world?"
 
-    ("どこまでが本気なのかよく墲わからないｉ話を交甯わしながらゲーセンへｌかったオレたちは、２桙時間ほど遊んだ。",
+    ("どこまでが本気なのかよくわからない話を交甯わしながらゲーセンへｌかったオレたちは、２桙時間ほど遊んだ。",
     ""),
     # We both came to the arcade, spending two hours playing around with an i-talk that we didn't really know how serious it was.
 
-    ("それからしばらくして別れたが、あいつのことだ、まっすぐ家に帰ったかどうかはよく墲わからない。◯",
+    ("それからしばらくして別れたが、あいつのことだ、まっすぐ家に帰ったかどうかはよくわからない。◯",
     ""),
     # After that, we parted ways, but it's about him, I'm not sure if he went straight home or not.◯
 

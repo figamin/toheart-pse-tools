@@ -2,11 +2,11 @@
 # Source file: 0437.txt
 
 text_array = [
-    ("（冝日付指闔定式回秤数型ＶＳイベント	志保ＶＳあかり）閨（選択綜	行かない）†",
+    ("（冝日付指定式回秤数型ＶＳイベント	志保ＶＳあかり）閨（選択綜	行かない）",
     ""),
-    # (Date and Regular Scale Type VS Event Shiho VS Akari) (Choice Sora) †
+    # (Date and Regular Scale Type VS Event Shiho VS Akari) (Choice Sora) 
 
-    ("「うまそうな響きだけどな、今厓日はパスさせて烽もらうぜ」",
+    ("「うまそうな響きだけどな、今厓日はパスさせてもらうぜ」",
     ""),
     # "It sounds good, but I'll pass it on the day now and get some hot."
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Eh!? You're not going?"
 
-    ("「今厓日のとこは、な。…また誘ってくれや」†",
+    ("「今厓日のとこは、な。…また誘ってくれや」",
     ""),
-    # "B, the moment I'm off... Please invite me again." †
+    # "B, the moment I'm off... Please invite me again." 
 
     ("「な〜んか、超がっかりって感じぃ？」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "It's phlegm."
 
-    ("オレは右濶手を繧上げた。†",
+    ("オレは右濶手を上げた。",
     ""),
-    # My head lifted my right hand.†
+    # My head lifted my right hand.
 
     ("「暗い夜道に気をつけなさいよ〜」",
     ""),

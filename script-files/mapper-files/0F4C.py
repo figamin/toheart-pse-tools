@@ -2,11 +2,11 @@
 # Source file: 0F4C.txt
 
 text_array = [
-    ("（４獅月５冾日	土）閨（堰ラジオ	５回目）閨（堰ラジオのためにこの夜はある）†",
+    ("（４月５冾日	土）閨（堰ラジオ	５回目）閨（堰ラジオのためにこの夜はある）",
     ""),
-    # (Saturday, April 5th) (5th time of the weir radio) (5th time of the weir radio) (There is this night for the weir radio) †
+    # (Saturday, April 5th) (5th time of the weir radio) (5th time of the weir radio) (There is this night for the weir radio) 
 
-    ("４獅月５冾日、驕夜。",
+    ("４月５冾日、驕夜。",
     ""),
     # Fourth day of the 5th day of the Shizuki, it's a laidback night.
 

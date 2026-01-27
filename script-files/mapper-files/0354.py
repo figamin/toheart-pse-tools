@@ -18,7 +18,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("聞こえているはずだが、委員長は無許視して道を烽歩いて行く。",
+    ("聞こえているはずだが、委員長は無許視して道を歩いて行く。",
     ""),
     # You should be able to hear it, but the chairman ignores him and walks along the road.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # I said without thinking about it.†
 
-    ("「オレにはとて烽もそうは見えないぜ。オレ、多分、明坙日燗も話しかけると思う」",
+    ("「オレにはとてもそうは見えないぜ。オレ、多分、明坙日燗も話しかけると思う」",
     ""),
     # "I can't see that in my geisha. I think I'll probably talk to Ming Shun Sunkan too."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # In the end, the chairman didn't ask until the very last minute.
 
-    ("遠くなっていく繧後撃姿が、なぜかオレにはひどく寂しげに見えた。◯",
+    ("遠くなっていく後撃姿が、なぜかオレにはひどく寂しげに見えた。◯",
     ""),
     # For some reason, the aftermath of the attack looked extremely lonely to me as I got further away.◯
 

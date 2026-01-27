@@ -2,15 +2,15 @@
 # Source file: 039C.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（Ａ	いっしょに帰汲うと誘う	の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（Ａ	いっしょに帰うと誘う	の続き）",
     ""),
-    # (Tomoko's Scales Event: Departing from School LV2) (Continued from A: Invite to Return to Isshii-e-e)†
+    # (Tomoko's Scales Event: Departing from School LV2) (Continued from A: Invite to Return to Isshii-e-e)
 
     ("「いいーんちょ」",
     ""),
     # "Good slut"
 
-    ("笑迴顔で声をかけた。",
+    ("笑顔で声をかけた。",
     ""),
     # He called out with a laughing face.
 
@@ -18,13 +18,13 @@ text_array = [
     ""),
     # "...kun?"
 
-    ("「諱よっ、いっしょに帰汲っか？」",
+    ("「諱よっ、いっしょに帰っか？」",
     ""),
     # "My name is, shall we return to the essay?"
 
-    ("オレはごくナチャラルな笑迴顔で誘ってみた。†",
+    ("オレはごくナチャラルな笑顔で誘ってみた。",
     ""),
-    # I invited her out with a very nasty banquet and a crying face.†
+    # I invited her out with a very nasty banquet and a crying face.
 
     ("だが、委員長はつんと目をそらすと、",
     ""),
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Please refrain."
 
-    ("きっぱりそう嘯答えた。†",
+    ("きっぱりそう嘯答えた。",
     ""),
-    # He replied clearly.†
+    # He replied clearly.
 
-    ("「この前熨も言うたや。親しく烽もないのに、驕馴齠れ馴齠れし繧ゅうせんといてって」",
+    ("「この前熨も言うたや。親しくもないのに、驕馴齠れ馴齠れしゅうせんといてって」",
     ""),
     # "The last time I'm talking about the noshi b. I'm not close to you, but please keep it in touch and be patient."
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # Yes.
 
-    ("梶相変﨑わらず、とりつく№島燗もない。†",
+    ("梶相変﨑わらず、とりつく№島燗もない。",
     ""),
-    # Kaji Ai Henzaki doesn't have the chance to catch No. Shimakazu.†
+    # Kaji Ai Henzaki doesn't have the chance to catch No. Shimakazu.
 
     ("委員長はオレを無許視し、歩き出す。",
     ""),
@@ -70,19 +70,19 @@ text_array = [
     ""),
     # But I can't help but feel bad.
 
-    ("すぐに繧後を追った。†",
+    ("すぐに後を追った。",
     ""),
-    # I immediately followed him.†
+    # I immediately followed him.
 
     ("「なあ、おい、待てよ」",
     ""),
     # "Hey, hey, wait."
 
-    ("横に並んで、笑迴顔で言った。",
+    ("横に並んで、笑顔で言った。",
     ""),
     # He lined up next to me and said with a smile on his face.
 
-    ("だが委員長は、まるでその声すら聞こえていないかのように無許視して烽歩く。",
+    ("だが委員長は、まるでその声すら聞こえていないかのように無許視して歩く。",
     ""),
     # However, the chairman walks unacceptably, as if he could not even hear the voice.
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # This is how phlegm is so stubborn.
 
-    ("オレは構寘わずに話しかけた。†",
+    ("オレは構寘わずに話しかけた。",
     ""),
-    # I spoke to him without paying attention.†
+    # I spoke to him without paying attention.
 
-    ("「なあ、委員長ってさ、なんでいつ烽もひとりなんだ？	いっしょに帰驪る友だちとかいねーの？」",
+    ("「なあ、委員長ってさ、なんでいつもひとりなんだ？	いっしょに帰驪る友だちとかいねーの？」",
     ""),
     # "Hey, the chairman, why is there only one member? Are you sure you have any friends who will return to Ebi?"
 
@@ -102,11 +102,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("なに烽もこたえない。",
+    ("なにもこたえない。",
     ""),
     # No matter what kind of hot water it can't respond.
 
-    ("「いつ烽もそうやって≠早足で帰驪るだ？	なにか急ぎの用沫事で烽もあんのか？」†",
+    ("「いつもそうやって≠早足で帰驪るだ？	なにか急ぎの用沫事でもあんのか？」",
     ""),
     # "When will the chickens do this and go home quickly? Is there something about the heat that has been rushed to do?"
 
@@ -114,7 +114,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("なに烽も返さない。",
+    ("なにも返さない。",
     ""),
     # I won't return anything.
 
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "Don't do it!"
 
-    ("ついに堪忍袋の盾緒が切齔れたのか、委員長が怒鳴った。†",
+    ("ついに堪忍袋の盾緒が切齔れたのか、委員長が怒鳴った。",
     ""),
-    # The chairman yelled, perhaps, as if the shield of endurance had finally been cut off.†
+    # The chairman yelled, perhaps, as if the shield of endurance had finally been cut off.
 
     ("「そやから、迷惑笘やって言うてるや！？",
     ""),
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # I glared at my intense ecstasy with a harsh eye.
 
-    ("さすがに烽もうあきらめるしかなかった。",
+    ("さすがにもうあきらめるしかなかった。",
     ""),
     # Of course, I had no choice but to give up.
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # "...it was bad."
 
-    ("そう言って、オレは立ち止まった。†",
+    ("そう言って、オレは立ち止まった。",
     ""),
-    # With that in mind, I stopped.†
+    # With that in mind, I stopped.
 
-    ("委員長は振關りｌき烽もせず、そのまま烽歩いていく。",
+    ("委員長は振關りｌきもせず、そのまま歩いていく。",
     ""),
     # The chairman didn't even let the heat go, but instead continued walking.
 

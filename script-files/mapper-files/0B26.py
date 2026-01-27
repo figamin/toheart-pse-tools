@@ -2,9 +2,9 @@
 # Source file: 0B26.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント３）閨（真っ暗）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント３）閨（真っ暗）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, battle for the battle, scale number event 3) (pitch black)†
+    # (Aya∴Ka challenges Aya∴Ka, battle for the battle, scale number event 3) (pitch black)
 
     ("近くの公衆電話から、綾∴香を呼び出す。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "But now, I'll also be taking on the challenge of Lunchunan."
 
-    ("「おっけー、じ痰ゃ、すぐ行く墲わ」†",
+    ("「おっけー、じ痰ゃ、すぐ行くわ」",
     ""),
-    # "Oh noooo, I'm going straight away" †
+    # "Oh noooo, I'm going straight away" 
 
     ("諱よーし。",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # Look at the day right now.
 
-    ("オレは河艶敷へとｌかった。†",
+    ("オレは河艶敷へとｌかった。",
     ""),
-    # My guts went to Kawaenshiki.†
+    # My guts went to Kawaenshiki.
 
     ("今厓日のｍ寘戦。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # Stop tampering with a blind eye and take a closer look at the attack and M-shot.
 
-    ("これだ。†",
+    ("これだ。",
     ""),
-    # This is it.†
+    # This is it.
 
     ("いままで、たかが一発ってことを意識しすぎて、ゴリ气押しで叩き桙込むことばかり考えていた。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # That's no good.
 
-    ("そんな手が通用する鰍相闡手じ痰ゃない。†",
+    ("そんな手が通用する鰍相闡手じ痰ゃない。",
     ""),
-    # Such a hand can be used to make a very good phlegm.†
+    # Such a hand can be used to make a very good phlegm.
 
     ("′こうの攻ｍ撃をよく見て、一発齡一発、正確に打つ。",
     ""),
@@ -74,25 +74,25 @@ text_array = [
     ""),
     # Don't hit unnecessary punches.
 
-    ("軽はずみな攻ｍ撃がр隙を生む。†",
+    ("軽はずみな攻ｍ撃がр隙を生む。",
     ""),
-    # A light, easy-to-m-shot creates a gap.†
+    # A light, easy-to-m-shot creates a gap.
 
     ("とにかく、一発。",
     ""),
     # Anyway, one shot.
 
-    ("一発で烽も魔当てれば勝ちだ。",
+    ("一発でも魔当てれば勝ちだ。",
     ""),
     # If you hit the demon with one hit, you'll win.
 
-    ("オレは何度殴迚られて烽もいい。",
+    ("オレは何度殴迚られてもいい。",
     ""),
     # I'm hit so many times I'm good at Hot.
 
-    ("倒齠れない限り、チャャンスは何度で烽もある。†",
+    ("倒齠れない限り、チャャンスは何度でもある。",
     ""),
-    # As long as you can't defeat it, there are times when you can't defeat it, and there are times when you can't beat it.†
+    # As long as you can't defeat it, there are times when you can't defeat it, and there are times when you can't beat it.
 
     ("ガードに徹して、クリーンヒットを防ぐ。",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # He then conserves his strength and starts running out of stamina, and gives a fast, accurate punch.
 
-    ("諱よし。†",
+    ("諱よし。",
     ""),
-    # I'm fine with that.†
+    # I'm fine with that.
 
     ("「はあい」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # I'm extremely slow to get to ten beats.
 
-    ("綾∴香たちがやってきた。†",
+    ("綾∴香たちがやってきた。",
     ""),
-    # Aya∴Kara and the others have come to tamper with it.†
+    # Aya∴Kara and the others have come to tamper with it.
 
     ("「ごめん、ごめん、待った？」",
     ""),
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "It's a mess. Thanks to this, the battle for M-Ts has been a long-term confusion. I'll say that, but be sure to understand it now."
 
-    ("「へえ、強気ねえ。それは楽しみ」†",
+    ("「へえ、強気ねえ。それは楽しみ」",
     ""),
     # "Whoa, you're bullish. I'm looking forward to it."
 
@@ -150,17 +150,17 @@ text_array = [
     ""),
     # "Is there any chance of winning?"
 
-    ("「さあな。そればっかりはやってみなくち痰ゃ墲わからない」",
+    ("「さあな。そればっかりはやってみなくち痰ゃわからない」",
     ""),
     # "Now. You just have to tamper with that and you don't know what to do."
 
-    ("「п私は奄負けない墲わよ」",
+    ("「п私は奄負けないわよ」",
     ""),
     # "пI'm not going to lose to Amami."
 
-    ("綾∴香はくすっと笑った。†",
+    ("綾∴香はくすっと笑った。",
     ""),
-    # Aya∴Ka chuckled.†
+    # Aya∴Ka chuckled.
 
     ("「こんにちは、さん」",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("セリオはちょっぴり照齒れた｢｢諞ような気がした。†",
+    ("セリオはちょっぴり照齒れた｢｢諞ような気がした。",
     ""),
-    # Seragata Rio illuminated the story, "I felt like it was a sin.†
+    # Seragata Rio illuminated the story, "I felt like it was a sin.
 
     ("「あら、п私は？」",
     ""),
@@ -190,8 +190,8 @@ text_array = [
     ""),
     # "Hehe, sociable."
 
-    ("「まあ、半分は」†",
+    ("「まあ、半分は」",
     ""),
-    # "Well, half" †
+    # "Well, half" 
 
 ]

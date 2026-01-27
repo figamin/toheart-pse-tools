@@ -66,11 +66,11 @@ text_array = [
     ""),
     # This sight hurts Mugachasaikuri Tea banquet ride.†
 
-    ("「ま、あかりにやられてるようじ痰ゃ、あたしと墲戦うのは１００怩万年＃早い墲わね」",
+    ("「ま、あかりにやられてるようじ痰ゃ、あたしと戦うのは１００怩万年＃早いわね」",
     ""),
     # "Well, you're being tampered with by Akari, and it's 100 years to fight with me #Fast"
 
-    ("♂史におごらせホクホク辜顔で志保が言う。",
+    ("雅史におごらせホクホク辜顔で志保が言う。",
     ""),
     # Shiho says with a warm face, thrilled face to face with Masochist.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "You're arrogant. I choose a monk-related technique."
 
-    ("「あらあら、苦しい言い訳しち痰ゃって〜浴＠」",
+    ("「あらあら、苦しい言い訳しち痰ゃって〜＠」",
     ""),
     # "Oh, I'm going to make a painful excuse, so I'll give you some phlegm~ Bath @."
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # "Chikushi Ebi"†
 
-    ("「なんだか悪いなあ…。いいの！？	おごって烽もらっち痰ゃって」",
+    ("「なんだか悪いなあ…。いいの！？	おごってもらっち痰ゃって」",
     ""),
     # "It's kind of bad... Is that okay?! I'll buy it and get some hot phlegm."
 
-    ("「気にすんな。そういう汲ルールだ」",
+    ("「気にすんな。そういうルールだ」",
     ""),
     # "Don't worry about it. That's the rule."
 
-    ("「そー諱よ、そー諱よ、遠慮しないでいい墲わよ。なんならあたし烽も鰍頼燉もうか？」",
+    ("「そー諱よ、そー諱よ、遠慮しないでいいわよ。なんならあたしも鰍頼燉もうか？」",
     ""),
     # "Oh, that's right, don't hesitate to say so. Should I even sing a snake too?"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # I can't forget this humiliation.†
 
-    ("卒業式なんて、在校生にとっては、そんななんで烽もない一勛日に過ぎない。◯",
+    ("卒業式なんて、在校生にとっては、そんななんでもない一勛日に過ぎない。◯",
     ""),
     # For current students, graduation ceremonies are nothing more than just one day without hot water.◯
 

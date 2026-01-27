@@ -2,9 +2,9 @@
 # Source file: 01CC.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（５獅月２冾日）閨（１Ｆ廊下）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（５月２冾日）閨（１Ｆ廊下）",
     ""),
-    # (Akari Scales Event 1F) Li (5th Lion, 2nd Day) Li (1st floor corridor) †
+    # (Akari Scales Event 1F) Li (5th Lion, 2nd Day) Li (1st floor corridor) 
 
     ("１階へ下濶りてｗたとき。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Choo"
 
-    ("縺後撃から追っかけてきたあかりが、オレを追い越し、前に立った。†",
+    ("縺後撃から追っかけてきたあかりが、オレを追い越し、前に立った。",
     ""),
-    # Akari, who had been chasing after the attack after the attack, overtook O'Raa and stood in front of him.†
+    # Akari, who had been chasing after the attack after the attack, overtook O'Raa and stood in front of him.
 
     ("「なんだ、用か？」",
     ""),

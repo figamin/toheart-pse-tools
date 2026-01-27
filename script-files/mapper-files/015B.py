@@ -2,17 +2,17 @@
 # Source file: 015B.txt
 
 text_array = [
-    ("（あかり	好感度イベント９．２）閨（Ｂ	あかりを玄関まで翌送る）†",
+    ("（あかり	好感度イベント９．２）閨（Ｂ	あかりを玄関まで翌送る）",
     ""),
-    # (Akari Likeability Event 9.2) (B: ​​B: Skull the Akari to the entrance the next time) †
+    # (Akari Likeability Event 9.2) (B: ​​B: Skull the Akari to the entrance the next time) 
 
     ("「あ、ああ、じ痰ゃ、玄関まで翌送るぜ」",
     ""),
     # "Ah, oh, sputum, I'll send you to the entrance the next skull."
 
-    ("「…うん」†",
+    ("「…うん」",
     ""),
-    # "…Yeah"†
+    # "…Yeah"
 
     ("玄関に出て、あかりは靴を嘯履いた。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Hey, Akari."
 
-    ("と、オレは呼び止めた。†",
+    ("と、オレは呼び止めた。",
     ""),
-    # And I called out.†
+    # And I called out.
 
     ("「なに？」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "...Oh, the food was delicious."
 
-    ("照齒れを隠しに人差し指で頬を掻きながら、オレは言った。†",
+    ("照齒れを隠しに人差し指で頬を掻きながら、オレは言った。",
     ""),
-    # I said, scratching my cheek with my index finger to hide the glare.†
+    # I said, scratching my cheek with my index finger to hide the glare.
 
     ("「…ち痰ゃん」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "Yeah, I understand!"
 
-    ("あかりは、にっこり微笑んで嘯答えた。†",
+    ("あかりは、にっこり微笑んで嘯答えた。",
     ""),
-    # Akari replied with a smile.†
+    # Akari replied with a smile.
 
     ("「じ痰ゃ、また明坙日な」",
     ""),
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "Yeah, it's a break."
 
-    ("そして、あかりは家を出て行った。†",
+    ("そして、あかりは家を出て行った。",
     ""),
-    # Then Akari left the house.†
+    # Then Akari left the house.
 
-    ("あかりの獅去った繧後の玄関を、微笑みながらしばらく見つめ、オレは玄関の鍵を閉めて、自分の部屋へと戻った。◯",
+    ("あかりの去った後の玄関を、微笑みながらしばらく見つめ、オレは玄関の鍵を閉めて、自分の部屋へと戻った。◯",
     ""),
     # I stared at the entrance after Akari's lion left for a while with a smile, and then I closed the front door and returned to my room.◯
 

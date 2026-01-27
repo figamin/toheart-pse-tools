@@ -6,11 +6,11 @@ text_array = [
     ""),
     # 3/23 (Step Day)†
 
-    ("３獅月２３冾日、驕夜。",
+    ("３月２３冾日、驕夜。",
     ""),
     # The 23rd day of the 3rd month of the Shizuki, it was a lament night.
 
-    ("＝早めにベッドに烽もぐり桙込む。",
+    ("＝早めにベッドにもぐり桙込む。",
     ""),
     # = Early in the bed and sniff it.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # The most common way to keep a warm futon is to have a lot of phlegm.
 
-    ("そのうち、心地謦よい眠りに獅落ちていく…。◯",
+    ("そのうち、心地謦よい眠りに落ちていく…。◯",
     ""),
     # Eventually, the lion falls into a comfortable sleep...◯
 

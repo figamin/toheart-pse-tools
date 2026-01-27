@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "sorry…"
 
-    ("「えっ？	なに謝ってんだよ。そういう冾日燗もあるさ。だって、こんないい天気なんだぜ。雨を降迯らすなんて、あまりに烽もだ？」†",
+    ("「えっ？	なに謝ってんだよ。そういう冾日燗もあるさ。だって、こんないい天気なんだぜ。雨を降迯らすなんて、あまりにもだ？」†",
     ""),
     # "Huh? What are you apologizing? There's such a nice weather. Is it too hot to let rain fall?" †
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「そのときは、オレ焜もまた手伝うからさ！」◯",
+    ("「そのときは、オレもまた手伝うからさ！」◯",
     ""),
     # "At that time, I'll help out too!"
 

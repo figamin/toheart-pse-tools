@@ -2,9 +2,9 @@
 # Source file: 01D1.txt
 
 text_array = [
-    ("（あかり	氏試験）閨（Ａ	じ痰ゃあ、いっしょに）†",
+    ("（あかり	氏試験）閨（Ａ	じ痰ゃあ、いっしょに）",
     ""),
-    # (Akari's exam) (A: Ah, sphemy, split)†
+    # (Akari's exam) (A: Ah, sphemy, split)
 
     ("「じ痰ゃあ、いっしょに」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("あかりは大きくうなずいた。†",
+    ("あかりは大きくうなずいた。",
     ""),
-    # Akari nodded loudly.†
+    # Akari nodded loudly.
 
     ("「しかし、この陽気に学年又末テストなんて、カンベンしてほしいよなー」",
     ""),
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "Chalk and tests have nothing to do with it, isn't there phlegm?"
 
-    ("「この、ふ墲わふ墲わした空気のなかで緊張感を保つのはしんどいんだよ」",
+    ("「この、ふわふわした空気のなかで緊張感を保つのはしんどいんだよ」",
     ""),
     # "It's tough to maintain tension in this slurping atmosphere."
 
-    ("「まあ、それはそうか烽も」†",
+    ("「まあ、それはそうかも」",
     ""),
     # "Well, that's true, too, too"
 
-    ("「今厓日のテストヲ、窓際のрヤツが汲窓開けてよ、そよ翌風が流齬れ桙込んできて、まいったぜ」",
+    ("「今厓日のテストヲ、窓際のрヤツが窓開けてよ、そよ翌風が流齬れ桙込んできて、まいったぜ」",
     ""),
     # "You're going to test it out now, the guy by the window opens the window, the next breeze has come into motion, and I'm in trouble."
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "yes"
 
-    ("「ち痰ゃんって、集薯力が揩持続しないほうだ烽もんね」",
+    ("「ち痰ゃんって、集薯力が持続しないほうだもんね」",
     ""),
     # "They're the kind of thing that doesn't last for the collecting potato power."
 
-    ("「オレは瞬発力タイプなんだよ」†",
+    ("「オレは瞬発力タイプなんだよ」",
     ""),
     # "I'm the explosive type"
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # I've been tampering with the arcade.
 
-    ("ここを抜けるとすぐ公園があり、その公園を抜けると、もう家だ。†",
+    ("ここを抜けるとすぐ公園があり、その公園を抜けると、もう家だ。",
     ""),
-    # As soon as you pass through this, you will find a park, and after passing through that park, you will be home already.†
+    # As soon as you pass through this, you will find a park, and after passing through that park, you will be home already.
 
     ("「待った」",
     ""),
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「昼£メシャ買う」",
+    ("「昼メシャ買う」",
     ""),
     # "Buy Mesha on the afternoon"
 
-    ("オレはあかりを待たせて、ぽっかぽか弁抹当で適俣当なのをひとつ高注文した。†",
+    ("オレはあかりを待たせて、ぽっかぽか弁抹当で適俣当なのをひとつ高注文した。",
     ""),
-    # I made Akari wait, and ordered a high-priced one of the best bentos at Tomata.†
+    # I made Akari wait, and ordered a high-priced one of the best bentos at Tomata.
 
-    ("「今厓日のお汲昼はそれ？」",
+    ("「今厓日のお昼はそれ？」",
     ""),
     # "Is that what lunch is on the day of the day?"
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "*It's a bit of a slut, so don't you get bored of it?"
 
-    ("「同じ烽ものだと飽きるから、工夫が必要だな。うまく高ローテーション組んで、縺舌を桙満足させなき痰ゃなんない。好きな物ばっかり食うと、すぐに飽きちまうからな」†",
+    ("「同じものだと飽きるから、工夫が必要だな。うまく高ローテーション組んで、縺舌を桙満足させなき痰ゃなんない。好きな物ばっかり食うと、すぐに飽きちまうからな」",
     ""),
     # "If you eat the same hot food, you'll get bored of it, so you need to think about it. You have to put together a high-speed rotation and not satisfy your tongue. If you eat everything you like, you'll get bored quickly."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # It's really tough, it's so b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b
 
-    ("「ああ、蛛大変だぞ。だからお前熨も烽もっとオレに協力してくれ」",
+    ("「ああ、蛛大変だぞ。だからお前熨ももっとオレに協力してくれ」",
     ""),
     # "Ah, it's tough, so please help me out more with the noshi."
 
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "Yeah, I understand."
 
-    ("まあ、いまで烽も十分笊やって烽もらってるが。†",
+    ("まあ、いまでも十分笊やってもらってるが。",
     ""),
-    # Well, I've been able to get enough of the hot springs to get them.†
+    # Well, I've been able to get enough of the hot springs to get them.
 
     ("「じ痰ゃあね、ち痰ゃん」",
     ""),
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "You're a noshi"
 
-    ("あかりは手を振って烽歩いていった。◯",
+    ("あかりは手を振って歩いていった。◯",
     ""),
     # Akari waved and walked away.◯
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "I understand."
 
-    ("「それじ痰ゃあ、また繧後で」",
+    ("「それじ痰ゃあ、また後で」",
     ""),
     # "That's it, phlegm, after that."
 

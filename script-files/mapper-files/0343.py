@@ -2,19 +2,19 @@
 # Source file: 0343.txt
 
 text_array = [
-    ("（智子	好感度イベント１回目）閨（選択綜Ｃ	♂史に写させて烽もらう。の続き）†",
+    ("（智子	好感度イベント１回目）閨（選択綜Ｃ	雅史に写させてもらう。の続き）",
     ""),
-    # (Tomoko's first favorability event) (Continued from Chosen Soku C: Makoto's copy and get hot) †
+    # (Tomoko's first favorability event) (Continued from Chosen Soku C: Makoto's copy and get hot) 
 
     ("諱よし。",
     ""),
     # I'm fine with that.
 
-    ("ここはひとつダチのよしみで、♂史の浮助けを借闔りることにしよう。†",
+    ("ここはひとつダチのよしみで、雅史の浮助けを借りることにしよう。",
     ""),
-    # Let's borrow some help from Masochist, using the nigga's guise.†
+    # Let's borrow some help from Masochist, using the nigga's guise.
 
-    ("「お〜い、♂史ぃ〜。",
+    ("「お〜い、雅史ぃ〜。",
     ""),
     # "Hey, Mashi.
 
@@ -30,13 +30,13 @@ text_array = [
     ""),
     # "I haven't even done anything yet."
 
-    ("秩白博のプリントを見せながらｉ史が言った。",
+    ("秩白博のプリントを見せながら史が言った。",
     ""),
     # Ishi said as he showed the Pulato Rinto of Chichihaku Hiroshi.
 
-    ("たしかにオレと同じで、まだ全然闡手つけず状態だ。†",
+    ("たしかにオレと同じで、まだ全然闡手つけず状態だ。",
     ""),
-    # It's true that it's the same as my supernatural, and I'm still not able to handle it at all.†
+    # It's true that it's the same as my supernatural, and I'm still not able to handle it at all.
 
     ("「どーすんだ？	問題は多くねーけど、結構ムズいぞ」",
     ""),
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # "Yeah, so we all decided to share the work together. What do you think?
 
-    ("も一竏問担亦当する？」†",
+    ("も一竏問担亦当する？」",
     ""),
-    # Will he be the one to take on the question?”†
+    # Will he be the one to take on the question?”
 
-    ("「みんなで分担？	蛛大苟丈夫かよ？	ひとりが間瘧違えたら、全員共倒齠れだぞ。",
+    ("「みんなで分担？	蛛大苟丈夫かよ？	ひとりが間違えたら、全員共倒齠れだぞ。",
     ""),
     # "All of us share the work? Are you a great man? If one person gets a different story, we'll all have to defeat them.
 
-    ("手分けしたの烽もバレバレだし」",
+    ("手分けしたのもバレバレだし」",
     ""),
     # The one who shared the role was also extremely loud."
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "I don't really care, don't you have any phlegm?"
 
-    ("♂史はさらっと言った。",
+    ("雅史はさらっと言った。",
     ""),
     # Masochi said casually.
 
-    ("「お前って、結構アバウトなрヤツだよな」†",
+    ("「お前って、結構アバウトなрヤツだよな」",
     ""),
     # "You're a pretty rough guy."
 
@@ -82,17 +82,17 @@ text_array = [
     ""),
     # What, what?
 
-    ("£心Ｐの軌跡は冾放物武で…。†",
+    ("心Ｐの軌跡は冾放物武で…。",
     ""),
-    # The trajectory of £Kokoro P is parabolic...†
+    # The trajectory of Kokoro P is parabolic...
 
     ("「…ったく、こんな知識、社脂に出てからなにかの役に立つのかよ」",
     ""),
     # "...I wonder if this kind of knowledge will be of any use after it's on the company's fat?"
 
-    ("などと、お約束な文蝠句を言いつつ、教科痩書を参考にして、なんとかコツコツ窿やってみた。†",
+    ("などと、お約束な文蝠句を言いつつ、教科痩書を参考にして、なんとかコツコツ窿やってみた。",
     ""),
-    # While saying the usual sentences, I used the textbook as a reference, and somehow managed to do it little by little.†
+    # While saying the usual sentences, I used the textbook as a reference, and somehow managed to do it little by little.
 
     ("｢｢で、いちおうは解けた。",
     ""),
@@ -106,8 +106,8 @@ text_array = [
     ""),
     # Everyone, Suman.
 
-    ("多分これ、間瘧違ってる墲わ…。†",
+    ("多分これ、間違ってるわ…。",
     ""),
-    # This is probably a different story...†
+    # This is probably a different story...
 
 ]

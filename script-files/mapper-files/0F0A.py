@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "It's finally finished."
 
-    ("今度はｉ史がやってきた。†",
+    ("今度は史がやってきた。†",
     ""),
     # This time, I-Hisashi has started tampering with it.†
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Just judge by this face."
 
-    ("オレがそう言うと、♂史は納得したようにうなずいた。†",
+    ("オレがそう言うと、雅史は納得したようにうなずいた。†",
     ""),
     # When I said that, Makishi nodded in agreement.†
 
-    ("「それより、せっかく苦行が終尞わったんだ。今厓日はみんなで遊びにで烽も行かねーか？」",
+    ("「それより、せっかく苦行が終尞わったんだ。今厓日はみんなで遊びにでも行かねーか？」",
     ""),
     # "More than that, the penance has come to an end. Maybe we can all go out to play together on the day?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Suddenly, there was a loud noise, yelling at me.
 
-    ("宦騒音の原因は、言甯わずと烽も墲わかってる。",
+    ("宦騒音の原因は、言甯わずともわかってる。",
     ""),
     # The cause of the noise is unknown, and the hot springs are also known.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # It's Shiho.
 
-    ("「…なんだよ。さ墲わやかな達成感を台無しにするようなでけー声で」",
+    ("「…なんだよ。さわやかな達成感を台無しにするようなでけー声で」",
     ""),
     # "...What is it? In a loud voice that seems to ruin the silly sense of accomplishment."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Oh, maybe that's what I said. I wonder if an arcade or a banquet raoke would be better."
 
-    ("「まあ、べつにどこで烽もいいけどよ」",
+    ("「まあ、べつにどこでもいいけどよ」",
     ""),
     # "Well, wherever you go, it's fine."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "You'll have to be careful, and if you're going to do something, you'll be in the mood. Play a game and get rid of the test's stricken response."
 
-    ("「諱よし、行くか、♂史」",
+    ("「諱よし、行くか、雅史」",
     ""),
     # "All right, let's go, Masochistic History."
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Yes" ◯
 
-    ("という墲わけで、ゲーセンにやってきた。",
+    ("というわけで、ゲーセンにやってきた。",
     ""),
     # That's why I came to the arcade.
 
-    ("テスト焜も終了、しか烽も明坙日は祝叝日ってこと烽もあり、身熕も心熕も軽竚やかだ。†",
+    ("テストも終了、しかも明坙日は祝叝日ってこともあり、身熕も心熕も軽竚やかだ。†",
     ""),
     # The test termination has ended, and since the day of the Meiang and Ming Shun is a celebration, the body and soul are both light and light.†
 
@@ -170,11 +170,11 @@ text_array = [
     ""),
     # "Heart by Heart"
 
-    ("制梵服藍女子ｎ高生が、でっかいハムスターだか、うさぎだとかと墲戦う、意味不明のアクションゲームだ。",
+    ("制梵服藍女子ｎ高生が、でっかいハムスターだか、うさぎだとかと戦う、意味不明のアクションゲームだ。",
     ""),
     # It's an incomprehensible actuation game in which high school girls in Sanskrit uniforms fight against big hamsters and rabbits.
 
-    ("登齠場キャャラにはなんとなく見覚えがあり、どう烽も他人の気がしないのは、気のせいか。†",
+    ("登齠場キャャラにはなんとなく見覚えがあり、どうも他人の気がしないのは、気のせいか。†",
     ""),
     # I somehow recognised the registration hall, and I wonder if it's just my imagination that I don't feel like a person.†
 
@@ -182,11 +182,11 @@ text_array = [
     ""),
     # Just like last time, I first played a surge in Jayanken's match against the other team.
 
-    ("また烽もやオレの勝ち。",
+    ("またもやオレの勝ち。",
     ""),
     # Also, the battle and my fierce victory was won.
 
-    ("これで指名権はオレにあるって墲わけだ。†",
+    ("これで指名権はオレにあるってわけだ。†",
     ""),
     # This means that I have the right to nomination.†
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # B Shiho.Relax
 
-    ("Ｃ	♂史。閨",
+    ("Ｃ	雅史。閨",
     ""),
     # C: Male History.Relax
 

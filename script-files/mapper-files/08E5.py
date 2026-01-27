@@ -2,11 +2,11 @@
 # Source file: 08E5.txt
 
 text_array = [
-    ("（戟レミィ	好感度型回秤数イベント）閨（一闊定好感度で回秤数イベントにр割闃り桙込み）閨？（場鰹所はどこで烽も良い）閨？（香注意！！背景を№合寘わせる魔事）閨？（回秤数イベント見たカウンタ焜も進める）†",
+    ("（レミィ	好感度型回秤数イベント）閨（一闊定好感度で回秤数イベントにр割闃り桙込み）閨？（場鰹所はどこでも良い）閨？（香注意！！背景を№合寘わせる魔事）閨？（回秤数イベント見たカウンタも進める）",
     ""),
-    # (Anti-Remie: A good-looking scale event) (A good-looking scale event includes a good-looking scale event)?(Where is the bonito spot and the hot pot is good)?(Warning: A magician!! A magician that makes the background sing No.) Is that so?(The counters you see the scale event will also be advanced) †
+    # (Anti-Remie: A good-looking scale event) (A good-looking scale event includes a good-looking scale event)?(Where is the bonito spot and the hot pot is good)?(Warning: A magician!! A magician that makes the background sing No.) Is that so?(The counters you see the scale event will also be advanced) 
 
-    ("「Ｈ奄ｉ！	」",
+    ("「Ｈ奄！	」",
     ""),
     # "Hi Amai!"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # While walking, I was suddenly called out to him.
 
-    ("「おう、戟レミィ」†",
+    ("「おう、レミィ」",
     ""),
     # "Oh, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "What exactly are you using?"
 
-    ("「あのね、今厓日、アタシの家にｗてほしいの」†",
+    ("「あのね、今厓日、アタシの家にｗてほしいの」",
     ""),
     # "Um, I want my house to do it on the day of the year."
 
-    ("「戟レミィんちへ？	ディナーにで烽も招待してくれるのか？」",
+    ("「レミィんちへ？	ディナーにでも招待してくれるのか？」",
     ""),
     # "To the Remy's? Will you invite me to join us for dinner?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "S shield, there's no phlegm like that. I want you to see it."
 
-    ("「見にｗてって、戟レミィんちを？」",
+    ("「見にｗてって、レミィんちを？」",
     ""),
     # "Look lol, yell me back?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「なんか珍しい烽もんで烽もあるのか？」†",
+    ("「なんか珍しいもんでもあるのか？」",
     ""),
     # "Is there some rare hot springs and some hot springs?"
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # With that in mind, Ekiremi started laughing.
 
-    ("「戟レミィ〜」",
+    ("「レミィ〜」",
     ""),
     # "Ah Remie"
 
-    ("「ゴ＜メンゴ＜メン。…今厓日はとって烽も大切な冾日だから、にｗてほしいの」",
+    ("「ゴ＜メンゴ＜メン。…今厓日はとっても大切な冾日だから、にｗてほしいの」",
     ""),
     # "Go<Mengo<Men....I hope you will get the day now and the Hot is an important day, so I hope you will be lol."
 
@@ -78,17 +78,13 @@ text_array = [
     ""),
     # "Well, that's fine. I'm going to have time anyway, so I have no time to live with the phlegm that will make people want to ask for."
 
-    ("「ホント！？	ありがとう！」†",
+    ("「ホント！？	ありがとう！」",
     ""),
-    # "Really? Thank you!" †
+    # "Really? Thank you!" 
 
-    ("オレは撃レミィの案煦内で、彼濫女の家を『見に』行くことになった。†",
+    ("オレは撃レミィの案煦内で、彼女の家を『見に』行くことになった。",
     ""),
-    # Within Gekiremi's plan, I decided to go "to see" the house of her girlfriend.†
-
-    ("・",
-    ""),
-    # ・
+    # Within Gekiremi's plan, I decided to go "to see" the house of her girlfriend.
 
     ("・",
     ""),
@@ -102,35 +98,39 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("「おい…、戟レミィんちって…ここかぁ？」",
+    ("・",
+    ""),
+    # ・
+
+    ("「おい…、レミィんちって…ここかぁ？」",
     ""),
     # "Hey... What is the ramblings...is this?
 
-    ("道∮順が同じだから、まさかとは思っていたが、ここは『長岡の館』じ痰ゃねえか。†",
+    ("道∮順が同じだから、まさかとは思っていたが、ここは『長岡の館』じ痰ゃねえか。",
     ""),
-    # I thought it was impossible because the paths were the same, but I wonder if this is the Nagaoka Mansion.†
+    # I thought it was impossible because the paths were the same, but I wonder if this is the Nagaoka Mansion.
 
     ("「うん…。とにかく、％って」",
     ""),
     # "Yeah... Anyway, %."
 
-    ("戟レミィの言葉で、オレは門をくぐり敷地に入った。",
+    ("レミィの言葉で、オレは門をくぐり敷地に入った。",
     ""),
     # In the words of Garemy, I passed through the Ebimon and entered the grounds.
 
-    ("玄関に行くのかと思ったら、彼濫女はｒの方にま墲わって行った。",
+    ("玄関に行くのかと思ったら、彼女はｒの方にまわって行った。",
     ""),
     # Just as I was about to go to the front door, the woman went to the lucky face of the r's lucky side.
 
-    ("オレ焜も繧後に続く。†",
+    ("オレも後に続く。",
     ""),
-    # My heart is continuing after the incident.†
+    # My heart is continuing after the incident.
 
-    ("…それにして烽も、ここが撃レミィの家だとしたら、彼濫女が昔遊んだ翌女の子になるのか？",
+    ("…それにしても、ここが撃レミィの家だとしたら、彼女が昔遊んだ翌女の子になるのか？",
     ""),
     # ...And if this is Ekiremi's house, will he become the girl the next time the girl he used to play?
 
@@ -138,23 +138,23 @@ text_array = [
     ""),
     # Certainly the same goes for Ageke...
 
-    ("そ烽もそ烽も烽金髪だったか？",
+    ("そもそも金髪だったか？",
     ""),
     # Was both the hot and hot blonde hair?
 
-    ("いや、戟レミィは何年か前に冾日本にやってきたんだ。",
+    ("いや、レミィは何年か前に冾日本にやってきたんだ。",
     ""),
     # Tampering, and War Remie had tampered with Japan a few years ago.
 
-    ("１１年前に烽もここに住んでて、オレと遊んでたはずがない。†",
+    ("１１年前にもここに住んでて、オレと遊んでたはずがない。",
     ""),
-    # There's no way he lived here 11 years ago and would have been playing with me.†
+    # There's no way he lived here 11 years ago and would have been playing with me.
 
     ("「」",
     ""),
     # ""
 
-    ("考えていると、戟レミィが呼んだ。",
+    ("考えていると、レミィが呼んだ。",
     ""),
     # As I was thinking, Karemi called out.
 
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # "I'm home"
 
-    ("「は？」†",
+    ("「は？」",
     ""),
-    # "teeth?"†
+    # "teeth?"
 
     ("「アタシ、帰ってきたｃ。１１年前、黙ってＳｔ≠ａｔ入に戻ってごめんね…」",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # With that, Ekiremi put her eyes down.
 
-    ("…１１年前に、ア＜メリカに戻った…？†",
+    ("…１１年前に、ア＜メリカに戻った…？",
     ""),
-    # ...Elpita: Did you return to America 11 years ago...?†
+    # ...Elpita: Did you return to America 11 years ago...?
 
     ("「もしかして、あれは撃レミィだったのか！？」",
     ""),
@@ -202,23 +202,23 @@ text_array = [
     ""),
     # "It's so nostalgic. I've known Ekiremi for a while, but I feel a bit complicated."
 
-    ("実際、懐かしいのか懐かしくないのか、言ってる自分熾もよく墲わからなかった。†",
+    ("実際、懐かしいのか懐かしくないのか、言ってる自分熾もよくわからなかった。",
     ""),
-    # In fact, I couldn't really understand the fierceness of being said, whether it was nostalgia or not.†
+    # In fact, I couldn't really understand the fierceness of being said, whether it was nostalgia or not.
 
-    ("「うん、アタシ焜もびっくりした」",
+    ("「うん、アタシもびっくりした」",
     ""),
     # "Yeah, I was surprised too."
 
-    ("「どうしてオレだって墲わかったんだ？」",
+    ("「どうしてオレだってわかったんだ？」",
     ""),
     # "How did you know that it was so intense?"
 
-    ("「シホの記幕事読んだの。それで直接シホから詳しく教えて烽もらって、わかったの」",
+    ("「シホの記幕事読んだの。それで直接シホから詳しく教えてもらって、わかったの」",
     ""),
     # "I read Shiho's cover story. So I told him in detail directly from Shiho and got him a quick guide, and I got it."
 
-    ("「あの記幕事か…」†",
+    ("「あの記幕事か…」",
     ""),
     # "That seal story..."
 
@@ -226,13 +226,13 @@ text_array = [
     ""),
     # "Look. Do you remember that sandbag?"
 
-    ("そう言って撃レミィは、£の片隅の砂鼾場を指差した。",
+    ("そう言って撃レミィは、の片隅の砂鼾場を指差した。",
     ""),
-    # With that, Ekiremi pointed to the sandy stove in a corner of £.
+    # With that, Ekiremi pointed to the sandy stove in a corner of .
 
-    ("もう何年熹も｢｢煕もしかしたら魔当椏時から｢｢使寬われていないらしく、地面の囲いがなければ区別がつかないくらいｒの土と砂が混ざっている。†",
+    ("もう何年熹も｢｢煕もしかしたら魔当椏時から｢｢使寬われていないらしく、地面の囲いがなければ区別がつかないくらいｒの土と砂が混ざっている。",
     ""),
-    # For years, I've been saying, "He's probably not being used to wield the "Hee" since the time of the wisdom, and there's a mixture of so much soil and sand that it's hard to tell if there's a ground enclosure.†
+    # For years, I've been saying, "He's probably not being used to wield the "Hee" since the time of the wisdom, and there's a mixture of so much soil and sand that it's hard to tell if there's a ground enclosure.
 
     ("「…ああ。たしか、オレがｍった秘密軏基地が宇薗警察にぶっ壊されたんだよな」",
     ""),
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "Hahaha, I'm a sash!"
 
-    ("「ひでー警察燻もあった烽もんだ」†",
+    ("「ひでー警察燻もあったもんだ」",
     ""),
     # "Hide - it's a hot pot that even had police smoke"
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "Come on, there's a pond over there now, but there's a mi≠a nitrogen pc."
 
-    ("戟レミィの言う先に、そこだけ冾日本ふうの池がある。",
+    ("レミィの言う先に、そこだけ冾日本ふうの池がある。",
     ""),
     # Beyond what Karemie says, there is a pond that looks like a Japanese.
 
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # "Carp? What's that phlegm?"
 
-    ("近づいて覗き桙込んでみると、赤竦やら窒白笏やらのｌが泳いでいる。†",
+    ("近づいて覗き桙込んでみると、赤竦やら窒白笏やらのｌが泳いでいる。",
     ""),
-    # When I got closer and peered in, I saw a red shriek, a nitrogen scepter, and a lmao swimming in.†
+    # When I got closer and peered in, I saw a red shriek, a nitrogen scepter, and a lmao swimming in.
 
     ("「カープってｌか？	まさか１１年熹も生きてるんじ痰ゃねえだうな？」",
     ""),
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "I recently bought a le."
 
-    ("「なんだ『今熏も』って言うからずっと生きてるのかと思ったぜ」†",
+    ("「なんだ『今熏も』って言うからずっと生きてるのかと思ったぜ」",
     ""),
     # "What's this saying, 'I'm now too' made me wonder if I'll be alive forever."
 
@@ -278,13 +278,13 @@ text_array = [
     ""),
     # "HEY!
 
-    ("ｌｔ’入	戟ｌ浮ｕ獅ｎモｃ」",
+    ("ｌｔ’入	ｌ浮ｕｎモｃ」",
     ""),
     # LBT' in the lbt'
 
-    ("戟レミィがパンパン閭手をたたくと、′が墲わら墲わらと彼濫女の足元に集まってきた。†",
+    ("レミィがパンパン閭手をたたくと、′がわらわらと彼女の足元に集まってきた。",
     ""),
-    # As Karemi clapped her arms in a slurp,' gathered at the feet of her ladies.†
+    # As Karemi clapped her arms in a slurp,' gathered at the feet of her ladies.
 
     ("すると撃レミィは、地面の砂をつかんでばらまいた。",
     ""),
@@ -298,9 +298,9 @@ text_array = [
     ""),
     # "Hahaha, don't be fooled!"
 
-    ("小学生並みのいたずらでｊぶ撃レミィ。†",
+    ("小学生並みのいたずらでｊぶ撃レミィ。",
     ""),
-    # Ekimi is a naughty girl who plays a prank on an elementary school student's level.†
+    # Ekimi is a naughty girl who plays a prank on an elementary school student's level.
 
     ("「…ホント、ガキだな撃レミィは」",
     ""),
@@ -310,9 +310,9 @@ text_array = [
     ""),
     # Perhaps that was the case back then.
 
-    ("そんな撃レミィについ、目を細めてしまう。†",
+    ("そんな撃レミィについ、目を細めてしまう。",
     ""),
-    # I squinted my eyes at Ekiremi.†
+    # I squinted my eyes at Ekiremi.
 
     ("「ネェ、」",
     ""),
@@ -326,11 +326,11 @@ text_array = [
     ""),
     # "Do you remember that tree?"
 
-    ("そう言って指さした先に、ひとき墲わ大きな木があった。",
+    ("そう言って指さした先に、ひときわ大きな木があった。",
     ""),
     # I pointed to that point, and saw a particularly large tree.
 
-    ("ま墲わりに生えてる木と比べての話だけど。",
+    ("まわりに生えてる木と比べての話だけど。",
     ""),
     # Well, this is a story of comparing the trees that grow instead of the trees.
 
@@ -338,9 +338,9 @@ text_array = [
     ""),
     # ...What kind of tree is it b?
 
-    ("そんなことは関係ない。†",
+    ("そんなことは関係ない。",
     ""),
-    # That doesn't matter.†
+    # That doesn't matter.
 
     ("「ああ、諱よく覚えてるぜ」",
     ""),
@@ -350,9 +350,9 @@ text_array = [
     ""),
     # I nodded.
 
-    ("戟レミィはスキップで烽もするみたいな足鞫取闔りで、木に駆け寄った。†",
+    ("レミィはスキップでもするみたいな足鞫取りで、木に駆け寄った。",
     ""),
-    # I went over the tree with a tickling that seemed to skip and stomp.†
+    # I went over the tree with a tickling that seemed to skip and stomp.
 
     ("「アタシと、この木によく登ったネ」",
     ""),
@@ -362,13 +362,13 @@ text_array = [
     ""),
     # "That's right."
 
-    ("禔口元をゆるませながら、戟レミィに烽歩み寄驫る。",
+    ("禔口元をゆるませながら、レミィに歩み寄驫る。",
     ""),
     # As he relaxed his mouth, he leaned over to Remy.
 
-    ("今熏も昔熕もちっと烽も変﨑わっていないような、そんな彼濫女を見ていると、にこやかな気分になってしまう。†",
+    ("今熏も昔熕もちっとも変﨑わっていないような、そんな彼女を見ていると、にこやかな気分になってしまう。",
     ""),
-    # Looking at the man who seemed to have not changed much now, neither Kane nor Kane in the past, I felt a bit sly.†
+    # Looking at the man who seemed to have not changed much now, neither Kane nor Kane in the past, I felt a bit sly.
 
     ("「見て見て、この木、小さくなったｃ」",
     ""),
@@ -382,11 +382,11 @@ text_array = [
     ""),
     # "Barka, the slutty guys have grown bigger."
 
-    ("こうやって見上げると、むかしはとんで烽もない大木に見えたこの木燒も、さしずめ『少し大きめの木』って感じだ。†",
+    ("こうやって見上げると、むかしはとんでもない大木に見えたこの木燒も、さしずめ『少し大きめの木』って感じだ。",
     ""),
-    # When I tampered with this and looked up, this wood burner, which once looked like a huge tree with no hot water, looks like a slightly larger tree.†
+    # When I tampered with this and looked up, this wood burner, which once looked like a huge tree with no hot water, looks like a slightly larger tree.
 
-    ("「Ｌｔ’入	メｃ撃ｌ奄ｉ高ｍ奄ｉ獅ｎ№ｇ！」",
+    ("「Ｌｔ’入	メｃ撃ｌ奄高ｍ奄ｎ№ｇ！」",
     ""),
     # "Lbt' in MecGets l Amai High MBB Amai Lion!"
 
@@ -398,19 +398,19 @@ text_array = [
     ""),
     # "Oh, hey."
 
-    ("そう言ってる間に、彼濫女はするすると慣れた調子でのぼって行く。",
+    ("そう言ってる間に、彼女はするすると慣れた調子でのぼって行く。",
     ""),
     # While he was saying that, the overly girl would move up in a familiar tone.
 
-    ("やがて３≠メートルほどで幹が細くなって、それ以繹上のぼれなくなった。†",
+    ("やがて３≠メートルほどで幹が細くなって、それ以繹上のぼれなくなった。",
     ""),
-    # Eventually, the trunk became thinner, and then no longer fell over.†
+    # Eventually, the trunk became thinner, and then no longer fell over.
 
     ("「やったｃーッ、。のぼったｃ！」",
     ""),
     # "I did it c. I got it up!"
 
-    ("「はははっ、諱よかったじ痰ゃねえか。むかしはのぼれなかったからな」†",
+    ("「はははっ、諱よかったじ痰ゃねえか。むかしはのぼれなかったからな」",
     ""),
     # "Hahaha, you're so happy, you have phlegm. I didn't fall in love with you in the past."
 
@@ -418,7 +418,7 @@ text_array = [
     ""),
     # "YEAAAAH!"
 
-    ("戟レミィが手を振った瞬間｢｢！",
+    ("レミィが手を振った瞬間｢｢！",
     ""),
     # As soon as Karemi waved, "!
 
@@ -430,7 +430,7 @@ text_array = [
     ""),
     # "Aaah!"
 
-    ("彼濫女を支えていた片荿方の足が鰍滑った。",
+    ("彼女を支えていた片荿方の足が鰍滑った。",
     ""),
     # The legs of the man who was supporting the woman were slid into tears.
 
@@ -438,15 +438,15 @@ text_array = [
     ""),
     # "Damn it!"
 
-    ("とっさに飛び出した。†",
+    ("とっさに飛び出した。",
     ""),
-    # It jumped out quickly.†
+    # It jumped out quickly.
 
     ("ドサッ！",
     ""),
     # Squish!
 
-    ("「｢｢蜀大苟丈夫か？	戟レミィ」",
+    ("「｢｢蜀大苟丈夫か？	レミィ」",
     ""),
     # ""Is Shu Dairyu strong? Haha Remie?"
 
@@ -458,17 +458,17 @@ text_array = [
     ""),
     # Ekiremi nodded at the r-on-the-arm arm of my eyes.
 
-    ("間一髪、氏落ちてきた撃レミィを受け止められたのは、ほとんどまぐれ。†",
+    ("間一髪、氏落ちてきた撃レミィを受け止められたのは、ほとんどまぐれ。",
     ""),
-    # At the last minute, it was almost a fluke that he was caught in the fall of Ekimi Remie.†
+    # At the last minute, it was almost a fluke that he was caught in the fall of Ekimi Remie.
 
     ("「ったく、ガキの頃謐よりｊなっかしーぞ」",
     ""),
     # "It's definitely better than when you're a kid."
 
-    ("「エヘヘ…。ゴ＜メンネ」†",
+    ("「エヘヘ…。ゴ＜メンネ」",
     ""),
-    # "Hehehe...Go<Menne"†
+    # "Hehehe...Go<Menne"
 
     ("「氏落ちてり痰ゃ怩骨折くらいしてたぞ…。ほら」",
     ""),
@@ -490,9 +490,9 @@ text_array = [
     ""),
     # "...Please just keep like this for a little while."
 
-    ("そう言って撃レミィはオレにしがみついた。†",
+    ("そう言って撃レミィはオレにしがみついた。",
     ""),
-    # With that in mind, Ekiremi clings to me.†
+    # With that in mind, Ekiremi clings to me.
 
     ("「な、なんだよ。どっか痛めたのか？」",
     ""),
@@ -506,9 +506,9 @@ text_array = [
     ""),
     # "It's a phlegm."
 
-    ("正直、人ひとりを抱えてるのはつらい。†",
+    ("正直、人ひとりを抱えてるのはつらい。",
     ""),
-    # Honestly, it's tough to have one person.†
+    # Honestly, it's tough to have one person.
 
     ("「に言いたかったこと、あるの…」",
     ""),
@@ -522,7 +522,7 @@ text_array = [
     ""),
     # "And... what is "Tadaima"..."
 
-    ("「さっき、言甯わなかったか？」†",
+    ("「さっき、言甯わなかったか？」",
     ""),
     # "Did you not say this earlier?"
 
@@ -530,15 +530,15 @@ text_array = [
     ""),
     # "Yeah. I really want to say it."
 
-    ("「あ、ああ。言ってくれ」†",
+    ("「あ、ああ。言ってくれ」",
     ""),
     # "Ah, yeah. Tell me."
 
-    ("「ただいま、。アタシ、帰ってｗたｃ」†",
+    ("「ただいま、。アタシ、帰ってｗたｃ」",
     ""),
-    # "I'm home now. I'm back lol" †
+    # "I'm home now. I'm back lol" 
 
-    ("そのときたしかに、戟レミィはあの１１年前の翌女の子だった。",
+    ("そのときたしかに、レミィはあの１１年前の翌女の子だった。",
     ""),
     # At that time, it was certainly true that Karemi was the girl who was the following 11 years ago.
 
@@ -546,21 +546,21 @@ text_array = [
     ""),
     # And I'm a lost kid.
 
-    ("とっくに顔見知闥りだったのに、オレたちは今厓日、いまここで再拷したんだ。†",
+    ("とっくに顔見知闥りだったのに、オレたちは今厓日、いまここで再拷したんだ。",
     ""),
-    # I'd been getting a lot of knowledge for a while, but we've been tortured again here and now, on the day we've just gotten tortured again.†
+    # I'd been getting a lot of knowledge for a while, but we've been tortured again here and now, on the day we've just gotten tortured again.
 
-    ("「ああ。おかえり、戟レミィ」",
+    ("「ああ。おかえり、レミィ」",
     ""),
     # "Yeah. Welcome back, wa Remie."
 
-    ("自分で烽も驚くほど、やさしい声が出た。",
+    ("自分でも驚くほど、やさしい声が出た。",
     ""),
     # The sound of the sound came out so gentle that it was amazing.
 
-    ("案外これって本心だよな。†",
+    ("案外これって本心だよな。",
     ""),
-    # Surprisingly, this is the true feeling.†
+    # Surprisingly, this is the true feeling.
 
     ("「………」",
     "…"),
@@ -570,9 +570,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("…なんか恥ずかしいような『間』ができてしまった。†",
+    ("…なんか恥ずかしいような『間』ができてしまった。",
     ""),
-    # ...I've created a "space" that makes me feel embarrassed.†
+    # ...I've created a "space" that makes me feel embarrassed.
 
     ("「」",
     ""),
@@ -586,9 +586,9 @@ text_array = [
     ""),
     # "Tell me something."
 
-    ("戟レミィ焜もいたたまれなかったらしい。†",
+    ("レミィもいたたまれなかったらしい。",
     ""),
-    # Apparently, the Remy was also unbearable.†
+    # Apparently, the Remy was also unbearable.
 
     ("「なにかって、なにを？」",
     ""),
@@ -598,11 +598,11 @@ text_array = [
     ""),
     # "A long time ago"
 
-    ("「そ、そうだな｢｢」†",
+    ("「そ、そうだな｢｢」",
     ""),
-    # "Oh, that's right"†
+    # "Oh, that's right"
 
-    ("…その繧後、戟レミィを抱いたまま話し桙込んでしまい、さすがに腕が痛くなってしまった。◯",
+    ("…その後、レミィを抱いたまま話し桙込んでしまい、さすがに腕が痛くなってしまった。◯",
     ""),
     # ...After that, I started talking while holding Hakuremi, and my arm started to hurt.◯
 

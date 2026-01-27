@@ -2,25 +2,25 @@
 # Source file: 0862.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	すごい）†",
+    ("（レミィ	回秤数イベントＰＳ）閨（選択綜	すごい）",
     ""),
-    # (Game Remy: Scales Event PS) (Chooses: Amazing)†
+    # (Game Remy: Scales Event PS) (Chooses: Amazing)
 
     ("「すげえじ痰ゃねーか撃レミィ」",
     ""),
     # "You've got a lot of phlegm, right?"
 
-    ("ボールの方に高注目してたから、戟レミィが薰矢をつがえるとこを見てなかったが、３本を一瞬で冾放つなんて≠普通できないだう。",
+    ("ボールの方に高注目してたから、レミィが薰矢をつがえるとこを見てなかったが、３本を一瞬で冾放つなんて≠普通できないだう。",
     ""),
     # He was paying high attention to the good fortune of the ball, so I didn't see B where Hakuremi puts on the ball, but it's normal that he could just let out three balls in an instant.
 
-    ("５秒間に３本ｖ撃つだけで墲常識外れなのに、動く標的へ狙いまでつけてるんだ。",
+    ("５秒間に３本ｖ撃つだけで常識外れなのに、動く標的へ狙いまでつけてるんだ。",
     ""),
     # It's not common sense to fire three Vs in 5 seconds, but they're even targeting moving targets.
 
-    ("神業の世界だって。†",
+    ("神業の世界だって。",
     ""),
-    # It's a world of divine work.†
+    # It's a world of divine work.
 
     ("…なんか、思い出すほどにすげー気がしてきた。",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ah?"
 
-    ("「戟レミィが出齒ればどんな大痩煢も優泓勝するんじ痰ゃねえのか？」†",
+    ("「レミィが出齒ればどんな大痩煢も優泓勝するんじ痰ゃねえのか？」",
     ""),
     # "If you get the Remy, any big-skinned dog will win, so is there no phlegm?"
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # "Don't say it in arrogant way."
 
-    ("「エッヘッヘ…」†",
+    ("「エッヘッヘ…」",
     ""),
-    # "Ehhhh..." †
+    # "Ehhhh..." 
 
-    ("結論として、弓道の大痩には撃レミィの実力が発揮できる墲種目はなく、いつ烽も補√欠なんだそうだ。",
+    ("結論として、弓道の大痩には撃レミィの実力が発揮できる種目はなく、いつも補√欠なんだそうだ。",
     ""),
     # In conclusion, there is no event in the archery's big slender slender ability to demonstrate Ekiremi's ability, and it seems that even if he is always missing the slurping.
 
-    ("こういうの、ある意味『宝の揩持ちｕれ』ってやつだな。◯",
+    ("こういうの、ある意味『宝の持ちｕれ』ってやつだな。◯",
     ""),
     # In a sense, this kind of thing is a tampering thing called "Treasure stolen".◯
 

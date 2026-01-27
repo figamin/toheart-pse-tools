@@ -2,11 +2,11 @@
 # Source file: 00BC.txt
 
 text_array = [
-    ("（４獅月２３冾日	朝）閨（自分の部屋	明髢るい）†",
+    ("（４月２３冾日	朝）閨（自分の部屋	明髢るい）",
     ""),
-    # (April 23rd Day, morning) (My room, My name is Ming)†
+    # (April 23rd Day, morning) (My room, My name is Ming)
 
-    ("４獅月２３冾日、＄曜坥日。",
+    ("４月２３冾日、＄曜坥日。",
     ""),
     # Fourth day of the 23rd day of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the
 
@@ -18,17 +18,17 @@ text_array = [
     ""),
     # Ah, sleep...
 
-    ("それじ痰ゃ、今厓日燗も一勛日勉学に勤しみますか。†",
+    ("それじ痰ゃ、今厓日燗も一勛日勉学に勤しみますか。",
     ""),
-    # That's all, will you be studying for a little while now?†
+    # That's all, will you be studying for a little while now?
 
     ("行ってきまーす。",
     ""),
     # I'm going.
 
-    ("誰熬もいない家にそう言い残し、オレは玄関を出た。†",
+    ("誰熬もいない家にそう言い残し、オレは玄関を出た。",
     ""),
-    # I left the door after leaving this in a house where no one had ever been found.†
+    # I left the door after leaving this in a house where no one had ever been found.
 
     ("「おはよう、ち痰ゃん」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # 'Akari, who was coming from the path of the world, said.
 
-    ("「おーっす…」†",
+    ("「おーっす…」",
     ""),
-    # "Oh..." †
+    # "Oh..." 
 
     ("「…なんだか、眠そうだね」",
     ""),
@@ -54,8 +54,8 @@ text_array = [
     ""),
     # "Hehehe, big yawn."
 
-    ("あかりは顔をほこばせた。†",
+    ("あかりは顔をほこばせた。",
     ""),
-    # Akari let her face go.†
+    # Akari let her face go.
 
 ]

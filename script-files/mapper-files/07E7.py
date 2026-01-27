@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone, Scales Event 3 PS) (Selected)†
 
-    ("「そうか烽もしれないな…」",
+    ("「そうかもしれないな…」",
     ""),
     # "I see, I don't think it's hot..."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # When I muttered, Kotone Chisho-yan looked up at my passion with sad eyes.†
 
-    ("「…そうすれば、誰に烽も迷惑はかかりませんから…」",
+    ("「…そうすれば、誰にも迷惑はかかりませんから…」",
     ""),
     # "...If you do that, no one will be bothered by any trouble..."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Kotone Chishou-san..."
 
-    ("で烽もまあ、これで良かったんだ。",
+    ("でもまあ、これで良かったんだ。",
     ""),
     # And Hot too, this was good.
 
-    ("下濶手に琴音ち痰ゃんとつき№合ってたら、死ぬか烽もしれないんだ。†",
+    ("下濶手に琴音ち痰ゃんとつき№合ってたら、死ぬかもしれないんだ。†",
     ""),
     # If Kotone's sphincter is attached to the right hand, I'm sure I'll die or be able to fly.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Um... I'm sorry about this..."
 
-    ("いつ烽ものように、ぺこりとおじぎをして、琴音ち痰ゃんはきびすを返した。†",
+    ("いつものように、ぺこりとおじぎをして、琴音ち痰ゃんはきびすを返した。†",
     ""),
     # Just like a hot flash of water, Kotone Chisho-chan bowed back.†
 
-    ("彼濫女、これからずっとあんな調子なのか…。",
+    ("彼女、これからずっとあんな調子なのか…。",
     ""),
     # I wonder if the girl is going to be like that for a long time...
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Everyone in the ℃ is creepy, they are alone, their psychic powers go wild, and eventually they end up facing everyone in a stern way...
 
-    ("いい墲わけないだっ！†",
+    ("いいわけないだっ！†",
     ""),
     # There's no way it's good!†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Huh, yes...?"
 
-    ("「こんなんでいい墲わけないぜ。オレは自分を善人だなんて思っち痰ゃいねえけどな、やっぱ琴音ち痰ゃんをほっとけるほど悪人で烽もねえっ」",
+    ("「こんなんでいいわけないぜ。オレは自分を善人だなんて思っち痰ゃいねえけどな、やっぱ琴音ち痰ゃんをほっとけるほど悪人でもねえっ」",
     ""),
     # "There's no way I can't do this. I can't believe I'm a good person, but I'm a bad guy and no temper after all."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Control..." †
 
-    ("「少しで烽もコント鴻ロールができるんだ？	じ痰ゃ頑張って全泊部コント鴻ロールしちまおうぜ」",
+    ("「少しでもコント鴻ロールができるんだ？	じ痰ゃ頑張って全泊部コント鴻ロールしちまおうぜ」",
     ""),
     # "Will you be able to control Hoo with just a little bit? Let's do our best and control the whole house club."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Kotone Chisho-chan stared at me,
 
-    ("「…ありがとうございます。で烽も、無摶理なんです。今までに烽もコント鴻ロールしようとやってみたんですが、ダ＜メでした…」",
+    ("「…ありがとうございます。でも、無摶理なんです。今までにもコント鴻ロールしようとやってみたんですが、ダ＜メでした…」",
     ""),
     # "...Thank you. And Ho is also unconventional. I've tried tampering with Ho to control it, but it was a shame..."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "I got my geisha. I'll support you and tamper with it until Kotone Chisho-chan can control his psychic powers."
 
-    ("「で烽も…」",
+    ("「でも…」",
     ""),
     # "And the hot spring..."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # A complicated table: Kotone's heartfelt sphinja.†
 
-    ("「もう遅い。オレに付きまと墲われるのがイсヤなら、さっさと超能力をコント鴻ロールするしかないかんな」",
+    ("「もう遅い。オレに付きまとわれるのがイсヤなら、さっさと超能力をコント鴻ロールするしかないかんな」",
     ""),
     # "It's too late. If it's the one who's hanging out with me, then I have no choice but to control my supernatural powers quickly."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # I was able to make a promise for now.
 
-    ("オレ焜も、琴音ち痰ゃんのバックアップ態勢をととのえないとな。◯",
+    ("オレも、琴音ち痰ゃんのバックアップ態勢をととのえないとな。◯",
     ""),
     # I also have to take the back-up position for Kotone Chisho-chan.◯
 

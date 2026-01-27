@@ -2,9 +2,9 @@
 # Source file: 07D0.txt
 
 text_array = [
-    ("（ＶＳイベント	琴音ＶＳ葵）閨（葵、回秤数イベント４以降）閨（琴音、好感度	以繹上）閨（昼休み）閨（教室１	休み桙時間）†",
+    ("（ＶＳイベント	琴音ＶＳ葵）閨（葵、回秤数イベント４以降）閨（琴音、好感度	以繹上）閨（昼休み）閨（教室１	休み桙時間）",
     ""),
-    # (VS Event Kotone VS Aoi) (Aoi, number of balances after the event 4) (Kotone, likeability as above) (Lunch break) (Classroom 1, closed time) †
+    # (VS Event Kotone VS Aoi) (Aoi, number of balances after the event 4) (Kotone, likeability as above) (Lunch break) (Classroom 1, closed time) 
 
     ("昼休み。",
     ""),
@@ -14,19 +14,19 @@ text_array = [
     ""),
     # "Now, it's food."
 
-    ("オレは立ち繧上がった。",
+    ("オレは立ち上がった。",
     ""),
     # My throbbing rose to the ground.
 
-    ("急いでパンをモ買いに行かなくち痰ゃな。†",
+    ("急いでパンをモ買いに行かなくち痰ゃな。",
     ""),
-    # I'll have to hurry and buy some bread.†
+    # I'll have to hurry and buy some bread.
 
     ("「」",
     ""),
     # ""
 
-    ("♂史がやってきた。",
+    ("雅史がやってきた。",
     ""),
     # Masochi has been tampering with it.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "sorry.
 
-    ("昼休みに部のミーティングがあるんだ。今厓日はそこで食べるから」†",
+    ("昼休みに部のミーティングがあるんだ。今厓日はそこで食べるから」",
     ""),
     # There's a club meeting during lunch break.I'll eat there now on the day."
 
-    ("「あ、そう。しょーがねーな。じ痰ゃ、今厓日はひとりで学食で烽も食うか」",
+    ("「あ、そう。しょーがねーな。じ痰ゃ、今厓日はひとりで学食でも食うか」",
     ""),
     # "There's no Kasai City Episode. I'm going to eat hot springs on my own in the cafeteria."
 
@@ -50,21 +50,21 @@ text_array = [
     ""),
     # "sorry,"
 
-    ("♂史は申し墲わけなさそうな顔で、教室から出ていった。†",
+    ("雅史は申しわけなさそうな顔で、教室から出ていった。",
     ""),
-    # Masochi looked unequivocal and left the classroom.†
+    # Masochi looked unequivocal and left the classroom.
 
     ("さてと。",
     ""),
     # Well then.
 
-    ("そんじ痰ゃこっち烽も食堂にｌかいますか。",
+    ("そんじ痰ゃこっちも食堂にｌかいますか。",
     ""),
     # Will there be a lot of sputum in the cafeteria too?
 
-    ("オレはポケットに手を突っ桙込み、だらだらした足鞫取闔りで教室を出た。†",
+    ("オレはポケットに手を突っ桙込み、だらだらした足鞫取りで教室を出た。",
     ""),
-    # My geira stuck her hands into her pockets and left the classroom with her legs sloppy.†
+    # My geira stuck her hands into her pockets and left the classroom with her legs sloppy.
 
     ("昼の食堂。",
     ""),
@@ -74,13 +74,13 @@ text_array = [
     ""),
     # It's crowded with students.
 
-    ("オレは取闔りあえず食柏券をモ買い、引き換えた奄ランチを乗せたトレイを揩持って、空いた席を探した。",
+    ("オレは取りあえず食柏券をモ買い、引き換えた奄ランチを乗せたトレイを持って、空いた席を探した。",
     ""),
     # I went to buy a meal ticket and took a togeki Rei with the Amami lunch I had redeemed, and looked for an available seat.
 
-    ("さて、どこに座高うか。†",
+    ("さて、どこに座高うか。",
     ""),
-    # So, where shall we sit?†
+    # So, where shall we sit?
 
     ("おっ、空席地帯発見。",
     ""),
@@ -94,19 +94,19 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("そこで気がついた。†",
+    ("そこで気がついた。",
     ""),
-    # That's when I realized it.†
+    # That's when I realized it.
 
     ("偶然だが、その隣近葛所に、葵ち痰ゃんと琴音ち痰ゃんのふたりがいた。",
     ""),
     # By chance, there were two people in the nearby Kuzu area, Aoi Chisho-chan and Kotone Chisho-chan.
 
-    ("見たとこ、ふたりいっしょって感じじ痰ゃないが、′かい№合寘わせに座っている。†",
+    ("見たとこ、ふたりいっしょって感じじ痰ゃないが、′かい№合寘わせに座っている。",
     ""),
-    # When I saw it, the two of them couldn't feel phlegm, but they sat there in a slut.†
+    # When I saw it, the two of them couldn't feel phlegm, but they sat there in a slut.
 
-    ("諱よし、諱取闔りあえずどっちかの隣に座高う。",
+    ("諱よし、諱取りあえずどっちかの隣に座高う。",
     ""),
     # Okay, I sat next to either side.
 

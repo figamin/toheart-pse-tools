@@ -2,9 +2,9 @@
 # Source file: 08B9.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	帰闍り道１	ＬＶ１）閨（選択綜	いない）†",
+    ("（レミィ	回秤数イベント	帰闍り道１	ＬＶ１）閨（選択綜	いない）",
     ""),
-    # (The Remy Scale Event Return Road 1 LV1) (Selection Soto)†
+    # (The Remy Scale Event Return Road 1 LV1) (Selection Soto)
 
     ("「いまのとこ、いないぜ」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Really?"
 
-    ("戟レミィの表﨣情が、急に明髢るくなる。†",
+    ("レミィの表﨣情が、急に明髢るくなる。",
     ""),
-    # The public sentiment of Hajime suddenly became clear.†
+    # The public sentiment of Hajime suddenly became clear.
 
     ("「聞いてどーすんだよ」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Arrogant Secret Hemp"
 
-    ("「じ痰ゃあ、戟レミィは好きなрヤツ、いるのか？」",
+    ("「じ痰ゃあ、レミィは好きなрヤツ、いるのか？」",
     ""),
     # "Ah, is there any guy you like?"
 
@@ -38,27 +38,27 @@ text_array = [
     ""),
     # "Hey hey, it's a pretty secret mortalist."
 
-    ("「Ｎ盾ｏＮ盾ｏ、少しだけ秘密なの」†",
+    ("「Ｎ盾ｏＮ盾ｏ、少しだけ秘密なの」",
     ""),
-    # "N Shield oN Shield o, it's a little secret" †
+    # "N Shield oN Shield o, it's a little secret" 
 
     ("「ったく、どっちにし話が進まねえぞ」",
     ""),
     # "At that's the case, which way, the b story won't progress."
 
-    ("「いいの。進まなくて烽も」",
+    ("「いいの。進まなくても」",
     ""),
     # "It's fine. I can't proceed, so hot."
 
-    ("「わかった墲わかった。この話はここで終尞わり」",
+    ("「わかったわかった。この話はここで終尞わり」",
     ""),
     # "I understand, I understand. This story ends here."
 
-    ("キリがないので、もうやめよう。†",
+    ("キリがないので、もうやめよう。",
     ""),
-    # There's no Kigatari, so stop tampering.†
+    # There's no Kigatari, so stop tampering.
 
-    ("その冾日は、戟レミィといい話したけど、最纃後まで『驕秘密』ってやつが気になっていた。",
+    ("その冾日は、レミィといい話したけど、最纃後まで『驕秘密』ってやつが気になっていた。",
     ""),
     # On that day, I talked about B-B and B-B with War Remi, but I was curious about the kind of guy who said "Arata Secret" until the very end.
 

@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "That's not you."
 
-    ("「はは、委員長は高ロンリーが好きだ烽もんな」",
+    ("「はは、委員長は高ロンリーが好きだもんな」",
     ""),
     # "Haha, the chairman is a hot guy who likes Takaron Gata Lee."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Ah, kun..."
 
-    ("オレは手を繧上げて、委員長と別れた。◯",
+    ("オレは手を上げて、委員長と別れた。◯",
     ""),
     # My heart lifted my hands and parted ways with the chairman.◯
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri° Kaku Scales Event 2F LV3)Seri (Carrior 1)†
 
-    ("教室を出たとこで、＠栖瑞謳先輩にｉった。",
+    ("教室を出たとこで、＠栖瑞謳先輩にった。",
     ""),
     # When I left the classroom, I got to @Sumi-Senpai-senpai.
 

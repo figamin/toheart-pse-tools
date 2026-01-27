@@ -2,11 +2,11 @@
 # Source file: 0B38.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント６）閨（真っ暗）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント６）閨（真っ暗）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, battle for the battle for the scales event 6) (pitch black)†
+    # (Aya∴Ka challenges Aya∴Ka, battle for the battle for the scales event 6) (pitch black)
 
-    ("いつ烽ものように、公衆電話から綾∴香に連腰絡を入齠れた。",
+    ("いつものように、公衆電話から綾∴香に連腰絡を入齠れた。",
     ""),
     # Just like a hot topic, Aya∴Ka was connected to her from a public phone.
 
@@ -18,13 +18,13 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「もし烽もし、オレ」",
+    ("「もしもし、オレ」",
     ""),
     # "If it's hot, I'm super excited."
 
-    ("「ああ、お疲齡れさま」†",
+    ("「ああ、お疲齡れさま」",
     ""),
-    # "Ah, thank you for getting tired" †
+    # "Ah, thank you for getting tired" 
 
     ("「当然、今厓日燗も勝縁負の申し桙込みだ」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Okay, it's b I want."
 
-    ("「じ痰ゃあ、いつ烽もの場鰹所でな」",
+    ("「じ痰ゃあ、いつもの場鰹所でな」",
     ""),
     # "Ah, phlegm, when should I go to the bonito area?"
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "At the moment, the final day of the promised day is, how confident are you?"
 
-    ("「ぼちぼち」†",
+    ("「ぼちぼち」",
     ""),
-    # "Slightly" †
+    # "Slightly" 
 
-    ("「どうとで烽もとれる嘯答えね」",
+    ("「どうとでもとれる嘯答えね」",
     ""),
     # "How can you get some hot water?"
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "I'm willing to win."
 
-    ("「それ烽もあいまいね」",
+    ("「それもあいまいね」",
     ""),
     # "That's also vague."
 
-    ("「まあ、禔口で言って烽もしょうがないことだ。",
+    ("「まあ、禔口で言ってもしょうがないことだ。",
     ""),
     # "Well, I mean, I don't have to say it on my own terms.
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # Please check it out with a test session."
 
-    ("「それ烽もそうね」†",
+    ("「それもそうね」",
     ""),
-    # "That's the case with Hot" †
+    # "That's the case with Hot" 
 
     ("「じ痰ゃーな、遅れんなよ」",
     ""),
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # It's easy to get phlegm.
 
-    ("電話は切齔れた。†",
+    ("電話は切齔れた。",
     ""),
-    # The phone was turned off.†
+    # The phone was turned off.
 
     ("諱よしっ。",
     ""),
     # I'm fine with that.
 
-    ("ぐっと揩拳を握闊り、普虚空を見上げる。",
+    ("ぐっと拳を握闊り、普虚空を見上げる。",
     ""),
     # He clenches his fist and raises his eyes on the vanguard.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # There is already no cloud in my heart.
 
-    ("いざ、戦いの場へお烽もむかん。◯",
+    ("いざ、戦いの場へおもむかん。◯",
     ""),
     # Now, let's go to the battlefield.◯
 
@@ -130,8 +130,8 @@ text_array = [
     ""),
     # When I said that Segata Rio bowed well.
 
-    ("どっちかというと、綾∴香謐よりセリオのほうが育ちが良いって感じだな。†",
+    ("どっちかというと、綾∴香謐よりセリオのほうが育ちが良いって感じだな。",
     ""),
-    # Rather, it seems that Segata Rio has grown better than Aya∴Kami.†
+    # Rather, it seems that Segata Rio has grown better than Aya∴Kami.
 
 ]

@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "You're looking at me with a great eye, Kotone Chishonan..."
 
-    ("「やっぱり、間瘧違ってるんでしょうか…？」",
+    ("「やっぱり、間違ってるんでしょうか…？」",
     ""),
     # "As expected, it's a different story, so let's go with the essay...?"
 
-    ("「それはな、たぶん大人が間瘧違ってるんだ」",
+    ("「それはな、たぶん大人が間違ってるんだ」",
     ""),
     # "That's probably because the ecchi adults are different."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "What is the amusement park?"
 
-    ("「ああ。それを知迺らねえのか、認めたくねえのか、蛛大人はいつまで烽も昔の話をしてんだよ」",
+    ("「ああ。それを知迺らねえのか、認めたくねえのか、蛛大人はいつまでも昔の話をしてんだよ」",
     ""),
     # "Yeah. Do you not know that or don't want to admit it? How long will the adults be talking about the old days of the world?"
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "a bit…"
 
-    ("「そっか…。オレ焜も琴音ち痰ゃんみたいな子をゲーセンに連齪れていくのは痰違うって思うしな。無摶理に行こうなんて言甯わねえよ」",
+    ("「そっか…。オレも琴音ち痰ゃんみたいな子をゲーセンに連齪れていくのは痰違うって思うしな。無摶理に行こうなんて言甯わねえよ」",
     ""),
     # "I see... I think it's different to having a child who looks like Kotone Chishonan to the arcade, which is different. I don't want to say I'll go without saying anything."
 
-    ("「ありがとうございます…。で烽も、さんとなら、ごいっしょして烽もいいですよ」",
+    ("「ありがとうございます…。でも、さんとなら、ごいっしょしてもいいですよ」",
     ""),
     # "Thank you... And if it's with you, you'll be happy to have a smack and a smack together."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Kotone Chisho-chan smiled softly.†
 
-    ("「こっちこそサンキャ。そんときは誘嵭わせて烽もらうぜ」",
+    ("「こっちこそサンキャ。そんときは誘嵭わせてもらうぜ」",
     ""),
     # "This is the one who is Sankya. I'll invite you to come and get a hot pot."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # Hmm... after all, Kotone Chisho-yan is having a hard time with arcades...
 
-    ("まあ、オレ的に烽もゲームに熱白してる琴音ち痰ゃんなんてイ＜メージじ痰ゃねえからな。◯",
+    ("まあ、オレ的にもゲームに熱白してる琴音ち痰ゃんなんてイ＜メージじ痰ゃねえからな。◯",
     ""),
     # Well, I'm really excited about Kotone's sphin-chan, who's also passionate about the game, so it's just so amazing.◯
 

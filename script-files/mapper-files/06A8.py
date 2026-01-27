@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "...Mrrrrr is really a nibble."
 
-    ("「…ううっ、すみません。どう烽も機敏な動きを要＠することは苦闍手で…」†",
+    ("「…ううっ、すみません。どうも機敏な動きを要＠することは苦闍手で…」†",
     ""),
     # "...Uh, sorry. It's hard to do anything that requires agile movements..."
 

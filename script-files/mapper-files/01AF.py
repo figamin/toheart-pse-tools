@@ -2,11 +2,11 @@
 # Source file: 01AF.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	そう言甯われると、そんな気が…）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	そう言甯われると、そんな気が…）",
     ""),
-    # (Akari Scales Event: Leaves School) (A When I hear that, I feel that way...)†
+    # (Akari Scales Event: Leaves School) (A When I hear that, I feel that way...)
 
-    ("「…そう言甯われると、そんな気がしないで烽もないような」",
+    ("「…そう言甯われると、そんな気がしないでもないような」",
     ""),
     # "...When you say that, you don't feel that way and it seems like there's no heat."
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # My gei-re agreed, so I suddenly lost track of Fukukata Fu, who bought the mov.
 
-    ("「おじさーん、これひとつくださーい」†",
+    ("「おじさーん、これひとつくださーい」",
     ""),
-    # "Uncle, please give me one of this"†
+    # "Uncle, please give me one of this"
 
-    ("オレは烽もう一回、じっくりとクマチャウを観察してみた。",
+    ("オレはもう一回、じっくりとクマチャウを観察してみた。",
     ""),
     # I took another thorough observation of the bear chow.
 
@@ -30,23 +30,23 @@ text_array = [
     "…"),
     # "..."
 
-    ("個性的…ではあるな。†",
+    ("個性的…ではあるな。",
     ""),
-    # It's unique...it's not that.†
+    # It's unique...it's not that.
 
     ("「お待たせー！」",
     ""),
     # "Please keep me waiting!"
 
-    ("クマチャウの袋（ただのビニール袋…）を揩持ったあかりが、うれしそうに戻ってきた。",
+    ("クマチャウの袋（ただのビニール袋…）を持ったあかりが、うれしそうに戻ってきた。",
     ""),
     # Akari returned with a bear chow bag (just a plastic bag...) happily as she held the bear chow bag.
 
-    ("蛛大人気の墲わりには、空きスペースが、いまあかりがモ買ったひとつ分しかない。†",
+    ("蛛大人気のわりには、空きスペースが、いまあかりがモ買ったひとつ分しかない。",
     ""),
-    # Despite the hugely popular shore, there is only one free space Imakari bought.†
+    # Despite the hugely popular shore, there is only one free space Imakari bought.
 
-    ("帰闍りの道で烽も、あかりは始終繽上機刹嫌だった。◯",
+    ("帰闍りの道でも、あかりは始終繽上機刹嫌だった。◯",
     ""),
     # On the way back, Hoo was also a moment ago, and Akari was always at a loss for the moment.◯
 

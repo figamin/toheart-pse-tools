@@ -2,9 +2,9 @@
 # Source file: 0483.txt
 
 text_array = [
-    ("（志保	回秤数イベント	２階１）閨（選択綜	すげえ！）†",
+    ("（志保	回秤数イベント	２階１）閨（選択綜	すげえ！）",
     ""),
-    # (Shiho Scales Event, 2nd Floor 1) (Shosho, amazing!)†
+    # (Shiho Scales Event, 2nd Floor 1) (Shosho, amazing!)
 
     ("「すげえ！	何点謫取ったんだ？」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Perfect Apocalypse"
 
-    ("「１００点か！？	グラマーの方か？	英皷語の方阨か？」†",
+    ("「１００点か！？	グラマーの方か？	英皷語の方阨か？」",
     ""),
-    # "100 points!? Is it a good for Gubanquet Lamar? Is it a good fortune in English??"†
+    # "100 points!? Is it a good for Gubanquet Lamar? Is it a good fortune in English??"
 
     ("「両菶方謨よ」",
     ""),
@@ -34,27 +34,27 @@ text_array = [
     ""),
     # "Amazing phlegm!"
 
-    ("冝日本人で烽も曹国鼾語で１００点謫取骼るのは入しい。",
+    ("冝日本人でも曹国鼾語で１００点謫取骼るのは入しい。",
     ""),
     # It's a Japanese person who also scores 100 points in Cao Guangzhou.
 
-    ("そう考えれば撃レミィのすごさが墲わかる。",
+    ("そう考えれば撃レミィのすごさがわかる。",
     ""),
     # If you think about it that way, you can see how amazing Ekirei is.
 
-    ("「これからは、英皷語は撃レミィに教えて烽もらった方がいいか烽もね」",
+    ("「これからは、英皷語は撃レミィに教えてもらった方がいいかもね」",
     ""),
     # "From now on, I'll be able to teach English-Japanese language to Gekiremi and get some good luck with the word "Yo""
 
-    ("「か烽もな…」",
+    ("「かもな…」",
     ""),
     # "And even hot..."
 
-    ("とか言ってると、う墲わさの張本人がやってきた。†",
+    ("とか言ってると、うわさの張本人がやってきた。",
     ""),
-    # As I said that, the person who was involved in the Umawasa started tampering with me.†
+    # As I said that, the person who was involved in the Umawasa started tampering with me.
 
-    ("「なあ、戟レミィ」",
+    ("「なあ、レミィ」",
     ""),
     # "Hey, huh Remie."
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # "You're English-Japanese and Gubanquet Lamar, 100 points."
 
-    ("「Ａ窒ｒ	凵ｙ盾ｏ浮ｕ	入窒ｒ奄ｉ盾ｏ浮ｕ入？	轣冗談でしょ？」",
+    ("「Ａ窒ｒ	凵ｙ盾ｏ浮ｕ	入窒ｒ奄盾ｏ浮ｕ入？	轣冗談でしょ？」",
     ""),
     # "A nitrogen shield o floats into the b nitrogen shield o floats into the b nitrogen shield o floats into the bang? Is it a joke, slut?"
 
-    ("戟レミィは小首をかしげた。",
+    ("レミィは小首をかしげた。",
     ""),
     # Karemy managed to shake her head.
 
-    ("「なんでだよ？」†",
+    ("「なんでだよ？」",
     ""),
     # "Why?"
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("それを聞いたオレは、疑惑の痰眼差しを志保へｌけた。†",
+    ("それを聞いたオレは、疑惑の痰眼差しを志保へｌけた。",
     ""),
-    # When I heard this, I gave Shiho a suspicious phlegm gaze.†
+    # When I heard this, I gave Shiho a suspicious phlegm gaze.
 
-    ("「あれぇ〜？	あたしの聞き間瘧違いかなぁ？」",
+    ("「あれぇ〜？	あたしの聞き間違いかなぁ？」",
     ""),
     # "Huh? I wonder if it's a bit of a sinister thing when I hear it?"
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "I've been so sorry."
 
-    ("そう言って、志保はすたこらと逃げ出していった。†",
+    ("そう言って、志保はすたこらと逃げ出していった。",
     ""),
-    # With that in mind, Shiho ran away.†
+    # With that in mind, Shiho ran away.
 
     ("「ったく、デマ娘め…」",
     ""),
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Is it 100 points?"
 
-    ("「わりぃ。それはこっちの勘瘧違いだった」",
+    ("「わりぃ。それはこっちの勘違いだった」",
     ""),
     # "She's not good. That was a different hunch."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Sodeska. I'm a female c."
 
-    ("「ほんと墲わりぃな、ぬかｊびさせちまって」",
+    ("「ほんとわりぃな、ぬかｊびさせちまって」",
     ""),
     # "It's really nice, let me sniff it."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "never mind,"
 
-    ("…ったく、戟レミィに謝んのは志保だうが。◯",
+    ("…ったく、レミィに謝んのは志保だうが。◯",
     ""),
     # ...It's Shiho who apologizes to Karen Remie.◯
 

@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「じ痰ゃあ、いっしょに帰汲うぜ」",
+    ("「じ痰ゃあ、いっしょに帰うぜ」",
     ""),
     # "Ah, I'll return to the slut."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "The owner's occupation?"
 
-    ("「そうだ。お前熨も烽もう高校２年なんだから、少しはそういうこと烽も考えてるだ」",
+    ("「そうだ。お前熨ももう高校２年なんだから、少しはそういうことも考えてるだ」",
     ""),
     # "That's right. You're already in your second year of B high school, so I'm thinking about that kind of thing."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Akari is troubled by the Shinbuken.†
 
-    ("「現実的に言うと、やっぱり≠普通のＯＬかな。で烽も学校の先生とか、人に烽ものを教える仕鮪事には憧齠れたりするなあ。あと、保母さんとか、調搨理師、デザイナーとかに烽もなりたいし…」",
+    ("「現実的に言うと、やっぱり≠普通のＯＬかな。でも学校の先生とか、人にものを教える仕鮪事には憧齠れたりするなあ。あと、保母さんとか、調搨理師、デザイナーとかにもなりたいし…」",
     ""),
     # "Realistically, I guess I'm just a regular office lady. And I also admire school teachers and tuna who teaches hot foods to others. I also want to become a nursery school teacher, a courier, a designer, or something like that..."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Well, well 﨟I basically want to try tampering with something like that..."
 
-    ("「ったく。じ痰ゃあ、氈次の質竡問。いま目の前に自由にできるお烽金が一億円あります。それをどう使いますか？」",
+    ("「ったく。じ痰ゃあ、氈次の質竡問。いま目の前に自由にできるお金が一億円あります。それをどう使いますか？」",
     ""),
     # "Ahhh. Ah, the quality of the slut is. There is 100 million yen of free-to-use hot money right in front of you. How would you use that?"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Oh, Kita-Kaikyo Duck?"
 
-    ("「フォアグラ？	キャャビア？	そ、それと烽もトリャフか烽も…」",
+    ("「フォアグラ？	キャャビア？	そ、それともトリャフかも…」",
     ""),
     # "Foaggu Feast? Ciavia? And also, Hot, Togata Ryav or Hot..."
 
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "Pe, Kita-Kaikyo Duck"†
 
-    ("「北椁京ダックな。じ痰ゃあ、氈次の質竡問。目の前に大きいつづらと、小さいつづら、£ぐらいのつづらがある。どれかひとつ、おみやげに揩持って帰驪るとしたら、どれを選ぶ？」",
+    ("「北椁京ダックな。じ痰ゃあ、氈次の質竡問。目の前に大きいつづらと、小さいつづら、ぐらいのつづらがある。どれかひとつ、おみやげに持って帰驪るとしたら、どれを選ぶ？」",
     ""),
-    # "It's a Kita-Kaikyo duck. It's a sphemous question. There are big spurts, small spurts, and £-spurts. If you were to bring one of them back with you, which would you choose?"
+    # "It's a Kita-Kaikyo duck. It's a sphemous question. There are big spurts, small spurts, and -spurts. If you were to bring one of them back with you, which would you choose?"
 
     ("「小さいつづら」†",
     ""),

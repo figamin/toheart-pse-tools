@@ -2,19 +2,19 @@
 # Source file: 0764.txt
 
 text_array = [
-    ("（琴音	好感度イベント	ＰＳ）†",
+    ("（琴音	好感度イベント	ＰＳ）",
     ""),
-    # (Kotone Likeability Event PS)†
+    # (Kotone Likeability Event PS)
 
     ("「さん、こっちです…」",
     ""),
     # "Mr., this one..."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
-    ("昼休み、琴音ち痰ゃんを訪ねて教室に行ったオレは、彼濫女にｒ鋳へ誘嵭われた。",
+    ("昼休み、琴音ち痰ゃんを訪ねて教室に行ったオレは、彼女にｒ鋳へ誘嵭われた。",
     ""),
     # During lunch break, I went to the classroom to visit Kotone Chisho-yan, and was invited by a woman to the r-casting.
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # He says he can now use his supernatural powers.
 
-    ("今すぐにで烽も見て欲しいってことで、オレは琴音ち痰ゃんについてきた。†",
+    ("今すぐにでも見て欲しいってことで、オレは琴音ち痰ゃんについてきた。",
     ""),
-    # I wanted you to see Kotone right away, so I came along with Kotone Chisho-chan.†
+    # I wanted you to see Kotone right away, so I came along with Kotone Chisho-chan.
 
     ("「…ここでやってみます」",
     ""),
@@ -34,13 +34,13 @@ text_array = [
     ""),
     # Kotone Chisho-chan started sending me back to the bench.
 
-    ("ベンチの繧上にスケッチブック｢｢愛用のかな？",
+    ("ベンチの上にスケッチブック｢｢愛用のかな？",
     ""),
     # A sketchbook on the bench is "Is it your favorite?
 
-    ("｢｢を閉じたまま置いて、その繧上にピンポン玉を乗せる。†",
+    ("｢｢を閉じたまま置いて、その上にピンポン玉を乗せる。",
     ""),
-    # "Leave "closed and place a ping pong ball on it.†
+    # "Leave "closed and place a ping pong ball on it.
 
     ("「それをどうすんだ？」",
     ""),
@@ -50,13 +50,17 @@ text_array = [
     ""),
     # "...I'll use it now..."
 
-    ("琴音ち痰ゃんは、目を閉じた。†",
+    ("琴音ち痰ゃんは、目を閉じた。",
     ""),
-    # Kotone Chisho-yan closed his eyes.†
+    # Kotone Chisho-yan closed his eyes.
 
-    ("沈黙…。†",
+    ("沈黙…。",
     ""),
-    # silence….†
+    # silence….
+
+    ("・",
+    ""),
+    # ・
 
     ("・",
     ""),
@@ -65,38 +69,34 @@ text_array = [
     ("・",
     ""),
     # ・
-
-    ("・†",
-    ""),
-    # ・†
 
     ("なにかが起こった。",
     ""),
     # Something happened.
 
-    ("諱よく墲わからない。",
+    ("諱よくわからない。",
     ""),
     # I don't really understand the name.
 
-    ("ま墲わりの音が無くなったような、不思議な感覚。",
+    ("まわりの音が無くなったような、不思議な感覚。",
     ""),
     # It felt like the sound of the magnificent one has disappeared.
 
-    ("耳のｒで、キーンと烽もシーンと烽も音が鳴っている。",
+    ("耳のｒで、キーンともシーンとも音が鳴っている。",
     ""),
     # The sound of the keen, the scene and the roe were heard in the r of the ears.
 
-    ("オレは息を飲んだ。†",
+    ("オレは息を飲んだ。",
     ""),
-    # I took a breath.†
+    # I took a breath.
 
     ("氈次の瞬間、ピンポン玉がゆっくりと転がったんだ。",
     ""),
     # The next moment, the ping pong jade rolled slowly.
 
-    ("そして、スケッチブックの端で止まった。†",
+    ("そして、スケッチブックの端で止まった。",
     ""),
-    # Then it stopped at the edge of the sketchbook.†
+    # Then it stopped at the edge of the sketchbook.
 
     ("「…終尞わりました」",
     ""),
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # "...Is your superpower now?"
 
-    ("そう言甯われて烽も、ピンポン玉がちょっと転がっただけだ…。†",
+    ("そう言甯われても、ピンポン玉がちょっと転がっただけだ…。",
     ""),
-    # When I was told that, the ping pong balls just fell on the spurt...†
+    # When I was told that, the ping pong balls just fell on the spurt...
 
-    ("「浴風か何かのせいだと思いますか？」",
+    ("「風か何かのせいだと思いますか？」",
     ""),
     # "Do you think it's because of the bathing atmosphere or something?"
 
@@ -122,9 +122,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレはあいまいにうなずく。†",
+    ("オレはあいまいにうなずく。",
     ""),
-    # My head nodded vaguely.†
+    # My head nodded vaguely.
 
     ("「もう一度、行きます…」",
     ""),
@@ -134,29 +134,29 @@ text_array = [
     ""),
     # With that, Kotone Chishoyan closed his eyes again.
 
-    ("瘁例の耳鳴り｢｢。†",
+    ("瘁例の耳鳴り｢｢。",
     ""),
-    # The tinnitus was a miraculous throbbing: ".†
+    # The tinnitus was a miraculous throbbing: ".
 
     ("「あっ…！」",
     ""),
     # "Ah...!"
 
-    ("今度こそ、見た。†",
+    ("今度こそ、見た。",
     ""),
-    # This time I saw it.†
+    # This time I saw it.
 
     ("ピンポン玉はスケッチブックのｒ將央に戻髢ると、小さな円を描いて回濶り出したんだ。",
     ""),
     # The ping pong ball went back to the sketchbook's ryuuen and started spinning in a small circle.
 
-    ("浴風が≠吹いたとこで、こんな不自然な動き方は絶対しない。",
+    ("風が≠吹いたとこで、こんな不自然な動き方は絶対しない。",
     ""),
     # When the bathing atmosphere blew, this unnatural movement would never be tampered with.
 
-    ("くるくるとピンポン玉は転がり、やがて止まった。†",
+    ("くるくるとピンポン玉は転がり、やがて止まった。",
     ""),
-    # The ping pong ball rolled around and then stopped.†
+    # The ping pong ball rolled around and then stopped.
 
     ("琴音ち痰ゃんが無言なのでそっちの方を見骭ると、轣顔を真っ赤にしてふらりと倒齠れる寸前だった。",
     ""),
@@ -166,31 +166,31 @@ text_array = [
     ""),
     # "Kotone-chisou-chan!"
 
-    ("間一髪、オレは琴音ち痰ゃんを抱きとめた。†",
+    ("間一髪、オレは琴音ち痰ゃんを抱きとめた。",
     ""),
-    # At the last minute, I held Kotone Chisho-chan.†
+    # At the last minute, I held Kotone Chisho-chan.
 
     ("「…すみません。少し、諱頑張闥りすぎました…」",
     ""),
     # "...Sorry. I tried so hard for a little bit..."
 
-    ("琴音ち痰ゃんの自由になる力は、ピンポン玉のような、軽くて丸い烽ものをｌまった方阜に転がすのが限界迥らしい。",
+    ("琴音ち痰ゃんの自由になる力は、ピンポン玉のような、軽くて丸いものをｌまった方阜に転がすのが限界迥らしい。",
     ""),
     # It seems that Kotone's sphin-chan's power to free itself is to roll a light, round, hot object like a ping pong ball into Fukukata Fu.
 
-    ("ましてや、回迚らせるなんてことは今の彼濫女にはハイレベル過ぎたんだ。",
+    ("ましてや、回迚らせるなんてことは今の彼女にはハイレベル過ぎたんだ。",
     ""),
     # What's more, tampering with and causing him to spurt was a huge cry for the current boyfriend and girl.
 
-    ("オレに信じさせようとして、限界を超えて力んだので、めまいがしたらしい。†",
+    ("オレに信じさせようとして、限界を超えて力んだので、めまいがしたらしい。",
     ""),
-    # He apparently felt dizzy as he tried to make me believe him, but he pushed beyond his limits.†
+    # He apparently felt dizzy as he tried to make me believe him, but he pushed beyond his limits.
 
     ("しかし、自分の意思で超能力を使うってことは、なんて入しいんだ。",
     ""),
     # However, it's important to have used psychic powers of your own will.
 
-    ("あんな、動いて魔当たり前みたいな物を動かすだけで…額には汗がにじんで、頭に撃血が繧上ったのか顔は真っ赤。",
+    ("あんな、動いて魔当たり前みたいな物を動かすだけで…額には汗がにじんで、頭に撃血が上ったのか顔は真っ赤。",
     ""),
     # Just moving and moving something that was obvious to me...sweat oozes on my forehead, and my face is red, as if blood had creeped up in my head.
 
@@ -198,15 +198,15 @@ text_array = [
     ""),
     # I was almost able to bring him dizziness and collapse.
 
-    ("そうまでしてオレに見て欲しかったのか…。†",
+    ("そうまでしてオレに見て欲しかったのか…。",
     ""),
-    # Maybe he wanted me to watch it like that...†
+    # Maybe he wanted me to watch it like that...
 
     ("「すげえじ痰ゃねーか。たしかにオレ、見たぜ？	あれは琴音ち痰ゃんが自分で動かしたんだ？」",
     ""),
     # "You really have so much phlegm. I've seen it really hard, right? Was Kotone Chisho-chan moving it herself?"
 
-    ("「はい…。で烽も、そのせいでさんに迷惑を…」",
+    ("「はい…。でも、そのせいでさんに迷惑を…」",
     ""),
     # "Yes... And Kano is also a nuisance for that..."
 
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # "What are you talking about Kotone Chisho-yan? Wouldn't it be better to lie down on the bench, huh?"
 
-    ("まだ寄闃りかかったままの琴音ち痰ゃんに声をかけた。†",
+    ("まだ寄闃りかかったままの琴音ち痰ゃんに声をかけた。",
     ""),
-    # I called out to Kotone Chisho-yan, who was still approaching.†
+    # I called out to Kotone Chisho-yan, who was still approaching.
 
     ("「…蛛大苟丈夫です。このままで…」",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # "I see..."
 
-    ("そんなやりとりをした直纈後だった。†",
+    ("そんなやりとりをした直纈後だった。",
     ""),
-    # It was after such a direct message was being tampered with.†
+    # It was after such a direct message was being tampered with.
 
     ("「ああ〜〜〜〜〜〜っ！！」",
     ""),
@@ -238,39 +238,39 @@ text_array = [
     ""),
     # "picture?"
 
-    ("いきなりの叫び声に、オレたちは慌てて声の方をｌいた。†",
+    ("いきなりの叫び声に、オレたちは慌てて声の方をｌいた。",
     ""),
-    # The sudden screams made us panicked and threw our fortunes in a flurry of voices.†
+    # The sudden screams made us panicked and threw our fortunes in a flurry of voices.
 
-    ("「ちょっと！	なに！？	あんたたち汲昼間っからなに抱き№合ってんのよ！？」",
+    ("「ちょっと！	なに！？	あんたたち昼間っからなに抱き№合ってんのよ！？」",
     ""),
     # "Ahhhh! What!? What are you guys hugging me in the middle of the day?!"
 
-    ("「し、志保！？	こ、これはだな｢｢」†",
+    ("「し、志保！？	こ、これはだな｢｢」",
     ""),
-    # "S-Shiho!? This is it ""†
+    # "S-Shiho!? This is it ""
 
     ("「、あんたとうとう下演級生にまで手を出したのね〜っ！？」",
     ""),
     # "You've finally even started working on a classmate!"
 
-    ("「おいっ、人聞きの悪いこというな！」†",
+    ("「おいっ、人聞きの悪いこというな！」",
     ""),
     # "Hey, you say you're a bad person listening!"
 
-    ("その繧後、めまいでふらついた琴音ち痰ゃんを支えただけだと志保に揩理解させるまで、たっぷり汲昼休みの残闔りを使ってしまった。",
+    ("その後、めまいでふらついた琴音ち痰ゃんを支えただけだと志保に理解させるまで、たっぷり昼休みの残りを使ってしまった。",
     ""),
     # After that, I used the time I spent a lot of time after lunch break until Shiho realized that he had only supported Kotone Chisho-chan, who was shaking with dizziness.
 
-    ("しかし、琴音ち痰ゃんは一煦歩だけ前に進んだんだ。†",
+    ("しかし、琴音ち痰ゃんは一煦歩だけ前に進んだんだ。",
     ""),
-    # However, Kotone Chisho-yan moved forward by just one step.†
+    # However, Kotone Chisho-yan moved forward by just one step.
 
-    ("もっと練習して大きな力を出せるようにすると琴音ち痰ゃん烽も言ってたし、これは冾期待できるな。",
+    ("もっと練習して大きな力を出せるようにすると琴音ち痰ゃんも言ってたし、これは冾期待できるな。",
     ""),
     # Kotone Chisho-yan-cho also said that he would practice for good fortune and be able to gain greater strength, so I can hope for this.
 
-    ("オレ的には桙満足な汲昼休みだった。◯",
+    ("オレ的には桙満足な昼休みだった。◯",
     ""),
     # It was a very satisfying lunch break.◯
 

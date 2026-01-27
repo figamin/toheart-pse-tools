@@ -2,7 +2,7 @@
 # Source file: 0391.txt
 
 text_array = [
-    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見てない）閨（選択綜Ｂ	じ痰ゃあ、また明坙日な	の続き）†",
+    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見てない）閨（選択綜Ｂ	じ痰ゃあ、また明坙日な	の続き）",
     ""),
     # (Tomoko's Scales Event 2F LV1) (I haven't seen the Likeability Event 8) (Continued from Selection B: The Scales, I'm a Ming-Shuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # He called out in a friendly manner from his back.
 
-    ("「…くん」†",
+    ("「…くん」",
     ""),
-    # "...kun" †
+    # "...kun" 
 
     ("「今厓日燗もひとりでお帰闍りか？	たまには誰かと帰ったらどうだ？」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # The chairman replies in annoyance.
 
-    ("じつに委員長迺らしい反梍応だ。†",
+    ("じつに委員長迺らしい反梍応だ。",
     ""),
-    # It's a truly anti-world situation that is typical of the Chairman.†
+    # It's a truly anti-world situation that is typical of the Chairman.
 
     ("「はは、じ痰ゃあ、また明坙日な！」",
     ""),

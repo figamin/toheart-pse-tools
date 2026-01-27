@@ -2,21 +2,21 @@
 # Source file: 047A.txt
 
 text_array = [
-    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	し痰ゃーねえな）†",
+    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	し痰ゃーねえな）",
     ""),
-    # (Shiho's exam return day PS) (Something is so phlegm)†
+    # (Shiho's exam return day PS) (Something is so phlegm)
 
     ("「し痰ゃーねえな」",
     ""),
     # "No phlegms."
 
-    ("結局オレ焜も遊ぶんだからな。",
+    ("結局オレも遊ぶんだからな。",
     ""),
     # In the end, I'm also playing with it.
 
-    ("どこで遊ぶかの痰違いだけだ。†",
+    ("どこで遊ぶかの痰違いだけだ。",
     ""),
-    # It's just a difference in where you play.†
+    # It's just a difference in where you play.
 
     ("「おっし。",
     ""),
@@ -26,17 +26,17 @@ text_array = [
     ""),
     # Where are you going?”
 
-    ("「なんだ。そんなこと烽もｌめてねえのか」",
+    ("「なんだ。そんなこともｌめてねえのか」",
     ""),
     # "What? You don't even have that kind of thing?"
 
-    ("「今ならｌめさせてあげる墲わよ〜」",
+    ("「今ならｌめさせてあげるわよ〜」",
     ""),
     # "I'll let you get me now."
 
-    ("なんて言ってるが、あいつの頭のｒじ痰ゃ、もう段謦取闔りが出女医酪繧ｪってるだう。†",
+    ("なんて言ってるが、あいつの頭のｒじ痰ゃ、もう段謦取りが出女医酪ｪってるだう。",
     ""),
-    # That's what he says, but the phlegm on his head is already a female doctor.†
+    # That's what he says, but the phlegm on his head is already a female doctor.
 
     ("そのくらい、遊びに関して頭の回転が≠早いрヤツだからな。",
     ""),

@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "...You're strong. When it's Ming Shun, you're b."
 
-    ("「で烽も、志保は…」",
+    ("「でも、志保は…」",
     ""),
     # "And even Ho, Shiho..."
 
-    ("「まあ心配すんなって。たまたま獅虫の盾居葛所が悪かったんだ」",
+    ("「まあ心配すんなって。たまたま虫の盾居葛所が悪かったんだ」",
     ""),
     # "Well, don't worry. It just happened to be a bad lionfish shield."
 

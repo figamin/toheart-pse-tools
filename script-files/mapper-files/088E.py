@@ -2,7 +2,7 @@
 # Source file: 088E.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階２）閨（選択綜	あいさつして別れる）†",
+    ("（レミィ	回秤数イベント	２階２）閨（選択綜	あいさつして別れる）†",
     ""),
     # (Geki Remie, 2nd floor 2) (Choice Greetings and Parting)†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Yes, Sbb, y shield o float!"
 
-    ("戟レミィは元気に手を振ってくれた。◯",
+    ("レミィは元気に手を振ってくれた。◯",
     ""),
     # Karemi waved cheerfully.◯
 

@@ -50,7 +50,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「それが墲わかるのはギ鴻ロチンで切逅られたことのあるрヤツだけだからな。",
+    ("「それがわかるのはギ鴻ロチンで切逅られたことのあるрヤツだけだからな。",
     ""),
     # "The only people who can understand that are known are those who have been met with Gi Hong Rochin.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Ha, that's it.
 
-    ("なにギ鴻ロチンで盛關り繧上がってんだ、オレは。",
+    ("なにギ鴻ロチンで盛關り上がってんだ、オレは。",
     ""),
     # What's the rise of Giho Lotin? I'm super excited.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Uh, uh, it's fine!
 
-    ("私のほう烽もただｒ学のとき、そういう友だちがいたってだけの話だから。うん、それだけっ」",
+    ("私のほうもただｒ学のとき、そういう友だちがいたってだけの話だから。うん、それだけっ」",
     ""),
     # My friend also had friends like that when I was in R-School.Yes, that's all."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("ちょっと困った顔をする揩理女緒ち痰ゃん。",
+    ("ちょっと困った顔をする理女緒ち痰ゃん。",
     ""),
     # A thud looks awkward.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # I was surprised.†
 
-    ("見骭ると、自動車は飛び出した揩理女緒ち痰ゃんの体スレスレで停まっていた。",
+    ("見骭ると、自動車は飛び出した理女緒ち痰ゃんの体スレスレで停まっていた。",
     ""),
     # When I looked over, the car was stopped as it ran out of fire with the intense replies of the body of the car.
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # Unhappy...hey...†
 
-    ("アント純ワネットかはと烽もかく、不幸なのはたしかだな。",
+    ("アント純ワネットかはともかく、不幸なのはたしかだな。",
     ""),
     # It's true that Anto's pure Wannet is also a bit unfortunate.
 
-    ("一度、お払いで烽もして烽もらったほうがいいんじ痰ゃねーか？",
+    ("一度、お払いでもしてもらったほうがいいんじ痰ゃねーか？",
     ""),
     # Is it better to pay once and get some hot water?
 

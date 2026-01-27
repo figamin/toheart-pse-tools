@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Amidst the bustle, I picked up a kara bag.†
 
-    ("だらだらと廊下を烽歩く。",
+    ("だらだらと廊下を歩く。",
     ""),
     # I walked around the hallways lazily.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # The students who have returned home are completely different.†
 
-    ("知った顔にで烽も出初えればいいが、そんなこと烽もなく、階段の前にｗた。†",
+    ("知った顔にでも出初えればいいが、そんなこともなく、階段の前にｗた。†",
     ""),
     # I wish I could get some hot springs on my familiar face, but there was no hot spring, so I laughed at him in front of the stairs.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("クラスの男子が手を繧上げて、玄関から出て行った。†",
+    ("クラスの男子が手を上げて、玄関から出て行った。†",
     ""),
     # The boys at the Crown Rath lifted their hands and left the front door.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # I'm going back on my own.
 
-    ("意識して考えると寂しい烽ものがあるな。",
+    ("意識して考えると寂しいものがあるな。",
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 

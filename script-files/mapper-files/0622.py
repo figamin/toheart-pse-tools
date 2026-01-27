@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "And, but..."
 
-    ("「そんな大したことはやっち痰ゃいねーだ？	感謝の気搴持ちなら、電話で烽も十分さ」",
+    ("「そんな大したことはやっち痰ゃいねーだ？	感謝の気搴持ちなら、電話でも十分さ」",
     ""),
     # "You can't do anything big like that, don't you have to tamper with me? If you're feeling grateful, you can also get enough of the phone."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("なんだか、ちょっと胸がき繧ゅんとなった。",
+    ("なんだか、ちょっと胸がきゅんとなった。",
     ""),
     # My heart was shining in a slurp.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「諱よかったら、またこうして電話してｗいよ。いつで烽も鰍相闡手になるからさ。なんなら今度、オレとどっか遊びに行こうぜ？」",
+    ("「諱よかったら、またこうして電話してｗいよ。いつでも鰍相闡手になるからさ。なんなら今度、オレとどっか遊びに行こうぜ？」",
     ""),
     # "If you like it, please call me again lol. When will Hot be a friend of mine? Let's go and play somewhere next time with me?"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # I,
 
-    ("わたし、とて烽も…」",
+    ("わたし、とても…」",
     ""),
     # I, too, hot..."
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # Well, it's tampering.
 
-    ("また今度、電話がかかってきたときにで烽も。◯",
+    ("また今度、電話がかかってきたときにでも。◯",
     ""),
     # I'll be back again the next time I get a call.◯
 

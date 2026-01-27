@@ -2,9 +2,9 @@
 # Source file: 0686.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ｃ	いや、オレは悪いрヤツなんだ）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ｃ	いや、オレは悪いрヤツなんだ）",
     ""),
-    # (Macyuruchi, Scales Event 2F LV1) (Select Soku C, I'm a bad guy)†
+    # (Macyuruchi, Scales Event 2F LV1) (Select Soku C, I'm a bad guy)
 
     ("「いや、じつは、オレは悪いрヤツなんだ」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "picture?"
 
-    ("と、マルチは苦笑する。†",
+    ("と、マルチは苦笑する。",
     ""),
-    # Makruchi smiles wryly.†
+    # Makruchi smiles wryly.
 
     ("「じつはオレは、親切を浮装って翌女の子の気をひこうとする最瘢低の悪いрヤツなんだ。ずっとオレを慕ってくれている翌女をキープしつつ、他の翌女に手を出したりするなんて朝飯前だ」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「とにかく悪いрヤツなんだ」†",
+    ("「とにかく悪いрヤツなんだ」",
     ""),
     # "He's just a bad guy"
 
@@ -38,8 +38,8 @@ text_array = [
     ""),
     # "You're not kidding me, I'm not jealous of phlegm..."
 
-    ("うーん、ま、いっか。†",
+    ("うーん、ま、いっか。",
     ""),
-    # Hmm, well, it's fine.†
+    # Hmm, well, it's fine.
 
 ]

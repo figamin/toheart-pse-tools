@@ -10,7 +10,7 @@ text_array = [
     ""),
     # It was after the morning, when I came to the station with a banquet and love banquet.
 
-    ("ぼんやり烽歩いていると、",
+    ("ぼんやり歩いていると、",
     ""),
     # As I was walking around in a silence,
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Oops"
 
-    ("前から烽歩いてきた翌女の人と、すれ痰違いざまに肩をぶつけてしまった。†",
+    ("前から歩いてきた翌女の人と、すれ痰違いざまに肩をぶつけてしまった。†",
     ""),
     # The next time I had been walking around for a while, I bumped my shoulders against the woman who had slurped out of my mouth.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Ah, no."
 
-    ("とくに気にしたふう烽もなく、浴女の人はそのまま烽歩いていく。",
+    ("とくに気にしたふうもなく、女の人はそのまま歩いていく。",
     ""),
     # Without any particular concern, the bather continued walking around the hot springs.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("足熨もとになにか獅落ちてる。",
+    ("足熨もとになにか落ちてる。",
     ""),
     # Something lion has fallen on my feet.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Spicy = Shima Toonko?
 
-    ("…っつーと、オレがいつ烽も聞いてる奄ラジオのパーソナリティと同じ名前じ痰ゃねーか。",
+    ("…っつーと、オレがいつも聞いてる奄ラジオのパーソナリティと同じ名前じ痰ゃねーか。",
     ""),
     # ...I wonder if I have the same name and phlegm as the Amano Radio personality that I've heard about.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # I caught up with that disdain and called out to me.†
 
-    ("「もし烽もし」",
+    ("「もしもし」",
     ""),
     # "If it's hot."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # I said, showing my pass case.†
 
-    ("「えっ、あーっ、п私のです！	あれえ、いつ獅落としたんだ！？」",
+    ("「えっ、あーっ、п私のです！	あれえ、いつ落としたんだ！？」",
     ""),
     # "What, ah, пIt's me! What, when did you lionize? b!?"
 
@@ -110,15 +110,15 @@ text_array = [
     ""),
     # "I wonder if there's no phlegm when I bumped into you earlier."
 
-    ("「あ、そうか烽も…。すみません、ありがとうございます」",
+    ("「あ、そうかも…。すみません、ありがとうございます」",
     ""),
     # "Ah, I see, Hot too... Sorry, thank you."
 
-    ("この声は、まさに奄ラジオその烽もの。",
+    ("この声は、まさに奄ラジオそのもの。",
     ""),
     # This voice is truly Amano Radio's hot topic.
 
-    ("間瘧違いない。†",
+    ("間違いない。†",
     ""),
     # It must be awkward.†
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # I said, wondering which one was it?
 
-    ("「う墲わ、マジ？」",
+    ("「うわ、マジ？」",
     ""),
     # "Uh, seriously?"
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "Ah, I'm just a fan.
 
-    ("ラジオ、いつ烽もたのしみに聞いてます」",
+    ("ラジオ、いつもたのしみに聞いてます」",
     ""),
     # I've been listening to the radio at any time."
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Yay! I'm not phlegm ""
 
-    ("オレは鞄からノートとペンを取闔り出して、みねち痰ゃんに渡した。†",
+    ("オレは鞄からノートとペンを取り出して、みねち痰ゃんに渡した。†",
     ""),
     # I took a notebook and pen from my bag and handed it to Minecchi Sho-chan.†
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "Please write your heart out as big as you want to the obvious insults of that notebook."
 
-    ("「で烽も、これ、学校で使うんじ痰ゃ」",
+    ("「でも、これ、学校で使うんじ痰ゃ」",
     ""),
     # "And I'll use this at school too."
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "Is that so? """
 
-    ("き繧ゅっき繧ゅっ。",
+    ("きゅっきゅっ。",
     ""),
     # It's so hot.
 
@@ -214,11 +214,11 @@ text_array = [
     ""),
     # Oh, masterful.
 
-    ("さすが手慣れた烽もんだ。",
+    ("さすが手慣れたもんだ。",
     ""),
     # It's just a used hot spring.
 
-    ("こういうのって、やっぱり練習する烽もんなんだうか。†",
+    ("こういうのって、やっぱり練習するもんなんだうか。†",
     ""),
     # This kind of thing is a hot spring that practices fortune after all.†
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "Yah, thank you."
 
-    ("「で烽も、梶リスナーの方とこんな出初いをしたのは奄初めてですよ。すぐに墲わかりました？」",
+    ("「でも、梶リスナーの方とこんな出初いをしたのは奄初めてですよ。すぐにわかりました？」",
     ""),
     # "And this is the first time I've ever had such a first time with Kaji listener Fukukata. Did you get it right away?"
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "The weir radio is just as normal."
 
-    ("「じ痰ゃあ、あのボケっぷり烽も≠普段のままなんですか？」",
+    ("「じ痰ゃあ、あのボケっぷりも≠普段のままなんですか？」",
     ""),
     # "Ah, that idiotic spirit is still the same as usual?"
 
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # "thank you.
 
-    ("ラジオのほう烽も、また聞いてくださいね。それじ痰ゃ」",
+    ("ラジオのほうも、また聞いてくださいね。それじ痰ゃ」",
     ""),
     # Please listen to the radio again.That's it, phlegm."
 
@@ -318,15 +318,15 @@ text_array = [
     ""),
     # "That's it, phlegm."
 
-    ("みねち痰ゃんは手を振關り獅去っていった。†",
+    ("みねち痰ゃんは手を振關り去っていった。†",
     ""),
     # Minechon waved his hand and left.†
 
-    ("うおー、有名人にｉったぜ。",
+    ("うおー、有名人にったぜ。",
     ""),
     # Wow, I've become a celebrity.
 
-    ("しっかりノートにサインして烽もらったし。",
+    ("しっかりノートにサインしてもらったし。",
     ""),
     # I signed my notebook and got some hot water.
 

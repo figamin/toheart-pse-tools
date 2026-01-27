@@ -2,11 +2,11 @@
 # Source file: 0341.txt
 
 text_array = [
-    ("（智子	好感度イベント１回目）閨（選択綜Ａ	あかりに写させて烽もらう	の続き）†",
+    ("（智子	好感度イベント１回目）閨（選択綜Ａ	あかりに写させてもらう	の続き）†",
     ""),
     # (Tomoko's first favorability event) (Continued from Chosen Sou A: Copy it to Akari and get it hot)†
 
-    ("オレはあかりの席へと烽歩いていった。",
+    ("オレはあかりの席へと歩いていった。",
     ""),
     # My guts walked to Akari's seat.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # As expected of Akari, a serious child.
 
-    ("％笂問に苦寀戦しながら烽も、ち痰ゃんと自分だけでプリントに取闔り組んでいた。",
+    ("％笂問に苦寀戦しながらも、ち痰ゃんと自分だけでプリントに取り組んでいた。",
     ""),
     # While fighting hardships with %Koto, Hoo also worked together on Pugata Rint on his own.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "It's a sputum, you have to do it yourself."
 
-    ("「オレが繧代幾苦闍手なの知ってんだ」",
+    ("「オレが代幾苦闍手なの知ってんだ」",
     ""),
     # "I know that I'm a tough guy at all times."
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # "...What is it? You're not going to show it?"
 
-    ("「そ、そうじ痰ゃないけど、だって、п私の嘯答え、多分間瘧違ってるから。あんまり自信ないし…」",
+    ("「そ、そうじ痰ゃないけど、だって、п私の嘯答え、多分間違ってるから。あんまり自信ないし…」",
     ""),
     # "I don't have to worry about cleaning it, but my answer is probably because I've been wrong for a while. I'm not very confident..."
 
-    ("「いいって、いいって。こういうのは適度に間瘧違ってたほうがそれらしいんだ」",
+    ("「いいって、いいって。こういうのは適度に間違ってたほうがそれらしいんだ」",
     ""),
     # "It's okay, it's okay. It seems that this kind of thing is moderately different."
 
-    ("「けど、同じ間瘧違いをしてたら先生に…」",
+    ("「けど、同じ間違いをしてたら先生に…」",
     ""),
     # "But if you make the same difference, the teacher will..."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "...There's no more ecstasy anymore.
 
-    ("わかったよ。じ痰ゃあ、終尞わったら席まで揩持ってってあげるから」",
+    ("わかったよ。じ痰ゃあ、終尞わったら席まで持ってってあげるから」",
     ""),
     # I understand.I'll bring it to my seat when it's finished."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Ah, that's it, that's the phlegm."
 
-    ("「で烽も、本末当はだめなんだよ、こういうの。自分のためになんないんだから」",
+    ("「でも、本末当はだめなんだよ、こういうの。自分のためになんないんだから」",
     ""),
     # "And even Hot is no good at the end of the day, this is what it is. There's nothing for me."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Yes, yes, I know."
 
-    ("「ち痰ゃん、本末当はр私謗より頭いいくせに、いつ烽もすぐ鰍投げ出しち痰ゃうんだから」",
+    ("「ち痰ゃん、本末当はр私謗より頭いいくせに、いつもすぐ鰍投げ出しち痰ゃうんだから」",
     ""),
     # "It's a bit of a swearing experience, even though I'm smarter than I slander, I always throw away the shaves right away."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Your brains are as smart as you say, don't you have to suffer like this?"
 
-    ("オレは手を繧上げて、自分の席へと戻った。",
+    ("オレは手を上げて、自分の席へと戻った。",
     ""),
     # My geira lifted my hand and returned to my seat.
 

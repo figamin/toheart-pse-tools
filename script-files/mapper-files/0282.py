@@ -2,11 +2,11 @@
 # Source file: 0282.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ｂ	じ痰ゃあ、閨占って烽もらうか）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ｂ	じ痰ゃあ、閨占ってもらうか）†",
     ""),
     # (Seri° Kaku, Scales, 2F, LV1) Li (Select B, I'll get a fortune teller) †
 
-    ("「せっかくだし、じ痰ゃあ、閨占って烽もらうか」",
+    ("「せっかくだし、じ痰ゃあ、閨占ってもらうか」",
     ""),
     # "I'm going to have to go through it, so I'll have to get a fortune teller."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Huh? Would you like to go to the Okaryu Ruto Kenyu class room?
 
-    ("それと烽も教室で占いましょうかって？」",
+    ("それとも教室で占いましょうかって？」",
     ""),
     # Also, should I use the fortune-telling session in the classroom?”
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Hmm, that's right...†
 
-    ("部室を見学するっての烽もいいけど、さすがに桙時間がかかりそうだしな。",
+    ("部室を見学するってのもいいけど、さすがに桙時間がかかりそうだしな。",
     ""),
     # The hot weather of visiting the club room is nice, but it looks like it will take a lot of time.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # But when I asked him out of nowhere, he was sure to predict his fortune, he's a very sudden senior.
 
-    ("なんで、わざ墲わざ…？†",
+    ("なんで、わざわざ…？†",
     ""),
     # Why a single move...?†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # The other day, I replied that I was interested in Okaryuuto.
 
-    ("それで、わざ墲わざｗてくれたんだ。",
+    ("それで、わざわざｗてくれたんだ。",
     ""),
     # So he made a move lol.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("蛛大熨金搴持ちのおｏ様っていう墲わりには、律儀というか、素直な人なんだな。†",
+    ("蛛大熨金搴持ちのおｏ様っていうわりには、律儀というか、素直な人なんだな。†",
     ""),
     # For a man named O-sama, who has a large gift wrap, he is a polite, or rather an honest person.†
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # This morning, I replied that I was interested in Okaryuuto.
 
-    ("それで、わざ墲わざｗてくれたんだ。",
+    ("それで、わざわざｗてくれたんだ。",
     ""),
     # So he made a move lol.
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # Hmm.
 
-    ("蛛大熨金搴持ちのおｏ様っていう墲わりには、律儀というか、素直な人なんだな。†",
+    ("蛛大熨金搴持ちのおｏ様っていうわりには、律儀というか、素直な人なんだな。†",
     ""),
     # For a man named O-sama, who has a large gift wrap, he is a polite, or rather an honest person.†
 
-    ("諱先輩の『なにを占いますか』という質竡問に、オレは、う〜んと悩みに悩んで、氏月並みだが、進学か就職か、どっちを選んだほうがいいかを占って烽もらうことにした。◯",
+    ("諱先輩の『なにを占いますか』という質竡問に、オレは、う〜んと悩みに悩んで、氏月並みだが、進学か就職か、どっちを選んだほうがいいかを占ってもらうことにした。◯",
     ""),
     # When I heard my senior's question about what to fortune-telling, I was really worried about my concerns and decided to foresee which one should I choose, whether to go to college or get a job, and get a good one.◯
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # Mysterious cards like Starry, Moho, and Sunny Hoso are turned over.
 
-    ("いま、この机の繧上には、これからのオレの運命が展開されてるって墲わけだ。",
+    ("いま、この机の上には、これからのオレの運命が展開されてるってわけだ。",
     ""),
     # It seems that the fate of my future is unfolding on this desk right now.
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # That's strange.†
 
-    ("カード焜も気になったが、それ以繹上に、オレの目はカードを繰骭る先輩へと引き寄せられていった。",
+    ("カードも気になったが、それ以繹上に、オレの目はカードを繰骭る先輩へと引き寄せられていった。",
     ""),
     # I was also curious about the card cover, but after that, my eyes were drawn to my senior who was playing cards.
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「で、どうなんだ、閨占いの汲結果は？」†",
+    ("「で、どうなんだ、閨占いの結果は？」†",
     ""),
     # "So, what's the result of the fortune telling?"
 
@@ -246,11 +246,11 @@ text_array = [
     ""),
     # Eventually, Senpai Kimi finished cleaning up the cards.†
 
-    ("「わざ墲わざｗてくれて、ありがとな、諱先輩」",
+    ("「わざわざｗてくれて、ありがとな、諱先輩」",
     ""),
     # "Thank you for taking the initiative lol, Senpai, my name is."
 
-    ("そう言ってオレが立ち繧上がると、",
+    ("そう言ってオレが立ち上がると、",
     ""),
     # When I said that, my throbbing rises,
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "Huh? Can I ask again lol?
 
-    ("ああ、そり痰ゃ烽もちん」",
+    ("ああ、そり痰ゃもちん」",
     ""),
     # Ah, sputum is hot and hot."
 

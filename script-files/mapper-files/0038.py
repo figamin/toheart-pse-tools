@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I'm not sure about Saturday night.
 
-    ("こんなに≠早く終尞わる烽もんな。",
+    ("こんなに≠早く終尞わるもんな。",
     ""),
     # It's a hot thing that will end so quickly.
 
-    ("＊淫俣冾ｱうあって欲しい烽もんだ。†",
+    ("＊淫俣冾ｱうあって欲しいもんだ。†",
     ""),
     # *I want you to see Inumata.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It's just tampering, but that's all.
 
-    ("べつに誰と出初うこと烽もなかった。†",
+    ("べつに誰と出初うこともなかった。†",
     ""),
     # I never had any chance to come out with anyone.†
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # The girl waved her hand out of the entrance after the banquet.†
 
-    ("もし誰かに出初ったらいっしょに帰汲うかと思ったが、誰熬もいないみてーだな。",
+    ("もし誰かに出初ったらいっしょに帰うかと思ったが、誰熬もいないみてーだな。",
     ""),
     # I thought if I had first appeared with someone, I would return to the Ebi, but I'd see no one there.
 
-    ("し痰ゃーない、ひとりで帰汲う。†",
+    ("し痰ゃーない、ひとりで帰う。†",
     ""),
     # There's no phlegm, I'll come back on my own.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # That night.
 
-    ("飯食って、浴風呂入って、サッパリしてから、潤居間でごごテレビ見て…。",
+    ("飯食って、風呂入って、サッパリしてから、潤居間でごごテレビ見て…。",
     ""),
     # I ate dinner, took a bath, went straight to the laze, then watched the b-b-b-movie in the living room...
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Good night to tamper with.
 
-    ("そして、３獅月８冾日が過ぎていく…。◯",
+    ("そして、３月８冾日が過ぎていく…。◯",
     ""),
     # And then, the 8th day of the 3rd Shizuki passed...◯
 

@@ -2,9 +2,9 @@
 # Source file: 049B.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階３）閨（５／１固定）閨（下駄箱）†",
+    ("（志保	回秤数イベント	１階３）閨（５／１固定）閨（下駄箱）",
     ""),
-    # (Shiho Scales Event, 1st floor 3) (5/1 fixed) (shoe cabinet) †
+    # (Shiho Scales Event, 1st floor 3) (5/1 fixed) (shoe cabinet) 
 
     ("下駄箱で志保を見かけた。",
     ""),

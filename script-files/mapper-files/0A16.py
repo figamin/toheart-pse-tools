@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (B' It's a wait number of people, right?)†
 
-    ("「誰かと待ち№合寘わせで烽もしてんのか？」",
+    ("「誰かと待ち№合寘わせでもしてんのか？」",
     ""),
     # "Are you even trying to get somebody to wait and join the waiting list?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Yeah, that's right. Ah, no!"
 
-    ("掾理女緒ち痰ゃんは、はっと顔を繧上げた。",
+    ("掾理女緒ち痰ゃんは、はっと顔を上げた。",
     ""),
     # The girl suddenly lifted her face.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Ah, hey."
 
-    ("走闡り獅去驪る揩理女緒ち痰ゃん。†",
+    ("走闡り去驪る理女緒ち痰ゃん。†",
     ""),
     # The lion leaps forward.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Bitan.
 
-    ("′こうから揩理女緒ち痰ゃんの短い悲鳴とと烽もに、鈍い音が聞こえてきた。",
+    ("′こうから理女緒ち痰ゃんの短い悲鳴とともに、鈍い音が聞こえてきた。",
     ""),
     # From here, a short scream and a dull sound began to be heard in the air.
 

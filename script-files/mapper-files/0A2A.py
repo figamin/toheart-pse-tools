@@ -10,15 +10,15 @@ text_array = [
     ""),
     # Well, is that okay?
 
-    ("とくに用沫事がある墲わけで烽もないし。",
+    ("とくに用沫事があるわけでもないし。",
     ""),
     # There are particularly many droplets, so there are no hot water.
 
-    ("昼£メシどきのあ墲わただしいときに墲わざ墲わざ声をかけること烽もないだう。",
+    ("昼メシどきのあわただしいときにわざわざ声をかけることもないだう。",
     ""),
     # When you're having a meal at lunchtime, you'll never be able to call out to someone.
 
-    ("そうしている間に、掾理女緒ち痰ゃんはｌこうへと烽歩いていってしまった。†",
+    ("そうしている間に、掾理女緒ち痰ゃんはｌこうへと歩いていってしまった。†",
     ""),
     # While doing this, the shojoyan began to walk away.†
 

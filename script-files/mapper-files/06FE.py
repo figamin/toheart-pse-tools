@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Is it a massage?"
 
-    ("Ａ	もんで烽もらう",
+    ("Ａ	もんでもらう",
     ""),
     # A Get a hot pot
 
-    ("Ｂ	たたいて烽もらう",
+    ("Ｂ	たたいてもらう",
     ""),
     # B. Hit and get hot
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Yes, I'm innocent" †
 
-    ("「それでは、お烽もみします」†",
+    ("「それでは、おもみします」†",
     ""),
     # "Well then, I'll take a look at the hot springs."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Well, let's get started" †
 
-    ("もみ烽もみ烽もみ…。	セリオは真面目に烽もんでいる。	セリオは無表﨣情に烽もんでいる。",
+    ("もみもみもみ…。	セリオは真面目にもんでいる。	セリオは無表﨣情にもんでいる。",
     ""),
     # Crack and burnt...Segata Rio is seriously hot.Segata Rio is in a state of unrequited sentiment.
 

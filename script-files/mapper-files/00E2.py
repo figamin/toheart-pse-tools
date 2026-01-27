@@ -2,7 +2,7 @@
 # Source file: 00E2.txt
 
 text_array = [
-    ("（３獅月２３冾日	昼）閨（商店街に行く）閨（商店街）†",
+    ("（３月２３冾日	昼）閨（商店街に行く）閨（商店街）†",
     ""),
     # (3rd 23rd day of the month) Lee (going to the shopping district) Lee (shopping district) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # I went to the shopping district.
 
-    ("ぶらっと烽歩きながら、ドラッグストアの前で立ち止まる。",
+    ("ぶらっと歩きながら、ドラッグストアの前で立ち止まる。",
     ""),
     # We stopped in front of the banquet rug store as we strolled around.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Shall I buy some me?†
 
-    ("え〜っと、いつ烽も使ってるのはこれだな。",
+    ("え〜っと、いつも使ってるのはこれだな。",
     ""),
     # Well, this is the one I've always used in hot water.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # Has new products also been released?
 
-    ("じ痰ゃ、今回はこっちを獅試してみようか。†",
+    ("じ痰ゃ、今回はこっちを試してみようか。†",
     ""),
     # I'm not sure if it's a phlegm, let's try this one this time.†
 
-    ("お烽もむに整髪料を手に取骼ると、",
+    ("おもむに整髪料を手に取骼ると、",
     ""),
     # When I picked up the hair styling material from Hot Mom B,
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # When I hear the message, Shiho will be there.†
 
-    ("「なになに？	ほおほお、いまどきの男子たるや、身だしなみ烽も大切だかんね〜」",
+    ("「なになに？	ほおほお、いまどきの男子たるや、身だしなみも大切だかんね〜」",
     ""),
     # "What? You see, the tampering with modern men and their appearance are important."
 
-    ("志保はオレのモ買おうとしている烽ものを見て、ニсヤニсヤしながらこっちへやってきた。†",
+    ("志保はオレのモ買おうとしているものを見て、ニсヤニсヤしながらこっちへやってきた。†",
     ""),
     # Shiho saw the hot food he was trying to buy a real-life mochi, and smugly and sniffed over me.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Oh, what are you trying to say?"
 
-    ("「どれどれ、お姉さんが選んであげる墲わよ。え〜と、これなんか、いい感じ？」",
+    ("「どれどれ、お姉さんが選んであげるわよ。え〜と、これなんか、いい感じ？」",
     ""),
     # "Anyway, the lady will choose you. Um, does this look good?"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Oh, did you get a lot of pounding? That's all phlegm."
 
-    ("「言ってるそばからやってんじ痰ゃねーって。だいたい、それはいまオレが揩持ってるだ」†",
+    ("「言ってるそばからやってんじ痰ゃねーって。だいたい、それはいまオレが持ってるだ」†",
     ""),
     # "I'm going to have to stomp on the side of you saying that. I'm pretty sure I'm going to have that right now." †
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # There's no phlegm...this!”
 
-    ("「だから、それはオレが手に揩持ってるっての」†",
+    ("「だから、それはオレが手に持ってるっての」†",
     ""),
     # "That's why I'm holding it in my hand."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "That's the first thing you took to the tampering b--- do you have. Do you have any memory, this bird head!"
 
-    ("「な…、なによなによう！	ここには２墲種類しか置いてないの〜っ！？」",
+    ("「な…、なによなによう！	ここには２種類しか置いてないの〜っ！？」",
     ""),
     # "What... what?! We only have two types here!"
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "Don't leave it, my name. Don't notice it now."
 
-    ("「だました墲わね〜っ！？」",
+    ("「だましたわね〜っ！？」",
     ""),
     # "You're cheating me, right?!"
 
-    ("「なに烽もだましち痰ゃいねー諱よ。ぱっと見り痰ゃ、わかるだ」",
+    ("「なにもだましち痰ゃいねー諱よ。ぱっと見り痰ゃ、わかるだ」",
     ""),
     # "What are you fooling around with your pet? You can see it at first glance, you can see it."
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # What are you doing about it?
 
-    ("半分あきれながら烽も、志保の≠早≡合点ぶりがおかしく、笑ってしまった。◯",
+    ("半分あきれながらも、志保の≠早≡合点ぶりがおかしく、笑ってしまった。◯",
     ""),
     # Although he was half-abashed, even Hou laughed, it was strange that Shiho's ≠ Hayato≡ fits well.◯
 

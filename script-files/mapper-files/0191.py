@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Let me turn myself in. I won't do anything wrong"
 
-    ("「で、で烽も、まだр私が犯人ってｌまった墲わけじ痰ゃ…」",
+    ("「で、でも、まだр私が犯人ってｌまったわけじ痰ゃ…」",
     ""),
     # "And so, even though I'm still the culprit, I'm not going to have any phlegms..."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "that…"
 
-    ("「お前のお母さん烽もモいてるぞ。『あかり、優しいあのこに戻っておくれ』ってな」",
+    ("「お前のお母さんもモいてるぞ。『あかり、優しいあのこに戻っておくれ』ってな」",
     ""),
     # "Your mother, Ho is crying too. 'Akari, let me go back to that kind person b'"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「オレ焜も見損なったぞ。まさかお前が殺しをやるような翌女だったとは…」",
+    ("「オレも見損なったぞ。まさかお前が殺しをやるような翌女だったとは…」",
     ""),
     # "I missed out on my hard work. I never thought you were the next woman who was going to kill you..."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I understand..." †
 
-    ("こういうあかりの『もし烽も話』に最纃後までつき№合うと、蛛大葬最纃後は変な方阜のドラマに発展する。",
+    ("こういうあかりの『もしも話』に最纃後までつき№合うと、蛛大葬最纃後は変な方阜のドラマに発展する。",
     ""),
     # If you follow this "If You're a Hot" to the very end, it will develop into a strange banquet llama of Fukukata Fu after the final day of the funeral.
 

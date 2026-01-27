@@ -34,7 +34,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え、どっち烽もしたことあるって？	おお、やっぱりな」",
+    ("「え、どっちもしたことあるって？	おお、やっぱりな」",
     ""),
     # "Eh, have you ever had a hot pot? Oh, I guess so."
 
@@ -42,7 +42,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「どっち烽も苦闍手ですって？	ナハハハ」",
+    ("「どっちも苦闍手ですって？	ナハハハ」",
     ""),
     # "All the hot springs are hard work, right? Nahahaha."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # That's what makes it seem like a senior.†
 
-    ("「で烽もダンスとかやるんだ？	早舞踏悼とか烽も行ったりすんの？	行ったことある？	へえ、すっげーな」",
+    ("「でもダンスとかやるんだ？	早舞踏悼とかも行ったりすんの？	行ったことある？	へえ、すっげーな」",
     ""),
     # "So, do you also do dance and tamper with? Do you also do early dance or koto? Have you been there? Wow, that's amazing."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「諱先輩のドレス姿、オレ焜も見てみたいぜ」†",
+    ("「諱先輩のドレス姿、オレも見てみたいぜ」†",
     ""),
     # "I'd like to see my slutty replies, my slutty replies too."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Yeah.
 
-    ("いかに烽もおｏ様っぽい。",
+    ("いかにもおｏ様っぽい。",
     ""),
     # It looks like O-san, too.
 

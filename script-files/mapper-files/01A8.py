@@ -2,15 +2,15 @@
 # Source file: 01A8.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ｂ	そっか、じ痰ゃーな）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ｂ	そっか、じ痰ゃーな）",
     ""),
-    # (Light scale event 1F) (B I see, it's sputum)†
+    # (Light scale event 1F) (B I see, it's sputum)
 
-    ("待ってて烽もしょーがない。",
+    ("待っててもしょーがない。",
     ""),
     # Wait, there's no hot bro.
 
-    ("諱先に帰汲う。",
+    ("諱先に帰う。",
     ""),
     # I'll return to my name.
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "Yeah, sputum is sputum."
 
-    ("あかりはにっこり笑って、掃恆除の担亦当謫区諡域へとｌかっていった。†",
+    ("あかりはにっこり笑って、掃恆除の担亦当謫区諡域へとｌかっていった。",
     ""),
-    # Akari smiled and walked over to the area of ​​the scavengers who were the ones who were the ones who were able to remove the fires.†
+    # Akari smiled and walked over to the area of ​​the scavengers who were the ones who were the ones who were able to remove the fires.
 
-    ("まあ、行き烽も帰闍り烽もいっしょじ痰ゃ、さすがにｉ話すること烽もなくなってくるからな。",
+    ("まあ、行きも帰闍りもいっしょじ痰ゃ、さすがに話することもなくなってくるからな。",
     ""),
     # Well, there are also hot springs and hot springs, and there are so many hot springs that I can talk about.
 
-    ("べつに、わざ墲わざ待ってまで、いっしょに帰驪ること烽もあるまい。",
+    ("べつに、わざわざ待ってまで、いっしょに帰驪ることもあるまい。",
     ""),
     # In fact, there are times when you can wait and return to the slut.
 

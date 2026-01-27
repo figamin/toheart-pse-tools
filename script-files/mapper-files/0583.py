@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan, honest, devoted, and hard work forever, is the next girl who makes you want to support her.
 
-    ("知闥りあったの烽もなにかの盾縁だし、できれば痰例の同好拷設立に、なんらかの形で協力してやりたい烽もんだ。＝",
+    ("知闥りあったのもなにかの盾縁だし、できれば痰例の同好拷設立に、なんらかの形で協力してやりたいもんだ。＝",
     ""),
     # The knowledge that he had is also a shield, and if possible, he would like to cooperate in some way to establish a good torture for the same-sexual torture.=
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I guess that means I'm really hoping that I'll get into love with the banquet.
 
-    ("いや、もしかしたら、いま烽も練習しながら、オレがｗ磯翌ﾌを待ってるか烽もしれない。†",
+    ("いや、もしかしたら、いまも練習しながら、オレがｗ磯翌ﾌを待ってるかもしれない。†",
     ""),
     # It's probably because I'm currently practicing fortune, but I'm really excited lol. I'm waiting for the next day to see him.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # So, what are you going to do?
 
-    ("前みたく、見学だけして帰って烽もいいが、あれでけっこう彼濫女の練習の妨げになってるんだよな。†",
+    ("前みたく、見学だけして帰ってもいいが、あれでけっこう彼女の練習の妨げになってるんだよな。†",
     ""),
     # Just like before, I just went to see it and went home and it was nice, but that's pretty much hindering my boyfriend's good luck practice.†
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # First, the main purpose of Aoi Chisho-chan is to gather the number of people who are in the same way.†
 
-    ("しかし、％箔部するのは簡単だとして、その繧後が問題だよな。",
+    ("しかし、％箔部するのは簡単だとして、その後が問題だよな。",
     ""),
     # However, if it's easy to make foil parts, then the question of tampering is what happens after that.
 
-    ("オレには格闘技なんてできる墲わけないし、正直、やる気煖もない。",
+    ("オレには格闘技なんてできるわけないし、正直、やる気もない。",
     ""),
     # I'm not sure I can do martial arts, and to be honest, I don't have the motivation to do it.
 
-    ("一箞方の葵ち痰ゃんは痰例のエクストリームとかいう大痩を目指し、＊淫俣朗烽ﾌすごい意気梛込みで練習に繧励んでいる。†",
+    ("一箞方の葵ち痰ゃんは痰例のエクストリームとかいう大痩を目指し、＊淫俣朗ﾌすごい意気梛込みで練習に励んでいる。†",
     ""),
     # The Ichibancho aims to achieve a huge weight loss, called Extogata Ream, which is the example of phlegm, and is working hard to practice for good luck with the incredible spirit of Inmata Rōkara.†
 
@@ -70,19 +70,19 @@ text_array = [
     ""),
     # If there's an incredible guy who's been working hard all his life and looks like a real guy, then the punchline will be that he'll just drag you in.
 
-    ("という墲わけで、％箔部は、なし。†",
+    ("というわけで、％箔部は、なし。†",
     ""),
     # So, there is no % foil part.†
 
-    ("で、％箔部する気がないなら、思寬わせぶりな態度で顔出して、いたずらに冾期待を抱かせるの烽もやめた方がいいよな。",
+    ("で、％箔部する気がないなら、思寬わせぶりな態度で顔出して、いたずらに冾期待を抱かせるのもやめた方がいいよな。",
     ""),
     # So, if you don't want to be a part of your foil, then it would be better to show your face with a thoughtful attitude and stop tampering with hopelessness.
 
-    ("そうだな、うん、行くの烽も、やめ。†",
+    ("そうだな、うん、行くのも、やめ。†",
     ""),
     # That's right, yes, I'll stop going.†
 
-    ("てな墲わけで、ゴ＜メンな、葵ち痰ゃん。",
+    ("てなわけで、ゴ＜メンな、葵ち痰ゃん。",
     ""),
     # So, it's a shame, Aoi Chisho-ya.
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # Even the members who are tortured in the same way would be more than just finding a capable guy who is argued as an amateur like this.Å
 
-    ("…とかなんとか言いつつ烽も、やっぱり気になってｗてしまうんだな、これが。",
+    ("…とかなんとか言いつつも、やっぱり気になってｗてしまうんだな、これが。",
     ""),
     # ...I'm sure Kato, who says something like that, is also curious about it lol.
 
-    ("葵ち痰ゃんの魅力がそうさせるのか、それと烽もただ単にオレがお節譿介なのか。",
+    ("葵ち痰ゃんの魅力がそうさせるのか、それともただ単にオレがお節譿介なのか。",
     ""),
     # Is this what the charm of Aoi Chisho-yan makes him do, and is it just merely a celebrity to be a celebrity?
 
-    ("まあ、せっかくｗたんだし、ちょっとだけ葵ち痰ゃんの顔で烽も見ていくとしよう。",
+    ("まあ、せっかくｗたんだし、ちょっとだけ葵ち痰ゃんの顔でも見ていくとしよう。",
     ""),
     # Well, since I've had the chance, I'll just look at the hot springs with the face of Aoi Chishonan.
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Apparently.
 
-    ("ＫＯ率が高く、氏試㍽合で烽も多用されるという葵ち痰ゃんの得意技…だそうだ。",
+    ("ＫＯ率が高く、氏試㍽合でも多用されるという葵ち痰ゃんの得意技…だそうだ。",
     ""),
     # It seems that Aoi Chisho-chan's speciality is that it has a high KO rate and is also frequently used in tests.
 
@@ -178,15 +178,15 @@ text_array = [
     ""),
     # He says with great joy.
 
-    ("まるで、ずっとオレを待っていたかのような笑迴顔。",
+    ("まるで、ずっとオレを待っていたかのような笑顔。",
     ""),
     # He had a smile on his face as if he had been waiting for me to be extremely enthusiastic.
 
-    ("いや、もしかするとそうなのか烽も。",
+    ("いや、もしかするとそうなのかも。",
     ""),
     # It's tampering, and perhaps that's the case.
 
-    ("だからこそ、オレがｗたことに烽もすぐ気がついたのか烽もしれない。†",
+    ("だからこそ、オレがｗたことにもすぐ気がついたのかもしれない。†",
     ""),
     # That's why I was so excited that it was so funny lol, so maybe Ko even noticed it right away.†
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # If so, I'd be happy.
 
-    ("ま、べつにこのオレだからという墲わけじ痰ゃなく、葵ち痰ゃんはクラブの≠メンバーが揩増えるのをｊんでいるんだうけど。†",
+    ("ま、べつにこのオレだからというわけじ痰ゃなく、葵ち痰ゃんはクラブの≠メンバーが増えるのをｊんでいるんだうけど。†",
     ""),
     # Well, it's not a stimulus that's because I'm a big fan, but Aoi Chisho-chan is trying to make the number of members of the banquet love increase.†
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # I'm hoping that I can get into love with the banquet b.
 
-    ("いつまで烽も冾期待を抱かせたままじ痰ゃ悪いし、ここはひとつはっきりと｢｢。†",
+    ("いつまでも冾期待を抱かせたままじ痰ゃ悪いし、ここはひとつはっきりと｢｢。†",
     ""),
     # How long will it last forever keeps your hopes up, so here's a clear ".†
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "I should say "B, but looking at my eyes makes it difficult to say it.†
 
-    ("「今厓日燗も見学ですか？	それと烽も…」",
+    ("「今厓日燗も見学ですか？	それとも…」",
     ""),
     # "Are you going to see the Hikankan now? And the hot springs too..."
 
@@ -254,15 +254,15 @@ text_array = [
     ""),
     # Aoi Chisho-chan opens her eyes wide and pees in a squeal.
 
-    ("やがてじ墲わっと頬を染め、視諮を獅落とす。†",
+    ("やがてじわっと頬を染め、視諮を落とす。†",
     ""),
     # He then began to turn his cheeks into a fluttering light, and leaned over his vision.†
 
-    ("「か、からか墲わないでください」",
+    ("「か、からかわないでください」",
     ""),
     # "Or, please don't tease me."
 
-    ("「いや、そんなつ烽もりじ痰ゃないって。単ヲ純に、メ純署に、葵ち痰ゃんの練習してるとこが見たくなったんだ」",
+    ("「いや、そんなつもりじ痰ゃないって。単ヲ純に、メ純署に、葵ち痰ゃんの練習してるとこが見たくなったんだ」",
     ""),
     # "It's not that bad, it's not that strong. I want to see Aoi Chisho-chan practicing fortunes with Jun-Wo-Jun, Me-Jun-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-Suzu-
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # "Are you the type who rarely...?"
 
-    ("「だってさ、実際珍しいだ？	いつ烽も冾日が暮れるまでサンドバッグ相闡手に格闘技を練習してる子なんて」",
+    ("「だってさ、実際珍しいだ？	いつも冾日が暮れるまでサンドバッグ相闡手に格闘技を練習してる子なんて」",
     ""),
     # "I mean, it's actually rare b? Whenever there's a child who practices martial arts for the punching bags and the lagoon until the sun sets."
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # However, Aoi Chisho-yan smiled with a loud smile as if to follow me.†
 
-    ("「п私、自分が変だってこと、諱よく墲わかってるつ烽もりです。ま墲わりのみんなとは、考え方がズレてるっていうか」",
+    ("「п私、自分が変だってこと、諱よくわかってるつもりです。まわりのみんなとは、考え方がズレてるっていうか」",
     ""),
     # "I'm a komori who knows well that I'm weird. I guess I'm thinking about it with everyone else and how I'm so lucky."
 
@@ -338,23 +338,23 @@ text_array = [
     ""),
     # "No, it's tampering, that's not the case..."
 
-    ("「だけど、それで烽もやっぱりこういうことが好きで、やめられなくて…」",
+    ("「だけど、それでもやっぱりこういうことが好きで、やめられなくて…」",
     ""),
     # "But, I still love this kind of thing, and I can't stop thinking..."
 
-    ("葵ち痰ゃんはゆっくり汲視諮を獅落とした。†",
+    ("葵ち痰ゃんはゆっくり視諮を落とした。†",
     ""),
     # Aoi Chisho-yan slowly plucked the advice.†
 
-    ("「п私、＝普通の翌女の子が知ってるような楽しいことって、ほとんど知闥りません。クラスの子たちの話陂題には半分以繹上ついていけないし、友だちから烽もよく『葵はいい損をしてる』って言甯われます…」",
+    ("「п私、＝普通の翌女の子が知ってるような楽しいことって、ほとんど知闥りません。クラスの子たちの話陂題には半分以繹上ついていけないし、友だちからもよく『葵はいい損をしてる』って言甯われます…」",
     ""),
     # "I, = I don't know much about the fun things that the girls in the future know. I can't keep up with the topics of the children at Crown Rath, and my friends often say, "Aoi is losing out on a bad b."
 
-    ("そう言うと、葵ち痰ゃんは再び顔を繧上げ、",
+    ("そう言うと、葵ち痰ゃんは再び顔を上げ、",
     ""),
     # With that in mind, Aoi Chisho-yan lifted his face up again,
 
-    ("「で烽も」",
+    ("「でも」",
     ""),
     # "And the hot spring too."
 
@@ -362,11 +362,11 @@ text_array = [
     ""),
     # I looked straight at my eyes.†
 
-    ("「それで烽もр私は、＝普通の翌女の子たちの知迺らないｊびをいくつ烽も知ってるつ烽もりです。",
+    ("「それでもр私は、＝普通の翌女の子たちの知迺らないｊびをいくつも知ってるつもりです。",
     ""),
     # "So I'm a tsubo that knows many uninformed J's of the girls who are just normal.
 
-    ("毎坙日少しずつ強くなっていく充実感竓や、その努力の成果で獅試㍽合に勝ったときのｊびって、＝普通の子には、′して味嵂わえないことですよね？」",
+    ("毎坙日少しずつ強くなっていく充実感竓や、その努力の成果で試㍽合に勝ったときのｊびって、＝普通の子には、′して味嵂わえないことですよね？」",
     ""),
     # The feeling of fulfillment that grows little by little every day, and the result of your efforts when you win a lion test match, something that an ordinary child cannot do to you, right?”
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # "…Yeah"†
 
-    ("「だから、自分が変だって墲わかっていて烽も、間瘧違ってるとは思寬わないようにしてるんです。",
+    ("「だから、自分が変だってわかっていても、間違ってるとは思寬わないようにしてるんです。",
     ""),
     # "That's why I know I'm weird and I try not to think that it's wrong, either.
 
@@ -430,11 +430,11 @@ text_array = [
     ""),
     # Yeah.
 
-    ("諱よく墲わかる。",
+    ("諱よくわかる。",
     ""),
     # I can clearly understand the name.
 
-    ("いつ烽も一生恊懸命な葵ち痰ゃんが言うからこそ、すごく烽説得力のある言葉だ。†",
+    ("いつも一生恊懸命な葵ち痰ゃんが言うからこそ、すごく説得力のある言葉だ。†",
     ""),
     # It's a very persuasive word because Aoi Chisho-yan, who is always working hard to do his best to say it.†
 

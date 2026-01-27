@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hey, if someone who doesn't knows asks, I think they'll go to Hajjang Wai for a school trip."
 
-    ("「同じみたいな烽もんよ」†",
+    ("「同じみたいなもんよ」†",
     ""),
     # "It's the same kind of hot spring" †
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Ahhh, I'm heading to Hokkaido, but when I enter the north, I'm not so bad."
 
-    ("「地昼１ｎしち痰ゃえば、北燒も入燗もかんけーない墲わよ」",
+    ("「地昼１ｎしち痰ゃえば、北燒も入燗もかんけーないわよ」",
     ""),
     # "If you've got 10 minutes off, it's not good to have Kitashiro or warmed it."
 
-    ("「また、そー艨ゆーへ揩理雷を…」†",
+    ("「また、そー艨ゆーへ理雷を…」†",
     ""),
     # "And again, thunder thunder..."
 

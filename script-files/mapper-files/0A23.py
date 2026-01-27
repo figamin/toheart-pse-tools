@@ -2,9 +2,9 @@
 # Source file: 0A23.txt
 
 text_array = [
-    ("（Ｂ	それじ痰ゃ、また。）†",
+    ("（Ｂ	それじ痰ゃ、また。）",
     ""),
-    # (B That's the phlegm, again.)†
+    # (B That's the phlegm, again.)
 
     ("「それじ痰ゃ、またな。勤労利女子校生」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("オレは手を繧上げて別れた。◯",
+    ("オレは手を上げて別れた。◯",
     ""),
     # I lifted my hands up and parted ways.◯
 

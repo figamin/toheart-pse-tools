@@ -2,11 +2,11 @@
 # Source file: 00A4.txt
 
 text_array = [
-    ("（３獅月１０冾日	朝）閨（朝追加）閨（自分の部屋）†",
+    ("（３月１０冾日	朝）閨（朝追加）閨（自分の部屋）",
     ""),
-    # (3rd 10th day of the month) (Morning) (Added in the morning) (My room) †
+    # (3rd 10th day of the month) (Morning) (Added in the morning) (My room) 
 
-    ("３獅月１０冾日、氏月曜坥日。",
+    ("３月１０冾日、氏月曜坥日。",
     ""),
     # The 10th day of the 3rd month, Monday.
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's already morning.
 
-    ("あかりがｗねえうちに、起きるか。†",
+    ("あかりがｗねえうちに、起きるか。",
     ""),
-    # Akari lol Will she wake up in the middle of the day?†
+    # Akari lol Will she wake up in the middle of the day?
 
     ("「おはよう、ち痰ゃん」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "You look sleepy."
 
-    ("「…まあな」†",
+    ("「…まあな」",
     ""),
-    # "...well" †
+    # "...well" 
 
     ("「ふふっ。ち痰ゃん、寝癖ができてるよ」",
     ""),
@@ -50,25 +50,25 @@ text_array = [
     ""),
     # "Where is it?"
 
-    ("「縺後撃繧後撃」",
+    ("「縺後撃後撃」",
     ""),
     # "After the attack after the attack"
 
-    ("あかりに言甯われ、縺後頭箔部に手を魔当ててみると…。†",
+    ("あかりに言甯われ、縺後頭箔部に手を魔当ててみると…。",
     ""),
-    # Akari asks me, and I put my hand on the back of my head...†
+    # Akari asks me, and I put my hand on the back of my head...
 
-    ("「…あった。…う墲わ、こり痰ゃまた派阡手に跳ね繧上がってるな」",
+    ("「…あった。…うわ、こり痰ゃまた派阡手に跳ね上がってるな」",
     ""),
     # "...There it is... I'm so tired, it's jumping up on my slut."
 
-    ("さ墲わった感じ、まるで漫譁画のキャャラクターみたいになってる。",
+    ("さわった感じ、まるで漫譁画のキャャラクターみたいになってる。",
     ""),
     # It feels like a banquet of a manga artist.
 
-    ("こんな頭で登校したら、変なあだ名をつけられそうだ。†",
+    ("こんな頭で登校したら、変なあだ名をつけられそうだ。",
     ""),
-    # If I went to school with this kind of mind, I could give him a strange nickname.†
+    # If I went to school with this kind of mind, I could give him a strange nickname.
 
     ("「直闥りそう？」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("ふたりして玄関で考え桙込んでしまう。†",
+    ("ふたりして玄関で考え桙込んでしまう。",
     ""),
-    # They both ponder in the entrance.†
+    # They both ponder in the entrance.
 
     ("「そうだ、いい方法があるよ」",
     ""),
@@ -106,15 +106,15 @@ text_array = [
     ""),
     # "You're going to have some phlegm, ugly."
 
-    ("そう言って、あかりは靴を脱ぎ、家のなかへ繧上がり桙込んだ。†",
+    ("そう言って、あかりは靴を脱ぎ、家のなかへ上がり桙込んだ。",
     ""),
-    # With that, Akari took off her shoes and rose into the house and creaked her.†
+    # With that, Akari took off her shoes and rose into the house and creaked her.
 
     ("「オレんちの台椛所に、なにがあんだよ」",
     ""),
     # "What's up with my super-stricken bait?"
 
-    ("「濡逕らして烽もいいタオル、ある？」",
+    ("「濡逕らしてもいいタオル、ある？」",
     ""),
     # "Do you have a nice hot toast cry?"
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("タオルをｐで濡逕らす。†",
+    ("タオルをｐで濡逕らす。",
     ""),
-    # I wet the Tao crying with p.†
+    # I wet the Tao crying with p.
 
     ("「濡齡れタオルなんかじ痰ゃ直んねーぞ」",
     ""),
@@ -138,15 +138,15 @@ text_array = [
     ""),
     # "It's fine.
 
-    ("次は撃レンジ、借闔りるね」",
+    ("次は撃レンジ、借りるね」",
     ""),
     # Next time I'll borrow the fire range."
 
-    ("そう言うと、あかりは、濡逕らしたタオルを撃レンジに入齠れてしまった。†",
+    ("そう言うと、あかりは、濡逕らしたタオルを撃レンジに入齠れてしまった。",
     ""),
-    # When Akari said that, he got wet, and he got into the range.†
+    # When Akari said that, he got wet, and he got into the range.
 
-    ("「ンな烽もんチンしてどーすんだ？」",
+    ("「ンなもんチンしてどーすんだ？」",
     ""),
     # "What are you doing with that?"
 
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # "Hahaha, well, look."
 
-    ("得意げな様子のあかり。†",
+    ("得意げな様子のあかり。",
     ""),
-    # Akari seems proud.†
+    # Akari seems proud.
 
     ("チーン！",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("ホントにチンしちまったよ。†",
+    ("ホントにチンしちまったよ。",
     ""),
-    # I really got dicked.†
+    # I really got dicked.
 
     ("「あちち…。はい、どうぞ」",
     ""),
@@ -178,11 +178,11 @@ text_array = [
     ""),
     # Akari offered a hot, steaming hot tao cry.
 
-    ("それはまるで、おしぼりのような…。†",
+    ("それはまるで、おしぼりのような…。",
     ""),
-    # It's like a towel...†
+    # It's like a towel...
 
-    ("「そーか、それで寝癖を押さえる墲わけか」",
+    ("「そーか、それで寝癖を押さえるわけか」",
     ""),
     # "I see, that's why I'm trying to keep my bedhead down?"
 
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # "oh yeah"
 
-    ("うんうんうなずくあかり。†",
+    ("うんうんうなずくあかり。",
     ""),
-    # Yes, Akari nods.†
+    # Yes, Akari nods.
 
     ("オレはすぐに、タオルを髪に魔当てた。",
     ""),
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "The other day, I was tampering with a TV drama."
 
-    ("「そうか、いいこと聞いたぜ。これで多い冾日燗も安心ってやつだな」†",
+    ("「そうか、いいこと聞いたぜ。これで多い冾日燗も安心ってやつだな」",
     ""),
     # "I see, I heard something good. I'm sure this is a safe place to tamper with the many popular Japanese-style dishes."
 

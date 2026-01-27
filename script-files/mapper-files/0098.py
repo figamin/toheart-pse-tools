@@ -2,9 +2,9 @@
 # Source file: 0098.txt
 
 text_array = [
-    ("（冝期槙末テスト	５冾日目最終叝日）閨（選択綜	まあまあ）†",
+    ("（冝期槙末テスト	５冾日目最終叝日）閨（選択綜	まあまあ）",
     ""),
-    # (The last day of the 5th day of the final test) (Select So, ok)†
+    # (The last day of the 5th day of the final test) (Select So, ok)
 
     ("「まあまあ、だな」",
     ""),
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "Maybe it's fine, I guess it's phlegm."
 
-    ("「そうだよね。今回はち痰ゃんと勉強したんだ烽もんね」",
+    ("「そうだよね。今回はち痰ゃんと勉強したんだもんね」",
     ""),
     # "That's right. This time I studied hard, isn't it?"
 
-    ("そう言って、あかりはほっと一息ついた。†",
+    ("そう言って、あかりはほっと一息ついた。",
     ""),
-    # Akari said that and took a breather.†
+    # Akari said that and took a breather.
 
-    ("「ま、これでダ＜メだったら、あきらめ烽もつくって烽もんさ」",
+    ("「ま、これでダ＜メだったら、あきらめもつくってもんさ」",
     ""),
     # "Well, if this were a waste, I'd give up and make some hot pots."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I'm sure it's strong."
 
-    ("「そう願いたいね」†",
+    ("「そう願いたいね」",
     ""),
     # "I hope so"
 

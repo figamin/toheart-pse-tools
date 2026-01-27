@@ -2,11 +2,11 @@
 # Source file: 0B3C.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦）閨（冝期限切齔れで、氈勝縁負しなかった場㍼合）閨（驕夜に電話かかってくる）閨（９桙時）閨（自分の部屋）†",
+    ("（綾∴香	綾∴香に挑峵戦）閨（冝期限切齔れで、氈勝縁負しなかった場㍼合）閨（驕夜に電話かかってくる）閨（９桙時）閨（自分の部屋）",
     ""),
     # (Aya∴Ka challenges Aya∴Ka) (If the deadline expires, the winner is not defeated) (A call comes at night) (A call arrives at 9 hours) (My room) (My room)
 
-    ("浴風呂燔もあがり、ベッドでごごしてると。",
+    ("風呂燔もあがり、ベッドでごごしてると。",
     ""),
     # The bathing was also gone and I was bingeed in bed.
 
@@ -14,17 +14,17 @@ text_array = [
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("下から電話の鳴髢る音がした。†",
+    ("下から電話の鳴髢る音がした。",
     ""),
-    # I heard the sound of a phone ringing from underneath.†
+    # I heard the sound of a phone ringing from underneath.
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("トントントン…。",
     ""),
@@ -34,19 +34,19 @@ text_array = [
     ""),
     # Ah, that's annoying.
 
-    ("自分の部屋に電話ほしいぜ。†",
+    ("自分の部屋に電話ほしいぜ。",
     ""),
-    # I want a call in my room.†
+    # I want a call in my room.
 
     ("ガチャャ。",
     ""),
     # Gacha.
 
-    ("「はい、です」†",
+    ("「はい、です」",
     ""),
-    # "Yes." †
+    # "Yes." 
 
-    ("「もし烽もし、？」",
+    ("「もしもし、？」",
     ""),
     # "What if it's hot?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # I really understand that my phone number is stripped off."
 
-    ("「まあ、そのくらいはね」†",
+    ("「まあ、そのくらいはね」",
     ""),
     # "Well, that's about it."
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「さあ」†",
+    ("「さあ」",
     ""),
-    # "here we go"†
+    # "here we go"
 
     ("「なに言ってんのよ。今厓日が約束の最終叝日謫よ。",
     ""),
@@ -102,19 +102,19 @@ text_array = [
     ""),
     # "Ah, is that so?"
 
-    ("すっかり忘齧れてた。†",
+    ("すっかり忘齧れてた。",
     ""),
-    # I had completely forgotten.†
+    # I had completely forgotten.
 
     ("「残念だけど冾期限切齔れよ。はい。ということで、この勝縁負はр私の勝ちね」",
     ""),
     # "It's a shame, but please make sure you pass the deadline. Yes, so I won the winner."
 
-    ("「うっ、しょうがねー。そういうことだな」†",
+    ("「うっ、しょうがねー。そういうことだな」",
     ""),
     # "Uh, there's no slut. That's what it is."
 
-    ("「もちん、約束は覚えてる墲わね？」",
+    ("「もちん、約束は覚えてるわね？」",
     ""),
     # "Mochibun, you remember the promise, right?"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "promise?"
 
-    ("「またまたァ。『敗者は、なんで烽もひとつ、氈勝者の言うことを聞かねばならない』って、′めたじ痰ゃないの」",
+    ("「またまたァ。『敗者は、なんでもひとつ、氈勝者の言うことを聞かねばならない』って、′めたじ痰ゃないの」",
     ""),
     # "Again. Why should the loser listen to what the winner says?"
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # "…ah"
 
-    ("あれね。†",
+    ("あれね。",
     ""),
-    # That's it.†
+    # That's it.
 
-    ("「ということで、なにかひとつр私の言うことを聞いて烽もらう墲わね翌＠」",
+    ("「ということで、なにかひとつр私の言うことを聞いてもらうわね翌＠」",
     ""),
     # "So, I'll listen to what I'm saying and get some hot springs next time @."
 
@@ -142,19 +142,19 @@ text_array = [
     ""),
     # "Tch."
 
-    ("しょうがねーな。†",
+    ("しょうがねーな。",
     ""),
-    # There's no essay.†
+    # There's no essay.
 
     ("「うーん、なににしようかなー？」",
     ""),
     # "Hmm, what should I do?"
 
-    ("「金のかかることは勘弁してくれよ。オレ、自搦慢じ痰ゃないけど貧乏人だから」†",
+    ("「金のかかることは勘弁してくれよ。オレ、自搦慢じ痰ゃないけど貧乏人だから」",
     ""),
     # "Please forgive me for the money. I'm extremely irritated, but I'm a poor person."
 
-    ("結局、今度ファーストフードのバーガーをおごることで獅落ちｒいた。",
+    ("結局、今度ファーストフードのバーガーをおごることで落ちｒいた。",
     ""),
     # In the end, I ended up hanging out by treating a fast food burger this time.
 
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # Well, that level of the amount is within the range of magical tolerance.
 
-    ("志保にたかられたと思えば安い烽もんだ。†",
+    ("志保にたかられたと思えば安いもんだ。",
     ""),
-    # It's cheap if you think Shiho is blessed with it.†
+    # It's cheap if you think Shiho is blessed with it.
 
     ("「じ痰ゃあ、そういうことで」",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # "Ou"
 
-    ("「またねー」†",
+    ("「またねー」",
     ""),
-    # "See you soon" †
+    # "See you soon" 
 
     ("かち痰ゃ。",
     ""),

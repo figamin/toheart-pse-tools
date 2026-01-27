@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Let's stop.
 
-    ("どう烽もあいつは苦闍手だ。",
+    ("どうもあいつは苦闍手だ。",
     ""),
     # No matter how you say he's in trouble, he's in trouble.
 
-    ("さい墲わい、′こう烽も猫を追うのに夢亦で、こっちに気づいた様子はない。",
+    ("さいわい、′こうも猫を追うのに夢亦で、こっちに気づいた様子はない。",
     ""),
     # It's also a dream to pursue a cat, and it doesn't seem to have noticed this.
 

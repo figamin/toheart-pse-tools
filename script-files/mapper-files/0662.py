@@ -2,11 +2,11 @@
 # Source file: 0662.txt
 
 text_array = [
-    ("（ＶＳイベント	マルチＶＳ撃レミィ）閨（戟レミィにやる）†",
+    ("（ＶＳイベント	マルチＶＳ撃レミィ）閨（レミィにやる）†",
     ""),
     # (VS Event Makkuruchi VS Geki Remi) (I'll tamper with Remi) †
 
-    ("諱よし、戟レミィにやう。",
+    ("諱よし、レミィにやう。",
     ""),
     # Okay, I'm going to tamper with Hajime.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # I came to the 2-C where Ekire Remy was.
 
-    ("「おーい、戟レミィ」",
+    ("「おーい、レミィ」",
     ""),
     # "Hey, huh Remie."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ah,!"
 
-    ("戟レミィはすぐに気づいて駆け寄ってきた。†",
+    ("レミィはすぐに気づいて駆け寄ってきた。†",
     ""),
     # Karemi immediately noticed and came up with me.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Why don't you check with your name on something that you normally have?”
 
-    ("「がくれるなら、なんで烽も嬉しいｃ！」†",
+    ("「がくれるなら、なんでも嬉しいｃ！」†",
     ""),
     # "If you give it to me, why would you be happy if it's a hot spring?"
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # "This guy."
 
-    ("オレはポケットから痰例のお守闔りを取闔り出して見せた。†",
+    ("オレはポケットから痰例のお守りを取り出して見せた。†",
     ""),
     # My geira showed me a talisman from my pocket.†
 
-    ("「Ｏ！	Ｊ≠ａ垂ｐ≠ａ獅ｎ入	＝ａ高ｍ浮ｕ撃ｌｔ！	お守闔りネ！」",
+    ("「Ｏ！	Ｊ≠ａ垂ｐ≠ａｎ入	＝ａ高ｍ浮ｕ撃ｌｔ！	お守りネ！」",
     ""),
     # "Ob! Latarp≠a lion Tangular B =A high m floating u attack! Please give me a charm!"
 
-    ("「そうだ、ジャャパニーズ『お守闔り』だ」",
+    ("「そうだ、ジャャパニーズ『お守り』だ」",
     ""),
     # "Yes, it's a Japanese 'amusic troupe'."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "I'm so happy!"
 
-    ("「こいつはｖ恂除けのお守闔りといってな、いいな災酷から揩持ち主を守ってくれるという、ありがたいシ鴻ロｃモンだ」",
+    ("「こいつはｖ恂除けのお守りといってな、いいな災酷から持ち主を守ってくれるという、ありがたいシ鴻ロｃモンだ」",
     ""),
     # "This guy is a great amulet to protect his lieutenant from bad disasters."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Amazing Death!"
 
-    ("まあ、詳しいことはオレ焜もよく知迺らないが、そういうモンだ。†",
+    ("まあ、詳しいことはオレもよく知迺らないが、そういうモンだ。†",
     ""),
     # Well, I don't know much about the details, but that's the kind of b-mon.†
 
@@ -118,19 +118,19 @@ text_array = [
     ""),
     # "She's phlegm, come on."
 
-    ("「Ｔ≠ａ獅ｎ汲駆	凵ｙ盾ｏ浮ｕ！」",
+    ("「Ｔ≠ａｎ駆	凵ｙ盾ｏ浮ｕ！」",
     ""),
     # "Tb≠a lion, ye shield o float!"
 
-    ("お守闔りを受け取骼ると、戟レミィは嬉しそうに飛び跳ねた。",
+    ("お守りを受け取骼ると、レミィは嬉しそうに飛び跳ねた。",
     ""),
     # When he received the charm, Remi jumped happily.
 
-    ("そして、お守闔りを顔の前に揩持っていくと、拝むように手を出して、",
+    ("そして、お守りを顔の前に持っていくと、拝むように手を出して、",
     ""),
     # Then, when I brought the amulet in front of my face, I put my hand out as if to worship,
 
-    ("「％無阿妤弥陀仏〜」",
+    ("「％無阿弥陀仏〜」",
     ""),
     # "% Muayi Amida Buddha"
 
@@ -146,15 +146,15 @@ text_array = [
     ""),
     # "Is it not that bad? Is it Shinto? If so, then would you worship me two times?"
 
-    ("「いや、オレ焜も詳しいことは知迺らないけど…」",
+    ("「いや、オレも詳しいことは知迺らないけど…」",
     ""),
     # "I don't know much about the details of my slut, but..."
 
-    ("戟レミィのやつ、梶相変﨑わらず変な知識だけは一嚠丁前なんだよな。†",
+    ("レミィのやつ、梶相変﨑わらず変な知識だけは一嚠丁前なんだよな。†",
     ""),
     # The tampering with Kaji Ai, the strange knowledge is unbearable.†
 
-    ("「まあ、そういうのは揩持ってるだけで御圏益がある烽もんだ」",
+    ("「まあ、そういうのは持ってるだけで御圏益があるもんだ」",
     ""),
     # "Well, that kind of thing is just something you can benefit from, even if you have one."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「いちおう言っとくけど、くれぐれ烽も無摶理に効果を獅試したりすんじ痰ゃねーぞ」",
+    ("「いちおう言っとくけど、くれぐれも無摶理に効果を試したりすんじ痰ゃねーぞ」",
     ""),
     # "I'll say it, but I hope you'll try the effects without any effort."
 
@@ -206,11 +206,11 @@ text_array = [
     ""),
     # "What?! ...Woo, uh, uh, I understand."
 
-    ("禔口ではそう言う烽ものの、どことなく撃レミィはがっかりした様子だった。",
+    ("禔口ではそう言うものの、どことなく撃レミィはがっかりした様子だった。",
     ""),
     # Although this was said in the story, Ekiremi seemed somewhat disappointed.
 
-    ("さては、やるつ烽もりだったな。◯",
+    ("さては、やるつもりだったな。◯",
     ""),
     # Well, it was a hot spring.◯
 

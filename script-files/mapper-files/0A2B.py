@@ -2,9 +2,9 @@
 # Source file: 0A2B.txt
 
 text_array = [
-    ("（掾理女緒	好感度イベント	おでん）閨（昼休み）閨（食堂）†",
+    ("（掾理女緒	好感度イベント	おでん）閨（昼休み）閨（食堂）",
     ""),
-    # (Erimeo's Likeability Event Oden) (Lunch break) (Dinner) (Dinner) †
+    # (Erimeo's Likeability Event Oden) (Lunch break) (Dinner) (Dinner) 
 
     ("「ちっ、今厓日は出遅れたぜ」",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # The fourth frame time, which was extended for about five minutes, ended, was tampered with, and my stomping was rushed to the cafeteria.
 
-    ("しかし、それで烽もオレお気に入闢りＮ盾ｏ．１のカツサンドはモ買い損ねてしまった。",
+    ("しかし、それでもオレお気に入闢りＮ盾ｏ．１のカツサンドはモ買い損ねてしまった。",
     ""),
     # However, that's why I really liked it.I missed out on buying the cutlet sandwich from 1.
 
-    ("「今厓日はし痰ゃーねえか」†",
+    ("「今厓日はし痰ゃーねえか」",
     ""),
     # "You're having some phlegm right now?"
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # When I was so excited, the girl's head was also bowed to the next day after Kaji-san.
 
-    ("「いえっ、こちらこそ」†",
+    ("「いえっ、こちらこそ」",
     ""),
-    # "No, this is it" †
+    # "No, this is it" 
 
     ("「って、あれ？	掾理女緒ち痰ゃんじ痰ゃねえか」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Bad and bad. I was hungry and bored."
 
-    ("「п私の方こそ。くん、お汲昼ごはんはこれから？」",
+    ("「п私の方こそ。くん、お昼ごはんはこれから？」",
     ""),
     # "It's my Fuku-cho.-kun, are you going to have lunch now?"
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "Well?"
 
-    ("見骭ると揩理女緒ち痰ゃん烽も、意外と大きな弁抹当箱を抱えてる。†",
+    ("見骭ると理女緒ち痰ゃんも、意外と大きな弁抹当箱を抱えてる。",
     ""),
-    # When I looked at it, I also surprisingly hold a large bell box.†
+    # When I looked at it, I also surprisingly hold a large bell box.
 
-    ("「なんだ、そっち烽も≠メシか？」",
+    ("「なんだ、そっちも≠メシか？」",
     ""),
     # "What, is that hot water ≠ food?"
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "At the house"
 
-    ("最近ちょっと翌風が強いけど、それ烽も気搴持ちよさそうだな。†",
+    ("最近ちょっと翌風が強いけど、それも気搴持ちよさそうだな。",
     ""),
-    # Recently, the next game has been strong, but it seems like the hot springs will be very good too.†
+    # Recently, the next game has been strong, but it seems like the hot springs will be very good too.
 
     ("オレは…。",
     ""),

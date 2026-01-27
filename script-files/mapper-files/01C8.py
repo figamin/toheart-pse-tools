@@ -2,15 +2,15 @@
 # Source file: 01C8.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	帰闍り道）閨（５獅月１冾日）†",
+    ("（あかり	回秤数イベント	帰闍り道）閨（５月１冾日）†",
     ""),
     # (Akari Scales Event Returning Road) (5th Lion, 1st Day)†
 
-    ("最近はｌのぼり繧上げてる家煢も少ねーなァ。",
+    ("最近はｌのぼり上げてる家煢も少ねーなァ。",
     ""),
     # Recently, there are fewer houses that have been uploading their flags.
 
-    ("などと、どうで烽もいいことを考えながら、ぶらり、本屋へ立ち寄驫ると｢｢。◯",
+    ("などと、どうでもいいことを考えながら、ぶらり、本屋へ立ち寄驫ると｢｢。◯",
     ""),
     # I strolled around thinking about what's good about Hot Springs, and stopped by the bookstore and said, "◯
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # That's a coincidence."
 
-    ("ばったり、あかりにｉった。",
+    ("ばったり、あかりにった。",
     ""),
     # I ran into it and got a light.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Ah, this? Hehe, sphemy the next day @."
 
-    ("そう言ってあかりが取闔り出したのは、",
+    ("そう言ってあかりが取り出したのは、",
     ""),
     # Akari said that and asked,
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Kaji Ai Henzaki is not a masochist, you're a tampering guy."
 
-    ("「ち痰ゃん烽も、なにかモ買いにｗたの？」",
+    ("「ち痰ゃんも、なにかモ買いにｗたの？」",
     ""),
     # "Did you buy something, even Chishonan-san-san-san lol?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Yeah, let's do that."
 
-    ("という墲わけで、あかりとふたりで公園までやってきた。",
+    ("というわけで、あかりとふたりで公園までやってきた。",
     ""),
     # So, Akari and I both frantically tamper with us to the park.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "That's right."
 
-    ("北海道のこと、オレ焜も少しくらいは下調べしといたほうがいいよな。",
+    ("北海道のこと、オレも少しくらいは下調べしといたほうがいいよな。",
     ""),
     # I think you should do some research on Hokkaido and my geeks.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # Even though I've had a half-day free time, I'm not going to get hit by a phlegm, which is a waste of time.†
 
-    ("オレはあかりといっしょにベンチにｍかけ、ガイドブックを見せて烽もらった。†",
+    ("オレはあかりといっしょにベンチにｍかけ、ガイドブックを見せてもらった。†",
     ""),
     # I went to Akari and Ichigo on the bench, showed me the guidebook and got a hot pot.†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Ordinally, it's like a clock stand..."
 
-    ("「ありきたりだな。そういうのは写真で見て烽も同じだ？」",
+    ("「ありきたりだな。そういうのは写真で見ても同じだ？」",
     ""),
     # "It's a cliché. Is that the same thing in the photo?
 
@@ -158,15 +158,15 @@ text_array = [
     ""),
     # "I agree.
 
-    ("昼食熕も自分たちで食べるから、どうせだったらｔ味しい烽もの食べたいね」",
+    ("昼食熕も自分たちで食べるから、どうせだったらｔ味しいもの食べたいね」",
     ""),
     # We also eat lunch ourselves, so if we're going to eat something tasty and delicious, then we'd like to eat something hot."
 
-    ("「食える量には限界って烽ものがあるからな、ぜひと烽も計謖画的にいきたい烽もんだ」†",
+    ("「食える量には限界ってものがあるからな、ぜひとも計謖画的にいきたいもんだ」†",
     ""),
     # "There are only a limit to how much you can eat, so I would definitely like to go to the hot springs as a plan."
 
-    ("「あと、その桙時間のうちに、おみやげなんか烽もモ買嵓わなき痰ゃいけないから…」",
+    ("「あと、その桙時間のうちに、おみやげなんかもモ買嵓わなき痰ゃいけないから…」",
     ""),
     # "Also, within the time I have to spend with the sputum, such as slurred slurred slurred slurred..."
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # "If you're going to slurp your hair, you can just buy some phlegm when you buy it on the night of the day."
 
-    ("「で烽も、じっくり選びたいなあ」†",
+    ("「でも、じっくり選びたいなあ」†",
     ""),
     # "I also want to carefully choose the hot spring."
 
-    ("「そんな悩まずと烽も、北海道だったらどうせ定番でｌまりだ？」",
+    ("「そんな悩まずとも、北海道だったらどうせ定番でｌまりだ？」",
     ""),
     # "If you don't worry about that, even if it's Hokkaido, then it's probably a standard one and it's a L-Mari b?"
 

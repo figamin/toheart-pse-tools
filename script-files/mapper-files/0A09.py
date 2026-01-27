@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Ah, kun!"
 
-    ("やっぱ揩理女緒ち痰ゃんだった。",
+    ("やっぱ理女緒ち痰ゃんだった。",
     ""),
     # After all, it was a bit of a stimulus.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "It's hard even though it's just after school is over."
 
-    ("「うん。で烽も、ここは烽もうちょっとで終尞わりだよ」",
+    ("「うん。でも、ここはもうちょっとで終尞わりだよ」",
     ""),
     # "Yes. And here, the hot springs and hot springs are all over."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Yes... um, now we're going to distribute the flyer, and the game center and ""
 
-    ("「おいおい、いったいいくつ掛け揩持ちしてんだよ？」",
+    ("「おいおい、いったいいくつ掛け持ちしてんだよ？」",
     ""),
     # "Hey hey, what are you holding a stool?"
 
-    ("「今厓日は４つだけ。で烽も、ゲームセンターは墲わりと楽だし、暇を見て宛名走書きのバイト焜もいっしょにできるから」†",
+    ("「今厓日は４つだけ。でも、ゲームセンターはわりと楽だし、暇を見て宛名走書きのバイトもいっしょにできるから」†",
     ""),
     # "There are only four days left right now. And the game centers are pretty easy, and when you're bored, you can also take part-time jobs with address writing when you're bored."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # I couldn't help but lose my words.
 
-    ("金を稼ぐために死ぬほどバイトをしている高校生って、ＴＶとかでみたことはあるけど、まさか身近に烽もいたとはな。†",
+    ("金を稼ぐために死ぬほどバイトをしている高校生って、ＴＶとかでみたことはあるけど、まさか身近にもいたとはな。†",
     ""),
     # I've seen high school b high school students who work part-time to the point of death to earn money on TV, but I never imagined that there were some hot people close to me.†
 

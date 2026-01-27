@@ -22,7 +22,7 @@ text_array = [
     ""),
     # I retold the other way around, and said, "I'm not going to stop it."†
 
-    ("「で烽も、まだр私が犯人ってｌまった墲わけじ痰ゃないんだよ？」",
+    ("「でも、まだр私が犯人ってｌまったわけじ痰ゃないんだよ？」",
     ""),
     # "And even though I'm still the culprit, I still have no phlegm to say that?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "But, I'm arrested, but the police don't have any phlegm..."
 
-    ("「警察じ痰ゃなくて烽も、お前ぐらい簡単に逮捕できる」",
+    ("「警察じ痰ゃなくても、お前ぐらい簡単に逮捕できる」",
     ""),
     # "You can arrest the police and the police force, as easily as you can."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("こういうあかりの『もし烽も話』に最纃後までつき№合うと、蛛大葬最纃後は変な方阜のドラマに発展する。",
+    ("こういうあかりの『もしも話』に最纃後までつき№合うと、蛛大葬最纃後は変な方阜のドラマに発展する。",
     ""),
     # If you follow this "If You're a Hot" to the very end, it will develop into a strange banquet llama of Fukukata Fu after the final day of the funeral.
 

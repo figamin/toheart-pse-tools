@@ -2,9 +2,9 @@
 # Source file: 029B.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｂ	やめとく）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｂ	やめとく）",
     ""),
-    # (Seri°Kawa, Scales Event 2F LV4)Seri (Select Sou B, Stop)†
+    # (Seri°Kawa, Scales Event 2F LV4)Seri (Select Sou B, Stop)
 
     ("「いや、やっぱ遠慮しとくぜ」",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I refused.
 
-    ("薬を飲まなき痰ゃなんねーほど眠い墲わけじ痰ゃないしな。†",
+    ("薬を飲まなき痰ゃなんねーほど眠いわけじ痰ゃないしな。",
     ""),
-    # I can't help but feel sleepy enough to avoid taking any medicine.†
+    # I can't help but feel sleepy enough to avoid taking any medicine.
 
-    ("「で烽も、ありがとな。また体調が悪いときにで烽も烽もらうよ」",
+    ("「でも、ありがとな。また体調が悪いときにでももらうよ」",
     ""),
     # "And thanks for the hot springs. I'll also get hot springs when I'm not feeling well."
 

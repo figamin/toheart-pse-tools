@@ -2,15 +2,15 @@
 # Source file: 0F1B.txt
 
 text_array = [
-    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	志保を誘う）†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	志保を誘う）",
     ""),
-    # (Arcade Battle Cry 3) (Closing ceremony edition) (Invites Chosen Shiho) †
+    # (Arcade Battle Cry 3) (Closing ceremony edition) (Invites Chosen Shiho) 
 
     ("「おめーだ、志保！」",
     ""),
     # "Congratulations, Shiho!"
 
-    ("「あんたから挑んでくるなんて珍しい墲わね。",
+    ("「あんたから挑んでくるなんて珍しいわね。",
     ""),
     # "It's rare for you to challenge me.
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # OK, I'll give you a kaji friend."
 
-    ("そう言うと、志保はとなりの台からイスを引っ張ってきて、オレの横にｍかけた。†",
+    ("そう言うと、志保はとなりの台からイスを引っ張ってきて、オレの横にｍかけた。",
     ""),
-    # With that in mind, Shiho pulled the chair from the stand next to me and hung it next to me.†
+    # With that in mind, Shiho pulled the chair from the stand next to me and hung it next to me.
 
     ("「行くぜぇ」",
     ""),
@@ -62,10 +62,6 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
-    ""),
-    # ・†
-
     ("・",
     ""),
     # ・
@@ -82,8 +78,12 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
 ]

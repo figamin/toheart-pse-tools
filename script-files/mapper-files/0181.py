@@ -2,7 +2,7 @@
 # Source file: 0181.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（３獅月３冾日）",
+    ("（あかり	回秤数イベント	２Ｆ）閨（３月３冾日）",
     ""),
     # (Light Scale Event 2F) (3rd Lion Day)
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # As soon as I left the classroom, my husband grew significantly.
 
-    ("と、そこで、くいっと誰かに繧上薯のすそを引っ張迺られる感覚。†",
+    ("と、そこで、くいっと誰かに上薯のすそを引っ張迺られる感覚。†",
     ""),
     # And then, I felt like someone was pulling the hem of the potatoes and slurping them over them.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Choo"
 
-    ("にっこり笑迴顔のあかりがいた。",
+    ("にっこり笑顔のあかりがいた。",
     ""),
     # There was Akari, who had a smile on his face.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "What, you?"
 
-    ("「ち痰ゃん烽もいま帰闍り？」†",
+    ("「ち痰ゃんもいま帰闍り？」†",
     ""),
     # "Have you returned home now?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Well. What about you?"
 
-    ("「п私燻もいま帰驪るとこ。ちょうど教室を出たら、ち痰ゃんが出てくるのが見えたから。ね、せっかくだし、いっしょに帰汲う？」",
+    ("「п私燻もいま帰驪るとこ。ちょうど教室を出たら、ち痰ゃんが出てくるのが見えたから。ね、せっかくだし、いっしょに帰う？」",
     ""),
     # "I'm going back to my house now. When I left the Chieyodo class, I saw a symptom-chan coming out. Hey, since we're going to do it, will we all return to the Chieyo?"
 

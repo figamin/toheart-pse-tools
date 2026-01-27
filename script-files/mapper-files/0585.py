@@ -2,9 +2,9 @@
 # Source file: 0585.txt
 
 text_array = [
-    ("（葵	回秤数イベント２の選択繿後	Ｂ）†",
+    ("（葵	回秤数イベント２の選択繿後	Ｂ）",
     ""),
-    # (Aoi: After selecting the balance number event 2 B)†
+    # (Aoi: After selecting the balance number event 2 B)
 
     ("「格闘技をやってる姿が好きってことさ」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Martial arts...?"
 
-    ("「うん。だから、恥ずかしがることないさ。格闘技をやってるときの葵ち痰ゃんって、本末当に輝いてるっていうか、生き生きしてるし、いちばん良い顔してる。葵ち痰ゃんのクラスの翌女の子たちにはその顔はできないと思うぜ」†",
+    ("「うん。だから、恥ずかしがることないさ。格闘技をやってるときの葵ち痰ゃんって、本末当に輝いてるっていうか、生き生きしてるし、いちばん良い顔してる。葵ち痰ゃんのクラスの翌女の子たちにはその顔はできないと思うぜ」",
     ""),
     # "Yes, so I'm not embarrassed. When I'm tampering with martial arts, Aoi Chisho-chan is really bright and lively, and has the best face. I don't think the girls after Aoi Chisho-chan's banquet can have that face."
 

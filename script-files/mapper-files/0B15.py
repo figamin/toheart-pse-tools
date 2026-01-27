@@ -50,15 +50,15 @@ text_array = [
     ""),
     # "?"†
 
-    ("「敗者は、なんで烽もひとつ、氈勝者の言うことを聞かねばならない｢｢っていうのは」",
+    ("「敗者は、なんでもひとつ、氈勝者の言うことを聞かねばならない｢｢っていうのは」",
     ""),
     # "Why should the loser listen to what the winner says, "What is that?"
 
-    ("「なんで烽もひとつ？」",
+    ("「なんでもひとつ？」",
     ""),
     # "Why is there one hot pot?"
 
-    ("「そ、なんで烽も」†",
+    ("「そ、なんでも」†",
     ""),
     # "I see, why not?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Aya∴Kingyi also laughed.†
 
-    ("「じ痰ゃあ、そういうことで。はっきりいっていまの撃レベルじ痰ゃ、百年笏やってて烽もカスリ焜もしないから。ち痰ゃんとｍ寘戦を練りなさいよ」",
+    ("「じ痰ゃあ、そういうことで。はっきりいっていまの撃レベルじ痰ゃ、百年笏やっててもカスリもしないから。ち痰ゃんとｍ寘戦を練りなさいよ」",
     ""),
     # "That's how it is. To be honest, you'll be crying for the level of fire, and you'll be using the scepter for hundred years, and you won't even have to resist the fire or the dust. Try to force yourself to fight with a stomp."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # But, alas, this is a refined fact.†
 
-    ("「…見てよ。お前は天才か烽も知れねーが、本気になったオレははっきり言って怖ぇぜ」",
+    ("「…見てよ。お前は天才かも知れねーが、本気になったオレははっきり言って怖ぇぜ」",
     ""),
     # "...Look b. You're a genius or you don't know about Ka-no, but to be honest, I'm scared of all my seriousness."
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # The two of them laughed creepyly.†
 
-    ("その冾日からオレと綾∴香の墲戦いが始まった。",
+    ("その冾日からオレと綾∴香の戦いが始まった。",
     ""),
     # From that day onwards, the battle between megare and Aya∴Ka began.
 
-    ("しかし、それにして烽も…。†",
+    ("しかし、それにしても…。†",
     ""),
     # But then, there's also hot water...†
 

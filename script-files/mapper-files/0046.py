@@ -26,7 +26,7 @@ text_array = [
     ""),
     # It's just tampering, but that's all.
 
-    ("べつに誰と出初うこと烽もなかった。†",
+    ("べつに誰と出初うこともなかった。†",
     ""),
     # I never had any chance to come out with anyone.†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # I descended the stairs and headed out into the corridor on the first floor.
 
-    ("とくに誰に出初うこと烽もなかった。†",
+    ("とくに誰に出初うこともなかった。†",
     ""),
     # I never had any particular experience with anyone.†
 
-    ("学校を出て、いつ烽もの坂道を下驩る。",
+    ("学校を出て、いつもの坂道を下驩る。",
     ""),
     # When did I leave school, I went down the hill.
 

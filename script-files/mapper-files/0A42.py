@@ -2,7 +2,7 @@
 # Source file: 0A42.txt
 
 text_array = [
-    ("（Ｂ	たまには休めよ。）†",
+    ("（Ｂ	たまには休めよ。）",
     ""),
     # (B: Take a break once in a while.)
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("「ずっと働きどおしだ？	たまに痰ゃ、どっか遊びに行ったり、家でゴ鴻ロゴ鴻ロしたりして烽もバチは魔当たんねえと思うぜ」†",
+    ("「ずっと働きどおしだ？	たまに痰ゃ、どっか遊びに行ったり、家でゴ鴻ロゴ鴻ロしたりしてもバチは魔当たんねえと思うぜ」",
     ""),
     # "Have you always worked? Sometimes I go out and play somewhere, or go to the house, and I think the fire is not a hit."
 
@@ -26,25 +26,25 @@ text_array = [
     ""),
     # "ah.
 
-    ("もし一人でつまんねえってんだったら、誰か誘って出かけて烽もいいし」",
+    ("もし一人でつまんねえってんだったら、誰か誘って出かけてもいいし」",
     ""),
     # If you think it's boring on your own, someone will invite you out and you can also go and Hot."
 
-    ("「ええっ…」†",
+    ("「ええっ…」",
     ""),
-    # "Yeah..." †
+    # "Yeah..." 
 
     ("と、反梍応に困ってるようだ。",
     ""),
     # And it seems he's having trouble with the reversal of the anger.
 
-    ("まあ、さすがにいまのは、ちょっと無神経だったか烽もな。",
+    ("まあ、さすがにいまのは、ちょっと無神経だったかもな。",
     ""),
     # Well, of course, what I'm talking about now was probably insensitive, or even a hot guy.
 
-    ("仕鮪事を失うか烽もしれないって鰍相闡手に、いきなり『遊べ』はまずかったか。†",
+    ("仕鮪事を失うかもしれないって鰍相闡手に、いきなり『遊べ』はまずかったか。",
     ""),
-    # When the monks suddenly said they would lose something or be able to cook, it was bad to suddenly say "play"?†
+    # When the monks suddenly said they would lose something or be able to cook, it was bad to suddenly say "play"?
 
     ("「｢｢そうだね…」",
     ""),
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "Yeah... I don't think that's that kind of thing is very good though."
 
-    ("そして、ちょっと照齒れくさくなって、つけ加えた。†",
+    ("そして、ちょっと照齒れくさくなって、つけ加えた。",
     ""),
-    # And then, the slurred tingly, added.†
+    # And then, the slurred tingly, added.
 
-    ("「まあ、オレがどうこう言う烽もんで烽もないけど｢｢」",
+    ("「まあ、オレがどうこう言うもんでもないけど｢｢」",
     ""),
     # "Well, I'm not saying anything about it, and there's no hot water, but ""
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # The girl shook her head slightly.
 
-    ("「たまには墲弟たちの面倒燗も、ち痰ゃんとみないとダ＜メだから、遊びに行くのは今度になりそうだけどね」",
+    ("「たまには弟たちの面倒燗も、ち痰ゃんとみないとダ＜メだから、遊びに行くのは今度になりそうだけどね」",
     ""),
     # "Sometimes, I have to go out and have to go and enjoy the troublesome sake of my younger brothers, so I think I'll be going out to play next time."
 
-    ("「バイト休めて烽も大変なんだな」†",
+    ("「バイト休めても大変なんだな」",
     ""),
     # "It's tough to take a break from part-time work."
 
-    ("「だから、今度の冾日曜坥日、弟たちと母さんのお見糟舞いに行こうかなって思って」",
+    ("「だから、今度の冾日曜坥日、弟たちと母さんのお見舞いに行こうかなって思って」",
     ""),
     # "So, I thought I might go and see my mother and my brothers on the next Sunday."
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "I see, are you at the % hospital?"
 
-    ("「うん。しばらく、♂いに行ってなかったから…」",
+    ("「うん。しばらく、雅いに行ってなかったから…」",
     ""),
     # "Yeah. I haven't been to Masochist for a while..."
 
-    ("そう言って揩理女緒ち痰ゃんはうつむく。",
+    ("そう言って理女緒ち痰ゃんはうつむく。",
     ""),
     # With that in mind, Ochi Sphinjan turned his head down.
 
@@ -106,15 +106,15 @@ text_array = [
     ""),
     # "Yeah, I think that's fine.
 
-    ("理女緒ち痰ゃんの母さん烽も墲弟熬も、ぜったいｊぶって」†",
+    ("理女緒ち痰ゃんの母さんも弟熬も、ぜったいｊぶって」",
     ""),
-    # Both Rimo Ochi Symphomani's mother, Hou and Ki-san, are absolutely japanese."†
+    # Both Rimo Ochi Symphomani's mother, Hou and Ki-san, are absolutely japanese."
 
     ("「うん！」",
     ""),
     # "Yeah!"
 
-    ("「なんだかんだ言って烽も、面倒見のいいお姉ち痰ゃんなんだよな、掾理女緒ち痰ゃんってさ」",
+    ("「なんだかんだ言っても、面倒見のいいお姉ち痰ゃんなんだよな、掾理女緒ち痰ゃんってさ」",
     ""),
     # "No matter what, even Hou is a caring lady, and she's a smug woman."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Hahaha, is that so?"
 
-    ("「弟とか、思いっきりなついてそうだし」†",
+    ("「弟とか、思いっきりなついてそうだし」",
     ""),
     # "I think my little brother is going to be as hard as I can."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "I used to play with my slutty sluts. I'd play with a lot of replies."
 
-    ("「やっぱり？	で烽も、浴女の子が勇ましくプ鴻ロレスごっこってのはマズイんじ痰ゃねーの？」",
+    ("「やっぱり？	でも、女の子が勇ましくプ鴻ロレスごっこってのはマズイんじ痰ゃねーの？」",
     ""),
     # "I wonder if that's right? And, isn't it bad to see a bathing girl bravely playing a tough replies?"
 
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # With that said, Erime Ochi Sphinja's cheeks turn red.
 
-    ("「そうだね。えへへ……」†",
+    ("「そうだね。えへへ……」",
     ""),
-    # "That's right. Hehe..." †
+    # "That's right. Hehe..." 
 
     ("そうこうしているうちに、′こうの方で、再び何人かが動き始めていた。",
     ""),
@@ -162,19 +162,19 @@ text_array = [
     ""),
     # "Yes... well, that's it, then, let's have fun with the eps."
 
-    ("「おう、まかしとけ。じ痰ゃ、またなっ」†",
+    ("「おう、まかしとけ。じ痰ゃ、またなっ」",
     ""),
-    # "Oh, just leave it there. I'll see you again." †
+    # "Oh, just leave it there. I'll see you again." 
 
     ("「うんっ！」",
     ""),
     # "Yeah!"
 
-    ("そして揩理女緒ち痰ゃんは、再び垂巨蜍大な奄ラッコ頭をかぶって、＜タャタとコミカルに烽歩いていった。",
+    ("そして理女緒ち痰ゃんは、再び垂巨蜍大な奄ラッコ頭をかぶって、＜タャタとコミカルに歩いていった。",
     ""),
     # Then, Ochi Symphomani once again put on the huge Amaya sea otter head and walked around with the tears of the comic.
 
-    ("それを見洛送ってから、オレ焜も家に帰った。◯",
+    ("それを見洛送ってから、オレも家に帰った。◯",
     ""),
     # After seeing this, I sent home too.◯
 

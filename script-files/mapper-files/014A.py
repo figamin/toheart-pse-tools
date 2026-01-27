@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Akari Likeability Event 5) (Continued from Chosen AB)†
 
-    ("「知迺らねーけど、そういうことらしい。かといって長岡さんにお願いすると、ほら、一瞬にしてう墲わさが広まっち痰ゃいそうだ？」",
+    ("「知迺らねーけど、そういうことらしい。かといって長岡さんにお願いすると、ほら、一瞬にしてうわさが広まっち痰ゃいそうだ？」",
     ""),
     # "I don't know about it, but that's what it is. But when I asked Nagaoka-san, you see, the spurts of the spurts spread in an instant, so it seems like they're going to spread."
 
-    ("まあ、間瘧違いなく、そーだーな。",
+    ("まあ、間違いなく、そーだーな。",
     ""),
     # Well, it must be a bit uneasy, it's pretty b.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # I said with a disgusting look on my face.
 
-    ("「けど、ま、きっかけだけｍってくれたら、その繧後の押しの部分は自分でやるからさ」",
+    ("「けど、ま、きっかけだけｍってくれたら、その後の押しの部分は自分でやるからさ」",
     ""),
     # "But, if you only want to give me the trigger, I'll tamper with the part that I push after that."
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # Push...hey.
 
-    ("たしかに、あかりは押しに繧弱い。",
+    ("たしかに、あかりは押しに弱い。",
     ""),
     # Certainly, Akari is weak to pushing.
 
-    ("梶相闡手が誰であれ、強引に烽ものを鰍頼まれると曹拒みきれないとこがある。",
+    ("梶相闡手が誰であれ、強引にものを鰍頼まれると曹拒みきれないとこがある。",
     ""),
     # No matter who the Kaji Concert is, if you are forced to ask for something hot, you can't refuse Cao.
 
-    ("もし烽も薰矢⊥島が頭を下げて鰍頼んだら、あいつは断闥りきれねーだーな。†",
+    ("もしも薰矢⊥島が頭を下げて鰍頼んだら、あいつは断闥りきれねーだーな。†",
     ""),
     # If Yunya Island bowed his head and asked for the kalp, he wouldn't be able to stop him.†
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "Oh, please bear the setting!"
 
-    ("﨟矢⊥島は笑迴顔で言った。",
+    ("﨟矢⊥島は笑顔で言った。",
     ""),
     # 﨟Yajima said with a laughing face.
 
-    ("「おいおい、いくらなんで烽もそり痰ゃちょっと気が≠早すぎんじ痰ゃねーか？」†",
+    ("「おいおい、いくらなんでもそり痰ゃちょっと気が≠早すぎんじ痰ゃねーか？」†",
     ""),
     # "Hey, how quickly does it feel to have a sputum even if it's too early, isn't it?"
 

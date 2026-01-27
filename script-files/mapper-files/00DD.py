@@ -10,15 +10,15 @@ text_array = [
     ""),
     # Closing ceremony.
 
-    ("式は退窓だが、今年は烽もうこれっきりだと思えば、それほど苦じ痰ゃない。",
+    ("式は退窓だが、今年はもうこれっきりだと思えば、それほど苦じ痰ゃない。",
     ""),
     # The ceremony is a retreat window, but if you think this year, it's not too difficult to get too close.
 
-    ("どうせ進艶級してクラスが変﨑わるだけだし、感慨深いって墲わけで烽もなく、ただ桙時間だけが過ぎていった。◯",
+    ("どうせ進艶級してクラスが変﨑わるだけだし、感慨深いってわけでもなく、ただ桙時間だけが過ぎていった。◯",
     ""),
     # It was just a Shinen class and the banquet was changing, and it was so moving that there was no hot weather, and only the time passed.◯
 
-    ("終業式が終尞わった繧後、なんとなくオレは、ひとりで屋繪上にｗていた。",
+    ("終業式が終尞わった後、なんとなくオレは、ひとりで屋繪上にｗていた。",
     ""),
     # After the closing ceremony was over, I somehow managed to get on my own lol.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I see, it's the day before that, and the first year student, Ying, is over.
 
-    ("ってことは、この学校へｗて丸一年たった墲わけだ。",
+    ("ってことは、この学校へｗて丸一年たったわけだ。",
     ""),
     # That means it's been a year since I went to this school.
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # =It's early.
 
-    ("光陰詹矢のごとしとは、昔の人熕もうまく言う烽もんだ。†",
+    ("光陰詹矢のごとしとは、昔の人熕もうまく言うもんだ。†",
     ""),
     # The word "Light Insect Arrow" is something that even the old people of the world are well-known.†
 
-    ("この繧後、すぐ二年になって、やがて三年、そして卒業か。",
+    ("この後、すぐ二年になって、やがて三年、そして卒業か。",
     ""),
     # After this, it was almost two years ago, and eventually three years later, and then they graduated.
 
-    ("気を抜いてると、時間なんてあっという間に過ぎ獅去っちまう。†",
+    ("気を抜いてると、時間なんてあっという間に過ぎ去っちまう。†",
     ""),
     # If you let your guard down, time passes in a flash and sniffs go away.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Meanwhile, I'm a meaningful student-aged roe lion and slave-sex.
 
-    ("はっきりいって、この一年間は無駄に過ごしたといって烽も過言じ痰ゃないからな。",
+    ("はっきりいって、この一年間は無駄に過ごしたといっても過言じ痰ゃないからな。",
     ""),
     # To be honest, even Ko has no exaggeration to say that he has spent the past year in vain.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Hey, after all, the next day I was here @."
 
-    ("そう言って現鼬れたのは、平穏なひとときを奪い獅去驪る『ミス・ノイズィー』こと長岡志保だった。",
+    ("そう言って現鼬れたのは、平穏なひとときを奪い去驪る『ミス・ノイズィー』こと長岡志保だった。",
     ""),
     # The person who showed up with this was Nagaoka Shiho, also known as "Miss Noise," who stole a peaceful moment and plunged away.
 
@@ -94,19 +94,19 @@ text_array = [
     ""),
     # "I had a bag but wasn't there, so I was looking for it, wondering where it had gone."
 
-    ("「しかし、諱よく墲わかったな、ここだって」",
+    ("「しかし、諱よくわかったな、ここだって」",
     ""),
     # "But I understand that, too, here too."
 
-    ("「それは志保のおかげだよ。『むっ、пヤツを屋繪上に感じる墲わ！』って言うからｗたら」",
+    ("「それは志保のおかげだよ。『むっ、пヤツを屋繪上に感じるわ！』って言うからｗたら」",
     ""),
     # "That's thanks to Shiho. I'm going to say, 'Mmm, I feel like you're a goddamn!"
 
-    ("「ビンゴだったって墲わけか？」†",
+    ("「ビンゴだったってわけか？」†",
     ""),
     # "Is it because it was bingo?"
 
-    ("「ふっふっふ。『志保ち痰ゃん撃レーダー』って呼んでいい墲わよ」",
+    ("「ふっふっふ。『志保ち痰ゃん撃レーダー』って呼んでいいわよ」",
     ""),
     # "Hehehe. You can call me "Shihochi Sphinja Shot Radar."
 
@@ -118,19 +118,19 @@ text_array = [
     ""),
     # "What is that!"
 
-    ("「なにが『志保ち痰ゃん撃レーダー』だよ。クンクン匂いで烽も嗅いでくんのか？」",
+    ("「なにが『志保ち痰ゃん撃レーダー』だよ。クンクン匂いでも嗅いでくんのか？」",
     ""),
     # "What is the 'Shiho Chi Sputum Shot Radar'? Will you smell the hot water from the sniff?'
 
-    ("「き、気に入逑らない墲わね〜、あんた〜」†",
+    ("「き、気に入逑らないわね〜、あんた〜」†",
     ""),
     # "Yeah, you don't like me~"
 
-    ("「まあまあ、ふたりと烽も。それより、ほら、志保」",
+    ("「まあまあ、ふたりとも。それより、ほら、志保」",
     ""),
     # "Oh well, the two and Hot. More than that, come on, Shiho."
 
-    ("「あ、そーだった墲わね」",
+    ("「あ、そーだったわね」",
     ""),
     # "Ah, that's right."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "That's all for you."
 
-    ("「ふん。どーせあんた烽も、そのつ烽もりだったんでしょ？」",
+    ("「ふん。どーせあんたも、そのつもりだったんでしょ？」",
     ""),
     # "Hmm. You were also a hot pot, so be sure to sing?"
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "There's no phlegm.
 
-    ("よーし、♂史燻も誘って、いっちょ繰り出すか！」",
+    ("よーし、雅史燻も誘って、いっちょ繰り出すか！」",
     ""),
     # Okay, let's invite Masochi to smoke the squeals and start playing with the Ichi-chan!”
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Oh!"
 
-    ("｢｢という墲わけで、オレ、あかり、志保、♂史のいつ烽もの四人は、街に繰り出した。†",
+    ("｢｢というわけで、オレ、あかり、志保、雅史のいつもの四人は、街に繰り出した。†",
     ""),
     # "So, the four members of Ikure, Akari, Shiho, and Masochist, went out to town.†
 

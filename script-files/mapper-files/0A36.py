@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Ahhhh!"
 
-    ("掾理女緒ち痰ゃんの悲鳴とと烽もに、箱がアスファルトの地面に獅落ちた。",
+    ("掾理女緒ち痰ゃんの悲鳴とともに、箱がアスファルトの地面に落ちた。",
     ""),
     # With the screams of Jochi Sphinja and the roe, the box fell onto the ground of aspha crying.
 
-    ("£身はなにかのケースだったらしく、鈍く壊皷れた感じが、段ボールの繧上からで烽も墲わかるようだった。",
+    ("身はなにかのケースだったらしく、鈍く壊皷れた感じが、段ボールの上からでもわかるようだった。",
     ""),
     # Apparently the body was in some kind of case, and the dull and broken look could be seen from the top of the cardboard box.
 
@@ -34,25 +34,25 @@ text_array = [
     ""),
     # "The box?"
 
-    ("「£になにかいるよぉ…！」",
+    ("「になにかいるよぉ…！」",
     ""),
-    # "There's something in £..."
+    # "There's something in ..."
 
-    ("「£に…？」",
+    ("「に…？」",
     ""),
-    # "For £..."
+    # "For ..."
 
-    ("引越しの荷物のｒになんて、なに烽もいる墲わけないはずだが。†",
+    ("引越しの荷物のｒになんて、なにもいるわけないはずだが。†",
     ""),
     # There's no way there's anything about the things that can be used to carry things in a moving baggage.†
 
-    ("オレは揩理女緒ち痰ゃんの肩をおさえたまま、半分つぶれた箱をジッと見つめる。",
+    ("オレは理女緒ち痰ゃんの肩をおさえたまま、半分つぶれた箱をジッと見つめる。",
     ""),
     # I stared at the half-crushed box, holding down the shoulders of my daughter Ochisou-chan.
 
-    ("すると突然、£から垂巨蜍大なハ祉虫類がはい出してきた。",
+    ("すると突然、から垂巨蜍大なハ祉虫類がはい出してきた。",
     ""),
-    # Suddenly, a huge, slug-like reptile came out of the £.
+    # Suddenly, a huge, slug-like reptile came out of the .
 
     ("「うおっ！	でっけートカゲ！！」",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Iguana: "Is that a tampering thing? You're coming this far?"
 
-    ("「こ、こ墲わいよお…」",
+    ("「こ、こわいよお…」",
     ""),
     # "Hey, this is so fun..."
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # I haven't heard of the iguana being violent, but it's true that he has a gross look on his face.
 
-    ("「つって烽も、捕まえなき痰ゃマズイだ…」†",
+    ("「つっても、捕まえなき痰ゃマズイだ…」†",
     ""),
     # "The phlegm that you can't catch, so it's bad..." †
 
-    ("オレは揩理女緒ち痰ゃんから離齬れて、イグアナの方に忍び足で近づく。",
+    ("オレは理女緒ち痰ゃんから離齬れて、イグアナの方に忍び足で近づく。",
     ""),
     # I get separated from the smug and sneak up on the Iguana's lucky face.
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # Don't come!!”
 
-    ("そのイグアナが目指したのは揩理女緒ち痰ゃんだった。",
+    ("そのイグアナが目指したのは理女緒ち痰ゃんだった。",
     ""),
     # The iguana aimed for was a smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug smug s
 
-    ("逃げようとした揩理女緒ち痰ゃんは、",
+    ("逃げようとした理女緒ち痰ゃんは、",
     ""),
     # The smugan who tried to escape was
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Why not?!"
 
-    ("しかし、イグアナは遠慮なしに揩理女緒ち痰ゃんの体にのし繧上がっていく。†",
+    ("しかし、イグアナは遠慮なしに理女緒ち痰ゃんの体にのし上がっていく。†",
     ""),
     # However, the iguana does not hesitate to lift up on the body of the slut.†
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Suffering..., help..."
 
-    ("蛛大きなハ祉虫類を体にのせて、掾理女緒ち痰ゃんはかすれた声を繧上げる。†",
+    ("蛛大きなハ祉虫類を体にのせて、掾理女緒ち痰ゃんはかすれた声を上げる。†",
     ""),
     # He places the large refuge on his body, and the sound of the slurred voice ejaculates.†
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "You're so excited, stay still, b..."
 
-    ("いくらこんな怪物みたいなрヤツで烽も、何煢もしてない鰍相闡手にいきなりｊ害を加えることはないだう。",
+    ("いくらこんな怪物みたいなрヤツでも、何煢もしてない鰍相闡手にいきなりｊ害を加えることはないだう。",
     ""),
     # Even if you're such a monster-like guy, you won't suddenly do any harm to the unbelievable monkeys.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Ha, I'll take it soon..."
 
-    ("イグアナの柔迴らかそうな腹を背白に乗せられて、もう揩理女緒ち痰ゃんはブルブル震えながら半ベソかいてる。",
+    ("イグアナの柔らかそうな腹を背白に乗せられて、もう理女緒ち痰ゃんはブルブル震えながら半ベソかいてる。",
     ""),
     # With the iguana's soft, soft belly on her back, she is shaking half-heartedly trembling as she trembles.
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # My heart approaches even more carefully.†
 
-    ("それにして烽もコイツ、さっきから何してやがんだ？",
+    ("それにしてもコイツ、さっきから何してやがんだ？",
     ""),
     # And then, what have you been doing for a while now?
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # Let your head go banquet and have a banquet...
 
-    ("そいつの目が追っている烽ものを、オレ焜も探してみた。†",
+    ("そいつの目が追っているものを、オレも探してみた。†",
     ""),
     # I also looked for the hot food that his eyes were following.†
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # "Ah... that is that?"
 
-    ("このイグアナが必死になって見つめていた烽ものは、それは揩理女緒ち痰ゃんの頭からピーンと立ってる前髪だった。",
+    ("このイグアナが必死になって見つめていたものは、それは理女緒ち痰ゃんの頭からピーンと立ってる前髪だった。",
     ""),
     # The iguana was staring desperately at her bangs standing on her head.
 
-    ("掾理女緒ち痰ゃんが動くたびｃラャラ艫ゆれる前髪に、どうやらコイツは、ものすごく興味を揩持ったらしい。†",
+    ("掾理女緒ち痰ゃんが動くたびｃラャラ艫ゆれる前髪に、どうやらコイツは、ものすごく興味を持ったらしい。†",
     ""),
     # Whenever the bangs move, it seems that he was extremely interested in the swaying bangs.†
 
@@ -226,11 +226,11 @@ text_array = [
     ""),
     # My insane dream also came flying out and pulled out the man from the body of my daughter Ochi-chan.†
 
-    ("「う墲わ、気搴持ち悪ぃ感触〜」",
+    ("「うわ、気搴持ち悪ぃ感触〜」",
     ""),
     # "Oh, it feels bad for you."
 
-    ("しか烽も、閨手のｒでじたばた暴齧れる。",
+    ("しかも、閨手のｒでじたばた暴齧れる。",
     ""),
     # However, the chicken also slurps violently with the r-handed r-hand.
 
@@ -246,11 +246,11 @@ text_array = [
     ""),
     # "Heh... Hey, are you a slut?"
 
-    ("「うっ…うえぇぇん…。こ墲わかったー」",
+    ("「うっ…うえぇぇん…。こわかったー」",
     ""),
     # "Uh... ohhh... I understand."
 
-    ("立ち繧上がるなり、オレに飛びついてくる揩理女緒ち痰ゃん。",
+    ("立ち上がるなり、オレに飛びついてくる理女緒ち痰ゃん。",
     ""),
     # As soon as I stand up, I jump at my heart.
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "It looks like you liked this bangs from the sphincter girl."
 
-    ("箱のｒで烽もイグアナは未菇練がましそうに、揺齬れる揩理女緒ち痰ゃんの前髪を目で追っかけてる。",
+    ("箱のｒでもイグアナは未菇練がましそうに、揺齬れる理女緒ち痰ゃんの前髪を目で追っかけてる。",
     ""),
     # The box is on the r, and the iguana looks like she's shaking, and she is chasing with her eyes the bangs of the shaking swaying.
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # Then, perhaps the old guys from earlier had heard of the fuss about it.
 
-    ("そして、イグアナを見骭るなり依活頼蝸主と何か烽もめそうな雰囲気になってしまう。†",
+    ("そして、イグアナを見骭るなり依活頼蝸主と何かもめそうな雰囲気になってしまう。†",
     ""),
     # And as soon as I watched the iguana, it started to feel like I was going to have some kind of turmoil with the reliant cochlea.†
 
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # In a voice that was still trembling a little, the man replied.
 
-    ("「オレがいっしょだと、もっとややこしくなりそうだから帰驪る墲わ」",
+    ("「オレがいっしょだと、もっとややこしくなりそうだから帰驪るわ」",
     ""),
     # "If I were to be bothered by the ecstasy, it would probably become even more complicated, so I'm going to go back."
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # "yeah?"†
 
-    ("「あの｢｢どう烽もありがとう…。",
+    ("「あの｢｢どうもありがとう…。",
     ""),
     # "That "Thank you so much, 'How about you, huh...
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # "Oh, do your best"
 
-    ("さっきのイグアナの感触をできるだけ思い出さないようにしながら、簡単に食鱒事をして家に帰った。◯",
+    ("さっきのイグアナの感触をできるだけ思い出さないようにしながら、簡単に食事をして家に帰った。◯",
     ""),
     # I tried to avoid reminiscing as much as possible about the iguana I had just seen before, and then went home after eating trout.◯
 

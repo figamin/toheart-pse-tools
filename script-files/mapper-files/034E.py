@@ -2,17 +2,17 @@
 # Source file: 034E.txt
 
 text_array = [
-    ("（智子	好感度イベント４回目）閨（選択綜Ａ＋＝ａからの続き）†",
+    ("（智子	好感度イベント４回目）閨（選択綜Ａ＋＝ａからの続き）",
     ""),
-    # (Tomoko's fourth favorability event) (Continued from Chosen A+=a)†
+    # (Tomoko's fourth favorability event) (Continued from Chosen A+=a)
 
     ("「おい、まてよ。無許視すんなって」",
     ""),
     # "Hey, wait. Don't look unauthorized."
 
-    ("オレは駆け寄って、委員長の横に並んだ。†",
+    ("オレは駆け寄って、委員長の横に並んだ。",
     ""),
-    # I leapt closer and lined up next to the chairman.†
+    # I leapt closer and lined up next to the chairman.
 
     ("「なんやの？",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # I'm in a hurry, I'm going to be a stolen one."
 
-    ("「ほんのちょっと揩喋髓るくらい、いいだ？」",
+    ("「ほんのちょっと喋髓るくらい、いいだ？」",
     ""),
     # "Is it okay to just talk a little later?"
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "And what are you using?"
 
-    ("そう言った。†",
+    ("そう言った。",
     ""),
-    # That's what I said.†
+    # That's what I said.
 
     ("「えっとだな…」",
     ""),
@@ -50,31 +50,31 @@ text_array = [
     ""),
     # Damn it.
 
-    ("引き止めたまではよかった烽ものの、なにを揩喋髓るかまでは考えていなかった。",
+    ("引き止めたまではよかったものの、なにを喋髓るかまでは考えていなかった。",
     ""),
     # Although it was good until he stopped him, he hadn't thought up what he was going to talk about.
 
-    ("「その…」†",
+    ("「その…」",
     ""),
-    # "the…"†
+    # "the…"
 
     ("頭に浮かんだのは、やっぱり痰例のノートの一処件だった。",
     ""),
     # What came to mind was that of a notebook with a sample of phlegm.
 
-    ("あのとき見た、委員長の涙ぐんだ赤い目はいま烽もオレの目に焼きついている。†",
+    ("あのとき見た、委員長の涙ぐんだ赤い目はいまもオレの目に焼きついている。",
     ""),
-    # The chairman's tearful red eyes I saw at that time were now burning into my eyes.†
+    # The chairman's tearful red eyes I saw at that time were now burning into my eyes.
 
     ("あれから連中とはどうなったんだう。",
     ""),
     # What happened to them since then?
 
-    ("なに烽もないならそれでいいし、もし、まだあんなことが続いてるなら、それはやっぱり問題だよな。",
+    ("なにもないならそれでいいし、もし、まだあんなことが続いてるなら、それはやっぱり問題だよな。",
     ""),
     # If there's nothing to be done, that's fine, and if that's still going on, then it's definitely a tampering problem.
 
-    ("「＝早鞫よ、言いな」†",
+    ("「＝早鞫よ、言いな」",
     ""),
     # "=Fast, don't say it"
 
@@ -82,19 +82,19 @@ text_array = [
     ""),
     # "Oh... that's it..."
 
-    ("で烽も、それをたずねたとこで、委員長が正直に嘯答えてくれるとは思えない。",
+    ("でも、それをたずねたとこで、委員長が正直に嘯答えてくれるとは思えない。",
     ""),
     # And I don't think that when asked about this, the chairman would answer honestly.
 
-    ("どうせまたお節譿介呼ば墲わりされるのがオチだう。",
+    ("どうせまたお節譿介呼ばわりされるのがオチだう。",
     ""),
     # The punchline is that if you call out to the New Year's Day, you'll be deceived again.
 
-    ("「用燉もないのに話かけんといて」†",
+    ("「用燉もないのに話かけんといて」",
     ""),
-    # "I don't talk to you even though I don't have any plans" †
+    # "I don't talk to you even though I don't have any plans" 
 
-    ("言葉に詰まったオレを置き獅去闍りに、委員長は冷たく行こうとする。",
+    ("言葉に詰まったオレを置き去闍りに、委員長は冷たく行こうとする。",
     ""),
     # I was so exhausted by words that I left, and the chairman tried to go coldly.
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "Oh, hey, wait."
 
-    ("オレは慌てて追いかけた。†",
+    ("オレは慌てて追いかけた。",
     ""),
-    # I hurriedly chased after him.†
+    # I hurriedly chased after him.
 
     ("「なあ、なにそんなに急いでんだ？」",
     ""),
@@ -118,31 +118,31 @@ text_array = [
     ""),
     # "Tampering that has nothing to do with you b."
 
-    ("と、とりつく№島燗もなくあしら墲われた。†",
+    ("と、とりつく№島燗もなくあしらわれた。",
     ""),
-    # And the dish was poured in without a catch of No. 1 island.†
+    # And the dish was poured in without a catch of No. 1 island.
 
     ("立ち止まるオレ。",
     ""),
     # I stopped and groaned.
 
-    ("一箞方委員長はそのまま烽歩いていき、ふたりの翌距離はどんどん開いていく。†",
+    ("一箞方委員長はそのまま歩いていき、ふたりの翌距離はどんどん開いていく。",
     ""),
-    # Chairman Ichigakata continued to walk around, and the next distance between them continued to expand.†
+    # Chairman Ichigakata continued to walk around, and the next distance between them continued to expand.
 
-    ("もと烽もと素っ気なかった委員長だけど、瘁例の一処件以来、ますます冷たさに≠きがかかった感じがする。",
+    ("もともと素っ気なかった委員長だけど、瘁例の一処件以来、ますます冷たさに≠きがかかった感じがする。",
     ""),
     # The chairman was originally a bit unfair, but since the incident occurred, it seems like the coldness of the class has been even more refined.
 
-    ("話しかけて烽もこんな調子で、無許視されたり、冷たくあしら墲われたりと、まったくｉ話にならない。†",
+    ("話しかけてもこんな調子で、無許視されたり、冷たくあしらわれたりと、まったく話にならない。",
     ""),
-    # When I spoke to him, he was also in this way, and he was seen as unauthorized and turned to a cold-hearted manner, so it was hard to talk about anything.†
+    # When I spoke to him, he was also in this way, and he was seen as unauthorized and turned to a cold-hearted manner, so it was hard to talk about anything.
 
     ("「お急ぎのとこ、悪ぅーございましたね！」",
     ""),
     # "I'm in a hurry, but b, that's bad!"
 
-    ("蛛大声でそう言って烽も、",
+    ("蛛大声でそう言っても、",
     ""),
     # He said this loudly,
 
@@ -150,15 +150,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("委員長はシカトし、なに烽も嘯答えなかった。",
+    ("委員長はシカトし、なにも嘯答えなかった。",
     ""),
     # The chairman squealed, and no one answered.
 
-    ("ったく、無愛想者が。†",
+    ("ったく、無愛想者が。",
     ""),
-    # A rude person.†
+    # A rude person.
 
-    ("これじ痰ゃいつまで経って烽もこのギクシャャクした関係から抜けられそうにねーな。",
+    ("これじ痰ゃいつまで経ってもこのギクシャャクした関係から抜けられそうにねーな。",
     ""),
     # How long will this be phlegm last? I don't think Hou will be able to escape from this annoying relationship.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # Okay, I've got it.
 
-    ("今度機級があったら、多少強引にで烽も引き止めて、もっといい話をしよう。",
+    ("今度機級があったら、多少強引にでも引き止めて、もっといい話をしよう。",
     ""),
     # Next time I have a model grade, I'll force myself to stop the hot and talk about a bit more BB.
 

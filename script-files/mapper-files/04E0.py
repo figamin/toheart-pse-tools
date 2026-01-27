@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Huh? What is that?"
 
-    ("「オレがオ＜メエにキスされそうになったときの…、ほら、縺後でお前が謝闔りにｗただ？」",
+    ("「オレがオ＜メエにキスされそうになったときの…、ほら、縺後でお前が謝りにｗただ？」",
     ""),
     # "When I was about to kiss you, oh, come on, after that, you apologized lol, right?"
 
-    ("「誰があたしにキスされそうになったのよ！？	おかげで思い出した墲わ」",
+    ("「誰があたしにキスされそうになったのよ！？	おかげで思い出したわ」",
     ""),
     # "Who was about to kiss me!? Thanks to that, I remembered it."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I'll say it with phlegm. Then I'll try and tamper with it."
 
-    ("「わかった墲わよ」",
+    ("「わかったわよ」",
     ""),
     # "I understand, I'm gonna get it."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "...it's nice."
 
-    ("仕返しに繧舌を出す。†",
+    ("仕返しに舌を出す。†",
     ""),
     # He sticks out his tongue in revenge.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Huh? Was that kind of tiresome speech?"
 
-    ("「わかってる墲わよ」",
+    ("「わかってるわよ」",
     ""),
     # "I know that, you know."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Then say that."
 
-    ("「…言う墲わよぉ」",
+    ("「…言うわよぉ」",
     ""),
     # "...I'll say it."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "What are you embarrassed?"
 
-    ("志保に烽も恥ずかしいことってあるんだな。",
+    ("志保にも恥ずかしいことってあるんだな。",
     ""),
     # There are times when Shiho is embarrassed about it.
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # My heart stopped laughing.†
 
-    ("「…言う墲わよぉ？」",
+    ("「…言うわよぉ？」",
     ""),
     # "...I'll say that, right?"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Come on, play with me."
 
-    ("なかばやけっぱちながら、で烽も、色っぽく体をくねらすポーズまでつける志保。",
+    ("なかばやけっぱちながら、でも、色っぽく体をくねらすポーズまでつける志保。",
     ""),
     # Shiho is stomping and stomping, but even makes a sexy pose to wiggle his body.
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "What, what? What's that 'pup'?!"
 
-    ("「いや…その…わざ墲わざポーズつけて言甯わなくて烽も…ぷぷっ」",
+    ("「いや…その…わざわざポーズつけて言甯わなくても…ぷぷっ」",
     ""),
     # "It's a mess... I mean... I don't want to pose on purpose, so I'm not gonna say it, so I'm puffing."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # My stomach is shaking.†
 
-    ("「…あんたっ、せっかく人がおごる約束まで思い出してあげたのに、そんなんじ痰ゃおごらない墲わよっ？」",
+    ("「…あんたっ、せっかく人がおごる約束まで思い出してあげたのに、そんなんじ痰ゃおごらないわよっ？」",
     ""),
     # "...You've even remembered the promise that someone would treat you, but you're not too concerned about it?"
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Wait, why is Fuku's apologies seem arrogant? The other way around, b."
 
-    ("あいつがオレを引きずり烽歩いたから、お詫びにおごるって約束だったよな。†",
+    ("あいつがオレを引きずり歩いたから、お詫びにおごるって約束だったよな。†",
     ""),
     # He dragged me around and walked around, so I was promised to treat me as an apology.†
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # I remembered it.†
 
-    ("「う、うっさい墲わねっ！	だったらあんた烽もおごって烽もらえるんだから、感謝しなさいよ」",
+    ("「う、うっさいわねっ！	だったらあんたもおごってもらえるんだから、感謝しなさいよ」",
     ""),
     # "Uh, that's awful! If that's the case, you'll be able to buy some hot pot and get some hot pot, so be grateful."
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "That's a different story."
 
-    ("「っとに、笑い終尞わったらついてきなさいよ。ここまでコケにされて烽も約束迹守骼るんだから、志保って律儀な翌女だな〜って思いなさい」†",
+    ("「っとに、笑い終尞わったらついてきなさいよ。ここまでコケにされても約束迹守骼るんだから、志保って律儀な翌女だな〜って思いなさい」†",
     ""),
     # "Something, when the laughter ends, follow me. Since you're making such a mocking point, you'll be sure to keep up with Ho's promises, so think that Shiho is the utmost deliberate woman after all."
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # ・†
 
-    ("という墲わけで、やってきたのがここрヤック。†",
+    ("というわけで、やってきたのがここрヤック。†",
     ""),
     # So, this is the place I came to.†
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # In the end, all I'm holding is Bagata Liya.
 
-    ("なにし≠メ鴻ロンパイとかシャャーベットとか、いつ烽もと痰違う≠メニャーを鰍頼んで烽も志保が却下するから、自動的にこうなってしまう。†",
+    ("なにし≠メ鴻ロンパイとかシャャーベットとか、いつもと痰違う≠メニャーを鰍頼んでも志保が却下するから、自動的にこうなってしまう。†",
     ""),
     # What's this? B≠ Mehong Ron Pie or Shaw Bet, and whenever you order a different phlegm from the original, you ask for the Mehong Yang, and Shiho also rejects the Hot, so this is what happens automatically.†
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "The stingy next woman..."
 
-    ("「ケチはどっちよ？	ひとのカネだと思って食べたくない烽ものまで鰍頼燉もうとするし」",
+    ("「ケチはどっちよ？	ひとのカネだと思って食べたくないものまで鰍頼燉もうとするし」",
     ""),
     # "Which one is stingy? They try to snag even if they don't want to eat it because they think it's someone else's money."
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # "You're invited me and I can say that much."
 
-    ("「瘁違う墲わよ。誰が好き好んであんたをおごりに誘ったりすんのよ？	べつに用があんの」",
+    ("「瘁違うわよ。誰が好き好んであんたをおごりに誘ったりすんのよ？	べつに用があんの」",
     ""),
     # "It's a different story. Who do you like and invite you to treat me? I have no need for it."
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # I was caught off guard and was only surprised.†
 
-    ("「き繧ゅ、急になに言い出すんだよ」",
+    ("「きゅ、急になに言い出すんだよ」",
     ""),
     # "Kii, what are you suddenly saying?"
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # "Don't do it, my name."
 
-    ("「こら、そー艨ゆーときは、お世辞で烽も『ドキドキしたよ』とか言う烽もんでしょ？」",
+    ("「こら、そー艨ゆーときは、お世辞でも『ドキドキしたよ』とか言うもんでしょ？」",
     ""),
     # "Hey, when you say, "I'm not going to get excited, you're not going to have a flattering comment like, "I'm excited," isn't it?"
 
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # "If you mess up and keep on getting jealous, you'll eventually lose your trust?"
 
-    ("…こういう烽説教はしょっち繧ゅうしてるな。†",
+    ("…こういう説教はしょっちゅうしてるな。†",
     ""),
     # ...I often do sermons like this.†
 
@@ -390,7 +390,7 @@ text_array = [
     ""),
     # "That's a tampering question..."
 
-    ("言い返し烽もせず、志保はまじめに考え桙込んでしまった。",
+    ("言い返しもせず、志保はまじめに考え桙込んでしまった。",
     ""),
     # Without even making any rebuttal, Shiho thought seriously about it.
 
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # "Hey"
 
-    ("「…あたしたちって、£学の頃からだから、結構長いつき№合いよね」",
+    ("「…あたしたちって、学の頃からだから、結構長いつき№合いよね」",
     ""),
     # "...I've been around since I was in school, so it's been quite a long time, so it's a good match."
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # "I'm you, you?"
 
-    ("「あかりとｉ史燻も含めてよ」",
+    ("「あかりと史燻も含めてよ」",
     ""),
     # "Includes Akari and I-Shin's Smoking"
 
@@ -434,7 +434,7 @@ text_array = [
     ""),
     # "Ah, that's right."
 
-    ("「あたしたちって、いっしょにいるとすごく楽しい墲わよね」",
+    ("「あたしたちって、いっしょにいるとすごく楽しいわよね」",
     ""),
     # "It's so much fun to be with you, isn't it?"
 
@@ -442,15 +442,15 @@ text_array = [
     ""),
     # "ah"
 
-    ("「このままみんな卒業して、就職して烽もいっしょかな？」†",
+    ("「このままみんな卒業して、就職してもいっしょかな？」†",
     ""),
     # "All of us will graduate, get a job, and we'll be working, too?"
 
-    ("「そんな先のことは墲わからねえけど、やっぱそうなんだ」",
+    ("「そんな先のことはわからねえけど、やっぱそうなんだ」",
     ""),
     # "I don't know what's going on like that, but that's true."
 
-    ("「それ烽もいいけど、それじ痰ゃいけないような気、しない？」",
+    ("「それもいいけど、それじ痰ゃいけないような気、しない？」",
     ""),
     # "That's good, but don't you think you need to phlegm?"
 
@@ -490,7 +490,7 @@ text_array = [
     ""),
     # "...Don't you sniff me and get cold?"
 
-    ("「べつに。ただおめーとは気をつか墲わなくていい№仲だと思ってるからな」†",
+    ("「べつに。ただおめーとは気をつかわなくていい№仲だと思ってるからな」†",
     ""),
     # "And so, I just think we're friends with you, don't have to worry about it."
 
@@ -510,7 +510,7 @@ text_array = [
     ""),
     # "Don't be impressed" †
 
-    ("「ま、いい墲わ。それより、どうして烽もさっきのこと教えないつ烽もり？」",
+    ("「ま、いいわ。それより、どうしてもさっきのこと教えないつもり？」",
     ""),
     # "Well, that's good. What's more, why did you not even tell us about the previous episode?"
 
@@ -530,7 +530,7 @@ text_array = [
     ""),
     # "I said that earlier"
 
-    ("「…しょーがねえなぁ。オレはな、あかりを特別な目で烽も見てないし、特別だと烽も思ってねえよ」",
+    ("「…しょーがねえなぁ。オレはな、あかりを特別な目でも見てないし、特別だとも思ってねえよ」",
     ""),
     # "...I don't have any sluts. I haven't seen Akari with special eyes, and I don't think it's special either."
 
@@ -538,11 +538,11 @@ text_array = [
     ""),
     # "why?"
 
-    ("「あいつとはつき№合いが長すぎて、そんな翌風にはとて烽も見鼬れねえんだ」",
+    ("「あいつとはつき№合いが長すぎて、そんな翌風にはとても見鼬れねえんだ」",
     ""),
     # "I've been in a relationship with him so long that I can't even catch the hot spring after all."
 
-    ("どちらかといえば、＊みたいな烽もんだ。†",
+    ("どちらかといえば、＊みたいなもんだ。†",
     ""),
     # If anything, it's like *-like hot water.†
 
@@ -582,7 +582,7 @@ text_array = [
     ""),
     # "That's right."
 
-    ("「あたし、諱よく墲わかんない」†",
+    ("「あたし、諱よくわかんない」†",
     ""),
     # "I don't really know what you're saying"
 
@@ -590,7 +590,7 @@ text_array = [
     ""),
     # "Hey"
 
-    ("「ねえ、前に烽もこんな話、しなかった？」",
+    ("「ねえ、前にもこんな話、しなかった？」",
     ""),
     # "Hey, did you not even mention this before?"
 
@@ -606,7 +606,7 @@ text_array = [
     ""),
     # "Not good" †
 
-    ("「しょーがない墲わねぇ」",
+    ("「しょーがないわねぇ」",
     ""),
     # "There's no slut."
 
@@ -614,7 +614,7 @@ text_array = [
     ""),
     # "It's absolutely not" †
 
-    ("「んじ痰ゃ、言甯わせて烽もらうけど｢｢」",
+    ("「んじ痰ゃ、言甯わせてもらうけど｢｢」",
     ""),
     # "I'm not gonna say it, but I'll get some hot water, but ""
 
@@ -622,7 +622,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("「｢｢蜀大体さぁ、梶相闡手のこと好きって感覚がよく墲わかんないのよ…。あんた、わかる？」†",
+    ("「｢｢蜀大体さぁ、梶相闡手のこと好きって感覚がよくわかんないのよ…。あんた、わかる？」†",
     ""),
     # ""Shu, I don't really understand the feeling that I like Kaji Sensei... Do you know that?"
 
@@ -630,7 +630,7 @@ text_array = [
     ""),
     # "That's true... I mean, I mean, I want to be with you, such as "I'm so cool, I guess you have to be with me," says the person who likes you, including those?"
 
-    ("なんか、オレ焜もよく墲わかってないのか烽も。",
+    ("なんか、オレもよくわかってないのかも。",
     ""),
     # I guess my super-realistic guy doesn't really understand it, too.
 
@@ -642,7 +642,7 @@ text_array = [
     ""),
     # "I don't know, my name is.
 
-    ("口じ痰ゃうまく烽説明できねえんだ」†",
+    ("口じ痰ゃうまく説明できねえんだ」†",
     ""),
     # I can't explain it well if I just sputum."
 
@@ -654,7 +654,7 @@ text_array = [
     ""),
     # "...Is that so?"
 
-    ("「そうじ痰ゃない。あんたって、あたしから見て烽も男ど烽ものｒじ痰ゃイイヰ行ってる方だし、あんたといると飽きないから、いっしょにいて烽もいいかな、って思うし…」†",
+    ("「そうじ痰ゃない。あんたって、あたしから見ても男どものｒじ痰ゃイイヰ行ってる方だし、あんたといると飽きないから、いっしょにいてもいいかな、って思うし…」†",
     ""),
     # "I don't have to cleanse the phlegm. From my perspective, you are a lucky person who is good at making hot springs and phlegms, and when you are there, you won't get bored of them, so I think it's fine for you to be with us and phlegms..."
 
@@ -666,7 +666,7 @@ text_array = [
     ""),
     # "But-ii"
 
-    ("「で烽もな、そういうの、なんか痰違妤わねえか？」",
+    ("「でもな、そういうの、なんか痰違わねえか？」",
     ""),
     # "And you're not even dazzling that kind of thing, isn't it?"
 
@@ -674,7 +674,7 @@ text_array = [
     ""),
     # "You said that, slut?"
 
-    ("「…まあ、それが恋愛っていうなら、オレ焜もお前と同じようなこと考えてるからな。これじ痰ゃオレ焜もお前が好きってことになっちまう」†",
+    ("「…まあ、それが恋愛っていうなら、オレもお前と同じようなこと考えてるからな。これじ痰ゃオレもお前が好きってことになっちまう」†",
     ""),
     # "...Well, if that's about love, then my gems are thinking the same thing as you. If this is all that, my gems will mean that my gems love you too."†
 
@@ -682,7 +682,7 @@ text_array = [
     ""),
     # "Are you interested in me?"
 
-    ("ある墲わけねーだ、と言うとこを、",
+    ("あるわけねーだ、と言うとこを、",
     ""),
     # When I say that there's no way there's a thing b,
 
@@ -746,7 +746,7 @@ text_array = [
     ""),
     # "Hey, what a sudden thing is ""
 
-    ("オレ焜も繧後に続こうと｢｢。†",
+    ("オレも後に続こうと｢｢。†",
     ""),
     # I was trying to continue after the incident, saying, ".†
 
@@ -754,7 +754,7 @@ text_array = [
     ""),
     # "There! I won't follow you!"
 
-    ("ビシッとオレを指差すと、足¢早に志保は獅去っていった。",
+    ("ビシッとオレを指差すと、足¢早に志保は去っていった。",
     ""),
     # He pointed at me with a thud and quickly left Shiho.
 

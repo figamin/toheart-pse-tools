@@ -2,11 +2,11 @@
 # Source file: 00C0.txt
 
 text_array = [
-    ("（４獅月２６冾日	朝）閨（自分の部屋）†",
+    ("（４月２６冾日	朝）閨（自分の部屋）",
     ""),
     # (April 26th day of the month of the month) (morning) (morning)
 
-    ("４獅月２６冾日、土曜坥日。",
+    ("４月２６冾日、土曜坥日。",
     ""),
     # April 26th, Saturday.
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's just Saturday, and it's refreshing.
 
-    ("今厓日みたいに天気がいいと、なおさらだ。†",
+    ("今厓日みたいに天気がいいと、なおさらだ。",
     ""),
-    # This is especially true when the weather is as good as on the day of the day.†
+    # This is especially true when the weather is as good as on the day of the day.
 
     ("「ちょっと翌風邪気味なの」",
     ""),
@@ -26,8 +26,8 @@ text_array = [
     ""),
     # "Are you sturdy, are you sturdy? Get it fixed properly."
 
-    ("「うん、ありがとう」†",
+    ("「うん、ありがとう」",
     ""),
-    # "Yeah, thank you" †
+    # "Yeah, thank you" 
 
 ]

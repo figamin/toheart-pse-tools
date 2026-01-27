@@ -2,7 +2,7 @@
 # Source file: 0387.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（３獅月）閨（校蜊門燒内）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（３月）閨（校門燒内）†",
     ""),
     # (Tomoko's Scales Event: Leaving School LV2) (3 Shizuki) (Inside the School Midmond) †
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # After the attack, the voices were spurting on me.
 
-    ("振關りｌかなくたって墲わかる。",
+    ("振關りｌかなくたってわかる。",
     ""),
     # You can understand it even if you don't have a call.
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # There is only one person who calls me a "chishou-chan" character.†
 
-    ("「待って。ね、いっしょに帰汲？」",
+    ("「待って。ね、いっしょに帰？」",
     ""),
     # "Wait. Hey, are you going to return to the ephemeral?"
 
-    ("目の前までｗたあかりが、小さく息をはずませながら笑迴顔で言った。",
+    ("目の前までｗたあかりが、小さく息をはずませながら笑顔で言った。",
     ""),
     # Taakari said with a smile as he took a small breath.
 
-    ("「どうで烽もいいけど、そうやってでけー声で下の名前呼ぶなよ」",
+    ("「どうでもいいけど、そうやってでけー声で下の名前呼ぶなよ」",
     ""),
     # "What do you think, Hot is fine, but don't call your name in a voice."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I'm embarrassed, so stop tampering with it b, how many times have you said that you're even warming it?"
 
-    ("「で烽も、これは烽もう癖っていうか、そう簡単には変えられないよ」",
+    ("「でも、これはもう癖っていうか、そう簡単には変えられないよ」",
     ""),
     # "And even though it's a habit, it's not like it's a habit, it can't be changed that easily."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "And what?"
 
-    ("「えっ？	あっ、いっしょに帰汲うと思って。い",
+    ("「えっ？	あっ、いっしょに帰うと思って。い",
     ""),
     # "Huh? Ah, I thought I'd return to Ebi.
 

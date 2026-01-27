@@ -2,9 +2,9 @@
 # Source file: 0A61.txt
 
 text_array = [
-    ("（Ａ	声をかける。）†",
+    ("（Ａ	声をかける。）",
     ""),
-    # (A call out.)†
+    # (A call out.)
 
     ("「オッス。熱心にやってるじ痰ゃねーか」",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Huh. Dick."
 
-    ("掾理女緒ち痰ゃんが教科痩書からパッと顔を繧上げた。†",
+    ("掾理女緒ち痰ゃんが教科痩書からパッと顔を上げた。",
     ""),
-    # The girl Ochisou-chan suddenly lifted her face from the subject slimming book.†
+    # The girl Ochisou-chan suddenly lifted her face from the subject slimming book.
 
-    ("「まじめなのはいいけど、なに烽もこんなとこで勉強しなくて烽もいいんじ痰ゃねーのか？」†",
+    ("「まじめなのはいいけど、なにもこんなとこで勉強しなくてもいいんじ痰ゃねーのか？」",
     ""),
     # "It's fine to be serious, but what's the case for Hot Springs and Hot Springs doesn't have to study in places like this, so it's fine for Hot Springs to be phlegm?"
 

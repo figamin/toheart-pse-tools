@@ -2,11 +2,11 @@
 # Source file: 00AE.txt
 
 text_array = [
-    ("（３獅月２２冾日	朝）閨（自分の部屋）†",
+    ("（３月２２冾日	朝）閨（自分の部屋）†",
     ""),
     # (Morning of the 22nd Day of the Three Lion Day) (morning of my room)†
 
-    ("３獅月２２冾日、土曜坥日。",
+    ("３月２２冾日、土曜坥日。",
     ""),
     # The 22nd day of the 3rd month of the 22nd day of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Well, now, I'll do my best to celebrate the day of the day.†
 
-    ("「土曜坥日はいつ烽も嬉しそうだね」",
+    ("「土曜坥日はいつも嬉しそうだね」",
     ""),
     # "When is Saturday's day, it looks like Hot is happy."
 

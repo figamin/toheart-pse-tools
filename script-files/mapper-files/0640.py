@@ -2,17 +2,17 @@
 # Source file: 0640.txt
 
 text_array = [
-    ("（マルチ	好感度イベント	１）閨（好感度が	のとき）閨（３桙時間目の休み桙時間）閨（渡闢り廊下）†",
+    ("（マルチ	好感度イベント	１）閨（好感度が	のとき）閨（３桙時間目の休み桙時間）閨（渡闢り廊下）",
     ""),
-    # (Makkuruchi Likeability Event 1) (When Likeability is ) (When Rest Time in the 3rd Floor Time) (Counter corridor) †
+    # (Makkuruchi Likeability Event 1) (When Likeability is ) (When Rest Time in the 3rd Floor Time) (Counter corridor) 
 
     ("３桙時間目の休み桙時間。",
     ""),
     # The third fence time is the break time.
 
-    ("渡闢り廊下でマルチを見かけた。†",
+    ("渡闢り廊下でマルチを見かけた。",
     ""),
-    # I saw Ruchi in the corridor along the way.†
+    # I saw Ruchi in the corridor along the way.
 
     ("「犬さん、犬さん、こんにちは」",
     ""),
@@ -46,19 +46,19 @@ text_array = [
     ""),
     # "Bang,
 
-    ("わんっ」†",
+    ("わんっ」",
     ""),
-    # Wow" †
+    # Wow" 
 
     ("「うーん、ごいっしょしたいのはやまやまですが、わたしは授業があるからダ＜メなんですよー」",
     ""),
     # "Hmm, I want to sing together, but I'm not slaughter because I have classes."
 
-    ("「くぅーん」†",
+    ("「くぅーん」",
     ""),
-    # "Kuuuu" †
+    # "Kuuuu" 
 
-    ("いっ、いぬと揩喋ってる！？",
+    ("いっ、いぬと喋ってる！？",
     ""),
     # Yes, I'm talking to the dog!?
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # Isn't there any phlegm?
 
-    ("なんとなく雰囲気で話してるだけだよな。†",
+    ("なんとなく雰囲気で話してるだけだよな。",
     ""),
-    # I'm just talking about it in a way somehow.†
+    # I'm just talking about it in a way somehow.
 
-    ("しかし、あいつ烽もとことん律儀だな。",
+    ("しかし、あいつもとことん律儀だな。",
     ""),
     # But he's also very strict.
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # They used the words "Anyaku" to the dog monk.
 
-    ("いや、で烽も、まあ、機械で出女たマルチにすれば、いぬ烽も人間煌も自分たち高ロボットとは痰違う『生き物』なんだし、瘁違いなんてないのか烽もしれねーな。†",
+    ("いや、でも、まあ、機械で出女たマルチにすれば、いぬも人間煌も自分たち高ロボットとは痰違う『生き物』なんだし、瘁違いなんてないのかもしれねーな。",
     ""),
-    # If we were to make Karashi, and then, if we were to turn the woman out of a machine into a cry, both the dog and the human Kirashi were "living creatures" that were different from those of high robots, so it's no surprise that there's nothing wrong with them.†
+    # If we were to make Karashi, and then, if we were to turn the woman out of a machine into a cry, both the dog and the human Kirashi were "living creatures" that were different from those of high robots, so it's no surprise that there's nothing wrong with them.
 
-    ("「もうすぐ、お汲昼ですね」",
+    ("「もうすぐ、お昼ですね」",
     ""),
     # "It's almost time for lunch."
 
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "Bang,
 
-    ("わんっ」†",
+    ("わんっ」",
     ""),
-    # Wow" †
+    # Wow" 
 
     ("「…お腹が空くって、どんな気分ですか？」",
     ""),
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # "I want to know."
 
-    ("「わんっ」†",
+    ("「わんっ」",
     ""),
-    # "Booo" †
+    # "Booo" 
 
-    ("「あっ、そうだ。今朝、バスで席をか墲わってあげたおばあさんに、クッキーをいただいたんですよー。",
+    ("「あっ、そうだ。今朝、バスで席をかわってあげたおばあさんに、クッキーをいただいたんですよー。",
     ""),
     # "Ah, that's right. This morning, the old lady who sat on the bus gave me a cookie.
 
@@ -146,15 +146,15 @@ text_array = [
     ""),
     # ""please!”
 
-    ("「わんっ」†",
+    ("「わんっ」",
     ""),
-    # "Booo" †
+    # "Booo" 
 
     ("がつがつ。",
     ""),
     # It's tough.
 
-    ("「おいしいですか？」†",
+    ("「おいしいですか？」",
     ""),
     # "Is it tasty?"
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "I see.
 
-    ("よかったです」†",
+    ("よかったです」",
     ""),
     # That's good"
 
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # It's tough.
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「わんっ」",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # "Was it that tasty?"
 
-    ("「わんっ」†",
+    ("「わんっ」",
     ""),
-    # "Booo" †
+    # "Booo" 
 
     ("「そうですかー。じ痰ゃあ今度また何かいただいたら、掾持ってきますね」",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「…ねえ、犬さん」",
     ""),
@@ -242,11 +242,11 @@ text_array = [
     ""),
     # "Bang,
 
-    ("わんっ」†",
+    ("わんっ」",
     ""),
-    # Wow" †
+    # Wow" 
 
-    ("おいしいが墲わからない、か。",
+    ("おいしいがわからない、か。",
     ""),
     # It's delicious, but I don't know what it is.
 
@@ -262,19 +262,19 @@ text_array = [
     ""),
     # When I see people, what kind of energy do you have?
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("アホくさ。",
     ""),
     # That's stupid.
 
-    ("香ロボットなんて、プ鴻ログラムどおりに動いてんだから、気搴持ち烽もなに烽もないだう。",
+    ("香ロボットなんて、プ鴻ログラムどおりに動いてんだから、気搴持ちもなにもないだう。",
     ""),
     # The Koh Robots are moving in the way they are, so there are no hot and no hot pots.
 
-    ("そ烽もそ烽も、心なんて烽ものは…。",
+    ("そもそも、心なんてものは…。",
     ""),
     # No matter how hot it is, no matter how hot it is, no matter how hot it is...
 
@@ -282,9 +282,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("マルチには…あるような気がする…。†",
+    ("マルチには…あるような気がする…。",
     ""),
-    # I feel like there is something in Makruchi...†
+    # I feel like there is something in Makruchi...
 
     ("「そういえばですねー、犬さん」",
     ""),
@@ -294,9 +294,9 @@ text_array = [
     ""),
     # "No way."
 
-    ("「おーい、マルチー」†",
+    ("「おーい、マルチー」",
     ""),
-    # "Hey, Luchi, yeah" †
+    # "Hey, Luchi, yeah" 
 
     ("「？」",
     ""),
@@ -310,9 +310,9 @@ text_array = [
     ""),
     # "No way."
 
-    ("と同椏時に、きち痰ゃない犬がオレの足熨もとに駆け寄ってきた。†",
+    ("と同椏時に、きち痰ゃない犬がオレの足熨もとに駆け寄ってきた。",
     ""),
-    # At the same time, a dog with no phlegms approached my slutty feet.†
+    # At the same time, a dog with no phlegms approached my slutty feet.
 
     ("「あっ、さん！	こんにちはー」",
     ""),
@@ -322,15 +322,15 @@ text_array = [
     ""),
     # "My name is, I look like I'm fine now."
 
-    ("「はいっ！	今厓日燗も元気ですっ」†",
+    ("「はいっ！	今厓日燗も元気ですっ」",
     ""),
     # "Yes! I'm fine now too"
 
-    ("その繧後、チャャイムが鳴髢る１分前まで、オレはマルチとなにげないおし痰ゃべりをした。",
+    ("その後、チャャイムが鳴髢る１分前まで、オレはマルチとなにげないおし痰ゃべりをした。",
     ""),
     # After that, until one minute before Chaim pounded, I cried and casually sputum battered my eyes.
 
-    ("マルチはいつ烽もどおり、明髢るく素直で前糟きな、とて烽もいいрヤツだった。◯",
+    ("マルチはいつもどおり、明髢るく素直で前きな、とてもいいрヤツだった。◯",
     ""),
     # He was always like a hot topic, and was very honest, honest, and very cheerful.◯
 

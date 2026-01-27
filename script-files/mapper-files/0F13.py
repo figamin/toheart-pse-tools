@@ -2,7 +2,7 @@
 # Source file: 0F13.txt
 
 text_array = [
-    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	♂史がｗた）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	雅史がｗた）閨（蛛主人公煙負け）†",
     ""),
     # (Arcade Battle Cry 2) (Red Season Final Test Part 2 (HbbH)) (Choice Songs: Makishi lol) (Mrage Protagonist: Lost) †
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "It's absolutely not" †
 
-    ("う墲わさをすれば、志保とあかりがこっちへやってｗた。",
+    ("うわさをすれば、志保とあかりがこっちへやってｗた。",
     ""),
     # If I did it, Shiho and Akari were tampering with me lol.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Are you two fun together?"
 
-    ("のけ者にしたことを、まだ根に揩持っているらしい志保。†",
+    ("のけ者にしたことを、まだ根に持っているらしい志保。†",
     ""),
     # Shiho seems to still be stalking what he has done to an outcast.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # I started to sluggishly bite.
 
-    ("「おいｉ史、もう一回だ」",
+    ("「おい史、もう一回だ」",
     ""),
     # "Hey, I'm going to be another time."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # つけた」†
 
-    ("「なによなによ。あかり〜っ、とｉ史がいぢめる〜〜〜っ；」",
+    ("「なによなによ。あかり〜っ、と史がいぢめる〜〜〜っ；」",
     ""),
     # "What, what? Akari, I-Shin will bully you~!"
 

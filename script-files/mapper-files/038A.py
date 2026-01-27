@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Akari laughs shyly.
 
-    ("「あ、で烽も、п私謗より…」",
+    ("「あ、でも、п私謗より…」",
     ""),
     # "Ah, and even Kao, it's more than slandering me..."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Is it sturdy?”
 
-    ("あかりが心配そうにたずねると、保科は汲視諮をそらし、ひとこと、",
+    ("あかりが心配そうにたずねると、保科は視諮をそらし、ひとこと、",
     ""),
     # Akari asked with concern, and Hoshina deflected the advice of Tsumizu and said,
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("「ま、オレ焜も悪いんだけどさ」",
+    ("「ま、オレも悪いんだけどさ」",
     ""),
     # "Well, I'm also insanely bad."
 

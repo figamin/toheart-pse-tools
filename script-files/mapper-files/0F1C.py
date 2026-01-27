@@ -2,9 +2,9 @@
 # Source file: 0F1C.txt
 
 text_array = [
-    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	志保を誘う）閨（蛛主人公沍勝ち（＝普通））†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	志保を誘う）閨（蛛主人公沍勝ち（＝普通））",
     ""),
-    # (Arcade Battle Cry 3) (Closing ceremony edition) (Selection ceremony invitation) (Invites Shiho) (Dragon protagonist, the normal))†
+    # (Arcade Battle Cry 3) (Closing ceremony edition) (Selection ceremony invitation) (Invites Shiho) (Dragon protagonist, the normal))
 
     ("「おっし痰ゃあっ！	もらったぜ！」",
     ""),
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Did you see it, Akari? Is it a huge win??"
 
-    ("「うん、諱よかったね」†",
+    ("「うん、諱よかったね」",
     ""),
-    # "Yeah, that was good" †
+    # "Yeah, that was good" 
 
-    ("「諱よかない墲わよ、あかり〜っ」",
+    ("「諱よかないわよ、あかり〜っ」",
     ""),
     # "It's a shame, Akari."
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Ahhhhhh"
 
-    ("「氈勝者と敗者。青春の光と影ね…」†",
+    ("「氈勝者と敗者。青春の光と影ね…」",
     ""),
-    # "The winners and losers. The light and shadow of youth..."†
+    # "The winners and losers. The light and shadow of youth..."
 
     ("志保に快汢勝できて、じつに気分が良かった。◯",
     ""),

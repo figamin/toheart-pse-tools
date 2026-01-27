@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "...Mm, let's make a name for yourself."
 
-    ("オレは、授業拠からずっと寝ぼけたままの頭を揩持ち繧上げて返抹事する。",
+    ("オレは、授業拠からずっと寝ぼけたままの頭を持ち上げて返抹事する。",
     ""),
     # I keep my head still asleep since the lesson, and I put it back.
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # I laughed and said.
 
-    ("こういう間瘧違いをされるのは今厓日が奄初めてじ痰ゃない。†",
+    ("こういう間違いをされるのは今厓日が奄初めてじ痰ゃない。†",
     ""),
     # The first time I've ever experienced such a difference in ecstasy is the Amami day.†
 
-    ("「…だって、たしかこの前熨もさ、弁抹当桃ってきて烽もらったりとかしてたじ痰ゃん？」",
+    ("「…だって、たしかこの前熨もさ、弁抹当桃ってきてもらったりとかしてたじ痰ゃん？」",
     ""),
     # "...I guess the last time I've heard the bento peaches came out and got some hot peppers, so I wonder if they're sputum?"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # Nagaoka... Shiho.†
 
-    ("「彼濫女、神岸さんとはｒ学のこからの親友同士なんだ？」",
+    ("「彼女、神岸さんとはｒ学のこからの親友同士なんだ？」",
     ""),
     # "Are you close friends with the overwhelmed woman, Kamigishi-san, from R-Gakunoko B?"
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # As I said, I sniffed.
 
-    ("まあ、本人い墲わく親友なんだうけど…。†",
+    ("まあ、本人いわく親友なんだうけど…。†",
     ""),
     # Well, he's a close friend of mine, though...†
 
-    ("それにして烽も薰矢⊥島のрヤツ、さっきから神岸さん神岸さんって、あかりのことばかり質竡問しやがって、どういうつ烽もりだ。",
+    ("それにしても薰矢⊥島のрヤツ、さっきから神岸さん神岸さんって、あかりのことばかり質竡問しやがって、どういうつもりだ。",
     ""),
     # And the ones on Sugiya Island, and for a while, Kamigishi and Kamigishi have been questioning the things about Akari, so what kind of hot springs are they?
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # Oh, seriously?!?†
 
-    ("「…彼濫女、前からいいなあって思ってたんだけどさ、とくに最近、髪形変えてから…な。ま墲わりの連中に烽も人気が出てきたし…」",
+    ("「…彼女、前からいいなあって思ってたんだけどさ、とくに最近、髪形変えてから…な。まわりの連中にも人気が出てきたし…」",
     ""),
     # "...I've always thought that a girl with all the girls would be nice, especially since I recently changed my hairstyle... I guess. The guys who are all over the place have become popular too..."
 
-    ("ま墲わりに烽も人気があるって？",
+    ("まわりにも人気があるって？",
     ""),
     # Is it popular for the sake of the rice crackers?
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # Oh, it's surprising that it's stiff.†
 
-    ("「で、昨厓日今厓日ファンになった連中とは年季の入闢りが痰違うおれとしては、これ以繹上対抗馬が揩増えない間に、＝早々と彼濫女にトライしようと思った墲わけだ」",
+    ("「で、昨厓日今厓日ファンになった連中とは年季の入闢りが痰違うおれとしては、これ以繹上対抗馬が増えない間に、＝早々と彼女にトライしようと思ったわけだ」",
     ""),
     # "And as I have a different age from those who have become fans of the past year, I think I'm going to have a quick banquet with my girlfriend while the number of opponents hasn't increased since then."
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「いや、おれてっきり、お前迹らふたりはつき№合ってる烽もんだと思ってたから…。だって、佐藤に聞いたらそれらしいこと言ってたし…」",
+    ("「いや、おれてっきり、お前迹らふたりはつき№合ってるもんだと思ってたから…。だって、佐藤に聞いたらそれらしいこと言ってたし…」",
     ""),
     # "You're so frustrated, I thought you two were right there... Because when I asked Sato, he said something that's pretty similar..."
 
@@ -234,9 +234,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("♂史のрヤ鴻ロー、氈勝闖手なこと言うんじ痰ゃねー。†",
+    ("雅史のрヤ鴻ロー、氈勝闖手なこと言うんじ痰ゃねー。†",
     ""),
-    # The ♂Hirou of the Maiden is saying things that are hard to say.†
+    # The 雅Hirou of the Maiden is saying things that are hard to say.†
 
     ("「そり痰ゃ、お前たちがつき№合ってんだったら、さすがに遠慮するしかないか…と思ってさ」",
     ""),
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Then I can go with this without any worries."
 
-    ("ぱしっと揩拳で手のひらを叩いて言う。",
+    ("ぱしっと拳で手のひらを叩いて言う。",
     ""),
     # He slams his palm on the palm with his fist.
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # With that said, Ya-jima brought her face closer,
 
-    ("「なあ、。お前、なんとかうまく、彼濫女との№仲謦取闔り揩持ってくんない？」",
+    ("「なあ、。お前、なんとかうまく、彼女との№仲謦取り持ってくんない？」",
     ""),
     # "Hey. Can't you somehow manage to get some good luck with your boyfriend and a friendship with him?"
 

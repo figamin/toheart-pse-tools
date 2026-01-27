@@ -2,9 +2,9 @@
 # Source file: 048D.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階１）閨（選択綜	話す）†",
+    ("（志保	回秤数イベント	１階１）閨（選択綜	話す）",
     ""),
-    # (Shiho Scales Event, 1st floor 1) (Choice Speak)†
+    # (Shiho Scales Event, 1st floor 1) (Choice Speak)
 
     ("「いったいなんの真乱似だよ」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "What is that phlegm?"
 
-    ("「春ってさぁ。出初いの季節でしょ？	〟仲間煌内でうるさいのよ。『新しい恋に出初いたい墲わぁ』って」†",
+    ("「春ってさぁ。出初いの季節でしょ？	〟仲間煌内でうるさいのよ。『新しい恋に出初いたいわぁ』って」",
     ""),
     # "Spring is here. It's the first season to be released, so slut? ) It's noisy in Kannai."I want to start a new love""
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "So?"
 
-    ("「みんな宸騒ぐなら、あたし烽も宸騒いじ痰ゃう、ってノリ諠よ」",
+    ("「みんな宸騒ぐなら、あたしも宸騒いじ痰ゃう、ってノリ諠よ」",
     ""),
     # "If everyone makes a fuss, I'll make a fuss too, and I'll make a fuss too."
 
-    ("「それで、男を誘惑する方法を考えてたって墲わけだ」",
+    ("「それで、男を誘惑する方法を考えてたってわけだ」",
     ""),
     # "So, even if you were thinking of a blessing to seduce a man, it's no surprise."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "If someone who doesn't understand the words you just said, it's impossible to understand them."
 
-    ("「′解煢もなに烽も、そのとおりじ痰ゃねーか」†",
+    ("「′解煢もなにも、そのとおりじ痰ゃねーか」",
     ""),
     # "'Whether it's eager to expel the fire and what is it, is it just right?"
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # "Puh, that's nice! It's a cat with a buzz."
 
-    ("…オス＜メス逆だけどな。†",
+    ("…オス＜メス逆だけどな。",
     ""),
-    # ...Male <female is the opposite though.†
+    # ...Male <female is the opposite though.
 
-    ("「うっさい墲わねぇ」",
+    ("「うっさいわねぇ」",
     ""),
     # "That's so annoying."
 
-    ("「男に色目を使ってるようじ痰ゃ、浴女としてはまだまだだな」",
+    ("「男に色目を使ってるようじ痰ゃ、女としてはまだまだだな」",
     ""),
     # "I have a lot of time to use men as a phlegm, but I'm still a bather."
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # Shiho is silenced.
 
-    ("…ったく、わかってねえなぁ。†",
+    ("…ったく、わかってねえなぁ。",
     ""),
-    # ...I really don't know.†
+    # ...I really don't know.
 
     ("そこでオレは｢｢。",
     ""),

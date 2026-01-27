@@ -2,11 +2,11 @@
 # Source file: 04F2.txt
 
 text_array = [
-    ("（志保	ａ高感度型回秤数イベント）閨（選択綜	潤ワリィけどパス）†",
+    ("（志保	ａ高感度型回秤数イベント）閨（選択綜	潤ワリィけどパス）",
     ""),
-    # (Shiho a high sensitivity type scale event) (Shojo Junwagata Li but pass)†
+    # (Shiho a high sensitivity type scale event) (Shojo Junwagata Li but pass)
 
-    ("「潤ワリィけど、パス」†",
+    ("「潤ワリィけど、パス」",
     ""),
     # "Junwagata Li, but I'll pass"
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Because there is a name for the first time.
 
-    ("迷嵂わず撃レミィとのデートを優譌先だ。†",
+    ("迷嵂わず撃レミィとのデートを優譌先だ。",
     ""),
-    # Without a slut, he went on a date with Geki Remy.†
+    # Without a slut, he went on a date with Geki Remy.
 
     ("「え〜っ！？	どうしてぇ？」",
     ""),
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Around 4-Fish Time Killing is also tough b? It's all night long, so it's okay to go and see the regular guy, right?"
 
-    ("「だってオールナイト黹専用のチケットなのよ？	あんたと行きたいのよ？」†",
+    ("「だってオールナイト黹専用のチケットなのよ？	あんたと行きたいのよ？」",
     ""),
     # "Because it's a ticket exclusively for All Night Monkeys? I want to go with you, right?"
 
-    ("「終尞わって烽も電車の始発まで桙時間あるだ？	それがまたしんどい」†",
+    ("「終尞わっても電車の始発まで桙時間あるだ？	それがまたしんどい」",
     ""),
     # "The end of the day, the train has time to go before the start of the train b? That's another tough one."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Hmm;"
 
-    ("「うなると烽金が出てくるのか？」†",
+    ("「うなると金が出てくるのか？」",
     ""),
     # "If you growl, will you get some hot money?"
 

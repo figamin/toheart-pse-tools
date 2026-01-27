@@ -26,7 +26,7 @@ text_array = [
     ""),
     # That's when I realized it.
 
-    ("あそこにお墲わすは芹°香おｏ様じ痰ゃねーか。",
+    ("あそこにおわすは芹°香おｏ様じ痰ゃねーか。",
     ""),
     # The one who's going to pop over there is Serino Kao, isn't it phlegm?
 
@@ -42,7 +42,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え、なんだか眠そうって？	そーなんだよ。どう烽も春はねぇ」",
+    ("「え、なんだか眠そうって？	そーなんだよ。どうも春はねぇ」",
     ""),
     # "What, you're sleepy? That's what it is. I don't know about spring either."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Here we have ".
 
-    ("Ａ	薬を烽もらう。閨",
+    ("Ａ	薬をもらう。閨",
     ""),
     # A: Get the medicine.Relax
 

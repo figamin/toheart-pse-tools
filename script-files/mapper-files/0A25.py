@@ -2,9 +2,9 @@
 # Source file: 0A25.txt
 
 text_array = [
-    ("（Ｂ	アント純ワネットってな…）†",
+    ("（Ｂ	アント純ワネットってな…）",
     ""),
-    # (B: What's Anto Pure Wannet...)†
+    # (B: What's Anto Pure Wannet...)
 
     ("「アント純ワネットってな…」",
     ""),
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # Stupid.
 
-    ("で烽も翌女の子って、意外とこういう話を信じたりするんだよな。",
+    ("でも翌女の子って、意外とこういう話を信じたりするんだよな。",
     ""),
     # And the girl next time, surprisingly, she believes this kind of story.
 
-    ("ま、話として聞く分には、つまらない墲わけじ痰ゃないけど。†",
+    ("ま、話として聞く分には、つまらないわけじ痰ゃないけど。",
     ""),
-    # Well, as you can hear about it, there's no boring phlegm.†
+    # Well, as you can hear about it, there's no boring phlegm.
 
-    ("「だから、п私がｖ淫俣冾ｱんななの烽も、きっと、そのつぐないなんだよね…」",
+    ("「だから、п私がｖ淫俣冾ｱんななのも、きっと、そのつぐないなんだよね…」",
     ""),
     # "That's why I'm sure the korea that I'm not a fan of Inumata is probably going to be that tough..."
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Hey hey, wait a moment.
 
-    ("んじ痰ゃなにか？	クレオパトラとか、西太后とかの生まれ変﨑わり烽も不幸になってるってか？」",
+    ("んじ痰ゃなにか？	クレオパトラとか、西太后とかの生まれ変﨑わりも不幸になってるってか？」",
     ""),
     # What about the phlegm?Is it unhappy for the fierce Leopard Feast and the birthplace of Empress Dowager Cice?”
 
-    ("「それは墲わかんないけど…」†",
+    ("「それはわかんないけど…」",
     ""),
     # "I don't know that but..."
 
@@ -46,13 +46,13 @@ text_array = [
     ""),
     # "I think it's strange to blame the misfortunes I have now on my past life, I'm pretty sure."
 
-    ("「たしかに、そうか烽もしれないけど…」",
+    ("「たしかに、そうかもしれないけど…」",
     ""),
     # "I'm sure, I don't know if it's hot..."
 
-    ("掾理女緒ち痰ゃんが墲わずかにうつむいたとき。†",
+    ("掾理女緒ち痰ゃんがわずかにうつむいたとき。",
     ""),
-    # When the shogi-chan turned slightly.†
+    # When the shogi-chan turned slightly.
 
     ("バシャャァッ！",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Ahhhhh!!"
 
-    ("側を通った車がｐたまりのｐを跳ね、一瞬にして揩理女緒ち痰ゃんをズブ濡齡れにする。†",
+    ("側を通った車がｐたまりのｐを跳ね、一瞬にして理女緒ち痰ゃんをズブ濡齡れにする。",
     ""),
-    # A car passing by jumps through the p-pack, and in an instant it blew through the p-pack.†
+    # A car passing by jumps through the p-pack, and in an instant it blew through the p-pack.
 
     ("「ふぇ〜ん」",
     ""),
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # "Ahh, Marie Antoinette looks terrible..."
 
-    ("ちょっと、こり痰ゃあんまりだな。†",
+    ("ちょっと、こり痰ゃあんまりだな。",
     ""),
-    # I'm sure there's too much stiffness.†
+    # I'm sure there's too much stiffness.
 
-    ("「っくし繧ゅん！」",
+    ("「っくしゅん！」",
     ""),
     # "An kusushi!"
 
-    ("「蛛大苟丈夫か？	あ、わりぃ、オレ、ハンカチいつ烽も揩持ってなくて…」",
+    ("「蛛大苟丈夫か？	あ、わりぃ、オレ、ハンカチいつも持ってなくて…」",
     ""),
     # "Are you so strong? Ah, I'm so excited, I don't have a handkerchief at all..."
 
@@ -90,13 +90,13 @@ text_array = [
     ""),
     # "Eh, that's not it. Yes, it's fine. If it's a handkerchief, I'll be..."
 
-    ("ポケットをごそごそやる揩理女緒ち痰ゃん。",
+    ("ポケットをごそごそやる理女緒ち痰ゃん。",
     ""),
     # I'm smug and squeeze my pocket.
 
-    ("だが。†",
+    ("だが。",
     ""),
-    # But.†
+    # But.
 
     ("「あ、あれ？」",
     ""),
@@ -118,15 +118,15 @@ text_array = [
     ""),
     # But,
 
-    ("「ど、どっかに獅落としち痰ゃったみたい…」",
+    ("「ど、どっかに落としち痰ゃったみたい…」",
     ""),
     # "Looks like I've plucked somewhere before slurping..."
 
-    ("掾理女緒ち痰ゃんは半ヴきでつぶやいた。†",
+    ("掾理女緒ち痰ゃんは半ヴきでつぶやいた。",
     ""),
-    # The woman was smashed in half crying.†
+    # The woman was smashed in half crying.
 
-    ("「アント純ワネット焜もハンカチ揀持ってない冾日があるんだな」",
+    ("「アント純ワネットもハンカチ揀持ってない冾日があるんだな」",
     ""),
     # "There are times when Ant Pure Wannett's handkerchief doesn't even have one."
 
@@ -134,11 +134,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレは駅で烽もらったティッシャをポケットから取闔り出し、それで揩理女緒ち痰ゃんの顔竓や制梵服をふいてやった。†",
+    ("オレは駅でもらったティッシャをポケットから取り出し、それで理女緒ち痰ゃんの顔竓や制梵服をふいてやった。",
     ""),
-    # I took the tissue that I had received at the station from my pocket, and then wiped the face of my daughter Ochi Sphinja and her Sanskrit uniform to tamper with it.†
+    # I took the tissue that I had received at the station from my pocket, and then wiped the face of my daughter Ochi Sphinja and her Sanskrit uniform to tamper with it.
 
-    ("「ど、どう烽もありがとう」",
+    ("「ど、どうもありがとう」",
     ""),
     # "What, thank you so much, how about you?"
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # The sphincter was a little red.
 
-    ("そして困ったように、†",
+    ("そして困ったように、",
     ""),
     # And, as a problem,
 

@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「諱先輩、オレたち、学校の外じ痰ゃ話燔もさせて烽もらえないのかよぉ〜…」",
+    ("「諱先輩、オレたち、学校の外じ痰ゃ話燔もさせてもらえないのかよぉ〜…」",
     ""),
     # "Senior Senpai, we're all serious about you, so why don't you even let us talk about school ex-sex and get some hot topics?"
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # I fumbled and watched it and sent him off.
 
-    ("縺後撃の汲窓から、諱先輩がじっとオレを見つめている。",
+    ("縺後撃の窓から、諱先輩がじっとオレを見つめている。",
     ""),
     # Senpai Ikegao stared at me from the aftermath of the attack.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Isaac Senpai..."
 
-    ("身分の痰違うオレたちは、絶対に汲結ばれない運命なのかよぉ…。◯",
+    ("身分の痰違うオレたちは、絶対に結ばれない運命なのかよぉ…。◯",
     ""),
     # I wonder if our supernatural beings, who have different phlegms, are destined to never be understood...◯
 

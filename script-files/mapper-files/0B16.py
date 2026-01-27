@@ -2,9 +2,9 @@
 # Source file: 0B16.txt
 
 text_array = [
-    ("（綾∴香	好感度イベント３）閨（綾∴香	冝日付イベント４）閨（Ｂ	やらない	の続き）†",
+    ("（綾∴香	好感度イベント３）閨（綾∴香	冝日付イベント４）閨（Ｂ	やらない	の続き）",
     ""),
-    # (Aya∴Ka Likeability Event 3) Sleep (Aya∴Ka Pick Date Event 4) Sleep (Continued from B Don't Do)†
+    # (Aya∴Ka Likeability Event 3) Sleep (Aya∴Ka Pick Date Event 4) Sleep (Continued from B Don't Do)
 
     ("「やらない」",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I said.
 
-    ("「グ鴻ローブはめて烽も同じだっつーの。なにかべつのことにしよ。格闘以外で得意なことはないのか？」†",
+    ("「グ鴻ローブはめても同じだっつーの。なにかべつのことにしよ。格闘以外で得意なことはないのか？」",
     ""),
     # "I put on a Ghoo robe and the same goes for Hoo. What's the point of making a wall b. Is there anything else I'm good at other than fighting?"
 
-    ("「ある墲わよ。なんで烽も得意だから」",
+    ("「あるわよ。なんでも得意だから」",
     ""),
     # "It's a certain roe. Why is it good at hot water?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "for example"
 
-    ("「だからひと通闥り、なんで烽も。陸纓上競技煖も、°技煖も、＄泳煢も。勉強煖も、本気を出せば楽汪勝だし、遊びだと、ゲーセンでしょ、カラオケ、ボー梶リング、ビリсヤードに…」",
+    ("「だからひと通闥り、なんでも。陸纓上競技も、°技も、＄泳煢も。勉強も、本気を出せば楽汪勝だし、遊びだと、ゲーセンでしょ、カラオケ、ボー梶リング、ビリсヤードに…」",
     ""),
     # "So, I've got a message from you, but there's no way you can do it. You can do it on the Athletics Han, the ° Tech Hwan, and the $ Swimming Hwan. If you're serious about studying, you'll be able to win the game, and if you're playing, you'll be in the arcade, the banquet, the banquet, the bay, the bay, the bay, the bay, the bay, and the bay yard..."
 
@@ -34,9 +34,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("遊び人？†",
+    ("遊び人？",
     ""),
-    # Playboy?†
+    # Playboy?
 
     ("「あっ、最近、釣闥りが好き！」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Yeah, fishing, fishing!"
 
-    ("「なんだそり痰ゃ、じじくせーな」†",
+    ("「なんだそり痰ゃ、じじくせーな」",
     ""),
     # "What is that phlegm, you're old-fashioned?"
 
@@ -58,13 +58,13 @@ text_array = [
     ""),
     # "What, I'm sorry. The fishing is hot."
 
-    ("「いや、で烽もな…」",
+    ("「いや、でもな…」",
     ""),
     # "It's tampering, and there's no hot water..."
 
-    ("「いい？	そ烽もそ烽も釣闥りは｢｢」†",
+    ("「いい？	そもそも釣闥りは｢｢」",
     ""),
-    # "Is it okay? I'm trying to catch both the hot and hot pots ""†
+    # "Is it okay? I'm trying to catch both the hot and hot pots ""
 
     ("結局、その冾日は遅くなるまでр延々と、綾∴香の『釣闥りのここが熱い！』を聞かされた。",
     ""),

@@ -2,41 +2,41 @@
 # Source file: 0060.txt
 
 text_array = [
-    ("４／１７（木）†",
+    ("４／１７（木）",
     ""),
-    # 4/17 (Thu)†
+    # 4/17 (Thu)
 
     ("授業が終尞わった冾放課繪後の教室。",
     ""),
     # The classroom after the school was completed.
 
-    ("オレは鞄を手に取って、窓際の席から立ち繧上がった。†",
+    ("オレは鞄を手に取って、窓際の席から立ち上がった。",
     ""),
-    # I picked up a bag and stood up from my seat by the window.†
+    # I picked up a bag and stood up from my seat by the window.
 
-    ("帰驪る生徒たちでに墲わかに賑崧わう２階の廊下。",
+    ("帰驪る生徒たちでにわかに賑崧わう２階の廊下。",
     ""),
     # The corridor on the second floor is filled with students returning home.
 
-    ("誰か知闥り№合いに出初って烽もよさそうな烽ものだが、あいにく誰に烽も出初えなかった。†",
+    ("誰か知闥り№合いに出初ってもよさそうなものだが、あいにく誰にも出初えなかった。",
     ""),
-    # It seems that someone has been in the first place and it would be good to have a hot spring, but unfortunately no one has been able to get hot spring.†
+    # It seems that someone has been in the first place and it would be good to have a hot spring, but unfortunately no one has been able to get hot spring.
 
     ("階段を降闕りて、１階の廊下にｗた。",
     ""),
     # I descended the stairs and headed out into the corridor on the first floor.
 
-    ("とくに誰に出初うこと烽もなかった。†",
+    ("とくに誰に出初うこともなかった。",
     ""),
-    # I never had any particular experience with anyone.†
+    # I never had any particular experience with anyone.
 
     ("校舎を出た。",
     ""),
     # I left the school building.
 
-    ("さーて、帰っかな。†",
+    ("さーて、帰っかな。",
     ""),
-    # Now, let's go home.†
+    # Now, let's go home.
 
     ("ベッドがオレを呼んでるぜ。",
     ""),
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Please show us some good dreams right now.
 
-    ("という墲わけで、おやすみ。",
+    ("というわけで、おやすみ。",
     ""),
     # That's why it's so good to tamper with.
 
-    ("４獅月１７冾日が終尞わる。◯",
+    ("４月１７冾日が終尞わる。◯",
     ""),
     # The 17th day of the fourth Shizuki month is over.◯
 

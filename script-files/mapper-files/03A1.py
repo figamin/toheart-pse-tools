@@ -2,11 +2,11 @@
 # Source file: 03A1.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（４獅月）閨（好感度８を見ている状態なら発生）閨（校蜊門外）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（４月）閨（好感度８を見ている状態なら発生）閨（校門外）†",
     ""),
     # (Tomoko's Scales Event: Leaving from school LV4) (4 Shizuki) (occurs if you are looking at a likeability level of 8) (occupying the school (outside the school) †
 
-    ("校蜊門を出たとこで、委員長を見つけた。",
+    ("校門を出たとこで、委員長を見つけた。",
     ""),
     # I found the chairman when I left the school gates.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # With that said, the chairman tries to go.
 
-    ("Ａ	待てよ、いっしょに帰汲うぜ。閨",
+    ("Ａ	待てよ、いっしょに帰うぜ。閨",
     ""),
     # A Wait, I'll return to the ephemeral.Relax
 

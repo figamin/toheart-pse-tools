@@ -2,17 +2,17 @@
 # Source file: 08BA.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	帰闍り道１	ＬＶ１）閨（選択綜	どっちかな）†",
+    ("（レミィ	回秤数イベント	帰闍り道１	ＬＶ１）閨（選択綜	どっちかな）",
     ""),
-    # (With Remy, the balance event, Return Road 1, LV1) (Select So, which one would you like)†
+    # (With Remy, the balance event, Return Road 1, LV1) (Select So, which one would you like)
 
     ("「どっちかな？」",
     ""),
     # "Which one?"
 
-    ("オレは、とぼけてみた。†",
+    ("オレは、とぼけてみた。",
     ""),
-    # I tried to be a bit weird.†
+    # I tried to be a bit weird.
 
     ("「、ａモテ驛るからネ」",
     ""),
@@ -22,17 +22,17 @@ text_array = [
     ""),
     # "Is it really hard?"
 
-    ("戟レミィは『うん』とうなずいて、",
+    ("レミィは『うん』とうなずいて、",
     ""),
     # "Yes," Karemi nodded,
 
-    ("「アカリ窿やシホと、いつ烽もいっしょにいるｃ」",
+    ("「アカリ窿やシホと、いつもいっしょにいるｃ」",
     ""),
     # "Akagata Rikan and Shiho are always in the nibble."
 
-    ("と言った。†",
+    ("と言った。",
     ""),
-    # He said.†
+    # He said.
 
     ("「オレが、あかりや志保のрヤツと？」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「瘁違うって。オレはあのふたりととくに、深い№仲って墲わけじ痰ゃないぞ」",
+    ("「瘁違うって。オレはあのふたりととくに、深い№仲ってわけじ痰ゃないぞ」",
     ""),
     # "It's not that bad. I'm particularly close to those two, so there's no reason to be a deep friendship."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Huh, is that?"
 
-    ("「あかりは家が近葛所だし、志保はｒ学からの顔見知闥りってくらいで、恋愛対象にはなってないぜ」†",
+    ("「あかりは家が近葛所だし、志保はｒ学からの顔見知闥りってくらいで、恋愛対象にはなってないぜ」",
     ""),
     # "Akari's house is in Chikazusho, and Shiho's face is known from R-Gaku, so he's not a romantic interest."
 
@@ -66,13 +66,13 @@ text_array = [
     ""),
     # "Hmm."
 
-    ("戟レミィは考え桙込んでしまった。",
+    ("レミィは考え桙込んでしまった。",
     ""),
     # Karemi was shaking.
 
-    ("「じっくり考えてくれ」†",
+    ("「じっくり考えてくれ」",
     ""),
-    # "Think carefully" †
+    # "Think carefully" 
 
     ("「うん。…で、どっちなの？」",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # A surprise, Ekiremi surrenders quickly.
 
-    ("「おいおい、もう降参かよ」†",
+    ("「おいおい、もう降参かよ」",
     ""),
     # "Hey hey, are you surrendering now?"
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("戟レミィは盾ワク純ワクしながら待っている。",
+    ("レミィは盾ワク純ワクしながら待っている。",
     ""),
     # Karemi waits with a pure excitement and excitement in her shield.
 
-    ("「オレには好きな子が…」†",
+    ("「オレには好きな子が…」",
     ""),
     # "My favorite girl is..."
 
@@ -114,23 +114,23 @@ text_array = [
     ""),
     # "At the moment..."
 
-    ("「うんうん」†",
+    ("「うんうん」",
     ""),
-    # "Yeah, yes" †
+    # "Yeah, yes" 
 
-    ("「内藷緒だ」†",
+    ("「内藷緒だ」",
     ""),
-    # "It's an internal organiser" †
+    # "It's an internal organiser" 
 
-    ("あっ、…戟レミィがズッコケた。",
+    ("あっ、…レミィがズッコケた。",
     ""),
     # Ah... The throbbing remy throbbed.
 
-    ("まるで漫譁画みたいにダイナミックなズッコケだ。†",
+    ("まるで漫譁画みたいにダイナミックなズッコケだ。",
     ""),
-    # It's as dynamic as a manga art.†
+    # It's as dynamic as a manga art.
 
-    ("彼濫女はｃ鴻ロャ鴻ロと起き繧上がって、",
+    ("彼女はｃ鴻ロャ鴻ロと起き上がって、",
     ""),
     # The woman rose up and rose,
 
@@ -142,23 +142,23 @@ text_array = [
     ""),
     # He gave a wry smile.
 
-    ("「わりぃ墲わりぃ。…で烽もな、こんなこと人に言いふらすことじ痰ゃないと思うぜ」†",
+    ("「わりぃわりぃ。…でもな、こんなこと人に言いふらすことじ痰ゃないと思うぜ」",
     ""),
-    # "It's so cute... And I don't think there's anything to say to someone like this." †
+    # "It's so cute... And I don't think there's anything to say to someone like this." 
 
-    ("「…そうか烽も知れない。ゴ＜メンネ、、言いにくいこと聞いて」",
+    ("「…そうかも知れない。ゴ＜メンネ、、言いにくいこと聞いて」",
     ""),
     # "...I see, you can't even know anything. Go <Menne, listen to what is difficult to say."
 
-    ("「べつにいいって」†",
+    ("「べつにいいって」",
     ""),
-    # "It's really good" †
+    # "It's really good" 
 
     ("それっきり、この話陂題は消えてしまったけど、オレとしては撃レミィの気搴持ちを聞いてみたかった…。",
     ""),
     # That's exactly what the topic has been removed, but as a gem, I wanted to ask about Ekire Remi's ability to play...
 
-    ("オレから正直に言うべきだったか烽もな。◯",
+    ("オレから正直に言うべきだったかもな。◯",
     ""),
     # I wonder if I should have been honest with myself.◯
 

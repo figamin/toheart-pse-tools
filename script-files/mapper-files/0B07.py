@@ -2,9 +2,9 @@
 # Source file: 0B07.txt
 
 text_array = [
-    ("（綾∴香	好感度イベント１）閨（綾∴香	好感度	１以繹上）閨（芹°香	好感度	１０以繹上）閨（２桙時間目休み）閨（渡闢り廊下）†",
+    ("（綾∴香	好感度イベント１）閨（綾∴香	好感度	１以繹上）閨（芹°香	好感度	１０以繹上）閨（２桙時間目休み）閨（渡闢り廊下）",
     ""),
-    # (Aya∴Ka, favorability event 1) Li (Aya∴Ka, favorability above 1) Li (Sei°Ka, favorability above 10) Li (Sei°Ka, favorability above 10) Li (2nd fox time off) Li (Cloth corridor)†
+    # (Aya∴Ka, favorability event 1) Li (Aya∴Ka, favorability above 1) Li (Sei°Ka, favorability above 10) Li (Sei°Ka, favorability above 10) Li (2nd fox time off) Li (Cloth corridor)
 
     ("おっ、あそこでぼーっとしてるのはｗ栖瑞謳先輩じ痰ゃねーか。",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Hey, senpai."
 
-    ("オレが手を振って言うと、諱先輩はこっちに気づいて烽歩いてきた。†",
+    ("オレが手を振って言うと、諱先輩はこっちに気づいて歩いてきた。",
     ""),
-    # When I waved my hand, Senpai realized this and started walking around.†
+    # When I waved my hand, Senpai realized this and started walking around.
 
-    ("「いよう、諱先輩、♀遇だね。こんなとこでｉうなんて」",
+    ("「いよう、諱先輩、♀遇だね。こんなとこでうなんて」",
     ""),
     # "Stay, seniors, you're treated like a female. You can't help but feel like I'm here at a place like this."
 
@@ -26,15 +26,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ、♂えて嬉しいですって？	へへへ、さすが、お繧上闖手だね」",
+    ("「えっ、雅えて嬉しいですって？	へへへ、さすが、お上闖手だね」",
     ""),
     # "What? You're so happy to be a male? Hehe, you're so incredibly excited."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「あっ、そう言えばさ、この間、諱先輩のｖにｉったぜ。綾∴香ってやつ」",
+    ("「あっ、そう言えばさ、この間、諱先輩のｖにったぜ。綾∴香ってやつ」",
     ""),
     # "Ah, when I say that, I've been on my Ie-senpai V the other day. Aya∴Kara is the one that's tampering with."
 
@@ -42,7 +42,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「うん、そう。あいつ、諱先輩のｖのくせに、妙にテンションｃ高いよな。あ、べつに先輩がテンション痺低いって墲わけじ痰ゃないけど…」†",
+    ("「うん、そう。あいつ、諱先輩のｖのくせに、妙にテンションｃ高いよな。あ、べつに先輩がテンション痺低いってわけじ痰ゃないけど…」",
     ""),
     # "Yeah, that's right. Even though he's a V-senpai, he's strangely high in Tenshic. Oh, I can't help but feel that seniors are low in Tenshic..."
 
@@ -50,7 +50,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	綾∴香はとって烽もいい子です、ぜひ№仲良くしてあげてください…って？」",
+    ("「えっ？	綾∴香はとってもいい子です、ぜひ№仲良くしてあげてください…って？」",
     ""),
     # "Huh? Aya∴Ka is a good girl and Hoo is also a good girl, so please make sure to get along with her... what?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # ...Little.
 
-    ("「うん。ちょっと強引なとこ烽もあるけど、たしかに根はいいやつっぽいな。おっけー、〟仲良くするよ」†",
+    ("「うん。ちょっと強引なとこもあるけど、たしかに根はいいやつっぽいな。おっけー、〟仲良くするよ」",
     ""),
     # "Yeah. There are some forced parts that are just too much, but it certainly seems like they're tampering with the roots. Oh no, I'll get along well."
 

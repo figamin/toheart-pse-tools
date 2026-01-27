@@ -10,11 +10,11 @@ text_array = [
     ""),
     # I strolled around the shopping district.
 
-    ("古糟書店の前を通髓ると、また前と同じように、£でｗ栖瑞謳先輩を見かけた。",
+    ("古書店の前を通髓ると、また前と同じように、でｗ栖瑞謳先輩を見かけた。",
     ""),
-    # As I walked through the front of the Kokasu Bookstore, I saw lol, Suzui-san, for £, just like before.
+    # As I walked through the front of the Kokasu Bookstore, I saw lol, Suzui-san, for , just like before.
 
-    ("瘁例によって、オカルト関係の本で烽も探してるんだうか。†",
+    ("瘁例によって、オカルト関係の本でも探してるんだうか。†",
     ""),
     # As usual, I'm also looking for Hot in books related to Oka-Crying.†
 

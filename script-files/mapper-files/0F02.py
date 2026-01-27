@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "...It's totally because people slapped and tampered with it, but this girl is so cute."
 
-    ("志保のрヤツ、あ墲わてて口調を変えるとさらにおかしなことを言いだした。",
+    ("志保のрヤツ、あわてて口調を変えるとさらにおかしなことを言いだした。",
     ""),
     # Shiho's р guy started saying something even more strange when he changed his Fuku tone.
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Idiot... I honestly admit to losing Amami b"†
 
-    ("残ったあかりとｉ史の勝縁負は、当然というかｉ史に軍配があがった。",
+    ("残ったあかりと史の勝縁負は、当然というか史に軍配があがった。",
     ""),
     # Of course, the remaining Akari and I-Hisaku's victory was the winner, and I-Hisaku, of course, the winner was the winner.
 
-    ("内容的には汲結構いい勝縁負だった。",
+    ("内容的には結構いい勝縁負だった。",
     ""),
     # In terms of content, I was pretty good at winning.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "It's kind of tampering with you!" †
 
-    ("卒業式なんて、在校生にとっては、そんななんで烽もない一勛日に過ぎない。◯",
+    ("卒業式なんて、在校生にとっては、そんななんでもない一勛日に過ぎない。◯",
     ""),
     # For current students, graduation ceremonies are nothing more than just one day without hot water.◯
 

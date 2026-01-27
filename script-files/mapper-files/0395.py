@@ -2,21 +2,21 @@
 # Source file: 0395.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（４獅月）閨（下濶り坂）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（４月）閨（下濶り坂）",
     ""),
-    # (Tomoko's Scales Event: Departing from school LV1) (4 Shizuki) (Shimohachiritsuzaka) †
+    # (Tomoko's Scales Event: Departing from school LV1) (4 Shizuki) (Shimohachiritsuzaka) 
 
-    ("前に見える繧後撃姿。",
+    ("前に見える後撃姿。",
     ""),
     # A behind-the-scenes sight seen in front of me.
 
-    ("あのお下げ髪は間瘧違いない。",
+    ("あのお下げ髪は間違いない。",
     ""),
     # Those prickly hair must be awkward.
 
-    ("艨我が２−Ｂのクラス委員長、保科智子じ痰ゃねーか。†",
+    ("艨我が２−Ｂのクラス委員長、保科智子じ痰ゃねーか。",
     ""),
-    # Is Hoshina Tomoko the chairman of my 2-B club?†
+    # Is Hoshina Tomoko the chairman of my 2-B club?
 
     ("そういえば、せっかく席が隣同士になったってのに、ほとんど口を聞いたことがない。",
     ""),
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("いい機級だし、声をかけていっしょに帰汲うと誘ってみるの烽もいいか烽もしんねーな。",
+    ("いい機級だし、声をかけていっしょに帰うと誘ってみるのもいいかもしんねーな。",
     ""),
     # It's a great opportunity, and when I call out to him, I invite him back to the Ebi, it's okay, or it's not good.
 
-    ("Ａ	いっしょに帰汲うかと誘う。閨",
+    ("Ａ	いっしょに帰うかと誘う。閨",
     ""),
     # A: I invite them to return to Ebi.Relax
 

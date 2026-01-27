@@ -2,15 +2,15 @@
 # Source file: 04AE.txt
 
 text_array = [
-    ("（志保	回秤数イベント	帰闍り道２）閨（選択綜	別れる）†",
+    ("（志保	回秤数イベント	帰闍り道２）閨（選択綜	別れる）",
     ""),
-    # (Shiho's Scales Event Return Road 2) (Chooses and Breaks)†
+    # (Shiho's Scales Event Return Road 2) (Chooses and Breaks)
 
     ("「わりぃ、オレ、急いでっから」",
     ""),
     # "I'm so excited, I'm in a hurry."
 
-    ("オレは足¢早に校蜊門を抜けた。",
+    ("オレは足¢早に校門を抜けた。",
     ""),
     # My guts passed through the school gates quickly.
 

@@ -2,17 +2,17 @@
 # Source file: 015F.txt
 
 text_array = [
-    ("（あかり好感度イベント１２）閨（驕夜）閨（艨ゆっくりフェード）閨（自分の部屋	電気消し	カーテン開き）†",
+    ("（あかり好感度イベント１２）閨（驕夜）閨（艨ゆっくりフェード）閨（自分の部屋	電気消し	カーテン開き）",
     ""),
-    # (Akari Likeability Event 12) (Annorth Night) (Slow Fade) (His room, lights off, curtains open) †
+    # (Akari Likeability Event 12) (Annorth Night) (Slow Fade) (His room, lights off, curtains open) 
 
-    ("その夜は、＝早々とベッドに入った烽ものの、なかなか寝つけなかった。",
+    ("その夜は、＝早々とベッドに入ったものの、なかなか寝つけなかった。",
     ""),
     # That night, I got into bed early, but I couldn't fall asleep.
 
-    ("窓から入った外の光が、ぼんやりと部屋薗を照迴らしている。†",
+    ("窓から入った外の光が、ぼんやりと部屋薗を照らしている。",
     ""),
-    # The light outside entered through the window was shining light on the room.†
+    # The light outside entered through the window was shining light on the room.
 
     ("薄暗がりのなか、オレはほうけたように、ぼうっと天井を見つめていた。",
     ""),
@@ -46,25 +46,25 @@ text_array = [
     ""),
     # That's what I've been treated so coldly at Luna School.
 
-    ("罪悪感が重くのしかかってくる。†",
+    ("罪悪感が重くのしかかってくる。",
     ""),
-    # Guilt is heavy.†
+    # Guilt is heavy.
 
     ("ほんのささいなすれ痰違い。",
     ""),
     # Just a little scrub and a different phlegm.
 
-    ("その小さな亀裂が、オレのなかでいつの間にかこんなに大きくなっちまった。†",
+    ("その小さな亀裂が、オレのなかでいつの間にかこんなに大きくなっちまった。",
     ""),
-    # That small crack had suddenly grown so much in my intense tits.†
+    # That small crack had suddenly grown so much in my intense tits.
 
-    ("あかりを揩傷つけている。",
+    ("あかりを傷つけている。",
     ""),
     # It hurts Akari.
 
-    ("つらい思いをさせている。†",
+    ("つらい思いをさせている。",
     ""),
-    # It makes me feel sad.†
+    # It makes me feel sad.
 
     ("わかっち痰ゃいるのに。",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # But I'm super excited.
 
-    ("くそ。†",
+    ("くそ。",
     ""),
-    # Fuck.†
+    # Fuck.
 
     ("右濶手が痛ぇ。",
     ""),
@@ -94,13 +94,13 @@ text_array = [
     ""),
     # Without any meaning, I was impulsively tampering with it...
 
-    ("で烽も、どうせ大したケガで烽もねーんだし、心配しなくていいぞ、あかり…。†",
+    ("でも、どうせ大したケガでもねーんだし、心配しなくていいぞ、あかり…。",
     ""),
-    # And you're probably getting a lot of injuries and not hot, so there's no need to worry, Akari...†
+    # And you're probably getting a lot of injuries and not hot, so there's no need to worry, Akari...
 
-    ("あかり…。†",
+    ("あかり…。",
     ""),
-    # Light...†
+    # Light...
 
     ("…もーいーかい。",
     ""),
@@ -130,17 +130,17 @@ text_array = [
     ""),
     # ...A long, stretched shadow.
 
-    ("…親に手を引かれ、家に帰驪る子沁供たち。†",
+    ("…親に手を引かれ、家に帰驪る子沁供たち。",
     ""),
-    # ...Kito and his friends are pulled back by their parents and return home.†
+    # ...Kito and his friends are pulled back by their parents and return home.
 
-    ("いつ烽もの公園だった。",
+    ("いつもの公園だった。",
     ""),
     # When was it a hot park?
 
-    ("た墲わいない、ガキのイタズラだった。†",
+    ("たわいない、ガキのイタズラだった。",
     ""),
-    # It was a prank feast for a kid.†
+    # It was a prank feast for a kid.
 
     ("「もーいーかい？」",
     ""),
@@ -154,35 +154,35 @@ text_array = [
     ""),
     # hide and seek.
 
-    ("鬼になったあかりだけを残して、みんな、こっそりと家に帰ったのだ。†",
+    ("鬼になったあかりだけを残して、みんな、こっそりと家に帰ったのだ。",
     ""),
-    # Everyone secretly went home, leaving only Akari, who had become a demon.†
+    # Everyone secretly went home, leaving only Akari, who had become a demon.
 
     ("いいだしっぺは、このオレ。",
     ""),
     # The good one is this crazy thing.
 
-    ("小さいこのあかりは、いつ烽もおどおどしてるモき獅虫で、オレはしょっち繧ゅう、そんなあかりをいじめていた。",
+    ("小さいこのあかりは、いつもおどおどしてるモき虫で、オレはしょっちゅう、そんなあかりをいじめていた。",
     ""),
     # The little girl, Akari, is a crying lionfish that is always terrified, and I'm always bullied Akari.
 
-    ("やっぱり、可愛かったからなんだと思う。†",
+    ("やっぱり、可愛かったからなんだと思う。",
     ""),
-    # I think it's because she was so cute after all.†
+    # I think it's because she was so cute after all.
 
-    ("あかりだけを残してみんなと墲わかれた繧後、オレは家に帰って、テレビを見た。",
+    ("あかりだけを残してみんなとわかれた後、オレは家に帰って、テレビを見た。",
     ""),
     # After being separated from everyone with only Akari left, I went home and saw the TV drama.
 
-    ("好きな番組を見終尞わった繧後、なんとなく、公園に残してきたあかりのことが気になった。†",
+    ("好きな番組を見終尞わった後、なんとなく、公園に残してきたあかりのことが気になった。",
     ""),
-    # After finishing watching my favorite program, I somehow became curious about Akari, which I had left in the park.†
+    # After finishing watching my favorite program, I somehow became curious about Akari, which I had left in the park.
 
-    ("いくらなんで烽も、もう家に帰ってるだ。",
+    ("いくらなんでも、もう家に帰ってるだ。",
     ""),
     # No matter how long it is, he's already gone home.
 
-    ("そう思いつつ烽も、やっぱり少し気になって、オレはズックを嘯履き、もう一度公園へ行ってみた。◯",
+    ("そう思いつつも、やっぱり少し気になって、オレはズックを嘯履き、もう一度公園へ行ってみた。◯",
     ""),
     # With that in mind, I was also a little curious about it, so I put on some zuku and headed out to the park again.◯
 
@@ -190,15 +190,15 @@ text_array = [
     ""),
     # Akari was still in the park.
 
-    ("メきながら、オレ窿や、♂史竡や、そのほかの友だちの名前を呼んで、同じとこをぐるぐる烽歩いていた。†",
+    ("メきながら、オレ窿や、雅史竡や、そのほかの友だちの名前を呼んで、同じとこをぐるぐる歩いていた。",
     ""),
-    # I cried, and roamed around the same place, calling out the names of my gangster, Masochika, and other friends.†
+    # I cried, and roamed around the same place, calling out the names of my gangster, Masochika, and other friends.
 
-    ("オレは自分のしたことをお烽もいっきり繧後悔した。",
+    ("オレは自分のしたことをおもいっきり後悔した。",
     ""),
     # I really regretted what I did.
 
-    ("くだらないイタズラ心のつ烽もりだった。",
+    ("くだらないイタズラ心のつもりだった。",
     ""),
     # It was a heart-warming banquet of silly pranks.
 
@@ -206,11 +206,11 @@ text_array = [
     ""),
     # After that, I just wanted to be mean.
 
-    ("なのに…。†",
+    ("なのに…。",
     ""),
-    # But...†
+    # But...
 
-    ("オレは、いいだしっぺの自分が、とんで烽もなく悪いやつに思えた。",
+    ("オレは、いいだしっぺの自分が、とんでもなく悪いやつに思えた。",
     ""),
     # My geisha seemed like a really bad guy, who was a good guy.
 
@@ -218,17 +218,17 @@ text_array = [
     ""),
     # that's why.
 
-    ("だからオレは、すぐ横にあった公園の木を、思いっきりグーで殴濶りつけた。†",
+    ("だからオレは、すぐ横にあった公園の木を、思いっきりグーで殴濶りつけた。",
     ""),
-    # That's why I hit the tree in the park right next to me with my goo as hard as I could.†
+    # That's why I hit the tree in the park right next to me with my goo as hard as I could.
 
     ("痛かった。",
     ""),
     # It hurt.
 
-    ("痛かったけど、そんな程度じ痰ゃ、まだ全然足闡りないと思った。†",
+    ("痛かったけど、そんな程度じ痰ゃ、まだ全然足闡りないと思った。",
     ""),
-    # It hurts, but I didn't think I had enough phlegm to have that much, but I still had no time to go.†
+    # It hurts, but I didn't think I had enough phlegm to have that much, but I still had no time to go.
 
     ("「…、ち痰ゃ〜ん」",
     ""),
@@ -238,27 +238,27 @@ text_array = [
     ""),
     # Akari cried, calling out my name.
 
-    ("「…ち痰ゃあ〜〜〜ん」†",
+    ("「…ち痰ゃあ〜〜〜ん」",
     ""),
-    # "...Ahhhhhhh" †
+    # "...Ahhhhhhh" 
 
     ("「おーっ、ここだ」",
     ""),
     # "Oh, it's here."
 
-    ("痛みをこらえつつ、オレはにっこり笑迴顔で手を振った。†",
+    ("痛みをこらえつつ、オレはにっこり笑顔で手を振った。",
     ""),
-    # As I held back the pain, I grinned and waved my hand with a smile.†
+    # As I held back the pain, I grinned and waved my hand with a smile.
 
     ("「ち痰ゃん！」",
     ""),
     # "Choosh!"
 
-    ("あかりは、ぱっと顔をほこばせると、ポ鴻ロポ鴻ロこぼしていた涙を拭い、転びそうになりながら、全力でオレの烽もとへと駆け寄ってｗた。",
+    ("あかりは、ぱっと顔をほこばせると、ポ鴻ロポ鴻ロこぼしていた涙を拭い、転びそうになりながら、全力でオレのもとへと駆け寄ってｗた。",
     ""),
     # Akari quickly exposed her face, wiped the tears that had been spilling out, and as she almost fell, she almost went over to my intense hot spring with all her might.
 
-    ("そして、オレの手を握って、†",
+    ("そして、オレの手を握って、",
     ""),
     # And then I held my hand,
 
@@ -266,21 +266,21 @@ text_array = [
     ""),
     # "Ah, I've found you!"
 
-    ("笑迴顔で言った。",
+    ("笑顔で言った。",
     ""),
     # He said with a laughing face.
 
-    ("握辷られた手の痛みより、なんだか胸が痛くなった。†",
+    ("握辷られた手の痛みより、なんだか胸が痛くなった。",
     ""),
-    # My heart hurts more than the pain in my hand being held back.†
+    # My heart hurts more than the pain in my hand being held back.
 
     ("「…ち痰ゃん、どうしたの？	あっ、閨手から撃血が出てるよっ！？	どうしたの！？」",
     ""),
     # "...Choy, what's wrong? Ah, there's bleeding from your hand!? What's wrong?!"
 
-    ("閨手のケガに気づいて、驚いた顔であかりが言った。†",
+    ("閨手のケガに気づいて、驚いた顔であかりが言った。",
     ""),
-    # Kari said with a shocked look on her face when she noticed an injury to her hand.†
+    # Kari said with a shocked look on her face when she noticed an injury to her hand.
 
     ("「ちょ、ちょっとな…」",
     ""),
@@ -290,17 +290,17 @@ text_array = [
     ""),
     # I blurted out my words and let my words go unsteady.
 
-    ("「どうしたの！？	い、いたいっ！？	いたいっ！？」†",
+    ("「どうしたの！？	い、いたいっ！？	いたいっ！？」",
     ""),
-    # "What's wrong!? I want you!? I want you!?" †
+    # "What's wrong!? I want you!? I want you!?" 
 
-    ("「へーき、へーき。なんと烽もないって！」",
+    ("「へーき、へーき。なんともないって！」",
     ""),
     # "Hey, hey. There's no hot water!"
 
-    ("オレの手を握闊りしめ、メきだしそうになるあかりをなだめながら、オレは男のくせに、ちょっとだけモいてしまった。†",
+    ("オレの手を握闊りしめ、メきだしそうになるあかりをなだめながら、オレは男のくせに、ちょっとだけモいてしまった。",
     ""),
-    # I held my hand and calmed Akari as she almost started crying, but despite being a man, I ended up crying just as I cried.†
+    # I held my hand and calmed Akari as she almost started crying, but despite being a man, I ended up crying just as I cried.
 
     ("…あかり。",
     ""),
@@ -322,19 +322,19 @@ text_array = [
     ""),
     # Outside the window there was a blue sky.
 
-    ("ベッドの繧上で顔だけをかたむけ、ぼんやりと桙時計を見た。",
+    ("ベッドの上で顔だけをかたむけ、ぼんやりと桙時計を見た。",
     ""),
     # He tilted his face down on the bed, sniffing and staring at the fox clock.
 
-    ("もう汲昼近くだった。†",
+    ("もう昼近くだった。",
     ""),
-    # It was almost noon.†
+    # It was almost noon.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("ずいぶん懐かしい夢を見た烽もんだ。",
+    ("ずいぶん懐かしい夢を見たもんだ。",
     ""),
     # It was a very nostalgic dream.
 
@@ -346,27 +346,27 @@ text_array = [
     ""),
     # I remember completely forgetting.
 
-    ("オレは、まだ少し痛む右濶手を、轣顔の前へと近づけた。†",
+    ("オレは、まだ少し痛む右濶手を、轣顔の前へと近づけた。",
     ""),
-    # My heartbeat brought my right hand, which was still a little painful, towards my face.†
+    # My heartbeat brought my right hand, which was still a little painful, towards my face.
 
     ("こいつのせいだ。",
     ""),
     # It's because of this guy.
 
-    ("この手の痛みが、きっとあんな大昔の記憶を夢で見させやがったんだ。†",
+    ("この手の痛みが、きっとあんな大昔の記憶を夢で見させやがったんだ。",
     ""),
-    # This kind of pain must have made me dream of dreaming about memories of such long ago.†
+    # This kind of pain must have made me dream of dreaming about memories of such long ago.
 
     ("休匤日なのに、なにをする気力燉もなく、だらだらした一勛日を過ごしていた。",
     ""),
     # Even though it was a holiday, I had no energy to do anything and had a lazy day.
 
-    ("潤居間のソファーに寝転がりながら、読んでいた雑庶誌を、ぽいっと冾放阨り鰍投げる。†",
+    ("潤居間のソファーに寝転がりながら、読んでいた雑庶誌を、ぽいっと冾放阨り鰍投げる。",
     ""),
-    # As I lay on the sofa in the living room, I threw a chock and threw the miscellaneous magazine I was reading.†
+    # As I lay on the sofa in the living room, I threw a chock and threw the miscellaneous magazine I was reading.
 
-    ("テーブルの繧上にあった鰍リｃモコンで、テレビをつけた。",
+    ("テーブルの上にあった鰍リｃモコンで、テレビをつけた。",
     ""),
     # I used the Crocodile C control that was on top of the table crying and used the TV rev to activate the TV.
 
@@ -374,13 +374,13 @@ text_array = [
     "…"),
     # "..."
 
-    ("休匤日の午後は、まと烽もな番組をやってない。",
+    ("休匤日の午後は、まともな番組をやってない。",
     ""),
     # After the morning session on the day of the holiday, Matokonoma hasn't been tampering with the program.
 
-    ("仕緖方なく、たまっていたドラマのビデオを消化することにした。†",
+    ("仕緖方なく、たまっていたドラマのビデオを消化することにした。",
     ""),
-    # Without any effort, I decided to complete the video of the banquet llama, which had been piling up.†
+    # Without any effort, I decided to complete the video of the banquet llama, which had been piling up.
 
     ("・",
     ""),
@@ -398,9 +398,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("２話見終尞わったとこで、軽く横になった。",
     ""),
@@ -414,15 +414,15 @@ text_array = [
     ""),
     # "...Haa."
 
-    ("息を吐く。†",
+    ("息を吐く。",
     ""),
-    # Exhale.†
+    # Exhale.
 
     ("「…あかり」",
     ""),
     # "...Akari"
 
-    ("小さくつぶやいて、そのまま浅い眠りへと獅落ちていった。Å",
+    ("小さくつぶやいて、そのまま浅い眠りへと落ちていった。Å",
     ""),
     # He muttered small, then fell into a light sleepy lion.Å
 
@@ -430,25 +430,25 @@ text_array = [
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("電話の音でｒ途半端に起こされた。",
     ""),
     # I was woken up at me by the sound of the phone.
 
-    ("…っるせーな。†",
+    ("…っるせーな。",
     ""),
-    # ...That's so satisfying.†
+    # ...That's so satisfying.
 
     ("プルルルルルルルル…。",
     ""),
@@ -462,9 +462,9 @@ text_array = [
     ""),
     # Hey hey.
 
-    ("いま、出髀るよ。†",
+    ("いま、出髀るよ。",
     ""),
-    # I'm going out now.†
+    # I'm going out now.
 
     ("プル…。",
     ""),
@@ -474,25 +474,25 @@ text_array = [
     ""),
     # a….
 
-    ("受話嶸器に手を置いた瞬間、電話は切齔れた。†",
+    ("受話嶸器に手を置いた瞬間、電話は切齔れた。",
     ""),
-    # The moment I placed my hand on the receiver, the phone was turned off.†
+    # The moment I placed my hand on the receiver, the phone was turned off.
 
     ("なんだよ、ったく、根性なしめ。",
     ""),
     # What is it? Absolutely, no nerves.
 
-    ("もう一度かかってくるかと思い、１分ほど電話の前で待った。†",
+    ("もう一度かかってくるかと思い、１分ほど電話の前で待った。",
     ""),
-    # I thought I'd call again, so I waited for about a minute in front of the phone.†
+    # I thought I'd call again, so I waited for about a minute in front of the phone.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("だが、それきり電話は鳴逍らなかった。†",
+    ("だが、それきり電話は鳴逍らなかった。",
     ""),
-    # However, the phone didn't ring at all.†
+    # However, the phone didn't ring at all.
 
     ("「………」",
     "…"),
@@ -506,25 +506,25 @@ text_array = [
     ""),
     # It was strangely interesting.
 
-    ("もしかして…。†",
+    ("もしかして…。",
     ""),
-    # Perhaps...†
+    # Perhaps...
 
     ("あかり…か？",
     ""),
     # Is it Akari...?
 
-    ("なんとなく、そんな気がした。†",
+    ("なんとなく、そんな気がした。",
     ""),
-    # For some reason, I felt that way.†
+    # For some reason, I felt that way.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("考え過ぎか…。†",
+    ("考え過ぎか…。",
     ""),
-    # Are you thinking too much...†
+    # Are you thinking too much...
 
     ("再びソファーにごりと寝転がった。",
     ""),
@@ -534,7 +534,7 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("ため息とと烽もに、目を閉じた。",
+    ("ため息とともに、目を閉じた。",
     ""),
     # He sighed and shook his eyes.
 
@@ -546,7 +546,7 @@ text_array = [
     ""),
     # Ahhh.
 
-    ("オレは起き繧上がった。",
+    ("オレは起き上がった。",
     ""),
     # My ramblings started to rise.
 
@@ -558,9 +558,9 @@ text_array = [
     ""),
     # Akari wants to hear my voice.
 
-    ("なんとなくそんな気がした。†",
+    ("なんとなくそんな気がした。",
     ""),
-    # I somehow felt that way.†
+    # I somehow felt that way.
 
     ("あかり…。",
     ""),
@@ -570,11 +570,11 @@ text_array = [
     ""),
     # I'm '.
 
-    ("Ａ	あかりにｉいたい。閨",
+    ("Ａ	あかりにいたい。閨",
     ""),
     # A I want to be Akari.Relax
 
-    ("Ｂ	いまはまだｉえない。閨",
+    ("Ｂ	いまはまだえない。閨",
     ""),
     # B I can't get i yet.Relax
 

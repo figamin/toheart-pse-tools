@@ -2,9 +2,9 @@
 # Source file: 0503.txt
 
 text_array = [
-    ("（葵	出初いイベント	選択繿後	Ｂ）†",
+    ("（葵	出初いイベント	選択繿後	Ｂ）",
     ""),
-    # (Aoi's first event after selection B)†
+    # (Aoi's first event after selection B)
 
     ("「じ痰ゃあ、気がｌいたらってことで」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I replied like that.
 
-    ("行く気煖もないのに行くだなんて、無責任な約束はできない。",
+    ("行く気もないのに行くだなんて、無責任な約束はできない。",
     ""),
     # I can't make an irresponsible promise to go even though I don't have the energy to go.
 

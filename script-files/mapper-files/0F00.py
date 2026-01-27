@@ -2,23 +2,23 @@
 # Source file: 0F00.txt
 
 text_array = [
-    ("（ゲーセンバトル１）閨（卒業式篇（シャーティング））閨（ゲーセン焜内）†",
+    ("（ゲーセンバトル１）閨（卒業式篇（シャーティング））閨（ゲーセン内）",
     ""),
-    # (Arcade Battle Cry 1) (Graduation Ceremony Edition (Sharting)) (Inside the arcade) †
+    # (Arcade Battle Cry 1) (Graduation Ceremony Edition (Sharting)) (Inside the arcade) 
 
     ("ゲーセンにやってきた。",
     ""),
     # I've come to the arcade.
 
-    ("さ〜て、今厓日はどれからやうかな。†",
+    ("さ〜て、今厓日はどれからやうかな。",
     ""),
-    # So, I wonder which day to start with, b?†
+    # So, I wonder which day to start with, b?
 
     ("「センセ〜ッ、提案がありま〜す」",
     ""),
     # "Sir, I have a suggestion."
 
-    ("志保がいきなりそんな声を繧上げた。",
+    ("志保がいきなりそんな声を上げた。",
     ""),
     # Shiho suddenly let out a voice like that.
 
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "That's why it's a proposal."
 
-    ("「ふつうに言え」†",
+    ("「ふつうに言え」",
     ""),
-    # "Speak normally" †
+    # "Speak normally" 
 
     ("「全員参加の指名式バトルを開催しない？」",
     ""),
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "What is that phlegm?"
 
-    ("「対岺戦叶相闡手を選んで、特闢定のゲームで勝敗を競い№合うのよ」†",
+    ("「対岺戦叶相闡手を選んで、特闢定のゲームで勝敗を競い№合うのよ」",
     ""),
     # "You can choose a match against the opponent, compete for the winner and loser in a special game and match the match."
 
-    ("「あかりやｉ史燻もやんのか？」",
+    ("「あかりや史燻もやんのか？」",
     ""),
     # "Are red tampering and i-hime smoking tampering too?"
 
-    ("「だってさ、バトルっていえばいつ烽もあたしとあんただけじ痰ゃない。たまにはあかりとかｉ史とかがバトル窿やって烽もお烽もしいんじ痰ゃないかな〜って」†",
+    ("「だってさ、バトルっていえばいつもあたしとあんただけじ痰ゃない。たまにはあかりとか史とかがバトル窿やってもおもしいんじ痰ゃないかな〜って」",
     ""),
     # "Because, when you say "Battle crying" whenever you and me are the only ones who don't have phlegm. Sometimes Akari and I-Shin are the ones who crying with the other, and you're probably not phlegmy."
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # "The winner of Jaanken is free."
 
-    ("「ジャャンケンの汲結果汢次謗第でめずらしいバトルが見鼬れるって墲わけか」",
+    ("「ジャャンケンの結果汢次謗第でめずらしいバトルが見鼬れるってわけか」",
     ""),
     # "Is it true that the rare battle crying is a hit with the result of the slander of Jayanken?"
 
-    ("「そゆこと」†",
+    ("「そゆこと」",
     ""),
-    # "Sogai Yukoto"†
+    # "Sogai Yukoto"
 
-    ("「ねえ。それって、いつ烽もふたりがやってるみたいに、пヤックおごらされたりするの？」",
+    ("「ねえ。それって、いつもふたりがやってるみたいに、пヤックおごらされたりするの？」",
     ""),
     # "Hey. When will that be when you get _yak to be treated like the two of them are tampering with?"
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "It's a lot.
 
-    ("勝縁負は守骼るモノがあるから、お烽もしくなるのよ」†",
+    ("勝縁負は守骼るモノがあるから、おもしくなるのよ」",
     ""),
     # There are things that protect you from winning, so even if you're going to get b"
 
@@ -90,23 +90,23 @@ text_array = [
     ""),
     # "Yeah~~~…"
 
-    ("それまで黙って聞いていたｉ史燻もそってそんな声を繧上げる。",
+    ("それまで黙って聞いていた史燻もそってそんな声を上げる。",
     ""),
     # I had been listening to it silently until then, and the voices of I-Shin-Shuu have come to light.
 
-    ("「それが『掟』諱よ」†",
+    ("「それが『掟』諱よ」",
     ""),
-    # "That's the 'rule'" †
+    # "That's the 'rule'" 
 
     ("「ってことはだ、自分謨より下濶手なрヤツを鰍相闡手に選べば有覧ってことか」",
     ""),
     # "That means you can see it if you choose a guy who is better than you, who is better than you.
 
-    ("「あ〜ったりまえよ。はじめのジャャンケンに勝つの烽も勝縁負のうちなんだから」†",
+    ("「あ〜ったりまえよ。はじめのジャャンケンに勝つのも勝縁負のうちなんだから」",
     ""),
     # "Ah, be careful. The first one to beat Jayanken is also a stake in the win."
 
-    ("「そんなあ〜。どっちにしр私が不風だよ。誰を選んで烽も勝てそうにない烽もの…」",
+    ("「そんなあ〜。どっちにしр私が不風だよ。誰を選んでも勝てそうにないもの…」",
     ""),
     # "Ahhh. Whichever you choose, I'm not in the wind. I don't think anyone can win either..."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Akari has already declared her defeat.
 
-    ("「ジャャンケンに勝ってｉ史を選べばいいじ痰ゃない。多分同じ撃レベルでしょ？」†",
+    ("「ジャャンケンに勝って史を選べばいいじ痰ゃない。多分同じ撃レベルでしょ？」",
     ""),
     # "You can beat Jayanken and choose I-History, so you can't get any phlegms. Maybe you're going to cry the same level of attack?"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("オレが聞くと、♂史は、",
+    ("オレが聞くと、雅史は、",
     ""),
     # When I heard that Makire was
 
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # "Well, I guess I don't have any phlegms that I specialize in..."
 
-    ("と、どっちに烽もとれる言い方をする。",
+    ("と、どっちにもとれる言い方をする。",
     ""),
     # And which way you say you can get hot water, and you're lucky.
 
-    ("じつはプ鴻ロ級の腕前だとかいうギャャグ焜も、こいつならありうるだけにｊ険だ。†",
+    ("じつはプ鴻ロ級の腕前だとかいうギャャグも、こいつならありうるだけにｊ険だ。",
     ""),
-    # In fact, Gyagu-san, who is said to be a skilled professional at the level of a pro-Koro banquet, is a bit difficult because this guy is possible.†
+    # In fact, Gyagu-san, who is said to be a skilled professional at the level of a pro-Koro banquet, is a bit difficult because this guy is possible.
 
-    ("「やり烽もしねーうちから奄負けた気になってんじ痰ゃねー諱よ。端っからできないと思い桙込んでたら、避けられる弾熬も避けらんねーぞ」",
+    ("「やりもしねーうちから奄負けた気になってんじ痰ゃねー諱よ。端っからできないと思い桙込んでたら、避けられる弾熬も避けらんねーぞ」",
     ""),
     # "I don't have the chance to get the ball out of my mind, and I feel like I've lost Amami, so I'm not going to have to smear it. If I think I can't do it, I'll never be able to avoid the bullet that I can avoid."
 
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "Uhh, you're good at words again..."
 
-    ("「さあさあ、さっさと始めち痰ゃう墲わよ〜っ。ジャャ〜ンケ〜ン｢｢」†",
+    ("「さあさあ、さっさと始めち痰ゃうわよ〜っ。ジャャ〜ンケ〜ン｢｢」",
     ""),
-    # "Now, let's start quickly. Jayan Kehn ""†
+    # "Now, let's start quickly. Jayan Kehn ""
 
     ("・",
     ""),
@@ -166,37 +166,37 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("…氈勝った。",
     ""),
     # ...I won.
 
-    ("妙に窒白熱したジャャンケンバトルだったが、辛く烽もオレが勝女した。†",
+    ("妙に窒白熱したジャャンケンバトルだったが、辛くもオレが勝女した。",
     ""),
-    # It was strangely hot and hot, but I was so excited that I was able to win the game.†
+    # It was strangely hot and hot, but I was so excited that I was able to win the game.
 
     ("「さあ、じ痰ゃあ、誰をご指名？」",
     ""),
     # "Now, sputum, who do you nominate?"
 
-    ("そう言いつつ烽も、『♂史を狙っち痰ゃえ』と目で",
+    ("そう言いつつも、『雅史を狙っち痰ゃえ』と目で",
     ""),
-    # With that in mind, Kao also said, "Aiming for the history of the ♂, sighs."
+    # With that in mind, Kao also said, "Aiming for the history of the 雅, sighs."
 
     ("合図する、志保。",
     ""),
     # Shiho signaled.
 
-    ("いつ烽もどおり獅落ちｒいた感じの、♂史。",
+    ("いつもどおり落ちｒいた感じの、雅史。",
     ""),
     # A male history that feels like a lion falling off at some point.
 
-    ("目を№合寘わせないようにしている、あかり。†",
+    ("目を№合寘わせないようにしている、あかり。",
     ""),
-    # Akari tries to prevent her from simulating her eyes.†
+    # Akari tries to prevent her from simulating her eyes.
 
     ("…さて、じっさい誰を指名しようか。",
     ""),
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # A Shiho.Relax
 
-    ("Ｂ	♂史。閨",
+    ("Ｂ	雅史。閨",
     ""),
     # B: Male History.Relax
 

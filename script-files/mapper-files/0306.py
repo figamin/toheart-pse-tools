@@ -2,9 +2,9 @@
 # Source file: 0306.txt
 
 text_array = [
-    ("（智子	冝日付イベント	１回目	選択繿後Ｃの続き）†",
+    ("（智子	冝日付イベント	１回目	選択繿後Ｃの続き）",
     ""),
-    # (Tomoko's Pilgrim Date Event 1st Time Continued from C after selection)†
+    # (Tomoko's Pilgrim Date Event 1st Time Continued from C after selection)
 
     ("「です。",
     ""),
@@ -22,17 +22,17 @@ text_array = [
     ""),
     # Please be ok."
 
-    ("オレは無俣に≠普通のあいさつをした。†",
+    ("オレは無俣に≠普通のあいさつをした。",
     ""),
-    # My geisha gave a normal greeting to Mumata.†
+    # My geisha gave a normal greeting to Mumata.
 
-    ("こういうのは形式的な烽もんだから、＝普通でいいのだ。",
+    ("こういうのは形式的なもんだから、＝普通でいいのだ。",
     ""),
     # This kind of thing is formal, so it's fine to be normal.
 
-    ("ヘタにフレンドリーに出てお寒いрヤツだと思寬われるの烽もなんだし、かといって面倒くさそうに素っ気なくいくの烽も印象が悪い。†",
+    ("ヘタにフレンドリーに出てお寒いрヤツだと思寬われるのもなんだし、かといって面倒くさそうに素っ気なくいくのも印象が悪い。",
     ""),
-    # It's not surprising that he's going out to be a very cold guy and thinks he's a cold guy, but the fact that he goes straight and casually like a hassle makes a bad impression.†
+    # It's not surprising that he's going out to be a very cold guy and thinks he's a cold guy, but the fact that he goes straight and casually like a hassle makes a bad impression.
 
     ("言い終えて席にｒき、なにげなしにふと横を見骭ると、ひとりの翌女生徒と目が№合った。",
     ""),
@@ -46,12 +46,12 @@ text_array = [
     ""),
     # I think it was Hoshina's name.
 
-    ("目が№合ったの烽も束の間、すぐに保科は目をそらす。",
+    ("目が№合ったのも束の間、すぐに保科は目をそらす。",
     ""),
     # Even though he had only met his eyes, Hoshina quickly looked away.
 
-    ("どうやらオレのこと、覚えてるみたいだな。†",
+    ("どうやらオレのこと、覚えてるみたいだな。",
     ""),
-    # It seems like he remembers the tampering and the harshness of me.†
+    # It seems like he remembers the tampering and the harshness of me.
 
 ]

@@ -2,11 +2,11 @@
 # Source file: 00B5.txt
 
 text_array = [
-    ("（４獅月１５冾日	朝）閨（自分の部屋）†",
+    ("（４月１５冾日	朝）閨（自分の部屋）",
     ""),
     # (April 15th day of the month of the month) (morning) (morning room)
 
-    ("４獅月１５冾日、火曜坥日。",
+    ("４月１５冾日、火曜坥日。",
     ""),
     # Fourth Lion Day, 15th day, Tuesday.
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I overslept a little.
 
-    ("おかげで、さっきからあかりがうるさい。†",
+    ("おかげで、さっきからあかりがうるさい。",
     ""),
-    # Thanks to this, Akari has been noisy for a while now.†
+    # Thanks to this, Akari has been noisy for a while now.
 
     ("ピンポーン、",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "I'm gonna cum!"
 
-    ("オレはベッドから跳ね起きた。†",
+    ("オレはベッドから跳ね起きた。",
     ""),
-    # I jumped out of bed.†
+    # I jumped out of bed.
 
     ("家から公園まで、走ってきた。",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Heh, heh. Please, don't oversleep."
 
-    ("「悪かったな。オレだって、したくてしてる墲わけじ痰ゃねー諱よ」†",
+    ("「悪かったな。オレだって、したくてしてるわけじ痰ゃねー諱よ」",
     ""),
     # "That's bad. Even my supernatural romance is something I want to do, so I have no idea what to do."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "That's a shame. If that's the case, you don't have to wait for phlegm. Leave me a bitch after this time."
 
-    ("「そ、それは…」†",
+    ("「そ、それは…」",
     ""),
     # "Oh, that's..."
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "Ah, that kid..."
 
-    ("う墲わさの超能力濫少酪女。†",
+    ("うわさの超能力少酪女。",
     ""),
-    # A young woman with so many supernatural powers.†
+    # A young woman with so many supernatural powers.
 
     ("「ふぅ、ふぅ。な、なんとか間に№合ったね、ち痰ゃん」",
     ""),
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "What are you watching?"
 
-    ("「いや、べつに…」†",
+    ("「いや、べつに…」",
     ""),
     # "Tampering, it's all..."
 

@@ -2,9 +2,9 @@
 # Source file: 0542.txt
 
 text_array = [
-    ("（葵	好感度イベント１	選択繿後Ｂ）†",
+    ("（葵	好感度イベント１	選択繿後Ｂ）",
     ""),
-    # (Aoi Likeability Event 1 After Selection B)†
+    # (Aoi Likeability Event 1 After Selection B)
 
     ("「そり痰ゃ多いな、太るぞ〜」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "a…"
 
-    ("葵ち痰ゃんは、恥ずかしそうにｘいてしまう。†",
+    ("葵ち痰ゃんは、恥ずかしそうにｘいてしまう。",
     ""),
-    # Aoi Chisho-yan looks embarrassed and falls into the air.†
+    # Aoi Chisho-yan looks embarrassed and falls into the air.
 
     ("「いちど太っちまうと、縺後が大変だぞぉ〜。とくに翌女の子のダイエットは入しいっていうからな」",
     ""),
@@ -38,11 +38,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("すると、葵ち痰ゃんはなにやら深署刻な表﨣情で考え桙込んでしまった。†",
+    ("すると、葵ち痰ゃんはなにやら深署刻な表﨣情で考え桙込んでしまった。",
     ""),
-    # Then, Aoi Chisho-yan was frustrated with all the tampering and serious police-like feelings.†
+    # Then, Aoi Chisho-yan was frustrated with all the tampering and serious police-like feelings.
 
-    ("少しして、轣顔を繧上げると、",
+    ("少しして、轣顔を上げると、",
     ""),
     # After a while, I lifted my face up,
 
@@ -54,13 +54,13 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「も、もし烽もこのｒで、好きなおかずとかがあったら、食べていいですよ」",
+    ("「も、もしもこのｒで、好きなおかずとかがあったら、食べていいですよ」",
     ""),
     # "And if you have a side dish that you like, you can eat it at this r, or something like that."
 
-    ("固い笑迴顔で言った。†",
+    ("固い笑顔で言った。",
     ""),
-    # He said with a firm smile.†
+    # He said with a firm smile.
 
     ("「ぷっ…！」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "picture"
 
-    ("「それくらいちっと烽も多くないさ。葵ち痰ゃんは運動笂やってんだから、少ないくらいだ」†",
+    ("「それくらいちっとも多くないさ。葵ち痰ゃんは運動笂やってんだから、少ないくらいだ」",
     ""),
-    # "There aren't that many hotpots. Aoi Chishonan is doing exercise horns, so it's not too many." †
+    # "There aren't that many hotpots. Aoi Chishonan is doing exercise horns, so it's not too many." 
 
     ("「え、あ…」",
     ""),
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Haha, there's no slut. Aoi Chisho-chan is usually a martial artist, so I have to eat more and get more physically."
 
-    ("「そ、そうですけど…」†",
+    ("「そ、そうですけど…」",
     ""),
     # "Yeah, that's true..."
 
@@ -122,36 +122,36 @@ text_array = [
     ""),
     # Aoi Chisho-yan blinked his big eyes.
 
-    ("そしてようやくオレの言葉を揩理解する。†",
+    ("そしてようやくオレの言葉を理解する。",
     ""),
-    # And I understand my words as I stolen.†
+    # And I understand my words as I stolen.
 
     ("「も、もおっ、センパイ、ひどいですっ！」",
     ""),
     # "Ahhh, senpai, that's terrible!"
 
-    ("葵ち痰ゃんは、照齒れたような、怒ったような、笑ったような複雑な表﨣情で、ポクポクとオレの胸を叩いた。†",
+    ("葵ち痰ゃんは、照齒れたような、怒ったような、笑ったような複雑な表﨣情で、ポクポクとオレの胸を叩いた。",
     ""),
-    # Aoi Chisho-yan pounded my heart with a complicated, illusion, angry, laughing, and pounding.†
+    # Aoi Chisho-yan pounded my heart with a complicated, illusion, angry, laughing, and pounding.
 
     ("「…わはは、ゴ＜メンゴ＜メン！	わはははは、ぐふっ」",
     ""),
     # "...Bigwahaha, gomengo<mengo<men!Bigwahahaha, gufu."
 
-    ("笑ってはいたが、葵ち痰ゃんのポクポクは、じつは汲結構痛かった。",
+    ("笑ってはいたが、葵ち痰ゃんのポクポクは、じつは結構痛かった。",
     ""),
     # Although I was laughing, the throbbing of Aoi Chishonan actually hurts quite a bit.
 
-    ("さ、さすがだ。†",
+    ("さ、さすがだ。",
     ""),
-    # Well, that's impressive.†
+    # Well, that's impressive.
 
-    ("その繧後、オレと葵ち痰ゃんは、楽しくいっしょに汲昼£メシを食べた。",
+    ("その後、オレと葵ち痰ゃんは、楽しくいっしょに昼メシを食べた。",
     ""),
     # After that, I and Aoi Chisho-yan happily ate lunch meals with the slut.
 
-    ("しばらくして。†",
+    ("しばらくして。",
     ""),
-    # after a while.†
+    # after a while.
 
 ]

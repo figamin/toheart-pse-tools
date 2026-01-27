@@ -2,9 +2,9 @@
 # Source file: 02C2.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ３）閨（廊下２）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ３）閨（廊下２）",
     ""),
-    # (Seri° Kaku, Scales Event 1F LV3)Seri (Carrior 2)†
+    # (Seri° Kaku, Scales Event 1F LV3)Seri (Carrior 2)
 
     ("１階の廊下にｗ磯翌ﾆ、ついつい、窓からｒ鋳の方を見骭る癖がついてしまった。",
     ""),
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # There is.
 
-    ("＠栖瑞謳先輩は鰍相変﨑わらずベンチに座って、ぼーっとしている。†",
+    ("＠栖瑞謳先輩は鰍相変﨑わらずベンチに座って、ぼーっとしている。",
     ""),
-    # @Suimi-san, Senpai, is sitting on the bench without a silence, feeling a bit dazed.†
+    # @Suimi-san, Senpai, is sitting on the bench without a silence, feeling a bit dazed.
 
-    ("冝日光′浴で烽もしてんのかな？",
+    ("冝日光′でもしてんのかな？",
     ""),
     # Are you also hot in the sunbath?
 

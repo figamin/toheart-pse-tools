@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("「なんかよく墲わかんねーけど、そんな感じ？	ははっ、なに言ってんだ、オレ？」",
+    ("「なんかよくわかんねーけど、そんな感じ？	ははっ、なに言ってんだ、オレ？」",
     ""),
     # "I don't really understand, but that's how it is? Haha, what are you talking about, I'm so brutal?"
 
@@ -46,7 +46,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("そんなオレを、綾∴香はや墲わらかく微笑んでじっと見つめていた。†",
+    ("そんなオレを、綾∴香はやわらかく微笑んでじっと見つめていた。†",
     ""),
     # Ayaka stared at me with a soft smile.†
 

@@ -2,11 +2,11 @@
 # Source file: 029A.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ａ	薬を烽もらう）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ａ	薬をもらう）†",
     ""),
     # (Seri°Cho, Scales, 2F, LV4)Seri (Seri°Cho, receive the medicine)†
 
-    ("「じ痰ゃあ、ひとつ鰍頼む墲わ」",
+    ("「じ痰ゃあ、ひとつ鰍頼むわ」",
     ""),
     # "Ah, I'll ask you a monk."
 
@@ -14,9 +14,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ、部室へ行って取ってくるから、£鋳で待っててくれって？」",
+    ("「えっ、部室へ行って取ってくるから、鋳で待っててくれって？」",
     ""),
-    # "Huh, I'll go to the club room and get it, so please wait for me with £cash?"
+    # "Huh, I'll go to the club room and get it, so please wait for me with cash?"
 
     ("こくん。",
     ""),
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Nodded, and Senpai Kimi headed back down the hallway.†
 
-    ("£鋳のベンチで座って待っていると、少しして先輩がやってきた。",
+    ("鋳のベンチで座って待っていると、少しして先輩がやってきた。",
     ""),
     # I sat on the cast bench and waited, and a little later my senior came to tamper with me.
 
-    ("閨手にはモ茶色の小瓶を揩持っている。",
+    ("閨手にはモ茶色の小瓶を持っている。",
     ""),
     # He holds a small brown bottle in his hand.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # I handed me a small bottle, saying, "Isao Senpai."†
 
-    ("「悪いね、わざ墲わざ。へえ、これがその薬か。なんか肉体鞫疲労椈時の栄養笳補虚給にって感じだな」",
+    ("「悪いね、わざわざ。へえ、これがその薬か。なんか肉体鞫疲労椈時の栄養笳補虚給にって感じだな」",
     ""),
     # "That's bad, it's a move. Wow, is this the medicine? It feels like a nutritional supplement when physically exhausted and slaughtered."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # The small bottle was about the size of a monk, and the weir rabe had no sardines written on it.
 
-    ("太陽に透かして見て烽も、べつに怪しい烽ものは入っていない。",
+    ("太陽に透かして見ても、べつに怪しいものは入っていない。",
     ""),
     # Even if you see through the sun, there is no strange hot pot inside.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Senior looks at me in a stern way.
 
-    ("あっ、せっかく烽もらったのに、この態度はないか。",
+    ("あっ、せっかくもらったのに、この態度はないか。",
     ""),
     # Oh, I've been given a hot spring, but isn't this attitude?
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # I'm so happy.
 
-    ("なんか変な生薬で烽も配∑合してそうな味だな。",
+    ("なんか変な生薬でも配∑合してそうな味だな。",
     ""),
     # It tastes like it's a strange herbal medicine and also comes with hot water.
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # He looked worried and peered at me.†
 
-    ("それより烽も繧後頭箔部。",
+    ("それよりも後頭箔部。",
     ""),
     # Furthermore, the hot springs are also on the back of the head.
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # a.
 
-    ("これって烽もしかして、諱先輩のひざ高枕じ痰ゃ…。",
+    ("これってもしかして、諱先輩のひざ高枕じ痰ゃ…。",
     ""),
     # This might be a high-pillow from my senior's knees...
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # Wow, why on earth, what on earth...?†
 
-    ("「え、薬のせい？	どうやら配∑合を間瘧違えたみたいですって？	じ痰ゃ、じ痰ゃあ、あれって、もしかして、諱先輩がｍった…？」",
+    ("「え、薬のせい？	どうやら配∑合を間違えたみたいですって？	じ痰ゃ、じ痰ゃあ、あれって、もしかして、諱先輩がｍった…？」",
     ""),
     # "Huh, it's because of the medicine? It seems like they've been tampering with the wrong way, or how they've been dealt with it? That's a phlegm, maybe that's what my senior was doing...?"
 

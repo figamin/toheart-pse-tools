@@ -2,7 +2,7 @@
 # Source file: 0168.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	差し替え）閨（５獅月２冾日	１Ｆ）閨（下駄箱）閨（無音）閨（ＰＣＭ	ざ墲わめき）†",
+    ("（あかり	回秤数イベント	差し替え）閨（５月２冾日	１Ｆ）閨（下駄箱）閨（無音）閨（ＰＣＭ	ざわめき）†",
     ""),
     # (Akari Scales Event Replacement) (5th Lion Month 2nd Day 1F) (Shoe cabinet) (silent) (PCM Zazuwameki) †
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "...Choosh" †
 
-    ("オレはあかりに背をｌけ、再び烽歩き出した。",
+    ("オレはあかりに背をｌけ、再び歩き出した。",
     ""),
     # I turned my back against Akari and started walking again.
 

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone Scales Event PS)
 
-    ("「ち墲わ〜っす、琴音ち痰ゃん」",
+    ("「ちわ〜っす、琴音ち痰ゃん」",
     ""),
     # "I'm gonna be ok, Kotone's sphinja."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hello…"
 
-    ("Ａ	いっしょに帰汲うぜ。閨",
+    ("Ａ	いっしょに帰うぜ。閨",
     ""),
     # A: I'll return to the Episode.Relax
 

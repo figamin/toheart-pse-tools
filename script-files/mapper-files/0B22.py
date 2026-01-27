@@ -2,9 +2,9 @@
 # Source file: 0B22.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント２）閨（選択綜Ｂ	左に回濶り桙込む！	の続き）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント２）閨（選択綜Ｂ	左に回濶り桙込む！	の続き）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 2 of the battle to take on the balance scale) (Continued from Selection B, turn left!) †
+    # (Aya∴Ka challenges Aya∴Ka, event 2 of the battle to take on the balance scale) (Continued from Selection B, turn left!) 
 
     ("左に回濶り桙込む！",
     ""),
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # From there, they attack.
 
-    ("ジャャブだ！†",
+    ("ジャャブだ！",
     ""),
-    # It's Jaab!†
+    # It's Jaab!
 
     ("シャッ！",
     ""),
     # Shah!
 
-    ("だが綾∴香は入なくスウェーでか墲わす。",
+    ("だが綾∴香は入なくスウェーでかわす。",
     ""),
     # However, Aya∴Kara does not enter and she swivels up in the sweeping area.
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # Bang!
 
-    ("パリー（閨手で払いのけ）される。†",
+    ("パリー（閨手で払いのけ）される。",
     ""),
-    # It is smashed off with a hand.†
+    # It is smashed off with a hand.
 
     ("左に回って打つ。",
     ""),
@@ -62,49 +62,49 @@ text_array = [
     ""),
     # Palata Lee, Palata Lee, Sweet.
 
-    ("くっ、当たらない。†",
+    ("くっ、当たらない。",
     ""),
-    # Damn, it won't polish.†
+    # Damn, it won't polish.
 
-    ("綾∴香は、つかず離齬れずの一闊定の翌距離を保ちながら、ダンスで烽も踊髣るように鰍リズミカルなフット純ワークで、右へ左へ移動する。",
+    ("綾∴香は、つかず離齬れずの一闊定の翌距離を保ちながら、ダンスでも踊髣るように鰍リズミカルなフット純ワークで、右へ左へ移動する。",
     ""),
     # Aya∴Ka keeps the distance that follows, without any confusion, and while dancing, he moves right and left with pure footwork that is like a cry of rhythmic sluts and crying in the dance.
 
-    ("まるで、いつで烽も反ｔ撃できる墲わよ、とで烽も言いたげだ。",
+    ("まるで、いつでも反ｔ撃できるわよ、とでも言いたげだ。",
     ""),
     # It's as if Kao would say that he could counterattack the enemy at any time.
 
-    ("うっとうしい間㈱合いだ。†",
+    ("うっとうしい間㈱合いだ。",
     ""),
-    # It's an annoying Mana Co., Ltd.†
+    # It's an annoying Mana Co., Ltd.
 
     ("くそっ、梶リーチはオレのほうが長いんだ。",
     ""),
     # Damn, Kaji Reach is longer than me.
 
-    ("接近寀戦に揩持ち桙込めば、結果的に打ち奄負けたとして烽も、一発ぐらい、なんとか強引に叩き桙込めるはずだ。",
+    ("接近寀戦に持ち桙込めば、結果的に打ち奄負けたとしても、一発ぐらい、なんとか強引に叩き桙込めるはずだ。",
     ""),
     # If they were to take the ball into the close battle, they would have managed to forcefully defeat the ball in about a single shot, as if they were defeated by Amami.
 
-    ("まずは攻ｍ撃をブ鴻ロックさせて｢｢。†",
+    ("まずは攻ｍ撃をブ鴻ロックさせて｢｢。",
     ""),
-    # First, let the attack and M-shot go rock and say, ".†
+    # First, let the attack and M-shot go rock and say, ".
 
     ("スパァーーーンッ！",
     ""),
     # Spears!
 
-    ("あれっ。†",
+    ("あれっ。",
     ""),
-    # Huh.†
+    # Huh.
 
     ("スパァーーーンッ！",
     ""),
     # Spears!
 
-    ("あれっ。†",
+    ("あれっ。",
     ""),
-    # Huh.†
+    # Huh.
 
     ("スパァンッ、",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # Spank!
 
-    ("あれっ。†",
+    ("あれっ。",
     ""),
-    # Huh.†
+    # Huh.
 
     ("なんで、こう一箞方的に…。",
     ""),
@@ -130,17 +130,17 @@ text_array = [
     ""),
     # Ah, that's bad.
 
-    ("ガードが…。†",
+    ("ガードが…。",
     ""),
-    # The guard...†
+    # The guard...
 
     ("スパアアァァァーーーーーーーーンッ！",
     ""),
     # Splaaaaahhhh!
 
-    ("世界が回った。†",
+    ("世界が回った。",
     ""),
-    # The world has revolved.†
+    # The world has revolved.
 
     ("・",
     ""),
@@ -158,19 +158,19 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("くっそー…。",
     ""),
     # Damn it...
 
-    ("ディフェンスがうまくてカスリ焜もしねー。†",
+    ("ディフェンスがうまくてカスリもしねー。",
     ""),
-    # He has good defense and doesn't have any problems.†
+    # He has good defense and doesn't have any problems.
 
-    ("「｢｢煕もし烽もーし、そこ、意識ある？」",
+    ("「｢｢煕もしもーし、そこ、意識ある？」",
     ""),
     # "" "Are you conscious about it, are you conscious of it?"
 
@@ -182,15 +182,15 @@ text_array = [
     ""),
     # "Looks like that..."
 
-    ("禔口だけ動かして嘯答えた。†",
+    ("禔口だけ動かして嘯答えた。",
     ""),
-    # He replied with only moving his mouth.†
+    # He replied with only moving his mouth.
 
     ("「いつつ〜…」",
     ""),
     # "I'm here..."
 
-    ("オレは繧上体を起こすと、吹草の繧上であぐらをかいた。",
+    ("オレは上体を起こすと、吹草の上であぐらをかいた。",
     ""),
     # I lifted up my body and grabbed my legs on the ridge of the bush.
 
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # "It hurts, my name is"
 
-    ("綾∴香はくすっと笑う。†",
+    ("綾∴香はくすっと笑う。",
     ""),
-    # Aya∴Ka chuckles.†
+    # Aya∴Ka chuckles.
 
     ("「足を使うのはいいけど、せっかく回濶り桙込むんなら逆のほうがいいんじ痰ゃない？",
     ""),
@@ -218,12 +218,12 @@ text_array = [
     ""),
     # "That's bad, I'm an amateur who doesn't even know about the basics."
 
-    ("「まあ、で烽もこれでひとつ学習したでしょ？」",
+    ("「まあ、でもこれでひとつ学習したでしょ？」",
     ""),
     # "Well, did you learn something from this, slut?"
 
-    ("「…ちくしょう」†",
+    ("「…ちくしょう」",
     ""),
-    # "...Chikushi Ebi"†
+    # "...Chikushi Ebi"
 
 ]

@@ -2,7 +2,7 @@
 # Source file: 02B4.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（校蜊門２）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（校門２）†",
     ""),
     # (Sei°Chuang Scales Event Departing from School LV2)Sei (School Gate 2)†
 

@@ -2,11 +2,11 @@
 # Source file: 0692.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	お前って、ホントにといな〜	の続き）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	お前って、ホントにといな〜	の続き）",
     ""),
-    # (Muryuruchi, Scales Event 2F LV3) (Continued from Chosen A, you're really b...)†
+    # (Muryuruchi, Scales Event 2F LV3) (Continued from Chosen A, you're really b...)
 
-    ("「それにして烽も、マルチ」",
+    ("「それにしても、マルチ」",
     ""),
     # "And then, Hoo is also crying."
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "...Su, it's not a subibasen."
 
-    ("マルチは烽もう一度、チ〜ンっと鼻をかんだ。†",
+    ("マルチはもう一度、チ〜ンっと鼻をかんだ。",
     ""),
-    # McDonald's nose blows again.†
+    # McDonald's nose blows again.
 
     ("「あ、あの、とこで…」",
     ""),
@@ -46,8 +46,8 @@ text_array = [
     ""),
     # "...Yes, let's go."
 
-    ("マルチはぐしぐし目をこすってうなずいた。†",
+    ("マルチはぐしぐし目をこすってうなずいた。",
     ""),
-    # Ruchi rubbed his eyes and nodded.†
+    # Ruchi rubbed his eyes and nodded.
 
 ]

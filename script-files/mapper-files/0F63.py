@@ -2,15 +2,15 @@
 # Source file: 0F63.txt
 
 text_array = [
-    ("（４獅月２０冾日	冝日）閨（♂史の場㍼合）†",
+    ("（４月２０冾日	冝日）閨（雅史の場㍼合）†",
     ""),
-    # (April Lion Day 20th Day) (Men's Day) (♂ History Place)†
+    # (April Lion Day 20th Day) (Men's Day) (雅 History Place)†
 
     ("やっぱ、驕夜遅くに翌女の子のうちに電話するのは問題があるだう。",
     ""),
     # After all, calling the girl the next day late at night is a question of the question.
 
-    ("てな墲わけでｉ史だな。†",
+    ("てなわけで史だな。†",
     ""),
     # That's why it's I history.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Yes, it's Sato."
 
-    ("おっ、ビンゴ、♂史本人だ。†",
+    ("おっ、ビンゴ、雅史本人だ。†",
     ""),
     # Oh, Bingo, it's Masochist herself.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Actually..." †
 
-    ("やっぱりｉ史は鰍頼りになるぜ。",
+    ("やっぱり史は鰍頼りになるぜ。",
     ""),
     # After all, I-Hisashi will become a roe lantern.
 
@@ -58,8 +58,8 @@ text_array = [
     ""),
     # Channe's crying...this is fine.
 
-    ("（オレ焜内箔部	♂史	信叶頼度＋１）◯",
+    ("（オレ内箔部	雅史	信叶頼度＋１）◯",
     ""),
-    # (My inner foil section, ♂ History, Shinkana Reliability +1)◯
+    # (My inner foil section, 雅 History, Shinkana Reliability +1)◯
 
 ]

@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Seri°Kawaii Scale Number Event Return Road LV1)Seri (Sai ​​Bookstore Kabu & School)†
 
-    ("商店街を烽歩いているときのことだ。",
+    ("商店街を歩いているときのことだ。",
     ""),
     # This was when I was walking around the shopping district.
 
-    ("いつ烽もはなにげなく通闥り過ぎる古糟書店だが、今厓日に限ってなんとなくｒをのぞくと、見覚えのある横迚顔を見つけた。",
+    ("いつもはなにげなく通闥り過ぎる古書店だが、今厓日に限ってなんとなくｒをのぞくと、見覚えのある横迚顔を見つけた。",
     ""),
     # The old bookstore is always casually talking too much, but on the day of the day, when I looked around, I found a familiar face.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # Wow.
 
-    ("＠栖瑞グループのおｏ様燉も、こんな獅庶民の商店街に足を運ぶこと烽もあるんだな。",
+    ("＠栖瑞グループのおｏ様燉も、こんな庶民の商店街に足を運ぶこともあるんだな。",
     ""),
     # @O-sama from Suzui Guk-loop also has the opportunity to visit such a shopping street for ordinary people.
 
-    ("古糟書店なんかにはとんと盾縁のないオレだが、諱先輩がいるとなれば話は別だ。",
+    ("古書店なんかにはとんと盾縁のないオレだが、諱先輩がいるとなれば話は別だ。",
     ""),
     # I'm a bit of a big deal at Tokusoku Bookstores, but it's a different story if there's a senior Issue.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # My gei-le stepped into the store's hot water and picked it up.◯
 
-    ("店燗内は古糟書独特のカビくささで桙満ちていた。",
+    ("店燗内は古書独特のカビくささで桙満ちていた。",
     ""),
     # The inside of the store was filled with the mildew that is unique to ancient books.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # It seems like it's a huge collection of potatoes.
 
-    ("声をかけるのがためら墲われる。†",
+    ("声をかけるのがためらわれる。†",
     ""),
     # He hesitates to call out to him.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # What should I do?
 
-    ("Ａ	それで烽も声をかけた。閨",
+    ("Ａ	それでも声をかけた。閨",
     ""),
     # A So, Yan called out to me.Relax
 

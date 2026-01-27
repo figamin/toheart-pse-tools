@@ -2,11 +2,11 @@
 # Source file: 08CA.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	寄闃り道２	ＬＶ２）閨（選択綜	ひとりで帰驪る）†",
+    ("（レミィ	回秤数イベント	寄闃り道２	ＬＶ２）閨（選択綜	ひとりで帰驪る）",
     ""),
-    # (Announcement balance event: 2 LV2) (Choose-so: Returning by yourself)†
+    # (Announcement balance event: 2 LV2) (Choose-so: Returning by yourself)
 
-    ("「わりぃ、戟レミィ。話ならまた明坙日だ」",
+    ("「わりぃ、レミィ。話ならまた明坙日だ」",
     ""),
     # "And so, oh Remie. If you're talking, it's another day of silence."
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Tempu weir"
 
-    ("彼濫女は何かを言いかけて、やめた。†",
+    ("彼女は何かを言いかけて、やめた。",
     ""),
-    # The girl said something and stopped.†
+    # The girl said something and stopped.
 
     ("「え？	なんだって？」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Uhhh."
 
-    ("戟レミィは首を横に振って、",
+    ("レミィは首を横に振って、",
     ""),
     # Karemi shook her head,
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Eh... well, well."
 
-    ("「アタシはいいから、、急いで行って」†",
+    ("「アタシはいいから、、急いで行って」",
     ""),
-    # "I'm fine, hurry up" †
+    # "I'm fine, hurry up" 
 
     ("「お、おう…。じ痰ゃあな」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Sbb y shield o floats"
 
-    ("オレは駆け足でその場を繧後にした。◯",
+    ("オレは駆け足でその場を後にした。◯",
     ""),
     # I took a quick break from the scene.◯
 

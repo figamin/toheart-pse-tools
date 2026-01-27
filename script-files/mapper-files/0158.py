@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Hello, @it"
 
-    ("「おう、縺上がれ繧上がれ」",
+    ("「おう、縺上がれ上がれ」",
     ""),
     # "Oh, go up and go up."
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "My sputum is my sputum."
 
-    ("スーパーのモ買い物袋を手に揩持ったあかりは、ぺこりと頭を下げて家に繧上がった。†",
+    ("スーパーのモ買い物袋を手に持ったあかりは、ぺこりと頭を下げて家に上がった。†",
     ""),
     # Akari, holding a supermarket shopping bag in her hand, bowed her head and leapt up to the house.†
 
-    ("「じ痰ゃあ、お台椛所借闔りるね」",
+    ("「じ痰ゃあ、お台椛所借りるね」",
     ""),
     # "Ah, I'll borrow your spot from the bay."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Isn't it too early to have phlegm?"
 
-    ("「うん。で烽も、準備だけしとくよ」",
+    ("「うん。でも、準備だけしとくよ」",
     ""),
     # "Yes. And I'll just prepare for you, too."
 

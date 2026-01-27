@@ -22,11 +22,11 @@ text_array = [
     ""),
     # If there's no need to do it, you should just go home.†
 
-    ("てくてくと廊下を烽歩いていく。",
+    ("てくてくと廊下を歩いていく。",
     ""),
     # I walked along the hallway.
 
-    ("何人かの生徒たちとすれ痰違ったが、とくに親しい顔には出初妺わなかった。†",
+    ("何人かの生徒たちとすれ痰違ったが、とくに親しい顔には出初わなかった。†",
     ""),
     # Although I was completely gross with some of the students, I couldn't see any of my close faces.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # I'm going back on my own.
 
-    ("意識して考えると寂しい烽ものがあるな。",
+    ("意識して考えると寂しいものがあるな。",
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Does anyone know who?†
 
-    ("３獅月１３冾日終了。",
+    ("３月１３冾日終了。",
     ""),
     # The end of the 13th day of the 3rd Shizuki era.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # That day, I rarely studied at my desk.
 
-    ("気がｌけば、すること烽もある。◯",
+    ("気がｌけば、することもある。◯",
     ""),
     # If you feel like it, there are things you can do.◯
 

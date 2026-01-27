@@ -2,7 +2,7 @@
 # Source file: 0108.txt
 
 text_array = [
-    ("（あかり	冝日付イベント１．６）閨（３獅月１８冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（校蜊門外）†",
+    ("（あかり	冝日付イベント１．６）閨（３月１８冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（校門外）†",
     ""),
     # (Akari Pick Date Event 1.6) (3rd Lion Day 18th) (occurs if you are studying with a light) (occurs when you are in a 2nd round) (occasionally outside the school) †
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yeah, I'm going to have my phlegm."
 
-    ("あかりは脱いだ靴をきちんとそえ、家に繧上がった。◯",
+    ("あかりは脱いだ靴をきちんとそえ、家に上がった。◯",
     ""),
     # Akari put on her undressed shoes and sailed up at home.◯
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "It's finally time for Ming Shun Day and the last minute."
 
-    ("「残闔りは曹国鼾語だけか」",
+    ("「残りは曹国鼾語だけか」",
     ""),
     # "Is Cao Guang Guang the only thing left?"
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # Was he good at Korean language?”
 
-    ("「得意じ痰ゃねーけど、苦闍手って墲わけで烽もないかな。ある程度アドリブが通用するし」†",
+    ("「得意じ痰ゃねーけど、苦闍手ってわけでもないかな。ある程度アドリブが通用するし」†",
     ""),
     # "I'm good at phlegm, but I don't think I'm suffering, so I don't have any heat. Adgata Lib is a good option to some extent."
 
-    ("「じ痰ゃあ、古文の訳笆や漢嚏字の曹書き取闔りに重点を置いて勉強しよっか。ノートを取ってあるから、だいたいの出闖題熨も予想できるよ」",
+    ("「じ痰ゃあ、古文の訳笆や漢嚏字の曹書き取りに重点を置いて勉強しよっか。ノートを取ってあるから、だいたいの出闖題熨も予想できるよ」",
     ""),
     # "Ah, let's focus on the translation of classical Japanese and the Cao dictation of Han Yue. I've been taking notes, so I can predict most of the gifts."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # My head nodded, and Akari smiled lit up.†
 
-    ("「じ痰ゃあ、まずは漢嚏字の曹書き取闔りから」",
+    ("「じ痰ゃあ、まずは漢嚏字の曹書き取りから」",
     ""),
     # "Ah, let's start with the Chinese character dictation."
 
@@ -106,7 +106,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("さ墲わさ墲わ…。",
+    ("さわさわ…。",
     ""),
     # It's so good...
 
@@ -114,7 +114,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("さ墲わさ墲わ…。",
+    ("さわさわ…。",
     ""),
     # It's so good...
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # I looked through my notebook and unconsciously played with Akari's pigtails.†
 
-    ("さ墲わさ墲わ…。",
+    ("さわさわ…。",
     ""),
     # It's so good...
 
@@ -150,7 +150,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("さ墲わさ墲わ…。",
+    ("さわさわ…。",
     ""),
     # It's so good...
 
@@ -158,7 +158,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("さ墲わさ墲わ…。",
+    ("さわさわ…。",
     ""),
     # It's so good...
 
@@ -186,11 +186,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("「…さ墲わりたいの？」",
+    ("「…さわりたいの？」",
     ""),
     # "...Do you want to be a slut?"
 
-    ("「…で烽も、気が散骼るんだ？」",
+    ("「…でも、気が散骼るんだ？」",
     ""),
     # "...And you're also distracted by the way, b?"
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "I see."
 
-    ("さ墲わさ墲わさ墲わさ墲わ…。†",
+    ("さわさわさわさわ…。†",
     ""),
     # It's so cute...†
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "What do you think of Chishonan?"
 
-    ("「オレは、まあ、たまにはイ＜メチェンすんの烽もいいんじ痰ゃないかと思うな」",
+    ("「オレは、まあ、たまにはイ＜メチェンすんのもいいんじ痰ゃないかと思うな」",
     ""),
     # "I think that once in a while, I'm not going to have any phlegms."
 
@@ -258,7 +258,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「やっぱ、あかりはそのままがいいか烽もな」",
+    ("「やっぱ、あかりはそのままがいいかもな」",
     ""),
     # "After all, Akari is fine as is, or maybe Hot."
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # While saying something like that, I studied the freshly-cooked Japanese with Akari as well.†
 
-    ("勉強級を終えてあかりが部屋を出たのは、いつ烽もどおり６桙時過ぎだった。†",
+    ("勉強級を終えてあかりが部屋を出たのは、いつもどおり６桙時過ぎだった。†",
     ""),
     # After finishing her studies, Akari left the room just after six holes.†
 

@@ -2,9 +2,9 @@
 # Source file: 0644.txt
 
 text_array = [
-    ("（マルチ	好感度イベント	５）閨（好感度が	のとき）閨（昼休み）閨（図草書室）†",
+    ("（マルチ	好感度イベント	５）閨（好感度が	のとき）閨（昼休み）閨（図草書室）",
     ""),
-    # (Makyuruchi Likeability Event 5) (When Likeability is ) (Lunch break) (Cursic Library)†
+    # (Makyuruchi Likeability Event 5) (When Likeability is ) (Lunch break) (Cursic Library)
 
     ("昼休み。",
     ""),
@@ -14,13 +14,13 @@ text_array = [
     ""),
     # I came back to the cursive library.
 
-    ("今厓日は汲昼寝ではなく、ちょっとべつの目的でｗた。◯",
+    ("今厓日は昼寝ではなく、ちょっとべつの目的でｗた。◯",
     ""),
     # I didn't take a nap right now, but I laughed for another purpose.◯
 
-    ("充電湯のマルチを見にｗたのだ。†",
+    ("充電湯のマルチを見にｗたのだ。",
     ""),
-    # I went to see the cries in the charging bath.†
+    # I went to see the cries in the charging bath.
 
     ("ひとけのない図草書室の一角で、静かに眠りながら充電するマルチ。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # And I also watched the dream.
 
-    ("いまはいったいどんな夢を見てるんだう。†",
+    ("いまはいったいどんな夢を見てるんだう。",
     ""),
-    # What kind of dreams are you having now?†
+    # What kind of dreams are you having now?
 
     ("オレはマルチの頭を優しくなでた。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "...Good dream b"
 
-    ("オレがつぶやくような声で言ったとき…。†",
+    ("オレがつぶやくような声で言ったとき…。",
     ""),
-    # When I said in a voice that was squealing...†
+    # When I said in a voice that was squealing...
 
     ("「さん…」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("覗き桙込んで烽も、マルチはまだ眠ったままだ。",
+    ("覗き桙込んでも、マルチはまだ眠ったままだ。",
     ""),
     # He peered at him, and Makruchi still slept.
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # There's no way it's awake.
 
-    ("じ痰ゃあ、もしかして、いまのは…寝言？†",
+    ("じ痰ゃあ、もしかして、いまのは…寝言？",
     ""),
-    # Is it phlegm? Maybe what you just said...sleepy?†
+    # Is it phlegm? Maybe what you just said...sleepy?
 
     ("「………」",
     "…"),

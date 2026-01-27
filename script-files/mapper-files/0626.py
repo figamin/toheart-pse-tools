@@ -2,11 +2,11 @@
 # Source file: 0626.txt
 
 text_array = [
-    ("（マルチ	エンディング）閨（Ｂ	戟レミィを優譌先させる）†",
+    ("（マルチ	エンディング）閨（Ｂ	レミィを優譌先させる）†",
     ""),
     # (Makyuruchi ending) (B makes the Witch Remy stand out)†
 
-    ("戟レミィのほうが先に約束しちまったからな、マルチには悪いが、正直に言って断窒う。†",
+    ("レミィのほうが先に約束しちまったからな、マルチには悪いが、正直に言って断窒う。†",
     ""),
     # It's bad for Makruchi, but to be honest, I refuse.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「＠いっつったあとでなんだけど、諱よく考えたら、オレ、今厓日は人とｉう約束してんだ」",
+    ("「＠いっつったあとでなんだけど、諱よく考えたら、オレ、今厓日は人とう約束してんだ」",
     ""),
     # "@After all, it's only after that, but when I think about it, I'm really making a promise with someone on the day of the day."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I accidentally forgotten. Sorry... So, I'm sorry, but I'm sorry, but I'm currently saying """†
 
-    ("「いえいえ、そういうことでしたら、それは仕緖方ありませんよ。こんな急なお願いをする墲わたしが悪いのですから」",
+    ("「いえいえ、そういうことでしたら、それは仕緖方ありませんよ。こんな急なお願いをするわたしが悪いのですから」",
     ""),
     # "No, if that's the case, there's no way to do that. It's my fault for making such a sudden request."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Thank you for the day now.
 
-    ("わざ墲わざ電話くれて、うれしかったぜ」",
+    ("わざわざ電話くれて、うれしかったぜ」",
     ""),
     # I was happy that you made a call on me."
 

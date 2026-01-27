@@ -2,9 +2,9 @@
 # Source file: 0B06.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ｂ	の続き）閨（選択綜ＡＢ	の続き）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ｂ	の続き）閨（選択綜ＡＢ	の続き）",
     ""),
-    # (Aya∴Kawa Pick Date Event 2) (Continued from Selection Sou B) (Continued from Selection Sou AB) †
+    # (Aya∴Kawa Pick Date Event 2) (Continued from Selection Sou B) (Continued from Selection Sou AB) 
 
     ("「どう？",
     ""),
@@ -14,13 +14,13 @@ text_array = [
     ""),
     # Do we really look the next day?”
 
-    ("「ああ、浴似てる。外見に限って言えば」",
+    ("「ああ、似てる。外見に限って言えば」",
     ""),
     # "Ah, they look similar to baths. If you only have to say about the appearance."
 
-    ("「あら、£身は痰違うってこと？」",
+    ("「あら、身は痰違うってこと？」",
     ""),
-    # "Oh, does that mean £body has different phlegm?"
+    # "Oh, does that mean body has different phlegm?"
 
     ("「瘁違うだ、ぜんぜん」",
     ""),
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Where is it? How?"
 
-    ("「いや、もう全体的に。まるっきり正反対に見えるぜ」†",
+    ("「いや、もう全体的に。まるっきり正反対に見えるぜ」",
     ""),
     # "Tampering, it's all about the whole thing. It looks completely opposite."
 
-    ("「とこがそうで烽もないのよね。姉事だし、やっぱり翌似てるのよね」",
+    ("「とこがそうでもないのよね。姉事だし、やっぱり翌似てるのよね」",
     ""),
     # "It's like this, but there's no hot water. It's a sister-in-law, so I guess they look alike the next day."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # The environment in which they grew up is different, so I think there are some slight differences in phlegm."
 
-    ("「轣育った環境が痰違う？」†",
+    ("「轣育った環境が痰違う？」",
     ""),
     # "Is the environment in which you grew up in different phlegms?"
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "I was having a hard time living with my parents at the meow meow until the elementary school bath. My sister was left to my grandfather and was in Japan forever."
 
-    ("「ニャー＜ーク？	へえ、そり痰ゃすげーな。い墲わゆる帰窓国子落女ってやつ？」†",
+    ("「ニャー＜ーク？	へえ、そり痰ゃすげーな。いわゆる帰窓国子落女ってやつ？」",
     ""),
     # "Meow <Ahh? Wow, that's amazing. Are you a guy who's a lazy woman who's coming back to Japan?"
 
-    ("「もう６年熹も前の話だけどね。で烽もおかげで考えかたとか、どっちかというとｌこうノリなのよね、п私って」",
+    ("「もう６年熹も前の話だけどね。でもおかげで考えかたとか、どっちかというとｌこうノリなのよね、п私って」",
     ""),
     # "It was already six years ago. And thanks to Kou, I think it's more of a way to think about it, or rather, I'm not the only one."
 
@@ -70,23 +70,23 @@ text_array = [
     ""),
     # "I see, I think I understand."
 
-    ("なんとなく、ちょっと墲常識外れなとこがある烽もんな。",
+    ("なんとなく、ちょっと常識外れなとこがあるもんな。",
     ""),
     # For some reason, there are some places that are out of common sense.
 
-    ("戟レミィ焜もそうだから、諱よく墲わかるぜ。†",
+    ("レミィもそうだから、諱よくわかるぜ。",
     ""),
-    # The same goes for the Remie, so I can clearly see the name.†
+    # The same goes for the Remie, so I can clearly see the name.
 
     ("「じ痰ゃ、もし先輩熹も海外で育ってたら、お前みたいな性格になってたってことかな」",
     ""),
     # "I guess if Senpai Yi had grown up overseas, he would have become like you."
 
-    ("「うーん、場鰹所謠より烽も教迢育の問題じ痰ゃない？」",
+    ("「うーん、場鰹所謠よりも教迢育の問題じ痰ゃない？」",
     ""),
     # "Hmm, don't you think it's a question of teaching, even if it's a tampering question?
 
-    ("「教迢育？」†",
+    ("「教迢育？」",
     ""),
     # "Teaching education?"
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # "Look, you're the extremely poor way to meet people, and you're a big fan of yourselves? That's because of the granddad's teachings. I've been growing sterile in the mansion for a long time, so I ended up like that because I didn't have any friends."
 
-    ("「ほおー」†",
+    ("「ほおー」",
     ""),
-    # "Heh" †
+    # "Heh" 
 
-    ("「その点、п私は小さい頃から自由だったし、′こうの悪友たちといっぱい外で遊んだ墲わ。",
+    ("「その点、п私は小さい頃から自由だったし、′こうの悪友たちといっぱい外で遊んだわ。",
     ""),
     # "In that respect, I was free from a young age, and I played a lot outside with my bad friends.
 
-    ("空闍手の道齠場とか烽も通ったりして｢｢」",
+    ("空闍手の道齠場とかも通ったりして｢｢」",
     ""),
     # They also go to the roadside and the hot springs, and they go ""
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Yeah. I've been so excited to stop using the website recently.
 
-    ("向こうにいた頃からずっとやってたの」†",
+    ("向こうにいた頃からずっとやってたの」",
     ""),
     # I've been tampering with it ever since I was there."
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # "Face, your phlegm is also a 180-degree difference from your senior."
 
-    ("格闘技なんて、諱先輩は怩万が一に烽もやりそう烽もない烽もんな。†",
+    ("格闘技なんて、諱先輩は怩万が一にもやりそうもないもんな。",
     ""),
-    # In martial arts, Senpai is a hot spring that is sure to be a little hectic in the unlikely event that he will tamper with the fire.†
+    # In martial arts, Senpai is a hot spring that is sure to be a little hectic in the unlikely event that he will tamper with the fire.
 
-    ("「お爺さまの烽もとにいたら、空闍手なんて絶対にやらせて烽もらえなかったでしょうね。",
+    ("「お爺さまのもとにいたら、空闍手なんて絶対にやらせてもらえなかったでしょうね。",
     ""),
     # "If I was at my grandfather's hotpot, I would never have let him tamper with the Skylark, and I wouldn't have been allowed to get a hotpot.
 
@@ -142,23 +142,23 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("向こう育ちのр私には、それがどう烽もｌっ苦しくてね」",
+    ("向こう育ちのр私には、それがどうもｌっ苦しくてね」",
     ""),
     # As I grew up over there, I think that's painful even though I'm not sure what a hot spring is."
 
-    ("ふう…と、ため息をつく。†",
+    ("ふう…と、ため息をつく。",
     ""),
-    # Whew... I sighed.†
+    # Whew... I sighed.
 
     ("「最近とくにうるさいのよね。",
     ""),
     # "It's been particularly loud lately.
 
-    ("私を翌女迴らしくさせようって、あれこれ習い魔事させるのよ。本人が凾嫌がってるのに、強引に」",
+    ("私を翌女らしくさせようって、あれこれ習い魔事させるのよ。本人が凾嫌がってるのに、強引に」",
     ""),
     # He's trying to make me look like the next woman, and let me learn and act like a magician.He himself refuses to squeal, but he's forcibly."
 
-    ("「もしかして、さっき逃げてたの烽も？」",
+    ("「もしかして、さっき逃げてたのも？」",
     ""),
     # "Maybe the one who just ran away?"
 
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # "Did you do that?
 
-    ("もったいねぇ。せっかくだから習っとき痰ゃいいじ痰ゃねーか」†",
+    ("もったいねぇ。せっかくだから習っとき痰ゃいいじ痰ゃねーか」",
     ""),
-    # That's a shame.Since I'm going to do it, I guess I should have phlegm when I'm going to learn."†
+    # That's a shame.Since I'm going to do it, I guess I should have phlegm when I'm going to learn."
 
     ("「自搦慢じ痰ゃないけど、п私、狭いとこでじっとしてるのって性に№合寘わないのよね。",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # Aya∴Ka said that, and crossed her arms and stretched her way forward.
 
-    ("どうやら根っからの跳ねっ返阨りらしい。†",
+    ("どうやら根っからの跳ねっ返阨りらしい。",
     ""),
-    # Apparently it's a tampering, or something that's really bouncing back.†
+    # Apparently it's a tampering, or something that's really bouncing back.
 
     ("「………」",
     "…"),
@@ -198,9 +198,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("不意にｉ話がとぎれた。†",
+    ("不意に話がとぎれた。",
     ""),
-    # Suddenly, the i-talk was interrupted.†
+    # Suddenly, the i-talk was interrupted.
 
     ("「…ふう」",
     ""),
@@ -218,9 +218,9 @@ text_array = [
     ""),
     # Kin!
 
-    ("金属バットの甲ｍ高い音を運んできた翌風が、同椏時に綾∴香の長い髪を揺逞らしていった。†",
+    ("金属バットの甲ｍ高い音を運んできた翌風が、同椏時に綾∴香の長い髪を揺逞らしていった。",
     ""),
-    # The next breeze of the metal bat had been carrying a high-pitched sound, and as he was at the same time, Aya∴Ka's long hair was shaking.†
+    # The next breeze of the metal bat had been carrying a high-pitched sound, and as he was at the same time, Aya∴Ka's long hair was shaking.
 
     ("「………」",
     "…"),
@@ -230,13 +230,13 @@ text_array = [
     ""),
     # Hmm.
 
-    ("こうして揩喋迺らずに黙っていると、やっぱり先輩に翌似てるよなあ。",
+    ("こうして喋迺らずに黙っていると、やっぱり先輩に翌似てるよなあ。",
     ""),
     # When I stay quiet without talking like this, I guess I look like Senpai the next day.
 
-    ("横迚顔なんて、とくに翌似てるぜ。†",
+    ("横迚顔なんて、とくに翌似てるぜ。",
     ""),
-    # A side-over-face looks especially similar to the next day.†
+    # A side-over-face looks especially similar to the next day.
 
     ("しばらくそうして子沁供たちのｖ幕を眺めていた綾∴香だが、やがて、",
     ""),
@@ -258,15 +258,15 @@ text_array = [
     ""),
     # "That's right."
 
-    ("綾∴香は恥ずかしげ烽もなくうなずいた。†",
+    ("綾∴香は恥ずかしげもなくうなずいた。",
     ""),
-    # Aya∴Ka nodded shyly and shyly.†
+    # Aya∴Ka nodded shyly and shyly.
 
     ("「＠栖瑞のおｏ様がｖ幕はないんじ痰ゃねー？」",
     ""),
     # "@Suizui's O-sama has no V-curtain, so you have phlegm?"
 
-    ("「わかってない墲わねー。おｏ様だからこそよ。あーっ思いっきりボール打ちたいなァー…」",
+    ("「わかってないわねー。おｏ様だからこそよ。あーっ思いっきりボール打ちたいなァー…」",
     ""),
     # "You don't really understand it. It's only because you're O-san. Ah, I want to hit the ball as hard as I can..."
 
@@ -282,9 +282,9 @@ text_array = [
     ""),
     # "Puh"
 
-    ("思寬わず≠吹き出してしまった。†",
+    ("思寬わず≠吹き出してしまった。",
     ""),
-    # Without thinking about it, I burst out ≠.†
+    # Without thinking about it, I burst out ≠.
 
     ("「ははっ、見た目が先輩とそっくりなだけに、すげーギャャップ感じて、なんか変な感じだぜ」",
     ""),
@@ -294,13 +294,13 @@ text_array = [
     ""),
     # "Hmm? Is that so?"
 
-    ("「で烽も、ま、姉事だな、突藷拍子燻もないとこはそっくりだ」",
+    ("「でも、ま、姉事だな、突藷拍子燻もないとこはそっくりだ」",
     ""),
     # "And you can't stop thinking about it, but you can't stop smoking too much, just like that."
 
-    ("笑って言うと、オレはよっと立ち繧上がった。†",
+    ("笑って言うと、オレはよっと立ち上がった。",
     ""),
-    # When I laughed, my ecstasy stood up very quickly.†
+    # When I laughed, my ecstasy stood up very quickly.
 
     ("「どうせこんなとこ、知ってる人間なんかｗ遺翌ｵねーだ」",
     ""),
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「いいじ痰ゃん、ほら。せっかくだから、＊幕に混ぜて烽もらおーぜ？」",
+    ("「いいじ痰ゃん、ほら。せっかくだから、＊幕に混ぜてもらおーぜ？」",
     ""),
     # "I'm fine with you, come on. Since I'm here, let's mix it in the curtain and let it boil?"
 
@@ -322,11 +322,11 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("綾∴香はオレの顔を見て苦笑する。†",
+    ("綾∴香はオレの顔を見て苦笑する。",
     ""),
-    # Aya∴Ka looks at my face and smiles wryly.†
+    # Aya∴Ka looks at my face and smiles wryly.
 
-    ("「もちんオレ焜もつき№合うぜ。最近ちょっと運動不足だしな」",
+    ("「もちんオレもつき№合うぜ。最近ちょっと運動不足だしな」",
     ""),
     # "Mochibun has a lot of excitement and it's no match for me. I've been feeling a bit lacking in exercise lately."
 
@@ -338,27 +338,27 @@ text_array = [
     ""),
     # "...That's right."
 
-    ("くすっと笑って、綾∴香熏も立ち繧上がった。†",
+    ("くすっと笑って、綾∴香熏も立ち上がった。",
     ""),
-    # With a chuckle, Aya∴Kingye also rose to her feet.†
+    # With a chuckle, Aya∴Kingye also rose to her feet.
 
-    ("オレと綾∴香は、子沁供たちに鰍頼んで垂草走幕の№仲間に入齠れて烽もらった。",
+    ("オレと綾∴香は、子沁供たちに鰍頼んで垂草走幕の№仲間に入齠れてもらった。",
     ""),
     # Megure and Aya Kaori asked the children, and joined the ranks of the valley curtains, and received a hot spring.
 
-    ("綾∴香は翌女ながらに運動神経抜群で、オレに勝髀ると烽も劣逞らない大相咽竃ﾔりを披露し、一躍子沁供たちの人気者になった。†",
+    ("綾∴香は翌女ながらに運動神経抜群で、オレに勝髀るとも劣逞らない大相咽竃ﾔりを披露し、一躍子沁供たちの人気者になった。",
     ""),
-    # Although Aya Kaori is the next woman, she has excellent athletic ability, and when she wins against me, she shows off her big throbbing throbbing throbbing throbbing throbbing throbbing, suddenly becoming popular with the boys.†
+    # Although Aya Kaori is the next woman, she has excellent athletic ability, and when she wins against me, she shows off her big throbbing throbbing throbbing throbbing throbbing throbbing, suddenly becoming popular with the boys.
 
-    ("なんだかよく墲わからない、だけど、楽しい桙時間が過ぎ、あっという間に夕髣暮れになった。◇",
+    ("なんだかよくわからない、だけど、楽しい桙時間が過ぎ、あっという間に夕髣暮れになった。◇",
     ""),
     # I don't really understand it, but the fun time passed and the evening passed in no time.◇
 
-    ("「今厓日は楽しかった墲わ」",
+    ("「今厓日は楽しかったわ」",
     ""),
     # "It was fun on the day of the day now."
 
-    ("「オレ焜も」",
+    ("「オレも」",
     ""),
     # "My slutty too."
 
@@ -366,9 +366,9 @@ text_array = [
     ""),
     # "Thank you for getting your hands on me. Next time, let's play with the ephemerals."
 
-    ("夕焼けの赤に照迴らされながら、綾∴香は駆託のない笑迴顔で言った。†",
+    ("夕焼けの赤に照らされながら、綾∴香は駆託のない笑顔で言った。",
     ""),
-    # As she was shining on the red of the sunset, Aya∴Ka said with a laughing face that was unconventional.†
+    # As she was shining on the red of the sunset, Aya∴Ka said with a laughing face that was unconventional.
 
     ("「じ痰ゃーねー、また！」",
     ""),
@@ -382,9 +382,9 @@ text_array = [
     ""),
     # Aya∴Ka tries to wave her hand.
 
-    ("だが、二、三燻歩謨先で不意に立ち止まると、振關りｌいて言った。†",
+    ("だが、二、三燻歩謨先で不意に立ち止まると、振關りｌいて言った。",
     ""),
-    # However, when I suddenly stopped at a few stomps, I called out and said, "I'm not going to stop."†
+    # However, when I suddenly stopped at a few stomps, I called out and said, "I'm not going to stop."
 
     ("「あ、そうそう、姉さんだけど｢｢」",
     ""),
@@ -398,7 +398,7 @@ text_array = [
     ""),
     # "Sister, I probably like you."
 
-    ("「えっ！？」†",
+    ("「えっ！？」",
     ""),
     # "What?!"
 
@@ -406,13 +406,13 @@ text_array = [
     ""),
     # "Hehehe, I understand. It's a sister.
 
-    ("趣味とか好みとか、浴似てるって言ったでしょ？」",
+    ("趣味とか好みとか、似てるって言ったでしょ？」",
     ""),
     # I said that their hobbies, preferences, and bathing are similar, right?”
 
-    ("そう言って、にっこり笑う。†",
+    ("そう言って、にっこり笑う。",
     ""),
-    # He said that and smiled.†
+    # He said that and smiled.
 
     ("「だから、冝期待していいんじ痰ゃない？」",
     ""),
@@ -426,9 +426,9 @@ text_array = [
     ""),
     # "Hehe, that's all, phlegm. See you later!"
 
-    ("もう一度闢手を振って、綾∴香は帰っていった。†",
+    ("もう一度闢手を振って、綾∴香は帰っていった。",
     ""),
-    # Waving once more, Aya∴Ka left.†
+    # Waving once more, Aya∴Ka left.
 
     ("諱先輩がオレのこと…好きだって？",
     ""),
@@ -446,15 +446,15 @@ text_array = [
     ""),
     # Yay, I'm happy!
 
-    ("℃味燒も好み烽も翌似てるというｖの保証つきだしな、信用して烽もいいよな。",
+    ("℃味燒も好みも翌似てるというｖの保証つきだしな、信用してもいいよな。",
     ""),
     # It comes with a guarantee that the flavors and tastes are similar to the next day, so trust me and hot water is good too.
 
-    ("からか墲われた…ってんなら話はべつだが。†",
+    ("からかわれた…ってんなら話はべつだが。",
     ""),
-    # Maybe it was a mistake...If that's the case, it's a different story.†
+    # Maybe it was a mistake...If that's the case, it's a different story.
 
-    ("綾∴香が好きな烽ものは、諱先輩熹も好き…か。",
+    ("綾∴香が好きなものは、諱先輩熹も好き…か。",
     ""),
     # I also like Aya∴Ka's favorite hot food, but I also like Senpai Ki.
 
@@ -466,9 +466,9 @@ text_array = [
     ""),
     # Wait?
 
-    ("ということは、つまり綾∴香本人熕もこのオレのことを｢｢。†",
+    ("ということは、つまり綾∴香本人熕もこのオレのことを｢｢。",
     ""),
-    # This means that Aya∴Kawa himself also said, ".†
+    # This means that Aya∴Kawa himself also said, ".
 
     ("「………」",
     "…"),
@@ -478,11 +478,11 @@ text_array = [
     ""),
     # Hmm.
 
-    ("あいつ、どういうつ烽もりなんだ？",
+    ("あいつ、どういうつもりなんだ？",
     ""),
     # What kind of hot spring is he?
 
-    ("やっぱり、からか墲われたのか烽もな。◯",
+    ("やっぱり、からかわれたのかもな。◯",
     ""),
     # I guess it's because he was swayed or even a swayed.◯
 

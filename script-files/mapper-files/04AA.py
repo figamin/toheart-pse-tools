@@ -2,9 +2,9 @@
 # Source file: 04AA.txt
 
 text_array = [
-    ("（志保	回秤数イベント	帰闍り道２）閨（選択綜	話す）†",
+    ("（志保	回秤数イベント	帰闍り道２）閨（選択綜	話す）",
     ""),
-    # (Shiho's Scales Event Return Road 2) (Choice Speak)†
+    # (Shiho's Scales Event Return Road 2) (Choice Speak)
 
     ("「思い出させるなよ」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Hmm. I'm not confident."
 
-    ("その言い方は、オレの不調をｊんでいるように烽も思える。†",
+    ("その言い方は、オレの不調をｊんでいるようにも思える。",
     ""),
-    # It seems that the way he says that he is in a serious malfunction.†
+    # It seems that the way he says that he is in a serious malfunction.
 
     ("オレは｢｢。",
     ""),

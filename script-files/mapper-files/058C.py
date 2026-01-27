@@ -2,15 +2,15 @@
 # Source file: 058C.txt
 
 text_array = [
-    ("（葵	回秤数イベント４	選択繿後	Ａ）†",
+    ("（葵	回秤数イベント４	選択繿後	Ａ）",
     ""),
-    # (Aoi Scales Event 4 after selection A)†
+    # (Aoi Scales Event 4 after selection A)
 
-    ("「へへ、オレだってな、だてに練習を見てた墲わけじ痰ゃないぜ。葵ち痰ゃんの技を見ながら、＊淫俣凬C＜メトレしてたんだ」",
+    ("「へへ、オレだってな、だてに練習を見てたわけじ痰ゃないぜ。葵ち痰ゃんの技を見ながら、＊淫俣凬C＜メトレしてたんだ」",
     ""),
     # "Hehe, I'm really excited, I've been watching Fuku practice for a while, so I can't help but feel phlegm. I was watching Aoi Chisho-chan's technique and doing some intense phlegm."
 
-    ("「…イ＜メトレって、イ＜メージトレーニングのことですか？」†",
+    ("「…イ＜メトレって、イ＜メージトレーニングのことですか？」",
     ""),
     # "...Does Imetography mean image training??"
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Yeah. I was watching Aoi Chisho-chan's thighs and all the cries of crying, and I was pursuing the position and timing of attacking and M-sho-chan."
 
-    ("「そ、そうだったんですか。だ、だとしたら烽もっとすごいですね」",
+    ("「そ、そうだったんですか。だ、だとしたらもっとすごいですね」",
     ""),
     # "Oh, was that so? If that's the case, it's even more amazing."
 
-    ("「え、そう？」†",
+    ("「え、そう？」",
     ""),
     # "Huh, right?"
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Yes. Learning through the practice of others' fortunes is a proof that you can really be a good sense of style."
 
-    ("「はは、そうかな。それがセンスかどうかは墲わからないけど、昔から興味のあることだけは飲み桙込みが≠早いんだよな、オレって」†",
+    ("「はは、そうかな。それがセンスかどうかはわからないけど、昔から興味のあることだけは飲み桙込みが≠早いんだよな、オレって」",
     ""),
     # "Haha, I guess so. I don't know if that's a sense of style, but the only thing I've been interested in for so long is that it's quick to drink and drink."
 
-    ("「諱先輩なら、きっとすぐр私に追いつけますよ。しっかり薰基礎トレーニングを積んで、筋力とスタミナをアップさせれば、間瘧違いなく強くなると思います！」",
+    ("「諱先輩なら、きっとすぐр私に追いつけますよ。しっかり薰基礎トレーニングを積んで、筋力とスタミナをアップさせれば、間違いなく強くなると思います！」",
     ""),
     # "If you're a senior in your life, you'll probably be able to catch up with me right away. If you gain strong basic training and improve your strength and stamina, you'll definitely get stronger!"
 

@@ -2,11 +2,11 @@
 # Source file: 019E.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（４獅月９冾日）閨（校蜊門２）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（４月９冾日）閨（校門２）",
     ""),
-    # (Akari Scales Event: Departing from school) (4th Lion, 9th Day) (School Gate 2)†
+    # (Akari Scales Event: Departing from school) (4th Lion, 9th Day) (School Gate 2)
 
-    ("校蜊門を出たとこであかりを見かけた。",
+    ("校門を出たとこであかりを見かけた。",
     ""),
     # I saw Kari when I left the school gates.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # He looks like he's alone, isn't he a sputum with Shiho on the day?
 
-    ("オレは繧後撃から声をかけた。",
+    ("オレは後撃から声をかけた。",
     ""),
     # My gang called out after the attack.
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "My name is."
 
-    ("「あっ、ち痰ゃん」†",
+    ("「あっ、ち痰ゃん」",
     ""),
-    # "Ah, sphin's a bit"†
+    # "Ah, sphin's a bit"
 
     ("「帰闍りか？」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # What should I do?
 
-    ("Ａ	だったらいっしょに帰汲うぜ。閨",
+    ("Ａ	だったらいっしょに帰うぜ。閨",
     ""),
     # A: If so, I'll return to the ephemeral.Relax
 

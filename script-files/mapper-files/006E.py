@@ -18,7 +18,7 @@ text_array = [
     ""),
     # My rambling time will begin now.†
 
-    ("教室を出て、廊下を烽歩く。",
+    ("教室を出て、廊下を歩く。",
     ""),
     # I left the classroom and walked down the hallway.
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # One thing I would like to ask for valuable opinions from ordinary students.
 
-    ("購ロ買粕部のパンの墲種類を揩増竭やせ…と。†",
+    ("購ロ買粕部のパンの種類を増竭やせ…と。†",
     ""),
     # I want to increase the variety of bread from the purchasing lees.†
 
-    ("学校を出て、いつ烽もの坂道を下驩る。",
+    ("学校を出て、いつもの坂道を下驩る。",
     ""),
     # When did I leave school, I went down the hill.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # I found a complete notebook in my drawer.
 
-    ("なにかの開店記念に粗品で烽もらったрヤツだ。†",
+    ("なにかの開店記念に粗品でもらったрヤツだ。†",
     ""),
     # He was given a gift to commemorate the opening of something.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # It's a great opportunity, so I'll keep a diary from now on.†
 
-    ("『５獅月１冾日	木曜坥日齠",
+    ("『５月１冾日	木曜坥日齠",
     ""),
     # "5th Lion Month 1st Day Thursday Day
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Stop it.
 
-    ("冝日記なんて、性にあ墲わん。",
+    ("冝日記なんて、性にあわん。",
     ""),
     # A peach diary is a sexual matter.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # The sleeping child grows up.
 
-    ("オレは烽もう子じ痰ゃないけどな。◯",
+    ("オレはもう子じ痰ゃないけどな。◯",
     ""),
     # I'm not going to have any phlegms anymore.◯
 

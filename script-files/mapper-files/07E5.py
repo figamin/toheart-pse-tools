@@ -2,9 +2,9 @@
 # Source file: 07E5.txt
 
 text_array = [
-    ("（琴音	回秤数イベント３	ＰＳ）閨（選択綜	話しこむ）†",
+    ("（琴音	回秤数イベント３	ＰＳ）閨（選択綜	話しこむ）",
     ""),
-    # (Kotone, Scales Event 3 PS) (Chounen, Scales)†
+    # (Kotone, Scales Event 3 PS) (Chounen, Scales)
 
     ("「いようっ、琴音ち痰ゃん。帰んのか？」",
     ""),
@@ -14,13 +14,13 @@ text_array = [
     ""),
     # "…yes"
 
-    ("「んじ痰ゃいっしょに帰汲うぜ」",
+    ("「んじ痰ゃいっしょに帰うぜ」",
     ""),
     # "I'll return to the sputum."
 
-    ("すると、琴音ち痰ゃんはオレをじっと見つめてから、目を嘯伏せた。†",
+    ("すると、琴音ち痰ゃんはオレをじっと見つめてから、目を嘯伏せた。",
     ""),
-    # Then Kotone Chisho-yan stared at me before leaning down.†
+    # Then Kotone Chisho-yan stared at me before leaning down.
 
     ("「…ダ＜メです」",
     ""),
@@ -34,17 +34,17 @@ text_array = [
     ""),
     # "…sorry"
 
-    ("琴音ち痰ゃんはホントに申し訳なさそうに、頭を下げた。†",
+    ("琴音ち痰ゃんはホントに申し訳なさそうに、頭を下げた。",
     ""),
-    # Kotone Chisho-yan bowed his head, looking truly apologetic.†
+    # Kotone Chisho-yan bowed his head, looking truly apologetic.
 
     ("「…オレ、もしかして琴音ち痰ゃんに凾嫌甯われてる？」",
     ""),
     # "...I'm so excited, are you being disliked by Kotone's stimulating stimulation?"
 
-    ("フルフルと琴音ち痰ゃんは首を横に振った。†",
+    ("フルフルと琴音ち痰ゃんは首を横に振った。",
     ""),
-    # He cried and Kotone Chisho-yan shook his head.†
+    # He cried and Kotone Chisho-yan shook his head.
 
     ("ふう…。",
     ""),
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # For now, it's safe.
 
-    ("「じ痰ゃその辺までで烽もいいだ？」",
+    ("「じ痰ゃその辺まででもいいだ？」",
     ""),
     # "Is it okay if it's all that much, and it's okay if it's hot?"
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "...It's Damme."
 
-    ("オレはズッコケそうになった。†",
+    ("オレはズッコケそうになった。",
     ""),
-    # My hardcore almost throbbed.†
+    # My hardcore almost throbbed.
 
     ("「なんでだよ〜」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "What does "No female mean?"
 
-    ("まさか、生命を狙岺われてるとか？†",
+    ("まさか、生命を狙岺われてるとか？",
     ""),
-    # Is it possible that they are targeting life?†
+    # Is it possible that they are targeting life?
 
     ("「わたしの能力ちからがｊ険なんです」",
     ""),
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Huh? What does it mean?"
 
-    ("「氈勝闖手に能力が外に出てしまうんです…」†",
+    ("「氈勝闖手に能力が外に出てしまうんです…」",
     ""),
     # "My abilities are coming out of my way to the shore..."
 
@@ -110,15 +110,15 @@ text_array = [
     ""),
     # At that moment, the answer to the suspicious question that was vaguely floating around in my r became clear.
 
-    ("なぜ、琴音ち痰ゃんは意味燒もなく汲窓をр割ったのか？",
+    ("なぜ、琴音ち痰ゃんは意味燒もなく窓をр割ったのか？",
     ""),
     # Why did Kotone Chisho-yan break the window without any sign of fire?
 
-    ("なぜ突然、蛍光伯灯をр割ったのか？†",
+    ("なぜ突然、蛍光伯灯をр割ったのか？",
     ""),
-    # Why did you suddenly break the fluorescent light?†
+    # Why did you suddenly break the fluorescent light?
 
-    ("「…それで烽も、１００％思い通闥りにできない墲わけじ痰ゃないんです。人のいない方へ能力をｌけるくらいがせいぜいですけど…」",
+    ("「…それでも、１００％思い通闥りにできないわけじ痰ゃないんです。人のいない方へ能力をｌけるくらいがせいぜいですけど…」",
     ""),
     # "...So, even Hou is not a phlegm that cannot be used to inspire 100 Tang %. I'm best at all, but I can get my abilities to a no-one-person, fortune..."
 
@@ -130,33 +130,33 @@ text_array = [
     ""),
     # "My abilities will explode into my heart. If I'm by my side, I'll surely eat the romance."
 
-    ("「瘁例えば、オレがガラスの繧代岺わりになるってことか？」†",
+    ("「瘁例えば、オレがガラスの代岺わりになるってことか？」",
     ""),
     # "For example, does that mean that my anger will become the surviving banquet?"
 
-    ("「…か烽もしれません」",
+    ("「…かもしれません」",
     ""),
     # "...or maybe it's hot."
 
-    ("「で烽も、琴音ち痰ゃんは関係のない汲窓とかに狙って使えるんだ？	だったらほとんど安全じ痰ゃねえか」",
+    ("「でも、琴音ち痰ゃんは関係のない窓とかに狙って使えるんだ？	だったらほとんど安全じ痰ゃねえか」",
     ""),
     # "So, can Kotone Chishonan be used to target windows that have nothing to do with it? If that's the case, then it's almost safe to use phlegm."
 
-    ("そのたびに物が壊皷れるけどな。†",
+    ("そのたびに物が壊皷れるけどな。",
     ""),
-    # Every time I do, things get destroyed.†
+    # Every time I do, things get destroyed.
 
     ("すると、琴音ち痰ゃんは、",
     ""),
     # Then Kotone Chishonan,
 
-    ("「ダ＜メなんです…。最近は狙いをつけるの烽も入しくなってきてるんです」",
+    ("「ダ＜メなんです…。最近は狙いをつけるのも入しくなってきてるんです」",
     ""),
     # "It's a daze... Recently, it's starting to be used to target."
 
-    ("思いつめたように言う。†",
+    ("思いつめたように言う。",
     ""),
-    # Say it like you think.†
+    # Say it like you think.
 
     ("「お、おい…」",
     ""),
@@ -174,15 +174,15 @@ text_array = [
     ""),
     # "So-san, it's better to have good luck without getting close to me."
 
-    ("琴音ち痰ゃんは近づくなと言う。†",
+    ("琴音ち痰ゃんは近づくなと言う。",
     ""),
-    # Kotone Chisho-yan says not to get close.†
+    # Kotone Chisho-yan says not to get close.
 
     ("オレの行動は｢｢。",
     ""),
     # My actions were ".
 
-    ("Ａ	断固糟拒否する。閨",
+    ("Ａ	断固拒否する。閨",
     ""),
     # A: I firmly refuse.Relax
 

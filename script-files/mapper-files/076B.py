@@ -2,11 +2,11 @@
 # Source file: 076B.txt
 
 text_array = [
-    ("（琴音	冝日付指闔定型好感度イベントＰＳ）閨（校蜊門前）†",
+    ("（琴音	冝日付指定型好感度イベントＰＳ）閨（校門前）",
     ""),
-    # (Kotone Date and Standard Type Likeability Event PS) (In front of the school gate)†
+    # (Kotone Date and Standard Type Likeability Event PS) (In front of the school gate)
 
-    ("「なんつーか、やっと新学匇期の実感が墲わいてきた気がするな」",
+    ("「なんつーか、やっと新学匇期の実感がわいてきた気がするな」",
     ""),
     # "I feel like I've finally started to feel the realization of the new school year."
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "I agree"
 
-    ("あかり烽もうなずいた。†",
+    ("あかりもうなずいた。",
     ""),
-    # Akari nodded already.†
+    # Akari nodded already.
 
-    ("学校に近づくにつれて、だんだん真新しい制梵服姿の生徒が揩増えてくる感じだ。",
+    ("学校に近づくにつれて、だんだん真新しい制梵服姿の生徒が増えてくる感じだ。",
     ""),
     # As we get closer to school, it seems like the number of students wearing brand new Sanskrit uniforms is increasing.
 
@@ -30,31 +30,31 @@ text_array = [
     ""),
     # How was my eccentric?
 
-    ("思い出そうとして烽も、１年熹も前の朝のことなんて覚えち痰ゃいない。†",
+    ("思い出そうとしても、１年熹も前の朝のことなんて覚えち痰ゃいない。",
     ""),
-    # I was trying to remember, but I couldn't remember what happened to the morning a year ago.†
+    # I was trying to remember, but I couldn't remember what happened to the morning a year ago.
 
-    ("「あかり、オレ焜も１年前はあんなだったか？」",
+    ("「あかり、オレも１年前はあんなだったか？」",
     ""),
     # "Akari, did I have that kind of thing a year ago?"
 
-    ("「うん。ち痰ゃんは、いつ烽ものち痰ゃんだったよ」",
+    ("「うん。ち痰ゃんは、いつものち痰ゃんだったよ」",
     ""),
     # "Yeah. When did the sphincter gosh?"
 
-    ("「バ〜カ、そんなこと聞いてねえよ。オレ焜も奄初々しかったかって聞いてんだ」",
+    ("「バ〜カ、そんなこと聞いてねえよ。オレも奄初々しかったかって聞いてんだ」",
     ""),
     # "Baaa, I haven't heard of that. I asked if my geisha was in the early days of Amazake."
 
-    ("「う〜ん…、やっぱりいつ烽ものち痰ゃんだったよ」†",
+    ("「う〜ん…、やっぱりいつものち痰ゃんだったよ」",
     ""),
     # "Hmm... I guess it was just a hot sputum after all."
 
-    ("「ったく。ま、お前はｖ朝オレといっしょだから、瘁違いがあって烽も墲わからねえか」",
+    ("「ったく。ま、お前はｖ朝オレといっしょだから、瘁違いがあってもわからねえか」",
     ""),
     # "Ahhh. Well, you're the same as V-morning people, so you're so confused, so you don't know what Hot is."
 
-    ("そう言って汲視諮を校蜊門にｌけたときだった。",
+    ("そう言って視諮を校門にｌけたときだった。",
     ""),
     # With that in mind, I heard the advice of the school.
 
@@ -70,29 +70,29 @@ text_array = [
     ""),
     # Is it a new generation?
 
-    ("で烽も、それ以外にオレたちとなに烽も痰違いはない。†",
+    ("でも、それ以外にオレたちとなにも痰違いはない。",
     ""),
-    # And there's no difference between the hot and the hot and the other guys.†
+    # And there's no difference between the hot and the hot and the other guys.
 
-    ("なのにその翌女の子は、ま墲わりの翌風景に取闔り残されたような感じがする。",
+    ("なのにその翌女の子は、まわりの翌風景に取り残されたような感じがする。",
     ""),
     # However, the next day, the girl seems to have been left behind in the scene after the scene.
 
-    ("とくに烽歩くのが遅い墲わけ烽もないのに、他の生徒たちはどんどんその子を追い越していく。",
+    ("とくに歩くのが遅いわけもないのに、他の生徒たちはどんどんその子を追い越していく。",
     ""),
     # Although there is no reason why people walk slowly, the other students continue to overtake the child.
 
-    ("そんな感じさえしてくる…。†",
+    ("そんな感じさえしてくる…。",
     ""),
-    # It even feels like that...†
+    # It even feels like that...
 
     ("「あの子、なんだか寂しそうだね」",
     ""),
     # "That girl looks lonely somehow."
 
-    ("同じ翌女の子を見て、あかりが言う。†",
+    ("同じ翌女の子を見て、あかりが言う。",
     ""),
-    # Akari says, looking at the girl the next day.†
+    # Akari says, looking at the girl the next day.
 
     ("そうか…、寂しそうなんだ。",
     ""),
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # The reason why he looked different from the other students is because that child seemed lonely...
 
-    ("なんか盾ワケありなんだうな。†",
+    ("なんか盾ワケありなんだうな。",
     ""),
-    # Is there a shield that's wrong?†
+    # Is there a shield that's wrong?
 
-    ("そのうちに、浴女の子は校舎のｒへ見えなくなり、オレ焜もそれ以繹上考えることをやめた。◯",
+    ("そのうちに、女の子は校舎のｒへ見えなくなり、オレもそれ以繹上考えることをやめた。◯",
     ""),
     # Eventually, the bathing girl disappeared from the school building, and my ecstasy stopped thinking about anything beyond that.◯
 

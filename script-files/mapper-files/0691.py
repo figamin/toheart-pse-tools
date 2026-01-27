@@ -10,7 +10,7 @@ text_array = [
     ""),
     # That's right.
 
-    ("とくに用沫事燻もないし、声をかけて墲わざ墲わざ掃恆除をジャャマすること烽もないだう。",
+    ("とくに用沫事燻もないし、声をかけてわざわざ掃恆除をジャャマすることもないだう。",
     ""),
     # There is no particular smoke, and there is no need to call out to sweep and remove the sweep.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "...Do your best, do your best, mum-cry."
 
-    ("オレは聞こえない程度に声≒援を翌送闡り、その場を獅去った。◯",
+    ("オレは聞こえない程度に声≒援を翌送闡り、その場を去った。◯",
     ""),
     # My heart was so strong that I couldn't hear him, I sent a voice and support from him the next day, and then left the scene.◯
 

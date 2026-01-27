@@ -2,11 +2,11 @@
 # Source file: 00B1.txt
 
 text_array = [
-    ("（４獅月１０冾日	朝）閨（自分の部屋）†",
+    ("（４月１０冾日	朝）閨（自分の部屋）",
     ""),
     # (4th 10th day of the month of the month) (morning) (morning room)
 
-    ("４獅月１０冾日、木曜坥日。",
+    ("４月１０冾日、木曜坥日。",
     ""),
     # Fourth Lion Day, 10th day, Thursday Day.
 
@@ -14,13 +14,13 @@ text_array = [
     ""),
     # The conditioning on the day is good.
 
-    ("ジョギングで烽も、やりたい気分だぜ。",
+    ("ジョギングでも、やりたい気分だぜ。",
     ""),
     # I feel like I want to do some jogging too.
 
-    ("…けど、時間がない。†",
+    ("…けど、時間がない。",
     ""),
-    # ...But I don't have time.†
+    # ...But I don't have time.
 
     ("「今厓日はすごくポカポカしてるねー」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "That's all for now."
 
-    ("「春だからな」†",
+    ("「春だからな」",
     ""),
     # "It's spring"
 

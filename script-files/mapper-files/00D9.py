@@ -2,9 +2,9 @@
 # Source file: 00D9.txt
 
 text_array = [
-    ("（システムイベント	テスト発表）閨（あかりと勉強有り）閨（Ｓａ４の場㍼合）†",
+    ("（システムイベント	テスト発表）閨（あかりと勉強有り）閨（Ｓａ４の場㍼合）",
     ""),
-    # (System Event Test Presentation) Pillow (Little for study) Pillow (Standard for Sa4) †
+    # (System Event Test Presentation) Pillow (Little for study) Pillow (Standard for Sa4) 
 
     ("平均点は…６７点。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's a decent number of points.
 
-    ("前熨もって補習があるって墲わかっていれば、もう少し頑張れたと思うがな。†",
+    ("前熨もって補習があるってわかっていれば、もう少し頑張れたと思うがな。",
     ""),
-    # If I had known that there would be some supplementary lessons to tamper with the front gift, I think I would have tried a little more.†
+    # If I had known that there would be some supplementary lessons to tamper with the front gift, I think I would have tried a little more.
 
     ("「ち痰ゃん」",
     ""),
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Akari came to tamper with it.
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
-    ("「テストの汲結果、どうだった？」",
+    ("「テストの結果、どうだった？」",
     ""),
     # "What did you think of the results of the test?"
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "What point?"
 
-    ("いちおう気をつかってか、少し遠慮気味に聞く。†",
+    ("いちおう気をつかってか、少し遠慮気味に聞く。",
     ""),
-    # Perhaps he was careful, but asked, a little more reserved.†
+    # Perhaps he was careful, but asked, a little more reserved.
 
     ("「６７点だ」",
     ""),
@@ -58,19 +58,19 @@ text_array = [
     ""),
     # A light laughs as if flowers have bloomed at a glance.
 
-    ("オレ焜もオレで気を良くし、",
+    ("オレもオレで気を良くし、",
     ""),
     # My hard work is also very excited,
 
-    ("「まあ、軽い烽もんよ」",
+    ("「まあ、軽いもんよ」",
     ""),
     # "Well, it's a light hot pot."
 
-    ("などと、気諡取ってしまう。†",
+    ("などと、気諡取ってしまう。",
     ""),
-    # He then takes a scorn into thinking, "I'm not going to get any more."†
+    # He then takes a scorn into thinking, "I'm not going to get any more."
 
-    ("「ちょっと勉強しただけで、６７点だ烽もの。",
+    ("「ちょっと勉強しただけで、６７点だもの。",
     ""),
     # "I just studied it a little and got 67 points.
 
@@ -78,12 +78,12 @@ text_array = [
     ""),
     # After all, you can do it if you do it, Chishunan."
 
-    ("「いつ烽もそうだとは、限迪らねー諱よ」",
+    ("「いつもそうだとは、限迪らねー諱よ」",
     ""),
     # "I don't think that this will happen at any time, so I'm not sure."
 
-    ("だが、今回はあかりとの勉強が、功を奏したと思いたい。†",
+    ("だが、今回はあかりとの勉強が、功を奏したと思いたい。",
     ""),
-    # However, this time I would like to believe that studying with Akari was a success.†
+    # However, this time I would like to believe that studying with Akari was a success.
 
 ]

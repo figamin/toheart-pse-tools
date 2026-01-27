@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho Scales Event: Incoming Road 3) (Choose Sou Playboy)†
 
-    ("「それにして烽も、お前って遊び人だよなぁ…」",
+    ("「それにしても、お前って遊び人だよなぁ…」",
     ""),
     # "And then, you're a playboy too..."
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # ...Well, he doesn't seem to be involved in crime.†
 
-    ("「そんなこと…、みんな烽もやってる墲わよ！」",
+    ("「そんなこと…、みんなもやってるわよ！」",
     ""),
     # "That's what... Everyone is also tampering with Hot!"
 
-    ("「いいや、とくにお前が遊びに敏感だよ。コギャャルっぽいのにコギャャルじ痰ゃない、貴重な墲種類だ」",
+    ("「いいや、とくにお前が遊びに敏感だよ。コギャャルっぽいのにコギャャルじ痰ゃない、貴重な種類だ」",
     ""),
     # "You're particularly sensitive to play. You seem to cry, but you're crying, but you're not phlegmy, you're a precious variety."
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # "I don't think there's any need to be stomped and stomped everyone's way."
 
-    ("「うっさい墲わね！	無摶理なんかしてない墲わよ」",
+    ("「うっさいわね！	無摶理なんかしてないわよ」",
     ""),
     # "That's a shame! You're not doing anything incomprehensible."
 
-    ("「まあ、そのへんに関してはオレ焜もとやかく言う気はないよ」",
+    ("「まあ、そのへんに関してはオレもとやかく言う気はないよ」",
     ""),
     # "Well, I don't want to tamper with anything about that."
 
-    ("「っとに…、さあ、さっさとチェックする墲わよ！」",
+    ("「っとに…、さあ、さっさとチェックするわよ！」",
     ""),
     # "Ahhhh... Come on, I'll check it out quickly!"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Then, the two of them searched and strolled around various places to play at the bookstore, and checked out some bonito spots that looked like they were white.
 
-    ("志保につき№合うかどうかは、もう少し繧後でｌめよう。◯",
+    ("志保につき№合うかどうかは、もう少し後でｌめよう。◯",
     ""),
     # I'll try to get the number of Shiho and see if it fits No.◯
 

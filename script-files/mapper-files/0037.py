@@ -6,7 +6,7 @@ text_array = [
     ""),
     # 3/7 (Fri)†
 
-    ("３獅月７冾日が終尞わる。",
+    ("３月７冾日が終尞わる。",
     ""),
     # The 7th day of the 3rd silence moon is over.
 

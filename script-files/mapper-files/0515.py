@@ -26,7 +26,7 @@ text_array = [
     ""),
     # I nodded, yeah.†
 
-    ("「オレがクラブをやってる揩理由は、たしかに格闘技が好きだからっての烽もあるけど、で烽も一番の揩理由はそうじ痰ゃない。本末当は｢｢」",
+    ("「オレがクラブをやってる理由は、たしかに格闘技が好きだからってのもあるけど、でも一番の理由はそうじ痰ゃない。本末当は｢｢」",
     ""),
     # "The reason why I'm tampering with love for banquet is certainly because I like martial arts, but the main reason for this is that I don't have to clean up. The truth is, "
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "...Identity Senpai"
 
-    ("「当然、葵ち痰ゃんがやめない限りは、オレ焜もずっと続けていくつ烽もりだぜ。それは絶対に約束する」†",
+    ("「当然、葵ち痰ゃんがやめない限りは、オレもずっと続けていくつもりだぜ。それは絶対に約束する」†",
     ""),
     # "Of course, as long as Aoi Chisho-chan doesn't stop tampering, I'll continue to keep on going forever. I promise that."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # The moistened grain was wiped with the back of a hand.
 
-    ("そして次に顔を繧上げたとき、そこには迷いの霧で烽も晴齔れたかのような、すがすがしい顔があった。†",
+    ("そして次に顔を上げたとき、そこには迷いの霧でも晴齔れたかのような、すがすがしい顔があった。†",
     ""),
     # Next time I lifted my face, I saw a refreshing face, as if the fog of confusion had cleared the heat.†
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Oh, that's a bitter phlegm, it's abrupt again..."
 
-    ("「坂下謇先輩、いつ烽も忙しくて、なかなか折關り№合いがつかなかったんですが、たまたま明坙日は部賦が午後迪らしく、午前葬は空いてるから急きょ…」†",
+    ("「坂下謇先輩、いつも忙しくて、なかなか折關り№合いがつかなかったんですが、たまたま明坙日は部賦が午後迪らしく、午前葬は空いてるから急きょ…」†",
     ""),
     # "Senior Asakashita Tsune, I've always been busy with Hot Springs, so I couldn't get a chance to meet the number of questions, but it just happened to be that on Ming Shun's Day, the bufu was coming after the horse, and the morning funeral was open, so I'll hurry up..."†
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "No, oh oh..."
 
-    ("いきなりだから待ってくれとか、そういうことは言いそうにない烽もんな、葵ち痰ゃんは。†",
+    ("いきなりだから待ってくれとか、そういうことは言いそうにないもんな、葵ち痰ゃんは。†",
     ""),
     # Aoi Chisho-chan is so frightening that you wouldn't be saying things like, "Since it's abrupt, please wait."†
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「諱よかったじ痰ゃないか。葵ち痰ゃん烽も思う存分本領発揮できるって墲わけだ」",
+    ("「諱よかったじ痰ゃないか。葵ち痰ゃんも思う存分本領発揮できるってわけだ」",
     ""),
     # "You're so happy, isn't there a phlegm? It's true that Aoi Chisho-chan can show your true potential to your heart's content."
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # "I agree"
 
-    ("なんと烽も急な話だけどしょうがない。",
+    ("なんとも急な話だけどしょうがない。",
     ""),
     # It's a sudden story, but there's no slut.
 
-    ("葵ち痰ゃん烽も、やることは十分笊やったはずだ。†",
+    ("葵ち痰ゃんも、やることは十分笊やったはずだ。†",
     ""),
     # Aoi Chishonan Hoon must have done enough to do it.†
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Um, Senpai Kei, if possible, too..."
 
-    ("「もちん行くさ、オレ焜も」",
+    ("「もちん行くさ、オレも」",
     ""),
     # "I'm going for a while, I'm also very excited."
 
@@ -274,11 +274,11 @@ text_array = [
     ""),
     # Aoi Chisho-yan nodded happily.†
 
-    ("「諱先輩がｗてくれると、すごく心強いです。いつ烽もみたいに、あがらずに墲戦えるか烽も｢｢」",
+    ("「諱先輩がｗてくれると、すごく心強いです。いつもみたいに、あがらずに戦えるかも｢｢」",
     ""),
     # "It's very encouraging when Senpai-senpai comes lol. I wonder if I can fight without raising my balls like Hot Springs, but I'm not sure if I can fight like Hot Springs.
 
-    ("「いつ烽もみたいに？」",
+    ("「いつもみたいに？」",
     ""),
     # "When is it like a hot spring?"
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # After saying this, Aoi Chisho-ya hurriedly thrusts her way through Fukuguchi.†
 
-    ("「なに？	それって烽もしかして、葵ち痰ゃんは獅試㍽合であがっち痰ゃう人間なのか？」",
+    ("「なに？	それってもしかして、葵ち痰ゃんは試㍽合であがっち痰ゃう人間なのか？」",
     ""),
     # "What? Maybe that's a human being who is a lion test?
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # "I've always had a huge upset.
 
-    ("試㍽合になるといつ烽も途端に緊張して、思ったように動けなくなるんです。そのせいで悔いの残骼る獅試㍽合ばかりで…」",
+    ("試㍽合になるといつも途端に緊張して、思ったように動けなくなるんです。そのせいで悔いの残骼る試㍽合ばかりで…」",
     ""),
     # Whenever there is a test session, the instant the hot spring gets nervous and I can't move as I wanted.Because of this, we have been holding lion tests that are filled with regrets..."
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # Well, since Aoi Chisho-chan is a serious person, this is a very possible story.†
 
-    ("「で烽も、諱先輩がｗてくれるなら、たぶん平気だと思います」",
+    ("「でも、諱先輩がｗてくれるなら、たぶん平気だと思います」",
     ""),
     # "And I think it would probably be fine if Hou Senpai would give me lol."
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "why?"
 
-    ("「なんで…って言甯われると、その、自分で烽もうまく言えないんですけど…」",
+    ("「なんで…って言甯われると、その、自分でもうまく言えないんですけど…」",
     ""),
     # "When people say why... I can't say it well myself..."
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # "?"†
 
-    ("「ただ、諱先輩がいてくれると、なんだか勇気が墲わいてくるっていうか…。えへへ…」",
+    ("「ただ、諱先輩がいてくれると、なんだか勇気がわいてくるっていうか…。えへへ…」",
     ""),
     # "However, when I see Senpai, I feel like I'm gaining courage...hehehe..."
 
@@ -358,7 +358,7 @@ text_array = [
     ""),
     # eat~.
 
-    ("か墲わいいこと言うねぇ、この子は。†",
+    ("かわいいこと言うねぇ、この子は。†",
     ""),
     # This girl says good things.†
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # "Ikusenpai..."†
 
-    ("「じ痰ゃあ、今厓日は烽もう帰って、明坙日に備えてゆっくり休むんだ」",
+    ("「じ痰ゃあ、今厓日はもう帰って、明坙日に備えてゆっくり休むんだ」",
     ""),
     # "Ah, I'll go home now and take a good rest in preparation for the Ming Shun Day."
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「浴風呂で窒湯笂冷めして翌風邪引くな」",
+    ("「風呂で窒湯笂冷めして翌風邪引くな」",
     ""),
     # "Don't let the nitrogen shore cool down in the bath and catch the next cold."
 
@@ -418,7 +418,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「トイレ焜もすませ！」",
+    ("「トイレもすませ！」",
     ""),
     # "All right up to the Toys' Super Relax!"
 
@@ -450,7 +450,7 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("そんな揩理雷抜きの勢いのみなテンションを揩持続したまま、葵ち痰ゃんを翌送っていった。◯",
+    ("そんな理雷抜きの勢いのみなテンションを持続したまま、葵ち痰ゃんを翌送っていった。◯",
     ""),
     # He continued to thunderously threw Aoi Chisho-chan the next day.◯
 

@@ -2,9 +2,9 @@
 # Source file: 0291.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（選択綜Ｂ	また濃いの読んでんなー…）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（選択綜Ｂ	また濃いの読んでんなー…）",
     ""),
-    # (Seri°Kawa, Scales Event, Return Road, LV1)Seri (Select Sou B, I'm reading the darkness again...)†
+    # (Seri°Kawa, Scales Event, Return Road, LV1)Seri (Select Sou B, I'm reading the darkness again...)
 
     ("「また濃いの読んでんなー…」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩はじっと本を見つめる。†",
+    ("諱先輩はじっと本を見つめる。",
     ""),
-    # Senpai stared at the book.†
+    # Senpai stared at the book.
 
     ("「やっぱり、悪ｈ魔とか、興味あんの？」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「まあ、オレ焜も興味ない墲わけじ痰ゃないけど」",
+    ("「まあ、オレも興味ないわけじ痰ゃないけど」",
     ""),
     # "Well, I don't care about it either."
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Huh? Would you like to see the book? Ah, sputum, slutty, slutty."
 
-    ("諱先輩から本を受け取って、適俣当なページを開いた。†",
+    ("諱先輩から本を受け取って、適俣当なページを開いた。",
     ""),
-    # I received a book from my senior and opened a page that was appropriate for Tomimata.†
+    # I received a book from my senior and opened a page that was appropriate for Tomimata.
 
     ("ぱら…。",
     ""),
@@ -66,7 +66,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え？	これ烽も有名な悪ｈ魔ですって？	で烽もハエじ痰ゃん、これ？」†",
+    ("「え？	これも有名な悪ｈ魔ですって？	でもハエじ痰ゃん、これ？」",
     ""),
     # "Huh? Is this a famous evil devil? And the hot ones are flies, phlegmy, is this?"
 
@@ -74,9 +74,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「ふーん、ハエの姿に烽もなれる悪ｈ魔なんだ？	で烽もこの姿のまま出てきたら、オレ、一発で倒せる自信あるな」†",
+    ("「ふーん、ハエの姿にもなれる悪ｈ魔なんだ？	でもこの姿のまま出てきたら、オレ、一発で倒せる自信あるな」",
     ""),
-    # "Hmm, are you an evil devil who can become a fly's appearance? And if Kao appears in this form, I'm sure I can defeat him in one shot." †
+    # "Hmm, are you an evil devil who can become a fly's appearance? And if Kao appears in this form, I'm sure I can defeat him in one shot." 
 
     ("「………」",
     "…"),
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "What!? This guy is huge!? Seriously?!
 
-    ("でかい獅虫はやだなー、殺試虫剤とか効くんかな、こいつ？」",
+    ("でかい虫はやだなー、殺試虫剤とか効くんかな、こいつ？」",
     ""),
     # I don't want to tamper with big lion insects, is it effective for insecticides?”
 
@@ -94,8 +94,8 @@ text_array = [
     "…"),
     # "..."
 
-    ("「殺試虫剤を獅試した文献はないって？	まあ、そーだうな…」†",
+    ("「殺試虫剤を試した文献はないって？	まあ、そーだうな…」",
     ""),
-    # "No literature has ever tried insecticides? Well, that's it..." †
+    # "No literature has ever tried insecticides? Well, that's it..." 
 
 ]

@@ -2,9 +2,9 @@
 # Source file: 0302.txt
 
 text_array = [
-    ("（智子	出初いイベント	選択Ｂの続き）†",
+    ("（智子	出初いイベント	選択Ｂの続き）",
     ""),
-    # (Tomoko's first-time event, continuation of Selection B) †
+    # (Tomoko's first-time event, continuation of Selection B) 
 
     ("オレは、諱よっと背伸びし、棚から本を抜き取骼ると、それを翌女生徒の前に差し出した。",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("きょとんした顔でオレを見つめながら、本を受け取骼る。†",
+    ("きょとんした顔でオレを見つめながら、本を受け取骼る。",
     ""),
-    # I took the book, staring at me with a slutty face.†
+    # I took the book, staring at me with a slutty face.
 
-    ("「そいつを取闔りたかったんだ？」",
+    ("「そいつを取りたかったんだ？」",
     ""),
     # "Did you want to get that guy b?"
 
@@ -30,7 +30,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("浴女生徒は黙ったまま、いぶかしそうな目をこっちにｌけた。",
+    ("女生徒は黙ったまま、いぶかしそうな目をこっちにｌけた。",
     ""),
     # The female bather kept silent, her eyes pestering here, looking rather unstable.
 
@@ -38,27 +38,27 @@ text_array = [
     ""),
     # I can't say thank you.
 
-    ("か墲わりに、ちょっとキツイ感じのふたつの目が、めがねの撃レンズ越しにオレをにらむ。†",
+    ("かわりに、ちょっとキツイ感じのふたつの目が、めがねの撃レンズ越しにオレをにらむ。",
     ""),
-    # Instead of being a bit of a slut, the two eyes, which looked tough, glared at me through the lens of my glasses.†
+    # Instead of being a bit of a slut, the two eyes, which looked tough, glared at me through the lens of my glasses.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("たしかに、親切の押しр売阡りってやつはオレ焜も好きじ痰ゃないから気搴持ちは墲わかる。",
+    ("たしかに、親切の押しр売阡りってやつはオレも好きじ痰ゃないから気搴持ちはわかる。",
     ""),
     # It's true that people who push and sell kindness are also very slurred, so I don't like them, so I can understand what they are trying to do.
 
-    ("けど、短い礼の一言ぐらいはあって烽もいいんじ痰ゃないか？†",
+    ("けど、短い礼の一言ぐらいはあってもいいんじ痰ゃないか？",
     ""),
-    # But there's just a short words of gratitude, and isn't it okay to have a phlegm?†
+    # But there's just a short words of gratitude, and isn't it okay to have a phlegm?
 
     ("ま、いいか。",
     ""),
     # Well, is that okay?
 
-    ("催促してるみたいに思寬われるの烽もなんだし、オレは背をｌけて、立ち獅去驪ることにした。",
+    ("催促してるみたいに思寬われるのもなんだし、オレは背をｌけて、立ち去驪ることにした。",
     ""),
     # It was a bit strange to think that he was urging me, so I decided to turn my back and stand and go away.
 
@@ -70,19 +70,19 @@ text_array = [
     ""),
     # "Ah, um!"
 
-    ("行こうとしたオレを翌女生徒が呼び止めた。†",
+    ("行こうとしたオレを翌女生徒が呼び止めた。",
     ""),
-    # The next female student called out to me when I was about to go.†
+    # The next female student called out to me when I was about to go.
 
     ("「？」",
     ""),
     # "?"
 
-    ("立ち止まり、首だけをｌけたオレに対し、浴女生徒はひとこと、",
+    ("立ち止まり、首だけをｌけたオレに対し、女生徒はひとこと、",
     ""),
     # When I stopped and only threw my head, the female bather said something.
 
-    ("「…どう烽も」",
+    ("「…どうも」",
     ""),
     # "...How about hot water?"
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # He thanked me briefly.
 
-    ("強く呼び止めた墲わりには、ずいぶんと淡葬泊な礼だった。†",
+    ("強く呼び止めたわりには、ずいぶんと淡葬泊な礼だった。",
     ""),
-    # Although he called out strongly, the celebration was quite a bit of a laid back.†
+    # Although he called out strongly, the celebration was quite a bit of a laid back.
 
-    ("それにして烽も。",
+    ("それにしても。",
     ""),
     # And then there's hot springs too.
 
@@ -106,29 +106,29 @@ text_array = [
     ""),
     # This is the kind of person who can't say "thank you."
 
-    ("じつはオレ焜もそうなんだよな。",
+    ("じつはオレもそうなんだよな。",
     ""),
     # Actually, that's the case with me too.
 
-    ("心のｒでほくそ笑んだとき…。†",
+    ("心のｒでほくそ笑んだとき…。",
     ""),
-    # When I smiled smugly in my heart...†
+    # When I smiled smugly in my heart...
 
     ("「…ついで言うたらなんやけど」",
     ""),
     # "...If I were to say that, what would it be like?"
 
-    ("コテコテの関西弁で、浴女生徒は言った。",
+    ("コテコテの関西弁で、女生徒は言った。",
     ""),
     # The female bather said in a frivolous Kansai dialect.
 
-    ("「п私が取獅うとしとった本、これとち痰ゃう。その隣のрヤツ窿やねん」",
+    ("「п私が取うとしとった本、これとち痰ゃう。その隣のрヤツ窿やねん」",
     ""),
     # "This is the book I took to get a lion. It's the guy next to it."
 
-    ("そう言って、さっき取ってやった本をオレに突き返してきた。†",
+    ("そう言って、さっき取ってやった本をオレに突き返してきた。",
     ""),
-    # With that in mind, I threw back the book I had just taken over.†
+    # With that in mind, I threw back the book I had just taken over.
 
     ("なんだ。",
     ""),
@@ -138,13 +138,13 @@ text_array = [
     ""),
     # Should I bring this back and take it out?
 
-    ("…ったく、まと烽もな礼燉も言えないくせに、あつかましさは一嚠丁前だな。",
+    ("…ったく、まともな礼燉も言えないくせに、あつかましさは一嚠丁前だな。",
     ""),
     # ...Even though he can't even say anything about the emojis, his accusation is just as good as he is.
 
-    ("渋々本を受け取骼ると、オレはそれを烽もとの位置に戻し、隣の本に手をかけた。†",
+    ("渋々本を受け取骼ると、オレはそれをもとの位置に戻し、隣の本に手をかけた。",
     ""),
-    # Reluctantly, I picked up the book, and I put it back to its original position and put my hand on the book next to me.†
+    # Reluctantly, I picked up the book, and I put it back to its original position and put my hand on the book next to me.
 
     ("「こっちか？」",
     ""),
@@ -162,15 +162,15 @@ text_array = [
     ""),
     # "yes"
 
-    ("オレは本を棚から抜き取って、ほれっ、と翌女生徒に手渡した。†",
+    ("オレは本を棚から抜き取って、ほれっ、と翌女生徒に手渡した。",
     ""),
-    # I pulled the book off the shelf and handed it to the female student the next day, saying, "Look, oh my goodness."†
+    # I pulled the book off the shelf and handed it to the female student the next day, saying, "Look, oh my goodness."
 
     ("「〟合ってるか？」",
     ""),
     # "Is it right?”
 
-    ("オレが聞くと、浴女生徒はタイトルを確認し、",
+    ("オレが聞くと、女生徒はタイトルを確認し、",
     ""),
     # When I heard, the bather student confirmed that he was crying tightly,
 
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # "Yeah," it's right."
 
-    ("と、うなずいた。†",
+    ("と、うなずいた。",
     ""),
-    # He nodded.†
+    # He nodded.
 
     ("そして、にっこり微笑むと、",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # I thanked him at the intonation that is typical of Kansai.
 
-    ("そして翌女生徒は、くるりと背をｌけ、その場を獅去っていった。†",
+    ("そして翌女生徒は、くるりと背をｌけ、その場を去っていった。",
     ""),
-    # The next female student leaned back and left the scene.†
+    # The next female student leaned back and left the scene.
 
     ("なんだ。",
     ""),
@@ -210,19 +210,19 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("べつにその気はなかったが、見ず知迺らずの翌女の子に感謝されるってのは、案外悪くない気分だな。†",
+    ("べつにその気はなかったが、見ず知迺らずの翌女の子に感謝されるってのは、案外悪くない気分だな。",
     ""),
-    # I didn't really feel like that, but it's surprisingly not a bad feeling to be grateful to the girl who didn't know anything about it after seeing it.†
+    # I didn't really feel like that, but it's surprisingly not a bad feeling to be grateful to the girl who didn't know anything about it after seeing it.
 
     ("「どうしたの、ち痰ゃん？」",
     ""),
     # "What's wrong, do you have phlegm?"
 
-    ("いまのｉ話を聞きつけ、あかりがやってきた。",
+    ("いまの話を聞きつけ、あかりがやってきた。",
     ""),
     # After hearing the i-chan, Akari began to tamper with it.
 
-    ("「いや、いまの翌女の子がさ、本が取齊れなくて困ってたから取ってやったんだ」†",
+    ("「いや、いまの翌女の子がさ、本が取齊れなくて困ってたから取ってやったんだ」",
     ""),
     # "It's a mess, the girl who just the next day was having trouble getting a book, so I took it and took it."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "Do you know?"
 
-    ("「うん。だって、同じクラスだ烽もん」",
+    ("「うん。だって、同じクラスだもん」",
     ""),
     # "Yeah. Because it's the same party."
 
@@ -250,15 +250,15 @@ text_array = [
     ""),
     # Hoshina... I mean, that guy.
 
-    ("そういや、関西弁し痰ゃべってたよな。†",
+    ("そういや、関西弁し痰ゃべってたよな。",
     ""),
-    # I guess he was tampering with the Kansai dialect and phlegm.†
+    # I guess he was tampering with the Kansai dialect and phlegm.
 
     ("「あいつ、蛛大繿阪出身か？」",
     ""),
     # "Is he from Oyosaka?"
 
-    ("オレが聞くと、あかりは『えーっと…』と口煬もとに手を魔当てて繧上をｌいた。",
+    ("オレが聞くと、あかりは『えーっと…』と口煬もとに手を魔当てて上をｌいた。",
     ""),
     # When I heard, Akari said, "Um..." and put her hand on Fukuguchi Han and leaned over the top.
 
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # I think you said that there's no phlegm."
 
-    ("で烽も関西人であることには間瘧違いないな。†",
+    ("でも関西人であることには間違いないな。",
     ""),
-    # And I'm sure Kato is also a Kansai person.†
+    # And I'm sure Kato is also a Kansai person.
 
     ("「保科さんって、すっごく頭が良くて、この前の実力テストじ痰ゃ学年トップだったっていう話だよ」",
     ""),
@@ -282,11 +282,11 @@ text_array = [
     ""),
     # "Wow, that guy is impressed..."
 
-    ("たしかに、いかに烽も頭良さげ〜ってな感じだったな。†",
+    ("たしかに、いかにも頭良さげ〜ってな感じだったな。",
     ""),
-    # Certainly, it seemed like even Hot was smart.†
+    # Certainly, it seemed like even Hot was smart.
 
-    ("「それにして烽も、気の強そーな翌女だな」",
+    ("「それにしても、気の強そーな翌女だな」",
     ""),
     # "And then, Ho is also a strong-willed woman."
 

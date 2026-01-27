@@ -2,11 +2,11 @@
 # Source file: 0162.txt
 
 text_array = [
-    ("（あかり好感度イベント１２）閨（Ａ	あかりにｉいたい）†",
+    ("（あかり好感度イベント１２）閨（Ａ	あかりにいたい）†",
     ""),
     # (Akari Likeability Event 12) (A I want to have an i-i)†
 
-    ("♂いたい…。",
+    ("雅いたい…。",
     ""),
     # I want to be a male...
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # Light...†
 
-    ("あかりにｉいたい。†",
+    ("あかりにいたい。†",
     ""),
     # I want to be Akari.†
 
-    ("そう思った途端、潤居て烽も立って烽もいられなくなった。",
+    ("そう思った途端、潤居ても立ってもいられなくなった。",
     ""),
     # As soon as I thought that, Jun was there, the hot springs were standing there, and I couldn't even get any more.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "that…"
 
-    ("「あかりなら、いまちょうど出かけた墲わよ」",
+    ("「あかりなら、いまちょうど出かけたわよ」",
     ""),
     # "If it's Akari, I'll be out and heading out."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「さっき、どこかに電話してたみたいだけど、そのあとすぐに出ていった墲わ」†",
+    ("「さっき、どこかに電話してたみたいだけど、そのあとすぐに出ていったわ」†",
     ""),
     # "It seems like I'd called somewhere earlier, but after that I left soon after."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # I'm not sure what you've heard of the phone just now.†
 
-    ("「志保ち痰ゃんあたりと待ち№合寘わせで烽もしてるんじ痰ゃないかしら？」",
+    ("「志保ち痰ゃんあたりと待ち№合寘わせでもしてるんじ痰ゃないかしら？」",
     ""),
     # "I'm also trying to get some hot water and wait a few times, so I wonder if there's no phlegm?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Do you know where you went?"
 
-    ("「さあ、どこだか。なに烽も言甯わないでふらりと出て行っち痰ゃったから…」†",
+    ("「さあ、どこだか。なにも言甯わないでふらりと出て行っち痰ゃったから…」†",
     ""),
     # "Now, where is it? What's that? I left without saying a word, and sighed..."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "I see? Sorry."
 
-    ("オレは頭を下げると、あかりの家を繧後にした。†",
+    ("オレは頭を下げると、あかりの家を後にした。†",
     ""),
     # I bowed my head and left Akari's house behind.†
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # just….
 
-    ("あかりにｉいたい。",
+    ("あかりにいたい。",
     ""),
     # I want to be Akari.
 
-    ("♂って、話がしたい。",
+    ("雅って、話がしたい。",
     ""),
     # Male, I want to talk.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # That was the only thing that really pushed me back on my back.
 
-    ("あかりの顔を見て、いつ烽もの笑迴顔を見鼬れば、すべての嘯答えが見つかるような気がした。†",
+    ("あかりの顔を見て、いつもの笑顔を見鼬れば、すべての嘯答えが見つかるような気がした。†",
     ""),
     # When I looked at Akari's face, I felt like I could find all the answers if I saw the laughing face of the girl.†
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # Light...
 
-    ("♂いたい…。",
+    ("雅いたい…。",
     ""),
     # I want to be a male...
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # Light.
 
-    ("♂いたい…。",
+    ("雅いたい…。",
     ""),
     # I want to be a male...
 
-    ("今朝見た夢のせいか烽も知れない…。",
+    ("今朝見た夢のせいかも知れない…。",
     ""),
     # Perhaps because of the dream I had this morning, I can't even know about it...
 

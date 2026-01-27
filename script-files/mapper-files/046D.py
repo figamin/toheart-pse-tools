@@ -2,9 +2,9 @@
 # Source file: 046D.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（４／２４	帰闍り道）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（４／２４	帰闍り道）",
     ""),
-    # (Shiho Scales Event PS) (4/24 Return Road)†
+    # (Shiho Scales Event PS) (4/24 Return Road)
 
     ("帰闍り道、本屋の前でまた、志保に出初った。",
     ""),
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "You don't even read manga at the moment, Hajikan?"
 
-    ("「今厓日燗も読んでない墲わよっ」",
+    ("「今厓日燗も読んでないわよっ」",
     ""),
     # "I haven't read the huangan right now."
 
-    ("「読んで烽も読まなくて烽も、おめえをインテリ呼ば墲わりするрヤツはいねえよ」†",
+    ("「読んでも読まなくても、おめえをインテリ呼ばわりするрヤツはいねえよ」",
     ""),
-    # "No one would ever read it, and even call me an Integata" †
+    # "No one would ever read it, and even call me an Integata" 
 
-    ("「あんたが呼んでくれるからいい墲わよ」",
+    ("「あんたが呼んでくれるからいいわよ」",
     ""),
     # "You'll call me so it's fine."
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "It's a sluggish guy, he's not going to lose his mouth."
 
-    ("「＊郎で汲結構」†",
+    ("「＊郎で結構」",
     ""),
-    # "It's fine with ＊Rou" †
+    # "It's fine with ＊Rou" 
 
     ("帰闍り道、本屋の前で志保に出初った。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "I'll stay, Shiho has phlegm?"
 
-    ("「あら、じ痰ゃん」†",
+    ("「あら、じ痰ゃん」",
     ""),
-    # "Oh, sputum" †
+    # "Oh, sputum" 
 
     ("「目末当てのマンガは見つかったか？」",
     ""),
@@ -62,17 +62,17 @@ text_array = [
     ""),
     # "Um, if someone who doesn't knows asks me, I feel like I'm only reading manga."
 
-    ("「瘁違うのか？」†",
+    ("「瘁違うのか？」",
     ""),
     # "Is it different?"
 
-    ("「この男は…。あたしがいかにインテリジェントな一面を揩持っているか、説明する必要があるようね」",
+    ("「この男は…。あたしがいかにインテリジェントな一面を持っているか、説明する必要があるようね」",
     ""),
     # "This guy... I think I need to explain how intelligent I have."
 
-    ("「いらねー諱よ、そんな烽説明」†",
+    ("「いらねー諱よ、そんな説明」",
     ""),
-    # "I don't need you, that hot explanation"†
+    # "I don't need you, that hot explanation"
 
     ("「たとえば今、あたしがここで何の本を読んでいたか知ってる？」",
     ""),
@@ -82,25 +82,25 @@ text_array = [
     ""),
     # "It's a manga b? It's Thursday, so is it пYankomi?"
 
-    ("「ちが墲わいっ！	話が№合ってないでしょーが」",
+    ("「ちがわいっ！	話が№合ってないでしょーが」",
     ""),
     # "No! We didn't get the right thing, so slut."
 
-    ("「は？」†",
+    ("「は？」",
     ""),
-    # "teeth?"†
+    # "teeth?"
 
-    ("「インテリジェントだって言ってるそばからマンガ読むрヤツいない墲わよっ」",
+    ("「インテリジェントだって言ってるそばからマンガ読むрヤツいないわよっ」",
     ""),
     # "There's no one who reads manga from someone who says it's intelligent."
 
-    ("「わーった墲わーった。マンガ読むрヤツはインテリじ痰ゃねえっつうんだな？	…偏見だ、そり痰ゃ」",
+    ("「わーったわーった。マンガ読むрヤツはインテリじ痰ゃねえっつうんだな？	…偏見だ、そり痰ゃ」",
     ""),
     # "I'm so sad. Those who read manga don't have any phlegms, right? ...That's prejudice, that's a phlegm."
 
-    ("「う〜ん…インテリ焜も読むマンガ焜もある墲わね」†このまま…",
+    ("「う〜ん…インテリも読むマンガもあるわね」このまま…",
     ""),
-    # "Hmm... there's a manga that also reads Interigata Liberation" † I'll continue like this...
+    # "Hmm... there's a manga that also reads Interigata Liberation"  I'll continue like this...
 
     ("Ａ	話し桙込む。閨",
     ""),

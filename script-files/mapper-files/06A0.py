@@ -2,9 +2,9 @@
 # Source file: 06A0.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	１階１）閨（選択綜Ａ	動力源は？）†",
+    ("（マルチ	回秤数イベント	１階１）閨（選択綜Ａ	動力源は？）",
     ""),
-    # (Makyuruchi, Scales Event, 1st floor 1) (Select A, what is the power source?)†
+    # (Makyuruchi, Scales Event, 1st floor 1) (Select A, what is the power source?)
 
     ("ふと、マルチの動力源が気になった。",
     ""),
@@ -14,13 +14,13 @@ text_array = [
     ""),
     # =The normal ≠Maid Korobo must have been running on the Battegata Lee.
 
-    ("けど、最新型っていうんなら、またべつのなにかで動いているのか烽もしれない。",
+    ("けど、最新型っていうんなら、またべつのなにかで動いているのかもしれない。",
     ""),
     # However, if it's the latest model, it's probably going to be running on something different again.
 
-    ("その辺のことを聞いてみよう。†",
+    ("その辺のことを聞いてみよう。",
     ""),
-    # Let's ask about that.†
+    # Let's ask about that.
 
     ("「なあ、マルチ」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Is it a power source?"
 
-    ("「そうそう」†",
+    ("「そうそう」",
     ""),
-    # "oh yeah"†
+    # "oh yeah"
 
     ("「電気です」",
     ""),
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # It's probably sputum.
 
-    ("機械がご飯で動く墲わけねーもんな。†",
+    ("機械がご飯で動くわけねーもんな。",
     ""),
-    # There's no way a machine can run on rice.†
+    # There's no way a machine can run on rice.
 
     ("「電気ってことは、体のｒにバッテリーとかが付いてんのか？」",
     ""),
     # "When it comes to electricity, does it have a battery or something similar on the body?"
 
-    ("「はい。たしか鰍リチウムイオン・バッテリーという烽ものがついてるらしいです」",
+    ("「はい。たしか鰍リチウムイオン・バッテリーというものがついてるらしいです」",
     ""),
     # "Yes. Apparently there's a hot pot called roe lithium ion and battery olive."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "...Kaji lithium?"
 
-    ("「はい。携帯電話などに使寬われている電池の強力な烽ものだそうです」†",
+    ("「はい。携帯電話などに使寬われている電池の強力なものだそうです」",
     ""),
     # "Yes. It seems to be a powerful hot battery used on mobile phones and other devices."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "No, it's charging. With a scale that can be enough for humans to eat."
 
-    ("「ふうん。じ痰ゃ、もし充電が遅れたりしたら、マルチは止まっちまうのか？」†",
+    ("「ふうん。じ痰ゃ、もし充電が遅れたりしたら、マルチは止まっちまうのか？」",
     ""),
     # "Hmm. If the charging is slow, will the crying lurch stop?"
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "Fuel cell?"
 
-    ("またまたよく墲わからない言葉が飛び出した。†",
+    ("またまたよくわからない言葉が飛び出した。",
     ""),
-    # Once again, words came out that I didn't really understand.†
+    # Once again, words came out that I didn't really understand.
 
-    ("「わたし自身熕もよく墲わからないんですけど、たしか…＄素…だっけ？	と、酸素だっけ？",
+    ("「わたし自身熕もよくわからないんですけど、たしか…＄素…だっけ？	と、酸素だっけ？",
     ""),
     # "I don't really understand that myself, but I'm sure... $ fundamental...? And is it oxygen?
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Apparently it is."
 
-    ("「＄素と酸素で電気？」†",
+    ("「＄素と酸素で電気？」",
     ""),
     # "Electricity with $petal and oxygen?"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Well, I think there's something called 'electrolysis of $'"
 
-    ("「ああ、それならｒ学のときに習ったな。たしか、＄に電気を流すと、＄素と酸素に分かれるんだ」†",
+    ("「ああ、それならｒ学のときに習ったな。たしか、＄に電気を流すと、＄素と酸素に分かれるんだ」",
     ""),
     # "Ah, I learned that when I was studying R. I think when I was using electricity to $, it divides into $ and oxygen."
 
@@ -130,27 +130,27 @@ text_array = [
     ""),
     # "Ah, that's right. Fuel cells are the opposite....When you redirect $ and oxygen, electricity and p are produced."
 
-    ("「…ふ〜ん、じ痰ゃあ、マルチのｒには、＄素と酸素熨も入ってんのか？」†",
+    ("「…ふ〜ん、じ痰ゃあ、マルチのｒには、＄素と酸素熨も入ってんのか？」",
     ""),
     # "...Hmm, sputum, does the r of McDonald have $ and oxygen noshi?"
 
-    ("「いえ、酸素はま墲わりにいっぱいありますから、＄素だけです」",
+    ("「いえ、酸素はまわりにいっぱいありますから、＄素だけです」",
     ""),
     # "No, there's a lot of oxygen, so it's just $."
 
-    ("「それが燃料電池の燃料な墲わけか」",
+    ("「それが燃料電池の燃料なわけか」",
     ""),
     # "Is that what fuel cell fuel is?"
 
-    ("「バッテリーが切齔れたときとか、メしい運動をするときは、そうやって補封助的に発電するらしいです」†",
+    ("「バッテリーが切齔れたときとか、メしい運動をするときは、そうやって補封助的に発電するらしいです」",
     ""),
     # "It seems that when the battery is cut off or when you do intense exercise, you will use this to generate power by tampering and releasing it."
 
-    ("いちいち語尾に『轣らしいです』をつけるのは、本末当にマルチ自身熕もよく墲わからないからなんだう。†",
+    ("いちいち語尾に『轣らしいです』をつけるのは、本末当にマルチ自身熕もよくわからないからなんだう。",
     ""),
-    # The reason why I end my words with "It looks like a sin" is because even Makkuruchi himself doesn't really understand it.†
+    # The reason why I end my words with "It looks like a sin" is because even Makkuruchi himself doesn't really understand it.
 
-    ("「なあ、とこで、さっきの烽説明だと、電気といっしょにｐができるんだ？	そのｐはどうすんだ？」",
+    ("「なあ、とこで、さっきの説明だと、電気といっしょにｐができるんだ？	そのｐはどうすんだ？」",
     ""),
     # "Hey, b, according to the explanation I just explained, can you get a p with electricity? What will you do with that p?"
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Ah, is it $? Sweat, what about it?"
 
-    ("「あとは？」†",
+    ("「あとは？」",
     ""),
     # "What else?"
 
@@ -170,8 +170,8 @@ text_array = [
     ""),
     # "Ah, yeah, yeah."
 
-    ("なんか、変なとこまで人間なんだな。†",
+    ("なんか、変なとこまで人間なんだな。",
     ""),
-    # He's just a strange human being.†
+    # He's just a strange human being.
 
 ]

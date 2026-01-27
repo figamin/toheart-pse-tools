@@ -2,9 +2,9 @@
 # Source file: 0468.txt
 
 text_array = [
-    ("（志保	追加イベント３	帰闍り道）閨（４／１６固定）†",
+    ("（志保	追加イベント３	帰闍り道）閨（４／１６固定）",
     ""),
-    # (Shiho Additional Event 3 Return Road) (Standard 4/16)†
+    # (Shiho Additional Event 3 Return Road) (Standard 4/16)
 
     ("「諱よお、君」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Shiho called out to me in the shoe cabinet.
 
-    ("「…なんだよ。気味の悪い呼びかたするな」†",
+    ("「…なんだよ。気味の悪い呼びかたするな」",
     ""),
-    # "...What is it? Don't call me a creepy thing" †
+    # "...What is it? Don't call me a creepy thing" 
 
     ("「あんたを探してたのよ」",
     ""),

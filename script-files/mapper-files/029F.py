@@ -2,15 +2,15 @@
 # Source file: 029F.txt
 
 text_array = [
-    ("（選択綜	ＡＢＣの続き）閨（学校前の坂道２）†",
+    ("（選択綜	ＡＢＣの続き）閨（学校前の坂道２）",
     ""),
-    # (Continued from Chosen ABC) (Tansukado 2 in front of school)†
+    # (Continued from Chosen ABC) (Tansukado 2 in front of school)
 
     ("オレは先輩とふたりで学校を出た。",
     ""),
     # I left school with my senior.
 
-    ("諱先輩はゆっくりとオレの横を烽歩いている。",
+    ("諱先輩はゆっくりとオレの横を歩いている。",
     ""),
     # Senpai Iku was slowly walking alongside my throbbing.
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Oh, that's right.
 
-    ("せっかくだし、閨手で烽もつないじまおうか。†",
+    ("せっかくだし、閨手でもつないじまおうか。",
     ""),
-    # Since I'm going to do it, I'll try to keep the boiling pot in with my hands.†
+    # Since I'm going to do it, I'll try to keep the boiling pot in with my hands.
 
     ("それはそうと、じつは、さっきからずっと体が火照って熱い。",
     ""),
@@ -34,13 +34,13 @@ text_array = [
     ""),
     # I wonder if my senior's medicine has begun to work.
 
-    ("とて烽も眠くなんかない。",
+    ("とても眠くなんかない。",
     ""),
     # Even the hot springs aren't sleepy either.
 
-    ("もしかしてあの薬、効果としてはち痰ゃんと成功してたのか烽も知れないな。†",
+    ("もしかしてあの薬、効果としてはち痰ゃんと成功してたのかも知れないな。",
     ""),
-    # I don't know if that medicine was successful in terms of effectiveness.†
+    # I don't know if that medicine was successful in terms of effectiveness.
 
     ("「諱先輩、じつは、さっきの薬さ…」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # ""Kiki!
 
-    ("普黒塗闢りの鰍リムジンが目の前に停車した。†",
+    ("普黒塗闢りの鰍リムジンが目の前に停車した。",
     ""),
-    # A chrysanthemum limousine with a plain black lacquer stopped in front of me.†
+    # A chrysanthemum limousine with a plain black lacquer stopped in front of me.
 
     ("「おｏ様、お迎えにあがりました」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # The old man in a floating black suit had hanged out of the car.
 
-    ("「諱よお、じーさん。悪いけど、今厓日は先輩、オレといっしょに｢｢」†",
+    ("「諱よお、じーさん。悪いけど、今厓日は先輩、オレといっしょに｢｢」",
     ""),
-    # "My name is, old man. I'm sorry, but I'm currently in the middle of my day, and I'm a big fan of ""†
+    # "My name is, old man. I'm sorry, but I'm currently in the middle of my day, and I'm a big fan of ""
 
     ("「かあっ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜っ！！」",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # My ears are...
 
-    ("「ささ、おｏ様、お車へ」†",
+    ("「ささ、おｏ様、お車へ」",
     ""),
     # "Sasa, O-san, head to the car"
 
@@ -102,15 +102,15 @@ text_array = [
     ""),
     # "Super..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("結局、おｏ様は連齪れていかれてしまった。",
     ""),
     # In the end, O-san was repeatedly called out.
 
-    ("車に乗せられた繧後煬も、諱先輩はじっとオレを見つめていた。",
+    ("車に乗せられた後煬も、諱先輩はじっとオレを見つめていた。",
     ""),
     # After being put in the car, Senpai Iku was staring at me.
 

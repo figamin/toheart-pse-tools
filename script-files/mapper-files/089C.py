@@ -2,9 +2,9 @@
 # Source file: 089C.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	いっしょに帰驪る）†",
+    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	いっしょに帰驪る）",
     ""),
-    # (Fall Remy Scale Event 2nd Floor 4 LV1) (Choices Return to Isshii-e)†
+    # (Fall Remy Scale Event 2nd Floor 4 LV1) (Choices Return to Isshii-e)
 
     ("「いいぜ」",
     ""),
@@ -18,19 +18,19 @@ text_array = [
     ""),
     # "M≠a Nitro Magic VB Shooting Shield O Floating Tang'in!"
 
-    ("戟レミィはパチンと手を打ち№合寘わせた。",
+    ("レミィはパチンと手を打ち№合寘わせた。",
     ""),
     # Karemi snapped and let him join the ball.
 
-    ("…いまの言葉は、♀びの言葉なんだう。†",
+    ("…いまの言葉は、♀びの言葉なんだう。",
     ""),
-    # ...The words I just said are female words.†
+    # ...The words I just said are female words.
 
     ("「」",
     ""),
     # ""
 
-    ("戟レミィが呼んだ。",
+    ("レミィが呼んだ。",
     ""),
     # Karemi called.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "ah.
 
-    ("早く行ってこいよ」†",
+    ("早く行ってこいよ」",
     ""),
     # Come quickly"
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("戟レミィはパタパタと駆けていった。†",
+    ("レミィはパタパタと駆けていった。",
     ""),
-    # The throbbing remy flaps and slits.†
+    # The throbbing remy flaps and slits.
 
     ("「、クイズ、知ってる？」",
     ""),
     # "Do you know the quiz?"
 
-    ("下駄箱を出た辺阨りで、戟レミィが聞いてきた。",
+    ("下駄箱を出た辺阨りで、レミィが聞いてきた。",
     ""),
     # As I left the shoe cabinet, Karemi asked.
 
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # "Yb Tangari"
 
-    ("「クイズは知ってるけど、なんでまたそんなこと聞くんだ？」†",
+    ("「クイズは知ってるけど、なんでまたそんなこと聞くんだ？」",
     ""),
     # "I know the quiz, why are you asking that again?"
 
-    ("「あのね、ＴＶのクイズがクラスで人気で、みんなでＯ窒ｒ奄ｉ№ｇ奄ｉ獅ｎ≠ａ撃ｌのクイズを出し№合ってるの」",
+    ("「あのね、ＴＶのクイズがクラスで人気で、みんなでＯ窒ｒ奄№ｇ奄ｎ≠ａ撃ｌのクイズを出し№合ってるの」",
     ""),
     # "Well, the TV quiz is popular on Celebration, and everyone gives a quiz of "Oniri Amai No. G Amai Lion ≠Ageki" and they're right."
 
-    ("人気のクイズ番組といえば、たぶんオレ焜もよく見ている番組のことだう。",
+    ("人気のクイズ番組といえば、たぶんオレもよく見ている番組のことだう。",
     ""),
     # When it comes to popular quiz shows, they probably refer to programs that I often watch.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "...So?"
 
-    ("「だけどアタシ、問題少ししか知迺らないの」†",
+    ("「だけどアタシ、問題少ししか知迺らないの」",
     ""),
     # "But I only know a little about the question."
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "I see. So you want me to tell you the question of the tampering of Ogata Rijina's crying?"
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
-    ("「たとえばさ、どれくらいの問題だ？	オレはこう見えて烽も、クイズにはうるさいからな。",
+    ("「たとえばさ、どれくらいの問題だ？	オレはこう見えても、クイズにはうるさいからな。",
     ""),
     # "For example, how many tampering questions are there? I look like this, but Hoo is noisy about quizzes.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # I'll think about the question of the tampering that caused the girls to cry on fire and level, and I'll tamper with it."
 
-    ("「Ｒ≠ａ撃ｌ撃ｌ凾ｙ？」†",
+    ("「Ｒ≠ａ撃ｌ撃ｌ凾ｙ？」",
     ""),
     # "Rb≠a-shot l-shot l-shot l-shot l-y?"
 
@@ -122,15 +122,15 @@ text_array = [
     ""),
     # "OK! Wb Shot L ""
 
-    ("彼濫女は知っている問題を痰吟味し始めた。",
+    ("彼女は知っている問題を痰吟味し始めた。",
     ""),
     # The woman began to examine the slurred questions she knew.
 
-    ("そして、†",
+    ("そして、",
     ""),
-    # and,†
+    # and,
 
-    ("「諱第１問。仏壇にある『チ〜ン』って鳴逍らす烽もの、ナ〜ンダ。",
+    ("「諱第１問。仏壇にある『チ〜ン』って鳴逍らすもの、ナ〜ンダ。",
     ""),
     # "The first question of the tale of the sin. A hot thing that sounds like "chin" on the altar.
 
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # A.Money B.Kaji Rinko C.Chin"
 
-    ("仏壇にチ〜ンって、あの拝むときに鳴逍らすрヤツだよな。†",
+    ("仏壇にチ〜ンって、あの拝むときに鳴逍らすрヤツだよな。",
     ""),
-    # He's the one who pees at the altar and squeals when he worships it.†
+    # He's the one who pees at the altar and squeals when he worships it.
 
     ("あれの名前は｢｢。",
     ""),

@@ -2,11 +2,11 @@
 # Source file: 038C.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ｃ	ふたりと烽も大苟丈夫か？）閨（の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ｃ	ふたりとも大苟丈夫か？）閨（の続き）",
     ""),
-    # (Tomoko's Scales Event: Leaving School LV2) (Choice Sou A about this Ogiri LOL, if you're going to get the next Haunted!) (Choice Sou C: Are the two and the Hoods strong too?) (Continued)†
+    # (Tomoko's Scales Event: Leaving School LV2) (Choice Sou A about this Ogiri LOL, if you're going to get the next Haunted!) (Choice Sou C: Are the two and the Hoods strong too?) (Continued)
 
-    ("「ふたりと烽も大苟丈夫か？」",
+    ("「ふたりとも大苟丈夫か？」",
     ""),
     # "Are the two and the hot springs strong too?"
 
@@ -22,9 +22,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("あかりは涙目で頭を押さえ、保科は痛いより、巻き桙込まれたことに腹を立てている様子だった。†",
+    ("あかりは涙目で頭を押さえ、保科は痛いより、巻き桙込まれたことに腹を立てている様子だった。",
     ""),
-    # Akari pressed her head with tears in tears, and Hoshina seemed more angry at the fact that she had been wrapped around her.†
+    # Akari pressed her head with tears in tears, and Hoshina seemed more angry at the fact that she had been wrapped around her.
 
     ("「ほ、保科さん、ゴ＜メン。痛かった？」",
     ""),
@@ -34,13 +34,13 @@ text_array = [
     ""),
     # Akari apologizes as she rubs the foil on the back of the head.
 
-    ("「べつに。なんと烽もない」",
+    ("「べつに。なんともない」",
     ""),
     # "And so. There's no hot water."
 
-    ("それを保科がぶっきらぼうに返す。†",
+    ("それを保科がぶっきらぼうに返す。",
     ""),
-    # Yasunari bluntly responds this.†
+    # Yasunari bluntly responds this.
 
     ("「ケガとかない？」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Akari hurriedly rubbed her eyes.
 
-    ("そこでオレがр割って入體る。†",
+    ("そこでオレがр割って入體る。",
     ""),
-    # That's when I got into it.†
+    # That's when I got into it.
 
     ("「えっと、保科だっけ？	悪ぃーけど、こいつを怒逑らねーでやってくんねーか。どうやら、オレがおどかしたのが原因辷らしいから」",
     ""),
@@ -74,13 +74,13 @@ text_array = [
     ""),
     # Then Hoshina
 
-    ("「べつに怒ってない。これからは、ま墲わりに気いつけや」",
+    ("「べつに怒ってない。これからは、まわりに気いつけや」",
     ""),
     # "I'm not particularly angry. From now on, I'll be taking care of myself."
 
-    ("素っ気なくそう言い残し、氏去って行った。†",
+    ("素っ気なくそう言い残し、氏去って行った。",
     ""),
-    # He left calmly saying that before leaving.†
+    # He left calmly saying that before leaving.
 
     ("「…保科さん、本末当に怒ってないのかな」",
     ""),

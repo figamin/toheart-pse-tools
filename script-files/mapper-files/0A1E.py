@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("掾理女緒ち痰ゃんは一瞬振關り返った烽ものの、",
+    ("掾理女緒ち痰ゃんは一瞬振關り返ったものの、",
     ""),
     # Although the shoddy girl was suddenly shook her head,
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "...Hey hey, are you sturdy, are you sturdy?"
 
-    ("さすがに心配になって繧後を追ってみたが、両者と烽も足が速いらしく、すっかり見えなくなっていた。†",
+    ("さすがに心配になって後を追ってみたが、両者とも足が速いらしく、すっかり見えなくなっていた。†",
     ""),
     # I was worried and followed him, but both of them and Ho were both quick and completely invisible.†
 

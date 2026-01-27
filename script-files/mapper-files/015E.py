@@ -2,7 +2,7 @@
 # Source file: 015E.txt
 
 text_array = [
-    ("（あかり	冝日付イベント４）閨（５獅月２冾日限定）閨（好感度１１が発生しているなら）閨（艨ゆっくりフェード	公園）†",
+    ("（あかり	冝日付イベント４）閨（５月２冾日限定）閨（好感度１１が発生しているなら）閨（艨ゆっくりフェード	公園）†",
     ""),
     # (Akari Pick Date Event 4) Pick (5th Lion Month 2nd Date Limited) Pick (If 11 likes) Pick (Slow Fade Park)†
 
@@ -30,7 +30,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「しばらく、♂いたくねえ」",
+    ("「しばらく、雅いたくねえ」",
     ""),
     # "I won't want to do it for a while."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Sigh...
 
-    ("オレは烽歩き出す。†",
+    ("オレは歩き出す。†",
     ""),
     # My heart started walking.†
 

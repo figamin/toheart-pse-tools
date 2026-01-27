@@ -26,11 +26,11 @@ text_array = [
     ""),
     # Before long, the chairman laughed awkwardly.
 
-    ("「…な、なんや変な感じになって烽もうたな」†",
+    ("「…な、なんや変な感じになってもうたな」†",
     ""),
     # "...What, what kind of tampering and weird feeling, I've been feeling so hot."
 
-    ("「で、結局どうなんだ？	瘁例のう墲わさはあくまでただのう墲わさなんだ？」",
+    ("「で、結局どうなんだ？	瘁例のうわさはあくまでただのうわさなんだ？」",
     ""),
     # "So, what's going on in the end? Is this just a slut b?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # I thought that was a bit of a thing anyway.
 
-    ("梶所詮、志保ち痰ゃん薰情報は志保ち痰ゃん薰情報にすぎなかったって墲わけだ。",
+    ("梶所詮、志保ち痰ゃん薰情報は志保ち痰ゃん薰情報にすぎなかったってわけだ。",
     ""),
     # After all, it's only true that information about Shiho's stomping is nothing more than information about Shiho's stomping.
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # 'The information on the archetype is also sloppy.
 
-    ("（オレ焜内箔部	志保	信叶頼度−１）†",
+    ("（オレ内箔部	志保	信叶頼度−１）†",
     ""),
     # (Our internal foil section Shiho Nobukana Reliability -1)†
 
-    ("その繧後、オレは委員長を駅まで翌送った。†",
+    ("その後、オレは委員長を駅まで翌送った。†",
     ""),
     # After that, I sent the chairman to the station the next day.†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「なあ、そう言えばさっき、委員長、こんなことを言ってたな。『友だちのありがたみは、側にいるときはそんなに感じねーけど、いざ離齬れてみるとよく墲わかる』って」†",
+    ("「なあ、そう言えばさっき、委員長、こんなことを言ってたな。『友だちのありがたみは、側にいるときはそんなに感じねーけど、いざ離齬れてみるとよくわかる』って」†",
     ""),
     # "Hey, coming to think of it, the chairman said this earlier. 'I don't feel much of appreciation for my friends when I'm on my side, but when I get a sense of conflict, I can really understand it.'†
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Huh? Yes."
 
-    ("「…ってことはだ、逆に翌距離の近さが正確な判断を鈍逑らせること烽もある墲わけだ」",
+    ("「…ってことはだ、逆に翌距離の近さが正確な判断を鈍逑らせることもあるわけだ」",
     ""),
     # "...That means that the proximity of the next distance can also lead to a slower judgment."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "...What does that mean?"
 
-    ("「案外身近なとこに運命の鰍相闡手がいるか烽もしれねーってこと」",
+    ("「案外身近なとこに運命の鰍相闡手がいるかもしれねーってこと」",
     ""),
     # "It's a bit like that, perhaps, there's a fateful monkey in a place that's surprisingly close to me."
 

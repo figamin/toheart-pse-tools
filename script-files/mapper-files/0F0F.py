@@ -2,9 +2,9 @@
 # Source file: 0F0F.txt
 
 text_array = [
-    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	志保）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	志保）閨（蛛主人公沍勝ち）",
     ""),
-    # (Arcade Battle Cry 2) (Cycle Final Test Part 2 (HbbH)) (Cycle Sou Shiho) (Mrage Protagonist Wins) †
+    # (Arcade Battle Cry 2) (Cycle Final Test Part 2 (HbbH)) (Cycle Sou Shiho) (Mrage Protagonist Wins) 
 
     ("「へっ、おとといきやがれってんだー！」",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "It's tampering~!"
 
-    ("「なんか賭けとき痰ゃよかったかな」†",
+    ("「なんか賭けとき痰ゃよかったかな」",
     ""),
     # "I wonder if I should have phlegm when I bet it?"
 
-    ("「ふんっ、で烽もさすがは生涯の奄ライバルね。そう簡単には勝たせてくれない墲わ」",
+    ("「ふんっ、でもさすがは生涯の奄ライバルね。そう簡単には勝たせてくれないわ」",
     ""),
     # "Hmm, and Hou is a lifelong Amaya Raiba cry. I won't let you win that easily."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Lifetime? Are you going to cry in the battles in the game forever?"
 
-    ("「そうよ。あんたにとことん勝つのが『志保ち痰ゃん目標』のひとつなの」†",
+    ("「そうよ。あんたにとことん勝つのが『志保ち痰ゃん目標』のひとつなの」",
     ""),
     # "Yes. One of the 'Shiho's Sphinja Goals' is to beat you to the fullest."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "That's why you're Shiho."
 
-    ("「どういう意味譁よ！」†",
+    ("「どういう意味譁よ！」",
     ""),
     # "What does that mean!"
 

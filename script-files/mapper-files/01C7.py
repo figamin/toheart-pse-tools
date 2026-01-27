@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "But the sun has become so long, isn't it?"
 
-    ("「明坙日からは烽もう５獅月だからね」",
+    ("「明坙日からはもう５月だからね」",
     ""),
     # "From the Ming Shun Day, it's already been five Lion Moon."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # I went to the house.
 
-    ("「じ痰ゃあな。気をつけて帰鼡れよ。つって烽も、すぐそこだけど」",
+    ("「じ痰ゃあな。気をつけて帰鼡れよ。つっても、すぐそこだけど」",
     ""),
     # "You're phlegm. Take care and come home. The hot springs are also nearby."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # Well then.
 
-    ("オレ焜もさっさとｒ替えて、夕飯で烽もモ買いに行きますか。◯",
+    ("オレもさっさとｒ替えて、夕飯でもモ買いに行きますか。◯",
     ""),
     # Would you like to quickly change my veteran and go buy some hot pot for dinner?◯
 

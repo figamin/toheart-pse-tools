@@ -2,7 +2,7 @@
 # Source file: 0389.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（３獅月）閨（選択綜Ｂ	用があるからの続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（３月）閨（選択綜Ｂ	用があるからの続き）†",
     ""),
     # (Tomoko's Scales Event: Departing from School LV2) (3 Shizuki) (Continued because there is a selection of Scales B)†
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # Akari looks sad.
 
-    ("オレの『用がある』は本末当に用がある場㍼合以外に、掾理由燉もなく断髓る場㍼合に烽も用いられる。",
+    ("オレの『用がある』は本末当に用がある場㍼合以外に、掾理由燉もなく断髓る場㍼合にも用いられる。",
     ""),
     # In addition to the fact that I have a "sense of use" is used for situations where there is a "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in
 
-    ("あかりはその辺のこと烽も墲わかっているので、いちいち『どんな用？』とか、つっこんだりしない。†",
+    ("あかりはその辺のこともわかっているので、いちいち『どんな用？』とか、つっこんだりしない。†",
     ""),
     # Akari knows about this and is also aware of this, so she says, "What kind of use?""I don't say anything like that.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "That's phlegm, right?"
 
-    ("笑迴顔を残し、あかりは寂しそうにひとりで帰っていった。◯",
+    ("笑顔を残し、あかりは寂しそうにひとりで帰っていった。◯",
     ""),
     # With a smile on his face, Akari left alone in a lonely look on her face.◯
 

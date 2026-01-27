@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Kotone, Scales Event PS) (Chome, I like cats)†
 
-    ("「オレ焜も猫、好きだな」",
+    ("「オレも猫、好きだな」",
     ""),
     # "I love cats too."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Kotone Chisho-yan smiled now.
 
-    ("堰初めて出初ってから、今のが一番の笑迴顔だった気がする。",
+    ("堰初めて出初ってから、今のが一番の笑顔だった気がする。",
     ""),
     # I think the current one was the most laughing face since I first first appeared in the weir.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # I felt good at my peak.
 
-    ("もっと烽もっと、充実した笑迴顔にさせてやりたいと、オレは思った。◯",
+    ("もっともっと、充実した笑顔にさせてやりたいと、オレは思った。◯",
     ""),
     # I wanted to make him look even more fulfilling, laughter-like and tamper with him.◯
 

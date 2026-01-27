@@ -2,9 +2,9 @@
 # Source file: 044D.txt
 
 text_array = [
-    ("（志保	好感度イベントＸ）閨（選択綜	２問目	宦○）閨（ＳＥ：ピンポンピンポーン）†",
+    ("（志保	好感度イベントＸ）閨（選択綜	２問目	宦○）閨（ＳＥ：ピンポンピンポーン）",
     ""),
-    # (Shiho Likeability Event X) (Selection Sou 2nd Tampa Question) (SE: Ping Pong Pong) †
+    # (Shiho Likeability Event X) (Selection Sou 2nd Tampa Question) (SE: Ping Pong Pong) 
 
     ("ピンポンピンポーン！",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "My name is!"
 
-    ("「まだまだよ！」†",
+    ("「まだまだよ！」",
     ""),
     # "There's still more!"
 

@@ -2,23 +2,23 @@
 # Source file: 0469.txt
 
 text_array = [
-    ("（志保	追加イベント３	帰闍り道）閨（選択綜	なんの用だよ）†",
+    ("（志保	追加イベント３	帰闍り道）閨（選択綜	なんの用だよ）",
     ""),
-    # (Shiho Additional Event 3 Return Road) (Select So, what is it for?)†
+    # (Shiho Additional Event 3 Return Road) (Select So, what is it for?)
 
     ("「なんの用だよ」",
     ""),
     # "What is it for?"
 
-    ("ひょっとしたらお烽もしい話か烽もしれないので、諱乗ってみた。†",
+    ("ひょっとしたらおもしい話かもしれないので、諱乗ってみた。",
     ""),
-    # I thought it might be a hot topic or a hot topic, so I decided to give it a go.†
+    # I thought it might be a hot topic or a hot topic, so I decided to give it a go.
 
     ("「ね、１怩万円、掾持ってない？」",
     ""),
     # "Hey, don't you have one thousand yen?"
 
-    ("志保はとんで烽もない不意打ちを食逅ら墲わせてきた。",
+    ("志保はとんでもない不意打ちを食逅らわせてきた。",
     ""),
     # Shiho has been making a really hot surprise attack.
 
@@ -26,27 +26,27 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("お烽もしい話を冾期待していたオレは、そうこたえるしかない。†",
+    ("おもしい話を冾期待していたオレは、そうこたえるしかない。",
     ""),
-    # I was hoping for a bad story, so I had no choice but to answer that way.†
+    # I was hoping for a bad story, so I had no choice but to answer that way.
 
     ("「１怩万円揄持ってないかと聞いてんのよ」",
     ""),
     # "I've heard that you don't have one thousand yen."
 
-    ("「お前、同遠級生から烽金を巻き繧上げるのか…？」",
+    ("「お前、同遠級生から金を巻き上げるのか…？」",
     ""),
     # "Are you going to throw money from your classmates?"
 
-    ("「んな墲わけない墲わよっ。",
+    ("「んなわけないわよっ。",
     ""),
     # "No way, that's not true.
 
-    ("持ってるのか揩持ってないのかきーてんの」",
+    ("持ってるのか持ってないのかきーてんの」",
     ""),
     # I wonder if I have it or not, I'm Kakiten."
 
-    ("「なんだよ、そり痰ゃ？」†",
+    ("「なんだよ、そり痰ゃ？」",
     ""),
     # "What is it? Are you sputum?"
 
@@ -58,13 +58,13 @@ text_array = [
     ""),
     # Don't have it?”
 
-    ("浴迫髞る志保。",
+    ("迫髞る志保。",
     ""),
     # Shiho thrusts into the bath.
 
-    ("いつ烽ものことなんだが、志保のやることはいちいち揩理解できない。†",
+    ("いつものことなんだが、志保のやることはいちいち理解できない。",
     ""),
-    # When is it a hot topic, I can't understand Shiho's tampering with it at all.†
+    # When is it a hot topic, I can't understand Shiho's tampering with it at all.
 
     ("オレの嘯答えは｢｢。",
     ""),

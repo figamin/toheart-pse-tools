@@ -2,7 +2,7 @@
 # Source file: 08C4.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	寄闃り道１	ＬＶ１）閨（選択綜	この場は退散）†",
+    ("（レミィ	回秤数イベント	寄闃り道１	ＬＶ１）閨（選択綜	この場は退散）†",
     ""),
     # (The Remy Scales Event: The Entrance Road 1 LV1) (Choices will be retreat)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "...I'm going to kill Remi, it's time for another Meishuuuu."
 
-    ("文化とか語学とか、学校の授業みたいな話陂題はちょっとうんざりなので、オレは話を切關り繧上げた。†",
+    ("文化とか語学とか、学校の授業みたいな話陂題はちょっとうんざりなので、オレは話を切關り上げた。†",
     ""),
     # I'm tired of talking about culture, language, and school classes, so I replied with the topic.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Are you going back?"
 
-    ("「まあ、な。ここにとくに用があった墲わけじ痰ゃねーから」",
+    ("「まあ、な。ここにとくに用があったわけじ痰ゃねーから」",
     ""),
     # "Well, I don't have to worry about the phlegm here that I had a special purpose."
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("入盾ｏ	戟ｌ盾ｏ獅ｎ№ｇ」",
+    ("入盾ｏ	ｌ盾ｏｎ№ｇ」",
     ""),
     # Shield o l Shield o lion Nog"
 
-    ("戟レミィと別れ、オレはまっすぐ家に帰った。◯",
+    ("レミィと別れ、オレはまっすぐ家に帰った。◯",
     ""),
     # I parted ways with Karemi and I headed straight home.◯
 

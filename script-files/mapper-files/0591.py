@@ -2,11 +2,11 @@
 # Source file: 0591.txt
 
 text_array = [
-    ("（葵	回秤数イベント５	選択繿後	Ｂ）†",
+    ("（葵	回秤数イベント５	選択繿後	Ｂ）",
     ""),
-    # (Aoi Scales Event 5 after selection B)†
+    # (Aoi Scales Event 5 after selection B)
 
-    ("「オレにはとて烽も真乱似できそうにないぜ」",
+    ("「オレにはとても真乱似できそうにないぜ」",
     ""),
     # "I don't think I'll be able to really look like a crazy person."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I said with a wry smile.
 
-    ("「そんなことはないですよ。慣れないうちはつらいか烽もしれませんけど、冝日課になれば、当たり前になりますから」†",
+    ("「そんなことはないですよ。慣れないうちはつらいかもしれませんけど、冝日課になれば、当たり前になりますから」",
     ""),
     # "That's not the case. It's hard or hot until you get used to it, but once it becomes a routine, it becomes common for polishing."
 
@@ -26,13 +26,13 @@ text_array = [
     ""),
     # It's strong at night."
 
-    ("「だったら夜で烽もいいと思います。とにかく少しずつ、いきなり無ヶ茶しないで、だんだん冾日課にしていくことが大切です」",
+    ("「だったら夜でもいいと思います。とにかく少しずつ、いきなり無ヶ茶しないで、だんだん冾日課にしていくことが大切です」",
     ""),
     # "In that case, I think it would be good to have hot springs at night. It's important to gradually turn it into a routine rather than suddenly not suddenly go through the mugacha."
 
-    ("「…うーん、そうだよなあ。技うんぬんより、やっぱ薰基本は体だ烽もんなあ…」†",
+    ("「…うーん、そうだよなあ。技うんぬんより、やっぱ薰基本は体だもんなあ…」",
     ""),
-    # "...Hmm, that's right. Rather than just the technique, the basics are the body..."†
+    # "...Hmm, that's right. Rather than just the technique, the basics are the body..."
 
     ("「とくに先輩はセンスがいいですから、体を鍛えれば、きっと強くなれますよ」",
     ""),
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # I guarantee it!”
 
-    ("もと烽もと乗闖りやすい性格のオレだけに、だんだんその気になってきた。†",
+    ("もともと乗闖りやすい性格のオレだけに、だんだんその気になってきた。",
     ""),
-    # I'm a huge fan who is easy to tamper with, so I'm gradually starting to feel this way.†
+    # I'm a huge fan who is easy to tamper with, so I'm gradually starting to feel this way.
 
-    ("「…諱よーしっ、んじ痰ゃあ、オレ焜も少しずつ、やってみるかな」",
+    ("「…諱よーしっ、んじ痰ゃあ、オレも少しずつ、やってみるかな」",
     ""),
     # "...All right, I'll give you a sputum, I think I'll give you some more sluts and little by little."
 
@@ -70,15 +70,15 @@ text_array = [
     ""),
     # Even in the evening, the practice continued until the evening.
 
-    ("帰闍り際、葵ち痰ゃんはオレに、格闘技の本を貸してくれた。†",
+    ("帰闍り際、葵ち痰ゃんはオレに、格闘技の本を貸してくれた。",
     ""),
-    # As I returned home, Aoi Chisho-yan lent me a book on martial arts.†
+    # As I returned home, Aoi Chisho-yan lent me a book on martial arts.
 
     ("「格闘技における薰基本的なことがひととおり曹書かれているんです。これを読めば、きっとなにかの参考になると思いますよ」",
     ""),
     # "The basics of martial arts are written entirely in Cao. If you read this, I'm sure it will be useful for something."
 
-    ("「おっ、さんき繧ゅー、読んどくよ」",
+    ("「おっ、さんきゅー、読んどくよ」",
     ""),
     # "Oh, I'll read it."
 

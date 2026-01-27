@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Ah, I played a lot on the day right now.
 
-    ("テスト焜も終尞わり、明坙日は祝叝日。",
+    ("テストも終尞わり、明坙日は祝叝日。",
     ""),
     # The test event has ended, and Ming Shun Day is a celebration day.
 

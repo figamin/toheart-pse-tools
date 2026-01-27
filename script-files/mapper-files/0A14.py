@@ -2,11 +2,11 @@
 # Source file: 0A14.txt
 
 text_array = [
-    ("（Ｃ	待ち№合寘わせか？）†",
+    ("（Ｃ	待ち№合寘わせか？）",
     ""),
-    # (C: Waiting No. 1?)†
+    # (C: Waiting No. 1?)
 
-    ("「誰かと待ち№合寘わせで烽もしてんのか？」",
+    ("「誰かと待ち№合寘わせでもしてんのか？」",
     ""),
     # "Are you even trying to get somebody to wait and join the waiting list?"
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "No one said he's a man though."
 
-    ("「あれ？	そ、そうよね。くすん…」†",
+    ("「あれ？	そ、そうよね。くすん…」",
     ""),
-    # "Huh? That's right. It's so silly..." †
+    # "Huh? That's right. It's so silly..." 
 
     ("「じ痰ゃあ、なんで急いでんだ？」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Yeah, that's ". Ah, I can't!"
 
-    ("掾理女緒ち痰ゃんは、はっと顔を繧上げた。",
+    ("掾理女緒ち痰ゃんは、はっと顔を上げた。",
     ""),
     # The girl suddenly lifted her face.
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Ah, hey."
 
-    ("走闡り獅去驪る揩理女緒ち痰ゃん。†",
+    ("走闡り去驪る理女緒ち痰ゃん。",
     ""),
-    # The lion leaps forward.†
+    # The lion leaps forward.
 
     ("そして、すぐに、",
     ""),
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Bitan.
 
-    ("′こうから揩理女緒ち痰ゃんの短い悲鳴とと烽もに、鈍い音が聞こえてきた。",
+    ("′こうから理女緒ち痰ゃんの短い悲鳴とともに、鈍い音が聞こえてきた。",
     ""),
     # From here, a short scream and a dull sound began to be heard in the air.
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # Apparently it's tampering, it seems like it's been falsified again.
 
-    ("♀なっかしいなあ。†",
+    ("♀なっかしいなあ。",
     ""),
-    # It's so cute.†
+    # It's so cute.
 
-    ("けっきょく揩理女緒ち痰ゃんの急いでいる揩理由は墲わからなかった。◯",
+    ("けっきょく理女緒ち痰ゃんの急いでいる理由はわからなかった。◯",
     ""),
     # At first, I didn't understand why the spurt was in a hurry.◯
 

@@ -2,7 +2,7 @@
 # Source file: 08F2.txt
 
 text_array = [
-    ("（戟レミィ	氏試験卲日帰闍り	ＰＳ）",
+    ("（レミィ	氏試験卲日帰闍り	ＰＳ）",
     ""),
     # (Remy Exams Day Returned PS)
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "...What a weird thing? A dead guy is transformed and thrilled?"
 
-    ("死んで烽も生きてるじ痰ゃねえか。†",
+    ("死んでも生きてるじ痰ゃねえか。",
     ""),
-    # Is it dead and hot? Is it still alive?†
+    # Is it dead and hot? Is it still alive?
 
     ("「わかりました！」",
     ""),
     # "I understand!"
 
-    ("「なんだ、それだけで墲わかるのか？」†",
+    ("「なんだ、それだけでわかるのか？」",
     ""),
     # "What, does that mean you can tell from that?"
 

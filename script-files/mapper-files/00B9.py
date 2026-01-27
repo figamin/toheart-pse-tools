@@ -2,7 +2,7 @@
 # Source file: 00B9.txt
 
 text_array = [
-    ("（４獅月１９冾日	朝）閨（自分の部屋	暗い）†",
+    ("（４月１９冾日	朝）閨（自分の部屋	暗い）†",
     ""),
     # (April 19th day of the year) (morning) (My room is dark) †
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I clicked and turned off the alarm.∬
 
-    ("ふ墲わぁ〜あ、もう朝か。",
+    ("ふわぁ〜あ、もう朝か。",
     ""),
     # Wow, it's already morning.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # While yawning loudly, I stretch my limbs with the futon.†
 
-    ("４獅月１９冾日、土曜坥日。",
+    ("４月１９冾日、土曜坥日。",
     ""),
     # April 19th, Saturday.
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # I'm going.†
 
-    ("桜の木に烽も緑の葉っぱが目立ってきた。",
+    ("桜の木にも緑の葉っぱが目立ってきた。",
     ""),
     # The cherry blossom trees also have green leaves that are noticeable.
 
-    ("散闔り獅落ちた花びらが校蜊門前の道にピンク色のじ繧ゅうたんを敷き詰めている。†",
+    ("散り落ちた花びらが校門前の道にピンク色のじゅうたんを敷き詰めている。†",
     ""),
     # A scattered lion-falling petals lay a pink mug on the road in front of the school gates.†
 
-    ("「なんだか散闔り始めると、寂しくなっち痰ゃうなあ」",
+    ("「なんだか散り始めると、寂しくなっち痰ゃうなあ」",
     ""),
     # "When it starts to disperse, I feel lonely and I can't help but feel sad."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "good morning"†
 
-    ("校蜊門のｌこうから、妙に明髢るい翌女の子の声が聞こえてきた。",
+    ("校門のｌこうから、妙に明髢るい翌女の子の声が聞こえてきた。",
     ""),
     # From the school gates, I heard the strangely sly voice of the girl from the next girl.
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "?"
 
-    ("オレとあかりは『なんだう』とおたがいの顔を見㈹合寘わせ、校蜊門に近づいた。†",
+    ("オレとあかりは『なんだう』とおたがいの顔を見㈹合寘わせ、校門に近づいた。†",
     ""),
     # I and Akari looked at each other's faces and sang, "What's that?!" and then they came together, and approached the school gates.†
 
-    ("校蜊門をくぐった途端、",
+    ("校門をくぐった途端、",
     ""),
     # As soon as I pass through the school gates,
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # "good morning"
 
-    ("明髢るい笑迴顔であいさつをくれたのはマルチだった。",
+    ("明髢るい笑顔であいさつをくれたのはマルチだった。",
     ""),
     # It was a cried cry that gave me a greeting with a gentle smile.
 
-    ("閨手には竹ぼうきを揩持っている。",
+    ("閨手には竹ぼうきを持っている。",
     ""),
     # He holds a bamboo ram in his hand.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "good morning"
 
-    ("ほとんどの生徒が見血き烽もせず通闥り過ぎて行くなか、オレは立ち止まって、笑迴顔で声をかけた。†",
+    ("ほとんどの生徒が見血きもせず通闥り過ぎて行くなか、オレは立ち止まって、笑顔で声をかけた。†",
     ""),
     # As most of the students were in too much contact without even bleeding, I stopped and called out to him with a laughing face.†
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "My name is, I'm crying. I'm feeling well now."
 
-    ("「あ、さん！	どう烽も、おはようございます」†",
+    ("「あ、さん！	どうも、おはようございます」†",
     ""),
     # "Ah, sir! Good morning, no matter how you say hot" †
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # McDonald smiled.†
 
-    ("「今厓日で烽もう、みなさんと烽もお別れですから、ここでお掃恆除をしながら、あいさつしようかと思いまして」",
+    ("「今厓日でもう、みなさんともお別れですから、ここでお掃恆除をしながら、あいさつしようかと思いまして」",
     ""),
     # "It's now the day that we're going to say goodbye to everyone, so I thought I'd like to greet you while purging the scavengers here."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # I won't feel lonely."
 
-    ("「この一週間、とて烽も楽しかったです」†",
+    ("「この一週間、とても楽しかったです」†",
     ""),
     # "I've had so much fun over the past week."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "High robots these days are becoming more and more human-like.
 
-    ("もし烽もあの大きな耳がなかったら、絶対に人間と区別できないな」†",
+    ("もしもあの大きな耳がなかったら、絶対に人間と区別できないな」†",
     ""),
     # If Kao had no big ears, I would never be able to distinguish myself from humans."
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「いや、なんで烽もない」",
+    ("「いや、なんでもない」",
     ""),
     # "It's not tampering, why don't you have a hot pot?"
 
-    ("そうか、マルチと烽も今厓日でお別れか…。†",
+    ("そうか、マルチとも今厓日でお別れか…。†",
     ""),
     # I see, Makruchi and Kao are saying goodbye to the day right now...†
 

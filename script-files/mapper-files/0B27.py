@@ -2,17 +2,17 @@
 # Source file: 0B27.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント３）閨（選択綜Ａ	左闕手で─氛─	の続き）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント３）閨（選択綜Ａ	左闕手で─氛─	の続き）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 3 in the balance scales) (Continued from Selection A, with the left hand - Hai)†
+    # (Aya∴Ka challenges Aya∴Ka, event 3 in the balance scales) (Continued from Selection A, with the left hand - Hai)
 
     ("左闕手で外側にパリー縺後、右で打つ！",
     ""),
     # He hits the left hand and then hits the outside with his right hand!
 
-    ("オレはガードしながら目を光迪らせ、綾∴香の左ジャャブのタイミングを計った。†",
+    ("オレはガードしながら目を光迪らせ、綾∴香の左ジャャブのタイミングを計った。",
     ""),
-    # Ikere kept my eyes on the guard and timed Aya∴Kawa's left Jaab.†
+    # Ikere kept my eyes on the guard and timed Aya∴Kawa's left Jaab.
 
     ("スパアァーーーンッ！",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # It's Hajime!
 
-    ("＠いっ！†",
+    ("＠いっ！",
     ""),
-    # @Yes!†
+    # @Yes!
 
     ("シャッ！",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # Pawn!
 
-    ("オレの左闕手が、綾∴香のジャャブの軌道を外側にそらした。†",
+    ("オレの左闕手が、綾∴香のジャャブの軌道を外側にそらした。",
     ""),
-    # My left hand, my head, diverted the trajectory of Aya∴Kawa, to the outside.†
+    # My left hand, my head, diverted the trajectory of Aya∴Kawa, to the outside.
 
     ("「！？」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # Still!
 
-    ("すかさず右を｢｢。†",
+    ("すかさず右を｢｢。",
     ""),
-    # Immediately click the right side.†
+    # Immediately click the right side.
 
     ("うッ！？",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # My hardcore body is on my right!?
 
-    ("やばいっ、これじ痰ゃ反ｔ撃が出遅れ｢｢。†",
+    ("やばいっ、これじ痰ゃ反ｔ撃が出遅れ｢｢。",
     ""),
-    # That's amazing, but this is the phlegm and the counter-tampering is slow.†
+    # That's amazing, but this is the phlegm and the counter-tampering is slow.
 
     ("スパアアアァァァーーーーーーーーンッ！",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # Ah...!
 
-    ("その瞬間、綾∴香の右ストレートが、オレの側頭箔部をとらえた。†",
+    ("その瞬間、綾∴香の右ストレートが、オレの側頭箔部をとらえた。",
     ""),
-    # At that moment, Aya∴Ka's intense right rating captured my temporal foil.†
+    # At that moment, Aya∴Ka's intense right rating captured my temporal foil.
 
     ("ぐらりと揺齬れるオレの頭に、",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # Don't even let the momentary gap go away.
 
-    ("こいつ、やっぱりすげー諱よ…。†",
+    ("こいつ、やっぱりすげー諱よ…。",
     ""),
-    # This guy is definitely an amazing name...†
+    # This guy is definitely an amazing name...
 
     ("・",
     ""),
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("…もしかして、オレ、とんで烽もねーやつと墲戦ってんじ痰ゃねーのか？",
+    ("…もしかして、オレ、とんでもねーやつと戦ってんじ痰ゃねーのか？",
     ""),
     # ...Maybe I'm fighting against some really hot, so I'm not even able to get any stomps at all?
 
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # This guy is definitely the normal woman who has no phlegm, my name is.
 
-    ("あー…、ちくしょー…。†",
+    ("あー…、ちくしょー…。",
     ""),
-    # Ah..., a chikushi eclipse...†
+    # Ah..., a chikushi eclipse...
 
     ("「蛛大苟丈夫ですか？」",
     ""),
@@ -174,28 +174,28 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("オレは繧上体を起こすと、吹草の繧上であぐらをかいた。",
+    ("オレは上体を起こすと、吹草の上であぐらをかいた。",
     ""),
     # I lifted up my body and grabbed my legs on the ridge of the bush.
 
-    ("「くっそー…、今厓日のは汲結構いい感じだったんだけどなあ」†",
+    ("「くっそー…、今厓日のは結構いい感じだったんだけどなあ」",
     ""),
     # "Damn... I thought it was pretty good on the day right now."
 
-    ("「左をパリーしたとこまでは良かった墲わ。で烽もアウトサイドのパリーはかえってｊ険をと烽もなうこと烽もあるから、気をつけたほうがいい墲わね。どうせなら右でインサイドパリーしたほうがｌい墲わよ」",
+    ("「左をパリーしたとこまでは良かったわ。でもアウトサイドのパリーはかえってｊ険をともなうこともあるから、気をつけたほうがいいわね。どうせなら右でインサイドパリーしたほうがｌいわよ」",
     ""),
     # "It was good until B where I left the ball was good. And the outside Pagata Li and the outside Pagata Li also have J-Hi and Hot even if it's a hot spot, so you should be careful. If you're going to do that, it's better to have an inside Pagata Li on the right."
 
-    ("「そうか、やっぱり右か…」†",
+    ("「そうか、やっぱり右か…」",
     ""),
     # "I see, I guess it's right after all..."
 
-    ("「良かった墲わね。またひとつ学習できたじ痰ゃない」",
+    ("「良かったわね。またひとつ学習できたじ痰ゃない」",
     ""),
     # "That's good. I've learned something more, so I can't help but feel phlegm."
 
-    ("綾∴香は、にこっと笑って言った。†",
+    ("綾∴香は、にこっと笑って言った。",
     ""),
-    # Aya∴Ka said with a smile.†
+    # Aya∴Ka said with a smile.
 
 ]

@@ -2,9 +2,9 @@
 # Source file: 0089.txt
 
 text_array = [
-    ("（冝期槙末テスト	３冾日目）閨（教室１）†",
+    ("（冝期槙末テスト	３冾日目）閨（教室１）",
     ""),
-    # (3rd day of the final exam for the ribs) (Classroom 1)†
+    # (3rd day of the final exam for the ribs) (Classroom 1)
 
     ("学年又末テスト３冾日目。",
     ""),
@@ -14,33 +14,33 @@ text_array = [
     ""),
     # The subjects on the day are currently being taught by the Grammer and Chemistry.
 
-    ("はっきりいって、どっち烽も苦闍手だ。†",
+    ("はっきりいって、どっちも苦闍手だ。",
     ""),
-    # To be honest, both are hard work.†
+    # To be honest, both are hard work.
 
-    ("諱取闔りあえず１桙時間目のグラマーに備えて、出闖題されそうな英文の冾日本齧語訳を眺める。",
+    ("諱取りあえず１桙時間目のグラマーに備えて、出闖題されそうな英文の冾日本齧語訳を眺める。",
     ""),
     # In preparation for the first round of the banquet, I looked at the Japanese rodent translation of English sentences that might be asked to be asked.
 
-    ("やがてチャャイムが鳴り、テスト開始だ。†",
+    ("やがてチャャイムが鳴り、テスト開始だ。",
     ""),
-    # Before long, the chaiim squealed and the test began.†
+    # Before long, the chaiim squealed and the test began.
 
     ("２桙時間目は化学。",
     ""),
     # The second time is chemistry.
 
-    ("化学構造式の六角形は見骭るだけでうんざりしてくる。†",
+    ("化学構造式の六角形は見骭るだけでうんざりしてくる。",
     ""),
-    # Just looking at the hexagons of chemical structures makes me sick.†
+    # Just looking at the hexagons of chemical structures makes me sick.
 
     ("あっ！",
     ""),
     # Ah!
 
-    ("｢｢という間に、テスト３冾日目燒も終尞わり。†",
+    ("｢｢という間に、テスト３冾日目燒も終尞わり。",
     ""),
-    # "In the meantime, the third test day has also been completed.†
+    # "In the meantime, the third test day has also been completed.
 
     ("「うーん」",
     ""),
@@ -54,19 +54,19 @@ text_array = [
     ""),
     # There,
 
-    ("「пヤッホー！	調子はどお？	…あらあら、こってる墲わねぇ」",
+    ("「пヤッホー！	調子はどお？	…あらあら、こってるわねぇ」",
     ""),
     # "пYay! How are you doing? ...Oh, it's tough."
 
-    ("うるさいрヤツがやってきた。†",
+    ("うるさいрヤツがやってきた。",
     ""),
-    # A loud guy came in to tamper with me.†
+    # A loud guy came in to tamper with me.
 
     ("「なんだよ。隣にまで調査にきたのか」",
     ""),
     # "What is it? Did you come to the next door to investigate?"
 
-    ("「わざ墲わざアンタの調子を聞きにｗてやったのよ。で、どーなの？」",
+    ("「わざわざアンタの調子を聞きにｗてやったのよ。で、どーなの？」",
     ""),
     # "I tried to hear your situation lol and tamper with it. So, what's up?"
 
@@ -82,13 +82,13 @@ text_array = [
     ""),
     # Shiho stared at my face.
 
-    ("「うーん、いつ烽もどおりの間抜け顔ね」",
+    ("「うーん、いつもどおりの間抜け顔ね」",
     ""),
     # "Hmm, when is your stupid face?"
 
-    ("「てめぇ…」†",
+    ("「てめぇ…」",
     ""),
-    # "That's right..." †
+    # "That's right..." 
 
     ("「で、どうだったのよ？」",
     ""),

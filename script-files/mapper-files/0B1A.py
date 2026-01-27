@@ -2,15 +2,15 @@
 # Source file: 0B1A.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント１）閨（選択綜Ｃ	フェイントを	の続き）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント１）閨（選択綜Ｃ	フェイントを	の続き）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, the battle for the balance event 1) (Continued from Selection C Feint)†
+    # (Aya∴Ka challenges Aya∴Ka, the battle for the balance event 1) (Continued from Selection C Feint)
 
     ("オレと綾∴香の実力差は明猪白。",
     ""),
     # The difference in ability between megare and Aya∴Ka is Akiii Shira.
 
-    ("本沫なら、その差をр埋めるために烽も、普虚をついたｊ襲攻ｍ撃で攻めたいとこだ。",
+    ("本沫なら、その差をр埋めるためにも、普虚をついたｊ襲攻ｍ撃で攻めたいとこだ。",
     ""),
     # If it's a pure drop, in order to fill the gap, he is also a man who attacks with a J-attack M-attack that involves a widespread breach.
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # However, it is highly likely that Aya∴Ka reads this and is aiming for the counter.
 
-    ("ならば、ここはまずフェイント、しかる繧後に攻ｍ撃だ！†",
+    ("ならば、ここはまずフェイント、しかる後に攻ｍ撃だ！",
     ""),
-    # So, first, feint it, then attack it after the attack!†
+    # So, first, feint it, then attack it after the attack!
 
-    ("オレは行く気梛満々の汲視諮で綾∴香をにらみ、前に出つつジャャブを｢｢。",
+    ("オレは行く気梛満々の視諮で綾∴香をにらみ、前に出つつジャャブを｢｢。",
     ""),
     # My gutsy glares at Aya∴Kara as I was fully eager to go, and as I came forward he spoke to Jaab, ".
 
@@ -34,13 +34,13 @@ text_array = [
     ""),
     # As Aya∴Ka's Ghoo robe twitches as she peers.
 
-    ("いまの反梍応、間瘧違いない。",
+    ("いまの反梍応、間違いない。",
     ""),
     # I'm sure it's hard to believe it's the current rebellious situation.
 
-    ("やはりカウンターを狙ってやがったな。†",
+    ("やはりカウンターを狙ってやがったな。",
     ""),
-    # As expected, they tried to target the counter.†
+    # As expected, they tried to target the counter.
 
     ("オレはすかさず前に出髀る、そして打つ！",
     ""),
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # I'm fine, I'm totally at it!
 
-    ("シャ、シャッ！†",
+    ("シャ、シャッ！",
     ""),
-    # Shah, Shah!†
+    # Shah, Shah!
 
     ("だが、綾∴香はｎ齊一重でスウェーする！",
     ""),
     # However, Aya∴Ka sweeps at N Sai Kazue!
 
-    ("か墲わされた！",
+    ("かわされた！",
     ""),
     # I was forced to stoke!
 
@@ -74,17 +74,17 @@ text_array = [
     ""),
     # My right hand is now fully extended.
 
-    ("やばい、と思った瞬間。†",
+    ("やばい、と思った瞬間。",
     ""),
-    # The moment I thought it was amazing.†
+    # The moment I thought it was amazing.
 
-    ("ひ繧ゅっ！",
+    ("ひゅっ！",
     ""),
     # Hitsuji!
 
-    ("青い閃光が魔走った。†",
+    ("青い閃光が魔走った。",
     ""),
-    # A blue flash of light ran through.†
+    # A blue flash of light ran through.
 
     ("スパアアアァァァァーーーーーーンッ！",
     ""),
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # I read it well, but the technique just couldn't keep up at all.
 
-    ("ちくしょう。†",
+    ("ちくしょう。",
     ""),
-    # Chikushi Ebi.†
+    # Chikushi Ebi.
 
-    ("「結構良かった墲わよ、いまの攻め。てっきり先關手必泄勝のｊ襲攻ｍ撃でｗ磯翌ﾆ思って、反ｔ撃を狙ってたの。そこでフェイントとは」",
+    ("「結構良かったわよ、いまの攻め。てっきり先關手必泄勝のｊ襲攻ｍ撃でｗ磯翌ﾆ思って、反ｔ撃を狙ってたの。そこでフェイントとは」",
     ""),
     # "It was pretty good, the attack I'm on now. I was really trying to get a J-raid, M-raid lol, I thought I'd try to hit the next day, and I was aiming for a counter-T. So what is feint?"
 
@@ -122,7 +122,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「素人だし軽くあしらおうと思ってたから、うっかり引っかかるとこだった墲わ」†",
+    ("「素人だし軽くあしらおうと思ってたから、うっかり引っかかるとこだったわ」",
     ""),
     # "I'm an amateur and I was thinking of putting it on a lighter side, so I was inadvertently caught on the spot."
 
@@ -130,13 +130,13 @@ text_array = [
     ""),
     # "It's no point if the phlegm doesn't continue after the snake."
 
-    ("「まあ、そうだけど、読み№合いで奄負けたのは、ちょっとショック。素人ってのをうまく逆闍手にとられた墲わ」",
+    ("「まあ、そうだけど、読み№合いで奄負けたのは、ちょっとショック。素人ってのをうまく逆闍手にとられたわ」",
     ""),
     # "Well, that's true, but the one who lost Amami in the reading No. 1 was a little bit shy. I was able to get the amateurs to be a good-looking guy."
 
-    ("「たまたまだけどな」†",
+    ("「たまたまだけどな」",
     ""),
-    # "It's just a coincidence though" †
+    # "It's just a coincidence though" 
 
     ("「あとは薰基本的な問題ね。パンチ、はっきり言って、素人丸出しよ」",
     ""),
@@ -146,12 +146,12 @@ text_array = [
     ""),
     # "Kuuu..."
 
-    ("なに烽も言い返せない。",
+    ("なにも言い返せない。",
     ""),
     # I can't say anything back.
 
-    ("くやしいが、たしかにそのとおりだ。†",
+    ("くやしいが、たしかにそのとおりだ。",
     ""),
-    # It's tampering, but it's certainly true.†
+    # It's tampering, but it's certainly true.
 
 ]

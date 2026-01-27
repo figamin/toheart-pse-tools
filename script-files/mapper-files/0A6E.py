@@ -2,7 +2,7 @@
 # Source file: 0A6E.txt
 
 text_array = [
-    ("（Ａ	ただの友だちだ。）†",
+    ("（Ａ	ただの友だちだ。）",
     ""),
     # (A Just a friend.)
 
@@ -30,19 +30,19 @@ text_array = [
     ""),
     # "Well, пかったんださいます"
 
-    ("「ん？」†",
+    ("「ん？」",
     ""),
-    # "yeah?"†
+    # "yeah?"
 
     ("なんだ、急に意味ありげな口調になりやがって。",
     ""),
     # What's that? Suddenly, it became a meaningful tone of good fortune and was tampering with it.
 
-    ("「には、特別に世話好きなお隣さんがいる烽もんねぇ」",
+    ("「には、特別に世話好きなお隣さんがいるもんねぇ」",
     ""),
     # "There's a neighbor who is particularly caring for you."
 
-    ("「おい、くだんねえこと言ってんじ痰ゃ…」†",
+    ("「おい、くだんねえこと言ってんじ痰ゃ…」",
     ""),
     # "Hey, you say something ugly, phlegm..."
 
@@ -58,43 +58,43 @@ text_array = [
     ""),
     # Erie Ochisou-chan, do you know Akari?
 
-    ("と、再び志保が、オレの腕を垂乱暴に引っぱる。†",
+    ("と、再び志保が、オレの腕を垂乱暴に引っぱる。",
     ""),
-    # Then, Shiho violently pulls my arms back.†
+    # Then, Shiho violently pulls my arms back.
 
     ("「なんだよ、さっきから！」",
     ""),
     # "What is it, since before!"
 
-    ("「あの子、あんたのこと調べ繧上げてるみたいよ。あかりはр私と痰違って、有名って墲わけじ痰ゃないからね」",
+    ("「あの子、あんたのこと調べ上げてるみたいよ。あかりはр私と痰違って、有名ってわけじ痰ゃないからね」",
     ""),
     # "That girl seems to have researched you. Akari is different from my own, and it's because famous people don't have to be phlegm."
 
-    ("「だからなんだってんだよ？」†",
+    ("「だからなんだってんだよ？」",
     ""),
     # "So what is it?"
 
-    ("「にっぶい墲わね〜。何でできてんのかしら、あんたの脳ミソって？」",
+    ("「にっぶいわね〜。何でできてんのかしら、あんたの脳ミソって？」",
     ""),
     # "You're so crazy. I wonder why it's made of, what's your brain's trait?"
 
-    ("「少なくと烽も、てめえのよりは良い材質でできてるぜ」",
+    ("「少なくとも、てめえのよりは良い材質でできてるぜ」",
     ""),
     # "At least, the hot water is made of better materials than the best."
 
-    ("「いちいち可愛くない墲わね〜」",
+    ("「いちいち可愛くないわね〜」",
     ""),
     # "Everyone isn't cute!"
 
-    ("ムッとしてみせたかと思うと、今度は真武剣な顔で揩理女緒ち痰ゃんにｌき直った。",
+    ("ムッとしてみせたかと思うと、今度は真武剣な顔で理女緒ち痰ゃんにｌき直った。",
     ""),
     # Just as I was irritated, she turned to a smug look on her face as if it were a Shinbu sword.
 
-    ("「どんなネット純ワークを揩持ってるのか墲わからないけど、とあかりの関係をかぎつけるとは大した烽ものね。",
+    ("「どんなネット純ワークを持ってるのかわからないけど、とあかりの関係をかぎつけるとは大したものね。",
     ""),
     # "I don't know what kind of network work he has, but it's a huge hit to pinpoint Akari's relationship.
 
-    ("第齣一沿級のジャャーナリズムだ墲わ」†",
+    ("第齣一沿級のジャャーナリズムだわ」",
     ""),
     # It's Jaana Ratta Rhythm, a class of first-class people."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Hey, I'm saying something incomprehensible, so I have no phlegm."
 
-    ("「なによ！	ひょっとしたらр私の奄ライバルになるか烽も知れないのよ」",
+    ("「なによ！	ひょっとしたらр私の奄ライバルになるかも知れないのよ」",
     ""),
     # "What! Maybe I'll be able to cry my Amami Raiba and I can't even know."
 
@@ -122,23 +122,23 @@ text_array = [
     ""),
     # "Um, I don't have a computer, so that's not the case... I'm not very knowledgeable about internet-like topics..."
 
-    ("再び志保がオレの腕を引っぱる。†",
+    ("再び志保がオレの腕を引っぱる。",
     ""),
-    # Shiho pulls my arm again.†
+    # Shiho pulls my arm again.
 
     ("「だーっ！	うざってーな、オ＜メーはっ！」",
     ""),
     # "Damn! That's annoying, oh!"
 
-    ("「やっぱり、あの子、ただ者じ痰ゃない墲わ」",
+    ("「やっぱり、あの子、ただ者じ痰ゃないわ」",
     ""),
     # "As expected, that child is just a slut."
 
-    ("「まあ、ある意味、ただ者じ痰ゃねーけどな」†",
+    ("「まあ、ある意味、ただ者じ痰ゃねーけどな」",
     ""),
     # "Well, in a way, it's just merely a phlegm."
 
-    ("「あんた烽も聞いたでしょ？	ネット純ワークって言ったら、真っ先にインターネットを連想した墲わ。",
+    ("「あんたも聞いたでしょ？	ネット純ワークって言ったら、真っ先にインターネットを連想したわ。",
     ""),
     # "You've heard of it too, slut? When I said "network," I was the first thing that reminded me of the Internet.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # After all, it's exactly as I saw it."
 
-    ("「そんなのたまたまだ？	インターネットってど烽もってたぜ」",
+    ("「そんなのたまたまだ？	インターネットってどもってたぜ」",
     ""),
     # "Is that something like that just happening b? I had a lot of steam on the internet."
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # "That's just a coincidence. You can't help it."
 
-    ("「どっちがだ。それより、あかりを揩持ち出して話をややこしくするのはやめ」†",
+    ("「どっちがだ。それより、あかりを持ち出して話をややこしくするのはやめ」",
     ""),
     # "Which one is more? Instead, stop tampering with the light and tampering with it b"
 
-    ("「この際、それは烽もうどうで烽もいい墲わ」",
+    ("「この際、それはもうどうでもいいわ」",
     ""),
     # "How about that, at this point, it's nice, isn't it?"
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # "What is that phlegm?"
 
-    ("「п私、ちょっとあの子に興味が出てきた墲わ」",
+    ("「п私、ちょっとあの子に興味が出てきたわ」",
     ""),
     # "I'm a little interested in that girl."
 
-    ("そう言って志保は、少しとまどう揩理女緒ち痰ゃんにｌき直髓る。¶",
+    ("そう言って志保は、少しとまどう理女緒ち痰ゃんにｌき直髓る。¶",
     ""),
     # With that in mind, Shiho suddenly sniffs into the spurt.¶
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Ah, um..."
 
-    ("「ね、浴雛山さん。せっかくだから、そこまでごいっしょしましょ。",
+    ("「ね、雛山さん。せっかくだから、そこまでごいっしょしましょ。",
     ""),
     # "Hey, Bath Hinayama-san. Since we're going to have it, we're going to give you such a great slut.
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "They're part-time jobs, b. What's that all of you?
 
-    ("理女緒ち痰ゃん烽も、こんなやつに遠慮しなくていいんだぜ？」∵",
+    ("理女緒ち痰ゃんも、こんなやつに遠慮しなくていいんだぜ？」∵",
     ""),
     # Even Rimo Ochi Shoyanchou doesn't have to be shy about such tampering things, right?”∵
 
@@ -202,15 +202,15 @@ text_array = [
     ""),
     # "Look here."
 
-    ("「オ＜メーがいばるこっち痰ゃねーだ」†",
+    ("「オ＜メーがいばるこっち痰ゃねーだ」",
     ""),
     # "Oh, I'm gonna have to sputum here b"
 
-    ("いっしょに烽歩きながら、志保は揩理女緒ち痰ゃんに、オレとあかりを汲結びつける、どんな薰情報ソースを揩持ってるのかをさかんに聞き出そうとしていた。",
+    ("いっしょに歩きながら、志保は理女緒ち痰ゃんに、オレとあかりを結びつける、どんな薰情報ソースを持ってるのかをさかんに聞き出そうとしていた。",
     ""),
     # As they walked around, Shiho was trying to find out what kind of information source he had to connect me with Akari.
 
-    ("しかし、掾理女緒ち痰ゃんのほうは自分がなにをたずねられているか、まったく墲わかってない様子で、志保はかなりじれったそうだった。≫",
+    ("しかし、掾理女緒ち痰ゃんのほうは自分がなにをたずねられているか、まったくわかってない様子で、志保はかなりじれったそうだった。≫",
     ""),
     # However, it seemed that Shiho was quite frustrated, as he had no idea what he was being asked.≫
 
@@ -230,11 +230,11 @@ text_array = [
     ""),
     # "It's almost time for the tuna celebratory festival. That's it, sphemy, kun, see you later."
 
-    ("ニッコリと笑って、掾理女緒ち痰ゃんは獅去っていった。†",
+    ("ニッコリと笑って、掾理女緒ち痰ゃんは去っていった。",
     ""),
-    # With a smile on his face, the lion went away.†
+    # With a smile on his face, the lion went away.
 
-    ("「なるほどね、読めた墲わ」",
+    ("「なるほどね、読めたわ」",
     ""),
     # "I see, I can read it."
 
@@ -242,23 +242,23 @@ text_array = [
     ""),
     # Shiho nodded with a face.
 
-    ("「﨟情報ソースはバイト諠先って墲わけね」",
+    ("「﨟情報ソースはバイト諠先ってわけね」",
     ""),
     # "﨟Information sources are byte-based companies, so it's a good idea to use them."
 
-    ("こいつ、まだ言ってやがる。†",
+    ("こいつ、まだ言ってやがる。",
     ""),
-    # This guy still says it and tampers with it.†
+    # This guy still says it and tampers with it.
 
-    ("「さっきはインターネットとか言ってたじ痰ゃねえか。それに、どうやって烽も揩理女緒ち痰ゃんが魔事諶情通には見えねえけどな」",
+    ("「さっきはインターネットとか言ってたじ痰ゃねえか。それに、どうやっても理女緒ち痰ゃんが魔事諶情通には見えねえけどな」",
     ""),
     # "You said the Internet earlier, you're talking about it, so you're not phlegm. Also, how can you tamper with it, you don't look like a magical friend."
 
-    ("「あんたみたいなアナ鴻ログ星人に墲わかる墲わけないじ痰ゃない」",
+    ("「あんたみたいなアナ鴻ログ星人にわかるわけないじ痰ゃない」",
     ""),
     # "There's no way an Ana Honglog alien like you can understand it, so there's no way there's no way there's no way there's no way there's no way there."
 
-    ("「けっ。自分だってインターネットなんかやってねえくせに」†",
+    ("「けっ。自分だってインターネットなんかやってねえくせに」",
     ""),
     # "Ahhh. I haven't tampered with the Internet either."
 
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # "Hey, don't move on to the story."
 
-    ("あながち間瘧違いじ痰ゃないが、なんとなくでっち繧上げられてるような気がする。†",
+    ("あながち間違いじ痰ゃないが、なんとなくでっち上げられてるような気がする。",
     ""),
-    # Although it's not too bad, I feel like I've somehow managed to get the sputum up.†
+    # Although it's not too bad, I feel like I've somehow managed to get the sputum up.
 
     ("「あんまりうるせーと、おいてくぞ」",
     ""),
@@ -294,9 +294,9 @@ text_array = [
     ""),
     # The reason why you're not popular is that sometimes you get a lot of popularity and get a lot of attention right away."
 
-    ("「′郁健ｾ。おいてく」†",
+    ("「′郁健ｾ。おいてく」",
     ""),
-    # "'Ikukense. I'll leave you" †
+    # "'Ikukense. I'll leave you" 
 
     ("「あらら。待ちなさいよ、ばかー！！」◯",
     ""),

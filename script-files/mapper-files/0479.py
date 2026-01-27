@@ -2,19 +2,19 @@
 # Source file: 0479.txt
 
 text_array = [
-    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（校蜊門）†",
+    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（校門）",
     ""),
-    # (Shiho's exam day return PS) (School Gate)†
+    # (Shiho's exam day return PS) (School Gate)
 
     ("「諱よお、クン」",
     ""),
     # "My name is, kun."
 
-    ("校蜊門を出たとこで、志保がやってきた。",
+    ("校門を出たとこで、志保がやってきた。",
     ""),
     # When I left the school gate, Shiho came to tamper with me.
 
-    ("「なんだよ」†",
+    ("「なんだよ」",
     ""),
     # "What is it?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # As I said, I slap my hardcore shoulder.
 
-    ("「お前、いつ烽も楽しそうだな」",
+    ("「お前、いつも楽しそうだな」",
     ""),
     # "You'll always look like hot springs are fun."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Are you worried?
 
-    ("「チッチッチ、瘁違う墲わね…。",
+    ("「チッチッチ、瘁違うわね…。",
     ""),
     # "Ticchic, it's a different twilight...
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Every day is fun, but I'm not phlegmy, and I'm dying for the Inumata thunder."
 
-    ("「同じじ痰ゃねーか」†",
+    ("「同じじ痰ゃねーか」",
     ""),
     # "You've got the same phlegm?"
 
-    ("「瘁違う墲わよぉ。この、くだらない世のｒを、あたしはあ・え・て、楽しんであげてるのよ」",
+    ("「瘁違うわよぉ。この、くだらない世のｒを、あたしはあ・え・て、楽しんであげてるのよ」",
     ""),
     # "It's a different kind of shit. I'm enjoying this silly world."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "In the end, it's fun, isn't it?"
 
-    ("「ま、そうと烽も言う墲わね〜♪」",
+    ("「ま、そうとも言うわね〜♪」",
     ""),
     # "Well, you're saying that, even Kao is saying that~♪"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Idiot..."
 
-    ("「アホじ痰ゃない墲わよ。そんなことよりさ、今からどっか遊びに行かない？」†",
+    ("「アホじ痰ゃないわよ。そんなことよりさ、今からどっか遊びに行かない？」",
     ""),
     # "Idiot, you're not phlegmy. More than that, why don't you go out and have fun somewhere now?"
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "What do you say, like Professor Isao?"
 
-    ("「なに烽も帰って勉強しなんて言甯わねえよ。オレはオレで用があるから帰驪るんだ。ほか魔当たってくれ」†",
+    ("「なにも帰って勉強しなんて言甯わねえよ。オレはオレで用があるから帰驪るんだ。ほか魔当たってくれ」",
     ""),
-    # "What do you mean, you can go home and study, and you can't say b. I'm a geek, so I have something to do, so I'll go back. I'll hit the geek."†
+    # "What do you mean, you can go home and study, and you can't say b. I'm a geek, so I have something to do, so I'll go back. I'll hit the geek."
 
-    ("「そんなこと言甯わないでさぁ、どうせ汲昼寝かビデオで烽も見骭るんでしょ？	だったらあたしにつき№合ってよ〜」",
+    ("「そんなこと言甯わないでさぁ、どうせ昼寝かビデオでも見骭るんでしょ？	だったらあたしにつき№合ってよ〜」",
     ""),
     # "Don't say that, I'll probably be taking a nap or watching Hot on the video anyway, so I'll be watching it? Then, I'll get the number one for me."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Shiho says pretty sharp things.
 
-    ("こいつと烽もつき№合いは長い方だからな…。",
+    ("こいつともつき№合いは長い方だからな…。",
     ""),
     # This guy and the hottest guy are a long-term lucky guy...
 

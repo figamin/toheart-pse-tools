@@ -2,7 +2,7 @@
 # Source file: 00DE.txt
 
 text_array = [
-    ("（３獅月９冾日	イベントないなら）閨（冝日付イベントにする）閨（潤居間を掃恆除する）閨（潤居間）†",
+    ("（３月９冾日	イベントないなら）閨（冝日付イベントにする）閨（潤居間を掃恆除する）閨（潤居間）†",
     ""),
     # (If there is no event, if there is no event) (March Lion Moon 9th Day) (Make it a date event) (Make it a cleaning event) (Make it clears the Jun living room) (Make it clears the Jun living room) †
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # Quickly.†
 
-    ("き繧ゅっ、き繧ゅっ、き繧ゅっ、き繧ゅっ。",
+    ("きゅっ、きゅっ、きゅっ、きゅっ。",
     ""),
     # A little bit, a little bit, a little bit, a little bit, a little bit.
 
-    ("き繧ゅっ、き繧ゅっ、き繧ゅっ、き繧ゅっ。†",
+    ("きゅっ、きゅっ、きゅっ、きゅっ。†",
     ""),
     # A little bit, a little bit, a little bit, a little bit, a little bit.†
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # It's a phlegm.†
 
-    ("『もし烽もし、神岸ですが｢｢』",
+    ("『もしもし、神岸ですが｢｢』",
     ""),
     # "If it's Kamigan, it's ""
 
-    ("「あ、もし烽もし、オレだ」",
+    ("「あ、もしもし、オレだ」",
     ""),
     # "Ah, if it's hot, I'm super excited."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Ah, hello... um, do you have an Akari shield?"
 
-    ("『え、ち痰ゃんなの？	あかり？	ああ、ゴ＜メンね。今朝£早くに出かけち痰ゃったのよ』",
+    ("『え、ち痰ゃんなの？	あかり？	ああ、ゴ＜メンね。今朝早くに出かけち痰ゃったのよ』",
     ""),
     # "What, are you sputum?Light?Ah, that's good.I went out early this morning and got some phlegm."
 

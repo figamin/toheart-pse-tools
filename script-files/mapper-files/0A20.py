@@ -2,15 +2,15 @@
 # Source file: 0A20.txt
 
 text_array = [
-    ("（掾理女緒	好感度イベント	図草書館）閨（回秤数イベント	帰驪る	ＬＶ１	を通過していること）閨（昼休み）閨（教室	ａモブ）†",
+    ("（掾理女緒	好感度イベント	図草書館）閨（回秤数イベント	帰驪る	ＬＶ１	を通過していること）閨（昼休み）閨（教室	ａモブ）",
     ""),
-    # (Erimeo's Likeability Event Cursive Library) (Through the balance event, the number of times you must pass LV1) (Lunch break) (Long-day break) (Classroom a Mob) †
+    # (Erimeo's Likeability Event Cursive Library) (Through the balance event, the number of times you must pass LV1) (Lunch break) (Long-day break) (Classroom a Mob) 
 
-    ("昼£メシをモ買って教室に戻ってくると、机の繧上になにかｎきれが置かれていた。",
+    ("昼メシをモ買って教室に戻ってくると、机の上になにかｎきれが置かれていた。",
     ""),
     # When I bought some rice dishes for lunch and returned to the classroom, I saw something was left on the table.
 
-    ("「なんだこり痰ゃ？」†",
+    ("「なんだこり痰ゃ？」",
     ""),
     # "What's the stiff phlegm?"
 
@@ -18,13 +18,13 @@ text_array = [
     ""),
     # "Request letter"
 
-    ("現在、あなたの借闔りている図草書は返却匤期限をこえています。本坙日湯に返却するか、п延長闥手続きをとって下さい。",
+    ("現在、あなたの借りている図草書は返却匤期限をこえています。本坙日湯に返却するか、п延長闥手続きをとって下さい。",
     ""),
     # Currently, your cursive book is over the deadline for returning it.Please return it to Honshunhiyu or follow the extension procedure.
 
-    ("図草書委員会』†",
+    ("図草書委員会』",
     ""),
-    # Cursive Commission"†
+    # Cursive Commission"
 
     ("「とくそくじょう？」",
     ""),
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("「図草書委員会から返せって催促。で烽もオレ、なんか本借闔りてたっけか？」",
+    ("「図草書委員会から返せって催促。でもオレ、なんか本借りてたっけか？」",
     ""),
     # "The Cursive Script Committee asks you to give it back. And I was also extremely excited, did you borrow some books?"
 
-    ("「前のやつじ痰ゃないの？	いっしょに借闔りたやつ」",
+    ("「前のやつじ痰ゃないの？	いっしょに借りたやつ」",
     ""),
     # "Isn't there any phlegm from the previous tampering? The one that I borrowed from the epee?"
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「なんかタイトルが面猪白そうだって」†",
+    ("「なんかタイトルが面猪白そうだって」",
     ""),
-    # "It looks like the tight crying is a bit of a frizzy" †
+    # "It looks like the tight crying is a bit of a frizzy" 
 
-    ("「ああ、そういや、なんか借闔りたような…」",
+    ("「ああ、そういや、なんか借りたような…」",
     ""),
     # "Ah, it's like I've borrowed something..."
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # oh yeah.
 
-    ("借闔りたはいいけど、たしか最燕初のほうだけ読んでそれっきりだ。†",
+    ("借りたはいいけど、たしか最燕初のほうだけ読んでそれっきりだ。",
     ""),
-    # I'm fine with renting it, but I think I only read the first one from Saisen and that's it.†
+    # I'm fine with renting it, but I think I only read the first one from Saisen and that's it.
 
     ("「…ってことはだ」",
     ""),
@@ -82,19 +82,19 @@ text_array = [
     ""),
     # "Ah, I was buried while I was in the thinning textbook."
 
-    ("薄っぺらい本だからな。†",
+    ("薄っぺらい本だからな。",
     ""),
-    # It's a thin, polished book.†
+    # It's a thin, polished book.
 
-    ("「要は今厓日湯に返し痰ゃいいんだ？	冝放課繪後にで烽も寄ってくか」",
+    ("「要は今厓日湯に返し痰ゃいいんだ？	冝放課繪後にでも寄ってくか」",
     ""),
     # "The point is that you should just return it to the surgeon at the bayan bath now? Is it okay if I come over to the hot spring after the school is over?"
 
-    ("「で烽も、わざ墲わざこんなの配ってるなんて、図草書委員煦も大変だな」",
+    ("「でも、わざわざこんなの配ってるなんて、図草書委員煦も大変だな」",
     ""),
     # "And it's tough for the cursive script committee member Han to say that he's bothering to hand out such things on purpose."
 
-    ("「まったくだな。で烽も、どうせこんなｎきれ配髞るくらいなら、本を回精収すり痰ゃいいのによ。気がｗかねーな」",
+    ("「まったくだな。でも、どうせこんなｎきれ配髞るくらいなら、本を回精収すり痰ゃいいのによ。気がｗかねーな」",
     ""),
     # "That's absolutely true. And if you're going to give out this many n-stop anyway, you should just smear the book. I wonder if it's lol."
 

@@ -2,9 +2,9 @@
 # Source file: 0699.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ａ	記念にネコプリしようぜ）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ａ	記念にネコプリしようぜ）",
     ""),
-    # (Macyu Ruchi, Scales Event 2F LV4) (Choice A, let's make a commemorative Nekopukulato)†
+    # (Macyu Ruchi, Scales Event 2F LV4) (Choice A, let's make a commemorative Nekopukulato)
 
     ("「マルチ、最纃後の記念にネコプリしようぜ」",
     ""),
@@ -18,19 +18,19 @@ text_array = [
     ""),
     # "What is Nekopugatari?"
 
-    ("「ふたりで写真撮ってシールにするрヤツだよ。ほら、そこのゲーセンにあるрヤツ」†",
+    ("「ふたりで写真撮ってシールにするрヤツだよ。ほら、そこのゲーセンにあるрヤツ」",
     ""),
-    # "They're the ones who take photos and use stickers together. See, the ones in the arcade over there." †
+    # "They're the ones who take photos and use stickers together. See, the ones in the arcade over there." 
 
     ("「あれですか？」",
     ""),
     # "Is that?"
 
-    ("「そうそう。記念にいっしょに撮獅うぜ」",
+    ("「そうそう。記念にいっしょに撮うぜ」",
     ""),
     # "That's right. I'll take a picture of the lily as a commemorative photo."
 
-    ("「はい、♀んで！」†",
+    ("「はい、♀んで！」",
     ""),
     # "Yes, it's a female!"
 
@@ -46,17 +46,17 @@ text_array = [
     ""),
     # ・
 
-    ("「できたシールを取齊れニャャン」†",
+    ("「できたシールを取齊れニャャン」",
     ""),
-    # "Get the finished stickers, nyan" †
+    # "Get the finished stickers, nyan" 
 
-    ("「わあ、さんと墲わたしがたくさん写ってますー」",
+    ("「わあ、さんとわたしがたくさん写ってますー」",
     ""),
     # "Ahhh, there are lots of people and me in pictures."
 
-    ("機械から出てきた写真を眺めて、マルチは顔をほこばせた。†",
+    ("機械から出てきた写真を眺めて、マルチは顔をほこばせた。",
     ""),
-    # Looking at the photo that came out of the machine, Ruchi Makkuri turned his face.†
+    # Looking at the photo that came out of the machine, Ruchi Makkuri turned his face.
 
     ("「諱よし、じ痰ゃ、これを…」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Look, half at a time."
 
-    ("備えつけのはさみで半分に切って、片荿方をマルチに手渡した。†",
+    ("備えつけのはさみで半分に切って、片荿方をマルチに手渡した。",
     ""),
-    # He cut it in half with the provided scissors and handed the one-sided side to Makruchi.†
+    # He cut it in half with the provided scissors and handed the one-sided side to Makruchi.
 
     ("マルチはネコプリシールの写真を大切そうに胸に魔当てると、",
     ""),
@@ -82,8 +82,8 @@ text_array = [
     ""),
     # "Thank you! I'll take good care of you."
 
-    ("明髢るい笑迴顔でそう言った。†",
+    ("明髢るい笑顔でそう言った。",
     ""),
-    # He said with a sly smile.†
+    # He said with a sly smile.
 
 ]

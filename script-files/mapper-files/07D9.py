@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "I've got a talk, but is that okay?"
 
-    ("オレは烽もう一度聞いた。",
+    ("オレはもう一度聞いた。",
     ""),
     # I listened to it again.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "You know, I heard that Ugh Wasa's eccentricity...I wonder if you can use your supernatural powers."
 
-    ("オレが聞くと彼濫女、一瞬悲しげな表﨣情をして目を嘯伏せた。",
+    ("オレが聞くと彼女、一瞬悲しげな表﨣情をして目を嘯伏せた。",
     ""),
     # When I heard, my boyfriend and woman looked down at me for a moment in a sad, gross-like atmosphere.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "...I have superpowers."
 
-    ("「マジ？	じ痰ゃあ、やっぱあのときガラスがр割れたの烽も｢｢」",
+    ("「マジ？	じ痰ゃあ、やっぱあのときガラスがр割れたのも｢｢」",
     ""),
     # "Really? I'm not sure what to do with the banquet that time was broken, but the hot spring was ""
 

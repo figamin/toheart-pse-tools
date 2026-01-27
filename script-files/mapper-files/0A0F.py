@@ -2,9 +2,9 @@
 # Source file: 0A0F.txt
 
 text_array = [
-    ("（掾理女緒	回秤数イベント）閨（１Ｆ	ＬＶ１）閨（１Ｆ廊下）†",
+    ("（掾理女緒	回秤数イベント）閨（１Ｆ	ＬＶ１）閨（１Ｆ廊下）",
     ""),
-    # (Erie Moo O's Scales Event) (1F LV1) (1F corridor)†
+    # (Erie Moo O's Scales Event) (1F LV1) (1F corridor)
 
     ("下駄箱前までｗたときだ。",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Dadada...
 
-    ("階段の繧上のほうからドタバタと慌ただしい音が聞こえてきた。",
+    ("階段の上のほうからドタバタと慌ただしい音が聞こえてきた。",
     ""),
     # A slapstick sound came from above the stairs.
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("立ち止まり、見上げるオレ。†",
+    ("立ち止まり、見上げるオレ。",
     ""),
-    # I stopped and looked up.†
+    # I stopped and looked up.
 
     ("ダダダダダダ…！",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # It was a surge to the dance hall at a rapid pace that led to the dance.
 
-    ("二段飛ばしで階段を駆け下濶りてくる。†",
+    ("二段飛ばしで階段を駆け下濶りてくる。",
     ""),
-    # He skips two steps and moves down the stairs.†
+    # He skips two steps and moves down the stairs.
 
     ("目の前を通過しようとしたとき、",
     ""),
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # It stalls and ruins the banquet lance.
 
-    ("だが、掾理女緒ち痰ゃんはそこで根性をみせて、どうにか体勢をキープする。†",
+    ("だが、掾理女緒ち痰ゃんはそこで根性をみせて、どうにか体勢をキープする。",
     ""),
-    # However, Erime Ochi Sphinyan shows his determination there and somehow maintains his position.†
+    # However, Erime Ochi Sphinyan shows his determination there and somehow maintains his position.
 
     ("「諱よかった。また転んじ痰ゃうとこだった」",
     ""),
     # "I'm glad you said this. I fell down again and it was a sputum."
 
-    ("「なあ、掾理女緒ち痰ゃん。階段ぐらい、もう少し獅落ちｒいて下濶りてきたらどうだ？」",
+    ("「なあ、掾理女緒ち痰ゃん。階段ぐらい、もう少し落ちｒいて下濶りてきたらどうだ？」",
     ""),
     # "Hey, I'm not gonna have a stomp. How about a lion falling a little more, about the stairs and leaning down?"
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "It's just a day I just happened to be. Ahaha..."
 
-    ("ほんとかよ。†",
+    ("ほんとかよ。",
     ""),
-    # Is it true?†
+    # Is it true?
 
     ("オレは｢｢。",
     ""),

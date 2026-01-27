@@ -2,11 +2,11 @@
 # Source file: 00B7.txt
 
 text_array = [
-    ("（４獅月１７冾日）閨（自室）†",
+    ("（４月１７冾日）閨（自室）†",
     ""),
     # (4th 17th day of the month) (my room)
 
-    ("４獅月１７冾日、木曜坥日。",
+    ("４月１７冾日、木曜坥日。",
     ""),
     # Fourth Lion's 17th day, Thursday's day.
 

@@ -2,15 +2,15 @@
 # Source file: 0398.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ａ	いっしょに帰汲うかと誘う）閨（選択綜Ａ	志保を信じる	の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ａ	いっしょに帰うかと誘う）閨（選択綜Ａ	志保を信じる	の続き）†",
     ""),
     # (Tomoko's Scales Event: Departing from School LV1) (Selection A invites you to return to Isshibe) (Selection A Continued from Selection A Conceived in Shiho) †
 
-    ("「そうだな。火のないとこに撃煙は立たず、と烽も言うしな。",
+    ("「そうだな。火のないとこに撃煙は立たず、とも言うしな。",
     ""),
     # "That's right. Kao also says that no smoke will be raised in the fire-free cousin.
 
-    ("高校生と烽もなればそれくらいの表裏があって烽もおかしくねー諱よな」",
+    ("高校生ともなればそれくらいの表裏があってもおかしくねー諱よな」",
     ""),
     # When it comes to high school students and hot springs, there are that many fronts and back springs, so it's not strange, isn't it?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Well, as only this shield case, I will keep it in mind as a reference only, and I will tamper with it."
 
-    ("「なによ、素直じ痰ゃない墲わね。",
+    ("「なによ、素直じ痰ゃないわね。",
     ""),
     # "What, you're not honest with me.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "What do you want me to say?"
 
-    ("「『さすがは志保ち痰ゃん薰情報、いつ烽もいつ烽も浮助かります翌＠』とかさ」",
+    ("「『さすがは志保ち痰ゃん薰情報、いつもいつも浮助かります翌＠』とかさ」",
     ""),
     # "As expected from Shiho's information, it's a relief to see when the hot springs and when the hot springs are, and it's a relief for the next day."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Feel"
 
-    ("オレは背白をｌけて烽歩き出した。†",
+    ("オレは背白をｌけて歩き出した。†",
     ""),
     # I started walking around with a loud bluff.†
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # "Wait a second! Is that your thanks?!"
 
-    ("「本末当かどうかｌまった墲わけじ痰ゃねーだ。保留だ、保留」",
+    ("「本末当かどうかｌまったわけじ痰ゃねーだ。保留だ、保留」",
     ""),
     # "I don't know if it's the end of the day, so I have no choice. I'm holding it, hold it."
 
-    ("「ムカつく墲わねぇ！」†",
+    ("「ムカつくわねぇ！」†",
     ""),
     # "I'm so annoyed!"
 
-    ("それにして烽も…だ。",
+    ("それにしても…だ。",
     ""),
     # And so is Hot...
 
-    ("志保の薰情報がデタラ＜メじ痰ゃないとして烽も、あの真面目そうな委員長が…ねえ。",
+    ("志保の薰情報がデタラ＜メじ痰ゃないとしても、あの真面目そうな委員長が…ねえ。",
     ""),
     # Shiho's information is a banquet <Kana, who is not sputum, but that serious-looking chairman...hey.
 

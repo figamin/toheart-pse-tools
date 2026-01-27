@@ -2,9 +2,9 @@
 # Source file: 04F3.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（４／２３固定）閨（アーケード街）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（４／２３固定）閨（アーケード街）",
     ""),
-    # (Shiho Scales Event PS) (4/23rd) (Arcade Street) †
+    # (Shiho Scales Event PS) (4/23rd) (Arcade Street) 
 
     ("「おっ…」",
     ""),

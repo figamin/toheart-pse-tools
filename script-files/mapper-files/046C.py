@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "I don't want to go."
 
-    ("「なによ〜、つれない墲わね〜」",
+    ("「なによ〜、つれないわね〜」",
     ""),
     # "What? You're so grossing!"
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "I was looking for it..."
 
-    ("「またヒマなときにで烽も声かけてくれ」",
+    ("「またヒマなときにでも声かけてくれ」",
     ""),
     # "Please call out to me when you're free again."
 
-    ("オレはスタスタ焜歩き出した。",
+    ("オレはスタスタ歩き出した。",
     ""),
     # I started walking around in Star Stadium.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I'm still not getting enough phlegm now."
 
-    ("こんなときのオレになにを言って烽も無駄と知っている志保は、追って烽もこなかった。◯",
+    ("こんなときのオレになにを言っても無駄と知っている志保は、追ってもこなかった。◯",
     ""),
     # Shiho, who had said what he was saying to me at a time like this, knew that Hot was useless, but he didn't even get any Hot after.◯
 

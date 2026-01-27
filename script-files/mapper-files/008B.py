@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "...The answer is C (carbon)."
 
-    ("意外に烽もあっさりと嘯答えてくる。†",
+    ("意外にもあっさりと嘯答えてくる。†",
     ""),
     # Surprisingly, the hot answer also came out easily.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "And how's going on over there?"
 
-    ("「あたし？	同じく、まあまあとだけ言っておく墲わ」†",
+    ("「あたし？	同じく、まあまあとだけ言っておくわ」†",
     ""),
     # "Me? I'll just say it later." †
 

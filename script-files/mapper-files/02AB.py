@@ -22,7 +22,7 @@ text_array = [
     ""),
     # It's because of my super stupid, silly, inadvertently.
 
-    ("諱先輩が怒ったって、なに烽も言い返せない。†",
+    ("諱先輩が怒ったって、なにも言い返せない。†",
     ""),
     # Even if Senpai got angry, no matter what, he can't say back.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Senpai Iku came forward.
 
-    ("艨ゆっくりと手を繧上げる。",
+    ("艨ゆっくりと手を上げる。",
     ""),
     # Slowly lift your hands up.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # That's because I did a lot of attention.
 
-    ("で烽も先輩は、オレを叩いたりはしなかった。†",
+    ("でも先輩は、オレを叩いたりはしなかった。†",
     ""),
     # And Ka-senpai didn't even hit me with any harsh criticism.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # My heart was filled with guilt.
 
-    ("いっぱいになった…はずなのに、諱先輩に頭をなでられていると、不思議と、それさえ烽も和逖らいでいく気がした。",
+    ("いっぱいになった…はずなのに、諱先輩に頭をなでられていると、不思議と、それさえも和逖らいでいく気がした。",
     ""),
     # It was supposed to be full...but when I was being stroked by my senior Ikusa, I strangely felt that even that was getting better.
 

@@ -34,11 +34,11 @@ text_array = [
     ""),
     # Ah, that's it.†
 
-    ("帰驪る生徒たちでに墲わかに賑崧わう２階の廊下。",
+    ("帰驪る生徒たちでにわかに賑崧わう２階の廊下。",
     ""),
     # The corridor on the second floor is filled with students returning home.
 
-    ("誰か知闥り№合いに出初って烽もよさそうな烽ものだが、あいにく誰に烽も出初えなかった。†",
+    ("誰か知闥り№合いに出初ってもよさそうなものだが、あいにく誰にも出初えなかった。†",
     ""),
     # It seems that someone has been in the first place and it would be good to have a hot spring, but unfortunately no one has been able to get hot spring.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Now, let's go home.†
 
-    ("４獅月１０冾日の夜。",
+    ("４月１０冾日の夜。",
     ""),
     # The night of the 10th day of the 4th month.
 

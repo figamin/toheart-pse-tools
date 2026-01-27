@@ -2,7 +2,7 @@
 # Source file: 0811.txt
 
 text_array = [
-    ("（戟レミィ	好感度イベント）閨（回秤数イベントを一つで烽も通過しているなら、「学校を出髀る」の手前に発生）閨（下駄箱）†",
+    ("（レミィ	好感度イベント）閨（回秤数イベントを一つでも通過しているなら、「学校を出髀る」の手前に発生）閨（下駄箱）",
     ""),
     # (An Emotional Remy Likeability Event) (If you have passed through one scale event, it will occur just before you leave school) (A shoe cabinet) (Shoe cabinet)
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # While I was re-wrapped in the shoe cabinet,
 
-    ("「Ｈ奄ｉ！	！」",
+    ("「Ｈ奄！	！」",
     ""),
     # "Hi Amai!!"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # A Japanese bitter word with an English-Japanese accent.
 
-    ("やっぱり彼濫女だ。",
+    ("やっぱり彼女だ。",
     ""),
     # He's a huge girl after all.
 
@@ -30,19 +30,19 @@ text_array = [
     ""),
     # "Haaaa."
 
-    ("オレは片阨手をあげてこたえた、が｢｢。†",
+    ("オレは片阨手をあげてこたえた、が｢｢。",
     ""),
-    # My heart raised my arm and answered, ".†
+    # My heart raised my arm and answered, ".
 
     ("「あれ？	お前のその格好…」",
     ""),
     # "Huh? That outfit you look..."
 
-    ("戟レミィが見なれない桙服封装をしていることに気がついた。",
+    ("レミィが見なれない桙服封装をしていることに気がついた。",
     ""),
     # I noticed that Garemy was wearing a flask that she couldn't see.
 
-    ("彼濫女熄もオレの見ている烽ものに気づき、",
+    ("彼女熄もオレの見ているものに気づき、",
     ""),
     # The girl who overwhelmed her noticed something that I was watching,
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "That guy, I'm in the Kyodo club!"
 
-    ("と、弾ける笑迴顔。†",
+    ("と、弾ける笑顔。",
     ""),
-    # And a bursting laughing face.†
+    # And a bursting laughing face.
 
     ("「キャードー？	…ああ、弓道箔部か」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # In addition, Ekiremi even told me the motivation for starting.
 
-    ("いかに烽も外人って感じの揩理由だな…。†",
+    ("いかにも外人って感じの理由だな…。",
     ""),
-    # This is the reason why Ho is so foreign...†
+    # This is the reason why Ho is so foreign...
 
     ("「いつ弓道箔部に入ったんだ？」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Wh... it's been about a year since I started."
 
-    ("「Ｙ入」†",
+    ("「Ｙ入」",
     ""),
-    # "Yb Tangari"†
+    # "Yb Tangari"
 
     ("「腕前の方は、どーなんだ？」",
     ""),
@@ -98,19 +98,19 @@ text_array = [
     ""),
     # I somehow asked.
 
-    ("戟レミィが弓を構えると、すごく絵になりそうな気がする。",
+    ("レミィが弓を構えると、すごく絵になりそうな気がする。",
     ""),
     # When Karemi holds up the bow, I feel like it would make a very picturesque.
 
-    ("服封装なんか洋覧風にすれば『浴女刻ロビンフッド』って感じでしっくりくる。",
+    ("服封装なんか洋覧風にすれば『女刻ロビンフッド』って感じでしっくりくる。",
     ""),
     # If you put a dressing up like a Western-style dress, it would look like "Bathman Robin Hood."
 
-    ("…とか思ってたら、†",
+    ("…とか思ってたら、",
     ""),
     # If you were thinking that...
 
-    ("「ぜーんぜんダ＜メね。どこに飛ぶか墲わからないの」",
+    ("「ぜーんぜんダ＜メね。どこに飛ぶかわからないの」",
     ""),
     # "It's completely ridiculous. I don't know where to fly."
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # The answer came back when the answer was wrong.
 
-    ("やっぱりカリフォルニアっ子の彼濫女には、吹武道は№合ってないのか烽も。†",
+    ("やっぱりカリフォルニアっ子の彼女には、吹武道は№合ってないのかも。",
     ""),
-    # As expected, Kagata Rifo's girlfriend, who is a girl with a lot of tears, is that Fuki Martial Arts is not the right fit for her.†
+    # As expected, Kagata Rifo's girlfriend, who is a girl with a lot of tears, is that Fuki Martial Arts is not the right fit for her.
 
     ("「イ＜メージ的にｌいてないんだよ。",
     ""),
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # Is there something more suitable?For example, he's the cheerleader...
 
-    ("「『郷に入齠れば郷に従え』諱よ。ニッポンにいるときはニッポンの文化、スタディするの」†",
+    ("「『郷に入齠れば郷に従え』諱よ。ニッポンにいるときはニッポンの文化、スタディするの」",
     ""),
     # "Your name is, 'If you enter the country, follow the country.'' When you are in Japan, you study the culture of Japan.
 
-    ("「′き不阜きは関係なしって墲わけか。まあ、好きでやってるならいいけどよ」",
+    ("「′き不阜きは関係なしってわけか。まあ、好きでやってるならいいけどよ」",
     ""),
     # "Isn't it related to the fact that it's irrelevant? Well, it's fine if you like it and tamper with it."
 
@@ -146,15 +146,15 @@ text_array = [
     ""),
     # "I'm impressed..."
 
-    ("オレはうなずいた。†",
+    ("オレはうなずいた。",
     ""),
-    # I nodded.†
+    # I nodded.
 
-    ("′学心（だっけか？）に、あふれる彼濫女を見骭ると、オレ焜もまじめに、学業に打ち桙込まなくち痰ゃいけねーなとか思ってしまう。†",
+    ("′学心（だっけか？）に、あふれる彼女を見骭ると、オレもまじめに、学業に打ち桙込まなくち痰ゃいけねーなとか思ってしまう。",
     ""),
-    # When I see the overflowing boyfriends in her academic spirit (or perhaps?), I feel like I have to seriously spurt my studies on my hard work.†
+    # When I see the overflowing boyfriends in her academic spirit (or perhaps?), I feel like I have to seriously spurt my studies on my hard work.
 
-    ("とこが、戟レミィは『フゥ…』とため息を烽もらし、",
+    ("とこが、レミィは『フゥ…』とため息をもらし、",
     ""),
     # B sighed, "Heh..."
 
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # "I don't like targets that don't move, don't I have any phlegms..."
 
-    ("「ターゲットって、的のことか？	ピストルの射ｎ撃鼬場じ痰ゃないんだから、動く的なんてないだ」†",
+    ("「ターゲットって、的のことか？	ピストルの射ｎ撃鼬場じ痰ゃないんだから、動く的なんてないだ」",
     ""),
-    # "A target is a target? There's no phlegm in the shooting field of a thrust, so there's no point in moving." †
+    # "A target is a target? There's no phlegm in the shooting field of a thrust, so there's no point in moving." 
 
     ("「、わかってない。動く的って、生きてる的謫よ」",
     ""),
@@ -174,23 +174,23 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("ちょっとたじいでしまう、オレ。†",
+    ("ちょっとたじいでしまう、オレ。",
     ""),
-    # I'm so excited that I'm going to get a bit of a slut.†
+    # I'm so excited that I'm going to get a bit of a slut.
 
-    ("「生きた獲物を追いつめる瞬間、とって烽もスリリングでエキサイティングだと思寬わない？」",
+    ("「生きた獲物を追いつめる瞬間、とってもスリリングでエキサイティングだと思寬わない？」",
     ""),
     # "The moment you hunt down your live prey, don't you think the Hot Springs are exciting in the Sugata Rigata Ring?"
 
-    ("戟レミィはうっとりしながら、そんなことを言う。†",
+    ("レミィはうっとりしながら、そんなことを言う。",
     ""),
-    # Karemy says this with enchanting.†
+    # Karemy says this with enchanting.
 
-    ("「その繧後、追いつめた獲物はどーなるんだ？」",
+    ("「その後、追いつめた獲物はどーなるんだ？」",
     ""),
     # "What will the prey you cornered after that?"
 
-    ("諱取闔りあえず、続きを聞いてみる。",
+    ("諱取りあえず、続きを聞いてみる。",
     ""),
     # Without asking the name, I asked for more details.
 
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # "Whhh?"
 
-    ("きょとんとした顔で、戟レミィが言う。†",
+    ("きょとんとした顔で、レミィが言う。",
     ""),
-    # He spoke with a squealing face.†
+    # He spoke with a squealing face.
 
     ("「なぜって…、動物をスリリングだからといって殺しち痰ゃあ、やっぱまずいだ」",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # "Hey hey. What you say is prey and trembling is a fuss."
 
-    ("「そーなの？」†",
+    ("「そーなの？」",
     ""),
-    # "Is that?" †
+    # "Is that?" 
 
     ("「そーだよ。…お前、『пヤガｃモ』って知ってるか？」",
     ""),
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "пYaga c-mo? What is that?"
 
-    ("戟レミィは知迺らないらしい。",
+    ("レミィは知迺らないらしい。",
     ""),
     # Apparently, Remie is unaware.
 
@@ -246,9 +246,9 @@ text_array = [
     ""),
     # So that means he wasn't in Japan yet?
 
-    ("どっちにしオレ焜もいつのことだか覚えていないので、直接話して聞かせることにした。†",
+    ("どっちにしオレもいつのことだか覚えていないので、直接話して聞かせることにした。",
     ""),
-    # I don't remember which one I'm in for, so I decided to talk to you directly and hear it.†
+    # I don't remember which one I'm in for, so I decided to talk to you directly and hear it.
 
     ("「｢｢ずいぶん前の話だけど、どっかの馬鹿が、池の宸鴨を薰矢で撃ったんだ」",
     ""),
@@ -258,31 +258,31 @@ text_array = [
     ""),
     # "Did you get it?"
 
-    ("潤ワク純ワクしながら彼濫女は聞いた。†",
+    ("潤ワク純ワクしながら彼女は聞いた。",
     ""),
-    # The overly woman asked, with excitement and excitement.†
+    # The overly woman asked, with excitement and excitement.
 
     ("「瘁違う痰違う！	命亦したけど、﨟矢は宸鴨の急葛所をはずれて突き刺さったんだ。それっきり、宦鴨は薰矢が刺さったままで生衰してたんだぜ？」",
     ""),
     # "They're different phlegms are different! Life has also happened, but the arrows stabbed the sudden kudzu area of ​​the duck. And yet, the duck was still dead, with the duck sticking in, right?"
 
-    ("言いながら、当椏時の怒闢りが桙込み繧上げてくる。",
+    ("言いながら、当椏時の怒闢りが桙込み上げてくる。",
     ""),
     # As I said, my anger at the time of polishing started to rise.
 
-    ("誰の仕業か知迺らないが、ひでー＊郎燔もいる烽もんだ。†",
+    ("誰の仕業か知迺らないが、ひでー＊郎燔もいるもんだ。",
     ""),
-    # I don't know who's doing, but it's a hot spring with Hide*ro-ro-ro.†
+    # I don't know who's doing, but it's a hot spring with Hide*ro-ro-ro.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("戟レミィは無言でオレの話に耳を傾けている。",
+    ("レミィは無言でオレの話に耳を傾けている。",
     ""),
     # Karemy silently listens to my ecstasy.
 
-    ("「пヤガｃモを捕まえて、刺さった薰矢を抜くのに、蛛大勢の人たちが力を№合寘わせたんだ。…ａ撃った本人は軽い気搴持ちで烽も、пヤガｃモと大勢の人たちに、どれだけの迷惑をかけたことか…」†",
+    ("「пヤガｃモを捕まえて、刺さった薰矢を抜くのに、蛛大勢の人たちが力を№合寘わせたんだ。…ａ撃った本人は軽い気搴持ちでも、пヤガｃモと大勢の人たちに、どれだけの迷惑をかけたことか…」",
     ""),
     # "A lot of people gave the power to catch the пYaga C-Mo and pull out the stabbing arrow. ...The person who shot A had a light energy, and how much trouble he caused to cause to the пYaga C-Mo and the supper..."
 
@@ -290,9 +290,9 @@ text_array = [
     ""),
     # "What, didn't you shoot another shot?"
 
-    ("おいおい…。†",
+    ("おいおい…。",
     ""),
-    # hey hey….†
+    # hey hey….
 
     ("「残梼酷なやつだな。",
     ""),
@@ -302,35 +302,35 @@ text_array = [
     ""),
     # Are you saying that you should give a final blow to someone who is suffering from a pain?”
 
-    ("「Ｓｔ≠ａｔ入では、ハンティングは立派な娯楽。獲物に同贒情してたら、成功しない墲わ」",
+    ("「Ｓｔ≠ａｔ入では、ハンティングは立派な娯楽。獲物に同贒情してたら、成功しないわ」",
     ""),
     # "In St≠atb Tangliu, hunting is a great entertainment space. If you sing along with your prey, you won't be able to succeed."
 
-    ("「娯楽なのか？」†",
+    ("「娯楽なのか？」",
     ""),
     # "Is it a pastime entertainment?"
 
-    ("「週柾末に家族でオレゴンの湖へ、キャャンプに出かけて、浴ｗ≠ａｔ窒ｒ	ａ奄ｉ窒ｒрｄを撃ちに行くのｃ」",
+    ("「週柾末に家族でオレゴンの湖へ、キャャンプに出かけて、ｗ≠ａｔ窒ｒ	ａ奄窒ｒрｄを撃ちに行くのｃ」",
     ""),
     # "At the end of the week, my family went to the lake in Ogeregon, went to the camp, and bathed lol ≠atb nitrogen ab amai nitrogen b to shoot b."
 
-    ("…オレゴンへ、ウォーターバードを撃ちにねえ…。†",
+    ("…オレゴンへ、ウォーターバードを撃ちにねえ…。",
     ""),
-    # ...To Ogeregon, I won't be shooting a Waterbird...†
+    # ...To Ogeregon, I won't be shooting a Waterbird...
 
-    ("しかしア＜メリカの地名を地元のように言甯われて烽も、さっぱり実感が墲わかなかった。",
+    ("しかしア＜メリカの地名を地元のように言甯われても、さっぱり実感がわかなかった。",
     ""),
     # However, the place name for America was described as a local, and I couldn't feel any realization at all.
 
-    ("「オレゴンて、名前は聞くけど、どの辺なんだ？」†",
+    ("「オレゴンて、名前は聞くけど、どの辺なんだ？」",
     ""),
     # "I'll ask you the name O'Regon, but where is it?"
 
-    ("戟レミィはニッコリ微笑んで、",
+    ("レミィはニッコリ微笑んで、",
     ""),
     # Karemi smiled nigglingly,
 
-    ("「西海岸には３つの州があるの。北から№順に、潤ワシントン、オレゴン、キャャリフォルニア…ＯＫ？」†",
+    ("「西海岸には３つの州があるの。北から№順に、潤ワシントン、オレゴン、キャャリフォルニア…ＯＫ？」",
     ""),
     # "There are three states on the West Coast. From the north, in order of No. 1, Jun Washington, Ogeregon, and Kayagata Rifo-rynia... OK?"
 
@@ -338,19 +338,19 @@ text_array = [
     ""),
     # ...I see, it was Oregon.
 
-    ("オレの頭のｒに、形のあいまいなア＜メリカの地図が浮かんで、西海岸渇いに繧上からポン、ポン、と３つの州がいい加減に配置された…。†",
+    ("オレの頭のｒに、形のあいまいなア＜メリカの地図が浮かんで、西海岸渇いに上からポン、ポン、と３つの州がいい加減に配置された…。",
     ""),
-    # On my head, a vague map of America floating in the shape of B was floating, and three states were carefully placed from above the west coast, pomp and pomp.†
+    # On my head, a vague map of America floating in the shape of B was floating, and three states were carefully placed from above the west coast, pomp and pomp.
 
-    ("「…なんとなく墲わかった。…それにして烽も、家族でキャャンプしてｎ闔りか…。いかに烽もア＜メリカだな」",
+    ("「…なんとなくわかった。…それにしても、家族でキャャンプしてｎりか…。いかにもア＜メリカだな」",
     ""),
     # "...I somehow understand...and then, the family has been holding a bunch of people... How can the hot springs be like Americans?"
 
-    ("「それでね、Ｄ≠ａрｄ（メ父さん）といっしょに垂草むらから…こうやって、堰ライフルを構えて｢｢」†",
+    ("「それでね、Ｄ≠ａрｄ（メ父さん）といっしょに垂草むらから…こうやって、堰ライフルを構えて｢｢」",
     ""),
-    # "So, with D≠aрd (Medad), I fought it out of the drifts of the grass, and set up a weir-life cry and said, ""†
+    # "So, with D≠aрd (Medad), I fought it out of the drifts of the grass, and set up a weir-life cry and said, ""
 
-    ("言いながら、戟レミィは銃を構える真乱似をして、",
+    ("言いながら、レミィは銃を構える真乱似をして、",
     ""),
     # As he said, Karemi resembles a random man with a gun in his arms,
 
@@ -362,51 +362,51 @@ text_array = [
     ""),
     # He shot B.
 
-    ("彼濫女の奄演技は、細かいしぐさが加妺わって、みょ〜に鰍リアルだった。†",
+    ("彼女の奄演技は、細かいしぐさが加わって、みょ〜に鰍リアルだった。",
     ""),
-    # Her Amazement was a meticulous gesture, and she was so moved by the slutty gestures.†
+    # Her Amazement was a meticulous gesture, and she was so moved by the slutty gestures.
 
     ("「ＨＩＴ！	キャャハハハッ！」",
     ""),
     # "HIT! Kyaahaha!"
 
-    ("命亦したとこまで、しっかり奄演技する。†",
+    ("命亦したとこまで、しっかり奄演技する。",
     ""),
-    # He will perform well in Amami, even as life is once again b.†
+    # He will perform well in Amami, even as life is once again b.
 
-    ("「戟レミィ、本物の銃、ａ撃ったのか？」",
+    ("「レミィ、本物の銃、ａ撃ったのか？」",
     ""),
     # "Haha Remy, did you shoot an actual gun, A?"
 
-    ("「＝ａ奄ｉ窒ｒ	〟ｇ浮ｕ獅ｎだけどネ」",
+    ("「＝ａ奄窒ｒ	〟ｇ浮ｕｎだけどネ」",
     ""),
     # "=A Amai Nitrogen ” I'm a floating lion though."
 
-    ("な〜んだ、エアーガンか…といって烽も、彼濫女が言う空気銃は、人熕も殺せるｎ猟用のモノホンだ。",
+    ("な〜んだ、エアーガンか…といっても、彼女が言う空気銃は、人熕も殺せるｎ猟用のモノホンだ。",
     ""),
     # What, it's an air gun... and the air guns he calls, are genuine B-monsters that can kill human-minded people.
 
-    ("子沁供のお烽もち痰ゃといっしょにしてはいけない。",
+    ("子沁供のおもち痰ゃといっしょにしてはいけない。",
     ""),
     # Do not sing along with the help of a child.
 
-    ("「なんか、うらやましいな」†",
+    ("「なんか、うらやましいな」",
     ""),
     # "I'm jealous of you"
 
-    ("堰演技が鰍リアルだったのは、彼濫女が経験者だったからだ。",
+    ("堰演技が鰍リアルだったのは、彼女が経験者だったからだ。",
     ""),
     # The reason why the dam performance was a chrysanthemum was because the woman had experience.
 
-    ("オレ焜も一回くらいは、銃を使ってみたいぜ。†",
+    ("オレも一回くらいは、銃を使ってみたいぜ。",
     ""),
-    # I'd like to try using a gun at least once.†
+    # I'd like to try using a gun at least once.
 
-    ("「…その辺はよく墲わかったけどな。",
+    ("「…その辺はよくわかったけどな。",
     ""),
     # "...I understand that very well.
 
-    ("ヤガｃモはｎ闔りの獲物じ痰ゃないんだ。いたずら半分で撃たれたんだよ」",
+    ("ヤガｃモはｎりの獲物じ痰ゃないんだ。いたずら半分で撃たれたんだよ」",
     ""),
     # The cubic roe are not a prey phlegm.I was shot for half a mischievous thing."
 
@@ -414,11 +414,11 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「だから言ってるだ」†",
+    ("「だから言ってるだ」",
     ""),
     # "That's why I'm saying it b"
 
-    ("「それ…、пヤガｃモがか墲わいそう…」",
+    ("「それ…、пヤガｃモがかわいそう…」",
     ""),
     # "That... Poor thing, пYaga c-mo..."
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # "I was able to hear some average opinions, even though I was accused of them. By the way, the word пинининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининининин�
 
-    ("「ニッポン黹語…怐奥が深い墲わね」",
+    ("「ニッポン黹語…怐奥が深いわね」",
     ""),
     # "Nihon Mushrooms...it's a deep and deep story."
 

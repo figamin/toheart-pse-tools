@@ -2,11 +2,11 @@
 # Source file: 02A5.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（選択綜Ｃ	＊淫俣冾｢い烽もん食べてんの？）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（選択綜Ｃ	＊淫俣冾｢いもん食べてんの？）†",
     ""),
     # (Seri°Kawaii Scale Number Event 1F LV1)Seri (Selection C *Inmata Kyou: "Are you eating yukamon?)†
 
-    ("「やっぱ、＊淫俣冾｢い烽もん食べてんの？」",
+    ("「やっぱ、＊淫俣冾｢いもん食べてんの？」",
     ""),
     # "After all, *Inmata Kyou: Are you eating hot pot?”
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I heard.
 
-    ("「え？	諱よく墲わかりませんって？	そうか、艨比較対象がないと、いいのか悪いのかなんて墲わかんねー諱よな」†",
+    ("「え？	諱よくわかりませんって？	そうか、艨比較対象がないと、いいのか悪いのかなんてわかんねー諱よな」†",
     ""),
     # "Huh? You really don't know what you're saying? I see, I don't know if it's good or bad unless you have a comparison target. It's a real name."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Heat.†
 
-    ("「秩湯どうふ烽も食ったことない？	そっかあ、それはちょっとか墲わいそうか烽もな」",
+    ("「秩湯どうふも食ったことない？	そっかあ、それはちょっとかわいそうかもな」",
     ""),
     # "Did you eat Chichito or whatever hot pot you've ever eaten? I see, that's a bit of a pity, or a bit of a pity, or a little hot pot."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Senpai made a sad look on his face.†
 
-    ("「んー…、じ痰ゃあさ、今度機級があったら、オレが獅庶民の食い物ってのを教えてやるよ」",
+    ("「んー…、じ痰ゃあさ、今度機級があったら、オレが庶民の食い物ってのを教えてやるよ」",
     ""),
     # "Hmm... I'm not gonna have the model next time, I'll tell you that it's a food item from the common people and I'll tamper with it."
 
@@ -78,7 +78,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	お願いしますって？	諱よっし痰ゃ、まかせな。しか烽もオレがｍってやるぜ」",
+    ("「えっ？	お願いしますって？	諱よっし痰ゃ、まかせな。しかもオレがｍってやるぜ」",
     ""),
     # "Huh? Please? I'll leave it to you. But I'll tamper with my sputum."
 

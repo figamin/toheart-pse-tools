@@ -2,11 +2,11 @@
 # Source file: 08D1.txt
 
 text_array = [
-    ("（戟レミィ	好感度イベント	ＰＳ）閨（渡闢り廊下）†",
+    ("（レミィ	好感度イベント	ＰＳ）閨（渡闢り廊下）†",
     ""),
     # (Wattle Remy Likeability Event PS) (Counter corridor)†
 
-    ("「Ｈ奄ｉ！	」",
+    ("「Ｈ奄！	」",
     ""),
     # "Hi Amai!"
 
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # During the break, I bought a Cafe au Gekile from the vending machine and got on for the first time at Gekire Remy.
 
-    ("「おう、戟レミィ。なんか用か？」†",
+    ("「おう、レミィ。なんか用か？」†",
     ""),
     # "Oh, oh, oh Remi. Is it for something?"
 
-    ("「、ａ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇ好き？」",
+    ("「、ａ盾ｏ翌ｗ撃ｌ奄ｎ№ｇ好き？」",
     ""),
     # "Ab Shield O next time you shoot Amai Lion likes Kog?"
 
-    ("戟レミィはいきなり、ボウリングは好きかと聞いてきた。",
+    ("レミィはいきなり、ボウリングは好きかと聞いてきた。",
     ""),
     # Suddenly, Karemi asked if she liked Bowlat Ring.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What is it, I'm going to be a daze, I'm going to be a daze."
 
-    ("「今ネ、ａ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇが流行ってるのｃ」",
+    ("「今ネ、ａ盾ｏ翌ｗ撃ｌ奄ｎ№ｇが流行ってるのｃ」",
     ""),
     # "Now, AB Shield O next W Era Lion is popular now."
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Hey, do you like it?"
 
-    ("「ボウリングなんて、好きで烽も凾嫌いで烽もねえ」",
+    ("「ボウリングなんて、好きでも凾嫌いでもねえ」",
     ""),
     # "I like Bow Lado Ring, I hate boiled chicken, and I don't have boiled chicken."
 
-    ("そう言うと、戟レミィは困った顔をした。",
+    ("そう言うと、レミィは困った顔をした。",
     ""),
     # When I said that, Karemi gave a troubled look on her face.
 
-    ("「Ｗ撃ｌ撃ｌ…じ痰ゃあ盾ｏ翌ｗ撃ｌ奄ｉ獅ｎ№ｇできる？」",
+    ("「Ｗ撃ｌ撃ｌ…じ痰ゃあ盾ｏ翌ｗ撃ｌ奄ｎ№ｇできる？」",
     ""),
     # "Wb Shot l... Is it possible to get a phlegm? BB Shield the next lol Shot lion No.?"
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # "Rb≠a-shot l-shot l-shot l-y? Please tell me the phlegm."
 
-    ("「はあ？	戟レミィまさか、ボウリング焜も知迺らねえのか？」",
+    ("「はあ？	レミィまさか、ボウリングも知迺らねえのか？」",
     ""),
     # "Huh? Is Remy not even aware of Bowgata Ring??"
 
-    ("「知ってマース。で烽も、やったことないの」",
+    ("「知ってマース。でも、やったことないの」",
     ""),
     # "I know, Mars. And I've never done it before."
 
-    ("「へえ、早国にいるとき烽もないのか…」",
+    ("「へえ、早国にいるときもないのか…」",
     ""),
     # "Whoa, when I'm in Hayatokoku, I don't have a hot spring..."
 

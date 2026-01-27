@@ -2,9 +2,9 @@
 # Source file: 0B0E.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）閨（選択綜ＡＢＣ	の続き）閨（商店街	２）閨（綾∴香	＝普通）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）閨（選択綜ＡＢＣ	の続き）閨（商店街	２）閨（綾∴香	＝普通）",
     ""),
-    # (Aya∴Kawa Pick Date Event 2) (Continued from Chosen A Greeting) (Continued from Chosen ABC) (Shopping Street 2) (Aya∴Kawa = regular)†
+    # (Aya∴Kawa Pick Date Event 2) (Continued from Chosen A Greeting) (Continued from Chosen ABC) (Shopping Street 2) (Aya∴Kawa = regular)
 
     ("ごんっ。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Yes, it's over."
 
-    ("綾∴香がいきなり立ち繧上がったので、オレはベンチに頭をぶつけてしまった。†",
+    ("綾∴香がいきなり立ち上がったので、オレはベンチに頭をぶつけてしまった。",
     ""),
-    # Aya∴Ka suddenly rose to the ground, and I hit my head against the bench.†
+    # Aya∴Ka suddenly rose to the ground, and I hit my head against the bench.
 
     ("「ッテーなっ、なんだよ、いきなり！」",
     ""),
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # "...That's why."
 
-    ("「サービス終了。悪いけどр私、こう見えて烽もそれほど暇じ痰ゃないのよね。これから烽も予定ギッシリだし」",
+    ("「サービス終了。悪いけどр私、こう見えてもそれほど暇じ痰ゃないのよね。これからも予定ギッシリだし」",
     ""),
     # "Service is over. Sorry, but I look like this, but I don't have much time for Hot even though it's not that long. From now on, Hot Hot will be ready to go."
 
-    ("綾∴香はぱんぱんとスカートの繧後撃を払った。†",
+    ("綾∴香はぱんぱんとスカートの後撃を払った。",
     ""),
-    # Aya∴Ka defeated the attack after she plunged into her skirt.†
+    # Aya∴Ka defeated the attack after she plunged into her skirt.
 
-    ("「もう少しつき№合ってあげたいのはрヤマсヤマだけど、今厓日のとこはこれで失邇礼する墲わ」",
+    ("「もう少しつき№合ってあげたいのはрヤマсヤマだけど、今厓日のとこはこれで失邇礼するわ」",
     ""),
     # "I would like to meet a little more points in the 'Yama с yama', but I'm sorry for the moment when it's on the 'Yama с '
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Her stomach is for you."
 
-    ("閨手を振髏ると、綾∴香はそのまま駅の方阜へと烽歩いていった。†",
+    ("閨手を振髏ると、綾∴香はそのまま駅の方阜へと歩いていった。",
     ""),
-    # Waving her hand, Aya∴Ka continued walking to Fukukata Fu, the station.†
+    # Waving her hand, Aya∴Ka continued walking to Fukukata Fu, the station.
 
     ("「………」",
     "…"),
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # I went.
 
-    ("し痰ゃーねーな、オレ焜も帰驪るとするか。",
+    ("し痰ゃーねーな、オレも帰驪るとするか。",
     ""),
     # I'm not going to have any phlegms, I'm going to go home too.
 
-    ("立ち繧上がうとしたとき、",
+    ("立ち上がうとしたとき、",
     ""),
     # When the person stands up,
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Hmm!"
 
-    ("腹舶部に鈍い痛みが広がり、思寬わずその場にうずくまってしまった。†",
+    ("腹舶部に鈍い痛みが広がり、思寬わずその場にうずくまってしまった。",
     ""),
-    # A dull pain spread across my abdomen, and I crouched down in the spot without thinking.†
+    # A dull pain spread across my abdomen, and I crouched down in the spot without thinking.
 
     ("く、くううぅぅ…。",
     ""),
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # I think it would be better to stop making him angry after this.
 
-    ("こ墲わ。◯",
+    ("こわ。◯",
     ""),
     # It's here.◯
 

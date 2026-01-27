@@ -2,9 +2,9 @@
 # Source file: 0504.txt
 
 text_array = [
-    ("（葵	出初いイベント	選択繿後	Ｃ）†",
+    ("（葵	出初いイベント	選択繿後	Ｃ）",
     ""),
-    # (Aoi's first event after selection C)†
+    # (Aoi's first event after selection C)
 
     ("「悪いけど、格闘技なんてオレには無摶理だよ」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # It's better to be clear.
 
-    ("その場だけの言葉で、うやむやにするのは性に№合寘わねーし。†",
+    ("その場だけの言葉で、うやむやにするのは性に№合寘わねーし。",
     ""),
-    # It's not a sexual confusion to use only the situation and tampering with words that are just there.†
+    # It's not a sexual confusion to use only the situation and tampering with words that are just there.
 
     ("「…そ、そうですか」",
     ""),
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # I'm sure I'll only have to be honest and unconventional requests."
 
-    ("禔口ではそう言ったが、葵ち痰ゃんは見骭るからに残念そうだった。†",
+    ("禔口ではそう言ったが、葵ち痰ゃんは見骭るからに残念そうだった。",
     ""),
-    # That was what he said in his mouth, but Aoi Chisho-yan seemed disappointing because he was greeted.†
+    # That was what he said in his mouth, but Aoi Chisho-yan seemed disappointing because he was greeted.
 
-    ("「で烽も、もし、気がｌいたら、気軽に見学にｗてください」",
+    ("「でも、もし、気がｌいたら、気軽に見学にｗてください」",
     ""),
     # "And if you feel like it, feel free to visit us lol."
 

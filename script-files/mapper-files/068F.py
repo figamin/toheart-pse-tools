@@ -10,7 +10,7 @@ text_array = [
     ""),
     # I saw Ruchi in the hallway.
 
-    ("今厓日燗もまた、両手にモップを揩持って掃恆除している。",
+    ("今厓日燗もまた、両手にモップを持って掃恆除している。",
     ""),
     # Right now, the sunken is also sweeping away a b-mop in the two snouts.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # A. Call out.Relax
 
-    ("Ｂ	立ち獅去驪る。閨",
+    ("Ｂ	立ち去驪る。閨",
     ""),
     # B. Stand and lion.Relax
 

@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Now? Don't you say it? Is it a peek?"
 
-    ("「オレ焜も知迺らねーけどな」♭",
+    ("「オレも知迺らねーけどな」♭",
     ""),
     # "I don't know about it either" ♭
 

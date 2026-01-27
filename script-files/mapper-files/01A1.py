@@ -2,9 +2,9 @@
 # Source file: 01A1.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ａ	イヌかな）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ａ	イヌかな）",
     ""),
-    # (Akari Scales Event: Departing from school) (Choice A Dog)†
+    # (Akari Scales Event: Departing from school) (Choice A Dog)
 
     ("「やっぱ犬かな？」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Like a boss?"
 
-    ("「そうだな。ボスみたいな大型犬煬もいいし、柴犬みたいな小型犬で烽もいいな」†",
+    ("「そうだな。ボスみたいな大型犬煬もいいし、柴犬みたいな小型犬でもいいな」",
     ""),
-    # "That's right. A large dog like a boss is nice, and a small dog like a Shiba Inu is nice, too." †
+    # "That's right. A large dog like a boss is nice, and a small dog like a Shiba Inu is nice, too." 
 
     ("「やっぱり犬が好き？」",
     ""),
@@ -30,17 +30,17 @@ text_array = [
     ""),
     # "Yes. Dogs often listen to what they say."
 
-    ("「蛛主人想いだ烽もんね」",
+    ("「蛛主人想いだもんね」",
     ""),
     # "The master of the dance is a hot topic."
 
-    ("「オレは人の言うことを聞くрヤツが好きだ。だからあかり、お前熨も烽もっとオレの言うことを聞け！」",
+    ("「オレは人の言うことを聞くрヤツが好きだ。だからあかり、お前熨ももっとオレの言うことを聞け！」",
     ""),
     # "I like people who listen to people. So, you should listen to what I'm saying, even if you're a noshi!"
 
-    ("「…う、うん」†",
+    ("「…う、うん」",
     ""),
-    # "...Uh, yes" †
+    # "...Uh, yes" 
 
     ("それから、オレとあかりはいいと店燗内の動物を見て回った。◯",
     ""),

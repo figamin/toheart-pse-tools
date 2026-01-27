@@ -2,9 +2,9 @@
 # Source file: 01BC.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ｂ	生命保険に入ったほうが）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ｂ	生命保険に入ったほうが）",
     ""),
-    # (Light scale event 1F) (B: ​​It's better to take life insurance)†
+    # (Light scale event 1F) (B: ​​It's better to take life insurance)
 
     ("「生命保険に入ったほうがいいでしょう」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Sha, life insurance!? That means that some kind of life event is approaching the next day!?"
 
-    ("「ふっふっ、さ〜てね…」†",
+    ("「ふっふっ、さ〜てね…」",
     ""),
-    # "Hehehe, now..." †
+    # "Hehehe, now..." 
 
     ("「その質竡問って、ほんとに法則とかあるの？	本末当は適俣当に言ってるだけだよね？」",
     ""),

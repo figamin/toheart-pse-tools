@@ -2,9 +2,9 @@
 # Source file: 00DB.txt
 
 text_array = [
-    ("（システムイベント	テスト発表）閨（あかりと勉強無し）閨（Ｓａ４の場㍼合）†",
+    ("（システムイベント	テスト発表）閨（あかりと勉強無し）閨（Ｓａ４の場㍼合）",
     ""),
-    # (System Event Test Presentation) Clip (No lights and study) Clip (Standby Sa4) †
+    # (System Event Test Presentation) Clip (No lights and study) Clip (Standby Sa4) 
 
     ("平均点は…。",
     ""),
@@ -14,29 +14,29 @@ text_array = [
     ""),
     # I don't want to say it...
 
-    ("ひとつはっきりしていることは、補習確闃定だということだ。†",
+    ("ひとつはっきりしていることは、補習確闃定だということだ。",
     ""),
-    # One thing that is clear is that it is a confirmation of supplementary lessons.†
+    # One thing that is clear is that it is a confirmation of supplementary lessons.
 
     ("「とほほ…」",
     ""),
     # "Hehe..."
 
-    ("オレはがっくり肩を獅落とす。",
+    ("オレはがっくり肩を落とす。",
     ""),
     # My heart plucked my shoulders down.
 
-    ("前熨もって補習があるって墲わかっていれば、もう少し頑張れたと思うんだけどなあ。",
+    ("前熨もって補習があるってわかっていれば、もう少し頑張れたと思うんだけどなあ。",
     ""),
     # If I had known that there would be some supplementary lessons to tamper with the front gift, I think I'd have tried a little more.
 
-    ("まあ、悔竕やんで烽も繧後の祭闕りだ。",
+    ("まあ、悔竕やんでも後の祭闕りだ。",
     ""),
     # Well, I'm not regretting it, and the hot springs are a celebration after the break.
 
-    ("ここは甘んじて補習を受けるとしよう。†",
+    ("ここは甘んじて補習を受けるとしよう。",
     ""),
-    # Let's just be content and take supplementary lessons here.†
+    # Let's just be content and take supplementary lessons here.
 
     ("今厓日はひとりでなぐさめパーティだ。",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "You're probably not going home yet."
 
-    ("教室を出謠ようとしたら、％ってきた志保とばったり出く墲わした。",
+    ("教室を出謠ようとしたら、％ってきた志保とばったり出くわした。",
     ""),
     # When I was about to leave the classroom, I ran into Shiho, who had come to me.
 
@@ -58,21 +58,21 @@ text_array = [
     ""),
     # "Huh? Is it a place to go back?"
 
-    ("あかり烽もいっしょだ。†",
+    ("あかりもいっしょだ。",
     ""),
-    # Akari Hot is also a slut.†
+    # Akari Hot is also a slut.
 
     ("「なんだ、なんか用か？」",
     ""),
     # "What, is it for something?"
 
-    ("「テストの汲結果、どーだった？」",
+    ("「テストの結果、どーだった？」",
     ""),
     # "What were the results of the test?"
 
-    ("「…聞かねーでくれ」†",
+    ("「…聞かねーでくれ」",
     ""),
-    # "...Please listen" †
+    # "...Please listen" 
 
     ("「え、え？	それって、補習曙郁健ﾁてこと？」",
     ""),
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "No, you're not feeling well?"
 
-    ("「オレの実力なんて、しょせんはこんな烽もんなんだよ」†",
+    ("「オレの実力なんて、しょせんはこんなもんなんだよ」",
     ""),
     # "My superb ability is such a hot thing."
 
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # Also, I'm gonna get mad.
 
-    ("どうせこの繧後、志保のрヤツから散々バカにされるだうからな。†",
+    ("どうせこの後、志保のрヤツから散々バカにされるだうからな。",
     ""),
-    # After this, Shiho's guy will be making fun of him a lot anyway.†
+    # After this, Shiho's guy will be making fun of him a lot anyway.
 
     ("「やったーっ！",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("志保の予想外な鰍リアクションに、オレは眉間にし墲わを寄せた。†",
+    ("志保の予想外な鰍リアクションに、オレは眉間にしわを寄せた。",
     ""),
-    # My guts throbbing throbbing at Shiho's unexpected choke.†
+    # My guts throbbing throbbing at Shiho's unexpected choke.
 
     ("「志保熾もね、補習なの」",
     ""),
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Not for females."
 
-    ("「…いや、お前の頭を考えると必然って気煖もするぜ」†",
+    ("「…いや、お前の頭を考えると必然って気もするぜ」",
     ""),
     # "...I'm not going to get frustrated when I think about your head."
 
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # What kind of Fotoro is Akari?
 
-    ("ま、いっか。†",
+    ("ま、いっか。",
     ""),
-    # Well, it's fine.†
+    # Well, it's fine.
 
     ("「そうだ。このオレが特別につき№合ってやるんだから、感謝するように」",
     ""),
@@ -170,19 +170,19 @@ text_array = [
     ""),
     # "It's kind of annoying, how you say that!"
 
-    ("志保は、ジタバタと床を踏み鳴逍らした。†",
+    ("志保は、ジタバタと床を踏み鳴逍らした。",
     ""),
-    # Shiho stomped at the floor.†
+    # Shiho stomped at the floor.
 
-    ("「オレに用ってそれだけか？	だったら今厓日は烽もう失邇礼するぜ。志保と同兼レベルだなんてショックでな」",
+    ("「オレに用ってそれだけか？	だったら今厓日はもう失邇礼するぜ。志保と同兼レベルだなんてショックでな」",
     ""),
     # "Is that all I should use for you? If that's the case now, I'll be sorry for the day. I'm not sure I'll be crying at the same level as Shiho."
 
-    ("「なんですってー！」†",
+    ("「なんですってー！」",
     ""),
     # "What is that!"
 
-    ("じだんだ踏み続ける志保を繧後目に、オレは教室を出た。",
+    ("じだんだ踏み続ける志保を後目に、オレは教室を出た。",
     ""),
     # After Shiho continued to step on, I left the classroom.
 

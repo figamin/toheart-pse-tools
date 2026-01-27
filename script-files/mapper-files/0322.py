@@ -2,9 +2,9 @@
 # Source file: 0322.txt
 
 text_array = [
-    ("（智子	エンディング）閨（Ｂ	また、学校でな）†",
+    ("（智子	エンディング）閨（Ｂ	また、学校でな）",
     ""),
-    # (Tomoko's ending) (B Also at school)†
+    # (Tomoko's ending) (B Also at school)
 
     ("「あっ、委員長」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("にっこり笑って微笑んだ。†",
+    ("にっこり笑って微笑んだ。",
     ""),
-    # He smiled and smiled.†
+    # He smiled and smiled.
 
     ("「じ痰ゃあな」",
     ""),

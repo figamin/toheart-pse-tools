@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Hey, are you listening..."
 
-    ("じじいに烽歩み寄った、そのとき｢｢。†",
+    ("じじいに歩み寄った、そのとき｢｢。†",
     ""),
     # I walked over to my old man, and then I said, ".†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Batam!
 
-    ("「どぅ墲わっ！」",
+    ("「どぅわっ！」",
     ""),
     # "What?!"
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # Well, it's like... a manga.†
 
-    ("地面に仰旧けに倒齠れたオレを置き獅去闍りに、諱先輩を乗せた鰍リムジンが魔走闡り獅去ってゆく。",
+    ("地面に仰旧けに倒齠れたオレを置き去闍りに、諱先輩を乗せた鰍リムジンが魔走闡り去ってゆく。",
     ""),
     # I was defeated by my throbbing lying on the ground and lion was gone, and the chrysanthemum limousine carrying my senior fellow thrusts away with a lion.
 
-    ("縺後の汲窓から心配そうにオレを見骭る先輩の顔が遠ざかっていく。",
+    ("縺後の窓から心配そうにオレを見骭る先輩の顔が遠ざかっていく。",
     ""),
     # The senior's face, looking at me with concern from the snatching window, moved away from the front.
 

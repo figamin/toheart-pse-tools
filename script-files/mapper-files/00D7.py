@@ -10,11 +10,11 @@ text_array = [
     ""),
     # After the last lesson I had just returned all the test answers.
 
-    ("これがいまのオレの成績って墲わけだ。",
+    ("これがいまのオレの成績ってわけだ。",
     ""),
     # This is what my current achievements are like.
 
-    ("諱取闔りあえず、平均点を計算してみるか。†",
+    ("諱取りあえず、平均点を計算してみるか。†",
     ""),
     # Let's try calculating the average score without asking for your name.†
 

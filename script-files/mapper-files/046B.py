@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Shiho Additional Event 3) (Selected)†
 
-    ("「掾持ってねえよ。オレは烽金搴持ちのボンボンじ痰ゃねえんだ。飯續代がせいぜいだよ」†",
+    ("「掾持ってねえよ。オレは金搴持ちのボンボンじ痰ゃねえんだ。飯續代がせいぜいだよ」†",
     ""),
     # "I don't have any enthusiasm. I have no phlegm for the money-making spurt. I have to pay the best meals."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # When I answered, Shiho had a momentary disgust, rather than a disappointment,
 
-    ("「なによ、シケてる墲わね〜」",
+    ("「なによ、シケてるわね〜」",
     ""),
     # "What, you're going to get squeals?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Arrogant, sir. So, what was the purpose of the king'an bill?"
 
-    ("「べつに。お札ってああ見えて烽もハイテクの塊なのね〜って話」",
+    ("「べつに。お札ってああ見えてもハイテクの塊なのね〜って話」",
     ""),
     # "And so. I think that bills look like this, but the hot springs are also a mass of high-tech stuff."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Where do you think this is the issue?"
 
-    ("「あたしの追いかける薰情報は、冝日々の出女沫事だけじ痰ゃなくて、もっと烽もっとひ〜い、みんなの役に立つような知識燻も含まれてんのよ」",
+    ("「あたしの追いかける薰情報は、冝日々の出女沫事だけじ痰ゃなくて、もっともっとひ〜い、みんなの役に立つような知識燻も含まれてんのよ」",
     ""),
     # "The information I'm chasing is not just about the daily splashing of women, but also includes knowledge that is even more useful to everyone."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "What is this trivia for a bit of a bit of a lazy life. I'm sleepy, see you next time."
 
-    ("「…ま、いい墲わ。あんたが文無しだったおかげで、あたしのｍ寘戦は失敗したんだから」",
+    ("「…ま、いいわ。あんたが文無しだったおかげで、あたしのｍ寘戦は失敗したんだから」",
     ""),
     # "...Well, that's good. Because you were penniless, my battle with M-Tsu has failed."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # ""Turning?”†
 
-    ("「気にしないでいい墲わよ〜♪」",
+    ("「気にしないでいいわよ〜♪」",
     ""),
     # "Don't worry about it~♪"
 

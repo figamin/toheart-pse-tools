@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Huh? Um, is it a tampering with Kouyura?"
 
-    ("「惜しいけど痰違う墲わね。そんなんじ痰ゃなくて、も〜っとスケールが大きいやつよ」",
+    ("「惜しいけど痰違うわね。そんなんじ痰ゃなくて、も〜っとスケールが大きいやつよ」",
     ""),
     # "It's a shame, but the phlegm is different. It's not that big of a phlegm, but it's a tampering thing with a huge scale."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Mercury and Mars, and many other stars.
 
-    ("志保は何竕やらオレに烽も聞き覚えのある単語を口にする。†",
+    ("志保は何竕やらオレにも聞き覚えのある単語を口にする。†",
     ""),
     # Shiho utters a few simple words that even Koto has heard familiar to him.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "'', I got tickets for the pair.
 
-    ("んでね、あんたとなら行って烽もいいかな〜って思った墲わけよ」",
+    ("んでね、あんたとなら行ってもいいかな〜って思ったわけよ」",
     ""),
     # So, I thought it would be nice to go with you and Hot."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "The lights are Damme. Uzono Ship is a tough guy."
 
-    ("「あのなぁ、マジで宇薗に行く墲わけねえだ」",
+    ("「あのなぁ、マジで宇薗に行くわけねえだ」",
     ""),
     # "Um, seriously, there's no way I'll go to Uen b."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Well, that's a Zikke, but this is an all-night event starting on Saturday night, so I can't go out."
 
-    ("「ああ、そうか…。で烽もな、それって何梔時間竓やるんだ？」",
+    ("「ああ、そうか…。でもな、それって何梔時間竓やるんだ？」",
     ""),
     # "Oh, I see... And then there, how many hours is that going to be done?"
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # "Nooooo, too, 4-framed timer, right?"
 
-    ("休匤日の前咜日はオールナイトで特別長いのをやってるって、そういやＣＭで烽も言ってたな。†",
+    ("休匤日の前咜日はオールナイトで特別長いのをやってるって、そういやＣＭでも言ってたな。†",
     ""),
     # On the day of the holiday, Maeke Day, they're all night and are tampering with a special long one, and they even said that in the commercials they're tampering with.†
 
-    ("「なんかさ、宇薗船のｒは勝闖手に烽歩き回っていいんだって。でね、窓には宇薗が映ってて、すっごくいいムード」",
+    ("「なんかさ、宇薗船のｒは勝闖手に歩き回っていいんだって。でね、窓には宇薗が映ってて、すっごくいいムード」",
     ""),
     # "It's a bit like that, the Uzono ship's r is OK to walk around with Katsuren in his hand. And Uzono is reflected in the window, making it a really nice mood."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Mood?"
 
-    ("「ほとんどがカップルで、人目をはばからずイチャャついてるんだって。ね、あたしたち烽もイチャャついち痰ゃう？」",
+    ("「ほとんどがカップルで、人目をはばからずイチャャついてるんだって。ね、あたしたちもイチャャついち痰ゃう？」",
     ""),
     # "Most of them are crying, and they're fond of people without anyone looking at them. I wonder if I'm also cheating on you too?"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Um..." †
 
-    ("「土星の輪っかとか烽も、すごいらしい墲わよ〜」",
+    ("「土星の輪っかとかも、すごいらしいわよ〜」",
     ""),
     # "The Saturn ring and Hot Spring are also amazing."
 

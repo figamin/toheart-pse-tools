@@ -2,11 +2,11 @@
 # Source file: 0770.txt
 
 text_array = [
-    ("（２回目）†",
+    ("（２回目）",
     ""),
-    # (2nd time)†
+    # (2nd time)
 
-    ("さて、今厓日の汲昼休みはどうしよう。",
+    ("さて、今厓日の昼休みはどうしよう。",
     ""),
     # So, what about lunch break on the day of the day?
 
@@ -22,8 +22,8 @@ text_array = [
     ""),
     # B I won't go.Relax
 
-    ("やっぱやめとこう。†",
+    ("やっぱやめとこう。",
     ""),
-    # Let's stop tampering after all.†
+    # Let's stop tampering after all.
 
 ]

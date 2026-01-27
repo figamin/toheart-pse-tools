@@ -2,7 +2,7 @@
 # Source file: 08F5.txt
 
 text_array = [
-    ("（戟レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	あたり）†",
+    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	あたり）†",
     ""),
     # (Remy Exam Day Returned PS) (All Selected)†
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Rb≠a-shot l-shot l-shot l-y?"
 
-    ("「…幽覧のいるいないなんかで、戟血液型って墲わかっちまうんだな」",
+    ("「…幽覧のいるいないなんかで、血液型ってわかっちまうんだな」",
     ""),
     # "...I guess you can understand your blood type without a ghost."
 
-    ("「アタシ焜もびっくりしました」",
+    ("「アタシもびっくりしました」",
     ""),
     # "I was also surprised."
 

@@ -2,9 +2,9 @@
 # Source file: 02BE.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ａ	蛛大声で先輩に呼びかける）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ａ	蛛大声で先輩に呼びかける）",
     ""),
-    # (Seri°Kawa, Scales Event, Return Road, LV2)Seri (Selection A, calling out to seniors with a loud voice)†
+    # (Seri°Kawa, Scales Event, Return Road, LV2)Seri (Selection A, calling out to seniors with a loud voice)
 
     ("蛛大声で先輩に呼びかける！",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Senpai! Senpai!"
 
-    ("オレは店のｒにｌかって呼びかけた。†",
+    ("オレは店のｒにｌかって呼びかけた。",
     ""),
-    # I called out to the store's rumours.†
+    # I called out to the store's rumours.
 
     ("「オレだよ、だよ〜〜〜っ！」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Hey, boy, you?!"
 
-    ("店燗内の先輩は声に気が付いて、カラカラと店の戸を開け、こっちに烽歩いてきた。†",
+    ("店燗内の先輩は声に気が付いて、カラカラと店の戸を開け、こっちに歩いてきた。",
     ""),
-    # The senior inside the store, noticed the voice, opened the door to the store and walked over me.†
+    # The senior inside the store, noticed the voice, opened the door to the store and walked over me.
 
     ("「諱先輩、こっち、こっち！	おいで！」",
     ""),
@@ -54,8 +54,8 @@ text_array = [
     ""),
     # 2≠m crying.
 
-    ("オレは手を伸ばす。†",
+    ("オレは手を伸ばす。",
     ""),
-    # I reached out to my hand.†
+    # I reached out to my hand.
 
 ]

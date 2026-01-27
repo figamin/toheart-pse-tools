@@ -2,19 +2,19 @@
 # Source file: 0087.txt
 
 text_array = [
-    ("（冝期槙末テスト	２冾日目）閨（選択綜	最悪）†",
+    ("（冝期槙末テスト	２冾日目）閨（選択綜	最悪）",
     ""),
-    # (2nd day of the sinus final test) (Secondhand, worst)†
+    # (2nd day of the sinus final test) (Secondhand, worst)
 
     ("「最悪だ」",
     ""),
     # "It's the worst."
 
-    ("「たまには、そーいうこと烽もあるｃ」",
+    ("「たまには、そーいうこともあるｃ」",
     ""),
     # "Sometimes there are such things."
 
-    ("「たまにだったらいいけどなぁ」†",
+    ("「たまにだったらいいけどなぁ」",
     ""),
     # "I wish it was occasionally"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "How are you going to say that?"
 
-    ("「どーしてって、オレの実力なんて、こんな烽もんだよ」",
+    ("「どーしてって、オレの実力なんて、こんなもんだよ」",
     ""),
     # "What do you think? My superb ability is such a hot thing."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I don't think that's the case."
 
-    ("「お前まで、あかりみたいなこと言うなよ」†",
+    ("「お前まで、あかりみたいなこと言うなよ」",
     ""),
     # "You don't even say anything like Akari."
 
@@ -46,8 +46,8 @@ text_array = [
     ""),
     # "The next test will surely be a great latitude c."
 
-    ("「逆にプレッシャャーだぜ。その希望的観測」†",
+    ("「逆にプレッシャャーだぜ。その希望的観測」",
     ""),
-    # "On the other hand, it's a huge hit. That wishful thinking"†
+    # "On the other hand, it's a huge hit. That wishful thinking"
 
 ]

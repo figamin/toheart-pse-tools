@@ -2,11 +2,11 @@
 # Source file: 01D0.txt
 
 text_array = [
-    ("（あかり	氏試験）閨（３獅月１７冾日	２Ｆ）閨（２Ｆ廊下	あかり	＝普通	０１）†",
+    ("（あかり	氏試験）閨（３月１７冾日	２Ｆ）閨（２Ｆ廊下	あかり	＝普通	０１）",
     ""),
-    # (Akari Examination) (3rd Lion Day, 17th Day, 2F) (2nd Floor Corridor, Akari = normal 01)†
+    # (Akari Examination) (3rd Lion Day, 17th Day, 2F) (2nd Floor Corridor, Akari = normal 01)
 
-    ("廊下であかりにｉった。",
+    ("廊下であかりにった。",
     ""),
     # I went in the hallway.
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "I'm smoking too... is that the same?"
 
-    ("少しぎこちなく微笑んであかりは言った。†",
+    ("少しぎこちなく微笑んであかりは言った。",
     ""),
-    # Akari said with a slightly awkward smile.†
+    # Akari said with a slightly awkward smile.
 
     ("「ち痰ゃん、今厓日は掃恆除は？」",
     ""),
@@ -38,13 +38,13 @@ text_array = [
     ""),
     # "do not have"
 
-    ("「п私燻もないの。じ痰ゃ、いっしょに帰汲？」",
+    ("「п私燻もないの。じ痰ゃ、いっしょに帰？」",
     ""),
     # "I don't have any smoke. Do you have any phlegms, do you want to return to the slut?"
 
-    ("あかりが笑迴顔で聞いてきた。†",
+    ("あかりが笑顔で聞いてきた。",
     ""),
-    # Akari asked with a laughing face.†
+    # Akari asked with a laughing face.
 
     ("どうすっかな。",
     ""),

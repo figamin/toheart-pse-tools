@@ -2,9 +2,9 @@
 # Source file: 04CD.txt
 
 text_array = [
-    ("（志保	回秤数イベント	寄闃り道３）閨（選択綜	話し桙込む）†",
+    ("（志保	回秤数イベント	寄闃り道３）閨（選択綜	話し桙込む）",
     ""),
-    # (Shiho's Scales Event: Incoming Road 3) (Choose a selection)†
+    # (Shiho's Scales Event: Incoming Road 3) (Choose a selection)
 
     ("「いよいよ今厓日で、おしまいね」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「＝普通の冾日がよ。そいで烽もって次はゴールデンウィークで、その次は修学旅行…。これだけ続くと２つめの春休みってノリじ痰ゃない？」†",
+    ("「＝普通の冾日がよ。そいでもって次はゴールデンウィークで、その次は修学旅行…。これだけ続くと２つめの春休みってノリじ痰ゃない？」",
     ""),
     # "=It's a normal day. Then the next one will be Golden Week, and the next one will be the school trip... If this continues for a long time, the second spring break will be full of phlegms?"
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "So, I came to check out the Golden Weekre spots."
 
-    ("「ふ〜ん。遊ぶ場鰹所のチェックか…。お前迹らしいな」†",
+    ("「ふ〜ん。遊ぶ場鰹所のチェックか…。お前迹らしいな」",
     ""),
-    # "Hmm. Check out the bonito spot where you can play... It looks like you're coming." †
+    # "Hmm. Check out the bonito spot where you can play... It looks like you're coming." 
 
     ("「ね、ね、はヒマでしょ？	いっしょにチェックしましょー諱よ」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "There's no eclipse.
 
-    ("一梭応ヒマだし」†",
+    ("一梭応ヒマだし」",
     ""),
     # I've had enough time to go."
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # ...What is Shiho's way of spending time during Golden Week?
 
-    ("少し気になった。†",
+    ("少し気になった。",
     ""),
-    # I was a little curious.†
+    # I was a little curious.
 
     ("何気なく聞いてみようか。",
     ""),

@@ -2,19 +2,19 @@
 # Source file: 02C0.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｃ	£將央突破あるのみ）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｃ	將央突破あるのみ）†",
     ""),
-    # (Seri°C, Scales, Scales Event, Return Road, LV2)Seri (Only break through the Chosen Soku C £School)†
+    # (Seri°C, Scales, Scales Event, Return Road, LV2)Seri (Only break through the Chosen Soku C School)†
 
-    ("£將央突破あるのみだ！",
+    ("將央突破あるのみだ！",
     ""),
-    # All you need to do is break through the £Saito!
+    # All you need to do is break through the Saito!
 
-    ("「じじいっ！	こうなったらテ＜メーを倒しておｏ様にｉいにいくぜ！」",
+    ("「じじいっ！	こうなったらテ＜メーを倒しておｏ様にいにいくぜ！」",
     ""),
     # "Older! If this happens, I'll defeat Temae and go to O-san!"
 
-    ("「ほほう、お烽もしい！	ならばやってみるがよい、小僧っ！」",
+    ("「ほほう、おもしい！	ならばやってみるがよい、小僧っ！」",
     ""),
     # "Oh, you're b! If so, try tampering with it, boy!"
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # "...Haha, hehe, don't you tamper with it, kid!"
 
-    ("「…あ、あんた烽も…なっ、じーさん」",
+    ("「…あ、あんたも…なっ、じーさん」",
     ""),
     # "...Ah, you, too...Oh, old man."
 
-    ("「…こ、このおいぼれを久々に熱くたぎらせよる墲わ。小僧、貴様なにか垂武道をたしなんでおるな！？」",
+    ("「…こ、このおいぼれを久々に熱くたぎらせよるわ。小僧、貴様なにか垂武道をたしなんでおるな！？」",
     ""),
     # "...It's been a while since I've been making this wart passionate. Boy, why are you doing some kind of Tabudo?!"
 
-    ("「…あいにく、なに烽も…",
+    ("「…あいにく、なにも…",
     ""),
     # "...Unfortunately, what a hot spring...
 
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # "...Even for the young phlegm these days, it's quite cruel. All of this..."
 
-    ("「…じ、じーさんこそ、いったいなに者だ？その歳でなんち繧ゅうパ純ワーだ。はーはー…」",
+    ("「…じ、じーさんこそ、いったいなに者だ？その歳でなんちゅうパ純ワーだ。はーはー…」",
     ""),
     # "...What the heck is old man? What is he like at that age? What a pure-powered person? Haha..."
 
-    ("「…だが、貴様の実力は認めて烽も、おｏ様に近づける墲わけにはいかぬ。ぜーぜー…」",
+    ("「…だが、貴様の実力は認めても、おｏ様に近づけるわけにはいかぬ。ぜーぜー…」",
     ""),
     # "...But, I can't accept your abilities and get closer to O-san. All of a sudden..."
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "...She, I'm a real-life senpai, this one, I'm super excited."
 
-    ("オレが繧弱々しく手を振髏ると、気づいた先輩は真っ直ぐこっちに烽歩いてきた。†",
+    ("オレが弱々しく手を振髏ると、気づいた先輩は真っ直ぐこっちに歩いてきた。†",
     ""),
     # When I waved my hand weakly, my senior noticed it and walked straight up here.†
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "...I'm not saying, Senpai, please do something about this guy.
 
-    ("先輩にｉおうとするのを、邪ｎ魔するんだぜ。はーはー…」",
+    ("先輩におうとするのを、邪ｎ魔するんだぜ。はーはー…」",
     ""),
     # You're going to get mad to tell your senior.Ha ha ha..."
 

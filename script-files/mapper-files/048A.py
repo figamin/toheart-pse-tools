@@ -10,15 +10,15 @@ text_array = [
     ""),
     # "But-ii"
 
-    ("オレ焜もガキじ痰ゃない。",
+    ("オレもガキじ痰ゃない。",
     ""),
     # I'm also really excited, so I can't help but feel phlegm.
 
-    ("いつまで烽も修学旅行で盾ワク純ワクしていられねーしな。",
+    ("いつまでも修学旅行で盾ワク純ワクしていられねーしな。",
     ""),
     # I won't be able to stay thrilled and excited about Hot school trips.
 
-    ("それに、志保のрヤツにそんなとこを見迪られるの烽も御免だ。†",
+    ("それに、志保のрヤツにそんなとこを見迪られるのも御免だ。†",
     ""),
     # Also, I'm sorry that Shiho's guy would be able to see such a thing.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What is that curt attitude? You can't help but look at me saying, 'I'm a Hokkaido native'!"
 
-    ("「北海道生まれだなんて言う気はねーけどな、いちいちｊんでるの烽もガキっぽいだ？」",
+    ("「北海道生まれだなんて言う気はねーけどな、いちいちｊんでるのもガキっぽいだ？」",
     ""),
     # "I don't think I was born in Hokkaido, but the hot guy who is always jerking is also a brat?"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Ah, let's see how mature you are!"
 
-    ("「そんなこと言甯われて烽もな。",
+    ("「そんなこと言甯われてもな。",
     ""),
     # "That kind of thing is said, and it's no use.
 
-    ("大人の薰基準って、そ烽もそ烽もなんだよ？」",
+    ("大人の薰基準って、そもそもなんだよ？」",
     ""),
     # Are the standards for adults like hot and hot?”
 
@@ -58,19 +58,19 @@ text_array = [
     ""),
     # "You're not excited about the shield for a week, are you a grown-up adult who's not really excited about it?"
 
-    ("艨我ながら、無ヶ茶苦ル茶な揩理雷だ。",
+    ("艨我ながら、無ヶ茶苦ル茶な理雷だ。",
     ""),
     # Although I am, it is a thunderous thunder.
 
-    ("「あたしだって、潤ワク純ワクしてない墲わよ！」",
+    ("「あたしだって、潤ワク純ワクしてないわよ！」",
     ""),
     # "I'm not purely excited, either!"
 
-    ("「楽しみなんだ？	じ繧ゅーぶん盾ワク純ワクしてるじ痰ゃねーか」†",
+    ("「楽しみなんだ？	じゅーぶん盾ワク純ワクしてるじ痰ゃねーか」†",
     ""),
     # "Are you looking forward to it? Is it really exciting to see the shield and phlegm when you're purely excited?" †
 
-    ("「た、楽しみになんかしてない墲わよ！	あんたがそうなのか、聞いただけよ」",
+    ("「た、楽しみになんかしてないわよ！	あんたがそうなのか、聞いただけよ」",
     ""),
     # "Yeah, I'm not looking forward to it! Just ask if you're that."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Is that so? What happened to Nature?"
 
-    ("「あれは楽しみ方を言っただけでぇ、あたしが楽しみだなんて一言煬も言ってない墲わよ」",
+    ("「あれは楽しみ方を言っただけでぇ、あたしが楽しみだなんて一言煬も言ってないわよ」",
     ""),
     # "That was just a good fortune, and I didn't even say that I'm looking forward to it."
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # "Hmm. I thought to myself, 'I'm looking forward to it, but how about you?'
 
-    ("どんな言い訳が飛び出すか冾期待しながら、オレはどんどん彼濫女を言葉で追いつめた。",
+    ("どんな言い訳が飛び出すか冾期待しながら、オレはどんどん彼女を言葉で追いつめた。",
     ""),
     # I was hoping to see what kind of excuse I would make, but I continued to corner the overflowing woman with words.
 
-    ("「瘁違うんだってば！	ま墲わりのみんなが色々とうるさいから、あんた烽もそうなのかって聞いたのよぉ！」†",
+    ("「瘁違うんだってば！	まわりのみんなが色々とうるさいから、あんたもそうなのかって聞いたのよぉ！」†",
     ""),
     # "I heard that's not good! Everyone around me is so noisy, so I asked if you're the same with Hou!" †
 
-    ("「ま墲わりのみんながねえ…」",
+    ("「まわりのみんながねえ…」",
     ""),
     # "There are everyone around me..."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Uh... No one can have phlegm!"
 
-    ("痛いとこを突かれ、一瞬繒口ご烽もる志保。",
+    ("痛いとこを突かれ、一瞬繒口ごもる志保。",
     ""),
     # Shiho is pounded at the painful part and for a moment, he threw himself in a slumber.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # Heh, he's easily cornered and tampered with it.†
 
-    ("「そうだな。誰で烽もいいよなぁ」",
+    ("「そうだな。誰でもいいよなぁ」",
     ""),
     # "Yes. Who's good, I wonder if it's hot."
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # If you know."
 
-    ("「諱よ〜く墲わかりました」",
+    ("「諱よ〜くわかりました」",
     ""),
     # "I really understand my name."
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Yes, yes, goodbye" †
 
-    ("志保はつかつかと獅去って行った。",
+    ("志保はつかつかと去って行った。",
     ""),
     # Shiho lion left, wondering if it was time to do so.
 

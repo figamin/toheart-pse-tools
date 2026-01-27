@@ -2,15 +2,15 @@
 # Source file: 049D.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階３）閨（選択綜	嬉しくない）†",
+    ("（志保	回秤数イベント	１階３）閨（選択綜	嬉しくない）",
     ""),
-    # (Shiho Scales Event, 1st floor 3) (Chooses are not happy)†
+    # (Shiho Scales Event, 1st floor 3) (Chooses are not happy)
 
     ("「べつに嬉しかねえよ」",
     ""),
     # "I'm really happy."
 
-    ("「なんで？	…♂史は一年からあんたといっしょだから、いいとして…、あかりといっしょなのが気に入逑らないの？」",
+    ("「なんで？	…雅史は一年からあんたといっしょだから、いいとして…、あかりといっしょなのが気に入逑らないの？」",
     ""),
     # "Why? ...Since Makoto has been with you since the first year, it's fine...but don't you like Akari's Episode?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ah, what's wrong?"
 
-    ("「ガキじ痰ゃあるまいし、クラス替えなんかでｊんだりしてられるかよ」†",
+    ("「ガキじ痰ゃあるまいし、クラス替えなんかでｊんだりしてられるかよ」",
     ""),
     # "There's no phlegm, so can you do it when you change your clothes?"
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # ...What exactly is Shiho trying to find out from me?
 
-    ("ハッキリ言甯わないとこが怪しい…。†",
+    ("ハッキリ言甯わないとこが怪しい…。",
     ""),
-    # It's suspicious that the fact that you don't say anything is clear...†
+    # It's suspicious that the fact that you don't say anything is clear...
 
     ("「いまのクラスに、凵嫌いなрヤツがいるかどうかをか？」",
     ""),
     # "Would you like to see if there's someone in the banquet that I hate?"
 
-    ("オレは彼濫女が知闥りたいことは何なのか、逆に聞いてみた。",
+    ("オレは彼女が知闥りたいことは何なのか、逆に聞いてみた。",
     ""),
     # I asked her what the girl wanted to know.
 
@@ -62,19 +62,19 @@ text_array = [
     ""),
     # And b is
 
-    ("「ん烽もぉ！	男のくせに、細かいこと気にしないの！」",
+    ("「んもぉ！	男のくせに、細かいこと気にしないの！」",
     ""),
     # "Mmmmm! Even though he's a man, he doesn't care about the details!"
 
-    ("志保は、じたばたと文蝠句を言い始めた。†",
+    ("志保は、じたばたと文蝠句を言い始めた。",
     ""),
-    # Shiho started slamming and saying his verse.†
+    # Shiho started slamming and saying his verse.
 
     ("「気になるじ痰ゃんか。そんな聞き方されたら」",
     ""),
     # "Are you curious about phlegm? I wonder if you'll be able to hear such a good-for-you."
 
-    ("「もお汲結構謐よ！」",
+    ("「もお結構謐よ！」",
     ""),
     # "You're pretty busy too!"
 
@@ -86,13 +86,13 @@ text_array = [
     ""),
     # Shiho then waved bye bye,
 
-    ("「もう用沫事は済んだから、氈勝闖手に帰っていい墲わよ」",
+    ("「もう用沫事は済んだから、氈勝闖手に帰っていいわよ」",
     ""),
     # "The droplets are already gone, so it's fine to go home to Hakken."
 
-    ("なんて言い出した。†",
+    ("なんて言い出した。",
     ""),
-    # What did you say?†
+    # What did you say?
 
     ("「…はあ？	なんだよそり痰ゃ？	テ＜メエからつき№合えって言っといてよ」",
     ""),
@@ -102,13 +102,13 @@ text_array = [
     ""),
     # "Go over there, shit!"
 
-    ("＊良犬で烽も追い払うみたいに言う、志保。",
+    ("＊良犬でも追い払うみたいに言う、志保。",
     ""),
     # *Shiho says it's a good dog and drives away Hot too.
 
-    ("「わーったよ！	もう誘うな、バカ！」†",
+    ("「わーったよ！	もう誘うな、バカ！」",
     ""),
-    # "I'm back! Don't invite me any more, you idiot!" †
+    # "I'm back! Don't invite me any more, you idiot!" 
 
     ("オレは志保と別れ、さっさと帰った。◯",
     ""),

@@ -2,11 +2,11 @@
 # Source file: 0883.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階１	選択綜Ａ）†",
+    ("（レミィ	回秤数イベント	２階１	選択綜Ａ）†",
     ""),
     # (Game Remy Scale Event 2nd Floor 1 Selection A)†
 
-    ("子沁供は素直で可愛い烽もんな。",
+    ("子沁供は素直で可愛いもんな。",
     ""),
     # Koushin is honest and cute.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「アタシ焜も子沁供、ダ〜イ好き！」",
+    ("「アタシも子沁供、ダ〜イ好き！」",
     ""),
     # "I love you too, I love you!"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # An unexpected approach to the ep...†
 
-    ("「で烽もさ、なんでそういうこと聞くんだ？」",
+    ("「でもさ、なんでそういうこと聞くんだ？」",
     ""),
     # "And so, why are you asking that?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Oh, hey..."
 
-    ("彼濫女はぴょこんと一煦歩退いて、°け出した。",
+    ("彼女はぴょこんと一煦歩退いて、°け出した。",
     ""),
     # The woman stepped back and began to step out.
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # I'm so excited that I stand there...
 
-    ("戟レミィのやつ、いったいどういうつ烽もりで、あんなことを聞いたんだうか？",
+    ("レミィのやつ、いったいどういうつもりで、あんなことを聞いたんだうか？",
     ""),
     # What kind of temptation did you hear of the tampering with Remi?
 
-    ("クラスで烽も、そんなに話したりする№仲じ痰ゃなかったはずなのにな…。◯",
+    ("クラスでも、そんなに話したりする№仲じ痰ゃなかったはずなのにな…。◯",
     ""),
     # At the end of the party, Hou would have had no stimulation to talk so much about it...◯
 

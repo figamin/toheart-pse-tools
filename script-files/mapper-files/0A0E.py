@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Ah, kun!"
 
-    ("やっぱ揩理女緒ち痰ゃんだった。",
+    ("やっぱ理女緒ち痰ゃんだった。",
     ""),
     # After all, it was a bit of a stimulus.
 
@@ -26,19 +26,19 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「で烽も、学校終尞わってすぐだってのに、蛛大変だなー」†",
+    ("「でも、学校終尞わってすぐだってのに、蛛大変だなー」†",
     ""),
     # "And even though it's just after school is over, it's tough."
 
-    ("「うん。で烽も、ここは烽もうちょっとで終尞わりだよ」",
+    ("「うん。でも、ここはもうちょっとで終尞わりだよ」",
     ""),
     # "Yes. And here, the hot springs and hot springs are all over."
 
-    ("「あ、そっか。いくつか掛け揩持ちしてるって言ってたっけ。ってことは、これの繧後煬も別の仕鮪事がある墲わけだ？」",
+    ("「あ、そっか。いくつか掛け持ちしてるって言ってたっけ。ってことは、これの後煬も別の仕鮪事があるわけだ？」",
     ""),
     # "Oh, I see. Did you say you have some hooks. So after this, you're also having a different kind of tuna?"
 
-    ("「今厓日は４つだけ。で烽も、ゲームセンターは墲わりと楽だし、暇をみて宛名走書きのバイト焜もいっしょにできるから」†",
+    ("「今厓日は４つだけ。でも、ゲームセンターはわりと楽だし、暇をみて宛名走書きのバイトもいっしょにできるから」†",
     ""),
     # "There are only four days left right now. And the game centers are pretty easy, and when you're bored, you can also take part-time jobs with address writing at the address when you're bored."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Even though it's about making money, it's a lot of hard work.†
 
-    ("そんな揩理女緒ち痰ゃんに、オレのかけた言葉は｢｢。",
+    ("そんな理女緒ち痰ゃんに、オレのかけた言葉は｢｢。",
     ""),
     # My intense words were ".
 

@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Soon the bus came lol.
 
-    ("目の前で停まり、プシャーッと烽扉が開く。†",
+    ("目の前で停まり、プシャーッと扉が開く。†",
     ""),
     # He stopped in front of him, and the hot door opened suddenly.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # He nodded.†
 
-    ("「さん烽もお元気で。お体にお気をつけて」",
+    ("「さんもお元気で。お体にお気をつけて」",
     ""),
     # "Sanka is doing well too. Take care of your health."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Goodbye, Mr., goodbye, goodbye!'
 
-    ("マルチは繧後伯部座席の汲窓にへばりつき、ぽぽと涙をこぼしながら、見えなくなるまで、いつまで烽もいつまで烽も、閨手を振關り続けた。◯",
+    ("マルチは後伯部座席の窓にへばりつき、ぽぽと涙をこぼしながら、見えなくなるまで、いつまでもいつまでも、閨手を振關り続けた。◯",
     ""),
     # After the crying came to the window in Hakube seat, she cried out and she cried out tears, waving her hands, both for as long as they were invisible, and for as long as they could no longer see.◯
 

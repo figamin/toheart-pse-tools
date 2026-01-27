@@ -2,9 +2,9 @@
 # Source file: 04DD.txt
 
 text_array = [
-    ("（志保	追加イベント４）†",
+    ("（志保	追加イベント４）",
     ""),
-    # (Shiho Additional Event 4)†
+    # (Shiho Additional Event 4)
 
     ("洋棊服屋の前で志保を見かけた。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I'm bucking in front of the store.
 
-    ("オレは近づいて声をかけた。†",
+    ("オレは近づいて声をかけた。",
     ""),
-    # I came nearer and called out.†
+    # I came nearer and called out.
 
     ("「いようっ、志保」",
     ""),
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # "Ah, sputum."
 
-    ("やたら嬉しそうな顔をして駆け寄ってきた。†",
+    ("やたら嬉しそうな顔をして駆け寄ってきた。",
     ""),
-    # I looked over at him with a very happy look on my face.†
+    # I looked over at him with a very happy look on my face.
 
     ("「お前、こんなとこでなにやってんだ？」",
     ""),
     # "What are you doing about this?"
 
-    ("「ちょーどいいとこにｗた墲わね。あんた、いま、ヒマ？」",
+    ("「ちょーどいいとこにｗたわね。あんた、いま、ヒマ？」",
     ""),
     # "You're the best place to b. You're free now?"
 
@@ -54,47 +54,47 @@ text_array = [
     ""),
     # "Not really phlegm, let's go and play now."
 
-    ("そう言ってぐいぐいオレの腕を引っ張髓る。†",
+    ("そう言ってぐいぐいオレの腕を引っ張髓る。",
     ""),
-    # He said, tugs my arm around me.†
+    # He said, tugs my arm around me.
 
     ("「なんだよ急に。お前、この店に用があったんじ痰ゃないのか？」",
     ""),
     # "What is it? Suddenly. Do you have any work for this shop? Don't you have any phlegms?"
 
-    ("そう言って店を覗くと、£にウチの学校の制梵服姿が見える。",
+    ("そう言って店を覗くと、にウチの学校の制梵服姿が見える。",
     ""),
-    # He said this and looked into the store and saw £ in the Sanskrit uniforms from our school.
+    # He said this and looked into the store and saw  in the Sanskrit uniforms from our school.
 
-    ("誰かと思ってよく見骭ると、内藤と長田だ。†",
+    ("誰かと思ってよく見骭ると、内藤と長田だ。",
     ""),
-    # I looked closely at him thinking about it as someone, and found out Naito and Nagata.†
+    # I looked closely at him thinking about it as someone, and found out Naito and Nagata.
 
     ("「なんだ、連齪れがいるじ痰ゃねえか」",
     ""),
     # "What, you need a continuous stream of phlegm?"
 
-    ("「いいのいいの、あのふたりはほっといて烽も」",
+    ("「いいのいいの、あのふたりはほっといても」",
     ""),
     # "It's fine, leave those two alone and even hot."
 
-    ("志保はそのままオレを引っ張って烽歩き出した。",
+    ("志保はそのままオレを引っ張って歩き出した。",
     ""),
     # Shiho just pulled me out and started walking.
 
-    ("「お、おい…」†",
+    ("「お、おい…」",
     ""),
-    # "Oh, hey..."†
+    # "Oh, hey..."
 
-    ("結局、オレたちはいつ烽ものゲーセンにやってきた。†",
+    ("結局、オレたちはいつものゲーセンにやってきた。",
     ""),
-    # In the end, when did we go to the hot arcades?†
+    # In the end, when did we go to the hot arcades?
 
     ("「まずはゲーセンね」",
     ""),
     # "First, the arcade."
 
-    ("「瘁例によって勝縁負で烽もやるか？」",
+    ("「瘁例によって勝縁負でもやるか？」",
     ""),
     # "As usual, will you tamper with the victory and the stomping?"
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "Yes. We'll play for two people on the day."
 
-    ("志保のрヤツ、いつ烽もは敵意むき出しで挑んでくるのに、今厓日に限って≠普通のことを言う。†",
+    ("志保のрヤツ、いつもは敵意むき出しで挑んでくるのに、今厓日に限って≠普通のことを言う。",
     ""),
-    # Shiho's р guy will always challenge him with a strong hostility, but on the day he is currently saying something normal.†
+    # Shiho's р guy will always challenge him with a strong hostility, but on the day he is currently saying something normal.
 
     ("「はあ？	なにを企んでんだよ？」",
     ""),
@@ -122,27 +122,27 @@ text_array = [
     ""),
     # "suspicious…"
 
-    ("そう思いながら烽も、オレは志保のあとを追った。†",
+    ("そう思いながらも、オレは志保のあとを追った。",
     ""),
-    # Thinking this, I followed Shiho's after him.†
+    # Thinking this, I followed Shiho's after him.
 
     ("「はい。まずはこいつね」",
     ""),
     # "Yes. First up is this guy."
 
-    ("志保が指さしたのは『ハートバイハート』だ。†",
+    ("志保が指さしたのは『ハートバイハート』だ。",
     ""),
-    # Shiho pointed to "Heart by Heart."†
+    # Shiho pointed to "Heart by Heart."
 
-    ("制梵服藍女子ｎ高生が、でっかいハムスターだかうさぎだとかと墲戦う、内容が意味不明のアクションゲーム。",
+    ("制梵服藍女子ｎ高生が、でっかいハムスターだかうさぎだとかと戦う、内容が意味不明のアクションゲーム。",
     ""),
     # This is an arbitrary game in which high school girls in Sanskrit uniforms fight against a huge hamster or a rabbit, and the content is incomprehensible.
 
-    ("この制梵服のデザイン、いつ見て烽も翌似てるよな…。",
+    ("この制梵服のデザイン、いつ見ても翌似てるよな…。",
     ""),
     # I wonder when I saw the design of this Sanskrit uniform and the hot springs look similar to the next day...
 
-    ("「いつ烽も変﨑わる烽ものではありません」†",
+    ("「いつも変﨑わるものではありません」",
     ""),
     # "It's not always a hot spring."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # Well, it's fine.
 
-    ("志保がなにを考えているか、ゲームを始めれば墲わかることだ。",
+    ("志保がなにを考えているか、ゲームを始めればわかることだ。",
     ""),
     # You'll understand what Shiho is thinking once you start the game.
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # We were in a chair and had a high school student.
 
-    ("１００円遠齠れてゲームスタート。†",
+    ("１００円遠齠れてゲームスタート。",
     ""),
-    # I got 100 yen and started the game.†
+    # I got 100 yen and started the game.
 
-    ("「あたしは『＃保ち痰ゃん』ね。あたしの歌声にしびれる墲わよ？」",
+    ("「あたしは『＃保ち痰ゃん』ね。あたしの歌声にしびれるわよ？」",
     ""),
     # "I'm '#Stay phlegmy'. I'm numb to my singing voice, right?"
 
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # "I'm feeling numb."
 
-    ("「…ったく」†",
+    ("「…ったく」",
     ""),
-    # "...that's it" †
+    # "...that's it" 
 
     ("「っとに、文蝠句ばっか言ってないで選ぶの」",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # "If that's the case, I'll be "Soarbant Rao-sama."
 
-    ("お手軽で強力なキャャラといったら、やっぱ彼濫女だう。†",
+    ("お手軽で強力なキャャラといったら、やっぱ彼女だう。",
     ""),
-    # When it comes to simple and powerful banquets, you're probably just a huge woman.†
+    # When it comes to simple and powerful banquets, you're probably just a huge woman.
 
     ("「なによぉ〜」",
     ""),
@@ -214,19 +214,19 @@ text_array = [
     ""),
     # "Are you going to kill me?"
 
-    ("「なに言ってんだ？	オレはな、生き残骼る道を選んだだけだ。おめえこそ、自分に翌似てるからって繧弱いキャャラ選ぶなよ」†",
+    ("「なに言ってんだ？	オレはな、生き残骼る道を選んだだけだ。おめえこそ、自分に翌似てるからって弱いキャャラ選ぶなよ」",
     ""),
-    # "What are you talking about? I've just chosen the path to survive. Don't choose a weak banquet just because you look like you the next day."†
+    # "What are you talking about? I've just chosen the path to survive. Don't choose a weak banquet just because you look like you the next day."
 
     ("「むむっ、＃保ち痰ゃんを甘く見たようね」",
     ""),
     # "Mmmm, it seems like you've looked down on #preserving phlegm."
 
-    ("「悪いか」†",
+    ("「悪いか」",
     ""),
-    # "Is it bad?" †
+    # "Is it bad?" 
 
-    ("「あんたの見解がいかに間瘧違ってるか、証明してあげる墲わ」",
+    ("「あんたの見解がいかに間違ってるか、証明してあげるわ」",
     ""),
     # "I'll prove how different your views are."
 
@@ -238,15 +238,15 @@ text_array = [
     ""),
     # While I was cursed with the like, I was on the front page of Kugata Ria.
 
-    ("この辺阨りはおたがい、慣れた烽ものだ。†",
+    ("この辺阨りはおたがい、慣れたものだ。",
     ""),
-    # This area is usually used to it.†
+    # This area is usually used to it.
 
     ("２面。",
     ""),
     # Two sides.
 
-    ("まだ二人と烽もバリアを取っていない。",
+    ("まだ二人ともバリアを取っていない。",
     ""),
     # Neither the two nor the wakarari have yet to take the Balata Ria.
 
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # Of course, there is a different sense of security between having and not having a Balata Ria.
 
-    ("協力といいながら烽も、自分だけが生き残骼ることしか考えていない鰍相棒を出し抜いてで烽もＧＥＴしたい。†",
+    ("協力といいながらも、自分だけが生き残骼ることしか考えていない鰍相棒を出し抜いてでもＧＥＴしたい。",
     ""),
-    # Although he calls it cooperation, he wants to outdo the Kara-Boy, who is only thinking about survival, and also helps him get the Kara-Boy.†
+    # Although he calls it cooperation, he wants to outdo the Kara-Boy, who is only thinking about survival, and also helps him get the Kara-Boy.
 
     ("「えいっ、ヘッディング！」",
     ""),
@@ -282,9 +282,9 @@ text_array = [
     ""),
     # "Hahaha, that's good."
 
-    ("「ムッカーッ」†",
+    ("「ムッカーッ」",
     ""),
-    # "Mukkaa" †
+    # "Mukkaa" 
 
     ("３面。",
     ""),
@@ -294,21 +294,21 @@ text_array = [
     ""),
     # Finally, Soa Fengla got the Balata Ria.
 
-    ("これでｔ保に差をつけたと思いきや、すぐにｌこう烽もバリアをＧＥＴ。",
+    ("これでｔ保に差をつけたと思いきや、すぐにｌこうもバリアをＧＥＴ。",
     ""),
     # I thought this had made a difference to T-Ho, but soon L-Kou-Now also managed to get the Balata Ria.
 
-    ("しかし、協力どこか敵意むき出しの奄ラフプレイで、ふたりと烽も取ったばかりのバリアを消す羽目に…。†",
+    ("しかし、協力どこか敵意むき出しの奄ラフプレイで、ふたりとも取ったばかりのバリアを消す羽目に…。",
     ""),
-    # However, in a situation where they are in a hostile atmosphere, they end up disappearing the two of them, who have just taken out the balata ria, which they had just taken out.†
+    # However, in a situation where they are in a hostile atmosphere, they end up disappearing the two of them, who have just taken out the balata ria, which they had just taken out.
 
-    ("４面、５面とさすがに冾日頃のバトルの成果があら墲われるのか、足を引っ張闥り№合いながら烽も№順調に突破するオレたち。",
+    ("４面、５面とさすがに冾日頃のバトルの成果があらわれるのか、足を引っ張闥り№合いながらも№順調に突破するオレたち。",
     ""),
     # The results of the battle crying on the 4th and 5th sides are sure to be the result of the daily battle crying, and the people are holding back and forth, but the hottest members are steadily breaking through.
 
-    ("知迺らないрヤツが見たらゲーマーのカップルかと思うか烽もしれないな…。†",
+    ("知迺らないрヤツが見たらゲーマーのカップルかと思うかもしれないな…。",
     ""),
-    # If someone who doesn't know about it was a gamer's couple, I'm sure they might think it was a gamer's cry...†
+    # If someone who doesn't know about it was a gamer's couple, I'm sure they might think it was a gamer's cry...
 
     ("そして１３面。",
     ""),
@@ -322,31 +322,31 @@ text_array = [
     ""),
     # "Look, go lol."
 
-    ("「あっ、てめぇ獅落とすな！」",
+    ("「あっ、てめぇ落とすな！」",
     ""),
     # "Ah, don't lion!"
 
-    ("＃保が撃レーザー浴女を突き獅落とした。",
+    ("＃保が撃レーザー女を突き落とした。",
     ""),
     # #House thrusts the laser bath woman and drops her.
 
-    ("戟レーザーを出しながら獅落ちてくる撃レーザー浴女。†",
+    ("レーザーを出しながら落ちてくる撃レーザー女。",
     ""),
-    # A lion falls while she releases a laser beam.†
+    # A lion falls while she releases a laser beam.
 
-    ("その通闥り道のソアラにはたまった烽もんじ痰ゃない。",
+    ("その通闥り道のソアラにはたまったもんじ痰ゃない。",
     ""),
     # There is no accumulated heat in the banquet along the way.
 
-    ("為す術熄もなく、さっき手に入齠れたバリアを墲削迯られてしまう。",
+    ("為す術熄もなく、さっき手に入齠れたバリアを削迯られてしまう。",
     ""),
     # Without any scrupulous techniques, the Balata Ria, which was previously available, was cut off.
 
-    ("「に痰ゃ〜っ、覚えてやがれ！」†",
+    ("「に痰ゃ〜っ、覚えてやがれ！」",
     ""),
     # "You're phlegmy, remember it and tamper with it!"
 
-    ("１７面、そんなオレに烽もついにチャャンス档到痘。",
+    ("１７面、そんなオレにもついにチャャンス档到痘。",
     ""),
     # On the 17th page, Hou finally has a chance to reach pox.
 
@@ -354,15 +354,15 @@ text_array = [
     ""),
     # I managed to step on #Preserve and turn it into a stand.
 
-    ("連続で踏みつけて、＃保に動くスキを与えない。†",
+    ("連続で踏みつけて、＃保に動くスキを与えない。",
     ""),
-    # Stomp on it continuously and do not give #save any moving likes.†
+    # Stomp on it continuously and do not give #save any moving likes.
 
     ("「あ、これっ、どきなさいってば！」",
     ""),
     # "Ah, I'd like to hit you!"
 
-    ("「あれっ？	わりぃな、降闕りれねえ墲わ」",
+    ("「あれっ？	わりぃな、降闕りれねえわ」",
     ""),
     # "Huh? It's so bad, I can't stop coming."
 
@@ -370,9 +370,9 @@ text_array = [
     ""),
     # "Yes, sputum!"
 
-    ("なんて墲わめいてるうちに、ニンジンの猛打を受け、＃保死亡。†",
+    ("なんてわめいてるうちに、ニンジンの猛打を受け、＃保死亡。",
     ""),
-    # While he was yelling, he was hit by a carrot and died.†
+    # While he was yelling, he was hit by a carrot and died.
 
     ("「イエ〜イ…じ痰ゃなかった。",
     ""),
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # Is it sturdy??”
 
-    ("「蛛大苟丈夫じ痰ゃない墲わよ！	死人に口無しよ！」",
+    ("「蛛大苟丈夫じ痰ゃないわよ！	死人に口無しよ！」",
     ""),
     # "Dragonfly is strong and has no phlegm! No good for the dead!"
 
@@ -390,7 +390,7 @@ text_array = [
     ""),
     # "Then shut up b."
 
-    ("「ムキ〜〜〜ッ！」†",
+    ("「ムキ〜〜〜ッ！」",
     ""),
     # "Ahhhh!"
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # "You, be quiet!"
 
-    ("「おめえこそ止まって！」†",
+    ("「おめえこそ止まって！」",
     ""),
     # "You're the one who's stopped, b!"
 
@@ -414,23 +414,23 @@ text_array = [
     ""),
     # While he is slurping and slurping, the enemy dies by taking on the collusion of our veteran positions.
 
-    ("…なんかオレたち、縺上闖手いのか下濶手なのかよく墲わからない。†",
+    ("…なんかオレたち、縺上闖手いのか下濶手なのかよくわからない。",
     ""),
-    # ...I don't really know if I'm a big fan or a shitty player.†
+    # ...I don't really know if I'm a big fan or a shitty player.
 
     ("２５面。",
     ""),
     # 25 sides.
 
-    ("この辺阨りと烽もなると、梶相闡手だけをかまっていられなくなる。",
+    ("この辺阨りともなると、梶相闡手だけをかまっていられなくなる。",
     ""),
     # When this area becomes more common, it becomes impossible to keep only the Kaji related players.
 
-    ("禔油断すると、雑寰魚に烽もやられてしまう。",
+    ("禔油断すると、雑寰魚にもやられてしまう。",
     ""),
     # If you let your guard down, the miscellaneous fish will also tamper with the hot springs.
 
-    ("敵がグッと揩増えた気がしてくる。",
+    ("敵がグッと増えた気がしてくる。",
     ""),
     # I feel like the number of enemies has increased dramatically.
 
@@ -442,21 +442,21 @@ text_array = [
     ""),
     # "You are the one."
 
-    ("♂話だけ聞くと、尋岦常じ痰ゃない。†",
+    ("雅話だけ聞くと、尋岦常じ痰ゃない。",
     ""),
-    # If you just listen to the story, you will always be able to sputum.†
+    # If you just listen to the story, you will always be able to sputum.
 
     ("とうとう２９面。",
     ""),
     # Finally, 29 sides.
 
-    ("２７面で思いのほか苦寀戦し、ソアラとｔ保はと烽もに残闔りゼ鴻ロ。",
+    ("２７面で思いのほか苦寀戦し、ソアラとｔ保はともに残りゼ鴻ロ。",
     ""),
     # He fought more than he expected on the 27th side, and was left with Soa Fan and T-Ho and Hou.
 
-    ("堰ラスボスを前に厳しい状況だ。†",
+    ("堰ラスボスを前に厳しい状況だ。",
     ""),
-    # The situation is tough ahead of the final boss of the weir.†
+    # The situation is tough ahead of the final boss of the weir.
 
     ("「」",
     ""),
@@ -470,17 +470,17 @@ text_array = [
     ""),
     # Keep an eye on them.
 
-    ("ここから先は夢亦で墲戦ったせいか、諱よくは覚えていない。†",
+    ("ここから先は夢亦で戦ったせいか、諱よくは覚えていない。",
     ""),
-    # From here onwards, perhaps because I fought dreams, I don't remember very well.†
+    # From here onwards, perhaps because I fought dreams, I don't remember very well.
 
     ("しかし、噤爆発するボスを見骭る頃には、二人≒仲良く画面に残っていた。",
     ""),
     # However, by the time I saw the boss exploding, the two were still together and still on the screen.
 
-    ("…ってことは、なかなかの好プレイだったらしい。†",
+    ("…ってことは、なかなかの好プレイだったらしい。",
     ""),
-    # ...That means it was a pretty good-looking guy.†
+    # ...That means it was a pretty good-looking guy.
 
     ("「あ〜終尞わった終尞わった…」",
     ""),
@@ -494,9 +494,9 @@ text_array = [
     ""),
     # Maybe he watched the wholesale club as I and Shiho's crazy battle?
 
-    ("オレは少し恥ずかしくなった。†",
+    ("オレは少し恥ずかしくなった。",
     ""),
-    # My heart was a little embarrassed.†
+    # My heart was a little embarrassed.
 
     ("「ややっ、どーもどーも」",
     ""),
@@ -514,27 +514,27 @@ text_array = [
     ""),
     # "I'm fine with phlegm. You've got all the way through, right? That's great, isn't it?"
 
-    ("「そんな烽もんか？」†",
+    ("「そんなもんか？」",
     ""),
     # "Is that kind of hot?"
 
-    ("考えてみれば、コンティニャー無しで全面クリアってのはそうそうできる墲わけじ痰ゃない。",
+    ("考えてみれば、コンティニャー無しで全面クリアってのはそうそうできるわけじ痰ゃない。",
     ""),
     # When you think about it, a completely slugal lily without a continuity is a very simple thing to do.
 
-    ("やっぱ凄かったのか烽もな。†",
+    ("やっぱ凄かったのかもな。",
     ""),
-    # I guess it was amazing, isn't it? Hot too.†
+    # I guess it was amazing, isn't it? Hot too.
 
-    ("…その繧後、ゲーセンで散々遊びま墲わって、店を出た頃には辺阨りは暗くなっていた。",
+    ("…その後、ゲーセンで散々遊びまわって、店を出た頃には辺阨りは暗くなっていた。",
     ""),
     # ...After that, I spent a lot of time playing at the arcade, and by the time I left the store, the riverside was dark.
 
-    ("とりあえず駅にｌかって烽歩き出す。†",
+    ("とりあえず駅にｌかって歩き出す。",
     ""),
-    # For now, I head to the station and start walking around.†
+    # For now, I head to the station and start walking around.
 
-    ("「やっぱ、あんたといっしょだと、楽しい墲わね〜」",
+    ("「やっぱ、あんたといっしょだと、楽しいわね〜」",
     ""),
     # "After all, it's fun to see you with me."
 
@@ -546,7 +546,7 @@ text_array = [
     ""),
     # It's a casual word, but I didn't miss the meaning contained in the word.
 
-    ("「なあ…。お前さ、あいつらといっしょだと楽しくないのか？」†",
+    ("「なあ…。お前さ、あいつらといっしょだと楽しくないのか？」",
     ""),
     # "Hey... You don't have fun with them?"
 
@@ -566,15 +566,15 @@ text_array = [
     ""),
     # "...What are you saying?"
 
-    ("一瞬繒口ご烽もって、そんなことを言う。",
+    ("一瞬繒口ごもって、そんなことを言う。",
     ""),
     # For a moment, he sniffs and says that.
 
-    ("図星だ。†",
+    ("図星だ。",
     ""),
-    # It's a picture star.†
+    # It's a picture star.
 
-    ("「オ＜メエはあんな連中とは烽もと烽もとタイプが№合寘わねえんだよ」",
+    ("「オ＜メエはあんな連中とはもともとタイプが№合寘わねえんだよ」",
     ""),
     # "Oh, I don't have a different type of komoto and komoto with those guys."
 
@@ -582,7 +582,7 @@ text_array = [
     ""),
     # "What do you say I'm late?"
 
-    ("「少なくと烽も、柄じ痰ゃねー諱よ」",
+    ("「少なくとも、柄じ痰ゃねー諱よ」",
     ""),
     # "At least, the handle is too much, so your name is phlegm."
 
@@ -590,15 +590,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("それっきり志保は黙ってしまった。†",
+    ("それっきり志保は黙ってしまった。",
     ""),
-    # Shiho just kept quiet.†
+    # Shiho just kept quiet.
 
     ("オレは構寘わず話を進める。",
     ""),
     # I didn't care about it and proceeded to talk.
 
-    ("「お前が背伸びしてあいつらとつき№合ってんのは、オレ窿やｉ史からは見え見えなんだよ。…多分あかりに烽もな」",
+    ("「お前が背伸びしてあいつらとつき№合ってんのは、オレ窿や史からは見え見えなんだよ。…多分あかりにもな」",
     ""),
     # "You're stretching out and coming along with them, and it's obvious from my superhero and I-Hisashi...I think there's a lot of light."
 
@@ -610,9 +610,9 @@ text_array = [
     ""),
     # "You're kind of weird around this time."
 
-    ("志保はちらっとオレを見て、†",
+    ("志保はちらっとオレを見て、",
     ""),
-    # Shiho glanced at me and †
+    # Shiho glanced at me and 
 
     ("「…なんかさ、時々わかんなくなっち痰ゃうんだ。あのふたりの考えてること…」",
     ""),
@@ -638,11 +638,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("「やっぱイсヤなんだ？」†",
+    ("「やっぱイсヤなんだ？」",
     ""),
     # "Are you yeah, after all, b?"
 
-    ("「…正直、ちょっとしんどい墲わね」",
+    ("「…正直、ちょっとしんどいわね」",
     ""),
     # "...To be honest, it's a bit of a pain."
 
@@ -650,13 +650,13 @@ text_array = [
     ""),
     # "Then, stop tampering with stretching."
 
-    ("「考えとく墲わ…」",
+    ("「考えとくわ…」",
     ""),
     # "I'll think about it..."
 
-    ("志保がそうつぶやいたとき、ちょうど駅の入闢り口にｒいた。†",
+    ("志保がそうつぶやいたとき、ちょうど駅の入闢り口にｒいた。",
     ""),
-    # When Shiho slammed this, he went to Fukuguchi on the way to Chibeyodo Station.†
+    # When Shiho slammed this, he went to Fukuguchi on the way to Chibeyodo Station.
 
     ("「またな」",
     ""),
@@ -674,9 +674,9 @@ text_array = [
     ""),
     # Shiho Taru also waved.
 
-    ("それを見て、オレは背をｌけた。†",
+    ("それを見て、オレは背をｌけた。",
     ""),
-    # Seeing this, I turned my back.†
+    # Seeing this, I turned my back.
 
     ("「」",
     ""),
@@ -698,27 +698,27 @@ text_array = [
     ""),
     # "My legs are so tight, I have no phlegm, my name is."
 
-    ("「あんた烽もね」",
+    ("「あんたもね」",
     ""),
     # "You too, too."
 
-    ("今度こそ、オレたちは別れた。†",
+    ("今度こそ、オレたちは別れた。",
     ""),
-    # This time, we broke up.†
+    # This time, we broke up.
 
     ("帰闍り道…、ひとり考えてみる。",
     ""),
     # A journey back... I think about it alone.
 
-    ("考えが墲わかんねー、か…。",
+    ("考えがわかんねー、か…。",
     ""),
     # I don't know what you think...
 
-    ("…身の繧上話をする志保なんて、堰初めて見た気がするぜ。",
+    ("…身の上話をする志保なんて、堰初めて見た気がするぜ。",
     ""),
     # ...It feels like it's the first time I've seen Shiho talk about anything.
 
-    ("あいつに烽も悩みとかあるんだな。◯",
+    ("あいつにも悩みとかあるんだな。◯",
     ""),
     # He has a problem with hot water too.◯
 

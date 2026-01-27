@@ -2,11 +2,11 @@
 # Source file: 0A05.txt
 
 text_array = [
-    ("（掾理女緒	冝日付強制イベント	出初いⅢ）閨（３獅月８冾日）閨（掾理女緒とｉっているなら発生）閨（智子のイベント（１階を烽歩く）を経由していない場㍼合）閨（駅）†",
+    ("（掾理女緒	冝日付強制イベント	出初いⅢ）閨（３月８冾日）閨（掾理女緒とっているなら発生）閨（智子のイベント（１階を歩く）を経由していない場㍼合）閨（駅）",
     ""),
-    # (Eiri Meo's Date Forced Event First Time III) (3rd Lion Month 8th Day) (occasionally occurs if you are in I with Eiri Meo) (occasionally not via Tomoko's event (traveling on the first floor)) (in station) †
+    # (Eiri Meo's Date Forced Event First Time III) (3rd Lion Month 8th Day) (occasionally occurs if you are in I with Eiri Meo) (occasionally not via Tomoko's event (traveling on the first floor)) (in station) 
 
-    ("帰驪る途湯、駅前でｉ史を見かけた。",
+    ("帰驪る途湯、駅前で史を見かけた。",
     ""),
     # I saw I-Shin in front of the station, when I went home.
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "I'm not saying this, what are you tampering with?
 
-    ("「あ、。じつは…」†",
+    ("「あ、。じつは…」",
     ""),
-    # "Ah, actually..." †
+    # "Ah, actually..." 
 
     ("「やいっ、なかまをよぶとはひきょうだぞ！」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "No small phlegm!"
 
-    ("「チビじ痰ゃねーか」†",
+    ("「チビじ痰ゃねーか」",
     ""),
     # "You're so little phlegm?"
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Ah well."
 
-    ("♂史が止めに入體る。†",
+    ("雅史が止めに入體る。",
     ""),
-    # Male Stories are in the way of stopping.†
+    # Male Stories are in the way of stopping.
 
     ("「こいつ、お前の知闥り№合いか？」",
     ""),
@@ -70,12 +70,12 @@ text_array = [
     ""),
     # When I heard
 
-    ("「うん、諱よく墲わかんないけど、なんだか僕が怒逑らせることをしたらしいんだ」",
+    ("「うん、諱よくわかんないけど、なんだか僕が怒逑らせることをしたらしいんだ」",
     ""),
     # "Yeah, I don't really know what you've said, but it seems like I've done something that made me angry."
 
-    ("まったく身に覚えがないといった顔で言うｉ史。†",
+    ("まったく身に覚えがないといった顔で言う史。",
     ""),
-    # I-Shin, who says that he has no recollection of him at all.†
+    # I-Shin, who says that he has no recollection of him at all.
 
 ]

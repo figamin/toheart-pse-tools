@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Kotone Chisho-yan looked at me and bowed his head.
 
-    ("「いっしょに帰汲うぜ」",
+    ("「いっしょに帰うぜ」",
     ""),
     # "I'll return to the ephemeral."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Isn't there a way to come on the day now?"
 
-    ("しばらく烽歩いたとこで、オレはそう提案した。",
+    ("しばらく歩いたとこで、オレはそう提案した。",
     ""),
     # After walking for a while, I proposed to myself.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "How about the Fukuwari area in the shopping district?"
 
-    ("あそこなら一通闥りなんで烽もそってるし、遊ぶ場鰹所熄も多いし、楽しめるだう。†",
+    ("あそこなら一通闥りなんでもそってるし、遊ぶ場鰹所熄も多いし、楽しめるだう。†",
     ""),
     # There's a message over there, so there are also many bonito dishes to play in, so you can enjoy it.†
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Crowds are hard work..."
 
-    ("彼濫女はそう言った。",
+    ("彼女はそう言った。",
     ""),
     # The girl said.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # ・†
 
-    ("「｢｢で、最纃後にそのｉ史ってрヤツが叫んだんだよ。『恐いよ、〜っ』って。",
+    ("「｢｢で、最纃後にその史ってрヤツが叫んだんだよ。『恐いよ、〜っ』って。",
     ""),
     # "'So, at last the last thing that he screamed, "That i-hisa." 'I'm scared.'
 
-    ("もう、そこにいた全員が大囁爆笑だ。あれはオレ焜も恥ずかしかった！」",
+    ("もう、そこにいた全員が大囁爆笑だ。あれはオレも恥ずかしかった！」",
     ""),
     # Everyone there was already whispering loudly.That was even embarrassing!”
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # In a park with few people, I kept talking about the unspoiled Kotone Chisho-chan with my crocodile.
 
-    ("腹がよじれそうな体験談をチョイスしてるはずなのに、彼濫女はちっと烽も笑ってくれない。†",
+    ("腹がよじれそうな体験談をチョイスしてるはずなのに、彼女はちっとも笑ってくれない。†",
     ""),
     # He was supposed to be slurping about his experiences that would make his stomach fluster, but the girl in the busty woman wouldn't laugh at him at all.†
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Because Kotone Chisho-yan, he's not laughing at the time of warming."
 
-    ("すると、彼濫女はハッとなった。",
+    ("すると、彼女はハッとなった。",
     ""),
     # Then the overwhelmed woman.
 
@@ -170,11 +170,11 @@ text_array = [
     ""),
     # "It's a mess, well, it's certainly not a mess, I think it was all about inside jokes."
 
-    ("「いえ、そんなつ烽もりじ痰ゃ…」",
+    ("「いえ、そんなつもりじ痰ゃ…」",
     ""),
     # "No, that kind of sputum is too strong..."
 
-    ("「諱よし、じ痰ゃあ、とっておきのギャャグスペシャャルで烽も披露するか！」†",
+    ("「諱よし、じ痰ゃあ、とっておきのギャャグスペシャャルでも披露するか！」†",
     ""),
     # "Okay, I'll show off the hot springs with my special Gyagu Special Cry!"
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "yes…"
 
-    ("オレは目を閉じ、声のトーンを獅落とした。",
+    ("オレは目を閉じ、声のトーンを落とした。",
     ""),
     # My eyes closed and the tone of my voice dropped.
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # This is a story in a cursed city where monsters eat the webs.
 
-    ("午後９桙時を過ぎた頃…怪しげな男たちが、ある一軒の屋敷のｎ囲を取闔り囲んだ。†",
+    ("午後９桙時を過ぎた頃…怪しげな男たちが、ある一軒の屋敷のｎ囲を取り囲んだ。†",
     ""),
     # Just after nine o'clock after the morning... suspicious men surrounded the n-circumference of a mansion.†
 
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # "She's not the best. Well, I still have more to stock up on the jokes."
 
-    ("オレは烽もう一度、目を閉じ、語りに集薯する。◯",
+    ("オレはもう一度、目を閉じ、語りに集薯する。◯",
     ""),
     # My geira closed my eyes again and gathered my mouth in a slogan.◯
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # "Spring Ghost Stories, Fearful Shigata Leeds Episode 2, "Evil Class""
 
-    ("「あっ、それ墲わかります。開くのが今厓日なんですね」†",
+    ("「あっ、それわかります。開くのが今厓日なんですね」†",
     ""),
     # "Ah, I know that. It's the day it's opening."
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # "Ah, sorry. I was laughing...?"
 
-    ("そこで烽も嘘で烽もいいから笑ってくれり痰ゃいいのに、琴音ち痰ゃんは申し訳なさそうに目を嘯伏せてしまった。†",
+    ("そこでも嘘でもいいから笑ってくれり痰ゃいいのに、琴音ち痰ゃんは申し訳なさそうに目を嘯伏せてしまった。†",
     ""),
     # So Kotone Chisho-yan looked down with apologies, even though he laughed, and he should have sex, but Kotone Chisho-yan looked down with apologies.†
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # It was a gourmet foodie.
 
-    ("男は目の前にある、戟血のしたたる肉にかぶりつき、そして、ひとこと。｢｢さあ、なんでしょう！？」†",
+    ("男は目の前にある、血のしたたる肉にかぶりつき、そして、ひとこと。｢｢さあ、なんでしょう！？」†",
     ""),
     # The man pecked into the bloody flesh in front of him, and then a word."Come on, why not simulate!?”†
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # What is this nogatari?
 
-    ("だが、もう繧後には退けねえ。†",
+    ("だが、もう後には退けねえ。†",
     ""),
     # However, I can't resist after it's already over.†
 
@@ -442,7 +442,7 @@ text_array = [
     ""),
     # Certainly, Kotone Chisho-chan is almost uttering "pu."†
 
-    ("いや、今ならはっきりと墲わかる。",
+    ("いや、今ならはっきりとわかる。",
     ""),
     # It's obvious now that it's tampering, and it's clear.
 
@@ -454,7 +454,7 @@ text_array = [
     ""),
     # "The quiz of guessing the hemp quiz was so cute!?"
 
-    ("「…はい、で烽も、それより烽も、さんが、なんだかおかしくて…」",
+    ("「…はい、でも、それよりも、さんが、なんだかおかしくて…」",
     ""),
     # "...Yes, and even the hot, and even the hot, are kind of weird..."
 
@@ -466,19 +466,19 @@ text_array = [
     ""),
     # Well, okay, okay.
 
-    ("ち痰ゃんと、琴音ち痰ゃんの笑迴顔が見鼬れたんだし、結果オー堰ライってことで。†",
+    ("ち痰ゃんと、琴音ち痰ゃんの笑顔が見鼬れたんだし、結果オー堰ライってことで。†",
     ""),
     # I was able to see the laughing faces of Kotone Chisho-chan, which turned out to be Oh-Yirai.†
 
-    ("その繧後、オレと琴音ち痰ゃんはいい雰囲気になり、♂話燔もほどほどに弾んだ。",
+    ("その後、オレと琴音ち痰ゃんはいい雰囲気になり、雅話燔もほどほどに弾んだ。",
     ""),
     # After that, my lively and Kotone Chisho-yan got a good atmosphere, and the male talk was moderately thrilled.
 
-    ("とりとめ烽もない雑談を交甯わすうち、琴音ち痰ゃんは、自然に笑迴顔を見せるようになっていった。†",
+    ("とりとめもない雑談を交甯わすうち、琴音ち痰ゃんは、自然に笑顔を見せるようになっていった。†",
     ""),
     # As Kotone Chisho-yan began to laugh at her face as she naturally began to laugh.†
 
-    ("暖かい冾日だまりのｒ、オレは、この笑迴顔を奪っている超能力から、なんとして烽も彼濫女を解き冾放ってやう…、そう思っていた。◯",
+    ("暖かい冾日だまりのｒ、オレは、この笑顔を奪っている超能力から、なんとしても彼女を解き冾放ってやう…、そう思っていた。◯",
     ""),
     # I, who was in the warm, laurel, thought that from this psychic power that had taken away her face, that even Hou would release her and release her, and tamper with it...◯
 

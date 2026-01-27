@@ -2,17 +2,17 @@
 # Source file: 0B34.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント５）閨（選択綜Ｂ	綾∴香の強さを	の続き）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント５）閨（選択綜Ｂ	綾∴香の強さを	の続き）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka challenges Aya∴Ka, event 5) (Continued from Selection B, Aya∴Ka's strength)†
+    # (Aya∴Ka challenges Aya∴Ka challenges Aya∴Ka, event 5) (Continued from Selection B, Aya∴Ka's strength)
 
     ("オレは綾∴香の強さを痛感していた。",
     ""),
     # My geire was keenly aware of the strength of Aya∴Ka.
 
-    ("知識が揩増え、自分の力量がр推し量齬れるようになったぶんだけ、綾∴香のすごさが墲わかる。†",
+    ("知識が増え、自分の力量がр推し量齬れるようになったぶんだけ、綾∴香のすごさがわかる。",
     ""),
-    # The more I gained knowledge and my abilities became inconsistent, the more I could see the amazingness of Aya∴Ka.†
+    # The more I gained knowledge and my abilities became inconsistent, the more I could see the amazingness of Aya∴Ka.
 
     ("攻ｍ撃の速さ、フット純ワークの巧みさ。",
     ""),
@@ -22,19 +22,19 @@ text_array = [
     ""),
     # Move to the superior position, mix feints, and hit an effective combination.
 
-    ("じつに繧上闖手い。",
+    ("じつに上闖手い。",
     ""),
     # It's really good.
 
-    ("いまのオレには、とて烽も真乱似できない。",
+    ("いまのオレには、とても真乱似できない。",
     ""),
     # I can't even look like a real wilderness in my current days.
 
-    ("近づこうとすれば、近づこうとするだけ、遠く感じていくぜ。†",
+    ("近づこうとすれば、近づこうとするだけ、遠く感じていくぜ。",
     ""),
-    # If you try to get closer, the more you try to get closer, the more you feel farther.†
+    # If you try to get closer, the more you try to get closer, the more you feel farther.
 
-    ("で烽も、それでいい。",
+    ("でも、それでいい。",
     ""),
     # And that's fine for Hot too.
 
@@ -46,8 +46,8 @@ text_array = [
     ""),
     # That's what makes it meaningful.
 
-    ("目標が高ければ高いだけ、こっち烽も燃えるからな。†",
+    ("目標が高ければ高いだけ、こっちも燃えるからな。",
     ""),
-    # If your target is higher, the higher the b, the hot springs will burn too.†
+    # If your target is higher, the higher the b, the hot springs will burn too.
 
 ]

@@ -2,15 +2,15 @@
 # Source file: 0B09.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）",
     ""),
-    # (Aya∴Kawa Pick Date Event 2) (Continued from Chosen A Greeting)†
+    # (Aya∴Kawa Pick Date Event 2) (Continued from Chosen A Greeting)
 
     ("そうだな。",
     ""),
     # That's right.
 
-    ("ちょうど先輩から烽も『＊と№仲良くしてください』って言甯われてたからな。",
+    ("ちょうど先輩からも『＊と№仲良くしてください』って言甯われてたからな。",
     ""),
     # Chie-yodo-senpai also told me to "Make sure to get along with *".
 
@@ -18,23 +18,23 @@ text_array = [
     ""),
     # I'll give you a quick greeting.
 
-    ("オレは宸寺落女集団に足をｌけた。†",
+    ("オレは宸寺落女集団に足をｌけた。",
     ""),
-    # I went to the group of fallen women in the temple.†
+    # I went to the group of fallen women in the temple.
 
     ("「｢｢でね、その新型のセリオっていう子がすっごく使えるのよ」",
     ""),
     # "Then, that new type of girl named Segata Rio can really use it."
 
-    ("なにやら楽しげにお揩喋闥りする綾∴香に近づき、縺後撃から声をかけた。",
+    ("なにやら楽しげにお喋闥りする綾∴香に近づき、縺後撃から声をかけた。",
     ""),
     # He approached Aya∴Kara, who was talking with joy and joy, and called out to him after the attack.
 
-    ("「諱よう」†",
+    ("「諱よう」",
     ""),
-    # "Let's be my name"†
+    # "Let's be my name"
 
-    ("「たとえば料摎理ひとつをとって烽も、世界各相国約８０００墲種類の≠メニャーの撃レパートリーがあるっていうから驚きでしょ」",
+    ("「たとえば料摎理ひとつをとっても、世界各相国約８０００種類の≠メニャーの撃レパートリーがあるっていうから驚きでしょ」",
     ""),
     # "For example, I was surprised to find that there are some 8,000 different types of ≠Meña's Ekirepert Radish, which is a place in the world of around 8,000 different countries."
 
@@ -42,15 +42,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("だが、呼びかけ烽もむなしく、綾∴香は友だちとの話に夢亦で全然オレに気づかない。†",
+    ("だが、呼びかけもむなしく、綾∴香は友だちとの話に夢亦で全然オレに気づかない。",
     ""),
-    # However, even though he called out to her, Aya Kaori was numb to talk to her friends, and she didn't notice me at all.†
+    # However, even though he called out to her, Aya Kaori was numb to talk to her friends, and she didn't notice me at all.
 
     ("「なあ、おい」",
     ""),
     # "Hey, hey."
 
-    ("「ほかに烽もいんな専蜷門知識のデータを衛星から一瞬でダウン鴻ロードできち痰ゃう優齬れ烽ものなんだって」",
+    ("「ほかにもいんな専蜷門知識のデータを衛星から一瞬でダウン鴻ロードできち痰ゃう優齬れものなんだって」",
     ""),
     # "It's a shame that you can instantly download and load data from a satellite from other sources of knowledge."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Hey..."
 
-    ("「だから、これからの≠メイド鴻ロボは、家哩事の手伝いだけじ痰ゃなく、家族のホームドクターや子沁供の家薗教師に烽もなっち痰ゃうって墲わけ」†",
+    ("「だから、これからの≠メイド鴻ロボは、家哩事の手伝いだけじ痰ゃなく、家族のホームドクターや子沁供の家薗教師にもなっち痰ゃうってわけ」",
     ""),
     # "So, from now on, Maid Korobo will not only help with the family's home doctor, but also say that the family's home doctor, the teacher who gives the child, will be able to have a stimulus."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "You say "I'm coming" but you don't hear me?"
 
-    ("オレは綾∴香の墲わき腹をくすぐった。",
+    ("オレは綾∴香のわき腹をくすぐった。",
     ""),
     # My gut tickled Aya∴Kawa's side.
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # "Oh, phlegm!"
 
-    ("その瞬間｢｢。†",
+    ("その瞬間｢｢。",
     ""),
-    # At that moment, ".†
+    # At that moment, ".
 
     ("閃光のような衝ｏ撃が、オレのみぞおちから背白へと突き抜けた。",
     ""),
     # A flash of light-like shock thrusts through my violent throbbing into the back.
 
-    ("やや遅れて、今度は鈍い衝ｏ撃が烽内沒臓全体に広がっていく。",
+    ("やや遅れて、今度は鈍い衝ｏ撃が内沒臓全体に広がっていく。",
     ""),
     # Due to the sluggishness and delay, a dull shock spreads throughout the heat.
 
@@ -94,13 +94,13 @@ text_array = [
     ""),
     # "Grrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
-    ("空気のかたまりが口からこぼれると同椏時に、目の前が、艨ゆっくりと窒白くなっていく。†",
+    ("空気のかたまりが口からこぼれると同椏時に、目の前が、艨ゆっくりと窒白くなっていく。",
     ""),
-    # As a bunch of air spills out of Fukuguchi, the area in front of me slowly turns nitrogen.†
+    # As a bunch of air spills out of Fukuguchi, the area in front of me slowly turns nitrogen.
 
-    ("オレは地面に崩れ獅落ちた。†",
+    ("オレは地面に崩れ落ちた。",
     ""),
-    # My lion collapsed to the ground and fell.†
+    # My lion collapsed to the ground and fell.
 
     ("「あ、あれ？	？",
     ""),
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Oh, no, I'll do it well."
 
-    ("「ピクリと烽も動かなくなっち痰ゃった…」",
+    ("「ピクリとも動かなくなっち痰ゃった…」",
     ""),
     # "The hot springs stopped moving, and the sputum started to stop..."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Shall we call an ambulance?"
 
-    ("「…は、はは。だ、蛛大苟丈夫謨よ、きっと。彼、見かけによらず頑芒丈…だと思うから」†",
+    ("「…は、はは。だ、蛛大苟丈夫謨よ、きっと。彼、見かけによらず頑芒丈…だと思うから」",
     ""),
     # "...Haha. I'm sure he's a sturdy man, I'm sure he's sturdy, regardless of his appearance."
 
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # Don't say anything good.
 
-    ("｢｢と、つっこんでやりたいとこだが、やばい、なんだか意識が遠くなってきた。†",
+    ("｢｢と、つっこんでやりたいとこだが、やばい、なんだか意識が遠くなってきた。",
     ""),
-    # "I'm a cousin who's trying to mess up and do it, but it's so bad, my consciousness is starting to get far away.†
+    # "I'm a cousin who's trying to mess up and do it, but it's so bad, my consciousness is starting to get far away.
 
     ("ん…。",
     ""),
@@ -150,13 +150,13 @@ text_array = [
     ""),
     # What?
 
-    ("なにかひんやり冷たい烽ものが、オレの目を覆っていた。",
+    ("なにかひんやり冷たいものが、オレの目を覆っていた。",
     ""),
     # Something cold and cold hot was covering my eyes.
 
-    ("閨手で取骼る。†",
+    ("閨手で取骼る。",
     ""),
-    # Take it with your hand.†
+    # Take it with your hand.
 
     ("濡齡れたハンカチだった。",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # Below is a bench.
 
-    ("どうやらオレは、ベンチの繧上で横になっているらしい。†",
+    ("どうやらオレは、ベンチの上で横になっているらしい。",
     ""),
-    # Apparently, my gestures are lying on the bench.†
+    # Apparently, my gestures are lying on the bench.
 
     ("「あ、気がついた？」",
     ""),
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # Right in front of me was Aya∴Ka's face.
 
-    ("苦笑して、オレの顔をのぞき桙込んでいる。†",
+    ("苦笑して、オレの顔をのぞき桙込んでいる。",
     ""),
-    # He smiles wryly and peers into my face.†
+    # He smiles wryly and peers into my face.
 
     ("「馬鹿ね。いきなりあんなことするからよ。思寬わず一発箔齠れち痰ゃったじ痰ゃない」",
     ""),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # "stomach…"
 
-    ("言甯われると、なるほど、たしかに痛かった。†",
+    ("言甯われると、なるほど、たしかに痛かった。",
     ""),
-    # When I was told, it certainly hurt.†
+    # When I was told, it certainly hurt.
 
     ("「痛ぇ…」",
     ""),
@@ -222,11 +222,11 @@ text_array = [
     ""),
     # With an unclear consciousness, I started messing around and muttering.
 
-    ("「無摶理ない墲わ。",
+    ("「無摶理ないわ。",
     ""),
     # "It's an incomprehensible thing.
 
-    ("私のヒジ打ちって、そこそこの格闘家で烽もＫＯしち痰ゃうから」",
+    ("私のヒジ打ちって、そこそこの格闘家でもＫＯしち痰ゃうから」",
     ""),
     # My elbow is a decent fighter and I'm also jealous of him."
 
@@ -238,15 +238,15 @@ text_array = [
     ""),
     # "It was so intense, slut?"
 
-    ("そのへんでようやく頭がさえてきた。†",
+    ("そのへんでようやく頭がさえてきた。",
     ""),
-    # It was a bit late, and my mind started to fend off.†
+    # It was a bit late, and my mind started to fend off.
 
     ("「お前、オレにヒジ打ち入齠れたのか？」",
     ""),
     # "Did you get your elbows thrust into me?"
 
-    ("「…べつに悪気があった墲わけじ痰ゃない墲わよ。無意識というか、体が勝闖手に動いち痰ゃって」",
+    ("「…べつに悪気があったわけじ痰ゃないわよ。無意識というか、体が勝闖手に動いち痰ゃって」",
     ""),
     # "...I mean, I don't have any phlegms, but I mean, my body moves with my hands."
 
@@ -254,15 +254,15 @@ text_array = [
     ""),
     # He says with a wry smile.
 
-    ("そーいやこいつ、たしか小さい頃から空闍手をやってたとか言ってたな。†",
+    ("そーいやこいつ、たしか小さい頃から空闍手をやってたとか言ってたな。",
     ""),
-    # He's been saying that he's being so tampered with, and that since he was a child, he's been tampering with the sky.†
+    # He's been saying that he's being so tampered with, and that since he was a child, he's been tampering with the sky.
 
     ("「なんてやつだ。人間凶寀器か、お前は」",
     ""),
     # "What a tampering thing. A human sinner, you?"
 
-    ("「だってビックリしたんだ烽もの…」",
+    ("「だってビックリしたんだもの…」",
     ""),
     # "Because it's a big haute thing..."
 
@@ -270,23 +270,23 @@ text_array = [
     ""),
     # "Just because it's a big horn, you don't normally get an elbow hit. B!?"
 
-    ("「なによ、おたがい様でしょ？	ふつう翌女の子の墲わきの下をくすぐったりする？」†",
+    ("「なによ、おたがい様でしょ？	ふつう翌女の子のわきの下をくすぐったりする？」",
     ""),
-    # "What, are you guys? Do you normally tickle the next girl's armpit?"†
+    # "What, are you guys? Do you normally tickle the next girl's armpit?"
 
     ("「べつにいいだ、それくらい」",
     ""),
     # "It's really good, that's about it."
 
-    ("「諱よくない墲わよ。人瘰違いだったらどうすんの？痴漢に間瘧違妤われて捕まる墲わよ」",
+    ("「諱よくないわよ。人瘰違いだったらどうすんの？痴漢に間違われて捕まるわよ」",
     ""),
     # "You're not good at making a name for yourself. What if you're in a bad mood? You'll be caught by a molester."
 
-    ("「…お前こそ揩傷害罪で捕まるぞ」†",
+    ("「…お前こそ傷害罪で捕まるぞ」",
     ""),
     # "...You'll be arrested for being injured."
 
-    ("不意打ちとはいえ、浴女にやられ、気を失い、そのままベンチで寝かされていたとは。",
+    ("不意打ちとはいえ、女にやられ、気を失い、そのままベンチで寝かされていたとは。",
     ""),
     # Even though it was a surprise attack, he was tampered with by a bather, lost consciousness, and was left to sleep on the bench.
 
@@ -294,11 +294,11 @@ text_array = [
     ""),
     # Damn it.
 
-    ("みっと烽もねーな、とほほ…。†",
+    ("みっともねーな、とほほ…。",
     ""),
-    # I can't even have hot water, I'm hoping...†
+    # I can't even have hot water, I'm hoping...
 
-    ("ま墲わりの目燒もあるし、いつまで烽も倒齠れてる墲わけにはいかないな。",
+    ("まわりの目燒もあるし、いつまでも倒齠れてるわけにはいかないな。",
     ""),
     # Well, there's a way to kill the Hot Springs, so I can't afford to keep it down for as long as I can.
 
@@ -306,7 +306,7 @@ text_array = [
     ""),
     # "My name is..."
 
-    ("起き繧上がうと、腹筋に力を入齠れた瞬間、",
+    ("起き上がうと、腹筋に力を入齠れた瞬間、",
     ""),
     # When I woke up, I put my strength into my abdominal muscles,
 
@@ -314,31 +314,31 @@ text_array = [
     ""),
     # "It's open..."
 
-    ("鈍い痛みが魔走った。†",
+    ("鈍い痛みが魔走った。",
     ""),
-    # The dull pain ran wild.†
+    # The dull pain ran wild.
 
     ("「もうちょっとそのまま寝てなさいよ。まだダ＜メージが残ってんだから」",
     ""),
     # "You should just go to sleep just as you please. There's still some damn thing left."
 
-    ("綾∴香が、しょうがない墲わねぇ、という顔で笑った。",
+    ("綾∴香が、しょうがないわねぇ、という顔で笑った。",
     ""),
     # Aya∴Ka laughed with a look on her face, "No way to have sex."
 
-    ("「まあ、ヒジ打ちに関しては、п私燻も悪かったと思ってる墲わよ」",
+    ("「まあ、ヒジ打ちに関しては、п私燻も悪かったと思ってるわよ」",
     ""),
     # "Well, when it comes to elbows, I think I smoked it too."
 
-    ("「くっそー…」†",
+    ("「くっそー…」",
     ""),
-    # "Damn..." †
+    # "Damn..." 
 
-    ("とこでさっきまでは友だち連中がま墲わりにいたはずだが…。",
+    ("とこでさっきまでは友だち連中がまわりにいたはずだが…。",
     ""),
     # Until just now, my friends must have been a part of me...
 
-    ("ま墲わりを見渡して烽も、近くにはオレと綾∴香以外誰熬もいない。",
+    ("まわりを見渡しても、近くにはオレと綾∴香以外誰熬もいない。",
     ""),
     # Looking around, there was no one nearby except me and Aya∴Ka.
 
@@ -346,11 +346,11 @@ text_array = [
     ""),
     # "What happened to your friends?"
 
-    ("「帰った墲わ」",
+    ("「帰ったわ」",
     ""),
     # "I'm home now."
 
-    ("「帰った？」†",
+    ("「帰った？」",
     ""),
     # "Have you gone home?"
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "Is it me and you?"
 
-    ("「でしょうね。なんか勘瘧違いされたみたい」†",
+    ("「でしょうね。なんか勘違いされたみたい」",
     ""),
     # "That's a bit of a slut. It looks like you've been misunderstood."
 
@@ -382,9 +382,9 @@ text_array = [
     ""),
     # Come to think of it, the bottom of my head is strangely plump and smooth.
 
-    ("これって、もしかして…。†",
+    ("これって、もしかして…。",
     ""),
-    # This is probably...†
+    # This is probably...
 
     ("「綾∴香」",
     ""),
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「もしかして、オレ、お前にひざまくらして烽もらってんのか？」",
+    ("「もしかして、オレ、お前にひざまくらしてもらってんのか？」",
     ""),
     # "Maybe I'm so excited, are you kneeling and getting hot?"
 
@@ -406,11 +406,11 @@ text_array = [
     ""),
     # "That's right."
 
-    ("綾∴香は微笑んでうなずいた。†",
+    ("綾∴香は微笑んでうなずいた。",
     ""),
-    # Aya∴Ka smiled and nodded.†
+    # Aya∴Ka smiled and nodded.
 
-    ("「ふふふっ。どう？	こういうの、なかなかいい烽もんでしょ？」",
+    ("「ふふふっ。どう？	こういうの、なかなかいいもんでしょ？」",
     ""),
     # "Hehehe. What do you think? This kind of thing is pretty good, slut?"
 
@@ -426,9 +426,9 @@ text_array = [
     ""),
     # I answered honestly.
 
-    ("そり痰ゃあ、綾∴香みたいなｔ人のひざに頭を乗っけて、嬉しくないはずがない。†",
+    ("そり痰ゃあ、綾∴香みたいなｔ人のひざに頭を乗っけて、嬉しくないはずがない。",
     ""),
-    # There's no way he wouldn't be happy to put his head on the knees of a person who looked like Aya∴Car.†
+    # There's no way he wouldn't be happy to put his head on the knees of a person who looked like Aya∴Car.
 
     ("「お前、なかなかツボを心得たことするな」",
     ""),
@@ -438,7 +438,7 @@ text_array = [
     ""),
     # "I see? Hehe, hi?"
 
-    ("「けど、こんな程度でこの土闢手っ腹の一発がチャャラになると思ったら大間瘧違いだぞ」",
+    ("「けど、こんな程度でこの土闢手っ腹の一発がチャャラになると思ったら大間違いだぞ」",
     ""),
     # "But if you think that this earthy belly will be a cha banquet at this rate, it's a different story."
 
@@ -446,9 +446,9 @@ text_array = [
     ""),
     # "Oh, Kibishi. How can I forgive the magician?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ん、なあに？」",
     ""),
@@ -474,9 +474,9 @@ text_array = [
     ""),
     # This body-like attack M-shot will make you exploit the rarest.
 
-    ("ただ者じ痰ゃないな。†",
+    ("ただ者じ痰ゃないな。",
     ""),
-    # I just can't help but feel phlegm.†
+    # I just can't help but feel phlegm.
 
     ("「どうしたの？」",
     ""),
@@ -490,9 +490,9 @@ text_array = [
     ""),
     # Okay, look b.
 
-    ("こうなったら、こっち烽も反ｔ撃だ。†",
+    ("こうなったら、こっちも反ｔ撃だ。",
     ""),
-    # If this happens, this will also be a counter-tearance.†
+    # If this happens, this will also be a counter-tearance.
 
     ("どうしてやるか。",
     ""),

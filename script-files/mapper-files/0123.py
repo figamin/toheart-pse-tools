@@ -2,7 +2,7 @@
 # Source file: 0123.txt
 
 text_array = [
-    ("（あかり	ＶＳイベント	戟レミィ）閨（二年以降）閨（あかり好感度２５以繹上	戟レミィ好感度１０以繹上）閨（３桙時間目の休み桙時間）閨（２Ｆ廊下）†",
+    ("（あかり	ＶＳイベント	レミィ）閨（二年以降）閨（あかり好感度２５以繹上	レミィ好感度１０以繹上）閨（３桙時間目の休み桙時間）閨（２Ｆ廊下）†",
     ""),
     # (Akari VS Event: War Remi) (2nd year and later) (Akari likeability level 25 or higher; War Remi likeability level 10 or higher) (3rd frame time off) (Cover time on the corridor) (2nd floor corridor) †
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # It was Akari.†
 
-    ("「…ああ、もうさっきの桙時間は終始㍽睡ｐ魔との墲戦いだったぜ」",
+    ("「…ああ、もうさっきの桙時間は終始㍽睡ｐ魔との戦いだったぜ」",
     ""),
     # "...Ah, the last gaze time was a battle with the Sleepy Demon all the way through."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Hehehe" †
 
-    ("「まあ、冷たいｐで顔で烽も洗って、目覚ましてくる墲わ」",
+    ("「まあ、冷たいｐで顔でも洗って、目覚ましてくるわ」",
     ""),
     # "Well, I'm going to wash the hot pot with my face and wake you up."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I have an enchantment."
 
-    ("本末当は揩持ってないがいちおうそう言って、オレはトイレへとｌかった。◯",
+    ("本末当は持ってないがいちおうそう言って、オレはトイレへとｌかった。◯",
     ""),
     # I didn't have the one at all, but I said "I'm going to do it" and my gei-re went to Toy gei-re.◯
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # This time, another voice called out to me.
 
-    ("この元気な声は、聞き間瘧違うはず烽もない。",
+    ("この元気な声は、聞き間違うはずもない。",
     ""),
     # This energetic voice must be different to the point of listening.
 
-    ("「諱よお、戟レミィ」†",
+    ("「諱よお、レミィ」†",
     ""),
     # "My name is, thrill"†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "As expected of you, Poet Poet!"
 
-    ("「いや、香詩人熕もなに烽も、ホントにだな…」†",
+    ("「いや、香詩人熕もなにも、ホントにだな…」†",
     ""),
     # "The tampering, the Poet Poet, and what is it, really..."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "At b."
 
-    ("なんだかｉまって、戟レミィは言った。",
+    ("なんだかまって、レミィは言った。",
     ""),
     # Something like that made me think, and Karemi said.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Is it a relationship between me and Akari?"
 
-    ("「入ｔ≠ａрｄ凾ｙ	潤ｏ窒ｒ	≠窒ｒ奄ｉ獅ｎрｄ？」",
+    ("「入ｔ≠ａрｄ凾ｙ	潤ｏ窒ｒ	≠窒ｒ奄ｎрｄ？」",
     ""),
     # "In "Tb≠aрd, yeast, yeast, ≠nitrite, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, y
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # A: Of course, phlegm is a huge trend b.Relax
 
-    ("Ｂ	案外、ステディなのか烽もしれねーな。閨",
+    ("Ｂ	案外、ステディなのかもしれねーな。閨",
     ""),
     # B: It's surprisingly, maybe Steady or something like that.Relax
 

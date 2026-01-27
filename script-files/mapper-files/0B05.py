@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aya∴Kawa Pick Date Event 2) (Continued from Selection A I don't know)†
 
-    ("「さあ、諱よく墲わかんねーな」",
+    ("「さあ、諱よくわかんねーな」",
     ""),
     # "Now, I don't really know what you're saying."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "...Hmm, yes."
 
-    ("「で烽も、断じて凾嫌いではないな」",
+    ("「でも、断じて凾嫌いではないな」",
     ""),
     # "And I don't hate Hot either."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What's your actions, sluts are you weird, slut?"
 
-    ("「まあ…。で烽も個性的でいいんじ痰ゃない？」†",
+    ("「まあ…。でも個性的でいいんじ痰ゃない？」†",
     ""),
     # "Well... And the hot springs are also unique, so don't they have any phlegm?"
 

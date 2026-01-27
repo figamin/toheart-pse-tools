@@ -2,9 +2,9 @@
 # Source file: 04F8.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	あいさつして別れる）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	あいさつして別れる）",
     ""),
-    # (Shiho Scales Event PS) (Chooses greetings and parting)†
+    # (Shiho Scales Event PS) (Chooses greetings and parting)
 
     ("「いようっ、志保」",
     ""),

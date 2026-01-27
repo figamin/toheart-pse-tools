@@ -2,15 +2,15 @@
 # Source file: 07A7.txt
 
 text_array = [
-    ("（琴音	回秤数イベント）閨（選択綜	あいさつして別れる）†",
+    ("（琴音	回秤数イベント）閨（選択綜	あいさつして別れる）",
     ""),
-    # (Kotone's Scale Event) (Chounen Greetings and Parting)†
+    # (Kotone's Scale Event) (Chounen Greetings and Parting)
 
     ("「いようっ、琴音ち痰ゃん」",
     ""),
     # "I'm here, Kotone's sphinja."
 
-    ("声をかけると、琴音ち痰ゃんは顔を繧上げた。",
+    ("声をかけると、琴音ち痰ゃんは顔を上げた。",
     ""),
     # When I called out, Kotone Chisho-yan looked up.
 
@@ -22,8 +22,8 @@ text_array = [
     ""),
     # "Ah, it's a sputum."
 
-    ("「あ、はい。さようなら」†",
+    ("「あ、はい。さようなら」",
     ""),
-    # "Ah, yes. Goodbye" †
+    # "Ah, yes. Goodbye" 
 
 ]

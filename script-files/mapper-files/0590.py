@@ -2,9 +2,9 @@
 # Source file: 0590.txt
 
 text_array = [
-    ("（葵	回秤数イベント５	選択繿後	Ａ）†",
+    ("（葵	回秤数イベント５	選択繿後	Ａ）",
     ""),
-    # (Aoi Scales Event 5 after selection A)†
+    # (Aoi Scales Event 5 after selection A)
 
     ("「葵ち痰ゃんは、やっぱりすごいなあ」",
     ""),
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "You're not going to be a continuous stream of effort from morning to night. I'll respect you, really."
 
-    ("オレが言うと、葵ち痰ゃんは苦笑を浮かべた。†",
+    ("オレが言うと、葵ち痰ゃんは苦笑を浮かべた。",
     ""),
-    # When I said that, Aoi Chisho-yan gave a wry smile.†
+    # When I said that, Aoi Chisho-yan gave a wry smile.
 
-    ("「わ、п私って、﨟基本的に才能ないですから、なにをするに烽も人齔一倍努力しないと駄目なんです。だから｢｢」",
+    ("「わ、п私って、﨟基本的に才能ないですから、なにをするにも人齔一倍努力しないと駄目なんです。だから｢｢」",
     ""),
     # "But I'm basically not talented, so I have to work harder than anyone else in order to do anything. That's why I say "
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # My heart interrupted.
 
-    ("「え？」†",
+    ("「え？」",
     ""),
-    # "picture?"†
+    # "picture?"
 
     ("「才能あるって、うん。努力を苦と思寬わないのは、立派な才能だと思う」",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Is it a talent that you can put in effort?"
 
-    ("「うん。ほら、£葬国の孔子燻も言ってんだ？",
+    ("「うん。ほら、葬国の孔子燻も言ってんだ？",
     ""),
     # "Yes. Come on, are you talking about smoking Confucius from the funeral?
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # Those who know this and those who like it.It's best for those who like this and those who enjoy it."
 
-    ("「？」†",
+    ("「？」",
     ""),
-    # "?"†
+    # "?"
 
-    ("「つまり、なにごと烽も楽しんでやってる人間にはかな墲わないってことだ。だから本末当に楽しんで格闘技ができる葵ち痰ゃんは、格闘技の才能があるってことなんじ痰ゃない？」†",
+    ("「つまり、なにごとも楽しんでやってる人間にはかなわないってことだ。だから本末当に楽しんで格闘技ができる葵ち痰ゃんは、格闘技の才能があるってことなんじ痰ゃない？」",
     ""),
     # "In other words, people who enjoy and tamper with things like that are not good at anything. So Aoi Chisho-yan, who can enjoy martial arts and play martial arts, has the talent for martial arts, so is it not good for you?"
 
@@ -78,13 +78,13 @@ text_array = [
     ""),
     # Aoi Chisho-yan nodded his head loudly.
 
-    ("「それは烽もう立派な才能だよ」",
+    ("「それはもう立派な才能だよ」",
     ""),
     # "That's a great talent."
 
-    ("「あ…」†",
+    ("「あ…」",
     ""),
-    # "a…"†
+    # "a…"
 
     ("「だからさ、もっと自信攝持ってくれよ。オレの先生なんだからさ」",
     ""),
@@ -110,15 +110,15 @@ text_array = [
     ""),
     # Even in the evening, the practice continued until the evening.
 
-    ("帰闍り際、葵ち痰ゃんはオレに、格闘技の本を貸してくれた。†",
+    ("帰闍り際、葵ち痰ゃんはオレに、格闘技の本を貸してくれた。",
     ""),
-    # As I returned home, Aoi Chisho-yan lent me a book on martial arts.†
+    # As I returned home, Aoi Chisho-yan lent me a book on martial arts.
 
     ("「格闘技における薰基本的なことがひととおり曹書かれているんです。これを読めば、きっとなにかの参考になると思いますよ」",
     ""),
     # "The basics of martial arts are written entirely in Cao. If you read this, I'm sure it will be useful for something."
 
-    ("「おっ、さんき繧ゅー、読んどくよ」",
+    ("「おっ、さんきゅー、読んどくよ」",
     ""),
     # "Oh, I'll read it."
 

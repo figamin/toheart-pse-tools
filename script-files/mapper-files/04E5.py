@@ -2,9 +2,9 @@
 # Source file: 04E5.txt
 
 text_array = [
-    ("（志保	好感度イベントＰＳ）†",
+    ("（志保	好感度イベントＰＳ）",
     ""),
-    # (Shiho Likeability Event PS)†
+    # (Shiho Likeability Event PS)
 
     ("「やあやあ、クン」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Thanks to you."
 
-    ("「で、なんか用か？」†",
+    ("「で、なんか用か？」",
     ""),
     # "So, is it for something?"
 

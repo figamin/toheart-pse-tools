@@ -2,9 +2,9 @@
 # Source file: 047E.txt
 
 text_array = [
-    ("（志保	п割闃り桙込み型好感度イベント）閨（志保３）†",
+    ("（志保	п割闃り桙込み型好感度イベント）閨（志保３）",
     ""),
-    # (Shiho п痃塙-included type likeability event) (Shiho 3)†
+    # (Shiho п痃塙-included type likeability event) (Shiho 3)
 
     ("「く〜ん」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Shiho appeared.
 
-    ("しか烽も、へんに媚びた態度だ。",
+    ("しかも、へんに媚びた態度だ。",
     ""),
     # However, Kao also has a strangely flattering attitude.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # At times like this, there's something.
 
-    ("「イсヤだ！」†",
+    ("「イсヤだ！」",
     ""),
     # "Yes!"
 
-    ("「ちょっとぉ、まだなに烽も言ってない墲わよ？」",
+    ("「ちょっとぉ、まだなにも言ってないわよ？」",
     ""),
     # "Ahhhh, I haven't said anything about it yet, right?"
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "What is that phlegm?"
 
-    ("「なんだって、カラオケのよ」†",
+    ("「なんだって、カラオケのよ」",
     ""),
-    # "What's that, it's Kabanquet Raoke"†
+    # "What's that, it's Kabanquet Raoke"
 
     ("「カラオケぇ？	オレと勝縁負したいって意味だな？	′闘なんて盾ワケ夋わかんねえこと言うなよ」",
     ""),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "why?"
 
-    ("「′闘だからよ」†",
+    ("「′闘だからよ」",
     ""),
     # "It's a fight"
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # I love how I and Shiho compete and match each other.
 
-    ("誰とで烽もじ痰ゃなくて、おたがいにあいつだけには奄負けたくないって思ってるからだけど。",
+    ("誰とでもじ痰ゃなくて、おたがいにあいつだけには奄負けたくないって思ってるからだけど。",
     ""),
     # It's because they don't have to sputum with whom they want to lose to Amami alone, and they both don't want to lose to him.
 
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # That's right, if he wins, he will snatch up people.
 
-    ("だからこっち烽もムキになって勝とうとするんだよ。†",
+    ("だからこっちもムキになって勝とうとするんだよ。",
     ""),
-    # That's why we're getting mad and trying to win.†
+    # That's why we're getting mad and trying to win.
 
     ("さて、今回はどうしようか。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 035E.txt
 
 text_array = [
-    ("（智子	好感度イベント１２回目）閨（選択綜Ｂの続き）†",
+    ("（智子	好感度イベント１２回目）閨（選択綜Ｂの続き）",
     ""),
-    # (Tomoko's 12th Likeability Event) (Continued from Chosen Soku B) †
+    # (Tomoko's 12th Likeability Event) (Continued from Chosen Soku B) 
 
     ("「からかうんじ痰ゃねー諱よ」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "...I'm not kidding you. I'm just serious about it, what do you mean?"
 
-    ("真武剣な顔で聞いてくる。†",
+    ("真武剣な顔で聞いてくる。",
     ""),
-    # He asks with a Shinbu sword-like face.†
+    # He asks with a Shinbu sword-like face.
 
     ("「だとしたら…」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「オレ焜も本気で怒逑らなくち痰ゃなんねーな」",
+    ("「オレも本気で怒逑らなくち痰ゃなんねーな」",
     ""),
     # "I have to seriously insult myself, I have to be seriously angry."
 
@@ -42,11 +42,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("わずかな沈黙をはさんだ繧後、委員長は小さな声で、",
+    ("わずかな沈黙をはさんだ後、委員長は小さな声で、",
     ""),
     # After a slight silence, the chairman spoke in a small voice.
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "…sorry"
 
-    ("ぽつりと謝った。†",
+    ("ぽつりと謝った。",
     ""),
-    # I apologized a bit.†
+    # I apologized a bit.
 
     ("「くんなら、多分、そんなふうに言うてくれると思った」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "The only person who scolds me with such a Shinbuken face is that you'll be tampering with a man like this."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("そして、委員長は恥ずかしそうに微笑んだ。",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Hahaha, sorry for saying something that's not worth it."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「さっきの、ただの冗談竰やから」",
     ""),
@@ -102,12 +102,12 @@ text_array = [
     "…"),
     # "..."
 
-    ("「今厓日のр私、なんかちょっと変か烽もな」",
+    ("「今厓日のр私、なんかちょっと変かもな」",
     ""),
     # "I'm on the day I'm on the verge of this, I'm not even gross."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
 ]

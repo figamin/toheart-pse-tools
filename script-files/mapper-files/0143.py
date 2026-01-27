@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Are you phlegmy, it's tough!"
 
-    ("「蛛大変？	またなにかしょーもない薰情報で烽も聞きつけてきたか？」",
+    ("「蛛大変？	またなにかしょーもない薰情報でも聞きつけてきたか？」",
     ""),
     # "Damn it hard? Have you heard of Hoo again with some kind of silly information?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # When I laughed sloppyly,
 
-    ("「ばかっ、そんなんじ痰ゃない墲わよっ！	本末当に大変なんだから！」",
+    ("「ばかっ、そんなんじ痰ゃないわよっ！	本末当に大変なんだから！」",
     ""),
     # "Don't you, that kind of phlegm! It's really tough to be honest!"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Shiho nodded loudly.
 
-    ("「もしかしたら怩骨を折ったか烽も知れないの！	下濶手したら烽もう二度と烽歩けなくなるか烽も…」",
+    ("「もしかしたら怩骨を折ったかも知れないの！	下濶手したらもう二度と歩けなくなるかも…」",
     ""),
     # "Maybe he's been exhausted or even a hot spring can't tell you! If you do it, you'll never be able to walk around again, so you'll probably be able to walk again..."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Uhh, I've always thought it was dull, but I can't believe it was like that..."
 
-    ("「おいっ、あいつがいったいどうしたって？	もっと詳しく烽説明しよ」",
+    ("「おいっ、あいつがいったいどうしたって？	もっと詳しく説明しよ」",
     ""),
     # "Hey, what on earth is he? Let me explain in more detail."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # Shiho said casually.
 
-    ("「そんなことはなかった墲わ」",
+    ("「そんなことはなかったわ」",
     ""),
     # "That wasn't the case, right?"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "What is it..."
 
-    ("「で烽も、今厓日はたまたま、あたしたちの班が繧後片づけの魔当番だったの。で、あかりたちと重たい砲丸を片づけてたんだけど…」",
+    ("「でも、今厓日はたまたま、あたしたちの班が後片づけの魔当番だったの。で、あかりたちと重たい砲丸を片づけてたんだけど…」",
     ""),
     # "And now, on the day, our team happened to be on duty to clean up afterwards. So we had been cleaning up the heavy shotgun with Akari and the others..."
 
@@ -146,7 +146,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「ち痰ゃんと片づけた墲わよ」",
+    ("「ち痰ゃんと片づけたわよ」",
     ""),
     # "I've cleaned up a little smug"
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "If that's the case, say it."
 
-    ("「なによぉ、詳しく烽説明しって言ったのはあんたでしょーが」",
+    ("「なによぉ、詳しく説明しって言ったのはあんたでしょーが」",
     ""),
     # "What, you said, "You were the one who explained it in detail and said, "b."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Tell me more clearly and simply!"
 
-    ("「だから、その繧後で｢｢」†",
+    ("「だから、その後で｢｢」†",
     ""),
     # "So, after that, ""†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Ah, sputum."
 
-    ("声のほうをｌくと、クラスの翌女生徒に肩を借闔りたあかりが、ヒョコヒョコと片足を引きずりながら烽歩いていた。†",
+    ("声のほうをｌくと、クラスの翌女生徒に肩を借りたあかりが、ヒョコヒョコと片足を引きずりながら歩いていた。†",
     ""),
     # When Akari leaned her shoulders at the female student the following day after the party, she was walking around, dragging one leg.†
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "But Shiho's guy is broken a bit of a pain..."
 
-    ("「折った『か烽も』って言ったでしょ。折ったなんて断言はしてない墲わよ」",
+    ("「折った『かも』って言ったでしょ。折ったなんて断言はしてないわよ」",
     ""),
     # "I said, 'I've broken it too,' and I'm not saying that I broke it."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "No way, did you worry?"
 
-    ("「いや、そこにいるバカが、二度と烽歩けないとか抜かすからさ…」",
+    ("「いや、そこにいるバカが、二度と歩けないとか抜かすからさ…」",
     ""),
     # "It's because the idiots there will never be able to walk again and they'll just let you go..."
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "Yeah, I said I'm fine though..."
 
-    ("「だめよ、あかり。軽いネンザで烽もち痰ゃんと冷笳やして烽もら墲わなくち痰ゃ」",
+    ("「だめよ、あかり。軽いネンザでもち痰ゃんと冷笳やしてもらわなくち痰ゃ」",
     ""),
     # "No, light. You should just use a light noodle dish and squish it with a light noodle dish and squish it in a cool, cold pancake."
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # My friend who was lending her shoulder said.
 
-    ("「そうだけど、みんな烽も≠早くｒ替えないと、氈次の授業に遅れち痰ゃうよ」",
+    ("「そうだけど、みんなも≠早くｒ替えないと、氈次の授業に遅れち痰ゃうよ」",
     ""),
     # "That's right, but if everyone has to change the number of hot springs too soon, they'll end up being late in the next class."
 
-    ("「そんなのどうで烽もいいって」†",
+    ("「そんなのどうでもいいって」†",
     ""),
     # "How about that, it's okay to have hot water."
 
@@ -258,11 +258,11 @@ text_array = [
     ""),
     # "It's enough to lend my shoulders, and I have to go through all the phlegms."
 
-    ("「で烽も…」†",
+    ("「でも…」†",
     ""),
     # "And the hot spring..." †
 
-    ("「いいじ痰ゃない。そう思ってあたし烽もこいつを捕まえたんだから。こいつがなにかの役に立つことなんて、そうそうないんだし」",
+    ("「いいじ痰ゃない。そう思ってあたしもこいつを捕まえたんだから。こいつがなにかの役に立つことなんて、そうそうないんだし」",
     ""),
     # "It's fine, there's no phlegm. I also caught this guy because I thought so. It's rare that this guy is of any use."
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # Nodding, Akari moved on one foot and grabbed her by my serpent shoulder.†
 
-    ("「それじ痰ゃ、縺後はまかせた墲わよ」",
+    ("「それじ痰ゃ、縺後はまかせたわよ」",
     ""),
     # "That's the phlegm, I'll leave it to you after it's shaking."
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # "You're phlegmy."
 
-    ("浴女性徒の背白を押して、志保は≠早足で烽もとｗた道を戻っていった。†",
+    ("女性徒の背白を押して、志保は≠早足でもとｗた道を戻っていった。†",
     ""),
     # With the support of the bathing women in the bath, Shiho quickly walked back along the path he had already seen.†
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("声とと烽もに、オレは不意打ち気味に両腕であかりを抱き繧上げた。†",
+    ("声とともに、オレは不意打ち気味に両腕であかりを抱き上げた。†",
     ""),
     # With both my voice and Hou, I held Kari with both arms and raised her arms as if to surprise me.†
 
@@ -350,7 +350,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「とは言って烽も、やっぱ誰かに見迪られるのはハズいからな、いちおう、ひとけのないとこを通って行くか」",
+    ("「とは言っても、やっぱ誰かに見迪られるのはハズいからな、いちおう、ひとけのないとこを通って行くか」",
     ""),
     # "That said, even if you're not sure if someone else will pass you through a cousin."
 
@@ -358,7 +358,7 @@ text_array = [
     ""),
     # "...Uh, yes" †
 
-    ("オレは、他の生徒がいないか気にしながら、あかりを抱えて烽歩き出した。◯",
+    ("オレは、他の生徒がいないか気にしながら、あかりを抱えて歩き出した。◯",
     ""),
     # I started walking around with Akari intently, worrying about whether there were other students there.◯
 
@@ -406,11 +406,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("保瀦健室までの廊下を烽歩く。",
+    ("保瀦健室までの廊下を歩く。",
     ""),
     # I walked down the hallway to the Hole Inn.
 
-    ("あかりはｎ囲を気にしてるのか、少し赤くなった顔をやや烽内側にｌけていた。†",
+    ("あかりはｎ囲を気にしてるのか、少し赤くなった顔をやや内側にｌけていた。†",
     ""),
     # Akari probably worried about the n-circumference, but her slightly red face was sniffing, tampering, and sniffing inside her.†
 

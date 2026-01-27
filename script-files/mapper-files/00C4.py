@@ -2,11 +2,11 @@
 # Source file: 00C4.txt
 
 text_array = [
-    ("（５獅月２冾日	朝）閨（自分の部屋）†",
+    ("（５月２冾日	朝）閨（自分の部屋）",
     ""),
-    # (Morning of May 2nd Day of the Year) (morning of my room)†
+    # (Morning of May 2nd Day of the Year) (morning of my room)
 
-    ("５獅月２冾日、金曜坥日。",
+    ("５月２冾日、金曜坥日。",
     ""),
     # May 2nd day of the 2nd day of the 5th day of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the
 
@@ -18,13 +18,13 @@ text_array = [
     ""),
     # If you try harder for this day, it will be Golden Week from Ming Shun Day.
 
-    ("そしてその繧後には修学旅行熏も待っている。",
+    ("そしてその後には修学旅行熏も待っている。",
     ""),
     # And after that, there is a school trip waiting.
 
-    ("そう考えると、やる気が出てくるな。†",
+    ("そう考えると、やる気が出てくるな。",
     ""),
-    # Thinking about it like that makes me feel motivated.†
+    # Thinking about it like that makes me feel motivated.
 
     ("「ち痰ゃん、今厓日齠一勛日辛抱すれば、お休みだよ」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Is it not that bad?"
 
-    ("「瘁違う…と烽も言い切齔れないか」†",
+    ("「瘁違う…とも言い切齔れないか」",
     ""),
     # "Can you say that it's not right...?"
 

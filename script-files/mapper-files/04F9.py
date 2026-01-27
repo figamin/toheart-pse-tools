@@ -2,9 +2,9 @@
 # Source file: 04F9.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（３／６固定）閨（校蜊門）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（３／６固定）閨（校門）",
     ""),
-    # (Shiho Scales Event PS) (3/6 fixed points) (School Gate)†
+    # (Shiho Scales Event PS) (3/6 fixed points) (School Gate)
 
     ("さっさと学校を出たオレ。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # The female student after passing the ball was called out to her after the attack.
 
-    ("その声には十分聞き覚えがある。†",
+    ("その声には十分聞き覚えがある。",
     ""),
-    # I'm well acquainted with that voice.†
+    # I'm well acquainted with that voice.
 
     ("「なんだよ志保。人の名前を連呼するな」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Because, you came out at a nice time when you were bored from the moment you weren't ready."
 
-    ("「人をアイテムみたいに言うな」†",
+    ("「人をアイテムみたいに言うな」",
     ""),
-    # "Don't call people something like an item" †
+    # "Don't call people something like an item" 
 
     ("「まあべつにいいじ痰ゃない。それよか、なにをそんなに急いでんのよ」",
     ""),

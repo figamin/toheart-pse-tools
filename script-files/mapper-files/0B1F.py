@@ -34,19 +34,19 @@ text_array = [
     ""),
     # It's tampering, but that strength is real.
 
-    ("素人じ痰ゃとて烽も太¢打ちできやしない。†",
+    ("素人じ痰ゃとても太¢打ちできやしない。†",
     ""),
     # Even amateurs can sputum and even sputum can be used to smash them with thick slurping effects.†
 
-    ("一発箔齠れれば勝ちって条緒件煬も、最燕初は楽汪勝かと思ってたが、蛛大間瘧違いだ。",
+    ("一発箔齠れれば勝ちって条緒件煬も、最燕初は楽汪勝かと思ってたが、蛛大間違いだ。",
     ""),
     # I thought that if you can make one hit, you'll win, but I thought that the first one would win, but it's a different story.
 
-    ("真に繧上闖手いрヤツ相闡手には、堰ラッキーヒットすらあり得ない。",
+    ("真に上闖手いрヤツ相闡手には、堰ラッキーヒットすらあり得ない。",
     ""),
     # It's impossible for a truly talented person to have a lucky hit.
 
-    ("素人パンチなんざ絶対に烽もら墲わない自信がありやがる。",
+    ("素人パンチなんざ絶対にもらわない自信がありやがる。",
     ""),
     # He is confident that he will never be able to stomp amateur punches.
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # The fact that it is polished doesn't get polished.†
 
-    ("いまのままじ痰ゃ、とて烽も勝てそうにない。",
+    ("いまのままじ痰ゃ、とても勝てそうにない。",
     ""),
     # I don't think I'll beat the current situation, or even Hot.
 
-    ("かといって、ギブアップする気煖もない。",
+    ("かといって、ギブアップする気もない。",
     ""),
     # However, he doesn't have the energy to give up.
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # If so, there's just special training.
 
-    ("一朝一夕でどうにかなる烽もので烽もないが、やらないよりはマシだう。",
+    ("一朝一夕でどうにかなるものでもないが、やらないよりはマシだう。",
     ""),
     # One day, there's a hot spring that can be solved by just one evening, but it's better than not doing it.
 
-    ("諱よし、浴風呂入體る前に、いっちょやるか。†",
+    ("諱よし、風呂入體る前に、いっちょやるか。†",
     ""),
     # Okay, I wonder if I'll squeal before I take a bath.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Let's practice re-replying the punch he taught Aya∴Kawa.
 
-    ("今回は鰍相闡手をＫＯさせるのが目的じ痰ゃないから、威力譌より烽も速さ重居視だな。",
+    ("今回は鰍相闡手をＫＯさせるのが目的じ痰ゃないから、威力譌よりも速さ重居視だな。",
     ""),
     # This time, the goal is to make the monkeys interact with each other, so it's faster and more powerful than the power.
 

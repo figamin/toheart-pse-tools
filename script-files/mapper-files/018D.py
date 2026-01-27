@@ -2,9 +2,9 @@
 # Source file: 018D.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（３獅月１０冾日）閨（階段）閨（あかり	＝普通	０１）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（３月１０冾日）閨（階段）閨（あかり	＝普通	０１）",
     ""),
-    # (Akari Scales Event 2F) (3rd Lion Month 10th Day) (Stairs) (Akari = normal 01)†
+    # (Akari Scales Event 2F) (3rd Lion Month 10th Day) (Stairs) (Akari = normal 01)
 
     ("「ち痰ゃん」",
     ""),
@@ -14,19 +14,19 @@ text_array = [
     ""),
     # "Let's make a name for yourself."
 
-    ("階段の前であかりにｉった。",
+    ("階段の前であかりにった。",
     ""),
     # I came to the front of the stairs.
 
-    ("ちょうど帰驪るとこらしい。†",
+    ("ちょうど帰驪るとこらしい。",
     ""),
-    # Apparently, it's a place where I'm back at Chieyodo.†
+    # Apparently, it's a place where I'm back at Chieyodo.
 
     ("どうする？",
     ""),
     # What should I do?
 
-    ("Ａ	いっしょに帰汲うぜ。閨",
+    ("Ａ	いっしょに帰うぜ。閨",
     ""),
     # A: I'll return to the Episode.Relax
 

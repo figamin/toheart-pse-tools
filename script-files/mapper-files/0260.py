@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "...Damn it. Where did you go, 100 yen, which was so rare?"
 
-    ("休み桙時間、自販機でカフェオレをモ買おうとしたオレは、うっかりどこかに１００円玉を獅落っことしてしまった。",
+    ("休み桙時間、自販機でカフェオレをモ買おうとしたオレは、うっかりどこかに１００円玉を落っことしてしまった。",
     ""),
     # During the break, I tried to buy a Cafe au Gekure at the vending machine, but accidentally ended up falling a 100 yen coin somewhere.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Even if I search, I don't find a 100 yen coin.†
 
-    ("小遣いと食数を兼ねているオレにとって、１００円という烽金額は墲わりと馬鹿にできないポジションにある。",
+    ("小遣いと食数を兼ねているオレにとって、１００円という金額はわりと馬鹿にできないポジションにある。",
     ""),
     # For me, who has both pocket money and meals, the 100 yen hot amount is quite a bit of a fool.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Damn, where have you gone?
 
-    ("いちおう、ま墲わりはしらみつぶしに探した。",
+    ("いちおう、まわりはしらみつぶしに探した。",
     ""),
     # Well, I looked for it in a slutty way.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Um, are you looking for something?"
 
-    ("そんな声が聞こえ、オレは顔を繧上げた。†",
+    ("そんな声が聞こえ、オレは顔を上げた。†",
     ""),
     # I heard this voice and my face leapt up.†
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "You seem to be looking for something?"
 
-    ("「ああ、まあ、蛛大した烽もんじ痰ゃねえんだけど、１００円玉視落っことしてな」",
+    ("「ああ、まあ、蛛大したもんじ痰ゃねえんだけど、１００円玉視落っことしてな」",
     ""),
     # "Ah, well, it's a big sputum, but it's a 100 yen coin that's gone through."
 
-    ("「それはお困闕りでしょう。だったら墲わたし烽もお手伝いします」",
+    ("「それはお困闕りでしょう。だったらわたしもお手伝いします」",
     ""),
     # "That's a bit of a problem, so I'll help you out."
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「いや、で烽も、そんな大袈裟な烽ものじ痰ゃ…」†",
+    ("「いや、でも、そんな大袈裟なものじ痰ゃ…」†",
     ""),
     # "It's a bit of a mess, and even a bunch of hot phlegms are exaggerated..."
 
-    ("「わたしこう見えて烽も、探し物は墲わりと得意なんですよ」",
+    ("「わたしこう見えても、探し物はわりと得意なんですよ」",
     ""),
     # "Even though I look like this, I'm pretty good at looking for things."
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # It's a great treat.
 
-    ("この際、どっちかに手伝って烽もらうか。",
+    ("この際、どっちかに手伝ってもらうか。",
     ""),
     # At this time, either of them should I help you and get some hot water?
 
-    ("ふたり同椏時っての烽もなんだから、どっちかに鰍頼燉もう。†",
+    ("ふたり同椏時ってのもなんだから、どっちかに鰍頼燉もう。†",
     ""),
     # Since the two of them are also the same time, they'll just sing either way.†
 

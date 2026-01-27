@@ -2,9 +2,9 @@
 # Source file: 005F.txt
 
 text_array = [
-    ("４／１６（＄）†",
+    ("４／１６（＄）",
     ""),
-    # 4/16 ($)†
+    # 4/16 ($)
 
     ("冝放課繪後。",
     ""),
@@ -14,25 +14,25 @@ text_array = [
     ""),
     # Unfortunately, on the day of the day, I'm on duty to clear the sweep.
 
-    ("今厓日の担亦当謫区諡域は教室だ。†",
+    ("今厓日の担亦当謫区諡域は教室だ。",
     ""),
-    # The classroom is the area where the leaders are on the day.†
+    # The classroom is the area where the leaders are on the day.
 
     ("「おらぁ、おめー轣ら、どきやがれっ！」",
     ""),
     # "Look, congratulations, smack me!"
 
-    ("用燉もないのに盾居残闔りやがって。†",
+    ("用燉もないのに盾居残りやがって。",
     ""),
-    # Even though there was no need to worry, he was left behind with the shield.†
+    # Even though there was no need to worry, he was left behind with the shield.
 
     ("「どけっつってんだーが！」",
     ""),
     # "It's so good, b!"
 
-    ("ペチャャクチャャだべり続ける生徒たちを散邇らしながら、ほうきではく。†",
+    ("ペチャャクチャャだべり続ける生徒たちを散邇らしながら、ほうきではく。",
     ""),
-    # I took a broom while shaking the students who kept slurping.†
+    # I took a broom while shaking the students who kept slurping.
 
     ("諱よしっ、終尞わり。",
     ""),
@@ -42,25 +42,25 @@ text_array = [
     ""),
     # Ah, that's it.
 
-    ("さっさと、帰驪るとすっか。†",
+    ("さっさと、帰驪るとすっか。",
     ""),
-    # I quickly went back.†
+    # I quickly went back.
 
     ("廊下を通って、階段前までやってｗた。",
     ""),
     # I went through the hallway and ended up tampering with it all the way to the front of the stairs lol.
 
-    ("＝早く帰汲うか。†",
+    ("＝早く帰うか。",
     ""),
-    # =Shall I come back soon?†
+    # =Shall I come back soon?
 
     ("１階の廊下にｗた。",
     ""),
     # I went to the hallway on the first floor.
 
-    ("知ってる人間は…いないみたいだな。†",
+    ("知ってる人間は…いないみたいだな。",
     ""),
-    # It seems there's no one who knows.†
+    # It seems there's no one who knows.
 
     ("階段の下には生徒悼の御意見箱がある。",
     ""),
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # Okay, I'm going to send in valuable opinions from ordinary students and give them a try.
 
-    ("学食の≠メニャーを揩増竭やせ…と。†",
+    ("学食の≠メニャーを増竭やせ…と。",
     ""),
-    # I'm going to lose weight by increasing the weight of the school cafeteria...†
+    # I'm going to lose weight by increasing the weight of the school cafeteria...
 
-    ("学校を出て、いつ烽もの坂道を下驩る。",
+    ("学校を出て、いつもの坂道を下驩る。",
     ""),
     # When did I leave school, I went down the hill.
 
@@ -82,21 +82,21 @@ text_array = [
     ""),
     # There are a variety of students who go home while shaking their hair, and while they go down on their bikes.
 
-    ("今厓日は帰ってなにをしようか。†",
+    ("今厓日は帰ってなにをしようか。",
     ""),
-    # What should I do when I go home now?†
+    # What should I do when I go home now?
 
-    ("その冾日、オレがちょうどベッドに入うとしたときだった。†",
+    ("その冾日、オレがちょうどベッドに入うとしたときだった。",
     ""),
-    # That day, I was about to enter the bed of my ecstasy.†
+    # That day, I was about to enter the bed of my ecstasy.
 
     ("「おっ…」",
     ""),
     # "Oh..."
 
-    ("ぐらぐらっとｗた。†",
+    ("ぐらぐらっとｗた。",
     ""),
-    # I was wobbling lol.†
+    # I was wobbling lol.
 
     ("おお。",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # It was a pretty dynamic earthquake.
 
-    ("地震譿情報で烽も見ておくか。†",
+    ("地震譿情報でも見ておくか。",
     ""),
-    # Should I also check out the earthquake information?†
+    # Should I also check out the earthquake information?
 
     ("テレビをつける。",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # Beep beep.
 
-    ("テ鴻ロップが流齬れた。†",
+    ("テ鴻ロップが流齬れた。",
     ""),
-    # Tae-Hong Rop was in conflict.†
+    # Tae-Hong Rop was in conflict.
 
     ("『各地の震度は次のとおり｢｢』",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # I'll take the plunge and get an earthquake with a magnitude of around 7 lol. I think the next day, and school is also closed.
 
-    ("ってこっち烽も無末事じ痰ゃすまねーか。†",
+    ("ってこっちも無末事じ痰ゃすまねーか。",
     ""),
-    # Sorry for the sudden sputum on this one.†
+    # Sorry for the sudden sputum on this one.
 
     ("時計を見骭る。",
     ""),

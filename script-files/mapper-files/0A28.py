@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Erimeo's Likeability Event: Hi-Sphemy Ceremony) (Lunch break) (SE Chaim) (Classroom A-Mob)†
 
-    ("さーて、昼£メシ昼£メシ。†",
+    ("さーて、昼メシ昼メシ。†",
     ""),
     # Now, lunchtime, lunchtime, lunchtime, lunchtime.†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Huh?
 
-    ("いま、目の前の廊下を烽歩いていったのは、掾理女緒ち痰ゃんだな。†",
+    ("いま、目の前の廊下を歩いていったのは、掾理女緒ち痰ゃんだな。†",
     ""),
     # I'm sure the one walking down the hallway in front of me was a stimulating experience.†
 

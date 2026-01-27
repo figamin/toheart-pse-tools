@@ -2,9 +2,9 @@
 # Source file: 0A3C.txt
 
 text_array = [
-    ("（Ｂ	きらいじ痰ゃない。）†",
+    ("（Ｂ	きらいじ痰ゃない。）",
     ""),
-    # (B: There's no phlegm.)†
+    # (B: There's no phlegm.)
 
     ("「まあ、べつにきらいじ痰ゃないぜ」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("なんだかムスッとした顔で、オレを見つめる。†",
+    ("なんだかムスッとした顔で、オレを見つめる。",
     ""),
-    # He looks kind of ugly and stares at me.†
+    # He looks kind of ugly and stares at me.
 
     ("「きらいじ痰ゃないっていうのは、スキってことか？」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # This vague meow is difficult for a child to come to terms with.
 
-    ("「好きっていうか、その手前っていうか、好きときらいのｒ間謚より、そのちょっと繧上っつーかだな…」†",
+    ("「好きっていうか、その手前っていうか、好きときらいのｒ間謚より、そのちょっと上っつーかだな…」",
     ""),
     # "I mean, I don't think I'm just in front of that, but rather than just the one from Ikutokirai's R-Mazou, it's a bit more than that..."
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # Hmm.
 
-    ("オレ焜もオレで、どう納得させたいのか墲わからなくなってきた。†",
+    ("オレもオレで、どう納得させたいのかわからなくなってきた。",
     ""),
-    # My eccentricity is also so I'm starting to feel unsure how I want to convince him.†
+    # My eccentricity is also so I'm starting to feel unsure how I want to convince him.
 
-    ("「なんだかよく墲わからないぞ。",
+    ("「なんだかよくわからないぞ。",
     ""),
     # "I don't really understand it somehow.
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # This guy suddenly makes sharp statements.
 
-    ("「お、おう、そのうちな」†",
+    ("「お、おう、そのうちな」",
     ""),
-    # "Oh, oh, someday" †
+    # "Oh, oh, someday" 
 
     ("「おい、」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # I won't bully you anymore so I'm relieved."
 
-    ("すると良太は、ニカッと笑って、†",
+    ("すると良太は、ニカッと笑って、",
     ""),
-    # Then Ryota smirked and †
+    # Then Ryota smirked and 
 
     ("「おい、おまえ」",
     ""),
@@ -110,23 +110,23 @@ text_array = [
     ""),
     # I won't bully you anymore so I'm relieved."
 
-    ("すると良太は、ニカッと笑って、†",
+    ("すると良太は、ニカッと笑って、",
     ""),
-    # Then Ryota smirked and †
+    # Then Ryota smirked and 
 
     ("「ずっと、やくそくだぞ！」",
     ""),
     # "It's always going to be a shit!"
 
-    ("と言い残して、°けていってしまった。†",
+    ("と言い残して、°けていってしまった。",
     ""),
-    # I left the answer and started °.†
+    # I left the answer and started °.
 
-    ("まったく、勇ましい墲弟だぜ。",
+    ("まったく、勇ましい弟だぜ。",
     ""),
     # He's a truly brave little brother.
 
-    ("…だけど、たしかに揩理女緒ち痰ゃんのことは、いずれはっきりさせなき痰ゃいけねー諱よな…。",
+    ("…だけど、たしかに理女緒ち痰ゃんのことは、いずれはっきりさせなき痰ゃいけねー諱よな…。",
     ""),
     # ...But it's true that we have to make phlegm clear about the phlegm that we must eventually have.
 

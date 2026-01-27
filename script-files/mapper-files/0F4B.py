@@ -2,9 +2,9 @@
 # Source file: 0F4B.txt
 
 text_array = [
-    ("（３獅月２９冾日	土）閨（堰ラジオ	４回目）閨（堰ラジオのためにこの夜はある）閨（堰ラジオ聞かない場㍼合）†",
+    ("（３月２９冾日	土）閨（堰ラジオ	４回目）閨（堰ラジオのためにこの夜はある）閨（堰ラジオ聞かない場㍼合）",
     ""),
-    # (Saturday, March 29th) (4th weir radio) (4th weir radio) (There is this night for the weir radio) (There is no room for the weir radio) (There is no room for the weir radio) (There is no room for the weir radio)) †
+    # (Saturday, March 29th) (4th weir radio) (4th weir radio) (There is this night for the weir radio) (There is no room for the weir radio) (There is no room for the weir radio) (There is no room for the weir radio)) 
 
     ("ま、いっか。",
     ""),

@@ -2,75 +2,75 @@
 # Source file: 04D8.txt
 
 text_array = [
-    ("（志保	追加イベント）†",
+    ("（志保	追加イベント）",
     ""),
-    # (Shiho Additional Event)†
+    # (Shiho Additional Event)
 
     ("休み桙時間、廊下で志保を見かけた。",
     ""),
     # During the break, I saw Shiho in the hallway.
 
-    ("いっしょにいるのは、内藤と長田だう。†",
+    ("いっしょにいるのは、内藤と長田だう。",
     ""),
-    # The ones in the Ebi are Naito and Nagata.†
+    # The ones in the Ebi are Naito and Nagata.
 
     ("あのふたり｢｢志保熾も含めて三人は、学年じ痰ゃあちょっとは知迺られてる。",
     ""),
     # Those two people, including Shiho Taru, are known to all three in their grades.
 
-    ("いかに烽も近頃の翌女子ｎ高生、って感じで。†",
+    ("いかにも近頃の翌女子ｎ高生、って感じで。",
     ""),
-    # It looks like the recent female high school girl.†
+    # It looks like the recent female high school girl.
 
-    ("実際、冝放課繪後になるとちょくちょくつるんでは駅前で遊び烽歩いてる。",
+    ("実際、冝放課繪後になるとちょくちょくつるんでは駅前で遊び歩いてる。",
     ""),
     # In fact, after the school is over, I hang out and walk around in front of the station.
 
-    ("カラオケで他の学校の生徒とコンパなんて、しょっち繧ゅうだう。",
+    ("カラオケで他の学校の生徒とコンパなんて、しょっちゅうだう。",
     ""),
     # It's a shame that I'll be having a party with students from other schools at Kabanquet Raoke.
 
-    ("学校のｒで烽も人気が高いから、外で烽も汲結構ｍモテ驛るだうな。†",
+    ("学校のｒでも人気が高いから、外でも結構ｍモテ驛るだうな。",
     ""),
-    # The hot springs are also very popular in school r, so it's pretty popular outside and it's pretty popular.†
+    # The hot springs are also very popular in school r, so it's pretty popular outside and it's pretty popular.
 
-    ("しかし、オレが疑站問なのは、内藤と長田はと烽もかく、あの志保熾も男子の間じ痰ゃポイントが高いってとこだ。",
+    ("しかし、オレが疑站問なのは、内藤と長田はともかく、あの志保熾も男子の間じ痰ゃポイントが高いってとこだ。",
     ""),
     # However, what's the question I'm skeptical about is that Naito and Nagata are also popular, and Shiho Taru is also a high point for men.
 
-    ("まあ、言ってみれば志保熾もニコニコ焜歩いてり痰ゃ可愛い系で通用しそうな汲ルックスはある。",
+    ("まあ、言ってみれば志保熾もニコニコ歩いてり痰ゃ可愛い系で通用しそうなルックスはある。",
     ""),
     # Well, to put it simply, Shiho Taru also has a cute look that would make sense to him as he walks around with smiles.
 
-    ("けどな、あいつに関してはｒ身が問題だ。†",
+    ("けどな、あいつに関してはｒ身が問題だ。",
     ""),
-    # But when it comes to him, the question of him is that he is tampering with.†
+    # But when it comes to him, the question of him is that he is tampering with.
 
     ("誰彼となく桙憎まれ口をたたくガサツな性格。",
     ""),
     # He has a rough personality, and is hated by none of his boyfriend and is hated by Fukumoku.
 
-    ("せめて好きな男の前では可愛いっていうんなら別だが、あいつに限ってそんなことはありそう烽もない。",
+    ("せめて好きな男の前では可愛いっていうんなら別だが、あいつに限ってそんなことはありそうもない。",
     ""),
     # It would be different if he at least says he's cute in front of the man he likes, but that's not the case with him.
 
-    ("オレとしては、志保とはうるさすぎない間㈱合いで友達竰やってるのがベストだと思う。†",
+    ("オレとしては、志保とはうるさすぎない間㈱合いで友達竰やってるのがベストだと思う。",
     ""),
-    # As a guy, I think it's best to be friends with Shiho at Minakami Co., Ltd., which is not too noisy.†
+    # As a guy, I think it's best to be friends with Shiho at Minakami Co., Ltd., which is not too noisy.
 
     ("「ねえ、」",
     ""),
     # "Hey,"
 
-    ("…ってなこと考えていたら、♂史に呼び止められた。",
+    ("…ってなこと考えていたら、雅史に呼び止められた。",
     ""),
     # While I was thinking about this, Masochi-shi stopped me.
 
-    ("「おう、♂史か」",
+    ("「おう、雅史か」",
     ""),
-    # "Oh, is it a history of the ♂?"
+    # "Oh, is it a history of the 雅?"
 
-    ("「％しそうな顔して烽歩いてたけど、なにか考え魔事？」†",
+    ("「％しそうな顔して歩いてたけど、なにか考え魔事？」",
     ""),
     # "I was walking around with a face that seemed like I was gonna do it, but was there some kind of thought?!"
 
@@ -82,35 +82,35 @@ text_array = [
     ""),
     # "It's easy. Shiho is cute, he's so cute, he's cheerful and energetic, and it's a bit of a fuss about now..."
 
-    ("まじめな顔で言うｉ史。",
+    ("まじめな顔で言う史。",
     ""),
     # I'm talking about it with a serious face.
 
-    ("オレは驚いた。†",
+    ("オレは驚いた。",
     ""),
-    # I was surprised.†
+    # I was surprised.
 
     ("「お前、本気でそう思ってんのか？」",
     ""),
     # "Do you really think so?"
 
-    ("オレが聞くと、♂史は照齒れ笑いを浮かべて、",
+    ("オレが聞くと、雅史は照齒れ笑いを浮かべて、",
     ""),
     # When I heard, Makira Shi made a laugh and laughed.
 
-    ("「少なくと烽も、みんなはそう思ってるんじ痰ゃないかな」",
+    ("「少なくとも、みんなはそう思ってるんじ痰ゃないかな」",
     ""),
     # "At least, everyone thinks that's what I think, so I guess there's no phlegm."
 
-    ("なんて切關り返してきた。†",
+    ("なんて切關り返してきた。",
     ""),
-    # What a replies.†
+    # What a replies.
 
     ("「おどかすなよ」",
     ""),
     # "Don't be frightened."
 
-    ("「で烽も、みんなはきっとそう思ってるよ」",
+    ("「でも、みんなはきっとそう思ってるよ」",
     ""),
     # "And everyone is sure to think so, even Ho."
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "Isn't there a lot of phlegm?"
 
-    ("そんなこと、言甯われなくて烽も墲わかってる。†",
+    ("そんなこと、言甯われなくてもわかってる。",
     ""),
-    # I can't help but understand that, and I can't help but understand it.†
+    # I can't help but understand that, and I can't help but understand it.
 
     ("「だからそうなんだよ」",
     ""),
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # Hmm...
 
-    ("やっぱそういうことなのか烽もしれない。◯",
+    ("やっぱそういうことなのかもしれない。◯",
     ""),
     # I guess that's what it means, but I guess it's a hot topic.◯
 

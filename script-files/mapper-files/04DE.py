@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Oh, oh?"
 
-    ("「пヤックで烽も行くのか？」",
+    ("「пヤックでも行くのか？」",
     ""),
     # "Are you going to the hot springs at the пyak?"
 
-    ("「あんた運がいい墲わねぇ。あたしたちと食鱒事ができるなんてさ」†",
+    ("「あんた運がいいわねぇ。あたしたちと食事ができるなんてさ」",
     ""),
     # "You're lucky. I can eat a little bit of trout."
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "What, is there anyone else?"
 
-    ("「あかりがｒに入ってる墲わ」",
+    ("「あかりがｒに入ってるわ」",
     ""),
     # "Akari is in the r"
 
-    ("「あかり烽もいっしょか。ちょうど腹熾も減ってるし、オレ焜も食うかね」†",
+    ("「あかりもいっしょか。ちょうど腹熾も減ってるし、オレも食うかね」",
     ""),
     # "Are you gonna have a red hot spring? My thrill is getting less and I'll eat a lot of my thrill too."
 
-    ("「んじ痰ゃｌまり。ささ、あがっていい墲わよぉ」",
+    ("「んじ痰ゃｌまり。ささ、あがっていいわよぉ」",
     ""),
     # "An phlegm is 1. It's fine to get up."
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Is this the oh-man family?"
 
-    ("£に入體ると、あかりがカウンターに並んでいた。†",
+    ("に入體ると、あかりがカウンターに並んでいた。",
     ""),
-    # Once I entered the £, Akari was lined up at the counter.†
+    # Once I entered the , Akari was lined up at the counter.
 
     ("「お待た〜。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # Akari said with a surprise expression when she realized that she was a ecstasy.
 
-    ("「諱よお」†",
+    ("「諱よお」",
     ""),
-    # "I'm the name" †
+    # "I'm the name" 
 
     ("・",
     ""),
@@ -74,27 +74,27 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("それぞれ高注文の品をトレイにのせて、オレたちは二階へｌかった。",
     ""),
     # Each of them placed high-order items on the tage leis, and the others headed second floor.
 
-    ("おっ、窓際の墲わりといい席が空いている。†",
+    ("おっ、窓際のわりといい席が空いている。",
     ""),
-    # Oh, there are pretty good seats by the window.†
+    # Oh, there are pretty good seats by the window.
 
     ("「′こうにしようぜ」",
     ""),
     # "'Let's do this."
 
-    ("そう言うと、トレイを揩持っていない志保が手℃早く席にｒいた。†",
+    ("そう言うと、トレイを持っていない志保が手℃早く席にｒいた。",
     ""),
-    # With that in mind, Shiho, who hadn't been holding Togeki Rei, went into his seat early.†
+    # With that in mind, Shiho, who hadn't been holding Togeki Rei, went into his seat early.
 
-    ("「はい、あんたはこっち。あかり烽もこっち」",
+    ("「はい、あんたはこっち。あかりもこっち」",
     ""),
     # "Yes, you're over here. Akari Hot is over here too."
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # Shiho recommends seating on the side of his own.
 
-    ("オレとあかりがｍ會高ｺ奄すと、志保は愛用のバッグから缶ジャースを取闔り出した。†",
+    ("オレとあかりがｍ會高ｺ奄すと、志保は愛用のバッグから缶ジャースを取り出した。",
     ""),
-    # When Igere and Akari went to Mkai Takako Amami, Shiho picked up a can of jars from his favorite bag.†
+    # When Igere and Akari went to Mkai Takako Amami, Shiho picked up a can of jars from his favorite bag.
 
     ("「はい、あかり」",
     ""),
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Yeah, thank you."
 
-    ("「なんだよ、お前迹らドリンクは鰍頼まねえのかと思ったら、ち痰ゃっかり用意してたのか」†",
+    ("「なんだよ、お前迹らドリンクは鰍頼まねえのかと思ったら、ち痰ゃっかり用意してたのか」",
     ""),
     # "What is it? I thought you didn't order Dogata Link, but did you have a little sputum ready?"
 
-    ("「この方が好きな烽ものが飲めていいじ痰ゃん」",
+    ("「この方が好きなものが飲めていいじ痰ゃん」",
     ""),
     # "It's okay to drink something that I like this Fuku-money."
 
@@ -126,13 +126,13 @@ text_array = [
     ""),
     # "The store clerk will make you look bad."
 
-    ("「そんなの構いっこない墲わよ。",
+    ("「そんなの構いっこないわよ。",
     ""),
     # "That doesn't matter.
 
-    ("持ち桙込み禁止じ痰ゃないしぃ」†",
+    ("持ち桙込み禁止じ痰ゃないしぃ」",
     ""),
-    # Please don't let your pets in your hands."†
+    # Please don't let your pets in your hands."
 
     ("「そのふてぶてしさには頭が下がるぜ…」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # The steak is sniff and the flavor of the steak reaches my nose.
 
-    ("ガー梶リックステーキバーガー…、名前だけで烽も旨そうだ。†",
+    ("ガー梶リックステーキバーガー…、名前だけでも旨そうだ。",
     ""),
-    # Garkaji Lix Steak Burger...The name alone makes the hot water taste delicious.†
+    # Garkaji Lix Steak Burger...The name alone makes the hot water taste delicious.
 
     ("＝香闕りを楽しんだあとは、がぶっと一箞口。",
     ""),
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # Akari peers into my face with her eyes on her face.
 
-    ("ちなみに、あかりはポテトとジャースだけ。†",
+    ("ちなみに、あかりはポテトとジャースだけ。",
     ""),
-    # Incidentally, the only lights are potatoes and jars.†
+    # Incidentally, the only lights are potatoes and jars.
 
     ("「…肉がかてえ」",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # The steak is reasonably tasty, but it's hard to chew and cut.
 
-    ("下濶手すり痰ゃｒ身が引きずられてパンだけになってしまう。†",
+    ("下濶手すり痰ゃｒ身が引きずられてパンだけになってしまう。",
     ""),
-    # If you use the handrail, the body will be dragged over and only the bread will be left.†
+    # If you use the handrail, the body will be dragged over and only the bread will be left.
 
     ("「おいしくない？」",
     ""),
@@ -186,27 +186,27 @@ text_array = [
     ""),
     # "It's not a mess, it's not a problem."
 
-    ("言ってから烽もう一箞口。",
+    ("言ってからもう一箞口。",
     ""),
     # After saying that, I went for another go.
 
-    ("うぐうぐ…固い。†",
+    ("うぐうぐ…固い。",
     ""),
-    # Ugh... hard.†
+    # Ugh... hard.
 
-    ("普歯で引っ張ったら汲結局、£身が全泊部出てきてしまった。",
+    ("普歯で引っ張ったら結局、身が全泊部出てきてしまった。",
     ""),
     # When I pulled it with my private teeth, I ended up coming out of all the Tomaribu.
 
-    ("たった二茁口で駆が無くなってしまい、残ったのはステーキソースの染みたパンだけ…。†",
+    ("たった二茁口で駆が無くなってしまい、残ったのはステーキソースの染みたパンだけ…。",
     ""),
-    # The K disappeared after just two mouths, and all that remains was bread soaked in steak sauce...†
+    # The K disappeared after just two mouths, and all that remains was bread soaked in steak sauce...
 
     ("「くっそ〜っ、ソースはべたべただし、肉は固いし、食いにくいって」",
     ""),
     # "Damn, the sauce is sticky, the meat is hard and it's hard to eat."
 
-    ("「ふふっ、禔口のま墲わりにソース、付いてるよ」",
+    ("「ふふっ、禔口のまわりにソース、付いてるよ」",
     ""),
     # "Hehe, it comes with sauce instead of the sardines."
 
@@ -218,11 +218,11 @@ text_array = [
     ""),
     # He took it as he was sunkya and wiped his Fukuguchi and looked at the side.
 
-    ("たしか志保熾も同じ物を高注文してたな。†",
+    ("たしか志保熾も同じ物を高注文してたな。",
     ""),
-    # I'm sure Shiho Taru also ordered the same items a lot.†
+    # I'm sure Shiho Taru also ordered the same items a lot.
 
-    ("しかし、見てみると、＆み烽も開かずにニコニコしながらこっちを見てる。",
+    ("しかし、見てみると、＆みも開かずにニコニコしながらこっちを見てる。",
     ""),
     # However, when I looked, I was looking at this with a smile, without even opening the &mikara.
 
@@ -234,15 +234,15 @@ text_array = [
     ""),
     # "It's fine. Don't worry about me, just keep going."
 
-    ("なんだかよく墲わからないことを言う。†",
+    ("なんだかよくわからないことを言う。",
     ""),
-    # He says something that he doesn't really understand.†
+    # He says something that he doesn't really understand.
 
     ("「なにを続けんだよ？」",
     ""),
     # "What are you continuing?"
 
-    ("「ほら、♂話会話」",
+    ("「ほら、雅話会話」",
     ""),
     # "Look, talk conversation"
 
@@ -258,29 +258,29 @@ text_array = [
     ""),
     # "Yeah. A little..."
 
-    ("あかり烽も怪訝な目をしている。†",
+    ("あかりも怪訝な目をしている。",
     ""),
-    # Akari Kao also looks suspiciously.†
+    # Akari Kao also looks suspiciously.
 
-    ("志保の方は鰍相変﨑わらずニコニコとこっちのやり取闔りを見物している。",
+    ("志保の方は鰍相変﨑わらずニコニコとこっちのやり取りを見物している。",
     ""),
     # Shiho's Fukukata is watching the tampering and interjecting with a smile, not even a swaying.
 
-    ("…無気味だ。†",
+    ("…無気味だ。",
     ""),
-    # ...It's a bit uneasy.†
+    # ...It's a bit uneasy.
 
-    ("「志保、なにか嬉しいことで烽もあったの？」",
+    ("「志保、なにか嬉しいことでもあったの？」",
     ""),
     # "Shiho, did you have something nice about it, and was there a hot spring?"
 
-    ("「嬉しい墲わよぉ。こうやって、〟仲むつまじいふたりを見てるとね」",
+    ("「嬉しいわよぉ。こうやって、〟仲むつまじいふたりを見てるとね」",
     ""),
     # "I'm so happy. I'm going to do this, and look at the two of you who are so crazy."
 
-    ("「？？？」†",
+    ("「？？？」",
     ""),
-    # "???" †
+    # "???" 
 
     ("「志保〜、梶頼むからオレたちを不安にさせないでくれよ」",
     ""),
@@ -294,7 +294,7 @@ text_array = [
     ""),
     # With a sly face,
 
-    ("「ゴ＜メンゴ＜メン。そーいや全然闡手ぇつけてなかった墲わね〜」",
+    ("「ゴ＜メンゴ＜メン。そーいや全然闡手ぇつけてなかったわね〜」",
     ""),
     # "Go<Mengo<Men. It's a tampering and you didn't even touch it at all."
 
@@ -302,15 +302,15 @@ text_array = [
     ""),
     # And he began to open up the u-milk of his hamburger.
 
-    ("「…そうじ痰ゃねえってのっ」†",
+    ("「…そうじ痰ゃねえってのっ」",
     ""),
-    # "...I don't have to cleanse it." †
+    # "...I don't have to cleanse it." 
 
     ("結局その冾日は、おし痰ゃべりの志保は黙ってニコニコしてるだけ。",
     ""),
     # In the end, Shiho, who is a sputum batter, is just silent and smiling.
 
-    ("なにを聞いて烽もオレたちに烽もっとｉ話しと言うだけでちっと烽も要領を得ない。",
+    ("なにを聞いてもオレたちにもっと話しと言うだけでちっとも要領を得ない。",
     ""),
     # What he asked, and even the hottest guys, he told me more about i-talks, but he couldn't get the temper into it.
 

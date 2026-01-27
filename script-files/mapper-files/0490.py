@@ -2,27 +2,27 @@
 # Source file: 0490.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階１）閨（選択綜	説教する）†",
+    ("（志保	回秤数イベント	１階１）閨（選択綜	説教する）",
     ""),
-    # (Shiho Scales Event, 1st floor 1) (Selections: Preach)†
+    # (Shiho Scales Event, 1st floor 1) (Selections: Preach)
 
-    ("「そ烽もそ烽もなぁ、お前のやってることは、出初いを≠めるって言うより、男を誘ってるんだよ」",
+    ("「そもそもなぁ、お前のやってることは、出初いを≠めるって言うより、男を誘ってるんだよ」",
     ""),
     # "And you're both, you're tampering with it, rather than ≠ being a first-timer, it's just that you're tempting a man."
 
-    ("「悪かった墲わね」",
+    ("「悪かったわね」",
     ""),
     # "That was a bad romance."
 
-    ("「オレが思うにだな…、出初いってのは、氈勝闖手に起こるんだよ。探す烽もんじ痰ゃねえだ」",
+    ("「オレが思うにだな…、出初いってのは、氈勝闖手に起こるんだよ。探すもんじ痰ゃねえだ」",
     ""),
     # "I think that's what I think... when I first start, it happens to you. I'm looking for a hot phlegm."
 
-    ("ついでに、浴女の魅力のあるなしで烽もないと思うぜ。†",
+    ("ついでに、女の魅力のあるなしでもないと思うぜ。",
     ""),
-    # Also, I don't think there is any charm or hot water as a bather.†
+    # Also, I don't think there is any charm or hot water as a bather.
 
-    ("「それがあんたの揩理想ってрヤツぅ？	遅れてるぅ」",
+    ("「それがあんたの理想ってрヤツぅ？	遅れてるぅ」",
     ""),
     # "Is that your ideal? You're late."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "What, what?"
 
-    ("「映謇画竕やドラマじ痰ゃないんだから、馬鹿正直にチャャンスを待ってると、春なんて一生雛ない墲わよぉ」",
+    ("「映謇画竕やドラマじ痰ゃないんだから、馬鹿正直にチャャンスを待ってると、春なんて一生雛ないわよぉ」",
     ""),
     # "There's no phlegm for the gazebo or the banquet, so if you wait for Chansus honestly, spring will never be a chick."
 
-    ("「そんとき痰ゃ、運が悪かったとあきらめるんだよ！」†",
+    ("「そんとき痰ゃ、運が悪かったとあきらめるんだよ！」",
     ""),
     # "That's when you give up on phlegm, saying you're not lucky!"
 

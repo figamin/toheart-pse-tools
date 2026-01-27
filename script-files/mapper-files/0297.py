@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri°Kawa, Scales Event 2F LV3)Seri (Select Sou B, About Henchukkara Rin Doll)†
 
-    ("オレは机の繧上に置いてある、妙チクリンな人形についてたずねた。",
+    ("オレは机の上に置いてある、妙チクリンな人形についてたずねた。",
     ""),
     # I asked about the mysterious doll that was placed on the table.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It's a lie that crafts are my special skill, but it's fine for the two of them to squeal something like this for a while.
 
-    ("〟仲良くなるっての烽も墲わかる気がする。†",
+    ("〟仲良くなるってのもわかる気がする。†",
     ""),
     # 'I feel like I can understand how you become friends.
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # Senpai immediately prepare the ingredients.
 
-    ("引き出しを開け、乾いたトウｃモ鴻ロコシの皮を三十㍼枚ほど取闔り出す。",
+    ("引き出しを開け、乾いたトウｃモ鴻ロコシの皮を三十㍼枚ほど取り出す。",
     ""),
     # Open the drawer and remove about 30 liters of dried corn crust.
 
-    ("なんで烽もあるんだな、この部室は。",
+    ("なんでもあるんだな、この部室は。",
     ""),
     # I wonder why there's a hot spring in this club room.
 
-    ("それからポットでお窒湯を沸かし、轣皮をお窒湯に浸してや墲わらかくする。",
+    ("それからポットでお窒湯を沸かし、轣皮をお窒湯に浸してやわらかくする。",
     ""),
     # Then boil nitrogen in a pot and soak the skin in the nitrogen to make it tamper and soft.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # Wrap the skin scraps with two layers of layers and squeeze your head.
 
-    ("頭のあまった皮に腕パーツを差し桙込んで、これで繧上半身は…完成。",
+    ("頭のあまった皮に腕パーツを差し桙込んで、これで上半身は…完成。",
     ""),
     # Insert your arm parts into the overflowing skin of your head, and now your upper body is... complete.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # What is it, it's surprisingly easy to do.†
 
-    ("え〜と、それから、男人形は脚パーツを、浴女人形はスカートをｍって、それを繧上半身と№合体…と。",
+    ("え〜と、それから、男人形は脚パーツを、女人形はスカートをｍって、それを上半身と№合体…と。",
     ""),
     # Well, then, the male doll has its legs, and the female doll has its skirt, and it combines it with the upper body.
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # He haughtily showed the finished doll to his senior.†
 
-    ("当然、オレは先輩のを真乱似してｍったんだから、諱先輩のはオレ諠より烽も先に完成している。",
+    ("当然、オレは先輩のを真乱似してｍったんだから、諱先輩のはオレ諠よりも先に完成している。",
     ""),
     # Massage Naturally, my geisha was a real-life look on my senior's face, so even if my geisha Senpai is finished, the hot one was completed before my geisha.
 
@@ -166,7 +166,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「呪文みたいな烽もの？	ふたりが№仲良くなるための呪文ってこと？」",
+    ("「呪文みたいなもの？	ふたりが№仲良くなるための呪文ってこと？」",
     ""),
     # "It's a spell-like thing? Is it a spell that will help the two become friends?"
 
@@ -182,11 +182,11 @@ text_array = [
     ""),
     # I can't help but think that when you stare straight at me and be told, it's really touching me.†
 
-    ("諱先輩は洗面嵂器にｐを汲んできて、そのｐを出女た人形に振關りかけながら、なにやら呪文を唱えはじめた。",
+    ("諱先輩は洗面嵂器にｐをんできて、そのｐを出女た人形に振關りかけながら、なにやら呪文を唱えはじめた。",
     ""),
     # Senpai began to draw a P in the bathroom cabinet, and as he began to send a message to the female doll that left the P, he began to cast some kind of tampering and spells.
 
-    ("「…ｔ奄ｉ窒ｒ盾ｏ……入奄ｉ……氏ｎ≠ａ魔ｖ………」",
+    ("「…ｔ奄窒ｒ盾ｏ……入奄……氏ｎ≠ａ魔ｖ………」",
     ""),
     # "...taminiroshield o...I'm in Amai...Mr. n≠a magic v......"
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # It's just a spell-running run, and it seems like my name has been called...†
 
-    ("洗逅礼とやらが終尞わると、諱先輩は赤い鰍リボンを取闔り出して、ふたつのトウｃモ鴻ロコシ人形をき繧ゅっと宸縛った。",
+    ("洗逅礼とやらが終尞わると、諱先輩は赤い鰍リボンを取り出して、ふたつのトウｃモ鴻ロコシ人形をきゅっと宸縛った。",
     ""),
     # Once the saniko and tampering were over, Senpai Konohana took out a red cricket ribbon and tied up two Tou C Mo Konorokoshi dolls.
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # Senpai nodded.†
 
-    ("赤い鰍リボンで強く汲結ばれたオレたちの人形。",
+    ("赤い鰍リボンで強く結ばれたオレたちの人形。",
     ""),
     # These dolls of our thrilled girls are strongly drawn together with red cricket ribbons.
 

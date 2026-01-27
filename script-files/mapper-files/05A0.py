@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Ah, phlegm!"
 
-    ("いきなり、なんの前触齔れ烽もなく、葵ち痰ゃんがつまずき、転びかけた。",
+    ("いきなり、なんの前触齔れもなく、葵ち痰ゃんがつまずき、転びかけた。",
     ""),
     # Suddenly, there was no sign of a sudden, and Aoi Chisho-chan stumbled and almost fell.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # It's kind of unfamiliar, but I was able to get close to Aoi Chisho-yan at once!
 
-    ("もしかして、神様の御圏益か烽もな翌＠◯",
+    ("もしかして、神様の御圏益かもな翌＠◯",
     ""),
     # Perhaps God's foe benefits or the next day @◯
 

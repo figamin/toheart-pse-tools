@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "I did it, I did it."
 
-    ("「いつまで烽もｊんでんじ痰ゃねー諱よっ」",
+    ("「いつまでもｊんでんじ痰ゃねー諱よっ」",
     ""),
     # "How long will you keep phlegms even if you're in the middle of the day?!"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Why did you lose to Akari?†
 
-    ("「なんだか、納得いかない墲わねー…」",
+    ("「なんだか、納得いかないわねー…」",
     ""),
     # "I'm not satisfied with it..."
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "Uhh, I'm guilty of winning one more time!"
 
-    ("「いいぜ。何回で烽も受けて立つぞ」†",
+    ("「いいぜ。何回でも受けて立つぞ」†",
     ""),
     # "That's fine. I'll get the hot water in a few times."
 
-    ("その繧後、そのままのテンションを揩持続し、派阡手にやりあった。",
+    ("その後、そのままのテンションを持続し、派阡手にやりあった。",
     ""),
     # After that, the tenshic was kept on and the stolen ones were tampered with.
 

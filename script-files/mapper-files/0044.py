@@ -6,7 +6,7 @@ text_array = [
     ""),
     # 3/20 (Thursday) The day of the vernal equinox
 
-    ("３獅月２０冾日が終尞わる。",
+    ("３月２０冾日が終尞わる。",
     ""),
     # The 20th day of the 3rd month of Shizuki is over.
 

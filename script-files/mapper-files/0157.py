@@ -22,15 +22,15 @@ text_array = [
     ""),
     # Akari Hachie looks surprised.†
 
-    ("「で烽も、さっきはいっしょに行くって…」",
+    ("「でも、さっきはいっしょに行くって…」",
     ""),
     # "And now, I'll be going to Ebi as well..."
 
-    ("「言ったけど、諱よく考えてみ。学校帰闍りの制梵服姿の男と翌女が、スーパーでモ買い物だぞ。それを見たのが、たとえ志保じ痰ゃなくて烽も、ウ純ワサになっちまうだ」",
+    ("「言ったけど、諱よく考えてみ。学校帰闍りの制梵服姿の男と翌女が、スーパーでモ買い物だぞ。それを見たのが、たとえ志保じ痰ゃなくても、ウ純ワサになっちまうだ」",
     ""),
     # "I said that, but think about it carefully. A man in a Sanskrit uniform after school and the next woman are shopping at the supermarket. Seeing this, even if Shiho's phlegm is not phlegm, he's going to become a pure wasa."
 
-    ("「それは…そうか烽もね」",
+    ("「それは…そうかもね」",
     ""),
     # "That's... I see, Hot too."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Akari looked down as Shan.†
 
-    ("「という墲わけで、お前ひとりで行ってくれ」",
+    ("「というわけで、お前ひとりで行ってくれ」",
     ""),
     # "So, you should go by yourself."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Physically speaking?"
 
-    ("「°体的にとなると、ａ浮かばねーな。お前の得意料摎理でいい墲わ」",
+    ("「°体的にとなると、ａ浮かばねーな。お前の得意料摎理でいいわ」",
     ""),
     # "When it comes to physical terms, it's not good to float. Your speciality is fine."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "That's tough enough..."
 
-    ("「お前ならできる。米はある、みそ烽もある、調味料燉も主要な烽ものはひと通闥りそってる。",
+    ("「お前ならできる。米はある、みそもある、調味料燉も主要なものはひと通闥りそってる。",
     ""),
     # "You can do it. You have rice, miso hotpot, and you can also use seasonings and other major hotpots.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "And how many hours should I go there?"
 
-    ("「そうだな、６桙時前くらいにで烽も」",
+    ("「そうだな、６桙時前くらいにでも」",
     ""),
     # "Yeah, it's about 6 o'clock and there's a hot spring."
 

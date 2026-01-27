@@ -14,7 +14,7 @@ text_array = [
     ""),
     # There's something like that kind of image.
 
-    ("諱よし、ここはひとつ獅試してみよう。†",
+    ("諱よし、ここはひとつ試してみよう。†",
     ""),
     # Okay, let's try this lion.†
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("オレが変なモードに入ったのを敏感に察知して、あかり烽も警卲戒ｉモードに入體る。†",
+    ("オレが変なモードに入ったのを敏感に察知して、あかりも警卲戒モードに入體る。†",
     ""),
     # Sensitively detects that my gesture has entered a strange B mode, Akari Hot also enters the i-mode of the warning.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Akari began to slam the third time, and then she tied her right hand up.
 
-    ("「おか墲わり」",
+    ("「おかわり」",
     ""),
     # "Okama"
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Jaw!"
 
-    ("観念し、閨手の繧上にあごを乗せようとする、あかり。",
+    ("観念し、閨手の上にあごを乗せようとする、あかり。",
     ""),
     # Akari thinks about her and tries to place her chin on the lining of her hand.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "...Even now" †
 
-    ("虹が消えてなくなるまでを見届けてから、その繧後、ふたりでいっしょに帰った。◯",
+    ("虹が消えてなくなるまでを見届けてから、その後、ふたりでいっしょに帰った。◯",
     ""),
     # After watching the rainbow disappear and disappear, the two of them returned to the Ebi.◯
 

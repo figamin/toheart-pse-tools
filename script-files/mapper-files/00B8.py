@@ -2,11 +2,11 @@
 # Source file: 00B8.txt
 
 text_array = [
-    ("（４獅月１８冾日	朝）閨（自分の部屋）†",
+    ("（４月１８冾日	朝）閨（自分の部屋）†",
     ""),
     # (April 18th day of the month) (morning) (morning)
 
-    ("４獅月１８冾日、金曜坥日。",
+    ("４月１８冾日、金曜坥日。",
     ""),
     # Fourth Lion Day 18th, Friday Day.
 

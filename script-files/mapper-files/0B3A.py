@@ -2,9 +2,9 @@
 # Source file: 0B3A.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント６）閨（バトルポイントが１９以下の場㍼合）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント６）閨（バトルポイントが１９以下の場㍼合）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 6 in the battle balance (size event) (in the event where the battle cry point is 19 or less)†
+    # (Aya∴Ka challenges Aya∴Ka, event 6 in the battle balance (size event) (in the event where the battle cry point is 19 or less)
 
     ("オレは退かず、地面を蹴って前に出た。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Aya∴Ka greets him and shoots him.
 
-    ("ふたりは真っ正面から打ち№合った。†",
+    ("ふたりは真っ正面から打ち№合った。",
     ""),
-    # The two hit the ball straight from the front.†
+    # The two hit the ball straight from the front.
 
     ("バシィーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーーッ！",
     ""),
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("吹草の繧上に寝転がった、オレ。",
+    ("吹草の上に寝転がった、オレ。",
     ""),
     # I lay on the edge of the bush, and was extremely excited.
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # His cheeks were pounded and hot.
 
-    ("多分、赤くなってるんだう。†",
+    ("多分、赤くなってるんだう。",
     ""),
-    # It's probably red.†
+    # It's probably red.
 
     ("堰負けた。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # It's completely defeated.
 
-    ("結局、オレのパンチは一発たりと烽も綾∴香に届くことはなかった。†",
+    ("結局、オレのパンチは一発たりとも綾∴香に届くことはなかった。",
     ""),
-    # In the end, my hard-hit punches didn't reach Aya∴Ka.†
+    # In the end, my hard-hit punches didn't reach Aya∴Ka.
 
     ("強いよ、綾∴香は。",
     ""),
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # Seriously.
 
-    ("男のオレが本気で打ってるのに、かすり烽もしない。†",
+    ("男のオレが本気で打ってるのに、かすりもしない。",
     ""),
-    # Even though the man's crazy guy is playing seriously, he doesn't even shave his head.†
+    # Even though the man's crazy guy is playing seriously, he doesn't even shave his head.
 
-    ("自分で言うの烽もなんだが、オレは運動神経はいいほうだし、そこそこ力燉もある。",
+    ("自分で言うのもなんだが、オレは運動神経はいいほうだし、そこそこ力燉もある。",
     ""),
     # I don't know what I'm talking about, but my intense abilities are good at athleticism and have a decent strength.
 
-    ("しか烽も、この一週間で、かなりのテク焜も身につけた。",
+    ("しかも、この一週間で、かなりのテクも身につけた。",
     ""),
     # However, I've also learned quite a lot of techniques over the past week.
 
@@ -90,27 +90,27 @@ text_array = [
     ""),
     # I don't think I'll be so bored.
 
-    ("なのに浮歯が立たない。†",
+    ("なのに浮歯が立たない。",
     ""),
-    # However, it doesn't have any floating teeth.†
+    # However, it doesn't have any floating teeth.
 
     ("はあ、蛛大きいよな、素人と熟繒練者の差ってやつは。",
     ""),
     # Oh, you're big, the difference between an amateur and a mature master is the kind of guy you're tampering with.
 
-    ("いや、もと烽もとのセンスの差か。",
+    ("いや、もともとのセンスの差か。",
     ""),
     # Maybe it's a difference in taste and the sense of originality.
 
-    ("その両菶方って烽説熕もある。†",
+    ("その両菶方って説熕もある。",
     ""),
-    # There is also the theory that both of these methods are popular.†
+    # There is also the theory that both of these methods are popular.
 
     ("だけど、なぜか悪い気分じ痰ゃない。",
     ""),
     # But for some reason I feel bad about it.
 
-    ("たしかに奄負けちまったけど、わだかまり烽もなくスッキリしてる。",
+    ("たしかに奄負けちまったけど、わだかまりもなくスッキリしてる。",
     ""),
     # It's true that I lost to Amami, but I'm feeling refreshed without any sluggishness or hot weather.
 
@@ -118,13 +118,13 @@ text_array = [
     ""),
     # I think this is probably because I personally honestly have the strength of Aya∴Kaori.
 
-    ("こんな翌女、そういる烽もんじ痰ゃない。",
+    ("こんな翌女、そういるもんじ痰ゃない。",
     ""),
     # The next woman like this, there's no way she'll have a lot of phlegm.
 
-    ("すげー諱よ、本末当に。†",
+    ("すげー諱よ、本末当に。",
     ""),
-    # Amazingly, in the end of the day.†
+    # Amazingly, in the end of the day.
 
     ("「蛛大苟丈夫ですか？」",
     ""),
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # The cold towel sniffs and sniffs the heat from the hot skin.
 
-    ("気搴持ちいい。†",
+    ("気搴持ちいい。",
     ""),
-    # It's good to keep you excited.†
+    # It's good to keep you excited.
 
-    ("「蛛大苟丈夫？	少しくらい横になってたほうがいいか烽もよ」",
+    ("「蛛大苟丈夫？	少しくらい横になってたほうがいいかもよ」",
     ""),
     # "Dragonfly? Is it better to lie down a little bit, too?"
 
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # I shook my head and lifted up my upper body.
 
-    ("本末当はまだ少し、目が回ってるような気分だった。†",
+    ("本末当はまだ少し、目が回ってるような気分だった。",
     ""),
-    # I still felt a little dizzy at the end of the day.†
+    # I still felt a little dizzy at the end of the day.
 
     ("「ごめん。ちょっと熱くなりすぎたかな」",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # "It's better than being dumbed, or being slapped. But I can't believe he's defeated so easily."
 
-    ("オレは繧上半身を両手で支え、空を見上げた。†",
+    ("オレは上半身を両手で支え、空を見上げた。",
     ""),
-    # My geire supported my upper body with my hands and looked up at the sky.†
+    # My geire supported my upper body with my hands and looked up at the sky.
 
     ("「それだけ、が強くなったってことよ」",
     ""),
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「昔から攻ｍ撃は最蜊大の防莓御って言うでしょ？	が強くなったから、п私燻も攻めなくっち痰ゃ守闔りきれなくなったのよ」",
+    ("「昔から攻ｍ撃は最大の防莓御って言うでしょ？	が強くなったから、п私燻も攻めなくっち痰ゃ守りきれなくなったのよ」",
     ""),
     # "It's been a long time since attacking and attacking M-shots are the biggest slender slaughter, so I can no longer protect myself from the slaughter."
 
@@ -190,11 +190,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("縺弱いフリすり痰ゃ良かった。†",
+    ("縺弱いフリすり痰ゃ良かった。",
     ""),
-    # I liked the weak sputum.†
+    # I liked the weak sputum.
 
-    ("「という墲わけで、セリオ。判阡定は？」",
+    ("「というわけで、セリオ。判阡定は？」",
     ""),
     # "So, Seragata Rio. What about the judgement?"
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "It's soooo good!"
 
-    ("「しょうがねーな…」†",
+    ("「しょうがねーな…」",
     ""),
     # "There's no essay..."
 

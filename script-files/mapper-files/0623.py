@@ -2,11 +2,11 @@
 # Source file: 0623.txt
 
 text_array = [
-    ("（マルチ	エンディング）閨（戟レミィとデートの約束がない場㍼合）†",
+    ("（マルチ	エンディング）閨（レミィとデートの約束がない場㍼合）",
     ""),
-    # (Makyuruchi ending) (A place where there is no date agreement with Remi)†
+    # (Makyuruchi ending) (A place where there is no date agreement with Remi)
 
-    ("「お前がｗ磯翌鴦ﾈら、たとえ予定があって烽もキャャンセルするさ」",
+    ("「お前がｗ磯翌鴦ﾈら、たとえ予定があってもキャャンセルするさ」",
     ""),
     # "You're lol Iso Izunai's Goblin, and even if you have a preliminary decision, you'll be crying."
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Ah, thank you. I'm honored to be able to say that!"
 
-    ("ははは、梶相変﨑わらずおおげさなрヤツだな。†",
+    ("ははは、梶相変﨑わらずおおげさなрヤツだな。",
     ""),
-    # Haha, Kaji Ai Henzaki is a big guy who doesn't look like it.†
+    # Haha, Kaji Ai Henzaki is a big guy who doesn't look like it.
 
     ("「いまから出髀るのか？」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "yes.
 
-    ("わたし烽もできる限り急いでそちらへｌかいます。ほんの３０分ほどで、到湯すると思いますから！」",
+    ("わたしもできる限り急いでそちらへｌかいます。ほんの３０分ほどで、到湯すると思いますから！」",
     ""),
     # I will hurry up and come over there as much as possible.I think the water will arrive in just 30 minutes!”
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # Gachaya.
 
-    ("ツーツーツー…。†",
+    ("ツーツーツー…。",
     ""),
-    # Two-two...†
+    # Two-two...
 
     ("おいおい。",
     ""),
     # hey hey.
 
-    ("ち痰ゃんと墲わかってんのかよ。",
+    ("ち痰ゃんとわかってんのかよ。",
     ""),
     # Do you know that it's a bit of a sphin?
 

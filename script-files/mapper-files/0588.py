@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aoi: After the selection event 3 A)†
 
-    ("「やっぱり、格闘技を烽もっと詳しく知闥りたくなったから…かな？」",
+    ("「やっぱり、格闘技をもっと詳しく知闥りたくなったから…かな？」",
     ""),
     # "I guess it's because I really wanted to learn more about martial arts...?"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I said.
 
-    ("「もと烽もと格闘技は好きなほうだし、実際に技を覚えるの烽もいいかなって思ったんだ」",
+    ("「もともと格闘技は好きなほうだし、実際に技を覚えるのもいいかなって思ったんだ」",
     ""),
     # "I really like martial arts, and I thought it would be nice to actually learn the techniques."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan smiled.†
 
-    ("「葵ち痰ゃん烽も言ってた？	格闘技は本末当に怩奥が深いって。",
+    ("「葵ち痰ゃんも言ってた？	格闘技は本末当に怩奥が深いって。",
     ""),
     # "Aoi Chisho-yan-chan-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-san-
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # The more you tamper with it, the whiter the boar.
 
-    ("毎坙日、自分が少しずつ強くなっていく充実感、努力が実ったときのｊび。そういうの、少しで烽もいいからオレ焜も感じてみたいと思ってさ」†",
+    ("毎坙日、自分が少しずつ強くなっていく充実感、努力が実ったときのｊび。そういうの、少しでもいいからオレも感じてみたいと思ってさ」†",
     ""),
     # Every day, I feel fulfilled as I gradually become stronger, and when my efforts come true, I feel a sense of fulfillment.I'd like to feel the hot water in a little bit, but I'd like to feel the great deal of excitement."
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Isaac Senpai..."
 
-    ("葵ち痰ゃんは胸煖もとに手を魔当てて、じーんと感動したようにつぶやいた。",
+    ("葵ち痰ゃんは胸もとに手を魔当てて、じーんと感動したようにつぶやいた。",
     ""),
     # Aoi Chisho-yan put his hand on his chest and muttered it as if he was really moved.
 
-    ("「はい、わかりました！	少しで烽も格闘技の面猪白さを墲わかっていただけるよう、п私燻も努力します！」†",
+    ("「はい、わかりました！	少しでも格闘技の面猪白さをわかっていただけるよう、п私燻も努力します！」†",
     ""),
     # "Yes, I understand! I will also try my best to smoke in order to help you understand the whiteness of martial arts and martial arts!"
 
-    ("「という墲わけで、諱よしくな」",
+    ("「というわけで、諱よしくな」",
     ""),
     # "So, I'm happy to say it."
 

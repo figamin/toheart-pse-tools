@@ -2,9 +2,9 @@
 # Source file: 0092.txt
 
 text_array = [
-    ("（冝期槙末テスト	４冾日目）閨（選択綜	バッチリ）†",
+    ("（冝期槙末テスト	４冾日目）閨（選択綜	バッチリ）",
     ""),
-    # (4th day of the sinus final test) (Selection of Batch-Katari)†
+    # (4th day of the sinus final test) (Selection of Batch-Katari)
 
     ("「バッチリだぜ」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I said it arrogantly and fed it off.
 
-    ("「うさんくさい墲わねぇ」",
+    ("「うさんくさいわねぇ」",
     ""),
     # "That's awful."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Shiho looks at Jikoro and I'm a stomping.
 
-    ("「なにがだよ？」†",
+    ("「なにがだよ？」",
     ""),
     # "What is it?"
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # I worked hard at Messin Police Station to study.
 
-    ("あかりといっしょにな。†",
+    ("あかりといっしょにな。",
     ""),
-    # Become a slut with Akari.†
+    # Become a slut with Akari.
 
     ("「お前こそ、ズル窿やってんじ痰ゃねーのか？」",
     ""),

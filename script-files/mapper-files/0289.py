@@ -26,7 +26,7 @@ text_array = [
     ""),
     # I waved my hand and walked too far in front of my senior.†
 
-    ("坂道の途湯で、いかに烽も高燕級といった感じの浮黒塗闢りの鰍リムジンとすれ痰違った。",
+    ("坂道の途湯で、いかにも高燕級といった感じの浮黒塗闢りの鰍リムジンとすれ痰違った。",
     ""),
     # It was a waterfall on a hill, and the hot water was like a floating black lacquer that looked like a B-high Tsubame-grade, and it was a bit different to the spurt.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # As expected from Mr. O, you could greet me by car.
 
-    ("オレ焜もあやかりたいねぇ。◯",
+    ("オレもあやかりたいねぇ。◯",
     ""),
     # I want to be adamant too.◯
 

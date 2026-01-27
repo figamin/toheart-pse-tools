@@ -22,7 +22,7 @@ text_array = [
     ""),
     # I muttered with a sigh, sighing, looking at the raindrops that pop out of the aspha crying slug.†
 
-    ("幸いすぐに駅前商店街のアーケードに逃げ桙込んで、諱取闔りあえずぬれずにはすんだ烽ものの、かれこれ１０分ほど足止めをくらっている。",
+    ("幸いすぐに駅前商店街のアーケードに逃げ桙込んで、諱取りあえずぬれずにはすんだものの、かれこれ１０分ほど足止めをくらっている。",
     ""),
     # Fortunately, he quickly escaped to the arcade in the shopping district in front of the station, and although he didn't get wet, he was stuck for about 10 minutes.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # There's no slut.
 
-    ("安物のビニール傘で烽もモ買って帰汲うか。",
+    ("安物のビニール傘でもモ買って帰うか。",
     ""),
     # Maybe I'll buy a cheap plastic umbrella and get some hot springs back.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "It's not a mess, it's not a phlegm to clean up. Rain = I thought it might stop soon." †
 
-    ("「…傘、お揩持ちじ痰ゃないんですか？」",
+    ("「…傘、お持ちじ痰ゃないんですか？」",
     ""),
     # "...Is there no phlegm to carry with you, umbrella?"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Yes...I'm sure it's close, right?"
 
-    ("「まあ、歩いて通える翌距離だし、近いっていやあ近いけど…。それで烽も、片道１５分くらいあるぜ」",
+    ("「まあ、歩いて通える翌距離だし、近いっていやあ近いけど…。それでも、片道１５分くらいあるぜ」",
     ""),
     # "Well, it's the next distance you can walk in, so it's close, so it's close... So there's about 15 minutes each way."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # Kotone Chisho-yan said with a smile.
 
-    ("Ａ	それじ痰ゃ、そうして烽もらおうかな。閨",
+    ("Ａ	それじ痰ゃ、そうしてもらおうかな。閨",
     ""),
     # A: That's the phlegm, so I wonder if I'll get some hot water.Relax
 

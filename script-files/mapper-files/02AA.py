@@ -2,11 +2,11 @@
 # Source file: 02AA.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（選択綜Ａ	ばかだな、さきに帰って烽もよかったのに…」†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（選択綜Ａ	ばかだな、さきに帰ってもよかったのに…」",
     ""),
-    # (Seri° Kaori, Scales Event 2F LV5)Seri (Seiro A, you idiot, I wish I had returned home earlier, but Ho was good too..."†
+    # (Seri° Kaori, Scales Event 2F LV5)Seri (Seiro A, you idiot, I wish I had returned home earlier, but Ho was good too..."
 
-    ("「ばかだな、さきに帰って烽もよかったのに…」",
+    ("「ばかだな、さきに帰ってもよかったのに…」",
     ""),
     # "You idiot. I wish I had gone home earlier, but Hot was good too..."
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "sorry…"
 
-    ("と謝った。†",
+    ("と謝った。",
     ""),
-    # He apologized.†
+    # He apologized.
 
     ("「ば、ばか。",
     ""),
@@ -42,8 +42,8 @@ text_array = [
     ""),
     # fool"
 
-    ("オレはギャッとまぶたを閉じて、にじんだ烽ものがｈ鼈れないよう、こらえた。†",
+    ("オレはギャッとまぶたを閉じて、にじんだものがｈ鼈れないよう、こらえた。",
     ""),
-    # I quickly closed my eyelids and held back to prevent the smudged hot water from slurping.†
+    # I quickly closed my eyelids and held back to prevent the smudged hot water from slurping.
 
 ]

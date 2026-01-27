@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Ah, I've just played with Kouan again.
 
-    ("必然的に烽金が減り、おかげで今詩月は生衰茨株がピンチだ。",
+    ("必然的に金が減り、おかげで今詩月は生衰茨株がピンチだ。",
     ""),
     # Inevitably, the number of hot money has decreased, and thanks to this, Shizuki is currently in a difficult situation with his weakened thorny stocks.
 

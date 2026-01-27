@@ -2,9 +2,9 @@
 # Source file: 08C6.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	寄闃り道２	ＬＶ１）閨（選択綜	話す）†",
+    ("（レミィ	回秤数イベント	寄闃り道２	ＬＶ１）閨（選択綜	話す）",
     ""),
-    # (The Remy Scale Event: The Entrance Road 2 LV1) (Choice Speak)†
+    # (The Remy Scale Event: The Entrance Road 2 LV1) (Choice Speak)
 
     ("「なんだ？」",
     ""),
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "I know where the Tempu Weirla was born?
 
-    ("る？」†",
+    ("る？」",
     ""),
-    # Are you?”†
+    # Are you?”
 
     ("「天ぷら？	天ぷらは冾日本の料摎理にｌまってるだ」",
     ""),
     # "Tempura? Tempura is waiting for Japanese food to be sent b."
 
-    ("オレの知髓る限り、天ぷらは和食の繧代表だ。",
+    ("オレの知髓る限り、天ぷらは和食の代表だ。",
     ""),
     # As far as I can tell from my heart, tempura is the representative of Japanese cuisine.
 
@@ -30,25 +30,25 @@ text_array = [
     ""),
     # "I'm sorry. Japan's first-ever phlegm is the best in the Tempu weir."
 
-    ("戟レミィは得意そうに言う。",
+    ("レミィは得意そうに言う。",
     ""),
     # Karemi says with great expertise.
 
-    ("「…そんなの奄初耳だぞ」†",
+    ("「…そんなの奄初耳だぞ」",
     ""),
     # "...I've heard of that for the first time in Amashi."
 
-    ("「えっとネ、テンプー堰ラはネ、戦草国檮時緕代にポルトガルから渡ってきた『テンポラリ』っていう揚げ物料摎理が汲ルーツなの」",
+    ("「えっとネ、テンプー堰ラはネ、戦草国檮時緕代にポルトガルから渡ってきた『テンポラリ』っていう揚げ物料摎理がルーツなの」",
     ""),
     # "Um, the Tempoo Heir is the root of the fried food "Tempo Banquet Ragari" that was crossed from the warring country of the shogunate."
 
-    ("「テンポラリからテンプラ？	その話、出女過ぎてないか？」†",
+    ("「テンポラリからテンプラ？	その話、出女過ぎてないか？」",
     ""),
     # "Tempo Banquet from Tempo Banquet to Tempo Banquet? Is that too much of a woman?"
 
-    ("「名前がテンプー堰ラになったのは、江戸梃時緕代のサントーキョーデンって人が名付けたからだって」†",
+    ("「名前がテンプー堰ラになったのは、江戸梃時緕代のサントーキョーデンって人が名付けたからだって」",
     ""),
-    # "The reason his name was Tempuuuu was because someone named Santoki yoden in Edo Shujidai" †
+    # "The reason his name was Tempuuuu was because someone named Santoki yoden in Edo Shujidai" 
 
     ("「誰それ？」",
     ""),
@@ -62,13 +62,13 @@ text_array = [
     ""),
     # "I don't know."
 
-    ("「アタシ焜もぉ」",
+    ("「アタシもぉ」",
     ""),
     # "I too."
 
-    ("自分から言い出しといて、無責任だな。†",
+    ("自分から言い出しといて、無責任だな。",
     ""),
-    # It's irresponsible to start making your own statements.†
+    # It's irresponsible to start making your own statements.
 
     ("「…どこで聞いたんだよ、そんな話」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "The book was written by Cao."
 
-    ("「瘁例えばな、それが魔事実だったとして、天ぷらが和食じ痰ゃないと墲わかって烽も、いいことないと思うけどな？」†",
+    ("「瘁例えばな、それが魔事実だったとして、天ぷらが和食じ痰ゃないとわかっても、いいことないと思うけどな？」",
     ""),
     # "For example, if that's a magical fact, I don't think it's a good idea to know that tempura is not a Japanese food and doesn't have any phlegm, right?"
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「ちっと烽も良くねえよ」†",
+    ("「ちっとも良くねえよ」",
     ""),
     # "The hot water isn't good either"
 
-    ("「他に烽もみんなに教えてあげると楽しい墲わｃ」",
+    ("「他にもみんなに教えてあげると楽しいわｃ」",
     ""),
     # "It's fun to tell everyone else about other hot springs."
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "It's not fun."
 
-    ("「それでネ、スシーの汲ルーツ焜もニッポンじ痰ゃないの」",
+    ("「それでネ、スシーのルーツもニッポンじ痰ゃないの」",
     ""),
     # "So, Susi's roots are also in Japan, so there's no phlegm."
 
-    ("「わーった墲わーった。",
+    ("「わーったわーった。",
     ""),
     # "I'm so sad.
 
@@ -126,15 +126,15 @@ text_array = [
     ""),
     # It's not related to what kind of Cao Province's food B-mon B-man, it's not related to the sushi."
 
-    ("「それでネ、それでネ｢｢」†",
+    ("「それでネ、それでネ｢｢」",
     ""),
-    # "So, then, then """†
+    # "So, then, then """
 
-    ("戟レミィから聞いて烽も役に立ちそうにない、冝日本文化の汲ルーツを聞かされ、その冾日は得したのか損したのかよく墲わからない冾日だった。",
+    ("レミィから聞いても役に立ちそうにない、冝日本文化のルーツを聞かされ、その冾日は得したのか損したのかよくわからない冾日だった。",
     ""),
     # I heard from Karemi that it was not useful to hear about the roots of Japanese culture, and it was a day that I couldn't really understand whether I had gained or lost.
 
-    ("で烽も、戟レミィはきっと話を聞いてくれる人を探してたんだう。",
+    ("でも、レミィはきっと話を聞いてくれる人を探してたんだう。",
     ""),
     # And even Ka-Remi was probably looking for someone to listen to.
 

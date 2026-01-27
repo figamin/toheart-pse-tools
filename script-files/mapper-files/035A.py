@@ -2,19 +2,19 @@
 # Source file: 035A.txt
 
 text_array = [
-    ("（智子	好感度イベント１０回目）閨（土曜坥日以外）閨（好感度が	２５のとき）閨（好感度イベント９を見たフラグがＯＮの場㍼合）閨（４桙時間目の授業拠）†",
+    ("（智子	好感度イベント１０回目）閨（土曜坥日以外）閨（好感度が	２５のとき）閨（好感度イベント９を見たフラグがＯＮの場㍼合）閨（４桙時間目の授業拠）",
     ""),
-    # (Tomoko's 10th Affection Event) (other than Saturday's Day) (when the Affection is 25) (when the Affection Rug is on when seeing the Affection Event 9 is on) (teaching basis for the fourth fence time) †
+    # (Tomoko's 10th Affection Event) (other than Saturday's Day) (when the Affection is 25) (when the Affection Rug is on when seeing the Affection Event 9 is on) (teaching basis for the fourth fence time) 
 
     ("４桙時間目、英皷語の授業拠。",
     ""),
     # The fourth time was the English language lesson.
 
-    ("「この文の『≠≠ａ奄ｉ窒ｒ凾ｙ	ｔ≠ａ撃ｌ入』ってのはひとつの単語で｢｢」†",
+    ("「この文の『≠≠ａ奄窒ｒ凾ｙ	ｔ≠ａ撃ｌ入』ってのはひとつの単語で｢｢」",
     ""),
-    # "In this sentence, "≠a Amai Nir y t ≠a Tsukuri" is a single word ""†
+    # "In this sentence, "≠a Amai Nir y t ≠a Tsukuri" is a single word ""
 
-    ("オレは、ぼけーっとした眠い目で汲窓の外を眺めていた。",
+    ("オレは、ぼけーっとした眠い目で窓の外を眺めていた。",
     ""),
     # My gut-le was looking out the window with a blurred and sleepy look.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Ah...
 
-    ("春熄もたけな墲わ、天気煖も繧上々。",
+    ("春熄もたけなわ、天気も上々。",
     ""),
     # The spring stove is also very bright, and the weather is also very good.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # It's a peaceful day for a relaxed day.
 
-    ("こんな冾日は、ちょっと気を抜いただけで烽もウトウト眠くなっちまう。†",
+    ("こんな冾日は、ちょっと気を抜いただけでもウトウト眠くなっちまう。",
     ""),
-    # On such a day, I just let my guard down and my hot waters start to become sleepy.†
+    # On such a day, I just let my guard down and my hot waters start to become sleepy.
 
-    ("開いた汲窓のр隙間から、そよそよとゆるやかに翌風が流齬れてきて、それがまた心地いい眠気を誘う。",
+    ("開いた窓のр隙間から、そよそよとゆるやかに翌風が流齬れてきて、それがまた心地いい眠気を誘う。",
     ""),
     # The next air flows gently and gently from the gap in the open window, which also leads to a comfortable sleepiness.
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # Ah, it's a damn thing.
 
-    ("だんだんまぶたが重くなってきた。†",
+    ("だんだんまぶたが重くなってきた。",
     ""),
-    # My eyelids are getting heavier and heavier.†
+    # My eyelids are getting heavier and heavier.
 
     ("「つまり、この｢｢」",
     ""),
@@ -58,17 +58,17 @@ text_array = [
     ""),
     # Cutlet...
 
-    ("ああ、テキストを読む先生の声と、普黒板を叩くチョークの音が、まるで子邇守歌のように聞こえる。†",
+    ("ああ、テキストを読む先生の声と、普黒板を叩くチョークの音が、まるで子邇守歌のように聞こえる。",
     ""),
-    # Ah, the voice of the teacher reading the text and the sound of the sound of the thud hitting the blackboard sound like a robin.†
+    # Ah, the voice of the teacher reading the text and the sound of the sound of the thud hitting the blackboard sound like a robin.
 
-    ("眠い目でま墲わりを見骭ると、どうやら№睡ｐ魔に襲尞われてるのはオレひとりじ痰ゃないらしい。",
+    ("眠い目でまわりを見骭ると、どうやら№睡ｐ魔に襲尞われてるのはオレひとりじ痰ゃないらしい。",
     ""),
     # When I looked at the area with sleepy eyes, I found out that I was the one who was attacked by the devil, but it was hard to be the only one who was attacked by the devil.
 
-    ("うつむいてあくびをしてるрヤツ焜もいれば、もうすでに気搴持ちよさげに熟㍼睡をｌめ桙込んでいるрヤツ焜もいる。†",
+    ("うつむいてあくびをしてるрヤツもいれば、もうすでに気搴持ちよさげに熟㍼睡をｌめ桙込んでいるрヤツもいる。",
     ""),
-    # Some people are yawning while leaning down, while others are already shaking their hair in a good mood.†
+    # Some people are yawning while leaning down, while others are already shaking their hair in a good mood.
 
     ("どうせこんな状況だ。",
     ""),
@@ -78,13 +78,13 @@ text_array = [
     ""),
     # When I got rid of the Kaji era, I was left with a bit of a problem, and it was a bit of a sinister question.
 
-    ("「…ふ墲わぁ〜あ」",
+    ("「…ふわぁ〜あ」",
     ""),
     # "...Hmmmmmm~aaah."
 
-    ("気を抜いて、蛛大きなあくびを漏逖らしたとき。†",
+    ("気を抜いて、蛛大きなあくびを漏逖らしたとき。",
     ""),
-    # When I let my guard down and let out a big yawn.†
+    # When I let my guard down and let out a big yawn.
 
     ("「！」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # It's so funny...!
 
-    ("慌ててあくびをかみ殺し、禔口をふさいだが、時すでに遅し。†",
+    ("慌ててあくびをかみ殺し、禔口をふさいだが、時すでに遅し。",
     ""),
-    # He hurriedly bit his yawn and blocked his mouth, but it was too late.†
+    # He hurriedly bit his yawn and blocked his mouth, but it was too late.
 
     ("「！」",
     ""),
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # "You yawn so big, it's too late now. Yes, stand up!"
 
-    ("「くぅ…」†",
+    ("「くぅ…」",
     ""),
-    # "Kuuu..." †
+    # "Kuuu..." 
 
-    ("クラスヲの笑い声にｕまれながら、オレは椅子から立ち繧上がった。",
+    ("クラスヲの笑い声にｕまれながら、オレは椅子から立ち上がった。",
     ""),
     # I stood up from my chair, thrilled by the laughter of the banquet Rasou.
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # A small slut.
 
-    ("なんだよテ＜メー轣ら、途端にイキイキした目しやがって。†",
+    ("なんだよテ＜メー轣ら、途端にイキイキした目しやがって。",
     ""),
-    # What is it? <They're so excited, and as soon as they got excited.†
+    # What is it? <They're so excited, and as soon as they got excited.
 
-    ("「いま烽説明した一文を訳してみ。ち痰ゃんと予習してればできるだ」",
+    ("「いま説明した一文を訳してみ。ち痰ゃんと予習してればできるだ」",
     ""),
     # "I'll translate the sentence I just explained b. If you prepare with a sphin, you can do it."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Yeah, yeah, well."
 
-    ("オレはひきつった笑迴顔を浮かべた。",
+    ("オレはひきつった笑顔を浮かべた。",
     ""),
     # My heart stroking a twitching smile on my face.
 
@@ -150,27 +150,27 @@ text_array = [
     ""),
     # I'm in trouble.
 
-    ("今厓日は出席番剥の冾日付じ痰ゃねーから、禔油断してたぜ。†",
+    ("今厓日は出席番剥の冾日付じ痰ゃねーから、禔油断してたぜ。",
     ""),
-    # I was letting my guard down right now, as I had no time to remove my attendance number.†
+    # I was letting my guard down right now, as I had no time to remove my attendance number.
 
     ("「まずは読んでから訳せ」",
     ""),
     # "Read it first and then translate it."
 
-    ("「…ええと、『Ｒ≠ａрｄ奄ｉ獅ｎ№ｇ	≠≠ａ奄ｉ窒ｒ凾ｙｔ≠ａ撃ｌ入	堰ｉ入	≠獅ｎ鰍ｊ盾ｏ凾ｙ≠ａ撃ｌ		≠魔ｖ獅ｎ	≠盾ｏ窒ｒ	＝ａрｄ浮ｕ撃ｌｔ入．』」†",
+    ("「…ええと、『Ｒ≠ａрｄ奄ｎ№ｇ	≠≠ａ奄窒ｒ凾ｙｔ≠ａ撃ｌ入	堰入	≠ｎ鰍ｊ盾ｏ凾ｙ≠ａ撃ｌ		≠魔ｖｎ	≠盾ｏ窒ｒ	＝ａрｄ浮ｕ撃ｌｔ入．』」",
     ""),
-    # "...Well, 'Rb≠aрd Amai Lion No. G ≠a Amai Nir yt ≠a Shot Lion Tang Inn Weir I Tang Inn ≠ Lion Kyr y ≠ Lion Kyr y ≠Abb Shot Lion ≠Ma VB Lion ≠ Shield O y y ≠Aрd Floating Tang Inn 」≠"†
+    # "...Well, 'Rb≠aрd Amai Lion No. G ≠a Amai Nir yt ≠a Shot Lion Tang Inn Weir I Tang Inn ≠ Lion Kyr y ≠ Lion Kyr y ≠Abb Shot Lion ≠Ma VB Lion ≠ Shield O y y ≠Aрd Floating Tang Inn 」≠"
 
     ("え〜っと…。",
     ""),
     # Um...
 
-    ("この『≠≠ａ奄ｉ窒ｒ凾ｙ	ｔ≠ａ撃ｌ入』ってのはなんだう？",
+    ("この『≠≠ａ奄窒ｒ凾ｙ	ｔ≠ａ撃ｌ入』ってのはなんだう？",
     ""),
     # What is this "≠a Amai Nir Ring Y t ≠a Shokulb T ≠ Tang irin"?
 
-    ("『≠≠ａ奄ｉ窒ｒ凾ｙ』は…妖精だよな。",
+    ("『≠≠ａ奄窒ｒ凾ｙ』は…妖精だよな。",
     ""),
     # "≠≠a Amai Nirry" is... a fairy.
 
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # A fairy story?
 
-    ("なんだそり痰ゃ。†",
+    ("なんだそり痰ゃ。",
     ""),
-    # What a phlegm?†
+    # What a phlegm?
 
     ("「どうした？",
     ""),
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # Chikushi Ebi.
 
-    ("まじぃ、いきなり最燕初から墲わかんねぇ。",
+    ("まじぃ、いきなり最燕初からわかんねぇ。",
     ""),
     # Seriously, I just don't know what it was like from the very beginning.
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # Is there anyone who will cry?
 
-    ("♂史…は遠いし。",
+    ("雅史…は遠いし。",
     ""),
     # Male History... is far away.
 
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # Light...
 
-    ("も遠い。†",
+    ("も遠い。",
     ""),
-    # It's also far away.†
+    # It's also far away.
 
     ("う〜っ。",
     ""),
@@ -234,15 +234,15 @@ text_array = [
     ""),
     # "Um, that's right..."
 
-    ("当たって砕けの精神で、適俣当に訳そうとした、そのとき。†",
+    ("当たって砕けの精神で、適俣当に訳そうとした、そのとき。",
     ""),
-    # That's when I tried to translate it into Tomimatato, with the spirit of polishing and crushing.†
+    # That's when I tried to translate it into Tomimatato, with the spirit of polishing and crushing.
 
     ("隣の席から委員長が、すっと、さりげなくｎ切齔れを渡してくれた。",
     ""),
     # The chairman casually handed me a handful of n-cut shots from the seat next to me.
 
-    ("見骭ると、この文の訳とおぼしき烽ものが曹書いてある。",
+    ("見骭ると、この文の訳とおぼしきものが曹書いてある。",
     ""),
     # Looking at it, there is a cat-written version of this sentence, which seems to be a translation.
 
@@ -250,11 +250,11 @@ text_array = [
     ""),
     # Oh, oh, it's exactly aiding the heavens!
 
-    ("使寬わせて烽もらおう。†",
+    ("使寬わせてもらおう。",
     ""),
-    # Let's use it and get some hot.†
+    # Let's use it and get some hot.
 
-    ("「｢｢おとぎ話を読むのは、蛛大人で烽も楽しい烽ものだ」†",
+    ("「｢｢おとぎ話を読むのは、蛛大人でも楽しいものだ」",
     ""),
     # ""Reading fairy tales is fun and fun to eat with adults"
 
@@ -274,9 +274,9 @@ text_array = [
     ""),
     # I sat in my chair and let out a deep breath.
 
-    ("普助かった。†",
+    ("普助かった。",
     ""),
-    # It was popular.†
+    # It was popular.
 
     ("さすがは委員長。",
     ""),
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # I hope the answer was perfect.
 
-    ("オレは烽もう一度梼切齔れを開いて見た。",
+    ("オレはもう一度梼切齔れを開いて見た。",
     ""),
     # I opened my firearm one more time and looked at it.
 
@@ -294,27 +294,27 @@ text_array = [
     ""),
     # A mature, elegant and elegant character written in a thin, polished Sharpen.
 
-    ("使ってるシャャーペンの芯は…Ｈかな？†",
+    ("使ってるシャャーペンの芯は…Ｈかな？",
     ""),
-    # Is the core of the mechanical pencil I'm using...H?†
+    # Is the core of the mechanical pencil I'm using...H?
 
     ("オレは口煬もとを手で覆い、",
     ""),
     # My geisha covered the Fukuguchi hana with my hands,
 
-    ("「…さんき繧ゅ」",
+    ("「…さんきゅ」",
     ""),
     # "...sanki tsuyu"
 
-    ("と、ささやき声で言った。†",
+    ("と、ささやき声で言った。",
     ""),
-    # he said in a whisper.†
+    # he said in a whisper.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("委員長はなに烽もこたえず、もう一㊧枚、スッとｎ切齔れをよこした。",
+    ("委員長はなにもこたえず、もう一㊧枚、スッとｎ切齔れをよこした。",
     ""),
     # The chairman was unable to respond to anything, and he quickly cut another piece.
 
@@ -322,25 +322,25 @@ text_array = [
     ""),
     # What?
 
-    ("受け取って、£を開いてみる。†",
+    ("受け取って、を開いてみる。",
     ""),
-    # Take it and open it.†
+    # Take it and open it.
 
     ("『この程度の英訳燒もできんでどうすんねん？』",
     ""),
     # "What should I do if I can do this kind of English translation?'
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("ぐっ。",
     ""),
     # Wow.
 
-    ("梶相変﨑わらず、きついじ痰ゃねーか。†",
+    ("梶相変﨑わらず、きついじ痰ゃねーか。",
     ""),
-    # Kajiao's transformation doesn't make it, so it's tough to get phlegm.†
+    # Kajiao's transformation doesn't make it, so it's tough to get phlegm.
 
     ("「悪かったな」",
     ""),

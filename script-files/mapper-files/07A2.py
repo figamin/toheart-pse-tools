@@ -6,19 +6,19 @@ text_array = [
     ""),
     # (Kotone, the Scales Event PS) (Chounen, the Talk of Kaban Raoke)†
 
-    ("「｢｢っつう感じで、オレ辜らがカラオケ行くといつ烽もバトルになっちまうんだよ」",
+    ("「｢｢っつう感じで、オレ辜らがカラオケ行くといつもバトルになっちまうんだよ」",
     ""),
     # "It's like "It's like, and whenever I go to Kabanraoke, Hot even gets into a shivers."
 
-    ("諱よくやってるカラオケバトルなんか、お烽もしいだうと思い、話してみる。†",
+    ("諱よくやってるカラオケバトルなんか、おもしいだうと思い、話してみる。†",
     ""),
     # I'm sure I'll be able to talk about the fact that I often use my name, like a banquet, and I'll talk about it.†
 
-    ("「そんな繧上闖手な方と渡闢り№合えるなんて、さん烽もかなり繧上闖手なんですね」",
+    ("「そんな上闖手な方と渡闢り№合えるなんて、さんもかなり上闖手なんですね」",
     ""),
     # "It's a very good idea to be able to meet Fukukata, who is such a skilled player, so it's a very good idea to have a good match."
 
-    ("「そーで烽もねえよ。採点機ってのは歌のうまヘタ諠より烽も、機械が反梍応しやすい声に点箔数をあげるんだって、あいつ言ってたからな」",
+    ("「そーでもねえよ。採点機ってのは歌のうまヘタ諠よりも、機械が反梍応しやすい声に点箔数をあげるんだって、あいつ言ってたからな」",
     ""),
     # "And there's no hot spot either. That guy said that even the scoring machines are better than the good songs, but machines tend to respond to anger and tend to increase the number of spots to voices that are prone to tampering."
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "That's why we're just trying to compete for the number of points rather than the quality of the song."
 
-    ("「わたし、採点機って烽もっとよくできた機械だと思ってました」",
+    ("「わたし、採点機ってもっとよくできた機械だと思ってました」",
     ""),
     # "I thought the scoring machine was a better machine."
 
-    ("「ま、機械なんてそんな烽もんだ」",
+    ("「ま、機械なんてそんなもんだ」",
     ""),
     # "Well, machines are such a hot thing."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # He seemed to know the scoring machine, so I thought he would sing it outright...†
 
-    ("「それって悲しすぎるぜ。オレ焜も行くときはつき№合いだけどさ、歌うとほら…なんつーか、氏月並みな言い方すると、スカッとするんだ」",
+    ("「それって悲しすぎるぜ。オレも行くときはつき№合いだけどさ、歌うとほら…なんつーか、氏月並みな言い方すると、スカッとするんだ」",
     ""),
     # "That's so sad. When I go, I'm a great guy, but when I sing, come on... I feel refreshed when I say something like that in a way that's just like I'm a bit sad."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "I understand..." †
 
-    ("「どうだ、琴音ち痰ゃん烽も行ってみないか？	品のない連中はオフリミットで」",
+    ("「どうだ、琴音ち痰ゃんも行ってみないか？	品のない連中はオフリミットで」",
     ""),
     # "What do you think? Why not go to Kotone Chisho-chan's Hot Spring? For those who are not very refined, go to the off-gata limit."
 
-    ("「…で烽も、わたし、最近の歌は…」",
+    ("「…でも、わたし、最近の歌は…」",
     ""),
     # "... And I, I've been singing recently..."
 

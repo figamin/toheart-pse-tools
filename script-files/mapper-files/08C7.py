@@ -2,11 +2,11 @@
 # Source file: 08C7.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	寄闃り道２	ＬＶ１）閨（選択綜	ひとりで帰驪る）†",
+    ("（レミィ	回秤数イベント	寄闃り道２	ＬＶ１）閨（選択綜	ひとりで帰驪る）",
     ""),
-    # (Announcement balance event: 2 LV1) (Choose-so: Returning by yourself)†
+    # (Announcement balance event: 2 LV1) (Choose-so: Returning by yourself)
 
-    ("「わりぃ、戟レミィ。話ならまた今度な」",
+    ("「わりぃ、レミィ。話ならまた今度な」",
     ""),
     # "Something, Remie. If you're going to talk, see you next time."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Tempu weir"
 
-    ("彼濫女は何かを言いかけて、やめた。",
+    ("彼女は何かを言いかけて、やめた。",
     ""),
     # The girl said something and stopped.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Huh? What?"
 
-    ("「ううん」†",
+    ("「ううん」",
     ""),
-    # "Uhhh" †
+    # "Uhhh" 
 
-    ("戟レミィは首を横に振って、",
+    ("レミィは首を横に振って、",
     ""),
     # Karemi shook her head,
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Oh, yeah... I'm sputum."
 
-    ("「Ｓ	凵ｙ盾ｏ浮ｕ」†",
+    ("「Ｓ	凵ｙ盾ｏ浮ｕ」",
     ""),
-    # "Sbb y shield o float" †
+    # "Sbb y shield o float" 
 
-    ("閨手を振って、オレはダッシャでその場を繧後にした。◯",
+    ("閨手を振って、オレはダッシャでその場を後にした。◯",
     ""),
     # Waving my hand, I dashed out of the scene.◯
 

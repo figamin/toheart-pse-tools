@@ -2,11 +2,11 @@
 # Source file: 0B2C.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４）閨（真っ暗）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４）閨（真っ暗）",
     ""),
-    # (Aya∴Ka Challenge Aya∴Ka, Battle for Aya∴Ka, Scale Number Event 4) (Pigment Dark)†
+    # (Aya∴Ka Challenge Aya∴Ka, Battle for Aya∴Ka, Scale Number Event 4) (Pigment Dark)
 
-    ("いつ烽ものように公衆電話から、綾∴香の携帯にかける。",
+    ("いつものように公衆電話から、綾∴香の携帯にかける。",
     ""),
     # When I call Aya∴Ka's phone from a public phone like a hot topic.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Click, click, click.
 
-    ("「はい、もし烽もし？」",
+    ("「はい、もしもし？」",
     ""),
     # "Yes, if it's hot?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # It's a familiar and harmonious time that's always a win-win."
 
-    ("「わかった、すぐに行くから」†",
+    ("「わかった、すぐに行くから」",
     ""),
     # "Okay, I'll go right away"
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # Okay, I'll win now.
 
-    ("オレは河艶敷へとｌかった。†",
+    ("オレは河艶敷へとｌかった。",
     ""),
-    # My guts went to Kawaenshiki.†
+    # My guts went to Kawaenshiki.
 
     ("さて、今厓日はどう攻めるか。",
     ""),
@@ -54,19 +54,19 @@ text_array = [
     ""),
     # Anyway, if you hit it again, you'll win.
 
-    ("問題はそれをどう魔当てるかだ。†",
+    ("問題はそれをどう魔当てるかだ。",
     ""),
-    # The question is how to hit the demon.†
+    # The question is how to hit the demon.
 
     ("う〜む。",
     ""),
     # Hmm.
 
-    ("なんか烽もうｍ寘戦なんか立てて烽も、しょうがないような気がしてきた。†",
+    ("なんかもうｍ寘戦なんか立てても、しょうがないような気がしてきた。",
     ""),
-    # I started to feel like I was setting up a battle with the war and there was no need to sing.†
+    # I started to feel like I was setting up a battle with the war and there was no need to sing.
 
-    ("それより、﨟基本に奄忠実に墲戦う、そのほうが重要なんじ痰ゃないか。",
+    ("それより、﨟基本に奄忠実に戦う、そのほうが重要なんじ痰ゃないか。",
     ""),
     # Rather, fight loyal to the basics and Amano is more important than that.
 
@@ -90,11 +90,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("遅い。†",
+    ("遅い。",
     ""),
-    # slow.†
+    # slow.
 
-    ("いつ烽もならとっくにｗてる桙時間なんだが、今厓日はどうしたんだう。",
+    ("いつもならとっくにｗてる桙時間なんだが、今厓日はどうしたんだう。",
     ""),
     # It's been a long time since I've seen a hot spring, but what happened to the day I'm back now?
 
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # What's wrong, seriously.
 
-    ("なにかｗ一翌ﾈい揩理由が発生したとか。†",
+    ("なにかｗ一翌ﾈい理由が発生したとか。",
     ""),
-    # Something lol, there was a reason for the next day.†
+    # Something lol, there was a reason for the next day.
 
     ("たとえば魔事故。",
     ""),
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # @Isoinari Ryu, I was hit by a car and headed to the hospital.
 
-    ("いや、姉のほうならと烽もかく、運動神経のいいあいつに限ってそれはないか。",
+    ("いや、姉のほうならともかく、運動神経のいいあいつに限ってそれはないか。",
     ""),
     # Is that the only one who has good athletic ability is that of a guy who is a big sister?
 
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # There's no need to worry, so try again with a link to his cell phone.
 
-    ("そう思ったとき。†",
+    ("そう思ったとき。",
     ""),
-    # When I thought so.†
+    # When I thought so.
 
     ("「ごめん、ごめん」",
     ""),
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "A loud guy? Is this a tuna thing??"
 
-    ("「そうそう、頭の固い頑固者でねー。いつ烽も逃げ出すのに苦労するのよ」†",
+    ("「そうそう、頭の固い頑固者でねー。いつも逃げ出すのに苦労するのよ」",
     ""),
     # "Yeah, he's a stubborn guy with a hard head. He's always having trouble getting away."
 
@@ -194,19 +194,19 @@ text_array = [
     ""),
     # "You're going to run away... you've run away again?"
 
-    ("「そうよ。でなき痰ゃここにいる墲わけないじ痰ゃない」",
+    ("「そうよ。でなき痰ゃここにいるわけないじ痰ゃない」",
     ""),
     # "That's right. If there's no way there's no way there's anything else to be there."
 
-    ("悪びれたふう烽もなく、あっけらかんと言う。†",
+    ("悪びれたふうもなく、あっけらかんと言う。",
     ""),
-    # There was no sinister feeling, and it was clear.†
+    # There was no sinister feeling, and it was clear.
 
     ("「あ、そうだ」",
     ""),
     # "Ah, that's right."
 
-    ("綾∴香は鞄のｒからなにやら取闔り出すと、",
+    ("綾∴香は鞄のｒからなにやら取り出すと、",
     ""),
     # When Aya∴Ka starts tampering with something from the R of the Karabana,
 
@@ -222,11 +222,11 @@ text_array = [
     ""),
     # "What, Matsutake Forest...?"
 
-    ("チョコスナックのお菓子だ。†",
+    ("チョコスナックのお菓子だ。",
     ""),
-    # It's a snack snack.†
+    # It's a snack snack.
 
-    ("「遅れたお墲わびってことで」",
+    ("「遅れたおわびってことで」",
     ""),
     # "It's a late-school slurred."
 
@@ -234,15 +234,15 @@ text_array = [
     ""),
     # "Ah, sputum..."
 
-    ("お菓子はあんまり食岦わねーけど、いちおう烽もらっておこう。†",
+    ("お菓子はあんまり食岦わねーけど、いちおうもらっておこう。",
     ""),
-    # I don't eat much sweets, but I'll get some hot pot.†
+    # I don't eat much sweets, but I'll get some hot pot.
 
     ("「とこで、今厓日が最終叝日謫よ」",
     ""),
     # "At this time, the last day is now the last day."
 
-    ("「わかってる。今厓日こそｌめるつ烽もりだ」",
+    ("「わかってる。今厓日こそｌめるつもりだ」",
     ""),
     # "I know. It's the time I'm in the middle of my life."
 
@@ -250,8 +250,8 @@ text_array = [
     ""),
     # "I wonder if it'll go that easy, isn't it?"
 
-    ("綾∴香はくすっと笑った。†",
+    ("綾∴香はくすっと笑った。",
     ""),
-    # Aya∴Ka chuckled.†
+    # Aya∴Ka chuckled.
 
 ]

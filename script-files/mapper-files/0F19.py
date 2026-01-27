@@ -2,11 +2,11 @@
 # Source file: 0F19.txt
 
 text_array = [
-    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	♂史を誘う）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	雅史を誘う）閨（蛛主人公沍勝ち）†",
     ""),
     # (Arcade Battle Cry 3) (Closing ceremony edition) (Choices, Inviting History) (Mr. The protagonist wins) †
 
-    ("「まだまだだな、♂史」",
+    ("「まだまだだな、雅史」",
     ""),
     # "There's still a long way to go, history."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "...That's seriously true"
 
-    ("志保笊やあかり烽もまじえて、その繧後は大いに盛關り繧上がった。",
+    ("志保笊やあかりもまじえて、その後は大いに盛關り上がった。",
     ""),
     # It also featured Shiho-Kai and Akari Hot, and after that, the simmons were greatly increased.
 
-    ("なんたって烽もう、春休みだからな。◯",
+    ("なんたってもう、春休みだからな。◯",
     ""),
     # After all, it's spring break already.◯
 

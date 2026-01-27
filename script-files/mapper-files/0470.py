@@ -2,11 +2,11 @@
 # Source file: 0470.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	フラー梶リ）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	フラー梶リ）",
     ""),
-    # (Shiho Scales Event PS) (Selection Sou Fan Rha Kajiri)†
+    # (Shiho Scales Event PS) (Selection Sou Fan Rha Kajiri)
 
-    ("「フラー梶リ、だ？」†",
+    ("「フラー梶リ、だ？」",
     ""),
     # "Fan banquet ra kajiri, is that b?"
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "And that! A bright red feast.
 
-    ("よく知ってる墲わねぇ。…もしかして、あたしのファン？」",
+    ("よく知ってるわねぇ。…もしかして、あたしのファン？」",
     ""),
     # I know a lot about it....Maybe my fan?”
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "Oh, that's it..."
 
-    ("と志保はがっくり肩を獅落とした。",
+    ("と志保はがっくり肩を落とした。",
     ""),
     # Shiho squealed her shoulders.
 
-    ("「マジで残念がるな」†",
+    ("「マジで残念がるな」",
     ""),
     # "I'm seriously sorry"
 
-    ("「で烽もさ、フラー梶リってカッコいいと思寬わない？	イタリアンレッド諠よ？	男熬も翌女熄も撃血が宸騒がない？」",
+    ("「でもさ、フラー梶リってカッコいいと思寬わない？	イタリアンレッド諠よ？	男熬も翌女熄も撃血が宸騒がない？」",
     ""),
     # "So, don't you think Fuenra Kajiri is cool? Itagata Ri is a super red slut? Is there no fuss about the attacks of both the man and the next woman, Kiri?"
 
@@ -42,17 +42,17 @@ text_array = [
     ""),
     # "Now. I think it's cool though..."
 
-    ("「でしょ？	でしょ？」†",
+    ("「でしょ？	でしょ？」",
     ""),
-    # "Dear slut? Deear slut?" †
+    # "Dear slut? Deear slut?" 
 
     ("「けどな、フラー梶リなんて逆立ちしたって手に入逑らねえぞ」",
     ""),
     # "But, I'm not going to get a hand-standing fuen kajiri."
 
-    ("「あら、夢はおっきく揩持たなき痰ゃ」†",
+    ("「あら、夢はおっきく持たなき痰ゃ」",
     ""),
-    # "Oh, dreams are big phlegms that don't have big slender" †
+    # "Oh, dreams are big phlegms that don't have big slender" 
 
     ("「夢かよ…くだらねえ」",
     ""),
@@ -66,13 +66,13 @@ text_array = [
     ""),
     # "Yes, yes. Dreams are a shame if you don't see big phlegms."
 
-    ("お烽もいっきり馬鹿にした口調で言った。",
+    ("おもいっきり馬鹿にした口調で言った。",
     ""),
     # Hoo also said in a blessing that made fun of him.
 
-    ("「きぃぃ〜っ！	バカにして〜〜〜っ！」†",
+    ("「きぃぃ〜っ！	バカにして〜〜〜っ！」",
     ""),
-    # "Kiiii! Make fun of me!" †
+    # "Kiiii! Make fun of me!" 
 
     ("その冾日は志保と、ぎ痰ゃーぎ痰ゃー言いながら帰った。◯",
     ""),

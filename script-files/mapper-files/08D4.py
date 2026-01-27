@@ -2,7 +2,7 @@
 # Source file: 08D4.txt
 
 text_array = [
-    ("（戟レミィ	好感度イベント	ＰＳ）†",
+    ("（レミィ	好感度イベント	ＰＳ）†",
     ""),
     # (Karemi Likeability Event PS)†
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # During the break, Eki Remi suddenly asked.
 
-    ("戟レミィを見慣れていない連中は、じじとこっちを見ている。†",
+    ("レミィを見慣れていない連中は、じじとこっちを見ている。†",
     ""),
     # Those who are not used to seeing Karemi are looking at me with the b-b-b.†
 
-    ("「おう、戟レミィ。いったい何の用だ？」",
+    ("「おう、レミィ。いったい何の用だ？」",
     ""),
     # "Oh, huh Remie. What on earth is it for?"
 

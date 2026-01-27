@@ -2,9 +2,9 @@
 # Source file: 008A.txt
 
 text_array = [
-    ("（冝期槙末テスト	３冾日目）閨（選択綜	調子バッチリ）†",
+    ("（冝期槙末テスト	３冾日目）閨（選択綜	調子バッチリ）",
     ""),
-    # (3rd day of the final test for the sedative maki test) (Selection of the sedative sedative)†
+    # (3rd day of the final test for the sedative maki test) (Selection of the sedative sedative)
 
     ("「調子バッチリだぜ」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I said, "Make a peace sign."
 
-    ("これ烽もあかりとの特訓の成果だぜ。",
+    ("これもあかりとの特訓の成果だぜ。",
     ""),
     # This is also the result of Akari's special training.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Eh!? 'um,' ugh?"
 
-    ("「オレだから、なんだってんだよ！」†",
+    ("「オレだから、なんだってんだよ！」",
     ""),
     # "I'm so excited, what's wrong?"
 
@@ -30,13 +30,13 @@ text_array = [
     ""),
     # ""The weighted liters of the monomers that repeat the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the lateral movement of the
 
-    ("このオレを獅試すつ烽もりか、志保はいきなりさっきのテスト窿問題を口にした。",
+    ("このオレを試すつもりか、志保はいきなりさっきのテスト窿問題を口にした。",
     ""),
     # Tsukamoriyama tests this crazy guy, Shiho suddenly gives a lucky comment on the previous test question.
 
-    ("いいだう、受けて立つぜ。†",
+    ("いいだう、受けて立つぜ。",
     ""),
-    # That's fine, I'll take it and stand.†
+    # That's fine, I'll take it and stand.
 
     ("その問題の嘯答えは｢｢。",
     ""),

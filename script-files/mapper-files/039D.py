@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Well, is that okay?
 
-    ("席熕も隣り同士だし、いつで烽も凾嫌というほど顔を見迪られるからな。◯",
+    ("席熕も隣り同士だし、いつでも凾嫌というほど顔を見迪られるからな。◯",
     ""),
     # The seats are also next to each other, so whenever they can see their faces so badly they can't help but look at them.◯
 

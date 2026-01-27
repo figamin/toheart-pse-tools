@@ -2,9 +2,9 @@
 # Source file: 0A10.txt
 
 text_array = [
-    ("（Ａ	話をする。）†",
+    ("（Ａ	話をする。）",
     ""),
-    # (A: Let's talk.)†
+    # (A: Let's talk.)
 
     ("話をしよう。",
     ""),
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "That's it... It's just a coincidence now..."
 
-    ("と、掾理女緒ち痰ゃんはまた同じことをくり返す。†",
+    ("と、掾理女緒ち痰ゃんはまた同じことをくり返す。",
     ""),
-    # And then, Ochi Shoyan does the same thing again.†
+    # And then, Ochi Shoyan does the same thing again.
 
     ("「たまたまねぇ。あ、さては｢｢」",
     ""),
     # "It just happens. Ah, now ""
 
-    ("Ａ	見たいテレビで烽もあんのか？閨",
+    ("Ａ	見たいテレビでもあんのか？閨",
     ""),
     # A: Is there a hot movie that you want to watch with so much hotness?Relax
 

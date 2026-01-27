@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Sorry, but pass."
 
-    ("「え…？	あ、そうだよね。くんだって、明坙日テストだ烽もんね」",
+    ("「え…？	あ、そうだよね。くんだって、明坙日テストだもんね」",
     ""),
     # "What...? Oh, that's right. You know, it's the Ming Shun test."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "I'm not so smart enough to be able to teach someone something" †
 
-    ("「そんなことないよっ。くん、ほんとは賢い人だって知ってる烽もん！」",
+    ("「そんなことないよっ。くん、ほんとは賢い人だって知ってるもん！」",
     ""),
     # "That's not true. K-kun, I know you're a smart person!"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Yeah. Sorry for saying this without saying anything."
 
-    ("「じ痰ゃ、バイト焜もだけど、テスト焜もがんばれよ」",
+    ("「じ痰ゃ、バイトもだけど、テストもがんばれよ」",
     ""),
     # "You'll have to work hard, even if it's part-time work, but also try hard on your test lead."
 

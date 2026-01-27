@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Maki Final Test 4th Day Yasushi
 
-    ("てくてくと廊下を烽歩いていく。",
+    ("てくてくと廊下を歩いていく。",
     ""),
     # I walked along the hallway.
 
-    ("何人かの生徒たちとすれ痰違ったが、とくに親しい顔には出初妺わなかった。†",
+    ("何人かの生徒たちとすれ痰違ったが、とくに親しい顔には出初わなかった。†",
     ""),
     # Although I was completely gross with some of the students, I couldn't see any of my close faces.†
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # I descended the stairs and headed out into the corridor on the first floor.
 
-    ("とくに誰に出初うこと烽もなかった。†",
+    ("とくに誰に出初うこともなかった。†",
     ""),
     # I never had any particular experience with anyone.†
 
-    ("学校を出て、いつ烽もの坂道を下驩る。",
+    ("学校を出て、いつもの坂道を下驩る。",
     ""),
     # When did I leave school, I went down the hill.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # It's only Hayunang.
 
-    ("漢嚏字で烽も覚えておくか。◯",
+    ("漢嚏字でも覚えておくか。◯",
     ""),
     # Do you also remember the han yaku character in the han yaku character?◯
 

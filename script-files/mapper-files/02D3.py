@@ -2,11 +2,11 @@
 # Source file: 02D3.txt
 
 text_array = [
-    ("（芹°香	テスト	３／１８）閨（Ｃ	もう、ダ＜メか烽も）†",
+    ("（芹°香	テスト	３／１８）閨（Ｃ	もう、ダ＜メかも）",
     ""),
-    # (Seri°Ka test 3/18) Li (C, there's already Damme or Hot)†
+    # (Seri°Ka test 3/18) Li (C, there's already Damme or Hot)
 
-    ("「もう、ダ＜メか烽も…」",
+    ("「もう、ダ＜メかも…」",
     ""),
     # "Now, I'm not even going to have a dam or a hot pot..."
 
@@ -18,17 +18,17 @@ text_array = [
     ""),
     # To be honest, the day was miserable.
 
-    ("そうで烽もないような顔してたけど、本末当のことをいえば、けっこう深署刻な状況だ。†",
+    ("そうでもないような顔してたけど、本末当のことをいえば、けっこう深署刻な状況だ。",
     ""),
-    # Yes, he seemed to be innocent, but to say that he was in the realm, it was a pretty serious situation.†
+    # Yes, he seemed to be innocent, but to say that he was in the realm, it was a pretty serious situation.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("「え？	元気を出してくださいって？	まだ明坙日がありますって？	ははは、そうだな…」†",
+    ("「え？	元気を出してくださいって？	まだ明坙日がありますって？	ははは、そうだな…」",
     ""),
-    # "Huh? Please cheer me up? There's still Ming Shun Day? Haha, that's right..."†
+    # "Huh? Please cheer me up? There's still Ming Shun Day? Haha, that's right..."
 
     ("「………」",
     "…"),
@@ -46,25 +46,25 @@ text_array = [
     ""),
     # "If you do that, you'll get even better?"
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("そんな都∮合のいい魔法があんのかよ。",
     ""),
     # I wonder if there's such a good b-magic that's right for the city.
 
-    ("いや、で烽もやるだけやって烽もらおうか。†",
+    ("いや、でもやるだけやってもらおうか。",
     ""),
-    # Let's tamper with it, and then we'll tamper with it as much as we can with it.†
+    # Let's tamper with it, and then we'll tamper with it as much as we can with it.
 
     ("「うん、じ痰ゃあ、梶頼まあ」",
     ""),
     # "Yeah, sputum, Kaji-ryokay."
 
-    ("すると先輩は、わかりました、と言って、ａ魔法の呪文を唱え始めた。†",
+    ("すると先輩は、わかりました、と言って、ａ魔法の呪文を唱え始めた。",
     ""),
-    # Then the senior said, "I understand," and began to cast a spell with magic.†
+    # Then the senior said, "I understand," and began to cast a spell with magic.
 
     ("・",
     ""),
@@ -82,19 +82,19 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("なんだかよく墲わからないけど、呪文をかけ終尞わったらしい。",
+    ("なんだかよくわからないけど、呪文をかけ終尞わったらしい。",
     ""),
     # I don't really understand it, but it seems that he has finished putting up a spell.
 
-    ("これで今厓日勉強を始めると、オレは一妤種の催眠状態になり、教科痩書竢やノートに曹書かれた烽内容がスラスラと頭に入ってくるらしい。†",
+    ("これで今厓日勉強を始めると、オレは一種の催眠状態になり、教科痩書竢やノートに曹書かれた内容がスラスラと頭に入ってくるらしい。",
     ""),
-    # Now that I start studying, I'm in a state of hypnosis, and it seems that the subject's slimming letters and the contents of Cao written on the notebook will be in my mind.†
+    # Now that I start studying, I'm in a state of hypnosis, and it seems that the subject's slimming letters and the contents of Cao written on the notebook will be in my mind.
 
-    ("本末当だとすれば便風な烽もんだ。",
+    ("本末当だとすれば便風なもんだ。",
     ""),
     # If it's just the end of the day, it's a hot spring.
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # Well, the key is to tell yourself that such b-magic is being applied.
 
-    ("とにかく、諱先輩が桙応㊨援してくれたことにはか墲わりはない。†",
+    ("とにかく、諱先輩が桙応㊨援してくれたことにはかわりはない。",
     ""),
-    # Anyway, there's nothing wrong with the fact that Senpai Senpai supported me.†
+    # Anyway, there's nothing wrong with the fact that Senpai Senpai supported me.
 
     ("「うう、諱先輩、サンキャな。なんだか幸運の翌女神が微笑んでくれたっつー感じだぜ」",
     ""),

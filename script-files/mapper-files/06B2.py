@@ -2,9 +2,9 @@
 # Source file: 06B2.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（戟レベル３を見てないとき）閨（選択綜Ａ	見洛送ってやる）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（レベル３を見てないとき）閨（選択綜Ａ	見洛送ってやる）",
     ""),
-    # (Muryuruchi, Scales Event 2F LV4) (When you're not watching the level cry 3) (Choose A, send me a raku and send me a smash) †
+    # (Muryuruchi, Scales Event 2F LV4) (When you're not watching the level cry 3) (Choose A, send me a raku and send me a smash) 
 
     ("これで最纃後だし、オレはマルチを見洛送ってやることにした。",
     ""),
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Are you going back now?"
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
-    ("「だったら、いっしょに帰汲うぜ？」",
+    ("「だったら、いっしょに帰うぜ？」",
     ""),
     # "If that's the case, then I'll return to the ephemeral?"
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「浴送るぜ、バス窿停まで」",
+    ("「送るぜ、バス窿停まで」",
     ""),
     # "I'll take a bath, I'll go to the bus stop."
 
-    ("「あっ、はいっ！」†",
+    ("「あっ、はいっ！」",
     ""),
     # "Ah, yes!"
 
-    ("その繧後、縺後片づけを手伝ってから、オレとマルチは学校を出た。◯",
+    ("その後、縺後片づけを手伝ってから、オレとマルチは学校を出た。◯",
     ""),
     # After that, I helped to clean up after the tan, and then I and Makruchi left school.◯
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # ""Thank you for your help."
 
-    ("校舎にｌかってぺこんと礼をするマルチ。†",
+    ("校舎にｌかってぺこんと礼をするマルチ。",
     ""),
-    # McCruchi gives a deep bow to the school building and gives a slogan.†
+    # McCruchi gives a deep bow to the school building and gives a slogan.
 
-    ("土曜坥日の学校は、＝普段謦より烽も≠早く静けさが訪齧れる。",
+    ("土曜坥日の学校は、＝普段謦よりも≠早く静けさが訪齧れる。",
     ""),
     # At school on Saturday, you can usually find that the quieter you can visit.
 
-    ("グラウンド窿や体迹育館にいる部賦の生徒たち以外はほとんど帰ってしまっている。†",
+    ("グラウンド窿や体迹育館にいる部賦の生徒たち以外はほとんど帰ってしまっている。",
     ""),
-    # Most of the students from the club, except for the banquet round and the physical training camp, have left.†
+    # Most of the students from the club, except for the banquet round and the physical training camp, have left.
 
-    ("「…短い間でしたけど、とって烽もとって烽も、楽しかったです。この学校で過ごした８冾日間のことを、わたしは一生忘齧れません」†",
+    ("「…短い間でしたけど、とってもとっても、楽しかったです。この学校で過ごした８冾日間のことを、わたしは一生忘齧れません」",
     ""),
     # "...It was a short time, but I also enjoyed the hot springs. I will never forget the eight days I spent at this school."
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # With excitement, McDonald stared at the school building.
 
-    ("その背白を見ていると、やっぱり少し、か墲わいそうに思えた。†",
+    ("その背白を見ていると、やっぱり少し、かわいそうに思えた。",
     ""),
-    # Looking at the back of her, I felt a little sad, as expected.†
+    # Looking at the back of her, I felt a little sad, as expected.
 
     ("香ロボットだけど、マルチには、オレたちとなんら変﨑わらない心がある。",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # He hasn't let his smile go unnoticed, but his outward feelings seem somewhat lonely after all.
 
-    ("このままずっと、オレたちといっしょに学校にいられればいいのに…。†",
+    ("このままずっと、オレたちといっしょに学校にいられればいいのに…。",
     ""),
-    # I wish I could continue like this with my hardcore girls and stay at school...†
+    # I wish I could continue like this with my hardcore girls and stay at school...
 
     ("たたたっ…。",
     ""),
@@ -122,13 +122,13 @@ text_array = [
     ""),
     # "Yes. I baked it thoroughly into ≠mec Mogata Li."
 
-    ("マルチは明髢るい笑迴顔で嘯答えた。",
+    ("マルチは明髢るい笑顔で嘯答えた。",
     ""),
     # McDonald replied with a sly smile.
 
-    ("この笑迴顔と烽も今厓日でお別れか。†",
+    ("この笑顔とも今厓日でお別れか。",
     ""),
-    # I wonder if this laughing face and hot spring will say goodbye to you on the day.†
+    # I wonder if this laughing face and hot spring will say goodbye to you on the day.
 
     ("「＝cあ〜お〜げ〜ば〜、と〜お〜と〜し〜＝v",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "If you look up, it's important to you? You don't know about it?"
 
-    ("「はい…」†",
+    ("「はい…」",
     ""),
-    # "yes…"†
+    # "yes…"
 
     ("「卒業式に歌うんだよ。",
     ""),
@@ -166,13 +166,13 @@ text_array = [
     ""),
     # "Is it a graduation ceremony...?"
 
-    ("「ああ、だって今厓日はマルチの卒業式みたいな烽もんだ？」",
+    ("「ああ、だって今厓日はマルチの卒業式みたいなもんだ？」",
     ""),
     # "Ah, right now, is this a hot spring like a graduation ceremony for Makruchi?"
 
-    ("「…え」†",
+    ("「…え」",
     ""),
-    # "…picture"†
+    # "…picture"
 
     ("「≠ｨ〜し〜え〜の〜、に〜わ〜に〜も〜＝v",
     ""),
@@ -206,11 +206,11 @@ text_array = [
     ""),
     # The next wind, which slightly hints at early Amazement, stroked the two of them' cheeks and moved too hard.
 
-    ("オレがとりとめのない話を振髏ると、マルチは目のｒに残った涙をこすりながら、笑迴顔でこたえた。†",
+    ("オレがとりとめのない話を振髏ると、マルチは目のｒに残った涙をこすりながら、笑顔でこたえた。",
     ""),
-    # When I shouted a rambling story, Makruchi responded with a laughing face, rubbing the tears that remained in his eyes.†
+    # When I shouted a rambling story, Makruchi responded with a laughing face, rubbing the tears that remained in his eyes.
 
-    ("いつ烽もより烽も足を遅迺らせ気味に烽歩いたが、それで烽もやはり目的地にはｒいてしまう。",
+    ("いつもよりも足を遅迺らせ気味に歩いたが、それでもやはり目的地にはｒいてしまう。",
     ""),
     # At any rate, the boiler was walking slower than the boiler, but as the boiler was still stolen, it ended up falling to its destination.
 
@@ -222,9 +222,9 @@ text_array = [
     ""),
     # "yes"
 
-    ("マルチはうなずいて嘯答えた。†",
+    ("マルチはうなずいて嘯答えた。",
     ""),
-    # McDonald nodded and replied.†
+    # McDonald nodded and replied.
 
     ("「じ痰ゃあ、ここでお別れだな」",
     ""),
@@ -246,11 +246,11 @@ text_array = [
     ""),
     # "yes"
 
-    ("と、明髢るくうなずいた。†",
+    ("と、明髢るくうなずいた。",
     ""),
-    # He nodded.†
+    # He nodded.
 
-    ("「さん烽もお元気で。お体にお気をつけて」",
+    ("「さんもお元気で。お体にお気をつけて」",
     ""),
     # "Sanka is doing well too. Take care of your health."
 
@@ -258,11 +258,11 @@ text_array = [
     ""),
     # "ah"
 
-    ("オレが微笑むと…マルチは、ぽっと涙をこぼした。†",
+    ("オレが微笑むと…マルチは、ぽっと涙をこぼした。",
     ""),
-    # When I smiled... Ruchi burst into tears.†
+    # When I smiled... Ruchi burst into tears.
 
-    ("マルチはオレが見えなくなるまで、いつまで烽も、元気に手を振關り続けてくれた。◯",
+    ("マルチはオレが見えなくなるまで、いつまでも、元気に手を振關り続けてくれた。◯",
     ""),
     # Makruchi continued to wave his hands in energy until I couldn't see her.◯
 

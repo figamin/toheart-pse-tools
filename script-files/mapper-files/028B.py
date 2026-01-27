@@ -2,9 +2,9 @@
 # Source file: 028B.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｂ	諱先輩に呼びかける）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｂ	諱先輩に呼びかける）",
     ""),
-    # (Seri°Kawa, Scales Event, Departing from School LV1)Seri (Selection B, Calling for Senior Ie)†
+    # (Seri°Kawa, Scales Event, Departing from School LV1)Seri (Selection B, Calling for Senior Ie)
 
     ("梶リムジンに乗闖り桙込む先輩。",
     ""),
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # Without thinking, I called out loud.
 
-    ("ぴくっとこっちを見骭る先輩。†",
+    ("ぴくっとこっちを見骭る先輩。",
     ""),
-    # Senior peers overlooking me.†
+    # Senior peers overlooking me.
 
-    ("「今度は、いっしょに帰汲うぜ？」",
+    ("「今度は、いっしょに帰うぜ？」",
     ""),
     # "Next time, let's go back to the ephemeral?"
 
@@ -30,9 +30,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩はじっと見つめ、こくんと…。†",
+    ("諱先輩はじっと見つめ、こくんと…。",
     ""),
-    # Senpai stared at me and said, "Ko-kun."†
+    # Senpai stared at me and said, "Ko-kun."
 
     ("バタン。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # However, as if to break the bond between the two, the door was shut.
 
-    ("「あ…」†",
+    ("「あ…」",
     ""),
-    # "a…"†
+    # "a…"
 
     ("梶リムジンは静かにタイсヤを鳴逍らし、梶滑驫るように魔走闡りだす。",
     ""),
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # "I'm not going to meet you, Senpai..."
 
-    ("走闡り獅去驪る車にｌかってオレはつぶやいた。",
+    ("走闡り去驪る車にｌかってオレはつぶやいた。",
     ""),
     # I was hit by the car as it plunged away, and I muttered.
 
-    ("縺後伯部座席からオレのほうに汲視諮を翌送る先輩の表﨣情は、とて烽も申し訳なさそうだった。◯",
+    ("縺後伯部座席からオレのほうに視諮を翌送る先輩の表﨣情は、とても申し訳なさそうだった。◯",
     ""),
     # The senior's concerns about the outward concern from Hakube's seat to me from the next seat were apparently apologised to the public.◯
 

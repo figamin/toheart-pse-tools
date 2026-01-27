@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "yes"
 
-    ("ふたりはセリオからグ鴻ローブを受け取闔り、閨手にはめた。†",
+    ("ふたりはセリオからグ鴻ローブを受け取り、閨手にはめた。†",
     ""),
     # The two received the Ghoon robe from Segata Rio and put it in their hand.†
 
-    ("「今厓日で４回目。ここまでは楽汪勝だったけど、正直そそｊなくなってきた墲わ」",
+    ("「今厓日で４回目。ここまでは楽汪勝だったけど、正直そそｊなくなってきたわ」",
     ""),
     # "This is the fourth time I've had it on my day. Up until this point, I've been in a gay victory, but to be honest, it's starting to disappear."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "What, is this an excuse when we lost the weir?"
 
-    ("「瘁違う墲わ、逆諡よ。いよいよр私燻も本気で倒しにいかなき痰ゃねって意味」",
+    ("「瘁違うわ、逆諡よ。いよいよр私燻も本気で倒しにいかなき痰ゃねって意味」",
     ""),
     # "It's a different story, it's a reversed adage. It's finally time for me to seriously defeat the smoker."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Hey, wait a moment.†
 
-    ("「これまでは遊んでたとで烽もいうのかよ？」",
+    ("「これまでは遊んでたとでもいうのかよ？」",
     ""),
     # "You've been playing before, so do you say you're also saying you're saying you're playing?"
 
-    ("「べつに遊んでた墲わけじ痰ゃないけど、本気でやってた墲わけで烽もない墲わ。余力を残しつつ、それなりにやってたの」",
+    ("「べつに遊んでたわけじ痰ゃないけど、本気でやってたわけでもないわ。余力を残しつつ、それなりにやってたの」",
     ""),
     # "I've been playing with it all, but it's not a slut, so it's a slut that I've been seriously tampering with, so it's a slut. I kept some energy and was tampering with it."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Is that pretty..." †
 
-    ("「で烽も最近のの繧上達ぶりには目を見張髓る烽ものがある墲わ。",
+    ("「でも最近のの上達ぶりには目を見張髓るものがあるわ。",
     ""),
     # "And the recent improvements in Hot Springs have been impressive.
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "Hah" †
 
-    ("そこで綾∴香は、パシッと揩拳を握驤ると、",
+    ("そこで綾∴香は、パシッと拳を握驤ると、",
     ""),
     # Then Aya∴Ka clenched his fist in a flash,
 
-    ("「という墲わけで、今厓日のр私はちょっと手強い墲わよ」",
+    ("「というわけで、今厓日のр私はちょっと手強いわよ」",
     ""),
     # "So, on the day I'm on the shore, I'm a tough one."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # I don't really want to do that at the end of the day.†
 
-    ("「じ痰ゃあ、いい墲わよ。セリオ、お願い」",
+    ("「じ痰ゃあ、いいわよ。セリオ、お願い」",
     ""),
     # "Ah, phlegm, that's good. Seragata Rio, please."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Judgment Segata Rio makes a comeback.
 
-    ("「戟レディ｢｢」",
+    ("「レディ｢｢」",
     ""),
     # "The Witch Lady"
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # Suddenly, a right hook from the instep!
 
-    ("オレはとっさに繧後撃にスウェーする。",
+    ("オレはとっさに後撃にスウェーする。",
     ""),
     # My gangbang quickly swung into the attack after the attack.
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # What!?
 
-    ("綾∴香のрヤツ、いつ烽もと全然瘻違う攻めだぞ。",
+    ("綾∴香のрヤツ、いつもと全然瘻違う攻めだぞ。",
     ""),
     # Aya∴Ka's р guy is going to attack completely differently from when it comes to Hot.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # I avoided the geek by stepping and turning right.†
 
-    ("「いい墲わよ、縺上達してる！」",
+    ("「いいわよ、縺上達してる！」",
     ""),
     # "That's great, I'm improving!"
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # If you don't do that, it's time to sink right away.
 
-    ("「続けて行く墲わよ！」",
+    ("「続けて行くわよ！」",
     ""),
     # "I'll continue!"
 
@@ -242,15 +242,15 @@ text_array = [
     ""),
     # However, Aya∴Ka escapes with pure footwork quickly, and the next distance quickly opens.†
 
-    ("綾∴香は足の使いかたが非嵓常に繧上闖手い。",
+    ("綾∴香は足の使いかたが非嵓常に上闖手い。",
     ""),
     # Aya∴Ka's feet are always very skilled.
 
-    ("インファイター（接近寀戦が得意な選闡手）の嘯爆発力に、アウトタイプ（遠莱距離が得意）の素¢早いフット純ワークと冷静な判断力をあ墲わせ揩持つ、い墲わばオールレンジタイプだ。",
+    ("インファイター（接近寀戦が得意な選闡手）の嘯爆発力に、アウトタイプ（遠莱距離が得意）の素¢早いフット純ワークと冷静な判断力をあわせ持つ、いわばオールレンジタイプだ。",
     ""),
     # It's a very intense range type that has the explosive power of the Infighter (selectors who are good at close combat), and the out-type (savvy at long distances) with the pure, quick footwork and calm judgment.
 
-    ("そう言うと、まるで攻め入體るр隙がないように烽も思える。†",
+    ("そう言うと、まるで攻め入體るр隙がないようにも思える。†",
     ""),
     # When I say that, it makes me feel like there's no room for getting into the air.†
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # But, however!
 
-    ("なんで烽もｗいに名人なし！",
+    ("なんでもｗいに名人なし！",
     ""),
     # Why is it so crazy lol?
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # The fact that he is good at any next-day distance is that on the other hand, every next-day distance is only quite reasonable.†
 
-    ("綾∴香は翌距離を置いて、遠莱距離嵭戦に揩持ち桙込む気だ。",
+    ("綾∴香は翌距離を置いて、遠莱距離嵭戦に持ち桙込む気だ。",
     ""),
     # Aya∴Ka is planning to keep the next distance and take the battle to fight Torai Distance.
 
@@ -274,11 +274,11 @@ text_array = [
     ""),
     # So, how do you get it?
 
-    ("Ａ	接近寀戦に揩持ち桙込む。閨",
+    ("Ａ	接近寀戦に持ち桙込む。閨",
     ""),
     # A: He takes the ball into the close battle.Relax
 
-    ("Ｂ	遠莱距離嵭戦に揩持ち桙込む。閨",
+    ("Ｂ	遠莱距離嵭戦に持ち桙込む。閨",
     ""),
     # B He takes the battle to fight the Torari Distance.Relax
 

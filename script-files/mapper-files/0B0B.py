@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "She's sputum!"
 
-    ("オレは体をひねってうつ嘯伏せになると、綾∴香の太熨も烽もに顔をうずめた。",
+    ("オレは体をひねってうつ嘯伏せになると、綾∴香の太熨ももに顔をうずめた。",
     ""),
     # I twisted my body and leaned down, and my face leaned in the thick and hot Aya∴Ka's thick noshi and hot.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "So why are you denting your body?"
 
-    ("「べつに深い揩理由はないが、横になるときはオレはいつ烽もうつ嘯伏せなんだ」",
+    ("「べつに深い理由はないが、横になるときはオレはいつもうつ嘯伏せなんだ」",
     ""),
     # "There's no deep reason for this, but when I lie down, when I'm gross leaning down."
 
@@ -46,19 +46,19 @@ text_array = [
     ""),
     # "I'm going to have to tamper with this too much."
 
-    ("「いいじ痰ゃねーか、減骭る烽もんで烽もなし。これくらいサービスしてくれよ」",
+    ("「いいじ痰ゃねーか、減骭るもんでもなし。これくらいサービスしてくれよ」",
     ""),
     # "Isn't it okay to have any phlegms? It's a hot pot that's reduced, and there's no hot pot. Please give me this much."
 
-    ("「なんか勘瘧違いしてない？」",
+    ("「なんか勘違いしてない？」",
     ""),
     # "Are you misguided?"
 
-    ("「勘瘧違いで烽もいい、させてくれ〜」†",
+    ("「勘違いでもいい、させてくれ〜」†",
     ""),
     # "It's a different kind of instinct, so please let me go" †
 
-    ("「もう、しょうがない墲わね」",
+    ("「もう、しょうがないわね」",
     ""),
     # "There's no more sluts."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「ねえ、いつまで、そうしてるつ烽もり？」",
+    ("「ねえ、いつまで、そうしてるつもり？」",
     ""),
     # "Hey, how long will you keep doing that?"
 

@@ -2,15 +2,15 @@
 # Source file: 0A2F.txt
 
 text_array = [
-    ("（Ｂ	遠慮する。）†",
+    ("（Ｂ	遠慮する。）",
     ""),
-    # (B Please refrain.)†
+    # (B Please refrain.)
 
     ("「さすがにそり痰ゃ悪いよ。",
     ""),
     # "Actually, sputum is bad.
 
-    ("遠慮する墲わ」",
+    ("遠慮するわ」",
     ""),
     # I'm refraining from doing that."
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "picture…?"
 
-    ("一瞬、掾理女緒ち痰ゃんの顔がく烽もる。†",
+    ("一瞬、掾理女緒ち痰ゃんの顔がくもる。",
     ""),
-    # For a moment, the face of the woman Ochi Sphinja throbbed.†
+    # For a moment, the face of the woman Ochi Sphinja throbbed.
 
     ("「掾理女緒ち痰ゃん、今厓日燗もバイトとかあんだ？」",
     ""),
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "If that's the case, then you can't eat it and get enough nutrients?"
 
-    ("「で烽も…」",
+    ("「でも…」",
     ""),
     # "And the hot spring..."
 
-    ("「購ロ買のパンと揩理女緒ち痰ゃんの『閨手詩闕りおでん弁抹当』じ痰ゃ釣闥り№合寘わないって」†",
+    ("「購ロ買のパンと理女緒ち痰ゃんの『閨手詩闕りおでん弁抹当』じ痰ゃ釣闥り№合寘わないって」",
     ""),
     # "The bread that I bought and the "Oden Bento" by the "Like Hand Poem" is not a catch when I catch a fish."
 
@@ -50,11 +50,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("力なく、弁抹当箱を揩持つ手が下がる。",
+    ("力なく、弁抹当箱を持つ手が下がる。",
     ""),
     # Without any strength, he was holding the valve box down.
 
-    ("だが、またすぐに笑迴顔に戻って、",
+    ("だが、またすぐに笑顔に戻って、",
     ""),
     # But soon he smiled again,
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Ah, I'll just exchange one."
 
-    ("そう提案した。†",
+    ("そう提案した。",
     ""),
-    # That's what I proposed.†
+    # That's what I proposed.
 
     ("「おう、そうしようぜ。ウィンナー香ロールと撃レタスサンド、どっちがいい？	いちおう、苦労して手に入齠れた今厓日の成果だぜ」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("わりと真武剣に悩む揩理女緒ち痰ゃん。†",
+    ("わりと真武剣に悩む理女緒ち痰ゃん。",
     ""),
-    # I'm a bit worried about Shinbuken.†
+    # I'm a bit worried about Shinbuken.
 
     ("「じ痰ゃ、こっち！」",
     ""),
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "Hehehe."
 
-    ("「じ痰ゃ、オレ焜も一串煖もらうぜ」†",
+    ("「じ痰ゃ、オレも一串もらうぜ」",
     ""),
-    # "I'll get some skewers too." †
+    # "I'll get some skewers too." 
 
-    ("「はいっ。で烽も、これだけじ痰ゃなんだか悪いから、おまけに烽もう一本あげる」",
+    ("「はいっ。でも、これだけじ痰ゃなんだか悪いから、おまけにもう一本あげる」",
     ""),
     # "Yes. And even Hot is bad with all the phlegms, so I'll give you another Hot."
 
@@ -110,15 +110,15 @@ text_array = [
     ""),
     # "I have two more, so I'll have half the ones. Right?"
 
-    ("「そう言うんなら…」†",
+    ("「そう言うんなら…」",
     ""),
     # "If you say that..."
 
-    ("そういう墲わけで、オレはウィンナー香ロールとおでんとカフェオレという、めったにない取闔り№合寘わせの味を体験できた。",
+    ("そういうわけで、オレはウィンナー香ロールとおでんとカフェオレという、めったにない取り№合寘わせの味を体験できた。",
     ""),
     # That's why Ogekire was able to experience the rare taste of the wiener incense roll, oden, and cafe au geire, a rare taste of the number one taste of the singular flavor.
 
-    ("食べ終尞わった繧後煬も、五梃時間目が始まる直前まで、掾理女緒ち痰ゃんとのんびり話をした。◯",
+    ("食べ終尞わった後煬も、五梃時間目が始まる直前まで、掾理女緒ち痰ゃんとのんびり話をした。◯",
     ""),
     # After finishing the meal, Han also relaxedly talked to Jochi Sphinja until just before the Five Retirement Time began.◯
 

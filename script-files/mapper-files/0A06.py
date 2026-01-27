@@ -6,7 +6,7 @@ text_array = [
     ""),
     # "Hey Bo-go-sama, what are you angry about Tang? Did this guy do something?"
 
-    ("オレは目鱒を№合寘わせて子沁供に聞いた。",
+    ("オレは目を№合寘わせて子沁供に聞いた。",
     ""),
     # I asked Kouken-san to send a stove to the stove.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "...I don't remember that though.
 
-    ("もしかして、誰かと間瘧違えてないかな？」",
+    ("もしかして、誰かと間違えてないかな？」",
     ""),
     # Maybe you're confused with someone else?”
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Ryota, you're so phlegm. Isn't it different to humans? This guy, you can't have such a bad tampering or anything like that."
 
-    ("「で烽も、ねえち痰ゃんがいってた｢｢」",
+    ("「でも、ねえち痰ゃんがいってた｢｢」",
     ""),
     # "And hey, hey, there were some sputums on him, ""
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "Ah, wait a moment. Oh, I don't remember being a huge hit, it's a different person."
 
-    ("「とぼけるきか、ひきょう烽ものめ！」†",
+    ("「とぼけるきか、ひきょうものめ！」†",
     ""),
     # "Are you silly? A little silly thing!"
 
-    ("「なんて名前、ほかに烽もいるだうが」",
+    ("「なんて名前、ほかにもいるだうが」",
     ""),
     # "What a name, there are other hotpots too."
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Uhh..."
 
-    ("つって烽もこのガキ、おとなしく引きさがりそう烽もねえ顔してやがる。†",
+    ("つってもこのガキ、おとなしく引きさがりそうもねえ顔してやがる。†",
     ""),
     # And this kid is quietly trying to pull him off, but he's still trying to keep his face down.†
 
-    ("「わ、わかった。じ痰ゃあ、こうする。今度、お前の姉ち痰ゃんにｉったとき、悪かったって謝っておくよ」",
+    ("「わ、わかった。じ痰ゃあ、こうする。今度、お前の姉ち痰ゃんにったとき、悪かったって謝っておくよ」",
     ""),
     # "B, I understand. I'll do this. Next time I get it with your sister, I'll apologise for being wrong."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Who is Symptomy, what do you mean?"
 
-    ("「…さあな。オレだってここ最近、浴女の子をモかした覚えなんかねーしな」",
+    ("「…さあな。オレだってここ最近、女の子をモかした覚えなんかねーしな」",
     ""),
     # "...Come on. Even my ecstasy hasn't remembered making a bathing girl cry recently."
 

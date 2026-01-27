@@ -2,11 +2,11 @@
 # Source file: 00B2.txt
 
 text_array = [
-    ("（４獅月１１冾日	朝）閨（自分の部屋）†",
+    ("（４月１１冾日	朝）閨（自分の部屋）†",
     ""),
     # (April 11th day of the month) (morning) (morning)
 
-    ("４獅月１１冾日、金曜坥日。",
+    ("４月１１冾日、金曜坥日。",
     ""),
     # Fourth Lion's 11th day, Friday's day.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "...So, the girls after the banquet show that it's kind of scary and difficult to speak up."
 
-    ("朝の光にｕまれた道を烽歩きながら、あかりが言った。†",
+    ("朝の光にｕまれた道を歩きながら、あかりが言った。†",
     ""),
     # Akari said as she walked along the path erected by the morning light.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Is it scary, I'm so excited?"
 
-    ("「うん。おかしいでしょ。で烽も、♂史ち痰ゃんは優しそうだし、話しかけやすいんだって。変なの。ち痰ゃん烽も優しいのに」",
+    ("「うん。おかしいでしょ。でも、雅史ち痰ゃんは優しそうだし、話しかけやすいんだって。変なの。ち痰ゃんも優しいのに」",
     ""),
     # "Yes. That's weird. And Kano and Maki Shichi-Sho-chan seem kind and are easy to talk to. That's weird. Chi-Sho-chan is also kind."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Akari smiled smirking.†
 
-    ("「で烽も、どっちかっつーと、そいつらのほうが正しいと思うぜ。怖いかどうかはと烽もかく、優しくなんかねーからな、オレは」",
+    ("「でも、どっちかっつーと、そいつらのほうが正しいと思うぜ。怖いかどうかはともかく、優しくなんかねーからな、オレは」",
     ""),
     # "And I think they're the correct ones either way. Whether they're scared or not, it's not a good thing, I'm not very kind."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "That's not true" †
 
-    ("校蜊門前までｗたとき。",
+    ("校門前までｗたとき。",
     ""),
     # When I reached the school gates.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # It's Koroisu Korou-Russ.
 
-    ("自動ドアが開き、£からゆっくりと優莱に降闕り立ったのは、長い髪のおｏさまだった。†",
+    ("自動ドアが開き、からゆっくりと優莱に降闕り立ったのは、長い髪のおｏさまだった。†",
     ""),
     # The automatic door opened and the long haired O-san slowly leapt from the door to Yulai.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # And Akari.
 
-    ("「だな。さすが烽金搴持ち、なんとなく格の痰違いを思い知迺らされたって感じだぜ」",
+    ("「だな。さすが金搴持ち、なんとなく格の痰違いを思い知迺らされたって感じだぜ」",
     ""),
     # "That's right. As expected of a man, he has a wealth of energy, and somehow he has been made aware of his phlegm differences."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Yeah"†
 
-    ("艨ゆったりと魔走闡り獅去っていく鰍リムジン。",
+    ("艨ゆったりと魔走闡り去っていく鰍リムジン。",
     ""),
     # A lion slowly leaves the demon running away.
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # Senpai.
 
-    ("いつ烽も通闥り、なにを考えているのか、諱よく墲わからない表﨣情。",
+    ("いつも通闥り、なにを考えているのか、諱よくわからない表﨣情。",
     ""),
     # It's a standard issue that I don't really understand when it comes to Hot and what he's thinking.
 
-    ("無の境地で烽も悟ってそうな感じだ。†",
+    ("無の境地でも悟ってそうな感じだ。†",
     ""),
     # It seems like even Hou has come to realise the state of nothingness.†
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "good morning"
 
-    ("あかり烽もあいさつする。",
+    ("あかりもあいさつする。",
     ""),
     # Akari Hou also greets him.
 

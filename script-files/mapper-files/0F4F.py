@@ -2,9 +2,9 @@
 # Source file: 0F4F.txt
 
 text_array = [
-    ("（４獅月１２冾日	土）閨（堰ラジオ	６回目）†",
+    ("（４月１２冾日	土）閨（堰ラジオ	６回目）",
     ""),
-    # (Saturday, April 12th) (6th time of the weir radio)†
+    # (Saturday, April 12th) (6th time of the weir radio)
 
     ("テレビを見ていた。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Ha ha.
 
-    ("けっこう面猪白かった。†",
+    ("けっこう面猪白かった。",
     ""),
-    # The boar was pretty white.†
+    # The boar was pretty white.
 
     ("おっ、１１桙時だ。",
     ""),

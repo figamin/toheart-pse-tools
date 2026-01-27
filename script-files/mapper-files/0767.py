@@ -2,9 +2,9 @@
 # Source file: 0767.txt
 
 text_array = [
-    ("（琴音	好感度イベント	ＰＳ）閨（２階、帰闍り道回秤数イベントキャャンセル型）閨（選択綜	別れる）†",
+    ("（琴音	好感度イベント	ＰＳ）閨（２階、帰闍り道回秤数イベントキャャンセル型）閨（選択綜	別れる）",
     ""),
-    # (Kotone Likeability Event PS) (2nd floor, on the way back, the event on the straits of the straits and the straits) (Chooses, parting) †
+    # (Kotone Likeability Event PS) (2nd floor, on the way back, the event on the straits of the straits and the straits) (Chooses, parting) 
 
     ("「いようっ、琴音ち痰ゃん」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Ah, hello."
 
-    ("琴音ち痰ゃんはオレを見骭ると、ぺこりと頭を下げた。†",
+    ("琴音ち痰ゃんはオレを見骭ると、ぺこりと頭を下げた。",
     ""),
-    # Kotone Chisho-yan looked at me and bowed his head.†
+    # Kotone Chisho-yan looked at me and bowed his head.
 
     ("「帰驪るのか？」",
     ""),

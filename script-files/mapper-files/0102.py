@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "It looks like it's going to drag you down."
 
-    ("「そんなことないよ。ち痰ゃんは、やればなんで烽も出女磯翌鴦ｾから。きっと逆に、п私のほうが教えられる立齬場になるよ」†",
+    ("「そんなことないよ。ち痰ゃんは、やればなんでも出女磯翌鴦ｾから。きっと逆に、п私のほうが教えられる立齬場になるよ」†",
     ""),
     # "That's not true. If you do it, why does it come out of the woman Iso Isouin's Goblin? I'm sure it will become a more contradiction place where I can teach you."
 
-    ("「メ買いかぶりすぎだっつーの。ま、とにかく墲わりぃな。今回はなんとなく自分のペースでやりたいんだ」",
+    ("「メ買いかぶりすぎだっつーの。ま、とにかくわりぃな。今回はなんとなく自分のペースでやりたいんだ」",
     ""),
     # "I've been buying too much. Well, it's just too bad. I want to tamper with it at my own pace this time."
 
@@ -46,17 +46,17 @@ text_array = [
     ""),
     # "It's fine, it's fine. I just tried to say it.
 
-    ("もし烽も、テストの範囲で墲わからないことがあったら、気軽に電話してきてね」",
+    ("もしも、テストの範囲でわからないことがあったら、気軽に電話してきてね」",
     ""),
     # If you have any questions about Hot even within the scope of the test, feel free to call us."
 
-    ("「さんき繧ゅー」†",
+    ("「さんきゅー」†",
     ""),
     # "Sanki Yo" †
 
-    ("「♂史ち痰ゃんはどう？	いっしょに」",
+    ("「雅史ち痰ゃんはどう？	いっしょに」",
     ""),
-    # "How about ♂Shichi-sphin-chan? And sluts."
+    # "How about 雅Shichi-sphin-chan? And sluts."
 
     ("「ごめん、僕燒もいいよ。",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # I invited you to do no rationality and irrelevant."
 
-    ("空気を取闔り繕うようにあかりが言った。†",
+    ("空気を取り繕うようにあかりが言った。†",
     ""),
     # Akari said, trying to keep the atmosphere in check.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "That's all phlegm."
 
-    ("そう言うと、あかりは笑迴顔を残して教室を出ていった。†",
+    ("そう言うと、あかりは笑顔を残して教室を出ていった。†",
     ""),
     # When Akari said that, she left the classroom with a smile on her face.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Akarichi sputum
 
-    ("を誘いたかったんだよ。僕はおまけみたいな烽ものだから」",
+    ("を誘いたかったんだよ。僕はおまけみたいなものだから」",
     ""),
     # I wanted to invite him to.I'm a hot spring like a bonus."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "What are you saying?... I'm sorry."
 
-    ("で烽も、やっぱ、断髓ること烽もなかったかな。†",
+    ("でも、やっぱ、断髓ることもなかったかな。†",
     ""),
     # So, I guess there was no hot spring, no hot spring after all.†
 

@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "sorry…"
 
-    ("「えっ、諱先輩、なに謝ってんだよ。これで烽もけっこう楽しんでんだぜ」†",
+    ("「えっ、諱先輩、なに謝ってんだよ。これでもけっこう楽しんでんだぜ」†",
     ""),
     # "What, Senpai, what are you apologizing? You've been enjoying Hot a lot with this."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Senpai nodded slowly.
 
-    ("「今度は絶対に成功させようぜ！	オレ焜も、きっと魔法を信じられそうだ」◯",
+    ("「今度は絶対に成功させようぜ！	オレも、きっと魔法を信じられそうだ」◯",
     ""),
     # "Now, let's make it a success! I'm sure my slut will believe in b-magic."◯
 

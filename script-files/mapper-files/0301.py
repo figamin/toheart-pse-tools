@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Can I take my name and tamper with it?"
 
-    ("オレがそう言うと、浴女生徒は振關りｌいて、",
+    ("オレがそう言うと、女生徒は振關りｌいて、",
     ""),
     # When I said that, the bather student cried out,
 
-    ("『あんた誰謦よ？』とい墲わんばかりの、いぶかしそうな目をｌけた。",
+    ("『あんた誰謦よ？』といわんばかりの、いぶかしそうな目をｌけた。",
     ""),
     # "Who are you?"I was almost grossly, my eyes were glaringly.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # I took the book and put it in the child's hand and then tampered with it.†
 
-    ("その子はしばらくじっと本を見つめると、目鱒を繧上げ、オレを見た。",
+    ("その子はしばらくじっと本を見つめると、目を上げ、オレを見た。",
     ""),
     # The child stared at the book for a moment, then raised his stove and looked at me.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # What is it?
 
-    ("ありがとう烽も言えないのかよ。†",
+    ("ありがとうも言えないのかよ。†",
     ""),
     # Thank you, can't you say it?†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "thank you…"
 
-    ("心の声が通じたかのように、浴女生徒は照齒れくさそうに礼を言った。",
+    ("心の声が通じたかのように、女生徒は照齒れくさそうに礼を言った。",
     ""),
     # As if the voice in her heart had been understood, the female bather thanked her with a deep tingly expression.
 
@@ -118,7 +118,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("なにか気に痰障髀ることで烽も言っただうか、浴女生徒はいきなりムスッとした表﨣情になると、",
+    ("なにか気に痰障髀ることでも言っただうか、女生徒はいきなりムスッとした表﨣情になると、",
     ""),
     # I'm not saying something about it, and I just said it, but the female student suddenly became annoyed and unpleasant,
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Oh, hey, slut."
 
-    ("慌てて呼び止めると、浴女生徒はあっさりと立ち止まった。",
+    ("慌てて呼び止めると、女生徒はあっさりと立ち止まった。",
     ""),
     # I hurriedly called out, and the bather student stopped immediately.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "...Hey, I'm so blunt, did you say something bad?"
 
-    ("オレはなんで怒逑らせたのか揩理由が墲わからず、苦笑して聞いた。",
+    ("オレはなんで怒逑らせたのか理由がわからず、苦笑して聞いた。",
     ""),
     # I didn't understand why I made him angry, so I asked with a wry smile.
 
@@ -174,15 +174,15 @@ text_array = [
     ""),
     # It's rare for my B high school to have phlegm.
 
-    ("で烽も｢｢。†",
+    ("でも｢｢。†",
     ""),
     # And Ho also said, ".†
 
-    ("「オレはべつに、珍しいだなんて、ひとこと烽も｢｢」",
+    ("「オレはべつに、珍しいだなんて、ひとことも｢｢」",
     ""),
     # "I'm really, really rare, and I say """
 
-    ("言ってない、と続くはずだったのに、彼濫女の言葉がそれをさえぎった。",
+    ("言ってない、と続くはずだったのに、彼女の言葉がそれをさえぎった。",
     ""),
     # It was supposed to continue saying that she hadn't said that, but the woman's words interrupted it.
 
@@ -194,11 +194,11 @@ text_array = [
     ""),
     # "Huh? Kobe?" †
 
-    ("それだけを言い残すと、浴女生徒はくるりと背をｌけ、そのままスタスタと獅去っていってしまった。",
+    ("それだけを言い残すと、女生徒はくるりと背をｌけ、そのままスタスタと去っていってしまった。",
     ""),
     # When she left that pointless, the bather student turned around and then left.
 
-    ("今度は呼び止めるの烽も忘齧れ、オレは呆然とその背白を見洛送った。",
+    ("今度は呼び止めるのも忘齧れ、オレは呆然とその背白を見洛送った。",
     ""),
     # This time, I also forgot about the call-off, and I was stunned and looked at the back of my heart.
 
@@ -214,11 +214,11 @@ text_array = [
     ""),
     # In this case, the current tampering and exchanges have changed somehow?
 
-    ("感謝されるのならと烽もかく、なんでオレが怒逑られなき痰ゃいけねーんだ。",
+    ("感謝されるのならともかく、なんでオレが怒逑られなき痰ゃいけねーんだ。",
     ""),
     # If I were to be grateful, it would be a shame, so why should I have to be phlegmed to be angry?
 
-    ("まったく烽もって不条搶理だ。",
+    ("まったくもって不条搶理だ。",
     ""),
     # It's totally unjustified.
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "...I'm irritated."
 
-    ("考えると、ふつふつ怒闢りが墲わいてくる。†",
+    ("考えると、ふつふつ怒闢りがわいてくる。†",
     ""),
     # When I think about it, I get anger and anger.†
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "What's wrong, do you have phlegm?"
 
-    ("「どうした烽もこうした烽もあるか。いまここにいた翌女がなぁ〜…」",
+    ("「どうしたもこうしたもあるか。いまここにいた翌女がなぁ〜…」",
     ""),
     # "What's wrong, can you have this kind of hot spring? The next woman who was here now..."
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Hoshina? Do you know that guy?"
 
-    ("「うん。だって、同じクラスだ烽もん」",
+    ("「うん。だって、同じクラスだもん」",
     ""),
     # "Yeah. Because it's the same party."
 
@@ -270,11 +270,11 @@ text_array = [
     ""),
     # "Wow, that guy is impressed..."
 
-    ("たしかに、いかに烽も頭良さげ〜ってな感じだったな。†",
+    ("たしかに、いかにも頭良さげ〜ってな感じだったな。†",
     ""),
     # Certainly, it seemed like even Hot was smart.†
 
-    ("｢｢にして烽もだ。",
+    ("｢｢にしてもだ。",
     ""),
     # "They're also hot.
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # "I see, Hoshina, the girl after that. Damn it, it's annoying, it's annoying."
 
-    ("「彼濫女がどうかした？」",
+    ("「彼女がどうかした？」",
     ""),
     # "What's up with the overwhelmed woman?"
 
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # "...It's a bit of a boring thing after all."
 
-    ("あかりに言って烽もしょうがない烽もんな。◯",
+    ("あかりに言ってもしょうがないもんな。◯",
     ""),
     # To tell Akari, it's a hot spring that doesn't have a hot spring.◯
 

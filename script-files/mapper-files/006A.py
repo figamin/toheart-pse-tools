@@ -6,7 +6,7 @@ text_array = [
     ""),
     # 4/27 (Step Day)†
 
-    ("ああ、幸せな冾日曜坥日が過ぎ獅去っていく。",
+    ("ああ、幸せな冾日曜坥日が過ぎ去っていく。",
     ""),
     # Ah, the happy Sunday day passes and the lion goes away.
 

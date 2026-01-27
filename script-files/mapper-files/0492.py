@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Are you going back?"
 
-    ("「うん。ち痰ゃん烽もいっしょに帰汲」",
+    ("「うん。ち痰ゃんもいっしょに帰」",
     ""),
     # "Yes. I'll return to the slut."
 

@@ -2,9 +2,9 @@
 # Source file: 038B.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ｂ	保科、蛛大苟丈夫か？）閨（の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ｂ	保科、蛛大苟丈夫か？）閨（の続き）",
     ""),
-    # (Tomoko's Scales Event: Departing from School LV2) (Choice Sou A about this Ogeki Lol, if you're going to get a hook up next to you!) (Choice Sou B: Hoshina, are you strong in the Great?) (Continued)†
+    # (Tomoko's Scales Event: Departing from School LV2) (Choice Sou A about this Ogeki Lol, if you're going to get a hook up next to you!) (Choice Sou B: Hoshina, are you strong in the Great?) (Continued)
 
     ("悪いけど、ここはひとまず、あかりのほうは置いといて…と。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Hey, are you sturdy, are you sturdy?"
 
-    ("オレは保科に近づいた。†",
+    ("オレは保科に近づいた。",
     ""),
-    # My geisha approached Hoshina.†
+    # My geisha approached Hoshina.
 
     ("「………」",
     "…"),
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # When asked, Hoshina said, "Who is it?""He gave a look on his face.
 
-    ("図草書室でのこと、覚えてないのか。†",
+    ("図草書室でのこと、覚えてないのか。",
     ""),
-    # Do you not remember what happened in the cursive library?†
+    # Do you not remember what happened in the cursive library?
 
     ("保科はすぐに目をそらすと、",
     ""),
     # Hoshina immediately looked away,
 
-    ("「なんと烽もない。それより烽もｌこうのほう、心配したほうがええんとち痰ゃう」",
+    ("「なんともない。それよりもｌこうのほう、心配したほうがええんとち痰ゃう」",
     ""),
     # "There's no hot water. More than that, it's better to be worried about Hoko."
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "That guy is fine. He's the one who's the wrong."
 
-    ("まあ、根本的な原因はオレだけど。†",
+    ("まあ、根本的な原因はオレだけど。",
     ""),
-    # Well, the underlying cause is pretty bad.†
+    # Well, the underlying cause is pretty bad.
 
     ("「保科さん、ゴ＜メン。",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "I bumped into her with great force and it was a phlegm."
 
-    ("「もうええって。今纃後は烽もうちょっとま墲わりに気いつけな」",
+    ("「もうええって。今纃後はもうちょっとまわりに気いつけな」",
     ""),
     # "That's fine. Now, I'll be careful not to let the hot springs go."
 
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # "Uh, yes."
 
-    ("保科は軽くため息をつくと、そのまま素っ気なく獅去っていった。†",
+    ("保科は軽くため息をつくと、そのまま素っ気なく去っていった。",
     ""),
-    # Hoshina sighed lightly and then lioned off without a second thought.†
+    # Hoshina sighed lightly and then lioned off without a second thought.
 
     ("「保科さん、ホントは怒ってたんじ痰ゃ…」",
     ""),
     # "Hoshina-san, you're really angry and phlegm..."
 
-    ("「か烽もな」",
+    ("「かもな」",
     ""),
     # "Ah, even a hot pot."
 

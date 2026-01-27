@@ -2,7 +2,7 @@
 # Source file: 0200.txt
 
 text_array = [
-    ("（芹°香	冝日付イベント１）閨（３獅月４冾日）閨（１桙時間目の休み桙時間）閨（廊下）†",
+    ("（芹°香	冝日付イベント１）閨（３月４冾日）閨（１桙時間目の休み桙時間）閨（廊下）†",
     ""),
     # (Chri °Chris Date Event 1)Chris (3rd Lion Day, 4th Day)Chris (1st Floor Time)Chris (Chris)†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # My guts immediately went to the 2-A classroom.◯
 
-    ("だが運の悪いことに２−Ａの教室は烽もぬけの殻だった。",
+    ("だが運の悪いことに２−Ａの教室はもぬけの殻だった。",
     ""),
     # But unfortunately, the 2-A classroom was in a shell of nowhere.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Hello, I'm a B-man from a year when I bumped into the morning, but do you remember? Sorry this morning."
 
-    ("オレは笑迴顔で言った。†",
+    ("オレは笑顔で言った。†",
     ""),
     # I said with a laughing face.†
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "What have you been tampering with, here you go, on your own? Everyone, have you already gone and sputum?"
 
-    ("聞くと、諱先輩は３秒ほどなにかを考えた繧後、",
+    ("聞くと、諱先輩は３秒ほどなにかを考えた後、",
     ""),
     # When I heard, my senior came up with something in mind for about three seconds, and then he thought about it.
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # Ko-kun nodded and answered.†
 
-    ("「それって烽もしかして『普黒ｍ魔術の大系』ってやつ？」",
+    ("「それってもしかして『普黒ｍ魔術の大系』ってやつ？」",
     ""),
     # "Is that something that's tampering with, "The Epis of the Black Magic"?"
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # I showed my senior the book I had hidden behind my back.
 
-    ("「このオレが揩持ってるからなんだな〜」†",
+    ("「このオレが持ってるからなんだな〜」†",
     ""),
     # "It's because this guy has it~"
 
@@ -178,7 +178,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「多分、ぶつかったときに獅落としたんだ。ひとの手づたいにオレんとこに届いたんだ。じ痰ゃあ、はい、たしかに返したぜ」",
+    ("「多分、ぶつかったときに落としたんだ。ひとの手づたいにオレんとこに届いたんだ。じ痰ゃあ、はい、たしかに返したぜ」",
     ""),
     # "I think I leoparded when I bumped into him. It reached me with a hand. I got phlegm, yes, I certainly gave it back."
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # Senpai nodded with Ko-kun.
 
-    ("「じ痰ゃあ、もう獅落とさないようにな。って、オレがぶつかったせいか、はははっ」",
+    ("「じ痰ゃあ、もう落とさないようにな。って、オレがぶつかったせいか、はははっ」",
     ""),
     # "You're so phlegm, don't let the lion fall any more. Maybe because I was hit by a violent slurred, hahaha."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # It emits a unique atmosphere...†
 
-    ("それにして烽も、近くで見骭るとやっぱり綺淏麗だよなァ。",
+    ("それにしても、近くで見骭るとやっぱり綺淏麗だよなァ。",
     ""),
     # But when I looked up close, I saw that it was so beautiful.
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # Senpai nodded with a thud.
 
-    ("「それって変﨑わってるよな。ねえ、お烽金搴持ちのおｏ様って、そういう変﨑わったｎ味の人が多い",
+    ("「それって変﨑わってるよな。ねえ、お金搴持ちのおｏ様って、そういう変﨑わったｎ味の人が多い",
     ""),
     # "That's a chemistry. Hey, there are a lot of O-sama, who have a chemistry, who have a chemistry, who have that kind of chemistry.
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「えっ？	諱よく墲わかんないって？	ふうん、そう。",
+    ("「えっ？	諱よくわかんないって？	ふうん、そう。",
     ""),
     # "Huh? You really don't know what you're saying? Hmm, that's right.
 
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # Ko-kun.†
 
-    ("「諱よく墲わかんないけど、あそこって、普黒ｍ魔術とか降漉術とかやってるって話だけど、実際ホントにそういうことやってんの？	えっ？	やってるって？	マジ！？」",
+    ("「諱よくわかんないけど、あそこって、普黒ｍ魔術とか降漉術とかやってるって話だけど、実際ホントにそういうことやってんの？	えっ？	やってるって？	マジ！？」",
     ""),
     # "I don't really know what you're saying, but you're talking about how they're tampering with Fukuro M magic and Suzukijutsu, but are you actually actually tampering with that kind of thing? What? You're doing it? Seriously?!"
 
@@ -290,11 +290,11 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「％学したときに烽もらったクラブ案煦内の曹資料に曹書いてあったよな」",
+    ("「％学したときにもらったクラブ案煦内の曹資料に曹書いてあったよな」",
     ""),
     # "When I learned about the %, I got a banquet love plan that Cao wrote it in the Cao document inside the banquet love planner."
 
-    ("正直、当椏時はかなりうさんくさく思ったが、同椏時にちょっと気になったの烽も魔事実だ。†",
+    ("正直、当椏時はかなりうさんくさく思ったが、同椏時にちょっと気になったのも魔事実だ。†",
     ""),
     # To be honest, I felt quite sad when I was doing it, but it's also a terrible fact that I was curious about the same thing.†
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # Ko-kun.†
 
-    ("「え、クラブの部長が考えたって？	そうか、諱先輩が部長って墲わけじ痰ゃない烽もんな。…え？	部長は優秀なオカルト祉博士だけど、幽覧迫部員で部には滅多に顔を出さないって？	ナハハ、オカルトだけに幽覧迫部員か、お烽もしれー！」",
+    ("「え、クラブの部長が考えたって？	そうか、諱先輩が部長ってわけじ痰ゃないもんな。…え？	部長は優秀なオカルト祉博士だけど、幽覧迫部員で部には滅多に顔を出さないって？	ナハハ、オカルトだけに幽覧迫部員か、おもしれー！」",
     ""),
     # "What, did the manager of Kuen Love think about it? I see, Senpai Osamu is a club president who can't help but sigh....Huh? The manager is an excellent member of the Okaryokuruto Welfare, but he is a member of the Yuranai Club and rarely appears in the club? Nahaha, so he's a member of the Yuranai Club, so he's a member of the Yuranai Club, or maybe he's a member of the Yuranai Club!"
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # I'm late to the next class.
 
-    ("このオレはと烽もかく、諱先輩まで怒逑られち痰ゃか墲わいそうだ。†",
+    ("このオレはともかく、諱先輩まで怒逑られち痰ゃかわいそうだ。†",
     ""),
     # This is a bit of a rage, and even my senior fellows are probably angry and it's a shame.†
 
@@ -414,11 +414,11 @@ text_array = [
     ""),
     # It's true that I feel a high level of romance and I think it would be great if it actually existed in this world, but I'm basically a dislike.†
 
-    ("だからといって、興味がない墲わけじ痰ゃない。",
+    ("だからといって、興味がないわけじ痰ゃない。",
     ""),
     # That doesn't mean there's no reason to be interested in it.
 
-    ("そういうことが本末当にあるなら、ぜひこの目で見たいと思っているし、体験したいと烽も思っている。",
+    ("そういうことが本末当にあるなら、ぜひこの目で見たいと思っているし、体験したいとも思っている。",
     ""),
     # If that's what happens in the real world, I would definitely like to see it with my own eyes and experience it too.
 
@@ -442,7 +442,7 @@ text_array = [
     ""),
     # "...Huh? Would you like to visit Kuban Love next time? Yes, that's good. I'll go if I have time."
 
-    ("笑迴顔で嘯答えると、諱先輩は、",
+    ("笑顔で嘯答えると、諱先輩は、",
     ""),
     # When I answered with a laughing face, my senior said,
 
@@ -462,7 +462,7 @@ text_array = [
     ""),
     # "Ah, I'm not going to get late! I'm not going to get any more sluggish, Senpai, see you next time."
 
-    ("オレは先輩に手を振って、２−Ａの教室を繧後にした。◯",
+    ("オレは先輩に手を振って、２−Ａの教室を後にした。◯",
     ""),
     # I waved to my senior and left the 2-A classroom.◯
 

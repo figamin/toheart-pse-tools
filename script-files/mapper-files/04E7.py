@@ -2,9 +2,9 @@
 # Source file: 04E7.txt
 
 text_array = [
-    ("（志保	好感度イベントＰＳ）閨（選択綜	やなこった）†",
+    ("（志保	好感度イベントＰＳ）閨（選択綜	やなこった）",
     ""),
-    # (Shiho Likeability Event PS) (Selection Sou Yanakota)†
+    # (Shiho Likeability Event PS) (Selection Sou Yanakota)
 
     ("「やなこった。ひとりで帰って」",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "What? You've come to hate me, huh?!"
 
-    ("「誰が好きだって言ったんだよ」†",
+    ("「誰が好きだって言ったんだよ」",
     ""),
     # "I told you who I liked"
 
-    ("「っとに烽もお、照齒れ屋なんだからぁ」",
+    ("「っとにもお、照齒れ屋なんだからぁ」",
     ""),
     # "Even the hot springs are a shining guy too."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Who's the illuminator? I feel like I'm in the middle of your day."
 
-    ("「なによう、ついてない墲わねぇ」†",
+    ("「なによう、ついてないわねぇ」",
     ""),
     # "What, you can't find it?"
 
-    ("あきらめたふうだったので、オレは志保を置いてさっさと烽歩き出した。◯",
+    ("あきらめたふうだったので、オレは志保を置いてさっさと歩き出した。◯",
     ""),
     # He seemed to have given up, so I left Shiho behind and quickly started walking around.◯
 

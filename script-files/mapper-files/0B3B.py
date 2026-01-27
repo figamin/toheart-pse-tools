@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Aya∴Ka smiled and smiled happily.†
 
-    ("「もちん、約束は覚えてる墲わね？」",
+    ("「もちん、約束は覚えてるわね？」",
     ""),
     # "Mochibun, you remember the promise, right?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "promise?"
 
-    ("「またまたァ。『敗者は、なんで烽もひとつ、氈勝者の言うことを聞かねばならない』って、′めたじ痰ゃないの」",
+    ("「またまたァ。『敗者は、なんでもひとつ、氈勝者の言うことを聞かねばならない』って、′めたじ痰ゃないの」",
     ""),
     # "Again. Why should the loser listen to what the winner says?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # That's it.†
 
-    ("「ということで、なにかひとつр私の言うことを聞いて烽もらう墲わね翌＠」",
+    ("「ということで、なにかひとつр私の言うことを聞いてもらうわね翌＠」",
     ""),
     # "So, I'll listen to what I'm saying and get some hot springs next time @."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Well, it's bingo.†
 
-    ("結局、いいボツ案が出た魔末、いまからファーストフードのバーガーをおごることで獅落ちｒいた。",
+    ("結局、いいボツ案が出た魔末、いまからファーストフードのバーガーをおごることで落ちｒいた。",
     ""),
     # In the end, the idea of ​​discarding a bad b-b was proposed, and now I'm off to the lion to treat me to a fast food burger.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Well, that level of the amount is within the range of magical tolerance.
 
-    ("志保にたかられたと思えば安い烽もんだ。†",
+    ("志保にたかられたと思えば安いもんだ。†",
     ""),
     # It's cheap if you think Shiho is blessed with it.†
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Ou"†
 
-    ("「いい墲わよ、なんにする？	今度はそっちの得意分楓でいい墲わよ」",
+    ("「いいわよ、なんにする？	今度はそっちの得意分楓でいいわよ」",
     ""),
     # "It's good, what will you do? This time, Kaede, your specialty, will be fine."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # Maybe I'm really into something I'm good at?
 
-    ("考えてみり痰ゃ、そうか烽も。",
+    ("考えてみり痰ゃ、そうかも。",
     ""),
     # Think about it, phlegm, I see, sniff, and hot.
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "Yahra-men <What about the winnings of fast eating?"
 
-    ("「オッケー、いい墲わよ」",
+    ("「オッケー、いいわよ」",
     ""),
     # "Okay, it's nice."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # A large portion of "super spicy" yarn ramen <<A quick eater is a win-win situation."
 
-    ("「いい墲わ」",
+    ("「いいわ」",
     ""),
     # "It's nice."
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "Oh, oh."
 
-    ("「わかった、受けて立つ墲わよ。じ痰ゃあ、氏試㍽合の冾日はいつにする？」",
+    ("「わかった、受けて立つわよ。じ痰ゃあ、氏試㍽合の冾日はいつにする？」",
     ""),
     # "Okay, I'll take it and get on. When will the test be held?"
 
@@ -258,19 +258,19 @@ text_array = [
     ""),
     # "...Oh, that's right" †
 
-    ("なんか、諱取闔り返しのつかない方阜に流齬れてしまったような気がする。",
+    ("なんか、諱取り返しのつかない方阜に流齬れてしまったような気がする。",
     ""),
     # It feels like I've been in conflict with Fukukata Fu, which has no reciprocity.
 
-    ("そ烽もそ烽もオレは『蛛大盛關りモ辛艶ラー＝メン』の≠早食いが得意なのか、おい。†",
+    ("そもそもオレは『蛛大盛關りモ辛艶ラー＝メン』の≠早食いが得意なのか、おい。†",
     ""),
     # Is it good at eating fast foods like "Great Large Large Moss Extremely Spicy and Spicy Ramen"?†
 
-    ("「じ痰ゃそれは、バーガー食べながらｌめよ。運動してるせいか、最近この桙時間に、どう烽もお腹が空くのよね」†",
+    ("「じ痰ゃそれは、バーガー食べながらｌめよ。運動してるせいか、最近この桙時間に、どうもお腹が空くのよね」†",
     ""),
     # "You're so excited to eat a burger, so I've been feeling hungry lately after all this time."
 
-    ("「あ、そり痰ゃ太る前尅兆か烽もな。食岦わないほうがいいんじ痰ゃねーか？」",
+    ("「あ、そり痰ゃ太る前尅兆かもな。食岦わないほうがいいんじ痰ゃねーか？」",
     ""),
     # "Oh, there's a sign of sputum that you can skull a thick skull, or a skull. Isn't it better not to eat it, so skull?"
 

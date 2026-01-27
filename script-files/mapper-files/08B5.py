@@ -2,7 +2,7 @@
 # Source file: 08B5.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	「潤ワリィけど」）†",
+    ("（レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	「潤ワリィけど」）†",
     ""),
     # (Game Remy Scale Event 1st Floor 3 LV2) (Selection So "Junwagata Li") †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Really, it's a shame."
 
-    ("オレは平謝闔りで通した。†",
+    ("オレは平謝りで通した。†",
     ""),
     # I passed through with gratitude.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "That's phlegm..."
 
-    ("納得したのか、戟レミィはトボトボと烽歩いていった。◯",
+    ("納得したのか、レミィはトボトボと歩いていった。◯",
     ""),
     # Perhaps he was convinced, and Remy wandered around in a panic.◯
 

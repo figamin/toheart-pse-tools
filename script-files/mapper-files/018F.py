@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Are you going back?"
 
-    ("「うん。クラスの子たちと帰汲うと思って。ち痰ゃんは？」",
+    ("「うん。クラスの子たちと帰うと思って。ち痰ゃんは？」",
     ""),
     # "Yes. I thought I'd come back with the children of the Celebration. What about sphinja?"
 
-    ("「オレは…ちょっとぶらぶらしてから帰汲うと思ってな」",
+    ("「オレは…ちょっとぶらぶらしてから帰うと思ってな」",
     ""),
     # "I thought I'd go back after strolling around."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Yeah, it's phlegm."
 
-    ("ふたりは手を振って墲わかれた。◯",
+    ("ふたりは手を振ってわかれた。◯",
     ""),
     # The two waved and were swept away.◯
 

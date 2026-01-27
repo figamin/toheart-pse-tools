@@ -2,9 +2,9 @@
 # Source file: 06A5.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜Ａ	ゲーセンで遊ぼうか、と誘う）†",
+    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜Ａ	ゲーセンで遊ぼうか、と誘う）",
     ""),
-    # (Muryuruchi, the balance event, return trip) (Selection A, invites you to play at the arcade) †
+    # (Muryuruchi, the balance event, return trip) (Selection A, invites you to play at the arcade) 
 
     ("「じ痰ゃあさ、ちょっとオレにつき№合えよ」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # To kill time."
 
-    ("「…で烽も、セリオさんが」",
+    ("「…でも、セリオさんが」",
     ""),
     # "... And even Segata Rio-san."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "You're going to have phlegm right in front of you right in front of me.
 
-    ("大苟丈夫だって」†",
+    ("大苟丈夫だって」",
     ""),
     # It's tough"
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Yes."
 
-    ("オレはマルチを連齪れてゲーセンへｌかった。†",
+    ("オレはマルチを連齪れてゲーセンへｌかった。",
     ""),
-    # I went to the arcade with a string of cries.†
+    # I went to the arcade with a string of cries.
 
-    ("店燗内に入った途端、マルチは物珍しそうに、きょきょとま墲わりを見渡した。",
+    ("店燗内に入った途端、マルチは物珍しそうに、きょきょとまわりを見渡した。",
     ""),
     # As soon as I entered the store, I looked around the area with a strange look on my face.
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "Has Makruchi gone to the arcade?"
 
-    ("「いえ、堰初めてです。とって烽も賑笂やかで、楽しそうなとこですね」",
+    ("「いえ、堰初めてです。とっても賑笂やかで、楽しそうなとこですね」",
     ""),
     # "No, this is my first time at the weir. The hot springs are also bustling and fun."
 
-    ("「ああ、楽しいぞ。アミャーズ＜メントの最謐先端がこの空間に詰まってんだからな」†",
+    ("「ああ、楽しいぞ。アミャーズ＜メントの最謐先端がこの空間に詰まってんだからな」",
     ""),
     # "Ah, it's fun. The top tip of the Amyers <Mento is packed into this space."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("「＝メダルゲームだ。お烽金で≠メダルをモ買って、掾増竭やして遊ぶんだ」†",
+    ("「＝メダルゲームだ。お金で≠メダルをモ買って、掾増竭やして遊ぶんだ」",
     ""),
     # "It's a medal crying game. I'll buy a medal crying model with hot money and play with it."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Wha... No phlegm, what is that?"
 
-    ("「対岺戦型の格闘ゲームだ。ほら、二台がｌかい№合ってるだ？	プレイсヤー同士が対岺戦できるようになってんだよ」†",
+    ("「対岺戦型の格闘ゲームだ。ほら、二台がｌかい№合ってるだ？	プレイсヤー同士が対岺戦できるようになってんだよ」",
     ""),
     # "It's a fighting game that's a battle-type fighting game. See, the 1st digit is right? The game has become possible for both players to fight against each other."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "It's a jet ski game.
 
-    ("乗髀ると機械自体がぐりぐり動くんだ」†",
+    ("乗髀ると機械自体がぐりぐり動くんだ」",
     ""),
     # When you get on, the machine itself moves around."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # With that in mind, Makruchi asked him to be an air hockey platform.
 
-    ("「エアホッケーだ。本物のホッケーは知ってるか？」†",
+    ("「エアホッケーだ。本物のホッケーは知ってるか？」",
     ""),
     # "It's air hockey. Do you know about real hockey?"
 
@@ -122,19 +122,19 @@ text_array = [
     ""),
     # "I guess it's a miniature version of that.
 
-    ("金を入齠れると、下から空気がふ墲わーっと出てきて…」",
+    ("金を入齠れると、下から空気がふわーっと出てきて…」",
     ""),
     # When I put the money in, air gushed out from underneath..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「なんだ、やってみるか？」",
     ""),
     # "What, shall we try?"
 
-    ("「はいっ！	…あっ、で烽も、わたし、お烽金搴持ってないんです」",
+    ("「はいっ！	…あっ、でも、わたし、お金搴持ってないんです」",
     ""),
     # "Yes! ...Ah, and I don't have any hot water."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "You're going to buy me so much and tamper with me. Come on, go like this."
 
-    ("「は、はいっ、ありがとうございます！」†",
+    ("「は、はいっ、ありがとうございます！」",
     ""),
     # "Yes, thank you!"
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # We both got on the table and got a good match.
 
-    ("「いいか、堰ラケットはこうして揩持つ。",
+    ("「いいか、堰ラケットはこうして持つ。",
     ""),
     # "Look, this is how I carry the dam racket.
 
@@ -162,17 +162,17 @@ text_array = [
     ""),
     # "Yes, I understand!"
 
-    ("「諱よーし、じ痰ゃあ、始めるぜぇ〜」†",
+    ("「諱よーし、じ痰ゃあ、始めるぜぇ〜」",
     ""),
-    # "All right, I'll start with the phlegm" †
+    # "All right, I'll start with the phlegm" 
 
     ("オレは１００円玉を二∮枚竃投涛した。",
     ""),
     # My guts threw two or more 100 yen coins.
 
-    ("コトンッと、出てきたパックを手に取闔り、フィールドに置く。†",
+    ("コトンッと、出てきたパックを手に取り、フィールドに置く。",
     ""),
-    # He grabs the pack that came out in his hand and places it on the field.†
+    # He grabs the pack that came out in his hand and places it on the field.
 
     ("さーてと、オレは｢｢。",
     ""),

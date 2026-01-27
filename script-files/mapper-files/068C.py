@@ -14,15 +14,15 @@ text_array = [
     ""),
     # I said with a mischievous laugh.
 
-    ("「え、ええ、それは烽もう。ブレーカーが獅落ちち痰ゃうぐらいですから」†",
+    ("「え、ええ、それはもう。ブレーカーが落ちち痰ゃうぐらいですから」†",
     ""),
     # "Yeah, that's hot. The breaker laker is almost like a sputum."
 
-    ("「そっか、やっぱブレーカーが獅落ちてたのか」",
+    ("「そっか、やっぱブレーカーが落ちてたのか」",
     ""),
     # "I see, after all, the breaking laker had fallen."
 
-    ("「はい。突然さっきみたいに思い烽もよらない奄負荷がかかったりすると、安全確保のため、ブレーカーが獅落ちる仕組みになってるんです」",
+    ("「はい。突然さっきみたいに思いもよらない奄負荷がかかったりすると、安全確保のため、ブレーカーが落ちる仕組みになってるんです」",
     ""),
     # "Yes. If you suddenly get an amphibious load like before, like before, the breaker laker will fall to ensure safety."
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "Hiii;"
 
-    ("こりずに烽もう一度笂やってみた。",
+    ("こりずにもう一度笂やってみた。",
     ""),
     # Without it, I tried again.
 
-    ("さすがに今回は気站絶こそしなかった烽ものの、それで烽もマルチは飛び繧上がって驚いた。†",
+    ("さすがに今回は気站絶こそしなかったものの、それでもマルチは飛び上がって驚いた。†",
     ""),
     # Although it was obvious that he didn't stop thinking about the issue this time, he was surprised to see that the cries and squeals surged.†
 

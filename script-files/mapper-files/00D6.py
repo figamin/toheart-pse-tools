@@ -18,7 +18,7 @@ text_array = [
     ""),
     # The M order of the Clans Committee member is being charged.†
 
-    ("「あ〜、今厓日は学年又末テストの汲結果が返ってくると思う。それで、諱先生、ちょっとみんなに言い忘齧れてたことがあった」",
+    ("「あ〜、今厓日は学年又末テストの結果が返ってくると思う。それで、諱先生、ちょっとみんなに言い忘齧れてたことがあった」",
     ""),
     # "Ah, I think the results of the grade-grade final exams will be returned on the day. So, I've been able to forget about it, even though I've been saying it to everyone."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # He says as he scratches his head to hide the light.†
 
-    ("「じつは、最近、学年全体の成績がよしくないらしく、それで急きょｌまったんだが、今回のテストの成績不良者は、春休みに補習授業を受けて烽もらうことになってる」",
+    ("「じつは、最近、学年全体の成績がよしくないらしく、それで急きょｌまったんだが、今回のテストの成績不良者は、春休みに補習授業を受けてもらうことになってる」",
     ""),
     # "In fact, it seems that the grades for the entire grade are not good recently, so I suddenly got a thud, but those with poor grades on this test have been taking supplementary lessons during spring break and receiving hot spring."
 
-    ("え〜っと、教室賜がに墲わかにざ墲わめく。†",
+    ("え〜っと、教室賜がにわかにざわめく。†",
     ""),
     # Well, the classroom gifts are all yelling.†
 

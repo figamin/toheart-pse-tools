@@ -2,7 +2,7 @@
 # Source file: 00E7.txt
 
 text_array = [
-    ("（４獅月２９冾日	朝）閨（♂史とモ買い物）閨（最近、もてるだ）†",
+    ("（４月２９冾日	朝）閨（雅史とモ買い物）閨（最近、もてるだ）†",
     ""),
     # (April 29th Day, Morning) (Masked with Masked) (Lately, Mote-da b) †
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Hmm, that's right.
 
-    ("もてなく烽もないって感じかな」",
+    ("もてなくもないって感じかな」",
     ""),
     # I think it's not too hot and there's no hot water."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Huh? It's all that stuff..."
 
-    ("少し動揺するｉ史。",
+    ("少し動揺する史。",
     ""),
     # I'm a little upset.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Haha, I'm in trouble..."
 
-    ("結局その冾日は久しぶりにｉ史んちに寄闃り、男同士のくだらない話で盛關り繧上がった。◯",
+    ("結局その冾日は久しぶりに史んちに寄闃り、男同士のくだらない話で盛關り上がった。◯",
     ""),
     # In the end, it was the first time in a while that day, and it was a huge hit with silly stories between men.◯
 

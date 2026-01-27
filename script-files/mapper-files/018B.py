@@ -14,7 +14,7 @@ text_array = [
     ""),
     # My heart replied.
 
-    ("「その前に冾期槙末テスト焜もあるし、まだ先の話だ？	予定なんか墲わかんねーからな」",
+    ("「その前に冾期槙末テストもあるし、まだ先の話だ？	予定なんかわかんねーからな」",
     ""),
     # "Before that, there's a final exam test for the first time, so it's still a long way off. I don't know what to expect."
 

@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "Well."
 
-    ("だからってこのオレをダシにするのは気に入逑らないが、まあ断髓る揩理由燉もない。†",
+    ("だからってこのオレをダシにするのは気に入逑らないが、まあ断髓る理由燉もない。†",
     ""),
     # That's why I don't like the fact that I use this slurp, but I don't have a reason to stop it.†
 
-    ("「で烽もよ、こういうことなら、オレ諠よかｉ史か志保に鰍頼んだほうがいいぜ？	アイツ辜ら烽もあかりとは№仲良いし」",
+    ("「でもよ、こういうことなら、オレ諠よか史か志保に鰍頼んだほうがいいぜ？	アイツ辜らもあかりとは№仲良いし」",
     ""),
     # "And if this is the case, why don't you order a catfish from Ishii or Shiho? He and Ho are also friends with Akari."
 
-    ("「佐藤には烽もう鰍頼んだんだ。そしたらアイツ、お前に恨まれるから凾嫌だって」",
+    ("「佐藤にはもう鰍頼んだんだ。そしたらアイツ、お前に恨まれるから凾嫌だって」",
     ""),
     # "I already asked Sato to hachi. He's going to hate him because he'll be hated by you."
 

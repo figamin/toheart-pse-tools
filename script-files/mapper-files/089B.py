@@ -2,19 +2,19 @@
 # Source file: 089B.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階４	ＬＶ１）閨（廊下１）†",
+    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（廊下１）",
     ""),
-    # (Game Remy Scale Event 2nd Floor 4 LV1) (Corridor 1)†
+    # (Game Remy Scale Event 2nd Floor 4 LV1) (Corridor 1)
 
-    ("おっ、戟レミィだ。",
+    ("おっ、レミィだ。",
     ""),
     # Oh, it's Karemy.
 
-    ("「Ｈ奄ｉ！	」",
+    ("「Ｈ奄！	」",
     ""),
     # "Hi Amai!"
 
-    ("彼濫女はオレに気づくと、にっこり微笑んだ。",
+    ("彼女はオレに気づくと、にっこり微笑んだ。",
     ""),
     # When the woman noticed me, she smiled and smiled.
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Oh no."
 
-    ("「ネェ、。いっしょに帰汲」†",
+    ("「ネェ、。いっしょに帰」",
     ""),
-    # "Nah. I'll come back to you all." †
+    # "Nah. I'll come back to you all." 
 
     ("オレは｢｢。",
     ""),

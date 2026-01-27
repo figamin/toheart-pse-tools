@@ -2,9 +2,9 @@
 # Source file: 04F5.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	ああ）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	ああ）",
     ""),
-    # (Shiho Scales Event PS) (Select So Ah)†
+    # (Shiho Scales Event PS) (Select So Ah)
 
     ("「ああ。なんか面猪白そうだな」",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Ahhhhhhh? Why don't you take a look at it?"
 
-    ("「いいねぇ。あかりとか烽も誘って見骭るか」†",
+    ("「いいねぇ。あかりとかも誘って見骭るか」",
     ""),
-    # "That's good. Maybe I'll invite Akari and Hot to watch it." †
+    # "That's good. Maybe I'll invite Akari and Hot to watch it." 
 
-    ("「あ、うんうん。あかりやｉ史燻もね」",
+    ("「あ、うんうん。あかりや史燻もね」",
     ""),
     # "Ah, yes, yes. Also like red tampering and i-hime smoking."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What, did you forget?"
 
-    ("「ち、瘁違う墲わよ」†",
+    ("「ち、瘁違うわよ」",
     ""),
     # "Ah, it's a different roar."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Yeah, yes. What about eating a late-night snack together?"
 
-    ("「それ、いただきだな」†",
+    ("「それ、いただきだな」",
     ""),
     # "That's it, give me."
 

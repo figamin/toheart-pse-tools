@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I think half of it has exceeded.
 
-    ("前熨もって補習があるって墲わかっていれば、もう少し頑張れたと思うがな。†",
+    ("前熨もって補習があるってわかっていれば、もう少し頑張れたと思うがな。†",
     ""),
     # If I had known that there would be some supplementary lessons to tamper with the front gift, I think I would have tried a little more.†
 
-    ("なにはと烽もあれ、諱取闔りあえずなんとか補習は免齧れた。",
+    ("なにはともあれ、諱取りあえずなんとか補習は免齧れた。",
     ""),
     # Even though I was wondering what it was, I managed to get rid of the tampering supplementary lessons without even realizing it.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "You're probably not going home yet."
 
-    ("教室を出謠ようとしたら、％ってきた志保とばったり出く墲わした。",
+    ("教室を出謠ようとしたら、％ってきた志保とばったり出くわした。",
     ""),
     # When I was about to leave the classroom, I ran into Shiho, who had come to me.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Huh? Is it a place to go back?"
 
-    ("あかり烽もいっしょだ。†",
+    ("あかりもいっしょだ。†",
     ""),
     # Akari Hot is also a slut.†
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "What, is it for something?"
 
-    ("「テストの汲結果、どーだった？」",
+    ("「テストの結果、どーだった？」",
     ""),
     # "What were the results of the test?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "That's after all.
 
-    ("取闔りあえず、補習だけは免齧れたと言っておこう」†",
+    ("取りあえず、補習だけは免齧れたと言っておこう」†",
     ""),
     # Let's not hesitate to ask, and say that we've been able to do the supplementary lessons for a while."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Is that all I have to say? That's the point of my phlegm, I'm going to go back to my veteran." †
 
-    ("じだんだ踏み続ける志保を繧後目に、オレは教室を出た。◯",
+    ("じだんだ踏み続ける志保を後目に、オレは教室を出た。◯",
     ""),
     # After Shiho continued to step on, I left the classroom.◯
 

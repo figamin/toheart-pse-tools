@@ -2,17 +2,17 @@
 # Source file: 0887.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階１）閨（選択綜Ｂ→好き）†",
+    ("（レミィ	回秤数イベント	２階１）閨（選択綜Ｂ→好き）",
     ""),
-    # (Game Remie Scales Event 2nd Floor 1) (Select Sou B → Like)†
+    # (Game Remie Scales Event 2nd Floor 1) (Select Sou B → Like)
 
     ("「広い意味ではスキ…だな」",
     ""),
     # "In a broad sense, I like it..."
 
-    ("どちらかといえば、凵嫌いじ痰ゃないと思う…。†",
+    ("どちらかといえば、凵嫌いじ痰ゃないと思う…。",
     ""),
-    # If anything, I don't think I'll have any phlegm to hate...†
+    # If anything, I don't think I'll have any phlegm to hate...
 
     ("「好き？」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Doukiai c motom?"
 
-    ("聞き慣れない言葉だけど、意味は大体岺わかる。†",
+    ("聞き慣れない言葉だけど、意味は大体岺わかる。",
     ""),
-    # It's a word you're not familiar with, but I can roughly understand the meaning.†
+    # It's a word you're not familiar with, but I can roughly understand the meaning.
 
     ("「『類は友を呼ぶ』って意味か？」",
     ""),
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Yb Tangari!"
 
-    ("「わざ墲わざ入しい言葉使うなよ。そんな言葉、覚えて烽も通じないって」",
+    ("「わざわざ入しい言葉使うなよ。そんな言葉、覚えても通じないって」",
     ""),
     # "Don't use words deliberately. You should remember those words and can't even understand them."
 
-    ("すると、戟レミィはチッチッと指を振った。",
+    ("すると、レミィはチッチッと指を振った。",
     ""),
     # Then, Karemi shook her fingers.
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "Nippon culture, we must cherish the phlegm."
 
-    ("…戟レミィに言甯われち痰ゃ、蛛大きなお世話、って感じ烽もするけどな。†",
+    ("…レミィに言甯われち痰ゃ、蛛大きなお世話、って感じもするけどな。",
     ""),
-    # ...I feel like I'm being told by Remy, and I feel like I'm going to take great care of him.†
+    # ...I feel like I'm being told by Remy, and I feel like I'm going to take great care of him.
 
     ("「とこで、オレが子沁供を好きだと、なにかいいことあんのか？」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Is there c!"
 
-    ("「どんな？」†",
+    ("「どんな？」",
     ""),
-    # "what kind?"†
+    # "what kind?"
 
     ("「入モｃ窒ｒｔ！	…ヒ・ミ・ツ翼＠」",
     ""),
@@ -82,19 +82,19 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「ありがとう、。自信が烽もてた盾ワ！」",
+    ("「ありがとう、。自信がもてた盾ワ！」",
     ""),
     # "Thank you. A shield that has a strong confidence!"
 
-    ("「…？」†",
+    ("「…？」",
     ""),
-    # "...?" †
+    # "...?" 
 
     ("「バァイ！	！」",
     ""),
     # "Baay!!"
 
-    ("そう言って、戟レミィはスキップしながら獅去っていった。",
+    ("そう言って、レミィはスキップしながら去っていった。",
     ""),
     # With that, Karemy skipped and lioned away.
 

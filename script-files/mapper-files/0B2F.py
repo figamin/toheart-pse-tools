@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The battle for the Torai distance requires techniques such as high-speed b.
 
-    ("テクニックじ痰ゃ綾∴香に及ぶはず烽もない。",
+    ("テクニックじ痰ゃ綾∴香に及ぶはずもない。",
     ""),
     # Techniques include phlegm, but it's not like it could reach the scent of ya.
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # I'm sure my fierce thought that way and invited me to take on a close fight.
 
-    ("わざ墲わざ罠にハマ驛るつ烽もりはない。†",
+    ("わざわざ罠にハマ驛るつもりはない。†",
     ""),
     # There is no need to fall into traps on purpose.†
 
-    ("とは言って烽も、遠莱距離嵭戦で鰍相闡手をするのは愚の怩骨頂。",
+    ("とは言っても、遠莱距離嵭戦で鰍相闡手をするのは愚の怩骨頂。",
     ""),
     # That said, it is a foolish feat to play a slut in the battle for the Tohrai Dance.
 
-    ("遠莱距離嵭戦はディフェンスに徹して、綾∴香がインファイトを揩持ちかけてくるのを待つしかない。†",
+    ("遠莱距離嵭戦はディフェンスに徹して、綾∴香がインファイトを持ちかけてくるのを待つしかない。†",
     ""),
     # The only way to defend against Tonrai Dance is to wait for Aya Kaoru to come and give him an infight.†
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Shah!
 
-    ("綾∴香は遠莱距離からジャャブを打つが、オレは繧後撃に退いてそれをか墲わす。",
+    ("綾∴香は遠莱距離からジャャブを打つが、オレは後撃に退いてそれをかわす。",
     ""),
     # Aya∴Qing attacks Jayabu from Tang Yuanrai distance, but after that, Igret retreats to attack and spurs it off.
 
-    ("フット純ワークにおいて烽も綾∴香が数段纈上だ。",
+    ("フット純ワークにおいても綾∴香が数段纈上だ。",
     ""),
     # In the pure footwork, the hot water is also several steps above the Aya∴Ka.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # If it's a genuine kama ring, you'll be cornered quickly, but Kouima doesn't have to worry about that.†
 
-    ("「いつまで逃げてるつ烽もり？」",
+    ("「いつまで逃げてるつもり？」",
     ""),
     # "How long are you running away from me?"
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "What if it comes?"
 
-    ("「みすみす不風な墲戦いをする気はないね」",
+    ("「みすみす不風な戦いをする気はないね」",
     ""),
     # "I don't want to have a ugly battle with Misumi."
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # avoid.
 
-    ("オレ焜も同じことをするが、それで烽も綾∴香のほうが確実に",
+    ("オレも同じことをするが、それでも綾∴香のほうが確実に",
     ""),
     # My geisha does the same thing, but it's definitely more true that Kou and Aya∴Ka are
 
-    ("上闖手う墲わてだ。†",
+    ("上闖手うわてだ。†",
     ""),
     # It's a great day.†
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # However, I just have to do it with just one shot.
 
-    ("単発のジャャブは烽もらって烽もいい。",
+    ("単発のジャャブはもらってもいい。",
     ""),
     # The single-shot jayab is also nice and hot.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # There are differences in technology, but they are the same people.
 
-    ("綾∴香といえど烽も攻ｍ撃梃時にはр隙ができるし、ブ鴻ロックさせれば足熨も止まる。",
+    ("綾∴香といえども攻ｍ撃梃時にはр隙ができるし、ブ鴻ロックさせれば足熨も止まる。",
     ""),
     # Even though it's Aya∴Kara, you can have a gap when attacking and explosive attacks, and if you lock it, your feet will stop.
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # Being pushed.
 
-    ("攻ｍ撃は最蜊大の防莓御とはよく言った烽もんだ。",
+    ("攻ｍ撃は最大の防莓御とはよく言ったもんだ。",
     ""),
     # It's often said that attacks and M-shots are the biggest mirageous defensive.
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # Before I knew it, my legs had stopped.
 
-    ("ガード焜も下がってきた。",
+    ("ガードも下がってきた。",
     ""),
     # The guard is also falling.
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # I got hit with it.
 
-    ("またして烽も。",
+    ("またしても。",
     ""),
     # And then there's hot spring again.
 
@@ -322,11 +322,11 @@ text_array = [
     ""),
     # "Stay..."
 
-    ("「誘いに乗迴らなかったのは正解謇よ。",
+    ("「誘いに乗らなかったのは正解謇よ。",
     ""),
     # "It's correct to not take the invitation.
 
-    ("遠莱距離嵭戦につき№合寘わないの烽も正解。判断は正しい墲わ」",
+    ("遠莱距離嵭戦につき№合寘わないのも正解。判断は正しいわ」",
     ""),
     # The correct answer is that the No. 1 match is not sung in the battle for the Torari Distance.The judgement is correct."
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "My form is to get the advantage at distance distance and fire in a panic and defeat the snake-related fighters in close combat."
 
-    ("「判断は正しくと烽も、このザマじ痰ゃな…」",
+    ("「判断は正しくとも、このザマじ痰ゃな…」",
     ""),
     # "The judgment is correct, and even if you're not sure what to do, you'll have to be phlegm..."
 

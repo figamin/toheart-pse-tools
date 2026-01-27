@@ -2,15 +2,15 @@
 # Source file: 07A0.txt
 
 text_array = [
-    ("（琴音	回秤数イベントＰＳ）閨（ハイブリッド）†",
+    ("（琴音	回秤数イベントＰＳ）閨（ハイブリッド）",
     ""),
-    # (Kotone Scales Event PS) (Hibugata Lid)†
+    # (Kotone Scales Event PS) (Hibugata Lid)
 
     ("「お帰闍りですか？	さん」",
     ""),
     # "Are you coming back? Mr."
 
-    ("不意に声をかけられ、目を繧上げると、琴音ち痰ゃんが立っていた。",
+    ("不意に声をかけられ、目を上げると、琴音ち痰ゃんが立っていた。",
     ""),
     # Suddenly he called out to me, and when I looked up, Kotone Chisho-chan stood there.
 

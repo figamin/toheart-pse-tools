@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("最燕初の質竡問燒もそうだったが、氈次の質竡問は烽もっと意味不明だった。",
+    ("最燕初の質竡問燒もそうだったが、氈次の質竡問はもっと意味不明だった。",
     ""),
     # This was the case with the first quality question at the very first time, but the quality question from the Hajime no longer seemed even more incomprehensible.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "I'm listening because I don't know."
 
-    ("「ある墲わけねーだっ！」",
+    ("「あるわけねーだっ！」",
     ""),
     # "There's no way there's anything!"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "And so.
 
-    ("よく墲わかった墲わよ」",
+    ("よくわかったわよ」",
     ""),
     # I understand that well."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "He's a guy who's not good at trying..."
 
-    ("「わかったから、あんたは帰っていい墲わよ」",
+    ("「わかったから、あんたは帰っていいわよ」",
     ""),
     # "I understand, so you're fine to go home."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「用があったのはそれだけだから、氈勝闖手に帰っていい墲わよ」",
+    ("「用があったのはそれだけだから、氈勝闖手に帰っていいわよ」",
     ""),
     # "That's all I had to do, so I'd be happy to go home to Hakkei."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Yes, yes. Go over there, shit!"
 
-    ("＊良犬で烽も追い払うみたいに言う、志保。",
+    ("＊良犬でも追い払うみたいに言う、志保。",
     ""),
     # *Shiho says it's a good dog and drives away Hot too.
 

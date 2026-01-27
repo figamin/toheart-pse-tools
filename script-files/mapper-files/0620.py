@@ -2,25 +2,25 @@
 # Source file: 0620.txt
 
 text_array = [
-    ("（マルチ	エンディング）閨（４獅月２０冾日	冝日曜坥日	限定）閨（回秤数イベント４の長い版を見た）閨（かつ、好感度２０以繹上がのとき）閨（朝８桙時）†",
+    ("（マルチ	エンディング）閨（４月２０冾日	冝日曜坥日	限定）閨（回秤数イベント４の長い版を見た）閨（かつ、好感度２０以繹上がのとき）閨（朝８桙時）",
     ""),
-    # (Mixing Ending) (4th Lion Day 20th Day, Sunday Day, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, 8 in the morning)†
+    # (Mixing Ending) (4th Lion Day 20th Day, Sunday Day, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, Lie, 8 in the morning)
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("あ…？",
     ""),
@@ -30,19 +30,19 @@ text_array = [
     ""),
     # What...?
 
-    ("電話…？†",
+    ("電話…？",
     ""),
-    # phone…?†
+    # phone…?
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("香枕の繧上の頭を動かし、時計を見た。",
+    ("香枕の上の頭を動かし、時計を見た。",
     ""),
     # I moved my head on the pillow and looked at the clock.
 
@@ -50,17 +50,17 @@ text_array = [
     ""),
     # What is it? You still have phlegm at 8 holes.
 
-    ("いったい誰だ、こんな朝っぱらから…。†",
+    ("いったい誰だ、こんな朝っぱらから…。",
     ""),
-    # Who is it, since this morning...†
+    # Who is it, since this morning...
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("いい。",
     ""),
@@ -74,57 +74,57 @@ text_array = [
     ""),
     # Let's pretend you didn't notice.
 
-    ("′こう烽もすぐにあきらめるだ。†",
+    ("′こうもすぐにあきらめるだ。",
     ""),
-    # 'Kouka will soon give up.†
+    # 'Kouka will soon give up.
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("「………」",
     "…"),
     # "..."
 
-    ("しつこいな。†",
+    ("しつこいな。",
     ""),
-    # Be persistent.†
+    # Be persistent.
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("ちっ、し痰ゃあねーな。",
     ""),
     # Tw, there's no phlegm.
 
-    ("出てやるか。†",
+    ("出てやるか。",
     ""),
-    # Will you go out and tamper with it?†
+    # Will you go out and tamper with it?
 
     ("とんとんとんとん…。",
     ""),
@@ -134,43 +134,43 @@ text_array = [
     ""),
     # I wonder if the one who keeps the phone at the entrance these days is to have a sputum.
 
-    ("せめてコードレスにしてくれってんだ。†",
+    ("せめてコードレスにしてくれってんだ。",
     ""),
-    # They'll at least make the code extremely unavailable.†
+    # They'll at least make the code extremely unavailable.
 
     ("プルルルルルルルル…。",
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("プルルルルルルルル…。†",
+    ("プルルルルルルルル…。",
     ""),
-    # I'm so excited, crying, crying, crying, crying, crying...†
+    # I'm so excited, crying, crying, crying, crying, crying...
 
     ("はいはい、いま出髀るから切髏るんじ痰ゃねーぞ。",
     ""),
     # Yes, yes, I'm going to pick it up now, so I don't have to cut it all.
 
-    ("ここまでｗて切齔れち痰ゃかな墲わん。",
+    ("ここまでｗて切齔れち痰ゃかなわん。",
     ""),
     # That's all lol I can't help but cut it off.
 
-    ("オレは、気搴持ち急ぎ足で受話嶸器を取った。†",
+    ("オレは、気搴持ち急ぎ足で受話嶸器を取った。",
     ""),
-    # I quickly grabbed the receiver in a hurry.†
+    # I quickly grabbed the receiver in a hurry.
 
-    ("「はい、です」†",
+    ("「はい、です」",
     ""),
-    # "Yes." †
+    # "Yes." 
 
-    ("「あっ、あのっ、もし烽もし！？」",
+    ("「あっ、あのっ、もしもし！？」",
     ""),
     # "Ah, um, what if it's hot!?"
 
-    ("聞こえてきたのは、浴女の子の声。",
+    ("聞こえてきたのは、女の子の声。",
     ""),
     # What I heard was the voice of a bathing girl.
 
-    ("「おっ、おそっ、恐鼡れ入闢りますが、様のお薰宅でしょうか！？」†",
+    ("「おっ、おそっ、恐鼡れ入闢りますが、様のお薰宅でしょうか！？」",
     ""),
     # "Oh, sir, I'm intimidated, but should I go to my house?"
 
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # "Ah, please, Mr."
 
-    ("なんだか獅落ちｒかねーやつだな。†",
+    ("なんだか落ちｒかねーやつだな。",
     ""),
-    # It's kind of like a lion falling off the ground.†
+    # It's kind of like a lion falling off the ground.
 
     ("「はオレですけど…」",
     ""),
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # Hmm, wait?
 
-    ("この声は…。†",
+    ("この声は…。",
     ""),
-    # This voice is...†
+    # This voice is...
 
     ("「もしかして、マルチか？」",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # A squeal came back.
 
-    ("その声は間瘧違いなくマルチだった。†",
+    ("その声は間違いなくマルチだった。",
     ""),
-    # His voice was definitely crying.†
+    # His voice was definitely crying.
 
     ("「おおっ、やっぱりマルチかーっ！」",
     ""),
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "...Uhh, I'm so moved. I can talk like this again."
 
-    ("「オレ焜もだぜ。どうだ、元気か？」",
+    ("「オレもだぜ。どうだ、元気か？」",
     ""),
     # "I'm also in the midst of my hard work. How are you?
 
@@ -246,13 +246,13 @@ text_array = [
     ""),
     # "Yeah, yes, thanks."
 
-    ("つって烽も、昨厓日の今厓日だ烽もんな。",
+    ("つっても、昨厓日の今厓日だもんな。",
     ""),
     # And the hot springs are also hot springs, which is the hot springs day last day.
 
-    ("当然か。†",
+    ("当然か。",
     ""),
-    # Of course polishing.†
+    # Of course polishing.
 
     ("「いまどこから電話してんだ？」",
     ""),
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # "Yes... um, in the place b, san?"
 
-    ("「ん？」†",
+    ("「ん？」",
     ""),
-    # "yeah?"†
+    # "yeah?"
 
     ("「今厓日はなにか、ご予定はおありですか？」",
     ""),
@@ -286,11 +286,11 @@ text_array = [
     ""),
     # "yes"
 
-    ("えっと、なにかあったっけ…？†",
+    ("えっと、なにかあったっけ…？",
     ""),
-    # Um, was there something...?†
+    # Um, was there something...?
 
-    ("「じつは墲わたし、今厓日齠一勛日だけ、外出柾許可をいただいたんですよー」",
+    ("「じつはわたし、今厓日齠一勛日だけ、外出柾許可をいただいたんですよー」",
     ""),
     # "In fact, I got permission to go out on the day of the day."
 
@@ -302,9 +302,9 @@ text_array = [
     ""),
     # "Yes, it's the first time I've had that kind of thing, and I'm so happy."
 
-    ("たしかに、心から嬉しそうだ。†",
+    ("たしかに、心から嬉しそうだ。",
     ""),
-    # Certainly, he looks truly happy.†
+    # Certainly, he looks truly happy.
 
     ("「それで、もしさんさえよしければ、いまからそちらのお薰宅におじ痰ゃまして、これまでお世話になったお礼に、なにかお手伝いのようなことができればと思うのですが」",
     ""),

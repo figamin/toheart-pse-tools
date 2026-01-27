@@ -14,7 +14,7 @@ text_array = [
     ""),
     # It's a free time that's been tampered with.
 
-    ("その途端に元気になるオレって、やっぱり将女謂翌焜Aフターファイブ型なのかね。†",
+    ("その途端に元気になるオレって、やっぱり将女謂翌Aフターファイブ型なのかね。†",
     ""),
     # I'm so excited that I feel the same way as I did, and I guess I guess the owner, so I guess I'm the so-called A-Five type.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # I went through the hallway and ended up tampering with it all the way to the front of the stairs lol.
 
-    ("＝早く帰汲うか。†",
+    ("＝早く帰うか。†",
     ""),
     # =Shall I come back soon?†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # He was heavily warned about his lack of phlegm and his lazy attitude, as he was disparaged.†
 
-    ("学校を出て、坂道を烽歩く。",
+    ("学校を出て、坂道を歩く。",
     ""),
     # I left school and walked down the hill.
 
-    ("誰か知ったрヤツは烽歩いてねーかな。",
+    ("誰か知ったрヤツは歩いてねーかな。",
     ""),
     # I wonder if someone who knows about it is walking around.
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # Isn't there?
 
-    ("いいや、ひとりで帰汲。†",
+    ("いいや、ひとりで帰。†",
     ""),
     # I'm going to go back on my own.†
 
-    ("３獅月６冾日の夜。",
+    ("３月６冾日の夜。",
     ""),
     # The night of the 6th day of the 3rd silence.
 
-    ("＝早めにベッドに烽もぐり桙込む。",
+    ("＝早めにベッドにもぐり桙込む。",
     ""),
     # = Early in the bed and sniff it.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # The most common thing to keep in mind is that I'm not really phlegmed.
 
-    ("そのうち、心地謦よい眠りに獅落ちていく…。◯",
+    ("そのうち、心地謦よい眠りに落ちていく…。◯",
     ""),
     # Eventually, the lion falls into a comfortable sleep...◯
 

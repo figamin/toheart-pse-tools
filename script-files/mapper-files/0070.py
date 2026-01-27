@@ -2,13 +2,13 @@
 # Source file: 0070.txt
 
 text_array = [
-    ("（♂史エンディング）閨（５獅月６冾日）閨（自室	朝）†",
+    ("（雅史エンディング）閨（５月６冾日）閨（自室	朝）",
     ""),
-    # (Male History Ending) (5th Lion, 6th Day) (My room morning) †
+    # (Male History Ending) (5th Lion, 6th Day) (My room morning) 
 
-    ("長いゴールデンウィークが終尞わり、ついに修学旅行の朝がやってきた。†",
+    ("長いゴールデンウィークが終尞わり、ついに修学旅行の朝がやってきた。",
     ""),
-    # The long Golden Week ends, and the morning of the school trip has finally started to fend off.†
+    # The long Golden Week ends, and the morning of the school trip has finally started to fend off.
 
     ("荷物は大き目のスポーツバッグ黹一個だけ。",
     ""),
@@ -18,19 +18,19 @@ text_array = [
     ""),
     # The less luggage you have on your trip, the better.
 
-    ("もちん、閨手ぶらで行けって墲わけじ痰ゃない。",
+    ("もちん、閨手ぶらで行けってわけじ痰ゃない。",
     ""),
     # Mochi b, you can go empty-handed, so there's no reason to spare.
 
-    ("必要最瘢低限、スマートにまとめるのがコツ。†",
+    ("必要最瘢低限、スマートにまとめるのがコツ。",
     ""),
-    # The trick is to keep the scars low and keep them together smartly.†
+    # The trick is to keep the scars low and keep them together smartly.
 
     ("「いってきま〜す」",
     ""),
     # "I'm coming."
 
-    ("時間はいつ烽もより≠早いのに、今厓日ばかりは眠気煖もほとんどなく、気分謨よく家を出た。◯",
+    ("時間はいつもより≠早いのに、今厓日ばかりは眠気もほとんどなく、気分謨よく家を出た。◯",
     ""),
     # It was faster than the hot spring, but I was almost completely sleepy and left the house with great mood.◯
 
@@ -42,13 +42,13 @@ text_array = [
     ""),
     # Lights take a break by placing your luggage on the ground.
 
-    ("「…ったく、バカでかい荷物なんか揩持って。旅行に行く前から疲齡れてどーすんだ」",
+    ("「…ったく、バカでかい荷物なんか持って。旅行に行く前から疲齡れてどーすんだ」",
     ""),
     # "...I'm going to bring you some stupid, huge luggage. I'm tired even before I go on a trip, so what are you doing?"
 
-    ("荷物を片っ端からつめ桙込んできたらしく、まるで山ご烽もりで烽もするような浮装備だ。†",
+    ("荷物を片っ端からつめ桙込んできたらしく、まるで山ごもりでもするような浮装備だ。",
     ""),
-    # It seems that it has been packing all the luggage in, and it is floating equipment that looks like it can be used to heat up mountains.†
+    # It seems that it has been packing all the luggage in, and it is floating equipment that looks like it can be used to heat up mountains.
 
     ("「だってぇ…」",
     ""),
@@ -58,17 +58,17 @@ text_array = [
     ""),
     # "You're not going to have any phlegms. Please give me your luggage."
 
-    ("「え、で烽も…」",
+    ("「え、でも…」",
     ""),
     # "What, and the hot springs too..."
 
-    ("「いいから。お前はか墲わりにオレの荷物摯持て」",
+    ("「いいから。お前はかわりにオレの荷物摯持て」",
     ""),
     # "That's fine. You should take my hardest luggage, instead of just taking your own way."
 
-    ("「う、うん。ありがとう、ち痰ゃん」†",
+    ("「う、うん。ありがとう、ち痰ゃん」",
     ""),
-    # "Uh, yes. Thank you, sphinja" †
+    # "Uh, yes. Thank you, sphinja" 
 
     ("オレは荷物を引っつかみ、",
     ""),
@@ -78,19 +78,19 @@ text_array = [
     ""),
     # "...She's sputum!"
 
-    ("一気に揩持ち繧上げた。◯",
+    ("一気に持ち上げた。◯",
     ""),
     # I quickly pulled it up.◯
 
-    ("「あらら、荷物とあかりが烽歩いてると思ったら、あんただったのね」",
+    ("「あらら、荷物とあかりが歩いてると思ったら、あんただったのね」",
     ""),
     # "Oh, I thought my luggage and lights were walking around, and it was you."
 
-    ("朝っぱらから、切齔れのいい悪態を≠浴びせてくるのは、言うまで烽もなく志保。",
+    ("朝っぱらから、切齔れのいい悪態を≠びせてくるのは、言うまでもなく志保。",
     ""),
     # It's Shiho, who is the one who starts to swear from the morning, to the point of view, that is, without any hesitation.
 
-    ("「驕るせ、荷物じ痰ゃなくてオレが烽歩いてんだ。それにこいつはあかりの荷物だ」†",
+    ("「驕るせ、荷物じ痰ゃなくてオレが歩いてんだ。それにこいつはあかりの荷物だ」",
     ""),
     # "I'm so brave, I'm walking around hot, not having any phlegms in my bag. And this guy is Akari's luggage."
 
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # "Ah, are you? Akari."
 
-    ("「うん…」†",
+    ("「うん…」",
     ""),
-    # "Yeah…"†
+    # "Yeah…"
 
-    ("「アハハッ！	変なとこに烽も気配阡りが行き届いてるとこが、あかりらしい墲わねぇ」",
+    ("「アハハッ！	変なとこにも気配阡りが行き届いてるとこが、あかりらしいわねぇ」",
     ""),
     # "Hahaha! There's a lot of signs of hot springs in the strange place b, which is so bright that it looks like a red-faced one."
 
-    ("「ちょっと、多すぎたかな…」†",
+    ("「ちょっと、多すぎたかな…」",
     ""),
     # "I guess there were too many..."
 
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "No way, don't you have any phlegms? No way you can't stop traveling."
 
-    ("「そうよねェ」†",
+    ("「そうよねェ」",
     ""),
-    # "That's right" †
+    # "That's right" 
 
     ("「そう言うお前の荷物はどこなんだ？」",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "Me? I'm here, I'm a love banquet without any hands."
 
-    ("「正気かよ？	ガキの遠足じ痰ゃねーんだぞ。まさか薰宅配便で翌送ったとか言うなよ」†",
+    ("「正気かよ？	ガキの遠足じ痰ゃねーんだぞ。まさか薰宅配便で翌送ったとか言うなよ」",
     ""),
-    # "Are you insane? You're not sputum on a kid's field trip. Don't say you sent it the next day by courier." †
+    # "Are you insane? You're not sputum on a kid's field trip. Don't say you sent it the next day by courier." 
 
     ("「ま、そんなとこかしらね」",
     ""),
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # "Huh, is it true?"
 
-    ("「な〜んて、んな墲わけないでしょ。とっくに学校にｒいて、ふたりを迎えにきたのよ」",
+    ("「な〜んて、んなわけないでしょ。とっくに学校にｒいて、ふたりを迎えにきたのよ」",
     ""),
     # "What, there's no way, there's no way. I've been to school a long time ago and came to pick them up."
 
-    ("「なーんだ、びっくりしち痰ゃったよー」†",
+    ("「なーんだ、びっくりしち痰ゃったよー」",
     ""),
     # "What? I was surprised and got a lot of phlegm."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "...Has it finally become a hoax to your own idiopathy? It's a honour."
 
-    ("「なによ！	そっちこそ、ついにｃーａモア焜も揩理解できない石頭になったんじ痰ゃない！？」",
+    ("「なによ！	そっちこそ、ついにｃーａモアも理解できない石頭になったんじ痰ゃない！？」",
     ""),
     # "What? That's the one who has finally become a stone head that even C-A More Than can't understand, isn't there any phlegm?!"
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # "What? Akari is soothing, ecchi!"
 
-    ("「あれはあきれてんだよ！」†",
+    ("「あれはあきれてんだよ！」",
     ""),
     # "That's a shame!"
 
-    ("「ふふ、ふたりと烽も修学旅行が楽しみだから、テンションｃ高い高い」",
+    ("「ふふ、ふたりとも修学旅行が楽しみだから、テンションｃ高い高い」",
     ""),
     # "Hehe, we both look forward to the school trip, so Tenshi-chan c and b are high."
 
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # "Damn it! Akari!"
 
-    ("「あっ！？」†",
+    ("「あっ！？」",
     ""),
-    # "Ah!?" †
+    # "Ah!?" 
 
     ("ったく、出発前からこんな調子じ痰ゃ、諱先が思いやられそうだな。◯",
     ""),
@@ -186,21 +186,21 @@ text_array = [
     ""),
     # There were four tourist bus trains on the road in front of the school.
 
-    ("生徒はガсヤガсヤと、校蜊門燒内で待機。",
+    ("生徒はガсヤガсヤと、校門燒内で待機。",
     ""),
     # The students waited inside the school rim.
 
-    ("オレは重たいあかりの荷物を置くと、連中に加妺わらず、地面にｍ會高ｺ奄した。†",
+    ("オレは重たいあかりの荷物を置くと、連中に加わらず、地面にｍ會高ｺ奄した。",
     ""),
-    # When I placed the heavy light bags, the people didn't get along, so I hung up on the ground.†
+    # When I placed the heavy light bags, the people didn't get along, so I hung up on the ground.
 
     ("「はあ、諱疲齡れた…。ったくあかりのрヤツ」",
     ""),
     # "Ah, I'm tired of my own devil... The one who's a slut."
 
-    ("ため息交じりで空を見骭ると、まぶしい５獅月の陽射しが目に飛び桙込んでくる。†",
+    ("ため息交じりで空を見骭ると、まぶしい５月の陽射しが目に飛び桙込んでくる。",
     ""),
-    # I sighed and looked at the sky, and the dazzling five lion sun began to sniff my eyes.†
+    # I sighed and looked at the sky, and the dazzling five lion sun began to sniff my eyes.
 
     ("う〜っ…。",
     ""),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # The morning sun is dazzling.
 
-    ("思寬わず手をかざすと、ふと、♂史が目の前に立っていた。†",
+    ("思寬わず手をかざすと、ふと、雅史が目の前に立っていた。",
     ""),
-    # Without thinking, I held my hand up and suddenly Masochi was standing in front of me.†
+    # Without thinking, I held my hand up and suddenly Masochi was standing in front of me.
 
     ("「｢｢」",
     ""),
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "You look tired right away."
 
-    ("「まあ、朝からいいあってな」†",
+    ("「まあ、朝からいいあってな」",
     ""),
     # "Well, it's been a bit b in the morning."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # I let out a sigh of wha...
 
-    ("「だけど、春は烽もう終尞わりだよな」",
+    ("「だけど、春はもう終尞わりだよな」",
     ""),
     # "But Spring is already over."
 
@@ -246,15 +246,15 @@ text_array = [
     ""),
     # "This spring, there was a great bud."
 
-    ("「まーな」†",
+    ("「まーな」",
     ""),
-    # "Well" †
+    # "Well" 
 
     ("「ねえ｢｢」",
     ""),
     # "Hey"""
 
-    ("♂史がなにか言いかけた。",
+    ("雅史がなにか言いかけた。",
     ""),
     # Masochi began to say something.
 
@@ -270,15 +270,15 @@ text_array = [
     ""),
     # "What? With a fresh face."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「＝早く言えよ」",
     ""),
     # "=Please tell me quickly."
 
-    ("ほんの少し、♂史はオレを見つめて、",
+    ("ほんの少し、雅史はオレを見つめて、",
     ""),
     # Just a little while, Masochi looked at me,
 
@@ -286,9 +286,9 @@ text_array = [
     ""),
     # ""We've always been friends, right?"
 
-    ("と言った。†",
+    ("と言った。",
     ""),
-    # He said.†
+    # He said.
 
     ("「はあ？	なに言ってんだ、いまさら。オレたち１０年迫の親友じ痰ゃねーか」",
     ""),
@@ -298,17 +298,17 @@ text_array = [
     ""),
     # "That's right."
 
-    ("にっこり微笑む、♂史。†",
+    ("にっこり微笑む、雅史。",
     ""),
-    # Masochi smiles with a smile.†
+    # Masochi smiles with a smile.
 
     ("「おお〜い！	そそ集まれぇ！」",
     ""),
     # "Oh, hey! Come together, b!!"
 
-    ("′こうで木林譌先生が呼んでいる。†",
+    ("′こうで木林譌先生が呼んでいる。",
     ""),
-    # 'This is what Professor Kirin Miki calls.†
+    # 'This is what Professor Kirin Miki calls.
 
     ("「行こうか、」",
     ""),
@@ -318,19 +318,19 @@ text_array = [
     ""),
     # "Oh my goodness."
 
-    ("オレは立ち繧上がり、そって烽歩き出した。†",
+    ("オレは立ち上がり、そって歩き出した。",
     ""),
-    # My throbbing stood up and then began to walk.†
+    # My throbbing stood up and then began to walk.
 
     ("「ねえ、は北海道、楽しみ？」",
     ""),
     # "Hey, are you looking forward to Hokkaido?"
 
-    ("♂史が聞く。",
+    ("雅史が聞く。",
     ""),
     # Male Hear hears.
 
-    ("「…そり痰ゃーな。なんせ奄初めて行くんだし、冝期待熨もふくらむぜ。とくに函館の夜景なんか楽しみだな」†",
+    ("「…そり痰ゃーな。なんせ奄初めて行くんだし、冝期待熨もふくらむぜ。とくに函館の夜景なんか楽しみだな」",
     ""),
     # "...I'm not too scared. It's my first time visiting Amami, so I'm also looking forward to seeing a gift. I'm particularly looking forward to the night view of Hakodate."
 
@@ -342,49 +342,49 @@ text_array = [
     ""),
     # "You'll never get to see this with all the phlegms."
 
-    ("「…うん」†",
+    ("「…うん」",
     ""),
-    # "…Yeah"†
+    # "…Yeah"
 
     ("「沈む夕陽なんか良さそうだよな。そいつをバックに記念撮影しよーぜ、肩組んでよ？」",
     ""),
     # "The setting sun looks great. Let's take a commemorative photo with that in the background, let's go over your shoulders, right?"
 
-    ("「いいね、それ」†",
+    ("「いいね、それ」",
     ""),
-    # "Like, that" †
+    # "Like, that" 
 
-    ("思えば、こいつと烽も長いつき№合いだ。",
+    ("思えば、こいつとも長いつき№合いだ。",
     ""),
     # When I think about it, this guy and Hot are long and we're in a great match.
 
-    ("嬉しいとき烽も。",
+    ("嬉しいときも。",
     ""),
     # When you're happy, there's also hot springs.
 
-    ("悲しいとき烽も。",
+    ("悲しいときも。",
     ""),
     # When I'm sad, I'm also hot.
 
-    ("楽しいとき烽も。",
+    ("楽しいときも。",
     ""),
     # There's fun and hot water too.
 
-    ("いつ烽も、こいつや、あかり、志保がいて、みんなでそれを分かち№合ってきた。†",
+    ("いつも、こいつや、あかり、志保がいて、みんなでそれを分かち№合ってきた。",
     ""),
-    # Even though it was always hot, there were some tampering with this guy, Akari and Shiho, and we all shared it together.†
+    # Even though it was always hot, there were some tampering with this guy, Akari and Shiho, and we all shared it together.
 
     ("このまま四人でこうして永悼遠に…なんて、さすがにそれは無摶理だうけど、あと、もうしばらくは、こんな関係のままでいたいぜ。",
     ""),
     # It's indeed impossible for the four of us to continue to eternally eternally... but I also want to continue to live in this relationship for a while.
 
-    ("いつ烽ものようにみんなでつるんで、オレと志保がケンカして、あかりがなだめて、♂史が苦笑する。",
+    ("いつものようにみんなでつるんで、オレと志保がケンカして、あかりがなだめて、雅史が苦笑する。",
     ""),
     # When we all hang out like a hot thing, I and Shiho fight, Akari calm down, and Masochist smiles wryly.
 
-    ("いまはそれが、最ｍ高に楽しい。†",
+    ("いまはそれが、最ｍ高に楽しい。",
     ""),
-    # Right now, that's fun to reach the highest point.†
+    # Right now, that's fun to reach the highest point.
 
     ("「なに考えてるの？」",
     ""),
@@ -394,16 +394,16 @@ text_array = [
     ""),
     # "...I'm not going to tamper with it."
 
-    ("オレは軽く笑って、左右に首を振った。†",
+    ("オレは軽く笑って、左右に首を振った。",
     ""),
-    # I laughed lightly and shook my head from side to side.†
+    # I laughed lightly and shook my head from side to side.
 
-    ("「それより烽もこの五卲日間、おたがい、おおいに楽し烽もうぜ！」",
+    ("「それよりもこの五卲日間、おたがい、おおいに楽しもうぜ！」",
     ""),
     # "And more, we'll have a lot of fun and fun over the past five days!"
 
-    ("「うん！」†",
+    ("「うん！」",
     ""),
-    # "Yeah!"†
+    # "Yeah!"
 
 ]

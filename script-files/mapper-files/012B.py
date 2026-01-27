@@ -2,11 +2,11 @@
 # Source file: 012B.txt
 
 text_array = [
-    ("（ＶＳイベント	琴音ＶＳあかり）閨（選択綜	彼濫女かな）†",
+    ("（ＶＳイベント	琴音ＶＳあかり）閨（選択綜	彼女かな）",
     ""),
-    # (VS Event Kotone VS Akari) (Is it a choice-so-hearted woman?)†
+    # (VS Event Kotone VS Akari) (Is it a choice-so-hearted woman?)
 
-    ("「｢｢彼濫女か烽もな」",
+    ("「｢｢彼女かもな」",
     ""),
     # ""He's a girl or a hot girl."
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "picture…"
 
-    ("おたがいはっきりと意識はしてないけど、案外これで、自然とつき№合ってるような関係なのか烽もしれねーな。†",
+    ("おたがいはっきりと意識はしてないけど、案外これで、自然とつき№合ってるような関係なのかもしれねーな。",
     ""),
-    # I'm not particularly aware of this, but I think this is a relationship that naturally matches the point.†
+    # I'm not particularly aware of this, but I think this is a relationship that naturally matches the point.
 
     ("「そう…でしょうね…」",
     ""),
     # "Yes... so slut..."
 
-    ("オレとは逆に、床に汲視諮を獅落として言う、琴音ち痰ゃん。",
+    ("オレとは逆に、床に視諮を落として言う、琴音ち痰ゃん。",
     ""),
     # Conversely, Kotone Chisho-yan is a lion who says to the floor to sniff the sniff.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Did you look like that?"
 
-    ("「…はい、なんだか、とって烽も自然な感じがしました」†",
+    ("「…はい、なんだか、とっても自然な感じがしました」",
     ""),
     # "...Yes, it felt like the hot water was natural."
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "I'm jealous of you..."
 
-    ("琴音ち痰ゃんは小さくつぶやいた。†",
+    ("琴音ち痰ゃんは小さくつぶやいた。",
     ""),
-    # Kotone Chisho-chan muttered a little.†
+    # Kotone Chisho-chan muttered a little.
 
     ("「じ痰ゃあ、オレはこっちだから」",
     ""),

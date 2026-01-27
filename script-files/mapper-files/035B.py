@@ -10,7 +10,7 @@ text_array = [
     ""),
     # lunch break.
 
-    ("購ロ買粕部でモ買ってきたパンとカフェオレで、いつ烽もどおりの味気ない汲昼£メシをすませると、オレは教室を出て屋繪上へとｌかった。†",
+    ("購ロ買粕部でモ買ってきたパンとカフェオレで、いつもどおりの味気ない昼メシをすませると、オレは教室を出て屋繪上へとｌかった。†",
     ""),
     # I bought some bread and Cafe au Guk Laver from the salmon roe, and when I finished eating some bland lunch that was as good as the hotpot, I left the classroom and headed over to the yahoo.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("こんなにいい天気だ烽もんな、きっとどこかにいるはずだ。",
+    ("こんなにいい天気だもんな、きっとどこかにいるはずだ。",
     ""),
     # The weather is so nice, I'm sure there's something somewhere.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "...Oh, I'm here."
 
-    ("すぐに目的の人物逡らしき繧後撃姿を発見し、オレは近づきながら声をかけた。",
+    ("すぐに目的の人物逡らしき後撃姿を発見し、オレは近づきながら声をかけた。",
     ""),
     # Immediately I discovered the person I was aiming for after the attack, and I called out to him as I approached him.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # The chairman looked over at me with a surprising look on his face.
 
-    ("どうやらｌこう烽も、ちょうど汲昼食を終えたとこらしい。†",
+    ("どうやらｌこうも、ちょうど昼食を終えたとこらしい。†",
     ""),
     # It seems that even though it's not like he's finished his lunch with Chibiyodo.†
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "What's it for?"
 
-    ("質竡問にはこたえず、委員長はいつ烽もの素っ気ない口調で言った。",
+    ("質竡問にはこたえず、委員長はいつもの素っ気ない口調で言った。",
     ""),
     # Without answering any questions, the chairman said in a cool, humble tone.
 
-    ("だが、その素っ気なさのｒに烽も、なんとなく以前とは痰違う親しさのような烽ものが含まれている。†",
+    ("だが、その素っ気なさのｒにも、なんとなく以前とは痰違う親しさのようなものが含まれている。†",
     ""),
     # However, the cursiveness of this broth also contains some kind of familiarity that is different from before.†
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "What's that kind of thing?"
 
-    ("委員長は小さく笑うと、閨手すりに烽もたれた。†",
+    ("委員長は小さく笑うと、閨手すりにもたれた。†",
     ""),
     # The chairman laughed a little and leaned against the railing.†
 
-    ("「べつに浮助けたつ烽もりやない。いらんことに桙時間さいて、授業遅れるのが凾嫌竚やったんや」",
+    ("「べつに浮助けたつもりやない。いらんことに桙時間さいて、授業遅れるのが凾嫌竚やったんや」",
     ""),
     # "It's not a tampering that really helped me to float. It's a bit of a disgusting thing to do when I don't need it and I'm not going to be late in class."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # He says, squinting his eyes and staring at the faraway view.
 
-    ("「わざ墲わざそんな可愛げのない言葉を選んで言うことはねーだ？」",
+    ("「わざわざそんな可愛げのない言葉を選んで言うことはねーだ？」",
     ""),
     # "You're not going to make a pointless choice of words like that, b?"
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # The chairman laughed.
 
-    ("ふ墲わっと柔迴らかな笑みだった。†",
+    ("ふわっと柔らかな笑みだった。†",
     ""),
     # He had a soft smile.†
 
-    ("浴風が≠吹き抜けた。",
+    ("風が≠吹き抜けた。",
     ""),
     # The bathing atmosphere blew through.
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # But it was strangely picturesque.†
 
-    ("不思議な沈黙がふたりを取闔り巻いていた。",
+    ("不思議な沈黙がふたりを取り巻いていた。",
     ""),
     # A mysterious silence surrounds the two.
 
-    ("ちっと烽も息齣苦しくない、とて烽も自然な沈黙だった。",
+    ("ちっとも息齣苦しくない、とても自然な沈黙だった。",
     ""),
     # Neither the hot nor the hot was a pain, and the hot was a natural silence.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Is it really that bad?"
 
-    ("「こうやってお烽もち痰ゃみたいな町を見下奄してると、人間がちっぽけな存在に思えてくる。そうすると小さなことでクャクャしてる自分が馬鹿馬鹿しくなってくるって、そう言うてたや？」",
+    ("「こうやっておもち痰ゃみたいな町を見下奄してると、人間がちっぽけな存在に思えてくる。そうすると小さなことでクャクャしてる自分が馬鹿馬鹿しくなってくるって、そう言うてたや？」",
     ""),
     # "When you look down on a town that's like a slut, it seems like a small thing. If you do that, you'll end up becoming stupid, as you're messing around with small things, are you saying that you're stupid?"
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # Like that."
 
-    ("言ったとして烽もそれは、氏落ち桙込んだ委員長を繧励まそうと口から先に出た言葉だ。†",
+    ("言ったとしてもそれは、氏落ち桙込んだ委員長を励まそうと口から先に出た言葉だ。†",
     ""),
     # Even though he said this, it was a word that Fukuguchi said first to encourage the chairman who had fallen into the fall.†
 
-    ("「あんときは、諱ようそんな恥ずかしいこと言える烽もんやと笑うたけど、正直言うとр私燻も、そんなふうに思う気搴持ちある墲わ」",
+    ("「あんときは、諱ようそんな恥ずかしいこと言えるもんやと笑うたけど、正直言うとр私燻も、そんなふうに思う気搴持ちあるわ」",
     ""),
     # "At that time, I laughed, saying that I was so embarrassed that I could say such embarrassing things, but to be honest, I also have the energy to think that way."
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "ah…"†
 
-    ("「あのちっち痰ゃな町の、ちっち痰ゃなビルの、ちっち痰ゃな汲窓の、それより烽もっとちっち痰ゃな点みたいなのが人間なんやなーって思うたら、人間ひとりの悩みなんて、ほんま、どうで烽もいい、しょーもないことに思えてくる」",
+    ("「あのちっち痰ゃな町の、ちっち痰ゃなビルの、ちっち痰ゃな窓の、それよりもっとちっち痰ゃな点みたいなのが人間なんやなーって思うたら、人間ひとりの悩みなんて、ほんま、どうでもいい、しょーもないことに思えてくる」",
     ""),
     # "When I think about the fact that humans are tampering with the trouble of humans in that town, the slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「この胸のモсヤｃモсヤなんて、あの点ひとつの小ささでしかないと思うたら、つまらんことで獅落ち桙込んでるのがアホ辜らし繧ゅうなる」",
+    ("「この胸のモсヤｃモсヤなんて、あの点ひとつの小ささでしかないと思うたら、つまらんことで落ち桙込んでるのがアホ辜らしゅうなる」",
     ""),
     # "If you think that this slut on your breasts is just one small thing, then it's stupid to see how boring it is torn into the lion's slut."
 
@@ -230,11 +230,11 @@ text_array = [
     ""),
     # I nodded and said.
 
-    ("「そんなしょーもないことで悩んどって烽も、一文の得に烽もなりまへんしな」†",
+    ("「そんなしょーもないことで悩んどっても、一文の得にもなりまへんしな」†",
     ""),
     # "If you're worried about such things, you won't be able to get hot or even get hot or a single sentence."
 
-    ("「なんやのそれ？	関西弁のつ烽もりか？」",
+    ("「なんやのそれ？	関西弁のつもりか？」",
     ""),
     # "What is that tampering with? Is it a tsukamori in Kansai dialect?"
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "You're pretty cool, right?"
 
-    ("「あほか、全然ち痰ゃう墲わ」",
+    ("「あほか、全然ち痰ゃうわ」",
     ""),
     # "Ah, everything is completely freaking out."
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "Ah, sigh, sham, what would you say if you were there now?"
 
-    ("「え、そうやな。『そんなしょーもないことで悩んどって烽も、一文の得に烽もならへん墲わ』かな」",
+    ("「え、そうやな。『そんなしょーもないことで悩んどっても、一文の得にもならへんわ』かな」",
     ""),
     # "Eh, that's not true. I think 'I'm worried about such a slut, and I'm not going to get any hot water, or a single sentence."
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "You're a lily, you're a lily!"
 
-    ("「あははっ、そうか烽もな」",
+    ("「あははっ、そうかもな」",
     ""),
     # "Ahaha, I see, no hot water either."
 

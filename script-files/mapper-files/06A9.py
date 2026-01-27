@@ -30,7 +30,7 @@ text_array = [
     ""),
     # The pack was hit back with a squeal, and was even more sluggish than when Ogekire hit it.
 
-    ("ヘ鴻ロヘ鴻ロ〜…と、浴迫髞るパック。†",
+    ("ヘ鴻ロヘ鴻ロ〜…と、迫髞るパック。†",
     ""),
     # Hehhhhhhhhhhh...the pack throbbed in the bath.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Are you hitting it seriously?
 
-    ("そう思いながら、オレは烽もう一度ペシッとパックを打ち返した。",
+    ("そう思いながら、オレはもう一度ペシッとパックを打ち返した。",
     ""),
     # With that in mind, Ikere played the pack again.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # ・†
 
-    ("「とって烽もエキサイトしました。楽しかったですー。さんはどうでした？」",
+    ("「とってもエキサイトしました。楽しかったですー。さんはどうでした？」",
     ""),
     # "I was excited to take it and the hot pot was fun. How was it?
 

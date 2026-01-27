@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What on earth is there?"
 
-    ("「行けば墲わかるよ」",
+    ("「行けばわかるよ」",
     ""),
     # "If you go, you'll know."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What is it? It's a waste."
 
-    ("ぼやきながら、オレはあかりといっしょに階段を繧上っていった。◯",
+    ("ぼやきながら、オレはあかりといっしょに階段を上っていった。◯",
     ""),
     # As I was messing around, I went up the stairs with Akari and Ebi.◯
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # It's a bit of a phlegm...
 
-    ("屋繪上の烽扉を開く。†",
+    ("屋繪上の扉を開く。†",
     ""),
     # Open the hot spring door above the shrine.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # …oh.
 
-    ("すぐに墲わかった。",
+    ("すぐにわかった。",
     ""),
     # I quickly realized it.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Come to think of it, for the time when the rainbows could come out, it was a flapping slurp.
 
-    ("教室の汲窓とは方阜が反対だから、ぜんぜん気づかなかったぜ。†",
+    ("教室の窓とは方阜が反対だから、ぜんぜん気づかなかったぜ。†",
     ""),
     # Fukukata Fu is the opposite of the classroom's Kumimado, so I never noticed it at all.†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「縺上に烽もうひとつ魔薄いのがあるよ」",
+    ("「縺上にもうひとつ魔薄いのがあるよ」",
     ""),
     # "There's another thin, sparse thing on the twill."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # I see, it's a double rainbow.
 
-    ("ほとんど消えかかってはいるが、濃い虹の繧上に、うっすらと魔薄い虹がかかっていた。†",
+    ("ほとんど消えかかってはいるが、濃い虹の上に、うっすらと魔薄い虹がかかっていた。†",
     ""),
     # Although it was almost disappearing, a faint, faint rainbow hangs over the thick rainbow.†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # When I looked up at the sky and muttered,
 
-    ("「ふふ、子沁供のこは、しょっち繧ゅう見てたはずなのにね」",
+    ("「ふふ、子沁供のこは、しょっちゅう見てたはずなのにね」",
     ""),
     # "Hehe, the baby boy must have been watching the slut all the time."
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # "The chances of rainbows being adorned have decreased, but they don't care every time."
 
-    ("「そうやって、少しずつ目にする機級がなくなっていくのか烽もね」",
+    ("「そうやって、少しずつ目にする機級がなくなっていくのかもね」",
     ""),
     # "I wonder if the weapons that you're going to disappear little by little by little."
 
-    ("「か烽もな」†",
+    ("「かもな」†",
     ""),
     # "Aka Hot" †
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "When you become an adult, you gradually lose sight, so it's probably because you're crying."
 
-    ("あちこちにできたｐたまりを避けながら、あかりは屋繪上を楽しそうに烽歩く。†",
+    ("あちこちにできたｐたまりを避けながら、あかりは屋繪上を楽しそうに歩く。†",
     ""),
     # Akari walks happily across the house, avoiding the piles that have been formed everywhere.†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "...Huh? Well, light... maybe?"†
 
-    ("「п私はやっぱり橋だと思ってたか烽も。どこか不思議な曹国へ通じる橋」",
+    ("「п私はやっぱり橋だと思ってたかも。どこか不思議な曹国へ通じる橋」",
     ""),
     # "I thought it was a bridge after all, but I guess it was also a bridge that leads to a mysterious Cao Kingdom."
 
@@ -182,19 +182,19 @@ text_array = [
     ""),
     # "Oh, it's a dream story once again."
 
-    ("「で烽も、昔はそう考えた人、いっぱいいたと思寬わない？",
+    ("「でも、昔はそう考えた人、いっぱいいたと思寬わない？",
     ""),
     # "So, don't you think there were a lot of people who thought that way in the past?
 
-    ("もしかしたら、その曹国を信じて旅に出た人熕もいたか烽もね」",
+    ("もしかしたら、その曹国を信じて旅に出た人熕もいたかもね」",
     ""),
     # Perhaps there were people who went on a journey believing in Cao Guo, or maybe even Yu-Yu."
 
-    ("「いたか烽もな、そり痰ゃ。馬鹿だからな、昔の人間は」†",
+    ("「いたかもな、そり痰ゃ。馬鹿だからな、昔の人間は」†",
     ""),
     # "Are you gonna have a lot of slurping. You're stupid, old people."
 
-    ("「ふふっ、それは、虹がなにか知ってるから言えるんだよ。本末当に知迺らなかったら、п私燻も旅に出てたか烽もしれないな。",
+    ("「ふふっ、それは、虹がなにか知ってるから言えるんだよ。本末当に知迺らなかったら、п私燻も旅に出てたかもしれないな。",
     ""),
     # "Hehe, I can say that because Rainbow knows something. If he hadn't learned anything about it at the very least, I might have gone on a journey or something.
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "The outcome will be a waste of effort."
 
-    ("「で烽も、もし本末当に、そんな世界があって、旅だったр私がそのまま帰ってこなかったら、どうする？」",
+    ("「でも、もし本末当に、そんな世界があって、旅だったр私がそのまま帰ってこなかったら、どうする？」",
     ""),
     # "And what would you do if there was such a world right in the end of the day, and I didn't go home as I was on a journey?"
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # He also talks about only the idea of ​​the schaesicyun that he has come up with, and ends up tampering with.
 
-    ("あかりはよくこの手の『もし烽も』シリーズの質竡問をする。",
+    ("あかりはよくこの手の『もしも』シリーズの質竡問をする。",
     ""),
     # Akari often asks this type of "If You're a Hot Spring" questioning the quality of Shigata Leeds.
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "honto?"
 
-    ("「そんな曹国ある墲わけねーし、どうせどっかで行き倒齠れたりしてんだ」",
+    ("「そんな曹国あるわけねーし、どうせどっかで行き倒齠れたりしてんだ」",
     ""),
     # "There's no way there's a Cao Kingdom like that, and they've been going somewhere and knocking over them anyway."
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # Akari Hachie gave a complicated look.†
 
-    ("「で烽も、いちおう追いかけてｗてはくれるんだね？」",
+    ("「でも、いちおう追いかけてｗてはくれるんだね？」",
     ""),
     # "And he'll chase you, too lol?"
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "It's a hassle to chase after you, so I'll stop before I go."
 
-    ("「それで烽も行くって言ったら、どうする？」",
+    ("「それでも行くって言ったら、どうする？」",
     ""),
     # "So if you say you're going to Hoo, what will you do?"
 

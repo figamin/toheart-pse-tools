@@ -2,9 +2,9 @@
 # Source file: 07A5.txt
 
 text_array = [
-    ("（琴音	回秤数イベントＰＳ）†",
+    ("（琴音	回秤数イベントＰＳ）",
     ""),
-    # (Kotone Scales Event PS)†
+    # (Kotone Scales Event PS)
 
     ("おっ、琴音ち痰ゃんがいるぞ。",
     ""),

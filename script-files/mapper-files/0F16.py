@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Hahaha.
 
-    ("勝たして烽もらったぜ！」",
+    ("勝たしてもらったぜ！」",
     ""),
     # I won and got some hot!”
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Uhh, I'm sure..."
 
-    ("「で烽も筋は悪くはないぜ。慣れさえすり痰ゃ、お前、結構いけるんじ痰ゃねーか？」†",
+    ("「でも筋は悪くはないぜ。慣れさえすり痰ゃ、お前、結構いけるんじ痰ゃねーか？」†",
     ""),
     # "And the muscles of the chicken aren't bad either. You can get used to it, you can do it pretty well, right?"
 
-    ("「言えてる墲わね。どお！？	あかり。あたしの烽もとで鍛えれば立派なパズラーになれる墲わよ」",
+    ("「言えてるわね。どお！？	あかり。あたしのもとで鍛えれば立派なパズラーになれるわよ」",
     ""),
     # "You can tell me. What!? Akari. If you train with my hot springs, you can become a great puzzle banquet."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Dad, Pazbanquet roe...?"
 
-    ("「イсヤならパズリストで烽もいい墲わよ」",
+    ("「イсヤならパズリストでもいいわよ」",
     ""),
     # "If you're yeah, you'll be on the Puzzle List and the hot springs will be great."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "The question of how to call you is, sputum, sputum" †
 
-    ("そんな調子で、その冾日はみんなといっしょに盛關り繧上がった。",
+    ("そんな調子で、その冾日はみんなといっしょに盛關り上がった。",
     ""),
     # With that in mind, the day was well received with everyone.
 

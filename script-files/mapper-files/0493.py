@@ -2,17 +2,17 @@
 # Source file: 0493.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階２）閨（選択綜	いいぜ）†",
+    ("（志保	回秤数イベント	１階２）閨（選択綜	いいぜ）",
     ""),
-    # (Shiho Scales Event, 1st floor 2) (Selection So Iize)†
+    # (Shiho Scales Event, 1st floor 2) (Selection So Iize)
 
     ("「いいぜ。どーせヒマだし」",
     ""),
     # "That's fine. I'm free."
 
-    ("「うん。じ痰ゃあ、行こ」†",
+    ("「うん。じ痰ゃあ、行こ」",
     ""),
-    # "Yeah. Let's go." †
+    # "Yeah. Let's go." 
 
     ("「いよっ、」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("「商店街につき№合ってくんない？	…って、あれ？	あかり烽も帰驪るとこ？」",
+    ("「商店街につき№合ってくんない？	…って、あれ？	あかりも帰驪るとこ？」",
     ""),
     # "Are you sure it's the shopping district right? ...What? Is Akari Hot a place where he's back?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Yeah. That's right..."
 
-    ("「じ痰ゃあ、３人で行くか」†",
+    ("「じ痰ゃあ、３人で行くか」",
     ""),
     # "Ah, sputum, shall we go together with three?"
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "It's okay, it's a sphin. Please give Shiho the number."
 
-    ("突然あかりは、オレに志保のつき№合いをしと言う。†",
+    ("突然あかりは、オレに志保のつき№合いをしと言う。",
     ""),
-    # Suddenly, Akari goes to Shiho's slut and says that he is b.†
+    # Suddenly, Akari goes to Shiho's slut and says that he is b.
 
     ("「なんでだよ。オレはお前と帰驪るって言ったぜ？」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "Shiho, пI'm fine, go to the simians with your simians."
 
-    ("あかりは志保に気を遣ってるのか、そんなことを言う。†",
+    ("あかりは志保に気を遣ってるのか、そんなことを言う。",
     ""),
-    # Akari says that as if she's caring about Shiho.†
+    # Akari says that as if she's caring about Shiho.
 
     ("「う〜ん。どーする？	」",
     ""),

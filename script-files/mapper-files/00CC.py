@@ -2,11 +2,11 @@
 # Source file: 00CC.txt
 
 text_array = [
-    ("（３獅月２４冾日	朝）閨（補習なしの場㍼合）閨（自分の部屋）†",
+    ("（３月２４冾日	朝）閨（補習なしの場㍼合）閨（自分の部屋）",
     ""),
-    # (Morning of the 24th day of the 3rd month) (Available for the place without any supplementary lessons) (My room) †
+    # (Morning of the 24th day of the 3rd month) (Available for the place without any supplementary lessons) (My room) 
 
-    ("３獅月２４冾日、氏月曜坥日。",
+    ("３月２４冾日、氏月曜坥日。",
     ""),
     # The 24th day of the 3rd month of the 2018 period, and the Monday day of the 2018 period.
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # The long-awaited closing ceremony is now on the day.
 
-    ("当分学校へ行かなくていいと思うと、自然とハイな気分になってくる。†",
+    ("当分学校へ行かなくていいと思うと、自然とハイな気分になってくる。",
     ""),
-    # When I think I don't have to go to school for the time being, I naturally start to feel high.†
+    # When I think I don't have to go to school for the time being, I naturally start to feel high.
 
     ("「今厓日はち痰ゃん、嬉しい冾日だね」",
     ""),
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Why?"
 
-    ("「明坙日から春休みだ烽もん」",
+    ("「明坙日から春休みだもん」",
     ""),
     # "Spring break starts from Ming Shun Day."
 
-    ("「諱よく墲わかってるな」◯",
+    ("「諱よくわかってるな」◯",
     ""),
     # "You know the name well" ◯
 

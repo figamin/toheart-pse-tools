@@ -2,7 +2,7 @@
 # Source file: 0F46.txt
 
 text_array = [
-    ("（３獅月２２冾日	土）閨（堰ラジオ	３回目）閨（驕夜）閨（自分の部屋	電気つき	カーテン開け）†",
+    ("（３月２２冾日	土）閨（堰ラジオ	３回目）閨（驕夜）閨（自分の部屋	電気つき	カーテン開け）†",
     ""),
     # (3rd day of the 22nd day of the 2018, Saturday) (3rd time for the weir radio) (3rd time for the night) (my room with electricity, open curtains)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Ming Shun Day is Sunday Day.
 
-    ("寝過ごしたって、あかり烽もｗない。",
+    ("寝過ごしたって、あかりもｗない。",
     ""),
     # Even if I overslept, there's no light hot water lol.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # You can spend the night as hard as you can.†
 
-    ("おっ、そういえば、いつ烽も聞いてる奄ラジオの桙時間だな。",
+    ("おっ、そういえば、いつも聞いてる奄ラジオの桙時間だな。",
     ""),
     # Oh, by the way, it's time for Amaga Radio to hear even Hot Springs.
 

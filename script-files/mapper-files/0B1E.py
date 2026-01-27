@@ -2,7 +2,7 @@
 # Source file: 0B1E.txt
 
 text_array = [
-    ("『セリオに質竡問』４獅月２０以降索",
+    ("『セリオに質竡問』４月２０以降索",
     ""),
     # "Qualifications on Segata Rio" Search after April Shizuki 20th
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "Hmm. In this case, are the ones who are tampering with Makruchi in good health and doing it?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ん、どうした？」",
     ""),
     # "Hmm, what's wrong?"
 
-    ("「彼濫女は…」",
+    ("「彼女は…」",
     ""),
     # "He's a lame woman..."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「彼濫女は新しいプ鴻ロジェクトに移ったので、п私とｉうことはなくなりました」",
+    ("「彼女は新しいプ鴻ロジェクトに移ったので、п私とうことはなくなりました」",
     ""),
     # "The man has moved to a new project, so he will no longer be able to join me."
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Ah, is that so?"
 
-    ("「…はい」†",
+    ("「…はい」",
     ""),
-    # "…yes"†
+    # "…yes"
 
     ("「じ痰ゃあ、もし、どこかであったら、オレがよしく言ってたって伝えてくれよ」",
     ""),
@@ -62,8 +62,8 @@ text_array = [
     ""),
     # "I understand."
 
-    ("セリオは小さくうなずいた。†",
+    ("セリオは小さくうなずいた。",
     ""),
-    # Segata Rio nodded small.†
+    # Segata Rio nodded small.
 
 ]

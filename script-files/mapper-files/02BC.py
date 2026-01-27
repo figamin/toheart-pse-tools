@@ -6,13 +6,13 @@ text_array = [
     ""),
     # (Seri°Kawa, Scales Event, Return Road, LV2)Seri (Select Sou A, Talk)†
 
-    ("せっかく見つけたのに、声熕もかけずに立ち獅去驪るの烽もなんだよな。",
+    ("せっかく見つけたのに、声熕もかけずに立ち去驪るのもなんだよな。",
     ""),
     # Even though I found it, I was standing there and leaning away without even making a sound.
 
-    ("諱よし、£に入って話しかけよう。†",
+    ("諱よし、に入って話しかけよう。†",
     ""),
-    # Okay, let's join £ and talk to you.†
+    # Okay, let's join  and talk to you.†
 
     ("そう思って足を踏み出したとき、背白から声をかけられた。",
     ""),
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # He was a well-known old man with a tuna that was unrequited.
 
-    ("「こ、このくそじじい〜…。誰か烽も確認せず、怒鳴りつけてんのか」†",
+    ("「こ、このくそじじい〜…。誰かも確認せず、怒鳴りつけてんのか」†",
     ""),
     # "Hey, this damn old man... Is anyone yelling at me without checking the hot one?"
 
-    ("「ええいっ、氏庶民の分際で、気安くおｏ様に近づくでない、あつかましい不届き者めっ！	身のほどを墲わきまえんかっ、身のほどをっ！	さあ、帰った帰った！」",
+    ("「ええいっ、氏庶民の分際で、気安くおｏ様に近づくでない、あつかましい不届き者めっ！	身のほどをわきまえんかっ、身のほどをっ！	さあ、帰った帰った！」",
     ""),
     # "Yes, you're a kind and unsatisfied person who is the common people, and you're not approaching O-sama in a friendly way! Do you want to hold your body in your head, take your body in your head! Now, I'm back home!"
 
-    ("まるでイヌで烽も追っ払うかのように、シッシッと手を振髏る。†",
+    ("まるでイヌでも追っ払うかのように、シッシッと手を振髏る。†",
     ""),
     # He waved his hand, as if he was a dog to chase away the hot springs.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # As I said that, my grandfather stood in front of me.†
 
-    ("「小僧、冝日本齧語が揩理解できぬと見えるな！」",
+    ("「小僧、冝日本齧語が理解できぬと見えるな！」",
     ""),
     # "Kibo, I can't see that you can't understand Japanese language!"
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Damn it, old man, are you just trying to do my crazy jerk?
 
-    ("オレ焜も意地になってきた。†",
+    ("オレも意地になってきた。†",
     ""),
     # My hard work is getting stubborn too.†
 
@@ -130,8 +130,8 @@ text_array = [
     ""),
     # B: "Ah, UFO!" I distracted him.Relax
 
-    ("Ｃ	£將央突破あるのみッ！閨",
+    ("Ｃ	將央突破あるのみッ！閨",
     ""),
-    # C: You can just break through the £Saito!Relax
+    # C: You can just break through the Saito!Relax
 
 ]

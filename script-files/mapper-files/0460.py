@@ -2,9 +2,9 @@
 # Source file: 0460.txt
 
 text_array = [
-    ("（ＶＳ	イベント	志保ＶＳ智子）†",
+    ("（ＶＳ	イベント	志保ＶＳ智子）",
     ""),
-    # (VS Event Shiho VS Tomoko)†
+    # (VS Event Shiho VS Tomoko)
 
     ("休み桙時間。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # ...I'm kind of sleepy.
 
-    ("トイレから戻ってきたオレは、自分の席へｒこうとした。†",
+    ("トイレから戻ってきたオレは、自分の席へｒこうとした。",
     ""),
-    # After returning from Toy Gekire, I tried to go to my seat.†
+    # After returning from Toy Gekire, I tried to go to my seat.
 
     ("「ハアィ！」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Upure wow!"
 
-    ("いきなり背續後から突き飛ばされ、オレは二三燻歩謨よめいた。†",
+    ("いきなり背續後から突き飛ばされ、オレは二三燻歩謨よめいた。",
     ""),
-    # Suddenly he was thrust away from me from behind, and my heart was like a couple of slurping.†
+    # Suddenly he was thrust away from me from behind, and my heart was like a couple of slurping.
 
     ("「ハアィ、〜」",
     ""),
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "What, what grudge do you have about me!"
 
-    ("考えてみれば、たっぷりあるか烽も。†",
+    ("考えてみれば、たっぷりあるかも。",
     ""),
-    # When you think about it, there's plenty or some hot water.†
+    # When you think about it, there's plenty or some hot water.
 
-    ("「戟レミィから聞いた墲わよ。あんたとぶつかると、もれなくドラマチックな出初いができるんでしょ？」",
+    ("「レミィから聞いたわよ。あんたとぶつかると、もれなくドラマチックな出初いができるんでしょ？」",
     ""),
     # "I heard this from Garemy. When you bump into you, you can have a banquet and a ramatic first timer, slut?"
 
@@ -62,25 +62,25 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("一瞬、なんのことやら墲わからなかったが、諱よく考えてみると、戟レミィにそんなふうなことを言った覚えがある。†",
+    ("一瞬、なんのことやらわからなかったが、諱よく考えてみると、レミィにそんなふうなことを言った覚えがある。",
     ""),
-    # For a moment, I didn't understand what it was like, but when I thought about it, I remember saying something like that to Hakuremi.†
+    # For a moment, I didn't understand what it was like, but when I thought about it, I remember saying something like that to Hakuremi.
 
     ("「プププ、ドラマチックって言うより、コ＜メディチックって感じぃ？	アハハハッ！」",
     ""),
     # "Pupuu, it's more like a banquet ramatic, but rather like a komedic? Ahahaha!"
 
-    ("志保のрヤツ、蛛大囁爆笑を始めてしまった。†",
+    ("志保のрヤツ、蛛大囁爆笑を始めてしまった。",
     ""),
-    # Shiho's guy started to laugh out loud.†
+    # Shiho's guy started to laugh out loud.
 
     ("「…ンのやぉ〜っ」",
     ""),
     # "...But it's a bit of a mess."
 
-    ("いい加減、頭にｗたオレが、志保のрヤツをとっちめようとした瞬間｢｢。†",
+    ("いい加減、頭にｗたオレが、志保のрヤツをとっちめようとした瞬間｢｢。",
     ""),
-    # Just as I was laughing at my head, I tried to grab Shiho's р guy, ".†
+    # Just as I was laughing at my head, I tried to grab Shiho's р guy, ".
 
     ("「長岡さん。迷惑笘や、もう少し静かにしてくれへ",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # yeah?」◯
 
-    ("隣の席で予習かなんかをやっていた委員長がそんなことを言った。†",
+    ("隣の席で予習かなんかをやっていた委員長がそんなことを言った。",
     ""),
-    # The chairman, who was sitting next to me and was doing some preparations or something, said that.†
+    # The chairman, who was sitting next to me and was doing some preparations or something, said that.
 
     ("「え〜っ！	なんで〜っ！？	いまは休み桙時間じ痰ゃん。みんな宸騒いでるじ痰ゃないのぉ」",
     ""),
@@ -102,15 +102,15 @@ text_array = [
     ""),
     # Shiho rebutted, pounding.
 
-    ("「あんたはダントツうるさい墲わ」",
+    ("「あんたはダントツうるさいわ」",
     ""),
     # "You're by far the loudest."
 
-    ("対する委員長は、あくまでクール。†",
+    ("対する委員長は、あくまでクール。",
     ""),
-    # The chairman, on the other hand, is just cool.†
+    # The chairman, on the other hand, is just cool.
 
-    ("「なによう、うるさくて悪かった墲わね！	休み桙時間くらい羽を伸ばしたっていいじ痰ゃないのよぉ」",
+    ("「なによう、うるさくて悪かったわね！	休み桙時間くらい羽を伸ばしたっていいじ痰ゃないのよぉ」",
     ""),
     # "What's that noisy and bad! Even if you stretch your wings around the time of your break, you can't get phlegm."
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # Shiho looks like a kid, as the tough chairman of Kaji Ai Henzaki.
 
-    ("冝放っといたらキリがなさそうだ。†",
+    ("冝放っといたらキリがなさそうだ。",
     ""),
-    # If I leave it alone, it wouldn't be possible.†
+    # If I leave it alone, it wouldn't be possible.
 
     ("オレは｢｢。",
     ""),

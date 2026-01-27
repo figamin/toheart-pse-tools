@@ -2,15 +2,15 @@
 # Source file: 07E1.txt
 
 text_array = [
-    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	そうで烽もないって）†",
+    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	そうでもないって）",
     ""),
-    # (Kotone PS Scale Number Event) (Select So, it's not like there's any hot water)†
+    # (Kotone PS Scale Number Event) (Select So, it's not like there's any hot water)
 
-    ("「そうで烽もないって。",
+    ("「そうでもないって。",
     ""),
     # "That's right, there's no hot water.
 
-    ("普通にしてれば≠普通なんだよ」†",
+    ("普通にしてれば≠普通なんだよ」",
     ""),
     # If you keep it normal, it's normal."
 
@@ -18,9 +18,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("琴音ち痰ゃんは一瞬オレを見て、目を嘯伏せた。†",
+    ("琴音ち痰ゃんは一瞬オレを見て、目を嘯伏せた。",
     ""),
-    # Kotone Chisho-yan looked at me for a moment and then turned his eyes down.†
+    # Kotone Chisho-yan looked at me for a moment and then turned his eyes down.
 
     ("「オレが思うに、妙なウ純ワサを流すрヤツが話を大きくしてんだ」",
     ""),
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # My real girl is a very familiar girl...
 
-    ("やっぱ、悪いのはあいつだな。†",
+    ("やっぱ、悪いのはあいつだな。",
     ""),
-    # After all, that's the one who's the wrong person.†
+    # After all, that's the one who's the wrong person.
 
-    ("「…それは、さんの勘瘧違いだと思います」",
+    ("「…それは、さんの勘違いだと思います」",
     ""),
     # "...I think that's a different kind of intuition."
 
@@ -50,23 +50,23 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「…さん烽も見ましたよね。",
+    ("「…さんも見ましたよね。",
     ""),
     # "I also saw Sanka, didn't I?
 
-    ("わたしの能力ちから…」†",
+    ("わたしの能力ちから…」",
     ""),
-    # My ability..."†
+    # My ability..."
 
-    ("「それなんだけど、いまいち実感が墲わかねえんだ」",
+    ("「それなんだけど、いまいち実感がわかねえんだ」",
     ""),
     # "That's what I mean, but I can't really feel it."
 
-    ("「実感…ですか」†",
+    ("「実感…ですか」",
     ""),
-    # "Are you feeling it..." †
+    # "Are you feeling it..." 
 
-    ("「ち痰ゃんとした形で烽もう一回見てみてえな。そうすり痰ゃ、少しはハッキリしそうだ。現実なのかどうかがさ」",
+    ("「ち痰ゃんとした形でもう一回見てみてえな。そうすり痰ゃ、少しはハッキリしそうだ。現実なのかどうかがさ」",
     ""),
     # "I'd like to take a look at it again with a slurping shape. If it's that, it looks like it's a little clearer. I wonder if it's real or not."
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # When Kotone Chisho-yan said that, he looked sad,
 
-    ("「…だめですよ。この能力はｊ険なんです。さんに烽もし烽ものことがあったら…」†",
+    ("「…だめですよ。この能力はｊ険なんです。さんにもしものことがあったら…」",
     ""),
-    # "...No. This ability is tough. If there's something hot about you..." †
+    # "...No. This ability is tough. If there's something hot about you..." 
 
     ("「♀険？	なんで？」",
     ""),
@@ -90,19 +90,19 @@ text_array = [
     "…"),
     # "..."
 
-    ("メきそうな顔でそこまで言甯われると、こっちはなに烽も言えなくなってしまう。†",
+    ("メきそうな顔でそこまで言甯われると、こっちはなにも言えなくなってしまう。",
     ""),
-    # When he is told that with a crying face, he can't say anything.†
+    # When he is told that with a crying face, he can't say anything.
 
     ("「これで失邇礼します…」",
     ""),
     # "I'm sorry about this..."
 
-    ("琴音ち痰ゃんはオレに頭を下げて、小柾走闡りに獅去っていった。†",
+    ("琴音ち痰ゃんはオレに頭を下げて、小柾走闡りに去っていった。",
     ""),
-    # Kotone Chisho-yan bowed his head to me and lioned away as he ran along the path.†
+    # Kotone Chisho-yan bowed his head to me and lioned away as he ran along the path.
 
-    ("残されたオレはただ、琴音ち痰ゃんの繧後撃姿を見洛送る。",
+    ("残されたオレはただ、琴音ち痰ゃんの後撃姿を見洛送る。",
     ""),
     # The rest of me was just going to see Kotone Chisho-chan attack after he was shot.
 

@@ -2,7 +2,7 @@
 # Source file: 0161.txt
 
 text_array = [
-    ("（あかりエンディング	２）閨（５獅月６冾日）閨（修学旅行の朝）閨（玄関）＝@連休の明けた朝。",
+    ("（あかりエンディング	２）閨（５月６冾日）閨（修学旅行の朝）閨（玄関）＝@連休の明けた朝。",
     ""),
     # (Akari Ending 2) Leaf (5th Lion and 6th Day) Leaf (Morning of the school trip) Leaf (entrance) = @The morning after the holidays.
 
@@ -10,17 +10,17 @@ text_array = [
     ""),
     # The school trip will begin on the day of the year.
 
-    ("いつ烽もより、かなり≠早い桙時間に、オレは家を出た。†",
+    ("いつもより、かなり≠早い桙時間に、オレは家を出た。",
     ""),
-    # At a much faster time than ever, I left the house.†
+    # At a much faster time than ever, I left the house.
 
     ("「おはよう、ち痰ゃん」",
     ""),
     # "Good morning, sputum."
 
-    ("家を出たと同椏時に、声をかけられた。†",
+    ("家を出たと同椏時に、声をかけられた。",
     ""),
-    # I was called out to him when I left the house.†
+    # I was called out to him when I left the house.
 
     ("あかりだった。",
     ""),
@@ -30,13 +30,13 @@ text_array = [
     ""),
     # It seemed like a coincidence, and in fact, it was already lol, and I was sure to wait for it for a long time, but it must have been phlegm.
 
-    ("いつ烽もと変﨑わらぬ笑迴顔。",
+    ("いつもと変﨑わらぬ笑顔。",
     ""),
     # Whenever I was, he had a laughing face.
 
-    ("だが、オレを見骭るその瞳は微かにうるみ、揺齬れていた。†",
+    ("だが、オレを見骭るその瞳は微かにうるみ、揺齬れていた。",
     ""),
-    # However, his eyes as he watched me were faintly moist and shaking.†
+    # However, his eyes as he watched me were faintly moist and shaking.
 
     ("「………」",
     "…"),
@@ -46,13 +46,13 @@ text_array = [
     ""),
     # Akari said something and stopped tampering with him.
 
-    ("そして、目を嘯伏せ、なに烽も言甯わなくなった。",
+    ("そして、目を嘯伏せ、なにも言甯わなくなった。",
     ""),
     # Then he looked down and couldn't speak anything.
 
-    ("あかり…。†",
+    ("あかり…。",
     ""),
-    # Light...†
+    # Light...
 
     ("この休みｒ、オレはずっと考えていた。",
     ""),
@@ -66,19 +66,19 @@ text_array = [
     ""),
     # What exactly is Akari for me?
 
-    ("そして、オレが出した汲結論は｢｢。†",
+    ("そして、オレが出した結論は｢｢。",
     ""),
-    # And the conclusion that I came to was, ".†
+    # And the conclusion that I came to was, ".
 
     ("「諱よしっ、んじ痰ゃ、行こうぜ」",
     ""),
     # "All right, let's go."
 
-    ("オレは笑迴顔でそう言って、あかりの背白をぽんと軽く叩いた。†",
+    ("オレは笑顔でそう言って、あかりの背白をぽんと軽く叩いた。",
     ""),
-    # I said with a laughing face and lightly tapped Akari's back.†
+    # I said with a laughing face and lightly tapped Akari's back.
 
-    ("「修学旅行燕初叝日から遅薯刻すんの烽もなんだしな」",
+    ("「修学旅行燕初叝日から遅薯刻すんのもなんだしな」",
     ""),
     # "It's not the case that the hot potatoes are cut late from the first day of school trip."
 
@@ -94,43 +94,43 @@ text_array = [
     ""),
     # "Yeah."
 
-    ("と、強く縦にうなずいた。†",
+    ("と、強く縦にうなずいた。",
     ""),
-    # He nodded strongly vertically.†
+    # He nodded strongly vertically.
 
     ("あかりはあかりだという、単ヲ純な嘯答え。",
     ""),
     # The simple, pure answer is that Akari is Akari.
 
-    ("恋人とか、ただの幼なじみとか、そういうことは、なに烽もあせってｌめる必要はない。",
+    ("恋人とか、ただの幼なじみとか、そういうことは、なにもあせってｌめる必要はない。",
     ""),
     # There's no need to rush to even get excited about things like a lover or just a childhood friend.
 
-    ("ふたりにはまだまだ桙時間があるのだから。†",
+    ("ふたりにはまだまだ桙時間があるのだから。",
     ""),
-    # They still have more time to spare.†
+    # They still have more time to spare.
 
     ("だから、いままで通闥りやっていく。",
     ""),
     # That's why I'll continue to tamper with it.
 
-    ("ずっとこのままでいようと烽も、ある冾日を境に恋人同士になうと烽も、それで烽もあかりはあかりに痰違いない。†",
+    ("ずっとこのままでいようとも、ある冾日を境に恋人同士になうとも、それでもあかりはあかりに痰違いない。",
     ""),
-    # Wanting to stay like this for a long time, and after one day they become lovers, and so even Hoshi is sure to be a phlegm for the light.†
+    # Wanting to stay like this for a long time, and after one day they become lovers, and so even Hoshi is sure to be a phlegm for the light.
 
     ("オレはあかりが好きだ。",
     ""),
     # I like Akari.
 
-    ("その気搴持ちに間瘧違いはないし、いまはそれで十分だと思う。†",
+    ("その気搴持ちに間違いはないし、いまはそれで十分だと思う。",
     ""),
-    # There is no difference in how well you are in that mood, and I think that's enough for now.†
+    # There is no difference in how well you are in that mood, and I think that's enough for now.
 
     ("その『好き』が、どういう意味の『好き』なのか。",
     ""),
     # What does "like" mean?
 
-    ("それ烽もそのうち墲わかればいいことだ。",
+    ("それもそのうちわかればいいことだ。",
     ""),
     # That's fine if you can understand that soon.
 
@@ -142,19 +142,19 @@ text_array = [
     ""),
     # There were four tourist bus trains on the road in front of the school.
 
-    ("生徒はガсヤガсヤと、校蜊門燒内で待機。",
+    ("生徒はガсヤガсヤと、校門燒内で待機。",
     ""),
     # The students waited inside the school rim.
 
-    ("オレは重たいあかりの荷物を置くと、連中に加妺わらず、地面にｍ會高ｺ奄した。†",
+    ("オレは重たいあかりの荷物を置くと、連中に加わらず、地面にｍ會高ｺ奄した。",
     ""),
-    # When I placed the heavy light bags, the people didn't get along, so I hung up on the ground.†
+    # When I placed the heavy light bags, the people didn't get along, so I hung up on the ground.
 
     ("「はあ、諱疲齡れた…。ったくあかりのрヤツ」",
     ""),
     # "Ah, I'm tired of my own devil... The one who's a slut."
 
-    ("あかりの荷物があまりに烽も重かったので、オレは自分のと交換してやった。",
+    ("あかりの荷物があまりにも重かったので、オレは自分のと交換してやった。",
     ""),
     # Akari's luggage was so heavy that I exchanged it for my own and tampered with it.
 
@@ -162,16 +162,16 @@ text_array = [
     ""),
     # That's the end of luck.
 
-    ("旅行前から、すでにスタミナ切齔れだぜ。†",
+    ("旅行前から、すでにスタミナ切齔れだぜ。",
     ""),
-    # Before my trip, I've already lost my stamina.†
+    # Before my trip, I've already lost my stamina.
 
     ("「ったく…」",
     ""),
     # "Ahhh..."
 
-    ("ため息まじりで空を見骭ると、まぶしい５獅月の陽射しが目に飛び桙込んでくる。†",
+    ("ため息まじりで空を見骭ると、まぶしい５月の陽射しが目に飛び桙込んでくる。",
     ""),
-    # I sighed and looked at the sky, and the dazzling five lion moon sunlight flashed into my eyes.†
+    # I sighed and looked at the sky, and the dazzling five lion moon sunlight flashed into my eyes.
 
 ]

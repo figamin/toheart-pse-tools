@@ -2,7 +2,7 @@
 # Source file: 00E3.txt
 
 text_array = [
-    ("（３獅月２３冾日	昼）閨（散髪に行く）†",
+    ("（３月２３冾日	昼）閨（散髪に行く）†",
     ""),
     # (3rd 23rd day of the year) (Go for a haircut) †
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Yeah.
 
-    ("たしかに、あんまり短くしないでくれとは鰍頼んだけど、これじ痰ゃ、切ったかどうかすら墲わかんねーぞ。",
+    ("たしかに、あんまり短くしないでくれとは鰍頼んだけど、これじ痰ゃ、切ったかどうかすらわかんねーぞ。",
     ""),
     # Certainly, I asked for the chrysanthemum to not make it too short, but I don't even know if it was cut or not.
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # "Do you know?"
 
-    ("「わかるよ。いつ烽も見てる烽もの」",
+    ("「わかるよ。いつも見てるもの」",
     ""),
     # "I know. I always see the hot springs."
 
-    ("「まあな、そうか烽もな」†",
+    ("「まあな、そうかもな」†",
     ""),
     # "Well, I see, it's hot too."
 
-    ("「ふふ、浴似㍽合ってるよ」",
+    ("「ふふ、似㍽合ってるよ」",
     ""),
     # "Hehe, it looks like a bath."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「横とか繧後撃から見たら、わかるよ」",
+    ("「横とか後撃から見たら、わかるよ」",
     ""),
     # "If you look at it from the side or the aftermath of the attack, you can see it."
 
@@ -150,7 +150,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「どうだ、ジ鴻ロジ鴻ロ見迪られるのは、凵嫌な烽ものだう？」",
+    ("「どうだ、ジ鴻ロジ鴻ロ見迪られるのは、凵嫌なものだう？」",
     ""),
     # "What do you think? It's a nasty thing to be arrested when you're being told?"
 

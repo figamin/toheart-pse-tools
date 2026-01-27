@@ -2,17 +2,17 @@
 # Source file: 0982.txt
 
 text_array = [
-    ("（♂史回秤数イベント	３／５	２階）閨（廊下１）†",
+    ("（雅史回秤数イベント	３／５	２階）閨（廊下１）",
     ""),
-    # (Male History Scale Event 3/5, 2nd floor) (Corridor 1)†
+    # (Male History Scale Event 3/5, 2nd floor) (Corridor 1)
 
-    ("廊下に出髀ると、♂史の繧後撃姿を見つけた。",
+    ("廊下に出髀ると、雅史の後撃姿を見つけた。",
     ""),
     # When I headed out into the hallway, I found a glimpse of Masochist after the scenes.
 
-    ("「諱よお、♂史」†",
+    ("「諱よお、雅史」",
     ""),
-    # "As you, history of the Makoto"†
+    # "As you, history of the Makoto"
 
     ("「あっ、」",
     ""),
@@ -26,19 +26,19 @@ text_array = [
     ""),
     # "I'm not going to get it, and now the day is now "Hydrangea" and it's a farewell to my seniors next time."
 
-    ("「ほう」†",
+    ("「ほう」",
     ""),
-    # "law"†
+    # "law"
 
     ("『あじさい』ってのは、駅前の商店街にあるお好み焼き屋のことだ。",
     ""),
     # "Hydrangea" refers to an okonomiyaki restaurant located in a shopping district in front of the station.
 
-    ("味燒も評判で、うちの学生なんかが学校帰闍りに立ち寄ったりする。†",
+    ("味燒も評判で、うちの学生なんかが学校帰闍りに立ち寄ったりする。",
     ""),
-    # Ajitsu is also popular, and our students stop by to go back to school.†
+    # Ajitsu is also popular, and our students stop by to go back to school.
 
-    ("「そうか、あさってが卒業式だ烽もんな」",
+    ("「そうか、あさってが卒業式だもんな」",
     ""),
     # "I see, the next day is the graduation ceremony, but it's hot."
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Hmm."
 
-    ("三年生なんて、二雌月半ばごから学校に烽もｗてないし、もう出てった気分だったぜ。†",
+    ("三年生なんて、二雌月半ばごから学校にもｗてないし、もう出てった気分だったぜ。",
     ""),
-    # The third graders didn't even have a hot spring from mid-sized two-girls to school lol, so I felt like I had already left.†
+    # The third graders didn't even have a hot spring from mid-sized two-girls to school lol, so I felt like I had already left.
 
-    ("「古い連中は獅去闍り、春にはまた新しい連中が入ってくる墲わけだ。学校の新陳纈代謝だ」",
+    ("「古い連中は去闍り、春にはまた新しい連中が入ってくるわけだ。学校の新陳纈代謝だ」",
     ""),
     # "The old guys go away, and new guys come in in the spring. It's the school's metabolism."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "I agree"
 
-    ("「つーことは、お前熨も烽もうすぐ佐藤謫先輩か」",
+    ("「つーことは、お前熨ももうすぐ佐藤謫先輩か」",
     ""),
     # "What's more, you're going to have a noshi soon, Sato Senpai."
 
@@ -70,13 +70,13 @@ text_array = [
     ""),
     # "…oh dear"
 
-    ("とは言え、£学のこ烽もさんざん佐藤謫先輩だったんだ。",
+    ("とは言え、学のこもさんざん佐藤謫先輩だったんだ。",
     ""),
-    # That said, the £School's B-Ho was also a senior Sato Koto.
+    # That said, the School's B-Ho was also a senior Sato Koto.
 
-    ("いまさら嬉しく烽もないか。†",
+    ("いまさら嬉しくもないか。",
     ""),
-    # I'm so happy now that I'm not in the hot water.†
+    # I'm so happy now that I'm not in the hot water.
 
     ("「あ、ごめん。悪いけど、ちょっと急ぐんだ。僕だけ出遅れち痰ゃってさ…」",
     ""),
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # "Some phlegm, come again."
 
-    ("軽く手を振關り、♂史は廊下を魔走っていく。†",
+    ("軽く手を振關り、雅史は廊下を魔走っていく。",
     ""),
-    # With a light wave, Masochi runs along the hallway.†
+    # With a light wave, Masochi runs along the hallway.
 
-    ("途湯、他クラスの翌女生徒に声をかけられ、笑迴顔で手を振關り、廊下を魔走ってるのを先生に高注意され、謝闔り、それで烽もまた魔走っていく。",
+    ("途湯、他クラスの翌女生徒に声をかけられ、笑顔で手を振關り、廊下を魔走ってるのを先生に高注意され、謝り、それでもまた魔走っていく。",
     ""),
     # After the bath and other party, the female student called out to her, she waved her hands with a laugh, and was warned by the teacher for running down the hallway, thanking her, and then the boy ran away from the demon again.
 
-    ("♂史を見てると、これが本末当の青春なんだうなァ…って気分になるぜ。◯",
+    ("雅史を見てると、これが本末当の青春なんだうなァ…って気分になるぜ。◯",
     ""),
     # Looking at Male History, I feel like this is my real youth.◯
 

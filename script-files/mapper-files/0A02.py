@@ -2,11 +2,11 @@
 # Source file: 0A02.txt
 
 text_array = [
-    ("（Ａ	♂いに行く。）†",
+    ("（Ａ	雅いに行く。）†",
     ""),
     # (A: Go to Mama.)†
 
-    ("諱よし、閨手試の主にｉいに行こう。",
+    ("諱よし、閨手試の主にいに行こう。",
     ""),
     # Okay, let's go to the main character of the Litter Test.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # The corridor after the school was passed.
 
-    ("そそ人通闥り烽も減ってきた。",
+    ("そそ人通闥りも減ってきた。",
     ""),
     # The number of people who communicate with each other is decreasing.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # It's late...
 
-    ("いや、閨手試には『冝放課繪後』とだけあって、時間の指闔定はなかったし、遅薯刻って墲わけじ痰ゃないか。",
+    ("いや、閨手試には『冝放課繪後』とだけあって、時間の指定はなかったし、遅薯刻ってわけじ痰ゃないか。",
     ""),
     # As it was "after the school entrance exam," there was no time limit, and it was too late to make a smear.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Let's wait a little longer.
 
-    ("自販機に寄闃りかかり、屋根の繧上の雲をながめて暇をつぶした。†",
+    ("自販機に寄闃りかかり、屋根の上の雲をながめて暇をつぶした。†",
     ""),
     # He approached the vending machine and killed his time by looking at the clouds above the roof.†
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # I tend to be sensitive to my anger.
 
-    ("想恆像以繹上に獅落ちｒかない自分がおかしい。†",
+    ("想恆像以繹上に落ちｒかない自分がおかしい。†",
     ""),
     # I'm strange that I can't fall on the image of my heart.†
 
-    ("やっぱり、からか墲われてんのか？？",
+    ("やっぱり、からかわれてんのか？？",
     ""),
     # Is it really being teased or something??
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # The more I think about it that way, the more I feel it is Shiho's work as a tampering work.†
 
-    ("案外、いま烽もどこかに隠皷れて、笑いながらオレを見てんじ痰ゃねーのか？",
+    ("案外、いまもどこかに隠皷れて、笑いながらオレを見てんじ痰ゃねーのか？",
     ""),
     # Surprisingly, the hot spring is hidden somewhere now, and I'm laughing and watching my hardcore sputum, isn't it?
 
-    ("諱よーし、いっちょ獅試してみるか。†",
+    ("諱よーし、いっちょ試してみるか。†",
     ""),
     # Okay, shall I try the Ichi-e-e-lion?†
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # At that moment, the next girl, whom I didn't know, jumped out of the shadows.
 
-    ("「あ、あのっ、そんなつ烽もりじ痰ゃなかったんですっ！	出謠よう出謠ようとは思ってたんですけど、勇気がなくてっ｢｢」",
+    ("「あ、あのっ、そんなつもりじ痰ゃなかったんですっ！	出謠よう出謠ようとは思ってたんですけど、勇気がなくてっ｢｢」",
     ""),
     # "Ah, um, I couldn't have enough phlegm! I was thinking of trying to get it out, but I didn't have the courage to get it out. ""
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "Hinatayama, Lilio...?"
 
-    ("「ほっ、ほっ、本坙日はお忙しいｒ、わざ墲わざこのような場鰹所にお呼び立ていたしまして、ま、ま、まことに｢｢」",
+    ("「ほっ、ほっ、本坙日はお忙しいｒ、わざわざこのような場鰹所にお呼び立ていたしまして、ま、ま、まことに｢｢」",
     ""),
     # "Hh, hey, I'm busy on the day, so I've been calling you to a bonito spot like this, and so, well, really ""
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "Yes! Sorry!"
 
-    ("浴女の子は深々と頭を下げた。†",
+    ("女の子は深々と頭を下げた。†",
     ""),
     # The bath girl bowed her head deeply.†
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # Wasn't Shiho's mischievous phlegm?†
 
-    ("「え、えっと、さっきはいきなりどなったりして悪かった。ちょっと、人瘰違いっつーか、勘瘧違いして…」",
+    ("「え、えっと、さっきはいきなりどなったりして悪かった。ちょっと、人瘰違いっつーか、勘違いして…」",
     ""),
     # "Um, um, I'm sorry to say something suddenly a little earlier. I'm not even huh, I'm not huh, I'm not huh, I'm not huh, I'm not huh..."
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "Ah, ha, ha, ha, yes!"
 
-    ("すると彼濫女は、声を裏返逡らせながら背筋を伸ばした。†",
+    ("すると彼女は、声を裏返逡らせながら背筋を伸ばした。†",
     ""),
     # The woman then turned her voice inside out and straightened her spine.†
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # I took a quick breath and peeked at me as if to say it was my intentions.
 
-    ("思寬わずオレ焜も息を飲む。†",
+    ("思寬わずオレも息を飲む。†",
     ""),
     # Without thinking, I took my breath away.†
 
@@ -274,11 +274,11 @@ text_array = [
     ""),
     # I start messing around and messing around with my pockets.†
 
-    ("「なくしましたぁ…。い、いえっ、なんで烽もありませんっ！！	あのおっ！！」",
+    ("「なくしましたぁ…。い、いえっ、なんでもありませんっ！！	あのおっ！！」",
     ""),
     # "I lost it... No, no, why don't we have any hot pots!! Oh!!"
 
-    ("いまに烽もモき出しそうだぞ。†",
+    ("いまにもモき出しそうだぞ。†",
     ""),
     # I'm sure Hot will start crying right now.†
 
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # Of course, I could have predicted such a development, but the extremely low-pitched commentary made me completely unnoticed.†
 
-    ("彼濫女は烽もう一度、",
+    ("彼女はもう一度、",
     ""),
     # The girl was once again
 
@@ -334,15 +334,15 @@ text_array = [
     ""),
     # "Yes, please let me know if you'll get back to me!"
 
-    ("「そんな、いきなり返抹事ってい墲われて烽も…」",
+    ("「そんな、いきなり返抹事っていわれても…」",
     ""),
     # "That was suddenly cancelled, and Hot too..."
 
-    ("「ハ、ハイかイエスか、それだけで烽もっっ！	それだけで烽もかまいませんからっっ！！」",
+    ("「ハ、ハイかイエスか、それだけでもっっ！	それだけでもかまいませんからっっ！！」",
     ""),
     # "Ha, yes or yes, that's all, it's all a hot pot! That alone doesn't matter as well!"
 
-    ("′こう烽もかなり錯錐乱してるようだ。†",
+    ("′こうもかなり錯錐乱してるようだ。†",
     ""),
     # 'It seems that the hot springs are also quite confusing.†
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # "Please!!"
 
-    ("「あ、あのさ、こういうのってそんな簡単に返抹事していい烽もんじ痰ゃないと思うんだけど」",
+    ("「あ、あのさ、こういうのってそんな簡単に返抹事していいもんじ痰ゃないと思うんだけど」",
     ""),
     # "Ah, um, I don't think it's a good idea to just cancel something like this kind of thing so easily."
 
@@ -362,7 +362,7 @@ text_array = [
     ""),
     # "picture…?"†
 
-    ("「だから、ほら、オレたち奄初対面だし。オレ、掾理女緒ち痰ゃんのこととか、なに烽も知迺らないしさ」",
+    ("「だから、ほら、オレたち奄初対面だし。オレ、掾理女緒ち痰ゃんのこととか、なにも知迺らないしさ」",
     ""),
     # "So, see, it's my first meeting with you guys. I don't know anything about the hottest girls, like me, Ochi Sphinja."
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # He looks like he's about to cry.†
 
-    ("「だ、だから、これから少しずつ知闥り№合っていくという意味で烽も…」",
+    ("「だ、だから、これから少しずつ知闥り№合っていくという意味でも…」",
     ""),
     # "So, from now on, we'll gradually become more familiar with the number of people..."
 
@@ -398,7 +398,7 @@ text_array = [
     ""),
     # "Oh, are you a friend, right?"
 
-    ("すると彼濫女は再びポケットをゴソゴソ窿やり出した。",
+    ("すると彼女は再びポケットをゴソゴソ窿やり出した。",
     ""),
     # Then the woman started slurping her pockets again.
 
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # "Yeah?"†
 
-    ("「い、いえっ、なんで烽もありませんっっ！！	そ、それじ痰ゃあ、п私、これで失邇礼しますっ！」",
+    ("「い、いえっ、なんでもありませんっっ！！	そ、それじ痰ゃあ、п私、これで失邇礼しますっ！」",
     ""),
     # "No, no, why don't you have any heat?! That's it, I'm sorry, I'm sorry for this!"
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("呼び止める間煌もなく、彼濫女は校舎の方へと駆けていく。†",
+    ("呼び止める間煌もなく、彼女は校舎の方へと駆けていく。†",
     ""),
     # Without a moment of urging her to stop her, the girl leaps towards the good fortune of the school building.†
 
@@ -434,11 +434,11 @@ text_array = [
     ""),
     # I hurriedly chased after him.
 
-    ("なんか勘瘧違いされたみたいだぞ。†",
+    ("なんか勘違いされたみたいだぞ。†",
     ""),
     # It seems like he's been misunderstood.†
 
-    ("彼濫女を追って、噤建物に駆けこんだとき、",
+    ("彼女を追って、噤建物に駆けこんだとき、",
     ""),
     # When he chased after the woman and plunged into the building,
 
@@ -478,7 +478,7 @@ text_array = [
     ""),
     # "Huh? Yes..."
 
-    ("事態が飲みこめてない様子で、キョトンと嘯答える揩理女緒ち痰ゃん。",
+    ("事態が飲みこめてない様子で、キョトンと嘯答える理女緒ち痰ゃん。",
     ""),
     # It seems that the situation hasn't been absorbed, and he replies with a tingly squeal.
 
@@ -490,7 +490,7 @@ text_array = [
     ""),
     # "Ah, you're strong, sturdy!"
 
-    ("あ墲わてた口調でそう言うと、掾理女緒ち痰ゃんは勢いよく、がばっと立ち繧上がった。†",
+    ("あわてた口調でそう言うと、掾理女緒ち痰ゃんは勢いよく、がばっと立ち上がった。†",
     ""),
     # When I said this in a flustered tone of fortune, the man who suddenly rose with force.†
 
@@ -498,7 +498,7 @@ text_array = [
     ""),
     # "B, me, that's it!"
 
-    ("そして、まるでオレから逃げるかのように、不﨑器用に魔走闡り獅去驪る。",
+    ("そして、まるでオレから逃げるかのように、不﨑器用に魔走闡り去驪る。",
     ""),
     # Then, as if to escape from my fierce performance, I ran away with a lion for Fusaki.
 
@@ -510,7 +510,7 @@ text_array = [
     ""),
     # "hey hey…"†
 
-    ("で烽も、たぶん、いまは追いかけないほうがいいんだうな。",
+    ("でも、たぶん、いまは追いかけないほうがいいんだうな。",
     ""),
     # And it's probably better not to chase after him now.
 
@@ -518,11 +518,11 @@ text_array = [
     ""),
     # The voices of the athletic foils echoed from outside in the shiny corridor.◯
 
-    ("その冾日はなんとなく獅落ちｒかなかった。",
+    ("その冾日はなんとなく落ちｒかなかった。",
     ""),
     # On that day, I somehow didn't fall.
 
-    ("当然、あの揩理女緒ち痰ゃんって子のことが頭にあったからだ。",
+    ("当然、あの理女緒ち痰ゃんって子のことが頭にあったからだ。",
     ""),
     # Of course, Masumi was thinking about that child called Ochisou-chan.
 
@@ -530,11 +530,11 @@ text_array = [
     ""),
     # Apparently, what I was wrong and what I wanted to say didn't really convey well.†
 
-    ("こういう場㍼合、どうした烽もんか。",
+    ("こういう場㍼合、どうしたもんか。",
     ""),
     # What's the matter in a situation like this?
 
-    ("誰かに鰍相談するの烽もなんだしなぁ。",
+    ("誰かに鰍相談するのもなんだしなぁ。",
     ""),
     # I don't think it's a good idea to talk to someone else.
 

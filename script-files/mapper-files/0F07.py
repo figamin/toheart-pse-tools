@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Ehhhh!?!"†
 
-    ("「そうやって、いかに烽も『指名しないで』という顔をされると、逆にしたくなる烽もんだ」",
+    ("「そうやって、いかにも『指名しないで』という顔をされると、逆にしたくなるもんだ」",
     ""),
     # "When you tamper with this, even if you say, "Don't nominate," you'll want to turn the other way around."
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # "It's bullying~..."
 
-    ("「あかりィ、まあ、これ烽もひとつの獅試緖練だと思って頑張んなさいよ」",
+    ("「あかりィ、まあ、これもひとつの試緖練だと思って頑張んなさいよ」",
     ""),
     # "Akari, well, think of this as a lion test, so try hard."
 
-    ("「が自滅してくれるか烽もしれないし」",
+    ("「が自滅してくれるかもしれないし」",
     ""),
     # "I wonder if he will destroy himself."
 
-    ("♂史め。",
+    ("雅史め。",
     ""),
     # Male history.
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("さらに肩を獅落とすあかり。†",
+    ("さらに肩を落とすあかり。†",
     ""),
     # Akari lionizes her shoulders.†
 
-    ("「堰負けて烽もどうせрヤックをおごるだけだ。ケチケチすんな」",
+    ("「堰負けてもどうせрヤックをおごるだけだ。ケチケチすんな」",
     ""),
     # "The dam is defeated and the hot weather is just going to be a treat for the yak anyway. Don't be stingy."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "I don't want to hurt if possible"
 
-    ("「ま、たまには命がけでゲームするの烽もオツな烽ものよ」",
+    ("「ま、たまには命がけでゲームするのもオツなものよ」",
     ""),
     # "Well, once in a while, playing games at the risk of your life is also a great hot thing."
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "The girl who has gone up, the girl who has gone up. All that's left is to hope that the enemy will destroy you."
 
-    ("「悪いけど、そうはいかねー諱よ。軽くちぎらせて烽もらうぜ」",
+    ("「悪いけど、そうはいかねー諱よ。軽くちぎらせてもらうぜ」",
     ""),
     # "I'm sorry, but I guess so, I'll give you a light tear and get some hot pot."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # I sat in a chair and threw a 100 yen coin into a whirlwind.†
 
-    ("戟レッツ、プレイ！◯",
+    ("レッツ、プレイ！◯",
     ""),
     # Let's go, please!◯
 

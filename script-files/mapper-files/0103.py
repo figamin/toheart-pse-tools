@@ -10,7 +10,7 @@ text_array = [
     ""),
     # (The location where you selected Selected A in the Date Event 1 is within the limit)
 
-    ("（３獅月１３冾日）",
+    ("（３月１３冾日）",
     ""),
     # (3rd 13th day)
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # I'm alone, but I'll start off.
 
-    ("ええっと、諱取闔りあえず明坙日は保瀦健と物摯理か。",
+    ("ええっと、諱取りあえず明坙日は保瀦健と物摯理か。",
     ""),
     # Well, I'm not sure if I'll be honest with you on the day of the year, but I'm not sure if you're going to get it right.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Ping Pong.
 
-    ("そのとき、玄関のチャャイムの音とと烽もに、",
+    ("そのとき、玄関のチャャイムの音とともに、",
     ""),
     # At that time, the sound of the chaiim in the entrance and the hot water,
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Akari squinted her eyes for something, and looked around my room.†
 
-    ("「戟レイアウトとか烽も、変﨑わらないね」",
+    ("「レイアウトとかも、変﨑わらないね」",
     ""),
     # "The layout and hood won't change either."
 
@@ -170,15 +170,15 @@ text_array = [
     ""),
     # "Hehehe" †
 
-    ("隣りの部屋から揩持ってきたガラステーブルの繧上に勉強道搭鼡一式を広げる。",
+    ("隣りの部屋から持ってきたガラステーブルの上に勉強道搭鼡一式を広げる。",
     ""),
     # I spread a set of study paths over the banquet that I brought from the next room.
 
-    ("あかりはクッションの繧上にｍ會高ｺ奄した。",
+    ("あかりはクッションの上にｍ會高ｺ奄した。",
     ""),
     # Akari went to Mkai Takako on the side of the cushions.
 
-    ("透け透けガラスで、あかりのナマふと烽も烽もがよく見える。†",
+    ("透け透けガラスで、あかりのナマふとももがよく見える。†",
     ""),
     # The see-through banquet is over, and you can easily see the raw and hot springs of light.†
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "What?! Uh, yes, just silly...
 
-    ("やっぱり墲わかっち痰ゃう？」",
+    ("やっぱりわかっち痰ゃう？」",
     ""),
     # I guess you can understand it after all?”
 
@@ -214,11 +214,11 @@ text_array = [
     ""),
     # "ah"†
 
-    ("たしかに以前は烽もっと細かったけど、それはこう、なんていうか、子沁供っぽいというか、そんな感じだった。",
+    ("たしかに以前はもっと細かったけど、それはこう、なんていうか、子沁供っぽいというか、そんな感じだった。",
     ""),
     # It's true that before, it was even thinner, but it was like this, or rather, it felt like a child.
 
-    ("だけどいまは、なんだか全体的にふっくらとして、柔迴らかそうな感じがする。",
+    ("だけどいまは、なんだか全体的にふっくらとして、柔らかそうな感じがする。",
     ""),
     # But now, it seems to be plump and soft overall.
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # And...
 
-    ("こうしてじっくり見骭ると、ここなしか、バスト焜も膨逍らみを揩増してきてるよーな気煖も…。†",
+    ("こうしてじっくり見骭ると、ここなしか、バストも膨逍らみを増してきてるよーな気も…。†",
     ""),
     # When I looked closely at this point, I found out that my bust size was getting bigger and bigger...†
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # Akari said with a chuckle.
 
-    ("「そうだな。えーっと、諱取闔りあえず明坙日は、１桙時間目が保瀦健で、２桙時間目が物摯理だよな」",
+    ("「そうだな。えーっと、諱取りあえず明坙日は、１桙時間目が保瀦健で、２桙時間目が物摯理だよな」",
     ""),
     # "That's right. Well, on the Ming Shun Day, the first frame is Hole-Hi, and the second frame is sincere."
 
@@ -306,7 +306,7 @@ text_array = [
     ""),
     # "Hore Ken is a separate male and female, so there's no need to study with Ebi."
 
-    ("「いや、せっかくだし、もっとく墲わしく勉強するって方法燒もあるぜ」",
+    ("「いや、せっかくだし、もっとくわしく勉強するって方法燒もあるぜ」",
     ""),
     # "It's a pain, and since we're going to do it, there's also a way to save money by studying more carefully."
 
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # Akari smiles awkwardly and wryly.†
 
-    ("「ばーか、轣冗談だよ、轣冗談。それより烽も物摯理だ、物摯理。そっちの方を重点的にやるぞ」",
+    ("「ばーか、轣冗談だよ、轣冗談。それよりも物摯理だ、物摯理。そっちの方を重点的にやるぞ」",
     ""),
     # "Oh, I'm a joke, I'm a joke. More importantly, I'm a sincere, I'm a sincere person. I'll focus on that kind of happiness."
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "Let's go from the first page in the test area" †
 
-    ("こうして、ふたりの獅試験勉強は始まった。",
+    ("こうして、ふたりの試験勉強は始まった。",
     ""),
     # This is how the two of them began studying for the Lion Exam.
 
@@ -350,7 +350,7 @@ text_array = [
     ""),
     # "That's it, I got my phlegm."
 
-    ("「おう、気をつけて帰鼡れよ。…っつって烽も、すぐそこだけど」",
+    ("「おう、気をつけて帰鼡れよ。…っつっても、すぐそこだけど」",
     ""),
     # "Oh, take care and come home.... The hot spring is also right around the corner."
 
@@ -358,7 +358,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("笑迴顔でうなずいた繧後、あかりは目を細め、うっすらと微笑んだ。†",
+    ("笑顔でうなずいた後、あかりは目を細め、うっすらと微笑んだ。†",
     ""),
     # After laughing, Akari nodded her head with a face, her eyes narrowed and a faint smile.†
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("やっぱりち痰ゃん、п私謗より烽も問題を揩理解するのが≠早いなあって思って」",
+    ("やっぱりち痰ゃん、п私謗よりも問題を理解するのが≠早いなあって思って」",
     ""),
     # I think it's quicker to understand the question of the question, rather than slander."
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「そうだよ、絶対。ち痰ゃんは、もと烽もと頭が良いんだから。ただ｢｢」†",
+    ("「そうだよ、絶対。ち痰ゃんは、もともと頭が良いんだから。ただ｢｢」†",
     ""),
     # "That's right, I'm sure. Chishonan is really smart, and I just say """†
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "that's right.
 
-    ("やる気を出したち痰ゃんはなんだって出女磯翌鴦ｾってこと、п私、知ってるんだ。サッカーだって昔はｉ史ち痰ゃんより繧上闖手だった烽もんね？」†",
+    ("やる気を出したち痰ゃんはなんだって出女磯翌鴦ｾってこと、п私、知ってるんだ。サッカーだって昔は史ち痰ゃんより上闖手だったもんね？」†",
     ""),
     # I know that I'm motivated and what kind of woman Isozuki's is, what kind of woman is.Even in soccer, it was a great player than I-Shin Chisho-chan, right?”†
 
@@ -402,15 +402,15 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「うん。ち痰ゃん、諱よくｉ史ち痰ゃんに教えたりしてた烽もん」",
+    ("「うん。ち痰ゃん、諱よく史ち痰ゃんに教えたりしてたもん」",
     ""),
     # "Yes. Chishonan, the hotmon that I often taught to Chishonan."
 
-    ("「♂史は、﨟基本的には鈍くさいからな」",
+    ("「雅史は、﨟基本的には鈍くさいからな」",
     ""),
     # "Male history is basically dull."
 
-    ("「だから、今回のテスト焜も、きっとバッチリだよ」",
+    ("「だから、今回のテストも、きっとバッチリだよ」",
     ""),
     # "So this test case is sure to be a perfect match for this time."
 
@@ -446,7 +446,7 @@ text_array = [
     ""),
     # With that in mind, Akari left.†
 
-    ("それにして烽もあかりのрヤツ、根注拠煖もないのにオレを揩持ち繧上げてくれるぜ。",
+    ("それにしてもあかりのрヤツ、根注拠もないのにオレを持ち上げてくれるぜ。",
     ""),
     # And even though he's a light guy, he's still able to hold me up even though he doesn't have any roots.
 
@@ -454,7 +454,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("まあ、少しで烽もその冾期待にこたえるために、一驤夜漬けで烽も、諱頑張闥りますか。◯",
+    ("まあ、少しでもその冾期待にこたえるために、一驤夜漬けでも、諱頑張闥りますか。◯",
     ""),
     # Well, in order to meet that expectation in a little while, will you try your best to soak up the hot springs in the evening?◯
 

@@ -2,27 +2,27 @@
 # Source file: 0F14.txt
 
 text_array = [
-    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（商店街２）†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（商店街２）",
     ""),
-    # (Arcade Part-time Job Cry 3) (Closing Ceremony Edition (Puzzle)) (Shopping Street 2)†
+    # (Arcade Part-time Job Cry 3) (Closing Ceremony Edition (Puzzle)) (Shopping Street 2)
 
-    ("繰り出したオレたちは、だべりながら街を烽歩いていた。†",
+    ("繰り出したオレたちは、だべりながら街を歩いていた。",
     ""),
-    # The people who had come out had been dragging on, wandering around the city.†
+    # The people who had come out had been dragging on, wandering around the city.
 
-    ("「緑色のピーマンって、まだ熟しきってないピーマンなんだよ。熟して赤くなると、栄養燉も揩増えるし、生で食べて烽もｔ味しいんだよ」",
+    ("「緑色のピーマンって、まだ熟しきってないピーマンなんだよ。熟して赤くなると、栄養燉も増えるし、生で食べてもｔ味しいんだよ」",
     ""),
     # "Green peppers are still not ripe. When they ripen and turn red, they also increase the nutrients, and when eaten raw, they also taste tangy."
 
-    ("「へえ…？」†",
+    ("「へえ…？」",
     ""),
-    # "Huh...?" †
+    # "Huh...?" 
 
     ("「ホントにィ？	じ痰ゃあ今度、赤いピーマンで肉詰めｍってきてよ」",
     ""),
     # "Really? I'll put some meat in the next time, fill it with red peppers."
 
-    ("「う〜ん。あれは緑色だからｔ味しいような気がするなあ」†",
+    ("「う〜ん。あれは緑色だからｔ味しいような気がするなあ」",
     ""),
     # "Hmm. That's green so I think it tastes like a t-tasting."
 
@@ -34,23 +34,23 @@ text_array = [
     ""),
     # "Ah, sorry..."
 
-    ("「なによ、いいじ痰ゃないの。ピーマン刄嫌いを獅克檮服するありがたい話譏よ」†",
+    ("「なによ、いいじ痰ゃないの。ピーマン刄嫌いを克檮服するありがたい話譏よ」",
     ""),
     # "What, you can't have any phlegms? A great story about how to overcome the dislike of peppers."
 
-    ("「なんだ、オマエ？	いい歳こいてピーマン食えねえのかよ？	『じつはニンジン焜も苦闍手なの〜っ』とか言うんじ痰ゃねーだうな」",
+    ("「なんだ、オマエ？	いい歳こいてピーマン食えねえのかよ？	『じつはニンジンも苦闍手なの〜っ』とか言うんじ痰ゃねーだうな」",
     ""),
     # "What, you? You're so old, can't you eat peppers? You're saying things like, 'In fact, carrots are in pain too,' so you have to phlegm."
 
-    ("「じつはニンジン焜も苦闍手なの〜っ｢｢黽って、言うかいっ！	だいたいピーマンだって残さない墲わよ！」†",
+    ("「じつはニンジンも苦闍手なの〜っ｢｢黽って、言うかいっ！	だいたいピーマンだって残さないわよ！」",
     ""),
     # "In fact, the carrots are also suffering from pain. "You're going to say "Kuuuu!" I usually don't leave any peppers left!"
 
-    ("「そらよかったな。オ＜メーんちの母ち痰ゃん烽も大舞助かりだ」",
+    ("「そらよかったな。オ＜メーんちの母ち痰ゃんも大舞助かりだ」",
     ""),
     # "That's good. Mae-chan's mother, the sputum-chan, is also a relief."
 
-    ("「潤ワケ夋わかんねーっつーの！」†",
+    ("「潤ワケ夋わかんねーっつーの！」",
     ""),
     # "I don't know why!"
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "While I'm saying something like, "Oh, I'm going to Kabanra Okebox, your Amami Love Banquet Love, and Kabanquet Raoke Box. Are you going?"
 
-    ("「言っとくけどね、あたしが好きなのは歌うことであって、べつにボックスが好きな墲わけじ痰ゃない墲わよ」",
+    ("「言っとくけどね、あたしが好きなのは歌うことであって、べつにボックスが好きなわけじ痰ゃないわよ」",
     ""),
     # "I'll tell you, what I like is singing, and I really love Boxes, so I don't have to deal with them."
 
-    ("「同じだ。それより行かねーのか？」†",
+    ("「同じだ。それより行かねーのか？」",
     ""),
     # "It's the same. Should I go further?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "I'm saying it's fine now."
 
-    ("「なんで？	いつ烽もならまっしぐらだ？」†",
+    ("「なんで？	いつもならまっしぐらだ？」",
     ""),
     # "Why? When are you going to be on the verge of the hot springs?"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Chibi, the place where you no longer have the songs to listen to. I don't want to hear the song from before, ecchibi?"
 
-    ("「べつに。だいたいオ＜メーのコンサート見にｗてる墲わけじ痰ゃねーしな」",
+    ("「べつに。だいたいオ＜メーのコンサート見にｗてるわけじ痰ゃねーしな」",
     ""),
     # "And so, I usually don't have to deal with the sluts of watching Ome's concert."
 
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "Oh, is it not that bad?"
 
-    ("「…ったく」†",
+    ("「…ったく」",
     ""),
-    # "...that's it" †
+    # "...that's it" 
 
     ("「で、どうするの？」",
     ""),
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "You're so phlegm, when it's on the day of the day, B should stop tampering with Kaban Raoke.
 
-    ("やめて、どこ行くかだな」†",
+    ("やめて、どこ行くかだな」",
     ""),
     # Stop it, where should I go?"
 
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # "Yes, yes. I'm not gonna go to the arcade."
 
-    ("まったく、鶴の一声ってрヤツだな。†",
+    ("まったく、鶴の一声ってрヤツだな。",
     ""),
-    # The crane's voice is definitely the guy.†
+    # The crane's voice is definitely the guy.
 
     ("ゲーセンにやってきた。",
     ""),
@@ -138,11 +138,11 @@ text_array = [
     ""),
     # I siped a lucky bit and casually looked at the screen.
 
-    ("パズルゲームだ。†",
+    ("パズルゲームだ。",
     ""),
-    # It's a puzzle crying game.†
+    # It's a puzzle crying game.
 
-    ("デｃモプレイで、縺上から獅落ちてくるブ鴻ロックを並べて消している。",
+    ("デｃモプレイで、縺上から落ちてくるブ鴻ロックを並べて消している。",
     ""),
     # In DeC Mop Era, the lion falling from above is lined up and erased.
 
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # "ah"
 
-    ("だが、登齠場キャャラ全員、なんとなく親近感が墲わくんだよな。†",
+    ("だが、登齠場キャャラ全員、なんとなく親近感がわくんだよな。",
     ""),
-    # However, all of the staff members had a sense of affinity.†
+    # However, all of the staff members had a sense of affinity.
 
     ("「なに？",
     ""),
@@ -178,15 +178,15 @@ text_array = [
     ""),
     # "I'm quite good at that. What do you think?
 
-    ("勝縁負する？」†",
+    ("勝縁負する？」",
     ""),
-    # Will you win the victory?”†
+    # Will you win the victory?”
 
     ("「ええ〜？	またやるの〜？」",
     ""),
     # "Eh? Are you going to tamper with it again?"
 
-    ("「ほら、あかり烽もやりたいってさ」",
+    ("「ほら、あかりもやりたいってさ」",
     ""),
     # "Look, I want to tamper with Akari Hot."
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # Okay, I'll do it."
 
-    ("「えっ、えっ！？」†",
+    ("「えっ、えっ！？」",
     ""),
     # "What, what?!"
 
-    ("という墲わけで、オレは｢｢。",
+    ("というわけで、オレは｢｢。",
     ""),
     # So, I was like, ".
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # A: We'll fight against Akari.Relax
 
-    ("Ｂ	♂史と対岺戦する。閨",
+    ("Ｂ	雅史と対岺戦する。閨",
     ""),
     # B: Fight against Makotoshi.Relax
 

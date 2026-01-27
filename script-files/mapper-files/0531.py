@@ -2,11 +2,11 @@
 # Source file: 0531.txt
 
 text_array = [
-    ("（艨ゆっくりフェード）閨（カレンダーを５獅月６冾日までめくる）閨（自分の部屋）†",
+    ("（艨ゆっくりフェード）閨（カレンダーを５月６冾日までめくる）閨（自分の部屋）†",
     ""),
     # (Slowly fade) (Change the calendar until the 5th day of the 6th day of the 5th day of the 6th day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day
 
-    ("そして、ゴールデンウィークが過ぎ獅去闍り、修学旅行の朝がやってきた。",
+    ("そして、ゴールデンウィークが過ぎ去闍り、修学旅行の朝がやってきた。",
     ""),
     # Then, after Golden Week passed, the morning of the school trip began to fend off.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Of course, my luggage was packed together on the slut.
 
-    ("いつ烽もよりかなり≠早い桙時間に、オレは家を出た。†",
+    ("いつもよりかなり≠早い桙時間に、オレは家を出た。†",
     ""),
     # At the time, I left the house at a much faster time than the hot spring.†
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「山ご烽もりで烽もする気か。なに入ってんだ？」",
+    ("「山ごもりでもする気か。なに入ってんだ？」",
     ""),
     # "Are you planning on simmering in the mountains? What are you in?"
 
-    ("「£替えでしょ、筆記用雷でしょ、お翌風呂のセットにドライсヤー、カ＜メラに、折關りたたみの傘に…」†",
+    ("「替えでしょ、筆記用雷でしょ、お翌風呂のセットにドライсヤー、カ＜メラに、折關りたたみの傘に…」†",
     ""),
     # "For a replacement, a writing thunder, a next-day bath set, a banquet for a banquet, a banquet for a banquet, a banquet for a banquet, a folding umbrella..."
 
-    ("「ドライсヤーなんか揩持ってきたのか。誰かに借闔り",
+    ("「ドライсヤーなんか持ってきたのか。誰かに借り",
     ""),
     # "Did you bring some kind of banquet? I borrowed it from someone.
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # It's fine, that's what it is."
 
-    ("「で烽も、まあ、いちおう…。ち痰ゃんは、そんなに少なくて平気なの？」",
+    ("「でも、まあ、いちおう…。ち痰ゃんは、そんなに少なくて平気なの？」",
     ""),
     # "And then, let's go, well... Are you okay with that few sphincteres?"
 
-    ("「£替えに、筆記用雷に、こんな烽もんだ？	旅行の荷物は軽いに越したことはねーんだよ」",
+    ("「替えに、筆記用雷に、こんなもんだ？	旅行の荷物は軽いに越したことはねーんだよ」",
     ""),
     # "For a replacement, writing lightning, is this hot b? Travel luggage is better than light."
 
-    ("「うん、そうか烽も…」†",
+    ("「うん、そうかも…」†",
     ""),
     # "Yeah, I see, Hot too..."
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # Due to the luggage, Akari's legs are nearly twice as slow as usual.
 
-    ("いま烽も大変そうにのたのた烽歩いている。",
+    ("いまも大変そうにのたのた歩いている。",
     ""),
     # The hot springs are now walking around in a difficult position.
 
-    ("「…ったく、しょうがねーな。ほら、学校にｒくまで、荷物謨取闔り替えてやるよ」",
+    ("「…ったく、しょうがねーな。ほら、学校にｒくまで、荷物謨取り替えてやるよ」",
     ""),
     # "...No way, there's no slut. Come on, I'll change my luggage and tamper with it until I get to school."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Thank you, sputum" †
 
-    ("そのとき、縺後撃から烽もうひとり見知った顔がやってきた。",
+    ("そのとき、縺後撃からもうひとり見知った顔がやってきた。",
     ""),
     # At that moment, after the attack, another familiar face began to stomp.
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # "I saw the two of you, so I chased you."
 
-    ("「おはよう、♂史ち痰ゃん。朝忠うの久しぶりだね」",
+    ("「おはよう、雅史ち痰ゃん。朝忠うの久しぶりだね」",
     ""),
     # "Good morning, Makoto Shichi-Shoyan. It's been a while since I've been loyal to the morning."
 
-    ("「いつ烽もは朝羽練あるからね。さすがに今厓日はないけど」†",
+    ("「いつもは朝羽練あるからね。さすがに今厓日はないけど」†",
     ""),
     # "When will the morning wings be held, there will be no day for the day."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "It's true."
 
-    ("「そり痰ゃあ、浴女の子とは痰違うよ」",
+    ("「そり痰ゃあ、女の子とは痰違うよ」",
     ""),
     # "As phlegm, it's different from a bathing girl."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Uhhh."
 
-    ("「約齧一名ほど、さ墲わやかじ痰ゃないрヤツがいる墲わねぇ。こんな冾日ぐらい、もっとはじけたらどう？」",
+    ("「約齧一名ほど、さわやかじ痰ゃないрヤツがいるわねぇ。こんな冾日ぐらい、もっとはじけたらどう？」",
     ""),
     # "There's about a bit of a bit of a guy who can't get slurping or slurping. What if it pops up more on a day like this?"
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "What does that mean?!"
 
-    ("その繧後、校長の軽いあいさつを聞いてから、全員バスに乗闖り桙込んだ。",
+    ("その後、校長の軽いあいさつを聞いてから、全員バスに乗闖り桙込んだ。",
     ""),
     # After that, after hearing the principal's light greeting, everyone boarded the bus and snatched it.
 

@@ -2,9 +2,9 @@
 # Source file: 08D5.txt
 
 text_array = [
-    ("（戟レミィ	好感度イベント	ＰＳ）閨（選択綜	いいぜ）†",
+    ("（レミィ	好感度イベント	ＰＳ）閨（選択綜	いいぜ）",
     ""),
-    # (Karemi Remi Likeability Event PS) (Selection So Iize)†
+    # (Karemi Remi Likeability Event PS) (Selection So Iize)
 
     ("「いいぜ。どうせヒマだし」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Do you want to know?"
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
     ("「それは謎デス」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # My guts almost throbbed while sitting.
 
-    ("「戟レミィ〜」",
+    ("「レミィ〜」",
     ""),
     # "Ah Remie"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Hahaha, the mystery of the sinners call the mystery of the sinners, so good."
 
-    ("「おめぇ、また妙な言葉覚えてきたな？」†",
+    ("「おめぇ、また妙な言葉覚えてきたな？」",
     ""),
     # "You know, you've learned some weird words again?"
 
-    ("「ゴ＜メンゴ＜メン。、冝日曜のお汲昼、学校に迎えにｗて」",
+    ("「ゴ＜メンゴ＜メン。、冝日曜のお昼、学校に迎えにｗて」",
     ""),
     # "Go <Mengo <Men., I'll pick you up from school during the Sunday lunchtime lol."
 
@@ -58,16 +58,16 @@ text_array = [
     ""),
     # "The morning char is a caddor."
 
-    ("「ふ〜ん…。ま、いいけどな」†",
+    ("「ふ〜ん…。ま、いいけどな」",
     ""),
-    # "Hmm... well, that's fine." †
+    # "Hmm... well, that's fine." 
 
-    ("梶相変﨑わらず撃レミィがゲーセンに行きたがる揩理由は墲わからなかったが、気にしないことにした。",
+    ("梶相変﨑わらず撃レミィがゲーセンに行きたがる理由はわからなかったが、気にしないことにした。",
     ""),
     # Kaji Ai Henzaki, but I didn't understand why Geki Remi wanted to go to the arcade, but I decided not to worry about it.
 
-    ("デートは４獅月２０冾日の汲昼に学校、だったな。†",
+    ("デートは４月２０冾日の昼に学校、だったな。",
     ""),
-    # The date was at school during the afternoon of the 20th day of the April Shizuki period.†
+    # The date was at school during the afternoon of the 20th day of the April Shizuki period.
 
 ]

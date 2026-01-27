@@ -2,9 +2,9 @@
 # Source file: 0064.txt
 
 text_array = [
-    ("４／２１（氏月）†",
+    ("４／２１（氏月）",
     ""),
-    # 4/21 (Mr. and Mon)†
+    # 4/21 (Mr. and Mon)
 
     ("冝放課繪後。",
     ""),
@@ -30,31 +30,31 @@ text_array = [
     ""),
     # Are you going back to the classroom?
 
-    ("ああ、しんど。†",
+    ("ああ、しんど。",
     ""),
-    # Ah, it's tough.†
+    # Ah, it's tough.
 
     ("廊下を通って、階段前までやってｗた。",
     ""),
     # I went through the hallway and ended up tampering with it all the way to the front of the stairs lol.
 
-    ("＝早く帰汲うか。†",
+    ("＝早く帰うか。",
     ""),
-    # =Shall I come back soon?†
+    # =Shall I come back soon?
 
     ("廊下を通って、下駄箱までやってきた。",
     ""),
     # He went through the hallway and even the shoe cabinet.
 
-    ("諱先生とすれ痰違って、だらだらした態度を高注意された。†",
+    ("諱先生とすれ痰違って、だらだらした態度を高注意された。",
     ""),
-    # He was very warned of his lazy attitude, as he was disparaged from the teacher.†
+    # He was very warned of his lazy attitude, as he was disparaged from the teacher.
 
-    ("学校を出て、坂道を烽歩く。",
+    ("学校を出て、坂道を歩く。",
     ""),
     # I left school and walked down the hill.
 
-    ("誰か知ったрヤツは烽歩いてねーかな。",
+    ("誰か知ったрヤツは歩いてねーかな。",
     ""),
     # I wonder if someone who knows about it is walking around.
 
@@ -62,19 +62,19 @@ text_array = [
     ""),
     # Isn't there?
 
-    ("いいや、ひとりで帰汲。†",
+    ("いいや、ひとりで帰。",
     ""),
-    # I'm going to go back on my own.†
+    # I'm going to go back on my own.
 
-    ("４獅月２１冾日が過ぎ獅去汲うとしている。",
+    ("４月２１冾日が過ぎ去うとしている。",
     ""),
     # The 21st day of the 4th silhouette moon has passed and is about to pass away.
 
-    ("さらば、４獅月２１冾日。",
+    ("さらば、４月２１冾日。",
     ""),
     # Farewell, April 21st day of Shizuki.
 
-    ("また一年續後にｉおう。◯",
+    ("また一年續後におう。◯",
     ""),
     # Let's go again in a year.◯
 

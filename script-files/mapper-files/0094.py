@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Shiho finds a similar person and ecstasys.†
 
-    ("「オ＜メーもかよ…。ちっと烽も嬉しくねー」",
+    ("「オ＜メーもかよ…。ちっとも嬉しくねー」",
     ""),
     # "You too... I'm not happy about Hot."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # With that in mind, Shiho slapped me on the shoulder.
 
-    ("果たしてどうなるのか、結果が出髀るまでは墲わからねーけど。†",
+    ("果たしてどうなるのか、結果が出髀るまではわからねーけど。†",
     ""),
     # I don't know what will happen until the results come out.†
 

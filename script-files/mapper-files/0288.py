@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Huh? What I want to tell you is Tanzania, Tanzania, right?
 
-    ("なに、なんか用沫事で烽もあんの？	だったら、その用沫事につき№合って烽も｢｢」†",
+    ("なに、なんか用沫事でもあんの？	だったら、その用沫事につき№合っても｢｢」†",
     ""),
     # What, is there some kind of splashing and some hot water?If that's the case, then it's a good match for the droplet, and the hot water is ""†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # The man who dropped off the stopped chrysanthemum limousine was a man in a black suit.
 
-    ("冷笳や汗を拭うオレの目の前を、普黒スーツの男はなにごと烽もなかったかのように通過する。†",
+    ("冷笳や汗を拭うオレの目の前を、普黒スーツの男はなにごともなかったかのように通過する。†",
     ""),
     # The man in a black suit passes through my eyes as if there was no heat, as if there was no heat in front of me, who was wiped away the cold and sweat.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Seri°Kaoru, Mr. Oo, I'm sorry for your kindness. Now, please come and head to the car."
 
-    ("秩白髪に窒白いヒゲをたく墲わえた、妙にガタイのいいじーさんだった。",
+    ("秩白髪に窒白いヒゲをたくわえた、妙にガタイのいいじーさんだった。",
     ""),
     # He was a strangely firm old man with his orderly hair and a white beard.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # Rather, he's a man of driving... he's a tampering thing like tuna.†
 
-    ("じーさんは先輩を導くようにして繧後伯部座席のドアを開く。",
+    ("じーさんは先輩を導くようにして後伯部座席のドアを開く。",
     ""),
     # The old man opened the door to Hakube seats as if he were to guide his senior.
 

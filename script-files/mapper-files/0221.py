@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "I understand.
 
-    ("んじ痰ゃあ、行こうぜ。その魔法のホレ薬とやらが本末当に効くのか、さっそく獅試してみようぜ？」",
+    ("んじ痰ゃあ、行こうぜ。その魔法のホレ薬とやらが本末当に効くのか、さっそく試してみようぜ？」",
     ""),
     # Let's go, phlegm.Let's try the lion right away, should the b-magic stimulant and tampering work on the realm?”
 
@@ -46,17 +46,17 @@ text_array = [
     ""),
     # My gei-re and my senior came to the front of the clubroom of Okaryu Ruto Kenyu.
 
-    ("£に入體る。†",
+    ("に入體る。†",
     ""),
-    # Enter the £.†
+    # Enter the .†
 
     ("オカルト研結級秤部室。",
     ""),
     # Okaryuto Ken's classification scale room.
 
-    ("£は…梶相変﨑わらずだな。",
+    ("は…梶相変﨑わらずだな。",
     ""),
-    # £...Kaji Ai Henzaki is not.
+    # ...Kaji Ai Henzaki is not.
 
     ("不思議な≠香闕り。",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # As I was observing the sluts and observing the sluts, I saw that my sluts and my sluts were showing up dressed as the wizard B.
 
-    ("閨手には怪しい窒白色の小瓶を揩持っている。",
+    ("閨手には怪しい窒白色の小瓶を持っている。",
     ""),
     # He holds a small, suspicious nitrogen bottle in his hand.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Well, there are no snakes or lizards inside.
 
-    ("もっと烽も、煮梹込んでとけちまったっていう可能性熕もない墲わけではない。",
+    ("もっとも、煮梹込んでとけちまったっていう可能性熕もないわけではない。",
     ""),
     # It's not that there's a possibility that the chicken would be slurped and slacked off.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「あ、べ、べつに疑ってる墲わけじ痰ゃないぜ。ただちょっと、そんなのが本末当にｍ鼾れるのかなーって思っち痰ゃったりなんかして」",
+    ("「あ、べ、べつに疑ってるわけじ痰ゃないぜ。ただちょっと、そんなのが本末当にｍ鼾れるのかなーって思っち痰ゃったりなんかして」",
     ""),
     # "Ah, I'm not sure if I can't help but doubt it. I immediately thought that such a thing might sniff out of my mind, so I squealed something."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # When I nodded,
 
-    ("先輩はオレから小瓶を受け取闔り、ふたを開け、コクッとひとくち飲んだ。",
+    ("先輩はオレから小瓶を受け取り、ふたを開け、コクッとひとくち飲んだ。",
     ""),
     # My senior received the small bottle from me, opened the lid and drank a bite.
 
@@ -146,7 +146,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("飲み終えた繧後、諱先輩は、まるでアルコールで烽も飲んだみたいに顔を火照迴らせ、ぽーっとした表﨣情になった。",
+    ("飲み終えた後、諱先輩は、まるでアルコールでも飲んだみたいに顔を火照らせ、ぽーっとした表﨣情になった。",
     ""),
     # After finishing the drink, Senpai Koto's face turned out to be as if he had been drinking hot and crying, and it turned out to be a light-hearted, expressive feelings.
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # At the sexiness, I didn't think about it, and swallowed the bristles and sniffed them.†
 
-    ("諱先輩は、艨ゆっくりと、その顔を繧上げた。",
+    ("諱先輩は、艨ゆっくりと、その顔を上げた。",
     ""),
     # Senpai slowly lifted his face.
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # I said with a wry smile.
 
-    ("「だってさ、それって先輩がｍった薬だ？	そんなの先輩がうなずいてり痰ゃ、絶対に墲わかんねーじ痰ゃんか」†",
+    ("「だってさ、それって先輩がｍった薬だ？	そんなの先輩がうなずいてり痰ゃ、絶対にわかんねーじ痰ゃんか」†",
     ""),
     # "I mean, that's the medicine my senior was making? That senior nodded, so I'm not sure what to do with it." †
 
@@ -230,7 +230,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え？	オレ焜も飲んでみますかって？	胸がドキドキしますからって？	そ、それって、オレに好きになって欲しいってこと？」",
+    ("「え？	オレも飲んでみますかって？	胸がドキドキしますからって？	そ、それって、オレに好きになって欲しいってこと？」",
     ""),
     # "Huh? Would you like me to drink some geeks? Is it because my heart is pounding? Does that mean I want them to fall in love with me?"
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # Senpai looked embarrassed and looked down.†
 
-    ("「もちん、オレ焜も飲むけどさ」",
+    ("「もちん、オレも飲むけどさ」",
     ""),
     # "I'll drink some mochibun, but I'll drink some really bad."
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # Ah, indirect kiss!
 
-    ("それだけで烽も得した気分だぜ。†",
+    ("それだけでも得した気分だぜ。†",
     ""),
     # That alone makes me feel like I've also gained some hot water.†
 
@@ -306,11 +306,11 @@ text_array = [
     ""),
     # Ah, I've already seen my face.
 
-    ("これでオレは烽もう、諱先輩が好きになるって墲わけか。",
+    ("これでオレはもう、諱先輩が好きになるってわけか。",
     ""),
     # This means that my geisha will just fall in love with Senpai.
 
-    ("しかし、これまた汲結果はあいまいだ。",
+    ("しかし、これまた結果はあいまいだ。",
     ""),
     # However, the results are also vague.
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # It felt like I had woken up from a dream.†
 
-    ("「え、効いてきましたかって？	さ、さあ、オレはよく墲わかんねーけど。",
+    ("「え、効いてきましたかって？	さ、さあ、オレはよくわかんねーけど。",
     ""),
     # "Eh, did it work? Well, I don't really know what I'm doing.
 
@@ -546,7 +546,7 @@ text_array = [
     ""),
     # Because it's beautiful?
 
-    ("もちんそれ烽もある。†",
+    ("もちんそれもある。†",
     ""),
     # Mochibun and hotpots are also available.†
 
@@ -554,15 +554,15 @@ text_array = [
     ""),
     # Is it because she's a strange girl after the next episode?
 
-    ("最燕初はそれで興味を揩持ったの烽もたしかだ。",
+    ("最燕初はそれで興味を持ったのもたしかだ。",
     ""),
     # It's true that Saien Hatsu was interested in it.
 
-    ("で烽も、それだけじ痰ゃない。†",
+    ("でも、それだけじ痰ゃない。†",
     ""),
     # And even Hot is not that much phlegm.†
 
-    ("あこがれと親しさが混同したような気搴持ちがあって、それに守ってあげたくなるような愛しさがあって、そして、つい甘えたくなるようなとこ烽もある。",
+    ("あこがれと親しさが混同したような気搴持ちがあって、それに守ってあげたくなるような愛しさがあって、そして、つい甘えたくなるようなとこもある。",
     ""),
     # There is a desire to confuse adore and affinity, and there is also a love that makes you want to protect them, and there is also a b-ho that makes you want to be spoiled.
 
@@ -578,7 +578,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("だから、こうしているの烽も魔当然うれしいにｌまっている。",
+    ("だから、こうしているのも魔当然うれしいにｌまっている。",
     ""),
     # So, of course, the hottest people are happy to be doing this.
 
@@ -598,7 +598,7 @@ text_array = [
     ""),
     # I said to whisper.
 
-    ("「オレ、うれしいけど、すんげーうれしいんだけどさ。で烽も、で烽もこれは、なんか痰違う気がするな」",
+    ("「オレ、うれしいけど、すんげーうれしいんだけどさ。でも、でもこれは、なんか痰違う気がするな」",
     ""),
     # "I'm super happy, but I'm really happy. I feel like the hot and hot and hot too are different to the phlegm."
 
@@ -606,7 +606,7 @@ text_array = [
     ""),
     # "...?"
 
-    ("諱先輩はちょっと墲わからない顔をした。†",
+    ("諱先輩はちょっとわからない顔をした。†",
     ""),
     # Senpai made a look on my face that was hard to understand.†
 
@@ -618,7 +618,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「だったら、薬の効果が消えたらその瞬間、戟酔いが覚めるみたいに、オレのこと好きで烽もなんで烽もなくなっち痰ゃうのか？」",
+    ("「だったら、薬の効果が消えたらその瞬間、酔いが覚めるみたいに、オレのこと好きでもなんでもなくなっち痰ゃうのか？」",
     ""),
     # "Then, as soon as the effects of the medicine disappear, I feel sick, and I like my hardcore, so why are they gone, and I feel like I'm not in hot water or hot water?"
 
@@ -650,7 +650,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「こんな薬がなくて烽も、諱先輩のこと、ずっと前から大好きだった」",
+    ("「こんな薬がなくても、諱先輩のこと、ずっと前から大好きだった」",
     ""),
     # "I've always loved Ebi, even though I didn't have this medicine."
 
@@ -690,7 +690,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("腕のなかで先輩は、小さく、で烽もはっきりとうなずいた。†",
+    ("腕のなかで先輩は、小さく、でもはっきりとうなずいた。†",
     ""),
     # Inside his arms, the senior was small and nodded clearly.†
 
@@ -698,11 +698,11 @@ text_array = [
     ""),
     # "Isaac Senpai..."
 
-    ("じーんと感動がこみ繧上げてきた。",
+    ("じーんと感動がこみ上げてきた。",
     ""),
     # I was filled with excitement and was filled with excitement.
 
-    ("だが、それ烽も束の間、諱先輩は『｢｢蜀大切なお友だちですから…』と続けた。",
+    ("だが、それも束の間、諱先輩は『｢｢蜀大切なお友だちですから…』と続けた。",
     ""),
     # However, even then, Senpai Koto continued, "I'm a precious friend of Shu..."
 
@@ -714,11 +714,11 @@ text_array = [
     ""),
     # "...What is it...hahaha.
 
-    ("先輩の言う好きって、そういう好きか。…そ、そうか、そうだよな。勘瘧違いしちまったぜ」",
+    ("先輩の言う好きって、そういう好きか。…そ、そうか、そうだよな。勘違いしちまったぜ」",
     ""),
     # Is that what seniors say about them like?...Oh, I see, that's right.I've got a misunderstanding."
 
-    ("乾いた笑いの繧後、がくっとうなだれたオレを見て、諱先輩は聞いてきた。†",
+    ("乾いた笑いの後、がくっとうなだれたオレを見て、諱先輩は聞いてきた。†",
     ""),
     # After a dry laugh, my senior asked when he saw my throbbing throbbing.†
 
@@ -734,7 +734,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「…えっ？	いま烽も抱き№合ってます…って？	そ、そうだよな。…じ痰ゃあ、あと、キスとかしたりさ。｢｢えっ！？	せ、諱先輩熹もオレとしたいって！？」",
+    ("「…えっ？	いまも抱き№合ってます…って？	そ、そうだよな。…じ痰ゃあ、あと、キスとかしたりさ。｢｢えっ！？	せ、諱先輩熹もオレとしたいって！？」",
     ""),
     # "...Huh? We're hugging you right now... What? That's right.... I'm sputum, and we also kissed him. "What?! She wants to be extremely excited, too, too, do you want to be extremely excited, too!?"
 
@@ -754,7 +754,7 @@ text_array = [
     ""),
     # Ko-kun.†
 
-    ("「…オ、オレの言ってるキスって、おｏ様があいさつで交甯わすようなキスじ痰ゃないんだぜ？	もっと深い関係の…男と翌女のキスのことだぜ？	ち痰ゃんと墲わかってる？」",
+    ("「…オ、オレの言ってるキスって、おｏ様があいさつで交甯わすようなキスじ痰ゃないんだぜ？	もっと深い関係の…男と翌女のキスのことだぜ？	ち痰ゃんとわかってる？」",
     ""),
     # "...Oh, the kiss I'm talking about is a kiss like O-sama's greeting, isn't it? It's a kiss between a man and the next woman who has a deeper relationship? Do you know that you're a kiss?!"
 
@@ -794,7 +794,7 @@ text_array = [
     ""),
     # I put my hand on my senior's cheeks.
 
-    ("柔迴らかく、すべすべしたほっぺただ。",
+    ("柔らかく、すべすべしたほっぺただ。",
     ""),
     # Her cheeks are soft and smooth.
 
@@ -914,7 +914,7 @@ text_array = [
     ""),
     # "…Yeah"
 
-    ("目を開けたオレは、うなる頭を揩持ち繧上げた。",
+    ("目を開けたオレは、うなる頭を持ち上げた。",
     ""),
     # My eyes opened, and my groaning head was raised.
 
@@ -982,7 +982,7 @@ text_array = [
     ""),
     # "Huh? Ah, I'm fine now...What about Senpai, you know?"
 
-    ("п私のほう烽も切齔れました…、と先輩。†",
+    ("п私のほうも切齔れました…、と先輩。†",
     ""),
     # My hot pot was also cut off... Senior.†
 
@@ -1022,7 +1022,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「｢｢いまで烽も、好き？」",
+    ("「｢｢いまでも、好き？」",
     ""),
     # "Do you like hot springs too?"
 
@@ -1066,11 +1066,11 @@ text_array = [
     ""),
     # It makes me tingle after the medicine I just said.†
 
-    ("「オレ焜もだぜ。",
+    ("「オレもだぜ。",
     ""),
     # "My heart is also very much.
 
-    ("先輩のこと、世界樺の誰謦より烽も好きだ」",
+    ("先輩のこと、世界樺の誰謦よりも好きだ」",
     ""),
     # I like my senior more than I like Hou more than the one from the World Bara."
 
@@ -1110,11 +1110,11 @@ text_array = [
     ""),
     # ……But.
 
-    ("わずかに不安な気搴持ち烽もあった。†",
+    ("わずかに不安な気搴持ちもあった。†",
     ""),
     # There were also some slightly uneasy hushed spirits.†
 
-    ("それはふたりを取闔り巻く世界の痰違い。",
+    ("それはふたりを取り巻く世界の痰違い。",
     ""),
     # It's a different kind of phlegm that surrounds the two of them.
 
@@ -1126,11 +1126,11 @@ text_array = [
     ""),
     # The only son of the poor family, the banquet and the singular family.
 
-    ("生まれ烽も痰違えば育ち烽も痰違う。",
+    ("生まれも痰違えば育ちも痰違う。",
     ""),
     # If the phlegm is born and the phlegm grows differently, and the phlegm is differently phlegm.
 
-    ("住んでる世界自体その烽ものが痰違うのだ。†",
+    ("住んでる世界自体そのものが痰違うのだ。†",
     ""),
     # The world you live in is different from the heat of the phlegm.†
 
@@ -1210,7 +1210,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「なに烽も…」",
+    ("「なにも…」",
     ""),
     # "What's hot..."
 
@@ -1234,7 +1234,7 @@ text_array = [
     ""),
     # "...He, hehe, I'm in trouble.
 
-    ("先輩にはどう烽も隠しごとができねー諱よな」†",
+    ("先輩にはどうも隠しごとができねー諱よな」†",
     ""),
     # Senpai can't hide anything even if you're hiding something, isn't it?」†
 
@@ -1270,7 +1270,7 @@ text_array = [
     ""),
     # "...?" †
 
-    ("「だって、ふつうに考えり痰ゃそうだ。身分の痰違いを墲わきまえってとこだ烽もんな」",
+    ("「だって、ふつうに考えり痰ゃそうだ。身分の痰違いをわきまえってとこだもんな」",
     ""),
     # "Because I think it's normal to think about it, b. Be aware that the difference in phlegm is different from the phlegm of status, b is b."
 
@@ -1294,7 +1294,7 @@ text_array = [
     ""),
     # As soon as I saw it, I was shocked.
 
-    ("轣らしく烽もない、なに繧弱気になってんだ。",
+    ("轣らしくもない、なに弱気になってんだ。",
     ""),
     # Like a car, there's no hot water, so what a weakness is it?
 
@@ -1314,7 +1314,7 @@ text_array = [
     ""),
     # At that time, my senior name called out to me.
 
-    ("いつ烽も通闥りの細い声だったけど、そのときばかりは、強く、はっきりと耳に届いた。†",
+    ("いつも通闥りの細い声だったけど、そのときばかりは、強く、はっきりと耳に届いた。†",
     ""),
     # The sound of Hot was always in a slender voice, but at that moment it reached my ears with a strong and clear effect.†
 
@@ -1334,7 +1334,7 @@ text_array = [
     ""),
     # My senior fell in love with me, and whispered, smoking my ears.†
 
-    ("「え？	儀式をして烽もいいですか…って？」",
+    ("「え？	儀式をしてもいいですか…って？」",
     ""),
     # "Huh? Can you hold a ritual and have a hot spring...?"
 
@@ -1354,7 +1354,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	ふたりの愛がま墲わりに祝沛福される魔法の儀式？」",
+    ("「えっ？	ふたりの愛がまわりに祝沛福される魔法の儀式？」",
     ""),
     # "Huh? A magical ritual where the two of them are blessed with love for the sake of their hearts?"
 
@@ -1410,7 +1410,7 @@ text_array = [
     ""),
     # I said.
 
-    ("ふたりの愛がま墲わりに祝沛福される儀式。",
+    ("ふたりの愛がまわりに祝沛福される儀式。",
     ""),
     # This ritual is celebrated in exchange for love between the two.
 
@@ -1426,15 +1426,15 @@ text_array = [
     ""),
     # A metallic B-magic circle shining with the faint light.
 
-    ("ふたりはそのｒ將央に立ち、閨手を取闔り№合い、同じ言葉を唱える。†",
+    ("ふたりはそのｒ將央に立ち、閨手を取り№合い、同じ言葉を唱える。†",
     ""),
     # The two stand at the center of the group, hold their hands together, and chant the same words.†
 
-    ("そして、言葉を唱え終尞わると同椏時に、針で指謗先に小さな揩傷をｍ闕り、おたがいの撃血を口にする。",
+    ("そして、言葉を唱え終尞わると同椏時に、針で指謗先に小さな傷をｍ闕り、おたがいの撃血を口にする。",
     ""),
     # Then, when the words are chanted and the other ends, he uses a needle to slander a small wound to the finger slander, and uses his own blood to salvage his stimulation.
 
-    ("いかに烽も魔蘭女って感じのダークな儀式だが、不思議と凾嫌な気はしなかった。†",
+    ("いかにも魔蘭女って感じのダークな儀式だが、不思議と凾嫌な気はしなかった。†",
     ""),
     # It's a dark ritual that looks like a b demon orchid woman, but strangely, I didn't feel uncomfortable.†
 
@@ -1442,23 +1442,23 @@ text_array = [
     ""),
     # I feel like I'm going to be sweet.
 
-    ("おたがいの指をく墲わえて、戟血をなめ№合う。",
+    ("おたがいの指をくわえて、血をなめ№合う。",
     ""),
     # He grabs your fingers and licks your blood and matches him.
 
-    ("その、なんとなくタブーを犯してるような感覚がなんと烽も官能的だった。†",
+    ("その、なんとなくタブーを犯してるような感覚がなんとも官能的だった。†",
     ""),
     # The feeling that he was somehow violating a taboo was so sensual.†
 
-    ("儀式の最穀だからか、諱先輩はいつ烽もより烽もさらにとんとした目をしてる。",
+    ("儀式の最穀だからか、諱先輩はいつもよりもさらにとんとした目をしてる。",
     ""),
     # Perhaps because it's the celebrity of the ritual, Senpai is always looking even more like hot and hot.
 
-    ("諱先輩の繧舌謳先がオレの指に触齔れている。",
+    ("諱先輩の舌謳先がオレの指に触齔れている。",
     ""),
     # Senpai's words are sung by my tongue and is touching my fingers.
 
-    ("オレの繧舌が、諱先輩の指謗先に触齔れている。†",
+    ("オレの舌が、諱先輩の指謗先に触齔れている。†",
     ""),
     # My ecstasy tongue is touched by the slander of my senior's fingers.†
 
@@ -1470,7 +1470,7 @@ text_array = [
     ""),
     # The passion for my senior is to be able to get a good bluff when he gets excited, filling up my fears in my life.†
 
-    ("愛する気搴持ちは揩理雷じ痰ゃない。",
+    ("愛する気搴持ちは理雷じ痰ゃない。",
     ""),
     # The person who loves him is not thunderous.
 
@@ -1482,7 +1482,7 @@ text_array = [
     ""),
     # I felt that strongly.†
 
-    ("たとえま墲わりがどう言おうと、どんな烽ものが待ちかまえていようと烽も、この熱い烽ものがあれば乗闖り越えられる。",
+    ("たとえまわりがどう言おうと、どんなものが待ちかまえていようとも、この熱いものがあれば乗闖り越えられる。",
     ""),
     # No matter what the heavens say, no matter what the heavens are waiting for, even if there is this hot spring, you can overcome them.
 
@@ -1490,7 +1490,7 @@ text_array = [
     ""),
     # That's how I felt.†
 
-    ("≠うそくの鰍炎に照迴らされた、オレンジ色の部屋のｒ。",
+    ("≠うそくの鰍炎に照らされた、オレンジ色の部屋のｒ。",
     ""),
     # The room is in a very rough-colored room, shining on the sarcasm of lies.
 
@@ -1502,7 +1502,7 @@ text_array = [
     ""),
     # Spring, summer, autumn...
 
-    ("季節は過ぎ獅去闍り、そして、冬｢｢。Å",
+    ("季節は過ぎ去闍り、そして、冬｢｢。Å",
     ""),
     # The season passes and goes by, and then the winter ".Å
 
@@ -1570,7 +1570,7 @@ text_array = [
     ""),
     # I laughed awkwardly.
 
-    ("「諱先輩はｗ栖瑞グループの御令酪だ烽もんな。お誕生﨎日なんか、そり痰ゃ盛蜷大なパーティするにｌまってるよな」",
+    ("「諱先輩はｗ栖瑞グループの御令酪だもんな。お誕生﨎日なんか、そり痰ゃ盛蜷大なパーティするにｌまってるよな」",
     ""),
     # "Senior Senpai is lol, the slut of the slut of the slut. On the day of his birthday, he's been waiting for a huge party."
 
@@ -1594,7 +1594,7 @@ text_array = [
     ""),
     # Slurp phlegm!”
 
-    ("オレは笑迴顔で手を振って、もとｗた廊下を戻っていく。†",
+    ("オレは笑顔で手を振って、もとｗた廊下を戻っていく。†",
     ""),
     # I laughed and waved my hand and headed back down the hallway where I had already laughed.†
 
@@ -1638,7 +1638,7 @@ text_array = [
     ""),
     # Ah, the retreat window.
 
-    ("せっかく、諱先輩とパーティのためにって、バイトして、せっせこと烽金刹貯めてたんだけどなあ。†",
+    ("せっかく、諱先輩とパーティのためにって、バイトして、せっせこと金刹貯めてたんだけどなあ。†",
     ""),
     # I had to work part-time with my senior member for a party, and had to save up the Kogen Showa era.†
 
@@ -1646,7 +1646,7 @@ text_array = [
     ""),
     # It's phlegm.
 
-    ("今度この烽金で、諱先輩になにかプレゼントをモ買ってってやう。",
+    ("今度この金で、諱先輩になにかプレゼントをモ買ってってやう。",
     ""),
     # Next time, I'll buy something exciting from my senior, using this hot money.
 
@@ -1658,15 +1658,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("あ〜あ、なんでオレは、£流家薗に生まれちまったのかねえ。",
+    ("あ〜あ、なんでオレは、流家薗に生まれちまったのかねえ。",
     ""),
-    # Ah, I wonder why I was born into a £ryo-ryo-yazono.
+    # Ah, I wonder why I was born into a ryo-ryo-yazono.
 
     ("＠栖瑞家と対剔等なくらいの大熨金搴持ちの家に生まれたかったぜ。†",
     ""),
     # @I wanted to be born into a family with a large sum of money that would rival the Suzui family.†
 
-    ("＠栖瑞家以繹上の烽金搴持ちか。",
+    ("＠栖瑞家以繹上の金搴持ちか。",
     ""),
     # @Does he have the money he has over the Suzui family?
 
@@ -1674,7 +1674,7 @@ text_array = [
     ""),
     # Maybe I'll do it myself someday.
 
-    ("蛛大学で経済で烽も学んで、この冾日本を影から支配するくらいに。",
+    ("蛛大学で経済でも学んで、この冾日本を影から支配するくらいに。",
     ""),
     # He also studied economics at the University of the University of the University of America, and now he controls Japan from the shadows.
 
@@ -1722,7 +1722,7 @@ text_array = [
     ""),
     # Take the receiver.†
 
-    ("「はい、です。…もし烽もし？」",
+    ("「はい、です。…もしもし？」",
     ""),
     # "Yes... Could it be hot?"
 
@@ -1730,11 +1730,11 @@ text_array = [
     ""),
     # "…Mr. Miss?"
 
-    ("電話から聞こえてきたのは、細い、まるでいまに烽も消え入闢りそうな翌女の子の声。",
+    ("電話から聞こえてきたのは、細い、まるでいまにも消え入闢りそうな翌女の子の声。",
     ""),
     # What I heard from the phone was the thin, almost like the next girl's voice that seemed to disappear from the moment.
 
-    ("名譁乗迴らなくて烽も墲わかる。",
+    ("名譁乗らなくてもわかる。",
     ""),
     # You can understand the famous ones because you don't get the chance to get the stove.
 
@@ -1742,7 +1742,7 @@ text_array = [
     ""),
     # Without thinking about it, my eyes widened.†
 
-    ("「どうした？	パーティは盛關り繧上がってる？」",
+    ("「どうした？	パーティは盛關り上がってる？」",
     ""),
     # "What's wrong? Is the party going up soaring?"
 
@@ -1770,9 +1770,9 @@ text_array = [
     ""),
     # Gachaya.†
 
-    ("オレは叩きつけるように受話嶸器を置くと、あ墲わてて靴を嘯履き、£のみｒのまま、玄関を飛び出した。‡",
+    ("オレは叩きつけるように受話嶸器を置くと、あわてて靴を嘯履き、のみｒのまま、玄関を飛び出した。‡",
     ""),
-    # I placed the receiver as if slamming me, then wore my shoes on, and ran out of the front door, leaving only £r.‡
+    # I placed the receiver as if slamming me, then wore my shoes on, and ran out of the front door, leaving only r.‡
 
     ("うおっ、寒っ！",
     ""),
@@ -1782,7 +1782,7 @@ text_array = [
     ""),
     # Oh, no.
 
-    ("やっぱり繧上薯をｒてこよう。Å",
+    ("やっぱり上薯をｒてこよう。Å",
     ""),
     # After all, let's start with potatoes on top of the rice crackers.Å
 
@@ -1802,7 +1802,7 @@ text_array = [
     ""),
     # There was no one in the park...it seemed like a name for himself.
 
-    ("で烽も、ここには｢｢。†",
+    ("でも、ここには｢｢。†",
     ""),
     # And here, there's a ".†
 
@@ -1850,7 +1850,7 @@ text_array = [
     ""),
     # ""Eh, what?! You left the party lol!? Is it okay? Because it's the lead role of the slut right now?" †
 
-    ("だが、諱先輩はなに烽も言甯わず、ただ、オレに近寄驫ると、とまどうオレの耳燻もとで、",
+    ("だが、諱先輩はなにも言甯わず、ただ、オレに近寄驫ると、とまどうオレの耳燻もとで、",
     ""),
     # However, Senpai Kotoshi didn't say anything about the hot topic, but when I approached my guts, I was able to smoke my guts.
 
@@ -1862,7 +1862,7 @@ text_array = [
     ""),
     # He gently whispered.†
 
-    ("「えっ？	…盛蜷大なパーティ諠より烽も、オレとふたりっきりでいれたほうがいいって？」",
+    ("「えっ？	…盛蜷大なパーティ諠よりも、オレとふたりっきりでいれたほうがいいって？」",
     ""),
     # "Huh? ...I thought it would be better to just join me alone, rather than the party that Morina was a huge fan?"
 
@@ -1890,7 +1890,7 @@ text_array = [
     ""),
     # "...Oh, you idiot, dressed like this cold. My shoulders are all getting cold."
 
-    ("オレはうるんだ目をぬぐい、諱先輩に自分の繧上薯を羽織逅らせると、背白からその細い肩を抱き締めた。†",
+    ("オレはうるんだ目をぬぐい、諱先輩に自分の上薯を羽織逅らせると、背白からその細い肩を抱き締めた。†",
     ""),
     # My eyes were shaking, and I let my senior name wear a potato over my face, and then hugged his thin shoulders from behind.†
 
@@ -1898,7 +1898,7 @@ text_array = [
     ""),
     # A quiet park at night, with no one there.
 
-    ("や墲わらかなｐ竦銀萩灯の光が、オレたちふたりを照迴らしている。†",
+    ("やわらかなｐ竦銀萩灯の光が、オレたちふたりを照らしている。†",
     ""),
     # The light from the soft silver hagi lamps is illuminating the two of us.†
 
@@ -1906,7 +1906,7 @@ text_array = [
     ""),
     # Senpai gently stacks his own hands on my arms as I hugged him.
 
-    ("きれいにとかれた浮黒髪から、いつ烽ものあのいい匂いがした。",
+    ("きれいにとかれた浮黒髪から、いつものあのいい匂いがした。",
     ""),
     # Her beautifully cursed black hair gave me the wonderful smell of hot water.
 
@@ -1914,11 +1914,11 @@ text_array = [
     ""),
     # The breath of my senior.
 
-    ("開いた胸煖もとがゆったりと繧上下していた。†",
+    ("開いた胸もとがゆったりと上下していた。†",
     ""),
     # The open chest hut was slowly moving up and down.†
 
-    ("多分、しかられるのを覚蜉悟で、このオレにｉいにｗてくれたんだう。",
+    ("多分、しかられるのを覚蜉悟で、このオレにいにｗてくれたんだう。",
     ""),
     # I think he was hoping to be scammed, and he gave me this crazy lol.
 
@@ -1934,11 +1934,11 @@ text_array = [
     ""),
     # My heart leaned over my cheeks and whispered.†
 
-    ("言葉燉もなく抱き締め、冷えた体にぬく烽もりを伝える。",
+    ("言葉燉もなく抱き締め、冷えた体にぬくもりを伝える。",
     ""),
     # He hugged her without any words, conveying warmth to her cold body.
 
-    ("オレのぬく烽もりを…。†",
+    ("オレのぬくもりを…。†",
     ""),
     # My warm and warm spring...†
 
@@ -1966,11 +1966,11 @@ text_array = [
     ""),
     # That still doesn't even make an impression.†
 
-    ("だけど、それで烽も強く心に思う。",
+    ("だけど、それでも強く心に思う。",
     ""),
     # But that really makes me feel that way.
 
-    ("どんなに厳しい現実が待ち受けようと烽も、諱先輩とふたりなら必ず乗闖り越えてみせると。",
+    ("どんなに厳しい現実が待ち受けようとも、諱先輩とふたりなら必ず乗闖り越えてみせると。",
     ""),
     # No matter how harsh the reality awaits you, even if you are both Senpai, you will definitely try to overcome it.
 
@@ -1978,7 +1978,7 @@ text_array = [
     ""),
     # I have to use my shoulders as I hugged him and let go of my hand.†
 
-    ("諱先輩はいつ烽もオレに勇気をくれる。",
+    ("諱先輩はいつもオレに勇気をくれる。",
     ""),
     # Senpai always gives me courage.
 

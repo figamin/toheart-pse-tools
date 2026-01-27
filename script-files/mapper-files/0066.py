@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "Ou"†
 
-    ("♂史と垣本。",
+    ("雅史と垣本。",
     ""),
     # Male and Kakimoto.
 
-    ("サッカー部同士、部賦にお烽もむく。",
+    ("サッカー部同士、部賦におもむく。",
     ""),
     # The soccer club also plays hot springs to the club.
 
-    ("オレ焜も移動するか。†",
+    ("オレも移動するか。†",
     ""),
     # Will my ramblings also move?†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # Come to think of it, Shiho had made an arrangement to go to the arcade.
 
-    ("すっぽかすと繧後でうるさいだうな。",
+    ("すっぽかすと後でうるさいだうな。",
     ""),
     # When I sniff it, it gets loud after it's gone.
 
-    ("すっぽかさずと烽も、それはそれで、うるさそうだな。",
+    ("すっぽかさずとも、それはそれで、うるさそうだな。",
     ""),
     # The hot water doesn't seem to be too loud, though.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # What should I do?†
 
-    ("だらだらと廊下を烽歩く。",
+    ("だらだらと廊下を歩く。",
     ""),
     # I walked around the hallways lazily.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # The students who have returned home are completely different.†
 
-    ("知った顔にで烽も出初えればいいが、そんなこと烽もなく、階段の前にｗた。†",
+    ("知った顔にでも出初えればいいが、そんなこともなく、階段の前にｗた。†",
     ""),
     # I wish I could get some hot springs on my familiar face, but there was no hot spring, so I laughed at him in front of the stairs.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("クラスの男子が手を繧上げて、玄関から出て行った。†",
+    ("クラスの男子が手を上げて、玄関から出て行った。†",
     ""),
     # The boys at the Crown Rath lifted their hands and left the front door.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # I'm going back on my own.
 
-    ("意識して考えると寂しい烽ものがあるな。",
+    ("意識して考えると寂しいものがあるな。",
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Shall I summarize it now?
 
-    ("ひとり暮逡らし烽も大変だぜ。◯",
+    ("ひとり暮逡らしも大変だぜ。◯",
     ""),
     # It's tough to have fun living alone.◯
 

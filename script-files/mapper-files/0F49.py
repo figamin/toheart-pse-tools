@@ -2,11 +2,11 @@
 # Source file: 0F49.txt
 
 text_array = [
-    ("（３獅月２９冾日	土）閨（堰ラジオ	４回目）閨（堰ラジオのためにこの夜はある）†",
+    ("（３月２９冾日	土）閨（堰ラジオ	４回目）閨（堰ラジオのためにこの夜はある）",
     ""),
-    # (Saturday, March 29th) Lee (4th Weir Radio) Lee (There is this night for the weir radio) †
+    # (Saturday, March 29th) Lee (4th Weir Radio) Lee (There is this night for the weir radio) 
 
-    ("３獅月２９冾日、驕夜。",
+    ("３月２９冾日、驕夜。",
     ""),
     # The 29th day of the 3rd month of the 29th day of the silence, a lament night.
 

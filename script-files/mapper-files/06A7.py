@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "What?!"
 
-    ("マルチは何がなんだか墲わからない様子で、そんな声を繧上げた。",
+    ("マルチは何がなんだかわからない様子で、そんな声を上げた。",
     ""),
     # Makruchi seemed unsure of what was going on, and he let out a voice like that.
 
-    ("堰ラケットを構えたまま、ピクリと烽も動いていない。†",
+    ("堰ラケットを構えたまま、ピクリとも動いていない。†",
     ""),
     # The dam racket was still in place, but the heat was not moving.†
 
@@ -34,11 +34,11 @@ text_array = [
     ""),
     # "Look, there's a banquet in front of the finish line!"
 
-    ("オレは汲結構マジだった。",
+    ("オレは結構マジだった。",
     ""),
     # I was pretty serious about my hard work.
 
-    ("閨手加減なしで本気で墲戦う…それが鰍相闡手への礼儀だ。†",
+    ("閨手加減なしで本気で戦う…それが鰍相闡手への礼儀だ。†",
     ""),
     # They fight seriously without any effort...that's a courtesy to the monks.†
 

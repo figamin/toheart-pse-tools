@@ -10,7 +10,7 @@ text_array = [
     ""),
     # The 5th gaze time is closed.
 
-    ("めったに通ったりしないクラブハウス前で、ばったりとｗ栖瑞謳先輩にｉった。",
+    ("めったに通ったりしないクラブハウス前で、ばったりとｗ栖瑞謳先輩にった。",
     ""),
     # In front of the love house where I rarely go to, I ran into lol Suzumi-san.
 
@@ -22,7 +22,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え、こんにちはって？	おう、こんち墲わ。こんなとこでなにやってんの？	まだ冾放課繪後じ痰ゃないぜ？」†",
+    ("「え、こんにちはって？	おう、こんちわ。こんなとこでなにやってんの？	まだ冾放課繪後じ痰ゃないぜ？」†",
     ""),
     # "Hello? Oh, hello. What are you doing about this? You still have to sputum after the school is over?"
 

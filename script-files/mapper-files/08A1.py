@@ -2,7 +2,7 @@
 # Source file: 08A1.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	１階	３／１３）閨（廊下２）†",
+    ("（レミィ	回秤数イベント	１階	３／１３）閨（廊下２）†",
     ""),
     # (Game Remy Scale Event 1st floor, 3/13) (Corridor 2)†
 

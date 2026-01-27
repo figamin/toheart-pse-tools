@@ -2,9 +2,9 @@
 # Source file: 0281.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ１）閨（廊下１）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ１）閨（廊下１）",
     ""),
-    # (Seri° Kaku Scales Event 2F LV1)Seri (Carrior 1)†
+    # (Seri° Kaku Scales Event 2F LV1)Seri (Carrior 1)
 
     ("廊下に出髀ると、そこには意外な人がいた。",
     ""),
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # @Suizui family's official residence @Suizui Seri °Ka.
 
-    ("こんなとこで、なにやってんだう。†",
+    ("こんなとこで、なにやってんだう。",
     ""),
-    # What are you doing in this situation?†
+    # What are you doing in this situation?
 
-    ("「諱よお、諱先輩、こんち墲わ」",
+    ("「諱よお、諱先輩、こんちわ」",
     ""),
     # "My name is, my name is, my name is, my name is, my name is, goodbye."
 
-    ("諱先輩の前に立ち、オレは笑迴顔で言った。",
+    ("諱先輩の前に立ち、オレは笑顔で言った。",
     ""),
     # I stood in front of my senior, and said with a laughing face.
 
@@ -34,19 +34,19 @@ text_array = [
     ""),
     # Senpai nodded with Ko-kun.
 
-    ("梶相変﨑わらず、独特な雰囲気を揩持った人だな。",
+    ("梶相変﨑わらず、独特な雰囲気を持った人だな。",
     ""),
     # Kaji Ai Henzaki is not a man with a unique atmosphere.
 
-    ("どう烽もｉ話のテンポがちょっとズレ驛る。†",
+    ("どうも話のテンポがちょっとズレ驛る。",
     ""),
-    # The tempo of the story is also very loud.†
+    # The tempo of the story is also very loud.
 
     ("「で、オレになんの用？」",
     ""),
     # "So, what are you using for me?"
 
-    ("聞くと、諱先輩は嘯答えるより先に、なにやら手に揩持っていた烽ものを差し出して見せた。",
+    ("聞くと、諱先輩は嘯答えるより先に、なにやら手に持っていたものを差し出して見せた。",
     ""),
     # When I asked, before I could answer, Senpai Koto offered me something I had been tampering with, or something I had in my hand, and showed me.
 
@@ -54,21 +54,21 @@ text_array = [
     ""),
     # "it is…?"
 
-    ("それはあやしい絵柄が描かれたカードの束だった。†",
+    ("それはあやしい絵柄が描かれたカードの束だった。",
     ""),
-    # It was a bunch of cards with tampering illustrations.†
+    # It was a bunch of cards with tampering illustrations.
 
     ("トランプ…じ痰ゃない。",
     ""),
     # A banquet lamp... there's no phlegm.
 
-    ("閨占いに使う烽ものらしいけど、タ鴻ロットってやつかな。",
+    ("閨占いに使うものらしいけど、タ鴻ロットってやつかな。",
     ""),
     # Apparently it's a hot dish used in fortune telling, but I guess Taholot is a tampering thing.
 
-    ("ずいぶん本格的な烽もののようだけど。†",
+    ("ずいぶん本格的なもののようだけど。",
     ""),
-    # It seems to be quite a real hot dish.†
+    # It seems to be quite a real hot dish.
 
     ("「………」",
     "…"),
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # Senpai nodded.
 
-    ("なんでいきなり占いなんか…？†",
+    ("なんでいきなり占いなんか…？",
     ""),
-    # Why a sudden fortune telling...?†
+    # Why a sudden fortune telling...?
 
     ("うーん、どうしようか？",
     ""),
     # Hmm, what should I do?
 
-    ("Ａ	じ痰ゃあ、閨占って烽もらおうか。閨",
+    ("Ａ	じ痰ゃあ、閨占ってもらおうか。閨",
     ""),
     # A: It's a phlegm, shall we give you a fortune telling?Relax
 

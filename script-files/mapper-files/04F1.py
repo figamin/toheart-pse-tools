@@ -2,9 +2,9 @@
 # Source file: 04F1.txt
 
 text_array = [
-    ("（志保	好感度型回秤数イベントＰＳ）閨（選択綜	行く）†",
+    ("（志保	好感度型回秤数イベントＰＳ）閨（選択綜	行く）",
     ""),
-    # (Shiho's Likeability Type Scales Event PS) (Select So Go) †
+    # (Shiho's Likeability Type Scales Event PS) (Select So Go) 
 
     ("「じ痰ゃ行くか」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # What about the wait-up sputum?Is it okay in front of the station?”
 
-    ("「ああ。何梔時から行くんだ？」†",
+    ("「ああ。何梔時から行くんだ？」",
     ""),
     # "Yeah. How long are you going to start?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "I understand."
 
-    ("「んじ痰ゃね〜」†",
+    ("「んじ痰ゃね〜」",
     ""),
     # "You're so phlegm~"
 

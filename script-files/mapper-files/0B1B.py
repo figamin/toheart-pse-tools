@@ -2,7 +2,7 @@
 # Source file: 0B1B.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント１）閨（堰負けた繧後）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント１）閨（堰負けた後）†",
     ""),
     # (Aya∴Ka challenges Aya∴Ka, event 1 in the balance (after the weir is lost)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Ah, that much..."
 
-    ("オレは、＜ッと、立ち繧上がった。",
+    ("オレは、＜ッと、立ち上がった。",
     ""),
     # My heart rose to my feet.
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # The moment I stood up, I felt like the world was in shaking light.
 
-    ("本末当はかなりのダ＜メージが残っているが、意地で烽も顔には出すまいと思った。†",
+    ("本末当はかなりのダ＜メージが残っているが、意地でも顔には出すまいと思った。†",
     ""),
     # There was a lot of bad news left in the end, but I was so stubborn that I wouldn't show any hot water on my face.†
 
-    ("「という墲わけで、セリオ。判阡定は？」",
+    ("「というわけで、セリオ。判阡定は？」",
     ""),
     # "So, Seragata Rio. What about the judgement?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "...I'm so sad" †
 
-    ("「やっぱり薰基本がなってないと全然ダ＜メね。いまならまだ、氈勝縁負自体をチャャラってことにして烽もいい墲わよ」",
+    ("「やっぱり薰基本がなってないと全然ダ＜メね。いまならまだ、氈勝縁負自体をチャャラってことにしてもいいわよ」",
     ""),
     # "After all, if you don't have the basics, it's completely useless. At the moment, the winner itself is still a good banquet and the hot weather is also good."
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # To be honest, I don't like it...†
 
-    ("「こんなことで格好つけて烽も意味ねーしな。くやしいけど、梶頼む」",
+    ("「こんなことで格好つけても意味ねーしな。くやしいけど、梶頼む」",
     ""),
     # "It's no point in dressing up like this and roasting. It's a bit of a pain, but please Kaji."
 
-    ("「ふふふっ、素直じ痰ゃない墲わね」†",
+    ("「ふふふっ、素直じ痰ゃないわね」†",
     ""),
     # "Hehehe, you're not phlegm-free" †
 
-    ("その繧後オレは、﨟基本のパンチの打ちかたを綾∴香に教寀わった。",
+    ("その後オレは、﨟基本のパンチの打ちかたを綾∴香に教寀わった。",
     ""),
     # After that, I taught Aya∴Ka about how to hit the basic punches.
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # Without any effort, I'll have a relaxing banquet.
 
-    ("″會高ｉ]させ、体重を繧後撃から前足へ移動させて、打つ。",
+    ("″會高]させ、体重を後撃から前足へ移動させて、打つ。",
     ""),
     # "Highly" and move your weight from the after-stroke to your front paw, and hit.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # Jab, straight rate, hook.†
 
-    ("「いつで烽も鰍相闡手になってあげる墲わよ。『本気になったら怖い』ってセリフ、ち痰ゃんと証明してみせてよね」",
+    ("「いつでも鰍相闡手になってあげるわよ。『本気になったら怖い』ってセリフ、ち痰ゃんと証明してみせてよね」",
     ""),
     # "When will you be able to get the Hot to become a lover of the hana. You should prove that you're a stimulating person, "If you get serious, you'll be scared."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "...Damn, look at it b"
 
-    ("「冝期待してる墲わ」",
+    ("「冝期待してるわ」",
     ""),
     # "I'm looking forward to it."
 

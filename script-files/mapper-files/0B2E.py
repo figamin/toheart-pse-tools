@@ -2,15 +2,15 @@
 # Source file: 0B2E.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４）閨（選択綜Ｂ	遠莱距離嵭戦	の続き）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４）閨（選択綜Ｂ	遠莱距離嵭戦	の続き）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 4 of the balance (continued from Chosen Sou B, Torai Dance Battle)†
+    # (Aya∴Ka challenges Aya∴Ka, event 4 of the balance (continued from Chosen Sou B, Torai Dance Battle)
 
     ("遠莱距離嵭戦は高剄等なテクニックを要する。",
     ""),
     # The battle for the Torai distance requires techniques such as high-speed b.
 
-    ("テクニックじ痰ゃ綾∴香に及ぶはず烽もない。",
+    ("テクニックじ痰ゃ綾∴香に及ぶはずもない。",
     ""),
     # Techniques include phlegm, but it's not like it could reach the scent of ya.
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Then there's one answer.
 
-    ("接近寀戦しかない。†",
+    ("接近寀戦しかない。",
     ""),
-    # There's only a close fight.†
+    # There's only a close fight.
 
     ("だが、それが綾∴香の狙いだ。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # I'm sure my fierce thought that way and invited me to take on a close fight.
 
-    ("わざ墲わざ罠にハマ驛るつ烽もりはない。†",
+    ("わざわざ罠にハマ驛るつもりはない。",
     ""),
-    # There is no need to fall into traps on purpose.†
+    # There is no need to fall into traps on purpose.
 
     ("ここからは遠莱距離嵭戦だ。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # For me, it is necessary to maintain a bad relationship for my viewing and for my friends.
 
-    ("テクニックは綾∴香のほうがはるかに繧上だが、こっちは一発又当てれば勝ちという、ハンデがある。†",
+    ("テクニックは綾∴香のほうがはるかに上だが、こっちは一発又当てれば勝ちという、ハンデがある。",
     ""),
-    # The technique is much better for Aya∴Ka, but this one has the handicap, where you can win if you hit it again.†
+    # The technique is much better for Aya∴Ka, but this one has the handicap, where you can win if you hit it again.
 
     ("スパンッ！",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Yes.
 
-    ("梶リードジャャブを烽もらってしまった。",
+    ("梶リードジャャブをもらってしまった。",
     ""),
     # I got a kaji lead japanese.
 
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # There were no spurts, it was a relief.
 
-    ("♀ない、♀ない、禔油断したぜ。†",
+    ("♀ない、♀ない、禔油断したぜ。",
     ""),
-    # There's no female, there's no female, I let my guard down.†
+    # There's no female, there's no female, I let my guard down.
 
     ("オレのジャャブ！",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # Shah!
 
-    ("空振關り。†",
+    ("空振關り。",
     ""),
-    # Air-shift.†
+    # Air-shift.
 
     ("綾∴香のジャャブ！",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # Spam!
 
-    ("命亦。†",
+    ("命亦。",
     ""),
-    # Life is also.†
+    # Life is also.
 
     ("オレのジャャブ！",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # Shah!
 
-    ("空振關り。†",
+    ("空振關り。",
     ""),
-    # Air-shift.†
+    # Air-shift.
 
     ("綾∴香のジャャブ！",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # Spam!
 
-    ("命亦。†",
+    ("命亦。",
     ""),
-    # Life is also.†
+    # Life is also.
 
     ("綾∴香のジャャブ！",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # The battle for the Torai Dance is unwind.
 
-    ("やっぱり接近寀戦しか｢｢。†",
+    ("やっぱり接近寀戦しか｢｢。",
     ""),
-    # After all, the only thing I can do is get close to.†
+    # After all, the only thing I can do is get close to.
 
     ("「うっ！？」",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # That's amazing.
 
-    ("と思った桙時点で、時すでに遅し。†",
+    ("と思った桙時点で、時すでに遅し。",
     ""),
-    # As I thought so, it was too late.†
+    # As I thought so, it was too late.
 
     ("スパアアアァァァーーーーーーーーンッ！",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # Aya∴Ka's intense right rating gets into Amo Koro.
 
-    ("蛛大きくよけるオレ。†",
+    ("蛛大きくよけるオレ。",
     ""),
-    # My big bang is so big.†
+    # My big bang is so big.
 
     ("そこに、",
     ""),
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # Combination Sydong's three hits hit Kugata Lean.
 
-    ("世界が回驩る。†",
+    ("世界が回驩る。",
     ""),
-    # The world is resurrected.†
+    # The world is resurrected.
 
     ("・",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("くそー…。",
     ""),
@@ -238,13 +238,13 @@ text_array = [
     ""),
     # I got hit with it.
 
-    ("またして烽も。",
+    ("またしても。",
     ""),
     # And then there's hot spring again.
 
-    ("前半は良かったのに、縺後半は綾∴香の手の繧上で踊逞らされた感じだ。†",
+    ("前半は良かったのに、縺後半は綾∴香の手の上で踊逞らされた感じだ。",
     ""),
-    # The first half was good, but the second half felt like he was dancing and thrilled over Aya Kaoru's hands.†
+    # The first half was good, but the second half felt like he was dancing and thrilled over Aya Kaoru's hands.
 
     ("「どう？」",
     ""),
@@ -262,32 +262,32 @@ text_array = [
     ""),
     # "Well, somehow..."
 
-    ("オレは頭を振關りながら体を起こした。†",
+    ("オレは頭を振關りながら体を起こした。",
     ""),
-    # My head shook my head and stood up.†
+    # My head shook my head and stood up.
 
     ("「いて…」",
     ""),
     # "Stay..."
 
-    ("「誘いに乗迴らなかったのは正解だけど、遠莱距離嵭戦につき№合ったのは失敗ね。",
+    ("「誘いに乗らなかったのは正解だけど、遠莱距離嵭戦につき№合ったのは失敗ね。",
     ""),
     # "It's correct to not take the invitation, but it's a mistake to get the match against Torai Dance.
 
-    ("遠莱距離はとくに技術の差が烽ものを言うから」",
+    ("遠莱距離はとくに技術の差がものを言うから」",
     ""),
     # The difference in technology is especially true in terms of distance."
 
-    ("くすっと笑って綾∴香が言った。†",
+    ("くすっと笑って綾∴香が言った。",
     ""),
-    # Aya∴Ka said with a chuckle.†
+    # Aya∴Ka said with a chuckle.
 
     ("「遠莱距離で優位に立ち、焦って飛び桙込んできた鰍相闡手を、逆に接近寀戦で返阨り討ちにするのがр私のフォームなの」",
     ""),
     # "My form is to get the advantage at distance distance and fire in a panic and defeat the snake-related fighters in close combat."
 
-    ("「…簡単に言ってくれるぜ」†",
+    ("「…簡単に言ってくれるぜ」",
     ""),
-    # "...I'll say it briefly" †
+    # "...I'll say it briefly" 
 
 ]

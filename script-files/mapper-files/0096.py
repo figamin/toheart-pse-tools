@@ -2,7 +2,7 @@
 # Source file: 0096.txt
 
 text_array = [
-    ("（冝期槙末テスト	５冾日目最終叝日）閨（教室２休み桙時間）†",
+    ("（冝期槙末テスト	５冾日目最終叝日）閨（教室２休み桙時間）",
     ""),
     # (The last day of the 5th day of the final exam for the 5th day of the class) (2 hours of the class break)
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # The only subject is Cao Guang.
 
-    ("早国鼾語は苦闍手意識がないぶん気が楽だけど、結果を見てがく然とする場㍼合が多々ある。†",
+    ("早国鼾語は苦闍手意識がないぶん気が楽だけど、結果を見てがく然とする場㍼合が多々ある。",
     ""),
-    # It's easy to feel at ease because there's no sense of hardship in Hayashi Gang, but there are many situations where you can't help but look at the results.†
+    # It's easy to feel at ease because there's no sense of hardship in Hayashi Gang, but there are many situations where you can't help but look at the results.
 
     ("チャャイムの№合図で、みんな一斉に問題用落を裏返す。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # The good thing about Cao Guo Gong is that there is no b-throat b-throat b-throat when you look through it.
 
-    ("まずは漢嚏字の読み曹書きとかで、確実に点を稼いでおこう。†",
+    ("まずは漢嚏字の読み曹書きとかで、確実に点を稼いでおこう。",
     ""),
-    # First, make sure to earn points by reading the Han Yu-ji characters.†
+    # First, make sure to earn points by reading the Han Yu-ji characters.
 
     ("・",
     ""),
@@ -50,21 +50,21 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「ふぁ〜あ…」",
     ""),
     # "Ahhh..."
 
-    ("諱取闔りあえず、終尞わった。",
+    ("諱取りあえず、終尞わった。",
     ""),
     # I couldn't get a message and it ended.
 
-    ("これでようやく、全咜日程終了…っと。†",
+    ("これでようやく、全咜日程終了…っと。",
     ""),
-    # This is how it's all about to end, and the whole story schedule is over...†
+    # This is how it's all about to end, and the whole story schedule is over...
 
     ("「どうだった？	ち痰ゃん」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Are you not confident?"
 
-    ("心配そうな顔で聞いてくる。†",
+    ("心配そうな顔で聞いてくる。",
     ""),
-    # He asks with a worried look on his face.†
+    # He asks with a worried look on his face.
 
     ("「…そうだなあ、正直なとこ」",
     ""),

@@ -2,11 +2,11 @@
 # Source file: 07F7.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	いっしょに帰汲うぜ）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	いっしょに帰うぜ）†",
     ""),
     # (Kotone, the balance event PS) (Select So, I'll return to the simulator)†
 
-    ("「いっしょに帰汲うぜ」",
+    ("「いっしょに帰うぜ」",
     ""),
     # "I'll return to the ephemeral."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("ふたりで烽歩いてると、琴音ち痰ゃんが小さな声をあげた。",
+    ("ふたりで歩いてると、琴音ち痰ゃんが小さな声をあげた。",
     ""),
     # As the two of them were walking around together, Kotone Chisho-yan let out a small cry.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("琴音ち痰ゃんの見てる方に、なるほど、秩白地にモ茶色のぶちの入った猫が烽歩いている。",
+    ("琴音ち痰ゃんの見てる方に、なるほど、秩白地にモ茶色のぶちの入った猫が歩いている。",
     ""),
     # As Fukukata watches Kotone Chisho-yan, I see, a cat with brown thorns on a white background is walking around.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # I know of a spell that cats like.It's probably because of that."
 
-    ("猫をやさしく抱き繧上げると、琴音ち痰ゃんは猫にほおずりした。",
+    ("猫をやさしく抱き上げると、琴音ち痰ゃんは猫にほおずりした。",
     ""),
     # As he gently hugged the cat and lifted it up, Kotone Chisho-chan squealed at the cat.
 
-    ("「おまじない？	なにそれ、そんな烽もんあるのか？」",
+    ("「おまじない？	なにそれ、そんなもんあるのか？」",
     ""),
     # "A spell? What, is there such a hot spring?"
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # Well, in any case, Kotone Chisho-chan seems to be a huge fan of cats.
 
-    ("Ａ	オレ焜も猫が好き。閨",
+    ("Ａ	オレも猫が好き。閨",
     ""),
     # A. I also like cats.Relax
 

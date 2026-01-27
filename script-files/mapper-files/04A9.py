@@ -2,9 +2,9 @@
 # Source file: 04A9.txt
 
 text_array = [
-    ("（志保	回秤数イベント	帰闍り道２）閨（３／１３固定）閨（校蜊門２）†",
+    ("（志保	回秤数イベント	帰闍り道２）閨（３／１３固定）閨（校門２）",
     ""),
-    # (Shiho Scales Event Return Road 2) (3/13) (Standard) (School Gate 2)†
+    # (Shiho Scales Event Return Road 2) (3/13) (Standard) (School Gate 2)
 
     ("「諱よお、志保」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Hey, it's finally time for the final exams for the year from Mingshun."
 
-    ("志保はあまり楽しくない話陂題を切關り出してきた。†",
+    ("志保はあまり楽しくない話陂題を切關り出してきた。",
     ""),
-    # Shiho has come up with some less fun stories.†
+    # Shiho has come up with some less fun stories.
 
     ("オレの対梠応は｢｢。",
     ""),

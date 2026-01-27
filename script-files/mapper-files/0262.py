@@ -2,11 +2,11 @@
 # Source file: 0262.txt
 
 text_array = [
-    ("（ＶＳイベント	芹°香ＶＳマルチ）閨（選択綜	ａ魔法に鰍頼髣る）†",
+    ("（ＶＳイベント	芹°香ＶＳマルチ）閨（選択綜	ａ魔法に鰍頼髣る）",
     ""),
-    # (VS Event Seri°Ka VS Makkuruchi) Li (Select So A to rely on the magic) †
+    # (VS Event Seri°Ka VS Makkuruchi) Li (Select So A to rely on the magic) 
 
-    ("「今回は、ａ魔法の力を借闔りることにしよう」",
+    ("「今回は、ａ魔法の力を借りることにしよう」",
     ""),
     # "This time, let's borrow the power of a magic."
 
@@ -18,21 +18,21 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレが言うと、諱先輩はこくんとうなずいた。†",
+    ("オレが言うと、諱先輩はこくんとうなずいた。",
     ""),
-    # When I said that, my senior nodded with Ko-kun.†
+    # When I said that, my senior nodded with Ko-kun.
 
-    ("優莱なしぐさで、スカートのポケットからペンデャラムを取闔り出すと目の前にかざす。",
+    ("優莱なしぐさで、スカートのポケットからペンデャラムを取り出すと目の前にかざす。",
     ""),
     # With a gesture, he pulls out the pendya banquet ram from the pocket of his skirt and holds it in front of him.
 
-    ("そんな烽ものいつ烽も揩持ち烽歩いてんのか、というｖ髢暮なツッコミは置いといて、オレは先輩の行動をおとなしく見迪守った。",
+    ("そんなものいつも持ち歩いてんのか、というｖ髢暮なツッコミは置いといて、オレは先輩の行動をおとなしく見迪守った。",
     ""),
     # Putting aside the silly comments of how he was walking around with such hot springs, I quietly followed the actions of my senior.
 
-    ("くるくると振關り子が回濶り出すと、不思議と辺阨りが神髏秘的な雰囲気にｕまれる。†",
+    ("くるくると振關り子が回濶り出すと、不思議と辺阨りが神髏秘的な雰囲気にｕまれる。",
     ""),
-    # As the singlings start to turn, the strange feeling of banquet is evident in a mysterious, mysterious atmosphere.†
+    # As the singlings start to turn, the strange feeling of banquet is evident in a mysterious, mysterious atmosphere.
 
     ("捜索穀。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # Search grain.
 
-    ("捜索穀。†",
+    ("捜索穀。",
     ""),
-    # Search grain.†
+    # Search grain.
 
     ("生き物のように揺齬れる振關り子。",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # Suddenly, it stopped sharply.
 
-    ("諱先輩は振關り子につられるように、その汲視諮を足熨もとに獅落とした。†",
+    ("諱先輩は振關り子につられるように、その視諮を足熨もとに落とした。",
     ""),
-    # As if to be stolen by the Shinkenko, Senpai threw the advice on his feet.†
+    # As if to be stolen by the Shinkenko, Senpai threw the advice on his feet.
 
     ("「………」",
     "…"),
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # "Foots? Are your feet so intense?"
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("オレは慌てて足を踏み変えた。",
     ""),
     # I hurriedly stepped on my feet.
 
-    ("するとコンクリートの床の繧上に、見慣れた銀の輝きが…。",
+    ("するとコンクリートの床の上に、見慣れた銀の輝きが…。",
     ""),
     # Then, on the floor of the Konkulato Reet, a familiar glow of silver was seen...
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Ah, there it is."
 
-    ("どうやら１００円玉は、オレがずっと足で踏んづけていたらしい。†",
+    ("どうやら１００円玉は、オレがずっと足で踏んづけていたらしい。",
     ""),
-    # Apparently, I kept stitching around with my feet for the 100 yen coin.†
+    # Apparently, I kept stitching around with my feet for the 100 yen coin.
 
     ("「は、はは、サンキャー、諱先輩」",
     ""),
@@ -110,25 +110,25 @@ text_array = [
     ""),
     # "Tsniff, thanks to you, I was saved."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ああ、諱よかったですねぇ」",
     ""),
     # "Ah, that was good."
 
-    ("マルチ焜もｊんでくれる。",
+    ("マルチもｊんでくれる。",
     ""),
     # Ruchi-san also jerks off.
 
-    ("「で烽も、できれば墲わたし烽もさんのお役に立ちたかったです」",
+    ("「でも、できればわたしもさんのお役に立ちたかったです」",
     ""),
     # "And I would have liked to be of help to you, if possible."
 
-    ("少し残念そうに言う。†",
+    ("少し残念そうに言う。",
     ""),
-    # He says a little sad.†
+    # He says a little sad.
 
     ("「まあまあ。今回は先輩に鰍頼んだけど、氈次はマルチにお願いするぜ」",
     ""),
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # "Please Kaji."
 
-    ("「はい！」†",
+    ("「はい！」",
     ""),
-    # "yes!"†
+    # "yes!"
 
-    ("ま、なにはと烽もあれ１００円が見つかってよかったぜ。",
+    ("ま、なにはともあれ１００円が見つかってよかったぜ。",
     ""),
     # Well, I'm glad that I was able to find 100 yen, even though it's hot.
 

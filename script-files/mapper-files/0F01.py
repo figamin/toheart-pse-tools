@@ -2,9 +2,9 @@
 # Source file: 0F01.txt
 
 text_array = [
-    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	志保）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	志保）",
     ""),
-    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Shiho)†
+    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Shiho)
 
     ("「やっぱオレの鰍相闡手は志保だーな」",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # I said.
 
-    ("♂史竡やあかりに痰ゃオレの鰍相闡手は辛すぎる。†",
+    ("雅史竡やあかりに痰ゃオレの鰍相闡手は辛すぎる。",
     ""),
-    # Masturbation is so painful that it's so intense that it's hard to resist the phlegm and the red light.†
+    # Masturbation is so painful that it's so intense that it's hard to resist the phlegm and the red light.
 
-    ("「ふっふっ。どーせ、そーくると思った墲わ」",
+    ("「ふっふっ。どーせ、そーくると思ったわ」",
     ""),
     # "Hehehe. I thought it was coming."
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "All right"
 
-    ("うなずき、座高うとしたオレを差し置いて、志保が先に座った。†",
+    ("うなずき、座高うとしたオレを差し置いて、志保が先に座った。",
     ""),
-    # Shiho sat first, besides my intense throbbing who nodded and tried to sit up.†
+    # Shiho sat first, besides my intense throbbing who nodded and tried to sit up.
 
     ("「はい。まずはあたしからやらせてね」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("梶相変﨑わらずよくやるぜ。",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # What is it, 140HIT...
 
-    ("男ならと烽もかく、浴女でここまでうまいрヤツは知迺らない。†",
+    ("男ならともかく、女でここまでうまいрヤツは知迺らない。",
     ""),
-    # It's a man, but a bather who's so good at it is hard to know.†
+    # It's a man, but a bather who's so good at it is hard to know.
 
     ("「ま、ベストじ痰ゃないけど、これくらい出しとけばオッケーかな？」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # It's already become bored and tampered with.
 
-    ("その鼻へし折ってやるぜ。†",
+    ("その鼻へし折ってやるぜ。",
     ""),
-    # I'll break that nose and tamper with it.†
+    # I'll break that nose and tamper with it.
 
     ("「なめんなよ」",
     ""),
@@ -106,13 +106,13 @@ text_array = [
     ""),
     # The vision consultation intersects.
 
-    ("いまに烽も火花が飛び散闔りそうだ。",
+    ("いまにも火花が飛び散りそうだ。",
     ""),
     # Sparks are likely to fly around in the hot springs right now.
 
-    ("ま、その空気が楽しいんだが。†",
+    ("ま、その空気が楽しいんだが。",
     ""),
-    # Well, the atmosphere is fun.†
+    # Well, the atmosphere is fun.
 
     ("オレは椅子に座骰ると、１００円玉を入齠れてゲームをスタートさせた。◯",
     ""),
@@ -146,10 +146,6 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
-    ""),
-    # ・†
-
     ("・",
     ""),
     # ・
@@ -166,8 +162,12 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
 ]

@@ -2,7 +2,7 @@
 # Source file: 0A37.txt
 
 text_array = [
-    ("（掾理女緒	好感度イベント	海獺）閨（４獅月２０冾日）閨（好感度	以繹上で発生）閨（その冾日の休匤日と差し替え）閨（自室）閨（ＳＥ	ドアチャャイム）†",
+    ("（掾理女緒	好感度イベント	海獺）閨（４月２０冾日）閨（好感度	以繹上で発生）閨（その冾日の休匤日と差し替え）閨（自室）閨（ＳＥ	ドアチャャイム）†",
     ""),
     # (Eli Meo's Likeability Event: Seafood) (April Lion 20th Day) (Advantages of the year) (Supported with the holiday on that day) (Se doorchaim) †
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Someone lol.
 
-    ("休みの冾日の、しか烽もまだ汲昼前だってのに、いったいなんの用だ。†",
+    ("休みの冾日の、しかもまだ昼前だってのに、いったいなんの用だ。†",
     ""),
     # It's only been a day off, and it's still just before noon, so what do you need?†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "good morning,"
 
-    ("「おう、♂史か。どうした？」",
+    ("「おう、雅史か。どうした？」",
     ""),
     # "Oh, Masochist? What's wrong?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Not yet. Because that's it." †
 
-    ("「駅前のショップには烽もう置いてたよ」",
+    ("「駅前のショップにはもう置いてたよ」",
     ""),
     # "We already had hot pots in the shapp in front of the station."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "You'll have to prepare it by then." Å
 
-    ("という墲わけで、♂史とＣＤをモ買いに行ったその帰闍り。†",
+    ("というわけで、雅史とＣＤをモ買いに行ったその帰闍り。†",
     ""),
     # So, I went back to buy a CD with Mama.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Huh, what's b?"
 
-    ("♂史がなにかを指さした。",
+    ("雅史がなにかを指さした。",
     ""),
     # Masochi pointed to something.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Breathability seems bad."
 
-    ("ネズミは軽快で楽しそうなステップを踏んでいるが、£の人間は汗だくで、しかめっ面してるに痰違いない。",
+    ("ネズミは軽快で楽しそうなステップを踏んでいるが、の人間は汗だくで、しかめっ面してるに痰違いない。",
     ""),
     # The mouse takes light and fun steps, but the man who is sweaty and frowned, it must be phlegm.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # For tough tuna, the tuna is also good.†
 
-    ("「チラシ焜もらおうかな」",
+    ("「チラシもらおうかな」",
     ""),
     # "May I have a feast?"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Are you going to hit a wide open fire anyway?"
 
-    ("と言いつつ烽も、♂史についていくオレ。",
+    ("と言いつつも、雅史についていくオレ。",
     ""),
     # That said, I also got excited when I followed Masochistic History.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Huh, maybe?"
 
-    ("「いや、そらした、間瘧違いない。さながら、オレを避けるかのように。｢｢諞よしっ」†",
+    ("「いや、そらした、間違いない。さながら、オレを避けるかのように。｢｢諞よしっ」†",
     ""),
     # "It must have been tampering, I've deflected, I'm sure. It's as if to avoid me. ""I'm fine" †
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # The mouse gave a slutty hand and gave the banquet a red balloon to the nib.
 
-    ("べつに翌風船はいらないけど、くれるんならいちおう烽もらっておく。",
+    ("べつに翌風船はいらないけど、くれるんならいちおうもらっておく。",
     ""),
     # I don't need the next balloon, but if they give me it, I'll get some hot water.
 
-    ("それより烽も…。",
+    ("それよりも…。",
     ""),
     # More than that, the hot water...
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # And then...†
 
-    ("また烽もや高ロコツに避けようとする。",
+    ("またもや高ロコツに避けようとする。",
     ""),
     # They also try to avoid tampering with hot water and high-pitchedness.
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # What is this guy?
 
-    ("オレは再びрヤツの前にま墲わる。",
+    ("オレは再びрヤツの前にまわる。",
     ""),
     # My ecstasy peers in front of the guy again.
 
@@ -242,11 +242,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("ちょっとだけじっとしてた烽ものの。†",
+    ("ちょっとだけじっとしてたものの。†",
     ""),
     # The hot thing was just as quiet as I could.†
 
-    ("ネズミはくるっと背をｌけ、お子さま軍団にまと墲わりつかれながらコソコソとｌこうへ行ってしまった。",
+    ("ネズミはくるっと背をｌけ、お子さま軍団にまとわりつかれながらコソコソとｌこうへ行ってしまった。",
     ""),
     # The mouse rolled around, and secretly sniffed at the army of children.
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "What does it say is a flyer?"
 
-    ("「ああ、えっと…。『お烽もち痰ゃのデパート、キッズ・パーク	オープン』だと」",
+    ("「ああ、えっと…。『おもち痰ゃのデパート、キッズ・パーク	オープン』だと」",
     ""),
     # "Ah, um... It's like 'Ohomochishouya Department Store, Kids Park, is open.'
 
@@ -274,15 +274,15 @@ text_array = [
     ""),
     # "What are you going to do with that?"
 
-    ("♂史が赤い翌風船を指さす。",
+    ("雅史が赤い翌風船を指さす。",
     ""),
     # Masochi points to the red balloon.
 
-    ("「そうだな、掾持って帰って烽もしょーがねーし、お子様にプレゼントしよう」",
+    ("「そうだな、掾持って帰ってもしょーがねーし、お子様にプレゼントしよう」",
     ""),
     # "Yeah, let's take your eyes home and have some hot sluts and give it a great present to your children."
 
-    ("♂史は、オレのか墲わりにてきとうな子沁供を見つけ、浴風船を手渡してくれた。†",
+    ("雅史は、オレのかわりにてきとうな子沁供を見つけ、風船を手渡してくれた。†",
     ""),
     # Masochi, who was probably a bit of a real boy, found a special child, and handed me a bath balloon.†
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # The human head can be seen through the head that was removed.
 
-    ("まるで鰍相撲譁取闔りみたいな格好だな。†",
+    ("まるで鰍相撲譁取りみたいな格好だな。†",
     ""),
     # It looks like a monk sumo match.†
 
@@ -318,15 +318,15 @@ text_array = [
     ""),
     # "Heh..."
 
-    ("蛛大きく息をつく、浴女の子。",
+    ("蛛大きく息をつく、女の子。",
     ""),
     # A bathing girl takes a deep breath.
 
-    ("やっぱり揩理女緒ち痰ゃんだ。",
+    ("やっぱり理女緒ち痰ゃんだ。",
     ""),
     # I'm sure it's really hard to get the stimulus.
 
-    ("掾理女緒ち痰ゃんは、いかに烽も息齣苦しい空間から解匀放されたかのように、深呼吸した。",
+    ("掾理女緒ち痰ゃんは、いかにも息齣苦しい空間から解匀放されたかのように、深呼吸した。",
     ""),
     # Erie Ochishon took a deep breath, as if to be relieved of the space where even Hou was in a difficult breath.
 
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "I'm in trouble..."
 
-    ("誰にと烽もなくつぶやく揩理女緒ち痰ゃん。",
+    ("誰にともなくつぶやく理女緒ち痰ゃん。",
     ""),
     # I'm a smug woman who keeps messing around with no one else.
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # "Huh? Why, how...!?"
 
-    ("£ぐるみのまま、慌てて立ち繧上がうと、ａモゾｃモゾする。",
+    ("ぐるみのまま、慌てて立ち上がうと、ａモゾｃモゾする。",
     ""),
     # While still in unison, I hurriedly stood up and b and a moaned c.
 
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # "It's a break b? Okay, sit b."
 
-    ("そう言いながら、オレ焜も揩理女緒ち痰ゃんの横にｍ會高ｨす。†",
+    ("そう言いながら、オレも理女緒ち痰ゃんの横にｍ會高ｨす。†",
     ""),
     # With that in mind, I also got a high school student beside the man who was extremely excited.†
 
@@ -402,11 +402,11 @@ text_array = [
     ""),
     # "Ahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-    ("「通気性ゼ鴻ロだからな。サウナスーツヲてるみたいな烽もんだしな」†",
+    ("「通気性ゼ鴻ロだからな。サウナスーツヲてるみたいなもんだしな」†",
     ""),
     # "It's breathable, it's a hot spring like a sauna suit."
 
-    ("「あはは、ダイエットになるか烽もね」",
+    ("「あはは、ダイエットになるかもね」",
     ""),
     # "Haha, I wonder if it's going to be a diet or something like that."
 
@@ -426,7 +426,7 @@ text_array = [
     ""),
     # "What..."
 
-    ("一瞬、笑迴顔がかたまる揩理女緒ち痰ゃん。",
+    ("一瞬、笑顔がかたまる理女緒ち痰ゃん。",
     ""),
     # For a moment, my face hardens.
 
@@ -438,23 +438,23 @@ text_array = [
     ""),
     # "?"†
 
-    ("「で烽も驚いち痰ゃった。",
+    ("「でも驚いち痰ゃった。",
     ""),
     # "And that surprised me, even Hou.
 
-    ("私って墲わかった？」",
+    ("私ってわかった？」",
     ""),
     # Do I get it?”
 
-    ("「いや、誰かは墲わかんなかったけど、なんかピンとくる烽もんがあってさ」",
+    ("「いや、誰かはわかんなかったけど、なんかピンとくるもんがあってさ」",
     ""),
     # "No one knew, but there was something that really touched me."
 
-    ("「あはは。で烽も、まいったなぁ。こんな格好見迪られち痰ゃって…」†",
+    ("「あはは。でも、まいったなぁ。こんな格好見迪られち痰ゃって…」†",
     ""),
     # "Hahaha. And Hot is also in trouble. You're probably going to get a good look at me like this..."
 
-    ("「なんで？	浴似㍽合ってるぜ？」",
+    ("「なんで？	似㍽合ってるぜ？」",
     ""),
     # "Why? You're bathing together?"
 
@@ -462,7 +462,7 @@ text_array = [
     ""),
     # "Oh, I see...?"
 
-    ("「おう、浴似㍽合ってる翌似㍽合ってる」",
+    ("「おう、似㍽合ってる翌似㍽合ってる」",
     ""),
     # "Oh, the baths are similar to each other, and the next one is similar to each other."
 
@@ -470,7 +470,7 @@ text_array = [
     ""),
     # The gay girl is a banquet and a banquet.†
 
-    ("「けど大変だな。こんな冾日に烽もバイトなんて。ちょっと働き過ぎなんじ痰ゃねーの？」",
+    ("「けど大変だな。こんな冾日にもバイトなんて。ちょっと働き過ぎなんじ痰ゃねーの？」",
     ""),
     # "But it's tough. On a day like this, you'll have to work part-time at a time like this. Are you working too much and doing phlegm?"
 
@@ -478,7 +478,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「いくら欲しい烽ものがあるっつって烽も、少しは休まないと続かないぜ」",
+    ("「いくら欲しいものがあるっつっても、少しは休まないと続かないぜ」",
     ""),
     # "Even if you want something, even if you have a hot pot, it won't last until you have a little rest."
 
@@ -490,7 +490,7 @@ text_array = [
     ""),
     # The girl Ochisou-chan silently turned her head down.†
 
-    ("「ま、蛛大きなお世話か烽もしんねーけどさ」",
+    ("「ま、蛛大きなお世話かもしんねーけどさ」",
     ""),
     # "Well, you know, I'm not really looking after you, either."
 
@@ -514,7 +514,7 @@ text_array = [
     ""),
     # "?"†
 
-    ("「本末当は欲しい烽ものがあるからじ痰ゃないの」",
+    ("「本末当は欲しいものがあるからじ痰ゃないの」",
     ""),
     # "There's something I want to buy at the end of the day, so I don't have any phlegm."
 
@@ -522,7 +522,7 @@ text_array = [
     ""),
     # "picture…"
 
-    ("「п私のお母さん、いま病気で入院してるんだ。だから、そのぶんр私が働かないと…。治療濫とか烽もあるし…」",
+    ("「п私のお母さん、いま病気で入院してるんだ。だから、そのぶんр私が働かないと…。治療とかもあるし…」",
     ""),
     # "My mom is currently hospitalized due to illness. So, I have to work... There are lots of treatment and hot water..."
 
@@ -538,7 +538,7 @@ text_array = [
     ""),
     # Are you working for that?
 
-    ("う墲わー、すげー家薗環境だな。",
+    ("うわー、すげー家薗環境だな。",
     ""),
     # Wow, it's an amazing Yazon environment.
 
@@ -550,7 +550,7 @@ text_array = [
     ""),
     # Was that so?†
 
-    ("「だけど、なんで揩理女緒ち痰ゃんが働いてんだ？	親ヰ父さんは…？」",
+    ("「だけど、なんで理女緒ち痰ゃんが働いてんだ？	親ヰ父さんは…？」",
     ""),
     # "But why is Ochi Sphin-chan working? What about you, Dad...?"
 
@@ -578,11 +578,11 @@ text_array = [
     ""),
     # I can only say that level.†
 
-    ("「だけど、弟たち烽もр私の言うことよくきいてくれるし、そんな大変じ痰ゃないよ」",
+    ("「だけど、弟たちもр私の言うことよくきいてくれるし、そんな大変じ痰ゃないよ」",
     ""),
     # "But my brothers, Hou, listen to me well, and I have no sputum like that."
 
-    ("「ああ、そっか。良太の面倒燗も揩理女緒ち痰ゃんがひとりでみてんだ。ひとりで大仕鮪事だな、それ」",
+    ("「ああ、そっか。良太の面倒燗も理女緒ち痰ゃんがひとりでみてんだ。ひとりで大仕鮪事だな、それ」",
     ""),
     # "Ah, I see. I watched Ryota's troublesome sake on his own. It's a big tuna on his own."
 
@@ -590,7 +590,7 @@ text_array = [
     ""),
     # "Ahhh. That's why I'm not too sputum like that. I used to start delivering newspapers from a small place."
 
-    ("それから揩理女緒ち痰ゃんは、ちょっとひかえめな微笑を浮かべて、",
+    ("それから理女緒ち痰ゃんは、ちょっとひかえめな微笑を浮かべて、",
     ""),
     # Then, the woman said, "I'm not too scared," she said,
 
@@ -602,7 +602,7 @@ text_array = [
     ""),
     # He told me to mess with it.
 
-    ("いつ烽もの揩理女緒ち痰ゃんらしくない表﨣情だった。†",
+    ("いつもの理女緒ち痰ゃんらしくない表﨣情だった。†",
     ""),
     # When was the case, it was a public sentiment that didn't seem to be a hot topic.†
 
@@ -622,7 +622,7 @@ text_array = [
     ""),
     # "Because I was worried that I wouldn't get any phlegms and phlegms would be too much..."
 
-    ("「んな墲わけねーだ？」",
+    ("「んなわけねーだ？」",
     ""),
     # "No way, is there no way b?"
 
@@ -642,7 +642,7 @@ text_array = [
     ""),
     # Erime Ochishon nodded shyly.†
 
-    ("「そうか、で烽も、そういう揩理由か」",
+    ("「そうか、でも、そういう理由か」",
     ""),
     # "I see, so maybe that's the reason for this, too?"
 
@@ -662,7 +662,7 @@ text_array = [
     ""),
     # "That's all, so don't worry about it."
 
-    ("気にしないでって言甯われて烽もなあ…。†",
+    ("気にしないでって言甯われてもなあ…。†",
     ""),
     # I was told not to worry about it, and it's hot...†
 
@@ -686,7 +686,7 @@ text_array = [
     ""),
     # The girl Ochi Symphonyan smiled with a timid smile.†
 
-    ("「あの、いいんだよ？	気をつかってくれなくて烽も。こうしていい話をしてるだけで、п私、すごくうれしいから」",
+    ("「あの、いいんだよ？	気をつかってくれなくても。こうしていい話をしてるだけで、п私、すごくうれしいから」",
     ""),
     # "Um, is that okay? You haven't taken care of me, so I'm so happy just to be talking about B and B."
 
@@ -730,7 +730,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("オレがうなずくと、掾理女緒ち痰ゃんは真っ赤になって、慌てて立ち繧上がった。†",
+    ("オレがうなずくと、掾理女緒ち痰ゃんは真っ赤になって、慌てて立ち上がった。†",
     ""),
     # When my head nodded, the girl turned bright red and she stood in a hurry.†
 
@@ -762,9 +762,9 @@ text_array = [
     ""),
     # It's not.)
 
-    ("£ぐるみのｒからくぐ烽もった声がする。",
+    ("ぐるみのｒからくぐもった声がする。",
     ""),
-    # I heard a loud voice from the r of £gurumi.
+    # I heard a loud voice from the r of gurumi.
 
     ("「なにが？」",
     ""),
@@ -794,11 +794,11 @@ text_array = [
     ""),
     # "(Yeah)"
 
-    ("堰ラッコは大きくうなずいて、′こうへ烽歩いていく。",
+    ("堰ラッコは大きくうなずいて、′こうへ歩いていく。",
     ""),
     # The weir otter nodded loudly and strolled towards the '.
 
-    ("あんなｒぐるみのｒで烽も、生き生きとした表﨣情のままの揩理女緒ち痰ゃんが目に浮かぶような感じだった。†",
+    ("あんなｒぐるみのｒでも、生き生きとした表﨣情のままの理女緒ち痰ゃんが目に浮かぶような感じだった。†",
     ""),
     # With such a r-gurumi, it felt like the lively, open-minded sputum was in my eyes.†
 

@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Is it different?"
 
-    ("「この男は…。あたしがいかにインテリジェントな一面を揩持っているか、説明する必要があるようね」",
+    ("「この男は…。あたしがいかにインテリジェントな一面を持っているか、説明する必要があるようね」",
     ""),
     # "This guy... I think I need to explain how intelligent I have."
 
-    ("「いらねー諱よ、そんな烽説明」†",
+    ("「いらねー諱よ、そんな説明」†",
     ""),
     # "I don't need you, that hot explanation"†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "It's a manga b? It's $yo, so is it пYankomi?"
 
-    ("「ちが墲わいっ！	話が№合ってないでしょーが」",
+    ("「ちがわいっ！	話が№合ってないでしょーが」",
     ""),
     # "No! We didn't get the right thing, so slut."
 
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # "teeth?"†
 
-    ("「インテリジェントだって言ってるそばからマンガ読むрヤツいない墲わよっ」",
+    ("「インテリジェントだって言ってるそばからマンガ読むрヤツいないわよっ」",
     ""),
     # "There's no one who reads manga from the side that says it's intelligent."
 
-    ("「わーった墲わーった。マンガ読むрヤツはインテリじ痰ゃねえっつうんだな？	…偏見だ、そり痰ゃ」",
+    ("「わーったわーった。マンガ読むрヤツはインテリじ痰ゃねえっつうんだな？	…偏見だ、そり痰ゃ」",
     ""),
     # "I'm so sad. Those who read manga don't have any phlegms, aren't they? ...I'm prejudiced, phlegms."
 
-    ("「う〜ん…インテリ焜も読むマンガ焜もある墲わね」",
+    ("「う〜ん…インテリも読むマンガもあるわね」",
     ""),
     # "Hmm... there's a manga that's also available to read Integata Liber."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Shiho seemed to be good at my words,
 
-    ("「たとえば科学所誌。２１世紀煖も間近に翌迫ったいま、諱先端科学の分楓ではｖ淫俣冾ﾌように新しい発見が鰍相汨次いでいる！	きたるべき新世紀に備え、艨我々は文明を、科学を友とするべきだ！」",
+    ("「たとえば科学所誌。２１世紀も間近に翌迫ったいま、諱先端科学の分楓ではｖ淫俣冾ﾌように新しい発見が鰍相汨次いでいる！	きたるべき新世紀に備え、艨我々は文明を、科学を友とするべきだ！」",
     ""),
     # "For example, the Journal of Science. Now that the 21st Century Han is approaching, new discoveries are being made in the 1990s, and in the 1990s of the Advanced Sciences, new discoveries are being made in the 1990s! In preparation for the new century that should come, we should make civilization and science our friend!"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "If it rains like rain, it's dangerous."
 
-    ("家じ繧ゅう鰍穴だらけになるぞ。†",
+    ("家じゅう鰍穴だらけになるぞ。†",
     ""),
     # The house will be full of monkey holes.†
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Because I'm an amateur"
 
-    ("「流齬れ星が獅落ちてきたら一蛻大桝事でしょーが。",
+    ("「流齬れ星が落ちてきたら一蛻大桝事でしょーが。",
     ""),
     # "If the lion falls in a flurry of water, it's a dawn and a dawn.
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "Look, a star of confusion... haaaaah, bang!'
 
-    ("ってことになったらムード焜も台無しよ」",
+    ("ってことになったらムードも台無しよ」",
     ""),
     # If that happens, the mood will ruin the situation."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "It's fine, don't say it loudly."
 
-    ("道の真んｒでバコ〜ンとか大げさに墲わめくから、恥ずかしいったらあり痰ゃしない。†",
+    ("道の真んｒでバコ〜ンとか大げさにわめくから、恥ずかしいったらあり痰ゃしない。†",
     ""),
     # They're all groaning in the middle of the road, and they're all over the place, so if you're embarrassed, you won't get enough of anything.†
 
@@ -158,15 +158,15 @@ text_array = [
     ""),
     # "They disappear in the air, so their lovers can look up at the night sky with great friendship."
 
-    ("「わかった墲わかった。その、香ロマンチックな流齬れ星が山ほど見鼬れるんだな？」",
+    ("「わかったわかった。その、香ロマンチックな流齬れ星が山ほど見鼬れるんだな？」",
     ""),
     # "I understand, I understand. I can see that romantic, unrequited star is so impressive, isn't it?"
 
-    ("「やっと揩理解した墲わね」",
+    ("「やっと理解したわね」",
     ""),
     # "I finally understand it."
 
-    ("「はじめから烽説明すればよかっただ」†",
+    ("「はじめから説明すればよかっただ」†",
     ""),
     # "I should have explained it from the beginning b"
 

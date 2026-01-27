@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Be careful when you go home."
 
-    ("「はいっ、ありがとうございます。さん烽もお気をつけて！」",
+    ("「はいっ、ありがとうございます。さんもお気をつけて！」",
     ""),
     # "Yes, thank you. Sanka-san also take care!"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "See you, Ming Shun-day!"
 
-    ("マルチ焜も明髢るく元気に手を振關り返した。◯",
+    ("マルチも明髢るく元気に手を振關り返した。◯",
     ""),
     # The crying Ruchi-san also waved back with determination and energy.◯
 

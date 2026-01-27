@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Tch..." †
 
-    ("「п私とｉ史ち痰ゃんからお菓子を取闔り繧上げて、ひな壇のぼって、一番續上で大笑いして…」",
+    ("「п私と史ち痰ゃんからお菓子を取り上げて、ひな壇のぼって、一番續上で大笑いして…」",
     ""),
     # "I picked up some sweets from me and I-Shin Chisho-chan, then climbed up the front door, and laughed loudly on the top of the house..."
 
@@ -46,7 +46,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「だけど、そこでひな壇が崩れて烽もう大変！",
+    ("「だけど、そこでひな壇が崩れてもう大変！",
     ""),
     # "But then the altar collapses and it's a pain!
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # A big stimulus is a big stimulus."
 
-    ("「お前の母さんが、面猪白がってオレに何杯熹も窒白酒闔",
+    ("「お前の母さんが、面猪白がってオレに何杯熹も窒白酒",
     ""),
     # "Your mother is wearing a big boar and slurping my face with a lot of cups of nitrogen wine.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Because I'll give you a drink"
 
-    ("「氏落っこちたち痰ゃん、そのままピクリと烽も動かなくて、みんなびっくりしたんだけど、じつはそのまま寝ち痰ゃってて…」",
+    ("「氏落っこちたち痰ゃん、そのままピクリとも動かなくて、みんなびっくりしたんだけど、じつはそのまま寝ち痰ゃってて…」",
     ""),
     # "They fell off, but the sputum fell on the ground, and the spurts didn't move, which was surprising, but in fact they just went to sleep and sputum..."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Akari said with a chuckle.†
 
-    ("「いま見骭ると、ちっち痰ゃいこのち痰ゃん、とって烽も可愛いんだよ」",
+    ("「いま見骭ると、ちっち痰ゃいこのち痰ゃん、とっても可愛いんだよ」",
     ""),
     # "When I look at it now, I see that the little phlegm is also cute, and the hot phlegm is also cute."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Go on!
 
-    ("「п私、あんな墲弟が欲しいなー」",
+    ("「п私、あんな弟が欲しいなー」",
     ""),
     # "I want a younger brother like that."
 

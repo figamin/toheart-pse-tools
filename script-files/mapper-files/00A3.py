@@ -2,11 +2,11 @@
 # Source file: 00A3.txt
 
 text_array = [
-    ("（３獅月８冾日	朝）閨（玄関）†",
+    ("（３月８冾日	朝）閨（玄関）†",
     ""),
     # (Morning of the 3rd Lion Moon 8th Day) (Entrance)†
 
-    ("３獅月８冾日、土曜坥日。",
+    ("３月８冾日、土曜坥日。",
     ""),
     # The 8th day of the 3rd Lion Month, Saturday Day.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # If I go to Yu-day now, Ming Shun-day will be closed.
 
-    ("そう思うと多少はやる気煖も出てくるよな。",
+    ("そう思うと多少はやる気も出てくるよな。",
     ""),
     # When you think about it like that, you'll also feel a bit motivated to tamper with it.
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # Well, I'm off.†
 
-    ("校蜊門前で烽金髪頭の翌女生徒を見かけた。",
+    ("校門前で金髪頭の翌女生徒を見かけた。",
     ""),
     # I saw a female student who had a blonde hair in front of the school gates.
 
-    ("気㈲合いの入った不良少酪女｢｢ではなくて、戟レミィだ。†",
+    ("気㈲合いの入った不良少酪女｢｢ではなくて、レミィだ。†",
     ""),
     # A delinquent young woman with a strong sense of curiosity: "Not ", it's a gay remie.†
 
-    ("「諱よう、戟レミィ」",
+    ("「諱よう、レミィ」",
     ""),
     # "Let's be my name, thief Remie."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Good morning, it's too early now!"
 
-    ("「戟レミィって目立つよね」",
+    ("「レミィって目立つよね」",
     ""),
     # "They stand out, aren't they?"
 

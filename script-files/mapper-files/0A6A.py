@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Toast and coffee"
 
-    ("オレは、ふ墲わ〜…っと、あくびする。",
+    ("オレは、ふわ〜…っと、あくびする。",
     ""),
     # My heart yawns, sighing...
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # It doesn't seem like that's the case with Rimo Ochi Sputan."
 
-    ("「п私はｖ朝、新聞配達竰やってるから、いやで烽も体は起きち痰ゃうよ」",
+    ("「п私はｖ朝、新聞配達竰やってるから、いやでも体は起きち痰ゃうよ」",
     ""),
     # "I'm taking a newspaper delivery service this morning, so it's a mess, and my body is getting up and phlegm."
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "Whoa, are you even tampering with that? You're so incredibly, I respect you."
 
-    ("「そ、それほどの仕鮪事じ痰ゃないよ。誰にで烽もできる烽もの」†",
+    ("「そ、それほどの仕鮪事じ痰ゃないよ。誰にでもできるもの」†",
     ""),
     # "Well, there's no need to worry about that much tuna. Who can make hot pot?"
 
-    ("「いや、オレはとて烽も無摶理そうだ。配達が汲昼になって烽もいいならと烽もかく」",
+    ("「いや、オレはとても無摶理そうだ。配達が昼になってもいいならともかく」",
     ""),
     # "It seems like it's safe to say that I can't take the time to deliver, but I'll be sure to get hot."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Hahaha. That would be easier then."
 
-    ("と、そこで揩理女緒ち痰ゃんは、あかりのほうをｌいて、†",
+    ("と、そこで理女緒ち痰ゃんは、あかりのほうをｌいて、†",
     ""),
     # And so, the smug chan leaned towards the light, and
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # After replies, he bends his head and wonders who Akari is.
 
-    ("そういや、あかりと揩理女緒ち痰ゃんって奄初対面だっけ。†",
+    ("そういや、あかりと理女緒ち痰ゃんって奄初対面だっけ。†",
     ""),
     # That being said, Akari and Sakiyomi Ochisou-chan are the first time they meet Amazed.†
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "That's amazing."
 
-    ("「あ、あのっ、そんな、п私、と、特別な曹資格とか揩持ってる墲わけじ痰ゃないし、あの…すごくなんかないよ…」†",
+    ("「あ、あのっ、そんな、п私、と、特別な曹資格とか持ってるわけじ痰ゃないし、あの…すごくなんかないよ…」†",
     ""),
     # "Ah, um, me, and I have a special Cao qualification, so there's no reason to say that, and um...it's really not that..." †
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "If that's the case, it's a bit of a sputum."
 
-    ("「男はいいの。そのうち社脂人になったら、いやで烽も働かなき痰ゃいけねーんだから」†",
+    ("「男はいいの。そのうち社脂人になったら、いやでも働かなき痰ゃいけねーんだから」†",
     ""),
     # "Men are fine. If they become a company afflicted, they'll end up being tampered with and they have to be phlegmed without working."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # That's true for girls too."
 
-    ("「浴女は汲結婚するってパターン焜もあんだが。社脂に出髀る機級のない人熕もいるぞ」",
+    ("「女は結婚するってパターンもあんだが。社脂に出髀る機級のない人熕もいるぞ」",
     ""),
     # "The pattern of a bather getting married is that he's not married. There are also people who don't have the ability to get into the company."
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "There's not a lot of phlegm these days, right? That's what it is."
 
-    ("「それで烽もいるにはいる。とくにお前とか、就職熕もせず、すぐに専業蜍主婦になりそうだ」†",
+    ("「それでもいるにはいる。とくにお前とか、就職熕もせず、すぐに専業蜍主婦になりそうだ」†",
     ""),
     # "So there will be some people. You and you won't be able to find a job, and you will soon become a full-time sniffer housewife."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "That's not the case.
 
-    ("若くして家薗に入體るのは、それはそれで大変なんだよ。ねえ、浴雛山さん？」",
+    ("若くして家薗に入體るのは、それはそれで大変なんだよ。ねえ、雛山さん？」",
     ""),
     # It's a tough time for me to get into Iezono at a young age.Hey, Bath Hinayama-san?”
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "Eh, uh, yeah..."
 
-    ("突然あかりに振逅られ、とりあえず同意する揩理女緒ち痰ゃん。†",
+    ("突然あかりに振逅られ、とりあえず同意する理女緒ち痰ゃん。†",
     ""),
     # Akari suddenly confronts her, and for now she agrees.†
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # a.
 
-    ("もしかして、掾理女緒ち痰ゃん、オレとあかりに遠慮したのか烽も。",
+    ("もしかして、掾理女緒ち痰ゃん、オレとあかりに遠慮したのかも。",
     ""),
     # Perhaps it was a shunned response to me and Akari.
 

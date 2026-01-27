@@ -2,15 +2,15 @@
 # Source file: 076C.txt
 
 text_array = [
-    ("（琴音	好感度イベントＰＳ）閨（渡闢り廊下）†",
+    ("（琴音	好感度イベントＰＳ）閨（渡闢り廊下）",
     ""),
-    # (Kotone Likeability Event PS) (Counter corridor)†
+    # (Kotone Likeability Event PS) (Counter corridor)
 
-    ("さぁ〜てと、んじ痰ゃ琴音ち痰ゃんのとこにで烽も行くか。†",
+    ("さぁ〜てと、んじ痰ゃ琴音ち痰ゃんのとこにでも行くか。",
     ""),
-    # Now, when it comes to Kotone's phlegm, I wonder if it's phlegm, and when it's phlegm, I'll go to B too.†
+    # Now, when it comes to Kotone's phlegm, I wonder if it's phlegm, and when it's phlegm, I'll go to B too.
 
-    ("「なあｉ史」",
+    ("「なあ史」",
     ""),
     # "Hey, i-history"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "I'm going to pass the basketball game this day."
 
-    ("「うん。…って、ときどき汲昼休みにどこかへ行ってるけど、なにをしに行ってるの？」†",
+    ("「うん。…って、ときどき昼休みにどこかへ行ってるけど、なにをしに行ってるの？」",
     ""),
     # "Yeah... I sometimes go somewhere during lunch break, what are you going to do?"
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "I'll go, phlegm."
 
-    ("「あ、で烽も、超能力って｢｢」†",
+    ("「あ、でも、超能力って｢｢」",
     ""),
-    # "Ah, and even Hou, psychic powers are """†
+    # "Ah, and even Hou, psychic powers are """
 
-    ("♂史と別れ、オレはｒ鋳にやってきた。",
+    ("雅史と別れ、オレはｒ鋳にやってきた。",
     ""),
     # After parting with Masochi, Ikere started tampering with R-casting.
 
@@ -50,27 +50,27 @@ text_array = [
     ""),
     # Kotone Chisho-chan is...
 
-    ("いた。†",
+    ("いた。",
     ""),
-    # there was.†
+    # there was.
 
     ("「おっす、琴音ち痰ゃん」",
     ""),
     # "Oh, Kotone Chishou-chan."
 
-    ("「あ、こんにちは、さん。ちょうど今、始めようと思っていたとこですよ」†",
+    ("「あ、こんにちは、さん。ちょうど今、始めようと思っていたとこですよ」",
     ""),
-    # "Ah, hello, san. It's b I was planning to start now." †
+    # "Ah, hello, san. It's b I was planning to start now." 
 
-    ("「そり痰ゃよかった。じつはな、新しい特訓の烽内容を考えてきたんだよ」",
+    ("「そり痰ゃよかった。じつはな、新しい特訓の内容を考えてきたんだよ」",
     ""),
     # "I wish I had slurp. Actually, I've been thinking about the new special training content."
 
-    ("「新しい、内容…ですか？」†",
+    ("「新しい、内容…ですか？」",
     ""),
     # "New content...?"
 
-    ("「ああ。いままでずっとボールの数を揩増竭やしてきただ？	それ烽もいい加減、限度があるだうから、やり方を変えようと思ったんだ」",
+    ("「ああ。いままでずっとボールの数を増竭やしてきただ？	それもいい加減、限度があるだうから、やり方を変えようと思ったんだ」",
     ""),
     # "Yeah. I've been increasing the number of balls all the time, b? And there's a limit to the number of balls, so I thought I'd change my way of binge."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "I agree"
 
-    ("そう言ってから、琴音ち痰ゃんはベンチの繧上のボールを見つめた。",
+    ("そう言ってから、琴音ち痰ゃんはベンチの上のボールを見つめた。",
     ""),
     # After saying that, Kotone Chisho-yan stared at the ball on the bench.
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # The number is six.
 
-    ("まるでソフトボールの部員だ。†",
+    ("まるでソフトボールの部員だ。",
     ""),
-    # It's like a softball club member.†
+    # It's like a softball club member.
 
-    ("「その新しい烽内容って、どういう烽ものなんですか？」",
+    ("「その新しい内容って、どういうものなんですか？」",
     ""),
     # "What kind of hot spring is that new hot spring content?"
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "It's easy. Get the ball with your superpowers."
 
-    ("「ボールを受ける…」†",
+    ("「ボールを受ける…」",
     ""),
     # "Receive the ball..."
 
-    ("「オレがボールをそ〜っと鰍投げるから、琴音ち痰ゃんは超能力で止めるんだ。なんだったら、そのまま空拠でストップさせて烽もいいしな」",
+    ("「オレがボールをそ〜っと鰍投げるから、琴音ち痰ゃんは超能力で止めるんだ。なんだったら、そのまま空拠でストップさせてもいいしな」",
     ""),
     # "I'm going to throw the ball gently, so Kotone Chisho-yan stops with his supernatural powers. If that's the case, stop it on the air and it's fine for him to stop."
 
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "If it's unconventional, it's a different story."
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("「んじ痰ゃ、オレはその辺から鰍投げるぜ」",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "All the name"
 
-    ("オレはボールを揩持って、琴音ち痰ゃんから少しだけ離齬れた。†",
+    ("オレはボールを持って、琴音ち痰ゃんから少しだけ離齬れた。",
     ""),
-    # I held the ball down and got a little bit separate from Kotone Chisho-chan.†
+    # I held the ball down and got a little bit separate from Kotone Chisho-chan.
 
     ("「行くぞ〜っ」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "Ah, sir?"
 
-    ("全力蒲投搭の構えに驚く琴音ち痰ゃん。†",
+    ("全力蒲投搭の構えに驚く琴音ち痰ゃん。",
     ""),
-    # Kotone Chisho-yan is surprised at the full-powered setting of Kamapo.†
+    # Kotone Chisho-yan is surprised at the full-powered setting of Kamapo.
 
     ("「梶投げました〜っ！」",
     ""),
@@ -162,19 +162,19 @@ text_array = [
     ""),
     # "Skinny!"
 
-    ("小さく声をあげ、琴音ち痰ゃんは思寬わず頭を抱えてかがみこんだ。†",
+    ("小さく声をあげ、琴音ち痰ゃんは思寬わず頭を抱えてかがみこんだ。",
     ""),
-    # He let out a soft cry, and Kotone Chisho-chan leaned over, holding his head in lieu of thought.†
+    # He let out a soft cry, and Kotone Chisho-chan leaned over, holding his head in lieu of thought.
 
     ("「｢｢ってのは、お約束ぅ」",
     ""),
     # "'That's a promise."
 
-    ("言いながら、オレは鰍投げていないボールを片阨手で烽もてあそんだ。†",
+    ("言いながら、オレは鰍投げていないボールを片阨手でもてあそんだ。",
     ""),
-    # As I said, I played with my hands on the ball that hadn't been thrown.†
+    # As I said, I played with my hands on the ball that hadn't been thrown.
 
-    ("琴音ち痰ゃんは恐驪る恐驪る顔を繧上げて、",
+    ("琴音ち痰ゃんは恐驪る恐驪る顔を上げて、",
     ""),
     # Kotone Chishon lifts up a frightening, terrifying face,
 
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # "I was surprised..."
 
-    ("と胸をなで下奄した。†",
+    ("と胸をなで下奄した。",
     ""),
-    # He stroked his chest and moved down.†
+    # He stroked his chest and moved down.
 
     ("「あれ？	マジで驚いたのかぁ？」",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # "Yes..."
 
-    ("「わりぃ墲わりぃ、ついお約束のノリでさ」†",
+    ("「わりぃわりぃ、ついお約束のノリでさ」",
     ""),
-    # "It's a good time, I'm in the usual no-gata" †
+    # "It's a good time, I'm in the usual no-gata" 
 
     ("「…もう、しないでくださいね」",
     ""),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # "yes"
 
-    ("琴音ち痰ゃんがうなずき、オレはさっきのように離齬れた場鰹所に立った。†",
+    ("琴音ち痰ゃんがうなずき、オレはさっきのように離齬れた場鰹所に立った。",
     ""),
-    # Kotone Chisho-chan nodded, and as I had just now stood in a bonito-dovey spot.†
+    # Kotone Chisho-chan nodded, and as I had just now stood in a bonito-dovey spot.
 
     ("「じ痰ゃ、いくぞ」",
     ""),
@@ -230,41 +230,41 @@ text_array = [
     ""),
     # Ogere slowly fired the ball with an Unders Koro.
 
-    ("ボールは弧を描いて琴音ち痰ゃんの烽もとへ…。†",
+    ("ボールは弧を描いて琴音ち痰ゃんのもとへ…。",
     ""),
-    # The ball arcs and goes to the stove of Kotone's stompers...†
+    # The ball arcs and goes to the stove of Kotone's stompers...
 
     ("「エイッ！」",
     ""),
     # "Ahh!"
 
-    ("そんな掛け声で、彼濫女は身をこ墲わばらせた。",
+    ("そんな掛け声で、彼女は身をこわばらせた。",
     ""),
     # With such a shout, the overflowing woman snatched herself into her body.
 
-    ("と、同椏時だっただうか、ボールが勢いを無くして、ストンと地面に獅落ちた。†",
+    ("と、同椏時だっただうか、ボールが勢いを無くして、ストンと地面に落ちた。",
     ""),
-    # And so, the ball lost momentum and fell to the ground.†
+    # And so, the ball lost momentum and fell to the ground.
 
-    ("たしかに琴音ち痰ゃんまで届くコースだったのに、まるでフォークがかかったみたいに獅落ちたんだ…。",
+    ("たしかに琴音ち痰ゃんまで届くコースだったのに、まるでフォークがかかったみたいに落ちたんだ…。",
     ""),
     # It was certainly a course that reached Kotone's shogi, but the lion fell down like a fork on it...
 
-    ("超能力がボールの勢いを殺したに痰違いない。†",
+    ("超能力がボールの勢いを殺したに痰違いない。",
     ""),
-    # It's hard to believe that his psychic power killed the ball's momentum.†
+    # It's hard to believe that his psychic power killed the ball's momentum.
 
     ("「おっ、いー感じじ痰ゃねえか」",
     ""),
     # "Oh, you can't feel any phlegm?"
 
-    ("「あ、で烽も、失敗です。",
+    ("「あ、でも、失敗です。",
     ""),
     # "Ah, and Hot has also failed.
 
-    ("宙に浮かべないと、成功じ痰ゃないんですよね？」†",
+    ("宙に浮かべないと、成功じ痰ゃないんですよね？」",
     ""),
-    # If you don't float in the air, you won't be able to succeed, right?”†
+    # If you don't float in the air, you won't be able to succeed, right?”
 
     ("「まあ、できたらそっちの方がいいけどな」",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # "I understand."
 
-    ("オレはボールを構えた。†",
+    ("オレはボールを構えた。",
     ""),
-    # I held the ball up.†
+    # I held the ball up.
 
     ("・",
     ""),
@@ -290,9 +290,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「諱よ〜し、氈次いくぞぉ」",
     ""),
@@ -302,17 +302,17 @@ text_array = [
     ""),
     # "yes"
 
-    ("「そらっ」†",
+    ("「そらっ」",
     ""),
-    # "Sora" †
+    # "Sora" 
 
     ("もう１０回以繹上鰹投げたはずだ。",
     ""),
     # He should have threw bonito over 10 more times.
 
-    ("ボールはさっきと同じように、琴音ち痰ゃんへｌかって弧を描く。†",
+    ("ボールはさっきと同じように、琴音ち痰ゃんへｌかって弧を描く。",
     ""),
-    # Just like before, the ball arcs to Kotone Chisho-chan.†
+    # Just like before, the ball arcs to Kotone Chisho-chan.
 
     ("「エイッ！」",
     ""),
@@ -322,11 +322,11 @@ text_array = [
     ""),
     # Kotone Chisho-chan put his strength into the ball, and the ball went to the ground with a stomping.
 
-    ("…氏落ちない。†",
+    ("…氏落ちない。",
     ""),
-    # ...Mr. won't fall.†
+    # ...Mr. won't fall.
 
-    ("ボールはいったん獅落ちそうになったが、それで烽もふんばった感じで琴音ち痰ゃんの目の高さにピタリと止まった。",
+    ("ボールはいったん落ちそうになったが、それでもふんばった感じで琴音ち痰ゃんの目の高さにピタリと止まった。",
     ""),
     # The ball almost fell down for a while, but then it felt like it was slurping and stopped at Kotone Chisho-chan's eyes.
 
@@ -338,13 +338,13 @@ text_array = [
     ""),
     # "Yes."
 
-    ("笑迴顔の琴音ち痰ゃん。",
+    ("笑顔の琴音ち痰ゃん。",
     ""),
     # Kotone's face is laughing.
 
-    ("オレ焜も大きくうなずいた。†",
+    ("オレも大きくうなずいた。",
     ""),
-    # My heart was also nodded loudly.†
+    # My heart was also nodded loudly.
 
     ("「え〜っ、どうなってるのぉ！？」",
     ""),
@@ -354,13 +354,13 @@ text_array = [
     ""),
     # Suddenly, I heard such a voice.
 
-    ("ボールがポトンと地面に獅落ちる。",
+    ("ボールがポトンと地面に落ちる。",
     ""),
     # The ball fell on the ground.
 
-    ("見骭ると翌女の子がひとり、驚いた顔でこっちを指差していた。†",
+    ("見骭ると翌女の子がひとり、驚いた顔でこっちを指差していた。",
     ""),
-    # As I looked over, one girl pointed at me with a surprised look on her face.†
+    # As I looked over, one girl pointed at me with a surprised look on her face.
 
     ("「森本…さん？」",
     ""),
@@ -374,25 +374,25 @@ text_array = [
     ""),
     # First year...
 
-    ("同遠級生かな？†",
+    ("同遠級生かな？",
     ""),
-    # Maybe he's a classmate?†
+    # Maybe he's a classmate?
 
     ("「姫武さんっ、それ、超能力なんでしょ？	悪霊じ痰ゃないよね？」",
     ""),
     # "Himetake-san, that's a supernatural power, you're ecstasy? An evil spirit doesn't have any phlegms, right?"
 
-    ("その子は駆け寄驫ると、興奮した様子でまくしたてた。†",
+    ("その子は駆け寄驫ると、興奮した様子でまくしたてた。",
     ""),
-    # The child leapt in and looked excited.†
+    # The child leapt in and looked excited.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("少しとまどって、琴音ち痰ゃんはぎこちなくうなずく。†",
+    ("少しとまどって、琴音ち痰ゃんはぎこちなくうなずく。",
     ""),
-    # A little confused, Kotone Chisho-chan nodded awkwardly.†
+    # A little confused, Kotone Chisho-chan nodded awkwardly.
 
     ("「すっご〜い。ホントの超能力者だったんだ！",
     ""),
@@ -402,69 +402,69 @@ text_array = [
     ""),
     # Hey, show me more!”
 
-    ("森本って子にせがまれ、琴音ち痰ゃんは困った翌風な汲視諮をオレにｌけた。",
+    ("森本って子にせがまれ、琴音ち痰ゃんは困った翌風な視諮をオレにｌけた。",
     ""),
     # Morimoto was pestered by a child, and Kotone Chisho-chan gave me a rough scrutiny consultation.
 
-    ("多分、彼濫女はさっきの空拠竰停止を見たはず。",
+    ("多分、彼女はさっきの空拠竰停止を見たはず。",
     ""),
     # Perhaps the woman had seen the suspension of airbase earlier.
 
-    ("ここで隠して烽もしょうがない。†",
+    ("ここで隠してもしょうがない。",
     ""),
-    # There's no hidden gems here.†
+    # There's no hidden gems here.
 
     ("オレは『見せてやれば』って顔でうなずく。",
     ""),
     # My guts nodded with a face, "Show me and tamper with me."
 
-    ("すると、お烽もむに足元のボールを拾い、琴音ち痰ゃんは静かに目を閉じた。",
+    ("すると、おもむに足元のボールを拾い、琴音ち痰ゃんは静かに目を閉じた。",
     ""),
     # Then, he picked up the ball at his feet on the hot b, and Kotone Chisho-yan quietly closed his eyes.
 
-    ("ちょっとだけ痰例の耳鳴りがして、ボールが琴音ち痰ゃんの手の平からゆっくりと浮かび繧上がった。†",
+    ("ちょっとだけ痰例の耳鳴りがして、ボールが琴音ち痰ゃんの手の平からゆっくりと浮かび上がった。",
     ""),
-    # Just as I was pounding, I was able to sniff, and the ball slowly rose from Kotone's palm and rose.†
+    # Just as I was pounding, I was able to sniff, and the ball slowly rose from Kotone's palm and rose.
 
-    ("ボールにｎで烽も付いているんじ痰ゃないかと手をかざした繧後、浴女の子は驚きの声を繧上げた。",
+    ("ボールにｎでも付いているんじ痰ゃないかと手をかざした後、女の子は驚きの声を上げた。",
     ""),
     # After holding her hand to see that there was a n-shaped bowl and there was no phlegm on the ball, the bathing girl let out a cry of surprise.
 
-    ("「す、すっご〜い！！」†",
+    ("「す、すっご〜い！！」",
     ""),
     # "S-so amazing!!"
 
-    ("その繧後が大変だった。",
+    ("その後が大変だった。",
     ""),
     # After that, it was a tough time.
 
-    ("浴女の子はみんなを連齪れてくると言い出して、それをやめさせるのが大変だったんだ。",
+    ("女の子はみんなを連齪れてくると言い出して、それをやめさせるのが大変だったんだ。",
     ""),
     # It was hard to make the bathing girls stop tampering with everyone and stop them from tampering with it.
 
-    ("みんなに広まったが最纃後、どんどんエスカレートしてやがてはテレビ局煖もやってくるに痰違いない。",
+    ("みんなに広まったが最纃後、どんどんエスカレートしてやがてはテレビ局もやってくるに痰違いない。",
     ""),
     # It spread to everyone, but after the end, it escalated rapidly and eventually became more and more intense, and even more TV dramas began to come into play.
 
-    ("そうなったら超能力が使いこなせて烽も汲結局、琴音ち痰ゃんは不幸になってしまう。†",
+    ("そうなったら超能力が使いこなせても結局、琴音ち痰ゃんは不幸になってしまう。",
     ""),
-    # If that happens, he will be able to use his supernatural powers and even take advantage of Kano, and Kotone Chisho-chan will end up becoming unhappy.†
+    # If that happens, he will be able to use his supernatural powers and even take advantage of Kano, and Kotone Chisho-chan will end up becoming unhappy.
 
-    ("なんとか烽説明して烽内輪で収めて烽もらうことにしたけど、なんだか心配だ。",
+    ("なんとか説明して内輪で収めてもらうことにしたけど、なんだか心配だ。",
     ""),
     # I somehow decided to explain it to him, get it in a circle, and get it fortune, but I'm worried.
 
-    ("けれど、オレは別のことを冾期待していた。†",
+    ("けれど、オレは別のことを冾期待していた。",
     ""),
-    # However, I was hoping for something else.†
+    # However, I was hoping for something else.
 
-    ("浴女の子は尊敬のまなざしで琴音ち痰ゃんを見ていたんだ。",
+    ("女の子は尊敬のまなざしで琴音ち痰ゃんを見ていたんだ。",
     ""),
     # The bathing girl looked at Kotone Chisho-ya with a respectful gaze.
 
-    ("琴音ち痰ゃんの方は少し困闕り顔だったけど…。†",
+    ("琴音ち痰ゃんの方は少し困闕り顔だったけど…。",
     ""),
-    # Kotone Chisho-yan Fukukata looked a little confused, though...†
+    # Kotone Chisho-yan Fukukata looked a little confused, though...
 
     ("とにかく、これがきっかけでみんなの琴音ち痰ゃんを見骭る目が変﨑わってくれれば、嬉しいじ痰ゃないか。",
     ""),

@@ -2,15 +2,15 @@
 # Source file: 0687.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜ＡＢＣの続き）閨（マルチ０Ｅ	微笑）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜ＡＢＣの続き）閨（マルチ０Ｅ	微笑）",
     ""),
-    # (Mixed Luchi, Scales Event 2F LV1) (Continued from Chosen ABC) (Mixed Luchi 0E Smile) †
+    # (Mixed Luchi, Scales Event 2F LV1) (Continued from Chosen ABC) (Mixed Luchi 0E Smile) 
 
-    ("「わたし、さんみたいな、こんな親切な方におｉいしたの、生まれて奄初めてです」",
+    ("「わたし、さんみたいな、こんな親切な方においしたの、生まれて奄初めてです」",
     ""),
     # "It's the first time I've ever been born in Amami that I've been in such a kind, kind, lucky face like Mr.."
 
-    ("「や、やめよ。だいたいマルチ、お前って生まれてどのくらいになるんだ？」†",
+    ("「や、やめよ。だいたいマルチ、お前って生まれてどのくらいになるんだ？」",
     ""),
     # "Yes, stop b. It's about time for you to be born, how long have you been born?"
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Yes, it's yaho yaho ya."
 
-    ("「ってことは、まだ赤ん坊みたいな烽もんか」",
+    ("「ってことは、まだ赤ん坊みたいなもんか」",
     ""),
     # "That means it's still a baby-like hotpot."
 
-    ("「はぁ、そうか烽もしれませんねぇ」◯",
+    ("「はぁ、そうかもしれませんねぇ」◯",
     ""),
     # "Hmm, I see, I can't even boil it." ◯
 

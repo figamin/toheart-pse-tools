@@ -2,9 +2,9 @@
 # Source file: 07AC.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	気にすることない）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	気にすることない）",
     ""),
-    # (Kotone, Scales Event PS) (Choron, No need to worry about it)†
+    # (Kotone, Scales Event PS) (Choron, No need to worry about it)
 
     ("「気にすることないって。",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # For girls, Fukui, who was a little stubborn, is healthy."
 
-    ("「で、で烽も…」†",
+    ("「で、でも…」",
     ""),
-    # "And, and the hot spring..."†
+    # "And, and the hot spring..."
 
-    ("「気にすんなって。オレ焜も気にしねえし」",
+    ("「気にすんなって。オレも気にしねえし」",
     ""),
     # "Don't worry about it. I don't care either."
 
@@ -26,15 +26,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("とは言ってみた烽ものの、琴音ち痰ゃんの顔は今に烽も火をふきそうだ。†",
+    ("とは言ってみたものの、琴音ち痰ゃんの顔は今にも火をふきそうだ。",
     ""),
-    # That said, Kotone Chisho-chan's face seems to be igniting a hot fire right now.†
+    # That said, Kotone Chisho-chan's face seems to be igniting a hot fire right now.
 
     ("「はははっ、まいったなぁ」",
     ""),
     # "Hahaha, I'm in trouble."
 
-    ("禔口ではそう言って烽も、オレ的には困ってる琴音ち痰ゃんが妙に可愛く見えて、嬉しかった。◯",
+    ("禔口ではそう言っても、オレ的には困ってる琴音ち痰ゃんが妙に可愛く見えて、嬉しかった。◯",
     ""),
     # I was happy to hear that Kotone Chisho-chan, who was extremely troubled by the trouble, looked strangely cute.◯
 

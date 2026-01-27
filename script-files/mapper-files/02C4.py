@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Leave it alone and tamper with it.
 
-    ("オレはその場を立ち獅去った。◯",
+    ("オレはその場を立ち去った。◯",
     ""),
     # I stood there and lioned away.◯
 

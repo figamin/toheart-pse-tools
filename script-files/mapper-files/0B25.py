@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "There is, if there is."
 
-    ("「あら、ちょっと強気が減っち痰ゃった墲わね」",
+    ("「あら、ちょっと強気が減っち痰ゃったわね」",
     ""),
     # "Oh, the powerful force has decreased, so it's a sigh of phlegm."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # It's not that it's because you've gained strength...†
 
-    ("「いいか、見てよ。今厓日は意地で烽もパンチを魔当ててやるからな」",
+    ("「いいか、見てよ。今厓日は意地でもパンチを魔当ててやるからな」",
     ""),
     # "Look, look, b. I'll be stubborn on the day now, and I'll hit the punch with the enemy and tamper."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "I wonder if I can do it?"
 
-    ("「へっ。いくら空闍手をやってたからとはいえ、浴女の子を鰍相闡手に一発熹も魔当てられないなんて、﨟情けなさすぎるからな」†",
+    ("「へっ。いくら空闍手をやってたからとはいえ、女の子を鰍相闡手に一発熹も魔当てられないなんて、﨟情けなさすぎるからな」†",
     ""),
     # "Heh. No matter how much he's tampering with the sky, it's too pathetic that he can't even hit a bathing girl with a single shot at the cattle."
 
-    ("「言っとくけど、п私のこと、＝普通の翌女の子だとは思寬わないほうがいい墲わよ」",
+    ("「言っとくけど、п私のこと、＝普通の翌女の子だとは思寬わないほうがいいわよ」",
     ""),
     # "I'll tell you, it's better not to think of me as a normal girl."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Aya∴Ka chuckles.†
 
-    ("「まあ、そのうちそう思うようになる墲わよ」",
+    ("「まあ、そのうちそう思うようになるわよ」",
     ""),
     # "Well, I'll start thinking that soon."
 
@@ -82,19 +82,19 @@ text_array = [
     ""),
     # "yes"
 
-    ("セリオはスポーツバッグのｒから、赤と青のグ鴻ローブを取闔り出し、掾持ってきた。",
+    ("セリオはスポーツバッグのｒから、赤と青のグ鴻ローブを取り出し、掾持ってきた。",
     ""),
     # Segata Rio took out a red and blue ghoo robe from his sports bag and brought it to him.
 
-    ("オレと綾∴香はそれを受け取闔り、閨手にはめた。†",
+    ("オレと綾∴香はそれを受け取り、閨手にはめた。†",
     ""),
     # Megure and Aya Kara received it and put it in their hands.†
 
-    ("「準備はいい墲わよ」",
+    ("「準備はいいわよ」",
     ""),
     # "You're ready."
 
-    ("「こっち烽もだ」",
+    ("「こっちもだ」",
     ""),
     # "This one is also hot."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "She's phlegm, let's start right away."
 
-    ("「おう、ぐだぐだ揩喋ってたって始まらねえ。さっさとおっ始めようぜ」",
+    ("「おう、ぐだぐだ喋ってたって始まらねえ。さっさとおっ始めようぜ」",
     ""),
     # "Oh, it won't start even if you're talking silly. Let's start quickly."
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # Judgment Segata Rio makes a comeback.
 
-    ("「戟レディ｢｢」",
+    ("「レディ｢｢」",
     ""),
     # "The Witch Lady"
 
-    ("ふたりは同椏時に揩拳を構えた。†",
+    ("ふたりは同椏時に拳を構えた。†",
     ""),
     # The two of them raised their fist while simultaneously meeting.†
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Rough!
 
-    ("氏試㍽合開始の声とと烽もに、オレは大きく前に踏み出した。",
+    ("氏試㍽合開始の声とともに、オレは大きく前に踏み出した。",
     ""),
     # With the voices of the start of the test, I took a big step forward.
 

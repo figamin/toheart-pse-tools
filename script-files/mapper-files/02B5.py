@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Senpai nodded.†
 
-    ("「なあ、諱先輩？	オレ、思うんだけどさあ、＊淫俣勛当淫俣厲ﾔで翌送闡り迎えして烽もらってち痰ゃあ、運動不足になっちまうぜ？	たまにはオレといっしょに烽歩いて帰んない？」",
+    ("「なあ、諱先輩？	オレ、思うんだけどさあ、＊淫俣勛当淫俣厲ﾔで翌送闡り迎えしてもらってち痰ゃあ、運動不足になっちまうぜ？	たまにはオレといっしょに歩いて帰んない？」",
     ""),
     # "Hey, Senpai, I'm really excited, I think so, *I'm going to take a trip to Inumata, and get some hot springs, so I'm not going to get enough exercise, right? Sometimes you don't walk home with my intense legs?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Old man lol Iso's skull the next day.†
 
-    ("校蜊門を出た途端、まるで狙いすましたようなタイミングで、光り輝く浮黒塗闢りの鰍リムジンが魔走ってきた。",
+    ("校門を出た途端、まるで狙いすましたようなタイミングで、光り輝く浮黒塗闢りの鰍リムジンが魔走ってきた。",
     ""),
     # As soon as I left the school gates, it was like I had been targeting, and a shining, floating black-painted chrysanthemum limousine came running wild.
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # The old man who was in a state of disgust... he had no phlegm.†
 
-    ("「やっほ〜っ、姉さん、迎えにｗた墲わよ〜」",
+    ("「やっほ〜っ、姉さん、迎えにｗたわよ〜」",
     ""),
     # "Ahhh, sister, I'm here to pick you up."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # A Sanskrit uniform for a temple-dead woman.
 
-    ("そうだ、間瘧違いない。†",
+    ("そうだ、間違いない。†",
     ""),
     # That's right, it must be awkward.†
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Stop tampering with strange ways of remembering" †
 
-    ("「こんなとこでｉうなんて偶然ね」",
+    ("「こんなとこでうなんて偶然ね」",
     ""),
     # "It's a coincidence that I'm in a place like this."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # He nodded.
 
-    ("「諱先輩の…い烽もうと」†",
+    ("「諱先輩の…いもうと」†",
     ""),
     # "I'm going to have a hot spring from Senpai" †
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # Taking it aside, let's just say he's #--.†
 
-    ("「やっほ〜っ、姉さん、迎えにｗた墲わよ〜」",
+    ("「やっほ〜っ、姉さん、迎えにｗたわよ〜」",
     ""),
     # "Ahhh, sister, I'm here to pick you up."
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # He nodded.
 
-    ("「諱先輩の…い烽もうと」†",
+    ("「諱先輩の…いもうと」†",
     ""),
     # "I'm going to have a hot spring from Senpai" †
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # Senpai V, who was born in the guilt, looked at my face seriously as if to determine the value of the matter.†
 
-    ("「姉さん烽も、なかなか隅に置けない墲わねぇ」",
+    ("「姉さんも、なかなか隅に置けないわねぇ」",
     ""),
     # "Sister-san's hotpot is hard to put in the corner, too."
 
@@ -282,11 +282,11 @@ text_array = [
     ""),
     # "Oh, is that so?"
 
-    ("「姉さん烽もじつは≠メンクイだってことか」",
+    ("「姉さんもじつは≠メンクイだってことか」",
     ""),
     # "Isn't it actually that the older sister is ≠Menkui?"
 
-    ("「まあ、轣顔には墲わりと自信あるからなー」",
+    ("「まあ、轣顔にはわりと自信あるからなー」",
     ""),
     # "Well, I'm pretty confident about my face."
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # B The only thing he looks similar to the next day.Relax
 
-    ("Ｃ	ふたりと烽もｔ人だな。閨",
+    ("Ｃ	ふたりともｔ人だな。閨",
     ""),
     # C: The two and Ho are also T-shirts.Relax
 

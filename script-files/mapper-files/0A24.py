@@ -2,11 +2,11 @@
 # Source file: 0A24.txt
 
 text_array = [
-    ("（Ａ	そんなの気搴持ちようだ？）†",
+    ("（Ａ	そんなの気搴持ちようだ？）",
     ""),
-    # (A: Does that seem like a bit of a bit of a bit b?)†
+    # (A: Does that seem like a bit of a bit of a bit b?)
 
-    ("「そんなの気の揩持ちようだ？	そうやって甘んじてるから不幸を呼び寄せちまうんじ痰ゃないのか？」",
+    ("「そんなの気の持ちようだ？	そうやって甘んじてるから不幸を呼び寄せちまうんじ痰ゃないのか？」",
     ""),
     # "Does that seem like a bit of a temptation? You're so contented to do something like that, so you're not going to bring about misfortune and stimulation?"
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Uh, yes..."
 
-    ("「たとえ前世がどうだうと、掾理女緒ち痰ゃんは揩理女緒ち痰ゃんとしてだな｢｢」†",
+    ("「たとえ前世がどうだうと、掾理女緒ち痰ゃんは理女緒ち痰ゃんとしてだな｢｢」",
     ""),
-    # "Even if you don't know what your past life is, the sphincter is like a sphincter ""†
+    # "Even if you don't know what your past life is, the sphincter is like a sphincter ""
 
     ("そこまで言いかけたとき、",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # Accumulate the $, a car.
 
-    ("ピンときた。†",
+    ("ピンときた。",
     ""),
-    # Hit me.†
+    # Hit me.
 
     ("「掾理女緒ち痰ゃん、あぶねーっ！」",
     ""),
@@ -46,29 +46,29 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("オレは揩理女緒ち痰ゃんの腕をつかんで、強引に引っぱった。†",
+    ("オレは理女緒ち痰ゃんの腕をつかんで、強引に引っぱった。",
     ""),
-    # I grabbed Ochi Sphinja's arm and forced her to pull her.†
+    # I grabbed Ochi Sphinja's arm and forced her to pull her.
 
     ("思ったとおりだ。",
     ""),
     # It's just as I thought.
 
-    ("車は、さっきまで揩理女緒ち痰ゃんが立っていたあたりに思いっきり泥盗を跳ね繧上げた。",
+    ("車は、さっきまで理女緒ち痰ゃんが立っていたあたりに思いっきり泥盗を跳ね上げた。",
     ""),
     # The car jumped up the mud stolen as hard as it could be, where the car had been standing up until just now.
 
-    ("オレの救出が遅ければ、掾理女緒ち痰ゃんはズブ濡齡れになっていただう。†",
+    ("オレの救出が遅ければ、掾理女緒ち痰ゃんはズブ濡齡れになっていただう。",
     ""),
-    # If it was too late to rescue my throbbing woman, the throbbing woman would have been completely wet.†
+    # If it was too late to rescue my throbbing woman, the throbbing woman would have been completely wet.
 
-    ("「セオリーどおりだな。なんとなくオレ焜も、掾理女緒ち痰ゃんの不幸のパターンが読めてきたぜ。間一髪だった｢｢」",
+    ("「セオリーどおりだな。なんとなくオレも、掾理女緒ち痰ゃんの不幸のパターンが読めてきたぜ。間一髪だった｢｢」",
     ""),
     # "It's exactly like Theogatari. For some reason, I was able to read the misfortune of my daughter Ochi Sphinja. It was a close call, ""
 
-    ("「くすん…」†",
+    ("「くすん…」",
     ""),
-    # "Damn..." †
+    # "Damn..." 
 
     ("「あ、あれ？	どうしたんだ？」",
     ""),
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # Is it too much effort to put in?
 
-    ("「思寬わずフルパ純ワーでやっちまった。ごめんな、いまのはオレが悪かった」†",
+    ("「思寬わずフルパ純ワーでやっちまった。ごめんな、いまのはオレが悪かった」",
     ""),
     # "I didn't think about it and I cried and slaughtered it. Sorry, I was so bad at what I just said."
 

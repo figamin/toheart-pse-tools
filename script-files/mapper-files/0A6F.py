@@ -2,11 +2,11 @@
 # Source file: 0A6F.txt
 
 text_array = [
-    ("（Ｂ	つきあってるみたいな烽もんだ。）†",
+    ("（Ｂ	つきあってるみたいなもんだ。）",
     ""),
-    # (B It's like we're dating.)†
+    # (B It's like we're dating.)
 
-    ("「他人から見たら、つきあってるみたいな感じか烽もしらねえな」",
+    ("「他人から見たら、つきあってるみたいな感じかもしらねえな」",
     ""),
     # "From the perspective of other people, it feels like we're dating, or even Hou doesn't know."
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Oh, that's right..."
 
-    ("目に見えて揩理女緒ち痰ゃんは、ガックリと肩を獅落とす。",
+    ("目に見えて理女緒ち痰ゃんは、ガックリと肩を落とす。",
     ""),
     # Visibly, the spurt of the shoulders slumped.
 
-    ("「ま、こいつとつきあうっつって烽も、タカが知れてるけどな。少なくと烽も、恋人同士なんて烽もんじ痰ゃ…」†",
+    ("「ま、こいつとつきあうっつっても、タカが知れてるけどな。少なくとも、恋人同士なんてもんじ痰ゃ…」",
     ""),
     # "Well, Taka is also familiar with Kon, who is dating this guy. At least Kon, lovers are all kinds of phlegm..."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # And it started to go down.
 
-    ("「おい…」†",
+    ("「おい…」",
     ""),
-    # "Hey…"†
+    # "Hey…"
 
-    ("「ふふ〜ん。アンタ焜もなかなか言う墲わね」",
+    ("「ふふ〜ん。アンタもなかなか言うわね」",
     ""),
     # "Hmm. You're pretty yelling too."
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # "'What is it?"
 
-    ("「あの場面で、あんなセリフが出髀るなんて、ちょっとすごい墲わよ。度胸諡よね〜」",
+    ("「あの場面で、あんなセリフが出髀るなんて、ちょっとすごいわよ。度胸諡よね〜」",
     ""),
     # "It's a huge hit to see such a serene riff in that scene. It's a heartwarming feat."
 
-    ("「くだんねー話しようってんなら、オレは烽もう行くぜ」†",
+    ("「くだんねー話しようってんなら、オレはもう行くぜ」",
     ""),
-    # "If you're going to talk about it, I'll go now." †
+    # "If you're going to talk about it, I'll go now." 
 
-    ("「はいはい。じ痰ゃ、そこまでつきあう墲わよ。",
+    ("「はいはい。じ痰ゃ、そこまでつきあうわよ。",
     ""),
     # "Yes, yes. I'm going to have to go along with you so much.
 
-    ("私たち、つきあってるみたいな烽もんなんだ烽もんね〜」",
+    ("私たち、つきあってるみたいなもんなんだもんね〜」",
     ""),
     # It's like we're dating, it's a hot thing."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Oh? Are you having trouble?"
 
-    ("「かなり、な」†",
+    ("「かなり、な」",
     ""),
     # "Perhaps, what?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "You don't have to do it."
 
-    ("「…じ痰ゃ気搴持ち悪く公表するしかない墲わね…」",
+    ("「…じ痰ゃ気搴持ち悪く公表するしかないわね…」",
     ""),
     # "...If you have to be careful, you'll have no choice but to make a public statement..."
 
@@ -98,11 +98,11 @@ text_array = [
     ""),
     # "Hey, I'll leave you there."
 
-    ("「あらら、ちょっと待ってったら〜っ；」†",
+    ("「あらら、ちょっと待ってったら〜っ；」",
     ""),
-    # "Oh, I'll wait a moment!" †
+    # "Oh, I'll wait a moment!" 
 
-    ("ちょっと沈んだ揩理女緒ち痰ゃんのことが思い出されたが、今厓日のとこは志保と、いつ烽ものくだらないｉ話をしながら烽歩いた。◯",
+    ("ちょっと沈んだ理女緒ち痰ゃんのことが思い出されたが、今厓日のとこは志保と、いつものくだらない話をしながら歩いた。◯",
     ""),
     # I remembered the sunk sank, but on the day I was on the brink of the day, I walked around with Shiho, talking about a silly hot topic.◯
 

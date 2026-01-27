@@ -2,11 +2,11 @@
 # Source file: 03AC.txt
 
 text_array = [
-    ("（智子	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ａ	もう帰汲う。	の続き）†",
+    ("（智子	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ａ	もう帰う。	の続き）†",
     ""),
     # (Tomoko's Scales Event Returning Road LV2) (Continued from Chosen Sou A to Return.)†
 
-    ("今厓日はこのぐらいにして、もう帰汲う。",
+    ("今厓日はこのぐらいにして、もう帰う。",
     ""),
     # That's about the day I'm back now.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Above all, no matter how much it's a game, I get bored of it when I try to do the same thing over and over again.
 
-    ("冝日をｉめてトライすっか。",
+    ("冝日をめてトライすっか。",
     ""),
     # Let's have a banquet and have a banquet.
 

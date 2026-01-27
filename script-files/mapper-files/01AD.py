@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Akari nodded happily.†
 
-    ("ちょっと大回濶りして、商店街を烽歩いているときのことだ。",
+    ("ちょっと大回濶りして、商店街を歩いているときのことだ。",
     ""),
     # It was when I was walking around the shopping district with a huge round of voyages.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Yeah. This is a bear chow!"
 
-    ("「…お烽もいっきり、バッタｃモンじ痰ゃねーか、やめ、やめ。",
+    ("「…おもいっきり、バッタｃモンじ痰ゃねーか、やめ、やめ。",
     ""),
     # "...They're so excited, grasshoppers are so phlegmy, stop b, stop b.
 
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # Okay, let's buy it!”
 
-    ("わずかに悩む烽ものの、あかりは即糟した。",
+    ("わずかに悩むものの、あかりは即した。",
     ""),
     # Although the hot spring was a little worried, Akari immediately replied.
 
-    ("「げ、本気かよ。全然か墲わいくねーぞ、コレ」",
+    ("「げ、本気かよ。全然かわいくねーぞ、コレ」",
     ""),
     # "Ah, are you serious? It's not cute at all, this is super cute."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "I guess so?"
 
-    ("あかりはクマチャウをひとつ、潤ワゴンから抱くようにして揩持ち繧上げた。†",
+    ("あかりはクマチャウをひとつ、潤ワゴンから抱くようにして持ち上げた。†",
     ""),
     # Akari held one Kuma Chau out of the Jun Wagon and held it up.†
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "I feel a unique charm, like my eyes and my face being depressed!"
 
-    ("「…お前、か墲わいいとか、そういうことじ痰ゃなくて、単に個性的な烽ものにひかれてんじ痰ゃねーの？」†",
+    ("「…お前、かわいいとか、そういうことじ痰ゃなくて、単に個性的なものにひかれてんじ痰ゃねーの？」†",
     ""),
     # "...You don't have to be phlegm like that, you're just being hit with a unique hot thing?"
 
-    ("「…うーん、そうか烽も。で烽もほら、個性的でか墲わいいでしょ？」",
+    ("「…うーん、そうかも。でもほら、個性的でかわいいでしょ？」",
     ""),
     # "...Hmm, I see, Hoo too. And Hoo too, it's unique and cute, slut?"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # A When I hear that kind of thing, I feel that way...Relax
 
-    ("Ｂ	か墲わいくねー。閨",
+    ("Ｂ	かわいくねー。閨",
     ""),
     # B It's so cute.Relax
 

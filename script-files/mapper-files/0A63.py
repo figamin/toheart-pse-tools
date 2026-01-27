@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Part-time job? What if you take a break from the test period?"
 
-    ("「うん。だから、チラシ配阡りのバイトとかは休ませて烽もらってるよ。いつ烽もの半分くらいしか働いてないんだ」†",
+    ("「うん。だから、チラシ配阡りのバイトとかは休ませてもらってるよ。いつもの半分くらいしか働いてないんだ」†",
     ""),
     # "Yeah. That's why I take my time off from part-time jobs to deliver flyers and get some hot springs. When are I only working about half of the hot springs?"
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Is this how strong you are, are you going to test?"
 
-    ("「п私、もと烽もと頭謫よくないから、勉強して烽もあんまり変﨑わらないの」",
+    ("「п私、もともと頭謫よくないから、勉強してもあんまり変﨑わらないの」",
     ""),
     # "I'm not really smart at all, so I've studied it and haven't changed much at all."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "No, it's tampering."
 
-    ("そうで烽もないよな、ほんとに。†",
+    ("そうでもないよな、ほんとに。†",
     ""),
     # Yes, there's no hot water, really.†
 
-    ("「あの、じつは墲わからないとこがあって…、も、もし、諱よ、諱よかったら、ちょっと教えてくれないかな…？」",
+    ("「あの、じつはわからないとこがあって…、も、もし、諱よ、諱よかったら、ちょっと教えてくれないかな…？」",
     ""),
     # "Well, there's actually a place where I don't understand... But, if you like, I'd like to hear you, could you please let me know...?"
 

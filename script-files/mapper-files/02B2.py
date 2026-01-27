@@ -2,11 +2,11 @@
 # Source file: 02B2.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（選択綜Ｂ	いつ烽もいっしょに帰鼡れり痰ゃいいのにな）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（選択綜Ｂ	いつもいっしょに帰鼡れり痰ゃいいのにな）",
     ""),
-    # (Seri°Chuang, Scales Event 1F LV2)Seri (Select B, whenever I can return to the hot springs, I wish I had phlegm)†
+    # (Seri°Chuang, Scales Event 1F LV2)Seri (Select B, whenever I can return to the hot springs, I wish I had phlegm)
 
-    ("「いつ烽もいっしょに帰鼡れり痰ゃいいのになー」",
+    ("「いつもいっしょに帰鼡れり痰ゃいいのになー」",
     ""),
     # "I wish I could just go home to the hot springs."
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # To do that, I have to first do something about that V-rou.
 
-    ("オレはじじいを横目で見た。†",
+    ("オレはじじいを横目で見た。",
     ""),
-    # I looked at my old man sideways.†
+    # I looked at my old man sideways.
 
-    ("「ふたりがち痰ゃんとした恋人同士になり痰ゃ、あのじーさん烽もあきらめるかな？」",
+    ("「ふたりがち痰ゃんとした恋人同士になり痰ゃ、あのじーさんもあきらめるかな？」",
     ""),
     # "They're two of them becoming lovers with a tendency to sigh, so will they give up on that old man?"
 
@@ -30,7 +30,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「なーんてな！」†",
+    ("「なーんてな！」",
     ""),
     # "What!"
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Twice.
 
-    ("こいつがいる限り、ふたりは素直に汲結ばれそうにないぜ。†",
+    ("こいつがいる限り、ふたりは素直に結ばれそうにないぜ。",
     ""),
-    # As long as this guy is there, it seems unlikely that the two will be united.†
+    # As long as this guy is there, it seems unlikely that the two will be united.
 
-    ("「なんだか繧後撃がうるさいからな。",
+    ("「なんだか後撃がうるさいからな。",
     ""),
     # "It's because the attacks after the scenes are noisy.
 
@@ -62,7 +62,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレは手を繧上げ、その場を獅去った。◯",
+    ("オレは手を上げ、その場を去った。◯",
     ""),
     # My heart lifted my hand and left the scene.◯
 

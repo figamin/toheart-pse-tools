@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "...I'm going to test the microphone right now.
 
-    ("♪街がフ純ワフ純ワ气ぁ、ここウキウキぃ、もおすぐぅ、あなたにぃｉえ〜驕るのぉ」†",
+    ("♪街がフ純ワフ純ワ气ぁ、ここウキウキぃ、もおすぐぅ、あなたにぃえ〜驕るのぉ」†",
     ""),
     # ♪The city is pure and pure, I'm excited, I'm coming soon, I'm hoping for you."†
 
-    ("「てめえ、曲煖も鳴逍らねえうちからなにひとりで歌い始めてんだ？」",
+    ("「てめえ、曲も鳴逍らねえうちからなにひとりで歌い始めてんだ？」",
     ""),
     # "What, you're not sing, you're not gonna sing, what are you starting to sing on your own?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "I'll take a look at you b"
 
-    ("…マイクを揩持たせたら離さないっていうか、マイク揀持たせたらどこで烽も歌う、ってタイプだな。†",
+    ("…マイクを持たせたら離さないっていうか、マイク揀持たせたらどこでも歌う、ってタイプだな。†",
     ""),
     # ...I don't think he'll let go if he holds the microphone, but if he holds the microphone, he'll sing wherever he goes.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # Apparently the setting was finished, so now I traced the page of the song list, which I had held with my fingers with a front noshi on the side of the karaku remote control.
 
-    ("「おい！	いま歌ったのに烽もう歌うのか？」",
+    ("「おい！	いま歌ったのにもう歌うのか？」",
     ""),
     # "Hey! I just sang, are you singing now?"
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Beep beep...
 
-    ("％力を終えると、彼濫女は素¢早くお立ち台に繧上った。",
+    ("％力を終えると、彼女は素¢早くお立ち台に上った。",
     ""),
     # After finishing his % power, the woman quickly rose to the stage.
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # Shihome, I'm starting to star in Shintokuimo...
 
-    ("しか烽も、オレとの勝縁負で歌うなんて、諱よほど自信があるらしい。†",
+    ("しかも、オレとの勝縁負で歌うなんて、諱よほど自信があるらしい。†",
     ""),
     # However, it seems that Kao is very confident in singing with a victory for me.†
 
-    ("「偶然がぁ、い〜くつ烽もぉ、かさなー閨りあ〜あってぇ」",
+    ("「偶然がぁ、い〜くつもぉ、かさなー閨りあ〜あってぇ」",
     ""),
     # "It's a coincidence, there's a hot spring, there's a little bit of a sloppy thing."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # ...Kaji Ai Henzaki is good, it's not good.
 
-    ("マイクなんかいらねーくらい声が通ってるし、感誧情熄もしっかりこ烽もっている…。†",
+    ("マイクなんかいらねーくらい声が通ってるし、感誧情熄もしっかりこもっている…。†",
     ""),
     # He has voices that don't need a microphone, and he has a strong emotional response...†
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # I've mentioned it many times, but Shiho's song is pretty good.
 
-    ("悔しいが、オレは彼濫女ほど、うまくない。",
+    ("悔しいが、オレは彼女ほど、うまくない。",
     ""),
     # It's frustrating, but I'm not as good as a guy.
 
-    ("それで烽も彼濫女との勝縁負を受けるのは、諱取っておきの揩理由があるからだ。†",
+    ("それでも彼女との勝縁負を受けるのは、諱取っておきの理由があるからだ。†",
     ""),
     # So, the reason why Kano also receives a victory for a woman with a huge amount of women is because there is a reason to save her name.†
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # ・†
 
-    ("「≠盾ｏ窒ｒ魔ｖ窒ｒ	凵ｙ盾ｏ浮ｕ	＝ａ窒ｒ	香ｍ凾ｙ	潤ｏ獅ｎ撃ｌ凾ｙ	≠撃ｌ奄ｉ獅ｎ№ｇ	≠≠ａ窒ｒｔ」",
+    ("「≠盾ｏ窒ｒ魔ｖ窒ｒ	凵ｙ盾ｏ浮ｕ	＝ａ窒ｒ	香ｍ凾ｙ	潤ｏｎ撃ｌ凾ｙ	≠撃ｌ奄ｎ№ｇ	≠≠ａ窒ｒｔ」",
     ""),
     # "≠ shield o nitrogen vb nitrogen vb nitrogen shield o float = a nitrogen m sniff y sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff sniff
 
@@ -210,15 +210,15 @@ text_array = [
     ""),
     # ...Don't do it.
 
-    ("ここの店は、どんなヘタクソが歌って烽も、５００点は取齊れる。",
+    ("ここの店は、どんなヘタクソが歌っても、５００点は取齊れる。",
     ""),
     # This shop has 500 points for every bad guy sings and hot springs.
 
-    ("何百点燗も烽もらえて、一見すごそうに見えるが、実は５００〜７００の間の２００点ほどが本末当の得点だ。†",
+    ("何百点燗ももらえて、一見すごそうに見えるが、実は５００〜７００の間の２００点ほどが本末当の得点だ。†",
     ""),
     # At first glance, it seems amazing to get hundreds of hot spots, but in fact, the score for the final year is about 200 points, between 500 and 700.†
 
-    ("はやい話、彼濫女の得点は２００点椏満点湯、１８５点という墲わけだ。",
+    ("はやい話、彼女の得点は２００点椏満点湯、１８５点というわけだ。",
     ""),
     # It's a bit of a pain, but the point for the girl's all 200 points is 185 points.
 
@@ -230,15 +230,15 @@ text_array = [
     ""),
     # Shiho is sputuming.†
 
-    ("ファンファー戟レの繧後、諱画面はイニシャャル登録譏画面に変﨑わった。",
+    ("ファンファーレの後、諱画面はイニシャャル登録譏画面に変﨑わった。",
     ""),
     # After the fanfare was released, the name screen turned into a registered page for registration.
 
-    ("しか烽もこの店は、縺上位１０名のイニシャャルが登録できるようになっている。†",
+    ("しかもこの店は、縺上位１０名のイニシャャルが登録できるようになっている。†",
     ""),
     # However, this store is now available for registration of the top 10 people in the Inisha Cry.†
 
-    ("席に戻った彼濫女は鰍リｃモコンを操闡り、慣れた手つきで『ＳＨＣ』と登録した。",
+    ("席に戻った彼女は鰍リｃモコンを操闡り、慣れた手つきで『ＳＨＣ』と登録した。",
     ""),
     # When the woman returned to her seat, she operated the Crocodile C-Motor and registered as "SHC" with a familiar hand.
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Now, it's time for your number."
 
-    ("＝早く烽も勝った気分の、志保が言う。",
+    ("＝早くも勝った気分の、志保が言う。",
     ""),
     # = Shiho says, feeling like Hou won early.
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "I know."
 
-    ("カラオケ採点機ってのは、歌がうまけり痰ゃ良い点が出髀るって墲わけじ痰ゃない。†",
+    ("カラオケ採点機ってのは、歌がうまけり痰ゃ良い点が出髀るってわけじ痰ゃない。†",
     ""),
     # The Kaban Raoke Score Machine is a song that is good enough to show good points when the song is good.†
 
@@ -294,7 +294,7 @@ text_array = [
     ""),
     # ...Look b.
 
-    ("オレはゆっくりと、お立ち台に繧上った。",
+    ("オレはゆっくりと、お立ち台に上った。",
     ""),
     # I slowly climbed up to the platform.
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # "Ahhh! So amazing, I've gotten so good!"
 
-    ("人の気煖も知迺らないで、志保はソファーで笑い転げている。",
+    ("人の気も知迺らないで、志保はソファーで笑い転げている。",
     ""),
     # Without even understanding other people's energy, Shiho laughs and tumbles on the sofa.
 
@@ -326,7 +326,7 @@ text_array = [
     ""),
     # ...Look at it now.†
 
-    ("「別れて〜は・じめ〜て、気・づくこい烽も、あるのさ〜」",
+    ("「別れて〜は・じめ〜て、気・づくこいも、あるのさ〜」",
     ""),
     # "Break up, I'm in the middle of the day, and there are some hot topics to be careful about."
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # ・†
 
-    ("「きょ〜う烽も・オレは、あの冾日〜のキ・ミ・をさがす」◯",
+    ("「きょ〜うも・オレは、あの冾日〜のキ・ミ・をさがす」◯",
     ""),
     # "I'm going to search for that day's love" ◯
 
@@ -442,7 +442,7 @@ text_array = [
     ""),
     # My heart was just blurred.†
 
-    ("「きっとそうよ！	じ痰ゃなき痰ゃ、あんな下濶手な歌に６９５点燗もつく墲わけない烽もの！」",
+    ("「きっとそうよ！	じ痰ゃなき痰ゃ、あんな下濶手な歌に６９５点燗もつくわけないもの！」",
     ""),
     # "That's true! There's no way a phlegm is something that can't be helped by 695 points of warming up such a smug song!"
 
@@ -454,11 +454,11 @@ text_array = [
     ""),
     # When he retorted and tampered, Shiho freaked out his arms and legs,
 
-    ("「悔しぃ〜っ！	あんたにできるんなら、あたしに烽もできる墲わ！」",
+    ("「悔しぃ〜っ！	あんたにできるんなら、あたしにもできるわ！」",
     ""),
     # "I'm so sorry! If you can do it, I'll be able to do it!"
 
-    ("今度は彼濫女熄も痰例の歌い方を始めた。",
+    ("今度は彼女熄も痰例の歌い方を始めた。",
     ""),
     # This time, the woman who had overflowed also began singing and blessings.
 
@@ -494,7 +494,7 @@ text_array = [
     ""),
     # On that day, he ended up with the woman who was a big fan of the slut, and he managed to get Shiho to treat her to the slut.
 
-    ("…で烽も、オレ焜も志保みたく、うまく歌えるようになりたい烽もんだ…。◯",
+    ("…でも、オレも志保みたく、うまく歌えるようになりたいもんだ…。◯",
     ""),
     # ...I want to be able to sing well, both Ka and my super-realistic guy, and I want to be able to sing well...◯
 

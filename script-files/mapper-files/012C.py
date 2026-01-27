@@ -2,11 +2,11 @@
 # Source file: 012C.txt
 
 text_array = [
-    ("（ＶＳイベント	琴音ＶＳあかり）閨（選択綜	彼濫女なんかじ痰ゃないよ）†",
+    ("（ＶＳイベント	琴音ＶＳあかり）閨（選択綜	彼女なんかじ痰ゃないよ）",
     ""),
-    # (VS Event Kotone VS Akari) (Choice Sono, you have no phlegm for a woman) †
+    # (VS Event Kotone VS Akari) (Choice Sono, you have no phlegm for a woman) 
 
-    ("「彼濫女なんかじ痰ゃないよ」",
+    ("「彼女なんかじ痰ゃないよ」",
     ""),
     # "He's a lazy woman, you can't phlegm."
 
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "I see... what is it?"
 
-    ("「ああ、オレとあかりは、ただの幼なじみさ。まあ、言ってみり痰ゃ家族みたいな烽もんかな。いっしょにいるのが≠普通なんだ」",
+    ("「ああ、オレとあかりは、ただの幼なじみさ。まあ、言ってみり痰ゃ家族みたいなもんかな。いっしょにいるのが≠普通なんだ」",
     ""),
     # "Ah, I'm a gut and Akari are just childhood friends. Well, I guess they're just like family. It's normal for them to be in the slut."
 
-    ("「家族みたいな烽もの…ですか」†",
+    ("「家族みたいなもの…ですか」",
     ""),
     # "Are you a family-like hot spring thing?"
 
-    ("「ま、オレの方は、ただいま彼濫女蜿募集薯ってことにしといてくれ」",
+    ("「ま、オレの方は、ただいま彼女蜿募集薯ってことにしといてくれ」",
     ""),
     # "Well, my super-sexual Fukukata should just say that he's looking for a huge girl and a potato."
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "...Ah, yes, I'll accept it."
 
-    ("言ってから、琴音ち痰ゃんは自分のオーバーな敬鼬語に苦笑した。†",
+    ("言ってから、琴音ち痰ゃんは自分のオーバーな敬鼬語に苦笑した。",
     ""),
-    # After saying this, Kotone Chishoyan smiled wryly at her overly eulogy.†
+    # After saying this, Kotone Chishoyan smiled wryly at her overly eulogy.
 
     ("「はははっ、そり痰ゃどーも、ごていねいに。じ痰ゃあ、オレはこっちだから」",
     ""),

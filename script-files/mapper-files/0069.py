@@ -2,9 +2,9 @@
 # Source file: 0069.txt
 
 text_array = [
-    ("４／２６（土）†",
+    ("４／２６（土）",
     ""),
-    # 4/26 (Sat)†
+    # 4/26 (Sat)
 
     ("さ〜て、終尞わったぞ。",
     ""),
@@ -22,29 +22,29 @@ text_array = [
     ""),
     # This is especially true when you think that Ming Shun Day is Sunny's Day.
 
-    ("倍率ドン、さらに倍って感じだな。†",
+    ("倍率ドン、さらに倍って感じだな。",
     ""),
-    # The multiplier is even more doubled.†
+    # The multiplier is even more doubled.
 
-    ("だらだらと廊下を烽歩く。",
+    ("だらだらと廊下を歩く。",
     ""),
     # I walked around the hallways lazily.
 
-    ("帰闍りの生徒たちとすれ痰違う。†",
+    ("帰闍りの生徒たちとすれ痰違う。",
     ""),
-    # The students who have returned home are completely different.†
+    # The students who have returned home are completely different.
 
-    ("知った顔にで烽も出初えればいいが、そんなこと烽もなく、階段の前にｗた。†",
+    ("知った顔にでも出初えればいいが、そんなこともなく、階段の前にｗた。",
     ""),
-    # I wish I could get some hot springs on my familiar face, but there was no hot spring, so I laughed at him in front of the stairs.†
+    # I wish I could get some hot springs on my familiar face, but there was no hot spring, so I laughed at him in front of the stairs.
 
     ("階段を降闕りて、１階の廊下にｗた。",
     ""),
     # I descended the stairs and headed out into the corridor on the first floor.
 
-    ("とくに誰に出初うこと烽もなかった。†",
+    ("とくに誰に出初うこともなかった。",
     ""),
-    # I never had any particular experience with anyone.†
+    # I never had any particular experience with anyone.
 
     ("ふあ〜あ。",
     ""),
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # It breathes out the air outside and stretches out loudly.
 
-    ("さてと、帰闍りますか。†",
+    ("さてと、帰闍りますか。",
     ""),
-    # Well, will you go back?†
+    # Well, will you go back?
 
-    ("４獅月２６冾日は終尞わりだ。",
+    ("４月２６冾日は終尞わりだ。",
     ""),
     # The April 26th day of Shizuki is over.
 
-    ("その冾日は不覚に烽も、遅くまで、テレビの深髏夜坙放藍送を見てしまった。",
+    ("その冾日は不覚にも、遅くまで、テレビの深髏夜坙放藍送を見てしまった。",
     ""),
     # On that day, I was left unaware of the sudden release of the TV drama, and I watched the deep night and indigo.
 

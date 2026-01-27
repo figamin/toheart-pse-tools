@@ -2,15 +2,15 @@
 # Source file: 08D8.txt
 
 text_array = [
-    ("（戟レミィ	）閨（夕髣暮れ）閨（梶リビング）†",
+    ("（レミィ	）閨（夕髣暮れ）閨（梶リビング）",
     ""),
-    # (Kaji Living Room)†
+    # (Kaji Living Room)
 
     ("腹減ったぁ、＝メシ〜。",
     ""),
     # I'm hungry, = I'm eating.
 
-    ("飯で烽も食おうとキッチンを覗いた瞬間、思い出した。",
+    ("飯でも食おうとキッチンを覗いた瞬間、思い出した。",
     ""),
     # I peeked into the kitchen to eat some hot water over rice and remembered it.
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # On the day of the shopping district, it was a shopping district Thanksgiving, and they were selling cheaply!
 
-    ("とくに奄ラー＝メンとか、保存食系が安かったよな。†",
+    ("とくに奄ラー＝メンとか、保存食系が安かったよな。",
     ""),
-    # I think Amami Ramen and preserved foods were especially cheap.†
+    # I think Amami Ramen and preserved foods were especially cheap.
 
     ("こういう桙時に食数を浮かそうと思って、帰闍りにモ買い桙込む予定だったんだよ。",
     ""),
@@ -50,27 +50,27 @@ text_array = [
     ""),
     # ...No way.
 
-    ("オレは、でかける用意を始めた。†",
+    ("オレは、でかける用意を始めた。",
     ""),
-    # I started preparing to go out.†
+    # I started preparing to go out.
 
     ("しぶしぶオレは商店街へやってきた。",
     ""),
     # Reluctantly, I frantically came to the shopping district.
 
-    ("さて、スーパーへ…と、あれ？†",
+    ("さて、スーパーへ…と、あれ？",
     ""),
-    # Well, to the supermarket...huh?†
+    # Well, to the supermarket...huh?
 
-    ("ウチの制梵服プラス焜金髪の派阡手な組み№合寘わせがｌこうに見える。",
+    ("ウチの制梵服プラス金髪の派阡手な組み№合寘わせがｌこうに見える。",
     ""),
     # It looks like my brazen uniform is a banquet of blonde hair and they are all sung by the group.
 
-    ("…戟レミィじ痰ゃねえか。†",
+    ("…レミィじ痰ゃねえか。",
     ""),
-    # ...Isn't there any phlegm?†
+    # ...Isn't there any phlegm?
 
-    ("苦笑しつつ、戟レミィに声をかけようと思ったら、彼濫女、誰かといっしょだった。",
+    ("苦笑しつつ、レミィに声をかけようと思ったら、彼女、誰かといっしょだった。",
     ""),
     # She smiled wryly and when she tried to call out to Garemy, she found out that she was a huge woman and a slutty woman.
 
@@ -78,29 +78,29 @@ text_array = [
     ""),
     # She glanced over and asked, "It was a little girl after kindergarten."
 
-    ("その子は、メいているように烽も見える。†",
+    ("その子は、メいているようにも見える。",
     ""),
-    # The child also appears to be crying.†
+    # The child also appears to be crying.
 
     ("いったいどこの子だう…。",
     ""),
     # Which child is he...
 
-    ("戟レミィのｖかな？",
+    ("レミィのｖかな？",
     ""),
     # Is it the V of Karemi?
 
-    ("観察していると、やがてふたりは烽歩き出した。",
+    ("観察していると、やがてふたりは歩き出した。",
     ""),
     # As they observed, they began to walk around.
 
-    ("「お〜い、戟レミィ」",
+    ("「お〜い、レミィ」",
     ""),
     # "Hey, huh, huh Remie."
 
-    ("オレは呼びとめた。†",
+    ("オレは呼びとめた。",
     ""),
-    # I called out to him.†
+    # I called out to him.
 
     ("「あっ、」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "Lost? *Do you have any phlegms?"
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「んじ痰ゃ、交番へ｢｢」",
     ""),
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Da <Me.
 
-    ("メグミ、とて烽もお母さんにｉいたがってるの。…ねえ、＝メグミ」",
+    ("メグミ、とてもお母さんにいたがってるの。…ねえ、＝メグミ」",
     ""),
     # Megumi and even Kana want to be with her mother....Hey, Megumi."
 
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # The next girl said, "≧Megumi Chisho-chan nodded hugely.
 
-    ("さっきまでモいていたので、目が赤い。†",
+    ("さっきまでモいていたので、目が赤い。",
     ""),
-    # I was crying just now, so my eyes were red.†
+    # I was crying just now, so my eyes were red.
 
     ("「いいぜ。探してやうか」",
     ""),
@@ -154,27 +154,27 @@ text_array = [
     ""),
     # I nodded with a wry smile.
 
-    ("…前にオレ焜も同じことをしたからな。",
+    ("…前にオレも同じことをしたからな。",
     ""),
     # ...Because I did the same thing before.
 
-    ("「あ、で烽も、はいいのｃ？」",
+    ("「あ、でも、はいいのｃ？」",
     ""),
     # "Ah, and is it okay for Hot too?"
 
-    ("「いいって。オレ焜もつき№合うよ」†",
+    ("「いいって。オレもつき№合うよ」",
     ""),
     # "That's fine. I'll come with a great deal and it'll fit the number."
 
-    ("…そして、オレと撃レミィ、＝メグミち痰ゃんの一行は、商店街のま墲わりをさまよい始めた。†",
+    ("…そして、オレと撃レミィ、＝メグミち痰ゃんの一行は、商店街のまわりをさまよい始めた。",
     ""),
-    # ...And then, the group of Megumi Chisho-ya begins to wander around the shopping district.†
+    # ...And then, the group of Megumi Chisho-ya begins to wander around the shopping district.
 
     ("「＝メグミ、諱疲齡れたらアタシに言うのｃ」",
     ""),
     # "=Megumi, if you get tired, I'll tell you c."
 
-    ("戟レミィは≠メグミち痰ゃんを気遣って、声をかけた。",
+    ("レミィは≠メグミち痰ゃんを気遣って、声をかけた。",
     ""),
     # Karemi called out to me, caring about Megumi Chisho-ya.
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "Hey!"
 
-    ("「ナニ？」†",
+    ("「ナニ？」",
     ""),
     # "What?"
 
@@ -198,11 +198,11 @@ text_array = [
     ""),
     # I heard that.
 
-    ("考えてみれば撃レミィのブ鴻ロンドは、＝メグミち痰ゃんにしてみれば、不思議でしょーがないモノに見えるんだう。†",
+    ("考えてみれば撃レミィのブ鴻ロンドは、＝メグミち痰ゃんにしてみれば、不思議でしょーがないモノに見えるんだう。",
     ""),
-    # When you think about it, Ekirei's B-Konrond looks strange and unbeatable when you think of it as Megumi-chisou-chan.†
+    # When you think about it, Ekirei's B-Konrond looks strange and unbeatable when you think of it as Megumi-chisou-chan.
 
-    ("戟レミィはというと、にっこり微笑んで、",
+    ("レミィはというと、にっこり微笑んで、",
     ""),
     # When I said that, I smiled and
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "You're a sputum, you're really an angel!"
 
-    ("とんで烽もないことを言い出した。",
+    ("とんでもないことを言い出した。",
     ""),
     # He started saying something incredibly unhealthy.
 
@@ -222,27 +222,27 @@ text_array = [
     ""),
     # "An angel?"
 
-    ("＝メグミち痰ゃんは目を輝かせながら言った。†",
+    ("＝メグミち痰ゃんは目を輝かせながら言った。",
     ""),
-    # =Megumichishoyan said with his eyes shining.†
+    # =Megumichishoyan said with his eyes shining.
 
     ("「そー諱よ」",
     ""),
     # "That's it."
 
-    ("戟レミィがうなずくと、＝メグミち痰ゃんは、ますます嬉しそうに、",
+    ("レミィがうなずくと、＝メグミち痰ゃんは、ますます嬉しそうに、",
     ""),
     # When Karemi nodded, Megumi Chisho-chan looked even happier and happier.
 
-    ("「ねーねー、見せてー！」†",
+    ("「ねーねー、見せてー！」",
     ""),
-    # "Hey, show me!" †
+    # "Hey, show me!" 
 
-    ("「いい墲わよぉ」",
+    ("「いいわよぉ」",
     ""),
     # "That's good."
 
-    ("戟レミィは駆み桙込んで、＝メグミち痰ゃんの手の届く高さで髪を揺逞らした。",
+    ("レミィは駆み桙込んで、＝メグミち痰ゃんの手の届く高さで髪を揺逞らした。",
     ""),
     # Karenmi sniffed her hair and swayed her hair at a height of B within reach of Megumi Chishun's.
 
@@ -250,11 +250,11 @@ text_array = [
     ""),
     # "Smooth"
 
-    ("＝メグミち痰ゃんは両手で、戟レミィの輝くブ鴻ロンドを烽もてあそぶ。†",
+    ("＝メグミち痰ゃんは両手で、レミィの輝くブ鴻ロンドをもてあそぶ。",
     ""),
-    # = Megumi Chisho-chan uses her hands to play with the shining blunt rond of the shining blunt rond.†
+    # = Megumi Chisho-chan uses her hands to play with the shining blunt rond of the shining blunt rond.
 
-    ("戟レミィのрヤツ、結婚したらいい母親になりそうだな。",
+    ("レミィのрヤツ、結婚したらいい母親になりそうだな。",
     ""),
     # I think if he gets married, he'll become a good mother.
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # I was so excited to see the two of them looking fun.
 
-    ("「＝早くお母さんを、見つけなくち痰ゃな」†",
+    ("「＝早くお母さんを、見つけなくち痰ゃな」",
     ""),
     # "=I have to find my mother soon."
 
@@ -282,9 +282,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("｢｢１桙時間経過…。",
     ""),
@@ -294,25 +294,25 @@ text_array = [
     ""),
     # =The mother with Megumi-chisou-chan has not yet been found...
 
-    ("「戟レミィ、部賦で疲齡れてるだ？	＝メグミち痰ゃんはオレに任せて、諱先に帰ったらどうだ」",
+    ("「レミィ、部賦で疲齡れてるだ？	＝メグミち痰ゃんはオレに任せて、諱先に帰ったらどうだ」",
     ""),
     # "Haha Remi, are you exhausted from the club b? =What if I leave Megumi Chisho-chan to me and go back to my name?"
 
-    ("「Ｎ盾ｏ	浴ｗ≠ａ凾ｙ。アタシ、帰迢らない盾ワ」",
+    ("「Ｎ盾ｏ	ｗ≠ａ凾ｙ。アタシ、帰迢らない盾ワ」",
     ""),
     # "N shield o bath lol ≠ ah y. I'm a shield lol that never returns."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("彼濫女の言葉に強い責任感みたいな烽ものを感じて、オレは黙ってうなずいた。",
+    ("彼女の言葉に強い責任感みたいなものを感じて、オレは黙ってうなずいた。",
     ""),
     # I felt a strong sense of responsibility at the words of the woman, and my head silently nodded.
 
-    ("更に、オレたちは烽歩き続ける…。†",
+    ("更に、オレたちは歩き続ける…。",
     ""),
-    # Furthermore, we continue to walk around...†
+    # Furthermore, we continue to walk around...
 
     ("・",
     ""),
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # "Hey,"
 
-    ("戟レミィが呼んだ。",
+    ("レミィが呼んだ。",
     ""),
     # Karemi called.
 
@@ -350,7 +350,7 @@ text_array = [
     ""),
     # The sun is about to set, and Megumi Chisho-chan is sleeping with my back.
 
-    ("「なんだ？」†",
+    ("「なんだ？」",
     ""),
     # "What?"
 
@@ -362,9 +362,9 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("戟レミィの聞いた意味が、わからなかった。†",
+    ("レミィの聞いた意味が、わからなかった。",
     ""),
-    # I didn't understand what I heard about Remie.†
+    # I didn't understand what I heard about Remie.
 
     ("「アタシ、見てたｃ。この前が、迷子の子おんぶしてたの」",
     ""),
@@ -382,13 +382,13 @@ text_array = [
     ""),
     # "No shameful c"
 
-    ("そう言って、戟レミィは微笑んだ。",
+    ("そう言って、レミィは微笑んだ。",
     ""),
     # With that, Karemi smiled.
 
-    ("いままでと痰違う、優しい微笑みに、オレは少しドキッとした。†",
+    ("いままでと痰違う、優しい微笑みに、オレは少しドキッとした。",
     ""),
-    # My heart was a little excited by the gentle smile that was different from before.†
+    # My heart was a little excited by the gentle smile that was different from before.
 
     ("「、その子のお母さん、ずっと探してた」",
     ""),
@@ -402,27 +402,27 @@ text_array = [
     ""),
     # "Yeah. I didn't know much about it... So I was watching over whether they'd take care of the boys."
 
-    ("どうやら彼濫女は、オレが男の子を冾放阨り出さないか心配して繧後をつけたらしい。†",
+    ("どうやら彼女は、オレが男の子を冾放阨り出さないか心配して後をつけたらしい。",
     ""),
-    # Apparently, the woman after all, was worried that I might start to send out the boy.†
+    # Apparently, the woman after all, was worried that I might start to send out the boy.
 
-    ("「ひでー言甯われようだな…。で烽もオレは、ち痰ゃんとあの子の母親を見つけたぜ？」",
+    ("「ひでー言甯われようだな…。でもオレは、ち痰ゃんとあの子の母親を見つけたぜ？」",
     ""),
     # "It looks like you're getting a message from me... And I, too, found that girl's mother, right?"
 
-    ("「うん…。それでアタシ、のこと、諱よく墲わかった」†",
+    ("「うん…。それでアタシ、のこと、諱よくわかった」",
     ""),
-    # "Yes... So I really understand what I'm saying."†
+    # "Yes... So I really understand what I'm saying."
 
-    ("「わかったって、なにを墲わかったんだ？」",
+    ("「わかったって、なにをわかったんだ？」",
     ""),
     # "You get it, what do you understand?"
 
-    ("オレが聞くと、戟レミィは恥ずかしそうにうつむいて、",
+    ("オレが聞くと、レミィは恥ずかしそうにうつむいて、",
     ""),
     # When I heard, Karemi looked down in embarrassment,
 
-    ("「とって烽も、優しい人…って」†",
+    ("「とっても、優しい人…って」",
     ""),
     # "You know, you're a kind person too..."
 
@@ -430,7 +430,7 @@ text_array = [
     ""),
     # "What do you think? I'm a pretty bad guy, right?"
 
-    ("戟レミィはクスッと笑った。",
+    ("レミィはクスッと笑った。",
     ""),
     # Karemi chuckled.
 
@@ -438,9 +438,9 @@ text_array = [
     ""),
     # "If I found a lost child, I would definitely take care of him until the very last minute."
 
-    ("「なんで？」†",
+    ("「なんで？」",
     ""),
-    # "why?"†
+    # "why?"
 
     ("「みたいに、出初いがあるからｃ」",
     ""),
@@ -454,7 +454,7 @@ text_array = [
     ""),
     # "Yb Tangari"
 
-    ("「そんな都∮合謐よく出初いなんて起こらねえよ」†",
+    ("「そんな都∮合謐よく出初いなんて起こらねえよ」",
     ""),
     # "That city ∮ does not happen that it's a common place to start a new place."
 
@@ -462,19 +462,19 @@ text_array = [
     ""),
     # In the end, the mother of Megumi Chisho-chan, who said "Ke-ken" was not found, so the two of them gave up and went to the police box.
 
-    ("そのときはまだ、警察に届け出はなく、どうやら恵券ち痰ゃんのお母さん烽もやはり、禔方々を探し回っていたらしい。†",
+    ("そのときはまだ、警察に届け出はなく、どうやら恵券ち痰ゃんのお母さんもやはり、禔方々を探し回っていたらしい。",
     ""),
-    # At that time, there hadn't been a report to the police yet, and it seems that he was searching for the mother who had been tampering with the idea of ​​tampering with the help of the mother.†
+    # At that time, there hadn't been a report to the police yet, and it seems that he was searching for the mother who had been tampering with the idea of ​​tampering with the help of the mother.
 
-    ("交番でしばらく待っていると、べつの警察錘署から連腰絡があって、諱ようやく恵券ち痰ゃんはお母さんに逢うことができた。†",
+    ("交番でしばらく待っていると、べつの警察錘署から連腰絡があって、諱ようやく恵券ち痰ゃんはお母さんに逢うことができた。",
     ""),
-    # After waiting for a while at the police box, I found a connection between the police stations and the mother was able to meet her, as she was stolen from another police station.†
+    # After waiting for a while at the police box, I found a connection between the police stations and the mother was able to meet her, as she was stolen from another police station.
 
     ("「諱よかったね」",
     ""),
     # "That was good."
 
-    ("交番からの帰闍り道、戟レミィが聞いた。",
+    ("交番からの帰闍り道、レミィが聞いた。",
     ""),
     # Asked by the way back from the police box.
 
@@ -490,11 +490,11 @@ text_array = [
     ""),
     # "Huh? Who is it with where?
 
-    ("オレは首をひねった。†",
+    ("オレは首をひねった。",
     ""),
-    # I twisted my head.†
+    # I twisted my head.
 
-    ("「Ｙ盾ｏ浮ｕ	＝ａ獅ｎрｄ	香ｍ」",
+    ("「Ｙ盾ｏ浮ｕ	＝ａｎрｄ	香ｍ」",
     ""),
     # "Y Shield O float = a lion, incense mb"
 
@@ -506,25 +506,25 @@ text_array = [
     ""),
     # "Yb Tangari"
 
-    ("「そうか？	恵券ち痰ゃんが大きくなったら、オレは汲結構なオジサンだぞ？	戟レミィだって」†",
+    ("「そうか？	恵券ち痰ゃんが大きくなったら、オレは結構なオジサンだぞ？	レミィだって」",
     ""),
-    # "I see? When Megumi Chishonan grows older, I'm a pretty old man, right? It's a thrilled guy."†
+    # "I see? When Megumi Chishonan grows older, I'm a pretty old man, right? It's a thrilled guy."
 
     ("「ううん、そういう意味じ痰ゃないの。",
     ""),
     # "Uh, that's the point of no phlegm.
 
-    ("メグミ焜も大きくなったら、きっと迷子の面倒、ち痰ゃんと見てくれる大人になるｃ」",
+    ("メグミも大きくなったら、きっと迷子の面倒、ち痰ゃんと見てくれる大人になるｃ」",
     ""),
     # When Megumi-san grows up, she will surely become an adult who will take care of the lost child and look after her.
 
-    ("「なるほどな。…恵券ち痰ゃん烽も撃レミィ窿やオレみたく、迷子をほうって置けない大人（？）になるといいな」",
+    ("「なるほどな。…恵券ち痰ゃんも撃レミィ窿やオレみたく、迷子をほうって置けない大人（？）になるといいな」",
     ""),
     # "I see... I hope that you will become an adult (?) who can't leave the lost child behind, as you'll see Remi-san and me."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("そんな話をしながら、オレは撃レミィと駅前で別れた。◯",
     ""),

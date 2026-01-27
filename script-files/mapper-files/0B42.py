@@ -2,9 +2,9 @@
 # Source file: 0B42.txt
 
 text_array = [
-    ("（綾∴香	エンディング）閨（選択Ｂ	オレの家於に	の続き）†",
+    ("（綾∴香	エンディング）閨（選択Ｂ	オレの家於に	の続き）",
     ""),
-    # (Aya∴Ka ending) (Continued from Selection B, Ogere no Ie Oni)†
+    # (Aya∴Ka ending) (Continued from Selection B, Ogere no Ie Oni)
 
     ("「一生オレの家於になれ！」",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "It's tampering."
 
-    ("身熕もふた烽もない断闥り方だな。†",
+    ("身熕もふたもない断闥り方だな。",
     ""),
-    # It's a completely unfortunate way of fortune with no physical or extraordinary spirit.†
+    # It's a completely unfortunate way of fortune with no physical or extraordinary spirit.
 
-    ("「なんで烽も言うこと聞くって約束だーが」",
+    ("「なんでも言うこと聞くって約束だーが」",
     ""),
     # "Why did you promise to listen to what you're saying, b?"
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "It's too high, ecchi."
 
-    ("「度なんてｌめてねーだ」†",
+    ("「度なんてｌめてねーだ」",
     ""),
-    # "I don't have to be too much lb" †
+    # "I don't have to be too much lb" 
 
-    ("「だったら、いい墲わ。それで」",
+    ("「だったら、いいわ。それで」",
     ""),
     # "If that's the case, it would be fine. So."
 
@@ -50,16 +50,16 @@ text_array = [
     ""),
     # "There's only one thing to listen to."
 
-    ("くくっ。†",
+    ("くくっ。",
     ""),
-    # Cuckold.†
+    # Cuckold.
 
     ("「じ痰ゃあ、そういうことで」",
     ""),
     # "That's how it is."
 
-    ("「あ、やっぱ、やめる墲わ」†",
+    ("「あ、やっぱ、やめるわ」",
     ""),
-    # "Ah, after all, I'm going to stop it" †
+    # "Ah, after all, I'm going to stop it" 
 
 ]

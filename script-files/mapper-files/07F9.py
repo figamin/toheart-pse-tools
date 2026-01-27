@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "I really like dogs."
 
-    ("「わたし烽も好きですよ」",
+    ("「わたしも好きですよ」",
     ""),
     # "I also like Hot."
 
-    ("「あっそう？	で烽もさ、こうやって近くで見骭ると、猫熹も捨てた烽もんじ痰ゃねえよな」",
+    ("「あっそう？	でもさ、こうやって近くで見骭ると、猫熹も捨てたもんじ痰ゃねえよな」",
     ""),
     # "Ahh? And when I tampered with this and looked up close, I saw that there was no phlegm for the cat that had even been thrown away."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("「オレは犬派だけど、どっち烽も動物を可愛がる気搴持ちは同じだうし、〟仲良くしような」",
+    ("「オレは犬派だけど、どっちも動物を可愛がる気搴持ちは同じだうし、〟仲良くしような」",
     ""),
     # "I'm a dog fan, but both of them have the same desire to love animals, so I think we'll get along well."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("その冾日は、琴音ち痰ゃんが猫派だってことが墲わかった。",
+    ("その冾日は、琴音ち痰ゃんが猫派だってことがわかった。",
     ""),
     # On that date, it turns out that Kotone Chishonan is a cat lover.
 

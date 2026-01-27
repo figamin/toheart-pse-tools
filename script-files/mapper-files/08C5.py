@@ -2,19 +2,19 @@
 # Source file: 08C5.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	寄闃り道２	ＬＶ１）閨（早書店）†",
+    ("（レミィ	回秤数イベント	寄闃り道２	ＬＶ１）閨（早書店）†",
     ""),
     # (The Remy Scale Event: Calling Road 2 LV1) (Saisho)†
 
-    ("「Ｈ奄ｉ！	」",
+    ("「Ｈ奄！	」",
     ""),
     # "Hi Amai!"
 
-    ("戟レミィはオレに気づいて、軽く手を振った。",
+    ("レミィはオレに気づいて、軽く手を振った。",
     ""),
     # When Karemi noticed me, she waved lightly.
 
-    ("「諱よお、戟レミィ」†",
+    ("「諱よお、レミィ」†",
     ""),
     # "My name is, thrill"†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Do you know?"
 
-    ("オレの顔を見骭るなり、戟レミィは声をかけてきた。",
+    ("オレの顔を見骭るなり、レミィは声をかけてきた。",
     ""),
     # As I looked at my face, Remy called out to me.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # A What?Relax
 
-    ("Ｂ	わりぃけど、今度にして烽もらえるか？閨",
+    ("Ｂ	わりぃけど、今度にしてもらえるか？閨",
     ""),
     # B It's a shame, but will you get some hot springs next time?Relax
 

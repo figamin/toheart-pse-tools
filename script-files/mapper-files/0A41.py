@@ -2,9 +2,9 @@
 # Source file: 0A41.txt
 
 text_array = [
-    ("（Ａ	きっと良い仕鮪事見つかるぜ。）†",
+    ("（Ａ	きっと良い仕鮪事見つかるぜ。）",
     ""),
-    # (A I'm sure you'll find a good tuna.)†
+    # (A I'm sure you'll find a good tuna.)
 
     ("「きっと、また良い仕鮪事見つけられるぜ」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「掾理女緒ち痰ゃんってさ、スゲー働き者じ痰ゃん。そういう人間って、どこで烽も欲しがられる烽もんだぜ」",
+    ("「掾理女緒ち痰ゃんってさ、スゲー働き者じ痰ゃん。そういう人間って、どこでも欲しがられるもんだぜ」",
     ""),
     # "You're so hardworking, you're so hardworking. Where do you want someone like that?!"
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Ahaha. I hope so."
 
-    ("掾理女緒ち痰ゃんって、どんなにキツいバイトで烽も、働いてる桙時はマジに明髢るく笑うよな。†",
+    ("掾理女緒ち痰ゃんって、どんなにキツいバイトでも、働いてる桙時はマジに明髢るく笑うよな。",
     ""),
-    # Even if you're a hard part-time job or a hot guy, when you're working, you'll laugh really clearly.†
+    # Even if you're a hard part-time job or a hot guy, when you're working, you'll laugh really clearly.
 
     ("「じ痰ゃあ、今厓日からしっかりとアルバイト探ししなき痰ゃ」",
     ""),
@@ -38,13 +38,13 @@ text_array = [
     ""),
     # "Dragonfly is strong!"
 
-    ("蛛大きくうなずく揩理女緒ち痰ゃん。",
+    ("蛛大きくうなずく理女緒ち痰ゃん。",
     ""),
     # A big nodded woman's head.
 
-    ("こんだけ前糟きで熱心だと、こっち烽も見てて安心できちまう。†",
+    ("こんだけ前きで熱心だと、こっちも見てて安心できちまう。",
     ""),
-    # If you're so enthusiastic about this, you can feel at ease by watching this hot spring.†
+    # If you're so enthusiastic about this, you can feel at ease by watching this hot spring.
 
     ("「あ、そそ始まりそう。行かなき痰ゃ」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Yeah. See you later."
 
-    ("蛛大きく手を振髏る揩理女緒ち痰ゃんを見洛送闡り、オレ焜も家に帰った。◯",
+    ("蛛大きく手を振髏る理女緒ち痰ゃんを見洛送闡り、オレも家に帰った。◯",
     ""),
     # I went to see the loud waving hand, and my heart went home too.◯
 

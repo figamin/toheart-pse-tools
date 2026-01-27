@@ -2,9 +2,9 @@
 # Source file: 0A04.txt
 
 text_array = [
-    ("（掾理女緒	冝日付強制イベント	出初いⅢ）閨（３獅月８冾日）閨（掾理女緒とｉっているなら発生）閨（智子のイベント（１階を烽歩く）を経由している場㍼合）†",
+    ("（掾理女緒	冝日付強制イベント	出初いⅢ）閨（３月８冾日）閨（掾理女緒とっているなら発生）閨（智子のイベント（１階を歩く）を経由している場㍼合）",
     ""),
-    # (Eiri Meo's Date Forced Event First Time III) (3rd Lion Month 8th Day) (occasionally occurs if you are in I with Eiri Meo) (occasionally arrives at Tomoko's event (traveling on the first floor)) †
+    # (Eiri Meo's Date Forced Event First Time III) (3rd Lion Month 8th Day) (occasionally occurs if you are in I with Eiri Meo) (occasionally arrives at Tomoko's event (traveling on the first floor)) 
 
     ("「おい、まて！」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # When I called back, I saw a little kid.
 
-    ("こっちをにらんでいる。†",
+    ("こっちをにらんでいる。",
     ""),
-    # I'm staring at this.†
+    # I'm staring at this.
 
     ("「なんだ、なんか用か？」",
     ""),
@@ -42,13 +42,13 @@ text_array = [
     ""),
     # "Huh, me?"
 
-    ("横にいたｉ史が自分を指さして聞く。",
+    ("横にいた史が自分を指さして聞く。",
     ""),
     # I-Shi was next to me pointing at me and listening.
 
-    ("子沁供はこくんとうなずいた。†",
+    ("子沁供はこくんとうなずいた。",
     ""),
-    # Kouken nodded.†
+    # Kouken nodded.
 
     ("「僕になんの用？」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "I'll defeat you!"
 
-    ("「えっ？」†",
+    ("「えっ？」",
     ""),
-    # "Huh?" †
+    # "Huh?" 
 
     ("すると子沁供は、",
     ""),
@@ -74,13 +74,13 @@ text_array = [
     ""),
     # Bang!
 
-    ("いきなりｉ史にとび蹴闖りを見糟舞った。",
+    ("いきなり史にとび蹴闖りを見舞った。",
     ""),
     # Suddenly he was kicked at I-History.
 
-    ("だがｉ史はサッカーで鍛えたフット純ワークで軽竚やかにか墲わす。†",
+    ("だが史はサッカーで鍛えたフット純ワークで軽竚やかにかわす。",
     ""),
-    # However, I-Shin is a light and easy-to-love with pure footwork trained in soccer.†
+    # However, I-Shin is a light and easy-to-love with pure footwork trained in soccer.
 
     ("「わ、びっくりした」",
     ""),
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # "Oden...?"
 
-    ("「しねーーーーーーーーーーーーーっ！！」†",
+    ("「しねーーーーーーーーーーーーーっ！！」",
     ""),
-    # "I won't do it!" †
+    # "I won't do it!" 
 
-    ("だがｉ史は死ななかった。",
+    ("だが史は死ななかった。",
     ""),
     # But I-Hisashi did not die.
 
@@ -114,15 +114,15 @@ text_array = [
     ""),
     # This is because before my deadly "Dogatari Oden Kick" exploded, I grabbed my neck.
 
-    ("「はなせ、このーーーーーーーーーーっ！」†",
+    ("「はなせ、このーーーーーーーーーーっ！」",
     ""),
-    # "Now, this one!" †
+    # "Now, this one!" 
 
     ("「おーおー、勇ましいガキンチョだな」",
     ""),
     # "Ohhh, you're a brave kid."
 
-    ("「はやくはなさないと、おまえ烽もいっしょにたおすぞ！」",
+    ("「はやくはなさないと、おまえもいっしょにたおすぞ！」",
     ""),
     # "If you don't tamper with it, I'll defeat you, too!"
 
@@ -134,8 +134,8 @@ text_array = [
     ""),
     # "Wait, wait. Why are you so angry? Did this guy do something?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
 ]

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Erimeo Ou's Scales Event) (Bukinote: A day without Shiho's appearance event) (Kyuuu LV1) (Shopping Street)†
 
-    ("商店街を烽歩いていると、不意にオレの目の前にポケットティッシャが差し出された。",
+    ("商店街を歩いていると、不意にオレの目の前にポケットティッシャが差し出された。",
     ""),
     # As I was walking around the shopping district, a pocket tissue suddenly reached out in front of me.
 

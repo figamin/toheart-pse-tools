@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("どうせ『冝放課繪後にで烽も遊びに行こう』って言うんだう。†",
+    ("どうせ『冝放課繪後にでも遊びに行こう』って言うんだう。†",
     ""),
     # They're probably going to say, "Let's go and have some fun after school."†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "When school is over, why don't you go to Kabanraoke?"
 
-    ("「お前、ホント好きだな。また勝縁負で烽もすんのか？」",
+    ("「お前、ホント好きだな。また勝縁負でもすんのか？」",
     ""),
     # "You really like me. Are you going to win again and get some hot again?"
 

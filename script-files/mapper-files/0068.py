@@ -2,25 +2,25 @@
 # Source file: 0068.txt
 
 text_array = [
-    ("４／２５（金）†",
+    ("４／２５（金）",
     ""),
-    # 4/25 (Fri)†
+    # 4/25 (Fri)
 
     ("今厓日燗もお勤めご苦労さん…かな？",
     ""),
     # I'm sure you're working hard at Kohinkan right now... I wonder?
 
-    ("これから楽しい自由棊時間の始まりだ。†",
+    ("これから楽しい自由棊時間の始まりだ。",
     ""),
-    # Now is the beginning of a fun free time.†
+    # Now is the beginning of a fun free time.
 
-    ("帰驪る生徒たちでに墲わかに賑崧わう２階の廊下。",
+    ("帰驪る生徒たちでにわかに賑崧わう２階の廊下。",
     ""),
     # The corridor on the second floor is filled with students returning home.
 
-    ("誰か知闥り№合いに出初って烽もよさそうな烽ものだが、あいにく誰に烽も出初えなかった。†",
+    ("誰か知闥り№合いに出初ってもよさそうなものだが、あいにく誰にも出初えなかった。",
     ""),
-    # It seems that someone has been in the first place and it would be good to have a hot spring, but unfortunately no one has been able to get hot spring.†
+    # It seems that someone has been in the first place and it would be good to have a hot spring, but unfortunately no one has been able to get hot spring.
 
     ("下駄箱。",
     ""),
@@ -30,25 +30,25 @@ text_array = [
     ""),
     # Is there a huge letter of love for the dam...?
 
-    ("残念。†",
+    ("残念。",
     ""),
-    # disappointing.†
+    # disappointing.
 
     ("校舎を出た。",
     ""),
     # I left the school building.
 
-    ("さーて、帰っかな。†",
+    ("さーて、帰っかな。",
     ""),
-    # Now, let's go home.†
+    # Now, let's go home.
 
     ("その夜。",
     ""),
     # That night.
 
-    ("ベッドに潜關り桙込んで目を閉じたとき。†",
+    ("ベッドに潜關り桙込んで目を閉じたとき。",
     ""),
-    # When I slept in the bed and closed my eyes.†
+    # When I slept in the bed and closed my eyes.
 
     ("んに痰ゃ〜〜〜〜〜〜〜〜ん。",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # There's phlegm to it...
 
-    ("しか烽も、かなりうるさい。†",
+    ("しかも、かなりうるさい。",
     ""),
-    # But the hot water is also quite noisy.†
+    # But the hot water is also quite noisy.
 
     ("んに痰ゃ〜〜〜〜〜〜〜〜ん。",
     ""),
@@ -86,19 +86,19 @@ text_array = [
     "…"),
     # "..."
 
-    ("んに痰ゃ〜〜〜〜〜〜〜〜ん。†",
+    ("んに痰ゃ〜〜〜〜〜〜〜〜ん。",
     ""),
-    # There's phlegm to it...†
+    # There's phlegm to it...
 
     ("「うるせーなっ！」",
     ""),
     # "Shut up!"
 
-    ("オレは飛び起きて怒鳴った。†",
+    ("オレは飛び起きて怒鳴った。",
     ""),
-    # I jumped up and yelled.†
+    # I jumped up and yelled.
 
-    ("塀の繧上にすらっとした浮黒ネコがいた。",
+    ("塀の上にすらっとした浮黒ネコがいた。",
     ""),
     # There was a slender, floating black cat on the wall.
 
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # There's phlegm to it...
 
-    ("なにか言いたいことで烽もあるのか、しきりに鳴き始める。†",
+    ("なにか言いたいことでもあるのか、しきりに鳴き始める。",
     ""),
-    # Perhaps there is something about something that I want to say, and it starts crying constantly.†
+    # Perhaps there is something about something that I want to say, and it starts crying constantly.
 
     ("んに痰ゃ〜〜〜〜〜〜〜〜ん。",
     ""),
@@ -122,21 +122,21 @@ text_array = [
     ""),
     # "I'm asking you to call Kaji, so if you want to call me, please call me at the other kabuto."
 
-    ("んに痰ゃ〜〜〜〜〜〜〜〜ん。†",
+    ("んに痰ゃ〜〜〜〜〜〜〜〜ん。",
     ""),
-    # There's phlegm to it...†
+    # There's phlegm to it...
 
     ("「ほら、シッシッ！」",
     ""),
     # "Look, sir!"
 
-    ("追い払おうとして烽も、もの珍しそうにオレを見つめて鳴くだけ。",
+    ("追い払おうとしても、もの珍しそうにオレを見つめて鳴くだけ。",
     ""),
     # In an attempt to drive him away, Hou just peers at me with a rare look on his face.
 
-    ("「梶頼むぜ…」†",
+    ("「梶頼むぜ…」",
     ""),
-    # "Please Kaji..." †
+    # "Please Kaji..." 
 
     ("んに痰ゃ〜〜〜〜〜〜〜〜ん。",
     ""),
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # It's a bit harsh, stiff phlegm.
 
-    ("思寬わず鰍投げつける物はないかとさがしたが、さすがにそれはか墲わいそうなので、やめて、ベッドに戻った。",
+    ("思寬わず鰍投げつける物はないかとさがしたが、さすがにそれはかわいそうなので、やめて、ベッドに戻った。",
     ""),
     # Without thinking about it, I looked for something to throw at me, but it was a shame that it was so bad that I stopped slurping and went back to bed.
 
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # Put on headphones and listen to the CD.
 
-    ("これで、いいだ。†",
+    ("これで、いいだ。",
     ""),
-    # This is fine.†
+    # This is fine.
 
     ("「………」",
     "…"),

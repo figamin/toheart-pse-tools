@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Chairman, you're just saying something too much. Just like this guy, please make a fuss and tamper with the guys who seem to have been born from your mouth, and make a fuss about the time you've had to rest."
 
-    ("志保はムカつく翌女だが、かといって揩喋髓るなと言うの烽も酷な話だ。",
+    ("志保はムカつく翌女だが、かといって喋髓るなと言うのも酷な話だ。",
     ""),
     # Shiho is annoyed the next woman, but even so, it's a bit cruel to say that she shouldn't talk.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # Ratt!
 
-    ("突然立ち繧上がり、委員長はなに烽も言甯わず背をｌけて烽歩き出した。",
+    ("突然立ち上がり、委員長はなにも言甯わず背をｌけて歩き出した。",
     ""),
     # Suddenly, the chairman stood up, and without saying anything, he began walking around.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # In the end, it ended up making a loud noise.
 
-    ("委員長の判断は、正しかったのか烽もな。†",
+    ("委員長の判断は、正しかったのかもな。†",
     ""),
     # I wonder if the chairman's decision was correct either.†
 

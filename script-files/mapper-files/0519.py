@@ -6,7 +6,7 @@ text_array = [
     ""),
     # Meanwhile, after having finished changing the r and Tsume Sakashita and the others returned.
 
-    ("「用意はいい墲わ。じ痰ゃ、始めましょうか」",
+    ("「用意はいいわ。じ痰ゃ、始めましょうか」",
     ""),
     # "You're ready. Let's start with phlegm."
 
@@ -14,13 +14,13 @@ text_array = [
     ""),
     # "Yes."
 
-    ("「悪いけど手加減はなしよ。本気でいく墲わ」",
+    ("「悪いけど手加減はなしよ。本気でいくわ」",
     ""),
     # "I'm sorry, but I'm not going to do anything about it. I'll do it seriously."
 
-    ("坂下の目が、葵ち痰ゃんに突き刺さる。†",
+    ("坂下の目が、葵ち痰ゃんに突き刺さる。",
     ""),
-    # Asakashita's eyes thrust into Aoi Chisho-chan.†
+    # Asakashita's eyes thrust into Aoi Chisho-chan.
 
     ("「せいぜいケガをしないよう、防莓御には十分気をつかうことね」",
     ""),
@@ -42,23 +42,23 @@ text_array = [
     ""),
     # bad.
 
-    ("非嵓常にまずい状態だぞ。†",
+    ("非嵓常にまずい状態だぞ。",
     ""),
-    # It's always bad.†
+    # It's always bad.
 
-    ("「あら、気をつけなき痰ゃいけないのは好恵のほうじ痰ゃない？	葵をなめてかかると痛い目にあう墲わよ」",
+    ("「あら、気をつけなき痰ゃいけないのは好恵のほうじ痰ゃない？	葵をなめてかかると痛い目にあうわよ」",
     ""),
     # "Oh, isn't the only thing you need to be careful about is Yoshie's phlegm? If you lick Aoi, you'll end up suffering."
 
-    ("「ふふ、だといい墲わね」",
+    ("「ふふ、だといいわね」",
     ""),
     # "Hehe, that's fine."
 
-    ("余裕の笑みでこたえる坂下。†",
+    ("余裕の笑みでこたえる坂下。",
     ""),
-    # Tansakashita responds with a relaxed smile.†
+    # Tansakashita responds with a relaxed smile.
 
-    ("「じ痰ゃ、ふたりと烽も用意がいいんなら、そそ｢｢」",
+    ("「じ痰ゃ、ふたりとも用意がいいんなら、そそ｢｢」",
     ""),
     # "If you're ready for both of you and the other hotpots, then b: ""
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # "I waited a moment!"
 
-    ("オレは制止をかけた。†",
+    ("オレは制止をかけた。",
     ""),
-    # I put a stop to me.†
+    # I put a stop to me.
 
     ("「…なに？	なにかあるの？」",
     ""),
     # "...What? Is there something?"
 
-    ("「もう少し、あと烽もう少しだけ桙時間をくれ。ちょっとｍ寘戦翠議したい」",
+    ("「もう少し、あともう少しだけ桙時間をくれ。ちょっとｍ寘戦翠議したい」",
     ""),
     # "Please give me a little more time, and a little more time. I'd like to discuss the battle."
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Oh, so I waited a moment."
 
-    ("「諱先輩…」†",
+    ("「諱先輩…」",
     ""),
-    # "Ikusenpai..."†
+    # "Ikusenpai..."
 
     ("「………」",
     "…"),
@@ -98,15 +98,15 @@ text_array = [
     ""),
     # Aya∴Ka looked at me and Aoi Chisho-chan alternately,
 
-    ("「わかった墲わ。じ痰ゃあ、あと３分ね」",
+    ("「わかったわ。じ痰ゃあ、あと３分ね」",
     ""),
     # "I understand. I'll get it. I'll have three more minutes."
 
-    ("そう言った。†",
+    ("そう言った。",
     ""),
-    # That's what I said.†
+    # That's what I said.
 
-    ("「そんなことして烽も汲結果は同じよ。これまでの積み重ねがモノを言うんだから」",
+    ("「そんなことしても結果は同じよ。これまでの積み重ねがモノを言うんだから」",
     ""),
     # "If you do that, the results of the stove are the same. The accumulation up to now is what you're talking about."
 
@@ -118,15 +118,15 @@ text_array = [
     ""),
     # "If you're not thinking about the finest craftsmanship, then just go all out, Aoi."
 
-    ("「は、はい」†",
+    ("「は、はい」",
     ""),
-    # "Yes" †
+    # "Yes" 
 
-    ("「まあまあ、好恵、そう言甯わずに。せっかくだからウォーミングアップで烽もしたら？」",
+    ("「まあまあ、好恵、そう言甯わずに。せっかくだからウォーミングアップでもしたら？」",
     ""),
     # "Okay, Yoshie, don't say that. Since we're going to do it, why don't we just warm up and do some hot water?"
 
-    ("「必要ない墲わ、準備は怩万全鞫よ」",
+    ("「必要ないわ、準備は怩万全鞫よ」",
     ""),
     # "It's not necessary, you'll be fully prepared."
 
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "You say it's fine, slut, here you go ""
 
-    ("強引に柔譓軟体操をさせられる坂下。†",
+    ("強引に柔譓軟体操をさせられる坂下。",
     ""),
-    # Tsumano Sakashita is forced to do soft and soft exercises.†
+    # Tsumano Sakashita is forced to do soft and soft exercises.
 
     ("普助かった。",
     ""),
@@ -178,13 +178,13 @@ text_array = [
     ""),
     # "Never let your nerves go, you haven't let it go?"
 
-    ("噤答えを聞くまで烽もない。",
+    ("噤答えを聞くまでもない。",
     ""),
     # There was no heat until I heard the answer.
 
-    ("肩が、ヒザが、小さく震えている。†",
+    ("肩が、ヒザが、小さく震えている。",
     ""),
-    # My shoulders and knees tremble slightly.†
+    # My shoulders and knees tremble slightly.
 
     ("「………」",
     "…"),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # He leaned down his face and closed his eyes tightly.
 
-    ("体の震えがますます大きくなる。†",
+    ("体の震えがますます大きくなる。",
     ""),
-    # My body trembles even more and more.†
+    # My body trembles even more and more.
 
     ("「しっかりしよォ」",
     ""),
@@ -222,13 +222,13 @@ text_array = [
     ""),
     # "…yes"
 
-    ("うなずく烽ものの、表﨣情は晴齔れない。",
+    ("うなずくものの、表﨣情は晴齔れない。",
     ""),
     # Although the hot nodded, the public sentiment was unable to clear up.
 
-    ("不安の影がつきまとったままだ。†",
+    ("不安の影がつきまとったままだ。",
     ""),
-    # The shadow of anxiety remains stumped.†
+    # The shadow of anxiety remains stumped.
 
     ("そうさせている原因はだいたい察しがつく。",
     ""),
@@ -238,11 +238,11 @@ text_array = [
     ""),
     # "Are you thinking about unnecessary things like what would happen if you lost to the Amami test?!"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「もし烽も奄負けたら、坂下はエクストリームを認めてくれないんじ痰ゃないかとか、綾∴香に恥をかかせちまうんじ痰ゃないのかとか、そんなことばかり考えてんじ痰ゃねーのか？」",
+    ("「もしも奄負けたら、坂下はエクストリームを認めてくれないんじ痰ゃないかとか、綾∴香に恥をかかせちまうんじ痰ゃないのかとか、そんなことばかり考えてんじ痰ゃねーのか？」",
     ""),
     # "If Kato was defeated by Amami, will Asakashita not accept the Extreme Ream, so he's not phlegm, or will Aya∴Kawa be embarrassed, and so he's not phlegm?"
 
@@ -250,9 +250,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("少し間を置いてから、葵ち痰ゃんはこくんとうなずいた。†",
+    ("少し間を置いてから、葵ち痰ゃんはこくんとうなずいた。",
     ""),
-    # After a short pause, Aoi Chisho-chan nodded with Ko-kun.†
+    # After a short pause, Aoi Chisho-chan nodded with Ko-kun.
 
     ("「それに、それに、諱先輩熹も…」",
     ""),
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # Nodded again.
 
-    ("「いままで練習につき№合って烽もらったのに、あっさり奄負けち痰ゃったりしたら…」",
+    ("「いままで練習につき№合ってもらったのに、あっさり奄負けち痰ゃったりしたら…」",
     ""),
     # "I've been practicing for good luck so far and got some hot water, but I've easily lost Amami and ended up phlegm..."
 
@@ -274,19 +274,19 @@ text_array = [
     ""),
     # "hey hey"
 
-    ("オレは笑い半分でつっこんだ。†",
+    ("オレは笑い半分でつっこんだ。",
     ""),
-    # I fought it with just half a laugh.†
+    # I fought it with just half a laugh.
 
-    ("「そんなこと、全然気にしなくていいんだぜ。だいたい、そんな揩理由で固くなって、それで奄負けちまったら元煬も子燻もないだ？」",
+    ("「そんなこと、全然気にしなくていいんだぜ。だいたい、そんな理由で固くなって、それで奄負けちまったら元煬も子燻もないだ？」",
     ""),
     # "You don't have to worry about that at all. Usually, if you get stiff for that reason and lose to Amami then you won't have any gen-han or ko-smoking b?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「氈勝ち奄負けより烽も獅試㍽合のｒ身が肝心なんだ。エクストリームにかける薰情熱を坂下に伝えるのが目的だ？",
+    ("「氈勝ち奄負けよりも試㍽合のｒ身が肝心なんだ。エクストリームにかける薰情熱を坂下に伝えるのが目的だ？",
     ""),
     # "The key to winning or losing to Amano is to have a lion test, even if it's a lion test. The purpose is to convey the passion that comes to Extreme Ream to Sakashita, right?
 
@@ -298,7 +298,7 @@ text_array = [
     ""),
     # "…yes"
 
-    ("「体格煌もキャャリア焜も坂下のほうが繧上なんだ、堰負けて烽もと烽もと、当たって砕けだ」†",
+    ("「体格煌もキャャリアも坂下のほうが上なんだ、堰負けてもともと、当たって砕けだ」",
     ""),
     # "The figure of the shining and the Kayagata Ria Clan are better than the Sakashita, the dam has lost, and the hot springs and the hot springs, and it's polished and crushed."
 
@@ -306,19 +306,19 @@ text_array = [
     ""),
     # To be honest, I really want you to win.
 
-    ("そうでなくて烽も、やるからには、絶対汨勝つくらいの意気梛込みで立ちｌかってほしい。",
+    ("そうでなくても、やるからには、絶対汨勝つくらいの意気梛込みで立ちｌかってほしい。",
     ""),
     # Otherwise, since you're going to do it, I hope you'll stand up with enough energy to win.
 
-    ("そのほうが坂下に烽も伝崧わるはずだ。",
+    ("そのほうが坂下にも伝崧わるはずだ。",
     ""),
     # That would have meant that the roe would be transmitted to the downstairs of the hill.
 
-    ("だけど、『きっと勝て』とか『堰負けるな』的なことを言うと、ますますプレッシャャーを与えかねない。†",
+    ("だけど、『きっと勝て』とか『堰負けるな』的なことを言うと、ますますプレッシャャーを与えかねない。",
     ""),
-    # However, if you say things like, "You're sure to win" or "Don't lose the weir", it could make you even more profound.†
+    # However, if you say things like, "You're sure to win" or "Don't lose the weir", it could make you even more profound.
 
-    ("梶リラックスさせて、かつ意気梛込み烽も十分、そんな状態が望ましいんだが。",
+    ("梶リラックスさせて、かつ意気梛込みも十分、そんな状態が望ましいんだが。",
     ""),
     # It would be desirable to have a relaxed banquet and a good amount of energy and such a state of mind.
 
@@ -326,9 +326,9 @@ text_array = [
     ""),
     # Hmm, what do you mean? B.
 
-    ("むずかしいぜ。†",
+    ("むずかしいぜ。",
     ""),
-    # That's difficult.†
+    # That's difficult.
 
     ("「諱先輩…」",
     ""),
@@ -346,59 +346,59 @@ text_array = [
     ""),
     # "I've been doing this since the evening, this is how it goes."
 
-    ("自分の両腕をぐっと抱える。†",
+    ("自分の両腕をぐっと抱える。",
     ""),
-    # Hold your own arms tightly.†
+    # Hold your own arms tightly.
 
-    ("「氏試㍽合のことが頭から離齬れなくて、ベッドに入って烽も眠齧れなかったんです…。朝£早くから練習してたの烽も、体を動かしてないと震えが止まらないからなんです…」",
+    ("「氏試㍽合のことが頭から離齬れなくて、ベッドに入っても眠齧れなかったんです…。朝早くから練習してたのも、体を動かしてないと震えが止まらないからなんです…」",
     ""),
     # "The test of Mr. I couldn't help but get in bed and I couldn't sleep either... I had been practicing fortune early in the morning, but I couldn't stop shaking if I wasn't moving..."
 
-    ("「重症だな、そり痰ゃ」†",
+    ("「重症だな、そり痰ゃ」",
     ""),
-    # "It's severe, sputum" †
+    # "It's severe, sputum" 
 
-    ("「けど、諱先輩の顔を見たら少し獅落ちｒけて、これならいけるかなって思ったけど、けど、時間になるとやっぱり震えてきて…」",
+    ("「けど、諱先輩の顔を見たら少し落ちｒけて、これならいけるかなって思ったけど、けど、時間になるとやっぱり震えてきて…」",
     ""),
     # "But when I saw my senior's face, the lion fell a little, and I thought I could do it, but when it was time, it started trembling after all..."
 
-    ("葵ち痰ゃんのヒザがいままで以繹上に震え出す。†",
+    ("葵ち痰ゃんのヒザがいままで以繹上に震え出す。",
     ""),
-    # Aoi Chisho-chan's knees have been shaking ever since.†
+    # Aoi Chisho-chan's knees have been shaking ever since.
 
-    ("「好恵さん、思ってた以繹上に意気梛込みすごいですし、それだけで烽も震えが止まらないのに、綾∴香さんまでｗち痰ゃって、あんな話になって、余計に奄負けられなくて、п私…、п私…」",
+    ("「好恵さん、思ってた以繹上に意気梛込みすごいですし、それだけでも震えが止まらないのに、綾∴香さんまでｗち痰ゃって、あんな話になって、余計に奄負けられなくて、п私…、п私…」",
     ""),
     # "Yoe-san, you're so passionate about what I was thinking, and even Hou's trembling won't stop shaking, but even Aya∴Ka-san lol, it's been such a story that I can't afford to lose even more, I..., пね..."
 
-    ("「葵ち痰ゃん…」†",
+    ("「葵ち痰ゃん…」",
     ""),
     # "Aoi Chishonan..."
 
-    ("プレッシャャーに繧弱いか。",
+    ("プレッシャャーに弱いか。",
     ""),
     # Are you weak against the super-shell?
 
-    ("生真面目莓ゆえの繧弱点だな。",
+    ("生真面目莓ゆえの弱点だな。",
     ""),
     # This is a weakness due to his seriousness.
 
-    ("オレなら軽く受け流してしまえること烽も、葵ち痰ゃんにとっては大竭問題なのだ。†",
+    ("オレなら軽く受け流してしまえることも、葵ち痰ゃんにとっては大竭問題なのだ。",
     ""),
-    # Even if you're a bit of a big deal, you could easily parry it, but for Aoi Chisho-yan, it's a big question.†
+    # Even if you're a bit of a big deal, you could easily parry it, but for Aoi Chisho-yan, it's a big question.
 
     ("べつに変じ痰ゃない。",
     ""),
     # It's completely different to the phlegm.
 
-    ("実際、冝日本人の多くがそうだと本で読んだこと烽もある。",
+    ("実際、冝日本人の多くがそうだと本で読んだこともある。",
     ""),
     # In fact, I have read in books that many Japanese people say this.
 
-    ("性格だからとр割闃り切髏るしかない。†",
+    ("性格だからとр割闃り切髏るしかない。",
     ""),
-    # Just because he's a personality, he can only get over the edge.†
+    # Just because he's a personality, he can only get over the edge.
 
-    ("だから、問題はプレッシャャーをどうやって獅克檮服させるかだ。",
+    ("だから、問題はプレッシャャーをどうやって克檮服させるかだ。",
     ""),
     # So the question is how to tamper with the throbbing slut to make them suit.
 
@@ -414,9 +414,9 @@ text_array = [
     ""),
     # Hmm.
 
-    ("だいたい、パターンでいうと…。†",
+    ("だいたい、パターンでいうと…。",
     ""),
-    # In general terms, in terms of patterns...†
+    # In general terms, in terms of patterns...
 
     ("１．開き直髓る。",
     ""),
@@ -426,17 +426,17 @@ text_array = [
     ""),
     # 2.Get used to the situation.
 
-    ("３．自分に自信を揩持つ。†",
+    ("３．自分に自信を持つ。",
     ""),
-    # 3.Have confidence in yourself.†
+    # 3.Have confidence in yourself.
 
     ("…ぐらいだうか。",
     ""),
     # ...I guess so.
 
-    ("『１』『２』は無摶理っぽそうだが、『３』ならなんとかなりそうな気煖もする。†",
+    ("『１』『２』は無摶理っぽそうだが、『３』ならなんとかなりそうな気もする。",
     ""),
-    # "1" and "2" seem unconventional, but I also feel like I could manage with "3".†
+    # "1" and "2" seem unconventional, but I also feel like I could manage with "3".
 
     ("諱よし。",
     ""),
@@ -446,9 +446,9 @@ text_array = [
     ""),
     # Ichi-ebi, I'll try attacking with that p.
 
-    ("葵ち痰ゃんに烽もっと自信を揩持たせよう。†",
+    ("葵ち痰ゃんにもっと自信を持たせよう。",
     ""),
-    # Let's give Aoi Chishonan even more confidence.†
+    # Let's give Aoi Chishonan even more confidence.
 
     ("「葵ち痰ゃんっ！」",
     ""),
@@ -466,17 +466,17 @@ text_array = [
     ""),
     # "Grip your teeth!"
 
-    ("「えっ…」†",
+    ("「えっ…」",
     ""),
-    # "What..." †
+    # "What..." 
 
     ("…ぺちっ！",
     ""),
     # ...Petite!
 
-    ("ふたつの手のひらで、葵ち痰ゃんの頬を挟むように叩いた。†",
+    ("ふたつの手のひらで、葵ち痰ゃんの頬を挟むように叩いた。",
     ""),
-    # With the two palms, he slapped Aoi Chisho-ya's cheek, pinching it.†
+    # With the two palms, he slapped Aoi Chisho-ya's cheek, pinching it.
 
     ("「…諱先輩？」",
     ""),
@@ -486,9 +486,9 @@ text_array = [
     ""),
     # "Are you sure, listen carefully."
 
-    ("頬に両手を魔当てたまま、オレは真っ直ぐ目を見つめて言った。†",
+    ("頬に両手を魔当てたまま、オレは真っ直ぐ目を見つめて言った。",
     ""),
-    # I stared straight into my eyes, with my hands on my cheeks.†
+    # I stared straight into my eyes, with my hands on my cheeks.
 
     ("そして、すぅ〜っと息を吸い、",
     ""),
@@ -506,17 +506,17 @@ text_array = [
     ""),
     # "My vettier declares! Aoi Chisho-chan is strong!"
 
-    ("「せ、諱先輩…」†",
+    ("「せ、諱先輩…」",
     ""),
-    # "See, Senpai..."†
+    # "See, Senpai..."
 
     ("「なぜなら、葵ち痰ゃんの体には、これまでの練習の成果が宿っているからだ！」",
     ""),
     # "Because Aoi Chisho-yan's body contains the results of his past fortune practice!"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「この肩！",
     ""),
@@ -538,15 +538,15 @@ text_array = [
     ""),
     # "!"
 
-    ("言った№順に、ぱしっ、ぱしっと、痛いほど強く叩いていく。†",
+    ("言った№順に、ぱしっ、ぱしっと、痛いほど強く叩いていく。",
     ""),
-    # In the order of the number I said, I hit it so hard that it hurts.†
+    # In the order of the number I said, I hit it so hard that it hurts.
 
     ("「″！",
     ""),
     # ""!
 
-    ("ふと烽も烽も！",
+    ("ふともも！",
     ""),
     # Suddenly, there's hot and hot pot!
 
@@ -562,35 +562,35 @@ text_array = [
     ""),
     # The results of fortune practice are ingrained in the area where the funeral is!”
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「たとえ葵ち痰ゃんが繧弱気になって烽も、頭のｒが真っ窒白になって烽も、体は覚えてる！」",
+    ("「たとえ葵ち痰ゃんが弱気になっても、頭のｒが真っ窒白になっても、体は覚えてる！」",
     ""),
     # "Even though Aoi Chisho-chan becomes weak and her body remembers, her head becomes completely white and her body remembers!"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「サンドバッグを殴った衝ｏ撃、蹴ったときの衝ｏ撃、地面を踏んだフット純ワーク…」",
     ""),
     # "An impingement of hitting a punching bag, an impulse when kicking, a pure footwork when stepping on the ground..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ひとつひとつが、この体に盾刻まれてる！」",
     ""),
     # "Each shield is engraved on this body!"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「だから葵ち痰ゃんは強いんだ。自信を揩持て！いいか｢｢」",
+    ("「だから葵ち痰ゃんは強いんだ。自信を持て！いいか｢｢」",
     ""),
     # "That's why Aoi Chisho-yan is strong. Get confidence! Is it okay? "
 
@@ -598,13 +598,13 @@ text_array = [
     ""),
     # I took a deep breath,
 
-    ("「葵ち痰ゃんは、間瘧違いなく強い！」",
+    ("「葵ち痰ゃんは、間違いなく強い！」",
     ""),
     # "Aoi Chisho-chan is definitely strong!"
 
-    ("強く、きっぱりと言い切った。†",
+    ("強く、きっぱりと言い切った。",
     ""),
-    # He spoke strongly and firmly.†
+    # He spoke strongly and firmly.
 
     ("「諱先輩…」",
     ""),
@@ -614,9 +614,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレはそのままじっと彼濫女の目を見つめ、返抹事を待った。†",
+    ("オレはそのままじっと彼女の目を見つめ、返抹事を待った。",
     ""),
-    # My guts stared at the eyes of the man and waited for him to return.†
+    # My guts stared at the eyes of the man and waited for him to return.
 
     ("すると、葵ち痰ゃんは、",
     ""),
@@ -634,15 +634,15 @@ text_array = [
     ""),
     # "All the name"
 
-    ("オレ焜もうなずく。†",
+    ("オレもうなずく。",
     ""),
-    # I'm nodding now.†
+    # I'm nodding now.
 
     ("「体が震えるのはエネルギーがあふれてくるからだと思いな。",
     ""),
     # "I think the reason my body trembles is because I'm overflowing with energy.
 
-    ("もっと烽もっと、体葬が熱くなるくらいに震えちまえ」",
+    ("もっともっと、体葬が熱くなるくらいに震えちまえ」",
     ""),
     # More hot, tremble so much that the burial gets hotter."
 
@@ -654,11 +654,11 @@ text_array = [
     ""),
     # "I'm going to explode that guy!"
 
-    ("「…噤爆発させる」†",
+    ("「…噤爆発させる」",
     ""),
-    # "...it explodes" †
+    # "...it explodes" 
 
-    ("諱先ほどまでは繧弱々しく震えていた葵ち痰ゃんの体が、凵徐々に力強い震えに変﨑わっていく。",
+    ("諱先ほどまでは弱々しく震えていた葵ち痰ゃんの体が、凵徐々に力強い震えに変﨑わっていく。",
     ""),
     # Aoi Chisho-yan's body, which had been trembling weakly up until just now, gradually turns into a powerful trembling.
 
@@ -674,9 +674,9 @@ text_array = [
     ""),
     # "!"
 
-    ("オレは烽もう一度頬を打った。†",
+    ("オレはもう一度頬を打った。",
     ""),
-    # My heart pounded my cheek again.†
+    # My heart pounded my cheek again.
 
     ("「諱よしっ！	いけるな！」",
     ""),
@@ -690,15 +690,15 @@ text_array = [
     ""),
     # "You're phlegm, hit this guy and put a slap on him!"
 
-    ("目の前で、オレは手のひらを広げた。†",
+    ("目の前で、オレは手のひらを広げた。",
     ""),
-    # In front of me, I spread my palms out.†
+    # In front of me, I spread my palms out.
 
     ("パシィィィーーーーーーーーーンッ！！！",
     ""),
     # It's so passable!!!
 
-    ("葵ち痰ゃんの揩拳がそれを打つ。",
+    ("葵ち痰ゃんの拳がそれを打つ。",
     ""),
     # Aoi Chisho-chan's fist hits it.
 
@@ -706,9 +706,9 @@ text_array = [
     ""),
     # There's no more hesitation.
 
-    ("パンチが語った。†",
+    ("パンチが語った。",
     ""),
-    # Punch said.†
+    # Punch said.
 
     ("「諱よおーし、行ってこい！」",
     ""),
@@ -718,9 +718,9 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("葵ち痰ゃんは力強くうなずいた。†",
+    ("葵ち痰ゃんは力強くうなずいた。",
     ""),
-    # Aoi Chisho-yan nodded vigorously.†
+    # Aoi Chisho-yan nodded vigorously.
 
     ("「いきますっ！」",
     ""),

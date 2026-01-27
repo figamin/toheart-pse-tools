@@ -2,11 +2,11 @@
 # Source file: 0A2D.txt
 
 text_array = [
-    ("（Ｂ	別れる。）†",
+    ("（Ｂ	別れる。）",
     ""),
-    # (B Parting up.)†
+    # (B Parting up.)
 
-    ("「たまにはそんなの烽もいいか烽もな。それじ痰ゃオレ、教室戻髢る墲わ」",
+    ("「たまにはそんなのもいいかもな。それじ痰ゃオレ、教室戻髢るわ」",
     ""),
     # "Sometimes, I don't mind if it's hot or hot. I'll go crazy, I'll go back to the classroom."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ahaha."
 
-    ("掾理女緒ち痰ゃんは笑いながら階段を繧上っていった。◯",
+    ("掾理女緒ち痰ゃんは笑いながら階段を上っていった。◯",
     ""),
     # Jorime Ochishon laughed and went up the stairs.◯
 

@@ -2,13 +2,13 @@
 # Source file: 0581.txt
 
 text_array = [
-    ("（葵	冝日付イベント１）閨（氏月曜、及びｐ曜にクラブに行くを選んだ場㍼合）閨（神社）†",
+    ("（葵	冝日付イベント１）閨（氏月曜、及びｐ曜にクラブに行くを選んだ場㍼合）閨（神社）",
     ""),
-    # (Aoi Pick Date Event 1) Lee (Leads where you chose to go to Kuban Love on Mondays and P.) Lee (Shrine) †
+    # (Aoi Pick Date Event 1) Lee (Leads where you chose to go to Kuban Love on Mondays and P.) Lee (Shrine) 
 
-    ("諱よし、クラブに行くか。†",
+    ("諱よし、クラブに行くか。",
     ""),
-    # Okay, shall we go to Kuban Love?†
+    # Okay, shall we go to Kuban Love?
 
     ("おかしいな。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # I went to the shrine, but there was no sign of Aoi Chisho-chan.
 
-    ("どうしたんだう。†",
+    ("どうしたんだう。",
     ""),
-    # What's wrong?†
+    # What's wrong?
 
     ("あっ、そうか。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # Mr. Monday and P.Y. were days when there was no love for the banquet.
 
-    ("しょうがない、青い空で烽も眺めて帰驪るか。†",
+    ("しょうがない、青い空でも眺めて帰驪るか。",
     ""),
-    # There's no slut, so I wonder if I'll go back and look at the hot springs in the blue sky.†
+    # There's no slut, so I wonder if I'll go back and look at the hot springs in the blue sky.
 
     ("ぼーーーーーーーーーーーーーーーっ。",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # teeth~~~~~~~….
 
-    ("雲を見てると獅落ちｒくなぁ。",
+    ("雲を見てると落ちｒくなぁ。",
     ""),
     # When I look at the clouds, I feel like the lion falls.
 

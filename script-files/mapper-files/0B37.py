@@ -2,9 +2,9 @@
 # Source file: 0B37.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント５	縺後半）閨（セリオ	消し）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント５	縺後半）閨（セリオ	消し）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, the battle for the balance event 5, the second half of the snake) (Segata Rio erased)†
+    # (Aya∴Ka challenges Aya∴Ka, the battle for the balance event 5, the second half of the snake) (Segata Rio erased)
 
     ("諱よし、普装葬完了と。",
     ""),
@@ -14,17 +14,17 @@ text_array = [
     ""),
     # So, how will we attack on the day?
 
-    ("やってみたいことはいくらで烽もある。",
+    ("やってみたいことはいくらでもある。",
     ""),
     # There are so many things I want to try, and there are hot springs.
 
-    ("あれ烽もいいし、これ烽もいい。",
+    ("あれもいいし、これもいい。",
     ""),
     # That hot water is good, and this hot water is good too.
 
-    ("意外にああいうのはいけるか烽も。†",
+    ("意外にああいうのはいけるかも。",
     ""),
-    # Surprisingly, I wonder if that kind of thing can be done.†
+    # Surprisingly, I wonder if that kind of thing can be done.
 
     ("「………」",
     "…"),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Hmm? What is it?"
 
-    ("「今厓日の、なんだか、いつにない気雷迫を感じる墲わね」",
+    ("「今厓日の、なんだか、いつにない気雷迫を感じるわね」",
     ""),
     # "I feel the unprecedented thunder of the day right now."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "A thunder? I'm so violent?"
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
-    ("「べつにいつ烽もと変﨑わんねーけど…？」",
+    ("「べつにいつもと変﨑わんねーけど…？」",
     ""),
     # "When will you not be able to get the stove at all, but...?"
 
@@ -62,13 +62,13 @@ text_array = [
     ""),
     # From the look on his face."
 
-    ("「気のせいだ。どっちかっつーと、いつ烽もより鰍リラックスしてんだぜ」",
+    ("「気のせいだ。どっちかっつーと、いつもより鰍リラックスしてんだぜ」",
     ""),
     # "It's just my imagination. Either way, when is the banquet even more relaxed than the hotpot?"
 
-    ("オレは手をひらひらさせて言った。†",
+    ("オレは手をひらひらさせて言った。",
     ""),
-    # My geira fluttered and said.†
+    # My geira fluttered and said.
 
     ("「それよか、＝早く始めようぜ」",
     ""),
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "Of course it's b. What else is there?"
 
-    ("「そうだけど。なんだか嬉しそうね」†",
+    ("「そうだけど。なんだか嬉しそうね」",
     ""),
     # "That's right. It looks kind of happy."
 
-    ("「嬉しそう？	うーん、まあ、そうか烽もな。最近お前に教寀わりだしてから、氏試してみたいことが揩増えたからな。",
+    ("「嬉しそう？	うーん、まあ、そうかもな。最近お前に教寀わりだしてから、氏試してみたいことが増えたからな。",
     ""),
     # "You look happy? Hmm, well, I see. Since I recently started teaching you, I've been wanting to try it out more.
 
-    ("授業拠とか烽もどう攻めるかとか、そんなことばかり考えてんだぜ。イ＜メージトレーニングってやつ？」",
+    ("授業拠とかもどう攻めるかとか、そんなことばかり考えてんだぜ。イ＜メージトレーニングってやつ？」",
     ""),
     # I'm always thinking about things like the lessons and how to attack the Hou.Is imagery fierce laning a thing that's tampering?”
 
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Learn lessons with a little smug study."
 
-    ("綾∴香はくすっと笑う。†",
+    ("綾∴香はくすっと笑う。",
     ""),
-    # Aya∴Ka chuckles.†
+    # Aya∴Ka chuckles.
 
     ("「さあ、じ痰ゃあ、やっか」",
     ""),
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("「じ痰ゃあ、始める墲わよ」",
+    ("「じ痰ゃあ、始めるわよ」",
     ""),
     # "Ah, I'll start."
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # "That's fine."
 
-    ("オレ焜もファイティングポーズを取った。†",
+    ("オレもファイティングポーズを取った。",
     ""),
-    # My rakuro also took a fighting pose.†
+    # My rakuro also took a fighting pose.
 
-    ("「いい墲わよ。セリオ、始めて」",
+    ("「いいわよ。セリオ、始めて」",
     ""),
     # "That's great. Seragato Rio, start now."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # Judgment Segata Rio makes a comeback.
 
-    ("「戟レディ｢｢」",
+    ("「レディ｢｢」",
     ""),
     # "The Witch Lady"
 
@@ -146,9 +146,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「｢｢ファイト」†",
+    ("「｢｢ファイト」",
     ""),
-    # ""Fight"†
+    # ""Fight"
 
     ("ビャッ、ビャッ！",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # Spa Ann!
 
-    ("接近寀戦でのモしい攻防。†",
+    ("接近寀戦でのモしい攻防。",
     ""),
-    # A fierce attack and defense in close proximity battles.†
+    # A fierce attack and defense in close proximity battles.
 
     ("そのｒで、オレは｢｢。",
     ""),

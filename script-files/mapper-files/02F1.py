@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "You're Aya∴Smelling and phlegm?"
 
-    ("「学校にｗ一翌ﾎ烽もしかしたらと思ったけど、本末当にｉえるとはね〜」†",
+    ("「学校にｗ一翌ﾎもしかしたらと思ったけど、本末当にえるとはね〜」†",
     ""),
     # "I thought it might be a chance to go to school lol, but I don't think I'll get it right after the day."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「で烽も、いきなり姉さんとのツーショットが見鼬れるなんてね。本末当に№仲いいのね」",
+    ("「でも、いきなり姉さんとのツーショットが見鼬れるなんてね。本末当に№仲いいのね」",
     ""),
     # "And you can't help but suddenly see a two-squeal with your sister. You're really close at the heart."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Aya∴Ka imitates her ears with her hands.†
 
-    ("「それにして烽も…」",
+    ("「それにしても…」",
     ""),
     # "And so, the hot spring..."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "What? What's wrong?"
 
-    ("「ふたりと烽も、今厓日はこれから用沫事があるんだ？」",
+    ("「ふたりとも、今厓日はこれから用沫事があるんだ？」",
     ""),
     # "Are you two and the hot springs going to be droplets now on the day?"
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # "So what?"
 
-    ("「もし暇だったら、ふたりと烽も誘ってどっか遊びに行くとこなんだけどなー」",
+    ("「もし暇だったら、ふたりとも誘ってどっか遊びに行くとこなんだけどなー」",
     ""),
     # "If I'm bored, I'd invite both of you and Ho to go and have some fun somewhere."
 
-    ("「いい墲わよ、行こっか？」",
+    ("「いいわよ、行こっか？」",
     ""),
     # "It's nice, let's go?"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Really?!"
 
-    ("「姉さん烽も行きたいでしょ？」",
+    ("「姉さんも行きたいでしょ？」",
     ""),
     # "Sister, you want to go to the hot springs too, slut?"
 
@@ -166,19 +166,19 @@ text_array = [
     ""),
     # "Haha, joking, joking."
 
-    ("綾∴香はぺっと繧舌を出す。",
+    ("綾∴香はぺっと舌を出す。",
     ""),
     # Aya∴Ka pees out her tongue.
 
-    ("「…まったく、＠栖瑞家のご令酪と烽もあうお方が、なんという…」",
+    ("「…まったく、＠栖瑞家のご令酪ともあうお方が、なんという…」",
     ""),
     # "...What do you think, the @Suizui family's dairy and hot blessings are...?"
 
-    ("「はいはい、もう墲わかりました」",
+    ("「はいはい、もうわかりました」",
     ""),
     # "Yes, yes, I already understand."
 
-    ("綾∴香は烽説教なんか聞き飽きたというふうに聞き流す。†",
+    ("綾∴香は説教なんか聞き飽きたというふうに聞き流す。†",
     ""),
     # Aya∴Ka overhears the hot sermon, saying that she's tired of hearing the hot sermon.†
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # This time, the sperm was thrilled.
 
-    ("「きさまのような身分卑しき者が、こちらのおｏ様菶方をお誘いになるとは言鼬語道断じ痰ゃ！	身のほどを墲わきまえぬか！」",
+    ("「きさまのような身分卑しき者が、こちらのおｏ様菶方をお誘いになるとは言鼬語道断じ痰ゃ！	身のほどをわきまえぬか！」",
     ""),
     # "It is a complete phlegm to say that a self-regarded person like you would invite us to this O-sama Sou-san! Can't you understand your body!"
 
@@ -210,11 +210,11 @@ text_array = [
     ""),
     # "anyway!"
 
-    ("「う墲わっ」",
+    ("「うわっ」",
     ""),
     # "Uhhhhh"
 
-    ("「おふたりと烽も、今厓日は烽もうお桙時間でございます。",
+    ("「おふたりとも、今厓日はもうお桙時間でございます。",
     ""),
     # "The two of you and Hot Springs are now in hot springs.
 
@@ -222,11 +222,11 @@ text_array = [
     ""),
     # Please get in your car soon."
 
-    ("執鮪事のじーさんは繧後伯部座席のドアを開いて言った。†",
+    ("執鮪事のじーさんは後伯部座席のドアを開いて言った。†",
     ""),
     # The old man who was in the tuna was opened and said, "I'm not going to be able to get any more."†
 
-    ("「あーあ、仕緖方ない墲わね」",
+    ("「あーあ、仕緖方ないわね」",
     ""),
     # "Ahh, there's no way to play it."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # Aya∴Ka shrugs her shoulders, saying, "You're going to tamper with me."
 
-    ("「じ痰ゃあ、そういうことで、今厓日は烽もう失邇礼する墲わ。バイバイ、またね」",
+    ("「じ痰ゃあ、そういうことで、今厓日はもう失邇礼するわ。バイバイ、またね」",
     ""),
     # "Ah, that's how it goes, and I'm already feeling sorry for the day. Bye-bye, see you later."
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # The doors closed and the car slowly began to run wild.†
 
-    ("「…おｏ様っての烽もなにかと大変だなァ」",
+    ("「…おｏ様ってのもなにかと大変だなァ」",
     ""),
     # "...Oh, it's tough to see the hot springs of O-sama."
 

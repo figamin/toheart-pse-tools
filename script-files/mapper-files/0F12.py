@@ -2,11 +2,11 @@
 # Source file: 0F12.txt
 
 text_array = [
-    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	♂史）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	雅史）閨（蛛主人公沍勝ち）†",
     ""),
-    # (Arcade Battle Cry 2) (Cycle Final Test Part 2 (HbbH)) (Cycle Contest ♂ History) (Mrage Protagonist Wins)†
+    # (Arcade Battle Cry 2) (Cycle Final Test Part 2 (HbbH)) (Cycle Contest 雅 History) (Mrage Protagonist Wins)†
 
-    ("「♂史〜、もうちょっとうまくなってくれよ」",
+    ("「雅史〜、もうちょっとうまくなってくれよ」",
     ""),
     # "Masturbation, I hope you get better at it."
 
@@ -42,12 +42,12 @@ text_array = [
     ""),
     # Okay, shall we do it?”†
 
-    ("♂史をコーチしつつ、オレ自身熕もゲームを堪能した。",
+    ("雅史をコーチしつつ、オレ自身熕もゲームを堪能した。",
     ""),
     # While coaching Makoshi, Ikehi himself also enjoyed the game.
 
-    ("♂史燻もｉ史でそれなりに繧上達したし、氈次回は冾期待してるぜ。◯",
+    ("雅史燻も史でそれなりに上達したし、氈次回は冾期待してるぜ。◯",
     ""),
-    # The ♂Smoking has also improved quite a bit with I-History, so I'm looking forward to the next episode.◯
+    # The 雅Smoking has also improved quite a bit with I-History, so I'm looking forward to the next episode.◯
 
 ]

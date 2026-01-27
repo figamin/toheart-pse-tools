@@ -2,27 +2,27 @@
 # Source file: 0402.txt
 
 text_array = [
-    ("（志保	冝日付イベント）閨（４／１２	朝）閨（下駄箱）†",
+    ("（志保	冝日付イベント）閨（４／１２	朝）閨（下駄箱）",
     ""),
-    # (Shiho Pick Date Event) (Morning April 12th) (Shoe cabinet)†
+    # (Shiho Pick Date Event) (Morning April 12th) (Shoe cabinet)
 
     ("「おっはよ〜〜っ！	うんうん、今厓日燗も二人≒仲良くご登校、憎いねぇ〜このっ、おしどり夫婦！」",
     ""),
     # "Oh good! Yes, now, the two of you are going to school together, so I hate you, this is such a chubby couple!"
 
-    ("いきなり志保が出てきた。†",
+    ("いきなり志保が出てきた。",
     ""),
-    # Shiho suddenly appeared.†
+    # Shiho suddenly appeared.
 
     ("「おはよう、志保」",
     ""),
     # "Good morning, Shiho."
 
-    ("「おめー、なに朝から出女医酪繧ｪってんだよ」",
+    ("「おめー、なに朝から出女医酪ｪってんだよ」",
     ""),
     # "Hello, what are you saying, "You're a female doctor who's coming out in the morning?"
 
-    ("「出女医酪繧ｪる烽もなに烽も、あたしはいつだって元気闍",
+    ("「出女医酪ｪるもなにも、あたしはいつだって元気闍",
     ""),
     # "I'm always in good health, no matter what the female doctor is,
 
@@ -30,19 +30,19 @@ text_array = [
     ""),
     # Oh the next @"
 
-    ("「か烽もしれねーな…」",
+    ("「かもしれねーな…」",
     ""),
     # "I guess it's hot..."
 
-    ("…ったく、その元気を全荘国の痰低健血圧な人たちに分けてやれっての。†",
+    ("…ったく、その元気を全荘国の痰低健血圧な人たちに分けてやれっての。",
     ""),
-    # ...They say they should divide their energy into people from all over the country with low phlegm and healthy blood pressure.†
+    # ...They say they should divide their energy into people from all over the country with low phlegm and healthy blood pressure.
 
     ("「志保、今厓日はどうしたの？」",
     ""),
     # "Shiho, what happened on the day?"
 
-    ("あかり烽もさすがに、おかしいと思ったらしい。",
+    ("あかりもさすがに、おかしいと思ったらしい。",
     ""),
     # Apparently, Akari Hot was also thought to be strange.
 
@@ -50,19 +50,19 @@ text_array = [
     ""),
     # "Oh, are you even saying that to Akari?"
 
-    ("「ったりめーだ。朝からその変なノリで翌迫逕られり痰ゃあ、誰だって不気味がるっての」†",
+    ("「ったりめーだ。朝からその変なノリで翌迫逕られり痰ゃあ、誰だって不気味がるっての」",
     ""),
     # "It's a bit of a slut. I was so excited that the next day I was so excited that everyone was creepy."
 
-    ("「そんなこと言甯われたって、このノリは変えらんない墲わよ」",
+    ("「そんなこと言甯われたって、このノリは変えらんないわよ」",
     ""),
     # "Even if you say that, you won't be able to change this place."
 
-    ("「…その点ではオレ焜もあかり烽も、あきらめてるぜ」",
+    ("「…その点ではオレもあかりも、あきらめてるぜ」",
     ""),
     # "...In that respect, I've given up on both my super-realistic and Akari Hot."
 
-    ("「なによう。あたしはこのノリが気に入ってるのよ。あんたにあきらめられる筋㈲合いはない墲わ」†",
+    ("「なによう。あたしはこのノリが気に入ってるのよ。あんたにあきらめられる筋㈲合いはないわ」",
     ""),
     # "What? I like this Nogatari. I don't have any confusion for you to give up."
 
@@ -82,13 +82,13 @@ text_array = [
     ""),
     # "Thank you very much for your help."
 
-    ("「ってな墲わけであたし、教室に戻髢るね。…あ、そうそう。あんたたち、くれぐれ烽も№仲良くやんなさい",
+    ("「ってなわけであたし、教室に戻髢るね。…あ、そうそう。あんたたち、くれぐれも№仲良くやんなさい",
     ""),
     # "That's why I'm going to go back to the classroom... Oh, that's right. You guys, please be sure to tamper with us as well.
 
-    ("よぉ〜」†",
+    ("よぉ〜」",
     ""),
-    # Oh well"†
+    # Oh well"
 
     ("変なセリフを残して、志保は教室へ戻っていった。",
     ""),

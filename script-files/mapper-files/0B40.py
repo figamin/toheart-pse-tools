@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Instep!
 
-    ("それにあ墲わせて、綾∴香は絶妙なタイミングでカウンターを冾放つ！",
+    ("それにあわせて、綾∴香は絶妙なタイミングでカウンターを冾放つ！",
     ""),
     # And with that in mind, Aya∴Ka fires the counter at an exquisite timing!
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # The upper blows through the air and plunges through the top!
 
-    ("か墲わされた！？",
+    ("かわされた！？",
     ""),
     # I was forced to stoke!?
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # A momentary gap before you return the guard!
 
-    ("綾∴香はそれさえ烽も逃さない！†",
+    ("綾∴香はそれさえも逃さない！†",
     ""),
     # Aya∴Ka doesn't even miss that, even hot!†
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # My eyes are shaking.
 
-    ("まるで撮影カ＜メラを獅落としたときのテレビ諠画面だ。†",
+    ("まるで撮影カ＜メラを落としたときのテレビ諠画面だ。†",
     ""),
     # It's like a screenshot of a filmed film called "Announcer" when he plucks through the film.†
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # Sigh aaaaah!
 
-    ("オレのアゴを突き繧上げるように、綾∴香の右アッパーが炸裂した。†",
+    ("オレのアゴを突き上げるように、綾∴香の右アッパーが炸裂した。†",
     ""),
     # Aya∴Ka's right upper exploded, as if thrusts my chin up.†
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # It feels like a floating feeling.
 
-    ("まるで天にで烽も昇髀るような気分だぜ…。†",
+    ("まるで天にでも昇髀るような気分だぜ…。†",
     ""),
     # It feels like a hot spring is rising to the sky...†
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # It's good to keep you excited.†
 
-    ("「蛛大苟丈夫？	少しくらい横になってたほうがいいか烽もよ」",
+    ("「蛛大苟丈夫？	少しくらい横になってたほうがいいかもよ」",
     ""),
     # "Dragonfly? Is it better to lie down a little bit, too?"
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # I still felt a little dizzy at the end of the day.†
 
-    ("「ごめん。途湯でやめて烽もよかったんだけど、つい熱くなっち痰ゃって…」",
+    ("「ごめん。途湯でやめてもよかったんだけど、つい熱くなっち痰ゃって…」",
     ""),
     # "Sorry. I stopped tampering with the water and the hot water would have been fine, but I ended up getting hot and phlegm..."
 
@@ -294,11 +294,11 @@ text_array = [
     ""),
     # He supports his upper body with his hands and looks up at the sky.†
 
-    ("「あ〜あ、あと烽もう一煦歩だったってのによ。あそこでアッパーさえ打たなけり痰ゃ…」",
+    ("「あ〜あ、あともう一煦歩だったってのによ。あそこでアッパーさえ打たなけり痰ゃ…」",
     ""),
     # "Ahh, and it was already a sniff. I didn't even hit the upper there and it was phlegm..."
 
-    ("「で烽も、あれはあれで正しい判断だと思う。",
+    ("「でも、あれはあれで正しい判断だと思う。",
     ""),
     # "And I think that's the right decision, too.
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # "That's because it happened to be me as the Kaji relations player.
 
-    ("普通の鰍相闡手なら大葬駐體る墲わよ」†",
+    ("普通の鰍相闡手なら大葬駐體るわよ」†",
     ""),
     # If you're a normal monk-related guy, you'll be in the middle of a burial funeral."
 
@@ -322,11 +322,11 @@ text_array = [
     ""),
     # "It's meaningless if you don't beat you."
 
-    ("「あら？	今厓日は勝ち奄負けにはこだ墲わらないとか言ってなかったっけ？」",
+    ("「あら？	今厓日は勝ち奄負けにはこだわらないとか言ってなかったっけ？」",
     ""),
     # "Oh? Didn't you say you won't be able to win or lose Amami on the day?"
 
-    ("「それは獅試㍽合前の心構えの話だ。",
+    ("「それは試㍽合前の心構えの話だ。",
     ""),
     # "That's about the mindset before the lion exam.
 
@@ -334,7 +334,7 @@ text_array = [
     ""),
     # In the end, I really want to win."
 
-    ("「まあ、そうか烽もね」",
+    ("「まあ、そうかもね」",
     ""),
     # "Well, I see, Hot too."
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # Aya∴Ka chuckled.†
 
-    ("「ま、で烽も、今回は奄負けということで」",
+    ("「ま、でも、今回は奄負けということで」",
     ""),
     # "Well, the one that's lost in Amami this time."
 
@@ -362,7 +362,7 @@ text_array = [
     ""),
     # "...I got two shots from all over the house club, so I couldn't get any phlegm.
 
-    ("一発で烽も魔当てれば勝ち、って汲ルールだったでしょ」",
+    ("一発でも魔当てれば勝ち、ってルールだったでしょ」",
     ""),
     # The rule was that if you hit the demon with one shot, you'll win, slut."
 
@@ -378,11 +378,11 @@ text_array = [
     ""),
     # I had completely forgotten.
 
-    ("あんまりきれいにｌめられた烽もんだから、堰負けちまった烽もんだとばかり…。†",
+    ("あんまりきれいにｌめられたもんだから、堰負けちまったもんだとばかり…。†",
     ""),
     # It was a hot pot that was so beautiful that it was a hot pot that had been defeated by a dam...†
 
-    ("「そっか。てことは、まてよ。さっきの獅試㍽合、途湯で烽もう、氈勝ってたんじ痰ゃねーか」",
+    ("「そっか。てことは、まてよ。さっきの試㍽合、途湯でもう、氈勝ってたんじ痰ゃねーか」",
     ""),
     # "I see. So, let's wait. The lion test session just now was just a hot spring in the air, so you're still sputum."
 
@@ -390,7 +390,7 @@ text_array = [
     ""),
     # "That's right."
 
-    ("「じ痰ゃあ、最纃後に烽もらったあの四発は、本沫全然熨もら墲わなくていいはずの…」",
+    ("「じ痰ゃあ、最纃後にもらったあの四発は、本沫全然熨もらわなくていいはずの…」",
     ""),
     # "Ah, the four shots I received after the heat should have no need to get a real gift..."
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # I'm not going to be beaten up.†
 
-    ("「で烽も、そうか。オレの勝ちか…」",
+    ("「でも、そうか。オレの勝ちか…」",
     ""),
     # "And so, is that so? I'll win too..."
 
@@ -430,11 +430,11 @@ text_array = [
     ""),
     # Although it was a hit with Kugata Lean, it was a punch that ended up being a mess.
 
-    ("いまいち実感が墲わかないが、それで烽もまあ、氈勝ちは勝ちだ。†",
+    ("いまいち実感がわかないが、それでもまあ、氈勝ちは勝ちだ。†",
     ""),
     # I don't really feel that way, but that's why, even if you win, you win.†
 
-    ("「そういえば、堰負けたほうはなんで烽もひとつ、氈勝ったほうの言うことを聞く約束だったな」",
+    ("「そういえば、堰負けたほうはなんでもひとつ、氈勝ったほうの言うことを聞く約束だったな」",
     ""),
     # "By the way, the person who lost the weir was a promise to listen to what the one who won the weir said."
 
@@ -442,7 +442,7 @@ text_array = [
     ""),
     # I laughed and said, "I'm not going to stop it."
 
-    ("「しょうがない墲わね。なにをすればいいの？」",
+    ("「しょうがないわね。なにをすればいいの？」",
     ""),
     # "You're a slut. What should I do?"
 

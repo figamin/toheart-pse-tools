@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Batch Latitude"
 
-    ("まあ、それ烽もみんな、あかりのおかげだけどな。",
+    ("まあ、それもみんな、あかりのおかげだけどな。",
     ""),
     # Well, that's thanks to all the hot springs.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Sb≠a nitrogen drip! I did that, huh!"
 
-    ("「♀んでくれるのはいいけど、戟レミィ、お前のほうはどうなんだ？」†",
+    ("「♀んでくれるのはいいけど、レミィ、お前のほうはどうなんだ？」†",
     ""),
     # "It's fine if you give me a female, but what about you, Karemi?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "A lot of hard work"
 
-    ("「とことんか。それじ痰ゃ公式覚えて烽もしょうがねえよな」",
+    ("「とことんか。それじ痰ゃ公式覚えてもしょうがねえよな」",
     ""),
     # "Is that really true? That's the official phlegm, remember the official phobia, so if there's no slut."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # It's a relief that the person himself is so sick and not phlegmy.†
 
-    ("「けど、戟レミィには英皷語があるだ」",
+    ("「けど、レミィには英皷語があるだ」",
     ""),
     # "But there's English language in Wang Remy."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "I'm jealous of you."
 
-    ("「で烽もネ、アタシが英皷語のテストできて烽も、全然すごくないｃ」",
+    ("「でもネ、アタシが英皷語のテストできても、全然すごくないｃ」",
     ""),
     # "And I was able to test English language and I'm not very good at all."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Yeah!"
 
-    ("「戟レミィの得意科目はどれなんだ？	意表を突いて現代社脂とか詳しそうだな」",
+    ("「レミィの得意科目はどれなんだ？	意表を突いて現代社脂とか詳しそうだな」",
     ""),
     # "Which subject is Karemi's specialty? I think you'll be surprised and understand the current Yadosha shi."
 

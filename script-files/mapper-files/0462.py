@@ -2,17 +2,17 @@
 # Source file: 0462.txt
 
 text_array = [
-    ("（ＶＳ	イベント	志保ＶＳ智子）閨（選択綜	智子をフォ鴻ロー）†",
+    ("（ＶＳ	イベント	志保ＶＳ智子）閨（選択綜	智子をフォ鴻ロー）",
     ""),
-    # (VS Event Shiho vs Tomoko) (Select So Tomoko follows)†
+    # (VS Event Shiho vs Tomoko) (Select So Tomoko follows)
 
     ("「やめとけ、志保。お前が悪い」",
     ""),
     # "Stop it, Shiho. It's your fault."
 
-    ("オレは委員長の肩を揩持つことにした。†",
+    ("オレは委員長の肩を持つことにした。",
     ""),
-    # I decided to hold the chairman's shoulder.†
+    # I decided to hold the chairman's shoulder.
 
     ("「ちょっとあんた、なんてこと言うのよ！」",
     ""),
@@ -26,19 +26,19 @@ text_array = [
     ""),
     # I cough one more time,
 
-    ("「いいか、学校ってのは団体行動の場だ。何哩事に烽も、協調性を揩持って｢｢」",
+    ("「いいか、学校ってのは団体行動の場だ。何哩事にも、協調性を持って｢｢」",
     ""),
     # "Look, schools are places for group activities. Even though they are cooperative, they have a sense of cooperation and ""
 
-    ("「｢｢って、こないだ校長センセが言ってた墲わよね」",
+    ("「｢｢って、こないだ校長センセが言ってたわよね」",
     ""),
     # "'That's the one the principal-sensei said the other day, isn't it?"
 
-    ("「わかってるじ痰ゃねーか」†",
+    ("「わかってるじ痰ゃねーか」",
     ""),
     # "You know what phlegm is there?"
 
-    ("「はいはい、おっし痰ゃる通闥りですぅ。今回はあたしが悪かった墲わよ」",
+    ("「はいはい、おっし痰ゃる通闥りですぅ。今回はあたしが悪かったわよ」",
     ""),
     # "Yes, yes, it's a sigh of a message. This time, I was in the wrong."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "...Look at the yaaaaah."
 
-    ("悪役の捨てぜりふみたいな言葉を残して、志保は獅去っていった。",
+    ("悪役の捨てぜりふみたいな言葉を残して、志保は去っていった。",
     ""),
     # Shiho left behind a word that looked like a villain's abandonment.
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "...Is this just quieter b?"
 
-    ("オレは委員長に声をかけた。†",
+    ("オレは委員長に声をかけた。",
     ""),
-    # I called out to the chairman.†
+    # I called out to the chairman.
 
     ("「………」",
     "…"),
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "Oh no.
 
-    ("もうｗ磯翌ﾈって言っとき痰ゃよかったな」†",
+    ("もうｗ磯翌ﾈって言っとき痰ゃよかったな」",
     ""),
     # I should have phlegm when I said "Iso the next" lol"
 
-    ("「あんた烽も静かにな」",
+    ("「あんたも静かにな」",
     ""),
     # "You're quiet too."
 

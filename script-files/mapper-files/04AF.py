@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Ah, that's it."
 
-    ("そこで突然、志保が思い出したように声を繧上げた。",
+    ("そこで突然、志保が思い出したように声を上げた。",
     ""),
     # So suddenly, Shiho let out a voice as if he had remembered.
 

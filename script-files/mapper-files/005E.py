@@ -10,11 +10,11 @@ text_array = [
     ""),
     # The classroom has finished and students are becoming sparsely populated.
 
-    ("オレ焜もさっさと帰闍りますか。†",
+    ("オレもさっさと帰闍りますか。†",
     ""),
     # Will I be able to go back quickly to my stolen experience?†
 
-    ("廊下を烽歩きながら、外の景色をながめる。",
+    ("廊下を歩きながら、外の景色をながめる。",
     ""),
     # I walked along the hallway and looked out into the view outside.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # You can see a random, hazy view from the far away Tang Dynasty.
 
-    ("屋繪上にはかな墲わないが、ここからで烽もそれなりに気分がいい。†",
+    ("屋繪上にはかなわないが、ここからでもそれなりに気分がいい。†",
     ""),
     # There's no sign of the house above, but from here onwards, the hot springs also feel quite good.†
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # *The Tamami slope is smashing through the anus.
 
-    ("ちっとは足総倨高烽ｫたえられてるかな？",
+    ("ちっとは足総倨高ｫたえられてるかな？",
     ""),
     # I wonder if my feet are being given high heat at all?
 
-    ("下濶りはスケボーで、ガーッと駆け抜けるの烽も気搴持ちよさそうだ。†",
+    ("下濶りはスケボーで、ガーッと駆け抜けるのも気搴持ちよさそうだ。†",
     ""),
     # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.†
 
-    ("４獅月１５冾日の夜。†",
+    ("４月１５冾日の夜。†",
     ""),
     # The night of the 15th day of the 4th day of the 15th day of the 4th month.†
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # Given that B-height, it's a big fighter.
 
-    ("驕夜間炎演習で烽もやってんのか。",
+    ("驕夜間炎演習でもやってんのか。",
     ""),
     # Are you also tampering with hot springs during the nighttime flame exercise?
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Amami Line, which has a gritty texture, is faintly visible in the moonlight.
 
-    ("驕夜の飛行機雲っての烽もおつな烽もんだ。◯",
+    ("驕夜の飛行機雲ってのもおつなもんだ。◯",
     ""),
     # The hot airplane clouds at night are also a hot spring.◯
 

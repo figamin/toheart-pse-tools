@@ -2,17 +2,17 @@
 # Source file: 0A40.txt
 
 text_array = [
-    ("（Ｂ	そのまま帰誾宅する。）†",
+    ("（Ｂ	そのまま帰誾宅する。）",
     ""),
     # (B: Go back to your home as is.)
 
-    ("「まあいいや。帰汲う」",
+    ("「まあいいや。帰う」",
     ""),
     # "Well, that's fine. I'll come back."
 
-    ("オレは、ネズミはほっといて帰驪ることにした。†",
+    ("オレは、ネズミはほっといて帰驪ることにした。",
     ""),
-    # I decided to leave the mice alone and go home.†
+    # I decided to leave the mice alone and go home.
 
     ("振關り返髟ると、オレの目の前を翌風船がフ純ワフ純ワと浮かんでいた。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "I'm going to tell you."
 
-    ("思寬わずオレは、そのヒｃモをつかんで引き戻す。†",
+    ("思寬わずオレは、そのヒｃモをつかんで引き戻す。",
     ""),
-    # Without thinking, I grabbed the slut and pulled back.†
+    # Without thinking, I grabbed the slut and pulled back.
 
     ("見骭ると、この翌風船を手厲放しちまったらしい男の子がオレをジッと見ていた。",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # I'll let go of it, I'll have no phlegm."
 
-    ("浴風船を手渡すと、子沁供はニッコリと笑って人混みのｒに戻っていった。",
+    ("風船を手渡すと、子沁供はニッコリと笑って人混みのｒに戻っていった。",
     ""),
     # When he handed over the bath balloons, Koujin laughed and returned to the crowd.
 

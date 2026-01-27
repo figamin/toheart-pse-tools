@@ -2,9 +2,9 @@
 # Source file: 0683.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ｂ	ま、がんばれよ）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ｂ	ま、がんばれよ）",
     ""),
-    # (Muryuruchi, Scales Event 2F LV1) (Choice B, Well, do your best)†
+    # (Muryuruchi, Scales Event 2F LV1) (Choice B, Well, do your best)
 
     ("「ふーん。",
     ""),
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "Yes, I'll do my best!"
 
-    ("し痰ゃきっとした口調で嘯答えると、マルチは再び掃恆除に戻った。†",
+    ("し痰ゃきっとした口調で嘯答えると、マルチは再び掃恆除に戻った。",
     ""),
-    # He answered with a lucky tone that was sure to be sputum, and Makruchi returned to sweeping again.†
+    # He answered with a lucky tone that was sure to be sputum, and Makruchi returned to sweeping again.
 
     ("梶相変﨑わらず念箔闢りに、ゴシゴシ床を拭いている。",
     ""),
     # Kaji Ai, without being able to change the screen, I scrub the floor.
 
-    ("香ロボットだし、諱疲齡れること烽もないんだう。",
+    ("香ロボットだし、諱疲齡れることもないんだう。",
     ""),
     # It's a fragrance robot, and there's no need to get tired of it.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Hmm, = Maid Korobo, or a tranny-like guy.
 
-    ("うち烽もモ買ってくれり痰ゃいいのにさ。◯",
+    ("うちもモ買ってくれり痰ゃいいのにさ。◯",
     ""),
     # I wish they'd buy some hot water too.◯
 

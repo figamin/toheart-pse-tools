@@ -2,11 +2,11 @@
 # Source file: 00A1.txt
 
 text_array = [
-    ("（３獅月５冾日	朝）閨（自分の部屋）†",
+    ("（３月５冾日	朝）閨（自分の部屋）",
     ""),
     # (3rd Lion, 5th day, morning) (morning) (morning room)
 
-    ("３獅月５冾日、＄曜坥日。",
+    ("３月５冾日、＄曜坥日。",
     ""),
     # The 3rd Lion Month 5th Day, $Yoshi-Kai Day.
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # What is it, it's already morning?
 
-    ("うーん、まだ寝たりねーぞ。†",
+    ("うーん、まだ寝たりねーぞ。",
     ""),
-    # Hmm, I'm not sleeping yet.†
+    # Hmm, I'm not sleeping yet.
 
     ("「ち痰ゃん、眠たそうだね」",
     ""),
@@ -26,8 +26,8 @@ text_array = [
     ""),
     # "Hmm, ah..."
 
-    ("オレは、ふぁ〜と、蛛大きくあくびした。†",
+    ("オレは、ふぁ〜と、蛛大きくあくびした。",
     ""),
-    # My heart yawned loudly, huh.†
+    # My heart yawned loudly, huh.
 
 ]

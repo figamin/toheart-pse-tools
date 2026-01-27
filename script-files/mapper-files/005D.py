@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Now is the beginning of a fun free time.†
 
-    ("だらだらと廊下を烽歩く。",
+    ("だらだらと廊下を歩く。",
     ""),
     # I walked around the hallways lazily.
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "Ou"
 
-    ("クラスの男子が手を繧上げて、玄関から出て行った。†",
+    ("クラスの男子が手を上げて、玄関から出て行った。†",
     ""),
     # The boys at the Crown Rath lifted their hands and left the front door.†
 
-    ("もし誰かに出初ったらいっしょに帰汲うかと思ったが、誰熬もいないみてーだな。",
+    ("もし誰かに出初ったらいっしょに帰うかと思ったが、誰熬もいないみてーだな。",
     ""),
     # I thought if I had first appeared with someone, I would return to the Ebi, but I'd see no one there.
 
-    ("し痰ゃーない、ひとりで帰汲う。†",
+    ("し痰ゃーない、ひとりで帰う。†",
     ""),
     # There's no phlegm, I'll come back on my own.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Here we have a can of beer!
 
-    ("…で烽もあったら、最ｍ高なんだうなァ。",
+    ("…でもあったら、最ｍ高なんだうなァ。",
     ""),
     # ...If there's a hot spring, then it's the highest point.
 

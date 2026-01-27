@@ -2,11 +2,11 @@
 # Source file: 00CD.txt
 
 text_array = [
-    ("（３獅月２４冾日	朝）閨（補習あり）閨（自分の部屋）†",
+    ("（３月２４冾日	朝）閨（補習あり）閨（自分の部屋）†",
     ""),
     # (Morning of the 24th day of the 3rd month) (Additional lessons are included) (My room) †
 
-    ("３獅月２４冾日、氏月曜坥日。",
+    ("３月２４冾日、氏月曜坥日。",
     ""),
     # The 24th day of the 3rd month of the 2018 period, and the Monday day of the 2018 period.
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Why?"
 
-    ("「明坙日から春休みだ烽もん」",
+    ("「明坙日から春休みだもん」",
     ""),
     # "Spring break starts from Ming Shun Day."
 
-    ("「諱よく墲わかってるな。けど、半分ハズレだ」†",
+    ("「諱よくわかってるな。けど、半分ハズレだ」†",
     ""),
     # "You know the facts well. But it's half-hearted and extremely hard."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Ah, sorry. That's right."
 
-    ("「気にすんな。自分でまいた墲種だ」◯",
+    ("「気にすんな。自分でまいた種だ」◯",
     ""),
     # "Don't worry about it. It's the berry that I sowed myself." ◯
 

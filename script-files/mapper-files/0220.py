@@ -2,7 +2,7 @@
 # Source file: 0220.txt
 
 text_array = [
-    ("（芹°香	エンディング）閨（５獅月２冾日）閨（通峵常のＭＡＰで２Ｆ廊下に配置）閨（要は回秤数を１回揄増竭やす）閨（好感度７まですべて見ていること）†",
+    ("（芹°香	エンディング）閨（５月２冾日）閨（通峵常のＭＡＰで２Ｆ廊下に配置）閨（要は回秤数を１回揄増竭やす）閨（好感度７まですべて見ていること）†",
     ""),
     # (Chinzhou ending)Chin (5th 2nd day of the year)Chin (placed in the second floor corridor in the Tongyu Chang MAP)Chin (It's essentially augmenting the number of scales once)Chin (Looking at everything up to 7 likeability)†
 
@@ -10,7 +10,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("教室から出髀るなりの廊下で、＠栖瑞謳先輩にｉった。",
+    ("教室から出髀るなりの廊下で、＠栖瑞謳先輩にった。",
     ""),
     # In the hallway just as I left the classroom, I came across @Sumi-Senpai-senpai.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Whoa. And what is a drug?"
 
-    ("笑迴顔でそうたずねると、",
+    ("笑顔でそうたずねると、",
     ""),
     # When I asked with a smile on my face,
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「えっ？	それをどう使うかって？	へへ、′まってんだ？	目の前の先輩に飲ませるんだよ。そんで、オレのこと、好きになって烽もらうんだ」",
+    ("「えっ？	それをどう使うかって？	へへ、′まってんだ？	目の前の先輩に飲ませるんだよ。そんで、オレのこと、好きになってもらうんだ」",
     ""),
     # "Huh? How do you use that? Hehe, are you so excited? B? I'll let the senior in front of me drink it. And then I'll like you and get some hot pot."
 
@@ -146,19 +146,19 @@ text_array = [
     ""),
     # Senpai nodded.†
 
-    ("「え？	いまから効果を獅試すから、部室までｗてください…って？」",
+    ("「え？	いまから効果を試すから、部室までｗてください…って？」",
     ""),
     # "Huh? I'm going to try the effects now, so please go to the club room lol..."
 
-    ("効果を獅試すって…。†",
+    ("効果を試すって…。†",
     ""),
     # Try the effect...†
 
-    ("それってつまり、その薬を飲んで、オレを好きになるかどうかを獅試すってことだよな。",
+    ("それってつまり、その薬を飲んで、オレを好きになるかどうかを試すってことだよな。",
     ""),
     # That means taking the medicine and trying to see if you'll fall in love with me.
 
-    ("で烽もよく考えれば、その薬を飲むってこと自体が、すでに好意的な証衷拠だから、どっちに転んだとこで…。†",
+    ("でもよく考えれば、その薬を飲むってこと自体が、すでに好意的な証衷拠だから、どっちに転んだとこで…。†",
     ""),
     # So, if you think about it, taking the medicine itself is already a positive proof, so it's just the way it went...†
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # My face naturally becomes tampered with and lingering.
 
-    ("これは烽もう、部室に行くか行かないかで、噤答えを出せってことだよな。†",
+    ("これはもう、部室に行くか行かないかで、噤答えを出せってことだよな。†",
     ""),
     # This means that you can get the answer by going to the club room or not.†
 

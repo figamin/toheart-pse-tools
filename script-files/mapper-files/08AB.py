@@ -2,11 +2,11 @@
 # Source file: 08AB.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	１階２	ＬＶ２）閨（下駄箱）†",
+    ("（レミィ	回秤数イベント	１階２	ＬＶ２）閨（下駄箱）†",
     ""),
     # (Game Remy Scale Event 1st Floor 2 LV2) (Shoe cabinet)†
 
-    ("「じ痰ゃあ、いっしょに帰汲うぜ」",
+    ("「じ痰ゃあ、いっしょに帰うぜ」",
     ""),
     # "Ah, I'll return to the slut."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # He nodded with great joy.†
 
-    ("玄関から出髀ると、戟レミィは思い切關り深呼吸して、",
+    ("玄関から出髀ると、レミィは思い切關り深呼吸して、",
     ""),
     # As I stepped out of the entrance, Remy took a deep breath,
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "It's just the climax of the flowers blooming. It's not blooming as many as Japan."
 
-    ("…確かに冾日本は、そこらじ繧ゅうに植えてあるからな。†",
+    ("…確かに冾日本は、そこらじゅうに植えてあるからな。†",
     ""),
     # ...It's true that Japan is planted everywhere.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "...By the way, where is the countryside of Ekiremi in America?"
 
-    ("「アタシ？	アタシの田舎はＳ≠ａ獅ｎ	Ｆ窒ｒ≠ａ獅ｎモｃ奄ｉ入モｃ盾ｏｃ」",
+    ("「アタシ？	アタシの田舎はＳ≠ａｎ	Ｆ窒ｒ≠ａｎモｃ奄入モｃ盾ｏｃ」",
     ""),
     # "Me? My countryside is S≠a lion, F nitrogen≠a lion, Amane tangential mo c shield oc"
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # In my mind, it's a bonito spot that only has an image of the tourist spot.†
 
-    ("「、Ｓ≠ａ獅ｎ	Ｆ窒ｒ≠ａ獅ｎモｃ奄ｉ入モｃ盾ｏは『ＳＦ』って略すのよ」",
+    ("「、Ｓ≠ａｎ	Ｆ窒ｒ≠ａｎモｃ奄入モｃ盾ｏは『ＳＦ』って略すのよ」",
     ""),
     # "S≠a lion, F nitrogen≠a lion, Amai tangential mo c shield o is shortened to "SF"."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "And what kind of city is SF?"
 
-    ("「えっとね、いつ烽も盾ｏ№ｇ№ｇ凾ｙなの。朝と夜は涼しいｃ」",
+    ("「えっとね、いつも盾ｏ№ｇ№ｇ凾ｙなの。朝と夜は涼しいｃ」",
     ""),
     # "Um, the hot water is always a Nog Nog shield. It's cool in the mornings and nights."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "It's cool."
 
-    ("「夏で烽も？」",
+    ("「夏でも？」",
     ""),
     # "Summer and hot water?"
 
@@ -170,11 +170,11 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("日本の夏は汲暑いｃ」†",
+    ("日本の夏は暑いｃ」†",
     ""),
     # It's hot in Japan's summer c"
 
-    ("「なんか良さそうだな…。で烽も、冬は寒いんだ？」",
+    ("「なんか良さそうだな…。でも、冬は寒いんだ？」",
     ""),
     # "It looks good... And is it cold in winter too?"
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "So, in SF, is there a white bonito bonito spot?
 
-    ("戟レミィはちょっと考えて、",
+    ("レミィはちょっと考えて、",
     ""),
     # I thought about it,
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # That looks fun in that case,
 
-    ("「冝日本人が冾日本の店に行って烽も、楽しくないと思うぜ」",
+    ("「冝日本人が冾日本の店に行っても、楽しくないと思うぜ」",
     ""),
     # "I don't think it's fun for Japanese people to go to Japanese shops."
 
@@ -242,11 +242,11 @@ text_array = [
     ""),
     # "Hello, you're a foreigner. Forget Asia."
 
-    ("彼濫女は半分外人だってば。†",
+    ("彼女は半分外人だってば。†",
     ""),
     # Her overly girl is half foreigner.†
 
-    ("「ゴ＜メンゴ＜メン。ＳＦ、とって烽もいいとこなんだけど、どこ烽も≠普通に見えるの」",
+    ("「ゴ＜メンゴ＜メン。ＳＦ、とってもいいとこなんだけど、どこも≠普通に見えるの」",
     ""),
     # "Go<Mengo<Men. SF, the best part is b, but it looks just normal to see that no matter what you say."
 
@@ -262,11 +262,11 @@ text_array = [
     ""),
     # "Is it Japan? I know that, my heart is here, my name is."
 
-    ("そう言うと、戟レミィは『どうして？』って顔で、",
+    ("そう言うと、レミィは『どうして？』って顔で、",
     ""),
     # When I said that, Karemi said, "Why?"I looked up
 
-    ("「だって、ニッポンの自然とって烽も綺淏麗だよ」",
+    ("「だって、ニッポンの自然とっても綺淏麗だよ」",
     ""),
     # "Because, in Japan, the nature of Japan is also beautiful."
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # "Hey, if you were with me, which would you like to go to the sea or the mountains?"
 
-    ("親指で自分を指差しながら、戟レミィは聞いた。",
+    ("親指で自分を指差しながら、レミィは聞いた。",
     ""),
     # Karen asked, pointing at her with her thumb.
 
@@ -294,7 +294,7 @@ text_array = [
     ""),
     # ...That's right.†
 
-    ("「戟レミィと行くとしたら｢｢」",
+    ("「レミィと行くとしたら｢｢」",
     ""),
     # "If I were to go with Karemi, I would say "
 

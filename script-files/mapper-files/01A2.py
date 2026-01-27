@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "…already"†
 
-    ("「それに、いかに烽も小型の肉食獣って感じでかっこいいしさ」",
+    ("「それに、いかにも小型の肉食獣って感じでかっこいいしさ」",
     ""),
     # "And also, the hot spring is so cool that it looks like a small carnivorous animal."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "...Is it cool? I think it's more cute though."
 
-    ("「まあ、可愛いっての烽もある。どっちの意味で烽も好きだ。で烽も甘えてこない猫は凾嫌いだ」",
+    ("「まあ、可愛いってのもある。どっちの意味でも好きだ。でも甘えてこない猫は凾嫌いだ」",
     ""),
     # "Well, there's also the fact that it's cute. In either sense, I like Hot. And I hate cats who don't even take care of them."
 

@@ -2,11 +2,11 @@
 # Source file: 00B4.txt
 
 text_array = [
-    ("（４獅月１４冾日	朝）閨（自分の部屋）†",
+    ("（４月１４冾日	朝）閨（自分の部屋）",
     ""),
     # (April 14th day of the month of the month) (morning) (morning room)
 
-    ("４獅月１４冾日、氏月曜坥日。",
+    ("４月１４冾日、氏月曜坥日。",
     ""),
     # Fourth day of the 14th day of the 1990s, Monday day of the 1990s.
 
@@ -14,19 +14,19 @@ text_array = [
     ""),
     # Kaji Ai Henzaki is not here, the weather is nice.
 
-    ("オレの気分熾もいい。†",
+    ("オレの気分熾もいい。",
     ""),
-    # My mood is also good.†
+    # My mood is also good.
 
     ("「あっ…」",
     ""),
     # "Ah..."
 
-    ("校蜊門の辺阨りでいきなり、あかりが声を繧上げ、縺舌を出した。",
+    ("校門の辺阨りでいきなり、あかりが声を上げ、縺舌を出した。",
     ""),
     # Abruptly, Akari let out a cry of voice and let out a tingly tongue.
 
-    ("「なんだよ、突然」†",
+    ("「なんだよ、突然」",
     ""),
     # "What is it, all of a sudden?"
 
@@ -38,12 +38,12 @@ text_array = [
     ""),
     # With that in mind, I pinch the polished, pink-colored petals and show them to me.
 
-    ("「そんな烽もん、食っちまえ」",
+    ("「そんなもん、食っちまえ」",
     ""),
     # "Eat something like that."
 
-    ("「そんなぁ…」†",
+    ("「そんなぁ…」",
     ""),
-    # "No way..." †
+    # "No way..." 
 
 ]

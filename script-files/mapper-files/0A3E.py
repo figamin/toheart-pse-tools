@@ -2,7 +2,7 @@
 # Source file: 0A3E.txt
 
 text_array = [
-    ("（掾理女緒	条緒件付き回秤数イベント	バイト）閨（学校を出髀る	ＬＶ１）閨（校蜊門）†",
+    ("（掾理女緒	条緒件付き回秤数イベント	バイト）閨（学校を出髀る	ＬＶ１）閨（校門）†",
     ""),
     # (Eiri Meo, part-time job with the balance event with the rules) (LV1) (School) (School) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # It was like the other day that the huge rat, the tattered murmurs, and the dam otters had given them a far cry from the flyer.
 
-    ("この間は揩理女緒ち痰ゃんがやってたけど、今厓日燗もやってんのかな？†",
+    ("この間は理女緒ち痰ゃんがやってたけど、今厓日燗もやってんのかな？†",
     ""),
     # The other day, Ochi Symphonyan was tampering with it, but is he still tampering with it now?†
 

@@ -2,19 +2,19 @@
 # Source file: 00D3.txt
 
 text_array = [
-    ("（４獅月２７冾日	昼）閨（葵のイベントがない場㍼合）閨（本屋前）†",
+    ("（４月２７冾日	昼）閨（葵のイベントがない場㍼合）閨（本屋前）†",
     ""),
     # (April Shizuki 27th Noon) (Anonymous place where there is no Aoi event) (In front of the bookstore) †
 
-    ("出てきたまではいいけど、なに烽もすることがない。",
+    ("出てきたまではいいけど、なにもすることがない。",
     ""),
     # It's fine until it comes out, but I don't have to heat it up.
 
-    ("どこかに知った顔で烽もいねーかな。",
+    ("どこかに知った顔でもいねーかな。",
     ""),
     # He has a look on his face and I think he's also in good condition.
 
-    ("ぶらぶらと烽歩き続けた。†",
+    ("ぶらぶらと歩き続けた。†",
     ""),
     # I continued strolling around.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # There's no one there.
 
-    ("まあ、そうそう都∮合謐よく知闥り№合いに出初う墲わき痰ゃねーか。",
+    ("まあ、そうそう都∮合謐よく知闥り№合いに出初うわき痰ゃねーか。",
     ""),
     # Well, it's probably true that the capital and the people who are familiar with each other are first introduced to the number ones.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # There's no slut.
 
-    ("適俣当に飯で烽も食って帰驪るか。†",
+    ("適俣当に飯でも食って帰驪るか。†",
     ""),
     # Maybe I'll eat some hot rice and go home to Tomatato.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Tight crying was a Chinese character, Qi Yi Xiang, and I forgot.
 
-    ("で烽も、ひとりで映謇画っての烽も、不瀦健全な気がする。†",
+    ("でも、ひとりで映謇画ってのも、不瀦健全な気がする。†",
     ""),
     # And I feel that both the Hou and the Hou, who painted the Hou by himself, are unhealthy.†
 

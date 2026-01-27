@@ -2,9 +2,9 @@
 # Source file: 0453.txt
 
 text_array = [
-    ("（志保	好感度イベントＸ）閨（選択綜	３問目	×	氈勝ち）閨（ＳＥ：ブッブー）†",
+    ("（志保	好感度イベントＸ）閨（選択綜	３問目	×	氈勝ち）閨（ＳＥ：ブッブー）",
     ""),
-    # (Shiho Likeability Event X) (Choice 3rd Temptation Question × Win) (SE: Bubboo)†
+    # (Shiho Likeability Event X) (Choice 3rd Temptation Question × Win) (SE: Bubboo)
 
     ("ブッブー！",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "You idiot."
 
-    ("「氈次を見てよぉ」†",
+    ("「氈次を見てよぉ」",
     ""),
     # "Look at me, b"
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("秩白熱したデッドヒートの魔末、得点はオレの鰍リードで終尞わった。",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "Ahhh, it's a bit of a shame. This time, Han also won a huge victory."
 
-    ("と、ふんぞり返阨り、オレは彼濫女の肩をバンバン叩いた。†",
+    ("と、ふんぞり返阨り、オレは彼女の肩をバンバン叩いた。",
     ""),
-    # He leaned back, and I slapped the woman on the shoulder.†
+    # He leaned back, and I slapped the woman on the shoulder.
 
     ("前回同様、わざと意地悪く言ったせいで、志保は怒闢り嘯爆発寸前の形褐相だ。",
     ""),
@@ -66,11 +66,11 @@ text_array = [
     ""),
     # As a real fan, I enjoy making Shiho angry like this and have no way of trying to do it.
 
-    ("ほれ、憎まれ口の一つで烽も叩いてみ。†",
+    ("ほれ、憎まれ口の一つでも叩いてみ。",
     ""),
-    # Come on, try criticizing Ho with one of the hated lucky mouths.†
+    # Come on, try criticizing Ho with one of the hated lucky mouths.
 
-    ("とこが彼濫女は、",
+    ("とこが彼女は、",
     ""),
     # And then there is a woman who is a woman
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Hehehehe..."
 
-    ("意外に烽も、不敵な笑みを浮かべた。",
+    ("意外にも、不敵な笑みを浮かべた。",
     ""),
     # Surprisingly, Hoo also smiled defiantly.
 
@@ -86,27 +86,27 @@ text_array = [
     ""),
     # "What, what's wrong? Did you go crazy after getting through your anger?"
 
-    ("…まさか、そこまで彼濫女を追い詰めていたのか！？†",
+    ("…まさか、そこまで彼女を追い詰めていたのか！？",
     ""),
-    # ...I guess he'd pushed his girlfriend to such a high number of times!?†
+    # ...I guess he'd pushed his girlfriend to such a high number of times!?
 
     ("内心そんな心配をしていると、",
     ""),
     # If you're worried about that inside,
 
-    ("「今厓日のクイズゲームは、あんたの勝ちにしとく墲わよ」",
+    ("「今厓日のクイズゲームは、あんたの勝ちにしとくわよ」",
     ""),
     # "I'll win the quiz game on the day of the day."
 
-    ("と、不自然な笑迴顔で言った。†",
+    ("と、不自然な笑顔で言った。",
     ""),
-    # He said with an unnatural smile.†
+    # He said with an unnatural smile.
 
     ("オレはようやく気がついた。",
     ""),
     # I noticed that it was a bit of a rage.
 
-    ("彼濫女は、轣顔を引きつらせてまで、ムリсヤリ余裕を浮装っていたんだ。",
+    ("彼女は、轣顔を引きつらせてまで、ムリсヤリ余裕を浮装っていたんだ。",
     ""),
     # The woman was even holding her face twitching, pretending to be full of room for Mugata Riсyakarari.
 
@@ -122,41 +122,41 @@ text_array = [
     ""),
     # "Puh... that's fine.
 
-    ("次はどのゲームで勝縁負だ？」†",
+    ("次はどのゲームで勝縁負だ？」",
     ""),
-    # Which game will you win next?”†
+    # Which game will you win next?”
 
-    ("もう、すっかり冾日が暮れた…。†",
+    ("もう、すっかり冾日が暮れた…。",
     ""),
-    # The sun has already set in full...†
+    # The sun has already set in full...
 
-    ("「イッケ〜ッ！	なんかに絶対苑負けない墲わよぉ！！」",
+    ("「イッケ〜ッ！	なんかに絶対苑負けないわよぉ！！」",
     ""),
     # "Ikke! I'm sure you'll never lose to the point of something!"
 
-    ("「なあ、志保ぉ、もう帰汲うぜ」†",
+    ("「なあ、志保ぉ、もう帰うぜ」",
     ""),
-    # "Hey, Shiho, I'll come back now." †
+    # "Hey, Shiho, I'll come back now." 
 
     ("その冾日はオレの快進ｐ撃が続き、クイズから全汨勝で突っ魔走っていた。",
     ""),
     # On that day, my succession continued to hit a rapid pace, and I was running with a win from the quiz and running.
 
-    ("しかし、それが彼濫女の闘淘本能（？）に火を付けたらしく、一向に勝縁負をやめようとしない。",
+    ("しかし、それが彼女の闘淘本能（？）に火を付けたらしく、一向に勝縁負をやめようとしない。",
     ""),
     # However, it seems that this sparked the instincts (?) of a woman's fight, and he refuses to stop tampering with the victory.
 
-    ("わざと奄負けて烽も、見破逕られてしまい、逆効果だ。†",
+    ("わざと奄負けても、見破逕られてしまい、逆効果だ。",
     ""),
-    # The Amami deliberately loses, and the Hot will be spotted, and it has the opposite effect.†
+    # The Amami deliberately loses, and the Hot will be spotted, and it has the opposite effect.
 
     ("「打倒！	！！」",
     ""),
     # "Defeat!!"
 
-    ("「梶頼むよ志保ち痰ゃ〜ん；」†",
+    ("「梶頼むよ志保ち痰ゃ〜ん；」",
     ""),
-    # "Kaji, please, Shiho, phlegm!" †
+    # "Kaji, please, Shiho, phlegm!" 
 
     ("結局、志保がオレに勝ったゲームはモ麻摶雀。",
     ""),
@@ -166,15 +166,15 @@ text_array = [
     ""),
     # It's a game that almost makes you think of it with luck.
 
-    ("どうで烽もいいようなｌ健をつけるまでに、何芍台の機寀種をр巡っただうか。",
+    ("どうでもいいようなｌ健をつけるまでに、何芍台の機寀種をр巡っただうか。",
     ""),
     # How many peonies were you going to go around the plant species before you could get some good health, which is good for you?
 
-    ("軽く２千円は飛んだう…。†",
+    ("軽く２千円は飛んだう…。",
     ""),
-    # I easily drove 2,000 yen...†
+    # I easily drove 2,000 yen...
 
-    ("「ま、今厓日燗もあんたの勝ちにしといてあげる墲わよぉ」",
+    ("「ま、今厓日燗もあんたの勝ちにしといてあげるわよぉ」",
     ""),
     # "Well, I'll give you the win right now, too."
 
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # Shiho, dressed as if to run away from home, went home in a flash of excitement.
 
-    ("ちくしょう、これじ痰ゃどっちが勝ちなのか墲わかんねえな。†",
+    ("ちくしょう、これじ痰ゃどっちが勝ちなのかわかんねえな。",
     ""),
-    # I don't know which one wins if this is the phlegm.†
+    # I don't know which one wins if this is the phlegm.
 
     ("・",
     ""),

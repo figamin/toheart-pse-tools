@@ -2,9 +2,9 @@
 # Source file: 00E1.txt
 
 text_array = [
-    ("（３獅月２３冾日	昼）閨（ゲーセンに行く）閨（ゲーセン前）†",
+    ("（３月２３冾日	昼）閨（ゲーセンに行く）閨（ゲーセン前）",
     ""),
-    # (3rd 23rd Day of the Year, Noon) (Go to the arcade) (In front of the arcade) †
+    # (3rd 23rd Day of the Year, Noon) (Go to the arcade) (In front of the arcade) 
 
     ("ゲーセンへとやってきた。",
     ""),
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # There's no slut.
 
-    ("ここで暇をつぶすか。†",
+    ("ここで暇をつぶすか。",
     ""),
-    # Shall we kill some time here?†
+    # Shall we kill some time here?
 
-    ("£へ入うとしたとき、",
+    ("へ入うとしたとき、",
     ""),
     # When I was about to enter Tang,
 
@@ -26,19 +26,19 @@ text_array = [
     ""),
     # "Hb Shot l Shot l Shield O Tbb Nitrob?"
 
-    ("突然、英皷語で呼びかけられた。†",
+    ("突然、英皷語で呼びかけられた。",
     ""),
-    # Suddenly, he was called out in English.†
+    # Suddenly, he was called out in English.
 
-    ("「Ｈ奄ｉ！	」",
+    ("「Ｈ奄！	」",
     ""),
     # "Hi Amai!"
 
-    ("戟レミィだ。†",
+    ("レミィだ。",
     ""),
-    # It's Karemy.†
+    # It's Karemy.
 
-    ("「こんなとこでｉうなんて、珍しいな」",
+    ("「こんなとこでうなんて、珍しいな」",
     ""),
     # "It's rare to say this in b."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Is it also a retreat window?”
 
-    ("「ああ、死にそーなくらいな」†",
+    ("「ああ、死にそーなくらいな」",
     ""),
     # "Ah, I'm almost dead"
 
@@ -70,15 +70,15 @@ text_array = [
     ""),
     # "That's fine. They're both retreating windowmen."
 
-    ("「Ｉ’香ｍ	〟ｇ撃ｌ≠ａрｄ！」†",
+    ("「Ｉ’香ｍ	〟ｇ撃ｌ≠ａрｄ！」",
     ""),
-    # "I'Kam" G-Ekil≠aрd!”†
+    # "I'Kam" G-Ekil≠aрd!”
 
     ("「なにする？」",
     ""),
     # "What are you going to do?"
 
-    ("「、このあたり、く墲わしい？」",
+    ("「、このあたり、くわしい？」",
     ""),
     # "Are you grossing around here?"
 
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # "You're so phlegm, you're so blonde, don't you think?"
 
-    ("「オッケー」†",
+    ("「オッケー」",
     ""),
-    # "Okay" †
+    # "Okay" 
 
-    ("その冾日は、戟レミィとｉ話を楽しみながら、いんな場鰹所へ行った。",
+    ("その冾日は、レミィと話を楽しみながら、いんな場鰹所へ行った。",
     ""),
     # On that day, I went to the bonito spot, enjoying the i-talk with Karenmi.
 
-    ("ほとんど烽歩くだけで烽金煖も使寬わなかったし、安繹上がりで浮助かった。◯",
+    ("ほとんど歩くだけで金も使寬わなかったし、安繹上がりで浮助かった。◯",
     ""),
     # I barely used the hot water and didn't use the hot water, so I was able to float by the altar.◯
 

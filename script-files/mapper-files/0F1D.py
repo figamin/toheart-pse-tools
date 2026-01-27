@@ -2,9 +2,9 @@
 # Source file: 0F1D.txt
 
 text_array = [
-    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	志保を誘う）閨（蛛主人公煙負け（＝普通））†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	志保を誘う）閨（蛛主人公煙負け（＝普通））",
     ""),
-    # (Arcade Battle Cry 3) (Closing ceremony edition) (Selection ceremony invitation) (Selection So Shiho) (Dragon protagonist (= normal)) †
+    # (Arcade Battle Cry 3) (Closing ceremony edition) (Selection ceremony invitation) (Selection So Shiho) (Dragon protagonist (= normal)) 
 
     ("「ま、堰負けた…」",
     ""),
@@ -14,13 +14,13 @@ text_array = [
     ""),
     # "Shiho, sphinja, WIN!"
 
-    ("「で烽も、おしかったよ、ち痰ゃん」",
+    ("「でも、おしかったよ、ち痰ゃん」",
     ""),
     # "And the hot spring was great too, sputum."
 
-    ("「くそ…」†",
+    ("「くそ…」",
     ""),
-    # "Fuck…"†
+    # "Fuck…"
 
     ("「ね、悔しい？	悔しい？」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I'm so frustrated, don't you get mad at me?"
 
-    ("「それ、なんかあたしがバカにされてるような気がする墲わ」",
+    ("「それ、なんかあたしがバカにされてるような気がするわ」",
     ""),
     # "That makes me feel like I'm being made fun of."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Huh? Are you stupid and phlegm?"
 
-    ("「おい」†",
+    ("「おい」",
     ""),
-    # "Hey"†
+    # "Hey"
 
-    ("その繧後、みんなで楽しく過ごした。",
+    ("その後、みんなで楽しく過ごした。",
     ""),
     # After that, we all had a great time together.
 

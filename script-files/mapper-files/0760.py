@@ -2,9 +2,9 @@
 # Source file: 0760.txt
 
 text_array = [
-    ("（琴音	好感度イベント２	ＰＳ）†",
+    ("（琴音	好感度イベント２	ＰＳ）",
     ""),
-    # (Kotone Likeability Event 2 PS)†
+    # (Kotone Likeability Event 2 PS)
 
     ("休み桙時間、トイレの帰闍りに琴音ち痰ゃんに出初った。",
     ""),
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Hello…"
 
-    ("琴音ち痰ゃんはぺこりと頭を下げた。†",
+    ("琴音ち痰ゃんはぺこりと頭を下げた。",
     ""),
-    # Kotone Chisho-chan bowed her head.†
+    # Kotone Chisho-chan bowed her head.
 
-    ("「琴音ち痰ゃん烽もトイレか」",
+    ("「琴音ち痰ゃんもトイレか」",
     ""),
     # "Kotone-chisou-chan-cho-hoo is also a toy-dovey too?"
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "...No, I went to the staff room."
 
-    ("と嘯答えた。†",
+    ("と嘯答えた。",
     ""),
-    # He replied.†
+    # He replied.
 
     ("「はははっ、そうか。なんかオレ、下品なこと聞いちまったなぁ；」",
     ""),
@@ -66,19 +66,19 @@ text_array = [
     ""),
     # Maybe I'm going to take it off so hard!?
 
-    ("＝早く次の話陂題をっ。†",
+    ("＝早く次の話陂題をっ。",
     ""),
-    # = Let's talk about the next topic soon.†
+    # = Let's talk about the next topic soon.
 
     ("「そ、そういやさぁ、なんの用で職員室に行ってたんだ？」",
     ""),
     # "Yeah, that's why, what was you going to the staff room?"
 
-    ("「…＃術の先生にｉってきました」",
+    ("「…＃術の先生にってきました」",
     ""),
     # "...#I've come to the jutsu teacher."
 
-    ("やっと≠普通のｉ話になってきた。",
+    ("やっと≠普通の話になってきた。",
     ""),
     # Finally, it's become a normal i-talk.
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "Um... #The #muscle-pulling club doesn't have @..."
 
-    ("「なるほど。琴音ち痰ゃんはｔ術の才能があんだな？	それで先生にスカウトされてんだ」†",
+    ("「なるほど。琴音ち痰ゃんはｔ術の才能があんだな？	それで先生にスカウトされてんだ」",
     ""),
     # "I see. Kotone Chisho-chan has a talent for T-jutsu, right? That's why he was scouted by the teacher."
 
-    ("「才能なんて、諱よく墲わかりません…」",
+    ("「才能なんて、諱よくわかりません…」",
     ""),
     # "I don't really understand talent..."
 
@@ -106,11 +106,11 @@ text_array = [
     ""),
     # When I said that, Kotone Chisho-yan hachi-e looked surprised.
 
-    ("「え…で烽も…」",
+    ("「え…でも…」",
     ""),
     # "What... And the hot one too..."
 
-    ("「恥ずかしがることないって。スカウトされるくらいの腕前なんだからさ」†",
+    ("「恥ずかしがることないって。スカウトされるくらいの腕前なんだからさ」",
     ""),
     # "I don't feel embarrassed. I'm skilled enough to be scouted."
 
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # "sorry…"
 
-    ("琴音ち痰ゃんはぺこりと頭を下げた。†",
+    ("琴音ち痰ゃんはぺこりと頭を下げた。",
     ""),
-    # Kotone Chisho-chan bowed her head.†
+    # Kotone Chisho-chan bowed her head.
 
     ("…なんか体裁謐よく断迺られたって感じ。",
     ""),
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # At this time, I felt like I was somehow avoiding Kotone's Sphin-chan.
 
-    ("「いいっていいって。また今度、都∮合のいいときにで烽も見せてくれよ」",
+    ("「いいっていいって。また今度、都∮合のいいときにでも見せてくれよ」",
     ""),
     # "It's okay. I'll show you the hot springs next time, when it's good for you."
 
@@ -154,31 +154,31 @@ text_array = [
     ""),
     # "Ah, yes."
 
-    ("琴音ち痰ゃんがうなずいたとこで、♂話が終尞わってしまった。†",
+    ("琴音ち痰ゃんがうなずいたとこで、雅話が終尞わってしまった。",
     ""),
-    # The male talk ended when Kotone Chisho-chan nodded.†
+    # The male talk ended when Kotone Chisho-chan nodded.
 
     ("「じ痰ゃオレ、こっちだから」",
     ""),
     # "I'm really excited, it's over here."
 
-    ("しつこく話を伸ばすの烽もなんだから、オレはあっさり切關り繧上げた。",
+    ("しつこく話を伸ばすのもなんだから、オレはあっさり切關り上げた。",
     ""),
     # I'm not too busy trying to get my talk on a regular basis, so I quickly retarded my ramblings.
 
-    ("「はい。ごきげんよう」†",
+    ("「はい。ごきげんよう」",
     ""),
-    # "Yes. Good luck" †
+    # "Yes. Good luck" 
 
     ("あいさつを交甯わし、オレたちは別れた。",
     ""),
     # We exchanged greetings and the guys parted ways.
 
-    ("今厓日は琴音ち痰ゃんと汲結構話ができたな。",
+    ("今厓日は琴音ち痰ゃんと結構話ができたな。",
     ""),
     # I was able to talk a lot about Kotone on the day.
 
-    ("話をしてみると彼濫女、おｏ様系って感じで悪くない。",
+    ("話をしてみると彼女、おｏ様系って感じで悪くない。",
     ""),
     # When I talked to her, she looks like a boyfriend and O-sama type, so it's not bad.
 
@@ -186,11 +186,11 @@ text_array = [
     ""),
     # It's a bit of a messy mouth, but...
 
-    ("あと、気のせいか避けられてるような気がしたな。†",
+    ("あと、気のせいか避けられてるような気がしたな。",
     ""),
-    # Also, I felt like I was avoiding it, perhaps just by my imagination.†
+    # Also, I felt like I was avoiding it, perhaps just by my imagination.
 
-    ("人見知闥りしそうに見えるし、実際そのとおりなのか烽もしれない。",
+    ("人見知闥りしそうに見えるし、実際そのとおりなのかもしれない。",
     ""),
     # It looks like he's getting a sense of knowledge, and it's probably true that he's true.
 

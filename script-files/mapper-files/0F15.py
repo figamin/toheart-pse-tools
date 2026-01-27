@@ -2,9 +2,9 @@
 # Source file: 0F15.txt
 
 text_array = [
-    ("（ゲーセンバトル３）閨（終業式）閨（選択綜	あかり）†",
+    ("（ゲーセンバトル３）閨（終業式）閨（選択綜	あかり）",
     ""),
-    # (Arcade Battle Cry 3) (Closing ceremony) (Selection Akari)†
+    # (Arcade Battle Cry 3) (Closing ceremony) (Selection Akari)
 
     ("「やるか、あかり？」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「パズルならお前で烽もなんとかできるだ。",
+    ("「パズルならお前でもなんとかできるだ。",
     ""),
     # "If you're a Puzzle cry, you can do something about it.
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Oh b?”
 
-    ("「うん…」†",
+    ("「うん…」",
     ""),
-    # "Yeah…"†
+    # "Yeah…"
 
     ("つーわけで、オレとあかりは椅子に座った。",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Put in a 100 yen coin and press the start button lightly.
 
-    ("「戟レッツ、プレイ！」◯",
+    ("「レッツ、プレイ！」◯",
     ""),
     # "Let's do it, do it!" ◯
 
@@ -66,10 +66,6 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
-    ""),
-    # ・†
-
     ("・",
     ""),
     # ・
@@ -86,8 +82,12 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
 ]

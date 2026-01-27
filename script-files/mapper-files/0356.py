@@ -2,9 +2,9 @@
 # Source file: 0356.txt
 
 text_array = [
-    ("（智子	好感度イベント９回目）閨（発生条緒件	好感度イベント８回目を見た繧後、回秤数イベントの学校を出髀ると差し替え）閨（下濶り坂）†",
+    ("（智子	好感度イベント９回目）閨（発生条緒件	好感度イベント８回目を見た後、回秤数イベントの学校を出髀ると差し替え）閨（下濶り坂）",
     ""),
-    # (Tomoko's 9th Affection Event) (Accuracy condition: After seeing the 8th Affection Event, when you leave the school for the balanced event, you can replace it) (Shimohamaitsuzaka) †
+    # (Tomoko's 9th Affection Event) (Accuracy condition: After seeing the 8th Affection Event, when you leave the school for the balanced event, you can replace it) (Shimohamaitsuzaka) 
 
     ("帰闍り道。",
     ""),
@@ -14,13 +14,13 @@ text_array = [
     ""),
     # "Oh, that's..."
 
-    ("学校から続く下濶り坂の途湯、オレは委員長の繧後撃姿を見かけた。",
+    ("学校から続く下濶り坂の途湯、オレは委員長の後撃姿を見かけた。",
     ""),
     # On the way down the Shimoharitanzaka slope that continues from school, I saw the chairman attack after the chairman.
 
-    ("′こうはオレには気づいていない。†",
+    ("′こうはオレには気づいていない。",
     ""),
-    # 'Kokou doesn't notice me.†
+    # 'Kokou doesn't notice me.
 
     ("さて、どうするか。",
     ""),

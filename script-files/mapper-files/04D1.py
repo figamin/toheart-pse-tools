@@ -2,9 +2,9 @@
 # Source file: 04D1.txt
 
 text_array = [
-    ("（志保	回秤数イベント	寄闃り道３）閨（選択綜	別れる）†",
+    ("（志保	回秤数イベント	寄闃り道３）閨（選択綜	別れる）",
     ""),
-    # (Shiho's Scales Event: Incoming Road 3) (Chooses: Parting)†
+    # (Shiho's Scales Event: Incoming Road 3) (Chooses: Parting)
 
     ("「わりぃな。急いでんだ」",
     ""),

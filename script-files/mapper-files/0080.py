@@ -14,7 +14,7 @@ text_array = [
     ""),
     # On the first day, he was sincere and Hole Ken.
 
-    ("１桙時間目の保瀦健体迹育は、い墲わば前哨尞戦ってとこか。",
+    ("１桙時間目の保瀦健体迹育は、いわば前哨尞戦ってとこか。",
     ""),
     # In the first round of time, the healthy and healthy training will be a good outpost.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Ah, it's over, it's over."
 
-    ("１冾日目の冾日程は取闔りあえず終了。",
+    ("１冾日目の冾日程は取りあえず終了。",
     ""),
     # The schedule for the first day was completed without a question.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # When the body and mood were refreshed, Akari began to watch the situation.†
 
-    ("「なんだ。さっそく汲結果を聞きにきたのか」",
+    ("「なんだ。さっそく結果を聞きにきたのか」",
     ""),
     # "What? Did you come and hear the results right away?"
 

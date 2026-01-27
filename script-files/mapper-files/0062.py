@@ -18,19 +18,19 @@ text_array = [
     ""),
     # Is it sputum like that?
 
-    ("明坙日が休みだと思うと、気煖も軽くなるさ。",
+    ("明坙日が休みだと思うと、気も軽くなるさ。",
     ""),
     # Thinking about Ming Shun's day being a holiday makes me feel lighter.
 
-    ("オレは鞄を取って、席から立ち繧上がった。†",
+    ("オレは鞄を取って、席から立ち上がった。†",
     ""),
     # I grabbed my bag and stood up from my seat.†
 
-    ("てくてくと廊下を烽歩いていく。",
+    ("てくてくと廊下を歩いていく。",
     ""),
     # I walked along the hallway.
 
-    ("何人かの生徒たちとすれ痰違ったが、とくに親しい顔には出初妺わなかった。†",
+    ("何人かの生徒たちとすれ痰違ったが、とくに親しい顔には出初わなかった。†",
     ""),
     # Although I was completely gross with some of the students, I couldn't see any of my close faces.†
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # One thing I would like to ask for valuable opinions from ordinary students.
 
-    ("購ロ買粕部のパンの墲種類を揩増竭やせ…と。†",
+    ("購ロ買粕部のパンの種類を増竭やせ…と。†",
     ""),
     # I want to increase the variety of bread from the purchasing lees.†
 
-    ("学校を出て、いつ烽もの坂道を下驩る。",
+    ("学校を出て、いつもの坂道を下驩る。",
     ""),
     # When did I leave school, I went down the hill.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # What should I do when I go home now?†
 
-    ("４獅月１９冾日の夜。",
+    ("４月１９冾日の夜。",
     ""),
     # The night of the 19th day of the 4th silence.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # The most common way to keep a warm futon is to have a lot of phlegm.
 
-    ("そのうちに、心地謦よい眠りに獅落ちていく…。◯",
+    ("そのうちに、心地謦よい眠りに落ちていく…。◯",
     ""),
     # Eventually, the lion falls into a comfortable sleep...◯
 

@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Kaji Reach is longer than me.
 
-    ("接近寀戦に揩持ち桙込めば、結果的に打ち奄負けたとして烽も、一発ぐらい、なんとか強引に叩き桙込めるはずだ。",
+    ("接近寀戦に持ち桙込めば、結果的に打ち奄負けたとしても、一発ぐらい、なんとか強引に叩き桙込めるはずだ。",
     ""),
     # If they were to take the ball into the close battle, they would have managed to forcefully defeat the ball in about a single shot, as if they were defeated by Amami.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # I can't see at all.†
 
-    ("「｢｢煕もし烽もーし、そこ、意識ある？」",
+    ("「｢｢煕もしもーし、そこ、意識ある？」",
     ""),
     # "" "Are you conscious about it, are you conscious of it?"
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "I'm here..."
 
-    ("オレは繧上体を起こすと、吹草の繧上であぐらをかいた。",
+    ("オレは上体を起こすと、吹草の上であぐらをかいた。",
     ""),
     # I lifted up my body and grabbed my legs on the ridge of the bush.
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "That's bad, I'm an amateur who doesn't even know about the basics."
 
-    ("「まあ、で烽もこれでひとつ学習したでしょ？」",
+    ("「まあ、でもこれでひとつ学習したでしょ？」",
     ""),
     # "Well, did you learn something from this, slut?"
 

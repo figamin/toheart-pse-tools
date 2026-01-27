@@ -2,9 +2,9 @@
 # Source file: 02AD.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（選択綜ＡＢＣの続き）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（選択綜ＡＢＣの続き）",
     ""),
-    # (Seri° Kaku, Scales Event 2F LV5)Seri (continued from Chosen ABC)†
+    # (Seri° Kaku, Scales Event 2F LV5)Seri (continued from Chosen ABC)
 
     ("そういえば先輩は、オレになにか用があるから訪ねてｗたんだよな。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "What do you mean to use for me in this place, Senpai, who is this one that I'm using?"
 
-    ("すると先輩は少し恥ずかしそうに言った。†",
+    ("すると先輩は少し恥ずかしそうに言った。",
     ""),
-    # The senior said with a little embarrassment.†
+    # The senior said with a little embarrassment.
 
     ("「………」",
     "…"),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Oh, that's all...?"
 
-    ("こく…。†",
+    ("こく…。",
     ""),
-    # So...†
+    # So...
 
     ("「たった、たったそれだけのために、ずっとオレを待っててくれたのかよ…」",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # So...
 
-    ("「せ、諱先輩…っ！」†",
+    ("「せ、諱先輩…っ！」",
     ""),
     # "She, Senpai...!"
 
@@ -54,13 +54,13 @@ text_array = [
     ""),
     # The next moment, I hugged my senior.
 
-    ("力を加減するの烽も忘齧れて、思いっきり強く抱きしめた。",
+    ("力を加減するのも忘齧れて、思いっきり強く抱きしめた。",
     ""),
     # I was able to forget about the strength of my strength and hugged her as hard as I could.
 
-    ("いきなりのことにびっくりする、諱先輩。†",
+    ("いきなりのことにびっくりする、諱先輩。",
     ""),
-    # Senpai is surprised by what suddenly happens.†
+    # Senpai is surprised by what suddenly happens.
 
     ("「…諱先輩…ごめん…ごめんな…」",
     ""),
@@ -74,15 +74,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("体の力を抜き、うっすらとまぶたを閉じて、オレにすべてをあずけてきた。†",
+    ("体の力を抜き、うっすらとまぶたを閉じて、オレにすべてをあずけてきた。",
     ""),
-    # I relaxed my body, closed my eyelids slightly, and put everything in my head.†
+    # I relaxed my body, closed my eyelids slightly, and put everything in my head.
 
     ("くうっ…。",
     ""),
     # Wow...
 
-    ("不覚に烽もモけてきたぜ。",
+    ("不覚にもモけてきたぜ。",
     ""),
     # I was so moved that I couldn't help but cry.
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # Chikushi Ebi, the ones that really go crazy and tamper with are...
 
-    ("なんでこんな優しい先輩を忘齧れるんだ。†",
+    ("なんでこんな優しい先輩を忘齧れるんだ。",
     ""),
-    # Why can you forget such a kind senior?†
+    # Why can you forget such a kind senior?
 
     ("「………………芹°香」",
     ""),
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # My geire whispered his name, smoking his ears.
 
-    ("すると先輩は、オレの制梵服の肩をき繧ゅっと強くにぎった。",
+    ("すると先輩は、オレの制梵服の肩をきゅっと強くにぎった。",
     ""),
     # Then my senior snuggled the shoulders of my brazen uniform tightly.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "Mr. Miss…"
 
-    ("と、オレの名前を呼び返した。†",
+    ("と、オレの名前を呼び返した。",
     ""),
-    # He called back my name.†
+    # He called back my name.
 
-    ("「いっしょに帰汲うぜ」",
+    ("「いっしょに帰うぜ」",
     ""),
     # "I'll return to the ephemeral."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # ...Ko-kun.
 
-    ("うなずく先輩を、オレは烽もう一度ぎ繧ゅっと強く抱きしめた。Å",
+    ("うなずく先輩を、オレはもう一度ぎゅっと強く抱きしめた。Å",
     ""),
     # I hugged my senior tightly and once more, hushed me tightly.Å
 
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # So now, I can go back to the slut, my senior said.
 
-    ("いっしょに帰鼡れるってこと烽もそうだけど、それよりオレは、たったそれだけのために、ずっと待っていてくれた先輩に感動した。†",
+    ("いっしょに帰鼡れるってこともそうだけど、それよりオレは、たったそれだけのために、ずっと待っていてくれた先輩に感動した。",
     ""),
-    # As with Yo, I was able to return to the slut, but even more so, I was moved by the senior who had been waiting for me for so long.†
+    # As with Yo, I was able to return to the slut, but even more so, I was moved by the senior who had been waiting for me for so long.
 
     ("「諱先輩…」",
     ""),
@@ -158,15 +158,15 @@ text_array = [
     ""),
     # I took that hand.
 
-    ("「じ痰ゃ、帰汲ーぜ」",
+    ("「じ痰ゃ、帰ーぜ」",
     ""),
     # "You'll get back to me."
 
-    ("こく…。†",
+    ("こく…。",
     ""),
-    # So...†
+    # So...
 
-    ("オレたちは学校を繧後にする。",
+    ("オレたちは学校を後にする。",
     ""),
     # We go out of school after we leave school.
 
@@ -198,15 +198,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("普黒塗闢りの鰍リムジンがキキィーッと目の前に停車して、£から痰例のじじいが現鼬れた。",
+    ("普黒塗闢りの鰍リムジンがキキィーッと目の前に停車して、から痰例のじじいが現鼬れた。",
     ""),
     # A chrysanthemum limousine with a plain black lacquer stopped in front of me, and the old man with a phlegm appeared from the scene.
 
-    ("「おｏ様、お迎えにあがりました。…えっ？	お翌風邪のほうは烽もう大苟丈夫なのですか…と？	ううっ、こんなр私めなぞの体を心配していただけるとは…。くうっ。だが、このおいぼれ、おｏ様のためとあらば、ちょっとやそっとの翌風邪なぞ…ごふっごふっごふっ！」†",
+    ("「おｏ様、お迎えにあがりました。…えっ？	お翌風邪のほうはもう大苟丈夫なのですか…と？	ううっ、こんなр私めなぞの体を心配していただけるとは…。くうっ。だが、このおいぼれ、おｏ様のためとあらば、ちょっとやそっとの翌風邪なぞ…ごふっごふっごふっ！」",
     ""),
-    # "O-sama, I've come to pick you up....Huh? Are you already strong in the next cold? Ugh, I never thought you'd be worried about my mysterious body... but this wickedness is for O-sama, and the cold afterwards are quiet...Gofugofugofu!" †
+    # "O-sama, I've come to pick you up....Huh? Are you already strong in the next cold? Ugh, I never thought you'd be worried about my mysterious body... but this wickedness is for O-sama, and the cold afterwards are quiet...Gofugofugofu!" 
 
-    ("「…あんた、浴風邪ひいてんなら、おとなしく家で寝てり痰ゃ｢｢」",
+    ("「…あんた、風邪ひいてんなら、おとなしく家で寝てり痰ゃ｢｢」",
     ""),
     # "...If you have a bathing cold, you're sleeping quietly at home, ""
 
@@ -230,17 +230,17 @@ text_array = [
     ""),
     # "...Pe."
 
-    ("たんのおまけつきで…。†",
+    ("たんのおまけつきで…。",
     ""),
-    # Comes with a bonus for Tan...†
+    # Comes with a bonus for Tan...
 
-    ("「黙齧れこ墲わっぱっ！	ごふっごふっ！	貴様のような…ごふっごふっ！	不届きな輩が…ごふっごふっ！	おｏ様に…ごふっごふっ、げふっげふっ、がふっがふっ、げへっ！！」",
+    ("「黙齧れこわっぱっ！	ごふっごふっ！	貴様のような…ごふっごふっ！	不届きな輩が…ごふっごふっ！	おｏ様に…ごふっごふっ、げふっげふっ、がふっがふっ、げへっ！！」",
     ""),
     # "Silently, gofuuu! Gofuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
-    ("「ああ〜っ、うっとうしい〜…」†",
+    ("「ああ〜っ、うっとうしい〜…」",
     ""),
-    # "Ahhh, it's annoying..." †
+    # "Ahhh, it's annoying..." 
 
     ("「…げふっ、…失邇礼致しました。｢｢ささ、おｏ様、お車へ」",
     ""),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # "Isao Senpai, I'm sure I'll be able to return to Ebi on the day right now..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「諱先輩…」",
     ""),
@@ -270,17 +270,17 @@ text_array = [
     ""),
     # "Come on, = hurry. ""Split!"
 
-    ("「あっ…」†",
+    ("「あっ…」",
     ""),
-    # "Ah..." †
+    # "Ah..." 
 
     ("普黒スーツのじーさんに連齪れられて、諱先輩は無摶理﨤矢摶理車に乗せられた。",
     ""),
     # He was repeatedly sent by an old man in a black suit, and Senpai Kou was put on a nuisance.
 
-    ("走闡り獅去っていく鰍リムジンの汲窓から、諱先輩は、いつまで烽も、いつまで烽も、じっとオレだけを見つめていた。†",
+    ("走闡り去っていく鰍リムジンの窓から、諱先輩は、いつまでも、いつまでも、じっとオレだけを見つめていた。",
     ""),
-    # From the window of the lion's limousine, Ike-senpai stared at me, for how long, for how long, for how long, for hot, and how long, for hot, at me.†
+    # From the window of the lion's limousine, Ike-senpai stared at me, for how long, for how long, for how long, for hot, and how long, for hot, at me.
 
     ("オレが先輩を忘齧れて帰ったりしなけり痰ゃ、いまごは…。",
     ""),

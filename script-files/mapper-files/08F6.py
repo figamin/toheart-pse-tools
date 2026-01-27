@@ -2,9 +2,9 @@
 # Source file: 08F6.txt
 
 text_array = [
-    ("（戟レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	はずれ）†",
+    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	はずれ）",
     ""),
-    # (Remy's exam return date PS) (selection)†
+    # (Remy's exam return date PS) (selection)
 
     ("「残念、はずれだ」",
     ""),

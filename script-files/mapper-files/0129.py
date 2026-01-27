@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Are you a childhood friend...?"
 
-    ("「ああ。家煢も近葛所だし、長いつき№合いでさ。い墲わば身熕内みたいな烽もんかな」",
+    ("「ああ。家煢も近葛所だし、長いつき№合いでさ。いわば身熕内みたいなもんかな」",
     ""),
     # "Yeah. Ikehana is also a close-kzu area, so it's been a long time. I guess it's a hot spring like a Japanese inside."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What's up?"
 
-    ("「い、いえ、その…。なんで烽もないです」",
+    ("「い、いえ、その…。なんでもないです」",
     ""),
     # "No, no... Why don't you have a hot pot?"
 

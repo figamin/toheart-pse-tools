@@ -2,11 +2,11 @@
 # Source file: 01B8.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（４獅月２３冾日から４獅月２４冾日に変える）閨（２Ｆ廊下）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（４月２３冾日から４月２４冾日に変える）閨（２Ｆ廊下）†",
     ""),
     # (Akari Scales Event 1F) (Change from April 23rd to April 24th to April 24th) (Corride 2F) †
 
-    ("廊下に出髀ると、ちょうど、あかりのやつが前を烽歩いていた。",
+    ("廊下に出髀ると、ちょうど、あかりのやつが前を歩いていた。",
     ""),
     # When I headed out into the hallway, I saw a group of sluts of red and red sluts walking in front of me.
 

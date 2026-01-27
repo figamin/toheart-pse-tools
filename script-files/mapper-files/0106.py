@@ -2,7 +2,7 @@
 # Source file: 0106.txt
 
 text_array = [
-    ("（あかり	冝日付イベント１．４）閨（３獅月１６冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（自分の部屋）†",
+    ("（あかり	冝日付イベント１．４）閨（３月１６冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（自分の部屋）†",
     ""),
     # (Akari Pick Date Event 1.4) (3rd Lion Day 16th Day) (occurs if you are studying with a light) (occurs when you are in 2nd place) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally)
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Hello~, sputum!"
 
-    ("間瘧違いない、あかりの声だ。",
+    ("間違いない、あかりの声だ。",
     ""),
     # It's Akari's voice, surely.
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Yes" ◯
 
-    ("あかりといっしょに勉強するの烽も、これで烽もう４冾日目だ。",
+    ("あかりといっしょに勉強するのも、これでもう４冾日目だ。",
     ""),
     # This is the fourth day of studying with Akari.
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "...Um."
 
-    ("「二重居結㈹合竝や三重居結㈹合が開いて、他の原子、または原子団と新たに汲結㈹合する反梍応です」",
+    ("「二重居結㈹合竝や三重居結㈹合が開いて、他の原子、または原子団と新たに結㈹合する反梍応です」",
     ""),
     # "This is a counter-wound situation in which double or triple ordinates open and newly joins with other atoms or groups of atoms."
 

@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I noticed the voice and my senior looked over me.
 
-    ("あいか墲わらず、ぼーっとした感じがする。†",
+    ("あいかわらず、ぼーっとした感じがする。†",
     ""),
     # I feel a bit dazed, not glaring at all.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Senpai replied, "The car to pick me up lol Iso is waiting for me, I'm the next day."†
 
-    ("「へえ。…で、時間までひなたぼっこしてるって墲わけか」",
+    ("「へえ。…で、時間までひなたぼっこしてるってわけか」",
     ""),
     # "Wha... So, it's a shame that you're basking in the sun until time."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # B Hmm, ok.Relax
 
-    ("Ｃ	もう、ダ＜メか烽も…。閨",
+    ("Ｃ	もう、ダ＜メかも…。閨",
     ""),
     # C I've already got a damn or hot...Relax
 

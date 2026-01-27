@@ -2,17 +2,17 @@
 # Source file: 02CE.txt
 
 text_array = [
-    ("（芹°香	テスト	３／１８）閨（芹°香	好感度２を見ている）閨（１Ｆ廊下）†",
+    ("（芹°香	テスト	３／１８）閨（芹°香	好感度２を見ている）閨（１Ｆ廊下）",
     ""),
-    # (Sei° Ka test 3/18) Sei (Sei° Ka likes 2) Sei (1st floor corridor) †
+    # (Sei° Ka test 3/18) Sei (Sei° Ka likes 2) Sei (1st floor corridor) 
 
     ("１階へと下濶りてきた。",
     ""),
     # I went downstairs to the first floor.
 
-    ("ふと汲窓の外を見骭ると、見知った顔があった。†",
+    ("ふと窓の外を見骭ると、見知った顔があった。",
     ""),
-    # I looked out the window and saw a familiar face.†
+    # I looked out the window and saw a familiar face.
 
     ("＠栖瑞謳先輩だ。",
     ""),
@@ -22,13 +22,13 @@ text_array = [
     ""),
     # He peers at the sky again, gazing at what he is doing.
 
-    ("のどかないい天気だ烽もんな。",
+    ("のどかないい天気だもんな。",
     ""),
     # The weather is so rough, it's hot.
 
-    ("ひなたぼっこかな。†",
+    ("ひなたぼっこかな。",
     ""),
-    # Maybe it's a sunbathing.†
+    # Maybe it's a sunbathing.
 
     ("オレは｢｢。",
     ""),

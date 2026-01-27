@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Okay, let's go, yeah..."†
 
-    ("オレたちは鞄をカサが墲わりにして、濡齡れた道路を一気に駆け抜けていった。◯",
+    ("オレたちは鞄をカサがわりにして、濡齡れた道路を一気に駆け抜けていった。◯",
     ""),
     # The people who were slurped the kara bags were swept away and quickly sprinted through the wet road.◯
 

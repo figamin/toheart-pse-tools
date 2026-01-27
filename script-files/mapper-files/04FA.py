@@ -2,19 +2,19 @@
 # Source file: 04FA.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	それはだな）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	それはだな）",
     ""),
-    # (Shiho Scales Event PS) (Chooses that's right)†
+    # (Shiho Scales Event PS) (Chooses that's right)
 
     ("「それはだな…、べつに意味はねえ」",
     ""),
     # "That's...it really doesn't make any sense."
 
-    ("「なによ、それならそんなに急ぐこと烽もないでしょ」",
+    ("「なによ、それならそんなに急ぐこともないでしょ」",
     ""),
     # "What, then, there's no need to hurry that much, so let's go."
 
-    ("「なに烽も予定がないと、時間を無駄にしてるみたいで烽もったいないだ？」†",
+    ("「なにも予定がないと、時間を無駄にしてるみたいでもったいないだ？」",
     ""),
     # "What is it that if you don't have a pre-order, it seems like you're wasting your time, so it's a waste of hot water?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Where are you going?"
 
-    ("「う〜ん、そうねぇ…。映謇画なんかどお？」†",
+    ("「う〜ん、そうねぇ…。映謇画なんかどお？」",
     ""),
     # "Hmm, that's right... What about the Eiji painting?"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Are you so excited? I'm so excited
 
-    ("Ａ	アクション焜もの。閨",
+    ("Ａ	アクションもの。閨",
     ""),
     # A: A message from the accident.Relax
 
-    ("Ｂ	コ＜メディ焜もの。閨",
+    ("Ｂ	コ＜メディもの。閨",
     ""),
     # B Comedy.Relax
 

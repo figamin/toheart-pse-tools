@@ -2,9 +2,9 @@
 # Source file: 0864.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	べつに）†",
+    ("（レミィ	回秤数イベントＰＳ）閨（選択綜	べつに）",
     ""),
-    # (Game Remy Scale Event PS) (Chooses)†
+    # (Game Remy Scale Event PS) (Chooses)
 
     ("「べつに…」",
     ""),
@@ -14,17 +14,17 @@ text_array = [
     ""),
     # My heart was so mean and unemotional.
 
-    ("あんな芸膜当を見せられると、逆にしらけたり烽もしたくなる。†",
+    ("あんな芸膜当を見せられると、逆にしらけたりもしたくなる。",
     ""),
-    # When I was shown such a film, I would rather be gross or even boil.†
+    # When I was shown such a film, I would rather be gross or even boil.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("予想どおり、がっかりした様子の撃レミィ。†",
+    ("予想どおり、がっかりした様子の撃レミィ。",
     ""),
-    # As expected, Geki Remie looks disappointed.†
+    # As expected, Geki Remie looks disappointed.
 
     ("轣冗談だって。",
     ""),
@@ -38,21 +38,21 @@ text_array = [
     ""),
     # I hurriedly tried to retort the previous one, saying that the choriacsycn had been going out of nowhere.
 
-    ("「はははっ、ジョークだって。すごすぎ｢｢」†",
+    ("「はははっ、ジョークだって。すごすぎ｢｢」",
     ""),
-    # "Hahaha, it's a Zikku. It's amazing ""†
+    # "Hahaha, it's a Zikku. It's amazing ""
 
     ("「ゴ＜メン。アタシ、閨手を抜いてたの…」",
     ""),
     # "Good man. I was slacking off the corner..."
 
-    ("戟レミィの言葉がさえぎった。",
+    ("レミィの言葉がさえぎった。",
     ""),
     # A word of Karemi interrupted.
 
-    ("「は？」†",
+    ("「は？」",
     ""),
-    # "teeth?"†
+    # "teeth?"
 
     ("「３本同椏時に撃てたのに、閨手を抜いてたの」",
     ""),
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # Is it true that you're in the same time??
 
-    ("「もっとたくさんボール出して烽もらえばよかったネ…」†",
+    ("「もっとたくさんボール出してもらえばよかったネ…」",
     ""),
     # "I wish I had put out more balls and got some hot..."
 
-    ("「ほとんど一瞬でボール３個を撃ち抜くだけで烽もすげえのに、もっといけるのか！？」",
+    ("「ほとんど一瞬でボール３個を撃ち抜くだけでもすげえのに、もっといけるのか！？」",
     ""),
     # "I almost instantly shoot three balls and get amazing hot water, so can I make more money?!"
 
-    ("「﨟矢は１０本しか手に揩持てないけどネ」",
+    ("「﨟矢は１０本しか手に持てないけどネ」",
     ""),
     # "I can only hold 10 arrows in my hand, though."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "I should have just tampered with it from the beginning."
 
-    ("「おめえ、生まれる桙時緕代を間瘧違えたな…」◯",
+    ("「おめえ、生まれる桙時緕代を間違えたな…」◯",
     ""),
     # "Dear you, I've been in a different position to the birth of the breeze..."◯
 

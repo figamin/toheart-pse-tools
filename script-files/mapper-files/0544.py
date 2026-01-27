@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Aoi Likeability Event 1 After Selection A) (Continued from Selection AB)†
 
-    ("「とこで、諱先輩はいつ烽もパンなんですか？」",
+    ("「とこで、諱先輩はいつもパンなんですか？」",
     ""),
     # "At the moment, when is Ko-senpai also bread?"
 
-    ("オレの手の烽ものを見て、葵ち痰ゃんが聞く。",
+    ("オレの手のものを見て、葵ち痰ゃんが聞く。",
     ""),
     # Aoi Chisho-yan listens to me when he sees the hot food on my hands.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Is that so..."
 
-    ("ちょっぴり同贒情するような目をする彼濫女。",
+    ("ちょっぴり同贒情するような目をする彼女。",
     ""),
     # A boyfriend with eyes that are lying in love with each other.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I'm right, here's one thing.†
 
-    ("「そり痰ゃあオレだってさ、たまには、愛訷情のこ烽もったうまい弁抹当が食べたいさ…」",
+    ("「そり痰ゃあオレだってさ、たまには、愛訷情のこもったうまい弁抹当が食べたいさ…」",
     ""),
     # "I'm really excited, I want to eat some delicious bento with hot, lovely hot springs..."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "The heart is..."
 
-    ("「そうさ、誰かに食べて烽もらいたいという、その心が肝心なんだ。その心が料摎理を最ｍ高に引き立てるんだ」",
+    ("「そうさ、誰かに食べてもらいたいという、その心が肝心なんだ。その心が料摎理を最ｍ高に引き立てるんだ」",
     ""),
     # "Yeah, that's the heart of wanting someone to eat and get some hot food. That heart will enhance the price-making process to the highest possible price."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "That's right. I'm coming, phlegm."
 
-    ("葵ち痰ゃんは笑迴顔で言った。",
+    ("葵ち痰ゃんは笑顔で言った。",
     ""),
     # Aoi Chisho-yan said with a smile on his face.
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # Pappa-Pan!
 
-    ("どこかでファンファー戟レが鳴ったような気がした。†",
+    ("どこかでファンファーレが鳴ったような気がした。†",
     ""),
     # I felt like a fanfare had roared somewhere.†
 
-    ("「で烽も、あまり冾期待しないでくださいね。",
+    ("「でも、あまり冾期待しないでくださいね。",
     ""),
     # "And don't expect too much, either.
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # I'm the one who slandered me..."
 
-    ("「いい、いい。葵ち痰ゃんがｍってくれるってだけで烽もオッケーだから」",
+    ("「いい、いい。葵ち痰ゃんがｍってくれるってだけでもオッケーだから」",
     ""),
     # "That's fine. Just because Aoi Chisho-yan will give you a m, it's okay too."
 

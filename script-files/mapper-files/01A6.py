@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Akari Scales Event 1F) Silence (Select B: Skulls the back of the ball)†
 
-    ("まあ、行き烽も帰闍り烽もいっしょじ痰ゃ、さすがにｉ話すること烽もなくなってくるからな。",
+    ("まあ、行きも帰闍りもいっしょじ痰ゃ、さすがに話することもなくなってくるからな。",
     ""),
     # Well, there are also hot springs and hot springs, and there are so many hot springs that I can talk about.
 
-    ("べつに、わざ墲わざ声かけること烽もあるまい。",
+    ("べつに、わざわざ声かけることもあるまい。",
     ""),
     # In fact, there is no need to make a call on the ground.
 

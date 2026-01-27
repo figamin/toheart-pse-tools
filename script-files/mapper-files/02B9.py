@@ -2,11 +2,11 @@
 # Source file: 02B9.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ｃ	ふたりと烽もｔ人には変﨑わりないな）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ｃ	ふたりともｔ人には変﨑わりないな）",
     ""),
-    # (Seri°Kawa, Scales Event, Leaving School LV2)Seri (Selection C: Two and Hots don't even get a t-san)†
+    # (Seri°Kawa, Scales Event, Leaving School LV2)Seri (Selection C: Two and Hots don't even get a t-san)
 
-    ("「で烽も、やっぱりふたりと烽もｔ人だな」",
+    ("「でも、やっぱりふたりともｔ人だな」",
     ""),
     # "And I think both Kano and Kano are just T-shirts after all."
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Oh, Mr. Mr. #, I'm not going to say good things!"
 
-    ("「正直だからな、オレは」†",
+    ("「正直だからな、オレは」",
     ""),
     # "Because I'm honest, I'm so excited"
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「う、う〜ん、そうだなあ、どっち烽も…って言いたいとこだが、やっぱ先輩かな？」",
+    ("「う、う〜ん、そうだなあ、どっちも…って言いたいとこだが、やっぱ先輩かな？」",
     ""),
     # "Uh, hmm, that's right, I'm not sure... but I guess I'm a senior after all?"
 
@@ -46,12 +46,12 @@ text_array = [
     ""),
     # "I thought so? I thought I'd say that anyway."
 
-    ("「で烽も、あんた烽も十分いけてるけどな」",
+    ("「でも、あんたも十分いけてるけどな」",
     ""),
     # "And you and your hot springs are good enough."
 
-    ("「あら、それはどーも」†",
+    ("「あら、それはどーも」",
     ""),
-    # "Oh, that's hi" †
+    # "Oh, that's hi" 
 
 ]

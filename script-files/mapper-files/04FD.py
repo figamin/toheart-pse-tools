@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "I wonder if I'm a banquet or something."
 
-    ("「あら、♀遇ね。あたし烽もホラー、好き」",
+    ("「あら、♀遇ね。あたしもホラー、好き」",
     ""),
     # "Oh, I'm treating females. I also like Houhan, too."
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Hey. It looks like you are."
 
-    ("オレは魔薄笑いを浮かべながら言った。†",
+    ("オレは魔薄笑いを浮かべながら言った。",
     ""),
-    # I said with a crazy smile on my face.†
+    # I said with a crazy smile on my face.
 
     ("「なによう、その笑いは」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "In other words, I say that normally, there's no phlegm, ephemeral?"
 
-    ("「まあ、言い換えればな」†",
+    ("「まあ、言い換えればな」",
     ""),
     # "Well, in other words"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "I love that kind of thing."
 
-    ("「わーった墲わーった。けどな、怖いとか気味が悪いとか、＝普通思寬わねえか？」",
+    ("「わーったわーった。けどな、怖いとか気味が悪いとか、＝普通思寬わねえか？」",
     ""),
     # "I'm so sad. But you don't think you're scared or creepy, right?!"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I'm a bit of a joke like that."
 
-    ("「じ痰ゃ本物が出たらどーすんだよ」†",
+    ("「じ痰ゃ本物が出たらどーすんだよ」",
     ""),
     # "What will you do if the real thing comes out?"
 
@@ -70,15 +70,15 @@ text_array = [
     ""),
     # In fact, it's nice to be hugged by the side of me saying a yaaaah, but it's a bit of a pain in the sense that it's not possible to collect it in the Eiji paintings.
 
-    ("その点、志保となら心配なさそうだ。†",
+    ("その点、志保となら心配なさそうだ。",
     ""),
-    # In that respect, Shiho doesn't seem to be worried.†
+    # In that respect, Shiho doesn't seem to be worried.
 
-    ("「で烽もさ、いまホラー映謇画って入ってた？	あたし覚えがないんだけど」",
+    ("「でもさ、いまホラー映謇画って入ってた？	あたし覚えがないんだけど」",
     ""),
     # "And so, did you have a picture of Hoenra Eiji just in there? I don't remember."
 
-    ("「オレ焜も知迺らねえよ。ＣＭとかで烽も見たことねえし…。新錐は入ってねえんじ痰ゃないか」†",
+    ("「オレも知迺らねえよ。ＣＭとかでも見たことねえし…。新錐は入ってねえんじ痰ゃないか」",
     ""),
     # "I don't know about it either. I've never seen a hot spring in commercials or anything like that... There's no new pyramids inside, so there's no phlegm."
 
@@ -86,13 +86,13 @@ text_array = [
     ""),
     # "Then what will you do? Do you want to look at the other ones?"
 
-    ("「それは勘弁してくれ。見たく烽もない映謇画にカネ払うほど裕泓福じ痰ゃねえしな」",
+    ("「それは勘弁してくれ。見たくもない映謇画にカネ払うほど裕泓福じ痰ゃねえしな」",
     ""),
     # "Please forgive me. You're so lucky that you're so wealthy that you'll pay for a film that you don't want to see."
 
-    ("「同感同感」†",
+    ("「同感同感」",
     ""),
-    # "Symptoms"†
+    # "Symptoms"
 
     ("結局その冾日は映謇画をやめ、ふたりでだべりながら帰った。◯",
     ""),

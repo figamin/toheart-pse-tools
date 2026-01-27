@@ -2,9 +2,9 @@
 # Source file: 07A4.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	別れる）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	別れる）",
     ""),
-    # (Kotone Scales Event PS) (Chounen Sogo)†
+    # (Kotone Scales Event PS) (Chounen Sogo)
 
     ("「おう、帰驪るとこだぜ？	じ痰ゃな」",
     ""),

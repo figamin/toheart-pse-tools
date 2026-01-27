@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Seri°Kawa, Scales Event 2F LV3)Seri (Select Soku C: About the leaves in small bottles)†
 
-    ("オレは棚の繧上の葉っぱの入ったガラス瓶について聞いた。",
+    ("オレは棚の上の葉っぱの入ったガラス瓶について聞いた。",
     ""),
     # I asked about the banquet jar with leaves on the shelves.
 
@@ -30,7 +30,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え？	幸運のおまじない用？	氏月桂樹の葉を揩持っていると幸運になるって？」",
+    ("「え？	幸運のおまじない用？	氏月桂樹の葉を持っていると幸運になるって？」",
     ""),
     # "Huh? For a lucky spell? You'll get lucky if you have bay leaves?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # A clap sound came out, and when the lid of the ko-shiruku opened, a pleasant syrup wafted through the room.
 
-    ("氏月桂樹はハーブに烽も使寬われるらしい。†",
+    ("氏月桂樹はハーブにも使寬われるらしい。†",
     ""),
     # Apparently, the laurel tree is also used as herbs.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Senpai prayed to the leaves, carefully put them in a floating tube and gave them to me.
 
-    ("「へへ、さんき繧ゅ！」",
+    ("「へへ、さんきゅ！」",
     ""),
     # "Hehe, san shin!"
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # It was a small brown floating tube.†
 
-    ("「こいつをいつ烽も揩持ち烽歩けばいい墲わけ？」",
+    ("「こいつをいつも持ち歩けばいいわけ？」",
     ""),
     # "When should I walk around this guy with a stove?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Senpai nodded with Ko-kun.
 
-    ("「じ痰ゃあ、鞄のなかに入齠れとこう。だいたいいつ烽も揩持ち烽歩いてるからな」",
+    ("「じ痰ゃあ、鞄のなかに入齠れとこう。だいたいいつも持ち歩いてるからな」",
     ""),
     # "You'll have to put it in your bag. It's because the hot springs are walking around with them."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # I opened my bag and put a floating tube in my inner pocket.†
 
-    ("「これでオレに烽も幸運が訪齧れる？」",
+    ("「これでオレにも幸運が訪齧れる？」",
     ""),
     # "Will this make me feel lucky and happy?
 
@@ -130,11 +130,11 @@ text_array = [
     ""),
     # I can't help but think that it's a lie after all.†
 
-    ("で烽もこいつは痰違うよな。",
+    ("でもこいつは痰違うよな。",
     ""),
     # And this guy has different phlegms too.
 
-    ("なんてったってこの浮封尓筒のｒには、浴女神のお祈闍りが浮封じられてんだから。",
+    ("なんてったってこの浮封尓筒のｒには、女神のお祈闍りが浮封じられてんだから。",
     ""),
     # After all, the bath goddess' prayer is sealed in the r of this floating seal.
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # Senpai turned a little red and turned his head down.
 
-    ("考えようによっては、これだけで烽も十分に幸せがきたーって感じがした。◯",
+    ("考えようによっては、これだけでも十分に幸せがきたーって感じがした。◯",
     ""),
     # Depending on how I think about it, this alone made me feel like Hot has brought me enough happiness.◯
 

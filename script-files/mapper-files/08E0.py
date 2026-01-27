@@ -2,7 +2,7 @@
 # Source file: 08E0.txt
 
 text_array = [
-    ("（戟レミィ	好感度イベントＰＳ）閨（選択綜	行けない）†",
+    ("（レミィ	好感度イベントＰＳ）閨（選択綜	行けない）†",
     ""),
     # (Goremy Likeability Event PS) (Choice cannot be reached)†
 
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Yeah, see you next time."
 
-    ("戟レミィはトボトボと戻っていった。",
+    ("レミィはトボトボと戻っていった。",
     ""),
     # Remy went back.
 
-    ("ごめんな、戟レミィ。◯",
+    ("ごめんな、レミィ。◯",
     ""),
     # Sorry, Karemi.◯
 

@@ -2,9 +2,9 @@
 # Source file: 0199.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	声をかける）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	声をかける）",
     ""),
-    # (Akari Scales Event: Departing from school) (A call out)†
+    # (Akari Scales Event: Departing from school) (A call out)
 
     ("「おい、あかり」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Ah, sputum."
 
-    ("振關りｌいたあかりは、オレの顔を見て笑迴顔を浮かべた。†",
+    ("振關りｌいたあかりは、オレの顔を見て笑顔を浮かべた。",
     ""),
-    # Irakari looked at my face and smiled at me.†
+    # Irakari looked at my face and smiled at me.
 
     ("「なに見てんだ？」",
     ""),
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "Yeah, this."
 
-    ("そう言って差し出したのは、英単語が曹書かれたカード帳だった。†",
+    ("そう言って差し出したのは、英単語が曹書かれたカード帳だった。",
     ""),
-    # What he handed out was a cardbook with English singular words written in Cao.†
+    # What he handed out was a cardbook with English singular words written in Cao.
 
-    ("「そうか。そういえば、あさってから学年又末テストだ烽もんな。がんばれよ」",
+    ("「そうか。そういえば、あさってから学年又末テストだもんな。がんばれよ」",
     ""),
     # "I see. Come to think of it, the next day, I'll be taking another final exam for the grade. Good luck."
 
-    ("「ち痰ゃん烽もだよ。他人鱒事みたいに…」†",
+    ("「ち痰ゃんもだよ。他人事みたいに…」",
     ""),
     # "It's also a trout thing. It's like someone else's trout..."
 
@@ -54,17 +54,17 @@ text_array = [
     ""),
     # "Yeah, that's surprisingly. Rather, I remember when I'm ".
 
-    ("「なるほど、カンペの原搆理と同じって墲わけか」",
+    ("「なるほど、カンペの原搆理と同じってわけか」",
     ""),
     # "I see, it's the same as the original curriculum in Campe."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("ふたりで話をしながら、坂の下のほうまで下濶りてきた。†",
+    ("ふたりで話をしながら、坂の下のほうまで下濶りてきた。",
     ""),
-    # As they talked, they moved down to the bottom of the hill.†
+    # As they talked, they moved down to the bottom of the hill.
 
     ("「そっちはどう？	テスト勉強進んでる？」",
     ""),
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "In particular, when it comes to English-Japanese language, the accumulation of the daily life is important, so if you don't use it as a pre-noise, it's a pain to have sputum essays."
 
-    ("「テストに出髀るような英単語なんて、そんなことしなくて烽も自然と身についてるぜ」",
+    ("「テストに出髀るような英単語なんて、そんなことしなくても自然と身についてるぜ」",
     ""),
     # "You don't do that and you'll naturally learn the English silly words that you might be taking on tests."
 
-    ("「本末当？」†",
+    ("「本末当？」",
     ""),
     # "Are you doing the work?"
 
@@ -90,23 +90,23 @@ text_array = [
     ""),
     # "The song's quintessential lyrics, product names, and English-Japanese language are usually very familiar."
 
-    ("「で烽も、聞き覚えはあって烽も、どんな意味か思い出せないのって、あるでしょ？」",
+    ("「でも、聞き覚えはあっても、どんな意味か思い出せないのって、あるでしょ？」",
     ""),
     # "And you can't remember what the meaning of the ko and the ko are, even though you're familiar with it, are you slut?"
 
-    ("「ニャアンスでだいたい墲わかるだ」†",
+    ("「ニャアンスでだいたいわかるだ」",
     ""),
-    # "You can roughly understand the nuances b" †
+    # "You can roughly understand the nuances b" 
 
     ("「…ふうん。じ痰ゃあね、いまからр私が英単語の問題を出すよ」",
     ""),
     # "...Hmm. That's all, I'll give you a question of the English silly words."
 
-    ("「オレを獅試そうってんだな」",
+    ("「オレを試そうってんだな」",
     ""),
     # "I'm trying to test my hard work."
 
-    ("「そ、そういう墲わけじ痰ゃ…」†",
+    ("「そ、そういうわけじ痰ゃ…」",
     ""),
     # "That's the reason for that kind of phlegm..."
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "Yeah, sputum. Now, try to translate the English silly words from now on."
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
     ("「ビャーティフル」",
     ""),
@@ -150,15 +150,15 @@ text_array = [
     ""),
     # "Talk"
 
-    ("「話す」†",
+    ("「話す」",
     ""),
-    # "talk"†
+    # "talk"
 
     ("「ピンポンピンポン。さすがだね」",
     ""),
     # "Ping Pong Ping Pong. That's amazing."
 
-    ("「って、馬鹿にしてんのか、おめー。どれ烽もｒ学穴レベルの問題じ痰ゃねーか」†",
+    ("「って、馬鹿にしてんのか、おめー。どれもｒ学穴レベルの問題じ痰ゃねーか」",
     ""),
     # "Are you making fun of me? Congratulations. Are you a fan of me? No matter how many people are, do you have to deal with the question of the level of the school's school?"
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "That's not."
 
-    ("「なにィ」†",
+    ("「なにィ」",
     ""),
     # "What?"
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # B "≠" maybe.Relax
 
-    ("Ｃ	『駆』か烽も。閨",
+    ("Ｃ	『駆』かも。閨",
     ""),
     # C ``k'' or hot too.Relax
 

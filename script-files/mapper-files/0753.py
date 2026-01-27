@@ -2,9 +2,9 @@
 # Source file: 0753.txt
 
 text_array = [
-    ("（琴音	好感度イベント４．２）閨（£鋳）閨（昼休み）閨（琴音５）†",
+    ("（琴音	好感度イベント４．２）閨（鋳）閨（昼休み）閨（琴音５）",
     ""),
-    # (Kotone Likeability Event 4.2) (£cast) (Lunch break) (Kotone 5) †
+    # (Kotone Likeability Event 4.2) (cast) (Lunch break) (Kotone 5) 
 
     ("昼休み。",
     ""),
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # The weather was nice, and I was smoking a lot of r-casting, but saw Kotone Chisho-chan, who was shaking the bench by himself.
 
-    ("「諱よお、琴音ち痰ゃん」†",
+    ("「諱よお、琴音ち痰ゃん」",
     ""),
-    # "My name is Kotone Chishou-chan" †
+    # "My name is Kotone Chishou-chan" 
 
     ("「あっ」",
     ""),
     # "Ah."
 
-    ("声をかけると、気づいた琴音ち痰ゃんはベンチから立ち繧上がり、小さく頭を下げた。",
+    ("声をかけると、気づいた琴音ち痰ゃんはベンチから立ち上がり、小さく頭を下げた。",
     ""),
     # When I called out, Kotone Chisho-yan noticed it, stood up from the bench and bowed his head slightly.
 
@@ -30,13 +30,13 @@ text_array = [
     ""),
     # "…Hello"
 
-    ("「琴音ち痰ゃん烽もひなたぼっこ？」",
+    ("「琴音ち痰ゃんもひなたぼっこ？」",
     ""),
     # "Kotone-chisou-chan, are you basking in the sun?"
 
-    ("「あ、はい」†",
+    ("「あ、はい」",
     ""),
-    # "Ah, yes" †
+    # "Ah, yes" 
 
     ("「横に座っていいか？」",
     ""),
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # In response to my strong voice, Kotone Chisho-chan politely responds to Micclus.
 
-    ("もうちょっと親しくしてくれて烽もいいのにな。",
+    ("もうちょっと親しくしてくれてもいいのにな。",
     ""),
     # I'm so close to you, and the hot water is nice too.
 
-    ("オレはベンチにｍかけた。†",
+    ("オレはベンチにｍかけた。",
     ""),
-    # I hung on the bench.†
+    # I hung on the bench.
 
-    ("「琴音ち痰ゃん烽も座闕りなよ」",
+    ("「琴音ち痰ゃんも座闕りなよ」",
     ""),
     # "Kotone-chisou-chan, please sit down too."
 
@@ -66,25 +66,25 @@ text_array = [
     ""),
     # "Ah, yes."
 
-    ("うなずくと、琴音ち痰ゃんはちょっと緊張した顔で、オレの横にｍ會高ｺ奄した。†",
+    ("うなずくと、琴音ち痰ゃんはちょっと緊張した顔で、オレの横にｍ會高ｺ奄した。",
     ""),
-    # When I nodded, Kotone's face was nervous, and I moved to the side of my hardcore throbbing.†
+    # When I nodded, Kotone's face was nervous, and I moved to the side of my hardcore throbbing.
 
-    ("「琴音ち痰ゃんて、昼はいつ烽もここにいんの？」",
+    ("「琴音ち痰ゃんて、昼はいつもここにいんの？」",
     ""),
     # "Kotone-chishou-chan, when is Hot Spring here too during the day?"
 
-    ("「いえ、今厓日はたまたま…。なんとなく、人の少ない方へ烽歩いてきて…、それで…」",
+    ("「いえ、今厓日はたまたま…。なんとなく、人の少ない方へ歩いてきて…、それで…」",
     ""),
     # "No, it just happened to be a day... I somehow walked towards the lucky direction where there were few people... and so..."
 
-    ("彼濫女はそこで言葉を止めた。",
+    ("彼女はそこで言葉を止めた。",
     ""),
     # The woman stopped speaking there.
 
-    ("ついうっかり、余計なことを揩喋ってしまった…って感じだった。†",
+    ("ついうっかり、余計なことを喋ってしまった…って感じだった。",
     ""),
-    # I was like I accidentally ended up talking about something unnecessary...†
+    # I was like I accidentally ended up talking about something unnecessary...
 
     ("「……」",
     ""),
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # It seems it's difficult to keep a shield in the classroom, even though it's not like it's tampered with or without a swaying.
 
-    ("瘁例の超能力のせいで、彼濫女はま墲わりの生徒たちから疫病神扱いされ、露恫骨に敬東遠されているのだ。†",
+    ("瘁例の超能力のせいで、彼女はまわりの生徒たちから疫病神扱いされ、露恫骨に敬東遠されているのだ。",
     ""),
-    # Due to her supernatural powers, the woman is treated like a god of epidemic by her students, and is being overwhelmed by her intimidating feralities.†
+    # Due to her supernatural powers, the woman is treated like a god of epidemic by her students, and is being overwhelmed by her intimidating feralities.
 
-    ("だから、ま墲わりの生徒に凾嫌な目をされる前に、彼濫女は自分からひとけのない場鰹所へお烽もむくんだ。",
+    ("だから、まわりの生徒に凾嫌な目をされる前に、彼女は自分からひとけのない場鰹所へおもむくんだ。",
     ""),
     # So, before the students are disgusted, the woman swells up to the bonito spot where she is not alone.
 
@@ -110,15 +110,15 @@ text_array = [
     ""),
     # I don't care about that at all.
 
-    ("ま、そのことについてはあまり触齔れないでおこう。†",
+    ("ま、そのことについてはあまり触齔れないでおこう。",
     ""),
-    # Well, don't touch that much.†
+    # Well, don't touch that much.
 
-    ("「じ痰ゃあ、せっかく静かな場鰹所でｉったんだし、いいと楽しい話で烽もしようぜ」",
+    ("「じ痰ゃあ、せっかく静かな場鰹所でったんだし、いいと楽しい話でもしようぜ」",
     ""),
     # "Ah, I've been in a quiet bonito spot, so let's have fun talking about something like a buddy."
 
-    ("笑迴顔でオレが言うと、",
+    ("笑顔でオレが言うと、",
     ""),
     # When I said with a laughing face,
 
@@ -126,17 +126,17 @@ text_array = [
     ""),
     # "...Eh, yeah."
 
-    ("琴音ち痰ゃんは、ぎこちなくうなずいた。†",
+    ("琴音ち痰ゃんは、ぎこちなくうなずいた。",
     ""),
-    # Kotone Chisho-chan nodded awkwardly.†
+    # Kotone Chisho-chan nodded awkwardly.
 
     ("わずかだが、表﨣情には戸惑いの色を隠せない。",
     ""),
     # There are few, but the outside feelings can't hide their confusion.
 
-    ("たぶん、自分の超能力でオレに迷惑をかけるんじ痰ゃないかと思ってるんだう。†",
+    ("たぶん、自分の超能力でオレに迷惑をかけるんじ痰ゃないかと思ってるんだう。",
     ""),
-    # I think that my psychic powers will cause trouble to me, so I'm not going to have to worry about it.†
+    # I think that my psychic powers will cause trouble to me, so I'm not going to have to worry about it.
 
     ("「いい天気だねぇ」",
     ""),
@@ -150,25 +150,25 @@ text_array = [
     ""),
     # Hmm, now, what shall we talk about...
 
-    ("当たり痰障闖りのないｉ話を交甯わしつつ、オレは話陂題を考えた。",
+    ("当たり痰障闖りのない話を交甯わしつつ、オレは話陂題を考えた。",
     ""),
     # While interjecting i-talks without any stimulation, I came up with a topic of discussion.
 
-    ("え〜と…。†",
+    ("え〜と…。",
     ""),
-    # Um...†
+    # Um...
 
     ("なにげなしに辺阨りを見渡すと、少し離齬れた場鰹所で、数人の男子生徒たちがほうきを使ってｖ幕している姿があった。",
     ""),
     # I looked around the baekket without any hesitation and saw several male students using brooms in a slightly different situation, in which they were in a v-clatter.
 
-    ("コーコーセーに烽もなって、なにくだんねーことやってんだか。",
+    ("コーコーセーにもなって、なにくだんねーことやってんだか。",
     ""),
     # What are you doing to tamper with Kokose?
 
-    ("と言いつつ烽も、それを見てしまうオレ。†",
+    ("と言いつつも、それを見てしまうオレ。",
     ""),
-    # That said, I was also extremely excited to see it.†
+    # That said, I was also extremely excited to see it.
 
     ("ピッチャャーが大きく振關りかぶって…。",
     ""),
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # The ball is directly mentioned...
 
-    ("｢｢ゲッ。†",
+    ("｢｢ゲッ。",
     ""),
-    # "Grrrr.†
+    # "Grrrr.
 
     ("真っ窒白なボールが翌迫った！",
     ""),
@@ -222,9 +222,9 @@ text_array = [
     ""),
     # "Skinny phlegm"
 
-    ("その瞬間｢｢。†",
+    ("その瞬間｢｢。",
     ""),
-    # At that moment, ".†
+    # At that moment, ".
 
     ("「！」",
     ""),
@@ -238,25 +238,25 @@ text_array = [
     ""),
     # ...It was only a momentary droplet of female droplets, but with my eyes I was sure to look clearly.
 
-    ("…なんと烽も不思議な光景を。†",
+    ("…なんとも不思議な光景を。",
     ""),
-    # ...Even the hot springs are a strange sight.†
+    # ...Even the hot springs are a strange sight.
 
-    ("…真っ窒白なボールが、オレの目の前で突然あら墲われた浮黒いガラス板にぶち魔当たって勢いをなくし、地面に獅落ちたんだ。†",
+    ("…真っ窒白なボールが、オレの目の前で突然あらわれた浮黒いガラス板にぶち魔当たって勢いをなくし、地面に落ちたんだ。",
     ""),
-    # ...A purely nitrogen ball suddenly hit the floating black banquet board that had suddenly erupted right in front of my eyes, losing momentum and fell on the ground.†
+    # ...A purely nitrogen ball suddenly hit the floating black banquet board that had suddenly erupted right in front of my eyes, losing momentum and fell on the ground.
 
     ("…ぽん、…ぽん、ぽん、ぽん、ぽんぽんぽんぽん。",
     ""),
     # ...Pon, Pon, Pon, Pon, Pon, Pon Pon Pon Pon Pon Pon.
 
-    ("秩白いボールが足熨もとに転がった。†",
+    ("秩白いボールが足熨もとに転がった。",
     ""),
-    # A white ball rolled over my feet.†
+    # A white ball rolled over my feet.
 
-    ("オレは…というと、突如ボールが静止した、空拠のその一点を、バカみたいにポカンと口を開けたまま、見つめ続けていた。†",
+    ("オレは…というと、突如ボールが静止した、空拠のその一点を、バカみたいにポカンと口を開けたまま、見つめ続けていた。",
     ""),
-    # I was staring at this point in the air, with my Fukuguchi open as I suddenly stopped.†
+    # I was staring at this point in the air, with my Fukuguchi open as I suddenly stopped.
 
     ("「…お〜い、ボール諠取ってくれ〜！」",
     ""),
@@ -266,15 +266,15 @@ text_array = [
     ""),
     # 'Kono Fukukata called me to a male student, and I suddenly came to my senses.
 
-    ("うずくまっていた琴音ち痰ゃん烽も、艨ゆっくりと繧上体を起き繧上がらせる。†",
+    ("うずくまっていた琴音ち痰ゃんも、艨ゆっくりと上体を起き上がらせる。",
     ""),
-    # The crouching swell of Kotone's body slowly lifted up and rose.†
+    # The crouching swell of Kotone's body slowly lifted up and rose.
 
     ("「｢｢ボールは…？」",
     ""),
     # "'What about the ball...?"
 
-    ("琴音ち痰ゃんが、ま墲わりを見回しながら言った。",
+    ("琴音ち痰ゃんが、まわりを見回しながら言った。",
     ""),
     # Kotone Chisho-yan said, looking around.
 
@@ -282,9 +282,9 @@ text_array = [
     ""),
     # "There"
 
-    ("オレは、ふたりの足熨もとに転がる窒白いボールを指差して言った。†",
+    ("オレは、ふたりの足熨もとに転がる窒白いボールを指差して言った。",
     ""),
-    # I pointed at the white nitrogen ball rolling through the two of them' feet.†
+    # I pointed at the white nitrogen ball rolling through the two of them' feet.
 
     ("「…当たりませんでした？」",
     ""),
@@ -294,9 +294,9 @@ text_array = [
     ""),
     # "Ah, ah..."
 
-    ("夢のｒにいるような気分でうなずくオレ。†",
+    ("夢のｒにいるような気分でうなずくオレ。",
     ""),
-    # I nodded in the mood like I was in my dream.†
+    # I nodded in the mood like I was in my dream.
 
     ("「お〜い！」",
     ""),
@@ -306,9 +306,9 @@ text_array = [
     ""),
     # He was called again.
 
-    ("オレは慌てて、足熨もとのボール｢｢裵軟式のテニスボールだった｢｢を拾って、その声にｌかって鰍投げた。†",
+    ("オレは慌てて、足熨もとのボール｢｢裵軟式のテニスボールだった｢｢を拾って、その声にｌかって鰍投げた。",
     ""),
-    # I hurriedly picked up a ball with my feet and a soft tennis ball, "It was a soft ball tennis ball" and threw it at the voice.†
+    # I hurriedly picked up a ball with my feet and a soft tennis ball, "It was a soft ball tennis ball" and threw it at the voice.
 
     ("ぽすっ。",
     ""),
@@ -330,11 +330,11 @@ text_array = [
     ""),
     # The curtain begins again.
 
-    ("その光景をぼんやりとながめながら、オレの頭のｒでは、諱先ほどの不可解な映怏像が繰り返し映し出されていた。†",
+    ("その光景をぼんやりとながめながら、オレの頭のｒでは、諱先ほどの不可解な映怏像が繰り返し映し出されていた。",
     ""),
-    # As I looked at the scene in a blur, my head was repeatedly showing the mysterious image of the previous one.†
+    # As I looked at the scene in a blur, my head was repeatedly showing the mysterious image of the previous one.
 
-    ("…ボールは間瘧違いなくオレたちに直ｒ撃するコースで飛んできた…はずだ。",
+    ("…ボールは間違いなくオレたちに直ｒ撃するコースで飛んできた…はずだ。",
     ""),
     # ...The ball must have flew on a course where he hits the two of us directly...
 
@@ -346,9 +346,9 @@ text_array = [
     ""),
     # This is because he suddenly stopped still in the air.
 
-    ("普黒いガラス板のような烽ものに阻まれ、空拠で静止し、そのままポトンと足熨もとに転がったんだ。†",
+    ("普黒いガラス板のようなものに阻まれ、空拠で静止し、そのままポトンと足熨もとに転がったんだ。",
     ""),
-    # He was blocked by a hot object that looked like a black banquet board, and stopped at the airbag and rolled over his feet.†
+    # He was blocked by a hot object that looked like a black banquet board, and stopped at the airbag and rolled over his feet.
 
     ("もしかして、琴音ち痰ゃん、自分で超能力を使った…？",
     ""),
@@ -358,15 +358,15 @@ text_array = [
     ""),
     # A superpower that should not be free...
 
-    ("ひょっとしたら、無意識で使えたのか烽も。†",
+    ("ひょっとしたら、無意識で使えたのかも。",
     ""),
-    # Perhaps it was possible that he could have used it unconsciously, but Hou also.†
+    # Perhaps it was possible that he could have used it unconsciously, but Hou also.
 
     ("「…ここ、ちょっとｊないですね」",
     ""),
     # "...There's no way there, that's not going to be a peek here."
 
-    ("なに烽もなかったような顔で、琴音ち痰ゃんが言う。",
+    ("なにもなかったような顔で、琴音ち痰ゃんが言う。",
     ""),
     # Kotone Chisho-yan said with a look on his face as if there was no heat.
 
@@ -378,11 +378,11 @@ text_array = [
     ""),
     # I heard.
 
-    ("「え？	なにをですか？」†",
+    ("「え？	なにをですか？」",
     ""),
-    # "Huh? What?"†
+    # "Huh? What?"
 
-    ("「さっきのボール、間瘧違いなくオレたちにｌかって飛んできてただ？	それがどうなったのか…ってこと」",
+    ("「さっきのボール、間違いなくオレたちにｌかって飛んできてただ？	それがどうなったのか…ってこと」",
     ""),
     # "The ball from earlier just came flying to us and the others without a doubt, just b? I wonder what happened to that...?"
 
@@ -394,9 +394,9 @@ text_array = [
     ""),
     # Kotone Chishoyan said apologeticly.
 
-    ("じ痰ゃあ、やっぱり意識してなかったのか。†",
+    ("じ痰ゃあ、やっぱり意識してなかったのか。",
     ""),
-    # I guess he wasn't aware of it after all.†
+    # I guess he wasn't aware of it after all.
 
     ("「…♀ないですから、′こうに移闊りましょうか？」",
     ""),
@@ -414,13 +414,13 @@ text_array = [
     ""),
     # "That's right."
 
-    ("オレ焜もうなずき、ふたりは立ち繧上がった。",
+    ("オレもうなずき、ふたりは立ち上がった。",
     ""),
     # I nodded so much that they both stood up.
 
-    ("′こうのベンチへと移驤るべく烽歩き出す。†",
+    ("′こうのベンチへと移驤るべく歩き出す。",
     ""),
-    # 'I started walking to move to my bench.†
+    # 'I started walking to move to my bench.
 
     ("意識して使えないけど、無意識なら使える。",
     ""),
@@ -434,9 +434,9 @@ text_array = [
     ""),
     # This will prevent the ramblings that are overflowing with energy and tears.
 
-    ("こいつはイケ驛るか烽も…。†",
+    ("こいつはイケ驛るかも…。",
     ""),
-    # This guy is cool or something...†
+    # This guy is cool or something...
 
     ("そんなことを考えていると…。",
     ""),
@@ -454,11 +454,11 @@ text_array = [
     ""),
     # As I looked, a male student was waving.
 
-    ("諱取ってくれということらしい。†",
+    ("諱取ってくれということらしい。",
     ""),
-    # Apparently he wants to take his name.†
+    # Apparently he wants to take his name.
 
-    ("ボールを拾い繧上げたとき、",
+    ("ボールを拾い上げたとき、",
     ""),
     # When you pick up the ball and pull it up,
 
@@ -466,15 +466,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレの頭のｒにあるひとつの考えがひらめいた。†",
+    ("オレの頭のｒにあるひとつの考えがひらめいた。",
     ""),
-    # A thought lies in my head.†
+    # A thought lies in my head.
 
     ("もし、こいつを、思いっきり琴音ち痰ゃんにぶつけてみたらどうなるだう。",
     ""),
     # What would happen if I tried to hit this guy with all my might to Kotone's sphincter?
 
-    ("もしかしたら琴音ち痰ゃん、またさっきみたく超能力のバリアを張って防ぐか烽もしれない。",
+    ("もしかしたら琴音ち痰ゃん、またさっきみたく超能力のバリアを張って防ぐかもしれない。",
     ""),
     # Maybe Kotone's shogi-chan, and maybe they'll set up another supernatural power, Barrata Ria, to prevent it again.
 
@@ -482,29 +482,29 @@ text_array = [
     ""),
     # Kotone Chisho-chan is now letting her guard down.
 
-    ("ここで鰍投げつければ、また無意識にバリアを張髓るか烽もしれない。†",
+    ("ここで鰍投げつければ、また無意識にバリアを張髓るかもしれない。",
     ""),
-    # If I throw a cricket here, I'm sure I'll unconsciously squeal the Balata Ria again.†
+    # If I throw a cricket here, I'm sure I'll unconsciously squeal the Balata Ria again.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("やってみる価値はある。†",
+    ("やってみる価値はある。",
     ""),
-    # It's worth trying.†
+    # It's worth trying.
 
-    ("オレは右濶手を振關り繧上げ、前を烽歩く琴音ち痰ゃんの頭に狙いをつけた。",
+    ("オレは右濶手を振關り上げ、前を歩く琴音ち痰ゃんの頭に狙いをつけた。",
     ""),
     # My head waved to my right and raised my arm, aiming at Kotone Chisho-chan's head as he walked in front of me.
 
-    ("浴距離は約３≠メートルくらい。",
+    ("距離は約３≠メートルくらい。",
     ""),
     # The bath distance is about 3 ≠ meter.
 
-    ("絶対に外さない翌距離だ。†",
+    ("絶対に外さない翌距離だ。",
     ""),
-    # It's the next distance that you'll never miss.†
+    # It's the next distance that you'll never miss.
 
     ("オレは思いきり振關りかぶり、",
     ""),
@@ -530,9 +530,9 @@ text_array = [
     ""),
     # Here we go to the ball ".
 
-    ("梶投げた！†",
+    ("梶投げた！",
     ""),
-    # I pitched Kaji!†
+    # I pitched Kaji!
 
     ("ポコーーーーーン！",
     ""),
@@ -546,9 +546,9 @@ text_array = [
     ""),
     # That sound made the ball bounce back as hard as it could.
 
-    ("ボールは見膜事に琴音ち痰ゃんの頭に命亦した。†",
+    ("ボールは見膜事に琴音ち痰ゃんの頭に命亦した。",
     ""),
-    # The ball also became life on Kotone's head.†
+    # The ball also became life on Kotone's head.
 
     ("琴音ち痰ゃんは、びっくりして、何哩事かと目をしばたいている。",
     ""),
@@ -566,9 +566,9 @@ text_array = [
     ""),
     # Kotone Chisho-ya has a face that looks like he's holding his head down and is shaking half a beso.
 
-    ("「…な、なにを？」†",
+    ("「…な、なにを？」",
     ""),
-    # "...What?"†
+    # "...What?"
 
     ("「あ、い、いや、そのぉ…」",
     ""),
@@ -586,19 +586,19 @@ text_array = [
     ""),
     # "Ahhhh!!!"
 
-    ("背續後から大きな声が聞こえ、オレは思寬わず肩をすくめた。†",
+    ("背續後から大きな声が聞こえ、オレは思寬わず肩をすくめた。",
     ""),
-    # A loud voice came to me after I turned to my back, and I shrugged without thinking about it.†
+    # A loud voice came to me after I turned to my back, and I shrugged without thinking about it.
 
-    ("校舎の汲窓から身を乗闖り出して叫ぶその大声の主は、志保だった。",
+    ("校舎の窓から身を乗闖り出して叫ぶその大声の主は、志保だった。",
     ""),
     # Shiho was the loud lilies who cried out of the window of the school building.
 
-    ("「見たっ、見た見た、見た墲わよ、あたし！	が翌女の子をいぢめるｌ郁健闢I瞬間を！」",
+    ("「見たっ、見た見た、見たわよ、あたし！	が翌女の子をいぢめるｌ郁健闢I瞬間を！」",
     ""),
     # "I saw it, I saw it, I saw it, I saw it, I saw it! I've had the moment when I bullied the girl the next time!"
 
-    ("「な、なにぃ！？」†",
+    ("「な、なにぃ！？」",
     ""),
     # "What?!?"
 
@@ -606,7 +606,7 @@ text_array = [
     ""),
     # "Come on a second."
 
-    ("そう言ったが≠早いか、志保は汲窓によじ繧上闖り、£鋳に飛び降闕りた。",
+    ("そう言ったが≠早いか、志保は窓によじ上闖り、鋳に飛び降闕りた。",
     ""),
     # He said that, but it was too early, Shiho leapt over to the Kumagome and jumped down to the cast.
 
@@ -614,7 +614,7 @@ text_array = [
     ""),
     # And then I'm starting to get better.
 
-    ("「お、おいおい…」†",
+    ("「お、おいおい…」",
     ""),
     # "Oh, hey..."
 
@@ -626,7 +626,7 @@ text_array = [
     ""),
     # That was Shiho's voice in front of her eyes.
 
-    ("「…あ、あのな、これには深〜い揩理由が…」",
+    ("「…あ、あのな、これには深〜い理由が…」",
     ""),
     # "...Ah, um, there's a deep reason for this..."
 
@@ -638,9 +638,9 @@ text_array = [
     ""),
     # "Dragonfly? Didn't it hurt?"
 
-    ("「…え、は、はい、べつに…」†",
+    ("「…え、は、はい、べつに…」",
     ""),
-    # "...Eh, yes, yeah..."†
+    # "...Eh, yes, yeah..."
 
     ("「お、おい、聞いてんのか！？	オレはべつにその子をいじめたんじ痰ゃなくて、ある重要な実験を｢｢」",
     ""),
@@ -650,7 +650,7 @@ text_array = [
     ""),
     # "Anyway, = apologise to this girl soon!!"
 
-    ("「だから、オレは、その、つまり…」†",
+    ("「だから、オレは、その、つまり…」",
     ""),
     # "So, I'm the one who's really......"
 
@@ -670,31 +670,31 @@ text_array = [
     ""),
     # "...Go, go <men."
 
-    ("諱取闔りあえず、オレは琴音ち痰ゃんに謝った。†",
+    ("諱取りあえず、オレは琴音ち痰ゃんに謝った。",
     ""),
-    # Without asking for his name, I apologized to Kotone Chisho-chan.†
+    # Without asking for his name, I apologized to Kotone Chisho-chan.
 
-    ("「なにが『ゴ＜メン』諱よっ！	ゴ＜メンで済めばケーサツはいらない墲わよ！」",
+    ("「なにが『ゴ＜メン』諱よっ！	ゴ＜メンで済めばケーサツはいらないわよ！」",
     ""),
     # "What is the name of 'Go<Men'! If you can just use Go<Men, you won't need a Casatsu!"
 
-    ("謝邇らせといて、なんち繧ゅー言い垂草だ。",
+    ("謝邇らせといて、なんちゅー言い垂草だ。",
     ""),
     # I apologize, and what a mess I'm saying.
 
-    ("「だ、だから、オレはな｢｢」†",
+    ("「だ、だから、オレはな｢｢」",
     ""),
-    # "That's why I'm so excited about it"†
+    # "That's why I'm so excited about it"
 
-    ("「…あんた、ａ高校生に烽もなって、やっていいことと悪いことの区別熾もつかないの？	ホラホラッ！	どうせ謝骼るんなら、もっと誠意を見せなさいよ！」",
+    ("「…あんた、ａ高校生にもなって、やっていいことと悪いことの区別熾もつかないの？	ホラホラッ！	どうせ謝骼るんなら、もっと誠意を見せなさいよ！」",
     ""),
     # "...You can't make a difference between good and bad things, as you've done to high school students? A banquet is a banquet! If you're going to apologize anyway, show more sincerity!"
 
-    ("志保のマシンガンばりの浮剣旧幕に、すっかり飲まれていた琴音ち痰ゃんだったが、そのうち、あまりに一箞方的に言甯われ続けるオレが気の毒になったのか、縺弱々しく弁阜してくれた。†",
+    ("志保のマシンガンばりの浮剣旧幕に、すっかり飲まれていた琴音ち痰ゃんだったが、そのうち、あまりに一箞方的に言甯われ続けるオレが気の毒になったのか、縺弱々しく弁阜してくれた。",
     ""),
-    # Kotone Chisho-yan had been completely consumed by Shiho's old floating sword curtain, which looked like a machine gun, but eventually he felt sorry for me as he was constantly being spoken in a completely different way, and he gave me a faint silence.†
+    # Kotone Chisho-yan had been completely consumed by Shiho's old floating sword curtain, which looked like a machine gun, but eventually he felt sorry for me as he was constantly being spoken in a completely different way, and he gave me a faint silence.
 
-    ("「…あの、さんは、べつに墲わたしをいじめていた墲わけじ痰ゃないです。…ただ、ちょっと、ふざけただけなんだと思います」",
+    ("「…あの、さんは、べつにわたしをいじめていたわけじ痰ゃないです。…ただ、ちょっと、ふざけただけなんだと思います」",
     ""),
     # "...Um, you know, you're just kidding me, but I think you're just kidding me."
 
@@ -702,7 +702,7 @@ text_array = [
     ""),
     # "Look, look! This girl's smother also said ""
 
-    ("「言ってねーだ！」†",
+    ("「言ってねーだ！」",
     ""),
     # "Please tell me b!"
 

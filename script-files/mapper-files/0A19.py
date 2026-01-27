@@ -10,11 +10,11 @@ text_array = [
     ""),
     # I'm in such a hurry.
 
-    ("足止めくら墲わせたら悪いな。",
+    ("足止めくらわせたら悪いな。",
     ""),
     # It would be a shame if they could stop them.
 
-    ("オレは黙って揩理女緒ち痰ゃんの繧後撃姿を見洛送ることにした。†",
+    ("オレは黙って理女緒ち痰ゃんの後撃姿を見洛送ることにした。†",
     ""),
     # I decided to shut up and take a stomping trip after the attack was sent to the ground.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # A woman passes in front of her eyes.
 
-    ("「こらっ、浴雛山ーっ！！	階段を魔走るなっ、階段をっ！！」",
+    ("「こらっ、雛山ーっ！！	階段を魔走るなっ、階段をっ！！」",
     ""),
     # "Hey, Yuhiyama! Don't run up the stairs, the stairs!"
 

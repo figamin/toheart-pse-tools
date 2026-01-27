@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Following the Gubanquet Lamar, there is another English language...
 
-    ("ああ〜っ、戟レミィがうらやましいぜ！†",
+    ("ああ〜っ、レミィがうらやましいぜ！†",
     ""),
     # Ahh, I'm so envious of you that Remy!†
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # First, I'll talk about English.
 
-    ("諱取闔りあえず、スペルと和訳で点を稼ごう。",
+    ("諱取りあえず、スペルと和訳で点を稼ごう。",
     ""),
     # Don't get your name in the story, and earn points by translating it into Japanese.
 
-    ("たしか以前、どこかの誰かが『冝日本の英皷語教迢育は間瘧違ってる』って言ってたな。",
+    ("たしか以前、どこかの誰かが『冝日本の英皷語教迢育は間違ってる』って言ってたな。",
     ""),
     # I'm sure someone else had said before, "In Japan's English language education is different."
 
-    ("オレ焜も同感だ。",
+    ("オレも同感だ。",
     ""),
     # I agree with my veteran.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Is Kaji the current company?
 
-    ("世界の宗教とか、文化とか、いまは覚えてるけど、驕夜には烽もう忘齧れちまいそうだな。",
+    ("世界の宗教とか、文化とか、いまは覚えてるけど、驕夜にはもう忘齧れちまいそうだな。",
     ""),
     # I remember now the religions and cultures of the world, but I don't think I'll ever forget about it on a night.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # The schedule for the current day has ended without any problems.
 
-    ("さっさと帰って汲昼寝で烽もするか…。†",
+    ("さっさと帰って昼寝でもするか…。†",
     ""),
     # I'll go home quickly and take a nap and take a hot pot...†
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # It's back.
 
-    ("「なんの用だ。今厓日の汲結果が聞きたいのか？」",
+    ("「なんの用だ。今厓日の結果が聞きたいのか？」",
     ""),
     # "What are you looking for? Do you want to hear the results of the day?"
 
-    ("「気になる墲わね」†",
+    ("「気になるわね」†",
     ""),
     # "You're curious about it"
 

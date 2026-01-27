@@ -2,11 +2,11 @@
 # Source file: 069B.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｃ	またｉえるよな、と聞く）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｃ	またえるよな、と聞く）",
     ""),
-    # (Muryuruchi, Scales Event 2F LV4) (I heard that I can get it again)†
+    # (Muryuruchi, Scales Event 2F LV4) (I heard that I can get it again)
 
-    ("「またｉえるよな」",
+    ("「またえるよな」",
     ""),
     # "I can do it again."
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Eh, that's..."
 
-    ("マルチはちょっと困った顔をする。†",
+    ("マルチはちょっと困った顔をする。",
     ""),
-    # Ruchi looks confused.†
+    # Ruchi looks confused.
 
     ("「………」",
     "…"),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # She can't tell a lie, so she immediately peers on her face.
 
-    ("…多分、もうｉえない。",
+    ("…多分、もうえない。",
     ""),
     # ...I probably can't get an i anymore.
 
@@ -38,25 +38,25 @@ text_array = [
     ""),
     # ...But it's hard to say for sure.
 
-    ("表﨣情が正直にそれを語っていた。†",
+    ("表﨣情が正直にそれを語っていた。",
     ""),
-    # The Circle was honestly speaking about it.†
+    # The Circle was honestly speaking about it.
 
     ("「そっか…」",
     ""),
     # "I see..."
 
-    ("オレは笑迴顔で、ふぅと息を吐いた。",
+    ("オレは笑顔で、ふぅと息を吐いた。",
     ""),
     # My heart sighed with a laughing face.
 
-    ("「｢｢で烽も、もしかしたら…ってこと烽もあるだ？」",
+    ("「｢｢でも、もしかしたら…ってこともあるだ？」",
     ""),
     # "'And maybe... so there's also some hot water b?"
 
-    ("「えっ？」†",
+    ("「えっ？」",
     ""),
-    # "Huh?" †
+    # "Huh?" 
 
     ("「出初いがあんな偶然だったからさ、きっと、また出初えるような気がするんだ」",
     ""),
@@ -66,16 +66,16 @@ text_array = [
     ""),
     # I said with a smile.
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「な？」",
     ""),
     # "What?"
 
-    ("「…は、はいっ！」†",
+    ("「…は、はいっ！」",
     ""),
-    # "...Yes!" †
+    # "...Yes!" 
 
 ]

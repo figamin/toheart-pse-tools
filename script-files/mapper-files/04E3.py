@@ -2,9 +2,9 @@
 # Source file: 04E3.txt
 
 text_array = [
-    ("（志保	好感度イベントＰＳ）†",
+    ("（志保	好感度イベントＰＳ）",
     ""),
-    # (Shiho Likeability Event PS)†
+    # (Shiho Likeability Event PS)
 
     ("そそ志保と待ち№合寘わせの桙時間だ。",
     ""),
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # Would you like to go out?
 
-    ("あいつ、遅れるとうるさいからな。†",
+    ("あいつ、遅れるとうるさいからな。",
     ""),
-    # He's noisy when he's late.†
+    # He's noisy when he's late.
 
     ("駅には５分前についた。",
     ""),
     # I was at the station five minutes before.
 
-    ("少なくと烽も、文蝠句は言甯われずにすみそうだ。",
+    ("少なくとも、文蝠句は言甯われずにすみそうだ。",
     ""),
     # At least, it seems that the phrases will not be able to be expressed.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Huh? ...Is it you?"
 
-    ("「遅い墲わよ」",
+    ("「遅いわよ」",
     ""),
     # "It's late."
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "I'm late, I'm a real person. I saw it, I was 5 minutes ago lol."
 
-    ("そう言って、駅の桙時計をゆびさす。†",
+    ("そう言って、駅の桙時計をゆびさす。",
     ""),
-    # With that in mind, he squeals at the station.†
+    # With that in mind, he squeals at the station.
 
-    ("「あたしは１５分前に駅についた墲わ」",
+    ("「あたしは１５分前に駅についたわ」",
     ""),
     # "I came to the station 15 minutes ago."
 
@@ -58,27 +58,27 @@ text_array = [
     ""),
     # "Yes, if the train just happens to be ≠ early, everyone will be ≠ Mee Jun Waku."
 
-    ("「くだらねえ揚げ足鞫取闔りやがって…」",
+    ("「くだらねえ揚げ足鞫取りやがって…」",
     ""),
     # "That's ridiculous, you're tampering with me..."
 
-    ("「面猪白い揚げ足と言って欲しい墲わね」†",
+    ("「面猪白い揚げ足と言って欲しいわね」",
     ""),
     # "I want you to say it's white frying feet for the boar."
 
-    ("志保は、待ちあ墲わせの桙時間にちょくちょく遅れてｗ磯翌驕B",
+    ("志保は、待ちあわせの桙時間にちょくちょく遅れてｗ磯翌驕B",
     ""),
     # Shiho waited for the time to go to the next day, so he was late lol.
 
-    ("あいつに言甯わせると、それ烽も目立つためのｍ寘戦なんだそうだ。",
+    ("あいつに言甯わせると、それも目立つためのｍ寘戦なんだそうだ。",
     ""),
     # It seems that if he lets him say it, it's a battle to make the hotter stand out.
 
-    ("ま、さすがに電車は待ってくれないから、時間どおりだったのだうけど。†",
+    ("ま、さすがに電車は待ってくれないから、時間どおりだったのだうけど。",
     ""),
-    # Well, the train wouldn't wait, so it was on time.†
+    # Well, the train wouldn't wait, so it was on time.
 
-    ("「と烽もかく、珍しくお前が遅れずにｗたんだ。オレが悪かったことにしてやる」",
+    ("「ともかく、珍しくお前が遅れずにｗたんだ。オレが悪かったことにしてやる」",
     ""),
     # "It's a bit like that, and you weren't slow, which is rare lol. I'll pretend that my anger was bad and tamper with it."
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "You're so honest..."
 
-    ("「いつ烽もな」†",
+    ("「いつもな」",
     ""),
     # "When is it hot?"
 
-    ("いつ烽もどおりのやり取闔りのあと、オレたちは１０桙時６分発の電車に乗闖り桙込んだ。",
+    ("いつもどおりのやり取りのあと、オレたちは１０桙時６分発の電車に乗闖り桙込んだ。",
     ""),
     # After the retarded exchange of things, the people boarded the train departing at 10:6am and frog.
 
@@ -102,25 +102,25 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("電車を一回謇乗闖り換え、１桙時間ほどゆられる。",
     ""),
     # I switched the train once and was able to relax for about a minute.
 
-    ("駅から烽歩いて１０分のとこで、目的地の『ツアーオブザソー堰ラーシステム』についた。†",
+    ("駅から歩いて１０分のとこで、目的地の『ツアーオブザソー堰ラーシステム』についた。",
     ""),
-    # A 10-minute walk from the station, we arrived at our destination, "Tour of the Saw Weir System."†
+    # A 10-minute walk from the station, we arrived at our destination, "Tour of the Saw Weir System."
 
     ("噤建物のｒは、妙にＳＦチックなｍ闕りだ。",
     ""),
     # The building's r is strangely science fiction-like m.
 
-    ("まんま未沫って感じ。†",
+    ("まんま未沫って感じ。",
     ""),
-    # It just feels like it's not splashed.†
+    # It just feels like it's not splashed.
 
     ("「、搭謫乗闖手続き済ませるんだって」",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "Oh, oh..."
 
-    ("ここなしか、志保の言葉燉もＳＦみたいだ。†",
+    ("ここなしか、志保の言葉燉もＳＦみたいだ。",
     ""),
-    # This is not the case, but Shiho's words also seem to be science fiction.†
+    # This is not the case, but Shiho's words also seem to be science fiction.
 
     ("・",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("シャャトルに乗闖り桙込んでからしばらくたって、諱ようやく離陸棊時間がやってきた。",
     ""),
@@ -154,25 +154,25 @@ text_array = [
     ""),
     # "I'm going to Uzono?"
 
-    ("窓際の志保が言う。†",
+    ("窓際の志保が言う。",
     ""),
-    # Shiho, who was at the window, said.†
+    # Shiho, who was at the window, said.
 
-    ("「行かねー諱よ。どうせ汲窓の外にＣＧとか流してるんだ？」",
+    ("「行かねー諱よ。どうせ窓の外にＣＧとか流してるんだ？」",
     ""),
     # "Don't you go, sir. Are you gonna play CGs out the window anyway?"
 
-    ("「っとに、夢のないこと言甯わないの」†",
+    ("「っとに、夢のないこと言甯わないの」",
     ""),
-    # "And you can't say anything that has no dreams" †
+    # "And you can't say anything that has no dreams" 
 
     ("やがて、シートに振動が伝崧わってきた。",
     ""),
     # Eventually, vibrations began to flow through the seat.
 
-    ("エンジン点火のアナウンスが聞こえる。†",
+    ("エンジン点火のアナウンスが聞こえる。",
     ""),
-    # I hear the engine ignition announcement.†
+    # I hear the engine ignition announcement.
 
     ("「おおっ」",
     ""),
@@ -186,15 +186,15 @@ text_array = [
     ""),
     # That's amazing.
 
-    ("ホントは嘯建物のｒのはずなのに、いったいどうやってんだ！？†",
+    ("ホントは嘯建物のｒのはずなのに、いったいどうやってんだ！？",
     ""),
-    # It's actually supposed to be the R of a building, but how on earth are they tampering with it??†
+    # It's actually supposed to be the R of a building, but how on earth are they tampering with it??
 
-    ("諱よく墲わからないうちに、窓の外の景色が下に消えていき、オレはシャャトルが飛んだことを知った。",
+    ("諱よくわからないうちに、窓の外の景色が下に消えていき、オレはシャャトルが飛んだことを知った。",
     ""),
     # Before I could tell the truth, the view outside the window disappeared below, and I learned that Shaattil had flew away.
 
-    ("驕夜空にまん丸な獅月が浮かんでいる…。",
+    ("驕夜空にまん丸な月が浮かんでいる…。",
     ""),
     # A round Shizuki floating in the arrogant night sky...
 
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # "That's amazing. Hey, I wonder which side is there?"
 
-    ("窓の下に見える夜景を指差す、志保。†",
+    ("窓の下に見える夜景を指差す、志保。",
     ""),
-    # Shiho points to the night view seen under the window.†
+    # Shiho points to the night view seen under the window.
 
     ("『本坙日はｃナイテッドスペースエアラインをごｗ用いただき、まことにありがとうございます。",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # After this, the aircraft will leave the Atmospheric Thunderstorm and fly to Venus, the first destination in the Yan, in a fast-paced flight.
 
-    ("そんなアナウンスが終尞わる頃、窓の外には青い地平武が見えていた。†",
+    ("そんなアナウンスが終尞わる頃、窓の外には青い地平武が見えていた。",
     ""),
-    # By the time the announcement was over, I could see a blue Chihori Takeru outside the window.†
+    # By the time the announcement was over, I could see a blue Chihori Takeru outside the window.
 
     ("「見て見て！	地昼は青かった、ってやつ？」",
     ""),
@@ -226,13 +226,13 @@ text_array = [
     ""),
     # "That's amazing..."
 
-    ("「星熕もいっぱい見える墲わよ〜っ」",
+    ("「星熕もいっぱい見えるわよ〜っ」",
     ""),
     # "I can see a lot of Starry Night."
 
-    ("空にはハッキリくっきりと星が光ってる。†",
+    ("空にはハッキリくっきりと星が光ってる。",
     ""),
-    # The sky is clearly shining with stars.†
+    # The sky is clearly shining with stars.
 
     ("こんなにたくさんの星を見骭るのは奄初めてだ。",
     ""),
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # When I looked under the window, I saw that which Cao Kingdom was, and the lights of the city were faint.
 
-    ("地平武の方を見骭ると、もう朝がｗそうだ。†",
+    ("地平武の方を見骭ると、もう朝がｗそうだ。",
     ""),
-    # Looking at the good side of the Horizons, it seems that morning is already lol.†
+    # Looking at the good side of the Horizons, it seems that morning is already lol.
 
     ("「………」",
     "…"),
@@ -258,39 +258,39 @@ text_array = [
     ""),
     # When you look at it like this, daytime is really beautiful...
 
-    ("たぶん『綺淏麗』なんて言葉は、こんなときに使うんだな。†",
+    ("たぶん『綺淏麗』なんて言葉は、こんなときに使うんだな。",
     ""),
-    # I think the word "kissuri" is probably used at times like this.†
+    # I think the word "kissuri" is probably used at times like this.
 
     ("なんて思ったりしてると、シャャトルは夜の部分を飛び越えて、昼の部分にやってきた。",
     ""),
     # Just as I was thinking that, Shaattil jumped over the night part and started tampering with the day part.
 
-    ("とたんに汲窓ガラスへ浮黒っぽいシャャッターが下濶りる。",
+    ("とたんに窓ガラスへ浮黒っぽいシャャッターが下濶りる。",
     ""),
     # Suddenly, a dark shatter salvaged to the banquet of Kumomagata.
 
-    ("シャャッターはサングラスみたく色がついているだけなので、とりあえず景色は見える。†",
+    ("シャャッターはサングラスみたく色がついているだけなので、とりあえず景色は見える。",
     ""),
-    # The shatter is just like the Sanguan banquet, so you can see the view for the time being.†
+    # The shatter is just like the Sanguan banquet, so you can see the view for the time being.
 
-    ("『ま烽もなく、太陽が見えます。宇薗印昼ﾔでの太陽光倹は地纈上に比べ非嵓常に強いため、サンシェードが降闕りた汲窓以外では直拠視しないようお願いいたします』†",
+    ("『まもなく、太陽が見えます。宇薗印昼ﾔでの太陽光倹は地纈上に比べ非嵓常に強いため、サンシェードが降闕りた窓以外では直拠視しないようお願いいたします』",
     ""),
     # "There's no hot water, and I can see the sun.The sunlight thrift at Uzono In noon is always stronger than the ground, so please do not view it directly on any window other than the sunshade that has been dropped.
 
-    ("そんなアナウンスの繧後、地昼のかげから見えてきた太陽のまぶしいこと。",
+    ("そんなアナウンスの後、地昼のかげから見えてきた太陽のまぶしいこと。",
     ""),
     # After the announcement came, the dazzling sun began to appear from the rocks at noon.
 
-    ("シェードが降闕りてて烽も強烈にまぶしい。",
+    ("シェードが降闕りてても強烈にまぶしい。",
     ""),
     # The shade is falling and the hot water is also extremely dazzling.
 
-    ("こり痰ゃ、まと烽もに見たら目がつぶれるな…。†",
+    ("こり痰ゃ、まともに見たら目がつぶれるな…。",
     ""),
-    # If you look at the hard phlegm and the bamboo shoots, your eyes will be crushed...†
+    # If you look at the hard phlegm and the bamboo shoots, your eyes will be crushed...
 
-    ("『当機はこれより、氈亜光速飛行に入闢ります。慣性消誌去梛時に揺齬れを感じることがございますので、シートベルトをご確認ください』†",
+    ("『当機はこれより、氈亜光速飛行に入闢ります。慣性消誌去梛時に揺齬れを感じることがございますので、シートベルトをご確認ください』",
     ""),
     # "The polishing machine will now be available for flights at the speed of light.You may feel a sense of confusion when the inertia is removed, so please check the sheet ber cry.
 
@@ -302,15 +302,15 @@ text_array = [
     ""),
     # Stars from the starry sky gather in front of each other.
 
-    ("しか烽も、縺後撃の方の星は赤っぽくて、前に行くにつれて黄色とか緑とかに変﨑わって、最纃後は青っぽい。",
+    ("しかも、縺後撃の方の星は赤っぽくて、前に行くにつれて黄色とか緑とかに変﨑わって、最纃後は青っぽい。",
     ""),
     # However, the star of Fukukata, which was hit by the stomp after the stomp, is reddish, and as you go forward it turns yellow or green, and at the very least it looks blue.
 
-    ("まるで虹だ。†",
+    ("まるで虹だ。",
     ""),
-    # It's like a rainbow.†
+    # It's like a rainbow.
 
-    ("『みなさま、当機は亜光速飛行に入闢りました。現在、時速１０億５千恊万キ鴻ロで飛行穀です。景色のゆがみはスターボウと呼ばれる亜光速現象で、異妤常ではございません』†",
+    ("『みなさま、当機は亜光速飛行に入闢りました。現在、時速１０億５千恊万キ鴻ロで飛行穀です。景色のゆがみはスターボウと呼ばれる亜光速現象で、異常ではございません』",
     ""),
     # "Everyone, the Massage aircraft has entered sub-light flight.Currently, it is flying at a speed of 1 billion 1,000 crore.The distortion of the scenery is a sub-light phenomenon known as a starbow, and is not a common occurrence.
 
@@ -322,9 +322,9 @@ text_array = [
     ""),
     # The F1 car is 300 kilometres per hour, right?
 
-    ("１０億キ鴻ロっていったい何キ鴻ロだ！？†",
+    ("１０億キ鴻ロっていったい何キ鴻ロだ！？",
     ""),
-    # One billion Kikoro is that so-called Kikoro!?†
+    # One billion Kikoro is that so-called Kikoro!?
 
     ("「すごいの？」",
     ""),
@@ -342,9 +342,9 @@ text_array = [
     ""),
     # "Really? I'll calculate it as a sputum."
 
-    ("「あんたしなさいよ」†",
+    ("「あんたしなさいよ」",
     ""),
-    # "Do it" †
+    # "Do it" 
 
     ("２、３分言い№合ってると、",
     ""),
@@ -358,13 +358,13 @@ text_array = [
     ""),
     # Venus is called "morning star" or something like that.
 
-    ("いつの間にか景色が烽もとに戻っていて、アナウンスが入った。",
+    ("いつの間にか景色がもとに戻っていて、アナウンスが入った。",
     ""),
     # Before I knew it, the scenery had returned to the hot springs and an announcement was made.
 
-    ("オレと志保は汲窓の外をのぞき桙込む。†",
+    ("オレと志保は窓の外をのぞき桙込む。",
     ""),
-    # I and Shiho peer out the window and peer in.†
+    # I and Shiho peer out the window and peer in.
 
     ("「あっ、あれ見てっ」",
     ""),
@@ -374,15 +374,15 @@ text_array = [
     ""),
     # As I looked, I saw a yellow-toned, nitrogen star on the other side of the gloomyly dazzling sun.
 
-    ("あれが烽金星か…。†",
+    ("あれが金星か…。",
     ""),
-    # Is that Hot Venus?†
+    # Is that Hot Venus?
 
     ("『｢｢濃硫酸の冾厚い雲に覆﨑われ、地表の様子を見骭ることはできません。",
     ""),
     # "They are covered by thick clouds of concentrated sulfuric acid, and we cannot see what is on the surface.
 
-    ("蛛大気は主に二酸化炭素で構成され、地表面は約９０気圧４５０度の高圧ｈ高温で、生命の存在は現在確認されておりません』†",
+    ("蛛大気は主に二酸化炭素で構成され、地表面は約９０気圧４５０度の高圧ｈ高温で、生命の存在は現在確認されておりません』",
     ""),
     # The atmosphere is mainly composed of carbon dioxide, and the surface of the earth is at a high pressure of about 90 atm, high pressure and high temperature of 450 degrees, and the existence of life has not been confirmed at the moment.
 
@@ -398,15 +398,15 @@ text_array = [
     ""),
     # As I said, I couldn't take my eyes off the scenery.
 
-    ("たとえ雲しか見えなくて烽も、こんなでっかくて珍しい烽ものを見せられち痰ゃ、見ない墲わけには行かない。",
+    ("たとえ雲しか見えなくても、こんなでっかくて珍しいものを見せられち痰ゃ、見ないわけには行かない。",
     ""),
     # Even if you can only see clouds, even if you can't see such a large and rare hot spring, you can't afford to go without seeing them.
 
-    ("ふたりして声熕もなく見兼ってしまう。†",
+    ("ふたりして声熕もなく見兼ってしまう。",
     ""),
-    # They both watch without any utterances.†
+    # They both watch without any utterances.
 
-    ("『みなさま、当機は烽金星を離齬れまして、氈次の目的地、火星へとｌかいます。",
+    ("『みなさま、当機は金星を離齬れまして、氈次の目的地、火星へとｌかいます。",
     ""),
     # "Everyone, Masuo has broken through Venus and heads to Mars.
 
@@ -414,15 +414,15 @@ text_array = [
     ""),
     # When entering sub-light flight, there may be some skewed positions, so please be careful."
 
-    ("またまた景色が虹色に変﨑わった。†",
+    ("またまた景色が虹色に変﨑わった。",
     ""),
-    # The scenery has once again turned into a rainbow colour.†
+    # The scenery has once again turned into a rainbow colour.
 
     ("「氈次は火星だってよ」",
     ""),
     # "It's Mars next."
 
-    ("「すごすぎて言葉になんない墲わね…」",
+    ("「すごすぎて言葉になんないわね…」",
     ""),
     # "It's so amazing that it's hard to put into words..."
 
@@ -434,19 +434,19 @@ text_array = [
     ""),
     # "Yes. I wonder if all the Hoshi-ke I can see now look like that?"
 
-    ("「そうか烽もな…」†",
+    ("「そうかもな…」",
     ""),
     # "I see, no hot..."
 
-    ("５分くらいたって、景色が烽もとに戻っていき、氈亜光速飛行が終尞わったと知れた。†",
+    ("５分くらいたって、景色がもとに戻っていき、氈亜光速飛行が終尞わったと知れた。",
     ""),
-    # About five minutes later, the scenery returned to the ground, and it was discovered that the speed of light flight had ended.†
+    # About five minutes later, the scenery returned to the ground, and it was discovered that the speed of light flight had ended.
 
-    ("『みなさま、正面に見えますのが、太陽系謖第四番惑星、火星でございます｢｢』†",
+    ("『みなさま、正面に見えますのが、太陽系謖第四番惑星、火星でございます｢｢』",
     ""),
-    # "Everyone can see in front of me, Mars, planet 4th in the solar system. """†
+    # "Everyone can see in front of me, Mars, planet 4th in the solar system. """
 
-    ("「あっ、今度は赤い墲わよ」",
+    ("「あっ、今度は赤いわよ」",
     ""),
     # "Ah, this time it's a red roe."
 
@@ -458,7 +458,7 @@ text_array = [
     ""),
     # That's Mars...
 
-    ("「なんか下の方が窒白いけど、瘁雪で烽も降ってんのか？」†",
+    ("「なんか下の方が窒白いけど、瘁雪でも降ってんのか？」",
     ""),
     # "The Fuku below is somehow white, but is it raining due to the miascism of snow?"
 
@@ -470,11 +470,11 @@ text_array = [
     ""),
     # Carbon dioxide is the main ingredient, and the average temperature is minus 50 degrees near the equator.
 
-    ("地昼と同じように四季があり、夏には最ｍ高１５度まで気温が繧上昇します。",
+    ("地昼と同じように四季があり、夏には最ｍ高１５度まで気温が上昇します。",
     ""),
     # Just like in the afternoon, there are four seasons, and in summer temperatures rise to a maximum of 15 degrees.
 
-    ("％極に見迪られる窒白い部分は、ドライアイスと氷です』†",
+    ("％極に見迪られる窒白い部分は、ドライアイスと氷です』",
     ""),
     # The nitrogen-white parts that are garnished at the peak of the % are the banquet rye ice and ice.
 
@@ -482,7 +482,7 @@ text_array = [
     ""),
     # "It's snow after all."
 
-    ("「まるっきり冷蔵庫状態ね…」†",
+    ("「まるっきり冷蔵庫状態ね…」",
     ""),
     # "It's completely in a fridge..."
 
@@ -494,9 +494,9 @@ text_array = [
     ""),
     # As the announcement came, the people in the seats on the left gathered together.
 
-    ("息をひそめて１分…。†",
+    ("息をひそめて１分…。",
     ""),
-    # Take a breath and take a minute...†
+    # Take a breath and take a minute...
 
     ("「あっ、＠た」",
     ""),
@@ -506,11 +506,11 @@ text_array = [
     ""),
     # Something small, whitish-like approaches.
 
-    ("あれが衛星なのか？†",
+    ("あれが衛星なのか？",
     ""),
-    # Is that a satellite?†
+    # Is that a satellite?
 
-    ("『ただいまご翌覧になられている烽ものが、衛星フォボスでございます。",
+    ("『ただいまご翌覧になられているものが、衛星フォボスでございます。",
     ""),
     # "The hot spring that is currently being viewed the next day is the satellite Phobos.
 
@@ -522,13 +522,13 @@ text_array = [
     ""),
     # As everyone is watching, a guy like a c-mo slowly moves too far...
 
-    ("とて烽も桙時速９怩万キ鴻ロなんてスピードには見えない。†",
+    ("とても桙時速９怩万キ鴻ロなんてスピードには見えない。",
     ""),
-    # However, even Hot Springs doesn't look like it's fast, at a speed of 90,000 Yen per hour.†
+    # However, even Hot Springs doesn't look like it's fast, at a speed of 90,000 Yen per hour.
 
-    ("『フォボスは全長２７キ鴻ロの曹卵型で、８桙時間かけて公転しております』†",
+    ("『フォボスは全長２７キ鴻ロの曹卵型で、８桙時間かけて公転しております』",
     ""),
-    # "Phobos is a 27-length, Cao-o-shaped egg-shaped product and orbits over 8 frames"†
+    # "Phobos is a 27-length, Cao-o-shaped egg-shaped product and orbits over 8 frames"
 
     ("「９怩万とか２７キ鴻ロとか、数嚼字がでかすぎて、潤ワケ夋わかんねえな」",
     ""),
@@ -538,21 +538,21 @@ text_array = [
     ""),
     # To me, it seems like a small stone b is too close to me.
 
-    ("「で烽もさ、言うほどでっかく見えない墲わよ？」",
+    ("「でもさ、言うほどでっかく見えないわよ？」",
     ""),
     # "And that's the kind of flower that doesn't look as big as you would say?"
 
-    ("志保熾もそう思ったらしい。†",
+    ("志保熾もそう思ったらしい。",
     ""),
-    # Apparently Shiho Taru thought that too.†
+    # Apparently Shiho Taru thought that too.
 
-    ("『みなさま、当機は火星を繧後にして、土星にｌかいます。",
+    ("『みなさま、当機は火星を後にして、土星にｌかいます。",
     ""),
     # "Everyone, the planet will leave Mars and will be on Saturn.
 
-    ("遠精方の土星へは亜光速飛行で約２桙時間ほどかかりますので、到湯までは機煖内遠ラウンジ窿や撃レストランで各自おくつぎのほどよしくお願いします』†",
+    ("遠精方の土星へは亜光速飛行で約２桙時間ほどかかりますので、到湯までは機内遠ラウンジ窿や撃レストランで各自おくつぎのほどよしくお願いします』",
     ""),
-    # It takes about two hours to fly to Saturn, a remote area, at a sub-light speed, so please make sure you have the opportunity to reach the distance from the remote lounge and the raid rest banquet run.'†
+    # It takes about two hours to fly to Saturn, a remote area, at a sub-light speed, so please make sure you have the opportunity to reach the distance from the remote lounge and the raid rest banquet run.'
 
     ("オレと志保はシートにｍ會高ｺ奄した。",
     ""),
@@ -562,15 +562,15 @@ text_array = [
     ""),
     # "Hey, is 2 frame time really 2 frame time?"
 
-    ("「マジ諠よ。ホントは盾ワープできるらしいんだけど、オールナイトは墲わざとゆっくり飛んで客に楽しんで烽もらうんだって」",
+    ("「マジ諠よ。ホントは盾ワープできるらしいんだけど、オールナイトはわざとゆっくり飛んで客に楽しんでもらうんだって」",
     ""),
     # "Really. It seems that you can actually warp shields, but in All Night, they'll purposely fly slowly and enjoy the customers and get hot."
 
-    ("「楽しむって、２桙時間煌も虹色の星空ながめて楽しいのか？」†",
+    ("「楽しむって、２桙時間煌も虹色の星空ながめて楽しいのか？」",
     ""),
     # "Would it be fun to enjoy it, as if you were watching the rainbow starry sky, even the two-framed time-glow?"
 
-    ("「あら、下には撃レストランとかあんのよ？	いくらで烽も桙時間つぶしできるじ痰ゃないの」",
+    ("「あら、下には撃レストランとかあんのよ？	いくらでも桙時間つぶしできるじ痰ゃないの」",
     ""),
     # "Oh, there's something like a Shokurest Banquet Run below? No matter how many times can you kill the time, even if it's hot, you can't get enough phlegm."
 
@@ -586,9 +586,9 @@ text_array = [
     ""),
     # "You should just sleep with the noshi b."
 
-    ("「おバカね〜あんた。カネ払っといて映謇画館で寝髏るくらいおバカね」†",
+    ("「おバカね〜あんた。カネ払っといて映謇画館で寝髏るくらいおバカね」",
     ""),
-    # "You idiot, you're so stupid. You're so stupid that you'll be able to sleep at Eiji Gakuen" †
+    # "You idiot, you're so stupid. You're so stupid that you'll be able to sleep at Eiji Gakuen" 
 
     ("「驕るせ。バカだうがなんだが、眠くなったら寝髏るからな。それまではつき№合ってやる」",
     ""),
@@ -606,9 +606,9 @@ text_array = [
     ""),
     # "Damn. You are destined to be unable to sleep when you came along."
 
-    ("「おめーなぁ…」†",
+    ("「おめーなぁ…」",
     ""),
-    # "Sorry..." †
+    # "Sorry..." 
 
     ("『みなさま、当機は火星崇域宙跼を離脱、土星へｌけて亜光速飛行に無末事雌闢りました。",
     ""),
@@ -622,17 +622,17 @@ text_array = [
     ""),
     # "Look, Fugata Lee Time. Let's go down."
 
-    ("「へいへい…」†",
+    ("「へいへい…」",
     ""),
-    # "Hey hey..." †
+    # "Hey hey..." 
 
     ("オレたちは奄ラウンジへ降闕り、バーで飲み物を鰍頼んだ。",
     ""),
     # The others dropped off to the Amami lounge and ordered a drink at the bar.
 
-    ("窓のそばでグラス片阨手に立ち話。†",
+    ("窓のそばでグラス片阨手に立ち話。",
     ""),
-    # He stood by the window and talked in a banquet.†
+    # He stood by the window and talked in a banquet.
 
     ("「なんでジャースなのよぉ」",
     ""),
@@ -650,9 +650,9 @@ text_array = [
     ""),
     # "Look, starbow, is it Starbow? That's pretty, isn't it?"
 
-    ("「わぁ、ほんと〜っ。…って、うまくはぐらかした墲わね…」†",
+    ("「わぁ、ほんと〜っ。…って、うまくはぐらかしたわね…」",
     ""),
-    # "Wow, really... I guess you've managed to get away with it..." †
+    # "Wow, really... I guess you've managed to get away with it..." 
 
     ("「で、今からどうすんだ？」",
     ""),
@@ -670,7 +670,7 @@ text_array = [
     ""),
     # "Cheers to the sparkling stars."
 
-    ("「なんだそり痰ゃ？」†",
+    ("「なんだそり痰ゃ？」",
     ""),
     # "What is that phlegm?"
 
@@ -686,9 +686,9 @@ text_array = [
     ""),
     # Chin.
 
-    ("諱よく墲わからない乾杯を交甯わすオレたち。†",
+    ("諱よくわからない乾杯を交甯わすオレたち。",
     ""),
-    # We all raves are toasting toasts that we don't really know.†
+    # We all raves are toasting toasts that we don't really know.
 
     ("「静かよね…」",
     ""),
@@ -702,9 +702,9 @@ text_array = [
     ""),
     # The lights in the weir lounge are squeezed, and Jazz is slightly washed away.
 
-    ("志保じ痰ゃないけど、雰囲気はいいよな。†",
+    ("志保じ痰ゃないけど、雰囲気はいいよな。",
     ""),
-    # Shihoji doesn't have any phlegms, but the atmosphere is nice.†
+    # Shihoji doesn't have any phlegms, but the atmosphere is nice.
 
     ("…なんて思ってると、",
     ""),
@@ -714,11 +714,11 @@ text_array = [
     ""),
     # "We're both alone in the sea of ​​stars..."
 
-    ("志保はすっかりムードに撃酔った顔で、諱よく墲わからないこと口膜走闡り始めた。",
+    ("志保はすっかりムードに撃酔った顔で、諱よくわからないこと口膜走闡り始めた。",
     ""),
     # Shiho looked completely drunk in the mood, and began to run through the Fuku-ocular membrane, something he didn't really know about.
 
-    ("「他の客煖もいっぱいるだ」†",
+    ("「他の客もいっぱいるだ」",
     ""),
     # "There are plenty of other customers b"
 
@@ -726,7 +726,7 @@ text_array = [
     ""),
     # "The lovers will join the guinen lath..."
 
-    ("「誰が恋人だ」†",
+    ("「誰が恋人だ」",
     ""),
     # "Who is your lover?"
 
@@ -734,11 +734,11 @@ text_array = [
     ""),
     # "A romantic romance..."
 
-    ("「けっ、お前の口から高ロマンチックだなんて言葉が聞けるなんてな」†",
+    ("「けっ、お前の口から高ロマンチックだなんて言葉が聞けるなんてな」",
     ""),
-    # "Ah, I can't help but hear the words "highly romantic" from your Fukuguchi"†
+    # "Ah, I can't help but hear the words "highly romantic" from your Fukuguchi"
 
-    ("「…あんた、さっきからやけに高絡む墲わね？",
+    ("「…あんた、さっきからやけに高絡むわね？",
     ""),
     # "...You've been a huge tangle of people for a while now, right?
 
@@ -750,13 +750,13 @@ text_array = [
     ""),
     # "fool"
 
-    ("とは言った烽ものの、場の雰囲気的にとて烽も口膜喧嘩竕やってる場㍼合じ痰ゃない。",
+    ("とは言ったものの、場の雰囲気的にとても口膜喧嘩竕やってる場㍼合じ痰ゃない。",
     ""),
     # That said, the atmosphere of the venue is that it's not entirely true that the Fuku-oral membrane fights.
 
-    ("オレと志保はなんとなく黙ってしまった。†",
+    ("オレと志保はなんとなく黙ってしまった。",
     ""),
-    # I and Shiho somehow went silent.†
+    # I and Shiho somehow went silent.
 
     ("・",
     ""),
@@ -766,11 +766,11 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("そそなにか揩喋窒うと思ったとき、",
+    ("そそなにか喋窒うと思ったとき、",
     ""),
     # When I thought I'd be talking about something,
 
@@ -794,11 +794,11 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("…これ、アルコールは入ってないよな？†",
+    ("…これ、アルコールは入ってないよな？",
     ""),
-    # ...This doesn't have any Ariru Call, right?†
+    # ...This doesn't have any Ariru Call, right?
 
-    ("「戟酔ってない墲わよ。マジで聞いてんの」",
+    ("「酔ってないわよ。マジで聞いてんの」",
     ""),
     # "I'm not drunk. I'm really listening."
 
@@ -822,9 +822,9 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("明坙日の天気を聞いたみたいにそっけない。†",
+    ("明坙日の天気を聞いたみたいにそっけない。",
     ""),
-    # It's cold like I heard the weather on Mingshun Day.†
+    # It's cold like I heard the weather on Mingshun Day.
 
     ("「お前はどうなんだよ」",
     ""),
@@ -834,7 +834,7 @@ text_array = [
     ""),
     # "Me? I'm not there, don't you have any phlegm?"
 
-    ("「他人鱒事みたいに…」",
+    ("「他人事みたいに…」",
     ""),
     # "Like someone else's trout..."
 
@@ -846,7 +846,7 @@ text_array = [
     ""),
     # "Does it mean to fall in love with others?"
 
-    ("「好きとか凾嫌いとかに限迪らずよ。そんな薰基準なんかなくて烽も、男と翌女ってやっていけると思うのよね」†",
+    ("「好きとか凾嫌いとかに限迪らずよ。そんな薰基準なんかなくても、男と翌女ってやっていけると思うのよね」",
     ""),
     # "It's not just about liking or dislikeing. I think that without such standards, men and the next woman can tamper with it."
 
@@ -858,7 +858,7 @@ text_array = [
     ""),
     # "why?
 
-    ("例えばさぁ、今あんたとここに遊びにｗてるのは、べつにあたしがあんたを好きだからって墲わけじ痰ゃないじ痰ゃない」",
+    ("例えばさぁ、今あんたとここに遊びにｗてるのは、べつにあたしがあんたを好きだからってわけじ痰ゃないじ痰ゃない」",
     ""),
     # For example, I'm playing with you right now lol, because I really like you, there's no reason to sputum or sputum."
 
@@ -866,7 +866,7 @@ text_array = [
     ""),
     # "It's obviously polished b"
 
-    ("「仮にあたしがあんたを好きだったとしたら、やっぱりここにｗ磯翌ｶ痰ゃない？	それとこれにどう痰違いがある墲わけ？」†",
+    ("「仮にあたしがあんたを好きだったとしたら、やっぱりここにｗ磯翌ｶ痰ゃない？	それとこれにどう痰違いがあるわけ？」",
     ""),
     # "If I had liked you, I'd be right here lol. Isn't there any phlegm the next day? And how does this have a difference in phlegm?"
 
@@ -886,7 +886,7 @@ text_array = [
     ""),
     # "Is that the standard and no phlegm?"
 
-    ("「オレにはお前の言うことが墲わからねえな」†",
+    ("「オレにはお前の言うことがわからねえな」",
     ""),
     # "I don't know what you're saying."
 
@@ -898,7 +898,7 @@ text_array = [
     ""),
     # "It's not related."
 
-    ("「そう言うならね、あたしにご教授する前に彼濫女のひとりで烽もｍって烽もらいたい烽もんだ墲わ」†",
+    ("「そう言うならね、あたしにご教授する前に彼女のひとりでもｍってもらいたいもんだわ」",
     ""),
     # "If that's the case, before I teach you, I want to have a hot spring with one of my ladies."
 
@@ -906,7 +906,7 @@ text_array = [
     ""),
     # "You're phlegm, it's irrelevant for the time being."
 
-    ("「わかんない墲わよ〜？」",
+    ("「わかんないわよ〜？」",
     ""),
     # "I don't know, you're gonna sniff?"
 
@@ -914,7 +914,7 @@ text_array = [
     ""),
     # A smile that seems like it's tampering with something, and it seems like it's gross on your stomach.
 
-    ("「なんだよ、その笑いは」†",
+    ("「なんだよ、その笑いは」",
     ""),
     # "What is that laugh?"
 
@@ -922,27 +922,27 @@ text_array = [
     ""),
     # "But-yeah!"
 
-    ("「気味の悪いрヤツだな」†",
+    ("「気味の悪いрヤツだな」",
     ""),
-    # "He's a creepy guy" †
+    # "He's a creepy guy" 
 
-    ("その繧後煬も惑星ю巡闖りなんて半分そっちのけで、おたがいの恋愛観論議で盛關り繧上がってしまった。",
+    ("その後煬も惑星ю巡闖りなんて半分そっちのけで、おたがいの恋愛観論議で盛關り上がってしまった。",
     ""),
     # After that, Hao was half way through the planets, and the group's views on love were all raised.
 
-    ("それで墲わかったことは、やっぱオレたちはｐと油ということだ。",
+    ("それでわかったことは、やっぱオレたちはｐと油ということだ。",
     ""),
     # So what I learned is that after all, the people who are really ecstatic are P and Fukuro.
 
-    ("それと、志保は自分の恋愛に興味はなくて、そのくせオレの恋愛に世話を焼こうとしていること、かな。†",
+    ("それと、志保は自分の恋愛に興味はなくて、そのくせオレの恋愛に世話を焼こうとしていること、かな。",
     ""),
-    # Also, I think Shiho is not interested in his own romance, and is trying to take care of his romance, despite his extreme romance.†
+    # Also, I think Shiho is not interested in his own romance, and is trying to take care of his romance, despite his extreme romance.
 
     ("志保は興味ないって言うけど、こういう話陂題をふってくること自体、興味あるってことなんじ痰ゃないかな。",
     ""),
     # Shiho says he's not interested, but I guess the fact that he's interested in bringing up such a topic is something that's not interesting.
 
-    ("あいつの揩理想の彼＃氏ってどんなタイプなんだうか…。",
+    ("あいつの理想の彼＃氏ってどんなタイプなんだうか…。",
     ""),
     # What type of guy is his ideal boyfriend #?
 

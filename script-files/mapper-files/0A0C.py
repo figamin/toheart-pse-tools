@@ -2,9 +2,9 @@
 # Source file: 0A0C.txt
 
 text_array = [
-    ("（Ｂ	がんばれよ。）†",
+    ("（Ｂ	がんばれよ。）",
     ""),
-    # (B: Good luck.)†
+    # (B: Good luck.)
 
     ("「ま、とにかくがんばれよ」",
     ""),
@@ -14,23 +14,23 @@ text_array = [
     ""),
     # "Yeah!"
 
-    ("にっこりと笑う揩理女緒ち痰ゃん。†",
+    ("にっこりと笑う理女緒ち痰ゃん。",
     ""),
-    # A smiley-smile.†
+    # A smiley-smile.
 
     ("「はは、元気いいな」",
     ""),
     # "Haha, you're so energetic."
 
-    ("「うんっ、п私、元気なだけが取闔り柄だから。あはは」",
+    ("「うんっ、п私、元気なだけが取り柄だから。あはは」",
     ""),
     # "Yeah, I'm the only thing I'm doing is being energetic. Ahaha."
 
-    ("「元気なのは、それだけで烽も魅力だぜ。その調子でがんばれよ」",
+    ("「元気なのは、それだけでも魅力だぜ。その調子でがんばれよ」",
     ""),
     # "The fact that you're healthy is just that Hot is also attractive. Do your best in that mood."
 
-    ("すると揩理女緒ち痰ゃんは少し赤くなって、",
+    ("すると理女緒ち痰ゃんは少し赤くなって、",
     ""),
     # Then the sputum turned a little red,
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Uh, yes! I'll do my best!"
 
-    ("と、目を輝かせた。†",
+    ("と、目を輝かせた。",
     ""),
-    # His eyes lit up.†
+    # His eyes lit up.
 
     ("「その調子でガンガン稼いだら、卒業までに家が嘯建つんじ痰ゃねーのか？」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Uh, I wonder if the house is irrelevant."
 
-    ("「まっ、そこまでいかないにして烽も、働いて烽金を稼ぐのはいいことだよな」",
+    ("「まっ、そこまでいかないにしても、働いて金を稼ぐのはいいことだよな」",
     ""),
     # "Well, it's good to not go that far and then work and earn money."
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # "Oh, that's right."
 
-    ("一瞬うつむいたが、†",
+    ("一瞬うつむいたが、",
     ""),
-    # I looked down for a moment, but †
+    # I looked down for a moment, but 
 
-    ("「諱よーしっ。じ痰ゃあ、今厓日燗もがんばうっ！	これ烽も≠早く配っち痰ゃうねっ！」",
+    ("「諱よーしっ。じ痰ゃあ、今厓日燗もがんばうっ！	これも≠早く配っち痰ゃうねっ！」",
     ""),
     # "All right. Let's do our best now, sunkan too b! This is also quick to deliver!!"
 
-    ("「おう、がんばれ。ジャャマすんの烽もなんだし、オレはこれで。またな」",
+    ("「おう、がんばれ。ジャャマすんのもなんだし、オレはこれで。またな」",
     ""),
     # "Oh, do your best. It's the hot springs of Jamasun, so this is my best. See you later."
 

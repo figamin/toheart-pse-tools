@@ -2,11 +2,11 @@
 # Source file: 0167.txt
 
 text_array = [
-    ("（あかり	エンディング１）閨（５獅月１２冾日）閨（授業拠）†",
+    ("（あかり	エンディング１）閨（５月１２冾日）閨（授業拠）†",
     ""),
     # (Akari Ending 1) (5th 12th day) (Lecture) (Lecture basis)
 
-    ("修学旅行熏も滞闡りなく終尞わり、またいつ烽もの学校生衰が始まった。†",
+    ("修学旅行熏も滞闡りなく終尞わり、またいつもの学校生衰が始まった。†",
     ""),
     # The school trip ended without a hitch, and at some point the decline in Hot School began.†
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # After that day of school.
 
-    ("ほとんどの生徒たちが帰った繧後煬も、うちのクラスは何人かが教室に盾居残闔り、修学旅行の話陂題に花を咲かせていた。",
+    ("ほとんどの生徒たちが帰った後煬も、うちのクラスは何人かが教室に盾居残り、修学旅行の話陂題に花を咲かせていた。",
     ""),
     # After most of the students left, some of our banquets remained in the classroom, and some of them were left to talk about school trips.
 
-    ("オレ焜もそれに混じっていた。",
+    ("オレもそれに混じっていた。",
     ""),
     # My rave throbbing was also mixed in with that.
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # The light of the sun creaking through the window became more slanderous and thin, and then the opening began.&
 
-    ("ほかのやつらが帰った繧後、オレはひとり、ぶらっと屋繪上へやってきた。",
+    ("ほかのやつらが帰った後、オレはひとり、ぶらっと屋繪上へやってきた。",
     ""),
     # After the other tampering people left, I strolled over to the house.
 
-    ("単に夕焼け空が綺淏麗だという揩理由でだ。",
+    ("単に夕焼け空が綺淏麗だという理由でだ。",
     ""),
     # It's simply because the sunset sky is beautiful.
 
-    ("少し話し疲齡れて、浴風に魔当たりたくなったということ烽もある。†",
+    ("少し話し疲齡れて、風に魔当たりたくなったということもある。†",
     ""),
     # It was a bit exhausted and it was also said that he felt like he wanted to hit the bathing style.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # I looked down through the fence.
 
-    ("グランドでは運動箔部のやつらが汗を流し、校蜊門からは下校する生徒たちの影が長く尾を引き揺齬れていた。",
+    ("グランドでは運動箔部のやつらが汗を流し、校門からは下校する生徒たちの影が長く尾を引き揺齬れていた。",
     ""),
     # At Geven Land, the people who were working on the sports club were sweating, and the shadows of students leaving school were long shaking and shaking.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # There is still a while before the final announcement of school leave.
 
-    ("オレは手すりに烽もたれ、空を見上げた。†",
+    ("オレは手すりにもたれ、空を見上げた。†",
     ""),
     # I leaned on the railing and looked up at the sky.†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # School trip during Golden Week.
 
-    ("立て続けの楽しいイベント焜も過ぎ獅去って、今週からは≠普段通闥りの生衰か。",
+    ("立て続けの楽しいイベントも過ぎ去って、今週からは≠普段通闥りの生衰か。",
     ""),
     # The continuous, fun event schedule has passed and has passed, and from this week onwards, the usual decline has come to an end.
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # Oh, I want to go back to the first ever golden week of the year.
 
-    ("これって、５獅月病ってやつか？†",
+    ("これって、５月病ってやつか？†",
     ""),
     # Is this the May Shizuki Disease tampering?†
 
-    ("にして烽も、修学旅行は楽しかった。",
+    ("にしても、修学旅行は楽しかった。",
     ""),
     # The school trip was fun too.
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # A memorable episode has been created, with great buddy.
 
-    ("さすが、ａ高校生衰最蜊大のビックイベントといったとこか。†",
+    ("さすが、ａ高校生衰最大のビックイベントといったとこか。†",
     ""),
     # As expected of B, it's the big event that A high school student has the worst decline.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # During the 4th Cau, I followed Akari with five days of trip, and took action with her.
 
-    ("明逍らかに以前鞫より接近したふたりに、♂史竡や志保熾も魔薄々ながらオレたちふたりの関係に気がついた様子だった。",
+    ("明逍らかに以前鞫より接近したふたりに、雅史竡や志保熾も魔薄々ながらオレたちふたりの関係に気がついた様子だった。",
     ""),
     # The two of them had been approaching more closely than the tan before, and although Masochist and Shiho Taru were both in a silly manner, it seemed that they had noticed the relationship between them and the others.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # Well, that's really good.
 
-    ("ふたりがつき№合い出したってこと、べつに隠してる墲わけじ痰ゃねーしな。†",
+    ("ふたりがつき№合い出したってこと、べつに隠してるわけじ痰ゃねーしな。†",
     ""),
     # The fact that the two of them have come together has come together, so there's no need to smear them all hiding.†
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # Meanwhile, I was able to realize how hard I felt towards Akari.
 
-    ("そう、あかりはオレにとって、なにより烽も大切な｢｢。†",
+    ("そう、あかりはオレにとって、なによりも大切な｢｢。†",
     ""),
     # Yes, Akari is important to me, and most importantly, Koto is ".†
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "Hmm."
 
-    ("あかり烽も目を細め、夕陽を見つめた。†",
+    ("あかりも目を細め、夕陽を見つめた。†",
     ""),
     # Akarika also squinted her eyes and stared at the sunset.†
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「食い物はうまいし、空気煖もうまい。こんなごち痰ゃごち痰ゃしたとことは別天地って感じだぜ」",
+    ("「食い物はうまいし、空気もうまい。こんなごち痰ゃごち痰ゃしたとことは別天地って感じだぜ」",
     ""),
     # "The food is delicious and the air is also good. It feels like this is a different place from b."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # I think it's already done."
 
-    ("「諱よし。じ痰ゃあ、帰闍りにで烽も取闔りにいくか」",
+    ("「諱よし。じ痰ゃあ、帰闍りにでも取りにいくか」",
     ""),
     # "All right. I'll give you a sputum, so I'll go and get some hot springs when I go home."
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "...Oh, already."
 
-    ("「まあ、で烽も、か墲わいい寝逅顔してたぜ」",
+    ("「まあ、でも、かわいい寝逅顔してたぜ」",
     ""),
     # "Well, and Hou also had a nice sleeping face."
 
@@ -286,11 +286,11 @@ text_array = [
     ""),
     # "...Choosh" †
 
-    ("真っ赤な夕陽を≠浴びながら、ふたりは寄闃りそって、驕暮れゆく町並みを見下奄した。†",
+    ("真っ赤な夕陽を≠びながら、ふたりは寄闃りそって、驕暮れゆく町並みを見下奄した。†",
     ""),
     # As they were exposed to the bright red sunset, the two of them leapt over the cityscape as they cried out.†
 
-    ("「п私たちふたりのアルバム。いつ烽もおたがいが写っていたらいいな」",
+    ("「п私たちふたりのアルバム。いつもおたがいが写っていたらいいな」",
     ""),
     # "We both crying rubam. I hope that whenever the two of us are in the picture."
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # Akari laughs with a tingly laugh.
 
-    ("オレ焜も同じように照齒れて微笑むと、そっと肩に手を回した。",
+    ("オレも同じように照齒れて微笑むと、そっと肩に手を回した。",
     ""),
     # My gangbang smiled in the same light, and gently put his hand around my shoulder.
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # It's almost summer.
 
-    ("取闔りあえず、夏休みになったら、いいんなとこ行こうぜ」",
+    ("取りあえず、夏休みになったら、いいんなとこ行こうぜ」",
     ""),
     # Let's go to the ib when summer vacation comes."
 
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # He nodded strongly.†
 
-    ("艨ゆるやかに翌風が≠吹き、あかりの柔迴らかな髪をさらさらと揺逞らしていった。†",
+    ("艨ゆるやかに翌風が≠吹き、あかりの柔らかな髪をさらさらと揺逞らしていった。†",
     ""),
     # The next wind gently blew, and Akari's soft, gentle hair was shaking and swaying.†
 
@@ -366,7 +366,7 @@ text_array = [
     ""),
     # "Oh, like, let's go" †
 
-    ("「…お祭闕りに烽も、行こうね」",
+    ("「…お祭闕りにも、行こうね」",
     ""),
     # "...Let's go to the festival as well."
 
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # "That's right."
 
-    ("「…花火に烽も、行こうね」",
+    ("「…花火にも、行こうね」",
     ""),
     # "...Let's go to the fireworks and the hot springs."
 
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # "Ou"†
 
-    ("「…いつまで烽も、ずっといっしょにいようね」",
+    ("「…いつまでも、ずっといっしょにいようね」",
     ""),
     # "...How long will you stay together forever?"
 
@@ -406,7 +406,7 @@ text_array = [
     ""),
     # The two have been in a terrible, vague, casual relationship with childhood friends, and have continued for ten beats and over the past few years.
 
-    ("兄喧のようでありながら、結局は他人で、友だち以繹上に親しいけど、恋人同士で烽もない。†",
+    ("兄喧のようでありながら、結局は他人で、友だち以繹上に親しいけど、恋人同士でもない。†",
     ""),
     # Although he is like a brother, he is in the end stranger and is close to his friends, but he is both lovers and is not a hot topic.†
 
@@ -414,11 +414,11 @@ text_array = [
     ""),
     # I've been in that relationship for a long time.
 
-    ("閨手を伸ばせばすぐ届く翌距離にいながら烽も、おたがいに越えてはならない一線だけは強く意識してきた。†",
+    ("閨手を伸ばせばすぐ届く翌距離にいながらも、おたがいに越えてはならない一線だけは強く意識してきた。†",
     ""),
     # Although the next distance that can be reached immediately if you reach the ball, I have been strongly conscious of the fact that everyone should not cross.†
 
-    ("で烽も、いまは痰違う。",
+    ("でも、いまは痰違う。",
     ""),
     # And now the phlegm is different.
 
@@ -434,15 +434,15 @@ text_array = [
     ""),
     # The two finally got into that kind of relationship.
 
-    ("あかりはオレにとって、なにより烽も大切な、かけがえのない翌女の子になった。†",
+    ("あかりはオレにとって、なによりも大切な、かけがえのない翌女の子になった。†",
     ""),
     # Akari became an irreplaceable girl for me, and most importantly, Hot is also a precious girl.†
 
-    ("いつ烽も変﨑わらない優しい瞳。",
+    ("いつも変﨑わらない優しい瞳。",
     ""),
     # Her gentle eyes never change even when she's hot.
 
-    ("￥迴らない素直な心。",
+    ("￥らない素直な心。",
     ""),
     # A honest heart that never goes through.
 
@@ -466,11 +466,11 @@ text_array = [
     ""),
     # And then there's a town where we've been romanced.†
 
-    ("これから烽も、ふたりはたくさんの思い出をこの町に盾刻んでいくことだう。",
+    ("これからも、ふたりはたくさんの思い出をこの町に盾刻んでいくことだう。",
     ""),
     # From now on, the two of them will be engraving many memories in this town.
 
-    ("これから烽も、ずっと…。†",
+    ("これからも、ずっと…。†",
     ""),
     # From now on, the hot spring will continue...†
 
@@ -526,7 +526,7 @@ text_array = [
     ""),
     # He nodded.
 
-    ("その笑迴顔は、まるで、柔迴らかな宝石のようだと思った。†",
+    ("その笑顔は、まるで、柔らかな宝石のようだと思った。†",
     ""),
     # His laughter-like face seemed like a soft gem.†
 
@@ -546,7 +546,7 @@ text_array = [
     ""),
     # The two have been able to graduate from the ambiguous relationship of childhood friends.
 
-    ("長かったひとつの季節が過ぎ獅去闍り、また、新しいべつの季節がやってきた。",
+    ("長かったひとつの季節が過ぎ去闍り、また、新しいべつの季節がやってきた。",
     ""),
     # A long season has passed and lions have passed, and another new season has come to a stomp.
 

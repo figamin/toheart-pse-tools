@@ -2,9 +2,9 @@
 # Source file: 0594.txt
 
 text_array = [
-    ("（葵	回秤数イベント６	選択繿後	Ａ）†",
+    ("（葵	回秤数イベント６	選択繿後	Ａ）",
     ""),
-    # (Aoi Scales Event 6 after selection A)†
+    # (Aoi Scales Event 6 after selection A)
 
     ("「この子のコーチだ！」",
     ""),
@@ -18,13 +18,13 @@ text_array = [
     ""),
     # "Coach? You?"
 
-    ("「そうだ！	葵ち痰ゃんを立派な一流の格闘家に育て繧上げるのがオレの使命なんだ！」",
+    ("「そうだ！	葵ち痰ゃんを立派な一流の格闘家に育て上げるのがオレの使命なんだ！」",
     ""),
     # "That's right! My mission is to raise Aoi Chisho-chan into a top-class martial artist!"
 
-    ("「…せ、諱先輩？」†",
+    ("「…せ、諱先輩？」",
     ""),
-    # "...Should I say, Senpai?"†
+    # "...Should I say, Senpai?"
 
     ("「いいか、葵！	このオレが必ずお前を立派な格闘家にしてやるからな！	ついてこい！」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("うお〜っ、これぞスポ根だぜ〜っ！†",
+    ("うお〜っ、これぞスポ根だぜ〜っ！",
     ""),
-    # Wow, this is the sporting force!†
+    # Wow, this is the sporting force!
 
     ("「なに馬鹿なこと言ってんのよ」",
     ""),
@@ -54,8 +54,8 @@ text_array = [
     ""),
     # Wow.
 
-    ("せっかく盛關り繧上がった謎の雰囲気だったが、坂下に一蹴されてしまった。†",
+    ("せっかく盛關り上がった謎の雰囲気だったが、坂下に一蹴されてしまった。",
     ""),
-    # The atmosphere was a mysterious atmosphere that had been thrilled with great success, but was dismissed by Sakashita.†
+    # The atmosphere was a mysterious atmosphere that had been thrilled with great success, but was dismissed by Sakashita.
 
 ]

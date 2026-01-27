@@ -2,9 +2,9 @@
 # Source file: 018A.txt
 
 text_array = [
-    ("（選択綜Ａ	やって烽もいいかな）†",
+    ("（選択綜Ａ	やってもいいかな）",
     ""),
-    # (Is it okay to do Chosen A and Hot?)†
+    # (Is it okay to do Chosen A and Hot?)
 
     ("「そうだな、そういうことなら、やるか」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Yeah, I'm gonna b."
 
-    ("「じ痰ゃ、そんときに、さっきの≠メニャーで烽も食岦わして烽もらおうか」",
+    ("「じ痰ゃ、そんときに、さっきの≠メニャーでも食岦わしてもらおうか」",
     ""),
     # "And then, let's eat some hot pot with the ≠menyar from earlier and get some hot pot."
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "I'm sure I'll just have other favorites from other Shichio."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「それと｢｢」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I know that, that's what I mean..."
 
-    ("「ポットでおモ茶を揩持ってくね」",
+    ("「ポットでおモ茶を持ってくね」",
     ""),
     # "Take Omo tea in the pot."
 

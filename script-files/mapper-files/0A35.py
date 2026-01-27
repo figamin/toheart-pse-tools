@@ -2,11 +2,11 @@
 # Source file: 0A35.txt
 
 text_array = [
-    ("（Ｃ	じ痰ゃあな。）†",
+    ("（Ｃ	じ痰ゃあな。）",
     ""),
-    # (C: It's phlegm.)†
+    # (C: It's phlegm.)
 
-    ("「じ痰ゃ、オレ、＝メシ食いに行くとこだから。またな」†",
+    ("「じ痰ゃ、オレ、＝メシ食いに行くとこだから。またな」",
     ""),
     # "I'm so excited, I'm going to eat food. See you later."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "ah.
 
-    ("理女緒ち痰ゃん烽もがんばれよ」",
+    ("理女緒ち痰ゃんもがんばれよ」",
     ""),
     # Rime Ochi Sphinja, do your best too."
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Yeah!"
 
-    ("ははっ、良い返抹事。†",
+    ("ははっ、良い返抹事。",
     ""),
-    # Haha, a good reply.†
+    # Haha, a good reply.
 
-    ("今厓日の汲昼£メシは何にすっかな｢｢。",
+    ("今厓日の昼メシは何にすっかな｢｢。",
     ""),
     # What's the lunch meal for the day of the day?
 

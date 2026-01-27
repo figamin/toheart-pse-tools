@@ -2,7 +2,7 @@
 # Source file: 0B1D.txt
 
 text_array = [
-    ("『セリオに質竡問』４獅月１９冾日匂",
+    ("『セリオに質竡問』４月１９冾日匂",
     ""),
     # "Qualifications on Segata Rio" 4th Lion's 19th Day
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Is that so? I'm sure Makruchi was the day before and it was the last day."
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("「研結葛所に帰ったら、マルチによしくって言っといてくれよな」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「♂うんだ？」",
+    ("「雅うんだ？」",
     ""),
     # "Maaaaaah b?"
 
@@ -38,20 +38,20 @@ text_array = [
     ""),
     # "Yes. Probably..."
 
-    ("「多分？」†",
+    ("「多分？」",
     ""),
-    # "perhaps?"†
+    # "perhaps?"
 
-    ("「わかりました。彼濫女にｉったときは伝えておきます」",
+    ("「わかりました。彼女にったときは伝えておきます」",
     ""),
     # "I understand. I'll let you know when I get it."
 
-    ("♂ったときは？",
+    ("雅ったときは？",
     ""),
     # What if you were male?
 
-    ("必ずｉうって墲わけじ痰ゃないのか。†",
+    ("必ずうってわけじ痰ゃないのか。",
     ""),
-    # Isn't it true that you have no phlegm?†
+    # Isn't it true that you have no phlegm?
 
 ]

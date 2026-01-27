@@ -2,17 +2,17 @@
 # Source file: 0435.txt
 
 text_array = [
-    ("（冝日付指闔定式回秤数型ＶＳイベント	志保ＶＳあかり）閨（選択綜	あかり）†",
+    ("（冝日付指定式回秤数型ＶＳイベント	志保ＶＳあかり）閨（選択綜	あかり）",
     ""),
-    # (Style Date-Registration Type Scales VS Event Shiho VS Akari) (Selection Akari)†
+    # (Style Date-Registration Type Scales VS Event Shiho VS Akari) (Selection Akari)
 
     ("「オレはな、家哩事燻もできて、諱よく気がつく子が好きかな」",
     ""),
     # "I'm a really good person who can smoke and smoke at home, so I think I like girls who often notice their feelings."
 
-    ("つまり、あかりが好みのタイプになるかな？†",
+    ("つまり、あかりが好みのタイプになるかな？",
     ""),
-    # In other words, will Akari be the type I like?†
+    # In other words, will Akari be the type I like?
 
     ("「ふ〜ん、へぇ〜。そーなんだぁ」",
     ""),
@@ -22,25 +22,25 @@ text_array = [
     ""),
     # Shiho is smiling groaningly.
 
-    ("「なんだよ、その妙な鰍リアクションは」†",
+    ("「なんだよ、その妙な鰍リアクションは」",
     ""),
-    # "What is that strange choriacci" †
+    # "What is that strange choriacci" 
 
     ("「べつにぃ。あんたそー艨ゆーのが好みなんだなって思ってさ」",
     ""),
     # "I'm not sure. I think you like that."
 
-    ("「そうにしては、ずいぶん墲わざとらしい反梍応じ痰ゃねえか」",
+    ("「そうにしては、ずいぶんわざとらしい反梍応じ痰ゃねえか」",
     ""),
     # "If you do that, you'll have to respond to a rather deliberate anti-wound situation."
 
-    ("「まあまあ、ふたりと烽も」",
+    ("「まあまあ、ふたりとも」",
     ""),
     # "Oh well, the two and the hot pot."
 
-    ("いつ烽もの痴話迄喧嘩ｉモードに入闢りかけたオレたちを、いつ烽ものようにあかりが止める。†",
+    ("いつもの痴話迄喧嘩モードに入闢りかけたオレたちを、いつものようにあかりが止める。",
     ""),
-    # Akari stops us as if we were about to enter i-mode when we were fighting even when we were talking about hot topics.†
+    # Akari stops us as if we were about to enter i-mode when we were fighting even when we were talking about hot topics.
 
     ("「ほら、見なさい。あかりの嬉しそうな顔を」",
     ""),
@@ -58,19 +58,19 @@ text_array = [
     ""),
     # Akari says with a confused look on her face.
 
-    ("多分、ここにいる全員、志保の質竡問の意味と、オレの嘯答えの意味を知ってるはずだ。†",
+    ("多分、ここにいる全員、志保の質竡問の意味と、オレの嘯答えの意味を知ってるはずだ。",
     ""),
-    # I'm sure everyone here knows what Shiho's quality questions mean and what my slut answers mean.†
+    # I'm sure everyone here knows what Shiho's quality questions mean and what my slut answers mean.
 
     ("「こら志保、はぐらかすんじ痰ゃねえよ」",
     ""),
     # "Hey Shiho, there's no phlegm."
 
-    ("で烽も、あえてそのことには触齔れない。",
+    ("でも、あえてそのことには触齔れない。",
     ""),
     # And even Hot can't touch it.
 
-    ("「あんたこそ、いちいちあたしの言うことを勘ぐらないで欲しい墲わね」†",
+    ("「あんたこそ、いちいちあたしの言うことを勘ぐらないで欲しいわね」",
     ""),
     # "You really don't want me to understand every single thing I'm saying."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "And you don't have to be that kind of phlegm, my name is. I wanted to say that there's a secret behind how you say it."
 
-    ("「なら、あんたの見膜当癈違いね。あたしはいつだって裏を見せて生きてんだから」†",
+    ("「なら、あんたの見膜当癈違いね。あたしはいつだって裏を見せて生きてんだから」",
     ""),
     # "Then you're wrong, you're a different story. I've always been living by showing my behind the scenes."
 
@@ -86,19 +86,19 @@ text_array = [
     ""),
     # "No phlegm, what's the other side of me?"
 
-    ("「あ、それお烽もし〜い」",
+    ("「あ、それおもし〜い」",
     ""),
     # "Ah, that's a bit b"
 
-    ("「面猪白くねえっ」†",
+    ("「面猪白くねえっ」",
     ""),
-    # "The boar isn't white" †
+    # "The boar isn't white" 
 
-    ("その繧後は、瘁例によってくだらない話で盛關り繧上がった。",
+    ("その後は、瘁例によってくだらない話で盛關り上がった。",
     ""),
     # After that, as usual, the story was rife with silly stories.
 
-    ("なんかうやむやになったけどオレ、あかりを彼濫女にしたいと思ってんのかな？◯",
+    ("なんかうやむやになったけどオレ、あかりを彼女にしたいと思ってんのかな？◯",
     ""),
     # It's become a bit of a pain, but I wonder if I want to make Akari a huge woman?◯
 

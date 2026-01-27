@@ -2,9 +2,9 @@
 # Source file: 08D6.txt
 
 text_array = [
-    ("（戟レミィ	好感度イベント	ＰＳ）閨（選択綜	ダ＜メだ）†",
+    ("（レミィ	好感度イベント	ＰＳ）閨（選択綜	ダ＜メだ）",
     ""),
-    # (Fall Remie Likeability Event PS) (Selecting)†
+    # (Fall Remie Likeability Event PS) (Selecting)
 
     ("「わりぃ、その冾日は都∮合寘わるくてな」",
     ""),
@@ -22,8 +22,8 @@ text_array = [
     ""),
     # "Wb≠at =a Enter b≠a high mb. It's a shame..."
 
-    ("戟レミィは『またね』と帰っていった。†",
+    ("レミィは『またね』と帰っていった。",
     ""),
-    # Karemy said, "See you soon."†
+    # Karemy said, "See you soon."
 
 ]

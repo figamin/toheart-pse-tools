@@ -2,21 +2,21 @@
 # Source file: 0818.txt
 
 text_array = [
-    ("（戟レミィ	冝日付イベント１）閨（４／２０（冝日）	デートの約束した）閨（校蜊門）†",
+    ("（レミィ	冝日付イベント１）閨（４／２０（冝日）	デートの約束した）閨（校門）",
     ""),
-    # (Karemi Pick Date Event 1) (4/20 (Kyo) Promised for a date) (Karemi Pick)†
+    # (Karemi Pick Date Event 1) (4/20 (Kyo) Promised for a date) (Karemi Pick)
 
     ("昼前に学校にｒいた。",
     ""),
     # I went to school before noon.
 
-    ("少し≠早いけど、弓道箔部はまだ終尞わっていないのだうか。†",
+    ("少し≠早いけど、弓道箔部はまだ終尞わっていないのだうか。",
     ""),
-    # It's a little quick, but the archery foil section hasn't finished yet.†
+    # It's a little quick, but the archery foil section hasn't finished yet.
 
-    ("冝日曜の学校って、オレには痰違和感があるな。†",
+    ("冝日曜の学校って、オレには痰違和感があるな。",
     ""),
-    # I have a sense of discomfort when I'm at school on Sundays.†
+    # I have a sense of discomfort when I'm at school on Sundays.
 
     ("…まだ終尞わらないのかな。",
     ""),
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "!"
 
-    ("「…おっ」†",
+    ("「…おっ」",
     ""),
-    # "...Oh" †
+    # "...Oh" 
 
-    ("戟レミィはニッコリ微笑んで、",
+    ("レミィはニッコリ微笑んで、",
     ""),
     # Karemi smiled nigglingly,
 
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "<Cutta. That's all, let's go, let's go!"
 
-    ("そう言って、戟レミィは腕を高絡めてきた。†",
+    ("そう言って、レミィは腕を高絡めてきた。",
     ""),
-    # With that in mind, Karemi started ties her arms together.†
+    # With that in mind, Karemi started ties her arms together.
 
     ("「おいおい、ここは学校だぞ」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # I'll say that, but I don't feel bad about it.
 
-    ("「Ｎ盾ｏ	吹ｐ窒ｒ盾ｏ撃ｌ高ｍ！」†",
+    ("「Ｎ盾ｏ	吹ｐ窒ｒ盾ｏ撃ｌ高ｍ！」",
     ""),
     # "N Shield O Blowing N Shield OBB Shot LB High M!"
 
@@ -86,11 +86,11 @@ text_array = [
     ""),
     # "Whew... I'm finally happy."
 
-    ("学校から出髀るまでに、同遠級生竦や繧上縁級生からさんざん冷笳やかされてしまった。",
+    ("学校から出髀るまでに、同遠級生竦や上縁級生からさんざん冷笳やかされてしまった。",
     ""),
     # By the time I left school, I was forced to be hesitant by my classmates and senior classmates.
 
-    ("戟レミィは男子の間で、ポイントｃ高いからな。",
+    ("レミィは男子の間で、ポイントｃ高いからな。",
     ""),
     # The points are high among boys.
 
@@ -102,8 +102,8 @@ text_array = [
     ""),
     # "What's up? = I'm in Tang quickly."
 
-    ("「お、おう」†",
+    ("「お、おう」",
     ""),
-    # "Oh, oh" †
+    # "Oh, oh" 
 
 ]

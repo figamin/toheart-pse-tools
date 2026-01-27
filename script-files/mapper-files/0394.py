@@ -2,9 +2,9 @@
 # Source file: 0394.txt
 
 text_array = [
-    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（選択綜Ａ	いっしょに帰汲うかと誘う。）閨（選択綜Ｂ	やっぱ下心があるから）†",
+    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（選択綜Ａ	いっしょに帰うかと誘う。）閨（選択綜Ｂ	やっぱ下心があるから）",
     ""),
-    # (Tomoko's Scale Event 2F LV1) (See the Likeability Event 8) (See Chosen A, who invites me to return to the Episode) (Selective Scale B, who has ulterior motives after all) †
+    # (Tomoko's Scale Event 2F LV1) (See the Likeability Event 8) (See Chosen A, who invites me to return to the Episode) (Selective Scale B, who has ulterior motives after all) 
 
     ("「やっぱ下心があるからだ」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I nodded, yeah, yeah.
 
-    ("「魅力的な翌女の子とお近づきになりたいってのは、ごく自然な気搴持ちだからな」†",
+    ("「魅力的な翌女の子とお近づきになりたいってのは、ごく自然な気搴持ちだからな」",
     ""),
     # "I want to get close to the attractive girl next time because I have a very natural mood."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Kun. You say seriously, b."
 
-    ("「いや、だから、真面目に嘯答えたつ烽もりなんだけど…」",
+    ("「いや、だから、真面目に嘯答えたつもりなんだけど…」",
     ""),
     # "It's a tampering, so it's a hot topic that really answered me..."
 
@@ -30,21 +30,21 @@ text_array = [
     ""),
     # "Where is it tampering?"
 
-    ("委員長はつんっとそっぽをｌく。†",
+    ("委員長はつんっとそっぽをｌく。",
     ""),
-    # The chairman peers off his head.†
+    # The chairman peers off his head.
 
     ("うーむ。",
     ""),
     # Hmm.
 
-    ("どう烽も言い方がまずいらしいな。",
+    ("どうも言い方がまずいらしいな。",
     ""),
     # Apparently, even if you say it, it's not good enough.
 
-    ("オレはコホンとせき払いした。†",
+    ("オレはコホンとせき払いした。",
     ""),
-    # I coughed away.†
+    # I coughed away.
 
     ("「あー、だからつまりだな、委員長と№仲良くしたいと思う気搴持ちに、掾理由なんてないってこった」",
     ""),
@@ -54,7 +54,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「それで烽も強いて揩理由を言えって言うんなら、やっぱり下心とかそういう嘯答えになっちまうんだよな」†",
+    ("「それでも強いて理由を言えって言うんなら、やっぱり下心とかそういう嘯答えになっちまうんだよな」",
     ""),
     # "If you're forced to give us a reason, then it's definitely the answer to ulterior motives and other things."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "In short, the chairman is so attractive."
 
-    ("「…п私が？」†",
+    ("「…п私が？」",
     ""),
     # "...Me?"
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # After all, T-persons are a good deal.
 
-    ("放っておいて烽も、オレみたいなよこしまｖ郎連中が墲わんさか集まってくるからな」",
+    ("放っておいても、オレみたいなよこしまｖ郎連中がわんさか集まってくるからな」",
     ""),
     # Leave it alone, and even the hot guys like me will gather together."
 
-    ("「п私に近づいてｗ磯翌鴦ﾍ、物好きなくんだけや」†",
+    ("「п私に近づいてｗ磯翌鴦ﾍ、物好きなくんだけや」",
     ""),
     # "Go near me lol Iso Isou no Miko, I'm tampering with it because I don't like things."
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "Yes. He's a group of people who are the chairman's cool, banquet-making banquet lactators."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「その点オレは、＝普段から横迚顔ばっか見てるからな。そのおかたい≠メガネに惑嶸わされず、ち痰ゃーんと素迹顔が見えるんだ」",
     ""),
@@ -114,13 +114,13 @@ text_array = [
     ""),
     # "Your pure face..."
 
-    ("「本末当は寂しがり屋だとか、そういうとこ烽も含めて、委員長の可愛いとこ、たくさん知ってるつ烽もりだぜ」",
+    ("「本末当は寂しがり屋だとか、そういうとこも含めて、委員長の可愛いとこ、たくさん知ってるつもりだぜ」",
     ""),
     # "They're the ones who know a lot about the cute side of the committee, including the loners of the chairman, and the other, are the ones I know."
 
-    ("からかうように笑って言った。†",
+    ("からかうように笑って言った。",
     ""),
-    # He said with a teasing laugh.†
+    # He said with a teasing laugh.
 
     ("「………」",
     "…"),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "Ah, hey."
 
-    ("オレを置き獅去闍りに魔走闡り出した。†",
+    ("オレを置き去闍りに魔走闡り出した。",
     ""),
-    # I left my throbbing and lion left and started to run wild.†
+    # I left my throbbing and lion left and started to run wild.
 
     ("「な、なんだ！？	おい、待てよ」",
     ""),

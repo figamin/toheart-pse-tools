@@ -2,7 +2,7 @@
 # Source file: 00E5.txt
 
 text_array = [
-    ("（４獅月２９冾日	朝）閨（とくにイベントがない場㍼合）閨（潤居間）†",
+    ("（４月２９冾日	朝）閨（とくにイベントがない場㍼合）閨（潤居間）",
     ""),
     # (April 29th Day, morning) (April 29th) (In particular, there are no events) (In the living room) (In the living room)
 
@@ -10,19 +10,19 @@ text_array = [
     ""),
     # Huh?
 
-    ("＝メシで烽も食おうと思ったら、カップめんのストックがなくなってる。",
+    ("＝メシでも食おうと思ったら、カップめんのストックがなくなってる。",
     ""),
     # =I was thinking of eating some hot pot as a meal, but the cup noodles were out of stock.
 
-    ("休みの冾日燗もインスタント食品という自分に問題を感じるが、それで烽もやはり補充だけはしとかないとな。◯",
+    ("休みの冾日燗もインスタント食品という自分に問題を感じるが、それでもやはり補充だけはしとかないとな。◯",
     ""),
     # I feel that the holiday season is a problem with me as an instant food, but I guess I have to replenish the hot season after all.◯
 
-    ("という墲わけで、メ買い物にｗた。",
+    ("というわけで、メ買い物にｗた。",
     ""),
     # So I went shopping lol.
 
-    ("堰ラー＝メンと、うどんと、ついでにやきそば烽もモ買っといた。",
+    ("堰ラー＝メンと、うどんと、ついでにやきそばもモ買っといた。",
     ""),
     # I bought some udon noodles, and some udon noodles, as well as some tanyaki soba noodles.
 
@@ -30,19 +30,19 @@ text_array = [
     ""),
     # This will be strong for a while.
 
-    ("貧乏くせえけど。†",
+    ("貧乏くせえけど。",
     ""),
-    # I'm poor though.†
+    # I'm poor though.
 
     ("「あれっ、」",
     ""),
     # "Huh."
 
-    ("偶然ばったりｉ史と出く墲わした。",
+    ("偶然ばったり史と出くわした。",
     ""),
     # I happened to run away and came across I-Hisashi.
 
-    ("閨手にはビニール袋を揩持っている。",
+    ("閨手にはビニール袋を持っている。",
     ""),
     # He holds a plastic bag in his hand.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "My name is, are you buying a gift wrapping spots too?"
 
-    ("「うん、ちょっと姉さんに鰍頼まれて…」†",
+    ("「うん、ちょっと姉さんに鰍頼まれて…」",
     ""),
     # "Yeah, my sister asked me to sardines..."
 
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "Haha, what? Kaji Ai Henzaki doesn't have a strong mindset for Chieko-san?"
 
-    ("「べつにそういう墲わけじ痰ゃ…」†",
+    ("「べつにそういうわけじ痰ゃ…」",
     ""),
     # "That's a good idea of ​​how it is..."
 
-    ("「で烽も人のことは言えねーか。オレ焜も千絵株さんには頭纉上がんねーもんな」",
+    ("「でも人のことは言えねーか。オレも千絵株さんには頭纉上がんねーもんな」",
     ""),
     # "And can't even talk about people either. I'm also really excited about Chie-san."
 
@@ -70,13 +70,13 @@ text_array = [
     ""),
     # Hahaha, laughs.
 
-    ("♂史の姉さん…",
+    ("雅史の姉さん…",
     ""),
-    # ♂Hi no Shi...
+    # 雅Hi no Shi...
 
-    ("千絵株さんとは、結構歳が離齬れているせいか、オレ焜も昔からどう烽も頭が繧上がらなかった。†",
+    ("千絵株さんとは、結構歳が離齬れているせいか、オレも昔からどうも頭が上がらなかった。",
     ""),
-    # Perhaps because I'm in a very different age with Chie Kabu, I've always been unable to get any brains on my mind.†
+    # Perhaps because I'm in a very different age with Chie Kabu, I've always been unable to get any brains on my mind.
 
     ("「いまは身重だからね、しょうがないよ」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Well."
 
-    ("などと話しつつ、オレとｉ史は並んで烽歩き出した。†",
+    ("などと話しつつ、オレと史は並んで歩き出した。",
     ""),
-    # While talking about this, my geisha and I began to walk alongside each other.†
+    # While talking about this, my geisha and I began to walk alongside each other.
 
     ("「部賦、今厓日は午前葬だったのか？」",
     ""),
@@ -114,15 +114,15 @@ text_array = [
     ""),
     # "It's tough to be a slut in the morning, you're a noshi too."
 
-    ("「楽しいからね、そうで烽もないよ」",
+    ("「楽しいからね、そうでもないよ」",
     ""),
     # "It's fun, and there's no hot water."
 
-    ("♂史はさ墲わやかに言った。†",
+    ("雅史はさわやかに言った。",
     ""),
-    # Makoto Shi said in a frank manner.†
+    # Makoto Shi said in a frank manner.
 
-    ("「最近、自分の繧弱点とかが見えてきたから、そこを伸ばしたいしね。",
+    ("「最近、自分の弱点とかが見えてきたから、そこを伸ばしたいしね。",
     ""),
     # "I've been seeing my weaknesses recently, so I want to develop that.
 
@@ -130,17 +130,17 @@ text_array = [
     ""),
     # There are a lot of tests by practice magazines, and the boars are white."
 
-    ("「…そうか」†",
+    ("「…そうか」",
     ""),
-    # "...I see." †
+    # "...I see." 
 
-    ("小学生のこまでは、どっちかっていうと鰍頼りない感じだったｉ史だが、最近はそんなとこはほとんど感じさせなくなった。",
+    ("小学生のこまでは、どっちかっていうと鰍頼りない感じだった史だが、最近はそんなとこはほとんど感じさせなくなった。",
     ""),
     # Up until elementary school student B, I had a rather unsatisfactory feel to its name, but recently I hardly feel that way.
 
-    ("オレなんかより、全然しっかりしてる。†",
+    ("オレなんかより、全然しっかりしてる。",
     ""),
-    # It's much more solid than my nerds.†
+    # It's much more solid than my nerds.
 
     ("「なに、？」",
     ""),
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # "Tsniff, well, that's right."
 
-    ("「？」†",
+    ("「？」",
     ""),
-    # "?"†
+    # "?"
 
-    ("「じ痰ゃあ、♂史」",
+    ("「じ痰ゃあ、雅史」",
     ""),
     # "Ah, ah, a history of the male."
 

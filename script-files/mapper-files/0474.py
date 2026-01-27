@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho Scales Event PS) (Selection So Iize)†
 
-    ("「いいぜ。あの店のアイスはオレ焜も汲結構気に入ってるからな」",
+    ("「いいぜ。あの店のアイスはオレも結構気に入ってるからな」",
     ""),
     # "That's fine. I really like the ice cream at that restaurant."
 
-    ("その店は駅前広鼾場に面した場鰹所にあって、広鼾場でヒマつぶししてる連中はみんな片阨手にそこのアイスを揩持ってるほどの人気だ。†",
+    ("その店は駅前広鼾場に面した場鰹所にあって、広鼾場でヒマつぶししてる連中はみんな片阨手にそこのアイスを持ってるほどの人気だ。†",
     ""),
     # The store is located in a bonito area facing the Gwangong area in front of the station, and all the people who are slaughtering their time at Gwangong area are holding ice cream from there in one place.†
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # The two of us went to the ice cream shop.†
 
-    ("「なあ、新＄メニャーってなにが揩増えたんだ？」",
+    ("「なあ、新＄メニャーってなにが増えたんだ？」",
     ""),
     # "Hey, what's more, the new $meny?"
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Um... = Mehkoron cocoa, watermelon coffee, and Fumaga tea and beef leek milk."
 
-    ("「げげっ…、まと烽もなのがひとつ烽もねえぞ？	そんな烽もん食えるんか？」",
+    ("「げげっ…、まともなのがひとつもねえぞ？	そんなもん食えるんか？」",
     ""),
     # "Ahhh... there's no one hot spring, isn't there? Can you eat hot springs like that?"
 
-    ("「とーこがどっこいしょ、これで汲結構評判いいのよね」",
+    ("「とーこがどっこいしょ、これで結構評判いいのよね」",
     ""),
     # "Toko b is so cute, and I've got a pretty good reputation for this."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I can't believe it..."
 
-    ("「あたし烽もしばらくは様子見だったのよ」",
+    ("「あたしもしばらくは様子見だったのよ」",
     ""),
     # "I also waited and watched for a while."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "That's right, but..."
 
-    ("「諱先にｌめておいた方がいい墲わよ？	どれにする？」",
+    ("「諱先にｌめておいた方がいいわよ？	どれにする？」",
     ""),
     # "The lucky one you've given at the beginning is better, right? Which one will you choose?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "I'm really, really pass."
 
-    ("「なにビビってんのよぉ。食べられない烽ものなんてр売阡り痰ゃしない墲わよ」",
+    ("「なにビビってんのよぉ。食べられないものなんてр売阡り痰ゃしないわよ」",
     ""),
     # "What are you scared of? I can't eat hot foods that can't be eaten, so I can't sell them."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "But, each thing goes well with crocodile ""†
 
-    ("「ダ＜メダ＜メ。あんたは烽もう逃げられないのよ。イсヤならあたしが選んじ痰ゃおっか？」",
+    ("「ダ＜メダ＜メ。あんたはもう逃げられないのよ。イсヤならあたしが選んじ痰ゃおっか？」",
     ""),
     # "Da<Meda<Me. You can't escape anymore. If that's the case, then I'll choose a phlegm?"
 

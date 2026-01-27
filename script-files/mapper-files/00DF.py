@@ -2,15 +2,15 @@
 # Source file: 00DF.txt
 
 text_array = [
-    ("（３獅月９冾日	イベントないなら）閨（冝日付イベントにする）閨（自分の部屋を掃恆除する）閨（自室）†",
+    ("（３月９冾日	イベントないなら）閨（冝日付イベントにする）閨（自分の部屋を掃恆除する）閨（自室）",
     ""),
-    # (If there is no event, if there is no event) (Make it a date event) (Make it a stove event) (Sweep your own room) (My room) †
+    # (If there is no event, if there is no event) (Make it a date event) (Make it a stove event) (Sweep your own room) (My room) 
 
     ("諱よし、自分の部屋を掃恆除しよう。",
     ""),
     # Okay, let's clean up your room.
 
-    ("諱取闔りあえず、まずは机の繧上を整攝理するか。",
+    ("諱取りあえず、まずは机の上を整攝理するか。",
     ""),
     # Without asking for a name, let's first settle the table.
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Well, this is here.
 
-    ("それは、そこ…と。†",
+    ("それは、そこ…と。",
     ""),
-    # That's there...†
+    # That's there...
 
     ("こいつはどこにしまおうか。",
     ""),
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # Slam.
 
-    ("扉を開く。†",
+    ("扉を開く。",
     ""),
-    # Open the door.†
+    # Open the door.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("う墲わち痰ゃ、デタラ＜メにつめ桙込んである。",
+    ("うわち痰ゃ、デタラ＜メにつめ桙込んである。",
     ""),
     # There's a lot of smears going on, and the feast is packed with fences.
 
@@ -50,29 +50,29 @@ text_array = [
     ""),
     # It's a bad habit of not thinking about what to do afterwards.
 
-    ("しょうがない、氈押し入齠れから始めるか。†",
+    ("しょうがない、氈押し入齠れから始めるか。",
     ""),
-    # There's no essay, so should I start with the smashing in?†
+    # There's no essay, so should I start with the smashing in?
 
-    ("£の物を引きずり出すと、おお、懐かしいアイテムがいっぱいだ。",
+    ("の物を引きずり出すと、おお、懐かしいアイテムがいっぱいだ。",
     ""),
-    # When you drag out the £ worth of things, you'll see a lot of nostalgic items.
+    # When you drag out the  worth of things, you'll see a lot of nostalgic items.
 
-    ("ひとつひとつに思い出がつまってる。†",
+    ("ひとつひとつに思い出がつまってる。",
     ""),
-    # Each one is packed with memories.†
+    # Each one is packed with memories.
 
     ("ああ、これこれ、懐かしいなあ。",
     ""),
     # Ah, this is so nostalgic.
 
-    ("あっ、これ烽も懐かしい。",
+    ("あっ、これも懐かしい。",
     ""),
     # Oh, this one reminds me of hot water.
 
-    ("うおっ、こっちは烽もっと懐かしい。†",
+    ("うおっ、こっちはもっと懐かしい。",
     ""),
-    # Wow, this one feels even more nostalgic.†
+    # Wow, this one feels even more nostalgic.
 
     ("・",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # ・
 
-    ("３０分纒後。†",
+    ("３０分纒後。",
     ""),
-    # After 30 minutes.†
+    # After 30 minutes.
 
     ("なにやってんだ、オレは。",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # I'm feeling nostalgic and it's all right.
 
-    ("掃恆除、掃恆除。†",
+    ("掃恆除、掃恆除。",
     ""),
-    # Sweeping, sweeping.†
+    # Sweeping, sweeping.
 
     ("氈次は本棚の整攝理だな。",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # Oh.
 
-    ("またまた懐かしい物が出てきましたよ。†",
+    ("またまた懐かしい物が出てきましたよ。",
     ""),
-    # Another nostalgic thing has come up.†
+    # Another nostalgic thing has come up.
 
     ("パラパラ開いて目を通す。",
     ""),
@@ -142,17 +142,17 @@ text_array = [
     ""),
     # I was wondering where it had gone, but I wondered if it was somewhere like this.
 
-    ("あっ、こいつ、てっきり捨てたと思ってたけど、怐奥に隠皷れてやがったのか。†",
+    ("あっ、こいつ、てっきり捨てたと思ってたけど、怐奥に隠皷れてやがったのか。",
     ""),
-    # Ah, I thought I'd throw this guy away, but he hid it deep inside and tampered with it.†
+    # Ah, I thought I'd throw this guy away, but he hid it deep inside and tampered with it.
 
     ("パラ、パラ…。",
     ""),
     # A feast, a feast...
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("・",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("思寬わず読破してしまった。",
     ""),
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "Same pattern again?"
 
-    ("どう烽も集薯力が足闡りないよな、オレは。†",
+    ("どうも集薯力が足闡りないよな、オレは。",
     ""),
-    # I don't know how much the potatoes are collected, I'm really excited.†
+    # I don't know how much the potatoes are collected, I'm really excited.
 
-    ("それより烽も、掃恆除、掃恆除。",
+    ("それよりも、掃恆除、掃恆除。",
     ""),
     # Furthermore, the hot water is also cleaned and removed.
 

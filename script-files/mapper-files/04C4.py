@@ -2,21 +2,21 @@
 # Source file: 04C4.txt
 
 text_array = [
-    ("（志保	回秤数イベント	寄闃り道２）†",
+    ("（志保	回秤数イベント	寄闃り道２）",
     ""),
-    # (Shiho Scales Event: Calling Road 2)†
+    # (Shiho Scales Event: Calling Road 2)
 
     ("「いようっ、志保」",
     ""),
     # "Stay, Shiho."
 
-    ("「おっ、じ痰ゃん。いいとこにｗた墲わね」",
+    ("「おっ、じ痰ゃん。いいとこにｗたわね」",
     ""),
     # "Oh, sputum. You're in the good spot b."
 
-    ("なにやら裏のありそうな笑みを浮かべて、志保が言う。†",
+    ("なにやら裏のありそうな笑みを浮かべて、志保が言う。",
     ""),
-    # Shiho says with a smile on his face that seems like something is going on about.†
+    # Shiho says with a smile on his face that seems like something is going on about.
 
     ("オレの行動は。",
     ""),

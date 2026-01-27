@@ -2,27 +2,27 @@
 # Source file: 0433.txt
 
 text_array = [
-    ("（冝日付指闔定式回秤数型ＶＳイベント	志保ＶＳあかり）閨（４／１８	２階）†",
+    ("（冝日付指定式回秤数型ＶＳイベント	志保ＶＳあかり）閨（４／１８	２階）",
     ""),
-    # (Style-date-reference-type sizing-size-type VS event Shiho VS Akari) (2nd floor, 4/18)†
+    # (Style-date-reference-type sizing-size-type VS event Shiho VS Akari) (2nd floor, 4/18)
 
     ("「やっほーっ、！」",
     ""),
     # "Ahhhh!"
 
-    ("廊下に出髀ると、あかりと志保がいた。†",
+    ("廊下に出髀ると、あかりと志保がいた。",
     ""),
-    # When I headed out into the hallway, Akari and Shiho were there.†
+    # When I headed out into the hallway, Akari and Shiho were there.
 
     ("「おう」",
     ""),
     # "Ou"
 
-    ("「ね、ね、今からふたりでрヤックに行くんだけど、あんた烽もいかない？」",
+    ("「ね、ね、今からふたりでрヤックに行くんだけど、あんたもいかない？」",
     ""),
     # "Hey, hey, we're going to go to yak together now, but can you please come too?"
 
-    ("「пヤックかぁ…。いまのрヤックグル＜メって、なんだっけ？」†",
+    ("「пヤックかぁ…。いまのрヤックグル＜メって、なんだっけ？」",
     ""),
     # "Are you пYak... What's the current рYakg crying? What is it?"
 

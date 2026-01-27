@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Light scale event 2F)
 
-    ("（Ａ	いっしょに帰汲うぜ）",
+    ("（Ａ	いっしょに帰うぜ）",
     ""),
     # (A I'll return to the essay)
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Yeah. What about sputum?"
 
-    ("「オレ焜も。どうせなら、いっしょに帰驪るか」",
+    ("「オレも。どうせなら、いっしょに帰驪るか」",
     ""),
     # "I'm also very excited. If I'm going to do it, I'll go back to Ebi."
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Really? Just wait a moment."
 
-    ("そう言うとあかりはいまｗた廊下を戻り、教室に入っていった。†",
+    ("そう言うとあかりはいまｗた廊下を戻り、教室に入っていった。",
     ""),
-    # When Akari said that, she returned the hallway where she had just lol and entered the classroom.†
+    # When Akari said that, she returned the hallway where she had just lol and entered the classroom.
 
     ("しばらくして、また戻ってくる。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Ah, yes."
 
-    ("ということで、今厓日はあかりといっしょに帰驪ることになった。†",
+    ("ということで、今厓日はあかりといっしょに帰驪ることになった。",
     ""),
-    # So, on the day I've just returned to Ebi with Akari.†
+    # So, on the day I've just returned to Ebi with Akari.
 
     ("ふたり並んで坂道を下驩る。",
     ""),
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # The same two return along the path they had gone to in the morning.
 
-    ("行き烽も帰闍り烽もいっしょ。",
+    ("行きも帰闍りもいっしょ。",
     ""),
     # We went to and from the hot springs and returned to the hot springs.
 
-    ("艨ゆえにｉ話のネタ焜も少なくなりがちだ。†",
+    ("艨ゆえに話のネタも少なくなりがちだ。",
     ""),
-    # Because of this, the number of stories in episode i tends to be less common.†
+    # Because of this, the number of stories in episode i tends to be less common.
 
-    ("だけど、べつに口伯数が減ったからと言って気まずくなる関係で烽もない。",
+    ("だけど、べつに口伯数が減ったからと言って気まずくなる関係でもない。",
     ""),
     # However, just because Fukuguchi's number has decreased, it's awkward, so there's no hot water.
 
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # That's all.
 
-    ("要は疲齡れない間柄って墲わけだ。†",
+    ("要は疲齡れない間柄ってわけだ。",
     ""),
-    # In short, a relationship that doesn't get tired is what happens.†
+    # In short, a relationship that doesn't get tired is what happens.
 
     ("「なあ、あかり」",
     ""),
@@ -94,13 +94,13 @@ text_array = [
     ""),
     # "what?"
 
-    ("「最近なんか、お烽もしれー本、読んだか？」",
+    ("「最近なんか、おもしれー本、読んだか？」",
     ""),
     # "Have you read a book recently?"
 
-    ("歩きながらオレが聞いた。†",
+    ("歩きながらオレが聞いた。",
     ""),
-    # I asked as I walked.†
+    # I asked as I walked.
 
     ("「…う〜ん、そうだなあ」",
     ""),
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Akari looked up at the sky, and after thinking about it for a moment,
 
-    ("「あ、そういえば、おモ父さんが『久しぶりにお烽もしいр推攝理小熄説だぞ』って貸してくれたのがあるけど、読む？」†",
+    ("「あ、そういえば、おモ父さんが『久しぶりにおもしいр推攝理小熄説だぞ』って貸してくれたのがあるけど、読む？」",
     ""),
     # "Ah, by the way, Omoda lent me a few words, "It's been a while since I last wrote a story about it being a blissful simulator," but would you like to read it?"
 
@@ -122,17 +122,17 @@ text_array = [
     ""),
     # "I'm sure he won or didn't win the Nani Nani Award."
 
-    ("「とったのか、とらなかったのか、はっきりし」†",
+    ("「とったのか、とらなかったのか、はっきりし」",
     ""),
-    # "It's clear whether you took it or not," †
+    # "It's clear whether you took it or not," 
 
-    ("「とにかくすごいんだって。ついでに本自体のボリャーム焜もすごくて、どのページ焜も嘯字がびっしりで、掾幅が３センチ焜もあるの」",
+    ("「とにかくすごいんだって。ついでに本自体のボリャームもすごくて、どのページも嘯字がびっしりで、掾幅が３センチもあるの」",
     ""),
     # "It's just amazing. Also, the book itself is also very impressive, with all the pages full of silences and a 3cm wide."
 
-    ("「お烽もしくなかったら凾嫌だな、その冾厚さは」†",
+    ("「おもしくなかったら凾嫌だな、その冾厚さは」",
     ""),
-    # "If it wasn't b, I wouldn't mind it, how strong it is" †
+    # "If it wasn't b, I wouldn't mind it, how strong it is" 
 
     ("「じ痰ゃあ今度、掾持ってきてあげるね」",
     ""),
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "You don't read it?"
 
-    ("「п私はち痰ゃんの繧後でいいよ。どうせ読むの遅いから」†",
+    ("「п私はち痰ゃんの後でいいよ。どうせ読むの遅いから」",
     ""),
     # "пI'm fine after the sphincter is over. I'm late to read it anyway."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "I see. I'll read it first, tell the perpetrator and tamper with it."
 
-    ("「あっ、もう、いじ墲わる〜」†",
+    ("「あっ、もう、いじわる〜」",
     ""),
     # "Ah, I'm going to get it right now~"
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # "a?"
 
-    ("「もし、とある旅行謐先で殺人鱒事庶件が発生して、ま墲わりの人がばたばた死んでって｢｢」",
+    ("「もし、とある旅行謐先で殺人事庶件が発生して、まわりの人がばたばた死んでって｢｢」",
     ""),
     # "If a murderous trout incident occurred at a certain travel destination, and a man who died suddenly died. ""
 
-    ("「おいおい、おだやかじ痰ゃねーな」†",
+    ("「おいおい、おだやかじ痰ゃねーな」",
     ""),
     # "Hey hey, there's no sputum and sputum."
 

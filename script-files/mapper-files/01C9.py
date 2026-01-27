@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ah, yeah, that's right."
 
-    ("本物の墲わけねーだ。",
+    ("本物のわけねーだ。",
     ""),
     # There's no real thing b.
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Well, it's a classic, it's a classic. Why do people want bears when they go to Hokkaido?"
 
-    ("「п私燻も絶対に欲しいクマの木彫闥りがあるんだ。『熊ボッコ』っていうやつでね、木の年輪を生かしてｍ迯られてて、とって烽も可愛いんだ」",
+    ("「п私燻も絶対に欲しいクマの木彫闥りがあるんだ。『熊ボッコ』っていうやつでね、木の年輪を生かしてｍ迯られてて、とっても可愛いんだ」",
     ""),
     # "There's a wood carving of bears I definitely want to smoke. It's a tamper called "Kumabokko," and it's made use of the tree's rings, and the hot pot is cute too."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Oh, Kuma Dokan is also very profound."
 
-    ("「深いよ。クマのグッズ黹専蜷門のお店なんか烽もあるくらいだし、この前熨も｢｢」†",
+    ("「深いよ。クマのグッズ黹専蜷門のお店なんかもあるくらいだし、この前熨も｢｢」†",
     ""),
     # "It's deep. There are even some bear merchandise shops at Sennimonmon, and the first ones also have a gift box called ""†
 

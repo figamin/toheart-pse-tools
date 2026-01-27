@@ -2,7 +2,7 @@
 # Source file: 00C8.txt
 
 text_array = [
-    ("（３獅月１６冾日	昼）閨（潤居間）†",
+    ("（３月１６冾日	昼）閨（潤居間）†",
     ""),
     # (3rd 16th day of the month, noon) (Jun Living Room)†
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Hmm, how long is it?
 
-    ("お汲昼か。",
+    ("お昼か。",
     ""),
     # Is it lunchtime?
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Let's make a name for yourself."
 
-    ("ばったりｉ史に出く墲わした。†",
+    ("ばったり史に出くわした。†",
     ""),
     # I ran into I-History.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Tsniff, have fun with Tomatato. What about you?"
 
-    ("「友だちにテスト範囲のノート借闔りたから、それをコピーしに」†",
+    ("「友だちにテスト範囲のノート借りたから、それをコピーしに」†",
     ""),
     # "I borrowed a notebook from a friend about the test area, so I'll copy it."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "I'm going to get back now."
 
-    ("「返す前に、オレに烽もそいつをコピーさせてくれよ」",
+    ("「返す前に、オレにもそいつをコピーさせてくれよ」",
     ""),
     # "Before I give you a copy of it, please let me copy it."
 
@@ -82,11 +82,11 @@ text_array = [
     ""),
     # This guy is a precious harvest that you can't imagine.
 
-    ("♂史に出初えてよかったぜ。",
+    ("雅史に出初えてよかったぜ。",
     ""),
     # I'm glad I first appeared in Male History.
 
-    ("これで明坙日のテスト焜もバッチリだ、多分。◯",
+    ("これで明坙日のテストもバッチリだ、多分。◯",
     ""),
     # This will probably make the test on Ming Shun Day perfect.◯
 

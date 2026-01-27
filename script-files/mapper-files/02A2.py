@@ -2,15 +2,15 @@
 # Source file: 02A2.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（選択綜Ｂ	そっとしておく）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（選択綜Ｂ	そっとしておく）",
     ""),
-    # (Seri°Kawa, Scaling Number Event 1F LV1)Seri (Selection B, Leave it alone)†
+    # (Seri°Kawa, Scaling Number Event 1F LV1)Seri (Selection B, Leave it alone)
 
     ("どうやら本に集薯してるらしいし、じ痰ゃましち痰ゃ悪いか。",
     ""),
     # Apparently they're all collected in books, so it's a bad idea to have phlegm.
 
-    ("オレはその場を立ち獅去った。◯",
+    ("オレはその場を立ち去った。◯",
     ""),
     # I stood there and lioned away.◯
 

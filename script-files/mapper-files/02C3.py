@@ -2,9 +2,9 @@
 # Source file: 02C3.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ３）閨（選択綜Ａ	声をかける。）閨（£鋳）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ３）閨（選択綜Ａ	声をかける。）閨（鋳）",
     ""),
-    # (Seri°Chuang, 1F, LV3)Seri (Select Sou A, call out.)Seri (£cast)†
+    # (Seri°Chuang, 1F, LV3)Seri (Select Sou A, call out.)Seri (cast)
 
     ("オレは渡闢り廊下を経由してｒ鋳に出た。◯",
     ""),
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "Oh, oh!"
 
-    ("近づいて声をかけると、諱先輩は顔をこっちにｌけた。†",
+    ("近づいて声をかけると、諱先輩は顔をこっちにｌけた。",
     ""),
-    # I approached him and called out to him, and his senior fellow looked over me.†
+    # I approached him and called out to him, and his senior fellow looked over me.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("「諱よっ、また冾日光′浴してたのか？」",
+    ("「諱よっ、また冾日光′してたのか？」",
     ""),
     # "My name is, were you in the sun again?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Senpai answered with Ko-kun.
 
-    ("「ほんと、好きだねえ、この場鰹所が。隣りに座って烽もいい？」",
+    ("「ほんと、好きだねえ、この場鰹所が。隣りに座ってもいい？」",
     ""),
     # "I really like this bonito spot. Is it okay to sit next to you and roast?"
 
@@ -38,19 +38,19 @@ text_array = [
     ""),
     # Ko-kun...
 
-    ("オレは先輩の横にｍ會高ｺ奄した。†",
+    ("オレは先輩の横にｍ會高ｺ奄した。",
     ""),
-    # I went to Mkai Takako next to my senior.†
+    # I went to Mkai Takako next to my senior.
 
     ("青空の広がる、いい天気だった。",
     ""),
     # The weather was nice with a blue sky.
 
-    ("穏竕やかな陽射しと、さ墲わやかな翌風が気搴持ちいい。",
+    ("穏竕やかな陽射しと、さわやかな翌風が気搴持ちいい。",
     ""),
     # The gentle sunlight and the gentle after-wind are thrilling.
 
-    ("諱先輩がこうしてしょっち繧ゅうひなたぼっこしてるの烽も、なんとなく墲わかるぜ。",
+    ("諱先輩がこうしてしょっちゅうひなたぼっこしてるのも、なんとなくわかるぜ。",
     ""),
     # I can understand how Senpai-senpai is doing this and basking in the air all the time.
 
@@ -58,17 +58,17 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("蛛大きく伸びをして、オレは横を見た。†",
+    ("蛛大きく伸びをして、オレは横を見た。",
     ""),
-    # My head stretched out loudly, and I looked at the side.†
+    # My head stretched out loudly, and I looked at the side.
 
     ("諱先輩は空の一点をぼーっと見上げていた。",
     ""),
     # Senpai Koto was staring at Sora's point casually.
 
-    ("まどんでいるように烽も見えるし、＝普段のままって気煖もする。†",
+    ("まどんでいるようにも見えるし、＝普段のままって気もする。",
     ""),
-    # He also looks like he's in a madoka b, and he's also excited to be as normal.†
+    # He also looks like he's in a madoka b, and he's also excited to be as normal.
 
     ("諱先輩と過ごせる短い桙時間。",
     ""),
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # As school was over, I got a car to pick me up from my senior's house lol Isohana, and it was only a few minutes long.
 
-    ("短いゆえの、蛛大切なひとときだよな。†",
+    ("短いゆえの、蛛大切なひとときだよな。",
     ""),
-    # It's a precious moment because of the short squeal.†
+    # It's a precious moment because of the short squeal.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("それにして烽も、キレイだよな。",
+    ("それにしても、キレイだよな。",
     ""),
     # And so, the hot springs are also super-stolen.
 
@@ -94,23 +94,23 @@ text_array = [
     ""),
     # As I look closely at it like this, I really feel that way.
 
-    ("艨ゆらゆら翌風に揺齬れる髪熹も、薄い唇熕も、肌の窒白さ烽も、もうみんなカンペキって感じ。",
+    ("艨ゆらゆら翌風に揺齬れる髪熹も、薄い唇熕も、肌の窒白さも、もうみんなカンペキって感じ。",
     ""),
     # The hair slurping and shaking with the next wind, the thin polished lips slurping, and the nitrogen and hot skin of the skin are all just fine.
 
-    ("生まれの痰違いってやつかね。†",
+    ("生まれの痰違いってやつかね。",
     ""),
-    # Is it because the difference in phlegm from birth is tampering?†
+    # Is it because the difference in phlegm from birth is tampering?
 
-    ("＝普通こんなにきれいだったら、逆に凾嫌味に思えたり烽もする烽もんだけど、その点、諱先輩は抜けっぷりが天然っぽいから、そういうのは感じないな。",
+    ("＝普通こんなにきれいだったら、逆に凾嫌味に思えたりもするもんだけど、その点、諱先輩は抜けっぷりが天然っぽいから、そういうのは感じないな。",
     ""),
     # = Normally, if he was this beautiful, he would seem rude or hot, but in that respect, I don't feel that way because Senpai's self-awareness is a natural way of getting off the mark, I don't feel that way.
 
-    ("つまり、見た目はきれいなｔ人系だけど、£身はか墲わいい系というか…。†",
+    ("つまり、見た目はきれいなｔ人系だけど、身はかわいい系というか…。",
     ""),
-    # In other words, he looks pretty, but his body is pretty and looks pretty...†
+    # In other words, he looks pretty, but his body is pretty and looks pretty...
 
-    ("あいか墲わらず、ぼーっとしてる先輩。",
+    ("あいかわらず、ぼーっとしてる先輩。",
     ""),
     # I'm not a fan, but a senior who is awkward.
 

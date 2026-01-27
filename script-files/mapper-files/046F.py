@@ -26,7 +26,7 @@ text_array = [
     ""),
     # A shorthand for rear engine Kaji Riad Banquet Live."
 
-    ("「知髓るかそんな烽もん。オレはマニアじ痰ゃねえ」†",
+    ("「知髓るかそんなもん。オレはマニアじ痰ゃねえ」†",
     ""),
     # "I wonder if that's the kind of hot thing. I'm a fan of you, so I have no phlegm."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "...Could you tell me what? The secret of RR."
 
-    ("てっきり『うんちく』を聞かされるのかと思ったら、意味深なことを言甯われ、少しだけオレは興味を揩持った。",
+    ("てっきり『うんちく』を聞かされるのかと思ったら、意味深なことを言甯われ、少しだけオレは興味を持った。",
     ""),
     # Just as I thought he would be hearing "poo" something, he was told something meaningful and I was a little interested in it.
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "You're shaking my ass? You're trying to cheat on me?"
 
-    ("いい加減なことを≠吹き桙込んで、あとで笑い烽ものにするのは志保の得意技だ。†",
+    ("いい加減なことを≠吹き桙込んで、あとで笑いものにするのは志保の得意技だ。†",
     ""),
     # Shiho's specialty is to do things casually and then make them laugh later.†
 
-    ("すると『瘁違う墲わよ』と手のひらを横につきだして、",
+    ("すると『瘁違うわよ』と手のひらを横につきだして、",
     ""),
     # Then he said, "It's a different roar," and pointed his palm to the side,
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # He was thoroughly informed of how uneasy Luche, who had a heavy ass, was on the curve.†
 
-    ("「…あのな、それは秘密で烽もなんで烽もねえよ。ポルチェの№欠点だ」",
+    ("「…あのな、それは秘密でもなんでもねえよ。ポルチェの№欠点だ」",
     ""),
     # "...Um, that's a secret, it's not a hot spring or hot spring. It's a No. 1 flaw in Pokryu Rutche."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Is it better now? What are you doing to hide the old days?"
 
-    ("「それ烽もそうね…」†",
+    ("「それもそうね…」†",
     ""),
     # "That's the case with Hot..."
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # "Don't be convinced by yourself."
 
-    ("「で烽もさで烽もさ、カルラ４っていうのは｢｢」",
+    ("「でもさでもさ、カルラ４っていうのは｢｢」",
     ""),
     # "Then it's hot and hot, the hot and hot, and the name "Crying Feast 4" is ""
 
-    ("「…わかった墲わかった。お前が車好きなのはよーく墲わかった。小藷しい話しは他でやってくれ」",
+    ("「…わかったわかった。お前が車好きなのはよーくわかった。小藷しい話しは他でやってくれ」",
     ""),
     # "...I understand, I understand. I understand that you love cars. Please tamper with the fake stories elsewhere."
 

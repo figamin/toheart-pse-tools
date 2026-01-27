@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Shiho's bad condition is about V.†
 
-    ("ま、嬉しいのか悲しいのかよく墲わからないが、同士がいるってのは心強い。",
+    ("ま、嬉しいのか悲しいのかよくわからないが、同士がいるってのは心強い。",
     ""),
     # Well, I don't really know if they're happy or sad, but it's encouraging to have friends.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # What's the reason Kaji relationsman is Shiho...†
 
-    ("オレたちは、解けなかった問題をおたがいに言い№合って、どれくらい間瘧違ってるかを確かめた。",
+    ("オレたちは、解けなかった問題をおたがいに言い№合って、どれくらい間違ってるかを確かめた。",
     ""),
     # We all said the tampering questions that we couldn't solve and answered them, and we decided to see how different it was.
 
-    ("噤答え№合寘わせならと烽もかく、不正解㊨合寘わせっての烽も、変な話だな。◯",
+    ("噤答え№合寘わせならともかく、不正解㊨合寘わせってのも、変な話だな。◯",
     ""),
     # It's a strange story to say that if you're going to give a single answer, then the answer to being incorrect is also a strange story.◯
 

@@ -2,13 +2,13 @@
 # Source file: 0532.txt
 
 text_array = [
-    ("（カレンダーを５獅月１０冾日までめくる）閨（青空）†",
+    ("（カレンダーを５月１０冾日までめくる）閨（青空）",
     ""),
     # (Change the calendar until 5th day of the 10th day of the 10th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th
 
-    ("そして、楽しい冾日々はあっという間に過ぎ獅去闍り、修学旅行は滞闡りなく終了した。†",
+    ("そして、楽しい冾日々はあっという間に過ぎ去闍り、修学旅行は滞闡りなく終了した。",
     ""),
-    # And the fun days passed by in a flash, and the school trip ended without a hitch.†
+    # And the fun days passed by in a flash, and the school trip ended without a hitch.
 
     ("「じ痰ゃあな」",
     ""),
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # A phlegm, a phlegm... gacha.
 
-    ("「ただいまー…」†",
+    ("「ただいまー…」",
     ""),
-    # "I'm home..."†
+    # "I'm home..."
 
-    ("その冾日の夕菶方ご、オレは久絜方ぶりの我が家へと戻ってきた。†",
+    ("その冾日の夕菶方ご、オレは久絜方ぶりの我が家へと戻ってきた。",
     ""),
-    # On the evening of the day, I returned to my house, having been the first to die.†
+    # On the evening of the day, I returned to my house, having been the first to die.
 
-    ("荷物をテーブルの繧上に置き、倒齠れるようにソファーにｍ會高ｺ奄す。",
+    ("荷物をテーブルの上に置き、倒齠れるようにソファーにｍ會高ｺ奄す。",
     ""),
     # Place your luggage on the table and place it on the sofa so that you can collapse it.
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Heh..."
 
-    ("ひと息つく。†",
+    ("ひと息つく。",
     ""),
-    # Take a break.†
+    # Take a break.
 
     ("やっぱ、わが家が一番飼落ちｒくよな〜…。",
     ""),
@@ -50,29 +50,29 @@ text_array = [
     ""),
     # The moment I let my guard down, fatigue suddenly surged over me.
 
-    ("いい楽しかったけど、そのぶん疲齡れ烽もたまってる。",
+    ("いい楽しかったけど、そのぶん疲齡れもたまってる。",
     ""),
     # It was fun to have a big buddy, but that made me feel tired and hot.
 
-    ("このまま一眠りしちまうか。†",
+    ("このまま一眠りしちまうか。",
     ""),
-    # I wonder if I'll just slept like this.†
+    # I wonder if I'll just slept like this.
 
-    ("ふあ〜っと大きなあくびをしたとき、ふと、テーブルの繧上のｎ袋が目に入った。",
+    ("ふあ〜っと大きなあくびをしたとき、ふと、テーブルの上のｎ袋が目に入った。",
     ""),
     # As I yawned a huge slut, I suddenly saw the n bag above the tape cry.
 
-    ("£は葵ち痰ゃんへのおみやげが入っている。",
+    ("は葵ち痰ゃんへのおみやげが入っている。",
     ""),
-    # £ contains smears to Aoi Chisho-chan.
+    #  contains smears to Aoi Chisho-chan.
 
     ("…葵ち痰ゃん。",
     ""),
     # ...Aoi Chishonan.
 
-    ("いま、なにしてるだう。†",
+    ("いま、なにしてるだう。",
     ""),
-    # What are you doing now?†
+    # What are you doing now?
 
     ("今厓日は土曜坥日。",
     ""),
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # Five gazes at 30am.
 
-    ("この桙時間なら、きっとまだ練習をやってるはずだ。†",
+    ("この桙時間なら、きっとまだ練習をやってるはずだ。",
     ""),
-    # If it's this time, he's probably still tampering with good fortune practice.†
+    # If it's this time, he's probably still tampering with good fortune practice.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("なんだか無性に葵ち痰ゃんにｉいたくなってきた。",
+    ("なんだか無性に葵ち痰ゃんにいたくなってきた。",
     ""),
     # I'm starting to feel like I want to be a member of Aoi Chisho-chan.
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # Oh well.
 
-    ("おみやげの袋を手に取闔り、起きあがった。",
+    ("おみやげの袋を手に取り、起きあがった。",
     ""),
     # He grabbed the bag of smug smudges and got up.
 
-    ("こいつを届けるのを口実に、♂いに行ってみるか。◯",
+    ("こいつを届けるのを口実に、雅いに行ってみるか。◯",
     ""),
     # Let's go and go to Mama, using the lucky excuse to deliver this guy.◯
 
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # I'm sure they're still practicing fortune.
 
-    ("そそ、サンドバッグを蹴髀る音が…。†",
+    ("そそ、サンドバッグを蹴髀る音が…。",
     ""),
-    # And then there was a sound of kicking a punching bag...†
+    # And then there was a sound of kicking a punching bag...
 
     ("「………」",
     "…"),
@@ -138,23 +138,23 @@ text_array = [
     ""),
     # strange.
 
-    ("今厓日は烽もう帰っちまったのか。",
+    ("今厓日はもう帰っちまったのか。",
     ""),
     # Has he returned now?
 
-    ("辺阨りを見回しつつ、近づいていくと…。†",
+    ("辺阨りを見回しつつ、近づいていくと…。",
     ""),
-    # As I looked around at the baekket, I approached...†
+    # As I looked around at the baekket, I approached...
 
     ("「あ、なんだ、いるじ痰ゃん」",
     ""),
     # "Ah, what? I have you sputum."
 
-    ("葵ち痰ゃんはいた。†",
+    ("葵ち痰ゃんはいた。",
     ""),
-    # There was Aoi Chisho-chan.†
+    # There was Aoi Chisho-chan.
 
-    ("夕陽に照迴らされたお堂の前で、小さくヒザを抱えて座闕り、ぼんやりとなにやら考えごとをしていた。",
+    ("夕陽に照らされたお堂の前で、小さくヒザを抱えて座闕り、ぼんやりとなにやら考えごとをしていた。",
     ""),
     # In front of the hall, illuminated by the sunset, he sat with his small knees, sniffing and doing whatever he had to do was dodge and think about it.
 
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # It seems like it's a good idea to take a break.
 
-    ("オレにはまだ気づいてない。†",
+    ("オレにはまだ気づいてない。",
     ""),
-    # I haven't noticed my ecstasy yet.†
+    # I haven't noticed my ecstasy yet.
 
     ("…諱よし。",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # Here's one thing I'm terrified and frustrated.
 
-    ("そーっと足音を忍ばせつつ、オレは死角をついて、お堂のほうへと近づいていく。†",
+    ("そーっと足音を忍ばせつつ、オレは死角をついて、お堂のほうへと近づいていく。",
     ""),
-    # I gently threw footsteps in, and my head came closer to the hall, taking a blind spot.†
+    # I gently threw footsteps in, and my head came closer to the hall, taking a blind spot.
 
     ("そそそ…。",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # He's a fighter, but he's not sloppy.
 
-    ("п隙だらけだぜ。†",
+    ("п隙だらけだぜ。",
     ""),
-    # There are a lot of gaps.†
+    # There are a lot of gaps.
 
     ("オレは、すぅ〜っと息を吸った。",
     ""),
@@ -222,17 +222,17 @@ text_array = [
     ""),
     # What, did you realize?
 
-    ("オレは胸に吸い桙込んだ空気を吐き出した。†",
+    ("オレは胸に吸い桙込んだ空気を吐き出した。",
     ""),
-    # I let out a breath of air that had been sucked into my chest.†
+    # I let out a breath of air that had been sucked into my chest.
 
-    ("気づかない振關りをして、逆にからかうとは、葵ち痰ゃん烽もなかなかやる烽もんだ。",
+    ("気づかない振關りをして、逆にからかうとは、葵ち痰ゃんもなかなかやるもんだ。",
     ""),
     # To make a call without realizing it and then tease it is a stomping that even Aoi Chisho-yan-chan-ko.
 
-    ("照齒れ隠しに頭を掻きながら、出ていこうとしたとき…。†",
+    ("照齒れ隠しに頭を掻きながら、出ていこうとしたとき…。",
     ""),
-    # I was trying to leave, scratching my head to hide the light...†
+    # I was trying to leave, scratching my head to hide the light...
 
     ("「＝早く帰ってこないかな…」",
     ""),
@@ -242,45 +242,45 @@ text_array = [
     ""),
     # Aoi Chisho-yan said to tamper with him.
 
-    ("小さくか細い声だったが、オレは耳ざとく聞き逃さない。†",
+    ("小さくか細い声だったが、オレは耳ざとく聞き逃さない。",
     ""),
-    # It was a small and thin voice, but my ears were tight and I didn't miss out.†
+    # It was a small and thin voice, but my ears were tight and I didn't miss out.
 
     ("「まだ、北海道なのかな…」",
     ""),
     # "I wonder if it's still Hokkaido..."
 
-    ("ぼんやりしたまま続けて言った。†",
+    ("ぼんやりしたまま続けて言った。",
     ""),
-    # He continued to say, silence.†
+    # He continued to say, silence.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("どうやら気づいてた墲わけじ痰ゃないらしい。",
+    ("どうやら気づいてたわけじ痰ゃないらしい。",
     ""),
     # Apparently there's no way he'd ever noticed it was tampering with.
 
-    ("ま墲わりに誰熬もいないつ烽もりで、ひとりごとを言ってたのだ。†",
+    ("まわりに誰熬もいないつもりで、ひとりごとを言ってたのだ。",
     ""),
-    # He was talking about his own words as he had no one else in the world.†
+    # He was talking about his own words as he had no one else in the world.
 
-    ("「…ずっと、ひとりで烽も平気だったのに」",
+    ("「…ずっと、ひとりでも平気だったのに」",
     ""),
     # "...I've always been fine with Hot by myself."
 
-    ("禔口のｒで言うと、葵ち痰ゃんは抱えた両ひざに顔をうずめた。†",
+    ("禔口のｒで言うと、葵ち痰ゃんは抱えた両ひざに顔をうずめた。",
     ""),
-    # In the words of the r in the mouth, Aoi Chisho-yan immersed her face in both knees she held.†
+    # In the words of the r in the mouth, Aoi Chisho-yan immersed her face in both knees she held.
 
     ("「…こんなに寂しくなるなんて」",
     ""),
     # "...I can't help but feel so lonely."
 
-    ("ヒザに顔を押し魔当てたまま、つぶやく。†",
+    ("ヒザに顔を押し魔当てたまま、つぶやく。",
     ""),
-    # He presses his face against his knees and mutters it.†
+    # He presses his face against his knees and mutters it.
 
     ("「…諱先輩、",
     ""),
@@ -294,11 +294,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("じつはすぐ目の前にいたりして。†",
+    ("じつはすぐ目の前にいたりして。",
     ""),
-    # In fact, I was right in front of my eyes.†
+    # In fact, I was right in front of my eyes.
 
-    ("すぐに出てって烽もいいんだが、なんとなくタイミングを逃しちまった感じがする。",
+    ("すぐに出てってもいいんだが、なんとなくタイミングを逃しちまった感じがする。",
     ""),
     # It's nice to leave immediately and the hot water is fine, but somehow it feels like I've missed the timing.
 
@@ -306,11 +306,11 @@ text_array = [
     ""),
     # What's wrong?
 
-    ("諱よし。†",
+    ("諱よし。",
     ""),
-    # I'm fine with that.†
+    # I'm fine with that.
 
-    ("少し考えて、オレは音を立てないよう気をつけながら、℃袋から葵ち痰ゃんへのおみやげを取闔り出した。",
+    ("少し考えて、オレは音を立てないよう気をつけながら、℃袋から葵ち痰ゃんへのおみやげを取り出した。",
     ""),
     # After thinking for a moment, I took the trouble to the Aoi Chisho-chan from the ℃ bag, taking care not to make a sound.
 
@@ -318,15 +318,15 @@ text_array = [
     ""),
     # This is a stuffed yellow fox that I bought from a Mittanyagae shop in Hokkaido.
 
-    ("梶リアルな感じで、かつ可愛いデフォル＜メがいい感じである。†",
+    ("梶リアルな感じで、かつ可愛いデフォル＜メがいい感じである。",
     ""),
-    # It has a kajiria crying feel, and the cute default crying feel is nice.†
+    # It has a kajiria crying feel, and the cute default crying feel is nice.
 
     ("いまさら≠普通に出髀るのは照齒れくさいので、こいつを使っておち痰ゃらけることにしよう。",
     ""),
     # It's hard to imagine that it's just normal to just come out, so I'll use this to make a sigh of phlegm.
 
-    ("オレはお堂の下に隠皷れたまま、ひょこっと、閨手に揩持ったぬいぐるみだけを葵ち痰ゃんの前に登齠場させた。＝",
+    ("オレはお堂の下に隠皷れたまま、ひょこっと、閨手に持ったぬいぐるみだけを葵ち痰ゃんの前に登齠場させた。＝",
     ""),
     # With the hidden under the hall, I let Ai Chisho-chan only hold a stuffed animal in her hand and put it in front of Aoi Chisho-chan.=
 
@@ -346,17 +346,17 @@ text_array = [
     ""),
     # I heard Aoi Chisho-yan's surprise voice.
 
-    ("噤伏せているので顔は見鼬れない。†",
+    ("噤伏せているので顔は見鼬れない。",
     ""),
-    # He is lying down so he can't see his face.†
+    # He is lying down so he can't see his face.
 
-    ("「オレ、キタキツネのコン太、諱よしくな！	今厓日は墲わざ墲わざ北海道から飛行機に乗って、寂しがりな葵ち痰ゃんをなぐさめにｗたぜ！」",
+    ("「オレ、キタキツネのコン太、諱よしくな！	今厓日はわざわざ北海道から飛行機に乗って、寂しがりな葵ち痰ゃんをなぐさめにｗたぜ！」",
     ""),
     # "I'm a big fan, Kontai, the hottie fox, please give me a b-year-old! On the day I took a plane from Hokkaido on the move, and I was able to comfort the lonely Aoi Chisho-chan lol!"
 
-    ("ぬいぐるみを動かしながら言った。†",
+    ("ぬいぐるみを動かしながら言った。",
     ""),
-    # He said as he moved the stuffed animal.†
+    # He said as he moved the stuffed animal.
 
     ("「…せ、せんぱい？」",
     ""),
@@ -366,21 +366,21 @@ text_array = [
     ""),
     # "Senior, you have no phlegm, you're Kon-tai! What do you think? Her tail is pure and so cute, isn't it?"
 
-    ("パタパタとしっぽを振ってみせる。†",
+    ("パタパタとしっぽを振ってみせる。",
     ""),
-    # Shake your tail and shaking it.†
+    # Shake your tail and shaking it.
 
     ("「ど、どうして？	帰ってたんですか？」",
     ""),
     # "What, why? Did you go home?"
 
-    ("「ついさっき、北海道からｒいたばかりさ。ちょっとで烽も≠早く葵ち痰ゃんの顔が見たくて、すっ飛んでｗたぜ」",
+    ("「ついさっき、北海道からｒいたばかりさ。ちょっとでも≠早く葵ち痰ゃんの顔が見たくて、すっ飛んでｗたぜ」",
     ""),
     # "I just got there from Hokkaido. I wanted to see Aoi Chisho-ya's face soon, so I flew over lol."
 
-    ("出だし部分が地声になってしまったので、慌ててコン太調に戻して言った。†",
+    ("出だし部分が地声になってしまったので、慌ててコン太調に戻して言った。",
     ""),
-    # The beginning part became a normal voice, so I hurriedly returned to Kontai's style and said, "I'm not sure what to do."†
+    # The beginning part became a normal voice, so I hurriedly returned to Kontai's style and said, "I'm not sure what to do."
 
     ("「…あ」",
     ""),
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "...I smoke too
 
-    ("私燻も先輩にｉいたくて｢｢」",
+    ("私燻も先輩にいたくて｢｢」",
     ""),
     # I also wanted to be a senior so I said, "
 
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # "That's why, my senpai, you don't have any phlegms, Konta..."
 
-    ("そのとき、がたっと、立ち繧上がる音。",
+    ("そのとき、がたっと、立ち上がる音。",
     ""),
     # At that moment, the sound of the sound rose up.
 
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # "Senior Faith...!"
 
-    ("まるで飛び降闕りるかの勢いで駆け寄驫ると、葵ち痰ゃんはオレの繧上薯をギャッとつかんだ。",
+    ("まるで飛び降闕りるかの勢いで駆け寄驫ると、葵ち痰ゃんはオレの上薯をギャッとつかんだ。",
     ""),
     # He jumped up with the force of flying off, and Aoi Chisho-chan grabbed my intensely slurping potatoes.
 
@@ -422,15 +422,15 @@ text_array = [
     ""),
     # "Ah, Aoi Chissho-ya...?"
 
-    ("まったく予想外の反梍応にとまどう、オレ。†",
+    ("まったく予想外の反梍応にとまどう、オレ。",
     ""),
-    # I was completely unexpected and was extremely excited.†
+    # I was completely unexpected and was extremely excited.
 
     ("「どうしたんだよ、いったい？」",
     ""),
     # "What's wrong, what on earth?"
 
-    ("わけが墲わからず、ぎこちなく笑って聞いた。",
+    ("わけがわからず、ぎこちなく笑って聞いた。",
     ""),
     # I couldn't understand why, so I asked with awkward laugh.
 
@@ -438,11 +438,11 @@ text_array = [
     ""),
     # "...Ugh."
 
-    ("服を握驤る手にぎ繧ゅっと力がこ烽もる。†",
+    ("服を握驤る手にぎゅっと力がこもる。",
     ""),
-    # Her clothes are clasped in her hands, and her strength is poured in.†
+    # Her clothes are clasped in her hands, and her strength is poured in.
 
-    ("「…す、すみません。な、なんだか、とて烽も久しぶりにｉえたような気がして…」",
+    ("「…す、すみません。な、なんだか、とても久しぶりにえたような気がして…」",
     ""),
     # "...S-Sorry. I feel like I've had a chance after a long time..."
 
@@ -454,9 +454,9 @@ text_array = [
     ""),
     # "Oh, it's just five days, right?"
 
-    ("オレが笑って言うと、葵ち痰ゃんはごしごしと目燒もとをこすり、小さくうなずいた。†",
+    ("オレが笑って言うと、葵ち痰ゃんはごしごしと目燒もとをこすり、小さくうなずいた。",
     ""),
-    # When I laughed, Aoi Chisho-chan rubbed her back against the corner and nodded her head small.†
+    # When I laughed, Aoi Chisho-chan rubbed her back against the corner and nodded her head small.
 
     ("「…そうですよね。たったの五卲日ですよね。なのに、なのに…」",
     ""),
@@ -466,7 +466,7 @@ text_array = [
     ""),
     # I wiped away the tears that were overflowing with my eyes.
 
-    ("それで烽もまた次の涙がにじんでくる。",
+    ("それでもまた次の涙がにじんでくる。",
     ""),
     # And then the next tears blew through the air.
 
@@ -474,21 +474,21 @@ text_array = [
     ""),
     # "Hmm, that's weird. What's wrong b?
 
-    ("先輩の顔を見たら、急に…」†",
+    ("先輩の顔を見たら、急に…」",
     ""),
-    # When I saw my senior's face, it suddenly started..."†
+    # When I saw my senior's face, it suddenly started..."
 
-    ("いつ烽もは気芫丈な葵ち痰ゃんだが、ごくまれにこんな一面を見せることがある。",
+    ("いつもは気芫丈な葵ち痰ゃんだが、ごくまれにこんな一面を見せることがある。",
     ""),
     # Although Aoi Chisho-chan is always cheerful, she sometimes shows this side of herself in rare cases.
 
-    ("以前オレの家をたずねてきたときや、坂下との獅試㍽合のときがこんなだった。",
+    ("以前オレの家をたずねてきたときや、坂下との試㍽合のときがこんなだった。",
     ""),
     # This was what happened when I asked my house before and when I had a lion test with Akesakashita.
 
-    ("＝普段、′して繧弱音を吐いたりしない子だけに、こういうときはちょっと過保阜な気分になってしまう。†",
+    ("＝普段、′して弱音を吐いたりしない子だけに、こういうときはちょっと過保阜な気分になってしまう。",
     ""),
-    # =Since I'm a child who doesn't usually make noises, I feel like I'm overwhelmed at times like this.†
+    # =Since I'm a child who doesn't usually make noises, I feel like I'm overwhelmed at times like this.
 
     ("オレは目を細めて微笑むと、",
     ""),
@@ -502,11 +502,11 @@ text_array = [
     ""),
     # With that, he pressed the stuffed animal against Aoi Chisho-chan's cheek and hit it with the demon.=
 
-    ("「諱先輩がいない間、まるで胸にぽっかり鰍穴があいたような、そんな気分でした。いつ烽もの神社なのに、なぜか広く感じて…」",
+    ("「諱先輩がいない間、まるで胸にぽっかり鰍穴があいたような、そんな気分でした。いつもの神社なのに、なぜか広く感じて…」",
     ""),
     # "While Senpai was away, I felt like a gaping crocodile hole had appeared in my chest. It was when it was a hot shrine, but for some reason it felt wide..."
 
-    ("「こんなひとけのない場鰹所にひとりじ痰ゃな、無摶理燉もないさ」†",
+    ("「こんなひとけのない場鰹所にひとりじ痰ゃな、無摶理燉もないさ」",
     ""),
     # "At this unparalleled bonito spot, there's no reason to be phlegm alone."
 
@@ -514,15 +514,15 @@ text_array = [
     ""),
     # "...I never knew I was so lonely.
 
-    ("毎坙日、ため息ばかりで、禔練習に烽もぜんぜん身が入逑らなくて…」",
+    ("毎坙日、ため息ばかりで、禔練習にもぜんぜん身が入逑らなくて…」",
     ""),
     # Every day, I sigh, and I can't even get into the practice of Yu."
 
-    ("轣顔を嘯伏せ、メきそうな声で言う。†",
+    ("轣顔を嘯伏せ、メきそうな声で言う。",
     ""),
-    # He leaned down his face and said in a cry of tears.†
+    # He leaned down his face and said in a cry of tears.
 
-    ("「ふたりに慣れちまった繧後だから、諱よけいに寂しく感じたんだうな」",
+    ("「ふたりに慣れちまった後だから、諱よけいに寂しく感じたんだうな」",
     ""),
     # "It's been a long time since I've become used to the two of you, so I felt so lonely, even more so, b--"
 
@@ -530,15 +530,15 @@ text_array = [
     ""),
     # My geisha continues to follow me even more.
 
-    ("男のオレでさえ、両親と別助居した魔当遠初は、寂しさに奄負けて、テレビ窿やＣＤをガンガンに鳴逍らして気を紛逡らした烽もんだ。",
+    ("男のオレでさえ、両親と別助居した魔当遠初は、寂しさに奄負けて、テレビ窿やＣＤをガンガンに鳴逍らして気を紛逡らしたもんだ。",
     ""),
     # Even the man's eccentric man, who had saved his parents from his parents, was defeated by the loneliness and distracted him by squealing the TV dramatic revival and CDs.
 
-    ("気搴持ちはよく墲わかる。†",
+    ("気搴持ちはよくわかる。",
     ""),
-    # You can clearly see how long you can be.†
+    # You can clearly see how long you can be.
 
-    ("「せめて、オレ以外の部員がいれば、こんな思いをさせること烽もないんだけどなァ」",
+    ("「せめて、オレ以外の部員がいれば、こんな思いをさせることもないんだけどなァ」",
     ""),
     # "At least, if there are members other than me, I wouldn't be able to make you feel this way."
 
@@ -550,15 +550,15 @@ text_array = [
     ""),
     # "It's not that bad..."
 
-    ("葵ち痰ゃんは首を横に振って言った。†",
+    ("葵ち痰ゃんは首を横に振って言った。",
     ""),
-    # Aoi Chisho-yan shook his head and said.†
+    # Aoi Chisho-yan shook his head and said.
 
     ("「え？」",
     ""),
     # "picture?"
 
-    ("「べつに、ひとりが寂しかった墲わけじ痰ゃないんです…」",
+    ("「べつに、ひとりが寂しかったわけじ痰ゃないんです…」",
     ""),
     # "In fact, one person was so lonely, there's no reason to smear them..."
 
@@ -574,33 +574,33 @@ text_array = [
     "…"),
     # "..."
 
-    ("葵ち痰ゃんは少し言葉をためてから言った。†",
+    ("葵ち痰ゃんは少し言葉をためてから言った。",
     ""),
-    # Aoi Chishoyan saved a few words before saying this.†
+    # Aoi Chishoyan saved a few words before saying this.
 
-    ("「最燕初はр私に烽も墲わかりませんでした。だって、寂しいのは練習薯だけじ痰ゃないんです。家にいて烽も、学校で友だちと揩喋ってて烽も、どこかр隙間がр埋まらない感じがして…」",
+    ("「最燕初はр私にもわかりませんでした。だって、寂しいのは練習薯だけじ痰ゃないんです。家にいても、学校で友だちと喋ってても、どこかр隙間がр埋まらない感じがして…」",
     ""),
     # "At the very first time I didn't know about the hot springs. Because the only thing that makes me feel lonely is the Fuku Practice Potato. I was at home and talking to my friends at school, and it felt like the gaps between them weren't filling up."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「で烽も、諱ようやく気がつきました」",
+    ("「でも、諱ようやく気がつきました」",
     ""),
     # "And I also noticed that he was tampering with the words."
 
-    ("葵ち痰ゃんは顔を嘯伏せ、声を獅落とすと、",
+    ("葵ち痰ゃんは顔を嘯伏せ、声を落とすと、",
     ""),
     # Aoi Chisho-yan leaned down his face and leaned down his voice,
 
-    ("「諱先輩にｉえないのが、声を聞けないのが、寂しかったんです…」",
+    ("「諱先輩にえないのが、声を聞けないのが、寂しかったんです…」",
     ""),
     # "It was sad that I couldn't get a voice from Senpai, and that I couldn't hear my voice..."
 
-    ("そう言った。†",
+    ("そう言った。",
     ""),
-    # That's what I said.†
+    # That's what I said.
 
     ("「葵ち痰ゃん…」",
     ""),
@@ -610,11 +610,11 @@ text_array = [
     ""),
     # A little bit...
 
-    ("浴風が、葉擦齊れの音を鳴逍らして、通闥り過ぎていった。†",
+    ("風が、葉擦齊れの音を鳴逍らして、通闥り過ぎていった。",
     ""),
-    # The bathing atmosphere began to sound like a tingly slurping sound, causing a lot of communication.†
+    # The bathing atmosphere began to sound like a tingly slurping sound, causing a lot of communication.
 
-    ("オレにｉえないから、オレの声が聞けないから、寂しかったって？",
+    ("オレにえないから、オレの声が聞けないから、寂しかったって？",
     ""),
     # I can't get an I-le, so I can't hear my I-le, so I thought I was lonely?
 
@@ -630,7 +630,7 @@ text_array = [
     ""),
     # Ugh, I'll say something cute!
 
-    ("ひとり胸のｒでｊんでいると、†",
+    ("ひとり胸のｒでｊんでいると、",
     ""),
     # When I'm alone in my chest,
 
@@ -638,7 +638,7 @@ text_array = [
     ""),
     # "Isaac Senpai..."
 
-    ("突然、♂まったように真武剣な顔になり、葵ち痰ゃんが言った。",
+    ("突然、雅まったように真武剣な顔になり、葵ち痰ゃんが言った。",
     ""),
     # Suddenly, Aoi Chishoyan looked like a male and was a Mabu sword-like face.
 
@@ -646,7 +646,7 @@ text_array = [
     ""),
     # "What, what...?"
 
-    ("「ぜひ、言っておきたいことがあるんです」†",
+    ("「ぜひ、言っておきたいことがあるんです」",
     ""),
     # "I definitely want to say something."
 
@@ -658,41 +658,41 @@ text_array = [
     ""),
     # He nodded straight at me.
 
-    ("なんだう。†",
+    ("なんだう。",
     ""),
-    # What is it?†
+    # What is it?
 
     ("「あの…」",
     ""),
     # "that…"
 
-    ("「…うん」†",
+    ("「…うん」",
     ""),
-    # "…Yeah"†
+    # "…Yeah"
 
     ("「п私…」",
     ""),
     # "пMe..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「п私は…」",
     ""),
     # "пI'm..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「………」",
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("葵ち痰ゃんの体が小さく震えていた。",
     ""),
@@ -702,9 +702,9 @@ text_array = [
     ""),
     # My eyes reflecting my intense ecstasy were slightly moist.
 
-    ("緊張が伝崧わってきて、なんだかこっちまで獅落ちｒかなくなる。†",
+    ("緊張が伝崧わってきて、なんだかこっちまで落ちｒかなくなる。",
     ""),
-    # Tensions started to flow, and somehow the lion couldn't fall over here.†
+    # Tensions started to flow, and somehow the lion couldn't fall over here.
 
     ("やがて、",
     ""),
@@ -722,47 +722,47 @@ text_array = [
     ""),
     # "...I'll say it."
 
-    ("肩の力を抜いて、そう言った。†",
+    ("肩の力を抜いて、そう言った。",
     ""),
-    # He relaxed his shoulders and said,†
+    # He relaxed his shoulders and said,
 
     ("「諱先輩が好きです」",
     ""),
     # "I like my senior name."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「п私の正直な気搴持ちです」",
     ""),
     # "My honest spirit is my own."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「帰ってきたら打ち明けようと、心にｌめていました」",
     ""),
     # "I was in my mind trying to reveal it when I got home."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「こんな突然で迷惑だとは思いましたけど、正直に言いたかったんです」",
     ""),
     # "I thought it was such a sudden and annoying thing, but I wanted to be honest."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「п私、諱先輩には隠しごとしたくないんです。なんで烽も話し№合えるようになりたいんです。だから…」",
+    ("「п私、諱先輩には隠しごとしたくないんです。なんでも話し№合えるようになりたいんです。だから…」",
     ""),
     # "I don't want to hide anything from Senpai Isai. Why do I want to be able to talk to you about it, too. That's why..."
 
-    ("「葵ち痰ゃん…」†",
+    ("「葵ち痰ゃん…」",
     ""),
     # "Aoi Chishonan..."
 
@@ -782,25 +782,25 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("勇気を出して打ち明け、その繧後、どうしていいか墲わからない、葵ち痰ゃん。",
+    ("勇気を出して打ち明け、その後、どうしていいかわからない、葵ち痰ゃん。",
     ""),
     # He has the courage to confess, and after that, Aoi Chisho-yan doesn't know what to do.
 
-    ("余韻に浸ったまま、なに烽も言えないオレ。†",
+    ("余韻に浸ったまま、なにも言えないオレ。",
     ""),
-    # I was soaked in the afterglow, but couldn't say anything about it.†
+    # I was soaked in the afterglow, but couldn't say anything about it.
 
     ("さらさらさら…。",
     ""),
     # Smooth...
 
-    ("すみれがかった夕焼け空に、青葉の匂いを乗せた翌風が通闥り過ぎていく。†",
+    ("すみれがかった夕焼け空に、青葉の匂いを乗せた翌風が通闥り過ぎていく。",
     ""),
-    # The next breeze, with the smell of green leaves, reaches too much air as the violet sunset sky.†
+    # The next breeze, with the smell of green leaves, reaches too much air as the violet sunset sky.
 
     ("やがて、",
     ""),
@@ -810,9 +810,9 @@ text_array = [
     ""),
     # "I'm in trouble..."
 
-    ("息を吐きながら、オレは言った。†",
+    ("息を吐きながら、オレは言った。",
     ""),
-    # I sighed, and said, "I'm not going to stop it."†
+    # I sighed, and said, "I'm not going to stop it."
 
     ("「ずるいぜ…」",
     ""),
@@ -838,9 +838,9 @@ text_array = [
     ""),
     # reactor?”
 
-    ("縺上目づかいで照齒れながら、鼻の頭を掻く。†",
+    ("縺上目づかいで照齒れながら、鼻の頭を掻く。",
     ""),
-    # I scratch the head of my nose, shining on my eyes.†
+    # I scratch the head of my nose, shining on my eyes.
 
     ("「………」",
     "…"),
@@ -862,21 +862,21 @@ text_array = [
     ""),
     # "…what?"
 
-    ("わからない顔をする。†",
+    ("わからない顔をする。",
     ""),
-    # He makes a face that he doesn't understand.†
+    # He makes a face that he doesn't understand.
 
-    ("オレはため息混じりに肩を獅落とすと、やれやれと苦笑した。",
+    ("オレはため息混じりに肩を落とすと、やれやれと苦笑した。",
     ""),
     # I sighed and plucked my shoulders, and gave a wry smile, "You should just sniff it out."
 
-    ("「どうせバレバレだうから、いまさら言うこと烽もないと思ってたのにさ」",
+    ("「どうせバレバレだうから、いまさら言うこともないと思ってたのにさ」",
     ""),
     # "It's going to be a huge live performance anyway, so I thought there was no need to say anything at all."
 
-    ("「？」†",
+    ("「？」",
     ""),
-    # "?"†
+    # "?"
 
     ("「オレ、ずっと前から、葵ち痰ゃんのこと好きだったんだぜ？」",
     ""),
@@ -886,11 +886,11 @@ text_array = [
     ""),
     # "What?!"
 
-    ("「自分じ痰ゃ、結構寘わかりやすい鰍リアクションしてたつ烽もりなんだけどなー」",
+    ("「自分じ痰ゃ、結構寘わかりやすい鰍リアクションしてたつもりなんだけどなー」",
     ""),
     # "I have phlegm, but I'm a hot pot that's quite easy to understand."
 
-    ("「せ、諱先輩熹も、п私のことを…」†",
+    ("「せ、諱先輩熹も、п私のことを…」",
     ""),
     # "She, Senpai Kei also talks about me..."
 
@@ -910,9 +910,9 @@ text_array = [
     ""),
     # "S-Sorry..."
 
-    ("ますます申し訳ない顔になる。†",
+    ("ますます申し訳ない顔になる。",
     ""),
-    # He looks even more and more sorry.†
+    # He looks even more and more sorry.
 
     ("「そのうち、オレのほうから言おうと思ってたんだ。ただ、いまはまだ≠早いかなって」",
     ""),
@@ -926,17 +926,17 @@ text_array = [
     ""),
     # "Look, now that I'm coming to Extreme Ream, it's going to be a bit harder b? So ""
 
-    ("いまはただ側にいて、支えてやれればそれでいいと思ってた。†",
+    ("いまはただ側にいて、支えてやれればそれでいいと思ってた。",
     ""),
-    # I thought it would be fine as long as I could just be by my side and support him and tamper with him.†
+    # I thought it would be fine as long as I could just be by my side and support him and tamper with him.
 
-    ("「オレ的な予定としては、エクストリームが終尞わってひと段賜落ついたこに、タイミングを見計迪らって、バシッと言うつ烽もりだった。｢｢のに、諱先に言甯われちまうとはな〜」",
+    ("「オレ的な予定としては、エクストリームが終尞わってひと段賜落ついたこに、タイミングを見計迪らって、バシッと言うつもりだった。｢｢のに、諱先に言甯われちまうとはな〜」",
     ""),
     # "My extremely anticipated prediction was that when Extreme Ream was finished and the moment was finally gone, I was able to get a quick response and then he was ready to go. "But, I wonder if he'd be told to the first person."
 
-    ("「…す、すみません」†",
+    ("「…す、すみません」",
     ""),
-    # "...S-Sorry" †
+    # "...S-Sorry" 
 
     ("オレはくすっと笑い、",
     ""),
@@ -946,9 +946,9 @@ text_array = [
     ""),
     # "What apologies?"
 
-    ("と、葵ち痰ゃんの頭に手を乗せた。†",
+    ("と、葵ち痰ゃんの頭に手を乗せた。",
     ""),
-    # He then placed his hand on Aoi Chisho-ya's head.†
+    # He then placed his hand on Aoi Chisho-ya's head.
 
     ("「オレ、いま最ｍ高に嬉しいんだぜ？	もう、飛び回濶りたいくらいにさ」",
     ""),
@@ -958,7 +958,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「だって、オレにとって一番可愛くて、一番蜚大桝事な翌女の子に好きって垂告注白されたんだぜ？」†",
+    ("「だって、オレにとって一番可愛くて、一番蜚大桝事な翌女の子に好きって垂告注白されたんだぜ？」",
     ""),
     # "Because the girl who was the cutest and the cutest girl for me, the most slutty girl, made a comment that she liked me?"
 
@@ -982,9 +982,9 @@ text_array = [
     ""),
     # Hands and hands were firm and clever.
 
-    ("いままで以繹上の強い汲結びつきを感じた。†",
+    ("いままで以繹上の強い結びつきを感じた。",
     ""),
-    # I have felt a strong connection to this point.†
+    # I have felt a strong connection to this point.
 
     ("「…あの、諱先輩」",
     ""),
@@ -994,13 +994,13 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「今厓日、少し遅くなって烽も構いませんか？」",
+    ("「今厓日、少し遅くなっても構いませんか？」",
     ""),
     # "I'm getting a little late right now, so is it okay to have some hot springs?"
 
-    ("「どうして？」†",
+    ("「どうして？」",
     ""),
-    # "Why?"†
+    # "Why?"
 
     ("「お話したいことが、たくさんあるんです。",
     ""),
@@ -1030,9 +1030,9 @@ text_array = [
     ""),
     # The sun has completely set.
 
-    ("赤から№紫、そして夜へ、変﨑わっていく空を眺めながら、ふたりは話をした。†",
+    ("赤から№紫、そして夜へ、変﨑わっていく空を眺めながら、ふたりは話をした。",
     ""),
-    # They spoke as they watched the sky from red to No. Purple and then to night.†
+    # They spoke as they watched the sky from red to No. Purple and then to night.
 
     ("「п私、考えてみたんです」",
     ""),
@@ -1054,7 +1054,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("「さあ、どうなってたんだーなァ」†",
+    ("「さあ、どうなってたんだーなァ」",
     ""),
     # "Now, what happened, b?"
 
@@ -1070,17 +1070,17 @@ text_array = [
     ""),
     # "To be honest, I've thought a few times that I should stop tampering."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「…少し前まで、п私、悩んでばかりでした。いまやってることが、正しいのか、間瘧違ってるのか、わからなくて…。だから好恵さんにクラブをやめと言甯われたとき烽も、ずいぶん揺逞らいだんです」",
+    ("「…少し前まで、п私、悩んでばかりでした。いまやってることが、正しいのか、間違ってるのか、わからなくて…。だから好恵さんにクラブをやめと言甯われたときも、ずいぶん揺逞らいだんです」",
     ""),
     # "...Until a while ago, I was always worried. I didn't know if what I was doing right now was correct or wrong... So when Yoshie told me to stop tampering with the love of the banquet, I was also quite shaking."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「本末当に人を集められるのか…。こんなことで綾∴香さんに追いつけるのか…。",
     ""),
@@ -1098,11 +1098,11 @@ text_array = [
     ""),
     # "I was worried about my b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b
 
-    ("情けないですよね」†",
+    ("情けないですよね」",
     ""),
     # It's pathetic, isn't it?
 
-    ("「そんな烽もんじ痰ゃねーの？」",
+    ("「そんなもんじ痰ゃねーの？」",
     ""),
     # "Isn't that kind of phlegm phlegm?"
 
@@ -1110,15 +1110,15 @@ text_array = [
     ""),
     # "picture"
 
-    ("「新しいことをやうって人間は、そんだけ悩み烽も多いし、不安煦もつきまとう烽もんさ」",
+    ("「新しいことをやうって人間は、そんだけ悩みも多いし、不安煦もつきまとうもんさ」",
     ""),
     # "People who are tampering with new things are so many troubled and worried, and are also lingering with anxiety."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「そういうのを乗闖り越えて、それで烽も前に進熕もうってрヤツが、本末当に強くなってくんじ痰ゃねーのかな」",
+    ("「そういうのを乗闖り越えて、それでも前に進熕もうってрヤツが、本末当に強くなってくんじ痰ゃねーのかな」",
     ""),
     # "I wonder if the guy who has overcome that kind of thing and then moves forward is getting stronger and he's going to have to spurt."
 
@@ -1130,11 +1130,11 @@ text_array = [
     ""),
     # "You're saying something arrogant, I'm super excited."
 
-    ("照齒れて目をそらすオレを見て、葵ち痰ゃんはくすっと笑った。†",
+    ("照齒れて目をそらすオレを見て、葵ち痰ゃんはくすっと笑った。",
     ""),
-    # Aoi Chisho-yan chuckled as he saw me turn his eyes away.†
+    # Aoi Chisho-yan chuckled as he saw me turn his eyes away.
 
-    ("「で烽も、そのとおりだと思います。みんな、そうやって強くなっていくんですよね」",
+    ("「でも、そのとおりだと思います。みんな、そうやって強くなっていくんですよね」",
     ""),
     # "And I think that's true, too. Everyone gets stronger by tampering with this."
 
@@ -1154,23 +1154,23 @@ text_array = [
     ""),
     # "yes"
 
-    ("こくんと、うなずく。†",
+    ("こくんと、うなずく。",
     ""),
-    # Ko-kun nodded.†
+    # Ko-kun nodded.
 
-    ("「いい迷って、悩んで、不安になって、もうやめようかと思ったとき、諱先輩が背白を押してくれたんです。間瘧違ってないよって、力強く」",
+    ("「いい迷って、悩んで、不安になって、もうやめようかと思ったとき、諱先輩が背白を押してくれたんです。間違ってないよって、力強く」",
     ""),
     # "I was confused, worried, worried, and worried, and thought about stopping tampering, but my senior fellow sent me a backlash. I was so strong that it wasn't wrong."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「不思議なんですよ。",
     ""),
     # "It's strange.
 
-    ("先輩に繧励まされると、いつ烽も嘘みたいに迷いが消えち痰ゃうんです。そして、か墲わりに『やれるぞ』っていう強い自信が墲わいてくるんです」",
+    ("先輩に励まされると、いつも嘘みたいに迷いが消えち痰ゃうんです。そして、かわりに『やれるぞ』っていう強い自信がわいてくるんです」",
     ""),
     # When my senior encourages me, my confusion always disappears like a lie.And instead of just trying to get the chance, I gain a strong confidence that I can do it."
 
@@ -1178,17 +1178,17 @@ text_array = [
     ""),
     # Aoi Chisho-yan said with a smile.
 
-    ("「へへ、嬉しいこと言ってくれるねぇ」†",
+    ("「へへ、嬉しいこと言ってくれるねぇ」",
     ""),
     # "Hehe, you'll say something nice"
 
-    ("「ですからр私、諱先輩とならなんだってできる気がするんです。クラブ焜も成功させる自信がありますし、それに、いつか必ず綾∴香さんに烽も追いついて、それから、それから｢｢」",
+    ("「ですからр私、諱先輩とならなんだってできる気がするんです。クラブも成功させる自信がありますし、それに、いつか必ず綾∴香さんにも追いついて、それから、それから｢｢」",
     ""),
     # "So, I feel like I can do anything with my senior, I am confident that I will be able to succeed in the banquet love story, and one day I will definitely catch up with Aya∴Kaoru, and then, """
 
-    ("こっちをｌく。†",
+    ("こっちをｌく。",
     ""),
-    # I'll latch over here.†
+    # I'll latch over here.
 
     ("「なんていうか、いうなれば、スーパー松原葵になれるんです」",
     ""),
@@ -1206,9 +1206,9 @@ text_array = [
     ""),
     # A laugh was shining in a light heart.
 
-    ("そいつがたまらなく可愛い。†",
+    ("そいつがたまらなく可愛い。",
     ""),
-    # He's irresistibly cute.†
+    # He's irresistibly cute.
 
     ("「そーかそーか、スーパーか！」",
     ""),
@@ -1226,9 +1226,9 @@ text_array = [
     ""),
     # "See, Senpai..."
 
-    ("真っ赤になってとまどう葵ち痰ゃん。†",
+    ("真っ赤になってとまどう葵ち痰ゃん。",
     ""),
-    # Turns red and I'm in a sphin.†
+    # Turns red and I'm in a sphin.
 
     ("だがやがて、葵ち痰ゃんは目を嘯伏せると、",
     ""),
@@ -1246,9 +1246,9 @@ text_array = [
     ""),
     # "Aiiii"
 
-    ("かいぐり、かいぐり。†",
+    ("かいぐり、かいぐり。",
     ""),
-    # Picnic, Picnicnic.†
+    # Picnic, Picnicnic.
 
     ("「諱先輩…」",
     ""),
@@ -1258,11 +1258,11 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「これから烽も、くじけそうなとき、堰負けそうなとき、おたがいで繧励まし№合える№仲になれるといいですね」",
+    ("「これからも、くじけそうなとき、堰負けそうなとき、おたがいで励まし№合える№仲になれるといいですね」",
     ""),
     # "I hope that when we're about to give up or lose, we can encourage each other and become friends with each other where we can match."
 
-    ("「葵ち痰ゃん…」†",
+    ("「葵ち痰ゃん…」",
     ""),
     # "Aoi Chishonan..."
 
@@ -1282,23 +1282,23 @@ text_array = [
     ""),
     # "From now on, I'll do my best with the Purple Love of Pulas.
 
-    ("取闔りあえず、秋のエクストリームにｌけて」",
+    ("取りあえず、秋のエクストリームにｌけて」",
     ""),
     # I didn't want to go and head to the autumn Extreme Ream."
 
-    ("「せ、諱先輩…」†",
+    ("「せ、諱先輩…」",
     ""),
-    # "See, Senpai..."†
+    # "See, Senpai..."
 
-    ("「諱よーし、明坙日からさっそく練習開始だな！	おっ、コン太のрヤツ焜も桙応㊨援してるってよ」",
+    ("「諱よーし、明坙日からさっそく練習開始だな！	おっ、コン太のрヤツも桙応㊨援してるってよ」",
     ""),
     # "All right, we'll start lucky practice right away from Ming Shun Day! Oh, the guy from Gongtai is also supporting us."
 
-    ("そう言って、オレはキツネのぬいぐるみを葵ち痰ゃんの頬に押し魔当てた。†",
+    ("そう言って、オレはキツネのぬいぐるみを葵ち痰ゃんの頬に押し魔当てた。",
     ""),
-    # With that in mind, I pushed the fox plush to the cheek of Aoi Chisho-chan and put it in a demon.†
+    # With that in mind, I pushed the fox plush to the cheek of Aoi Chisho-chan and put it in a demon.
 
-    ("すると葵ち痰ゃんは少しくすぐったそうに、で烽もとて烽も嬉しそうに、",
+    ("すると葵ち痰ゃんは少しくすぐったそうに、でもとても嬉しそうに、",
     ""),
     # Then Aoi Chisho-chan seemed a little tickled, and the hot and hot looked happy,
 
@@ -1310,7 +1310,7 @@ text_array = [
     ""),
     # He nodded his head big and smiled.
 
-    ("そんな葵ち痰ゃんがとて烽も可愛かった。◯",
+    ("そんな葵ち痰ゃんがとても可愛かった。◯",
     ""),
     # Aoi Chisho-chan was so cute.◯
 

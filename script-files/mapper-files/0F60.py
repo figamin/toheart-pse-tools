@@ -2,17 +2,17 @@
 # Source file: 0F60.txt
 
 text_array = [
-    ("（４獅月２０冾日	冝日）†",
+    ("（４月２０冾日	冝日）",
     ""),
-    # (April 20th day of the month)†
+    # (April 20th day of the month)
 
     ("今厓日の夜亦、ぜひ見たいボクシングのｒ継がある。",
     ""),
     # On the night of the day, there is also a boxing train that you should definitely watch.
 
-    ("見てると明坙日がつらいので、ビデオで録譏画しよう。†",
+    ("見てると明坙日がつらいので、ビデオで録譏画しよう。",
     ""),
-    # Watching it makes me feel sad, so I'll record and capture it on video.†
+    # Watching it makes me feel sad, so I'll record and capture it on video.
 
     ("時間は、午前１桙時１５分から…少し長めに録ってと。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # What about Channe crying?
 
-    ("どの局だっけ？†",
+    ("どの局だっけ？",
     ""),
-    # Which station was it?†
+    # Which station was it?
 
     ("忘齧れた。",
     ""),
@@ -46,13 +46,13 @@ text_array = [
     ""),
     # What should I do?
 
-    ("うーむ…。†",
+    ("うーむ…。",
     ""),
-    # Hmm...†
+    # Hmm...
 
-    ("そうだ！†",
+    ("そうだ！",
     ""),
-    # That's right!†
+    # That's right!
 
     ("知ってるрヤツに電話で聞こう。",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # B Shiho.Relax
 
-    ("Ｃ	♂史。閨",
+    ("Ｃ	雅史。閨",
     ""),
     # C: Male History.Relax
 

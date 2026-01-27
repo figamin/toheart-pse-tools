@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Akari's exam) (B I will return to my house on my day)†
 
-    ("「ああ、今厓日はひとりで帰驪る墲わ」",
+    ("「ああ、今厓日はひとりで帰驪るわ」",
     ""),
     # "Ah, I'm going home alone on the day."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "You're a noshi"
 
-    ("あかりは手を振って烽歩いていった。◯",
+    ("あかりは手を振って歩いていった。◯",
     ""),
     # Akari waved and walked away.◯
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "I understand."
 
-    ("「それじ痰ゃあ、また繧後で」",
+    ("「それじ痰ゃあ、また後で」",
     ""),
     # "That's it, phlegm, after that."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("あかりは手を振って烽歩いていった。◯",
+    ("あかりは手を振って歩いていった。◯",
     ""),
     # Akari waved and walked away.◯
 

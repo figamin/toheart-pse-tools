@@ -18,7 +18,7 @@ text_array = [
     ""),
     # As long as I remember the formula, I'm good at applying the later Kaba...†
 
-    ("諱取闔りあえず、終了。",
+    ("諱取りあえず、終了。",
     ""),
     # I couldn't get a message and it ended.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # The result is...
 
-    ("「Ｈ奄ｉ！	！」",
+    ("「Ｈ奄！	！」",
     ""),
     # "Hi Amai!!"
 
-    ("そこへ、戟レミィがやってきた。†",
+    ("そこへ、レミィがやってきた。†",
     ""),
     # Then, Karemi came to tamper with it.†
 

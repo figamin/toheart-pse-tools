@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "...Why are you asking me to say such a charcoal?"
 
-    ("「男の子にウケがいい桙服って、諱よく墲わからないのよね。それで、男のあんたに見て烽もらえれば、良いかな？	って思った墲わけよ」†",
+    ("「男の子にウケがいい桙服って、諱よくわからないのよね。それで、男のあんたに見てもらえれば、良いかな？	って思ったわけよ」†",
     ""),
     # "You don't really understand the kind of fox clothes that are popular with boys. So, if you're a man, it's fine to see them, then it's fine." †
 
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # ...Why are you gonna bet on such a thing?
 
-    ("「梶頼むのは構寘わねえけど、そのイチかバチかみたいな揩理由、やめてくれよ」†",
+    ("「梶頼むのは構寘わねえけど、そのイチかバチかみたいな理由、やめてくれよ」†",
     ""),
     # "I don't care about Kaji, but please stop saying that it's a bit of a sting or a bit of a sting."
 
-    ("「だって、考えて烽も見なさいよ。",
+    ("「だって、考えても見なさいよ。",
     ""),
     # "Well, think about it and look at the hot water too.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # I'll choose clothes... but in the end, you're the one who's OK with it, right?If my sense of style is bad and your senses are bad, then I won't be able to hit the marks even if I can't hit the mark."
 
-    ("「だからどーした。オレ焜もお前に選ばれたんだぜ？	だったら、お前ひとりの責任だ」",
+    ("「だからどーした。オレもお前に選ばれたんだぜ？	だったら、お前ひとりの責任だ」",
     ""),
     # "So what did you do? I was chosen by you too, right? If that's the case, it's your own responsibility."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Oh, that's right. Then don't say a sentence."
 
-    ("「はいはい、冝期待してる墲わよぉ」†",
+    ("「はいはい、冝期待してるわよぉ」†",
     ""),
     # "Yes, yes, I'm looking forward to it."
 

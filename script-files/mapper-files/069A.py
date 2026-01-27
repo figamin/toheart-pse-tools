@@ -2,9 +2,9 @@
 # Source file: 069A.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｂ	もう一度、頭をなでた）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｂ	もう一度、頭をなでた）",
     ""),
-    # (Mixed LV4) (Select B stroked my head again)†
+    # (Mixed LV4) (Select B stroked my head again)
 
     ("「マルチ、＠いｗい」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "?"
 
-    ("マルチは素直に近づいてきた。†",
+    ("マルチは素直に近づいてきた。",
     ""),
-    # McDonald's cry was approaching honestly.†
+    # McDonald's cry was approaching honestly.
 
     ("「バスがｗ磯翌ﾜで、まだ少しあるだ？」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「ホレ」†",
+    ("「ホレ」",
     ""),
-    # "Hey hey" †
+    # "Hey hey" 
 
     ("なでなでなでなで…。",
     ""),
@@ -54,11 +54,11 @@ text_array = [
     ""),
     # Stroke and stroke...
 
-    ("「＝c………＝v†",
+    ("「＝c………＝v",
     ""),
-    # "=c……=v†
+    # "=c……=v
 
-    ("…少しで烽もバスが遅れり痰ゃいいのに。",
+    ("…少しでもバスが遅れり痰ゃいいのに。",
     ""),
     # ...I wish the bus would be slower in a little while.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # That's what I thought.
 
-    ("…そうすり痰ゃ、少しで烽も長く、こうやってマルチの頭をなでてやれるのに。",
+    ("…そうすり痰ゃ、少しでも長く、こうやってマルチの頭をなでてやれるのに。",
     ""),
     # ...If you rub it, it's a little longer and a little, so you can tamper with it by stroking it and stroke the head of the crying.
 
@@ -74,8 +74,8 @@ text_array = [
     ""),
     # Stroke and stroke...
 
-    ("「＝c………＝v†",
+    ("「＝c………＝v",
     ""),
-    # "=c……=v†
+    # "=c……=v
 
 ]

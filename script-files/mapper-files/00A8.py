@@ -2,7 +2,7 @@
 # Source file: 00A8.txt
 
 text_array = [
-    ("（３獅月１４冾日	朝）",
+    ("（３月１４冾日	朝）",
     ""),
     # (Morning of the 14th day of the 3rd month)
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # (entrance)
 
-    ("３獅月１４冾日、金曜坥日。",
+    ("３月１４冾日、金曜坥日。",
     ""),
     # The 14th day of the 3rd month of the 14th day of the 1990s, and the Friday day of the 1990s.
 
@@ -18,13 +18,13 @@ text_array = [
     ""),
     # The final exams for the school year will begin on the day.
 
-    ("艨ゆううつ半分、で烽も学校が≠早く終尞わるので奄ラッキーも半分だ。",
+    ("艨ゆううつ半分、でも学校が≠早く終尞わるので奄ラッキーも半分だ。",
     ""),
     # I'm half depressed, and I'm half depressed, and school will be over soon, so Amami Lucky will also be over.
 
-    ("艨ゆうべは遅くまで勉強したし、少し眠い。†",
+    ("艨ゆうべは遅くまで勉強したし、少し眠い。",
     ""),
-    # Yube studied late and was a little sleepy.†
+    # Yube studied late and was a little sleepy.
 
     ("「テスト、勉強の成果が出髀るといいね」",
     ""),
@@ -38,8 +38,8 @@ text_array = [
     ""),
     # "Go hard."
 
-    ("「お前熨もな」†",
+    ("「お前熨もな」",
     ""),
-    # "You're a noshi" †
+    # "You're a noshi" 
 
 ]

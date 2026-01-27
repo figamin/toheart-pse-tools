@@ -2,9 +2,9 @@
 # Source file: 0183.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（選択綜Ｂ	悪いな、用があるんだ）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（選択綜Ｂ	悪いな、用があるんだ）",
     ""),
-    # (Akari Scales Event 2F) (Choice B: That's bad, I have something to do)†
+    # (Akari Scales Event 2F) (Choice B: That's bad, I have something to do)
 
     ("少し考えてから、オレは言った。",
     ""),
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # I don't need anything to do with the end of the day, but I feel like I'd like to stroll around on the day.
 
-    ("あかり烽も言葉のニャアンス的に意味を揩理解したようだ。†",
+    ("あかりも言葉のニャアンス的に意味を理解したようだ。",
     ""),
-    # Akari Kao also seems to have understood the meaning of words in a way that is meow.†
+    # Akari Kao also seems to have understood the meaning of words in a way that is meow.
 
     ("「それじ痰ゃ、またね」",
     ""),
     # "That's phlegm, see you later."
 
-    ("小さく手を振髏ると、あかりはひとりで廊下を烽歩いていった。",
+    ("小さく手を振髏ると、あかりはひとりで廊下を歩いていった。",
     ""),
     # She waved her hand slightly, and Akari walked down the hallway by herself.
 

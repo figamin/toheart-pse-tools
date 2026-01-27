@@ -2,17 +2,17 @@
 # Source file: 0625.txt
 
 text_array = [
-    ("（マルチ	エンディング）閨（Ａ	マルチを優譌先させる）†",
+    ("（マルチ	エンディング）閨（Ａ	マルチを優譌先させる）",
     ""),
-    # (May Luch Ending) (Mush Ruchi makes A May Luch ahead)†
+    # (May Luch Ending) (Mush Ruchi makes A May Luch ahead)
 
-    ("戟レミィには悪いけど、今厓日はマルチのほうを優譌先させよう。",
+    ("レミィには悪いけど、今厓日はマルチのほうを優譌先させよう。",
     ""),
     # It's bad for Remi, but I'll give you the best part of the day.
 
-    ("戟レミィにはいつで烽もｉえるけど、マルチとｉえるなんてめったにないことだからな。†",
+    ("レミィにはいつでもえるけど、マルチとえるなんてめったにないことだからな。",
     ""),
-    # There's always a chance that you can get a hot spring when you want to, but it's rare for you to get a hot spring with a hot spring.†
+    # There's always a chance that you can get a hot spring when you want to, but it's rare for you to get a hot spring with a hot spring.
 
     ("「いや、今厓日はなんの予定熬もないぜ」",
     ""),
@@ -26,13 +26,13 @@ text_array = [
     ""),
     # If you talk about the truth, the guy who is crying will surely take care of him.
 
-    ("ここはうそ烽も方便だ。",
+    ("ここはうそも方便だ。",
     ""),
     # Even the lie is a good fortune here.
 
-    ("ごめんな、戟レミィ。†",
+    ("ごめんな、レミィ。",
     ""),
-    # Sorry, Karemi.†
+    # Sorry, Karemi.
 
     ("「だから遠慮しねーでｗな」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Ah, thank you very much.
 
-    ("わたし烽もできる限り急いでそちらへｌかいます。ほんの３０分ほどで桙到湯すると思いますから！」",
+    ("わたしもできる限り急いでそちらへｌかいます。ほんの３０分ほどで桙到湯すると思いますから！」",
     ""),
     # I will hurry up and come over there as much as possible.I think you'll be able to reach Kawawa in just 30 minutes!”
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # Gachaya.
 
-    ("ツーツーツー…。†",
+    ("ツーツーツー…。",
     ""),
-    # Two-two...†
+    # Two-two...
 
     ("おいおい。",
     ""),
     # hey hey.
 
-    ("ち痰ゃんと墲わかってんのかよ。",
+    ("ち痰ゃんとわかってんのかよ。",
     ""),
     # Do you know that it's a bit of a sphin?
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # That guy is pretty irrelevant.
 
-    ("ちょっと心配だぜ。†",
+    ("ちょっと心配だぜ。",
     ""),
-    # I'm worried about this.†
+    # I'm worried about this.
 
     ("おっと。",
     ""),
@@ -82,13 +82,13 @@ text_array = [
     ""),
     # That being said, we should make a call from Ekiremi quickly.
 
-    ("用意とか始めてたらか墲わいそうだからな。",
+    ("用意とか始めてたらかわいそうだからな。",
     ""),
     # It would be a shame if I had started preparing it.
 
-    ("オレは撃レミィの家へ電話した。†",
+    ("オレは撃レミィの家へ電話した。",
     ""),
-    # I called Ekire Remy's house.†
+    # I called Ekire Remy's house.
 
     ("プルルルルルルルル…。",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "Hb Shot l Shot l Shield O?"
 
-    ("受話嶸器のｌこうから聞こえてきたのは、当然のごとく英皷語。†",
+    ("受話嶸器のｌこうから聞こえてきたのは、当然のごとく英皷語。",
     ""),
-    # What I heard from the receiver's l-ko was naturally in English-Japanese language.†
+    # What I heard from the receiver's l-ko was naturally in English-Japanese language.
 
     ("「ハ、ハ鴻ロー。ディス、イズ、」",
     ""),
@@ -122,17 +122,17 @@ text_array = [
     ""),
     # Ah, what is this voice...
 
-    ("「戟レミィか？」",
+    ("「レミィか？」",
     ""),
     # "Is it a gay remi?"
 
-    ("「Ｙ入、そうダャ？」†",
+    ("「Ｙ入、そうダャ？」",
     ""),
-    # "Yb Tangli, is that so?"†
+    # "Yb Tangli, is that so?"
 
-    ("梶相闡手が撃レミィで、ほっと一安心した烽ものの、これからデートを断迺らなき痰ゃならないことを思い出し、ちょっと気が重くなった。†",
+    ("梶相闡手が撃レミィで、ほっと一安心したものの、これからデートを断迺らなき痰ゃならないことを思い出し、ちょっと気が重くなった。",
     ""),
-    # Kajisante was relieved when he was Ekirei, and although Ho was relieved, he remembered that he had to turn down a date, and he felt a little tired.†
+    # Kajisante was relieved when he was Ekirei, and although Ho was relieved, he remembered that he had to turn down a date, and he felt a little tired.
 
     ("「あのな、じつはデートの話なんだが｢｢」",
     ""),
@@ -146,27 +146,27 @@ text_array = [
     ""),
     # "Ah, that's the thing..."
 
-    ("「どうしたの？」†",
+    ("「どうしたの？」",
     ""),
-    # "what happened?"†
+    # "what happened?"
 
     ("「悪いけど、急用が入っちまって、行けなくなったんだ」",
     ""),
     # "I'm sorry, but I ended up getting an urgent matter and can't go."
 
-    ("「Ｗ≠ａｔ’入	ｔ≠ａｔ！？	、なにかあったの！？」†",
+    ("「Ｗ≠ａｔ’入	ｔ≠ａｔ！？	、なにかあったの！？」",
     ""),
     # "Wb≠at' enter tb≠at!?, has something happened!?"
 
-    ("「いや、べつになにって墲わけじ痰ゃないけど、オレ的にちょっと外せない用沫事でな…」",
+    ("「いや、べつになにってわけじ痰ゃないけど、オレ的にちょっと外せない用沫事でな…」",
     ""),
     # "I don't want to waste anything, but I can't take it off, but it's a splash that I can't take away from."
 
-    ("思寬わずにごしてしまう自分が繧後撃めたい。",
+    ("思寬わずにごしてしまう自分が後撃めたい。",
     ""),
     # I want to be able to hit the ball after I leave without thinking.
 
-    ("だが撃レミィは、さほど気にしたふう烽もなく、",
+    ("だが撃レミィは、さほど気にしたふうもなく、",
     ""),
     # However, Ekiremi didn't seem to be too concerned about it,
 
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # "...I can't help it. Let's go again next time!"
 
-    ("そう言ってくれた。†",
+    ("そう言ってくれた。",
     ""),
-    # He said that.†
+    # He said that.
 
     ("「ああ、そうだな…」",
     ""),
@@ -194,24 +194,24 @@ text_array = [
     ""),
     # "It's fine c"
 
-    ("「じ痰ゃ、また」†",
+    ("「じ痰ゃ、また」",
     ""),
-    # "Some phlegm, come again" †
+    # "Some phlegm, come again" 
 
     ("かち痰ゃ。",
     ""),
     # It's a phlegm.
 
-    ("オレは受話嶸器を置いた。†",
+    ("オレは受話嶸器を置いた。",
     ""),
-    # I placed the receiver.†
+    # I placed the receiver.
 
-    ("ごめんな、戟レミィ。",
+    ("ごめんな、レミィ。",
     ""),
     # Sorry, Karemi.
 
-    ("п埋め№合寘わせは必ずするぜ。†",
+    ("п埋め№合寘わせは必ずするぜ。",
     ""),
-    # I'll definitely do it.†
+    # I'll definitely do it.
 
 ]

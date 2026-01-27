@@ -2,7 +2,7 @@
 # Source file: 0093.txt
 
 text_array = [
-    ("（冝期槙末テスト	４冾日目）閨（選択綜まあまあ）†",
+    ("（冝期槙末テスト	４冾日目）閨（選択綜まあまあ）",
     ""),
     # (4th day of the final test for the sedative maki test) (Something is pretty good)
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Okay, that's it."
 
-    ("「そり痰ゃ、諱よかった墲わね」",
+    ("「そり痰ゃ、諱よかったわね」",
     ""),
     # "You're so phlegm, that's a good thing."
 
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "What is it, is it a sinner?"
 
-    ("「うっさい墲わねぇ。あんただけ優剽等生ぶってり痰ゃいいのよっ！」",
+    ("「うっさいわねぇ。あんただけ優剽等生ぶってり痰ゃいいのよっ！」",
     ""),
     # "That's annoying. You should just shave your phlegm!"
 
-    ("「やっぱ、ひがんでんじ痰ゃねーかよ」†",
+    ("「やっぱ、ひがんでんじ痰ゃねーかよ」",
     ""),
     # "After all, you have to have phlegms with a carrot after all."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I thought it would suit me a certain number..."
 
-    ("「ははは、＝普段はつき№合いのいいオレで烽も、さすがにそこまではなあ」†",
+    ("「ははは、＝普段はつき№合いのいいオレでも、さすがにそこまではなあ」",
     ""),
     # "Hahaha = I usually have a good fit, so I'm a hot guy, but it's definitely not that good."
 

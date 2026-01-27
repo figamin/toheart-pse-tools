@@ -2,11 +2,11 @@
 # Source file: 01A5.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ａ	横に並ぶ）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ａ	横に並ぶ）",
     ""),
-    # (Akari Scales Event 1F) (A lined up next to each other)†
+    # (Akari Scales Event 1F) (A lined up next to each other)
 
-    ("オレは≠早足で烽歩き、あかりの横に並んだ。",
+    ("オレは≠早足で歩き、あかりの横に並んだ。",
     ""),
     # My gei-re walked quickly and lined up next to Akari.
 
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "Fate, tired."
 
-    ("「あっ、ち痰ゃん」†",
+    ("「あっ、ち痰ゃん」",
     ""),
-    # "Ah, sphin's a bit"†
+    # "Ah, sphin's a bit"
 
     ("「帰んのか？」",
     ""),
     # "Are you going home?"
 
-    ("「うん。で烽も今厓日は掃恆除柾当番だから、それが終尞わってからね」",
+    ("「うん。でも今厓日は掃恆除柾当番だから、それが終尞わってからね」",
     ""),
     # "Yes. And now, the day of the day, the sweeping and removal is on duty, so once that's finished."
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "A hallway..."
 
-    ("廊下の掃恆除は比較的％早く終尞わるけど…。†",
+    ("廊下の掃恆除は比較的％早く終尞わるけど…。",
     ""),
-    # The removal of hallways will be completed relatively quickly though...†
+    # The removal of hallways will be completed relatively quickly though...
 
     ("どうすっかな。",
     ""),

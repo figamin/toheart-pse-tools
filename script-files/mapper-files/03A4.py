@@ -2,7 +2,7 @@
 # Source file: 03A4.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（選択綜Ａ	待てよ、いっしょに帰汲うぜ。）閨（＋＝ａがある場㍼合）閨（駅前）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（選択綜Ａ	待てよ、いっしょに帰うぜ。）閨（＋＝ａがある場㍼合）閨（駅前）†",
     ""),
     # (Tomoko's Scales Event: Departing from school LV4) (Choice A, wait, I'll return to the Episode) (Little where += a is located) (In front of the station) †
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "?"
 
-    ("「また、いっしょに、帰汲うな？」†",
+    ("「また、いっしょに、帰うな？」†",
     ""),
     # "Don't you return to the essay again?"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "…Yeah"
 
-    ("委員長は小さくうなずいて、恥ずかしそうに≠早足で獅去って行った。†",
+    ("委員長は小さくうなずいて、恥ずかしそうに≠早足で去って行った。†",
     ""),
     # The chairman nodded a small head and leaned away shyly, ≠ quick to walk away.†
 

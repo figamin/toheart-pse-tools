@@ -2,9 +2,9 @@
 # Source file: 0765.txt
 
 text_array = [
-    ("（琴音	回秤数イベントキャャンセル好感度）†",
+    ("（琴音	回秤数イベントキャャンセル好感度）",
     ""),
-    # (Kotone's Scales Event Chang's Crying I liked)†
+    # (Kotone's Scales Event Chang's Crying I liked)
 
     ("おっ、琴音ち痰ゃんだ。",
     ""),

@@ -2,7 +2,7 @@
 # Source file: 08DF.txt
 
 text_array = [
-    ("（戟レミィ	好感度イベントＰＳ）閨（選択綜	行く）†",
+    ("（レミィ	好感度イベントＰＳ）閨（選択綜	行く）†",
     ""),
     # (Good Remy Likeability Event PS) (Select Sogo) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I nodded.†
 
-    ("「うんっ、きっとお烽もしいｃ」",
+    ("「うんっ、きっとおもしいｃ」",
     ""),
     # "Yeah, I'm sure it's a bc."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Ekimi is overwhelmed.
 
-    ("「んじ痰ゃ、あかりとかｉ史とか誘って烽もいいだ？」",
+    ("「んじ痰ゃ、あかりとか史とか誘ってもいいだ？」",
     ""),
     # "Is it okay to invite people like red and i-hisa, and then have a hot spring?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Is that okay?"
 
-    ("戟レミィに聞かれ、オレは、",
+    ("レミィに聞かれ、オレは、",
     ""),
     # When asked by Remy, I was
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Um, from 6 frames c."
 
-    ("「諱よし墲わかった。",
+    ("「諱よしわかった。",
     ""),
     # "I understand.
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("嬉しそうに手を振って、戟レミィは教室に戻っていった。",
+    ("嬉しそうに手を振って、レミィは教室に戻っていった。",
     ""),
     # Waving happily, Karemi returned to the classroom.
 

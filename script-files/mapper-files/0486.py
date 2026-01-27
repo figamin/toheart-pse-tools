@@ -26,7 +26,7 @@ text_array = [
     ""),
     # With that in mind, I came out into the hallway with a stubborn person.
 
-    ("そして、わき目燒も振逅らず烽歩き出した。†",
+    ("そして、わき目燒も振逅らず歩き出した。†",
     ""),
     # And the stumbling blocked the ball and started walking.†
 

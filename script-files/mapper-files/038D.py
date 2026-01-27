@@ -10,7 +10,7 @@ text_array = [
     ""),
     # I had some time, so I put up a light and sent a No. 1 sailor and stopped by the bookstore.
 
-    ("「ち痰ゃん、なにか欲しい本で烽もあるの？」",
+    ("「ち痰ゃん、なにか欲しい本でもあるの？」",
     ""),
     # "Choy, is there a book you want, and is there a hot spring?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "It's really bad..."
 
-    ("「言ってる烽も同じだ。いいか、マンガってのはな、℃の繧上の表現媒体としては最熏も進化した形なんだぞ。",
+    ("「言ってるも同じだ。いいか、マンガってのはな、℃の上の表現媒体としては最熏も進化した形なんだぞ。",
     ""),
     # "The same goes for the people who are talking about it. I see, manga is the most advanced form of an expression medium that is just about to be expressed in ℃.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "We have to think about the story and lay down the structure, and we have to do something without drawing Ekira.
 
-    ("普段なにげなく読んでるマンガにだって、惜しげ烽もない才能と労力が凝縮されてるんだぞ」",
+    ("普段なにげなく読んでるマンガにだって、惜しげもない才能と労力が凝縮されてるんだぞ」",
     ""),
     # Even in the manga I usually read casually, it's packed with generous talent and effort."
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「オレが一巻から全泊部貸してやるから、いまから家に取闔りにｗい。読んで感想を聞かせるべし」†",
+    ("「オレが一巻から全泊部貸してやるから、いまから家に取りにｗい。読んで感想を聞かせるべし」†",
     ""),
     # "I'll lend you all the Tomari clubs from the first volume and send you a tampering session, so I'll be back at home now. I'll read it and let you know what you think."
 
-    ("「えっ、うん、わかった。で烽もそれ、全泊部で何巻くらいあるの？」",
+    ("「えっ、うん、わかった。でもそれ、全泊部で何巻くらいあるの？」",
     ""),
     # "Eh, yes, I understand. And how many volumes do all the Hot Club have?"
 

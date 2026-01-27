@@ -2,9 +2,9 @@
 # Source file: 0984.txt
 
 text_array = [
-    ("（♂史回秤数イベント	３／１３	２Ｆ）閨（廊下１）閨（♂史	＝普通	０１）†",
+    ("（雅史回秤数イベント	３／１３	２Ｆ）閨（廊下１）閨（雅史	＝普通	０１）",
     ""),
-    # (Male History Scale Event 3/13, 2F) Kaku (Corridor 1) Kaku (Male History = normal 01)†
+    # (Male History Scale Event 3/13, 2F) Kaku (Corridor 1) Kaku (Male History = normal 01)
 
     ("「」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "The final exam for the Ming Shun period will start from the Ming Shun period."
 
-    ("「まあな」†",
+    ("「まあな」",
     ""),
-    # "Well" †
+    # "Well" 
 
     ("「調子はどう？」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Well, = normal. What about you?"
 
-    ("「僕燒も≠普通…かな」†",
+    ("「僕燒も≠普通…かな」",
     ""),
     # "I think Bokuro too ≠Normal... I guess"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Your ≠ normal and my ≠ normal phlegm, the phlegm is completely different."
 
-    ("「そっちのほうが繧上ってことだ？」",
+    ("「そっちのほうが上ってことだ？」",
     ""),
     # "That means it's higher than that?"
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "Hey, don't sniff it."
 
-    ("オレは肩をすくめる。†",
+    ("オレは肩をすくめる。",
     ""),
-    # I shrugged.†
+    # I shrugged.
 
     ("「凵嫌味じ痰ゃないよ。僕は本気でそう思ってるから」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # I laughed.
 
-    ("「実際の点箔数が物語ってるだ？	平均点はいつ烽もお前のほうが断然繿上じ痰ゃねーか」†",
+    ("「実際の点箔数が物語ってるだ？	平均点はいつもお前のほうが断然繿上じ痰ゃねーか」",
     ""),
     # "Doesn't the actual number of points tell you b? When is your average score even if you have a hot spot, you definitely have more phlegm?"
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "What I'm talking about is 'I'm going to get serious'."
 
-    ("「出してるよ、いつ烽も」",
+    ("「出してるよ、いつも」",
     ""),
     # "I'm leaving it out, whenever you want."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "That's not the case? See, for example, the purse after the very last minute when taking the exam. That was amazing at that time, isn't it?"
 
-    ("「ああ、あんときはたしかに必死だったな」†",
+    ("「ああ、あんときはたしかに必死だったな」",
     ""),
     # "Ah, I was certainly desperate at that time."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "That really put me in my heart."
 
-    ("「おかげで人生の半分くらいのパ純ワーを消諸しちまった。いまは烽もうガス欠さ」",
+    ("「おかげで人生の半分くらいのパ純ワーを消諸しちまった。いまはもうガス欠さ」",
     ""),
     # "Thanks to this, I've lost about half of my life's power. I'm already out of gas now."
 
@@ -94,19 +94,19 @@ text_array = [
     "…"),
     # "..."
 
-    ("♂史は、やれやれと苦笑する。†",
+    ("雅史は、やれやれと苦笑する。",
     ""),
-    # Masochi smiles wryly, saying, "You should just swear and tamper with me."†
+    # Masochi smiles wryly, saying, "You should just swear and tamper with me."
 
-    ("「たまには本気を出して烽もいいんじ痰ゃない？",
+    ("「たまには本気を出してもいいんじ痰ゃない？",
     ""),
     # "Sometimes, do you get serious and don't you have any phlegms?
 
-    ("あかりち痰ゃん烽もｊぶよ」",
+    ("あかりち痰ゃんもｊぶよ」",
     ""),
     # Akarichi's sputum is also insane."
 
-    ("「本気を出すくらいでいい点が取齊れるなら、＊鰯哩ｱんな苦労はしねー諱よ」†",
+    ("「本気を出すくらいでいい点が取齊れるなら、＊鰯哩ｱんな苦労はしねー諱よ」",
     ""),
     # "If you can score good points just by getting serious, then *No hardships, no one will have to worry."
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "I get it, I get it. I'll keep it in mind."
 
-    ("オレはあいまいに言葉をにごした。†",
+    ("オレはあいまいに言葉をにごした。",
     ""),
-    # I spoke vaguely.†
+    # I spoke vaguely.
 
     ("「じ痰ゃあ、僕は部室に用があるから」",
     ""),
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Also"
 
-    ("♂史は軽く手を振關り、背をｌけると、廊下を逆絜方阜に烽歩いていった。◯",
+    ("雅史は軽く手を振關り、背をｌけると、廊下を逆絜方阜に歩いていった。◯",
     ""),
     # Masochi lightly waved his hand, then turned his back and walked down the hallway to the back of Lei-Fofu.◯
 

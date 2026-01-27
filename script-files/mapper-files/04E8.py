@@ -2,9 +2,9 @@
 # Source file: 04E8.txt
 
 text_array = [
-    ("（志保	好感度型回秤数イベントＰＳ）閨（選択綜	パス）†",
+    ("（志保	好感度型回秤数イベントＰＳ）閨（選択綜	パス）",
     ""),
-    # (Shiho Likeability Type Scales Event PS) (Selection Pass)†
+    # (Shiho Likeability Type Scales Event PS) (Selection Pass)
 
     ("「わりぃけど、パス」",
     ""),
@@ -14,21 +14,21 @@ text_array = [
     ""),
     # "What? I want to go!"
 
-    ("「たまたまそういう気分じ痰ゃねえからな」†",
+    ("「たまたまそういう気分じ痰ゃねえからな」",
     ""),
-    # "It just happens that you don't feel that way" †
+    # "It just happens that you don't feel that way" 
 
     ("「身体で行きたがっておいて、禔口じ痰ゃこばむなんて…」",
     ""),
     # "You want to go with your body and then you can't help but sputum."
 
-    ("「わけ墲わからんこと言うな」",
+    ("「わけわからんこと言うな」",
     ""),
     # "Don't say anything you don't understand."
 
-    ("「う〜っ」†",
+    ("「う〜っ」",
     ""),
-    # "Uhh" †
+    # "Uhh" 
 
     ("「志保、ち痰ゃん、ああ言ってるんだし、今厓日は二人で行こ」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "That's it, phlegm, phlegm, _We'll go."
 
-    ("「ああ。行ってｗい」†",
+    ("「ああ。行ってｗい」",
     ""),
-    # "Yeah. Go lol" †
+    # "Yeah. Go lol" 
 
     ("「さあ、志保」",
     ""),

@@ -6,7 +6,7 @@ text_array = [
     ""),
     # (Aoi Scales Event 4 after selection B)†
 
-    ("「葵ち痰ゃんの教え方がいいんだよ。ポイントが的確で墲わかりやすいよ」",
+    ("「葵ち痰ゃんの教え方がいいんだよ。ポイントが的確でわかりやすいよ」",
     ""),
     # "Aoi Chisho-yan's teachings are better. The key points are accurate and easy to understand."
 
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Be humble again."
 
-    ("「そ、それより烽も、やっぱり、こういう体を動かすことは本人のセンスですよ」†",
+    ("「そ、それよりも、やっぱり、こういう体を動かすことは本人のセンスですよ」†",
     ""),
     # "And more, even if it's just that, it's up to you to move your body like this, it's up to you to feel the sense of your own."
 
-    ("「うーん、センスとか言甯われて烽も、いまいちピンとｗないな」",
+    ("「うーん、センスとか言甯われても、いまいちピンとｗないな」",
     ""),
     # "Hmm, I don't really get a sense of what you're saying about sense lol."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Physically speaking, I think motor skills and a sense of rhythm are good."
 
-    ("「はあ。まあ、いちおう昔から、興味のあることだけは墲わりと飲み桙込みが≠早いほうだったけどね」†",
+    ("「はあ。まあ、いちおう昔から、興味のあることだけはわりと飲み桙込みが≠早いほうだったけどね」†",
     ""),
     # "Ah. Well, since ancient times, the only thing that interests me was pretty quick to drink and drink."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Is that so? I can't see it."
 
-    ("「いちおう努力でフォ鴻ローしてるつ烽もりですから」",
+    ("「いちおう努力でフォ鴻ローしてるつもりですから」",
     ""),
     # "It's a Tsubomori that's been trying hard to get the throbbing out."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "That's definitely the key to Aoi Chisho-ya.
 
-    ("よし、オレ焜も葵ち痰ゃんみたく努力するぜー」†",
+    ("よし、オレも葵ち痰ゃんみたく努力するぜー」†",
     ""),
     # Okay, I'll try my best as much as Aoi Chishonan."†
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # You can't get stronger unless you train your basic body."
 
-    ("「そうだな、じ痰ゃあ、そのへん烽も頑張髓るよ」",
+    ("「そうだな、じ痰ゃあ、そのへんも頑張髓るよ」",
     ""),
     # "Yeah, I'll do my best too, too."
 

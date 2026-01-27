@@ -14,11 +14,11 @@ text_array = [
     ""),
     # He's really a cheap guy.
 
-    ("あかりとつき№合うрヤツは奄ラッキーか烽もな。",
+    ("あかりとつき№合うрヤツは奄ラッキーかもな。",
     ""),
     # The one who matches the red light is also lucky or hot.
 
-    ("金のかかるプレゼントなんてしなくて烽も、この程度のことで十分賦んでくれるからな。†",
+    ("金のかかるプレゼントなんてしなくても、この程度のことで十分賦んでくれるからな。†",
     ""),
     # They don't do expensive, extremely popular presents, and this level of food will pay enough for the hot springs.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Huh? Is that so...?"
 
-    ("虹が消えてなくなるまでを見届けてから、その繧後、ふたりでいっしょに帰った。◯",
+    ("虹が消えてなくなるまでを見届けてから、その後、ふたりでいっしょに帰った。◯",
     ""),
     # After watching the rainbow disappear and disappear, the two of them returned to the Ebi.◯
 

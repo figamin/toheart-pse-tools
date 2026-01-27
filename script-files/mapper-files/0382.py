@@ -2,7 +2,7 @@
 # Source file: 0382.txt
 
 text_array = [
-    ("（智子	回秤数イベント２	２階	ＬＶ１）閨（３獅月）閨（廊下）†",
+    ("（智子	回秤数イベント２	２階	ＬＶ１）閨（３月）閨（廊下）†",
     ""),
     # (Tomoko Scales Event 2, 2nd floor LV1) (3 Shizuki) (Corridor) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Tan!
 
-    ("とっさに踏んだステップでなんとか衝突は回避した烽ものの、浴女生徒はきびしい目でオレをにらんだ。",
+    ("とっさに踏んだステップでなんとか衝突は回避したものの、女生徒はきびしい目でオレをにらんだ。",
     ""),
     # Although the collision was managed to avoid the collision with a quick step, the female student glared at me with harsh eyes.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I flinch without thinking about it.†
 
-    ("戟レンズ越しのキツイ痺眼差しと、お下げ髪。",
+    ("レンズ越しのキツイ痺眼差しと、お下げ髪。",
     ""),
     # A numb gaze through the lens and her hair prickly.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # I shook my head and apologized,
 
-    ("女の子はすっと目をそらし、まるでなに烽もなかったかのように素っ気なく横を通闥り過ぎていった。†",
+    ("女の子はすっと目をそらし、まるでなにもなかったかのように素っ気なく横を通闥り過ぎていった。†",
     ""),
     # The girl looked away, curly as if there was no hot water.†
 

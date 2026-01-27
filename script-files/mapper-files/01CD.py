@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("あかりは、にこにこと笑迴顔でこたえる。",
+    ("あかりは、にこにこと笑顔でこたえる。",
     ""),
     # Akari responds with a smile on her face, also known as Nikoni.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "We then went to the Hokkaido Government Office Ken and the former main building, Clockwork Plant, and Sapporo Tei Rebya, and then ""
 
-    ("「おいおい、札幌の観光名竃所、片っぱしからま墲わるつ烽もりか？」†",
+    ("「おいおい、札幌の観光名竃所、片っぱしからまわるつもりか？」†",
     ""),
     # "Hey, is the tourist spot in Sapporo, a hot spring?!"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "I hope that I can go to the whole town as far as I can go, and take photos and take photos."
 
-    ("観光名竃所の写真集で烽もｍ骰る気かよ。†",
+    ("観光名竃所の写真集でもｍ骰る気かよ。†",
     ""),
     # Are you thinking of hoping to enjoy the photo book from the tourist spot?†
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Each person should choose the bonito spot that you definitely don't want to miss and then go around in order of number, right?"
 
-    ("「うん、そうか烽もね」†",
+    ("「うん、そうかもね」†",
     ""),
     # "Yeah, I see, Hot too."
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Is it okay to go and phlegm?"
 
-    ("「で烽も、札幌じ痰ゃないんだ。登別。",
+    ("「でも、札幌じ痰ゃないんだ。登別。",
     ""),
     # "And even in Sapporo, there's no phlegm. Noboribetsu.
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "...Bear, bear, bear, bear, bear, bear, bear, bear, bear, bear..."
 
-    ("「…あの、やっぱりいいよ。クマだったら、近葛所の動物園に烽も｢｢」†",
+    ("「…あの、やっぱりいいよ。クマだったら、近葛所の動物園にも｢｢」†",
     ""),
     # "...Um, it's fine as expected. If it were a bear, then there's a zoo in Chikazusho that also had a hot pot.
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "Huh, really?"
 
-    ("「約２１０墲種、１３００点の動物笊や鳥がいるらしいぜ。クマ焜もいるだ、きっと」",
+    ("「約２１０種、１３００点の動物笊や鳥がいるらしいぜ。クマもいるだ、きっと」",
     ""),
     # "It seems there are about 210 species and 1,300 animal skeletons and birds. There are also bear skeletons, I'm sure."
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "I thought so" †
 
-    ("その繧後煬もふたりは、自由行動のコースの話で盛關り繧上がった。",
+    ("その後煬もふたりは、自由行動のコースの話で盛關り上がった。",
     ""),
     # After that, the two of them also enjoyed talk about a free-action course.
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # Even though you haven't made a promise, you've decided to take action together.
 
-    ("まあ、どうせ、これにｉ史竡や志保なんかが加妺わるのがいつ烽ものパターンだ。†",
+    ("まあ、どうせ、これに史竡や志保なんかが加わるのがいつものパターンだ。†",
     ""),
     # Well, it's always the case that I-Shinkazu and Shiho are like this, and it's a hot pattern.†
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # Now, all that's left is to wait for the departure.
 
-    ("修学旅行まであと烽もう少し。",
+    ("修学旅行まであともう少し。",
     ""),
     # There's only a little more left until the school trip.
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # It's a long way to wait for the departure.
 
-    ("その前にゴールデンウィーク焜もあるけどな。◯",
+    ("その前にゴールデンウィークもあるけどな。◯",
     ""),
     # Before that, there's Golden Week.◯
 

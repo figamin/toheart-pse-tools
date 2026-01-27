@@ -2,9 +2,9 @@
 # Source file: 0B29.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント３）閨（選択綜Ｃ	ク鴻ロスカウンター	の続き）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント３）閨（選択綜Ｃ	ク鴻ロスカウンター	の続き）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 3 of the battle to take on the balance scales) (Continued from Chosen Soku C, Kukoross Counter)†
+    # (Aya∴Ka challenges Aya∴Ka, event 3 of the battle to take on the balance scales) (Continued from Chosen Soku C, Kukoross Counter)
 
     ("こうなったら、ク鴻ロスカウンターってрヤツを叩き桙込んでやる。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # 'I'm pushing so much, so I'm sure I'm letting my guard down.
 
-    ("見てよ〜…。†",
+    ("見てよ〜…。",
     ""),
-    # Look b...†
+    # Look b...
 
     ("オレはガードしながら目を光迪らせ、タイミングを計った。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # Aya∴Ka's right straight rating.
 
-    ("そいつにあ墲わせて、オレ焜も右を叩き桙込む。†",
+    ("そいつにあわせて、オレも右を叩き桙込む。",
     ""),
-    # He gives him a shot, and I also hit the right side and slammed it.†
+    # He gives him a shot, and I also hit the right side and slammed it.
 
     ("スパッ、",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # Sparrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
-    ("潤ワン、ツー…。†",
+    ("潤ワン、ツー…。",
     ""),
-    # Jun One, two...†
+    # Jun One, two...
 
     ("スパッ、",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Sparrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr
 
-    ("潤ワン、ツー…。†",
+    ("潤ワン、ツー…。",
     ""),
-    # Jun One, two...†
+    # Jun One, two...
 
     ("スパッ｢｢。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # It's Hajime!
 
-    ("くらえぇぇ〜〜〜〜〜〜〜〜〜〜〜〜っ！†",
+    ("くらえぇぇ〜〜〜〜〜〜〜〜〜〜〜〜っ！",
     ""),
-    # I'll save it!†
+    # I'll save it!
 
     ("｢｢スパアァーーーーーーーーーーンッ！",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # Aya∴Ka's right hit Kugata Lean.
 
-    ("オレの右は伸びきってない。†",
+    ("オレの右は伸びきってない。",
     ""),
-    # My hard right side is not fully extended.†
+    # My hard right side is not fully extended.
 
     ("ぐらりと揺齬れるオレの顔面に、",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # Ka, counterattack.
 
-    ("玉砕…。†",
+    ("玉砕…。",
     ""),
-    # A tragic...†
+    # A tragic...
 
     ("・",
     ""),
@@ -134,21 +134,21 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("ク鴻ロスカウンターなんて、慣れないことはやる烽もんじ痰ゃねーな。",
+    ("ク鴻ロスカウンターなんて、慣れないことはやるもんじ痰ゃねーな。",
     ""),
     # The Kukoross counter is a must-have for things you don't get used to.
 
-    ("蓄積ゼ鴻ロでできる墲わき痰ゃねーか。",
+    ("蓄積ゼ鴻ロでできるわき痰ゃねーか。",
     ""),
     # Isn't it possible to get phlegm from accumulated Zekoro?
 
-    ("自分の力量を見血ったぜ。†",
+    ("自分の力量を見血ったぜ。",
     ""),
-    # I saw my ability.†
+    # I saw my ability.
 
     ("「蛛大苟丈夫ですか？」",
     ""),
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("オレは繧上体を起こすと、吹草の繧上であぐらをかいた。",
+    ("オレは上体を起こすと、吹草の上であぐらをかいた。",
     ""),
     # I lifted up my body and grabbed my legs on the ridge of the bush.
 
-    ("「くっそー…、今厓日のは汲結構いい感じだったんだけどなあ」†",
+    ("「くっそー…、今厓日のは結構いい感じだったんだけどなあ」",
     ""),
     # "Damn... I thought it was pretty good on the day right now."
 
@@ -190,24 +190,24 @@ text_array = [
     ""),
     # "oh dear…"
 
-    ("「馬鹿ねえ。ジャャブで動きを止められてからじ痰ゃ出遅れるのは魔当然でしょ。ああいうのは、もう少しディフェンスが繧上達してから狙いなさいよ」",
+    ("「馬鹿ねえ。ジャャブで動きを止められてからじ痰ゃ出遅れるのは魔当然でしょ。ああいうのは、もう少しディフェンスが上達してから狙いなさいよ」",
     ""),
     # "That's stupid. It's only natural that you'll be slow to get phlegm after you stop moving. You should aim for that kind of thing once your defense improves a little more."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("なに烽も言えないオレに、",
+    ("なにも言えないオレに、",
     ""),
     # I can't say anything about it,
 
-    ("「で烽も確実に進熕歩はしてる墲わよ」",
+    ("「でも確実に進熕歩はしてるわよ」",
     ""),
     # "And the hot springs are definitely coming soon."
 
-    ("綾∴香は、にこっと笑ってそう言った。†",
+    ("綾∴香は、にこっと笑ってそう言った。",
     ""),
-    # Aya∴Ka said with a smile.†
+    # Aya∴Ka said with a smile.
 
 ]

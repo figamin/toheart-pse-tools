@@ -2,15 +2,15 @@
 # Source file: 07FB.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	別れる）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	別れる）",
     ""),
-    # (Kotone Scales Event PS) (Chounen Sogo)†
+    # (Kotone Scales Event PS) (Chounen Sogo)
 
     ("「じ痰ゃ、また明坙日な」",
     ""),
     # "You'll have to wait a second time."
 
-    ("オレは右濶手を軽く繧上げた。",
+    ("オレは右濶手を軽く上げた。",
     ""),
     # Ogekire lightly raised his right hand.
 

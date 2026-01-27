@@ -2,11 +2,11 @@
 # Source file: 00A2.txt
 
 text_array = [
-    ("（３獅月６冾日	朝）閨（自分の部屋）†",
+    ("（３月６冾日	朝）閨（自分の部屋）†",
     ""),
     # (3rd Lion, 6th day of the month, morning) (morning) (morning room)
 
-    ("３獅月６冾日、木曜坥日。",
+    ("３月６冾日、木曜坥日。",
     ""),
     # The 3rd Lion Month 6th day, Thursday Day.
 

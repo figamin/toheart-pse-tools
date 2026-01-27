@@ -2,9 +2,9 @@
 # Source file: 08F1.txt
 
 text_array = [
-    ("（戟レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	信じる方かな？）†",
+    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	信じる方かな？）",
     ""),
-    # (Remie, the test day return PS) (Choice, the lucky katakana?)†
+    # (Remie, the test day return PS) (Choice, the lucky katakana?)
 
     ("「信じる方かな？」",
     ""),
@@ -14,19 +14,19 @@ text_array = [
     ""),
     # I think there are after all.
 
-    ("「＜ー戟レイ、好き？」",
+    ("「＜ーレイ、好き？」",
     ""),
     # "<-Do you like me, huh??"
 
-    ("「好きじ痰ゃねえよ。おっかねえからな、﨟基本的に」†",
+    ("「好きじ痰ゃねえよ。おっかねえからな、﨟基本的に」",
     ""),
-    # "You love me, I have no phlegm. You're not going to get it, 﨟Essentially" †
+    # "You love me, I have no phlegm. You're not going to get it, 﨟Essentially" 
 
     ("「わかりました！」",
     ""),
     # "I understand!"
 
-    ("「なんだ、それだけで墲わかるのか？」†",
+    ("「なんだ、それだけでわかるのか？」",
     ""),
     # "What, does that mean you can tell from that?"
 

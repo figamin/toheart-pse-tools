@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "Is it for something?"
 
-    ("あくび交じりで聞いた。†",
+    ("あくび交じりで聞いた。",
     ""),
-    # I asked with a yawning sniff.†
+    # I asked with a yawning sniff.
 
-    ("「昨厓日は惜しかった墲わね〜」",
+    ("「昨厓日は惜しかったわね〜」",
     ""),
     # "Last day was a shame."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "So, can you treat me next time?"
 
-    ("「なんでだ？	オレをつき№合寘わせた礼か？」†",
+    ("「なんでだ？	オレをつき№合寘わせた礼か？」",
     ""),
     # "Why? Was it a tribute that I made a huge surge and put them together?"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Well, that's a b place."
 
-    ("「おめえが墲わざ墲わざ礼をするなんて、気味の悪いことすんなよ」",
+    ("「おめえがわざわざ礼をするなんて、気味の悪いことすんなよ」",
     ""),
     # "Don't do anything creepy to say goodbye to me on purpose."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Why are you going to let me fill in No. 1 this time?"
 
-    ("「昨厓日は一箞方的にあんたを連齪れ回したからよ」†",
+    ("「昨厓日は一箞方的にあんたを連齪れ回したからよ」",
     ""),
     # "I was able to keep repeating you all the way last day."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "What was last day? You're always quite sloppy.
 
-    ("ヤックでр埋め№合寘わせるなら、′こう３年間くらいはおごって烽もら墲わねえとな」",
+    ("ヤックでр埋め№合寘わせるなら、′こう３年間くらいはおごってもらわねえとな」",
     ""),
     # If I were to fill up with a yak, I would have to pay him for him for about three years and get some hot water."
 
@@ -66,19 +66,19 @@ text_array = [
     ""),
     # "Don't say stupid things.
 
-    ("一箞方的だったのは昨厓日だけ。今までは揩持ちつ揩持たれつでしょ」",
+    ("一箞方的だったのは昨厓日だけ。今までは持ちつ持たれつでしょ」",
     ""),
     # The only thing that was straightforward was last day.Until now, I've been holding my own slut."
 
-    ("「どこからそんなふてぶてしい言葉が出てくるんだか…」†",
+    ("「どこからそんなふてぶてしい言葉が出てくるんだか…」",
     ""),
     # "Where do you think such a frank word comes from?"
 
-    ("「ふてぶてしくない墲わよ。律義だから借闔りは返すって言ってんの」",
+    ("「ふてぶてしくないわよ。律義だから借りは返すって言ってんの」",
     ""),
     # "You're not a bluff. You're saying that you'll pay back any loans because it's just right."
 
-    ("「そういうお前がそこまでこだ墲わるってことは、諱よっぽどオレに悪いことをしたと思ってんだな？」†",
+    ("「そういうお前がそこまでこだわるってことは、諱よっぽどオレに悪いことをしたと思ってんだな？」",
     ""),
     # "If you were to be so close, you think you've done something really bad for me, right?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # Shiho's bad wisdom is at the level of Pro-Koro banquet, but lying on the Adgata Lib is a shitty thing.
 
-    ("なにか隠してるのはすぐに墲わかった。",
+    ("なにか隠してるのはすぐにわかった。",
     ""),
     # I quickly realized that I was hiding something.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Tell me. If I say that, I'll accept and tamper with the courtesy."
 
-    ("「なんのことかしらね〜」†",
+    ("「なんのことかしらね〜」",
     ""),
     # "I wonder what it is..."
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "Last day, I told a man was asking for a call, yelling, yelling?"
 
-    ("「まさか…」†",
+    ("「まさか…」",
     ""),
-    # "No way..." †
+    # "No way..." 
 
     ("「そのまさかなのよね〜」",
     ""),
@@ -130,19 +130,19 @@ text_array = [
     ""),
     # "Te<Mee, are you saying that that, which drags me around so hard, is a jicc?"
 
-    ("「だからさ…だからね、пヤックでゴ＜メンして烽もらおっかな〜ってあたしなりに考えたのよ」",
+    ("「だからさ…だからね、пヤックでゴ＜メンしてもらおっかな〜ってあたしなりに考えたのよ」",
     ""),
     # "That's why... that's why I thought I'd go and get some hot stuff with my пyak."
 
-    ("いつになくうたえる志保。†",
+    ("いつになくうたえる志保。",
     ""),
-    # Shiho is more than ever before.†
+    # Shiho is more than ever before.
 
     ("…ま、こいつなりに反省してるんだう。",
     ""),
     # ...Well, this guy is reflecting on his own.
 
-    ("オレにして烽もヒマだった墲わけだし、特になにかを損した墲わけじ痰ゃない。",
+    ("オレにしてもヒマだったわけだし、特になにかを損したわけじ痰ゃない。",
     ""),
     # I was so excited that I had no time for the Hot Springs, and there was no way I could have done anything in particular.
 
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "I see.... Is that phlegm? Is it jicc?"
 
-    ("納得したようにオレはうなずいた。†",
+    ("納得したようにオレはうなずいた。",
     ""),
-    # I nodded as if to be convinced.†
+    # I nodded as if to be convinced.
 
     ("「なんか急に、と恋人ごっこしたら楽しいかな〜って思っち痰ゃってぇ。…пヤックじ痰ゃ足闡りない？」",
     ""),
@@ -162,17 +162,17 @@ text_array = [
     ""),
     # "...I understand.
 
-    ("ヤックなんていらねえから、とりあえず、許す」†",
+    ("ヤックなんていらねえから、とりあえず、許す」",
     ""),
-    # I don't need a yak, so I'll allow it to be polished for now."†
+    # I don't need a yak, so I'll allow it to be polished for now."
 
-    ("あの志保が自分から謝闔りにｗたんだ。",
+    ("あの志保が自分から謝りにｗたんだ。",
     ""),
     # That Shiho apologized for himself lol.
 
-    ("物でつうって考えはイマイチだが、志保にしち痰ゃ繧上出女だうな。†",
+    ("物でつうって考えはイマイチだが、志保にしち痰ゃ上出女だうな。",
     ""),
-    # I don't really think of something as a b, but Shiho is a woman who is really a b-sex.†
+    # I don't really think of something as a b, but Shiho is a woman who is really a b-sex.
 
     ("「ホントに！？」",
     ""),
@@ -182,19 +182,19 @@ text_array = [
     ""),
     # "From now on, if you want to play, say, 'Let me play.' And then I'll try and tamper with it."
 
-    ("「言う言う。言う墲わよ〜」",
+    ("「言う言う。言うわよ〜」",
     ""),
     # "I'll say it. I'll say it."
 
-    ("ブンブンうなずく志保。†",
+    ("ブンブンうなずく志保。",
     ""),
-    # Shiho nodded, banging.†
+    # Shiho nodded, banging.
 
     ("「なあ、ひとつ聞いていいか？」",
     ""),
     # "Hey, can I ask you something?"
 
-    ("「なに？	今ならなんで烽も嘯答える墲わよ」",
+    ("「なに？	今ならなんでも嘯答えるわよ」",
     ""),
     # "What? Why are you going to answer now?"
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "At that time, did you really want to kiss me, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 
-    ("「う〜ん…、そういうあんたはどうなの？」†",
+    ("「う〜ん…、そういうあんたはどうなの？」",
     ""),
     # "Hmm... what do you think of that?"
 
@@ -210,13 +210,13 @@ text_array = [
     ""),
     # "I'm listening."
 
-    ("「あたしは…え〜っと、諱よく墲わかんない凾☆」",
+    ("「あたしは…え〜っと、諱よくわかんない凾☆」",
     ""),
     # "I... uh, I don't really know what you're saying☆"
 
-    ("「こら」†",
+    ("「こら」",
     ""),
-    # "Here" †
+    # "Here" 
 
     ("「っていうか、したらどんな気分かな〜って多分そう思ってたのよ」",
     ""),
@@ -226,28 +226,28 @@ text_array = [
     ""),
     # "Is that all?"
 
-    ("「だからぁ、ホントに自分で烽もはっきりしないのよ」",
+    ("「だからぁ、ホントに自分でもはっきりしないのよ」",
     ""),
     # "That's why I really don't know what to do with myself."
 
-    ("「わかんねえрヤツだな」†",
+    ("「わかんねえрヤツだな」",
     ""),
-    # "I don't know, you're the one"†
+    # "I don't know, you're the one"
 
-    ("「そ！	あたしは墲わかんないрヤツ」",
+    ("「そ！	あたしはわかんないрヤツ」",
     ""),
     # "Yeah! I don't know who you are."
 
-    ("「自分で言ってり痰ゃ世話ねえよ」†",
+    ("「自分で言ってり痰ゃ世話ねえよ」",
     ""),
     # "You'll have to say it yourself and don't take care of me."
 
-    ("その繧後煬もはっきりした嘯答えが聞けず、うまくはぐらかされたような感じだった。",
+    ("その後煬もはっきりした嘯答えが聞けず、うまくはぐらかされたような感じだった。",
     ""),
     # After that, even Han couldn't hear a clear answer, and it seemed like he had been stumbled.
 
-    ("最近の志保はますますおかしいな…。†",
+    ("最近の志保はますますおかしいな…。",
     ""),
-    # Shiho has become even more strange these days...†
+    # Shiho has become even more strange these days...
 
 ]

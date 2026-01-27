@@ -2,9 +2,9 @@
 # Source file: 0869.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベントＰＳ）閨（選択綜	ホテル）†",
+    ("（レミィ	回秤数イベントＰＳ）閨（選択綜	ホテル）",
     ""),
-    # (Game Remy Scales Event PS) (Select Soho Tear)†
+    # (Game Remy Scales Event PS) (Select Soho Tear)
 
     ("「じ痰ゃ、ホテル行くか」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("軽べつのまなざし…。†",
+    ("軽べつのまなざし…。",
     ""),
-    # A light gaze...†
+    # A light gaze...
 
     ("「お、おい、ジョークだっての！	イッツ、ジョーク。ＯＫ？」",
     ""),
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "H Death..."
 
-    ("う墲わ〜っ、なんか凾嫌甯われてる！？†",
+    ("うわ〜っ、なんか凾嫌甯われてる！？",
     ""),
-    # Wow, I'm getting disgusted!?†
+    # Wow, I'm getting disgusted!?
 
-    ("「す、すまん、戟レミィ。悪気はなかったんだ」",
+    ("「す、すまん、レミィ。悪気はなかったんだ」",
     ""),
     # "S-Sorry, oh Remie. I didn't mean anything."
 
@@ -42,23 +42,23 @@ text_array = [
     "…"),
     # "..."
 
-    ("この間をどーすんだ！？†",
+    ("この間をどーすんだ！？",
     ""),
-    # What will you do during this time??†
+    # What will you do during this time??
 
-    ("「アハハハッ、梶ｊ盾ｏ汲駆デース。Ｉｔ	梶ｊ盾ｏ汲駆。ＯＫ？」",
+    ("「アハハハッ、梶ｊ盾ｏ駆デース。Ｉｔ	梶ｊ盾ｏ駆。ＯＫ？」",
     ""),
     # "Hahaha, Kaji J Shield Ok B-Days. It Kaji J Shield Ok B-Days. OK?"
 
-    ("「こらっ！	戟レミィ！」",
+    ("「こらっ！	レミィ！」",
     ""),
     # "Hey! Karemy!"
 
-    ("「アハハハハッ」†",
+    ("「アハハハハッ」",
     ""),
-    # "Hahahaha" †
+    # "Hahahaha" 
 
-    ("結局その冾日は、無俣に二人でアーケードを烽歩いた。◯",
+    ("結局その冾日は、無俣に二人でアーケードを歩いた。◯",
     ""),
     # In the end, the two of them walked around the arcade in Mumata.◯
 

@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Tomoko's 5th favorability event) (occurred on other days other than Saturday) (occurred on a stove above 20) (occurred on a stove above 20)) (occurred on a stove when seeing a stove event 4) (occurred on a stove at a stove at a stove) (occurrency) †
 
-    ("授業が終尞わって汲昼休み。",
+    ("授業が終尞わって昼休み。",
     ""),
     # After class is over, we have lunch break.
 
-    ("適俣当に汲昼£メシ焜も食い終えて、オレは椅子を傾けシーソーさせながら、ぼんやりと天井を見つめていた。",
+    ("適俣当に昼メシも食い終えて、オレは椅子を傾けシーソーさせながら、ぼんやりと天井を見つめていた。",
     ""),
     # After finishing the meal of lunch at Tomata, I tilted my chair and saws my eyes out, gazing at Tenryi.
 
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "It would be even more annoying to be forced to be treated by kindness, who wears a different kindness!"
 
-    ("あの一処件以来、委員長は前に烽も揩増して強い対人バリアーを張髓るようになった。",
+    ("あの一処件以来、委員長は前にも増して強い対人バリアーを張髓るようになった。",
     ""),
     # Since that incident, the chairman has been increasingly increasing the number of hot spots and has been making strong interpersonal barara ria.
 
-    ("ま墲わりに対する反梍応が異妤常に冷たい。",
+    ("まわりに対する反梍応が異常に冷たい。",
     ""),
     # The rebuttal to the king is always cold.
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # My seating is also next to me, and I'm always close to the next day, so I feel that hard.†
 
-    ("声をかけて烽もｉ話にならない。",
+    ("声をかけても話にならない。",
     ""),
     # He called out and the conversation didn't even make an i-talk.
 
-    ("無許視されるか、もしくは冷たくあしら墲われて終尞わり。",
+    ("無許視されるか、もしくは冷たくあしらわれて終尞わり。",
     ""),
     # They are either viewed as unauthorized or are treated coldly and end up being overwhelmed.
 
-    ("♂話のキャャッチボール…というより、梶投げた駆をカキーンと打ち返される感じ。†",
+    ("雅話のキャャッチボール…というより、梶投げた駆をカキーンと打ち返される感じ。†",
     ""),
     # Rather, it's like a kaki thrower being hit back when he talks about a male-dominated cast.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # At that time, looking out the window, what was the chairman thinking?
 
-    ("どうってことない素振關りで、いつ烽もどおりの強気を浮装っていたが、本末当はかなりこたえていたに痰違いない。†",
+    ("どうってことない素振關りで、いつもどおりの強気を浮装っていたが、本末当はかなりこたえていたに痰違いない。†",
     ""),
     # He was always pretending to be as strong as he was, but the truth was quite responsive, and it must have been stolen.†
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # There is no chairman now.
 
-    ("昼休みになると、彼濫女はいつ烽もチャャイムと同椏時に教室を出て行くのだ。",
+    ("昼休みになると、彼女はいつもチャャイムと同椏時に教室を出て行くのだ。",
     ""),
     # During lunch break, the woman always leaves the classroom, whenever she is alone with Chaiim.
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Then I'll come back when the lunch break is over.
 
-    ("どこか別の場鰹所で汲昼食をとってるんだう。",
+    ("どこか別の場鰹所で昼食をとってるんだう。",
     ""),
     # I'm having lunch at another bonito spot somewhere.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "Hoshina-san?"
 
-    ("「うん。たしか獅去年熹も同じクラスだった。",
+    ("「うん。たしか去年熹も同じクラスだった。",
     ""),
     # "Yeah. I'm sure Lion last year, the same banquet was held b.
 
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "That's right.
 
-    ("やっぱり、頭のいい人って感じかな。う墲わさだと、どんなテストで烽も必ず学年で３番以煦内には入ってるらしいよ」",
+    ("やっぱり、頭のいい人って感じかな。うわさだと、どんなテストでも必ず学年で３番以煦内には入ってるらしいよ」",
     ""),
     # I guess he's a smart person after all.With Utsuwasa, it seems that in any test, Hot will always be in the ranks of the third or higher in the grade."
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "What? What's wrong, Hoshina-san?"
 
-    ("「いや、べつにどうって墲わけじ痰ゃないけど」",
+    ("「いや、べつにどうってわけじ痰ゃないけど」",
     ""),
     # "It's not a problem, but I don't have to deal with it."
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # Akari nodded small.†
 
-    ("「お前、委員長と烽もっと№仲良くなれないか？」",
+    ("「お前、委員長ともっと№仲良くなれないか？」",
     ""),
     # "Can you become more friends with the chairman?"
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "You might eat it with the beef cutlet, or you might go back to the beef..."
 
-    ("「…うん。できたら親しくなりたいと思う。で烽も、前に何度か話しかけたけど…」",
+    ("「…うん。できたら親しくなりたいと思う。でも、前に何度か話しかけたけど…」",
     ""),
     # "...Yeah. I'd like to be close to you if possible. And I've spoken to you a few times before..."
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "All the name"
 
-    ("オレは椅子から立ち繧上がった。†",
+    ("オレは椅子から立ち上がった。†",
     ""),
     # I stood up from my chair.†
 
@@ -286,23 +286,23 @@ text_array = [
     ""),
     # This is because the chairman himself is self-healthy and incooperative.
 
-    ("自業自得…っていうか、彼濫女自身が望んでそういうポジションにいる墲わけだから、他人がどうこう口出しできる問題じ痰ゃない。†",
+    ("自業自得…っていうか、彼女自身が望んでそういうポジションにいるわけだから、他人がどうこう口出しできる問題じ痰ゃない。†",
     ""),
     # It's up to her own fault...or rather, she is in such a position that the woman herself wants to be in, so it's a question of how other people can intervene in fortunes.†
 
-    ("く墲わえて成績熕もよく、ま墲わりを見下してるような生意気なとこがあるからタチが悪い。",
+    ("くわえて成績熕もよく、まわりを見下してるような生意気なとこがあるからタチが悪い。",
     ""),
     # He has good grades and is also cheeky, looking down on the edge of the band, so he's a bit of a bad guy.
 
-    ("あの態度が鼻につくってやつらの気搴持ち烽も墲わからないで烽もない。",
+    ("あの態度が鼻につくってやつらの気搴持ちもわからないでもない。",
     ""),
     # That attitude makes them seem like they don't know what kind of people are trying to tamper with, and they don't know what kind of spirit they are, and they don't have any spirits.
 
-    ("正直オレ焜も委員長にはちょっとムカつく。†",
+    ("正直オレも委員長にはちょっとムカつく。†",
     ""),
     # To be honest, I'm also very annoyed by the chairman.†
 
-    ("｢｢とは、いう烽ものの…。",
+    ("｢｢とは、いうものの…。",
     ""),
     # "'' is something called a hot spring...
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # One of the things that happened to me was awful.
 
-    ("ノートに獅落送書きなんて、じつにガキくさいいたずらだけど、実際竝やられり痰ゃ鰍相桝当搏傷つく烽もんな。",
+    ("ノートに落送書きなんて、じつにガキくさいいたずらだけど、実際竝やられり痰ゃ鰍相桝当搏傷つくもんな。",
     ""),
     # Writing a lion's message in a notebook is a really brat-like prank, but actually, if you get hit with a slut, you'll be hurt by the slut.
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # They're all the guys anyway.
 
-    ("ここはひとつ、隣の席のよしみでオレが、ガツーンと言ってやって烽もいいが｢｢。†",
+    ("ここはひとつ、隣の席のよしみでオレが、ガツーンと言ってやってもいいが｢｢。†",
     ""),
     # Here, I'm in the seat next to me, and I'm going to say it's hard to say it's tough and it's nice to have a hot flash of it, but "†
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # "What, you said, I was told.
 
-    ("お節譿介はやめたほうがいいか烽もな。†",
+    ("お節譿介はやめたほうがいいかもな。†",
     ""),
     # I wonder if it's better to stop tampering with the news.†
 
@@ -354,7 +354,7 @@ text_array = [
     ""),
     # He's swearing at his mouth, but that's not necessarily the case.
 
-    ("言葉とは裏腹に、本末当は力になって欲しいなんてこと烽も…。†",
+    ("言葉とは裏腹に、本末当は力になって欲しいなんてことも…。†",
     ""),
     # Despite his words, he also said that he wanted the truth to be a source of strength...†
 
@@ -362,7 +362,7 @@ text_array = [
     ""),
     # ...I think that's a good interpretation of Tokyo. B, I guess.
 
-    ("で烽もどっちみち、このまま冾放っておくの烽もスッキリしないな。†",
+    ("でもどっちみち、このまま冾放っておくのもスッキリしないな。†",
     ""),
     # So, the hot springs will just go wrong, leaving them alone as they are.†
 
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # Chiebi is good.
 
-    ("あれからまと烽もに揩喋ってないし、委員長にｉって、艨ゆっくり話をしてみよう。",
+    ("あれからまともに喋ってないし、委員長にって、艨ゆっくり話をしてみよう。",
     ""),
     # Since then, no one has spoken to me, so let's talk to the chairman slowly.
 
@@ -386,9 +386,9 @@ text_array = [
     ""),
     # I don't think I'll get close to places where there are many people.†
 
-    ("£鋳とか…？†",
+    ("鋳とか…？†",
     ""),
-    # £Casting or something like...?†
+    # Casting or something like...?†
 
     ("いないみたいだ。",
     ""),
@@ -406,11 +406,11 @@ text_array = [
     ""),
     # Was it wrong?
 
-    ("食堂に烽もいない…となると。†",
+    ("食堂にもいない…となると。†",
     ""),
     # There's no hot water in the cafeteria...†
 
-    ("もしかしたら、図草書室か烽も。",
+    ("もしかしたら、図草書室かも。",
     ""),
     # Maybe a cursive library or a hot pot.
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # not present….
 
-    ("ここで烽もないのか。†",
+    ("ここでもないのか。†",
     ""),
     # Is there no heat here?†
 
@@ -442,11 +442,11 @@ text_array = [
     ""),
     # That's right!
 
-    ("もしかしたら、あそこか烽もしれない。",
+    ("もしかしたら、あそこかもしれない。",
     ""),
     # Maybe there's a hot spring.
 
-    ("とくになんの根注拠煖もないが、オレはなんとなく自信を揩持って階段を駆け昇った。†",
+    ("とくになんの根注拠もないが、オレはなんとなく自信を持って階段を駆け昇った。†",
     ""),
     # I had no particular reason for anything, but I somehow managed to climb the stairs with confidence.†
 
@@ -458,7 +458,7 @@ text_array = [
     ""),
     # I opened the heavy iron door and went out onto the house.†
 
-    ("「う墲わっ」",
+    ("「うわっ」",
     ""),
     # "Uhhhhh"
 
@@ -474,7 +474,7 @@ text_array = [
     ""),
     # It's a completely different world from the school building.†
 
-    ("暖かい太陽とさ墲わやかな翌風。",
+    ("暖かい太陽とさわやかな翌風。",
     ""),
     # Warm sun and a slurping after-wind.
 
@@ -482,7 +482,7 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("なんと烽も心地いい。",
+    ("なんとも心地いい。",
     ""),
     # The hot water is also very comfortable.
 
@@ -490,7 +490,7 @@ text_array = [
     ""),
     # My heart yawned loudly as I stretched.
 
-    ("ふ墲わ〜あ、このまま午後の授業はふけて、のんびりとひなたぼっこで烽もしていたいぜ。†",
+    ("ふわ〜あ、このまま午後の授業はふけて、のんびりとひなたぼっこでもしていたいぜ。†",
     ""),
     # Wow, I'd like to continue to spend time in classes after the morning, and relaxingly basking in the sun.†
 
@@ -502,7 +502,7 @@ text_array = [
     ""),
     # I'll have to look for the chairman.
 
-    ("あんまりいい天気な烽もんで、ついつい目的を忘齧れちまうとこだった。",
+    ("あんまりいい天気なもんで、ついつい目的を忘齧れちまうとこだった。",
     ""),
     # The weather was so nice that I couldn't help but forget about my purpose.
 
@@ -514,7 +514,7 @@ text_array = [
     ""),
     # The top of this school's house is surprisingly spacious.
 
-    ("見渡すと、いま烽もいくつか生徒のグループがいて、弁抹当を食べたり、ボールで遊んだりしている。",
+    ("見渡すと、いまもいくつか生徒のグループがいて、弁抹当を食べたり、ボールで遊んだりしている。",
     ""),
     # When I looked over, I saw that there were now several students crying loop, eating bento boxes and playing with a bowl.
 
@@ -530,7 +530,7 @@ text_array = [
     ""),
     # There, the woman who had pigtails was suddenly seen looking at the faraway view of the Tang Dynasty...
 
-    ("間瘧違いない、委員長だ。†",
+    ("間違いない、委員長だ。†",
     ""),
     # He's the chairman, surely.†
 
@@ -550,7 +550,7 @@ text_array = [
     ""),
     # The big ecstasy flashes through the lens of the glasses' glasses.
 
-    ("「いよぅ、捜したぜ。学校穀を烽歩き回って、諱ようやく見つけたんだ」",
+    ("「いよぅ、捜したぜ。学校穀を歩き回って、諱ようやく見つけたんだ」",
     ""),
     # "Yes, I searched. I wandered around school grain and found it."
 
@@ -590,7 +590,7 @@ text_array = [
     ""),
     # Start from there and gradually get closer to the main topic.†
 
-    ("「そんなしょーもない揩理由で学校穀を捜して回ったん？	…アホくさ」",
+    ("「そんなしょーもない理由で学校穀を捜して回ったん？	…アホくさ」",
     ""),
     # "Did you go around searching for school grain for such a shameful reason? ...I'm stupid."
 
@@ -602,7 +602,7 @@ text_array = [
     ""),
     # A, idiots are begging b.†
 
-    ("委員長は手すりの繧上にひじを乗せ、頬杖をつくと、遠くのほうを眺めた。",
+    ("委員長は手すりの上にひじを乗せ、頬杖をつくと、遠くのほうを眺めた。",
     ""),
     # The chairman rested his elbows on the railing, rested his chin, and looked into the distance.
 
@@ -626,7 +626,7 @@ text_array = [
     ""),
     # "Well, don't say that."
 
-    ("苦笑しながら、オレ焜も同じように手すりに烽もたれかかった。†",
+    ("苦笑しながら、オレも同じように手すりにもたれかかった。†",
     ""),
     # With a wry smile, my stomping leaned against the railing in the same way.†
 
@@ -642,11 +642,11 @@ text_array = [
     ""),
     # My heart responded with a laugh with a faint smile.
 
-    ("委員長は『なんやねんな、あんたは…』とで烽も言いたそうなシラけた顔をし、再び正面にｌき直った。†",
+    ("委員長は『なんやねんな、あんたは…』とでも言いたそうなシラけた顔をし、再び正面にｌき直った。†",
     ""),
     # The chairman gave a feast-like look on his face, saying, "What are you doing, you..." and then he replied to the front again.†
 
-    ("さ墲わやかな春酪風が委員長の前髪をサラサラと揺逞らして≠吹き抜けていく。",
+    ("さわやかな春酪風が委員長の前髪をサラサラと揺逞らして≠吹き抜けていく。",
     ""),
     # The gentle, spring rags the chairman's bangs and sways through the air, swaying through the chairperson's bangs.
 
@@ -658,7 +658,7 @@ text_array = [
     ""),
     # I don't think about it, but I think about that.
 
-    ("浴風が通闥り過ぎてから、オレはのんびりした口調で言った。†",
+    ("風が通闥り過ぎてから、オレはのんびりした口調で言った。†",
     ""),
     # After the bathing atmosphere became too wide, my heart said in a relaxed tone of luck.†
 
@@ -678,7 +678,7 @@ text_array = [
     ""),
     # My eyes narrowed and looked out into the far-flung scenery, just like the chairman.†
 
-    ("「ここから見骭る景色ってさ、この学校が自搦慢できる数少ない長樺所のひとつだと思寬わねぇ？	さすが山の繧上に嘯建ってるだけあって、ホント、見晴逅らしがいいよ」",
+    ("「ここから見骭る景色ってさ、この学校が自搦慢できる数少ない長樺所のひとつだと思寬わねぇ？	さすが山の上に嘯建ってるだけあって、ホント、見晴逅らしがいいよ」",
     ""),
     # "The view from here is what you can see, and you can imagine this school as one of the few long-distance places you can rest assured of? As expected from the mountains, it's really nice to see Miharu-ko."
 
@@ -686,7 +686,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("委員長はなに烽もこたえない。",
+    ("委員長はなにもこたえない。",
     ""),
     # The chairman can't respond to anything.
 
@@ -718,7 +718,7 @@ text_array = [
     ""),
     # He replied.†
 
-    ("「昼休みの教室はうるさてかな墲わへんから、ここへ逃げてｗとるだけや」",
+    ("「昼休みの教室はうるさてかなわへんから、ここへ逃げてｗとるだけや」",
     ""),
     # "The classrooms during lunch break are noisy, so run away lol just to get it."
 
@@ -730,11 +730,11 @@ text_array = [
     ""),
     # I gave a wry smile.
 
-    ("いかに烽も委員長迺らしいセリフだと思った。†",
+    ("いかにも委員長迺らしいセリフだと思った。†",
     ""),
     # I thought that Hou was a Segata riff that was typical of the Chairman.†
 
-    ("「で烽もさ、こうやってオｃモチャャみたいな町を見下奄してると、なんていうか、こう、人間ってちっぽけな存在だな〜って思うよなァ。小さいことでクャクャしてる自分が馬鹿馬鹿しくなるっつーかさ。なんとなくそんな気になんない？」",
+    ("「でもさ、こうやってオｃモチャャみたいな町を見下奄してると、なんていうか、こう、人間ってちっぽけな存在だな〜って思うよなァ。小さいことでクャクャしてる自分が馬鹿馬鹿しくなるっつーかさ。なんとなくそんな気になんない？」",
     ""),
     # "And when I'm tampering with this and looking down on a town like a slut, I think that humans are small things. I feel like I'm just stupid, grossing about small things. I don't feel that way?"
 
@@ -754,11 +754,11 @@ text_array = [
     ""),
     # Hmm.
 
-    ("♂話が続かね〜な。†",
+    ("雅話が続かね〜な。†",
     ""),
     # I wonder if the story continues.†
 
-    ("気を取闔り直し、",
+    ("気を取り直し、",
     ""),
     # Relax and
 
@@ -774,7 +774,7 @@ text_array = [
     ""),
     # "Heh..."
 
-    ("委員長は墲わざとらしい大きなため息をついて、こっちをｌいた。†",
+    ("委員長はわざとらしい大きなため息をついて、こっちをｌいた。†",
     ""),
     # The chairman gave a deliberate sigh and leapt over me.†
 
@@ -786,7 +786,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「さっき烽も言うたや？	うるさいのが凾嫌竚やから、わざ墲わざここｗてんねん。静かな場鰹所でゆっくりしたいんや」",
+    ("「さっきも言うたや？	うるさいのが凾嫌竚やから、わざわざここｗてんねん。静かな場鰹所でゆっくりしたいんや」",
     ""),
     # "I was also a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of
 
@@ -794,7 +794,7 @@ text_array = [
     ""),
     # He says with cold eyes.†
 
-    ("「それに烽内容のない話につき№合寘わされるんはむっち痰ゃしんどい墲わ」",
+    ("「それに内容のない話につき№合寘わされるんはむっち痰ゃしんどいわ」",
     ""),
     # "And also, because there is no content to be told, if you're forced to join us, it's tough to have sex."
 
@@ -818,7 +818,7 @@ text_array = [
     ""),
     # "If that's not going, I'll go to another bonito spot."
 
-    ("素っ気なくそう言うと、委員長は背をｌけ、その場を獅去汲うとした。†",
+    ("素っ気なくそう言うと、委員長は背をｌけ、その場を去うとした。†",
     ""),
     # When he said this calmly, the chairman turned his back and left the scene.†
 
@@ -918,7 +918,7 @@ text_array = [
     ""),
     # "It's about the notes of miraculous things."
 
-    ("「…ああ、あの獅落送書きのこと？」",
+    ("「…ああ、あの落送書きのこと？」",
     ""),
     # "...Ah, what about that lion-sentence writing?"
 
@@ -926,7 +926,7 @@ text_array = [
     ""),
     # He laughs suddenly and says.
 
-    ("「そんなん言甯われるまで烽もない。ちっと烽も気にしてへんって。だいたい、いまのいままで忘齧れてた墲わ」",
+    ("「そんなん言甯われるまでもない。ちっとも気にしてへんって。だいたい、いまのいままで忘齧れてたわ」",
     ""),
     # "There's no hot weather until you get that kind of message. I don't even have to worry about it. I've generally forgotten about it up until now."
 
@@ -934,7 +934,7 @@ text_array = [
     ""),
     # It was a lie, I thought.†
 
-    ("あのとき烽も…。",
+    ("あのときも…。",
     ""),
     # At that time, Hot too...
 
@@ -958,7 +958,7 @@ text_array = [
     ""),
     # "What's that tampering with you, silly?"
 
-    ("委員長は前髪を掻き繧上げると、",
+    ("委員長は前髪を掻き上げると、",
     ""),
     # The chairman scratched his bangs and pulled them up,
 
@@ -978,7 +978,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("「平気なフリしてるだけで、委員長、本末当はずいぶんと獅落ち桙込んでんじ痰ゃねーか？」",
+    ("「平気なフリしてるだけで、委員長、本末当はずいぶんと落ち桙込んでんじ痰ゃねーか？」",
     ""),
     # "I'm just trying to make a slurp, and Chairman, isn't there a lot of slurp slurp in the lion's flapping fleck?"
 
@@ -990,15 +990,15 @@ text_array = [
     ""),
     # The chairman laughed sloppyly.†
 
-    ("「せやから言うてるやないの。あんなガキのイタズラ、ぜんぜん気に烽もとめてないって」",
+    ("「せやから言うてるやないの。あんなガキのイタズラ、ぜんぜん気にもとめてないって」",
     ""),
     # "It's a tampering, so it's not a tampering thing. That kid's prank feast is completely unwilling to stomp at all."
 
-    ("「悪いけど、どう烽もそれが、強がってるように聞こえるんだよな…」",
+    ("「悪いけど、どうもそれが、強がってるように聞こえるんだよな…」",
     ""),
     # "I'm sorry, but that sounds like it's tough too..."
 
-    ("遠くの景色に汲視諮を移し、オレは言った。†",
+    ("遠くの景色に視諮を移し、オレは言った。†",
     ""),
     # I moved the advice to the faraway scenery, and said, "I'm not going to get any more."†
 
@@ -1006,7 +1006,7 @@ text_array = [
     ""),
     # "Are you strong? Why should I push myself?"
 
-    ("「さーな、それはオレには墲わかんねーけど。ただ、ま墲わりには絶対、縺弱いとこを見せたがらないよな、委員長って」†",
+    ("「さーな、それはオレにはわかんねーけど。ただ、まわりには絶対、縺弱いとこを見せたがらないよな、委員長って」†",
     ""),
     # "Well, I don't know that. However, even for the sake of this, I definitely don't want to show you the weak side of the committee, Chairman."
 
@@ -1026,7 +1026,7 @@ text_array = [
     ""),
     # At that moment, the chairman's public sentiment transformed into surprise.†
 
-    ("「見ちまったんだよ、あんとき。委員長が汲窓の外見ながらモいてるとこを。それからどうに烽も冾放っておけなくてな」",
+    ("「見ちまったんだよ、あんとき。委員長が窓の外見ながらモいてるとこを。それからどうにも冾放っておけなくてな」",
     ""),
     # "I saw it then. The chairman was crying while looking out of the Kumimado. Then I couldn't leave Ho alone."
 
@@ -1070,11 +1070,11 @@ text_array = [
     ""),
     # ""Was he crying?
 
-    ("私が？	見間瘧違いや？",
+    ("私が？	見間違いや？",
     ""),
     # I?Is it a mistaking or b?
 
-    ("もしくは、あくびした瞬間で烽も見たんや」",
+    ("もしくは、あくびした瞬間でも見たんや」",
     ""),
     # Or, the moment I yawned, I saw the hot spring."
 
@@ -1086,7 +1086,7 @@ text_array = [
     ""),
     # "About that time, ""
 
-    ("「いまさら隠すこと烽もねーだ？」",
+    ("「いまさら隠すこともねーだ？」",
     ""),
     # "There's no need to hide anything now?"
 
@@ -1126,7 +1126,7 @@ text_array = [
     ""),
     # "...What do you mean, after all?"
 
-    ("「だから取闔りあえず、みんなと烽もっと№仲良くしないか？」",
+    ("「だから取りあえず、みんなともっと№仲良くしないか？」",
     ""),
     # "So, why don't you just go and get along better with everyone?"
 
@@ -1150,7 +1150,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「悩み魔事を鰍相談する鰍相闡手燻もいないっての烽も、やっぱ、しんどいだ？」†",
+    ("「悩み魔事を鰍相談する鰍相闡手燻もいないってのも、やっぱ、しんどいだ？」†",
     ""),
     # "Is it really tough that the hot springs that don't even have to smoke the monks and talk about the magical problems?"
 
@@ -1190,7 +1190,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「あんたとは薰基本的にノリが痰違うと思うて。多分一生かかって烽も№仲良うなることはない」",
+    ("「あんたとは薰基本的にノリが痰違うと思うて。多分一生かかっても№仲良うなることはない」",
     ""),
     # "I think that basically nogatari is different from you. I think it's probably going to take a lifetime and no good friends will be made."
 
@@ -1218,7 +1218,7 @@ text_array = [
     ""),
     # After a while, the chairman
 
-    ("「…あんたに、なにが墲わかる？」",
+    ("「…あんたに、なにがわかる？」",
     ""),
     # "...What do you know?"
 
@@ -1266,7 +1266,7 @@ text_array = [
     ""),
     # He glared at me and said.
 
-    ("「クラスの仕鮪事かて、みんな以繹上にやってるつ烽もりや」",
+    ("「クラスの仕鮪事かて、みんな以繹上にやってるつもりや」",
     ""),
     # "As a result of the Crowd, everyone is tampering with the idea of ​​the Crowd."
 
@@ -1274,7 +1274,7 @@ text_array = [
     ""),
     # "Well, I'm the chairman."
 
-    ("「誰に烽も迷惑かけてないやんか！	それじ痰ゃあかんの！？」",
+    ("「誰にも迷惑かけてないやんか！	それじ痰ゃあかんの！？」",
     ""),
     # "Are you tampering with whom you haven't caused trouble to anyone? Is that okay with phlegm?!"
 
@@ -1282,7 +1282,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「あと、п私かて友だちくらいいてる。なん烽も知迺らん他人のくせに、わかったような顔して勝闖手なことばかり言甯わんといてくれるか」",
+    ("「あと、п私かて友だちくらいいてる。なんも知迺らん他人のくせに、わかったような顔して勝闖手なことばかり言甯わんといてくれるか」",
     ""),
     # "Also, I'm just a friend. Even though I'm not a stranger, I wonder if he will look like he understands it and keeps saying things that are amazing."
 
@@ -1290,7 +1290,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「前に烽も言うたや！？",
+    ("「前にも言うたや！？",
     ""),
     # "The tampering with the word "Yoshi" before?
 
@@ -1302,11 +1302,11 @@ text_array = [
     ""),
     # "oh dear…"†
 
-    ("「こんりんざい、п私に馴齠れ馴齠れし繧ゅうせんといて！」",
+    ("「こんりんざい、п私に馴齠れ馴齠れしゅうせんといて！」",
     ""),
     # "Nice to meet you, please come and join me!"
 
-    ("冷たくそう言うと、委員長はくるっとオレに背をｌけ、そのまま獅去っていった。†",
+    ("冷たくそう言うと、委員長はくるっとオレに背をｌけ、そのまま去っていった。†",
     ""),
     # When I said coldly, the chairman suddenly turned his back against me and left.†
 
@@ -1326,7 +1326,7 @@ text_array = [
     ""),
     # Key... slurp!!
 
-    ("金属の烽扉がけたたましい音を立てて閉じた。†",
+    ("金属の扉がけたたましい音を立てて閉じた。†",
     ""),
     # The metal heat door closed with a squeal.†
 
@@ -1338,11 +1338,11 @@ text_array = [
     ""),
     # There is no one there.
 
-    ("ひとり取闔り残されたオレの足下をひ繧ゅ〜と翌風が≠吹き抜けた。",
+    ("ひとり取り残されたオレの足下をひゅ〜と翌風が≠吹き抜けた。",
     ""),
     # The next breeze blew through my feet, which had been left alone.
 
-    ("さっきまではさ墲わやかだった翌風が、いまは妙に冷たく感じた。†",
+    ("さっきまではさわやかだった翌風が、いまは妙に冷たく感じた。†",
     ""),
     # The next wind, which had been a bit of a mess up until now, felt strangely cold.†
 
@@ -1350,11 +1350,11 @@ text_array = [
     ""),
     # "Ahh..."
 
-    ("オレは深いため息とと烽もに手すりに烽もたれ、がっくりとうなだれた。",
+    ("オレは深いため息とともに手すりにもたれ、がっくりとうなだれた。",
     ""),
     # My heart sighed and leaned against the railing, and I leaned in a deep sigh.
 
-    ("委員長を繧励まそうと思ったはずが…。",
+    ("委員長を励まそうと思ったはずが…。",
     ""),
     # He must have wanted to encourage the chairman...
 

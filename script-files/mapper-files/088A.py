@@ -2,15 +2,15 @@
 # Source file: 088A.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階２）閨（選択綜	声をかける）†",
+    ("（レミィ	回秤数イベント	２階２）閨（選択綜	声をかける）†",
     ""),
     # (Game Remie, 2nd floor 2) (Choose a call)†
 
-    ("「ヘィ！	戟レミィ」",
+    ("「ヘィ！	レミィ」",
     ""),
     # "Hey! Karemy."
 
-    ("オレは前を烽歩いてる撃レミィに声をかけた。",
+    ("オレは前を歩いてる撃レミィに声をかけた。",
     ""),
     # I called out to Ekiremi, who was walking in front of me.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "I'll be here. Are you going home now?"
 
-    ("「Ｇ盾ｏ盾ｏрｄ	ｔ奄ｉ高ｍ奄ｉ獅ｎ№ｇ！	アタシ今ちょうどにｉいたいって思ってたの」",
+    ("「Ｇ盾ｏ盾ｏрｄ	ｔ奄高ｍ奄ｎ№ｇ！	アタシ今ちょうどにいたいって思ってたの」",
     ""),
     # "G Shield O Shield Oрd Tamai High M Amai Lion No.! I was thinking that I wanted to be a lie."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # ...What exactly are you listening to?
 
-    ("浴女が男に『どう思ってる？』なんて聞く意味は、冝日本では一つしかないよな…。†",
+    ("女が男に『どう思ってる？』なんて聞く意味は、冝日本では一つしかないよな…。†",
     ""),
     # The bather told the man, "What do you think?There is only one meaning in Japan that says ".†
 

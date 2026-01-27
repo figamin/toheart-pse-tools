@@ -2,9 +2,9 @@
 # Source file: 0502.txt
 
 text_array = [
-    ("（葵	出初いイベント	選択繿後	Ａ）†",
+    ("（葵	出初いイベント	選択繿後	Ａ）",
     ""),
-    # (Aoi's first event after selection A)†
+    # (Aoi's first event after selection A)
 
     ("「まあ、見学くらいなら」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Are you doing the honour?! Thank you! I'll be waiting for you!"
 
-    ("葵ち痰ゃんは嬉しそうに笑った。†",
+    ("葵ち痰ゃんは嬉しそうに笑った。",
     ""),
-    # Aoi Chisho-yan laughed happily.†
+    # Aoi Chisho-yan laughed happily.
 
     ("たしかに少しは興味燒もあるしな、見学するくらいならいいだう。",
     ""),

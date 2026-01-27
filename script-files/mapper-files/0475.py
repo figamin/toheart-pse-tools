@@ -14,15 +14,15 @@ text_array = [
     ""),
     # He says with his eyes in mind of cocoa with Mehongron thrust into the cup.
 
-    ("別々に食ったらうまいだうけど、なに烽も混ぜなくて烽もなぁ…。",
+    ("別々に食ったらうまいだうけど、なにも混ぜなくてもなぁ…。",
     ""),
     # It would be delicious if you eat them separately, but there's nothing mixed in the hot pot, and there's no hot pot either...
 
-    ("「あたし、＝メ鴻ロン焜もココア焜も好き〜っ」†",
+    ("「あたし、＝メ鴻ロンもココアも好き〜っ」†",
     ""),
     # "I love Mehong Long Zhen and Cocoa Zhen" †
 
-    ("「どっち烽もみんな好きだうけどな」",
+    ("「どっちもみんな好きだうけどな」",
     ""),
     # "I like everyone either way."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "And why are you so negative?
 
-    ("ほら、メ買う墲わよ！？」†",
+    ("ほら、メ買うわよ！？」†",
     ""),
     # Come on, I'll buy some food!?”†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "What about you?"
 
-    ("「いや…、これは烽もしかして…」",
+    ("「いや…、これはもしかして…」",
     ""),
     # "It's a mess... maybe this is..."
 
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # In addition, the two of them sighed.†
 
-    ("「これは何かの間瘧違いよ。あたしたちの味覚がおかしいのよ」",
+    ("「これは何かの間違いよ。あたしたちの味覚がおかしいのよ」",
     ""),
     # "This is a bit of a difference. My taste is strange."
 
-    ("「瘁違うだ。オレたちの味覚はただしくて、間瘧違ってるのは評判だ」",
+    ("「瘁違うだ。オレたちの味覚はただしくて、間違ってるのは評判だ」",
     ""),
     # "It's not that bad. Our raves taste right, and it's a reputation for being different."
 
-    ("「そうか烽も…」†",
+    ("「そうかも…」†",
     ""),
     # "I see, the hot spring..."
 

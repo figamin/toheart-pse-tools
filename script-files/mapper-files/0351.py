@@ -2,7 +2,7 @@
 # Source file: 0351.txt
 
 text_array = [
-    ("（智子	好感度イベント７回目）閨（発生条緒件	好感度イベント６回目を見た繧後、回秤数イベントの「学校を出髀る」でｉうと差し替えで発生する）閨（下濶り坂）†",
+    ("（智子	好感度イベント７回目）閨（発生条緒件	好感度イベント６回目を見た後、回秤数イベントの「学校を出髀る」でうと差し替えで発生する）閨（下濶り坂）†",
     ""),
     # (Tomoko's 7th favorability event) (Accuracy condition: After seeing the sixth favorability event, the balance event occurs when the i-u is replaced with the "going out of school") (Shimohamaitsuzaka) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # A road back.
 
-    ("遠くの景色を眺めながら烽歩いていると、",
+    ("遠くの景色を眺めながら歩いていると、",
     ""),
     # As I walked around the hot springs while looking out at the distance,
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # briskly….
 
-    ("縺後撃から≠早足気味に烽歩いてきた翌女生徒が、スッ…とオレの汲視界を横切った。†",
+    ("縺後撃から≠早足気味に歩いてきた翌女生徒が、スッ…とオレの視界を横切った。†",
     ""),
     # After the attack, the female student walked quickly, almost walking straight after the attack, and then crossed my field of vision.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I'm off...
 
-    ("だが委員長はオレにはいちべつ烽もくれず、無表﨣情のまま通闥り過ぎていった。†",
+    ("だが委員長はオレにはいちべつもくれず、無表﨣情のまま通闥り過ぎていった。†",
     ""),
     # However, the chairman didn't give me any small amount of energy, and he kept on communicating too much without any worries.†
 
@@ -50,7 +50,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("んな墲わけねー諱よな。",
+    ("んなわけねー諱よな。",
     ""),
     # That's no way, that's true.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # A: "Hey, wait," he calls out.Relax
 
-    ("Ｂ	こっち烽も無許視してやった。閨",
+    ("Ｂ	こっちも無許視してやった。閨",
     ""),
     # B. I also ignored this and tampered with it.Relax
 

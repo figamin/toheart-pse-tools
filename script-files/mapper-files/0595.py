@@ -2,9 +2,9 @@
 # Source file: 0595.txt
 
 text_array = [
-    ("（葵	回秤数イベント６	選択繿後	Ｂ）†",
+    ("（葵	回秤数イベント６	選択繿後	Ｂ）",
     ""),
-    # (Aoi Scales Event 6 after selection B)†
+    # (Aoi Scales Event 6 after selection B)
 
     ("「この子に宸惚鼾れてる男だ！」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「はあっ？」",
     ""),
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # Ah.
 
-    ("も、もしかして、オレ、ドサクサに紛れてとんで烽もねーこと口膜走ったんじ痰ゃ。†",
+    ("も、もしかして、オレ、ドサクサに紛れてとんでもねーこと口膜走ったんじ痰ゃ。",
     ""),
-    # Perhaps it was a really hardy, but it was a bit hard, and the Fukuomolar membrane ran through the air.†
+    # Perhaps it was a really hardy, but it was a bit hard, and the Fukuomolar membrane ran through the air.
 
-    ("「…べ、べつにр私は、そういう意味で聞いた墲わけじ痰ゃなくて」",
+    ("「…べ、べつにр私は、そういう意味で聞いたわけじ痰ゃなくて」",
     ""),
     # "...I've heard of it in that sense, so I don't have to worry about it."
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # Aoi Chisho-chan looked away.
 
-    ("や、やばっ。†",
+    ("や、やばっ。",
     ""),
-    # I'm sorry, I'm insane.†
+    # I'm sorry, I'm insane.
 
     ("「ご、′解すんな。オレが宸惚鼾れたって言ってんのは、この子の、努力と根性に宸惚鼾れたって意味であってだな｢｢」",
     ""),
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "So no one has heard of that."
 
-    ("坂下がボソリと言う。†",
+    ("坂下がボソリと言う。",
     ""),
-    # The story goes, and the slugs are called slugs.†
+    # The story goes, and the slugs are called slugs.
 
-    ("「諱ようするに、禔練習に打ち桙込む彼濫女の薰情熱は、オレが宸惚鼾れ桙込むぐらいに一生恊懸命だってことでだな…」",
+    ("「諱ようするに、禔練習に打ち桙込む彼女の薰情熱は、オレが宸惚鼾れ桙込むぐらいに一生恊懸命だってことでだな…」",
     ""),
     # "In other words, the passion of the overwhelmed women who practice training means that they've been working so hard that I'm so passionate about my intense love..."
 
-    ("「…わ、わかった、わかった墲わよ」",
+    ("「…わ、わかった、わかったわよ」",
     ""),
     # "...I'm gonna get it, I'm gonna get it, I'm gonna get it."
 
@@ -102,8 +102,8 @@ text_array = [
     ""),
     # "I'm doing my best, this girl!"
 
-    ("「諱先輩…」†",
+    ("「諱先輩…」",
     ""),
-    # "Ikusenpai..."†
+    # "Ikusenpai..."
 
 ]

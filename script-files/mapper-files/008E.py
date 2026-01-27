@@ -2,9 +2,9 @@
 # Source file: 008E.txt
 
 text_array = [
-    ("（冝期槙末テスト	３冾日目）閨（選択綜	付加反梍応）†",
+    ("（冝期槙末テスト	３冾日目）閨（選択綜	付加反梍応）",
     ""),
-    # (3rd day of the final exam for the sedan) (Selected and additional sedans)†
+    # (3rd day of the final exam for the sedan) (Selected and additional sedans)
 
     ("「付加反梍応だ」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Masashi, is that right?
 
-    ("ちょうど、そこを通闥りかかったｉ史に汲視諮を飛ばし、志保が聞いた。†",
+    ("ちょうど、そこを通闥りかかった史に視諮を飛ばし、志保が聞いた。",
     ""),
-    # Shiho asked, "The I-Story," which had been sent through the discussion, and he asked.†
+    # Shiho asked, "The I-Story," which had been sent through the discussion, and he asked.
 
     ("「え？",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # The answer is, yes, "Additional Reversal" is the correct answer."
 
-    ("当然のように、♂史が言った。",
+    ("当然のように、雅史が言った。",
     ""),
     # As if to be expected, Masumi said.
 
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # Hehe.
 
-    ("人を獅試すような真乱似しやがって。",
+    ("人を試すような真乱似しやがって。",
     ""),
     # He was trying to imitate people like a lion.
 
-    ("じつはこれって、昨厓日あかりとやった問題なんだよな。†",
+    ("じつはこれって、昨厓日あかりとやった問題なんだよな。",
     ""),
-    # Actually, this is a question of tampering with the light of the last day.†
+    # Actually, this is a question of tampering with the light of the last day.
 
-    ("「フンだ。に烽も調子のいい冾日があるのね」",
+    ("「フンだ。にも調子のいい冾日があるのね」",
     ""),
     # "That's a slurp. There's a good day for Hot, too."
 

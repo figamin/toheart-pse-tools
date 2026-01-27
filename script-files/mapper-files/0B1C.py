@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "What's going on here? Is there any chance you can beat me a little?"
 
-    ("「そり痰ゃーな。こっちはたった一発又当てり痰ゃ勝ちなんだ？	そのくらいなら、素人で烽もなんとかなるさ」",
+    ("「そり痰ゃーな。こっちはたった一発又当てり痰ゃ勝ちなんだ？	そのくらいなら、素人でもなんとかなるさ」",
     ""),
     # "You're so phlegm. Is this the one who wins if you just hit the target again? If that's the case, you'll be able to manage the hot water as an amateur."
 
-    ("「ふふふ、わかってない墲わねぇ」",
+    ("「ふふふ、わかってないわねぇ」",
     ""),
     # "Hahaha, I don't understand it."
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "...What?"†
 
-    ("「そんなに甘い烽ものじ痰ゃないのよ、格闘技は。ましてやこのр私が鰍相闡手なのよ？	デタラ＜メに墲戦ってたんじ痰ゃ、一生かかったってカスリ焜もしないでしょうね」",
+    ("「そんなに甘いものじ痰ゃないのよ、格闘技は。ましてやこのр私が鰍相闡手なのよ？	デタラ＜メに戦ってたんじ痰ゃ、一生かかったってカスリもしないでしょうね」",
     ""),
     # "You don't have that sweet phlegm, martial arts. What's more, I'm a charred man, isn't it? I've been fighting a plague for a bullshit, so I'm not going to let the plague go to the end of my life."
 
-    ("「やってみねーと墲わかんねーだ」",
+    ("「やってみねーとわかんねーだ」",
     ""),
     # "I don't know if I try it."
 
-    ("「そうね。まあ、やってみれば墲わかる墲わね」",
+    ("「そうね。まあ、やってみればわかるわね」",
     ""),
     # "Yeah. Well, if you try it, you'll understand."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Actually, since then, I've been practicing fortune for a little while.
 
-    ("腕立て、腹筋などの筋肉トレーニングをし、シャャドウボクシング焜もした。",
+    ("腕立て、腹筋などの筋肉トレーニングをし、シャャドウボクシングもした。",
     ""),
     # I did some hard training with push ups and abdominal muscles, and even did some Shadow Boxing.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Thanks to this, I feel a little bit of muscle pain.†
 
-    ("もちん、その程度で綾∴香謐より強くなったとは思えないが、要はたった一発だ。力ずくで奪えなく烽もない。",
+    ("もちん、その程度で綾∴香謐より強くなったとは思えないが、要はたった一発だ。力ずくで奪えなくもない。",
     ""),
     # I don't think that that's enough, but it's only stronger than Aya∴Kami, but in short, it's just one shot.I couldn't take it with force and there was no heat.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # He understands the man's strength and tampers with him.†
 
-    ("「それじ痰ゃ、そそ始める墲わよ」",
+    ("「それじ痰ゃ、そそ始めるわよ」",
     ""),
     # "That's the phlegm, it's going to start b."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "yes"†
 
-    ("セリオは、掾持っていたスポーツバッグのｒから赤と青のグ鴻ローブを取闔り出した。",
+    ("セリオは、掾持っていたスポーツバッグのｒから赤と青のグ鴻ローブを取り出した。",
     ""),
     # Segata Rio pulled out a red and blue ghoo robe from the r-held sports bag he had.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # If you refrain from doing anything, you'll end up being tampered with in no time.
 
-    ("これは烽もうスポーツだと、п割闃り切垂う。†",
+    ("これはもうスポーツだと、п割闃り切垂う。†",
     ""),
     # This is a sport, so it's a bit of a hit.†
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "This is OK to prepare."
 
-    ("「こっち烽も…。",
+    ("「こっちも…。",
     ""),
     # "This one too...
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # Okay, it's OK."
 
-    ("オレは、ぽんっと、ふたつの揩拳をぶつけて言った。",
+    ("オレは、ぽんっと、ふたつの拳をぶつけて言った。",
     ""),
     # I said, thrustling with two fist.
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "Ou"†
 
-    ("「いい？	そっちは一発で烽もヒットさせれば勝ち。こっちはそっちがギブアップするか、ＫＯさせれば勝ち」",
+    ("「いい？	そっちは一発でもヒットさせれば勝ち。こっちはそっちがギブアップするか、ＫＯさせれば勝ち」",
     ""),
     # "Is that okay? If you hit a hit with a hit, you'll win. If you give up, or KO, you'll win."
 
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # "ah"
 
-    ("綾∴香は揩拳を握闊り構えると、",
+    ("綾∴香は拳を握闊り構えると、",
     ""),
     # Aya∴Ka clenches his fist in a throb,
 
-    ("「ひとつだけ言っておく墲わね」",
+    ("「ひとつだけ言っておくわね」",
     ""),
     # "I'll just say one thing."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "?"†
 
-    ("「素人叶相闡手に大人げないか烽も知れないけど、氈勝縁負と名がつくからは、п私燻も本気でやらせて烽もらう墲わよ」",
+    ("「素人叶相闡手に大人げないかも知れないけど、氈勝縁負と名がつくからは、п私燻も本気でやらせてもらうわよ」",
     ""),
     # "I can't tell you whether it's an amateur or adult, but since it's called a win-win situation, I'll have to seriously tamper with my smoke too and get some hot food."
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "...Oh, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 
-    ("「男の子だ烽もんね。少しくらい痛くて烽も我揄慢できるでしょ？」",
+    ("「男の子だもんね。少しくらい痛くても我揄慢できるでしょ？」",
     ""),
     # "He's a boy. He's a little painful, so I can't resist the hot springs, yelling?"
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "..."†
 
-    ("へっ、おどしのつ烽もりかよ。",
+    ("へっ、おどしのつもりかよ。",
     ""),
     # Heh, is this a scary hot spring?
 
-    ("そんなことで、びびるとで烽も…思寬わないでほしいなあ…。",
+    ("そんなことで、びびるとでも…思寬わないでほしいなあ…。",
     ""),
     # I hope you don't think about it when you're scared and think about it...
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "It should be possible to do it with the next slander.◯
 
-    ("「じ痰ゃあ、いい墲わよ。セリオ」",
+    ("「じ痰ゃあ、いいわよ。セリオ」",
     ""),
     # "Ah, it's good, it's good. Segata Rio."
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # I drank my tsuba and clenched my jean tightly.
 
-    ("「…戟レディ｢｢」†",
+    ("「…レディ｢｢」†",
     ""),
     # "...Who Lady """†
 

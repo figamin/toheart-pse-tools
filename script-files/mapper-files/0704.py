@@ -2,21 +2,21 @@
 # Source file: 0704.txt
 
 text_array = [
-    ("（琴音との出初い）閨（４獅月１１冾日（金）昼）閨（廊下）†",
+    ("（琴音との出初い）閨（４月１１冾日（金）昼）閨（廊下）",
     ""),
-    # (First time with Kotone) (Fourth 11th day (Friday)) (Corridor) †
+    # (First time with Kotone) (Fourth 11th day (Friday)) (Corridor) 
 
     ("昼休み。",
     ""),
     # lunch break.
 
-    ("オレとｉ史はチャャイムと同椏時にダッシャで教室を飛び出した。",
+    ("オレと史はチャャイムと同椏時にダッシャで教室を飛び出した。",
     ""),
     # I and Ishi ran out of the classroom on the same day as Chaim.
 
-    ("メしいパンヱ奪峵戦を勝ち残骼るための攻略法だ。†",
+    ("メしいパンヱ奪峵戦を勝ち残骼るための攻略法だ。",
     ""),
-    # This is a strategy to help you survive the fierce battle for Pan-End.†
+    # This is a strategy to help you survive the fierce battle for Pan-End.
 
     ("購ロ買粕部は１階の食堂にある。",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # If you drive down, you can reach the next distance in 30 seconds.
 
-    ("「待っててくれよ、オレのカツサンド！」†",
+    ("「待っててくれよ、オレのカツサンド！」",
     ""),
     # "Wait, my super cutlet sandwich!"
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # Soon I saw the stairs.
 
-    ("オレはいつ烽もどおりアウト・イン・アウトで階段に飛び桙込んだ。†",
+    ("オレはいつもどおりアウト・イン・アウトで階段に飛び桙込んだ。",
     ""),
-    # When did I go back to the hot air, I jumped out and ran down the stairs and flew over.†
+    # When did I go back to the hot air, I jumped out and ran down the stairs and flew over.
 
     ("ドンッ！◯",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "Skinny!"
 
-    ("廊下を折齔れて階段に飛びこ烽もうとしたオレは、こと烽もあうに階段の方から烽歩いてきた翌女の子とぶつかってしまった。†",
+    ("廊下を折齔れて階段に飛びこもうとしたオレは、こともあうに階段の方から歩いてきた翌女の子とぶつかってしまった。",
     ""),
-    # I tried to jump down the hallway and jump onto the stairs, but the next day I had walked from the lucky side of the stairs, I bumped into a girl.†
+    # I tried to jump down the hallway and jump onto the stairs, but the next day I had walked from the lucky side of the stairs, I bumped into a girl.
 
     ("「わ、わりぃ。",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Fortunately, I reflexively shunned it, so I only slammed my arm, but Kaji's contact was the girl the next day.
 
-    ("腕をぶつけただけで烽も汲結構痛いだう。",
+    ("腕をぶつけただけでも結構痛いだう。",
     ""),
     # Just hitting my arm made me feel a lot of pain.
 
@@ -70,29 +70,29 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレが聞くと、浴女の子は無言でうなずいた。†",
+    ("オレが聞くと、女の子は無言でうなずいた。",
     ""),
-    # When I heard, the bathing girl nodded silently.†
+    # When I heard, the bathing girl nodded silently.
 
     ("「ごめんね。僕たち急いでたから」",
     ""),
     # "Sorry. We were in a hurry."
 
-    ("♂史燻も声をかける。",
+    ("雅史燻も声をかける。",
     ""),
     # Masochi Shuku also spoke up.
 
-    ("浴女の子はちらりとオレたちの方を見て、目を嘯伏せた。",
+    ("女の子はちらりとオレたちの方を見て、目を嘯伏せた。",
     ""),
     # The bathing girl glanced at the fortunes of our thrilled girls and leaned down her eyes.
 
-    ("ぱっと見、新しい制梵服。†",
+    ("ぱっと見、新しい制梵服。",
     ""),
-    # At first glance, it was a new Sanskrit uniform.†
+    # At first glance, it was a new Sanskrit uniform.
 
-    ("そういえば、この子はいつか寂しそうに登校していた子だ。†",
+    ("そういえば、この子はいつか寂しそうに登校していた子だ。",
     ""),
-    # Come to think of it, this child was one day at a time when he went to school lonely.†
+    # Come to think of it, this child was one day at a time when he went to school lonely.
 
     ("「ホント蜒大苟丈夫か？	けっこー強くぶつけただ？」",
     ""),
@@ -102,25 +102,25 @@ text_array = [
     ""),
     # "...Yes. It's fine."
 
-    ("浴女の子は小さな声でこたえた。†",
+    ("女の子は小さな声でこたえた。",
     ""),
-    # The bathing girl responded with a small voice.†
+    # The bathing girl responded with a small voice.
 
     ("「わりぃな」",
     ""),
     # "It's so bad."
 
-    ("オレは烽もう一度謝って、諱先を急ごうと一煦歩踏み出した。",
+    ("オレはもう一度謝って、諱先を急ごうと一煦歩踏み出した。",
     ""),
     # I apologized once more and took a quick step in trying to hurry up.
 
-    ("そのとき｢｢。†",
+    ("そのとき｢｢。",
     ""),
-    # At that time, ".†
+    # At that time, ".
 
-    ("いきなり翌女の子が両手で耳をふさいだかと思うと、その場にし痰ゃがみこんでしまった。†",
+    ("いきなり翌女の子が両手で耳をふさいだかと思うと、その場にし痰ゃがみこんでしまった。",
     ""),
-    # Suddenly the next girl thought that she had blocked her ears with her hands, but she sputum oozed into the spot.†
+    # Suddenly the next girl thought that she had blocked her ears with her hands, but she sputum oozed into the spot.
 
     ("「お、おいっ。",
     ""),
@@ -146,19 +146,19 @@ text_array = [
     ""),
     # Suddenly the next girl cried out.
 
-    ("突然のことなので、オレとｉ史はその場に凍闢り付いたように立ち止まる。†",
+    ("突然のことなので、オレと史はその場に凍闢り付いたように立ち止まる。",
     ""),
-    # It was a sudden event, so I and I stopped as if they were frozen in the spot.†
+    # It was a sudden event, so I and I stopped as if they were frozen in the spot.
 
-    ("噤伏せって…？†",
+    ("噤伏せって…？",
     ""),
-    # What is leaning b...?†
+    # What is leaning b...?
 
-    ("パリーーーン！†",
+    ("パリーーーン！",
     ""),
-    # Pagata Leeen!†
+    # Pagata Leeen!
 
-    ("いきなり、階段の繧上にある汲窓ガラスが砕け散った。",
+    ("いきなり、階段の上にある窓ガラスが砕け散った。",
     ""),
     # Suddenly, the banquet of the banquet on the staircase was shattered.
 
@@ -166,13 +166,13 @@ text_array = [
     ""),
     # "What?!?"
 
-    ("オレたちは驚いて汲窓を見上げる。",
+    ("オレたちは驚いて窓を見上げる。",
     ""),
     # We were shocked and looked up at the window.
 
-    ("見骭ると、窓は枠を残してきれいにр割れていた。†",
+    ("見骭ると、窓は枠を残してきれいにр割れていた。",
     ""),
-    # When I looked, the window was nicely cracked, leaving a frame behind.†
+    # When I looked, the window was nicely cracked, leaving a frame behind.
 
     ("いったいなにを鰍投げ付けたらあんな翌風にр割れるのだうか？",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # However, at this point, there is no phlegm.
 
-    ("オレはうずくまる翌女の子に駆け寄った。†",
+    ("オレはうずくまる翌女の子に駆け寄った。",
     ""),
-    # My guts cried out the next girl.†
+    # My guts cried out the next girl.
 
     ("「やっぱ痛かったか？」",
     ""),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # "Again... I'll come again..."
 
-    ("う墲わごとのようにつぶやいた。†",
+    ("うわごとのようにつぶやいた。",
     ""),
-    # He muttered like a shit.†
+    # He muttered like a shit.
 
     ("またって、掾持病の発剥かなんかか！？",
     ""),
@@ -214,11 +214,11 @@ text_array = [
     ""),
     # "Wait b. I'll send you a call to the Hohen Health Office and tamper with it."
 
-    ("浴女の子の肩を抱いて立たせようとした。",
+    ("女の子の肩を抱いて立たせようとした。",
     ""),
     # He tried to hold the bath girl's shoulders and put her to stand.
 
-    ("すると翌女の子は何哩事燻もなかったように立ち繧上がって、",
+    ("すると翌女の子は何哩事燻もなかったように立ち上がって、",
     ""),
     # The next girl stood up as if she hadn't smoked anything,
 
@@ -226,13 +226,13 @@ text_array = [
     ""),
     # "sorry.
 
-    ("具㈲合が悪い墲わけじ痰ゃないんです…」",
+    ("具㈲合が悪いわけじ痰ゃないんです…」",
     ""),
     # There's no phlegm to avoid that is not suitable for the ingredients..."
 
-    ("つぶやくように言った。†",
+    ("つぶやくように言った。",
     ""),
-    # He told me to mess with it.†
+    # He told me to mess with it.
 
     ("「じ痰ゃ、なんでだよ」",
     ""),
@@ -242,11 +242,11 @@ text_array = [
     ""),
     # "I broke the window, so I'll tell Professor Ikushi... Um, I'm fine with the idea that I bumped into you."
 
-    ("浴女の子はそう言い残して、トボトボと烽歩き出した。†",
+    ("女の子はそう言い残して、トボトボと歩き出した。",
     ""),
-    # The bathing girl left this in a stomping stroll.†
+    # The bathing girl left this in a stomping stroll.
 
-    ("オレとｉ史は顔を見㈹合寘わせてしまった。",
+    ("オレと史は顔を見㈹合寘わせてしまった。",
     ""),
     # I and I both looked at their faces and made them join together.
 
@@ -258,19 +258,19 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("意味的には、あの子がガラスをр割ったってことになる。†",
+    ("意味的には、あの子がガラスをр割ったってことになる。",
     ""),
-    # In other words, that child has broken the banquet.†
+    # In other words, that child has broken the banquet.
 
     ("しかしオレにはあの子がなにかを鰍投げ付けてガラスをр割った翌風には見えなかった。",
     ""),
     # However, I couldn't see the wind as the child threw something at me and broke the banquet.
 
-    ("だいたい、なんのためにр割驫る必要があったんだうか…。†",
+    ("だいたい、なんのためにр割驫る必要があったんだうか…。",
     ""),
-    # Basically, why did I have to slash out...†
+    # Basically, why did I have to slash out...
 
-    ("「ふっふっふ。見た墲わよ、しょーげきの映怏像」",
+    ("「ふっふっふ。見たわよ、しょーげきの映怏像」",
     ""),
     # "Hehehe. I saw it, the image of Shibijogeki."
 
@@ -286,11 +286,11 @@ text_array = [
     ""),
     # "Yeah..."
 
-    ("オレが翌女の子をいじめたとで烽も言う気か？†",
+    ("オレが翌女の子をいじめたとでも言う気か？",
     ""),
-    # Are you also thinking about saying that I bullied the girl the next day?†
+    # Are you also thinking about saying that I bullied the girl the next day?
 
-    ("「彼濫女がエスパー少酪女、姫武琴音ち痰ゃんよ」",
+    ("「彼女がエスパー少酪女、姫武琴音ち痰ゃんよ」",
     ""),
     # "The overly-hearted woman is a psychic girl, Himetake Kotone's sphin
 
@@ -298,11 +298,11 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「見たでしょ？	彼濫女、閨手燻も触齔れないで汲窓ガラスを粉々にしたのよ」†",
+    ("「見たでしょ？	彼女、閨手燻も触齔れないで窓ガラスを粉々にしたのよ」",
     ""),
-    # "Did you see it? He's the girl who smoked her hand and shattered the banquet." †
+    # "Did you see it? He's the girl who smoked her hand and shattered the banquet." 
 
-    ("オレとｉ史はあらためて汲窓を見上げた。",
+    ("オレと史はあらためて窓を見上げた。",
     ""),
     # My heart and I looked up at the window again.
 
@@ -310,19 +310,19 @@ text_array = [
     "…"),
     # "..."
 
-    ("枠にちょっとだけガラスを残して、縺後は全泊部なくなっている。†",
+    ("枠にちょっとだけガラスを残して、縺後は全泊部なくなっている。",
     ""),
-    # The only one in the slot was the last one to go to, and the entire club was gone after the event.†
+    # The only one in the slot was the last one to go to, and the entire club was gone after the event.
 
     ("「ちょっと見てくる」",
     ""),
     # "I'll look at it soon."
 
-    ("そう言うとｉ史は踊り場まで降闕りて、ちらばったガラスをじっとながめだした。",
+    ("そう言うと史は踊り場まで降闕りて、ちらばったガラスをじっとながめだした。",
     ""),
     # With that in mind, Ishi dropped off to the dance hall and started staring at the glimpse of the banquet.
 
-    ("「んな烽もん、見てどーすんだよ」†",
+    ("「んなもん、見てどーすんだよ」",
     ""),
     # "Yeah, what are you looking at?"
 
@@ -330,13 +330,13 @@ text_array = [
     ""),
     # "Look. Something's weird."
 
-    ("♂史に呼ばれ、オレと志保熾もいっしょに踊り場に降闕りた。",
+    ("雅史に呼ばれ、オレと志保熾もいっしょに踊り場に降闕りた。",
     ""),
     # Called by Makishi, I and Shiho Taru were both sent to the dance hall.
 
-    ("散邇らばった破片を見骭ると、不思議なことに破片はそって２、３モｃ高ｍ位の大きさで、£にはきれいな六角形をしてる烽もの烽もあった。†",
+    ("散邇らばった破片を見骭ると、不思議なことに破片はそって２、３モｃ高ｍ位の大きさで、にはきれいな六角形をしてるものもあった。",
     ""),
-    # When I looked at the scattered pieces, I found that the pieces were strangely large enough to be about two or three mos high, and there was also a hot pot with a beautiful hexagonal shape.†
+    # When I looked at the scattered pieces, I found that the pieces were strangely large enough to be about two or three mos high, and there was also a hot pot with a beautiful hexagonal shape.
 
     ("「う〜む、これぞ超峵常現象ね…」",
     ""),
@@ -346,7 +346,7 @@ text_array = [
     ""),
     # Shiho speaks up deliberately.
 
-    ("オレとして烽もｊ妙な出女沫事だった。",
+    ("オレとしてもｊ妙な出女沫事だった。",
     ""),
     # As I was a huge fan, the hottie was a strange woman's droplet.
 
@@ -362,7 +362,7 @@ text_array = [
     ""),
     # Which is it b?
 
-    ("そ烽もそ烽も、どっち烽も実在するのか。◯",
+    ("そもそも、どっちも実在するのか。◯",
     ""),
     # Are the hot and hot and the hot and hot, both of them actually exist?◯
 

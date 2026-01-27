@@ -54,11 +54,11 @@ text_array = [
     ""),
     # The two of them side by side and move down the hill.
 
-    ("行き烽も帰闍り烽もいっしょじ痰ゃ、おしどり夫婦呼ば墲わりされて烽も不思議はねーわな。",
+    ("行きも帰闍りもいっしょじ痰ゃ、おしどり夫婦呼ばわりされても不思議はねーわな。",
     ""),
     # It's not surprising that they go to the shrine and go back to the shrine, and when they call them a couple, it's not surprising.
 
-    ("まあ、いまさら気にしたり烽もしないが。†",
+    ("まあ、いまさら気にしたりもしないが。†",
     ""),
     # Well, I don't care about it or smoke at the moment.†
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Wow, that's amazing. What Shiho said was right in the real world."
 
-    ("「本末当かどうかはｌまった墲わけじ痰ゃねー諱よ。ただ、本末当に汲窓ガラスはр割れた。きれいに、粉々に」",
+    ("「本末当かどうかはｌまったわけじ痰ゃねー諱よ。ただ、本末当に窓ガラスはр割れた。きれいに、粉々に」",
     ""),
     # "You can't tell if it's the end of the day, so don't you think about it, I'm not going to give you a sigh of phlegm. However, the end of the day, the banquet of the day has broken. It's beautifully shattered."
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Isn't there such a thing as if a strong next wind suddenly blowing?
 
-    ("「ほかの汲窓は全然なんと烽もなかったんだぜ？	それに、その琴音って子は、п割れるガラスに気がついたんだ。",
+    ("「ほかの窓は全然なんともなかったんだぜ？	それに、その琴音って子は、п割れるガラスに気がついたんだ。",
     ""),
     # "The other windows didn't have any heat at all, right? And Kotone, too, noticed a banquet breaking.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "I'm so excited..." †
 
-    ("「身を烽もってそれを体験した繧後なら、前とは意見煬も変﨑わったんじ痰ゃない？	超峵常現象とかそういうの、あると思う？」",
+    ("「身をもってそれを体験した後なら、前とは意見煬も変﨑わったんじ痰ゃない？	超峵常現象とかそういうの、あると思う？」",
     ""),
     # "After experiencing this with your own eyes, you've probably lost your opinion before, right? Do you think there are some super common phenomena or something like that?"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # A: I think there's nothing more to phlegm after all.Relax
 
-    ("Ｂ	それで烽も、ある墲わけないと思う。閨",
+    ("Ｂ	それでも、あるわけないと思う。閨",
     ""),
     # B So I don't think there's any chance that Hot is there either.Relax
 

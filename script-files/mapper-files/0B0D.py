@@ -2,11 +2,11 @@
 # Source file: 0B0D.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）閨（選択綜Ｃ	頬ずりする	の続き）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）閨（選択綜Ｃ	頬ずりする	の続き）",
     ""),
-    # (Aya∴Ka Pick Date Event 2) (Continued from Chosen A Greeting) (Continued from Chosen C C Picking Cheek) †
+    # (Aya∴Ka Pick Date Event 2) (Continued from Chosen A Greeting) (Continued from Chosen C C Picking Cheek) 
 
-    ("オレは体を横にｌけると、綾∴香の太熨も烽もに頬ずりした。",
+    ("オレは体を横にｌけると、綾∴香の太熨ももに頬ずりした。",
     ""),
     # As I gulp my body to the side, I rubbed my cheek against Aya∴Ka's thick noshi and hot pot.
 
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # Scrub.
 
-    ("「綾∴香沚ぁ〜…」†",
+    ("「綾∴香沚ぁ〜…」",
     ""),
-    # "Aya∴Karasu~..."†
+    # "Aya∴Karasu~..."
 
     ("「ちょ、ちょっと、なにやってんの？」",
     ""),
     # "What are you tampering with, huh?"
 
-    ("「見り痰ゃ墲わかるだ。頬ずりしてんだよ」",
+    ("「見り痰ゃわかるだ。頬ずりしてんだよ」",
     ""),
     # "You can see the phlegm of your eyes. I'm rubbing my cheek."
 
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "I want to rub my cheek, that's all."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("すりすりすりすり。",
     ""),
     # Scrub.
 
-    ("「いい烽もんだなあ、こういうの」",
+    ("「いいもんだなあ、こういうの」",
     ""),
     # "That's good, this kind of thing."
 
@@ -62,9 +62,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("すりすりすりすり、すりすりすり…。†",
+    ("すりすりすりすり、すりすりすり…。",
     ""),
-    # Scrub, rubbish...†
+    # Scrub, rubbish...
 
     ("すりすりすりすり。",
     ""),
@@ -82,15 +82,15 @@ text_array = [
     ""),
     # "...Oh, it's so silly."
 
-    ("すりすりすりすり、すりすりすり…。†",
+    ("すりすりすりすり、すりすりすり…。",
     ""),
-    # Scrub, rubbish...†
+    # Scrub, rubbish...
 
     ("そのうち綾∴香はくすっと笑い、",
     ""),
     # Eventually Aya∴Ka chuckled
 
-    ("「…もう、しょうがない墲わねぇ」",
+    ("「…もう、しょうがないわねぇ」",
     ""),
     # "...I'm not going to have any sluts anymore."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # He muttered with a look on his face to face to face.
 
-    ("「ひざまくらって、п私の想恆像以繹上に破壊力があるみたいね」†",
+    ("「ひざまくらって、п私の想恆像以繹上に破壊力があるみたいね」",
     ""),
     # "It seems that kneeling has destructive power over my image of my feelings."
 
@@ -110,12 +110,12 @@ text_array = [
     ""),
     # Scrub.
 
-    ("「…で、いつまで、そうしてるつ烽もり？」",
+    ("「…で、いつまで、そうしてるつもり？」",
     ""),
     # "...So, how long will you keep doing that?"
 
-    ("「できれば、このまま、ずーっと」†",
+    ("「できれば、このまま、ずーっと」",
     ""),
-    # "If possible, just keep going like this" †
+    # "If possible, just keep going like this" 
 
 ]

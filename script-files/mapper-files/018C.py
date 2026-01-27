@@ -30,11 +30,11 @@ text_array = [
     ""),
     # Apparently, it seems that he wants to go to Doujin and Akari quite a bit.†
 
-    ("オレは…というと、どっちで烽もいい。",
+    ("オレは…というと、どっちでもいい。",
     ""),
     # When it comes to my supernatural...it's better, either way.
 
-    ("氏去年はまいったが、まあ、年に数回くらい、あんなふうに盛關り繧上がるの烽も悪くないか。",
+    ("氏去年はまいったが、まあ、年に数回くらい、あんなふうに盛關り上がるのも悪くないか。",
     ""),
     # I was in trouble last year, but isn't it bad that the rise in so much so many times a year?
 

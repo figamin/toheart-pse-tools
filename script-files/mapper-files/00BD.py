@@ -2,11 +2,11 @@
 # Source file: 00BD.txt
 
 text_array = [
-    ("（４獅月２３冾日	朝）の続き（以下	葵の好感度８以繹上なら表示）閨（校蜊門前）†",
+    ("（４月２３冾日	朝）の続き（以下	葵の好感度８以繹上なら表示）閨（校門前）†",
     ""),
     # Continuing from (April Shizuki 23rd Day, morning) (hereinafter displayed if Aoi's favorability level is above 8) (in front of the school gate)†
 
-    ("校蜊門前にｒいたとき、",
+    ("校門前にｒいたとき、",
     ""),
     # When I was in front of the school gates,
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Well, I'm the girl who's been appearing recently, and she's called Aoi Chisho-ya."
 
-    ("「あ、どう烽も、松原葵です」",
+    ("「あ、どうも、松原葵です」",
     ""),
     # "Oh, no matter how you say it, it's Matsubara Aoi."
 

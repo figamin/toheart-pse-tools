@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Hey, tonight...!?"
 
-    ("「い、いや、なんで烽もない。オレが言う墲わけにはいかない」",
+    ("「い、いや、なんでもない。オレが言うわけにはいかない」",
     ""),
     # "No, there's no tampering, why is there no hot water? I can't just say it."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Akari went after her desperately.†
 
-    ("走ったおかげで、いつ烽もより≠早く家にｒくことができた。◯",
+    ("走ったおかげで、いつもより≠早く家にｒくことができた。◯",
     ""),
     # Thanks to my success, I was able to get to my house sooner than I could.◯
 

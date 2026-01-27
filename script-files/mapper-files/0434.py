@@ -2,7 +2,7 @@
 # Source file: 0434.txt
 
 text_array = [
-    ("（冝日付指闔定式回秤数型ＶＳイベント	志保ＶＳあかり）閨（選択綜	行く）†",
+    ("（冝日付指定式回秤数型ＶＳイベント	志保ＶＳあかり）閨（選択綜	行く）†",
     ""),
     # (Style Date-Registration Type Scales VS Event Shiho VS Akari) (Select Sogo) †
 
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "That's good...
 
-    ("んじ痰ゃ、オレ焜も行くかな」",
+    ("んじ痰ゃ、オレも行くかな」",
     ""),
     # I wonder if my phlegm will go too."
 
-    ("「そーとｌまれば、戟レッツ辜らゴー！」†",
+    ("「そーとｌまれば、レッツ辜らゴー！」†",
     ""),
     # "If you're going to sing, let's go!"
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # For a while, Akari and Shiho have been slurping and squelching.
 
-    ("男が揩理想にするタイプの翌女性恊像の話陂題だ。†",
+    ("男が理想にするタイプの翌女性恊像の話陂題だ。†",
     ""),
     # This is the story of the image of the next woman who is the type that men would make their ideals.†
 
-    ("「｢｢でしょ〜？	男って墲わがままよねぇ」",
+    ("「｢｢でしょ〜？	男ってわがままよねぇ」",
     ""),
     # "" "An slut? Men are selfish."
 
-    ("「ふふふっ。…で烽も、男の人の好み烽もあると思うよ」†",
+    ("「ふふふっ。…でも、男の人の好みもあると思うよ」†",
     ""),
     # "Hehehe... And I think there are also some hot springs and some hot springs that men like."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # When I said that, Shiho leaned over me,
 
-    ("「じ痰ゃに聞くけど、家哩事が得意で、身の回濶りのことによく気がつく翌女の子と、家哩事なんかできなくて烽も、ざっくばらんにつき№合える翌女の子のどっちを選びたい？」",
+    ("「じ痰ゃに聞くけど、家哩事が得意で、身の回濶りのことによく気がつく翌女の子と、家哩事なんかできなくても、ざっくばらんにつき№合える翌女の子のどっちを選びたい？」",
     ""),
     # "I'd like to ask you, but which would you prefer, the girl who is good at home and often notices recurring things, or the girl who can't do home and can't do home and can't do home or the girl who can't do it, or the girl who can't do it all, casually?
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # He looked over at Akari and looked at him with a vision of expectation until that moment.†
 
-    ("この質竡問はつまり…、遠ま墲わしに言ってるようだが、ズバリ、ふたりのうちどっちかを選べと言ってるんだよな？",
+    ("この質竡問はつまり…、遠まわしに言ってるようだが、ズバリ、ふたりのうちどっちかを選べと言ってるんだよな？",
     ""),
     # This quality question seems to be the case...I'm not too far away, but Zubagatari is telling you to choose which of the two of them, right?
 

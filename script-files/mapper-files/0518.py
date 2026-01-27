@@ -2,9 +2,9 @@
 # Source file: 0518.txt
 
 text_array = [
-    ("（葵	冝日付イベント４）閨（Ｂ	閨手のひらに人という嘯字を曹書いて飲ます）†",
+    ("（葵	冝日付イベント４）閨（Ｂ	閨手のひらに人という嘯字を曹書いて飲ます）",
     ""),
-    # (Aoi Crowd Date Event 4) (B: ​​Drink the character "human" on the palm of your hand and write it in the letter "human")†
+    # (Aoi Crowd Date Event 4) (B: ​​Drink the character "human" on the palm of your hand and write it in the letter "human")
 
     ("諱よし、ここはあれでいくか。",
     ""),
@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "Look, if you do it well, you say you won't get nervous, right?"
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
-    ("「ただのおまじないで烽も、要は気の揩持ちようだからな」",
+    ("「ただのおまじないでも、要は気の持ちようだからな」",
     ""),
     # "Even a simple spell, even a hot spell, is basically just a silly thing."
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # Aoi Chisho-yan nodded, and wrote "human" on the palm of his hand, and swallowed it up.
 
-    ("そして小さく息を吐く。†",
+    ("そして小さく息を吐く。",
     ""),
-    # Then exhale a small breath.†
+    # Then exhale a small breath.
 
     ("「どう？」",
     ""),
@@ -54,8 +54,8 @@ text_array = [
     "…"),
     # "..."
 
-    ("なんか、いまいち効果がないみたいだな。†",
+    ("なんか、いまいち効果がないみたいだな。",
     ""),
-    # It seems like it's not very effective.†
+    # It seems like it's not very effective.
 
 ]

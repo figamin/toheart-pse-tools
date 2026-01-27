@@ -2,9 +2,9 @@
 # Source file: 0F0B.txt
 
 text_array = [
-    ("（ゲーセンバトル２）閨（学年テスト繝後）閨（選択綜	あかり）†",
+    ("（ゲーセンバトル２）閨（学年テスト繝後）閨（選択綜	あかり）",
     ""),
-    # (Arcade Battle Cry 2) (After the grade test) (Selection Akari)†
+    # (Arcade Battle Cry 2) (After the grade test) (Selection Akari)
 
     ("「やっぱりここは、無俣にあかりだな」",
     ""),
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "Huh!?"
 
-    ("「今回は対岺戦型のアクションゲームだ。前回以繹上に、実力が烽ものを言うぜ」",
+    ("「今回は対岺戦型のアクションゲームだ。前回以繹上に、実力がものを言うぜ」",
     ""),
     # "This time it's a battle-type accident game. I'll be talking about my abilities more than last time."
 
-    ("「ますます自信ないよ…」†",
+    ("「ますます自信ないよ…」",
     ""),
     # "I'm more and less confident..."
 
-    ("「おやおや、閨手詞い鰍相闡手を選んだ烽ものねぇ。てっきりあたしを指名するかと思ったのに」",
+    ("「おやおや、閨手詞い鰍相闡手を選んだものねぇ。てっきりあたしを指名するかと思ったのに」",
     ""),
     # "You've got a lot of tampering, tampering, or choosing a cute and cute interchangeable thing. I thought I'd just nominate me."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # And Shiho.
 
-    ("「あいにくお前と墲戦うと疲齡れるんでな」",
+    ("「あいにくお前と戦うと疲齡れるんでな」",
     ""),
     # "Unfortunately, if I fight you I'll get tired."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Oh, it's a Segata riff that I don't think is my archenemy."
 
-    ("「なんとで烽も言え。さあ、やるぞ、あかり」†",
+    ("「なんとでも言え。さあ、やるぞ、あかり」",
     ""),
     # "What's more, I'll say it too. Come on, let's do it, Akari."
 
-    ("「諱よしっ、こうなったら烽もう、諱頑張窒う！」",
+    ("「諱よしっ、こうなったらもう、諱頑張窒う！」",
     ""),
     # "All right, when this happens, I'll do my best!"
 
@@ -58,13 +58,13 @@ text_array = [
     ""),
     # "Oh, that enthusiasm, Akari."
 
-    ("♂史侮＆志保の声≒援が飛ぶ。",
+    ("雅史侮＆志保の声≒援が飛ぶ。",
     ""),
-    # ♂She insults and Shiho's voice = support.
+    # 雅She insults and Shiho's voice = support.
 
-    ("オレのほうがすっかり悪役だ。†",
+    ("オレのほうがすっかり悪役だ。",
     ""),
-    # My geek is a completely villain.†
+    # My geek is a completely villain.
 
     ("「諱よし、ゲーム開始だ」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Put in a 100 yen coin and press the start button lightly.
 
-    ("「戟レッツ、プレイ！」◯",
+    ("「レッツ、プレイ！」◯",
     ""),
     # "Let's do it, do it!" ◯
 
@@ -110,10 +110,6 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
-    ""),
-    # ・†
-
     ("・",
     ""),
     # ・
@@ -130,8 +126,12 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
 ]

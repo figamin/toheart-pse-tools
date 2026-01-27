@@ -2,9 +2,9 @@
 # Source file: 06AF.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	学校を出髀る１）閨（選択綜Ｂ	なんとかならねーのか？）†",
+    ("（マルチ	回秤数イベント	学校を出髀る１）閨（選択綜Ｂ	なんとかならねーのか？）",
     ""),
-    # (Muryuruchi, Scales Event, Departing from School 1) (Choice B, Can't I do something about it?)†
+    # (Muryuruchi, Scales Event, Departing from School 1) (Choice B, Can't I do something about it?)
 
     ("「明坙日までなんて…そんな。",
     ""),
@@ -14,17 +14,17 @@ text_array = [
     ""),
     # But can't we do something a little more?”
 
-    ("あまりに突然過ぎて、そんなことしか口にできなかった。†",
+    ("あまりに突然過ぎて、そんなことしか口にできなかった。",
     ""),
-    # It was so sudden that Fukuchu could only do that.†
+    # It was so sudden that Fukuchu could only do that.
 
-    ("「…さん。お気搴持ちは嬉しいです。で烽も、最燕初からｌまっていたことですから。…すみません」",
+    ("「…さん。お気搴持ちは嬉しいです。でも、最燕初からｌまっていたことですから。…すみません」",
     ""),
     # "...san. I'm happy if you're interested. And Hot has been in the first place since the beginning....sorry."
 
-    ("「そう…か」†",
+    ("「そう…か」",
     ""),
-    # "I see..." †
+    # "I see..." 
 
     ("そうか。",
     ""),

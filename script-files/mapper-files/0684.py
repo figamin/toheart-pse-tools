@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "yes"
 
-    ("ま、自分で烽もときどき、オレって案外親切なрヤツか烽もな、なーんて思ったりするけど。",
+    ("ま、自分でもときどき、オレって案外親切なрヤツかもな、なーんて思ったりするけど。",
     ""),
     # Well, sometimes I think that I'm super excited, or that I'm a surprisingly kind guy or a hot guy.
 
-    ("マルチみたいな素直なрヤツに、こう烽もはっきり言甯われると、さすがに照齒れるぜ。†",
+    ("マルチみたいな素直なрヤツに、こうもはっきり言甯われると、さすがに照齒れるぜ。†",
     ""),
     # When someone like a straightforward guy like a cry of a cry, he was clearly stated, and it was really touched.†
 
-    ("「やっぱ、掾持ち前の人の良さみたいな烽もんが出ちまうんだーなァ…、｢｢とかなんとか言ってみたりして」",
+    ("「やっぱ、掾持ち前の人の良さみたいなもんが出ちまうんだーなァ…、｢｢とかなんとか言ってみたりして」",
     ""),
     # "After all, there are some hotties that look like the goodness of a natural person... "You should say something like ".
 

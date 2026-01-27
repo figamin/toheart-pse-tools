@@ -2,15 +2,15 @@
 # Source file: 0480.txt
 
 text_array = [
-    ("（志保	п割闃り桙込み型好感度イベント）閨（選択綜	パス）†",
+    ("（志保	п割闃り桙込み型好感度イベント）閨（選択綜	パス）",
     ""),
-    # (Shiho п痃塙-included type likeability event) (Select Pass)†
+    # (Shiho п痃塙-included type likeability event) (Select Pass)
 
     ("「わりぃ、今回はパスな」",
     ""),
     # "Stop it, I'll pass this time."
 
-    ("「え〜っ、つまんないこと言う墲わね〜っ」",
+    ("「え〜っ、つまんないこと言うわね〜っ」",
     ""),
     # "Eh, you say boring things."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "It's boring, it's boring."
 
-    ("志保の墲わめき声に笑迴顔で手を振關り返して、その場をあとにした。◯",
+    ("志保のわめき声に笑顔で手を振關り返して、その場をあとにした。◯",
     ""),
     # I waved back to Shiho's groan with a laughing face and left the scene.◯
 

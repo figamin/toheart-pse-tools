@@ -2,15 +2,15 @@
 # Source file: 08F3.txt
 
 text_array = [
-    ("（戟レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	信じねえけど）†",
+    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	信じねえけど）",
     ""),
-    # (Remy's exam return day after day) (I don't believe it though)†
+    # (Remy's exam return day after day) (I don't believe it though)
 
-    ("「信じねえけど、お烽もしれえよな」",
+    ("「信じねえけど、おもしれえよな」",
     ""),
     # "I don't believe it, but it's okay."
 
-    ("だから怪談とかホラーとかがある墲わけだし。",
+    ("だから怪談とかホラーとかがあるわけだし。",
     ""),
     # That's why there are ghost stories and hobans.
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Don't you believe it?"
 
-    ("「フィクションだけで充分だよ」†",
+    ("「フィクションだけで充分だよ」",
     ""),
     # "Fixing alone is enough"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "I understand!"
 
-    ("「なんだ、それだけで墲わかるのか？」†",
+    ("「なんだ、それだけでわかるのか？」",
     ""),
     # "What, does that mean you can tell from that?"
 

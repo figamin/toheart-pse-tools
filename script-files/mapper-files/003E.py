@@ -10,11 +10,11 @@ text_array = [
     ""),
     # First day Yasushi, Maki Final Test
 
-    ("だらだらと廊下を烽歩く。",
+    ("だらだらと廊下を歩く。",
     ""),
     # I walked around the hallways lazily.
 
-    ("帰闍りの生徒たちとすれ痰違う。＝@知った顔にで烽も出初えればいいが、そんなこと烽もなく、階段の前にｗた。†",
+    ("帰闍りの生徒たちとすれ痰違う。＝@知った顔にでも出初えればいいが、そんなこともなく、階段の前にｗた。†",
     ""),
     # The students who have returned home are completely different.=@I wish I could start to show some hot springs on my familiar face, but there was no such thing, so I laughed at it in front of the stairs.†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # I'm going back on my own.
 
-    ("意識して考えると寂しい烽ものがあるな。",
+    ("意識して考えると寂しいものがあるな。",
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # I was surprisingly surprised at how much fun it was on the day of the day.
 
-    ("この調子でいきたい烽もんだ。",
+    ("この調子でいきたいもんだ。",
     ""),
     # I want to stay this way.
 
-    ("明坙日の教科のおさらいで烽もやっとくか。◯",
+    ("明坙日の教科のおさらいでもやっとくか。◯",
     ""),
     # Let's start tampering with the Ming Shun Day subject review.◯
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Let's keep this intact.
 
-    ("明坙日の教科のおさらいで烽もやっとくか。◯",
+    ("明坙日の教科のおさらいでもやっとくか。◯",
     ""),
     # Let's start tampering with the Ming Shun Day subject review.◯
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Well, I don't have time to fall for the fallen slugs.
 
-    ("明坙日の教科のおさらいで烽もやっとくか。◯",
+    ("明坙日の教科のおさらいでもやっとくか。◯",
     ""),
     # Let's start tampering with the Ming Shun Day subject review.◯
 

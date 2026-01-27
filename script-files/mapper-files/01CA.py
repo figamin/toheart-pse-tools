@@ -10,11 +10,11 @@ text_array = [
     ""),
     # "Canned Crab. Abbreviated as Crab Can"
 
-    ("「で烽も、それって、近葛所のコンビニとかで烽もр売ってるし…」",
+    ("「でも、それって、近葛所のコンビニとかでもр売ってるし…」",
     ""),
     # "And they sell hot springs, and hot springs at convenience stores in Chikazusho too..."
 
-    ("「本齧場の物をモ買うってのに意味があるんだ。だいたいな、置物とかそういうのをみやげで揩持ってって烽も、本末当は迷惑なんだぞ」",
+    ("「本齧場の物をモ買うってのに意味があるんだ。だいたいな、置物とかそういうのをみやげで持ってっても、本末当は迷惑なんだぞ」",
     ""),
     # "There's a point in buying something from the main grooming area. It's generally a nuisance to have an ornament or something like that to keep it in a nuisance, but it's a nuisance to the end of the day."
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "Foods are the best.
 
-    ("喜ばれる。『北海道行ってきました、どうぞカニです』『おお、本齧場のカニ！？』っつーかんじで、梶相闡手燻も桙満足間瘧違いなしだ」",
+    ("喜ばれる。『北海道行ってきました、どうぞカニです』『おお、本齧場のカニ！？』っつーかんじで、梶相闡手燻も桙満足間違いなしだ」",
     ""),
     # It's pleased."I went to Hokkaido, please come along with crab" "Oh, the crab from the main gnawing area!?'It's like that, and the smoked Kaji Sangyo is also very satisfying and uneven.''
 
-    ("「で烽もなあ…」†",
+    ("「でもなあ…」†",
     ""),
     # "And that's hot too..." †
 
-    ("「置物なんか烽もらってみ？	￥髀るとこ烽もねーし、捨てるに捨てらんねーし、諱取闔りようによっては一妤種の凾嫌がらせだね」",
+    ("「置物なんかもらってみ？	￥髀るとこもねーし、捨てるに捨てらんねーし、諱取りようによっては一種の凾嫌がらせだね」",
     ""),
     # "Is it a must-have for an ornament? There are no hot spots in the area where it's ￥, so I don't throw it away, and depending on how you go about it, it's a kind of harassment."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "You've only had crab crabs for a while now. Did you love crab that much?"
 
-    ("「いや、＝普通。で烽も、こんな話をしてると、食いたくなって魔当然だ？」",
+    ("「いや、＝普通。でも、こんな話をしてると、食いたくなって魔当然だ？」",
     ""),
     # "It's normal, isn't it? And when you talk about this, it's only natural that you'll want to eat it b?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "oh dear…"†
 
-    ("「で烽も、だいたいこれで、自由行動の予定がｌまったような烽もんだ」",
+    ("「でも、だいたいこれで、自由行動の予定がｌまったようなもんだ」",
     ""),
     # "And this makes me feel like I've already got the chance to move freely."
 

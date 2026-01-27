@@ -2,19 +2,19 @@
 # Source file: 0500.txt
 
 text_array = [
-    ("（葵との出初い	イント鴻ロ）閨（４獅月１０冾日（＄）の汲昼休み）閨（渡闢り廊下）†",
+    ("（葵との出初い	イント鴻ロ）閨（４月１０冾日（＄）の昼休み）閨（渡闢り廊下）†",
     ""),
     # (First time with Aoi Intokoro) (Lunch break for the 10th day of April ($)) (Covering corridor) †
 
-    ("午前葬の授業が終尞わって汲昼休み。",
+    ("午前葬の授業が終尞わって昼休み。",
     ""),
     # After the morning funeral classes have ended, we have lunch break.
 
-    ("昼食のパンをモ買いに、♂史といっしょに食堂にある購ロ買粕部へとｌかっていたときのことだ。†",
+    ("昼食のパンをモ買いに、雅史といっしょに食堂にある購ロ買粕部へとｌかっていたときのことだ。†",
     ""),
     # This was when Masochi was taking to the Shoro Buying Kasube in the cafeteria to buy some bread for lunch.†
 
-    ("「えっと、ですからこれは、たんなる格闘技ファンのための同好拷ではなく、ええっと、みんなで、と烽もに新しい格闘技を研結、開発しながら学んでいこうという、そういう目的の同好拷で｢｢」",
+    ("「えっと、ですからこれは、たんなる格闘技ファンのための同好拷ではなく、ええっと、みんなで、ともに新しい格闘技を研結、開発しながら学んでいこうという、そういう目的の同好拷で｢｢」",
     ""),
     # "Um, so this is not just a friendly torture for martial arts fans, but a friendly torture with the goal of ''to develop and develop new martial arts'', with the aim of ``''
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # When I stopped and looked at the Fukukata voice, I saw a circle of several female students from the next day.
 
-    ("その輪のｒ心にはボーイッシャなショートカットの翌女の子がいて、ま墲わりの翌女生徒たちに対して、なにやら格闘技がどうのこうのと熱心に語りかけていた。",
+    ("その輪のｒ心にはボーイッシャなショートカットの翌女の子がいて、まわりの翌女生徒たちに対して、なにやら格闘技がどうのこうのと熱心に語りかけていた。",
     ""),
     # In the heart of the circle was a girl who had a boyish stylist, and she was eager to talk to the female students who had just finished the conversation about something and martial arts.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "what happened,?"
 
-    ("♂史が立ち止まって聞く。",
+    ("雅史が立ち止まって聞く。",
     ""),
     # Masochi stops and listens.
 
@@ -62,19 +62,19 @@ text_array = [
     ""),
     # "Learning martial arts allows us to gain a lot of things all the time.
 
-    ("中で烽もやはり最蜊大のｊびは、冝日に冾日に自分が強くなっていくことを実感できるということです。",
+    ("中でもやはり最大のｊびは、冝日に冾日に自分が強くなっていくことを実感できるということです。",
     ""),
     # In the meantime, the most powerful j-sama means that you can feel that you will become stronger on the day of your day.
 
-    ("毎坙日厳しい訓綷練を重ねることで、肉体的に烽も、精神的に烽も、それまでの自分の限界を超えて強くなっていくのが実感できるんです！」†",
+    ("毎坙日厳しい訓綷練を重ねることで、肉体的にも、精神的にも、それまでの自分の限界を超えて強くなっていくのが実感できるんです！」†",
     ""),
     # By practicing hard lessons every day, you can feel that both physically and mentally becoming stronger beyond your limits!”†
 
-    ("浴女の子は、ひたむきさがにじみ出髀るほどの熱っぽさで、格闘技についてを力燉説していた。",
+    ("女の子は、ひたむきさがにじみ出髀るほどの熱っぽさで、格闘技についてを力燉説していた。",
     ""),
     # The bathing girl was so passionate that she was captivated by her dedicated work, and she was passionate about martial arts.
 
-    ("だが、それを聞いてるま墲わりの翌女性徒たちは、どっちかといえば、ただ面猪白がっているだけといった様子だ。†",
+    ("だが、それを聞いてるまわりの翌女性徒たちは、どっちかといえば、ただ面猪白がっているだけといった様子だ。†",
     ""),
     # However, as they heard this, the women who had just come to the ground seemed to be just wearing a boar.†
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # I also hear voices that seemed to be making fun of me.
 
-    ("それで烽もショートカットのコは、一生恊懸命話を続けてる。†",
+    ("それでもショートカットのコは、一生恊懸命話を続けてる。†",
     ""),
     # So, the girl who cuts the ball has been working hard for the rest of her life.†
 
-    ("「せっかくの同好拷なんですから、′俾結ｵい礼儀牛法笆や精神論は抜きにして、のびのびとやっていきたいと思っています。まずは実際に体を動かし、格闘技の怩奥の深さ、面猪白さを十分に揩理解していただこうと思っています。精神的なことは、強くなる一環として繧後々に学ぶべきことだと思いますから」†",
+    ("「せっかくの同好拷なんですから、′俾結ｵい礼儀牛法笆や精神論は抜きにして、のびのびとやっていきたいと思っています。まずは実際に体を動かし、格闘技の怩奥の深さ、面猪白さを十分に理解していただこうと思っています。精神的なことは、強くなる一環として後々に学ぶべきことだと思いますから」†",
     ""),
     # "Since this is a torture that is all about torture, I would like to tamper with ease, without the 'justice and mentality of 'justice'. First, I would like to actually move my body and fully understand the depth and vibe of martial arts. I think mentality is something that we should learn later as part of becoming stronger."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Hey hey."
 
-    ("浴女子のｒから質竡問の声が繧上がる。",
+    ("女子のｒから質竡問の声が上がる。",
     ""),
     # A high-quality voice erupted from the girls who were bathing in the bathing.
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "yes?"
 
-    ("「それってつまり、実際に蹴ったり殴ったりする墲わけでしょー？」",
+    ("「それってつまり、実際に蹴ったり殴ったりするわけでしょー？」",
     ""),
     # "That means that you actually kick and punch him, right?"
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # "I don't want that, that's a sputum."
 
-    ("「あの、いちおうグ鴻ローブとかつけますし、スパー梶リングとかのときはヘッドギアとか烽もつけますから、それほど…」",
+    ("「あの、いちおうグ鴻ローブとかつけますし、スパー梶リングとかのときはヘッドギアとかもつけますから、それほど…」",
     ""),
     # "Well, I'll wear some Ghoo robes, and when I wear Spar Kaji rings, I also wear headgear and hot water, so that's not too much..."
 
-    ("「エクササイズみたいな烽もの烽もあんの？」",
+    ("「エクササイズみたいなものもあんの？」",
     ""),
     # "Are there any hot springs like exercise?"
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "Eh, what if you sweat and phlegm?!"
 
-    ("「£替えとかはー？」",
+    ("「替えとかはー？」",
     ""),
     # "How about a replacement?"
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Ah, um..."
 
-    ("マシンガンのような質竡問の窒嵐のｒ、浴女の子は押され気味でタジタジになる。",
+    ("マシンガンのような質竡問の窒嵐のｒ、女の子は押され気味でタジタジになる。",
     ""),
     # The bathing girl is a bit of a machine gun-like quality, and she gets a bit silly and gets carried away.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # I feel sorry for the supper.†
 
-    ("「…なんつーか、クラブ勧誘燉もたけな墲わって感じだなー」",
+    ("「…なんつーか、クラブ勧誘燉もたけなわって感じだなー」",
     ""),
     # "...It feels like the banquet love recruitment is also a big hit."
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "I heard it was martial arts in the place b, but is it a solicitation for Sora-Kante or judo?"
 
-    ("「…いや、同好拷とか言ってるから、たぶんなんか別の格闘技だな。しか烽も聞いた感じ、実際にやるほうみたいだぞ」",
+    ("「…いや、同好拷とか言ってるから、たぶんなんか別の格闘技だな。しかも聞いた感じ、実際にやるほうみたいだぞ」",
     ""),
     # "... They say tampering and torture like that, so it's probably a different martial art. But I've heard of Kao, and it seems like he's actually a guy who actually tampers with it."
 
@@ -198,11 +198,11 @@ text_array = [
     ""),
     # "By the way, you like martial arts, right?"
 
-    ("「へっ？	そり痰ゃまあ凾嫌いじ痰ゃないけど…。で烽も好きってほどで烽もないぜ。なんで？」",
+    ("「へっ？	そり痰ゃまあ凾嫌いじ痰ゃないけど…。でも好きってほどでもないぜ。なんで？」",
     ""),
     # "Huh? I don't like it, I don't like it, but... I also like hotpots, and I don't have hotpots. Why?"
 
-    ("オレが聞くと、♂史はちょっとすねたような顔をこっちにｌけた。",
+    ("オレが聞くと、雅史はちょっとすねたような顔をこっちにｌけた。",
     ""),
     # When I heard, Masochihahahahahahahahahahahahaha, his face was squealing over me.
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # I began to say it, and I kept on Fukuguchi.
 
-    ("その繧後には『お前をいじめてただけ』と続くはずだった。†",
+    ("その後には『お前をいじめてただけ』と続くはずだった。†",
     ""),
     # After that, it was supposed to continue saying, "I was just bullying you."†
 
@@ -234,11 +234,11 @@ text_array = [
     ""),
     # "You're such a passionate recruiting. I've been working hard to get my hands on the phlegm for a while now."
 
-    ("「うん。マイナーな同好拷は部員の数で予算のр割闃り魔当てがｌまるからね。どこ烽も必死だよ」",
+    ("「うん。マイナーな同好拷は部員の数で予算のр割闃り魔当てがｌまるからね。どこも必死だよ」",
     ""),
     # "Yeah. Minor torture is the number of members that can be used to match the budget. Every member is desperate."
 
-    ("「それにして烽も、みんな真面目に聞いてないみたいだな、なんかか墲わいそうだな」†",
+    ("「それにしても、みんな真面目に聞いてないみたいだな、なんかかわいそうだな」†",
     ""),
     # "And it seems like everyone is not listening seriously, it looks like he's a bit sad."
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "Ah!"
 
-    ("♂史がいきなりそんな声を繧上げた。",
+    ("雅史がいきなりそんな声を上げた。",
     ""),
     # Masochi suddenly let out such a cry.
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # Oh, that's what I mean, is it the day I go to buy some bread now?†
 
-    ("購ロ買粕部における汲昼間のパンヱ奪峵戦は、実にモしい墲戦いだ。",
+    ("購ロ買粕部における昼間のパンヱ奪峵戦は、実にモしい戦いだ。",
     ""),
     # The daytime battle for Pan-End stolen during the day at the Purchasing Roku Kasubu is a truly fierce battle of fire.
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "=Let's go quickly."
 
-    ("急かしつつ、♂史は先へ行こうとする。",
+    ("急かしつつ、雅史は先へ行こうとする。",
     ""),
     # In a hurry, Masochi tries to move forward.
 
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # I'm '.
 
-    ("Ａ	で烽もやっぱり、あの子の話が気になった。閨",
+    ("Ａ	でもやっぱり、あの子の話が気になった。閨",
     ""),
     # A: And I was also tampering with the story of that girl, and I was curious about it.Relax
 

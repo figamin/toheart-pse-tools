@@ -2,9 +2,9 @@
 # Source file: 0B41.txt
 
 text_array = [
-    ("（綾∴香	エンディング）閨（選択Ａ	あと１００回	の続き）†",
+    ("（綾∴香	エンディング）閨（選択Ａ	あと１００回	の続き）",
     ""),
-    # (Aya∴Ka ending) (Continued after 100 more times)†
+    # (Aya∴Ka ending) (Continued after 100 more times)
 
     ("「じ痰ゃあ、あと｢｢」",
     ""),
@@ -26,8 +26,8 @@ text_array = [
     ""),
     # He's a pretty insightful guy.
 
-    ("それと烽も誰で烽も考えつくことなのか。†",
+    ("それとも誰でも考えつくことなのか。",
     ""),
-    # Also, who can come up with the hot spring?†
+    # Also, who can come up with the hot spring?
 
 ]

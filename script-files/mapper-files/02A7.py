@@ -2,9 +2,9 @@
 # Source file: 02A7.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（廊下１）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（廊下１）",
     ""),
-    # (Seri° Kaori Scale Event 2F LV5)Seri (Corridor 1)†
+    # (Seri° Kaori Scale Event 2F LV5)Seri (Corridor 1)
 
     ("う〜っ、やべやべっ。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Oh.
 
-    ("＠栖瑞謳先輩だ。†",
+    ("＠栖瑞謳先輩だ。",
     ""),
-    # @This is Suzumi-san.†
+    # @This is Suzumi-san.
 
     ("「………」",
     "…"),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # I'm in trouble.
 
-    ("のんびり話を聞いてる余裕はないぞ。†",
+    ("のんびり話を聞いてる余裕はないぞ。",
     ""),
-    # I don't have the time to listen to the story casually.†
+    # I don't have the time to listen to the story casually.
 
     ("どうしよう…！？",
     ""),

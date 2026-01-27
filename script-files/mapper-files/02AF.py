@@ -30,7 +30,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	諱先輩のほう烽もそう思って、オレを待っててくれたって？	そうなのか？」",
+    ("「えっ？	諱先輩のほうもそう思って、オレを待っててくれたって？	そうなのか？」",
     ""),
     # "Huh? You thought that, Senpai Hou-san, and waited for me to be extremely enthusiastic? Is that so?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # That's strange.
 
-    ("いつ烽もなら、校蜊門を出たと同椏時に浮黒塗闢りの鰍リムジンがやってくるはずだが…。",
+    ("いつもなら、校門を出たと同椏時に浮黒塗闢りの鰍リムジンがやってくるはずだが…。",
     ""),
     # If it's hot, a black-painted chrysanthemum limousine will probably come to the point of being exposed to the same time as leaving the school gates...
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "!" †
 
-    ("「п私はｗ栖瑞家に５０年お仕えしてきた執鮪事でございます。以繹後、間瘧違えぬよう」",
+    ("「п私はｗ栖瑞家に５０年お仕えしてきた執鮪事でございます。以繹後、間違えぬよう」",
     ""),
     # "I am a tuna who has served the Sumizu family for 50 years. I hope that there will be no misunderstanding after this."
 
@@ -182,7 +182,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「いいえ、なりませぬっ！	たとえ、おｏ様がなんと言甯われまして烽も｢｢」",
+    ("「いいえ、なりませぬっ！	たとえ、おｏ様がなんと言甯われましても｢｢」",
     ""),
     # "No, I won't do it! Even if O-san was told that he was ""
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "See, Seri°Kao-san.
 
-    ("私めが、そのお顔に繧弱いことを知闥りながら」†",
+    ("私めが、そのお顔に弱いことを知闥りながら」†",
     ""),
     # While knowing that I am weak on that face"
 
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「わ、わかりました。そこまでおっし痰ゃるのでしたら、最″早なに烽も言いません」",
+    ("「わ、わかりました。そこまでおっし痰ゃるのでしたら、最″早なにも言いません」",
     ""),
     # "B, I understand. If you're going to have that much phlegm, I won't even say anything quickly."
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # The old man yells.
 
-    ("なんでテ＜メーに、小僧呼ば墲わりされなき痰ゃなんねーんだ。",
+    ("なんでテ＜メーに、小僧呼ばわりされなき痰ゃなんねーんだ。",
     ""),
     # Why should I not call Temae a boy and not be stolen?
 
@@ -274,7 +274,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("こちらへどうぞ、と烽歩き出す先輩に続いて、オレは鰍リムジンへと移動した。◯",
+    ("こちらへどうぞ、と歩き出す先輩に続いて、オレは鰍リムジンへと移動した。◯",
     ""),
     # Following my senior, asking me to go here, I moved to the chrysanthemum.◯
 
@@ -306,7 +306,7 @@ text_array = [
     ""),
     # A car like this is a must-have for ordinary people to ride or ride once before they die.†
 
-    ("みるみるうちに校蜊門が小さくなってゆく。",
+    ("みるみるうちに校門が小さくなってゆく。",
     ""),
     # As the school gates grow smaller and plunge, they go.
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # I don't feel like I'm running at all.
 
-    ("おっ、あんなとこを、志保のрヤツが烽歩いてやがる。",
+    ("おっ、あんなとこを、志保のрヤツが歩いてやがる。",
     ""),
     # Oh, Shiho's guy is walking around and tampering with that.
 
@@ -326,7 +326,7 @@ text_array = [
     ""),
     # Hey, I thought I'd waved my hand and b, but I was embarrassed so I'd stop tampering.†
 
-    ("「＠栖瑞の車に下々の者を乗せるなど、縺後に烽も先に烽もこれっきりでございましょう」",
+    ("「＠栖瑞の車に下々の者を乗せるなど、縺後にも先にもこれっきりでございましょう」",
     ""),
     # "This is the only way to carry the poorest people in @Suizui's car, and the hot ones after that are still there."
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # They still say sentences and tamper with it.
 
-    ("掾往生ぎ墲わの悪いじじいだな。†",
+    ("掾往生ぎわの悪いじじいだな。†",
     ""),
     # He's a bad old man.†
 
@@ -362,15 +362,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	家まで翌送迹らなくて烽もいいのかって？	もう目と鼻の先だよ。",
+    ("「えっ？	家まで翌送迹らなくてもいいのかって？	もう目と鼻の先だよ。",
     ""),
     # "Huh? Is it okay to have a hot spring without having to send it home the next day? It's just a stone's throw away.
 
-    ("わざ墲わざサンキャな！	滅多にない貴重な体験をさせて烽もらったぜ」†",
+    ("わざわざサンキャな！	滅多にない貴重な体験をさせてもらったぜ」†",
     ""),
     # It's all about the move!I was able to have a rare and valuable experience and was given a hot meal."
 
-    ("オレはにっこり微笑むと、別れぎ墲わ、諱先輩に言った。",
+    ("オレはにっこり微笑むと、別れぎわ、諱先輩に言った。",
     ""),
     # I smiled and told my senior Ie-senpai that I'd say goodbye.
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # A: It's the first time I've returned to the Ebi for the first time.Relax
 
-    ("Ｂ	いつ烽もいっしょに帰鼡れり痰ゃいいのにな。閨",
+    ("Ｂ	いつもいっしょに帰鼡れり痰ゃいいのにな。閨",
     ""),
     # B I wish I had enough phlegm to go home with the hot springs.Relax
 

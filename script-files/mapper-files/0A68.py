@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Ah, kun!"
 
-    ("オレを見つけて微笑む揩理女緒ち痰ゃん。",
+    ("オレを見つけて微笑む理女緒ち痰ゃん。",
     ""),
     # I found a hardcore girl and smiled.
 
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # "What, what advice?"
 
-    ("「氏落ちｒいて、少しずつで烽も揩理解しって。",
+    ("「氏落ちｒいて、少しずつでも理解しって。",
     ""),
     # "I'm not going to get any more understanding of the hot weather, little by little.
 
-    ("私、言甯われたとおりにやったの。そしたら、いつ烽もよりよかった感じがするの」",
+    ("私、言甯われたとおりにやったの。そしたら、いつもよりよかった感じがするの」",
     ""),
     # I did as I was told.Then, when will it feel better than hot?
 
-    ("「ああ。で烽も感謝すんのは、ち痰ゃんと点箔数が墲わかってからのほうがいいんじ痰ゃない？」",
+    ("「ああ。でも感謝すんのは、ち痰ゃんと点箔数がわかってからのほうがいいんじ痰ゃない？」",
     ""),
     # "Yeah. And I'm also grateful for the sake of you, isn't it better to know the number of spots and sputums?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # On the other hand, it's falling down.†
 
-    ("「とこで、今厓日燗も教えて烽もらえるかな？」",
+    ("「とこで、今厓日燗も教えてもらえるかな？」",
     ""),
     # "At b, can you tell me about the sun-canceling weather now and get some hot spring?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # It'll help."
 
-    ("「たぶん、なんの役に烽も立たねーだうけど」†",
+    ("「たぶん、なんの役にも立たねーだうけど」†",
     ""),
     # "I think it's probably not a hit for anything."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "I only study classical Japanese and Chinese characters and just phlegm."
 
-    ("「現糟国は？」",
+    ("「現国は？」",
     ""),
     # "What about the current country?"
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # "That's what I mean by life. I can't study now b" †
 
-    ("「そういう烽ものなの？",
+    ("「そういうものなの？",
     ""),
     # "Is that kind of hot thing?
 
-    ("私、全教科まんべんなく勉強しち痰ゃってるよ。前のテストで烽もそうだったし」",
+    ("私、全教科まんべんなく勉強しち痰ゃってるよ。前のテストでもそうだったし」",
     ""),
     # I study all subjects evenly and have a lot of stimulation.That's what happened to Hot in the previous test."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # It's quite a poor way to study.
 
-    ("「んで、どうだった？	現糟国はうまくいったか？」†",
+    ("「んで、どうだった？	現国はうまくいったか？」†",
     ""),
     # "So, what was it? Did the current country go well?"
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "I'm not smart"
 
-    ("「′き不阜きだって。オレなんかよく先生に言甯われるぜ？	お前は現糟国だけは点がいいなって」",
+    ("「′き不阜きだって。オレなんかよく先生に言甯われるぜ？	お前は現国だけは点がいいなって」",
     ""),
     # "You're so unfair. My teacher often tells me, right? You're the only one who has good points in the current country."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Well, on the other hand, I'm also studying classical Japanese and Chinese fierce."
 
-    ("「で烽も、それってセンスがあるってことだよね。裏を返せば」",
+    ("「でも、それってセンスがあるってことだよね。裏を返せば」",
     ""),
     # "And that means that you have a sense of style, right? On the other hand, it's not the same."
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "As expected, you're amazing, kun. I see, your taste. That's good."
 
-    ("「そんな、物みたいに言うなよ。それに、人の烽ものばっかりうらやましがってち痰ゃダ＜メだと思うぜ」",
+    ("「そんな、物みたいに言うなよ。それに、人のものばっかりうらやましがってち痰ゃダ＜メだと思うぜ」",
     ""),
     # "Don't say something like that. Also, I think it's a shame that you're just envious of people's hot things."
 
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "?"
 
-    ("「やっぱさ、自分の烽もので勝縁負しなき痰ゃ」†",
+    ("「やっぱさ、自分のもので勝縁負しなき痰ゃ」†",
     ""),
     # "After all, I have to bear the phlegm that won't be able to win with my own hot stuff" †
 
-    ("「あっ。お母さん烽も言ってた。隣の家の芝生は青くてきれいに見えるけど、′こうから見たら、こっちの方熾もきれいに見えるんだって」",
+    ("「あっ。お母さんも言ってた。隣の家の芝生は青くてきれいに見えるけど、′こうから見たら、こっちの方熾もきれいに見えるんだって」",
     ""),
     # "Ah. Mom Ho said that, the grass next door looks beautiful and blue, but from this point on, Fukukata Teir looks beautiful too."
 
@@ -202,11 +202,11 @@ text_array = [
     ""),
     # "ah.
 
-    ("理女緒ち痰ゃんには揩理女緒ち痰ゃんの取闔り柄みたいのがあるだ？	それで勝縁負すり痰ゃいんだよ」†",
+    ("理女緒ち痰ゃんには理女緒ち痰ゃんの取り柄みたいのがあるだ？	それで勝縁負すり痰ゃいんだよ」†",
     ""),
     # Is there something like a pattern in Rimo Ochi Sphinja that looks like a character in Rimo Ochi Sphinja that?That's why I'm so grateful for the victory."
 
-    ("「うん！	貧乏だからって、人の烽ものを欲しがってち痰ゃいけないんだよね」",
+    ("「うん！	貧乏だからって、人のものを欲しがってち痰ゃいけないんだよね」",
     ""),
     # "Yeah! Just because you're poor, you have to want someone else's hot food."
 
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "poor?"
 
-    ("「いや、あの、その…。が、学力笳やセンスが貧乏で烽も、それで烽も偉くなった人はいるってこと」",
+    ("「いや、あの、その…。が、学力笳やセンスが貧乏でも、それでも偉くなった人はいるってこと」",
     ""),
     # "Tsniff, um, um... But there are people who have poor academic ability and sense, and have become even more powerful because they have become more important to them."
 
@@ -222,11 +222,11 @@ text_array = [
     ""),
     # "You're saying good things"
 
-    ("「ひょっとしたら、勉強ができなくと烽も、社長さんや学者さんになれた人がいるか烽もしれない烽もんね！」",
+    ("「ひょっとしたら、勉強ができなくとも、社長さんや学者さんになれた人がいるかもしれないもんね！」",
     ""),
     # "I think it's impossible to study, but I guess there's someone who has been able to become a president or a scholar, and it's a hot topic that can't be helped!"
 
-    ("「いや…。社長はと烽もかく、学者はいねーと思うぜ」",
+    ("「いや…。社長はともかく、学者はいねーと思うぜ」",
     ""),
     # "It's a mess... I don't think there's a lot of the president, and there's no scholar."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "I see. If I look for the world birch, it's about one person..."
 
-    ("「そんなの、世界をまたにかけて探してどうすんだよ？	見つけて烽も、なんの役に烽も立ち痰ゃしねーぞ」",
+    ("「そんなの、世界をまたにかけて探してどうすんだよ？	見つけても、なんの役にも立ち痰ゃしねーぞ」",
     ""),
     # "What are you doing when you search across the world? Find it, you can't stand up to anything, or anything else."
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "Uhhh. If it's a tuna thing that doesn't matter academic ability..."
 
-    ("「すでに学者で烽もなんで烽もねえじ痰ゃねーか、それじ痰ゃ」†",
+    ("「すでに学者でもなんでもねえじ痰ゃねーか、それじ痰ゃ」†",
     ""),
     # "I'm already a scholar and I'm not sure why are you sputum with hot water, that's what sputum?"
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Not there."
 
-    ("「で烽も、世界樺さがしたら…」",
+    ("「でも、世界樺さがしたら…」",
     ""),
     # "So, if I look for the World Birch, too..."
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "Don't look for it" †
 
-    ("けっきょく、そんな雑談で桙時間は過ぎて、°体的な烽内容にはほとんど触齔れずに終尞わってしまった。◯",
+    ("けっきょく、そんな雑談で桙時間は過ぎて、°体的な内容にはほとんど触齔れずに終尞わってしまった。◯",
     ""),
     # At first, the chatting time passed, and I was left without much touching the physical content.◯
 

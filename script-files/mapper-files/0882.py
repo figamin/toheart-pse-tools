@@ -2,7 +2,7 @@
 # Source file: 0882.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階１）閨（選択綜	話す）†",
+    ("（レミィ	回秤数イベント	２階１）閨（選択綜	話す）†",
     ""),
     # (Game Remy Scales Event, 2nd Floor 1) (Choice Speak)†
 
@@ -22,19 +22,19 @@ text_array = [
     ""),
     # "Are you gonna stand? Can you stand it?"
 
-    ("彼濫女は、オレの心配をしてご親切に手を差し出した。",
+    ("彼女は、オレの心配をしてご親切に手を差し出した。",
     ""),
     # The overly-hearted woman was so worried about me that she kindly held out her hand.
 
-    ("オレとしては、当分このままの体勢でいたかったのだが…しかたない、戟レミィの手を取骼る。",
+    ("オレとしては、当分このままの体勢でいたかったのだが…しかたない、レミィの手を取骼る。",
     ""),
     # As a big fan, I wanted to stay in this position for the time being polished... but I had no choice but to take Karemi's hand.
 
-    ("温かくて柔迴らかい手…。",
+    ("温かくて柔らかい手…。",
     ""),
     # He's a warm and soft guy...
 
-    ("オレは、しかたなく立ち繧上がった。†",
+    ("オレは、しかたなく立ち上がった。†",
     ""),
     # My heart was inevitable and rose to the ground.†
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "...Isn't it hurt?"
 
-    ("戟レミィがひどく心配そうに聞く。",
+    ("レミィがひどく心配そうに聞く。",
     ""),
     # Karemi asked with a very worried look.
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # This time, the worries I had just had just been a lie, and I looked at him.
 
-    ("カリフォルニアの冾日射しを想岺わせる、まぶしい笑迴顔。",
+    ("カリフォルニアの冾日射しを想岺わせる、まぶしい笑顔。",
     ""),
     # A dazzling face that evokes the sunlight of Kagata Rifo crying.
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "I was peering at the skirt!"
 
-    ("｢｢なんて、言えるはず烽もないよな。",
+    ("｢｢なんて、言えるはずもないよな。",
     ""),
     # "You can't say that, there's no way you can say that.
 
-    ("「なんで烽もねえよ」†",
+    ("「なんでもねえよ」†",
     ""),
     # "Why don't you have a hot pot?"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "What?"
 
-    ("「これってрｄ窒ｒ≠ａ高ｍ≠ａｔ奄ｉモｃな出初い？」",
+    ("「これってрｄ窒ｒ≠ａ高ｍ≠ａｔ奄モｃな出初い？」",
     ""),
     # "Is this the first time that comes with рD nitrogen ≠ a high m ≠ a magnitude?"
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # At that moment, I finally remembered it.†
 
-    ("そういや、＠栖瑞謳先輩との出初いがそんな感じだったって、戟レミィに烽説明したことがあったな。",
+    ("そういや、＠栖瑞謳先輩との出初いがそんな感じだったって、レミィに説明したことがあったな。",
     ""),
     # I once explained to You Remi that it was like that, and that it was like that when he first appeared with @Suisui-san.
 
@@ -178,15 +178,15 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「オレと撃レミィが偶然ぶつかったってんなら、話は別だけど、いまのは墲わざとぶつかってきてねえか？」†",
+    ("「オレと撃レミィが偶然ぶつかったってんなら、話は別だけど、いまのはわざとぶつかってきてねえか？」†",
     ""),
     # "If I'm Gekire and Gekiremi collided with each other by chance, that's a different story, but aren't they just trying to collide with you on purpose?"
 
-    ("「うん…。アタシ、пｄ窒ｒ≠ａ高ｍ≠ａｔ奄ｉモｃしたかったから…」",
+    ("「うん…。アタシ、пｄ窒ｒ≠ａ高ｍ≠ａｔ奄モｃしたかったから…」",
     ""),
     # "Yes... I wanted to do it because пd nitrogen ≠a high m ≠atamimoc..."
 
-    ("「気搴持ちは墲わかるけどな、そういうのはドラマチックじ痰ゃねえんだよ」",
+    ("「気搴持ちはわかるけどな、そういうのはドラマチックじ痰ゃねえんだよ」",
     ""),
     # "I know who you are, but that kind of thing is just a slender phlegm."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "...Do you like Koito?"
 
-    ("しかし、噤答えたらどうなるか烽も正直、気になった。",
+    ("しかし、噤答えたらどうなるかも正直、気になった。",
     ""),
     # However, honestly, I was also curious as to what would happen if I answered it.
 
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # I get strange worries like this.
 
-    ("「誰ので烽もない墲わｃ。",
+    ("「誰のでもないわｃ。",
     ""),
     # "No one can't find a hot spring.
 
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # B I hate sniffing.Relax
 
-    ("Ｃ	どちらで烽もない。閨",
+    ("Ｃ	どちらでもない。閨",
     ""),
     # C: There's no hot water either way.Relax
 

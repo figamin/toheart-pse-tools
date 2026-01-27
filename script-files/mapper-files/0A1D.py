@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("おそるおそる近づいてくる揩理女緒ち痰ゃんに、",
+    ("おそるおそる近づいてくる理女緒ち痰ゃんに、",
     ""),
     # I'm coming closer to you,
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Sniff!"
 
-    ("再び起き繧上がった玄太郎が飛びかかうとする。†",
+    ("再び起き上がった玄太郎が飛びかかうとする。†",
     ""),
     # Gentaro wakes up again and tries to jump on him.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Ah!
 
-    ("驚いて、思いっきりコケ驛る揩理女緒ち痰ゃん。†",
+    ("驚いて、思いっきりコケ驛る理女緒ち痰ゃん。†",
     ""),
     # Surprisingly, she moans to the fullest.†
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Hey!"
 
-    ("オレは玄太郎を押さえつけると、ペタンと路纔上に座闕り桙込んでしまっている揩理女緒ち痰ゃんに片阨手を差し出した。†",
+    ("オレは玄太郎を押さえつけると、ペタンと路纔上に座闕り桙込んでしまっている理女緒ち痰ゃんに片阨手を差し出した。†",
     ""),
     # I held down Gentaro and held out a hand to the slug that was sitting on the street and was shaking its face.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Gentaro shook his tail happily.†
 
-    ("「ほらな？	蛛大人しい烽もんだ？」",
+    ("「ほらな？	蛛大人しいもんだ？」",
     ""),
     # "Look? A quiet hot b?"
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # Once again, lightly slam your head.†
 
-    ("「う、うん…。だけどこのコ、しょっち繧ゅうр私のスカートにかみついてくるから…」",
+    ("「う、うん…。だけどこのコ、しょっちゅうр私のスカートにかみついてくるから…」",
     ""),
     # "Uh, yes... But this girl is always biting my skirt..."
 
-    ("「掾理女緒ち痰ゃん烽もやられてんのか？	ったく、しょーがねーイヌだな」",
+    ("「掾理女緒ち痰ゃんもやられてんのか？	ったく、しょーがねーイヌだな」",
     ""),
     # "Are you being tampered with, is it that you're not a dog?"
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # Gentaro was left in a straightforward manner.†
 
-    ("「とこで揩理女緒ち痰ゃん。さっきオレに逃げとかって言ってたけど…」",
+    ("「とこで理女緒ち痰ゃん。さっきオレに逃げとかって言ってたけど…」",
     ""),
     # "I'm in the middle of b. I said to my hardcore slut b earlier that I'd run away, but..."
 
@@ -174,15 +174,15 @@ text_array = [
     ""),
     # "I thought that girl was bullied and I was so excited that I couldn't help but..."
 
-    ("「へえ、それで浮助けにｗてくれたって墲わけか？	ぷっ…」",
+    ("「へえ、それで浮助けにｗてくれたってわけか？	ぷっ…」",
     ""),
     # "Whoa, that's why you helped me out lol? Puff..."
 
-    ("「で烽も、結局、п私のほうが浮助けられち痰ゃったねっ。えへへっ、カッコ純ワルイっ」",
+    ("「でも、結局、п私のほうが浮助けられち痰ゃったねっ。えへへっ、カッコ純ワルイっ」",
     ""),
     # "And in the end, I was able to help my body out. Hehe, I'm so cool, I'm crying so hard."
 
-    ("「いやぁ、かっこいい烽もなに烽も…」†",
+    ("「いやぁ、かっこいいもなにも…」†",
     ""),
     # "It's so tampering, what's cool hotpot and what's hotpot..."
 
@@ -194,11 +194,11 @@ text_array = [
     ""),
     # "Well, I'll ask you to do that again the next time you're attacked by a dinosaur or something. With that overflowing courage."
 
-    ("「も、もう、からか墲わないでよ〜」",
+    ("「も、もう、からかわないでよ〜」",
     ""),
     # "No, don't let it all fall for you anymore."
 
-    ("「う墲わ、あぶねっ！	とりあえず、棒を振關り回すのはやめようや」†",
+    ("「うわ、あぶねっ！	とりあえず、棒を振關り回すのはやめようや」†",
     ""),
     # "Uh, that's dangerous! For now, I'll stop tampering with the stick."
 
@@ -206,11 +206,11 @@ text_array = [
     ""),
     # "Ah, sorry."
 
-    ("掾理女緒ち痰ゃんは真っ赤になって揩持ってた棒を捨てた。",
+    ("掾理女緒ち痰ゃんは真っ赤になって持ってた棒を捨てた。",
     ""),
     # The girl turned red and threw away the stick she had held.
 
-    ("「こんな棒、どっから揩持ってきたんだ？」",
+    ("「こんな棒、どっから持ってきたんだ？」",
     ""),
     # "Where did you bring this stick from?"
 
@@ -254,19 +254,19 @@ text_array = [
     ""),
     # This cherry tree was an irreplaceable memory for the man.
 
-    ("いまは亡き妻（昌子）は、かつていま墲わの際に『この桜をр私だと思ってくださいまし』と残して、息を引き取ったのだ。†",
+    ("いまは亡き妻（昌子）は、かつていまわの際に『この桜をр私だと思ってくださいまし』と残して、息を引き取ったのだ。†",
     ""),
     # When his late wife (Masako) once died, she left her life saying, "Please consider this cherry blossom as me."†
 
-    ("それからという烽もの、おじいさんのこの桜にかける愛訷情は並々ならぬ烽ものがあった。",
+    ("それからというもの、おじいさんのこの桜にかける愛訷情は並々ならぬものがあった。",
     ""),
     # After that, the old man's love for this cherry blossom was extraordinary.
 
-    ("おじいさんにとって、この桜の木はまさに妻昌子その烽ものであったのだ。†",
+    ("おじいさんにとって、この桜の木はまさに妻昌子そのものであったのだ。†",
     ""),
     # For his grandfather, this cherry tree was truly a hot spring from his wife Masako.†
 
-    ("そ烽もそ烽も、この桜にまつ墲わるエピソードとして…。◯",
+    ("そもそも、この桜にまつわるエピソードとして…。◯",
     ""),
     # Both the hot and hot springs are episodes of glamorous cherry blossoms...◯
 

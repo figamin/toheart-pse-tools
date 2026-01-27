@@ -6,11 +6,11 @@ text_array = [
     ""),
     # (Shiho Scales Event, 1st floor 1) (Choose a selection, a lame banquet <me < blow-out) †
 
-    ("「いまどき、可愛い子ぶって男の気を引こうなんて、時緕代遅れ烽もはなはだしいぜ」",
+    ("「いまどき、可愛い子ぶって男の気を引こうなんて、時緕代遅れもはなはだしいぜ」",
     ""),
     # "Now, it's a shame to try to act like a cute girl and attract men's attention, so it's a bit late."
 
-    ("専蜷門家にで烽もなったつ烽もりで切關り出した。",
+    ("専蜷門家にでもなったつもりで切關り出した。",
     ""),
     # He flew the Senjin family with a hot pot that had become hot.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Shut up, for example?"
 
-    ("「瘁例えば。スカートのすそをススッと揩持ち繧上げて、太股の怩奥が見えそうで見えないあたりをキープ。",
+    ("「瘁例えば。スカートのすそをススッと持ち上げて、太股の怩奥が見えそうで見えないあたりをキープ。",
     ""),
     # "For example, I lifted the hem of my skirt up, keeping the point where I could see the depths of my thighs but couldn't.
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Hey"
 
-    ("すると、志保が擦闔り寄ってきた。",
+    ("すると、志保が擦り寄ってきた。",
     ""),
     # Then Shiho started to come to me.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Shall I show you?"
 
-    ("と、彼濫女はスカートをひらひらさせる。†",
+    ("と、彼女はスカートをひらひらさせる。†",
     ""),
     # The woman fluttered her skirt.†
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # I nodded awkwardly.
 
-    ("…＝普段は意識してないが、こいつ烽も一梭応、浴女の子なんだよな…。",
+    ("…＝普段は意識してないが、こいつも一梭応、女の子なんだよな…。",
     ""),
     # ... = I don't usually think about it, but this guy is also a bathing girl...
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # Shiho pulled my hand and headed to Toy Gekire, ".†
 
-    ("「｢｢って、んな墲わけないでしょ！！	バカ！",
+    ("「｢｢って、んなわけないでしょ！！	バカ！",
     ""),
     # "''What, that's not true, slut!! Idiot!
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # Shiho changed his attitude and pushed me through.
 
-    ("「う墲わっ！」",
+    ("「うわっ！」",
     ""),
     # "Uhhh!"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # ...I was experiencing a lot of sputum.†
 
-    ("「な〜にがチラリズム諠よ！	そんなこと真に受けるバカはこの世にいない墲わよっ！！」",
+    ("「な〜にがチラリズム諠よ！	そんなこと真に受けるバカはこの世にいないわよっ！！」",
     ""),
     # "What is the banquet, the banquet, the rhythm! There's no idiot in this world who takes that seriously!"
 

@@ -2,15 +2,15 @@
 # Source file: 048C.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階１）閨（３／３固定）閨（廊下２）†",
+    ("（志保	回秤数イベント	１階１）閨（３／３固定）閨（廊下２）",
     ""),
-    # (Shiho Scales Event 1st floor 1) (3/3rd fixed) (Corridor 2)†
+    # (Shiho Scales Event 1st floor 1) (3/3rd fixed) (Corridor 2)
 
     ("廊下で志保に出初った。",
     ""),
     # I first came to Shiho in the hallway.
 
-    ("彼濫女はオレの顔を見骭ると、",
+    ("彼女はオレの顔を見骭ると、",
     ""),
     # The girl looked at my face,
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # I heard it in an unnatural tone of good fortune, as if he had taken a scorn on O-sama.
 
-    ("「なにが君だ。気味の悪い声を出すな」†",
+    ("「なにが君だ。気味の悪い声を出すな」",
     ""),
-    # "What are you? Don't make a creepy voice."†
+    # "What are you? Don't make a creepy voice."
 
-    ("「やっぱ、轣らしくない墲わねぇ」",
+    ("「やっぱ、轣らしくないわねぇ」",
     ""),
     # "After all, it's not like a stove."
 
-    ("そう言って、志保はぺっと繧舌を出した。",
+    ("そう言って、志保はぺっと舌を出した。",
     ""),
     # With that in mind, Shiho thrusts out her tongue.
 

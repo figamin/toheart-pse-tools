@@ -22,11 +22,11 @@ text_array = [
     ""),
     # "yes"
 
-    ("ふたりはセリオからグ鴻ローブを受け取闔り、閨手にはめた。†",
+    ("ふたりはセリオからグ鴻ローブを受け取り、閨手にはめた。†",
     ""),
     # The two received the Ghoon robe from Segata Rio and put it in their hand.†
 
-    ("「こうして勝縁負するの烽も、今厓日で３回目ね」",
+    ("「こうして勝縁負するのも、今厓日で３回目ね」",
     ""),
     # "This is the third time I've ever won a victory like this."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I'm relieved. It's the end of the day now."
 
-    ("「そう簡単にいくかしらね？	そそр私の強さが墲わかってきたんじ痰ゃない？」†",
+    ("「そう簡単にいくかしらね？	そそр私の強さがわかってきたんじ痰ゃない？」†",
     ""),
     # "I wonder if it'll go that easy, right? I'm starting to understand how strong I am, so don't I have any phlegm?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "If I beat you, I'll be able to get up to the level of fire at once."
 
-    ("「戟レベルアップって、なんの？」",
+    ("「レベルアップって、なんの？」",
     ""),
     # "What is it like to cry up?"
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "?"†
 
-    ("「ま、前回、前々回は、ちょっと無謀すぎたからな。今厓日は慎重にいかせて烽もらうぜ」",
+    ("「ま、前回、前々回は、ちょっと無謀すぎたからな。今厓日は慎重にいかせてもらうぜ」",
     ""),
     # "Well, last time and the two previous episodes, it was too reckless. I'll be careful and get some hot springs now."
 
-    ("「梶相闡手をよく見骭るのは大切だけど、消極的になるのは良くない墲わよ」",
+    ("「梶相闡手をよく見骭るのは大切だけど、消極的になるのは良くないわよ」",
     ""),
     # "It's important to look closely at Kaji Sengoku, but being reluctant is not good."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Ogere said, slamming his hands on the Ghoon robe.†
 
-    ("「じ痰ゃあ、いい墲わよ。セリオ、お願い」",
+    ("「じ痰ゃあ、いいわよ。セリオ、お願い」",
     ""),
     # "Ah, phlegm, that's good. Seragata Rio, please."
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # Judgment Segata Rio makes a comeback.
 
-    ("「戟レディ｢｢」",
+    ("「レディ｢｢」",
     ""),
     # "The Witch Lady"
 
-    ("ふたりは同椏時に揩拳を構えた。",
+    ("ふたりは同椏時に拳を構えた。",
     ""),
     # The two of them raised their fist while simultaneously meeting.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "You practiced fortune with a smug hug.
 
-    ("上達してる墲わ」",
+    ("上達してるわ」",
     ""),
     # I'm getting better."
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # It fired a flash of light on the left.
 
-    ("辛うじて腕でブ鴻ロックした烽ものの、衝ｏ撃で繧後撃へ押されてしまう。†",
+    ("辛うじて腕でブ鴻ロックしたものの、衝ｏ撃で後撃へ押されてしまう。†",
     ""),
     # Although he barely locked his arm around, he was pushed by a shock after being hit.†
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「じ痰ゃ、行く墲わよ」†",
+    ("「じ痰ゃ、行くわよ」†",
     ""),
     # "You'll go, phlegm."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # It bends like a whip, yet has a heavy stimulus.
 
-    ("浴女のパンチかよ、これが。†",
+    ("女のパンチかよ、これが。†",
     ""),
     # Is this a bather's punch?†
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # As expected, it's just a defensive stone to be honest.
 
-    ("こっちから烽も手を出さないと。†",
+    ("こっちからも手を出さないと。†",
     ""),
     # I have to start using Hot from here too.†
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # A: Use your left hand to palat outwards and hit it on the right!Relax
 
-    ("Ｂ	右濶手で烽内側にパリーし、左で打つ！閨",
+    ("Ｂ	右濶手で内側にパリーし、左で打つ！閨",
     ""),
     # B He uses his right hand to palatte inside the hot spring and hits on the left!Relax
 

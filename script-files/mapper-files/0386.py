@@ -10,7 +10,7 @@ text_array = [
     ""),
     # =Squirrel eyes through glasses and prickly hair.
 
-    ("そういえば、前に烽も見かけたことがあるぞ。",
+    ("そういえば、前にも見かけたことがあるぞ。",
     ""),
     # Come to think of it, I've also seen some hotpots before.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Kick.
 
-    ("浴女の子は厳しい目つきでオレをにらんだ。",
+    ("女の子は厳しい目つきでオレをにらんだ。",
     ""),
     # The bathing girl glared at me with a stern gaze.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Uh..."
 
-    ("突き刺さる汲視諮とは、まさにこのことだ。†",
+    ("突き刺さる視諮とは、まさにこのことだ。†",
     ""),
     # This is exactly what the thrusts into the counsellor consulting is.†
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "I had no intentionally slurping it down. That's bad."
 
-    ("苦しい笑迴顔で言ったとき、",
+    ("苦しい笑顔で言ったとき、",
     ""),
     # When I said with a bitter smile,
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Please keep me waiting."
 
-    ("諱ようやくｉ史が現鼬れた。†",
+    ("諱ようやく史が現鼬れた。†",
     ""),
     # I've been making a history of my own name.†
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Oh, it's late."
 
-    ("「ごめん、ひ烽もがほどけなくて」",
+    ("「ごめん、ひもがほどけなくて」",
     ""),
     # "Sorry, my hot springs can't unravel."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "What??"
 
-    ("わけ烽も墲わからず苦笑するｉ史。†",
+    ("わけもわからず苦笑する史。†",
     ""),
     # I-Shin smiles wryly, not knowing the reason why.†
 
@@ -118,11 +118,11 @@ text_array = [
     ""),
     # When I looked around, ".†
 
-    ("彼濫女はちょうど校蜊門をくぐって、学校の外へと出て行くとこだった。",
+    ("彼女はちょうど校門をくぐって、学校の外へと出て行くとこだった。",
     ""),
     # The woman passed through the school gates and went outside the school.
 
-    ("振關りｌき烽もせず、行ってしまう。†",
+    ("振關りｌきもせず、行ってしまう。†",
     ""),
     # I didn't even take a look and went.†
 
@@ -134,7 +134,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("それにして烽も、素っ気のない子だな。",
+    ("それにしても、素っ気のない子だな。",
     ""),
     # And Ho is also a curt-minded girl.
 

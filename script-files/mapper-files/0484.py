@@ -2,23 +2,23 @@
 # Source file: 0484.txt
 
 text_array = [
-    ("（志保	回秤数イベント	２階１）閨（選択綜	ふ〜ん）†",
+    ("（志保	回秤数イベント	２階１）閨（選択綜	ふ〜ん）",
     ""),
-    # (Shiho Scales Event, 2nd Floor 1) (Selection Sou Hmm)†
+    # (Shiho Scales Event, 2nd Floor 1) (Selection Sou Hmm)
 
     ("「ふ〜ん」",
     ""),
     # "Hmm."
 
-    ("とくに驚く墲わけで烽もなく、自然に出た言葉だった。†",
+    ("とくに驚くわけでもなく、自然に出た言葉だった。",
     ""),
-    # It was a particularly surprising word, and it was a natural phrase that was not very hot.†
+    # It was a particularly surprising word, and it was a natural phrase that was not very hot.
 
     ("「なんなのよ！	そのつまんない鰍リアクションは！」",
     ""),
     # "What is it? That boring choriacciが!"
 
-    ("「なにって言甯われて烽もな、戟レミィが英皷語の成績抜群だなんて、＝普通じ痰ゃん」",
+    ("「なにって言甯われてもな、レミィが英皷語の成績抜群だなんて、＝普通じ痰ゃん」",
     ""),
     # "What are you saying, even though you're not even saying that, you can't help but think that Haremi has excellent English language scores, so it's just normal, sputum."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Ordinary... it's the final exam for the grade. Getting 100 points is really phlegm!"
 
-    ("「で烽もなぁ…」†",
+    ("「でもなぁ…」",
     ""),
     # "And I don't have a hot spring..."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Shiho took a deep breath and took a deep breath,
 
-    ("「きょうび、冝日本人で烽も曹国鼾語で１００点謫取齊れないのに、ハーフの子が英皷語で１００点なのよ？	すごいじ痰ゃないの！」",
+    ("「きょうび、冝日本人でも曹国鼾語で１００点謫取齊れないのに、ハーフの子が英皷語で１００点なのよ？	すごいじ痰ゃないの！」",
     ""),
     # "The Japanese are Japanese, and even the Chinese can't score 100 points in Cao Guang, but the half-Japanese child scores 100 points in English language, right? You can't get a lot of phlegm!"
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # "Testing in Japan is easy if you look at it from the gnawing field."
 
-    ("オレにはどう烽も納得できない。†",
+    ("オレにはどうも納得できない。",
     ""),
-    # I can't believe it even if I'm a keen player.†
+    # I can't believe it even if I'm a keen player.
 
-    ("「ん烽もう！	聞き墲わけのない子ねぇ！",
+    ("「んもう！	聞きわけのない子ねぇ！",
     ""),
     # "Now! You can't hear me!
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # As he was sniffing, Shiho finally woke up.
 
-    ("「んなこと言甯われて烽もな」",
+    ("「んなこと言甯われてもな」",
     ""),
     # "That's what you're saying, and it's no use."
 
-    ("「一生言ってなさいっ！」†",
+    ("「一生言ってなさいっ！」",
     ""),
     # "Tell me forever!"
 
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "What are you talking about, he..."
 
-    ("とか言ってると、う墲わさの張本人がやってきた。†",
+    ("とか言ってると、うわさの張本人がやってきた。",
     ""),
-    # As I said that, the person who was involved in the Umawasa started tampering with me.†
+    # As I said that, the person who was involved in the Umawasa started tampering with me.
 
-    ("「なあ、戟レミィ」",
+    ("「なあ、レミィ」",
     ""),
     # "Hey, huh Remie."
 
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # "You're English-Japanese and Gubanquet Lamar, 100 points."
 
-    ("「Ａ窒ｒ	凵ｙ盾ｏ浮ｕ	入窒ｒ奄ｉ盾ｏ浮ｕ入？	轣冗談でしょ？」",
+    ("「Ａ窒ｒ	凵ｙ盾ｏ浮ｕ	入窒ｒ奄盾ｏ浮ｕ入？	轣冗談でしょ？」",
     ""),
     # "A nitrogen shield o floats into the b nitrogen shield o floats into the b nitrogen shield o floats into the bang? Is it a joke, slut?"
 
-    ("戟レミィは小首をかしげた。",
+    ("レミィは小首をかしげた。",
     ""),
     # Karemy managed to shake her head.
 
-    ("「なんでだよ？」†",
+    ("「なんでだよ？」",
     ""),
     # "Why?"
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("どうやらまたして烽も志保ち痰ゃん薰情報はガセ辜らしい。",
+    ("どうやらまたしても志保ち痰ゃん薰情報はガセ辜らしい。",
     ""),
     # It seems that the information is fake and fake, even though it's tampered with, and it seems that the information is fake.
 
@@ -122,11 +122,11 @@ text_array = [
     ""),
     # ...That's a hoax girl.
 
-    ("「、アタシ、１００点なの？」†",
+    ("「、アタシ、１００点なの？」",
     ""),
     # "Is it 100 points?"
 
-    ("「いや、わりぃ。それはこっちの勘瘧違いだった」",
+    ("「いや、わりぃ。それはこっちの勘違いだった」",
     ""),
     # "It's a mess, it's a shame. That was a different instinct."
 

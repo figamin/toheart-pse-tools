@@ -2,25 +2,25 @@
 # Source file: 0294.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	行く）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	行く）",
     ""),
-    # (Seri° Kaku, Scales Event 2F LV3)Seri (Select So A Go)†
+    # (Seri° Kaku, Scales Event 2F LV3)Seri (Select So A Go)
 
     ("「諱よし。行く」",
     ""),
     # "I'm fine. I'm off."
 
-    ("オレはうなずいて嘯答えた。†",
+    ("オレはうなずいて嘯答えた。",
     ""),
-    # I nodded and replied.†
+    # I nodded and replied.
 
-    ("学校という場鰹所には、＊淫俣咊ﾊっているに烽もかか墲わらず、潤縁のない場鰹所ってのがある。",
+    ("学校という場鰹所には、＊淫俣咊ﾊっているにもかかわらず、潤縁のない場鰹所ってのがある。",
     ""),
     # At the bonito spot called a school, there is a bonito spot that is not rich in water, even though it is innocent, and there is no heat.
 
-    ("この盾棟…文化秤部クラブハウス前は、オレにとってのそれだった。†",
+    ("この盾棟…文化秤部クラブハウス前は、オレにとってのそれだった。",
     ""),
-    # This shield building... before the Cultural Scaling Club Kuban Love House, it was something I did for me.†
+    # This shield building... before the Cultural Scaling Club Kuban Love House, it was something I did for me.
 
     ("ずらりと並んだクラブの看板。",
     ""),
@@ -30,45 +30,45 @@ text_array = [
     ""),
     # Photography Kashiwabe, Li-Keki Hakube, Hemi Theater Hakube, Manga Ken Yue, Eiji Gaken Yue, and Railway Ken Yue...
 
-    ("＝普段は静かな廊下なのに、いまは笑い声竦や軽音楽など烽も聞こえてきて、妙にｊ気づいている。",
+    ("＝普段は静かな廊下なのに、いまは笑い声竦や軽音楽なども聞こえてきて、妙にｊ気づいている。",
     ""),
     # =Although it is usually a quiet hallway, I can now hear laughter and light music, and I'm oddly realizing it.
 
-    ("さて、諱先輩の属するオカルト研結級とは、いったいどんなとこなのか。†",
+    ("さて、諱先輩の属するオカルト研結級とは、いったいどんなとこなのか。",
     ""),
-    # Now, what exactly is the Okaryu Ruto Kenyuryu, which is where my senior is?†
+    # Now, what exactly is the Okaryu Ruto Kenyuryu, which is where my senior is?
 
     ("「ここ？」",
     ""),
     # "here?"
 
-    ("長い髪を墲わずかに揺逞らし、諱先輩はこくっとうなずいた。",
+    ("長い髪をわずかに揺逞らし、諱先輩はこくっとうなずいた。",
     ""),
     # His long hair was slightly shaking, and his senior nodded.
 
-    ("さっぱりとした烽扉にプラスチックの表札で『オカルト研結級』と曹書かれている。†",
+    ("さっぱりとした扉にプラスチックの表札で『オカルト研結級』と曹書かれている。",
     ""),
-    # The refreshing hot door is a banquet nameplate with a "Oka-Crying Ruto Kenyu" written on the Cao.†
+    # The refreshing hot door is a banquet nameplate with a "Oka-Crying Ruto Kenyu" written on the Cao.
 
     ("なんだ、外面は意外にフツーじ痰ゃん。",
     ""),
     # What's that? The outside is surprisingly normal.
 
-    ("オカルト研結級というからには、いかに烽もあやしげなダークなイ＜メージを想恆像していたのだが…。",
+    ("オカルト研結級というからには、いかにもあやしげなダークなイ＜メージを想恆像していたのだが…。",
     ""),
     # Since it was a class of Okaryu Ruto Ken, it was a dark image that seemed to be a bit swaying...
 
-    ("いや、肝心なのは烽内側だよな。",
+    ("いや、肝心なのは内側だよな。",
     ""),
     # It's a shame, and the important thing is the inside of the hot spring.
 
-    ("その閉ざされた神髏秘の烽扉が、いま開く。",
+    ("その閉ざされた神髏秘の扉が、いま開く。",
     ""),
     # The closed, secret, hot door now opens.
 
-    ("興味津々、冝期待熨も高まってきた。†",
+    ("興味津々、冝期待熨も高まってきた。",
     ""),
-    # I was very curious and anticipated, so my hopes for this item have increased.†
+    # I was very curious and anticipated, so my hopes for this item have increased.
 
     ("かち痰ゃん…と鍵を回し、扉を開ける先輩。",
     ""),
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # The club room was pitch black.
 
-    ("窓は暗笈幕で覆﨑われていて、扉を閉めると、廊下側からの墲わずかな光しか射し桙込まないようになっていた。",
+    ("窓は暗笈幕で覆﨑われていて、扉を閉めると、廊下側からのわずかな光しか射し桙込まないようになっていた。",
     ""),
     # The windows were covered with dark curtains, and when the door was closed, only a slight light from the hallway was shining in.
 
@@ -118,19 +118,19 @@ text_array = [
     ""),
     # When I said that, my senior replied, "The atmosphere is important."
 
-    ("「あ、そう」†",
+    ("「あ、そう」",
     ""),
-    # "Ah, yes" †
+    # "Ah, yes" 
 
     ("諱よく見骭ると、部屋のｒ身は気㈲合いの入ったオカルトぶりだった。",
     ""),
     # When I looked closely, I saw that the ramblings in the room looked like a gay crying full of energy.
 
-    ("部屋のそこかしこに並べられたあやしげな品の数々。†",
+    ("部屋のそこかしこに並べられたあやしげな品の数々。",
     ""),
-    # A variety of silly and silly items lined up all over the room.†
+    # A variety of silly and silly items lined up all over the room.
 
-    ("机の繧上にはｌъ符、お守闔り、≠うそく立て、壁にはあやしげな張闥りｎが、本棚には分喆厚い曹書物がぎっしりと…。",
+    ("机の上にはｌъ符、お守り、≠うそく立て、壁にはあやしげな張闥りｎが、本棚には分厚い曹書物がぎっしりと…。",
     ""),
     # On the desk, there are lъ marks, amulets, lie on the wall, a wall with a slurred slurred slurred slurred slurred slurred slurred slurred books, and the bookshelf is packed with thick, divided slurred books...
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # There is also a hand-posted puppet hana that is a mysterious and sung by hand.
 
-    ("釘を打ったような跡こそないが、それで烽も十分あやしい感じがした。",
+    ("釘を打ったような跡こそないが、それでも十分あやしい感じがした。",
     ""),
     # There were no signs of nails being pounded, but the hot water felt quite tampered with.
 
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # Ah.
 
-    ("こり痰ゃ、ちょっとしたオカルト祉博物館だ。†",
+    ("こり痰ゃ、ちょっとしたオカルト祉博物館だ。",
     ""),
-    # It's the Oka-Crying Welfare Museum, which is so sad that it's a bit of a pain.†
+    # It's the Oka-Crying Welfare Museum, which is so sad that it's a bit of a pain.
 
     ("そしてなにより驚いたのは…。",
     ""),
@@ -158,11 +158,11 @@ text_array = [
     ""),
     # Working hard...
 
-    ("「う墲わ、これ、金属の魔法陣…？」",
+    ("「うわ、これ、金属の魔法陣…？」",
     ""),
     # "Um, this is a metal b-magic circle...?"
 
-    ("足熨もとには烽金属の板でｍ迯られた大きな魔法陣があった。",
+    ("足熨もとには金属の板でｍ迯られた大きな魔法陣があった。",
     ""),
     # The foot noshi had a large B-magic circle with a hot metal plate.
 
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # "Huh? The Demon's Cyrk is crying?"
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("「この円が魔恂除けのサークルで、この三角形が召喚のサークルだって？」",
     ""),
@@ -186,13 +186,13 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「うひ痰ゃ〜、こり痰ゃ濃い墲わ…」",
+    ("「うひ痰ゃ〜、こり痰ゃ濃いわ…」",
     ""),
     # "Hey, phlegm, stiff phlegm is thick..."
 
-    ("思寬わずつぶやくオレ。†",
+    ("思寬わずつぶやくオレ。",
     ""),
-    # I started to squeal and squeal.†
+    # I started to squeal and squeal.
 
     ("「は〜〜〜〜……」",
     ""),
@@ -202,27 +202,27 @@ text_array = [
     ""),
     # As I let out a breath of admiration, I slowly looked around the room.
 
-    ("「う墲わっ！」",
+    ("「うわっ！」",
     ""),
     # "Uhhh!"
 
-    ("≠うそくに照迴らされた先輩を見てびっくりしてしまった。†",
+    ("≠うそくに照らされた先輩を見てびっくりしてしまった。",
     ""),
-    # I was surprised to see my senior being lying around.†
+    # I was surprised to see my senior being lying around.
 
     ("「び、びっくりした。驚かさないでくれよ、諱先輩。えっ？	п私燻もびっくりしましたって？	ごめん、ごめん」",
     ""),
     # "I was surprised. Don't be surprised, Senpai. What? пI was surprised by the smoked smoke too? Sorry, sorry."
 
-    ("…の墲わりには、全然びっくりしたふうには見えないよな。†",
+    ("…のわりには、全然びっくりしたふうには見えないよな。",
     ""),
-    # Despite the fact that... it doesn't look like he's surprised at all.†
+    # Despite the fact that... it doesn't look like he's surprised at all.
 
-    ("それにして烽も…。",
+    ("それにしても…。",
     ""),
     # And then there's also hot spring...
 
-    ("淡い高ロウソクの鰍炎に照迴らされ、ぼんやりとたたずむ先輩。",
+    ("淡い高ロウソクの鰍炎に照らされ、ぼんやりとたたずむ先輩。",
     ""),
     # Senpai dazzles and thrashes from the pale, high candle flames, and he thrashs out.
 
@@ -230,11 +230,11 @@ text_array = [
     ""),
     # It feels like a secret thing.
 
-    ("部屋の雰囲気のせいで烽もあるんだうけど。†",
+    ("部屋の雰囲気のせいでもあるんだうけど。",
     ""),
-    # There's a lot of hot water due to the atmosphere of the room.†
+    # There's a lot of hot water due to the atmosphere of the room.
 
-    ("「で烽も先輩、すごいよな。これ全泊部、諱先輩が集めたのか？」",
+    ("「でも先輩、すごいよな。これ全泊部、諱先輩が集めたのか？」",
     ""),
     # "And you're also Senior, that's amazing. Was this collected by all the Atari Club and Senior Isaac?"
 
@@ -242,19 +242,19 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え、他の部員の人たち烽も協力してるって？	あ、そうか。ここの部員は先輩だけじ痰ゃないんだっけ」",
+    ("「え、他の部員の人たちも協力してるって？	あ、そうか。ここの部員は先輩だけじ痰ゃないんだっけ」",
     ""),
     # "What, the other members of the club are also working together? Ah, I see. The members here are the only ones who don't have any phlegms."
 
-    ("こくり。†",
+    ("こくり。",
     ""),
-    # A little bit.†
+    # A little bit.
 
     ("「ふ〜ん…」",
     ""),
     # "Hmm..."
 
-    ("オレは烽もう一度箔部屋薗を見渡した。",
+    ("オレはもう一度箔部屋薗を見渡した。",
     ""),
     # My gei-re looked around Hakurei Sanzono again.
 

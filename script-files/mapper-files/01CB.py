@@ -2,9 +2,9 @@
 # Source file: 01CB.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	帰闍り道）閨（選択綜Ｃ	秩白い小人たち）†",
+    ("（あかり	回秤数イベント	帰闍り道）閨（選択綜Ｃ	秩白い小人たち）",
     ""),
-    # (Akari Scales Event Returning Road) (Choice C: The White Dwarfs)†
+    # (Akari Scales Event Returning Road) (Choice C: The White Dwarfs)
 
     ("「あれだ、秩白いやつ」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Yes, this is a classic sweet with a 98% tampering rate in Hokkaido."
 
-    ("「へえ？」†",
+    ("「へえ？」",
     ""),
-    # "Huh?" †
+    # "Huh?" 
 
     ("「まあ、要はホ純ワイトチョコレートがのったクッキーなんだけどさ」",
     ""),
@@ -30,11 +30,11 @@ text_array = [
     ""),
     # "Ah, I've eaten that before."
 
-    ("「だ？	閨定番白の定番なんだよ。ハ純ワイでいうとこのマカデミアンナッツチョコみたいな烽もんだ」†",
+    ("「だ？	閨定番白の定番なんだよ。ハ純ワイでいうとこのマカデミアンナッツチョコみたいなもんだ」",
     ""),
     # "B? It's a classic white standard. In Ha-Pure Wai, it's a hot pot like this macadamian nut chiccup."
 
-    ("「で烽も、ありきたりじ痰ゃつまんないよ」",
+    ("「でも、ありきたりじ痰ゃつまんないよ」",
     ""),
     # "And even hot springs are boring with the usual phlegm."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I hate being a regular item."
 
-    ("「…言うと思った」†",
+    ("「…言うと思った」",
     ""),
     # "I thought I would say it"
 

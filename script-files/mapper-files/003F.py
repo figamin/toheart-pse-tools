@@ -18,17 +18,17 @@ text_array = [
     ""),
     # It's just tampering, but that's all.
 
-    ("べつに誰と出初うこと烽もなかった。†",
+    ("べつに誰と出初うこともなかった。",
     ""),
-    # I never had any chance to come out with anyone.†
+    # I never had any chance to come out with anyone.
 
     ("１階の廊下にｗた。",
     ""),
     # I went to the hallway on the first floor.
 
-    ("パラパラと生徒たちの姿がある。†",
+    ("パラパラと生徒たちの姿がある。",
     ""),
-    # There are banquets and students.†
+    # There are banquets and students.
 
     ("階段の下には、生徒悼の御意見箱が設置されている。",
     ""),
@@ -38,35 +38,35 @@ text_array = [
     ""),
     # One thing I would like to ask for valuable opinions from ordinary students.
 
-    ("購ロ買粕部のパンの墲種類を揩増竭やせ…と。†",
+    ("購ロ買粕部のパンの種類を増竭やせ…と。",
     ""),
-    # I want to increase the variety of bread from the purchasing lees.†
+    # I want to increase the variety of bread from the purchasing lees.
 
     ("＊淫俣桒棟肛盾濶ｺ濶りしてる坂道。",
     ""),
     # *The Tamami slope is smashing through the anus.
 
-    ("ちっとは足総倨高烽ｫたえられてるかな？",
+    ("ちっとは足総倨高ｫたえられてるかな？",
     ""),
     # I wonder if my feet are being given high heat at all?
 
-    ("下濶りはスケボーで、ガーッと駆け抜けるの烽も気搴持ちよさそうだ。†",
+    ("下濶りはスケボーで、ガーッと駆け抜けるのも気搴持ちよさそうだ。",
     ""),
-    # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.†
+    # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.
 
     ("明纐後卲日はグラマーと化学。",
     ""),
     # After the day of the year, there was a gland and chemistry.
 
-    ("やっぱ、戟レミィは母装国鼾語だけに、グラマー楽汪勝なんだうな。",
+    ("やっぱ、レミィは母装国鼾語だけに、グラマー楽汪勝なんだうな。",
     ""),
     # After all, since the mother-made Korean language, Gubanquet Lama is a ghost wangsheng.
 
-    ("体熨もグラマーだしな…って、う墲わっ、寒ぅ。",
+    ("体熨もグラマーだしな…って、うわっ、寒ぅ。",
     ""),
     # The body gift is also a banquet lamar... I'm waaaa, it's cold.
 
-    ("勉強は冾日曜坥日にやるってことで、諱取闔りあえず今厓日はぐっすり休煖もう。◯",
+    ("勉強は冾日曜坥日にやるってことで、諱取りあえず今厓日はぐっすり休もう。◯",
     ""),
     # Since studying is a little Sunday, I'll be doing it on Sunday, so I'll be able to get some good sleep on the day I'm off.◯
 

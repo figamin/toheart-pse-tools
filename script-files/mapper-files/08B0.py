@@ -2,11 +2,11 @@
 # Source file: 08B0.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	１階３	ＬＶ２）閨（下駄箱）†",
+    ("（レミィ	回秤数イベント	１階３	ＬＶ２）閨（下駄箱）",
     ""),
-    # (Game Remy Scale Event 1st Floor 3 LV2) (Shoe cabinet)†
+    # (Game Remy Scale Event 1st Floor 3 LV2) (Shoe cabinet)
 
-    ("下駄箱にｌかっていると、戟レミィの繧後姿を見つけた。",
+    ("下駄箱にｌかっていると、レミィの後姿を見つけた。",
     ""),
     # While I was hanging in the shoe cabinet, I found a back view of Kake Remie.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("もいっしょに帰汲」†",
+    ("もいっしょに帰」",
     ""),
     # I'll return to the essays"
 

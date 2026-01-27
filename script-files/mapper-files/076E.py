@@ -10,7 +10,7 @@ text_array = [
     ""),
     # lunch break.
 
-    ("オレは大きく遅れ気味のｉ史を急かしつつ、廊下を魔走っていた。†",
+    ("オレは大きく遅れ気味の史を急かしつつ、廊下を魔走っていた。†",
     ""),
     # My guts rushed through the hallway, rushing through the I-History, which seemed to be a bit late.†
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # After the scene was smashed, I saw Kotone Chisho-chan.
 
-    ("急いでいるに烽もかか墲わらず、オレは思寬わず声をかけてしまう。",
+    ("急いでいるにもかかわらず、オレは思寬わず声をかけてしまう。",
     ""),
     # Although I was in a hurry, I couldn't help but cry out, and I didn't think about it.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Ah, sir..."
 
-    ("「琴音ち痰ゃん烽も購ロ買粕部か？」",
+    ("「琴音ち痰ゃんも購ロ買粕部か？」",
     ""),
     # "Is Kotone Chishonan also the Shonen Kasubu?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "...No, I thought I'd go to the cafeteria."
 
-    ("「なんだ。琴音ち痰ゃんって、いつ烽も学食派？」",
+    ("「なんだ。琴音ち痰ゃんって、いつも学食派？」",
     ""),
     # "What? Kotone Chisho-yan, when do you prefer to eat at school?"
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "...No, no...I overslept this morning and couldn't sniff out the lunch box..."†
 
-    ("「え？	じ痰ゃあ、いつ烽もは自分で弁抹当桃ってんの？」",
+    ("「え？	じ痰ゃあ、いつもは自分で弁抹当桃ってんの？」",
     ""),
     # "Huh? That's all, when are you making a peach with a bento-shaped peach yourself?"
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "I was so sad, I was forgetting."
 
-    ("ほんの墲わずかな桙時間の高ロスだが、この微妙な桙時間が長蛇の列をｍ骰るのだ。",
+    ("ほんのわずかな桙時間の高ロスだが、この微妙な桙時間が長蛇の列をｍ骰るのだ。",
     ""),
     # It's a very small loss of time, but this subtle time thrusts through a long line.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # No phlegm, I'm not going to tamper with bread on the day.
 
-    ("「♂史、今厓日は学食にすっか」",
+    ("「雅史、今厓日は学食にすっか」",
     ""),
     # "Masturbation, I'll be in the school cafeteria now."
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Yes..."
 
-    ("彼濫女はちょっと恥ずかしそうにうなずいた。",
+    ("彼女はちょっと恥ずかしそうにうなずいた。",
     ""),
     # The overly woman nodded in embarrassment.
 
@@ -182,11 +182,11 @@ text_array = [
     ""),
     # I kept the spot early.
 
-    ("真んｒがオレで左隣がｉ史、琴音ち痰ゃんは右隣に座った。†",
+    ("真んｒがオレで左隣が史、琴音ち痰ゃんは右隣に座った。†",
     ""),
     # The middle r was me, and the left was next to I-Shin, and Kotone Chisho-chan sat next to my right.†
 
-    ("オレとｉ史はお約束のＡ奄ランチだが、琴音ち痰ゃんはうどん一つだけだ。",
+    ("オレと史はお約束のＡ奄ランチだが、琴音ち痰ゃんはうどん一つだけだ。",
     ""),
     # My geisha and I have a promised A Amana lunch, but Kotone Chisho-chan only has one udon noodles.
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Whoa..."
 
-    ("みょうに感心していると『浴女の子だ烽もん、そのくらいだよ』なんてｉ史が言う。",
+    ("みょうに感心していると『女の子だもん、そのくらいだよ』なんて史が言う。",
     ""),
     # When I was impressed by the essay, Ishi says, "That's about the extent of the bathing girl."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # Well, it's true that Kotone's sphin is a little less common.†
 
-    ("「しっかし、オレにはちょっと揩理解できない世界だよな」",
+    ("「しっかし、オレにはちょっと理解できない世界だよな」",
     ""),
     # "But, it's a world that I can't understand, even if it's a real fanatic."
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "After all, = I guess I'll lose my stomach sooner?"
 
-    ("琴音ち痰ゃんと話しがしたくて、♂話を引き伸ばそうとする。†",
+    ("琴音ち痰ゃんと話しがしたくて、雅話を引き伸ばそうとする。†",
     ""),
     # I want to talk to Kotone Chisho-chan, so I try to stretch the male story.†
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "...I don't know.
 
-    ("わたし、食べたい量だけいつ烽も食べてますから…」",
+    ("わたし、食べたい量だけいつも食べてますから…」",
     ""),
     # I always eat as much steam as I want to eat..."
 
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("こんな感じで、琴音ち痰ゃんとｉ話したいがために、その冾日は汲昼£メシそっちのけでし痰ゃべりまくってしまった。",
+    ("こんな感じで、琴音ち痰ゃんと話したいがために、その冾日は昼メシそっちのけでし痰ゃべりまくってしまった。",
     ""),
     # In this way, I wanted to talk to Kotone's Chou-chan, so on the day I ended up eating lunch and smashing it all over.
 
@@ -270,11 +270,11 @@ text_array = [
     ""),
     # Thanks to this, I have almost used up my spare time even though I finished eating.
 
-    ("♂史には悪いことしちまったな。",
+    ("雅史には悪いことしちまったな。",
     ""),
     # Masochist has done something bad to him.
 
-    ("けれど、琴音ち痰ゃんとたっぷりｉ話できたからオールオッケーってとこか。◯",
+    ("けれど、琴音ち痰ゃんとたっぷり話できたからオールオッケーってとこか。◯",
     ""),
     # However, I was able to talk a lot with Kotone Chisho-chan, so I guess it's all OK.◯
 

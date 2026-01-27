@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Goodbye"
 
-    ("ぺこりと頭を下げた琴音ち痰ゃんに、オレは右濶手を繧上げてこたえた。◯",
+    ("ぺこりと頭を下げた琴音ち痰ゃんに、オレは右濶手を上げてこたえた。◯",
     ""),
     # Kotone's head bowed, and my head raised my right hand to respond.◯
 

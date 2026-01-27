@@ -18,7 +18,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「で烽も気搴持ちは嬉しいからさ。また今度椏時間があったら鰍頼むよ」",
+    ("「でも気搴持ちは嬉しいからさ。また今度椏時間があったら鰍頼むよ」",
     ""),
     # "And I'm happy that Hot is also very happy. I'll ask for the chrysanthemum next time if I have time."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # A little bit.
 
-    ("うなずいた先輩に笑迴顔で手を振って、オレは廊下の先を進んだ。◯",
+    ("うなずいた先輩に笑顔で手を振って、オレは廊下の先を進んだ。◯",
     ""),
     # I nodded my head and waved my hand with a smile, and my guts went down the hallway.◯
 

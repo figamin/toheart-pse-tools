@@ -2,7 +2,7 @@
 # Source file: 0F56.txt
 
 text_array = [
-    ("（４獅月２６冾日	土）閨（堰ラジオ	８回目）閨（堰ラジオ聞いた場㍼合）†",
+    ("（４月２６冾日	土）閨（堰ラジオ	８回目）閨（堰ラジオ聞いた場㍼合）†",
     ""),
     # (Saturday, April 26th) (8th weir radio) (1st time) (1st time) (1st time) (1st time) (1st time when I heard the weir radio))†
 

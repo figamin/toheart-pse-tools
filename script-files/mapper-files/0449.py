@@ -2,25 +2,25 @@
 # Source file: 0449.txt
 
 text_array = [
-    ("（志保	好感度イベント５）閨（冝放課繪後）閨（ゲーセン前）†",
+    ("（志保	好感度イベント５）閨（冝放課繪後）閨（ゲーセン前）",
     ""),
-    # (Shiho Likeability Event 5) Lee (After the school entrance) Lee (in front of the arcade) †
+    # (Shiho Likeability Event 5) Lee (After the school entrance) Lee (in front of the arcade) 
 
     ("オレは寄闃り道してゲーセンにやってきた。",
     ""),
     # I came over and came to the arcade.
 
-    ("£に入うと自動ドアの前に立った瞬間、それは起こった。†",
+    ("に入うと自動ドアの前に立った瞬間、それは起こった。",
     ""),
     # The moment I stood in front of the automatic doors to enter the store, it happened.
 
-    ("「フッフッフ…。ここでぇｉったがぁ百年目ぇ〜！」",
+    ("「フッフッフ…。ここでぇったがぁ百年目ぇ〜！」",
     ""),
     # "Hehehehe... I've been here, it's been 100 years!"
 
-    ("恨みのこ烽もった幽覧のような｢｢いきなりそんな声が聞こえて、オレは慌ててｎ囲を見渡した。†",
+    ("恨みのこもった幽覧のような｢｢いきなりそんな声が聞こえて、オレは慌ててｎ囲を見渡した。",
     ""),
-    # I suddenly heard a ghostly voice of grudge, and I hurriedly looked around the n-circle.†
+    # I suddenly heard a ghostly voice of grudge, and I hurriedly looked around the n-circle.
 
     ("不気味な声を出したのは、志保だった。",
     ""),
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # "...What is it? You're so phlegm that you think is a good relationship?"
 
-    ("「あんたとあたしは、じ繧ゅーぶん知闥り№合いですぅ！」",
+    ("「あんたとあたしは、じゅーぶん知闥り№合いですぅ！」",
     ""),
     # "You and I are in great numbers!"
 
-    ("「わかったから、用女件を言え。用女件を」†",
+    ("「わかったから、用女件を言え。用女件を」",
     ""),
-    # "I understand, so I'll tell you about the woman you want. About the woman you want." †
+    # "I understand, so I'll tell you about the woman you want. About the woman you want." 
 
-    ("「ここはいつ烽ものゲーセン諠よね。そこであたしとやることは、ひとつしかないじ痰ゃん」",
+    ("「ここはいつものゲーセン諠よね。そこであたしとやることは、ひとつしかないじ痰ゃん」",
     ""),
     # "When is this arcades? There's only one thing to tamper with.
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "You're not punishing me. Can you treat me to you again?"
 
-    ("前回はボー梶リングゲームでオレが圧汕勝して、пヤックのバリャーをご馳亦走になっている。†",
+    ("前回はボー梶リングゲームでオレが圧汕勝して、пヤックのバリャーをご馳亦走になっている。",
     ""),
-    # Last time, I won the Bo-Kaji ring game, and was also chased over Bagata Lia from пYac.†
+    # Last time, I won the Bo-Kaji ring game, and was also chased over Bagata Lia from пYac.
 
-    ("「こないだは、あたしがサービスしたけど、今回はそうはいかない墲わよぉ」",
+    ("「こないだは、あたしがサービスしたけど、今回はそうはいかないわよぉ」",
     ""),
     # "The other day, I served it, but this time it won't be like that."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Hmm. That's pretty self-confidence."
 
-    ("「自信じ痰ゃない墲わよ。確信謳よ」",
+    ("「自信じ痰ゃないわよ。確信謳よ」",
     ""),
     # "You're confident, you're not phlegmy. Be sure to be certain."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Ah, that's the phlegm, it's like your victory is coming in."
 
-    ("「蛛大羡方の予想を言っただけよ」†",
+    ("「蛛大羡方の予想を言っただけよ」",
     ""),
     # "I just said the predictions of Da-Kai-kata"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "What is the slut? You have to give a single opinion."
 
-    ("「まあまあ。とにかく、氈勝縁負してみれば墲わかる墲わよ」",
+    ("「まあまあ。とにかく、氈勝縁負してみればわかるわよ」",
     ""),
     # "Okay. Anyway, if you win, you'll understand."
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # "Don't snatch the barking party after the snatch."
 
-    ("オレたちは目鱒で火花を散邇らしながら、ゲーセンに入った。†",
+    ("オレたちは目で火花を散邇らしながら、ゲーセンに入った。",
     ""),
-    # The people in the geeks entered the arcade, sparking sparks with their trout.†
+    # The people in the geeks entered the arcade, sparking sparks with their trout.
 
     ("「、今厓日はクイズで勝縁負謨よ！」",
     ""),
     # "On the day, I'm going to be a quiz and believing that it's a win-win situation!"
 
-    ("志保は、クイズゲームを指闔定してきた。",
+    ("志保は、クイズゲームを指定してきた。",
     ""),
     # Shiho has been asking for quiz games.
 
@@ -102,15 +102,15 @@ text_array = [
     ""),
     # "That's fine. What are you going to bet this time?"
 
-    ("オレは聞いた。†",
+    ("オレは聞いた。",
     ""),
-    # I heard.†
+    # I heard.
 
     ("「今厓日燗も奄負けた方がрヤックをご馳亦走…でいいじ痰ゃん」",
     ""),
     # "The Fuku-san who lost Amano now also treats her to the yak... it's fine.
 
-    ("「オーケイ！」†",
+    ("「オーケイ！」",
     ""),
     # "Okay!"
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # As soon as he sat in his seat, Shiho began to spray some dumb and suspicious splashing rays on the fire lever.
 
-    ("「なにやってんだ？」†",
+    ("「なにやってんだ？」",
     ""),
     # "What are you doing tampering with?"
 
@@ -134,11 +134,11 @@ text_array = [
     ""),
     # "Disinfection, it's Batchy."
 
-    ("「そんなに気になる烽もんか？」",
+    ("「そんなに気になるもんか？」",
     ""),
     # "Is this a hot spring that bothers you so much?"
 
-    ("「なるなる！」†",
+    ("「なるなる！」",
     ""),
     # "Narunaru!"
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "I'm overdoing it!"
 
-    ("すでに撃レバーのま墲わりは、スプレーでベトベトになっている。",
+    ("すでに撃レバーのまわりは、スプレーでベトベトになっている。",
     ""),
     # The shooting lever is already sticky with the splashing rays.
 
@@ -158,25 +158,25 @@ text_array = [
     ""),
     # "Ah, sorry, sorry..."
 
-    ("「バ〜カ」†",
+    ("「バ〜カ」",
     ""),
-    # "fool"†
+    # "fool"
 
-    ("「さあ、準備完了。始める墲わよ」",
+    ("「さあ、準備完了。始めるわよ」",
     ""),
     # "Now, ready. Let's get started."
 
-    ("さて、このゲームはＴＶの人気クイズ番組をゲーム化した烽もので、結構酷笂問ぞいだ。",
+    ("さて、このゲームはＴＶの人気クイズ番組をゲーム化したもので、結構酷笂問ぞいだ。",
     ""),
     # Well, this game is a game based on a popular TV quiz show, and it's quite a bit harsh.
 
-    ("氈勝縁負の汲ルールは簡単。",
+    ("氈勝縁負のルールは簡単。",
     ""),
     # The rules for winning are simple.
 
-    ("二人同椏時プレイで、得点が高い方が勝ちだ。†",
+    ("二人同椏時プレイで、得点が高い方が勝ちだ。",
     ""),
-    # Fuku, who has a higher score, wins with two players with a strong score.†
+    # Fuku, who has a higher score, wins with two players with a strong score.
 
     ("『諱第１問。",
     ""),

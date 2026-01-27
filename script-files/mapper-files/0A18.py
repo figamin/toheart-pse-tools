@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Daddaddaddaddaddad...
 
-    ("だが、掾理女緒ち痰ゃんは墲わき目燒も振逅らず、走闡り抜けていく。†",
+    ("だが、掾理女緒ち痰ゃんはわき目燒も振逅らず、走闡り抜けていく。†",
     ""),
     # However, the slutty woman Ochi Symphonyan does not even hesitate to take the ball, and continues to move forward.†
 
@@ -22,11 +22,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("くそっ、校蜊門で追いつくはずだ！",
+    ("くそっ、校門で追いつくはずだ！",
     ""),
     # Damn it, you should catch up at the school gates!
 
-    ("オレは魔走って繧後を追った。†",
+    ("オレは魔走って後を追った。†",
     ""),
     # I ran off to follow after him.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Ah, kun. What's wrong?"
 
-    ("息が繧上がってるオレに、不思議そうな顔をする揩理女緒ち痰ゃん。",
+    ("息が上がってるオレに、不思議そうな顔をする理女緒ち痰ゃん。",
     ""),
     # My breath is rising, and I make a strange look on my face.
 
-    ("「い、いや、なんで烽も…」",
+    ("「い、いや、なんでも…」",
     ""),
     # "No, it's tampering, why not even a hot pot..."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Uh, yes.
 
-    ("私のクラスって、いつ烽もホームルームが遅くて」",
+    ("私のクラスって、いつもホームルームが遅くて」",
     ""),
     # My banquet is always slow to cry at home."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # The homeroom teacher in Class D has a long talk.
 
-    ("しか烽も烽内容燉も、生衰医鰹繧ﾌ高注意毎事項から自諶宅学習のポイントまで、いちいちこと細かい。",
+    ("しかも内容燉も、生衰医鰹ﾌ高注意毎事項から自諶宅学習のポイントまで、いちいちこと細かい。",
     ""),
     # However, the hot and hot pot contents are all detailed, from the points to the points of studying at home.
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # Listening to it makes me feel like I'm an elementary school student before summer vacation.
 
-    ("べつに、＝普段から口うるさいって墲わけで烽もなく、いい教師だとは思うんだが。†",
+    ("べつに、＝普段から口うるさいってわけでもなく、いい教師だとは思うんだが。†",
     ""),
     # Furthermore, it's not that he's always loud and noisy, so I think he's a good teacher.†
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "Well, that means you're paying attention to each student's face."
 
-    ("「うん、そうだと思う。で烽もやっぱり、もう少し短いと嬉しいな、п私」",
+    ("「うん、そうだと思う。でもやっぱり、もう少し短いと嬉しいな、п私」",
     ""),
     # "Yeah, I think so. And I'm glad if it was a little shorter."
 
-    ("「ははっ、そり痰ゃそうか。そうすり痰ゃ、＊鰯哩ｱんなに魔走迹らなくと烽もすむ烽もんな」",
+    ("「ははっ、そり痰ゃそうか。そうすり痰ゃ、＊鰯哩ｱんなに魔走迹らなくともすむもんな」",
     ""),
     # "Haha, that's true. That's how it hurts. *Not sardines, it's a hot spring, and you can't even fly without running through the demon."
 
@@ -142,11 +142,11 @@ text_array = [
     ""),
     # "Hey, are you strong?"
 
-    ("「う、うん〜。なんと烽もないよ〜」",
+    ("「う、うん〜。なんともないよ〜」",
     ""),
     # "Uh, yes. There's no hot water."
 
-    ("「ほんとかよ？	走るのが得意とか言ってるそばからこれだ烽もんな。ほら、つかまれ」",
+    ("「ほんとかよ？	走るのが得意とか言ってるそばからこれだもんな。ほら、つかまれ」",
     ""),
     # "Really? This is the place where you say you're good at running skulls. Come on, grab me."
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # I'm laughing.
 
-    ("しか烽も、ちょっと嬉しそうだ。",
+    ("しかも、ちょっと嬉しそうだ。",
     ""),
     # However, the han looks very happy too.
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "I understand."
 
-    ("そう言ったに烽もかか墲わらず、掾理女緒ち痰ゃんは再びすごいスピードで坂道を駆けていった。",
+    ("そう言ったにもかかわらず、掾理女緒ち痰ゃんは再びすごいスピードで坂道を駆けていった。",
     ""),
     # Even though he said that, he didn't get any trouble, and once again he headed down the slope at an incredible speed.
 

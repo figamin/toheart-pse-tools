@@ -2,11 +2,11 @@
 # Source file: 04CE.txt
 
 text_array = [
-    ("（志保	回秤数イベント	寄闃り道３）閨（選択綜	誰と？）†",
+    ("（志保	回秤数イベント	寄闃り道３）閨（選択綜	誰と？）",
     ""),
-    # (Shiho's Scales Event: Incoming Road 3) (Choose So, Who?)†
+    # (Shiho's Scales Event: Incoming Road 3) (Choose So, Who?)
 
-    ("「そ烽もそ烽も、誰と遊びに行くつ烽もりなんだ？」",
+    ("「そもそも、誰と遊びに行くつもりなんだ？」",
     ""),
     # "Who are you going to go to and from the hot springs? Who are you going to play with?"
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # In that case, we need a Kaji relations player.
 
-    ("男か、浴女か？",
+    ("男か、女か？",
     ""),
     # A man or a bather?
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # If it's a man, where is it?
 
-    ("聞きたいことは山ほどある。†",
+    ("聞きたいことは山ほどある。",
     ""),
-    # There are so many things I want to ask.†
+    # There are so many things I want to ask.
 
     ("「誰とでしょ〜？」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I've heard it because I don't know."
 
-    ("「とにかく言えるのは、浴女の子じ痰ゃないってことね」",
+    ("「とにかく言えるのは、女の子じ痰ゃないってことね」",
     ""),
     # "Anyway, all I can say is that a bath girl has no phlegm."
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Teach me b"
 
-    ("「誰かしらねぇ〜」†",
+    ("「誰かしらねぇ〜」",
     ""),
-    # "I don't know who it is" †
+    # "I don't know who it is" 
 
     ("「もったいぶるな！」",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Who do you want to join?"
 
-    ("「こらっ、堰初めに戻ってるぞ！」†",
+    ("「こらっ、堰初めに戻ってるぞ！」",
     ""),
     # "Hey, we're back to the beginning of the weir!"
 
@@ -94,11 +94,11 @@ text_array = [
     ""),
     # "to tell the truth…"
 
-    ("「じつは？」†",
+    ("「じつは？」",
     ""),
-    # "to tell the truth?"†
+    # "to tell the truth?"
 
-    ("「…じつは鰍相闡手なんて、いないのよねぇ。、いっしょに行く？」†",
+    ("「…じつは鰍相闡手なんて、いないのよねぇ。、いっしょに行く？」",
     ""),
     # "...In fact, there are no other monks. Are you going to the eclipse?"
 
@@ -110,17 +110,17 @@ text_array = [
     ""),
     # "There's no good phlegm.
 
-    ("相闡手がいなくて烽も気分だけ楽しむ権圏はあると思う墲わよ」",
+    ("相闡手がいなくても気分だけ楽しむ権圏はあると思うわよ」",
     ""),
     # I think there's no relations and the Hoshi has the right to enjoy the mood, just the mood."
 
-    ("「悲しい烽ものがあるな…」",
+    ("「悲しいものがあるな…」",
     ""),
     # "There's something sad..."
 
-    ("「はどうなのよ。なんか予定あるの？	ゴールデンウィークの」†",
+    ("「はどうなのよ。なんか予定あるの？	ゴールデンウィークの」",
     ""),
-    # "What's going on? Is there any preliminary decision? Golden Week" †
+    # "What's going on? Is there any preliminary decision? Golden Week" 
 
     ("「いまのとこ、とくにｌまってはいないな」",
     ""),
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "I'm looking forward to it. I'll go to my destination."
 
-    ("「おいおい、氈押すなって！」†",
+    ("「おいおい、氈押すなって！」",
     ""),
     # "Hey hey, don't push!"
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # Then, the two of them searched and strolled around various places to play at the bookstore, and checked out some bonito spots that looked like they were white.
 
-    ("志保につき№合うかどうかは、もう少し繧後でｌめよう。◯",
+    ("志保につき№合うかどうかは、もう少し後でｌめよう。◯",
     ""),
     # I'll try to get the number of Shiho and see if it fits No.◯
 

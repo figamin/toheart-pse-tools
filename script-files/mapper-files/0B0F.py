@@ -2,7 +2,7 @@
 # Source file: 0B0F.txt
 
 text_array = [
-    ("（綾∴香	好感度イベント２）閨（チェック５つ）閨（好感度イベント１を見た）閨（冝日付イベント３を見た）閨（４獅月１６冾日以降）閨（４獅月２２冾日以降は発生しない（２１冾日までで終尞わり））閨（それまでにここを通過しなければ綾∴香は攻略不可になる）閨（１桙時間目の授業拠）†",
+    ("（綾∴香	好感度イベント２）閨（チェック５つ）閨（好感度イベント１を見た）閨（冝日付イベント３を見た）閨（４月１６冾日以降）閨（４月２２冾日以降は発生しない（２１冾日までで終尞わり））閨（それまでにここを通過しなければ綾∴香は攻略不可になる）閨（１桙時間目の授業拠）†",
     ""),
     # (Aya∴Ka Likeability Event 2) Relative (5 checks) Relative (See the Likeability Event 1) Relative (See the Date Event 3) Relative (After the April 16th day) Relative (Not occur after the April 22nd day (ends until the 21st day)) Relative (If you do not pass through this by then, Aya∴Ka will not be able to be conquered) Relative (Lesson basis for the first time) †
 
@@ -10,7 +10,7 @@ text_array = [
     ""),
     # Lessons for the first time.
 
-    ("オレは、ぼんやりと汲窓の外を眺めながら、考えごとをしていた。†",
+    ("オレは、ぼんやりと窓の外を眺めながら、考えごとをしていた。†",
     ""),
     # I was thinking, slurping and looking out the window.†
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Why is it b?
 
-    ("どう烽も最近、ふとしたことであいつのことを考えてしまう。†",
+    ("どうも最近、ふとしたことであいつのことを考えてしまう。†",
     ""),
     # Recently, I've been thinking about someone at a random time.†
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Damn…"
 
-    ("「ま、か墲わいそうだから、п私がご褒又あげる。はいっ」",
+    ("「ま、かわいそうだから、п私がご褒又あげる。はいっ」",
     ""),
     # "Well, it's a shame, so I'll give you a reward. Yes."
 
@@ -70,15 +70,15 @@ text_array = [
     ""),
     # "Is it weird? = It's normal, that's all."
 
-    ("「＝普通じ痰ゃない墲わよ〜」†",
+    ("「＝普通じ痰ゃないわよ〜」†",
     ""),
     # "=It's normal, it's not phlegm~"
 
-    ("「もしかして、オレ、お前にヒザまくらして烽もらってんのか？」",
+    ("「もしかして、オレ、お前にヒザまくらしてもらってんのか？」",
     ""),
     # "Maybe I'm so excited, are you sleeping on me and getting hot?"
 
-    ("「ふふふっ。どう？	こういうの、なかなかいい烽もんでしょ？」",
+    ("「ふふふっ。どう？	こういうの、なかなかいいもんでしょ？」",
     ""),
     # "Hehehe. What do you think? This kind of thing is pretty good, slut?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "I see? Hehe, hi?"†
 
-    ("「けど、こんな程度でこの土闢手っ腹の一発がチャャラになると思ったら大間瘧違いだぞ」",
+    ("「けど、こんな程度でこの土闢手っ腹の一発がチャャラになると思ったら大間違いだぞ」",
     ""),
     # "But if you think that this earthy belly will be a cha banquet at this rate, it's a different story."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Hehe" †
 
-    ("なぜこうあいつがチラつくのか、自分で烽もよく墲わからない。",
+    ("なぜこうあいつがチラつくのか、自分でもよくわからない。",
     ""),
     # I don't really understand why he's having a feast like this, and I don't really understand why.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # Hmm.†
 
-    ("いや、まだ汲結論を出すのは≠早計だ。",
+    ("いや、まだ結論を出すのは≠早計だ。",
     ""),
     # It's too early to come to conclusions, even if it's still a bit of a pain.
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # A woman who fell in love with Kuniko Kakumado, who spent her little girl overseas.
 
-    ("以前、空闍手をやってたとか烽も言ってたな。†",
+    ("以前、空闍手をやってたとかも言ってたな。†",
     ""),
     # I've also said that he used to tamper with the Sky.†
 
@@ -162,11 +162,11 @@ text_array = [
     ""),
     # His looks are as expected from a senior, so he is completely unmistakable.
 
-    ("＃人逅顔でスタイル焜も抜群。",
+    ("＃人逅顔でスタイルも抜群。",
     ""),
     # #The personal face makes him look amazing and has a stylish cry.
 
-    ("おまけに、太熨も烽もの肌触關り烽もいいときた。†",
+    ("おまけに、太熨ももの肌触關りもいいときた。†",
     ""),
     # In addition, the thick and hot water texture and the hot water were also nice.†
 
@@ -174,11 +174,11 @@ text_array = [
     ""),
     # His refreshing personality is also unpleasant.
 
-    ("金搴持ちのおｏって墲わりにはお高くないし、海外迥育ちのはねっかえりなとこは、むし好感が揩持てる。",
+    ("金搴持ちのおｏってわりにはお高くないし、海外迥育ちのはねっかえりなとこは、むし好感が持てる。",
     ""),
     # For a person with a gold medal, it's not expensive for a person with a good chance, and the place where he grew up overseas is highly likable.
 
-    ("あいつと揩喋ってると楽しい。†",
+    ("あいつと喋ってると楽しい。†",
     ""),
     # It's fun to talk to him.†
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # Mmm.
 
-    ("こう考えると、凵嫌いになる要素はひとつ烽も見膜当たらねーぞ。",
+    ("こう考えると、凵嫌いになる要素はひとつも見膜当たらねーぞ。",
     ""),
     # When you think about it this way, there's no element that makes you dislike.
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # A: That's right, I fell in love with it.Relax
 
-    ("Ｂ	いや、んな墲わけねー。閨",
+    ("Ｂ	いや、んなわけねー。閨",
     ""),
     # B: It's not a problem, there's no way it can be.Relax
 

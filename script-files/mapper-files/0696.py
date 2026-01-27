@@ -2,9 +2,9 @@
 # Source file: 0696.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（廊下１）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（廊下１）",
     ""),
-    # (Muryuruchi Scales Event 2F LV4) (Carrior 1)†
+    # (Muryuruchi Scales Event 2F LV4) (Carrior 1)
 
     ("廊下で声をかけられた。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Oh?"
 
-    ("振關り返髟ると、にっこり笑ったマルチがいた。†",
+    ("振關り返髟ると、にっこり笑ったマルチがいた。",
     ""),
-    # He shouted back, and there was a chuckle-smile-smile.†
+    # He shouted back, and there was a chuckle-smile-smile.
 
     ("「諱よぉ、マルチ」",
     ""),
@@ -34,13 +34,13 @@ text_array = [
     ""),
     # "ah"
 
-    ("見骭ると、どうやら掃恆除の途湯なんだう、廊下のかた墲わらには高ロー堰ラーつきのバケツにモップという、いつ烽もの道搭鼡一式が置かれていた。",
+    ("見骭ると、どうやら掃恆除の途湯なんだう、廊下のかたわらには高ロー堰ラーつきのバケツにモップという、いつもの道搭鼡一式が置かれていた。",
     ""),
     # When I looked at it, it was a hot spring for tampering and cleaning up, and in the corner of the corridor there was a bucket with a high-rolled weir wheel, called a b-mop, a set of hot waterway boarding stations.
 
-    ("梶相変﨑わらず、マルチ以外の生徒はいない。†",
+    ("梶相変﨑わらず、マルチ以外の生徒はいない。",
     ""),
-    # Kaji Ai Henzaki is not there, and there are no students other than Makyuruchi.†
+    # Kaji Ai Henzaki is not there, and there are no students other than Makyuruchi.
 
     ("「…なんだ、また掃恆除させられてんのかぁ？",
     ""),
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # When I said with a wry smile,
 
-    ("「いえ、わたしが進んでやらせて烽もらってるんです。",
+    ("「いえ、わたしが進んでやらせてもらってるんです。",
     ""),
     # "No, I'm willing to let you tamper with it and get some hot water.
 
@@ -62,23 +62,23 @@ text_array = [
     ""),
     # I love cleaning up and removing the scavengers."
 
-    ("マルチはそう言って、いつ烽もの駆託のない笑迴顔を見せた。†",
+    ("マルチはそう言って、いつもの駆託のない笑顔を見せた。",
     ""),
-    # Muruch said, and when he showed a smile that was unconventional.†
+    # Muruch said, and when he showed a smile that was unconventional.
 
-    ("「…それに、今厓日でこの学校と烽もお別れだと思うと、どうして烽もやっておきたくて…」",
+    ("「…それに、今厓日でこの学校ともお別れだと思うと、どうしてもやっておきたくて…」",
     ""),
     # "...And also, when I think that this school and Kana are saying goodbye to me now, why do I want to tamper with Kana too..."
 
-    ("目を細め、感慨深そうに微笑んだ。†",
+    ("目を細め、感慨深そうに微笑んだ。",
     ""),
-    # Her eyes narrowed and she smiled in emotion.†
+    # Her eyes narrowed and she smiled in emotion.
 
     ("そっか…。",
     ""),
     # I see...
 
-    ("そういえば、マルチがこの学校にいるの烽も今厓日が最纃後なんだっけ。",
+    ("そういえば、マルチがこの学校にいるのも今厓日が最纃後なんだっけ。",
     ""),
     # Come to think of it, I wonder if Makruchi is at this school, but the day is the last day of the day.
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # One week of operational test.
 
-    ("あっという間だったよな。†",
+    ("あっという間だったよな。",
     ""),
-    # It went by in a flash.†
+    # It went by in a flash.
 
     ("最纃後ということで、オレは｢｢。",
     ""),

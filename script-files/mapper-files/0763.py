@@ -2,21 +2,21 @@
 # Source file: 0763.txt
 
 text_array = [
-    ("（琴音	好感度イベント	ＰＳ）†",
+    ("（琴音	好感度イベント	ＰＳ）",
     ""),
-    # (Kotone Likeability Event PS)†
+    # (Kotone Likeability Event PS)
 
-    ("昼休み、オレは琴音ち痰ゃんを誘って屋繪上へあがった。†",
+    ("昼休み、オレは琴音ち痰ゃんを誘って屋繪上へあがった。",
     ""),
-    # During lunch break, I invited Kotone Chisho-chan to the house.†
+    # During lunch break, I invited Kotone Chisho-chan to the house.
 
     ("「オレなりに超能力を調べてみたんだけど、琴音ち痰ゃんと同じタイプの超能力は見つからなかったんだ」",
     ""),
     # "I tried to investigate my supernatural powers in my own way, but I couldn't find the same type of psychic power as Kotone Chisho-yan."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「それでな、琴音ち痰ゃん本人から詳しく聞かせて欲しいんだ」",
     ""),
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Are you talking about my abilities?"
 
-    ("「そう。それを聞いてふたりで考えれば、なにかいい方法が思い浮かぶか烽もしれねえだ」",
+    ("「そう。それを聞いてふたりで考えれば、なにかいい方法が思い浮かぶかもしれねえだ」",
     ""),
     # "Yes. If we hear that, and think about it together, we can think of some good way to bless you, or maybe it's a good idea."
 
-    ("「…そうか烽もしれませんね」†",
+    ("「…そうかもしれませんね」",
     ""),
     # "...I see, it's not possible."
 
@@ -46,19 +46,19 @@ text_array = [
     ""),
     # "There's no tinnitus..."
 
-    ("琴音ち痰ゃんが頭を抱えるときだな。†",
+    ("琴音ち痰ゃんが頭を抱えるときだな。",
     ""),
-    # It's time for Kotone Chisho-chan to hold her head.†
+    # It's time for Kotone Chisho-chan to hold her head.
 
     ("「すると、頭のｒで窒白い光がだんだん大きくなってくるような感じがしてくるんです…」",
     ""),
     # "And then I feel like the white light on my head gradually grows bigger..."
 
-    ("「頭のｒで…って、諱よく墲わかんねえんだけど」",
+    ("「頭のｒで…って、諱よくわかんねえんだけど」",
     ""),
     # "I don't really know what you're saying about my head..."
 
-    ("「…わたし烽もうまく烽説明できません。そんな感じがするんです…」†",
+    ("「…わたしもうまく説明できません。そんな感じがするんです…」",
     ""),
     # "...I can't explain it well either. That's how it feels..."
 
@@ -74,11 +74,11 @@ text_array = [
     ""),
     # "I see."
 
-    ("それがし痰ゃがみこんでこらえてるときか。†",
+    ("それがし痰ゃがみこんでこらえてるときか。",
     ""),
-    # Is that when the phlegm gets in and holds back?†
+    # Is that when the phlegm gets in and holds back?
 
-    ("「…あと、滅多にないんですけど、縺代岺わりにこれから起こることが墲わかったりするとき烽もあるんです」",
+    ("「…あと、滅多にないんですけど、縺代岺わりにこれから起こることがわかったりするときもあるんです」",
     ""),
     # "And also, it's rare, but there are times when we know what's going to happen in the future, even in the midst of the shore."
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # ...What I heard from Shiho was about precognition, I guess.
 
-    ("「はい…。たぶん」†",
+    ("「はい…。たぶん」",
     ""),
-    # "Yes... Probably" †
+    # "Yes... Probably" 
 
-    ("「で烽も、そっちの方は実害はねえんだ？	さっきのрヤバい方のрヤツを教えてくれよ」",
+    ("「でも、そっちの方は実害はねえんだ？	さっきのрヤバい方のрヤツを教えてくれよ」",
     ""),
     # "And even if you're in the voyage, isn't that really harmful? B? Tell me what the dangerous Fukukata guy I just said."
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Ah, yes. You started with the point where you held back your abilities to the very very close, right?"
 
-    ("「ああ。そのあとにどうなるんだ？」†",
+    ("「ああ。そのあとにどうなるんだ？」",
     ""),
     # "Yeah. What will happen after that?"
 
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # In other words, do you want to destroy the Gabanquet?
 
-    ("「…なあ、思うんだけど、わざ墲わざガラスを壊す必要はないんじ痰ゃねえの？	瘁例えば、物を動かすとか。そういうこと烽もできるんだ」†",
+    ("「…なあ、思うんだけど、わざわざガラスを壊す必要はないんじ痰ゃねえの？	瘁例えば、物を動かすとか。そういうこともできるんだ」",
     ""),
-    # "...I think so, I don't need to destroy the banquet, is there any phlegm? For example, you can move things. You can do things like that."†
+    # "...I think so, I don't need to destroy the banquet, is there any phlegm? For example, you can move things. You can do things like that."
 
-    ("「はい…。で烽も、物を動かすのはとて烽もｊ険なんです」",
+    ("「はい…。でも、物を動かすのはとてもｊ険なんです」",
     ""),
     # "Yes... And it's tough to move things, both Hot and Hot."
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # "why?"
 
-    ("п割驫るの烽も動かす烽も、浴似たような烽もんだと思うけど。†",
+    ("п割驫るのも動かすも、似たようなもんだと思うけど。",
     ""),
-    # I think the hot springs and the hot springs that run are similar to the hot springs.†
+    # I think the hot springs and the hot springs that run are similar to the hot springs.
 
-    ("「そのときの能力の大きさより小さい烽ものを動かすと、余った能力の分だけ勢いがついて動くんです…」",
+    ("「そのときの能力の大きさより小さいものを動かすと、余った能力の分だけ勢いがついて動くんです…」",
     ""),
     # "When you move something smaller than the size of your ability at that time, the momentum will increase as much as your remaining abilities..."
 
@@ -138,51 +138,51 @@ text_array = [
     ""),
     # Kotone Chisho-yan told me about how he had previously moved a small vase.
 
-    ("そのときは動くというより烽も、花瓶が≠吹っ飛んで、壁に魔当たって砕けてしまったそうだ。",
+    ("そのときは動くというよりも、花瓶が≠吹っ飛んで、壁に魔当たって砕けてしまったそうだ。",
     ""),
     # At that time, it wasn't moving, but rather the vase was blown away, and it was shattered by hitting the wall.
 
-    ("「へえ…」†",
+    ("「へえ…」",
     ""),
-    # "Whoa..." †
+    # "Whoa..." 
 
-    ("つまり、下濶手に小さな物を動かそうとすると、動いた繧後が大変ってことか。",
+    ("つまり、下濶手に小さな物を動かそうとすると、動いた後が大変ってことか。",
     ""),
     # In other words, when you try to move a small object with your hands, it's a pain to do after moving.
 
-    ("じ痰ゃ、蛛大きな物だったら？†",
+    ("じ痰ゃ、蛛大きな物だったら？",
     ""),
-    # What if there's a big phlegm?†
+    # What if there's a big phlegm?
 
-    ("「蛛大きな物を動かそうとして、能力が足闡りなかったりすると、足闡りない分だけ墲わたしの頭のｒに返ってｗ磯翌鴦ﾅす…」",
+    ("「蛛大きな物を動かそうとして、能力が足闡りなかったりすると、足闡りない分だけわたしの頭のｒに返ってｗ磯翌鴦ﾅす…」",
     ""),
     # "If you try to move a big object and your abilities are not close, you will return to my head for the least amount of time lol Iso the next one..."
 
-    ("そんな場㍼合、足闡りなかったエネルギーの分だけ、琴音ち痰ゃんをすさまじい頭痛が襲うらしい。†",
+    ("そんな場㍼合、足闡りなかったエネルギーの分だけ、琴音ち痰ゃんをすさまじい頭痛が襲うらしい。",
     ""),
-    # In such a situation, the amount of energy that had not been covered in, apparently a terrible headache hits Kotone Chishonan.†
+    # In such a situation, the amount of energy that had not been covered in, apparently a terrible headache hits Kotone Chishonan.
 
-    ("以前、超能力を使い慣れていなかった頃、彼濫女はそれをやってしまい、気を失って倒齠れてしまったんだそうだ。",
+    ("以前、超能力を使い慣れていなかった頃、彼女はそれをやってしまい、気を失って倒齠れてしまったんだそうだ。",
     ""),
     # Apparently, when she was not used to using her psychic powers, the woman tampered with it, and she lost consciousness and was defeated.
 
-    ("もちん、救急車がやってきて大尅騒ぎ。†",
+    ("もちん、救急車がやってきて大尅騒ぎ。",
     ""),
-    # Mochi b, an ambulance comes in and makes a fuss.†
+    # Mochi b, an ambulance comes in and makes a fuss.
 
     ("「それってрヤバいだ…」",
     ""),
     # "That's crazy..."
 
-    ("「お繧医者様は、脳シントウだっておっし痰ゃいました。で烽も、外搖傷がないのはとて烽も不思議だと…」",
+    ("「お医者様は、脳シントウだっておっし痰ゃいました。でも、外搖傷がないのはとても不思議だと…」",
     ""),
     # "The doctor has a huge sputum even on the brain, and it's surprising that neither Hoshi nor Hoshi have any external injuries..."
 
-    ("諱よほど強く頭を打ったはずだと言う繧医者の言葉とうらはらに、琴音ち痰ゃんにはタンコブひとつできていない。†",
+    ("諱よほど強く頭を打ったはずだと言う医者の言葉とうらはらに、琴音ち痰ゃんにはタンコブひとつできていない。",
     ""),
-    # The doctor said that he must have hit his head very hard, but Kotone Chisho-chan hasn't made a single tank.†
+    # The doctor said that he must have hit his head very hard, but Kotone Chisho-chan hasn't made a single tank.
 
-    ("縺医者は不思議がっていたが、琴音ち痰ゃんは跳ね返ってくる力の恐汲しさに寒気がしたそうだ。",
+    ("縺医者は不思議がっていたが、琴音ち痰ゃんは跳ね返ってくる力の恐しさに寒気がしたそうだ。",
     ""),
     # The doctor was curious, but Kotone Chisho-chan seemed to be feeling chilled at the fear of the bouncing power.
 
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # Certainly it's dangerous.
 
-    ("下濶手すり痰ゃケガ焜もないのに、頭を強く打って死亡…ってことになりかねない。†",
+    ("下濶手すり痰ゃケガもないのに、頭を強く打って死亡…ってことになりかねない。",
     ""),
-    # Even though he has no phlegm on his handrail or his injuries, he could end up hitting his head hard and killing him...†
+    # Even though he has no phlegm on his handrail or his injuries, he could end up hitting his head hard and killing him...
 
     ("「じ痰ゃあ、壊すときはどうなんだ？」",
     ""),
@@ -202,35 +202,35 @@ text_array = [
     ""),
     # The size and lability of the object you break are not a question of tampering, right?
 
-    ("「…壊すとき烽も同じです。",
+    ("「…壊すときも同じです。",
     ""),
     # "...When you break it, the same goes for hot water.
 
-    ("大きさとｌさによって跳ね返ったりするんです。で烽もガラスは痰違うんです…」",
+    ("大きさとｌさによって跳ね返ったりするんです。でもガラスは痰違うんです…」",
     ""),
     # It can bounce off depending on the size and ln.And the banquet is different from the phlegm in the bait..."
 
-    ("「ガラスは痰違う？」†",
+    ("「ガラスは痰違う？」",
     ""),
     # "Is Gabanrasu different phlegm?"
 
-    ("「ある程度の大きさがあれば、その…、なんと烽もないんです」",
+    ("「ある程度の大きさがあれば、その…、なんともないんです」",
     ""),
     # "If you have a certain size of the lily, you don't have a hot pot."
 
-    ("これについては琴音ち痰ゃんに烽も原因不明なんだそうだ。",
+    ("これについては琴音ち痰ゃんにも原因不明なんだそうだ。",
     ""),
     # It seems that the cause of this is unknown whether Kotone Chishonan or the hot spring.
 
-    ("なぜだか知迺らないが、ガラスは力を全泊部吸絜収してくれるらしい。†",
+    ("なぜだか知迺らないが、ガラスは力を全泊部吸絜収してくれるらしい。",
     ""),
-    # For some reason, it is hard to understand, but apparently Gabanrasu will absorb all of his strength into the whole of the night club.†
+    # For some reason, it is hard to understand, but apparently Gabanrasu will absorb all of his strength into the whole of the night club.
 
-    ("「…う〜ん、だいたい墲わかった」†",
+    ("「…う〜ん、だいたいわかった」",
     ""),
-    # "...Hmm, I understand it pretty much" †
+    # "...Hmm, I understand it pretty much" 
 
-    ("オレはこれまでに墲わかったことを整攝理してみた。",
+    ("オレはこれまでにわかったことを整攝理してみた。",
     ""),
     # I tried to sort out what I had learned so far.
 
@@ -246,9 +246,9 @@ text_array = [
     ""),
     # These are the two that seem important.
 
-    ("…もし、艨我揄慢するとどうなるんだうか。†",
+    ("…もし、艨我揄慢するとどうなるんだうか。",
     ""),
-    # ...What will happen if you hold back on the squeal?†
+    # ...What will happen if you hold back on the squeal?
 
     ("「琴音ち痰ゃん、ある程度我揄慢できるんだ？	最纃後まで我揄慢しきるとか…」",
     ""),
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # When I asked at Dame, Kotone Chisho-yan shook his head.
 
-    ("「とんで烽もないです。",
+    ("「とんでもないです。",
     ""),
     # "There's no hot water either.
 
@@ -266,17 +266,17 @@ text_array = [
     ""),
     # If you hold back too much, your abilities will really appeal to you."
 
-    ("そう言ってうつむいた。†",
+    ("そう言ってうつむいた。",
     ""),
-    # He said that and turned his head down.†
+    # He said that and turned his head down.
 
     ("「やっぱダ＜メか。…バネみたいな力だな」",
     ""),
     # "It's definitely a red flag...it's a spring-like power."
 
-    ("「はい…」†",
+    ("「はい…」",
     ""),
-    # "yes…"†
+    # "yes…"
 
     ("残骼るはガラスだが、力が暴末走するたびにガラスをр割ってたんじ痰ゃ意味がない。",
     ""),
@@ -286,31 +286,31 @@ text_array = [
     ""),
     # So, let's come up with some of my special ideas.
 
-    ("授業拠に思いついたｌ訣だ。†",
+    ("授業拠に思いついたｌ訣だ。",
     ""),
-    # This is the key to the lesson.†
+    # This is the key to the lesson.
 
     ("「オレ、超能力について調べてみたんだ｢｢」",
     ""),
     # "I was really looking into psychic powers, ""
 
-    ("本に曹書いてあった烽内容を、オレは琴音ち痰ゃんに話して聞かせた。†",
+    ("本に曹書いてあった内容を、オレは琴音ち痰ゃんに話して聞かせた。",
     ""),
-    # I told Kotone Chisho-yan what was written in the book about.†
+    # I told Kotone Chisho-yan what was written in the book about.
 
-    ("「…さんの言う、エネルギーが流齬れ桙込んでくる感覚は墲わたし烽も感じてます…」",
+    ("「…さんの言う、エネルギーが流齬れ桙込んでくる感覚はわたしも感じてます…」",
     ""),
     # "I can't help but feel the feeling of energy crying and creaking in tandem..."
 
-    ("琴音ち痰ゃんは、精神エネルギーのような物があるのでは、と言う。†",
+    ("琴音ち痰ゃんは、精神エネルギーのような物があるのでは、と言う。",
     ""),
-    # Kotone Chisho-chan says that there may be something that is like mental energy and crying.†
+    # Kotone Chisho-chan says that there may be something that is like mental energy and crying.
 
     ("「そうか。じ痰ゃ、あの本に曹書いてあったことはかなり信用できるんだ」",
     ""),
     # "I see. I see. I can trust that Cao wrote about it in that book."
 
-    ("「…そうなのか烽もしれませんね」",
+    ("「…そうなのかもしれませんね」",
     ""),
     # "...I guess so, it's not like that."
 
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # "If that's the case, I have a great idea."
 
-    ("「それは、なんでしょうか？」†",
+    ("「それは、なんでしょうか？」",
     ""),
     # "Why is that?"
 
@@ -330,17 +330,17 @@ text_array = [
     ""),
     # "Huh... do you use it yourself?"
 
-    ("「そうすり痰ゃあふれねえし、氈勝闖手に暴末走すること烽もねえだ」",
+    ("「そうすり痰ゃあふれねえし、氈勝闖手に暴末走することもねえだ」",
     ""),
     # "There's no need to worry about phlegm, and you can't run wild with your hands."
 
-    ("「そうか烽もしれないですけど…」",
+    ("「そうかもしれないですけど…」",
     ""),
     # "I see, I don't know if it's hot..."
 
-    ("琴音ち痰ゃんは目を嘯伏せた。†",
+    ("琴音ち痰ゃんは目を嘯伏せた。",
     ""),
-    # Kotone Chisho-chan put her eyes down.†
+    # Kotone Chisho-chan put her eyes down.
 
     ("「…ダ＜メなのか？」",
     ""),
@@ -354,11 +354,11 @@ text_array = [
     ""),
     # "No phlegm, let's try it."
 
-    ("「エネルギーのお話は、わたしの能力とは別の能力のことを言ってるのか烽もしれませんし、それに…」",
+    ("「エネルギーのお話は、わたしの能力とは別の能力のことを言ってるのかもしれませんし、それに…」",
     ""),
     # "The story of energy crying is probably about a different ability than my abilities, and...
 
-    ("「それに？」†",
+    ("「それに？」",
     ""),
     # "And?"
 
@@ -366,7 +366,7 @@ text_array = [
     ""),
     # "You're going to use this ability on your own..."
 
-    ("「そんなことねえって。超能力だってうまく使えば便風な烽もんだって」",
+    ("「そんなことねえって。超能力だってうまく使えば便風なもんだって」",
     ""),
     # "No way. Even psychic powers can be a hot spring if you use them well."
 
@@ -374,33 +374,33 @@ text_array = [
     ""),
     # "...I'm not good at it. Just having this ability makes me loser to everyone..."
 
-    ("さらに琴音ち痰ゃんはふさぎこんでしまう。†",
+    ("さらに琴音ち痰ゃんはふさぎこんでしまう。",
     ""),
-    # Furthermore, Kotone Chisho-chan blocks her.†
+    # Furthermore, Kotone Chisho-chan blocks her.
 
     ("…そうだった。",
     ""),
     # …it was.
 
-    ("彼濫女にとってみれば超能力なんて、みんなとの壁でしかないんだ。†",
+    ("彼女にとってみれば超能力なんて、みんなとの壁でしかないんだ。",
     ""),
-    # For a woman with all her might, psychic powers are nothing more than a barrier to everyone.†
+    # For a woman with all her might, psychic powers are nothing more than a barrier to everyone.
 
     ("「…ゴ＜メン」",
     ""),
     # "...Go<men"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「で烽もな、今謐より良くなるとしたら、やるしかねえだ？」",
+    ("「でもな、今謐より良くなるとしたら、やるしかねえだ？」",
     ""),
     # "And if you're going to get better than you now, then I'll have no choice but to do it?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「言った？	琴音ち痰ゃんを桙応㊨援するって。",
     ""),
@@ -410,21 +410,21 @@ text_array = [
     ""),
     # Another person has to phlegm."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("オレは琴音ち痰ゃんの肩にそっと触齔れた。",
     ""),
     # I gently touched Kotone Chisho-chan's shoulder.
 
-    ("轣顔を繧上げ、オレを見上げる琴音ち痰ゃん。",
+    ("轣顔を上げ、オレを見上げる琴音ち痰ゃん。",
     ""),
     # Kotone's face lifts up and looks at me.
 
-    ("「な？」†",
+    ("「な？」",
     ""),
-    # "What?" †
+    # "What?" 
 
     ("「｢｢はい…」",
     ""),
@@ -434,15 +434,15 @@ text_array = [
     ""),
     # "Okay, let's start tampering with psychic powers from now on."
 
-    ("「…はい。お願いします」†",
+    ("「…はい。お願いします」",
     ""),
-    # "...Yes. Please"†
+    # "...Yes. Please"
 
     ("琴音ち痰ゃんは、時間を見つけて超能力を使う練習をしてみると約束してくれた。",
     ""),
     # Kotone Chisho-yan promised that he would find time to practice fortune-telling using his psychic abilities.
 
-    ("オレ焜も桙時間が№合えば練習につき№合うと約束して別れた。",
+    ("オレも桙時間が№合えば練習につき№合うと約束して別れた。",
     ""),
     # My hard work also broke up with me, promising that if the time was right, I would be able to practice for good luck, and I would break up.
 

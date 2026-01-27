@@ -2,9 +2,9 @@
 # Source file: 0B02.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	しょーがねーな	の続き）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	しょーがねーな	の続き）",
     ""),
-    # (Aya∴Kawa Pick Date Event 2) (Continued from Selection A Shibiyoga No Na) †
+    # (Aya∴Kawa Pick Date Event 2) (Continued from Selection A Shibiyoga No Na) 
 
     ("「ったく、強引なрヤツだなぁ、お前」",
     ""),
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "There's no slut..."
 
-    ("観念し、オレはその変な翌女につき№合うことにした。†",
+    ("観念し、オレはその変な翌女につき№合うことにした。",
     ""),
-    # I thought about it, and decided to meet the strange girl after that.†
+    # I thought about it, and decided to meet the strange girl after that.
 
-    ("「なんだか無摶理﨤矢摶理つき№合寘わせたみたいで、悪い墲わね」",
+    ("「なんだか無摶理﨤矢摶理つき№合寘わせたみたいで、悪いわね」",
     ""),
     # "It seems like they've made me join forces with no simplicity, so it's a bad thing."
 
@@ -38,33 +38,33 @@ text_array = [
     ""),
     # "Heheh."
 
-    ("浴女は片ひざを立てて抱え、いたずらっぽく微笑んだ。†",
+    ("女は片ひざを立てて抱え、いたずらっぽく微笑んだ。",
     ""),
-    # The bather raised one knee and held it, smiling mischievously.†
+    # The bather raised one knee and held it, smiling mischievously.
 
     ("とこで、さっきのじーさんって、やっぱｗ栖瑞謳先輩のお付きのじーさんだよな。",
     ""),
     # In this part, the old man from earlier was definitely the old man who was accompanied by Senior Suzumi-san.
 
-    ("ってことは、こいつ烽もｗ栖瑞家のゆかりの人間なんだうか。",
+    ("ってことは、こいつもｗ栖瑞家のゆかりの人間なんだうか。",
     ""),
     # That means that this guy is also associated with the LOL family of Sumizui.
 
-    ("そういえば、全体的な雰囲気がどことなく先輩に翌似てなく烽もないな。",
+    ("そういえば、全体的な雰囲気がどことなく先輩に翌似てなくもないな。",
     ""),
     # Come to think of it, the overall atmosphere is somewhat similar to that of seniors and there's no sign of anything.
 
-    ("いや、かなり翌似てる。†",
+    ("いや、かなり翌似てる。",
     ""),
-    # It's tampering, it's quite similar to the next day.†
+    # It's tampering, it's quite similar to the next day.
 
     ("「まっ、しばらくここで桙時間つぶしてれば、あの人熕もそのうちあきらめて帰驪るでしょ」",
     ""),
     # "Well, if I kill time here for a while, that person will eventually give up and return home."
 
-    ("浴女は目を細め、くすっと笑った。†",
+    ("女は目を細め、くすっと笑った。",
     ""),
-    # The bather narrowed her eyes and chuckled.†
+    # The bather narrowed her eyes and chuckled.
 
     ("「………」",
     "…"),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Hmm, what? Look at it."
 
-    ("「どうで烽もいいけど、お前、見えるぞ」",
+    ("「どうでもいいけど、お前、見えるぞ」",
     ""),
     # "How about it, it's fine, but you can see it."
 
@@ -90,15 +90,15 @@ text_array = [
     ""),
     # "Huh? I can't see it, slut?"
 
-    ("「まあ、ぎりぎり」†",
+    ("「まあ、ぎりぎり」",
     ""),
-    # "Well, just a little bit" †
+    # "Well, just a little bit" 
 
-    ("「ミニをはいてるからには、見せないテク焜もち痰ゃんと身につけてる烽ものよ」",
+    ("「ミニをはいてるからには、見せないテクもち痰ゃんと身につけてるものよ」",
     ""),
     # "Since I wear a mini, I don't show you the techniques I don't want to show, and I wear them with some hot stuff."
 
-    ("「そういう烽もんか」",
+    ("「そういうもんか」",
     ""),
     # "That kind of hot thing?"
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "The current day is now the current day b."
 
-    ("オレが言うと、浴女はぷっと≠吹き出した。†",
+    ("オレが言うと、女はぷっと≠吹き出した。",
     ""),
-    # When I said that, the bather started squealing.†
+    # When I said that, the bather started squealing.
 
     ("「あははははっ、へんなやつ〜」",
     ""),
@@ -130,19 +130,19 @@ text_array = [
     ""),
     # "Is it weird? = It's normal, that's all."
 
-    ("「＝普通じ痰ゃない墲わよ〜」",
+    ("「＝普通じ痰ゃないわよ〜」",
     ""),
     # "=It's normal, it's not phlegmy."
 
-    ("浴女は笑いながら顔を傾けた。",
+    ("女は笑いながら顔を傾けた。",
     ""),
     # The bather leaned his face with a laugh.
 
-    ("いや、＝普通だと思うけどな、オレは。†",
+    ("いや、＝普通だと思うけどな、オレは。",
     ""),
-    # I think it's normal to tamper with it.†
+    # I think it's normal to tamper with it.
 
-    ("「とこで、あなたと烽も妙なр巡闖り№合寘わせね。おたがいなんの接点燗もないはずなのに」",
+    ("「とこで、あなたとも妙なр巡闖り№合寘わせね。おたがいなんの接点燗もないはずなのに」",
     ""),
     # "At this point, you and Hot will also travel together in a strange way. You should not have a warm connection at all."
 
@@ -158,17 +158,17 @@ text_array = [
     ""),
     # "yes?"
 
-    ("オレは馬鹿にするように聞き返す。†",
+    ("オレは馬鹿にするように聞き返す。",
     ""),
-    # I listened back as if to make fun of me.†
+    # I listened back as if to make fun of me.
 
     ("あれ？",
     ""),
     # Huh?
 
-    ("いまと同じようなセリフ、たしかどこかでオレが言ったような、言甯わないような…。†",
+    ("いまと同じようなセリフ、たしかどこかでオレが言ったような、言甯わないような…。",
     ""),
-    # The same as the ones we have now, and it's definitely something I've said somewhere before, and it seems like it's hard to say...†
+    # The same as the ones we have now, and it's definitely something I've said somewhere before, and it seems like it's hard to say...
 
     ("「あなた、名前はなんていうの？」",
     ""),
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "It's been two years."
 
-    ("「あ、じ痰ゃあ、п私と同じじ痰ゃない」†",
+    ("「あ、じ痰ゃあ、п私と同じじ痰ゃない」",
     ""),
     # "Oh, I have phlegm, I have the same phlegm as me"
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "Oh, I'm smoking too."
 
-    ("「なんだ。…ってことは、おたがい実際謐より烽も老けて見えるってことか？」",
+    ("「なんだ。…ってことは、おたがい実際謐よりも老けて見えるってことか？」",
     ""),
     # "What... Does that mean that you actually look older than you, too?"
 
@@ -218,9 +218,9 @@ text_array = [
     ""),
     # "Make sure you look mature."
 
-    ("浴女は苦笑して言った。†",
+    ("女は苦笑して言った。",
     ""),
-    # The bather said with a wry smile.†
+    # The bather said with a wry smile.
 
     ("「で、そっちはなんて名前なんだ？」",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("来栖瑞綾∴香謐よ」†",
+    ("来栖瑞綾∴香謐よ」",
     ""),
-    # Kurusu Mizuya∴Curiousness”†
+    # Kurusu Mizuya∴Curiousness”
 
     ("「＠栖瑞！？	やっぱりそうかー」",
     ""),
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # "Huh? How do you know?"
 
-    ("「うちの高校に烽もｗ栖瑞って人がいるけど、あのじーさんが迎えにｗたからな」†",
+    ("「うちの高校にもｗ栖瑞って人がいるけど、あのじーさんが迎えにｗたからな」",
     ""),
-    # "There's someone at my B high school called Hoo, Suzui, but that old man came to pick me up lol" †
+    # "There's someone at my B high school called Hoo, Suzui, but that old man came to pick me up lol" 
 
     ("「それってまさか、姉さんのこと？」",
     ""),
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # "*Yaye. Seri ° Ka is my sister."
 
-    ("「そうなのか。なるほどな、どおりで翌似てる墲わけだ」†",
+    ("「そうなのか。なるほどな、どおりで翌似てるわけだ」",
     ""),
     # "Is that so? I see, it's exactly like that, and the next one looks similar."
 
@@ -290,11 +290,11 @@ text_array = [
     ""),
     # "Ah, oh, sputum..."
 
-    ("「テレビとかでよくＣＭやってる烽もんね」",
+    ("「テレビとかでよくＣＭやってるもんね」",
     ""),
     # "It's a hot guy who often uses commercials in TV dramas like intense revivals."
 
-    ("「いや、それより烽も、オレのよく知ってる人が同じ名囑字だから、そっちのほうに驚いた」†",
+    ("「いや、それよりも、オレのよく知ってる人が同じ名囑字だから、そっちのほうに驚いた」",
     ""),
     # "I was surprised by the fact that I'm a man who I know well is the same famous character, so I was surprised."
 
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # "Who is that?"
 
-    ("「オレのいっこ繧上の先輩で、＠栖瑞芹°香っていう人なんだけど…」",
+    ("「オレのいっこ上の先輩で、＠栖瑞芹°香っていう人なんだけど…」",
     ""),
     # "My senior senior is @Suisui Seri °Ka..."
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("「あはっ！	それ、п私の姉さんよ」†",
+    ("「あはっ！	それ、п私の姉さんよ」",
     ""),
     # "Ahh! That's my sister."
 
@@ -326,15 +326,15 @@ text_array = [
     ""),
     # "That's right."
 
-    ("「…あ、ああ、そうい墲われると、なるほど、浴似てるよ、たしかに」†",
+    ("「…あ、ああ、そういわれると、なるほど、似てるよ、たしかに」",
     ""),
-    # "...Ah, ah, when you get squealed like that, I see, they look alike, certainly."†
+    # "...Ah, ah, when you get squealed like that, I see, they look alike, certainly."
 
-    ("「へえ、驚きだ墲わ。まさかあなたが姉さんと知闥り№合いだなんて」",
+    ("「へえ、驚きだわ。まさかあなたが姉さんと知闥り№合いだなんて」",
     ""),
     # "Wow, I'm surprised. I can't believe you're in a relationship with your sister."
 
-    ("「こっち烽も驚いた。いやあ、世間は狭いぜ」",
+    ("「こっちも驚いた。いやあ、世間は狭いぜ」",
     ""),
     # "I was surprised too. I'm not a fan, the world is small."
 
@@ -350,7 +350,7 @@ text_array = [
     ""),
     # "Is it possible that the future of the surge will become the fateful Amaya Raiba cry?"
 
-    ("「いつか将女芋翌ｾい№合う№仲になるとか」†",
+    ("「いつか将女芋翌ｾい№合う№仲になるとか」",
     ""),
     # "Someday, the owner will become a friend of the next day, the next day's friend."
 
@@ -366,11 +366,11 @@ text_array = [
     ""),
     # After taking a breath, the two of them burst out squealing at the same time.
 
-    ("「あははっ、いい墲わね、それー」",
+    ("「あははっ、いいわね、それー」",
     ""),
     # "Ahaha, that's good, that's it."
 
-    ("「出初いのイント鴻ロとしてはまずまずだな」†",
+    ("「出初いのイント鴻ロとしてはまずまずだな」",
     ""),
     # "It's pretty good for Intokoro, who is a first-timer."
 
@@ -382,9 +382,9 @@ text_array = [
     ""),
     # Aya∴Ka squinted her eyes and laughed.
 
-    ("もと烽もとｔ人逅顔だけに、さすがにドキッとくる烽ものがある。†",
+    ("もともとｔ人逅顔だけに、さすがにドキッとくるものがある。",
     ""),
-    # As the original face is a T-person face, there are some hot things that will really make you feel excited.†
+    # As the original face is a T-person face, there are some hot things that will really make you feel excited.
 
     ("一息ついて言う。",
     ""),
@@ -410,11 +410,11 @@ text_array = [
     ""),
     # "Oh, I'm pretty close."
 
-    ("「どのくらい？」†",
+    ("「どのくらい？」",
     ""),
     # "How much?"
 
-    ("「どのくらいって、そうだな、といって烽も、まだ知闥りあって間煌もないから、ちょっと話をした程度だけど」",
+    ("「どのくらいって、そうだな、といっても、まだ知闥りあって間煌もないから、ちょっと話をした程度だけど」",
     ""),
     # "How long does it mean, I guess so, but the yo-san still knows and doesn't have a glimpse of it, so I only talked about it."
 
@@ -438,9 +438,9 @@ text_array = [
     ""),
     # "a?"
 
-    ("ずいぶんとストレートに聞くрヤツだなあ。†",
+    ("ずいぶんとストレートに聞くрヤツだなあ。",
     ""),
-    # He's the guy who listens to it at a very low rate.†
+    # He's the guy who listens to it at a very low rate.
 
     ("「そうだな…」",
     ""),

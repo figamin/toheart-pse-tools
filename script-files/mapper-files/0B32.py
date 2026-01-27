@@ -2,9 +2,9 @@
 # Source file: 0B32.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント５）閨（真っ暗）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント５）閨（真っ暗）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, battle for the battle, scale number event 5) (pitch black)†
+    # (Aya∴Ka challenges Aya∴Ka, battle for the battle, scale number event 5) (pitch black)
 
     ("公衆電話から、綾∴香の携帯にかける。",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Click, click, click.
 
-    ("「もし烽もし」",
+    ("「もしもし」",
     ""),
     # "If it's hot."
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "That's right. I'll order some red chilli as well."
 
-    ("「オッケー、いい墲わよっ」†",
+    ("「オッケー、いいわよっ」",
     ""),
-    # "Okay, it's good" †
+    # "Okay, it's good" 
 
     ("「とこで、今厓日が最終叝日謫よ」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Well."
 
-    ("なんの根注拠煖もない自信だが。†",
+    ("なんの根注拠もない自信だが。",
     ""),
-    # I have no confidence in anything.†
+    # I have no confidence in anything.
 
     ("「………」",
     "…"),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "Oh, @Tana. Let's start with phlegm."
 
-    ("オレは繧上薯を脱ぎ、足熨もとに置いた。†",
+    ("オレは上薯を脱ぎ、足熨もとに置いた。",
     ""),
-    # I took off the potatoes on top and put them on my feet.†
+    # I took off the potatoes on top and put them on my feet.
 
     ("「セリオ、グ鴻ローブ貸してくれ」",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("セリオはバッグからグ鴻ローブを取闔り出す。",
+    ("セリオはバッグからグ鴻ローブを取り出す。",
     ""),
     # Segata Rio pulls out his gukong robe from his bag.
 
@@ -82,12 +82,12 @@ text_array = [
     ""),
     # "Sunkya"
 
-    ("それを受け取闔り、閨手にはめる。",
+    ("それを受け取り、閨手にはめる。",
     ""),
     # I received it and put it on my arm.
 
-    ("綾∴香熏も同じく手にはめる。†",
+    ("綾∴香熏も同じく手にはめる。",
     ""),
-    # Aya∴Kingye also fits in with her hand.†
+    # Aya∴Kingye also fits in with her hand.
 
 ]

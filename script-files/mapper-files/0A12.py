@@ -2,11 +2,11 @@
 # Source file: 0A12.txt
 
 text_array = [
-    ("（Ａ	見たいテレビで烽もあんのか？）†",
+    ("（Ａ	見たいテレビでもあんのか？）†",
     ""),
     # (A: Is there a hot spring with the super revival you want to watch?)†
 
-    ("「見たいテレビで烽もあんのか？」",
+    ("「見たいテレビでもあんのか？」",
     ""),
     # "Is there a hot spring with the intense TV drama you want to see?"
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Huh?" †
 
-    ("「くんは、諱よくそういう揩理由で急いだりとかするの？」",
+    ("「くんは、諱よくそういう理由で急いだりとかするの？」",
     ""),
     # "Do you often hurry up for that reason?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Hmm" †
 
-    ("「テレビあんまり見ないって、テレビぎらいとか、そういう揩理由？」",
+    ("「テレビあんまり見ないって、テレビぎらいとか、そういう理由？」",
     ""),
     # "Is that why you don't watch TV super replies too much, or are you afraid of TV super replies, or something like that?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Eh, uh, um, studying, maybe...?"
 
-    ("「まーな。さすがにオレ焜も、勉強するときは切髏るかな」",
+    ("「まーな。さすがにオレも、勉強するときは切髏るかな」",
     ""),
     # "Well, I guess I'll be able to cut my heart off when I study."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "?"
 
-    ("なにかをごまかすように笑う揩理女緒ち痰ゃん。†",
+    ("なにかをごまかすように笑う理女緒ち痰ゃん。†",
     ""),
     # I laughed as if to cheat something.†
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Aosu! Sorry!"
 
-    ("一斉に揩理女緒ち痰ゃんに謝った。†",
+    ("一斉に理女緒ち痰ゃんに謝った。†",
     ""),
     # All of them apologized to Ochisou-chan at once.†
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # However, why are there any judo foil club members at such a bonito spot?†
 
-    ("掾理女緒ち痰ゃんは立ち繧上がると、恥ずかしそうにぺこぺこ謝って、廊下を魔走っていた。",
+    ("掾理女緒ち痰ゃんは立ち上がると、恥ずかしそうにぺこぺこ謝って、廊下を魔走っていた。",
     ""),
     # When the ramblings stood up, she apologised in shame, and ran down the hallway.
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("彼濫女のドジっぷり、あれは烽もう天運だな。",
+    ("彼女のドジっぷり、あれはもう天運だな。",
     ""),
     # The clumsy nature of a boyfriend is so hot that he's already in the midst of luck.
 

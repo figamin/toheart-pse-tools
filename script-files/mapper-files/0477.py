@@ -2,9 +2,9 @@
 # Source file: 0477.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	普抹ヶ茶穀牛絜乳）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	普抹ヶ茶穀牛絜乳）",
     ""),
-    # (Shiho Scales Event PS) (Selection So Fumaga Tea Grain Beef)†
+    # (Shiho Scales Event PS) (Selection So Fumaga Tea Grain Beef)
 
     ("たしかそんな味の高牛絜乳がコンビニにр売ってたはず。",
     ""),
@@ -18,11 +18,11 @@ text_array = [
     ""),
     # "Well, maybe Fumaga Tea Grain and Beef Celsius...?"
 
-    ("オレは一番安全な道を選んだ。†",
+    ("オレは一番安全な道を選んだ。",
     ""),
-    # I chose the safest path.†
+    # I chose the safest path.
 
-    ("「ふ〜ん。あたし烽もそれ行こっかな」",
+    ("「ふ〜ん。あたしもそれ行こっかな」",
     ""),
     # "Hmm. I'll go with that too."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What, did you not do it?"
 
-    ("「べつに。どれで烽もよかったからね」†",
+    ("「べつに。どれでもよかったからね」",
     ""),
     # "And so, which one would have been better?"
 
@@ -42,13 +42,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("数分纒後｢｢。†",
+    ("数分纒後｢｢。",
     ""),
-    # After a few minutes, ".†
+    # After a few minutes, ".
 
     ("「おい、どんな感じだよ」",
     ""),
@@ -58,11 +58,11 @@ text_array = [
     ""),
     # "Hmm.
 
-    ("口のｒに浮抹ヶ茶の≠香闕りがまったりと広がって、その繧後を追うように、香牛絜乳のまやかな甘みがすぎてゆく味嵂わいが｢｢」",
+    ("口のｒに浮抹ヶ茶の≠香闕りがまったりと広がって、その後を追うように、香牛絜乳のまやかな甘みがすぎてゆく味嵂わいが｢｢」",
     ""),
     # The sweetness of the Ukimagacha tea slowly spreads in the mouth, and as if following it, the sweetness of the sweet beef and beef milk is so tame that it is ""
 
-    ("「わけ墲わかんねーこと言ってんじ痰ゃねえよ。『まったり』ってなんなんだ。いっぺん烽説明してみ」†",
+    ("「わけわかんねーこと言ってんじ痰ゃねえよ。『まったり』ってなんなんだ。いっぺん説明してみ」",
     ""),
     # "You're saying something you don't understand, you have no idea what it's like. What is "relaxed"? Let me explain it all at once b"
 
@@ -86,15 +86,15 @@ text_array = [
     ""),
     # "It's so bitter and tasty, isn't it?
 
-    ("「ならそう言え」†",
+    ("「ならそう言え」",
     ""),
-    # "Then say so" †
+    # "Then say so" 
 
     ("「あんたはどうなのよ」",
     ""),
     # "What about you?"
 
-    ("「お前と翌似たような烽もんかな」",
+    ("「お前と翌似たようなもんかな」",
     ""),
     # "I wonder if there's a similar hot spring to you."
 
@@ -106,8 +106,8 @@ text_array = [
     ""),
     # "You're so phlegm, were you relaxing?"
 
-    ("「してないっ」†",
+    ("「してないっ」",
     ""),
-    # "I haven't done it" †
+    # "I haven't done it" 
 
 ]

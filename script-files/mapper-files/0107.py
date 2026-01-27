@@ -2,7 +2,7 @@
 # Source file: 0107.txt
 
 text_array = [
-    ("（あかり	冝日付イベント１．５）閨（３獅月１７冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（校蜊門外）†",
+    ("（あかり	冝日付イベント１．５）閨（３月１７冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（校門外）†",
     ""),
     # (Akari Pick Date Event 1.5) (3rd Lion, 17th Day) (occurs if you are studying with a light) (occurs when you are in a 2nd hole) (occupying the school) (occupying the school) (occupying the school) †
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # I was happy that Akari had copied my notebook with a smug one for my hard work.†
 
-    ("あかりが帰ったのは、いつ烽ものとおり６桙時過ぎだった。◯",
+    ("あかりが帰ったのは、いつものとおり６桙時過ぎだった。◯",
     ""),
     # Akari returned after six holes, just like the one in the hot.◯
 

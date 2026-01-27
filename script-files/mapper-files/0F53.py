@@ -2,7 +2,7 @@
 # Source file: 0F53.txt
 
 text_array = [
-    ("（４獅月１９冾日	土）閨（堰ラジオ	７回目）閨（堰ラジオ聞いた場㍼合）†",
+    ("（４月１９冾日	土）閨（堰ラジオ	７回目）閨（堰ラジオ聞いた場㍼合）†",
     ""),
     # (Saturday, April 19th) (7th time of weir radio) (Lead radio) (Lead radio) (Lead radio)) †
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Is it a gyap from the cultures of Kansai and Kanto?
 
-    ("これを聞かなかったら、オレ焜もきつねっこち痰ゃんと同じミスを犯してたことだう。",
+    ("これを聞かなかったら、オレもきつねっこち痰ゃんと同じミスを犯してたことだう。",
     ""),
     # If I hadn't heard this, I'd have made the same mistake as my fox-like sputum.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Hmm, this Amami Radio is useful.
 
-    ("いまの話が本末当かどうかは、今度、委員長にで烽も聞いてみよう。◯",
+    ("いまの話が本末当かどうかは、今度、委員長にでも聞いてみよう。◯",
     ""),
     # Next time, let's ask the chairman about whether the current story is indeed the same as the main story.◯
 

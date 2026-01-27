@@ -2,7 +2,7 @@
 # Source file: 028E.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（選択綜Ａ	それで烽も声をかけた）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（選択綜Ａ	それでも声をかけた）†",
     ""),
     # (Seri°Kawa, the balance event, return road, LV1)Seri (Select Sou A, so he called out to the audience)†
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "?"
 
-    ("すると、本に獅落としていた汲視諮を繧上げて、諱先輩は、",
+    ("すると、本に落としていた視諮を上げて、諱先輩は、",
     ""),
     # Then, he introduced the advice he had plunged into the book, and his senior said,
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "Yes."
 
-    ("オレが手を繧上げて微笑むと、諱先輩は小さく頭を下げた。†",
+    ("オレが手を上げて微笑むと、諱先輩は小さく頭を下げた。†",
     ""),
     # My hand raised and smiled, and Senpai bowed his head slightly.†
 
-    ("「偶然だな。こんなとこでｉうなんて」",
+    ("「偶然だな。こんなとこでうなんて」",
     ""),
     # "It's a coincidence. I couldn't have uuuu like this at b."
 

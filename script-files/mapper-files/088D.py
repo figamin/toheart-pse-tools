@@ -2,7 +2,7 @@
 # Source file: 088D.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階２）閨（選択綜Ｃ）†",
+    ("（レミィ	回秤数イベント	２階２）閨（選択綜Ｃ）†",
     ""),
     # (Kazuremi, 2nd floor 2) (Selection C)†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I--death."
 
-    ("「どう思うって言甯われて烽もなぁ…」†",
+    ("「どう思うって言甯われてもなぁ…」†",
     ""),
     # "I'm not even hoping to hear what you think..."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Tell me, tell me!"
 
-    ("自分のことは棚に繧上げて、オレには教えと撃レミィは言う。†",
+    ("自分のことは棚に上げて、オレには教えと撃レミィは言う。†",
     ""),
     # He puts himself on the shelf and tells me, b, and Ekiremi.†
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "N Shield! Just like that c!"
 
-    ("う墲わっ、ツッコまれたぞ。",
+    ("うわっ、ツッコまれたぞ。",
     ""),
     # Wow, you've been criticized.
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Just like that c"
 
-    ("言ってから、戟レミィはハッと頬を赤逅らめた。†",
+    ("言ってから、レミィはハッと頬を赤逅らめた。†",
     ""),
     # After saying this, Karemi shook her cheeks in a flash.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # As I was lit up, I was so angry that I looked like a girl from the next Japanese girl, and I was so happy.
 
-    ("戟レミィは冾日本とア＜メリカ、両菶方の魅力を揩持った、いいコなんだと実感した。†",
+    ("レミィは冾日本とア＜メリカ、両菶方の魅力を持った、いいコなんだと実感した。†",
     ""),
     # I realized that Karemi is a great girl with the charms of Japan, America, and Ryosui.†
 
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # "I'kam 'G-shot ≠apd! Impressive!"
 
-    ("「そんなにｊんで烽もらえると、こっち烽も嬉しいよ」",
+    ("「そんなにｊんでもらえると、こっちも嬉しいよ」",
     ""),
     # "If I take so much and get some hot water, I'm happy too."
 
-    ("すると、戟レミィは意味ありげに言った。",
+    ("すると、レミィは意味ありげに言った。",
     ""),
     # Then, Karemi said meaningfully.
 
-    ("「アタシ、自信が揩持てたｃ！」",
+    ("「アタシ、自信が持てたｃ！」",
     ""),
     # "I've had confidence!"
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "bye bye!	"
 
-    ("閨手を振って、戟レミィは獅去ってしまった。",
+    ("閨手を振って、レミィは去ってしまった。",
     ""),
     # Waving her hand, Remy lion left.
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Oh, oh."
 
-    ("自信が揩持てたって…、あいつ、誰かに垂告注白で烽もするのか？◯",
+    ("自信が持てたって…、あいつ、誰かに垂告注白でもするのか？◯",
     ""),
     # Even if he has confidence... will he even sniff someone with a comment?◯
 

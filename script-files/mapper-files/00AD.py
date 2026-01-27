@@ -2,11 +2,11 @@
 # Source file: 00AD.txt
 
 text_array = [
-    ("（３獅月２１冾日	朝）閨（自分の部屋）†",
+    ("（３月２１冾日	朝）閨（自分の部屋）†",
     ""),
     # (Morning of the 21st Day of the Three Lion Day) (morning of my room)†
 
-    ("今厓日は３獅月２１冾日、金曜坥日。",
+    ("今厓日は３月２１冾日、金曜坥日。",
     ""),
     # The current day is the 21st day of the 3rd Lion Day and the Friday Day.
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Ahh, you're making me remember something bad..."
 
-    ("そんなことを言いつつ烽歩いていると、縺後撃から誰かが駆けてきた。†",
+    ("そんなことを言いつつ歩いていると、縺後撃から誰かが駆けてきた。†",
     ""),
     # As I walked around saying this, someone started to hit me after the attack.†
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Oh good."
 
-    ("「あいさつ烽もいいけどな、オレたちを遅薯刻のデッドラインにすんなっての」†",
+    ("「あいさつもいいけどな、オレたちを遅薯刻のデッドラインにすんなっての」†",
     ""),
     # "The greetings and hot springs are nice too, but don't let the sluggish roe and the others go into the dead banquet line with late potatoes."
 

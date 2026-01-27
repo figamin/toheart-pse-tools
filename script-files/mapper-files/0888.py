@@ -2,7 +2,7 @@
 # Source file: 0888.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階１）閨（選択綜Ｂ→凵嫌い）†",
+    ("（レミィ	回秤数イベント	２階１）閨（選択綜Ｂ→凵嫌い）†",
     ""),
     # (Fight Remy Scale Event, 2nd Floor 1) (Select B → Dislike)†
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I don't believe you!"
 
-    ("戟レミィは、逃げるように魔走闡り出した。",
+    ("レミィは、逃げるように魔走闡り出した。",
     ""),
     # Karemi started running away as if to escape.
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Why did Geki Remy hear such a thing?
 
-    ("諱よく墲わからない。◯",
+    ("諱よくわからない。◯",
     ""),
     # I don't really understand the name.◯
 

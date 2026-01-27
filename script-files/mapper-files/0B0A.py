@@ -2,9 +2,9 @@
 # Source file: 0B0A.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（Ｂ	やめとこう）†",
+    ("（綾∴香	冝日付イベント２）閨（Ｂ	やめとこう）",
     ""),
-    # (Aya∴Kawa Pick Date Event 2) (B Stop it)†
+    # (Aya∴Kawa Pick Date Event 2) (B Stop it)
 
     ("友だちがいるみたいだし、やめとこう。",
     ""),

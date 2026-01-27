@@ -448,11 +448,11 @@ text_array = [
     "It's always great to have Akari around at times like these."),
     # Thanks to this, I've been constantly taking care of Akari all these days.
 
-    ("自分のだらしなさを棚に繧上げるのは承知で、ここはあえて、親に文蝠句を言いたい。",
+    ("自分のだらしなさを棚に上げるのは承知で、ここはあえて、親に文蝠句を言いたい。",
     "I get that I only have myself to blame, but I still want to complain to my parents."),
     # I know I'll put my own sloppyness on the shelf, but I'd like to say a sentence to my parents.
 
-    ("職場の移転とか、通勤梛時間がどうだとか、いい揩理由は墲わかるけど、まだ高校鼾一年の息子をほったらかしにするとは何哩事だ。",
+    ("職場の移転とか、通勤梛時間がどうだとか、いい理由はわかるけど、まだ高校鼾一年の息子をほったらかしにするとは何哩事だ。",
     "I understand they have their reasons-they were transferred and have a longer commute-but how could they abandon their high school freshman son?"),
     # I understand the reasons for the relocation of the employment office and how long it will take to work, but I wonder if he will leave his son, who is still in the first year of B High School.
 
@@ -552,7 +552,7 @@ text_array = [
     "Cutting diagonally through the park will get us to the train station much faster."),
     # If you pass through this area, you can cut the road to the station very closely.
 
-    ("便風がいいので、この辺に住んでる連中はみんな道が墲わりに使っている。",
+    ("便風がいいので、この辺に住んでる連中はみんな道がわりに使っている。",
     "It's so convenient that everyone who lives around here uses the park instead of the road."),
     # The air is good, so all the people living around here use it as a road.
 
@@ -648,11 +648,11 @@ text_array = [
     "\"I guess.\""),
     # "oh dear"
 
-    ("「朝なにも食べないと、戟血恁糖値が下がるから、午前葬はずっと頭がぼーっとして、ウトウト眠くなっちゃうんだって」",
+    ("「朝なにも食べないと、血恁糖値が下がるから、午前葬はずっと頭がぼーっとして、ウトウト眠くなっちゃうんだって」",
     "\"If you don't eat when you get up, your blood sugar will dip, and you'll be out of it and sleepy all morning.\""),
     # "If you don't eat anything in the morning, your blood sugar levels will drop, so your mind will be awkward at morning funerals, and you'll be sleepy and your phlegm is gone."
 
-    ("「へえ、そうなのか。なるほどな。どおりで最近、潤居眠りが多い墲わけだ。なんだ、朝£メシのせいだったのか」",
+    ("「へえ、そうなのか。なるほどな。どおりで最近、潤居眠りが多いわけだ。なんだ、朝メシのせいだったのか」",
     "\"Huh, really? I see. That'd explain why I've been napping so much lately. Skipping breakfast does that?\""),
     # "Oh, is that so? I see. As expected, I've been getting a lot of sleep in the mornings these days. What's that because of the morning meal?"
 
@@ -688,7 +688,7 @@ text_array = [
     "\"Eating is one thing, but cooking first thing in the morning is a pain.\""),
     # "It's okay to eat, but it's a hassle to prepare it yourself. It's all morning."
 
-    ("ひとり暮逡らしのオレには、当然、朝£メシをｍってくれる人間煌もいない。",
+    ("ひとり暮逡らしのオレには、当然、朝メシをｍってくれる人間煌もいない。",
     "I live alone, so there's obviously no one to make breakfast for me."),
     # Of course, I don't have anyone who will give me the morning meal, as I'm a bit hesitant to spend time alone.
 
@@ -716,7 +716,7 @@ text_array = [
     "\"Fine, then what if I came and cooked for you starting tomorrow?\""),
     # "That's fine. If that's the case, should I come and go and ask you to come and listen?"
 
-    ("「お前が？	朝£メシを？」",
+    ("「お前が？	朝メシを？」",
     "\"You would seriously make breakfast for me?\""),
     # "You? Have a meal for the morning?"
 
@@ -724,7 +724,7 @@ text_array = [
     "\"Okay.\""),
     # "Yeah"
 
-    ("あかりが朝£メシを…か。",
+    ("あかりが朝メシを…か。",
     "Akari making me breakfast?"),
     # Akari eats the morning meal…
 
@@ -732,7 +732,7 @@ text_array = [
     "Hm, not a bad suggestion."),
     # Hmm, not a bad suggestion.
 
-    ("なにを隠そうあかりは、それだけが取闔り柄だっていうくらいに料摎理が得意なのだ。",
+    ("なにを隠そうあかりは、それだけが取り柄だっていうくらいに料摎理が得意なのだ。",
     "If Akari's good at anything, it's cooking."),
     # Akari is so good at paying attention to what he should be hiding.
 
@@ -740,7 +740,7 @@ text_array = [
     "We've known each other for long enough that she knows just what I like too."),
     # Thanks to the long-term match, I fully understand my taste and hot springs.
 
-    ("これを断髓る揩理由はない。",
+    ("これを断髓る理由はない。",
     "I have no reason to say no."),
     # There is no reason to dismiss this.
 
@@ -828,7 +828,7 @@ text_array = [
     "\"Aww, why?\""),
     # "Eh?"
 
-    ("「そんな≠早く起きられるか。だったら自分でパンかなにかテキトーに食うって。とにかく朝£メシ食えば文蝠句ねーんだ？」",
+    ("「そんな≠早く起きられるか。だったら自分でパンかなにかテキトーに食うって。とにかく朝メシ食えば文蝠句ねーんだ？」",
     "\"I can't wake up that early. I'll just eat some bread or whatever. You don't care as long as I eat something, right?\""),
     # "Can I wake up earlier than that? If that's the case, I'll eat bread or something casually on my own. If I just eat the breakfast, then I'll have no singular slogans."
 
@@ -953,15 +953,15 @@ text_array = [
     "At any rate, spring has come again."),
     # Anyway, spring has come to tamper with it again.
 
-    ("オレたちの通う高校は、坂を登った高台の繧上にある。",
+    ("オレたちの通う高校は、坂を登った高台の上にある。",
     "Our high school's at the top of a hill."),
     # The B high school we attend is located on the B rumination platform after climbing the Hikarizaka.
 
-    ("だから朝はてくてくと長い坂道を登逑らねばならず、それが汲結構しんどかったりする。",
+    ("だから朝はてくてくと長い坂道を登逑らねばならず、それが結構しんどかったりする。",
     "That means we have to climb a long way uphill every morning, and it's pretty exhausting."),
     # That's why in the morning, I have to climb a long hill, which can be quite difficult.
 
-    ("でもまあ、そのおかげで、都悼の墲わりにはグラウンド焜も広いし、環境煖もいいので、少々のことは目をつぶることにしている。",
+    ("でもまあ、そのおかげで、都悼のわりにはグラウンドも広いし、環境もいいので、少々のことは目をつぶることにしている。",
     "However, it's a nice spot, and it means our sports field is larger than those of most other city schools, so it's an easy problem to ignore."),
     # And thanks to that, despite the city's memorial service, the banquet round section is spacious and the environment is good, so I've decided to turn a little off.
 
@@ -985,7 +985,7 @@ text_array = [
     "I stop running and begin walking at a normal pace."),
     # I stopped tampering with the demon run skull and switched to normal speed of walking.
 
-    ("呼吸を獅落ちｒけて、縺後撃を振關り返髟る。",
+    ("呼吸を落ちｒけて、縺後撃を振關り返髟る。",
     "My breathing calms as I look behind me."),
     # He breathes down and shouts after the blow.
 
@@ -997,7 +997,7 @@ text_array = [
     "*huff, huff*"),
     # "…Huh, huh."
 
-    ("苦しそうに肩を繧上下させる、あかり。",
+    ("苦しそうに肩を上下させる、あかり。",
     "Her chest is heaving."),
     # Light moves her shoulders up and down in pain.
 
@@ -1041,11 +1041,11 @@ text_array = [
     "Hey, Yuki, isn't that Shiho?"),
     # "Hey, you're out there, Shiho, don't you pick it, don't you have phlegm?"
 
-    ("見骭ると、うむ、たしかに見慣れた繧後撃姿があった。",
+    ("見骭ると、うむ、たしかに見慣れた後撃姿があった。",
     "I look and see someone familiar from behind."),
     # When I looked at it, I saw a familiar sight of the scene after the scene.
 
-    ("пヤツとはｒ学からのつき№合いだ、いまさら見間瘧違うはずもない。",
+    ("пヤツとはｒ学からのつき№合いだ、いまさら見間違うはずもない。",
     "I've known her since middle school, so of course I recognize her."),
     # He is a great match for R-School students, and there is no way he can't be different now.
 
@@ -1109,7 +1109,7 @@ text_array = [
     "Look at the time. We're not late yet."),
     # Watching the clock, watch.I still have time for it."
 
-    ("「あらホント。おっかしい墲わねぇ、んじゃ、時計のほうが遅れてんのかしら？」",
+    ("「あらホント。おっかしいわねぇ、んじゃ、時計のほうが遅れてんのかしら？」",
     "Oh, you're right. That's weird. So, is it the clock that's running late or something?"),
     # "Oh, really. You're so gross, I wonder if the clock is slower?"
 
@@ -1157,7 +1157,7 @@ text_array = [
     "Hah. What a dumb thing to say. The day you're top student is the day this school-and maybe even the whole country-is doomed."),
     # "Ha, don't be stupid. I'll have to take the example of something like that, and this school, or Cao Guo, will collapse."
 
-    ("「あんたに言甯われたくない墲わよ！」",
+    ("「あんたに言甯われたくないわよ！」",
     "You're the last person who should be talking to me that way!"),
     # "I don't want you to say anything!"
 
@@ -1169,7 +1169,7 @@ text_array = [
     "Akari steps in at the perfect moment."),
     # At the right time, Kari breaks in and gets in.
 
-    ("£学條時緕代からのおなじみパターンだ。",
+    ("学條時緕代からのおなじみパターンだ。",
     "This now-familiar pattern of behavior has been repeating itself since middle school."),
     # This is a familiar pattern that has been around since Gakujo Tokikayo.
 
@@ -1177,7 +1177,7 @@ text_array = [
     "Shiho and Akari have opposite personalities and interests, but for some reason they always get along strangely well."),
     # Shiho and Akari, these two, who are completely opposite in terms of ℃ and their personality, have been strangely close for some reason for a long time.
 
-    ("おたがい、不思議と馬が№合うらしく、£学からずっと親友をやっている。",
+    ("おたがい、不思議と馬が№合うらしく、学からずっと親友をやっている。",
     "They seem to have some baffling sort of compatibility and have been best friends since middle school."),
     # It seems that people are strangely suited to horses, and they've been tampering with their best friends ever since they were studying.
 
@@ -1202,7 +1202,7 @@ text_array = [
     "Look at that! Associating with you is gonna make me late too."),
     # "Look, take a look. If you pester me with you, you'll just chopped it late after all."
 
-    ("「オ＜メーがペラペラと揩喋ってっからだ！」",
+    ("「オ＜メーがペラペラと喋ってっからだ！」",
     "It's your fault for not shutting up!"),
     # "Oh<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
@@ -1210,7 +1210,7 @@ text_array = [
     "Anyway, we have to hurry!"),
     # "More than that, you should hurry up too!"
 
-    ("全力疾鮪走で校蜊門までやってきた。",
+    ("全力疾鮪走で校門までやってきた。",
     "We race to the gate."),
     # He even fumbled at the school gates with his full sprint.
 
@@ -1234,7 +1234,7 @@ text_array = [
     "C'mon, better hurry or the teacher's gonna close it on you!"),
     # "Here you go, please, = I'll close the gates by the teacher, don't let it go quickly."
 
-    ("遅れたふたりにそう言いながら、校蜊門をくぐったとき｢｢。",
+    ("遅れたふたりにそう言いながら、校門をくぐったとき｢｢。",
     "I shout back to my slower friends as I pass through the gate and…"),
     # As he said to the two who were late, he passed through the school gates, ".
 
@@ -1258,7 +1258,7 @@ text_array = [
     "She's so light that instead of a collision, it ends up being a situation where I basically shove her forwards."),
     # As the Kaji Concert was the next girl, her weight was lighter, and she wasn't hit by a bump, but rather she thrusts her way through.
 
-    ("浴女生徒はなんのｒ抗熏もなく倒齠れ、地面に尻餅をついた。",
+    ("女生徒はなんのｒ抗熏もなく倒齠れ、地面に尻餅をついた。",
     "She immediately falls to the ground and ends up on her bottom."),
     # The female bather was defeated without any urges, and her butt fell on the ground.
 
@@ -1274,7 +1274,7 @@ text_array = [
     "I've really screwed this one up."),
     # There's phlegm over there, I did it.
 
-    ("閨手に揩持ってた鞄が、あんなとこまで飛んじまってるよ。",
+    ("閨手に持ってた鞄が、あんなとこまで飛んじまってるよ。",
     "Her bag flies through the air and lands pretty far away."),
     # The bag I was holding in my hand was flying to that point.
 
@@ -1294,7 +1294,7 @@ text_array = [
     "The first thing that catches my eye is her lustrous black hair."),
     # The first thing that caught my eye was her beautiful, bright black hair.
 
-    ("艨ゆるやかにウェーブのかかった長い髪が、陽射しを跳ねて柔迴らかく輝いて見えた。",
+    ("艨ゆるやかにウェーブのかかった長い髪が、陽射しを跳ねて柔らかく輝いて見えた。",
     "The long, wavy hair reflects the sunlight and appears to glow softly."),
     # Her long, wavy hair looked soft and gentle, bouncing through the sunlight.
 
@@ -1322,7 +1322,7 @@ text_array = [
     "…"),
     # "…"
 
-    ("浴女生徒は倒齠れたまま、きょとんと、なにがあったのか墲わからないような顔をしている。",
+    ("女生徒は倒齠れたまま、きょとんと、なにがあったのかわからないような顔をしている。",
     "The girl remains on the ground looking confused."),
     # The bather student, still in lieu of a slut, looked at him as if he had no idea what had happened.
 
@@ -1338,7 +1338,7 @@ text_array = [
     "…"),
     # "…"
 
-    ("だが、浴女生徒はなにも嘯答えず、じぃーっとオレの顔を見つめて動かない。",
+    ("だが、女生徒はなにも嘯答えず、じぃーっとオレの顔を見つめて動かない。",
     "However, rather than answer, she just stares at my face."),
     # However, the bather student didn't answer anything, and instead stared at my intense face and didn't move.
 
@@ -1350,7 +1350,7 @@ text_array = [
     "…"),
     # "…"
 
-    ("梶投げかける無言の汲視諮。",
+    ("梶投げかける無言の視諮。",
     "She gazes at me in silence."),
     # He silently sniffed the kaji.
 
@@ -1366,7 +1366,7 @@ text_array = [
     "…"),
     # "…"
 
-    ("よく墲わからないが、ただなんとなく見つめ№合ってしまう。",
+    ("よくわからないが、ただなんとなく見つめ№合ってしまう。",
     "For some reason I don't understand, we just stare at each other."),
     # I don't really understand the name, but somehow I look at him and get the right choice.
 
@@ -1386,7 +1386,7 @@ text_array = [
     "Her weird behavior seems to be contagious."),
     # Without thinking about it, I was forced to join this person's miscellaneous land.
 
-    ("朝の校蜊門で、いったいなにやってんだか。",
+    ("朝の校門で、いったいなにやってんだか。",
     "What are we doing, acting this way in front of the gate when school is about to start?"),
     # What exactly are you doing at the school gates in the morning?
 
@@ -1402,7 +1402,7 @@ text_array = [
     "…"),
     # "…"
 
-    ("浴女生徒は、伸ばしたオレの手をじぃーっと見つめた。",
+    ("女生徒は、伸ばしたオレの手をじぃーっと見つめた。",
     "She stares at my hand."),
     # The female bather looked at my hardcore hand, which she stretched out.
 
@@ -1442,7 +1442,7 @@ text_array = [
     "She slowly grips my hand."),
     # I slowly shave my hardcore hand.
 
-    ("オレは彼濫女の手を引いて起き繧上がらせた。",
+    ("オレは彼女の手を引いて起き上がらせた。",
     "I pull her to her feet."),
     # I pulled out the hand of the woman and made her wake up.
 
@@ -1454,7 +1454,7 @@ text_array = [
     "…"),
     # "…"
 
-    ("オレが聞いても、浴女生徒は何煢も嘯答えない。",
+    ("オレが聞いても、女生徒は何煢も嘯答えない。",
     "She won't respond."),
     # My ecstatic listened, but the bathing student couldn't answer any questions.
 
@@ -1474,13 +1474,13 @@ text_array = [
     "I-Is she just a freak?"),
     # Well, is it really a weird thing?
 
-    ("ふと見骭ると、彼濫女のスカートにチラチラと細かい砂がついていた。",
+    ("ふと見骭ると、彼女のスカートにチラチラと細かい砂がついていた。",
     "I notice a little sand on her skirt."),
     # When I looked over, I saw that the girl's skirt was covered in fine sand.
 
-    ("「あ、そこ、♂俾奄ﾄるぜ」",
+    ("「あ、そこ、雅俾奄ﾄるぜ」",
     "Oh, you got dirty."),
-    # "Ah, I'll go to the ♂間."
+    # "Ah, I'll go to the 雅間."
 
     ("オレが指差すと、",
     "I point."),
@@ -1490,11 +1490,11 @@ text_array = [
     "…"),
     # "…"
 
-    ("浴女生徒はチラッとそれを見たものの、とくに払おうともせず、また汲視諮を戻した。",
+    ("女生徒はチラッとそれを見たものの、とくに払おうともせず、また視諮を戻した。",
     "The girl glances at the sand, but doesn't bother to wipe it off before looking back at me."),
     # The female student saw the feast at the banquet, but did not even try to pay, so he returned the advice of the student to take the exam.
 
-    ("「ほらっ、そこ、♂俾奄ﾄるって」",
+    ("「ほらっ、そこ、雅俾奄ﾄるって」",
     "Look, it's dirty."),
     # "Look, it's gonna go there."
 
@@ -1522,7 +1522,7 @@ text_array = [
     "it's bugging me!"),
     # Plump.
 
-    ("イライラしたオレは、閨手で彼濫女のスカートのｉ俾奄を払った。",
+    ("イライラしたオレは、閨手で彼女のスカートの俾奄を払った。",
     "Fed up, I brush the dirt off her skirt."),
     # After a banquet and banquet, I wore a girl's skirt with her arms.
 
@@ -1542,7 +1542,7 @@ text_array = [
     "Uh, are you mad? Is that why you won't talk to me?"),
     # "Um, maybe you're angry? You're angry, so don't you talk to me?"
 
-    ("そう聞くと、彼濫女は首を横に振った。",
+    ("そう聞くと、彼女は首を横に振った。",
     "She shakes her head."),
     # When he heard this, the woman shook her head.
 
@@ -1582,11 +1582,11 @@ text_array = [
     "…"),
     # "…"
 
-    ("オレは片阨手を繧上げると、未だにじぃーっとこっちを見つめる彼濫女に背をｌけ、その場を獅去った。",
+    ("オレは片阨手を上げると、未だにじぃーっとこっちを見つめる彼女に背をｌけ、その場を去った。",
     "She keeps staring at me as I wave and turn to leave."),
     # I lifted my arms up, and then he turned away from the man who was still staring at me, and left the scene.
 
-    ("靴を嘯履き替えて、廊下に繧上がったとき、",
+    ("靴を嘯履き替えて、廊下に上がったとき、",
     "I change into my school shoes and start walking down the "),
     # When I changed my shoes and went up into the hallway,
 
@@ -1594,7 +1594,7 @@ text_array = [
     "hallway."),
     # "Choosh.
 
-    ("来栖瑞くるすが墲わさん、転んでケガとかしなかった？」",
+    ("来栖瑞くるすがわさん、転んでケガとかしなかった？」",
     "Yuki, was Kurusugawa okay? She didn't get hurt when she fell?"),
     # Kurusu Mizukurusu, did Tsuwa-san fall and get injured?”
 
@@ -1602,7 +1602,7 @@ text_array = [
     "Akari asks me."),
     # Akari asked.
 
-    ("「あん？	くるすが墲わ？」",
+    ("「あん？	くるすがわ？」",
     "What? Kurusugawa?"),
     # "Huh? You're coming, huh?"
 
@@ -1610,7 +1610,7 @@ text_array = [
     "Yeah, the girl you bumped into."),
     # "Yeah. He's the one who's been bumping into me now."
 
-    ("「彼濫女、くるすが墲わってのか？」",
+    ("「彼女、くるすがわってのか？」",
     "Her name's Kurusugawa?"),
     # "Is the overwhelmed woman a slut?"
 
@@ -1622,7 +1622,7 @@ text_array = [
     "Nope."),
     # "I don't know.
 
-    ("会ったこともなけりゃ、聞くのも見たのも奄初めてだ。くるすが墲わ？	なんだか珍しい名前だなぁ」",
+    ("会ったこともなけりゃ、聞くのも見たのも奄初めてだ。くるすがわ？	なんだか珍しい名前だなぁ」",
     "Never seen or heard of her. Kurusugawa's a pretty uncommon name."),
     # It's the first time I've ever met, I've heard it or seen it, and it's the first time I've ever seen it.Is it a roar?It's a rather unusual name."
 
@@ -1642,7 +1642,7 @@ text_array = [
     "Nobody asked for your opinion."),
     # "Don't ask me, my name is."
 
-    ("「なによぉ、ひどい言いぐさねぇ。なんにも知迺らない可哀想なアンタに、わざ墲わざ教えてあげようっていうのよ？」",
+    ("「なによぉ、ひどい言いぐさねぇ。なんにも知迺らない可哀想なアンタに、わざわざ教えてあげようっていうのよ？」",
     "You don't have to be mean. If you're just that ignorant, maybe I'll be so generous as to teach you."),
     # "What, you're saying so badly. I'm going to deliberately teach you, the poor guy who doesn't know anything about?"
 
@@ -1658,7 +1658,7 @@ text_array = [
     "What a pointless job."),
     # It's a really silly status.
 
-    ("「アンタ焜も知闥りたい薰情報があったら、気軽に聞いていい墲わよ。志保ちゃんネット純ワークは、あらゆる薰情報のホットステーションだから翌＠」",
+    ("「アンタも知闥りたい薰情報があったら、気軽に聞いていいわよ。志保ちゃんネット純ワークは、あらゆる薰情報のホットステーションだから翌＠」",
     "If there's anything you want to know, feel free to ask me. The Shiho Network is a hotspot for all kinds of info"),
     # "If you have any information you want to know, you can feel free to ask us. Shiho Chisho-yan Network is a hot station for all sorts of information, so the next day is."
 
@@ -1675,483 +1675,490 @@ text_array = [
     # "I'll tell you the phlegm, but @Suzui-senpai-senpai-san lol Suzui is the lol Suzui-san lol from @Suzui Denko, lol Suzui-Keiko, and @Suzui-Ryu Bank.
 
     ("来栖瑞グループって知ってる？」",
-    "Yeah, even I've heard of them. Huh, so she's one of those Kurusugawas?"),
+    "Yeah, even I've heard of them."),
     # Do you know about Kurusu Mizuguruloop?”
 
     ("「そりゃ、いくらオレでも知ってるさ。へえ、あのｗ栖瑞か」",
-    ""),
+    "Huh, so she's one of those Kurusugawas?"),
     # "Not so much phlegm, I know how hard it is, I know Hoo. Wow, that lol Suzui?" 
 
-    ("「そうよ。テレビでも奄ラジオでも、バンバンＣＭやってる、あの有名なｗ栖瑞謳よ。そこのｉ長さんが、なにを隠そう、芹°香さんの実の祖ヱ父ってんだから驚きでしょ？」",
-    ""),
+    ("「そうよ。テレビでも奄ラジオでも、バンバンＣＭやってる、あの有名なｗ栖瑞謳よ。そこの長さんが、なにを隠そう、芹°香さんの実の祖ヱ父ってんだから驚きでしょ？」",
+    "Yep, the famous Kurusugawas with all the commercials on the radio and TV. The CEO happens to be Serika's grandfather. Crazy, right?"),
     # "That's right. The famous lol Suzumi sung that has been messing up all the commercials in TV dramas, including Ho and Amami Radio, is a huge hit. I'm surprised that I-chan is the father of Seri° Ka's life, isn't it?"
 
     ("「はあ〜」",
-    ""),
+    "I guess."),
     # "Ahhh."
 
-    ("「つまり、アンタはさっき、い墲わば経済界のプリンセスともいうべき翌女性を、思いっきり地面に突き飛ばしたのよっ！」",
-    ""),
+    ("「つまり、アンタはさっき、いわば経済界のプリンセスともいうべき翌女性を、思いっきり地面に突き飛ばしたのよっ！」",
+    "So basically, you just knocked a modern-day princess to the ground!"),
     # "In other words, you just thrust the next woman, who could have been called Princess of the business world and was also called the Princess of the business world, to the ground as hard as you could!"
 
     ("「…だ、だからなんだよ」",
-    ""),
+    "S-So what?"),
     # "…That's why."
 
     ("「ふふふ、あんた、今骰夜あたり浮黒檮服の男たちに命を狙岺われたりするかもね？」",
-    ""),
+    "Hehehe, men in black might be coming to get you tonight."),
     # "Hahaha, you're probably going to be targeted by the men in black-clothed clothes around the night, right now?"
 
     ("志保は目を細めて、いっひっひ、と笑った。",
-    ""),
+    "Shiho narrows her eyes and cackles."),
     # Shiho squinted her eyes and chuckled.
 
     ("「…こ、恐えコト言うなよ。シャャレになってねーだ」",
-    ""),
+    "D-Don't scare me like that. It's not funny."),
     # "…Don't say anything terrifying. Char's not going to be a real slut b"
 
     ("「それにしてもｗ栖瑞さんって、いつ見ても綺淏麗譌よね」",
-    ""),
+    "Isn't Kurusugawa pretty, though?"),
     # "And then, Hoo is lol, when is Hoo so beautiful?"
 
     ("物尓騒な話をやめて、あかりが言った。",
-    ""),
+    "Akari says, diverting the conversation into a less distressing direction."),
     # Stop tampering with the crazy stuff Akari said.
 
     ("「本末当にｔ人って感じ。あの綺淏麗な髪とか、憧齠れちゃうなあ」",
-    ""),
+    "She's so beautiful. I wish I had pretty hair like hers."),
     # "I feel like I'm a T-person, right? I'm excited about those gorgeous hair."
 
-    ("「そりゃ、筋煖金挙闢りのおｏ様だもん、一般人なんかと比較しちゃダ＜メ諠よ」",
-    ""),
+    ("「そりゃ、筋金りのおｏ様だもん、一般人なんかと比較しちゃダ＜メ諠よ」",
+    "Well, she's one of the richest girls around. You can't compare yourself to her as a normal person."),
     # "You're the one who's got a lot of money, you're the one who's got a lot of money, and compare it to the average person, so you're the one who's got a lot of money."
 
     ("「ほんとだねー」",
-    ""),
+    "You're right about that!"),
     # "That's true" 
 
     ("「…けどさ、あんまり大きな声じゃ言えないんだけど｢｢」",
-    ""),
+    "But still, and don't tell anyone I told you this…"),
     # "…But I can't speak loudly and say ""
 
     ("そう言うと、志保はさっと辺阨りを見回し、声を潜めた。",
-    ""),
+    "Shiho looks around and lowers her voice."),
     # With that in mind, Shiho quickly looked around and threw away.
 
-    ("「｢｢あのおｏ様、なんでも、かなりの変人逅らしい墲わよ」",
-    ""),
+    ("「｢｢あのおｏ様、なんでも、かなりの変人逅らしいわよ」",
+    "She seems like a huge weirdo."),
     # ""Oh, why is it so strange that even Hoo is a pretty weirdo-like thing?"
 
     ("「え？」",
-    ""),
+    "What?"),
     # "picture?"
 
     ("「同じ二年の人に聞いたんだけど、あの人、あやしいオカルト関係にハマッてるあっち系の人なんだってぇ」",
-    ""),
+    "I heard from another junior that she's a weirdo who's into freaky occult stuff."),
     # "I asked someone from the same two years ago, and he's a guy over there who's addicted to the tampering-free oka-crying relationship."
 
     ("「オカルト？」",
-    ""),
+    "Occult stuff?"),
     # "Oka-shiruto?"
 
-    ("「うん、幽覧とか浮黒ｍ魔術とか、そういった類のрヤツほぼ全般。ホラ、文化秤部に、なんだかよく墲わかんないけど、オカルト研結級ってのがあんじゃない？」",
-    ""),
+    ("「うん、幽覧とか浮黒ｍ魔術とか、そういった類のрヤツほぼ全般。ホラ、文化秤部に、なんだかよくわかんないけど、オカルト研結級ってのがあんじゃない？」",
+    "Yeah, like ghosts, black magic, all those kinds of things. I don't know much about it, but you know how there's an Occult Research Club here?"),
     # "Yeah, almost all kinds of р stuff like Yuzura and Ukiko M magic. I don't really know what's going on in the Cultural Scaling Club, but isn't Oka Kyuruto Ken Yue-class phlegm?"
 
     ("「うん、あるある」",
-    ""),
+    "Yeah, I've heard of it."),
     # "Yeah, that's true."
 
     ("「あの人、なんでもそのクラブの部員辷らしいのよね。",
-    ""),
+    "She's supposedly a member."),
     # "Why is that person so apparently a member of that club member of the banquet love?
 
-    ("やっぱ、筋煖金挙闢りのおｏ様だけに、℃味とかも墲常人とはちょっとかけ離齬れてたりするのかもねぇ」",
-    ""),
+    ("っぱ、筋金入りのお嬢様だけに、趣味とかも常人とはちょっとかけ離れてたりするのかもねぇ」",
+    "Maybe super rich girls have super weird hobbies too."),
     # After all, O-san is a fan of the genius, so the °C flavor and hot weather are probably getting mixed up with ordinary people, and it's not like they're in a sloppy mind."
 
-    ("「人のう墲わさ話がｎ味ってよりは、よっぽどハイセンスだけどな」",
-    ""),
+    ("「人のうわさ話がｎ味ってよりは、よっぽどハイセンスだけどな」",
+    "It's a much classier hobby than gossip."),
     # "It's more of a sense of high-quality than the fact that people's stories are n-sense."
 
     ("「ちょっと、それどー艨ゆーイミ？」",
-    ""),
+    "Hey, what's that supposed to mean?"),
     # "What does that mean?!"
 
     ("「じゃ、ちゃん、ここで」",
-    ""),
+    "Bye, Yuki."),
     # "A phlegm, a phlegm, here."
 
     ("Ａ組の教室前で、あかりが言った。",
-    ""),
+    "We're at the door to Class A's homeroom."),
     # Akari said in front of Class A's classroom.
 
     ("「おう」",
-    ""),
+    "See you later."),
     # "Ou"
 
     ("オレはＡ組だが、あかりと志保のふたりはＣ組だ。",
-    ""),
+    "I'm in Class A, but Akari and Shiho are in Class C."),
     # I'm in Group A, but Akari and Shiho are in Group C.
 
     ("だからここでお別れだ。",
-    ""),
+    "So, we have to part ways here."),
     # So here's a goodbye.
 
     ("「しっかり勉強しなさいよ、。",
-    ""),
+    "Try and actually learn something, Hiro."),
     # "Study thoroughly.
 
-    ("授業拠、いつも寝てばっかりじゃ、あんただけ二年に繧上がれない墲わよ」",
-    ""),
+    ("授業拠、いつも寝てばっかりじゃ、あんただけ二年に上がれないわよ」",
+    "If you just sleep through every class, you'll be the only one getting held back."),
     # The lesson is always the one to sleep, and you're the only one who can't get enough of it in two years."
 
     ("「けっ、氏落譌第候竚補ベスト１０のお前に言甯われたかねーぜ。人のことより、てめーの心配をしやがれってんだ」",
-    ""),
+    "Meh, you're one of the top ten worst students here. Maybe worry about yourself."),
     # "Ah, I wonder if you've been told by you, the top 10 people in the Osamusic Top 10. You're more worried about people than you, but you're just trying to make me feel more worried."
 
     ("「なっ、なんですってぇ〜！」",
-    ""),
+    "H-How dare you!"),
     # "What, what!"
 
     ("キーンコーンカーンコーン。",
-    ""),
+    "*ding, dong, ding, dong*"),
     # Keen corn khan corn.
 
     ("「志保、ほら、ホームルームが始まるよ」",
-    ""),
+    "Shiho, homeroom's starting."),
     # "Shiho, you see, the Home Cry Room is beginning."
 
     ("「くっ、このぉーっ、おぼえておきなさいよ、閨！」",
-    ""),
+    "Urgh, you'll pay for that, Hiro!"),
     # "Damn, oh oh, remember it, sir!"
 
     ("捨てぜりふを残した志保は、あかりといっしょにＣ組へとｌかった。",
-    ""),
+    "Shiho heads to Class C with Akari."),
     # Shiho, who left behind a throwaway, joined Akari and Group C.
 
     ("「さーてと…」",
-    ""),
+    "Now then…"),
     # "Well then…"
 
-    ("うるさいのを見洛送って一息つくと、オレ焜も自分の教室に入った。",
-    ""),
+    ("うるさいのを見洛送って一息つくと、オレも自分の教室に入った。",
+    "I see the annoying one off and sigh with relief before entering my classroom."),
     # I saw the loud noise and took a break, and my slaughter entered my classroom.
 
     ("まだ先生のｗていない教室は、潤ワイ純ワイと賑笂やかだった。",
-    ""),
+    "The teacher hasn't arrived yet, and everyone is talking and laughing."),
     # The classroom where the teacher hadn't yet been lol was lively and lively.
 
-    ("うちの担任は汲結構牛ルーズな性格で、ホームルームにはいつも遅れてくる。",
-    ""),
+    ("うちの担任は結構牛ルーズな性格で、ホームルームにはいつも遅れてくる。",
+    "Our homeroom teacher is pretty laid back and always late."),
     # My homeroom teacher has a rather loose personality, and the house is always slow to fall in love with the home crying room.
 
     ("まあ、こっちとしては大舞助かりなんだが。",
-    ""),
+    "Not that I have a problem with that."),
     # Well, this is a relief for Ebi Daimai.
 
     ("自分の席へとｌかう途湯、",
-    ""),
+    "On the way to my desk…"),
     # The way to the bathhouse goes to my seat,
 
     ("「ハァイ！	グッドｃモーニン、！」",
-    ""),
+    "Hey! Good morning, Hiroyuki!"),
     # "Haaaaah! Good c Morning!"
 
     ("そんな元気な声に呼び止められた。",
-    ""),
+    "A cheerful voice stops me."),
     # I was stopped by such a cheerful voice.
 
-    ("振關りｌくと、そこには、同じクラスの宮煖内みやうち",
-    ""),
+    ("振關りｌくと、そこには、同じクラスの宮内みやうち",
+    "I turn and see my classmate, Lemmy Miyauchi,"),
     # When I heard the message, I saw that there was a tampering inside the palace of the same banquet.
 
-    ("レミィの笑迴顔があった。",
-    ""),
+    ("レミィの笑顔があった。",
+    " smiling at me."),
     # There was Remy's laughter.
 
-    ("「オッス、戟レミィ、グッドｃモーニン」",
-    ""),
+    ("「オッス、レミィ、グッドｃモーニン」",
+    "Hey, Lemmy. Good morning."),
     # "Ohs, ohs, ohsremy, good c Morning."
 
-    ("オレは下濶手くそな英皷語と笑迴顔でこたえた。",
-    ""),
+    ("オレは下濶手くそな英皷語と笑顔でこたえた。",
+    "I smile back at her."),
     # My guts answered with a silly English-language and a laughing face.
 
     ("いつも元気で陽気な撃レミィは、ア＜メリカはカリフォルニア生まれの冾日系ハーフだ。",
-    ""),
+    "Cheerful and friendly, Lemmy is a half-Japanese American girl from California."),
     # Ekiremi is always cheerful and cheerful, and American is a half-Japanese born in Kagata Rifo-rynia.
 
-    ("輝くブ鴻ロンドヘアーにセー堰ラー服、クラスでもひとき墲わ目立つ存在だ。",
-    ""),
+    ("輝くブ鴻ロンドヘアーにセー堰ラー服、クラスでもひときわ目立つ存在だ。",
+    "The combination of her shiny blonde hair and uniform make her stand out among the class."),
     # She has shining blunt hair, a sailor uniform, and a banquet with a particularly noticeable presence.
 
-    ("戟レミィがひとりいるだけで、うちのクラス焜もいっきにインターナショナルな感じになる。",
-    ""),
+    ("レミィがひとりいるだけで、うちのクラスもいっきにインターナショナルな感じになる。",
+    "Somehow, Lemmy's presence alone is enough to lend our class a somewhat international feel."),
     # Just having one Remy makes my banquet seem like I'm crying at the same time.
 
     ("「先生雛てないけど、遅薯刻だｃ。",
-    ""),
+    "The teacher's not here, but you're still late."),
     # "Ishi-sensei's not a Hinata, but it's a late potato chopped c.
 
     ("もっと≠早くｗないとダ＜メだｃ」",
-    ""),
+    "You've gotta get to school earlier."),
     # If you don't want to be quicker, you'll be dead c."
 
     ("「まあ、そう言うなよ。今朝はちょっとしたアクシデントがあったんだ」",
-    ""),
+    "Hey, gimme a break. I had a little accident this morning."),
     # "Well, don't say that. There was a terrifying accident this morning."
 
-    ("「＝ａモｃモｃ奄ｉрｄ獅ｎｔ？」",
-    ""),
+    ("「ａｃｃｄｅｎｔ？」",
+    "Accident?"),
     # "=a moc moc amap db lion?"
 
     ("「そうそう、＠磯翌體r湯、ちょっとした魔事故にｑっちまってな。前羡方不黒注意で正面衝突だ」",
-    ""),
+    "Yep, I wasn't looking where I was going and there was a collision."),
     # "That's right, @Isodomo Ryu, you're in the midst of a crazy accident. You're not careful about the front-end collision and you're going to have a head-on collision."
 
     ("「ショー＝メンショートツ！？	、自動車にハネ辜られたの！？」",
-    ""),
+    "Collision?! Don't tell me you got run over by a car?!"),
     # "She's a man!? Did you get dumped by a car?!"
 
     ("「瘁違う、瘁違う。人間同士だ、人間同士」",
-    ""),
+    "Nah, no motor vehicles involved. It was a collision with another person."),
     # "It's not mirage, it's not mirage. It's humans, it's both humans."
 
     ("「なんだ、ビックリした」",
-    ""),
+    "Oh, you scared me."),
     # "What, it's a big latitude."
 
-    ("戟レミィはホッと息を吐いた。",
-    ""),
+    ("レミィはホッと息を吐いた。",
+    "Lemmy sighs with relief."),
     # Karemi let out a sigh of relief.
 
-    ("「まっ、蛛大した勢いじゃなかったし、ケガ焜もなかったけど、そのせいで予定謦よりちょっと遅れちまった」",
-    ""),
+    ("「まっ、蛛大した勢いじゃなかったし、ケガもなかったけど、そのせいで予定謦よりちょっと遅れちまった」",
+    "I mean, we didn't bump each other very hard and nobody got hurt, but that's why I'm a little later than I was supposed to be."),
     # "Well, I didn't have much force and I had no injuries, but because of that, I ended up getting late."
 
     ("「…、アンラッキーね」",
-    ""),
+    "Today's not your lucky day, Hiroyuki."),
     # "…. You're lucky with the unbanquet."
 
     ("「いやぁ。でも、考え方によっちゃ奄ラッキーだったかもしれねーな。なんせ、ぶつかった鰍相闡手が、＃人の先輩だったからな」",
-    ""),
+    "Well, depending on how you think about it, maybe I was lucky. The girl I ran into was a hot junior."),
     # "It's a bit of a problem. And if you think about it, you're lucky if you think about it, you're lucky if you're in the way of good luck. After all, the monk who bumped into me was #human senior."
 
     ("「どーして？	梶相闡手がビジンだったら、ぶつかっただけでも奄ラッキーなの？」",
-    ""),
+    "Why does that make you lucky?"),
     # "What? If Kaji Concert was Vizin, is it just a bump and you're lucky with Amami?"
 
     ("「まーな。だって、いかにもドラマチックな出逢いって感じだ？」",
-    ""),
+    "Well, it was like a dramatic encounter, y'know?"),
     # "Well, right? But how does Hot seem like a banquet-ramatic encounter?"
 
-    ("「…ぶつかった出逢いはрｄ窒ｒ≠ａ高ｍ≠ａｔ奄ｉモｃ？",
-    ""),
+    ("「…ぶつかった出逢いはｄｒａｍａｔｃ？",
+    "Meeting someone by bumping into them is dramatic?"),
     # "…The encounters we encountered were рD nitrogen ≠a high m ≠atamimoc?
 
     ("なるほど、たしかにそうネ。なるほど」",
-    ""),
+    "I see, I guess I can understand why you would say that."),
     # I see, that's true.I see"
 
     ("なにやら妙に納得してうなずく撃レミィ。",
-    ""),
+    "Lemmy nods. Evidently, she agrees with me."),
     # Eki Remi nods in a strange way, oddly agreeing to what he's doing.
 
     ("「だけど、気を付けなきゃダ＜メだｃ。今厓日はたまたまケガしなかったけど、氈次はするかもしれないｃ？」",
-    ""),
+    "But you gotta be more careful. You didn't get hurt this time, but that's no guarantee for next time."),
     # "But, you should be careful not to get phlegm. I just happened to not get injured on the day I was greeted, but I wonder if I'll do it again?"
 
     ("「なんだ、心配してくれんのか？」",
-    ""),
+    "What, you're worried about me?"),
     # "What, are you worried about me?"
 
     ("「トーゼンだよ。",
-    ""),
+    "Totally!"),
     # "It's Tozen.
 
     ("ｃ撃ｌ≠ａ入入高ｍ≠ａｔだｃ？」",
-    ""),
+    "We're classmates!"),
     # C-Take l≠a Tang Iri Tang Iri Tang Iri Tang Iri Tang Iri Tang Iri Tang Iri M≠Atb C?”
 
-    ("戟レミィはにっこり笑ってそう言うと、その場を獅去って行った。",
-    ""),
+    ("レミィはにっこり笑ってそう言うと、その場を去って行った。",
+    "Lemmy says, flashing me a bright smile before walking off."),
     # Karemy smiled and said, then left the scene.
 
     ("メｃ撃ｌ≠ａ入入高ｍ≠ａｔ…か。",
-    ""),
+    "Classmates, huh?"),
     # Mec C-Get l≠a Tang in Tang in Tang high M≠atb…
 
-    ("発音のことはよく墲わからないが、不思議と撃レミィが言うと、冝日本齧語のクラス＜メイトとは意味がまた違って聞こえる。",
-    ""),
+    ("発音のことはよくわからないが、不思議と撃レミィが言うと、冝日本齧語のクラス＜メイトとは意味がまた違って聞こえる。",
+    "I don't know if it's because of her accent, but the way she speaks feels different compared to my other classmates."),
     # I don't really understand the pronunciation, but when Geki Remi says it strangely, the meaning of the Japanese rodent "Kubanrasu" sounded different from the meaning of "Kubanrasu" (mate).
 
     ("なんつーか、より深い№仲間意識を感じるというか。",
-    ""),
+    "It's like it implies a deeper feeling of friendship or something."),
     # In fact, I feel a deeper sense of camaraderie than my name.
 
-    ("それにしても撃レミィのやつ、梶相変﨑わらず流ちょうな冾日本齧語を揩喋髓るな。",
-    ""),
+    ("それにしても撃レミィのやつ、梶相変﨑わらず流ちょうな冾日本齧語を喋髓るな。",
+    "At any rate, Lemmy's fluent Japanese never ceases to amaze me."),
     # And then, Kaji Ai, who is the tampering with Remi, doesn't speak Japanese rodents in a way that's not like it.
 
-    ("聞くとこによるとなんでも母親が冾日本人だって話だが、ずっとア＜メリカにいた墲わりにはうますぎる。",
-    ""),
+    ("聞くとこによるとなんでも母親が冾日本人だって話だが、ずっとア＜メリカにいたわりにはうますぎる。",
+    "I heard her mother is Japanese, but Lemmy's Japanese is shockingly good for someone who lived in America her whole life."),
     # According to what I heard, it is said that Kao's mother is Japanese, but it's too good for the long-awaited man who has been in America for a long time.
 
     ("そういや、小さい頃熏もちょくちょく冾日本に遊びにｗてたとか言ってたか。",
-    ""),
+    "Although, I guess she mentioned occasionally visiting Japan as a kid."),
     # I wonder if they said that when they were little, they were playing around with Japan lol.
 
-    ("とこで、なんだか親しく揩喋っちゃいるが、オレと撃レミィ、じつはそれほど親しい関係って墲わけでもない。",
-    ""),
+    ("とこで、なんだか親しく喋っちゃいるが、オレと撃レミィ、じつはそれほど親しい関係ってわけでもない。",
+    "While she's friendly with me, Lemmy and I aren't actually that close."),
     # In this part, he talks in a friendly way, but I and Ekirei are actually very close and not very close.
 
     ("気さくな撃レミィは、誰に対してでもこんなふうに気軽に話しかけるのだ。",
-    ""),
+    "She's sociable enough to speak casually with anyone."),
     # The friendly Ekiremi speaks to anyone and everyone like this.
 
-    ("戟レミィにとって、オレは、い墲わゆるただのモｃ撃ｌ≠ａ入入高ｍ≠ａｔのひとりでしかないって墲わけだ。",
-    ""),
+    ("レミィにとって、オレは、いわゆるただのモｃ撃ｌ≠ａ入入高ｍ≠ａｔのひとりでしかないってわけだ。",
+    "I'm just another classmate to her."),
     # For the sake of Remi, I am just one of those who are so relaxed and relaxed, but the only one who is the Tang Dynasty in Tang Dynasty in Tang Dynasty in Atb.
 
     ("自分の椅子に、どかっとｍ會高ｺ奄したとき、",
-    ""),
+    "Just as I plop down in my chair…"),
     # When I went to my chair,
 
     ("「おはよう、」",
-    ""),
+    "Hi, Hiroyuki."),
     # "good morning,"
 
     ("と、声をかけてきたのは、あかりに続くオレの幼なじみナンバー２、佐藤",
-    ""),
+    "I'm greeted by my second childhood friend,"),
     # The person who called out to me was Sato, number two of my childhood friends who followed Akari.
 
     ("雅史まさしだった。",
-    ""),
+    "Masashi Sato."),
     # It was Masashi.
 
     ("「オッス」",
-    ""),
+    "Hey."),
     # "Ohs"
 
-    ("オレ焜も笑迴顔でこたえる。",
-    ""),
+    ("オレも笑顔でこたえる。",
+    "I reply with a grin."),
     # My hardcore face also responds with a laughing face.
 
-    ("浴女の子と間瘧違妤われることもしょっち繧ゅうのか墲わいい系の顔、ほがらかで人鱒当たりのいい性格、さらにはサッカー部喆期待の汲ルーキーというおいしい肩糟書きまで揩持つｉ史は、クラスのみんなからも好かれる人気者だ。",
-    ""),
+    ("女の子と間違われることもしょっちゅうのかわいい系の顔、ほがらかで人当たりのいい性格、さらにはサッカー部期待のルーキーというおいしい肩書きまで持つ雅史は、クラスのみんなからも好かれる人気者だ。",
+    "He has a cute, almost girlish face, a bubbly, kind personality,and he's the top rookie on the soccer team. With all that going for him, Masashi is beloved by the whole class."),
     # He has a cute face that is often seen as a bathing girl, a cheerful personality, a cheerful and trout-like personality, and even a delicious rookie who is highly anticipated by the soccer club, making him a popular character who is also popular with everyone at the club.
 
     ("オレとは幼稚園に入體る前からのつき№合いで、なんていうか、弟みたいな存在だ。",
-    ""),
+    "I've known him since before starting kindergarten. He's like a little brother to me."),
     # My gei-re has been a relationship that I've had before I entered kindergarten, and I mean, I'm like a little brother.
 
-    ("実際オレとあかりとｉ史の３人は、小さい頃から兄甯弟のように№仲良くつき№合ってきた。",
-    ""),
+    ("実際オレとあかりと史の３人は、小さい頃から兄甯弟のように№仲良くつき№合ってきた。",
+    "He, Akari, and I have all always been as close as siblings."),
     # In fact, since I was little, the three of us, Ogere, Akari, and Ishi, have been friends with each other like our older brothers.
 
-    ("構図的には、オレが一番續上の兄、真んｒがあかり、一番下がｉ史といった感じか。",
-    ""),
+    ("構図的には、オレが一番續上の兄、真んｒがあかり、一番下が史といった感じか。",
+    "I take the oldest sibling role, Akari is the middle child, and Masashi is the youngest."),
     # In terms of composition, I'm the oldest brother, I think the main character is Akari, and the bottom character is I-His.
 
-    ("もちん今でもその関係は変﨑わらないが、♂史は最近萩部賦が忙しく、前みたくオレたちといっしょにいることはなくなった。",
-    ""),
+    ("もちん今でもその関係は変﨑わらないが、雅史は最近萩部賦が忙しく、前みたくオレたちといっしょにいることはなくなった。",
+    "Our relationship remains the same to this day, but Masashi has been busy with soccer lately, so we can't spend time together like we used to."),
     # Mochib now hasn't changed his relationship with Hoo, but Masochist has been busy with Hagibe Fu recently, and he has not been with us as many as he has before.
 
     ("それでも≠普通の友だち以繹上には親しいが。",
-    ""),
+    "Still, he's one of my closest friends."),
     # So, even though Hou is close to normal friends too.
 
     ("「はい、これ、ありがとう」",
-    ""),
+    "Here, thanks again."),
     # "Yes, thank you for this."
 
-    ("♂史はそう言って、ＣＤを差し出した。",
-    ""),
+    ("雅史はそう言って、ＣＤを差し出した。",
+    "Masashi hands me a CD."),
     # Masumi said this and handed over the CD.
 
     ("見覚えのあるジャャケット。",
-    ""),
+    "It has a familiar cover."),
     # A familiar jacket.
 
     ("この前オレが貸してやったＣＤだ。",
-    ""),
+    "It's a CD I had lent him."),
     # This is a CD that I lent and tampered with.
 
     ("「おう、そういや貸してたな。どうだった？」",
-    ""),
+    "Oh yeah, I forgot I gave this to you. How'd you like it?"),
     # "Oh, you said that and lend me your message. How was it?"
 
-    ("「うん、いい感じ。５回ぐらい聞いたよ」",
-    ""),
+    ("「うん、いい感じ。",
+    "It was pretty good."),
+    ("５回ぐらい聞いたよ」",
+    "I listened to it like five times.")
     # "Yeah, it feels good. I've heard it about five times."
 
     ("「オレは２曲目と３曲目が気に入ってんだ」",
-    ""),
+    "The second and third tracks were my favorites."),
     # "I liked the second and third songs."
 
     ("「うん、僕燒も。あと最纃後の曲かな」",
-    ""),
+    "Yeah, same here. That last track is pretty solid too."),
     # "Yeah, I'm also a song after that."
 
     ("「おう、あれもいいな」",
-    ""),
+    "Mn, that's a good one."),
     # "Oh, that's nice too."
 
-    ("「あ、そういえばいっしょに借闔りたもう一㊧枚の方だけど、志保が貸してほしいって言ってるんだけど、又貸ししていいの？」",
-    ""),
+    ("「あ、そういえばいっしょに借りたもう一㊧枚の方だけど、志保が貸してほしいって言ってるんだけど、又貸ししていいの？」",
+     "「あ、そういえばいっしょに借りたもう一枚の方だけど、志保が貸してほしいって言ってるんだけど、又貸ししていいの？」"
+    "Oh, that reminds me, Shiho wanted to borrow the other CD you lent me. Do you mind if I pass it on to her?"),
     # "Ah, by the way, I've borrowed another Fukukata from Ebi, and Shiho says he wants me to lend him, is it okay to lend him again?"
 
     ("「一争泊１００円でいいならって言っとけ」",
-    ""),
+    "If she'll pay a hundred yen a day for it, sure."),
     # "You should say that 100 yen per night is fine"
 
-    ("幼なじみの、オレ、あかり、♂史。",
-    ""),
+    ("幼なじみの、オレ、あかり、雅史。",
+    "The gang consists of me and my childhood friends, Akari and Masashi,"),
     # My childhood friends, I, Akari, and Masochi.
 
-    ("そして、£学からは志保のрヤツが加妺わって、いまのおなじみの面子がそった。",
-    ""),
-    # Then, from the £School, Shiho's guy came to the public, and the familiar face of today came out.
+    ("そして、中学からは志保のヤツが加わって、いまのおなじみの面子がそろった。",
+    "with Shiho added to the mix from middle school."),
+    # Then, from the School, Shiho's guy came to the public, and the familiar face of today came out.
 
-    ("みんなまとめてこの高校を受験することにｌめたのが、£学３年の秋。",
-    ""),
-    # It was the fall of my third year of £s that everyone was taking the entrance exam for this B High School at once.
+    ("みんなまとめてこの高校を受験することに決めたのが、中学３年の秋。",
+    "We all decided to take this high school's entrance exam in the autumn of our last year of middle school."),
+    # It was the fall of my third year of s that everyone was taking the entrance exam for this B High School at once.
 
-    ("蛛大きく遅れを取っていたオレとそれ以繹上に遅れていた志保が必死の追い繧上げを果たし、なんとか無末事、全員が№合格した。",
-    ""),
+    ("大きく遅れを取っていたオレとそれ以上に遅れていた志保が必死の追い上げを果たし、なんとか無事、全員が合格した。",
+    "I was lagging behind, and Shiho was even further behind than me, but we studied like crazy and all managed to pass the exam."),
     # My veteran, who had been slow to do so, and Shiho, who had been slow to do so, desperately pushed her way, and somehow managed to get through without any problems, and everyone passed the No.
 
-    ("そして迎えた高校生衰だが、＝早くも一年目が終尞わうとしている。",
-    ""),
+    ("そして迎えた高校生活だが、早くも一年目が終わろうとしている。",
+    "Now, we're already closing in on the end of our first year of high school."),
     # And now that he's falling for high school students, he's about to close his first year soon.
 
-    ("＝早いもんだ。",
-    ""),
+    ("早いもんだ。",
+    "Time flies."),
     # =It's quick and fast.
 
     ("ガラガラガラ。",
-    ""),
+    "*rattle, rattle, rattle*"),
     # Gabanquet Ragabanquet Ragabanquet Ragabanquet Ragabanquet Ragabanquet Raga
 
-    ("そのとき戸が開いて、担任の先生が現鼬れた。",
-    ""),
+    ("そのとき戸が開いて、担任の先生が現れた。",
+    "The door opens, and my homeroom teacher appears."),
     # At that moment, the door opened and my homeroom teacher appeared.
 
-    ("「よぉ〜しっ、みんな、席にｒけぇ。出席をとるぞ〜っ」",
-    ""),
+    ("「よぉ～しっ、みんな、席に着けぇ。",
+    "Alright, everyone, sit down!"),
+    ("出席をとる",
+     "It's time to take attendance!"),
+     ("ｼぞ～っ」",
+     "")
     # "My name is, everyone, I'm in my seat. I'll be attending."
 
     ("「じゃ、さっきの、志保にそう言っとくよ」",
-    ""),
+    "Okay, I'll tell Shiho what you said."),
     # "I'll tell Shiho that before."
 
-    ("♂史はそう言って自分の席に戻った。",
-    ""),
+    ("雅史はそう言って自分の席に戻った。",
+    "Masashi returns to his desk."),
     # Masochi said this and returned to his seat.
 
     ("そして、ホームルームが始まった。",
-    ""),
+    "Then, homeroom begins."),
     # And then the Home Cry Room began.
 
 ]

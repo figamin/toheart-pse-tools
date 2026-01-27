@@ -2,7 +2,7 @@
 # Source file: 0393.txt
 
 text_array = [
-    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（選択綜Ａ	いっしょに帰汲うかと誘う）閨（選択綜Ａ	委員長が寂しそうに…）†",
+    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（選択綜Ａ	いっしょに帰うかと誘う）閨（選択綜Ａ	委員長が寂しそうに…）†",
     ""),
     # (Tomoko's Scale Event 2F LV1) (See the Likeability Event 8) (Select A invites you to return to the Episode) (Choice A, Chairman looks lonely...) †
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # I?”
 
-    ("「まあな。たとえば休み桙時間とか、ぽつんとひとりで座ってるだ？	その顔がなんと烽も寂しげなんだよな」",
+    ("「まあな。たとえば休み桙時間とか、ぽつんとひとりで座ってるだ？	その顔がなんとも寂しげなんだよな」",
     ""),
     # "Well. For example, when you're resting, you're sitting alone b? His face looks so lonely, even the chicken."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…クールなｔ少酪女が見せる寂しげな横迚顔。しか烽もすぐ隣の席だぜ？	オレじ痰ゃなくて烽も、男なら冾放っておけないだ」",
+    ("「…クールなｔ少酪女が見せる寂しげな横迚顔。しかもすぐ隣の席だぜ？	オレじ痰ゃなくても、男なら冾放っておけないだ」",
     ""),
     # "...A cool little girl shows off her lonely, side-faced face. But Kao is sitting right next to her, right? I have no phlegm and I can't leave Kao alone if she's a man."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # The chairman said this and ignored him, but his face was a little red.†
 
-    ("「つまりくんは、寂しそうにしとるр私を気づかって、〟仲良うしてくれてる墲わけやな」",
+    ("「つまりくんは、寂しそうにしとるр私を気づかって、〟仲良うしてくれてるわけやな」",
     ""),
     # "Iron-kun noticed me as I looked lonely and "it's a bit of a mess because he's getting along well."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "mother"
 
-    ("オレ焜もつられて笑う。†",
+    ("オレもつられて笑う。†",
     ""),
     # I laughed when I was so nervous.†
 
@@ -126,11 +126,11 @@ text_array = [
     ""),
     # I felt a sense of accomplishment that I made the chairman laugh out loud, which rarely made him laugh.
 
-    ("それと同椏時に、この貴重な笑迴顔を独闢り占めしている優越感がオレを嬉しくさせる。†",
+    ("それと同椏時に、この貴重な笑顔を独闢り占めしている優越感がオレを嬉しくさせる。†",
     ""),
     # At the same time, the sense of superiority that makes me stand out from this precious face makes me excited.†
 
-    ("少し烽歩いてから、オレは言った。",
+    ("少し歩いてから、オレは言った。",
     ""),
     # After a short walk, I said, "I'm not going to stop."
 
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("「そそ、ひとりっきりでいるの烽も飽きてこないか？	諱取闔りあえずこの辺で、友だち、″っち痰ゃどうだ？」",
+    ("「そそ、ひとりっきりでいるのも飽きてこないか？	諱取りあえずこの辺で、友だち、″っち痰ゃどうだ？」",
     ""),
     # "B, b, are you bored of being alone? I'm not going to get bored of it all? I'm not going to get any more friends here and there, "What about phlegm?"”
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "It's a reasonable place, so I recommend you a geek, right? We're the ones who are surprisingly intimate, right?"
 
-    ("「…まあ、反阡りが№合寘わんってこと烽もないな。どっちかっていうと、気搭兼ねなくつき№合えるタイプかな」",
+    ("「…まあ、反阡りが№合寘わんってこともないな。どっちかっていうと、気搭兼ねなくつき№合えるタイプかな」",
     ""),
     # "...Well, there's no stomping, so there's no stomping. Rather, I think it's the type who can make it with no temptation."
 
@@ -182,15 +182,15 @@ text_array = [
     ""),
     # and,
 
-    ("「ま、考えとく墲わ」",
+    ("「ま、考えとくわ」",
     ""),
     # "Well, I'll think about it."
 
-    ("いたずらっぽい笑迴顔で言った。†",
+    ("いたずらっぽい笑顔で言った。†",
     ""),
     # He said with a mischievous smile.†
 
-    ("そのうちクラスのやつらの前でで烽も、自然とこの笑迴顔ができるようになるといい。",
+    ("そのうちクラスのやつらの前ででも、自然とこの笑顔ができるようになるといい。",
     ""),
     # I hope that soon, you will naturally be able to make a laughing face in front of the tampering people of the Crowd.
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # This will shorten the next distance between you and everyone, and even the chairman will not have to feel lonely.
 
-    ("少しずつで烽もいいと思う。†",
+    ("少しずつでもいいと思う。†",
     ""),
     # I think it would be good to have some small amounts of hot water.†
 
@@ -210,7 +210,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("けど、それまでは、この笑迴顔はオレだけの烽ものにしておきたい。◯",
+    ("けど、それまでは、この笑顔はオレだけのものにしておきたい。◯",
     ""),
     # However, until then, I want to keep this laughing face just like my super-sexy.◯
 

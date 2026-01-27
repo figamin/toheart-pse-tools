@@ -22,7 +22,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「なんなら次はオレ焜も手伝ってやるよ」†",
+    ("「なんなら次はオレも手伝ってやるよ」†",
     ""),
     # "In any case, I'll help you out and tamper with it next time."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Senpai nodded his eyes with a moisturized look.
 
-    ("「諱よし、じ痰ゃあ、もういいだ。それより烽も先輩…」",
+    ("「諱よし、じ痰ゃあ、もういいだ。それよりも先輩…」",
     ""),
     # "Okay, I'm fine with that. It's even better than that, Hou is also senior..."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "?"†
 
-    ("「今厓日いっしょに帰汲うぜ？」",
+    ("「今厓日いっしょに帰うぜ？」",
     ""),
     # "I'll return to the slut now, right?"
 

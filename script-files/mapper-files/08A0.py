@@ -2,7 +2,7 @@
 # Source file: 08A0.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	今厓日はちょっと）†",
+    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	今厓日はちょっと）†",
     ""),
     # (Game Remie Scale Event 2nd Floor 4 LV1) (Selected Days Now)†
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Is it ?!"
 
-    ("心攝持ち残念そうな顔で、戟レミィが聞く。",
+    ("心攝持ち残念そうな顔で、レミィが聞く。",
     ""),
     # He listened, with a heart-wrenching and sad look on his face.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "...Yeah. There's no way to do it."
 
-    ("そう言って、彼濫女はにっこり微笑んだ。†",
+    ("そう言って、彼女はにっこり微笑んだ。†",
     ""),
     # With that, the overflowing woman smiled.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "She's phlegm."
 
-    ("「Ｓ	凵ｙ盾ｏ浮ｕ	戟ｌ≠ａｔ窒ｒ」",
+    ("「Ｓ	凵ｙ盾ｏ浮ｕ	ｌ≠ａｔ窒ｒ」",
     ""),
     # "Sbb, y shield o floats, l≠atb nitrogen"
 
-    ("戟レミィはトボトボと帰っていった。◯",
+    ("レミィはトボトボと帰っていった。◯",
     ""),
     # Remy went home in a flash.◯
 

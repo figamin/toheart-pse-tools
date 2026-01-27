@@ -26,7 +26,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱よく意味が揩理解できないらしく、きょとんとした顔でオレを見骭る先輩。",
+    ("諱よく意味が理解できないらしく、きょとんとした顔でオレを見骭る先輩。",
     ""),
     # It seems that he doesn't really understand the meaning, so his senior looks at me with a sly face.
 
@@ -66,7 +66,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩はどうしていいか墲わからずに、オレのなすがまま、グリグリされ続けた。†",
+    ("諱先輩はどうしていいかわからずに、オレのなすがまま、グリグリされ続けた。†",
     ""),
     # Without knowing what to do with Senpai, I continued to be stolen at my mercy.†
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "My name is here!"
 
-    ("なにが『諱よし』なのかよく墲わからないが、とにかくオレはガッツポーズを取った。†",
+    ("なにが『諱よし』なのかよくわからないが、とにかくオレはガッツポーズを取った。†",
     ""),
     # I'm not sure what the "good name" is, but I took a fist pose anyway.†
 

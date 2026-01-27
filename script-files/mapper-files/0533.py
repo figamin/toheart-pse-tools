@@ -10,11 +10,11 @@ text_array = [
     ""),
     # (Slowly fade, pitch black)
 
-    ("それから、しばらくたったある冾日。†",
+    ("それから、しばらくたったある冾日。",
     ""),
-    # Then, a little while later, it was a day.†
+    # Then, a little while later, it was a day.
 
-    ("マイパートナー葵ち痰ゃんは、今厓日燗も練習に繧励んでいる。",
+    ("マイパートナー葵ち痰ゃんは、今厓日燗も練習に励んでいる。",
     ""),
     # My partner Aoi Chisho-yan is currently working hard to practice for Lucky Hikan as well.
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # Every time I punch, my shining sweat splashes out.
 
-    ("見ているこっちまで熱くなる。†",
+    ("見ているこっちまで熱くなる。",
     ""),
-    # It gets so hot as I watch it.†
+    # It gets so hot as I watch it.
 
-    ("最近じ痰ゃオレ焜も見てるばかりじ痰ゃない。",
+    ("最近じ痰ゃオレも見てるばかりじ痰ゃない。",
     ""),
     # Recently, I've been watching my phlegm and my phlegm are just too much.
 
-    ("葵ち痰ゃんのコーチの烽もと、トレーニングを積み、冝日搏増しに≠メキ＜メキと腕を繧上げていた。",
+    ("葵ち痰ゃんのコーチのもと、トレーニングを積み、冝日搏増しに≠メキ＜メキと腕を上げていた。",
     ""),
     # With Aoi Chishonan's coach, he trained hard, and his arms were raised as he continued to increase his daily life.
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # Ah, I want to get stronger soon.
 
-    ("せめて、スパー梶リングの鰍相闡手が務まる程度にはなりたい烽もんだ。†",
+    ("せめて、スパー梶リングの鰍相闡手が務まる程度にはなりたいもんだ。",
     ""),
-    # I would like to at least become a good enough man to work as a Spar Kajiring slug.†
+    # I would like to at least become a good enough man to work as a Spar Kajiring slug.
 
     ("いや。",
     ""),
@@ -54,13 +54,13 @@ text_array = [
     ""),
     # With such a strong ability, I wonder if there's no phlegm.
 
-    ("葵ち痰ゃんい墲わく、どうやらオレには天性の素質があるらしいしな。",
+    ("葵ち痰ゃんいわく、どうやらオレには天性の素質があるらしいしな。",
     ""),
     # It seems that Aoi's sphemous spurts have natural abilities, such as tampering and fierceness.
 
-    ("諱よし、ものは獅試しだ。†",
+    ("諱よし、ものは試しだ。",
     ""),
-    # Okay, what's the lion's test.†
+    # Okay, what's the lion's test.
 
     ("「葵ち痰ゃん」",
     ""),
@@ -78,11 +78,11 @@ text_array = [
     ""),
     # "What?!"
 
-    ("「オレ焜もずいぶん強くなったしさ、そそ鰍相闡手できると思うんだよ」†",
+    ("「オレもずいぶん強くなったしさ、そそ鰍相闡手できると思うんだよ」",
     ""),
     # "My hard work has become much stronger, so I think I can do it together."
 
-    ("「で烽も…」",
+    ("「でも…」",
     ""),
     # "And the hot spring..."
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "They're tough.
 
-    ("昨厓日、葵ち痰ゃん烽も言ってたじ痰ゃないか。かなり繧上達しましたよって」",
+    ("昨厓日、葵ち痰ゃんも言ってたじ痰ゃないか。かなり上達しましたよって」",
     ""),
     # Last day, Aoi Chishonan-chan said that it was phlegm.I've improved quite a bit."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "That's true, but..."
 
-    ("「いいから、いいから。いっちょやってみようぜ。いまのオレの実力がどのくらいなのか、氏試してみたいんだ」†",
+    ("「いいから、いいから。いっちょやってみようぜ。いまのオレの実力がどのくらいなのか、氏試してみたいんだ」",
     ""),
     # "It's fine, it's fine. Let's try to tamper with it. I'd like to test out how much my current talent is."
 
@@ -106,15 +106,15 @@ text_array = [
     ""),
     # "I understand. If you're that big of a phlegm."
 
-    ("「諱よっし痰ゃ」†",
+    ("「諱よっし痰ゃ」",
     ""),
-    # "Good name, phlegm" †
+    # "Good name, phlegm" 
 
-    ("そして、オレと葵ち痰ゃんのスパー梶リングが始まった。†",
+    ("そして、オレと葵ち痰ゃんのスパー梶リングが始まった。",
     ""),
-    # Then, I and Aoi Chisho-yan's sparring ring began.†
+    # Then, I and Aoi Chisho-yan's sparring ring began.
 
-    ("「葵ち痰ゃん、閨手加減無用だぜ。本気でやってくれないと実力が墲わからないからな」",
+    ("「葵ち痰ゃん、閨手加減無用だぜ。本気でやってくれないと実力がわからないからな」",
     ""),
     # "Aoi Chisho-yan, you don't need to do anything. If you don't do it seriously, you won't be able to understand your abilities."
 
@@ -126,13 +126,13 @@ text_array = [
     ""),
     # Aoi Chisho-chan breathes in and goes,
 
-    ("「では、いつで烽もどうぞ！」",
+    ("「では、いつでもどうぞ！」",
     ""),
     # "So, when will you enjoy the hot spring?"
 
-    ("掾拳を握って構えた。†",
+    ("掾拳を握って構えた。",
     ""),
-    # I held my angels together.†
+    # I held my angels together.
 
     ("「諱よぉしっ、いくぜぇぇぇ！」",
     ""),
@@ -142,15 +142,15 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("「たああああああぁぁぁぁぁぁぁ〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜っ！」†",
+    ("「たああああああぁぁぁぁぁぁぁ〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜っ！」",
     ""),
-    # "Aaaaahhhhh!" †
+    # "Aaaaahhhhh!" 
 
     ("びしっ！",
     ""),
     # So bold!
 
-    ("「あうっ！」†",
+    ("「あうっ！」",
     ""),
     # "Ahh!"
 
@@ -170,35 +170,35 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("う、ううーん…。",
     ""),
     # Uh, ummm...
 
-    ("額に冷たい烽ものが魔当たっている…。",
+    ("額に冷たいものが魔当たっている…。",
     ""),
     # A cold hot pot hits my forehead...
 
-    ("いったい、オレは…？†",
+    ("いったい、オレは…？",
     ""),
-    # What about me...?†
+    # What about me...?
 
-    ("「………いっ！」†",
+    ("「………いっ！」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「……ぱいっ！」†",
+    ("「……ぱいっ！」",
     ""),
     # "...Pee!"
 
-    ("「…んぱいっ！」†",
+    ("「…んぱいっ！」",
     ""),
     # "...Hmm!"
 
-    ("「せんぱいっ！」†",
+    ("「せんぱいっ！」",
     ""),
     # "Senpai!"
 
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # "...Aoi... is it sphemous?"
 
-    ("オレはぼんやりとつぶやいた。†",
+    ("オレはぼんやりとつぶやいた。",
     ""),
-    # My heart started messing around and muttering.†
+    # My heart started messing around and muttering.
 
     ("「…諱よ、諱よかった。…気がついたんですね」",
     ""),
@@ -234,9 +234,9 @@ text_array = [
     ""),
     # A wet handkerchief is in her hand.
 
-    ("そっか、さっきまで額に感じていた冷たい感触はこれだったのか。†",
+    ("そっか、さっきまで額に感じていた冷たい感触はこれだったのか。",
     ""),
-    # I see, this was the cold feeling I had felt on my forehead up until now.†
+    # I see, this was the cold feeling I had felt on my forehead up until now.
 
     ("「すみません。",
     ""),
@@ -250,9 +250,9 @@ text_array = [
     ""),
     # counter…?
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("あ、そうか。",
     ""),
@@ -266,11 +266,11 @@ text_array = [
     ""),
     # ...So, the fact that he is defeated like this now means that he suddenly sank after a full hour of fire.
 
-    ("な、﨟情けねー。†",
+    ("な、﨟情けねー。",
     ""),
-    # Wow, 﨟I have no sympathy.†
+    # Wow, 﨟I have no sympathy.
 
-    ("「自分で烽も、まさかクリーンヒットするとは思寬わなくて…」",
+    ("「自分でも、まさかクリーンヒットするとは思寬わなくて…」",
     ""),
     # "I never thought that even a hot spring would hit Kugata Lean myself..."
 
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # Aoi Chisho-yan with apologies.
 
-    ("いまに烽も涙が獅落ちてきそうだ。†",
+    ("いまにも涙が落ちてきそうだ。",
     ""),
-    # Tears are about to fall into the air right now.†
+    # Tears are about to fall into the air right now.
 
     ("オレは平気を浮装い、ニカッと笑うと、",
     ""),
@@ -298,9 +298,9 @@ text_array = [
     ""),
     # "Isaac Senpai..."
 
-    ("葵ち痰ゃんは、濡齡れたハンカチをオレの頬にそっと押し魔当てた。†",
+    ("葵ち痰ゃんは、濡齡れたハンカチをオレの頬にそっと押し魔当てた。",
     ""),
-    # Aoi Chisho-yan gently pressed a wet handkerchief against my fierce cheeks.†
+    # Aoi Chisho-yan gently pressed a wet handkerchief against my fierce cheeks.
 
     ("「いっ、いてててっ！」",
     ""),
@@ -314,45 +314,45 @@ text_array = [
     ""),
     # "Ah, it's a bit of a mess, a bit. Haha..."
 
-    ("「ううっ、すみません…」†",
+    ("「ううっ、すみません…」",
     ""),
     # "Uhh, sorry..."
 
-    ("浴風が≠吹き抜け、林の木々がざ墲わめいた。",
+    ("風が≠吹き抜け、林の木々がざわめいた。",
     ""),
     # The bathing atmosphere blew through, and the trees in the forest squealed.
 
-    ("さ墲わやかな奄初夏の翌風だ。",
+    ("さわやかな奄初夏の翌風だ。",
     ""),
     # It's a bit of a messy day after early Amami.
 
-    ("気搴持ちいい。†",
+    ("気搴持ちいい。",
     ""),
-    # It's good to keep you excited.†
+    # It's good to keep you excited.
 
     ("クラブの≠メンバーは、いまだに葵ち痰ゃんとオレのふたりだけ。",
     ""),
     # The only members of Kuban Love are Aoi Chisho-yan and me.
 
-    ("学校公認の同好拷には、残念ながら鰍至っていない。†",
+    ("学校公認の同好拷には、残念ながら鰍至っていない。",
     ""),
-    # Unfortunately, the torture that was approved by the school was not inflicted on the torture of the same school.†
+    # Unfortunately, the torture that was approved by the school was not inflicted on the torture of the same school.
 
-    ("だが、オレはべつに、いまのままで烽もいいと思っている。",
+    ("だが、オレはべつに、いまのままでもいいと思っている。",
     ""),
     # However, I really think that the hot water is fine as it is now.
 
-    ("こうして葵ち痰ゃんとふたり、誰に烽もジャャマされないクラブリ動っての烽も、それはそれで悪くない烽もんだ。†",
+    ("こうして葵ち痰ゃんとふたり、誰にもジャャマされないクラブリ動ってのも、それはそれで悪くないもんだ。",
     ""),
-    # The two of them, who are in love with Aoi Chisho-chan, and the banquet that no one can sing about, are not bad either.†
+    # The two of them, who are in love with Aoi Chisho-chan, and the banquet that no one can sing about, are not bad either.
 
-    ("「なんだか、ずっとこのままで烽もいいような気がしますね」",
+    ("「なんだか、ずっとこのままでもいいような気がしますね」",
     ""),
     # "I feel like it's fine forever and hot water."
 
-    ("葵ち痰ゃん烽も昨厓日そんなことを言っていた。†",
+    ("葵ち痰ゃんも昨厓日そんなことを言っていた。",
     ""),
-    # Aoi Chishonan-chan also said that last day.†
+    # Aoi Chishonan-chan also said that last day.
 
     ("どうやらオレと同じ気搴持ちらしい。",
     ""),
@@ -362,11 +362,11 @@ text_array = [
     ""),
     # A love for the two of them... is it?
 
-    ("だとしたらなおさら、パートナーのオレがフォ鴻ローしてやらないとな。†",
+    ("だとしたらなおさら、パートナーのオレがフォ鴻ローしてやらないとな。",
     ""),
-    # If that's the case, it's even more important that my partner, my titularity, follow me and tamper with it.†
+    # If that's the case, it's even more important that my partner, my titularity, follow me and tamper with it.
 
-    ("秋のエクストリームにはまだ冾日はあるが、葵ち痰ゃんは≠早く烽も気㈲合い十分で繧励んでいる。",
+    ("秋のエクストリームにはまだ冾日はあるが、葵ち痰ゃんは≠早くも気㈲合い十分で励んでいる。",
     ""),
     # There are still days to be raised in the autumn Extreme Ream, but Aoi Chisho-chan is also quick to get enough of the spirits and is working hard.
 
@@ -374,9 +374,9 @@ text_array = [
     ""),
     # If you develop a sense of real battle with Spar Kaji Ring, you will become even stronger.
 
-    ("ただし、パートナーのオレに、その鰍相闡手が務まればだが…。†",
+    ("ただし、パートナーのオレに、その鰍相闡手が務まればだが…。",
     ""),
-    # However, if the partner is able to work as a supporter...†
+    # However, if the partner is able to work as a supporter...
 
     ("「諱先輩…」",
     ""),
@@ -398,9 +398,9 @@ text_array = [
     ""),
     # Okay..."
 
-    ("オレは起き繧上がった。†",
+    ("オレは起き上がった。",
     ""),
-    # My ramblings started to rise.†
+    # My ramblings started to rise.
 
     ("「もう一回だ、葵ち痰ゃん」",
     ""),
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # "I was too careful about the previous one. I have no stimulation of my abilities like that."
 
-    ("「で、で烽も…」",
+    ("「で、でも…」",
     ""),
     # "And, and the hot spring..."
 
@@ -422,15 +422,15 @@ text_array = [
     ""),
     # "Yes, yes, I'll do it!"
 
-    ("「せ、諱先輩…」†",
+    ("「せ、諱先輩…」",
     ""),
-    # "See, Senpai..."†
+    # "See, Senpai..."
 
     ("「さっきみたいにはいかないぜ。",
     ""),
     # "It won't go as well as before.
 
-    ("油断してると逆にＫＯしちまうか烽もな」",
+    ("油断してると逆にＫＯしちまうかもな」",
     ""),
     # If you let your guard down, you'll end up KOing or even Hot."
 
@@ -442,11 +442,11 @@ text_array = [
     ""),
     # "Ah, let's go!"
 
-    ("「はいっ、どうぞ！」†",
+    ("「はいっ、どうぞ！」",
     ""),
     # "Yes, please!"
 
-    ("「たああああああぁぁぁぁぁぁぁ〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜っ！」†",
+    ("「たああああああぁぁぁぁぁぁぁ〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜っ！」",
     ""),
     # "Aaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
@@ -454,7 +454,7 @@ text_array = [
     ""),
     # Dovey!
 
-    ("「うぷっ！」†",
+    ("「うぷっ！」",
     ""),
     # "Up!"
 
@@ -462,12 +462,12 @@ text_array = [
     ""),
     # "...I'm your name, I'm your name, I'm your name!"
 
-    ("葵ち痰ゃんはと烽もかく、このオレがエクストリームに参加できる冾日は、",
+    ("葵ち痰ゃんはともかく、このオレがエクストリームに参加できる冾日は、",
     ""),
     # There are also many Aoi Chisho-chan and other hot spots, and the date when this mega-reel can participate in Extreme Ream is
 
-    ("いったいいつになることやら…。†",
+    ("いったいいつになることやら…。",
     ""),
-    # Whatever happens, it's like it's tampering...†
+    # Whatever happens, it's like it's tampering...
 
 ]

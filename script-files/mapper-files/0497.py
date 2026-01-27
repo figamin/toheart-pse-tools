@@ -14,11 +14,11 @@ text_array = [
     ""),
     # said my geek.
 
-    ("このオレが『用がある』というときは気が乗迴らないときが多い。",
+    ("このオレが『用がある』というときは気が乗らないときが多い。",
     ""),
     # When this guy says "I have something to do", he often doesn't feel like he's coming.
 
-    ("あかり烽もよく墲わかっているから、『なんの用？』とは突っ桙込まない。",
+    ("あかりもよくわかっているから、『なんの用？』とは突っ桙込まない。",
     ""),
     # I also know how to say "What is it for?""I won't peek at it.
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # I walked over to Akari and drove away.
 
-    ("「さてと、オレ焜も帰っかな」",
+    ("「さてと、オレも帰っかな」",
     ""),
     # "Now, I'll go home too."
 

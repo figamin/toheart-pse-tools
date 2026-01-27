@@ -30,11 +30,11 @@ text_array = [
     ""),
     # ・
 
-    ("雑庶誌をパラパラ読んでから帰汲うとすると、あいつはまだ本を読んでいる。",
+    ("雑庶誌をパラパラ読んでから帰うとすると、あいつはまだ本を読んでいる。",
     ""),
     # If I were to read a banquet of common magazines and then return to it, he was still reading a book.
 
-    ("熱心な烽もんだなと苦笑して、オレは本屋をあとにした。◯",
+    ("熱心なもんだなと苦笑して、オレは本屋をあとにした。◯",
     ""),
     # With a wry smile, I was so enthusiastic about it, I left the bookstore.◯
 

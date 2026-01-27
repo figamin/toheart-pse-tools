@@ -10,7 +10,7 @@ text_array = [
     ""),
     # I'm happy to meet Shiho's guy.
 
-    ("あんだけ歌って烽も、全然のどの調子が悪くならねーもんな。",
+    ("あんだけ歌っても、全然のどの調子が悪くならねーもんな。",
     ""),
     # Even if you sing so much, you won't be feeling bad at all.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # My throat is quickly shaking.
 
-    ("いま烽もガラガラだ。",
+    ("いまもガラガラだ。",
     ""),
     # It's a banquet and a banquet right now.
 

@@ -2,11 +2,11 @@
 # Source file: 0401.txt
 
 text_array = [
-    ("（志保	春休みイベント）閨（３獅月２７冾日）閨（学年又末テストの成績が悪かった場㍼合）閨（教室	生徒なし）†",
+    ("（志保	春休みイベント）閨（３月２７冾日）閨（学年又末テストの成績が悪かった場㍼合）閨（教室	生徒なし）",
     ""),
-    # (Shiho Spring Break Event) (3rd 27th day) (3rd year old) (Lower grades and final exams were poor) (Lower class, no students) (Classroom, no students) †
+    # (Shiho Spring Break Event) (3rd 27th day) (3rd year old) (Lower grades and final exams were poor) (Lower class, no students) (Classroom, no students) 
 
-    ("３獅月２７冾日。",
+    ("３月２７冾日。",
     ""),
     # The 27th day of the 3rd month of the 1st month.
 
@@ -22,21 +22,21 @@ text_array = [
     ""),
     # Now, looking at this Crowd, you can see at a glance the worst team in grade grades.
 
-    ("ったく、しょーがねえ連中だぜ（オレ焜も含む）。†",
+    ("ったく、しょーがねえ連中だぜ（オレも含む）。",
     ""),
-    # There are so many people (including my ecstasy).†
+    # There are so many people (including my ecstasy).
 
-    ("補習授業の烽内容は、プリントの問題集。",
+    ("補習授業の内容は、プリントの問題集。",
     ""),
     # The contents of the supplementary lesson are a collection of questions about Pugata Lint's tampering.
 
-    ("＝普通の授業なら、寝てすごす手燻もあるが、プリントが鰍相闡手だとそう烽もいかない。",
+    ("＝普通の授業なら、寝てすごす手燻もあるが、プリントが鰍相闡手だとそうもいかない。",
     ""),
     # =In normal classes, there are some smoked hands that you can sleep and spend time, but if Pugata Rinto is a mixed bag, it's not that great either.
 
-    ("仕緖方がないので真面目に嘯答えをр埋めている。†",
+    ("仕緖方がないので真面目に嘯答えをр埋めている。",
     ""),
-    # Since there is no way to do it, I seriously fill in the answer.†
+    # Since there is no way to do it, I seriously fill in the answer.
 
     ("「………」",
     "…"),
@@ -46,15 +46,15 @@ text_array = [
     ""),
     # Hmm.
 
-    ("簡単な問題はすぐに片づいたが、さっきから全然岺わからない問題がある。†",
+    ("簡単な問題はすぐに片づいたが、さっきから全然岺わからない問題がある。",
     ""),
-    # I quickly cleared up the simple questioning questions, but for a while, there was a questioning questioning that I had no idea about.†
+    # I quickly cleared up the simple questioning questions, but for a while, there was a questioning questioning that I had no idea about.
 
     ("なにし、プリントは全教科分そっているので、苦闍手科目の問題はさけて通れない。",
     ""),
     # What's B, Pugata Rinto is all subjects divided into B, so it is not easy to understand, avoiding the questioning of difficult subjects.
 
-    ("しか烽も、始鮪末の悪いことに、オレには苦闍手科目のほうが多い。",
+    ("しかも、始鮪末の悪いことに、オレには苦闍手科目のほうが多い。",
     ""),
     # However, even though I'm suffering from the bad news of the tuna, I often have more difficult subjects.
 
@@ -62,15 +62,15 @@ text_array = [
     ""),
     # I've been stuck for a while now.
 
-    ("イライラするぜ。†",
+    ("イライラするぜ。",
     ""),
-    # Let's have a feast.†
+    # Let's have a feast.
 
     ("…しかし、こんなことして、いったいなんの役に立つんだうか？",
     ""),
     # ...But what kind of useful thing is this?
 
-    ("テストの成績が悪かった連中に、テストと変﨑わらないプリントをやらせて烽も意味がない。",
+    ("テストの成績が悪かった連中に、テストと変﨑わらないプリントをやらせても意味がない。",
     ""),
     # People who have poor test results will have them tamper with Pugata Lint, which doesn't turn out to be a test, and it's pointless to have them tamper with.
 
@@ -78,21 +78,21 @@ text_array = [
     ""),
     # When I thought about it, I started to have an even more ecstatic banquet.
 
-    ("…わかんねーもんは、いくら考えたって、わかり痰ゃしねーんだよおっ！†",
+    ("…わかんねーもんは、いくら考えたって、わかり痰ゃしねーんだよおっ！",
     ""),
-    # ...No matter how much you think about it, you can't understand it!†
+    # ...No matter how much you think about it, you can't understand it!
 
     ("そうだ、志保はどうだう？",
     ""),
     # That's right, how about Shiho?
 
-    ("あいつ烽も、問題が解けずにイライラしてるはずだ。",
+    ("あいつも、問題が解けずにイライラしてるはずだ。",
     ""),
     # That guy, too, must be having a banquet and banquet without answering the question.
 
-    ("ちらっと横目で隣の席｢｢志保はオレの隣に座っている｢｢を覗き見骭る。†",
+    ("ちらっと横目で隣の席｢｢志保はオレの隣に座っている｢｢を覗き見骭る。",
     ""),
-    # I glanced over and sat next to him, "Shiho peered at me, sitting next to me."†
+    # I glanced over and sat next to him, "Shiho peered at me, sitting next to me."
 
     ("…って、寝てるよ、このバカ。",
     ""),
@@ -102,13 +102,13 @@ text_array = [
     ""),
     # Even though I'm seriously worried about it, I'm still falling asleep in my shield, looking good, I'm stomping.
 
-    ("諱先生にチクって…いや、諱先生に高注意される志保を見て烽も、いまいち気が晴齔れそうにない。",
+    ("諱先生にチクって…いや、諱先生に高注意される志保を見ても、いまいち気が晴齔れそうにない。",
     ""),
     # Seeing Shiho's stings on Professor Issue and being warned by Professor Issue, it seems unlikely that he will be able to really clear his spirits.
 
-    ("オレが直接關手を下さないとダ＜メだ。†",
+    ("オレが直接關手を下さないとダ＜メだ。",
     ""),
-    # If I don't contact you directly, it's a shame.†
+    # If I don't contact you directly, it's a shame.
 
     ("しかし、隣の席とはいえど、閨手の届く翌距離じ痰ゃない。",
     ""),
@@ -118,21 +118,21 @@ text_array = [
     ""),
     # To get rid of the mismatched monks, you'll definitely need to board a projectile.
 
-    ("オレは≠早速、消しゴムの墲削闕りカスを丸めて、即席の弾丸をｍった。",
+    ("オレは≠早速、消しゴムの削闕りカスを丸めて、即席の弾丸をｍった。",
     ""),
     # I immediately rolled up the eraser scraps and swapped an instant bullet.
 
-    ("授業拠の定番飛び道搭。†",
+    ("授業拠の定番飛び道搭。",
     ""),
-    # The standard plane boarding for lessons.†
+    # The standard plane boarding for lessons.
 
     ("諱よ〜し、見てよぉ。",
     ""),
     # Okay, look at it.
 
-    ("狙い定めて、人差し指でピーンと飛ばす。†",
+    ("狙い定めて、人差し指でピーンと飛ばす。",
     ""),
-    # Target it and use your index finger to blow it off.†
+    # Target it and use your index finger to blow it off.
 
     ("プチッと命亦！",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # The eraser bullet hit Shiho's cheek and bounced back.
 
-    ("ビクッと身を震岦わせて、目を覚ます志保。†",
+    ("ビクッと身を震岦わせて、目を覚ます志保。",
     ""),
-    # Shiho woke up, twitching and shaking.†
+    # Shiho woke up, twitching and shaking.
 
     ("すぐにこちらをにらみつける。",
     ""),
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # For some reason I felt refreshed.
 
-    ("さあ、あんなрヤツは冾放っといて、プリントに集薯しよう。†",
+    ("さあ、あんなрヤツは冾放っといて、プリントに集薯しよう。",
     ""),
-    # Now, let's leave those guys alone and gather them in Pulato Rint.†
+    # Now, let's leave those guys alone and gather them in Pulato Rint.
 
     ("バカなことに桙時間をｔ笏やしてしまった。",
     ""),
@@ -174,25 +174,25 @@ text_array = [
     ""),
     # The purpose is to fill in the empty boarding field at Pugata Rinto, so what are you doing?
 
-    ("マジでやうと思ったが、志保が気になり、ちらっと隣を見骭る。†",
+    ("マジでやうと思ったが、志保が気になり、ちらっと隣を見骭る。",
     ""),
-    # I seriously thought I'd try to tamper with him, but Shiho was bothered and glanced at her next door.†
+    # I seriously thought I'd try to tamper with him, but Shiho was bothered and glanced at her next door.
 
     ("今度はあいつ、なにがあったのか、真面目にガリガリとプリントをやっていた。",
     ""),
     # This time, he was seriously tampering with the gagata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata rigata riga
 
-    ("珍しいこと烽もある烽もんだ。",
+    ("珍しいこともあるもんだ。",
     ""),
     # It's a rare thing, and it's also a hot spring.
 
-    ("オレ焜も奄負けち痰ゃいられない。",
+    ("オレも奄負けち痰ゃいられない。",
     ""),
     # I can't help but lose to Amami.
 
-    ("今度は気㈲合いを入齠れてプリントに集薯する。†",
+    ("今度は気㈲合いを入齠れてプリントに集薯する。",
     ""),
-    # This time, the fish is poured into the pear and the potatoes are collected in Pulato Rint.†
+    # This time, the fish is poured into the pear and the potatoes are collected in Pulato Rint.
 
     ("・",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # As I was struggling with the questions, something flew into my cheeks and bouncing back.
 
-    ("その正体は、すぐに墲わかった。†",
+    ("その正体は、すぐにわかった。",
     ""),
-    # Its true identity was quickly discovered.†
+    # Its true identity was quickly discovered.
 
     ("志保が飛ばした消しゴムのカスだ。",
     ""),
@@ -234,9 +234,9 @@ text_array = [
     ""),
     # I was annoyed, but when I tampered with it, I was just a kid.
 
-    ("今厓日のとこはひとつ大人になって、寛蜉大な気搴持ちで構えていよう。†",
+    ("今厓日のとこはひとつ大人になって、寛蜉大な気搴持ちで構えていよう。",
     ""),
-    # Now, I'll be a grown-up and be patient with a generous spirit.†
+    # Now, I'll be a grown-up and be patient with a generous spirit.
 
     ("んなことより、＝早くプリントを終尞わらせないとな。",
     ""),
@@ -254,17 +254,17 @@ text_array = [
     "…"),
     # "..."
 
-    ("人が大人しくしてるのをいいことに、志保はしつこく攻ｍ撃を続けてくる。†",
+    ("人が大人しくしてるのをいいことに、志保はしつこく攻ｍ撃を続けてくる。",
     ""),
-    # Taking advantage of the fact that people are quiet, Shiho continues to attack and attack.†
+    # Taking advantage of the fact that people are quiet, Shiho continues to attack and attack.
 
     ("まあ、消しゴムが無くなれば、あきらめるだう…。",
     ""),
     # Well, if the eraser is gone, I'll give up...
 
-    ("いまはプリントに集薯だ。†",
+    ("いまはプリントに集薯だ。",
     ""),
-    # Nowadays, they collect potatoes in Pulato Rint.†
+    # Nowadays, they collect potatoes in Pulato Rint.
 
     ("『背摧理法を用いて、氈次の命題を証明せよ』",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # If you forget about the way you solve this kind of tampering question, you have no choice.
 
-    ("どーやって証明するんだっけ…？†",
+    ("どーやって証明するんだっけ…？",
     ""),
-    # How can you prove it?†
+    # How can you prove it?
 
     ("プチッ！",
     ""),
@@ -298,9 +298,9 @@ text_array = [
     ""),
     # Shiho's attack and M attack continue.
 
-    ("…艨我揄慢、艨我揄慢。†",
+    ("…艨我揄慢、艨我揄慢。",
     ""),
-    # ...It's a trumpeting, it's a trumpeting.†
+    # ...It's a trumpeting, it's a trumpeting.
 
     ("プチッ！",
     ""),
@@ -318,9 +318,9 @@ text_array = [
     ""),
     # Petit!
 
-    ("…人間辛抱だ。†",
+    ("…人間辛抱だ。",
     ""),
-    # ...Perhaps the human being.†
+    # ...Perhaps the human being.
 
     ("プチッ！",
     ""),
@@ -346,9 +346,9 @@ text_array = [
     ""),
     # Petit!
 
-    ("このまま我揄慢すれば、仏様にで烽もなれそうだな。†",
+    ("このまま我揄慢すれば、仏様にでもなれそうだな。",
     ""),
-    # If I continue to make fun of myself, I think I'll be able to become a Buddha.†
+    # If I continue to make fun of myself, I think I'll be able to become a Buddha.
 
     ("プチッ！",
     ""),
@@ -390,37 +390,37 @@ text_array = [
     ""),
     # Is his eraser endless!?
 
-    ("オレは耐え切齔れず、隣を見た。†",
+    ("オレは耐え切齔れず、隣を見た。",
     ""),
-    # I couldn't stand it and looked next to me.†
+    # I couldn't stand it and looked next to me.
 
     ("志保はピースサインで微笑んでいる。",
     ""),
     # Shiho smiles with a peace sign.
 
-    ("そして彼濫女の消しゴムは｢｢。",
+    ("そして彼女の消しゴムは｢｢。",
     ""),
     # And the eraser of the overwhelmed woman was ".
 
-    ("げげっ！†",
+    ("げげっ！",
     ""),
-    # Aaaah!†
+    # Aaaah!
 
     ("志保の消しゴムは、ポケベルくらいはありそうな、製図用の馬鹿でかい消しゴムだった。",
     ""),
     # Shiho's eraser was a huge, stupid drawing eraser that could be something that could be a Pokemon-be cry.
 
-    ("なんであんな烽もの、志保が揩持ってるんだ！？",
+    ("なんであんなもの、志保が持ってるんだ！？",
     ""),
     # Why is Shiho holding such a hot thing??
 
-    ("しか烽も、机の繧上に山積みになった消しゴムのかけら…。",
+    ("しかも、机の上に山積みになった消しゴムのかけら…。",
     ""),
     # But the boiler was a pile of eraser fragments piled up on the desk.
 
-    ("あいつ、さっき、真面目に問題をやってたんじ痰ゃなくて、消しゴムを解体してやがったんだ！†",
+    ("あいつ、さっき、真面目に問題をやってたんじ痰ゃなくて、消しゴムを解体してやがったんだ！",
     ""),
-    # He was seriously tampering with the questioning question just now, so he dismantled the eraser and tampered with it!†
+    # He was seriously tampering with the questioning question just now, so he dismantled the eraser and tampered with it!
 
     ("あのかけらの量…、この桙時間が終尞わるまでオレを攻ｍ撃し続けることができるぞ。",
     ""),
@@ -430,9 +430,9 @@ text_array = [
     ""),
     # ...Hmm, yeah, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 
-    ("いや、ここで反ｔ撃したら元煬も子燻もない。†",
+    ("いや、ここで反ｔ撃したら元煬も子燻もない。",
     ""),
-    # If you fight back against him, there's no gen-han or ko-smoking if you fight back against him.†
+    # If you fight back against him, there's no gen-han or ko-smoking if you fight back against him.
 
     ("もう、こうなったら我揄慢莓比べだ！",
     ""),
@@ -446,9 +446,9 @@ text_array = [
     ""),
     # I'll endure it and tamper with it until the very end!
 
-    ("これからが正念齡場だ。†",
+    ("これからが正念齡場だ。",
     ""),
-    # Now is the time to make a point of justice.†
+    # Now is the time to make a point of justice.
 
     ("オレはさらに気㈲合いを入齠れて、プリントにｌき直った。",
     ""),
@@ -482,9 +482,9 @@ text_array = [
     ""),
     # I'm temperament,
 
-    ("我揄慢…。†",
+    ("我揄慢…。",
     ""),
-    # I'm bearing myself...†
+    # I'm bearing myself...
 
     ("プチッ！",
     ""),
@@ -522,9 +522,9 @@ text_array = [
     ""),
     # I'm temperament,
 
-    ("我揄慢。†",
+    ("我揄慢。",
     ""),
-    # I'm being arrogant.†
+    # I'm being arrogant.
 
     ("プチッ！",
     ""),
@@ -590,15 +590,15 @@ text_array = [
     ""),
     # Petit!
 
-    ("艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！†",
+    ("艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！	艨我揄慢！",
     ""),
-    # I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!†
+    # I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!I'm being tempted!
 
-    ("とうとう、オレは１桙時間を耐え抜いた。†",
+    ("とうとう、オレは１桙時間を耐え抜いた。",
     ""),
-    # Finally, I endured a fox.†
+    # Finally, I endured a fox.
 
-    ("その冾日の補習授業煖も終尞わり、さっさと帰汲うとすると、オレと志保は先生に呼び止められた。",
+    ("その冾日の補習授業も終尞わり、さっさと帰うとすると、オレと志保は先生に呼び止められた。",
     ""),
     # The tampering supplementary lesson on that day was over, and as I was about to return to my house, I and Shiho were called out to me by the teacher.
 
@@ -610,7 +610,7 @@ text_array = [
     ""),
     # "What is it?"
 
-    ("「なんですかぁ？」†",
+    ("「なんですかぁ？」",
     ""),
     # "What is it?"
 
@@ -622,7 +622,7 @@ text_array = [
     ""),
     # "home…"
 
-    ("「あたしたち、真面目にやってましたけどぉ」†",
+    ("「あたしたち、真面目にやってましたけどぉ」",
     ""),
     # "I was seriously tampering with you though."
 
@@ -630,7 +630,7 @@ text_array = [
     ""),
     # The teacher, glares at us and our thrills,
 
-    ("「君迪らの席のま墲わりが、ひどくｉ俾奄ﾄいるようだが、あれは消しゴムじ痰ゃないのかね？」",
+    ("「君迪らの席のまわりが、ひどく俾奄ﾄいるようだが、あれは消しゴムじ痰ゃないのかね？」",
     ""),
     # "It seems that there are some serious seats in the area, but is that an eraser and phlegm?"
 
@@ -642,7 +642,7 @@ text_array = [
     ""),
     # "Ah, that's it..."
 
-    ("「誰が獅落としたのかしらぁ」",
+    ("「誰が落としたのかしらぁ」",
     ""),
     # "Who slashed the lion?"
 

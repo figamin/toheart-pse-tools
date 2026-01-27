@@ -10,7 +10,7 @@ text_array = [
     ""),
     # I waved my hand, sighing.
 
-    ("あかりはそんなオレには気づかず、廊下を烽歩いていった。◯",
+    ("あかりはそんなオレには気づかず、廊下を歩いていった。◯",
     ""),
     # Akari didn't notice such a thrill, and walked down the hallway.◯
 

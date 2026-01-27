@@ -2,7 +2,7 @@
 # Source file: 0101.txt
 
 text_array = [
-    ("（あかり	冝日付イベント１）閨（Ａ	諱よし、じ痰ゃあ一処緒にやるか	の続き）†",
+    ("（あかり	冝日付イベント１）閨（Ａ	諱よし、じ痰ゃあ一処緒にやるか	の続き）",
     ""),
     # (Akari Pilgrim Date Event 1) (Continued from A: A, Is it okay, can you tamper with me?)
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Yeah."
 
-    ("あかりは笑迴顔でうなずいた。†",
+    ("あかりは笑顔でうなずいた。",
     ""),
-    # Akari nodded with a laughing face.†
+    # Akari nodded with a laughing face.
 
     ("「じ痰ゃあ、今厓日の帰闍り、直接ち痰ゃんの家に寄驫るね」",
     ""),
@@ -38,23 +38,23 @@ text_array = [
     ""),
     # "Yes, yes."
 
-    ("「♂史ち痰ゃん烽もいっしょに、しよ？」",
+    ("「雅史ち痰ゃんもいっしょに、しよ？」",
     ""),
-    # "Shall we do it with the ♂Shichi-Sho-chan's hot spring?"
+    # "Shall we do it with the 雅Shichi-Sho-chan's hot spring?"
 
     ("「ううん、僕はいいよ。",
     ""),
     # "Yeah, I'm fine.
 
-    ("わかんないとこは姉さんに聞いたりしてるから」†",
+    ("わかんないとこは姉さんに聞いたりしてるから」",
     ""),
     # I don't know about the other person, but I ask my sister."
 
-    ("「そう？	♂史ち痰ゃんがいたほうが鰍頼燉もしいと思ったんだけど」",
+    ("「そう？	雅史ち痰ゃんがいたほうが鰍頼燉もしいと思ったんだけど」",
     ""),
-    # "I see? I thought it would be better to have a ♂ Shichi-Sho-chan."
+    # "I see? I thought it would be better to have a 雅 Shichi-Sho-chan."
 
-    ("「ま、♂史に烽も都∮合って烽もんがあんだ」",
+    ("「ま、雅史にも都∮合ってもんがあんだ」",
     ""),
     # "Well, the city is suitable for the history of the Makoto, and the Chinese are the ones that are right for the Makoto."
 
@@ -62,17 +62,17 @@ text_array = [
     ""),
     # "I agree"
 
-    ("「ごめん」†",
+    ("「ごめん」",
     ""),
-    # "sorry"†
+    # "sorry"
 
     ("「ううん、いいよ、気にしないで。それじ痰ゃ、ち痰ゃんは、約束だよ」",
     ""),
     # "Uh, it's fine, don't worry. That's all, phlegm, phlegm, it's a promise."
 
-    ("念を押すように言い残し、あかりは教室を出ていった。†",
+    ("念を押すように言い残し、あかりは教室を出ていった。",
     ""),
-    # He told her to be careful, and Akari left the classroom.†
+    # He told her to be careful, and Akari left the classroom.
 
     ("「なんだよ、お前熨もいっしょにｗ郁翌鞦痰いいだ？」",
     ""),
@@ -90,8 +90,8 @@ text_array = [
     ""),
     # "I wonder if that's it?"
 
-    ("「…ったく」†",
+    ("「…ったく」",
     ""),
-    # "...that's it" †
+    # "...that's it" 
 
 ]

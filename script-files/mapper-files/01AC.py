@@ -2,11 +2,11 @@
 # Source file: 01AC.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（４獅月１４冾日）閨（学校前の坂道２）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（４月１４冾日）閨（学校前の坂道２）",
     ""),
-    # (Akari Scales Event: Departing from school) (4th 14th day) (Tansoku 2nd hill in front of school) †
+    # (Akari Scales Event: Departing from school) (4th 14th day) (Tansoku 2nd hill in front of school) 
 
-    ("坂道を下っていると、いきなり繧後撃から、ぎ繧ゅっと繧上薯のすそを引かれた。",
+    ("坂道を下っていると、いきなり後撃から、ぎゅっと上薯のすそを引かれた。",
     ""),
     # As I was descending the hill, I was suddenly drawn to the spurt after the spurt and then the spurt of potatoes on top of the spurt.
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # It was Akari.
 
-    ("坂道を駆け下濶りてきたらしく、苦しそうに息を吐いてる。†",
+    ("坂道を駆け下濶りてきたらしく、苦しそうに息を吐いてる。",
     ""),
-    # He seemed to be swaying down the slope, and was exhaling in pain.†
+    # He seemed to be swaying down the slope, and was exhaling in pain.
 
     ("「なんだよ、いったい」",
     ""),
     # "What is it, what is it?"
 
-    ("「…はァ、はァ。…い…いっしょに…帰汲うと思って…」",
+    ("「…はァ、はァ。…い…いっしょに…帰うと思って…」",
     ""),
     # "...Haa, haa... I thought I'd return to Ebi..."
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # "Even so, I won't be able to get it going."
 
-    ("「ち痰ゃん、足¢早いんだ烽もの…」",
+    ("「ち痰ゃん、足¢早いんだもの…」",
     ""),
     # "A little smug, it's so quick, it's hot..."
 
-    ("「そうかあ…？」†",
+    ("「そうかあ…？」",
     ""),
     # "Is that so...?"
 

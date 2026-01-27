@@ -2,19 +2,19 @@
 # Source file: 0153.txt
 
 text_array = [
-    ("（あかり	好感度イベント６．１）閨（選択綜Ｂ	笑迴顔で「じ痰ゃあ」と）†",
+    ("（あかり	好感度イベント６．１）閨（選択綜Ｂ	笑顔で「じ痰ゃあ」と）†",
     ""),
     # (Akari Likeability Event 6.1) (Select B: "Shoku" with a smile on his face)†
 
-    ("「じ痰ゃあ、オレ、もう帰驪る墲わ」",
+    ("「じ痰ゃあ、オレ、もう帰驪るわ」",
     ""),
     # "Ah, my slut, I'm already back."
 
-    ("オレは笑迴顔で言った。",
+    ("オレは笑顔で言った。",
     ""),
     # I said with a laughing face.
 
-    ("「あっ、浴送るよ」",
+    ("「あっ、送るよ」",
     ""),
     # "Ah, I'll take a bath."
 
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "It's fine, it's fine."
 
-    ("そう言って起き繧上がうとするあかりを、オレは手で制した。",
+    ("そう言って起き上がうとするあかりを、オレは手で制した。",
     ""),
     # With that in mind, Akari woke up and tried to b, but I won with my hand.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "…yes?"†
 
-    ("オレは鞄を取って立ち繧上がった。",
+    ("オレは鞄を取って立ち上がった。",
     ""),
     # I took a kara bag and stood up.
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "...Yeah. Thank you."
 
-    ("微笑んで軽く手を繧上げると、オレはあかりの部屋を出た。＊",
+    ("微笑んで軽く手を上げると、オレはあかりの部屋を出た。＊",
     ""),
     # I smiled and lightly lifted my hands, and my gut left Akari's room.*
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # That's been the case until now.
 
-    ("そして、これから烽も、多分、ずっと…。◯",
+    ("そして、これからも、多分、ずっと…。◯",
     ""),
     # And from now on, the hot spring will probably last forever...◯
 

@@ -2,27 +2,27 @@
 # Source file: 0121.txt
 
 text_array = [
-    ("（あかり	ＶＳイベント	智子）閨（選択綜Ａ	はっきりと否阡定した）†",
+    ("（あかり	ＶＳイベント	智子）閨（選択綜Ａ	はっきりと否阡定した）",
     ""),
-    # (Akari vs. event Tomoko) (Select A clearly denied)†
+    # (Akari vs. event Tomoko) (Select A clearly denied)
 
     ("はっきりと否阡定した。",
     ""),
     # It was clearly denied.
 
-    ("「あかりはただの幼なじみだぜ。そり痰ゃ№仲は悪くないけど、べつにつき№合ってる墲わけじ痰ゃないぞ」",
+    ("「あかりはただの幼なじみだぜ。そり痰ゃ№仲は悪くないけど、べつにつき№合ってるわけじ痰ゃないぞ」",
     ""),
     # "Akari is just a childhood friend. We're not close to each other, but we're not in a bad relationship with each other, so we're not in a good match for each other."
 
-    ("変なｌ解をされてはたまらん。†",
+    ("変なｌ解をされてはたまらん。",
     ""),
-    # I can't stand it if I get a strange answer.†
+    # I can't stand it if I get a strange answer.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("だが委員長は、ほんの少し意外そうな顔はした烽ものの、",
+    ("だが委員長は、ほんの少し意外そうな顔はしたものの、",
     ""),
     # However, although the chairman seemed a little surprised,
 
@@ -34,15 +34,15 @@ text_array = [
     ""),
     # And leaving that alone, I left without any worries.
 
-    ("べつにオレとあかりがつき№合ってようが、なかうが、とくに関心はないってことか。†",
+    ("べつにオレとあかりがつき№合ってようが、なかうが、とくに関心はないってことか。",
     ""),
-    # Even if I'm a bit of a good match, I guess I'm not particularly interested in it.†
+    # Even if I'm a bit of a good match, I guess I'm not particularly interested in it.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("まあ、委員長がどう思おうとべつにこっちは汲結構なんだけど…。",
+    ("まあ、委員長がどう思おうとべつにこっちは結構なんだけど…。",
     ""),
     # Well, no matter what the chairman thinks, I'm fine with this one...
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Hmm.
 
-    ("しかし、この反梍応はこの反梍応で、やっぱりちょっとさみしい烽ものがあるな。",
+    ("しかし、この反梍応はこの反梍応で、やっぱりちょっとさみしいものがあるな。",
     ""),
     # However, this anti-humanity is due to this anti-humanity, and I still find something sad to see.
 

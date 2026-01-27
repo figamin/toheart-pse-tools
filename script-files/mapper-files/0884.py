@@ -2,19 +2,19 @@
 # Source file: 0884.txt
 
 text_array = [
-    ("（戟レミィ	回秤数イベント	２階１	選択綜Ｂ）†",
+    ("（レミィ	回秤数イベント	２階１	選択綜Ｂ）",
     ""),
-    # (Game Remie Scales Event 2nd Floor 1 Selection B)†
+    # (Game Remie Scales Event 2nd Floor 1 Selection B)
 
     ("最近のガキは生意気だからな。",
     ""),
     # The kids these days are cheeky.
 
-    ("「ガキは凾嫌いだよ」†",
+    ("「ガキは凾嫌いだよ」",
     ""),
     # "I hate kidding"
 
-    ("「堰ｉ獅ｎモｃ窒ｒрｄ奄ｉ撃ｌ。ウソでしょ？」",
+    ("「堰ｎモｃ窒ｒрｄ奄撃ｌ。ウソでしょ？」",
     ""),
     # "Dear lion, Nitrogen, Amaibb, Shooting LB. Is it a lie?"
 
@@ -22,13 +22,13 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("オレには撃レミィの英皷語の意味が、諱よく墲わからなかった。",
+    ("オレには撃レミィの英皷語の意味が、諱よくわからなかった。",
     ""),
     # I couldn't really understand the meaning of the English-language word for Gekiremi.
 
-    ("…で烽も、雰囲気からして『信じられない』って感じだけど…。†",
+    ("…でも、雰囲気からして『信じられない』って感じだけど…。",
     ""),
-    # ...But the atmosphere makes me feel "unbelievable" too...†
+    # ...But the atmosphere makes me feel "unbelievable" too...
 
     ("そうだとして、なぜ、子沁供が凾嫌いだと信じられないことになるんだうか…？",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "I don't believe you!"
 
-    ("戟レミィはオレの腕から離齬れ、逃げるように魔走闡り出した。†",
+    ("レミィはオレの腕から離齬れ、逃げるように魔走闡り出した。",
     ""),
-    # Karemie was separated from my arms and started running away as if to escape.†
+    # Karemie was separated from my arms and started running away as if to escape.
 
     ("途湯で振關り返阨り、",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "I know B-mon!"
 
-    ("と言い残して、氏去っていった。†",
+    ("と言い残して、氏去っていった。",
     ""),
-    # He left, leaving.†
+    # He left, leaving.
 
     ("「………」",
     "…"),
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # Why did Geki Remy hear such a thing?
 
-    ("諱よく墲わからない。◯",
+    ("諱よくわからない。◯",
     ""),
     # I don't really understand the name.◯
 

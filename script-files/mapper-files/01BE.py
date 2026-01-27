@@ -2,7 +2,7 @@
 # Source file: 01BE.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（４獅月２５冾日）閨（学校前の坂道２）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（４月２５冾日）閨（学校前の坂道２）†",
     ""),
     # (Akari Scales Event: Departing from school) (April 25th day) (American Slope 2) (American Slope 2 in front of school) †
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Cake Shop"
 
-    ("「わざ墲わざ太闡りに行くって墲わけだな」",
+    ("「わざわざ太闡りに行くってわけだな」",
     ""),
     # "It's a matter of going on a journey on a journey."
 
@@ -54,19 +54,19 @@ text_array = [
     ""),
     # "Meanwhis? It's a trumpet salvation."†
 
-    ("「で烽も、そのお店、本末当においしいんだって。志保のイチオシなの」",
+    ("「でも、そのお店、本末当においしいんだって。志保のイチオシなの」",
     ""),
     # "The hotpot is also delicious in the restaurant. Shiho's recommendation."
 
-    ("「あいつはなんで烽も大げさに言うからな」",
+    ("「あいつはなんでも大げさに言うからな」",
     ""),
     # "Why does that guy say it exaggerated?"
 
-    ("「どう？	ち痰ゃん烽も一処緒に行かない？」",
+    ("「どう？	ち痰ゃんも一処緒に行かない？」",
     ""),
     # "What do you think? Wouldn't you even go to the Chishonan Chishonan?"
 
-    ("「オレ焜も？」",
+    ("「オレも？」",
     ""),
     # "Are you gonna do I get a really bad?"
 

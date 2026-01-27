@@ -2,11 +2,11 @@
 # Source file: 00B3.txt
 
 text_array = [
-    ("（４獅月１２冾日	朝）閨（自分の部屋）†",
+    ("（４月１２冾日	朝）閨（自分の部屋）†",
     ""),
     # (April 12th day of the month) (morning) (morning my room)
 
-    ("４獅月１２冾日、土曜坥日。",
+    ("４月１２冾日、土曜坥日。",
     ""),
     # The 12th day of the 4th day of the 12th day of the 4th month of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 1
 

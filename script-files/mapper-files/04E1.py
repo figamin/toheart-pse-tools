@@ -2,39 +2,39 @@
 # Source file: 04E1.txt
 
 text_array = [
-    ("（志保	好感度型回秤数イベントＰＳ）閨（好感度で回秤数イベントに入齠れ替岺わり）閨（３／２１限定）†",
+    ("（志保	好感度型回秤数イベントＰＳ）閨（好感度で回秤数イベントに入齠れ替岺わり）閨（３／２１限定）",
     ""),
-    # (Shiho Likeability Type Scales Event PS) (Since it is a good feeling that it will be replaced by the Scales Event) (3/21 limit)†
+    # (Shiho Likeability Type Scales Event PS) (Since it is a good feeling that it will be replaced by the Scales Event) (3/21 limit)
 
     ("おっ、′こうで手招きしてるのは志保、だ。",
     ""),
     # Oh, it's Shiho who beckons me like this.
 
-    ("あかり烽もいっしょだな。",
+    ("あかりもいっしょだな。",
     ""),
     # Akari Hot is also a slut.
 
-    ("オレは二人の方へｌかった。†",
+    ("オレは二人の方へｌかった。",
     ""),
-    # My geisha was on the two of us for good luck.†
+    # My geisha was on the two of us for good luck.
 
     ("「なんだよ、おふたりさん」",
     ""),
     # "What is it, you two?"
 
-    ("「、あんた今、пヤックに行きたいと思った墲わね？」",
+    ("「、あんた今、пヤックに行きたいと思ったわね？」",
     ""),
     # "You're the one who just wanted to go to пYak, right?"
 
-    ("「なんだそり痰ゃ？	思ってねー諱よ」†",
+    ("「なんだそり痰ゃ？	思ってねー諱よ」",
     ""),
-    # "What is that phlegm? I didn't think so, my name is" †
+    # "What is that phlegm? I didn't think so, my name is" 
 
-    ("「隠して烽も無駄ね。",
+    ("「隠しても無駄ね。",
     ""),
     # "Hidden it is no use either.
 
-    ("顔に曹書いてある墲わ。あたしたちとрヤックに行きたいよ〜って」",
+    ("顔に曹書いてあるわ。あたしたちとрヤックに行きたいよ〜って」",
     ""),
     # There's a saurus written on his face.I want to go to yak with me."
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # Shiho's guy, in other words, he wanted to invite me to do some crazy things.
 
-    ("むち痰ゃくち痰ゃな志保のやり方に、あかり烽もくすくす笑っている。†",
+    ("むち痰ゃくち痰ゃな志保のやり方に、あかりもくすくす笑っている。",
     ""),
-    # Akari Hou is chuckling at Shiho's way of tampering with whipping phlegm and blessing.†
+    # Akari Hou is chuckling at Shiho's way of tampering with whipping phlegm and blessing.
 
-    ("「そうだとして烽も、あんたの選択はひとつよ」",
+    ("「そうだとしても、あんたの選択はひとつよ」",
     ""),
     # "Even so, you have one choice, too."
 

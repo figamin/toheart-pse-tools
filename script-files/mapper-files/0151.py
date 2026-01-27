@@ -2,11 +2,11 @@
 # Source file: 0151.txt
 
 text_array = [
-    ("（あかり	好感度イベント	８）閨（あかりとキスをしている場㍼合発生）閨（４獅月３０冾日限定）閨（朝イベントと差し替え）†",
+    ("（あかり	好感度イベント	８）閨（あかりとキスをしている場㍼合発生）閨（４月３０冾日限定）閨（朝イベントと差し替え）",
     ""),
-    # (Akari Likeability Event 8) (Little occurs when kissing Akari) (4th Lying and Month 30th Date) (Supported for morning event) †
+    # (Akari Likeability Event 8) (Little occurs when kissing Akari) (4th Lying and Month 30th Date) (Supported for morning event) 
 
-    ("４獅月３０冾日、＄曜坥日。",
+    ("４月３０冾日、＄曜坥日。",
     ""),
     # Fourth day of the 30th day of the 1st month of the month, $Yoshi-san day.
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # He lifts up from the bed and stretches out loud.
 
-    ("４獅月最終叝日の朝、気分はすこぶる快調だ。†",
+    ("４月最終叝日の朝、気分はすこぶる快調だ。",
     ""),
-    # On the morning of the last day of April Shizuki, I was feeling extremely well.†
+    # On the morning of the last day of April Shizuki, I was feeling extremely well.
 
     ("「行ってきまーす」◯",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Good morning, sputum."
 
-    ("眩しい朝の陽射しを受けながら、あかりはオレに元気な笑迴顔を見せた。",
+    ("眩しい朝の陽射しを受けながら、あかりはオレに元気な笑顔を見せた。",
     ""),
     # As the dazzling morning sunlight was shining, Akari showed me a lively face.
 
@@ -38,13 +38,13 @@ text_array = [
     ""),
     # "Good morning, Akari."
 
-    ("オレ焜も笑迴顔で返す。",
+    ("オレも笑顔で返す。",
     ""),
     # My hardcore replies with a laughing face.
 
-    ("浴風邪、治ったんだな。†",
+    ("風邪、治ったんだな。",
     ""),
-    # The bathing cold has been cured.†
+    # The bathing cold has been cured.
 
     ("「………」",
     "…"),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "yes"
 
-    ("あかりは微笑んでうなずいた。†",
+    ("あかりは微笑んでうなずいた。",
     ""),
-    # Akari smiled and nodded.†
+    # Akari smiled and nodded.
 
     ("「ったく、オ＜メーは研結家かよ」",
     ""),
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # "What..."
 
-    ("「へへへー」†",
+    ("「へへへー」",
     ""),
-    # "Hehehe" †
+    # "Hehehe" 
 
-    ("「とこで、浴風邪のほうは烽もういいのか？」",
+    ("「とこで、風邪のほうはもういいのか？」",
     ""),
     # "At the moment b, is it okay to have a bath cold?"
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # "Yeah, thanks, I've completely."
 
-    ("「そっか」†",
+    ("「そっか」",
     ""),
-    # "I see" †
+    # "I see" 
 
-    ("「お見糟舞いにｗてくれて、ありがとね」",
+    ("「お見舞いにｗてくれて、ありがとね」",
     ""),
     # "Thank you for taking a break lol."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Uh, that's probably what helped me."
 
-    ("「んな墲わけあるか。お前の体の抗体がインフルエンザを撃退したんだ」",
+    ("「んなわけあるか。お前の体の抗体がインフルエンザを撃退したんだ」",
     ""),
     # "What, is there any reason? Your body's antibodies have repelled Inf Cry Luenza b."
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "…already"
 
-    ("あかりはぎこちなく笑った。†",
+    ("あかりはぎこちなく笑った。",
     ""),
-    # Akari laughed awkwardly.†
+    # Akari laughed awkwardly.
 
     ("「とこで、ち痰ゃん」",
     ""),
@@ -150,7 +150,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「なんだよ」†",
+    ("「なんだよ」",
     ""),
     # "What is it?"
 
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # "Uhh."
 
-    ("その瞬間、ほんのりと、や墲わらかな唇の感触がよみがえった。†",
+    ("その瞬間、ほんのりと、やわらかな唇の感触がよみがえった。",
     ""),
-    # At that moment, the slightest touch of her shaved lips revived.†
+    # At that moment, the slightest touch of her shaved lips revived.
 
     ("「お、お前、おとついのアレ、ふたりだけの秘密だからな！」",
     ""),
@@ -178,13 +178,13 @@ text_array = [
     ""),
     # "What, that chubby smile?!"
 
-    ("「なんで烽もない、なんで烽もない」",
+    ("「なんでもない、なんでもない」",
     ""),
     # "Why don't there be any hot springs, why don't they?"
 
-    ("「…ちっ」†",
+    ("「…ちっ」",
     ""),
-    # "...Two" †
+    # "...Two" 
 
     ("「うん、わかった。ないしょにしとく」",
     ""),
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "Yeah, yes."
 
-    ("嬉しそうな笑迴顔でうなずくあかりに、オレはそっぽをｌいた。◯",
+    ("嬉しそうな笑顔でうなずくあかりに、オレはそっぽをｌいた。◯",
     ""),
     # Akari nodded with a happy smile, and I turned away.◯
 

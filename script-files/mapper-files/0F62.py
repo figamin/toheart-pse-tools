@@ -2,11 +2,11 @@
 # Source file: 0F62.txt
 
 text_array = [
-    ("（４獅月２０冾日	冝日）閨（志保の場㍼合）†",
+    ("（４月２０冾日	冝日）閨（志保の場㍼合）†",
     ""),
     # (April 20th day of the month) (April 10th day of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month)†
 
-    ("正直あいつに借闔りをｍ骰るのはシャャクだが、一番灯遠慮なく電話できるからな。",
+    ("正直あいつに借りをｍ骰るのはシャャクだが、一番灯遠慮なく電話できるからな。",
     ""),
     # To be honest, it's Shaku who is the one who is trying to borrow money from him, but I can call him the most without hesitation.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Kaji Ai Henzaki is talking to someone else without saying that?†
 
-    ("結局、♂史に聞いて、事なきを得た。◯",
+    ("結局、雅史に聞いて、事なきを得た。◯",
     ""),
     # In the end, I asked Masochist about it and found that it was fine.◯
 

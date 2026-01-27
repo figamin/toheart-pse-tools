@@ -2,9 +2,9 @@
 # Source file: 0390.txt
 
 text_array = [
-    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（かつ）閨（選択綜Ａ	いっしょに帰汲うかと誘う。	の続き）†",
+    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（かつ）閨（選択綜Ａ	いっしょに帰うかと誘う。	の続き）",
     ""),
-    # (Tomoko's Scale Event 2F LV1) (See the Likeability Event 8) (Katsu) (Invites to return to Chosen A and Isshi Ebi. Continued) †
+    # (Tomoko's Scale Event 2F LV1) (See the Likeability Event 8) (Katsu) (Invites to return to Chosen A and Isshi Ebi. Continued) 
 
     ("「いようっ、委員長」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # He called out in a friendly manner from his back.
 
-    ("「…くん」†",
+    ("「…くん」",
     ""),
-    # "...kun" †
+    # "...kun" 
 
     ("「なんだ、今厓日燗もひとりでお帰闍りか？」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "How about going back to Ebi with my friends once in a while?"
 
-    ("「そんなん、おらへん」†",
+    ("「そんなん、おらへん」",
     ""),
-    # "That's not you" †
+    # "That's not you" 
 
     ("「なに言ってんだ。いるだ？	ここに」",
     ""),
@@ -46,11 +46,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("「てな墲わけで、今厓日はいっしょに帰汲うぜ？」",
+    ("「てなわけで、今厓日はいっしょに帰うぜ？」",
     ""),
     # "So, let's go back to Ebi now, right now?"
 
-    ("オレは笑迴顔で誘ってみた。",
+    ("オレは笑顔で誘ってみた。",
     ""),
     # I invited her out with a laughing face.
 
@@ -62,11 +62,11 @@ text_array = [
     ""),
     # "Well, that's really good though..."
 
-    ("目をそらし、委員長はつぶやいた。†",
+    ("目をそらし、委員長はつぶやいた。",
     ""),
-    # His eyes faded, and the chairman muttered.†
+    # His eyes faded, and the chairman muttered.
 
-    ("ってな墲わけで、オレは委員長といっしょに帰驪ることになった。",
+    ("ってなわけで、オレは委員長といっしょに帰驪ることになった。",
     ""),
     # So, I ended up going back to the committee chairperson.
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # A return slope.
 
-    ("なにげないｉ話の途湯で、委員長がふと、こんなことを聞いてきた。†",
+    ("なにげない話の途湯で、委員長がふと、こんなことを聞いてきた。",
     ""),
-    # At the end of a random conversation, the chairman suddenly asked me what he was saying.†
+    # At the end of a random conversation, the chairman suddenly asked me what he was saying.
 
     ("「…なあ、くん」",
     ""),
@@ -94,15 +94,15 @@ text_array = [
     ""),
     # "a?"
 
-    ("いきなり嘯答えにくい質竡問だな。†",
+    ("いきなり嘯答えにくい質竡問だな。",
     ""),
-    # It's a very difficult question to answer all of a sudden.†
+    # It's a very difficult question to answer all of a sudden.
 
-    ("オレは墲わずかに戸惑ってから、",
+    ("オレはわずかに戸惑ってから、",
     ""),
     # My heart was slightly confused,
 
-    ("「んな、＊髢暮なこと聞くなよ。男が翌女の子に近づく揩理由なんて、ひとつしかねーだ？」",
+    ("「んな、＊髢暮なこと聞くなよ。男が翌女の子に近づく理由なんて、ひとつしかねーだ？」",
     ""),
     # "Huh, don't ask anything that's hard to behave. Is there one reason why a man approaches the next girl?"
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "It's an ulterior motive, ulterior motive."
 
-    ("へっへっへっ、と笑いながら言う。†",
+    ("へっへっへっ、と笑いながら言う。",
     ""),
-    # Hehehehehe, hehehehehehe.†
+    # Hehehehehe, hehehehehehe.
 
     ("「くん、こっちは真武剣に聞いてるんや。ち痰ゃんと真面目に嘯答えて！」",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # I was scolded.
 
-    ("なんだよ、委員長のやつ、いきなりマジな顔して。†",
+    ("なんだよ、委員長のやつ、いきなりマジな顔して。",
     ""),
-    # What is it? The chairman's tampering with him suddenly makes a serious look on his face.†
+    # What is it? The chairman's tampering with him suddenly makes a serious look on his face.
 
     ("えっと、なんで№仲良くしたがるかって？",
     ""),

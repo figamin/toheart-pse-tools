@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What is it so sinister?"
 
-    ("「蛛大地震の前触齔れか烽も…」",
+    ("「蛛大地震の前触齔れかも…」",
     ""),
     # "And before the earthquake, or a hot spring..."
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Speak to the hand of the silence!"
 
-    ("その冾日は、いつ烽もの調子で、志保と口膜喧嘩しながら帰った。†",
+    ("その冾日は、いつもの調子で、志保と口膜喧嘩しながら帰った。†",
     ""),
     # On that date, I went home in a hot tone and was fighting with Shiho.†
 

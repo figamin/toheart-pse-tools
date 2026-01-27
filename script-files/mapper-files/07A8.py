@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Mr. Miss"
 
-    ("不意に繧後撃から呼ばれ、オレは振關り返った。",
+    ("不意に後撃から呼ばれ、オレは振關り返った。",
     ""),
     # Suddenly, I was called out after the attack, and my anger replied.
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Hello"
 
-    ("彼濫女はオレにぺこりと頭を下げた。",
+    ("彼女はオレにぺこりと頭を下げた。",
     ""),
     # The overwhelmed woman bowed her head to me.
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Are you coming back?"
 
-    ("「まあな。けど、帰驪るっていって烽もまっすぐ帰驪るつ烽もりはねえけどな」",
+    ("「まあな。けど、帰驪るっていってもまっすぐ帰驪るつもりはねえけどな」",
     ""),
     # "Well, but there's no way the chicken goes straight back."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Stumble around the station"
 
-    ("Ａ	琴音ち痰ゃん烽もいっしょにどうだ？閨",
+    ("Ａ	琴音ち痰ゃんもいっしょにどうだ？閨",
     ""),
     # A: How about Kotone's sphin-chan and other hot springs?Relax
 

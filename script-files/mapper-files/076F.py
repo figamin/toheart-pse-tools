@@ -2,11 +2,11 @@
 # Source file: 076F.txt
 
 text_array = [
-    ("（琴音	好感度移行選択イベントＰＳ）†",
+    ("（琴音	好感度移行選択イベントＰＳ）",
     ""),
-    # (Kotone Likeability Transfer Selection Event PS)†
+    # (Kotone Likeability Transfer Selection Event PS)
 
-    ("諱よ〜し、この授業が終尞われば汲昼休みだ。",
+    ("諱よ〜し、この授業が終尞われば昼休みだ。",
     ""),
     # Okay, once this class is over, it's lunch break.
 
@@ -26,8 +26,8 @@ text_array = [
     ""),
     # B I won't go.Relax
 
-    ("いや、また今度にしよう。†",
+    ("いや、また今度にしよう。",
     ""),
-    # I'll tamper with it, I'll do it again next time.†
+    # I'll tamper with it, I'll do it again next time.
 
 ]

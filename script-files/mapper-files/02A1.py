@@ -46,7 +46,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩は顔を繧上げて、オレを見た。",
+    ("諱先輩は顔を上げて、オレを見た。",
     ""),
     # Senpai lifted his face and looked at me.
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # It was a hardcover book that looked like a b-expensive.
 
-    ("「なになに、幽覧概論？	はは、読んでる本は鰍相変﨑わらずな墲わけね」",
+    ("「なになに、幽覧概論？	はは、読んでる本は鰍相変﨑わらずなわけね」",
     ""),
     # "What is it, an overview of Yuzuna? Haha, the books you're reading are so unbeatable."
 
@@ -110,11 +110,11 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「ふーん、いつ烽もやってる墲わけじ痰ゃないんだ。そうだよな。",
+    ("「ふーん、いつもやってるわけじ痰ゃないんだ。そうだよな。",
     ""),
     # "Hmm, there's no reason to avoid this when you're tampering with Hot Springs. That's right.
 
-    ("やっぱお烽金搴持ちのおｏ様だし、いい厳しいんだよな」",
+    ("やっぱお金搴持ちのおｏ様だし、いい厳しいんだよな」",
     ""),
     # After all, O-san has a lot of money, so it's tough for me to be a big bud."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # My guts drove deep into the bench.
 
-    ("「それにして烽も、いい冾日和だねぇ」",
+    ("「それにしても、いい冾日和だねぇ」",
     ""),
     # "And that's why it's a good day for Hot."
 
@@ -142,7 +142,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩熹もオレにあ墲わせて空を見上げた。†",
+    ("諱先輩熹もオレにあわせて空を見上げた。†",
     ""),
     # Senpai Kei also made me smack and looked up at the sky.†
 
@@ -154,11 +154,11 @@ text_array = [
     ""),
     # The date is still b high.
 
-    ("遠くから冾放課繪後のざ墲わめきが聞こえてくる。",
+    ("遠くから冾放課繪後のざわめきが聞こえてくる。",
     ""),
     # From afar, I can hear the throbbing after the school was erected.
 
-    ("浴風が≠吹いて、諱先輩の髪がさらさら曹舞った。†",
+    ("風が≠吹いて、諱先輩の髪がさらさら曹舞った。†",
     ""),
     # The bathing atmosphere blew, and my senior's hair fluttered into a smooth, serene dance.†
 
@@ -166,11 +166,11 @@ text_array = [
     ""),
     # What is b?
 
-    ("こうやって先輩のそばにいると、不思議と獅落ちｒいた気分になる。",
+    ("こうやって先輩のそばにいると、不思議と落ちｒいた気分になる。",
     ""),
     # When I was standing by my senior's side by side, I strangely felt like I had fallen lion.
 
-    ("ずっとこうしてて烽もいい、みたいな…。",
+    ("ずっとこうしててもいい、みたいな…。",
     ""),
     # It's like I've been doing it like this forever and it's nice to have hot water...
 
@@ -186,7 +186,7 @@ text_array = [
     ""),
     # "?"
 
-    ("Ａ	おこづかい、いくら烽もらってんの？閨",
+    ("Ａ	おこづかい、いくらもらってんの？閨",
     ""),
     # A. How much heat are you getting?Relax
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # B Is there anything else that tastes?
 
-    ("Ｃ	＊淫俣冾｢い烽もん食べてんの？閨",
+    ("Ｃ	＊淫俣冾｢いもん食べてんの？閨",
     ""),
     # C *Inmata Satoshi: Are you eating hot pot?
 

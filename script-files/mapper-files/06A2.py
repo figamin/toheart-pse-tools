@@ -2,11 +2,11 @@
 # Source file: 06A2.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	１階１）閨（選択綜Ｃ	目笆や耳はどうなってんだ？）†",
+    ("（マルチ	回秤数イベント	１階１）閨（選択綜Ｃ	目笆や耳はどうなってんだ？）",
     ""),
-    # (Macyuruchi, Scales Event, 1st floor 1) (Select C: What's going on with the steps and ears?)†
+    # (Macyuruchi, Scales Event, 1st floor 1) (Select C: What's going on with the steps and ears?)
 
-    ("「マルチの目とか耳って、どうなってんだ？	最新型の高ロボットだし、やっぱり超ｒ高性能なセンサーとか烽内蔵してて、１キ鴻ロ諠先の映怏像が見えたりとか、学校穀の音が聞こえたりとかするのか？」†",
+    ("「マルチの目とか耳って、どうなってんだ？	最新型の高ロボットだし、やっぱり超ｒ高性能なセンサーとか内蔵してて、１キ鴻ロ諠先の映怏像が見えたりとか、学校穀の音が聞こえたりとかするのか？」",
     ""),
     # "What's going on with the eyes and ears of the slut? It's the latest high-speed robot, and I guess it has an ultra-high-performance sensor and built-in hot sensor, so you can see the image of the 1st Kikoro Robot, or hear the sound of school grain?"
 
@@ -14,11 +14,11 @@ text_array = [
     ""),
     # "...No, unfortunately, it's not amazing. I think he's probably about the same as Mr."
 
-    ("「オレと同じ？」†",
+    ("「オレと同じ？」",
     ""),
     # "Is it the same as my geisha?"
 
-    ("「はい。目は高感度ＣＣＤカ＜メラ…とかいう立派な烽ものなんですけど、ズーム機能などはないんです。だから、あそこの張闥りｎの文囎字燻も、もう読めません」",
+    ("「はい。目は高感度ＣＣＤカ＜メラ…とかいう立派なものなんですけど、ズーム機能などはないんです。だから、あそこの張闥りｎの文囎字燻も、もう読めません」",
     ""),
     # "Yes. My eyes are a great hot spring called b-high sensitivity CCD camera <Meenra... but they don't have a zoom function. So I can't even read the Zhang Xing's Smoking Smoking over there anymore."
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # McDonald said, pointing to Zhang Xian, who was at a distance of 8 mtDonald's discrepancy.
 
-    ("小さい嘯字で、オレに烽も読めない。†",
+    ("小さい嘯字で、オレにも読めない。",
     ""),
-    # It's a small letter, and I can't even read the hot water.†
+    # It's a small letter, and I can't even read the hot water.
 
     ("「…＝普通ってことか」",
     ""),
@@ -50,15 +50,15 @@ text_array = [
     ""),
     # i can't hear you"
 
-    ("「つまりは、どっち烽も人並みってことか」",
+    ("「つまりは、どっちも人並みってことか」",
     ""),
     # "In other words, does that mean that both of the hot springs are just as common?"
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
-    ("「で烽も、そっちの方がいいんじ痰ゃねーの？」",
+    ("「でも、そっちの方がいいんじ痰ゃねーの？」",
     ""),
     # "And that's good fortune, isn't it better to have phlegm?"
 
@@ -66,15 +66,15 @@ text_array = [
     ""),
     # "...Why?"
 
-    ("「だってさ、もし、マルチがすごいセンサーとかを揩持ってたら、なんで烽も見透かされてるみたいで、やっぱ気分良くねーしな」",
+    ("「だってさ、もし、マルチがすごいセンサーとかを持ってたら、なんでも見透かされてるみたいで、やっぱ気分良くねーしな」",
     ""),
     # "Well, if Makruchi had an incredible sensor, it seems like he's been able to see through the hot water, so I really don't feel good."
 
-    ("「あっ、そうですね」†",
+    ("「あっ、そうですね」",
     ""),
     # "Ah, that's right."
 
-    ("「蛛主人の秘密をなんで烽も知ってる≠メイド鴻ロボっての烽も凾嫌だしな」",
+    ("「蛛主人の秘密をなんでも知ってる≠メイド鴻ロボってのも凾嫌だしな」",
     ""),
     # "Why does Kano know the secret of the master of the Dermaid, I don't want to let him down as Maid Korobo."
 
@@ -82,8 +82,8 @@ text_array = [
     ""),
     # "I agree!"
 
-    ("マルチはにこっと微笑んだ。†",
+    ("マルチはにこっと微笑んだ。",
     ""),
-    # Ruchi smiled.†
+    # Ruchi smiled.
 
 ]

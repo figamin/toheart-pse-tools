@@ -2,27 +2,27 @@
 # Source file: 04F6.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	興味なし）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	興味なし）",
     ""),
-    # (Shiho Scales Event PS) (Chooses, No Interest)†
+    # (Shiho Scales Event PS) (Chooses, No Interest)
 
     ("「興味なし」",
     ""),
     # "No interest"
 
-    ("「あらそお、そんなんじ痰ゃ翌女の子のハートをＧＥＴできない墲わよ？」",
+    ("「あらそお、そんなんじ痰ゃ翌女の子のハートをＧＥＴできないわよ？」",
     ""),
     # "Oh, if you don't have to phlegm, you won't be able to get the heart of the girl next time, right?"
 
-    ("「いまのとこは必要ないね」†",
+    ("「いまのとこは必要ないね」",
     ""),
-    # "I don't need b at this moment" †
+    # "I don't need b at this moment" 
 
-    ("「ストイックなこと言う墲わね〜」",
+    ("「ストイックなこと言うわね〜」",
     ""),
     # "You're saying stoic things."
 
-    ("「いまのとこは、な」†",
+    ("「いまのとこは、な」",
     ""),
     # "What is the place b now?"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What are you talking about? Just invite Akari, phlegmy.
 
-    ("喜ぶ墲わよ〜」",
+    ("喜ぶわよ〜」",
     ""),
     # I'm happy
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I don't have any phlegms. I'll get it at this point."
 
-    ("「わかんねえこと言うな」†",
+    ("「わかんねえこと言うな」",
     ""),
     # "Don't say anything you don't know"
 

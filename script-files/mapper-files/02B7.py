@@ -2,9 +2,9 @@
 # Source file: 02B7.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	全然卵似てねーな）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	全然卵似てねーな）",
     ""),
-    # (Seri°Kawa, Scales Event, Departing from School LV2)Seri (Seri A, doesn't look like eggs at all)†
+    # (Seri°Kawa, Scales Event, Departing from School LV2)Seri (Seri A, doesn't look like eggs at all)
 
     ("「しかし、お前迹ら、全然卵似てねーな」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "That's right. Personality is completely opposite, so you have phlegm."
 
-    ("「そうかなぁ。これで烽も意外と翌似てるのよ」†",
+    ("「そうかなぁ。これでも意外と翌似てるのよ」",
     ""),
     # "I guess so. Now the hot springs look surprisingly similar to the next day."
 
@@ -30,11 +30,11 @@ text_array = [
     "…"),
     # "..."
 
-    ("「まあ、それはそうか烽も知れないけど、浴似てる部分熾も多いのよ。たとえば、好みとかね」",
+    ("「まあ、それはそうかも知れないけど、似てる部分熾も多いのよ。たとえば、好みとかね」",
     ""),
     # "Well, that's true, but the hot springs aren't even known, but there are a lot of heat that makes the bath look alike. For example, your preference."
 
-    ("「好み？」†",
+    ("「好み？」",
     ""),
     # "Do you like it?"
 
@@ -46,11 +46,11 @@ text_array = [
     ""),
     # When I said that, * chuckled and peered into my face from below.
 
-    ("「…お、おい？」†",
+    ("「…お、おい？」",
     ""),
     # "...Oh, hey?"
 
-    ("「だから、姉さんが好きになる人だったら、このр私に烽もウケがいいのよ」",
+    ("「だから、姉さんが好きになる人だったら、このр私にもウケがいいのよ」",
     ""),
     # "So, if you're someone who likes your sister, you'll love this guy too."
 
@@ -70,8 +70,8 @@ text_array = [
     "…"),
     # "..."
 
-    ("へ、変な翌女。†",
+    ("へ、変な翌女。",
     ""),
-    # Oh, the strange girl next time.†
+    # Oh, the strange girl next time.
 
 ]

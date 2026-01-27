@@ -2,9 +2,9 @@
 # Source file: 0086.txt
 
 text_array = [
-    ("（冝期槙末テスト	２冾日目）閨（選択綜	まあまあ）†",
+    ("（冝期槙末テスト	２冾日目）閨（選択綜	まあまあ）",
     ""),
-    # (2nd day of the sinus final test) (Shonen So, ok)†
+    # (2nd day of the sinus final test) (Shonen So, ok)
 
     ("「まあまあ、かな」",
     ""),
@@ -26,11 +26,11 @@ text_array = [
     ""),
     # "Ah...
 
-    ("り。本末当の実力以繹上に力があると思い桙込んでるってことだよ」†",
+    ("り。本末当の実力以繹上に力があると思い桙込んでるってことだよ」",
     ""),
     # the law of nature.It means that he thinks that he has the power beyond his true potential."
 
-    ("「で烽もネ、アタシはのこと、頭イイって思ってるよ」",
+    ("「でもネ、アタシはのこと、頭イイって思ってるよ」",
     ""),
     # "And I also think that I have a good mind."
 
@@ -42,8 +42,8 @@ text_array = [
     ""),
     # "The 'kenson' is delicious"
 
-    ("おやまあ、通じてませんよ。†",
+    ("おやまあ、通じてませんよ。",
     ""),
-    # It's not clear, it's not understood.†
+    # It's not clear, it's not understood.
 
 ]

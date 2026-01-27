@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Is it Ghoo Robe...?"
 
-    ("「うん。そいつで手っ取闔り≠早く強くなる方法を教えてほしいんだけど」†",
+    ("「うん。そいつで手っ取り≠早く強くなる方法を教えてほしいんだけど」†",
     ""),
     # "Yes. I would like to know how to get better quickly with that guy to get stronger."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "I agree.
 
-    ("手っ取闔り≠早くというのなら、やっぱりボクシングを習うのが一番いいかと思いますけど」",
+    ("手っ取り≠早くというのなら、やっぱりボクシングを習うのが一番いいかと思いますけど」",
     ""),
     # If you're going to get the point of your hand, then I think it's best to learn boxing after all."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "I have to get strong quickly, so long as I don't have time to learn, I have to get strong."
 
-    ("「で烽も、そう一朝一夕には…」",
+    ("「でも、そう一朝一夕には…」",
     ""),
     # "And even though it's just one morning, it's just one evening..."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # I'll try to revive it loudly.†
 
-    ("「あとは、複雑な技をいくつ烽も覚えるより、なにかひとつで烽も、徹齠底的にやり桙込んだ技があるほうが、実寬戦では重宝しますよ」",
+    ("「あとは、複雑な技をいくつも覚えるより、なにかひとつでも、徹齠底的にやり桙込んだ技があるほうが、実寬戦では重宝しますよ」",
     ""),
     # "And then, it's more useful in real battles to have a technique that involves tampering with just one technique, rather than memorizing multiple complex techniques."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # Something is completely crucial...?†
 
-    ("「堰初心者の人はストレートばかり高注目しがちですが、実際の獅試㍽合では左のショートフックが非嵓常に有効なんですよ」",
+    ("「堰初心者の人はストレートばかり高注目しがちですが、実際の試㍽合では左のショートフックが非嵓常に有効なんですよ」",
     ""),
     # "People who are new to weir tend to focus on high-speed straights only, but in actual Lion Exam Lion Exam Ling, the left side hook is always effective."
 

@@ -2,17 +2,13 @@
 # Source file: 0F41.txt
 
 text_array = [
-    ("（３獅月８冾日	土曜坥日）閨（堰ラジオ	１回目）閨（堰ラジオ聞いた場㍼合）†",
+    ("（３月８冾日	土曜坥日）閨（堰ラジオ	１回目）閨（堰ラジオ聞いた場㍼合）",
     ""),
-    # (3rd Lion, 8th Saturday, Saturday, Sunday, Sunday) (1st Weir Radio) (1st Weir Radio) (Leads to the place where you listened to the weir Radio)†
+    # (3rd Lion, 8th Saturday, Saturday, Sunday, Sunday) (1st Weir Radio) (1st Weir Radio) (Leads to the place where you listened to the weir Radio)
 
-    ("堰ラジオのスイッチを入齠れた。†",
+    ("堰ラジオのスイッチを入齠れた。",
     ""),
-    # I turned on the weir radio.†
-
-    ("・",
-    ""),
-    # ・
+    # I turned on the weir radio.
 
     ("・",
     ""),
@@ -26,11 +22,15 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("そういや、この間オレ焜もｉ史に『つゆだく』をすすめてやったっけ。",
+    ("・",
+    ""),
+    # ・
+
+    ("そういや、この間オレも史に『つゆだく』をすすめてやったっけ。",
     ""),
     # That being said, I wonder if my other day, I also recommended "Tsuga-do-do" and tampered with I-Hisashi.
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # He really liked it.
 
-    ("あー、なんか食いたくなってきた。†",
+    ("あー、なんか食いたくなってきた。",
     ""),
-    # Ah, I'm starting to feel like eating something.†
+    # Ah, I'm starting to feel like eating something.
 
-    ("そして、３獅月８冾日が過ぎていく。◯",
+    ("そして、３月８冾日が過ぎていく。◯",
     ""),
     # And the 8th day of the 3rd Shizuki era passes.◯
 

@@ -2,11 +2,11 @@
 # Source file: 0399.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｂ	どっちが本末当かなんて墲わかんねーだ）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｂ	どっちが本末当かなんてわかんねーだ）†",
     ""),
     # (Tomoko's Scales Event: Departing from School LV1) (Choice B: I don't know which is the real deal b)†
 
-    ("「…どっちが本末当かなんて墲わかんねーだ。だからなんと烽も言えねーな」",
+    ("「…どっちが本末当かなんてわかんねーだ。だからなんとも言えねーな」",
     ""),
     # "...I don't know which one is the real deal. So I can't even say what a hot topic."
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # Shayaku believes in Shiho's information, and most importantly, I don't want to agree with Fukukata Fu, who says bad things about it.†
 
-    ("とはいう烽ものの、もしかしたら志保のほうが正しいのか烽もしれないし、一概にうそつき呼ば墲わりするの烽も垂乱暴だ。",
+    ("とはいうものの、もしかしたら志保のほうが正しいのかもしれないし、一概にうそつき呼ばわりするのも垂乱暴だ。",
     ""),
     # That said, it's probably Shiho is more correct, and it's also violent that if he calls him a liar, he's going to fall for him.
 
-    ("まあ、本末当のとこは墲わかんねーんだし、そういうう墲わさが流齬れてるって程度に留めておこう。†",
+    ("まあ、本末当のとこはわかんねーんだし、そういううわさが流齬れてるって程度に留めておこう。†",
     ""),
     # Well, I don't know about the main story, so let's just say that such a trait is in conflict.†
 
-    ("「ま、う墲わさの真偽はと烽もかくとして、彼濫女は獅去年からずっとあんな感じなのよね」",
+    ("「ま、うわさの真偽はともかくとして、彼女は去年からずっとあんな感じなのよね」",
     ""),
     # "Well, it's true and false, but the girl who has been feeling that way since last year has been like that."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Is there no close friends?”
 
-    ("「さあ？	誰かと親しくしてるとこなんて見たことない墲わね。きっとひとりでいるのが好きなのよ」",
+    ("「さあ？	誰かと親しくしてるとこなんて見たことないわね。きっとひとりでいるのが好きなのよ」",
     ""),
     # "Now? I've never seen anyone get along with B. I'm sure I like being alone."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Come on?
 
-    ("もしかして、あんた、マジで彼濫女に気があんの？」",
+    ("もしかして、あんた、マジで彼女に気があんの？」",
     ""),
     # Maybe you really feel like a boyfriend or woman?”
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Oh my goodness, that's not the case, I've never spoken about it even though the seats are next to each other."
 
-    ("「冝放っておきなさいよ。どうせ、声かけて烽も、さっきみたいにあしら墲われておしまいよ」",
+    ("「冝放っておきなさいよ。どうせ、声かけても、さっきみたいにあしらわれておしまいよ」",
     ""),
     # "Leave it alone. Anyway, call out to me, and the hot springs will be finished as before."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Well... isn't it?"
 
-    ("たしかに、本人に烽もはっきりと言甯われたし、あんまり関孖わらないほうがいいのか烽もな。◯",
+    ("たしかに、本人にもはっきりと言甯われたし、あんまり関孖わらないほうがいいのかもな。◯",
     ""),
     # It's true that the person himself clearly stated that the hot springs were also revealed, so it's probably better not to be too involved in the hot springs either.◯
 

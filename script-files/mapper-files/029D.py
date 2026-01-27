@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "?"†
 
-    ("「今厓日いっしょに帰汲うぜ？」",
+    ("「今厓日いっしょに帰うぜ？」",
     ""),
     # "I'll return to the slut now, right?"
 

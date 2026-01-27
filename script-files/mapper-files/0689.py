@@ -2,11 +2,11 @@
 # Source file: 0689.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ａ	「わっ！」と驚かす）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ａ	「わっ！」と驚かす）",
     ""),
-    # (Muryuruchi Scales Event 2F LV2) (Shocking Sou A surprise with "Whoa!")†
+    # (Muryuruchi Scales Event 2F LV2) (Shocking Sou A surprise with "Whoa!")
 
-    ("こういう無防備なрヤツは繧後撃から驚かせてやりたくなるよな。",
+    ("こういう無防備なрヤツは後撃から驚かせてやりたくなるよな。",
     ""),
     # I'm sure this defenseless guy will want to surprise him and tamper with him after the attack.
 
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I let out footsteps and got close to the attack after the cries of the cries.
 
-    ("それで烽もマルチは、まだ気がつかない。◯",
+    ("それでもマルチは、まだ気がつかない。◯",
     ""),
     # So, Kao also doesn't notice it yet.◯
 
@@ -50,13 +50,13 @@ text_array = [
     ""),
     # Raaaa =v
 
-    ("なにが楽しいのか、鼻歌まじりに汲窓をふいている。",
+    ("なにが楽しいのか、鼻歌まじりに窓をふいている。",
     ""),
     # I hummed and snip the windows to see what's fun.
 
-    ("聞き覚えのある歌だな。†",
+    ("聞き覚えのある歌だな。",
     ""),
-    # It's a familiar song.†
+    # It's a familiar song.
 
     ("「驕るｄ",
     ""),
@@ -78,13 +78,13 @@ text_array = [
     ""),
     # Raaaa =v
 
-    ("はー…っと、息を吐きかけ、き繧ゅっき繧ゅっと楽しそうに汲窓をふく。",
+    ("はー…っと、息を吐きかけ、きゅっきゅっと楽しそうに窓をふく。",
     ""),
     # Haha... I took a breath and rewound the window in amusement.
 
-    ("オレは肺いっぱいに、すぅ〜っと大きく息を吸い桙込むと…。†",
+    ("オレは肺いっぱいに、すぅ〜っと大きく息を吸い桙込むと…。",
     ""),
-    # My lungs were full, and I took a deep breath and took a deep breath...†
+    # My lungs were full, and I took a deep breath and took a deep breath...
 
     ("「わっ！」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # I cried and pushed my back.
 
-    ("すると。†",
+    ("すると。",
     ""),
-    # And then.†
+    # And then.
 
     ("「………」",
     "…"),
@@ -106,15 +106,15 @@ text_array = [
     ""),
     # Wow... Pattern.
 
-    ("あっけなく気を失い、そのまま床に崩れるマルチ。†",
+    ("あっけなく気を失い、そのまま床に崩れるマルチ。",
     ""),
-    # He suddenly faints and collapses on the floor.†
+    # He suddenly faints and collapses on the floor.
 
     ("「え、えっと…」",
     ""),
     # "Eh, uh..."
 
-    ("しばらく呆然とそれを眺めていたオレは、苦笑しながらま墲わりの様子を見渡した。",
+    ("しばらく呆然とそれを眺めていたオレは、苦笑しながらまわりの様子を見渡した。",
     ""),
     # I was staring at it in a stunning way for a while, and with a wry smile I looked over at the scene.
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # Return the vision consultation to the foot gift.
 
-    ("仰旧けに倒齠れたマルチは、そのままピクリと烽も動かない。†",
+    ("仰旧けに倒齠れたマルチは、そのままピクリとも動かない。",
     ""),
-    # After being defeated by his anger, Makruchi still throbbed and the hot springs remained unmoved.†
+    # After being defeated by his anger, Makruchi still throbbed and the hot springs remained unmoved.
 
     ("「お、おい、マジかよ…」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # I slammed my fingers against her cheek.
 
-    ("頭が、くたっ…と９０度横に傾いて、前髪がはらりと曹舞い獅落ちる。†",
+    ("頭が、くたっ…と９０度横に傾いて、前髪がはらりと曹舞い落ちる。",
     ""),
-    # His head tilted 90 degrees to the side, smashing it, and his bangs fell into a caucasian dance.†
+    # His head tilted 90 degrees to the side, smashing it, and his bangs fell into a caucasian dance.
 
     ("「な、なあ、マルチ、轣冗談だ？」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("だが、なんの返抹事燻もない。†",
+    ("だが、なんの返抹事燻もない。",
     ""),
-    # However, there was no smoking.†
+    # However, there was no smoking.
 
     ("げっ、げげげっ。",
     ""),
@@ -174,21 +174,21 @@ text_array = [
     ""),
     # "Ma, mum, mum, mum, mum, mum
 
-    ("その細い肩を抱え起こした。†",
+    ("その細い肩を抱え起こした。",
     ""),
-    # He lifted up his thin shoulders.†
+    # He lifted up his thin shoulders.
 
-    ("マルチの体はとて烽も機械で出女ているとは思えないほど軽かった。",
+    ("マルチの体はとても機械で出女ているとは思えないほど軽かった。",
     ""),
     # Makruchi's body was so light that it was hard to believe that the hot spring was coming out by a machine.
 
-    ("ち痰ゃんと体温があり、そのうえ柔迴らかい。",
+    ("ち痰ゃんと体温があり、そのうえ柔らかい。",
     ""),
     # He has a sputum and body temperature, and is also soft and gentle.
 
-    ("本末当に人間そっくりだ。†",
+    ("本末当に人間そっくりだ。",
     ""),
-    # He looks just like a human, in the end.†
+    # He looks just like a human, in the end.
 
     ("「おい、マルチ、しっかりし！」",
     ""),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # I slapped on the cheek.
 
-    ("温かくて柔迴らかな、人間そっくりな肌。†",
+    ("温かくて柔らかな、人間そっくりな肌。",
     ""),
-    # Warm, soft, and human-like skin.†
+    # Warm, soft, and human-like skin.
 
     ("「マルチっ、マルチってば」",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # "Hey, I'm crying! I'm crying!"
 
-    ("艨ゆさゆさとモしく肩を揺さぶってみた。†",
+    ("艨ゆさゆさとモしく肩を揺さぶってみた。",
     ""),
-    # I tried to shake my shoulders vigorously.†
+    # I tried to shake my shoulders vigorously.
 
     ("「………」",
     "…"),
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # It's just a spring.
 
-    ("って、轣冗談竰やってる場㍼合じ痰ゃねーぞ。†",
+    ("って、轣冗談竰やってる場㍼合じ痰ゃねーぞ。",
     ""),
-    # That's right, there's no way they're joking about it.†
+    # That's right, there's no way they're joking about it.
 
     ("オ、オレがびっくりさせたせい…だよな、やっぱり。",
     ""),
@@ -258,11 +258,11 @@ text_array = [
     ""),
     # Peep peep peep peep.
 
-    ("なんだよ、ちょっと驚かせただけだ〜？†",
+    ("なんだよ、ちょっと驚かせただけだ〜？",
     ""),
-    # What is it, I just surprised you b?†
+    # What is it, I just surprised you b?
 
-    ("きっと、ブレーカーが獅落ちたか、ヒャーズが飛んだんだう。",
+    ("きっと、ブレーカーが落ちたか、ヒャーズが飛んだんだう。",
     ""),
     # I'm sure the breaker has fallen or the fuse has blown.
 
@@ -278,11 +278,11 @@ text_array = [
     ""),
     # Peep peep peep peep.
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("体のどっかに、ブレーカー轣らしき烽もので烽もついてねーかな。",
+    ("体のどっかに、ブレーカー轣らしきものでもついてねーかな。",
     ""),
     # I think there's a hot spring that looks like a breaker laker somewhere and it's also hot.
 
@@ -298,9 +298,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("ない。†",
+    ("ない。",
     ""),
-    # do not have.†
+    # do not have.
 
     ("ああ〜っ！",
     ""),
@@ -310,13 +310,13 @@ text_array = [
     ""),
     # In times like these, who do you need to consult with??
 
-    ("やっぱ取闔りあえずは、保瀦健室へ運んだほうがいいか。",
+    ("やっぱ取りあえずは、保瀦健室へ運んだほうがいいか。",
     ""),
     # After all, I think it's better to take him to the Hoen health room.
 
-    ("いや、それより烽も≠メーカーのサービスマンに連腰絡を…。†",
+    ("いや、それよりも≠メーカーのサービスマンに連腰絡を…。",
     ""),
-    # It's even more difficult to get involved with the manufacturer's service personnel...†
+    # It's even more difficult to get involved with the manufacturer's service personnel...
 
     ("などと、あれこれ悩んでいると、",
     ""),
@@ -326,9 +326,9 @@ text_array = [
     ""),
     # "Buuuuhhhhh...
 
-    ("突然、鈍い音がしたかと思うと、マルチがうっすらと目を開いた。†",
+    ("突然、鈍い音がしたかと思うと、マルチがうっすらと目を開いた。",
     ""),
-    # Suddenly, a dull sound came to mind, and Makruchi opened his eyes slightly.†
+    # Suddenly, a dull sound came to mind, and Makruchi opened his eyes slightly.
 
     ("「…う、う〜ん」",
     ""),
@@ -346,9 +346,9 @@ text_array = [
     ""),
     # "...Ah, sir."
 
-    ("諱ようやく目の焦点があったのか、マルチは寝ぼけたようなぼんやり口調でオレの名前をつぶやいた。†",
+    ("諱ようやく目の焦点があったのか、マルチは寝ぼけたようなぼんやり口調でオレの名前をつぶやいた。",
     ""),
-    # Perhaps there was a focus on his eyes, but Makruchi muttered my name in a sleepy, drowsy, blissful way of speaking.†
+    # Perhaps there was a focus on his eyes, but Makruchi muttered my name in a sleepy, drowsy, blissful way of speaking.
 
     ("ほっと安堵の息を漏逖らす、オレ。",
     ""),
@@ -358,15 +358,15 @@ text_array = [
     ""),
     # "...What's that about? You're shocked me."
 
-    ("苦笑しながら、呆れたふうに言った。†",
+    ("苦笑しながら、呆れたふうに言った。",
     ""),
-    # He said with a wry smile and shocked.†
+    # He said with a wry smile and shocked.
 
     ("「…わたし、いったい？」",
     ""),
     # "...What on earth am I?"
 
-    ("艨ゆっくり立ち繧上がると、マルチはまだ目の覚めきっていない、ぼーっとした表﨣情のままつぶやいた。",
+    ("艨ゆっくり立ち上がると、マルチはまだ目の覚めきっていない、ぼーっとした表﨣情のままつぶやいた。",
     ""),
     # As he stood up slowly, Makruchi muttered as he had not yet woken up, a daze that was disgusting.
 
@@ -374,9 +374,9 @@ text_array = [
     ""),
     # "...I'm sure...
 
-    ("窓を拭いてたら…いきなり…」†",
+    ("窓を拭いてたら…いきなり…」",
     ""),
-    # I was wiping the window... it was all of a sudden..."†
+    # I was wiping the window... it was all of a sudden..."
 
     ("そのとき、オレはこう言った。",
     ""),

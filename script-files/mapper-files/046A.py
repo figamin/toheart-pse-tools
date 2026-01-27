@@ -2,9 +2,9 @@
 # Source file: 046A.txt
 
 text_array = [
-    ("（志保	追加イベント３）閨（選択綜	掾持っている）†",
+    ("（志保	追加イベント３）閨（選択綜	掾持っている）",
     ""),
-    # (Shiho Additional Event 3) (Selected)†
+    # (Shiho Additional Event 3) (Selected)
 
     ("「一梭応、あるにはあるが…なんに使うんだ？」",
     ""),
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # "Look at me, phlegm."
 
-    ("想恆像通闥りというか、予定通闥りの台倦詞を吐く。†",
+    ("想恆像通闥りというか、予定通闥りの台倦詞を吐く。",
     ""),
-    # He speaks of the words that are more like a thought, or rather, a certain point of view.†
+    # He speaks of the words that are more like a thought, or rather, a certain point of view.
 
-    ("「おめーなぁ、ａ高校生が１怩万円煢も何に使うんだよ？	ブランド物で烽もモ買うのか？」",
+    ("「おめーなぁ、ａ高校生が１怩万円煢も何に使うんだよ？	ブランド物でもモ買うのか？」",
     ""),
     # "Congratulations, what do high school students a spending 10,000 yen on? Will they buy some hot springs as a brand new item?"
 
-    ("「しっつこい墲わねー。貸してくれなんて言ってない墲わよ。見せって言ってんの」†",
+    ("「しっつこいわねー。貸してくれなんて言ってないわよ。見せって言ってんの」",
     ""),
     # "You're a sturdy guy. You haven't told me to lend you. I'm telling you to show me."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "What on earth are you doing?"
 
-    ("ぶつぶつ言いながら、オレは渋々、財布から１怩万円札を取闔り出した。",
+    ("ぶつぶつ言いながら、オレは渋々、財布から１怩万円札を取り出した。",
     ""),
     # As I muttered, I reluctantly grabbed a 10,000 yen bill from my wallet.
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("「…なに見てんだよ」†",
+    ("「…なに見てんだよ」",
     ""),
     # "...What are you looking at?"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "You're a fake bill if it's too stiff."
 
-    ("そう言って志保は、ゴミで烽も捨てるみたいに札をオレの方へ冾放った。",
+    ("そう言って志保は、ゴミでも捨てるみたいに札をオレの方へ冾放った。",
     ""),
     # With that in mind, Shiho released the card at my heart's Fukukata, as if to throw away the trash.
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "What are you going to say, congratulations?"
 
-    ("氏落とさないようキャャッチしてオレは言う。†",
+    ("氏落とさないようキャャッチしてオレは言う。",
     ""),
-    # I said, catching him to avoid losing him.†
+    # I said, catching him to avoid losing him.
 
     ("志保はニсヤリと笑い、",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Is a copy like a copy of Kabanra?"
 
-    ("「そそ」†",
+    ("「そそ」",
     ""),
-    # "So" †
+    # "So" 
 
     ("「なんだそり痰ゃ？	すかしならち痰ゃんと入ってるぞ」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # Just to be safe, I'll try to light the sun.
 
-    ("「甘い墲わ。お店の人が、いちいちすかしなんて確認すると思う？	見た目がそっくりならそれでいいのよ」†",
+    ("「甘いわ。お店の人が、いちいちすかしなんて確認すると思う？	見た目がそっくりならそれでいいのよ」",
     ""),
-    # "It's sweet. I think the shopper will check out every single one of them? If they look exactly like that, that's fine."†
+    # "It's sweet. I think the shopper will check out every single one of them? If they look exactly like that, that's fine."
 
     ("「…他にどんな仕掛けがあんだよ？」",
     ""),
@@ -114,11 +114,11 @@ text_array = [
     ""),
     # "For example, on a regular copy machine, the fine lines that make it seem like a point would just turn into a point."
 
-    ("「そんなの、どこにあるんだ？」†",
+    ("「そんなの、どこにあるんだ？」",
     ""),
     # "Where is that??"
 
-    ("オレが聞くと、志保は自分の烽財布から１怩万円札を取闔り出し、",
+    ("オレが聞くと、志保は自分の財布から１怩万円札を取り出し、",
     ""),
     # When I heard, Shiho picked up a 10,000 yen bill from his hot wallet,
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "Look, there are 10,000 numbered characters written on the table, sung by the sung. The sung in the frame below."
 
-    ("と指し示した。†",
+    ("と指し示した。",
     ""),
-    # He pointed out.†
+    # He pointed out.
 
     ("どれ、と手にとってよく見骭る。",
     ""),
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "I guess that's not on my titular card?"
 
-    ("「自分で確かめなさ〜い」†",
+    ("「自分で確かめなさ〜い」",
     ""),
     # "Please check for yourself"
 
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # "No..."
 
-    ("ただの浮黒いｐだ。†",
+    ("ただの浮黒いｐだ。",
     ""),
-    # It's just a floating black p.†
+    # It's just a floating black p.
 
     ("「あたしの見立てによると、それは精巧な偽札ねぇ」",
     ""),
@@ -178,15 +178,15 @@ text_array = [
     ""),
     # Shiho said happily.
 
-    ("「マジかよ…」†",
+    ("「マジかよ…」",
     ""),
-    # "Really?" †
+    # "Really?" 
 
     ("「どうすんの？	使ったらあんた、犯罪者謗よ」",
     ""),
     # "What are you going to do? If you use it, you'll be a criminal."
 
-    ("「アホか、使う墲わけねえだ。ケーサツに揩持ってくんだよ」",
+    ("「アホか、使うわけねえだ。ケーサツに持ってくんだよ」",
     ""),
     # "Idiot, there's no way I can use it. I'll take it to Kasatsu."
 
@@ -194,15 +194,15 @@ text_array = [
     ""),
     # When I answered, Shiho suddenly burst out,
 
-    ("「んぷぷっ、あんた、マジでケーサツに揩持ってく気ぃ？」",
+    ("「んぷぷっ、あんた、マジでケーサツに持ってく気ぃ？」",
     ""),
     # "Hmm, you really want to bring it to Kesatsu?"
 
-    ("「ったりめえだ。偽札ってのは重罪だ」†",
+    ("「ったりめえだ。偽札ってのは重罪だ」",
     ""),
     # "It's a bit of a problem. Fake bills are a felony."
 
-    ("「ぷぷっ、あ〜っはっはっは！	あんた、それ烽も本物謨よ。小さい文囎字は最近のお札から使寬われたんだってば。それをマジな顔してケーサツに揩持ってくだなんて…あははっ、おっかし〜」",
+    ("「ぷぷっ、あ〜っはっはっは！	あんた、それも本物謨よ。小さい文囎字は最近のお札から使寬われたんだってば。それをマジな顔してケーサツに持ってくだなんて…あははっ、おっかし〜」",
     ""),
     # "Puh, ah, hahaha! You, that's the real thing. You've used the small text letters from a recent bill. You'd really like to bring that to your casatsu with a serious look on your face... Ahaha, you're so darn good."
 
@@ -210,11 +210,11 @@ text_array = [
     ""),
     # What!?
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「まさかこんなに繧上闖手くいくなんてね〜」",
+    ("「まさかこんなに上闖手くいくなんてね〜」",
     ""),
     # "I can't believe it's going to be so well done."
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # That's how it turned out to be a joke right away.
 
-    ("「浴女狐め〜っ」",
+    ("「女狐め〜っ」",
     ""),
     # "Suba fox"
 

@@ -26,11 +26,11 @@ text_array = [
     ""),
     # It kind of hit me.†
 
-    ("「そんな墲わけねーか。オレが繧弱…いや、調子が悪かっただけだな」",
+    ("「そんなわけねーか。オレが弱…いや、調子が悪かっただけだな」",
     ""),
     # "There's no way I could do that. I was so weak... I was just tampering with it, I was just not feeling well."
 
-    ("「うん、そうか烽もね」",
+    ("「うん、そうかもね」",
     ""),
     # "Yeah, I see, Hot too."
 

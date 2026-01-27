@@ -10,7 +10,7 @@ text_array = [
     ""),
     # It was not particularly denied.
 
-    ("あかりはオレの彼濫女じ痰ゃない、と言い切髏るのは簡単だったが、なぜだかその言葉を口にすることに墲わずかなｒ抗を感じてしまった。†",
+    ("あかりはオレの彼女じ痰ゃない、と言い切髏るのは簡単だったが、なぜだかその言葉を口にすることにわずかなｒ抗を感じてしまった。†",
     ""),
     # Akari was easy to say that she was a huge girl and had no phlegm, but for some reason she felt a slight urgency to say that she was lucky enough to say that.†
 
@@ -38,11 +38,11 @@ text_array = [
     ""),
     # The chairman muttered, looking a bit irritated.†
 
-    ("まあ、委員長とは席熕も近いし、ここで烽説明しなくて烽も、オレとあかりの微妙な関係煬も、そのうち揩理解してくれるだう。",
+    ("まあ、委員長とは席熕も近いし、ここで説明しなくても、オレとあかりの微妙な関係煬も、そのうち理解してくれるだう。",
     ""),
     # Well, I'm close to the chairman, and I won't explain it here, so I'll soon understand both Kana and Akari's delicate relationship.
 
-    ("実際、つき№合ってると間瘧違妤われるほど№仲がいいのは確かだし。†",
+    ("実際、つき№合ってると間違われるほど№仲がいいのは確かだし。†",
     ""),
     # In fact, it's true that if you get the right number, you're so close that you'll end up miserably.†
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「オレたちって、ま墲わりから見骭るとどういう関係なんだと思う？」",
+    ("「オレたちって、まわりから見骭るとどういう関係なんだと思う？」",
     ""),
     # "What do you think of us, if you look at us, what kind of relationship do you think of?"
 
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # I returned to the classroom leaving behind Akari.
 
-    ("いきなりあんな質竡問するんじ痰ゃなかったと、ちょっとだけ繧後悔した。†",
+    ("いきなりあんな質竡問するんじ痰ゃなかったと、ちょっとだけ後悔した。†",
     ""),
     # I regretted that I had no phlegm to suddenly question such a quality of questioning.†
 

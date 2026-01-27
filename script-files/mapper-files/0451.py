@@ -10,11 +10,11 @@ text_array = [
     ""),
     # Ping Pong Pong!
 
-    ("「ま、こんな烽もんだ」",
+    ("「ま、こんなもんだ」",
     ""),
     # "Well, this is hot b."
 
-    ("「それくらい、あたし烽も知ってた墲わよぉ！」†",
+    ("「それくらい、あたしも知ってたわよぉ！」†",
     ""),
     # "That's how old I knew about Hou!"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # …game over.
 
-    ("そこまでの得点は志保が繧上。",
+    ("そこまでの得点は志保が上。",
     ""),
     # Shiho is the best in scoring so far.
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # In other words, it's a huge loss.†
 
-    ("「梶所詮あんたは、こんな烽もんよ」",
+    ("「梶所詮あんたは、こんなもんよ」",
     ""),
     # "Kaji, after all, you're such a hot thing."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # He's taking advantage of his victory and saying his love for him.†
 
-    ("「あたしは、あたしより強いрヤツを探しに行く墲わ…」",
+    ("「あたしは、あたしより強いрヤツを探しに行くわ…」",
     ""),
     # "I'm going to find someone stronger than me..."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # Was it a b-impersonation of some other pro-ro-scary banquet?†
 
-    ("「な〜んてね。…氈勝縁負に勝ったことだし、そそ帰汲っか？」",
+    ("「な〜んてね。…氈勝縁負に勝ったことだし、そそ帰っか？」",
     ""),
     # "What?...I won't win the victory, so should I return to b?!"
 

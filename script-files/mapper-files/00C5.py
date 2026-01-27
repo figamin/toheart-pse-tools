@@ -2,11 +2,11 @@
 # Source file: 00C5.txt
 
 text_array = [
-    ("（３獅月９冾日	朝）閨（自分の部屋）†",
+    ("（３月９冾日	朝）閨（自分の部屋）",
     ""),
     # (Morning of the 3rd Lion Moon, 9th Day) (morning) (my room)
 
-    ("３獅月９冾日、冝日曜坥日。",
+    ("３月９冾日、冝日曜坥日。",
     ""),
     # The third day of the 9th day of the 3rd month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1
 
@@ -14,8 +14,8 @@ text_array = [
     ""),
     # Hmm, it's a holiday.
 
-    ("艨ゆっくり寝させてくれ…。†",
+    ("艨ゆっくり寝させてくれ…。",
     ""),
-    # Let me sleep comfortably...†
+    # Let me sleep comfortably...
 
 ]

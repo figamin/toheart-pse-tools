@@ -22,11 +22,11 @@ text_array = [
     ""),
     # My gei-lei greeted me with a deep greet to the gei-lei genius.†
 
-    ("なにはと烽もあれ、こういうのは第齣一印象が肝心だ。",
+    ("なにはともあれ、こういうのは第齣一印象が肝心だ。",
     ""),
     # Even if it's something like that, the most important thing is to have an impression of this kind of thing.
 
-    ("＝早くクラスに打ち解けるために烽も、近寄闃りがたい雰囲気はやめて、親しみやすい印象を与えとかないとな。",
+    ("＝早くクラスに打ち解けるためにも、近寄闃りがたい雰囲気はやめて、親しみやすい印象を与えとかないとな。",
     ""),
     # = In order to get to know the Crowds soon, I have to stop tampering with the inconvenient atmosphere and give the impression that it is easy to get along with.
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Oh, please bear it."
 
-    ("オレは名前熨も知迺らない繧後撃の席の兄ち痰ゃんの肩を叩いて言った。",
+    ("オレは名前熨も知迺らない後撃の席の兄ち痰ゃんの肩を叩いて言った。",
     ""),
     # I said, tapping my brother, Shoyan, on the shoulder, who was in the aftermath of the attack, even though he didn't even know about the name noshi.
 
@@ -50,11 +50,11 @@ text_array = [
     ""),
     # "Ah, ah."
 
-    ("ぎこちない笑迴顔と浮歯切齔れの悪い返抹事が返ってくる。†",
+    ("ぎこちない笑顔と浮歯切齔れの悪い返抹事が返ってくる。†",
     ""),
     # He gives a bad response from awkward smile and a sharp tooth cut.†
 
-    ("「＜ッ、そっち烽もよしくナ！	諱よしく！」",
+    ("「＜ッ、そっちもよしくナ！	諱よしく！」",
     ""),
     # "<<! That's good, it's good, it's good! I'm good, it's good!"
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Pon, Pon, Pon!
 
-    ("オレは男嵐女かま墲わず、近葛所にいる生徒の肩を叩いて回った。",
+    ("オレは男嵐女かまわず、近葛所にいる生徒の肩を叩いて回った。",
     ""),
     # I didn't get a chance to get a man and a woman, but tapped the student in the nearby Kuzugo area on the shoulder.
 
@@ -70,11 +70,11 @@ text_array = [
     ""),
     # Everyone smiles in the same way, annoyingly and politely.
 
-    ("あかりやｉ史他、一蝿部の連中が笑ったので、教室の空気が賑笂やかになった。†",
+    ("あかりや史他、一蝿部の連中が笑ったので、教室の空気が賑笂やかになった。†",
     ""),
     # The people from the Fly Club laughed, including Akari Tatsumi, I-Shin, and more, and the atmosphere in the classroom became lively and lively.†
 
-    ("ま、多少うっとうしいрヤツと思寬われたか烽も知れないが、他人との翌距離を置きたがる連中が多い今厓日この頃、このぐらいフレンドリーにいっといて烽も問題ないだう。",
+    ("ま、多少うっとうしいрヤツと思寬われたかも知れないが、他人との翌距離を置きたがる連中が多い今厓日この頃、このぐらいフレンドリーにいっといても問題ないだう。",
     ""),
     # Well, I think he's a bit annoying, so I don't know what Hot is, but there are a lot of people who want to keep their distance from others the next day, so I'm not going to have to question him about this much of a problem.
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # Die, I'm also punished in prison for laughs.
 
-    ("ま墲わりから、いつまで烽も笑ってる変なрヤツだと思寬われ。†",
+    ("まわりから、いつまでも笑ってる変なрヤツだと思寬われ。†",
     ""),
     # Well, I thought he was a strange guy who was laughing at him for so long.†
 

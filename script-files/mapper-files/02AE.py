@@ -2,9 +2,9 @@
 # Source file: 02AE.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（下駄箱）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（下駄箱）",
     ""),
-    # (Seri° Kaori Scale Event 1F LV2)Seri (Shoe cabinet)†
+    # (Seri° Kaori Scale Event 1F LV2)Seri (Shoe cabinet)
 
     ("下駄箱の前でｗ栖瑞謳先輩を発見。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("声に気がついて、諱先輩はこっちを見た。†",
+    ("声に気がついて、諱先輩はこっちを見た。",
     ""),
-    # I noticed the voice and my senior looked over me.†
+    # I noticed the voice and my senior looked over me.
 
     ("「帰驪るとこ？」",
     ""),

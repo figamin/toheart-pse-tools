@@ -10,7 +10,7 @@ text_array = [
     ""),
     # "Akari..."
 
-    ("オレは獅落としていた汲視諮を繧上げて、あかりの顔を見つめると、",
+    ("オレは落としていた視諮を上げて、あかりの顔を見つめると、",
     ""),
     # I lifted up the thud of the thud thud consultation and looked at Akari's face.
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # Akari asks back without thinking.
 
-    ("オレは烽もう一度、",
+    ("オレはもう一度、",
     ""),
     # My heart is hot again
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # There's no jokey way of saying it before.
 
-    ("オレなりに覚蜉悟をｌめ、真武剣な顔で言ったつ烽もりだった。†",
+    ("オレなりに覚蜉悟をｌめ、真武剣な顔で言ったつもりだった。†",
     ""),
     # I was so excited that I was able to understand my spirits and said with a Shinbu sword-like face.†
 
@@ -54,7 +54,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("それを揩理解してか、あかり烽もすぐには口を開かず、噤答えをためらった。",
+    ("それを理解してか、あかりもすぐには口を開かず、噤答えをためらった。",
     ""),
     # Perhaps he understood this, Akari Kaoru didn't immediately open his luck and hesitated to answer.
 
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # The two have been in a terrible, vague, casual relationship with childhood friends, and have been continuing for ten beats and over the past few years.
 
-    ("兄喧のようでありながら、結局は他人で、友だち以繹上に親しいけれど、恋人で烽もない、そんな微妙な関係。†",
+    ("兄喧のようでありながら、結局は他人で、友だち以繹上に親しいけれど、恋人でもない、そんな微妙な関係。†",
     ""),
     # It's like a brother's hustle, but in the end he's a stranger and close to his friends, but he's a lover and no hottie.†
 
-    ("閨手を伸ばせばすぐ届く翌距離にいながら烽も、おたがい、越えてはならない一線は強く意識して、今厓日までうまくやってきた。",
+    ("閨手を伸ばせばすぐ届く翌距離にいながらも、おたがい、越えてはならない一線は強く意識して、今厓日までうまくやってきた。",
     ""),
     # Although he was within the next distance that he could reach him as soon as he reached the ball, he was very conscious of the line that should not be crossed, and he had been tampering well until the day he was about to die.
 
@@ -102,11 +102,11 @@ text_array = [
     ""),
     # But now, I'm reaching out to try to overcome that boundary.†
 
-    ("もと烽もとあの冾日のキス以来、ふたりの境界叶は曖椁にかすんでしまっていた。",
+    ("もともとあの冾日のキス以来、ふたりの境界叶は曖椁にかすんでしまっていた。",
     ""),
     # Since the kiss on that day, the two of them have been blurred by the boundaries of the two.
 
-    ("いまはただその曖椁な烽ものを、はっきりと、′郁健闢Iな烽ものにしようとしているだけだ。",
+    ("いまはただその曖椁なものを、はっきりと、′郁健闢Iなものにしようとしているだけだ。",
     ""),
     # At the moment, we are simply trying to make that vague, humble, hot.
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("ほんの墲わずかな、あるいはとて烽も長い桙時間が過ぎ獅去っていった。",
+    ("ほんのわずかな、あるいはとても長い桙時間が過ぎ去っていった。",
     ""),
     # The lion passed by a small, or even a long, fox time passed and the lion passed.
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "...!"
 
-    ("はっと顔を繧上げる、あかり。",
+    ("はっと顔を上げる、あかり。",
     ""),
     # Akari suddenly lifts her face.
 
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Huh?" †
 
-    ("「おたがい、物心つく前からだから、少なくと烽も１５年以繹上はつき№合ってるよな」",
+    ("「おたがい、物心つく前からだから、少なくとも１５年以繹上はつき№合ってるよな」",
     ""),
     # "It's been a long time since you've only ever been able to remember, so at least the best of the time, it's been the right fit for the first time since 15 years."
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # Akari nodded small.†
 
-    ("「おたがいのこと、だいたいなんで烽も知ってるし、気搭兼ねなくつき№合えるし、いっしょにいて烽も全然鞫疲齡れねー諱よな」",
+    ("「おたがいのこと、だいたいなんでも知ってるし、気搭兼ねなくつき№合えるし、いっしょにいても全然鞫疲齡れねー諱よな」",
     ""),
     # "I know most people, how do you know about Hot, and I can match your number without any effort, and I'm not too tired when I'm on the slut, so I guess it's a shame."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # Akari's shoulders twitched around the kiss...†
 
-    ("「べつにそれが悪いって墲わけじ痰ゃねーけど、もう少し先へ進んで烽もいいんじ痰ゃないかって思う」",
+    ("「べつにそれが悪いってわけじ痰ゃねーけど、もう少し先へ進んでもいいんじ痰ゃないかって思う」",
     ""),
     # "It's really bad, but I think it's a bit more difficult to say that it's a bit more phlegm, but I think that going a little further and not phlegm is good."
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("あかりは床に汲視諮を獅落としたまま、ずっと黙っている。",
+    ("あかりは床に視諮を落としたまま、ずっと黙っている。",
     ""),
     # Akari remains silent forever, still stomping the advice she has on the floor.
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # I'm really nervous.
 
-    ("だけど、それはオレ焜も同じだった。†",
+    ("だけど、それはオレも同じだった。†",
     ""),
     # But that was the same for me.†
 
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # The silence was even heavier, heavier, and heavier, and it hit my shoulders.
 
-    ("うんと烽もすんと烽も言甯わないあかり。",
+    ("うんともすんとも言甯わないあかり。",
     ""),
     # Yes, the hottest and hottest are not spoken.
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # "What?!"
 
-    ("はっと顔を繧上げる、あかり。",
+    ("はっと顔を上げる、あかり。",
     ""),
     # Akari suddenly lifts her face.
 
@@ -326,7 +326,7 @@ text_array = [
     ""),
     # I couldn't help but say something violent.†
 
-    ("「そ、それと烽も…好きじ痰ゃ…ねーのかよ？」",
+    ("「そ、それとも…好きじ痰ゃ…ねーのかよ？」",
     ""),
     # "And also... you love the phlegm... don't you think?"
 
@@ -370,11 +370,11 @@ text_array = [
     ""),
     # What are you saying, I'm so excited.
 
-    ("ちょっと罪悪感が墲わく。",
+    ("ちょっと罪悪感がわく。",
     ""),
     # I suddenly felt guilty.
 
-    ("そんなこと、わざ墲わざ確認しなくたって、十分伝崧わってることじ痰ゃないか。†",
+    ("そんなこと、わざわざ確認しなくたって、十分伝崧わってることじ痰ゃないか。†",
     ""),
     # Even if you don't bother to confirm such things, you'll have enough knowledge to understand them.†
 
@@ -382,7 +382,7 @@ text_array = [
     ""),
     # It's tampering.
 
-    ("で烽も、これでいい。",
+    ("でも、これでいい。",
     ""),
     # And this is fine for Hot too.
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # We like each other.
 
-    ("＝め№合って烽も魔当然じ痰ゃねーか。†",
+    ("＝め№合っても魔当然じ痰ゃねーか。†",
     ""),
     # =It's right, and of course the hot springs are a bit phlegm.†
 
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # "If so..."
 
-    ("オレがソファーから立ち繧上がったとき、",
+    ("オレがソファーから立ち上がったとき、",
     ""),
     # When I stood up from the sofa,
 
@@ -478,7 +478,7 @@ text_array = [
     ""),
     # And then there was an awkward smile that threw me through my face.†
 
-    ("わずかな桙時間の繧後、オレはそれを無摶理﨤矢摶理引きはがすと、",
+    ("わずかな桙時間の後、オレはそれを無摶理﨤矢摶理引きはがすと、",
     ""),
     # After a small amount of time, I removed it without any problems,
 
@@ -522,7 +522,7 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("あかりはゆっくり烽歩き出した。†",
+    ("あかりはゆっくり歩き出した。†",
     ""),
     # Akari slowly began to walk around.†
 
@@ -550,7 +550,7 @@ text_array = [
     ""),
     # I locked it.
 
-    ("オレ自身の心に烽も…小さな鍵がかかった。†",
+    ("オレ自身の心にも…小さな鍵がかかった。†",
     ""),
     # My heart was also covered in my own heart... a small lock.†
 
@@ -602,7 +602,7 @@ text_array = [
     ""),
     # And then he closed his eyes.†
 
-    ("まぶたを閉じると、考えたく烽もないのに、いんなことが頭に浮かんだ。†",
+    ("まぶたを閉じると、考えたくもないのに、いんなことが頭に浮かんだ。†",
     ""),
     # When I closed my eyelids, I couldn't help but think about something, but I couldn't find anything bad.†
 
@@ -610,13 +610,13 @@ text_array = [
     ""),
     # Light.
 
-    ("小さいこから、いつ烽も側にいたあかり。",
+    ("小さいこから、いつも側にいたあかり。",
     ""),
     # From the small b, the hot spring was always there by my side.
 
-    ("幼稚園煢も、小学校熏も、£学煌も、そして高校熏も、ずっとオレの側にいた。",
+    ("幼稚園煢も、小学校熏も、学煌も、そして高校熏も、ずっとオレの側にいた。",
     ""),
-    # Kindergarten Han, elementary school Kei, £Gakufu, and B High School Kei have always been by my side.
+    # Kindergarten Han, elementary school Kei, Gakufu, and B High School Kei have always been by my side.
 
     ("四六椈時賜迺顔をつき№合寘わせていて、まるで、本末当のｖのように思っていた。†",
     ""),
@@ -626,7 +626,7 @@ text_array = [
     ""),
     # But now there's a little bit of a difference in phlegm.
 
-    ("幼なじみなんて、兄喧みたいな烽もんだけど、戟血煬もつながってないし、結局はやっぱり他人でしかない。",
+    ("幼なじみなんて、兄喧みたいなもんだけど、血煬もつながってないし、結局はやっぱり他人でしかない。",
     ""),
     # Childhood friends are like brother-in-law, but they don't have any connections to them, and in the end they're just someone else.
 
@@ -646,19 +646,19 @@ text_array = [
     ""),
     # I've known it for a long time.†
 
-    ("はっきりと口にして言うことはなかったが、あかりはいつ烽も態度でそれを示してくれた。",
+    ("はっきりと口にして言うことはなかったが、あかりはいつも態度でそれを示してくれた。",
     ""),
     # He had nothing to say clearly, but Akari always showed this with his attitude.
 
-    ("当然、うれしくない墲わけはなかった。",
+    ("当然、うれしくないわけはなかった。",
     ""),
     # Masa Of course, there was no way I wasn't happy.
 
-    ("だけど、そんなあいつの気搴持ちに気づいていながら烽も、オレは何年間煌もそれに桙応えようとはしなかった。†",
+    ("だけど、そんなあいつの気搴持ちに気づいていながらも、オレは何年間煌もそれに桙応えようとはしなかった。†",
     ""),
     # However, even though he had noticed that he had such a desire, even though I had no idea about it, and for years, I didn't try to respond to it.†
 
-    ("オレにとって、あかりは本末当のｖみたいな烽ものだったからだ。",
+    ("オレにとって、あかりは本末当のｖみたいなものだったからだ。",
     ""),
     # For me, Akari was a hot thing like the V of the real thing.
 
@@ -670,11 +670,11 @@ text_array = [
     ""),
     # Masa Of course, I'm liking as much as I please.
 
-    ("で烽も恋愛の対象ではなかった。†",
+    ("でも恋愛の対象ではなかった。†",
     ""),
     # And Ho was not even a target for love.†
 
-    ("だがそんなオレに烽も、やがて気搴持ちの変化が訪齧れた。",
+    ("だがそんなオレにも、やがて気搴持ちの変化が訪齧れた。",
     ""),
     # However, I ended up feeling a change in my mood after all.
 
@@ -682,7 +682,7 @@ text_array = [
     ""),
     # I think the trigger was after the time when Akari changed her hairstyle.†
 
-    ("あかりのやつ、いきなり驚くほどか墲わいくなりやがって、最燕初に見たときは、すっかり動揺してしまった。",
+    ("あかりのやつ、いきなり驚くほどかわいくなりやがって、最燕初に見たときは、すっかり動揺してしまった。",
     ""),
     # The guy who tampered with Akari suddenly became surprisingly gross and silenced, and when I saw it for the first time, I was completely upset.
 
@@ -702,11 +702,11 @@ text_array = [
     ""),
     # I was clearly annoyed when he envisioned the sight of someone who met another man.
 
-    ("結果的に薰矢⊥島とはなに烽もなく、オレはほっと胸をなで下奄した。†",
+    ("結果的に薰矢⊥島とはなにもなく、オレはほっと胸をなで下奄した。†",
     ""),
     # As a result, there was no hot topic to Tomya Island, and my heart stroking down in relief.†
 
-    ("あかりのこと、ただの幼なじみじ痰ゃなく、浴女の子として好きになり始めている。",
+    ("あかりのこと、ただの幼なじみじ痰ゃなく、女の子として好きになり始めている。",
     ""),
     # Akari is just a childhood friend, and she is beginning to fall in love with her as a bathing girl.
 
@@ -730,15 +730,15 @@ text_array = [
     ""),
     # ...That's what I thought.†
 
-    ("キスのあと、目に涙をにじませｊぶあかりを見て、オレは、いままでずっと、あかりを待たせてきたことを繧後悔した。",
+    ("キスのあと、目に涙をにじませｊぶあかりを見て、オレは、いままでずっと、あかりを待たせてきたことを後悔した。",
     ""),
     # After the kiss, I saw Akari with tears in her eyes and her eyes, and I regretted that I had been making Akari wait for the rest of my life.
 
-    ("だから、その待たせてきた桙時間をいっきに取闔り戻そうと思った。",
+    ("だから、その待たせてきた桙時間をいっきに取り戻そうと思った。",
     ""),
     # So I decided to take back the time I had been waiting for.
 
-    ("深い関係になうとしたの烽もそのせいだ。",
+    ("深い関係になうとしたのもそのせいだ。",
     ""),
     # That's why he tried to have a deep relationship.
 
@@ -750,7 +750,7 @@ text_array = [
     ""),
     # In the end, he likes me, but I guess he's satisfied with his current situation.
 
-    ("気搭兼ねのない、遠慮のいらない、諱疲齡れない、そんな関係でいれり痰ゃそれで良かったのか烽もしれない。",
+    ("気搭兼ねのない、遠慮のいらない、諱疲齡れない、そんな関係でいれり痰ゃそれで良かったのかもしれない。",
     ""),
     # I don't have to worry, I don't need to worry, I don't get tired of it, I don't have to worry about it, I don't have to worry about it, I guess that's fine with that.
 
@@ -774,7 +774,7 @@ text_array = [
     ""),
     # It was something that was extremely exciting.
 
-    ("諱先鱒走っちまったぜ。†",
+    ("諱先走っちまったぜ。†",
     ""),
     # I've run my name on the trout.†
 
@@ -794,19 +794,19 @@ text_array = [
     ""),
     # Fuck….†
 
-    ("結局、あいつがオレに≠めている関係と、オレがあいつに≠めている関係には、微妙な痰違いがあったのか烽もしれない。†",
+    ("結局、あいつがオレに≠めている関係と、オレがあいつに≠めている関係には、微妙な痰違いがあったのかもしれない。†",
     ""),
     # In the end, it may be that there was a subtle difference in phlegm between the relationship in which he ≠ me and the relationship in which he ≠ me ≠ to me ≠.†
 
-    ("オレは烽もっと深くなうとした。",
+    ("オレはもっと深くなうとした。",
     ""),
     # My heart tried to get deeper.
 
-    ("だけどあいつは、いまのままの関係で十分桾満足なのか烽もしれない。",
+    ("だけどあいつは、いまのままの関係で十分桾満足なのかもしれない。",
     ""),
     # But I guess he's quite satisfied with the current situation.
 
-    ("気搭兼ねない、遠慮のいらない、諱疲齡れない、そんな関係でいられり痰ゃ、それでいいのか烽もしれない。†",
+    ("気搭兼ねない、遠慮のいらない、諱疲齡れない、そんな関係でいられり痰ゃ、それでいいのかもしれない。†",
     ""),
     # I have no need to worry, no need to worry, no need to be exhausted, and I have no need to be in that relationship, so I guess that's okay or not.†
 
@@ -822,7 +822,7 @@ text_array = [
     ""),
     # I'm sure it is.
 
-    ("じつはオレのほう烽も、本心はそうなんじ痰ゃないのか。†",
+    ("じつはオレのほうも、本心はそうなんじ痰ゃないのか。†",
     ""),
     # In fact, even my supernatural vomit doesn't really have that kind of phlegm.†
 
@@ -862,11 +862,11 @@ text_array = [
     ""),
     # I want to keep my shoulders relaxed and have fun and keep communicating until now.
 
-    ("これから烽もずっと。†",
+    ("これからもずっと。†",
     ""),
     # I'll be doing hot water forever from now on.†
 
-    ("だったら、つき№合いかた烽も、いままで通闥りで良かったんじ痰ゃないか。",
+    ("だったら、つき№合いかたも、いままで通闥りで良かったんじ痰ゃないか。",
     ""),
     # If that's the case, then I'd be happy to have been able to communicate with you up until now.
 
@@ -886,11 +886,11 @@ text_array = [
     ""),
     # That's right.
 
-    ("ま墲わりはどうあれ、オレたちはオレたちだ。",
+    ("まわりはどうあれ、オレたちはオレたちだ。",
     ""),
     # Anyway, we are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the ones who are the one
 
-    ("なに烽も無摶理して世間一般の『恋人同士』になる必要はない。",
+    ("なにも無摶理して世間一般の『恋人同士』になる必要はない。",
     ""),
     # No matter what, there is no need to become a normal "lovers" without being left alone.
 
@@ -914,7 +914,7 @@ text_array = [
     ""),
     # This is exactly what it means to have no regrets.
 
-    ("明坙日あかりにｉったら、どう言おう？†",
+    ("明坙日あかりにったら、どう言おう？†",
     ""),
     # What should I say if I were to be in the Mingshuin period?†
 
@@ -926,7 +926,7 @@ text_array = [
     ""),
     # Let's make the whole house shaya super-sexy about the night.
 
-    ("部屋に誘ったの烽も、その先へ進熕もうとしたの烽も、あれは全泊部シャャレってことで。†",
+    ("部屋に誘ったのも、その先へ進熕もうとしたのも、あれは全泊部シャャレってことで。†",
     ""),
     # Both the ones who invited me to my room, and the ones who tried to move on beyond that were all over the place, which meant that they were all over the house club.†
 
@@ -938,11 +938,11 @@ text_array = [
     ""),
     # I'm sure he'll laugh and let you go.
 
-    ("そして、ふたりの関係は烽もと通闥りだ。†",
+    ("そして、ふたりの関係はもと通闥りだ。†",
     ""),
     # And their relationship is a little bit confusing.†
 
-    ("今骰夜のあれは、驕夜のちょっとハイな気分が烽もたらした、ほんのささいなシャャレ。",
+    ("今骰夜のあれは、驕夜のちょっとハイな気分がもたらした、ほんのささいなシャャレ。",
     ""),
     # This evening was a little bit of a shady sham that brought me a high-pitched mood after a shady night.
 
@@ -982,7 +982,7 @@ text_array = [
     ""),
     # Who is it during this time...?
 
-    ("オレはのの体を起こし、ソファーから起き繧上がった。",
+    ("オレはのの体を起こし、ソファーから起き上がった。",
     ""),
     # My guts lifted up my b-body and rose from the sofa.
 
@@ -1026,7 +1026,7 @@ text_array = [
     ""),
     # "Huh...?" †
 
-    ("「忘齧れモンで烽もしたのか？」",
+    ("「忘齧れモンでもしたのか？」",
     ""),
     # "Did you even boil it with B-mon?"
 
@@ -1122,11 +1122,11 @@ text_array = [
     ""),
     # Does this mean that the guy who tampered with Akari actually had been thinking about it since the beginning of Saien?
 
-    ("その気だったからこそ、いったん帰って、浴風呂まで入って、またこうしてｗたってのか。†",
+    ("その気だったからこそ、いったん帰って、風呂まで入って、またこうしてｗたってのか。†",
     ""),
     # That's why I went home, took a bath, and then went back again lol.†
 
-    ("「…今厓日、お母さんには、志保の家に曹泊まるか烽もって、言ってきたから…」",
+    ("「…今厓日、お母さんには、志保の家に曹泊まるかもって、言ってきたから…」",
     ""),
     # "...On the day I told my mother to stay at Shiho's house or to have him stay at Shiho's house..."
 
@@ -1174,7 +1174,7 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("あかりは、キョトンと墲わからない顔をする。†",
+    ("あかりは、キョトンとわからない顔をする。†",
     ""),
     # Akari makes a strange face.†
 
@@ -1254,7 +1254,7 @@ text_array = [
     ""),
     # I tried to laugh and say it.
 
-    ("…に烽もかか墲わらず、轣顔の筋肉が微妙に引きつってしまった。†",
+    ("…にもかかわらず、轣顔の筋肉が微妙に引きつってしまった。†",
     ""),
     # ...They were not in the air, and the muscles in my face were slightly twitching.†
 
@@ -1322,7 +1322,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…あの繧後、オレは繧後悔してたんだ」",
+    ("「…あの後、オレは後悔してたんだ」",
     ""),
     # "...After that, I regretted it."
 
@@ -1334,7 +1334,7 @@ text_array = [
     ""),
     # "...Why did you say that, I wish I had phlegm when I stopped...
 
-    ("時間を戻せる烽もんなら、戻したいくらいだった」",
+    ("時間を戻せるもんなら、戻したいくらいだった」",
     ""),
     # If it was a hot pot that could turn back time, I would have wanted to bring it back."
 
@@ -1342,7 +1342,7 @@ text_array = [
     ""),
     # "Why…?"†
 
-    ("「…いい考えて、いつ烽も通闥りのふたりが自然だと思ったんだよ」",
+    ("「…いい考えて、いつも通闥りのふたりが自然だと思ったんだよ」",
     ""),
     # "I thought about it, and whenever I thought that the two people who were in touch with me were natural."
 
@@ -1350,7 +1350,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「諱ようやく嘯答え見つけて、明坙日っからはまたいつ烽ものふたりに戻髢るはずだったのに…」",
+    ("「諱ようやく嘯答え見つけて、明坙日っからはまたいつものふたりに戻髢るはずだったのに…」",
     ""),
     # "I found the answer and was about to return to the two of them again from the Ming Shun day..."
 
@@ -1366,7 +1366,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「とにかく、今厓日は烽もう帰鼡れ」",
+    ("「とにかく、今厓日はもう帰鼡れ」",
     ""),
     # "Anyway, come back to the hot springs now."
 
@@ -1506,7 +1506,7 @@ text_array = [
     ""),
     # "Are you unfair...?"
 
-    ("「受け身すぎんだよ。いつ烽もオレの言うことに従ってばかりじ痰ゃねーか。なにか他に言うことはねーのかよ？」†",
+    ("「受け身すぎんだよ。いつもオレの言うことに従ってばかりじ痰ゃねーか。なにか他に言うことはねーのかよ？」†",
     ""),
     # "I'm too passive. Is it too passive? Is it okay to keep following what I'm saying? Is there anything else to say?"
 
@@ -1546,7 +1546,7 @@ text_array = [
     ""),
     # "Ah..." †
 
-    ("「なんにせよ、今厓日は烽もう帰ってくれ」",
+    ("「なんにせよ、今厓日はもう帰ってくれ」",
     ""),
     # "Anyway, please come back now."
 
@@ -1554,7 +1554,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「お前とのこと、オレなりに烽もう少し真武剣に考えてみる」",
+    ("「お前とのこと、オレなりにもう少し真武剣に考えてみる」",
     ""),
     # "I'll think about you a little more about Shinbuken, like I'm really excited."
 
@@ -1570,7 +1570,7 @@ text_array = [
     ""),
     # "..."†
 
-    ("「…もしかしたら、オレ、お前といま以繹上の関係になる自信…ないか烽もしれない」",
+    ("「…もしかしたら、オレ、お前といま以繹上の関係になる自信…ないかもしれない」",
     ""),
     # "...Maybe I'm extremely confident that I'll have a relationship with you now... or maybe I'm not even sure."
 
@@ -1622,7 +1622,7 @@ text_array = [
     ""),
     # Keep on!†
 
-    ("オレはこたえず、潤居間に戻髢ると電気を消し、ついでに玄関の明かり烽も消した。†",
+    ("オレはこたえず、潤居間に戻髢ると電気を消し、ついでに玄関の明かりも消した。†",
     ""),
     # I couldn't resist, and when I returned to my living room, I turned off the lights, and also turned off the lights in the entrance.†
 
@@ -1634,7 +1634,7 @@ text_array = [
     ""),
     # Keep on!†
 
-    ("オレは暗闇のなか、階段を繧上った。",
+    ("オレは暗闇のなか、階段を上った。",
     ""),
     # I climbed the stairs in the darkness.
 
@@ -1646,7 +1646,7 @@ text_array = [
     ""),
     # In the dark room, I lay on my bed, looking up at Tensai.
 
-    ("やがて、むくっと繧上半身を起きあがらせ、†",
+    ("やがて、むくっと上半身を起きあがらせ、†",
     ""),
     # Eventually, he lifted his upper body up,
 
@@ -1682,7 +1682,7 @@ text_array = [
     ""),
     # What are you doing, I'm so crazy...†
 
-    ("その繧後、オレは馬鹿みたいな桙時間をかけてシャャ純ワーを≠浴びた。",
+    ("その後、オレは馬鹿みたいな桙時間をかけてシャャ純ワーを≠びた。",
     ""),
     # After that, I spent some stupid time getting hit with Shaya Pure Wah.
 
@@ -1706,7 +1706,7 @@ text_array = [
     ""),
     # Why did it go like this?
 
-    ("なに烽もしなけり痰ゃ、ずっといままで通闥りのふたりでいられた烽ものを。†",
+    ("なにもしなけり痰ゃ、ずっといままで通闥りのふたりでいられたものを。†",
     ""),
     # No matter what, I don't have any heat, I've been the two of them forever.†
 
@@ -1714,7 +1714,7 @@ text_array = [
     ""),
     # Perhaps he was mentally exhausted, but when I closed his eyes, he began to feel sleepy, as if he was rolling into the dark valley bottom.
 
-    ("ズキズキと揩拳が痛む。†",
+    ("ズキズキと拳が痛む。†",
     ""),
     # My fist hurts throbbing.†
 
@@ -1730,7 +1730,7 @@ text_array = [
     ""),
     # ≠ oval,
 
-    ("あかりにはｉいたくない…。◯",
+    ("あかりにはいたくない…。◯",
     ""),
     # I don't want to be an i...◯
 
