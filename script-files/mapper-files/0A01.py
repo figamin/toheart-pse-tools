@@ -6,20 +6,20 @@ text_array = [
     ""),
     # (Erie Moo's Cry Date Event First Time II) (After School) (SE Chaim)
 
-    ("授業が終尞わった。",
-    ""),
+    ("授業が終わった。",
+    "School is over."),
     # The lesson has ended.
 
-    ("さてと、瘁例の手試には冾放課繪後にって曹書いてあったけど、これからいに行ってみるか？",
-    ""),
+    ("さてと、例の手紙には放課後にって書いてあったけど、これから会いに行ってみるか？",
+    "Right, the letter asked to meet after school. Should I go now?"),
     # Well, in the hand test, it said that Cao said he was after the school, but should I go to I?
 
-    ("Ａ	雅いに行く。閨",
-    ""),
+    ("Ａ　会いに行く。",
+    "A. Go."),
     # A: Going to go.Relax
 
-    ("Ｂ	行かない。閨",
-    ""),
+    ("Ｂ　行かない。",
+    "B. Don't go."),
     # B I won't go.Relax
 
 ]

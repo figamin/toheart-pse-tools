@@ -633,48 +633,48 @@ text_array = [
     "I turn the book over to look at the title. It's written in a muted, stylish gold."),
     # Turning the other way, I looked at the tight crying and saw a cool, golden-colored photo.
 
-    ("『普黒ｍ魔術の大系』",
-    ""),
+    ("『黒魔術の大系』",
+    "The book's called…"),
     # "The Great Black Magic Epi"
 
-    ("と曹書かれていた。",
-    ""),
+    ("と書かれていた。",
+    "The Black Magic Compendium."),
     # It said Cao.
 
-    ("掾持ち主はすぐに察しがついた。",
-    ""),
+    ("持ち主はすぐに察しがついた。",
+    "It doesn't take long to guess its owner."),
     # The jeweler immediately understood.
 
-    ("＠栖瑞さんだ。",
-    ""),
+    ("来栖川さんだ。",
+    "Kurusugawa."),
     # @It's Suzui.
 
-    ("志保の薰情報によると、あの人はずいぶんとオカルトにハマってるって話だからな。",
-    ""),
+    ("志保の情報によると、あの人はずいぶんとオカルトにハマってるって話だからな。",
+    "According to Shiho, she's pretty into the occult."),
     # According to Shiho's information, that person is quite addicted to Oka-Crying Rut.
 
-    ("普黒ｍ魔術とくり痰ゃ間違いないだう。",
-    ""),
+    ("黒魔術とくりゃ間違いないだろう。",
+    "If the book is about black magic, then it has to be hers."),
     # The black magic and phlegm must be a little uneasy.
 
     ("多分、ぶつかったときに落としたんだな。",
-    ""),
+    "She probably dropped it when I ran into her."),
     # I think he plucked down when he hit him.
 
-    ("さっきの生徒はその現鼬場を見ていて、オレが落としたんだと勘違いしたんだ。",
-    ""),
+    ("さっきの生徒はその現場を見ていて、オレが落としたんだと勘違いしたんだろ。",
+    "That girl must have seen it happen and thought it was me who dropped the book."),
     # The student from earlier was watching the current scene and mistook me thinking that I had fallen off.
 
     ("しょうがねーな。",
-    ""),
+    "Oh well."),
     # There's no essay.
 
-    ("縺後で届けてやるか。",
-    ""),
+    ("後で届けてやるか。",
+    "I'll take it to Kurusugawa later."),
     # Will they deliver it after it's shaking and tampering with it?
 
-    ("とこでｗ栖瑞さんのクラスって、二年のどのクラスだっけ？◯",
-    ""),
+    ("ところで来栖川さんのクラスって、二年のどのクラスだっけ？",
+    "I know she's a junior, but which class is she in?"),
     # In this case, lol, which party was Suzui's banquet in his second year?◯
 
 ]
