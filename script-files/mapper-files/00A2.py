@@ -6,20 +6,20 @@ text_array = [
     ""),
     # (3rd Lion, 6th day of the month, morning) (morning) (morning room)
 
-    ("３月６冾日、木曜坥日。",
-    ""),
+    ("３月６日、木曜日。",
+    "Thursday, March 6th."),
     # The 3rd Lion Month 6th day, Thursday Day.
 
-    ("さーて、今厓日燗も一勛日がはじまるぜ。†",
-    ""),
+    ("さーて、今日も一日がはじまるぜ。",
+    "Time to start another day."),
     # Now, the day has begun for the sun to catch the sun.†
 
-    ("「今厓日はいい天気だね」",
-    ""),
+    ("「今日はいい天気だね」",
+    "Nice weather today."),
     # "It's nice weather right now."
 
-    ("「ここんとこ、いい天気が続いてるよな」†",
-    ""),
+    ("「ここんとこ、いい天気が続いてるよな」",
+    "We've had nice weather for a while now."),
     # "The weather's been nice lately"
 
 ]

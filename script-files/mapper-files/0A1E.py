@@ -6,52 +6,54 @@ text_array = [
     ""),
     # (B That guy isn't scary.)†
 
-    ("「おーい、掾理女緒ち痰ゃん。そいつ、べつに怖いイヌじ痰ゃないぜー」",
-    ""),
+    ("「おーい、理緒ちゃん。",
+    "Rio,"),
+    ("そいつ、べつに怖いイヌじゃないぜー」",
+    " this dog isn't going to bite you."),
     # "Hey, I'm a sputum. That guy is a very scary dog, so it's not a sputum."
 
-    ("オレは軽く声をかける。†",
-    ""),
+    ("オレは軽く声をかける。",
+    "I call lightly to her."),
     # I called out lightly.†
 
     ("だが、",
-    ""),
+    "However…"),
     # But,
 
     ("「えっ？」",
-    ""),
+    "What?"),
     # "Huh?"
 
-    ("掾理女緒ち痰ゃんは一瞬振關り返ったものの、",
-    ""),
+    ("理緒ちゃんは一瞬振り返ったものの、",
+    "She turns around for a brief moment and…"),
     # Although the shoddy girl was suddenly shook her head,
 
     ("「わうっ！」",
-    ""),
+    "Woof!"),
     # "Sniff!"
 
-    ("「き痰ゃあああぁぁぁ！」",
-    ""),
+    ("「きゃあああぁぁぁ！」",
+    "Eeeeep!"),
     # "Aaaaahhh!"
 
-    ("そのまま玄太郎に追いかけられ、′こうへいってしまった。†",
-    ""),
+    ("そのまま玄太郎に追いかけられ、向こうへいってしまった。",
+    "Gentaro is hot on her heels, so they both run somewhere else."),
     # Gentaro chases after him and goes on a journey.†
 
-    ("「…おいおい、蛛大苟丈夫か」",
-    ""),
+    ("「…おいおい、大丈夫か」",
+    "Man, is she gonna be okay?"),
     # "...Hey hey, are you sturdy, are you sturdy?"
 
-    ("さすがに心配になって後を追ってみたが、両者とも足が速いらしく、すっかり見えなくなっていた。†",
-    ""),
+    ("さすがに心配になって後を追ってみたが、両者とも足が速いらしく、すっかり見えなくなっていた。",
+    "I go after them out of concern but they are both so fast that I lose sight of them."),
     # I was worried and followed him, but both of them and Ho were both quick and completely invisible.†
 
-    ("「玄太郎によっぽど気に入逑られてんだな…」",
-    ""),
+    ("「玄太郎によっぽど気に入られてんだな…」",
+    "Gentaro really likes her, huh…"),
     # "Gentaro likes me so much..."
 
-    ("やや気の毒に感じながら、仕緖方なくオレは家に帰驪ることにした。◯",
-    ""),
+    ("やや気の毒に感じながら、仕方なくオレは家に帰ることにした。",
+    "I feel a little sorry for her, but there isn't anything else I can do to help, so I go home."),
     # Feeling like a bit of frustration, tampering, and cruelty, I decided to go home without any guilt.◯
 
 ]
