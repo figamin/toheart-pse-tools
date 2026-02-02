@@ -34,9 +34,9 @@ text_array = [
     ""),
     # That's amazing.
 
-    ("帰闍りに寄驫るから、家で待ってとか言ったくせによ。†",
+    ("帰闍りに寄驫るから、家で待ってとか言ったくせによ。",
     ""),
-    # I'd come over to visit him, so I said "b" at home.†
+    # I'd come over to visit him, so I said "b" at home.
 
     ("し痰ゃあねぇ。",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # Horen Ken's question is that it's okay to tan all the pages in a full range, but is the question question sincere?
 
-    ("諱よし、こっちのほうを重点的に…。†",
+    ("諱よし、こっちのほうを重点的に…。",
     ""),
-    # Okay, I'll focus on this one...†
+    # Okay, I'll focus on this one...
 
     ("ピンポーン。",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # Akari's voice came.
 
-    ("諱ようやくｗたか。†",
+    ("諱ようやくｗたか。",
     ""),
-    # I'm going to give up my name lol Taka.†
+    # I'm going to give up my name lol Taka.
 
     ("オレは部屋を出て、階段を降闕りていった。",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # Akari nodded, took off her shoes and put them on properly.
 
-    ("「おじ痰ゃましまーす」†",
+    ("「おじ痰ゃましまーす」",
     ""),
-    # "My sputum is my sputum" †
+    # "My sputum is my sputum" 
 
     ("「ち痰ゃんの部屋に入體るの、久しぶり」",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "Is that what you mean?"
 
-    ("あかりはなにやら目を細めて、オレの部屋を見渡した。†",
+    ("あかりはなにやら目を細めて、オレの部屋を見渡した。",
     ""),
-    # Akari squinted her eyes for something, and looked around my room.†
+    # Akari squinted her eyes for something, and looked around my room.
 
     ("「レイアウトとかも、変﨑わらないね」",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # "...This is the best position. I can't help but feel the pattern, my name is."
 
-    ("「ふうん…」†",
+    ("「ふうん…」",
     ""),
-    # "Hmm..." †
+    # "Hmm..." 
 
     ("「まあ、そんなことより、さっそくおっ始めようぜ」",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # "...Don't be kidding me."
 
-    ("「へへへ」†",
+    ("「へへへ」",
     ""),
-    # "Hehehe" †
+    # "Hehehe" 
 
     ("隣りの部屋から持ってきたガラステーブルの上に勉強道搭鼡一式を広げる。",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # Akari went to Mkai Takako on the side of the cushions.
 
-    ("透け透けガラスで、あかりのナマふとももがよく見える。†",
+    ("透け透けガラスで、あかりのナマふとももがよく見える。",
     ""),
-    # The see-through banquet is over, and you can easily see the raw and hot springs of light.†
+    # The see-through banquet is over, and you can easily see the raw and hot springs of light.
 
     ("「お前、ちょっと太っただ？」",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # "Well?"
 
-    ("「やだ…。ダイエットしようかな」†",
+    ("「やだ…。ダイエットしようかな」",
     ""),
-    # "I don't want to... I wonder if I'll go on a diet" †
+    # "I don't want to... I wonder if I'll go on a diet" 
 
     ("「ばーか、そこまでは太ってねー諱よ。以前が細すぎたっていうか、ちょうどいい感じじ痰ゃねーか？」",
     ""),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # "Really?"
 
-    ("「ああ」†",
+    ("「ああ」",
     ""),
-    # "ah"†
+    # "ah"
 
     ("たしかに以前はもっと細かったけど、それはこう、なんていうか、子沁供っぽいというか、そんな感じだった。",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # And...
 
-    ("こうしてじっくり見骭ると、ここなしか、バストも膨逍らみを増してきてるよーな気も…。†",
+    ("こうしてじっくり見骭ると、ここなしか、バストも膨逍らみを増してきてるよーな気も…。",
     ""),
-    # When I looked closely at this point, I found out that my bust size was getting bigger and bigger...†
+    # When I looked closely at this point, I found out that my bust size was getting bigger and bigger...
 
     ("「なあに？」",
     ""),
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "Ah, this? Ah, is this? A cute eps?"
 
-    ("「可愛いかよ、そんな変ないぬ」†",
+    ("「可愛いかよ、そんな変ないぬ」",
     ""),
     # "Is that so cute? That's not that weird"
 
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # "No, it's not good, come on."
 
-    ("あかりはシャャーペンをオレの顔に近づけた。†",
+    ("あかりはシャャーペンをオレの顔に近づけた。",
     ""),
-    # Akari brought the mechanical pencil closer to my face.†
+    # Akari brought the mechanical pencil closer to my face.
 
     ("「いぬ…だ？」",
     ""),
@@ -286,9 +286,9 @@ text_array = [
     ""),
     # "Silly"
 
-    ("オレはため息をついた。†",
+    ("オレはため息をついた。",
     ""),
-    # I sighed.†
+    # I sighed.
 
     ("「ふふっ、じ痰ゃあ、さっそく始めよっか？」",
     ""),
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # "That's right. Well, on the Ming Shun Day, the first frame is Hole-Hi, and the second frame is sincere."
 
-    ("「保瀦健は男嵐女別々だし、いっしょに勉強する必要はないよね」†",
+    ("「保瀦健は男嵐女別々だし、いっしょに勉強する必要はないよね」",
     ""),
     # "Hore Ken is a separate male and female, so there's no need to study with Ebi."
 
@@ -318,9 +318,9 @@ text_array = [
     ""),
     # "Ahhh sputum..."
 
-    ("ぎこちなく苦笑するあかり。†",
+    ("ぎこちなく苦笑するあかり。",
     ""),
-    # Akari smiles awkwardly and wryly.†
+    # Akari smiles awkwardly and wryly.
 
     ("「ばーか、轣冗談だよ、轣冗談。それよりも物摯理だ、物摯理。そっちの方を重点的にやるぞ」",
     ""),
@@ -334,17 +334,17 @@ text_array = [
     ""),
     # "Ah, first of all..."
 
-    ("「テスト範囲の最燕初のページからいこっか」†",
+    ("「テスト範囲の最燕初のページからいこっか」",
     ""),
-    # "Let's go from the first page in the test area" †
+    # "Let's go from the first page in the test area" 
 
     ("こうして、ふたりの試験勉強は始まった。",
     ""),
     # This is how the two of them began studying for the Lion Exam.
 
-    ("勉強はときどき短い休憩をはさみながら、３桙時間ほど続いた。†",
+    ("勉強はときどき短い休憩をはさみながら、３桙時間ほど続いた。",
     ""),
-    # Studying continued for about three frames, occasionally taking short breaks.†
+    # Studying continued for about three frames, occasionally taking short breaks.
 
     ("「それじ痰ゃ、おじ痰ゃましましたー」",
     ""),
@@ -358,9 +358,9 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("笑顔でうなずいた後、あかりは目を細め、うっすらと微笑んだ。†",
+    ("笑顔でうなずいた後、あかりは目を細め、うっすらと微笑んだ。",
     ""),
-    # After laughing, Akari nodded her head with a face, her eyes narrowed and a faint smile.†
+    # After laughing, Akari nodded her head with a face, her eyes narrowed and a faint smile.
 
     ("「なんだよ？」",
     ""),
@@ -378,9 +378,9 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「そうだよ、絶対。ち痰ゃんは、もともと頭が良いんだから。ただ｢｢」†",
+    ("「そうだよ、絶対。ち痰ゃんは、もともと頭が良いんだから。ただ｢｢」",
     ""),
-    # "That's right, I'm sure. Chishonan is really smart, and I just say """†
+    # "That's right, I'm sure. Chishonan is really smart, and I just say """
 
     ("「｢｢竊やらないだけだ、ってんだ？」",
     ""),
@@ -394,9 +394,9 @@ text_array = [
     ""),
     # "that's right.
 
-    ("やる気を出したち痰ゃんはなんだって出女磯翌鴦ｾってこと、п私、知ってるんだ。サッカーだって昔は史ち痰ゃんより上闖手だったもんね？」†",
+    ("やる気を出したち痰ゃんはなんだって出女磯翌鴦ｾってこと、п私、知ってるんだ。サッカーだって昔は史ち痰ゃんより上闖手だったもんね？」",
     ""),
-    # I know that I'm motivated and what kind of woman Isozuki's is, what kind of woman is.Even in soccer, it was a great player than I-Shin Chisho-chan, right?”†
+    # I know that I'm motivated and what kind of woman Isozuki's is, what kind of woman is.Even in soccer, it was a great player than I-Shin Chisho-chan, right?”
 
     ("「そうだっけ？」",
     ""),
@@ -414,9 +414,9 @@ text_array = [
     ""),
     # "So this test case is sure to be a perfect match for this time."
 
-    ("「そーだといいがな」†",
+    ("「そーだといいがな」",
     ""),
-    # "I hope so" †
+    # "I hope so" 
 
     ("「うん、きっと」",
     ""),
@@ -442,9 +442,9 @@ text_array = [
     ""),
     # "Yeah, do your best!"
 
-    ("そう言い残して、あかりは帰っていった。†",
+    ("そう言い残して、あかりは帰っていった。",
     ""),
-    # With that in mind, Akari left.†
+    # With that in mind, Akari left.
 
     ("それにしてもあかりのрヤツ、根注拠もないのにオレを持ち上げてくれるぜ。",
     ""),

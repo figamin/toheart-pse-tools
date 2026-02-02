@@ -2,9 +2,9 @@
 # Source file: 0123.txt
 
 text_array = [
-    ("（あかり	ＶＳイベント	レミィ）閨（二年以降）閨（あかり好感度２５以繹上	レミィ好感度１０以繹上）閨（３桙時間目の休み桙時間）閨（２Ｆ廊下）†",
+    ("（あかり	ＶＳイベント	レミィ）閨（二年以降）閨（あかり好感度２５以繹上	レミィ好感度１０以繹上）閨（３桙時間目の休み桙時間）閨（２Ｆ廊下）",
     ""),
-    # (Akari VS Event: War Remi) (2nd year and later) (Akari likeability level 25 or higher; War Remi likeability level 10 or higher) (3rd frame time off) (Cover time on the corridor) (2nd floor corridor) †
+    # (Akari VS Event: War Remi) (2nd year and later) (Akari likeability level 25 or higher; War Remi likeability level 10 or higher) (3rd frame time off) (Cover time on the corridor) (2nd floor corridor) 
 
     ("休み桙時間。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Hehe, you look sleepy."
 
-    ("あかりだった。†",
+    ("あかりだった。",
     ""),
-    # It was Akari.†
+    # It was Akari.
 
     ("「…ああ、もうさっきの桙時間は終始㍽睡ｐ魔との戦いだったぜ」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "At a slut, you look at the noshi, so I have no phlegm, my name is."
 
-    ("「へへへ」†",
+    ("「へへへ」",
     ""),
-    # "Hehehe" †
+    # "Hehehe" 
 
     ("「まあ、冷たいｐで顔でも洗って、目覚ましてくるわ」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # This energetic voice must be different to the point of listening.
 
-    ("「諱よお、レミィ」†",
+    ("「諱よお、レミィ」",
     ""),
-    # "My name is, thrill"†
+    # "My name is, thrill"
 
     ("「、なんだか背白が丸まってるｃ」",
     ""),
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "As expected of you, Poet Poet!"
 
-    ("「いや、香詩人熕もなにも、ホントにだな…」†",
+    ("「いや、香詩人熕もなにも、ホントにだな…」",
     ""),
     # "The tampering, the Poet Poet, and what is it, really..."
 
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # "The two are not good friends, not just the same."
 
-    ("「ああ、まーな」†",
+    ("「ああ、まーな」",
     ""),
-    # "Ah, well" †
+    # "Ah, well" 
 
     ("「そういえば、以前から聞きたかった質竡問がありマス」",
     ""),
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "In "Tb≠aрd, yeast, yeast, ≠nitrite, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, yeast, y
 
-    ("「なんだよ、急にそんなこと」†",
+    ("「なんだよ、急にそんなこと」",
     ""),
     # "What is that all of a sudden?"
 
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # "Ah, it's a tote tit."
 
-    ("まあ、聞いてんだから、噤答えてやるか。†",
+    ("まあ、聞いてんだから、噤答えてやるか。",
     ""),
-    # Well, since I've heard it, I'll answer it and tamper with it.†
+    # Well, since I've heard it, I'll answer it and tamper with it.
 
     ("そうだなあ｢｢。",
     ""),

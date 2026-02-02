@@ -2,9 +2,9 @@
 # Source file: 01B2.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（４月２２冾日）閨（廊下）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（４月２２冾日）閨（廊下）",
     ""),
-    # (Akari Scales Event 2F) (April Lion, 22nd Day) (Carrior)†
+    # (Akari Scales Event 2F) (April Lion, 22nd Day) (Carrior)
 
     ("しかし、今厓日は暑い一勛日だった。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Most of the people have taken off the potatoes.
 
-    ("それでもさっきの桙時間、小雨がぱらついたおかげで、少しは過ごしやすくなったけど。†",
+    ("それでもさっきの桙時間、小雨がぱらついたおかげで、少しは過ごしやすくなったけど。",
     ""),
-    # And thanks to the light rain that had been lit up during the previous fox time, it became easier to spend some time a little.†
+    # And thanks to the light rain that had been lit up during the previous fox time, it became easier to spend some time a little.
 
     ("ぶらぶらと階段辺阨りにさしかかったときのこと。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Ah, sputum."
 
-    ("歩いてきたあかりにばったりった。†",
+    ("歩いてきたあかりにばったりった。",
     ""),
-    # I ran over to Akari as I walked.†
+    # I ran over to Akari as I walked.
 
     ("「諱よう」",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "I'm going home to smoke too. And now I'm thinking of going to the bait bait."
 
-    ("「屋繪上？」†",
+    ("「屋繪上？」",
     ""),
     # "Are you on the house?"
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Hehe. That's fun going."
 
-    ("あかりはなにやら楽しそうに笑った。†",
+    ("あかりはなにやら楽しそうに笑った。",
     ""),
-    # Akari laughed happily and with all the tampering.†
+    # Akari laughed happily and with all the tampering.
 
     ("どうするか？",
     ""),

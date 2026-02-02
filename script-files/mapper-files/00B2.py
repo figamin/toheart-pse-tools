@@ -2,7 +2,7 @@
 # Source file: 00B2.txt
 
 text_array = [
-    ("（４月１１冾日	朝）閨（自分の部屋）†",
+    ("（４月１１冾日	朝）閨（自分の部屋）",
     ""),
     # (April 11th day of the month) (morning) (morning)
 
@@ -10,9 +10,9 @@ text_array = [
     ""),
     # Fourth Lion's 11th day, Friday's day.
 
-    ("カーテンを開くと、まぶしい光が部屋薗に飛び桙込んできた。†",
+    ("カーテンを開くと、まぶしい光が部屋薗に飛び桙込んできた。",
     ""),
-    # When I opened the curtains, dazzling light flew through the room.†
+    # When I opened the curtains, dazzling light flew through the room.
 
     ("新しい朝。",
     ""),
@@ -26,17 +26,17 @@ text_array = [
     ""),
     # I'm glad!
 
-    ("今厓日燗も一勛日、気㈲合い入齠れていくか。†",
+    ("今厓日燗も一勛日、気㈲合い入齠れていくか。",
     ""),
-    # I wonder if the sun will be coming to light on the day.†
+    # I wonder if the sun will be coming to light on the day.
 
     ("「…でね、クラスの翌女の子たちが言うには、なんだかちょっと怖くて、声をかけにくいんだって」",
     ""),
     # "...So, the girls after the banquet show that it's kind of scary and difficult to speak up."
 
-    ("朝の光にｕまれた道を歩きながら、あかりが言った。†",
+    ("朝の光にｕまれた道を歩きながら、あかりが言った。",
     ""),
-    # Akari said as she walked along the path erected by the morning light.†
+    # Akari said as she walked along the path erected by the morning light.
 
     ("「怖いって、オレが？」",
     ""),
@@ -46,17 +46,17 @@ text_array = [
     ""),
     # "Yes. That's weird. And Kano and Maki Shichi-Sho-chan seem kind and are easy to talk to. That's weird. Chi-Sho-chan is also kind."
 
-    ("あかりはにこっと微笑んだ。†",
+    ("あかりはにこっと微笑んだ。",
     ""),
-    # Akari smiled smirking.†
+    # Akari smiled smirking.
 
     ("「でも、どっちかっつーと、そいつらのほうが正しいと思うぜ。怖いかどうかはともかく、優しくなんかねーからな、オレは」",
     ""),
     # "And I think they're the correct ones either way. Whether they're scared or not, it's not a good thing, I'm not very kind."
 
-    ("「そんなことないよ」†",
+    ("「そんなことないよ」",
     ""),
-    # "That's not true" †
+    # "That's not true" 
 
     ("校門前までｗたとき。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # It's Koroisu Korou-Russ.
 
-    ("自動ドアが開き、からゆっくりと優莱に降闕り立ったのは、長い髪のおｏさまだった。†",
+    ("自動ドアが開き、からゆっくりと優莱に降闕り立ったのは、長い髪のおｏさまだった。",
     ""),
-    # The automatic door opened and the long haired O-san slowly leapt from the door to Yulai.†
+    # The automatic door opened and the long haired O-san slowly leapt from the door to Yulai.
 
     ("「あ、＠栖瑞謳先輩だ」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "That's right. As expected of a man, he has a wealth of energy, and somehow he has been made aware of his phlegm differences."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("艨ゆったりと魔走闡り去っていく鰍リムジン。",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # Senpai stood there and looked at it casually and then drove away.
 
-    ("もうすぐチャャイムが鳴髢る桙時間だってのに、梶相変﨑わらずのんびりしてるよな。†",
+    ("もうすぐチャャイムが鳴髢る桙時間だってのに、梶相変﨑わらずのんびりしてるよな。",
     ""),
-    # Even though it's time for Chaiim to squeal soon, Kaji Ai is relaxing without turning the squeal.†
+    # Even though it's time for Chaiim to squeal soon, Kaji Ai is relaxing without turning the squeal.
 
     ("オレは近づいて声をかけた。",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # It's a standard issue that I don't really understand when it comes to Hot and what he's thinking.
 
-    ("無の境地でも悟ってそうな感じだ。†",
+    ("無の境地でも悟ってそうな感じだ。",
     ""),
-    # It seems like even Hou has come to realise the state of nothingness.†
+    # It seems like even Hou has come to realise the state of nothingness.
 
     ("「おはようございます」",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("おはようございます、と軽くおじぎした。†",
+    ("おはようございます、と軽くおじぎした。",
     ""),
-    # Good morning, I bowed lightly.†
+    # Good morning, I bowed lightly.
 
     ("「それよか、諱先輩。",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("ちょっと遅れて反梍応し、うなずいた。†",
+    ("ちょっと遅れて反梍応し、うなずいた。",
     ""),
-    # I was late and refuted to my anger and nodded.†
+    # I was late and refuted to my anger and nodded.
 
     ("「ち痰ゃん、＠栖瑞さんと親しかったの？」",
     ""),
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "Ah, well."
 
-    ("「へえ、そうなんだ。全然知迺らなかった」†",
+    ("「へえ、そうなんだ。全然知迺らなかった」",
     ""),
     # "Oh, that's right. I didn't know anything at all."
 
@@ -198,8 +198,8 @@ text_array = [
     "…"),
     # "..."
 
-    ("なんだか馬鹿にされてるような気がした。†",
+    ("なんだか馬鹿にされてるような気がした。",
     ""),
-    # I felt like I was being made fun of.†
+    # I felt like I was being made fun of.
 
 ]

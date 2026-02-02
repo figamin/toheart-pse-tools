@@ -2,9 +2,9 @@
 # Source file: 06A9.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜	閨手加減する）†",
+    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜	閨手加減する）",
     ""),
-    # (Mixing Luck, the balance event, return road) (Choose-such, adjust the amount)†
+    # (Mixing Luck, the balance event, return road) (Choose-such, adjust the amount)
 
     ("「諱よ〜し、行くぞぉ〜」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I gulp the pack lightly.
 
-    ("ヘ鴻ロ〜…と、梶滑驫るパック。†",
+    ("ヘ鴻ロ〜…と、梶滑驫るパック。",
     ""),
-    # Hehhhh... and Kaji-singed pack.†
+    # Hehhhh... and Kaji-singed pack.
 
     ("「え、えっと…」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # The pack was hit back with a squeal, and was even more sluggish than when Ogekire hit it.
 
-    ("ヘ鴻ロヘ鴻ロ〜…と、迫髞るパック。†",
+    ("ヘ鴻ロヘ鴻ロ〜…と、迫髞るパック。",
     ""),
-    # Hehhhhhhhhhhh...the pack throbbed in the bath.†
+    # Hehhhhhhhhhhh...the pack throbbed in the bath.
 
     ("「………」",
     "…"),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # Pee.
 
-    ("まごつきながら、必死になって打ち返したマルチのパックは、やっぱりヘ鴻ロヘ鴻ロだった。†",
+    ("まごつきながら、必死になって打ち返したマルチのパックは、やっぱりヘ鴻ロヘ鴻ロだった。",
     ""),
-    # As he squealed, he desperately tried to hit the ball back, and as expected, he was Hekoro Hekoro.†
+    # As he squealed, he desperately tried to hit the ball back, and as expected, he was Hekoro Hekoro.
 
     ("ペシッ。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # Pee.
 
-    ("ヘ鴻ロヘ鴻ロ〜…。†",
+    ("ヘ鴻ロヘ鴻ロ〜…。",
     ""),
-    # Hehhhhhhhhhhhhhhhhh...†
+    # Hehhhhhhhhhhhhhhhhh...
 
     ("・",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「とってもエキサイトしました。楽しかったですー。さんはどうでした？」",
     ""),
@@ -106,8 +106,8 @@ text_array = [
     ""),
     # I nodded with an ambiguous laugh.
 
-    ("設計梃時からそういう仕様なのか、どうやらマルチは本格的に運動が苦闍手邇らしい。†",
+    ("設計梃時からそういう仕様なのか、どうやらマルチは本格的に運動が苦闍手邇らしい。",
     ""),
-    # It seems that the design is like that from the start of the design, and it seems that the movement is in serious trouble.†
+    # It seems that the design is like that from the start of the design, and it seems that the movement is in serious trouble.
 
 ]

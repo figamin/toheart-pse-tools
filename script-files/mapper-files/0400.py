@@ -2,13 +2,13 @@
 # Source file: 0400.txt
 
 text_array = [
-    ("（志保	冝日付イベント１）†",
+    ("（志保	冝日付イベント１）",
     ""),
-    # (Shiho Pilgrim Date Event 1)†
+    # (Shiho Pilgrim Date Event 1)
 
-    ("席にｒくなり、廊下のｌこうから宸騒がしい声が近づいてきた。†",
+    ("席にｒくなり、廊下のｌこうから宸騒がしい声が近づいてきた。",
     ""),
-    # I was in my seat, and a noisy voice came near me in the hallway.†
+    # I was in my seat, and a noisy voice came near me in the hallway.
 
     ("「ちょっとちょっと、蛛大ニャース蜒大ニャース、閨",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Shut up, starting in the morning.
 
-    ("目が№合うとなにかとからまれるので、オレは机にうつぶして、寝たふりをｌめ桙込んだ。†",
+    ("目が№合うとなにかとからまれるので、オレは机にうつぶして、寝たふりをｌめ桙込んだ。",
     ""),
-    # When my eyes met, something would get tangled, so I lay face down on my desk and pretended to be asleep.†
+    # When my eyes met, something would get tangled, so I lay face down on my desk and pretended to be asleep.
 
     ("「おっ、また長岡の『志保ち痰ゃん薰情報』だぜ」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # Students who are in B mode gather together.
 
-    ("その間志保は、普黒板いっぱいに見出しを曹書き始めた。†",
+    ("その間志保は、普黒板いっぱいに見出しを曹書き始めた。",
     ""),
-    # Meanwhile, Shiho began writing headlines all over the board.†
+    # Meanwhile, Shiho began writing headlines all over the board.
 
     ("三度の≠メシ諠よりおし痰ゃべり好きな志保は、同じようなおし痰ゃべり№仲間を集めたあやしい薰情報ネット純ワークを持っている。",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # At any rate, Hot will bring in the latest information he has obtained from there, under the title of Shiho and Shoyan Information, but this is almost always a hoax.
 
-    ("おかげで志保は歩く校熏内藷ワイドショーなどとも呼ばれていたりする。†",
+    ("おかげで志保は歩く校熏内藷ワイドショーなどとも呼ばれていたりする。",
     ""),
-    # Thanks to this, Shiho is also known as the wide-season school innards that are walking around.†
+    # Thanks to this, Shiho is also known as the wide-season school innards that are walking around.
 
     ("とこが、このｌ諟情報ばかりの志保ち痰ゃん薰情報、意外にも固定ファンは多い。",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # Rather than that, Shiho's talk is received from the voices of the information, but that's what makes Shiho stand up again, so it's a shame.
 
-    ("悪循環だ。†",
+    ("悪循環だ。",
     ""),
-    # It's a vicious cycle.†
+    # It's a vicious cycle.
 
     ("「うんうん、だいたい集まったわね。そこにひとり、寝たフリしてるやつがいるけど」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Shut up, leave it alone."
 
-    ("言うだけ言ってもとの体勢に戻った。†",
+    ("言うだけ言ってもとの体勢に戻った。",
     ""),
-    # He said as much as he could and returned to his original position.†
+    # He said as much as he could and returned to his original position.
 
     ("「本末当は一番聞きたいくせに。どーしてそう、あんたは素直じ痰ゃないのよ」",
     ""),
@@ -98,21 +98,21 @@ text_array = [
     ""),
     # "I'm not interested in information about Shiho's sphinx, like the sphinx of fake topics."
 
-    ("オレはうつぶしたまま言った。†",
+    ("オレはうつぶしたまま言った。",
     ""),
-    # I said while still facing down.†
+    # I said while still facing down.
 
     ("「ふんっ、どうせ聞き耳立ててるくせに。さ、あんなのほっといていくわよぉ」",
     ""),
     # "Hmm, I'm listening anyway. I'm going to leave something like that alone."
 
-    ("そう言うと、志保はわざわざオレにも届くくらいの声で、みんなに話し始めた。†",
+    ("そう言うと、志保はわざわざオレにも届くくらいの声で、みんなに話し始めた。",
     ""),
-    # With that in mind, Shiho began to talk to everyone, with a voice that was enough to reach my spirits.†
+    # With that in mind, Shiho began to talk to everyone, with a voice that was enough to reach my spirits.
 
-    ("「で、蛛大ニャースっていうのは｢｢」†",
+    ("「で、蛛大ニャースっていうのは｢｢」",
     ""),
-    # "And the name "Great Meowth" is ""†
+    # "And the name "Great Meowth" is ""
 
     ("「昨厓日の晩のことなんだけど、あたし、カラオケで友達とちょこっと盛關り上がっち痰ゃって帰闍りが遅くなったのよ。",
     ""),
@@ -122,17 +122,17 @@ text_array = [
     ""),
     # In any case, I thought that I would return to the train with just one train, so I tried to pass through the naughty hotel crying streets.
 
-    ("ここってほら、なにかと話陂題に魔事㍽欠かない場鰹所じ痰ゃない。†",
+    ("ここってほら、なにかと話陂題に魔事㍽欠かない場鰹所じ痰ゃない。",
     ""),
-    # Here's what I'm talking about, the topic is that there's no missing magical slurredness.†
+    # Here's what I'm talking about, the topic is that there's no missing magical slurredness.
 
     ("いつものあたしならネタはないかと探しまわるとこなんだけど、その冾日はそれどこじ痰ゃなかったのよ。",
     ""),
     # I'm looking for something to talk about when I'm a hot guy, but when was that day I didn't have any phlegm.
 
-    ("でも、スクープの神様はいつでもあたしを見迪守ってくれていた！†",
+    ("でも、スクープの神様はいつでもあたしを見迪守ってくれていた！",
     ""),
-    # And when did the god of chicken and scoop protect me?†
+    # And when did the god of chicken and scoop protect me?
 
     ("ちょうどそのとき、近くのホテルからカップルが出てきたのよ。",
     ""),
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # No matter how badly, that couple crying...
 
-    ("次回、学園哩事庶件記者志保ち痰ゃん『艨謎のカップル繝後編』に｢｢」†",
+    ("次回、学園哩事庶件記者志保ち痰ゃん『艨謎のカップル繝後編』に｢｢」",
     ""),
     # Next time, the """ is written by Shiho-chan, a reporter at the school's commonplace event, "The Mysterious Cup Crying Part 2."
 
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # "Hey, Nagaoka Yu."
 
-    ("「氈勝闖手に終尞わんなよ」†",
+    ("「氈勝闖手に終尞わんなよ」",
     ""),
-    # "Don't finish it with the stakes" †
+    # "Don't finish it with the stakes" 
 
     ("「なははっ、ってのはジョークでぇ。あたしが見たのはネー君だったのよ」",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # "Mathematics?"
 
-    ("オレもみんなと同じで耳を疑ってしまった。†",
+    ("オレもみんなと同じで耳を疑ってしまった。",
     ""),
-    # Just like everyone else, I couldn't believe my ears.†
+    # Just like everyone else, I couldn't believe my ears.
 
     ("ネー君は数学の谷羽口謖先生。",
     ""),
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # Most of the conversations in the lessons are given "Yes," "I mean," and "Hey," so the nickname that students gave was Ne.
 
-    ("１桙時間に何回し痰ゃべったか数えてるрヤツもいるくらいだ。†",
+    ("１桙時間に何回し痰ゃべったか数えてるрヤツもいるくらいだ。",
     ""),
-    # There are even people who count how many times they have sex in one frame.†
+    # There are even people who count how many times they have sex in one frame.
 
     ("「そうそう。あたしから見て１５は痰若い翌女の人を連齪れてたのよ。ネー君、あんな痰若い怩奥さんいたっけな〜って」",
     ""),
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # "Really?"
 
-    ("「なかなか隅に置けないね〜」†",
+    ("「なかなか隅に置けないね〜」",
     ""),
     # "It's hard to put it in the corner"
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # My gang stands up to the hot b and approaches the group of people.
 
-    ("「なあ、あんなрヤツの言うことをいちいち真に受けないほうがいいぜ」†",
+    ("「なあ、あんなрヤツの言うことをいちいち真に受けないほうがいいぜ」",
     ""),
     # "Hey, it's better not to take that guy seriously"
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "You're such a great Fukuguchi kid, what are you doing to pay attention to?"
 
-    ("「ならひとつ聞くけどな、そいつはホントにネー君だったんだうな？」†",
+    ("「ならひとつ聞くけどな、そいつはホントにネー君だったんだうな？」",
     ""),
     # "I'd ask you one thing, isn't that really Ne?!"
 
@@ -250,7 +250,7 @@ text_array = [
     ""),
     # "I asked if they could confirm the doubts and what kind of chicken they suspected. Are you not phlegmy at all?"
 
-    ("「確認ってなによ。まさか、呼び止めてあなたは谷羽口センセ？	とか聞いてみたのかってこと？」†",
+    ("「確認ってなによ。まさか、呼び止めてあなたは谷羽口センセ？	とか聞いてみたのかってこと？」",
     ""),
     # "What is confirmation? Couldn't you call me off and ask me, "Are you Tanitaiguchi Sensei?"
 
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # "If you sigh like that, there's no difference between them. Photos mean that there's no more proof that makes them more convincing."
 
-    ("「惜しいわねぇ。証衷拠なんてモノはあたしが一番欲しかったわよ。でもさ、あの暗がりでカ＜メラは使えなかったのよ」†",
+    ("「惜しいわねぇ。証衷拠なんてモノはあたしが一番欲しかったわよ。でもさ、あの暗がりでカ＜メラは使えなかったのよ」",
     ""),
     # "It's a shame. I'm the one I wanted the most. And in that darkness, I couldn't use the camera banquet."
 
@@ -266,7 +266,7 @@ text_array = [
     ""),
     # Shiho made a lot of excuses, such as the disposable camera (me-en-en-rasha) being a disposable camera, but the banquet is unobtrusive, and that even if the lens is spurted, the fireworks were small, so the fireworks didn't make a clear picture.
 
-    ("「｢｢というわけで、残ったのはあたしの証言だけって寸法なのよ」†",
+    ("「｢｢というわけで、残ったのはあたしの証言だけって寸法なのよ」",
     ""),
     # "So, all that remains is my testimony."
 
@@ -274,15 +274,15 @@ text_array = [
     ""),
     # "What's the point? What's the point? What's the worst thing about Temee says is."
 
-    ("「なななんですってぇ〜〜〜っ！？」†",
+    ("「なななんですってぇ〜〜〜っ！？」",
     ""),
-    # "It's Nanan!" †
+    # "It's Nanan!" 
 
     ("「お前が品行綠方正な優剽等生だっていうなら、その話は信じてやる。けどな、冝日頃からいい加減な薰情報流してるオ＜メーの言うことをどれだけ信用できるっつーんだ。なあ、みんな？」",
     ""),
     # "If you're a good-looking student, I'll trust you and tamper with that story. But how much can you trust Mae, who has been spreading information on a regular basis? Hey, everyone?"
 
-    ("オレが聞くと、†",
+    ("オレが聞くと、",
     ""),
     # When I heard it,
 
@@ -294,17 +294,17 @@ text_array = [
     ""),
     # "It's just a common thing, so it's like a lie."
 
-    ("そんなふうに、集まった連中の意見はウソホント半々にスパッと分かれた。†",
+    ("そんなふうに、集まった連中の意見はウソホント半々にスパッと分かれた。",
     ""),
-    # In this way, the opinions of the people gathered were actually split into two parts.†
+    # In this way, the opinions of the people gathered were actually split into two parts.
 
     ("「ほれ見撃。お前の言うことなんざこの程度の信用度だ。５０％もあるだけマシだ？」",
     ""),
     # "Look, see. What you say is this level of credibility. Is it better that 50% Tang %?"
 
-    ("なるべくムカつくように言ってやった。†",
+    ("なるべくムカつくように言ってやった。",
     ""),
-    # I told him to be as annoyed as possible and then he tried to tamper with it.†
+    # I told him to be as annoyed as possible and then he tried to tamper with it.
 
     ("それを聞いた志保の反梍応はというと、みるみる顔が赤くなり、",
     ""),
@@ -314,9 +314,9 @@ text_array = [
     ""),
     # "Kiii, it's annoying! I believe in that, both the bagua and the bagua, and the bagua that I don't believe in are the bagua and the bagua."
 
-    ("カンシャャクを起こすと、なんだかよくわからない捨て台倦詞を残して、志保は教室を飛び出していった。†",
+    ("カンシャャクを起こすと、なんだかよくわからない捨て台倦詞を残して、志保は教室を飛び出していった。",
     ""),
-    # When he woke up Kanshak, Shiho ran out of the classroom, leaving behind a silence that he couldn't understand.†
+    # When he woke up Kanshak, Shiho ran out of the classroom, leaving behind a silence that he couldn't understand.
 
     ("行き先は、自分のクラスと逆の方。",
     ""),

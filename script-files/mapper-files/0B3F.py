@@ -2,17 +2,17 @@
 # Source file: 0B3F.txt
 
 text_array = [
-    ("（綾∴香ＶＳ葵）閨（綾∴香	バトルポイント１０以繹上）閨（葵	好感度	１０以繹上）閨（２桙時間目の休み桙時間）閨（２Ｆ廊下）†",
+    ("（綾∴香ＶＳ葵）閨（綾∴香	バトルポイント１０以繹上）閨（葵	好感度	１０以繹上）閨（２桙時間目の休み桙時間）閨（２Ｆ廊下）",
     ""),
-    # (Aya∴Ka VS Aoi) (Aya∴Ka Voice, Battle Cry Point 10 or higher) (Aoi, Likeability level 10 or higher) (Aoi, rest time in the second frame time) (2nd floor corridor) †
+    # (Aya∴Ka VS Aoi) (Aya∴Ka Voice, Battle Cry Point 10 or higher) (Aoi, Likeability level 10 or higher) (Aoi, rest time in the second frame time) (2nd floor corridor) 
 
     ("休み桙時間。",
     ""),
     # Break time.
 
-    ("渡闢り廊下で偶然、葵ち痰ゃんに出初った。†",
+    ("渡闢り廊下で偶然、葵ち痰ゃんに出初った。",
     ""),
-    # By chance, I first appeared in Aoi Chisho-yan in the corridor.†
+    # By chance, I first appeared in Aoi Chisho-yan in the corridor.
 
     ("「諱先輩」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "You'll be my name, Aoi Chishonan."
 
-    ("「こんにちは」†",
+    ("「こんにちは」",
     ""),
-    # "Hello"†
+    # "Hello"
 
     ("「あっ、そうだ。ちょうどいい。葵ち痰ゃんに、ぜひ教えてほしいことがあるんだけど」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Is it Ghoo Robe...?"
 
-    ("「うん。そいつで手っ取り≠早く強くなる方法を教えてほしいんだけど」†",
+    ("「うん。そいつで手っ取り≠早く強くなる方法を教えてほしいんだけど」",
     ""),
     # "Yes. I would like to know how to get better quickly with that guy to get stronger."
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "It's tampering, well, it's a bit of a slut."
 
-    ("オレは、ハハハと笑ってごまかした。†",
+    ("オレは、ハハハと笑ってごまかした。",
     ""),
-    # I cheated him with a hahaha.†
+    # I cheated him with a hahaha.
 
     ("「そうですね。",
     ""),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # If you're going to get the point of your hand, then I think it's best to learn boxing after all."
 
-    ("「いや、習ってる桙時間なんかないくらいに、＝早く強くならなき痰ゃいけないんだ」†",
+    ("「いや、習ってる桙時間なんかないくらいに、＝早く強くならなき痰ゃいけないんだ」",
     ""),
     # "I have to get strong quickly, so long as I don't have time to learn, I have to get strong."
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Are you the point? Hmm..."
 
-    ("「°体的なほうがいいな」†",
+    ("「°体的なほうがいいな」",
     ""),
-    # "I prefer ° physical" †
+    # "I prefer ° physical" 
 
     ("「まずは、﨟基本姿勢を保つこと。それから、梶相闡手をよく見骭ること。あとは、むやみに前へ出ないこと。その三つでしょうか」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "...﨟 basic posture....I look closely at Kaji's relations carefully. I can't move forward as I slam."
 
-    ("声に出して反恃復してみる。†",
+    ("声に出して反恃復してみる。",
     ""),
-    # I'll try to revive it loudly.†
+    # I'll try to revive it loudly.
 
     ("「あとは、複雑な技をいくつも覚えるより、なにかひとつでも、徹齠底的にやり桙込んだ技があるほうが、実寬戦では重宝しますよ」",
     ""),
@@ -114,15 +114,15 @@ text_array = [
     ""),
     # "I see"
 
-    ("なにかひとつを徹齠底的に…か。†",
+    ("なにかひとつを徹齠底的に…か。",
     ""),
-    # Something is completely crucial...?†
+    # Something is completely crucial...?
 
     ("「堰初心者の人はストレートばかり高注目しがちですが、実際の試㍽合では左のショートフックが非嵓常に有効なんですよ」",
     ""),
     # "People who are new to weir tend to focus on high-speed straights only, but in actual Lion Exam Lion Exam Ling, the left side hook is always effective."
 
-    ("「ほほう。左のショートフックか」†",
+    ("「ほほう。左のショートフックか」",
     ""),
     # "Hey. Is that a square hook on the left?"
 
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # "like this?"
 
-    ("「はい。そして、左闕手の腕椈時計を見骭るような感じで｢｢」†",
+    ("「はい。そして、左闕手の腕椈時計を見骭るような感じで｢｢」",
     ""),
-    # "Yes. And, like looking at the arm clock on my left hand, I thought, ""†
+    # "Yes. And, like looking at the arm clock on my left hand, I thought, ""
 
     ("そんなこんなで、その桙時間は、葵ち痰ゃんに左フックの打ち方を教寀わった。◯",
     ""),

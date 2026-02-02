@@ -2,17 +2,17 @@
 # Source file: 08B4.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	「＝メイド鴻ロボが欲しいぜ」）†",
+    ("（レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	「＝メイド鴻ロボが欲しいぜ」）",
     ""),
-    # (Karemi Remie Scales Event 1st floor 3 LV2) (Select So "I want a Maid Korobo") †
+    # (Karemi Remie Scales Event 1st floor 3 LV2) (Select So "I want a Maid Korobo") 
 
     ("「本物の人間煌もいいけど、なんつーか…気を遣甯わずに済む、＝メイド鴻ロボにあこがれるよな」",
     ""),
     # "The real human being, Kira, is nice, but... I don't have to worry about it, so I'm hoping for Maid Korobo."
 
-    ("使うのは電気繼代くらいか？†",
+    ("使うのは電気繼代くらいか？",
     ""),
-    # Do you use the electric bill?†
+    # Do you use the electric bill?
 
     ("「アタシじ痰ゃ、ダ＜メなの…？」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "I'm a daijicook."
 
-    ("「やっぱ同遠級生にそんなこと、梶頼めねーって」†",
+    ("「やっぱ同遠級生にそんなこと、梶頼めねーって」",
     ""),
     # "I thought I could not ask my classmates to say that."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "What is that saying, how you say it...I'm curious."
 
-    ("聞いてみると、レミィは開き直ったような笑顔で、†",
+    ("聞いてみると、レミィは開き直ったような笑顔で、",
     ""),
     # When I asked, I saw that Remy had a laughing face that seemed to be openly open.
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Hehehe, I'm not confident in the cleaning and removal of the equipment or the cost of the equipment."
 
-    ("なんて言う。†",
+    ("なんて言う。",
     ""),
-    # What do you say?†
+    # What do you say?
 
     ("「おめー、それって詐欺じ痰ゃねーのか」",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Poisonous phlegm c"
 
-    ("「あったりめーだ！」†",
+    ("「あったりめーだ！」",
     ""),
     # "It's so cute!"
 

@@ -2,7 +2,7 @@
 # Source file: 0106.txt
 
 text_array = [
-    ("（あかり	冝日付イベント１．４）閨（３月１６冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（自分の部屋）†",
+    ("（あかり	冝日付イベント１．４）閨（３月１６冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（自分の部屋）",
     ""),
     # (Akari Pick Date Event 1.4) (3rd Lion Day 16th Day) (occurs if you are studying with a light) (occurs when you are in 2nd place) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally) (occasionally)
 
@@ -10,9 +10,9 @@ text_array = [
     ""),
     # Is it two gazes?
 
-    ("そそ、あかりのрヤツがｗ磯翌骰だな。†",
+    ("そそ、あかりのрヤツがｗ磯翌骰だな。",
     ""),
-    # That's b, the guy Akari's lol Isozuki is the one.†
+    # That's b, the guy Akari's lol Isozuki is the one.
 
     ("ピンポーン。",
     ""),
@@ -42,13 +42,13 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("と、声が返ってきた。†",
+    ("と、声が返ってきた。",
     ""),
-    # A voice replied.†
+    # A voice replied.
 
-    ("とんとんとん…。†",
+    ("とんとんとん…。",
     ""),
-    # Twinkle...†
+    # Twinkle...
 
     ("「おじ痰ゃましまーす」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "Damn it all?"
 
-    ("「うん、駅前のケーキ屋さんのケーキ」†",
+    ("「うん、駅前のケーキ屋さんのケーキ」",
     ""),
-    # "Yes, cake from a cake shop in front of the station" †
+    # "Yes, cake from a cake shop in front of the station" 
 
     ("「お、気がｗくな。あそこのはけっこう好きなんだよ」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # The test on Monday Day was Guen Lamar and Chemistry.
 
-    ("グラマーの方は土曜坥日にやったから、今厓日は徹齠底的に化学をやるぞ。†",
+    ("グラマーの方は土曜坥日にやったから、今厓日は徹齠底的に化学をやるぞ。",
     ""),
-    # The Fukukata of Gubangamer was tampered with Saturday's Day, so now I'll be tampering with chemistry.†
+    # The Fukukata of Gubangamer was tampered with Saturday's Day, so now I'll be tampering with chemistry.
 
     ("「えっと、テスト範囲は…」",
     ""),
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "It starts at 180 pages of the text... and the final page is up to 235 pages."
 
-    ("「３学匇期だけに範囲が狭いのが救いか」†",
+    ("「３学匇期だけに範囲が狭いのが救いか」",
     ""),
     # "Is it a relief that the area is narrow only for the three schools' period?"
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # The reaction between the monomers repeats the reaction between polymers and polymers, and is called the weighted liter.
 
-    ("宦○宦○に魔当てはまる言葉を言ってください」†",
+    ("宦○宦○に魔当てはまる言葉を言ってください」",
     ""),
-    # Please say words that apply to the eunuch."†
+    # Please say words that apply to the eunuch."
 
     ("「…ええっと」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "Ping Pong Pong Pong, that's the right answer! Now, here's the next question.
 
-    ("炭化艶素のｐ素原子を…」†",
+    ("炭化艶素のｐ素原子を…」",
     ""),
-    # The p-atom of the carbide …”†
+    # The p-atom of the carbide …”
 
     ("その冾日は、３桙時ごにあかりのモ買ってきたケーキを食べ、６桙時ごまで勉強した。◯",
     ""),

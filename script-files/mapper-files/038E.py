@@ -2,9 +2,9 @@
 # Source file: 038E.txt
 
 text_array = [
-    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（４月）閨（好感度イベント８を見たかどうかで分岐する）閨（階段）†",
+    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（４月）閨（好感度イベント８を見たかどうかで分岐する）閨（階段）",
     ""),
-    # (Tomoko Scales Event 2F LV1) Sil (4 Shizuki) Sil (Breaks depending on whether you saw the Likeability Event 8) Silence (Stairs)†
+    # (Tomoko Scales Event 2F LV1) Sil (4 Shizuki) Sil (Breaks depending on whether you saw the Likeability Event 8) Silence (Stairs)
 
     ("階段の前で、オレ諠より先に教室を出たはずの委員長に追いついた。",
     ""),

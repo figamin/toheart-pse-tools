@@ -6,9 +6,9 @@ text_array = [
     ""),
     # (Akari Likeability Event 2) (When the Likeability is above 14) (2nd Floor Time) (For physical education classes to empty the classroom) (Preparing the clock) (Break time in the second Floor Time) (Counter corridor) (Counter Time)
 
-    ("＊＊＊	時計件搶理漉注意	＊＊＊†",
+    ("＊＊＊	時計件搶理漉注意	＊＊＊",
     ""),
-    # *Polishing* Polishing* Watch out for smearing polishing* Polishing* Polishing* Polishing*†
+    # *Polishing* Polishing* Watch out for smearing polishing* Polishing* Polishing* Polishing*
 
     ("２桙時間目の休み桙時間。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Ah,!"
 
-    ("そんな声に呼ばれて振關りｌくと、渡闢り廊下から志保が駆け寄ってきた。†",
+    ("そんな声に呼ばれて振關りｌくと、渡闢り廊下から志保が駆け寄ってきた。",
     ""),
-    # As I was called by such a voice, Shiho came up to me from the corridor.†
+    # As I was called by such a voice, Shiho came up to me from the corridor.
 
     ("「やったーっ、いいとこにいるじ痰ゃない！」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Akariga, Akariga" "
 
-    ("「…あかりが、どうかしたのか？」†",
+    ("「…あかりが、どうかしたのか？」",
     ""),
     # "...What happened to Akari?"
 
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "What, what are you talking about, you..."
 
-    ("「ううっ、以前から鈍くさいとは思っていたけど、まさか、あんなことで…」†",
+    ("「ううっ、以前から鈍くさいとは思っていたけど、まさか、あんなことで…」",
     ""),
     # "Uhh, I've always thought it was dull, but I can't believe it was like that..."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Yeah, actually, the physical education on the day of the day was shot-skid throwing..."
 
-    ("「梶投げた砲丸に魔当たったのか！？」†",
+    ("「梶投げた砲丸に魔当たったのか！？」",
     ""),
     # "Did the shotgun thrown by the kaji hit the demon?!"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "And now, on the day, our team happened to be on duty to clean up afterwards. So we had been cleaning up the heavy shotgun with Akari and the others..."
 
-    ("「氏落っことしたのか！？」†",
+    ("「氏落っことしたのか！？」",
     ""),
     # "Did you fall for Mr.?!"
 
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # "Tell me more clearly and simply!"
 
-    ("「だから、その後で｢｢」†",
+    ("「だから、その後で｢｢」",
     ""),
-    # "So, after that, ""†
+    # "So, after that, ""
 
     ("そのとき。",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # "Ah, sputum."
 
-    ("声のほうをｌくと、クラスの翌女生徒に肩を借りたあかりが、ヒョコヒョコと片足を引きずりながら歩いていた。†",
+    ("声のほうをｌくと、クラスの翌女生徒に肩を借りたあかりが、ヒョコヒョコと片足を引きずりながら歩いていた。",
     ""),
-    # When Akari leaned her shoulders at the female student the following day after the party, she was walking around, dragging one leg.†
+    # When Akari leaned her shoulders at the female student the following day after the party, she was walking around, dragging one leg.
 
     ("「おい、あかり。お前、蛛大ケガしたって…」",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # "I said, 'I've broken it too,' and I'm not saying that I broke it."
 
-    ("「おめーな…」†",
+    ("「おめーな…」",
     ""),
-    # "Ahhh..." †
+    # "Ahhh..." 
 
     ("「ち痰ゃん、心配してくれたの？」",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # "Congratulations."
 
-    ("オレははっきりと言い切った。†",
+    ("オレははっきりと言い切った。",
     ""),
-    # I was completely clear about it.†
+    # I was completely clear about it.
 
     ("「とこで、いまから保瀦健室行くのか？」",
     ""),
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "That's right, but if everyone has to change the number of hot springs too soon, they'll end up being late in the next class."
 
-    ("「そんなのどうでもいいって」†",
+    ("「そんなのどうでもいいって」",
     ""),
     # "How about that, it's okay to have hot water."
 
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # "It's enough to lend my shoulders, and I have to go through all the phlegms."
 
-    ("「でも…」†",
+    ("「でも…」",
     ""),
-    # "And the hot spring..." †
+    # "And the hot spring..." 
 
     ("「いいじ痰ゃない。そう思ってあたしもこいつを捕まえたんだから。こいつがなにかの役に立つことなんて、そうそうないんだし」",
     ""),
@@ -270,7 +270,7 @@ text_array = [
     ""),
     # "Temee shut up b."
 
-    ("「なによーっ！」†",
+    ("「なによーっ！」",
     ""),
     # "What!"
 
@@ -282,9 +282,9 @@ text_array = [
     ""),
     # "Yeah, sputum..."
 
-    ("うなずくと、あかりは片足で移動し、オレの肩につかまった。†",
+    ("うなずくと、あかりは片足で移動し、オレの肩につかまった。",
     ""),
-    # Nodding, Akari moved on one foot and grabbed her by my serpent shoulder.†
+    # Nodding, Akari moved on one foot and grabbed her by my serpent shoulder.
 
     ("「それじ痰ゃ、縺後はまかせたわよ」",
     ""),
@@ -298,9 +298,9 @@ text_array = [
     ""),
     # "You're phlegmy."
 
-    ("女性徒の背白を押して、志保は≠早足でもとｗた道を戻っていった。†",
+    ("女性徒の背白を押して、志保は≠早足でもとｗた道を戻っていった。",
     ""),
-    # With the support of the bathing women in the bath, Shiho quickly walked back along the path he had already seen.†
+    # With the support of the bathing women in the bath, Shiho quickly walked back along the path he had already seen.
 
     ("残されたのは、オレとあかりだけ。",
     ""),
@@ -322,9 +322,9 @@ text_array = [
     ""),
     # "Okay, no one can."
 
-    ("「え？」†",
+    ("「え？」",
     ""),
-    # "picture?"†
+    # "picture?"
 
     ("「ほらよ…っと！」",
     ""),
@@ -334,9 +334,9 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("声とともに、オレは不意打ち気味に両腕であかりを抱き上げた。†",
+    ("声とともに、オレは不意打ち気味に両腕であかりを抱き上げた。",
     ""),
-    # With both my voice and Hou, I held Kari with both arms and raised her arms as if to surprise me.†
+    # With both my voice and Hou, I held Kari with both arms and raised her arms as if to surprise me.
 
     ("「、ち痰ゃん…！？」",
     ""),
@@ -354,9 +354,9 @@ text_array = [
     ""),
     # "That said, even if you're not sure if someone else will pass you through a cousin."
 
-    ("「…う、うん」†",
+    ("「…う、うん」",
     ""),
-    # "...Uh, yes" †
+    # "...Uh, yes" 
 
     ("オレは、他の生徒がいないか気にしながら、あかりを抱えて歩き出した。◯",
     ""),
@@ -386,9 +386,9 @@ text_array = [
     ""),
     # "Uh, I've got a little sputum, though."
 
-    ("「はは」†",
+    ("「はは」",
     ""),
-    # "mother"†
+    # "mother"
 
     ("「………」",
     "…"),
@@ -402,17 +402,17 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("保瀦健室までの廊下を歩く。",
     ""),
     # I walked down the hallway to the Hole Inn.
 
-    ("あかりはｎ囲を気にしてるのか、少し赤くなった顔をやや内側にｌけていた。†",
+    ("あかりはｎ囲を気にしてるのか、少し赤くなった顔をやや内側にｌけていた。",
     ""),
-    # Akari probably worried about the n-circumference, but her slightly red face was sniffing, tampering, and sniffing inside her.†
+    # Akari probably worried about the n-circumference, but her slightly red face was sniffing, tampering, and sniffing inside her.
 
     ("もうすぐ保瀦健室にｒくというとき、ずっと無言だったあかりが、小声で言った。",
     ""),
@@ -422,9 +422,9 @@ text_array = [
     ""),
     # "...Hey, sputum."
 
-    ("「あん？」†",
+    ("「あん？」",
     ""),
-    # "bean paste?"†
+    # "bean paste?"
 
     ("「…п私、重いでしょ？」",
     ""),
@@ -442,7 +442,7 @@ text_array = [
     ""),
     # "Hmm."
 
-    ("「腕、諱疲齡れない？」†",
+    ("「腕、諱疲齡れない？」",
     ""),
     # "Are you tired of your arm?"
 

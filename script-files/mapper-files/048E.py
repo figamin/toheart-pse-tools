@@ -2,9 +2,9 @@
 # Source file: 048E.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階１）閨（選択綜	デタラ＜メ＜吹き桙込む）†",
+    ("（志保	回秤数イベント	１階１）閨（選択綜	デタラ＜メ＜吹き桙込む）",
     ""),
-    # (Shiho Scales Event, 1st floor 1) (Choose a selection, a lame banquet <me < blow-out) †
+    # (Shiho Scales Event, 1st floor 1) (Choose a selection, a lame banquet <me < blow-out) 
 
     ("「いまどき、可愛い子ぶって男の気を引こうなんて、時緕代遅れもはなはだしいぜ」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Hey..."
 
-    ("案の定、詳しく聞かせとばかりに志保は話に乗ってきた。†",
+    ("案の定、詳しく聞かせとばかりに志保は話に乗ってきた。",
     ""),
-    # As expected, Shiho got on with the conversation, saying that he was going to be more detailed.†
+    # As expected, Shiho got on with the conversation, saying that he was going to be more detailed.
 
     ("「もっとストレートに翌迫逕らなくち痰ゃな」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "For example, I lifted the hem of my skirt up, keeping the point where I could see the depths of my thighs but couldn't.
 
-    ("…これで大葬の男は≠メ鴻ロ＜メ鴻ロだ」†",
+    ("…これで大葬の男は≠メ鴻ロ＜メ鴻ロだ」",
     ""),
     # ...Now, the man at the Ebi funeral is ≠ Mehong Ro < Mehong Ro"
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "﨟The basic technique, Chibanragata rhythm, is a tampering thing. "
 
-    ("オレは更に、でたらめを言い続けた。†",
+    ("オレは更に、でたらめを言い続けた。",
     ""),
-    # My ecstatic continued to say some bullshit.†
+    # My ecstatic continued to say some bullshit.
 
     ("「ねえ」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Shall I show you?"
 
-    ("と、彼女はスカートをひらひらさせる。†",
+    ("と、彼女はスカートをひらひらさせる。",
     ""),
-    # The woman fluttered her skirt.†
+    # The woman fluttered her skirt.
 
     ("「お、おう」",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # "Ou"
 
-    ("志保はオレの手を引いて、トイレへ｢｢。†",
+    ("志保はオレの手を引いて、トイレへ｢｢。",
     ""),
-    # Shiho pulled my hand and headed to Toy Gekire, ".†
+    # Shiho pulled my hand and headed to Toy Gekire, ".
 
     ("「｢｢って、んなわけないでしょ！！	バカ！",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "Uhhh!"
 
-    ("…ち痰ゃっかりバレちまってたよ。†",
+    ("…ち痰ゃっかりバレちまってたよ。",
     ""),
-    # ...I was experiencing a lot of sputum.†
+    # ...I was experiencing a lot of sputum.
 
     ("「な〜にがチラリズム諠よ！	そんなこと真に受けるバカはこの世にいないわよっ！！」",
     ""),

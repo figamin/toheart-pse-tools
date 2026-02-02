@@ -2,9 +2,9 @@
 # Source file: 0772.txt
 
 text_array = [
-    ("（琴音	回秤数イベントс割闃り桙込み	寄闃り道）閨（好感度рﾌ場㍼合）閨（本屋前）†",
+    ("（琴音	回秤数イベントс割闃り桙込み	寄闃り道）閨（好感度рﾌ場㍼合）閨（本屋前）",
     ""),
-    # (Kotone's scale event, including fox, approaching road) (Popularity level) (Popularity level) (In front of the bookstore) †
+    # (Kotone's scale event, including fox, approaching road) (Popularity level) (Popularity level) (In front of the bookstore) 
 
     ("ザー…。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "I'm in trouble..."
 
-    ("秩白くアスファルトに弾ける雨粒をながめながら、オレはため息まじりに呟いた。†",
+    ("秩白くアスファルトに弾ける雨粒をながめながら、オレはため息まじりに呟いた。",
     ""),
-    # I muttered with a sigh, sighing, looking at the raindrops that pop out of the aspha crying slug.†
+    # I muttered with a sigh, sighing, looking at the raindrops that pop out of the aspha crying slug.
 
     ("幸いすぐに駅前商店街のアーケードに逃げ桙込んで、諱取りあえずぬれずにはすんだものの、かれこれ１０分ほど足止めをくらっている。",
     ""),
@@ -38,17 +38,17 @@ text_array = [
     ""),
     # Maybe I'll buy a cheap plastic umbrella and get some hot springs back.
 
-    ("ついに観念し、そう思ったとき…。†",
+    ("ついに観念し、そう思ったとき…。",
     ""),
-    # Finally, I thought about it and thought so...†
+    # Finally, I thought about it and thought so...
 
     ("「…さん」",
     ""),
     # "…Mr. Miss"
 
-    ("誰かに名前を呼ばれ、目をｌけると、そこには琴音ち痰ゃんが立っていた。†",
+    ("誰かに名前を呼ばれ、目をｌけると、そこには琴音ち痰ゃんが立っていた。",
     ""),
-    # Someone called her name and she looked at her, and there was Kotone Chisho-chan standing there.†
+    # Someone called her name and she looked at her, and there was Kotone Chisho-chan standing there.
 
     ("「…こんにちは」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # He asked.
 
-    ("「いや、そうじ痰ゃなくて。雨、＝早く止まねーかなって思って」†",
+    ("「いや、そうじ痰ゃなくて。雨、＝早く止まねーかなって思って」",
     ""),
-    # "It's not a mess, it's not a phlegm to clean up. Rain = I thought it might stop soon." †
+    # "It's not a mess, it's not a phlegm to clean up. Rain = I thought it might stop soon." 
 
     ("「…傘、お持ちじ痰ゃないんですか？」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "It was abruptly."
 
-    ("オレは苦笑した。†",
+    ("オレは苦笑した。",
     ""),
-    # I gave a wry smile.†
+    # I gave a wry smile.
 
     ("すると、琴音ち痰ゃんは少し考えて、",
     ""),
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Home... you're right up to my slurp house?"
 
-    ("「はい。…たしか、近くなんですよね？」†",
+    ("「はい。…たしか、近くなんですよね？」",
     ""),
     # "Yes...I'm sure it's close, right?"
 

@@ -2,29 +2,29 @@
 # Source file: 0162.txt
 
 text_array = [
-    ("（あかり好感度イベント１２）閨（Ａ	あかりにいたい）†",
+    ("（あかり好感度イベント１２）閨（Ａ	あかりにいたい）",
     ""),
-    # (Akari Likeability Event 12) (A I want to have an i-i)†
+    # (Akari Likeability Event 12) (A I want to have an i-i)
 
     ("雅いたい…。",
     ""),
     # I want to be a male...
 
-    ("あかり…。†",
+    ("あかり…。",
     ""),
-    # Light...†
+    # Light...
 
-    ("あかりにいたい。†",
+    ("あかりにいたい。",
     ""),
-    # I want to be Akari.†
+    # I want to be Akari.
 
     ("そう思った途端、潤居ても立ってもいられなくなった。",
     ""),
     # As soon as I thought that, Jun was there, the hot springs were standing there, and I couldn't even get any more.
 
-    ("オレは玄関で靴を嘯履き、家を飛び出した。†",
+    ("オレは玄関で靴を嘯履き、家を飛び出した。",
     ""),
-    # I put on my shoes at the entrance and ran out of the house.†
+    # I put on my shoes at the entrance and ran out of the house.
 
     ("ピンポーン。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Hello."
 
-    ("怐奥から出てきたあかりの母親に、軽く頭を下げてあいさつした。†",
+    ("怐奥から出てきたあかりの母親に、軽く頭を下げてあいさつした。",
     ""),
-    # I bowed my head lightly to Akari's mother, who came out of the depths.†
+    # I bowed my head lightly to Akari's mother, who came out of the depths.
 
     ("「あの…」",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「さっき、どこかに電話してたみたいだけど、そのあとすぐに出ていったわ」†",
+    ("「さっき、どこかに電話してたみたいだけど、そのあとすぐに出ていったわ」",
     ""),
     # "It seems like I'd called somewhere earlier, but after that I left soon after."
 
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # phone.
 
-    ("じ痰ゃあ、さっきの電話は、やっぱり。†",
+    ("じ痰ゃあ、さっきの電話は、やっぱり。",
     ""),
-    # I'm not sure what you've heard of the phone just now.†
+    # I'm not sure what you've heard of the phone just now.
 
     ("「志保ち痰ゃんあたりと待ち№合寘わせでもしてるんじ痰ゃないかしら？」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Do you know where you went?"
 
-    ("「さあ、どこだか。なにも言甯わないでふらりと出て行っち痰ゃったから…」†",
+    ("「さあ、どこだか。なにも言甯わないでふらりと出て行っち痰ゃったから…」",
     ""),
     # "Now, where is it? What's that? I left without saying a word, and sighed..."
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "I see? Sorry."
 
-    ("オレは頭を下げると、あかりの家を後にした。†",
+    ("オレは頭を下げると、あかりの家を後にした。",
     ""),
-    # I bowed my head and left Akari's house behind.†
+    # I bowed my head and left Akari's house behind.
 
     ("結局、気搴持ちの整攝理がつかないままだった。",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # That was the only thing that really pushed me back on my back.
 
-    ("あかりの顔を見て、いつもの笑顔を見鼬れば、すべての嘯答えが見つかるような気がした。†",
+    ("あかりの顔を見て、いつもの笑顔を見鼬れば、すべての嘯答えが見つかるような気がした。",
     ""),
-    # When I looked at Akari's face, I felt like I could find all the answers if I saw the laughing face of the girl.†
+    # When I looked at Akari's face, I felt like I could find all the answers if I saw the laughing face of the girl.
 
     ("あかり…。",
     ""),

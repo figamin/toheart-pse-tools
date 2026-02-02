@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Masashi, is that right?
 
-    ("ちょうど、そこを通闥りかかった史に視諮を飛ばし、志保が聞いた。†",
+    ("ちょうど、そこを通闥りかかった史に視諮を飛ばし、志保が聞いた。",
     ""),
-    # Shiho asked, "The I-Story," which had been sent through the discussion, and he asked.†
+    # Shiho asked, "The I-Story," which had been sent through the discussion, and he asked.
 
     ("「え？",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # I-Shin says it, of course.
 
-    ("やべっ、オレの嘯答え、間違ってら。†",
+    ("やべっ、オレの嘯答え、間違ってら。",
     ""),
-    # I'm not sure what a surprise answer is, my slutty answer is wrong.†
+    # I'm not sure what a surprise answer is, my slutty answer is wrong.
 
     ("「アハハッ！	バッカでぇ〜。こんな問題熨も解けないくせに、なにがバッチリなのよぉ？」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "What, did you say something bad?"
 
-    ("ちょっと後撃に退きながら、雅史が言った。†",
+    ("ちょっと後撃に退きながら、雅史が言った。",
     ""),
-    # Masumi said as she retreated to the attack after the attack.†
+    # Masumi said as she retreated to the attack after the attack.
 
     ("「で、ホントのとこは、どーなのよ？」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "I'm so excited, I'm looking forward to seeing you!"
 
-    ("「てめぇ…」†",
+    ("「てめぇ…」",
     ""),
-    # "That's right..." †
+    # "That's right..." 
 
     ("「でも、〟仲間ね」",
     ""),

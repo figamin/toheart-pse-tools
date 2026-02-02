@@ -2,9 +2,9 @@
 # Source file: 0B1F.txt
 
 text_array = [
-    ("（綾∴香	好感度イベント４）閨（綾∴香	バトルポイント	１以繹上）閨（驕夜イベントの前）閨（自分の部屋）†",
+    ("（綾∴香	好感度イベント４）閨（綾∴香	バトルポイント	１以繹上）閨（驕夜イベントの前）閨（自分の部屋）",
     ""),
-    # (Aya∴Ka, Likeability Event 4) (Aya∴Ka, Battle Cry Point, 1 or more) (Before the Night Event) (My room)†
+    # (Aya∴Ka, Likeability Event 4) (Aya∴Ka, Battle Cry Point, 1 or more) (Before the Night Event) (My room)
 
     ("くそ〜。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Aya∴Kawa's р guy.
 
-    ("まさか、あんなに強かったとは…。†",
+    ("まさか、あんなに強かったとは…。",
     ""),
-    # I never thought he was that strong...†
+    # I never thought he was that strong...
 
     ("いくら空闍手をやってたとはいえ、しょせんは翌女の子。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # It's tampering, but that strength is real.
 
-    ("素人じ痰ゃとても太¢打ちできやしない。†",
+    ("素人じ痰ゃとても太¢打ちできやしない。",
     ""),
-    # Even amateurs can sputum and even sputum can be used to smash them with thick slurping effects.†
+    # Even amateurs can sputum and even sputum can be used to smash them with thick slurping effects.
 
     ("一発箔齠れれば勝ちって条緒件煬も、最燕初は楽汪勝かと思ってたが、蛛大間違いだ。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # He is confident that he will never be able to stomp amateur punches.
 
-    ("事実、当たらないしな。†",
+    ("事実、当たらないしな。",
     ""),
-    # The fact that it is polished doesn't get polished.†
+    # The fact that it is polished doesn't get polished.
 
     ("いまのままじ痰ゃ、とても勝てそうにない。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # One day, there's a hot spring that can be solved by just one evening, but it's better than not doing it.
 
-    ("諱よし、風呂入體る前に、いっちょやるか。†",
+    ("諱よし、風呂入體る前に、いっちょやるか。",
     ""),
-    # Okay, I wonder if I'll squeal before I take a bath.†
+    # Okay, I wonder if I'll squeal before I take a bath.
 
     ("綾∴香に教寀わったパンチを反恃復荿練習しよう。",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # This time, the goal is to make the monkeys interact with each other, so it's faster and more powerful than the power.
 
-    ("教科痩書は愛読蒼書の『すすめの三燻歩』だ。†",
+    ("教科痩書は愛読蒼書の『すすめの三燻歩』だ。",
     ""),
-    # The textbook for thinning is "Recommended Three Smokes" by Aii Sosho.†
+    # The textbook for thinning is "Recommended Three Smokes" by Aii Sosho.
 
     ("なになに？",
     ""),

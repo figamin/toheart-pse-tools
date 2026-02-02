@@ -2,17 +2,17 @@
 # Source file: 04F4.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	声をかける）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	声をかける）",
     ""),
-    # (Shiho's Scale Event PS) (Choose-so)†
+    # (Shiho's Scale Event PS) (Choose-so)
 
     ("「いようっ、志保じ痰ゃねーか」",
     ""),
     # "I'll stay, Shiho has phlegm?"
 
-    ("「あら、じ痰ゃん」†",
+    ("「あら、じ痰ゃん」",
     ""),
-    # "Oh, sputum" †
+    # "Oh, sputum" 
 
     ("「目末当てのマンガは見つかったか？」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Um, if someone who doesn't knows asks me, I feel like I'm only reading manga."
 
-    ("「瘁違うのか？」†",
+    ("「瘁違うのか？」",
     ""),
     # "Is it different?"
 
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "This guy... I think I need to explain how intelligent I have."
 
-    ("「いらねー諱よ、そんな説明」†",
+    ("「いらねー諱よ、そんな説明」",
     ""),
-    # "I don't need you, that hot explanation"†
+    # "I don't need you, that hot explanation"
 
     ("「たとえば今、あたしがここで何の本を読んでいたか知ってる？」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "No! We didn't get the right thing, so slut."
 
-    ("「は？」†",
+    ("「は？」",
     ""),
-    # "teeth?"†
+    # "teeth?"
 
     ("「インテリジェントだって言ってるそばからマンガ読むрヤツいないわよっ」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Hmm... there's a manga that's also available to read Integata Liber."
 
-    ("「けっ。…で、お前の言うインテリはなにを読むんだよ」†",
+    ("「けっ。…で、お前の言うインテリはなにを読むんだよ」",
     ""),
     # "Ah... And what do you read about the integatali you're talking about?"
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "For example, the Journal of Science. Now that the 21st Century Han is approaching, new discoveries are being made in the 1990s, and in the 1990s of the Advanced Sciences, new discoveries are being made in the 1990s! In preparation for the new century that should come, we should make civilization and science our friend!"
 
-    ("と、ポーズ付きで奄演煢説する。†",
+    ("と、ポーズ付きで奄演煢説する。",
     ""),
-    # He explains Amadehan with a pose.†
+    # He explains Amadehan with a pose.
 
     ("「…諱よく覚えたな」",
     ""),
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "And what was discovered?"
 
-    ("「べつに。あたしたちが知ったとこで一生役に立たない発見謖よ」†",
+    ("「べつに。あたしたちが知ったとこで一生役に立たない発見謖よ」",
     ""),
     # "And so, I found out that will never be useful for the rest of my life."
 
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # "...The information that Tashi found there was just the name of the 'Meteor Rain'."
 
-    ("「梶リャウセイウ？	なんだそり痰ゃ」†",
+    ("「梶リャウセイウ？	なんだそり痰ゃ」",
     ""),
-    # "Kaji Ryaseiu? What is that phlegm?" †
+    # "Kaji Ryaseiu? What is that phlegm?" 
 
     ("「流齬れ星が雨みたいに降ってくるのを言うんだって。勉強になったでしょ」",
     ""),
@@ -122,15 +122,15 @@ text_array = [
     ""),
     # "If it rains like rain, it's dangerous."
 
-    ("家じゅう鰍穴だらけになるぞ。†",
+    ("家じゅう鰍穴だらけになるぞ。",
     ""),
-    # The house will be full of monkey holes.†
+    # The house will be full of monkey holes.
 
     ("「そう考えるのが素人ね〜」",
     ""),
     # "You're an amateur to think like that."
 
-    ("「素人だからな」†",
+    ("「素人だからな」",
     ""),
     # "Because I'm an amateur"
 
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "It's fine, don't say it loudly."
 
-    ("道の真んｒでバコ〜ンとか大げさにわめくから、恥ずかしいったらあり痰ゃしない。†",
+    ("道の真んｒでバコ〜ンとか大げさにわめくから、恥ずかしいったらあり痰ゃしない。",
     ""),
-    # They're all groaning in the middle of the road, and they're all over the place, so if you're embarrassed, you won't get enough of anything.†
+    # They're all groaning in the middle of the road, and they're all over the place, so if you're embarrassed, you won't get enough of anything.
 
     ("「途湯で消えち痰ゃうから、恋人たちは№仲良く夜空を見上げられるのよ」",
     ""),
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "I finally understand it."
 
-    ("「はじめから説明すればよかっただ」†",
+    ("「はじめから説明すればよかっただ」",
     ""),
     # "I should have explained it from the beginning b"
 

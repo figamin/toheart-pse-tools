@@ -2,9 +2,9 @@
 # Source file: 0544.txt
 
 text_array = [
-    ("（葵	好感度イベント１	選択繿後Ａ）閨（選択綜	ＡＢの続き）†",
+    ("（葵	好感度イベント１	選択繿後Ａ）閨（選択綜	ＡＢの続き）",
     ""),
-    # (Aoi Likeability Event 1 After Selection A) (Continued from Selection AB)†
+    # (Aoi Likeability Event 1 After Selection A) (Continued from Selection AB)
 
     ("「とこで、諱先輩はいつもパンなんですか？」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # A boyfriend with eyes that are lying in love with each other.
 
-    ("諱よし、ここは、ひとつ。†",
+    ("諱よし、ここは、ひとつ。",
     ""),
-    # I'm right, here's one thing.†
+    # I'm right, here's one thing.
 
     ("「そり痰ゃあオレだってさ、たまには、愛訷情のこもったうまい弁抹当が食べたいさ…」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "I'm tired of bread already..."
 
-    ("そして、わざとらしく、横目で葵ち痰ゃんを見た。†",
+    ("そして、わざとらしく、横目で葵ち痰ゃんを見た。",
     ""),
-    # Then, as if deliberately, he looked at Aoi Chisho-yan.†
+    # Then, as if deliberately, he looked at Aoi Chisho-yan.
 
     ("「あ、あの、じ痰ゃあ、もしр私でよければ、今度｢｢」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "Can you bring me some bento peaches?!"
 
-    ("キラキラ輝いた目ですかさずオレが言うと、葵ち痰ゃんは『あっ』と口に手を魔当て、言葉を止めた。†",
+    ("キラキラ輝いた目ですかさずオレが言うと、葵ち痰ゃんは『あっ』と口に手を魔当て、言葉を止めた。",
     ""),
-    # The banquet and banquet were shining eyes, so I said, and Aoi Chisho-yan put his hand on Fukuguchi and stopped talking.†
+    # The banquet and banquet were shining eyes, so I said, and Aoi Chisho-yan put his hand on Fukuguchi and stopped talking.
 
     ("「諱よく考えたら、п私、お料摎理とか、あんまり得意じ痰ゃないんでした」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "Tampering!"
 
-    ("葵ち痰ゃんの言葉をさえぎって言う。†",
+    ("葵ち痰ゃんの言葉をさえぎって言う。",
     ""),
-    # He interrupts Aoi Chisho-yan's words.†
+    # He interrupts Aoi Chisho-yan's words.
 
     ("「縺上闖手い下濶手は関係ない。料摎理は心だよ」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "Yeah, that's the heart of wanting someone to eat and get some hot food. That heart will enhance the price-making process to the highest possible price."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("少しの間、考えてから、",
     ""),
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "yes"
 
-    ("「やったー！」†",
+    ("「やったー！」",
     ""),
     # "Yes!"
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # Pappa-Pan!
 
-    ("どこかでファンファーレが鳴ったような気がした。†",
+    ("どこかでファンファーレが鳴ったような気がした。",
     ""),
-    # I felt like a fanfare had roared somewhere.†
+    # I felt like a fanfare had roared somewhere.
 
     ("「でも、あまり冾期待しないでくださいね。",
     ""),

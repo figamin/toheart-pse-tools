@@ -2,17 +2,17 @@
 # Source file: 0107.txt
 
 text_array = [
-    ("（あかり	冝日付イベント１．５）閨（３月１７冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（校門外）†",
+    ("（あかり	冝日付イベント１．５）閨（３月１７冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（校門外）",
     ""),
-    # (Akari Pick Date Event 1.5) (3rd Lion, 17th Day) (occurs if you are studying with a light) (occurs when you are in a 2nd hole) (occupying the school) (occupying the school) (occupying the school) †
+    # (Akari Pick Date Event 1.5) (3rd Lion, 17th Day) (occurs if you are studying with a light) (occurs when you are in a 2nd hole) (occupying the school) (occupying the school) (occupying the school) 
 
     ("家に帰闍り、途湯でモ買ってきたぽっかぽか弁抹当を食う。",
     ""),
     # I went home and ate a Pokkapoka bento that I bought at the bathtub.
 
-    ("そして、午後２桙時ご。†",
+    ("そして、午後２桙時ご。",
     ""),
-    # And then there was two b after the morning.†
+    # And then there was two b after the morning.
 
     ("ピンポーン。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # The first half focuses on the English language, especially the monophonic language, and in the second half, I memorize the notebooks of Gensha and Akari.
 
-    ("あかりがオレのために、ち痰ゃんとノートをコピーしてきてくれたのが嬉しかった。†",
+    ("あかりがオレのために、ち痰ゃんとノートをコピーしてきてくれたのが嬉しかった。",
     ""),
-    # I was happy that Akari had copied my notebook with a smug one for my hard work.†
+    # I was happy that Akari had copied my notebook with a smug one for my hard work.
 
     ("あかりが帰ったのは、いつものとおり６桙時過ぎだった。◯",
     ""),

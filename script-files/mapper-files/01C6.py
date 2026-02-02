@@ -2,9 +2,9 @@
 # Source file: 01C6.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ｃ	頬つね）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ｃ	頬つね）",
     ""),
-    # (Akari Scales Event 2F) (Chew)†
+    # (Akari Scales Event 2F) (Chew)
 
     ("「こらァ〜」",
     ""),
@@ -14,8 +14,8 @@ text_array = [
     ""),
     # "Hmm, hmm;"
 
-    ("オレはあかりの頬をつねった。†",
+    ("オレはあかりの頬をつねった。",
     ""),
-    # I bitten off Akari's cheek.†
+    # I bitten off Akari's cheek.
 
 ]

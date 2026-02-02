@@ -2,9 +2,9 @@
 # Source file: 08D0.txt
 
 text_array = [
-    ("（レミィ	好感度イベント	ＰＳ）†",
+    ("（レミィ	好感度イベント	ＰＳ）",
     ""),
-    # (Karemi Likeability Event PS)†
+    # (Karemi Likeability Event PS)
 
     ("さあ、今厓日は撃レミィとデートだ。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Unlike the busy vs. Inmata Dynasty, I took my time to get ready.
 
-    ("わりと余裕を持って家を出た。†",
+    ("わりと余裕を持って家を出た。",
     ""),
-    # I left the house with a bit of room to spare.†
+    # I left the house with a bit of room to spare.
 
     ("駅についたのが９桙時４５分。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Oh, oh."
 
-    ("もちん、オレを呼んだのは撃レミィ。†",
+    ("もちん、オレを呼んだのは撃レミィ。",
     ""),
-    # Ekirei was the one who called out the extremely rare ones.†
+    # Ekirei was the one who called out the extremely rare ones.
 
     ("「Ｈ盾ｏ翌ｗ	Ｙ盾ｏ浮ｕ	пｄ盾ｏ奄ｎ№ｇ？」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "It's pretty quick, isn't it? Eki Remie?"
 
-    ("言いながら、レミィに見とれてしまった。†",
+    ("言いながら、レミィに見とれてしまった。",
     ""),
-    # As I said, I was captivated by Remy.†
+    # As I said, I was captivated by Remy.
 
     ("ベージャ色のオーバーオールが撃レミィの元気なイ＜メージにマッチしてて、いい感じだ。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # No matter how you look at it, it looks like a b-model cry that appears in the pure magazines and Catalog...
 
-    ("見とれない方がおかしいよな。†",
+    ("見とれない方がおかしいよな。",
     ""),
-    # It's strange that Fuku is not visible.†
+    # It's strange that Fuku is not visible.
 
     ("「どうしたの？	」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "No, I'm not a fan, I rarely see my armored outfit..."
 
-    ("レミィは『Ｏ！』と声をあげてオレからぴょんと離齬れた。†",
+    ("レミィは『Ｏ！』と声をあげてオレからぴょんと離齬れた。",
     ""),
-    # Karemi is saying, "Ob!"I cried out, and I lost my heart to Piezoon.†
+    # Karemi is saying, "Ob!"I cried out, and I lost my heart to Piezoon.
 
     ("「似㍽合いマ〜スカ？」",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # "It's so late! It looks like a bath."
 
-    ("オレは親指を立てた。†",
+    ("オレは親指を立てた。",
     ""),
-    # I gave a thumbs up.†
+    # I gave a thumbs up.
 
     ("「Ｔ≠ａｎ駆	凵ｙ盾ｏ浮ｕ	ｖ窒ｒ凾ｙ	香ｍ浮ｕモｃ」",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # =Even though they're tampering with each other, they're usually too embarrassed to do, if they're a monk, they end up crying.
 
-    ("まるでア＜メリカ人になった気分だ。†",
+    ("まるでア＜メリカ人になった気分だ。",
     ""),
-    # It felt like I was an American.†
+    # It felt like I was an American.
 
     ("「さ〜て」",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("オレは撃レミィにこれから行くボウリング黹場の説明をした。†",
+    ("オレは撃レミィにこれから行くボウリング黹場の説明をした。",
     ""),
-    # Ogekire gave Gekiremi an explanation of the Bougata Ring Rock Field, which is about to go to.†
+    # Ogekire gave Gekiremi an explanation of the Bougata Ring Rock Field, which is about to go to.
 
     ("これから行く場鰹所は、この辺阨りではボウリングの≠メッカみたいなとこだ。",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # This is a recently built building, with an arcade and a banquet and a banquet raoke on the first floor, and the Bowlat Ring is on the second floor.
 
-    ("小さな撃レストランもあるので、その気になれば一勛日湯遊ぶこともできる。†",
+    ("小さな撃レストランもあるので、その気になれば一勛日湯遊ぶこともできる。",
     ""),
-    # There is also a small fire rest banquet run, so if you feel like that you can play in the hot springs for a day.†
+    # There is also a small fire rest banquet run, so if you feel like that you can play in the hot springs for a day.
 
     ("「シホも呼べばよかったネ」",
     ""),
@@ -170,17 +170,17 @@ text_array = [
     ""),
     # "Yeah."
 
-    ("「さ、行くぞ」†",
+    ("「さ、行くぞ」",
     ""),
-    # "Now, let's go" †
+    # "Now, let's go" 
 
     ("階段を上闖りきると、だだっ広い空間とずらりと並んだ撃レーンが迎えてくれる。",
     ""),
     # As you walk past the stairs, you will be greeted by a large space and a row of fire lanes.
 
-    ("昼前なので、п埋まってる撃レーンは少ない。†",
+    ("昼前なので、п埋まってる撃レーンは少ない。",
     ""),
-    # It's before noon, so there are few full fire lanes.†
+    # It's before noon, so there are few full fire lanes.
 
     ("「アタシ、ビックリしました…」",
     ""),
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # Perhaps it was the first time I saw the 50-hot Ekiri Lane, but Hakuremi rolled her eyes.
 
-    ("オレはさっさと、カウンターで２ゲーム申し桙込んだ。†",
+    ("オレはさっさと、カウンターで２ゲーム申し桙込んだ。",
     ""),
-    # My hard work quickly opened up two games at the counter.†
+    # My hard work quickly opened up two games at the counter.
 
     ("「レミィ、シャーズ借りてこようぜ」",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # For now, I'll choose a 13 pound pound.
 
-    ("レミィはというと、おもち痰ゃр売阡り場の子沁供状態だ。†",
+    ("レミィはというと、おもち痰ゃр売阡り場の子沁供状態だ。",
     ""),
-    # Speaking of wa Remi, he is a child who is in the middle of selling his pet.†
+    # Speaking of wa Remi, he is a child who is in the middle of selling his pet.
 
     ("「レミィは翌女の子だから｢｢」",
     ""),
@@ -234,9 +234,9 @@ text_array = [
     ""),
     # "Idiot, I can't throw a crocodile into the heavy balls and chicken."
 
-    ("「そーなの？」†",
+    ("「そーなの？」",
     ""),
-    # "Is that?" †
+    # "Is that?" 
 
     ("「諱よりによって一番重いのを選ぶなよ」",
     ""),
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # "The 17th Boat is also a damn thing."
 
-    ("首を横に振髏ると、レミィはおずおずとボールを棚に返した。†",
+    ("首を横に振髏ると、レミィはおずおずとボールを棚に返した。",
     ""),
-    # Shaking her head, Remy timidly turned the ball back to the shelf.†
+    # Shaking her head, Remy timidly turned the ball back to the shelf.
 
     ("「じ痰ゃあ…」",
     ""),
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # When I stuck the nail, Karemy almost reached for 16 pounds, twitching.
 
-    ("「蛛大きいことはイイことなのに…」†",
+    ("「蛛大きいことはイイことなのに…」",
     ""),
     # "Big being big is good..."
 
@@ -290,9 +290,9 @@ text_array = [
     ""),
     # Ekiremi is squealing.
 
-    ("なかばあきれながら、オレは彼女の腕の太さとボールを見芟比べた。†",
+    ("なかばあきれながら、オレは彼女の腕の太さとボールを見芟比べた。",
     ""),
-    # With all my eyes on it, I compared the thickness of my boyfriend's arms with the ball.†
+    # With all my eyes on it, I compared the thickness of my boyfriend's arms with the ball.
 
     ("「やっぱ撃レミィは１１辺阨りで｢｢黽ストーップ」",
     ""),
@@ -310,9 +310,9 @@ text_array = [
     ""),
     # "Six and 8th chickens are also bad."
 
-    ("「アハハッ、、勘がするどいネ」†",
+    ("「アハハッ、、勘がするどいネ」",
     ""),
-    # "Hahaha, that's a bit of a slut" †
+    # "Hahaha, that's a bit of a slut" 
 
     ("「ったりめーだ。棚の端っこ目指されち痰ゃ誰だってわかるって」",
     ""),
@@ -334,25 +334,25 @@ text_array = [
     ""),
     # "Sorry, death..."
 
-    ("「残念じ痰ゃねえの」†",
+    ("「残念じ痰ゃねえの」",
     ""),
-    # "I'm sorry, but I have no phlegm" †
+    # "I'm sorry, but I have no phlegm" 
 
     ("レミィに１１ポンドボールを持たせて、オレは撃レーンのベンチにｌかった。",
     ""),
     # I got a 11-pound ball to Hakuremy, and I was on the bench of the fire lane.
 
-    ("氈次はボールの鰍投げ方を説明しなくち痰ゃいけない。†",
+    ("氈次はボールの鰍投げ方を説明しなくち痰ゃいけない。",
     ""),
-    # I have to explain how to throw the ball and give him a good fortune.†
+    # I have to explain how to throw the ball and give him a good fortune.
 
     ("「なあ撃レミィ、マジで鰍投げ方知迺らねえのか？」",
     ""),
     # "Hey, Ekire Remi, don't you really know Fukukata, threw a karaba?
 
-    ("ダ＜メもとで聞いてみた。†",
+    ("ダ＜メもとで聞いてみた。",
     ""),
-    # I asked at Da<Mehmong.†
+    # I asked at Da<Mehmong.
 
     ("ボールを手にした撃レミィは、％しそうな顔でそれをひねくり回している。",
     ""),
@@ -366,13 +366,13 @@ text_array = [
     ""),
     # "What?"
 
-    ("「このボール、梶穴が三つしかないｃ？」†",
+    ("「このボール、梶穴が三つしかないｃ？」",
     ""),
     # "C is this ball with only three kaji holes?"
 
-    ("「…アホ」†",
+    ("「…アホ」",
     ""),
-    # "...Idiot"†
+    # "...Idiot"
 
     ("・",
     ""),
@@ -386,9 +386,9 @@ text_array = [
     ""),
     # ・
 
-    ("ベンチに撃レミィを座迯らせ、オレはその前で何度か鰍投搭フォームを見せた。†",
+    ("ベンチに撃レミィを座迯らせ、オレはその前で何度か鰍投搭フォームを見せた。",
     ""),
-    # I put Ekiremi on the bench, and in front of me, I showed my choy casting form several times.†
+    # I put Ekiremi on the bench, and in front of me, I showed my choy casting form several times.
 
     ("「｢｢って、だいたいこんな感じで鰍投げるんだぞ。まわりにオレ諠より上闖手いрヤツがごごしてると思うから、そいつの鰍投げ方を参考にしてもいいけどよ」",
     ""),
@@ -398,9 +398,9 @@ text_array = [
     ""),
     # Well, I've explained the way I'm throwing a chrysanthemum in a turbulent way.
 
-    ("正しいフォームなんてわからねえから、かなりアバウトな教え方だ。†",
+    ("正しいフォームなんてわからねえから、かなりアバウトな教え方だ。",
     ""),
-    # I don't know what the correct form is, so it's a pretty rough way to teach and fortune.†
+    # I don't know what the correct form is, so it's a pretty rough way to teach and fortune.
 
     ("「意外と複雑デス…」",
     ""),
@@ -418,9 +418,9 @@ text_array = [
     ""),
     # "Anyway, come on, try it b."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("ボールを手渡すと、レミィはその場でボールを構えた。",
     ""),
@@ -434,9 +434,9 @@ text_array = [
     ""),
     # I nodded at my instructions and Karemi stepped out my right foot.
 
-    ("足はいいけど、いきなり右濶手を後撃に振關り上げる。†",
+    ("足はいいけど、いきなり右濶手を後撃に振關り上げる。",
     ""),
-    # His legs are fine, but he suddenly shook his right hand and then hit the ball with a blow.†
+    # His legs are fine, but he suddenly shook his right hand and then hit the ball with a blow.
 
     ("「瘁違う痰違う。右濶手は前に出すんだって」",
     ""),
@@ -454,9 +454,9 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("レミィはもう一度構えをとった。†",
+    ("レミィはもう一度構えをとった。",
     ""),
-    # Karemi took another stance.†
+    # Karemi took another stance.
 
     ("今度は右足を踏み出しながら…、右濶手を前に出す。",
     ""),
@@ -470,7 +470,7 @@ text_array = [
     ""),
     # Kaji puts out his left foot and then once again his right foot...
 
-    ("「ストップ。ボールを前に出したっきりじ痰ゃねえか」†",
+    ("「ストップ。ボールを前に出したっきりじ痰ゃねえか」",
     ""),
     # "Stop. You're clearly phlegmed with the ball coming forward."
 
@@ -486,9 +486,9 @@ text_array = [
     ""),
     # "Is it okay? At the first step, I'll put the ball forward, and at the second step, I'll head down the ball. At the third step, I'll head up the ball, then take it up and throw it in the fourth step."
 
-    ("オレはもう一度実猿演して見せた。†",
+    ("オレはもう一度実猿演して見せた。",
     ""),
-    # My geisha performed another monkey.†
+    # My geisha performed another monkey.
 
     ("「Ｏ、Ｉ	入。見きったｃ」",
     ""),
@@ -502,9 +502,9 @@ text_array = [
     ""),
     # "Ob Mec Shield O Floating R Tang Iri B"
 
-    ("派阡手にうなずいて、レミィは構えた。†",
+    ("派阡手にうなずいて、レミィは構えた。",
     ""),
-    # Nodded at the sect, and Remy stood there.†
+    # Nodded at the sect, and Remy stood there.
 
     ("一煦歩踏み出して、",
     ""),
@@ -530,9 +530,9 @@ text_array = [
     ""),
     # "Don't throw chrysanthemums at this place b!"
 
-    ("レミィはマジでボールを離した。†",
+    ("レミィはマジでボールを離した。",
     ""),
-    # Karemy really let the ball go.†
+    # Karemy really let the ball go.
 
     ("じゅうたんの上を転がったボールは、そのまま撃レーンへ…。",
     ""),
@@ -550,9 +550,9 @@ text_array = [
     ""),
     # "Is it okay to laugh?"
 
-    ("いまのガターはち痰ゃっかり一活投目に記録されてしまった。†",
+    ("いまのガターはち痰ゃっかり一活投目に記録されてしまった。",
     ""),
-    # The gutters today have been recorded as a first-time hit.†
+    # The gutters today have been recorded as a first-time hit.
 
     ("オレのスコアボードに『Ｇ』の文囎字がつく。",
     ""),
@@ -562,9 +562,9 @@ text_array = [
     ""),
     # ""It's floating!Ahahaha
 
-    ("レミィのрヤツ、諱よほどおかしいのか腹を抱えて笑い出した。†",
+    ("レミィのрヤツ、諱よほどおかしいのか腹を抱えて笑い出した。",
     ""),
-    # The guy from Karemie started laughing with his stomach, probably thinking that he was really weird.†
+    # The guy from Karemie started laughing with his stomach, probably thinking that he was really weird.
 
     ("「ったく、わざとやりやがったなぁ？」",
     ""),
@@ -574,9 +574,9 @@ text_array = [
     ""),
     # "Go<Mengo<Men, I don't have any phlegms on purpose. I can't help but feel like I'm blowing the shield, AB shield, the next day lol, I'm in the mood for a nitrogen..."
 
-    ("照齒れ笑いを浮かべる撃レミィ。†",
+    ("照齒れ笑いを浮かべる撃レミィ。",
     ""),
-    # Ekiremi gives a glaring laugh.†
+    # Ekiremi gives a glaring laugh.
 
     ("「ほ〜お、うっかり手を離したって言うんだな？	んじ痰ゃ、今度は宮内プ鴻ロにマジで鰍投げてもらおうじ痰ゃねえか」",
     ""),
@@ -590,9 +590,9 @@ text_array = [
     ""),
     # He said it in a teasing half, but with that intent, Ekiremi responded.
 
-    ("戻ってきたボールを手にとって、レーンの前で構える…。†",
+    ("戻ってきたボールを手にとって、レーンの前で構える…。",
     ""),
-    # He picks up the returned ball and holds it in front of the fight lane...†
+    # He picks up the returned ball and holds it in front of the fight lane...
 
     ("精神集薯する彼女は、結構マジだ。",
     ""),
@@ -614,9 +614,9 @@ text_array = [
     ""),
     # The ball, whose hands were unrestrained, fell cleanly into the fire lane.
 
-    ("ボールを離す瞬間煌も、離した後煬も、まるでプ鴻ロみたいにｌまってる。†",
+    ("ボールを離す瞬間煌も、離した後煬も、まるでプ鴻ロみたいにｌまってる。",
     ""),
-    # As soon as he let go of the ball, both Kira and Han who left after he let go were like a pro-Koro.†
+    # As soon as he let go of the ball, both Kira and Han who left after he let go were like a pro-Koro.
 
     ("斜めに回転がかかったボールの、コースはばっちりだ。",
     ""),
@@ -630,9 +630,9 @@ text_array = [
     ""),
     # scene….
 
-    ("レミィのボールが突っ桙込んだ先には何煢も無かった。†",
+    ("レミィのボールが突っ桙込んだ先には何煢も無かった。",
     ""),
-    # There was no snake where the ball thrusts into the ball.†
+    # There was no snake where the ball thrusts into the ball.
 
     ("「間違えました…」",
     ""),
@@ -646,9 +646,9 @@ text_array = [
     ""),
     # "Ahhh"
 
-    ("…弓道のときもそうだけど、レミィって、形だけ真乱似するのが上闖手いな。†",
+    ("…弓道のときもそうだけど、レミィって、形だけ真乱似するのが上闖手いな。",
     ""),
-    # ...As with Koto in Kyudo, it's really good that only the shape of the Remy is a real-life one.†
+    # ...As with Koto in Kyudo, it's really good that only the shape of the Remy is a real-life one.
 
     ("・",
     ""),
@@ -658,9 +658,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("その冾日は６ゲーム遊んで、腕が痛くなった。",
     ""),
@@ -674,9 +674,9 @@ text_array = [
     ""),
     # Thanks to this, Ekiremi has improved and there are fewer gutters.
 
-    ("ハイスコアはオレが１３５、レミィは８３。†",
+    ("ハイスコアはオレが１３５、レミィは８３。",
     ""),
-    # My high score is 135 for me and 83 for Karemi.†
+    # My high score is 135 for me and 83 for Karemi.
 
     ("「楽しかったネ」",
     ""),
@@ -698,9 +698,9 @@ text_array = [
     ""),
     # "Yeah. Please keep repeating it again."
 
-    ("「そうだな」†",
+    ("「そうだな」",
     ""),
-    # "That's right" †
+    # "That's right" 
 
     ("「じ痰ゃあ、またね。Ｓ	凵ｙ盾ｏ浮ｕ」",
     ""),
@@ -710,9 +710,9 @@ text_array = [
     ""),
     # "It's phlegmy."
 
-    ("オレたちは駅前で別れた。†",
+    ("オレたちは駅前で別れた。",
     ""),
-    # We parted ways in front of the station.†
+    # We parted ways in front of the station.
 
     ("レミィって、同い年かと思ったらじつはガキっぽかったり、見てて飽きない。",
     ""),

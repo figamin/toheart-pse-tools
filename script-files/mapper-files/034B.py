@@ -2,9 +2,9 @@
 # Source file: 034B.txt
 
 text_array = [
-    ("（智子	好感度イベント４回目）閨（発生条緒件	好感度イベント３回目を見た後、回秤数イベントの「学校を出髀る」でうと発生する）閨（下濶り坂）†",
+    ("（智子	好感度イベント４回目）閨（発生条緒件	好感度イベント３回目を見た後、回秤数イベントの「学校を出髀る」でうと発生する）閨（下濶り坂）",
     ""),
-    # (Tomoko's fourth favorability event) (Accuracy condition: After seeing the third favorability event, it occurs when the balance event "going out of school" occurs) (Shimohamaitsuzaka) †
+    # (Tomoko's fourth favorability event) (Accuracy condition: After seeing the third favorability event, it occurs when the balance event "going out of school" occurs) (Shimohamaitsuzaka) 
 
     ("さーて、今厓日は帰ってなにすっかな。",
     ""),

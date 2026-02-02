@@ -2,17 +2,17 @@
 # Source file: 035B.txt
 
 text_array = [
-    ("（智子	好感度イベント１１回目）閨（土曜以外）閨（好感度が	２５以繹上のとき）閨（好感度イベント１０を見たフラグがＯＮの場㍼合）閨（昼休み）閨（休み桙時間）†",
+    ("（智子	好感度イベント１１回目）閨（土曜以外）閨（好感度が	２５以繹上のとき）閨（好感度イベント１０を見たフラグがＯＮの場㍼合）閨（昼休み）閨（休み桙時間）",
     ""),
-    # (Tomoko's 11th favorability event) (other than Saturday) (when the favorability level is above 25) (when the favorability level is on and off, the banquet rug is on when you see the favorability event 10) (lunch break) (blank break) (blank time) †
+    # (Tomoko's 11th favorability event) (other than Saturday) (when the favorability level is above 25) (when the favorability level is on and off, the banquet rug is on when you see the favorability event 10) (lunch break) (blank break) (blank time) 
 
     ("昼休み。",
     ""),
     # lunch break.
 
-    ("購ロ買粕部でモ買ってきたパンとカフェオレで、いつもどおりの味気ない昼メシをすませると、オレは教室を出て屋繪上へとｌかった。†",
+    ("購ロ買粕部でモ買ってきたパンとカフェオレで、いつもどおりの味気ない昼メシをすませると、オレは教室を出て屋繪上へとｌかった。",
     ""),
-    # I bought some bread and Cafe au Guk Laver from the salmon roe, and when I finished eating some bland lunch that was as good as the hotpot, I left the classroom and headed over to the yahoo.†
+    # I bought some bread and Cafe au Guk Laver from the salmon roe, and when I finished eating some bland lunch that was as good as the hotpot, I left the classroom and headed over to the yahoo.
 
     ("扉を開けて外に出た途端、まぶしい陽射しが体をつらぬいた。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # The weather is so nice, I'm sure there's something somewhere.
 
-    ("オレは辺阨りを見渡した。†",
+    ("オレは辺阨りを見渡した。",
     ""),
-    # My ghost looked over at the bayashi.†
+    # My ghost looked over at the bayashi.
 
     ("「…おっ、いたいた」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # The chairman looked over at me with a surprising look on his face.
 
-    ("どうやらｌこうも、ちょうど昼食を終えたとこらしい。†",
+    ("どうやらｌこうも、ちょうど昼食を終えたとこらしい。",
     ""),
-    # It seems that even though it's not like he's finished his lunch with Chibiyodo.†
+    # It seems that even though it's not like he's finished his lunch with Chibiyodo.
 
     ("「諱よっ、また屋繪上で食ってたのか？」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # Without answering any questions, the chairman said in a cool, humble tone.
 
-    ("だが、その素っ気なさのｒにも、なんとなく以前とは痰違う親しさのようなものが含まれている。†",
+    ("だが、その素っ気なさのｒにも、なんとなく以前とは痰違う親しさのようなものが含まれている。",
     ""),
-    # However, the cursiveness of this broth also contains some kind of familiarity that is different from before.†
+    # However, the cursiveness of this broth also contains some kind of familiarity that is different from before.
 
     ("「蛛大した用じ痰ゃねーんだけど」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "What's that kind of thing?"
 
-    ("委員長は小さく笑うと、閨手すりにもたれた。†",
+    ("委員長は小さく笑うと、閨手すりにもたれた。",
     ""),
-    # The chairman laughed a little and leaned against the railing.†
+    # The chairman laughed a little and leaned against the railing.
 
     ("「べつに浮助けたつもりやない。いらんことに桙時間さいて、授業遅れるのが凾嫌竚やったんや」",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # The chairman laughed.
 
-    ("ふわっと柔らかな笑みだった。†",
+    ("ふわっと柔らかな笑みだった。",
     ""),
-    # He had a soft smile.†
+    # He had a soft smile.
 
     ("風が≠吹き抜けた。",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # It was nothing more than a common, ordinary shield that always happened.
 
-    ("だけどそれが妙に絵になっていた。†",
+    ("だけどそれが妙に絵になっていた。",
     ""),
-    # But it was strangely picturesque.†
+    # But it was strangely picturesque.
 
     ("不思議な沈黙がふたりを取り巻いていた。",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # The chairman somehow smiles at the town and sniffs over him.
 
-    ("その横迚顔を眺める、オレ。†",
+    ("その横迚顔を眺める、オレ。",
     ""),
-    # I looked at the side of his face, and I was so excited.†
+    # I looked at the side of his face, and I was so excited.
 
     ("ちょっと長めの沈黙が続いたとき、委員長が不意に、",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "...It's getting rid of small things that's getting rid of them, and it's getting rid of them."
 
-    ("そんなことを言った。†",
+    ("そんなことを言った。",
     ""),
-    # That's what I said.†
+    # That's what I said.
 
     ("「あ？」",
     ""),
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "" "You know, didn't you say that before?"
 
-    ("「オレが？」†",
+    ("「オレが？」",
     ""),
     # "Is it really that bad?"
 
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # Like that."
 
-    ("言ったとしてもそれは、氏落ち桙込んだ委員長を励まそうと口から先に出た言葉だ。†",
+    ("言ったとしてもそれは、氏落ち桙込んだ委員長を励まそうと口から先に出た言葉だ。",
     ""),
-    # Even though he said this, it was a word that Fukuguchi said first to encourage the chairman who had fallen into the fall.†
+    # Even though he said this, it was a word that Fukuguchi said first to encourage the chairman who had fallen into the fall.
 
     ("「あんときは、諱ようそんな恥ずかしいこと言えるもんやと笑うたけど、正直言うとр私燻も、そんなふうに思う気搴持ちあるわ」",
     ""),
@@ -206,17 +206,17 @@ text_array = [
     ""),
     # "When I get a bit of a slut on my chest, I'm going to look at the scenery in a slut."
 
-    ("「ああ…」†",
+    ("「ああ…」",
     ""),
-    # "ah…"†
+    # "ah…"
 
     ("「あのちっち痰ゃな町の、ちっち痰ゃなビルの、ちっち痰ゃな窓の、それよりもっとちっち痰ゃな点みたいなのが人間なんやなーって思うたら、人間ひとりの悩みなんて、ほんま、どうでもいい、しょーもないことに思えてくる」",
     ""),
     # "When I think about the fact that humans are tampering with the trouble of humans in that town, the slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「この胸のモсヤｃモсヤなんて、あの点ひとつの小ささでしかないと思うたら、つまらんことで落ち桙込んでるのがアホ辜らしゅうなる」",
     ""),
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # I nodded and said.
 
-    ("「そんなしょーもないことで悩んどっても、一文の得にもなりまへんしな」†",
+    ("「そんなしょーもないことで悩んどっても、一文の得にもなりまへんしな」",
     ""),
     # "If you're worried about such things, you won't be able to get hot or even get hot or a single sentence."
 
@@ -246,7 +246,7 @@ text_array = [
     ""),
     # "Ah, everything is completely freaking out."
 
-    ("「じ痰ゃあ、瘁例えばいまのだったら、どう言うんだ？」†",
+    ("「じ痰ゃあ、瘁例えばいまのだったら、どう言うんだ？」",
     ""),
     # "Ah, sigh, sham, what would you say if you were there now?"
 

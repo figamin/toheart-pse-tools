@@ -2,7 +2,7 @@
 # Source file: 00E6.txt
 
 text_array = [
-    ("（４月２９冾日	朝）閨（雅史とモ買い物）閨（がんばれよ）†",
+    ("（４月２９冾日	朝）閨（雅史とモ買い物）閨（がんばれよ）",
     ""),
     # (April 29th Day, Morning) (Masked with Mass) (Ganbareyo) (Good luck)
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Yeah, thank you."
 
-    ("うなずいてこたえた。†",
+    ("うなずいてこたえた。",
     ""),
-    # I nodded and answered.†
+    # I nodded and answered.
 
     ("「とこでさ」",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Since I'm here, I'll have to go to my sister and I'll also give her a hot pot."
 
-    ("「おう、そうだな。…んじ痰ゃあ、久しぶりにおじ痰ゃまするか」†",
+    ("「おう、そうだな。…んじ痰ゃあ、久しぶりにおじ痰ゃまするか」",
     ""),
     # "Oh, that's right... I'm not sure... I've had enough phlegm, it's been a while since I last saw it."
 

@@ -2,9 +2,9 @@
 # Source file: 0046.txt
 
 text_array = [
-    ("３／２２（土）†",
+    ("３／２２（土）",
     ""),
-    # 3/22 (Sat)†
+    # 3/22 (Sat)
 
     ("本坙日の全課程終了。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's early only on Saturday.
 
-    ("腹熾も減ったし、さっさと帰驪るか。†",
+    ("腹熾も減ったし、さっさと帰驪るか。",
     ""),
-    # My anger has also decreased, so I'll go home quickly.†
+    # My anger has also decreased, so I'll go home quickly.
 
     ("同じ２階の廊下をぐるっと回ってくると、文化系のクラブハウスがある。",
     ""),
@@ -26,17 +26,17 @@ text_array = [
     ""),
     # It's just tampering, but that's all.
 
-    ("べつに誰と出初うこともなかった。†",
+    ("べつに誰と出初うこともなかった。",
     ""),
-    # I never had any chance to come out with anyone.†
+    # I never had any chance to come out with anyone.
 
     ("階段を降闕りて、１階の廊下にｗた。",
     ""),
     # I descended the stairs and headed out into the corridor on the first floor.
 
-    ("とくに誰に出初うこともなかった。†",
+    ("とくに誰に出初うこともなかった。",
     ""),
-    # I never had any particular experience with anyone.†
+    # I never had any particular experience with anyone.
 
     ("学校を出て、いつもの坂道を下驩る。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # There are a variety of students who go home while shaking their hair, and while they go down on their bikes.
 
-    ("今厓日は帰ってなにをしようか。†",
+    ("今厓日は帰ってなにをしようか。",
     ""),
-    # What should I do when I go home now?†
+    # What should I do when I go home now?
 
     ("その冾日は、ベッドに入體るとき、時計は午前３桙時を指していた。",
     ""),

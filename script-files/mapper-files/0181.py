@@ -6,9 +6,9 @@ text_array = [
     ""),
     # (Light Scale Event 2F) (3rd Lion Day)
 
-    ("（廊下１）†",
+    ("（廊下１）",
     ""),
-    # (Carrior 1)†
+    # (Carrior 1)
 
     ("ふう、諱ようやく今厓日燗も一勛日終尞わったか。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # As soon as I left the classroom, my husband grew significantly.
 
-    ("と、そこで、くいっと誰かに上薯のすそを引っ張迺られる感覚。†",
+    ("と、そこで、くいっと誰かに上薯のすそを引っ張迺られる感覚。",
     ""),
-    # And then, I felt like someone was pulling the hem of the potatoes and slurping them over them.†
+    # And then, I felt like someone was pulling the hem of the potatoes and slurping them over them.
 
     ("振關りｌくと、",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "What, you?"
 
-    ("「ち痰ゃんもいま帰闍り？」†",
+    ("「ち痰ゃんもいま帰闍り？」",
     ""),
     # "Have you returned home now?"
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "I'm going back to my house now. When I left the Chieyodo class, I saw a symptom-chan coming out. Hey, since we're going to do it, will we all return to the Chieyo?"
 
-    ("あかりといっしょにか。†",
+    ("あかりといっしょにか。",
     ""),
-    # Is it like Akari and Issue?†
+    # Is it like Akari and Issue?
 
     ("そうだな｢｢。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 01C9.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	帰闍り道）閨（選択綜Ａ	クマ）†",
+    ("（あかり	回秤数イベント	帰闍り道）閨（選択綜Ａ	クマ）",
     ""),
-    # (Akari Scales Event Return Road) (Selection A Bear)†
+    # (Akari Scales Event Return Road) (Selection A Bear)
 
     ("「やっぱ、クマだ」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # There's no real thing b.
 
-    ("どうやって飛行機で連齪れて帰驪るってんだ。†",
+    ("どうやって飛行機で連齪れて帰驪るってんだ。",
     ""),
-    # How do you fight it and go home repeatedly on an airplane?†
+    # How do you fight it and go home repeatedly on an airplane?
 
     ("「まあ、閨定番といえば定番だな。人はなぜ、北海道に行くと、クマが欲しくなるんだ」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "There's a wood carving of bears I definitely want to smoke. It's a tamper called "Kumabokko," and it's made use of the tree's rings, and the hot pot is cute too."
 
-    ("「クマ好きの撃血が宸騒ぐのか」†",
+    ("「クマ好きの撃血が宸騒ぐのか」",
     ""),
     # "Are the bear lovers' attacks making a fuss?"
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Oh, Kuma Dokan is also very profound."
 
-    ("「深いよ。クマのグッズ黹専蜷門のお店なんかもあるくらいだし、この前熨も｢｢」†",
+    ("「深いよ。クマのグッズ黹専蜷門のお店なんかもあるくらいだし、この前熨も｢｢」",
     ""),
-    # "It's deep. There are even some bear merchandise shops at Sennimonmon, and the first ones also have a gift box called ""†
+    # "It's deep. There are even some bear merchandise shops at Sennimonmon, and the first ones also have a gift box called ""
 
     ("北海道の話はいつの間にか、あかりのクマグッズのうんちくに変﨑わっていった。◯",
     ""),

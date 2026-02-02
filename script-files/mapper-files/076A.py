@@ -2,9 +2,9 @@
 # Source file: 076A.txt
 
 text_array = [
-    ("（琴音	好感度イベントＰＳ）†",
+    ("（琴音	好感度イベントＰＳ）",
     ""),
-    # (Kotone Likeability Event PS)†
+    # (Kotone Likeability Event PS)
 
     ("鋳に出たオレは、いくつかあるベンチをひとつずつ見て回驩る。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Kotone Chisho-chan was quickly found.
 
-    ("いつものようにベンチにｍかけて、何個かあるｖ幕のボールとにらめっこしている。†",
+    ("いつものようにベンチにｍかけて、何個かあるｖ幕のボールとにらめっこしている。",
     ""),
-    # He was hanging on the bench like a hot thing, staring at several V-curve balls.†
+    # He was hanging on the bench like a hot thing, staring at several V-curve balls.
 
     ("「いようっ、琴音ち痰ゃん」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Ah, sir... Hello."
 
-    ("彼女はオレに気づくと立ちあがり、ペコリと頭を下げた。†",
+    ("彼女はオレに気づくと立ちあがり、ペコリと頭を下げた。",
     ""),
-    # When the woman noticed me, she stood up and bowed her head.†
+    # When the woman noticed me, she stood up and bowed her head.
 
     ("「進み駆㈲合はどーだ？」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Ah, yes. I think it's fine."
 
-    ("にっこり微笑む琴音ち痰ゃん。†",
+    ("にっこり微笑む琴音ち痰ゃん。",
     ""),
-    # Kotone Chisho-ya smiles with a smile.†
+    # Kotone Chisho-ya smiles with a smile.
 
     ("「そーかそーか」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # My boyfriend and I'm going to watch it lol Iso-no-ni is so happy to talk about the progress of the training.
 
-    ("そんな彼女を見骭るのが、最近は楽しい。†",
+    ("そんな彼女を見骭るのが、最近は楽しい。",
     ""),
-    # It's been fun to watch such a boyfriend and girls these days.†
+    # It's been fun to watch such a boyfriend and girls these days.
 
     ("「すっげー進熕歩じ痰ゃんか」",
     ""),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Yes. It was such a skill I hated so much, but now I'm really happy when I've become more skilled.
 
-    ("早く、その…さんに見てもらいたいな…って思うんです」†",
+    ("早く、その…さんに見てもらいたいな…って思うんです」",
     ""),
     # I think I want you to see it soon and have me take a look at it."
 
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "Let's show off your results and get some hot food."
 
-    ("「あ、はいっ」†",
+    ("「あ、はいっ」",
     ""),
-    # "Ah, yes" †
+    # "Ah, yes" 
 
     ("・",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("琴音ち痰ゃんはオレの目の前で５個のボールを自在に操って見せた。",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # When compared to the days when he only rolled a ping pong ball, he was extremely hot and incredibly hot.
 
-    ("オレはただただｊぶしかなかった。†",
+    ("オレはただただｊぶしかなかった。",
     ""),
-    # My only thing I could do was jot.†
+    # My only thing I could do was jot.
 
     ("「おっし、今厓日はこれで休憩」",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "What, why?"
 
-    ("いぶかしげな表﨣情で琴音ち痰ゃんは聞いた。†",
+    ("いぶかしげな表﨣情で琴音ち痰ゃんは聞いた。",
     ""),
-    # Kotone Chisho-yan asked in a rather unscrupulous sense of humor.†
+    # Kotone Chisho-yan asked in a rather unscrupulous sense of humor.
 
     ("「諱疲齡れてるだ？	オレにはそう見えるぜ」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # Kotone's eyes are leaning down.
 
-    ("やっぱり図星だ。†",
+    ("やっぱり図星だ。",
     ""),
-    # It's Tsuboshi after all.†
+    # It's Tsuboshi after all.
 
     ("「琴音ち痰ゃん、オレの前じ痰ゃいつも無摶理して限界ぎりぎりまでエネルギー使うからな。これ以繹上竢やって倒齠れられたら大変だ」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # I can really understand how I feel when I'm in front of people that I end up dying.
 
-    ("けど、オーバーペースは禁物だ。†",
+    ("けど、オーバーペースは禁物だ。",
     ""),
-    # However, over-pace is prohibited.†
+    # However, over-pace is prohibited.
 
     ("「…すみません。",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # "That's fine. The day is still in the middle of the day, so let's have some hot springs to talk about."
 
-    ("「あ、はい…」†",
+    ("「あ、はい…」",
     ""),
-    # "Ah, yes..."†
+    # "Ah, yes..."
 
     ("「………」",
     "…"),
@@ -194,17 +194,17 @@ text_array = [
     ""),
     # That said, I lost the opportunity to talk to him.
 
-    ("＝早くこの『間』を何とかしなければ…。†",
+    ("＝早くこの『間』を何とかしなければ…。",
     ""),
-    # =I have to do something about this 'time' as soon as possible...†
+    # =I have to do something about this 'time' as soon as possible...
 
     ("と、そこで、目の前の大きな木の枝にパタパタと２羽の鳥がとまった。",
     ""),
     # Then, two birds stopped on the branch of a large lily tree in front of me.
 
-    ("すずめっぽいけど、普黒っぽくて大きいな…。†",
+    ("すずめっぽいけど、普黒っぽくて大きいな…。",
     ""),
-    # It looks like a sparrow, but it looks like a normal black and big lily...†
+    # It looks like a sparrow, but it looks like a normal black and big lily...
 
     ("「あれは『ムクドリ』っていうんですよ」",
     ""),
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "Hmm... Kotone Chishonan is knowledgeable about animals."
 
-    ("「はい。ひとりのときはしょっちゅう図鑑をながめてましたから…」†",
+    ("「はい。ひとりのときはしょっちゅう図鑑をながめてましたから…」",
     ""),
     # "Yes. When I was alone, I was looking at the encyclopedia of the essays..."
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "hey hey"
 
-    ("「でも、わたしが勝闖手に思いこんでいるキッカケでしたら…」†",
+    ("「でも、わたしが勝闖手に思いこんでいるキッカケでしたら…」",
     ""),
     # "And if that's the trigger that I was thinking about Katsuren's hand..."
 
@@ -246,37 +246,37 @@ text_array = [
     ""),
     # "Whoa, what kind of trigger is that?"
 
-    ("「えっと…あれは、わたしが小学校二、三年のこ｢｢」†",
+    ("「えっと…あれは、わたしが小学校二、三年のこ｢｢」",
     ""),
-    # "Um...that's what I mean when I was in second or third grade elementary school, """†
+    # "Um...that's what I mean when I was in second or third grade elementary school, """
 
     ("わたしがパパとママといっしょに旅行へいったときのことです。",
     ""),
     # This was when I went on a trip with my dad and mom.
 
-    ("わたしたちは静かな港町の旅館に宿を取りました。†",
+    ("わたしたちは静かな港町の旅館に宿を取りました。",
     ""),
-    # We visited a hotel in a quiet port town.†
+    # We visited a hotel in a quiet port town.
 
     ("どこかへ遊びに行こうということになって、わたしは湾をはさんだｌこう側、蛛大きな№島のｐ族館に連齪れていってもらったんです。",
     ""),
     # I decided to go out and have a trip somewhere, and I went to the P-Armum on the large No. Island on the side of the bay and received a hot spring.
 
-    ("わたし、うれしくて、パパとママを置いてけぼりにして、ひとりで館煌内をр巡闖りました。†",
+    ("わたし、うれしくて、パパとママを置いてけぼりにして、ひとりで館煌内をр巡闖りました。",
     ""),
-    # I was so happy that I left my dad and mom behind and went around the Kakei Kiraku on my own.†
+    # I was so happy that I left my dad and mom behind and went around the Kakei Kiraku on my own.
 
-    ("やがて館煌内の施設を残邇らず見終えたわたしは、噤建物の外へ出たんです。†",
+    ("やがて館煌内の施設を残邇らず見終えたわたしは、噤建物の外へ出たんです。",
     ""),
-    # Eventually, after I finished looking at the facilities inside the Museum Luo, I left the building outside.†
+    # Eventually, after I finished looking at the facilities inside the Museum Luo, I left the building outside.
 
     ("そこには大きなプールがありました。",
     ""),
     # There was a large pool there.
 
-    ("曇闢り空で翌風熾も強く、少し肌寒かったので、まわりには誰熬もいませんでした。†",
+    ("曇闢り空で翌風熾も強く、少し肌寒かったので、まわりには誰熬もいませんでした。",
     ""),
-    # The sky was cloudy and the next wind was strong and it was a little chilly, so there was no one there, despite the fact that it was cloudy.†
+    # The sky was cloudy and the next wind was strong and it was a little chilly, so there was no one there, despite the fact that it was cloudy.
 
     ("わたしはプールのｒを覗こうと思ったんですが、プールを囲んでいる壁が少し高くて、の様子が見えそうで見えません。",
     ""),
@@ -286,9 +286,9 @@ text_array = [
     ""),
     # I tried to somehow catch up with the r, but I jumped up and tried a lion.
 
-    ("ですが、見えないどこか、突然強い翌風が≠吹いて、わたしの帽子を飛ばしてしまったんです。†",
+    ("ですが、見えないどこか、突然強い翌風が≠吹いて、わたしの帽子を飛ばしてしまったんです。",
     ""),
-    # However, somewhere in sight, a strong next wind suddenly blew, and I let my hat fly.†
+    # However, somewhere in sight, a strong next wind suddenly blew, and I let my hat fly.
 
     ("お気に入闢りの盾ワンピースとおそいの帽子でした。",
     ""),
@@ -298,17 +298,17 @@ text_array = [
     ""),
     # The hat flew to the wall in no time.
 
-    ("プールのｒに落ちたんです。†",
+    ("プールのｒに落ちたんです。",
     ""),
-    # A lion fell into the r in the pool.†
+    # A lion fell into the r in the pool.
 
     ("蛛大好きな帽子でしたから、わたし、悲しくなってモき出してしまいました。",
     ""),
     # It was a hat that I love, so I felt sad and started crying.
 
-    ("そのうちにパパとママがやってきて、わたしを抱き上げてくれましたが、わたしはモきじ痰ゃくるばかりです。†",
+    ("そのうちにパパとママがやってきて、わたしを抱き上げてくれましたが、わたしはモきじ痰ゃくるばかりです。",
     ""),
-    # Eventually, my dad and mom came to tamper with me and hugged me, but I was crying and sighing.†
+    # Eventually, my dad and mom came to tamper with me and hugged me, but I was crying and sighing.
 
     ("でも、そのとき、壁のｌこうからわたしの帽子が差し出されたんですよ。",
     ""),
@@ -322,9 +322,9 @@ text_array = [
     ""),
     # After all, it was a cried person who picked up my hat.
 
-    ("イルカは、帽子のつばをくわえて壁のｌこうから伸び上がってくれてたんです。†",
+    ("イルカは、帽子のつばをくわえて壁のｌこうから伸び上がってくれてたんです。",
     ""),
-    # Luka cried out and raised the brim of her hat from the wall.†
+    # Luka cried out and raised the brim of her hat from the wall.
 
     ("パパは『イルカさんにお礼を言うんだぞ』って、抱いたままわたしをイルカに近付けてくれました。",
     ""),
@@ -334,9 +334,9 @@ text_array = [
     ""),
     # It was really big, but it wasn't scary.
 
-    ("わたしを見骭る目が、すごく優しかったですから。†",
+    ("わたしを見骭る目が、すごく優しかったですから。",
     ""),
-    # His eyes were so gentle that he looked upon me.†
+    # His eyes were so gentle that he looked upon me.
 
     ("お礼を言って、わたしは帽子をイルカから受け取りました。",
     ""),
@@ -346,9 +346,9 @@ text_array = [
     ""),
     # Strangely, the hat was not wet either.
 
-    ("帽子をかぶると、わたしはすぐにイルカに手を伸ばして、なでてあげました。†",
+    ("帽子をかぶると、わたしはすぐにイルカに手を伸ばして、なでてあげました。",
     ""),
-    # I put on my hat and immediately reached for Luka and stroked her.†
+    # I put on my hat and immediately reached for Luka and stroked her.
 
     ("わたしがパパともう一度お礼を言うと、イルカはそれが伝崧わったように、プールに戻っていったんです。",
     ""),
@@ -358,9 +358,9 @@ text_array = [
     ""),
     # I was staring at the depths of the disappearance of Luka's vanishing p.
 
-    ("それが奄初めての出初いだったんです。†",
+    ("それが奄初めての出初いだったんです。",
     ""),
-    # That was the first time I had ever made an Amami.†
+    # That was the first time I had ever made an Amami.
 
     ("「へぇ…。頭いいんだな、イルカって」",
     ""),
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "At that moment, I thought. He spoke to Luka. Animal Teru is also a friend..."
 
-    ("「なるほどな。それが琴音ち痰ゃんの動物好きな理由か…」†",
+    ("「なるほどな。それが琴音ち痰ゃんの動物好きな理由か…」",
     ""),
     # "I see. I see. That's why Kotone Chisho-chan loves animals..."
 
@@ -390,9 +390,9 @@ text_array = [
     ""),
     # "I guess it's fine, I guess it's phlegm."
 
-    ("「はいっ」†",
+    ("「はいっ」",
     ""),
-    # "Yes" †
+    # "Yes" 
 
     ("その冾日はそのまま、動物関係の話陂題で盛關り上がってしまった。",
     ""),

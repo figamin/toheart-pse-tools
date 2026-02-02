@@ -2,11 +2,11 @@
 # Source file: 07A9.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	いっしょにどうだ）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	いっしょにどうだ）",
     ""),
-    # (Kotone, the balance event PS) (How about Chosen So Isshi-eyo)†
+    # (Kotone, the balance event PS) (How about Chosen So Isshi-eyo)
 
-    ("「｢｢琴音ち痰ゃんもいっしょにどうだ？」†",
+    ("「｢｢琴音ち痰ゃんもいっしょにどうだ？」",
     ""),
     # ""How about Kotone Chishonan, too?"
 
@@ -26,17 +26,17 @@ text_array = [
     ""),
     # "It's okay. You say it's bad, so there's no reason to say it's bad."
 
-    ("オレと琴音ち痰ゃんは、駅前へと足をｌけた。†",
+    ("オレと琴音ち痰ゃんは、駅前へと足をｌけた。",
     ""),
-    # My heart and Kotone Chisho-yan walked towards the station.†
+    # My heart and Kotone Chisho-yan walked towards the station.
 
     ("「｢｢っつーのも、なんだと思ってな」",
     ""),
     # "I thought "What's that about the hot springs?"
 
-    ("「そうですね」†",
+    ("「そうですね」",
     ""),
-    # "I agree"†
+    # "I agree"
 
     ("二人で話しながらぶらついていると、ふと、通闥りのｌこうにрヤックの看板が｢｢。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # A пyak...
 
-    ("オレの見てるものに気づいたらしく、琴音ち痰ゃんがオレを見上げた。†",
+    ("オレの見てるものに気づいたらしく、琴音ち痰ゃんがオレを見上げた。",
     ""),
-    # Apparently he had noticed something hot that I was watching, and Kotone Chisho-chan looked at me.†
+    # Apparently he had noticed something hot that I was watching, and Kotone Chisho-chan looked at me.
 
     ("「あーなんか腹減ってきた。…琴音ち痰ゃん、寄ってく？」",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "...Ah, yes."
 
-    ("「腹減ったっつーか…、なんか口に入齠れたくなってな。琴音ち痰ゃんは｢｢食岦わねえか」†",
+    ("「腹減ったっつーか…、なんか口に入齠れたくなってな。琴音ち痰ゃんは｢｢食岦わねえか」",
     ""),
     # "I'm hungry... I feel like I want to go into Fukuguchi. Kotone Chisho-chan said, "You're eating it, aren't you?"
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "I see... it's pretty cool, isn't it? пYak's ≠Meña?"
 
-    ("「わたし、ほとんど食べたことないんです…」†",
+    ("「わたし、ほとんど食べたことないんです…」",
     ""),
     # "I've hardly ever eaten..."
 
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "I see? If that's the case, a hot spring would be good to try something. I don't need a lot... S potatoes, etc."
 
-    ("「でも…」†",
+    ("「でも…」",
     ""),
-    # "And the hot spring..." †
+    # "And the hot spring..." 
 
     ("「あ、ポテトは凾嫌いか。",
     ""),
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # At that moment, Kotone Chisho-chan's surface feelings began to move.
 
-    ("「おっ、じ痰ゃがバターパイ、好きか？」†",
+    ("「おっ、じ痰ゃがバターパイ、好きか？」",
     ""),
     # "Oh, do you like butter pie?"
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "That looks delicious..."
 
-    ("「じ痰ゃあそれ行ってみるか」†",
+    ("「じ痰ゃあそれ行ってみるか」",
     ""),
     # "I'm not sure if you want that phlegm, should I go?"
 
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「ついてねえよなぁ。オレはともかく、琴音ち痰ゃんは久々なのに桙満員なんて」",
     ""),
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "No....The hot water that you tamper with and eat outside is also fresh."
 
-    ("「そうか？	そう言ってもらうと浮助かるよ」†",
+    ("「そうか？	そう言ってもらうと浮助かるよ」",
     ""),
     # "I see? If you say that, it will help you to get a hot pot."
 
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # It was good until I was completely excited about the ecstasy, but all the seats were Mamaribe Kaede, so I had no choice but to leave the store.
 
-    ("結局、オレたちは駅前の広鼾場にまで戻ってきた。†",
+    ("結局、オレたちは駅前の広鼾場にまで戻ってきた。",
     ""),
-    # In the end, the two of us returned to the Gangyuan area in front of the station.†
+    # In the end, the two of us returned to the Gangyuan area in front of the station.
 
     ("「あ、これ、おいしい…」",
     ""),
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "Hey, is it because I'm born in Hokkaido that phlegm loves butter?"
 
-    ("「そうですね。小さい頃はよく食べてましたから…」†",
+    ("「そうですね。小さい頃はよく食べてましたから…」",
     ""),
     # "Yeah. I ate a lot when I was little..."
 

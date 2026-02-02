@@ -2,9 +2,9 @@
 # Source file: 0B40.txt
 
 text_array = [
-    ("（綾∴香	エンディング）閨（綾∴香	綾∴香に挑峵戦	回秤数イベント６）閨（バトルポイントが２０以繹上の場㍼合）†",
+    ("（綾∴香	エンディング）閨（綾∴香	綾∴香に挑峵戦	回秤数イベント６）閨（バトルポイントが２０以繹上の場㍼合）",
     ""),
-    # (Aya∴Ka ending) (Aya∴Ka challenges Aya∴Ka challenges Aya∴Ka, event 6) (Battle cry point is 20 or more)†
+    # (Aya∴Ka ending) (Aya∴Ka challenges Aya∴Ka challenges Aya∴Ka, event 6) (Battle cry point is 20 or more)
 
     ("オレは退かず、地面を蹴って前に出た。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Byaaah!
 
-    ("閃光のような左ストレート！†",
+    ("閃光のような左ストレート！",
     ""),
-    # A fierce left straight rating that looks like a flash of light!†
+    # A fierce left straight rating that looks like a flash of light!
 
     ("それを、",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # My geira rocks with my right hand.
 
-    ("轣千載鼾一遇のチャャンスだ！†",
+    ("轣千載鼾一遇のチャャンスだ！",
     ""),
-    # It's a great chahansu!†
+    # It's a great chahansu!
 
     ("左のショートフック！",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # Now it's "The finisher!
 
-    ("ぶうんッ！†",
+    ("ぶうんッ！",
     ""),
-    # Yes!†
+    # Yes!
 
     ("「！？」",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # I was forced to stoke!?
 
-    ("綾∴香は｢｢右へステップしていた！†",
+    ("綾∴香は｢｢右へステップしていた！",
     ""),
-    # Aya∴Ka said, "I was stepping right!†
+    # Aya∴Ka said, "I was stepping right!
 
     ("「くっ！」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # A momentary gap before you return the guard!
 
-    ("綾∴香はそれさえも逃さない！†",
+    ("綾∴香はそれさえも逃さない！",
     ""),
-    # Aya∴Ka doesn't even miss that, even hot!†
+    # Aya∴Ka doesn't even miss that, even hot!
 
     ("バスッ、",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # Bass!
 
-    ("左右のアッパーが、オレのボディに、深く突き刺さる！†",
+    ("左右のアッパーが、オレのボディに、深く突き刺さる！",
     ""),
-    # The left and right uppers thrust deep into my intense body!†
+    # The left and right uppers thrust deep into my intense body!
 
     ("「あぐっ…！」",
     ""),
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # I have to protect him...
 
-    ("オレが左闕手を下げ、必死にボディをガードした瞬間、†",
+    ("オレが左闕手を下げ、必死にボディをガードした瞬間、",
     ""),
     # The moment my gut lowered my left hand and desperately guarded my body,
 
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # My eyes are shaking.
 
-    ("まるで撮影カ＜メラを落としたときのテレビ諠画面だ。†",
+    ("まるで撮影カ＜メラを落としたときのテレビ諠画面だ。",
     ""),
-    # It's like a screenshot of a filmed film called "Announcer" when he plucks through the film.†
+    # It's like a screenshot of a filmed film called "Announcer" when he plucks through the film.
 
     ("だが！",
     ""),
@@ -182,17 +182,17 @@ text_array = [
     ""),
     # I hung my strength into both my knees and thrust into it.
 
-    ("そこへ｢｢。†",
+    ("そこへ｢｢。",
     ""),
-    # Then ".†
+    # Then ".
 
     ("スパアアアアアアァァァァァァーーーーーーーー閨ーーーーーーーーーーーーーーーーーーーーンッ！",
     ""),
     # Sigh aaaaah!
 
-    ("オレのアゴを突き上げるように、綾∴香の右アッパーが炸裂した。†",
+    ("オレのアゴを突き上げるように、綾∴香の右アッパーが炸裂した。",
     ""),
-    # Aya∴Ka's right upper exploded, as if thrusts my chin up.†
+    # Aya∴Ka's right upper exploded, as if thrusts my chin up.
 
     ("空が。",
     ""),
@@ -202,17 +202,17 @@ text_array = [
     ""),
     # Clouds.
 
-    ("目の前に広がる。†",
+    ("目の前に広がる。",
     ""),
-    # It spreads out in front of my eyes.†
+    # It spreads out in front of my eyes.
 
     ("ちょっとした浮遊感。",
     ""),
     # It feels like a floating feeling.
 
-    ("まるで天にでも昇髀るような気分だぜ…。†",
+    ("まるで天にでも昇髀るような気分だぜ…。",
     ""),
-    # It feels like a hot spring is rising to the sky...†
+    # It feels like a hot spring is rising to the sky...
 
     ("・",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("あーあ…。",
     ""),
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # Chikushi Episode...
 
-    ("もう少しで勝てると思ったのによー…。†",
+    ("もう少しで勝てると思ったのによー…。",
     ""),
-    # I thought I could win soon...†
+    # I thought I could win soon...
 
     ("「蛛大苟丈夫ですか？」",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # The cold towel sniffs and sniffs the heat from the hot skin.
 
-    ("気搴持ちいい。†",
+    ("気搴持ちいい。",
     ""),
-    # It's good to keep you excited.†
+    # It's good to keep you excited.
 
     ("「蛛大苟丈夫？	少しくらい横になってたほうがいいかもよ」",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # I shook my head and lifted up my upper body.
 
-    ("本末当はまだ少し、目が回ってるような気分だった。†",
+    ("本末当はまだ少し、目が回ってるような気分だった。",
     ""),
-    # I still felt a little dizzy at the end of the day.†
+    # I still felt a little dizzy at the end of the day.
 
     ("「ごめん。途湯でやめてもよかったんだけど、つい熱くなっち痰ゃって…」",
     ""),
@@ -290,9 +290,9 @@ text_array = [
     ""),
     # "It's better than being dumbed, or being slapped."
 
-    ("縺上半身を両手で支え、空を見上げる。†",
+    ("縺上半身を両手で支え、空を見上げる。",
     ""),
-    # He supports his upper body with his hands and looks up at the sky.†
+    # He supports his upper body with his hands and looks up at the sky.
 
     ("「あ〜あ、あともう一煦歩だったってのによ。あそこでアッパーさえ打たなけり痰ゃ…」",
     ""),
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # "That's because it happened to be me as the Kaji relations player.
 
-    ("普通の鰍相闡手なら大葬駐體るわよ」†",
+    ("普通の鰍相闡手なら大葬駐體るわよ」",
     ""),
     # If you're a normal monk-related guy, you'll be in the middle of a burial funeral."
 
@@ -338,9 +338,9 @@ text_array = [
     ""),
     # "Well, I see, Hot too."
 
-    ("綾∴香はクスクス笑った。†",
+    ("綾∴香はクスクス笑った。",
     ""),
-    # Aya∴Ka chuckled.†
+    # Aya∴Ka chuckled.
 
     ("「ま、でも、今回は奄負けということで」",
     ""),
@@ -354,9 +354,9 @@ text_array = [
     ""),
     # "What are you talking about? That's the winner, slut?"
 
-    ("「えっ？」†",
+    ("「えっ？」",
     ""),
-    # "Huh?" †
+    # "Huh?" 
 
     ("「…全泊部で二発熹もらったじ痰ゃない。",
     ""),
@@ -378,9 +378,9 @@ text_array = [
     ""),
     # I had completely forgotten.
 
-    ("あんまりきれいにｌめられたもんだから、堰負けちまったもんだとばかり…。†",
+    ("あんまりきれいにｌめられたもんだから、堰負けちまったもんだとばかり…。",
     ""),
-    # It was a hot pot that was so beautiful that it was a hot pot that had been defeated by a dam...†
+    # It was a hot pot that was so beautiful that it was a hot pot that had been defeated by a dam...
 
     ("「そっか。てことは、まてよ。さっきの試㍽合、途湯でもう、氈勝ってたんじ痰ゃねーか」",
     ""),
@@ -398,7 +398,7 @@ text_array = [
     ""),
     # "That's why I apologized, so there's no phlegm."
 
-    ("「そのことかーっ！」†",
+    ("「そのことかーっ！」",
     ""),
     # "Is that what?"
 
@@ -418,9 +418,9 @@ text_array = [
     ""),
     # "At all..."
 
-    ("殴迚られ損だぜ。†",
+    ("殴迚られ損だぜ。",
     ""),
-    # I'm not going to be beaten up.†
+    # I'm not going to be beaten up.
 
     ("「でも、そうか。オレの勝ちか…」",
     ""),
@@ -430,9 +430,9 @@ text_array = [
     ""),
     # Although it was a hit with Kugata Lean, it was a punch that ended up being a mess.
 
-    ("いまいち実感がわかないが、それでもまあ、氈勝ちは勝ちだ。†",
+    ("いまいち実感がわかないが、それでもまあ、氈勝ちは勝ちだ。",
     ""),
-    # I don't really feel that way, but that's why, even if you win, you win.†
+    # I don't really feel that way, but that's why, even if you win, you win.
 
     ("「そういえば、堰負けたほうはなんでもひとつ、氈勝ったほうの言うことを聞く約束だったな」",
     ""),
@@ -446,7 +446,7 @@ text_array = [
     ""),
     # "You're a slut. What should I do?"
 
-    ("「うーん、そうだな、じ痰ゃ…」†",
+    ("「うーん、そうだな、じ痰ゃ…」",
     ""),
     # "Hmm, that's right, phlegm..."
 

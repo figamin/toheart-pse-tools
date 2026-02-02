@@ -2,9 +2,9 @@
 # Source file: 0882.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	２階１）閨（選択綜	話す）†",
+    ("（レミィ	回秤数イベント	２階１）閨（選択綜	話す）",
     ""),
-    # (Game Remy Scales Event, 2nd Floor 1) (Choice Speak)†
+    # (Game Remy Scales Event, 2nd Floor 1) (Choice Speak)
 
     ("「いきなり突き飛ばして、オレに何の用だ？」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I listened while lying down in the hallway.
 
-    ("いまはとにかく、この状態をキープしなければ。†",
+    ("いまはとにかく、この状態をキープしなければ。",
     ""),
-    # I have to keep this state for now anyway.†
+    # I have to keep this state for now anyway.
 
     ("「、ダイジョブ？	立てる？」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # He's a warm and soft guy...
 
-    ("オレは、しかたなく立ち上がった。†",
+    ("オレは、しかたなく立ち上がった。",
     ""),
-    # My heart was inevitable and rose to the ground.†
+    # My heart was inevitable and rose to the ground.
 
     ("「ありがとよ」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "You're tampering, you're totally fine."
 
-    ("とピョンピョン飛び跳ねて、オレは無末事を精齔一杯アピールした。†",
+    ("とピョンピョン飛び跳ねて、オレは無末事を精齔一杯アピールした。",
     ""),
-    # He jumped over and over again, and my hard work showed his absolute delinquentness.†
+    # He jumped over and over again, and my hard work showed his absolute delinquentness.
 
     ("「諱よかったぁ！」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # A dazzling face that evokes the sunlight of Kagata Rifo crying.
 
-    ("「なんだよ、転んだぐらいでオレは死なないぜ？」†",
+    ("「なんだよ、転んだぐらいでオレは死なないぜ？」",
     ""),
     # "What is it? I won't die if I fall, right?"
 
@@ -102,15 +102,15 @@ text_array = [
     ""),
     # I was nervous when the sudden approach came suddenly...
 
-    ("まあ、これくらいのスキンシップ、むこう（ア＜メリカ）では魔当然だうけど。†",
+    ("まあ、これくらいのスキンシップ、むこう（ア＜メリカ）では魔当然だうけど。",
     ""),
-    # Well, this much of a skinship is obviously a beast in the other side (American Rika).†
+    # Well, this much of a skinship is obviously a beast in the other side (American Rika).
 
-    ("「どんなジジョーなの？」†",
+    ("「どんなジジョーなの？」",
     ""),
     # "What kind of jiji is this?"
 
-    ("「スカートのｒを覗いてたんだよ！」†",
+    ("「スカートのｒを覗いてたんだよ！」",
     ""),
     # "I was peering at the skirt!"
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "You can't say that, there's no way you can say that.
 
-    ("「なんでもねえよ」†",
+    ("「なんでもねえよ」",
     ""),
     # "Why don't you have a hot pot?"
 
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("ドラマチックな出初い？†",
+    ("ドラマチックな出初い？",
     ""),
-    # Are you a banquet and a lame first time?†
+    # Are you a banquet and a lame first time?
 
     ("「男と翌女が衝突。これって、運命的出初いでしょ？」",
     ""),
@@ -150,17 +150,17 @@ text_array = [
     ""),
     # "Fateful..."
 
-    ("そのとき、オレはやっと思い出した。†",
+    ("そのとき、オレはやっと思い出した。",
     ""),
-    # At that moment, I finally remembered it.†
+    # At that moment, I finally remembered it.
 
     ("そういや、＠栖瑞謳先輩との出初いがそんな感じだったって、レミィに説明したことがあったな。",
     ""),
     # I once explained to You Remi that it was like that, and that it was like that when he first appeared with @Suisui-san.
 
-    ("まさかあれを本気で実行するなんて、ストレート過ぎる考え方だ…。†",
+    ("まさかあれを本気で実行するなんて、ストレート過ぎる考え方だ…。",
     ""),
-    # I can't believe it's a very sudden and extremely lucky way to do that seriously...†
+    # I can't believe it's a very sudden and extremely lucky way to do that seriously...
 
     ("「ネ？」",
     ""),
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「オレと撃レミィが偶然ぶつかったってんなら、話は別だけど、いまのはわざとぶつかってきてねえか？」†",
+    ("「オレと撃レミィが偶然ぶつかったってんなら、話は別だけど、いまのはわざとぶつかってきてねえか？」",
     ""),
     # "If I'm Gekire and Gekiremi collided with each other by chance, that's a different story, but aren't they just trying to collide with you on purpose?"
 
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # "That's right... No way, you'll come across it by chance."
 
-    ("「おいおい。用はそれだけかよ」†",
+    ("「おいおい。用はそれだけかよ」",
     ""),
-    # "Hey hey. That's all I need." †
+    # "Hey hey. That's all I need." 
 
     ("「あっ…忘齧れてたよ。アタシ、に聞きたいことがあったの」",
     ""),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # "...I'm not phlegm, can I just ask you one thing?"
 
-    ("「ああ」†",
+    ("「ああ」",
     ""),
-    # "ah"†
+    # "ah"
 
     ("「子沁供、好き？」",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # I was in trouble with Kaji Reaxy.
 
-    ("なんでそんな話陂題に変﨑わるんだ！？†",
+    ("なんでそんな話陂題に変﨑わるんだ！？",
     ""),
-    # Why is this turned into a topic??†
+    # Why is this turned into a topic??
 
     ("「…子沁供が好きかって？」",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # However, honestly, I was also curious as to what would happen if I answered it.
 
-    ("「Ｙ入！」†",
+    ("「Ｙ入！」",
     ""),
-    # "Yb Tangari!" †
+    # "Yb Tangari!" 
 
     ("「誰の子沁供だよ」",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # Other children are snatched."
 
-    ("…なんだ、そういう意味か…脅かすなよ。†",
+    ("…なんだ、そういう意味か…脅かすなよ。",
     ""),
-    # ...What, does that mean...don't threaten it.†
+    # ...What, does that mean...don't threaten it.
 
     ("オレは｢｢。",
     ""),

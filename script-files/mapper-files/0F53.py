@@ -2,17 +2,17 @@
 # Source file: 0F53.txt
 
 text_array = [
-    ("（４月１９冾日	土）閨（堰ラジオ	７回目）閨（堰ラジオ聞いた場㍼合）†",
+    ("（４月１９冾日	土）閨（堰ラジオ	７回目）閨（堰ラジオ聞いた場㍼合）",
     ""),
-    # (Saturday, April 19th) (7th time of weir radio) (Lead radio) (Lead radio) (Lead radio)) †
+    # (Saturday, April 19th) (7th time of weir radio) (Lead radio) (Lead radio) (Lead radio)) 
 
     ("堰ラジオを聞こう。",
     ""),
     # Listen to the weir radio.
 
-    ("ポチッとな。†",
+    ("ポチッとな。",
     ""),
-    # Click here.†
+    # Click here.
 
     ("・",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("ほほう。",
     ""),

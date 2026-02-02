@@ -2,9 +2,9 @@
 # Source file: 01AA.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ｂ	それでも、あるわけないと思う）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ｂ	それでも、あるわけないと思う）",
     ""),
-    # (Akari Scales Event 1F) (B So I don't think there's any chance that Hot will be there)†
+    # (Akari Scales Event 1F) (B So I don't think there's any chance that Hot will be there)
 
     ("「それでも、あるわけないと思う」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I said firmly.
 
-    ("「べつに理由燉もなく、かたくなに否阡定してるわけじ痰ゃねーぜ。すぐに説明できないからといって、なんでもすぐ超峵常現象のせいにするのは安易すぎるし、無責任だってことさ」†",
+    ("「べつに理由燉もなく、かたくなに否阡定してるわけじ痰ゃねーぜ。すぐに説明できないからといって、なんでもすぐ超峵常現象のせいにするのは安易すぎるし、無責任だってことさ」",
     ""),
     # "There's no reason to blame, and there's no way I can't explain it right away. It's too easy and irresponsible to blame the super common phenomenon as well as the hot weather."
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Certainly, as Akari says, there are still many things that have not been solved by science, but that is not the case.
 
-    ("もっといい考えれば、いくらでも説明できるはずだしな。†",
+    ("もっといい考えれば、いくらでも説明できるはずだしな。",
     ""),
-    # If you think about it more like a b-b, you can probably explain it for a b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-†
+    # If you think about it more like a b-b, you can probably explain it for a b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-
 
     ("「もっと確証が得逑られたら、そこで信じる」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "The fact that both hot and hot springs are super common phenomena is more than 9р per cent of B-mon, it's a fantasy created by the human image of how the boars look whiter."
 
-    ("「…それは、そうかもしれないね」†",
+    ("「…それは、そうかもしれないね」",
     ""),
     # "...I see, that's not true, it's probably hot."
 

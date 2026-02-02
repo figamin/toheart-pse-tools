@@ -10,9 +10,9 @@ text_array = [
     ""),
     # "Nothing happened.
 
-    ("おっ、小降闕りになってきたぞ。いまのうちにダッシャしようぜ？」†",
+    ("おっ、小降闕りになってきたぞ。いまのうちにダッシャしようぜ？」",
     ""),
-    # Oh, I'm starting to feel a bit late.Shall we do a dash now?”†
+    # Oh, I'm starting to feel a bit late.Shall we do a dash now?”
 
     ("「あ、うん」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Oh, it's a slut."
 
-    ("「諱よし、行こう、せーの…」†",
+    ("「諱よし、行こう、せーの…」",
     ""),
-    # "Okay, let's go, yeah..."†
+    # "Okay, let's go, yeah..."
 
     ("オレたちは鞄をカサがわりにして、濡齡れた道路を一気に駆け抜けていった。◯",
     ""),

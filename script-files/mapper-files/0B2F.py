@@ -2,9 +2,9 @@
 # Source file: 0B2F.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４）閨（選択綜Ｃ	遠莱距離は─氛─	の続き）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４）閨（選択綜Ｃ	遠莱距離は─氛─	の続き）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 4 of the battle to fight the scales) (Continued from Selection C: The distance is - Hai)†
+    # (Aya∴Ka challenges Aya∴Ka, event 4 of the battle to fight the scales) (Continued from Selection C: The distance is - Hai)
 
     ("遠莱距離嵭戦は高剄等なテクニックを要する。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Then there's one answer.
 
-    ("接近寀戦しかない。†",
+    ("接近寀戦しかない。",
     ""),
-    # There's only a close fight.†
+    # There's only a close fight.
 
     ("だが、それが綾∴香の狙いだ。",
     ""),
@@ -30,17 +30,17 @@ text_array = [
     ""),
     # I'm sure my fierce thought that way and invited me to take on a close fight.
 
-    ("わざわざ罠にハマ驛るつもりはない。†",
+    ("わざわざ罠にハマ驛るつもりはない。",
     ""),
-    # There is no need to fall into traps on purpose.†
+    # There is no need to fall into traps on purpose.
 
     ("とは言っても、遠莱距離嵭戦で鰍相闡手をするのは愚の怩骨頂。",
     ""),
     # That said, it is a foolish feat to play a slut in the battle for the Tohrai Dance.
 
-    ("遠莱距離嵭戦はディフェンスに徹して、綾∴香がインファイトを持ちかけてくるのを待つしかない。†",
+    ("遠莱距離嵭戦はディフェンスに徹して、綾∴香がインファイトを持ちかけてくるのを待つしかない。",
     ""),
-    # The only way to defend against Tonrai Dance is to wait for Aya Kaoru to come and give him an infight.†
+    # The only way to defend against Tonrai Dance is to wait for Aya Kaoru to come and give him an infight.
 
     ("シャッ！",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # In the pure footwork, the hot water is also several steps above the Aya∴Ka.
 
-    ("本沫蒲リング繝上なら、すぐに追いつめられるとこだが、幸いいまはその心配はない。†",
+    ("本沫蒲リング繝上なら、すぐに追いつめられるとこだが、幸いいまはその心配はない。",
     ""),
-    # If it's a genuine kama ring, you'll be cornered quickly, but Kouima doesn't have to worry about that.†
+    # If it's a genuine kama ring, you'll be cornered quickly, but Kouima doesn't have to worry about that.
 
     ("「いつまで逃げてるつもり？」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "I see"
 
-    ("ザッ！†",
+    ("ザッ！",
     ""),
-    # Thump!†
+    # Thump!
 
     ("「うっ！？」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # Closed war.
 
-    ("望むとこだ！†",
+    ("望むとこだ！",
     ""),
-    # It's b where you want it!†
+    # It's b where you want it!
 
     ("スパンッ！",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # My geisha does the same thing, but it's definitely more true that Kou and Aya∴Ka are
 
-    ("上闖手うわてだ。†",
+    ("上闖手うわてだ。",
     ""),
-    # It's a great day.†
+    # It's a great day.
 
     ("だが、オレは一発箔齠れさえすればいい。",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # The single-shot jayab is also nice and hot.
 
-    ("蛛大きいрヤツだけ確実に回避する。†",
+    ("蛛大きいрヤツだけ確実に回避する。",
     ""),
-    # Only the big guys are sure to avoid them.†
+    # Only the big guys are sure to avoid them.
 
     ("技術の差はあるにし、同じ人間だ。",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # I'm aiming for that.
 
-    ("あくまで、﨟基本に奄忠実に。†",
+    ("あくまで、﨟基本に奄忠実に。",
     ""),
-    # Just be loyal to the basics.†
+    # Just be loyal to the basics.
 
     ("スパーンッ！",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # It's often said that attacks and M-shots are the biggest mirageous defensive.
 
-    ("バランスが崩れて、攻ｍ撃ができない。†",
+    ("バランスが崩れて、攻ｍ撃ができない。",
     ""),
-    # The banquet lance collapses and you cannot attack or attack.†
+    # The banquet lance collapses and you cannot attack or attack.
 
     ("いつの間にかオレの足が止まってる。",
     ""),
@@ -226,17 +226,17 @@ text_array = [
     ""),
     # The guard is also falling.
 
-    ("まずい。†",
+    ("まずい。",
     ""),
-    # bad.†
+    # bad.
 
     ("スパアアアァァァーーーーーーーーンッ！",
     ""),
     # Splaaaaahhhh!
 
-    ("その瞬間、綾∴香の右ストレートが、オレの顔面をとらえた。†",
+    ("その瞬間、綾∴香の右ストレートが、オレの顔面をとらえた。",
     ""),
-    # At that moment, Aya∴Ka's intense right rating caught my head in my face.†
+    # At that moment, Aya∴Ka's intense right rating caught my head in my face.
 
     ("そこに、",
     ""),
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # Combination Sydong's three hits hit Kugata Lean.
 
-    ("世界が回驩る。†",
+    ("世界が回驩る。",
     ""),
-    # The world is resurrected.†
+    # The world is resurrected.
 
     ("・",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("くそー…。",
     ""),
@@ -294,9 +294,9 @@ text_array = [
     ""),
     # And then there's hot spring again.
 
-    ("今厓日はかなりいいｐまでいったが、圧倒的な技術力の差で奄負けた。†",
+    ("今厓日はかなりいいｐまでいったが、圧倒的な技術力の差で奄負けた。",
     ""),
-    # On the day, he reached a pretty good score, but he lost to Amami due to an overwhelming difference in technical capabilities.†
+    # On the day, he reached a pretty good score, but he lost to Amami due to an overwhelming difference in technical capabilities.
 
     ("「どう？」",
     ""),
@@ -314,9 +314,9 @@ text_array = [
     ""),
     # "Well, somehow..."
 
-    ("オレは頭を振關りながら体を起こした。†",
+    ("オレは頭を振關りながら体を起こした。",
     ""),
-    # My head shook my head and stood up.†
+    # My head shook my head and stood up.
 
     ("「いて…」",
     ""),
@@ -330,9 +330,9 @@ text_array = [
     ""),
     # The correct answer is that the No. 1 match is not sung in the battle for the Torari Distance.The judgement is correct."
 
-    ("くすっと笑って綾∴香が言った。†",
+    ("くすっと笑って綾∴香が言った。",
     ""),
-    # Aya∴Ka said with a chuckle.†
+    # Aya∴Ka said with a chuckle.
 
     ("「遠莱距離で優位に立ち、焦って飛び桙込んできた鰍相闡手を、逆に接近寀戦で返阨り討ちにするのがр私のフォームなの」",
     ""),
@@ -346,8 +346,8 @@ text_array = [
     ""),
     # "The rest is to acquire more skills so that we don't lose to Amami."
 
-    ("「簡単に言ってくれるぜ」†",
+    ("「簡単に言ってくれるぜ」",
     ""),
-    # "I'll say it briefly" †
+    # "I'll say it briefly" 
 
 ]

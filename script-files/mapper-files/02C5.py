@@ -2,13 +2,13 @@
 # Source file: 02C5.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ３）閨（選択綜Ａ	頭をグリグリする）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ３）閨（選択綜Ａ	頭をグリグリする）",
     ""),
-    # (Seri°Kawa, Scales, 1F, LV3)Seri (Select Sou A, head is gugata rigugata)†
+    # (Seri°Kawa, Scales, 1F, LV3)Seri (Select Sou A, head is gugata rigugata)
 
-    ("「ねえ、ねえ、諱先輩」†",
+    ("「ねえ、ねえ、諱先輩」",
     ""),
-    # "Hey, hey, senior, senpai"†
+    # "Hey, hey, senior, senpai"
 
     ("「？」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # I suddenly hit the genkotsu of my hand against my senior's head and it started to squeal to the point where it didn't hurt.
 
-    ("グリグリグリ…。†",
+    ("グリグリグリ…。",
     ""),
-    # Gugata Riggata Riggata Riggata Ri...†
+    # Gugata Riggata Riggata Riggata Ri...
 
     ("「………」",
     "…"),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # It seems that he doesn't really understand the meaning, so his senior looks at me with a sly face.
 
-    ("えい、グリグリグリ…。†",
+    ("えい、グリグリグリ…。",
     ""),
-    # Yeah, Gugata Riggata Riggata Riggata Ri...†
+    # Yeah, Gugata Riggata Riggata Riggata Ri...
 
     ("「………」",
     "…"),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # Looking at my senior's troubled face, I felt somehow happy.
 
-    ("もっとやう。†",
+    ("もっとやう。",
     ""),
-    # I'll tamper with it more.†
+    # I'll tamper with it more.
 
     ("えい、えい、グリグリグリグリ…。",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩はどうしていいかわからずに、オレのなすがまま、グリグリされ続けた。†",
+    ("諱先輩はどうしていいかわからずに、オレのなすがまま、グリグリされ続けた。",
     ""),
-    # Without knowing what to do with Senpai, I continued to be stolen at my mercy.†
+    # Without knowing what to do with Senpai, I continued to be stolen at my mercy.
 
     ("十分困迯らせたので手を止める。",
     ""),
@@ -94,16 +94,16 @@ text_array = [
     "…"),
     # "..."
 
-    ("こくん、とうなずいた。†",
+    ("こくん、とうなずいた。",
     ""),
-    # Ko-kun nodded.†
+    # Ko-kun nodded.
 
     ("「諱よぉ〜しッ！！」",
     ""),
     # "My name is here!"
 
-    ("なにが『諱よし』なのかよくわからないが、とにかくオレはガッツポーズを取った。†",
+    ("なにが『諱よし』なのかよくわからないが、とにかくオレはガッツポーズを取った。",
     ""),
-    # I'm not sure what the "good name" is, but I took a fist pose anyway.†
+    # I'm not sure what the "good name" is, but I took a fist pose anyway.
 
 ]

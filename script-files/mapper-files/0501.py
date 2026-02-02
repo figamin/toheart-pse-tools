@@ -2,9 +2,9 @@
 # Source file: 0501.txt
 
 text_array = [
-    ("（葵との出初い	イント鴻ロ２）閨（選択綜芋Iんだあと）閨（渡闢り廊下	雅史立ち）†",
+    ("（葵との出初い	イント鴻ロ２）閨（選択綜芋Iんだあと）閨（渡闢り廊下	雅史立ち）",
     ""),
-    # (First time with Aoi Intokoro 2) (After selecting Soimoiro lion I) (Crossing corridor, 雅 History) †
+    # (First time with Aoi Intokoro 2) (After selecting Soimoiro lion I) (Crossing corridor, 雅 History) 
 
     ("たしかにパンは重要だが、いまはそれ以繹上にあの翌女の子の話が気になった。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "At the end, Mass. You should go ahead and buy some cutlet sandwiches and a wiener incense roll."
 
-    ("「えっ？」†",
+    ("「えっ？」",
     ""),
-    # "Huh?" †
+    # "Huh?" 
 
     ("「金はあとで払うから。いいか、カツサンドとウインナー香ロールな、梶頼んだぞ」",
     ""),
@@ -26,13 +26,13 @@ text_array = [
     ""),
     # With that in mind, I patted the confused I-Shi on the shoulder and leapt towards the blessing of the crowd.
 
-    ("「あ、」†",
+    ("「あ、」",
     ""),
-    # "a,"†
+    # "a,"
 
-    ("女の子の熱心な説明は続いていた。†",
+    ("女の子の熱心な説明は続いていた。",
     ""),
-    # The bathing girl's enthusiastic explanation continued.†
+    # The bathing girl's enthusiastic explanation continued.
 
     ("「現代の格闘技は、′して単なる腕力の競い№合いではありません。",
     ""),
@@ -46,23 +46,23 @@ text_array = [
     ""),
     # It is a constant collision of advanced techniques that are constantly being met with.
 
-    ("相闡手を倒す、その最熏もシンプルなルール繝上で、最熏も高度で複雑な試㍽合が展開されるんです」†",
+    ("相闡手を倒す、その最熏もシンプルなルール繝上で、最熏も高度で複雑な試㍽合が展開されるんです」",
     ""),
     # Defeating the other players, the simplest way to go is to simplify the rules, and the extremely advanced and complex lion tests will be held."
 
-    ("格闘技の魅力を語っているうちに、彼女は少しずつ熱くなり、氈次謗第に自分だけの世界に入っていくような感じだった。†",
+    ("格闘技の魅力を語っているうちに、彼女は少しずつ熱くなり、氈次謗第に自分だけの世界に入っていくような感じだった。",
     ""),
-    # As she talked about the charm of martial arts, the girl gradually became more and more passionate, and she felt like she was slandering herself and entered her own world.†
+    # As she talked about the charm of martial arts, the girl gradually became more and more passionate, and she felt like she was slandering herself and entered her own world.
 
     ("「現在ひとくちに格闘技と言っても、じつに様々な種類が存在します。",
     ""),
     # "There are a huge variety of martial arts, and there are a wide variety of martial arts.
 
-    ("メジャャーなものでいえば、柔道、空闍手、ボクシングなどがあると思いますが、その他にも、まだまだ数え切齔れないほどの格闘技があります。†",
+    ("メジャャーなものでいえば、柔道、空闍手、ボクシングなどがあると思いますが、その他にも、まだまだ数え切齔れないほどの格闘技があります。",
     ""),
-    # In terms of mejaya's kind of hot springs, there are probably judo, kohanata and boxing, but there are still many other martial arts that can't be counted.†
+    # In terms of mejaya's kind of hot springs, there are probably judo, kohanata and boxing, but there are still many other martial arts that can't be counted.
 
-    ("日本だけを痰例に挙げても、たとえば鰍相撲燒も格闘技に分類されるでしょうし、〟合気道笂や、冝日本摶拳法などもあります。また、近年では、プ鴻ロレス窿やボクシングから独自のスタイルを追して派生する場㍼合熏も多く見迪られます。†",
+    ("日本だけを痰例に挙げても、たとえば鰍相撲燒も格闘技に分類されるでしょうし、〟合気道笂や、冝日本摶拳法などもあります。また、近年では、プ鴻ロレス窿やボクシングから独自のスタイルを追して派生する場㍼合熏も多く見迪られます。",
     ""),
     # There are also many places such as Aikido Hori, and Japanese martial arts such as Aikido Hori and Japanese martial arts. In recent years, many cases have been found to be derived from the unique style of leech and boxing, such as the original style of leech and boxing.
 
@@ -70,21 +70,21 @@ text_array = [
     ""),
     # Furthermore, if you look at the world, there are still many martial arts.
 
-    ("中葬国には太極搴拳竚や形意揶拳などのｒ葬国搓拳法が、韓相国にはテコンドー、タイにはムエタイ、香ロシアにはサンボ、ブラジルにはグレイシー柔術など、それこそマイナーなものや流派の異なるものまで含めれば、星の数ほどの格闘技が存在しています。†",
+    ("中葬国には太極搴拳竚や形意揶拳などのｒ葬国搓拳法が、韓相国にはテコンドー、タイにはムエタイ、香ロシアにはサンボ、ブラジルにはグレイシー柔術など、それこそマイナーなものや流派の異なるものまで含めれば、星の数ほどの格闘技が存在しています。",
     ""),
-    # There are many martial arts such as Tai Chi Kyuuken and Yan-ya-ken in the Chung Funeral Province, Taekwondo in the Han Sang Province, Muay Thai in Thailand, Sambo in the Xiang Russia, and Gu Geki Lacy Jiu Jitsu in the Buen Rajyuu-ru. If you include minor hot tampering and hot chicks of different styles, there are as many martial arts as there are stars.†
+    # There are many martial arts such as Tai Chi Kyuuken and Yan-ya-ken in the Chung Funeral Province, Taekwondo in the Han Sang Province, Muay Thai in Thailand, Sambo in the Xiang Russia, and Gu Geki Lacy Jiu Jitsu in the Buen Rajyuu-ru. If you include minor hot tampering and hot chicks of different styles, there are as many martial arts as there are stars.
 
     ("これほど数多くの流派が存在する格闘技界ですが、本沫それらは全く別のものであり、′して同じ曹舞苺台に立つことはあり得ませんでした。",
     ""),
     # Although there are so many schools of martial arts, these are completely different kinds of hot water, and it was impossible for them to stand on the same Cao Mai Ichibandai.
 
-    ("ですが｢｢。†",
+    ("ですが｢｢。",
     ""),
-    # But ".†
+    # But ".
 
-    ("数年前、ア＜メリカでバー梶リ・トゥード形式によるアルティ＜メット蜒大痩が開催されて以降、そういう垣根を取り払った高総≡合格闘技が一般の高注目を≠び始めました。格闘技界にとって、それは新しい桙時緕代の始まりでした！」†",
+    ("数年前、ア＜メリカでバー梶リ・トゥード形式によるアルティ＜メット蜒大痩が開催されて以降、そういう垣根を取り払った高総≡合格闘技が一般の高注目を≠び始めました。格闘技界にとって、それは新しい桙時緕代の始まりでした！」",
     ""),
-    # A few years ago, after the event was held in the American Academy of Arts and Trap in the Bakajiri Toud style, Takaso passed the battlefield, which has overcome such barriers, has begun to attract high attention from the general public.For the martial arts world, it was the beginning of a new era of fujiki!”†
+    # A few years ago, after the event was held in the American Academy of Arts and Trap in the Bakajiri Toud style, Takaso passed the battlefield, which has overcome such barriers, has begun to attract high attention from the general public.For the martial arts world, it was the beginning of a new era of fujiki!”
 
     ("女の子は今竝やひとりで突っ魔走闡り、興味本位で集まっていたギャャラリーたちは、すでに誰ひとりとしてついてきていない。",
     ""),
@@ -94,13 +94,13 @@ text_array = [
     ""),
     # One more slander, one more, one more, stands out and leaves the place.
 
-    ("やがて気がつけば、そこに残っているのはオレひとりになっていた。†",
+    ("やがて気がつけば、そこに残っているのはオレひとりになっていた。",
     ""),
-    # Before I knew it, all I had left was really alone.†
+    # Before I knew it, all I had left was really alone.
 
-    ("「そしてこの、世界的規模の格闘技の隆盛は、ついに冾日本の高校格闘技界にまでもおよんだのです。まだ一般の知名度は痰低いようですが、昨年、驕企業蜍主催の全荘国麹総≡合格闘技選闡手権ともいうべき、エクスト｢｢」†",
+    ("「そしてこの、世界的規模の格闘技の隆盛は、ついに冾日本の高校格闘技界にまでもおよんだのです。まだ一般の知名度は痰低いようですが、昨年、驕企業蜍主催の全荘国麹総≡合格闘技選闡手権ともいうべき、エクスト｢｢」",
     ""),
-    # "And this global martial arts rise has finally reached the Japanese B High School martial arts world. It seems that the public is still low in popularity, but last year, Ext ""†
+    # "And this global martial arts rise has finally reached the Japanese B High School martial arts world. It seems that the public is still low in popularity, but last year, Ext ""
 
     ("エクスト｢｢？",
     ""),
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # However, the woman stopped speaking and looked around the area with her.
 
-    ("「あっ、あれっ！？」†",
+    ("「あっ、あれっ！？」",
     ""),
     # "Ah, huh?!"
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # He then muttered with his shoulders hanging down.
 
-    ("「｢｢また誰熬も、聞いてくれなかった…」†",
+    ("「｢｢また誰熬も、聞いてくれなかった…」",
     ""),
     # ""No one listened again..."
 
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # The bathing girl muttered in a quiet voice, still standing there.
 
-    ("「こんなじ痰ゃ、いつまでたっても、綾∴香さんに追いつけない…」†",
+    ("「こんなじ痰ゃ、いつまでたっても、綾∴香さんに追いつけない…」",
     ""),
     # "No matter how long, no matter how long, no matter how long, I can't keep up with Aya∴Ka..."
 
@@ -170,9 +170,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("しばらくして｢｢。†",
+    ("しばらくして｢｢。",
     ""),
-    # after a while"".†
+    # after a while"".
 
     ("「｢｢あ、あの…。なにか？」",
     ""),
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "Is this a continuation of the story?"
 
-    ("「さっき、エクストなんたらって言いかけて、そこで止まってるだ？」†",
+    ("「さっき、エクストなんたらって言いかけて、そこで止まってるだ？」",
     ""),
     # "I just said, "Ext," but it stopped there?"
 
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # "Ah, um, what is called Extreme Ream?
 
-    ("いったん口を開きかけた彼女だが、なぜか途湯で言葉を切った。†",
+    ("いったん口を開きかけた彼女だが、なぜか途湯で言葉を切った。",
     ""),
-    # The woman almost opened her Fukuguchi, but for some reason she stopped speaking.†
+    # The woman almost opened her Fukuguchi, but for some reason she stopped speaking.
 
     ("「｢｢あの、ひとつ聞いてもいいですか？」",
     ""),
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "Have you been listening to me about this story for so long?"
 
-    ("「ああ、まあ、縺後半からだけどな。たまたまそこを通闥りかかったら、面猪白そうな話をしてたからさ」†",
+    ("「ああ、まあ、縺後半からだけどな。たまたまそこを通闥りかかったら、面猪白そうな話をしてたからさ」",
     ""),
     # "Ah, well, it's from the second half of the day. I happened to start going over there and they were talking about something ugly."
 
@@ -246,9 +246,9 @@ text_array = [
     ""),
     # "Are you doing the hon?!"
 
-    ("蛛大きく目を見開いて言う。†",
+    ("蛛大きく目を見開いて言う。",
     ""),
-    # My eyes wide open.†
+    # My eyes wide open.
 
     ("「つっても、全然詳しくはないぜ。プ鴻ロレスとか、たまーに見たりする程度だから」",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # "What about you? You seem to like Hot more than my geeks?"
 
-    ("すると翌女の子は、強く、蛛大きくうなずいて言った。†",
+    ("すると翌女の子は、強く、蛛大きくうなずいて言った。",
     ""),
-    # The next girl said with a strong, loud nod.†
+    # The next girl said with a strong, loud nod.
 
     ("「はいっ！",
     ""),
@@ -274,9 +274,9 @@ text_array = [
     ""),
     # I love it!”
 
-    ("ちょっぴりボーイッシャな、すがすがしくさわやかな笑顔だった。†",
+    ("ちょっぴりボーイッシャな、すがすがしくさわやかな笑顔だった。",
     ""),
-    # He had a boyish, refreshing, silly face that made him laugh.†
+    # He had a boyish, refreshing, silly face that made him laugh.
 
     ("「いんな技を研結して、何度燗も何度燗も実践して、少しずつ体がそれを覚えていくｊびは、とてもひとことじ痰ゃ言い表せないほどの感動があります。そういうとき、格闘技站やっててよかったって、心から思います」",
     ""),
@@ -286,9 +286,9 @@ text_array = [
     ""),
     # He stares straight at me, walks up, and says in a clear, humble tone of Fu.
 
-    ("なんとなく翌迫力があった。†",
+    ("なんとなく翌迫力があった。",
     ""),
-    # Somehow, the next one was impressive.†
+    # Somehow, the next one was impressive.
 
     ("「ってことは、やっぱ、実際に『やるほう』の格闘技なんだな」",
     ""),
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # "It's a 180-degree difference between tampering and torture in martial arts and actually tampering with it."
 
-    ("「あ、はい、そうです。こっちは『やるほう』の格闘技です。実際に、自分たちで格闘技をやります」†",
+    ("「あ、はい、そうです。こっちは『やるほう』の格闘技です。実際に、自分たちで格闘技をやります」",
     ""),
     # "Ah, yes, that's right. This is a martial arts from "Raraho". In fact, we will tamper with martial arts ourselves."
 
@@ -314,9 +314,9 @@ text_array = [
     ""),
     # A handsome boy is swaying the sparse stomping at the end of the feast, and says, "If that's what you mean, you'll understand, but there's such a small girl who's like this, he's eager to understand.
 
-    ("こり痰ゃたしかに珍しいな。†",
+    ("こり痰ゃたしかに珍しいな。",
     ""),
-    # It's certainly rare to see stiff phlegm.†
+    # It's certainly rare to see stiff phlegm.
 
     ("「あの、すみませんけど、お名前は…？」",
     ""),
@@ -330,9 +330,9 @@ text_array = [
     ""),
     # "Ah, пI'm ""
 
-    ("彼女はこほんと咳払いして背筋を伸ばすと、元気諡よくあいさつした。†",
+    ("彼女はこほんと咳払いして背筋を伸ばすと、元気諡よくあいさつした。",
     ""),
-    # The woman cleared her throat and straightened her spine, and greeted her with a cheerful voice.†
+    # The woman cleared her throat and straightened her spine, and greeted her with a cheerful voice.
 
     ("「諱先﨎日涛学したばかりです、一年Ｃ組、松原葵あおいと申します」",
     ""),
@@ -342,9 +342,9 @@ text_array = [
     ""),
     # He bows his head well, saying his posture.
 
-    ("いまどき珍しいくらいの礼儀正しい子だ。†",
+    ("いまどき珍しいくらいの礼儀正しい子だ。",
     ""),
-    # He's such a polite child that it's rare these days.†
+    # He's such a polite child that it's rare these days.
 
     ("「あ、そうそう、エクストリームについての質竡問でしたよね？」",
     ""),
@@ -358,9 +358,9 @@ text_array = [
     ""),
     # "Extreme Ream refers to the right to select a fighting sport that was held since last year."
 
-    ("「全荘国…選闡手権？」†",
+    ("「全荘国…選闡手権？」",
     ""),
-    # "All the Country...Choice rights?" †
+    # "All the Country...Choice rights?" 
 
     ("「氏去年の試㍽合はテレビでｒ継煬もされましたし、いまはビデオになって撃レンタルもしてますよ。ご存じないですか？」",
     ""),
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "...I've never heard of it tampering."
 
-    ("「うーん、いちおう格闘技界では大¢メジャャーなんですけど、一般の認知度はまだまだ痰低いのかもしれませんね」†",
+    ("「うーん、いちおう格闘技界では大¢メジャャーなんですけど、一般の認知度はまだまだ痰低いのかもしれませんね」",
     ""),
     # "Hmm, I'm a big slut in the martial arts world, but it's still not very well known in the general public, so it's probably not a good idea."
 
@@ -382,9 +382,9 @@ text_array = [
     ""),
     # "picture?"
 
-    ("葵ち痰ゃんはキョトンとした顔をする。†",
+    ("葵ち痰ゃんはキョトンとした顔をする。",
     ""),
-    # Aoi Chisho-chan looks sloppy.†
+    # Aoi Chisho-chan looks sloppy.
 
     ("「だから、そのエクストリームってやつは、どんな格闘技で戦うのか」",
     ""),
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # "Extreme Ream is a fighting sport that passes the Takaso pass."
 
-    ("「香総≡合格闘技？」†",
+    ("「香総≡合格闘技？」",
     ""),
     # "Kaso≡Are you a successful martial arts?"
 
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # "Ahhh."
 
-    ("「蛛大まかにいうとルールはこうです」†",
+    ("「蛛大まかにいうとルールはこうです」",
     ""),
     # "Generally speaking, this is the rules for you to understand"
 
@@ -426,9 +426,9 @@ text_array = [
     ""),
     # A mandatory for the r-eating leg with a large, slimming, high-quality, and r-eating leg.
 
-    ("ＫＯ、もしくはＴＫＯで奄負け。†",
+    ("ＫＯ、もしくはＴＫＯで奄負け。",
     ""),
-    # Amano lost with KO or TKO.†
+    # Amano lost with KO or TKO.
 
     ("ヒジ、額の使用禁止。",
     ""),
@@ -438,17 +438,17 @@ text_array = [
     ""),
     # Prohibits use of knees on the face.
 
-    ("倒齠れた鰍相闡手への打ｑ撃技の禁止。†",
+    ("倒齠れた鰍相闡手への打ｑ撃技の禁止。",
     ""),
-    # Prohibiting q-shot techniques on defeated monkey attacks.†
+    # Prohibiting q-shot techniques on defeated monkey attacks.
 
     ("目を狙った攻ｍ撃竚や、その他相険をともなういくつかの技の使用禁止。",
     ""),
     # Do not use attacks and M-shots that target your eyes, or some other techniques that will also cause you to escapades.
 
-    ("一箞方が寝技を仕かけている限り撃レフェリーによるブレイクはなし。†",
+    ("一箞方が寝技を仕かけている限り撃レフェリーによるブレイクはなし。",
     ""),
-    # There is no real bounce by the Referee Raylee, who is using a ground technique.†
+    # There is no real bounce by the Referee Raylee, who is using a ground technique.
 
     ("「極力頼険を押さえた上で、多岺種多様な技術を必要とする格闘技、それがエクストリームなんです！」",
     ""),
@@ -458,9 +458,9 @@ text_array = [
     ""),
     # "Ohh!"
 
-    ("その瞬間、葵ち痰ゃんの背白から燃え上がる鰍炎が≠吹き上がった｢｢黽かのように見えた。†",
+    ("その瞬間、葵ち痰ゃんの背白から燃え上がる鰍炎が≠吹き上がった｢｢黽かのように見えた。",
     ""),
-    # At that moment, the choy flames erupted from Aoi Chisho-chan's back, blew up and blew "It looked like a snake."†
+    # At that moment, the choy flames erupted from Aoi Chisho-chan's back, blew up and blew "It looked like a snake."
 
     ("「…とこで、諱先輩は、なにか部賦動はおやりになられてますか？」",
     ""),
@@ -486,9 +486,9 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("葵ち痰ゃんの表﨣情がさらに明髢るくなった。†",
+    ("葵ち痰ゃんの表﨣情がさらに明髢るくなった。",
     ""),
-    # Aoi Chisho-chan's public sentiment became even more clear.†
+    # Aoi Chisho-chan's public sentiment became even more clear.
 
     ("「じ痰ゃ、じ痰ゃあ、もしよしかったら｢｢」",
     ""),
@@ -514,17 +514,17 @@ text_array = [
     ""),
     # "yes!"
 
-    ("蛛大きくうなずく。†",
+    ("蛛大きくうなずく。",
     ""),
-    # Nodded loudly.†
+    # Nodded loudly.
 
     ("「п私、このたび新しくエクストリーム出齒場を前提とした同好拷をｍ高うと思ってるんです。",
     ""),
     # "I am thinking of raising the same torture assuming the new Extreme Ream launching space.
 
-    ("ですが、学校の魔許可をもらうには、まだまだ部員蝿数が足闡りなくて…。ですから、格闘技に興味のある方を捜してたんです！」†",
+    ("ですが、学校の魔許可をもらうには、まだまだ部員蝿数が足闡りなくて…。ですから、格闘技に興味のある方を捜してたんです！」",
     ""),
-    # However, there are still not many flies between the members of the club to get permission from the school...That's why I was looking for Fukukata, who was interested in martial arts!”†
+    # However, there are still not many flies between the members of the club to get permission from the school...That's why I was looking for Fukukata, who was interested in martial arts!”
 
     ("「…ちょ、ちょっと待った！	格闘技なんて、オレ、ごっこ遊び程度しかやったことがないんだぜ」",
     ""),
@@ -538,9 +538,9 @@ text_array = [
     ""),
     # "That kind of tampering questioning is phlegm..."
 
-    ("オレは小声でつぶやいた。†",
+    ("オレは小声でつぶやいた。",
     ""),
-    # I muttered in a low voice.†
+    # I muttered in a low voice.
 
     ("「あの、こんなに真武剣に話を聞いてくれた人は、諱先輩が奄初めてで、п私｢｢」",
     ""),
@@ -550,9 +550,9 @@ text_array = [
     ""),
     # "Oh, that just happens..."
 
-    ("オレは苦笑した。†",
+    ("オレは苦笑した。",
     ""),
-    # I gave a wry smile.†
+    # I gave a wry smile.
 
     ("「諱先輩は、格闘技にもかなり興味がおありになりそうですし、％箔部してくださればすごく心強いです」",
     ""),
@@ -562,7 +562,7 @@ text_array = [
     ""),
     # Well, I'm off.
 
-    ("「んなこと、いきなり言甯われても…」†",
+    ("「んなこと、いきなり言甯われても…」",
     ""),
     # "That's what happened, and the hot weather was suddenly heard..."
 
@@ -578,7 +578,7 @@ text_array = [
     ""),
     # "The club room and physical training camp are still unavailable, but after the school, we practice fortune at the shrine behind V Inmata A School except for Monday and P Yong-Kun Day."
 
-    ("「あんなとこでかよ？」†",
+    ("「あんなとこでかよ？」",
     ""),
     # "Is that what?"
 
@@ -594,17 +594,17 @@ text_array = [
     ""),
     # I'm asked to do it, so I'm not sure what to do...
 
-    ("ひたむきさはビリビリと伝崧わってくるし、一生恊懸命なのはよくわかるが、だからって、オレに格闘技なんてできるわけないし。†",
+    ("ひたむきさはビリビリと伝崧わってくるし、一生恊懸命なのはよくわかるが、だからって、オレに格闘技なんてできるわけないし。",
     ""),
-    # His devotedness comes from Bigata Livita Livita Livita Li, and I can see that he is working hard for the rest of his life, but that's not the case that he can do martial arts in a real way.†
+    # His devotedness comes from Bigata Livita Livita Livita Li, and I can see that he is working hard for the rest of his life, but that's not the case that he can do martial arts in a real way.
 
     ("ましてや、そのエクストリームって大痩にｌけての同好拷なんて、意気梛込みがすごそうじ痰ゃないか。",
     ""),
     # What's more, the fact that Extreme Rame is a huge torture of being tortured by a huge amount of skinny is a huge amount of energy, so it's not a huge phlegm to be able to cleanse it.
 
-    ("葵ち痰ゃん以外にもごっつい連中が、何人熕も集まってそうだし。†",
+    ("葵ち痰ゃん以外にもごっつい連中が、何人熕も集まってそうだし。",
     ""),
-    # In addition to Aoi Chisho-ya, there are probably a number of people who are also very busy with hot water, and many other people gathered there.†
+    # In addition to Aoi Chisho-ya, there are probably a number of people who are also very busy with hot water, and many other people gathered there.
 
     ("さて、ここは、どう嘯答えたものか。",
     ""),

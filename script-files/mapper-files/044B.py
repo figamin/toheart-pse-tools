@@ -2,9 +2,9 @@
 # Source file: 044B.txt
 
 text_array = [
-    ("（志保	好感度イベントＸ）閨（選択綜	１問目	宦○）閨（ＳＥ：ピンポンピンポーン）†",
+    ("（志保	好感度イベントＸ）閨（選択綜	１問目	宦○）閨（ＳＥ：ピンポンピンポーン）",
     ""),
-    # (Shiho Likeability Event X) (Select Sou 1st Temptation Question) (SE: Ping Pong Pong) †
+    # (Shiho Likeability Event X) (Select Sou 1st Temptation Question) (SE: Ping Pong Pong) 
 
     ("ピンポンピンポーン！",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Don't do it! This is a great victory."
 
-    ("「むむむむ…」†",
+    ("「むむむむ…」",
     ""),
     # "Hmmm..."
 

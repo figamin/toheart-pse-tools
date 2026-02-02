@@ -2,9 +2,9 @@
 # Source file: 0497.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階２）閨（選択綜	ダ＜メ）†",
+    ("（志保	回秤数イベント	１階２）閨（選択綜	ダ＜メ）",
     ""),
-    # (Shiho Scales Event, 1st floor 2) (Selection Scales)†
+    # (Shiho Scales Event, 1st floor 2) (Selection Scales)
 
     ("「ダ＜メダ＜メ。今厓日はオレ、用があるかんな」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "yes…"
 
-    ("あかりはぎこちなく微笑んだ。†",
+    ("あかりはぎこちなく微笑んだ。",
     ""),
-    # Akari smiled awkwardly.†
+    # Akari smiled awkwardly.
 
     ("「わりぃな」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Now, I'll go home too."
 
-    ("そうつぶやいたとき、†",
+    ("そうつぶやいたとき、",
     ""),
     # When I muttered that,
 
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "Is it really hard?"
 
-    ("「あんたしかいないでしょ」†",
+    ("「あんたしかいないでしょ」",
     ""),
-    # "You're the only one there" †
+    # "You're the only one there" 
 
     ("オレは｢｢。",
     ""),

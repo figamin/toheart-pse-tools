@@ -2,9 +2,9 @@
 # Source file: 018B.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	帰闍り道）閨（選択綜Ｂ	暇だったらな）†",
+    ("（あかり	回秤数イベント	帰闍り道）閨（選択綜Ｂ	暇だったらな）",
     ""),
-    # (Akari Scales Event Returning Road) (If you're free) †
+    # (Akari Scales Event Returning Road) (If you're free) 
 
     ("「暇だったらな」",
     ""),

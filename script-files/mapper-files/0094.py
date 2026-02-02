@@ -2,9 +2,9 @@
 # Source file: 0094.txt
 
 text_array = [
-    ("（冝期槙末テスト	４冾日目）閨（選択綜	最悪）†",
+    ("（冝期槙末テスト	４冾日目）閨（選択綜	最悪）",
     ""),
-    # (4th day of the final test for the ritual period) (Selection, worst)†
+    # (4th day of the final test for the ritual period) (Selection, worst)
 
     ("「もうだめ、最悪」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Yeah! What? Well!"
 
-    ("同類を見つけ、志保は大相びする。†",
+    ("同類を見つけ、志保は大相びする。",
     ""),
-    # Shiho finds a similar person and ecstasys.†
+    # Shiho finds a similar person and ecstasys.
 
     ("「オ＜メーもかよ…。ちっとも嬉しくねー」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # With that in mind, Shiho slapped me on the shoulder.
 
-    ("果たしてどうなるのか、結果が出髀るまではわからねーけど。†",
+    ("果たしてどうなるのか、結果が出髀るまではわからねーけど。",
     ""),
-    # I don't know what will happen until the results come out.†
+    # I don't know what will happen until the results come out.
 
     ("「ああ、悪夢だ…」",
     ""),

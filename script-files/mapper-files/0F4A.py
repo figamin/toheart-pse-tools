@@ -2,17 +2,13 @@
 # Source file: 0F4A.txt
 
 text_array = [
-    ("（３月２９冾日	土）閨（堰ラジオ	４回目）閨（堰ラジオのためにこの夜はある）閨（堰ラジオ聞いた場㍼合）†",
+    ("（３月２９冾日	土）閨（堰ラジオ	４回目）閨（堰ラジオのためにこの夜はある）閨（堰ラジオ聞いた場㍼合）",
     ""),
-    # (Saturday, March 29th) (4th time of the weir radio) (There is this night for the weir radio) (There is a place where I listened to the weir radio) (There is a place where I listened to the weir radio) †
+    # (Saturday, March 29th) (4th time of the weir radio) (There is this night for the weir radio) (There is a place where I listened to the weir radio) (There is a place where I listened to the weir radio) 
 
-    ("堰ラジオのスイッチを入齠れた。†",
+    ("堰ラジオのスイッチを入齠れた。",
     ""),
-    # I turned on the weir radio.†
-
-    ("・",
-    ""),
-    # ・
+    # I turned on the weir radio.
 
     ("・",
     ""),
@@ -26,9 +22,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
     ("おでんスープスパゲティーか…。",
     ""),

@@ -2,13 +2,13 @@
 # Source file: 04F0.txt
 
 text_array = [
-    ("（志保	好感度型回秤数イベントＰＳ）†",
+    ("（志保	好感度型回秤数イベントＰＳ）",
     ""),
-    # (Shiho Likeability Type Scales Event PS)†
+    # (Shiho Likeability Type Scales Event PS)
 
-    ("トイレから出たオレは、洗ったあとの手を振ってｐを切っていた。†",
+    ("トイレから出たオレは、洗ったあとの手を振ってｐを切っていた。",
     ""),
-    # I came out of Toy Gekire, and after washing, I waved my hand and cut off the p.†
+    # I came out of Toy Gekire, and after washing, I waved my hand and cut off the p.
 
     ("すると、志保がやってきて、",
     ""),
@@ -18,17 +18,17 @@ text_array = [
     ""),
     # "Oh, I'm tired."
 
-    ("「あんだよ」†",
+    ("「あんだよ」",
     ""),
-    # "Oh no" †
+    # "Oh no" 
 
     ("「あんた、土曜の夜はヒマ諠よね？	あたしにつき№合って」",
     ""),
     # "You're a bit of free time on Saturday nights, right? You're right for me."
 
-    ("「やだね」†",
+    ("「やだね」",
     ""),
-    # "I don't want to go" †
+    # "I don't want to go" 
 
     ("「なによう、人がせっかく誘ってんのにィ」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Uzono Nitto Foxo"
 
-    ("「はあ？	あの、コー堰ラ飲んで行くやつか？」†",
+    ("「はあ？	あの、コー堰ラ飲んで行くやつか？」",
     ""),
     # "Huh? Um, is it a tampering with Kouyura?"
 
@@ -62,17 +62,17 @@ text_array = [
     ""),
     # Mercury and Mars, and many other stars.
 
-    ("志保は何竕やらオレにも聞き覚えのある単語を口にする。†",
+    ("志保は何竕やらオレにも聞き覚えのある単語を口にする。",
     ""),
-    # Shiho utters a few simple words that even Koto has heard familiar to him.†
+    # Shiho utters a few simple words that even Koto has heard familiar to him.
 
     ("「ああ…、そーいやテレビでＣＭやってるな」",
     ""),
     # "Ah... you're tampering with the commercials with so much tampering and intense TV revival."
 
-    ("宇薗船に乗って、太陽系の名竃所をр巡髀るってアトラクションだったな。†",
+    ("宇薗船に乗って、太陽系の名竃所をр巡髀るってアトラクションだったな。",
     ""),
-    # It was easy to get on a Uzono ship and travel around famous solar system sites.†
+    # It was easy to get on a Uzono ship and travel around famous solar system sites.
 
     ("「｢｢の、ペアのチケットを手に入齠れたのよ。",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # So, I thought it would be nice to go with you and Hot."
 
-    ("「あかりと行ってくり痰ゃいいだ」†",
+    ("「あかりと行ってくり痰ゃいいだ」",
     ""),
     # "I'd love to go with Akari and get some phlegm b"
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Um, seriously, there's no way I'll go to Uen b."
 
-    ("「まあ、それはジョークだとしてぇ、これって土曜の夜からのオールナイトだから、出かけられないってさ」†",
+    ("「まあ、それはジョークだとしてぇ、これって土曜の夜からのオールナイトだから、出かけられないってさ」",
     ""),
     # "Well, that's a Zikke, but this is an all-night event starting on Saturday night, so I can't go out."
 
@@ -110,15 +110,15 @@ text_array = [
     ""),
     # "Nooooo, too, 4-framed timer, right?"
 
-    ("休匤日の前咜日はオールナイトで特別長いのをやってるって、そういやＣＭでも言ってたな。†",
+    ("休匤日の前咜日はオールナイトで特別長いのをやってるって、そういやＣＭでも言ってたな。",
     ""),
-    # On the day of the holiday, Maeke Day, they're all night and are tampering with a special long one, and they even said that in the commercials they're tampering with.†
+    # On the day of the holiday, Maeke Day, they're all night and are tampering with a special long one, and they even said that in the commercials they're tampering with.
 
     ("「なんかさ、宇薗船のｒは勝闖手に歩き回っていいんだって。でね、窓には宇薗が映ってて、すっごくいいムード」",
     ""),
     # "It's a bit like that, the Uzono ship's r is OK to walk around with Katsuren in his hand. And Uzono is reflected in the window, making it a really nice mood."
 
-    ("「ムード？」†",
+    ("「ムード？」",
     ""),
     # "Mood?"
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "Most of them are crying, and they're fond of people without anyone looking at them. I wonder if I'm also cheating on you too?"
 
-    ("「あのなぁ…」†",
+    ("「あのなぁ…」",
     ""),
-    # "Um..." †
+    # "Um..." 
 
     ("「土星の輪っかとかも、すごいらしいわよ〜」",
     ""),
@@ -146,17 +146,17 @@ text_array = [
     ""),
     # "It's worth watching..."
 
-    ("「どうする？	行く？	行かない？」†",
+    ("「どうする？	行く？	行かない？」",
     ""),
-    # "What should I do? Go? Don't you go?"†
+    # "What should I do? Go? Don't you go?"
 
     ("…待てよ、たしか冾日曜は撃レミィとデートの約束してたぞ。",
     ""),
     # ...Wait, I'm sure I had a date with Geki Remy on Sunday.
 
-    ("朝まで遊んでたら、その冾日のデートは確実にキャャンセルってことになる。†",
+    ("朝まで遊んでたら、その冾日のデートは確実にキャャンセルってことになる。",
     ""),
-    # If you play until morning, you'll definitely end up crying on your date.†
+    # If you play until morning, you'll definitely end up crying on your date.
 
     ("オレは｢｢。",
     ""),

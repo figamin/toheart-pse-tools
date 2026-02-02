@@ -2,9 +2,9 @@
 # Source file: 089D.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	鐘）†",
+    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	鐘）",
     ""),
-    # (Game Remy Scale Event 2nd Floor 4 LV1) (Selection Bell)†
+    # (Game Remy Scale Event 2nd Floor 4 LV1) (Selection Bell)
 
     ("「わかった。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's a bell."
 
-    ("お宸寺の鐘が小さくなっただけだ。†",
+    ("お宸寺の鐘が小さくなっただけだ。",
     ""),
-    # The hot bell at Otsuji Temple has just become smaller.†
+    # The hot bell at Otsuji Temple has just become smaller.
 
     ("「瘁違いマース！」",
     ""),
@@ -42,17 +42,17 @@ text_array = [
     ""),
     # This is my first time hearing about Amami.
 
-    ("くぅ〜っ、いきなりややこしいっ！†",
+    ("くぅ〜っ、いきなりややこしいっ！",
     ""),
-    # Damn it, it's all suddenly tampering and confusing!†
+    # Damn it, it's all suddenly tampering and confusing!
 
     ("「レミィ、潤ワンｃモアチャャンス！」",
     ""),
     # "Great Remy, Jun One C More Chaance!"
 
-    ("「ＯＫ！」†",
+    ("「ＯＫ！」",
     ""),
-    # "OK!" †
+    # "OK!" 
 
     ("その冾日の帰闍りは、結局、クイズ蜒大痩で終尞わってしまった。◯",
     ""),

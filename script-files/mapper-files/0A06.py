@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "He came to Katakiuchi because he bullied my sister, phlegm."
 
-    ("まったく物おじせず、そう嘯答えた。†",
+    ("まったく物おじせず、そう嘯答えた。",
     ""),
-    # He replied without any disrespect,†
+    # He replied without any disrespect,
 
     ("「敵討ち？」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # Maybe you're confused with someone else?”
 
-    ("「｢｢だ、そうだぞ、坊蝟主？」†",
+    ("「｢｢だ、そうだぞ、坊蝟主？」",
     ""),
     # "'Yes, that's right, Lord Boku?"
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # The brat put out the man's name.
 
-    ("「そっか、っつーпヤツか。…って、それ、オレじ痰ゃねーか」†",
+    ("「そっか、っつーпヤツか。…って、それ、オレじ痰ゃねーか」",
     ""),
-    # "I see, is that ahhhhh?...Is that really something to phlegm?" †
+    # "I see, is that ahhhhh?...Is that really something to phlegm?" 
 
     ("「なにっ！？	それじ痰ゃ、おまえがそうか！",
     ""),
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Ah, wait a moment. Oh, I don't remember being a huge hit, it's a different person."
 
-    ("「とぼけるきか、ひきょうものめ！」†",
+    ("「とぼけるきか、ひきょうものめ！」",
     ""),
     # "Are you silly? A little silly thing!"
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "...I'm super excited."
 
-    ("「たおす！！」†",
+    ("「たおす！！」",
     ""),
-    # "Taos!!" †
+    # "Taos!!" 
 
     ("「だ、だから、待てっつってんだ？	マジで知迺らねーって」",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "Uhh..."
 
-    ("つってもこのガキ、おとなしく引きさがりそうもねえ顔してやがる。†",
+    ("つってもこのガキ、おとなしく引きさがりそうもねえ顔してやがる。",
     ""),
-    # And this kid is quietly trying to pull him off, but he's still trying to keep his face down.†
+    # And this kid is quietly trying to pull him off, but he's still trying to keep his face down.
 
     ("「わ、わかった。じ痰ゃあ、こうする。今度、お前の姉ち痰ゃんにったとき、悪かったって謝っておくよ」",
     ""),
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "Really?"
 
-    ("「あ、ああ、約束するって」†",
+    ("「あ、ああ、約束するって」",
     ""),
     # "Ah, oh, I promise"
 
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "I understand."
 
-    ("オレははっきりうなずいた。†",
+    ("オレははっきりうなずいた。",
     ""),
-    # My head nodded clearly.†
+    # My head nodded clearly.
 
     ("「もし、やくそくをやぶったら、こんどこそたおすぞ、」",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # "It's definitely!"
 
-    ("良太と名譁乗ったガキンチョは、どすどすと帰っていった。†",
+    ("良太と名譁乗ったガキンチョは、どすどすと帰っていった。",
     ""),
-    # The gangster who had been riding Ryota was carried away, quickly headed home.†
+    # The gangster who had been riding Ryota was carried away, quickly headed home.
 
     ("「姉ち痰ゃんって、誰のこと？」",
     ""),

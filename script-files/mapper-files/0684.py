@@ -2,9 +2,9 @@
 # Source file: 0684.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ａ	やっぱ、そうか？）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ａ	やっぱ、そうか？）",
     ""),
-    # (Makyuruchi, Scales Event 2F LV1) (Select A, Is that so after all?)†
+    # (Makyuruchi, Scales Event 2F LV1) (Select A, Is that so after all?)
 
     ("「やっぱ、そうか？」",
     ""),
@@ -18,16 +18,16 @@ text_array = [
     ""),
     # Well, sometimes I think that I'm super excited, or that I'm a surprisingly kind guy or a hot guy.
 
-    ("マルチみたいな素直なрヤツに、こうもはっきり言甯われると、さすがに照齒れるぜ。†",
+    ("マルチみたいな素直なрヤツに、こうもはっきり言甯われると、さすがに照齒れるぜ。",
     ""),
-    # When someone like a straightforward guy like a cry of a cry, he was clearly stated, and it was really touched.†
+    # When someone like a straightforward guy like a cry of a cry, he was clearly stated, and it was really touched.
 
     ("「やっぱ、掾持ち前の人の良さみたいなもんが出ちまうんだーなァ…、｢｢とかなんとか言ってみたりして」",
     ""),
     # "After all, there are some hotties that look like the goodness of a natural person... "You should say something like ".
 
-    ("オレは鼻の頭を掻きながら言った。†",
+    ("オレは鼻の頭を掻きながら言った。",
     ""),
-    # I said, scratching the head of my nose.†
+    # I said, scratching the head of my nose.
 
 ]

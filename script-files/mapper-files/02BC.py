@@ -2,17 +2,17 @@
 # Source file: 02BC.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ａ	話しかける）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ａ	話しかける）",
     ""),
-    # (Seri°Kawa, Scales Event, Return Road, LV2)Seri (Select Sou A, Talk)†
+    # (Seri°Kawa, Scales Event, Return Road, LV2)Seri (Select Sou A, Talk)
 
     ("せっかく見つけたのに、声熕もかけずに立ち去驪るのもなんだよな。",
     ""),
     # Even though I found it, I was standing there and leaning away without even making a sound.
 
-    ("諱よし、に入って話しかけよう。†",
+    ("諱よし、に入って話しかけよう。",
     ""),
-    # Okay, let's join  and talk to you.†
+    # Okay, let's join  and talk to you.
 
     ("そう思って足を踏み出したとき、背白から声をかけられた。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Yeah, JR..."
 
-    ("言いながら、振關り返髟ると。†",
+    ("言いながら、振關り返髟ると。",
     ""),
-    # As I said, I shouted back.†
+    # As I said, I shouted back.
 
     ("「かああああああぁぁぁぁぁぁぁぁ〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ッ！！！」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "!"
 
-    ("じじいのモしい一喝が、オレの鼓血膜をビリビリと震岦わせた。†",
+    ("じじいのモしい一喝が、オレの鼓血膜をビリビリと震岦わせた。",
     ""),
-    # My grandfather's intense thud made my bloody blood membranes shining.†
+    # My grandfather's intense thud made my bloody blood membranes shining.
 
     ("「どこの馬の怩骨かと思えばまた貴様かっ、小僧っ！」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # He was a well-known old man with a tuna that was unrequited.
 
-    ("「こ、このくそじじい〜…。誰かも確認せず、怒鳴りつけてんのか」†",
+    ("「こ、このくそじじい〜…。誰かも確認せず、怒鳴りつけてんのか」",
     ""),
     # "Hey, this damn old man... Is anyone yelling at me without checking the hot one?"
 
@@ -58,17 +58,17 @@ text_array = [
     ""),
     # "Yes, you're a kind and unsatisfied person who is the common people, and you're not approaching O-sama in a friendly way! Do you want to hold your body in your head, take your body in your head! Now, I'm back home!"
 
-    ("まるでイヌでも追っ払うかのように、シッシッと手を振髏る。†",
+    ("まるでイヌでも追っ払うかのように、シッシッと手を振髏る。",
     ""),
-    # He waved his hand, as if he was a dog to chase away the hot springs.†
+    # He waved his hand, as if he was a dog to chase away the hot springs.
 
     ("「なんだよ、いいだ。オレはただ、諱先輩にあいさつしようと思っただけだ。あんたに用はねーんだよ」",
     ""),
     # "What is it, okay? B. I just wanted to say hello to my senior. I have no use for you."
 
-    ("そう言ってオレが行こうとすると、じじいが目の前に立ちはだかった。†",
+    ("そう言ってオレが行こうとすると、じじいが目の前に立ちはだかった。",
     ""),
-    # As I said that, my grandfather stood in front of me.†
+    # As I said that, my grandfather stood in front of me.
 
     ("「小僧、冝日本齧語が理解できぬと見えるな！」",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # When I hit the left...
 
-    ("「ふぬッ！」†",
+    ("「ふぬッ！」",
     ""),
     # "Hmm!"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # When I hit the right...
 
-    ("「ふんぬッ！」†",
+    ("「ふんぬッ！」",
     ""),
     # "Hmm!"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # If I say that I'm going to pass through my left again...
 
-    ("「とうああああああああぁぁぁぁぁ〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ッ！！」†",
+    ("「とうああああああああぁぁぁぁぁ〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ッ！！」",
     ""),
     # "Aaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # Damn it, old man, are you just trying to do my crazy jerk?
 
-    ("オレも意地になってきた。†",
+    ("オレも意地になってきた。",
     ""),
-    # My hard work is getting stubborn too.†
+    # My hard work is getting stubborn too.
 
     ("諱よーし、こうなったら…。",
     ""),

@@ -2,7 +2,7 @@
 # Source file: 00C3.txt
 
 text_array = [
-    ("（５月１冾日	朝）閨（自分の部屋）†",
+    ("（５月１冾日	朝）閨（自分の部屋）",
     ""),
     # (May 1st day of the month of the month) (morning) (morning room)
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # ...It's already morning.
 
-    ("５月最燕初の朝は、眠かった…。†",
+    ("５月最燕初の朝は、眠かった…。",
     ""),
-    # I was sleepy on the first morning of May Shizuki...†
+    # I was sleepy on the first morning of May Shizuki...
 
     ("「今厓日から５月だね」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "That's right."
 
-    ("「こんなに天気のいい冾日は、学校行くよりも、どこか遊びに行きたくなるね」†",
+    ("「こんなに天気のいい冾日は、学校行くよりも、どこか遊びに行きたくなるね」",
     ""),
     # "On such a nice day, it makes me want to go out and play somewhere rather than going to school."
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "I don't have to cleanse it, but..."
 
-    ("「なんだ。いっしょに海の見える公園にでも行って、のんびりしようかと思ったのに」†",
+    ("「なんだ。いっしょに海の見える公園にでも行って、のんびりしようかと思ったのに」",
     ""),
     # "What? I was thinking of going to a park with a view of the sea at the beach and relaxing."
 
@@ -58,8 +58,8 @@ text_array = [
     ""),
     # "Ah, delinquent."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
 ]

@@ -2,25 +2,25 @@
 # Source file: 02A1.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（選択綜Ａ	近寄って声をかける）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（選択綜Ａ	近寄って声をかける）",
     ""),
-    # (Seri°Kawa, Scale Scale Event 1F LV1)Seri (Seri A, approach and call)†
+    # (Seri°Kawa, Scale Scale Event 1F LV1)Seri (Seri A, approach and call)
 
-    ("オレは近寄って声をかけることにした。†",
+    ("オレは近寄って声をかけることにした。",
     ""),
-    # I decided to approach and call out to him.†
+    # I decided to approach and call out to him.
 
-    ("渡闢り廊下を通ってｒ鋳へ出髀る。†",
+    ("渡闢り廊下を通ってｒ鋳へ出髀る。",
     ""),
-    # Pass through the corridor and head out to the r-casting.†
+    # Pass through the corridor and head out to the r-casting.
 
     ("諱先輩は開いた本をひざに乗せ、黙々と本を読んでいた。",
     ""),
     # Senpai put the open book on his lap and read it silently.
 
-    ("艨ゆるやかな翌風にきれいな髪がなびいている。†",
+    ("艨ゆるやかな翌風にきれいな髪がなびいている。",
     ""),
-    # Beautiful hair flutters in the gentle, gentle ending wind.†
+    # Beautiful hair flutters in the gentle, gentle ending wind.
 
     ("冝放課繪後のｒ鋳で、ひとり読蒼書か。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # It's picturesque.
 
-    ("こうして見骭ると、さすがおｏ様だって感じだよな。†",
+    ("こうして見骭ると、さすがおｏ様だって感じだよな。",
     ""),
-    # When I look at it like this, I can see that it's just like O-san.†
+    # When I look at it like this, I can see that it's just like O-san.
 
     ("オレは目の前に行き、声をかけた。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # Senpai lifted his face and looked at me.
 
-    ("じっと見つめる。†",
+    ("じっと見つめる。",
     ""),
-    # I stare at him.†
+    # I stare at him.
 
     ("「諱よっ、なに読んでんの？」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "What is it, an overview of Yuzuna? Haha, the books you're reading are so unbeatable."
 
-    ("オレは苦笑し、図々しく横に座った。†",
+    ("オレは苦笑し、図々しく横に座った。",
     ""),
-    # I smiled wryly and sat beside her beloved.†
+    # I smiled wryly and sat beside her beloved.
 
     ("「諱よく、ここで本とか読んでんの？」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Hmm..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「とこで今厓日は部賦はないの？	休み？」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # After all, O-san has a lot of money, so it's tough for me to be a big bud."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「はー…」",
     ""),
@@ -134,17 +134,17 @@ text_array = [
     ""),
     # "And that's why it's a good day for Hot."
 
-    ("目を細めて空を見骭る。†",
+    ("目を細めて空を見骭る。",
     ""),
-    # I squinted my eyes and looked at the sky.†
+    # I squinted my eyes and looked at the sky.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("諱先輩熹もオレにあわせて空を見上げた。†",
+    ("諱先輩熹もオレにあわせて空を見上げた。",
     ""),
-    # Senpai Kei also made me smack and looked up at the sky.†
+    # Senpai Kei also made me smack and looked up at the sky.
 
     ("うららかな午後。",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # From afar, I can hear the throbbing after the school was erected.
 
-    ("風が≠吹いて、諱先輩の髪がさらさら曹舞った。†",
+    ("風が≠吹いて、諱先輩の髪がさらさら曹舞った。",
     ""),
-    # The bathing atmosphere blew, and my senior's hair fluttered into a smooth, serene dance.†
+    # The bathing atmosphere blew, and my senior's hair fluttered into a smooth, serene dance.
 
     ("なんだうな。",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # It's like I've been doing it like this forever and it's nice to have hot water...
 
-    ("とはいえ、それはそれで変なので、オレは話を振髏ることにした。†",
+    ("とはいえ、それはそれで変なので、オレは話を振髏ることにした。",
     ""),
-    # That being said, it was strange, so I decided to throw away the topic.†
+    # That being said, it was strange, so I decided to throw away the topic.
 
     ("「とこでさ、諱先輩って｢｢」",
     ""),

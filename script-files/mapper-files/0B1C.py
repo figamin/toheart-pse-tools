@@ -2,9 +2,9 @@
 # Source file: 0B1C.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント１	縺後半）閨（綾∴香	左	＝普通）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント１	縺後半）閨（綾∴香	左	＝普通）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, battle for Aya∴Ka, balance number event 1, second half of the month) (Aya∴Ka, left = normal)†
+    # (Aya∴Ka challenges Aya∴Ka, battle for Aya∴Ka, balance number event 1, second half of the month) (Aya∴Ka, left = normal)
 
     ("「とこで、どうなの？	少しくらい、п私に勝てる見梃込みはあるの？」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Hahaha, I don't understand it."
 
-    ("「…なにが？」†",
+    ("「…なにが？」",
     ""),
-    # "...What?"†
+    # "...What?"
 
     ("「そんなに甘いものじ痰ゃないのよ、格闘技は。ましてやこのр私が鰍相闡手なのよ？	デタラ＜メに戦ってたんじ痰ゃ、一生かかったってカスリもしないでしょうね」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Yeah. Well, if you try it, you'll understand."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("じつはあれから、少しだが練習をした。",
     ""),
@@ -46,17 +46,17 @@ text_array = [
     ""),
     # I did some hard training with push ups and abdominal muscles, and even did some Shadow Boxing.
 
-    ("おかげで少し筋肉痛である。†",
+    ("おかげで少し筋肉痛である。",
     ""),
-    # Thanks to this, I feel a little bit of muscle pain.†
+    # Thanks to this, I feel a little bit of muscle pain.
 
     ("もちん、その程度で綾∴香謐より強くなったとは思えないが、要はたった一発だ。力ずくで奪えなくもない。",
     ""),
     # I don't think that that's enough, but it's only stronger than Aya∴Kami, but in short, it's just one shot.I couldn't take it with force and there was no heat.
 
-    ("男の腕力を思い知迺らせてやる。†",
+    ("男の腕力を思い知迺らせてやる。",
     ""),
-    # He understands the man's strength and tampers with him.†
+    # He understands the man's strength and tampers with him.
 
     ("「それじ痰ゃ、そそ始めるわよ」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Segata Rio, please Ghoo Robe."
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("セリオは、掾持っていたスポーツバッグのｒから赤と青のグ鴻ローブを取り出した。",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Yes, go ahead and do that."
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
     ("グ鴻ローブは少し特齠殊な形だった。",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # I thought he was a guy who threw himself in boxing exercises.
 
-    ("殴って…いいのか。†",
+    ("殴って…いいのか。",
     ""),
-    # Is it okay to hit him?†
+    # Is it okay to hit him?
 
     ("いや、梶相闡手は空闍手の熟繒練者だ。",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # If you refrain from doing anything, you'll end up being tampered with in no time.
 
-    ("これはもうスポーツだと、п割闃り切垂う。†",
+    ("これはもうスポーツだと、п割闃り切垂う。",
     ""),
-    # This is a sport, so it's a bit of a hit.†
+    # This is a sport, so it's a bit of a hit.
 
     ("「こっちは準備オッケー諱よ」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "Ah, it's a bang."
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
     ("「いい？	そっちは一発でもヒットさせれば勝ち。こっちはそっちがギブアップするか、ＫＯさせれば勝ち」",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # I looked into my eyes and said.
 
-    ("「？」†",
+    ("「？」",
     ""),
-    # "?"†
+    # "?"
 
     ("「素人叶相闡手に大人げないかも知れないけど、氈勝縁負と名がつくからは、п私燻も本気でやらせてもらうわよ」",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # "He's a boy. He's a little painful, so I can't resist the hot springs, yelling?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("へっ、おどしのつもりかよ。",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # I drank my tsuba and clenched my jean tightly.
 
-    ("「…レディ｢｢」†",
+    ("「…レディ｢｢」",
     ""),
-    # "...Who Lady """†
+    # "...Who Lady """
 
     ("「………」",
     "…"),
@@ -246,9 +246,9 @@ text_array = [
     ""),
     # "Fight"
 
-    ("始まった！†",
+    ("始まった！",
     ""),
-    # It's begun!†
+    # It's begun!
 
     ("どう出髀る！？",
     ""),

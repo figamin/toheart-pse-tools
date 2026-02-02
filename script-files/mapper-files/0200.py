@@ -2,9 +2,9 @@
 # Source file: 0200.txt
 
 text_array = [
-    ("（芹°香	冝日付イベント１）閨（３月４冾日）閨（１桙時間目の休み桙時間）閨（廊下）†",
+    ("（芹°香	冝日付イベント１）閨（３月４冾日）閨（１桙時間目の休み桙時間）閨（廊下）",
     ""),
-    # (Chri °Chris Date Event 1)Chris (3rd Lion Day, 4th Day)Chris (1st Floor Time)Chris (Chris)†
+    # (Chri °Chris Date Event 1)Chris (3rd Lion Day, 4th Day)Chris (1st Floor Time)Chris (Chris)
 
     ("１桙時間目の休み桙時間。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # There's no essay, so I'll start again.
 
-    ("引き返そうとしたとき。†",
+    ("引き返そうとしたとき。",
     ""),
-    # When I was about to turn back.†
+    # When I was about to turn back.
 
     ("かたん…。",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # When I heard the song of Oto no Fukukata, a female student next door stood alone in the classroom, which I thought there was no one there.
 
-    ("「あ」†",
+    ("「あ」",
     ""),
-    # "a"†
+    # "a"
 
     ("＠栖瑞さんだった。",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # What are you doing on your own?
 
-    ("ま、いいや、とにかく本を返すとしよう。†",
+    ("ま、いいや、とにかく本を返すとしよう。",
     ""),
-    # Well, let's just say it's a bit of a joke, or just return the book.†
+    # Well, let's just say it's a bit of a joke, or just return the book.
 
     ("「＠栖瑞さん」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "?"
 
-    ("声に気が付き、諱先輩熹もこっちをｌく。†",
+    ("声に気が付き、諱先輩熹もこっちをｌく。",
     ""),
-    # I noticed the voice and my senior name was also leapt over me.†
+    # I noticed the voice and my senior name was also leapt over me.
 
     ("「………」",
     "…"),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # "Hello, I'm a B-man from a year when I bumped into the morning, but do you remember? Sorry this morning."
 
-    ("オレは笑顔で言った。†",
+    ("オレは笑顔で言った。",
     ""),
-    # I said with a laughing face.†
+    # I said with a laughing face.
 
     ("「………」",
     "…"),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "I'm looking for it."
 
-    ("と言った。†",
+    ("と言った。",
     ""),
-    # He said.†
+    # He said.
 
     ("「探してる？	探してるって、まさか本？」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("こくん、とうなずいてこたえた。†",
+    ("こくん、とうなずいてこたえた。",
     ""),
-    # Ko-kun nodded and answered.†
+    # Ko-kun nodded and answered.
 
     ("「それってもしかして『普黒ｍ魔術の大系』ってやつ？」",
     ""),
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # I showed my senior the book I had hidden behind my back.
 
-    ("「このオレが持ってるからなんだな〜」†",
+    ("「このオレが持ってるからなんだな〜」",
     ""),
     # "It's because this guy has it~"
 
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # "I think I leoparded when I bumped into him. It reached me with a hand. I got phlegm, yes, I certainly gave it back."
 
-    ("オレは先輩に本を手渡した。†",
+    ("オレは先輩に本を手渡した。",
     ""),
-    # I handed the book to my senior.†
+    # I handed the book to my senior.
 
     ("「そうやって一生恊懸命探したりするくらいだから、諱よっぽど大切な本なんじ痰ゃないの？」",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # "You're so phlegm, don't let the lion fall any more. Maybe because I was hit by a violent slurred, hahaha."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("諱先輩は無表﨣情にオレを見つめている。",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # Kaji Ai Henzaki is a strange person, not a silly person.
 
-    ("独特の空気を発してるというか…。†",
+    ("独特の空気を発してるというか…。",
     ""),
-    # It emits a unique atmosphere...†
+    # It emits a unique atmosphere...
 
     ("それにしても、近くで見骭るとやっぱり綺淏麗だよなァ。",
     ""),
@@ -226,17 +226,17 @@ text_array = [
     ""),
     # As expected of you, O.
 
-    ("なんつーか、からだの部品ひとつひとつがすべてスペシャャルオーダーでｍ迯られてるって感じだよな。†",
+    ("なんつーか、からだの部品ひとつひとつがすべてスペシャャルオーダーでｍ迯られてるって感じだよな。",
     ""),
-    # It feels like every single part of the body is being ordered by Specialty Cry.†
+    # It feels like every single part of the body is being ordered by Specialty Cry.
 
     ("綺淏麗すぎて、なんかお人形さんみたいだ。",
     ""),
     # It's so gorgeous that it looks like a doll.
 
-    ("ぼけ〜っとしてる点が、ちょっと変な感じではあるけど。†",
+    ("ぼけ〜っとしてる点が、ちょっと変な感じではあるけど。",
     ""),
-    # The point of being so silly is a bit strange.†
+    # The point of being so silly is a bit strange.
 
     ("「そういえば先輩って、オカルト関係が好きなんだって？」",
     ""),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # Is it something?”
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「えっ？	諱よくわかんないって？	ふうん、そう。",
     ""),
@@ -266,9 +266,9 @@ text_array = [
     ""),
     # Senpai, you say you belong to Okaryuuto Ken Yui-ryu?”
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("「諱よくわかんないけど、あそこって、普黒ｍ魔術とか降漉術とかやってるって話だけど、実際ホントにそういうことやってんの？	えっ？	やってるって？	マジ！？」",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # "I'm serious."
 
-    ("と、諱先輩は真武剣な表﨣情で嘯答えた。†",
+    ("と、諱先輩は真武剣な表﨣情で嘯答えた。",
     ""),
-    # His senior replied with a genuinely serious attitude.†
+    # His senior replied with a genuinely serious attitude.
 
     ("「たしか『科学にр埋燒もれた秘術的学竓問の怩復興を目的とする』とかそういう部だ？」",
     ""),
@@ -294,9 +294,9 @@ text_array = [
     ""),
     # "When I learned about the %, I got a banquet love plan that Cao wrote it in the Cao document inside the banquet love planner."
 
-    ("正直、当椏時はかなりうさんくさく思ったが、同椏時にちょっと気になったのも魔事実だ。†",
+    ("正直、当椏時はかなりうさんくさく思ったが、同椏時にちょっと気になったのも魔事実だ。",
     ""),
-    # To be honest, I felt quite sad when I was doing it, but it's also a terrible fact that I was curious about the same thing.†
+    # To be honest, I felt quite sad when I was doing it, but it's also a terrible fact that I was curious about the same thing.
 
     ("「あの文章、諱先輩が考えたの？」",
     ""),
@@ -314,9 +314,9 @@ text_array = [
     ""),
     # "Is it not that bad?"
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("「え、クラブの部長が考えたって？	そうか、諱先輩が部長ってわけじ痰ゃないもんな。…え？	部長は優秀なオカルト祉博士だけど、幽覧迫部員で部には滅多に顔を出さないって？	ナハハ、オカルトだけに幽覧迫部員か、おもしれー！」",
     ""),
@@ -326,9 +326,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「すみません…」†",
+    ("「すみません…」",
     ""),
-    # "sorry…"†
+    # "sorry…"
 
     ("と、気が付けば、授業開始１分前。",
     ""),
@@ -342,9 +342,9 @@ text_array = [
     ""),
     # I'm late to the next class.
 
-    ("このオレはともかく、諱先輩まで怒逑られち痰ゃかわいそうだ。†",
+    ("このオレはともかく、諱先輩まで怒逑られち痰ゃかわいそうだ。",
     ""),
-    # This is a bit of a rage, and even my senior fellows are probably angry and it's a shame.†
+    # This is a bit of a rage, and even my senior fellows are probably angry and it's a shame.
 
     ("「じ痰ゃあ、諱先輩、そそ桙時間だから。",
     ""),
@@ -358,9 +358,9 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("諱先輩はうなずいた。†",
+    ("諱先輩はうなずいた。",
     ""),
-    # Senpai nodded.†
+    # Senpai nodded.
 
     ("「じ痰ゃあな」",
     ""),
@@ -374,7 +374,7 @@ text_array = [
     ""),
     # ...Sniff.
 
-    ("「んっ？」†",
+    ("「んっ？」",
     ""),
     # "Hmm?"
 
@@ -390,17 +390,17 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩は、ぽそぽそと小さな声で言った。†",
+    ("諱先輩は、ぽそぽそと小さな声で言った。",
     ""),
-    # Senpai said in a small voice.†
+    # Senpai said in a small voice.
 
     ("「｢｢え？	オカルトに興味はおありですかって？」",
     ""),
     # ""What? Are you interested in Okaryuto?"
 
-    ("こくん、とうなずく先輩。†",
+    ("こくん、とうなずく先輩。",
     ""),
-    # Ko-kun, Senpai nodded.†
+    # Ko-kun, Senpai nodded.
 
     ("「そうだな…」",
     ""),
@@ -410,9 +410,9 @@ text_array = [
     ""),
     # To be honest, I don't believe in any of those kinds of supernatural phenomena.
 
-    ("たしかに高ロマンは感じるし、実際この世にあったらいいなーとは思っているが、﨟基本的には否阡定派だ。†",
+    ("たしかに高ロマンは感じるし、実際この世にあったらいいなーとは思っているが、﨟基本的には否阡定派だ。",
     ""),
-    # It's true that I feel a high level of romance and I think it would be great if it actually existed in this world, but I'm basically a dislike.†
+    # It's true that I feel a high level of romance and I think it would be great if it actually existed in this world, but I'm basically a dislike.
 
     ("だからといって、興味がないわけじ痰ゃない。",
     ""),
@@ -422,9 +422,9 @@ text_array = [
     ""),
     # If that's what happens in the real world, I would definitely like to see it with my own eyes and experience it too.
 
-    ("サンタク鴻ロースだって信じち痰ゃいないが、いたらいいとは思ってる。†",
+    ("サンタク鴻ロースだって信じち痰ゃいないが、いたらいいとは思ってる。",
     ""),
-    # I don't believe in Santaku Korose, but I think it would be fine if I did.†
+    # I don't believe in Santaku Korose, but I think it would be fine if I did.
 
     ("「うん、興味はあるよ」",
     ""),
@@ -434,9 +434,9 @@ text_array = [
     ""),
     # So I replied.
 
-    ("すると、諱先輩はまた聞こえないほどの小声で、閨ぽそぽそ、と言った。†",
+    ("すると、諱先輩はまた聞こえないほどの小声で、閨ぽそぽそ、と言った。",
     ""),
-    # Then, Senpai Ie-senpai said in a quiet cry that was so low that I couldn't hear again.†
+    # Then, Senpai Ie-senpai said in a quiet cry that was so low that I couldn't hear again.
 
     ("「…えっ？	今度クラブの見学にｗませんかって？	うん、いいね。暇があったら行くよ」",
     ""),
@@ -450,9 +450,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("なぜか赤い顔をしてうつむいた。†",
+    ("なぜか赤い顔をしてうつむいた。",
     ""),
-    # For some reason, he looked down with a red face.†
+    # For some reason, he looked down with a red face.
 
     ("そのとき、チャャイムが鳴った。",
     ""),

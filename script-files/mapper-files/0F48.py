@@ -2,9 +2,9 @@
 # Source file: 0F48.txt
 
 text_array = [
-    ("（３月２２冾日	土）閨（堰ラジオ	３回目）閨（堰ラジオ聞かない場㍼合）†",
+    ("（３月２２冾日	土）閨（堰ラジオ	３回目）閨（堰ラジオ聞かない場㍼合）",
     ""),
-    # (Saturday, March 22nd) (3rd Shizuki Radio) (3rd time) (Without the place where you don't listen to the weir radio)†
+    # (Saturday, March 22nd) (3rd Shizuki Radio) (3rd time) (Without the place where you don't listen to the weir radio)
 
     ("堰ラジオはいいや。",
     ""),

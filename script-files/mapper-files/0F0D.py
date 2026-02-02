@@ -2,9 +2,9 @@
 # Source file: 0F0D.txt
 
 text_array = [
-    ("（ゲーセンバトル	ＰＳ）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	あかりがｗた）閨（蛛主人公煙負け（あかりより先に全滅））†",
+    ("（ゲーセンバトル	ＰＳ）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	あかりがｗた）閨（蛛主人公煙負け（あかりより先に全滅））",
     ""),
-    # (Arcade Battle Cry PS) (Red Cry Final Test Part 2 (HbbH)) (Choice Song Akari lol) (Mrage Protagonist (Full Defeat before Akari)) †
+    # (Arcade Battle Cry PS) (Red Cry Final Test Part 2 (HbbH)) (Choice Song Akari lol) (Mrage Protagonist (Full Defeat before Akari)) 
 
     ("「イエイッ！」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Akari gets carried away and pounds her heart.
 
-    ("なんかカチンときた。†",
+    ("なんかカチンときた。",
     ""),
-    # It kind of hit me.†
+    # It kind of hit me.
 
     ("「そんなわけねーか。オレが弱…いや、調子が悪かっただけだな」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「ふふふぅ」†",
+    ("「ふふふぅ」",
     ""),
-    # "Hehehe" †
+    # "Hehehe" 
 
     ("「ガアアアアァーッ！！！！」閨「き痰ゃっ！？」◯",
     ""),

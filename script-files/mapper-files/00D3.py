@@ -2,9 +2,9 @@
 # Source file: 00D3.txt
 
 text_array = [
-    ("（４月２７冾日	昼）閨（葵のイベントがない場㍼合）閨（本屋前）†",
+    ("（４月２７冾日	昼）閨（葵のイベントがない場㍼合）閨（本屋前）",
     ""),
-    # (April Shizuki 27th Noon) (Anonymous place where there is no Aoi event) (In front of the bookstore) †
+    # (April Shizuki 27th Noon) (Anonymous place where there is no Aoi event) (In front of the bookstore) 
 
     ("出てきたまではいいけど、なにもすることがない。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # He has a look on his face and I think he's also in good condition.
 
-    ("ぶらぶらと歩き続けた。†",
+    ("ぶらぶらと歩き続けた。",
     ""),
-    # I continued strolling around.†
+    # I continued strolling around.
 
     ("誰熬もいない。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # There's no slut.
 
-    ("適俣当に飯でも食って帰驪るか。†",
+    ("適俣当に飯でも食って帰驪るか。",
     ""),
-    # Maybe I'll eat some hot rice and go home to Tomatato.†
+    # Maybe I'll eat some hot rice and go home to Tomatato.
 
     ("たしか、新しい映謇画竕やってたよな。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # Tight crying was a Chinese character, Qi Yi Xiang, and I forgot.
 
-    ("でも、ひとりで映謇画ってのも、不瀦健全な気がする。†",
+    ("でも、ひとりで映謇画ってのも、不瀦健全な気がする。",
     ""),
-    # And I feel that both the Hou and the Hou, who painted the Hou by himself, are unhealthy.†
+    # And I feel that both the Hou and the Hou, who painted the Hou by himself, are unhealthy.
 
     ("ここは大人しく、ゲーセンでカネと桙時間を消諸しよう。",
     ""),

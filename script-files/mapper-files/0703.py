@@ -2,9 +2,9 @@
 # Source file: 0703.txt
 
 text_array = [
-    ("（琴音との出初い	イント鴻ロ	選択綜Ｃ）†",
+    ("（琴音との出初い	イント鴻ロ	選択綜Ｃ）",
     ""),
-    # (Into Koro Chosen C) †
+    # (Into Koro Chosen C) 
 
     ("「なんだかなぁ…」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I ended up venting my feelings to the end.
 
-    ("そんなオレの態度を、志保は見逃さない。†",
+    ("そんなオレの態度を、志保は見逃さない。",
     ""),
-    # Shiho doesn't overlook my intense attitude.†
+    # Shiho doesn't overlook my intense attitude.
 
     ("「ちょっとあんた、なんなのよ、そのはっきりしない態度は」",
     ""),
@@ -26,23 +26,23 @@ text_array = [
     ""),
     # "It's clear that b is said to be true, and there's no hot weather."
 
-    ("なんか嘘くさいし、かといって頭ごなしに否阡定できる話でもないし…。†",
+    ("なんか嘘くさいし、かといって頭ごなしに否阡定できる話でもないし…。",
     ""),
-    # It's kind of a lie, but there's no point in deciding on it without thinking about it...†
+    # It's kind of a lie, but there's no point in deciding on it without thinking about it...
 
     ("「じ痰ゃあ、こんなのはどお？	あの子の回濶りには今回の大予言以外にもいい不思議なことがしょっちゅう起こってるのよ」",
     ""),
     # "Ah, what's this? In addition to the great prophecy of this, there are strange things happening in that child's recurring episodes."
 
-    ("「ほお…」†",
+    ("「ほお…」",
     ""),
-    # "Hey..." †
+    # "Hey..." 
 
     ("「瘁例えば、見つめるだけで窓ガラスをр割ったり、重い花瓶を動かしたりすんのよ」",
     ""),
     # "For example, just staring at me, I break the banquet and move the heavy vase."
 
-    ("「おめー、そり痰ゃデマもいいとこだ」†",
+    ("「おめー、そり痰ゃデマもいいとこだ」",
     ""),
     # "Hello, it's good to have a sigh and a hoax."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "If you have that kind of phlegm, the girl will sniff you and your phlegm will be disgusted."
 
-    ("「おめー以外に凾嫌甯われると困骰るな」†",
+    ("「おめー以外に凾嫌甯われると困骰るな」",
     ""),
     # "Don't be bothered if someone other than you are disliked"
 
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "You're a child who can't tell you apart."
 
-    ("「どっちがだよ。だいたい、お前は信じんのか？	超能力を」†",
+    ("「どっちがだよ。だいたい、お前は信じんのか？	超能力を」",
     ""),
-    # "Which one is? Do you generally believe it? Psychic powers" †
+    # "Which one is? Do you generally believe it? Psychic powers" 
 
     ("「超能力？	どうかしらね〜」",
     ""),
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "If there are superpowers, I'm the one who proves it. That's all."
 
-    ("「なんだよ。おめーだって信じてねえじ痰ゃねえか」†",
+    ("「なんだよ。おめーだって信じてねえじ痰ゃねえか」",
     ""),
     # "What is it? I'm sorry, you have no phlegm?"
 
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # Well, I'm looking into it.I'm just sending you the next post as a meowth."
 
-    ("「なんだそり痰ゃ、ヘ揀理雷か？	超能力を信じてないで超能力の魔事庶件を追えんのかよ」†",
+    ("「なんだそり痰ゃ、ヘ揀理雷か？	超能力を信じてないで超能力の魔事庶件を追えんのかよ」",
     ""),
-    # "What is that phlegm? Is it stomping? Can't you pursue the common psychic magic without believing in psychic powers?"†
+    # "What is that phlegm? Is it stomping? Can't you pursue the common psychic magic without believing in psychic powers?"
 
     ("「あら、超能力の真偽を確かめるため、って動機で充分じ痰ゃない」",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # When I put on a sentence phrase, it actually improved my reliability.
 
-    ("まったく、禔口だけは達者だぜ。†",
+    ("まったく、禔口だけは達者だぜ。",
     ""),
-    # The only one who is good at Yuko is absolutely good.†
+    # The only one who is good at Yuko is absolutely good.
 
     ("「わかったわかった。キリがねえから、オレもこれ以繹上詮索しねえよ」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "I'll do that at best."
 
-    ("おっくうそうに言い返した。†",
+    ("おっくうそうに言い返した。",
     ""),
-    # He retorted with a silly look on his face.†
+    # He retorted with a silly look on his face.
 
     ("志保のрヤツ、オレを言い奄負かしたつもりでいるのか嬉しそうに、",
     ""),
@@ -154,13 +154,13 @@ text_array = [
     ""),
     # I waved and left the classroom.
 
-    ("スキップしながら…というのが魔当てつけがましい。†",
+    ("スキップしながら…というのが魔当てつけがましい。",
     ""),
-    # Skipping is what makes it so magical.†
+    # Skipping is what makes it so magical.
 
-    ("氈勝ち奄負けなんてどうでもいいが、あいつにああいう態度を取邇られると、なんだか奄負けたような気がしてし痰ゃくだ。†",
+    ("氈勝ち奄負けなんてどうでもいいが、あいつにああいう態度を取邇られると、なんだか奄負けたような気がしてし痰ゃくだ。",
     ""),
-    # It's fine if you win or lose, Amano, but when he acts like that, I feel like I've lost, and it's a bit of a stretch.†
+    # It's fine if you win or lose, Amano, but when he acts like that, I feel like I've lost, and it's a bit of a stretch.
 
     ("…それにしても今厓日のあいつの薰情報は珍しくまともだったな。",
     ""),

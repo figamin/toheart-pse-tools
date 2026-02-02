@@ -12,7 +12,7 @@ text_array = [
 
     ("声をかけると、その子はきょろっとこっちを振り向いた。",
     "She turns around in surprise."),
-    # When I called out to him, the child shouted this.†
+    # When I called out to him, the child shouted this.
 
     ("「あっ、",
     "Ah!"),
@@ -66,7 +66,7 @@ text_array = [
 
     ("金を稼ぐためとはいえ、かなりの重労働だぜ。",
     "It is a lot of hard work to earn all that money."),
-    # Even though it's about making money, it's a lot of hard work.†
+    # Even though it's about making money, it's a lot of hard work.
 
     ("そんな理緒ちゃんに、オレのかけた言葉は�｢�B。",
     "I should say something to her…"),

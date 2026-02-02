@@ -2,7 +2,7 @@
 # Source file: 0A43.txt
 
 text_array = [
-    ("（掾理女緒	好感度／冝日付イベント）閨（４月２９冾日）閨（自室）†",
+    ("（掾理女緒	好感度／冝日付イベント）閨（４月２９冾日）閨（自室）",
     ""),
     # (Erimeo's Likeability/Comedy Date Event) (April Lion Day 29th) (My room)
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # My body is slamming violently, saying that there is no phlegm to satisfy the cup banquet.
 
-    ("…諱ような気がする。†",
+    ("…諱ような気がする。",
     ""),
-    # ...I feel like it's a name.†
+    # ...I feel like it's a name.
 
     ("どこで食事するか。",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # I hope that it's not crowded on the day of celebration, but it's dinner time.
 
-    ("まずは街をぶらぶらすることにして、家を出た。†",
+    ("まずは街をぶらぶらすることにして、家を出た。",
     ""),
-    # First I decided to stroll around town and left the house.†
+    # First I decided to stroll around town and left the house.
 
     ("駅の辺阨りにｗ磯翌ﾆ、気のせいか、いつもより人が多いように感じられた。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # This is a performance that high school students can't believe.
 
-    ("いー諱よなー。†",
+    ("いー諱よなー。",
     ""),
-    # Well, that's a name.†
+    # Well, that's a name.
 
     ("艨比較的すいてそうなファミレスに入うとしたとき、路纔上で知迺らない翌女の人に、英演話教室のチラシを渡された。",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # I somehow feel the thought of Symphomaniac.
 
-    ("家族がいるからって、＊淫俣冝A全員で食髄を囲めるとは限迪らないんだよな…。†",
+    ("家族がいるからって、＊淫俣冝A全員で食髄を囲めるとは限迪らないんだよな…。",
     ""),
-    # Just because you have a family, it's not necessarily the case that all of us can surround ourselves with food.†
+    # Just because you have a family, it's not necessarily the case that all of us can surround ourselves with food.
 
     ("店を出髀ると夜蘭風がなにげに心地謦よかった。",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # When I got home, there was no hot water, and there was no hot water anyway.
 
-    ("今厓日はちょっと遠回濶りして、＄ぞいの道を散燻歩して帰驪ることにしよう。†",
+    ("今厓日はちょっと遠回濶りして、＄ぞいの道を散燻歩して帰驪ることにしよう。",
     ""),
-    # Now, on the day, I'll be heading around the Tang Dynasty for a long time, and then heading home along the path of $.†
+    # Now, on the day, I'll be heading around the Tang Dynasty for a long time, and then heading home along the path of $.
 
     ("時厲期的にはまだ≠早いけど、なんだか夕涼みでもしてる気分だ。",
     ""),
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # If you look closely, your hair is still wet.
 
-    ("「は〜、髪おすだけでけっこうイ＜メージが変﨑わるもんだな」†",
+    ("「は〜、髪おすだけでけっこうイ＜メージが変﨑わるもんだな」",
     ""),
     # "Hmm, just b-hair makes a pretty big change in your image."
 
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # I laughed cheerfully.
 
-    ("長い髪の毛が揺齬れて、ほのかにシャャンプーの匂いがした。†",
+    ("長い髪の毛が揺齬れて、ほのかにシャャンプーの匂いがした。",
     ""),
-    # My long hair shaking, and I could smell a faint shampoo.†
+    # My long hair shaking, and I could smell a faint shampoo.
 
     ("「とこで、くんはなにしてたの？」",
     ""),
@@ -218,9 +218,9 @@ text_array = [
     ""),
     # "Is that so...? Ahaha."
 
-    ("どこかうれしそうに笑う。†",
+    ("どこかうれしそうに笑う。",
     ""),
-    # I laughed somewhere with joy.†
+    # I laughed somewhere with joy.
 
     ("この素朴な翌風景に、銭酎湯帰闍りの、髪を下奄した理女緒ち痰ゃんの姿はしっくりくる。",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # "Are you sure you'll get back to the ego?"
 
-    ("「ああ、いいぜ」†",
+    ("「ああ、いいぜ」",
     ""),
-    # "Ah, that's fine" †
+    # "Ah, that's fine" 
 
     ("オレたちは並んで歩き出す。Å",
     ""),
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # "... And I, I, have come to be able to walk and laugh with him like this, so I'm sure I've been able to walk and laugh at him. I'm surprised."
 
-    ("「まーな。学校ではじめてったときなんて、まともにし痰ゃべれなかったもんな」†",
+    ("「まーな。学校ではじめてったときなんて、まともにし痰ゃべれなかったもんな」",
     ""),
     # "Well, when I first got to school, I was a hot pot and couldn't even sputum."
 
@@ -298,9 +298,9 @@ text_array = [
     ""),
     # As she laughed glaringly, the bathroom sinked through the hands of the Erie Ochi Sphinja and rolled onto the ground.
 
-    ("石ケン窿やタオルがオレの足熨もとに散邇らばる。†",
+    ("石ケン窿やタオルがオレの足熨もとに散邇らばる。",
     ""),
-    # Ishiken-han and Tao crying were scattered around my feet.†
+    # Ishiken-han and Tao crying were scattered around my feet.
 
     ("「おっとと」",
     ""),
@@ -314,9 +314,9 @@ text_array = [
     ""),
     # "Haha, Kaji Ai Henzaki doesn't have a chance. Come on, I'll have a sphin and have a sphin."
 
-    ("「あっ、ごめんなさい」†",
+    ("「あっ、ごめんなさい」",
     ""),
-    # "Ah, sorry" †
+    # "Ah, sorry" 
 
     ("「あれ…？」",
     ""),
@@ -350,9 +350,9 @@ text_array = [
     ""),
     # "yeah?"
 
-    ("掾理女緒ち痰ゃんが不思議そうな顔でオレを見ていた。†",
+    ("掾理女緒ち痰ゃんが不思議そうな顔でオレを見ていた。",
     ""),
-    # Erie Ochi Sphinjan looked at me with a strange look on his face.†
+    # Erie Ochi Sphinjan looked at me with a strange look on his face.
 
     ("「…いや、なんでも｢｢」",
     ""),
@@ -366,9 +366,9 @@ text_array = [
     ""),
     # "I've never been to the smug, did you ever get into the smug smug long ago?"
 
-    ("そう聞いた。†",
+    ("そう聞いた。",
     ""),
-    # That's what I heard.†
+    # That's what I heard.
 
     ("「えっ…？	覚え…てるの？」",
     ""),
@@ -406,9 +406,9 @@ text_array = [
     ""),
     # "Kugata Squirrel?"
 
-    ("はて？†",
+    ("はて？",
     ""),
-    # What?†
+    # What?
 
     ("氏去年のクリスマスの冾日は、両親といっしょだったな。",
     ""),
@@ -418,17 +418,17 @@ text_array = [
     ""),
     # Eve was making a fuss about hot things, but 25 was...
 
-    ("家でＴＶ見て、ケーキ食って、シャャンパン飲んで…くらいじ痰ゃなかったか？†",
+    ("家でＴＶ見て、ケーキ食って、シャャンパン飲んで…くらいじ痰ゃなかったか？",
     ""),
-    # Did you watch TV at home, eat cake, drink Shaanpan...and get enough of it?†
+    # Did you watch TV at home, eat cake, drink Shaanpan...and get enough of it?
 
     ("「くん、その冾日、ケーキャ買ったでしょ？」",
     ""),
     # "K-kun, did you buy K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K
 
-    ("「ケーキ？	ああ、そういえば…」†",
+    ("「ケーキ？	ああ、そういえば…」",
     ""),
-    # "Cake? Ah, come to think of it..." †
+    # "Cake? Ah, come to think of it..." 
 
     ("たしかにクリスマスケーキはオレがモ買いに行った。",
     ""),
@@ -438,9 +438,9 @@ text_array = [
     ""),
     # Waiting for the price to go down, I deliberately closed the store.
 
-    ("もちん、ａ浮いた金をこづかいにしたいがためのセコいアイデアだ。†",
+    ("もちん、ａ浮いた金をこづかいにしたいがためのセコいアイデアだ。",
     ""),
-    # Mochib, a is a cheap idea for wanting to use the floating hot money.†
+    # Mochib, a is a cheap idea for wanting to use the floating hot money.
 
     ("「でも、なんでそんなこと知ってるんだ？」",
     ""),
@@ -470,9 +470,9 @@ text_array = [
     ""),
     # I stand in the light of the night.
 
-    ("ぶかぶかのサンタク鴻ロースの格好をして、その前には積まれたケーキの箱の山とセールのプラカード。†",
+    ("ぶかぶかのサンタク鴻ロースの格好をして、その前には積まれたケーキの箱の山とセールのプラカード。",
     ""),
-    # Dressed as a snack santaku kou loin, before that there was a pile of stacked cake boxes and a banquet card for sale.†
+    # Dressed as a snack santaku kou loin, before that there was a pile of stacked cake boxes and a banquet card for sale.
 
     ("クリスマスの夜は人熕も多く、少し降ったこの痰雪熕も、この熱気のｒで、積熕もることなく消えてしまうでしょう。",
     ""),
@@ -482,9 +482,9 @@ text_array = [
     ""),
     # However, there are few people who stop at a pile of cakes that are left unsold because of the sluggishness of the fish.
 
-    ("お客さんを呼ぶ声熕も、秩白い息といっしょに雑踏に消えていきます。†",
+    ("お客さんを呼ぶ声熕も、秩白い息といっしょに雑踏に消えていきます。",
     ""),
-    # The voices that invite customers disappear into the crowd, along with their orderly breath.†
+    # The voices that invite customers disappear into the crowd, along with their orderly breath.
 
     ("п私は寒さにふるえていました。",
     ""),
@@ -498,17 +498,17 @@ text_array = [
     ""),
     # =I wish it was over soon.
 
-    ("寒さのなかで、п私は仕鮪事が終尞わってからのことを考えていました。†",
+    ("寒さのなかで、п私は仕鮪事が終尞わってからのことを考えていました。",
     ""),
-    # In the cold, I was thinking about what to do once the tuna was finished.†
+    # In the cold, I was thinking about what to do once the tuna was finished.
 
     ("これが終尞わったら、家で待ってる弟たちといっしょに、病院にいる母にいに行こう。",
     ""),
     # Once this is over, let's go to my mother in the hospital with the younger brothers waiting at home.
 
-    ("п売齡れ残ったケーキをひとつもらって…。†",
+    ("п売齡れ残ったケーキをひとつもらって…。",
     ""),
-    # I got a hot cake that was left unsold...†
+    # I got a hot cake that was left unsold...
 
     ("ぼーっと考え桙込んでしまってたそのとき、",
     ""),
@@ -526,9 +526,9 @@ text_array = [
     ""),
     # He was about the same age, but he was a blunt person with no affability.
 
-    ("怖そうだなと思いました。†",
+    ("怖そうだなと思いました。",
     ""),
-    # I thought it looked scary.†
+    # I thought it looked scary.
 
     ("「はっ、はいっ、ありがとうございますっ！	ケーキですね！」",
     ""),
@@ -558,9 +558,9 @@ text_array = [
     ""),
     # I didn't want to open my eyes anymore.
 
-    ("その場に広がってる光景を目にしたくありませんでした。†",
+    ("その場に広がってる光景を目にしたくありませんでした。",
     ""),
-    # I didn't want to see the sight spreading out there.†
+    # I didn't want to see the sight spreading out there.
 
     ("どうしてр私はいつも、こんなドジばっかりするんだう。",
     ""),
@@ -574,9 +574,9 @@ text_array = [
     ""),
     # пI wanted to cry.
 
-    ("でも…。†",
+    ("でも…。",
     ""),
-    # And the hot water too...†
+    # And the hot water too...
 
     ("「お、おい、ちょっと…」",
     ""),
@@ -598,7 +598,7 @@ text_array = [
     ""),
     # "Well, can you support me?"
 
-    ("「あっ、はっ、はい！」†",
+    ("「あっ、はっ、はい！」",
     ""),
     # "Ah, ha, yes!"
 
@@ -606,9 +606,9 @@ text_array = [
     ""),
     # And thanks to the customers, the cake pile was completely unfinished.
 
-    ("たったひとつ、一番續上にあった箱だけは、道路に転がってしまいましたが…。†",
+    ("たったひとつ、一番續上にあった箱だけは、道路に転がってしまいましたが…。",
     ""),
-    # The only box on the top of the building has tumbled on the road...†
+    # The only box on the top of the building has tumbled on the road...
 
     ("お客さんは面倒くさそうに、転がった箱を拾い上げました。",
     ""),
@@ -622,9 +622,9 @@ text_array = [
     ""),
     # "...Has the original shape still remained? There's no slut. I'll get this guy hot."
 
-    ("苦笑してそう言いました。†",
+    ("苦笑してそう言いました。",
     ""),
-    # He said with a wry smile.†
+    # He said with a wry smile.
 
     ("「えっ！？	あっ、あの、ち痰ゃんとしたのとお取り替えしますから｢｢」",
     ""),
@@ -642,9 +642,9 @@ text_array = [
     ""),
     # "More than that, even though it's so cold, it's tough. Do your best until you're in the middle of the night club."
 
-    ("彼は微笑んでそう言うと、人混みのｒへと消えていったのです。†",
+    ("彼は微笑んでそう言うと、人混みのｒへと消えていったのです。",
     ""),
-    # He smiled and said, then disappeared into the crowd.†
+    # He smiled and said, then disappeared into the crowd.
 
     ("「それが、オレだったって？」",
     ""),
@@ -654,9 +654,9 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("あのときのサンタク鴻ロース、掾理女緒ち痰ゃんはうなずく。†",
+    ("あのときのサンタク鴻ロース、掾理女緒ち痰ゃんはうなずく。",
     ""),
-    # Santaku Koros at that time, Jorime Ochisou-chan nodded.†
+    # Santaku Koros at that time, Jorime Ochisou-chan nodded.
 
     ("「その人が同じ学校の同遠級生だってわかったとき、すごく嬉しかったんだよ」",
     ""),
@@ -670,9 +670,9 @@ text_array = [
     ""),
     # My heart lit up and laughed.
 
-    ("掾理女緒ち痰ゃん視点になると、オレってまるで少酪女沛漫譁画のヒー香ローだな。†",
+    ("掾理女緒ち痰ゃん視点になると、オレってまるで少酪女沛漫譁画のヒー香ローだな。",
     ""),
-    # When I look at the eyes of the girl Ochi Sphinja, I'm so excited that it's like a Hero from a manga of a girl.†
+    # When I look at the eyes of the girl Ochi Sphinja, I'm so excited that it's like a Hero from a manga of a girl.
 
     ("「でも、たったその程度のことじ痰ゃねーか」",
     ""),
@@ -706,7 +706,7 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("私、自分のｒのあこがれを、氈勝闖手にくんにあてはめてたんだよね」†",
+    ("私、自分のｒのあこがれを、氈勝闖手にくんにあてはめてたんだよね」",
     ""),
     # I applied my own longing to Haikatsu-san to Mr.
 
@@ -722,9 +722,9 @@ text_array = [
     ""),
     # It's been almost a month since I first appeared in the film with Jorime Ochisou-chan.
 
-    ("オレの化けの皮熹もはがれてきて魔当然だな。†",
+    ("オレの化けの皮熹もはがれてきて魔当然だな。",
     ""),
-    # It's only natural that my supernatural monster skin has also peeled off.†
+    # It's only natural that my supernatural monster skin has also peeled off.
 
     ("「ドラマみたいに、いつでもかっこいいわけじ痰ゃないんだよね…。",
     ""),
@@ -742,15 +742,15 @@ text_array = [
     ""),
     # "That's why I felt a little relieved and felt a bit relieved."
 
-    ("「え？」†",
+    ("「え？」",
     ""),
-    # "picture?"†
+    # "picture?"
 
     ("「いままでは、くんに釣闥り№合うように、一生恊懸命背伸びしてたけど、でも、もっと、ほんとのр私でもいいのかなって…」",
     ""),
     # "Up until now I've been working hard to get my hands on the fish, so I've been trying my best to meet the fish, but I wonder if it's better for me, and I'm really good at it..."
 
-    ("「なんだ、諱ようやくかよ。オレは最燕初から、そういうつもりだったんだけどな」†",
+    ("「なんだ、諱ようやくかよ。オレは最燕初から、そういうつもりだったんだけどな」",
     ""),
     # "What, I'm going to tamper with that kind of thing. I've been such a hot topic since the beginning."
 
@@ -770,9 +770,9 @@ text_array = [
     ""),
     # "I like you more now than No-kun when he was keen on Azumasu-ren."
 
-    ("「へえ」†",
+    ("「へえ」",
     ""),
-    # "Whoa" †
+    # "Whoa" 
 
     ("「それが、п私の素直な気搴持ち。正直な気搴持ち。",
     ""),
@@ -786,9 +786,9 @@ text_array = [
     ""),
     # It is true that the phlegm is quite different from the time when the weir was first commented on.
 
-    ("いまは、こんなに自然に話せる。†",
+    ("いまは、こんなに自然に話せる。",
     ""),
-    # I can speak so naturally now.†
+    # I can speak so naturally now.
 
     ("「だけど、まだまだ知迺らないことばかりだと思うぜ？」",
     ""),
@@ -798,7 +798,7 @@ text_array = [
     ""),
     # "…picture?"
 
-    ("「これからもっと見えてくるぜ。いいとこも悪いとこもさ」†",
+    ("「これからもっと見えてくるぜ。いいとこも悪いとこもさ」",
     ""),
     # "We'll be able to see more hot pots from now on. The good and bad pots are also b hot pots."
 
@@ -810,9 +810,9 @@ text_array = [
     ""),
     # "Yeah. So even my super-realistic woman, I'm going to have to understand the uncool parts of the sputum that are even more uncool."
 
-    ("轣冗談っぽく笑うオレ。†",
+    ("轣冗談っぽく笑うオレ。",
     ""),
-    # I laughed like a joke.†
+    # I laughed like a joke.
 
     ("「う、うん…。",
     ""),
@@ -830,7 +830,7 @@ text_array = [
     ""),
     # "пI've come to like you, naturally, so I'm also smoking it naturally. I don't look too cool."
 
-    ("「おかしいな？	掾理女緒ち痰ゃんって、いままでそんなにかっこ良かったっけ？」†",
+    ("「おかしいな？	掾理女緒ち痰ゃんって、いままでそんなにかっこ良かったっけ？」",
     ""),
     # "Is that weird? Has Erie Ochi Sphinya been so cool up until now?"
 
@@ -854,9 +854,9 @@ text_array = [
     ""),
     # "I don't want you, do you laugh after all?"
 
-    ("「自然がいいんだ？」†",
+    ("「自然がいいんだ？」",
     ""),
-    # "Is nature good?" †
+    # "Is nature good?" 
 
     ("「…うん、だね」",
     ""),
@@ -874,9 +874,9 @@ text_array = [
     ""),
     # I stared at me and said,
 
-    ("「なに？」†",
+    ("「なに？」",
     ""),
-    # "what?"†
+    # "what?"
 
     ("「…п私燻も、正直な気搴持ちを言ったんだから、くんの正直なとこも聞きたいな」",
     ""),
@@ -890,9 +890,9 @@ text_array = [
     ""),
     # "In fact, I'm also confused and sputum."
 
-    ("そう言った。†",
+    ("そう言った。",
     ""),
-    # That's what I said.†
+    # That's what I said.
 
     ("「なにが？」",
     ""),
@@ -902,7 +902,7 @@ text_array = [
     ""),
     # "I'm so happy just to be with you, so I'm just friends and I'm thinking that it's fine for me to stay with you, and I'm also trying to keep going with you... And the desire to stay with you, the hot springs, and for a little while, is getting stronger than the previous one, and I'm feeling a lot stronger than the previous one... Ahaha.
 
-    ("私って欲張闥りなんだね」†",
+    ("私って欲張闥りなんだね」",
     ""),
     # I'm greedy, right?"
 
@@ -934,7 +934,7 @@ text_array = [
     ""),
     # "If you don't think of me as a lover after all, I'll give up completely."
 
-    ("「そんなのでいいのか？」†",
+    ("「そんなのでいいのか？」",
     ""),
     # "Is that okay?"
 
@@ -958,9 +958,9 @@ text_array = [
     ""),
     # "Ah, ah..."
 
-    ("オレはそっと、禔口を開く。†",
+    ("オレはそっと、禔口を開く。",
     ""),
-    # My guts gently opened my mouth.†
+    # My guts gently opened my mouth.
 
     ("「オレ、掾理女緒ち痰ゃんのこと｢｢」",
     ""),

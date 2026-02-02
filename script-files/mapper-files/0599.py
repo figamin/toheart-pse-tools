@@ -2,17 +2,17 @@
 # Source file: 0599.txt
 
 text_array = [
-    ("（葵	回秤数イベント７	選択繿後	Ａ）†",
+    ("（葵	回秤数イベント７	選択繿後	Ａ）",
     ""),
-    # (Aoi Episode Scale Number Event 7 After Selection A)†
+    # (Aoi Episode Scale Number Event 7 After Selection A)
 
     ("諱よし、葵ち痰ゃんの練習を手伝おう。",
     ""),
     # Okay, let's help Aoi Chisho-yan with his fortune practice.
 
-    ("オレにできることなんて高が知れてるが、少しでも力になってやりたいもんな。†",
+    ("オレにできることなんて高が知れてるが、少しでも力になってやりたいもんな。",
     ""),
-    # B-high is well aware of what I can do, but it's a hot guy who wants to help me with it in just a little bit.†
+    # B-high is well aware of what I can do, but it's a hot guy who wants to help me with it in just a little bit.
 
     ("「葵ち痰ゃん」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # Aoi Chisho-yan stops hitting the punching bag and returns to the end of the breath.
 
-    ("オレは言った。†",
+    ("オレは言った。",
     ""),
-    # I said.†
+    # I said.
 
     ("「オレもなにか手伝うよ」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "I guess I just said it before, b? If there were two of them, we could do more effective training."
 
-    ("「ええ」†",
+    ("「ええ」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「だったら、せっかくだからやうぜ。その有効なトレーニングってやつを」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # Aoi Chisho-yan was spotted for a moment, but for some reason he quickly became complicated.
 
-    ("「どうした？」†",
+    ("「どうした？」",
     ""),
-    # "what up?"†
+    # "what up?"
 
     ("「いえ、本末当はぜひお願いしたいんですけど、で",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "…Yeah"
 
-    ("葵ち痰ゃんは小さくうなずいた。†",
+    ("葵ち痰ゃんは小さくうなずいた。",
     ""),
-    # Aoi Chisho-chan nodded small.†
+    # Aoi Chisho-chan nodded small.
 
     ("「°体的に言うと、キックミットを持ってもらいたいんです」",
     ""),
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Is the kick mitt something like a thick cushion that gets on that arm?"
 
-    ("「はい。あれをつけて動いてもらって、それを蹴髀る練習なんですけど、やっぱりある程度慣れてる人でないと…」†",
+    ("「はい。あれをつけて動いてもらって、それを蹴髀る練習なんですけど、やっぱりある程度慣れてる人でないと…」",
     ""),
     # "Yes. It's a good practice where you put it on, move, get a hot pot, and kick it off, but I guess you don't have a certain amount of familiarity with it..."
 
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # "Dragonfly and Dragonfly and Dragonfly. I read the general guidelines in a book I borrowed the other day. Also, I'm pretty confident in my reflexes."
 
-    ("オレは笑って言った。†",
+    ("オレは笑って言った。",
     ""),
-    # I laughed and said.†
+    # I laughed and said.
 
     ("「…п私燻も、いちおうミットを狙いますけど、それでもときどきは体に魔当たっち痰ゃうこともあるかもしれません」",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "is that so?"
 
-    ("「おっけー、おっけー！	思いっきり蹴ってこー閨い！」†",
+    ("「おっけー、おっけー！	思いっきり蹴ってこー閨い！」",
     ""),
-    # "Oh, okay! I'll kick you as hard as I can, slurp!" †
+    # "Oh, okay! I'll kick you as hard as I can, slurp!" 
 
     ("ずばあーんっ！",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # Even though she's a bathing girl, Aoi Chisho-chan kicks her quickly and heavily.
 
-    ("少しずつ後撃に押されていく。†",
+    ("少しずつ後撃に押されていく。",
     ""),
-    # Little by little, he is pushed by a blow after the attack.†
+    # Little by little, he is pushed by a blow after the attack.
 
     ("それでもまだ本気の蹴闖りじ痰ゃない。",
     ""),
@@ -198,17 +198,17 @@ text_array = [
     ""),
     # He kicks him carefully, making sure to not remove the mitt.
 
-    ("とても実寬戦的な蹴闖りじ痰ゃない。†",
+    ("とても実寬戦的な蹴闖りじ痰ゃない。",
     ""),
-    # Even the hot springs are actually quite a bit of a battle-like kick.†
+    # Even the hot springs are actually quite a bit of a battle-like kick.
 
     ("本沫、このトレーニングは実寬戦的な間㈱合いｍ闕りを学ぶ練習だ。",
     ""),
     # This training training is a great practice that teaches you how to learn the real battle between the two.
 
-    ("実寬戦さながらの感覚で攻ｍ撃しないと意味がない。†",
+    ("実寬戦さながらの感覚で攻ｍ撃しないと意味がない。",
     ""),
-    # There's no point in attacking and shooting with the feeling of being a real battle.†
+    # There's no point in attacking and shooting with the feeling of being a real battle.
 
     ("「もっと強く蹴ってこい！」",
     ""),
@@ -234,9 +234,9 @@ text_array = [
     ""),
     # "Don't hesitate. Also, can Tsume Sakashita defeat him with a kick like this?"
 
-    ("「あ…」†",
+    ("「あ…」",
     ""),
-    # "a…"†
+    # "a…"
 
     ("「坂下のほうは、いまも組み手とか実寬戦的な練習してるってのに、こんなぬるい練習じ痰ゃ差がつく一箞方だぞ！」",
     ""),
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # Aoi Chisho-ya is just a realization of my intense tragedy.
 
-    ("でも、それじ痰ゃ意味がない。†",
+    ("でも、それじ痰ゃ意味がない。",
     ""),
-    # And even if it's not phlegm, there's no point in it.†
+    # And even if it's not phlegm, there's no point in it.
 
     ("「遊びじ痰ゃないんだ？」",
     ""),
@@ -282,9 +282,9 @@ text_array = [
     ""),
     # "What we're doing is fighting over is martial arts, isn't it?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「少なくとも、オレは格闘技站やってるつもりなんだぜ。いちいち蹴闖りが魔当たることなんかにビビっち痰ゃいねーし、たとえ魔当たったってかまわない」",
     ""),
@@ -298,9 +298,9 @@ text_array = [
     ""),
     # "And even if you're an amateur, don't underestimate me too much."
 
-    ("オレは冗談っぽく笑って言った。†",
+    ("オレは冗談っぽく笑って言った。",
     ""),
-    # I laughed jokingly.†
+    # I laughed jokingly.
 
     ("「………」",
     "…"),
@@ -318,7 +318,7 @@ text_array = [
     ""),
     # "All right, come seriously!"
 
-    ("「いきますっ！」†",
+    ("「いきますっ！」",
     ""),
     # "I'll go!"
 
@@ -346,13 +346,13 @@ text_array = [
     ""),
     # To the right and left, I tried desperately to endure the attack after the attack, and was about to be blown away.
 
-    ("それでもオレは怯まずに、フット純ワークを使ったり、フェイントを混ぜたりと、実寬戦的な動きを心がける。†",
+    ("それでもオレは怯まずに、フット純ワークを使ったり、フェイントを混ぜたりと、実寬戦的な動きを心がける。",
     ""),
-    # So, I try to make real war-like movements, using pure footwork and mixing feints without frightening me.†
+    # So, I try to make real war-like movements, using pure footwork and mixing feints without frightening me.
 
-    ("氈次謗第に没頭し始めたのか、葵ち痰ゃんは蹴闖りだけでなく、閨手技を含めたコンビネーションを打ち始める。†",
+    ("氈次謗第に没頭し始めたのか、葵ち痰ゃんは蹴闖りだけでなく、閨手技を含めたコンビネーションを打ち始める。",
     ""),
-    # Perhaps he began to become absorbed in the slander, Aoi Chisho-yan not only kicks him, but also starts to play combination syringes, including his hand techniques.†
+    # Perhaps he began to become absorbed in the slander, Aoi Chisho-yan not only kicks him, but also starts to play combination syringes, including his hand techniques.
 
     ("どむっ！",
     ""),
@@ -382,9 +382,9 @@ text_array = [
     ""),
     # Sometimes, Aoi Chisho-chan's attacks and M-shots hit the shoulders, arms, armpits, and on the temporal foil.≠
 
-    ("結局、その練習で、オレは葵ち痰ゃんの攻ｍ撃を肩に３発、脇に２発、腕に８発、側頭箔部に１発、計１４発熹も被弾する羽目になった。†",
+    ("結局、その練習で、オレは葵ち痰ゃんの攻ｍ撃を肩に３発、脇に２発、腕に８発、側頭箔部に１発、計１４発熹も被弾する羽目になった。",
     ""),
-    # In the end, during the fortune practice, I ended up being hit by Aoi Chisho-chan with three attacks on my shoulder, two at the arm, eight at the arm, and one at the temporal foil, a total of 14 hits.†
+    # In the end, during the fortune practice, I ended up being hit by Aoi Chisho-chan with three attacks on my shoulder, two at the arm, eight at the arm, and one at the temporal foil, a total of 14 hits.
 
     ("「すみません、諱先輩…」",
     ""),
@@ -402,9 +402,9 @@ text_array = [
     ""),
     # "Ha ha, he, he, he, he, hey."
 
-    ("ホントはすごく痛い。†",
+    ("ホントはすごく痛い。",
     ""),
-    # It really hurts very much.†
+    # It really hurts very much.
 
     ("「でも先輩のおかげで、とても充実した練習ができました。ありがとうございました！」",
     ""),
@@ -418,9 +418,9 @@ text_array = [
     ""),
     # "Here you go, it's fine, raise your head."
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("「それよりも、今厓日でだいたいコツみたいなもんはつかんだから、今度はもっと効率譌よく鰍相闡手してやれると思うぜ」",
     ""),
@@ -434,9 +434,9 @@ text_array = [
     ""),
     # "I'll try hard to smoke too."
 
-    ("「は、はい！	ありがとうございます！」†",
+    ("「は、はい！	ありがとうございます！」",
     ""),
-    # "Yes! Thank you!"†
+    # "Yes! Thank you!"
 
     ("ま、オレも少しは役に立ったってことか。◯",
     ""),

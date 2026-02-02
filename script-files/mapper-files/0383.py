@@ -2,9 +2,9 @@
 # Source file: 0383.txt
 
 text_array = [
-    ("（智子	回秤数イベント３	学校を出髀る	ＬＶ１）閨（３月）閨（下駄箱）†",
+    ("（智子	回秤数イベント３	学校を出髀る	ＬＶ１）閨（３月）閨（下駄箱）",
     ""),
-    # (Tomoko's Scales Event 3: Leave school LV1) (3 Shizuki) (Shoe cabinet) †
+    # (Tomoko's Scales Event 3: Leave school LV1) (3 Shizuki) (Shoe cabinet) 
 
     ("靴を嘯履き替え、玄関へ出謠ようとしたとき、",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "?"
 
-    ("振關り返髟ると史だった。†",
+    ("振關り返髟ると史だった。",
     ""),
-    # When I looked back, it was an i-historic story.†
+    # When I looked back, it was an i-historic story.
 
     ("「ひとり？」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "I thought I'd come home after getting my clothes."
 
-    ("「ふーん」†",
+    ("「ふーん」",
     ""),
-    # "Hmm" †
+    # "Hmm" 
 
     ("「ちょっと待ってて」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # When Masochi said that, he pulled out the shawz from the shoe cabinet and put his foot in.
 
-    ("いかにも嘯履くのがうざったそうな長いひものシャーズだ。†",
+    ("いかにも嘯履くのがうざったそうな長いひものシャーズだ。",
     ""),
-    # It's a long, long, hot spring shrub that looks annoying to wear, even if it's hot.†
+    # It's a long, long, hot spring shrub that looks annoying to wear, even if it's hot.
 
     ("「これ嘯履くの、面倒くさいんだ」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "...Okay, hurry up b."
 
-    ("そう言って、オレは一足鞫先に玄関を出た。†",
+    ("そう言って、オレは一足鞫先に玄関を出た。",
     ""),
-    # With that in mind, I walked out the entrance.†
+    # With that in mind, I walked out the entrance.
 
     ("外で待つこと数十秒。",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "Mouchiebi"
 
-    ("あ〜、なんだかイライラしてきた。†",
+    ("あ〜、なんだかイライラしてきた。",
     ""),
-    # Ah, it's kind of a feast and a banquet.†
+    # Ah, it's kind of a feast and a banquet.
 
     ("諱ようやく靴ひもを結び終えたのか、雅史は立ち上がった。",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # It's so late.
 
-    ("諱よし、軽く制裁をくれてやる。†",
+    ("諱よし、軽く制裁をくれてやる。",
     ""),
-    # Okay, I'll give you some light punishment and tamper with it.†
+    # Okay, I'll give you some light punishment and tamper with it.
 
     ("オレは撃柱のかげに隠皷れ、様子をうかがった。",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # ...2.
 
-    ("…１。†",
+    ("…１。",
     ""),
-    # ...1.†
+    # ...1.
 
     ("諱よしっ！",
     ""),

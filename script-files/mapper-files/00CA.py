@@ -2,9 +2,9 @@
 # Source file: 00CA.txt
 
 text_array = [
-    ("（３月２０冾日	昼）閨（自分の部屋）†",
+    ("（３月２０冾日	昼）閨（自分の部屋）",
     ""),
-    # (3rd 20th day of the month, noon) (my room)†
+    # (3rd 20th day of the month, noon) (my room)
 
     ("せっかくだ。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Will they also start to send out hot springs in town?
 
-    ("そこでついでに腹ごしらえだ。†",
+    ("そこでついでに腹ごしらえだ。",
     ""),
-    # And then I'll have my hunger.†
+    # And then I'll have my hunger.
 
     ("今厓日は最近できた、うわさの丼屋で食ってみることにした。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # After entering the , I sat in one seat in a long, narrow store with only a counter.
 
-    ("けっこー客が多い。†",
+    ("けっこー客が多い。",
     ""),
-    # There are a lot of customers.†
+    # There are a lot of customers.
 
     ("「いらっし痰ゃい！」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "One cutlet bowl"
 
-    ("「あいよ！」†",
+    ("「あいよ！」",
     ""),
     # "Aiyo!"
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # ・
 
-    ("待つこと５分。†",
+    ("待つこと５分。",
     ""),
-    # Wait for 5 minutes.†
+    # Wait for 5 minutes.
 
     ("「へい、おまち！」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # In the small pot, half-boiled eggs are in the best possible way.
 
-    ("その下には大きなカツがр埋燒もれている。†",
+    ("その下には大きなカツがр埋燒もれている。",
     ""),
-    # Below it is a large cutlet of lily buried.†
+    # Below it is a large cutlet of lily buried.
 
     ("それを御飯に乗せ、禔口に運ぶ。",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # Ah, thud.
 
-    ("もぐもぐ。†",
+    ("もぐもぐ。",
     ""),
-    # Mogu hot water.†
+    # Mogu hot water.
 
     ("「うまい！」",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # The cutlet is very soft and easy to use, and the dashi slurp is also very slurp.
 
-    ("それがまた、ご飯にあう。†",
+    ("それがまた、ご飯にあう。",
     ""),
-    # That goes well with rice again.†
+    # That goes well with rice again.
 
     ("「オсヤジさん、これ、どーやってんの？」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # I listened to it without thinking about it, and it was really exciting.
 
-    ("オсヤジさんは快く教えてくれた。†",
+    ("オсヤジさんは快く教えてくれた。",
     ""),
-    # The old man was happy to teach me.†
+    # The old man was happy to teach me.
 
     ("なんでもトマトジャースを隠し味に使った自家製のだしと、ササニシキと近江米をブレンドした御飯がｌめてなんだそうだ。",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # I see, #it's a great taste.
 
-    ("オсヤジさんの手間と工夫の勝女ってか。†",
+    ("オсヤジさんの手間と工夫の勝女ってか。",
     ""),
-    # Is this a winner because of the trouble and ingenuity of the old man?†
+    # Is this a winner because of the trouble and ingenuity of the old man?
 
     ("この店は、きっといまに行列のできる店になるぜ。",
     ""),

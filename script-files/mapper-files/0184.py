@@ -2,9 +2,9 @@
 # Source file: 0184.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（選択綜Ａ	オレが窒白酒で）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（選択綜Ａ	オレが窒白酒で）",
     ""),
-    # (Akari Scales Event 2F) Li (Shoku Sou A, Ogere is Nibai sake)†
+    # (Akari Scales Event 2F) Li (Shoku Sou A, Ogere is Nibai sake)
 
     ("「オレが窒白酒飲んで撃酔っ払ったことか？」",
     ""),
@@ -26,17 +26,17 @@ text_array = [
     ""),
     # "Heheh."
 
-    ("あかりはくすくす笑う。†",
+    ("あかりはくすくす笑う。",
     ""),
-    # Akari chuckles.†
+    # Akari chuckles.
 
     ("「ち痰ゃん、あのときは大暴齧れだったね」",
     ""),
     # "Choy, you had a big dick at that time."
 
-    ("「ちっ…」†",
+    ("「ちっ…」",
     ""),
-    # "Tch..." †
+    # "Tch..." 
 
     ("「п私と史ち痰ゃんからお菓子を取り上げて、ひな壇のぼって、一番續上で大笑いして…」",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Your mother is wearing a big boar and slurping my face with a lot of cups of nitrogen wine.
 
-    ("飲ませるからだ」†",
+    ("飲ませるからだ」",
     ""),
     # Because I'll give you a drink"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "They fell off, but the sputum fell on the ground, and the spurts didn't move, which was surprising, but in fact they just went to sleep and sputum..."
 
-    ("「お前、諱よくそんな大昔のこと覚えてるな。感心するぜ」†",
+    ("「お前、諱よくそんな大昔のこと覚えてるな。感心するぜ」",
     ""),
     # "You often remember such a long time ago. I'm impressed."
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "No, it's a precious memory."
 
-    ("あかりはクスクスと笑いながら言った。†",
+    ("あかりはクスクスと笑いながら言った。",
     ""),
-    # Akari said with a chuckle.†
+    # Akari said with a chuckle.
 
     ("「いま見骭ると、ちっち痰ゃいこのち痰ゃん、とっても可愛いんだよ」",
     ""),

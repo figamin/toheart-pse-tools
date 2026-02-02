@@ -2,7 +2,7 @@
 # Source file: 0F17.txt
 
 text_array = [
-    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	あかりと対岺戦）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	あかりと対岺戦）閨（蛛主人公煙負け）",
     ""),
     # (Arcade Battle Cry 3) (Closing ceremony edition) (Choices: Akari and the Battle of the Opposition) (Mrage Protagonist) (Shut up))
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "I did it, I won! Yeeee!"
 
-    ("い、意外とうまいな、あかりのやつ。†",
+    ("い、意外とうまいな、あかりのやつ。",
     ""),
-    # Yes, it's surprisingly good, the tampering of Akari.†
+    # Yes, it's surprisingly good, the tampering of Akari.
 
     ("「、あんた下濶手クソねえ〜。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Oh, that's fine."
 
-    ("今回はたまたま調子が悪かっただけだ。†",
+    ("今回はたまたま調子が悪かっただけだ。",
     ""),
-    # This time I just happened to be in a bad mood.†
+    # This time I just happened to be in a bad mood.
 
     ("「やったー、ち痰ゃんに勝ったー」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "How long will you keep phlegms even if you're in the middle of the day?!"
 
-    ("「あっ！」†",
+    ("「あっ！」",
     ""),
-    # "Ah!" †
+    # "Ah!" 
 
     ("なぜか志保にはあっさり勝った。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # why?
 
-    ("どうしてあかりに奄負けたんだ？†",
+    ("どうしてあかりに奄負けたんだ？",
     ""),
-    # Why did you lose to Akari?†
+    # Why did you lose to Akari?
 
     ("「なんだか、納得いかないわねー…」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "Uhh, I'm guilty of winning one more time!"
 
-    ("「いいぜ。何回でも受けて立つぞ」†",
+    ("「いいぜ。何回でも受けて立つぞ」",
     ""),
     # "That's fine. I'll get the hot water in a few times."
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # After that, the tenshic was kept on and the stolen ones were tampered with.
 
-    ("明坙日から春休みだという開匇放感が、自然とみんなをハイにさせたんだう。†",
+    ("明坙日から春休みだという開匇放感が、自然とみんなをハイにさせたんだう。",
     ""),
-    # The feeling of freedom that spring break started from Mingshuun Day naturally made everyone high.†
+    # The feeling of freedom that spring break started from Mingshuun Day naturally made everyone high.
 
     ("おかげで生衰茨株を使いすぎてしまった。",
     ""),

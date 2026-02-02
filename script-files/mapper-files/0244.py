@@ -2,17 +2,17 @@
 # Source file: 0244.txt
 
 text_array = [
-    ("（芹°香	好感度イベント	３）閨（好感度が３０以繹上のとき）閨（３桙時間目の休み桙時間）閨（渡闢り廊下）†",
+    ("（芹°香	好感度イベント	３）閨（好感度が３０以繹上のとき）閨（３桙時間目の休み桙時間）閨（渡闢り廊下）",
     ""),
-    # (Sei°Cho Likeability Event 3)Sei (when Likeability is above 30)Sei (when the favorability is above 30)Sei (blank time in the third fence)Sei (joining corridor)†
+    # (Sei°Cho Likeability Event 3)Sei (when Likeability is above 30)Sei (when the favorability is above 30)Sei (blank time in the third fence)Sei (joining corridor)
 
     ("３桙時間目の休み桙時間。",
     ""),
     # The third fence time is the break time.
 
-    ("渡闢り廊下を歩いていると、瘁例によってまた、鋳にいるｗ栖瑞謳先輩を見かけた。†",
+    ("渡闢り廊下を歩いていると、瘁例によってまた、鋳にいるｗ栖瑞謳先輩を見かけた。",
     ""),
-    # As I was walking down the corridor, I saw another senior at the kitte lol.†
+    # As I was walking down the corridor, I saw another senior at the kitte lol.
 
     ("いつもの、ひなたぼっこか？",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # I thought so, but now it's strange that it's on the day.
 
-    ("なにやってんだ。†",
+    ("なにやってんだ。",
     ""),
-    # What are you doing?†
+    # What are you doing?
 
     ("「芹°香せんぷぁーい」",
     ""),
@@ -54,17 +54,17 @@ text_array = [
     ""),
     # At first glance, it looks unobtrusive, but in fact there are some subtle surrealistic views in the movement of the eyes.
 
-    ("オレは先輩の表﨣情研結家でもあるのだ。†",
+    ("オレは先輩の表﨣情研結家でもあるのだ。",
     ""),
-    # My gei-re is a senior and I also have a hot-selling family.†
+    # My gei-re is a senior and I also have a hot-selling family.
 
     ("「さっきから、この辺ウ鴻ロウ鴻ロしてるけど、なにかさがしもの？」",
     ""),
     # "I've been doing this around here for a while now, but what are you looking for?!"
 
-    ("オレが聞くと、諱先輩はこくんとうなずいた。†",
+    ("オレが聞くと、諱先輩はこくんとうなずいた。",
     ""),
-    # When I heard, my senior nodded with Ko-kun.†
+    # When I heard, my senior nodded with Ko-kun.
 
     ("「え？	最近この辺に住みｒいてる浮黒ネコを捜してるって？	そんなネコいんの？」",
     ""),
@@ -78,17 +78,17 @@ text_array = [
     ""),
     # "You know? And it's the most grain you're looking for at dowsing..."
 
-    ("諱先輩は金属のおもりがついたペンデャラム（振關り子）をかざして言った。†",
+    ("諱先輩は金属のおもりがついたペンデャラム（振關り子）をかざして言った。",
     ""),
-    # Senpai said, holding up a pendya banquet ram with a hot metal heater.†
+    # Senpai said, holding up a pendya banquet ram with a hot metal heater.
 
     ("「ふ〜ん。なんならオレも、捜すの手伝ってやうか？」",
     ""),
     # "Hmm. In any case, can I help you find me and tamper with me?"
 
-    ("そう言うと、諱先輩は無表﨣情（だが嬉しそう）にうなずいた。†",
+    ("そう言うと、諱先輩は無表﨣情（だが嬉しそう）にうなずいた。",
     ""),
-    # When I said that, Senpai Nodded in a hollow, unrequited manner (but seemed happy).†
+    # When I said that, Senpai Nodded in a hollow, unrequited manner (but seemed happy).
 
     ("ガサガサ。",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("ガサガサ。†",
+    ("ガサガサ。",
     ""),
-    # Rust.†
+    # Rust.
 
     ("「いないな…」",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # Okay, let's take a look at it."
 
-    ("ガサガサ。†",
+    ("ガサガサ。",
     ""),
-    # Rust.†
+    # Rust.
 
     ("「…おっ」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # My eyes met.
 
-    ("諱よし、呼んでみよう。†",
+    ("諱よし、呼んでみよう。",
     ""),
-    # Okay, let's call you.†
+    # Okay, let's call you.
 
     ("「ちっちっちっちっち…」",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # "And phlegm... and phlegm."
 
-    ("いい感じだ。†",
+    ("いい感じだ。",
     ""),
-    # It feels good.†
+    # It feels good.
 
     ("「ちっちっちっちっち…」",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # "And... phlegm... phlegm... phlegm... phlegm"
 
-    ("ちょっと寄ってきた。†",
+    ("ちょっと寄ってきた。",
     ""),
-    # I came over to the ground.†
+    # I came over to the ground.
 
     ("「ちっちっちっちっち…」",
     ""),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # "And... phlegm... phlegm... phlegm... phlegm... phlegm..."
 
-    ("もう一汕押しだ。†",
+    ("もう一汕押しだ。",
     ""),
-    # I'll push another Shan.†
+    # I'll push another Shan.
 
     ("「おいで、ネコち痰ゃ〜ん。",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # The cat retreated with her whole body raised her hair.
 
-    ("猫のくせに、しっかりとお約束をわかってやがる。†",
+    ("猫のくせに、しっかりとお約束をわかってやがる。",
     ""),
-    # Even though he's a cat, he clearly understands his promises and tampers with it.†
+    # Even though he's a cat, he clearly understands his promises and tampers with it.
 
     ("「んだっ、このクソネコォーッ！	可愛くねーっ！」",
     ""),
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # "Hmm!"
 
-    ("こり痰ゃダ＜メだ、もう手がつけられん。†",
+    ("こり痰ゃダ＜メだ、もう手がつけられん。",
     ""),
-    # It's tough, I can't take it anymore.†
+    # It's tough, I can't take it anymore.
 
     ("オレがなかば、あきらめかけたとき、",
     ""),
@@ -266,9 +266,9 @@ text_array = [
     ""),
     # The shitty cat was easily stolen and jumped onto the senior's knee.
 
-    ("「…おい」†",
+    ("「…おい」",
     ""),
-    # "…Hey"†
+    # "…Hey"
 
     ("「………」",
     "…"),
@@ -286,17 +286,17 @@ text_array = [
     ""),
     # The more I watch, the more I get a feast that seems to have come to me and it becomes a tampering experience.
 
-    ("でもまあこの際、可愛くないのはどうでもいい。†",
+    ("でもまあこの際、可愛くないのはどうでもいい。",
     ""),
-    # And at this point, it's nice that it's not cute, isn't it?†
+    # And at this point, it's nice that it's not cute, isn't it?
 
     ("「とにかく見つかってよかったな」",
     ""),
     # "I'm glad you found it anyway."
 
-    ("オレが言うと、諱先輩はネコを抱いたまま、こくんとうなずいた。†",
+    ("オレが言うと、諱先輩はネコを抱いたまま、こくんとうなずいた。",
     ""),
-    # When I said that, my senior nodded with Ko-kun, holding his cat.†
+    # When I said that, my senior nodded with Ko-kun, holding his cat.
 
     ("「諱先輩って、ネコ好き？」",
     ""),
@@ -310,17 +310,17 @@ text_array = [
     ""),
     # "Yes, I don't hate it, I have no phlegm."
 
-    ("と嘯答えた。†",
+    ("と嘯答えた。",
     ""),
-    # He replied.†
+    # He replied.
 
     ("「ふーん。…それはそうと、そんなノラネコ捕まえてどうすんだ？	飼いたいのか？」",
     ""),
     # "Hmm...That's right, what are you going to do with catching a cat like that? Do you want to keep it?"
 
-    ("諱先輩はゆっくりと首を左右に振った。†",
+    ("諱先輩はゆっくりと首を左右に振った。",
     ""),
-    # Senpai slowly shook his head from side to side.†
+    # Senpai slowly shook his head from side to side.
 
     ("「じ痰ゃあ、なんでまた？」",
     ""),
@@ -334,9 +334,9 @@ text_array = [
     ""),
     # "Huh? On the sacrifice of the following ritual... "What, yeah, sacrifice?!"
 
-    ("ガーーーーーーーーーンッ！†",
+    ("ガーーーーーーーーーンッ！",
     ""),
-    # Gyaaaaah!†
+    # Gyaaaaah!
 
     ("「…い、いけにえって、こっ、殺すのかよ、その浮黒ネコ！？」",
     ""),
@@ -354,9 +354,9 @@ text_array = [
     ""),
     # Oh, hey.
 
-    ("轣冗談きついぜ。†",
+    ("轣冗談きついぜ。",
     ""),
-    # It's a tough joke.†
+    # It's a tough joke.
 
     ("「…は、はは、じょ、轣冗談キツイぜ、諱先輩？	そんな残梼酷なこと、優しい先輩にできるはずねーだ。いまのジョークだ？」",
     ""),
@@ -378,9 +378,9 @@ text_array = [
     ""),
     # "Are you serious?"
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("ガーーーーーーーーーンッ！",
     ""),
@@ -398,9 +398,9 @@ text_array = [
     ""),
     # Since it's called the "Fujiku M magic," I thought he would be doing something a little darker than that, but I never thought he would sacrifice a cat...
 
-    ("さすがにこれは、引いちまうぜ〜。†",
+    ("さすがにこれは、引いちまうぜ〜。",
     ""),
-    # This is definitely going to be a hit.†
+    # This is definitely going to be a hit.
 
     ("「………」",
     "…"),
@@ -410,25 +410,25 @@ text_array = [
     ""),
     # Senpai no Kashii was staring at the uncute cat.
 
-    ("あ〜あ、これさえなけり痰ゃ、諱先輩熹も≠普段は素直で優しいいい子なのに。†",
+    ("あ〜あ、これさえなけり痰ゃ、諱先輩熹も≠普段は素直で優しいいい子なのに。",
     ""),
-    # Ah, I don't have to worry about this, but Senpai Kei is usually a honest and kind, good girl.†
+    # Ah, I don't have to worry about this, but Senpai Kei is usually a honest and kind, good girl.
 
     ("やっぱ、厳しいおｏ様教迢育が、こんなふうな歪んだｎ味に魔走迹らせちまったんだうな。",
     ""),
     # After all, the strict teaching education of O-san has been transformed into such a distorted n-taste.
 
-    ("そう思うと、なんだか少しかわいそうになってきた。†",
+    ("そう思うと、なんだか少しかわいそうになってきた。",
     ""),
-    # When I think about it, I started to feel a little sorry for him.†
+    # When I think about it, I started to feel a little sorry for him.
 
     ("可愛くないネコが、んに痰ゃ〜〜〜〜〜〜と鳴いた。",
     ""),
     # The uncute cat cried out, phlegmy at the garlic.
 
-    ("可愛くないネコだけに声熕もやっぱり可愛くない。†",
+    ("可愛くないネコだけに声熕もやっぱり可愛くない。",
     ""),
-    # It's not cute, so the voices are not cute after all.†
+    # It's not cute, so the voices are not cute after all.
 
     ("「可愛くねぇ〜…」",
     ""),
@@ -450,9 +450,9 @@ text_array = [
     ""),
     # "Look!"
 
-    ("ネコはオレの手を思いっきりひっかいた。†",
+    ("ネコはオレの手を思いっきりひっかいた。",
     ""),
-    # The cat scratched my hard hand as hard as she could.†
+    # The cat scratched my hard hand as hard as she could.
 
     ("「…こ、こいつッ！」",
     ""),
@@ -466,9 +466,9 @@ text_array = [
     ""),
     # "Yeah, there's phlegm~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    ("と鳴いた。†",
+    ("と鳴いた。",
     ""),
-    # It cried.†
+    # It cried.
 
     ("「…く、くぬやぉ〜っ！	わかった、もうわかった。",
     ""),
@@ -482,9 +482,9 @@ text_array = [
     ""),
     # If it helps to help Senpai's B-Magic Skills, then this guy is worthy of the armour he was born in.Is that b?”
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「諱よかったな、クソネコ。お前には名誉の死が与えられるそうだぜ」",
     ""),
@@ -502,9 +502,9 @@ text_array = [
     ""),
     # "Stay!"
 
-    ("ネコは再びオレの手をひっかいた。†",
+    ("ネコは再びオレの手をひっかいた。",
     ""),
-    # The cat scratched my hand again.†
+    # The cat scratched my hand again.
 
     ("「こ、この…！	諱よし、諱先輩。じ痰ゃあ今厓日の冾放課繪後にでも、さっそく儀式を始めよう」",
     ""),
@@ -514,9 +514,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩はじっとネコと見つめて動かない。†",
+    ("諱先輩はじっとネコと見つめて動かない。",
     ""),
-    # Senpai stares at his cat and doesn't move.†
+    # Senpai stares at his cat and doesn't move.
 
     ("「ん？	どうしたんだ？」",
     ""),
@@ -526,15 +526,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	かわいそう？	可哀想って、この可愛くないネコがか？」†",
+    ("「えっ？	かわいそう？	可哀想って、この可愛くないネコがか？」",
     ""),
-    # "Huh? Poor me? Poor, is this uncute cat?"†
+    # "Huh? Poor me? Poor, is this uncute cat?"
 
     ("「………」",
     "…"),
     # "..."
 
-    ("「えっ、かわいい！？	うそだぉ、こんな桙憎ったらしいネコのどこが可愛いんだ！？」†",
+    ("「えっ、かわいい！？	うそだぉ、こんな桙憎ったらしいネコのどこが可愛いんだ！？」",
     ""),
     # "What, is it okay?! That's a lie, what's so cute about this cat that you've hated with?!"
 
@@ -558,17 +558,17 @@ text_array = [
     ""),
     # "I see..."
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("う〜ん。",
     ""),
     # Yeah.
 
-    ("どうやら可愛いの薰基準がオレとはちょっとズレてるらしいな。†",
+    ("どうやら可愛いの薰基準がオレとはちょっとズレてるらしいな。",
     ""),
-    # Apparently, the standard for being tampered with or cute is really crazy.†
+    # Apparently, the standard for being tampered with or cute is really crazy.
 
     ("「………」",
     "…"),
@@ -586,9 +586,9 @@ text_array = [
     ""),
     # "What!? I'll keep it for a while!? You're going to keep it, this shitty cat!?"
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("「そり痰ゃちょっと、やめといたほうが｢｢」",
     ""),
@@ -606,17 +606,17 @@ text_array = [
     ""),
     # "Go!"
 
-    ("こ、こいつ、なんで、オレだけ〜っ！？†",
+    ("こ、こいつ、なんで、オレだけ〜っ！？",
     ""),
-    # Hey, why is this guy just me so crazy??†
+    # Hey, why is this guy just me so crazy??
 
     ("『んに痰ゃ〜〜〜〜〜〜〜ん』",
     ""),
     # "Yeah, there's phlegm~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    ("諱先輩が手を冾放しても、可愛くないネコは、逃げずに先輩の足熨もとに付きまとっている。†",
+    ("諱先輩が手を冾放しても、可愛くないネコは、逃げずに先輩の足熨もとに付きまとっている。",
     ""),
-    # Senpai lets out his hands and the uncute cat keeps on his feet, but the uncute cat doesn't run away and hangs out with his senior's feet.†
+    # Senpai lets out his hands and the uncute cat keeps on his feet, but the uncute cat doesn't run away and hangs out with his senior's feet.
 
     ("「…そのネコ、本気で飼うのかよ？」",
     ""),
@@ -630,9 +630,9 @@ text_array = [
     ""),
     # "Well, if my senior name says that, I wouldn't stop him."
 
-    ("『んに痰ゃ〜〜〜〜〜〜〜ん』†",
+    ("『んに痰ゃ〜〜〜〜〜〜〜ん』",
     ""),
-    # "Yeah, there's phlegm" †
+    # "Yeah, there's phlegm" 
 
     ("「しっかし、可愛くね〜〜〜〜っ」",
     ""),
@@ -646,7 +646,7 @@ text_array = [
     ""),
     # "Bagatarigatari!
 
-    ("「いてぇッ！」†",
+    ("「いてぇッ！」",
     ""),
     # "Stay!"
 
@@ -658,9 +658,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("｢｢というわけで、結局諡先輩は可愛くないネコを飼うことになった。◯",
     ""),

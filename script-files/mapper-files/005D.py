@@ -2,25 +2,25 @@
 # Source file: 005D.txt
 
 text_array = [
-    ("４／１４（氏月）†",
+    ("４／１４（氏月）",
     ""),
-    # 4/14 (Mr. Mon)†
+    # 4/14 (Mr. Mon)
 
     ("今厓日燗もお勤めご苦労さん…かな？",
     ""),
     # I'm sure you're working hard at Kohinkan right now... I wonder?
 
-    ("これから楽しい自由棊時間の始まりだ。†",
+    ("これから楽しい自由棊時間の始まりだ。",
     ""),
-    # Now is the beginning of a fun free time.†
+    # Now is the beginning of a fun free time.
 
     ("だらだらと廊下を歩く。",
     ""),
     # I walked around the hallways lazily.
 
-    ("帰闍りの生徒たちとすれ痰違う。†",
+    ("帰闍りの生徒たちとすれ痰違う。",
     ""),
-    # The students who have returned home are completely different.†
+    # The students who have returned home are completely different.
 
     ("「、またな」",
     ""),
@@ -30,25 +30,25 @@ text_array = [
     ""),
     # "Ou"
 
-    ("クラスの男子が手を上げて、玄関から出て行った。†",
+    ("クラスの男子が手を上げて、玄関から出て行った。",
     ""),
-    # The boys at the Crown Rath lifted their hands and left the front door.†
+    # The boys at the Crown Rath lifted their hands and left the front door.
 
     ("もし誰かに出初ったらいっしょに帰うかと思ったが、誰熬もいないみてーだな。",
     ""),
     # I thought if I had first appeared with someone, I would return to the Ebi, but I'd see no one there.
 
-    ("し痰ゃーない、ひとりで帰う。†",
+    ("し痰ゃーない、ひとりで帰う。",
     ""),
-    # There's no phlegm, I'll come back on my own.†
+    # There's no phlegm, I'll come back on my own.
 
     ("ふう、いい窒湯だった。",
     ""),
     # Wow, it was nice nitrogen.
 
-    ("バスタオルで髪をふく。†",
+    ("バスタオルで髪をふく。",
     ""),
-    # She cried her bath towel and wiped her hair.†
+    # She cried her bath towel and wiped her hair.
 
     ("濡齡れた髪が乾くまで、テレビを見謖よう。",
     ""),

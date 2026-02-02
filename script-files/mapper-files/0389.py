@@ -2,17 +2,17 @@
 # Source file: 0389.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（３月）閨（選択綜Ｂ	用があるからの続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（３月）閨（選択綜Ｂ	用があるからの続き）",
     ""),
-    # (Tomoko's Scales Event: Departing from School LV2) (3 Shizuki) (Continued because there is a selection of Scales B)†
+    # (Tomoko's Scales Event: Departing from School LV2) (3 Shizuki) (Continued because there is a selection of Scales B)
 
     ("「用があるから」",
     ""),
     # "Because I have something to do"
 
-    ("と、オレは言った。†",
+    ("と、オレは言った。",
     ""),
-    # said my geek.†
+    # said my geek.
 
     ("「そう…」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # In addition to the fact that I have a "sense of use" is used for situations where there is a "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in the "sense of use" in
 
-    ("あかりはその辺のこともわかっているので、いちいち『どんな用？』とか、つっこんだりしない。†",
+    ("あかりはその辺のこともわかっているので、いちいち『どんな用？』とか、つっこんだりしない。",
     ""),
-    # Akari knows about this and is also aware of this, so she says, "What kind of use?""I don't say anything like that.†
+    # Akari knows about this and is also aware of this, so she says, "What kind of use?""I don't say anything like that.
 
     ("「それじ痰ゃあね」",
     ""),

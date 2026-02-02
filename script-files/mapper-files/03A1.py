@@ -2,17 +2,17 @@
 # Source file: 03A1.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（４月）閨（好感度８を見ている状態なら発生）閨（校門外）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ４）閨（４月）閨（好感度８を見ている状態なら発生）閨（校門外）",
     ""),
-    # (Tomoko's Scales Event: Leaving from school LV4) (4 Shizuki) (occurs if you are looking at a likeability level of 8) (occupying the school (outside the school) †
+    # (Tomoko's Scales Event: Leaving from school LV4) (4 Shizuki) (occurs if you are looking at a likeability level of 8) (occupying the school (outside the school) 
 
     ("校門を出たとこで、委員長を見つけた。",
     ""),
     # I found the chairman when I left the school gates.
 
-    ("なんだか、誰かを待ってるみたいだな。†",
+    ("なんだか、誰かを待ってるみたいだな。",
     ""),
-    # It feels like I'm waiting for someone.†
+    # It feels like I'm waiting for someone.
 
     ("「諱よっ、いいんちょ」",
     ""),
@@ -30,17 +30,17 @@ text_array = [
     ""),
     # "Absolutely..."
 
-    ("委員長は照齒れたように目をそらした。†",
+    ("委員長は照齒れたように目をそらした。",
     ""),
-    # The chairman looked away, illuminating.†
+    # The chairman looked away, illuminating.
 
     ("なんだ？",
     ""),
     # What?
 
-    ("まさか、委員長が待ってる鰍相闡手って…。†",
+    ("まさか、委員長が待ってる鰍相闡手って…。",
     ""),
-    # I can't believe the classmates that the chairman is waiting for...†
+    # I can't believe the classmates that the chairman is waiting for...
 
     ("「なあ、もしかして、オレを待っててくれたのか？」",
     ""),

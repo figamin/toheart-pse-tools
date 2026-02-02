@@ -2,9 +2,9 @@
 # Source file: 010A.txt
 
 text_array = [
-    ("（あかり	冝日付イベント	３）閨（４月３０冾日）閨（３桙時間目の授業拠）閨（教室	誰熬も盾居ない）†",
+    ("（あかり	冝日付イベント	３）閨（４月３０冾日）閨（３桙時間目の授業拠）閨（教室	誰熬も盾居ない）",
     ""),
-    # (Akari Pick Date Event 3) (4th Lion Day 30th) (Lead Time) (Lead Time 3) (Lead Time) (Lead Time) (Lead Class None of the Shields are in the Shield) †
+    # (Akari Pick Date Event 3) (4th Lion Day 30th) (Lead Time) (Lead Time 3) (Lead Time) (Lead Time) (Lead Class None of the Shields are in the Shield) 
 
     ("その冾日、３桙時間目の授業拠。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # During my second year, everyone was gathered in the audiovisual room and received guidance on the school trip.
 
-    ("旅行のしおりを受け取り、コースの説明、いいな高注意毎事項などを聞く。†",
+    ("旅行のしおりを受け取り、コースの説明、いいな高注意毎事項などを聞く。",
     ""),
-    # You will receive your travel bookmarks, listen to information about the course, and listen to all the information you need to be careful about.†
+    # You will receive your travel bookmarks, listen to information about the course, and listen to all the information you need to be careful about.
 
     ("今年の行き先は北海道だ。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # If we break away from the memorial service and see the far-reaching Horizons, that alone will make a change of hot springs lol.
 
-    ("司脂の先生から『北海道はでっかいどう』というお約束ギャャグも飛び出し、ガイダンスは滞闡りなく終了した。†",
+    ("司脂の先生から『北海道はでっかいどう』というお約束ギャャグも飛び出し、ガイダンスは滞闡りなく終了した。",
     ""),
-    # Tsukasa no Sensei also promising that "Hokkaido is big," and the guidance ended without a hitch.†
+    # Tsukasa no Sensei also promising that "Hokkaido is big," and the guidance ended without a hitch.
 
     ("席に座ってパラパラしおりを眺めていると、嬉しそうな顔をしたあかりがやってきた。",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Oh, what?
 
-    ("嬉しそうな顔しやがって」†",
+    ("嬉しそうな顔しやがって」",
     ""),
     # He looks happy and tampered with it."
 
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "Yes. The northern lilies that I admire are finally approaching the next moment."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「そういや、しおりのこのページだけどな」",
     ""),

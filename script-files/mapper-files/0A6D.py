@@ -2,17 +2,17 @@
 # Source file: 0A6D.txt
 
 text_array = [
-    ("（掾理女緒	好感度イベント	ＶＳ志保）閨（休匤日）閨（自室）†",
+    ("（掾理女緒	好感度イベント	ＶＳ志保）閨（休匤日）閨（自室）",
     ""),
-    # (Erimeo's Likeability Event VS Shiho) (Closed days) (My room)†
+    # (Erimeo's Likeability Event VS Shiho) (Closed days) (My room)
 
     ("今厓日はあえてやらなき痰ゃいけないこともないし、たまには予習でもしとくか。",
     ""),
     # I don't have to do anything I have to tamper with on the day I'm currently in the middle of a while, so I'll have to do some prep work.
 
-    ("さらっとでも、やっとき痰ゃいいだ。†",
+    ("さらっとでも、やっとき痰ゃいいだ。",
     ""),
-    # It's light and hot, but it's fine to have a sputum.†
+    # It's light and hot, but it's fine to have a sputum.
 
     ("さてと、腹熾も減ったことだし、食事がてらモ買い物にでも行ってこよう。◯",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Well..."
 
-    ("「フラフラ歩いてるだけのくせして、なにが『まあね』だ。どうせ遊びだ？」†",
+    ("「フラフラ歩いてるだけのくせして、なにが『まあね』だ。どうせ遊びだ？」",
     ""),
     # "Even though I'm just walking around, what's 'Well?'. It's just a play b, right?"
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "...Hmm. Hey, thunder."
 
-    ("「オ＜メーがだ」†",
+    ("「オ＜メーがだ」",
     ""),
-    # "Oh no shit" †
+    # "Oh no shit" 
 
     ("「あ、縺後撃｢｢」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # Shiho suddenly pointed at the attack after my surge.
 
-    ("「うん？」†",
+    ("「うん？」",
     ""),
-    # "Yeah?"†
+    # "Yeah?"
 
     ("ドカッ！",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Ah, it's too much."
 
-    ("「驕るっせえ。見えてんだったら教えよな、さっさと」†",
+    ("「驕るっせえ。見えてんだったら教えよな、さっさと」",
     ""),
-    # "Stay arrogant. If you can see, teach me, quickly." †
+    # "Stay arrogant. If you can see, teach me, quickly." 
 
     ("そして立ち上がって、ぶつかった鰍相闡手を振關り返髟る。",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "a…"
 
-    ("びっくりしながらも、掾理女緒ち痰ゃんは素¢早く立ち上がる。†",
+    ("びっくりしながらも、掾理女緒ち痰ゃんは素¢早く立ち上がる。",
     ""),
-    # Surprisingly, Hou, the man who is the one who is the one who is suddenly raised up quickly.†
+    # Surprisingly, Hou, the man who is the one who is the one who is suddenly raised up quickly.
 
     ("「あら？	知ってる子？」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # I didn't want to be found by a man who was the one who was the one who didn't want to find him...
 
-    ("話陂題をそらさないと。†",
+    ("話陂題をそらさないと。",
     ""),
-    # I have to distract the topic.†
+    # I have to distract the topic.
 
     ("「これからバイトか？	いつも大変だな」",
     ""),
@@ -166,7 +166,7 @@ text_array = [
     ""),
     # "Oh?"
 
-    ("「へえ、志保のことも知ってんだ？」†",
+    ("「へえ、志保のことも知ってんだ？」",
     ""),
     # "Whoa, do you know about Shiho too?"
 
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # They even advertise themselves in admirable way, even on the standout side of the boat."
 
-    ("「なによ、失敬なこと言甯わないでよ」†",
+    ("「なによ、失敬なこと言甯わないでよ」",
     ""),
-    # "What, don't say something rude" †
+    # "What, don't say something rude" 
 
     ("「あ、あの…」",
     ""),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # "What?
 
-    ("雛山さん？」†",
+    ("雛山さん？」",
     ""),
-    # Hinayama-san?”†
+    # Hinayama-san?”
 
     ("「あの…。長岡さんって、くんと、どんな関係なんですか？」",
     ""),
@@ -218,9 +218,9 @@ text_array = [
     ""),
     # "relationship?"
 
-    ("聞くなり志保が、ヒャーッと小さく唇を鳴逍らして、オレの桙服のそでをひっぱった。†",
+    ("聞くなり志保が、ヒャーッと小さく唇を鳴逍らして、オレの桙服のそでをひっぱった。",
     ""),
-    # As soon as he heard, Shiho sniffed his lips into a small squeal and twitched the sleeves of my hard-working fox clothes.†
+    # As soon as he heard, Shiho sniffed his lips into a small squeal and twitched the sleeves of my hard-working fox clothes.
 
     ("「ちょっとアンタ、この子どうしたのよ？	どこでひっかけたの？」",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # Although it's fine for the Jorime Ochi Shoyan to be extremely high, even if you don't know what to do with Kaji, you're not going to be a sphemy.
 
-    ("つっても、そり痰ゃ無摶理か。†",
+    ("つっても、そり痰ゃ無摶理か。",
     ""),
-    # So even if it's not smeared, is it irrelevant?†
+    # So even if it's not smeared, is it irrelevant?
 
     ("「掾理女緒ち痰ゃんとは、そういうんじ痰ゃねえっての」",
     ""),

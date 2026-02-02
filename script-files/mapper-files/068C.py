@@ -2,9 +2,9 @@
 # Source file: 068C.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ｂ	どうだ、びっくりしたか）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ｂ	どうだ、びっくりしたか）",
     ""),
-    # (Makyuruchi, Scales Event 2F LV2) (Select B: What's that? Is it surprising?)†
+    # (Makyuruchi, Scales Event 2F LV2) (Select B: What's that? Is it surprising?)
 
     ("「どうだ、びっくりしたか？」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I said with a mischievous laugh.
 
-    ("「え、ええ、それはもう。ブレーカーが落ちち痰ゃうぐらいですから」†",
+    ("「え、ええ、それはもう。ブレーカーが落ちち痰ゃうぐらいですから」",
     ""),
     # "Yeah, that's hot. The breaker laker is almost like a sputum."
 
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Huh"
 
-    ("ということは、マルチはじつに驚かしがいのあるрヤツだっていうことか。†",
+    ("ということは、マルチはじつに驚かしがいのあるрヤツだっていうことか。",
     ""),
-    # That means that Makruchi is a truly surprising guy.†
+    # That means that Makruchi is a truly surprising guy.
 
     ("「ふ〜ん。マルチ…」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # Without it, I tried again.
 
-    ("さすがに今回は気站絶こそしなかったものの、それでもマルチは飛び上がって驚いた。†",
+    ("さすがに今回は気站絶こそしなかったものの、それでもマルチは飛び上がって驚いた。",
     ""),
-    # Although it was obvious that he didn't stop thinking about the issue this time, he was surprised to see that the cries and squeals surged.†
+    # Although it was obvious that he didn't stop thinking about the issue this time, he was surprised to see that the cries and squeals surged.
 
     ("「…う、ううっ。",
     ""),
@@ -82,8 +82,8 @@ text_array = [
     ""),
     # I get it, I get it, I'll never tamper with it anymore."
 
-    ("「ううっ…」†",
+    ("「ううっ…」",
     ""),
-    # "Uhh..." †
+    # "Uhh..." 
 
 ]

@@ -2,9 +2,9 @@
 # Source file: 0588.txt
 
 text_array = [
-    ("（葵	回秤数イベント３	選択繿後	Ａ）†",
+    ("（葵	回秤数イベント３	選択繿後	Ａ）",
     ""),
-    # (Aoi: After the selection event 3 A)†
+    # (Aoi: After the selection event 3 A)
 
     ("「やっぱり、格闘技をもっと詳しく知闥りたくなったから…かな？」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "is that so"
 
-    ("葵ち痰ゃんはにっこりと笑った。†",
+    ("葵ち痰ゃんはにっこりと笑った。",
     ""),
-    # Aoi Chisho-yan smiled.†
+    # Aoi Chisho-yan smiled.
 
     ("「葵ち痰ゃんも言ってた？	格闘技は本末当に怩奥が深いって。",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # The more you tamper with it, the whiter the boar.
 
-    ("毎坙日、自分が少しずつ強くなっていく充実感、努力が実ったときのｊび。そういうの、少しでもいいからオレも感じてみたいと思ってさ」†",
+    ("毎坙日、自分が少しずつ強くなっていく充実感、努力が実ったときのｊび。そういうの、少しでもいいからオレも感じてみたいと思ってさ」",
     ""),
     # Every day, I feel fulfilled as I gradually become stronger, and when my efforts come true, I feel a sense of fulfillment.I'd like to feel the hot water in a little bit, but I'd like to feel the great deal of excitement."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Aoi Chisho-yan put his hand on his chest and muttered it as if he was really moved.
 
-    ("「はい、わかりました！	少しでも格闘技の面猪白さをわかっていただけるよう、п私燻も努力します！」†",
+    ("「はい、わかりました！	少しでも格闘技の面猪白さをわかっていただけるよう、п私燻も努力します！」",
     ""),
     # "Yes, I understand! I will also try my best to smoke in order to help you understand the whiteness of martial arts and martial arts!"
 

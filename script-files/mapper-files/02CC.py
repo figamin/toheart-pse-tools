@@ -2,9 +2,9 @@
 # Source file: 02CC.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ６）閨（選択綜Ｂ	成功煬もあれば失敗熹もある）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ６）閨（選択綜Ｂ	成功煬もあれば失敗熹もある）",
     ""),
-    # (Seri°Chuang, Scales Event 2F LV6)Seri (Select B, some success and some failures)†
+    # (Seri°Chuang, Scales Event 2F LV6)Seri (Select B, some success and some failures)
 
     ("「もう、あきらめよう」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレがそう言うと、諱先輩は悲しそうな顔でうつむいた。†",
+    ("オレがそう言うと、諱先輩は悲しそうな顔でうつむいた。",
     ""),
-    # When I said that, my senior fellow looked sad and looked down.†
+    # When I said that, my senior fellow looked sad and looked down.
 
     ("「そり痰ゃあ、成功煬もあれば失敗熹もあるだ。",
     ""),
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # If they're guaranteed to succeed every time, everyone in World Birch is full of b-wizards."
 
-    ("オレは微笑んで言った。†",
+    ("オレは微笑んで言った。",
     ""),
-    # I said with a smile.†
+    # I said with a smile.
 
     ("「すみません…」",
     ""),
     # "sorry…"
 
-    ("「えっ、諱先輩、なに謝ってんだよ。これでもけっこう楽しんでんだぜ」†",
+    ("「えっ、諱先輩、なに謝ってんだよ。これでもけっこう楽しんでんだぜ」",
     ""),
     # "What, Senpai, what are you apologizing? You've been enjoying Hot a lot with this."
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "Huh? You wanted to show me that there's B-magic magic at the end of the day?"
 
-    ("こく…。†",
+    ("こく…。",
     ""),
-    # So...†
+    # So...
 
     ("「………」",
     "…"),
@@ -70,17 +70,17 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩…。†",
+    ("諱先輩…。",
     ""),
-    # Senior name...†
+    # Senior name...
 
     ("「うん、わかった。じ痰ゃあ、今度また見せてくれよ」",
     ""),
     # "Yeah, I understand. I'll show you some more phlegm next time."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「信じる力があれば、きっと垂叶うんだ？」",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 038D.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ａ	あかり、蛛大苟丈夫か！？）閨（＋＝ａがある場㍼合）閨（本屋）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ａ	あかり、蛛大苟丈夫か！？）閨（＋＝ａがある場㍼合）閨（本屋）",
     ""),
-    # (Tomoko's Scales Event: Departing from School LV2) (Choice Sou A about this Ogiri lol If you're going to get a hook up next to you, then you'll have to be a next-day training!) (Choice Sou A, is it light, a great sturdy!?) (Choice Sou A, where there is += a, please) (Bookstore) †
+    # (Tomoko's Scales Event: Departing from School LV2) (Choice Sou A about this Ogiri lol If you're going to get a hook up next to you, then you'll have to be a next-day training!) (Choice Sou A, is it light, a great sturdy!?) (Choice Sou A, where there is += a, please) (Bookstore) 
 
     ("時間があったので、あかりをつき№合寘わせて本屋に寄った。",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Manga"
 
-    ("「なーんだ」†",
+    ("「なーんだ」",
     ""),
     # "What is it?"
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # It's stupid to look down on the ground just because it's entertainment."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「物語を考えながら構成を練り、さらに絵煌も描かなき痰ゃならないんだぞ。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # Even in the manga I usually read casually, it's packed with generous talent and effort."
 
-    ("「う、うん。たしかに…」†",
+    ("「う、うん。たしかに…」",
     ""),
-    # "Uh, yes. Certainly..."†
+    # "Uh, yes. Certainly..."
 
     ("「とこでお前、『すすめの三燻歩』っていうマンガ知ってるか？	ボクシングのрヤツ」",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「オレが一巻から全泊部貸してやるから、いまから家に取りにｗい。読んで感想を聞かせるべし」†",
+    ("「オレが一巻から全泊部貸してやるから、いまから家に取りにｗい。読んで感想を聞かせるべし」",
     ""),
     # "I'll lend you all the Tomari clubs from the first volume and send you a tampering session, so I'll be back at home now. I'll read it and let you know what you think."
 

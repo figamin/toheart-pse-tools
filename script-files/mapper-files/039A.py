@@ -2,9 +2,9 @@
 # Source file: 039A.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｃ	断固、信じねーぞ）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｃ	断固、信じねーぞ）",
     ""),
-    # (Tomoko's Scales Event: Departing from School LV1) (Choice C: I'm not sure I'll believe it)†
+    # (Tomoko's Scales Event: Departing from School LV1) (Choice C: I'm not sure I'll believe it)
 
     ("「断固、信じねーぞ」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I said firmly.
 
-    ("「なんでよー！？」†",
+    ("「なんでよー！？」",
     ""),
     # "Why?!"
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "Do you know how you were called by the people of the world? There are still so many more, such as the wide-legged school uniforms that are walking around, and the geitosu-su-su-su-su-su-su-su-o" in the kingdom of the Sanskrit uniforms."
 
-    ("「ぐっ…」†",
+    ("「ぐっ…」",
     ""),
-    # "Grrrr..." †
+    # "Grrrr..." 
 
     ("「だいたい信叶頼度５０パーセントつってもな、正しいのはつまんねー﨟情報ばっかりで、面猪白そうなのはほとんどデマじ痰ゃねーか」",
     ""),
     # "The level of reliability is generally 50%, so it's boring to be correct. It's all about information, and most people who look like they're looking a bit gross are a bit of a slut."
 
-    ("「失邇礼ねぇ、そんなことないわよぉ！」†",
+    ("「失邇礼ねぇ、そんなことないわよぉ！」",
     ""),
     # "Sorry, that's not true!"
 
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "What happened to you, phlegm? What happened to you? What about the third-year homeroom teacher who tried to get a student and got fired?"
 
-    ("「えっ？	ああ、そんなのもあったわね」†",
+    ("「えっ？	ああ、そんなのもあったわね」",
     ""),
     # "Huh? Ah, there was a lot of that."
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "What happened to the story of my principal being glaring at the Ministry of Education and Shipping and being demoted somewhere?"
 
-    ("「の、п延びてんじ痰ゃない？」†",
+    ("「の、п延びてんじ痰ゃない？」",
     ""),
     # "No, isn't there any phlegm that is too long?"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "What happened when my senior managed to get in touch with Myajishaan's Y Komuro?"
 
-    ("「いまも続いてると思うよ、きっと」†",
+    ("「いまも続いてると思うよ、きっと」",
     ""),
     # "I think the hot springs are continuing now, I'm sure."
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "All the night club is lying."
 
-    ("オレは目を細めて言った。†",
+    ("オレは目を細めて言った。",
     ""),
-    # My eyes narrowed and said.†
+    # My eyes narrowed and said.
 
     ("「そうやって、何度燗も何度燗も狼がｗたーって言ってると、ホントに狼がｗても誰熬も浮助けてくれねーぞ」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "It's Aesop."
 
-    ("志保はコホンとせき払いした。†",
+    ("志保はコホンとせき払いした。",
     ""),
-    # Shiho cried out.†
+    # Shiho cried out.
 
     ("「つ、つまり！	この高度に発展した薰情報化社脂を生きていくには、受け手側にも正しい判断力が問嵂われるわけよ。なんでもかんでもうのみにしち痰ゃダ＜メってことね」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "That's right. So I don't believe you."
 
-    ("「ぐっ…」†",
+    ("「ぐっ…」",
     ""),
-    # "Grrrr..." †
+    # "Grrrr..." 
 
     ("「そんないい加減な薰情報を信じち痰ゃ、委員長がかわいそうだぜ」",
     ""),
@@ -102,17 +102,17 @@ text_array = [
     ""),
     # "What! I mean, I'm not phlegmy, what are you saying?!"
 
-    ("「なんで、お前がかわいそうなんだよ。無ヶ茶苦ル茶言うな」†",
+    ("「なんで、お前がかわいそうなんだよ。無ヶ茶苦ル茶言うな」",
     ""),
-    # "Why are you sorry about me? Don't say Mugachasaikurikucha."†
+    # "Why are you sorry about me? Don't say Mugachasaikurikucha."
 
     ("「もっ、もういいわよっ、バカッ！」",
     ""),
     # "Oh, it's fine, idiot!"
 
-    ("志保はアッカンベーと大きく舌を出すと、つんっと顔を背け、坂を駆け下濶りていった。†",
+    ("志保はアッカンベーと大きく舌を出すと、つんっと顔を背け、坂を駆け下濶りていった。",
     ""),
-    # Shiho spoke loudly and thrust into his tongue, then turned his face away and squealed down the hill and leaned back down.†
+    # Shiho spoke loudly and thrust into his tongue, then turned his face away and squealed down the hill and leaned back down.
 
     ("それにしても…だ。",
     ""),

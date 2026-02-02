@@ -2,9 +2,9 @@
 # Source file: 0A38.txt
 
 text_array = [
-    ("（掾理女緒	回秤数イベント）閨（帰驪る	ＬＶ３）閨（公園）†",
+    ("（掾理女緒	回秤数イベント）閨（帰驪る	ＬＶ３）閨（公園）",
     ""),
-    # (Erimeo O's Scales Event) (Come to the LV3) (Parquet)†
+    # (Erimeo O's Scales Event) (Come to the LV3) (Parquet)
 
     ("「に痰ゃーん」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # From there, the child, Sinfuku, chases after her with energy.
 
-    ("「こらまてー、たまさぶー！」†",
+    ("「こらまてー、たまさぶー！」",
     ""),
     # "Come on, Tamasabu b!"
 

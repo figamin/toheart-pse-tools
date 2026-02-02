@@ -2,9 +2,9 @@
 # Source file: 0643.txt
 
 text_array = [
-    ("（マルチ	好感度イベント４）閨（好感度が	のとき）閨（５桙時間目の休み桙時間）閨（廊下２）†",
+    ("（マルチ	好感度イベント４）閨（好感度が	のとき）閨（５桙時間目の休み桙時間）閨（廊下２）",
     ""),
-    # (Makkuruchi Likeability Event 4) (When Likeability is ) (Break time in 5th frame time) (Corridor 2) †
+    # (Makkuruchi Likeability Event 4) (When Likeability is ) (Break time in 5th frame time) (Corridor 2) 
 
     ("５桙時間目の休み桙時間。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Can I just suppose?"
 
-    ("「はい？」†",
+    ("「はい？」",
     ""),
-    # "yes?"†
+    # "yes?"
 
     ("「じつは、ちょっと質竡問があるんだけどさ」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "ah"
 
-    ("オレはうなずいた。†",
+    ("オレはうなずいた。",
     ""),
-    # I nodded.†
+    # I nodded.
 
     ("「さっきの桙時間、ふとある疑站問が浮かんでな。どうしてもそれが気になっちまって」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "It's about the body of Makruchi."
 
-    ("「わたしのからだ…ですか？」†",
+    ("「わたしのからだ…ですか？」",
     ""),
     # "Is it my body...?"
 
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "That means that the 'b-hot' that is normally invisible' is also reproduced in the 'Karyuru'."
 
-    ("「はい、多分…」†",
+    ("「はい、多分…」",
     ""),
-    # "Yes, maybe..."†
+    # "Yes, maybe..."
 
     ("「でな、質竡問なんだけど」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "?"
 
-    ("ひそひそ…。†",
+    ("ひそひそ…。",
     ""),
-    # It's shy...†
+    # It's shy...
 
     ("「｢｢その下って、どうなってるんだ？」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ええっ！？」",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "Why do you want to know about Hou too? I wonder how true Makruchi looks like a human?"
 
-    ("「…えっ、で、でも…」†",
+    ("「…えっ、で、でも…」",
     ""),
-    # "...Eh, and the hot water..."†
+    # "...Eh, and the hot water..."
 
     ("「なあ、なあ、どうなってんだ？」",
     ""),
@@ -150,7 +150,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「な、梶頼むよ〜」†",
+    ("「な、梶頼むよ〜」",
     ""),
     # "W-Please Kaji~"
 
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "...I understand. I have to go through it. I have to sigh the truth, but I'm asking no other people for a chomp on my face..."
 
-    ("「話せるぜ、マルチ！	…で、どうなってるんだ？」†",
+    ("「話せるぜ、マルチ！	…で、どうなってるんだ？」",
     ""),
     # "I can talk about it, Ruchi! ...So, what's going on?"
 
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # ...Ko-kun.
 
-    ("マルチは小さくうなずいた。†",
+    ("マルチは小さくうなずいた。",
     ""),
-    # McDonald nodded small.†
+    # McDonald nodded small.
 
     ("「…マ、マルチ」",
     ""),
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "I want to see Makruchi's...!"
 
-    ("「えっ、えっ、えーっ！？」†",
+    ("「えっ、えっ、えーっ！？」",
     ""),
     # "What, what, what?!?"
 
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "Isn't there any phlegm? Is it the number one friend of me and my cries?"
 
-    ("「そうですけど…」†",
+    ("「そうですけど…」",
     ""),
     # "That's right, but..."
 
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # My heart was so excited that I looked at Ruchi with a spoiled look on his face.
 
-    ("うつむいたまま、しばらく悩んでいたマルチだったが、やがて曹囁くような声で言った。†",
+    ("うつむいたまま、しばらく悩んでいたマルチだったが、やがて曹囁くような声で言った。",
     ""),
-    # While still facing down, Ma-luchi was worried for a while, but then he said in a voice that seemed to whisper.†
+    # While still facing down, Ma-luchi was worried for a while, but then he said in a voice that seemed to whisper.
 
     ("「…わかりました。ほ、ほんの、ちょっぴりだけ…ですよ？」",
     ""),
@@ -254,17 +254,17 @@ text_array = [
     ""),
     # "I've done it, lucky weir! I'm not sure what to expect, right away, but I'm not sure what you're popular with, ""
 
-    ("と、そのとき。†",
+    ("と、そのとき。",
     ""),
-    # And then.†
+    # And then.
 
     ("「≠ｿょぉーーーっと、待ったああぁぁーーーーーーーーーーーーーーーーーーーーっ！」",
     ""),
     # "≠ So yeah, I've waited aaaahhh!"
 
-    ("耳を突き抜けるような声を上げて現鼬れたのは、志保だった。†",
+    ("耳を突き抜けるような声を上げて現鼬れたのは、志保だった。",
     ""),
-    # It was Shiho who showed up with a voice that was piercing his ears.†
+    # It was Shiho who showed up with a voice that was piercing his ears.
 
     ("「あんた！",
     ""),
@@ -286,9 +286,9 @@ text_array = [
     ""),
     # briskly….
 
-    ("「ちょっと、待ちなさいよおぉぉぉーーっ！」†",
+    ("「ちょっと、待ちなさいよおぉぉぉーーっ！」",
     ""),
-    # "Come on, wait!" †
+    # "Come on, wait!" 
 
     ("「…諱よ、諱よしっ。",
     ""),
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # "Yes..." (Pho)
 
-    ("「つ、つ、ついに、マルチの秘密の部分が、人目に触齔れるときが…」†",
+    ("「つ、つ、ついに、マルチの秘密の部分が、人目に触齔れるときが…」",
     ""),
     # "At last time, when the secret part of Makruchi is touched by someone else..."
 
@@ -314,17 +314,17 @@ text_array = [
     ""),
     # What is the secret part?=v
 
-    ("襲いｗ磯翌驕A志保チョップ！†",
+    ("襲いｗ磯翌驕A志保チョップ！",
     ""),
-    # Attacks lol Iso's next riots, Shiho Chicup!†
+    # Attacks lol Iso's next riots, Shiho Chicup!
 
     ("ぱしっ！",
     ""),
     # Pash!
 
-    ("だがオレはそれを素っ気なく受け止めた。†",
+    ("だがオレはそれを素っ気なく受け止めた。",
     ""),
-    # But I took it curtly.†
+    # But I took it curtly.
 
     ("「あっ、あれっ！？」",
     ""),
@@ -334,9 +334,9 @@ text_array = [
     ""),
     # "She's phlegm, I'll go elsewhere?"
 
-    ("「…えっ、あっ、は、はい」†",
+    ("「…えっ、あっ、は、はい」",
     ""),
-    # "...Eh, ah, ha, yes"†
+    # "...Eh, ah, ha, yes"
 
     ("「諱よし、誰熬もいないな。ここならいいだ？」",
     ""),
@@ -346,9 +346,9 @@ text_array = [
     ""),
     # "Yes..."
 
-    ("マルチは小さくうなずいた。†",
+    ("マルチは小さくうなずいた。",
     ""),
-    # McDonald nodded small.†
+    # McDonald nodded small.
 
     ("「…な、なんだか、ドキドキします」",
     ""),
@@ -358,29 +358,29 @@ text_array = [
     ""),
     # "Yes, yeah = quick tan = quick tan, show me."
 
-    ("そのとき！†",
+    ("そのとき！",
     ""),
-    # At that time!†
+    # At that time!
 
-    ("「≧｢｢ひとーつ、ヒー香ロー数あるなかで…＝v†",
+    ("「≧｢｢ひとーつ、ヒー香ロー数あるなかで…＝v",
     ""),
-    # "≧" "One of the many Heroes...=v†
+    # "≧" "One of the many Heroes...=v
 
-    ("「なっ、なんだ！？」†",
+    ("「なっ、なんだ！？」",
     ""),
     # "What, what?!"
 
-    ("「≧｢｢ふたーつ、富士山ひとっ飛びａv†",
+    ("「≧｢｢ふたーつ、富士山ひとっ飛びａv",
     ""),
-    # "≧" "Two, Mt. Fuji jump aloud av†
+    # "≧" "Two, Mt. Fuji jump aloud av
 
-    ("「ま、まさか！？」†",
+    ("「ま、まさか！？」",
     ""),
     # "Well, can't you?!"
 
-    ("「≧｢｢みーっつ、みんなのアイドル長岡志保たぁ〜、このあたしのことだーーーっ！＝v†",
+    ("「≧｢｢みーっつ、みんなのアイドル長岡志保たぁ〜、このあたしのことだーーーっ！＝v",
     ""),
-    # "≧" "Mie, everyone's crying, Nagaoka Shiho, it's about me! =v†
+    # "≧" "Mie, everyone's crying, Nagaoka Shiho, it's about me! =v
 
     ("「｢｢とおぉぉぅッ！」",
     ""),
@@ -390,7 +390,7 @@ text_array = [
     ""),
     # Bang!
 
-    ("「な、なにぃ、飛んだぁ！？」†",
+    ("「な、なにぃ、飛んだぁ！？」",
     ""),
     # "What, what, did you fly?!"
 
@@ -406,15 +406,15 @@ text_array = [
     ""),
     # Now, just think about it and be quiet and stick to the ropes!
 
-    ("｢｢って、あれ！？」†",
+    ("｢｢って、あれ！？」",
     ""),
-    # "Oh, that's it!?”†
+    # "Oh, that's it!?”
 
     ("し〜〜〜〜〜〜〜〜〜〜〜〜ん………。",
     ""),
     # core……….
 
-    ("「｢｢い、いない…？」†",
+    ("「｢｢い、いない…？」",
     ""),
     # ""Isn't there...?"
 
@@ -422,7 +422,7 @@ text_array = [
     ""),
     # Gabanquet Ragabanquet Ragabanquet Raga!
 
-    ("「ちょっとアンタ、ひとのクラスでなにやってんの！？」†",
+    ("「ちょっとアンタ、ひとのクラスでなにやってんの！？」",
     ""),
     # "You're going to be the one who's doing it at the end of the crowd!"
 
@@ -446,9 +446,9 @@ text_array = [
     ""),
     # "It's phlegm, it's phlegm..."
 
-    ("ごくっ…。†",
+    ("ごくっ…。",
     ""),
-    # Quite a bit...†
+    # Quite a bit...
 
     ("・",
     ""),
@@ -466,9 +466,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「¢ﾒちなさ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜いっ！」",
     ""),
@@ -486,17 +486,17 @@ text_array = [
     ""),
     # "Oh! ...I guess it's phlegm with a cute B-like thing that looks just like a human?"
 
-    ("「…あ、あまり、見ないでください。…は、恥ずかしいです」†",
+    ("「…あ、あまり、見ないでください。…は、恥ずかしいです」",
     ""),
-    # "...Ah, don't look too much.... I'm embarrassed."†
+    # "...Ah, don't look too much.... I'm embarrassed."
 
     ("「≠ｿくしょ〜〜〜〜〜〜〜〜〜〜〜〜〜っ！",
     ""),
     # "≠Sokushii-e-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-    ("間に№合寘わなかった〜〜〜〜〜〜〜〜〜〜っ！」†",
+    ("間に№合寘わなかった〜〜〜〜〜〜〜〜〜〜っ！」",
     ""),
-    # I didn't get a slog in between~~~~~~~”†
+    # I didn't get a slog in between~~~~~~~”
 
     ("「なーんだ、￥闖りの下には、ち痰ゃんと可愛い耳がついてんじ痰ゃねーか。なにも、隠すことないのにさ」",
     ""),
@@ -506,7 +506,7 @@ text_array = [
     ""),
     # "And now, you have to take it off in front of people."
 
-    ("「でも、これで夜燒も悩まずに眠齧れそうだぜ。サン閭キャーな」†",
+    ("「でも、これで夜燒も悩まずに眠齧れそうだぜ。サン閭キャーな」",
     ""),
     # "And now I can sleep without worrying about Hot and the night sky. It's a bit of a pain."
 

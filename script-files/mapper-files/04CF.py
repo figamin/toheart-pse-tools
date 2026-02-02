@@ -2,9 +2,9 @@
 # Source file: 04CF.txt
 
 text_array = [
-    ("（志保	回秤数イベント	寄闃り道３）閨（選択綜	どんな…）†",
+    ("（志保	回秤数イベント	寄闃り道３）閨（選択綜	どんな…）",
     ""),
-    # (Shiho's Scales Event: Incoming Road 3) (Choose-such...)†
+    # (Shiho's Scales Event: Incoming Road 3) (Choose-such...)
 
     ("「どんなスポットを狙ってんだ？」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # There are many fun spots around here, such as hot springs, if you stretch your legs a little by little by train.
 
-    ("ジャャンルも、食べる、メ買う、遊ぶ、宿聡泊など、一通闥りそってる。†",
+    ("ジャャンルも、食べる、メ買う、遊ぶ、宿聡泊など、一通闥りそってる。",
     ""),
-    # Jayan's crying is also a place where he eats, buys melons, plays, and stays at the hotel.†
+    # Jayan's crying is also a place where he eats, buys melons, plays, and stays at the hotel.
 
     ("「そおねぇ…。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Hehe, I wonder if it's a zetaku..."
 
-    ("「ちょっとだぁ？	こんなрヤツの彼＃氏になるｖ郎は、きっと大変だぜ」†",
+    ("「ちょっとだぁ？	こんなрヤツの彼＃氏になるｖ郎は、きっと大変だぜ」",
     ""),
-    # "Are you a slut? It's surely going to be a tough guy like this to become a boyfriend #"†
+    # "Are you a slut? It's surely going to be a tough guy like this to become a boyfriend #"
 
     ("「ま、いーじ痰ゃん。",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Check it out soon!”
 
-    ("「おいおい、氈押すなって！」†",
+    ("「おいおい、氈押すなって！」",
     ""),
     # "Hey hey, don't push!"
 

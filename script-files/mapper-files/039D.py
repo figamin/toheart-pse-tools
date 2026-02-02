@@ -2,17 +2,17 @@
 # Source file: 039D.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ｂ	やめとこう	の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ｂ	やめとこう	の続き）",
     ""),
-    # (Tomoko's Scales Event: Departing from School LV2) (Continued from Chosen B: Stop Toko)†
+    # (Tomoko's Scales Event: Departing from School LV2) (Continued from Chosen B: Stop Toko)
 
     ("やめとこう。",
     ""),
     # Let's stop it.
 
-    ("オレは委員長の背白を見洛送った。†",
+    ("オレは委員長の背白を見洛送った。",
     ""),
-    # I went to see the chairman's backlash and sent him off to the night.†
+    # I went to see the chairman's backlash and sent him off to the night.
 
     ("この間『あまり馴齠れ馴齠れしくするな』ってことを言甯われたばっかりだしな。",
     ""),

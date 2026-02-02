@@ -2,9 +2,9 @@
 # Source file: 035F.txt
 
 text_array = [
-    ("（智子	好感度イベント１２回目）閨（ＡＢ選択繿後からの続き）†",
+    ("（智子	好感度イベント１２回目）閨（ＡＢ選択繿後からの続き）",
     ""),
-    # (Tomoko's 12th Likeability Event) (Continued after AB selection)†
+    # (Tomoko's 12th Likeability Event) (Continued after AB selection)
 
     ("なんだう、変な気分だ。",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # Before long, the chairman laughed awkwardly.
 
-    ("「…な、なんや変な感じになってもうたな」†",
+    ("「…な、なんや変な感じになってもうたな」",
     ""),
     # "...What, what kind of tampering and weird feeling, I've been feeling so hot."
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Is that so..."
 
-    ("そのはっきりとした嘯答えに、オレはほっと胸をなで下奄した。†",
+    ("そのはっきりとした嘯答えに、オレはほっと胸をなで下奄した。",
     ""),
-    # At this clear answer, my heart stroking down in relief.†
+    # At this clear answer, my heart stroking down in relief.
 
     ("けっ。",
     ""),
@@ -62,13 +62,13 @@ text_array = [
     ""),
     # 'The information on the archetype is also sloppy.
 
-    ("（オレ内箔部	志保	信叶頼度−１）†",
+    ("（オレ内箔部	志保	信叶頼度−１）",
     ""),
-    # (Our internal foil section Shiho Nobukana Reliability -1)†
+    # (Our internal foil section Shiho Nobukana Reliability -1)
 
-    ("その後、オレは委員長を駅まで翌送った。†",
+    ("その後、オレは委員長を駅まで翌送った。",
     ""),
-    # After that, I sent the chairman to the station the next day.†
+    # After that, I sent the chairman to the station the next day.
 
     ("「こんな遅くまでつき№合寘わせて、ごめんな」",
     ""),
@@ -90,17 +90,17 @@ text_array = [
     ""),
     # "Ah, I've waited."
 
-    ("オレは呼び止めた。†",
+    ("オレは呼び止めた。",
     ""),
-    # I called out.†
+    # I called out.
 
     ("「ん？」",
     ""),
     # "yeah?"
 
-    ("「なあ、そう言えばさっき、委員長、こんなことを言ってたな。『友だちのありがたみは、側にいるときはそんなに感じねーけど、いざ離齬れてみるとよくわかる』って」†",
+    ("「なあ、そう言えばさっき、委員長、こんなことを言ってたな。『友だちのありがたみは、側にいるときはそんなに感じねーけど、いざ離齬れてみるとよくわかる』って」",
     ""),
-    # "Hey, coming to think of it, the chairman said this earlier. 'I don't feel much of appreciation for my friends when I'm on my side, but when I get a sense of conflict, I can really understand it.'†
+    # "Hey, coming to think of it, the chairman said this earlier. 'I don't feel much of appreciation for my friends when I'm on my side, but when I get a sense of conflict, I can really understand it.'
 
     ("「え？	うん」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "It's a bit like that, perhaps, there's a fateful monkey in a place that's surprisingly close to me."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ま、そんだけ。",
     ""),
@@ -130,15 +130,15 @@ text_array = [
     ""),
     # It's a sputum."
 
-    ("「…うん、それじ痰ゃ」†",
+    ("「…うん、それじ痰ゃ」",
     ""),
-    # "...Yeah, that's it phlegm" †
+    # "...Yeah, that's it phlegm" 
 
     ("「あっ、待った！」",
     ""),
     # "Ah, I've waited!"
 
-    ("「…なんやの？」†",
+    ("「…なんやの？」",
     ""),
     # "...What is it tampering?"
 
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "Oh, it's phlegm."
 
-    ("そして委員長は駅のｒへと入っていった。†",
+    ("そして委員長は駅のｒへと入っていった。",
     ""),
-    # The chairman then entered the station's r.†
+    # The chairman then entered the station's r.
 
     ("ほんと偶然だったよな。",
     ""),

@@ -10,17 +10,17 @@ text_array = [
     ""),
     # "...Yes. That's true. You're right. Even Ko hasn't heard of how hard Aoi is working, but it's a game, and it's a bit late, isn't Fukuguchi?
 
-    ("「好恵さん」†",
+    ("「好恵さん」",
     ""),
-    # "Koe-san"†
+    # "Koe-san"
 
     ("「でも、つい挑発的なことばかり言っち痰ゃったのも、葵のことを思ってのことだってこと、わかってほしいの」",
     ""),
     # "I want you to understand that both Kano and Kano, who were always provocative, are all about Aoi."
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("「これ以繹上話しても無駄みたいだし、今厓日はもう帰驪るけど、そうね、近いうちにあなたがどのくらい頑張ってるか、はっきりと確かめさせてもらうわ」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # As he said that, Tamushi Sakashita gave a defiant smile.
 
-    ("「なんだ、禔練習を見学でもしていくか？」†",
+    ("「なんだ、禔練習を見学でもしていくか？」",
     ""),
     # "What? Should I also do some hot springs to watch Yu practice?"
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # What?
 
-    ("も、もしかして。†",
+    ("も、もしかして。",
     ""),
-    # Maybe, maybe.†
+    # Maybe, maybe.
 
     ("「おい、まさか、葵ち痰ゃんとやりあおうってんじ痰ゃないだうな」",
     ""),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "And wait a moment. That's what happened suddenly, and Hoo, Aoi Chishonan, Hoo, and Hoo, were prepared for the heart, but Hoomon said, ""
 
-    ("「誰熬も、いますぐにとは言ってないわ。近いうちにって言ったでしょ？」†",
+    ("「誰熬も、いますぐにとは言ってないわ。近いうちにって言ったでしょ？」",
     ""),
     # "No one said it right now. I said it soon, yeah?"
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "What are you doing to fight?"
 
-    ("「葵にわからせてあげるのよ。いまの努力が鰍所詮、どの程度の撃レベルでしかないかをね。多分、それで目が覚めるから」†",
+    ("「葵にわからせてあげるのよ。いまの努力が鰍所詮、どの程度の撃レベルでしかないかをね。多分、それで目が覚めるから」",
     ""),
     # "I'll let Aoi understand this. I wonder how much effort you're doing now is just a level of tearfulness. That's probably why you'll wake up."
 
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # If I win, I won, and I have no choice but to accept this love for the banquet."
 
-    ("簡単に言ってくれるぜ。†",
+    ("簡単に言ってくれるぜ。",
     ""),
-    # I'll say it simply.†
+    # I'll say it simply.
 
     ("「だいたい、空闍手博部がそんな簡単に他流似試㍽合をやってもいいのかよ？」",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # "It's so unfair that I'm going to let you slip around at a place like this."
 
-    ("「でもな｢｢」†",
+    ("「でもな｢｢」",
     ""),
-    # "And the hot """†
+    # "And the hot """
 
     ("「いえ、諱先輩。待ってください」",
     ""),
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Ah, Aoi Chishou..."
 
-    ("「それで、もしр私が勝てば、好恵さんもこのクラブのことを…、いえ、エクストリームのことを、見直していただけますね？」†",
+    ("「それで、もしр私が勝てば、好恵さんもこのクラブのことを…、いえ、エクストリームのことを、見直していただけますね？」",
     ""),
     # "So, if I win, Yoshie-san and Ko could also review this banquet love..., no, Extreme Ream?"
 
@@ -154,17 +154,17 @@ text_array = [
     ""),
     # A slight smile appears in front of Fukuguchi Hao, who is down to Haosaka.
 
-    ("思惑どおりにいったという桙満足げな表﨣情だ。†",
+    ("思惑どおりにいったという桙満足げな表﨣情だ。",
     ""),
-    # It's a satisfying feeling, as it went as planned.†
+    # It's a satisfying feeling, as it went as planned.
 
     ("おいおい、なんだか、とんでもないことになってきたぞ。",
     ""),
     # Hey hey, it's starting to happen without a lot of heat.
 
-    ("まるで少年マンガノリだ。†",
+    ("まるで少年マンガノリだ。",
     ""),
-    # It's like a boys' manga.†
+    # It's like a boys' manga.
 
     ("「п私はクラブで忙しいし、氏試㍽合の冾日はこっちの都∮合でｌめさせてもらうけど、いい？」",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # "Ahhh, I'll eventually get a throbbing relationship from here. By then, I'll have to practice for good luck, Aoi."
 
-    ("「…はい」†",
+    ("「…はい」",
     ""),
-    # "…yes"†
+    # "…yes"
 
     ("「じ痰ゃあね」",
     ""),

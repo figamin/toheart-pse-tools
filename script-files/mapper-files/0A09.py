@@ -2,17 +2,17 @@
 # Source file: 0A09.txt
 
 text_array = [
-    ("（Ａ	声をかけてみる。）†",
+    ("（Ａ	声をかけてみる。）",
     ""),
-    # (A I'll try calling out.)†
+    # (A I'll try calling out.)
 
     ("「おーい、掾理女緒ち痰ゃん？」",
     ""),
     # "Hey, do you have a sputum?"
 
-    ("声をかけると、その子はきょっとこっちを振關りｌいた。†",
+    ("声をかけると、その子はきょっとこっちを振關りｌいた。",
     ""),
-    # When I called out to him, the child shouted this.†
+    # When I called out to him, the child shouted this.
 
     ("「あっ、くん！」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Are you a part-time job?"
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「学校終尞わってすぐだってのに、蛛大変だな」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Yes. And here, the hot springs and hot springs are all over."
 
-    ("「ここは…？	ここはってことは、これからまだなにかあんの？」†",
+    ("「ここは…？	ここはってことは、これからまだなにかあんの？」",
     ""),
     # "What is this...? Is there something else to be done from now on?"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Hey hey, what are you holding a stool?"
 
-    ("「今厓日は４つだけ。でも、ゲームセンターはわりと楽だし、暇を見て宛名走書きのバイトもいっしょにできるから」†",
+    ("「今厓日は４つだけ。でも、ゲームセンターはわりと楽だし、暇を見て宛名走書きのバイトもいっしょにできるから」",
     ""),
     # "There are only four days left right now. And the game centers are pretty easy, and when you're bored, you can also take part-time jobs with address writing when you're bored."
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # I couldn't help but lose my words.
 
-    ("金を稼ぐために死ぬほどバイトをしている高校生って、ＴＶとかでみたことはあるけど、まさか身近にもいたとはな。†",
+    ("金を稼ぐために死ぬほどバイトをしている高校生って、ＴＶとかでみたことはあるけど、まさか身近にもいたとはな。",
     ""),
-    # I've seen high school b high school students who work part-time to the point of death to earn money on TV, but I never imagined that there were some hot people close to me.†
+    # I've seen high school b high school students who work part-time to the point of death to earn money on TV, but I never imagined that there were some hot people close to me.
 
     ("オレのかけた言葉は｢｢。",
     ""),

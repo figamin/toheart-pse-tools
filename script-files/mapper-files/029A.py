@@ -2,9 +2,9 @@
 # Source file: 029A.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ａ	薬をもらう）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ａ	薬をもらう）",
     ""),
-    # (Seri°Cho, Scales, 2F, LV4)Seri (Seri°Cho, receive the medicine)†
+    # (Seri°Cho, Scales, 2F, LV4)Seri (Seri°Cho, receive the medicine)
 
     ("「じ痰ゃあ、ひとつ鰍頼むわ」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("うなずくと、諱先輩はそのまま廊下を戻っていった。†",
+    ("うなずくと、諱先輩はそのまま廊下を戻っていった。",
     ""),
-    # Nodded, and Senpai Kimi headed back down the hallway.†
+    # Nodded, and Senpai Kimi headed back down the hallway.
 
     ("鋳のベンチで座って待っていると、少しして先輩がやってきた。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Huh? Sorry to keep you waiting? You've been tampering with it, you've been waiting at all."
 
-    ("諱先輩はどうぞとオレに小瓶を手渡した。†",
+    ("諱先輩はどうぞとオレに小瓶を手渡した。",
     ""),
-    # I handed me a small bottle, saying, "Isao Senpai."†
+    # I handed me a small bottle, saying, "Isao Senpai."
 
     ("「悪いね、わざわざ。へえ、これがその薬か。なんか肉体鞫疲労椈時の栄養笳補虚給にって感じだな」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Even if you see through the sun, there is no strange hot pot inside.
 
-    ("なんの変哲燗もない液体だ。†",
+    ("なんの変哲燗もない液体だ。",
     ""),
-    # It's just a simple liquid.†
+    # It's just a simple liquid.
 
     ("「………」",
     "…"),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Oh, I've been given a hot spring, but isn't this attitude?
 
-    ("「ま、まあ、飲んでみっか」†",
+    ("「ま、まあ、飲んでみっか」",
     ""),
     # "Well, well, let's drink it."
 
@@ -86,17 +86,17 @@ text_array = [
     ""),
     # Open the lid of the banquet rastic.
 
-    ("カシャッ…と開ける系のフタじ痰ゃないのが、気になったが、まあいいか。†",
+    ("カシャッ…と開ける系のフタじ痰ゃないのが、気になったが、まあいいか。",
     ""),
-    # I was curious to see that the lid is open and there is no phlegm, but that's fine.†
+    # I was curious to see that the lid is open and there is no phlegm, but that's fine.
 
     ("「い、いただきまーす」",
     ""),
     # "Yes, I'll have you."
 
-    ("瓶を口に魔当て、こくっ、こくっ、といっきに飲み干した。†",
+    ("瓶を口に魔当て、こくっ、こくっ、といっきに飲み干した。",
     ""),
-    # He put the bottle against the Fukuguchi and drank it all at once.†
+    # He put the bottle against the Fukuguchi and drank it all at once.
 
     ("「うげ…」",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # However, I was struggling with the good-hearted mouth.
 
-    ("きっとこれは、＠栖瑞家芍御用達のすんごい高燕級闍な…。†",
+    ("きっとこれは、＠栖瑞家芍御用達のすんごい高燕級闍な…。",
     ""),
-    # I'm sure this is a very B-high-sized, high-season class that is popular with @Suizui family.†
+    # I'm sure this is a very B-high-sized, high-season class that is popular with @Suizui family.
 
     ("あっ、あれ？",
     ""),
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # Ah, the world...
 
-    ("世界が…、回驩る…。†",
+    ("世界が…、回驩る…。",
     ""),
-    # The world is resurrecting...†
+    # The world is resurrecting...
 
     ("・",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("う、う〜ん…。",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # Huh?
 
-    ("オレ、いったい…。†",
+    ("オレ、いったい…。",
     ""),
-    # I'm super excited, what on earth...†
+    # I'm super excited, what on earth...
 
     ("あ。",
     ""),
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # @Suizui-san.
 
-    ("なんだか心配そうな顔でオレをのぞき桙込んでいる。†",
+    ("なんだか心配そうな顔でオレをのぞき桙込んでいる。",
     ""),
-    # He looked worried and peered at me.†
+    # He looked worried and peered at me.
 
     ("それよりも後頭箔部。",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # Wow!”
 
-    ("オレは慌てて飛び起きた。†",
+    ("オレは慌てて飛び起きた。",
     ""),
-    # I frantically jumped up.†
+    # I frantically jumped up.
 
     ("「………」",
     "…"),
@@ -250,9 +250,9 @@ text_array = [
     ""),
     # "I'm so crazy, what on earth... What!? Did you lose your sense of self? Seriously!?"
 
-    ("な、なんでまた、いったい…？†",
+    ("な、なんでまた、いったい…？",
     ""),
-    # Wow, why on earth, what on earth...?†
+    # Wow, why on earth, what on earth...?
 
     ("「え、薬のせい？	どうやら配∑合を間違えたみたいですって？	じ痰ゃ、じ痰ゃあ、あれって、もしかして、諱先輩がｍった…？」",
     ""),
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # So, is it a medicine for handwriting?
 
-    ("や、やば〜っ…。†",
+    ("や、やば〜っ…。",
     ""),
-    # The slut and the slut are amazing...†
+    # The slut and the slut are amazing...
 
     ("そこでオレはこう言った。",
     ""),

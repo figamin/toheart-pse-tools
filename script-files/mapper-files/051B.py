@@ -2,13 +2,13 @@
 # Source file: 051B.txt
 
 text_array = [
-    ("（葵	冝日付イベント５）閨（ＳＣＮ０５１２を見ている場㍼合）閨（５月１冾日、２冾日にクラブに行くと発生）†",
+    ("（葵	冝日付イベント５）閨（ＳＣＮ０５１２を見ている場㍼合）閨（５月１冾日、２冾日にクラブに行くと発生）",
     ""),
-    # (Aoi Shiki Date Event 5) (Little place to see SCN0512) (occasionally occurs when you go to Kuban Love on the 1st and 2nd day) †
+    # (Aoi Shiki Date Event 5) (Little place to see SCN0512) (occasionally occurs when you go to Kuban Love on the 1st and 2nd day) 
 
-    ("諱よし、クラブに行こう。†",
+    ("諱よし、クラブに行こう。",
     ""),
-    # Okay, let's go to Kuban Love.†
+    # Okay, let's go to Kuban Love.
 
     ("葵ち痰ゃん、この前は少し様子が変だったな。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # When I suddenly visited my house lol, I asked if I was willing to continue the love of the banquet forever.
 
-    ("本心を聞かせて欲しいって言うから、オレもあんなふうに嘯答えたけど、現状は現状で、結構楽しんでやってるつもりなんだぜ。†",
+    ("本心を聞かせて欲しいって言うから、オレもあんなふうに嘯答えたけど、現状は現状で、結構楽しんでやってるつもりなんだぜ。",
     ""),
-    # I asked him to tell me what he really is, so I replied like that, but as of the current situation, I'm a tsuka-mori who enjoys it and is quite enjoying it.†
+    # I asked him to tell me what he really is, so I replied like that, but as of the current situation, I'm a tsuka-mori who enjoys it and is quite enjoying it.
 
     ("あのとき、葵ち痰ゃんはオレに『ありがとう』と言った。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Well, there are also some great Japanese dishes where you can think about things.
 
-    ("体の調子が悪いのかも知れない。†",
+    ("体の調子が悪いのかも知れない。",
     ""),
-    # He doesn't know if he's not feeling well.†
+    # He doesn't know if he's not feeling well.
 
     ("「うぃーす！」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # When did I call out to him in a hot tone.
 
-    ("声に気づき、葵ち痰ゃんは立ち上がった。†",
+    ("声に気づき、葵ち痰ゃんは立ち上がった。",
     ""),
-    # When Aoi Chisho-yan noticed the voice, she stood up.†
+    # When Aoi Chisho-yan noticed the voice, she stood up.
 
     ("「…あ、諱先輩」",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Oh! Kaji Ai Henzaki doesn't have time. Are you still not starting to practice for good luck on the day?"
 
-    ("かたわらに学生盗鞄を置きながらオレが言うと、葵ち痰ゃんは、†",
+    ("かたわらに学生盗鞄を置きながらオレが言うと、葵ち痰ゃんは、",
     ""),
     # As I put a student's bag on the side, I said, "Aoi Chisho-chan"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # He seemed sorry, but he smiled so lonely.
 
-    ("「うん、どした？」†",
+    ("「うん、どした？」",
     ""),
     # "Yes, what did you do?"
 
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "Isaac Senpai..."
 
-    ("葵ち痰ゃんはなにやら思いつめた顔で言った。†",
+    ("葵ち痰ゃんはなにやら思いつめた顔で言った。",
     ""),
-    # Aoi Chishoyan said with a stunned look on his face as to what he was tampering with.†
+    # Aoi Chishoyan said with a stunned look on his face as to what he was tampering with.
 
     ("「なんだ？」",
     ""),
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "...Um, I'm saying something selfish all of a sudden."
 
-    ("「わがまま？」†",
+    ("「わがまま？」",
     ""),
     # "Are you selfish?"
 
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "Huh!?"
 
-    ("あまりの突さに、自分の耳を疑った。†",
+    ("あまりの突さに、自分の耳を疑った。",
     ""),
-    # It was so sudden that I doubted my ears.†
+    # It was so sudden that I doubted my ears.
 
     ("「お、終尞わりって、ちょ、ちょっと待ってよ。なんでまた急に？」",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # "...I think it's only natural for him to be angry at such selfishness. And I also thought about it carefully, and this is the conclusion I came to by the demons."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「…п私、坂下謇先輩に言甯われたとおり、空闍手博部に入うと思います」",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # "Ah, what about Extreme Ream? What is your dream of catching up with the senior you admire?"
 
-    ("葵ち痰ゃんは顔を嘯伏せたまま、艨ゆっくりと頭を横に振った。†",
+    ("葵ち痰ゃんは顔を嘯伏せたまま、艨ゆっくりと頭を横に振った。",
     ""),
-    # Aoi Chisho-yan slowly shook his head, still leaning down.†
+    # Aoi Chisho-yan slowly shook his head, still leaning down.
 
     ("そして、小さな声で、",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # "...Not good."
 
-    ("そう言った。†",
+    ("そう言った。",
     ""),
-    # That's what I said.†
+    # That's what I said.
 
     ("「…п私、もう駄目なんです。クラブを続けていく自信が…ないんです」",
     ""),
@@ -190,11 +190,11 @@ text_array = [
     ""),
     # "...Isn't confident?"
 
-    ("「自信がないっていうの、じつは、п私燻も同じなんです」†",
+    ("「自信がないっていうの、じつは、п私燻も同じなんです」",
     ""),
     # "I'm not confident, and in fact, I'm smoking is the same as it is."
 
-    ("「こんなこと、ずっとやっていけるのかとか、やっぱり好恵さんの言うように空闍手に戻ったほうがいいんじ痰ゃないかとか、いつもそんなこと考えてます」†",
+    ("「こんなこと、ずっとやっていけるのかとか、やっぱり好恵さんの言うように空闍手に戻ったほうがいいんじ痰ゃないかとか、いつもそんなこと考えてます」",
     ""),
     # "I'm always thinking about whether I can keep tampering with this kind of thing, and, as Yoshie says, it's better to go back to the sky, and I think there's no phlegm to do as well."
 
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # In my mind, a story about Aoi Chisho-yan from that day was revived.
 
-    ("あのとき言った『自信がない』って言葉、そういう意味だったのか…。†",
+    ("あのとき言った『自信がない』って言葉、そういう意味だったのか…。",
     ""),
-    # I wonder if that's what I meant when I said "I don't have confidence"...†
+    # I wonder if that's what I meant when I said "I don't have confidence"...
 
     ("「じつは昨厓日、坂下謇先輩と試㍽合したんです」",
     ""),
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # ""Oh, huh?! Why didn't you say it to me?!"
 
-    ("「氏月曜坥日の夜は、本末当はそのことを伝えようと思って行ったんですけど、言うタイミングを逃しち痰ゃって…」†",
+    ("「氏月曜坥日の夜は、本末当はそのことを伝えようと思って行ったんですけど、言うタイミングを逃しち痰ゃって…」",
     ""),
     # "On the night of Monday night, I went there with the intention of letting go of it, but I missed the timing and ended up sputum..."
 
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # "...What is that? That's what? Why aren't you saying something so badly to me?"
 
-    ("わざわざ家にまで訪ねてきたんだ、なにかあるとは思ったけど…。†",
+    ("わざわざ家にまで訪ねてきたんだ、なにかあるとは思ったけど…。",
     ""),
-    # I even visited the house on purpose, so I thought there was something about it...†
+    # I even visited the house on purpose, so I thought there was something about it...
 
     ("「で、結果はどうだったんだよ？」",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("葵ち痰ゃんは無言で首を左右に振った。†",
+    ("葵ち痰ゃんは無言で首を左右に振った。",
     ""),
-    # Aoi Chisho-yan silently shook his head from side to side.†
+    # Aoi Chisho-yan silently shook his head from side to side.
 
     ("「堰負けた…のか？」",
     ""),
@@ -250,9 +250,9 @@ text_array = [
     ""),
     # "…yes"
 
-    ("小さくうなずく。†",
+    ("小さくうなずく。",
     ""),
-    # Nodded small.†
+    # Nodded small.
 
     ("「…それも、全然お話にならないくらい圧汕勝されてしまいました。言い訳をすれば、緊張して、禔練習の成果を出し切齔れなかったせいもありますけど…」",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # "I see..."
 
-    ("堰負けたのか、坂下に。†",
+    ("堰負けたのか、坂下に。",
     ""),
-    # Perhaps they lost the dam, but they headed down to the hills.†
+    # Perhaps they lost the dam, but they headed down to the hills.
 
     ("「…坂下謇先輩の言うとおり、空闍手をやってた頃謐より、п私、縺弱くなってるかもしれません。",
     ""),
@@ -282,9 +282,9 @@ text_array = [
     ""),
     # I'd like to help you and tamper with it.
 
-    ("それでも状況は変﨑わらなかっただうか。†",
+    ("それでも状況は変﨑わらなかっただうか。",
     ""),
-    # So, the situation didn't change, right?†
+    # So, the situation didn't change, right?
 
     ("「それで思ったんです。",
     ""),
@@ -306,9 +306,9 @@ text_array = [
     ""),
     # As the announcement was made, Aoi Chisho-chan woke up.
 
-    ("圧倒的な実力差を見せつけることで。†",
+    ("圧倒的な実力差を見せつけることで。",
     ""),
-    # By showing off the overwhelming difference in ability.†
+    # By showing off the overwhelming difference in ability.
 
     ("「…だから、すみません。クラブは、今厓日で終尞わりです。",
     ""),
@@ -318,9 +318,9 @@ text_array = [
     ""),
     # Please allow yourself to be selfish."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("オレは短く息を吐くと、",
     ""),
@@ -342,9 +342,9 @@ text_array = [
     ""),
     # "...Identity Senpai"
 
-    ("葵ち痰ゃんが辛そうにつぶやいた。†",
+    ("葵ち痰ゃんが辛そうにつぶやいた。",
     ""),
-    # Aoi Chisho-chan muttered painfully.†
+    # Aoi Chisho-chan muttered painfully.
 
     ("「もうｌめちまったことなんだ。だったらしょうがないさ。なにより、葵ち痰ゃんが自分でｌめた道を行くのが大切だと思うぜ」",
     ""),
@@ -354,25 +354,25 @@ text_array = [
     "…"),
     # "..."
 
-    ("葵ち痰ゃんはじわりと涙ぐんだ。†",
+    ("葵ち痰ゃんはじわりと涙ぐんだ。",
     ""),
-    # Aoi Chisho-chan's stomping is quite tearful.†
+    # Aoi Chisho-chan's stomping is quite tearful.
 
     ("「…諱先輩、すみません、すみません」",
     ""),
     # "...I'm sorry, Senpai, sorry."
 
-    ("固く目を閉じて、葵ち痰ゃんは何度燗も『すみません』を繰り返した。†",
+    ("固く目を閉じて、葵ち痰ゃんは何度燗も『すみません』を繰り返した。",
     ""),
-    # With her eyes closed tightly, Aoi Chisho-yan repeated "Sorry" over and over again.†
+    # With her eyes closed tightly, Aoi Chisho-yan repeated "Sorry" over and over again.
 
     ("「蛛大げさだな。べつにこれが最纃後の別れってわけでもないだう？	＊淫俣匇w校でもえるんだぜ？」",
     ""),
     # "That's a bit of a stretch. This is really a breakup after the end, so there's no way there's no way there? *You can also get a hot spot at Inmata Hou school?"
 
-    ("葵ち痰ゃんは、こくっと、うなずいた。†",
+    ("葵ち痰ゃんは、こくっと、うなずいた。",
     ""),
-    # Aoi Chisho-yan nodded his head.†
+    # Aoi Chisho-yan nodded his head.
 
     ("「葵ち痰ゃんを桙応㊨援する気搴持ちは変﨑わらないぜ。",
     ""),
@@ -382,9 +382,9 @@ text_array = [
     ""),
     # If there is anything about Kohakute, I'll give you some advice again."
 
-    ("オレはそう言って微笑んだ。†",
+    ("オレはそう言って微笑んだ。",
     ""),
-    # I said and smiled.†
+    # I said and smiled.
 
     ("「せんぱい…」",
     ""),
@@ -402,9 +402,9 @@ text_array = [
     ""),
     # "Senior Yo-senpai, you're always kind to me."
 
-    ("そう言った。†",
+    ("そう言った。",
     ""),
-    # That's what I said.†
+    # That's what I said.
 
     ("「諱よせよ」",
     ""),

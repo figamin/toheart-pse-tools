@@ -2,9 +2,9 @@
 # Source file: 00AE.txt
 
 text_array = [
-    ("（３月２２冾日	朝）閨（自分の部屋）†",
+    ("（３月２２冾日	朝）閨（自分の部屋）",
     ""),
-    # (Morning of the 22nd Day of the Three Lion Day) (morning of my room)†
+    # (Morning of the 22nd Day of the Three Lion Day) (morning of my room)
 
     ("３月２２冾日、土曜坥日。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # However, when I think about the current day being half-dozen, I feel a little motivated to tamper with it.
 
-    ("さて、今厓日燗も一勛日、諱頑張髓るか。†",
+    ("さて、今厓日燗も一勛日、諱頑張髓るか。",
     ""),
-    # Well, now, I'll do my best to celebrate the day of the day.†
+    # Well, now, I'll do my best to celebrate the day of the day.
 
     ("「土曜坥日はいつも嬉しそうだね」",
     ""),
@@ -34,8 +34,8 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
 ]

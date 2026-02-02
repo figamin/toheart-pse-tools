@@ -2,9 +2,9 @@
 # Source file: 07A8.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（ハイブリッド）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（ハイブリッド）",
     ""),
-    # (Kotone Scales Event PS) (Hibugata Lid)†
+    # (Kotone Scales Event PS) (Hibugata Lid)
 
     ("「さん」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # The overwhelmed woman bowed her head to me.
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
     ("「お帰闍りですか？」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Well, but there's no way the chicken goes straight back."
 
-    ("「そうですか。では、どちらへ？」†",
+    ("「そうですか。では、どちらへ？」",
     ""),
     # "Is that so? So where do you go?"
 

@@ -2,9 +2,9 @@
 # Source file: 018F.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ｂ	じ痰ゃーな）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ｂ	じ痰ゃーな）",
     ""),
-    # (Light scale event 2F) (B: ​​sphemy)†
+    # (Light scale event 2F) (B: ​​sphemy)
 
     ("「帰驪るのか？」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "I thought I'd go back after strolling around."
 
-    ("「そうなんだ」†",
+    ("「そうなんだ」",
     ""),
-    # "That's right"†
+    # "That's right"
 
     ("「じ痰ゃーな」",
     ""),

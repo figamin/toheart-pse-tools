@@ -2,9 +2,9 @@
 # Source file: 01B9.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ａ	呼び止める）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ａ	呼び止める）",
     ""),
-    # (Akari Scales Event 1F) (A to call)†
+    # (Akari Scales Event 1F) (A to call)
 
     ("「おい、あかり」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Yeah."
 
-    ("あかりは嬉しそうにうなずいた。†",
+    ("あかりは嬉しそうにうなずいた。",
     ""),
-    # Akari nodded happily.†
+    # Akari nodded happily.
 
     ("「なあ、あかり」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "I'll ask you a few questions," so please answer in order."
 
-    ("「わかった」†",
+    ("「わかった」",
     ""),
-    # "I understand" †
+    # "I understand" 
 
     ("「まず、諱第齣一竏問。お前は将女、どんな職業に就きたいか」",
     ""),
@@ -78,17 +78,17 @@ text_array = [
     ""),
     # "Uhhhh..."
 
-    ("真武剣に悩むあかり。†",
+    ("真武剣に悩むあかり。",
     ""),
-    # Akari is troubled by the Shinbuken.†
+    # Akari is troubled by the Shinbuken.
 
     ("「現実的に言うと、やっぱり≠普通のＯＬかな。でも学校の先生とか、人にものを教える仕鮪事には憧齠れたりするなあ。あと、保母さんとか、調搨理師、デザイナーとかにもなりたいし…」",
     ""),
     # "Realistically, I guess I'm just a regular office lady. And I also admire school teachers and tuna who teaches hot foods to others. I also want to become a nursery school teacher, a courier, a designer, or something like that..."
 
-    ("「ひとつ！」†",
+    ("「ひとつ！」",
     ""),
-    # "one!"†
+    # "one!"
 
     ("「えっ、じ痰ゃあ、社長髓秘藻書」",
     ""),
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "You're completely different from before."
 
-    ("「ま、まあ、﨟基本的にいいやってみたいということで…」†",
+    ("「ま、まあ、﨟基本的にいいやってみたいということで…」",
     ""),
     # "Well, well 﨟I basically want to try tampering with something like that..."
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "Ahhh, save up money!
 
-    ("銀行に」†",
+    ("銀行に」",
     ""),
-    # To the bank"†
+    # To the bank"
 
     ("「銀行に凾貯熬金か。じ痰ゃあ、氈次の質竡問。お前が知ってるなかで一番ｔ高価な料摎理といえば？」",
     ""),
@@ -142,31 +142,31 @@ text_array = [
     ""),
     # "one!"
 
-    ("「ぺ、北椁京ダック」†",
+    ("「ぺ、北椁京ダック」",
     ""),
-    # "Pe, Kita-Kaikyo Duck"†
+    # "Pe, Kita-Kaikyo Duck"
 
     ("「北椁京ダックな。じ痰ゃあ、氈次の質竡問。目の前に大きいつづらと、小さいつづら、ぐらいのつづらがある。どれかひとつ、おみやげに持って帰驪るとしたら、どれを選ぶ？」",
     ""),
     # "It's a Kita-Kaikyo duck. It's a sphemous question. There are big spurts, small spurts, and -spurts. If you were to bring one of them back with you, which would you choose?"
 
-    ("「小さいつづら」†",
+    ("「小さいつづら」",
     ""),
-    # "Small slurp" †
+    # "Small slurp" 
 
     ("「じ痰ゃあ、氈次の質竡問。お前をふくむ三人で、ち痰ゃんこ料摎理屋に行った。たのんだち痰ゃんこは全泊部で何人前か？」",
     ""),
     # "Ah, that's the question of how many people are there, including you. The three of you, went to the Miss Cats. How many people are there in all the night clubs?"
 
-    ("「三人前」†",
+    ("「三人前」",
     ""),
-    # "Three Serves"†
+    # "Three Serves"
 
     ("「最纃後の質竡問。お前はお天道様にｌかって、まっすぐ立ってるか？」",
     ""),
     # "The quality of the matter after the very last. Are you standing straight ahead, sir, sir?"
 
-    ("「立ってるよ。…えっ、傾いてる？」†",
+    ("「立ってるよ。…えっ、傾いてる？」",
     ""),
     # "Stand...Eh, are you tilting?"
 

@@ -2,9 +2,9 @@
 # Source file: 01B3.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ａ	いっしょに屋繪上へ行く）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ａ	いっしょに屋繪上へ行く）",
     ""),
-    # (Akari Scales Event 2F) (A Goes up to the Ishishi-niya-ke)†
+    # (Akari Scales Event 2F) (A Goes up to the Ishishi-niya-ke)
 
     ("まあ、暇だしな。",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # Will you try to match the number and tamper with it?
 
-    ("「いったい、なにがあるってんだ？」†",
+    ("「いったい、なにがあるってんだ？」",
     ""),
     # "What on earth is there?"
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # It's a bit of a phlegm...
 
-    ("屋繪上の扉を開く。†",
+    ("屋繪上の扉を開く。",
     ""),
-    # Open the hot spring door above the shrine.†
+    # Open the hot spring door above the shrine.
 
     ("…おお。",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # There's a rainbow.
 
-    ("氈澄んだ撃東の青空に、蛛大きく弧を描く七色の橋が横切っていた。†",
+    ("氈澄んだ撃東の青空に、蛛大きく弧を描く七色の橋が横切っていた。",
     ""),
-    # A seven-colored bridge with a large arc crossed the clear blue sky of Gekito.†
+    # A seven-colored bridge with a large arc crossed the clear blue sky of Gekito.
 
     ("そうか、さっきの小雨のせいか。",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # Come to think of it, for the time when the rainbows could come out, it was a flapping slurp.
 
-    ("教室の窓とは方阜が反対だから、ぜんぜん気づかなかったぜ。†",
+    ("教室の窓とは方阜が反対だから、ぜんぜん気づかなかったぜ。",
     ""),
-    # Fukukata Fu is the opposite of the classroom's Kumimado, so I never noticed it at all.†
+    # Fukukata Fu is the opposite of the classroom's Kumimado, so I never noticed it at all.
 
     ("「お楽しみって、これのことか？」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Hey, I'm glad @, ecchi?"
 
-    ("「まあ…な」†",
+    ("「まあ…な」",
     ""),
-    # "Well... isn't it" †
+    # "Well... isn't it" 
 
     ("「ほら、諱よく見て」",
     ""),
@@ -106,15 +106,15 @@ text_array = [
     ""),
     # I see, it's a double rainbow.
 
-    ("ほとんど消えかかってはいるが、濃い虹の上に、うっすらと魔薄い虹がかかっていた。†",
+    ("ほとんど消えかかってはいるが、濃い虹の上に、うっすらと魔薄い虹がかかっていた。",
     ""),
-    # Although it was almost disappearing, a faint, faint rainbow hangs over the thick rainbow.†
+    # Although it was almost disappearing, a faint, faint rainbow hangs over the thick rainbow.
 
     ("「そういえば、虹なんて見骭るの、久しぶりなような気がするな」",
     ""),
     # "By the way, I feel like it's been a while since I've seen a rainbow."
 
-    ("オレが空を見上げてつぶやいたとき、†",
+    ("オレが空を見上げてつぶやいたとき、",
     ""),
     # When I looked up at the sky and muttered,
 
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # "Hehe, the baby boy must have been watching the slut all the time."
 
-    ("軽いステップを踏んで、あかりが言った。†",
+    ("軽いステップを踏んで、あかりが言った。",
     ""),
-    # Akari said, taking a light step.†
+    # Akari said, taking a light step.
 
     ("「べつに虹自体、出髀る確率は減っち痰ゃいないんだうけど、いちいち気にとめなくなったからな」",
     ""),
@@ -134,17 +134,17 @@ text_array = [
     ""),
     # "I wonder if the weapons that you're going to disappear little by little by little."
 
-    ("「かもな」†",
+    ("「かもな」",
     ""),
-    # "Aka Hot" †
+    # "Aka Hot" 
 
     ("「蛛大人になるとだんだん見えなくなっち痰ゃうなんて、ちょっと≠メルヘンだよね」",
     ""),
     # "When you become an adult, you gradually lose sight, so it's probably because you're crying."
 
-    ("あちこちにできたｐたまりを避けながら、あかりは屋繪上を楽しそうに歩く。†",
+    ("あちこちにできたｐたまりを避けながら、あかりは屋繪上を楽しそうに歩く。",
     ""),
-    # Akari walks happily across the house, avoiding the piles that have been formed everywhere.†
+    # Akari walks happily across the house, avoiding the piles that have been formed everywhere.
 
     ("「ねえ、ち痰ゃん」",
     ""),
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "What do you think is a rainbow?"
 
-    ("「えっと、太陽の光がｐの粒に反射して…」†",
+    ("「えっと、太陽の光がｐの粒に反射して…」",
     ""),
     # "Um, the sunlight reflects against the p-grain..."
 
@@ -170,15 +170,15 @@ text_array = [
     ""),
     # If you hadn't learned anything about that kind of scientific matter, what would you think when you saw that rainbow?”
 
-    ("「…はあ？	さーな、光…かな？」†",
+    ("「…はあ？	さーな、光…かな？」",
     ""),
-    # "...Huh? Well, light... maybe?"†
+    # "...Huh? Well, light... maybe?"
 
     ("「п私はやっぱり橋だと思ってたかも。どこか不思議な曹国へ通じる橋」",
     ""),
     # "I thought it was a bridge after all, but I guess it was also a bridge that leads to a mysterious Cao Kingdom."
 
-    ("「はあ、そり痰ゃまた夢のある話だな」†",
+    ("「はあ、そり痰ゃまた夢のある話だな」",
     ""),
     # "Oh, it's a dream story once again."
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # Perhaps there were people who went on a journey believing in Cao Guo, or maybe even Yu-Yu."
 
-    ("「いたかもな、そり痰ゃ。馬鹿だからな、昔の人間は」†",
+    ("「いたかもな、そり痰ゃ。馬鹿だからな、昔の人間は」",
     ""),
     # "Are you gonna have a lot of slurping. You're stupid, old people."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # I want to see the side of the rainbow."
 
-    ("「結果は徒労に終尞わるけどな」†",
+    ("「結果は徒労に終尞わるけどな」",
     ""),
     # "The outcome will be a waste of effort."
 
@@ -218,9 +218,9 @@ text_array = [
     ""),
     # "Come on, sputum, can you chase me lol?"
 
-    ("「…はあ？」†",
+    ("「…はあ？」",
     ""),
-    # "...Huh?"†
+    # "...Huh?"
 
     ("また、思いついたシチャエーションのみの話をしてやがる。",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # Akari often asks this type of "If You're a Hot Spring" questioning the quality of Shigata Leeds.
 
-    ("それを聞いてどうすんだ、と言いたいが、＊度のことなので適俣当に嘯答えてやる。†",
+    ("それを聞いてどうすんだ、と言いたいが、＊度のことなので適俣当に嘯答えてやる。",
     ""),
-    # I would like to ask you what to do when I hear that, but since it's about the level, I'll answer and tamper with the idea of ​​Tomata.†
+    # I would like to ask you what to do when I hear that, but since it's about the level, I'll answer and tamper with the idea of ​​Tomata.
 
     ("「多分、追いかけるんじ痰ゃねーか？」",
     ""),
@@ -250,9 +250,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("あかりはちょっと複雑な顔をした。†",
+    ("あかりはちょっと複雑な顔をした。",
     ""),
-    # Akari Hachie gave a complicated look.†
+    # Akari Hachie gave a complicated look.
 
     ("「でも、いちおう追いかけてｗてはくれるんだね？」",
     ""),
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # "I don't know anymore.
 
-    ("勝闖手に行け」†",
+    ("勝闖手に行け」",
     ""),
-    # Go to Katsura"†
+    # Go to Katsura"
 
     ("「ふふっ、じ痰ゃやーめた。行かない」",
     ""),
@@ -290,9 +290,9 @@ text_array = [
     ""),
     # "That's what it is after all."
 
-    ("「ふふふっ」†",
+    ("「ふふふっ」",
     ""),
-    # "Hehehe" †
+    # "Hehehe" 
 
     ("ぱし痰ゃっ。",
     ""),
@@ -306,9 +306,9 @@ text_array = [
     ""),
     # Apparently he stepped on the rainbow reflected in the $ and was jing.
 
-    ("靴下、濡齡れるぞ。†",
+    ("靴下、濡齡れるぞ。",
     ""),
-    # The socks will get wet.†
+    # The socks will get wet.
 
     ("ぱし痰ゃ。",
     ""),
@@ -318,9 +318,9 @@ text_array = [
     ""),
     # It's so phlegm.
 
-    ("いったいなにが面猪白いんだか。†",
+    ("いったいなにが面猪白いんだか。",
     ""),
-    # What on earth is the white boar?†
+    # What on earth is the white boar?
 
     ("ぱし痰ゃっ。",
     ""),
@@ -330,9 +330,9 @@ text_array = [
     ""),
     # "Ah!"
 
-    ("あーあ、案の定、靴下を濡逕らしやがった。†",
+    ("あーあ、案の定、靴下を濡逕らしやがった。",
     ""),
-    # Ah, as expected, I've been tampering with my socks.†
+    # Ah, as expected, I've been tampering with my socks.
 
     ("そんなあかりを見て、オレは｢｢。",
     ""),

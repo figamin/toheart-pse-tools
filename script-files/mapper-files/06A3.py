@@ -2,15 +2,15 @@
 # Source file: 06A3.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	１階１）閨（選択綜ＡＢＣ	の続き）†",
+    ("（マルチ	回秤数イベント	１階１）閨（選択綜ＡＢＣ	の続き）",
     ""),
-    # (Makyuruchi Scales Event, 1st floor 1) (Continued from Chosen ABC)†
+    # (Makyuruchi Scales Event, 1st floor 1) (Continued from Chosen ABC)
 
     ("「いきなり質竡問して、悪かったな」",
     ""),
     # "I suddenly asked the question, it was a bad thing."
 
-    ("「…いえ、本沫なら、自分のスペックくらいはっきりと説明できなくち痰ゃいけないのに、わたし、むずかしいこと覚えるの苦闍手で…」†",
+    ("「…いえ、本沫なら、自分のスペックくらいはっきりと説明できなくち痰ゃいけないのに、わたし、むずかしいこと覚えるの苦闍手で…」",
     ""),
     # "...No, if it's just a droplet, I have to be able to clearly explain my specs, but I'm struggling to remember difficult things..."
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # It's true that humans have great and poor skills in remembering things that are irrelevant, so Makruchi is a strange, high-class robot.
 
-    ("そういうとこまで、徹齠底して人間っぽくｍ迯られてるのかもな。†",
+    ("そういうとこまで、徹齠底して人間っぽくｍ迯られてるのかもな。",
     ""),
-    # I wonder if he's completely keen on such things and is a human-like person.†
+    # I wonder if he's completely keen on such things and is a human-like person.
 
     ("「…う覚えな説明ですみませんでした」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Are you doing the work?"
 
-    ("「ホント、ホント。おかげで、オレも≠メイド鴻ロボットのことが少しわかった気がする」†",
+    ("「ホント、ホント。おかげで、オレも≠メイド鴻ロボットのことが少しわかった気がする」",
     ""),
     # "Really, it's true. Thanks to you, I feel like I've come to understand a little bit about Maid Korobot."
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "... And I've had a special change, so I can't believe that the other high-robot lucky people are completely different to each other."
 
-    ("「そんなに痰違うのか？」†",
+    ("「そんなに痰違うのか？」",
     ""),
     # "Is there such a difference in phlegm?"
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "...Hmm. That's right, when you say that, it's true that Makruchi has been a shaky thing."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「なんてったって、他の高ロボットに比べて、ダントツで親しみやすい」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「やっぱり人間に近いよな。こうして喋ってると、ついついマルチのこと、香ロボットだって忘齧れちまう。可愛い後輩の翌女の子って感じかな」†",
+    ("「やっぱり人間に近いよな。こうして喋ってると、ついついマルチのこと、香ロボットだって忘齧れちまう。可愛い後輩の翌女の子って感じかな」",
     ""),
-    # "I'm pretty close to humans after all. As I talk like this, I can't help but forget about Ma-Cry Robots. I think she's the girl after a cute junior." †
+    # "I'm pretty close to humans after all. As I talk like this, I can't help but forget about Ma-Cry Robots. I think she's the girl after a cute junior." 
 
     ("「…さん」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # The cried-in-the-squealed cheeks flashed red.
 
-    ("そんな仕寬種燻もじつに人間迥らしい。†",
+    ("そんな仕寬種燻もじつに人間迥らしい。",
     ""),
-    # The smoked sashimi seeds seem to be human.†
+    # The smoked sashimi seeds seem to be human.
 
     ("「じ痰ゃ、オレ、もう帰っから」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # I'll do my best."
 
-    ("にっこり笑うマルチに手を振って、オレはその場を後にした。†",
+    ("にっこり笑うマルチに手を振って、オレはその場を後にした。",
     ""),
-    # I waved at Ma-Ruchi's smile and left the scene.†
+    # I waved at Ma-Ruchi's smile and left the scene.
 
     ("それにしてもマルチって、ほんと高ロボットには見えないよな。◯",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 0A0D.txt
 
 text_array = [
-    ("（Ｃ	すげー諱よな）†",
+    ("（Ｃ	すげー諱よな）",
     "C"),
-    # (C, that's amazing)†
+    # (C, that's amazing)
 
     ("「すげーよな。毎日毎日…」",
     "You're pretty amazing, doing this every day…"),
@@ -32,7 +32,7 @@ text_array = [
 
     ("慌てて手を振る理緒ちゃん。",
     "She waves her hands around in a fluster."),
-    # I hurriedly waved my hand.†
+    # I hurriedly waved my hand.
 
     ("なんでそんなに働くんだろう。",
     "I wonder why she needs to work so hard."),
@@ -40,7 +40,7 @@ text_array = [
 
     ("気にはなったが、余計なことかもしれないので、あえて聞かないでおこう。",
     "But I don't want to be a busybody, so I decide not to ask."),
-    # I was curious, but I think it's unnecessary or something so I'll just not ask you about it.†
+    # I was curious, but I think it's unnecessary or something so I'll just not ask you about it.
 
     ("「よくわからねーけど、大変だな」",
     "Whatever it is, it must be tough to work so hard."),
@@ -72,7 +72,7 @@ text_array = [
 
     ("恥ずかしそうにうつむく理緒ちゃん。",
     "Rio lowers her head shyly."),
-    # I look embarrassed and look down on my face.†
+    # I look embarrassed and look down on my face.
 
     ("「んじゃ、オレもそろそろ帰るよ。",
     "Anyway, I'm going home now."),

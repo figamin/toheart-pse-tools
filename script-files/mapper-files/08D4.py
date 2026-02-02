@@ -2,9 +2,9 @@
 # Source file: 08D4.txt
 
 text_array = [
-    ("（レミィ	好感度イベント	ＰＳ）†",
+    ("（レミィ	好感度イベント	ＰＳ）",
     ""),
-    # (Karemi Likeability Event PS)†
+    # (Karemi Likeability Event PS)
 
     ("「Ｈ盾ｏ翌ｗ	＝ａ窒ｒ	凵ｙ盾ｏ浮ｕ？」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # During the break, Eki Remi suddenly asked.
 
-    ("レミィを見慣れていない連中は、じじとこっちを見ている。†",
+    ("レミィを見慣れていない連中は、じじとこっちを見ている。",
     ""),
-    # Those who are not used to seeing Karemi are looking at me with the b-b-b.†
+    # Those who are not used to seeing Karemi are looking at me with the b-b-b.
 
     ("「おう、レミィ。いったい何の用だ？」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "It's a very rapid rate. Is it an invitation to go on a date?"
 
-    ("「イエ〜ス」†",
+    ("「イエ〜ス」",
     ""),
-    # "Jesus"†
+    # "Jesus"
 
     ("オレの嘯答えは｢｢。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 0A66.txt
 
 text_array = [
-    ("（Ｂ	悪いけど…。）†",
+    ("（Ｂ	悪いけど…。）",
     ""),
-    # (B I'm sorry but...)†
+    # (B I'm sorry but...)
 
     ("「悪いけど、パス」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "What...? Oh, that's right. You know, it's the Ming Shun test."
 
-    ("「いや、オレ、人になにか教えられるほど、頭謫よくねーから」†",
+    ("「いや、オレ、人になにか教えられるほど、頭謫よくねーから」",
     ""),
-    # "I'm not so smart enough to be able to teach someone something" †
+    # "I'm not so smart enough to be able to teach someone something" 
 
     ("「そんなことないよっ。くん、ほんとは賢い人だって知ってるもん！」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What is it that phlegm? Is there some kind of groundwork?"
 
-    ("「こ、根注拠は、ないよね…」†",
+    ("「こ、根注拠は、ないよね…」",
     ""),
     # "Hey, there's no root-feeding, is it..."
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "You'll have to work hard, even if it's part-time work, but also try hard on your test lead."
 
-    ("「うん！」†",
+    ("「うん！」",
     ""),
-    # "Yeah!"†
+    # "Yeah!"
 
     ("そして、オレはまっすぐ家に帰った。◯",
     ""),

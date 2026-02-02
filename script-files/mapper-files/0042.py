@@ -14,17 +14,17 @@ text_array = [
     ""),
     # I walked along the hallway.
 
-    ("何人かの生徒たちとすれ痰違ったが、とくに親しい顔には出初わなかった。†",
+    ("何人かの生徒たちとすれ痰違ったが、とくに親しい顔には出初わなかった。",
     ""),
-    # Although I was completely gross with some of the students, I couldn't see any of my close faces.†
+    # Although I was completely gross with some of the students, I couldn't see any of my close faces.
 
     ("階段を降闕りて、１階の廊下にｗた。",
     ""),
     # I descended the stairs and headed out into the corridor on the first floor.
 
-    ("とくに誰に出初うこともなかった。†",
+    ("とくに誰に出初うこともなかった。",
     ""),
-    # I never had any particular experience with anyone.†
+    # I never had any particular experience with anyone.
 
     ("学校を出て、いつもの坂道を下驩る。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # There are a variety of students who go home while shaking their hair, and while they go down on their bikes.
 
-    ("今厓日は帰って…勉強だな。†",
+    ("今厓日は帰って…勉強だな。",
     ""),
-    # I'm back on the day right now... I'm studying.†
+    # I'm back on the day right now... I'm studying.
 
     ("いよいよ明坙日は最終叝日。",
     ""),

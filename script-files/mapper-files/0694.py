@@ -2,9 +2,9 @@
 # Source file: 0694.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｃ	諱よしっ、もうモくな！）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｃ	諱よしっ、もうモくな！）",
     ""),
-    # (Marry Crunch, Scales Event 2F LV3) (Select C: Okay, don't cry anymore!)†
+    # (Marry Crunch, Scales Event 2F LV3) (Select C: Okay, don't cry anymore!)
 
     ("「諱よしっ、もうモくな！」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Yes."
 
-    ("マルチはびしっと返抹事をした。†",
+    ("マルチはびしっと返抹事をした。",
     ""),
-    # Ruchi quickly replied.†
+    # Ruchi quickly replied.
 
     ("「＝c…………",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # Uuh...=v
 
-    ("マルチの大きな目から、ぽっ…と涙がこぼれる。†",
+    ("マルチの大きな目から、ぽっ…と涙がこぼれる。",
     ""),
-    # Tears burst into tears from the big eyes of the cries of a cry of a bbw.†
+    # Tears burst into tears from the big eyes of the cries of a cry of a bbw.
 
     ("「メくなっ！」",
     ""),
@@ -58,8 +58,8 @@ text_array = [
     ""),
     # Uuh...=v
 
-    ("「しょうがねえなぁ」†",
+    ("「しょうがねえなぁ」",
     ""),
-    # "There's no shii" †
+    # "There's no shii" 
 
 ]

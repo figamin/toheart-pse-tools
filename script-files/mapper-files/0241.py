@@ -2,9 +2,9 @@
 # Source file: 0241.txt
 
 text_array = [
-    ("（芹°香	好感度イベント	Ｘ）閨（回秤数イベント２『春休みイベント』を見た）閨（１桙時間目の休み桙時間）閨（階段）†",
+    ("（芹°香	好感度イベント	Ｘ）閨（回秤数イベント２『春休みイベント』を見た）閨（１桙時間目の休み桙時間）閨（階段）",
     ""),
-    # (Seri° Ka Likeability Event X) Li (See the 2nd Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale (Staircase) †
+    # (Seri° Ka Likeability Event X) Li (See the 2nd Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale Scale (Staircase) 
 
     ("１桙時間目の休み桙時間。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "?"
 
-    ("振關りｌくとｗ栖瑞謳先輩がいた。†",
+    ("振關りｌくとｗ栖瑞謳先輩がいた。",
     ""),
-    # When I heard the message, I saw lol, Suzumi-san.†
+    # When I heard the message, I saw lol, Suzumi-san.
 
     ("「いよお、諱先輩」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	…諱先﨎日はすみませんでしたって？	ははは、だからもういいって。あれはあれで楽しかったからさ」†",
+    ("「えっ？	…諱先﨎日はすみませんでしたって？	ははは、だからもういいって。あれはあれで楽しかったからさ」",
     ""),
-    # "Huh? ...I'm sorry for the day I went to the next day? Hahaha, so I thought it was okay. That was fun."†
+    # "Huh? ...I'm sorry for the day I went to the next day? Hahaha, so I thought it was okay. That was fun."
 
     ("「………」",
     "…"),
@@ -46,9 +46,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「残念ですかって？	うーん、そうだなあ。正直言うと、ちょっと残念かもなあ」†",
+    ("「残念ですかって？	うーん、そうだなあ。正直言うと、ちょっと残念かもなあ」",
     ""),
-    # "Are you sorry? Hmm, that's right. To be honest, it's a shame, it's a shame, but there's no other Hot."†
+    # "Are you sorry? Hmm, that's right. To be honest, it's a shame, it's a shame, but there's no other Hot."
 
     ("「………」",
     "…"),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「わかった。じ痰ゃあ、楽しみにしてるぜ」†",
+    ("「わかった。じ痰ゃあ、楽しみにしてるぜ」",
     ""),
     # "I understand. I'm looking forward to it."
 

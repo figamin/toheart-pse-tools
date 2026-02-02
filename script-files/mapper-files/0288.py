@@ -2,9 +2,9 @@
 # Source file: 0288.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ａ	いっしょに帰迢らないか）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ａ	いっしょに帰迢らないか）",
     ""),
-    # (Seri°Chuang, Scales Event, Departing from School LV1)Seri (Select A, Will you return to the Ebi?)†
+    # (Seri°Chuang, Scales Event, Departing from School LV1)Seri (Select A, Will you return to the Ebi?)
 
     ("「諱先輩、いっしょに帰迢らないか？」",
     ""),
@@ -22,17 +22,17 @@ text_array = [
     "…"),
     # "..."
 
-    ("申し訳なさそうに言った。†",
+    ("申し訳なさそうに言った。",
     ""),
-    # He said with apologies.†
+    # He said with apologies.
 
     ("「え？	ご一処緒したいのはやまやまですが？",
     ""),
     # "Huh? What I want to tell you is Tanzania, Tanzania, right?
 
-    ("なに、なんか用沫事でもあんの？	だったら、その用沫事につき№合っても｢｢」†",
+    ("なに、なんか用沫事でもあんの？	だったら、その用沫事につき№合っても｢｢」",
     ""),
-    # What, is there some kind of splashing and some hot water?If that's the case, then it's a good match for the droplet, and the hot water is ""†
+    # What, is there some kind of splashing and some hot water?If that's the case, then it's a good match for the droplet, and the hot water is ""
 
     ("そのとき、",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # It was B when he was heading into the afterlife.
 
-    ("心汾臓がドキドキいってやがる。†",
+    ("心汾臓がドキドキいってやがる。",
     ""),
-    # My heart pounds and I'm pounding.†
+    # My heart pounds and I'm pounding.
 
     ("バタン…。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # The man who dropped off the stopped chrysanthemum limousine was a man in a black suit.
 
-    ("冷笳や汗を拭うオレの目の前を、普黒スーツの男はなにごともなかったかのように通過する。†",
+    ("冷笳や汗を拭うオレの目の前を、普黒スーツの男はなにごともなかったかのように通過する。",
     ""),
-    # The man in a black suit passes through my eyes as if there was no heat, as if there was no heat in front of me, who was wiped away the cold and sweat.†
+    # The man in a black suit passes through my eyes as if there was no heat, as if there was no heat in front of me, who was wiped away the cold and sweat.
 
     ("「芹°香おｏ様、蛛大変失邇礼いたしました。さあ、どうぞ、お車へ」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # He was a strangely firm old man with his orderly hair and a white beard.
 
-    ("運転闢手…っていうより、執鮪事とかそういうやつだう。†",
+    ("運転闢手…っていうより、執鮪事とかそういうやつだう。",
     ""),
-    # Rather, he's a man of driving... he's a tampering thing like tuna.†
+    # Rather, he's a man of driving... he's a tampering thing like tuna.
 
     ("じーさんは先輩を導くようにして後伯部座席のドアを開く。",
     ""),

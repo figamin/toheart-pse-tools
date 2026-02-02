@@ -2,17 +2,17 @@
 # Source file: 0129.txt
 
 text_array = [
-    ("（あかり	ＶＳイベント	葵）閨（選択綜Ｂ	ただの幼なじみ）†",
+    ("（あかり	ＶＳイベント	葵）閨（選択綜Ｂ	ただの幼なじみ）",
     ""),
-    # (Akari vs. Event Aoi) (Shonen Sou B Just Childhood Friend)†
+    # (Akari vs. Event Aoi) (Shonen Sou B Just Childhood Friend)
 
     ("「ただの幼なじみさ」",
     ""),
     # "Just a childhood friend"
 
-    ("オレは言った。†",
+    ("オレは言った。",
     ""),
-    # I said.†
+    # I said.
 
     ("「幼なじみ…ですか？」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「どうかした？」†",
+    ("「どうかした？」",
     ""),
     # "What's up?"
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "What is it? Aoi Chi's phlegm is weird."
 
-    ("そのとき、始業のチャャイムが鳴った。†",
+    ("そのとき、始業のチャャイムが鳴った。",
     ""),
-    # At that moment, the opening cyaim sounded.†
+    # At that moment, the opening cyaim sounded.
 
     ("「あっ、それじ痰ゃ先輩、これで失邇礼します」",
     ""),

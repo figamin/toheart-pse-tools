@@ -2,17 +2,17 @@
 # Source file: 0300.txt
 
 text_array = [
-    ("（智子	出初いイベント）閨（３月１０冾日	氏月曜坥日）閨（昼休み）閨（教室）†",
+    ("（智子	出初いイベント）閨（３月１０冾日	氏月曜坥日）閨（昼休み）閨（教室）",
     ""),
-    # (Tomoko's first event) (3rd 10th day of the month, Monday, Sunday) (lunch break) (classroom)†
+    # (Tomoko's first event) (3rd 10th day of the month, Monday, Sunday) (lunch break) (classroom)
 
     ("昼休み。",
     ""),
     # lunch break.
 
-    ("昼メシを食い終えたオレは、ちょいとトイレへ用足しに出かけた。†",
+    ("昼メシを食い終えたオレは、ちょいとトイレへ用足しに出かけた。",
     ""),
-    # After finishing the lunch meal, I went out to Chibi and Toy Gekure to add more.†
+    # After finishing the lunch meal, I went out to Chibi and Toy Gekure to add more.
 
     ("すっきりし、教室へと戻髢る途湯の廊下で、",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # He holds a book in his hand.
 
-    ("「なんだ、どこ行くんだ？」†",
+    ("「なんだ、どこ行くんだ？」",
     ""),
     # "What, where are you going?"
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "That's right."
 
-    ("と、ＯＫした。†",
+    ("と、ＯＫした。",
     ""),
-    # And it was OK.†
+    # And it was OK.
 
     ("というわけで、図草書室。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # This bookstore was just expanded a few years ago, and the air conditioning room is good, quiet, and it's a comfortable bonito area inside the schoolroom.
 
-    ("本なんてめったに借りないこのオレだが、昼寝の場鰹所としてはときどきｗ用している。†",
+    ("本なんてめったに借りないこのオレだが、昼寝の場鰹所としてはときどきｗ用している。",
     ""),
-    # I rarely borrow books, but I sometimes use them as a bonito spot for naps.†
+    # I rarely borrow books, but I sometimes use them as a bonito spot for naps.
 
     ("「返す前に、氈次に借りる本を探してこようと思うんだけど」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Well..."
 
-    ("その気もないのに返抹事する。†",
+    ("その気もないのに返抹事する。",
     ""),
-    # I'll give it back even though I don't have that energy.†
+    # I'll give it back even though I don't have that energy.
 
     ("どうもこういうのは、借りるのはともかく、返しにくるのが面倒くさくて気が乗らない。",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # I wonder if I'll see you at Tomatato?"
 
-    ("そう言っておいた。†",
+    ("そう言っておいた。",
     ""),
-    # That's what I said.†
+    # That's what I said.
 
     ("そんなオレを見て、あかりはクスッと笑う。",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # I don't want to mess up, but I'm also using a long time to match.
 
-    ("常に本心を見透かされるもんな。†",
+    ("常に本心を見透かされるもんな。",
     ""),
-    # You're always able to see through your true feelings.†
+    # You're always able to see through your true feelings.
 
     ("「じ痰ゃ、もし借りたい本があったら言ってね。カードの曹書き方、教えてあげるから」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # And then I made a random reply.
 
-    ("にっこり笑顔で言い残し、あかりはｌこうへと歩いていく。†",
+    ("にっこり笑顔で言い残し、あかりはｌこうへと歩いていく。",
     ""),
-    # With a smile on his face, Akari said, walking towards Lkou.†
+    # With a smile on his face, Akari said, walking towards Lkou.
 
     ("「………」",
     "…"),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # Well, it's tampering.
 
-    ("にはもしかしたら本末当に面猪白そうな本があるかもしれないしな。†",
+    ("にはもしかしたら本末当に面猪白そうな本があるかもしれないしな。",
     ""),
-    # There may be some books that look like they're white in the real world, or maybe they're hot.†
+    # There may be some books that look like they're white in the real world, or maybe they're hot.
 
     ("オレはしらみつぶしに本棚を見て回った。",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # Glasses and trousers that tend to sway.
 
-    ("前にも見かけたことのある子だな。†",
+    ("前にも見かけたことのある子だな。",
     ""),
-    # I've seen Hot before.†
+    # I've seen Hot before.
 
     ("ひとりの翌女生徒がｊなっかしげに背伸びし、ａ高い位置へと手を伸ばしていた。",
     ""),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # Glasses and trousers that tend to sway.
 
-    ("見たことのない子だな。†",
+    ("見たことのない子だな。",
     ""),
-    # He's a child I've never seen before.†
+    # He's a child I've never seen before.
 
     ("女の子は、まるでバレリーナみたいに爪謦先でｃ鴻ロャ鴻ロと立ち、必死に手を伸ばす。",
     ""),
@@ -222,9 +222,9 @@ text_array = [
     ""),
     # So the only thing that the finger slander was barely touching the spine and insults, and it seems like the book that was going to endure was going to be collected, but there was no way there.
 
-    ("黙って見てるのもなんだしな。†",
+    ("黙って見てるのもなんだしな。",
     ""),
-    # It's not true that you're watching silently.†
+    # It's not true that you're watching silently.
 
     ("オレは｢｢。",
     ""),

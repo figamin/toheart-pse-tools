@@ -2,15 +2,15 @@
 # Source file: 0411.txt
 
 text_array = [
-    ("（志保	ノベルシーン）閨（選択綜	いいけど）†",
+    ("（志保	ノベルシーン）閨（選択綜	いいけど）",
     ""),
-    # (Shiho's novel crying scene) (Sho is fine though)†
+    # (Shiho's novel crying scene) (Sho is fine though)
 
     ("「べつにいいけどな。あと誰が行くんだよ」",
     ""),
     # "It's really good. Who's going?"
 
-    ("「とりあえずあかりは…、いないみたいね。あかりにはあたしが声かけとくけど、雅史はダ＜メだうし、あとはわかんないわ…。３人だけかもね」†",
+    ("「とりあえずあかりは…、いないみたいね。あかりにはあたしが声かけとくけど、雅史はダ＜メだうし、あとはわかんないわ…。３人だけかもね」",
     ""),
     # "At the time being, it seems like there's no Akari. I'll call out to Akari, but Masochi is a daddy b, and the rest is a bastard... or even a bastard."
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Ahaha, that's right."
 
-    ("「ゲンキンなрヤツだ」†",
+    ("「ゲンキンなрヤツだ」",
     ""),
-    # "He's a bit of a silly guy" †
+    # "He's a bit of a silly guy" 
 
     ("「んじ痰ゃ、終尞わったら呼びにｗ磯翌ｩら。教室にいなさいよ」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "ah"
 
-    ("うなずくと、志保は桙満足迹顔で帰っていった。†",
+    ("うなずくと、志保は桙満足迹顔で帰っていった。",
     ""),
-    # Nodded, Shiho left with a satisfying look on his face.†
+    # Nodded, Shiho left with a satisfying look on his face.
 
     ("チャャイムが鳴って、今厓日の授業はおしまい。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # After this, we'll be having a banquet with Shiho and the others.
 
-    ("オレは机の上に鞄を冾放阨り出して待つことにした。†",
+    ("オレは机の上に鞄を冾放阨り出して待つことにした。",
     ""),
-    # I decided to put out a bag of my bag on the table and waited.†
+    # I decided to put out a bag of my bag on the table and waited.
 
     ("「ち痰ゃん」",
     ""),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "I see. All we have to do is wait for the Queen after the song."
 
-    ("「ふふっ、そうだね」†",
+    ("「ふふっ、そうだね」",
     ""),
     # "Hehe, that's right."
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "It's a hit" ◯
 
-    ("結局、商店街でついつい寄闃り道してしまい、いつものカラオケボックスへやってきたこには、冝日燗も沈みかけていた。†",
+    ("結局、商店街でついつい寄闃り道してしまい、いつものカラオケボックスへやってきたこには、冝日燗も沈みかけていた。",
     ""),
-    # In the end, he ended up visiting the shopping district, and when he had come to the hot banquet box, the sun was almost sinking.†
+    # In the end, he ended up visiting the shopping district, and when he had come to the hot banquet box, the sun was almost sinking.
 
     ("「あっはっは、見て見て。こんなにスタンプたまっち痰ゃったぁ」",
     ""),
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Mochib, it's a discounted price on money. The more you sing, the more you get, the more you get it."
 
-    ("「得じ痰ゃねえよ。おめえみたいなрヤツがどんどん損するシステムだ」†",
+    ("「得じ痰ゃねえよ。おめえみたいなрヤツがどんどん損するシステムだ」",
     ""),
     # "You're not worth it. It's a system where people like me get lost more and more."
 
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # While he sings one song, he sings two songs.
 
-    ("その分、余計にカネを払うけど…。†",
+    ("その分、余計にカネを払うけど…。",
     ""),
-    # I'll pay more money for that though...†
+    # I'll pay more money for that though...
 
     ("「ち痰ゃん」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "I see, the hot spring too..."
 
-    ("オレたちはこっそり微笑み№合った。†",
+    ("オレたちはこっそり微笑み№合った。",
     ""),
-    # We all secretly smiled and met.†
+    # We all secretly smiled and met.
 
     ("と、そのとき、",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # "What's that?"
 
-    ("新しい芸か？†",
+    ("新しい芸か？",
     ""),
-    # Is it a new art?†
+    # Is it a new art?
 
     ("「電話電話〜っ」",
     ""),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # Even the astonishing guy, Hou, sang, couldn't answer the phone.
 
-    ("オレはマイクをとって、曲の残りを適俣当に流した。†",
+    ("オレはマイクをとって、曲の残りを適俣当に流した。",
     ""),
-    # My geire took the microphone and played the rest of the song to Tomomata.†
+    # My geire took the microphone and played the rest of the song to Tomomata.
 
     ("・",
     ""),
@@ -222,9 +222,9 @@ text_array = [
     ""),
     # "Claps and claps...it's so good. As expected from Shiho, you'll be able to win."
 
-    ("「諱よせよ」†",
+    ("「諱よせよ」",
     ""),
-    # "Give me your name" †
+    # "Give me your name" 
 
     ("そんなことを言ってるうちに、志保が戻ってきた。",
     ""),
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # As soon as he comes back, Shiho is sorry.
 
-    ("「なにがだよ」†",
+    ("「なにがだよ」",
     ""),
     # "What is it?"
 
@@ -246,9 +246,9 @@ text_array = [
     ""),
     # "The urgent section is sputum. I have two and a half more frames, but I'll be fine! Oh, I'll give you the hot money."
 
-    ("と言うが≠早いか、ドタバタと出て行った。†",
+    ("と言うが≠早いか、ドタバタと出て行った。",
     ""),
-    # But it was quick, and I left in a slapstick mood.†
+    # But it was quick, and I left in a slapstick mood.
 
     ("「お、おい…！	おめーじ痰ゃねえんだから、ふたりで２桙時間搖持つかっての！」",
     ""),
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # It's too late to say that b.
 
-    ("オレとあかりは顔を見㈹合寘わせた。†",
+    ("オレとあかりは顔を見㈹合寘わせた。",
     ""),
-    # I and Akari looked at their faces and made them join together.†
+    # I and Akari looked at their faces and made them join together.
 
     ("「どうする？	ち痰ゃん」",
     ""),
@@ -286,13 +286,13 @@ text_array = [
     ""),
     # "Now, shall we go back?"
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
-    ("駅前にｗた。†",
+    ("駅前にｗた。",
     ""),
-    # I was in front of the station.†
+    # I was in front of the station.
 
     ("「…あかり、どっか寄ってくとこあるか？	あるならつき№合うぜ」",
     ""),
@@ -306,9 +306,9 @@ text_array = [
     ""),
     # Akari said that and pointed to Shiho.
 
-    ("′こうも驚いた顔をしている。†",
+    ("′こうも驚いた顔をしている。",
     ""),
-    # 'Kouu also looks surprised.†
+    # 'Kouu also looks surprised.
 
     ("志保はすぐさま駆け寄ってきて、",
     ""),
@@ -326,7 +326,7 @@ text_array = [
     ""),
     # "If you don't get too close, it's a problem, this one."
 
-    ("「なにが困骰るんだよ」†",
+    ("「なにが困骰るんだよ」",
     ""),
     # "What's that bothering you?"
 
@@ -342,7 +342,7 @@ text_array = [
     ""),
     # "What is it?! You guys have been doing this forever!? Think about the hardships of people who are bastards!"
 
-    ("「おい、さっきからなに怒ってんだよ」†",
+    ("「おい、さっきからなに怒ってんだよ」",
     ""),
     # "Hey, what have you been mad for a while now?"
 
@@ -354,9 +354,9 @@ text_array = [
     ""),
     # It's a lmao in my head!Tamper until you die!Bye bye!!”
 
-    ("一息にそこまで言うと、志保は背をｌけて一目散に駆け出して行った。†",
+    ("一息にそこまで言うと、志保は背をｌけて一目散に駆け出して行った。",
     ""),
-    # After giving that much, Shiho leaned back and leaned forward.†
+    # After giving that much, Shiho leaned back and leaned forward.
 
     ("「お、おい、志保」",
     ""),
@@ -366,9 +366,9 @@ text_array = [
     ""),
     # What's going on?
 
-    ("あかりに聞こうと、オレは振關り返った。†",
+    ("あかりに聞こうと、オレは振關り返った。",
     ""),
-    # I called back to ask Akari.†
+    # I called back to ask Akari.
 
     ("「ち痰ゃん、追いかけてあげて…」",
     ""),
@@ -386,9 +386,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("今度はなにも言甯わない。†",
+    ("今度はなにも言甯わない。",
     ""),
-    # This time, nothing can be said about the hot topic.†
+    # This time, nothing can be said about the hot topic.
 
     ("オレは｢｢。",
     ""),

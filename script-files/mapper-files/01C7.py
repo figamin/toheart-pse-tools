@@ -2,9 +2,9 @@
 # Source file: 01C7.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（ＡＢＣの続き）閨（あかり小	苦しそう	１２）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（ＡＢＣの続き）閨（あかり小	苦しそう	１２）",
     ""),
-    # (Akari Scales Event 2F) (Continued from ABC) (Akari Ko, looks painful 12)†
+    # (Akari Scales Event 2F) (Continued from ABC) (Akari Ko, looks painful 12)
 
     ("「あうう…；",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "I'm going back."
 
-    ("オレは鞄を取って、席から立つと、あかりといっしょに教室を出た。†",
+    ("オレは鞄を取って、席から立つと、あかりといっしょに教室を出た。",
     ""),
-    # I grabbed my bag and got out of my seat and left the classroom with Akari and Ichigo.†
+    # I grabbed my bag and got out of my seat and left the classroom with Akari and Ichigo.
 
     ("「さすがに誰熬もいないね」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Time is fuzzy. All that remains is the Cultural Scales Club at Kuban Love House."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「しかし、すっかり冾日燗も長くなったよなァ」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "From the Ming Shun Day, it's already been five Lion Moon."
 
-    ("「ああ、そういやそうか」†",
+    ("「ああ、そういやそうか」",
     ""),
     # "Ah, I guess that's what you're going to say."
 
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "Yeah, thank you. That phlegm is irritating!"
 
-    ("にっこり笑って手を振髏ると、あかりは自分の家へと帰っていった。†",
+    ("にっこり笑って手を振髏ると、あかりは自分の家へと帰っていった。",
     ""),
-    # She smiled and waved her hand, and Akari went back to her house.†
+    # She smiled and waved her hand, and Akari went back to her house.
 
     ("さてと。",
     ""),

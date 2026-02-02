@@ -2,9 +2,9 @@
 # Source file: 0292.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（選択綜Ｃ	ということは、つまりこの本は…）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（選択綜Ｃ	ということは、つまりこの本は…）",
     ""),
-    # (Seri°C, Scales, Scales Event, Return Road, LV1)Seri (Selection C, which means that this book is...)†
+    # (Seri°C, Scales, Scales Event, Return Road, LV1)Seri (Selection C, which means that this book is...)
 
     ("「ということは、つまりこの本は…」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "It's a book that examines the origins of evil evil demons from B-Magic Insights, isn't it?"
 
-    ("＝普通なら、そのまんまとつっこまれそうなものだが、諱先輩はこくんとうなずく。†",
+    ("＝普通なら、そのまんまとつっこまれそうなものだが、諱先輩はこくんとうなずく。",
     ""),
-    # = Normally, it would be a hot topic to be completely touched, but Senpai Nods with Ko-kun.†
+    # = Normally, it would be a hot topic to be completely touched, but Senpai Nods with Ko-kun.
 
     ("「じつはオレも、悪ｈ魔にはくわしいんだぜ？",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "You don't know? Hehehe, sigh, what about "Pecco Korou Ogre Dai Qu Demon King"?"
 
-    ("ふるふると左右に首を振髏る先輩。†",
+    ("ふるふると左右に首を振髏る先輩。",
     ""),
-    # Senpai shook his head from side to side.†
+    # Senpai shook his head from side to side.
 
     ("「なんだ先輩、勉強が足闡りないな。けっこう≠メジャャーな連中なんだぜ？	ま、その本には載ってないだうけどさ」",
     ""),
@@ -54,8 +54,8 @@ text_array = [
     ""),
     # "Huh? You really want me to let you know? That's right, I'll tell you again next time. Come with my amazing, amazing party ending."
 
-    ("諱先輩はこくんとうなずいた。†",
+    ("諱先輩はこくんとうなずいた。",
     ""),
-    # Senpai nodded with Ko-kun.†
+    # Senpai nodded with Ko-kun.
 
 ]

@@ -2,9 +2,9 @@
 # Source file: 081B.txt
 
 text_array = [
-    ("（レミィ	好感度イベント５）閨（４／２２（火）	好感度	１０以繹上）閨（屋繪上）閨（昼休み）†",
+    ("（レミィ	好感度イベント５）閨（４／２２（火）	好感度	１０以繹上）閨（屋繪上）閨（昼休み）",
     ""),
-    # (Karemi Remi Likeability Event 5) (Tue 4/22) Likeability: 10 or more) (Yaye) (Lunch break)†
+    # (Karemi Remi Likeability Event 5) (Tue 4/22) Likeability: 10 or more) (Yaye) (Lunch break)
 
     ("「…なんだよ。こんなとこに呼び出して」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # During lunch break, I was called by Ekiremi to the Yae.
 
-    ("掾理由を聞いても、彼女はもの悲しげにオレを見つめるだけだ。†",
+    ("掾理由を聞いても、彼女はもの悲しげにオレを見つめるだけだ。",
     ""),
-    # When asked why, even though she was, the woman just stared at me with a sad look on her face.†
+    # When asked why, even though she was, the woman just stared at me with a sad look on her face.
 
     ("「用がねーなら、帰驪るぞ」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "I... I have to go back to my hometown and have to sputum."
 
-    ("「は？」†",
+    ("「は？」",
     ""),
-    # "teeth?"†
+    # "teeth?"
 
     ("「アタシ今骰夜、戻ります…」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # With that, Karemi pointed at the sky.
 
-    ("見骭ると、彼女が示した方阜には、秩白っぽい真巨昼の月が浮かんでいる。†",
+    ("見骭ると、彼女が示した方阜には、秩白っぽい真巨昼の月が浮かんでいる。",
     ""),
-    # As she watched, she saw a white-sized, truly huge daytime Shizuki floating in the air, which the woman showed.†
+    # As she watched, she saw a white-sized, truly huge daytime Shizuki floating in the air, which the woman showed.
 
     ("「けっ」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # No matter how much you go, you can't get enough phlegm.
 
-    ("ついでに呆れ返ってしまう。†",
+    ("ついでに呆れ返ってしまう。",
     ""),
-    # At the same time, I was shocked.†
+    # At the same time, I was shocked.
 
     ("「に拾尞われてからの三年間…、レミィはとても幸せデシタ…」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # Ekiremi said, looking up at Shizuki with prayerful eyes, as if to tell herself.
 
-    ("「あのなぁ…。いつオレがお前を拾ったんだよ？	オレは竹なんか取邇らねえぞ」†",
+    ("「あのなぁ…。いつオレがお前を拾ったんだよ？	オレは竹なんか取邇らねえぞ」",
     ""),
-    # "Um... When did I pick you up? I won't take any bamboo." †
+    # "Um... When did I pick you up? I won't take any bamboo." 
 
     ("「この冾日がｗ磯翌ﾌを、アタシはずっと、恐鼡れていました。…時が止まればいいとさえ思いました」",
     ""),
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # The story is not right...
 
-    ("「おい、オレの話、聞いてっか？」†",
+    ("「おい、オレの話、聞いてっか？」",
     ""),
     # "Hey, could you listen to me about this crazy story?"
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "If I could listen!"
 
-    ("「…止めてはくれないのデスか？」†",
+    ("「…止めてはくれないのデスか？」",
     ""),
     # "...Is it death that won't stop you?"
 
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # "Why? Is it too sudden and you have too much phlegm?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("彼女はこたえなかった。",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # I could see the hot water like that.
 
-    ("…ちょっとギャャグには見えない。†",
+    ("…ちょっとギャャグには見えない。",
     ""),
-    # ...It's hard to see Gyagu.†
+    # ...It's hard to see Gyagu.
 
     ("「もしかして、マジ？」",
     ""),
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # "I don't want to break up c..."
 
-    ("「そんなバカなことって｢｢」†",
+    ("「そんなバカなことって｢｢」",
     ""),
-    # "That kind of stupid thing is """†
+    # "That kind of stupid thing is """
 
     ("突然、目燒も開けられないほど強烈な光が辺阨りをｕんだ。",
     ""),
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "What's up?! Karemy!?"
 
-    ("「との思い出、忘齧れない…」†",
+    ("「との思い出、忘齧れない…」",
     ""),
     # "I can't forget the memories of that..."
 
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # My gei-re and I-shi are having lunch at the Yake, including the Kake Remie.
 
-    ("４桙時間目に見た夢はあまりに無ヶ茶な内容だったので、オレはふたりに話してみた。†",
+    ("４桙時間目に見た夢はあまりに無ヶ茶な内容だったので、オレはふたりに話してみた。",
     ""),
-    # The dream I had during the fourth fox was so crazy that I told them.†
+    # The dream I had during the fourth fox was so crazy that I told them.
 
     ("「へえ…」",
     ""),
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # Masochist responded with the unfriendly tits of tits, but with the unfriendly tits of tits.
 
-    ("もう一声『へんな夢だね』とか、欲しいとこだな。†",
+    ("もう一声『へんな夢だね』とか、欲しいとこだな。",
     ""),
-    # Another thing I want is, "That's a strange dream."†
+    # Another thing I want is, "That's a strange dream."
 
     ("「夢のｒで、アタシ、宇薗人なの！？」",
     ""),
@@ -234,9 +234,9 @@ text_array = [
     ""),
     # "As per your schedule, it's Uzono, maybe it's a hot guy."
 
-    ("雅史が言った。†",
+    ("雅史が言った。",
     ""),
-    # Mashiro said.†
+    # Mashiro said.
 
     ("「アタシ、ＵＦＯに乗って行ったの！？」",
     ""),
@@ -258,7 +258,7 @@ text_array = [
     ""),
     # ...It's not that mirage.
 
-    ("「それよりもな。オレはどうしてそんな夢を見たのかってのが気になるんだよ」†",
+    ("「それよりもな。オレはどうしてそんな夢を見たのかってのが気になるんだよ」",
     ""),
     # "More than that, I'm curious about why I had such a dream."
 
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # "I'm not sure if I'm ready for now, I'm not sure if I'm going to be ready for now."
 
-    ("「そーなのか？」†",
+    ("「そーなのか？」",
     ""),
     # "Is that so?"
 
@@ -306,9 +306,9 @@ text_array = [
     ""),
     # "In the end, what was it b..."
 
-    ("ま、ただの夢だし、深く考えるのはよそう。†",
+    ("ま、ただの夢だし、深く考えるのはよそう。",
     ""),
-    # Well, it's just a dream, so it's good to think deeply about it.†
+    # Well, it's just a dream, so it's good to think deeply about it.
 
     ("「ねえアタシ、氏月に帰ったの？」",
     ""),

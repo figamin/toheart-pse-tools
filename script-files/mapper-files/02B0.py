@@ -2,9 +2,9 @@
 # Source file: 02B0.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（選択綜Ｂ	またなー）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（選択綜Ｂ	またなー）",
     ""),
-    # (Seri°Kawa, Scales Event 1F LV2)Seri (Select Sou B, Well)†
+    # (Seri°Kawa, Scales Event 1F LV2)Seri (Select Sou B, Well)
 
     ("「またなー、諱先輩」",
     ""),

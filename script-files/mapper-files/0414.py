@@ -2,9 +2,9 @@
 # Source file: 0414.txt
 
 text_array = [
-    ("（志保	ノベルシーン）閨（選択綜	追いかけない）†",
+    ("（志保	ノベルシーン）閨（選択綜	追いかけない）",
     ""),
-    # (Shiho's novel crying scene) (Choose-so-so, don't chase)†
+    # (Shiho's novel crying scene) (Choose-so-so, don't chase)
 
     ("「…蛛大苟丈夫だって。明坙日になったらけっとしてるだ」",
     ""),

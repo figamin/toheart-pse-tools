@@ -2,9 +2,9 @@
 # Source file: 0475.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	＝メ鴻ロンココア）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	＝メ鴻ロンココア）",
     ""),
-    # (Shiho Scales Event PS) (Selection = Mekoron Cocoa)†
+    # (Shiho Scales Event PS) (Selection = Mekoron Cocoa)
 
     ("「＝メ鴻ロンココア…かな？」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # It would be delicious if you eat them separately, but there's nothing mixed in the hot pot, and there's no hot pot either...
 
-    ("「あたし、＝メ鴻ロンもココアも好き〜っ」†",
+    ("「あたし、＝メ鴻ロンもココアも好き〜っ」",
     ""),
-    # "I love Mehong Long Zhen and Cocoa Zhen" †
+    # "I love Mehong Long Zhen and Cocoa Zhen" 
 
     ("「どっちもみんな好きだうけどな」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "And why are you so negative?
 
-    ("ほら、メ買うわよ！？」†",
+    ("ほら、メ買うわよ！？」",
     ""),
-    # Come on, I'll buy some food!?”†
+    # Come on, I'll buy some food!?”
 
     ("・",
     ""),
@@ -42,13 +42,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("数分纒後｢｢。†",
+    ("数分纒後｢｢。",
     ""),
-    # After a few minutes, ".†
+    # After a few minutes, ".
 
     ("「おい」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Is it delicious?"
 
-    ("「あんたはどうなのよ？」†",
+    ("「あんたはどうなのよ？」",
     ""),
     # "What about you?"
 
@@ -74,21 +74,21 @@ text_array = [
     ""),
     # "Are you going to tell me, do you say it to me?"
 
-    ("オレはうなずいた。†",
+    ("オレはうなずいた。",
     ""),
-    # I nodded.†
+    # I nodded.
 
-    ("「せ〜のっ」†",
+    ("「せ〜のっ」",
     ""),
-    # "See no" †
+    # "See no" 
 
     ("「「まず〜〜〜〜〜い」」",
     ""),
     # ""bad""
 
-    ("ついでに、ふたりそってため息。†",
+    ("ついでに、ふたりそってため息。",
     ""),
-    # In addition, the two of them sighed.†
+    # In addition, the two of them sighed.
 
     ("「これは何かの間違いよ。あたしたちの味覚がおかしいのよ」",
     ""),
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "It's not that bad. Our raves taste right, and it's a reputation for being different."
 
-    ("「そうかも…」†",
+    ("「そうかも…」",
     ""),
     # "I see, the hot spring..."
 

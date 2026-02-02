@@ -2,7 +2,7 @@
 # Source file: 00C7.txt
 
 text_array = [
-    ("（３月１６冾日	朝）閨（自分の部屋）†",
+    ("（３月１６冾日	朝）閨（自分の部屋）",
     ""),
     # (Morning of the 16th day of the 3rd month) (morning of my room)
 

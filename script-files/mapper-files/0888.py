@@ -2,17 +2,17 @@
 # Source file: 0888.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	２階１）閨（選択綜Ｂ→凵嫌い）†",
+    ("（レミィ	回秤数イベント	２階１）閨（選択綜Ｂ→凵嫌い）",
     ""),
-    # (Fight Remy Scale Event, 2nd Floor 1) (Select B → Dislike)†
+    # (Fight Remy Scale Event, 2nd Floor 1) (Select B → Dislike)
 
     ("「どちらかといえば、凵嫌いかな」",
     ""),
     # "If anything, I don't like it."
 
-    ("п割㈱合的には、生意気なガキが多いからな。†",
+    ("п割㈱合的には、生意気なガキが多いからな。",
     ""),
-    # For пwari Co., Ltd., there are a lot of cheeky kiddos.†
+    # For пwari Co., Ltd., there are a lot of cheeky kiddos.
 
     ("「子沁供、凵嫌いなの？」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # He looked extremely sad, so I couldn't help but get a Forong Lo in.
 
-    ("子沁供が凾嫌いだと、どーしてそこまで悲しまれなくち痰ゃいけないんだ？†",
+    ("子沁供が凾嫌いだと、どーしてそこまで悲しまれなくち痰ゃいけないんだ？",
     ""),
-    # If you don't like Kotono, why do you have to be so sad?†
+    # If you don't like Kotono, why do you have to be so sad?
 
     ("「アタシ、信じないから！」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # He left, leaving.
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("なにを知ってるって？",
     ""),

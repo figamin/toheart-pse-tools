@@ -2,17 +2,17 @@
 # Source file: 0320.txt
 
 text_array = [
-    ("（智子	エンディング）閨（５月２冾日	驕夜）閨（好感度イベント１２をみた）閨（驕夜９桙時頃）†",
+    ("（智子	エンディング）閨（５月２冾日	驕夜）閨（好感度イベント１２をみた）閨（驕夜９桙時頃）",
     ""),
-    # (Tomoko's ending) (5th illusion 2nd day, ram night) (I saw the 12th favorability event) (Around 9th ram night) †
+    # (Tomoko's ending) (5th illusion 2nd day, ram night) (I saw the 12th favorability event) (Around 9th ram night) 
 
     ("その夜、いったん家でのんびりしてから、夕飯を食いに外へ出た。",
     ""),
     # That night, I relaxed at home, then went outside to have dinner.
 
-    ("適俣当な店で食った後、ぶらりと立ち寄ったゲーセンで桙時間をつぶしてると、出髀るこには雨が降っていた。†",
+    ("適俣当な店で食った後、ぶらりと立ち寄ったゲーセンで桙時間をつぶしてると、出髀るこには雨が降っていた。",
     ""),
-    # After eating at a restaurant located at Tomimata, I was strolling around at the arcade where I stopped by and it was raining on my way to the arcade.†
+    # After eating at a restaurant located at Tomimata, I was strolling around at the arcade where I stopped by and it was raining on my way to the arcade.
 
     ("…うっげー、マジかよ。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # With his hands over the corners of his eyes, he leaps through the rainy park as he runs through the $100 stomps.
 
-    ("すでにもう半濡齡れ状態だった。†",
+    ("すでにもう半濡齡れ状態だった。",
     ""),
-    # He was already half wet.†
+    # He was already half wet.
 
     ("…くっそー。",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # Otherwise, you'll get a cold the next day.
 
-    ("そんなことを考えつつ、公園を突っ切垂うとしたとき…。†",
+    ("そんなことを考えつつ、公園を突っ切垂うとしたとき…。",
     ""),
-    # While thinking about this, I was about to plunge through the park...†
+    # While thinking about this, I was about to plunge through the park...
 
     ("「くん」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # I looked towards the darkness where my voice was heard, and there was a man standing in the cold rain without smoking umbrellas.
 
-    ("見慣れた制梵服をｒた、その姿は…。†",
+    ("見慣れた制梵服をｒた、その姿は…。",
     ""),
-    # He looks like he is wearing a familiar Sanskrit uniform...†
+    # He looks like he is wearing a familiar Sanskrit uniform...
 
     ("「………」",
     "…"),
@@ -94,23 +94,23 @@ text_array = [
     ""),
     # If I didn't get it, I was wondering what to do."
 
-    ("「…な、なにやってんだよ、こんなとこで」†",
+    ("「…な、なにやってんだよ、こんなとこで」",
     ""),
-    # "...What are you doing, here you go" †
+    # "...What are you doing, here you go" 
 
     ("「くんにおう思うてな。前におうたこの場鰹所で待っとれば、そのうちきっと通髓るんやないか思うて」",
     ""),
     # "I'm thinking about yelling at you. If I waited at the bonito spot before, I'd be sure to eventually end up tampering."
 
-    ("「そり痰ゃここはよく通髓るけどさ。だからって、傘燻もささずにこんな…」†",
+    ("「そり痰ゃここはよく通髓るけどさ。だからって、傘燻もささずにこんな…」",
     ""),
-    # "I often get used to this place with slurping phlegm. That's why I don't smoke umbrellas anymore..." †
+    # "I often get used to this place with slurping phlegm. That's why I don't smoke umbrellas anymore..." 
 
     ("「最燕初は降ってへんかってんけど、待ってるうちに降闕り出したから…」",
     ""),
     # "It's not raining at Saien Hatsu, but while I was waiting it started to fall..."
 
-    ("「降闕りはじめたのは、ずいぶん前の話だぜ」†",
+    ("「降闕りはじめたのは、ずいぶん前の話だぜ」",
     ""),
     # "It was a long time ago that it started to fall."
 
@@ -130,9 +130,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("委員長はなにやら辛そうな顔をした。†",
+    ("委員長はなにやら辛そうな顔をした。",
     ""),
-    # The chairman looked sad about something he was trying to tamper with.†
+    # The chairman looked sad about something he was trying to tamper with.
 
     ("「委員長…？」",
     ""),
@@ -142,27 +142,27 @@ text_array = [
     ""),
     # "Kn..."
 
-    ("委員長がオレの名を呼んだ。†",
+    ("委員長がオレの名を呼んだ。",
     ""),
-    # The chairman called me my name.†
+    # The chairman called me my name.
 
     ("「くん、п私、п私…」",
     ""),
     # "Kun, me, me..."
 
-    ("＝メガネ越しの委員長の両目から、雨粒譌よりも大きな涙がこぼれ落ちた。†",
+    ("＝メガネ越しの委員長の両目から、雨粒譌よりも大きな涙がこぼれ落ちた。",
     ""),
-    # = Big tears fell from the chairman's eyes through his glasses, and the lion fell from the raindrops and the raindrops.†
+    # = Big tears fell from the chairman's eyes through his glasses, and the lion fell from the raindrops and the raindrops.
 
     ("「くん、くん、わたしぃ…」",
     ""),
     # "Snn, snn, snnnnn..."
 
-    ("「委員…長…？」†",
+    ("「委員…長…？」",
     ""),
     # "Committee... Chief...?"
 
-    ("「…うっ、ううっ、うあああぁぁぁ〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」†",
+    ("「…うっ、ううっ、うあああぁぁぁ〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」",
     ""),
     # "...Uh, uh, uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
@@ -174,13 +174,13 @@ text_array = [
     ""),
     # Saien Hatsu was a bit confused, but soon he placed his hand on the chairman's shoulder, held his head and frowned, and flew over it.
 
-    ("委員長はオレの胸に顔を押し魔当てて、そのままモきくずれた。†",
+    ("委員長はオレの胸に顔を押し魔当てて、そのままモきくずれた。",
     ""),
-    # The chairman pressed his face against my heart and pointed it to me, and then he cried out.†
+    # The chairman pressed his face against my heart and pointed it to me, and then he cried out.
 
-    ("ざぁぁぁぁぁーーーーーーーーーーーーーーーー閨ーーーーーーーーーーーーーーーーーーー………。†",
+    ("ざぁぁぁぁぁーーーーーーーーーーーーーーーー閨ーーーーーーーーーーーーーーーーーーー………。",
     ""),
-    # Zaaaahhh...†
+    # Zaaaahhh...
 
     ("降闕りしきる雨のなか。",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # He returned home after receiving a series of committee chairs.
 
-    ("とてもあのまま冾放ってはおけなかったし、あのままでは翌風邪をひいてしまうだう。†",
+    ("とてもあのまま冾放ってはおけなかったし、あのままでは翌風邪をひいてしまうだう。",
     ""),
-    # However, he couldn't leave it alone, and if he continued like that, he would catch a cold the next day.†
+    # However, he couldn't leave it alone, and if he continued like that, he would catch a cold the next day.
 
     ("「………」",
     "…"),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # "And even I'm getting wet with the slutty slut..."
 
-    ("「だから言ってんだ？	…ほら、シャャ純ワー貸してやるから、とにかく体温めてこいよ」†",
+    ("「だから言ってんだ？	…ほら、シャャ純ワー貸してやるから、とにかく体温めてこいよ」",
     ""),
-    # "That's why I told you b? ...Look, I'll lend you some pure waa and tamper with it, so just warm up." †
+    # "That's why I told you b? ...Look, I'll lend you some pure waa and tamper with it, so just warm up." 
 
     ("「くん、家の人は…？」",
     ""),
@@ -234,17 +234,17 @@ text_array = [
     ""),
     # "More than that, the hot springs were up earlier, and the hot springs rose."
 
-    ("「うん…」†",
+    ("「うん…」",
     ""),
-    # "Yeah…"†
+    # "Yeah…"
 
     ("とりあえずは、熱いシャャ純ワーで冷えた体を温めさせた。",
     ""),
     # For now, I warmed my cold body with the hot Shaya pure wah.
 
-    ("濡齡れた制梵服は乾㈱燥機に冾放阨り桙込み、かわりにオレのシャャツを貸してやった。†",
+    ("濡齡れた制梵服は乾㈱燥機に冾放阨り桙込み、かわりにオレのシャャツを貸してやった。",
     ""),
-    # The wetted Sanskrit uniform was poured into a Drying Machine in the Drying Company, and instead of using my super-sharp Shaat, he fed it.†
+    # The wetted Sanskrit uniform was poured into a Drying Machine in the Drying Company, and instead of using my super-sharp Shaat, he fed it.
 
     ("委員長をオレの部屋で待たせ、このオレもシャャ純ワーを≠びた。",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("マグカップにいれた熱いコーヒーを両手に、部屋へと戻ってくると、いつものあの気の強さはどこへやら、委員長は借りてきたネコのようにおとなしく待っていた。†",
+    ("マグカップにいれた熱いコーヒーを両手に、部屋へと戻ってくると、いつものあの気の強さはどこへやら、委員長は借りてきたネコのようにおとなしく待っていた。",
     ""),
-    # When I returned to my room with hot coffee in my mug, I wondered when the strength of the hot thing had been tampering with, and the chairman waited quietly like a cat that had borrowed.†
+    # When I returned to my room with hot coffee in my mug, I wondered when the strength of the hot thing had been tampering with, and the chairman waited quietly like a cat that had borrowed.
 
     ("「諱よっ、いい子にして待ってたか？」",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("なにやら複雑な表﨣情を浮かべた。†",
+    ("なにやら複雑な表﨣情を浮かべた。",
     ""),
-    # I was able to imagine something complicated and tampering with.†
+    # I was able to imagine something complicated and tampering with.
 
     ("「ほら、飲みな」",
     ""),
@@ -290,9 +290,9 @@ text_array = [
     ""),
     # He said that and handed me a cup of coffee.
 
-    ("委員長は両手でそれを受け取った。†",
+    ("委員長は両手でそれを受け取った。",
     ""),
-    # The chairman received it with his own hands.†
+    # The chairman received it with his own hands.
 
     ("ふぅふぅ…と口で冷ましながら、委員長はマグカップに口をつけた。",
     ""),
@@ -306,9 +306,9 @@ text_array = [
     ""),
     # "Ni, niga..."
 
-    ("と、轣顔をしかめる。†",
+    ("と、轣顔をしかめる。",
     ""),
-    # He frowned.†
+    # He frowned.
 
     ("「なんやのこれ、ブラック窿やないの」",
     ""),
@@ -322,7 +322,7 @@ text_array = [
     ""),
     # "I can't drink it, that's it. No sputum without the sugar and no syrup..."
 
-    ("それを聞いたオレが、くすっと鼻で笑うと、†",
+    ("それを聞いたオレが、くすっと鼻で笑うと、",
     ""),
     # When I heard this, I sniffed with a sniff,
 
@@ -330,13 +330,13 @@ text_array = [
     ""),
     # "What, what?"
 
-    ("委員長は少し顔を赤逅らめ、すねた顔でオレを見た。†",
+    ("委員長は少し顔を赤逅らめ、すねた顔でオレを見た。",
     ""),
-    # The chairman shook a little red and then looked at me with a slutty look on his face.†
+    # The chairman shook a little red and then looked at me with a slutty look on his face.
 
-    ("結局、砂恪糖とミルクを取りに戻った。†",
+    ("結局、砂恪糖とミルクを取りに戻った。",
     ""),
-    # In the end, I returned to the trouble of the sugar and Mikkuruk.†
+    # In the end, I returned to the trouble of the sugar and Mikkuruk.
 
     ("「な、なによ、にやにやして…」",
     ""),
@@ -354,9 +354,9 @@ text_array = [
     ""),
     # "No one said that he was bad. That's right."
 
-    ("オレがそう言うと、委員長はぷいっと口をとがらせた。†",
+    ("オレがそう言うと、委員長はぷいっと口をとがらせた。",
     ""),
-    # When I said that, the chairman pouted.†
+    # When I said that, the chairman pouted.
 
     ("「くんて、性格悪いわ」",
     ""),
@@ -370,7 +370,7 @@ text_array = [
     ""),
     # "Aren't you tampering with mean things all the time?"
 
-    ("「意地悪？	そうかなあ？」†",
+    ("「意地悪？	そうかなあ？」",
     ""),
     # "Meanwhile? Is that so?"
 
@@ -382,17 +382,17 @@ text_array = [
     ""),
     # The chairman said and smiled.
 
-    ("どうやら人心地鋳いて、諱ようやくいつもの調子を取り戻したらしい。†",
+    ("どうやら人心地鋳いて、諱ようやくいつもの調子を取り戻したらしい。",
     ""),
-    # Apparently he's been tampering with the feeling of humanity, and he's been regaining his spirits by tampering with the idea of ​​regaining his spirits.†
+    # Apparently he's been tampering with the feeling of humanity, and he's been regaining his spirits by tampering with the idea of ​​regaining his spirits.
 
     ("そのままふたりでコーヒーをすすった。",
     ""),
     # The two of us sipped coffee together.
 
-    ("カップのｒのものを飲み干すこ、オレはなにげなく委員長に言った。†",
+    ("カップのｒのものを飲み干すこ、オレはなにげなく委員長に言った。",
     ""),
-    # I drank all the hot food from the cup, and I casually told the chairman.†
+    # I drank all the hot food from the cup, and I casually told the chairman.
 
     ("「でも、驚いたぜ。まさかあんなとこで、委員長が待ってるとはな」",
     ""),
@@ -414,9 +414,9 @@ text_array = [
     ""),
     # "Ah, a phone call, etc."
 
-    ("「…番剥、知迺らへんもん」†",
+    ("「…番剥、知迺らへんもん」",
     ""),
-    # "...Not at all, no knowledge" †
+    # "...Not at all, no knowledge" 
 
     ("「だからって…」",
     ""),
@@ -426,9 +426,9 @@ text_array = [
     ""),
     # I almost said this, but I stopped.
 
-    ("委員長がなにやら深署刻な表﨣情でうつむいていたからだ。†",
+    ("委員長がなにやら深署刻な表﨣情でうつむいていたからだ。",
     ""),
-    # This is because the chairman was pointing at him because of something he was tampering with, and because of a serious police-like attitude.†
+    # This is because the chairman was pointing at him because of something he was tampering with, and because of a serious police-like attitude.
 
     ("「…ったく、しょうがねーなー」",
     ""),
@@ -442,9 +442,9 @@ text_array = [
     ""),
     # "And what on earth happened?"
 
-    ("と聞いた。†",
+    ("と聞いた。",
     ""),
-    # I heard that.†
+    # I heard that.
 
     ("「なんか理由があんだ？	だからわざわざオレにいにｗたんじ痰ゃねーのか？」",
     ""),
@@ -454,9 +454,9 @@ text_array = [
     ""),
     # "…Yeah"
 
-    ("委員長は床に視諮を落としたまま、こくんとうなずいた。†",
+    ("委員長は床に視諮を落としたまま、こくんとうなずいた。",
     ""),
-    # The chairman nodded, leaning over the floor.†
+    # The chairman nodded, leaning over the floor.
 
     ("「なんだよ、言ってみな。オレでよかったら鰍相談に乗髀るぜ？」",
     ""),
@@ -474,9 +474,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("だが、うつむいたまま、なにも嘯答えない。†",
+    ("だが、うつむいたまま、なにも嘯答えない。",
     ""),
-    # However, while still facing down, no matter what, he answered.†
+    # However, while still facing down, no matter what, he answered.
 
     ("「さっきの委員長、なんだかオレの知ってる委員長じ痰ゃないみたいだった」",
     ""),
@@ -490,9 +490,9 @@ text_array = [
     ""),
     # "I didn't think that the chairman was such a crying guy."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「なにかよっぽどショックなことでもあったんじ痰ゃねーのか？」",
     ""),
@@ -506,13 +506,13 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("最燕初はなかなか語撃うとしなかった委員長だが、そのまま根気諡よく待ち続けていると、やがて、少しずつ、真叶相を口にし始めた。†",
+    ("最燕初はなかなか語撃うとしなかった委員長だが、そのまま根気諡よく待ち続けていると、やがて、少しずつ、真叶相を口にし始めた。",
     ""),
-    # Saien Hatsu had a hard time trying to speak, but as he continued to wait patiently, he gradually began to make Makana Ao's words into a lucky voice.†
+    # Saien Hatsu had a hard time trying to speak, but as he continued to wait patiently, he gradually began to make Makana Ao's words into a lucky voice.
 
     ("「…前に、п私が神戸に帰闍りたがってる理由を話したことあったと思うんやけど」",
     ""),
@@ -526,9 +526,9 @@ text_array = [
     ""),
     # "…Yeah"
 
-    ("委員長はうなずいた。†",
+    ("委員長はうなずいた。",
     ""),
-    # The chairman nodded.†
+    # The chairman nodded.
 
     ("「それがどうかしたのか？」",
     ""),
@@ -542,9 +542,9 @@ text_array = [
     ""),
     # "What if that's it?"
 
-    ("オレが鰍相づちを打つと、委員長は床の一点を見つめながら話を続けた。†",
+    ("オレが鰍相づちを打つと、委員長は床の一点を見つめながら話を続けた。",
     ""),
-    # As I hit the choy-sama zuchi, the chairman continued his conversation, staring at the spot on the floor.†
+    # As I hit the choy-sama zuchi, the chairman continued his conversation, staring at the spot on the floor.
 
     ("「…そしたら、その電話の友だちがこっそりр私に教えてくれた」",
     ""),
@@ -562,9 +562,9 @@ text_array = [
     ""),
     # "Does he mean that guy you like?"
 
-    ("委員長はこくんとうなずいた。†",
+    ("委員長はこくんとうなずいた。",
     ""),
-    # The chairman nodded.†
+    # The chairman nodded.
 
     ("「…あいつ、なんでもいま、п私の親友の子とつき№合ってるらしい」",
     ""),
@@ -582,9 +582,9 @@ text_array = [
     ""),
     # "That means the chairman is over here lol."
 
-    ("委員長は小さくうなずいた。†",
+    ("委員長は小さくうなずいた。",
     ""),
-    # The chairman nodded a small head.†
+    # The chairman nodded a small head.
 
     ("「…もともと、学のこから№仲の良かったふたりや、つき№合うようになっても不思議はないと思う。",
     ""),
@@ -594,17 +594,17 @@ text_array = [
     ""),
     # But isn't that a tampering that I've never been to hide from you?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ふたりはｒ学のこから、おたがいに好きやったらしい。けど、いつも間にр私がおったから、ふたりとも遠慮して言い出せんかったらしいんや…」",
     ""),
     # "The two of them all tampered with each other from the group's r-gaku b. But since I was in the middle of the day, it seems that the two and the people together couldn't even bothered to say this..."
 
-    ("「そうなのか…」†",
+    ("「そうなのか…」",
     ""),
-    # "Is that so..." †
+    # "Is that so..." 
 
     ("「…蛛大羡方、п私に気ぃつかって黙ってたんやと思うけど、そんなん大きなお世話笘や。そんなことで壊皷れる友﨤情竢やないや。ふたりとも、隠しごとなんかせん、ホンマの親友笳やと思うてたのに…」",
     ""),
@@ -614,15 +614,15 @@ text_array = [
     ""),
     # The chairman's voice gradually began to cry.
 
-    ("目には涙がにじんでいた。†",
+    ("目には涙がにじんでいた。",
     ""),
-    # Tears were oozing out in my eyes.†
+    # Tears were oozing out in my eyes.
 
     ("「やったらｒ学のこから、п私に遠慮せんとつきおうたらええやん。そんなことされたら、逆にじ痰ゃま者みたいやんか」",
     ""),
     # "If I do that, I'll be fine if I try to ask you to refrain from thinking about it from R-Gakusa, so it's fine. If that's what you do, will it be a shame to me?"
 
-    ("「委員長…」†",
+    ("「委員長…」",
     ""),
     # "Chairman..."
 
@@ -630,9 +630,9 @@ text_array = [
     ""),
     # "...I've been thinking about things I've gone back and forth, and I've been working hard to study so that I could pass the university of 'Ebi'."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「なんやр私、ひとりでアホみたいやないか。これでｌこう帰って、それからどうせえ言うんや」",
     ""),
@@ -642,9 +642,9 @@ text_array = [
     ""),
     # The chairman laughed with a self-deprecating sneer.
 
-    ("その≠メガネ越しの目燒もとから、蛛大きな涙の粒が、ぽっ…とこぼれ落ちた。†",
+    ("その≠メガネ越しの目燒もとから、蛛大きな涙の粒が、ぽっ…とこぼれ落ちた。",
     ""),
-    # From the outside through his glasses, a large lion fell, shining over it.†
+    # From the outside through his glasses, a large lion fell, shining over it.
 
     ("「なんや、今厓日まで自分のしてきたことが、たったの電話齪一本で、すべての意味失くしてしもうたかと思うと、アホ辜らしゅうて、逆にモけてくるわ」",
     ""),
@@ -654,17 +654,17 @@ text_array = [
     ""),
     # The chairman held up his glasses and wiped away tears with the backs of his hands.
 
-    ("ぬぐっても、また次の涙があふれてくる。†",
+    ("ぬぐっても、また次の涙があふれてくる。",
     ""),
-    # The next tears began to flow to the snuggle.†
+    # The next tears began to flow to the snuggle.
 
     ("「…メきたいときは、ガマンしても無駄さ。思いっきりモいちまえよ」",
     ""),
     # "...If you want to cry, hold back and have a waste of heat. Cry as much as you can."
 
-    ("オレは言った。†",
+    ("オレは言った。",
     ""),
-    # I said.†
+    # I said.
 
     ("「つらいときにはモける。人間ってのはそうできてんのさ。",
     ""),
@@ -690,11 +690,11 @@ text_array = [
     ""),
     # I was hoping it would be a hit.
 
-    ("なのに…。†",
+    ("なのに…。",
     ""),
-    # But...†
+    # But...
 
-    ("「…うっ、うわっ、うわあああああああああああああああああぁぁぁぁぁぁぁぁぁぁぁ〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」†",
+    ("「…うっ、うわっ、うわあああああああああああああああああぁぁぁぁぁぁぁぁぁぁぁ〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜」",
     ""),
     # "...Uh, wow, wow wow wow aaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
@@ -702,15 +702,15 @@ text_array = [
     ""),
     # "Yeah, Chairman..."
 
-    ("委員長は言葉どおり、オレの胸に顔を押し魔当てると、そのまま、思いっきりモき出してしまった。†",
+    ("委員長は言葉どおり、オレの胸に顔を押し魔当てると、そのまま、思いっきりモき出してしまった。",
     ""),
-    # As I said, the chairman pressed his face against my heart and pointed it to my demon, and he just let out a lot of tears.†
+    # As I said, the chairman pressed his face against my heart and pointed it to my demon, and he just let out a lot of tears.
 
     ("「うわああああああああああああぁぁぁぁぁぁぁぁぁぁぁぁぁぁぁ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜。",
     ""),
     # "Wow, oh my goodness...
 
-    ("くぅぅ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ん」†",
+    ("くぅぅ〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ん」",
     ""),
     # Khhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
@@ -718,9 +718,9 @@ text_array = [
     ""),
     # "...Chairman."
 
-    ("最燕初はとまどっていたオレも、やがてその肩を抱き、ぽんぽんと、背白を叩いてやった。†",
+    ("最燕初はとまどっていたオレも、やがてその肩を抱き、ぽんぽんと、背白を叩いてやった。",
     ""),
-    # I was confused by Saien Hatsu, but soon he held his shoulder and slammed it on his back and slammed it off.†
+    # I was confused by Saien Hatsu, but soon he held his shoulder and slammed it on his back and slammed it off.
 
     ("外は降闕りしきる雨の音。",
     ""),
@@ -742,17 +742,17 @@ text_array = [
     ""),
     # A while later, the sank's uniform inside the Drying Machine, which was stolen, dried.
 
-    ("委員長は制梵服にｒ替えると、そそ帰驪ると言った。†",
+    ("委員長は制梵服にｒ替えると、そそ帰驪ると言った。",
     ""),
-    # The chairman said that if he changed his uniform to a Sanskrit uniform, he would return to his house.†
+    # The chairman said that if he changed his uniform to a Sanskrit uniform, he would return to his house.
 
     ("「…くんの言った通闥りやな。思いっきりモいたら、なんや妙にスッキリしたわ」",
     ""),
     # "...You're a tampering message that you said. If you cry as hard as you can, what's the tampering and it's strangely clear."
 
-    ("委員長はにっこり笑って言った。†",
+    ("委員長はにっこり笑って言った。",
     ""),
-    # The chairman said with a smile.†
+    # The chairman said with a smile.
 
     ("「でも、光栄だねえ」",
     ""),
@@ -766,9 +766,9 @@ text_array = [
     ""),
     # "When it's tough, the first thing that comes to mind is my face."
 
-    ("オレは、ふっ…と笑った。†",
+    ("オレは、ふっ…と笑った。",
     ""),
-    # I laughed, huh...†
+    # I laughed, huh...
 
     ("「…た、たまたま身近に愚痴を聞かせる人間がおらんかっただけや」",
     ""),
@@ -778,9 +778,9 @@ text_array = [
     ""),
     # The chairman says embarrassedly.
 
-    ("オレは思寬わず微笑んでしまう。†",
+    ("オレは思寬わず微笑んでしまう。",
     ""),
-    # I couldn't help but smile.†
+    # I couldn't help but smile.
 
     ("「…な、なんやの、その笑いは」",
     ""),
@@ -790,7 +790,7 @@ text_array = [
     ""),
     # "Damn it, ugh??"
 
-    ("「ほんま、なんやねん…」†",
+    ("「ほんま、なんやねん…」",
     ""),
     # "I'm really, what's that being done..."
 
@@ -810,9 +810,9 @@ text_array = [
     ""),
     # "Ah, that's not true. Can you lend me your umbrella?"
 
-    ("「…あ、ああ、そり痰ゃ、貸すけどさ」†",
+    ("「…あ、ああ、そり痰ゃ、貸すけどさ」",
     ""),
-    # "...Ah, oh, I'll lend you a sputum."†
+    # "...Ah, oh, I'll lend you a sputum."
 
     ("委員長はオレから傘を受け取骼ると、",
     ""),
@@ -826,9 +826,9 @@ text_array = [
     ""),
     # He said and smiled.
 
-    ("「あ、ああ…」†",
+    ("「あ、ああ…」",
     ""),
-    # "Ah, ah..."†
+    # "Ah, ah..."
 
     ("玄関の戸に手をかける委員長。",
     ""),

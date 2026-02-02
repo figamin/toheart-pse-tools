@@ -2,17 +2,17 @@
 # Source file: 02CB.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ６）閨（選択綜Ａ	今厓日は冾日が悪いみたいだな）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ６）閨（選択綜Ａ	今厓日は冾日が悪いみたいだな）",
     ""),
-    # (Sei°Chuang Scale Event 2F LV6)Sei (Select A seems to be bad on the day of the day)†
+    # (Sei°Chuang Scale Event 2F LV6)Sei (Select A seems to be bad on the day of the day)
 
     ("「今厓日は冾日が悪いみたいだな」",
     ""),
     # "It seems like the day is bad now."
 
-    ("オレは微笑んでそう言った。†",
+    ("オレは微笑んでそう言った。",
     ""),
-    # I smiled and said that.†
+    # I smiled and said that.
 
     ("「………」",
     "…"),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "sorry…"
 
-    ("「えっ？	なに謝ってんだよ。そういう冾日燗もあるさ。だって、こんないい天気なんだぜ。雨を降迯らすなんて、あまりにもだ？」†",
+    ("「えっ？	なに謝ってんだよ。そういう冾日燗もあるさ。だって、こんないい天気なんだぜ。雨を降迯らすなんて、あまりにもだ？」",
     ""),
-    # "Huh? What are you apologizing? There's such a nice weather. Is it too hot to let rain fall?" †
+    # "Huh? What are you apologizing? There's such a nice weather. Is it too hot to let rain fall?" 
 
     ("「………」",
     "…"),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Huh? You wanted to show me that there's B-magic magic at the end of the day?"
 
-    ("こく…。†",
+    ("こく…。",
     ""),
-    # So...†
+    # So...
 
     ("「………」",
     "…"),
@@ -62,17 +62,17 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩…。†",
+    ("諱先輩…。",
     ""),
-    # Senior name...†
+    # Senior name...
 
     ("「うん、わかった。じ痰ゃあ、今度また見せてくれよ」",
     ""),
     # "Yeah, I understand. I'll show you some more phlegm next time."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「今厓日はたまたまだ、たまたま」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # Ko-kun...
 
-    ("諱先輩はゆっくりうなずいた。†",
+    ("諱先輩はゆっくりうなずいた。",
     ""),
-    # Senpai nodded slowly.†
+    # Senpai nodded slowly.
 
     ("「今度は絶対成功させようぜ！」",
     ""),

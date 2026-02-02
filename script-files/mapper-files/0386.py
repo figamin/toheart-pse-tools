@@ -2,9 +2,9 @@
 # Source file: 0386.txt
 
 text_array = [
-    ("（智子	回秤数イベント３	学校を出髀る	ＬＶ１）閨（ＡＢ選択繿後からの続き）閨（好感度を見て、最燕初のページが変﨑わる）†",
+    ("（智子	回秤数イベント３	学校を出髀る	ＬＶ１）閨（ＡＢ選択繿後からの続き）閨（好感度を見て、最燕初のページが変﨑わる）",
     ""),
-    # (Tomoko's Scale Number Event 3: Leave school LV1) (Continued after AB selection) (Continued after checking) (Looking at the level of likeability, the first page of the first one transforms) †
+    # (Tomoko's Scale Number Event 3: Leave school LV1) (Continued after AB selection) (Continued after checking) (Looking at the level of likeability, the first page of the first one transforms) 
 
     ("＝メガネ越しのツリ目、お下げ髪。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # That's certainly true...
 
-    ("…って、そんな悠長なこと考えてる場㍼合か。†",
+    ("…って、そんな悠長なこと考えてる場㍼合か。",
     ""),
-    # ...Is that a place where you can think about such leisurely things?†
+    # ...Is that a place where you can think about such leisurely things?
 
     ("見かけない子だな。",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # She seems like she's quite serious...
 
-    ("…って、そんな悠長なこと考えてる場㍼合か。†",
+    ("…って、そんな悠長なこと考えてる場㍼合か。",
     ""),
-    # ...Is that a place where you can think about such leisurely things?†
+    # ...Is that a place where you can think about such leisurely things?
 
     ("まずは謝邇らねーとな。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Uh..."
 
-    ("突き刺さる視諮とは、まさにこのことだ。†",
+    ("突き刺さる視諮とは、まさにこのことだ。",
     ""),
-    # This is exactly what the thrusts into the counsellor consulting is.†
+    # This is exactly what the thrusts into the counsellor consulting is.
 
     ("「わざとじ痰ゃねーんだ。悪かった」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "Please keep me waiting."
 
-    ("諱ようやく史が現鼬れた。†",
+    ("諱ようやく史が現鼬れた。",
     ""),
-    # I've been making a history of my own name.†
+    # I've been making a history of my own name.
 
     ("「お、遅ぇーんだよ」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "What??"
 
-    ("わけもわからず苦笑する史。†",
+    ("わけもわからず苦笑する史。",
     ""),
-    # I-Shin smiles wryly, not knowing the reason why.†
+    # I-Shin smiles wryly, not knowing the reason why.
 
     ("ふと気がつくと、いままでそこにいたはずの翌女の子の姿がない。",
     ""),
@@ -114,17 +114,17 @@ text_array = [
     ""),
     # Where did you go?
 
-    ("見渡すと｢｢。†",
+    ("見渡すと｢｢。",
     ""),
-    # When I looked around, ".†
+    # When I looked around, ".
 
     ("彼女はちょうど校門をくぐって、学校の外へと出て行くとこだった。",
     ""),
     # The woman passed through the school gates and went outside the school.
 
-    ("振關りｌきもせず、行ってしまう。†",
+    ("振關りｌきもせず、行ってしまう。",
     ""),
-    # I didn't even take a look and went.†
+    # I didn't even take a look and went.
 
     ("まだち痰ゃんと謝ってねーのに。",
     ""),

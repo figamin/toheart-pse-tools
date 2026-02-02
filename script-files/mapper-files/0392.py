@@ -2,9 +2,9 @@
 # Source file: 0392.txt
 
 text_array = [
-    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（選択綜Ｂ	じ痰ゃあ、また明坙日な	の続き）†",
+    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（選択綜Ｂ	じ痰ゃあ、また明坙日な	の続き）",
     ""),
-    # (Tomoko's Scales Event 2F LV1) (See the Likeability Event 8) (Continued from Selection B: The Scales and Scales Event 8) †
+    # (Tomoko's Scales Event 2F LV1) (See the Likeability Event 8) (Continued from Selection B: The Scales and Scales Event 8) 
 
     ("「いようっ、委員長」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # He called out in a friendly manner from his back.
 
-    ("「…くん」†",
+    ("「…くん」",
     ""),
-    # "...kun" †
+    # "...kun" 
 
     ("「なんだ、今厓日燗もひとりでお帰闍りかよ？」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Haha, the chairman is a hot guy who likes Takaron Gata Lee."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「じ痰ゃあ、また明坙日な」",
     ""),

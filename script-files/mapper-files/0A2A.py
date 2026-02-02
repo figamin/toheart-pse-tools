@@ -2,9 +2,9 @@
 # Source file: 0A2A.txt
 
 text_array = [
-    ("（Ｂ	かけない。）†",
+    ("（Ｂ	かけない。）",
     ""),
-    # (B: Don't play.)†
+    # (B: Don't play.)
 
     ("ま、いいか。",
     "Well, whatever."),
@@ -20,7 +20,7 @@ text_array = [
 
     ("そうしている間に、理緒ちゃんは向こうへと歩いていってしまった。",
     "Even as I decide that, Rio is already walking toward the other end of the corridor."),
-    # While doing this, the shojoyan began to walk away.†
+    # While doing this, the shojoyan began to walk away.
 
     ("「あ、そうだ」",
     "Oh, yeah!"),

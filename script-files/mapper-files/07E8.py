@@ -2,11 +2,11 @@
 # Source file: 07E8.txt
 
 text_array = [
-    ("（琴音	回秤数イベント３	ＰＳ）閨（選択綜	別の方法）†",
+    ("（琴音	回秤数イベント３	ＰＳ）閨（選択綜	別の方法）",
     ""),
-    # (Kotone, Scales Event 3 PS) (Chounen, another method of happiness)†
+    # (Kotone, Scales Event 3 PS) (Chounen, another method of happiness)
 
-    ("「そうもいかねえって。なんか別の解煙咽訣ｪあるんじ痰ゃねえのか？」†",
+    ("「そうもいかねえって。なんか別の解煙咽訣ｪあるんじ痰ゃねえのか？」",
     ""),
     # "I don't think so, I don't think so. Is there something else to relieve the throat? Is there any phlegm?"
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "... And even then, we cannot cause trouble for Mr. Ryojo."
 
-    ("「オレは迷惑だなんてこれっぽっちも思っち痰ゃいねえけど、琴音ち痰ゃんはどうなんだ？	オレといて迷惑か？」†",
+    ("「オレは迷惑だなんてこれっぽっちも思っち痰ゃいねえけど、琴音ち痰ゃんはどうなんだ？	オレといて迷惑か？」",
     ""),
-    # "I'm not gonna think that my trash is a nuisance, but what about Kotone's trash? Is it a nuisance to me with my trash?" †
+    # "I'm not gonna think that my trash is a nuisance, but what about Kotone's trash? Is it a nuisance to me with my trash?" 
 
     ("琴音ち痰ゃんは寂しげな表﨣情でオレを見上げ、",
     ""),
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # If you said it with a more scary look on your face, I'd be quietly retreated, or maybe it's a hot one."
 
-    ("「…ごめんなさい…」†",
+    ("「…ごめんなさい…」",
     ""),
-    # "…sorry…"†
+    # "…sorry…"
 
     ("「いいって。それより、なんか考えようぜ。超能力で人に迷惑かけなくてもすむ方法」",
     ""),
     # "That's fine. Instead, let's think about something. A blessing method that will help you with supernatural powers and not cause trouble to others."
 
-    ("「あの、さんのお気搴持ちは嬉しいです。でも、無摶理なんです…」†",
+    ("「あの、さんのお気搴持ちは嬉しいです。でも、無摶理なんです…」",
     ""),
     # "Um, I'm happy that you're so excited. And the hot weather is also unconventional..."
 
@@ -58,15 +58,15 @@ text_array = [
     ""),
     # "It's still too early to give up. Is there a way to be blessed?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「…そうだ、たしかさっき、少しだけコント鴻ロールできるって言ってた？	それを練習して全泊部コント鴻ロールできるようにするんだ」",
     ""),
     # "...Yes, I think you said earlier that you can control a little bit? You'll practice that and be able to control a whole house club."
 
-    ("「…できません。今までにもやってみましたが、ダ＜メでした…」†",
+    ("「…できません。今までにもやってみましたが、ダ＜メでした…」",
     ""),
     # "...I can't. I've tried tampering with hot water up until now, but it was a shame..."
 
@@ -74,17 +74,17 @@ text_array = [
     ""),
     # "That's what we've seen up until now. It's not always the case with Hot Springs."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「諱よし！	オレはｌめた。琴音ち痰ゃんが超能力を使いこなせるようになるまで桙応㊨援するってな」",
     ""),
     # "All right! I've got a gag. Kotone Chisho-chan will give you some support until you can master your supernatural powers."
 
-    ("「でも…」†",
+    ("「でも…」",
     ""),
-    # "And the hot spring..." †
+    # "And the hot spring..." 
 
     ("「ダ＜メダ＜メ。",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # If you're going to do it as much as you can, then you'll say it."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「返抹事は？」",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 0F0E.txt
 
 text_array = [
-    ("（ゲーセンバトル２）閨（テスト終了篇）閨（選択綜	志保）†",
+    ("（ゲーセンバトル２）閨（テスト終了篇）閨（選択綜	志保）",
     ""),
-    # (Arcade Battle Cry 2) (Test End Edition) (Selection Shiho)†
+    # (Arcade Battle Cry 2) (Test End Edition) (Selection Shiho)
 
     ("「志保、オレの鰍相闡手は魔当然おめーだ」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "It's where you want."
 
-    ("にやりと志保が笑う。†",
+    ("にやりと志保が笑う。",
     ""),
-    # Shiho laughs as he tampers with her.†
+    # Shiho laughs as he tampers with her.
 
     ("「お前とやると真武剣沍勝縁負になるからな。単ヲ純にスリルがあるぜ」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "If it's one pair, it's Lu Wang Shen Xi!"
 
-    ("「へいへい」†",
+    ("「へいへい」",
     ""),
-    # "Hey hey" †
+    # "Hey hey" 
 
     ("適俣当にうなずきながら椅子に座骰る。",
     ""),
@@ -82,10 +82,6 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
-    ""),
-    # ・†
-
     ("・",
     ""),
     # ・
@@ -102,8 +98,12 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
 ]

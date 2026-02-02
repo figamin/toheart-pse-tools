@@ -2,7 +2,7 @@
 # Source file: 00AA.txt
 
 text_array = [
-    ("（３月１７冾日	朝）閨（自分の部屋）†",
+    ("（３月１７冾日	朝）閨（自分の部屋）",
     ""),
     # (Morning of the 17th day of the 3rd month) (morning of my room)
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's the third day of the final exams in the grade.
 
-    ("やっぱり赤点は避けたいぜ。†",
+    ("やっぱり赤点は避けたいぜ。",
     ""),
-    # I really want to avoid red spots.†
+    # I really want to avoid red spots.
 
     ("「ち痰ゃん、グラマー、ばっちり？」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "пI... Yes, that's pretty good."
 
-    ("「ホントかよ」†",
+    ("「ホントかよ」",
     ""),
     # "Is it true?"
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "'пI was surprised to hear that meowth'' Please translate this sentence into English."
 
-    ("「ああ？」†",
+    ("「ああ？」",
     ""),
-    # "ah?"†
+    # "ah?"
 
     ("たしかその問題は、土曜にやった問題集に曹書いてあったな。",
     ""),
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # The answer is, ".
 
-    ("「Ｉ	ｗ≠ａ入	入浮ｕ窒ｒ垂ｐ窒ｒ奄入рｄ	＝ａｔ	ｔ	氏ｎ翌ｗ入。…だ？」†",
+    ("「Ｉ	ｗ≠ａ入	入浮ｕ窒ｒ垂ｐ窒ｒ奄入рｄ	＝ａｔ	ｔ	氏ｎ翌ｗ入。…だ？」",
     ""),
     # "I bath lol ≠a tang rind, floating nitrogen rind, amai tang rind, bрd =at tbb san, nb the next lol tang rind.... is that b?"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "Amazing! That's right, sphinja."
 
-    ("「＝早くも忘齧れてたら、とっくにサャナラだぜ」†",
+    ("「＝早くも忘齧れてたら、とっくにサャナラだぜ」",
     ""),
     # "If I could forget the hot springs soon, it's already a Sayana feast."
 

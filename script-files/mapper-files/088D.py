@@ -2,9 +2,9 @@
 # Source file: 088D.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	２階２）閨（選択綜Ｃ）†",
+    ("（レミィ	回秤数イベント	２階２）閨（選択綜Ｃ）",
     ""),
-    # (Kazuremi, 2nd floor 2) (Selection C)†
+    # (Kazuremi, 2nd floor 2) (Selection C)
 
     ("だけど、そんなことを聞かれるほどの№仲じ痰ゃないよな…、オレと撃レミィは。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Why are you asking that?"
 
-    ("オレは逆に、聞き返してみた。†",
+    ("オレは逆に、聞き返してみた。",
     ""),
-    # On the contrary, I asked again.†
+    # On the contrary, I asked again.
 
     ("「『言甯わぬが花』＜」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I--death."
 
-    ("「どう思うって言甯われてもなぁ…」†",
+    ("「どう思うって言甯われてもなぁ…」",
     ""),
     # "I'm not even hoping to hear what you think..."
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Tell me, tell me!"
 
-    ("自分のことは棚に上げて、オレには教えと撃レミィは言う。†",
+    ("自分のことは棚に上げて、オレには教えと撃レミィは言う。",
     ""),
-    # He puts himself on the shelf and tells me, b, and Ekiremi.†
+    # He puts himself on the shelf and tells me, b, and Ekiremi.
 
     ("「クラス＜メイトだと思ってるぜ」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # Wow, you've been criticized.
 
-    ("冝日本人と話している感覚がないので、細かいとこに、いちいち新鮮味がある。†",
+    ("冝日本人と話している感覚がないので、細かいとこに、いちいち新鮮味がある。",
     ""),
-    # I don't feel like I'm talking to Japanese people, so every detail of the details is fresh.†
+    # I don't feel like I'm talking to Japanese people, so every detail of the details is fresh.
 
     ("「じ痰ゃあ、パツキンガール」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Just like that c"
 
-    ("言ってから、レミィはハッと頬を赤逅らめた。†",
+    ("言ってから、レミィはハッと頬を赤逅らめた。",
     ""),
-    # After saying this, Karemi shook her cheeks in a flash.†
+    # After saying this, Karemi shook her cheeks in a flash.
 
     ("「おっ、ふてぶてしいまでの発言！」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # As I was lit up, I was so angry that I looked like a girl from the next Japanese girl, and I was so happy.
 
-    ("レミィは冾日本とア＜メリカ、両菶方の魅力を持った、いいコなんだと実感した。†",
+    ("レミィは冾日本とア＜メリカ、両菶方の魅力を持った、いいコなんだと実感した。",
     ""),
-    # I realized that Karemi is a great girl with the charms of Japan, America, and Ryosui.†
+    # I realized that Karemi is a great girl with the charms of Japan, America, and Ryosui.
 
     ("「じ痰ゃあ撃レミィ、ホントのことを言おう」",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # "Really?!"
 
-    ("「ほんとだ」†",
+    ("「ほんとだ」",
     ""),
-    # "Really" †
+    # "Really" 
 
     ("「Ｉ’香ｍ	〟ｇ撃ｌ≠ａрｄ！	感リ！」",
     ""),
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # "I've had confidence!"
 
-    ("「自信…？」†",
+    ("「自信…？」",
     ""),
     # "Confidence...?"
 

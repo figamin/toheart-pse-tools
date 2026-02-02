@@ -2,9 +2,9 @@
 # Source file: 019B.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	「＝ａ」だ）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	「＝ａ」だ）",
     ""),
-    # (Akari Scales Event Departs from School) (A "=b" b)†
+    # (Akari Scales Event Departs from School) (A "=b" b)
 
     ("「『＝ａ』だ？」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I said with confidence.
 
-    ("見骭ると、あかりがにっこり微笑んでいる。†",
+    ("見骭ると、あかりがにっこり微笑んでいる。",
     ""),
-    # Akari smiles as she watches.†
+    # Akari smiles as she watches.
 
     ("「どうだ、正解だ？」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Yeah, that's right!"
 
-    ("「みたか」†",
+    ("「みたか」",
     ""),
-    # "Look at me" †
+    # "Look at me" 
 
     ("「さすがだね、ち痰ゃん」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "That's just a mean quiz, isn't it? Did you come on the test?"
 
-    ("「さあ、出ないと思うよ」†",
+    ("「さあ、出ないと思うよ」",
     ""),
     # "Now, I don't think it's coming out."
 

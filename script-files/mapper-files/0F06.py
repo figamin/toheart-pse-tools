@@ -2,9 +2,9 @@
 # Source file: 0F06.txt
 
 text_array = [
-    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	雅史）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	雅史）閨（蛛主人公煙負け）",
     ""),
-    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Choice Sou Maki) (Mrage Protagonist Smoke) †
+    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Choice Sou Maki) (Mrage Protagonist Smoke) 
 
     ("「くそ〜…」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "...I mean, there's something like this."
 
-    ("とは言ったものの、じっさいオレと史の腕の差なんてこんなもんだう。†",
+    ("とは言ったものの、じっさいオレと史の腕の差なんてこんなもんだう。",
     ""),
-    # That said, the difference between my skills and I-Shin's skills is really hot.†
+    # That said, the difference between my skills and I-Shin's skills is really hot.
 
     ("「梶相闡手が史だからって、余裕コキすぎたんじ痰ゃないのぉ？」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # You gave up the victory, right?”
 
-    ("その点、雅史は嬉しいことを言う。†",
+    ("その点、雅史は嬉しいことを言う。",
     ""),
-    # In that regard, Masushi says something happy about it.†
+    # In that regard, Masushi says something happy about it.
 
     ("「えーっ、そうなの？」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "That's why I'm in the end of my life..."
 
-    ("「…あんたたち、ゲームぐらいで男の友﨤情を深め№合寘わないでよね」†",
+    ("「…あんたたち、ゲームぐらいで男の友﨤情を深め№合寘わないでよね」",
     ""),
     # "...You guys, just by playing games, don't deepen your affection and join in with the No. 1"
 
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Me? Well, I'm not that hungry right now, so potatoes are fine."
 
-    ("「へへ、ありがと」†",
+    ("「へへ、ありがと」",
     ""),
-    # "Hehe, thank you" †
+    # "Hehe, thank you" 
 
     ("「なんだ志保、お前こそрヤックごときで友﨤情深め№合いやがって。人のこと言えんのか」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # A female friend, affection.Don't peek at me with sweaty."
 
-    ("すまし顔でそんなことを言う。†",
+    ("すまし顔でそんなことを言う。",
     ""),
-    # He says that with a sorry face.†
+    # He says that with a sorry face.
 
     ("「オレたちのどの辺が汗くさいってんだよ。そっちこそアブノーマルじ痰ゃねえか」",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # "Yes, yes. Don't say too many naughty things."
 
-    ("「あー、ムカつく」†",
+    ("「あー、ムカつく」",
     ""),
-    # "Ah, I'm annoyed" †
+    # "Ah, I'm annoyed" 
 
     ("卒業式なんて、在校生にとっては、そんななんでもない一勛日に過ぎない。◯",
     ""),

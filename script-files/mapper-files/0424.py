@@ -2,9 +2,9 @@
 # Source file: 0424.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	男で良かった）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	男で良かった）",
     ""),
-    # (Shiho's Scales Event PS) (I'm glad it was Chosen So Man)†
+    # (Shiho's Scales Event PS) (I'm glad it was Chosen So Man)
 
     ("「男で良かった…」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Oh, that's right, but..."
 
-    ("「どーすんの、どーすんの？」†",
+    ("「どーすんの、どーすんの？」",
     ""),
     # "What's up, what's up?"
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # I began to nod my head with a Mako face.
 
-    ("「アホ！	んなことに怖がってんじ痰ゃねー諱よ」†",
+    ("「アホ！	んなことに怖がってんじ痰ゃねー諱よ」",
     ""),
-    # "Idiot! I'm scared of that, I have no idea what you're saying."†
+    # "Idiot! I'm scared of that, I have no idea what you're saying."
 
     ("結局、ブドウル菌自体にはｊ険はなくて、その能力をｊ険な菌が獲得してしまうことが恐しいのだそうだ。",
     ""),

@@ -2,17 +2,17 @@
 # Source file: 00AD.txt
 
 text_array = [
-    ("（３月２１冾日	朝）閨（自分の部屋）†",
+    ("（３月２１冾日	朝）閨（自分の部屋）",
     ""),
-    # (Morning of the 21st Day of the Three Lion Day) (morning of my room)†
+    # (Morning of the 21st Day of the Three Lion Day) (morning of my room)
 
     ("今厓日は３月２１冾日、金曜坥日。",
     ""),
     # The current day is the 21st day of the 3rd Lion Day and the Friday Day.
 
-    ("昨厓日ゆっくり羽を伸ばしたせいか、今厓日はすこぶる調子がいい。†",
+    ("昨厓日ゆっくり羽を伸ばしたせいか、今厓日はすこぶる調子がいい。",
     ""),
-    # Perhaps because I slowly stretched my wings last year, I'm in great shape right now.†
+    # Perhaps because I slowly stretched my wings last year, I'm in great shape right now.
 
     ("「今厓日から嘯答案用落が返ってくるね」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Ahh, you're making me remember something bad..."
 
-    ("そんなことを言いつつ歩いていると、縺後撃から誰かが駆けてきた。†",
+    ("そんなことを言いつつ歩いていると、縺後撃から誰かが駆けてきた。",
     ""),
-    # As I walked around saying this, someone started to hit me after the attack.†
+    # As I walked around saying this, someone started to hit me after the attack.
 
     ("「セーフ！	どうやらここら辺がギリギリのボーダーねっ！」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Oh good."
 
-    ("「あいさつもいいけどな、オレたちを遅薯刻のデッドラインにすんなっての」†",
+    ("「あいさつもいいけどな、オレたちを遅薯刻のデッドラインにすんなっての」",
     ""),
     # "The greetings and hot springs are nice too, but don't let the sluggish roe and the others go into the dead banquet line with late potatoes."
 

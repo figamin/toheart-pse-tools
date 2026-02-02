@@ -2,9 +2,9 @@
 # Source file: 00DD.txt
 
 text_array = [
-    ("（システムイベント	終業式）閨（青空）†",
+    ("（システムイベント	終業式）閨（青空）",
     ""),
-    # (System Event Closing Ceremony) (Aozora)†
+    # (System Event Closing Ceremony) (Aozora)
 
     ("終業式。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # The warm sunlight and the coldest of the next breeze.
 
-    ("今年度の見納めってことで、遠くに広がる町並みをぼけーっと眺める。†",
+    ("今年度の見納めってことで、遠くに広がる町並みをぼけーっと眺める。",
     ""),
-    # As it was the last time I saw this year, I took a quick look at the cityscape spreading out in the distance.†
+    # As it was the last time I saw this year, I took a quick look at the cityscape spreading out in the distance.
 
     ("そうか、今厓日で一年生熕も終尞わりか。",
     ""),
@@ -42,17 +42,17 @@ text_array = [
     ""),
     # =It's early.
 
-    ("光陰詹矢のごとしとは、昔の人熕もうまく言うもんだ。†",
+    ("光陰詹矢のごとしとは、昔の人熕もうまく言うもんだ。",
     ""),
-    # The word "Light Insect Arrow" is something that even the old people of the world are well-known.†
+    # The word "Light Insect Arrow" is something that even the old people of the world are well-known.
 
     ("この後、すぐ二年になって、やがて三年、そして卒業か。",
     ""),
     # After this, it was almost two years ago, and eventually three years later, and then they graduated.
 
-    ("気を抜いてると、時間なんてあっという間に過ぎ去っちまう。†",
+    ("気を抜いてると、時間なんてあっという間に過ぎ去っちまう。",
     ""),
-    # If you let your guard down, time passes in a flash and sniffs go away.†
+    # If you let your guard down, time passes in a flash and sniffs go away.
 
     ("あと二年。",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # To be honest, even Ko has no exaggeration to say that he has spent the past year in vain.
 
-    ("ぬるま窒湯な青春だぜ。†",
+    ("ぬるま窒湯な青春だぜ。",
     ""),
-    # It's a lukewarm, nitrogen-filled youth.†
+    # It's a lukewarm, nitrogen-filled youth.
 
     ("そんなことを考えてると、",
     ""),
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "What? That face seems to have been taken away from a peaceful moment."
 
-    ("「お前、なかなか鋭いね」†",
+    ("「お前、なかなか鋭いね」",
     ""),
     # "You're pretty sharp"
 
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "That's thanks to Shiho. I'm going to say, 'Mmm, I feel like you're a goddamn!"
 
-    ("「ビンゴだったってわけか？」†",
+    ("「ビンゴだったってわけか？」",
     ""),
     # "Is it because it was bingo?"
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Ahhh"
 
-    ("「な、なんですってぇ〜っ！」†",
+    ("「な、なんですってぇ〜っ！」",
     ""),
     # "What is that!"
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "What is the 'Shiho Chi Sputum Shot Radar'? Will you smell the hot water from the sniff?'
 
-    ("「き、気に入逑らないわね〜、あんた〜」†",
+    ("「き、気に入逑らないわね〜、あんた〜」",
     ""),
     # "Yeah, you don't like me~"
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Ah, that's right."
 
-    ("志保はうっかりしてたという顔をすると、†",
+    ("志保はうっかりしてたという顔をすると、",
     ""),
     # Shiho looks at him saying that he was inadvertent, and
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # That's what I said.
 
-    ("「ったく、オ＜メーはそればっかりだな」†",
+    ("「ったく、オ＜メーはそればっかりだな」",
     ""),
     # "That's all for you."
 
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # It's the closing ceremony.
 
-    ("まっすぐ家に帰驪る気はさらさらなかった。†",
+    ("まっすぐ家に帰驪る気はさらさらなかった。",
     ""),
-    # I didn't feel like going straight home.†
+    # I didn't feel like going straight home.
 
     ("「し痰ゃーねーなァ。",
     ""),
@@ -174,12 +174,12 @@ text_array = [
     ""),
     # Okay, let's invite Masochi to smoke the squeals and start playing with the Ichi-chan!”
 
-    ("「「おーっ！」」†",
+    ("「「おーっ！」」",
     ""),
     # "Oh!"
 
-    ("｢｢というわけで、オレ、あかり、志保、雅史のいつもの四人は、街に繰り出した。†",
+    ("｢｢というわけで、オレ、あかり、志保、雅史のいつもの四人は、街に繰り出した。",
     ""),
-    # "So, the four members of Ikure, Akari, Shiho, and Masochist, went out to town.†
+    # "So, the four members of Ikure, Akari, Shiho, and Masochist, went out to town.
 
 ]

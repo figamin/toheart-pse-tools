@@ -2,9 +2,9 @@
 # Source file: 049A.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階２）閨（早書店前）閨（志保２）†",
+    ("（志保	回秤数イベント	１階２）閨（早書店前）閨（志保２）",
     ""),
-    # (Shiho Scales Event, 1st floor 2) (In front of the Hayasho store) (Shiho 2)†
+    # (Shiho Scales Event, 1st floor 2) (In front of the Hayasho store) (Shiho 2)
 
     ("オレたちは、駅前商店街にやってきた。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "I want you to tamper with the idea of ​​Western clothing."
 
-    ("「はあ？」†",
+    ("「はあ？」",
     ""),
-    # "Huh?"†
+    # "Huh?"
 
     ("「あたしが選ぶ洋棊服を、あんたのセンスで採点して欲しいの」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "...Why are you asking me to say such a charcoal?"
 
-    ("「男の子にウケがいい桙服って、諱よくわからないのよね。それで、男のあんたに見てもらえれば、良いかな？	って思ったわけよ」†",
+    ("「男の子にウケがいい桙服って、諱よくわからないのよね。それで、男のあんたに見てもらえれば、良いかな？	って思ったわけよ」",
     ""),
-    # "You don't really understand the kind of fox clothes that are popular with boys. So, if you're a man, it's fine to see them, then it's fine." †
+    # "You don't really understand the kind of fox clothes that are popular with boys. So, if you're a man, it's fine to see them, then it's fine." 
 
     ("「オレにぃ？」",
     ""),
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # ...Why are you gonna bet on such a thing?
 
-    ("「梶頼むのは構寘わねえけど、そのイチかバチかみたいな理由、やめてくれよ」†",
+    ("「梶頼むのは構寘わねえけど、そのイチかバチかみたいな理由、やめてくれよ」",
     ""),
     # "I don't care about Kaji, but please stop saying that it's a bit of a sting or a bit of a sting."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Well, think about it and look at the hot water too.
 
-    ("服はあたしが選ぶとしてぇ…、最終的にＯＫだすのは、あんたなのよ？	あたしのセンスが悪くて、おまけにあんたのセンスまで悪かったら、目燒も魔当てられないじ痰ゃないの」†",
+    ("服はあたしが選ぶとしてぇ…、最終的にＯＫだすのは、あんたなのよ？	あたしのセンスが悪くて、おまけにあんたのセンスまで悪かったら、目燒も魔当てられないじ痰ゃないの」",
     ""),
     # I'll choose clothes... but in the end, you're the one who's OK with it, right?If my sense of style is bad and your senses are bad, then I won't be able to hit the marks even if I can't hit the mark."
 
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "What, hey, ririi! If you don't like me, come on, look for another man!"
 
-    ("オレ諠よかセンスのいい男なんて、ごまんといるだーが！†",
+    ("オレ諠よかセンスのいい男なんて、ごまんといるだーが！",
     ""),
-    # There are so many men with good taste who are super-sexual!†
+    # There are so many men with good taste who are super-sexual!
 
     ("「そうしたいのはрヤマсヤマだけどぉ…。",
     ""),
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "Oh, that's right. Then don't say a sentence."
 
-    ("「はいはい、冝期待してるわよぉ」†",
+    ("「はいはい、冝期待してるわよぉ」",
     ""),
     # "Yes, yes, I'm looking forward to it."
 
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("「あはは…今厓日、お店お休みみたいねぇ…」†",
+    ("「あはは…今厓日、お店お休みみたいねぇ…」",
     ""),
     # "Hahaha...it looks like the shop is closed on the day right now..."
 

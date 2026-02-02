@@ -2,9 +2,9 @@
 # Source file: 0B0B.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）閨（選択綜Ａ	うつ嘯伏せになる	の続き）閨（真っ暗）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）閨（選択綜Ａ	うつ嘯伏せになる	の続き）閨（真っ暗）",
     ""),
-    # (Aya∴Kawa Date Event 2) (Continued from Chosen A Greeting) (Continued from Chosen A to lie down) (Continued from Chosen A to lie down) (Color black) †
+    # (Aya∴Kawa Date Event 2) (Continued from Chosen A Greeting) (Continued from Chosen A to lie down) (Continued from Chosen A to lie down) (Color black) 
 
     ("「うり痰ゃっ！」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Ah!?"
 
-    ("綾∴香はピクッとなる。†",
+    ("綾∴香はピクッとなる。",
     ""),
-    # Aya∴Kara twitches.†
+    # Aya∴Kara twitches.
 
     ("「な、なにやってんのよ…？」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "There's no deep reason for this, but when I lie down, when I'm gross leaning down."
 
-    ("嘘だけど。†",
+    ("嘘だけど。",
     ""),
-    # That's a lie though.†
+    # That's a lie though.
 
     ("「ちょ、ちょっと、これはやりすぎよ」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "Are you misguided?"
 
-    ("「勘違いでもいい、させてくれ〜」†",
+    ("「勘違いでもいい、させてくれ〜」",
     ""),
-    # "It's a different kind of instinct, so please let me go" †
+    # "It's a different kind of instinct, so please let me go" 
 
     ("「もう、しょうがないわね」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ねえ、息がくすぐったいんだけど…」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ねえ、いつまで、そうしてるつもり？」",
     ""),
@@ -106,8 +106,8 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
 ]

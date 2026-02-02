@@ -2,21 +2,21 @@
 # Source file: 059A.txt
 
 text_array = [
-    ("（葵	回秤数イベント７	選択繿後	Ｂ）†",
+    ("（葵	回秤数イベント７	選択繿後	Ｂ）",
     ""),
-    # (Aoi Scales Event 7 after selection B)†
+    # (Aoi Scales Event 7 after selection B)
 
     ("諱よし、ここはひとつ、冷たいドリンクでもモ買ってきてやるか。",
     ""),
     # Okay, here's one thing: I wonder if I'll buy some hot pots and tamper with the cold Dogata Link.
 
-    ("オレは、ちょっと抜けるよと、葵ち痰ゃんに断ってから、いったん学校へと戻った。†",
+    ("オレは、ちょっと抜けるよと、葵ち痰ゃんに断ってから、いったん学校へと戻った。",
     ""),
-    # I refused to do so by Aoi Chisho-yan, saying that I might get out of my way, then returned to school.†
+    # I refused to do so by Aoi Chisho-yan, saying that I might get out of my way, then returned to school.
 
-    ("自販機でスポーツドリンクを２本ヶ買う。†",
+    ("自販機でスポーツドリンクを２本ヶ買う。",
     ""),
-    # Buy two Sports Dogata Links at the vending machine.†
+    # Buy two Sports Dogata Links at the vending machine.
 
     ("禔練習齒場へと戻ってくると、葵ち痰ゃんはまだサンドバッグとモしく格闘していた。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Hey, Aoi-chi's sphemy."
 
-    ("オレは後撃から声をかけた。†",
+    ("オレは後撃から声をかけた。",
     ""),
-    # My gang called out after the attack.†
+    # My gang called out after the attack.
 
     ("サンドバッグを打つ手を止めて、葵ち痰ゃんが振關り返った。",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Yes..."
 
-    ("「ドリンクャ買ってきたんだけどさ、ちょっと休憩しないか？」†",
+    ("「ドリンクャ買ってきたんだけどさ、ちょっと休憩しないか？」",
     ""),
     # "I bought a Dogata Link, so why don't you take a break?"
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Thank you. And there's a little more..."
 
-    ("「たのむよ〜、せっかくだから冷たいうちに飲んでくれよ〜」†",
+    ("「たのむよ〜、せっかくだから冷たいうちに飲んでくれよ〜」",
     ""),
-    # "Tanomi, I'm going to have it, so please drink it while it's cold." †
+    # "Tanomi, I'm going to have it, so please drink it while it's cold." 
 
     ("オレが言うと、葵ち痰ゃんは少し考えてからコクンとうなずいた。",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # I'm fine.
 
-    ("オレは葵ち痰ゃんにドリンクを手渡した。†",
+    ("オレは葵ち痰ゃんにドリンクを手渡した。",
     ""),
-    # I handed Aoi Chisho-yan a Dogata Link.†
+    # I handed Aoi Chisho-yan a Dogata Link.
 
     ("お堂の階段にｍかけて、ドリンクを飲む。",
     ""),

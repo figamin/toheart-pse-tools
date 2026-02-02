@@ -2,9 +2,9 @@
 # Source file: 02F1.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（綾∴香	好感度１２以繹上の場㍼合）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（綾∴香	好感度１２以繹上の場㍼合）",
     ""),
-    # (Seri°Kawa, Scales Event, Departing from School LV2)Seri (Aya∴Kawa, with a surge in favorability of 12 or higher)†
+    # (Seri°Kawa, Scales Event, Departing from School LV2)Seri (Aya∴Kawa, with a surge in favorability of 12 or higher)
 
     ("そいつは｢｢。",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "You're Aya∴Smelling and phlegm?"
 
-    ("「学校にｗ一翌ﾎもしかしたらと思ったけど、本末当にえるとはね〜」†",
+    ("「学校にｗ一翌ﾎもしかしたらと思ったけど、本末当にえるとはね〜」",
     ""),
     # "I thought it might be a chance to go to school lol, but I don't think I'll get it right after the day."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What's wrong, what's the day?"
 
-    ("「これから姉さんとр私、ちょっとした用沫事があってね。だからムリсヤリ車で連齪れてこられたのよ」†",
+    ("「これから姉さんとр私、ちょっとした用沫事があってね。だからムリсヤリ車で連齪れてこられたのよ」",
     ""),
     # "From now on, my sister and I have had some droplets that were so sad. That's why we've been sending us a series of posts in a Mugata Riс大好きないます"
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "I'm going to get phlegm, I'm going to get back to my phlegm <<Me-sphlegmy phlegmy."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「でも、いきなり姉さんとのツーショットが見鼬れるなんてね。本末当に№仲いいのね」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Haa, I'm jealous, I'm jealous."
 
-    ("綾∴香はぱたぱたと手であおぐまねをする。†",
+    ("綾∴香はぱたぱたと手であおぐまねをする。",
     ""),
-    # Aya∴Ka imitates her ears with her hands.†
+    # Aya∴Ka imitates her ears with her hands.
 
     ("「それにしても…」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "Oh, I guess it's the sister who divided the blood after all."
 
-    ("諱先輩熹も綾∴香熏もさすがおｏ様って感じのｔ形ぶりだ。†",
+    ("諱先輩熹も綾∴香熏もさすがおｏ様って感じのｔ形ぶりだ。",
     ""),
-    # Both Senpai Kei and Aya∴Ki are T-shaped like O-sama.†
+    # Both Senpai Kei and Aya∴Ki are T-shaped like O-sama.
 
     ("「あーあ、ちくしょー」",
     ""),
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "I see, damn it."
 
-    ("「だからなによ？」†",
+    ("「だからなによ？」",
     ""),
     # "So what?"
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "It's nice, let's go?"
 
-    ("「ホントか！？」†",
+    ("「ホントか！？」",
     ""),
     # "Really?!"
 
@@ -146,17 +146,17 @@ text_array = [
     ""),
     # "Because."
 
-    ("「おーし！	じ痰ゃあ、そうとｌまれば｢｢」†",
+    ("「おーし！	じ痰ゃあ、そうとｌまれば｢｢」",
     ""),
-    # "Oh! I'm not gonna get phlegm, but if I get it then I'll say ""†
+    # "Oh! I'm not gonna get phlegm, but if I get it then I'll say ""
 
     ("「なりませぬぞおおおおぉぉぉぉ〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ッ！！！」",
     ""),
     # "I won't be able to do it, ohhhhhhhhhhhhh!!!"
 
-    ("「！」†",
+    ("「！」",
     ""),
-    # "!" †
+    # "!" 
 
     ("「綾∴香おｏ様、またそのようなおふざけを！」",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # "Yes, yes, I already understand."
 
-    ("綾∴香は説教なんか聞き飽きたというふうに聞き流す。†",
+    ("綾∴香は説教なんか聞き飽きたというふうに聞き流す。",
     ""),
-    # Aya∴Ka overhears the hot sermon, saying that she's tired of hearing the hot sermon.†
+    # Aya∴Ka overhears the hot sermon, saying that she's tired of hearing the hot sermon.
 
     ("「おいっ、小尞わっぱ！」",
     ""),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # "Yeah, are you underestimated...?"
 
-    ("ひでぇー言甯われようだな。†",
+    ("ひでぇー言甯われようだな。",
     ""),
-    # It looks like you're being told.†
+    # It looks like you're being told.
 
     ("「とにかく！」",
     ""),
@@ -222,9 +222,9 @@ text_array = [
     ""),
     # Please get in your car soon."
 
-    ("執鮪事のじーさんは後伯部座席のドアを開いて言った。†",
+    ("執鮪事のじーさんは後伯部座席のドアを開いて言った。",
     ""),
-    # The old man who was in the tuna was opened and said, "I'm not going to be able to get any more."†
+    # The old man who was in the tuna was opened and said, "I'm not going to be able to get any more."
 
     ("「あーあ、仕緖方ないわね」",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # "Ah, that's how it goes, and I'm already feeling sorry for the day. Bye-bye, see you later."
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
     ("「………」",
     "…"),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # Slam.
 
-    ("とドアが締まり、車はゆっくり魔走闡り出した。†",
+    ("とドアが締まり、車はゆっくり魔走闡り出した。",
     ""),
-    # The doors closed and the car slowly began to run wild.†
+    # The doors closed and the car slowly began to run wild.
 
     ("「…おｏ様ってのもなにかと大変だなァ」",
     ""),

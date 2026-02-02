@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Comedy-like stuff is fine, isn't it phlegm?"
 
-    ("腹がよじれそうなギャャグのひとつでもあれば、幸せな気分になれるからな。†",
+    ("腹がよじれそうなギャャグのひとつでもあれば、幸せな気分になれるからな。",
     ""),
-    # One of the gyagus that makes your stomach feel shaky and if you have some hot water, you'll feel happy.†
+    # One of the gyagus that makes your stomach feel shaky and if you have some hot water, you'll feel happy.
 
     ("「へ〜っ、あんたそういうの見骭るんだぁ」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "You're always looking lame for the Hot. You're so hungry for the snake."
 
-    ("「悪かったな」†",
+    ("「悪かったな」",
     ""),
-    # "That was bad" †
+    # "That was bad" 
 
     ("「でもさぁ、最近コ＜メディの新錐ってｗてた？",
     ""),
@@ -46,17 +46,17 @@ text_array = [
     ""),
     # "We haven't tampered with commercials, it's probably not windy b."
 
-    ("「どうする？	なんでもいいから見骭る？」†",
+    ("「どうする？	なんでもいいから見骭る？」",
     ""),
-    # "What do you do? Why do you watch the hot springs, too?"†
+    # "What do you do? Why do you watch the hot springs, too?"
 
     ("「それは勘弁してくれ。見たくもない映謇画にカネ払うほど裕泓福じ痰ゃねえしな」",
     ""),
     # "Please forgive me. You're so lucky that you're so wealthy that you'll pay for a film that you don't want to see."
 
-    ("「あっそれ、あたしも〜」†",
+    ("「あっそれ、あたしも〜」",
     ""),
-    # "Ah, that's it, I'm also hot" †
+    # "Ah, that's it, I'm also hot" 
 
     ("結局その冾日は映謇画をやめ、ふたりでだべりながら帰った。◯",
     ""),

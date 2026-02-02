@@ -2,17 +2,17 @@
 # Source file: 0583.txt
 
 text_array = [
-    ("（葵	回秤数イベント２）†",
+    ("（葵	回秤数イベント２）",
     ""),
-    # (Aoi Scales Event 2)†
+    # (Aoi Scales Event 2)
 
     ("葵ち痰ゃん、今厓日燗も痰例の神社の裏で頑張ってんのかな。",
     ""),
     # Aoi Chisho-yan, I wonder if Ha-san is doing his best at the back of the shrine where he is sputum.
 
-    ("オレはサンドバッグを鰍相闡手にひとり黙々と練習に打ち桙込む葵ち痰ゃんの姿を思い出した。†",
+    ("オレはサンドバッグを鰍相闡手にひとり黙々と練習に打ち桙込む葵ち痰ゃんの姿を思い出した。",
     ""),
-    # I remembered Aoi Chisho-yan silently thrusts into fortune practice with a punching bag together.†
+    # I remembered Aoi Chisho-yan silently thrusts into fortune practice with a punching bag together.
 
     ("素直で、一途で、一生恊懸命な葵ち痰ゃんは、ついつい桙応㊨援してあげたくなる翌女の子だ。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # I guess that means I'm really hoping that I'll get into love with the banquet.
 
-    ("いや、もしかしたら、いまも練習しながら、オレがｗ磯翌ﾌを待ってるかもしれない。†",
+    ("いや、もしかしたら、いまも練習しながら、オレがｗ磯翌ﾌを待ってるかもしれない。",
     ""),
-    # It's probably because I'm currently practicing fortune, but I'm really excited lol. I'm waiting for the next day to see him.†
+    # It's probably because I'm currently practicing fortune, but I'm really excited lol. I'm waiting for the next day to see him.
 
     ("「………」",
     "…"),
@@ -42,17 +42,17 @@ text_array = [
     ""),
     # So, what are you going to do?
 
-    ("前みたく、見学だけして帰ってもいいが、あれでけっこう彼女の練習の妨げになってるんだよな。†",
+    ("前みたく、見学だけして帰ってもいいが、あれでけっこう彼女の練習の妨げになってるんだよな。",
     ""),
-    # Just like before, I just went to see it and went home and it was nice, but that's pretty much hindering my boyfriend's good luck practice.†
+    # Just like before, I just went to see it and went home and it was nice, but that's pretty much hindering my boyfriend's good luck practice.
 
     ("一番いいのは、もちん、オレがクラブに入ってやることなんだう。",
     ""),
     # The best thing is that Mochi B, my gangbang, and I'm going to tamper with it.
 
-    ("まずは同好拷の規闍定人柏数を集めることが、葵ち痰ゃんの第齣一目的だしな。†",
+    ("まずは同好拷の規闍定人柏数を集めることが、葵ち痰ゃんの第齣一目的だしな。",
     ""),
-    # First, the main purpose of Aoi Chisho-chan is to gather the number of people who are in the same way.†
+    # First, the main purpose of Aoi Chisho-chan is to gather the number of people who are in the same way.
 
     ("しかし、％箔部するのは簡単だとして、その後が問題だよな。",
     ""),
@@ -62,25 +62,25 @@ text_array = [
     ""),
     # I'm not sure I can do martial arts, and to be honest, I don't have the motivation to do it.
 
-    ("一箞方の葵ち痰ゃんは痰例のエクストリームとかいう大痩を目指し、＊淫俣朗ﾌすごい意気梛込みで練習に励んでいる。†",
+    ("一箞方の葵ち痰ゃんは痰例のエクストリームとかいう大痩を目指し、＊淫俣朗ﾌすごい意気梛込みで練習に励んでいる。",
     ""),
-    # The Ichibancho aims to achieve a huge weight loss, called Extogata Ream, which is the example of phlegm, and is working hard to practice for good luck with the incredible spirit of Inmata Rōkara.†
+    # The Ichibancho aims to achieve a huge weight loss, called Extogata Ream, which is the example of phlegm, and is working hard to practice for good luck with the incredible spirit of Inmata Rōkara.
 
     ("一生恊懸命笆やってる横に、オレみたいな半端なрヤツがいたら、かえって足引っ張闥りになるのがオチだうし。",
     ""),
     # If there's an incredible guy who's been working hard all his life and looks like a real guy, then the punchline will be that he'll just drag you in.
 
-    ("というわけで、％箔部は、なし。†",
+    ("というわけで、％箔部は、なし。",
     ""),
-    # So, there is no % foil part.†
+    # So, there is no % foil part.
 
     ("で、％箔部する気がないなら、思寬わせぶりな態度で顔出して、いたずらに冾期待を抱かせるのもやめた方がいいよな。",
     ""),
     # So, if you don't want to be a part of your foil, then it would be better to show your face with a thoughtful attitude and stop tampering with hopelessness.
 
-    ("そうだな、うん、行くのも、やめ。†",
+    ("そうだな、うん、行くのも、やめ。",
     ""),
-    # That's right, yes, I'll stop going.†
+    # That's right, yes, I'll stop going.
 
     ("てなわけで、ゴ＜メンな、葵ち痰ゃん。",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # Well, since I've had the chance, I'll just look at the hot springs with the face of Aoi Chishonan.
 
-    ("オレは練習齒場鰹所へとｌかった。†",
+    ("オレは練習齒場鰹所へとｌかった。",
     ""),
-    # My guts went to the bonito area at Fuku training camp.†
+    # My guts went to the bonito area at Fuku training camp.
 
     ("「はあっ！」閨	ずばぁーんっ！！",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # Aoi Chisho-yan was in the same bonito spot as last time.
 
-    ("梶相変﨑わらずスゴイ翼迫力で練習に打ち桙込んでいる。†",
+    ("梶相変﨑わらずスゴイ翼迫力で練習に打ち桙込んでいる。",
     ""),
-    # Kaji Ai Henzaki is not the same, and his amazing wings are powerful and he is pounding for good practice.†
+    # Kaji Ai Henzaki is not the same, and his amazing wings are powerful and he is pounding for good practice.
 
     ("縺上段回し蹴闖り。",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # It seems that Aoi Chisho-chan's speciality is that it has a high KO rate and is also frequently used in tests.
 
-    ("当たる寸前まで蹴髀る側の脚のヒザを曲げ、当たる瞬間に伸ばすのが、威力を高めるコツ…だったよな。†",
+    ("当たる寸前まで蹴髀る側の脚のヒザを曲げ、当たる瞬間に伸ばすのが、威力を高めるコツ…だったよな。",
     ""),
-    # The trick to increasing the power was to bend the knees on the leg that is kicking it to the very last moment it was polished, and stretch it out as soon as it was polished.†
+    # The trick to increasing the power was to bend the knees on the leg that is kicking it to the very last moment it was polished, and stretch it out as soon as it was polished.
 
     ("近づくと、こっちが声をかけるより≠早く、葵ち痰ゃんが振關り返った。",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "...Ah."
 
-    ("オレの顔を見た途端、蛛大きな目を見開いて、表﨣情をほこばせた。†",
+    ("オレの顔を見た途端、蛛大きな目を見開いて、表﨣情をほこばせた。",
     ""),
-    # As soon as I saw my face, my big eyes wide open, and I let out a loud emotional atmosphere.†
+    # As soon as I saw my face, my big eyes wide open, and I let out a loud emotional atmosphere.
 
     ("「",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # "Yes, you're doing it."
 
-    ("葵ち痰ゃんは練習をｒ断し、こちらへと駆け寄ってきた。†",
+    ("葵ち痰ゃんは練習をｒ断し、こちらへと駆け寄ってきた。",
     ""),
-    # Aoi Chisho-yan stopped practicing fortune and came over to me.†
+    # Aoi Chisho-yan stopped practicing fortune and came over to me.
 
     ("「またｗてくださったんですね！？」",
     ""),
@@ -186,17 +186,17 @@ text_array = [
     ""),
     # It's tampering, and perhaps that's the case.
 
-    ("だからこそ、オレがｗたことにもすぐ気がついたのかもしれない。†",
+    ("だからこそ、オレがｗたことにもすぐ気がついたのかもしれない。",
     ""),
-    # That's why I was so excited that it was so funny lol, so maybe Ko even noticed it right away.†
+    # That's why I was so excited that it was so funny lol, so maybe Ko even noticed it right away.
 
     ("もしそうなら、嬉しいよな。",
     ""),
     # If so, I'd be happy.
 
-    ("ま、べつにこのオレだからというわけじ痰ゃなく、葵ち痰ゃんはクラブの≠メンバーが増えるのをｊんでいるんだうけど。†",
+    ("ま、べつにこのオレだからというわけじ痰ゃなく、葵ち痰ゃんはクラブの≠メンバーが増えるのをｊんでいるんだうけど。",
     ""),
-    # Well, it's not a stimulus that's because I'm a big fan, but Aoi Chisho-chan is trying to make the number of members of the banquet love increase.†
+    # Well, it's not a stimulus that's because I'm a big fan, but Aoi Chisho-chan is trying to make the number of members of the banquet love increase.
 
     ("しかし、この嬉しそうな目。",
     ""),
@@ -206,17 +206,17 @@ text_array = [
     ""),
     # I'm hoping that I can get into love with the banquet b.
 
-    ("いつまでも冾期待を抱かせたままじ痰ゃ悪いし、ここはひとつはっきりと｢｢。†",
+    ("いつまでも冾期待を抱かせたままじ痰ゃ悪いし、ここはひとつはっきりと｢｢。",
     ""),
-    # How long will it last forever keeps your hopes up, so here's a clear ".†
+    # How long will it last forever keeps your hopes up, so here's a clear ".
 
-    ("「とりあえず先に言っておくけど、オレはこのクラブに入體る気なんてないから」†",
+    ("「とりあえず先に言っておくけど、オレはこのクラブに入體る気なんてないから」",
     ""),
-    # "I'll tell you first, but I don't have any intention of joining this love for banquet" †
+    # "I'll tell you first, but I don't have any intention of joining this love for banquet" 
 
-    ("｢｢って言うべきなんだうけど、この目を見てると言いづらいんだよなぁ。†",
+    ("｢｢って言うべきなんだうけど、この目を見てると言いづらいんだよなぁ。",
     ""),
-    # "I should say "B, but looking at my eyes makes it difficult to say it.†
+    # "I should say "B, but looking at my eyes makes it difficult to say it.
 
     ("「今厓日燗も見学ですか？	それとも…」",
     ""),
@@ -234,9 +234,9 @@ text_array = [
     ""),
     # "No, it's not good, I just stopped by and looked at Aoi Chisho-chan's face on the day..."
 
-    ("オレはぎこちなく笑いながら言った。†",
+    ("オレはぎこちなく笑いながら言った。",
     ""),
-    # I said with awkward laugh.†
+    # I said with awkward laugh.
 
     ("「п私の顔…ですか？」",
     ""),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # Aoi Chisho-chan opens her eyes wide and pees in a squeal.
 
-    ("やがてじわっと頬を染め、視諮を落とす。†",
+    ("やがてじわっと頬を染め、視諮を落とす。",
     ""),
-    # He then began to turn his cheeks into a fluttering light, and leaned over his vision.†
+    # He then began to turn his cheeks into a fluttering light, and leaned over his vision.
 
     ("「か、からかわないでください」",
     ""),
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # "I see, isn't it boring to see B, where I'm practicing fortune?"
 
-    ("葵ち痰ゃんは嘯伏し目がちに目をｌけて聞いた。†",
+    ("葵ち痰ゃんは嘯伏し目がちに目をｌけて聞いた。",
     ""),
-    # Aoi Chisho-yan asked, leaning down and gazemingly.†
+    # Aoi Chisho-yan asked, leaning down and gazemingly.
 
     ("「いや、面猪白いよ。葵ち痰ゃんの練習、見てるだけで飽きないし」",
     ""),
@@ -286,7 +286,7 @@ text_array = [
     ""),
     # "Hmm, Aoi Chisho-chan is the type of girl who rarely does, so I guess I'm interested..."
 
-    ("「滅多に…いないタイプですか？」†",
+    ("「滅多に…いないタイプですか？」",
     ""),
     # "Are you the type who rarely...?"
 
@@ -306,9 +306,9 @@ text_array = [
     ""),
     # Normally the next girl would be in this place, and wouldn't kick or hit a punching bag."
 
-    ("葵ち痰ゃんはぎこちなく笑った。†",
+    ("葵ち痰ゃんはぎこちなく笑った。",
     ""),
-    # Aoi Chisho-chan laughed awkwardly.†
+    # Aoi Chisho-chan laughed awkwardly.
 
     ("「たしかにр私、変﨑わってますから」",
     ""),
@@ -326,9 +326,9 @@ text_array = [
     ""),
     # Oh, did you say something unnecessary?
 
-    ("しかし葵ち痰ゃんは、そんなオレをフォ鴻ローするかのように明髢るく微笑んだ。†",
+    ("しかし葵ち痰ゃんは、そんなオレをフォ鴻ローするかのように明髢るく微笑んだ。",
     ""),
-    # However, Aoi Chisho-yan smiled with a loud smile as if to follow me.†
+    # However, Aoi Chisho-yan smiled with a loud smile as if to follow me.
 
     ("「п私、自分が変だってこと、諱よくわかってるつもりです。まわりのみんなとは、考え方がズレてるっていうか」",
     ""),
@@ -342,9 +342,9 @@ text_array = [
     ""),
     # "But, I still love this kind of thing, and I can't stop thinking..."
 
-    ("葵ち痰ゃんはゆっくり視諮を落とした。†",
+    ("葵ち痰ゃんはゆっくり視諮を落とした。",
     ""),
-    # Aoi Chisho-yan slowly plucked the advice.†
+    # Aoi Chisho-yan slowly plucked the advice.
 
     ("「п私、＝普通の翌女の子が知ってるような楽しいことって、ほとんど知闥りません。クラスの子たちの話陂題には半分以繹上ついていけないし、友だちからもよく『葵はいい損をしてる』って言甯われます…」",
     ""),
@@ -358,9 +358,9 @@ text_array = [
     ""),
     # "And the hot spring too."
 
-    ("真っ直ぐにオレの目を見た。†",
+    ("真っ直ぐにオレの目を見た。",
     ""),
-    # I looked straight at my eyes.†
+    # I looked straight at my eyes.
 
     ("「それでもр私は、＝普通の翌女の子たちの知迺らないｊびをいくつも知ってるつもりです。",
     ""),
@@ -370,9 +370,9 @@ text_array = [
     ""),
     # The feeling of fulfillment that grows little by little every day, and the result of your efforts when you win a lion test match, something that an ordinary child cannot do to you, right?”
 
-    ("「…うん」†",
+    ("「…うん」",
     ""),
-    # "…Yeah"†
+    # "…Yeah"
 
     ("「だから、自分が変だってわかっていても、間違ってるとは思寬わないようにしてるんです。",
     ""),
@@ -382,17 +382,17 @@ text_array = [
     ""),
     # I'm trying to make it seem like I'm just trying to be like that."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「きっと、格闘技をやっているときのр私が、いちばんр私邇らしい気がしますから」",
     ""),
     # "I'm sure I feel like I'm the one who's the one who's tampering with martial arts."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("なんというか、葵ち痰ゃんのふたつの瞳には光が宿っていた。",
     ""),
@@ -406,9 +406,9 @@ text_array = [
     ""),
     # It looked shining brightly.
 
-    ("オレは、そんな葵ち痰ゃんを、かっこいいと思った。†",
+    ("オレは、そんな葵ち痰ゃんを、かっこいいと思った。",
     ""),
-    # I thought Aoi Chisho-yan was cool.†
+    # I thought Aoi Chisho-yan was cool.
 
     ("「あっ、すみませんっ。",
     ""),
@@ -418,9 +418,9 @@ text_array = [
     ""),
     # If I were me, I would suddenly say something like this..."
 
-    ("葵ち痰ゃんは両手を組んで、恥ずかしそうに目を嘯伏せる。†",
+    ("葵ち痰ゃんは両手を組んで、恥ずかしそうに目を嘯伏せる。",
     ""),
-    # Aoi Chisho-yan crossed his arms and leaned down in her eyes shyly.†
+    # Aoi Chisho-yan crossed his arms and leaned down in her eyes shyly.
 
     ("п私はр私邇らしければいい…か。",
     ""),
@@ -434,9 +434,9 @@ text_array = [
     ""),
     # I can clearly understand the name.
 
-    ("いつも一生恊懸命な葵ち痰ゃんが言うからこそ、すごく説得力のある言葉だ。†",
+    ("いつも一生恊懸命な葵ち痰ゃんが言うからこそ、すごく説得力のある言葉だ。",
     ""),
-    # It's a very persuasive word because Aoi Chisho-yan, who is always working hard to do his best to say it.†
+    # It's a very persuasive word because Aoi Chisho-yan, who is always working hard to do his best to say it.
 
     ("「せ、諱先輩、なにか言ってください。そんな、いきなり黙逍らないで」",
     ""),
@@ -446,9 +446,9 @@ text_array = [
     ""),
     # "Sniff, you're shining."
 
-    ("「えっ？」†",
+    ("「えっ？」",
     ""),
-    # "Huh?" †
+    # "Huh?" 
 
     ("「人間ってさ、やっぱ、なにか目標にｌかって頑張ってるときが一番輝いて見えるよな。うん、いまの葵ち痰ゃんがまさにそうだよな。眩しく輝いてるぜ」",
     ""),
@@ -458,9 +458,9 @@ text_array = [
     ""),
     # "S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-S-
 
-    ("葵ち痰ゃんの頬がさらに赤く染まっていく。†",
+    ("葵ち痰ゃんの頬がさらに赤く染まっていく。",
     ""),
-    # Aoi Chisho-ya's cheeks turn redder even more.†
+    # Aoi Chisho-ya's cheeks turn redder even more.
 
     ("「オレは、好きだなー」",
     ""),
@@ -478,9 +478,9 @@ text_array = [
     ""),
     # Ah, it's a tampering, and in that sense, there's no phlegm.
 
-    ("あらら、ちょっとｌ解されそうな言い方をしちまったか。†",
+    ("あらら、ちょっとｌ解されそうな言い方をしちまったか。",
     ""),
-    # Oh, did you say it's probably going to be interpreted as a lucky way?†
+    # Oh, did you say it's probably going to be interpreted as a lucky way?
 
     ("「いや、その、つまり、オレが言いたかったのは｢｢」",
     ""),

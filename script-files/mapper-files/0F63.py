@@ -2,17 +2,17 @@
 # Source file: 0F63.txt
 
 text_array = [
-    ("（４月２０冾日	冝日）閨（雅史の場㍼合）†",
+    ("（４月２０冾日	冝日）閨（雅史の場㍼合）",
     ""),
-    # (April Lion Day 20th Day) (Men's Day) (雅 History Place)†
+    # (April Lion Day 20th Day) (Men's Day) (雅 History Place)
 
     ("やっぱ、驕夜遅くに翌女の子のうちに電話するのは問題があるだう。",
     ""),
     # After all, calling the girl the next day late at night is a question of the question.
 
-    ("てなわけで史だな。†",
+    ("てなわけで史だな。",
     ""),
-    # That's why it's I history.†
+    # That's why it's I history.
 
     ("ポパピ…と。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Yes, it's Sato."
 
-    ("おっ、ビンゴ、雅史本人だ。†",
+    ("おっ、ビンゴ、雅史本人だ。",
     ""),
-    # Oh, Bingo, it's Masochist herself.†
+    # Oh, Bingo, it's Masochist herself.
 
     ("「オレ、」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "Ah, what?"
 
-    ("「じつはな…」†",
+    ("「じつはな…」",
     ""),
-    # "Actually..." †
+    # "Actually..." 
 
     ("やっぱり史は鰍頼りになるぜ。",
     ""),

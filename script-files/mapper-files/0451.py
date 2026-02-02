@@ -2,9 +2,9 @@
 # Source file: 0451.txt
 
 text_array = [
-    ("（志保	好感度イベントＸ）閨（選択綜	３問目	宦○	堰負け）閨（ＳＥ：ピンポンピンポーン）†",
+    ("（志保	好感度イベントＸ）閨（選択綜	３問目	宦○	堰負け）閨（ＳＥ：ピンポンピンポーン）",
     ""),
-    # (Shiho Likeability Event X) (Choice Sou 3rd Tampa Question: Nevy ○ Wrestling) (SE: Ping Pong Pong) †
+    # (Shiho Likeability Event X) (Choice Sou 3rd Tampa Question: Nevy ○ Wrestling) (SE: Ping Pong Pong) 
 
     ("ピンポンピンポーン！",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Well, this is hot b."
 
-    ("「それくらい、あたしも知ってたわよぉ！」†",
+    ("「それくらい、あたしも知ってたわよぉ！」",
     ""),
     # "That's how old I knew about Hou!"
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("…ゲームオーバー。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # Shiho is the best in scoring so far.
 
-    ("つまり、オレの奄負けだ。†",
+    ("つまり、オレの奄負けだ。",
     ""),
-    # In other words, it's a huge loss.†
+    # In other words, it's a huge loss.
 
     ("「梶所詮あんたは、こんなもんよ」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # I'm just frustrated, I'm so excited.
 
-    ("あれだけ大羡口を叩いておきながら…。†",
+    ("あれだけ大羡口を叩いておきながら…。",
     ""),
-    # Despite all the slamming things...†
+    # Despite all the slamming things...
 
     ("「出直してきなさい、…」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("氈勝ちをいいことに、好き勝闖手言ってるよ。†",
+    ("氈勝ちをいいことに、好き勝闖手言ってるよ。",
     ""),
-    # He's taking advantage of his victory and saying his love for him.†
+    # He's taking advantage of his victory and saying his love for him.
 
     ("「あたしは、あたしより強いрヤツを探しに行くわ…」",
     ""),
@@ -94,17 +94,17 @@ text_array = [
     ""),
     # Shiho suddenly said something strange with a serious look on his face.
 
-    ("どっかのプ鴻ロレスラーのモノマネだっけか？†",
+    ("どっかのプ鴻ロレスラーのモノマネだっけか？",
     ""),
-    # Was it a b-impersonation of some other pro-ro-scary banquet?†
+    # Was it a b-impersonation of some other pro-ro-scary banquet?
 
     ("「な〜んてね。…氈勝縁負に勝ったことだし、そそ帰っか？」",
     ""),
     # "What?...I won't win the victory, so should I return to b?!"
 
-    ("「…氈勝闖手にし。この次は奄負けねーぜ」†",
+    ("「…氈勝闖手にし。この次は奄負けねーぜ」",
     ""),
-    # "...I won't lose to Amashi next time." †
+    # "...I won't lose to Amashi next time." 
 
     ("ゲーセンを出たオレたちは、（пヤックはおごらされてから）駅前で別れた。◯",
     ""),

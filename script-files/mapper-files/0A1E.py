@@ -2,9 +2,9 @@
 # Source file: 0A1E.txt
 
 text_array = [
-    ("（Ｂ	そいつ、怖くないぜー。）†",
+    ("（Ｂ	そいつ、怖くないぜー。）",
     ""),
-    # (B That guy isn't scary.)†
+    # (B That guy isn't scary.)
 
     ("「おーい、理緒ちゃん。",
     "Rio,"),
@@ -14,7 +14,7 @@ text_array = [
 
     ("オレは軽く声をかける。",
     "I call lightly to her."),
-    # I called out lightly.†
+    # I called out lightly.
 
     ("だが、",
     "However…"),
@@ -38,7 +38,7 @@ text_array = [
 
     ("そのまま玄太郎に追いかけられ、向こうへいってしまった。",
     "Gentaro is hot on her heels, so they both run somewhere else."),
-    # Gentaro chases after him and goes on a journey.†
+    # Gentaro chases after him and goes on a journey.
 
     ("「…おいおい、大丈夫か」",
     "Man, is she gonna be okay?"),
@@ -46,7 +46,7 @@ text_array = [
 
     ("さすがに心配になって後を追ってみたが、両者とも足が速いらしく、すっかり見えなくなっていた。",
     "I go after them out of concern but they are both so fast that I lose sight of them."),
-    # I was worried and followed him, but both of them and Ho were both quick and completely invisible.†
+    # I was worried and followed him, but both of them and Ho were both quick and completely invisible.
 
     ("「玄太郎によっぽど気に入られてんだな…」",
     "Gentaro really likes her, huh…"),

@@ -2,9 +2,9 @@
 # Source file: 0393.txt
 
 text_array = [
-    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（選択綜Ａ	いっしょに帰うかと誘う）閨（選択綜Ａ	委員長が寂しそうに…）†",
+    ("（智子	回秤数イベント	２Ｆ	ＬＶ１）閨（好感度イベント８を見た）閨（選択綜Ａ	いっしょに帰うかと誘う）閨（選択綜Ａ	委員長が寂しそうに…）",
     ""),
-    # (Tomoko's Scale Event 2F LV1) (See the Likeability Event 8) (Select A invites you to return to the Episode) (Choice A, Chairman looks lonely...) †
+    # (Tomoko's Scale Event 2F LV1) (See the Likeability Event 8) (Select A invites you to return to the Episode) (Choice A, Chairman looks lonely...) 
 
     ("「委員長が寂しそうにしてるから…かな」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Well. For example, when you're resting, you're sitting alone b? His face looks so lonely, even the chicken."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「…クールなｔ少酪女が見せる寂しげな横迚顔。しかもすぐ隣の席だぜ？	オレじ痰ゃなくても、男なら冾放っておけないだ」",
     ""),
@@ -42,15 +42,15 @@ text_array = [
     ""),
     # "Feel"
 
-    ("そう言ってそっぽをｌく委員長だったが、少し顔が赤逅らんでいた。†",
+    ("そう言ってそっぽをｌく委員長だったが、少し顔が赤逅らんでいた。",
     ""),
-    # The chairman said this and ignored him, but his face was a little red.†
+    # The chairman said this and ignored him, but his face was a little red.
 
     ("「つまりくんは、寂しそうにしとるр私を気づかって、〟仲良うしてくれてるわけやな」",
     ""),
     # "Iron-kun noticed me as I looked lonely and "it's a bit of a mess because he's getting along well."
 
-    ("「う〜ん。そう言うと、なんかニャアンスが痰違うんだよな。そうじ痰ゃなくて、寂しそうにしているｔ少酪女を男は無許視できないってことだな」†",
+    ("「う〜ん。そう言うと、なんかニャアンスが痰違うんだよな。そうじ痰ゃなくて、寂しそうにしているｔ少酪女を男は無許視できないってことだな」",
     ""),
     # "Hmm. When I say that, I see that the phlegm is different. It means that men cannot see the phlegm unacceptable, as they don't cleanse the phlegm and look lonely."
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Kaji Ai Henzaki isn't the same, you're a strange guy. You're that."
 
-    ("と言った。†",
+    ("と言った。",
     ""),
-    # He said.†
+    # He said.
 
     ("「え？	変か、オレ？」",
     ""),
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # The chairman said.
 
-    ("「真面目にアホなこと言うてる」†",
+    ("「真面目にアホなこと言うてる」",
     ""),
     # "He's saying stupid things seriously"
 
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "mother"
 
-    ("オレもつられて笑う。†",
+    ("オレもつられて笑う。",
     ""),
-    # I laughed when I was so nervous.†
+    # I laughed when I was so nervous.
 
     ("委員長が笑うとオレは嬉しくなる。",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # I felt a sense of accomplishment that I made the chairman laugh out loud, which rarely made him laugh.
 
-    ("それと同椏時に、この貴重な笑顔を独闢り占めしている優越感がオレを嬉しくさせる。†",
+    ("それと同椏時に、この貴重な笑顔を独闢り占めしている優越感がオレを嬉しくさせる。",
     ""),
-    # At the same time, the sense of superiority that makes me stand out from this precious face makes me excited.†
+    # At the same time, the sense of superiority that makes me stand out from this precious face makes me excited.
 
     ("少し歩いてから、オレは言った。",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "B, b, are you bored of being alone? I'm not going to get bored of it all? I'm not going to get any more friends here and there, "What about phlegm?"”
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「閨手頃なとこで、オレなんかおすすめだぜ？	オレたち、意外と気が№合うだ？」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "...Well, there's no stomping, so there's no stomping. Rather, I think it's the type who can make it with no temptation."
 
-    ("「だ？」†",
+    ("「だ？」",
     ""),
-    # "dab?"†
+    # "dab?"
 
     ("「なんか調子ええな」",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # "Heheh."
 
-    ("と笑った。†",
+    ("と笑った。",
     ""),
-    # I laughed.†
+    # I laughed.
 
     ("そして、",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # "Well, I'll think about it."
 
-    ("いたずらっぽい笑顔で言った。†",
+    ("いたずらっぽい笑顔で言った。",
     ""),
-    # He said with a mischievous smile.†
+    # He said with a mischievous smile.
 
     ("そのうちクラスのやつらの前ででも、自然とこの笑顔ができるようになるといい。",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # This will shorten the next distance between you and everyone, and even the chairman will not have to feel lonely.
 
-    ("少しずつでもいいと思う。†",
+    ("少しずつでもいいと思う。",
     ""),
-    # I think it would be good to have some small amounts of hot water.†
+    # I think it would be good to have some small amounts of hot water.
 
     ("「ほんま、変なрヤツ窿やな、くんは」",
     ""),

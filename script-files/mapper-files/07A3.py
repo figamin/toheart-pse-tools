@@ -2,17 +2,17 @@
 # Source file: 07A3.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	ゲーセンの話陂題）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	ゲーセンの話陂題）",
     ""),
-    # (Kotone, Scales Event PS) (Chone: Academic Center talk)†
+    # (Kotone, Scales Event PS) (Chone: Academic Center talk)
 
     ("「｢｢っつう感じで、オレたちが行くとついバトルになっちまんだよ」",
     ""),
     # ""The 'Tsuu Kanji' and when we go, I end up crying."
 
-    ("ゲーセンバトルの話なんかが、琴音ち痰ゃんには珍しいだうと話して聞かせた。†",
+    ("ゲーセンバトルの話なんかが、琴音ち痰ゃんには珍しいだうと話して聞かせた。",
     ""),
-    # I told him about the story of the game center battle crying, which is rare for Kotone Chisho-yan.†
+    # I told him about the story of the game center battle crying, which is rare for Kotone Chisho-yan.
 
     ("「…わたし、ゲームセンターって怖いとこだと思ってました」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Yes... And it's silly."
 
-    ("「なんかすげえ目で見てんだな、琴音ち痰ゃんは…」†",
+    ("「なんかすげえ目で見てんだな、琴音ち痰ゃんは…」",
     ""),
     # "You're looking at me with a great eye, Kotone Chishonan..."
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "Arcades are called hangouts for the bad guys who are having a banquet b? Apparently it was really like that before the people who were ecstatic were born."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「けど、いまは痰違うぜ？	ゲーセンは小さな遊園地ってノリかな？」",
     ""),
@@ -62,17 +62,17 @@ text_array = [
     ""),
     # "Yeah. Do you not know that or don't want to admit it? How long will the adults be talking about the old days of the world?"
 
-    ("「そうなんですか…」†",
+    ("「そうなんですか…」",
     ""),
-    # "Is that so..." †
+    # "Is that so..." 
 
     ("「まあ琴音ち痰ゃんの言うように、多少はうるさいとこだけどな」",
     ""),
     # "Well, like Kotone Chisho-yan said, he's a bit noisy."
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("「やっぱ苦闍手か？	そういう場鰹所って」",
     ""),
@@ -90,17 +90,17 @@ text_array = [
     ""),
     # "Thank you... And if it's with you, you'll be happy to have a smack and a smack together."
 
-    ("琴音ち痰ゃんは小さく微笑んだ。†",
+    ("琴音ち痰ゃんは小さく微笑んだ。",
     ""),
-    # Kotone Chisho-chan smiled softly.†
+    # Kotone Chisho-chan smiled softly.
 
     ("「こっちこそサンキャ。そんときは誘嵭わせてもらうぜ」",
     ""),
     # "This is the one who is Sankya. I'll invite you to come and get a hot pot."
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("う〜ん…、やっぱ琴音ち痰ゃんはゲーセンが苦闍手なのか…。",
     ""),

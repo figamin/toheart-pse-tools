@@ -2,9 +2,9 @@
 # Source file: 00D7.txt
 
 text_array = [
-    ("（システムイベント	テスト発表２）閨（冝放課繪後）閨（教室１	休み桙時間）†",
+    ("（システムイベント	テスト発表２）閨（冝放課繪後）閨（教室１	休み桙時間）",
     ""),
-    # (System Event Test Announcement 2) (After school) (Classroom 1, closed hours)†
+    # (System Event Test Announcement 2) (After school) (Classroom 1, closed hours)
 
     ("さっきの授業を最纃後に、テストの嘯答案用落がすべて返ってきた。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # This is what my current achievements are like.
 
-    ("諱取りあえず、平均点を計算してみるか。†",
+    ("諱取りあえず、平均点を計算してみるか。",
     ""),
-    # Let's try calculating the average score without asking for your name.†
+    # Let's try calculating the average score without asking for your name.
 
     ("・",
     ""),
@@ -34,8 +34,8 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
 ]

@@ -2,9 +2,9 @@
 # Source file: 0081.txt
 
 text_array = [
-    ("（冝期槙末テスト	１冾日目）閨（選択綜	楽汪勝だぜ）†",
+    ("（冝期槙末テスト	１冾日目）閨（選択綜	楽汪勝だぜ）",
     ""),
-    # (First day of the final test for the ritual) (Selected, Rakuwang wins)†
+    # (First day of the final test for the ritual) (Selected, Rakuwang wins)
 
     ("「ちょいもんさ。楽汪勝だったぜ」",
     ""),
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "Well, I guess it was worth the effort you put in with me."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「それにしても、一驤夜漬けにしてこのでき、もしかしてオレって、真面目にやったらかなりスゲーんじ痰ゃねーか？」",
     ""),
     # "And then, if you soak it in the evening, you can do it, and if you're going to do it seriously, you'll have a lot of phlegm?"
 
-    ("「もう、調子いいんだから」†",
+    ("「もう、調子いいんだから」",
     ""),
     # "I'm feeling good already"
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "пI'm... well, maybe."
 
-    ("いつもどおりの曖椁な嘯答えが返ってきた。†",
+    ("いつもどおりの曖椁な嘯答えが返ってきた。",
     ""),
-    # When did I get a vague answer that was just like a hot one?†
+    # When did I get a vague answer that was just like a hot one?
 
     ("「お前がそういうからには、かなり上出女なほうなんだ」",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Be more confident."
 
-    ("「うん。そうだね」†",
+    ("「うん。そうだね」",
     ""),
     # "Yeah. That's right."
 

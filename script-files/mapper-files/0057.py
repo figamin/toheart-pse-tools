@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Even if you sing so much, you won't be feeling bad at all.
 
-    ("＝普段から、でっけー声出してるから、声帯の訓綷練燉もばっちりってことか？†",
+    ("＝普段から、でっけー声出してるから、声帯の訓綷練燉もばっちりってことか？",
     ""),
-    # =I usually make a loud noise, so does that mean that the vocal cords are also perfect?†
+    # =I usually make a loud noise, so does that mean that the vocal cords are also perfect?
 
     ("オレは駄目だ。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # It's a banquet and a banquet right now.
 
-    ("今厓日はよくうがいしとこう。†",
+    ("今厓日はよくうがいしとこう。",
     ""),
-    # I'll gargle it often on the day.†
+    # I'll gargle it often on the day.
 
     ("「がらがらがらがらがら…」",
     ""),

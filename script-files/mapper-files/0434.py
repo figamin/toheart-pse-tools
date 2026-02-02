@@ -2,9 +2,9 @@
 # Source file: 0434.txt
 
 text_array = [
-    ("（冝日付指定式回秤数型ＶＳイベント	志保ＶＳあかり）閨（選択綜	行く）†",
+    ("（冝日付指定式回秤数型ＶＳイベント	志保ＶＳあかり）閨（選択綜	行く）",
     ""),
-    # (Style Date-Registration Type Scales VS Event Shiho VS Akari) (Select Sogo) †
+    # (Style Date-Registration Type Scales VS Event Shiho VS Akari) (Select Sogo) 
 
     ("「いいねぇ…。",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I wonder if my phlegm will go too."
 
-    ("「そーとｌまれば、レッツ辜らゴー！」†",
+    ("「そーとｌまれば、レッツ辜らゴー！」",
     ""),
     # "If you're going to sing, let's go!"
 
@@ -26,15 +26,15 @@ text_array = [
     ""),
     # For a while, Akari and Shiho have been slurping and squelching.
 
-    ("男が理想にするタイプの翌女性恊像の話陂題だ。†",
+    ("男が理想にするタイプの翌女性恊像の話陂題だ。",
     ""),
-    # This is the story of the image of the next woman who is the type that men would make their ideals.†
+    # This is the story of the image of the next woman who is the type that men would make their ideals.
 
     ("「｢｢でしょ〜？	男ってわがままよねぇ」",
     ""),
     # "" "An slut? Men are selfish."
 
-    ("「ふふふっ。…でも、男の人の好みもあると思うよ」†",
+    ("「ふふふっ。…でも、男の人の好みもあると思うよ」",
     ""),
     # "Hehehe... And I think there are also some hot springs and some hot springs that men like."
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "I'd like to ask you, but which would you prefer, the girl who is good at home and often notices recurring things, or the girl who can't do home and can't do home and can't do home or the girl who can't do it, or the girl who can't do it all, casually?
 
-    ("なんて聞いてきた。†",
+    ("なんて聞いてきた。",
     ""),
-    # What did you hear?†
+    # What did you hear?
 
     ("「は？」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # Shiho speaks in a heartless, humorous way.
 
-    ("あかりのほうを見骭ると、あいつまでなにか冾期待したような目で見てる。†",
+    ("あかりのほうを見骭ると、あいつまでなにか冾期待したような目で見てる。",
     ""),
-    # He looked over at Akari and looked at him with a vision of expectation until that moment.†
+    # He looked over at Akari and looked at him with a vision of expectation until that moment.
 
     ("この質竡問はつまり…、遠まわしに言ってるようだが、ズバリ、ふたりのうちどっちかを選べと言ってるんだよな？",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # I took a breath.
 
-    ("ふたりはじっとオレを見つめてる。†",
+    ("ふたりはじっとオレを見つめてる。",
     ""),
-    # The two of them stare at me.†
+    # The two of them stare at me.
 
     ("諱よ〜し、ここらでハッキリと言ってやうじ痰ゃねえか。",
     ""),

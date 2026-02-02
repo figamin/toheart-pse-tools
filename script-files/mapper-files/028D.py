@@ -2,9 +2,9 @@
 # Source file: 028D.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（早書店蕪＆塾）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（早書店蕪＆塾）",
     ""),
-    # (Seri°Kawaii Scale Number Event Return Road LV1)Seri (Sai ​​Bookstore Kabu & School)†
+    # (Seri°Kawaii Scale Number Event Return Road LV1)Seri (Sai ​​Bookstore Kabu & School)
 
     ("商店街を歩いているときのことだ。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # The old bookstore is always casually talking too much, but on the day of the day, when I looked around, I found a familiar face.
 
-    ("あれは、＠栖瑞謳先輩じ痰ゃないか。†",
+    ("あれは、＠栖瑞謳先輩じ痰ゃないか。",
     ""),
-    # That's @Sumisui Senpai, isn't it?†
+    # That's @Sumisui Senpai, isn't it?
 
     ("へえ。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # It seems like it's a huge collection of potatoes.
 
-    ("声をかけるのがためらわれる。†",
+    ("声をかけるのがためらわれる。",
     ""),
-    # He hesitates to call out to him.†
+    # He hesitates to call out to him.
 
     ("うーむ。",
     ""),

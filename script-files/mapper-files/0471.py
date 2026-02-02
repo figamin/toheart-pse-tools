@@ -2,11 +2,11 @@
 # Source file: 0471.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	カルー堰ラ）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	カルー堰ラ）",
     ""),
-    # (Shiho Scales Event PS) (Choose-so Kakyuru-yura)†
+    # (Shiho Scales Event PS) (Choose-so Kakyuru-yura)
 
-    ("「カルー堰ラだ？」†",
+    ("「カルー堰ラだ？」",
     ""),
     # "It's Kaganru Weirla b?"
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "...When I ride the Kakuruuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 
-    ("それくらいの人ならもっと高い車搦持ってるだ。†",
+    ("それくらいの人ならもっと高い車搦持ってるだ。",
     ""),
-    # Those who are that kind of person would have a higher car buying experience.†
+    # Those who are that kind of person would have a higher car buying experience.
 
     ("「そうよっ。",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Who are you apologizing to?"
 
-    ("「カルー堰ラロってる人。でも、あたしはそう思ってんのよ！」†",
+    ("「カルー堰ラロってる人。でも、あたしはそう思ってんのよ！」",
     ""),
     # "They're the ones who are crying and dying. And I think so too!"
 

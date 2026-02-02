@@ -2,9 +2,9 @@
 # Source file: 08F4.txt
 
 text_array = [
-    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	）†",
+    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	）",
     ""),
-    # (Remy's exam return day PS) (selection)†
+    # (Remy's exam return day PS) (selection)
 
     ("「信じないわけじ痰ゃねえな」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Which one doesn't have a hot pot?"
 
-    ("「わからないから、おもしいのかもな」†",
+    ("「わからないから、おもしいのかもな」",
     ""),
     # "I don't know, so I wonder if it's a hot spring, or something like that."
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "...I understand!"
 
-    ("「なんだ、それだけでわかるのか？」†",
+    ("「なんだ、それだけでわかるのか？」",
     ""),
     # "What, does that mean you can tell from that?"
 

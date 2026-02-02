@@ -2,25 +2,25 @@
 # Source file: 0602.txt
 
 text_array = [
-    ("（マルチ	冝日付イベント３）閨（４月１５冾日の夕菶方）閨（ゲーセン）†",
+    ("（マルチ	冝日付イベント３）閨（４月１５冾日の夕菶方）閨（ゲーセン）",
     ""),
-    # (Muryuruchi Date Event 3) (Arcade) (Arcade) †
+    # (Muryuruchi Date Event 3) (Arcade) (Arcade) 
 
     ("その冾日の帰闍り、オレはゲーセンに寄って、ぶらぶらと暇をつぶした。",
     ""),
     # On that day, I stopped by the arcade and killed my time by strolling around.
 
-    ("適俣当に遊んだし、小銭熨も使い果たしたので店を出髀ると、おもてｌかいにあるバス窿停で、見知った顔を見かけた。†",
+    ("適俣当に遊んだし、小銭熨も使い果たしたので店を出髀ると、おもてｌかいにあるバス窿停で、見知った顔を見かけた。",
     ""),
-    # I had played with Tomimatato and had run out of coin gifts, so I left the store and saw a familiar face at the bus stop on Ohomotei.†
+    # I had played with Tomimatato and had run out of coin gifts, so I left the store and saw a familiar face at the bus stop on Ohomotei.
 
     ("その冾日の帰闍り、オレはゲーセンに寄って、ぶらぶらと暇をつぶした。",
     ""),
     # On that day, I stopped by the arcade and killed my time by strolling around.
 
-    ("適俣当に遊んだし、小銭熨も使い果たしたので店を出髀ると、おもてｌかいにあるバス窿停で、見知った顔を見かけた。†",
+    ("適俣当に遊んだし、小銭熨も使い果たしたので店を出髀ると、おもてｌかいにあるバス窿停で、見知った顔を見かけた。",
     ""),
-    # I had played with Tomimatato and had run out of coin gifts, so I left the store and saw a familiar face at the bus stop on Ohomotei.†
+    # I had played with Tomimatato and had run out of coin gifts, so I left the store and saw a familiar face at the bus stop on Ohomotei.
 
     ("特徴的な耳のｏ闖り。",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # When she noticed the voice, Ruchi cried over me.
 
-    ("「あっ、さん！」†",
+    ("「あっ、さん！」",
     ""),
     # "Ah, sir!"
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "Bus? Is Makruchi a bus commuter?"
 
-    ("「はい。ここから出髀るバスは、＠栖瑞電工の研結葛所に直通してるんです」†",
+    ("「はい。ここから出髀るバスは、＠栖瑞電工の研結葛所に直通してるんです」",
     ""),
     # "Yes. The bus that comes out from here runs directly to @Suizu Electric's Kenyukusho."
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # At that time,
 
-    ("「ん？」†",
+    ("「ん？」",
     ""),
-    # "yeah?"†
+    # "yeah?"
 
     ("マルチの横にもうひとり、見慣れない顔がいることに気がついた。",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # The next girl, who was wearing the Sanshi's uniform of the next female high school student, looked over, and just like the girl, she was covered in a huge throbbing throbbing.
 
-    ("ということは、まさかこの子燻も。†",
+    ("ということは、まさかこの子燻も。",
     ""),
-    # That means I can't believe this baby is smoked too.†
+    # That means I can't believe this baby is smoked too.
 
     ("「あっ、この方はですね…」",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # The girl, who had been riding the famous Seragata Rio, slowly bowed her carefully.
 
-    ("間違いない、マルチと同じ≠メイド鴻ロボだ。†",
+    ("間違いない、マルチと同じ≠メイド鴻ロボだ。",
     ""),
-    # It must be a bit shaky, the same as Maid Korobo.†
+    # It must be a bit shaky, the same as Maid Korobo.
 
     ("「マルチの友だちか？」",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # "Yes, that's right. I'm friends, and I have a relationship with him like a sister, so I have a hot topic."
 
-    ("と、マルチは嘯答えた。†",
+    ("と、マルチは嘯答えた。",
     ""),
-    # Makruchi replied.†
+    # Makruchi replied.
 
     ("「",
     ""),
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "Wow, is that famous O-san school?"
 
-    ("「はい。優秀なセリオさんには、イ＜メージもピッタリだと思います」†",
+    ("「はい。優秀なセリオさんには、イ＜メージもピッタリだと思います」",
     ""),
     # "Yes. I think the image is perfect for the excellent Segata Rio."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # Apparently so."
 
-    ("「まあ、それはわからないでもないな」†",
+    ("「まあ、それはわからないでもないな」",
     ""),
     # "Well, I don't know that and I don't have any hot water."
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "I see."
 
-    ("「｢｢で、今回はわたしと、同椏時開発されたセリオさんが学校へ通っているわけです」†",
+    ("「｢｢で、今回はわたしと、同椏時開発されたセリオさんが学校へ通っているわけです」",
     ""),
     # "So, this time it's about Segata Rio, who was developed at the same time as Me, attending school."
 
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "Yes. And it's hard to believe that Hou was developed at the same time, so it's amazing that he's a huge woman."
 
-    ("「なにがどうすごいんだ？」†",
+    ("「なにがどうすごいんだ？」",
     ""),
     # "What's so amazing?"
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # Segata Rio said himself.
 
-    ("「…なんだそれは？」†",
+    ("「…なんだそれは？」",
     ""),
     # "...What is that?"
 
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "By receiving data from satellites, Segata Rio can quickly become a pro-Boyant profession."
 
-    ("「どういうことだ？」†",
+    ("「どういうことだ？」",
     ""),
     # "What does that mean?"
 
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # "For example, if you receive a request from <<Fukukata of the Loser, you will immediately search for it and receive the data on "Fukukata" via artificial satellites.This will allow you to enjoy the flavor of a top-class restaurant with a taste that is not inferior to that of a top-class restaurant."
 
-    ("「ほほう」†",
+    ("「ほほう」",
     ""),
-    # "Hah" †
+    # "Hah" 
 
     ("「＠栖瑞のデータベースには、料摎理の項目だけでも、世界１２０カ巣国、約８０００種類に及ぶ料摎理のデータが登録されています」",
     ""),
@@ -254,21 +254,21 @@ text_array = [
     ""),
     # "So, if Segata Rio is at home alone, he won't have to go to the A-highest store."
 
-    ("「そり痰ゃすげーな」†",
+    ("「そり痰ゃすげーな」",
     ""),
-    # "The phlegm is amazing" †
+    # "The phlegm is amazing" 
 
     ("「その他にも、たとえば、お勉強のデータを受け取骼ると、超一流の家薗教師にもなっち痰ゃうし、おモ買いものを任せても、最短拠ルートで必要な物をそえち痰ゃうんです」",
     ""),
     # "In addition, when you receive the data from your study, you will be able to get the hot springs to the top-class teacher, who is a very discreet teacher, and you will be able to buy hot springs and buy hot springs, and you will have to use the shortest possible route to find the things you need."
 
-    ("「はあ、そり痰ゃすげ〜な。なんだかこれまで発粕рｳれた≠メイド鴻ロボたちの立齬場がないじ痰ゃねーか」†",
+    ("「はあ、そり痰ゃすげ〜な。なんだかこれまで発粕рｳれた≠メイド鴻ロボたちの立齬場がないじ痰ゃねーか」",
     ""),
     # "Ah, it's amazing that the phlegm has been released. Is it no match for the maids, Korobo, who have been making a comeback so far, so there's no phlegm?"
 
-    ("「…そうなんです。セリオさんに比べると、わたしなんか、なにもできなくて。お料摎理燉も全然得意じ痰ゃないし、お使いに出ても迷子になっち痰ゃうし…。セリオさんは、駅から電話して、研結葛所の方に迎えにｗてもらったりはしませんし」†",
+    ("「…そうなんです。セリオさんに比べると、わたしなんか、なにもできなくて。お料摎理燉も全然得意じ痰ゃないし、お使いに出ても迷子になっち痰ゃうし…。セリオさんは、駅から電話して、研結葛所の方に迎えにｗてもらったりはしませんし」",
     ""),
-    # "...That's right. When I compare it to Segata Rio, I can't do anything about it. I'm not good at paying for anything, and I can't even get phlegm from the errand and get lost in the phlegm... Segata Rio calls from the station and picks me up at Fukukata in Kenyukusho lol and doesn't get a hot pot."†
+    # "...That's right. When I compare it to Segata Rio, I can't do anything about it. I'm not good at paying for anything, and I can't even get phlegm from the errand and get lost in the phlegm... Segata Rio calls from the station and picks me up at Fukukata in Kenyukusho lol and doesn't get a hot pot."
 
     ("マルチが落ち桙込むと、セリオがポンポンとその肩を叩いた。",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("うーん、香ロボット同士に芽生えた友﨤情か。†",
+    ("うーん、香ロボット同士に芽生えた友﨤情か。",
     ""),
-    # Hmm, is this friend's feelings that have emerged among the incense robots?†
+    # Hmm, is this friend's feelings that have emerged among the incense robots?
 
     ("「だからセリオさんは、今年の春の高ロボットショーで、最熏も高注目された高ロボットなんです」",
     ""),
@@ -290,7 +290,7 @@ text_array = [
     ""),
     # "Whoa, why were such a great high robot and Makkuruchi tested together?"
 
-    ("「わたしとセリオさんのどちらか優秀なほうが次の≠メイン商品になるそうです」†",
+    ("「わたしとセリオさんのどちらか優秀なほうが次の≠メイン商品になるそうです」",
     ""),
     # "It seems that the best one, either me or Segata Rio, will be the next main product."
 
@@ -302,7 +302,7 @@ text_array = [
     ""),
     # "That's right, but after all, it's more of a friend than a weir Raiba cry. I guess that's the case in development, but I don't think that's the case."
 
-    ("「友だちでもあり、堰ライバルでもあるか…。なかなかいい関係じ痰ゃねえか」†",
+    ("「友だちでもあり、堰ライバルでもあるか…。なかなかいい関係じ痰ゃねえか」",
     ""),
     # "I'm friends, I'm also a hot spring, I'm also a hot spring, I'm also a hot spring... Is it a pretty good relationship and phlegm?"
 
@@ -314,7 +314,7 @@ text_array = [
     ""),
     # Me..."
 
-    ("「いやぁ、マルチだって十分謨よく出女てると思うぜ。近葛所の春木さん家にいる≠メイド鴻ロボなんてさ、すげー堰初叝期のこのрヤツで、箱にタイсヤがついたようなデザインなんだけど、あり痰ゃひどいもんだぜ」†",
+    ("「いやぁ、マルチだって十分謨よく出女てると思うぜ。近葛所の春木さん家にいる≠メイド鴻ロボなんてさ、すげー堰初叝期のこのрヤツで、箱にタイсヤがついたようなデザインなんだけど、あり痰ゃひどいもんだぜ」",
     ""),
     # "I think even Mad Ruchi is a woman who is very good at appearing in the house of Haruki in Chikazusho. Maid Korobo is a fantastic guy from the first day of the dam, and it has a design that looks like a yaa on the box, but it's a terrible phlegm."
 
@@ -326,9 +326,9 @@ text_array = [
     ""),
     # "It's a type of first-time weave type, so it doesn't have high-quality functions, and it's often a mess, so Haruki-san keeps scolding me for the first time."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「謝骼るときも、『ａモウシ純ワケゴザイマセン』って、も機械音声で、それが神経逆なでするらしく、春木さんの怒體ること怒體ること。",
     ""),
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # Every day, I kick my body.
 
-    ("「そ、そんな…」†",
+    ("「そ、そんな…」",
     ""),
     # "Oh, that's not..."
 
@@ -346,9 +346,9 @@ text_array = [
     ""),
     # "Then the self-defense function works and they say things like, 'Oh no ya <Metekudasai'". That's what makes me get annoyed again, and I'm kicking it all out."
 
-    ("「ひ、ひどいです」†",
+    ("「ひ、ひどいです」",
     ""),
-    # "Hmm, that's terrible" †
+    # "Hmm, that's terrible" 
 
     ("「蹴髀る度に『タダチニсヤ＜メテクダサイ』だ。そしたら、ムカついてまた蹴髀る。するとまた『タダチニ…』",
     ""),
@@ -358,11 +358,11 @@ text_array = [
     ""),
     # There's no more Kigatari."
 
-    ("「…あうぅ；」†",
+    ("「…あうぅ；」",
     ""),
-    # "...Ahhh;" †
+    # "...Ahhh;" 
 
-    ("「でもそいつ、じつは頑芒丈さだけは超一流で、ボディもあちこちへこんでるけど、しっかり元気に働いてるぜ。捨てようにも、メ買うときに組んだ８００怩万円の高ローンがまだ残ってるらしく、ムカついて捨てられないんだとさ。あれに比べり痰ゃ、マルチも超ｒ高性能だぜ」†",
+    ("「でもそいつ、じつは頑芒丈さだけは超一流で、ボディもあちこちへこんでるけど、しっかり元気に働いてるぜ。捨てようにも、メ買うときに組んだ８００怩万円の高ローンがまだ残ってるらしく、ムカついて捨てられないんだとさ。あれに比べり痰ゃ、マルチも超ｒ高性能だぜ」",
     ""),
     # "Then it is actually a top-class player in terms of its sturdy height, and the body lining is dented everywhere, but it's working well. It seems that the 800,000 yen high loan I set up when I bought the item is still there, so I'm getting annoyed and can't throw it away. I'm comparing it to that, and my slutty thud is super high-performance."
 
@@ -378,9 +378,9 @@ text_array = [
     ""),
     # "Ma, Ma, Ruchi...?"
 
-    ("いつの間にやら、マルチはぼぼと涙をこぼし、ひっくひっくとモいていた。†",
+    ("いつの間にやら、マルチはぼぼと涙をこぼし、ひっくひっくとモいていた。",
     ""),
-    # Before I knew it, Makruchi had been crying tears in silence, crying quickly.†
+    # Before I knew it, Makruchi had been crying tears in silence, crying quickly.
 
     ("「いや、べつにお前のことじ痰ゃないんだぞ。その、そういう痰例燉もあるから、マルチは全然ダ＜メなんかじ痰ゃないって話で…」",
     ""),
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "And, and surprisingly, Haruki-san, who was also fighting over that high robot in great numbers."
 
-    ("「…そ、そうなんですか？」†",
+    ("「…そ、そうなんですか？」",
     ""),
     # "...Is that so?"
 
@@ -402,9 +402,9 @@ text_array = [
     ""),
     # "That's right. So don't cry anymore."
 
-    ("「は、はい…」†",
+    ("「は、はい…」",
     ""),
-    # "Yes..."†
+    # "Yes..."
 
     ("・",
     ""),
@@ -422,23 +422,23 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("ほどなく停留蒲所にバスが桙到湯し、ふたりはそれに乗って研結葛所へと帰っていった。",
     ""),
     # Soon the bus reached the stop of the bus, and the two of them took it and headed back to Kenyukusho.
 
-    ("最新型の高ロボットふたりが№仲良く帰驪る姿は、なんとなく微笑ましいものがある。†",
+    ("最新型の高ロボットふたりが№仲良く帰驪る姿は、なんとなく微笑ましいものがある。",
     ""),
-    # The sight of the two latest high-class robots returning to their homes in great harmony is somehow heartwarming.†
+    # The sight of the two latest high-class robots returning to their homes in great harmony is somehow heartwarming.
 
     ("それにしてもあのふたり、端から見てると、まるっきり優剽等生とおちこぼれって感じだよなー。",
     ""),
     # But when you look at the two of them from the outside, it looks like they're completely overwhelmed by the students.
 
-    ("「ぷぷぷ…」†",
+    ("「ぷぷぷ…」",
     ""),
     # "Puppu..."
 

@@ -2,9 +2,9 @@
 # Source file: 01A2.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ｂ	やっぱ猫だな）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ｂ	やっぱ猫だな）",
     ""),
-    # (Akari Scales Event: Departing from school) (Select B: It's a cat after all)†
+    # (Akari Scales Event: Departing from school) (Select B: It's a cat after all)
 
     ("「猫だな」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "First of all, there's no need to worry about smoking. It's easy."
 
-    ("「…もう」†",
+    ("「…もう」",
     ""),
-    # "…already"†
+    # "…already"
 
     ("「それに、いかにも小型の肉食獣って感じでかっこいいしさ」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Well, there's also the fact that it's cute. In either sense, I like Hot. And I hate cats who don't even take care of them."
 
-    ("「甘えてこない猫？」†",
+    ("「甘えてこない猫？」",
     ""),
     # "A cat who doesn't take pampering?"
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "You're kidding me, bastard."
 
-    ("「もう…」†",
+    ("「もう…」",
     ""),
-    # "already…"†
+    # "already…"
 
     ("それから、オレとあかりはいいと店燗内の動物を見て回った。◯",
     ""),

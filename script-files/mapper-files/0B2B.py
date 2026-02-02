@@ -2,9 +2,9 @@
 # Source file: 0B2B.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント３	縺後半）閨（綾∴香	左	＝普通）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント３	縺後半）閨（綾∴香	左	＝普通）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 3, the second half of the month) (Aya∴Ka, left = normal)†
+    # (Aya∴Ka challenges Aya∴Ka, event 3, the second half of the month) (Aya∴Ka, left = normal)
 
     ("「じ痰ゃ、さっそく始めましょうか」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "yes"
 
-    ("ふたりはセリオからグ鴻ローブを受け取り、閨手にはめた。†",
+    ("ふたりはセリオからグ鴻ローブを受け取り、閨手にはめた。",
     ""),
-    # The two received the Ghoon robe from Segata Rio and put it in their hand.†
+    # The two received the Ghoon robe from Segata Rio and put it in their hand.
 
     ("「こうして勝縁負するのも、今厓日で３回目ね」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "I'm relieved. It's the end of the day now."
 
-    ("「そう簡単にいくかしらね？	そそр私の強さがわかってきたんじ痰ゃない？」†",
+    ("「そう簡単にいくかしらね？	そそр私の強さがわかってきたんじ痰ゃない？」",
     ""),
     # "I wonder if it'll go that easy, right? I'm starting to understand how strong I am, so don't I have any phlegm?"
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "If you don't know, it's fine."
 
-    ("「？」†",
+    ("「？」",
     ""),
-    # "?"†
+    # "?"
 
     ("「ま、前回、前々回は、ちょっと無謀すぎたからな。今厓日は慎重にいかせてもらうぜ」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "I know. Well, look, b."
 
-    ("オレは両手のグ鴻ローブをぶつけて言った。†",
+    ("オレは両手のグ鴻ローブをぶつけて言った。",
     ""),
-    # Ogere said, slamming his hands on the Ghoon robe.†
+    # Ogere said, slamming his hands on the Ghoon robe.
 
     ("「じ痰ゃあ、いいわよ。セリオ、お願い」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # The two of them raised their fist while simultaneously meeting.
 
-    ("「｢｢ファイト」†",
+    ("「｢｢ファイト」",
     ""),
-    # ""Fight"†
+    # ""Fight"
 
     ("オレは開始と同椏時に足を使い、移動する。",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # I'm getting better."
 
-    ("「おかげさまで」†",
+    ("「おかげさまで」",
     ""),
-    # "Thanks to you" †
+    # "Thanks to you" 
 
     ("「けど｢｢」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # It fired a flash of light on the left.
 
-    ("辛うじて腕でブ鴻ロックしたものの、衝ｏ撃で後撃へ押されてしまう。†",
+    ("辛うじて腕でブ鴻ロックしたものの、衝ｏ撃で後撃へ押されてしまう。",
     ""),
-    # Although he barely locked his arm around, he was pushed by a shock after being hit.†
+    # Although he barely locked his arm around, he was pushed by a shock after being hit.
 
     ("「ほらほらっ、こんな程度で足を止めない。グラつくのはフット純ワークが甘い証衷拠諡よ」",
     ""),
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("「じ痰ゃ、行くわよ」†",
+    ("「じ痰ゃ、行くわよ」",
     ""),
     # "You'll go, phlegm."
 
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # It bends like a whip, yet has a heavy stimulus.
 
-    ("女のパンチかよ、これが。†",
+    ("女のパンチかよ、これが。",
     ""),
-    # Is this a bather's punch?†
+    # Is this a bather's punch?
 
     ("スパアァーーーンッ！",
     ""),
@@ -222,9 +222,9 @@ text_array = [
     ""),
     # As expected, it's just a defensive stone to be honest.
 
-    ("こっちからも手を出さないと。†",
+    ("こっちからも手を出さないと。",
     ""),
-    # I have to start using Hot from here too.†
+    # I have to start using Hot from here too.
 
     ("諱よし、氈次の左ジャャブをパリー（払い怩除け）して、反ｔ撃するっ。",
     ""),

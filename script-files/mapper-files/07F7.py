@@ -2,9 +2,9 @@
 # Source file: 07F7.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	いっしょに帰うぜ）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	いっしょに帰うぜ）",
     ""),
-    # (Kotone, the balance event PS) (Select So, I'll return to the simulator)†
+    # (Kotone, the balance event PS) (Select So, I'll return to the simulator)
 
     ("「いっしょに帰うぜ」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "...Ah, yes."
 
-    ("琴音ち痰ゃんはこくんとうなずいた。†",
+    ("琴音ち痰ゃんはこくんとうなずいた。",
     ""),
-    # Kotone Chisho-chan nodded with Ko-kun.†
+    # Kotone Chisho-chan nodded with Ko-kun.
 
     ("・",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「あっ…」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # As the two of them were walking around together, Kotone Chisho-yan let out a small cry.
 
-    ("「え、なに？」†",
+    ("「え、なに？」",
     ""),
-    # "What?" †
+    # "What?" 
 
     ("「…猫です」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # As Fukukata watches Kotone Chisho-yan, I see, a cat with brown thorns on a white background is walking around.
 
-    ("そっと近寄驫ると、琴音ち痰ゃんはかがみ桙込んで右濶手をひらひらさせた。†",
+    ("そっと近寄驫ると、琴音ち痰ゃんはかがみ桙込んで右濶手をひらひらさせた。",
     ""),
-    # He gently approached him, and Kotone Chisho-chan bent over and flicked his right hand.†
+    # He gently approached him, and Kotone Chisho-chan bent over and flicked his right hand.
 
     ("おっ、猫が反梍応した。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # A cry of voice made the cat approach Kotone Chisho-chan.
 
-    ("足元までやってきて、体をこすりつけた。†",
+    ("足元までやってきて、体をこすりつけた。",
     ""),
-    # He began to tamper with me to my feet and rubbed my body.†
+    # He began to tamper with me to my feet and rubbed my body.
 
     ("ニャャ〜ン。",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Likes"
 
-    ("おっ、今度はこっちへ寄ってきたぞ。†",
+    ("おっ、今度はこっちへ寄ってきたぞ。",
     ""),
-    # Oh, this time I've come over here.†
+    # Oh, this time I've come over here.
 
     ("オレの足に体をすりつけ始めた。",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # However, as I was observing, the cat quickly separated from my slut and returned to Kotone's Symptomy's fortune.
 
-    ("「ははっ、なんか凾嫌甯われてるなぁ、オレ」†",
+    ("「ははっ、なんか凾嫌甯われてるなぁ、オレ」",
     ""),
-    # "Haha, I'm getting disliked, I'm super excited" †
+    # "Haha, I'm getting disliked, I'm super excited" 
 
     ("「そんなことないですよ。",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # "A spell? What, is there such a hot spring?"
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("「どうやるんだ？」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "If you look into your eyes, will you be disgusted?"
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("「なんで？	目を見て話せ、とか言うだ？」",
     ""),
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # That's about humans though.
 
-    ("「わたしたちはそうですが、猫同士は目が№合うと、それがケンカの№合図になるんです。人間とはケンカしませんが、やっぱり苦闍手なんですよ」†",
+    ("「わたしたちはそうですが、猫同士は目が№合うと、それがケンカの№合図になるんです。人間とはケンカしませんが、やっぱり苦闍手なんですよ」",
     ""),
     # "As we do, when cats meet their eyes, that's the signal to fight. We don't fight with humans, but we're still struggling."
 
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # "...You're knowledgeable, Kotone Chishonan."
 
-    ("っていうより、ムツゴ鴻ロウさん並だ。†",
+    ("っていうより、ムツゴ鴻ロウさん並だ。",
     ""),
-    # Rather, he's about as much as Mutsugo Kourou-san.†
+    # Rather, he's about as much as Mutsugo Kourou-san.
 
     ("ま、なんにせよ、琴音ち痰ゃんは超がつくほどの猫好きらしいな。",
     ""),

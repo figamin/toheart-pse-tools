@@ -2,17 +2,13 @@
 # Source file: 0F4D.txt
 
 text_array = [
-    ("（４月５冾日	土）閨（堰ラジオ	５回目）閨（堰ラジオ聞いた場㍼合）†",
+    ("（４月５冾日	土）閨（堰ラジオ	５回目）閨（堰ラジオ聞いた場㍼合）",
     ""),
-    # (Saturday, April 5th) (5th time on the weir radio) (5th time on the weir radio) (Leads to hear the weir radio)†
+    # (Saturday, April 5th) (5th time on the weir radio) (5th time on the weir radio) (Leads to hear the weir radio)
 
-    ("堰ラジオのスイッチを入齠れた。†",
+    ("堰ラジオのスイッチを入齠れた。",
     ""),
-    # I turned on the weir radio.†
-
-    ("・",
-    ""),
-    # ・
+    # I turned on the weir radio.
 
     ("・",
     ""),
@@ -26,9 +22,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
     ("このｍ曲家は完璧裄主義ってやつだな。",
     ""),

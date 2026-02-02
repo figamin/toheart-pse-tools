@@ -2,9 +2,9 @@
 # Source file: 0A6A.txt
 
 text_array = [
-    ("（掾理女緒	好感度／冝日付イベント	ＶＳあかり）閨（氏月曜坥日が望ましい）閨（部屋）†",
+    ("（掾理女緒	好感度／冝日付イベント	ＶＳあかり）閨（氏月曜坥日が望ましい）閨（部屋）",
     ""),
-    # (Erimeo's Likeability/Choice Date Event VS Akari) (Mr. Monday Day is preferred) (Room) †
+    # (Erimeo's Likeability/Choice Date Event VS Akari) (Mr. Monday Day is preferred) (Room) 
 
     ("朝がきた。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Recently, I feel like my rotation in the afternoon has been getting faster.
 
-    ("あくまで、気がするだけだが。†",
+    ("あくまで、気がするだけだが。",
     ""),
-    # It just feels like it.†
+    # It just feels like it.
 
     ("「朝ご飯は？」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("＊淫俣勛当淫俣冝Aうるせー諱よな。†",
+    ("＊淫俣勛当淫俣冝Aうるせー諱よな。",
     ""),
-    # *Shut up the name of Inumata Shoku.†
+    # *Shut up the name of Inumata Shoku.
 
     ("「あっ、くんっ」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # At that time, he heard a cheerful voice from the attack after the attack.
 
-    ("オレとあかりは振關り返髟る。†",
+    ("オレとあかりは振關り返髟る。",
     ""),
-    # My guts and Akari replied.†
+    # My guts and Akari replied.
 
     ("「うっす、掾理女緒ち痰ゃん。朝っぱらから元気だな」",
     ""),
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "That's not the case, but recently, the mornings have been tough for Nacha banquet and crying. My body won't wake up.
 
-    ("理女緒ち痰ゃんはそんなことなさそうだな」†",
+    ("理女緒ち痰ゃんはそんなことなさそうだな」",
     ""),
     # It doesn't seem like that's the case with Rimo Ochi Sputan."
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Whoa, are you even tampering with that? You're so incredibly, I respect you."
 
-    ("「そ、それほどの仕鮪事じ痰ゃないよ。誰にでもできるもの」†",
+    ("「そ、それほどの仕鮪事じ痰ゃないよ。誰にでもできるもの」",
     ""),
     # "Well, there's no need to worry about that much tuna. Who can make hot pot?"
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Hahaha. That would be easier then."
 
-    ("と、そこで理女緒ち痰ゃんは、あかりのほうをｌいて、†",
+    ("と、そこで理女緒ち痰ゃんは、あかりのほうをｌいて、",
     ""),
     # And so, the smug chan leaned towards the light, and
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # After replies, he bends his head and wonders who Akari is.
 
-    ("そういや、あかりと理女緒ち痰ゃんって奄初対面だっけ。†",
+    ("そういや、あかりと理女緒ち痰ゃんって奄初対面だっけ。",
     ""),
-    # That being said, Akari and Sakiyomi Ochisou-chan are the first time they meet Amazed.†
+    # That being said, Akari and Sakiyomi Ochisou-chan are the first time they meet Amazed.
 
     ("「あかり。こっち、Ｄ組の翌雛山搦理女緒ち痰ゃん。朝から夜まで働いてるタフな勤労少酪女だ」",
     ""),
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Morning until night?"
 
-    ("「ほんと、すげーんだぜ。いま聞いたとおり、朝は新聞配達。あとはチラシ配阡りとか、ゲーセンの店員とか。ほとんどｖ淫俣冾ｾ」†",
+    ("「ほんと、すげーんだぜ。いま聞いたとおり、朝は新聞配達。あとはチラシ配阡りとか、ゲーセンの店員とか。ほとんどｖ淫俣冾ｾ」",
     ""),
     # "It's really amazing. As I just heard, newspapers are delivered in the morning. Also, flyers are delivered to arcades and arcade store clerks. Almost all of them are V Inmata."
 
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "That's amazing."
 
-    ("「あ、あのっ、そんな、п私、と、特別な曹資格とか持ってるわけじ痰ゃないし、あの…すごくなんかないよ…」†",
+    ("「あ、あのっ、そんな、п私、と、特別な曹資格とか持ってるわけじ痰ゃないし、あの…すごくなんかないよ…」",
     ""),
-    # "Ah, um, me, and I have a special Cao qualification, so there's no reason to say that, and um...it's really not that..." †
+    # "Ah, um, me, and I have a special Cao qualification, so there's no reason to say that, and um...it's really not that..." 
 
     ("「あかり、お前熨も少しは見習ってバイトとかしたらどうだ？	部賦謂鰍珞ﾁてないんだし、＊淫俣凬qマだ。いい社脂勉強になるぜ？」",
     ""),
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # "If that's the case, it's a bit of a sputum."
 
-    ("「男はいいの。そのうち社脂人になったら、いやでも働かなき痰ゃいけねーんだから」†",
+    ("「男はいいの。そのうち社脂人になったら、いやでも働かなき痰ゃいけねーんだから」",
     ""),
     # "Men are fine. If they become a company afflicted, they'll end up being tampered with and they have to be phlegmed without working."
 
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "There's not a lot of phlegm these days, right? That's what it is."
 
-    ("「それでもいるにはいる。とくにお前とか、就職熕もせず、すぐに専業蜍主婦になりそうだ」†",
+    ("「それでもいるにはいる。とくにお前とか、就職熕もせず、すぐに専業蜍主婦になりそうだ」",
     ""),
     # "So there will be some people. You and you won't be able to find a job, and you will soon become a full-time sniffer housewife."
 
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # "Eh, uh, yeah..."
 
-    ("突然あかりに振逅られ、とりあえず同意する理女緒ち痰ゃん。†",
+    ("突然あかりに振逅られ、とりあえず同意する理女緒ち痰ゃん。",
     ""),
-    # Akari suddenly confronts her, and for now she agrees.†
+    # Akari suddenly confronts her, and for now she agrees.
 
     ("「専業蜍主婦なんて、昼のテレビ見て、怐懸賞に桙応蜑募して、フ鴻ロンって寝髏るだけが仕鮪事だ」",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # If I say that, I say this.
 
-    ("「蛛主婦の話じ痰ゃねーんだよ。いまはバイトをするか、しないかっていう｢｢」†",
+    ("「蛛主婦の話じ痰ゃねーんだよ。いまはバイトをするか、しないかっていう｢｢」",
     ""),
-    # "I'm talking about housewives, so I'm not going to have to work part-time at the moment, so I'm going to say ""†
+    # "I'm talking about housewives, so I'm not going to have to work part-time at the moment, so I'm going to say ""
 
     ("そのとき、",
     ""),
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # I'm currently in the middle of the day, so I have to go to the classroom early.Well, that's phlegm."
 
-    ("と、掾理女緒ち痰ゃんは、ちょっと困ったって顔で魔走っていってしまった。†",
+    ("と、掾理女緒ち痰ゃんは、ちょっと困ったって顔で魔走っていってしまった。",
     ""),
-    # And then, Jorime Ochishonan ran away with a demon with a face, saying that he was in trouble.†
+    # And then, Jorime Ochishonan ran away with a demon with a face, saying that he was in trouble.
 
     ("なんだ、突然。",
     ""),
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # Perhaps it was a shunned response to me and Akari.
 
-    ("多分、そうだな。†",
+    ("多分、そうだな。",
     ""),
-    # Probably so.†
+    # Probably so.
 
     ("オレは｢｢。",
     ""),

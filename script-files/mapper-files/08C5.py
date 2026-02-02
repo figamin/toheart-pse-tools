@@ -2,9 +2,9 @@
 # Source file: 08C5.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	寄闃り道２	ＬＶ１）閨（早書店）†",
+    ("（レミィ	回秤数イベント	寄闃り道２	ＬＶ１）閨（早書店）",
     ""),
-    # (The Remy Scale Event: Calling Road 2 LV1) (Saisho)†
+    # (The Remy Scale Event: Calling Road 2 LV1) (Saisho)
 
     ("「Ｈ奄！	」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # When Karemi noticed me, she waved lightly.
 
-    ("「諱よお、レミィ」†",
+    ("「諱よお、レミィ」",
     ""),
-    # "My name is, thrill"†
+    # "My name is, thrill"
 
     ("「、知ってる？」",
     ""),

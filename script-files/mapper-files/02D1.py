@@ -2,9 +2,9 @@
 # Source file: 02D1.txt
 
 text_array = [
-    ("（芹°香	テスト	３／１８）閨（Ａ	堰ラクショーだぜ！）†",
+    ("（芹°香	テスト	３／１８）閨（Ａ	堰ラクショーだぜ！）",
     ""),
-    # (Seri°Ka Test 3/18)Seri (A The weir is easy!)†
+    # (Seri°Ka Test 3/18)Seri (A The weir is easy!)
 
     ("「堰ラクショーだぜ！」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Huh? That's amazing? It's not like that.
 
-    ("ラクショーつっても、オレなりの奄ラクショーだからさ」†",
+    ("ラクショーつっても、オレなりの奄ラクショーだからさ」",
     ""),
     # The easy way, the hot water is just my super-loving Amami."
 
@@ -42,25 +42,25 @@ text_array = [
     ""),
     # "If you do that, you'll get even better?"
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("そんな都∮合のいい魔法があんのかよ。",
     ""),
     # I wonder if there's such a good b-magic that's right for the city.
 
-    ("いや、でもやるだけやってもらおうか。†",
+    ("いや、でもやるだけやってもらおうか。",
     ""),
-    # Let's tamper with it, and then we'll tamper with it as much as we can with it.†
+    # Let's tamper with it, and then we'll tamper with it as much as we can with it.
 
     ("「うん、じ痰ゃあ、梶頼まあ」",
     ""),
     # "Yeah, sputum, Kaji-ryokay."
 
-    ("すると先輩は、わかりました、と言って、ａ魔法の呪文を唱え始めた。†",
+    ("すると先輩は、わかりました、と言って、ａ魔法の呪文を唱え始めた。",
     ""),
-    # Then the senior said, "I understand," and began to cast a spell with magic.†
+    # Then the senior said, "I understand," and began to cast a spell with magic.
 
     ("・",
     ""),
@@ -78,17 +78,17 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("なんだかよくわからないけど、呪文をかけ終尞わったらしい。",
     ""),
     # I don't really understand it, but it seems that he has finished putting up a spell.
 
-    ("これで今厓日勉強を始めると、オレは一種の催眠状態になり、教科痩書竢やノートに曹書かれた内容がスラスラと頭に入ってくるらしい。†",
+    ("これで今厓日勉強を始めると、オレは一種の催眠状態になり、教科痩書竢やノートに曹書かれた内容がスラスラと頭に入ってくるらしい。",
     ""),
-    # Now that I start studying, I'm in a state of hypnosis, and it seems that the subject's slimming letters and the contents of Cao written on the notebook will be in my mind.†
+    # Now that I start studying, I'm in a state of hypnosis, and it seems that the subject's slimming letters and the contents of Cao written on the notebook will be in my mind.
 
     ("本末当だとすれば便風なもんだ。",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # Well, the key is to tell yourself that such b-magic is being applied.
 
-    ("とにかく、諱先輩が桙応㊨援してくれたことにはかわりはない。†",
+    ("とにかく、諱先輩が桙応㊨援してくれたことにはかわりはない。",
     ""),
-    # Anyway, there's nothing wrong with the fact that Senpai Senpai supported me.†
+    # Anyway, there's nothing wrong with the fact that Senpai Senpai supported me.
 
     ("「諱先輩、サンキャ」",
     ""),

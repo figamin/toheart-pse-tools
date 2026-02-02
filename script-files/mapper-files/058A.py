@@ -2,9 +2,9 @@
 # Source file: 058A.txt
 
 text_array = [
-    ("（葵	回秤数イベント３	選択繿後	Ｃ）†",
+    ("（葵	回秤数イベント３	選択繿後	Ｃ）",
     ""),
-    # (Aoi Scales Event 3 after selection C)†
+    # (Aoi Scales Event 3 after selection C)
 
     ("「葵ち痰ゃんのことをもっと知闥りたいから…かな？」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "What, пAre you talking about me...?"
 
-    ("オレは『うん』とうなずく。†",
+    ("オレは『うん』とうなずく。",
     ""),
-    # I nodded "Yes."†
+    # I nodded "Yes."
 
     ("「いまはただ見てるだけだし、言ってしまえばかやの外って感じだけど、いっしょに練習すれば、もっと身近になれるんじ痰ゃないかと思って」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "More close?"
 
-    ("「こうして知闥り№合ったのもなにかの盾縁だし、せっかくだからもっと№仲良くなりたいし」†",
+    ("「こうして知闥り№合ったのもなにかの盾縁だし、せっかくだからもっと№仲良くなりたいし」",
     ""),
     # "The one who got the most knowledge like this is a shield, and since we're going to have it, I want to become even more friends."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Yes, that's right!"
 
-    ("「それにもともと格闘技は凾嫌いじ痰ゃないし、実際に体を動かすのもいいかなって思って」†",
+    ("「それにもともと格闘技は凾嫌いじ痰ゃないし、実際に体を動かすのもいいかなって思って」",
     ""),
     # "And I don't dislike martial arts, and I think it's good to actually move my body."
 

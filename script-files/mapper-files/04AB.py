@@ -2,9 +2,9 @@
 # Source file: 04AB.txt
 
 text_array = [
-    ("（志保	回秤数イベント	帰闍り道２）閨（選択綜	余裕）†",
+    ("（志保	回秤数イベント	帰闍り道２）閨（選択綜	余裕）",
     ""),
-    # (Shiho's Scale Event Return Road 2) (Choice and Relaxation)†
+    # (Shiho's Scale Event Return Road 2) (Choice and Relaxation)
 
     ("「ホントは、けっこー余裕なんだぜ」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "Ummm!?"
 
-    ("「そんなに驚くなよ」†",
+    ("「そんなに驚くなよ」",
     ""),
     # "Don't be so surprised"
 
@@ -30,12 +30,12 @@ text_array = [
     ""),
     # "And before the earthquake, or a hot spring..."
 
-    ("「氈勝闖手に言って！」†",
+    ("「氈勝闖手に言って！」",
     ""),
     # "Speak to the hand of the silence!"
 
-    ("その冾日は、いつもの調子で、志保と口膜喧嘩しながら帰った。†",
+    ("その冾日は、いつもの調子で、志保と口膜喧嘩しながら帰った。",
     ""),
-    # On that date, I went home in a hot tone and was fighting with Shiho.†
+    # On that date, I went home in a hot tone and was fighting with Shiho.
 
 ]

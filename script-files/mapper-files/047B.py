@@ -2,9 +2,9 @@
 # Source file: 047B.txt
 
 text_array = [
-    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	お前が選べよ）†",
+    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	お前が選べよ）",
     ""),
-    # (Shiho's exam day return PS) (Choose your choice)†
+    # (Shiho's exam day return PS) (Choose your choice)
 
     ("「お前が選べよ」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It was a hassle to think about it, so I gave it to Shiho.
 
-    ("どうせ考えてあるんだ。†",
+    ("どうせ考えてあるんだ。",
     ""),
-    # I'm thinking about it anyway b.†
+    # I'm thinking about it anyway b.
 
     ("「なになに？	行きたいとこ、ないの？」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "I'll follow you to the bonito spot you want to go to and tamper with it."
 
-    ("「あら、そ。どこでもいいのねぇ？」†",
+    ("「あら、そ。どこでもいいのねぇ？」",
     ""),
     # "Oh, that. Where's the hot water?"
 
@@ -34,17 +34,17 @@ text_array = [
     ""),
     # "There's no joke about Foreign Minister's Country or Uzono."
 
-    ("くだらないボケを飛ばされる前に、諱先關手を打っておく。†",
+    ("くだらないボケを飛ばされる前に、諱先關手を打っておく。",
     ""),
-    # Before you let your stupid jokes go off, take your name in advance.†
+    # Before you let your stupid jokes go off, take your name in advance.
 
     ("「つまんな〜い」",
     ""),
     # "It's boring"
 
-    ("「つまんねえよ」†",
+    ("「つまんねえよ」",
     ""),
-    # "That's boring" †
+    # "That's boring" 
 
     ("「じ痰ゃあ、散燻歩でもしますか」",
     ""),
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "And so. Is it plain phlegm for you?"
 
-    ("「…あんた、あたしをただの派阡手好き翌女だと思ってるでしょ？」†",
+    ("「…あんた、あたしをただの派阡手好き翌女だと思ってるでしょ？」",
     ""),
     # "...You think I'm just a woman who likes sinners, simmon?"
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "Yeah. I think so."
 
-    ("オレはうなずいた。†",
+    ("オレはうなずいた。",
     ""),
-    # I nodded.†
+    # I nodded.
 
     ("「甘いわね…。砂恪糖にコーヒー％齠れるくらい甘いわね」",
     ""),
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "I wish I had sputum."
 
-    ("「なによう、わかってんの？」†",
+    ("「なによう、わかってんの？」",
     ""),
     # "What do you know?"
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "Okay, where are you going to smoke?"
 
-    ("「こっちこっち」†",
+    ("「こっちこっち」",
     ""),
-    # "This one here" †
+    # "This one here" 
 
     ("・",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("適俣当にだべりながら、オレたちは志保の家の方角に歩いていた。",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # ""You're really cute. You're a weird phlegm, right?
 
-    ("「起こさねえっての」†",
+    ("「起こさねえっての」",
     ""),
-    # "I won't wake you up" †
+    # "I won't wake you up" 
 
     ("「…あ、ほれほれ、この辺で休んでかない？	近頃あたしのお気に入闢りなのよぉ。ここって」",
     ""),
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "You seem even more and more like a bonito. I can't believe you're really fond of a bonito spot like this."
 
-    ("「なに言ってんのよ。あたしだってこういうとこで、ａ浮世で傷ついた心のモ翼を休めたりすんのよ？」†",
+    ("「なに言ってんのよ。あたしだってこういうとこで、ａ浮世で傷ついた心のモ翼を休めたりすんのよ？」",
     ""),
     # "What are you talking about? I'm going to rest the wings of my heart that have been hurt in the world, in this situation, b?"
 
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # The Himata Rakusen is also good.
 
-    ("志保じ痰ゃなくてもいい気分になれる。†",
+    ("志保じ痰ゃなくてもいい気分になれる。",
     ""),
-    # Shiho's phlegm doesn't have to be phlegm, and it makes me feel good.†
+    # Shiho's phlegm doesn't have to be phlegm, and it makes me feel good.
 
     ("「ここでのんびり羽を伸ばしてると、テストのことなんてどうでもよくなってきち痰ゃうわ」",
     ""),
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # "I want to stay like this forever"
 
-    ("「それはいいかもな」†",
+    ("「それはいいかもな」",
     ""),
-    # "Is that okay?" †
+    # "Is that okay?" 
 
     ("こんな感じで、結局２桙時間近くも河艶敷で過ごしてしまった。",
     ""),

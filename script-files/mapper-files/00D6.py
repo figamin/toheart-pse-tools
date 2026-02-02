@@ -2,9 +2,9 @@
 # Source file: 00D6.txt
 
 text_array = [
-    ("（システムイベント	テスト発表）閨（３／２１固定）閨（ホームルーム）閨（教室１	授業拠）†",
+    ("（システムイベント	テスト発表）閨（３／２１固定）閨（ホームルーム）閨（教室１	授業拠）",
     ""),
-    # (System Event Test Announcement) (3/21) (Home Cry Room) (Class 1 Lesson) (Class 1 Lesson)†
+    # (System Event Test Announcement) (3/21) (Home Cry Room) (Class 1 Lesson) (Class 1 Lesson)
 
     ("担任の先生が教室にやってきた。",
     ""),
@@ -14,41 +14,41 @@ text_array = [
     ""),
     # "Aaaaah!"
 
-    ("クラス委員のｍ令がかかる。†",
+    ("クラス委員のｍ令がかかる。",
     ""),
-    # The M order of the Clans Committee member is being charged.†
+    # The M order of the Clans Committee member is being charged.
 
     ("「あ〜、今厓日は学年又末テストの結果が返ってくると思う。それで、諱先生、ちょっとみんなに言い忘齧れてたことがあった」",
     ""),
     # "Ah, I think the results of the grade-grade final exams will be returned on the day. So, I've been able to forget about it, even though I've been saying it to everyone."
 
-    ("照齒れ隠しに頭を掻きながら言う。†",
+    ("照齒れ隠しに頭を掻きながら言う。",
     ""),
-    # He says as he scratches his head to hide the light.†
+    # He says as he scratches his head to hide the light.
 
     ("「じつは、最近、学年全体の成績がよしくないらしく、それで急きょｌまったんだが、今回のテストの成績不良者は、春休みに補習授業を受けてもらうことになってる」",
     ""),
     # "In fact, it seems that the grades for the entire grade are not good recently, so I suddenly got a thud, but those with poor grades on this test have been taking supplementary lessons during spring break and receiving hot spring."
 
-    ("え〜っと、教室賜がにわかにざわめく。†",
+    ("え〜っと、教室賜がにわかにざわめく。",
     ""),
-    # Well, the classroom gifts are all yelling.†
+    # Well, the classroom gifts are all yelling.
 
     ("春休みなのに、補習授業？",
     ""),
     # Even though it's spring break, is it a supplementary lesson?
 
-    ("なんだよ、それは〜っ。†",
+    ("なんだよ、それは〜っ。",
     ""),
-    # What is that?†
+    # What is that?
 
     ("「すまん、もう少し≠早く言えばよかったな。けど、このクラスには、まさか補習を受けるほど手を抜いた者はいないと思う」",
     ""),
     # "Sorry, I should have said it a little earlier. But I don't think anyone in this banquet has slacked enough to take the tampering repetition."
 
-    ("諱先生はそう言って、笑ってごまかした。†",
+    ("諱先生はそう言って、笑ってごまかした。",
     ""),
-    # Professor Isao said, laughing and cheating.†
+    # Professor Isao said, laughing and cheating.
 
     ("しかし、最燕初から補習があると知ってたんなら、あと三ь割はやる気を出したんだがな。",
     ""),
@@ -58,8 +58,8 @@ text_array = [
     ""),
     # Well, it's a festival that's just a while.
 
-    ("梶頼むから補習だけは免齧れててくれよ。†",
+    ("梶頼むから補習だけは免齧れててくれよ。",
     ""),
-    # I'm asking you to do this, so please take it easy for me to do some tampering and supplementary lessons.†
+    # I'm asking you to do this, so please take it easy for me to do some tampering and supplementary lessons.
 
 ]

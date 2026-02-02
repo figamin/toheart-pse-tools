@@ -2,33 +2,33 @@
 # Source file: 0399.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｂ	どっちが本末当かなんてわかんねーだ）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｂ	どっちが本末当かなんてわかんねーだ）",
     ""),
-    # (Tomoko's Scales Event: Departing from School LV1) (Choice B: I don't know which is the real deal b)†
+    # (Tomoko's Scales Event: Departing from School LV1) (Choice B: I don't know which is the real deal b)
 
     ("「…どっちが本末当かなんてわかんねーだ。だからなんとも言えねーな」",
     ""),
     # "...I don't know which one is the real deal. So I can't even say what a hot topic."
 
-    ("「ずいぶん無俣な回嚔答ね」†",
+    ("「ずいぶん無俣な回嚔答ね」",
     ""),
-    # "That's a pretty unmassible retweet answer" †
+    # "That's a pretty unmassible retweet answer" 
 
     ("個人的な意見を言うんなら、志保のほうはイマイチ信用したくない。",
     ""),
     # If I were to express my personal opinion, I don't really want to trust Shiho.
 
-    ("志保ち痰ゃん薰情報を信じるのはシャャクだし、なにより悪く言う方阜には賛同したくない。†",
+    ("志保ち痰ゃん薰情報を信じるのはシャャクだし、なにより悪く言う方阜には賛同したくない。",
     ""),
-    # Shayaku believes in Shiho's information, and most importantly, I don't want to agree with Fukukata Fu, who says bad things about it.†
+    # Shayaku believes in Shiho's information, and most importantly, I don't want to agree with Fukukata Fu, who says bad things about it.
 
     ("とはいうものの、もしかしたら志保のほうが正しいのかもしれないし、一概にうそつき呼ばわりするのも垂乱暴だ。",
     ""),
     # That said, it's probably Shiho is more correct, and it's also violent that if he calls him a liar, he's going to fall for him.
 
-    ("まあ、本末当のとこはわかんねーんだし、そういううわさが流齬れてるって程度に留めておこう。†",
+    ("まあ、本末当のとこはわかんねーんだし、そういううわさが流齬れてるって程度に留めておこう。",
     ""),
-    # Well, I don't know about the main story, so let's just say that such a trait is in conflict.†
+    # Well, I don't know about the main story, so let's just say that such a trait is in conflict.
 
     ("「ま、うわさの真偽はともかくとして、彼女は去年からずっとあんな感じなのよね」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Now? I've never seen anyone get along with B. I'm sure I like being alone."
 
-    ("「ふ〜ん…」†",
+    ("「ふ〜ん…」",
     ""),
-    # "Hmm..." †
+    # "Hmm..." 
 
     ("「ちょっと？",
     ""),
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Maybe you really feel like a boyfriend or woman?”
 
-    ("「ばーか、そんなんじ痰ゃねー諱よ。ただ、席が隣同士なのに、≠くに話したことねーからさ」†",
+    ("「ばーか、そんなんじ痰ゃねー諱よ。ただ、席が隣同士なのに、≠くに話したことねーからさ」",
     ""),
     # "Oh my goodness, that's not the case, I've never spoken about it even though the seats are next to each other."
 

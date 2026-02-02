@@ -2,9 +2,9 @@
 # Source file: 0156.txt
 
 text_array = [
-    ("（あかり	好感度イベント９．１）閨（Ａ	んじ痰ゃ、行こか）†",
+    ("（あかり	好感度イベント９．１）閨（Ａ	んじ痰ゃ、行こか）",
     ""),
-    # (Akari Likeability Event 9.1) (A: Let's go)†
+    # (Akari Likeability Event 9.1) (A: Let's go)
 
     ("「おう。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("オレは鞄を持って席を立ち上がった。†",
+    ("オレは鞄を持って席を立ち上がった。",
     ""),
-    # I stood up from my seat with my kara bag.†
+    # I stood up from my seat with my kara bag.
 
     ("坂道の途湯であかりが聞いてきた。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Yeah. Ah, roasted pork."
 
-    ("「ええっ？」†",
+    ("「ええっ？」",
     ""),
-    # "What?" †
+    # "What?" 
 
     ("「バナナの葉っぱにくるんで、地面にр埋めて、その上でたき火して蒸し焼にするрヤツ。名前は知迺らん」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "And you can't get a whole pig, either. If it's half-held, you can buy a mo by ordering directly from the manufacturer, but that's why the pork is worth more than 200,000 yen..."
 
-    ("「素で返すなっ」†",
+    ("「素で返すなっ」",
     ""),
-    # "Don't give it back with your own" †
+    # "Don't give it back with your own" 
 
     ("「おい、あかり」",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yeah?"
 
-    ("「べつに豪勢にする必要はねーぞ。派阡手なのだったら、ファミレスとかでも食えんだから。なんか家薗的なやつにしてくれ」†",
+    ("「べつに豪勢にする必要はねーぞ。派阡手なのだったら、ファミレスとかでも食えんだから。なんか家薗的なやつにしてくれ」",
     ""),
     # "There's no need to make it a full-scale player. If you're a fan, you could eat hot food with family replies or something. Please make it a tampering thing like a Japanese-style guy."
 
@@ -74,15 +74,15 @@ text_array = [
     ""),
     # "Especially. Your specialty fees."
 
-    ("「п私の得意料摎理？	…うーん、なにかなあ。これといって得意とか苦闍手とかないし」†",
+    ("「п私の得意料摎理？	…うーん、なにかなあ。これといって得意とか苦闍手とかないし」",
     ""),
-    # "My specialty is paying for money? ...Hmm, what is it? That's not a problem or anything like that." †
+    # "My specialty is paying for money? ...Hmm, what is it? That's not a problem or anything like that." 
 
     ("「まあ、お前にまかせるよ。好きなのｍってくれ。オレ的には、うまくて、安くて、栄養があれば文蝠句ねーから」",
     ""),
     # "Well, I'll leave it to you. Please give me your favorite. For me, it's a good, cheap, and if you have nutrition, it's a slogan."
 
-    ("「それは十分厳しいよ…」†",
+    ("「それは十分厳しいよ…」",
     ""),
     # "That's tough enough..."
 
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # "Okay, that's your spirit!"
 
-    ("あかりは意外と調子に乗せやすい。†",
+    ("あかりは意外と調子に乗せやすい。",
     ""),
-    # Akari is surprisingly easy to get carried away.†
+    # Akari is surprisingly easy to get carried away.
 
     ("・",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("制梵服姿の男嵐女がスーパーでモ買い物する様は、なんだか、いかにもという感じで凾嫌だったが、まあ、しょうがない。",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # Akari's ingredients were bean lantern, pork, seaweed, daikon, carrot, kyaugatari, Aspa banquet, roe lettuce, egg, avocado, natto, and more.
 
-    ("なにをｍ骰るか、さっぱりわからない。†",
+    ("なにをｍ骰るか、さっぱりわからない。",
     ""),
-    # I have no idea what to do.†
+    # I have no idea what to do.
 
     ("あかりはモ買い物葡ずっと、豚肉はビタミンＢ１が豊富で疲労回怏復にいいんだよ…などとうんちくを言っていた。",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # Well, if you leave it to Akari when it comes to food, it's sturdy.
 
-    ("そういう意味では鰍頼燉もしいやつだ。†",
+    ("そういう意味では鰍頼燉もしいやつだ。",
     ""),
-    # In that sense, it's a tampering thing that can even be used to.†
+    # In that sense, it's a tampering thing that can even be used to.
 
     ("なんだかんだでいいモ買ったが、雅計は意外と安かった。",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # When Ikere-re buy a Mo, it quickly ends up over 3,000 yen, but as expected, I choose and tamper with it, looking at the price.
 
-    ("小さいこからよく家の手伝いをしてきたおかげで身についた技術だ。†",
+    ("小さいこからよく家の手伝いをしてきたおかげで身についた技術だ。",
     ""),
-    # This is the skill I have acquired thanks to my help from a small house.†
+    # This is the skill I have acquired thanks to my help from a small house.
 
     ("「で、結局、なにｍってくれるんだ？」",
     ""),
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # It was past five gazes when I went to the house.
 
-    ("夕飯にはまだちょっと≠早い。†",
+    ("夕飯にはまだちょっと≠早い。",
     ""),
-    # It's still too early for dinner.†
+    # It's still too early for dinner.
 
     ("「こんにちはー」",
     ""),
@@ -206,15 +206,15 @@ text_array = [
     ""),
     # "My sputum is my sputum."
 
-    ("スーパーのモ買い物袋を手に持ったあかりは、ぺこりと頭を下げて家に上がった。†",
+    ("スーパーのモ買い物袋を手に持ったあかりは、ぺこりと頭を下げて家に上がった。",
     ""),
-    # Akari, holding a supermarket shopping bag in her hand, bowed her head and leapt up to the house.†
+    # Akari, holding a supermarket shopping bag in her hand, bowed her head and leapt up to the house.
 
     ("「適俣当にキッチン使っていいぜ。オレは部屋でｒがえてくるから」",
     ""),
     # "You can use the kitchen for Tomatata. I'll get some r in my room."
 
-    ("「うん、わかった。じ痰ゃ、お台椛所借りるね」†",
+    ("「うん、わかった。じ痰ゃ、お台椛所借りるね」",
     ""),
     # "Yeah, I understand. I'll borrow your slut from the bayashi."
 
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # * Washing and cutting vegetables.
 
-    ("オレはソファーにｍ會高ｺ奄すと、テレビの鰍リｃモコンを押しながら、あかりに言った。†",
+    ("オレはソファーにｍ會高ｺ奄すと、テレビの鰍リｃモコンを押しながら、あかりに言った。",
     ""),
-    # I told Akari, "M-kai Takako Amami" to the sofa, and while pressing the C-Motor control of the TV Revitalizer, I was able to tell him.†
+    # I told Akari, "M-kai Takako Amami" to the sofa, and while pressing the C-Motor control of the TV Revitalizer, I was able to tell him.
 
     ("「なあ、まだ、＝早いんじ痰ゃねーのか？」",
     ""),
@@ -246,8 +246,8 @@ text_array = [
     ""),
     # "I see."
 
-    ("あかりがてきぱき用意している間、オレはぼけーっとテレビを見ていた。†",
+    ("あかりがてきぱき用意している間、オレはぼけーっとテレビを見ていた。",
     ""),
-    # While Akari was preparing the film quickly, I was watching the dramatic TV drama in a silly manner.†
+    # While Akari was preparing the film quickly, I was watching the dramatic TV drama in a silly manner.
 
 ]

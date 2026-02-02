@@ -2,9 +2,9 @@
 # Source file: 0146.txt
 
 text_array = [
-    ("（あかり	好感度イベント	４）閨（好感度が	１８以繹上	のとき）閨（好感度イベント３を見た）閨（朝イベントとすり替え）閨（髪型フラグＯＮ！）閨（自分の部屋）†",
+    ("（あかり	好感度イベント	４）閨（好感度が	１８以繹上	のとき）閨（好感度イベント３を見た）閨（朝イベントとすり替え）閨（髪型フラグＯＮ！）閨（自分の部屋）",
     ""),
-    # (Akari Likeability Event 4) (When the likeability level is above 18) (I saw Likeability Event 3) (Replaced with morning event) (Hairstyle banquet rug on!) (My room) †
+    # (Akari Likeability Event 4) (When the likeability level is above 18) (I saw Likeability Event 3) (Replaced with morning event) (Hairstyle banquet rug on!) (My room) 
 
     ("ピピピ、ピピピ、ピピピ…。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # I woke up when the alarm clock rang out.
 
-    ("ベッドを降闕りて、蛛大きく伸びをする。†",
+    ("ベッドを降闕りて、蛛大きく伸びをする。",
     ""),
-    # He lifts the bed and stretches out a large amount of excitement.†
+    # He lifts the bed and stretches out a large amount of excitement.
 
     ("うう〜〜〜ん。",
     ""),
@@ -30,13 +30,13 @@ text_array = [
     ""),
     # It feels strangely clear.
 
-    ("窓の外にすがすがしい青空が広がっているからかも知れない。†",
+    ("窓の外にすがすがしい青空が広がっているからかも知れない。",
     ""),
-    # Perhaps because there is a refreshing blue sky outside the window, the hot water is not even aware of it.†
+    # Perhaps because there is a refreshing blue sky outside the window, the hot water is not even aware of it.
 
-    ("トーストとコーヒーで簡単な朝食を終え、オレはテレビを消して盾居間を出た。†",
+    ("トーストとコーヒーで簡単な朝食を終え、オレはテレビを消して盾居間を出た。",
     ""),
-    # After a simple breakfast with toast and coffee, Ogere erased the TV drama and left the shield living room.†
+    # After a simple breakfast with toast and coffee, Ogere erased the TV drama and left the shield living room.
 
     ("「行ってｗまーす」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # When was the same bonito spot as the hotpot.
 
-    ("そしていつもと同じように、縺後撃からあかりがやってきて、いつもと同じように明髢るい笑顔で｢｢。†",
+    ("そしていつもと同じように、縺後撃からあかりがやってきて、いつもと同じように明髢るい笑顔で｢｢。",
     ""),
-    # And just like when Kano, Akari came to tamper with the attack after the attack, and when Kano looked like he was laughing out loud, ".†
+    # And just like when Kano, Akari came to tamper with the attack after the attack, and when Kano looked like he was laughing out loud, ".
 
     ("「おはよう、ち痰ゃん」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # As I looked over at Akari, I was left speechless, and I couldn't help but think about it.
 
-    ("だって、あかりのやつ、髪型が｢｢。†",
+    ("だって、あかりのやつ、髪型が｢｢。",
     ""),
-    # Because Akari's tampering with her hairstyle is ".†
+    # Because Akari's tampering with her hairstyle is ".
 
     ("「お前、それ…」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Yes. Please wake up early this morning."
 
-    ("頬にかかる髪がまだ慣れないのか、あかりはそう言いながらもしきりに髪に触齔れていた。†",
+    ("頬にかかる髪がまだ慣れないのか、あかりはそう言いながらもしきりに髪に触齔れていた。",
     ""),
-    # Akari said as he was constantly touching his hair, perhaps because he wasn't used to the hair that was still stuck on his cheek.†
+    # Akari said as he was constantly touching his hair, perhaps because he wasn't used to the hair that was still stuck on his cheek.
 
     ("前で結んだ小さな鰍リボン。",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # Even though he just changed his hairstyle, he gives the impression of someone else.
 
-    ("思寬わず、本末当にあかりか、と馬鹿なことを口にしてしまいそうになった。†",
+    ("思寬わず、本末当にあかりか、と馬鹿なことを口にしてしまいそうになった。",
     ""),
-    # Without thinking about it, I almost ended up groping something stupid, thinking that it was a relief to the end of the day.†
+    # Without thinking about it, I almost ended up groping something stupid, thinking that it was a relief to the end of the day.
 
     ("「ちょっとヘンかな…？」",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # I distracted the advice of the counsel and replied vaguely.
 
-    ("少し動揺していた。†",
+    ("少し動揺していた。",
     ""),
-    # I was a little upset.†
+    # I was a little upset.
 
     ("「梶リボンはやめたほうがいいと思う？」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「…ねえ、ち痰ゃん」",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # "ah…"
 
-    ("オレはコホンとせき払いする。†",
+    ("オレはコホンとせき払いする。",
     ""),
-    # I cleared my throat.†
+    # I cleared my throat.
 
     ("「………」",
     "…"),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # That's strange.
 
-    ("あかり鰍相闡手になに緊張してんだ、オレは。†",
+    ("あかり鰍相闡手になに緊張してんだ、オレは。",
     ""),
-    # What are you nervous about Akari's monkeys, I'm so excited.†
+    # What are you nervous about Akari's monkeys, I'm so excited.
 
     ("たしかに、前のおさげのときよりもずっと大人っぽくなった。",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # And why is it b?
 
-    ("素直にそれをほめる気にもなれなかった。†",
+    ("素直にそれをほめる気にもなれなかった。",
     ""),
-    # I couldn't even get too excited about praiseing it honestly.†
+    # I couldn't even get too excited about praiseing it honestly.
 
     ("あかりがあかりじ痰ゃないような気がした。",
     ""),
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # He was weak and dull to push, and it was like another girl next to me, who knew nothing about me, but she wasn't familiar with anything at all.
 
-    ("だからなのか、なんとなく痰違和感みたいなものを感じた。†",
+    ("だからなのか、なんとなく痰違和感みたいなものを感じた。",
     ""),
-    # Perhaps that's why I felt something like a phlegm discomfort.†
+    # Perhaps that's why I felt something like a phlegm discomfort.
 
     ("オレの微妙な心譿情を察したのか、あかりは小さな声で、",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # "No, it's tampering..."
 
-    ("オレはぎこちなく言う。†",
+    ("オレはぎこちなく言う。",
     ""),
-    # I say awkwardly.†
+    # I say awkwardly.
 
     ("「やっぱり、もとに戻そうか？」",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("その仕寬種は、いつものオレのよく知ってるあかりのそれ、そのものだった。†",
+    ("その仕寬種は、いつものオレのよく知ってるあかりのそれ、そのものだった。",
     ""),
-    # The stove was the well-known light blue species of hot water, which was the hot one.†
+    # The stove was the well-known light blue species of hot water, which was the hot one.
 
     ("やっぱり、あかりはあかりだよな。",
     ""),
@@ -290,9 +290,9 @@ text_array = [
     ""),
     # As soon as I realized this obvious thing, the hot thing that had been held in my chest disappeared surprisingly quickly.
 
-    ("そして、見慣れないあかりの髪型に対する痰違和感は逆に新鮮さに変﨑わった。†",
+    ("そして、見慣れないあかりの髪型に対する痰違和感は逆に新鮮さに変﨑わった。",
     ""),
-    # And the feeling of discomfort caused by Akari's unfamiliar hairstyle turned into a fresh look.†
+    # And the feeling of discomfort caused by Akari's unfamiliar hairstyle turned into a fresh look.
 
     ("「…いや、その方が翌似㍽合ってるぜ」",
     ""),
@@ -314,9 +314,9 @@ text_array = [
     ""),
     # "And once again, you're saying that kind of thing."
 
-    ("本末当だって。†",
+    ("本末当だって。",
     ""),
-    # It's just the end of the day.†
+    # It's just the end of the day.
 
     ("「全然、変じ痰ゃない…？」",
     ""),
@@ -338,7 +338,7 @@ text_array = [
     ""),
     # "Could I prefer another hairstyle?"
 
-    ("「それが翌似㍽合ってるよ」†",
+    ("「それが翌似㍽合ってるよ」",
     ""),
     # "That's the same as the next day"
 
@@ -354,9 +354,9 @@ text_array = [
     ""),
     # Akari's speciality is to spot my lies.
 
-    ("だから、オレが本末当のことを言ってるってのもよくわかるはずだ。†",
+    ("だから、オレが本末当のことを言ってるってのもよくわかるはずだ。",
     ""),
-    # That's why I should be able to understand how I'm talking about the truth.†
+    # That's why I should be able to understand how I'm talking about the truth.
 
     ("「諱よかったぁ」",
     ""),
@@ -374,9 +374,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("そんなあかりの笑顔は、いつになく眩しく見えた。†",
+    ("そんなあかりの笑顔は、いつになく眩しく見えた。",
     ""),
-    # Akari's face looked more dazzling than ever before.†
+    # Akari's face looked more dazzling than ever before.
 
     ("「あ、あかり！？	どーしたの、その髪？」",
     ""),
@@ -386,7 +386,7 @@ text_array = [
     ""),
     # Shiho, who was in the hallway in front of the classroom, looked over at Akari's hair and was surprised by how exaggerated it was.
 
-    ("「変えち痰ゃったのぉ？」†",
+    ("「変えち痰ゃったのぉ？」",
     ""),
     # "Did you change the phlegm?"
 

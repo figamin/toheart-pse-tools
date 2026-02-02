@@ -2,9 +2,9 @@
 # Source file: 069C.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜ＡＢＣ	の続き）閨（駅前）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜ＡＢＣ	の続き）閨（駅前）",
     ""),
-    # (Makkuruchi Scales Event 2F LV4) (Continued from Chosen ABC) (In front of station) †
+    # (Makkuruchi Scales Event 2F LV4) (Continued from Chosen ABC) (In front of station) 
 
     ("ブ鴻ロ鴻ロ鴻ロ鴻ロ鴻ロ…。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Soon the bus came lol.
 
-    ("目の前で停まり、プシャーッと扉が開く。†",
+    ("目の前で停まり、プシャーッと扉が開く。",
     ""),
-    # He stopped in front of him, and the hot door opened suddenly.†
+    # He stopped in front of him, and the hot door opened suddenly.
 
     ("「…さん」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "yes"
 
-    ("と、明髢るくうなずいた。†",
+    ("と、明髢るくうなずいた。",
     ""),
-    # He nodded.†
+    # He nodded.
 
     ("「さんもお元気で。お体にお気をつけて」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "ah"
 
-    ("マルチは深々とおじぎをすると、セリオとふたりでバスに乗闖りこんだ。†",
+    ("マルチは深々とおじぎをすると、セリオとふたりでバスに乗闖りこんだ。",
     ""),
-    # Muruch bowed deeply, and then both of them boarded the bus with Seragato Rio.†
+    # Muruch bowed deeply, and then both of them boarded the bus with Seragato Rio.
 
     ("ブ鴻ロ鴻ロ鴻ロ鴻ロ鴻ロ…。",
     ""),

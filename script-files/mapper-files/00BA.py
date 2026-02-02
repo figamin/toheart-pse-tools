@@ -2,7 +2,7 @@
 # Source file: 00BA.txt
 
 text_array = [
-    ("（４月２１冾日	朝）閨（自分の部屋）†",
+    ("（４月２１冾日	朝）閨（自分の部屋）",
     ""),
     # (Morning of April 21st Day) (morning of my room)
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # The rain had subsided quite a bit on the park.
 
-    ("昼までには陽が射してきそうな感じだな。†",
+    ("昼までには陽が射してきそうな感じだな。",
     ""),
-    # It looks like the sun will shine by noon.†
+    # It looks like the sun will shine by noon.
 
     ("「雨で、桜熏もすっかり散っち痰ゃったね」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "The flowers are shattered so it's good."
 
-    ("「ち痰ゃん、香詩人だね」†",
+    ("「ち痰ゃん、香詩人だね」",
     ""),
     # "Ah, you're a poet, you're a poet."
 

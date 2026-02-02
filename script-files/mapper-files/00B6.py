@@ -2,7 +2,7 @@
 # Source file: 00B6.txt
 
 text_array = [
-    ("（４月１６冾日	朝）閨（自分の部屋）†",
+    ("（４月１６冾日	朝）閨（自分の部屋）",
     ""),
     # (4th Lion, 16th Day, morning) (morning) (morning)
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # It's quite tough for a sleepy manako.
 
-    ("おかげで、バッチリ目が覚めたけど。†",
+    ("おかげで、バッチリ目が覚めたけど。",
     ""),
-    # Thanks to this, I woke up completely.†
+    # Thanks to this, I woke up completely.
 
     ("「今厓日、少し寝坊しち痰ゃって、遅薯刻するかと思っち痰ゃった」",
     ""),
@@ -34,16 +34,16 @@ text_array = [
     ""),
     # "That's when it comes to phlegm, I'm the only one who's extremely safe."
 
-    ("「ひどいなあ…」†",
+    ("「ひどいなあ…」",
     ""),
-    # "That's terrible..." †
+    # "That's terrible..." 
 
     ("ちょっと前までは肌寒かったけど、近頃はずいぶん暖かい…ってより、暑い。",
     ""),
     # It was chilly up until recently, but it's been quite warm these days...and it's even hotter.
 
-    ("『春たけなわ』ってやつか。†",
+    ("『春たけなわ』ってやつか。",
     ""),
-    # Is it tampering with "Spring Shot"?†
+    # Is it tampering with "Spring Shot"?
 
 ]

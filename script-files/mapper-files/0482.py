@@ -2,9 +2,9 @@
 # Source file: 0482.txt
 
 text_array = [
-    ("（志保	回秤数イベント	２階１）閨（選択綜	聞いてやる）†",
+    ("（志保	回秤数イベント	２階１）閨（選択綜	聞いてやる）",
     ""),
-    # (Shiho's Scales Event, 2nd Floor 1) (Choices: Listen and tamper)†
+    # (Shiho's Scales Event, 2nd Floor 1) (Choices: Listen and tamper)
 
     ("嘘臭いと思ったら、信じなき痰ゃいいんだ。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Yes, yes...Huh? What about the history of the 雅?"
 
-    ("志保はオレの言うことを適俣当に聞き流して、他のギャャラリーを探している。†",
+    ("志保はオレの言うことを適俣当に聞き流して、他のギャャラリーを探している。",
     ""),
-    # Shiho listens to what I'm saying to Tomomatato and searches for other Gyabanquet Lagatari.†
+    # Shiho listens to what I'm saying to Tomomatato and searches for other Gyabanquet Lagatari.
 
     ("「とっくに帰っちまったよ」",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "oh"
 
-    ("「学年又末テストの結果がもうかなり出揃ったらしいのよ」†",
+    ("「学年又末テストの結果がもうかなり出揃ったらしいのよ」",
     ""),
     # "It seems that the results of the grade and final exams have already been released."
 
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Anyone? Did the genius at the top of the grade get the perfect one and get some hot water?"
 
-    ("「そういうニャースもいいけど、今回はもうちょっと身近な人のニャースなのよ」†",
+    ("「そういうニャースもいいけど、今回はもうちょっと身近な人のニャースなのよ」",
     ""),
     # "Meowth like that is nice, but this time Hot is also a meowth from someone close to us."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "It's a shame! It's the same banquet, so it's the perfect match for you."
 
-    ("「クイズじ痰ゃねえんだから、＝早く言え！」†",
+    ("「クイズじ痰ゃねえんだから、＝早く言え！」",
     ""),
     # "There's no phlegm in the quiz, so = tell me quickly!"
 
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Ping Pong Pong Pong!"
 
-    ("蛛大袈裟に飛び跳ねてｊぶ志保。†",
+    ("蛛大袈裟に飛び跳ねてｊぶ志保。",
     ""),
-    # Shiho jumps up and down in an exaggerated way.†
+    # Shiho jumps up and down in an exaggerated way.
 
     ("レミィがすごい成績？閨	オレの鰍リアクションは｢｢。",
     ""),

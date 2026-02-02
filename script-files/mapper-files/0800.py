@@ -2,17 +2,17 @@
 # Source file: 0800.txt
 
 text_array = [
-    ("（レミィとの出逢いイント鴻ロ）閨（３月５冾日（＄）夕）閨（早書店）†",
+    ("（レミィとの出逢いイント鴻ロ）閨（３月５冾日（＄）夕）閨（早書店）",
     ""),
-    # (Meeting with Remie Into Honglo) (3rd Lion Day, 5th Day ($) Evening) (Saisho Store)†
+    # (Meeting with Remie Into Honglo) (3rd Lion Day, 5th Day ($) Evening) (Saisho Store)
 
     ("何気なくオレは、商店街をうついていた。",
     ""),
     # I casually leapt through the shopping district.
 
-    ("立ち読みでもしようと、本屋に寄鰍うとしたら、店の脇で、小さな男の子がモいているのに気がついた。†",
+    ("立ち読みでもしようと、本屋に寄鰍うとしたら、店の脇で、小さな男の子がモいているのに気がついた。",
     ""),
-    # I was about to stop by the bookstore to try to browse and try to cook it off, but I noticed a little boy crying at the side of the store.†
+    # I was about to stop by the bookstore to try to browse and try to cook it off, but I noticed a little boy crying at the side of the store.
 
     ("５、６才に見えるその子は、わんわんと派阡手にモいている。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Gakkinchi, what's wrong?"
 
-    ("と聞いた。†",
+    ("と聞いた。",
     ""),
-    # I heard that.†
+    # I heard that.
 
     ("「お母さん…お母さん…ぐすん」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "...You got separated from your mother, haven't you?"
 
-    ("メきながら、今度はうなずいた。†",
+    ("メきながら、今度はうなずいた。",
     ""),
-    # I nodded this time, crying.†
+    # I nodded this time, crying.
 
     ("「オレが捜してやるよ。…名前は？」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "Takamitsu... you have a great name and phlegm. How many?"
 
-    ("「ぐすん…５才」†",
+    ("「ぐすん…５才」",
     ""),
-    # "Shus...5 years old"†
+    # "Shus...5 years old"
 
     ("「５才かぁ…＠年は小学校じ痰ゃねえか。",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # I've been separated from my mother, so how long will I be crying?
 
-    ("「ぐすん」†",
+    ("「ぐすん」",
     ""),
-    # "Gusun" †
+    # "Gusun" 
 
     ("メ買い物の途湯ではぐれたのなら、母親は近くにいるだうと、付近を歩き回ってみたが、全然見つからなかった。",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Brother, you're so tired."
 
-    ("タカミツは、その場に座闕り桙込んでしまった。†",
+    ("タカミツは、その場に座闕り桙込んでしまった。",
     ""),
-    # Takamitsu sat there and plunged into the spot.†
+    # Takamitsu sat there and plunged into the spot.
 
     ("もう１桙時間は歩いたよな…。",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "No phlegm... I'm on my shoulder, Takamitsu."
 
-    ("そう言って地面にし痰ゃがみ、タカミツに背白を見せた。†",
+    ("そう言って地面にし痰ゃがみ、タカミツに背白を見せた。",
     ""),
-    # He said that, he smeared onto the ground and showed Takamitsu a disgusting disgust.†
+    # He said that, he smeared onto the ground and showed Takamitsu a disgusting disgust.
 
     ("・",
     ""),
@@ -138,17 +138,17 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("母親を捜して、オレはタカミツをおぶって、狭くはない商店街を３桙時間近くも歩き回濶り、諱ようやく見つけた頃には、とっぷりと冾日が暮れていた。",
     ""),
     # Looking for his mother, I was carrying Takamitsu on my shoulder, and nearly three tiny shopping districts were roaming around, and by the time I found them, the sun had fallen completely.
 
-    ("タカミツのお母さんは、商店街の外を捜し回っていたらしい。†",
+    ("タカミツのお母さんは、商店街の外を捜し回っていたらしい。",
     ""),
-    # Apparently Takamitsu's mother was searching outside the shopping district.†
+    # Apparently Takamitsu's mother was searching outside the shopping district.
 
     ("近くの交番にでも預ければ、こんな苦労はしなくてもよかったのだけど、オレは、あえて最纃後までつき№合ったんだ。",
     ""),

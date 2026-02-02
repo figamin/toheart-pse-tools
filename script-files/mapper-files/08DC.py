@@ -2,9 +2,9 @@
 # Source file: 08DC.txt
 
 text_array = [
-    ("（レミィと志保と勉強	３／１５）閨（テスト２冾日目に連鋸結）†",
+    ("（レミィと志保と勉強	３／１５）閨（テスト２冾日目に連鋸結）",
     ""),
-    # (Great Remie, Shiho and Study 3/15) (Shafting on the second day of the test)†
+    # (Great Remie, Shiho and Study 3/15) (Shafting on the second day of the test)
 
     ("調子が悪い上にプレッシャャーなんて、勘弁して欲しいぜ。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # I'm sure lol. I'm waiting for you to have a double chayan in the weekly Monday, Tuesday and English-Japanese language.
 
-    ("ただでさえ少ない自信が、ますます少なくなっていく…。†",
+    ("ただでさえ少ない自信が、ますます少なくなっていく…。",
     ""),
-    # My already low confidence is getting less and less...†
+    # My already low confidence is getting less and less...
 
     ("化学とか現社とかは、授業を聞いてなくても考えればわかる部分ってのがある。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # However, in English, you cannot talk about English, unless you remember the word "Size" or "Size" or "Size" or "Size" or "Size" or "Size" or "Size" or "Size" or "Size" can't be done without memorizing the word "Size" or "Size" or "Size".
 
-    ("結局、＝普段の授業とか予習恟復習の積み重ねがモノを言うんだよな。†",
+    ("結局、＝普段の授業とか予習恟復習の積み重ねがモノを言うんだよな。",
     ""),
-    # In the end, the accumulation of regular classes and preparation and reviews is what makes you think of something b.†
+    # In the end, the accumulation of regular classes and preparation and reviews is what makes you think of something b.
 
     ("このままだと、空っぽの解嚔答涛欄の山が…。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # пIt's too dangerous.
 
-    ("こんなことなら、あかりと勉強してた方がよかったか…。†",
+    ("こんなことなら、あかりと勉強してた方がよかったか…。",
     ""),
-    # If this were to happen, then Fuku would have been better if he had studied with Akari...†
+    # If this were to happen, then Fuku would have been better if he had studied with Akari...
 
     ("「う〜っ、う〜っ」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # Seriously, I heard a strange groan from the aftermath.
 
-    ("振關りｌくと、志保がいる。†",
+    ("振關りｌくと、志保がいる。",
     ""),
-    # When I called out, Shiho was there.†
+    # When I called out, Shiho was there.
 
     ("「なんだお前、テストの調子が悪すぎて頭がおかしくなったか」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # It's not like it's going to be a mess, and it's going to be weird anymore.
 
-    ("じ痰ゃ今のが正岦常なんだな…。†",
+    ("じ痰ゃ今のが正岦常なんだな…。",
     ""),
-    # I guess the current situation is always Shomin...†
+    # I guess the current situation is always Shomin...
 
     ("「あんた、あたしが今以繹上におかしくなりっこないって思ったでしょ？」",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "Your low-quality, healthy-looking thought patterns are obvious."
 
-    ("「昼間っからミョーなうなり声辮上げてるрヤツに言甯われち痰ゃおしまいだな」†",
+    ("「昼間っからミョーなうなり声辮上げてるрヤツに言甯われち痰ゃおしまいだな」",
     ""),
     # "The guy who's been making a groaning noise from the daytime will be able to say it and it's over."
 
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Ah, shut up."
 
-    ("などと言い№合ってると、†",
+    ("などと言い№合ってると、",
     ""),
     # If you say something like that, then
 
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Ah, oh, oh Remy."
 
-    ("「シホ、ハトのモノマネ？」†",
+    ("「シホ、ハトのモノマネ？」",
     ""),
     # "Shiho, do you imitate a pigeon?"
 
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "The pigeons squeal at the banquet land in the morning, "W shield o the next lol, the next lol" c."
 
-    ("「…なんかこええハトだな」†",
+    ("「…なんかこええハトだな」",
     ""),
-    # "...It's a bit of a pigeon."†
+    # "...It's a bit of a pigeon."
 
     ("「レミィ、それって別の生き物じ痰ゃないのぉ？",
     ""),
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "There's no way there. The painting of Hoban's film."
 
-    ("「世界征梵服を企んでるんデスか！？」†",
+    ("「世界征梵服を企んでるんデスか！？」",
     ""),
     # "You're planning on a world-running Sanskrit suit, are you dead?!"
 
@@ -178,15 +178,15 @@ text_array = [
     ""),
     # "Idiot. Why is this guy who is like he's trying to conquer the world, transformed into a pigeon?"
 
-    ("「それもそうデス」†",
+    ("「それもそうデス」",
     ""),
-    # "That's true for Hot" †
+    # "That's true for Hot" 
 
     ("「アホはどっちよ。ハトが世界征梵服するわけねーだ、なんて油断しきってるよーなрヤツが次のシーンで真っ先に死ぬのよ。って典型的笂やられ一般人ね〜」",
     ""),
     # "Which idiot? I can't believe the pigeons are going to take over the world, and the guy who's completely careless is going to die in the next scene. That's a typical normal person who's been defeated."
 
-    ("「そうネ。生き残骼る主人公は疑闍り深いのデス」†",
+    ("「そうネ。生き残骼る主人公は疑闍り深いのデス」",
     ""),
     # "Yes. The surviving protagonist is a very suspicious death."
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "Hahahaha."
 
-    ("「笑ってごまかしたな…」†",
+    ("「笑ってごまかしたな…」",
     ""),
     # "You laughed and cheated me..."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "After the day after the Meiang, the MoCB is high in M ​​Amami Tang, and the next one is the current banquet?"
 
-    ("「ケミストリ？」†",
+    ("「ケミストリ？」",
     ""),
     # "Chemist Lagori?"
 
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # My worries are different from those of us.
 
-    ("「レミィはいいわよねぇ、英皷語バッチシで」†",
+    ("「レミィはいいわよねぇ、英皷語バッチシで」",
     ""),
-    # "Yaremy is great, you're in the English language" †
+    # "Yaremy is great, you're in the English language" 
 
     ("オレは｢｢。",
     ""),

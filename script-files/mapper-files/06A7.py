@@ -2,9 +2,9 @@
 # Source file: 06A7.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜Ａ	本気で打つ！）†",
+    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜Ａ	本気で打つ！）",
     ""),
-    # (Muryuruchi, the balance event, return road) (Select A, seriously play!)†
+    # (Muryuruchi, the balance event, return road) (Select A, seriously play!)
 
     ("オレは、パキーンッ！と、本気でパックを打った。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Kakoooon!
 
-    ("パックは真っ直ぐ飛び、あっという間に、マルチのゴールに突き刺さる。†",
+    ("パックは真っ直ぐ飛び、あっという間に、マルチのゴールに突き刺さる。",
     ""),
-    # The pack flew straight and quickly thrusts into the goal of Makruchi.†
+    # The pack flew straight and quickly thrusts into the goal of Makruchi.
 
     ("「えっ！？」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Makruchi seemed unsure of what was going on, and he let out a voice like that.
 
-    ("堰ラケットを構えたまま、ピクリとも動いていない。†",
+    ("堰ラケットを構えたまま、ピクリとも動いていない。",
     ""),
-    # The dam racket was still in place, but the heat was not moving.†
+    # The dam racket was still in place, but the heat was not moving.
 
     ("「ほらほら、ゴール前がガラ空きだぜ！」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # I was pretty serious about my hard work.
 
-    ("閨手加減なしで本気で戦う…それが鰍相闡手への礼儀だ。†",
+    ("閨手加減なしで本気で戦う…それが鰍相闡手への礼儀だ。",
     ""),
-    # They fight seriously without any effort...that's a courtesy to the monks.†
+    # They fight seriously without any effort...that's a courtesy to the monks.
 
     ("「は、速くて見えませ〜ん；」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "In fact, I pushed it.
 
-    ("ヘ鴻ロヘ鴻ロ〜と、パックが鰍滑ってくる。†",
+    ("ヘ鴻ロヘ鴻ロ〜と、パックが鰍滑ってくる。",
     ""),
-    # Hehhhhhhhhhhhhh, the pack starts to slip.†
+    # Hehhhhhhhhhhhhh, the pack starts to slip.
 
     ("「こんな程度じ痰ゃゴールは譲齒れねーぜ！」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # Kakoooon!
 
-    ("ゴール！†",
+    ("ゴール！",
     ""),
-    # goal!†
+    # goal!
 
     ("「あうう〜っ；」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # ...People.
 
-    ("ヘ鴻ロヘ鴻ロ〜。†",
+    ("ヘ鴻ロヘ鴻ロ〜。",
     ""),
-    # Hehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh†
+    # Hehhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
     ("「そらっ、もっと気㈲合いを入齠れっ！」",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # goal!
 
-    ("「あううう〜っ；」†",
+    ("「あううう〜っ；」",
     ""),
-    # "Ahhhh;" †
+    # "Ahhhh;" 
 
     ("・",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("…結局、マルチはオレから、一度燗もゴールを奪えなかった。",
     ""),
@@ -154,8 +154,8 @@ text_array = [
     ""),
     # "I don't think it's going to be tampered with."
 
-    ("「…ううっ」†",
+    ("「…ううっ」",
     ""),
-    # "...Uuh" †
+    # "...Uuh" 
 
 ]

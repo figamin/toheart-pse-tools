@@ -2,9 +2,9 @@
 # Source file: 02AB.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（選択綜Ｂ	ごめん…）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ５）閨（選択綜Ｂ	ごめん…）",
     ""),
-    # (Seri°Kawa, Scales Event 2F LV5)Seri (Select So B Sorry...)†
+    # (Seri°Kawa, Scales Event 2F LV5)Seri (Select So B Sorry...)
 
     ("「ごめん…」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # It's because of my super stupid, silly, inadvertently.
 
-    ("諱先輩が怒ったって、なにも言い返せない。†",
+    ("諱先輩が怒ったって、なにも言い返せない。",
     ""),
-    # Even if Senpai got angry, no matter what, he can't say back.†
+    # Even if Senpai got angry, no matter what, he can't say back.
 
     ("「………」",
     "…"),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # That's because I did a lot of attention.
 
-    ("でも先輩は、オレを叩いたりはしなかった。†",
+    ("でも先輩は、オレを叩いたりはしなかった。",
     ""),
-    # And Ka-senpai didn't even hit me with any harsh criticism.†
+    # And Ka-senpai didn't even hit me with any harsh criticism.
 
     ("なでなで…。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ？	なにか悲しいことがあったのですかって？	なに言ってんだよ。オレは…」†",
+    ("「えっ？	なにか悲しいことがあったのですかって？	なに言ってんだよ。オレは…」",
     ""),
-    # "Huh? Did something sad happen? What are you talking about? I'm so excited..." †
+    # "Huh? Did something sad happen? What are you talking about? I'm so excited..." 
 
     ("なでなで…。",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # Stroke...
 
-    ("「せ、諱先輩…」†",
+    ("「せ、諱先輩…」",
     ""),
-    # "See, Senpai..."†
+    # "See, Senpai..."
 
     ("オレは罪悪感で胸がいっぱいになった。",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # It was supposed to be full...but when I was being stroked by my senior Ikusa, I strangely felt that even that was getting better.
 
-    ("じっと見つめる先輩の瞳が、すごく優しく見えた。†",
+    ("じっと見つめる先輩の瞳が、すごく優しく見えた。",
     ""),
-    # The senior's eyes looked very gentle.†
+    # The senior's eyes looked very gentle.
 
     ("「ありがとう、もういいよ…」",
     ""),
@@ -118,8 +118,8 @@ text_array = [
     ""),
     # When I said that, Senpai Nodded and pulled out.
 
-    ("オレは心のなかで、もう一度、ごめん…と先輩に謝った。†",
+    ("オレは心のなかで、もう一度、ごめん…と先輩に謝った。",
     ""),
-    # In my heart, I apologized to my senior again, saying, "I'm sorry."†
+    # In my heart, I apologized to my senior again, saying, "I'm sorry."
 
 ]

@@ -2,9 +2,9 @@
 # Source file: 0080.txt
 
 text_array = [
-    ("（冝期槙末テスト	１冾日目）閨（教室１）†",
+    ("（冝期槙末テスト	１冾日目）閨（教室１）",
     ""),
-    # (First day of the 1st day of the cypress final exam) (Classroom 1)†
+    # (First day of the 1st day of the cypress final exam) (Classroom 1)
 
     ("今厓日から学年又末テストだ。",
     ""),
@@ -18,25 +18,25 @@ text_array = [
     ""),
     # In the first round of time, the healthy and healthy training will be a good outpost.
 
-    ("いちおう、やるだけのことはやったんだし、あとは運汢次謗第だな。†",
+    ("いちおう、やるだけのことはやったんだし、あとは運汢次謗第だな。",
     ""),
-    # Well, I've tampered with what I had to do, and the rest is a slander of Unhing.†
+    # Well, I've tampered with what I had to do, and the rest is a slander of Unhing.
 
     ("席替えをすませて待っていると、担亦当の先生がやってきた。",
     ""),
     # As I waited for the seats to be changed, the teacher who was also involved started to tamper with me.
 
-    ("裏返しにした嘯答案用落と問題用落が配逕られてくる。†",
+    ("裏返しにした嘯答案用落と問題用落が配逕られてくる。",
     ""),
-    # The answers that have been turned over and the answers for the questionnaire are distributed.†
+    # The answers that have been turned over and the answers for the questionnaire are distributed.
 
     ("チャャイムと同椏時にぺらぺらと用落を裏返す音が聞こえ、テストが始まった。",
     ""),
     # When the same time as Chaim, I heard a sound of the dropping over and over again, and the test began.
 
-    ("さあ、やるか。†",
+    ("さあ、やるか。",
     ""),
-    # Now, shall we do it?†
+    # Now, shall we do it?
 
     ("２桙時間目、物摯理。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # ...It's just tampering and tampering with energy crying and atomic nuclei.
 
-    ("ええい、やるしかねぇ。†",
+    ("ええい、やるしかねぇ。",
     ""),
-    # Yes, I have no choice but to do it.†
+    # Yes, I have no choice but to do it.
 
     ("「あ〜、終尞わった、終尞わった」",
     ""),
@@ -58,17 +58,17 @@ text_array = [
     ""),
     # The schedule for the first day was completed without a question.
 
-    ("オレは軽いストレッチで、コチコチになった身体をほぐした。†",
+    ("オレは軽いストレッチで、コチコチになった身体をほぐした。",
     ""),
-    # My hardcore throbbing was a light, intense stretch, and relaxed my tight body.†
+    # My hardcore throbbing was a light, intense stretch, and relaxed my tight body.
 
     ("「ち痰ゃん」",
     ""),
     # "Choo"
 
-    ("身体熨も気分熾もすっきりしたとこで、あかりが様子を見にやってきた。†",
+    ("身体熨も気分熾もすっきりしたとこで、あかりが様子を見にやってきた。",
     ""),
-    # When the body and mood were refreshed, Akari began to watch the situation.†
+    # When the body and mood were refreshed, Akari began to watch the situation.
 
     ("「なんだ。さっそく結果を聞きにきたのか」",
     ""),

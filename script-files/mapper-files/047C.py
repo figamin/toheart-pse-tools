@@ -2,9 +2,9 @@
 # Source file: 047C.txt
 
 text_array = [
-    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	オレがｌめる）†",
+    ("（志保	氏試験卲日帰闍り	ＰＳ）閨（選択綜	オレがｌめる）",
     ""),
-    # (Shiho's exam return day PS) (Select Sou Ikere)†
+    # (Shiho's exam return day PS) (Select Sou Ikere)
 
     ("「…諱よし、ゲーセンだ。お前、カラオケの次くらいに好きだ？」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "What are you? I'm going to go to the arcade in Kaba for the test period?"
 
-    ("「自分から『遊ぼ』って誘っといて、そり痰ゃねえだ」†",
+    ("「自分から『遊ぼ』って誘っといて、そり痰ゃねえだ」",
     ""),
     # "I invited you to play with me, and I'm not going to get any sighs."
 
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "Hahaha, I'm not sure what to do. Isn't there any phlegm? When I went there, my grades improved and my temperature went down, and my temperature didn't go anywhere."
 
-    ("「お前の場㍼合、一番下だからな。これ以繹上、下がりようがねえだ」†",
+    ("「お前の場㍼合、一番下だからな。これ以繹上、下がりようがねえだ」",
     ""),
-    # "Your place is at the bottom, so it's the bottom. There's no way it will go up or down from now on." †
+    # "Your place is at the bottom, so it's the bottom. There's no way it will go up or down from now on." 
 
     ("「言ったわね〜っ、あんただってすぐに№仲間鞄闢りよ。死なばもともなんだからっ」",
     ""),
     # "You said it, you should immediately bring your number one companion. If you die, you're not going to have a stove, b and stove."
 
-    ("「バカ言うなよ。あの世までつき№合寘わされてたまるか」†",
+    ("「バカ言うなよ。あの世までつき№合寘わされてたまるか」",
     ""),
     # "Don't call yourself stupid. Will you be forced to join us all the way to the other world?"
 

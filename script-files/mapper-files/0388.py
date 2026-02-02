@@ -2,9 +2,9 @@
 # Source file: 0388.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（Ａ	オレについてｗ育翌鉤るならな！）閨（の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（Ａ	オレについてｗ育翌鉤るならな！）閨（の続き）",
     ""),
-    # (Tomoko's Scales Event: Departing from School LV2) (About Ogere LOL, if you're going to get the next hook up!) (Continued)†
+    # (Tomoko's Scales Event: Departing from School LV2) (About Ogere LOL, if you're going to get the next hook up!) (Continued)
 
     ("「オレについてｗ育翌鉤るならな！」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "What?!"
 
-    ("あっけに取邇られたまま、置き去闍りにされるあかり。†",
+    ("あっけに取邇られたまま、置き去闍りにされるあかり。",
     ""),
-    # Akari is left alone and left behind.†
+    # Akari is left alone and left behind.
 
     ("だが、さすがは幼なじみ。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Ah, well, wait."
 
-    ("鞄を胸に抱え、すぐに後を追ってくる。†",
+    ("鞄を胸に抱え、すぐに後を追ってくる。",
     ""),
-    # He holds his bag to his chest and immediately follows him.†
+    # He holds his bag to his chest and immediately follows him.
 
     ("「ち痰ゃ〜ん」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # Akari gets me excited from the back.
 
-    ("「待ってよぉ、ち痰ゃんってばぁ〜っ」†",
+    ("「待ってよぉ、ち痰ゃんってばぁ〜っ」",
     ""),
-    # "Wait, sputum!" †
+    # "Wait, sputum!" 
 
     ("オレは校門を出たあたりで立ち止まると、あかりが追いつくと同椏時に、",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Skinny!"
 
-    ("かみつくように怒鳴った。†",
+    ("かみつくように怒鳴った。",
     ""),
-    # He yelled at me.†
+    # He yelled at me.
 
     ("驚いたあかりがビクッと後撃にのけぞったその瞬間、",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # Gotchi!
 
-    ("運悪くそこに歩いてきた翌女生徒のおでこと、あかりの後頭箔部がモしくぶつかった。†",
+    ("運悪くそこに歩いてきた翌女生徒のおでこと、あかりの後頭箔部がモしくぶつかった。",
     ""),
-    # Unfortunately, the next day I walked over there, the forehead and the back of the head of the female student, and the foil of the light head, hit me violently.†
+    # Unfortunately, the next day I walked over there, the forehead and the back of the head of the female student, and the foil of the light head, hit me violently.
 
     ("あっち痰ゃ〜。",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # Head to head.
 
-    ("しかも、かなりいい音がしたぞ。†",
+    ("しかも、かなりいい音がしたぞ。",
     ""),
-    # But the hot water also sounded pretty good.†
+    # But the hot water also sounded pretty good.
 
     ("「い、いったぁ〜…」",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("もうひとりの翌女生徒燗もかなり痛そうだが、当たり鰍所の悪さでいうと、ダ＜メージはあかりのほうが大きそうだ。†",
+    ("もうひとりの翌女生徒燗もかなり痛そうだが、当たり鰍所の悪さでいうと、ダ＜メージはあかりのほうが大きそうだ。",
     ""),
-    # The other female student who came next seemed to be quite painful, but in terms of the badness of the makara roe, the red sardines seems to be bigger.†
+    # The other female student who came next seemed to be quite painful, but in terms of the badness of the makara roe, the red sardines seems to be bigger.
 
     ("あれ？",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # The other day, she was the girl who spoke Kansai dialect, which she first appeared in the cursive library.
 
-    ("たしか、あかりと同じクラスで、名前は…保科ほしなとかいったっけ。†",
+    ("たしか、あかりと同じクラスで、名前は…保科ほしなとかいったっけ。",
     ""),
-    # I'm sure it was the same banquet as Akari, and her name was... Hoshina Hoshina.†
+    # I'm sure it was the same banquet as Akari, and her name was... Hoshina Hoshina.
 
     ("なんかこいつとは、印象の悪いエピソードばっかりだなあ。",
     ""),

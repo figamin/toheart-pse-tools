@@ -2,9 +2,9 @@
 # Source file: 069F.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	１階１）閨（選択綜	あいさつして別れる）†",
+    ("（マルチ	回秤数イベント	１階１）閨（選択綜	あいさつして別れる）",
     ""),
-    # (Muryuruchi, Scales, 1st floor 1) (Choice, greeting and parting)†
+    # (Muryuruchi, Scales, 1st floor 1) (Choice, greeting and parting)
 
     ("「じ痰ゃ、オレ帰っから。またな」",
     ""),

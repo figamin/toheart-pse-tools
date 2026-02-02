@@ -2,9 +2,9 @@
 # Source file: 0586.txt
 
 text_array = [
-    ("（葵	回秤数イベント２の選択繿後	Ｃ）†",
+    ("（葵	回秤数イベント２の選択繿後	Ｃ）",
     ""),
-    # (Aoi After selecting the balance number event 2 C)†
+    # (Aoi After selecting the balance number event 2 C)
 
     ("「自分逡らしくしたいっていう、その考え方が好きってことさ」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "At the end of the day, all the people who have the hot springs, so you're probably thinking that way."
 
-    ("「えっ？」†",
+    ("「えっ？」",
     ""),
-    # "Huh?" †
+    # "Huh?" 
 
     ("「みんな、自分だけが持つ価値観ってやつがあってさ、本末当はそれを大切にしたいんだけど、まわりからはみだすのが凾嫌で、はっきりそれを認めることができなかったり」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「でも、葵ち痰ゃんにはそれが言えるんだよな。そういうとこ、うらやましいよ」†",
+    ("「でも、葵ち痰ゃんにはそれが言えるんだよな。そういうとこ、うらやましいよ」",
     ""),
     # "And that's what you can say to Aoi Chisho-yan. I'm jealous of that."
 

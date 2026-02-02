@@ -2,9 +2,9 @@
 # Source file: 0498.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階２）閨（選択綜	いいぜ）†",
+    ("（志保	回秤数イベント	１階２）閨（選択綜	いいぜ）",
     ""),
-    # (Shiho Scales Event, 1st floor 2) (Selection So Iize)†
+    # (Shiho Scales Event, 1st floor 2) (Selection So Iize)
 
     ("「いいぜ」",
     ""),
@@ -14,8 +14,8 @@ text_array = [
     ""),
     # "Yeah!
 
-    ("早速行きましょ」†",
+    ("早速行きましょ」",
     ""),
-    # Let's go straight away"†
+    # Let's go straight away"
 
 ]

@@ -2,9 +2,9 @@
 # Source file: 0A3A.txt
 
 text_array = [
-    ("（Ｂ	やめておく。）†",
+    ("（Ｂ	やめておく。）",
     ""),
-    # (B: Stop it.)†
+    # (B: Stop it.)
 
     ("やめておこう。",
     ""),

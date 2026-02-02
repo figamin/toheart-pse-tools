@@ -2,9 +2,9 @@
 # Source file: 07F8.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	猫が好き）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	猫が好き）",
     ""),
-    # (Kotone, Scales Event PS) (Chome, I like cats)†
+    # (Kotone, Scales Event PS) (Chome, I like cats)
 
     ("「オレも猫、好きだな」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "I think I'm going to lose to Kotone Chisho-yan."
 
-    ("「ふふっ…」†",
+    ("「ふふっ…」",
     ""),
-    # "Hehe..." †
+    # "Hehe..." 
 
     ("今、琴音ち痰ゃんが微笑んだ。",
     ""),

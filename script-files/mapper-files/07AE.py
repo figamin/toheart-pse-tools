@@ -2,9 +2,9 @@
 # Source file: 07AE.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（ハイブリッド）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（ハイブリッド）",
     ""),
-    # (Kotone Scales Event PS) (Hibugata Lid)†
+    # (Kotone Scales Event PS) (Hibugata Lid)
 
     ("家に帰って何をしようかと考えていると、オレの前を行く翌女生徒にふと、目がゆく。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # It didn't take long to remember.
 
-    ("諱よく見骭ると、あれは琴音ち痰ゃんじ痰ゃねえか。†",
+    ("諱よく見骭ると、あれは琴音ち痰ゃんじ痰ゃねえか。",
     ""),
-    # If you look closely at the name, it's Kotone's phlegm.†
+    # If you look closely at the name, it's Kotone's phlegm.
 
     ("「いようっ、琴音ち痰ゃん」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "yes…"
 
-    ("琴音ち痰ゃんがうなずいたので、オレは彼女に並んでいっしょに歩き出した。†",
+    ("琴音ち痰ゃんがうなずいたので、オレは彼女に並んでいっしょに歩き出した。",
     ""),
-    # Kotone Chisho-chan nodded, so I started walking alongside the girls in the middle of the throbbing group.†
+    # Kotone Chisho-chan nodded, so I started walking alongside the girls in the middle of the throbbing group.
 
     ("・",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # ・
 
-    ("雅話がない…。†",
+    ("雅話がない…。",
     ""),
-    # There's no talk about it...†
+    # There's no talk about it...
 
     ("そうか、オレからいつも話してるんだ。",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("琴音ち痰ゃんは考え桙込んでしまった。†",
+    ("琴音ち痰ゃんは考え桙込んでしまった。",
     ""),
-    # Kotone Chisho-chan was shaking.†
+    # Kotone Chisho-chan was shaking.
 
     ("「あ、そういや琴音ち痰ゃんって、絵を描くのがうまいんだったな。どんな絵を描くんだ？」",
     ""),
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Do you mean the scenery of the bathing is the mountains or the sea?"
 
-    ("「もう少し、小さいものですよ」†",
+    ("「もう少し、小さいものですよ」",
     ""),
     # "It's a little smaller hot pot"
 
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # It's a bit of a real question that's sort of like an interview on TV.
 
-    ("絵のことは詳しくないから、こんなことを聞くしかない。†",
+    ("絵のことは詳しくないから、こんなことを聞くしかない。",
     ""),
-    # I'm not familiar with art, so I have no choice but to ask about this.†
+    # I'm not familiar with art, so I have no choice but to ask about this.
 
     ("「…わたし、絵を描いている桙時間が好きなんです」",
     ""),
@@ -122,7 +122,7 @@ text_array = [
     ""),
     # "Is it time you're drawing?"
 
-    ("「瘁例えば、風の≠香闕りとか、ひなたの匂いとか、外でしか感じられないことが絵を描いてるとわかって、気搴持ちいいんです」†",
+    ("「瘁例えば、風の≠香闕りとか、ひなたの匂いとか、外でしか感じられないことが絵を描いてるとわかって、気搴持ちいいんです」",
     ""),
     # "For example, I can understand that when I draw pictures, things like the bathing style, the smell of hinata, and the things that can only be felt outside, and it's good to be excited."
 
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # I'm just trying to move my hands, even though I'm going to silence my hands."
 
-    ("「そうか？	なにもしないよりは断然マシなことやってるって」†",
+    ("「そうか？	なにもしないよりは断然マシなことやってるって」",
     ""),
-    # "I see? You're doing something much better than nothing."†
+    # "I see? You're doing something much better than nothing."
 
     ("「…わたし、あまり実感ありません…」",
     ""),
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "yes…"
 
-    ("「でも、いいよなぁ。芸術的梼味を持ってて。オレなんて、休みの冾日は家でビデオ見骭るか、街樺ぶらついたりするくらいだからな」†",
+    ("「でも、いいよなぁ。芸術的梼味を持ってて。オレなんて、休みの冾日は家でビデオ見骭るか、街樺ぶらついたりするくらいだからな」",
     ""),
     # "And the hot springs are great too. They have an artistic flavour. On my days off, I watch videos at home or stroll around the city."
 
@@ -178,7 +178,7 @@ text_array = [
     ""),
     # "Ah, yes.
 
-    ("わたし、北海道生まれなんです」†",
+    ("わたし、北海道生まれなんです」",
     ""),
     # I was born in Hokkaido"
 
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "Um... it's a quiet town with a port and many old buildings in the Foreign Minister's State."
 
-    ("「外相国みたいな港町か…。なんか雰囲気出てるな」†",
+    ("「外相国みたいな港町か…。なんか雰囲気出てるな」",
     ""),
     # "It's a port town like a Foreign Minister's Country... It has a nice atmosphere."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # Hakodate Kira is also on the course."
 
-    ("「え、そうなんですか。素敵ですね」†",
+    ("「え、そうなんですか。素敵ですね」",
     ""),
     # "Eh, is that so? That's lovely."
 
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # "Ah, yes. Please."
 
-    ("そんな翌風に、その冾日は琴音ち痰ゃんと函館の話陂題に花を咲かせた。†",
+    ("そんな翌風に、その冾日は琴音ち痰ゃんと函館の話陂題に花を咲かせた。",
     ""),
-    # In the next day, the day began to bloom in Hakodate's talk.†
+    # In the next day, the day began to bloom in Hakodate's talk.
 
     ("琴音ち痰ゃんは無菇口な子だと思っていたが、話してみると結構良くし痰ゃべる子だったんだ。",
     ""),

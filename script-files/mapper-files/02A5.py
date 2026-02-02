@@ -2,9 +2,9 @@
 # Source file: 02A5.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（選択綜Ｃ	＊淫俣冾｢いもん食べてんの？）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（選択綜Ｃ	＊淫俣冾｢いもん食べてんの？）",
     ""),
-    # (Seri°Kawaii Scale Number Event 1F LV1)Seri (Selection C *Inmata Kyou: "Are you eating yukamon?)†
+    # (Seri°Kawaii Scale Number Event 1F LV1)Seri (Selection C *Inmata Kyou: "Are you eating yukamon?)
 
     ("「やっぱ、＊淫俣冾｢いもん食べてんの？」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I heard.
 
-    ("「え？	諱よくわかりませんって？	そうか、艨比較対象がないと、いいのか悪いのかなんてわかんねー諱よな」†",
+    ("「え？	諱よくわかりませんって？	そうか、艨比較対象がないと、いいのか悪いのかなんてわかんねー諱よな」",
     ""),
     # "Huh? You really don't know what you're saying? I see, I don't know if it's good or bad unless you have a comparison target. It's a real name."
 
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # What is it?
 
-    ("オレは身近な食い物をあげてみた。†",
+    ("オレは身近な食い物をあげてみた。",
     ""),
-    # I gave him some familiar food.†
+    # I gave him some familiar food.
 
     ("「とぶっかけごはん。知ってる？」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "You don't know? Are you serious? That's the phlegm, what about Chichi-to?"
 
-    ("ふるふる。†",
+    ("ふるふる。",
     ""),
-    # Heat.†
+    # Heat.
 
     ("「秩湯どうふも食ったことない？	そっかあ、それはちょっとかわいそうかもな」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩は悲しい顔をした。†",
+    ("諱先輩は悲しい顔をした。",
     ""),
-    # Senpai made a sad look on his face.†
+    # Senpai made a sad look on his face.
 
     ("「んー…、じ痰ゃあさ、今度機級があったら、オレが庶民の食い物ってのを教えてやるよ」",
     ""),
@@ -86,8 +86,8 @@ text_array = [
     ""),
     # Sniff.
 
-    ("諱先輩は二度うなずいた。†",
+    ("諱先輩は二度うなずいた。",
     ""),
-    # Senpai nodded twice.†
+    # Senpai nodded twice.
 
 ]

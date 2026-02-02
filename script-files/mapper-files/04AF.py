@@ -2,9 +2,9 @@
 # Source file: 04AF.txt
 
 text_array = [
-    ("（志保	回秤数イベント	帰闍り道１＋α）閨（志保１）†",
+    ("（志保	回秤数イベント	帰闍り道１＋α）閨（志保１）",
     ""),
-    # (Shiho Scales Event Return Road 1 + α) (Shiho 1)†
+    # (Shiho Scales Event Return Road 1 + α) (Shiho 1)
 
     ("「あっ、そーだ」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What is that?"
 
-    ("「ねえ、家に帰驪るのには桙時間あるし、いまからрヤックでテスト対策について、話し№合寘わない？」†",
+    ("「ねえ、家に帰驪るのには桙時間あるし、いまからрヤックでテスト対策について、話し№合寘わない？」",
     ""),
     # "Hey, I have time to go home, so why don't you talk to them about preparing for the test at рyak now?"
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "...That's fine. I won't lose out."
 
-    ("とこたえた。†",
+    ("とこたえた。",
     ""),
-    # I responded.†
+    # I responded.
 
     ("その冾日はрヤックで、志保とテスト対策について色々と意見を交換した。",
     ""),

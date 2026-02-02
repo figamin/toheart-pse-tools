@@ -2,9 +2,9 @@
 # Source file: 0F03.txt
 
 text_array = [
-    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	志保）閨（蛛主人公煙負け）閨（ゲーセン内）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	志保）閨（蛛主人公煙負け）閨（ゲーセン内）",
     ""),
-    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Sorted Shiho) (Demon Protagonist) (Inside the arcade) †
+    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Sorted Shiho) (Demon Protagonist) (Inside the arcade) 
 
     ("終尞わった…。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I did it.
 
-    ("ちらりと後撃を見骭ると、はち切齔れんばかりの笑顔の志保が…。†",
+    ("ちらりと後撃を見骭ると、はち切齔れんばかりの笑顔の志保が…。",
     ""),
-    # After a glimpse of the attack, Shiho, who was laughing at him, was laughing at him...†
+    # After a glimpse of the attack, Shiho, who was laughing at him, was laughing at him...
 
     ("「いよっ、ごく〜さん」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "...I'll heal my paper bugs and grapes."
 
-    ("「き痰ゃははっ、おっもし〜い。そんなこと言ってもあんたの運命は変﨑わらないわよ〜っ」†",
+    ("「き痰ゃははっ、おっもし〜い。そんなこと言ってもあんたの運命は変﨑わらないわよ〜っ」",
     ""),
     # "Ah, oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh oh
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # Of course, the remaining Akari and I-Hisaku's victory was the winner, and I-Hisaku, of course, the winner was the winner.
 
-    ("内容的には結構いい勝縁負だったんだよな。†",
+    ("内容的には結構いい勝縁負だったんだよな。",
     ""),
-    # In terms of content, I was pretty good at winning.†
+    # In terms of content, I was pretty good at winning.
 
     ("オレのほうは、志保にрヤックをおごる羽目になった。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "I thought so, and I also got one rutet сyak tan!"
 
-    ("「こ、この翌女〜〜〜っ」†",
+    ("「こ、この翌女〜〜〜っ」",
     ""),
-    # "Hey, the next woman..." †
+    # "Hey, the next woman..." 
 
     ("卒業式なんて、在校生にとっては、そんななんでもない一勛日に過ぎない。◯",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # Please post more than 150 HIT and do not take any items other than blue.
 
-    ("では、°体的な攻略に入闢りましょう。†",
+    ("では、°体的な攻略に入闢りましょう。",
     ""),
-    # Now, let's start with the ° physical strategy.†
+    # Now, let's start with the ° physical strategy.
 
     ("《ＳＴＡＧＥ１》",
     ""),
@@ -98,39 +98,39 @@ text_array = [
     ""),
     # On the first side, use the blue one except to switch to a red one at two dry places.
 
-    ("それを踏まえた上で、まずは一つ目のポイントである１５０ＨＩＴから。†",
+    ("それを踏まえた上で、まずは一つ目のポイントである１５０ＨＩＴから。",
     ""),
-    # Taking this into consideration, we'll start with the first point, 150 HIT.†
+    # Taking this into consideration, we'll start with the first point, 150 HIT.
 
-    ("コンボ開始は１面が始まってしばらくたって、レーザーさん浮＆クマッキー×２が登齠場する場面の手前、緑耐性で画面外且をぐるぐる回驩る「人形さん緑」×５が２グループと「お化け」×３からスタートです。（志保のコンボパターンは古いので、開始地点が遅くなっています）†",
+    ("コンボ開始は１面が始まってしばらくたって、レーザーさん浮＆クマッキー×２が登齠場する場面の手前、緑耐性で画面外且をぐるぐる回驩る「人形さん緑」×５が２グループと「お化け」×３からスタートです。（志保のコンボパターンは古いので、開始地点が遅くなっています）",
     ""),
-    # A while after the first page began, the combo started, and just before the scene where two Rakulaser-san Flood and Kumacky are in the position, the combo starts with 5 Ruby-san Green, which is reeling around and round the screen with green resistance, with 2 Grey Loops and 3 Ghosts.(Shiho's combo pattern is old, so the starting point is slower) †
+    # A while after the first page began, the combo started, and just before the scene where two Rakulaser-san Flood and Kumacky are in the position, the combo starts with 5 Ruby-san Green, which is reeling around and round the screen with green resistance, with 2 Grey Loops and 3 Ghosts.(Shiho's combo pattern is old, so the starting point is slower) 
 
     ("人形さんを撃たずに待ち、お化けをギリギリまで引きつけてからコンボ開始です。",
     ""),
     # Without shooting the doll, the combo starts by waiting, attracting the ghost to the Gigata Rigigata Ri.
 
-    ("それからは定咊期的に「伸びウサギ」×５が出現するので、簡単にコンボをつなげることができます。†",
+    ("それからは定咊期的に「伸びウサギ」×５が出現するので、簡単にコンボをつなげることができます。",
     ""),
-    # From then on, five "stretched rabbits" will appear at a fixed period, making it easy to connect combos.†
+    # From then on, five "stretched rabbits" will appear at a fixed period, making it easy to connect combos.
 
     ("途湯、青ショット耐性を持つ「マナ」が出現するなど厳しい場鰹所がありますが、無許視して伸びウサギでつないでいけば１５７ＨＩＴ前繿後まで出ます。志保のプレイでは、縺上から降ってくる「氏落下さん」を逃がしているのでＨＩＴが落ちています。",
     ""),
     # There are some harsh bonito spots, such as the appearance of "mana" that has resistance to water and blue-shiggyot, but if you ignore it and connect it with a rabbit, it will reach 157 HIT front and back.In Shiho's Pugerei, the "Mr. Falling" falls from above, so the HIT falls is falling.
 
-    ("撃ちもらしやすいので高注意しましょう。†",
+    ("撃ちもらしやすいので高注意しましょう。",
     ""),
-    # Be careful as it is easy to fire and fire.†
+    # Be careful as it is easy to fire and fire.
 
-    ("レーザーさん浮＆クマッキーは、レーザーさんを倒してから、墜賜落するクマッキーを倒すことで１０倍のボーナス点が入闢ります。その上コンボの倍率燉も上謠乗せされるので、１５５ＨＩＴ目で出せば一気に１２００怩万点以繹上藷闢ります。コンボをつなぎながら狙える個褐所が二つあるので（志保プレイ参照）、狙ってみましょう。†",
+    ("レーザーさん浮＆クマッキーは、レーザーさんを倒してから、墜賜落するクマッキーを倒すことで１０倍のボーナス点が入闢ります。その上コンボの倍率燉も上謠乗せされるので、１５５ＨＩＴ目で出せば一気に１２００怩万点以繹上藷闢ります。コンボをつなぎながら狙える個褐所が二つあるので（志保プレイ参照）、狙ってみましょう。",
     ""),
-    # After defeating Rayser and Bear Kimi, you will receive a 10x bonus point by defeating Rayser and defeating Bear Kimi that will fall.The multiplier of the top combo will also be added to the top, so if you put it out at 155th Hit, you will be able to collect over 1,200,000 points in one go.There are two brown spots that you can target while connecting combos (see Shiho Pugekirei), so let's try it out.†
+    # After defeating Rayser and Bear Kimi, you will receive a 10x bonus point by defeating Rayser and defeating Bear Kimi that will fall.The multiplier of the top combo will also be added to the top, so if you put it out at 155th Hit, you will be able to collect over 1,200,000 points in one go.There are two brown spots that you can target while connecting combos (see Shiho Pugekirei), so let's try it out.
 
     ("氈次のポイントです。",
     ""),
     # This is the next point.
 
-    ("ショットアイテムは同色を取りつづけることで、５個目から１０怩万点です。これにコンボの倍率がかかることで重要な得点源となります。（ちなみに、１５７ＨＩＴ継続葬に取骼ることで１個４８１怩万点になります）†",
+    ("ショットアイテムは同色を取りつづけることで、５個目から１０怩万点です。これにコンボの倍率がかかることで重要な得点源となります。（ちなみに、１５７ＨＩＴ継続葬に取骼ることで１個４８１怩万点になります）",
     ""),
     # By continuing to use the same color of the Sycout items, you can get 100,000 items from the fifth to the 100,000 items.This is an important source of scores because the combo multipliers.(By the way, if you take 157 HIT continuous funerals, each item will be 4.81 million.)
 
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # "Combo Official"
 
-    ("取得点×（１＋（ＨＩＴ−１）×０．３）がスコアにプラスされます。†",
+    ("取得点×（１＋（ＨＩＴ−１）×０．３）がスコアにプラスされます。",
     ""),
-    # The acquisition point x (1+(HIT-1) x 0.3) will be added to the score.†
+    # The acquisition point x (1+(HIT-1) x 0.3) will be added to the score.
 
     ("《ＳＴＡＧＥ２》",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # However, the timing is always harsh, and it seems impossible to be able to be accustomed by humanity.
 
-    ("実際は伸びウサギからスタートして、縺後撃から現鼬れる「п槍タイツさん」×４の直前までの７６ＨＩＴが実用的でしょう。†",
+    ("実際は伸びウサギからスタートして、縺後撃から現鼬れる「п槍タイツさん」×４の直前までの７６ＨＩＴが実用的でしょう。",
     ""),
-    # In reality, the 76HIT, which starts with a stretched rabbit, then hits the twenty after the twenty-seater Tights, is practical, and is just before the 4th twenty-seater Tights.†
+    # In reality, the 76HIT, which starts with a stretched rabbit, then hits the twenty after the twenty-seater Tights, is practical, and is just before the 4th twenty-seater Tights.
 
     ("とりあえず５０ＨＩＴ以繹上を目指しつつ、道湯は緑ショットを撃レベルアップさせ、以繹後は青と緑だけを狙って取りましょう。",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # In the boss "Battleship Migeru Renium", you can earn a score by simply using bullets from the cannon base by using strawberries.
 
-    ("逃げる前に倒すのですが、途湯の大型砲莓台でジャースを回精収するのを忘齧れずに。†",
+    ("逃げる前に倒すのですが、途湯の大型砲莓台でジャースを回精収するのを忘齧れずに。",
     ""),
-    # He defeated him before he escaped, but he couldn't forget to keep the jerseys from the large cannonstop at the bait.†
+    # He defeated him before he escaped, but he couldn't forget to keep the jerseys from the large cannonstop at the bait.
 
     ("《ＳＴＡＧＥ３》",
     ""),
@@ -182,25 +182,25 @@ text_array = [
     ""),
     # There are many green-resistant slug fish, so you can reflect green slugs to defeat other slug fish, aiming for a 10x bonus.
 
-    ("その際、なるべく高いコンボを維揶持していることでさらにスコアアップします。†",
+    ("その際、なるべく高いコンボを維揶持していることでさらにスコアアップします。",
     ""),
-    # In this case, you can improve your score by keeping the combo as high as possible.†
+    # In this case, you can improve your score by keeping the combo as high as possible.
 
     ("１００ＨＩＴ程度つながるやり方熾も存在するので、ショットアイテムの１０怩万点に倍率をかけることでさらにスコアが伸びるでしょう。",
     ""),
     # There are also tampering and fortune-telling that can be connected to about 100 HITs, so by multiplying the 100,000 points of the Sydormitted Item, your score will be even higher.
 
-    ("ボスのクマでは、確実にジャースを出させて稼ぎます。とどめは「ミニ鴻ロボットさん」をからめた２ＨＩＴでｌめます。（３ＨＩＴ可能？）†",
+    ("ボスのクマでは、確実にジャースを出させて稼ぎます。とどめは「ミニ鴻ロボットさん」をからめた２ＨＩＴでｌめます。（３ＨＩＴ可能？）",
     ""),
-    # With the boss bear, you will definitely make money by letting Jars come out.The final step is 2HIT, which involves "Mini Korobot-san."(3HIT possible?)†
+    # With the boss bear, you will definitely make money by letting Jars come out.The final step is 2HIT, which involves "Mini Korobot-san."(3HIT possible?)
 
     ("以繹上、ここまでのポイントを実践すれば確実に志保を倒せます。",
     ""),
     # As a result, if you put these points into practice, you will definitely be able to defeat Shiho.
 
-    ("ですがコンボパターンは簡単にｌまるものではありません。敵のｖ鰯哩ﾏ化する攻ｍ撃タイミングに№合寘わせてアドリブでパターンを補正する必要があります。†",
+    ("ですがコンボパターンは簡単にｌまるものではありません。敵のｖ鰯哩ﾏ化する攻ｍ撃タイミングに№合寘わせてアドリブでパターンを補正する必要があります。",
     ""),
-    # However, combo patterns are not easy to use.You will need to use the Ad Lago rib to tamper with the enemy's attack M attack timing to turn into a V-Candy Cutter.†
+    # However, combo patterns are not easy to use.You will need to use the Ad Lago rib to tamper with the enemy's attack M attack timing to turn into a V-Candy Cutter.
 
     ("パターンを安闊定させるには、何度燗もプレイしてより多くの状況を経験することです。アドリブのパターンフォ鴻ローが充実するでしょう。",
     ""),
@@ -222,13 +222,13 @@ text_array = [
     ""),
     # Once you've cooked it, you can get 7,000,000 points when you don't play the ball with just the bomb.
 
-    ("ただし、クマまではノーミスで行って『彼女』を出さなくてはなりません。†",
+    ("ただし、クマまではノーミスで行って『彼女』を出さなくてはなりません。",
     ""),
-    # However, you must make no mistakes to the bear and make a ``boyfriend'' girl.†
+    # However, you must make no mistakes to the bear and make a ``boyfriend'' girl.
 
-    ("ポイントは、アイテムキャャリアーで確実にボムを取りつづける魔事と、ボム黹一発では倒せない「なまハムライダー」の攻ｍ撃を、氈次のアイテムキャャリアーがｗ磯翌ﾜで耐えしのぐことです。†",
+    ("ポイントは、アイテムキャャリアーで確実にボムを取りつづける魔事と、ボム黹一発では倒せない「なまハムライダー」の攻ｍ撃を、氈次のアイテムキャャリアーがｗ磯翌ﾜで耐えしのぐことです。",
     ""),
-    # The key points are that the magicians who will continue to securely get bombs at Item Kyagata Rider, and the attack and M-shot of the "Nama Ham Banquet Rider" that cannot be defeated with just one bomb, while the Item Kyagata Rider can withstand the next wave of Iso.†
+    # The key points are that the magicians who will continue to securely get bombs at Item Kyagata Rider, and the attack and M-shot of the "Nama Ham Banquet Rider" that cannot be defeated with just one bomb, while the Item Kyagata Rider can withstand the next wave of Iso.
 
     ("また、ボスは倒せないので逃げていくまで根気諡よく攻ｍ撃をかわしてください。",
     ""),

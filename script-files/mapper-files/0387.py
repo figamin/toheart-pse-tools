@@ -2,9 +2,9 @@
 # Source file: 0387.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（３月）閨（校門燒内）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（３月）閨（校門燒内）",
     ""),
-    # (Tomoko's Scales Event: Leaving School LV2) (3 Shizuki) (Inside the School Midmond) †
+    # (Tomoko's Scales Event: Leaving School LV2) (3 Shizuki) (Inside the School Midmond) 
 
     ("「ち痰ゃーん」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # You can understand it even if you don't have a call.
 
-    ("オレのことを『ち痰ゃん付け』で呼ぶようなрヤツは、ひとりしかいない。†",
+    ("オレのことを『ち痰ゃん付け』で呼ぶようなрヤツは、ひとりしかいない。",
     ""),
-    # There is only one person who calls me a "chishou-chan" character.†
+    # There is only one person who calls me a "chishou-chan" character.
 
     ("「待って。ね、いっしょに帰？」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "What do you think, Hot is fine, but don't call your name in a voice."
 
-    ("「あっ、ご、ごめん」†",
+    ("「あっ、ご、ごめん」",
     ""),
-    # "Ah, sorry" †
+    # "Ah, sorry" 
 
     ("「恥ずかしいからやめって、いい加減何度燗も言ってんだ？」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "At least, call me loudly, phlegm, my name is."
 
-    ("「うん、わかった」†",
+    ("「うん、わかった」",
     ""),
-    # "Yeah, I understand" †
+    # "Yeah, I understand" 
 
     ("「で、なんだ？」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Huh? Ah, I thought I'd return to Ebi.
 
-    ("や？」†",
+    ("や？」",
     ""),
-    # or?”†
+    # or?”
 
     ("そうだなあ。",
     ""),

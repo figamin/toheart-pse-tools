@@ -2,9 +2,9 @@
 # Source file: 0038.txt
 
 text_array = [
-    ("３／８（土）†",
+    ("３／８（土）",
     ""),
-    # 3/8 (Sat)†
+    # 3/8 (Sat)
 
     ("これにて、今厓日の全課程終了。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # It's a hot thing that will end so quickly.
 
-    ("＊淫俣冾ｱうあって欲しいもんだ。†",
+    ("＊淫俣冾ｱうあって欲しいもんだ。",
     ""),
-    # *I want you to see Inumata.†
+    # *I want you to see Inumata.
 
     ("同じ２階の廊下をぐるっと回ってくると、文化系のクラブハウスがある。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # It's just tampering, but that's all.
 
-    ("べつに誰と出初うこともなかった。†",
+    ("べつに誰と出初うこともなかった。",
     ""),
-    # I never had any chance to come out with anyone.†
+    # I never had any chance to come out with anyone.
 
     ("「くん、ばいばーい」",
     ""),
@@ -42,17 +42,17 @@ text_array = [
     ""),
     # "Ou"
 
-    ("クラスの翌女子が手を振って、玄関から出ていった。†",
+    ("クラスの翌女子が手を振って、玄関から出ていった。",
     ""),
-    # The girl waved her hand out of the entrance after the banquet.†
+    # The girl waved her hand out of the entrance after the banquet.
 
     ("もし誰かに出初ったらいっしょに帰うかと思ったが、誰熬もいないみてーだな。",
     ""),
     # I thought if I had first appeared with someone, I would return to the Ebi, but I'd see no one there.
 
-    ("し痰ゃーない、ひとりで帰う。†",
+    ("し痰ゃーない、ひとりで帰う。",
     ""),
-    # There's no phlegm, I'll come back on my own.†
+    # There's no phlegm, I'll come back on my own.
 
     ("その冾日の夜。",
     ""),

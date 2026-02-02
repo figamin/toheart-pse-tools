@@ -2,17 +2,17 @@
 # Source file: 03A0.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ３）閨（選択綜Ｂ	へんっ、こっちも無許視だ。	の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ３）閨（選択綜Ｂ	へんっ、こっちも無許視だ。	の続き）",
     ""),
-    # (Tomoko's Scales Event: Leaving School LV3) (Choice B Heh, I'm also unauthorized. Continued)†
+    # (Tomoko's Scales Event: Leaving School LV3) (Choice B Heh, I'm also unauthorized. Continued)
 
     ("へんっ、だったらこっちも無許視だ。",
     ""),
     # Oh no, then I'm also unacceptable.
 
-    ("オレは黙って委員長の背白を見洛送った。†",
+    ("オレは黙って委員長の背白を見洛送った。",
     ""),
-    # I silently went to see the chairman's backlash.†
+    # I silently went to see the chairman's backlash.
 
     ("どんな集団にも必ず一握闊りは、まわりとのコミャニケーションを取りたがらない人間がいるもんだ。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Even those kinds of people don't have the stimulating stimulation of Fukukata, who is well-known for their relationship.
 
-    ("しかし、委員長はその最たるだ。†",
+    ("しかし、委員長はその最たるだ。",
     ""),
-    # However, the chairman is the best.†
+    # However, the chairman is the best.
 
     ("まあ、ああいうタイプの人間は、無摶理﨤矢摶理近づこうとするとかえって逆効果だ。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # He moves the wall more firmly than his name.
 
-    ("ふたりの№仲を進展させるには、なにかいいきっかけでもあり痰ゃいいんだが…。†",
+    ("ふたりの№仲を進展させるには、なにかいいきっかけでもあり痰ゃいいんだが…。",
     ""),
-    # To make the two of them even more friends, it's a good opportunity to have some hot stimulation and sputum...†
+    # To make the two of them even more friends, it's a good opportunity to have some hot stimulation and sputum...
 
     ("でも近づかなき痰ゃ、きっかけなんてあり痰ゃしないだうし、かといって近寄れば余計に避けられちまうし。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # The fierce lemma is a tampering thing.
 
-    ("だったら、どうしたものか。†",
+    ("だったら、どうしたものか。",
     ""),
-    # So, what's the matter?†
+    # So, what's the matter?
 
     ("などと考えてるうちに、委員長の姿はすっかり見えなくなっていた。◯",
     ""),

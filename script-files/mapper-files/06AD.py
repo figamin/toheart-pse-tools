@@ -2,9 +2,9 @@
 # Source file: 06AD.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	学校を出髀る１）閨（選択綜	あいさつして別れる）†",
+    ("（マルチ	回秤数イベント	学校を出髀る１）閨（選択綜	あいさつして別れる）",
     ""),
-    # (Muryuruchi, Scales Event, Departing from School 1) (Choice, Greetings and Parting)†
+    # (Muryuruchi, Scales Event, Departing from School 1) (Choice, Greetings and Parting)
 
     ("「気をつけて帰驪るんだぞ」",
     ""),

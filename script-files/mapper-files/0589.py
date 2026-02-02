@@ -2,9 +2,9 @@
 # Source file: 0589.txt
 
 text_array = [
-    ("（葵	回秤数イベント３	選択繿後	Ｂ）†",
+    ("（葵	回秤数イベント３	選択繿後	Ｂ）",
     ""),
-    # (Aoi Scales Event 3 after selection B)†
+    # (Aoi Scales Event 3 after selection B)
 
     ("「正直、見ているだけに飽きたからかな」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # After all, martial arts are something you have to tamper with on your own, so you're not too bored with the phlegm, right?”
 
-    ("「ああ、葵ち痰ゃんが一生恊懸命菇練習する姿とか見てると、なんだかすごく楽しそうに見えるんだよな」†",
+    ("「ああ、葵ち痰ゃんが一生恊懸命菇練習する姿とか見てると、なんだかすごく楽しそうに見えるんだよな」",
     ""),
     # "Ah, watching Aoi Chisho-yan practice hard for the rest of his life makes me look like he's having a lot of fun."
 
@@ -42,11 +42,11 @@ text_array = [
     ""),
     # "I want to know about that fun too."
 
-    ("葵ち痰ゃんはうなずいた。†",
+    ("葵ち痰ゃんはうなずいた。",
     ""),
-    # Aoi Chisho-yan nodded.†
+    # Aoi Chisho-yan nodded.
 
-    ("「本末当にやっていけるのか、まだわかんねーから、諱取りあえずは仮遠箔部って形にしといて欲しいんだけどさ」†",
+    ("「本末当にやっていけるのか、まだわかんねーから、諱取りあえずは仮遠箔部って形にしといて欲しいんだけどさ」",
     ""),
     # "I don't know yet whether we can tamper with the end of the art, so I hope they will make it into a temporary foil section without asking for a name for themselves."
 

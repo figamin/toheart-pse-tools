@@ -2,9 +2,9 @@
 # Source file: 01A7.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ａ	待って、いっしょに帰驪る）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ａ	待って、いっしょに帰驪る）",
     ""),
-    # (Akari Scales Event 1F) (A Wait, I'll go back to the simile)†
+    # (Akari Scales Event 1F) (A Wait, I'll go back to the simile)
 
     ("「あかり、今厓日はいっしょに帰驪るか」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "You're phlegm, I'm in the shoe cabinet."
 
-    ("「わかった。じ痰ゃ、＝早く終尞わらせてくるよ」†",
+    ("「わかった。じ痰ゃ、＝早く終尞わらせてくるよ」",
     ""),
-    # "I understand. I'll finish it soon." †
+    # "I understand. I'll finish it soon." 
 
     ("しばらく待っていると、掃恆除を終尞わらせ、あかりがやってきた。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # It's not surprising that they go to the shrine and go back to the shrine, and when they call them a couple, it's not surprising.
 
-    ("まあ、いまさら気にしたりもしないが。†",
+    ("まあ、いまさら気にしたりもしないが。",
     ""),
-    # Well, I don't care about it or smoke at the moment.†
+    # Well, I don't care about it or smoke at the moment.
 
     ("「そういや今厓日さ、階段で妙なことがあったんだよな」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "What a strange thing?"
 
-    ("ふと、昼休みのことを思い出したオレは、それをあかりに話して聞かせた。†",
+    ("ふと、昼休みのことを思い出したオレは、それをあかりに話して聞かせた。",
     ""),
-    # Suddenly, I remembered about lunch break, so I told Akari about it.†
+    # Suddenly, I remembered about lunch break, so I told Akari about it.
 
     ("「へえ、すごいなあ。じ痰ゃ、志保の言ってたことは本末当だったんだ」",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "You can't tell if it's the end of the day, so don't you think about it, I'm not going to give you a sigh of phlegm. However, the end of the day, the banquet of the day has broken. It's beautifully shattered."
 
-    ("「突然強い翌風が≠吹いたとか、そういうんじ痰ゃなくて？」†",
+    ("「突然強い翌風が≠吹いたとか、そういうんじ痰ゃなくて？」",
     ""),
     # "Isn't there such a thing as if a strong next wind suddenly blowing?
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # If it were wind, there's no way that child could predict it?”
 
-    ("「そっか。…じ痰ゃあ、やっぱりその子の未知のパ純ワーなのかな？」†",
+    ("「そっか。…じ痰ゃあ、やっぱりその子の未知のパ純ワーなのかな？」",
     ""),
     # "I see....I see...I see, phlegm, is that the child's unknown power after all?"
 
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # "Yeah, I'm the one who believes. There must be a lot of strange things in the world that have not been solved by science. What do you think of Chishunya?"
 
-    ("「オレは…」†",
+    ("「オレは…」",
     ""),
-    # "I'm so excited..." †
+    # "I'm so excited..." 
 
     ("「身をもってそれを体験した後なら、前とは意見煬も変﨑わったんじ痰ゃない？	超峵常現象とかそういうの、あると思う？」",
     ""),

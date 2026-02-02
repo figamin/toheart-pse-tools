@@ -2,9 +2,9 @@
 # Source file: 01AE.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｂ	悪いが、途湯で寄驫るとこがある）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｂ	悪いが、途湯で寄驫るとこがある）",
     ""),
-    # (Akari Scales Event: Departing from school) (B, bad, but there is a place where you can come in at the bathhouse)†
+    # (Akari Scales Event: Departing from school) (B, bad, but there is a place where you can come in at the bathhouse)
 
     ("「あかり」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "If that's fine."
 
-    ("「うん、じ痰ゃあ、そこまで」†",
+    ("「うん、じ痰ゃあ、そこまで」",
     ""),
     # "Yeah, sputum, that much."
 

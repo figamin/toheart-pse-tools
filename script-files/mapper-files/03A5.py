@@ -2,9 +2,9 @@
 # Source file: 03A5.txt
 
 text_array = [
-    ("（智子	回秤数イベント	帰闍り道	ＬＶ１）閨（４月）閨（本屋煢内）†",
+    ("（智子	回秤数イベント	帰闍り道	ＬＶ１）閨（４月）閨（本屋煢内）",
     ""),
-    # (Tomoko's Scales Event Return Road LV1) (4 Shizuki) (Inside the bookstore)†
+    # (Tomoko's Scales Event Return Road LV1) (4 Shizuki) (Inside the bookstore)
 
     ("帰闍りにぶらっと本屋へ立ち寄闃り、雑庶誌を立ち読みしていたときのこと。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # I thought I'd also put some hot water in my voice, and as I nearly returned the miscellaneous magazine to the shelf, I realized that the chairman alone had no phlegm.
 
-    ("委員長の横には他校の制梵服をｒた男がいて、ふたりいっしょに並んで歩いていた。†",
+    ("委員長の横には他校の制梵服をｒた男がいて、ふたりいっしょに並んで歩いていた。",
     ""),
-    # Next to the chairman was a man wearing Sanskrit uniforms from another school, and the two of them were walking alongside each other's thud.†
+    # Next to the chairman was a man wearing Sanskrit uniforms from another school, and the two of them were walking alongside each other's thud.
 
     ("誰だ？",
     ""),
@@ -42,13 +42,13 @@ text_array = [
     ""),
     # The man Fukukata seems to be constantly talking to him about something, but the chairman Fukukata is always listening to it with a hot poker face.
 
-    ("なんだか強引に言い寄迥られているようにも見える。†",
+    ("なんだか強引に言い寄迥られているようにも見える。",
     ""),
-    # It looks like Ho is being forced to say something and is being approached.†
+    # It looks like Ho is being forced to say something and is being approached.
 
-    ("男の顔をもっとよく見謖ようと思ったとき、ふたりは店の前を通闥り過ぎ、見えなくなった。†",
+    ("男の顔をもっとよく見謖ようと思ったとき、ふたりは店の前を通闥り過ぎ、見えなくなった。",
     ""),
-    # Just as they wanted to see the man's face more closely, they walked too far in front of the store and were no longer visible.†
+    # Just as they wanted to see the man's face more closely, they walked too far in front of the store and were no longer visible.
 
     ("うーん。",
     ""),

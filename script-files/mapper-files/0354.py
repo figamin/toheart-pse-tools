@@ -2,9 +2,9 @@
 # Source file: 0354.txt
 
 text_array = [
-    ("（智子	好感度イベント７回目）閨（選択綜Ａ＋＝ａからの続き）†",
+    ("（智子	好感度イベント７回目）閨（選択綜Ａ＋＝ａからの続き）",
     ""),
-    # (Tomoko, 7th time of favorability event) (Continued from Chosen A+=a)†
+    # (Tomoko, 7th time of favorability event) (Continued from Chosen A+=a)
 
     ("離齬れていく背白にｌかって、オレは言った。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # You should be able to hear it, but the chairman ignores him and walks along the road.
 
-    ("オレは構寘わずに言った。†",
+    ("オレは構寘わずに言った。",
     ""),
-    # I said without thinking about it.†
+    # I said without thinking about it.
 
     ("「オレにはとてもそうは見えないぜ。オレ、多分、明坙日燗も話しかけると思う」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "'Because I'm really, I thought the chairman was a friend."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("結局、委員長は最纃後まで振關りｌかなかった。",
     ""),

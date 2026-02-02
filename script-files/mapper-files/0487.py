@@ -2,9 +2,9 @@
 # Source file: 0487.txt
 
 text_array = [
-    ("（志保	回秤数イベント	２階２）閨（４／２５固定）閨（廊下１）†",
+    ("（志保	回秤数イベント	２階２）閨（４／２５固定）閨（廊下１）",
     ""),
-    # (Shiho Scales Event, 2nd floor 2) (4/25th) (Corridor 1)†
+    # (Shiho Scales Event, 2nd floor 2) (4/25th) (Corridor 1)
 
     ("「ア鴻ロハー、」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # When Shiho spots me, he comes nearer with a strange greeting.
 
-    ("「おめーはハ純ワイの住民か？	意味を知ってて言ってるんだーな？」†",
+    ("「おめーはハ純ワイの住民か？	意味を知ってて言ってるんだーな？」",
     ""),
     # "Are you a resident of Hajjwai? You know what it means, so you say it b?"
 
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "I don't know about it either" ♭
 
-    ("「ア鴻ロハは『諱ようこそ』『さようなら』の意味です」†",
+    ("「ア鴻ロハは『諱ようこそ』『さようなら』の意味です」",
     ""),
     # "Ah-loha means 'welcome' and 'goodbye'"
 

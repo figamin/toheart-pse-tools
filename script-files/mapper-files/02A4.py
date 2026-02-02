@@ -2,17 +2,17 @@
 # Source file: 02A4.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（選択綜Ｂ	ほかになにかｎ味とかあんの？）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（選択綜Ｂ	ほかになにかｎ味とかあんの？）",
     ""),
-    # (Seri°Cho, Scales Event 1F LV1)Seri (Select So B, is there anything else n flavor or something?)†
+    # (Seri°Cho, Scales Event 1F LV1)Seri (Select So B, is there anything else n flavor or something?)
 
     ("「とこで先輩ってさ、オカルト関係の他に、なんかｎ味とかあんの？」",
     ""),
     # "And in the B-seat, seniors, in addition to the Oka-Crying Ruto relationship, do you have something like n-flavored?"
 
-    ("オレは聞いた。†",
+    ("オレは聞いた。",
     ""),
-    # I heard.†
+    # I heard.
 
     ("「………」",
     "…"),
@@ -26,9 +26,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「えっ、ブルジョアな遊びってなにかって？	そうだな、やっぱダンスとか、諱乗馬とか…」†",
+    ("「えっ、ブルジョアな遊びってなにかって？	そうだな、やっぱダンスとか、諱乗馬とか…」",
     ""),
-    # "What, what is a gross game? That's right, it's like dancing, horse riding, etc." †
+    # "What, what is a gross game? That's right, it's like dancing, horse riding, etc." 
 
     ("「………」",
     "…"),
@@ -46,17 +46,17 @@ text_array = [
     ""),
     # "All the hot springs are hard work, right? Nahahaha."
 
-    ("それはそれで先輩逕らしいな。†",
+    ("それはそれで先輩逕らしいな。",
     ""),
-    # That's what makes it seem like a senior.†
+    # That's what makes it seem like a senior.
 
     ("「でもダンスとかやるんだ？	早舞踏悼とかも行ったりすんの？	行ったことある？	へえ、すっげーな」",
     ""),
     # "So, do you also do dance and tamper with? Do you also do early dance or koto? Have you been there? Wow, that's amazing."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「早舞踏悼なんて、オレにすり痰ゃ、絵本のｒのお話だからな。",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「諱先輩のドレス姿、オレも見てみたいぜ」†",
+    ("「諱先輩のドレス姿、オレも見てみたいぜ」",
     ""),
     # "I'd like to see my slutty replies, my slutty replies too."
 
@@ -86,8 +86,8 @@ text_array = [
     ""),
     # It looks like O-san, too.
 
-    ("ただし先輩の場㍼合、軽竚やかなステップってのがちょっと想恆像しにくいけどな。†",
+    ("ただし先輩の場㍼合、軽竚やかなステップってのがちょっと想恆像しにくいけどな。",
     ""),
-    # However, it's difficult to imagine a light-hearted stepping technique when it comes to seniors.†
+    # However, it's difficult to imagine a light-hearted stepping technique when it comes to seniors.
 
 ]

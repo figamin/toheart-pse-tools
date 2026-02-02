@@ -2,9 +2,9 @@
 # Source file: 0B11.txt
 
 text_array = [
-    ("（綾∴香	好感度イベント２）閨（選択綜Ｂ	いや、んなわけねー諱よなの続き）閨（教室）†",
+    ("（綾∴香	好感度イベント２）閨（選択綜Ｂ	いや、んなわけねー諱よなの続き）閨（教室）",
     ""),
-    # (Aya∴Ka Likeability Event 2) (Continued from Chosen Sou B, I'm not a problem, no way, a name for yourself) (Classroom)†
+    # (Aya∴Ka Likeability Event 2) (Continued from Chosen Sou B, I'm not a problem, no way, a name for yourself) (Classroom)
 
     ("いや、んなわけねー諱よな。",
     ""),

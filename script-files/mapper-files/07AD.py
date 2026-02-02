@@ -2,9 +2,9 @@
 # Source file: 07AD.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	じ痰ゃあな）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	じ痰ゃあな）",
     ""),
-    # (Kotone Scales Event PS) (Chounen Jishoyaana)†
+    # (Kotone Scales Event PS) (Chounen Jishoyaana)
 
     ("「っつーわけで、じ痰ゃあな」",
     ""),

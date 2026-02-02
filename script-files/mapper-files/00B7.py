@@ -2,7 +2,7 @@
 # Source file: 00B7.txt
 
 text_array = [
-    ("（４月１７冾日）閨（自室）†",
+    ("（４月１７冾日）閨（自室）",
     ""),
     # (4th 17th day of the month) (my room)
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's already morning.
 
-    ("昨厓日の地震寳騒ぎで、オレの貴重な№睡眠椁時間が１０分は損したからな。†",
+    ("昨厓日の地震寳騒ぎで、オレの貴重な№睡眠椁時間が１０分は損したからな。",
     ""),
-    # The earthquake riot caused last day, and I lost 10 minutes of my precious sleep time.†
+    # The earthquake riot caused last day, and I lost 10 minutes of my precious sleep time.
 
     ("「なあ、昨厓日地震あったの、知ってるか？」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "What is it? You didn't know?"
 
-    ("「うん。ぐっすり寝てた」†",
+    ("「うん。ぐっすり寝てた」",
     ""),
-    # "Yeah. I slept soundly" †
+    # "Yeah. I slept soundly" 
 
     ("「オレはちょうど寝髏る前にグラッとｗてさ。地震譿情報見てたら、１０分熾も№睡眠椁時間を無駄にしちまった」",
     ""),
@@ -42,8 +42,8 @@ text_array = [
     ""),
     # "For Chishou-yan, it's a precious 10-minute session."
 
-    ("「まったくだぜ」†",
+    ("「まったくだぜ」",
     ""),
-    # "It's absolutely not" †
+    # "It's absolutely not" 
 
 ]

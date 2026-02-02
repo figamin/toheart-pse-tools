@@ -2,9 +2,9 @@
 # Source file: 0B30.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４）閨（堰負けた後）閨（綾∴香	右	笑い）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４）閨（堰負けた後）閨（綾∴香	右	笑い）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 4) (After the weir lost) (Aya∴Ka, right laughs) †
+    # (Aya∴Ka challenges Aya∴Ka, event 4) (After the weir lost) (Aya∴Ka, right laughs) 
 
     ("「というわけでセリオ、結果は？」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Aaaaah! My fourth win!"
 
-    ("「っきしょー…」†",
+    ("「っきしょー…」",
     ""),
     # "An slut..."
 
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Ou"
 
-    ("「今厓日はコンビネーションについて。攻ｍ撃で打ち奄負けるのはコンビネーションの組み立てが甘いせいよ。いまから教えるのは｢｢」†",
+    ("「今厓日はコンビネーションについて。攻ｍ撃で打ち奄負けるのはコンビネーションの組み立てが甘いせいよ。いまから教えるのは｢｢」",
     ""),
-    # "I'm talking about the combination sign right now. I'm talking about the combination sign. I'm losing with an attack M-shot because the combination sign is not easy to assemble. I'm going to tell you now ""†
+    # "I'm talking about the combination sign right now. I'm talking about the combination sign. I'm losing with an attack M-shot because the combination sign is not easy to assemble. I'm going to tell you now ""
 
     ("その後、﨟基本的なコンビネーションの組み立てについて教寀わった。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # Combination Symbion "The combination of techniques and techniques allows for a variety of expansions in attacks and attacks and defenses.
 
-    ("本沫その組み№合寘わせにパターンはないが、すでに完成された有効なコンビネーションは確実に存在する。†",
+    ("本沫その組み№合寘わせにパターンはないが、すでに完成された有効なコンビネーションは確実に存在する。",
     ""),
-    # There is no pattern in the combination of the original droplets, but there are certainly already completed effective combinations.†
+    # There is no pattern in the combination of the original droplets, but there are certainly already completed effective combinations.
 
     ("攻ｍ撃のコンビネーション。",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # Defensive combination.
 
-    ("その使いどこと有用性を、わかりやすく教えてくれた。†",
+    ("その使いどこと有用性を、わかりやすく教えてくれた。",
     ""),
-    # It was easy to understand and explains how it is useful.†
+    # It was easy to understand and explains how it is useful.
 
     ("「﨟基本をおぼえたら今度はコンビネーションを練習してね」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # Shake it!
 
-    ("オレは盾ワンツースリーのコンビネーションを打ってみせる。†",
+    ("オレは盾ワンツースリーのコンビネーションを打ってみせる。",
     ""),
-    # My Gekira will play the combination of One Two Thousand Rat Lee Shield.†
+    # My Gekira will play the combination of One Two Thousand Rat Lee Shield.
 
     ("「なあ、綾∴香」",
     ""),
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "You have the talent to teach people about hot things."
 
-    ("「あら、そう？」†",
+    ("「あら、そう？」",
     ""),
     # "Oh, is that so?"
 

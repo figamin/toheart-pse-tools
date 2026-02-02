@@ -2,9 +2,9 @@
 # Source file: 089E.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	驕鈴）†",
+    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	驕鈴）",
     ""),
-    # (Fall Remy Scale Event, 2nd Floor 4 LV1) (Selected Scale)†
+    # (Fall Remy Scale Event, 2nd Floor 4 LV1) (Selected Scale)
 
     ("「そんなの簡単だ。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's a bell b."
 
-    ("たしか昔、おばあち痰ゃんがそう言ってたな。†",
+    ("たしか昔、おばあち痰ゃんがそう言ってたな。",
     ""),
-    # I'm sure that's what my grandmother said that a long time ago.†
+    # I'm sure that's what my grandmother said that a long time ago.
 
     ("「正解デース！	、すごい！」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "I'll try to release another hot pot. I'll break it down and tamper with it."
 
-    ("「うん！	それじ痰ゃ｢｢」†",
+    ("「うん！	それじ痰ゃ｢｢」",
     ""),
-    # "Yes! That's the phlegm ""†
+    # "Yes! That's the phlegm ""
 
     ("その冾日の帰闍りは、レミィに問題を教えるのを忘齧れて、クイズ蜒大痩で終尞わってしまった。",
     ""),

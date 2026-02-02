@@ -2,25 +2,25 @@
 # Source file: 0540.txt
 
 text_array = [
-    ("（葵	好感度イベント１）閨（発生条緒件	好感度１０以繹上）閨（昼休み）閨（鋳）†",
+    ("（葵	好感度イベント１）閨（発生条緒件	好感度１０以繹上）閨（昼休み）閨（鋳）",
     ""),
-    # (Aoi's Likeability Event 1) Lily (An incident, favorability above 10) Lily (lunch break) Lily (cast) †
+    # (Aoi's Likeability Event 1) Lily (An incident, favorability above 10) Lily (lunch break) Lily (cast) 
 
     ("昼休み。",
     ""),
     # lunch break.
 
-    ("青空の広がる気搴持ちのいい天気だったので、オレは久しぶりにｒ鋳に出て、ベンチに座闕り、そこで昼メシを食うことにした。†",
+    ("青空の広がる気搴持ちのいい天気だったので、オレは久しぶりにｒ鋳に出て、ベンチに座闕り、そこで昼メシを食うことにした。",
     ""),
-    # The weather was beautiful with a blue sky and a cheerful atmosphere, so I went out to the R-cast for the first time in a while, sat on the bench, where I decided to eat lunch.†
+    # The weather was beautiful with a blue sky and a cheerful atmosphere, so I went out to the R-cast for the first time in a while, sat on the bench, where I decided to eat lunch.
 
     ("今厓日はひとりだ。",
     ""),
     # I'm alone now.
 
-    ("いつもは史といっしょに食ってるが、あいつはときどき、姉の手詩闕り弁抹当を持参してくることがあり、そんなときは自然と別々に食うことになる。†",
+    ("いつもは史といっしょに食ってるが、あいつはときどき、姉の手詩闕り弁抹当を持参してくることがあり、そんなときは自然と別々に食うことになる。",
     ""),
-    # He always eats the food with I-Shin, but sometimes he brings his sister's hand-popularity with him, and in such cases he naturally eats it separately.†
+    # He always eats the food with I-Shin, but sometimes he brings his sister's hand-popularity with him, and in such cases he naturally eats it separately.
 
     ("パンがふたつにパックのカフェオレ。",
     ""),
@@ -34,17 +34,17 @@ text_array = [
     ""),
     # However, there are many people who use the school cafeteria, and even the lion is falling apart, so there's no need to worry about it.
 
-    ("昼はやっぱり、こう、のんびりといきたいもんだ。†",
+    ("昼はやっぱり、こう、のんびりといきたいもんだ。",
     ""),
-    # During the day, I really want to go relaxed and relaxed.†
+    # During the day, I really want to go relaxed and relaxed.
 
     ("うららかな陽射しを≠びながら、パンの袋を破髞る。",
     ""),
     # He tears the bag of bread while experiencing the bright sunlight.
 
-    ("カフェオレにスト鴻ローを突き刺し、ひとくちすすって、たまにはひとりで食うのもいいもんだな、なんて思っていると…。†",
+    ("カフェオレにスト鴻ローを突き刺し、ひとくちすすって、たまにはひとりで食うのもいいもんだな、なんて思っていると…。",
     ""),
-    # I was thinking that the hot springs of thrusts into the Cafe au Era, sip a bite, and sometimes eating them alone is a good hot spring...†
+    # I was thinking that the hot springs of thrusts into the Cafe au Era, sip a bite, and sometimes eating them alone is a good hot spring...
 
     ("「あ、諱先輩」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "Is it true that you're eating trout alone, are you talking about eating trout?"
 
-    ("「うん、まあ。…葵ち痰ゃんも？」†",
+    ("「うん、まあ。…葵ち痰ゃんも？」",
     ""),
     # "Yeah, well... Aoi Chishonan, too?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "I'm not going to eat at all times in the classroom, but the weather just happened to be nice on the day."
 
-    ("「そうですね。せっかく、こんなにいい天気だし、外に出ないともったいないですよね」†",
+    ("「そうですね。せっかく、こんなにいい天気だし、外に出ないともったいないですよね」",
     ""),
     # "That's right. The weather is so nice, so it would be a waste if you don't go outside."
 
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "Oh, don't look too much."
 
-    ("葵ち痰ゃんは恥ずかしそうに両手で隠した。†",
+    ("葵ち痰ゃんは恥ずかしそうに両手で隠した。",
     ""),
-    # Aoi Chisho-yan shyly hid it with his hands.†
+    # Aoi Chisho-yan shyly hid it with his hands.
 
     ("「なんで、いいじ痰ゃん？	スゲーうまそう。それって、お母さんがｍったのか？」",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # He nodded.
 
-    ("「豪勢じ痰ゃん。隠す必要なんてないだ」†",
+    ("「豪勢じ痰ゃん。隠す必要なんてないだ」",
     ""),
-    # "An extravagant phlegm. There's no need to hide it." †
+    # "An extravagant phlegm. There's no need to hide it." 
 
     ("「п私のお弁抹当箱って、たぶん≠普通の翌女の子のより大きいから、恥ずかしくて…」",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # The Segata riff was heartwarming, and I couldn't help but burst out loud without thinking about it.
 
-    ("葵ち痰ゃんの顔が、かあっと赤くなる。†",
+    ("葵ち痰ゃんの顔が、かあっと赤くなる。",
     ""),
-    # Aoi Chisho-ya's face turns red in a flash.†
+    # Aoi Chisho-ya's face turns red in a flash.
 
     ("オレは｢｢。",
     ""),

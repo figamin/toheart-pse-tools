@@ -2,17 +2,17 @@
 # Source file: 08F0.txt
 
 text_array = [
-    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（テストヲの撃レミィが出ない冾日）閨（このイベントは、あかりとの勉強有り無しで≠メッセージの一蝿部が変化します）閨（廊下）閨（あかりと勉強無しの場㍼合の追加）†",
+    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（テストヲの撃レミィが出ない冾日）閨（このイベントは、あかりとの勉強有り無しで≠メッセージの一蝿部が変化します）閨（廊下）閨（あかりと勉強無しの場㍼合の追加）",
     ""),
-    # (The day after the test was returned to the day) (The day after the test was not fired) (This event will change one fly part of the message without having to study with Akari) (Carrior) (Additional lights and no study spaces) †
+    # (The day after the test was returned to the day) (The day after the test was not fired) (This event will change one fly part of the message without having to study with Akari) (Carrior) (Additional lights and no study spaces) 
 
     ("さ〜て、帰ってなにをしますかねぇ。",
     ""),
     # So, what will I do when I go home?
 
-    ("こうやって家に帰ってからの予定を考えるひとときが心地いい。†",
+    ("こうやって家に帰ってからの予定を考えるひとときが心地いい。",
     ""),
-    # It's a pleasant moment to tamper with this and think about what to expect after you get home.†
+    # It's a pleasant moment to tamper with this and think about what to expect after you get home.
 
     ("つらいテスト凬期間で唯齬一の楽しみといったら、学校が≠早く終尞わるってことだな。",
     ""),
@@ -22,25 +22,25 @@ text_array = [
     ""),
     # It means b to study in preparation for the subject of the sinning, but I think that I'm a break and a restriction time.
 
-    ("せいぜい有効に使寬わせてもらわねえと。†",
+    ("せいぜい有効に使寬わせてもらわねえと。",
     ""),
-    # I'll use it effectively and get some hot water.†
+    # I'll use it effectively and get some hot water.
 
     ("…まず、まっすぐ帰驪るべきか、寄闃り道していくべきか、だ。",
     ""),
     # ...First, whether we should go straight or take a path to approach.
 
-    ("う〜む…。†",
+    ("う〜む…。",
     ""),
-    # Hmm...†
+    # Hmm...
 
     ("…とりあえずはあかりと勉強だ。",
     ""),
     # ...For now, I'll study with Akari.
 
-    ("そのあとは｢｢。†",
+    ("そのあとは｢｢。",
     ""),
-    # After that, ".†
+    # After that, ".
 
     ("「！」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Oh, is it oh Remy? That's fine."
 
-    ("オレはうなずいた。†",
+    ("オレはうなずいた。",
     ""),
-    # I nodded.†
+    # I nodded.
 
     ("「あのね、」",
     ""),
@@ -86,7 +86,7 @@ text_array = [
     ""),
     # "Testing is a test, it's a test."
 
-    ("「まあ、そり痰ゃそうだ」†",
+    ("「まあ、そり痰ゃそうだ」",
     ""),
     # "Well, it looks like it's phlegm."
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("相闡手の撃血液型を魔当てるの」†",
+    ("相闡手の撃血液型を魔当てるの」",
     ""),
-    # You attack the blood type of your related player."†
+    # You attack the blood type of your related player."
 
     ("「ふ〜ん…、おもしれえじ痰ゃねえか。オレの撃血液型、当ててみよ」",
     ""),
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Yeah, I'll hit the magician who will polish it."
 
-    ("「どうやって調べるんだ？」†",
+    ("「どうやって調べるんだ？」",
     ""),
     # "How do you tamper with it and investigate?"
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "Um, please answer the following question."
 
-    ("「おお」†",
+    ("「おお」",
     ""),
-    # "oh"†
+    # "oh"
 
     ("「あなたはｃーレイを信じますか？」",
     ""),

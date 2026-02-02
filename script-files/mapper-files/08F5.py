@@ -2,9 +2,9 @@
 # Source file: 08F5.txt
 
 text_array = [
-    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	あたり）†",
+    ("（レミィ	氏試験卲日帰闍り	ＰＳ）閨（選択綜	あたり）",
     ""),
-    # (Remy Exam Day Returned PS) (All Selected)†
+    # (Remy Exam Day Returned PS) (All Selected)
 
     ("「あたりだ」",
     ""),
@@ -22,8 +22,8 @@ text_array = [
     ""),
     # "I was also surprised."
 
-    ("「おい」†",
+    ("「おい」",
     ""),
-    # "Hey"†
+    # "Hey"
 
 ]

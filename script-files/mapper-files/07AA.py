@@ -2,11 +2,11 @@
 # Source file: 07AA.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	してた）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	してた）",
     ""),
-    # (Kotone's Scale Event PS) (Something was selected)†
+    # (Kotone's Scale Event PS) (Something was selected)
 
-    ("「してたしてた。じつは琴音ち痰ゃん、見かけによらず食いしん坊なんじ痰ゃねえのか、って」†",
+    ("「してたしてた。じつは琴音ち痰ゃん、見かけによらず食いしん坊なんじ痰ゃねえのか、って」",
     ""),
     # "I was doing it. Actually, Kotone's phlegm, and I'm a gluttonous pediatrician, regardless of the appearance, so is it phlegm?"
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Kotone's sphincter turns bright red.
 
-    ("か〜わいいったらあり痰ゃしない。†",
+    ("か〜わいいったらあり痰ゃしない。",
     ""),
-    # If it's okay, there's no phlegm.†
+    # If it's okay, there's no phlegm.
 
     ("「はははっ、ジョークだって。",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # My eyes fell redder and darkened.
 
-    ("「はははっ、可愛いな、琴音ち痰ゃんって」†",
+    ("「はははっ、可愛いな、琴音ち痰ゃんって」",
     ""),
-    # "Hahaha, you're so cute, Kotone Chishou-chan" †
+    # "Hahaha, you're so cute, Kotone Chishou-chan" 
 
     ("今厓日はついつい、琴音ち痰ゃんをからかってしまった。",
     ""),

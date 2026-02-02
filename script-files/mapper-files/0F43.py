@@ -2,9 +2,9 @@
 # Source file: 0F43.txt
 
 text_array = [
-    ("（３月１５冾日	土）閨（堰ラジオ	２回目）閨（冝期槙末テスト２冾日目）閨（氏試験２冾日目終了	イベント）†",
+    ("（３月１５冾日	土）閨（堰ラジオ	２回目）閨（冝期槙末テスト２冾日目）閨（氏試験２冾日目終了	イベント）",
     ""),
-    # (Saturday, 15th March) (2nd Weir Radio) (2nd Weir Radio) (2nd Day of the Cryptom Final Test) (2nd Day of the Cryptom Exam Exam) (2nd Event) †
+    # (Saturday, 15th March) (2nd Weir Radio) (2nd Weir Radio) (2nd Day of the Cryptom Final Test) (2nd Day of the Cryptom Exam Exam) (2nd Event) 
 
     ("明纐後卲日はグラマーと化学。",
     ""),
@@ -18,17 +18,17 @@ text_array = [
     ""),
     # The body gift is also a banquet lamar.
 
-    ("…くだらねえ。†",
+    ("…くだらねえ。",
     ""),
-    # ...That's ridiculous.†
+    # ...That's ridiculous.
 
     ("まあ、オレもオレなりにがんばるとするか。",
     ""),
     # Well, I think I'll try my best as well.
 
-    ("オレは机にｌかった。†",
+    ("オレは机にｌかった。",
     ""),
-    # I was on the desk.†
+    # I was on the desk.
 
     ("ちょっと寂しくないか。",
     ""),

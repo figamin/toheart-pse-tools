@@ -2,9 +2,9 @@
 # Source file: 00C8.txt
 
 text_array = [
-    ("（３月１６冾日	昼）閨（潤居間）†",
+    ("（３月１６冾日	昼）閨（潤居間）",
     ""),
-    # (3rd 16th day of the month, noon) (Jun Living Room)†
+    # (3rd 16th day of the month, noon) (Jun Living Room)
 
     ("うー、何梔時だ。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Is it lunchtime?
 
-    ("腹減ったし、飯食いに出謠よ。†",
+    ("腹減ったし、飯食いに出謠よ。",
     ""),
-    # I'm hungry, so I'm going to eat.†
+    # I'm hungry, so I'm going to eat.
 
     ("さーてと、今厓日はなに食うかなー…。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Let's make a name for yourself."
 
-    ("ばったり史に出くわした。†",
+    ("ばったり史に出くわした。",
     ""),
-    # I ran into I-History.†
+    # I ran into I-History.
 
     ("「出かけるとこ？」",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Tsniff, have fun with Tomatato. What about you?"
 
-    ("「友だちにテスト範囲のノート借りたから、それをコピーしに」†",
+    ("「友だちにテスト範囲のノート借りたから、それをコピーしに」",
     ""),
     # "I borrowed a notebook from a friend about the test area, so I'll copy it."
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「梶相変﨑わらず、ち痰ゃっかりしてやがんな、お前は」†",
+    ("「梶相変﨑わらず、ち痰ゃっかりしてやがんな、お前は」",
     ""),
     # "Kaji Ai no Kaji, don't let it go, don't you, just mess up, don't you?"
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Before I give you a copy of it, please let me copy it."
 
-    ("「いいよ」†",
+    ("「いいよ」",
     ""),
-    # "It's fine" †
+    # "It's fine" 
 
     ("諱よっし痰ゃ。",
     ""),

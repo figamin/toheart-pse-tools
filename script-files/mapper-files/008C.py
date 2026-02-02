@@ -2,9 +2,9 @@
 # Source file: 008C.txt
 
 text_array = [
-    ("（冝期槙末テスト	３冾日目）閨（選択綜	調子最悪）†",
+    ("（冝期槙末テスト	３冾日目）閨（選択綜	調子最悪）",
     ""),
-    # (3rd day of the final test for the ritual) (Choice, worst)†
+    # (3rd day of the final test for the ritual) (Choice, worst)
 
     ("「はっきし言って、調子最悪」",
     ""),
@@ -26,17 +26,17 @@ text_array = [
     ""),
     # "What awful!"
 
-    ("志保の調子が悪いのはｖ度のことだ。†",
+    ("志保の調子が悪いのはｖ度のことだ。",
     ""),
-    # Shiho's bad condition is about V.†
+    # Shiho's bad condition is about V.
 
     ("ま、嬉しいのか悲しいのかよくわからないが、同士がいるってのは心強い。",
     ""),
     # Well, I don't really know if they're happy or sad, but it's encouraging to have friends.
 
-    ("梶相闡手が志保ってのは、なんだけど…。†",
+    ("梶相闡手が志保ってのは、なんだけど…。",
     ""),
-    # What's the reason Kaji relationsman is Shiho...†
+    # What's the reason Kaji relationsman is Shiho...
 
     ("オレたちは、解けなかった問題をおたがいに言い№合って、どれくらい間違ってるかを確かめた。",
     ""),

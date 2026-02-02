@@ -2,9 +2,9 @@
 # Source file: 047F.txt
 
 text_array = [
-    ("（志保	п割闃り桙込み型好感度イベント）閨（選択綜	やったーじ痰ゃん）†",
+    ("（志保	п割闃り桙込み型好感度イベント）閨（選択綜	やったーじ痰ゃん）",
     ""),
-    # (Shiho's пsplitting and splitting type favorability event) (Select Sou I did it B-Splitting)†
+    # (Shiho's пsplitting and splitting type favorability event) (Select Sou I did it B-Splitting)
 
     ("「諱よ〜し、やったーじ痰ゃんか」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "...I'm going to test the microphone right now.
 
-    ("♪街がフ純ワフ純ワ气ぁ、ここウキウキぃ、もおすぐぅ、あなたにぃえ〜驕るのぉ」†",
+    ("♪街がフ純ワフ純ワ气ぁ、ここウキウキぃ、もおすぐぅ、あなたにぃえ〜驕るのぉ」",
     ""),
-    # ♪The city is pure and pure, I'm excited, I'm coming soon, I'm hoping for you."†
+    # ♪The city is pure and pure, I'm excited, I'm coming soon, I'm hoping for you."
 
     ("「てめえ、曲も鳴逍らねえうちからなにひとりで歌い始めてんだ？」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Actually, this is a song about two people singing along with their friends."
 
-    ("などと言う。†",
+    ("などと言う。",
     ""),
-    # That said.†
+    # That said.
 
     ("「…そーかい。ったく、マイクのテストまで歌にしやがって。カラオケの王様だな」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "I'll take a look at you b"
 
-    ("…マイクを持たせたら離さないっていうか、マイク揀持たせたらどこでも歌う、ってタイプだな。†",
+    ("…マイクを持たせたら離さないっていうか、マイク揀持たせたらどこでも歌う、ってタイプだな。",
     ""),
-    # ...I don't think he'll let go if he holds the microphone, but if he holds the microphone, he'll sing wherever he goes.†
+    # ...I don't think he'll let go if he holds the microphone, but if he holds the microphone, he'll sing wherever he goes.
 
     ("やがて、セッティングが終尞わったらしく、今度は鰍リｃモコン片阨手に前熨もって押さえておいた曲目竃リストのページを指でなぞる。",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "Yes. The test is over."
 
-    ("こ、この翌女は…。†",
+    ("こ、この翌女は…。",
     ""),
-    # This is the woman next time...†
+    # This is the woman next time...
 
     ("ピッピッピ…。",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # Shihome, I'm starting to star in Shintokuimo...
 
-    ("しかも、オレとの勝縁負で歌うなんて、諱よほど自信があるらしい。†",
+    ("しかも、オレとの勝縁負で歌うなんて、諱よほど自信があるらしい。",
     ""),
-    # However, it seems that Kao is very confident in singing with a victory for me.†
+    # However, it seems that Kao is very confident in singing with a victory for me.
 
     ("「偶然がぁ、い〜くつもぉ、かさなー閨りあ〜あってぇ」",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # ...Kaji Ai Henzaki is good, it's not good.
 
-    ("マイクなんかいらねーくらい声が通ってるし、感誧情熄もしっかりこもっている…。†",
+    ("マイクなんかいらねーくらい声が通ってるし、感誧情熄もしっかりこもっている…。",
     ""),
-    # He has voices that don't need a microphone, and he has a strong emotional response...†
+    # He has voices that don't need a microphone, and he has a strong emotional response...
 
     ("「あなたと、出初ってぇ、こ〜いにおちぃた」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # It's frustrating, but I'm not as good as a guy.
 
-    ("それでも彼女との勝縁負を受けるのは、諱取っておきの理由があるからだ。†",
+    ("それでも彼女との勝縁負を受けるのは、諱取っておきの理由があるからだ。",
     ""),
-    # So, the reason why Kano also receives a victory for a woman with a huge amount of women is because there is a reason to save her name.†
+    # So, the reason why Kano also receives a victory for a woman with a huge amount of women is because there is a reason to save her name.
 
     ("・",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「≠盾ｏ窒ｒ魔ｖ窒ｒ	凵ｙ盾ｏ浮ｕ	＝ａ窒ｒ	香ｍ凾ｙ	潤ｏｎ撃ｌ凾ｙ	≠撃ｌ奄ｎ№ｇ	≠≠ａ窒ｒｔ」",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # The usual "Jun-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-Hai-H
 
-    ("…さて、問題の、採点挙結果だ。†",
+    ("…さて、問題の、採点挙結果だ。",
     ""),
-    # ...Now, here are the results of the ratings for the questionnaire.†
+    # ...Now, here are the results of the ratings for the questionnaire.
 
     ("ダダダダダダダダダ…。",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # Shaan!
 
-    ("シンバルの音と共に、結果が表示された。†",
+    ("シンバルの音と共に、結果が表示された。",
     ""),
-    # The results were displayed along with the sound of simba crying.†
+    # The results were displayed along with the sound of simba crying.
 
     ("６８５点！",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # This shop has 500 points for every bad guy sings and hot springs.
 
-    ("何百点燗ももらえて、一見すごそうに見えるが、実は５００〜７００の間の２００点ほどが本末当の得点だ。†",
+    ("何百点燗ももらえて、一見すごそうに見えるが、実は５００〜７００の間の２００点ほどが本末当の得点だ。",
     ""),
-    # At first glance, it seems amazing to get hundreds of hot spots, but in fact, the score for the final year is about 200 points, between 500 and 700.†
+    # At first glance, it seems amazing to get hundreds of hot spots, but in fact, the score for the final year is about 200 points, between 500 and 700.
 
     ("はやい話、彼女の得点は２００点椏満点湯、１８５点というわけだ。",
     ""),
@@ -226,17 +226,17 @@ text_array = [
     ""),
     # "Yes! 3rd place, yeah!"
 
-    ("志保がはし痰ゃぐ。†",
+    ("志保がはし痰ゃぐ。",
     ""),
-    # Shiho is sputuming.†
+    # Shiho is sputuming.
 
     ("ファンファーレの後、諱画面はイニシャャル登録譏画面に変﨑わった。",
     ""),
     # After the fanfare was released, the name screen turned into a registered page for registration.
 
-    ("しかもこの店は、縺上位１０名のイニシャャルが登録できるようになっている。†",
+    ("しかもこの店は、縺上位１０名のイニシャャルが登録できるようになっている。",
     ""),
-    # However, this store is now available for registration of the top 10 people in the Inisha Cry.†
+    # However, this store is now available for registration of the top 10 people in the Inisha Cry.
 
     ("席に戻った彼女は鰍リｃモコンを操闡り、慣れた手つきで『ＳＨＣ』と登録した。",
     ""),
@@ -246,9 +246,9 @@ text_array = [
     ""),
     # Apparently, it is SHC, taking the character in the beginning of "Shihochi Shoyan."
 
-    ("…ゲーマーかっつうーの！†",
+    ("…ゲーマーかっつうーの！",
     ""),
-    # ...Gamer Kattsuuu!†
+    # ...Gamer Kattsuuu!
 
     ("「さぁ、氈次はの番謾よぉ」",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # "I know."
 
-    ("カラオケ採点機ってのは、歌がうまけり痰ゃ良い点が出髀るってわけじ痰ゃない。†",
+    ("カラオケ採点機ってのは、歌がうまけり痰ゃ良い点が出髀るってわけじ痰ゃない。",
     ""),
-    # The Kaban Raoke Score Machine is a song that is good enough to show good points when the song is good.†
+    # The Kaban Raoke Score Machine is a song that is good enough to show good points when the song is good.
 
     ("志保みたいにうますぎると、逆に減点されることだってあるんだ。",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # In other words, it becomes a target for a deduction.
 
-    ("…って本に曹書いてあった。†",
+    ("…って本に曹書いてあった。",
     ""),
-    # ...It was written in the book that Cao was.†
+    # ...It was written in the book that Cao was.
 
     ("「ヒャーヒャー！	！！」",
     ""),
@@ -302,9 +302,9 @@ text_array = [
     ""),
     # The trick to getting a high score at Kaen Laoke is to "sing clearly in the 'Xin' Xin' Xin' Xin' Xin' with accurate pitches."
 
-    ("志保みたく、語尾をр延ばしたり震岦わせたりするのはペケだ。†",
+    ("志保みたく、語尾をр延ばしたり震岦わせたりするのはペケだ。",
     ""),
-    # It's a good idea to prolong the endings or make the endings of words go to Shinmichi in order to be honest.†
+    # It's a good idea to prolong the endings or make the endings of words go to Shinmichi in order to be honest.
 
     ("「あ・の・冝日・キミ・は〜、う・み・の・′こ〜うへ」",
     ""),
@@ -322,9 +322,9 @@ text_array = [
     ""),
     # Without even understanding other people's energy, Shiho laughs and tumbles on the sofa.
 
-    ("…今に見てよぉ。†",
+    ("…今に見てよぉ。",
     ""),
-    # ...Look at it now.†
+    # ...Look at it now.
 
     ("「別れて〜は・じめ〜て、気・づくこいも、あるのさ〜」",
     ""),
@@ -350,9 +350,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「きょ〜うも・オレは、あの冾日〜のキ・ミ・をさがす」◯",
     ""),
@@ -370,9 +370,9 @@ text_array = [
     ""),
     # "Hahaha, who was that a b-impersonation?
 
-    ("もおサイコーッ！」†",
+    ("もおサイコーッ！」",
     ""),
-    # It's great too!”†
+    # It's great too!”
 
     ("ダダダダダダダダダ…。",
     ""),
@@ -390,9 +390,9 @@ text_array = [
     ""),
     # Shaan!
 
-    ("シンバルの音と共に、結果が表示された。†",
+    ("シンバルの音と共に、結果が表示された。",
     ""),
-    # The results were displayed along with the sound of simba crying.†
+    # The results were displayed along with the sound of simba crying.
 
     ("６９５点！！",
     ""),
@@ -414,9 +414,9 @@ text_array = [
     ""),
     # "Why? You're such a nuisance!?"
 
-    ("一箞方の志保は、あまりの出女沫事に、目を窒白部黒させている。†",
+    ("一箞方の志保は、あまりの出女沫事に、目を窒白部黒させている。",
     ""),
-    # Shiho, who is in the Ichiban, has her eyes blackened with a nitrous bleach due to the excessive droplets of women.†
+    # Shiho, who is in the Ichiban, has her eyes blackened with a nitrous bleach due to the excessive droplets of women.
 
     ("「どーやら、コンピャータはオレの歌がお気に召したみたいだぜぇ？」",
     ""),
@@ -438,15 +438,15 @@ text_array = [
     ""),
     # "Now come on."
 
-    ("オレはすっとぼけた。†",
+    ("オレはすっとぼけた。",
     ""),
-    # My heart was just blurred.†
+    # My heart was just blurred.
 
     ("「きっとそうよ！	じ痰ゃなき痰ゃ、あんな下濶手な歌に６９５点燗もつくわけないもの！」",
     ""),
     # "That's true! There's no way a phlegm is something that can't be helped by 695 points of warming up such a smug song!"
 
-    ("「テ＜メェ！	さっきから、下濶手下濶手うるせえぞっ！	うまかうがなんだうが、点箔数汾勝縁負だぜ？」†",
+    ("「テ＜メェ！	さっきから、下濶手下濶手うるせえぞっ！	うまかうがなんだうが、点箔数汾勝縁負だぜ？」",
     ""),
     # "Tee<Me! I've been shutting down my hands for the Shimohana! What a delicious b-swana b-swana, but the point number is a good match for the victory?"
 
@@ -462,17 +462,13 @@ text_array = [
     ""),
     # This time, the woman who had overflowed also began singing and blessings.
 
-    ("しかし、掾理雷を知っているオレとは痰違い、単に下濶手に歌うだけで、得点は下がる一箞方だった。†",
+    ("しかし、掾理雷を知っているオレとは痰違い、単に下濶手に歌うだけで、得点は下がる一箞方だった。",
     ""),
-    # However, it was different from my geisha who knows about thunder, and the score was reduced by simply singing in my hand.†
+    # However, it was different from my geisha who knows about thunder, and the score was reduced by simply singing in my hand.
 
-    ("オレの方は、１曲目ほどではないにし、安闊定して６８０点台をキープし続けた。†",
+    ("オレの方は、１曲目ほどではないにし、安闊定して６８０点台をキープし続けた。",
     ""),
-    # My geek Fukukata was not as good as the first song, but he was eager to keep his score at 680 points.†
-
-    ("・",
-    ""),
-    # ・
+    # My geek Fukukata was not as good as the first song, but he was eager to keep his score at 680 points.
 
     ("・",
     ""),
@@ -486,9 +482,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
     ("その冾日はオレの大汨勝女に終尞わり、まんまと志保にрヤクドナルドをおごらせることに成功した。",
     ""),

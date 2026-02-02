@@ -2,17 +2,17 @@
 # Source file: 0B21.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント２）閨（選択綜Ａ	正面だ！	の続き）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント２）閨（選択綜Ａ	正面だ！	の続き）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, the battle for the balance event 2) (Continued from Chosen Sou A, the front!)†
+    # (Aya∴Ka challenges Aya∴Ka, the battle for the balance event 2) (Continued from Chosen Sou A, the front!)
 
     ("真っｌ沍勝縁負、正面だ！",
     ""),
     # It's completely right, it's right!
 
-    ("オレは瞬発力を生かしたダッシャで翌距離を縮める。†",
+    ("オレは瞬発力を生かしたダッシャで翌距離を縮める。",
     ""),
-    # My gut-re uses his explosive power to close the next distance.†
+    # My gut-re uses his explosive power to close the next distance.
 
     ("梶リーチはオレのほうが長いんだ。",
     ""),
@@ -22,25 +22,25 @@ text_array = [
     ""),
     # If they were to take the ball into the close battle, they would have managed to forcefully defeat the ball in about a single shot, as if they were defeated by Amami.
 
-    ("まずは攻ｍ撃をブ鴻ロックさせて｢｢。†",
+    ("まずは攻ｍ撃をブ鴻ロックさせて｢｢。",
     ""),
-    # First, let the attack and M-shot go rock and say, ".†
+    # First, let the attack and M-shot go rock and say, ".
 
     ("スパァーーーンッ！",
     ""),
     # Spears!
 
-    ("あれっ。†",
+    ("あれっ。",
     ""),
-    # Huh.†
+    # Huh.
 
     ("スパァーーーンッ！",
     ""),
     # Spears!
 
-    ("あれっ。†",
+    ("あれっ。",
     ""),
-    # Huh.†
+    # Huh.
 
     ("スパァンッ、",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # Spank!
 
-    ("あれっ。†",
+    ("あれっ。",
     ""),
-    # Huh.†
+    # Huh.
 
     ("なんで、こう一箞方的に…。",
     ""),
@@ -66,17 +66,17 @@ text_array = [
     ""),
     # Ah, that's bad.
 
-    ("ガードが…。†",
+    ("ガードが…。",
     ""),
-    # The guard...†
+    # The guard...
 
     ("スパアアァァァーーーーーーーーンッ！",
     ""),
     # Splaaaaahhhh!
 
-    ("世界が回った。†",
+    ("世界が回った。",
     ""),
-    # The world has revolved.†
+    # The world has revolved.
 
     ("なに？",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # What happened?
 
-    ("もしかして、やられちまったのか…？†",
+    ("もしかして、やられちまったのか…？",
     ""),
-    # Maybe he was defeated...?†
+    # Maybe he was defeated...?
 
     ("・",
     ""),
@@ -106,13 +106,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("…そうらしいな。†",
+    ("…そうらしいな。",
     ""),
-    # ...It seems that way.†
+    # ...It seems that way.
 
     ("くっそー…。",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # Punch, = quick, my name is.
 
-    ("ぜんぜん見えねーっつーの。†",
+    ("ぜんぜん見えねーっつーの。",
     ""),
-    # I can't see at all.†
+    # I can't see at all.
 
     ("「｢｢煕もしもーし、そこ、意識ある？」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "Looks like that..."
 
-    ("禔口だけ動かして嘯答えた。†",
+    ("禔口だけ動かして嘯答えた。",
     ""),
-    # He replied with only moving his mouth.†
+    # He replied with only moving his mouth.
 
     ("「いつつ〜…」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "It hurts, my name is"
 
-    ("綾∴香はくすっと笑う。†",
+    ("綾∴香はくすっと笑う。",
     ""),
-    # Aya∴Ka chuckles.†
+    # Aya∴Ka chuckles.
 
     ("「バカね。正面から突っ桙込んでくるなんて、前回と同じじ痰ゃないの」",
     ""),
@@ -182,8 +182,8 @@ text_array = [
     ""),
     # "Well, did you learn something from this, slut?"
 
-    ("「…ちくしょう」†",
+    ("「…ちくしょう」",
     ""),
-    # "...Chikushi Ebi"†
+    # "...Chikushi Ebi"
 
 ]

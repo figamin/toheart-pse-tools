@@ -2,7 +2,7 @@
 # Source file: 0531.txt
 
 text_array = [
-    ("（艨ゆっくりフェード）閨（カレンダーを５月６冾日までめくる）閨（自分の部屋）†",
+    ("（艨ゆっくりフェード）閨（カレンダーを５月６冾日までめくる）閨（自分の部屋）",
     ""),
     # (Slowly fade) (Change the calendar until the 5th day of the 6th day of the 5th day of the 6th day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day of the 1st day
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Of course, my luggage was packed together on the slut.
 
-    ("いつもよりかなり≠早い桙時間に、オレは家を出た。†",
+    ("いつもよりかなり≠早い桙時間に、オレは家を出た。",
     ""),
-    # At the time, I left the house at a much faster time than the hot spring.†
+    # At the time, I left the house at a much faster time than the hot spring.
 
     ("「おはよう、ち痰ゃん」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Are you planning on simmering in the mountains? What are you in?"
 
-    ("「替えでしょ、筆記用雷でしょ、お翌風呂のセットにドライсヤー、カ＜メラに、折關りたたみの傘に…」†",
+    ("「替えでしょ、筆記用雷でしょ、お翌風呂のセットにドライсヤー、カ＜メラに、折關りたたみの傘に…」",
     ""),
     # "For a replacement, a writing thunder, a next-day bath set, a banquet for a banquet, a banquet for a banquet, a banquet for a banquet, a folding umbrella..."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "For a replacement, writing lightning, is this hot b? Travel luggage is better than light."
 
-    ("「うん、そうかも…」†",
+    ("「うん、そうかも…」",
     ""),
     # "Yeah, I see, Hot too..."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "...No way, there's no slut. Come on, I'll change my luggage and tamper with it until I get to school."
 
-    ("「え、いいの？」†",
+    ("「え、いいの？」",
     ""),
     # "What, is it okay?"
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Okay, let's go."
 
-    ("「ありがとう、ち痰ゃん」†",
+    ("「ありがとう、ち痰ゃん」",
     ""),
-    # "Thank you, sputum" †
+    # "Thank you, sputum" 
 
     ("そのとき、縺後撃からもうひとり見知った顔がやってきた。",
     ""),
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Let's make a name for yourself."
 
-    ("「ちょうどふたりが見えたから、追いかけてきたんだ」†",
+    ("「ちょうどふたりが見えたから、追いかけてきたんだ」",
     ""),
     # "I saw the two of you, so I chased you."
 
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "Good morning, Makoto Shichi-Shoyan. It's been a while since I've been loyal to the morning."
 
-    ("「いつもは朝羽練あるからね。さすがに今厓日はないけど」†",
+    ("「いつもは朝羽練あるからね。さすがに今厓日はないけど」",
     ""),
     # "When will the morning wings be held, there will be no day for the day."
 
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "As phlegm, it's different from a bathing girl."
 
-    ("「そ、そうだよね？」†",
+    ("「そ、そうだよね？」",
     ""),
     # "Oh, right?"
 
@@ -142,17 +142,17 @@ text_array = [
     ""),
     # This will take you to the airport and then you will be on a plane.
 
-    ("北海道の雄蝸大な大地がオレを待ってるぜ。†",
+    ("北海道の雄蝸大な大地がオレを待ってるぜ。",
     ""),
-    # The cochlearned earth from Hokkaido is waiting for me to go crazy.†
+    # The cochlearned earth from Hokkaido is waiting for me to go crazy.
 
     ("玄関前にずらずらたむってる二年集団。",
     ""),
     # A group of two years of age who are hanging out in front of the entrance.
 
-    ("まだ≠早いので、三年笏や一年の姿はない。†",
+    ("まだ≠早いので、三年笏や一年の姿はない。",
     ""),
-    # It's still too early, so there's no three-year scepter or one-year appearance.†
+    # It's still too early, so there's no three-year scepter or one-year appearance.
 
     ("「ハ〜イ、グッドｃモーニング、お三緖方、ご機刹嫌いかが？」",
     ""),
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # Of course, Shiho was the one who showed up in a strange greeting.
 
-    ("こういうときは、ａ浮かれずにはいられないタイプだ。†",
+    ("こういうときは、ａ浮かれずにはいられないタイプだ。",
     ""),
-    # At times like this, I'm the type of person who can't help but be happy.†
+    # At times like this, I'm the type of person who can't help but be happy.
 
     ("「おはよう、志保」",
     ""),
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "There's about a bit of a bit of a guy who can't get slurping or slurping. What if it pops up more on a day like this?"
 
-    ("「おめーは、はじけすぎだ」†",
+    ("「おめーは、はじけすぎだ」",
     ""),
     # "Hello, it's too much."
 
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "Ah, I'm glad you had a bus with a different phlegm..."
 
-    ("「どういう意味譁よ〜〜〜〜〜っ！」†",
+    ("「どういう意味譁よ〜〜〜〜〜っ！」",
     ""),
     # "What does that mean?!"
 
@@ -222,8 +222,8 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
 ]

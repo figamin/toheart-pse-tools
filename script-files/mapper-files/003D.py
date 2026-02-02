@@ -2,9 +2,9 @@
 # Source file: 003D.txt
 
 text_array = [
-    ("３／１３（木）†",
+    ("３／１３（木）",
     ""),
-    # 3/13 (Thu)†
+    # 3/13 (Thu)
 
     ("う〜っし！",
     ""),
@@ -18,25 +18,25 @@ text_array = [
     ""),
     # The students gather together and slurp.
 
-    ("用がないなら帰闍り痰ゃいいのによ。†",
+    ("用がないなら帰闍り痰ゃいいのによ。",
     ""),
-    # If there's no need to do it, you should just go home.†
+    # If there's no need to do it, you should just go home.
 
     ("てくてくと廊下を歩いていく。",
     ""),
     # I walked along the hallway.
 
-    ("何人かの生徒たちとすれ痰違ったが、とくに親しい顔には出初わなかった。†",
+    ("何人かの生徒たちとすれ痰違ったが、とくに親しい顔には出初わなかった。",
     ""),
-    # Although I was completely gross with some of the students, I couldn't see any of my close faces.†
+    # Although I was completely gross with some of the students, I couldn't see any of my close faces.
 
     ("廊下を通って、下駄箱までやってきた。",
     ""),
     # He went through the hallway and even the shoe cabinet.
 
-    ("諱先生とすれ痰違って、だらだらした態度を高注意された。†",
+    ("諱先生とすれ痰違って、だらだらした態度を高注意された。",
     ""),
-    # He was very warned of his lazy attitude, as he was disparaged from the teacher.†
+    # He was very warned of his lazy attitude, as he was disparaged from the teacher.
 
     ("ひとりで帰驪る。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 
-    ("誰か知ったрヤツはいねーか？†",
+    ("誰か知ったрヤツはいねーか？",
     ""),
-    # Does anyone know who?†
+    # Does anyone know who?
 
     ("３月１３冾日終了。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 01BE.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（４月２５冾日）閨（学校前の坂道２）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（４月２５冾日）閨（学校前の坂道２）",
     ""),
-    # (Akari Scales Event: Departing from school) (April 25th day) (American Slope 2) (American Slope 2 in front of school) †
+    # (Akari Scales Event: Departing from school) (April 25th day) (American Slope 2) (American Slope 2 in front of school) 
 
     ("さてと、帰驪るか。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Let's make a name for yourself."
 
-    ("「あっ、ち痰ゃん」†",
+    ("「あっ、ち痰ゃん」",
     ""),
-    # "Ah, sphin's a bit"†
+    # "Ah, sphin's a bit"
 
     ("「誰か待ってんのか？」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "I'm going to cry again and say that kind of shit."
 
-    ("「意地悪？	堰忠崇告だぞ」†",
+    ("「意地悪？	堰忠崇告だぞ」",
     ""),
-    # "Meanwhis? It's a trumpet salvation."†
+    # "Meanwhis? It's a trumpet salvation."
 
     ("「でも、そのお店、本末当においしいんだって。志保のイチオシなの」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Are you gonna do I get a really bad?"
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「どーすっかなー」",
     ""),

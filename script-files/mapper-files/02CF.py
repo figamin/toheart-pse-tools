@@ -2,17 +2,17 @@
 # Source file: 02CF.txt
 
 text_array = [
-    ("（芹°香	テスト	３／１８）閨（芹°香	好感度２を見ている）閨（１Ｆ廊下）†",
+    ("（芹°香	テスト	３／１８）閨（芹°香	好感度２を見ている）閨（１Ｆ廊下）",
     ""),
-    # (Sei° Ka test 3/18) Sei (Sei° Ka likes 2) Sei (1st floor corridor) †
+    # (Sei° Ka test 3/18) Sei (Sei° Ka likes 2) Sei (1st floor corridor) 
 
     ("そうだな。",
     ""),
     # That's right.
 
-    ("あいさつくらいしていくか。†",
+    ("あいさつくらいしていくか。",
     ""),
-    # I'll even greet you.†
+    # I'll even greet you.
 
     ("オレはｒ鋳に出て、諱先輩が座ってるベンチへと近づいた。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # I noticed the voice and my senior looked over me.
 
-    ("あいかわらず、ぼーっとした感じがする。†",
+    ("あいかわらず、ぼーっとした感じがする。",
     ""),
-    # I feel a bit dazed, not glaring at all.†
+    # I feel a bit dazed, not glaring at all.
 
     ("「諱先輩、なにしてんの？	ひなたぼっこ？」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩は、迎えの車がｗ磯翌ﾜで待ってます、と嘯答えた。†",
+    ("諱先輩は、迎えの車がｗ磯翌ﾜで待ってます、と嘯答えた。",
     ""),
-    # Senpai replied, "The car to pick me up lol Iso is waiting for me, I'm the next day."†
+    # Senpai replied, "The car to pick me up lol Iso is waiting for me, I'm the next day."
 
     ("「へえ。…で、時間までひなたぼっこしてるってわけか」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("うなずく先輩。†",
+    ("うなずく先輩。",
     ""),
-    # Senpai nodded.†
+    # Senpai nodded.
 
     ("「そういえば、諱先輩。テストどうだった？」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("はい、好調です、と嘯答えた。†",
+    ("はい、好調です、と嘯答えた。",
     ""),
-    # Yes, he replied.†
+    # Yes, he replied.
 
     ("「好調か。うらやましいなあ」",
     ""),

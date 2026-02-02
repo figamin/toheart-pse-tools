@@ -2,9 +2,9 @@
 # Source file: 07DE.txt
 
 text_array = [
-    ("（琴音	ＰＳ回秤数イベント）閨（ハイブリッド）閨（二回目の回秤数イベントはこれ）†",
+    ("（琴音	ＰＳ回秤数イベント）閨（ハイブリッド）閨（二回目の回秤数イベントはこれ）",
     ""),
-    # (Kotone PS Scale Event) (Hibugata Lid) (This is the second Scale Event) †
+    # (Kotone PS Scale Event) (Hibugata Lid) (This is the second Scale Event) 
 
     ("歩いていると、どこかで見たような翌女の子の姿が…。",
     ""),

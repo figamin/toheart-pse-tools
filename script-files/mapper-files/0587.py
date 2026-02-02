@@ -2,9 +2,9 @@
 # Source file: 0587.txt
 
 text_array = [
-    ("（葵	回秤数イベント３）閨（２Ｆ廊下）†",
+    ("（葵	回秤数イベント３）閨（２Ｆ廊下）",
     ""),
-    # (Aoi Episode Scales Event 3) Lin (2F corridor)†
+    # (Aoi Episode Scales Event 3) Lin (2F corridor)
 
     ("諱よし、葵ち痰ゃんのとこに行くか。◯",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Where are you going so quickly?"
 
-    ("「お前に痰ゃ関係ねーだ」†",
+    ("「お前に痰ゃ関係ねーだ」",
     ""),
     # "It has nothing to do with you b"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "So you asked where you're going."
 
-    ("「だから、お前に痰ゃ関係ねーつってんだ」†",
+    ("「だから、お前に痰ゃ関係ねーつってんだ」",
     ""),
     # "That's why phlegm has nothing to do with you b"
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "You're so bored that you're doing all the gagging together with you, you have no time to spare."
 
-    ("言い捨てて、行こうとする。†",
+    ("言い捨てて、行こうとする。",
     ""),
-    # I'll give up and try to go.†
+    # I'll give up and try to go.
 
     ("「ほほう。で、あんたは、これからひとりでお楽しみっと」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Do you think that you haven't noticed it, even if you're not aware of it? What have you been secretly tampering with yourself recently after the school entrance exam?"
 
-    ("「なにって、べつに…」†",
+    ("「なにって、べつに…」",
     ""),
-    # "What, all..."†
+    # "What, all..."
 
     ("「まさか、お・",
     ""),
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Ah, what are you tampering with, when are you, even Hoo?"
 
-    ("「クラブの見学をしてるだけだ」†",
+    ("「クラブの見学をしてるだけだ」",
     ""),
     # "I'm just watching the banquet love"
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Martial Arts"
 
-    ("「格闘技ぃ？」†",
+    ("「格闘技ぃ？」",
     ""),
     # "Martial arts?"
 
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("志保は眉間にしわを寄せて、不可解な顔をした。†",
+    ("志保は眉間にしわを寄せて、不可解な顔をした。",
     ""),
-    # Shiho leaned in a fond brow and gave a mysterious look.†
+    # Shiho leaned in a fond brow and gave a mysterious look.
 
     ("「…まっ、おめー轣ら翌女子に語ったとこで、どうせ理解はできねーだうけど。…いや、まてよ。そういや、葵ち痰ゃんは別か。",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # A woman who can understand the hot springs can understand the hot springs?
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「それよりも志保」",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("「もっと青春をまぶしく光輝いてみ」†",
+    ("「もっと青春をまぶしく光輝いてみ」",
     ""),
-    # "Let's shine brighter and brighter in your youth b"†
+    # "Let's shine brighter and brighter in your youth b"
 
     ("「な、なに言ってんのよ、あんた。ちょっと熱でもあるんじ痰ゃない？」",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # As Aoi Chisho-yan melted into the bright red roe flames of the sunset sky, she was doing her sprint after the end of the day.
 
-    ("サンドバッグを蹴髀る葵ち痰ゃんの影が長く伸び、木の下にｍかけたオレまで届いている。†",
+    ("サンドバッグを蹴髀る葵ち痰ゃんの影が長く伸び、木の下にｍかけたオレまで届いている。",
     ""),
-    # The shadow of Aoi Chisho-chan kicking a punching bag has been extended for a long time, reaching me, hanging under the tree.†
+    # The shadow of Aoi Chisho-chan kicking a punching bag has been extended for a long time, reaching me, hanging under the tree.
 
     ("汗を流して一生恊懸命がんばる葵ち痰ゃん。",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # Without any stomping or anything, I was just staring at him in a daze.
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("『｢｢お前熨もそうやっていつまでもフラフラしてねーで、なにかこうビシッと、ひとつのことに打ち桙込んでみたらどうだ？』",
     ""),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # *I'm wandering around in Inmata Satsuki...If that were the case, I'm a gangster who is not inferior to Shiho, and I'm not so strong as to what I'm doing.
 
-    ("オレの青春って…くすぶってるよなぁ。†",
+    ("オレの青春って…くすぶってるよなぁ。",
     ""),
-    # My super youth...it's smoldering.†
+    # My super youth...it's smoldering.
 
     ("「諱先輩」",
     ""),
@@ -274,7 +274,7 @@ text_array = [
     ""),
     # Because he was thinking about it, he returned with a stupid face.
 
-    ("「あの、そそ陽燉も落ちてきましたし、今厓日はこのくらいにして、帰うと思うんですけど…」†",
+    ("「あの、そそ陽燉も落ちてきましたし、今厓日はこのくらいにして、帰うと思うんですけど…」",
     ""),
     # "Um, the lion has fallen, and I think I'll leave it at this point for the day now and return to my house..."
 
@@ -282,9 +282,9 @@ text_array = [
     ""),
     # "Ah, yeah, yeah..."
 
-    ("オレは表﨣情を引き締めながら立ち上がり、尻についた砂をぱんぱんと払った。†",
+    ("オレは表﨣情を引き締めながら立ち上がり、尻についた砂をぱんぱんと払った。",
     ""),
-    # My heart tightened my feelings and stood up, slidping away the sand from my butt.†
+    # My heart tightened my feelings and stood up, slidping away the sand from my butt.
 
     ("葵ち痰ゃんは後片づけを始める。",
     ""),
@@ -294,9 +294,9 @@ text_array = [
     ""),
     # After folding the toau crying properly and putting it in a sports bag, the punching bag hanging from the tree branches thrusts down.
 
-    ("禔練習が終尞わった後、サンドバッグはいつも神社のお堂の盾縁の下にしまっている。†",
+    ("禔練習が終尞わった後、サンドバッグはいつも神社のお堂の盾縁の下にしまっている。",
     ""),
-    # After the practice session has ended, the punching bags are always kept under the shield rim of the shrine's shrine.†
+    # After the practice session has ended, the punching bags are always kept under the shield rim of the shrine's shrine.
 
     ("「オレが持ってくよ」",
     ""),
@@ -342,17 +342,17 @@ text_array = [
     ""),
     # I looked over, and the moment I saw her hand under her skirt and she was taking off her groans.
 
-    ("太股を通って、片足ずつ足首を通過する。†",
+    ("太股を通って、片足ずつ足首を通過する。",
     ""),
-    # Pass through your thighs and then through your ankles one foot at a time.†
+    # Pass through your thighs and then through your ankles one foot at a time.
 
     ("葵ち痰ゃんは、脱いだそれをバッグにしまうとスカートを持ってパタパタと薰扇いだ。",
     ""),
     # Aoi Chisho-yan took off her and put it in her bag and grabbed her skirt and slashed it into a fan.
 
-    ("そして、諱ようやくオレの視諮に気がつく。†",
+    ("そして、諱ようやくオレの視諮に気がつく。",
     ""),
-    # Then I noticed my passionate advice as I was tampering with.†
+    # Then I noticed my passionate advice as I was tampering with.
 
     ("「あっ、やだっ、みっ、見てたんですか！？」",
     ""),
@@ -370,9 +370,9 @@ text_array = [
     ""),
     # "It's tampering, that..."
 
-    ("オレは笑ってごまかす。†",
+    ("オレは笑ってごまかす。",
     ""),
-    # I laughed and cheated him.†
+    # I laughed and cheated him.
 
     ("「…は、ははは、そ、そうだよな。",
     ""),
@@ -402,9 +402,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("ひゅーと翌風が≠吹いた。†",
+    ("ひゅーと翌風が≠吹いた。",
     ""),
-    # The next wind blew by.†
+    # The next wind blew by.
 
     ("あ、そうだ。",
     ""),
@@ -414,9 +414,9 @@ text_array = [
     ""),
     # Furthermore, there was something I would say to Aoi Chisho-yan.
 
-    ("オレは気を取り直し、コホンと咳払いした。†",
+    ("オレは気を取り直し、コホンと咳払いした。",
     ""),
-    # I retreated and cleared my throat.†
+    # I retreated and cleared my throat.
 
     ("「なあ、葵ち痰ゃん。とこでさ」",
     ""),
@@ -430,9 +430,9 @@ text_array = [
     ""),
     # "Yes. Why are you eclips?"
 
-    ("葵ち痰ゃんは背筋を伸ばしてオレの顔を見た。†",
+    ("葵ち痰ゃんは背筋を伸ばしてオレの顔を見た。",
     ""),
-    # Aoi Chisho-yan straightened her spine and looked at my intense face.†
+    # Aoi Chisho-yan straightened her spine and looked at my intense face.
 
     ("「…じつは、さっきからずっと考えてたんだけど」",
     ""),
@@ -450,9 +450,9 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("葵ち痰ゃんはキョトンとする。†",
+    ("葵ち痰ゃんはキョトンとする。",
     ""),
-    # Aoi Chisho-chan is a bit of a slut.†
+    # Aoi Chisho-chan is a bit of a slut.
 
     ("「ほら、やっぱオレも男だし、体がうずくっていうか、見てるだけじ痰ゃつまんないし」",
     ""),
@@ -466,9 +466,9 @@ text_array = [
     ""),
     # "ah"
 
-    ("オレははっきりとうなずいた。†",
+    ("オレははっきりとうなずいた。",
     ""),
-    # My heart nodded clearly.†
+    # My heart nodded clearly.
 
     ("わずかな間があって。",
     ""),
@@ -478,9 +478,9 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("まるで、ぱっと花が開くように、葵ち痰ゃんの表﨣情が明髢るくなった。†",
+    ("まるで、ぱっと花が開くように、葵ち痰ゃんの表﨣情が明髢るくなった。",
     ""),
-    # It was like a flower suddenly opened, and the public sentiment of Aoi Chisho-chan became clearer.†
+    # It was like a flower suddenly opened, and the public sentiment of Aoi Chisho-chan became clearer.
 
     ("「そ、それってつまり、このクラブに入っていただけるってことですか！？」",
     ""),
@@ -490,9 +490,9 @@ text_array = [
     ""),
     # "...I'm not sure if it's a bit of a problem, but I still have no idea about it. Is there no experience and foil?
 
-    ("「ありです、はい、もちんありますよ！」†",
+    ("「ありです、はい、もちんありますよ！」",
     ""),
-    # "Yes, yes, there are mochibun!"†
+    # "Yes, yes, there are mochibun!"
 
     ("「じ痰ゃあ、ひとつ、その体験兼箔部ってことで」",
     ""),
@@ -518,9 +518,9 @@ text_array = [
     ""),
     # "Well, I'm holding you back, but please Kaji."
 
-    ("オレは苦笑しながら言った。†",
+    ("オレは苦笑しながら言った。",
     ""),
-    # I said with a wry smile.†
+    # I said with a wry smile.
 
     ("「…でも、どうしてそんな、突然竭やる気に？	なにか理由でも？」",
     ""),

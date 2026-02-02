@@ -2,17 +2,17 @@
 # Source file: 076E.txt
 
 text_array = [
-    ("（琴音	好感度イベント	ＰＳ）閨（廊下）†",
+    ("（琴音	好感度イベント	ＰＳ）閨（廊下）",
     ""),
-    # (Kotone Likeability Event PS)Like (Carrior)†
+    # (Kotone Likeability Event PS)Like (Carrior)
 
     ("昼休み。",
     ""),
     # lunch break.
 
-    ("オレは大きく遅れ気味の史を急かしつつ、廊下を魔走っていた。†",
+    ("オレは大きく遅れ気味の史を急かしつつ、廊下を魔走っていた。",
     ""),
-    # My guts rushed through the hallway, rushing through the I-History, which seemed to be a bit late.†
+    # My guts rushed through the hallway, rushing through the I-History, which seemed to be a bit late.
 
     ("授業が長引いたせいで、潤随分と出遅れた。",
     ""),
@@ -30,13 +30,13 @@ text_array = [
     ""),
     # It was said that it was completely abandoned when it was the same as Chaim.
 
-    ("「待っててくれよ〜。オレのカツサンド！」†",
+    ("「待っててくれよ〜。オレのカツサンド！」",
     ""),
     # "Wait for me. My super cutlet sandwich!"
 
-    ("階段を一気に駆け下濶り｢｢。†",
+    ("階段を一気に駆け下濶り｢｢。",
     ""),
-    # I suddenly stroking the stairs and squealing ".†
+    # I suddenly stroking the stairs and squealing ".
 
     ("渡闢り廊下を駆け抜ければ、目指す購ロ買粕部だ。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Although I was in a hurry, I couldn't help but cry out, and I didn't think about it.
 
-    ("「諱よっ！	琴音ち痰ゃん！！」†",
+    ("「諱よっ！	琴音ち痰ゃん！！」",
     ""),
-    # "My name is! Kotone-chisou-chan!!" †
+    # "My name is! Kotone-chisou-chan!!" 
 
     ("「あっ、さん…」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "What? Kotone Chisho-yan, when do you prefer to eat at school?"
 
-    ("「…い、いえ。…今朝は寝坊してしまって、お弁抹当をｍ鼾れなかったので…」†",
+    ("「…い、いえ。…今朝は寝坊してしまって、お弁抹当をｍ鼾れなかったので…」",
     ""),
-    # "...No, no...I overslept this morning and couldn't sniff out the lunch box..."†
+    # "...No, no...I overslept this morning and couldn't sniff out the lunch box..."
 
     ("「え？	じ痰ゃあ、いつもは自分で弁抹当桃ってんの？」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "That's not the case..."
 
-    ("とかなんとか言葉を交甯わしていると、ぞぞと生徒の団体が横を通闥り過ぎていった。†",
+    ("とかなんとか言葉を交甯わしていると、ぞぞと生徒の団体が横を通闥り過ぎていった。",
     ""),
-    # As I was somehow able to exchange words, a group of students began to travel too far, saying, "B."†
+    # As I was somehow able to exchange words, a group of students began to travel too far, saying, "B."
 
     ("「や、やべっ、忘齧れてた」",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "It looks like it's completely irrational now."
 
-    ("「し、しまったぁ」†",
+    ("「し、しまったぁ」",
     ""),
-    # "Yes, I'm done" †
+    # "Yes, I'm done" 
 
     ("ちえっ。",
     ""),
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Yeah... that's it."
 
-    ("「ってことで琴音ち痰ゃん、いっしょに食べよーぜ」†",
+    ("「ってことで琴音ち痰ゃん、いっしょに食べよーぜ」",
     ""),
     # "So Kotone's sphin, let's eat it together."
 
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # "Okay, that's the phlegm, = Meal < Meal."
 
-    ("オレたちは食堂へｌかった。†",
+    ("オレたちは食堂へｌかった。",
     ""),
-    # We went to the cafeteria.†
+    # We went to the cafeteria.
 
     ("食堂に入ったオレたちは、それぞれの≠メニャーを手に、空いてる席を探した。",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # I kept the spot early.
 
-    ("真んｒがオレで左隣が史、琴音ち痰ゃんは右隣に座った。†",
+    ("真んｒがオレで左隣が史、琴音ち痰ゃんは右隣に座った。",
     ""),
-    # The middle r was me, and the left was next to I-Shin, and Kotone Chisho-chan sat next to my right.†
+    # The middle r was me, and the left was next to I-Shin, and Kotone Chisho-chan sat next to my right.
 
     ("オレと史はお約束のＡ奄ランチだが、琴音ち痰ゃんはうどん一つだけだ。",
     ""),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # "Will you just make me hungry?"
 
-    ("「…はい」†",
+    ("「…はい」",
     ""),
-    # "…yes"†
+    # "…yes"
 
     ("「へえ…」",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # When I was impressed by the essay, Ishi says, "That's about the extent of the bathing girl."
 
-    ("まあ、たしかに琴音ち痰ゃんって、カ鴻ロリー消諸量燉も少なめって感じだしな。†",
+    ("まあ、たしかに琴音ち痰ゃんって、カ鴻ロリー消諸量燉も少なめって感じだしな。",
     ""),
-    # Well, it's true that Kotone's sphin is a little less common.†
+    # Well, it's true that Kotone's sphin is a little less common.
 
     ("「しっかし、オレにはちょっと理解できない世界だよな」",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # "After all, = I guess I'll lose my stomach sooner?"
 
-    ("琴音ち痰ゃんと話しがしたくて、雅話を引き伸ばそうとする。†",
+    ("琴音ち痰ゃんと話しがしたくて、雅話を引き伸ばそうとする。",
     ""),
-    # I want to talk to Kotone Chisho-chan, so I try to stretch the male story.†
+    # I want to talk to Kotone Chisho-chan, so I try to stretch the male story.
 
     ("「いえ…」",
     ""),
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # Kotone Chisho-yan shook his head.
 
-    ("「じ痰ゃあ、それで足闡りてるってことだなぁ。…じつのとこ、琴音ち痰ゃんのスリムな体型を維揶持する秘密だとか？」†",
+    ("「じ痰ゃあ、それで足闡りてるってことだなぁ。…じつのとこ、琴音ち痰ゃんのスリムな体型を維揶持する秘密だとか？」",
     ""),
     # "Ah, that means he's close to me...Is this a secret to keeping the limbs of Kotone Chisho-chan's Sugata-rim body shape?"
 
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # "That means you can keep your style crying without dieting b? I think there are quite a few girls who will start to get angry when they hear those words."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("こんな感じで、琴音ち痰ゃんと話したいがために、その冾日は昼メシそっちのけでし痰ゃべりまくってしまった。",
     ""),

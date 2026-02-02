@@ -2,9 +2,9 @@
 # Source file: 068F.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（ＣＧマルチ掃恆除）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（ＣＧマルチ掃恆除）",
     ""),
-    # (Marrying Luchi Scales Event 2F LV3) (CGMarrying Luchi Scale Scale Scale)†
+    # (Marrying Luchi Scales Event 2F LV3) (CGMarrying Luchi Scale Scale Scale)
 
     ("廊下でマルチを見かけた。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Kaji Ai Henzaki has been working hard for the rest of my life.
 
-    ("香ロボットとはいえ、感心、感心。†",
+    ("香ロボットとはいえ、感心、感心。",
     ""),
-    # Even though it's a Koh robot, I'm impressed and impressed.†
+    # Even though it's a Koh robot, I'm impressed and impressed.
 
     ("オレは｢｢。",
     ""),

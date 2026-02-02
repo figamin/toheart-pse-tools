@@ -2,17 +2,17 @@
 # Source file: 0A29.txt
 
 text_array = [
-    ("（Ａ	声をかける。）†",
+    ("（Ａ	声をかける。）",
     ""),
-    # (A call out.)†
+    # (A call out.)
 
     ("「おーい、掾理女緒ち痰ゃん」",
     ""),
     # "Hey, I'm sputum."
 
-    ("オレは後撃から声をかけた。†",
+    ("オレは後撃から声をかけた。",
     ""),
-    # My gang called out after the attack.†
+    # My gang called out after the attack.
 
     ("「あっ、くん」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Ah, well.
 
-    ("理女緒ち痰ゃんもこれからか？」†",
+    ("理女緒ち痰ゃんもこれからか？」",
     ""),
-    # Is Rimo Ochi Shoyan Hot Spring coming soon?”†
+    # Is Rimo Ochi Shoyan Hot Spring coming soon?”
 
     ("「ううん。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "I don't like that. I haven't done that."
 
-    ("掾理女緒ち痰ゃんは困ったように笑う。†",
+    ("掾理女緒ち痰ゃんは困ったように笑う。",
     ""),
-    # Erime Ochisouyan laughs in trouble.†
+    # Erime Ochisouyan laughs in trouble.
 
     ("「п私、ごはん食べるの、すっごく≠早いんだ」",
     ""),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "I was so excited about my part-time job that I was really excited."
 
-    ("「バイトでなんで≠早¢メシが？」†",
+    ("「バイトでなんで≠早¢メシが？」",
     ""),
     # "Why is it a part-time job? ≠ Fast meal?"
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Hmm, it's a practical cry that makes me feel good."
 
-    ("オレが食堂にパンをモ買いに行ってる桙時間に、もう食っちまったわけだからな。†",
+    ("オレが食堂にパンをモ買いに行ってる桙時間に、もう食っちまったわけだからな。",
     ""),
-    # I've already eaten it when I went to the cafeteria to buy some bread.†
+    # I've already eaten it when I went to the cafeteria to buy some bread.
 
     ("「すごいでしょ？	あはは」",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # "I thought that it was a bit white, I thought that the face of the girl was white."
 
-    ("「？」†",
+    ("「？」",
     ""),
-    # "?"†
+    # "?"
 
     ("と、そこでオレはドリンクをモ買い忘齧れてたことに気づいた。",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "Oh, I'm going to smoke too."
 
-    ("掾理女緒ち痰ゃんはオレの後をついてきた。†",
+    ("掾理女緒ち痰ゃんはオレの後をついてきた。",
     ""),
-    # The girl Ochisou-chan followed me after my intense slut.†
+    # The girl Ochisou-chan followed me after my intense slut.
 
     ("「くんって、諱よくここでジャースャ買ってるね」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # While I was talking, I lost the gold.
 
-    ("氏落とした１００円玉は、そのまま自販機の下へと転がっていく。†",
+    ("氏落とした１００円玉は、そのまま自販機の下へと転がっていく。",
     ""),
-    # The 100 yen coin he lost is then rolled down under the vending machine.†
+    # The 100 yen coin he lost is then rolled down under the vending machine.
 
     ("「あっ、しまった」",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # "I'll pick it up."
 
-    ("「え？」†",
+    ("「え？」",
     ""),
-    # "picture?"†
+    # "picture?"
 
     ("掾理女緒ち痰ゃんは自販機の前にかがみ桙込むと、床のすき間に、思いっきり腕を突っ桙込んだ。",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # "Oh, hey."
 
-    ("「…う、うう〜ん、なんか棒みたいなものがあるといいんだけど」†",
+    ("「…う、うう〜ん、なんか棒みたいなものがあるといいんだけど」",
     ""),
-    # "...Uhhh, um, I hope there's something stick-like like a hot pot" †
+    # "...Uhhh, um, I hope there's something stick-like like a hot pot" 
 
     ("「あの、もういいから」",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # I have no phlegm to listen to at all.
 
-    ("言いづらいけど、パンツが見えそうなほどスカートがまくれ上がってんだよ。†",
+    ("言いづらいけど、パンツが見えそうなほどスカートがまくれ上がってんだよ。",
     ""),
-    # It's hard to say, but my skirt is so big that I could see my panties.†
+    # It's hard to say, but my skirt is so big that I could see my panties.
 
     ("そのとき、",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # The sound of the girl Ochisou-chan echoed out.
 
-    ("と、同椏時に。†",
+    ("と、同椏時に。",
     ""),
-    # And when I'm in the same time.†
+    # And when I'm in the same time.
 
     ("にぶい音。",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # The laughter of the girl Ochi Sphinja's face shatters painfully.
 
-    ("どうやらいきなり立とうとして、で手をぶつけたようだ。†",
+    ("どうやらいきなり立とうとして、で手をぶつけたようだ。",
     ""),
-    # It seems he tried to stand up suddenly, but slammed his hand with .†
+    # It seems he tried to stand up suddenly, but slammed his hand with .
 
     ("「おい、蛛大苟丈夫か？」",
     ""),
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # "Hehe. I can't help but..."
 
-    ("掾理女緒ち痰ゃんは無邪気に笑って見せた。†",
+    ("掾理女緒ち痰ゃんは無邪気に笑って見せた。",
     ""),
-    # Erie Ochi Shoyan smiled innocently.†
+    # Erie Ochi Shoyan smiled innocently.
 
     ("「でも、これ」",
     ""),
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # He held out his hand and opened it in front of me.
 
-    ("そこには、５００円玉があった。†",
+    ("そこには、５００円玉があった。",
     ""),
-    # There was a 500 yen coin there.†
+    # There was a 500 yen coin there.
 
     ("「諱よかったね、見つかって」",
     ""),
@@ -286,9 +286,9 @@ text_array = [
     ""),
     # I tried to say that it was 100 yen for my leopardy, but then I stopped.
 
-    ("言うと、また自販機の下へ、閨手を突っ桙込みかねない。†",
+    ("言うと、また自販機の下へ、閨手を突っ桙込みかねない。",
     ""),
-    # In other words, it could poke your hand under the vending machine again.†
+    # In other words, it could poke your hand under the vending machine again.
 
     ("「さんきゅー、たすかったぜ」",
     ""),
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「どれがいい？」†",
+    ("「どれがいい？」",
     ""),
     # "Which one is better?"
 
@@ -330,7 +330,7 @@ text_array = [
     ""),
     # "it is…"
 
-    ("「ジャース黹一本、閨手頃だ？」†",
+    ("「ジャース黹一本、閨手頃だ？」",
     ""),
     # "A jars bite is a reasonable b?"
 
@@ -346,9 +346,9 @@ text_array = [
     ""),
     # "Are you phlegm, which one?"
 
-    ("「うん。え〜っと」†",
+    ("「うん。え〜っと」",
     ""),
-    # "Yeah. Uhhh" †
+    # "Yeah. Uhhh" 
 
     ("掾理女緒ち痰ゃんは、自販機を少しながめて、",
     ""),
@@ -362,9 +362,9 @@ text_array = [
     ""),
     # "All the name"
 
-    ("オレはボタンを押す。†",
+    ("オレはボタンを押す。",
     ""),
-    # I press the button.†
+    # I press the button.
 
     ("「ほら。カフェオレ」",
     ""),
@@ -382,9 +382,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("掾理女緒ち痰ゃんは受け取ったカフェオレを、嬉しそうにながめた。†",
+    ("掾理女緒ち痰ゃんは受け取ったカフェオレを、嬉しそうにながめた。",
     ""),
-    # Erie Ochishon looked happily at the cafe au gem that she had received.†
+    # Erie Ochishon looked happily at the cafe au gem that she had received.
 
     ("「じ痰ゃオレ、＝メシまだだし、教室戻髢るわ」",
     ""),
@@ -406,9 +406,9 @@ text_array = [
     ""),
     # "Uh, sputum."
 
-    ("とても嬉しそうに微笑んで、掾理女緒ち痰ゃんは廊下のｌこうに歩いていった。†",
+    ("とても嬉しそうに微笑んで、掾理女緒ち痰ゃんは廊下のｌこうに歩いていった。",
     ""),
-    # And Kao smiled happily, and the shores roamed in the hallway.†
+    # And Kao smiled happily, and the shores roamed in the hallway.
 
     ("なんだか少し変﨑わってるけど、やっぱり、いい子なんだよな。",
     ""),

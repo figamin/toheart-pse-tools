@@ -2,9 +2,9 @@
 # Source file: 0286.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ｂ	いまは遠慮しとく）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ２）閨（選択綜Ｂ	いまは遠慮しとく）",
     ""),
-    # (Seri°Chuang, Scales Event 2F LV2)Seri (Select B, I'll refrain from doing it now)†
+    # (Seri°Chuang, Scales Event 2F LV2)Seri (Select B, I'll refrain from doing it now)
 
     ("「…ううーん。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 01CE.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ｂ	忙しい）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ｂ	忙しい）",
     ""),
-    # (Light scale event 1F) (B) (Big)†
+    # (Light scale event 1F) (B) (Big)
 
     ("「忙しい」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Akari seemed disappointed.
 
-    ("ちょっと冷たかったか。†",
+    ("ちょっと冷たかったか。",
     ""),
-    # Was it cold after all?†
+    # Was it cold after all?
 
     ("「なんだ、用でもあるのか？」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Yeah, there's no phlegm."
 
-    ("閨手を振關り、オレは歩きだした。†",
+    ("閨手を振關り、オレは歩きだした。",
     ""),
-    # I waved my hand and started walking.†
+    # I waved my hand and started walking.
 
     ("そういや手に本を持ってたみたいだけど、なんだう？",
     ""),

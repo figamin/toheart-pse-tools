@@ -2,9 +2,9 @@
 # Source file: 00D8.txt
 
 text_array = [
-    ("（システムイベント	テスト発表）閨（あかりと勉強有り）閨（Ｓａ５の場㍼合）†",
+    ("（システムイベント	テスト発表）閨（あかりと勉強有り）閨（Ｓａ５の場㍼合）",
     ""),
-    # (System Event Test Presentation) Pin (Lights and Study) Pin (Standby Sa5) †
+    # (System Event Test Presentation) Pin (Lights and Study) Pin (Standby Sa5) 
 
     ("平均点は…８４点。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # When the results of my efforts clearly show the results, I feel like I want to believe in my own abilities.
 
-    ("まっ、これもあかりのおかげかもな。†",
+    ("まっ、これもあかりのおかげかもな。",
     ""),
-    # Well, this is both hot and hot, perhaps thanks to the light.†
+    # Well, this is both hot and hot, perhaps thanks to the light.
 
     ("「ち痰ゃん」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Ou"
 
-    ("いいタイミングで、あかりがやってきた。†",
+    ("いいタイミングで、あかりがやってきた。",
     ""),
-    # At the right time, Akari came tampering with it.†
+    # At the right time, Akari came tampering with it.
 
     ("「テストの結果、どうだった？」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "What point?"
 
-    ("いちおう気をつかってか、少し遠慮気味に聞く。†",
+    ("いちおう気をつかってか、少し遠慮気味に聞く。",
     ""),
-    # Perhaps he was careful, but asked, a little more reserved.†
+    # Perhaps he was careful, but asked, a little more reserved.
 
     ("「ふっふっふ。驚け、８４点だ」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "Oh, see, see it."
 
-    ("オレは赤マルばかりのテストを広げた。†",
+    ("オレは赤マルばかりのテストを広げた。",
     ""),
-    # I spread the test with a lot of red-skinned cries.†
+    # I spread the test with a lot of red-skinned cries.
 
     ("「ほんとだ、すごい！	ち痰ゃん」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Well, it's a light hot pot."
 
-    ("などと、気諡取ってしまう。†",
+    ("などと、気諡取ってしまう。",
     ""),
-    # He then takes a scorn into thinking, "I'm not going to get any more."†
+    # He then takes a scorn into thinking, "I'm not going to get any more."
 
     ("「やっぱり、やればできるね、ち痰ゃんは」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "It just happened to be рyama hit the demon."
 
-    ("だが正直、今回はあかりのこの笑顔の桙応㊨援があったればこそって気がする。†",
+    ("だが正直、今回はあかりのこの笑顔の桙応㊨援があったればこそって気がする。",
     ""),
-    # But to be honest, I feel that this time it's only possible because Akari's laughter-like support was there.†
+    # But to be honest, I feel that this time it's only possible because Akari's laughter-like support was there.
 
     ("「とこで、お前はどうなんだよ？」",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "пI'm..."
 
-    ("その途端、あかりはガクッと肩を落とした。†",
+    ("その途端、あかりはガクッと肩を落とした。",
     ""),
-    # At the same time, Akari squealed down her shoulders.†
+    # At the same time, Akari squealed down her shoulders.
 
     ("「なんだ？	だめだったのか？」",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "What the hell!"
 
-    ("あかりはにっこり笑って、おち痰ゃらけた。†",
+    ("あかりはにっこり笑って、おち痰ゃらけた。",
     ""),
-    # Akari smiled and slurped.†
+    # Akari smiled and slurped.
 
     ("「えへへー、п私燻もバッチリだよー」",
     ""),
@@ -146,8 +146,8 @@ text_array = [
     ""),
     # "Don't do anything boring. You're doing well this time, you're doing well."
 
-    ("「そうだね」†",
+    ("「そうだね」",
     ""),
-    # "I agree"†
+    # "I agree"
 
 ]

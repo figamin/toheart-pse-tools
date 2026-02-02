@@ -2,15 +2,15 @@
 # Source file: 0883.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	２階１	選択綜Ａ）†",
+    ("（レミィ	回秤数イベント	２階１	選択綜Ａ）",
     ""),
-    # (Game Remy Scale Event 2nd Floor 1 Selection A)†
+    # (Game Remy Scale Event 2nd Floor 1 Selection A)
 
     ("子沁供は素直で可愛いもんな。",
     ""),
     # Koushin is honest and cute.
 
-    ("「そり痰ゃあ、好きかな」†",
+    ("「そり痰ゃあ、好きかな」",
     ""),
     # "You're so phlegm, I think I like it"
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # As I said, I started to sway my arms around, which was a problem.
 
-    ("「そ、そり痰ゃあ良かったな」†",
+    ("「そ、そり痰ゃあ良かったな」",
     ""),
     # "I think it would be nice if it was slurping."
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # He says as he holds my arms.
 
-    ("予想外の大接近…。†",
+    ("予想外の大接近…。",
     ""),
-    # An unexpected approach to the ep...†
+    # An unexpected approach to the ep...
 
     ("「でもさ、なんでそういうこと聞くんだ？」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "'I won't say anything but I won't say it's a win.'
 
-    ("「なんだそれ？」†",
+    ("「なんだそれ？」",
     ""),
     # "What is that?"
 
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "You're phlegmy."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("その場に立ち尽くしてしまうオレ…。",
     ""),

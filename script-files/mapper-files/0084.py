@@ -2,9 +2,9 @@
 # Source file: 0084.txt
 
 text_array = [
-    ("（冝期槙末テスト	２冾日目）閨（教室１）†",
+    ("（冝期槙末テスト	２冾日目）閨（教室１）",
     ""),
-    # (2nd day of the 2nd year of the rib test) (Classroom 1)†
+    # (2nd day of the 2nd year of the rib test) (Classroom 1)
 
     ("学年又末テスト２冾日目。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # The subject on the day is mathematics.
 
-    ("公式さえ覚えてれば、あとの桙応用は得意なほうなんだが…。†",
+    ("公式さえ覚えてれば、あとの桙応用は得意なほうなんだが…。",
     ""),
-    # As long as I remember the formula, I'm good at applying the later Kaba...†
+    # As long as I remember the formula, I'm good at applying the later Kaba...
 
     ("諱取りあえず、終了。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Hi Amai!!"
 
-    ("そこへ、レミィがやってきた。†",
+    ("そこへ、レミィがやってきた。",
     ""),
-    # Then, Karemi came to tamper with it.†
+    # Then, Karemi came to tamper with it.
 
     ("「おう」",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 02B1.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（選択綜Ａ	堰初めていっしょに帰鼡れたな）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ２）閨（選択綜Ａ	堰初めていっしょに帰鼡れたな）",
     ""),
-    # (Seri°Chuang, Scales Event 1F LV2)Seri (Seri°Chuang, the first time I returned to the Ebi)†
+    # (Seri°Chuang, Scales Event 1F LV2)Seri (Seri°Chuang, the first time I returned to the Ebi)
 
     ("「そういや、堰初めていっしょに帰鼡れたな」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("見つめ№合うふたり。†",
+    ("見つめ№合うふたり。",
     ""),
-    # The two of them stare at each other.†
+    # The two of them stare at each other.
 
     ("「ぶえっふっ！」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # Tw...
 
-    ("こいつがいる限り、ふたりは素直に結ばれそうにないぜ。†",
+    ("こいつがいる限り、ふたりは素直に結ばれそうにないぜ。",
     ""),
-    # As long as this guy is there, it seems unlikely that the two will be united.†
+    # As long as this guy is there, it seems unlikely that the two will be united.
 
     ("「なんだか後撃がうるさいからな。",
     ""),

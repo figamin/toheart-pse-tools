@@ -2,17 +2,17 @@
 # Source file: 0122.txt
 
 text_array = [
-    ("（あかり	ＶＳイベント	智子）閨（選択綜Ｂ	とくに否阡定しなかった）†",
+    ("（あかり	ＶＳイベント	智子）閨（選択綜Ｂ	とくに否阡定しなかった）",
     ""),
-    # (Akari VS Event Tomoko) (Select B was not particularly denied)†
+    # (Akari VS Event Tomoko) (Select B was not particularly denied)
 
     ("とくに否阡定しなかった。",
     ""),
     # It was not particularly denied.
 
-    ("あかりはオレの彼女じ痰ゃない、と言い切髏るのは簡単だったが、なぜだかその言葉を口にすることにわずかなｒ抗を感じてしまった。†",
+    ("あかりはオレの彼女じ痰ゃない、と言い切髏るのは簡単だったが、なぜだかその言葉を口にすることにわずかなｒ抗を感じてしまった。",
     ""),
-    # Akari was easy to say that she was a huge girl and had no phlegm, but for some reason she felt a slight urgency to say that she was lucky enough to say that.†
+    # Akari was easy to say that she was a huge girl and had no phlegm, but for some reason she felt a slight urgency to say that she was lucky enough to say that.
 
     ("「………」",
     "…"),
@@ -34,17 +34,17 @@ text_array = [
     ""),
     # "...What's that being done?"
 
-    ("と、委員長は、ちょっとムッとした様子でつぶやいた。†",
+    ("と、委員長は、ちょっとムッとした様子でつぶやいた。",
     ""),
-    # The chairman muttered, looking a bit irritated.†
+    # The chairman muttered, looking a bit irritated.
 
     ("まあ、委員長とは席熕も近いし、ここで説明しなくても、オレとあかりの微妙な関係煬も、そのうち理解してくれるだう。",
     ""),
     # Well, I'm close to the chairman, and I won't explain it here, so I'll soon understand both Kana and Akari's delicate relationship.
 
-    ("実際、つき№合ってると間違われるほど№仲がいいのは確かだし。†",
+    ("実際、つき№合ってると間違われるほど№仲がいいのは確かだし。",
     ""),
-    # In fact, it's true that if you get the right number, you're so close that you'll end up miserably.†
+    # In fact, it's true that if you get the right number, you're so close that you'll end up miserably.
 
     ("「じ痰ゃ、もし神岸さん見かけたら、職員室で渡辺謨先生が呼んどった、言うといて」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "Ah, yeah."
 
-    ("それだけを言い残すと、委員長は素っ気なくｌこうへ行ってしまった。†",
+    ("それだけを言い残すと、委員長は素っ気なくｌこうへ行ってしまった。",
     ""),
-    # If I left that point out, the chairman just casually went to LOL.†
+    # If I left that point out, the chairman just casually went to LOL.
 
     ("うーむ。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # Well, since I got along well with the chairman, I still haven't gotten much better, so it just happens that the seats are close by.
 
-    ("当然といえば魔当然か。†",
+    ("当然といえば魔当然か。",
     ""),
-    # Of course, it's only natural to be polished.†
+    # Of course, it's only natural to be polished.
 
     ("「どうしたの、ぼーっとして」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "It's tampering..."
 
-    ("「？」†",
+    ("「？」",
     ""),
-    # "?"†
+    # "?"
 
     ("「なあ、あかり」",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "What kind of relationship is, ummm..."
 
-    ("噤答えに詰まる。†",
+    ("噤答えに詰まる。",
     ""),
-    # I'm stuck in the answer.†
+    # I'm stuck in the answer.
 
     ("「ま、それはいいや。それより、渡辺謨先生が職員室にｗいってよ」",
     ""),
@@ -154,16 +154,16 @@ text_array = [
     ""),
     # "That's what I mean, I told you."
 
-    ("「あっ、ち痰ゃん」†",
+    ("「あっ、ち痰ゃん」",
     ""),
-    # "Ah, sphin's a bit"†
+    # "Ah, sphin's a bit"
 
     ("オレは、あかりを残して教室に戻った。",
     ""),
     # I returned to the classroom leaving behind Akari.
 
-    ("いきなりあんな質竡問するんじ痰ゃなかったと、ちょっとだけ後悔した。†",
+    ("いきなりあんな質竡問するんじ痰ゃなかったと、ちょっとだけ後悔した。",
     ""),
-    # I regretted that I had no phlegm to suddenly question such a quality of questioning.†
+    # I regretted that I had no phlegm to suddenly question such a quality of questioning.
 
 ]

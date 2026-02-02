@@ -2,9 +2,9 @@
 # Source file: 0398.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ａ	いっしょに帰うかと誘う）閨（選択綜Ａ	志保を信じる	の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ａ	いっしょに帰うかと誘う）閨（選択綜Ａ	志保を信じる	の続き）",
     ""),
-    # (Tomoko's Scales Event: Departing from School LV1) (Selection A invites you to return to Isshibe) (Selection A Continued from Selection A Conceived in Shiho) †
+    # (Tomoko's Scales Event: Departing from School LV1) (Selection A invites you to return to Isshibe) (Selection A Continued from Selection A Conceived in Shiho) 
 
     ("「そうだな。火のないとこに撃煙は立たず、とも言うしな。",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "In other words, you believe in me."
 
-    ("「ま、この盾件に関してのみ、ひとつの可能性として、参考程度に心に留めておいてやう」†",
+    ("「ま、この盾件に関してのみ、ひとつの可能性として、参考程度に心に留めておいてやう」",
     ""),
     # "Well, as only this shield case, I will keep it in mind as a reference only, and I will tamper with it."
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Feel"
 
-    ("オレは背白をｌけて歩き出した。†",
+    ("オレは背白をｌけて歩き出した。",
     ""),
-    # I started walking around with a loud bluff.†
+    # I started walking around with a loud bluff.
 
     ("「ちょっと待ちなさいよ！	それがアンタの感謝の言葉なのー！？」",
     ""),
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I don't know if it's the end of the day, so I have no choice. I'm holding it, hold it."
 
-    ("「ムカつくわねぇ！」†",
+    ("「ムカつくわねぇ！」",
     ""),
     # "I'm so annoyed!"
 

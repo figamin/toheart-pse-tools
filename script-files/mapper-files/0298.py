@@ -2,9 +2,9 @@
 # Source file: 0298.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｃ	小瓶に入った葉っぱについて）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｃ	小瓶に入った葉っぱについて）",
     ""),
-    # (Seri°Kawa, Scales Event 2F LV3)Seri (Select Soku C: About the leaves in small bottles)†
+    # (Seri°Kawa, Scales Event 2F LV3)Seri (Select Soku C: About the leaves in small bottles)
 
     ("オレは棚の上の葉っぱの入ったガラス瓶について聞いた。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "What is this leaf?"
 
-    ("氏月桂樹です、と先輩は嘯答えた。†",
+    ("氏月桂樹です、と先輩は嘯答えた。",
     ""),
-    # Mr. Yale, replied his senior.†
+    # Mr. Yale, replied his senior.
 
     ("「なんかに使うの？	ポプリ？」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "Whoa, it's a gypsy spell."
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("「………」",
     "…"),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # A clap sound came out, and when the lid of the ko-shiruku opened, a pleasant syrup wafted through the room.
 
-    ("氏月桂樹はハーブにも使寬われるらしい。†",
+    ("氏月桂樹はハーブにも使寬われるらしい。",
     ""),
-    # Apparently, the laurel tree is also used as herbs.†
+    # Apparently, the laurel tree is also used as herbs.
 
     ("諱先輩はその葉っぱにお祈闍りし、ていねいに浮封尓筒に入齠れて、オレにくれた。",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "Hehe, san shin!"
 
-    ("小さなモ茶色の浮封尓筒だった。†",
+    ("小さなモ茶色の浮封尓筒だった。",
     ""),
-    # It was a small brown floating tube.†
+    # It was a small brown floating tube.
 
     ("「こいつをいつも持ち歩けばいいわけ？」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "You'll have to put it in your bag. It's because the hot springs are walking around with them."
 
-    ("オレは鞄を開け、内側のポケットに浮封尓筒をしまった。†",
+    ("オレは鞄を開け、内側のポケットに浮封尓筒をしまった。",
     ""),
-    # I opened my bag and put a floating tube in my inner pocket.†
+    # I opened my bag and put a floating tube in my inner pocket.
 
     ("「これでオレにも幸運が訪齧れる？」",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # "Hehehe..."
 
-    ("なんか、本末当に効果がありそう。†",
+    ("なんか、本末当に効果がありそう。",
     ""),
-    # It seems like it will actually be effective at the end of the day.†
+    # It seems like it will actually be effective at the end of the day.
 
     ("諱よく駅でやってる、幸運のお祈闍りとかっていうやつ。",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # 﨟I'm basically a guy who doesn't believe in me.
 
-    ("やっぱ、うそくせーとか思ってしまう。†",
+    ("やっぱ、うそくせーとか思ってしまう。",
     ""),
-    # I can't help but think that it's a lie after all.†
+    # I can't help but think that it's a lie after all.
 
     ("でもこいつは痰違うよな。",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # After all, the bath goddess' prayer is sealed in the r of this floating seal.
 
-    ("なんつって。†",
+    ("なんつって。",
     ""),
-    # What?†
+    # What?
 
     ("「………」",
     "…"),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # Maybe it's because of the atmosphere in the club room.
 
-    ("今厓日の先輩、なんだか本末当に神髏秘的に見えるな。†",
+    ("今厓日の先輩、なんだか本末当に神髏秘的に見えるな。",
     ""),
-    # Now Senpai, who is currently in the middle of the day, looks like a mysterious secret.†
+    # Now Senpai, who is currently in the middle of the day, looks like a mysterious secret.
 
     ("「へへ…」",
     ""),

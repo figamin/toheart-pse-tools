@@ -2,9 +2,9 @@
 # Source file: 0488.txt
 
 text_array = [
-    ("（志保	回秤数イベント	２階２）閨（選択綜	話す）†",
+    ("（志保	回秤数イベント	２階２）閨（選択綜	話す）",
     ""),
-    # (Shiho Scales Event, 2nd floor 2) (Choice Speak)†
+    # (Shiho Scales Event, 2nd floor 2) (Choice Speak)
 
     ("「ハ純ワイといえばさ、縺後１週間と１冾日で修学旅行謐よね」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Hey, if someone who doesn't knows asks, I think they'll go to Hajjang Wai for a school trip."
 
-    ("「同じみたいなもんよ」†",
+    ("「同じみたいなもんよ」",
     ""),
-    # "It's the same kind of hot spring" †
+    # "It's the same kind of hot spring" 
 
     ("「バ〜カ、行き先は北海道だーが。北と入じ痰ゃ、えれー瘁違いだ」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "If you've got 10 minutes off, it's not good to have Kitashiro or warmed it."
 
-    ("「また、そー艨ゆーへ理雷を…」†",
+    ("「また、そー艨ゆーへ理雷を…」",
     ""),
     # "And again, thunder thunder..."
 

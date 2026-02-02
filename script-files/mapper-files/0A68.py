@@ -2,9 +2,9 @@
 # Source file: 0A68.txt
 
 text_array = [
-    ("（Ａ	声をかける。）†",
+    ("（Ａ	声をかける。）",
     ""),
-    # (A call out.)†
+    # (A call out.)
 
     ("「諱よう。今厓日燗もやってんな」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Last day's advice, huh, it worked really well."
 
-    ("「なんだ、アドバイスって？」†",
+    ("「なんだ、アドバイスって？」",
     ""),
     # "What, what advice?"
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "Ahaha, that's right."
 
-    ("逆に下がってたりしてな。†",
+    ("逆に下がってたりしてな。",
     ""),
-    # On the other hand, it's falling down.†
+    # On the other hand, it's falling down.
 
     ("「とこで、今厓日燗も教えてもらえるかな？」",
     ""),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # It'll help."
 
-    ("「たぶん、なんの役にも立たねーだうけど」†",
+    ("「たぶん、なんの役にも立たねーだうけど」",
     ""),
     # "I think it's probably not a hit for anything."
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # It was clearly denied.
 
-    ("そうか、そんなことないのか。†",
+    ("そうか、そんなことないのか。",
     ""),
-    # I see, isn't that?†
+    # I see, isn't that?
 
     ("しかし、なにゆえ、ここまで盲目的に信叶頼されてるんだ。",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # I know my own lack of power because I know the most about my lack of power.
 
-    ("艨謎だ。†",
+    ("艨謎だ。",
     ""),
-    # It's a mystery.†
+    # It's a mystery.
 
     ("「明坙日は曹国鼾語だね」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "What about the current country?"
 
-    ("「あんなのはセンス命。いまさら勉強しようがねーだ」†",
+    ("「あんなのはセンス命。いまさら勉強しようがねーだ」",
     ""),
-    # "That's what I mean by life. I can't study now b" †
+    # "That's what I mean by life. I can't study now b" 
 
     ("「そういうものなの？",
     ""),
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # It's quite a poor way to study.
 
-    ("「んで、どうだった？	現国はうまくいったか？」†",
+    ("「んで、どうだった？	現国はうまくいったか？」",
     ""),
     # "So, what was it? Did the current country go well?"
 
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # "You're so unfair. My teacher often tells me, right? You're the only one who has good points in the current country."
 
-    ("「へええ、すごーい」†",
+    ("「へええ、すごーい」",
     ""),
-    # "Wow, that's amazing" †
+    # "Wow, that's amazing" 
 
     ("「まあ、裏を返せば、古文笊や漢文熾も勉強しってことなんだけどさ」",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # What should I do about it when I just turned it back that much?
 
-    ("元に戻ってるじ痰ゃねえか。†",
+    ("元に戻ってるじ痰ゃねえか。",
     ""),
-    # Is it phlegm back to normal?†
+    # Is it phlegm back to normal?
 
     ("「やっぱりすごいんだ〜、くんって。そっか、センスかぁ。いいなあ」",
     ""),
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # "?"
 
-    ("「やっぱさ、自分のもので勝縁負しなき痰ゃ」†",
+    ("「やっぱさ、自分のもので勝縁負しなき痰ゃ」",
     ""),
-    # "After all, I have to bear the phlegm that won't be able to win with my own hot stuff" †
+    # "After all, I have to bear the phlegm that won't be able to win with my own hot stuff" 
 
     ("「あっ。お母さんも言ってた。隣の家の芝生は青くてきれいに見えるけど、′こうから見たら、こっちの方熾もきれいに見えるんだって」",
     ""),
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "ah.
 
-    ("理女緒ち痰ゃんには理女緒ち痰ゃんの取り柄みたいのがあるだ？	それで勝縁負すり痰ゃいんだよ」†",
+    ("理女緒ち痰ゃんには理女緒ち痰ゃんの取り柄みたいのがあるだ？	それで勝縁負すり痰ゃいんだよ」",
     ""),
     # Is there something like a pattern in Rimo Ochi Sphinja that looks like a character in Rimo Ochi Sphinja that?That's why I'm so grateful for the victory."
 
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # "Tsniff, um, um... But there are people who have poor academic ability and sense, and have become even more powerful because they have become more important to them."
 
-    ("「いいこと言ってんなー」†",
+    ("「いいこと言ってんなー」",
     ""),
     # "You're saying good things"
 
@@ -230,7 +230,7 @@ text_array = [
     ""),
     # "It's a mess... I don't think there's a lot of the president, and there's no scholar."
 
-    ("「そ、そっかな〜。世界樺さがしたら、一人くらいは…」†",
+    ("「そ、そっかな〜。世界樺さがしたら、一人くらいは…」",
     ""),
     # "I see. If I look for the world birch, it's about one person..."
 
@@ -242,7 +242,7 @@ text_array = [
     ""),
     # "Uhhh. If it's a tuna thing that doesn't matter academic ability..."
 
-    ("「すでに学者でもなんでもねえじ痰ゃねーか、それじ痰ゃ」†",
+    ("「すでに学者でもなんでもねえじ痰ゃねーか、それじ痰ゃ」",
     ""),
     # "I'm already a scholar and I'm not sure why are you sputum with hot water, that's what sputum?"
 
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # "So, if I look for the World Birch, too..."
 
-    ("「探さねーって」†",
+    ("「探さねーって」",
     ""),
-    # "Don't look for it" †
+    # "Don't look for it" 
 
     ("けっきょく、そんな雑談で桙時間は過ぎて、°体的な内容にはほとんど触齔れずに終尞わってしまった。◯",
     ""),

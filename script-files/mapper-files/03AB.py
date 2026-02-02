@@ -2,9 +2,9 @@
 # Source file: 03AB.txt
 
 text_array = [
-    ("（智子	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｂ	いーや、まだまだ、もう少し！）閨（選択綜Ｂ	いーや、冝諦めねーぞ！）閨（選択綜Ｂ	いーや、なにかを掴むまでは！）†",
+    ("（智子	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｂ	いーや、まだまだ、もう少し！）閨（選択綜Ｂ	いーや、冝諦めねーぞ！）閨（選択綜Ｂ	いーや、なにかを掴むまでは！）",
     ""),
-    # (Tomoko's Scales Event Return Road LV2) (Choice Solved B, I'm a little more!) (Choice Solved B, I'm a little more!) (Choice Solved B, I'm a bit more open, I'm not going to give up!) (Choice Solved B, I'm a bit more until I get something!) †
+    # (Tomoko's Scales Event Return Road LV2) (Choice Solved B, I'm a little more!) (Choice Solved B, I'm a little more!) (Choice Solved B, I'm a bit more open, I'm not going to give up!) (Choice Solved B, I'm a bit more until I get something!) 
 
     ("いーや！",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Please Kaji!
 
-    ("誰か、模範プレイをしてくれ〜っ！†",
+    ("誰か、模範プレイをしてくれ〜っ！",
     ""),
-    # Someone please give me a great example!†
+    # Someone please give me a great example!
 
     ("…と、そのとき。",
     ""),
@@ -38,17 +38,17 @@ text_array = [
     ""),
     # Hands that are used to being Miccident.
 
-    ("こいつは冾期待蜻大だぜ。†",
+    ("こいつは冾期待蜻大だぜ。",
     ""),
-    # This guy is very excited about dragonfly.†
+    # This guy is very excited about dragonfly.
 
     ("スタートボタンを押す。",
     ""),
     # Press the start button.
 
-    ("ゲームが始まった。†",
+    ("ゲームが始まった。",
     ""),
-    # The game has begun.†
+    # The game has begun.
 
     ("スタート前の微妙なアクセル調整！",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # A sudden, successful start!
 
-    ("…なるほど、ああやるんだな。†",
+    ("…なるほど、ああやるんだな。",
     ""),
-    # ...I see, I'm going to tamper with it.†
+    # ...I see, I'm going to tamper with it.
 
     ("見膜事な奄ライン諠取り、絶妙なコーナリング！",
     ""),
@@ -74,25 +74,25 @@ text_array = [
     ""),
     # Oh, I thrust that hairpin with a cry of crying and bent it!
 
-    ("…これは是非、真乱似しねーとな。†",
+    ("…これは是非、真乱似しねーとな。",
     ""),
-    # ...I definitely don't think this will be a real contradiction.†
+    # ...I definitely don't think this will be a real contradiction.
 
     ("まったく無駄のないジャャンプで立ち上がりをフォ鴻ロー。",
     ""),
     # He follows the rise with a completely lean, completely free-spirited Jampu.
 
-    ("…ほほう、ためになるぜ。†",
+    ("…ほほう、ためになるぜ。",
     ""),
-    # ...Wow, that's helpful.†
+    # ...Wow, that's helpful.
 
     ("速い、これは速いぞ！",
     ""),
     # Fast, this is fast!
 
-    ("そして、ゴール！†",
+    ("そして、ゴール！",
     ""),
-    # And the goal!†
+    # And the goal!
 
     ("タイムは…げげっ、１’５４”５２！",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # Wow, it's the real thing.
 
-    ("ゲーマーふう兄ち痰ゃんは、渋く『ＺＺＺ』とネームを盾刻んで去っていった。†",
+    ("ゲーマーふう兄ち痰ゃんは、渋く『ＺＺＺ』とネームを盾刻んで去っていった。",
     ""),
-    # The gamer-like brother, Sympyan, liostefully laced his name with a shield, "ZZZ."†
+    # The gamer-like brother, Sympyan, liostefully laced his name with a shield, "ZZZ."
 
     ("諱よしっ。",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # Using the current one as a reference, I'll try making a big splash right away!
 
-    ("小銭、小銭と…。†",
+    ("小銭、小銭と…。",
     ""),
-    # Coins, coins...†
+    # Coins, coins...
 
     ("・",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「ゴーーーール！」",
     ""),
@@ -150,13 +150,13 @@ text_array = [
     ""),
     # Ahhhaha!
 
-    ("もう少し練習すれば、２’００”００の壁を破髞ることも夢じ痰ゃねーぜ。†",
+    ("もう少し練習すれば、２’００”００の壁を破髞ることも夢じ痰ゃねーぜ。",
     ""),
     # If I practice for a little more fortune, I can't dream of breaking the 2'00'00 barrier.
 
-    ("これで次回はテ＜メーにおごってもらうぜ、志保！†",
+    ("これで次回はテ＜メーにおごってもらうぜ、志保！",
     ""),
-    # Now, next time I'll buy Temae and get some hot water, Shiho!†
+    # Now, next time I'll buy Temae and get some hot water, Shiho!
 
     ("・",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("なんてことをやってるうちに、時庶刻は｢｢黽げげげっ、もう９桙時すぎ！？",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # I don't really understand why I'm so excited about this, but I can't help but feel the same way, but now I can't beat Shiho's р guy!
 
-    ("しかしこの、いったん熱くなったときの集薯力、艨我ながら感條服するものがあるな。†",
+    ("しかしこの、いったん熱くなったときの集薯力、艨我ながら感條服するものがあるな。",
     ""),
-    # However, once it gets hot, there is something that will make you feel excited.†
+    # However, once it gets hot, there is something that will make you feel excited.
 
     ("遅くなっちまった。",
     ""),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # Chairman?
 
-    ("こんな桙時間に、しかも制梵服姿で、いったいなにやってんだ。†",
+    ("こんな桙時間に、しかも制梵服姿で、いったいなにやってんだ。",
     ""),
-    # At this time, even though the hot springs are wearing Sanskrit uniforms, what exactly are they doing?†
+    # At this time, even though the hot springs are wearing Sanskrit uniforms, what exactly are they doing?
 
     ("諱よく見骭ると、委員長は、他校の制梵服をｒた男といっしょに並んで歩いていた。",
     ""),
@@ -214,13 +214,13 @@ text_array = [
     ""),
     # The man's face looked like he had seen a banquet while browsing at a bookstore the other day.
 
-    ("こんな桙時間にまでいっしょにいるってことは、やっぱりふたりはつき№合ってんだうか。†",
+    ("こんな桙時間にまでいっしょにいるってことは、やっぱりふたりはつき№合ってんだうか。",
     ""),
-    # If they are at the same time like this, it means that the two of them are right in line with each other.†
+    # If they are at the same time like this, it means that the two of them are right in line with each other.
 
-    ("ひとりだったら間違いなく声をかけるとこなんだが、せっかくふたり№仲良く歩いてんだ、＊髢暮な真乱似はやめて、そっとしといてやるか。†",
+    ("ひとりだったら間違いなく声をかけるとこなんだが、せっかくふたり№仲良く歩いてんだ、＊髢暮な真乱似はやめて、そっとしといてやるか。",
     ""),
-    # If she were alone, she would definitely call out to him, but the two of them were walking around in great harmony. *Stop tampering with the likes of a sinner, and just keep quiet and tampering with them.†
+    # If she were alone, she would definitely call out to him, but the two of them were walking around in great harmony. *Stop tampering with the likes of a sinner, and just keep quiet and tampering with them.
 
     ("「………」",
     "…"),
@@ -230,17 +230,17 @@ text_array = [
     ""),
     # ...And also the chairman of the committee, it's a bit hard to have fun with Hoo.
 
-    ("男のほうは委員長に顔を近づけ、しきりになにかを話し続けている。†",
+    ("男のほうは委員長に顔を近づけ、しきりになにかを話し続けている。",
     ""),
-    # The man moved his face to the chairman and continued to talk about something.†
+    # The man moved his face to the chairman and continued to talk about something.
 
     ("男が一箞方的に言い寄ってる…っていうふうにも取齊れるな。",
     ""),
     # The man is approaching me in a simple way... and I can also take the opportunity to get the chance.
 
-    ("オレが見てるってことには、ふたりとも気がついてない。†",
+    ("オレが見てるってことには、ふたりとも気がついてない。",
     ""),
-    # The two and Ho don't notice that I'm watching.†
+    # The two and Ho don't notice that I'm watching.
 
     ("そのときだった。",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # "Ahhh!"
 
-    ("しかも、当たったのは角のトコ。†",
+    ("しかも、当たったのは角のトコ。",
     ""),
-    # However, the chicken was polished on the corner.†
+    # However, the chicken was polished on the corner.
 
     ("あ、あれは、痛いだ。",
     ""),
@@ -282,17 +282,17 @@ text_array = [
     ""),
     # When Luna's sword blood appears.
 
-    ("ひでぇ。†",
+    ("ひでぇ。",
     ""),
-    # Wow.†
+    # Wow.
 
     ("一箞方、加害者の委員長は痛がる男にフンッと背をｌけ、そのままスタスタと歩み去っていく。",
     ""),
     # On the other hand, the perpetrator's chairman thrusts back at the man who is in pain, then stumbles and leaves.
 
-    ("おいおい、彼＃氏なんじ痰ゃねーの？†",
+    ("おいおい、彼＃氏なんじ痰ゃねーの？",
     ""),
-    # Hey, do you have any phlegms for him?†
+    # Hey, do you have any phlegms for him?
 
     ("男はいまだ地面にうずくまっていた。",
     ""),
@@ -302,9 +302,9 @@ text_array = [
     ""),
     # I took tissue out of my pocket and stuffed it into my nose.
 
-    ("うっ、みじめだ。†",
+    ("うっ、みじめだ。",
     ""),
-    # Ugh, it's miserable.†
+    # Ugh, it's miserable.
 
     ("それにしても、なんなんだ、いったい？",
     ""),

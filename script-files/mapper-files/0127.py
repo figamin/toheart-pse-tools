@@ -2,9 +2,9 @@
 # Source file: 0127.txt
 
 text_array = [
-    ("（あかり	ＶＳイベント	葵）閨（４月２３冾日以降）閨（あかり好感度２５		葵好感度８以繹上）閨（１桙時間目の休み桙時間）閨（廊下１	あかり	笑顔）†",
+    ("（あかり	ＶＳイベント	葵）閨（４月２３冾日以降）閨（あかり好感度２５		葵好感度８以繹上）閨（１桙時間目の休み桙時間）閨（廊下１	あかり	笑顔）",
     ""),
-    # (Akari Event Aoi) (Akari's favourability 25, Akari's favourability 8 or higher) (Akari's favourability 15) (Akari's favourability 8 or higher) (Akari's favourability 1 hour) (Akari's favourability 1 face)†
+    # (Akari Event Aoi) (Akari's favourability 25, Akari's favourability 8 or higher) (Akari's favourability 15) (Akari's favourability 8 or higher) (Akari's favourability 1 hour) (Akari's favourability 1 face)
 
     ("１桙時間目の休み桙時間。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # My geisha and Akari were in the hallway, and they were blooming in the story of the dramatic TV drama I saw last day.
 
-    ("すると…。†",
+    ("すると…。",
     ""),
-    # And then...†
+    # And then...
 
     ("「",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Hello"
 
-    ("葵ち痰ゃんは頭を下げてこたえた。†",
+    ("葵ち痰ゃんは頭を下げてこたえた。",
     ""),
-    # Aoi Chisho-yan bowed his head and answered.†
+    # Aoi Chisho-yan bowed his head and answered.
 
     ("「こんにちは、葵ち痰ゃん」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "Ah, hello, "Um, Kamigishi Senpai."
 
-    ("へえ、朝ちょこっとっただけなのに、葵ち痰ゃん、あかりの名前を覚えてたのか。†",
+    ("へえ、朝ちょこっとっただけなのに、葵ち痰ゃん、あかりの名前を覚えてたのか。",
     ""),
-    # Wow, I only remembered the names of Aoi Chisho-chan and Akari even though they only had a morning peek.†
+    # Wow, I only remembered the names of Aoi Chisho-chan and Akari even though they only had a morning peek.
 
     ("「どうしたんだ？	こんなとこに」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "Ou"
 
-    ("教室へ戻っていくあかりを、葵ち痰ゃんは目で追いかけた。†",
+    ("教室へ戻っていくあかりを、葵ち痰ゃんは目で追いかけた。",
     ""),
-    # Aoi Chisho-yan followed Akari back to the classroom with her eyes.†
+    # Aoi Chisho-yan followed Akari back to the classroom with her eyes.
 
     ("「諱先輩…」",
     ""),
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "teeth?"
 
-    ("「あっ、いえっ、すみません。あんまり№仲がいいもので、そうかなあと思って…」†",
+    ("「あっ、いえっ、すみません。あんまり№仲がいいもので、そうかなあと思って…」",
     ""),
     # "Ah, no, sorry. We're so close friends, so I thought maybe..."
 

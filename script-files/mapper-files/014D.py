@@ -2,9 +2,9 @@
 # Source file: 014D.txt
 
 text_array = [
-    ("（あかり	好感度イベント	５．１）閨（選択綜Ｂ	あとはふたりにまかせよう）†",
+    ("（あかり	好感度イベント	５．１）閨（選択綜Ｂ	あとはふたりにまかせよう）",
     ""),
-    # (Akari Likeability Event 5.1) (Choice B Leave the rest to the two of you)†
+    # (Akari Likeability Event 5.1) (Choice B Leave the rest to the two of you)
 
     ("やっぱり、ここはオレの出髀る幕じ痰ゃないな。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Leave the rest to the two of you.
 
-    ("オレは観念し、﨟矢⊥島を紹譓介することにした。†",
+    ("オレは観念し、﨟矢⊥島を紹譓介することにした。",
     ""),
-    # I thought of it and decided to introduce Ya-no-Island.†
+    # I thought of it and decided to introduce Ya-no-Island.
 
     ("「…あかり」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # I said with a distracted advice from the scrutiny.
 
-    ("「…え？」†",
+    ("「…え？」",
     ""),
-    # "…picture?"†
+    # "…picture?"
 
     ("「ほら、うちのクラスに薰矢⊥島っているだ？	バスケ買部の…」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Yeah. That island, I love you, I love you."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「お前ってさ、ほら、いまんトコつき№合ってるрヤツもいねーし、まあ、﨟矢⊥島なら…いいрヤツだ？	だから…」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Ahhh sputum..."
 
-    ("あかりはすごく寂しそうな顔をした。†",
+    ("あかりはすごく寂しそうな顔をした。",
     ""),
-    # Akari looked very lonely.†
+    # Akari looked very lonely.
 
     ("「ま、まあ、諱取りあえず話だけ聞いてみて、それでどうするかは自分でｌめてくれ。じ痰ゃ、﨟矢⊥島のрヤツを呼んでくるから｢｢」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # Without giving him a gap to interject, I lioned away from the scene and passed the baton to Seongya Island, which was hidden in the corridor.◯
 
-    ("﨟矢⊥島の熱心な垂告注白シーンなんか見骭る気にもなれず、オレは一足鞫先に教室へと戻った。†",
+    ("﨟矢⊥島の熱心な垂告注白シーンなんか見骭る気にもなれず、オレは一足鞫先に教室へと戻った。",
     ""),
-    # 﨟Ya⊥I couldn't help but watch the enthusiastic revelation scene on the island, so I returned to the classroom with a pair of shoes.†
+    # 﨟Ya⊥I couldn't help but watch the enthusiastic revelation scene on the island, so I returned to the classroom with a pair of shoes.
 
     ("はあ〜…。",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # Is this okay? b?
 
-    ("まあ、あかりが誰とつき№合おうと、オレにはそれを阻む権圏はない。†",
+    ("まあ、あかりが誰とつき№合おうと、オレにはそれを阻む権圏はない。",
     ""),
-    # Well, no matter who Akari goes with, I have no realm to stop him.†
+    # Well, no matter who Akari goes with, I have no realm to stop him.
 
     ("けど。",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # It's like a light-hearted person...
 
-    ("あかりは、ホントは、オレのことが…。†",
+    ("あかりは、ホントは、オレのことが…。",
     ""),
-    # Akari is really about me...†
+    # Akari is really about me...
 
     ("｢｢そのとき、",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "Akari..."
 
-    ("なにも言えず、言葉に詰まっていると、諱先にあかりが口を開いた。†",
+    ("なにも言えず、言葉に詰まっていると、諱先にあかりが口を開いた。",
     ""),
-    # As he couldn't say anything, he was at a loss for words, Akari opened his mouth to the head of his name.†
+    # As he couldn't say anything, he was at a loss for words, Akari opened his mouth to the head of his name.
 
     ("「ことわってきたよ」",
     ""),
@@ -142,7 +142,7 @@ text_array = [
     ""),
     # So I understand everything.
 
-    ("「п私、好きな人がいますからって、はっきりとことわったよ」†",
+    ("「п私、好きな人がいますからって、はっきりとことわったよ」",
     ""),
     # "I've clearly heard something because there's someone I like."
 
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # "I thought you were aware of it."
 
-    ("「あかり…」†",
+    ("「あかり…」",
     ""),
-    # "Akari..." †
+    # "Akari..." 
 
     ("ほんの数秒の重齒苦しい沈黙。",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # Keen corn khan corn.
 
-    ("始業のチャャイムが鳴った。†",
+    ("始業のチャャイムが鳴った。",
     ""),
-    # The opening cyaim sounded.†
+    # The opening cyaim sounded.
 
     ("チャャイムが鳴り終尞わると同椏時に、あかりはゴシゴシと目燒もとをこすった。",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # "Oh, no, the lesson is about to begin. Just phlegm, see phlegm, phlegm."
 
-    ("そう言って、自分の席に戻っていった。†",
+    ("そう言って、自分の席に戻っていった。",
     ""),
-    # He said that and went back to his seat.†
+    # He said that and went back to his seat.
 
     ("「…あかり」",
     ""),
@@ -206,8 +206,8 @@ text_array = [
     ""),
     # = Akari's smiling face pretending to be her usual self.
 
-    ("なんだか妙に切ない気分になった。†",
+    ("なんだか妙に切ない気分になった。",
     ""),
-    # It somehow made me feel strangely sad.†
+    # It somehow made me feel strangely sad.
 
 ]

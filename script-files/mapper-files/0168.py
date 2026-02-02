@@ -2,9 +2,9 @@
 # Source file: 0168.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	差し替え）閨（５月２冾日	１Ｆ）閨（下駄箱）閨（無音）閨（ＰＣＭ	ざわめき）†",
+    ("（あかり	回秤数イベント	差し替え）閨（５月２冾日	１Ｆ）閨（下駄箱）閨（無音）閨（ＰＣＭ	ざわめき）",
     ""),
-    # (Akari Scales Event Replacement) (5th Lion Month 2nd Day 1F) (Shoe cabinet) (silent) (PCM Zazuwameki) †
+    # (Akari Scales Event Replacement) (5th Lion Month 2nd Day 1F) (Shoe cabinet) (silent) (PCM Zazuwameki) 
 
     ("「ち痰ゃん」",
     ""),
@@ -42,25 +42,25 @@ text_array = [
     ""),
     # Sigh...
 
-    ("オレはあかりに背をｌけ、歩き出した。†",
+    ("オレはあかりに背をｌけ、歩き出した。",
     ""),
-    # I turned my back against Akari and started walking.†
+    # I turned my back against Akari and started walking.
 
     ("「ち痰ゃん、待ってよー」",
     ""),
     # "Ahhh, wait."
 
-    ("°け寄ったあかりが、ギャッとオレの右濶手をつかんだ。†",
+    ("°け寄ったあかりが、ギャッとオレの右濶手をつかんだ。",
     ""),
-    # Akari came close to me, and grabbed my intense right hand.†
+    # Akari came close to me, and grabbed my intense right hand.
 
     ("「…つっ！」",
     ""),
     # "...Ts!"
 
-    ("その途端、ズキッと痛みが魔走闡り、オレは慌てて手を引いた。†",
+    ("その途端、ズキッと痛みが魔走闡り、オレは慌てて手を引いた。",
     ""),
-    # At the same time, pain started to spurt, and I hurriedly pulled my hand.†
+    # At the same time, pain started to spurt, and I hurriedly pulled my hand.
 
     ("「…えっ？",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「艨ゆ、艨ゆうべは、そんなケガなんて｢｢」†",
+    ("「艨ゆ、艨ゆうべは、そんなケガなんて｢｢」",
     ""),
-    # "And so, I wonder if such an injury is """†
+    # "And so, I wonder if such an injury is """
 
     ("「あかり」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "...Can you not talk to me for a while?"
 
-    ("「…ち痰ゃん」†",
+    ("「…ち痰ゃん」",
     ""),
-    # "...Choosh" †
+    # "...Choosh" 
 
     ("オレはあかりに背をｌけ、再び歩き出した。",
     ""),
@@ -102,8 +102,8 @@ text_array = [
     ""),
     # "Ahhh sputum!"
 
-    ("オレは無許視した。†",
+    ("オレは無許視した。",
     ""),
-    # I saw it unauthorized.†
+    # I saw it unauthorized.
 
 ]

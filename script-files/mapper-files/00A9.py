@@ -2,9 +2,9 @@
 # Source file: 00A9.txt
 
 text_array = [
-    ("（３月１５冾日	朝）閨（玄関）†",
+    ("（３月１５冾日	朝）閨（玄関）",
     ""),
-    # (Morning of the 15th day of the 3rd month) (Entrance)†
+    # (Morning of the 15th day of the 3rd month) (Entrance)
 
     ("３月１５冾日、土曜坥日。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's the second day of the final exams in the grade.
 
-    ("ま、氏落譌第しない程度にはがんばう。†",
+    ("ま、氏落譌第しない程度にはがんばう。",
     ""),
-    # Well, I'll do my best to not let the people go wrong.†
+    # Well, I'll do my best to not let the people go wrong.
 
     ("「人間の集薯力って、どんな人でもだいたい３０分ほどしか持続しないんだって。だから勉強も３０分ずつ休憩をとるほうが効率いいらしいよ」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "law"
 
-    ("「｢｢って、艨ゆうべ奄ラジオで言ってた」†",
+    ("「｢｢って、艨ゆうべ奄ラジオで言ってた」",
     ""),
     # ""I said, "That's what I said on Yube Amana Radio"
 

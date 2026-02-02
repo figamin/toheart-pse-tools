@@ -2,9 +2,9 @@
 # Source file: 0163.txt
 
 text_array = [
-    ("（あかり好感度イベント１２）閨（Ａ	あかりにいたい）のつづき（夕陽）†",
+    ("（あかり好感度イベント１２）閨（Ａ	あかりにいたい）のつづき（夕陽）",
     ""),
-    # (Akari Likeability Event 12) Continued (Sunset)†
+    # (Akari Likeability Event 12) Continued (Sunset)
 
     ("いいな場鰹所を捜しまわってるうちに、陽は沈み、夕髣暮れになった。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Memories of a distant young day.
 
-    ("オレは、記憶に浮かぶあの場鰹所を捜した。†",
+    ("オレは、記憶に浮かぶあの場鰹所を捜した。",
     ""),
-    # I searched for that bonito spot that was in my memory.†
+    # I searched for that bonito spot that was in my memory.
 
     ("「はあっ、はあっ、はあっ…」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # The park of Twilight Lee Time.
 
-    ("遊んでいる子沁供たちも、もういない。†",
+    ("遊んでいる子沁供たちも、もういない。",
     ""),
-    # The children who were playing are no longer there.†
+    # The children who were playing are no longer there.
 
     ("「はあ、はあ、はあ…」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # And then.
 
-    ("目の前にあるベンチに、ポツンと座骰る人影があった。†",
+    ("目の前にあるベンチに、ポツンと座骰る人影があった。",
     ""),
-    # On the bench in front of me, there was a faint shadow of a person.†
+    # On the bench in front of me, there was a faint shadow of a person.
 
     ("あれは。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # It must be awkward.
 
-    ("あの人影は｢｢。†",
+    ("あの人影は｢｢。",
     ""),
-    # That person is ".†
+    # That person is ".
 
     ("「あかり…」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # Akari said as he stood up from the bench.
 
-    ("「はァ、はァ…。あ、あかり、オレ…」†",
+    ("「はァ、はァ…。あ、あかり、オレ…」",
     ""),
-    # "Haa, haa... Ah, Akari, I'm super excited..."†
+    # "Haa, haa... Ah, Akari, I'm super excited..."
 
     ("「ち痰ゃん、みーつけた」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # I felt like he would come.So I've been waiting so long..."
 
-    ("「あかり…」†",
+    ("「あかり…」",
     ""),
-    # "Akari..." †
+    # "Akari..." 
 
     ("「п私ね、さっきからここで、ずっと考えてた」",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # "Yes... пI wonder how long have I started to like Sphinja so much? I've been thinking about it for a long time."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「…いま考えるとね、п私、小さいこは、ち痰ゃんのこと、怖かったの」",
     ""),
@@ -134,15 +134,15 @@ text_array = [
     ""),
     # "Oh, maybe that was..."
 
-    ("オレはとぼけた振關りをした。†",
+    ("オレはとぼけた振關りをした。",
     ""),
-    # My heart cried out in a weird way.†
+    # My heart cried out in a weird way.
 
     ("「だけど、ある冾日を境に、п私、ち痰ゃんのことが突然怖くなくなったの。ち痰ゃんの優しいとこを見ち痰ゃったから」",
     ""),
     # "But one day, I suddenly stopped being scared of Chishonan. I saw the kind part of Chishonan B and shonan."
 
-    ("「優しいとこ…？」†",
+    ("「優しいとこ…？」",
     ""),
     # "A gentle place...?"
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "Do you remember? When I was little, we all played hide and seek here..."
 
-    ("「お前を置いてきぼりにした…ってか？」†",
+    ("「お前を置いてきぼりにした…ってか？」",
     ""),
     # "I left you behind...?"
 
@@ -166,15 +166,15 @@ text_array = [
     ""),
     # "I thought so. I thought so b."
 
-    ("あかりはにっこり笑って言った。†",
+    ("あかりはにっこり笑って言った。",
     ""),
-    # Akari said with a smile.†
+    # Akari said with a smile.
 
     ("「…みんな帰っち痰ゃったけど、その後、ち痰ゃんだけ、п私のことを心配して、見にｗてくれたよね？」",
     ""),
     # "...Everyone got phlegm back, but after that, they were so worried about me that they looked at me lol?"
 
-    ("「…首謀者だったからな。ちっとは…悪いと思ったんだよ。…子沁供心に」†",
+    ("「…首謀者だったからな。ちっとは…悪いと思ったんだよ。…子沁供心に」",
     ""),
     # "...I was the mastermind. At first I thought it was bad.... I hope you will give me your support."
 
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # I was happy that he came, but I was able to see the kindness of Chishonan, who I had always been scared of."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「その冾日から、п私、ち痰ゃんのこと、もう前みたいに怖くなくなったの。",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # He was so blunt and unfair, but despite that he was actually kind, he was really kind and I knew it was a bit phlegm."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「それから、それまで以繹上にいっしょにいるようになった。…п私が自転車に乗齒れるようになったのも、逆繼上がり出女磯翌鱶､になったのも、泳げるようになったのも、みんな、ち痰ゃんに教えてもらったからだよね」",
     ""),
@@ -214,17 +214,17 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("あかりは笑顔でうなずいた。†",
+    ("あかりは笑顔でうなずいた。",
     ""),
-    # Akari nodded with a laughing face.†
+    # Akari nodded with a laughing face.
 
     ("「…いつもいっしょにいるうちに、どんどんいんなことが見えてきて、そしてどんどん好きになって｢｢」",
     ""),
     # "...As I was there, I started to see things that were so big, and then I started to like them more and more, ""
 
-    ("「あかり…」†",
+    ("「あかり…」",
     ""),
-    # "Akari..." †
+    # "Akari..." 
 
     ("そのとき、",
     ""),
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # "...!"
 
-    ("あかりのあたたかな唇が、やさしく、でもはっきりと、オレの唇に触齔れた。†",
+    ("あかりのあたたかな唇が、やさしく、でもはっきりと、オレの唇に触齔れた。",
     ""),
-    # Akari's warm lips were gentle and the hottest and the hottest lips were clearly touching my intense lips.†
+    # Akari's warm lips were gentle and the hottest and the hottest lips were clearly touching my intense lips.
 
     ("甘いキス。",
     ""),
@@ -254,25 +254,25 @@ text_array = [
     ""),
     # Akari's gentle feelings come through her tampering and soft lips.
 
-    ("オレはあかりの背白に手を回した。†",
+    ("オレはあかりの背白に手を回した。",
     ""),
-    # I put my hands around Akari's back.†
+    # I put my hands around Akari's back.
 
     ("夕髣暮れの公園。",
     ""),
     # A park at sunset.
 
-    ("唇と唇、閨手と手をつないだふたりの影が、遠くｌこうのほうまで伸びていた。†",
+    ("唇と唇、閨手と手をつないだふたりの影が、遠くｌこうのほうまで伸びていた。",
     ""),
-    # The shadows of the two holding hands with lips and lips were stretching out in the distance to the side.†
+    # The shadows of the two holding hands with lips and lips were stretching out in the distance to the side.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("「あかり…」†",
+    ("「あかり…」",
     ""),
-    # "Akari..." †
+    # "Akari..." 
 
     ("「ち痰ゃん、おとつい、言ったよね？」",
     ""),
@@ -286,49 +286,49 @@ text_array = [
     ""),
     # "You're so silly, you're too passive."
 
-    ("「あ、ああ…」†",
+    ("「あ、ああ…」",
     ""),
-    # "Ah, ah..."†
+    # "Ah, ah..."
 
     ("「だから今厓日は、п私のほうから積極的に翌迫ってみたの」",
     ""),
     # "That's why I actively approached the next day on this day."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「そうだよね。…いつもち痰ゃんに責任を押しつけてばかりじ痰ゃずるいよね」",
     ""),
     # "That's right...When will you just keep pushing responsibility on the hot sphincter, phincter is so unfair."
 
-    ("「あかり…」†",
+    ("「あかり…」",
     ""),
-    # "Akari..." †
+    # "Akari..." 
 
     ("「これからはр私の気搴持ち、もう少しはっきり言うことにする。してほしいこと、はっきりと言葉にして言うよ」",
     ""),
     # "From now on, I'll be a little more open and say something a little more clearly. I'll put into words what I want you to do."
 
-    ("あかりはそう言うと、にっこりと微笑み、†",
+    ("あかりはそう言うと、にっこりと微笑み、",
     ""),
-    # Akari said that and smiled and †
+    # Akari said that and smiled and 
 
     ("「п私はち痰ゃんが好き。それにち痰ゃんのことを好きな自分熾も好き。こんなふたりが大好き！」",
     ""),
     # "пI like Chisho-chan. I also like Teru, who likes Chisho-chan. I love the two of them!
 
-    ("はっきりした口調でそう言った。†",
+    ("はっきりした口調でそう言った。",
     ""),
-    # He said this in a clear tone of luck.†
+    # He said this in a clear tone of luck.
 
     ("「好きっていう気搴持ちはひとつじ痰ゃないよ。そのときそのときいっぱいあって、その全泊部を桙満たしてほしい。だから、ずっと同じ関係のままじ痰ゃ凾嫌なの」",
     ""),
     # "There's no way you can have a single phlegm to love. I want you to have a lot of them at the time, and all of the night clubs will be filled with foxes. That's why I'm always in the same relationship and don't want to let the phlegm go."
 
-    ("「あかり…」†",
+    ("「あかり…」",
     ""),
-    # "Akari..." †
+    # "Akari..." 
 
     ("「ちょっと欲張闥りすぎると思うけど、それがр私の希望だよ」",
     ""),
@@ -338,9 +338,9 @@ text_array = [
     ""),
     # "Akari"
 
-    ("オレはあかりを抱き締めた。†",
+    ("オレはあかりを抱き締めた。",
     ""),
-    # I hugged Akari.†
+    # I hugged Akari.
 
     ("「、ち痰ゃん？」",
     ""),
@@ -366,9 +366,9 @@ text_array = [
     ""),
     # "It was bad until last day..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「お前の言葉ではっきりわかったぜ。オレ、やっぱり、お前が好きだ」",
     ""),
@@ -382,9 +382,9 @@ text_array = [
     ""),
     # Akari quickly lifted her face and looked at my face with her big eyes.
 
-    ("オレは少し照齒れて、目をそらす。†",
+    ("オレは少し照齒れて、目をそらす。",
     ""),
-    # My heart lit up a little and looked away.†
+    # My heart lit up a little and looked away.
 
     ("「堰初めて…だよな。はっきり口にしてこんなこと言ったのは」",
     ""),
@@ -398,15 +398,15 @@ text_array = [
     ""),
     # A spurt of strength was lifted into Akari's hands, clutching my fierce shaat.
 
-    ("その手に手を重ね、真っ直ぐあかりを見た。†",
+    ("その手に手を重ね、真っ直ぐあかりを見た。",
     ""),
-    # He tied his hands up and looked straight at Akari.†
+    # He tied his hands up and looked straight at Akari.
 
     ("「ホントはいつ言ってもよかったんだ、このセリフ。…なのに、ずっと待たせちまって、ゴ＜メンな」",
     ""),
     # "When did you really say that, this Segata riff be fine. But, I'm so sorry to keep you waiting."
 
-    ("「…うっ、ううっ、ち痰ゃん。…、ち痰ゃあんっ」†",
+    ("「…うっ、ううっ、ち痰ゃん。…、ち痰ゃあんっ」",
     ""),
     # "...Uh, uh, uh, uh, uh, uh..., uhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
@@ -414,9 +414,9 @@ text_array = [
     ""),
     # Akari hugged me hard and hard.
 
-    ("オレもｕみ桙込むように、そんなあかりの肩を抱き返す。†",
+    ("オレもｕみ桙込むように、そんなあかりの肩を抱き返す。",
     ""),
-    # I hugged Akari's shoulders back, as if to sniff it.†
+    # I hugged Akari's shoulders back, as if to sniff it.
 
     ("「お前の欲張闥り、できるだけオレがかなえてやるよ。…だから、その、お前熨も、いままで通闥り、オレのわがままにつき№合ってくれよ」",
     ""),
@@ -430,9 +430,9 @@ text_array = [
     ""),
     # Akari tears up.
 
-    ("その髪は、ふわりとしたいい匂いがした。†",
+    ("その髪は、ふわりとしたいい匂いがした。",
     ""),
-    # Her hair smelled nice and slurping.†
+    # Her hair smelled nice and slurping.
 
     ("幼なじみで、＊のように思っていて、オレのことなんでもわかっていて…。",
     ""),

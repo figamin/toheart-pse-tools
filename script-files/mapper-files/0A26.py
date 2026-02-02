@@ -2,9 +2,9 @@
 # Source file: 0A26.txt
 
 text_array = [
-    ("（Ｃ	ギ鴻ロチン痛かった？）†",
+    ("（Ｃ	ギ鴻ロチン痛かった？）",
     ""),
-    # (C: Did Gihorotin hurt?)†
+    # (C: Did Gihorotin hurt?)
 
     ("「ギ鴻ロチン、痛かった？」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "If it's a tampering, Anto-Pure Wannett, I thought I'd end up with Giho Rochin. If that were the case in my previous life, I'd like to hear my thoughts."
 
-    ("「ごめん、記憶まではないから…」†",
+    ("「ごめん、記憶まではないから…」",
     ""),
     # "Sorry, I don't remember..."
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "You can cut your head off quickly b? Is there still a sense of consciousness at the moment you come across it?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「すぐ意識はなくなるだうけどさ、ほんの少しくらいは大苟丈夫じ痰ゃないかな。だったら、離齬れた自分の胴体とか見えるのかな？」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Of course, those tampering people aren't alive."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("はっ、しまった。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # What's the rise of Giho Lotin? I'm super excited.
 
-    ("掾理女緒ち痰ゃんはその、首を切逅られたマリー・アント純ワネットだっつってんのに。†",
+    ("掾理女緒ち痰ゃんはその、首を切逅られたマリー・アント純ワネットだっつってんのに。",
     ""),
-    # The woman who was called the head of Marie Anto, who was cut off by the head.†
+    # The woman who was called the head of Marie Anto, who was cut off by the head.
 
     ("「わ、わりぃ、オレ、デリカシーなかった？」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # Erime Ochisou-chan laughed lightly.
 
-    ("だけど、なんか気まずい雰囲気になっちまった。†",
+    ("だけど、なんか気まずい雰囲気になっちまった。",
     ""),
-    # But it turned out to be awkward.†
+    # But it turned out to be awkward.
 
     ("「それじ痰ゃр私、もう行くね」",
     ""),
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "I see. I see. I'll have some phlegm, come on again."
 
-    ("「うん。それじ痰ゃあね」†",
+    ("「うん。それじ痰ゃあね」",
     ""),
     # "Yes. That's a phlegm."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # I'm starting to move out to the rain.
 
-    ("その途端、†",
+    ("その途端、",
     ""),
     # At the moment,
 
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # The sound of a sudden rake echoing.
 
-    ("オレはびっくりした。†",
+    ("オレはびっくりした。",
     ""),
-    # I was surprised.†
+    # I was surprised.
 
     ("見骭ると、自動車は飛び出した理女緒ち痰ゃんの体スレスレで停まっていた。",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "Yeah…"
 
-    ("不幸…ねえ…。†",
+    ("不幸…ねえ…。",
     ""),
-    # Unhappy...hey...†
+    # Unhappy...hey...
 
     ("アント純ワネットかはともかく、不幸なのはたしかだな。",
     ""),

@@ -2,17 +2,17 @@
 # Source file: 0748.txt
 
 text_array = [
-    ("（琴音	好感度イベント１）閨（回秤数イベントを見た次の冾日の休み桙時間）†",
+    ("（琴音	好感度イベント１）閨（回秤数イベントを見た次の冾日の休み桙時間）",
     ""),
-    # (Kotone's Likeability Event 1) (The time off the next day after seeing the balance event)†
+    # (Kotone's Likeability Event 1) (The time off the next day after seeing the balance event)
 
     ("オレは琴音ち痰ゃんの教室を探していた。",
     ""),
     # I was looking for a Kotone Chisho-yaan classroom.
 
-    ("もう一度だけ謝っておこうと思ったからだ。†",
+    ("もう一度だけ謝っておこうと思ったからだ。",
     ""),
-    # Because I wanted to apologize once more.†
+    # Because I wanted to apologize once more.
 
     ("一年の教室をそれとなく覗いて歩く。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # B-Candy Lace..., board.
 
-    ("琴音ち痰ゃんは自分の席（たぶん）に座って本を読んでいる。†",
+    ("琴音ち痰ゃんは自分の席（たぶん）に座って本を読んでいる。",
     ""),
-    # Kotone Chishoyan is sitting in his seat (probably) reading a book.†
+    # Kotone Chishoyan is sitting in his seat (probably) reading a book.
 
     ("しかし、呼び出そうにも彼女の席は怩奥の方で、蛛大きな声を出さないといけない。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # While wondering what to do with the hot springs, another child came out of the class of Chibiyodo.
 
-    ("諱よし、あの子に呼んできてもらおう。†",
+    ("諱よし、あの子に呼んできてもらおう。",
     ""),
-    # Okay, let's call that girl and have her come along.†
+    # Okay, let's call that girl and have her come along.
 
     ("「ちょっといいかな」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "yes?"
 
-    ("女の子は『なんで上縁級生が？』って顔で、オレを見上げる。†",
+    ("女の子は『なんで上縁級生が？』って顔で、オレを見上げる。",
     ""),
-    # The bathing girl said, "Why is there a senior classmate?"I looked up at my intense ecstasy with a look on my face.†
+    # The bathing girl said, "Why is there a senior classmate?"I looked up at my intense ecstasy with a look on my face.
 
     ("「…姫武さんに用があんだけど、呼んできてくれないかな？」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # After saying that, the bathing girl hurriedly held down Fukuguchi.
 
-    ("つい、うっかり口にしたって感じだ。†",
+    ("つい、うっかり口にしたって感じだ。",
     ""),
-    # It felt like he accidentally turned into a lucky mouth.†
+    # It felt like he accidentally turned into a lucky mouth.
 
     ("「ひ、姫武さんですね」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # And so, is Kao also a nickname called "@Mediterranean"?
 
-    ("なんだよ、そり痰ゃ。†",
+    ("なんだよ、そり痰ゃ。",
     ""),
-    # What is it, sputum?†
+    # What is it, sputum?
 
     ("「今、姫武さんのことｗ媒女って言った？	それってみんなが言ってることなのか？」",
     ""),
@@ -110,17 +110,17 @@ text_array = [
     ""),
     # It's a response that's hard to get into, but everyone is saying it.
 
-    ("そうなると、掾理由が気になってくる。†",
+    ("そうなると、掾理由が気になってくる。",
     ""),
-    # When that happens, I start to wonder why.†
+    # When that happens, I start to wonder why.
 
     ("「それって、ウ純ワサの超能力と関係がある話なのか？	オレ、彼女のこと良く知迺らなくってさ」",
     ""),
     # "Is that something related to Ujn Wasa's supernatural powers? I'm really dying to know about her boyfriend and women."
 
-    ("「でも…」†",
+    ("「でも…」",
     ""),
-    # "And the hot spring..." †
+    # "And the hot spring..." 
 
     ("「ウ純ワサのこと、知ってるんだ？	教えてくれないか」",
     ""),
@@ -142,13 +142,13 @@ text_array = [
     ""),
     # That means it teaches me.
 
-    ("「いいぜ。その代岺わり詳しく教えてくれ」†",
+    ("「いいぜ。その代岺わり詳しく教えてくれ」",
     ""),
     # "That's fine. Please tell me more about that story."
 
-    ("場鰹所を変えて翌女の子から話を聞き、オレは琴音ち痰ゃんに関してかなりの薰情報を得體ることができた。†",
+    ("場鰹所を変えて翌女の子から話を聞き、オレは琴音ち痰ゃんに関してかなりの薰情報を得體ることができた。",
     ""),
-    # I changed the bonito spot and listened to the story from the girl the following day, and I was able to get a lot of information about Kotone Chisho-chan.†
+    # I changed the bonito spot and listened to the story from the girl the following day, and I was able to get a lot of information about Kotone Chisho-chan.
 
     ("蛛大まかに言うと、",
     ""),
@@ -162,13 +162,13 @@ text_array = [
     ""),
     # Believe it or not, the supernatural powers of her overflowing women are quite famous among first-year students.
 
-    ("の、二つ。†",
+    ("の、二つ。",
     ""),
-    # Two.†
+    # Two.
 
-    ("突然、蛍光伯灯笂や窓ガラスがр割れたりして、琴音ち痰ゃんがｌまってみんなに謝り出すのがいつものパターン辜らしい。†",
+    ("突然、蛍光伯灯笂や窓ガラスがр割れたりして、琴音ち痰ゃんがｌまってみんなに謝り出すのがいつものパターン辜らしい。",
     ""),
-    # It seems that when suddenly, the fluorescence basin and the banquet of the banquet suddenly crack, Kotone Chisho-chan and start to apologize to everyone.†
+    # It seems that when suddenly, the fluorescence basin and the banquet of the banquet suddenly crack, Kotone Chisho-chan and start to apologize to everyone.
 
     ("はじめのうちは琴音ち痰ゃんのいたずらじ痰ゃないかと先生たちも調べてみたが、怪しいものは見つからなかった。",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # You'll need a certain amount of gimmick to play the fluorescence and gabanquet without touching it.
 
-    ("それなのに何煢も見つからない以繹上、諱先生熕も首をひねるしかない。†",
+    ("それなのに何煢も見つからない以繹上、諱先生熕も首をひねるしかない。",
     ""),
-    # However, since there are no more discoveries, Sensei Kei has no choice but to twist his head.†
+    # However, since there are no more discoveries, Sensei Kei has no choice but to twist his head.
 
     ("かといって、琴音ち痰ゃんの言う超能力を信じるはずもなかった。",
     ""),
@@ -190,17 +190,17 @@ text_array = [
     ""),
     # What is it that Kotone Chisho-yan herself says that her psychic powers cannot be free.
 
-    ("見せと言甯われて見せられない超能力なんて、信じられるわけがない。†",
+    ("見せと言甯われて見せられない超能力なんて、信じられるわけがない。",
     ""),
-    # There's no way you can believe that you have a psychic power that you can't show when you say "b" or "show me."†
+    # There's no way you can believe that you have a psychic power that you can't show when you say "b" or "show me."
 
     ("結局、古くなっていたからр割れてしまったんだと結論付けてしまったらしい。",
     ""),
     # In the end, he concluded that it had broken because it was old.
 
-    ("じ痰ゃあ自分のせいだと言い張髓る琴音ち痰ゃんはどうなるのか。†",
+    ("じ痰ゃあ自分のせいだと言い張髓る琴音ち痰ゃんはどうなるのか。",
     ""),
-    # What will happen to Kotone Chisho-chan, who insists that it's her fault?†
+    # What will happen to Kotone Chisho-chan, who insists that it's her fault?
 
     ("諱先生たちは心の病気だとｌめ付けた。",
     ""),
@@ -222,9 +222,9 @@ text_array = [
     ""),
     # After a while, the woman returned, but the phenomenon of Kaji Ai Henzaki (mainly the Fluorescent Hakutoko and the Kumumagata Banquet) was not stopped.
 
-    ("さすがに先生たちも不思議がる。†",
+    ("さすがに先生たちも不思議がる。",
     ""),
-    # The teachers and the other teachers are also strange.†
+    # The teachers and the other teachers are also strange.
 
     ("しかし、だからといって琴音ち痰ゃんを責めることもできなかったのか、諱先生たちはいつの間にか何煢も言甯わなくなってしまった。",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # However, the students were incompatible.
 
-    ("ガラスをр割っているのは彼女に取り憑いた悪霊のせいだと誰かが言い出した。†",
+    ("ガラスをр割っているのは彼女に取り憑いた悪霊のせいだと誰かが言い出した。",
     ""),
-    # Someone said that it was the evil spirit that possessed the woman who was hanging out the banquet.†
+    # Someone said that it was the evil spirit that possessed the woman who was hanging out the banquet.
 
     ("それで、ついたあだ名が『＠媒女』とか、『悪霊覧女』。",
     ""),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # Kotone Chisho-yan himself realizes this and keeps the next distance from him...
 
-    ("学を卒業する頃には、完全に孤立した存在になっていたそうだ。†",
+    ("学を卒業する頃には、完全に孤立した存在になっていたそうだ。",
     ""),
-    # By the time he graduated from Study, he was apparently in a completely isolated presence.†
+    # By the time he graduated from Study, he was apparently in a completely isolated presence.
 
     ("それでも、この学校に入ってからウ純ワサを聞いて興味本意で近づいてくる生徒燗もいた。",
     ""),
@@ -270,13 +270,13 @@ text_array = [
     ""),
     # It didn't take much time for Kotone Chisho-chan to become lonely like before.
 
-    ("｢｢というのが、話の内容だ。†",
+    ("｢｢というのが、話の内容だ。",
     ""),
-    # "That's the story.†
+    # "That's the story.
 
-    ("そんな過脂去があるとも知迺らずに、あのとき琴音ち痰ゃんに無神経なことを言ってしまったよな…。†",
+    ("そんな過脂去があるとも知迺らずに、あのとき琴音ち痰ゃんに無神経なことを言ってしまったよな…。",
     ""),
-    # When he was overly fattened, he didn't even know about it, and at that time he said something insensitive to Kotone Chishonan...†
+    # When he was overly fattened, he didn't even know about it, and at that time he said something insensitive to Kotone Chishonan...
 
     ("女の子との話が長引いてしまい、結局琴音ち痰ゃんとは話せずじまいだった。",
     ""),

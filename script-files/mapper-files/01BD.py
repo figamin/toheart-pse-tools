@@ -2,9 +2,9 @@
 # Source file: 01BD.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ｃ	今晩…）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ｃ	今晩…）",
     ""),
-    # (Akari Scales Event 1F) (C Tonight...)†
+    # (Akari Scales Event 1F) (C Tonight...)
 
     ("「今晩…」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "No, there's no tampering, why is there no hot water? I can't just say it."
 
-    ("「ええっ；」†",
+    ("「ええっ；」",
     ""),
-    # "Yeah;" †
+    # "Yeah;" 
 
     ("「だが、これを最纃後まで聞いてしまったからには、氈次はお前の番だからな」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Haha, it's phlegm."
 
-    ("オレはいきなり魔走闡り出した。†",
+    ("オレはいきなり魔走闡り出した。",
     ""),
-    # My fierce suddenly started to run wild.†
+    # My fierce suddenly started to run wild.
 
     ("「ああっ！？	まっ、待って、待ってよー！",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # A little phlegm!”
 
-    ("あかりが必死になって追いかけてきた。†",
+    ("あかりが必死になって追いかけてきた。",
     ""),
-    # Akari went after her desperately.†
+    # Akari went after her desperately.
 
     ("走ったおかげで、いつもより≠早く家にｒくことができた。◯",
     ""),

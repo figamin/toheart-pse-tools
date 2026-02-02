@@ -2,25 +2,25 @@
 # Source file: 0500.txt
 
 text_array = [
-    ("（葵との出初い	イント鴻ロ）閨（４月１０冾日（＄）の昼休み）閨（渡闢り廊下）†",
+    ("（葵との出初い	イント鴻ロ）閨（４月１０冾日（＄）の昼休み）閨（渡闢り廊下）",
     ""),
-    # (First time with Aoi Intokoro) (Lunch break for the 10th day of April ($)) (Covering corridor) †
+    # (First time with Aoi Intokoro) (Lunch break for the 10th day of April ($)) (Covering corridor) 
 
     ("午前葬の授業が終尞わって昼休み。",
     ""),
     # After the morning funeral classes have ended, we have lunch break.
 
-    ("昼食のパンをモ買いに、雅史といっしょに食堂にある購ロ買粕部へとｌかっていたときのことだ。†",
+    ("昼食のパンをモ買いに、雅史といっしょに食堂にある購ロ買粕部へとｌかっていたときのことだ。",
     ""),
-    # This was when Masochi was taking to the Shoro Buying Kasube in the cafeteria to buy some bread for lunch.†
+    # This was when Masochi was taking to the Shoro Buying Kasube in the cafeteria to buy some bread for lunch.
 
     ("「えっと、ですからこれは、たんなる格闘技ファンのための同好拷ではなく、ええっと、みんなで、ともに新しい格闘技を研結、開発しながら学んでいこうという、そういう目的の同好拷で｢｢」",
     ""),
     # "Um, so this is not just a friendly torture for martial arts fans, but a friendly torture with the goal of ''to develop and develop new martial arts'', with the aim of ``''
 
-    ("′こうの廊下のあたりから、そんな声が聞こえてきた。†",
+    ("′こうの廊下のあたりから、そんな声が聞こえてきた。",
     ""),
-    # 'I heard this voice coming from around Koko's corridor.†
+    # 'I heard this voice coming from around Koko's corridor.
 
     ("立ち止まって声の方を見てみると、何人かの翌女生徒が輪になって集まっている。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # What are you doing tampering with?
 
-    ("クラブの勧誘かなんかか？†",
+    ("クラブの勧誘かなんかか？",
     ""),
-    # Is it a solicitation for Kuban Love?†
+    # Is it a solicitation for Kuban Love?
 
     ("「どうしたの、？」",
     ""),
@@ -66,17 +66,17 @@ text_array = [
     ""),
     # In the meantime, the most powerful j-sama means that you can feel that you will become stronger on the day of your day.
 
-    ("毎坙日厳しい訓綷練を重ねることで、肉体的にも、精神的にも、それまでの自分の限界を超えて強くなっていくのが実感できるんです！」†",
+    ("毎坙日厳しい訓綷練を重ねることで、肉体的にも、精神的にも、それまでの自分の限界を超えて強くなっていくのが実感できるんです！」",
     ""),
-    # By practicing hard lessons every day, you can feel that both physically and mentally becoming stronger beyond your limits!”†
+    # By practicing hard lessons every day, you can feel that both physically and mentally becoming stronger beyond your limits!”
 
     ("女の子は、ひたむきさがにじみ出髀るほどの熱っぽさで、格闘技についてを力燉説していた。",
     ""),
     # The bathing girl was so passionate that she was captivated by her dedicated work, and she was passionate about martial arts.
 
-    ("だが、それを聞いてるまわりの翌女性徒たちは、どっちかといえば、ただ面猪白がっているだけといった様子だ。†",
+    ("だが、それを聞いてるまわりの翌女性徒たちは、どっちかといえば、ただ面猪白がっているだけといった様子だ。",
     ""),
-    # However, as they heard this, the women who had just come to the ground seemed to be just wearing a boar.†
+    # However, as they heard this, the women who had just come to the ground seemed to be just wearing a boar.
 
     ("クスクス笑いに混じって、ときおり、",
     ""),
@@ -90,11 +90,11 @@ text_array = [
     ""),
     # I also hear voices that seemed to be making fun of me.
 
-    ("それでもショートカットのコは、一生恊懸命話を続けてる。†",
+    ("それでもショートカットのコは、一生恊懸命話を続けてる。",
     ""),
-    # So, the girl who cuts the ball has been working hard for the rest of her life.†
+    # So, the girl who cuts the ball has been working hard for the rest of her life.
 
-    ("「せっかくの同好拷なんですから、′俾結ｵい礼儀牛法笆や精神論は抜きにして、のびのびとやっていきたいと思っています。まずは実際に体を動かし、格闘技の怩奥の深さ、面猪白さを十分に理解していただこうと思っています。精神的なことは、強くなる一環として後々に学ぶべきことだと思いますから」†",
+    ("「せっかくの同好拷なんですから、′俾結ｵい礼儀牛法笆や精神論は抜きにして、のびのびとやっていきたいと思っています。まずは実際に体を動かし、格闘技の怩奥の深さ、面猪白さを十分に理解していただこうと思っています。精神的なことは、強くなる一環として後々に学ぶべきことだと思いますから」",
     ""),
     # "Since this is a torture that is all about torture, I would like to tamper with ease, without the 'justice and mentality of 'justice'. First, I would like to actually move my body and fully understand the depth and vibe of martial arts. I think mentality is something that we should learn later as part of becoming stronger."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "Yeah, well, it's martial arts..."
 
-    ("「やだぁ、それってｊないじ痰ゃん」†",
+    ("「やだぁ、それってｊないじ痰ゃん」",
     ""),
     # "I don't want that, that's a sputum."
 
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Can you use Shaya Junwa after it's over?"
 
-    ("「あっ、えっとですね、いまのとこ、まだ部室はなくて…」†",
+    ("「あっ、えっとですね、いまのとこ、まだ部室はなくて…」",
     ""),
     # "Ah, uh, there's no club room yet, at the moment b..."
 
@@ -166,25 +166,25 @@ text_array = [
     ""),
     # The bathing girl is a bit of a machine gun-like quality, and she gets a bit silly and gets carried away.
 
-    ("ちょっと気の毒だ。†",
+    ("ちょっと気の毒だ。",
     ""),
-    # I feel sorry for the supper.†
+    # I feel sorry for the supper.
 
     ("「…なんつーか、クラブ勧誘燉もたけなわって感じだなー」",
     ""),
     # "...It feels like the banquet love recruitment is also a big hit."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("この間のクラブ紹譓介のオリエンテーション以降、休み桙時間になると、こうやっていんなクラブの連中が、各滑所でこぞって新人勧誘の奄演煢説を行うようになった。",
     ""),
     # After the other day, when the time for the holiday was in the banquet love story, the people who were in the banquet love, began to lay down the theory that they were recruiting newcomers at each point.
 
-    ("蛛大きいクラブは派阡手に、小さな同好拷はそれに奄負けじとアイデアを凝迢らし、新人確保に精を出している。†",
+    ("蛛大きいクラブは派阡手に、小さな同好拷はそれに奄負けじとアイデアを凝迢らし、新人確保に精を出している。",
     ""),
-    # The big banquet love is the one who takes the sect, and the small torture of the same person is not to be given up on, and he is working hard to secure new employees.†
+    # The big banquet love is the one who takes the sect, and the small torture of the same person is not to be given up on, and he is working hard to secure new employees.
 
     ("「とこで、格闘技って聞こえたけど、空闍手とか柔道の勧誘かな？」",
     ""),
@@ -194,7 +194,7 @@ text_array = [
     ""),
     # "... They say tampering and torture like that, so it's probably a different martial art. But I've heard of Kao, and it seems like he's actually a guy who actually tampers with it."
 
-    ("「そういえば、って格闘技、好きなんだよね？」†",
+    ("「そういえば、って格闘技、好きなんだよね？」",
     ""),
     # "By the way, you like martial arts, right?"
 
@@ -206,7 +206,7 @@ text_array = [
     ""),
     # When I heard, Masochihahahahahahahahahahahahaha, his face was squealing over me.
 
-    ("「だってｒ学生の頃、諱よく僕にプ鴻ロレスの技とかを仕掛けてきたじ痰ゃない」†",
+    ("「だってｒ学生の頃、諱よく僕にプ鴻ロレスの技とかを仕掛けてきたじ痰ゃない」",
     ""),
     # "Because when I was a student, I often used my signature technique to make me feel bad and replies."
 
@@ -218,9 +218,9 @@ text_array = [
     ""),
     # I began to say it, and I kept on Fukuguchi.
 
-    ("その後には『お前をいじめてただけ』と続くはずだった。†",
+    ("その後には『お前をいじめてただけ』と続くはずだった。",
     ""),
-    # After that, it was supposed to continue saying, "I was just bullying you."†
+    # After that, it was supposed to continue saying, "I was just bullying you."
 
     ("「け、けどよ、あのショートカットの子」",
     ""),
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "Yeah. Minor torture is the number of members that can be used to match the budget. Every member is desperate."
 
-    ("「それにしても、みんな真面目に聞いてないみたいだな、なんかかわいそうだな」†",
+    ("「それにしても、みんな真面目に聞いてないみたいだな、なんかかわいそうだな」",
     ""),
     # "And it seems like everyone is not listening seriously, it looks like he's a bit sad."
 
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # "More than that, if you don't hurry, you'll end up getting slurping!"
 
-    ("あっ、そういや、いまはパンをモ買いに行く途湯だっけか。†",
+    ("あっ、そういや、いまはパンをモ買いに行く途湯だっけか。",
     ""),
-    # Oh, that's what I mean, is it the day I go to buy some bread now?†
+    # Oh, that's what I mean, is it the day I go to buy some bread now?
 
     ("購ロ買粕部における昼間のパンヱ奪峵戦は、実にモしい戦いだ。",
     ""),
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # If you want to get some delicious bread, you can't get it unless you pour it on a chaime dash.
 
-    ("しまった、こり痰ゃ大きなタイム鴻ロスだ。†",
+    ("しまった、こり痰ゃ大きなタイム鴻ロスだ。",
     ""),
-    # Damn it, it's a big time loss.†
+    # Damn it, it's a big time loss.
 
     ("「＝早くいこう」",
     ""),

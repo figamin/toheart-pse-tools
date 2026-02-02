@@ -2,7 +2,7 @@
 # Source file: 0344.txt
 
 text_array = [
-    ("（智子	好感度イベント１回目）閨（選択綜Ｄ	やっぱり根性出して、自分でやる。†",
+    ("（智子	好感度イベント１回目）閨（選択綜Ｄ	やっぱり根性出して、自分でやる。",
     ""),
     # (Tomoko, the first time in favorability event) (Selecting Sou D) After all, I'll show my nerves and tamper with it myself.
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # After all, I have to put my energy into this kind of thing and tamper with it myself.
 
-    ("ただ嘯答えを写したってなんの意味燒もない。†",
+    ("ただ嘯答えを写したってなんの意味燒もない。",
     ""),
-    # However, copying the answer is not meaningful.†
+    # However, copying the answer is not meaningful.
 
     ("学生梵時緕代の苦労はモ買ってでもし。",
     ""),
@@ -30,13 +30,13 @@ text_array = [
     ""),
     # I think that the pain is a salmon of leek, a salmon that is a source of salmon that has not yet been poured out.
 
-    ("諱よーし、ばりばり行くぜ〜っ！†",
+    ("諱よーし、ばりばり行くぜ〜っ！",
     ""),
-    # Okay, let's go all out!†
+    # Okay, let's go all out!
 
-    ("…安闊定註倹ｌに接し、ｌ上にない安闊定を…。†",
+    ("…安闊定註倹ｌに接し、ｌ上にない安闊定を…。",
     ""),
-    # ...I will treat you with the thrift and be careful not to be a member of the thrift and be a member of the thrift and not a member of the thrift...†
+    # ...I will treat you with the thrift and be careful not to be a member of the thrift and be a member of the thrift and not a member of the thrift...
 
     ("しかし、意気梛込みだけで解けるほど甘くはなかった。",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # However, after all, he couldn't get a name for himself, so he was crying out of his level of tears.
 
-    ("多分、いや間違いなく、噤答えはボ鴻ロボ鴻ロだ。†",
+    ("多分、いや間違いなく、噤答えはボ鴻ロボ鴻ロだ。",
     ""),
-    # It's probably not that he's tampered with it, and the answer is Bokoro Roboro.†
+    # It's probably not that he's tampered with it, and the answer is Bokoro Roboro.
 
     ("ん？",
     ""),
@@ -70,8 +70,8 @@ text_array = [
     ""),
     # I saw my hard work and took a break after the end of it, and smiled and tampered.
 
-    ("気搴持ちわりぃな。†",
+    ("気搴持ちわりぃな。",
     ""),
-    # It's good to have fun.†
+    # It's good to have fun.
 
 ]

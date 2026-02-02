@@ -2,17 +2,17 @@
 # Source file: 046F.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	ポルチェ）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	ポルチェ）",
     ""),
-    # (Shiho Scales Event PS) (Selection So Pokryu Ruche)†
+    # (Shiho Scales Event PS) (Selection So Pokryu Ruche)
 
     ("「ポルチェ、か？」",
     ""),
     # "Porcelain, is it?"
 
-    ("「え？	ポルチェ？	カッコいいけど、ＲＲだしぃ」†",
+    ("「え？	ポルチェ？	カッコいいけど、ＲＲだしぃ」",
     ""),
-    # "Huh? Sneaking Luce? He's cool, but he's RR" †
+    # "Huh? Sneaking Luce? He's cool, but he's RR" 
 
     ("「なんだよ、その、ＲＲって」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # A shorthand for rear engine Kaji Riad Banquet Live."
 
-    ("「知髓るかそんなもん。オレはマニアじ痰ゃねえ」†",
+    ("「知髓るかそんなもん。オレはマニアじ痰ゃねえ」",
     ""),
     # "I wonder if that's the kind of hot thing. I'm a fan of you, so I have no phlegm."
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Ahhhh... I'm a man."
 
-    ("「悪かったな」†",
+    ("「悪かったな」",
     ""),
-    # "That was bad" †
+    # "That was bad" 
 
     ("「…なんなら教えよっか？	ＲＲの秘密を」",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # Just as I thought he would be hearing "poo" something, he was told something meaningful and I was a little interested in it.
 
-    ("「…ポルチェに秘密があんのか？」†",
+    ("「…ポルチェに秘密があんのか？」",
     ""),
     # "...Is there a secret to Porcelain?"
 
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # "That's the 'butt' name."
 
-    ("「なぬ？	ケツ？	誰の？」†",
+    ("「なぬ？	ケツ？	誰の？」",
     ""),
-    # "What? Butt? Who's?" †
+    # "What? Butt? Who's?" 
 
     ("「アホ、ポルチェのよ」",
     ""),
     # "Idiot, it's a cry for you."
 
-    ("「ポルチェのケツって、縺後撃のことだ」†",
+    ("「ポルチェのケツって、縺後撃のことだ」",
     ""),
     # "Pokryu Rutche's ass is a hit after the twitch b"
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "You're shaking my ass? You're trying to cheat on me?"
 
-    ("いい加減なことを≠吹き桙込んで、あとで笑いものにするのは志保の得意技だ。†",
+    ("いい加減なことを≠吹き桙込んで、あとで笑いものにするのは志保の得意技だ。",
     ""),
-    # Shiho's specialty is to do things casually and then make them laugh later.†
+    # Shiho's specialty is to do things casually and then make them laugh later.
 
     ("すると『瘁違うわよ』と手のひらを横につきだして、",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Is that okay? When I step on the accessory cry on the curve, Kaji Riataire said, ""
 
-    ("と、ケツの重いポルチェがカーブでいかに不安闊定かをみっちりと聞かされた。†",
+    ("と、ケツの重いポルチェがカーブでいかに不安闊定かをみっちりと聞かされた。",
     ""),
-    # He was thoroughly informed of how uneasy Luche, who had a heavy ass, was on the curve.†
+    # He was thoroughly informed of how uneasy Luche, who had a heavy ass, was on the curve.
 
     ("「…あのな、それは秘密でもなんでもねえよ。ポルチェの№欠点だ」",
     ""),
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Is it better now? What are you doing to hide the old days?"
 
-    ("「それもそうね…」†",
+    ("「それもそうね…」",
     ""),
     # "That's the case with Hot..."
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "...I understand, I understand. I understand that you love cars. Please tamper with the fake stories elsewhere."
 
-    ("オレは志保に背をｌけた。†",
+    ("オレは志保に背をｌけた。",
     ""),
-    # I turned my back against Shiho.†
+    # I turned my back against Shiho.
 
     ("「あ〜ん、最纃後まで聞いてよ〜〜〜っ」◯",
     ""),

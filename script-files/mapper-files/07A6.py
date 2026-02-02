@@ -2,9 +2,9 @@
 # Source file: 07A6.txt
 
 text_array = [
-    ("（琴音	回秤数イベントＰＳ）閨（選択綜	声をかける）†",
+    ("（琴音	回秤数イベントＰＳ）閨（選択綜	声をかける）",
     ""),
-    # (Kotone's Scale Event PS) (Chounen Soko)†
+    # (Kotone's Scale Event PS) (Chounen Soko)
 
     ("「いようっ、琴音ち痰ゃん」",
     ""),
@@ -18,15 +18,15 @@ text_array = [
     ""),
     # "...Ah, sir."
 
-    ("ちょっと驚いた顔の琴音ち痰ゃん。†",
+    ("ちょっと驚いた顔の琴音ち痰ゃん。",
     ""),
-    # Kotone's face was surprised.†
+    # Kotone's face was surprised.
 
     ("「なに見てんだ？」",
     ""),
     # "What are you looking at?"
 
-    ("「あ、はい。招待状…なんですけど…」†",
+    ("「あ、はい。招待状…なんですけど…」",
     ""),
     # "Ah, yes. It's an invitation... but..."
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # When I looked around, it says "Kagata Listin Wrathlete Art Exhibition".
 
-    ("…駅ビルでやってるんだな。†",
+    ("…駅ビルでやってるんだな。",
     ""),
-    # ...I guess they're tampering with Station Biryu.†
+    # ...I guess they're tampering with Station Biryu.
 
     ("印刷された絵を見骭ると、イルカ窿やクジラが青竦やら№紫の海を泳いでる。",
     ""),
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # ...Good name.
 
-    ("「もしかして琴音ち痰ゃん、誰かと行くのか？」†",
+    ("「もしかして琴音ち痰ゃん、誰かと行くのか？」",
     ""),
     # "Maybe Kotone Chisho-yan, are you going with someone?"
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # When Kotone Chisho-chan asked, trying to say something, he immediately leaned down his eyes.
 
-    ("「それを考えてたんだな？」†",
+    ("「それを考えてたんだな？」",
     ""),
     # "You were thinking about that?"
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "I don't care about the art...I don't really understand the art, but there are some hot things that are transmitted to me."
 
-    ("「あ、はい。ありがとうございます」†",
+    ("「あ、はい。ありがとうございます」",
     ""),
-    # "Ah, yes. Thank you" †
+    # "Ah, yes. Thank you" 
 
     ("さっそくオレたちは駅ビルまでやってきた。",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # The 雅The 7th floor was on the 雅間.
 
-    ("オレたちはビルのｒへと入闢り、エレベータに乗った。†",
+    ("オレたちはビルのｒへと入闢り、エレベータに乗った。",
     ""),
-    # We entered the r of Bryan and took the ejaculation lift.†
+    # We entered the r of Bryan and took the ejaculation lift.
 
     ("ウイーーーーーーン。",
     ""),
@@ -138,13 +138,13 @@ text_array = [
     ""),
     # "What, what?! Is it a power outage?"
 
-    ("オレは思寬わず声を上げる。†",
+    ("オレは思寬わず声を上げる。",
     ""),
-    # I didn't think about it and let out a cry of voice.†
+    # I didn't think about it and let out a cry of voice.
 
-    ("エレベータに乗闖り桙込んで７階にｌかう途湯、電箔灯が消えて、オレたちふたりを乗せたままエレベータが止まってしまった。†",
+    ("エレベータに乗闖り桙込んで７階にｌかう途湯、電箔灯が消えて、オレたちふたりを乗せたままエレベータが止まってしまった。",
     ""),
-    # I got on the Erotic Lift and got into the 7th floor, and the electric foil light went off, and the erotic Lift stopped with the two of us on board.†
+    # I got on the Erotic Lift and got into the 7th floor, and the electric foil light went off, and the erotic Lift stopped with the two of us on board.
 
     ("「琴音ち痰ゃん、蛛大苟丈夫か？」",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # "Yes, yes. I'm fine..."
 
-    ("当然だが、琴音ち痰ゃんは無末事だ。†",
+    ("当然だが、琴音ち痰ゃんは無末事だ。",
     ""),
-    # Of course, Kotone Chisho-chan is a waste.†
+    # Of course, Kotone Chisho-chan is a waste.
 
     ("しかし、なんつービルだ。",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # ...No way.
 
-    ("動き出すまでなにか話すか…。†",
+    ("動き出すまでなにか話すか…。",
     ""),
-    # I'll say something until I start moving...†
+    # I'll say something until I start moving...
 
     ("「まるで映謇画だよな。琴音ち痰ゃん、このまま閉じ桙込められたらどうする？」",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # I asked him in a joking manner.
 
-    ("「困闕ります…」†",
+    ("「困闕ります…」",
     ""),
-    # "I'm having trouble..." †
+    # "I'm having trouble..." 
 
     ("「はははっ、困骰るよなぁ。",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # I wonder if he will escape from Tenrei after all?”
 
-    ("と琴音ち痰ゃんに振ってみた。†",
+    ("と琴音ち痰ゃんに振ってみた。",
     ""),
-    # I shook Kotone's smash.†
+    # I shook Kotone's smash.
 
     ("「…潤ワイсヤーを…昇髀るんですよね」",
     ""),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # Kotone Chisho-chan awkwardly rides on my super-sexy Ziku.
 
-    ("当たり前のことだけど、梶相闡手が鰍相闡手だけに嬉しくなる。†",
+    ("当たり前のことだけど、梶相闡手が鰍相闡手だけに嬉しくなる。",
     ""),
-    # It's obvious that polishing is a given, but I'm happy because Kaji-san's hand is a kaji-san's hand.†
+    # It's obvious that polishing is a given, but I'm happy because Kaji-san's hand is a kaji-san's hand.
 
     ("「そうそう！	昇ってる最穀にエレベータが動き出したりして、またまたピンチになるんだよな」",
     ""),
@@ -226,17 +226,17 @@ text_array = [
     ""),
     # "That's what He's doing, and he's surviving with all his might."
 
-    ("ちなみにこの映謇画の場㍼合、オレが主人公で、琴音ち痰ゃんがヒ鴻ロイン、だ。†",
+    ("ちなみにこの映謇画の場㍼合、オレが主人公で、琴音ち痰ゃんがヒ鴻ロイン、だ。",
     ""),
-    # Incidentally, the scene in this Eiji painting is me, and the protagonist is Kotone Chisho-chan is the heroine.†
+    # Incidentally, the scene in this Eiji painting is me, and the protagonist is Kotone Chisho-chan is the heroine.
 
     ("「ヒ鴻ロイン、なんですか…」",
     ""),
     # "Hiro Roine, what is it?"
 
-    ("不思議そうに琴音ち痰ゃんがつぶやいたとき、エレベータの電箔灯がともった。†",
+    ("不思議そうに琴音ち痰ゃんがつぶやいたとき、エレベータの電箔灯がともった。",
     ""),
-    # As Kotone Chisho-chan muttered strangely, the electric foil light from the intense lift flew in.†
+    # As Kotone Chisho-chan muttered strangely, the electric foil light from the intense lift flew in.
 
     ("「おっ、ついた」",
     ""),
@@ -250,17 +250,17 @@ text_array = [
     ""),
     # Just as Kotone Chisho-yan said, the lights returned and the hot water didn't move.
 
-    ("こり痰ゃあ、本格的に閉じ桙込められたな。†",
+    ("こり痰ゃあ、本格的に閉じ桙込められたな。",
     ""),
-    # It's hard to be honest, it's been completely closed and covered in fragrant things.†
+    # It's hard to be honest, it's been completely closed and covered in fragrant things.
 
     ("「ったく、しょーがねえビルだな。言甯わねえと動かないのかよ…」",
     ""),
     # "At that's the point, you're crying. You can't move if you don't say anything..."
 
-    ("オレは『氈押し続けると外矧部と連腰絡が取齊れます』ボタンを押した。†",
+    ("オレは『氈押し続けると外矧部と連腰絡が取齊れます』ボタンを押した。",
     ""),
-    # I pressed the button "If you keep pushing and holding the arm, you will be able to connect with the outer cap."†
+    # I pressed the button "If you keep pushing and holding the arm, you will be able to connect with the outer cap."
 
     ("・",
     ""),
@@ -274,9 +274,9 @@ text_array = [
     ""),
     # ・
 
-    ("なにも起きない。†",
+    ("なにも起きない。",
     ""),
-    # Nothing happens.†
+    # Nothing happens.
 
     ("「お〜い、閉じ桙込められてるんだぞぉ。誰か出盾",
     ""),
@@ -302,9 +302,9 @@ text_array = [
     ""),
     # Is there a phlegm to keep in mind when it's time?
 
-    ("これが火哩事竡や地震のときだったらいったいどーすんだよ。†",
+    ("これが火哩事竡や地震のときだったらいったいどーすんだよ。",
     ""),
-    # What if this were a fire or an earthquake?†
+    # What if this were a fire or an earthquake?
 
     ("「…席を外してるんでしょうか…？」",
     ""),
@@ -322,9 +322,9 @@ text_array = [
     ""),
     # "Maybe it's broken or something."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ドアでも叩いてみるか。外の誰かが気づくかもしれないし」",
     ""),
@@ -346,9 +346,9 @@ text_array = [
     ""),
     # Do your best!
 
-    ("…閨手が痛い。†",
+    ("…閨手が痛い。",
     ""),
-    # ...My hand hurts.†
+    # ...My hand hurts.
 
     ("「どうかな？	これで聞こえてれば、普助けも≠早くｗてくれると思うけど…」",
     ""),
@@ -362,9 +362,9 @@ text_array = [
     ""),
     # It's pointless if it's a passing bath on the floor.
 
-    ("くそ…、ケータイかピッチでもあれば、外に連腰絡が取齊れるのにな。†",
+    ("くそ…、ケータイかピッチでもあれば、外に連腰絡が取齊れるのにな。",
     ""),
-    # Damn it... if you have a hot spring on your mobile phone or pitch, you can get a connection between the hips outside.†
+    # Damn it... if you have a hot spring on your mobile phone or pitch, you can get a connection between the hips outside.
 
     ("しかし、掾持ってないものはしょうがない。",
     ""),
@@ -374,9 +374,9 @@ text_array = [
     ""),
     # I gave up quickly.
 
-    ("こういうときは落ちついて待とう。†",
+    ("こういうときは落ちついて待とう。",
     ""),
-    # At times like this, let's calm down and wait.†
+    # At times like this, let's calm down and wait.
 
     ("「し痰ゃーねえ、とりあえず待とうか」",
     ""),
@@ -386,9 +386,9 @@ text_array = [
     ""),
     # "yes"
 
-    ("琴音ち痰ゃんがうなずき、オレたちはしばらく待ってみることにした。†",
+    ("琴音ち痰ゃんがうなずき、オレたちはしばらく待ってみることにした。",
     ""),
-    # Kotone Chisho-chan nodded, and we decided to wait a while.†
+    # Kotone Chisho-chan nodded, and we decided to wait a while.
 
     ("「せっかく絵を見にｗたのに、ついてねえな」",
     ""),
@@ -410,15 +410,15 @@ text_array = [
     ""),
     # "Maybe it's because you're crying?"
 
-    ("雑庶誌とか広錐告で見たことあるけど、たしかｖ鰯哩Cルカの絵だった気がする。†",
+    ("雑庶誌とか広錐告で見たことあるけど、たしかｖ鰯哩Cルカの絵だった気がする。",
     ""),
-    # I've seen it in miscellaneous magazines and other wide-ranging magazines, but I think it was a picture of Luka Voice.†
+    # I've seen it in miscellaneous magazines and other wide-ranging magazines, but I think it was a picture of Luka Voice.
 
     ("「えっと、はじめは色使いがきれいだなって思ったんですけど、イルカ黹専蜷門だって知ってからもっと好きになりました」",
     ""),
     # "Um, at first I thought the colors were beautiful, but after I found out I was crying, I started to like you even more."
 
-    ("「やっぱりな。じ痰ゃ奄ラッセルも琴音ち痰ゃんと同じイルカ好きなんだな」†",
+    ("「やっぱりな。じ痰ゃ奄ラッセルも琴音ち痰ゃんと同じイルカ好きなんだな」",
     ""),
     # "I guess so. I love Amane Lasse's crying, just like Kotone-chi Sphin-chan."
 
@@ -442,15 +442,15 @@ text_array = [
     ""),
     # "Ikkyuu-Ruka's intelligence is just like a psychic power."
 
-    ("「イルカって、イルカだ？	どう考えたら人間謚より頭がいいんだ？」†",
+    ("「イルカって、イルカだ？	どう考えたら人間謚より頭がいいんだ？」",
     ""),
-    # "Is it like crying Luka crying Luka crying Luka b? How do you think of it as smarter than human beings?"†
+    # "Is it like crying Luka crying Luka crying Luka b? How do you think of it as smarter than human beings?"
 
     ("「イルカは地昼で一番ｔ高剄等な動物で、文明を持たずに、精神だけを進化させた動物なんだそうです」",
     ""),
     # "The Ikki Luka is the most popular animal in the afternoon, and is apparently an animal that evolves only the spirit without having civilization."
 
-    ("「は？	どういう意味だ？」†",
+    ("「は？	どういう意味だ？」",
     ""),
     # "Huh? What does it mean?"
 
@@ -462,15 +462,15 @@ text_array = [
     ""),
     # ...Is Amazure-sama crying like a guy who's annoying?
 
-    ("でも、それとイルカの頭の良さと関係あるのか？†",
+    ("でも、それとイルカの頭の良さと関係あるのか？",
     ""),
-    # So does Hou have something to do with Iryuka's intelligence?†
+    # So does Hou have something to do with Iryuka's intelligence?
 
     ("「たしかに人間は、ほとんどがр私似落欲のために動いてますけど、家族のきずなとか、損得じ痰ゃр割闃り切齔れない部分熾もあると思うんです」",
     ""),
     # "It's true that most humans are driven by their desires, like me, but I think there are also some parts that are hard to overcome, such as family bonds and profits and losses."
 
-    ("「オレもそう思うな」†",
+    ("「オレもそう思うな」",
     ""),
     # "I think so too, I'm a savage guy."
 
@@ -486,7 +486,7 @@ text_array = [
     ""),
     # "Amolasse Kyuru believes that Iryuka is in a place where he has long surpassed the idea of ​​the level of cries, such as for himself or for others, good or evil."
 
-    ("「諱よくわかんねえな」†",
+    ("「諱よくわかんねえな」",
     ""),
     # "I don't really know what you're saying"
 
@@ -498,9 +498,9 @@ text_array = [
     ""),
     # Is that so?
 
-    ("親切とかは地昼と関係ないと思うけど。†",
+    ("親切とかは地昼と関係ないと思うけど。",
     ""),
-    # I don't think kindness has anything to do with the daytime.†
+    # I don't think kindness has anything to do with the daytime.
 
     ("「人間は自分で善悪をｌめて、その薰基準に撃酔いしれてるだけなんだそうです」",
     ""),
@@ -510,9 +510,9 @@ text_array = [
     ""),
     # "Well, I say it's kind to the daytime, but I sometimes cut down on the trees."
 
-    ("そういう部分じ痰ゃ人間って勝闖手だな。†",
+    ("そういう部分じ痰ゃ人間って勝闖手だな。",
     ""),
-    # People are the ones who are so powerful when they say such parts.†
+    # People are the ones who are so powerful when they say such parts.
 
     ("「堰ラッセルさんは、それが人間の撃レベルだって言うんです」",
     ""),
@@ -526,7 +526,7 @@ text_array = [
     ""),
     # "They say that they are crying out when they abandoned an interpretation that is right for them."
 
-    ("「じ痰ゃ、他人崇心ってことか？」†",
+    ("「じ痰ゃ、他人崇心ってことか？」",
     ""),
     # "Doesn't it mean that you're admiring others?"
 
@@ -542,7 +542,7 @@ text_array = [
     ""),
     # "I agree"
 
-    ("「堰ラッセルって、なんか変なрヤツだな」†",
+    ("「堰ラッセルって、なんか変なрヤツだな」",
     ""),
     # "The weir latch on is a strange guy."
 
@@ -554,7 +554,7 @@ text_array = [
     ""),
     # "Well, that's right..."
 
-    ("「芸術家って≠普通とは痰違う人が多いじ痰ゃないですか」†",
+    ("「芸術家って≠普通とは痰違う人が多いじ痰ゃないですか」",
     ""),
     # "Artists are often different from normal, so don't they have phlegm?"
 
@@ -562,7 +562,7 @@ text_array = [
     ""),
     # "Yeah...If you look at it, there are a lot of weird geniuses and artists."
 
-    ("「多いですよね」†",
+    ("「多いですよね」",
     ""),
     # "There are a lot, isn't it?"
 
@@ -602,9 +602,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("はじめのうちは雑談で桙時間をつぶしていたが、いつまでも続くもんじ痰ゃない。",
     ""),
@@ -614,17 +614,17 @@ text_array = [
     ""),
     # Before we knew it, we were sitting silently and leaning in.
 
-    ("スカートを気にしていた琴音ち痰ゃんも、さすがに疲齡れたのかｍ會高ｺ奄している。†",
+    ("スカートを気にしていた琴音ち痰ゃんも、さすがに疲齡れたのかｍ會高ｺ奄している。",
     ""),
-    # Kotone Chisho-chan, who was worried about her skirt, is probably exhausted, and is in high spirits.†
+    # Kotone Chisho-chan, who was worried about her skirt, is probably exhausted, and is in high spirits.
 
     ("もうあれから何梔時間たったんだうか…？",
     ""),
     # How many hours has it been since then b...?
 
-    ("オレは腕椈時計を覗きこんだ。†",
+    ("オレは腕椈時計を覗きこんだ。",
     ""),
-    # I peered at the arm stool clock.†
+    # I peered at the arm stool clock.
 
     ("「｢｢げっ、もう８桙時を過ぎてるじ痰ゃねーか」",
     ""),
@@ -634,9 +634,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("琴音ち痰ゃんは驚いた顔でこっちを見た。†",
+    ("琴音ち痰ゃんは驚いた顔でこっちを見た。",
     ""),
-    # Kotone Chisho-yan looked at me with a surprised look on his face.†
+    # Kotone Chisho-yan looked at me with a surprised look on his face.
 
     ("「精算とか終尞わったら、誰熬もいなくなるぞ」",
     ""),
@@ -646,7 +646,7 @@ text_array = [
     ""),
     # Once that happens, the electric hang will go out and it's pitch black.
 
-    ("「あの…、エレベータも見回濶りにｗ磯翌鴦ｶ痰ゃないですか…？」†",
+    ("「あの…、エレベータも見回濶りにｗ磯翌鴦ｶ痰ゃないですか…？」",
     ""),
     # "Um... I'm also looking around at the extremely high-speed elevator lol. Is there any phlegm to the next day?..."
 
@@ -674,7 +674,7 @@ text_array = [
     ""),
     # The situation gradually became dangerous and dangerous.
 
-    ("「蛛大苟丈夫だって」†",
+    ("「蛛大苟丈夫だって」",
     ""),
     # "They're tough"
 
@@ -686,9 +686,9 @@ text_array = [
     ""),
     # "Damn it! Even the dripping slut lol. Is there no phlegm?"
 
-    ("半分笊やけくそで、ガンガンと扉を蹴った。†",
+    ("半分笊やけくそで、ガンガンと扉を蹴った。",
     ""),
-    # He kicked the door with a slut half-skinned look.†
+    # He kicked the door with a slut half-skinned look.
 
     ("「…あの、さん」",
     ""),
@@ -714,9 +714,9 @@ text_array = [
     ""),
     # "That's how I feel."
 
-    ("心なしか、轣顔色の悪い琴音ち痰ゃん。†",
+    ("心なしか、轣顔色の悪い琴音ち痰ゃん。",
     ""),
-    # I can't help but feel uneasy, Kotone's face is a bit pale.†
+    # I can't help but feel uneasy, Kotone's face is a bit pale.
 
     ("「風邪で気分が悪いとか、そういうんじ痰ゃなくて？」",
     ""),
@@ -734,9 +734,9 @@ text_array = [
     ""),
     # My geira looked over the n circle.
 
-    ("…だが、見た感じ、空気が通髓るためのр隙間迥らしきものは無い。†",
+    ("…だが、見た感じ、空気が通髓るためのр隙間迥らしきものは無い。",
     ""),
-    # ...But, from the perspective of it, there is no hot water that looks like a gap between the air that allows the air to flow through.†
+    # ...But, from the perspective of it, there is no hot water that looks like a gap between the air that allows the air to flow through.
 
     ("扉だって、けっこうぴったり閉じてる。",
     ""),
@@ -750,9 +750,9 @@ text_array = [
     ""),
     # bad.
 
-    ("蛛大ピンチかも…。†",
+    ("蛛大ピンチかも…。",
     ""),
-    # I'm in a big crisis or a hot spring...†
+    # I'm in a big crisis or a hot spring...
 
     ("「こり痰ゃ、一処刻熏も≠早く手を打たねえと」",
     ""),
@@ -766,9 +766,9 @@ text_array = [
     ""),
     # "If this happens, I'll escape!"
 
-    ("オレはｌ心した。†",
+    ("オレはｌ心した。",
     ""),
-    # I was so excited.†
+    # I was so excited.
 
     ("脱出といえば、天井からだ。",
     ""),
@@ -794,9 +794,9 @@ text_array = [
     ""),
     # There are several boards with lattice-filled plates and electric foil lamps with clearances, and the number of boards.
 
-    ("まずはこいつを高剥がさないと。†",
+    ("まずはこいつを高剥がさないと。",
     ""),
-    # First of all, I need to peel this one off very well.†
+    # First of all, I need to peel this one off very well.
 
     ("板を外して電搭を交換したりできるはずだ。",
     ""),
@@ -806,37 +806,37 @@ text_array = [
     ""),
     # I'll try pressing it.
 
-    ("ミシッ！†",
+    ("ミシッ！",
     ""),
-    # Miss!†
+    # Miss!
 
-    ("たわんだだけで動かない。†",
+    ("たわんだだけで動かない。",
     ""),
-    # It just doesn't move.†
-
-    ("もう一回！",
-    ""),
-    # One more time!
-
-    ("ミシッ！†",
-    ""),
-    # Miss!†
+    # It just doesn't move.
 
     ("もう一回！",
     ""),
     # One more time!
 
-    ("＝メキッ！†",
+    ("ミシッ！",
     ""),
-    # =Pretty!†
+    # Miss!
+
+    ("もう一回！",
+    ""),
+    # One more time!
+
+    ("＝メキッ！",
+    ""),
+    # =Pretty!
 
     ("とどめだっ！",
     ""),
     # It's a final step!
 
-    ("バキッ！†",
+    ("バキッ！",
     ""),
-    # Bakki!†
+    # Bakki!
 
     ("「やったぞ」",
     ""),
@@ -850,17 +850,17 @@ text_array = [
     ""),
     # He jumps up again, pulls and peels off the board that is about to break down.
 
-    ("梶穴があけば後は簡単だ。†",
+    ("梶穴があけば後は簡単だ。",
     ""),
-    # Once the kaji hole is cut, it's easy after it's finished.†
+    # Once the kaji hole is cut, it's easy after it's finished.
 
     ("オレは残りの板にぶら下がり、体重で次々と板を引き高剥がした。",
     ""),
     # My gut hanged from the boards that were still behind, and with my weight I pulled and peeled them off.
 
-    ("…と、そこでオレは動きを止めた。†",
+    ("…と、そこでオレは動きを止めた。",
     ""),
-    # ...So I stopped moving.†
+    # ...So I stopped moving.
 
     ("板を全泊部黒剥がした後の天井…。",
     ""),
@@ -874,9 +874,9 @@ text_array = [
     ""),
     # ...It's completely unconventional.
 
-    ("とめてあるネジを外さないと、香剥がすことはできない。†",
+    ("とめてあるネジを外さないと、香剥がすことはできない。",
     ""),
-    # You cannot peel off the scent unless you remove the screws that are attached.†
+    # You cannot peel off the scent unless you remove the screws that are attached.
 
     ("「さん…」",
     ""),
@@ -890,9 +890,9 @@ text_array = [
     ""),
     # "Chikushi Ebi. Are you two choking like this?"
 
-    ("そうつぶやいた瞬間、電箔灯が消えた。†",
+    ("そうつぶやいた瞬間、電箔灯が消えた。",
     ""),
-    # The moment I muttered this, the electric foil light went out.†
+    # The moment I muttered this, the electric foil light went out.
 
     ("まずい。",
     ""),
@@ -906,9 +906,9 @@ text_array = [
     ""),
     # There will be no people!
 
-    ("そうなったら、オレたちは完全に閉じ桙込められることになる。†",
+    ("そうなったら、オレたちは完全に閉じ桙込められることになる。",
     ""),
-    # If that happens, the people will be completely closed and fragrant.†
+    # If that happens, the people will be completely closed and fragrant.
 
     ("もうあとがないだけに、いよいよ背筋が寒くなった。",
     ""),
@@ -922,9 +922,9 @@ text_array = [
     ""),
     # "Someone! Please, someone has noticed."
 
-    ("琴音ち痰ゃんが弾かれたように駆けだし、扉を叩き始めた。†",
+    ("琴音ち痰ゃんが弾かれたように駆けだし、扉を叩き始めた。",
     ""),
-    # Kotone Chisho-chan started to slam like he had been bounced, and he began to knock on the door.†
+    # Kotone Chisho-chan started to slam like he had been bounced, and he began to knock on the door.
 
     ("バン、バン、バン…。",
     ""),
@@ -938,17 +938,17 @@ text_array = [
     ""),
     # It's completely different from when I hit you.
 
-    ("そんな琴音ち痰ゃんの力の無さがむなしく、真っ暗で狭いエレベータのｒに絶望感をただよわせた…。†",
+    ("そんな琴音ち痰ゃんの力の無さがむなしく、真っ暗で狭いエレベータのｒに絶望感をただよわせた…。",
     ""),
-    # Kotone Chisho-chan's lack of power was vain, and the pitch black and narrow erotic lift caused a sense of despair.†
+    # Kotone Chisho-chan's lack of power was vain, and the pitch black and narrow erotic lift caused a sense of despair.
 
     ("まさか、オレたち…死ぬのか？",
     ""),
     # I can't believe we're all ecstatic... will we die?
 
-    ("おびえた琴音ち痰ゃんを見て、そんな考えがよぎる。†",
+    ("おびえた琴音ち痰ゃんを見て、そんな考えがよぎる。",
     ""),
-    # Such thoughts arise when I see Kotone Chisho-chan, frightened.†
+    # Such thoughts arise when I see Kotone Chisho-chan, frightened.
 
     ("…イсヤだ。",
     ""),
@@ -966,9 +966,9 @@ text_array = [
     ""),
     # At this time, if you're going to die, what about the hot water after it's set?
 
-    ("そう思ったとたん、自分でも信じられないくらいの勇気がわいてきた…気がした。†",
+    ("そう思ったとたん、自分でも信じられないくらいの勇気がわいてきた…気がした。",
     ""),
-    # As soon as I thought that, I felt like I had gained so much courage that I couldn't believe it.†
+    # As soon as I thought that, I felt like I had gained so much courage that I couldn't believe it.
 
     ("死んでたまるか！",
     ""),
@@ -986,9 +986,9 @@ text_array = [
     ""),
     # "Mr... I'm scared... aren't you scared...!?"
 
-    ("涙声の琴音ち痰ゃん。†",
+    ("涙声の琴音ち痰ゃん。",
     ""),
-    # Kotone's tearful voice.†
+    # Kotone's tearful voice.
 
     ("「オレだってこええよ！	…けどな、やけになったら完全におしまいじ痰ゃねえか！」",
     ""),
@@ -1006,9 +1006,9 @@ text_array = [
     ""),
     # Calm down and think b! There must still be some good way to be blessed!"
 
-    ("言いながら、なんだか息が荒くなってきた。†",
+    ("言いながら、なんだか息が荒くなってきた。",
     ""),
-    # As I said, my breathing got heavier.†
+    # As I said, my breathing got heavier.
 
     ("酸素がいよいよ無くなってきたのか…！？",
     ""),
@@ -1018,9 +1018,9 @@ text_array = [
     ""),
     # Damn it... I hate you, Amaga Lasse crying.
 
-    ("おめーの絵を見にｗて、こんな目にあっちまったんだぞ！？†",
+    ("おめーの絵を見にｗて、こんな目にあっちまったんだぞ！？",
     ""),
-    # I went to see your picture lol, and I was hit with this kind of thing!?†
+    # I went to see your picture lol, and I was hit with this kind of thing!?
 
     ("なにがイルカは賢いだ。",
     ""),
@@ -1042,9 +1042,9 @@ text_array = [
     ""),
     # Wait a minute!
 
-    ("超能力なら、あるじ痰ゃねえか！†",
+    ("超能力なら、あるじ痰ゃねえか！",
     ""),
-    # If it's psychic powers, you'll have to be phlegm!†
+    # If it's psychic powers, you'll have to be phlegm!
 
     ("「琴音ち痰ゃん、超能力だ！」",
     ""),
@@ -1058,7 +1058,7 @@ text_array = [
     ""),
     # "You can destroy the hot door with your superpowers!"
 
-    ("「…そんな強い力はとても…」†",
+    ("「…そんな強い力はとても…」",
     ""),
     # "...That strong power can also be used to make a hot spring..."
 
@@ -1074,17 +1074,17 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("琴音ち痰ゃんは慌ててうなずくと、身をすくめ、普歯を食いしばった。†",
+    ("琴音ち痰ゃんは慌ててうなずくと、身をすくめ、普歯を食いしばった。",
     ""),
-    # Kotone Chisho-yan nodded in a hurry, shrugged and gritted his steady teeth.†
+    # Kotone Chisho-yan nodded in a hurry, shrugged and gritted his steady teeth.
 
     ("いつもの精神集薯だ。",
     ""),
     # When is the collection of hot spirits?
 
-    ("そうすることで身体じゅうのエネルギーをひとつにまとめられる…轣らしい。†",
+    ("そうすることで身体じゅうのエネルギーをひとつにまとめられる…轣らしい。",
     ""),
-    # By doing this, you can bring together your energy and crying in your body...it looks like it's a snake.†
+    # By doing this, you can bring together your energy and crying in your body...it looks like it's a snake.
 
     ("沈黙…。",
     ""),
@@ -1094,17 +1094,17 @@ text_array = [
     ""),
     # I can only hear my intense breath.
 
-    ("緊張と酸素の量とで、息が詰まりそうだ。†",
+    ("緊張と酸素の量とで、息が詰まりそうだ。",
     ""),
-    # The tension and oxygen levels make me choke my breath.†
+    # The tension and oxygen levels make me choke my breath.
 
     ("キーンと耳鳴りが始まる。",
     ""),
     # The tinnitus begins to squeal.
 
-    ("琴音ち痰ゃんの超能力が発動する前触齔れ…。†",
+    ("琴音ち痰ゃんの超能力が発動する前触齔れ…。",
     ""),
-    # Before Kotone Chisho-chan's psychic powers were activated, touched...†
+    # Before Kotone Chisho-chan's psychic powers were activated, touched...
 
     ("・",
     ""),
@@ -1114,9 +1114,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("ガクンッ！！",
     ""),
@@ -1130,9 +1130,9 @@ text_array = [
     ""),
     # The lion's extreme lift has just dropped a little!?
 
-    ("扉は！？†",
+    ("扉は！？",
     ""),
-    # The door!?†
+    # The door!?
 
     ("見骭ると、なんの変化煢もない。",
     ""),
@@ -1150,17 +1150,17 @@ text_array = [
     ""),
     # "But, there's no hot water!? It's gone down somewhere!? Perhaps there's no phlegm at the door, but there's no sputum...!?"
 
-    ("それじ痰ゃあ、なんにもならない。†",
+    ("それじ痰ゃあ、なんにもならない。",
     ""),
-    # That's all, there's no heat.†
+    # That's all, there's no heat.
 
     ("オレたちはまっ逆さまか！？",
     ""),
     # We're all upside down!?
 
-    ("終尞わってる…。†",
+    ("終尞わってる…。",
     ""),
-    # It's over...†
+    # It's over...
 
     ("「わたし、やりました…諱よ…」",
     ""),
@@ -1186,17 +1186,17 @@ text_array = [
     ""),
     # I couldn't even cook anything anymore.
 
-    ("ちくしょう…。†",
+    ("ちくしょう…。",
     ""),
-    # Chikushi Ebi...†
+    # Chikushi Ebi...
 
     ("普助けるどこか、最纃後に翌女の子の手を借りようとするなんて…。",
     ""),
     # Someone who is trying to help out, and at the very least, they try to borrow the help of the girl the next day...
 
-    ("﨟情けねえよな。†",
+    ("﨟情けねえよな。",
     ""),
-    # 﨟That's pathetic.†
+    # 﨟That's pathetic.
 
     ("「もう…、普助からないんですね…？」",
     ""),
@@ -1214,9 +1214,9 @@ text_array = [
     ""),
     # "Sorry, Kotone Chishou."
 
-    ("「…そんなこと、ありません…。謝骼るのは、わたしの方です」†",
+    ("「…そんなこと、ありません…。謝骼るのは、わたしの方です」",
     ""),
-    # "...Not that... Xie is my luck."†
+    # "...Not that... Xie is my luck."
 
     ("「いいんだって」",
     ""),
@@ -1234,9 +1234,9 @@ text_array = [
     ""),
     # It's calling me crazy.
 
-    ("「ああ」†",
+    ("「ああ」",
     ""),
-    # "ah"†
+    # "ah"
 
     ("「わたし…最纃後に、さんに言って…おきたいことがあるんです…」",
     ""),
@@ -1262,17 +1262,13 @@ text_array = [
     ""),
     # Huh!
 
-    ("ガコンッ！！†",
+    ("ガコンッ！！",
     ""),
-    # Gacon!!†
+    # Gacon!!
 
-    ("「君たち、蛛大苟丈夫かっ！」†・",
+    ("「君たち、蛛大苟丈夫かっ！」・",
     ""),
-    # "You guys, are you strong!" †・
-
-    ("・",
-    ""),
-    # ・
+    # "You guys, are you strong!" ・
 
     ("・",
     ""),
@@ -1282,9 +1278,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
     ("「どーだ琴音ち痰ゃん。外の空気は？」",
     ""),
@@ -1302,25 +1302,25 @@ text_array = [
     ""),
     # "Oh, that's a umma."
 
-    ("まったく後で聞いてみれば、ばかばかしい話だった。†",
+    ("まったく後で聞いてみれば、ばかばかしい話だった。",
     ""),
-    # When I asked him about it afterwards, it was a ridiculous story.†
+    # When I asked him about it afterwards, it was a ridiculous story.
 
     ("潤ワイсヤーの不調でストップしたエレベータに気づいた係員が、オレたちに連腰絡を取うとしたが、インターフォンがすでに壊皷れていて使い物にならなかった。",
     ""),
     # When the staff noticed the sudden lift that had stopped due to Junwaiya's poor condition, they tried to sniff out the horses, but the intercom had already been broken and it was useless.
 
-    ("インターフォンを直すより、エレベータが優譌先となる。†",
+    ("インターフォンを直すより、エレベータが優譌先となる。",
     ""),
-    # Rather than fixing the intercom, the E-lift is the best.†
+    # Rather than fixing the intercom, the E-lift is the best.
 
     ("エレベータを怩復剣旧させるには、専用の機械を持ちこまないといけない。",
     ""),
     # To get the Era Rev-Shake up, you will need to bring a special machine.
 
-    ("しかたなく閉店してから機械を持ちこんで修搶理し始めたが、詰まった盾ワイсヤーは一向にもとに戻逍らない。†",
+    ("しかたなく閉店してから機械を持ちこんで修搶理し始めたが、詰まった盾ワイсヤーは一向にもとに戻逍らない。",
     ""),
-    # After the store closed, I brought the machine in and began to work it out, but the chock-up shield widow never returned to the ground.†
+    # After the store closed, I brought the machine in and began to work it out, but the chock-up shield widow never returned to the ground.
 
     ("途茁方にくれていた頃、誰熬も触齔れてはいない盾ワイсヤーが突然、ひとりでに動き出した。",
     ""),
@@ -1330,9 +1330,9 @@ text_array = [
     ""),
     # The punchline was that the two of us stopped at the nearest floor and were rescued from the popular.
 
-    ("潤ワイсヤーを動かしたのは魔当然、狙いの外れた琴音ち痰ゃんの超能力だ。†",
+    ("潤ワイсヤーを動かしたのは魔当然、狙いの外れた琴音ち痰ゃんの超能力だ。",
     ""),
-    # Of course, the magician moved Junwaiyan, and Kotone Chisho-ya's supernatural powers, which were off-targeted.†
+    # Of course, the magician moved Junwaiyan, and Kotone Chisho-ya's supernatural powers, which were off-targeted.
 
     ("酸素の盾件はまったくの勘違い。",
     ""),
@@ -1342,25 +1342,25 @@ text_array = [
     ""),
     # Apparently he was mentally exhausted because he was closed in a small room for a long time.
 
-    ("実際、エレベータの酸素がなくなることはありえないそうだ。†",
+    ("実際、エレベータの酸素がなくなることはありえないそうだ。",
     ""),
-    # In fact, it seems unlikely that the oxygen from the E-lift will run out.†
+    # In fact, it seems unlikely that the oxygen from the E-lift will run out.
 
     ("しかし、驚いたのは駅ビルの対梠応だ。",
     ""),
     # However, what surprised me was the station's anti-spring.
 
-    ("警察に連腰絡燉もせず、自分たちだけでｍ業を進めていたんだそうだ。†",
+    ("警察に連腰絡燉もせず、自分たちだけでｍ業を進めていたんだそうだ。",
     ""),
-    # They apparently were not involved in the police and were working on their own.†
+    # They apparently were not involved in the police and were working on their own.
 
     ("駅ビルのお偉いさんに頭を下げられ、ついでにン怎万円分の商品舶券をもらい、オレたちもエレベータのｒを壊したことで頭を下げて、一処件詞落嵐。",
     ""),
     # The great man from the station's creepy slumber bowed his head, and he also received a voucher worth 10,000 yen worth of goods, and we and the other sluts bowed their heads after breaking the r of the Erotic Lift, and the other sluts fell into the crash.
 
-    ("終尞わってみれば、しょーもない魔事庶件だった。†",
+    ("終尞わってみれば、しょーもない魔事庶件だった。",
     ""),
-    # When it all ended, it was a totally unfortunate matter of magic.†
+    # When it all ended, it was a totally unfortunate matter of magic.
 
     ("「琴音ち痰ゃんのおかげだな」",
     ""),
@@ -1374,9 +1374,9 @@ text_array = [
     ""),
     # "I'm not grateful for my supernatural powers."
 
-    ("琴音ち痰ゃんは小さくうなずいた。†",
+    ("琴音ち痰ゃんは小さくうなずいた。",
     ""),
-    # Kotone Chisho-chan nodded slightly.†
+    # Kotone Chisho-chan nodded slightly.
 
     ("「…送曹うか？」",
     ""),

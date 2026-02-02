@@ -2,9 +2,9 @@
 # Source file: 0B04.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	好き	の続き）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	好き	の続き）",
     ""),
-    # (Aya∴Kawa Pick Date Event 2) (Continued from Chosen Sou A Love) †
+    # (Aya∴Kawa Pick Date Event 2) (Continued from Chosen Sou A Love) 
 
     ("「そり痰ゃあ、好きかな」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Anyway, you're a b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-
 
-    ("「たとえば？」†",
+    ("「たとえば？」",
     ""),
-    # "for example?"†
+    # "for example?"
 
     ("「たとえば？	そうだな、きれいだし、素直だし、可愛いし、なんていうか、いっしょにいると幸せな気分になるじ痰ゃんか」",
     ""),
@@ -38,16 +38,16 @@ text_array = [
     ""),
     # "I don't really understand, but that's how it is? Haha, what are you talking about, I'm so brutal?"
 
-    ("照齒れ隠しに頭を掻いた。†",
+    ("照齒れ隠しに頭を掻いた。",
     ""),
-    # I scratched my head to hide the light.†
+    # I scratched my head to hide the light.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("そんなオレを、綾∴香はやわらかく微笑んでじっと見つめていた。†",
+    ("そんなオレを、綾∴香はやわらかく微笑んでじっと見つめていた。",
     ""),
-    # Ayaka stared at me with a soft smile.†
+    # Ayaka stared at me with a soft smile.
 
 ]

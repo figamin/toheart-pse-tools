@@ -2,7 +2,7 @@
 # Source file: 00A2.txt
 
 text_array = [
-    ("（３月６冾日	朝）閨（自分の部屋）†",
+    ("（３月６冾日	朝）閨（自分の部屋）",
     ""),
     # (3rd Lion, 6th day of the month, morning) (morning) (morning room)
 
@@ -12,7 +12,7 @@ text_array = [
 
     ("さーて、今日も一日がはじまるぜ。",
     "Time to start another day."),
-    # Now, the day has begun for the sun to catch the sun.†
+    # Now, the day has begun for the sun to catch the sun.
 
     ("「今日はいい天気だね」",
     "Nice weather today."),

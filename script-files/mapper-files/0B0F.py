@@ -2,17 +2,17 @@
 # Source file: 0B0F.txt
 
 text_array = [
-    ("（綾∴香	好感度イベント２）閨（チェック５つ）閨（好感度イベント１を見た）閨（冝日付イベント３を見た）閨（４月１６冾日以降）閨（４月２２冾日以降は発生しない（２１冾日までで終尞わり））閨（それまでにここを通過しなければ綾∴香は攻略不可になる）閨（１桙時間目の授業拠）†",
+    ("（綾∴香	好感度イベント２）閨（チェック５つ）閨（好感度イベント１を見た）閨（冝日付イベント３を見た）閨（４月１６冾日以降）閨（４月２２冾日以降は発生しない（２１冾日までで終尞わり））閨（それまでにここを通過しなければ綾∴香は攻略不可になる）閨（１桙時間目の授業拠）",
     ""),
-    # (Aya∴Ka Likeability Event 2) Relative (5 checks) Relative (See the Likeability Event 1) Relative (See the Date Event 3) Relative (After the April 16th day) Relative (Not occur after the April 22nd day (ends until the 21st day)) Relative (If you do not pass through this by then, Aya∴Ka will not be able to be conquered) Relative (Lesson basis for the first time) †
+    # (Aya∴Ka Likeability Event 2) Relative (5 checks) Relative (See the Likeability Event 1) Relative (See the Date Event 3) Relative (After the April 16th day) Relative (Not occur after the April 22nd day (ends until the 21st day)) Relative (If you do not pass through this by then, Aya∴Ka will not be able to be conquered) Relative (Lesson basis for the first time) 
 
     ("１桙時間目の授業拠。",
     ""),
     # Lessons for the first time.
 
-    ("オレは、ぼんやりと窓の外を眺めながら、考えごとをしていた。†",
+    ("オレは、ぼんやりと窓の外を眺めながら、考えごとをしていた。",
     ""),
-    # I was thinking, slurping and looking out the window.†
+    # I was thinking, slurping and looking out the window.
 
     ("ａ浮かぶのはあいつ。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Why is it b?
 
-    ("どうも最近、ふとしたことであいつのことを考えてしまう。†",
+    ("どうも最近、ふとしたことであいつのことを考えてしまう。",
     ""),
-    # Recently, I've been thinking about someone at a random time.†
+    # Recently, I've been thinking about someone at a random time.
 
     ("「あははっ、怐骨折關り損ねー」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Well, it's a shame, so I'll give you a reward. Yes."
 
-    ("「ご褒又って、これ、食いかけじ痰ゃねーか」†",
+    ("「ご褒又って、これ、食いかけじ痰ゃねーか」",
     ""),
     # "As a reward, can you eat this and phlegm?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "I've seen this very carefully the other day, so I'm not sure what phlegm is.
 
-    ("「今厓日は今厓日だ」†",
+    ("「今厓日は今厓日だ」",
     ""),
     # "The current day is now the current day b"
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Is it weird? = It's normal, that's all."
 
-    ("「＝普通じ痰ゃないわよ〜」†",
+    ("「＝普通じ痰ゃないわよ〜」",
     ""),
     # "=It's normal, it's not phlegm~"
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Well... You're pretty sure you know what to do."
 
-    ("「そう？	ふふ、どーも」†",
+    ("「そう？	ふふ、どーも」",
     ""),
-    # "I see? Hehe, hi?"†
+    # "I see? Hehe, hi?"
 
     ("「けど、こんな程度でこの土闢手っ腹の一発がチャャラになると思ったら大間違いだぞ」",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # "Tampering, well, fine. Let's forgive the demons with this."
 
-    ("「ふふっ」†",
+    ("「ふふっ」",
     ""),
-    # "Hehe" †
+    # "Hehe" 
 
     ("なぜこうあいつがチラつくのか、自分でもよくわからない。",
     ""),
@@ -126,17 +126,17 @@ text_array = [
     ""),
     # It's hard to believe he fell in love with him while he didn't know...
 
-    ("うーむ。†",
+    ("うーむ。",
     ""),
-    # Hmm.†
+    # Hmm.
 
     ("いや、まだ結論を出すのは≠早計だ。",
     ""),
     # It's too early to come to conclusions, even if it's still a bit of a pain.
 
-    ("ひとつ冷静に考えてみよう。†",
+    ("ひとつ冷静に考えてみよう。",
     ""),
-    # Let's think about it calmly.†
+    # Let's think about it calmly.
 
     ("＠栖瑞綾∴香。",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # A woman who fell in love with Kuniko Kakumado, who spent her little girl overseas.
 
-    ("以前、空闍手をやってたとかも言ってたな。†",
+    ("以前、空闍手をやってたとかも言ってたな。",
     ""),
-    # I've also said that he used to tamper with the Sky.†
+    # I've also said that he used to tamper with the Sky.
 
     ("ルックスは、さすが先輩のｖだけあって、文蝠句なし。",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # #The personal face makes him look amazing and has a stylish cry.
 
-    ("おまけに、太熨ももの肌触關りもいいときた。†",
+    ("おまけに、太熨ももの肌触關りもいいときた。",
     ""),
-    # In addition, the thick and hot water texture and the hot water were also nice.†
+    # In addition, the thick and hot water texture and the hot water were also nice.
 
     ("あのさっぱりした性格煌も凾嫌いじ痰ゃない。",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # For a person with a gold medal, it's not expensive for a person with a good chance, and the place where he grew up overseas is highly likable.
 
-    ("あいつと喋ってると楽しい。†",
+    ("あいつと喋ってると楽しい。",
     ""),
-    # It's fun to talk to him.†
+    # It's fun to talk to him.
 
     ("むう。",
     ""),
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # When you think about it this way, there's no element that makes you dislike.
 
-    ("プラス要素しかない。†",
+    ("プラス要素しかない。",
     ""),
-    # There is only a banquet element.†
+    # There is only a banquet element.
 
     ("まずいな。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 0B3B.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦）閨（一週間で倒せなかった場㍼合）†",
+    ("（綾∴香	綾∴香に挑峵戦）閨（一週間で倒せなかった場㍼合）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka) (As you can't beat in one week)†
+    # (Aya∴Ka challenges Aya∴Ka) (As you can't beat in one week)
 
     ("「さて、今厓日が約束の最終叝日謫よ。ってことは、この勝縁負｢｢」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "That's what you mean next @."
 
-    ("綾∴香はにっこり、嬉しそうに微笑んだ。†",
+    ("綾∴香はにっこり、嬉しそうに微笑んだ。",
     ""),
-    # Aya∴Ka smiled and smiled happily.†
+    # Aya∴Ka smiled and smiled happily.
 
     ("「もちん、約束は覚えてるわね？」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "…ah"
 
-    ("あれね。†",
+    ("あれね。",
     ""),
-    # That's it.†
+    # That's it.
 
     ("「ということで、なにかひとつр私の言うことを聞いてもらうわね翌＠」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Tch."
 
-    ("しょうがねーな。†",
+    ("しょうがねーな。",
     ""),
-    # There's no essay.†
+    # There's no essay.
 
     ("「うーん、なににしようかなー？」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Aya∴Ka looked over me mischievously.
 
-    ("「金のかかることは勘弁してくれよ。オレ、自搦慢じ痰ゃないけど貧乏人だから」†",
+    ("「金のかかることは勘弁してくれよ。オレ、自搦慢じ痰ゃないけど貧乏人だから」",
     ""),
     # "Please forgive me for the money. I'm extremely irritated, but I'm a poor person."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "After"""
 
-    ("「あと１００回言うこと聞けとか、そういうのはナシだからな」†",
+    ("「あと１００回言うこと聞けとか、そういうのはナシだからな」",
     ""),
     # "There's no other things like asking 100 more times."
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "What is it, during that time?"
 
-    ("さてはビンゴだな。†",
+    ("さてはビンゴだな。",
     ""),
-    # Well, it's bingo.†
+    # Well, it's bingo.
 
     ("結局、いいボツ案が出た魔末、いまからファーストフードのバーガーをおごることで落ちｒいた。",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # Well, that level of the amount is within the range of magical tolerance.
 
-    ("志保にたかられたと思えば安いもんだ。†",
+    ("志保にたかられたと思えば安いもんだ。",
     ""),
-    # It's cheap if you think Shiho is blessed with it.†
+    # It's cheap if you think Shiho is blessed with it.
 
     ("「とこで、綾∴香」",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # "What's wrong?"
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
     ("「いいわよ、なんにする？	今度はそっちの得意分楓でいいわよ」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "...If so, what?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("もしかして、オレ、得意なことがない？",
     ""),
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # Oh no.
 
-    ("じつはオレって、無能な人間なのか。†",
+    ("じつはオレって、無能な人間なのか。",
     ""),
-    # Actually, am I an incompetent person?†
+    # Actually, am I an incompetent person?
 
     ("「なににするの？」",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # "The weir ra-men..."
 
-    ("「堰ラー＝メン？」†",
+    ("「堰ラー＝メン？」",
     ""),
-    # "Yellow Men?" †
+    # "Yellow Men?" 
 
     ("「堰ラー＝メン＜早食い勝縁負はどうだあっ！」",
     ""),
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # What, what, is this leeway?
 
-    ("もしかして、＝早食いが得意なのか？†",
+    ("もしかして、＝早食いが得意なのか？",
     ""),
-    # Maybe = Is it good at eating quickly?†
+    # Maybe = Is it good at eating quickly?
 
     ("「ま、まて。",
     ""),
@@ -222,9 +222,9 @@ text_array = [
     ""),
     # "Yeah, I understand."
 
-    ("あらま、あっさりと。†",
+    ("あらま、あっさりと。",
     ""),
-    # Oh well, it's easy.†
+    # Oh well, it's easy.
 
     ("「い、いや、さらに『メ辛』を追加しよう。",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # "It's nice."
 
-    ("ぐっ。†",
+    ("ぐっ。",
     ""),
-    # Wow.†
+    # Wow.
 
     ("「じ痰ゃ、『蛛大盛關りモ辛艶ラー＝メン＜早食い勝縁負』でいいのね？」",
     ""),
@@ -254,19 +254,19 @@ text_array = [
     ""),
     # "Okay, I'll take it and get on. When will the test be held?"
 
-    ("「…そ、そうだな」†",
+    ("「…そ、そうだな」",
     ""),
-    # "...Oh, that's right" †
+    # "...Oh, that's right" 
 
     ("なんか、諱取り返しのつかない方阜に流齬れてしまったような気がする。",
     ""),
     # It feels like I've been in conflict with Fukukata Fu, which has no reciprocity.
 
-    ("そもそもオレは『蛛大盛關りモ辛艶ラー＝メン』の≠早食いが得意なのか、おい。†",
+    ("そもそもオレは『蛛大盛關りモ辛艶ラー＝メン』の≠早食いが得意なのか、おい。",
     ""),
-    # Is it good at eating fast foods like "Great Large Large Moss Extremely Spicy and Spicy Ramen"?†
+    # Is it good at eating fast foods like "Great Large Large Moss Extremely Spicy and Spicy Ramen"?
 
-    ("「じ痰ゃそれは、バーガー食べながらｌめよ。運動してるせいか、最近この桙時間に、どうもお腹が空くのよね」†",
+    ("「じ痰ゃそれは、バーガー食べながらｌめよ。運動してるせいか、最近この桙時間に、どうもお腹が空くのよね」",
     ""),
     # "You're so excited to eat a burger, so I've been feeling hungry lately after all this time."
 

@@ -2,17 +2,17 @@
 # Source file: 038A.txt
 
 text_array = [
-    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ａ	あかり、蛛大苟丈夫か？）閨（の続き）†",
+    ("（智子	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	このオレについてｗ育翌鉤るならな！）閨（選択綜Ａ	あかり、蛛大苟丈夫か？）閨（の続き）",
     ""),
-    # (Tomoko's Scales Event: Departing from School LV2) (Choice Sou A about this Ogiri lol If you're going to get the next hook up, then you'll be in the next generation!) (Choice Sou A, is it light, a great man?) (Continued)†
+    # (Tomoko's Scales Event: Departing from School LV2) (Choice Sou A about this Ogiri lol If you're going to get the next hook up, then you'll be in the next generation!) (Choice Sou A, is it light, a great man?) (Continued)
 
     ("「おい、あかり、蛛大苟丈夫か？」",
     ""),
     # "Hey, Akari, are you sturdy, are you sturdy?"
 
-    ("オレはあかりに近づいてそう言った。†",
+    ("オレはあかりに近づいてそう言った。",
     ""),
-    # I said this as I approached Akari.†
+    # I said this as I approached Akari.
 
     ("「う、うん、平気」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # He held Akari's head, brought her closer and peered at him.
 
-    ("「、ち痰ゃん…」†",
+    ("「、ち痰ゃん…」",
     ""),
-    # "Ahhhhh..." †
+    # "Ahhhhh..." 
 
     ("「ったく、おめーのドジは鰍相変﨑わらずだな」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "Ah, and even Kao, it's more than slandering me..."
 
-    ("そう言って、あかりは保科のほうを見た。†",
+    ("そう言って、あかりは保科のほうを見た。",
     ""),
-    # With that in mind, Akari looked at Hoshina.†
+    # With that in mind, Akari looked at Hoshina.
 
     ("「…保科さん、ゴ＜メン。",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "You're not careful."
 
-    ("素っ気なくそう言い残し、氏去っていった。†",
+    ("素っ気なくそう言い残し、氏去っていった。",
     ""),
-    # He left calmly saying this and left.†
+    # He left calmly saying this and left.
 
     ("「保科さん、怒って行っち痰ゃった…」",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 0299.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（廊下１）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（廊下１）",
     ""),
-    # (Seri° Kaori, Scales Event 2F LV4)Seri (Carrior 1)†
+    # (Seri° Kaori, Scales Event 2F LV4)Seri (Carrior 1)
 
     ("ふああ〜、眠ぃ〜…。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # As soon as I left the classroom, I yawned a huge slut, gushing, "Aaaah!"
 
-    ("しかし春ってのは、なんでこう眠くなるんだーな…。†",
+    ("しかし春ってのは、なんでこう眠くなるんだーな…。",
     ""),
-    # However, why do I feel so sleepy in spring...†
+    # However, why do I feel so sleepy in spring...
 
     ("おっ。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Uh, O-san!"
 
-    ("オレは声をかけた。†",
+    ("オレは声をかけた。",
     ""),
-    # I called out to him.†
+    # I called out to him.
 
     ("「………」",
     "…"),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "What, is there a good medicine? It's a medicine that will wake you up and give you energy?"
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("「………」",
     "…"),

@@ -2,9 +2,9 @@
 # Source file: 07F9.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	犬が好き）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	犬が好き）",
     ""),
-    # (Kotone, Scales Event PS) (Chome, I like dogs)†
+    # (Kotone, Scales Event PS) (Chome, I like dogs)
 
     ("「オレ、じつは犬が好きなんだよな」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Does Kotone Chisho-chan like cats?"
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("「オレは犬派だけど、どっちも動物を可愛がる気搴持ちは同じだうし、〟仲良くしような」",
     ""),

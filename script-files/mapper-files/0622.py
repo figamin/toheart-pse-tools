@@ -2,9 +2,9 @@
 # Source file: 0622.txt
 
 text_array = [
-    ("（マルチ	エンディング）閨（Ｂ	お礼なんてしにｗなくていい）†",
+    ("（マルチ	エンディング）閨（Ｂ	お礼なんてしにｗなくていい）",
     ""),
-    # (Makyuruchi Ending) (B, there's no need to thank you lol) †
+    # (Makyuruchi Ending) (B, there's no need to thank you lol) 
 
     ("「馬鹿。お礼なんてしにｗなくていいよ」",
     ""),
@@ -18,17 +18,17 @@ text_array = [
     ""),
     # "You can't do anything big like that, don't you have to tamper with me? If you're feeling grateful, you can also get enough of the phone."
 
-    ("「しかし…」†",
+    ("「しかし…」",
     ""),
-    # "but…"†
+    # "but…"
 
     ("「あんまりお礼とかそういうの言甯われると、逆に気をつかっちまうぜ」",
     ""),
     # "If you're too grateful or something like that, I'll actually take care of you."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("マルチは少し考えると、",
     ""),
@@ -38,15 +38,15 @@ text_array = [
     ""),
     # "is that so"
 
-    ("と言った。†",
+    ("と言った。",
     ""),
-    # He said.†
+    # He said.
 
     ("「わかりました。では、電話で、お礼を言甯わせてください」",
     ""),
     # "I understand. Now, please give me a thank you over the phone."
 
-    ("「おう、そのぐらいなら」†",
+    ("「おう、そのぐらいなら」",
     ""),
     # "Oh, that's about it"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "Mr. Thank you so much for the buddy up until the day you've just finished. I will never forget this kind of thank you."
 
-    ("「ははは、蛛大げさだなあ」†",
+    ("「ははは、蛛大げさだなあ」",
     ""),
     # "Haha, that's a big deal."
 
@@ -62,17 +62,17 @@ text_array = [
     ""),
     # "Thank you very much for the end of the day."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("なんだか、ちょっと胸がきゅんとなった。",
     ""),
     # My heart was shining in a slurp.
 
-    ("なんだう。†",
+    ("なんだう。",
     ""),
-    # What is it?†
+    # What is it?
 
     ("「な、なあ、マルチ」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # With me!?”
 
-    ("「ああ」†",
+    ("「ああ」",
     ""),
-    # "ah"†
+    # "ah"
 
     ("「あ、ありがとうございますっ！",
     ""),
@@ -118,25 +118,25 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「…そっ、それでは、これで。…さん、お元気で」",
     ""),
     # "...Oh, well, now...san, do your best."
 
-    ("「あ？	お、おう」†",
+    ("「あ？	お、おう」",
     ""),
-    # "Ah? Oh, oh." †
+    # "Ah? Oh, oh." 
 
     ("かち痰ゃ。",
     ""),
     # It's a phlegm.
 
-    ("つーつーつー。†",
+    ("つーつーつー。",
     ""),
-    # Hit and tight.†
+    # Hit and tight.
 
     ("最纃後の『お元気で』って…。",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # If it were to happen, I should have invited her out of the day, so I guess she'd have to be phlegmed.
 
-    ("馬鹿かオレは。†",
+    ("馬鹿かオレは。",
     ""),
-    # Is it stupid or something?†
+    # Is it stupid or something?
 
     ("まあ、いいや。",
     ""),

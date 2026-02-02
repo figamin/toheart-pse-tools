@@ -2,9 +2,9 @@
 # Source file: 0153.txt
 
 text_array = [
-    ("（あかり	好感度イベント６．１）閨（選択綜Ｂ	笑顔で「じ痰ゃあ」と）†",
+    ("（あかり	好感度イベント６．１）閨（選択綜Ｂ	笑顔で「じ痰ゃあ」と）",
     ""),
-    # (Akari Likeability Event 6.1) (Select B: "Shoku" with a smile on his face)†
+    # (Akari Likeability Event 6.1) (Select B: "Shoku" with a smile on his face)
 
     ("「じ痰ゃあ、オレ、もう帰驪るわ」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # I'll be returning to my hands."
 
-    ("「…そう？」†",
+    ("「…そう？」",
     ""),
-    # "…yes?"†
+    # "…yes?"
 
     ("オレは鞄を取って立ち上がった。",
     ""),

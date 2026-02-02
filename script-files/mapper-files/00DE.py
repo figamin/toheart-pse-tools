@@ -2,49 +2,49 @@
 # Source file: 00DE.txt
 
 text_array = [
-    ("（３月９冾日	イベントないなら）閨（冝日付イベントにする）閨（潤居間を掃恆除する）閨（潤居間）†",
+    ("（３月９冾日	イベントないなら）閨（冝日付イベントにする）閨（潤居間を掃恆除する）閨（潤居間）",
     ""),
-    # (If there is no event, if there is no event) (March Lion Moon 9th Day) (Make it a date event) (Make it a cleaning event) (Make it clears the Jun living room) (Make it clears the Jun living room) †
+    # (If there is no event, if there is no event) (March Lion Moon 9th Day) (Make it a date event) (Make it a cleaning event) (Make it clears the Jun living room) (Make it clears the Jun living room) 
 
     ("諱よーし、やっか。",
     ""),
     # Okay, I'll give it a go.
 
-    ("まずは片づけて、掃恆除機かけて、ぞうきんで拭いて…。†",
+    ("まずは片づけて、掃恆除機かけて、ぞうきんで拭いて…。",
     ""),
-    # First, clean it up, wipe it off, and wipe it off with a rag...†
+    # First, clean it up, wipe it off, and wipe it off with a rag...
 
     ("ばたばたばた…。",
     ""),
     # I was pounding...
 
-    ("ばたばたばた…。†",
+    ("ばたばたばた…。",
     ""),
-    # I was pounding...†
+    # I was pounding...
 
     ("ぶぃ〜〜〜ん。",
     ""),
     # Bang.
 
-    ("ぶぃ〜〜〜ん。†",
+    ("ぶぃ〜〜〜ん。",
     ""),
-    # Bang.†
+    # Bang.
 
     ("さっさっさっ。",
     ""),
     # Quickly.
 
-    ("さっさっさっ。†",
+    ("さっさっさっ。",
     ""),
-    # Quickly.†
+    # Quickly.
 
     ("きゅっ、きゅっ、きゅっ、きゅっ。",
     ""),
     # A little bit, a little bit, a little bit, a little bit, a little bit.
 
-    ("きゅっ、きゅっ、きゅっ、きゅっ。†",
+    ("きゅっ、きゅっ、きゅっ、きゅっ。",
     ""),
-    # A little bit, a little bit, a little bit, a little bit, a little bit.†
+    # A little bit, a little bit, a little bit, a little bit, a little bit.
 
     ("はぁ〜。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Okay, here's one thing, let's call for reinforcements.
 
-    ("名誉ある№援軍筆頭は、あかりだ。†",
+    ("名誉ある№援軍筆頭は、あかりだ。",
     ""),
-    # Akari is the honorable number one reinforcement leader.†
+    # Akari is the honorable number one reinforcement leader.
 
     ("さっそく電話する。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # I'm so excited, crying, crying, crying, crying, crying...
 
-    ("かち痰ゃ。†",
+    ("かち痰ゃ。",
     ""),
-    # It's a phlegm.†
+    # It's a phlegm.
 
     ("『もしもし、神岸ですが｢｢』",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # Ah, that's bad.
 
-    ("あかりだと思って声をかけたが、諱よく聞くとそれは、おばさん｢｢あかりの母さんの声だった。†",
+    ("あかりだと思って声をかけたが、諱よく聞くとそれは、おばさん｢｢あかりの母さんの声だった。",
     ""),
-    # I called out to her thinking it was Akari, but when I listened carefully, it was the voice of Auntie, "Akari's mother."†
+    # I called out to her thinking it was Akari, but when I listened carefully, it was the voice of Auntie, "Akari's mother."
 
     ("「あ、です、こんちは。…えっと、あかり盾居ます？」",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # "I see. Oh, phlegm, that's fine."
 
-    ("『ごめんね』†",
+    ("『ごめんね』",
     ""),
-    # "Sorry" †
+    # "Sorry" 
 
     ("…かち痰ゃ。",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # So, where did you go and play?
 
-    ("しょうがねえ、ひとりでなんとかするか。†",
+    ("しょうがねえ、ひとりでなんとかするか。",
     ""),
-    # There's no way I can do something on my own.†
+    # There's no way I can do something on my own.
 
     ("・",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("結局、ひと通闥り掃恆除が終尞わったのは、陽燉も大きく傾いた夕髣暮れどきだった。",
     ""),

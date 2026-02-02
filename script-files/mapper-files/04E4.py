@@ -2,17 +2,17 @@
 # Source file: 04E4.txt
 
 text_array = [
-    ("（志保	好感度イベントＰＳ）†",
+    ("（志保	好感度イベントＰＳ）",
     ""),
-    # (Shiho Likeability Event PS)†
+    # (Shiho Likeability Event PS)
 
     ("オレと史はさっさと昼メシをたいらげて、体迹育館にｌかっていた。",
     ""),
     # My geisha and I quickly managed to get some lunch and went to the Physical Museum.
 
-    ("渡闢り廊下にさしかかると、冝日の光の暖かさが体葬に感じられる。†",
+    ("渡闢り廊下にさしかかると、冝日の光の暖かさが体葬に感じられる。",
     ""),
-    # When you reach the corridor, you can feel the warmth of the sun's sunlight in your body.†
+    # When you reach the corridor, you can feel the warmth of the sun's sunlight in your body.
 
     ("オレは思寬わず立ち止まって、",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # Do you play soccer outside after all?”
 
-    ("「…勘弁してくれ。サッカーはバスケの倍は疲齡れるぜ」†",
+    ("「…勘弁してくれ。サッカーはバスケの倍は疲齡れるぜ」",
     ""),
     # "...Please don't mind. Soccer is twice as exhausting as basketball."
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "Hey hey. Don't call me a massive nerd to sports. If someone who doesn't knows about it, I'll understand."
 
-    ("「そうかなぁ…」†",
+    ("「そうかなぁ…」",
     ""),
-    # "I guess so..." †
+    # "I guess so..." 
 
     ("「聞いたわよ〜。ってスポーツ怎万能なんだってね〜」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # Mochi b, I know what he really is.
 
-    ("オレと史は思寬わず顔を見㈹合寘わせてしまう。†",
+    ("オレと史は思寬わず顔を見㈹合寘わせてしまう。",
     ""),
-    # I and I did not think about it, but instead looked at their faces and made them join together.†
+    # I and I did not think about it, but instead looked at their faces and made them join together.
 
     ("「…行こうぜ」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # I-Shin nodded with a wry smile at the signal of my epic ``I'm going to see this for now.''
 
-    ("志保兜相闡手にはこれっくらいつれない態度の方が、′こうも意地になって突っかかってきて面猪白いんだ。†",
+    ("志保兜相闡手にはこれっくらいつれない態度の方が、′こうも意地になって突っかかってきて面猪白いんだ。",
     ""),
-    # Fukui, who has such a tingly attitude towards Shiho Kabuto, also becomes stubborn and thrusts into her, making her look white.†
+    # Fukui, who has such a tingly attitude towards Shiho Kabuto, also becomes stubborn and thrusts into her, making her look white.
 
     ("「あっ、こら〜っ！",
     ""),
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # My throbbing walked to the physical exercise hall,
 
-    ("「バ〜カ。姿燻も見せねえで寄ってけもなにもあるかよ」†",
+    ("「バ〜カ。姿燻も見せねえで寄ってけもなにもあるかよ」",
     ""),
     # "Baaa. I don't see the smoked ones, so I'll stop by and see what kind of hot springs are there?"
 
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # This time he began to say something even better than he understood.
 
-    ("「氈勝闖手に撃ちまくって」†",
+    ("「氈勝闖手に撃ちまくって」",
     ""),
-    # "Shoot b to the head of the snake" †
+    # "Shoot b to the head of the snake" 
 
     ("「あたしは本気なのよ〜っ？」",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "What's that?"
 
-    ("なにを撃つのか知迺らないが、オレは適俣当にあしらった。†",
+    ("なにを撃つのか知迺らないが、オレは適俣当にあしらった。",
     ""),
-    # I don't know what to shoot B, but I gave Tomomata to the ramblings.†
+    # I don't know what to shoot B, but I gave Tomomata to the ramblings.
 
     ("「行くわよ！	バキャーン！」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # There's no phlegm, so it's probably $.
 
-    ("あいつまさか、＄鉄砲か！？†",
+    ("あいつまさか、＄鉄砲か！？",
     ""),
-    # He must be a $gun!?†
+    # He must be a $gun!?
 
     ("「あはははっ、もっと撃たれたい？」",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # My guts approached the fortune that was loud.
 
-    ("すると、諱ようやく志保が姿を見せた。†",
+    ("すると、諱ようやく志保が姿を見せた。",
     ""),
-    # Then Shiho appeared, smiting his name.†
+    # Then Shiho appeared, smiting his name.
 
     ("「やっとｗたわね」",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # "Because you'll see me unauthorized."
 
-    ("「ったくしょーがねえрヤツだな。前からガキくせえрヤツだと思ってたら、まさかそこまでガキだとは…」†",
+    ("「ったくしょーがねえрヤツだな。前からガキくせえрヤツだと思ってたら、まさかそこまでガキだとは…」",
     ""),
-    # "There's no one who's a kid. I've always thought he was a kid, but I can't believe he's that kid..."†
+    # "There's no one who's a kid. I've always thought he was a kid, but I can't believe he's that kid..."
 
     ("「あら、こんないい天気にウォーターガンで遊ばない大人にはなりたくないわね」",
     ""),
@@ -198,7 +198,7 @@ text_array = [
     ""),
     # "Hey, don't you play?"
 
-    ("「どう遊ぶんだよ。お前の的になれっつうのか？」†",
+    ("「どう遊ぶんだよ。お前の的になれっつうのか？」",
     ""),
     # "How are you playing? Will you become your target?"
 
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # "Oh, I know that too. They were selling cheaply at that store."
 
-    ("のんきなこと言うのは史。†",
+    ("のんきなこと言うのは史。",
     ""),
-    # It's I-His to say carefree things.†
+    # It's I-His to say carefree things.
 
     ("「用意したって、まさかモ買ってきたのか？」",
     ""),
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "There's no obvious phlegm. There's no way everyone can pay for it to do something like this and buy it, right? That's why I prepared it myself."
 
-    ("「だからって≠普通、わざわざモ買い揃えるか？	だいたいこんなでかいモン、学校行くときに持ち歩いてる桙時点で恥ずかしいだ？」†",
+    ("「だからって≠普通、わざわざモ買い揃えるか？	だいたいこんなでかいモン、学校行くときに持ち歩いてる桙時点で恥ずかしいだ？」",
     ""),
     # "That's not the case, so do you just buy all the fun things? Is this big B-mon so embarrassing as you walk around when you go to school?"
 
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # "Yeah, I'm slurping."
 
-    ("「っていうより、ち痰ゃっかりしたバカだ」†",
+    ("「っていうより、ち痰ゃっかりしたバカだ」",
     ""),
-    # "I mean, I'm an idiot who's got a lot of slut" †
+    # "I mean, I'm an idiot who's got a lot of slut" 
 
     ("「この際、バカはどうでもいいのよ。あんたたち魔当然遊んでくでしょ？	３分纒後のバスケ諠より１分纒後のウォーターサバイバル諠よ？」",
     ""),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # Masochi nods and twists the p-gun he received from Shiho.
 
-    ("…やけにあっさりうなずいたな。†",
+    ("…やけにあっさりうなずいたな。",
     ""),
-    # ...You nodded easily to the point of view.†
+    # ...You nodded easily to the point of view.
 
     ("「バスケはどーすんだよ」",
     ""),
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # It's a bit of a mess.This is a tampering thing that can fly by about 10 meter or so with air pressure."
 
-    ("雅史のрヤツそんなにｐ鉄砲で遊びたいのか？†",
+    ("雅史のрヤツそんなにｐ鉄砲で遊びたいのか？",
     ""),
-    # Does Makoto's р guy want to play with that much P-gun?†
+    # Does Makoto's р guy want to play with that much P-gun?
 
     ("「ほれほれ。なんたって１０≠メートル諠よ？」",
     ""),
@@ -286,9 +286,9 @@ text_array = [
     ""),
     # "...I'm so excited. Basketball is Mingy Day."
 
-    ("オレは受け取った。†",
+    ("オレは受け取った。",
     ""),
-    # I received it.†
+    # I received it.
 
     ("「まず、ルールは簡単。自分以外はみんな敵。とにかく桙時間いっぱいまで撃ちまくること。ただし、＄の補虚給拠を撃っち痰ゃダ＜メ」",
     ""),
@@ -298,17 +298,17 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「わかった」†",
+    ("「わかった」",
     ""),
-    # "I understand" †
+    # "I understand" 
 
     ("「おっし、１０秒纒後にバトル開始謗よっ。全員解散！」",
     ""),
     # "Oh, slander you battle crying after 10 seconds. Everyone disbanded!"
 
-    ("志保の№合図でオレたちはそれぞれ、物陰に駆けこんだ。†",
+    ("志保の№合図でオレたちはそれぞれ、物陰に駆けこんだ。",
     ""),
-    # At Shiho's signal, we all plunged into the shadows.†
+    # At Shiho's signal, we all plunged into the shadows.
 
     ("オレは校舎の陰。",
     ""),
@@ -322,9 +322,9 @@ text_array = [
     ""),
     # When he packed air into the air, he came out from behind.
 
-    ("志保と史燻もおたがいに離齬れた場鰹所の木陰に身を潜めている。†",
+    ("志保と史燻もおたがいに離齬れた場鰹所の木陰に身を潜めている。",
     ""),
-    # Shiho and I-Shin-smoking are also hiding in the shade of the bonito-place, where they are in conflict.†
+    # Shiho and I-Shin-smoking are also hiding in the shade of the bonito-place, where they are in conflict.
 
     ("しかし、オレもそうだが、梶相闡手までは軽く１０≠メートル以繹上ある。",
     ""),
@@ -338,9 +338,9 @@ text_array = [
     ""),
     # 'I thought so too, so I began moving.
 
-    ("じりじりと必殺の間㈱合いへと詰めていき、それがゼ鴻ロになったとき｢｢。†",
+    ("じりじりと必殺の間㈱合いへと詰めていき、それがゼ鴻ロになったとき｢｢。",
     ""),
-    # When he started working on the Hisatsu Michi Co., Ltd., and when he became Zekoro, he said, ".†
+    # When he started working on the Hisatsu Michi Co., Ltd., and when he became Zekoro, he said, ".
 
     ("走闡り回ったせいで汗だくだ。",
     ""),
@@ -350,25 +350,25 @@ text_array = [
     ""),
     # Rather, I don't really know whether it's sweat or something.
 
-    ("オレは学炎ランを脱ぎ捨てた。†",
+    ("オレは学炎ランを脱ぎ捨てた。",
     ""),
-    # I stripped off the school run.†
+    # I stripped off the school run.
 
     ("「おめー轣ら、さっきからふたりでオレばっか狙ってねーか！？」",
     ""),
     # "You guys, have you two been aiming for me to be super exciting for a while now?!"
 
-    ("さっきから、なぜかオレばかり狙岺われてるような気がする。†",
+    ("さっきから、なぜかオレばかり狙岺われてるような気がする。",
     ""),
-    # For some reason, I feel like I've been targeting me all the time for a while now.†
+    # For some reason, I feel like I've been targeting me all the time for a while now.
 
     ("「知迺らないわよ〜っ」",
     ""),
     # "You're not aware of it."
 
-    ("「ごめんっ。はじめから志保とグルだったんだよ〜」†",
+    ("「ごめんっ。はじめから志保とグルだったんだよ〜」",
     ""),
-    # "Sorry. Shiho and I've been crying hard from the beginning." †
+    # "Sorry. Shiho and I've been crying hard from the beginning." 
 
     ("「てめ〜っ、謝りながらオレを撃つな〜っ！」",
     ""),
@@ -378,9 +378,9 @@ text_array = [
     ""),
     # The reason I-Shi was really enthusiastic about was that this was what I was supposed to do.
 
-    ("くそっ、こんな手の桙込んだ悪巧みを考えるのは志保に痰違いない。†",
+    ("くそっ、こんな手の桙込んだ悪巧みを考えるのは志保に痰違いない。",
     ""),
-    # Damn it, Shiho must be stimulating to think of such a frayed and clever thing.†
+    # Damn it, Shiho must be stimulating to think of such a frayed and clever thing.
 
     ("「ほらほら〜っ、パンツのｒまでずぶぬれにするわよ〜っ！」",
     ""),
@@ -398,17 +398,17 @@ text_array = [
     ""),
     # "We can also help smoke the 雅!"
 
-    ("「で、でもぉ」†",
+    ("「で、でもぉ」",
     ""),
-    # "And, it's hot" †
+    # "And, it's hot" 
 
     ("「男の友﨤情をうらぎるのか〜っ？」",
     ""),
     # "Are you jealous of male friend's feelings?"
 
-    ("志保なみの『ヘ揀理雷』をこねてしまう。†",
+    ("志保なみの『ヘ揀理雷』をこねてしまう。",
     ""),
-    # He smears Shiho Nami's "Hea Riki."†
+    # He smears Shiho Nami's "Hea Riki."
 
     ("「わ、わかったよ！」",
     ""),
@@ -426,9 +426,9 @@ text_array = [
     ""),
     # "My name is, I'm fine! I'll attack you anyway."
 
-    ("うなずき№合うと、オレたちは志保を挟み撃ちにした。†",
+    ("うなずき№合うと、オレたちは志保を挟み撃ちにした。",
     ""),
-    # When the nodded and met the No. 1, the two of them caught Shiho and shot him.†
+    # When the nodded and met the No. 1, the two of them caught Shiho and shot him.
 
     ("「ちょちょちょっと！	あんたたち、そんなことしていいと思ってんのぉ！？」",
     ""),
@@ -438,9 +438,9 @@ text_array = [
     ""),
     # "No questions asked! It's a punishment for trying to squeal someone."
 
-    ("「オニ〜っ、アクマ〜〜〜っ！！」†",
+    ("「オニ〜っ、アクマ〜〜〜っ！！」",
     ""),
-    # "Oh, ahhhhh!" †
+    # "Oh, ahhhhh!" 
 
     ("・",
     ""),
@@ -450,13 +450,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("キーンコーンカーンコーン…。†",
+    ("キーンコーンカーンコーン…。",
     ""),
-    # Keen corn khan corn...†
+    # Keen corn khan corn...
 
     ("「ハァ…ハァ…、あ〜しんど」",
     ""),
@@ -474,11 +474,11 @@ text_array = [
     ""),
     # "That's true."
 
-    ("そう言う史は、ごく≠普通に疲齡れてるって感じだ。†",
+    ("そう言う史は、ごく≠普通に疲齡れてるって感じだ。",
     ""),
-    # I'm like that, I feel like I'm just exhausted.†
+    # I'm like that, I feel like I'm just exhausted.
 
-    ("「見て見て、あたし下薗までぐっしょりよ？	いったいどーしてくれんのよ」†",
+    ("「見て見て、あたし下薗までぐっしょりよ？	いったいどーしてくれんのよ」",
     ""),
     # "Look, I'm going to be a slutty slut all over Shimono? What on earth will you not do?"
 
@@ -486,9 +486,9 @@ text_array = [
     ""),
     # "Which one show, let's show you, Shimono."
 
-    ("「バカバカ！	見骭るなドスケベ」†",
+    ("「バカバカ！	見骭るなドスケベ」",
     ""),
-    # "Silly! Don't watch me, slut" †
+    # "Silly! Don't watch me, slut" 
 
     ("「見て欲しいのか欲しくないかハッキリし」",
     ""),
@@ -514,9 +514,9 @@ text_array = [
     ""),
     # I'm talking about it with a blunt face.
 
-    ("こいつはほとんどぬれてない。†",
+    ("こいつはほとんどぬれてない。",
     ""),
-    # This guy is hardly wet.†
+    # This guy is hardly wet.
 
     ("「そう言うあんたはなんでぬれてないのよ？	なに？	丸洗いオッケー？	生衰防？」",
     ""),
@@ -526,7 +526,7 @@ text_array = [
     ""),
     # "Hahaha, it was mostly Shiho's struggle. Thanks to that, I was saved."
 
-    ("「あのなぁ…、オレはお前の分熾も食逅らって、ずぶぬれだぞ？」†",
+    ("「あのなぁ…、オレはお前の分熾も食逅らって、ずぶぬれだぞ？」",
     ""),
     # "Um... I'm soaking wet, you're soaking, right?"
 
@@ -542,9 +542,9 @@ text_array = [
     ""),
     # "Oh, it's a big deal..."
 
-    ("志保のボケに、オレと史はついつい声をあげて笑ってしまう。†",
+    ("志保のボケに、オレと史はついつい声をあげて笑ってしまう。",
     ""),
-    # I and I can't help but laugh at Shiho's idiot.†
+    # I and I can't help but laugh at Shiho's idiot.
 
     ("おかしなノリで珍しいものを持ってきては、みんなを楽しませてくれる。",
     ""),
@@ -558,7 +558,7 @@ text_array = [
     ""),
     # I'm also saying that the mood of a play-only person is "makers"?
 
-    ("そんなことを考えていると、†",
+    ("そんなことを考えていると、",
     ""),
     # When you think about that,
 
@@ -566,7 +566,7 @@ text_array = [
     ""),
     # "It's been a while since I've had a good sweat."
 
-    ("「まあな。オレと志保はだいぶ洗い流されたって感じだけどな」†",
+    ("「まあな。オレと志保はだいぶ洗い流されたって感じだけどな」",
     ""),
     # "Well, I feel like my guts and Shiho have been washed away quite a bit."
 
@@ -594,9 +594,9 @@ text_array = [
     ""),
     # "There's no phlegm in the right place.
 
-    ("一度笂や二度じ痰ゃ元が取齊れないじ痰ゃん」†",
+    ("一度笂や二度じ痰ゃ元が取齊れないじ痰ゃん」",
     ""),
-    # Once or twice, the original phlegm cannot be managed."†
+    # Once or twice, the original phlegm cannot be managed."
 
     ("「けっ。ま、いーけどな。",
     ""),
@@ -618,9 +618,9 @@ text_array = [
     ""),
     # "Oh, I'll catch a cold the next day if I don't change it quickly."
 
-    ("オレはｍ會高げた。†",
+    ("オレはｍ會高げた。",
     ""),
-    # My hard work was a high school student.†
+    # My hard work was a high school student.
 
     ("「待ってよ〜」",
     ""),
@@ -630,7 +630,7 @@ text_array = [
     ""),
     # "Hey Shiho, how long are you going to die?"
 
-    ("「わかってんだけどぉ…。あぁ〜ん、動くと制梵服がベタベタして気搴持ちわる〜い」†",
+    ("「わかってんだけどぉ…。あぁ〜ん、動くと制梵服がベタベタして気搴持ちわる〜い」",
     ""),
     # "I know that... Ahhh, when I move, my Sanskrit uniform gets sticky and I feel like it's so full of energy."
 

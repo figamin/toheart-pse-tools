@@ -2,9 +2,9 @@
 # Source file: 01A3.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ｃ	熊とかどうだ）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（選択綜Ｃ	熊とかどうだ）",
     ""),
-    # (Akari Scales Event: Departing from school) (How about Chosen Soku C Kuma)†
+    # (Akari Scales Event: Departing from school) (How about Chosen Soku C Kuma)
 
     ("「熊とかどうだ？」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Really?"
 
-    ("「テレビでやってたんだ」†",
+    ("「テレビでやってたんだ」",
     ""),
     # "I was tampering with a TV drama"
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # Akari's bear lover is famous (for his inner foil section).
 
-    ("なんでかよくわかんねーけど、くまグッズとかに目がない。†",
+    ("なんでかよくわかんねーけど、くまグッズとかに目がない。",
     ""),
-    # For some reason, I don't really know what it is, but I have no eye on bear merchandise.†
+    # For some reason, I don't really know what it is, but I have no eye on bear merchandise.
 
     ("「きっとかわいいぞー、小ぐま。ぬいぐるみみたいでよ、転がしてやったらｊんだりさ」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "If you put a small piece like a circus into it, you'll remember the artisan too. Every time you succeed in a skill you teach, you do honey or cube sugar sardines. They like sweets."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「赤い首輪とかつけてさ」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Oh, can you keep a bear?"
 
-    ("「…うっ」†",
+    ("「…うっ」",
     ""),
-    # "...Uh" †
+    # "...Uh" 
 
     ("それから、オレとあかりはいいと店燗内の動物を見て回った。◯",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 08C1.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	学校外１）閨（選択綜	やめる）†",
+    ("（レミィ	回秤数イベント	学校外１）閨（選択綜	やめる）",
     ""),
-    # (Game Remy Scales Event, Outside School 1) (Stop Selection)†
+    # (Game Remy Scales Event, Outside School 1) (Stop Selection)
 
     ("…やっぱやめとこ。",
     ""),

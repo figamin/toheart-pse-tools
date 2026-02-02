@@ -2,9 +2,9 @@
 # Source file: 012A.txt
 
 text_array = [
-    ("（ＶＳイベント	琴音ＶＳあかり）閨（あかり好感度２５以繹上	琴音好感度イベント３通過）閨（３桙時間目の休み桙時間）閨（階段付近の廊下）†",
+    ("（ＶＳイベント	琴音ＶＳあかり）閨（あかり好感度２５以繹上	琴音好感度イベント３通過）閨（３桙時間目の休み桙時間）閨（階段付近の廊下）",
     ""),
-    # (VS Event Kotone VS Akari) (Akari likeability level 25 or higher, Kotone likeability level passing 3) (Akari likeability level 3) (Akari time off during the third frame) (A corridor near the stairs) †
+    # (VS Event Kotone VS Akari) (Akari likeability level 25 or higher, Kotone likeability level passing 3) (Akari likeability level 3) (Akari time off during the third frame) (A corridor near the stairs) 
 
     ("３桙時間目の休み桙時間、カフェオレをモ買いに行こうと階段までやってくると、",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Ah, wait."
 
-    ("あかりが呼び止めた。†",
+    ("あかりが呼び止めた。",
     ""),
-    # Akari called out.†
+    # Akari called out.
 
     ("「なんだよ？」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「はい、℃くずがついてたよ」†",
+    ("「はい、℃くずがついてたよ」",
     ""),
-    # "Yes, there was some ℃ litter" †
+    # "Yes, there was some ℃ litter" 
 
     ("「おう、さんきゅ、わりぃな」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "No, you're welcome."
 
-    ("あかりはそう言って教室のほうへと戻っていった。†",
+    ("あかりはそう言って教室のほうへと戻っていった。",
     ""),
-    # Akari said, returning to the classroom.†
+    # Akari said, returning to the classroom.
 
     ("きびすを返し、階段を降闕りようとしたそのとき。",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # Kotone Chisho-chan was in front of me.
 
-    ("どうやら上から降闕りてきたらしい。†",
+    ("どうやら上から降闕りてきたらしい。",
     ""),
-    # Apparently it was starting to fall from above the scene.†
+    # Apparently it was starting to fall from above the scene.
 
     ("「おっす、琴音ち痰ゃん」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # Kotone Chisho-yan responds a small greeting.
 
-    ("最近、学校でもよくうよな。†",
+    ("最近、学校でもよくうよな。",
     ""),
-    # Recently, I've been getting a lot of hot springs at school.†
+    # Recently, I've been getting a lot of hot springs at school.
 
     ("「ちょうど、カフェオレでもモ買いにいこうと思ってたとこなんだ」",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # My geire said, lined up next to Kotone Chisho-chan in a very natural way.
 
-    ("いっしょに階段を降闕りていく。†",
+    ("いっしょに階段を降闕りていく。",
     ""),
-    # We descend the stairs to the nibs.†
+    # We descend the stairs to the nibs.
 
     ("「あの、さん…」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "Akari?"
 
-    ("琴音ち痰ゃんはコクンと小さくうなずいた。†",
+    ("琴音ち痰ゃんはコクンと小さくうなずいた。",
     ""),
-    # Kotone Chisho-chan nodded in a small, slurping light.†
+    # Kotone Chisho-chan nodded in a small, slurping light.
 
     ("「あいつがどうかした？」",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "...Yes... um, sir... you're a great friend with that Fukukata, so is it a slut?"
 
-    ("聞き取骼るのがやっとのささやくような声で、琴音ち痰ゃんがたずねた。†",
+    ("聞き取骼るのがやっとのささやくような声で、琴音ち痰ゃんがたずねた。",
     ""),
-    # Kotone Chisho-yan asked in a whispering voice that was barely tampering with.†
+    # Kotone Chisho-yan asked in a whispering voice that was barely tampering with.
 
     ("「あいつとつき№合ってるかって？」",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # Apparently he's worried about how it's tampered with.
 
-    ("ここは正直な気搴持ちで嘯答えてやるか。†",
+    ("ここは正直な気搴持ちで嘯答えてやるか。",
     ""),
-    # I wonder if I'll answer and tamper with honest thoughts here.†
+    # I wonder if I'll answer and tamper with honest thoughts here.
 
     ("「そうだな。あかりはオレの｢｢」",
     ""),

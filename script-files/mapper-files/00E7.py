@@ -2,9 +2,9 @@
 # Source file: 00E7.txt
 
 text_array = [
-    ("（４月２９冾日	朝）閨（雅史とモ買い物）閨（最近、もてるだ）†",
+    ("（４月２９冾日	朝）閨（雅史とモ買い物）閨（最近、もてるだ）",
     ""),
-    # (April 29th Day, Morning) (Masked with Masked) (Lately, Mote-da b) †
+    # (April 29th Day, Morning) (Masked with Masked) (Lately, Mote-da b) 
 
     ("「最近、もてるだ？」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Huh? ...What's that, all of a sudden?"
 
-    ("「いや、なんとなく聞きたくてな」†",
+    ("「いや、なんとなく聞きたくてな」",
     ""),
     # "It's a bit of a mess, I just want to hear it."
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "You mean there are quite a few fans?"
 
-    ("「まあ、はは…」†",
+    ("「まあ、はは…」",
     ""),
-    # "Well, haha..."†
+    # "Well, haha..."
 
     ("「目をつけてる子とか、いんのか？」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # I'm a little upset.
 
-    ("おっ、こり痰ゃ脈ありだな。†",
+    ("おっ、こり痰ゃ脈ありだな。",
     ""),
-    # Oh, if you have any stiff phlegm, there's a chance.†
+    # Oh, if you have any stiff phlegm, there's a chance.
 
     ("「なんだよ、言えよ」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # My hardcore thrusts into the banquet, and thrusts with my elbow.
 
-    ("「ま、まあ、そり痰ゃ、ちょっと気になる鰍相闡手ぐらいいるけど…」†",
+    ("「ま、まあ、そり痰ゃ、ちょっと気になる鰍相闡手ぐらいいるけど…」",
     ""),
     # "Well, well, there are so many monkeys that I'm curious about, though..."
 
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "What, teach me, b, come on."
 
-    ("「ははは、まいったなァ…」†",
+    ("「ははは、まいったなァ…」",
     ""),
     # "Haha, I'm in trouble..."
 

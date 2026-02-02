@@ -2,9 +2,9 @@
 # Source file: 01AD.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	いっしょに帰驪る）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ａ	いっしょに帰驪る）",
     ""),
-    # (Akari Scales Event: Out of School) (A Return to the Episode)†
+    # (Akari Scales Event: Out of School) (A Return to the Episode)
 
     ("「じ痰ゃあ、いっしょに帰驪るか」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Yeah."
 
-    ("あかりは嬉しそうにうなずいた。†",
+    ("あかりは嬉しそうにうなずいた。",
     ""),
-    # Akari nodded happily.†
+    # Akari nodded happily.
 
     ("ちょっと大回濶りして、商店街を歩いているときのことだ。",
     ""),
@@ -34,17 +34,17 @@ text_array = [
     ""),
     # "Ah, I want this!"
 
-    ("いきなりあかりがそう言って立ち止まった。†",
+    ("いきなりあかりがそう言って立ち止まった。",
     ""),
-    # Akari suddenly said, stopping.†
+    # Akari suddenly said, stopping.
 
     ("「なんだよ、やぶから棒に。げ、これか？」",
     ""),
     # "What is it, you can use it as a stick, right?!"
 
-    ("見骭ると、街頭藷ワゴンであやしいぬいぐるみのセールをやっている。†",
+    ("見骭ると、街頭藷ワゴンであやしいぬいぐるみのセールをやっている。",
     ""),
-    # When I looked, I saw that they were selling silly stuffed animals on street wagons.†
+    # When I looked, I saw that they were selling silly stuffed animals on street wagons.
 
     ("「うん。これ、クマチャウだって！」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "...They're so excited, grasshoppers are so phlegmy, stop b, stop b.
 
-    ("大人気とか曹書いてあるぜ、ウソつけっての」†",
+    ("大人気とか曹書いてあるぜ、ウソつけっての」",
     ""),
-    # It says that it's very popular, so lies."†
+    # It says that it's very popular, so lies."
 
     ("「う〜ん、１５００円か…。",
     ""),
@@ -78,15 +78,15 @@ text_array = [
     ""),
     # "I guess so?"
 
-    ("あかりはクマチャウをひとつ、潤ワゴンから抱くようにして持ち上げた。†",
+    ("あかりはクマチャウをひとつ、潤ワゴンから抱くようにして持ち上げた。",
     ""),
-    # Akari held one Kuma Chau out of the Jun Wagon and held it up.†
+    # Akari held one Kuma Chau out of the Jun Wagon and held it up.
 
     ("「この目のうつさかげんとか、轣顔つきとか、ほかにはない魅力を感じるよ！」",
     ""),
     # "I feel a unique charm, like my eyes and my face being depressed!"
 
-    ("「…お前、かわいいとか、そういうことじ痰ゃなくて、単に個性的なものにひかれてんじ痰ゃねーの？」†",
+    ("「…お前、かわいいとか、そういうことじ痰ゃなくて、単に個性的なものにひかれてんじ痰ゃねーの？」",
     ""),
     # "...You don't have to be phlegm like that, you're just being hit with a unique hot thing?"
 

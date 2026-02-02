@@ -2,9 +2,9 @@
 # Source file: 088A.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	２階２）閨（選択綜	声をかける）†",
+    ("（レミィ	回秤数イベント	２階２）閨（選択綜	声をかける）",
     ""),
-    # (Game Remie, 2nd floor 2) (Choose a call)†
+    # (Game Remie, 2nd floor 2) (Choose a call)
 
     ("「ヘィ！	レミィ」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Wb≠at? ...Ah."
 
-    ("「いようっ。いまから帰んのか？」†",
+    ("「いようっ。いまから帰んのか？」",
     ""),
     # "I'll be here. Are you going home now?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Can I ask?"
 
-    ("「なにを聞きたいかによるけどな。とにかく言ってみよ」†",
+    ("「なにを聞きたいかによるけどな。とにかく言ってみよ」",
     ""),
     # "It depends on what you want to ask. Just say it b."
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # ...What exactly are you listening to?
 
-    ("女が男に『どう思ってる？』なんて聞く意味は、冝日本では一つしかないよな…。†",
+    ("女が男に『どう思ってる？』なんて聞く意味は、冝日本では一つしかないよな…。",
     ""),
-    # The bather told the man, "What do you think?There is only one meaning in Japan that says ".†
+    # The bather told the man, "What do you think?There is only one meaning in Japan that says ".
 
     ("オレの嘯答えは｢｢。",
     ""),

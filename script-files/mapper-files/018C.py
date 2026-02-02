@@ -2,9 +2,9 @@
 # Source file: 018C.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	帰闍り道）閨（選択綜Ｃ	考えとくよ）†",
+    ("（あかり	回秤数イベント	帰闍り道）閨（選択綜Ｃ	考えとくよ）",
     ""),
-    # (Akari Scales Event Returning Road) (Choice C I'll think about it)†
+    # (Akari Scales Event Returning Road) (Choice C I'll think about it)
 
     ("「考えとくよ」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "The delicious bento sake is also delicious."
 
-    ("どうやらあかりはかなり行きたいらしい。†",
+    ("どうやらあかりはかなり行きたいらしい。",
     ""),
-    # Apparently, it seems that he wants to go to Doujin and Akari quite a bit.†
+    # Apparently, it seems that he wants to go to Doujin and Akari quite a bit.
 
     ("オレは…というと、どっちでもいい。",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # I was in trouble last year, but isn't it bad that the rise in so much so many times a year?
 
-    ("みんなの恒瘢例行枕事だしな。†",
+    ("みんなの恒瘢例行枕事だしな。",
     ""),
-    # It's a pillowy thing for everyone to do with constant scarring.†
+    # It's a pillowy thing for everyone to do with constant scarring.
 
     ("「春休みまでにはｌめとくよ」",
     ""),

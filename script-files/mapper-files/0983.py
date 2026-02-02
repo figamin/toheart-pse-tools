@@ -2,9 +2,9 @@
 # Source file: 0983.txt
 
 text_array = [
-    ("（雅史回秤数イベント	３／１０	１階）閨（下駄箱）†",
+    ("（雅史回秤数イベント	３／１０	１階）閨（下駄箱）",
     ""),
-    # (Male History Scale Event 3/10, 1st floor) (Shoe cabinet)†
+    # (Male History Scale Event 3/10, 1st floor) (Shoe cabinet)
 
     ("下駄箱で史を見かけた。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Sato-kun the next day @"
 
-    ("という甘い声が聞こえ、三人の翌女生徒たちが史を取り囲んだ。†",
+    ("という甘い声が聞こえ、三人の翌女生徒たちが史を取り囲んだ。",
     ""),
-    # A sweet voice was heard, and the three female students gathered around I-Shin.†
+    # A sweet voice was heard, and the three female students gathered around I-Shin.
 
     ("「なにか用？」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Hey, Sato-kun. On the next Sunday, don't you go to the banquet with us?"
 
-    ("と、女生徒Ａ。†",
+    ("と、女生徒Ａ。",
     ""),
-    # And bathing student A.†
+    # And bathing student A.
 
     ("「行こうよ、行こ〜諱よぉ」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "It's open on Sunday, right?"
 
-    ("と、女生徒Ｃが聞く。†",
+    ("と、女生徒Ｃが聞く。",
     ""),
-    # Bathing student C asked.†
+    # Bathing student C asked.
 
     ("「でも、氈次の冾日曜坥日はテストの真っ最穀じ痰ゃなかったっけ？」",
     ""),
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "oh yeah"
 
-    ("「佐藤くんなら、そんなに根をつめなくても大苟丈夫でしょ？」†",
+    ("「佐藤くんなら、そんなに根をつめなくても大苟丈夫でしょ？」",
     ""),
     # "If it were Sato-kun, he doesn't get too much roots and the hot springs are strong, so is he still strong?"
 
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # Male history is trying to break down without any polishing.
 
-    ("だが、女生徒たちは、そう簡単に逃がしてはくれない。†",
+    ("だが、女生徒たちは、そう簡単に逃がしてはくれない。",
     ""),
-    # However, the bathing students don't let them get away that easily.†
+    # However, the bathing students don't let them get away that easily.
 
     ("「ねえ、行こうよ」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "I have discounted flies tickets up to that date."
 
-    ("しつこく史に食い下がる。†",
+    ("しつこく史に食い下がる。",
     ""),
-    # He persistently eats down I history.†
+    # He persistently eats down I history.
 
     ("「悪いけど、やっぱりその冾日は勉強するよ。だから、また今度…」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # The three of them begin to consult with Kaji.
 
-    ("雅史の都∮合はそっちのけだ。†",
+    ("雅史の都∮合はそっちのけだ。",
     ""),
-    # That's the only place for the city of history.†
+    # That's the only place for the city of history.
 
     ("「近いうちに絶対つきあうからさ」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # A promise
 
-    ("「うん。じ痰ゃ、ごめん、急ぐから」†",
+    ("「うん。じ痰ゃ、ごめん、急ぐから」",
     ""),
-    # "Yeah. I'm sorry, I'm hurry."†
+    # "Yeah. I'm sorry, I'm hurry."
 
     ("ぎこちなく笑って言うと、雅史は、女生徒たちから逃げるように去っていく。",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "She's got a phlegm~~bath @"
 
-    ("閨手を振髏る翌女生徒三人。†",
+    ("閨手を振髏る翌女生徒三人。",
     ""),
-    # Three female students waving their hands and roaring.†
+    # Three female students waving their hands and roaring.
 
     ("「あ。おい、雅｢｢」",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 046C.txt
 
 text_array = [
-    ("（志保	追加イベント３	帰闍り道）閨（選択綜	やだね）†",
+    ("（志保	追加イベント３	帰闍り道）閨（選択綜	やだね）",
     ""),
-    # (Shiho Additional Event 3 Return Road) (Shocking Sou) †
+    # (Shiho Additional Event 3 Return Road) (Shocking Sou) 
 
     ("「やだね」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Can I be stolen?"
 
-    ("「せっかく探してたのに〜」†",
+    ("「せっかく探してたのに〜」",
     ""),
     # "I was looking for it..."
 

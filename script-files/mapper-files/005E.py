@@ -2,17 +2,17 @@
 # Source file: 005E.txt
 
 text_array = [
-    ("４／１５（火）†",
+    ("４／１５（火）",
     ""),
-    # 4/15 (Tue)†
+    # 4/15 (Tue)
 
     ("授業が終尞わり、生徒の数熕もまばらになった教室。",
     ""),
     # The classroom has finished and students are becoming sparsely populated.
 
-    ("オレもさっさと帰闍りますか。†",
+    ("オレもさっさと帰闍りますか。",
     ""),
-    # Will I be able to go back quickly to my stolen experience?†
+    # Will I be able to go back quickly to my stolen experience?
 
     ("廊下を歩きながら、外の景色をながめる。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # You can see a random, hazy view from the far away Tang Dynasty.
 
-    ("屋繪上にはかなわないが、ここからでもそれなりに気分がいい。†",
+    ("屋繪上にはかなわないが、ここからでもそれなりに気分がいい。",
     ""),
-    # There's no sign of the house above, but from here onwards, the hot springs also feel quite good.†
+    # There's no sign of the house above, but from here onwards, the hot springs also feel quite good.
 
     ("下駄箱。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # Is there a huge letter of love for the dam...?
 
-    ("残念。†",
+    ("残念。",
     ""),
-    # disappointing.†
+    # disappointing.
 
     ("＊淫俣桒棟肛盾濶ｺ濶りしてる坂道。",
     ""),
@@ -46,13 +46,13 @@ text_array = [
     ""),
     # I wonder if my feet are being given high heat at all?
 
-    ("下濶りはスケボーで、ガーッと駆け抜けるのも気搴持ちよさそうだ。†",
+    ("下濶りはスケボーで、ガーッと駆け抜けるのも気搴持ちよさそうだ。",
     ""),
-    # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.†
+    # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.
 
-    ("４月１５冾日の夜。†",
+    ("４月１５冾日の夜。",
     ""),
-    # The night of the 15th day of the 4th day of the 15th day of the 4th month.†
+    # The night of the 15th day of the 4th day of the 15th day of the 4th month.
 
     ("ガラガラ…。",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # Gooooo...
 
-    ("そんな音が聞こえた。†",
+    ("そんな音が聞こえた。",
     ""),
-    # I heard that sound.†
+    # I heard that sound.
 
     ("見骭ると、驕夜空にぽつんと赤い光があった。",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # In fact, it was a UFO, and it looked like the boar was white.
 
-    ("バカくさ、志保じ痰ゃあるまいし。†",
+    ("バカくさ、志保じ痰ゃあるまいし。",
     ""),
-    # Idiot, Shiho's phlegm is not there.†
+    # Idiot, Shiho's phlegm is not there.
 
     ("オレは光が見えなくなるまで、ぼんやりと目で追いかけた。",
     ""),

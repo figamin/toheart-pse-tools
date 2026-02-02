@@ -2,25 +2,25 @@
 # Source file: 0598.txt
 
 text_array = [
-    ("（葵	回秤数イベント７）†",
+    ("（葵	回秤数イベント７）",
     ""),
-    # (Aoi Scales Event 7)†
+    # (Aoi Scales Event 7)
 
     ("諱よーしっ！",
     ""),
     # Okay, my name!
 
-    ("今厓日燗も葵ち痰ゃんとクラブで練習だ。†",
+    ("今厓日燗も葵ち痰ゃんとクラブで練習だ。",
     ""),
-    # Right now, I'm practicing fortune with Aoi Chisho-chan and a banquet.†
+    # Right now, I'm practicing fortune with Aoi Chisho-chan and a banquet.
 
     ("坂下との一処件以来、葵ち痰ゃんの練習はよりいっそうモしさを増した。",
     ""),
     # Since the incident with Aoi Sakashita, Aoi Chisho-chan's fortune practice has become even more intense.
 
-    ("禔練習を始めてから一心不枢乱にサンドバッグを打ち続けている。†",
+    ("禔練習を始めてから一心不枢乱にサンドバッグを打ち続けている。",
     ""),
-    # Since starting Yu's practice, he has been playing punching bags in a steady manner.†
+    # Since starting Yu's practice, he has been playing punching bags in a steady manner.
 
     ("ずばあーんっ！",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # The reverberating Otohin also has a different approach to the previous one, and the way he fortunes is different.
 
-    ("サンドバッグが大きく左右に揺齬れるたび、チェーンがきしみ、吊髓るした枝がぎしぎしと悲鳴を上げている。†",
+    ("サンドバッグが大きく左右に揺齬れるたび、チェーンがきしみ、吊髓るした枝がぎしぎしと悲鳴を上げている。",
     ""),
-    # Every time the punching bag sways from side to side, the chain creaks, and the hanging branches squeal and screams.†
+    # Every time the punching bag sways from side to side, the chain creaks, and the hanging branches squeal and screams.
 
     ("「はあ、はあ…」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # Aoi Chisho-chan wipes the sweat from her forehead with the back of her hand.
 
-    ("わずかに休憩をとったのも束の間、すぐにまた、サンドバッグへｌかおうとする。†",
+    ("わずかに休憩をとったのも束の間、すぐにまた、サンドバッグへｌかおうとする。",
     ""),
-    # After taking a short break, the hot spring was shortened, and immediately tried to go back to the punching bag.†
+    # After taking a short break, the hot spring was shortened, and immediately tried to go back to the punching bag.
 
     ("「なあ、葵ち痰ゃん」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # The lion still hadn't fallen, and Aoi Chisho-chan shook back.
 
-    ("「もう少しペースを考えたほうがいいんじ痰ゃないか？	いまからそんなに気焔負ってると、本番前に体を壊しかねないぜ」†",
+    ("「もう少しペースを考えたほうがいいんじ痰ゃないか？	いまからそんなに気焔負ってると、本番前に体を壊しかねないぜ」",
     ""),
-    # "You should think a little more about the pace, isn't there any phlegm? If you're so jealous now, you could end up ruining your body before the show." †
+    # "You should think a little more about the pace, isn't there any phlegm? If you're so jealous now, you could end up ruining your body before the show." 
 
     ("葵ち痰ゃんはうなずくと、ぎこちなく笑ってこたえた。",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "It's true that your senior said, but will you let me do what I want for a while? Why can't you stay still?"
 
-    ("「葵ち痰ゃん…」†",
+    ("「葵ち痰ゃん…」",
     ""),
     # "Aoi Chishonan..."
 
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "Sorry, I'm always saying that you're selfish. You're worried about me, and I'm happy too."
 
-    ("そう言うと、葵ち痰ゃんは再びハードな練習に取り組み始めた。†",
+    ("そう言うと、葵ち痰ゃんは再びハードな練習に取り組み始めた。",
     ""),
-    # With that in mind, Aoi Chisho-yan began to practice hard fortune again.†
+    # With that in mind, Aoi Chisho-yan began to practice hard fortune again.
 
     ("はあ、こり痰ゃしょうがねぇな。",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # I'm worried about this, but it seems that it's better to let Aoi Chisho-yan do whatever he likes for a while.
 
-    ("だったら、オレはオレで葵ち痰ゃんのためになにかしてやるか。†",
+    ("だったら、オレはオレで葵ち痰ゃんのためになにかしてやるか。",
     ""),
-    # If that's the case, I'll do something to tamper with Aoi Chisho-chan.†
+    # If that's the case, I'll do something to tamper with Aoi Chisho-chan.
 
     ("そうだな…。",
     ""),

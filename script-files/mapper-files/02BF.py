@@ -2,9 +2,9 @@
 # Source file: 02BF.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｂ	「あ、ＵＦＯ！」）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｂ	「あ、ＵＦＯ！」）",
     ""),
-    # (Seri° Kaori, Scales Event, Return Road, LV2)Seri (Selection B "Ah, UFO!")†
+    # (Seri° Kaori, Scales Event, Return Road, LV2)Seri (Selection B "Ah, UFO!")
 
     ("梶相闡手は年寄闃りだ。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Ah, UFO!"
 
-    ("「なにっ！？」†",
+    ("「なにっ！？」",
     ""),
-    # "What!?"†
+    # "What!?"
 
     ("「チャャーーーーンスッ！」",
     ""),
@@ -34,17 +34,17 @@ text_array = [
     ""),
     # Taking advantage of that gap, I let my old man pass through the side of the old man.
 
-    ("が！†",
+    ("が！",
     ""),
-    # but!†
+    # but!
 
     ("「とうああああああああぁぁぁぁぁ〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ッ！！」",
     ""),
     # "Aaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
-    ("じじいは横っ飛びのジャャンプでそれを遮骼る。†",
+    ("じじいは横っ飛びのジャャンプでそれを遮骼る。",
     ""),
-    # The old man cuts it off with a side-flying jampu.†
+    # The old man cuts it off with a side-flying jampu.
 
     ("「じ、じじいっ！」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "I don't understand any kind of strategy!"
 
-    ("じじいはあごだけを動かして、ふわっはっはっはっと笑った。†",
+    ("じじいはあごだけを動かして、ふわっはっはっはっと笑った。",
     ""),
-    # The old man moved only his chin and laughed at him.†
+    # The old man moved only his chin and laughed at him.
 
     ("「くっそ〜っ、ムカつくジジイだぜぇ〜〜…」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "Give up, go home quietly, boy!"
 
-    ("ちっくしょう〜〜っ、腹立つぅ〜〜〜っ！†",
+    ("ちっくしょう〜〜っ、腹立つぅ〜〜〜っ！",
     ""),
-    # A little slut, I'm so angry!†
+    # A little slut, I'm so angry!
 
     ("そのとき、表の宸騒ぎを聞きつけて、諱先輩が店のｒから顔を出した。",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Ah, Senpai I'm here! I'm super exciting, I'm super exciting!"
 
-    ("閨手を振髏るオレに気が付き、諱先輩は真っ直ぐこっちへと歩いてきた。†",
+    ("閨手を振髏るオレに気が付き、諱先輩は真っ直ぐこっちへと歩いてきた。",
     ""),
-    # I noticed my gesture waving my hand, and Senpai Kou started walking straight up here.†
+    # I noticed my gesture waving my hand, and Senpai Kou started walking straight up here.
 
     ("「………」",
     "…"),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # You're going to get mad to tell your senior?
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「とにかく、諱先輩、こっちへおいで！」",
     ""),
@@ -122,8 +122,8 @@ text_array = [
     ""),
     # Senpai nodded and tried to get closer to me.
 
-    ("だが｢｢。†",
+    ("だが｢｢。",
     ""),
-    # But ".†
+    # But ".
 
 ]

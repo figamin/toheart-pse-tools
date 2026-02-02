@@ -2,9 +2,9 @@
 # Source file: 00E3.txt
 
 text_array = [
-    ("（３月２３冾日	昼）閨（散髪に行く）†",
+    ("（３月２３冾日	昼）閨（散髪に行く）",
     ""),
-    # (3rd 23rd day of the year) (Go for a haircut) †
+    # (3rd 23rd day of the year) (Go for a haircut) 
 
     ("そういや、ちょっと髪が伸びてきたな。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Finished haircut.
 
-    ("店を出て、ショーウィンドウに映驩る自分を見た。†",
+    ("店を出て、ショーウィンドウに映驩る自分を見た。",
     ""),
-    # I left the store and saw myself appearing in the window.†
+    # I left the store and saw myself appearing in the window.
 
     ("う〜ん。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # Certainly, I asked for the chrysanthemum to not make it too short, but I don't even know if it was cut or not.
 
-    ("もう少しバッサリ窿やり痰ゃよかったか。†",
+    ("もう少しバッサリ窿やり痰ゃよかったか。",
     ""),
-    # Should I have done a little more phlegm?†
+    # Should I have done a little more phlegm?
 
     ("「あっ、ち痰ゃん」",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "My name is."
 
-    ("「あれ？	髪切った？」†",
+    ("「あれ？	髪切った？」",
     ""),
     # "Huh? Did you cut your hair?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "I know. I always see the hot springs."
 
-    ("「まあな、そうかもな」†",
+    ("「まあな、そうかもな」",
     ""),
     # "Well, I see, it's hot too."
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "...Is it the end of the day?"
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「っつーか、全然変﨑わってねーからな」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "If you look at it from the side or the aftermath of the attack, you can see it."
 
-    ("ジ鴻ロジ鴻ロ見骭るあかり。†",
+    ("ジ鴻ロジ鴻ロ見骭るあかり。",
     ""),
-    # Akari looks forward to seeing him.†
+    # Akari looks forward to seeing him.
 
     ("「ジ鴻ロジ鴻ロ見骭るな」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("なんかムカッときた。†",
+    ("なんかムカッときた。",
     ""),
-    # I was somehow annoyed.†
+    # I was somehow annoyed.
 
     ("今度はオレがあかりの背續後に回濶り桙込んで、ジ鴻ロジ鴻ロ見てやった。",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # Yeah...
 
-    ("「ち痰ゃん…？」†",
+    ("「ち痰ゃん…？」",
     ""),
-    # "Are you sputum..." †
+    # "Are you sputum..." 
 
     ("じーっ…。",
     ""),
@@ -158,7 +158,7 @@ text_array = [
     ""),
     # "Well, well..."
 
-    ("「だったらお前熨も人の凾嫌がることはするな」†",
+    ("「だったらお前熨も人の凾嫌がることはするな」",
     ""),
     # "Then, you don't want to let other people down."
 

@@ -2,7 +2,7 @@
 # Source file: 00A7.txt
 
 text_array = [
-    ("（３月１３冾日	朝）閨（自分の部屋）†",
+    ("（３月１３冾日	朝）閨（自分の部屋）",
     ""),
     # (Morning of the 13th day of the 3rd month) (morning of my room)
 
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's nice weather outside.
 
-    ("諱よしっ、今厓日燗も気㈲合い入齠れて行くぜ。†",
+    ("諱よしっ、今厓日燗も気㈲合い入齠れて行くぜ。",
     ""),
-    # Okay, I'm going to start to feel the excitement of the sun now.†
+    # Okay, I'm going to start to feel the excitement of the sun now.
 
     ("坂の途湯で、あかりが、ふあ〜っと大きなあくびをした。",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What? Ah, it's a yawn."
 
-    ("「あっ、艨ゆ、艨ゆうべ遅くまで、テストの勉強してたから…」†",
+    ("「あっ、艨ゆ、艨ゆうべ遅くまで、テストの勉強してたから…」",
     ""),
     # "Ah, I was studying for the test late, because I was studying for the test..."
 
@@ -46,8 +46,8 @@ text_array = [
     ""),
     # "Well, it's a little bit."
 
-    ("オレは苦笑して嘯答えをにごした。†",
+    ("オレは苦笑して嘯答えをにごした。",
     ""),
-    # I smiled wryly and gave my answer.†
+    # I smiled wryly and gave my answer.
 
 ]

@@ -2,9 +2,9 @@
 # Source file: 0036.txt
 
 text_array = [
-    ("３／６（木）†",
+    ("３／６（木）",
     ""),
-    # 3/6 (Thu)†
+    # 3/6 (Thu)
 
     ("本坙日の全課程終了。",
     ""),
@@ -14,25 +14,25 @@ text_array = [
     ""),
     # It's a free time that's been tampered with.
 
-    ("その途端に元気になるオレって、やっぱり将女謂翌Aフターファイブ型なのかね。†",
+    ("その途端に元気になるオレって、やっぱり将女謂翌Aフターファイブ型なのかね。",
     ""),
-    # I'm so excited that I feel the same way as I did, and I guess I guess the owner, so I guess I'm the so-called A-Five type.†
+    # I'm so excited that I feel the same way as I did, and I guess I guess the owner, so I guess I'm the so-called A-Five type.
 
     ("廊下を通って、階段前までやってｗた。",
     ""),
     # I went through the hallway and ended up tampering with it all the way to the front of the stairs lol.
 
-    ("＝早く帰うか。†",
+    ("＝早く帰うか。",
     ""),
-    # =Shall I come back soon?†
+    # =Shall I come back soon?
 
     ("廊下を通って、下駄箱までやってきた。",
     ""),
     # He went through the hallway and even the shoe cabinet.
 
-    ("諱先生とすれ痰違い、だらだらした態度を高注意された。†",
+    ("諱先生とすれ痰違い、だらだらした態度を高注意された。",
     ""),
-    # He was heavily warned about his lack of phlegm and his lazy attitude, as he was disparaged.†
+    # He was heavily warned about his lack of phlegm and his lazy attitude, as he was disparaged.
 
     ("学校を出て、坂道を歩く。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # Isn't there?
 
-    ("いいや、ひとりで帰。†",
+    ("いいや、ひとりで帰。",
     ""),
-    # I'm going to go back on my own.†
+    # I'm going to go back on my own.
 
     ("３月６冾日の夜。",
     ""),

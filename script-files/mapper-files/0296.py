@@ -2,9 +2,9 @@
 # Source file: 0296.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	丸まって転がったｎについて）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	丸まって転がったｎについて）",
     ""),
-    # (Seri° Kaori, Scales, 2F, LV3)Seri (About n that rolled up and rolled)†
+    # (Seri° Kaori, Scales, 2F, LV3)Seri (About n that rolled up and rolled)
 
     ("オレは、机のすみっこで丸まって転がっていたｎを広げて聞いた。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Everyone is brushed.
 
-    ("和紙でできてて、ずいぶんと古そうだ。†",
+    ("和紙でできてて、ずいぶんと古そうだ。",
     ""),
-    # It is made of Japanese paper and looks quite old.†
+    # It is made of Japanese paper and looks quite old.
 
     ("「これ、コックリさんじ痰ゃねーの？」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # Elementary school student B, the girls who often went to the end of the holiday were off and they were doing silly after the school breaks and the school was sulking.
 
-    ("コックリさんという、キツネだったかなんだかのｗを呼び出して、お垂告げしてもらおうという一種の占いゲームだ。†",
+    ("コックリさんという、キツネだったかなんだかのｗを呼び出して、お垂告げしてもらおうという一種の占いゲームだ。",
     ""),
-    # It's a fortune-telling game called Kokugatari, where you can call out to someone who's a fox or something, and tell them to him and get him a hot topic.†
+    # It's a fortune-telling game called Kokugatari, where you can call out to someone who's a fox or something, and tell them to him and get him a hot topic.
 
     ("「………」",
     "…"),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Yes, shall we give it a try?"
 
-    ("諱先輩とだったらやってみたいよな。†",
+    ("諱先輩とだったらやってみたいよな。",
     ""),
-    # If it were you with your senior name, I would like to try tampering with you.†
+    # If it were you with your senior name, I would like to try tampering with you.
 
     ("用意したのはさっきのｎと、п割闃りばし三本をク鴻ロスさせたようなもの。",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # The girls from elementary school, the following day, were using five yen coins, but apparently they would use this here.
 
-    ("まあ、いんなやりかたがあるんだう。†",
+    ("まあ、いんなやりかたがあるんだう。",
     ""),
-    # Well, there's a way to tamper with it.†
+    # Well, there's a way to tamper with it.
 
     ("諱先輩は、北喧東（つまり鬼蜍門の方角）の窓を１０センチほど開けた。",
     ""),
@@ -90,17 +90,17 @@ text_array = [
     ""),
     # You'll probably be able to enter from there.
 
-    ("そよそよと翌風が入ってきて、部屋の暗笈幕がぱたぱた揺齬れた。†",
+    ("そよそよと翌風が入ってきて、部屋の暗笈幕がぱたぱた揺齬れた。",
     ""),
-    # The next breeze came in, and the dark curtains in the room shaking in shaking.†
+    # The next breeze came in, and the dark curtains in the room shaking in shaking.
 
     ("ひととおり準備が終尞わると、オレと先輩は机をはさんでｌかい№合って座闕り、瘁例の三本のр割闃りばしを持って手を握った。",
     ""),
     # Once all the preparations were complete, my senior and I sat down at my desk, and held my hand with three slashes of twilight.
 
-    ("諱先輩の手は細く、スベスベしていた。†",
+    ("諱先輩の手は細く、スベスベしていた。",
     ""),
-    # Senpai's hands were thin and smooth.†
+    # Senpai's hands were thin and smooth.
 
     ("オレは『さにわ』というコックリさんへの質竡問役、諱先輩は『みこ』役で、コックリさんは先輩にのりうつるらしい。",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # Apparently there is another recorder for the Honpo, but it seems that the hot splash and hot splash are also good.
 
-    ("そして、いよいよ儀式が始まった。†",
+    ("そして、いよいよ儀式が始まった。",
     ""),
-    # And finally the ceremony began.†
+    # And finally the ceremony began.
 
     ("「え〜っと、コックリさん、コックリさん、おいでくださいませ」",
     ""),
@@ -122,17 +122,17 @@ text_array = [
     ""),
     # My senior and I began to pray.
 
-    ("＝普通ならとてもマジにはできないことも、この部室の雰囲気と、きわめて真武剣な先輩の表﨣情を見ていると、ついついその気になってくる。†",
+    ("＝普通ならとてもマジにはできないことも、この部室の雰囲気と、きわめて真武剣な先輩の表﨣情を見ていると、ついついその気になってくる。",
     ""),
-    # = Normally, even Hou could not really be a real deal, but as I watched the atmosphere of this club room and the public feelings of the extremely Shinbu Senpai Senpai, I couldn't help but feel that way.†
+    # = Normally, even Hou could not really be a real deal, but as I watched the atmosphere of this club room and the public feelings of the extremely Shinbu Senpai Senpai, I couldn't help but feel that way.
 
     ("「コックリさん、コックリさん…」",
     ""),
     # "Kokkarari-san, Kokkarari-san..."
 
-    ("何度かやっていると…。†",
+    ("何度かやっていると…。",
     ""),
-    # After tampering with it several times...†
+    # After tampering with it several times...
 
     ("ひゅーーー…。",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("まあ、たしかにキツネっぽいけど。†",
+    ("まあ、たしかにキツネっぽいけど。",
     ""),
-    # Well, it certainly looks like a fox.†
+    # Well, it certainly looks like a fox.
 
     ("「あのー…、コックリさんですか？」",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # The trembling throbbing that had been holding began to move.
 
-    ("そして『はい』のとこで止まる。†",
+    ("そして『はい』のとこで止まる。",
     ""),
-    # Then it stops at "yes."†
+    # Then it stops at "yes."
 
     ("「いま動かしてるの、諱先輩じ痰ゃないの？」",
     ""),
@@ -190,17 +190,17 @@ text_array = [
     ""),
     # And then it stops with "no."
 
-    ("嘘くせ〜。†",
+    ("嘘くせ〜。",
     ""),
-    # It's a lie.†
+    # It's a lie.
 
     ("そういや、さっき先輩が、まずはどこからいらしたコックリ様かたずねてください、と言ってたな。",
     ""),
     # Speaking of which, my senior said earlier, "Please ask me where did you come from?"
 
-    ("諱よし。†",
+    ("諱よし。",
     ""),
-    # I'm fine with that.†
+    # I'm fine with that.
 
     ("「コックリさんは、今厓日はどちらから？」",
     ""),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # But...
 
-    ("お、動いた。†",
+    ("お、動いた。",
     ""),
-    # Oh, it moved.†
+    # Oh, it moved.
 
     ("さ。",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # cormorant.
 
-    ("≠。†",
+    ("≠。",
     ""),
-    # ≠.†
+    # ≠.
 
     ("「おお、サンパウ鴻ロから？	しかしそのわりには冾日本齧語がわかるんですね」",
     ""),
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # But...
 
-    ("また動いたぞ。†",
+    ("また動いたぞ。",
     ""),
-    # It moved again.†
+    # It moved again.
 
     ("ぎ。",
     ""),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # It's a slut.
 
-    ("ぐ。†",
+    ("ぐ。",
     ""),
-    # ingredient.†
+    # ingredient.
 
     ("「ぎやぐ？	あ、ギャャグ？	サンパウ鴻ロってのはギャャグですか？」",
     ""),
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # "From the first shot, Gyagu is a playful cock, Katali."
 
-    ("はい。†",
+    ("はい。",
     ""),
-    # yes.†
+    # yes.
 
     ("「………」",
     "…"),
@@ -294,9 +294,9 @@ text_array = [
     ""),
     # "Cook Gatali-san?"
 
-    ("はい。†",
+    ("はい。",
     ""),
-    # yes.†
+    # yes.
 
     ("「じ痰ゃあ、キツネなの？」",
     ""),
@@ -314,9 +314,9 @@ text_array = [
     ""),
     # yes.
 
-    ("ますます嘘くせ〜。†",
+    ("ますます嘘くせ〜。",
     ""),
-    # It's becoming more and more lies.†
+    # It's becoming more and more lies.
 
     ("し。",
     ""),
@@ -330,9 +330,9 @@ text_array = [
     ""),
     # too.
 
-    ("ん。†",
+    ("ん。",
     ""),
-    # yeah.†
+    # yeah.
 
     ("「え？	質竡問？」",
     ""),
@@ -342,9 +342,9 @@ text_array = [
     ""),
     # yes.
 
-    ("「質竡問ねえ…。考えてなかったなあ…」†",
+    ("「質竡問ねえ…。考えてなかったなあ…」",
     ""),
-    # "No question about the quality... I didn't think about it..." †
+    # "No question about the quality... I didn't think about it..." 
 
     ("な。",
     ""),
@@ -370,9 +370,9 @@ text_array = [
     ""),
     # stomach.
 
-    ("諱よ。†",
+    ("諱よ。",
     ""),
-    # My name is.†
+    # My name is.
 
     ("「はあ、なんか、気のいいコックリさんだな」",
     ""),
@@ -382,9 +382,9 @@ text_array = [
     ""),
     # Well, it's not going to start without questioning the quality of the game, so I thought of it as Shinbuken.
 
-    ("そうだなあ…。†",
+    ("そうだなあ…。",
     ""),
-    # That's right...†
+    # That's right...
 
     ("「諱よーし。こういうのはどうだ？	オレと先輩は恋人同士になれますか？」",
     ""),
@@ -402,13 +402,13 @@ text_array = [
     ""),
     # and.
 
-    ("おっ…。†",
+    ("おっ…。",
     ""),
-    # Oh...†
+    # Oh...
 
-    ("…はい。†",
+    ("…はい。",
     ""),
-    # …yes.†
+    # …yes.
 
     ("オレは先輩を見た。",
     ""),
@@ -426,17 +426,17 @@ text_array = [
     ""),
     # Is it phlegm your senior moves?
 
-    ("いや、でも、もしそうだとしても、それはそれで嬉しいぞ。†",
+    ("いや、でも、もしそうだとしても、それはそれで嬉しいぞ。",
     ""),
-    # It's a mess, and even if it's the case, it's nice to see it.†
+    # It's a mess, and even if it's the case, it's nice to see it.
 
     ("「…コックリさん、今厓日はどうもありがとうございました。これにてお帰闍りください」",
     ""),
     # "...Kokkatali-san, thank you so much for the day you've just got there. Please come back here."
 
-    ("そして、コックリさんは帰っていった。†",
+    ("そして、コックリさんは帰っていった。",
     ""),
-    # Then Kokkatali left.†
+    # Then Kokkatali left.
 
     ("「諱先輩、さっきの本末当にコックリさんなの？」",
     ""),
@@ -450,9 +450,9 @@ text_array = [
     ""),
     # "We're going to be able to become lovers? What do you think?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「なははは。コックリさんのお垂告げだしな、オレは信じようっと」",
     ""),

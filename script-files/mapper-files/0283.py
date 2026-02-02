@@ -2,9 +2,9 @@
 # Source file: 0283.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ａ	いまはいいや）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ａ	いまはいいや）",
     ""),
-    # (Seri° Kaori, Scales Event 2F LV1)Seri (Select A, it's good now)†
+    # (Seri° Kaori, Scales Event 2F LV1)Seri (Select A, it's good now)
 
     ("「悪いけど、いまはいいや」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # I decided to stop my guts.
 
-    ("「とくに占ってもらいたいこともないしさ、それに悪いんだけど、オレ、閨占いとかって、あんまりしないことにしてるんだ」†",
+    ("「とくに占ってもらいたいこともないしさ、それに悪いんだけど、オレ、閨占いとかって、あんまりしないことにしてるんだ」",
     ""),
     # "There's nothing particularly hot about fortune telling, and it's bad, but I'm not really trying to get a fortune telling."
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "What do you mean, if you can't help but think that's enough, you'll feel like you've lost out...Is that the kind of thing that makes you read the punchline of the theory that you're the first to read?"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("諱先輩はゆっくりとカードをしまった。",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え？	男迺らしい意見ですって？	そ〜か？」†",
+    ("「え？	男迺らしい意見ですって？	そ〜か？」",
     ""),
     # "Huh? That's a male-like opinion? Is that so?"
 
@@ -70,9 +70,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩はポッと顔を赤逅らめた。†",
+    ("諱先輩はポッと顔を赤逅らめた。",
     ""),
-    # Senpai suddenly flashed red.†
+    # Senpai suddenly flashed red.
 
     ("「………」",
     "…"),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Huh? You're already back on the day now? Ah, that's right. That's a shame, I made a move lol and got a hot pot. See you later."
 
-    ("諱先輩は黙ってうなずくと、回皷れ右をして、＠た廊下を引き返していった。†",
+    ("諱先輩は黙ってうなずくと、回皷れ右をして、＠た廊下を引き返していった。",
     ""),
-    # Senpai nodded silently, then turned right and turned back down the hallway.†
+    # Senpai nodded silently, then turned right and turned back down the hallway.
 
     ("なんとなく変な先輩。",
     ""),

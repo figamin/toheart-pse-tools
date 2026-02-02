@@ -2,17 +2,17 @@
 # Source file: 0287.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（校門燒内）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（校門燒内）",
     ""),
-    # (Sei°Chuang, Scales Event, Departing from School LV1)Sei (inside the school rim)†
+    # (Sei°Chuang, Scales Event, Departing from School LV1)Sei (inside the school rim)
 
     ("おっ、諱先輩だ。",
     ""),
     # Oh, I'm a senior.
 
-    ("校門の側で、ぼーっとたたずむｗ栖瑞謳先輩を見かけた。†",
+    ("校門の側で、ぼーっとたたずむｗ栖瑞謳先輩を見かけた。",
     ""),
-    # I saw Senpai Suzumi-san standing dazed by the school gates.†
+    # I saw Senpai Suzumi-san standing dazed by the school gates.
 
     ("「諱よっ、諱先輩」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # His long, soft hair and long hair suddenly danced, and I couldn't help but look over him.
 
-    ("本末当に綺淏麗な人だよな。†",
+    ("本末当に綺淏麗な人だよな。",
     ""),
-    # He's such a beautiful person in the end.†
+    # He's such a beautiful person in the end.
 
     ("「諱先輩、これから帰闍り？」",
     ""),

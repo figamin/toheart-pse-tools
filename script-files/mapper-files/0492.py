@@ -2,9 +2,9 @@
 # Source file: 0492.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階２）閨（４／１０固定）閨（廊下２）閨（あかり	立ち）†",
+    ("（志保	回秤数イベント	１階２）閨（４／１０固定）閨（廊下２）閨（あかり	立ち）",
     ""),
-    # (Shiho Scales Event 1st floor 2) Silhouette (4/10th) Silhouette (Corride 2) Silhouette (Red) †
+    # (Shiho Scales Event 1st floor 2) Silhouette (4/10th) Silhouette (Corride 2) Silhouette (Red) 
 
     ("「諱よお」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "With you?"
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("オレの嘯答えは｢｢。",
     ""),

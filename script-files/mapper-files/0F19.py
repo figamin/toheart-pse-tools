@@ -2,9 +2,9 @@
 # Source file: 0F19.txt
 
 text_array = [
-    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	雅史を誘う）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	雅史を誘う）閨（蛛主人公沍勝ち）",
     ""),
-    # (Arcade Battle Cry 3) (Closing ceremony edition) (Choices, Inviting History) (Mr. The protagonist wins) †
+    # (Arcade Battle Cry 3) (Closing ceremony edition) (Choices, Inviting History) (Mr. The protagonist wins) 
 
     ("「まだまだだな、雅史」",
     ""),
@@ -14,15 +14,15 @@ text_array = [
     ""),
     # "Hmm, I wonder if my heart is working hard."
 
-    ("「へへ、お前に頑張迺られたらオレなんかすぐ追い抜かれちまうぜ」†",
+    ("「へへ、お前に頑張迺られたらオレなんかすぐ追い抜かれちまうぜ」",
     ""),
-    # "Hehe, if you try hard, I'll be overtaken quickly." †
+    # "Hehe, if you try hard, I'll be overtaken quickly." 
 
     ("「はは、本末当にそうだったらいいね」",
     ""),
     # "Haha, I hope that's the case right in the end."
 
-    ("「…ったく、マジだっての」†",
+    ("「…ったく、マジだっての」",
     ""),
     # "...That's seriously true"
 

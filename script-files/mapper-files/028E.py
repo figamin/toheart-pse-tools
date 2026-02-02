@@ -2,9 +2,9 @@
 # Source file: 028E.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（選択綜Ａ	それでも声をかけた）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ１）閨（選択綜Ａ	それでも声をかけた）",
     ""),
-    # (Seri°Kawa, the balance event, return road, LV1)Seri (Select Sou A, so he called out to the audience)†
+    # (Seri°Kawa, the balance event, return road, LV1)Seri (Select Sou A, so he called out to the audience)
 
     ("「諱先輩」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # 'I saw this.
 
-    ("「諱先輩、こっちこっち…；」†",
+    ("「諱先輩、こっちこっち…；」",
     ""),
-    # "I'm here, Senpai...;" †
+    # "I'm here, Senpai...;" 
 
     ("「………」",
     "…"),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Yes."
 
-    ("オレが手を上げて微笑むと、諱先輩は小さく頭を下げた。†",
+    ("オレが手を上げて微笑むと、諱先輩は小さく頭を下げた。",
     ""),
-    # My hand raised and smiled, and Senpai bowed his head slightly.†
+    # My hand raised and smiled, and Senpai bowed his head slightly.
 
     ("「偶然だな。こんなとこでうなんて」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("オレは表侮をのぞき桙込んだ。†",
+    ("オレは表侮をのぞき桙込んだ。",
     ""),
-    # I looked at the obvious insults and squealed.†
+    # I looked at the obvious insults and squealed.
 
     ("「…えっと、なになに？」",
     ""),

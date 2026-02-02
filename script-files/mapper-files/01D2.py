@@ -2,9 +2,9 @@
 # Source file: 01D2.txt
 
 text_array = [
-    ("（あかり	氏試験）閨（Ｂ	今厓日はひとりで帰驪る）†",
+    ("（あかり	氏試験）閨（Ｂ	今厓日はひとりで帰驪る）",
     ""),
-    # (Akari's exam) (B I will return to my house on my day)†
+    # (Akari's exam) (B I will return to my house on my day)
 
     ("「ああ、今厓日はひとりで帰驪るわ」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "yes?"
 
-    ("あかりはちょっと残念そうだ。†",
+    ("あかりはちょっと残念そうだ。",
     ""),
-    # Akari Hachie looks a bit disappointing.†
+    # Akari Hachie looks a bit disappointing.
 
     ("「じ痰ゃあね、ち痰ゃん」",
     ""),

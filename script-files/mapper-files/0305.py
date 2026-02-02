@@ -2,9 +2,9 @@
 # Source file: 0305.txt
 
 text_array = [
-    ("（智子	冝日付イベント	１回目	選択繿後Ｂの続き）†",
+    ("（智子	冝日付イベント	１回目	選択繿後Ｂの続き）",
     ""),
-    # (Tomoko's Pilgrim Date Event 1st Time Continued from B after selection)†
+    # (Tomoko's Pilgrim Date Event 1st Time Continued from B after selection)
 
     ("「うーす、っす。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # I'm honestly thinking about self-introduction, so I hope it will be over soon.
 
-    ("この程度で十分だ。†",
+    ("この程度で十分だ。",
     ""),
-    # This is enough.†
+    # This is enough.
 
     ("席に座骰ると、あかりのやつがこっちを見て、『もう、面倒くさがりなんだから』という顔をしていた。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # What is it?
 
-    ("悪かったな、面倒くさがりで。†",
+    ("悪かったな、面倒くさがりで。",
     ""),
-    # That's bad, I'm lazy.†
+    # That's bad, I'm lazy.
 
     ("ん？",
     ""),
@@ -50,8 +50,8 @@ text_array = [
     ""),
     # I guess it was Hoshina's name.
 
-    ("気のせいかな…。†",
+    ("気のせいかな…。",
     ""),
-    # Maybe it's just my imagination...†
+    # Maybe it's just my imagination...
 
 ]

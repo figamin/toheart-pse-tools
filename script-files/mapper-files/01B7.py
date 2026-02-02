@@ -2,9 +2,9 @@
 # Source file: 01B7.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ｃ	犬チックだなあ、と思った）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ｃ	犬チックだなあ、と思った）",
     ""),
-    # (Akari Scales Event 2F) (C I thought it was dog-like)†
+    # (Akari Scales Event 2F) (C I thought it was dog-like)
 
     ("やっぱりあかりって、犬チックだよなあ。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # There's something like that kind of image.
 
-    ("諱よし、ここはひとつ試してみよう。†",
+    ("諱よし、ここはひとつ試してみよう。",
     ""),
-    # Okay, let's try this lion.†
+    # Okay, let's try this lion.
 
     ("「おい、あかり、あかり。ちょっとｗい」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Huh...?"
 
-    ("オレが変なモードに入ったのを敏感に察知して、あかりも警卲戒モードに入體る。†",
+    ("オレが変なモードに入ったのを敏感に察知して、あかりも警卲戒モードに入體る。",
     ""),
-    # Sensitively detects that my gesture has entered a strange B mode, Akari Hot also enters the i-mode of the warning.†
+    # Sensitively detects that my gesture has entered a strange B mode, Akari Hot also enters the i-mode of the warning.
 
     ("「まあまあ、いいからｗいって」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "…Yeah"
 
-    ("艨ゆっくりと目の前にｗ磯翌かり。†",
+    ("艨ゆっくりと目の前にｗ磯翌かり。",
     ""),
-    # I slowly went straight to my eyes lol.†
+    # I slowly went straight to my eyes lol.
 
     ("「お手」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Hand"
 
-    ("「…ち痰ゃん」†",
+    ("「…ち痰ゃん」",
     ""),
-    # "...Choosh" †
+    # "...Choosh" 
 
     ("「お手」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "Okama"
 
-    ("オレが言うと、あかりは仕緖方なく逆の手を重ねてきた。†",
+    ("オレが言うと、あかりは仕緖方なく逆の手を重ねてきた。",
     ""),
-    # When I said that Akari had been putting up the opposite hands without any effort.†
+    # When I said that Akari had been putting up the opposite hands without any effort.
 
     ("「諱よし、あご」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "My chin, my chin."
 
-    ("「あごって…」†",
+    ("「あごって…」",
     ""),
-    # "Jew..." †
+    # "Jew..." 
 
     ("「あご！」",
     ""),
@@ -114,17 +114,17 @@ text_array = [
     ""),
     # "...Ah;"
 
-    ("思寬わず体勢を崩すが、掾持ち直す。†",
+    ("思寬わず体勢を崩すが、掾持ち直す。",
     ""),
-    # Without thinking about it, he loses his position, but he recovers.†
+    # Without thinking about it, he loses his position, but he recovers.
 
     ("「ばーか、本気にすんなよ」",
     ""),
     # "Oh, don't take it seriously."
 
-    ("「…も、もう」†",
+    ("「…も、もう」",
     ""),
-    # "...Even now" †
+    # "...Even now" 
 
     ("虹が消えてなくなるまでを見届けてから、その後、ふたりでいっしょに帰った。◯",
     ""),

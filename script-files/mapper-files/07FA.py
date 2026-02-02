@@ -2,9 +2,9 @@
 # Source file: 07FA.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	猫が凾嫌い）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	猫が凾嫌い）",
     ""),
-    # (Kotone, Scales Event PS) (Chounen, Cats hate)†
+    # (Kotone, Scales Event PS) (Chounen, Cats hate)
 
     ("「オレはどっちかっつーと、猫は凾嫌いだな」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "...Why?"
 
-    ("「そり痰ゃあまず、驕夜になるとうるさいだ？	人んちだうと勝闖手にずかずか上がりこんで食い物枢盗んだりするし…」†",
+    ("「そり痰ゃあまず、驕夜になるとうるさいだ？	人んちだうと勝闖手にずかずか上がりこんで食い物枢盗んだりするし…」",
     ""),
-    # "Not at all, it's noisy when it's arrogant night? When it's a slut, it's a bit louder? When I get a guy, I'll come in and stole the food..."†
+    # "Not at all, it's noisy when it's arrogant night? When it's a slut, it's a bit louder? When I get a guy, I'll come in and stole the food..."
 
     ("「…そうですか。…でも、さんが思ってるほど悪い子たちじ痰ゃないですよ」",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 01C2.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ａ	軽く一眠りする）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ａ	軽く一眠りする）",
     ""),
-    # (Light scale event 2F) (A light sleeps down a little)†
+    # (Light scale event 2F) (A light sleeps down a little)
 
     ("だめだ、こり痰ゃ。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("んん…？",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Is it a sunset?
 
-    ("目にしみるぜ…。†",
+    ("目にしみるぜ…。",
     ""),
-    # It touches my eyes...†
+    # It touches my eyes...
 
     ("なぬっ！？",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # hey hey!?
 
-    ("いったい何梔時間寝てたんだ、オレは！？†",
+    ("いったい何梔時間寝てたんだ、オレは！？",
     ""),
-    # How many hours were you sleeping, I'm so excited!?†
+    # How many hours were you sleeping, I'm so excited!?
 
     ("氈次の瞬間、オレはガバッと、机から上半身を起こした。",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Ah, Akari...!?"
 
-    ("目の前にあかりがいて、にっこりと笑っていた。†",
+    ("目の前にあかりがいて、にっこりと笑っていた。",
     ""),
-    # Akari was in front of me, and I was smiling with a smile.†
+    # Akari was in front of me, and I was smiling with a smile.
 
     ("「なんだお前、なにしてんだ…？」",
     ""),
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "I'm so excited?"
 
-    ("「うん。ぐっすりと気搴持ちよさそうに寝てたから、起こしち痰ゃ悪いなーと思って」†",
+    ("「うん。ぐっすりと気搴持ちよさそうに寝てたから、起こしち痰ゃ悪いなーと思って」",
     ""),
     # "Yeah. I slept soundly and cheerfully, so I thought it was a shame to wake him up."
 
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "I just had a stomping indigo sent to my final school, so I guess I'll have to wait about six holes."
 
-    ("「６桙時！？	マジか！？	なにやってんだ、オレは！？	熟㍼睡王か！？」†",
+    ("「６桙時！？	マジか！？	なにやってんだ、オレは！？	熟㍼睡王か！？」",
     ""),
-    # "Six-floor!? Seriously?! What are you doing, what are you doing?! Is it the king of the Mature Sleeping King?!" †
+    # "Six-floor!? Seriously?! What are you doing, what are you doing?! Is it the king of the Mature Sleeping King?!" 
 
     ("「まあまあ。そのぶん、いい夢見たでしょ」",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "Yeah. All the time."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「ふふ、かわいかったよ」",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # "?"
 
-    ("呼ばれて近づいてくる、あかり。†",
+    ("呼ばれて近づいてくる、あかり。",
     ""),
-    # Akari approaches when he is called.†
+    # Akari approaches when he is called.
 
     ("オレは｢｢。",
     ""),

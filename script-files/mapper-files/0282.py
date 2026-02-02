@@ -2,9 +2,9 @@
 # Source file: 0282.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ｂ	じ痰ゃあ、閨占ってもらうか）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ１）閨（選択綜Ｂ	じ痰ゃあ、閨占ってもらうか）",
     ""),
-    # (Seri° Kaku, Scales, 2F, LV1) Li (Select B, I'll get a fortune teller) †
+    # (Seri° Kaku, Scales, 2F, LV1) Li (Select B, I'll get a fortune teller) 
 
     ("「せっかくだし、じ痰ゃあ、閨占ってもらうか」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Also, should I use the fortune-telling session in the classroom?”
 
-    ("ふむ、そうだなあ…。†",
+    ("ふむ、そうだなあ…。",
     ""),
-    # Hmm, that's right...†
+    # Hmm, that's right...
 
     ("部室を見学するってのもいいけど、さすがに桙時間がかかりそうだしな。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # There's no one there anymore."
 
-    ("オレが言うと、諱先輩は無表﨣情のまま、こくんとうなずいた。†",
+    ("オレが言うと、諱先輩は無表﨣情のまま、こくんとうなずいた。",
     ""),
-    # When I said that, my senior nodded with Ko-kun, still innocent feelings.†
+    # When I said that, my senior nodded with Ko-kun, still innocent feelings.
 
     ("「ま、その辺に、てきとーに座んなよ」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "Look, Senpai, here, here."
 
-    ("オレは空いてる椅子を引いて、諱先輩を座迯らせた。†",
+    ("オレは空いてる椅子を引いて、諱先輩を座迯らせた。",
     ""),
-    # I pulled out an empty chair and let my senior Ie-senpai sit there.†
+    # I pulled out an empty chair and let my senior Ie-senpai sit there.
 
     ("「諱よし、じ痰ゃ、さっそくやっとくれ」",
     ""),
@@ -78,17 +78,17 @@ text_array = [
     ""),
     # It's like a sushi restaurant.
 
-    ("諱先輩は、こくんとうなずいた。†",
+    ("諱先輩は、こくんとうなずいた。",
     ""),
-    # Senpai nodded with Ko-kun.†
+    # Senpai nodded with Ko-kun.
 
     ("だけど、いきなりたずねてｗたかと思えば、運勢を占ってくれるだなんて、ホント突藷拍子燻もない先輩だよな。",
     ""),
     # But when I asked him out of nowhere, he was sure to predict his fortune, he's a very sudden senior.
 
-    ("なんで、わざわざ…？†",
+    ("なんで、わざわざ…？",
     ""),
-    # Why a single move...?†
+    # Why a single move...?
 
     ("あ、まてよ？",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # Hmm.
 
-    ("蛛大熨金搴持ちのおｏ様っていうわりには、律儀というか、素直な人なんだな。†",
+    ("蛛大熨金搴持ちのおｏ様っていうわりには、律儀というか、素直な人なんだな。",
     ""),
-    # For a man named O-sama, who has a large gift wrap, he is a polite, or rather an honest person.†
+    # For a man named O-sama, who has a large gift wrap, he is a polite, or rather an honest person.
 
     ("あ、まてよ？",
     ""),
@@ -134,17 +134,17 @@ text_array = [
     ""),
     # Hmm.
 
-    ("蛛大熨金搴持ちのおｏ様っていうわりには、律儀というか、素直な人なんだな。†",
+    ("蛛大熨金搴持ちのおｏ様っていうわりには、律儀というか、素直な人なんだな。",
     ""),
-    # For a man named O-sama, who has a large gift wrap, he is a polite, or rather an honest person.†
+    # For a man named O-sama, who has a large gift wrap, he is a polite, or rather an honest person.
 
     ("諱先輩の『なにを占いますか』という質竡問に、オレは、う〜んと悩みに悩んで、氏月並みだが、進学か就職か、どっちを選んだほうがいいかを占ってもらうことにした。◯",
     ""),
     # When I heard my senior's question about what to fortune-telling, I was really worried about my concerns and decided to foresee which one should I choose, whether to go to college or get a job, and get a good one.◯
 
-    ("閨占いが始まった。†",
+    ("閨占いが始まった。",
     ""),
-    # Fortune telling has begun.†
+    # Fortune telling has begun.
 
     ("パタ…パタ…パタ…。",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # Senpai's gentle slanderous fingers turn the cards through with a relaxed, elegant touch.
 
-    ("マジシャャンのような鮮竭やかなテクニックはないが、ずいぶんと手慣れた感じではある。†",
+    ("マジシャャンのような鮮竭やかなテクニックはないが、ずいぶんと手慣れた感じではある。",
     ""),
-    # Although there are no clear techniques like Serious Shaan's, it feels quite used to it.†
+    # Although there are no clear techniques like Serious Shaan's, it feels quite used to it.
 
     ("パタ…パタ…パタ…。",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # Every time the cards are turned, the classroom that should have been familiar begins to drift off the secrets of the book.
 
-    ("諱先輩はじっと一点を見つめたまま、人形のようにカードを動かし続ける。†",
+    ("諱先輩はじっと一点を見つめたまま、人形のようにカードを動かし続ける。",
     ""),
-    # Senpai continues to move the card like a doll, staring at the point.†
+    # Senpai continues to move the card like a doll, staring at the point.
 
     ("タ鴻ロットカード…だよな。",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # It seems that the fate of my future is unfolding on this desk right now.
 
-    ("不思議だねぇ。†",
+    ("不思議だねぇ。",
     ""),
-    # That's strange.†
+    # That's strange.
 
     ("カードも気になったが、それ以繹上に、オレの目はカードを繰骭る先輩へと引き寄せられていった。",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # The light shines through the window.
 
-    ("綺淏麗だなあ…。†",
+    ("綺淏麗だなあ…。",
     ""),
-    # It's so beautiful...†
+    # It's so beautiful...
 
     ("と、そのとき、諱先輩の手が止まった。",
     ""),
@@ -218,7 +218,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「で、どうなんだ、閨占いの結果は？」†",
+    ("「で、どうなんだ、閨占いの結果は？」",
     ""),
     # "So, what's the result of the fortune telling?"
 
@@ -234,17 +234,17 @@ text_array = [
     ""),
     # "I see. I see. I'm thinking about going to college, then I'll start studying seriously."
 
-    ("諱先輩はうなずいてから、艨ゆっくりとカードをしまい始めた。†",
+    ("諱先輩はうなずいてから、艨ゆっくりとカードをしまい始めた。",
     ""),
-    # After nodding, Senpai nodded, he slowly began to put the cards down.†
+    # After nodding, Senpai nodded, he slowly began to put the cards down.
 
     ("﨟基本的にオレは占いなんかの類は信じないタチなのだが、まあ、今回のコレは先輩からのアドバイスということで素直に受け取っておこう。",
     ""),
     # 﨟Essentially, I don't believe in fortune telling, but I think this time I'll take it honestly as a advice from a senior.
 
-    ("やがて、諱先輩はカードを片付け終えた。†",
+    ("やがて、諱先輩はカードを片付け終えた。",
     ""),
-    # Eventually, Senpai Kimi finished cleaning up the cards.†
+    # Eventually, Senpai Kimi finished cleaning up the cards.
 
     ("「わざわざｗてくれて、ありがとな、諱先輩」",
     ""),
@@ -258,9 +258,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩熹も遅れて席を立った。†",
+    ("諱先輩熹も遅れて席を立った。",
     ""),
-    # Senpai Kei also got late and got up.†
+    # Senpai Kei also got late and got up.
 
     ("「………」",
     "…"),
@@ -278,13 +278,13 @@ text_array = [
     "…"),
     # "..."
 
-    ("「今度は部室燻も見せてくれよな？」†",
+    ("「今度は部室燻も見せてくれよな？」",
     ""),
     # "Next time, let's show you the smoking area in the club room, right?"
 
-    ("オレの言葉に、諱先輩はこくんとうなずくと、閨『それではまた…』閨と言葉を残して、教室を出ていった。†",
+    ("オレの言葉に、諱先輩はこくんとうなずくと、閨『それではまた…』閨と言葉を残して、教室を出ていった。",
     ""),
-    # At my ecstatic words, my senior nodded to Ko-kun and said, "See you later..." and left the classroom.†
+    # At my ecstatic words, my senior nodded to Ko-kun and said, "See you later..." and left the classroom.
 
     ("「………」",
     "…"),

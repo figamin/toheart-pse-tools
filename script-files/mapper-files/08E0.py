@@ -2,9 +2,9 @@
 # Source file: 08E0.txt
 
 text_array = [
-    ("（レミィ	好感度イベントＰＳ）閨（選択綜	行けない）†",
+    ("（レミィ	好感度イベントＰＳ）閨（選択綜	行けない）",
     ""),
-    # (Goremy Likeability Event PS) (Choice cannot be reached)†
+    # (Goremy Likeability Event PS) (Choice cannot be reached)
 
     ("「義搴理はあるんだがな…、わりぃ、ちょっと予定があんだ」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "Huh, is that?"
 
-    ("「ホント、わりぃ」†",
+    ("「ホント、わりぃ」",
     ""),
-    # "Really, it's a bit silly" †
+    # "Really, it's a bit silly" 
 
     ("「ううん。しかたないよネ…」",
     ""),

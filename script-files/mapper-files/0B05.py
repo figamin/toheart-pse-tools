@@ -2,9 +2,9 @@
 # Source file: 0B05.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	わからない	の続き）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	わからない	の続き）",
     ""),
-    # (Aya∴Kawa Pick Date Event 2) (Continued from Selection A I don't know)†
+    # (Aya∴Kawa Pick Date Event 2) (Continued from Selection A I don't know)
 
     ("「さあ、諱よくわかんねーな」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "What's your actions, sluts are you weird, slut?"
 
-    ("「まあ…。でも個性的でいいんじ痰ゃない？」†",
+    ("「まあ…。でも個性的でいいんじ痰ゃない？」",
     ""),
     # "Well... And the hot springs are also unique, so don't they have any phlegm?"
 

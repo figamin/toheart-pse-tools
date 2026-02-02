@@ -2,13 +2,13 @@
 # Source file: 0626.txt
 
 text_array = [
-    ("（マルチ	エンディング）閨（Ｂ	レミィを優譌先させる）†",
+    ("（マルチ	エンディング）閨（Ｂ	レミィを優譌先させる）",
     ""),
-    # (Makyuruchi ending) (B makes the Witch Remy stand out)†
+    # (Makyuruchi ending) (B makes the Witch Remy stand out)
 
-    ("レミィのほうが先に約束しちまったからな、マルチには悪いが、正直に言って断窒う。†",
+    ("レミィのほうが先に約束しちまったからな、マルチには悪いが、正直に言って断窒う。",
     ""),
-    # It's bad for Makruchi, but to be honest, I refuse.†
+    # It's bad for Makruchi, but to be honest, I refuse.
 
     ("「すまん、マルチ」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Eh, huh, is that so..."
 
-    ("「うっかり忘齧れてたぜ。すまん。…だから、悪いけど、今厓日は｢｢」†",
+    ("「うっかり忘齧れてたぜ。すまん。…だから、悪いけど、今厓日は｢｢」",
     ""),
-    # "I accidentally forgotten. Sorry... So, I'm sorry, but I'm sorry, but I'm currently saying """†
+    # "I accidentally forgotten. Sorry... So, I'm sorry, but I'm sorry, but I'm currently saying """
 
     ("「いえいえ、そういうことでしたら、それは仕緖方ありませんよ。こんな急なお願いをするわたしが悪いのですから」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Don't worry about that."
 
-    ("マルチは明髢るくそう言ってくれた。†",
+    ("マルチは明髢るくそう言ってくれた。",
     ""),
-    # McDonald said this intently.†
+    # McDonald said this intently.
 
     ("「じ痰ゃあ、マルチとは、また次の機級にってことでな」",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "what up?"
 
-    ("「はい、いえ、そうですね！」†",
+    ("「はい、いえ、そうですね！」",
     ""),
     # "Yes, no, that's right!"
 
@@ -82,17 +82,17 @@ text_array = [
     ""),
     # "Yes, see you there! Good luck!"
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
     ("かち痰ゃ。",
     ""),
     # It's a phlegm.
 
-    ("オレは受話嶸器を置いた。†",
+    ("オレは受話嶸器を置いた。",
     ""),
-    # I placed the receiver.†
+    # I placed the receiver.
 
     ("うん？",
     ""),

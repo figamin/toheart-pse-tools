@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I walked around the hallways lazily.
 
-    ("帰闍りの生徒たちとすれ痰違う。＝@知った顔にでも出初えればいいが、そんなこともなく、階段の前にｗた。†",
+    ("帰闍りの生徒たちとすれ痰違う。＝@知った顔にでも出初えればいいが、そんなこともなく、階段の前にｗた。",
     ""),
-    # The students who have returned home are completely different.=@I wish I could start to show some hot springs on my familiar face, but there was no such thing, so I laughed at it in front of the stairs.†
+    # The students who have returned home are completely different.=@I wish I could start to show some hot springs on my familiar face, but there was no such thing, so I laughed at it in front of the stairs.
 
     ("下駄箱。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Is there a huge letter of love for the dam...?
 
-    ("残念。†",
+    ("残念。",
     ""),
-    # disappointing.†
+    # disappointing.
 
     ("ひとりで帰驪る。",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 
-    ("誰か知ったрヤツはいねーか？†",
+    ("誰か知ったрヤツはいねーか？",
     ""),
-    # Does anyone know who?†
+    # Does anyone know who?
 
     ("今厓日は意外と楽汪勝だったな。",
     ""),

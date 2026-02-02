@@ -2,9 +2,9 @@
 # Source file: 0865.txt
 
 text_array = [
-    ("（レミィ	回秤数イベントＰＳ）閨（選択綜	別れる）†",
+    ("（レミィ	回秤数イベントＰＳ）閨（選択綜	別れる）",
     ""),
-    # (Game Remy: Scales Event PS) (Choice: Break up)†
+    # (Game Remy: Scales Event PS) (Choice: Break up)
 
     ("「オレ、いまから帰驪るから、んじ痰ゃなって」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "ah"
 
-    ("「残念デス…」†",
+    ("「残念デス…」",
     ""),
     # "Sorry, death..."
 

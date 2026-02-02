@@ -2,9 +2,9 @@
 # Source file: 019C.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｂ	『≠』かな）†",
+    ("（あかり	回秤数イベント	学校を出髀る）閨（Ｂ	『≠』かな）",
     ""),
-    # (Akari Scales Event: Departing from school) (B '≠' maybe)†
+    # (Akari Scales Event: Departing from school) (B '≠' maybe)
 
     ("「『≠』かな」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Akari is...
 
-    ("苦笑した。†",
+    ("苦笑した。",
     ""),
-    # I gave a wry smile.†
+    # I gave a wry smile.
 
     ("「え、正解だ？」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Uh, that's a shame."
 
-    ("「なにぃ？	えっと『ａ≠ａ浮ｕｔ奄浮ｕ撃ｌ』に『入≠ａ』に『ａ窒ｒ≠ａ駆』『ｔ≠ａ撃ｌ駆』だから…」†",
+    ("「なにぃ？	えっと『ａ≠ａ浮ｕｔ奄浮ｕ撃ｌ』に『入≠ａ』に『ａ窒ｒ≠ａ駆』『ｔ≠ａ撃ｌ駆』だから…」",
     ""),
-    # "What? Umm, "Abb≠a Utamib Utagekil" and "Into B≠a" and "AbNRB≠A Knock" and "T≠A Knock"..."†
+    # "What? Umm, "Abb≠a Utamib Utagekil" and "Into B≠a" and "AbNRB≠A Knock" and "T≠A Knock"..."
 
     ("「ふふっ。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "No, I'm also in the tangible check-in of Super Crying. I'm sorry, but I'm not very studying."
 
-    ("ムカッときた。†",
+    ("ムカッときた。",
     ""),
-    # I was annoyed.†
+    # I was annoyed.
 
     ("「ああ、そうか。じ痰ゃあ、帰って勉強だ」",
     ""),

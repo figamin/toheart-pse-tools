@@ -2,9 +2,9 @@
 # Source file: 08AB.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	１階２	ＬＶ２）閨（下駄箱）†",
+    ("（レミィ	回秤数イベント	１階２	ＬＶ２）閨（下駄箱）",
     ""),
-    # (Game Remy Scale Event 1st Floor 2 LV2) (Shoe cabinet)†
+    # (Game Remy Scale Event 1st Floor 2 LV2) (Shoe cabinet)
 
     ("「じ痰ゃあ、いっしょに帰うぜ」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Yeah!"
 
-    ("と、すごく嬉しそうにうなずいた。†",
+    ("と、すごく嬉しそうにうなずいた。",
     ""),
-    # He nodded with great joy.†
+    # He nodded with great joy.
 
     ("玄関から出髀ると、レミィは思い切關り深呼吸して、",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "It's not bad, isn't it?"
 
-    ("オレはうなずいた。†",
+    ("オレはうなずいた。",
     ""),
-    # I nodded.†
+    # I nodded.
 
     ("「ニッポンの桜が好き」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "It's just the climax of the flowers blooming. It's not blooming as many as Japan."
 
-    ("…確かに冾日本は、そこらじゅうに植えてあるからな。†",
+    ("…確かに冾日本は、そこらじゅうに植えてあるからな。",
     ""),
-    # ...It's true that Japan is planted everywhere.†
+    # ...It's true that Japan is planted everywhere.
 
     ("「固めて植えてあるから、多いように見えるんだよ」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "That's right?"
 
-    ("オレは言い切った。†",
+    ("オレは言い切った。",
     ""),
-    # I said it perfectly.†
+    # I said it perfectly.
 
     ("「…そういえば撃レミィの田舎って、ア＜メリカのどこだっけ？」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # Kinryumon Bridge Golden Gate Bugata Ridge is a famous bonito spot."
 
-    ("オレには、観光名竃所のイ＜メージしかない場鰹所だ。†",
+    ("オレには、観光名竃所のイ＜メージしかない場鰹所だ。",
     ""),
-    # In my mind, it's a bonito spot that only has an image of the tourist spot.†
+    # In my mind, it's a bonito spot that only has an image of the tourist spot.
 
     ("「、Ｓ≠ａｎ	Ｆ窒ｒ≠ａｎモｃ奄入モｃ盾ｏは『ＳＦ』って略すのよ」",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # I'm shortening the name like Japan."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「で、ＳＦってどんな街なんだ？」",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # "It's so orderly and I can't see"
 
-    ("そう言って撃レミィは腕を広げて見せる。†",
+    ("そう言って撃レミィは腕を広げて見せる。",
     ""),
-    # With that in mind, Ekiremi spreads her arms and shows her.†
+    # With that in mind, Ekiremi spreads her arms and shows her.
 
     ("「見えないって…もしかして霧のことか？」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "Kigatari?"
 
-    ("「ほら、朝になると外が真っ窒白なときがたまにあるだ？	外に出髀ると桙服が湿ってきて、気搴持ち悪いやつ」†",
+    ("「ほら、朝になると外が真っ窒白なときがたまにあるだ？	外に出髀ると桙服が湿ってきて、気搴持ち悪いやつ」",
     ""),
-    # "Look, in the morning, sometimes it's completely white outside b? When I go outside, my fox clothes get wet and they're just too moist." †
+    # "Look, in the morning, sometimes it's completely white outside b? When I go outside, my fox clothes get wet and they're just too moist." 
 
     ("「Ｏ、凵ｙ入。キリデ〜ス」",
     ""),
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Yeah.
 
-    ("日本の夏は暑いｃ」†",
+    ("日本の夏は暑いｃ」",
     ""),
     # It's hot in Japan's summer c"
 
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # "What, you're so gross, isn't it?"
 
-    ("「うん、イートコ」†",
+    ("「うん、イートコ」",
     ""),
-    # "Yeah, eat-ko" †
+    # "Yeah, eat-ko" 
 
     ("「で、ＳＦには面猪白い場鰹所、あんのか？」",
     ""),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # "There's a cake shop in Jayapan Town. There are many Japanese store and Japanese bookstores.
 
-    ("と教えてくれる。†",
+    ("と教えてくれる。",
     ""),
-    # He tells me.†
+    # He tells me.
 
     ("それはそれで楽しそうだけど、",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # "I don't think it's fun for Japanese people to go to Japanese shops."
 
-    ("そこは冾日本人のための観光地じ痰ゃねえよな。†",
+    ("そこは冾日本人のための観光地じ痰ゃねえよな。",
     ""),
-    # That's a tourist destination for Japanese people.†
+    # That's a tourist destination for Japanese people.
 
     ("「アハハッ、忘齧れてたｃ。",
     ""),
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # "Hello, you're a foreigner. Forget Asia."
 
-    ("彼女は半分外人だってば。†",
+    ("彼女は半分外人だってば。",
     ""),
-    # Her overly girl is half foreigner.†
+    # Her overly girl is half foreigner.
 
     ("「ゴ＜メンゴ＜メン。ＳＦ、とってもいいとこなんだけど、どこも≠普通に見えるの」",
     ""),
@@ -254,7 +254,7 @@ text_array = [
     ""),
     # "When you think about it, any beautiful scenery is obvious to the locals..."
 
-    ("「、ニッポンの楽しい場鰹所、教えて」†",
+    ("「、ニッポンの楽しい場鰹所、教えて」",
     ""),
     # "Please tell me about the fun bonito spots in Japan."
 
@@ -274,9 +274,9 @@ text_array = [
     ""),
     # That's what I say.
 
-    ("…なんだよ、遊びのスポットを聞いてんじ痰ゃないのか。†",
+    ("…なんだよ、遊びのスポットを聞いてんじ痰ゃないのか。",
     ""),
-    # ...What is it? Is there no phlegm to listen to where to play?†
+    # ...What is it? Is there no phlegm to listen to where to play?
 
     ("「自然なら、確かにいいとこは山ほどあるだーな」",
     ""),
@@ -290,9 +290,9 @@ text_array = [
     ""),
     # Karen asked, pointing at her with her thumb.
 
-    ("…そーだな。†",
+    ("…そーだな。",
     ""),
-    # ...That's right.†
+    # ...That's right.
 
     ("「レミィと行くとしたら｢｢」",
     ""),

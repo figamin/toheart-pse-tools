@@ -2,9 +2,9 @@
 # Source file: 0B1B.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント１）閨（堰負けた後）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント１）閨（堰負けた後）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, event 1 in the balance (after the weir is lost)†
+    # (Aya∴Ka challenges Aya∴Ka, event 1 in the balance (after the weir is lost)
 
     ("「どう？	立てる？」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # The moment I stood up, I felt like the world was in shaking light.
 
-    ("本末当はかなりのダ＜メージが残っているが、意地でも顔には出すまいと思った。†",
+    ("本末当はかなりのダ＜メージが残っているが、意地でも顔には出すまいと思った。",
     ""),
-    # There was a lot of bad news left in the end, but I was so stubborn that I wouldn't show any hot water on my face.†
+    # There was a lot of bad news left in the end, but I was so stubborn that I wouldn't show any hot water on my face.
 
     ("「というわけで、セリオ。判阡定は？」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "It's soooo good!"
 
-    ("「くそー…」†",
+    ("「くそー…」",
     ""),
-    # "Damn…"†
+    # "Damn…"
 
     ("「ふふっ、今厓日のとこはр私の勝ちね」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "it hurts?"
 
-    ("「…痛ぇー諱よ」†",
+    ("「…痛ぇー諱よ」",
     ""),
-    # "...I'm so sad" †
+    # "...I'm so sad" 
 
     ("「やっぱり薰基本がなってないと全然ダ＜メね。いまならまだ、氈勝縁負自体をチャャラってことにしてもいいわよ」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "That's fine. I'll win. I'll get used to it, and I'll get used to it, and I'll get enough."
 
-    ("綾∴香はやれやれと肩をすくめる。†",
+    ("綾∴香はやれやれと肩をすくめる。",
     ""),
-    # Aya∴Ka shrugged, "Tampering and tampering."†
+    # Aya∴Ka shrugged, "Tampering and tampering."
 
     ("「わかった。じ痰ゃあ、п私が少し撃レッスンしてあげる」",
     ""),
@@ -90,17 +90,17 @@ text_array = [
     ""),
     # "…nothing"
 
-    ("正直言えば凾嫌なんだが…。†",
+    ("正直言えば凾嫌なんだが…。",
     ""),
-    # To be honest, I don't like it...†
+    # To be honest, I don't like it...
 
     ("「こんなことで格好つけても意味ねーしな。くやしいけど、梶頼む」",
     ""),
     # "It's no point in dressing up like this and roasting. It's a bit of a pain, but please Kaji."
 
-    ("「ふふふっ、素直じ痰ゃないわね」†",
+    ("「ふふふっ、素直じ痰ゃないわね」",
     ""),
-    # "Hehehe, you're not phlegm-free" †
+    # "Hehehe, you're not phlegm-free" 
 
     ("その後オレは、﨟基本のパンチの打ちかたを綾∴香に教寀わった。",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "Highly" and move your weight from the after-stroke to your front paw, and hit.
 
-    ("ジャャブ、ストレート、フック。†",
+    ("ジャャブ、ストレート、フック。",
     ""),
-    # Jab, straight rate, hook.†
+    # Jab, straight rate, hook.
 
     ("「いつでも鰍相闡手になってあげるわよ。『本気になったら怖い』ってセリフ、ち痰ゃんと証明してみせてよね」",
     ""),

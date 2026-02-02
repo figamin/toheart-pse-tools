@@ -2,15 +2,15 @@
 # Source file: 0194.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ	１）閨（選択綜Ｂ	くだらん、じ痰ゃーな）†",
+    ("（あかり	回秤数イベント	１Ｆ	１）閨（選択綜Ｂ	くだらん、じ痰ゃーな）",
     ""),
-    # (Light scale event 1F 1) (Choice B: No, it's so sputum)†
+    # (Light scale event 1F 1) (Choice B: No, it's so sputum)
 
     ("「ったく、冝期槙末燒もすぐそこだってのに、なにくだんねーことで盛關り上がってんだ」",
     ""),
     # "Even though the sinister age of the sinister maki Sue-setsu is just around the corner, what is causing the rise to great success?"
 
-    ("「ま、まあ、そうだけど…」†",
+    ("「ま、まあ、そうだけど…」",
     ""),
     # "Well, well, that's true..."
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Yeah, it's phlegm."
 
-    ("「それじ痰ゃ」†",
+    ("「それじ痰ゃ」",
     ""),
-    # "That's the phlegm" †
+    # "That's the phlegm" 
 
     ("あかりと史に手を振って、オレは歩き出した。◯",
     ""),

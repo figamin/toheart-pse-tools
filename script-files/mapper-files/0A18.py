@@ -2,9 +2,9 @@
 # Source file: 0A18.txt
 
 text_array = [
-    ("（Ａ	声をかける。）†",
+    ("（Ａ	声をかける。）",
     ""),
-    # (A call out.)†
+    # (A call out.)
 
     ("「おーい、掾理女緒ち痰ゃん」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Daddaddaddaddaddad...
 
-    ("だが、掾理女緒ち痰ゃんはわき目燒も振逅らず、走闡り抜けていく。†",
+    ("だが、掾理女緒ち痰ゃんはわき目燒も振逅らず、走闡り抜けていく。",
     ""),
-    # However, the slutty woman Ochi Symphonyan does not even hesitate to take the ball, and continues to move forward.†
+    # However, the slutty woman Ochi Symphonyan does not even hesitate to take the ball, and continues to move forward.
 
     ("「………」",
     "…"),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Damn it, you should catch up at the school gates!
 
-    ("オレは魔走って後を追った。†",
+    ("オレは魔走って後を追った。",
     ""),
-    # I ran off to follow after him.†
+    # I ran off to follow after him.
 
     ("「諱よ、諱よお、掾理女緒ち痰ゃん。今厓日燗も忙しいな。はーはーはー…」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "No, it's tampering, why not even a hot pot..."
 
-    ("意外に、足、速いんだな。†",
+    ("意外に、足、速いんだな。",
     ""),
-    # Surprisingly, he's quick.†
+    # Surprisingly, he's quick.
 
     ("「と、とこで、今厓日燗もバイトに遅薯刻しそうなのか？」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # My banquet is always slow to cry at home."
 
-    ("「あ、そっか。Ｄ組だったな」†",
+    ("「あ、そっか。Ｄ組だったな」",
     ""),
-    # "Oh, I see. It was Class D." †
+    # "Oh, I see. It was Class D." 
 
     ("Ｄ組の担任の教師は、とにかく話が長い。",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # Listening to it makes me feel like I'm an elementary school student before summer vacation.
 
-    ("べつに、＝普段から口うるさいってわけでもなく、いい教師だとは思うんだが。†",
+    ("べつに、＝普段から口うるさいってわけでもなく、いい教師だとは思うんだが。",
     ""),
-    # Furthermore, it's not that he's always loud and noisy, so I think he's a good teacher.†
+    # Furthermore, it's not that he's always loud and noisy, so I think he's a good teacher.
 
     ("「なるほど、＊鰯哩んな調子のホームルームか」",
     ""),
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "That's right"
 
-    ("「ま、そんだけ生徒齠一人齔一人に気を配ってるってことだうな」†",
+    ("「ま、そんだけ生徒齠一人齔一人に気を配ってるってことだうな」",
     ""),
     # "Well, that means you're paying attention to each student's face."
 
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # "Like."
 
-    ("オレは笑ってつぶやいた。†",
+    ("オレは笑ってつぶやいた。",
     ""),
-    # I laughed and muttered.†
+    # I laughed and muttered.
 
     ("「それじ痰ゃ、п私、ここで」",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "See you soon."
 
-    ("こっちをｌいたまま駆け出した瞬間｢｢。†",
+    ("こっちをｌいたまま駆け出した瞬間｢｢。",
     ""),
-    # The moment I started to leave this one while still latching, ".†
+    # The moment I started to leave this one while still latching, ".
 
     ("すぐ目の前の電兼柱に正面衝突してしまい、思いっきりコケている。",
     ""),
@@ -138,7 +138,7 @@ text_array = [
     ""),
     # "Uhh..."
 
-    ("「おい、蛛大苟丈夫か？」†",
+    ("「おい、蛛大苟丈夫か？」",
     ""),
     # "Hey, are you strong?"
 
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # However, the han looks very happy too.
 
-    ("まったく、諱頑芒丈なボディだぜ。†",
+    ("まったく、諱頑芒丈なボディだぜ。",
     ""),
-    # It has a totally sturdy body.†
+    # It has a totally sturdy body.
 
     ("「そ、それじ痰ゃ、こんどこそ、さよならっ」",
     ""),

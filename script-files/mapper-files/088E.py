@@ -2,9 +2,9 @@
 # Source file: 088E.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	２階２）閨（選択綜	あいさつして別れる）†",
+    ("（レミィ	回秤数イベント	２階２）閨（選択綜	あいさつして別れる）",
     ""),
-    # (Geki Remie, 2nd floor 2) (Choice Greetings and Parting)†
+    # (Geki Remie, 2nd floor 2) (Choice Greetings and Parting)
 
     ("「諱よお撃レミィ、またな」",
     ""),

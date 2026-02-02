@@ -2,17 +2,17 @@
 # Source file: 0B01.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（４月１１冾日燗金曜坥日）閨（商店街）†",
+    ("（綾∴香	冝日付イベント２）閨（４月１１冾日燗金曜坥日）閨（商店街）",
     ""),
-    # (Aya∴Chuang Date Event 2) (April Lion, 11th, Friday, Clover) (Shopping Street)†
+    # (Aya∴Chuang Date Event 2) (April Lion, 11th, Friday, Clover) (Shopping Street)
 
     ("その冾日の帰闍り、オレはちょっと寄闃り道し、商店街を歩いていた。",
     ""),
     # On that day, I came round and walked around the shopping district.
 
-    ("そこで。†",
+    ("そこで。",
     ""),
-    # There.†
+    # There.
 
     ("ふと、見覚えのある人物を見かけた。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Why are you here?
 
-    ("じーさんは、キョ鴻ロキョ鴻ロと辺阨りを見回しながら通闥り過ぎていった。†",
+    ("じーさんは、キョ鴻ロキョ鴻ロと辺阨りを見回しながら通闥り過ぎていった。",
     ""),
-    # Old man went too far as he looked around and looked around.†
+    # Old man went too far as he looked around and looked around.
 
     ("オレには全く気づかなかったらしい。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # So, maybe there's a senior nearby again, so it's not surprising.
 
-    ("どれどれ？†",
+    ("どれどれ？",
     ""),
-    # let's see?†
+    # let's see?
 
     ("諱先輩の姿を捜しつつ歩き出すと、",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("正面から魔走ってｗた、ミニスカベストに肩をぶつけられた。†",
+    ("正面から魔走ってｗた、ミニスカベストに肩をぶつけられた。",
     ""),
-    # I was running wild from the front lol. My shoulder was hit by a miniskirt vest.†
+    # I was running wild from the front lol. My shoulder was hit by a miniskirt vest.
 
     ("ドンッ！",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Oh, I'm not gonna die."
 
-    ("素っ気なく謝骼ると、じーさんはそのまま通闥り過ぎていった。†",
+    ("素っ気なく謝骼ると、じーさんはそのまま通闥り過ぎていった。",
     ""),
-    # I sighed curtly, and the old man continued to communicate too much.†
+    # I sighed curtly, and the old man continued to communicate too much.
 
     ("ずいぶんとかしこまった桙服封装だな。",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # Are you also tampering with hotpot at a party at Chikazusho?
 
-    ("しかし、あのガタイで浮黒スーツとは、なんとも妙な翌迫力があるぜ。†",
+    ("しかし、あのガタイで浮黒スーツとは、なんとも妙な翌迫力があるぜ。",
     ""),
-    # However, that hardy, floating black suit has a strange impact on the next day.†
+    # However, that hardy, floating black suit has a strange impact on the next day.
 
     ("そんなことを思いつつ歩き出すと、",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # "Yes!"
 
-    ("今度は正面から魔走ってきたミニスカベストに肩をぶつけられた。†",
+    ("今度は正面から魔走ってきたミニスカベストに肩をぶつけられた。",
     ""),
-    # This time, I was hit by a miniskivest that had been running from the front.†
+    # This time, I was hit by a miniskivest that had been running from the front.
 
     ("「あっ、ごっめーん！」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # A Sanskrit uniform for a temple-dead woman.
 
-    ("そうだ、間違いない。†",
+    ("そうだ、間違いない。",
     ""),
-    # That's right, it must be awkward.†
+    # That's right, it must be awkward.
 
     ("「お前、この前のアイスクリーム翼女｢｢」",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "You're the one who peers through my skirt in the park.
 
-    ("「妙な覚え方はやめてくれ」†",
+    ("「妙な覚え方はやめてくれ」",
     ""),
-    # "Stop tampering with strange ways of remembering" †
+    # "Stop tampering with strange ways of remembering" 
 
     ("「こんなとこでうなんて偶然ね。あっ、そうだ、ちょうどいいわ」",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # "Hey, don't you just join me now?"
 
-    ("ａ突にそんなことを言い出した。†",
+    ("ａ突にそんなことを言い出した。",
     ""),
-    # aSuddenly he said that.†
+    # aSuddenly he said that.
 
     ("「は？」",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # "Yeah, wherever you go, you can kill the time for about 2-30 minutes, and wherever you go is a good spot. Now, let's go."
 
-    ("禔口をはさむ余地さえ与えず、彼女は強引にオレの腕を引いて歩き出す。†",
+    ("禔口をはさむ余地さえ与えず、彼女は強引にオレの腕を引いて歩き出す。",
     ""),
-    # Without even giving him room to sniff, the woman forcibly pulls my arms and starts walking.†
+    # Without even giving him room to sniff, the woman forcibly pulls my arms and starts walking.
 
     ("「お、おい、待てよ。なんだ、いきなり」",
     ""),
@@ -210,9 +210,9 @@ text_array = [
     ""),
     # "Ah, that's amazing!"
 
-    ("女は人混みのｒでなにかを見つけ、ささっとオレの背續後に隠皷れた。†",
+    ("女は人混みのｒでなにかを見つけ、ささっとオレの背續後に隠皷れた。",
     ""),
-    # The bather found something in the crowd and quickly hid after my backlash.†
+    # The bather found something in the crowd and quickly hid after my backlash.
 
     ("「おい？」",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # There was a man with a tuna trash that had been completely different to him just now.
 
-    ("なんだ、まだこの辺をうついてたのか。†",
+    ("なんだ、まだこの辺をうついてたのか。",
     ""),
-    # What, he was still hanging around here.†
+    # What, he was still hanging around here.
 
     ("「おい？」",
     ""),
@@ -250,9 +250,9 @@ text_array = [
     ""),
     # There was the old man who appeared just now.
 
-    ("なんだ、まだこの辺にいやがったのか。†",
+    ("なんだ、まだこの辺にいやがったのか。",
     ""),
-    # What, did you still stomp around here?†
+    # What, did you still stomp around here?
 
     ("じーさんはやっぱり誰かを捜している様子で、きょきょと辺阨りを見回しながら歩いていた。",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # The more you look at it, the more your plain black suit stands out.
 
-    ("ちょっと関孖わりたくないって感じだな。†",
+    ("ちょっと関孖わりたくないって感じだな。",
     ""),
-    # I don't feel like I want to be in a position to be honest.†
+    # I don't feel like I want to be in a position to be honest.
 
     ("ん、待てよ？",
     ""),
@@ -282,9 +282,9 @@ text_array = [
     ""),
     # And after my hardcore attack, there's a suspicious guy who's secretly hiding.
 
-    ("もしかして、さっきからじーさんが捜しているのは、この…。†",
+    ("もしかして、さっきからじーさんが捜しているのは、この…。",
     ""),
-    # Perhaps this is what I've been looking for for a while now...†
+    # Perhaps this is what I've been looking for for a while now...
 
     ("「ねぇねぇ、あなた」",
     ""),
@@ -306,7 +306,7 @@ text_array = [
     ""),
     # "There's a guy who's annoying when he's found."
 
-    ("「それって、あの浮黒スーツのじーさんか？」†",
+    ("「それって、あの浮黒スーツのじーさんか？」",
     ""),
     # "Is that the old man in the floating black suit?"
 
@@ -322,9 +322,9 @@ text_array = [
     ""),
     # "What's that, damn..."
 
-    ("縺上をｌいて息を吐くと、オレは渋々ながら、要望どおりに移動した。†",
+    ("縺上をｌいて息を吐くと、オレは渋々ながら、要望どおりに移動した。",
     ""),
-    # I leapt over the top and exhale, and reluctantly moved as requested.†
+    # I leapt over the top and exhale, and reluctantly moved as requested.
 
     ("「これでいいのか？」",
     ""),
@@ -342,9 +342,9 @@ text_array = [
     ""),
     # "It seems like he didn't notice how it was tampered."
 
-    ("にっこり笑ってそう言った。†",
+    ("にっこり笑ってそう言った。",
     ""),
-    # He said with a smile.†
+    # He said with a smile.
 
     ("「まさか、いきなり逃亡の手伝いをさせられるとは思寬わなかったぜ」",
     ""),
@@ -362,7 +362,7 @@ text_array = [
     ""),
     # "Don't say anything bad about people hearing. It's like I'm doing something bad."
 
-    ("「そうなんだ？」†",
+    ("「そうなんだ？」",
     ""),
     # "Is that so b?"
 
@@ -378,7 +378,7 @@ text_array = [
     ""),
     # "What do you think? The fact that you run away is basically a proof that you're doing something that's irrelevant?"
 
-    ("「あら、そうとは限迪らないわよ。悪いやつらから逃げてきたヒ鴻ロインかもしれないわ」†",
+    ("「あら、そうとは限迪らないわよ。悪いやつらから逃げてきたヒ鴻ロインかもしれないわ」",
     ""),
     # "Oh, that's not the case. Heroine, or perhaps he's a hot-headed man who escaped from the bad guys."
 
@@ -394,7 +394,7 @@ text_array = [
     ""),
     # "Ah, is that old man in that floating black suit the villain is the villain?"
 
-    ("「そうね、彼は悪の手下ってとこかしら。真の浮黒牛幕は、またべつにいるの」†",
+    ("「そうね、彼は悪の手下ってとこかしら。真の浮黒牛幕は、またべつにいるの」",
     ""),
     # "Yes, he's the evil minions. The true floating black bull curtain is still there."
 
@@ -414,7 +414,7 @@ text_array = [
     ""),
     # Slander the ruler of the giant skull corporation that controls the Japanese economy from the shadows."
 
-    ("「…なんのこっち痰ゃ」†",
+    ("「…なんのこっち痰ゃ」",
     ""),
     # "...What kind of phlegm is this?"
 
@@ -430,7 +430,7 @@ text_array = [
     ""),
     # "Somewhere you can relax and kill time for a while. Let's go."
 
-    ("「なんでオレが…」†",
+    ("「なんでオレが…」",
     ""),
     # "Why am I so crazy..."
 

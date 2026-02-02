@@ -2,17 +2,17 @@
 # Source file: 0345.txt
 
 text_array = [
-    ("（智子	好感度イベント１回目）閨（選択綜ＡＢＣＤから続き）閨（ＰＣＭ	＝普通のざわめき）†",
+    ("（智子	好感度イベント１回目）閨（選択綜ＡＢＣＤから続き）閨（ＰＣＭ	＝普通のざわめき）",
     ""),
-    # (Tomoko's first favorability event) (continued from Chosen ABCD) (PCM = normal zamawaki)†
+    # (Tomoko's first favorability event) (continued from Chosen ABCD) (PCM = normal zamawaki)
 
     ("マジ＜メにやったやらないはともかくとして、授業開始から３０分ほどが過ぎると、蛛大半の生徒は課濶題のプリントを終尞わらせた。",
     ""),
     # Seriously, it's a shame that he won't tamper with me, but after about 30 minutes have passed since the start of class, most of the students have completed the Pulatinate, which is the subject of the class.
 
-    ("その後、教室はダベリｃモードに突涛した。†",
+    ("その後、教室はダベリｃモードに突涛した。",
     ""),
-    # After that, the classroom was hit by a storm in Dabelat Rei C mode.†
+    # After that, the classroom was hit by a storm in Dabelat Rei C mode.
 
     ("二年になったばかりだし、間テストにもまだ冾日があるので、みんな余裕し痰ゃくし痰ゃくなのだ。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Either make a fuss, or you're sleeping without any phlegm.
 
-    ("当然、オレもそう。†",
+    ("当然、オレもそう。",
     ""),
-    # Of course, the same goes for my super-sex.†
+    # Of course, the same goes for my super-sex.
 
     ("ちなみに、オレは｢｢。",
     ""),

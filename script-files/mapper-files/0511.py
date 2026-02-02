@@ -2,9 +2,9 @@
 # Source file: 0511.txt
 
 text_array = [
-    ("（葵	冝日付イベント２）閨（選択綜Ａ	参加する）†",
+    ("（葵	冝日付イベント２）閨（選択綜Ａ	参加する）",
     ""),
-    # (Aoi Pilgrim Date Event 2) (Contact Selection A) †
+    # (Aoi Pilgrim Date Event 2) (Contact Selection A) 
 
     ("「なあ、葵ち痰ゃん」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「なんだか葵ち痰ゃんの話を聞いてると、オレも無性に体を動かしたくなってさ。でも邪ｎ魔になるかな？」†",
+    ("「なんだか葵ち痰ゃんの話を聞いてると、オレも無性に体を動かしたくなってさ。でも邪ｎ魔になるかな？」",
     ""),
     # "When I hear about Aoi Chisho-yan, I really want to move my body too. So maybe Hot will become an evil too?"
 
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I'll give you all the phlegms."
 
-    ("「そう？	悪いね」†",
+    ("「そう？	悪いね」",
     ""),
     # "I see? That's bad."
 
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "My parents rarely return home because of the city of shitty trash."
 
-    ("オレは靴を脱いで玄関に上がった。†",
+    ("オレは靴を脱いで玄関に上がった。",
     ""),
-    # I took off my shoes and went up to the entrance.†
+    # I took off my shoes and went up to the entrance.
 
     ("「諱よかったら部屋於磯翌驕H」",
     ""),
@@ -94,17 +94,17 @@ text_array = [
     ""),
     # "Nah, you're kidding, you're kidding. Wait a moment."
 
-    ("オレは階段を上がって体操梠服を取ってきた。†",
+    ("オレは階段を上がって体操梠服を取ってきた。",
     ""),
-    # I climbed up the stairs and got my gym clothes.†
+    # I climbed up the stairs and got my gym clothes.
 
     ("「お待たせ。そんじ痰ゃ行こうか」",
     ""),
     # "Please keep me waiting. Let's go with the phlegm."
 
-    ("「はい」†",
+    ("「はい」",
     ""),
-    # "yes"†
+    # "yes"
 
     ("ふう。",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # Perhaps because of the strong sunlight, it's so hot that it's hot right now.
 
-    ("風があるから、陽に魔当たり続けてなければそうでもないが、少しだけ夏を感じさせる。†",
+    ("風があるから、陽に魔当たり続けてなければそうでもないが、少しだけ夏を感じさせる。",
     ""),
-    # There is a bathing atmosphere, so if you don't keep hitting the sun, you won't be able to feel the hot water, but it gives a slight summer feel.†
+    # There is a bathing atmosphere, so if you don't keep hitting the sun, you won't be able to feel the hot water, but it gives a slight summer feel.
 
     ("「諱先輩。",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # Aoi Chisho-yan goes to the hall with his bag in his house.
 
-    ("その間に、オレも体操葬にｒ替えた。†",
+    ("その間に、オレも体操葬にｒ替えた。",
     ""),
-    # Meanwhile, I also changed my geek to gymnastics.†
+    # Meanwhile, I also changed my geek to gymnastics.
 
     ("シャーズも嘯履き替えて、これでよしっと。",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # "Yes...!"
 
-    ("肩にかついだ。†",
+    ("肩にかついだ。",
     ""),
-    # It stuck on my shoulder.†
+    # It stuck on my shoulder.
 
     ("サンドバッグを木につるして…。",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # "Whoo"
 
-    ("これで準備オッケーだ。†",
+    ("これで準備オッケーだ。",
     ""),
-    # Now you can prepare.†
+    # Now you can prepare.
 
     ("「今厓日はなんだか暑いですね」",
     ""),
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # The bathing atmosphere blew, and the trees cried out.
 
-    ("乾いた翌風が頬に気搴持ちよかった。†",
+    ("乾いた翌風が頬に気搴持ちよかった。",
     ""),
-    # The dry air throbbing felt good on my cheeks.†
+    # The dry air throbbing felt good on my cheeks.
 
     ("「夏といえばさ、このクラブって№合宿とかはやんねーの？」",
     ""),
@@ -226,7 +226,7 @@ text_array = [
     ""),
     # "I agree.
 
-    ("ゆくゆくはやりたいですね。でも、いまはまだ、п私と先輩だけですし…」†",
+    ("ゆくゆくはやりたいですね。でも、いまはまだ、п私と先輩だけですし…」",
     ""),
     # I want to tamper with the future.And now, it's just me and my seniors..."
 
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # "Yeah, yeah."
 
-    ("葵ち痰ゃんは気まずそうに目を嘯伏せる。†",
+    ("葵ち痰ゃんは気まずそうに目を嘯伏せる。",
     ""),
-    # Aoi Chisho-yan looked down in awkwardly.†
+    # Aoi Chisho-yan looked down in awkwardly.
 
     ("「そうだよな、せめてあと数人いないとな。だったらべつに問題ないんだけどな」",
     ""),
@@ -258,7 +258,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「ピーアールリ動とか、もっと積極的にやるべきなのかもな。しつこいくらいに」†",
+    ("「ピーアールリ動とか、もっと積極的にやるべきなのかもな。しつこいくらいに」",
     ""),
     # "I wonder if we should tamper with PRERE RIS, or maybe we should do more proactively. It's just too persistent."
 
@@ -282,7 +282,7 @@ text_array = [
     ""),
     # "Ah, no.
 
-    ("部自体のことですけど」†",
+    ("部自体のことですけど」",
     ""),
     # It's about the club itself."
 
@@ -298,9 +298,9 @@ text_array = [
     ""),
     # "I thought it meant that I wanted to go to No. 1 training camp with the two of us again."
 
-    ("「えっ？」†",
+    ("「えっ？」",
     ""),
-    # "Huh?" †
+    # "Huh?" 
 
     ("「いやあ、葵ち痰ゃんもなかなか大胆な発言をするなーって」",
     ""),
@@ -314,9 +314,9 @@ text_array = [
     ""),
     # "Nahhahaha"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「諱よし、じ痰ゃあ、禔練習を始めよっか。まずは、なにから？」",
     ""),
@@ -326,9 +326,9 @@ text_array = [
     ""),
     # "Um, then, whenever you're in the mood, you'll start with soft and soft exercises."
 
-    ("「オッケー」†",
+    ("「オッケー」",
     ""),
-    # "Okay" †
+    # "Okay" 
 
     ("いち、に、さん、しー…。",
     ""),
@@ -354,9 +354,9 @@ text_array = [
     ""),
     # Even the term "soft and soft exercise" is a pretty good exercise in the next slander of the easiest way to get into the easiest way.
 
-    ("それだけで汗がにじむ。†",
+    ("それだけで汗がにじむ。",
     ""),
-    # That alone makes me sweat ooze.†
+    # That alone makes me sweat ooze.
 
     ("「ふう…」",
     ""),
@@ -378,9 +378,9 @@ text_array = [
     ""),
     # "Ah, that's right, since we're going to have to ""
 
-    ("「？」†",
+    ("「？」",
     ""),
-    # "?"†
+    # "?"
 
     ("「………」",
     "…"),
@@ -402,7 +402,7 @@ text_array = [
     ""),
     # "No, there's nothing really worth phlegm."
 
-    ("「だったらいいじ痰ゃん。教えよ〜」†",
+    ("「だったらいいじ痰ゃん。教えよ〜」",
     ""),
     # "If that's the case, it's fine. Tell me b~"
 
@@ -426,7 +426,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「なにが？」†",
+    ("「なにが？」",
     ""),
     # "What?"
 
@@ -438,7 +438,7 @@ text_array = [
     ""),
     # "Oh, okay?"
 
-    ("「ではまず、п私が先に先輩を｢｢」†",
+    ("「ではまず、п私が先に先輩を｢｢」",
     ""),
     # "So first, I'll start by saying """
 
@@ -458,13 +458,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
-    ("｢｢３分纒後。†",
+    ("｢｢３分纒後。",
     ""),
-    # "After three minutes.†
+    # "After three minutes.
 
     ("「最燕初謠より、ずいぶん体が柔らかくなったと思いますけど」",
     ""),
@@ -482,9 +482,9 @@ text_array = [
     ""),
     # "An intense stretching not only expands the range of movement of the muscles, but also helps prevent injuries."
 
-    ("「へえ」†",
+    ("「へえ」",
     ""),
-    # "Whoa" †
+    # "Whoa" 
 
     ("「無摶理をせず、呼吸をしながら、艨ゆっくりと筋肉を伸ばすのが薰基本です」",
     ""),
@@ -498,9 +498,9 @@ text_array = [
     ""),
     # "yes"
 
-    ("今度はオレがサポート役に回驩る。†",
+    ("今度はオレがサポート役に回驩る。",
     ""),
-    # This time, I'm going to play the role of support.†
+    # This time, I'm going to play the role of support.
 
     ("片側だけあぐらをかく姿勢で上半身を倒し、体の側面の筋肉を伸ばすストレッチだ。",
     ""),
@@ -510,9 +510,9 @@ text_array = [
     ""),
     # My guts holds down Aoi Chisho-chan's knees and prevents her butt from floating.
 
-    ("あとは前に傾かないように、縺上半身を横に倒してやる。†",
+    ("あとは前に傾かないように、縺上半身を横に倒してやる。",
     ""),
-    # All that's left is to fold your upper body to the side to avoid tilting forward.†
+    # All that's left is to fold your upper body to the side to avoid tilting forward.
 
     ("「…んっ」",
     ""),
@@ -530,9 +530,9 @@ text_array = [
     ""),
     # "I see? If so, ""
 
-    ("ぐぐぐ…っと、深めに押す。†",
+    ("ぐぐぐ…っと、深めに押す。",
     ""),
-    # Push it deeper.†
+    # Push it deeper.
 
     ("「…んんっ」",
     ""),
@@ -550,9 +550,9 @@ text_array = [
     ""),
     # Aoi Chisho-ya nods with Ko-kun.
 
-    ("体を曲げたまま、艨ゆっくりと深く呼吸する。†",
+    ("体を曲げたまま、艨ゆっくりと深く呼吸する。",
     ""),
-    # While bent, breathe slowly and deeply.†
+    # While bent, breathe slowly and deeply.
 
     ("「もしかして葵ち痰ゃんって、体かたいほう？」",
     ""),
@@ -562,7 +562,7 @@ text_array = [
     ""),
     # "...Yes, yes."
 
-    ("「へえ、なんか意外だな。蹴闖りのときとか、きれいに脚繼上がってるし、てっきり柔らかいんだと思ってた」†",
+    ("「へえ、なんか意外だな。蹴闖りのときとか、きれいに脚繼上がってるし、てっきり柔らかいんだと思ってた」",
     ""),
     # "Wow, that's kind of surprising. When kicking, the legs were raised beautifully, so I thought they were so soft."
 
@@ -582,9 +582,9 @@ text_array = [
     ""),
     # I'll continue to make efforts to keep going on what I can't do...
 
-    ("その積み重ねが大桝事だよな。†",
+    ("その積み重ねが大桝事だよな。",
     ""),
-    # That accumulation is the story of Ebi Omasu.†
+    # That accumulation is the story of Ebi Omasu.
 
     ("「はい、氈次、逆」",
     ""),
@@ -598,9 +598,9 @@ text_array = [
     ""),
     # Stand up once and then collapse it to the other side.
 
-    ("それが終尞わると、もう一度、さっきと同じ方阜へ。†",
+    ("それが終尞わると、もう一度、さっきと同じ方阜へ。",
     ""),
-    # Once that was over, I headed to Fukukata Fu again.†
+    # Once that was over, I headed to Fukukata Fu again.
 
     ("「あ、あの、今度はさっきよりも少し深めに倒してもらえますか？」",
     ""),
@@ -610,9 +610,9 @@ text_array = [
     ""),
     # "Oh, okay?"
 
-    ("言甯われたままに、オレは葵ち痰ゃんの上半身を深めに倒していく。†",
+    ("言甯われたままに、オレは葵ち痰ゃんの上半身を深めに倒していく。",
     ""),
-    # As I was told, I deepen my upper body of Aoi Chisho-chan.†
+    # As I was told, I deepen my upper body of Aoi Chisho-chan.
 
     ("ぐぐ…。",
     ""),
@@ -626,9 +626,9 @@ text_array = [
     ""),
     # Google...
 
-    ("「…んんっ」†",
+    ("「…んんっ」",
     ""),
-    # "...Hmm" †
+    # "...Hmm" 
 
     ("それにしても…。",
     ""),
@@ -650,9 +650,9 @@ text_array = [
     ""),
     # I can do it because I like it.
 
-    ("それに尽きる。†",
+    ("それに尽きる。",
     ""),
-    # That's all.†
+    # That's all.
 
     ("センスうんぬんはオレにはわからないが、こんなに好きで、かつ一生恊懸命笆やってるんだ。	そのうち、絶対に強くなるよな。",
     ""),
@@ -662,9 +662,9 @@ text_array = [
     ""),
     # Yeah.
 
-    ("絶対強くなる、葵ち痰ゃんは。†",
+    ("絶対強くなる、葵ち痰ゃんは。",
     ""),
-    # Aoi Chisho-chan will definitely become stronger.†
+    # Aoi Chisho-chan will definitely become stronger.
 
     ("「…んっ、んんんっ」",
     ""),
@@ -690,9 +690,9 @@ text_array = [
     ""),
     # "Ah, sorry."
 
-    ("オレは慌てて力を抜いた。†",
+    ("オレは慌てて力を抜いた。",
     ""),
-    # I hurriedly let go of my strength.†
+    # I hurriedly let go of my strength.
 
     ("「では今厓日は、梶投げ技などのつかみについて勉強しましょう」",
     ""),
@@ -710,11 +710,11 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("葵ち痰ゃんの薰基本は空闍手だからな。†",
+    ("葵ち痰ゃんの薰基本は空闍手だからな。",
     ""),
-    # The basic principle of Aoi Chisho-ya is that she is a silly player.†
+    # The basic principle of Aoi Chisho-ya is that she is a silly player.
 
-    ("「とくに寝技系はほとんど素人です。最近になってようやく薰基本を習い始めましたけど、寝技は怩奥が深く、一朝一夕で身につくようなものではありません。だからエクストリーム出齒場にｌけて、つかみへの対策と寝技からの逃げ方に重点をしぼります」†",
+    ("「とくに寝技系はほとんど素人です。最近になってようやく薰基本を習い始めましたけど、寝技は怩奥が深く、一朝一夕で身につくようなものではありません。だからエクストリーム出齒場にｌけて、つかみへの対策と寝技からの逃げ方に重点をしぼります」",
     ""),
     # "I'm particularly amateurs in the field of ground technique. I've only recently started to learn the basics of ground technique, but ground technique is deep and not something you can learn in one day of the morning. So I'll go to the Extreme Ream field and focus on how to deal with grabs and how to escape from ground technique."
 
@@ -726,9 +726,9 @@ text_array = [
     ""),
     # "Yes. To do this, we must first tamper with the Kaji relations."
 
-    ("「そうだな」†",
+    ("「そうだな」",
     ""),
-    # "That's right" †
+    # "That's right" 
 
     ("「というわけで、いまから先輩にいいな関節技站や寝技を仕掛けてみようと思います」",
     ""),
@@ -742,9 +742,9 @@ text_array = [
     ""),
     # "Yes. It's an amateur technique, but I think you can get a sense of it."
 
-    ("「なるほど」†",
+    ("「なるほど」",
     ""),
-    # "I see"†
+    # "I see"
 
     ("「諱先輩は牽制してください。その上で仕掛けます。",
     ""),
@@ -774,9 +774,9 @@ text_array = [
     ""),
     # Furthermore, if a quake hit is applied to this...
 
-    ("格闘技ってやつは、ますます怩奥が深い。†",
+    ("格闘技ってやつは、ますます怩奥が深い。",
     ""),
-    # Martial arts are becoming more and more profound.†
+    # Martial arts are becoming more and more profound.
 
     ("しかし、それにしても…。",
     ""),
@@ -790,7 +790,7 @@ text_array = [
     ""),
     # "Senior Is it strong enough for you?"
 
-    ("「ま、まあ、このくらい。実寬戦感覚でやり痰ゃ、＠磯翌鰲ﾌがあって魔当然だ」†",
+    ("「ま、まあ、このくらい。実寬戦感覚でやり痰ゃ、＠磯翌鰲ﾌがあって魔当然だ」",
     ""),
     # "Well, that's about it. I'll tamper with the feeling of a real war, but I'll have a hot b hot b, so it's only natural to have a demon."
 
@@ -802,9 +802,9 @@ text_array = [
     ""),
     # "Hey hey, you're telling me you're so buddy, why do you need to apologize? That's weird."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「今厓日はやられっぱなしだったけど、氈次からはそう簡単に取邇らせねーからな。だいぶコツも飲み桙込めたし」",
     ""),
@@ -818,7 +818,7 @@ text_array = [
     ""),
     # "The one who's wearing a robe is a perfect counter. I'll give you a stomping nose."
 
-    ("「はい、そうなんですよ！」†",
+    ("「はい、そうなんですよ！」",
     ""),
     # "Yes, that's right!"
 
@@ -830,9 +830,9 @@ text_array = [
     ""),
     # Okay, I'll order some crocodile roe as well."
 
-    ("「はい。こちらこそ」†",
+    ("「はい。こちらこそ」",
     ""),
-    # "Yes. This is it" †
+    # "Yes. This is it" 
 
     ("格闘技鼡一色に染まってしまった一勛日だったが、葵ち痰ゃんとふたり、とても充実した桙時間を過ごせたような気がした。◯",
     ""),

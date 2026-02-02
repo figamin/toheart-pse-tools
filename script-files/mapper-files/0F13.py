@@ -2,9 +2,9 @@
 # Source file: 0F13.txt
 
 text_array = [
-    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	雅史がｗた）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	雅史がｗた）閨（蛛主人公煙負け）",
     ""),
-    # (Arcade Battle Cry 2) (Red Season Final Test Part 2 (HbbH)) (Choice Songs: Makishi lol) (Mrage Protagonist: Lost) †
+    # (Arcade Battle Cry 2) (Red Season Final Test Part 2 (HbbH)) (Choice Songs: Makishi lol) (Mrage Protagonist: Lost) 
 
     ("「くぅ〜っ、ま、堰負けた」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "I'm glad that Kaji-related players didn't have any phlegms."
 
-    ("「まったくだ」†",
+    ("「まったくだ」",
     ""),
-    # "It's absolutely not" †
+    # "It's absolutely not" 
 
     ("うわさをすれば、志保とあかりがこっちへやってｗた。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Are you two fun together?"
 
-    ("のけ者にしたことを、まだ根に持っているらしい志保。†",
+    ("のけ者にしたことを、まだ根に持っているらしい志保。",
     ""),
-    # Shiho seems to still be stalking what he has done to an outcast.†
+    # Shiho seems to still be stalking what he has done to an outcast.
 
     ("「ああ、楽しいね。お前をかまってやれないくらいな」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # He replied like he was sarcastically sniffing.
 
-    ("悪いがこっちは特訓したい気分なんだ。†",
+    ("悪いがこっちは特訓したい気分なんだ。",
     ""),
-    # I'm sorry, but I feel like I want to train.†
+    # I'm sorry, but I feel like I want to train.
 
     ("すると、",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Yeah, it's fine.
 
-    ("や」†",
+    ("や」",
     ""),
-    # つけた」†
+    # つけた」
 
     ("「なによなによ。あかり〜っ、と史がいぢめる〜〜〜っ；」",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 01BA.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（Ｂ	じ痰ゃーなと手を振髏る）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（Ｂ	じ痰ゃーなと手を振髏る）",
     ""),
-    # (Akari Scales Event 1F) (B Waving with a hand)†
+    # (Akari Scales Event 1F) (B Waving with a hand)
 
     ("オレは、じ痰ゃーなと手を振った。",
     ""),

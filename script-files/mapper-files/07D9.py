@@ -2,21 +2,21 @@
 # Source file: 07D9.txt
 
 text_array = [
-    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	声をかける）†",
+    ("（琴音	ＰＳ回秤数イベント）閨（選択綜	声をかける）",
     ""),
-    # (Kotone PS Scale Event) (Chounen Soko)†
+    # (Kotone PS Scale Event) (Chounen Soko)
 
-    ("瘁例の階段での出女沫事燻も気になるし、声をかけてみるか。†",
+    ("瘁例の階段での出女沫事燻も気になるし、声をかけてみるか。",
     ""),
-    # I'm also curious about the smoke coming out of the woman on the stairs, which is a miracle, so I'll try calling out to him.†
+    # I'm also curious about the smoke coming out of the woman on the stairs, which is a miracle, so I'll try calling out to him.
 
     ("「キミ、ちょっといーかな？」",
     ""),
     # "Is it okay, you?"
 
-    ("縺後撃から声をかけると、琴音ち痰ゃんは恐驪る恐驪る振關り返った。†",
+    ("縺後撃から声をかけると、琴音ち痰ゃんは恐驪る恐驪る振關り返った。",
     ""),
-    # After the attack, Kotone Chisho-yan called out, and he replied with a terrifying and terrifying cry.†
+    # After the attack, Kotone Chisho-yan called out, and he replied with a terrifying and terrifying cry.
 
     ("「………」",
     "…"),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # The shaggy is an accent.
 
-    ("なるほど、諱よく見鼬ればｔ少酪女って言葉がしっくりきそうだ。†",
+    ("なるほど、諱よく見鼬ればｔ少酪女って言葉がしっくりきそうだ。",
     ""),
-    # I see, if you look closely at her, the word "tamaki" seems to fit the point.†
+    # I see, if you look closely at her, the word "tamaki" seems to fit the point.
 
     ("「覚えてるだ？	前にオレ、昼休みに階段でぶつかったрヤツ」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("琴音ち痰ゃんはこくんとうなずいた。†",
+    ("琴音ち痰ゃんはこくんとうなずいた。",
     ""),
-    # Kotone Chisho-chan nodded with Ko-kun.†
+    # Kotone Chisho-chan nodded with Ko-kun.
 
     ("「ちょっと話があんだけど、いいかな？」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # I listened to it again.
 
-    ("「…なんでしょうか」†",
+    ("「…なんでしょうか」",
     ""),
     # "...Why are you eclips?"
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # When I heard, my boyfriend and woman looked down at me for a moment in a sad, gross-like atmosphere.
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「からかいにきたんじ痰ゃねえんだ。ちょっと信じられねえからさ、確かめてみようと思ってな」",
     ""),
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "yes.
 
-    ("わたしがやりました…」†",
+    ("わたしがやりました…」",
     ""),
     # I've tampered with it..."
 
@@ -106,9 +106,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("琴音ち痰ゃんは黙ってしまった。†",
+    ("琴音ち痰ゃんは黙ってしまった。",
     ""),
-    # Kotone Chisho-chan went silent.†
+    # Kotone Chisho-chan went silent.
 
     ("オレの言葉は｢｢。",
     ""),

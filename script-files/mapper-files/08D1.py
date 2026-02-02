@@ -2,9 +2,9 @@
 # Source file: 08D1.txt
 
 text_array = [
-    ("（レミィ	好感度イベント	ＰＳ）閨（渡闢り廊下）†",
+    ("（レミィ	好感度イベント	ＰＳ）閨（渡闢り廊下）",
     ""),
-    # (Wattle Remy Likeability Event PS) (Counter corridor)†
+    # (Wattle Remy Likeability Event PS) (Counter corridor)
 
     ("「Ｈ奄！	」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # During the break, I bought a Cafe au Gekile from the vending machine and got on for the first time at Gekire Remy.
 
-    ("「おう、レミィ。なんか用か？」†",
+    ("「おう、レミィ。なんか用か？」",
     ""),
     # "Oh, oh, oh Remi. Is it for something?"
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Now, AB Shield O next W Era Lion is popular now."
 
-    ("「マジかよぉ？	オレ知迺らねえぜ」†",
+    ("「マジかよぉ？	オレ知迺らねえぜ」",
     ""),
-    # "Are you serious? I don't know anything about it" †
+    # "Are you serious? I don't know anything about it" 
 
     ("「ねえねえ、好き？」",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Yes, I guess I'll just have to accept it."
 
-    ("「Ｒ≠ａ撃ｌ撃ｌ凾ｙ？	じ痰ゃ教えて教えてっ」†",
+    ("「Ｒ≠ａ撃ｌ撃ｌ凾ｙ？	じ痰ゃ教えて教えてっ」",
     ""),
     # "Rb≠a-shot l-shot l-shot l-y? Please tell me the phlegm."
 
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "Whoa, when I'm in Hayatokoku, I don't have a hot spring..."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("オレの返抹事は｢｢。",
     ""),

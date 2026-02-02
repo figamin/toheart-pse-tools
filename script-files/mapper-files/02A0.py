@@ -2,9 +2,9 @@
 # Source file: 02A0.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（廊下２）†",
+    ("（芹°香	回秤数イベント	１Ｆ	ＬＶ１）閨（廊下２）",
     ""),
-    # (Seri°Chuang, Scales Event 1F LV1)Seri (Carrior 2)†
+    # (Seri°Chuang, Scales Event 1F LV1)Seri (Carrior 2)
 
     ("１階の廊下へ降闕りてきて、ふと窓の外を見骭ると…。",
     ""),

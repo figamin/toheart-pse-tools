@@ -2,17 +2,17 @@
 # Source file: 0768.txt
 
 text_array = [
-    ("（琴音	好感度イベントＰＳ）閨（５桙時間目の休み桙時間）†",
+    ("（琴音	好感度イベントＰＳ）閨（５桙時間目の休み桙時間）",
     ""),
-    # (Kotone Likeability Event PS) (Break time in the fifth frame)†
+    # (Kotone Likeability Event PS) (Break time in the fifth frame)
 
     ("休み桙時間、琴音ち痰ゃんの教室にｌかった。",
     ""),
     # During the break, I went to Kotone Chisho-ya's classroom.
 
-    ("超能力の練習成果が気になったからだ。†",
+    ("超能力の練習成果が気になったからだ。",
     ""),
-    # This is because I was curious about the results of psychic powers' fortune practice.†
+    # This is because I was curious about the results of psychic powers' fortune practice.
 
     ("Ｂ組の生徒逑らしい子に声をかけた。",
     ""),
@@ -38,25 +38,25 @@ text_array = [
     ""),
     # There's no need for blood on your swords.
 
-    ("こないだみたいに無摶理しすぎたんだ！†",
+    ("こないだみたいに無摶理しすぎたんだ！",
     ""),
-    # It was just too irrational as I did the other day!†
+    # It was just too irrational as I did the other day!
 
     ("保瀦健室へｌかうと、諱先生はいなかった。",
     ""),
     # When I went to the Horen Infirmary, there was no Professor Ie-sensei there.
 
-    ("ベッドを覗くと、琴音ち痰ゃんが横になっている。†",
+    ("ベッドを覗くと、琴音ち痰ゃんが横になっている。",
     ""),
-    # When I looked into the bed, Kotone Chisho-chan was lying down.†
+    # When I looked into the bed, Kotone Chisho-chan was lying down.
 
     ("「琴音ち痰ゃん」",
     ""),
     # "Kotone Chishou-yan"
 
-    ("そっと声をかけると、琴音ち痰ゃんは目をあけた。†",
+    ("そっと声をかけると、琴音ち痰ゃんは目をあけた。",
     ""),
-    # He called out softly, and Kotone Chisho-yan opened his eyes.†
+    # He called out softly, and Kotone Chisho-yan opened his eyes.
 
     ("「…あ、さん…」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # I'm getting much better now."
 
-    ("思った以繹上に元気そうなので、オレは少し安心した。†",
+    ("思った以繹上に元気そうなので、オレは少し安心した。",
     ""),
-    # I felt a little relieved because I was feeling more energetic than I expected.†
+    # I felt a little relieved because I was feeling more energetic than I expected.
 
     ("「無摶理して使ったんだ？」",
     ""),
@@ -94,13 +94,13 @@ text_array = [
     ""),
     # Kotone's voice has fallen out of sight.
 
-    ("エネルギーがあふれるのを止めるには、香注ぎ足されるペース諠より多くのエネルギーを使寬わないといけない。†",
+    ("エネルギーがあふれるのを止めるには、香注ぎ足されるペース諠より多くのエネルギーを使寬わないといけない。",
     ""),
-    # To stop the overflowing energy, you have to use more energy than the pacework that is poured in.†
+    # To stop the overflowing energy, you have to use more energy than the pacework that is poured in.
 
-    ("＊幕のボ−ルを動かすくらいの力じ痰ゃ足闡りないと思って、琴音ち痰ゃんはバレーボールを浮かそうとして倒齠れたんだそうだ。†",
+    ("＊幕のボ−ルを動かすくらいの力じ痰ゃ足闡りないと思って、琴音ち痰ゃんはバレーボールを浮かそうとして倒齠れたんだそうだ。",
     ""),
-    # *It seems that Kotone Chisho-chan tried to lift a voluptuous voluptuous rail ball, thinking that he could not hold back the ball with enough strength to move the ball on the curtain.†
+    # *It seems that Kotone Chisho-chan tried to lift a voluptuous voluptuous rail ball, thinking that he could not hold back the ball with enough strength to move the ball on the curtain.
 
     ("「せっかく調子いいんだから、あせらず行こうぜ」",
     ""),
@@ -110,7 +110,7 @@ text_array = [
     ""),
     # "...I was thinking about getting a slut and getting some hot water...I did my best..."
 
-    ("「琴音ち痰ゃん…」†",
+    ("「琴音ち痰ゃん…」",
     ""),
     # "Kotone Chishou-san..."
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "...That's a shame, I'm... I'm sure one day I'll grow so big that I can't hold this ability down, and I'll end up doing things that are irresistible and irresistible to everyone..."
 
-    ("﨟情けない自分を笑うように、琴音ち痰ゃんが言う。†",
+    ("﨟情けない自分を笑うように、琴音ち痰ゃんが言う。",
     ""),
-    # 﨟Kotone Chisho-yan says, laughing at her pathetic self.†
+    # 﨟Kotone Chisho-yan says, laughing at her pathetic self.
 
     ("「そんなことねえって…。少しずつ、やればいいだ」",
     ""),
@@ -138,15 +138,15 @@ text_array = [
     "…"),
     # "..."
 
-    ("小さくうなずく琴音ち痰ゃん。†",
+    ("小さくうなずく琴音ち痰ゃん。",
     ""),
-    # Kotone nods small.†
+    # Kotone nods small.
 
     ("「まだｌめ付けるのは≠早いって。オレは桙応㊨援しかできねえけど、梶頼むから悲しいこと言うなよ」",
     ""),
     # "It's still too early to get the l-pitch. I can only do some support, but I'm asking you to Kaji, so don't say anything sad."
 
-    ("「…ごめんなさい。さんのおかげで始められたことなのに、ひとりで勝闖手にあきらめたりして…」†",
+    ("「…ごめんなさい。さんのおかげで始められたことなのに、ひとりで勝闖手にあきらめたりして…」",
     ""),
     # "...I'm sorry. I was able to start thanks to you, but I've given up on my own by myself..."
 
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # With that in mind, I slap the overwhelmed woman on the shoulder.
 
-    ("「…はい」†",
+    ("「…はい」",
     ""),
-    # "…yes"†
+    # "…yes"
 
     ("なんか暗い雰囲気。",
     ""),

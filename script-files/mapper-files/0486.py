@@ -2,9 +2,9 @@
 # Source file: 0486.txt
 
 text_array = [
-    ("（志保	回秤数イベント	２階１）閨（選択綜	帰驪る）†",
+    ("（志保	回秤数イベント	２階１）閨（選択綜	帰驪る）",
     ""),
-    # (Shiho Scales Event, 2nd Floor 1) (Choose-so-go-go)†
+    # (Shiho Scales Event, 2nd Floor 1) (Choose-so-go-go)
 
     ("「い〜や。オレは帰驪る！」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # With that in mind, I came out into the hallway with a stubborn person.
 
-    ("そして、わき目燒も振逅らず歩き出した。†",
+    ("そして、わき目燒も振逅らず歩き出した。",
     ""),
-    # And the stumbling blocked the ball and started walking.†
+    # And the stumbling blocked the ball and started walking.
 
     ("「こらっ、待ちなさいよぉ！」",
     ""),

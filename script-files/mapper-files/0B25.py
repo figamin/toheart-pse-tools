@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Oh, shut up."
 
-    ("お前の強さが身にしみたからだ…とは言えない。†",
+    ("お前の強さが身にしみたからだ…とは言えない。",
     ""),
-    # It's not that it's because you've gained strength...†
+    # It's not that it's because you've gained strength...
 
     ("「いいか、見てよ。今厓日は意地でもパンチを魔当ててやるからな」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "I wonder if I can do it?"
 
-    ("「へっ。いくら空闍手をやってたからとはいえ、女の子を鰍相闡手に一発熹も魔当てられないなんて、﨟情けなさすぎるからな」†",
+    ("「へっ。いくら空闍手をやってたからとはいえ、女の子を鰍相闡手に一発熹も魔当てられないなんて、﨟情けなさすぎるからな」",
     ""),
     # "Heh. No matter how much he's tampering with the sky, it's too pathetic that he can't even hit a bathing girl with a single shot at the cattle."
 
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Oh, it's your ability."
 
-    ("綾∴香はくすっと笑う。†",
+    ("綾∴香はくすっと笑う。",
     ""),
-    # Aya∴Ka chuckles.†
+    # Aya∴Ka chuckles.
 
     ("「まあ、そのうちそう思うようになるわよ」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # Segata Rio took out a red and blue ghoo robe from his sports bag and brought it to him.
 
-    ("オレと綾∴香はそれを受け取り、閨手にはめた。†",
+    ("オレと綾∴香はそれを受け取り、閨手にはめた。",
     ""),
-    # Megure and Aya Kara received it and put it in their hands.†
+    # Megure and Aya Kara received it and put it in their hands.
 
     ("「準備はいいわよ」",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # "Oh, it won't start even if you're talking silly. Let's start quickly."
 
-    ("「そうね。セリオ」†",
+    ("「そうね。セリオ」",
     ""),
-    # "Yes, Seragata Rio" †
+    # "Yes, Seragata Rio" 
 
     ("「はい。それでは…」",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # "The Witch Lady"
 
-    ("ふたりは同椏時に拳を構えた。†",
+    ("ふたりは同椏時に拳を構えた。",
     ""),
-    # The two of them raised their fist while simultaneously meeting.†
+    # The two of them raised their fist while simultaneously meeting.
 
     ("「｢｢ファイト」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # With the voices of the start of the test, I took a big step forward.
 
-    ("積極的に接近するオレを見て、綾∴香が意外そうな顔をする。†",
+    ("積極的に接近するオレを見て、綾∴香が意外そうな顔をする。",
     ""),
-    # Seeing my guts approaching her proactively, Aya∴Ka makes a surprising look on her face.†
+    # Seeing my guts approaching her proactively, Aya∴Ka makes a surprising look on her face.
 
     ("どの方阜から攻めるか！？",
     ""),

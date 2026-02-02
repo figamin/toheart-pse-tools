@@ -2,9 +2,9 @@
 # Source file: 01A6.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	１Ｆ）閨（選択綜Ｂ	背白を見洛送る）†",
+    ("（あかり	回秤数イベント	１Ｆ）閨（選択綜Ｂ	背白を見洛送る）",
     ""),
-    # (Akari Scales Event 1F) Silence (Select B: Skulls the back of the ball)†
+    # (Akari Scales Event 1F) Silence (Select B: Skulls the back of the ball)
 
     ("まあ、行きも帰闍りもいっしょじ痰ゃ、さすがに話することもなくなってくるからな。",
     ""),

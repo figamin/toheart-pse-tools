@@ -2,9 +2,9 @@
 # Source file: 0A1D.txt
 
 text_array = [
-    ("（Ａ	玄太郎を押さえつける。）†",
+    ("（Ａ	玄太郎を押さえつける。）",
     ""),
-    # (A: Hold down Gentaro.)†
+    # (A: Hold down Gentaro.)
 
     ("「くらっ、いい加減にしろ！」",
     "Leave her alone!"),
@@ -34,7 +34,7 @@ text_array = [
 
     ("そう言ってオレは玄太郎の頭をポンポンと叩いてみせる。",
     "I say while patting Gentaro's head."),
-    # With that in mind, I slap Gentaro's head.†
+    # With that in mind, I slap Gentaro's head.
 
     ("「えっ…？」",
     "Huh?"),
@@ -50,7 +50,7 @@ text_array = [
 
     ("再び起き上がった玄太郎が飛びかかろうとする。",
     "Gentaro gets up again and leaps towards her."),
-    # Gentaro wakes up again and tries to jump on him.†
+    # Gentaro wakes up again and tries to jump on him.
 
     ("「きゃあぁっ！！」",
     "Aaah!"),
@@ -62,7 +62,7 @@ text_array = [
 
     ("驚いて、思いっきりコケる理緒ちゃん。",
     "Rio is so surprised she falls to the ground."),
-    # Surprisingly, she moans to the fullest.†
+    # Surprisingly, she moans to the fullest.
 
     ("「こらっ！」",
     "Hey!"),
@@ -70,7 +70,7 @@ text_array = [
 
     ("オレは玄太郎を押さえつけると、ペタンと路上に座り込んでしまっている理緒ちゃんに片手を差し出した。",
     "I pull Gentaro back and hold a hand out to Rio, who is sitting on the ground after her fall."),
-    # I held down Gentaro and held out a hand to the slug that was sitting on the street and was shaking its face.†
+    # I held down Gentaro and held out a hand to the slug that was sitting on the street and was shaking its face.
 
     ("「おい、大丈夫か？」",
     "You okay?"),
@@ -108,7 +108,7 @@ text_array = [
 
     ("嬉しそうにしっぽを振る玄太郎。",
     "Gentaro wags his tail happily."),
-    # Gentaro shook his tail happily.†
+    # Gentaro shook his tail happily.
 
     ("「ほらな？　大人しいもんだろ？」",
     "See? Such a good boy, right?"),
@@ -126,7 +126,7 @@ text_array = [
 
     ("もう一度、軽く頭をはたく。",
     "I lightly pet him on the head again."),
-    # Once again, lightly slam your head.†
+    # Once again, lightly slam your head.
 
     ("「う、うん…。",
     "Y-Yeah,"),
@@ -150,7 +150,7 @@ text_array = [
 
     ("当たり前か。",
     "What was I expecting?"),
-    # Is it obvious to polish?†
+    # Is it obvious to polish?
 
     ("「ほら、玄太郎。",
     "Gentaro, look."),
@@ -172,7 +172,7 @@ text_array = [
 
     ("玄太郎は素直に離れていった。",
     "And so he leaves without a fight."),
-    # Gentaro was left in a straightforward manner.†
+    # Gentaro was left in a straightforward manner.
 
     ("「ところで理緒ちゃん。",
     "By the way, Rio,"),
@@ -252,7 +252,7 @@ text_array = [
 
     ("「え？」",
     "What?"),
-    # "picture?"†
+    # "picture?"
 
     ("そのとき。",
     "At that moment…"),
@@ -276,7 +276,7 @@ text_array = [
 
     ("ご近所からそんな声が聞こえたので、厄介なことになる前に、オレたちふたりは早々にドロンした。",
     "The voice is coming from nearby, so we decide to flee the scene before trouble comes visiting."),
-    # I heard this voice from the nearby Kuzuso, so before we could go to the tsuyu, we both quickly went to the tsuyu.†
+    # I heard this voice from the nearby Kuzuso, so before we could go to the tsuyu, we both quickly went to the tsuyu.
 
     ("この桜の木は、そのおじいさんにとって、かけがえのない思い出の木であった。",
     "This cherry blossom tree is something the old man cherished very much."),
@@ -286,7 +286,7 @@ text_array = [
     "His late wife Masako's last words were,"),
     ("『この桜を私だと思ってくださいまし』と残して、息を引き取ったのだ。",
     "Please think of this cherry blossom tree as me."),
-    # When his late wife (Masako) once died, she left her life saying, "Please consider this cherry blossom as me."†
+    # When his late wife (Masako) once died, she left her life saying, "Please consider this cherry blossom as me."
 
     ("それからというもの、おじいさんのこの桜にかける愛情は並々ならぬものがあった。",
     "His immense love for this tree started from that moment."),
@@ -294,7 +294,7 @@ text_array = [
 
     ("おじいさんにとって、この桜の木はまさに妻昌子そのものであったのだ。",
     "To him, the cherry blossom tree was Masako herself."),
-    # For his grandfather, this cherry tree was truly a hot spring from his wife Masako.†
+    # For his grandfather, this cherry tree was truly a hot spring from his wife Masako.
 
     ("そもそも、この桜にまつわるエピソードとして…。",
     "That is the story about this cherry blossom tree…"),

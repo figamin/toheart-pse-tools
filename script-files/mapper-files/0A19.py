@@ -2,9 +2,9 @@
 # Source file: 0A19.txt
 
 text_array = [
-    ("（Ｂ	見洛送る。）†",
+    ("（Ｂ	見洛送る。）",
     ""),
-    # (B: Skull of the Raku-soku.)†
+    # (B: Skull of the Raku-soku.)
 
     ("あんなに急いでるんだ。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It would be a shame if they could stop them.
 
-    ("オレは黙って理女緒ち痰ゃんの後撃姿を見洛送ることにした。†",
+    ("オレは黙って理女緒ち痰ゃんの後撃姿を見洛送ることにした。",
     ""),
-    # I decided to shut up and take a stomping trip after the attack was sent to the ground.†
+    # I decided to shut up and take a stomping trip after the attack was sent to the ground.
 
     ("ダダダダダダ…。",
     ""),

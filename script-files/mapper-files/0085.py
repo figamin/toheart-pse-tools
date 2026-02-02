@@ -2,9 +2,9 @@
 # Source file: 0085.txt
 
 text_array = [
-    ("（冝期槙末テスト	２冾日目）閨（選択綜	バッチリ）†",
+    ("（冝期槙末テスト	２冾日目）閨（選択綜	バッチリ）",
     ""),
-    # (2nd day of the sinus final test) (Secondhand sinus Batch-Katari)†
+    # (2nd day of the sinus final test) (Secondhand sinus Batch-Katari)
 
     ("「バッチリさ」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Sb≠a nitrogen drip! I did that, huh!"
 
-    ("「♀んでくれるのはいいけど、レミィ、お前のほうはどうなんだ？」†",
+    ("「♀んでくれるのはいいけど、レミィ、お前のほうはどうなんだ？」",
     ""),
     # "It's fine if you give me a female, but what about you, Karemi?"
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Is that really true? That's the official phlegm, remember the official phobia, so if there's no slut."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「お先真っ暗だな」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # He says it like someone else's thing.
 
-    ("本人がそれほど気に病んじ痰ゃいないのは救いだな。†",
+    ("本人がそれほど気に病んじ痰ゃいないのは救いだな。",
     ""),
-    # It's a relief that the person himself is so sick and not phlegmy.†
+    # It's a relief that the person himself is so sick and not phlegmy.
 
     ("「けど、レミィには英皷語があるだ」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "It's phlegm."
 
-    ("「うん」†",
+    ("「うん」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「じ痰ゃあ、べつの教科で頑張れよ。化学とか、現社とか」",
     ""),

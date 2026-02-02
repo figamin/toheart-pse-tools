@@ -2,9 +2,9 @@
 # Source file: 0185.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（選択綜Ｂ	お前の晴齔れｒ姿か？）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（選択綜Ｂ	お前の晴齔れｒ姿か？）",
     ""),
-    # (Akari Scales Event 2F) Li (Choice B: Are you in your appearance as a sunny day?)†
+    # (Akari Scales Event 2F) Li (Choice B: Are you in your appearance as a sunny day?)
 
     ("「お前の晴齔れｒ姿か？」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # "Yeah, well..."
 
-    ("「うちの親なんか晴齔れｒのお前見骭るたびに、女の子が欲しい、女の子が欲しいって言ってたからな。記憶にｍ闕り桙込まれちまったぜ」†",
+    ("「うちの親なんか晴齔れｒのお前見骭るたびに、女の子が欲しい、女の子が欲しいって言ってたからな。記憶にｍ闕り桙込まれちまったぜ」",
     ""),
     # "My parents said that every time I watched you, the girl I wanted, and that I wanted a girl with a bath. My memory was so sad that I was left in my memory."
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "And even for Hou, everyone in the world dresses normally, yeah? I'm the only one who's standing there, and I'm embarrassed, so I didn't really want to go outside."
 
-    ("「親の心子知迺らず」†",
+    ("「親の心子知迺らず」",
     ""),
-    # "Not understanding of parents' hearts" †
+    # "Not understanding of parents' hearts" 
 
     ("「でも、覚えてるって聞いたのは、そのことじ痰ゃないよ。ひな壇蜥大崩壊哩事庶件のこと」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "...Tch, is that?"
 
-    ("オレは舌打ちして言った。†",
+    ("オレは舌打ちして言った。",
     ""),
-    # I clicked my tongue and said,†
+    # I clicked my tongue and said,
 
     ("あかりの言う『ひな壇蜥大崩壊哩事庶件』とは、ちっち痰ゃい子沁供のこの話だ。",
     ""),
@@ -62,13 +62,13 @@ text_array = [
     ""),
     # I was drunk with Choibai Sake and climbed up to Akarinchi's podium and muttered it to me, "Well, that's the kind of hot content.
 
-    ("しかし、そんな大昔の話をよく覚えているもんだ。†",
+    ("しかし、そんな大昔の話をよく覚えているもんだ。",
     ""),
-    # However, I remember such a long time ago story.†
+    # However, I remember such a long time ago story.
 
-    ("「感心するぜ」†",
+    ("「感心するぜ」",
     ""),
-    # "I'm impressed" †
+    # "I'm impressed" 
 
     ("「なにが？」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Hehe, well."
 
-    ("なにやらふくみ笑いをするあかり。†",
+    ("なにやらふくみ笑いをするあかり。",
     ""),
-    # Akari laughs with something and laughs.†
+    # Akari laughs with something and laughs.
 
     ("「なんだよ」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "What?!? Yes, it's not like ""
 
-    ("「お前の嘘ぐらいすぐわかんだよ！	おらっ、なに隠してる、秩白状し！」†",
+    ("「お前の嘘ぐらいすぐわかんだよ！	おらっ、なに隠してる、秩白状し！」",
     ""),
-    # "I know as quickly as you can lie! What are you hiding, I confess your order!" †
+    # "I know as quickly as you can lie! What are you hiding, I confess your order!" 
 
     ("その後、あかりの家に、当椏時のオレの痴態を写した写真が残っていることが判明した。",
     ""),

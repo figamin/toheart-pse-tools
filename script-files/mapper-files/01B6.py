@@ -2,9 +2,9 @@
 # Source file: 01B6.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ｂ	安繹上がりなрヤツだなあ）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ｂ	安繹上がりなрヤツだなあ）",
     ""),
-    # (Akari Scales Event 2F) (B He's the one who's safe and secure)†
+    # (Akari Scales Event 2F) (B He's the one who's safe and secure)
 
     ("たかだか虹ごときで、あんなに嬉しそうにはし痰ゃぎやがって。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # The one who matches the red light is also lucky or hot.
 
-    ("金のかかるプレゼントなんてしなくても、この程度のことで十分賦んでくれるからな。†",
+    ("金のかかるプレゼントなんてしなくても、この程度のことで十分賦んでくれるからな。",
     ""),
-    # They don't do expensive, extremely popular presents, and this level of food will pay enough for the hot springs.†
+    # They don't do expensive, extremely popular presents, and this level of food will pay enough for the hot springs.
 
     ("「なあに、さっきから？」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Ah, I thought Kaji Ai Henzaki wasn't the one, he was a brat."
 
-    ("「え？	そ、そうかな…？」†",
+    ("「え？	そ、そうかな…？」",
     ""),
     # "Huh? Is that so...?"
 

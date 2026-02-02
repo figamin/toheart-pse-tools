@@ -2,9 +2,9 @@
 # Source file: 0F62.txt
 
 text_array = [
-    ("（４月２０冾日	冝日）閨（志保の場㍼合）†",
+    ("（４月２０冾日	冝日）閨（志保の場㍼合）",
     ""),
-    # (April 20th day of the month) (April 10th day of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month)†
+    # (April 20th day of the month) (April 10th day of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month of the month)
 
     ("正直あいつに借りをｍ骰るのはシャャクだが、一番灯遠慮なく電話できるからな。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # It's easy to hear.
 
-    ("つーわけで、′郁健閨B†",
+    ("つーわけで、′郁健閨B",
     ""),
-    # So, 'Yuu Ken Lib†
+    # So, 'Yuu Ken Lib
 
     ("パピポ…と。",
     ""),
@@ -26,17 +26,17 @@ text_array = [
     "…"),
     # "..."
 
-    ("ツー…ツー…ツー…。†",
+    ("ツー…ツー…ツー…。",
     ""),
-    # Two...two...two...†
+    # Two...two...two...
 
     ("なんだ、話しｒかよ。",
     ""),
     # What, are you talking about it?
 
-    ("梶相変﨑わらず誰かと無駄話してんのか。†",
+    ("梶相変﨑わらず誰かと無駄話してんのか。",
     ""),
-    # Kaji Ai Henzaki is talking to someone else without saying that?†
+    # Kaji Ai Henzaki is talking to someone else without saying that?
 
     ("結局、雅史に聞いて、事なきを得た。◯",
     ""),

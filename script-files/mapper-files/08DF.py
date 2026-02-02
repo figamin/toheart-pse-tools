@@ -2,9 +2,9 @@
 # Source file: 08DF.txt
 
 text_array = [
-    ("（レミィ	好感度イベントＰＳ）閨（選択綜	行く）†",
+    ("（レミィ	好感度イベントＰＳ）閨（選択綜	行く）",
     ""),
-    # (Good Remy Likeability Event PS) (Select Sogo) †
+    # (Good Remy Likeability Event PS) (Select Sogo) 
 
     ("「オレは撃レミィに義搴理はたっぷりあるからな。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Let's go for it."
 
-    ("オレはうなずいた。†",
+    ("オレはうなずいた。",
     ""),
-    # I nodded.†
+    # I nodded.
 
     ("「うんっ、きっとおもしいｃ」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Is it okay to invite people like red and i-hisa, and then have a hot spring?"
 
-    ("「…ごめんね。今厓日、特別だから、だけにｗて欲しいの」†",
+    ("「…ごめんね。今厓日、特別だから、だけにｗて欲しいの」",
     ""),
-    # "...Sorry. I want you to be the one who's special now on the day." †
+    # "...Sorry. I want you to be the one who's special now on the day." 
 
     ("「オレだけ？」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # Plus, it looks kind of embarrassing.
 
-    ("…まさか、家族にオレを『未沫のダンナ様デ〜ス』とか紹譓介するんじ痰ゃねえだーな！？†",
+    ("…まさか、家族にオレを『未沫のダンナ様デ〜ス』とか紹譓介するんじ痰ゃねえだーな！？",
     ""),
-    # ...I can't believe it's a shame that I'll be introducing my family to "Unsplashed Husband"!?†
+    # ...I can't believe it's a shame that I'll be introducing my family to "Unsplashed Husband"!?
 
     ("「いいでしょ？」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "I understand.
 
-    ("レミィんちに６桙時だな」†",
+    ("レミィんちに６桙時だな」",
     ""),
     # It's six gazes to Remy's"
 

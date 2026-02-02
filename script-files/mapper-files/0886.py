@@ -2,17 +2,17 @@
 # Source file: 0886.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	２階１）閨（選択綜	移動）†",
+    ("（レミィ	回秤数イベント	２階１）閨（選択綜	移動）",
     ""),
-    # (Game Remy Scale Event 2nd Floor 1) (Select Move)†
+    # (Game Remy Scale Event 2nd Floor 1) (Select Move)
 
     ("スケベ親ヰ父みたいな真乱似はしたくない。",
     ""),
     # I don't want to look like a perverted father like a pervert.
 
-    ("オレはすばやく立ち上がった。†",
+    ("オレはすばやく立ち上がった。",
     ""),
-    # My throbbing quickly rose to the ground.†
+    # My throbbing quickly rose to the ground.
 
     ("「あのね、」",
     ""),

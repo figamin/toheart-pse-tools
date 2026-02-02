@@ -2,9 +2,9 @@
 # Source file: 0A0A.txt
 
 text_array = [
-    ("（Ｂ	やめておく。）†",
+    ("（Ｂ	やめておく。）",
     "B"),
-    # (B: Stop it.)†
+    # (B: Stop it.)
 
     ("なんか忙しいみたいだし、声をかけるのはやめておこう。",
     "She seems busy, so I decide not to call out to her."),
@@ -12,7 +12,7 @@ text_array = [
 
     ("オレはティッシュを持ったまま、その場を離れた。",
     "I walk away with the tissue packet in hand."),
-    # Ogere left the scene, holding the tissue behind.†
+    # Ogere left the scene, holding the tissue behind.
 
     ("「あら、",
     "Hiro?"),
@@ -30,7 +30,7 @@ text_array = [
 
     ("さっそくつっかかってきた。",
     "She bears down on me right away."),
-    # It started to catch on immediately.†
+    # It started to catch on immediately.
 
     ("「って、アンタ、なんか面白いもの持ってんじゃないのよ～」",
     "Wait, I see you're holding on to something interesting."),
@@ -38,7 +38,7 @@ text_array = [
 
     ("いきなり志保はオレの手からティッシュをひったくる。",
     "Without warning, she grabs the tissue packet out of my hand."),
-    # Suddenly, Shiho snatches Tissha out of my hand.†
+    # Suddenly, Shiho snatches Tissha out of my hand.
 
     ("「うん。",
     "The bald man's tissue,"),
@@ -64,7 +64,7 @@ text_array = [
 
     ("べつの意味で。",
     "In a different sense, that is."),
-    # In a different sense.†
+    # In a different sense.
 
     ("「なに言ってんのよ～、人がせっかく生え際の危機を心配してあげてんのに」",
     "Don't be like that! I was just showing concern for your hairline!"),
@@ -88,7 +88,7 @@ text_array = [
 
     ("オレは話題をよそにそらす。",
     "I change the subject."),
-    # I distract the topic from other people.†
+    # I distract the topic from other people.
 
     ("このままじゃ明日の『志保ちゃん情報』のトップを華々しく飾りかねない。",
     "I do not want to be tomorrow's Shiho Info headline."),

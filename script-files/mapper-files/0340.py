@@ -2,25 +2,25 @@
 # Source file: 0340.txt
 
 text_array = [
-    ("（智子	好感度イベント１）閨（好感度が	１６以繹上のとき）閨（教室	休み桙時間）閨（４桙時間目の授業拠）†",
+    ("（智子	好感度イベント１）閨（好感度が	１６以繹上のとき）閨（教室	休み桙時間）閨（４桙時間目の授業拠）",
     ""),
-    # (Tomoko Likeability Event 1) (When Likeability is above 16) (Classic holiday time) (Classic holiday time) (Classic holiday time) (Classic holiday time))†
+    # (Tomoko Likeability Event 1) (When Likeability is above 16) (Classic holiday time) (Classic holiday time) (Classic holiday time) (Classic holiday time))
 
     ("四梹時間目は代泊数幾何の授業だったが、担亦当の先生が急用で自習になった。",
     ""),
     # The fourth time period was a class on night count geometry, but the teacher who was also involved in the urgent need to study on its own.
 
-    ("委員長が預かってきた課濶題用のプリントをみんなに配った。†",
+    ("委員長が預かってきた課濶題用のプリントをみんなに配った。",
     ""),
-    # The chairman handed out all the Pulata Rinto for the departmental title that he had been in charge of.†
+    # The chairman handed out all the Pulata Rinto for the departmental title that he had been in charge of.
 
     ("「まとめて提出しますので、縺後撃の席の人は５分前になったら集めてр私のとこへ持ってきて下さい。これが終尞わった人は各自で自習です」",
     ""),
     # "We will submit all the items in bulk, so if you are in the after-stopping session, please gather them five minutes before and bring them to my place. Those who have finished this will study on their own."
 
-    ("委員長が関西弁のイントネーションで言う。†",
+    ("委員長が関西弁のイントネーションで言う。",
     ""),
-    # The chairman says this in Kansai dialect.†
+    # The chairman says this in Kansai dialect.
 
     ("プリントが翌送迹られてきた。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # There weren't many questions, and at first glance it seemed like it would be over in about 10 minutes.
 
-    ("まあ、このぐらいなら、とじっくり問題を読んでみると、％易度はかなり高い。†",
+    ("まあ、このぐらいなら、とじっくり問題を読んでみると、％易度はかなり高い。",
     ""),
-    # Well, if you read the questionnaire at this rate carefully, the %easiness is quite high.†
+    # Well, if you read the questionnaire at this rate carefully, the %easiness is quite high.
 
     ("「…う〜ん」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "No, I don't know."
 
-    ("結局、梶投げてしまった。†",
+    ("結局、梶投げてしまった。",
     ""),
-    # In the end, I ended up throwing Kaji.†
+    # In the end, I ended up throwing Kaji.
 
     ("諱よく見り痰ゃ、真面目に取り組んでいるやつなんて、ほとんどいない。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # It's really outrageous.
 
-    ("楽することばかり考えち痰ゃいかんよ。†",
+    ("楽することばかり考えち痰ゃいかんよ。",
     ""),
-    # You have to think about things that will make you feel comfortable.†
+    # You have to think about things that will make you feel comfortable.
 
     ("…といいつつ、さて、オレは誰に写させてもらおうかね。",
     ""),

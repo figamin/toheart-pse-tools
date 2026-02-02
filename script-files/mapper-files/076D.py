@@ -2,9 +2,9 @@
 # Source file: 076D.txt
 
 text_array = [
-    ("（琴音	好感度イベント）閨（超能力ってスゴイ２）閨（５桙時間目の休み桙時間に変更してください）†",
+    ("（琴音	好感度イベント）閨（超能力ってスゴイ２）閨（５桙時間目の休み桙時間に変更してください）",
     ""),
-    # (Kotone's Likeability Event) (Psychic Powers are amazing 2) (Please change it to the rest period in the fifth frame) †
+    # (Kotone's Likeability Event) (Psychic Powers are amazing 2) (Please change it to the rest period in the fifth frame) 
 
     ("休み桙時間、廊下で琴音ち痰ゃんを見かけた。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Someone is in the essay.
 
-    ("同じクラスの翌女の子かな？†",
+    ("同じクラスの翌女の子かな？",
     ""),
-    # Maybe the girl after the same party?†
+    # Maybe the girl after the same party?
 
     ("少し見ていると、女の子は琴音ち痰ゃんに笑顔で手を振って去っていった。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # It's a bit surprising to see a girl who seems to be close to her like that...
 
-    ("オレは、ひとりになった琴音ち痰ゃんに声をかけた。†",
+    ("オレは、ひとりになった琴音ち痰ゃんに声をかけた。",
     ""),
-    # I called out to Kotone Chisho-chan, who had been alone.†
+    # I called out to Kotone Chisho-chan, who had been alone.
 
     ("「いようっ、琴音ち痰ゃん」",
     ""),
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # "Um, it's the same banquet..."
 
-    ("「それで？」†",
+    ("「それで？」",
     ""),
     # "So?"
 
@@ -62,17 +62,17 @@ text_array = [
     ""),
     # "You suddenly started talking to me?"
 
-    ("聞いてみると、琴音ち痰ゃんはこくんとうなずく。†",
+    ("聞いてみると、琴音ち痰ゃんはこくんとうなずく。",
     ""),
-    # When I asked, Kotone Chisho-chan nodded with Ko-kun.†
+    # When I asked, Kotone Chisho-chan nodded with Ko-kun.
 
     ("…やっぱりだ。",
     ""),
     # ...It's exactly like that.
 
-    ("オレの勘違いでなけり痰ゃ、状況はイイ禛方阜に進んでるに痰違いない。†",
+    ("オレの勘違いでなけり痰ゃ、状況はイイ禛方阜に進んでるに痰違いない。",
     ""),
-    # If it's not my slutty intuition, the situation is going to be good, but it's definitely phlegm.†
+    # If it's not my slutty intuition, the situation is going to be good, but it's definitely phlegm.
 
     ("「…やっぱり、森本さんから聞いたのでしょうか？」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("琴音ち痰ゃんは目を嘯伏せた。†",
+    ("琴音ち痰ゃんは目を嘯伏せた。",
     ""),
-    # Kotone Chisho-chan put her eyes down.†
+    # Kotone Chisho-chan put her eyes down.
 
     ("「♀んでいいと思うぜ？」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "That's what I mean. Everyone recognized Kotone Chisho-yan as a psychic."
 
-    ("薄気味悪い『悪霊覧女』じ痰ゃなく、だ。†",
+    ("薄気味悪い『悪霊覧女』じ痰ゃなく、だ。",
     ""),
-    # A creepy "evil spirit woman" is a slurred woman.†
+    # A creepy "evil spirit woman" is a slurred woman.
 
     ("「…みんながわたしのこと、どんな目で見ていたかは知ってます…。でも…、いまはまだ困骰るんです」",
     ""),
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Why?"
 
-    ("「…まだ、能力をコント鴻ロールできるようになったわけではありませんから」†",
+    ("「…まだ、能力をコント鴻ロールできるようになったわけではありませんから」",
     ""),
     # "...I'm not yet able to control abilities."
 
@@ -126,7 +126,7 @@ text_array = [
     ""),
     # "I can't wait until I see something a little longer."
 
-    ("「まあな。オレも琴音ち痰ゃんの気のすむまでつき№合うぜ」†",
+    ("「まあな。オレも琴音ち痰ゃんの気のすむまでつき№合うぜ」",
     ""),
     # "Well, I'm going to meet you all the time until Kotone-chisou-chan feels good."
 

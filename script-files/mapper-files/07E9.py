@@ -2,9 +2,9 @@
 # Source file: 07E9.txt
 
 text_array = [
-    ("（琴音	回秤数イベント３	ＰＳ）閨（選択綜	別れる）†",
+    ("（琴音	回秤数イベント３	ＰＳ）閨（選択綜	別れる）",
     ""),
-    # (Kotone, Scales Event 3 PS) (Chounen, parting)†
+    # (Kotone, Scales Event 3 PS) (Chounen, parting)
 
     ("「今から帰驪るのか？」",
     ""),

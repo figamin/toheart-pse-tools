@@ -2,25 +2,25 @@
 # Source file: 0474.txt
 
 text_array = [
-    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	いいぜ）†",
+    ("（志保	回秤数イベント	ＰＳ）閨（選択綜	いいぜ）",
     ""),
-    # (Shiho Scales Event PS) (Selection So Iize)†
+    # (Shiho Scales Event PS) (Selection So Iize)
 
     ("「いいぜ。あの店のアイスはオレも結構気に入ってるからな」",
     ""),
     # "That's fine. I really like the ice cream at that restaurant."
 
-    ("その店は駅前広鼾場に面した場鰹所にあって、広鼾場でヒマつぶししてる連中はみんな片阨手にそこのアイスを持ってるほどの人気だ。†",
+    ("その店は駅前広鼾場に面した場鰹所にあって、広鼾場でヒマつぶししてる連中はみんな片阨手にそこのアイスを持ってるほどの人気だ。",
     ""),
-    # The store is located in a bonito area facing the Gwangong area in front of the station, and all the people who are slaughtering their time at Gwangong area are holding ice cream from there in one place.†
+    # The store is located in a bonito area facing the Gwangong area in front of the station, and all the people who are slaughtering their time at Gwangong area are holding ice cream from there in one place.
 
     ("「おっし、′まりね」",
     ""),
     # "Oh, marinade."
 
-    ("オレたち二人はアイス屋に足をｌけた。†",
+    ("オレたち二人はアイス屋に足をｌけた。",
     ""),
-    # The two of us went to the ice cream shop.†
+    # The two of us went to the ice cream shop.
 
     ("「なあ、新＄メニャーってなにが増えたんだ？」",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Oh, I see. You don't know."
 
-    ("「ああ」†",
+    ("「ああ」",
     ""),
-    # "ah"†
+    # "ah"
 
     ("「えっとねぇ…＝メ鴻ロンココアと、スイカコーヒーと、普抹ヶ茶穀牛絜乳謫よ」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "Toko b is so cute, and I've got a pretty good reputation for this."
 
-    ("「信じられん…」†",
+    ("「信じられん…」",
     ""),
     # "I can't believe it..."
 
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "What are you talking about? You don't listen to it, you're a phlegm that hardens at the counter, right?"
 
-    ("「そり痰ゃ、そうだが…」†",
+    ("「そり痰ゃ、そうだが…」",
     ""),
     # "That's right, but..."
 
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "What are you scared of? I can't eat hot foods that can't be eaten, so I can't sell them."
 
-    ("「けどなぁ、ものにはそれぞれ鰍相性があってだな｢｢」†",
+    ("「けどなぁ、ものにはそれぞれ鰍相性があってだな｢｢」",
     ""),
-    # "But, each thing goes well with crocodile ""†
+    # "But, each thing goes well with crocodile ""
 
     ("「ダ＜メダ＜メ。あんたはもう逃げられないのよ。イсヤならあたしが選んじ痰ゃおっか？」",
     ""),
@@ -102,7 +102,7 @@ text_array = [
     ""),
     # "Arrogant, my name is"
 
-    ("「んで、破齡れかぶれになにを食べるの？」†",
+    ("「んで、破齡れかぶれになにを食べるの？」",
     ""),
     # "So, what are you going to eat to get a rash?"
 

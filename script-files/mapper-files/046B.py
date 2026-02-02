@@ -2,11 +2,11 @@
 # Source file: 046B.txt
 
 text_array = [
-    ("（志保	追加イベント３）閨（選択綜	掾持っていない）†",
+    ("（志保	追加イベント３）閨（選択綜	掾持っていない）",
     ""),
-    # (Shiho Additional Event 3) (Selected)†
+    # (Shiho Additional Event 3) (Selected)
 
-    ("「掾持ってねえよ。オレは金搴持ちのボンボンじ痰ゃねえんだ。飯續代がせいぜいだよ」†",
+    ("「掾持ってねえよ。オレは金搴持ちのボンボンじ痰ゃねえんだ。飯續代がせいぜいだよ」",
     ""),
     # "I don't have any enthusiasm. I have no phlegm for the money-making spurt. I have to pay the best meals."
 
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "What, you're going to get squeals?"
 
-    ("「驕るせー諱よ。で、怐万札になんの用があったんだ？」†",
+    ("「驕るせー諱よ。で、怐万札になんの用があったんだ？」",
     ""),
     # "Arrogant, sir. So, what was the purpose of the king'an bill?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "The information I'm chasing is not just about the daily splashing of women, but also includes knowledge that is even more useful to everyone."
 
-    ("「言うことだけは立派だな」†",
+    ("「言うことだけは立派だな」",
     ""),
     # "What you say is great"
 
@@ -50,17 +50,17 @@ text_array = [
     ""),
     # "...Well, that's good. Because you were penniless, my battle with M-Tsu has failed."
 
-    ("「″寘戦？」†",
+    ("「″寘戦？」",
     ""),
-    # ""Turning?”†
+    # ""Turning?”
 
     ("「気にしないでいいわよ〜♪」",
     ""),
     # "Don't worry about it~♪"
 
-    ("そう言うと、志保はバイバ〜イと手を振った。†",
+    ("そう言うと、志保はバイバ〜イと手を振った。",
     ""),
-    # When Shiho said that, he waved his hand, "Baybaaa."†
+    # When Shiho said that, he waved his hand, "Baybaaa."
 
     ("「おい、こらっ」",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 0102.txt
 
 text_array = [
-    ("（あかり	冝日付イベント１）閨（Ｂ	今回はひとりでがんばるぜの続き）†",
+    ("（あかり	冝日付イベント１）閨（Ｂ	今回はひとりでがんばるぜの続き）",
     ""),
-    # (Akari Pon Date Event 1) (B Continued from "I'll do my best on my own")†
+    # (Akari Pon Date Event 1) (B Continued from "I'll do my best on my own")
 
     ("「今回はひとりでがんばるぜ」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "It looks like it's going to drag you down."
 
-    ("「そんなことないよ。ち痰ゃんは、やればなんでも出女磯翌鴦ｾから。きっと逆に、п私のほうが教えられる立齬場になるよ」†",
+    ("「そんなことないよ。ち痰ゃんは、やればなんでも出女磯翌鴦ｾから。きっと逆に、п私のほうが教えられる立齬場になるよ」",
     ""),
     # "That's not true. If you do it, why does it come out of the woman Iso Isouin's Goblin? I'm sure it will become a more contradiction place where I can teach you."
 
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "yes…"
 
-    ("あかりは残念そうな顔をした。†",
+    ("あかりは残念そうな顔をした。",
     ""),
-    # Akari looked sad.†
+    # Akari looked sad.
 
     ("「うん、わかった。じ痰ゃ、がんばってね」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # If you have any questions about Hot even within the scope of the test, feel free to call us."
 
-    ("「さんきゅー」†",
+    ("「さんきゅー」",
     ""),
-    # "Sanki Yo" †
+    # "Sanki Yo" 
 
     ("「雅史ち痰ゃんはどう？	いっしょに」",
     ""),
@@ -82,17 +82,17 @@ text_array = [
     ""),
     # I invited you to do no rationality and irrelevant."
 
-    ("空気を取り繕うようにあかりが言った。†",
+    ("空気を取り繕うようにあかりが言った。",
     ""),
-    # Akari said, trying to keep the atmosphere in check.†
+    # Akari said, trying to keep the atmosphere in check.
 
     ("「それじ痰ゃーね」",
     ""),
     # "That's all phlegm."
 
-    ("そう言うと、あかりは笑顔を残して教室を出ていった。†",
+    ("そう言うと、あかりは笑顔を残して教室を出ていった。",
     ""),
-    # When Akari said that, she left the classroom with a smile on her face.†
+    # When Akari said that, she left the classroom with a smile on her face.
 
     ("「いっしょにすればよかったのに…」",
     ""),
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "I thought... it was somehow bad."
 
-    ("「あん、なにがだよ？」†",
+    ("「あん、なにがだよ？」",
     ""),
     # "Ah, what is it?"
 
@@ -122,8 +122,8 @@ text_array = [
     ""),
     # "What are you saying?... I'm sorry."
 
-    ("でも、やっぱ、断髓ることもなかったかな。†",
+    ("でも、やっぱ、断髓ることもなかったかな。",
     ""),
-    # So, I guess there was no hot spring, no hot spring after all.†
+    # So, I guess there was no hot spring, no hot spring after all.
 
 ]

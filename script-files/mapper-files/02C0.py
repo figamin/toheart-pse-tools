@@ -2,9 +2,9 @@
 # Source file: 02C0.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｃ	將央突破あるのみ）†",
+    ("（芹°香	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ｃ	將央突破あるのみ）",
     ""),
-    # (Seri°C, Scales, Scales Event, Return Road, LV2)Seri (Only break through the Chosen Soku C School)†
+    # (Seri°C, Scales, Scales Event, Return Road, LV2)Seri (Only break through the Chosen Soku C School)
 
     ("將央突破あるのみだ！",
     ""),
@@ -22,15 +22,15 @@ text_array = [
     ""),
     # "Oh, let's go!"
 
-    ("オレは鞄を冾放って突入撃した。†",
+    ("オレは鞄を冾放って突入撃した。",
     ""),
-    # I fired my bag and rushed in.†
+    # I fired my bag and rushed in.
 
     ("「カンオケ間際のじじいだからって、遠慮はしねーぜっ！	たああぁぁぁーーーーーーーーーーーーー閨ーーーーーーーーーーーーーーーーーーーっ！！」",
     ""),
     # "I'm not shy about being an old man just before Kan-Oke! Aaaaahhhh!!"
 
-    ("「とうああああああああぁぁぁぁぁ〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ッ！！」†",
+    ("「とうああああああああぁぁぁぁぁ〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜閨〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜〜ッ！！」",
     ""),
     # "Aaaaahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # My old man and I collided with him violently and joined hands with the sturdy ramblings.
 
-    ("両者の顔が１０センチの翌距離まで近づく。†",
+    ("両者の顔が１０センチの翌距離まで近づく。",
     ""),
-    # Both of them approach the next distance of 10 cm.†
+    # Both of them approach the next distance of 10 cm.
 
     ("「うらあああああああああああああぁぁぁぁぁぁぁ",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # Ggg... ggggg...
 
-    ("両者は一煦歩熾も退かず、氈押し№合った。†",
+    ("両者は一煦歩熾も退かず、氈押し№合った。",
     ""),
-    # The two did not even get back, and they were pushed back.†
+    # The two did not even get back, and they were pushed back.
 
     ("「…フッ、フフフッ、なかなかやりおるな、小僧！」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "...Unfortunately, what a hot spring...
 
-    ("やってねぇー諱よッ！」†",
+    ("やってねぇー諱よッ！」",
     ""),
-    # I haven't done it, my name is!”†
+    # I haven't done it, my name is!”
 
     ("ぐぐぐ…。",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # ・
 
-    ("結局ふたりのモ突は、′健がつかないまま、双羡方のスタミナ切齔れで一梭時賜断した。†",
+    ("結局ふたりのモ突は、′健がつかないまま、双羡方のスタミナ切齔れで一梭時賜断した。",
     ""),
-    # In the end, the two of them clashed with Mo, but they were unable to get a chance to fight each other, and they were given a chance to lose their stamina from the Sugai side.†
+    # In the end, the two of them clashed with Mo, but they were unable to get a chance to fight each other, and they were given a chance to lose their stamina from the Sugai side.
 
     ("「…ち、近頃の痰若造にしては、なかなか怩骨があるではないか。ぜーぜー…」",
     ""),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "...But, I can't accept your abilities and get closer to O-san. All of a sudden..."
 
-    ("「…し、しつけーな、年寄闃りは。はーはー…」†",
+    ("「…し、しつけーな、年寄闃りは。はーはー…」",
     ""),
-    # "... And train you, old people. Ha ha..."†
+    # "... And train you, old people. Ha ha..."
 
     ("そのとき、表の宸騒ぎを聞きつけて、諱先輩が店のｒから出てきた。",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "...She, I'm a real-life senpai, this one, I'm super excited."
 
-    ("オレが弱々しく手を振髏ると、気づいた先輩は真っ直ぐこっちに歩いてきた。†",
+    ("オレが弱々しく手を振髏ると、気づいた先輩は真っ直ぐこっちに歩いてきた。",
     ""),
-    # When I waved my hand weakly, my senior noticed it and walked straight up here.†
+    # When I waved my hand weakly, my senior noticed it and walked straight up here.
 
     ("「………」",
     "…"),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # You're going to get mad to tell your senior.Ha ha ha..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「とにかく、諱先輩、こ、こっちへおいで！」",
     ""),
@@ -190,8 +190,8 @@ text_array = [
     ""),
     # Senpai nodded and tried to get closer to me.
 
-    ("だが｢｢。†",
+    ("だが｢｢。",
     ""),
-    # But ".†
+    # But ".
 
 ]

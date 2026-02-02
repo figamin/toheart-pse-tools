@@ -2,9 +2,9 @@
 # Source file: 02B4.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（校門２）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（校門２）",
     ""),
-    # (Sei°Chuang Scales Event Departing from School LV2)Sei (School Gate 2)†
+    # (Sei°Chuang Scales Event Departing from School LV2)Sei (School Gate 2)
 
     ("おっ。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("思い出したくない顔だ。†",
+    ("思い出したくない顔だ。",
     ""),
-    # He looks like he doesn't want to remember.†
+    # He looks like he doesn't want to remember.
 
     ("さて、どうしようか？",
     ""),

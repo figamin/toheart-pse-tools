@@ -2,9 +2,9 @@
 # Source file: 0304.txt
 
 text_array = [
-    ("（智子	冝日付イベント	１回目	選択Ａの続き）†",
+    ("（智子	冝日付イベント	１回目	選択Ａの続き）",
     ""),
-    # (Tomoko Pest Date Event 1st Time Continued from Selection A)†
+    # (Tomoko Pest Date Event 1st Time Continued from Selection A)
 
     ("「うっす、だ。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # I haven't tampered with the part.Let's all get along well for a year."
 
-    ("オレは明髢るくフレンドリーにあいさつした。†",
+    ("オレは明髢るくフレンドリーにあいさつした。",
     ""),
-    # My gei-lei greeted me with a deep greet to the gei-lei genius.†
+    # My gei-lei greeted me with a deep greet to the gei-lei genius.
 
     ("なにはともあれ、こういうのは第齣一印象が肝心だ。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # I'm fine with that.
 
-    ("ここは軽めのスキンシップを施して、さらに気安いрヤツを奄演出しとくか。†",
+    ("ここは軽めのスキンシップを施して、さらに気安いрヤツを奄演出しとくか。",
     ""),
-    # Let's give this a light skinning touch and create an even more affordable one.†
+    # Let's give this a light skinning touch and create an even more affordable one.
 
     ("「うっす、諱よしくな」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Ah, ah."
 
-    ("ぎこちない笑顔と浮歯切齔れの悪い返抹事が返ってくる。†",
+    ("ぎこちない笑顔と浮歯切齔れの悪い返抹事が返ってくる。",
     ""),
-    # He gives a bad response from awkward smile and a sharp tooth cut.†
+    # He gives a bad response from awkward smile and a sharp tooth cut.
 
     ("「＜ッ、そっちもよしくナ！	諱よしく！」",
     ""),
@@ -70,15 +70,15 @@ text_array = [
     ""),
     # Everyone smiles in the same way, annoyingly and politely.
 
-    ("あかりや史他、一蝿部の連中が笑ったので、教室の空気が賑笂やかになった。†",
+    ("あかりや史他、一蝿部の連中が笑ったので、教室の空気が賑笂やかになった。",
     ""),
-    # The people from the Fly Club laughed, including Akari Tatsumi, I-Shin, and more, and the atmosphere in the classroom became lively and lively.†
+    # The people from the Fly Club laughed, including Akari Tatsumi, I-Shin, and more, and the atmosphere in the classroom became lively and lively.
 
     ("ま、多少うっとうしいрヤツと思寬われたかも知れないが、他人との翌距離を置きたがる連中が多い今厓日この頃、このぐらいフレンドリーにいっといても問題ないだう。",
     ""),
     # Well, I think he's a bit annoying, so I don't know what Hot is, but there are a lot of people who want to keep their distance from others the next day, so I'm not going to have to question him about this much of a problem.
 
-    ("フレンドリー″寘戦はまずまず成功だ。†",
+    ("フレンドリー″寘戦はまずまず成功だ。",
     ""),
     # The battle for the fierce rendition was a decent success.
 
@@ -102,8 +102,8 @@ text_array = [
     ""),
     # Die, I'm also punished in prison for laughs.
 
-    ("まわりから、いつまでも笑ってる変なрヤツだと思寬われ。†",
+    ("まわりから、いつまでも笑ってる変なрヤツだと思寬われ。",
     ""),
-    # Well, I thought he was a strange guy who was laughing at him for so long.†
+    # Well, I thought he was a strange guy who was laughing at him for so long.
 
 ]

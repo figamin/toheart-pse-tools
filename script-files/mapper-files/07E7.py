@@ -2,17 +2,17 @@
 # Source file: 07E7.txt
 
 text_array = [
-    ("（琴音	回秤数イベント３	ＰＳ）閨（選択綜	従う）†",
+    ("（琴音	回秤数イベント３	ＰＳ）閨（選択綜	従う）",
     ""),
-    # (Kotone, Scales Event 3 PS) (Selected)†
+    # (Kotone, Scales Event 3 PS) (Selected)
 
     ("「そうかもしれないな…」",
     ""),
     # "I see, I don't think it's hot..."
 
-    ("オレがそうつぶやくと、琴音ち痰ゃんは悲しげな目でオレを見上げた。†",
+    ("オレがそうつぶやくと、琴音ち痰ゃんは悲しげな目でオレを見上げた。",
     ""),
-    # When I muttered, Kotone Chisho-yan looked up at my passion with sad eyes.†
+    # When I muttered, Kotone Chisho-yan looked up at my passion with sad eyes.
 
     ("「…そうすれば、誰にも迷惑はかかりませんから…」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     ""),
     # The voices of this also looked sad.
 
-    ("「琴音ち痰ゃん…」†",
+    ("「琴音ち痰ゃん…」",
     ""),
     # "Kotone Chishou-san..."
 
@@ -30,17 +30,17 @@ text_array = [
     ""),
     # And Hot too, this was good.
 
-    ("下濶手に琴音ち痰ゃんとつき№合ってたら、死ぬかもしれないんだ。†",
+    ("下濶手に琴音ち痰ゃんとつき№合ってたら、死ぬかもしれないんだ。",
     ""),
-    # If Kotone's sphincter is attached to the right hand, I'm sure I'll die or be able to fly.†
+    # If Kotone's sphincter is attached to the right hand, I'm sure I'll die or be able to fly.
 
     ("「あの…、これで失邇礼します…」",
     ""),
     # "Um... I'm sorry about this..."
 
-    ("いつものように、ぺこりとおじぎをして、琴音ち痰ゃんはきびすを返した。†",
+    ("いつものように、ぺこりとおじぎをして、琴音ち痰ゃんはきびすを返した。",
     ""),
-    # Just like a hot flash of water, Kotone Chisho-chan bowed back.†
+    # Just like a hot flash of water, Kotone Chisho-chan bowed back.
 
     ("彼女、これからずっとあんな調子なのか…。",
     ""),
@@ -50,17 +50,17 @@ text_array = [
     ""),
     # Everyone in the ℃ is creepy, they are alone, their psychic powers go wild, and eventually they end up facing everyone in a stern way...
 
-    ("いいわけないだっ！†",
+    ("いいわけないだっ！",
     ""),
-    # There's no way it's good!†
+    # There's no way it's good!
 
     ("「琴音ち痰ゃん！」",
     ""),
     # "Kotone Chishou!"
 
-    ("オレは大声で呼び止めた。†",
+    ("オレは大声で呼び止めた。",
     ""),
-    # I called out loud.†
+    # I called out loud.
 
     ("「は、はい…？」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "There's no way I can't do this. I can't believe I'm a good person, but I'm a bad guy and no temper after all."
 
-    ("「さん…」†",
+    ("「さん…」",
     ""),
-    # "Mr. Miss…"†
+    # "Mr. Miss…"
 
     ("「オレはｌめた。琴音ち痰ゃんの力になるって。だから頑張窒うぜ」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "I control my superpowers."
 
-    ("「コント鴻ロール…」†",
+    ("「コント鴻ロール…」",
     ""),
-    # "Control..." †
+    # "Control..." 
 
     ("「少しでもコント鴻ロールができるんだ？	じ痰ゃ頑張って全泊部コント鴻ロールしちまおうぜ」",
     ""),
@@ -102,17 +102,17 @@ text_array = [
     ""),
     # "...Thank you. And Ho is also unconventional. I've tried tampering with Ho to control it, but it was a shame..."
 
-    ("と目を嘯伏せた。†",
+    ("と目を嘯伏せた。",
     ""),
-    # He put his eyes down.†
+    # He put his eyes down.
 
     ("「それは今までの話だ？	これから成功させんだよ」",
     ""),
     # "That's what we've been talking about up until now? We're going to make it a success now."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「オレはｌめたからな。琴音ち痰ゃんが超能力をコント鴻ロールできるようになるまで、オレが桙応㊨援してやるよ。な！」",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # "And the hot spring..."
 
-    ("複雑な表﨣情の琴音ち痰ゃん。†",
+    ("複雑な表﨣情の琴音ち痰ゃん。",
     ""),
-    # A complicated table: Kotone's heartfelt sphinja.†
+    # A complicated table: Kotone's heartfelt sphinja.
 
     ("「もう遅い。オレに付きまとわれるのがイсヤなら、さっさと超能力をコント鴻ロールするしかないかんな」",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # The words that came out quickly were just thunderous.
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「返抹事は？」",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # Kotone Chisho-chan nodded awkwardly.
 
-    ("諱よし。†",
+    ("諱よし。",
     ""),
-    # I'm fine with that.†
+    # I'm fine with that.
 
     ("とりあえず約束させることはできた。",
     ""),

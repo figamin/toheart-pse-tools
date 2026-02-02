@@ -2,9 +2,9 @@
 # Source file: 08A0.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	今厓日はちょっと）†",
+    ("（レミィ	回秤数イベント	２階４	ＬＶ１）閨（選択綜	今厓日はちょっと）",
     ""),
-    # (Game Remie Scale Event 2nd Floor 4 LV1) (Selected Days Now)†
+    # (Game Remie Scale Event 2nd Floor 4 LV1) (Selected Days Now)
 
     ("「わりぃ、今厓日はちょっと、用沫事があってな」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "...Yeah. There's no way to do it."
 
-    ("そう言って、彼女はにっこり微笑んだ。†",
+    ("そう言って、彼女はにっこり微笑んだ。",
     ""),
-    # With that, the overflowing woman smiled.†
+    # With that, the overflowing woman smiled.
 
     ("「じ痰ゃあ」",
     ""),

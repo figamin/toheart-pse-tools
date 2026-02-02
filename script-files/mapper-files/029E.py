@@ -2,9 +2,9 @@
 # Source file: 029E.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｃ	精進が足闡りん！）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ４）閨（選択綜Ｃ	精進が足闡りん！）",
     ""),
-    # (Seri°Kawa, Scales Event 2F LV4)Seri (Seishin C: Seijinga's Back!)†
+    # (Seri°Kawa, Scales Event 2F LV4)Seri (Seishin C: Seijinga's Back!)
 
     ("「精進がたりん！」",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「なんなら次はオレも手伝ってやるよ」†",
+    ("「なんなら次はオレも手伝ってやるよ」",
     ""),
     # "In any case, I'll help you out and tamper with it next time."
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Okay, I'm fine with that. It's even better than that, Hou is also senior..."
 
-    ("「？」†",
+    ("「？」",
     ""),
-    # "?"†
+    # "?"
 
     ("「今厓日いっしょに帰うぜ？」",
     ""),
@@ -50,8 +50,8 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩はこくんとうなずいた。†",
+    ("諱先輩はこくんとうなずいた。",
     ""),
-    # Senpai nodded with Ko-kun.†
+    # Senpai nodded with Ko-kun.
 
 ]

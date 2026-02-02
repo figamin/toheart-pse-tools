@@ -2,9 +2,9 @@
 # Source file: 014E.txt
 
 text_array = [
-    ("（あかり	好感度イベント６）閨（好感度が	６６以繹上	のとき）閨（このイベントは６．１と同じ冾日に）閨（４月２８冾日限定）閨（朝イベントと差し替え）†",
+    ("（あかり	好感度イベント６）閨（好感度が	６６以繹上	のとき）閨（このイベントは６．１と同じ冾日に）閨（４月２８冾日限定）閨（朝イベントと差し替え）",
     ""),
-    # (Akari Likeability Event 6) (When Likeability is above 66) (This event is the same day as 6.1) (April 28th day limit) (Substitute for morning event) †
+    # (Akari Likeability Event 6) (When Likeability is above 66) (This event is the same day as 6.1) (April 28th day limit) (Substitute for morning event) 
 
     ("カーテンのр隙間から漏齪れた陽射しの温煢もりで目が覚めた。",
     ""),
@@ -22,13 +22,13 @@ text_array = [
     ""),
     # Fourth Lion Month 28th Day of the Female Monday Day.
 
-    ("もういい加減、冬布団をしまわねーとな。†",
+    ("もういい加減、冬布団をしまわねーとな。",
     ""),
-    # I'll just have to put my winter futon on it.†
+    # I'll just have to put my winter futon on it.
 
-    ("「行ってきまーす」†",
+    ("「行ってきまーす」",
     ""),
-    # "I'm going" †
+    # "I'm going" 
 
     ("「………」",
     "…"),
@@ -46,9 +46,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("いつも側にいるрヤツがいないと、なんだか妙に寂しく感じる。†",
+    ("いつも側にいるрヤツがいないと、なんだか妙に寂しく感じる。",
     ""),
-    # Whenever there's no one around, it feels strangely lonely.†
+    # Whenever there's no one around, it feels strangely lonely.
 
     ("ホームルームが終尞わった後、オレは担任の先生を呼び止めて聞いた。",
     ""),
@@ -66,7 +66,7 @@ text_array = [
     ""),
     # "A bathing cold?"
 
-    ("「さっき連腰絡があったみたいだな」†",
+    ("「さっき連腰絡があったみたいだな」",
     ""),
     # "It looks like there was a connection between the hips just now."
 
@@ -78,8 +78,8 @@ text_array = [
     ""),
     # He said he was duped and thought he was about to have a cold bath.
 
-    ("…ったく、しょうがねーな。†",
+    ("…ったく、しょうがねーな。",
     ""),
-    # ...I'm not sure if there's anything wrong with it.†
+    # ...I'm not sure if there's anything wrong with it.
 
 ]

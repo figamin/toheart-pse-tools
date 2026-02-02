@@ -2,9 +2,9 @@
 # Source file: 00B9.txt
 
 text_array = [
-    ("（４月１９冾日	朝）閨（自分の部屋	暗い）†",
+    ("（４月１９冾日	朝）閨（自分の部屋	暗い）",
     ""),
-    # (April 19th day of the year) (morning) (My room is dark) †
+    # (April 19th day of the year) (morning) (My room is dark) 
 
     ("ピピピピ、ピピピピ…。",
     ""),
@@ -18,49 +18,49 @@ text_array = [
     ""),
     # Wow, it's already morning.
 
-    ("蛛大きくあくびしながら、布団のｒで手足を伸ばす。†",
+    ("蛛大きくあくびしながら、布団のｒで手足を伸ばす。",
     ""),
-    # While yawning loudly, I stretch my limbs with the futon.†
+    # While yawning loudly, I stretch my limbs with the futon.
 
     ("４月１９冾日、土曜坥日。",
     ""),
     # April 19th, Saturday.
 
-    ("今厓日燗も一勛日が始まる。†",
+    ("今厓日燗も一勛日が始まる。",
     ""),
-    # The day of the sun is beginning now.†
+    # The day of the sun is beginning now.
 
-    ("行ってきまーす。†",
+    ("行ってきまーす。",
     ""),
-    # I'm going.†
+    # I'm going.
 
     ("桜の木にも緑の葉っぱが目立ってきた。",
     ""),
     # The cherry blossom trees also have green leaves that are noticeable.
 
-    ("散り落ちた花びらが校門前の道にピンク色のじゅうたんを敷き詰めている。†",
+    ("散り落ちた花びらが校門前の道にピンク色のじゅうたんを敷き詰めている。",
     ""),
-    # A scattered lion-falling petals lay a pink mug on the road in front of the school gates.†
+    # A scattered lion-falling petals lay a pink mug on the road in front of the school gates.
 
     ("「なんだか散り始めると、寂しくなっち痰ゃうなあ」",
     ""),
     # "When it starts to disperse, I feel lonely and I can't help but feel sad."
 
-    ("あかりが、ぽそっと、そんなことを言ったとき。†",
+    ("あかりが、ぽそっと、そんなことを言ったとき。",
     ""),
-    # When Akari said something like that.†
+    # When Akari said something like that.
 
-    ("「おはようございま〜す」†",
+    ("「おはようございま〜す」",
     ""),
-    # "good morning"†
+    # "good morning"
 
-    ("「おはようございま〜す」†",
+    ("「おはようございま〜す」",
     ""),
-    # "good morning"†
+    # "good morning"
 
-    ("「おはようございま〜す」†",
+    ("「おはようございま〜す」",
     ""),
-    # "good morning"†
+    # "good morning"
 
     ("校門のｌこうから、妙に明髢るい翌女の子の声が聞こえてきた。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "?"
 
-    ("オレとあかりは『なんだう』とおたがいの顔を見㈹合寘わせ、校門に近づいた。†",
+    ("オレとあかりは『なんだう』とおたがいの顔を見㈹合寘わせ、校門に近づいた。",
     ""),
-    # I and Akari looked at each other's faces and sang, "What's that?!" and then they came together, and approached the school gates.†
+    # I and Akari looked at each other's faces and sang, "What's that?!" and then they came together, and approached the school gates.
 
     ("校門をくぐった途端、",
     ""),
@@ -90,25 +90,25 @@ text_array = [
     ""),
     # He holds a bamboo ram in his hand.
 
-    ("どうやら玄関前を掃恆除しながら、通髓る生徒ひとりひとりにあいさつしているらしい。†",
+    ("どうやら玄関前を掃恆除しながら、通髓る生徒ひとりひとりにあいさつしているらしい。",
     ""),
-    # Apparently they are greeting each student who is communicating by messing around, sweeping away the front door.†
+    # Apparently they are greeting each student who is communicating by messing around, sweeping away the front door.
 
     ("「おはようございま〜す」",
     ""),
     # "good morning"
 
-    ("ほとんどの生徒が見血きもせず通闥り過ぎて行くなか、オレは立ち止まって、笑顔で声をかけた。†",
+    ("ほとんどの生徒が見血きもせず通闥り過ぎて行くなか、オレは立ち止まって、笑顔で声をかけた。",
     ""),
-    # As most of the students were in too much contact without even bleeding, I stopped and called out to him with a laughing face.†
+    # As most of the students were in too much contact without even bleeding, I stopped and called out to him with a laughing face.
 
     ("「諱よっ、マルチ。今厓日燗も元気だな」",
     ""),
     # "My name is, I'm crying. I'm feeling well now."
 
-    ("「あ、さん！	どうも、おはようございます」†",
+    ("「あ、さん！	どうも、おはようございます」",
     ""),
-    # "Ah, sir! Good morning, no matter how you say hot" †
+    # "Ah, sir! Good morning, no matter how you say hot" 
 
     ("「なんだ？	こんな朝っぱらから掃恆除してんのか？」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "Yes."
 
-    ("マルチはにっこり微笑んだ。†",
+    ("マルチはにっこり微笑んだ。",
     ""),
-    # McDonald smiled.†
+    # McDonald smiled.
 
     ("「今厓日でもう、みなさんともお別れですから、ここでお掃恆除をしながら、あいさつしようかと思いまして」",
     ""),
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # I won't feel lonely."
 
-    ("「この一週間、とても楽しかったです」†",
+    ("「この一週間、とても楽しかったです」",
     ""),
     # "I've had so much fun over the past week."
 
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "High robots these days are becoming more and more human-like.
 
-    ("もしもあの大きな耳がなかったら、絶対に人間と区別できないな」†",
+    ("もしもあの大きな耳がなかったら、絶対に人間と区別できないな」",
     ""),
     # If Kao had no big ears, I would never be able to distinguish myself from humans."
 
@@ -166,8 +166,8 @@ text_array = [
     ""),
     # "It's not tampering, why don't you have a hot pot?"
 
-    ("そうか、マルチとも今厓日でお別れか…。†",
+    ("そうか、マルチとも今厓日でお別れか…。",
     ""),
-    # I see, Makruchi and Kao are saying goodbye to the day right now...†
+    # I see, Makruchi and Kao are saying goodbye to the day right now...
 
 ]

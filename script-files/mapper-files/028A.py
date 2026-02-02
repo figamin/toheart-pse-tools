@@ -2,9 +2,9 @@
 # Source file: 028A.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ａ	じーさんに怒鳴髢る）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ａ	じーさんに怒鳴髢る）",
     ""),
-    # (Seri°Kawa, Scales Event, Departing from School LV1)Seri (Shonen Sou A, yelling at old man)†
+    # (Seri°Kawa, Scales Event, Departing from School LV1)Seri (Shonen Sou A, yelling at old man)
 
     ("「おいこらっ、じーさん！	どこ見て魔走ってんだ！？	オレを殺す気か？」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "This was the place where I died, b!
 
-    ("もう少しマシな運転しやがれっ！」†",
+    ("もう少しマシな運転しやがれっ！」",
     ""),
-    # Do drive a little better!”†
+    # Do drive a little better!”
 
     ("「………」",
     "…"),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Hey, are you listening..."
 
-    ("じじいに歩み寄った、そのとき｢｢。†",
+    ("じじいに歩み寄った、そのとき｢｢。",
     ""),
-    # I walked over to my old man, and then I said, ".†
+    # I walked over to my old man, and then I said, ".
 
     ("バタムッ！",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # The next moment, I hit the old man's open door and hit the old man's rimousine.
 
-    ("ま、まるで…マンガだ。†",
+    ("ま、まるで…マンガだ。",
     ""),
-    # Well, it's like... a manga.†
+    # Well, it's like... a manga.
 
     ("地面に仰旧けに倒齠れたオレを置き去闍りに、諱先輩を乗せた鰍リムジンが魔走闡り去ってゆく。",
     ""),

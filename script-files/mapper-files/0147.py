@@ -2,9 +2,9 @@
 # Source file: 0147.txt
 
 text_array = [
-    ("（あかり	好感度イベント	５）閨（好感度が	３０以繹上	のとき）閨（このイベントと５．１を同じ冾日に）閨（２桙時間目の休み桙時間）閨（教室	休み桙時間）†",
+    ("（あかり	好感度イベント	５）閨（好感度が	３０以繹上	のとき）閨（このイベントと５．１を同じ冾日に）閨（２桙時間目の休み桙時間）閨（教室	休み桙時間）",
     ""),
-    # (Akari Likeability Event 5) (When the Likeability is above 30) (This event and 5.1 are the same day) (Closing time for the second frame) (Class closed time) (Class closed time)) †
+    # (Akari Likeability Event 5) (When the Likeability is above 30) (This event and 5.1 are the same day) (Closing time for the second frame) (Class closed time) (Class closed time)) 
 
     ("２桙時間目の休み桙時間。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Hey."
 
-    ("同じクラスの薰矢⊥島というрヤツで、バスケ買部に鰍所属している背の高い男だ。†",
+    ("同じクラスの薰矢⊥島というрヤツで、バスケ買部に鰍所属している背の高い男だ。",
     ""),
-    # He is a tall man named Sonoyajima, who is also a member of the Basketball Buying Club.†
+    # He is a tall man named Sonoyajima, who is also a member of the Basketball Buying Club.
 
     ("「…ん、諱よう」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "Hey, can I listen?"
 
-    ("「あん？	なにをだ？」†",
+    ("「あん？	なにをだ？」",
     ""),
     # "Huh? What?"
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "That's right though."
 
-    ("と、オレはごく≠普通に嘯答えた。†",
+    ("と、オレはごく≠普通に嘯答えた。",
     ""),
-    # And I answered very normally.†
+    # And I answered very normally.
 
     ("「…小さい頃から、ずっと№仲がいいって、ホント？」",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "bean paste?"
 
-    ("そのへんでようやく寝ぼけていた頭が目を覚ました。†",
+    ("そのへんでようやく寝ぼけていた頭が目を覚ました。",
     ""),
-    # My head, which had been dumbfounded and sleepy, woke up.†
+    # My head, which had been dumbfounded and sleepy, woke up.
 
     ("「つき№合うって、オレとあかりが？」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # I laughed and said.
 
-    ("こういう間違いをされるのは今厓日が奄初めてじ痰ゃない。†",
+    ("こういう間違いをされるのは今厓日が奄初めてじ痰ゃない。",
     ""),
-    # The first time I've ever experienced such a difference in ecstasy is the Amami day.†
+    # The first time I've ever experienced such a difference in ecstasy is the Amami day.
 
     ("「…だって、たしかこの前熨もさ、弁抹当桃ってきてもらったりとかしてたじ痰ゃん？」",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # "I asked Nagaoka-san, it's a bit of a mess."
 
-    ("長岡…志保ね。†",
+    ("長岡…志保ね。",
     ""),
-    # Nagaoka... Shiho.†
+    # Nagaoka... Shiho.
 
     ("「彼女、神岸さんとはｒ学のこからの親友同士なんだ？」",
     ""),
@@ -142,17 +142,17 @@ text_array = [
     ""),
     # As I said, I sniffed.
 
-    ("まあ、本人いわく親友なんだうけど…。†",
+    ("まあ、本人いわく親友なんだうけど…。",
     ""),
-    # Well, he's a close friend of mine, though...†
+    # Well, he's a close friend of mine, though...
 
     ("それにしても薰矢⊥島のрヤツ、さっきから神岸さん神岸さんって、あかりのことばかり質竡問しやがって、どういうつもりだ。",
     ""),
     # And the ones on Sugiya Island, and for a while, Kamigishi and Kamigishi have been questioning the things about Akari, so what kind of hot springs are they?
 
-    ("おいおい、もしかして…。†",
+    ("おいおい、もしかして…。",
     ""),
-    # Hey, maybe...†
+    # Hey, maybe...
 
     ("「まさか薰矢⊥島、まさか、お前、あかりに気があんのか？」",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # Yajima smiled in illuminating.
 
-    ("げげっ、マジかよ！？†",
+    ("げげっ、マジかよ！？",
     ""),
-    # Oh, seriously?!?†
+    # Oh, seriously?!?
 
     ("「…彼女、前からいいなあって思ってたんだけどさ、とくに最近、髪形変えてから…な。まわりの連中にも人気が出てきたし…」",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # Is it light?
 
-    ("そういや最近諡よく、男子連中があいつに声をかけてる光景を目にするよな。†",
+    ("そういや最近諡よく、男子連中があいつに声をかけてる光景を目にするよな。",
     ""),
-    # I've seen boys talking to him about this and a lot of other people recently.†
+    # I've seen boys talking to him about this and a lot of other people recently.
 
     ("そうなのか、人気があんのか。",
     ""),
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # That plain Akari.
 
-    ("はあ、こり痰ゃ意外だぜ。†",
+    ("はあ、こり痰ゃ意外だぜ。",
     ""),
-    # Oh, it's surprising that it's stiff.†
+    # Oh, it's surprising that it's stiff.
 
     ("「で、昨厓日今厓日ファンになった連中とは年季の入闢りが痰違うおれとしては、これ以繹上対抗馬が増えない間に、＝早々と彼女にトライしようと思ったわけだ」",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # "So"
 
-    ("なっ、なにぃっ？†",
+    ("なっ、なにぃっ？",
     ""),
-    # What, what?†
+    # What, what?
 
     ("「でさ、その前に、やっぱりお前にはっきり聞いておこうと思ってな」",
     ""),
@@ -234,9 +234,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("雅史のрヤ鴻ロー、氈勝闖手なこと言うんじ痰ゃねー。†",
+    ("雅史のрヤ鴻ロー、氈勝闖手なこと言うんじ痰ゃねー。",
     ""),
-    # The 雅Hirou of the Maiden is saying things that are hard to say.†
+    # The 雅Hirou of the Maiden is saying things that are hard to say.
 
     ("「そり痰ゃ、お前たちがつき№合ってんだったら、さすがに遠慮するしかないか…と思ってさ」",
     ""),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # "I see."
 
-    ("と笑った。†",
+    ("と笑った。",
     ""),
-    # I laughed.†
+    # I laughed.
 
     ("「だったらこれで、気搭兼ねなくいけるぜ」",
     ""),
@@ -282,9 +282,9 @@ text_array = [
     ""),
     # "Hey. Can't you somehow manage to get some good luck with your boyfriend and a friendship with him?"
 
-    ("そう鰍頼んできた。†",
+    ("そう鰍頼んできた。",
     ""),
-    # That's what I ordered.†
+    # That's what I ordered.
 
     ("オレは｢｢。",
     ""),

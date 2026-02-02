@@ -2,9 +2,9 @@
 # Source file: 058D.txt
 
 text_array = [
-    ("（葵	回秤数イベント４	選択繿後	Ｂ）†",
+    ("（葵	回秤数イベント４	選択繿後	Ｂ）",
     ""),
-    # (Aoi Scales Event 4 after selection B)†
+    # (Aoi Scales Event 4 after selection B)
 
     ("「葵ち痰ゃんの教え方がいいんだよ。ポイントが的確でわかりやすいよ」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "Be humble again."
 
-    ("「そ、それよりも、やっぱり、こういう体を動かすことは本人のセンスですよ」†",
+    ("「そ、それよりも、やっぱり、こういう体を動かすことは本人のセンスですよ」",
     ""),
     # "And more, even if it's just that, it's up to you to move your body like this, it's up to you to feel the sense of your own."
 
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "Physically speaking, I think motor skills and a sense of rhythm are good."
 
-    ("「はあ。まあ、いちおう昔から、興味のあることだけはわりと飲み桙込みが≠早いほうだったけどね」†",
+    ("「はあ。まあ、いちおう昔から、興味のあることだけはわりと飲み桙込みが≠早いほうだったけどね」",
     ""),
     # "Ah. Well, since ancient times, the only thing that interests me was pretty quick to drink and drink."
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "That's definitely the key to Aoi Chisho-ya.
 
-    ("よし、オレも葵ち痰ゃんみたく努力するぜー」†",
+    ("よし、オレも葵ち痰ゃんみたく努力するぜー」",
     ""),
-    # Okay, I'll try my best as much as Aoi Chishonan."†
+    # Okay, I'll try my best as much as Aoi Chishonan."
 
     ("「はい、しっかり薰基礎トレーニングを積んで、筋力とスタミナをアップさせれば、п私なんかすぐに追い抜きますよ」",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "No, it's absolutely undoable. However, technical and skill alone is not enough.
 
-    ("基本の体を鍛えないと強くなれませんから」†",
+    ("基本の体を鍛えないと強くなれませんから」",
     ""),
     # You can't get stronger unless you train your basic body."
 

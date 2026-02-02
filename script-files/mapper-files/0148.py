@@ -2,9 +2,9 @@
 # Source file: 0148.txt
 
 text_array = [
-    ("（あかり	好感度イベント	５）閨（Ａ	おいおい、勘弁してくれよ）†",
+    ("（あかり	好感度イベント	５）閨（Ａ	おいおい、勘弁してくれよ）",
     ""),
-    # (Akari Likeability Event 5) (A Hey, please give me a break)†
+    # (Akari Likeability Event 5) (A Hey, please give me a break)
 
     ("「おいおい、勘弁してくれよ。その手のことは苦闍手なんだ。他を魔当たってくれ」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "I waited a moment."
 
-    ("その肩を薰矢⊥島がつかむ。†",
+    ("その肩を薰矢⊥島がつかむ。",
     ""),
-    # Junya Island grabs that shoulder.†
+    # Junya Island grabs that shoulder.
 
     ("「な、梶頼むよ。お前からの紹譓介なら、きっと神岸さんもむげには断れないと思うんだ」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Konya⊥jima smiles wryly.
 
-    ("「べつにお前に迷惑かけるつもりはないよ。ただ、やっぱ神岸さんだって、諱よく知迺らないрヤツ相闡手じ痰ゃ警卲戒するだうからさ」†",
+    ("「べつにお前に迷惑かけるつもりはないよ。ただ、やっぱ神岸さんだって、諱よく知迺らないрヤツ相闡手じ痰ゃ警卲戒するだうからさ」",
     ""),
     # "There's no way I'll cause trouble to you. However, even Kamigishi-san is not very aware of the fact that he doesn't know much about his feelings, so he should be warned against it."
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # "I already asked Sato to hachi. And he's going to get mackerel so I don't want you to be angry."
 
-    ("「オレが怒體る？	なんで？」†",
+    ("「オレが怒體る？	なんで？」",
     ""),
     # "Are you angry? Why?"
 

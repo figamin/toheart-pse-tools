@@ -2,9 +2,9 @@
 # Source file: 0341.txt
 
 text_array = [
-    ("（智子	好感度イベント１回目）閨（選択綜Ａ	あかりに写させてもらう	の続き）†",
+    ("（智子	好感度イベント１回目）閨（選択綜Ａ	あかりに写させてもらう	の続き）",
     ""),
-    # (Tomoko's first favorability event) (Continued from Chosen Sou A: Copy it to Akari and get it hot)†
+    # (Tomoko's first favorability event) (Continued from Chosen Sou A: Copy it to Akari and get it hot)
 
     ("オレはあかりの席へと歩いていった。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # While fighting hardships with %Koto, Hoo also worked together on Pugata Rint on his own.
 
-    ("ノート窿や教科痩書を参考にしつつ、少しずつ嘯答えを曹書き桙込んでいる。†",
+    ("ノート窿や教科痩書を参考にしつつ、少しずつ嘯答えを曹書き桙込んでいる。",
     ""),
-    # While using notebooks and textbooks as references, I gradually write down the answers.†
+    # While using notebooks and textbooks as references, I gradually write down the answers.
 
     ("「諱よっ、やってんな」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "When you're done, I'll copy it."
 
-    ("オレが言うと、あかりは困った顔をした。†",
+    ("オレが言うと、あかりは困った顔をした。",
     ""),
-    # When I said, Akari looked troubled.†
+    # When I said, Akari looked troubled.
 
     ("「ダ＜メだよ、ち痰ゃんと自分でやらなき痰ゃ」",
     ""),
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I know that I'm a tough guy at all times."
 
-    ("「苦闍手だったらなおさらだよ。ち痰ゃんと自分でやらないと」†",
+    ("「苦闍手だったらなおさらだよ。ち痰ゃんと自分でやらないと」",
     ""),
     # "It's even more so if you're suffering, you have to tamper with it yourself."
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # "But if you make the same difference, the teacher will..."
 
-    ("「い・い・か・轣ら・み・せ・≠ぉ〜〜〜っ！」†",
+    ("「い・い・か・轣ら・み・せ・≠ぉ〜〜〜っ！」",
     ""),
     # "Is it okay? Come on, please...≠ooo!"
 
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # He also says something preachy.
 
-    ("「はいはい、わかってるよ」†",
+    ("「はいはい、わかってるよ」",
     ""),
     # "Yes, yes, I know."
 
@@ -118,7 +118,7 @@ text_array = [
     ""),
     # "…already.
 
-    ("苦労なんてしてないくせに」†",
+    ("苦労なんてしてないくせに」",
     ""),
     # Even though I'm not struggling."
 

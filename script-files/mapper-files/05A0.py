@@ -2,13 +2,13 @@
 # Source file: 05A0.txt
 
 text_array = [
-    ("（葵	回秤数イベント１２）閨（選択Ａ	葵ち痰ゃんと大接近できますように	の続き）閨（葵	好感度＋５）†",
+    ("（葵	回秤数イベント１２）閨（選択Ａ	葵ち痰ゃんと大接近できますように	の続き）閨（葵	好感度＋５）",
     ""),
-    # (Aoi, Episode Scales Event 12) (Continued from Selection A: I hope you can get close to Aoi Chisho-chan and Episode) (Aoi, Likeability +5)†
+    # (Aoi, Episode Scales Event 12) (Continued from Selection A: I hope you can get close to Aoi Chisho-chan and Episode) (Aoi, Likeability +5)
 
-    ("葵ち痰ゃんと、蛛大接近できますように…、と。†",
+    ("葵ち痰ゃんと、蛛大接近できますように…、と。",
     ""),
-    # I hope Aoi Chisho-chan can get close to me...†
+    # I hope Aoi Chisho-chan can get close to me...
 
     ("「諱先輩、なにをお願いしたんですか？」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # Do you want to attack it and tamper with it?”
 
-    ("「え？	はい」†",
+    ("「え？	はい」",
     ""),
-    # "Huh? Yes" †
+    # "Huh? Yes" 
 
     ("「そうだな、多分、葵ち痰ゃんのことだから…。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Hehehehehe."
 
-    ("葵ち痰ゃんは一本気なだけに、考えてることがはっきりしていて、わかりやすいぜ。†",
+    ("葵ち痰ゃんは一本気なだけに、考えてることがはっきりしていて、わかりやすいぜ。",
     ""),
-    # Aoi Chisho-yan is a serious person, so what he's thinking is clear and it's easy to understand.†
+    # Aoi Chisho-yan is a serious person, so what he's thinking is clear and it's easy to understand.
 
     ("「諱先輩は、なにをお願いしたんですか？」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "I'm really... that's it..."
 
-    ("「…その？」†",
+    ("「…その？」",
     ""),
-    # "…the?"†
+    # "…the?"
 
     ("「うーん、やっぱ、ないしょ。",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "Ahh, Senpai, you're so silly!"
 
-    ("ぽかぽかぽかぽかぽかぽか…。†",
+    ("ぽかぽかぽかぽかぽかぽか…。",
     ""),
-    # It's warm, warm...†
+    # It's warm, warm...
 
     ("「げっ、げふげふ…」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # I, if it's me, I'll just have to..."
 
-    ("「い、いや…。げ、げふっ…」†",
+    ("「い、いや…。げ、げふっ…」",
     ""),
-    # "No, it's tampering... gay, gey..." †
+    # "No, it's tampering... gay, gey..." 
 
     ("そのとき。",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # Hashi.
 
-    ("それを間髪、受け止めるオレ。†",
+    ("それを間髪、受け止めるオレ。",
     ""),
-    # I took this in a flash.†
+    # I took this in a flash.
 
     ("「蛛大苟丈夫か、葵ち痰ゃん？」",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # "Senpai..."
 
-    ("葵ち痰ゃんの目が大きくなって≠潤んだ。†",
+    ("葵ち痰ゃんの目が大きくなって≠潤んだ。",
     ""),
-    # Aoi Chisho-chan's eyes grew larger and moistened.†
+    # Aoi Chisho-chan's eyes grew larger and moistened.
 
     ("「すみません、諱先輩。",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # "Is that so?"
 
-    ("オレは、わっはっはっはっ、と笑った。†",
+    ("オレは、わっはっはっはっ、と笑った。",
     ""),
-    # My heart chuckled, slurping, slurping.†
+    # My heart chuckled, slurping, slurping.
 
     ("なんだか知迺らないけど、葵ち痰ゃんといっきに大接近できたぜ！",
     ""),

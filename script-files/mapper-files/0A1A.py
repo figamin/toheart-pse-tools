@@ -4,7 +4,7 @@
 text_array = [
     ("（Ａ’　声をかける。）",
     ""),
-    # (A' call out.)†
+    # (A' call out.)
 
     ("「おーい、理緒ちゃん」",
     "Heeey! Rio!"),
@@ -16,7 +16,7 @@ text_array = [
 
     ("だが、理緒ちゃんはわき目も振らず、走り抜けていく。",
     "But she keeps running without even looking aside."),
-    # However, the slutty woman Ochi Symphonyan does not even hesitate to take the ball, and continues to move forward.†
+    # However, the slutty woman Ochi Symphonyan does not even hesitate to take the ball, and continues to move forward.
 
     ("「………」",
     "…"),
@@ -28,7 +28,7 @@ text_array = [
 
     ("オレは走って後を追った。",
     "I go after her."),
-    # I ran off to follow after him.†
+    # I ran off to follow after him.
 
     ("「よ、よお、理緒ちゃん。今日も忙しいな。",
     "H-Hey, Rio. Busy today too?"),
@@ -54,7 +54,7 @@ text_array = [
 
     ("意外に、足、速いんだな。",
     "She is faster than I thought."),
-    # Surprisingly, he's quick.†
+    # Surprisingly, he's quick.
 
     ("「今日もなにか急ぎの用があんのか？」",
     "More urgent stuff to handle today?"),
@@ -74,7 +74,7 @@ text_array = [
 
     ("「う、うん…」",
     "Y-Yeah."),
-    # "Uh, yes..."†
+    # "Uh, yes..."
 
     ("「へえ、驚いたな。",
     "That's surprising."),
@@ -150,7 +150,7 @@ text_array = [
 
     ("こっちを向いたまま駆け出した瞬間�｢�B。",
     "She starts to break into a run while still looking in my direction."),
-    # The moment I started to leave this one while still latching, ".†
+    # The moment I started to leave this one while still latching, ".
 
     ("びたんっ！",
     "*thunk*"),
@@ -162,7 +162,7 @@ text_array = [
 
     ("下校時間で自転車も多いってのに、じつに危なっかしい。",
     "There are a lot of bicycles going down this road after school. That is really dangerous."),
-    # Even though it's time to go home from school, there are a lot of smoking bicycles, but it's really just too much.†
+    # Even though it's time to go home from school, there are a lot of smoking bicycles, but it's really just too much.
 
     ("「うう…」",
     "Urgh…"),
@@ -204,7 +204,7 @@ text_array = [
 
     ("どうやら痛いよりも、恥ずかしいのほうが先に来てるみたいだな。",
     "It seems like she is feeling more embarrassed than hurt."),
-    # It seems that the embarrassing thing first is the first thing that goes on about it than the pain of tampering.†
+    # It seems that the embarrassing thing first is the first thing that goes on about it than the pain of tampering.
 
     ("「そ、それじゃ、こんどこそ、さよならっ」",
     "W-Well, goodbye for real this time!"),

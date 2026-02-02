@@ -2,9 +2,9 @@
 # Source file: 04D0.txt
 
 text_array = [
-    ("（志保	回秤数イベント	寄闃り道３）閨（選択綜	遊び人）†",
+    ("（志保	回秤数イベント	寄闃り道３）閨（選択綜	遊び人）",
     ""),
-    # (Shiho Scales Event: Incoming Road 3) (Choose Sou Playboy)†
+    # (Shiho Scales Event: Incoming Road 3) (Choose Sou Playboy)
 
     ("「それにしても、お前って遊び人だよなぁ…」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Because when I look at you, it looks like a guy is playing around with him."
 
-    ("…ま、犯罪には手を出していないようだが。†",
+    ("…ま、犯罪には手を出していないようだが。",
     ""),
-    # ...Well, he doesn't seem to be involved in crime.†
+    # ...Well, he doesn't seem to be involved in crime.
 
     ("「そんなこと…、みんなもやってるわよ！」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "What, you can't make it look more normal?"
 
-    ("「どー艨ゆー意味譁よぉ？」†",
+    ("「どー艨ゆー意味譁よぉ？」",
     ""),
     # "What's the meaning?"
 
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Ahhhh... Come on, I'll check it out quickly!"
 
-    ("「おいおい、氈押すなって！」†",
+    ("「おいおい、氈押すなって！」",
     ""),
     # "Hey hey, don't push!"
 

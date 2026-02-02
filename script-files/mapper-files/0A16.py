@@ -2,9 +2,9 @@
 # Source file: 0A16.txt
 
 text_array = [
-    ("（Ｂ’	待ち№合寘わせだな？）†",
+    ("（Ｂ’	待ち№合寘わせだな？）",
     ""),
-    # (B' It's a wait number of people, right?)†
+    # (B' It's a wait number of people, right?)
 
     ("「誰かと待ち№合寘わせでもしてんのか？」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "No one said he's a man though."
 
-    ("「あれ？	そ、そうよね。くすん…」†",
+    ("「あれ？	そ、そうよね。くすん…」",
     ""),
-    # "Huh? That's right. It's so silly..." †
+    # "Huh? That's right. It's so silly..." 
 
     ("「じ痰ゃあ、なんで急いでんだ？	あ、そうか、バイトか？」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "Ah, hey."
 
-    ("走闡り去驪る理女緒ち痰ゃん。†",
+    ("走闡り去驪る理女緒ち痰ゃん。",
     ""),
-    # The lion leaps forward.†
+    # The lion leaps forward.
 
     ("そして、すぐに、",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # Apparently it's tampering, it seems like it's been falsified again.
 
-    ("♀なっかしいなあ。†",
+    ("♀なっかしいなあ。",
     ""),
-    # It's so cute.†
+    # It's so cute.
 
     ("あんな調子で、ち痰ゃんとバイトが務まってんのか？◯",
     ""),

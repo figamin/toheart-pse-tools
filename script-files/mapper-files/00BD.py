@@ -2,9 +2,9 @@
 # Source file: 00BD.txt
 
 text_array = [
-    ("（４月２３冾日	朝）の続き（以下	葵の好感度８以繹上なら表示）閨（校門前）†",
+    ("（４月２３冾日	朝）の続き（以下	葵の好感度８以繹上なら表示）閨（校門前）",
     ""),
-    # Continuing from (April Shizuki 23rd Day, morning) (hereinafter displayed if Aoi's favorability level is above 8) (in front of the school gate)†
+    # Continuing from (April Shizuki 23rd Day, morning) (hereinafter displayed if Aoi's favorability level is above 8) (in front of the school gate)
 
     ("校門前にｒいたとき、",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # I heard these voices from the attack after the attack.
 
-    ("振關りｌくと、′こうのほうから葵ち痰ゃんが駆けてくる。†",
+    ("振關りｌくと、′こうのほうから葵ち痰ゃんが駆けてくる。",
     ""),
-    # As I shouted, Aoi Chisho-chan started to come from Kou.†
+    # As I shouted, Aoi Chisho-chan started to come from Kou.
 
     ("「諱よお、葵ち痰ゃん」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Oh ≠ Haya, Senpai."
 
-    ("目の前にｗた葵ち痰ゃんは、苦しそうに肩で息をしながら言った。†",
+    ("目の前にｗた葵ち痰ゃんは、苦しそうに肩で息をしながら言った。",
     ""),
-    # In front of me, Aoi Chisho-yan said, breathing painfully with her shoulders.†
+    # In front of me, Aoi Chisho-yan said, breathing painfully with her shoulders.
 
     ("「葵ち痰ゃん、走ってきたのか？」",
     ""),
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Akari asked, peering in.
 
-    ("「まあな。最近迢顔を出してる部賦の翌女の子で、葵ち痰ゃんって言うんだ」†",
+    ("「まあな。最近迢顔を出してる部賦の翌女の子で、葵ち痰ゃんって言うんだ」",
     ""),
     # "Well, I'm the girl who's been appearing recently, and she's called Aoi Chisho-ya."
 

@@ -2,9 +2,9 @@
 # Source file: 01C8.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	帰闍り道）閨（５月１冾日）†",
+    ("（あかり	回秤数イベント	帰闍り道）閨（５月１冾日）",
     ""),
-    # (Akari Scales Event Returning Road) (5th Lion, 1st Day)†
+    # (Akari Scales Event Returning Road) (5th Lion, 1st Day)
 
     ("最近はｌのぼり上げてる家煢も少ねーなァ。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # I ran into it and got a light.
 
-    ("メ買ったばかりの本の袋を抱えている。†",
+    ("メ買ったばかりの本の袋を抱えている。",
     ""),
-    # I'm holding a bag of books I just bought.†
+    # I'm holding a bag of books I just bought.
 
     ("「なにモ買ったんだ？」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "...Hokkaido Perfect Guide?"
 
-    ("オレはそのままタイトルを読んだ。†",
+    ("オレはそのままタイトルを読んだ。",
     ""),
-    # I read Tight Crying.†
+    # I read Tight Crying.
 
     ("「うん。修学旅行の下調べにね」",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "It's just a mess, just for some reason. Since we're going to have it, we'll go back to Ebi."
 
-    ("「うん、そうしよ」†",
+    ("「うん、そうしよ」",
     ""),
     # "Yeah, let's do that."
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Sit there and let's take a look at the book I just bought."
 
-    ("あかりはベンチを指さし、言った。†",
+    ("あかりはベンチを指さし、言った。",
     ""),
-    # Akari pointed to the bench and said.†
+    # Akari pointed to the bench and said.
 
     ("「そうだな」",
     ""),
@@ -102,13 +102,13 @@ text_array = [
     ""),
     # I think you should do some research on Hokkaido and my geeks.
 
-    ("せっかく半哿日ある自由棊時間煌も、行き魔当たりばったりじ痰ゃ、時間の無駄だからな。†",
+    ("せっかく半哿日ある自由棊時間煌も、行き魔当たりばったりじ痰ゃ、時間の無駄だからな。",
     ""),
-    # Even though I've had a half-day free time, I'm not going to get hit by a phlegm, which is a waste of time.†
+    # Even though I've had a half-day free time, I'm not going to get hit by a phlegm, which is a waste of time.
 
-    ("オレはあかりといっしょにベンチにｍかけ、ガイドブックを見せてもらった。†",
+    ("オレはあかりといっしょにベンチにｍかけ、ガイドブックを見せてもらった。",
     ""),
-    # I went to Akari and Ichigo on the bench, showed me the guidebook and got a hot pot.†
+    # I went to Akari and Ichigo on the bench, showed me the guidebook and got a hot pot.
 
     ("「へえ、さすが『でっかいどう北海道』っていうだけのことはあるよな。名竃所件旧跡めじおしって感じだぜ」",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # "...Natade Coco"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「いいから、諱先進め」",
     ""),
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Yeah. Umm, you'll be free to go in Sapporo for half a day, right?"
 
-    ("「どこ、行っかなァ…」†",
+    ("「どこ、行っかなァ…」",
     ""),
     # "Where shall we go..."
 
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # "It's a cliché. Is that the same thing in the photo?
 
-    ("「まあ…」†",
+    ("「まあ…」",
     ""),
-    # "oh dear…"†
+    # "oh dear…"
 
     ("「やっぱ北海道っていや、とれたてピチピチのカニ料摎理とかじ痰ゃねーのか」",
     ""),
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # We also eat lunch ourselves, so if we're going to eat something tasty and delicious, then we'd like to eat something hot."
 
-    ("「食える量には限界ってものがあるからな、ぜひとも計謖画的にいきたいもんだ」†",
+    ("「食える量には限界ってものがあるからな、ぜひとも計謖画的にいきたいもんだ」",
     ""),
     # "There are only a limit to how much you can eat, so I would definitely like to go to the hot springs as a plan."
 
@@ -174,7 +174,7 @@ text_array = [
     ""),
     # "If you're going to slurp your hair, you can just buy some phlegm when you buy it on the night of the day."
 
-    ("「でも、じっくり選びたいなあ」†",
+    ("「でも、じっくり選びたいなあ」",
     ""),
     # "I also want to carefully choose the hot spring."
 

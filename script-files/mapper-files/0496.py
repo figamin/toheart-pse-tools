@@ -2,9 +2,9 @@
 # Source file: 0496.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階２）閨（選択綜	両菶方パス）†",
+    ("（志保	回秤数イベント	１階２）閨（選択綜	両菶方パス）",
     ""),
-    # (Shiho Scales Event, 1st floor 2) (Select So Ryo-Sukata Pass)†
+    # (Shiho Scales Event, 1st floor 2) (Select So Ryo-Sukata Pass)
 
     ("「＝メンドくせえから、両菶方ともパスだ」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # I'll go home alone."
 
-    ("オレはふたりに手を振って、さっさと歩き出した。†",
+    ("オレはふたりに手を振って、さっさと歩き出した。",
     ""),
-    # I waved at the two of them and quickly started walking.†
+    # I waved at the two of them and quickly started walking.
 
     ("「ち痰ゃん…」",
     ""),

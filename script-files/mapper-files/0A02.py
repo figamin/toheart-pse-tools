@@ -2,9 +2,9 @@
 # Source file: 0A02.txt
 
 text_array = [
-    ("（Ａ	雅いに行く。）†",
+    ("（Ａ	雅いに行く。）",
     ""),
-    # (A: Go to Mama.)†
+    # (A: Go to Mama.)
 
     ("よし、手紙の主に会いに行こう。",
     "Time to go meet the letter writer then."),
@@ -16,7 +16,7 @@ text_array = [
 
     ("当然、本物のラブレターであることを少しは期待しつつ、オレは教室を出た。",
     "I leave the classroom holding out hope that it might be a genuine love letter."),
-    # Of course, I left the classroom, hoping that it would be a real, powerful Amano Love Letter.†
+    # Of course, I left the classroom, hoping that it would be a real, powerful Amano Love Letter.
 
     ("放課後の渡り廊下。",
     "At the bridge corridor after school…"),
@@ -36,7 +36,7 @@ text_array = [
 
     ("グラウンドから聞こえてくる運動部の元気な声が逆に静けさをあおる。",
     "The energetic voices of those in the sports club training on the field makes the silence more stark."),
-    # The energetic voices of the athletic foil that can be heard from the banquet round actually stimulate the silence.†
+    # The energetic voices of the athletic foil that can be heard from the banquet round actually stimulate the silence.
 
     ("手紙の差出人はまだ来ない。",
     "The letter writer isn't here yet."),
@@ -56,7 +56,7 @@ text_array = [
 
     ("自販機に寄りかかり、屋根の上の雲をながめて暇をつぶした。",
     "Leaning against the vending machine, I spend my time staring at the clouds above the roof."),
-    # He approached the vending machine and killed his time by looking at the clouds above the roof.†
+    # He approached the vending machine and killed his time by looking at the clouds above the roof.
 
     ("やがて女生徒が来た。",
     "Finally, a female student shows up."),
@@ -76,7 +76,7 @@ text_array = [
 
     ("想像以上に落ち着かない自分がおかしい。",
     "It isn't like me to be so unbelievably restless."),
-    # I'm strange that I can't fall on the image of my heart.†
+    # I'm strange that I can't fall on the image of my heart.
 
     ("やっぱり、からかわれてんのか？？",
     "This is just a prank after all, isn't it?"),
@@ -92,7 +92,7 @@ text_array = [
 
     ("オレなんかより優しくて、カッコよくて、誠実なやつなんて、たっぷりいるからな。",
     "There are so many other guys who are a lot kinder, cooler, and more genuine than I am."),
-    # There are plenty of people who are kinder, cooler and honest than me.†
+    # There are plenty of people who are kinder, cooler and honest than me.
 
     ("くそ。",
     "Dammit."),
@@ -104,7 +104,7 @@ text_array = [
 
     ("そう思えば思うほど、志保のやつの仕業に思えてきた。",
     "The more I think about it, the more I am convinced Shiho is behind this."),
-    # The more I think about it that way, the more I feel it is Shiho's work as a tampering work.†
+    # The more I think about it that way, the more I feel it is Shiho's work as a tampering work.
 
     ("案外、いまもどこかに隠れて、笑いながらオレを見てんじゃねーのか？",
     "I won't be surprised if she is watching from somewhere right now, laughing at me."),
@@ -112,7 +112,7 @@ text_array = [
 
     ("よーし、いっちょ試してみるか。",
     "No harm trying to call her bluff then."),
-    # Okay, shall I try the Ichi-e-e-lion?†
+    # Okay, shall I try the Ichi-e-e-lion?
 
     ("「おい、こら！",
     "Hey!"),
@@ -128,7 +128,7 @@ text_array = [
 
     ("「これ以上、からかおうってんなら�｢�v」",
     "If you're gonna keep dragging this prank out…"),
-    # "If you're going to tease me after this, then """†
+    # "If you're going to tease me after this, then """
 
     ("「ごっ、ごめんなさいっ！」",
     "I-I'm sorry!"),
@@ -146,7 +146,7 @@ text_array = [
 
     ("必死な表情で謝る。",
     "She keeps apologizing desperately."),
-    # I apologize for my desperate public sentiment.†
+    # I apologize for my desperate public sentiment.
 
     ("「…あんた、誰？」",
     "Who are you?"),
@@ -162,7 +162,7 @@ text_array = [
 
     ("「ひな？」",
     "Ri?"),
-    # "Hina?" †
+    # "Hina?" 
 
     ("「ひ、ひな、",
     "R-Rio"),
@@ -217,7 +217,7 @@ text_array = [
 
     ("女の子は深々と頭を下げた。",
     "She bows deeply to me."),
-    # The bath girl bowed her head deeply.†
+    # The bath girl bowed her head deeply.
 
     ("げげっ！？",
     "What the?!"),
@@ -225,7 +225,7 @@ text_array = [
 
     ("志保のいたずらじゃなかったのか。",
     "So it isn't a prank by Shiho?"),
-    # Wasn't Shiho's mischievous phlegm?†
+    # Wasn't Shiho's mischievous phlegm?
 
     ("「え、えっと、さっきはいきなりどなったりして悪かった。",
     "Err… Sorry for shouting at you just now."),
@@ -239,7 +239,7 @@ text_array = [
 
     ("ずいぶんと恐縮されてるな。",
     "She seems genuinely sorry."),
-    # I'm quite humbled.†
+    # I'm quite humbled.
 
     ("「…あの、それでオレに用ってのは？」",
     "So… What did you ask me here for?"),
@@ -255,7 +255,7 @@ text_array = [
 
     ("すると彼女は、声を裏返らせながら背筋を伸ばした。",
     "The girl shrieks and stands up straighter."),
-    # The woman then turned her voice inside out and straightened her spine.†
+    # The woman then turned her voice inside out and straightened her spine.
 
     ("ごくっと息を飲み込んで、意を決したようにオレを見つめる。",
     "After gulping down a breath, she looks at me with determination in her eyes."),
@@ -263,7 +263,7 @@ text_array = [
 
     ("思わずオレも息を飲む。",
     "I can't help but hold my breath as well."),
-    # Without thinking, I took my breath away.†
+    # Without thinking, I took my breath away.
 
     ("「あっ、あのっ！！」",
     "I… I…!!"),
@@ -287,7 +287,7 @@ text_array = [
 
     ("なにやらポケットをゴソゴソやり始める。",
     "Then, she starts rummaging through her pockets."),
-    # I start messing around and messing around with my pockets.†
+    # I start messing around and messing around with my pockets.
 
     ("「なくしましたぁ…。",
     "I lost them…"),
@@ -299,7 +299,7 @@ text_array = [
 
     ("いまにも泣き出しそうだぞ。",
     "She is on the verge of tears."),
-    # I'm sure Hot will start crying right now.†
+    # I'm sure Hot will start crying right now.
 
     ("「",
     "Mr."),
@@ -321,7 +321,7 @@ text_array = [
 
     ("「えっ…」",
     "Wha…"),
-    # "What..." †
+    # "What..." 
 
     ("思わず、間抜けな反応をしてしまった。",
     "I blurt out, reacting like a fool."),
@@ -329,7 +329,7 @@ text_array = [
 
     ("当然こういう展開も予想できたはずなのに、あまりにストレートな告白に、すっかり不意をつかれてしまった。",
     "This is definitely one of the possible scenarios I had in mind, but I am caught off guard by the straightforward confession."),
-    # Of course, I could have predicted such a development, but the extremely low-pitched commentary made me completely unnoticed.†
+    # Of course, I could have predicted such a development, but the extremely low-pitched commentary made me completely unnoticed.
 
     ("彼女はもう一度、",
     "And then, she says it again."),
@@ -341,7 +341,7 @@ text_array = [
 
     ("追い打ちのように繰り返した。",
     "She doubles down by repeating her request."),
-    # It repeated like a hit.†
+    # It repeated like a hit.
 
     ("「いや、あの…」",
     "Um, wait…"),
@@ -349,7 +349,7 @@ text_array = [
 
     ("どんなパターンにしろ、とにかくこういう経験は初めてで、どういう対応していいか、わからない。",
     "This is completely new to me, and I have no idea how to react."),
-    # What kind of pattern will it be? It's my first time in Amami, so I don't know what kind of anti-spiritation should be.†
+    # What kind of pattern will it be? It's my first time in Amami, so I don't know what kind of anti-spiritation should be.
 
     ("「ぜ、ぜひ、お返事をきかせて下さいっ！！」",
     "M-M-May I have your reply please?!"),
@@ -367,7 +367,7 @@ text_array = [
 
     ("向こうもかなり錯乱してるようだ。",
     "She is clearly panicking."),
-    # 'It seems that the hot springs are also quite confusing.†
+    # 'It seems that the hot springs are also quite confusing.
 
     ("「…い、いや、ハイとかイエスって問題じゃなくて�｢�v」",
     "Th-This isn't about saying yes or not…"),
@@ -383,7 +383,7 @@ text_array = [
 
     ("「え…？」",
     "Huh?"),
-    # "picture…?"†
+    # "picture…?"
 
     ("「だから、ほら、オレたち初対面だし。",
     "I mean, you and I've never met before."),
@@ -397,7 +397,7 @@ text_array = [
 
     ("泣きそうな顔になる。",
     "She looks like she might just cry anytime."),
-    # He looks like he's about to cry.†
+    # He looks like he's about to cry.
 
     ("「だ、だから、これから少しずつ知り合っていくという意味でも…」",
     "S-So maybe we could get to know each other a little better first…"),
@@ -417,7 +417,7 @@ text_array = [
 
     ("言ってて恥ずかしくなってくるぞ。",
     "And that makes me really embarrassed."),
-    # It makes me feel embarrassed to say it.†
+    # It makes me feel embarrassed to say it.
 
     ("「お、お友だちですか、そうですよね…」",
     "Fr-Friends… I see…"),
@@ -439,7 +439,7 @@ text_array = [
 
     ("「うん？」",
     "Yeah?"),
-    # "Yeah?"†
+    # "Yeah?"
 
     ("「い、いえっ、なんでもありませんっっ！！",
     "N-N-Never mind!"),
@@ -453,7 +453,7 @@ text_array = [
 
     ("呼び止める間もなく、彼女は校舎の方へと駆けていく。",
     "She dashes into the school building before I can stop her."),
-    # Without a moment of urging her to stop her, the girl leaps towards the good fortune of the school building.†
+    # Without a moment of urging her to stop her, the girl leaps towards the good fortune of the school building.
 
     ("「お、おい！",
     "Hey!"),
@@ -467,7 +467,7 @@ text_array = [
 
     ("なんか勘違いされたみたいだぞ。",
     "She seems to have misunderstood."),
-    # It seems like he's been misunderstood.†
+    # It seems like he's been misunderstood.
 
     ("彼女を追って、建物に駆けこんだとき、",
     "As I run into the building while going after her…"),
@@ -479,7 +479,7 @@ text_array = [
 
     ("という悲鳴と、びたんっという、なにやら痛々しい音が聞こえてきた。",
     "I hear a loud sound and someone lets out a pained cry."),
-    # I heard a scream and a thud, painful sound of something tampering and painful.†
+    # I heard a scream and a thud, painful sound of something tampering and painful.
 
     ("「いたたた…」",
     "Ow…"),
@@ -499,7 +499,7 @@ text_array = [
 
     ("オレは手を差し出す。",
     "I stretch a hand out."),
-    # I held out my hand.†
+    # I held out my hand.
 
     ("Are you hurt?",
     ""),
@@ -525,7 +525,7 @@ text_array = [
 
     ("あわてた口調でそう言うと、理緒ちゃんは勢いよく、がばっと立ち上がった。",
     "She stands up as quickly as she can in a fluster."),
-    # When I said this in a flustered tone of fortune, the man who suddenly rose with force.†
+    # When I said this in a flustered tone of fortune, the man who suddenly rose with force.
 
     ("「わ、私、それじゃ！」",
     "I-I-I'll be going now!"),
@@ -541,7 +541,7 @@ text_array = [
 
     ("「おいおい…」",
     "C'mon…"),
-    # "hey hey…"†
+    # "hey hey…"
 
     ("でも、たぶん、いまは追いかけないほうがいいんだろうな。",
     "But it would probably be better to not go after her this time."),
@@ -561,7 +561,7 @@ text_array = [
 
     ("なにが悪かったのか、オレの言いたかったことは、うまく伝わらなかったらしい。",
     "I don't know what went wrong, but my words didn't get through to her correctly."),
-    # Apparently, what I was wrong and what I wanted to say didn't really convey well.†
+    # Apparently, what I was wrong and what I wanted to say didn't really convey well.
 
     ("こういう場合、どうしたもんか。",
     "How should I deal with this?"),
@@ -573,7 +573,7 @@ text_array = [
 
     ("こんなことに悩むなんて、オレってじつは、不器用な男なのか？",
     "I can't believe I am stressing out over this. Am I this socially inept?"),
-    # Are I actually a man with a frailty to worry about such a thing?†
+    # Are I actually a man with a frailty to worry about such a thing?
 
     ("「なんだかなあ…」",
     "I don't get it…"),

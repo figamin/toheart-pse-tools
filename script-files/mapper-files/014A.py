@@ -2,9 +2,9 @@
 # Source file: 014A.txt
 
 text_array = [
-    ("（あかり	好感度イベント	５）閨（選択綜ＡＢからの続き）†",
+    ("（あかり	好感度イベント	５）閨（選択綜ＡＢからの続き）",
     ""),
-    # (Akari Likeability Event 5) (Continued from Chosen AB)†
+    # (Akari Likeability Event 5) (Continued from Chosen AB)
 
     ("「知迺らねーけど、そういうことらしい。かといって長岡さんにお願いすると、ほら、一瞬にしてうわさが広まっち痰ゃいそうだ？」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "So"
 
-    ("﨟矢⊥島はにっこり微笑んだ。†",
+    ("﨟矢⊥島はにっこり微笑んだ。",
     ""),
-    # 﨟Ya⊥jima smiled.†
+    # 﨟Ya⊥jima smiled.
 
     ("「…ったく、めんどくせーなー」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "But, if you only want to give me the trigger, I'll tamper with the part that I push after that."
 
-    ("﨟矢⊥島は自信ありげにうなずいた。†",
+    ("﨟矢⊥島は自信ありげにうなずいた。",
     ""),
-    # 﨟Ya⊥Ishima nodded confidently.†
+    # 﨟Ya⊥Ishima nodded confidently.
 
     ("はあ。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # No matter who the Kaji Concert is, if you are forced to ask for something hot, you can't refuse Cao.
 
-    ("もしも薰矢⊥島が頭を下げて鰍頼んだら、あいつは断闥りきれねーだーな。†",
+    ("もしも薰矢⊥島が頭を下げて鰍頼んだら、あいつは断闥りきれねーだーな。",
     ""),
-    # If Yunya Island bowed his head and asked for the kalp, he wouldn't be able to stop him.†
+    # If Yunya Island bowed his head and asked for the kalp, he wouldn't be able to stop him.
 
     ("「じ痰ゃ、さっそく次の休み桙時間に鰍頼むぜ」",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # 﨟Yajima said with a laughing face.
 
-    ("「おいおい、いくらなんでもそり痰ゃちょっと気が≠早すぎんじ痰ゃねーか？」†",
+    ("「おいおい、いくらなんでもそり痰ゃちょっと気が≠早すぎんじ痰ゃねーか？」",
     ""),
     # "Hey, how quickly does it feel to have a sputum even if it's too early, isn't it?"
 
@@ -102,8 +102,8 @@ text_array = [
     ""),
     # He put his hands together, and Ya-jima said with apologies.
 
-    ("「…ったく、しょーがねーなあ」†",
+    ("「…ったく、しょーがねーなあ」",
     ""),
-    # "...I don't have any sluts" †
+    # "...I don't have any sluts" 
 
 ]

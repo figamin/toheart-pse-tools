@@ -2,9 +2,9 @@
 # Source file: 0A03.txt
 
 text_array = [
-    ("（Ｂ	行かない。）†",
+    ("（Ｂ	行かない。）",
     ""),
-    # (B I won't go.)†
+    # (B I won't go.)
 
     ("やっぱり、やめとくか。",
     ""),

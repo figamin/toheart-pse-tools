@@ -2,9 +2,9 @@
 # Source file: 0289.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｂ	また明坙日な）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ１）閨（選択綜Ｂ	また明坙日な）",
     ""),
-    # (Sei°Chuang, Scales Event, Departing from School LV1)Sei (Sei B is also the Ming Shun)†
+    # (Sei°Chuang, Scales Event, Departing from School LV1)Sei (Sei B is also the Ming Shun)
 
     ("「また明坙日な」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Ko-kun, the senior nodded.
 
-    ("オレは手を振って先輩の前を通闥り過ぎた。†",
+    ("オレは手を振って先輩の前を通闥り過ぎた。",
     ""),
-    # I waved my hand and walked too far in front of my senior.†
+    # I waved my hand and walked too far in front of my senior.
 
     ("坂道の途湯で、いかにも高燕級といった感じの浮黒塗闢りの鰍リムジンとすれ痰違った。",
     ""),

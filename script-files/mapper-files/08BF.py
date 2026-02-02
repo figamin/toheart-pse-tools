@@ -2,11 +2,11 @@
 # Source file: 08BF.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	学校外１）閨（選択綜	言ってみただけだ）†",
+    ("（レミィ	回秤数イベント	学校外１）閨（選択綜	言ってみただけだ）",
     ""),
-    # (The Remy Scales Event, Outside School 1) (I just tried to say it)†
+    # (The Remy Scales Event, Outside School 1) (I just tried to say it)
 
-    ("「言ってみただけだって」†",
+    ("「言ってみただけだって」",
     ""),
     # "I just said it"
 
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "N shield oN shield o! The words wings mean that other t-like spirits are so t-like that they become less noticeable."
 
-    ("「へえ…」†",
+    ("「へえ…」",
     ""),
-    # "Whoa..." †
+    # "Whoa..." 
 
     ("「",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "The culture of Japan is amazing"
 
-    ("「そうだな」†",
+    ("「そうだな」",
     ""),
-    # "That's right" †
+    # "That's right" 
 
     ("「他にも聞いていいよ、」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "She's phlegmy."
 
-    ("「うん。またネ」†",
+    ("「うん。またネ」",
     ""),
-    # "Yes. See you later" †
+    # "Yes. See you later" 
 
     ("…これで、志保の使った怪しげな言葉は本物だってことがわかった。",
     ""),

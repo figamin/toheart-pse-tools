@@ -2,9 +2,9 @@
 # Source file: 0B31.txt
 
 text_array = [
-    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４	縺後半）閨（綾∴香	左	＝普通）†",
+    ("（綾∴香	綾∴香に挑峵戦	回秤数イベント４	縺後半）閨（綾∴香	左	＝普通）",
     ""),
-    # (Aya∴Ka challenges Aya∴Ka, battle for Aya∴Ka, balance number event 4, second half of the month) (Aya∴Ka, left = normal)†
+    # (Aya∴Ka challenges Aya∴Ka, battle for Aya∴Ka, balance number event 4, second half of the month) (Aya∴Ka, left = normal)
 
     ("「…じ痰ゃ、そそ始めよっか」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "yes"
 
-    ("ふたりはセリオからグ鴻ローブを受け取り、閨手にはめた。†",
+    ("ふたりはセリオからグ鴻ローブを受け取り、閨手にはめた。",
     ""),
-    # The two received the Ghoon robe from Segata Rio and put it in their hand.†
+    # The two received the Ghoon robe from Segata Rio and put it in their hand.
 
     ("「今厓日で４回目。ここまでは楽汪勝だったけど、正直そそｊなくなってきたわ」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("おい、ちょっと待て。†",
+    ("おい、ちょっと待て。",
     ""),
-    # Hey, wait a moment.†
+    # Hey, wait a moment.
 
     ("「これまでは遊んでたとでもいうのかよ？」",
     ""),
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "I've been playing with it all, but it's not a slut, so it's a slut that I've been seriously tampering with, so it's a slut. I kept some energy and was tampering with it."
 
-    ("「それなりかよ…」†",
+    ("「それなりかよ…」",
     ""),
-    # "Is that pretty..." †
+    # "Is that pretty..." 
 
     ("「でも最近のの上達ぶりには目を見張髓るものがあるわ。",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # I can no longer say it's 'so decent' anymore."
 
-    ("「ほほう」†",
+    ("「ほほう」",
     ""),
-    # "Hah" †
+    # "Hah" 
 
     ("そこで綾∴香は、パシッと拳を握驤ると、",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "It's b I want..."
 
-    ("本末当はあまり望まない。†",
+    ("本末当はあまり望まない。",
     ""),
-    # I don't really want to do that at the end of the day.†
+    # I don't really want to do that at the end of the day.
 
     ("「じ痰ゃあ、いいわよ。セリオ、お願い」",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「｢｢ファイト」†",
+    ("「｢｢ファイト」",
     ""),
-    # ""Fight"†
+    # ""Fight"
 
     ("ビャオッ！",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # My gangbang quickly swung into the attack after the attack.
 
-    ("かうじて回避。†",
+    ("かうじて回避。",
     ""),
-    # Evade it by b.†
+    # Evade it by b.
 
     ("なんだ！？",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # Aya∴Ka's р guy is going to attack completely differently from when it comes to Hot.
 
-    ("これが｢｢。†",
+    ("これが｢｢。",
     ""),
-    # This is ".†
+    # This is ".
 
     ("ビャッ！",
     ""),
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # Continue with a Shield One Two!
 
-    ("オレはステッピングで右回濶りに回避する。†",
+    ("オレはステッピングで右回濶りに回避する。",
     ""),
-    # I avoided the geek by stepping and turning right.†
+    # I avoided the geek by stepping and turning right.
 
     ("「いいわよ、縺上達してる！」",
     ""),
@@ -182,9 +182,9 @@ text_array = [
     ""),
     # "I'll continue!"
 
-    ("＠磯翌ﾈ、と言いたい。†",
+    ("＠磯翌ﾈ、と言いたい。",
     ""),
-    # @Isozune Ne. I want to say.†
+    # @Isozune Ne. I want to say.
 
     ("ビャッ！",
     ""),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # Bang!
 
-    ("潤ワンツーをブ鴻ロック。†",
+    ("潤ワンツーをブ鴻ロック。",
     ""),
-    # Jun One Two is Brough Rock.†
+    # Jun One Two is Brough Rock.
 
     ("ビャッ｢｢パシッ！",
     ""),
@@ -234,13 +234,13 @@ text_array = [
     ""),
     # My intense punch hit me for the first time in Amami!
 
-    ("ついに綾∴香にブ鴻ロックさせたぞ！†",
+    ("ついに綾∴香にブ鴻ロックさせたぞ！",
     ""),
-    # Finally, Aya∴Ka has made her rock!†
+    # Finally, Aya∴Ka has made her rock!
 
-    ("だが、綾∴香は素¢早くフット純ワークで逃げ、すぐに翌距離が開く。†",
+    ("だが、綾∴香は素¢早くフット純ワークで逃げ、すぐに翌距離が開く。",
     ""),
-    # However, Aya∴Ka escapes with pure footwork quickly, and the next distance quickly opens.†
+    # However, Aya∴Ka escapes with pure footwork quickly, and the next distance quickly opens.
 
     ("綾∴香は足の使いかたが非嵓常に上闖手い。",
     ""),
@@ -250,9 +250,9 @@ text_array = [
     ""),
     # It's a very intense range type that has the explosive power of the Infighter (selectors who are good at close combat), and the out-type (savvy at long distances) with the pure, quick footwork and calm judgment.
 
-    ("そう言うと、まるで攻め入體るр隙がないようにも思える。†",
+    ("そう言うと、まるで攻め入體るр隙がないようにも思える。",
     ""),
-    # When I say that, it makes me feel like there's no room for getting into the air.†
+    # When I say that, it makes me feel like there's no room for getting into the air.
 
     ("が、しかし！",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # Why is it so crazy lol?
 
-    ("どの翌距離燉も得意ってことは、裏を返せば、どの翌距離燉もそれなりでしかないってことだ。†",
+    ("どの翌距離燉も得意ってことは、裏を返せば、どの翌距離燉もそれなりでしかないってことだ。",
     ""),
-    # The fact that he is good at any next-day distance is that on the other hand, every next-day distance is only quite reasonable.†
+    # The fact that he is good at any next-day distance is that on the other hand, every next-day distance is only quite reasonable.
 
     ("綾∴香は翌距離を置いて、遠莱距離嵭戦に持ち桙込む気だ。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 008B.txt
 
 text_array = [
-    ("（冝期槙末テスト	３冾日目）閨（選択綜	まあまあ）†",
+    ("（冝期槙末テスト	３冾日目）閨（選択綜	まあまあ）",
     ""),
-    # (3rd day of the final test for the ritual period) (Select So, ok)†
+    # (3rd day of the final test for the ritual period) (Select So, ok)
 
     ("「まあまあ、ってとこだな」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "What is that, how is it arrogant way?"
 
-    ("「べつにぃ」†",
+    ("「べつにぃ」",
     ""),
-    # "Between" †
+    # "Between" 
 
     ("「けっ。じ痰ゃあな、有機化㊨合物はなにをｒ心にした化㊨合物だ？」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "...The answer is C (carbon)."
 
-    ("意外にもあっさりと嘯答えてくる。†",
+    ("意外にもあっさりと嘯答えてくる。",
     ""),
-    # Surprisingly, the hot answer also came out easily.†
+    # Surprisingly, the hot answer also came out easily.
 
     ("「やるじ痰ゃねえか…」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "And how's going on over there?"
 
-    ("「あたし？	同じく、まあまあとだけ言っておくわ」†",
+    ("「あたし？	同じく、まあまあとだけ言っておくわ」",
     ""),
-    # "Me? I'll just say it later." †
+    # "Me? I'll just say it later." 
 
     ("「ふん…。明坙日でモきを見骭るなよ」",
     ""),

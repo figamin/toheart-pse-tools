@@ -2,7 +2,7 @@
 # Source file: 00C2.txt
 
 text_array = [
-    ("（４月３０冾日	朝）閨（自分の部屋）†",
+    ("（４月３０冾日	朝）閨（自分の部屋）",
     ""),
     # (April 30th day of the month of the month) (morning) (morning my room)
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # He lifts up from the bed and stretches out loud.
 
-    ("４月最終叝日の朝、今厓日は快調だぜ。†",
+    ("４月最終叝日の朝、今厓日は快調だぜ。",
     ""),
-    # The morning of the last day of the April silence moon, the day is currently in good condition.†
+    # The morning of the last day of the April silence moon, the day is currently in good condition.
 
     ("「ち痰ゃん、知ってる？」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Did you know?"
 
-    ("「あれだけ派阡手に宣伝してり痰ゃ、そり痰ゃな」†",
+    ("「あれだけ派阡手に宣伝してり痰ゃ、そり痰ゃな」",
     ""),
-    # "You're advertising to so many sluts, that's pretty slut" †
+    # "You're advertising to so many sluts, that's pretty slut" 
 
     ("「すごい数のおもち痰ゃがあるんだよ」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "During this time, I'll be with Shiho."
 
-    ("「へえ」†",
+    ("「へえ」",
     ""),
-    # "Whoa" †
+    # "Whoa" 
 
     ("「で、そこでなにをモ買ったかというと｢｢」",
     ""),
@@ -74,8 +74,8 @@ text_array = [
     ""),
     # "Ping Pong, that's the right answer."
 
-    ("「バレバレ」†",
+    ("「バレバレ」",
     ""),
-    # "Barasukuribasukuri"†
+    # "Barasukuribasukuri"
 
 ]

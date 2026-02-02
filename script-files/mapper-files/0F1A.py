@@ -2,9 +2,9 @@
 # Source file: 0F1A.txt
 
 text_array = [
-    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	雅史を誘う）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル３）閨（終業式篇（ぱずる））閨（選択綜	雅史を誘う）閨（蛛主人公煙負け）",
     ""),
-    # (Arcade Battle Cry 3) (Closing ceremony edition) (Choices, Inviting History) (Dragon protagonist) (Fluffy) †
+    # (Arcade Battle Cry 3) (Closing ceremony edition) (Choices, Inviting History) (Dragon protagonist) (Fluffy) 
 
     ("「やるじ痰ゃねーか」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "I guess so, I don't really feel that way."
 
-    ("「ほめてんだから素直にｊべよ」†",
+    ("「ほめてんだから素直にｊべよ」",
     ""),
     # "I'm praising you, so just be honest with me"
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "That's right.
 
-    ("やるか、梶リターンマッチ」†",
+    ("やるか、梶リターンマッチ」",
     ""),
-    # Is it okay, Kaji return match"†
+    # Is it okay, Kaji return match"
 
     ("結局のとこ、雅史の腕はそれほどでもなかったが（笑）、うまくなってることだけは確かだった。",
     ""),

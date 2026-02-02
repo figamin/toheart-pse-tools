@@ -2,9 +2,9 @@
 # Source file: 0F09.txt
 
 text_array = [
-    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	あかり）閨（蛛主人公煙負け）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	あかり）閨（蛛主人公煙負け）",
     ""),
-    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Choice Akari) (Mrage Protagonist Smoke) †
+    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Choice Akari) (Mrage Protagonist Smoke) 
 
     ("「ちょ、ちょっと待て、こんなはずは…」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Yay! I won! Yeeee!"
 
-    ("蛛大相びのあかり。†",
+    ("蛛大相びのあかり。",
     ""),
-    # A red light from the giant sung sung.†
+    # A red light from the giant sung sung.
 
     ("「なによ、あのミスは？	トーシ鴻ロー？」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # Cuckold.
 
-    ("この光景、無ヶ茶苦ル茶プライド揀傷つくぜ。†",
+    ("この光景、無ヶ茶苦ル茶プライド揀傷つくぜ。",
     ""),
-    # This sight hurts Mugachasaikuri Tea banquet ride.†
+    # This sight hurts Mugachasaikuri Tea banquet ride.
 
     ("「ま、あかりにやられてるようじ痰ゃ、あたしと戦うのは１００怩万年＃早いわね」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Oh, I'm going to make a painful excuse, so I'll give you some phlegm~ Bath @."
 
-    ("「ちくしょう」†",
+    ("「ちくしょう」",
     ""),
-    # "Chikushi Ebi"†
+    # "Chikushi Ebi"
 
     ("「なんだか悪いなあ…。いいの！？	おごってもらっち痰ゃって」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "Damn..."
 
-    ("この駆辱、忘齧れんぞ〜っ。†",
+    ("この駆辱、忘齧れんぞ〜っ。",
     ""),
-    # I can't forget this humiliation.†
+    # I can't forget this humiliation.
 
     ("卒業式なんて、在校生にとっては、そんななんでもない一勛日に過ぎない。◯",
     ""),

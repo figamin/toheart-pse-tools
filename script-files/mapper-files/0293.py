@@ -2,9 +2,9 @@
 # Source file: 0293.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（廊下１）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（廊下１）",
     ""),
-    # (Seri° Kaku Scales Event 2F LV3)Seri (Carrior 1)†
+    # (Seri° Kaku Scales Event 2F LV3)Seri (Carrior 1)
 
     ("教室を出たとこで、＠栖瑞謳先輩にった。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Ko-kun, Senpai nodded.
 
-    ("梶相変﨑わらずぼんやりしていて、なんとなくつかみどこがない。†",
+    ("梶相変﨑わらずぼんやりしていて、なんとなくつかみどこがない。",
     ""),
-    # Kaji Ai Henzaki was messing around, and somehow I couldn't find a way to grab it.†
+    # Kaji Ai Henzaki was messing around, and somehow I couldn't find a way to grab it.
 
     ("今厓日燗もまたタ鴻ロットで占ってくれるのかな、と思っていたら、",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("オカルト研結級の部室に誘嵭われた。†",
+    ("オカルト研結級の部室に誘嵭われた。",
     ""),
-    # I was invited to the club room of Okaryu Ruto Kenyu.†
+    # I was invited to the club room of Okaryu Ruto Kenyu.
 
     ("「………」",
     "…"),

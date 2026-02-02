@@ -2,9 +2,9 @@
 # Source file: 0260.txt
 
 text_array = [
-    ("（ＶＳイベント	芹°香ＶＳマルチ）閨（渡闢り廊下）†",
+    ("（ＶＳイベント	芹°香ＶＳマルチ）閨（渡闢り廊下）",
     ""),
-    # (VS Event Seri°Ka VS Makyuruchi) Lei (Court Hallway) †
+    # (VS Event Seri°Ka VS Makyuruchi) Lei (Court Hallway) 
 
     ("「…くそ〜っ。オレの１００円、どこ行っちまったんだ」",
     ""),
@@ -14,17 +14,17 @@ text_array = [
     ""),
     # During the break, I tried to buy a Cafe au Gekure at the vending machine, but accidentally ended up falling a 100 yen coin somewhere.
 
-    ("探せど探せど、１００円玉は出てこない。†",
+    ("探せど探せど、１００円玉は出てこない。",
     ""),
-    # Even if I search, I don't find a 100 yen coin.†
+    # Even if I search, I don't find a 100 yen coin.
 
     ("小遣いと食数を兼ねているオレにとって、１００円という金額はわりと馬鹿にできないポジションにある。",
     ""),
     # For me, who has both pocket money and meals, the 100 yen hot amount is quite a bit of a fool.
 
-    ("くだらないことに使ってしまうことは多々あるが、タダでくれてやるほどの余裕はない。†",
+    ("くだらないことに使ってしまうことは多々あるが、タダでくれてやるほどの余裕はない。",
     ""),
-    # I often use it for silly things, but I don't have the time to give it to you for free and tamper with it.†
+    # I often use it for silly things, but I don't have the time to give it to you for free and tamper with it.
 
     ("くっそ〜っ、どこ行ったんだ。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Um, are you looking for something?"
 
-    ("そんな声が聞こえ、オレは顔を上げた。†",
+    ("そんな声が聞こえ、オレは顔を上げた。",
     ""),
-    # I heard this voice and my face leapt up.†
+    # I heard this voice and my face leapt up.
 
     ("見骭るとそこには、マルチと、そしてｗ栖瑞謳先輩のふたりが立っていた。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("なんか珍しいツーショットだな。†",
+    ("なんか珍しいツーショットだな。",
     ""),
-    # It's a rare two-squeezed.†
+    # It's a rare two-squeezed.
 
     ("「なにかお探しのようですが？」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "That's a bit of a problem, so I'll help you out."
 
-    ("「おお、そうか」†",
+    ("「おお、そうか」",
     ""),
     # "Oh, is that so?"
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("「いや、でも、そんな大袈裟なものじ痰ゃ…」†",
+    ("「いや、でも、そんな大袈裟なものじ痰ゃ…」",
     ""),
     # "It's a bit of a mess, and even a bunch of hot phlegms are exaggerated..."
 
@@ -110,9 +110,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("すると先輩は先輩で『ａ魔法で見つけます』と言ってくる。†",
+    ("すると先輩は先輩で『ａ魔法で見つけます』と言ってくる。",
     ""),
-    # Then my senior says to me, "I'll find it with A Magic."†
+    # Then my senior says to me, "I'll find it with A Magic."
 
     ("う〜ん。",
     ""),
@@ -126,9 +126,9 @@ text_array = [
     ""),
     # At this time, either of them should I help you and get some hot water?
 
-    ("ふたり同椏時ってのもなんだから、どっちかに鰍頼燉もう。†",
+    ("ふたり同椏時ってのもなんだから、どっちかに鰍頼燉もう。",
     ""),
-    # Since the two of them are also the same time, they'll just sing either way.†
+    # Since the two of them are also the same time, they'll just sing either way.
 
     ("科学を鰍頼髣るか、ａ魔法を鰍頼髣るか。",
     ""),

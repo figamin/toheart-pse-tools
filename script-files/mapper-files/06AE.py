@@ -2,9 +2,9 @@
 # Source file: 06AE.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	学校を出髀る１）閨（選択綜Ａ	寂しくなるな…）†",
+    ("（マルチ	回秤数イベント	学校を出髀る１）閨（選択綜Ａ	寂しくなるな…）",
     ""),
-    # (Muryuruchi, the balance event, leaving school 1) (Choice A, it's not going to be lonely...)†
+    # (Muryuruchi, the balance event, leaving school 1) (Choice A, it's not going to be lonely...)
 
     ("「そっか、寂しくなるな…」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "…Mr. Miss"
 
-    ("マルチも寂しそうに言った。†",
+    ("マルチも寂しそうに言った。",
     ""),
-    # Ruchi-san also said sadly.†
+    # Ruchi-san also said sadly.
 
     ("「…でも、さんにそう言ってもらえて、わたし、嬉しいです」",
     ""),

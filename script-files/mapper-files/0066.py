@@ -2,9 +2,9 @@
 # Source file: 0066.txt
 
 text_array = [
-    ("４／２３（＄）†",
+    ("４／２３（＄）",
     ""),
-    # 4/23 ($)†
+    # 4/23 ($)
 
     ("「じ痰ゃあ、お先」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "It's phlegmy."
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
     ("雅史と垣本。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # The soccer club also plays hot springs to the club.
 
-    ("オレも移動するか。†",
+    ("オレも移動するか。",
     ""),
-    # Will my ramblings also move?†
+    # Will my ramblings also move?
 
     ("そういえば、志保がゲーセンに行く約束をしてたっけ。",
     ""),
@@ -42,21 +42,21 @@ text_array = [
     ""),
     # The hot water doesn't seem to be too loud, though.
 
-    ("どうするか。†",
+    ("どうするか。",
     ""),
-    # What should I do?†
+    # What should I do?
 
     ("だらだらと廊下を歩く。",
     ""),
     # I walked around the hallways lazily.
 
-    ("帰闍りの生徒たちとすれ痰違う。†",
+    ("帰闍りの生徒たちとすれ痰違う。",
     ""),
-    # The students who have returned home are completely different.†
+    # The students who have returned home are completely different.
 
-    ("知った顔にでも出初えればいいが、そんなこともなく、階段の前にｗた。†",
+    ("知った顔にでも出初えればいいが、そんなこともなく、階段の前にｗた。",
     ""),
-    # I wish I could get some hot springs on my familiar face, but there was no hot spring, so I laughed at him in front of the stairs.†
+    # I wish I could get some hot springs on my familiar face, but there was no hot spring, so I laughed at him in front of the stairs.
 
     ("「、またな」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "Ou"
 
-    ("クラスの男子が手を上げて、玄関から出て行った。†",
+    ("クラスの男子が手を上げて、玄関から出て行った。",
     ""),
-    # The boys at the Crown Rath lifted their hands and left the front door.†
+    # The boys at the Crown Rath lifted their hands and left the front door.
 
     ("ひとりで帰驪る。",
     ""),
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # When you think about it consciously, there are some lonely things that are tampering with.
 
-    ("誰か知ったрヤツはいねーか？†",
+    ("誰か知ったрヤツはいねーか？",
     ""),
-    # Does anyone know who?†
+    # Does anyone know who?
 
     ("明坙日は燃えないゴミの冾日か。",
     ""),

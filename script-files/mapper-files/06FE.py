@@ -2,15 +2,15 @@
 # Source file: 06FE.txt
 
 text_array = [
-    ("「こんにちは、さん」†",
+    ("「こんにちは、さん」",
     ""),
-    # "Hello, san"†
+    # "Hello, san"
 
-    ("「なんなりとお申し付けください」†",
+    ("「なんなりとお申し付けください」",
     ""),
-    # "Please tell me anything" †
+    # "Please tell me anything" 
 
-    ("「マッサージですか？」†",
+    ("「マッサージですか？」",
     ""),
     # "Is it a massage?"
 
@@ -26,45 +26,45 @@ text_array = [
     ""),
     # C It's really good
 
-    ("「はい、かしこまりました」†",
+    ("「はい、かしこまりました」",
     ""),
-    # "Yes, I'm innocent" †
+    # "Yes, I'm innocent" 
 
-    ("「それでは、おもみします」†",
+    ("「それでは、おもみします」",
     ""),
     # "Well then, I'll take a look at the hot springs."
 
-    ("「はい、かしこまりました」†",
+    ("「はい、かしこまりました」",
     ""),
-    # "Yes, I'm innocent" †
+    # "Yes, I'm innocent" 
 
-    ("「それでは、叩かせていただきます」†",
+    ("「それでは、叩かせていただきます」",
     ""),
     # "Well then, I'll criticize you."
 
-    ("「そうですか」†",
+    ("「そうですか」",
     ""),
-    # "is that so"†
+    # "is that so"
 
-    ("「かしこまりました」†",
+    ("「かしこまりました」",
     ""),
-    # "I got it"†
+    # "I got it"
 
-    ("「わかりました」†",
+    ("「わかりました」",
     ""),
-    # "I understand" †
+    # "I understand" 
 
-    ("「それでは、また」†",
+    ("「それでは、また」",
     ""),
-    # "See you later" †
+    # "See you later" 
 
-    ("「お疲齡れさまでした」†",
+    ("「お疲齡れさまでした」",
     ""),
-    # "Thank you for getting tired" †
+    # "Thank you for getting tired" 
 
-    ("「ごｗ用ありがとうございました」†",
+    ("「ごｗ用ありがとうございました」",
     ""),
-    # "Thank you for your help" †
+    # "Thank you for your help" 
 
     ("「強さはどうしますか？」閨",
     ""),
@@ -86,95 +86,95 @@ text_array = [
     ""),
     # B: It's weak
 
-    ("「はい、強くですね」†",
+    ("「はい、強くですね」",
     ""),
     # "Yes, it's strong."
 
-    ("「かしこまりました」†",
+    ("「かしこまりました」",
     ""),
-    # "I got it"†
+    # "I got it"
 
-    ("「はい、縺弱くですね」†",
+    ("「はい、縺弱くですね」",
     ""),
     # "Yes, you're weak."
 
-    ("「かしこまりました」†",
+    ("「かしこまりました」",
     ""),
-    # "I got it"†
+    # "I got it"
 
-    ("「では、始めます」†",
+    ("「では、始めます」",
     ""),
-    # "Well, let's get started" †
+    # "Well, let's get started" 
 
     ("もみもみもみ…。	セリオは真面目にもんでいる。	セリオは無表﨣情にもんでいる。",
     ""),
     # Crack and burnt...Segata Rio is seriously hot.Segata Rio is in a state of unrequited sentiment.
 
-    ("とんとんとん…。	セリオは真面目に叩いている。	セリオは無表﨣情に叩いている。「………」†",
+    ("とんとんとん…。	セリオは真面目に叩いている。	セリオは無表﨣情に叩いている。「………」",
     ""),
-    # Twinkle...Segata Rio is seriously bashing.Segata Rio is criticizing the unrequited feelings."..."†
+    # Twinkle...Segata Rio is seriously bashing.Segata Rio is criticizing the unrequited feelings."..."
 
-    ("「申し訳ありません」†",
+    ("「申し訳ありません」",
     ""),
-    # "very sorry"†
+    # "very sorry"
 
-    ("「マッサージのしすぎは、かえって体に悪い影響を及ぼします」†",
+    ("「マッサージのしすぎは、かえって体に悪い影響を及ぼします」",
     ""),
     # "Too much massage can actually have a negative effect on your body"
 
-    ("「少し休憩しましょう」†",
+    ("「少し休憩しましょう」",
     ""),
-    # "Let's take a little break" †
+    # "Let's take a little break" 
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「それでは、続けます」†",
+    ("「それでは、続けます」",
     ""),
-    # "Well then, let's continue" †
+    # "Well then, let's continue" 
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「一度、体の節々を動かしてください」†",
+    ("「一度、体の節々を動かしてください」",
     ""),
-    # "Move the trodes of your body once" †
+    # "Move the trodes of your body once" 
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
-    ("「諱よしいですか？」†",
-    ""),
-    # "Are you sure you're saying this?"
-
-    ("「………」†",
-    ""),
-    # "..."†
-
-    ("「では、続けましょう」†",
-    ""),
-    # "Now, let's continue" †
-
-    ("「諱よしいですか？」†",
+    ("「諱よしいですか？」",
     ""),
     # "Are you sure you're saying this?"
 
-    ("「停止します」†",
+    ("「………」",
     ""),
-    # "It will stop" †
+    # "..."
 
-    ("「終了ですか？」†",
+    ("「では、続けましょう」",
+    ""),
+    # "Now, let's continue" 
+
+    ("「諱よしいですか？」",
+    ""),
+    # "Are you sure you're saying this?"
+
+    ("「停止します」",
+    ""),
+    # "It will stop" 
+
+    ("「終了ですか？」",
     ""),
     # "Are you finished?"
 
@@ -190,29 +190,29 @@ text_array = [
     ""),
     # B: No training!
 
-    ("「ありがとうございます」†",
+    ("「ありがとうございます」",
     ""),
-    # "thank you"†
+    # "thank you"
 
-    ("「光栄です」†",
+    ("「光栄です」",
     ""),
-    # "I'm honored" †
+    # "I'm honored" 
 
-    ("「うれしく思います」†",
+    ("「うれしく思います」",
     ""),
-    # "I'm happy" †
+    # "I'm happy" 
 
-    ("「なんでしょう？」†",
+    ("「なんでしょう？」",
     ""),
     # "Why did you slut?"
 
-    ("なでなで。†",
+    ("なでなで。",
     ""),
-    # Stroke.†
+    # Stroke.
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("Ａ	もっとなでる",
     ""),
@@ -222,15 +222,15 @@ text_array = [
     ""),
     # B Reward is over
 
-    ("よしよし。†",
+    ("よしよし。",
     ""),
-    # Okay, okay.†
+    # Okay, okay.
 
-    ("「これは？」†",
+    ("「これは？」",
     ""),
-    # "this is?"†
+    # "this is?"
 
-    ("「これは、子沁供をほめるときの行為ですね」†",
+    ("「これは、子沁供をほめるときの行為ですね」",
     ""),
     # "This is the act of praise for a child's offering."
 
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # "Stroking. "
 
-    ("手のひらなどで軽くさする。なぜる」†",
+    ("手のひらなどで軽くさする。なぜる」",
     ""),
     # Lightly rub it with your palm or something similar.Why is it?
 
@@ -250,64 +250,64 @@ text_array = [
     ""),
     # B Reward is over
 
-    ("なでり、なでり。†",
+    ("なでり、なでり。",
     ""),
-    # Stroking, stroking.†
+    # Stroking, stroking.
 
-    ("「…複雑です」†",
+    ("「…複雑です」",
     ""),
-    # "...It's complicated" †
+    # "...It's complicated" 
 
     ("「…",
     ""),
     # "...
 
-    ("よく、わかりません」†",
+    ("よく、わかりません」",
     ""),
     # Well, I don't know."
 
-    ("「…不思議です」†",
+    ("「…不思議です」",
     ""),
-    # "...It's strange" †
+    # "...It's strange" 
 
-    ("「申し訳ありません」†",
+    ("「申し訳ありません」",
     ""),
-    # "very sorry"†
+    # "very sorry"
 
-    ("「氈次回までに新しいデータに更新します」†",
+    ("「氈次回までに新しいデータに更新します」",
     ""),
-    # "I will update to new data by next time" †
+    # "I will update to new data by next time" 
 
-    ("「氈次回は少し電圧を調整してみましょう」†",
+    ("「氈次回は少し電圧を調整してみましょう」",
     ""),
     # "Next time, I'll try adjusting the voltage a little."
 
-    ("「氈次回はサーａモセンサを併用してみます」†",
+    ("「氈次回はサーａモセンサを併用してみます」",
     ""),
     # "Next time I'll try using the Thermosensor together"
 
-    ("「人体『けいらく』のデータを解析します」†",
+    ("「人体『けいらく』のデータを解析します」",
     ""),
-    # "Analyze data on the human body "Keiraku""†
+    # "Analyze data on the human body "Keiraku""
 
-    ("「なにが、いけなかったのでしょうか？」†",
+    ("「なにが、いけなかったのでしょうか？」",
     ""),
     # "What was it that I couldn't do, so I'll give it a peek?"
 
-    ("「同じ失敗を繰り返さないよう高注意します」†",
+    ("「同じ失敗を繰り返さないよう高注意します」",
     ""),
-    # "We'll be careful not to repeat the same mistake" †
+    # "We'll be careful not to repeat the same mistake" 
 
-    ("「氈次のお申し付けを」†",
+    ("「氈次のお申し付けを」",
     ""),
-    # "Please make the next request" †
+    # "Please make the next request" 
 
-    ("「他には？」†",
+    ("「他には？」",
     ""),
     # "What else?"
 
-    ("「なんなりとお申し付けください」†",
+    ("「なんなりとお申し付けください」",
     ""),
-    # "Please tell me anything" †
+    # "Please tell me anything" 
 
 ]

@@ -2,9 +2,9 @@
 # Source file: 0A2E.txt
 
 text_array = [
-    ("（Ａ	そうさせてもらう。）†",
+    ("（Ａ	そうさせてもらう。）",
     ""),
-    # (A and get the hot spring.)†
+    # (A and get the hot spring.)
 
     ("「じゃあ、そうさせてもらうぜ」",
     "It would be my pleasure."),
@@ -16,7 +16,7 @@ text_array = [
 
     ("理緒ちゃんはニッコリ笑って、オレの手に弁当箱を強く押しつけた。",
     "Rio grins and shoves the lunch box into my hands."),
-    # The girl Ochisou-chan smiled and pressed her bento box against my heart's hand.†
+    # The girl Ochisou-chan smiled and pressed her bento box against my heart's hand.
 
     ("「でもスゲーな。この弁当箱…」",
     "This lunch is incredible…"),
@@ -32,7 +32,7 @@ text_array = [
 
     ("照れたようにうつむく理緒ちゃん。",
     "She bows her head sheepishly."),
-    # I'm sputum looking down as if illuminated.†
+    # I'm sputum looking down as if illuminated.
 
     ("「ははは。",
     "Hahaha!"),
@@ -96,7 +96,7 @@ text_array = [
 
     ("うんうんとうなずきながら、おでんを食う。",
     "I eat the oden while nodding in approval."),
-    # I nodded, yeah, and ate oden.†
+    # I nodded, yeah, and ate oden.
 
     ("「あっ、そうだ」",
     "By the way-"),
@@ -112,7 +112,7 @@ text_array = [
 
     ("オレは自分のぶんの昼メシを理緒ちゃんに差し出した。",
     "I hold out my lunch to Rio."),
-    # I handed over my lunch to my daughter.†
+    # I handed over my lunch to my daughter.
 
     ("「はい、ウィンナーロールとレタスサンド。",
     "It's a sausage roll and a lettuce sandwich-"),
@@ -132,7 +132,7 @@ text_array = [
 
     ("「うん…」",
     "Okay…"),
-    # "Yeah…"†
+    # "Yeah…"
 
     ("「なんだ？",
     "You don't sound excited."),
@@ -150,7 +150,7 @@ text_array = [
 
     ("「いただきます！」",
     "Thanks for the food!"),
-    # "I'll enjoy having this!"†
+    # "I'll enjoy having this!"
 
     ("「購買部で売ってるパンのメーカー。",
     "Whoever supplies the student store with sandwiches"),
@@ -166,7 +166,7 @@ text_array = [
 
     ("理緒ちゃんは遠慮深そうにオレを見ながら、ウィンナーロールを一口かじる。",
     "Rio looks at me shyly and takes a bite off the sausage roll."),
-    # As she looked at me with a sensible look, she nibbled the wiener incense roll in a bite.†
+    # As she looked at me with a sensible look, she nibbled the wiener incense roll in a bite.
 
     ("「あ…おいしい…」",
     "Oh… It's good…"),
@@ -186,7 +186,7 @@ text_array = [
 
     ("おやつをもらった子供みたいだ。",
     "She is like a child who has been given candy."),
-    # It looks like a child who has been given a tampering thing.†
+    # It looks like a child who has been given a tampering thing.
 
     ("食べた終わった後も、ふたりは予鈴が鳴るまで屋上で雑談をかわした。",
     "We stay on the rooftop after finishing our food and chat about nothing in particular until the bell rings."),

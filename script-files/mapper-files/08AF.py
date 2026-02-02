@@ -2,9 +2,9 @@
 # Source file: 08AF.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	１階２	ＬＶ２）閨（選択綜	別れる）†",
+    ("（レミィ	回秤数イベント	１階２	ＬＶ２）閨（選択綜	別れる）",
     ""),
-    # (Game Remy Scale Event 1st Floor 2 LV2) (Choice Scale Break)†
+    # (Game Remy Scale Event 1st Floor 2 LV2) (Choice Scale Break)
 
     ("「んじ痰ゃ、な」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "…Yeah"
 
-    ("レミィも小さく手を振って桙応える。†",
+    ("レミィも小さく手を振って桙応える。",
     ""),
-    # The waving hand also waved a little and responded.†
+    # The waving hand also waved a little and responded.
 
     ("「」",
     ""),

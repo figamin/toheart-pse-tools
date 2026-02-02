@@ -2,9 +2,9 @@
 # Source file: 0F46.txt
 
 text_array = [
-    ("（３月２２冾日	土）閨（堰ラジオ	３回目）閨（驕夜）閨（自分の部屋	電気つき	カーテン開け）†",
+    ("（３月２２冾日	土）閨（堰ラジオ	３回目）閨（驕夜）閨（自分の部屋	電気つき	カーテン開け）",
     ""),
-    # (3rd day of the 22nd day of the 2018, Saturday) (3rd time for the weir radio) (3rd time for the night) (my room with electricity, open curtains)†
+    # (3rd day of the 22nd day of the 2018, Saturday) (3rd time for the weir radio) (3rd time for the night) (my room with electricity, open curtains)
 
     ("明坙日は冾日曜坥日。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Even if I overslept, there's no light hot water lol.
 
-    ("思いっきり夜ふかしできるぜ。†",
+    ("思いっきり夜ふかしできるぜ。",
     ""),
-    # You can spend the night as hard as you can.†
+    # You can spend the night as hard as you can.
 
     ("おっ、そういえば、いつも聞いてる奄ラジオの桙時間だな。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 0149.txt
 
 text_array = [
-    ("（あかり	好感度イベント	５）閨（選択綜Ｂ	まあ、いいけどさ）†",
+    ("（あかり	好感度イベント	５）閨（選択綜Ｂ	まあ、いいけどさ）",
     ""),
-    # (Akari Likeability Event 5) (Select Sou B Well, that's fine)†
+    # (Akari Likeability Event 5) (Select Sou B Well, that's fine)
 
     ("「まあ、いいけどさ…」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Sorry, I'm grateful for your kindness!"
 
-    ("そう言って頭を下げた。†",
+    ("そう言って頭を下げた。",
     ""),
-    # He bowed his head saying that.†
+    # He bowed his head saying that.
 
     ("「やっぱ神岸さんだって、諱よく知迺らないрヤツ相闡手じ痰ゃ警卲戒するだうからさ」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Well."
 
-    ("だからってこのオレをダシにするのは気に入逑らないが、まあ断髓る理由燉もない。†",
+    ("だからってこのオレをダシにするのは気に入逑らないが、まあ断髓る理由燉もない。",
     ""),
-    # That's why I don't like the fact that I use this slurp, but I don't have a reason to stop it.†
+    # That's why I don't like the fact that I use this slurp, but I don't have a reason to stop it.
 
     ("「でもよ、こういうことなら、オレ諠よか史か志保に鰍頼んだほうがいいぜ？	アイツ辜らもあかりとは№仲良いし」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "I already asked Sato to hachi. He's going to hate him because he'll be hated by you."
 
-    ("「オレが恨む？	なんで？」†",
+    ("「オレが恨む？	なんで？」",
     ""),
     # "You're so grudged? Why?"
 

@@ -2,9 +2,9 @@
 # Source file: 0191.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ｂ	自首をうながす）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ｂ	自首をうながす）",
     ""),
-    # (Light scale event 2F) (B encourages you to turn yourself)†
+    # (Light scale event 2F) (B encourages you to turn yourself)
 
     ("「自首させる」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "picture?"
 
-    ("「自首させる。悪いようにはしない」†",
+    ("「自首させる。悪いようにはしない」",
     ""),
     # "Let me turn myself in. I won't do anything wrong"
 
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Your mother, Ho is crying too. 'Akari, let me go back to that kind person b'"
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「オレも見損なったぞ。まさかお前が殺しをやるような翌女だったとは…」",
     ""),
@@ -50,17 +50,17 @@ text_array = [
     ""),
     # "At least turn yourself aside and don't take your guilt!"
 
-    ("「わかったよ…」†",
+    ("「わかったよ…」",
     ""),
-    # "I understand..." †
+    # "I understand..." 
 
     ("こういうあかりの『もしも話』に最纃後までつき№合うと、蛛大葬最纃後は変な方阜のドラマに発展する。",
     ""),
     # If you follow this "If You're a Hot" to the very end, it will develop into a strange banquet llama of Fukukata Fu after the final day of the funeral.
 
-    ("はっきり言って、つき№合いきれん。†",
+    ("はっきり言って、つき№合いきれん。",
     ""),
-    # To be honest, I can't meet the number of people.†
+    # To be honest, I can't meet the number of people.
 
     ("やってる間に家にｒいたので、閨手を振ってあかりと別れた。◯",
     ""),

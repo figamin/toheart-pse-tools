@@ -2,9 +2,9 @@
 # Source file: 00DA.txt
 
 text_array = [
-    ("（システムイベント	テスト発表）閨（あかりと勉強無し）閨（Ｓａ５の場㍼合）†",
+    ("（システムイベント	テスト発表）閨（あかりと勉強無し）閨（Ｓａ５の場㍼合）",
     ""),
-    # (System Event Test Presentation) Clip (No light and study) Clip (Standby Sa5) †
+    # (System Event Test Presentation) Clip (No light and study) Clip (Standby Sa5) 
 
     ("平均点は…５４点。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I think half of it has exceeded.
 
-    ("前熨もって補習があるってわかっていれば、もう少し頑張れたと思うがな。†",
+    ("前熨もって補習があるってわかっていれば、もう少し頑張れたと思うがな。",
     ""),
-    # If I had known that there would be some supplementary lessons to tamper with the front gift, I think I would have tried a little more.†
+    # If I had known that there would be some supplementary lessons to tamper with the front gift, I think I would have tried a little more.
 
     ("なにはともあれ、諱取りあえずなんとか補習は免齧れた。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Huh? Is it a place to go back?"
 
-    ("あかりもいっしょだ。†",
+    ("あかりもいっしょだ。",
     ""),
-    # Akari Hot is also a slut.†
+    # Akari Hot is also a slut.
 
     ("「なんだ、なんか用か？」",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "That's after all.
 
-    ("取りあえず、補習だけは免齧れたと言っておこう」†",
+    ("取りあえず、補習だけは免齧れたと言っておこう」",
     ""),
     # Let's not hesitate to ask, and say that we've been able to do the supplementary lessons for a while."
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "...I'm so excited! I feel like it's not that good."
 
-    ("「オレのくせにってなんだってんだよ」†",
+    ("「オレのくせにってなんだってんだよ」",
     ""),
     # "What's with me, even though I'm a real guy?"
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "...Damn it. I just happened to be in a bad mood, and ""
 
-    ("「怐万年不調だ、お前は」†",
+    ("「怐万年不調だ、お前は」",
     ""),
     # "You've been feeling bad for a long time, you're"
 
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Kiii, it's a bit of a mess!"
 
-    ("「話ってそれだけか？	じ痰ゃ、オレはこれで帰驪るかんな」†",
+    ("「話ってそれだけか？	じ痰ゃ、オレはこれで帰驪るかんな」",
     ""),
-    # "Is that all I have to say? That's the point of my phlegm, I'm going to go back to my veteran." †
+    # "Is that all I have to say? That's the point of my phlegm, I'm going to go back to my veteran." 
 
     ("じだんだ踏み続ける志保を後目に、オレは教室を出た。◯",
     ""),

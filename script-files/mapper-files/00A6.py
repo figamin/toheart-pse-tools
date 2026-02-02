@@ -2,17 +2,17 @@
 # Source file: 00A6.txt
 
 text_array = [
-    ("（３月１２冾日	朝）閨（玄関）†",
+    ("（３月１２冾日	朝）閨（玄関）",
     ""),
-    # (Morning of the 12th day of the 3rd month) (Entrance)†
+    # (Morning of the 12th day of the 3rd month) (Entrance)
 
     ("３月１２冾日、＄曜坥日。",
     ""),
     # The 12th day of the 3rd month of the 12th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the 19th day of the
 
-    ("さあ、今厓日燗も一勛日が始まるぞ。†",
+    ("さあ、今厓日燗も一勛日が始まるぞ。",
     ""),
-    # Now, the day for the sun is beginning.†
+    # Now, the day for the sun is beginning.
 
     ("「今厓日はなんだか葉っぱが濡齡れてるなァ？」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "What, it's a mess, it's completely..."
 
-    ("「諱よっぽどぐっすり寝てたんだね」†",
+    ("「諱よっぽどぐっすり寝てたんだね」",
     ""),
     # "You slept very soundly."
 

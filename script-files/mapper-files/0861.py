@@ -2,9 +2,9 @@
 # Source file: 0861.txt
 
 text_array = [
-    ("（レミィ	回秤数イベントＰＳ）閨（選択綜	いっしょに帰う）†",
+    ("（レミィ	回秤数イベントＰＳ）閨（選択綜	いっしょに帰う）",
     ""),
-    # (Fall Remy: Scales Event PS) (Choose-so Return to Isshi-e)†
+    # (Fall Remy: Scales Event PS) (Choose-so Return to Isshi-e)
 
     ("「なあ撃レミィ、いっしょに帰うぜ」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Kyado? ...Ah, archery foil?"
 
-    ("「ごいっしょします？」†",
+    ("「ごいっしょします？」",
     ""),
     # "Can I suppose you suppose?"
 
@@ -38,17 +38,17 @@ text_array = [
     ""),
     # Well, I've had time anyway, so I'll see what Kyudo Hokube is like, or maybe even Hokube.
 
-    ("「いいぜ。ごいっしょしましょ」†",
+    ("「いいぜ。ごいっしょしましょ」",
     ""),
-    # "That's fine. I'll give you a slut"†
+    # "That's fine. I'll give you a slut"
 
     ("「ここがキャードー場デス」",
     ""),
     # "This is the Cado field."
 
-    ("レミィに案煦内されてやってきた弓道齠場には、すでに何人かの部員がやってきていた。†",
+    ("レミィに案煦内されてやってきた弓道齠場には、すでに何人かの部員がやってきていた。",
     ""),
-    # Several members have already been tampering with the idea of ​​being put into the Kyudo Hall, which was being tampered with by the king Remy.†
+    # Several members have already been tampering with the idea of ​​being put into the Kyudo Hall, which was being tampered with by the king Remy.
 
     ("みると、みんな準備運動をやっている。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # "We'll also do warm-up exercises for Kyudo Kan."
 
-    ("ぴくりとも動かずに薰矢を撃ってるようなイ＜メージがあるけど、やっぱ弓道燗もスポーツなんだな。†",
+    ("ぴくりとも動かずに薰矢を撃ってるようなイ＜メージがあるけど、やっぱ弓道燗もスポーツなんだな。",
     ""),
-    # There's an image of him shooting a snake without moving, but I guess Kyudo Kan is a sport after all.†
+    # There's an image of him shooting a snake without moving, but I guess Kyudo Kan is a sport after all.
 
     ("「準備体操は最燕初に済ませるの。、やってみる？」",
     ""),
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # Why do I exercise so much so much?
 
-    ("「残念デス…」†",
+    ("「残念デス…」",
     ""),
     # "Sorry, death..."
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # With that in mind, Yu Remi walked to the Fukuwara area in the changing room.
 
-    ("オレは手近の壁に寄闃りかかってｎ囲を見まわす。†",
+    ("オレは手近の壁に寄闃りかかってｎ囲を見まわす。",
     ""),
-    # My gang approaches a wall near me and looks at the n-circumference.†
+    # My gang approaches a wall near me and looks at the n-circumference.
 
     ("見た目は道齠場なんだが、′こう側は壁がきれいになくなっていて、テニスコートくらいの砂地が見える。",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # When I saw a target further downstairs, I saw that a dragon flew over that sandy land.
 
-    ("砂地の脇にバレーボールがいくつか転がってるけど、なにに使うんだう？†",
+    ("砂地の脇にバレーボールがいくつか転がってるけど、なにに使うんだう？",
     ""),
-    # There are a few voluptuous railballs lying on the side of the sandy surface, what are they using it for?†
+    # There are a few voluptuous railballs lying on the side of the sandy surface, what are they using it for?
 
     ("・",
     ""),
@@ -114,9 +114,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("しばらく経って、はかま姿の撃レミィが出てきた。",
     ""),
@@ -130,9 +130,9 @@ text_array = [
     ""),
     # "Please keep me waiting."
 
-    ("「おう」†",
+    ("「おう」",
     ""),
-    # "Ou"†
+    # "Ou"
 
     ("「その前に…」",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「イチ、ニ、サン、シ…」†",
+    ("「イチ、ニ、サン、シ…」",
     ""),
-    # "Ichi, ni, san, shi..."†
+    # "Ichi, ni, san, shi..."
 
     ("・",
     ""),
@@ -166,9 +166,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("やっと終尞わった。",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # "Before that..."
 
-    ("レミィは振關り返髟ると『センパ〜イ、ａ撃っていいですか〜』と、始めからｗていた先輩粕部員に声をかけた。†",
+    ("レミィは振關り返髟ると『センパ〜イ、ａ撃っていいですか〜』と、始めからｗていた先輩粕部員に声をかけた。",
     ""),
-    # When Karemi replied, he called out to a senior member of Kasu club, who had been laughing from the beginning, "Sempaa, can I shoot A?"†
+    # When Karemi replied, he called out to a senior member of Kasu club, who had been laughing from the beginning, "Sempaa, can I shoot A?"
 
     ("すんなり魔許可をもらい、レミィは弓と薰矢を準備し始める。",
     ""),
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # Given the good-for-mouth attitude of Remie, he must be a senior, but at first glance he looks younger than Lemne Remie.
 
-    ("冝日本人って、やっぱ幼く見えるんだなぁ。†",
+    ("冝日本人って、やっぱ幼く見えるんだなぁ。",
     ""),
-    # Japanese people look young after all.†
+    # Japanese people look young after all.
 
     ("と思ってると、",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("オレはあいまいにうなずいた。†",
+    ("オレはあいまいにうなずいた。",
     ""),
-    # I nodded vaguely.†
+    # I nodded vaguely.
 
     ("「彼女、すごいわよぉ。じっくり見てやんなさい」",
     ""),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # Wow... The guy from Hakuremi said he was a sputum and slutty guy, but he was actually very skilled.
 
-    ("オレはじっくり見兼った。†",
+    ("オレはじっくり見兼った。",
     ""),
-    # I took a close look at my hard work.†
+    # I took a close look at my hard work.
 
     ("弓と薰矢を持って、′まりでもあるのか独特の歩き方で位置にｒく。",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # 﨟I held my arrow up, pulled my bow over the snug of my head, and held it tightly on the snug of my shoulder.
 
-    ("時間が止まったかのような間…。†",
+    ("時間が止まったかのような間…。",
     ""),
-    # It was like time had stopped...†
+    # It was like time had stopped...
 
     ("「レミィの『雅（弓を引き絞ったフォーム）』ってカッコイイ夋わね」",
     ""),
@@ -298,9 +298,9 @@ text_array = [
     ""),
     # Byaan!
 
-    ("﨟矢が冾放たれた。†",
+    ("﨟矢が冾放たれた。",
     ""),
-    # 﨟A arrow was fired.†
+    # 﨟A arrow was fired.
 
     ("ザクッ！",
     ""),
@@ -310,7 +310,7 @@ text_array = [
     ""),
     # 﨟The arrow thrusts into the sandy ground by the specular membrane.
 
-    ("「な、なんだぁ…？」†",
+    ("「な、なんだぁ…？」",
     ""),
     # "What, what...?"
 
@@ -326,9 +326,9 @@ text_array = [
     ""),
     # What was the "pull" so far?
 
-    ("人をさんざん待たせといてそれだけかぁ？†",
+    ("人をさんざん待たせといてそれだけかぁ？",
     ""),
-    # Is that all you have to do is keep people waiting so long?†
+    # Is that all you have to do is keep people waiting so long?
 
     ("「見た見た？	レミィってね、雅はすっごいキレイなのに、﨟矢は変な方へ飛んじ痰ゃうのよ」",
     ""),
@@ -338,9 +338,9 @@ text_array = [
     ""),
     # "It's a strange arc."
 
-    ("諱先輩粕部員は得意そうに撃レミィの実力を解煢説してうなずき№合っている。†",
+    ("諱先輩粕部員は得意そうに撃レミィの実力を解煢説してうなずき№合っている。",
     ""),
-    # Senior Kasu club member seemed to be good at explaining Ekire Remi's abilities and nodded his head to the match.†
+    # Senior Kasu club member seemed to be good at explaining Ekire Remi's abilities and nodded his head to the match.
 
     ("「残念ねぇ…。せっかく撃レミィ、彼＃氏の前でカッコイイとこ見せようと思ったんでしょうけど」",
     ""),
@@ -350,9 +350,9 @@ text_array = [
     ""),
     # Or, he#my boyfriend!?
 
-    ("「あ、オレ、レミィとは｢｢」†",
+    ("「あ、オレ、レミィとは｢｢」",
     ""),
-    # "Ah, I'm a geek, what is """†
+    # "Ah, I'm a geek, what is """
 
     ("「いいからいいから。…そうだ、レミィにアレ窿やらせようよ。きっと彼＃氏燻も宸惚鼾れ直すわよ」",
     ""),
@@ -374,9 +374,9 @@ text_array = [
     ""),
     # "Haha Remi, let's do some super hard work and show you. I'm sure he'll smoke too."
 
-    ("だからオレは痰違うってば。†",
+    ("だからオレは痰違うってば。",
     ""),
-    # That's why I have to be extremely phlegm differently.†
+    # That's why I have to be extremely phlegm differently.
 
     ("「潤ワッカリましたーっ」",
     ""),
@@ -390,9 +390,9 @@ text_array = [
     ""),
     # Meanwhile, Hakuremi has three Tomorrows in his hand.
 
-    ("なにが始まるんだ？†",
+    ("なにが始まるんだ？",
     ""),
-    # What's starting?†
+    # What's starting?
 
     ("「いくわよ〜っ」",
     ""),
@@ -406,9 +406,9 @@ text_array = [
     ""),
     # Something that hit the ground and bounced back was the fierce volleyball I had just seen.
 
-    ("轣皮が破齡れてボ鴻ロボ鴻ロのボールの数は三つ…。†",
+    ("轣皮が破齡れてボ鴻ロボ鴻ロのボールの数は三つ…。",
     ""),
-    # The leather is broken and the number of balls in the ball is three...†
+    # The leather is broken and the number of balls in the ball is three...
 
     ("スパンッ、スパンッ、スパーンッ！",
     ""),
@@ -422,9 +422,9 @@ text_array = [
     ""),
     # At that moment, he fired one after another the Yatsuremi that had been holding.
 
-    ("３本を撃つのに５秒熾もかかっていない。†",
+    ("３本を撃つのに５秒熾もかかっていない。",
     ""),
-    # It took less than five seconds to shoot three b.†
+    # It took less than five seconds to shoot three b.
 
     ("それだけなら、まだいい。",
     ""),
@@ -434,9 +434,9 @@ text_array = [
     ""),
     # It's different if each of those three balls has a life on the ball.
 
-    ("ボールに突き刺さることはなかったが、﨟矢は確実にボールを弾き飛ばした。†",
+    ("ボールに突き刺さることはなかったが、﨟矢は確実にボールを弾き飛ばした。",
     ""),
-    # It never thrusts into the ball, but the arrows certainly bounced it off.†
+    # It never thrusts into the ball, but the arrows certainly bounced it off.
 
     ("「どお？	すごいでしょ、レミィって」",
     ""),
@@ -454,13 +454,13 @@ text_array = [
     ""),
     # "Yeah!"
 
-    ("こっちにｌけて手を振髏る撃レミィ。†",
+    ("こっちにｌけて手を振髏る撃レミィ。",
     ""),
-    # I squeal Remi waving at me.†
+    # I squeal Remi waving at me.
 
-    ("「彼女、動いてる的には百発百葡なのよ。あ、もう見せられないわよ？	諱先生に見つかったら怒逑られち痰ゃうから」†",
+    ("「彼女、動いてる的には百発百葡なのよ。あ、もう見せられないわよ？	諱先生に見つかったら怒逑られち痰ゃうから」",
     ""),
-    # "He's a million-dollar girl, who is moving, is a hundred grapes. Oh, I can't show you anymore, right? If you find him, I'll be pissed off."†
+    # "He's a million-dollar girl, who is moving, is a hundred grapes. Oh, I can't show you anymore, right? If you find him, I'll be pissed off."
 
     ("「、見直した？」",
     ""),

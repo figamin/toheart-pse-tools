@@ -2,9 +2,9 @@
 # Source file: 048A.txt
 
 text_array = [
-    ("（志保	回秤数イベント	２階２）閨（選択綜	べつに）†",
+    ("（志保	回秤数イベント	２階２）閨（選択綜	べつに）",
     ""),
-    # (Shiho Scales Event, 2nd floor 2) (Selecting)†
+    # (Shiho Scales Event, 2nd floor 2) (Selecting)
 
     ("「べつにぃ」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # I won't be able to stay thrilled and excited about Hot school trips.
 
-    ("それに、志保のрヤツにそんなとこを見迪られるのも御免だ。†",
+    ("それに、志保のрヤツにそんなとこを見迪られるのも御免だ。",
     ""),
-    # Also, I'm sorry that Shiho's guy would be able to see such a thing.†
+    # Also, I'm sorry that Shiho's guy would be able to see such a thing.
 
     ("「なんなのよ、その素っ気ない態度。『自分は道産子だから』って顔じ痰ゃないの！」",
     ""),
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "You say, 'I'm a kid!'
 
-    ("「そー艨ゆー意味じ痰ゃなくってな…って、結局そうだけど」†",
+    ("「そー艨ゆー意味じ痰ゃなくってな…って、結局そうだけど」",
     ""),
     # "That's the point of meaning, it's not phlegm... but that's what it is."
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # Are the standards for adults like hot and hot?”
 
-    ("「あんたが言い出したことでしょ？	あんたがｌめなさいよ」†",
+    ("「あんたが言い出したことでしょ？	あんたがｌめなさいよ」",
     ""),
-    # "That's what you said, slut? You should give me yours."†
+    # "That's what you said, slut? You should give me yours."
 
     ("「んじ痰ゃな、１週間煌も前から盾ワク純ワクしねーのが大人じ痰ゃねーのか？」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "I'm not purely excited, either!"
 
-    ("「楽しみなんだ？	じゅーぶん盾ワク純ワクしてるじ痰ゃねーか」†",
+    ("「楽しみなんだ？	じゅーぶん盾ワク純ワクしてるじ痰ゃねーか」",
     ""),
-    # "Are you looking forward to it? Is it really exciting to see the shield and phlegm when you're purely excited?" †
+    # "Are you looking forward to it? Is it really exciting to see the shield and phlegm when you're purely excited?" 
 
     ("「た、楽しみになんかしてないわよ！	あんたがそうなのか、聞いただけよ」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "That was just a good fortune, and I didn't even say that I'm looking forward to it."
 
-    ("オレにガキ扱いされるのが悔しくて、ムリсヤリ否阡定するとこが笑える。†",
+    ("オレにガキ扱いされるのが悔しくて、ムリсヤリ否阡定するとこが笑える。",
     ""),
-    # I'm so frustrated that I'm being treated like a brat by a huge guy, and it's funny how I'm not sure what's going on.†
+    # I'm so frustrated that I'm being treated like a brat by a huge guy, and it's funny how I'm not sure what's going on.
 
     ("「ふ〜ん。オレには『あたしは楽しみにしてるんだけど、あなたはどう？』って言ってるふうに見えたんだけどなぁ」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # I was hoping to see what kind of excuse I would make, but I continued to corner the overflowing woman with words.
 
-    ("「瘁違うんだってば！	まわりのみんなが色々とうるさいから、あんたもそうなのかって聞いたのよぉ！」†",
+    ("「瘁違うんだってば！	まわりのみんなが色々とうるさいから、あんたもそうなのかって聞いたのよぉ！」",
     ""),
-    # "I heard that's not good! Everyone around me is so noisy, so I asked if you're the same with Hou!" †
+    # "I heard that's not good! Everyone around me is so noisy, so I asked if you're the same with Hou!" 
 
     ("「まわりのみんながねえ…」",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # Shiho is pounded at the painful part and for a moment, he threw himself in a slumber.
 
-    ("へっ、簡単に追いつめられてやんの。†",
+    ("へっ、簡単に追いつめられてやんの。",
     ""),
-    # Heh, he's easily cornered and tampered with it.†
+    # Heh, he's easily cornered and tampered with it.
 
     ("「そうだな。誰でもいいよなぁ」",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # "I have to go back because I have something to do."
 
-    ("「はいはい。さようなら」†",
+    ("「はいはい。さようなら」",
     ""),
-    # "Yes, yes, goodbye" †
+    # "Yes, yes, goodbye" 
 
     ("志保はつかつかと去って行った。",
     ""),

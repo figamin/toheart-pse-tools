@@ -2,9 +2,9 @@
 # Source file: 02D0.txt
 
 text_array = [
-    ("（芹°香	テスト	３／１８）閨（Ｂ	帰驪る）†",
+    ("（芹°香	テスト	３／１８）閨（Ｂ	帰驪る）",
     ""),
-    # (Seri°Ka Test 3/18)Seri (B Return)†
+    # (Seri°Ka Test 3/18)Seri (B Return)
 
     ("なんだかテストに疲齡れて冾放心してるみたいだしな。",
     ""),

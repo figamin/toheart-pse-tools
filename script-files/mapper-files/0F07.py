@@ -2,9 +2,9 @@
 # Source file: 0F07.txt
 
 text_array = [
-    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	あかり）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	あかり）",
     ""),
-    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Akari)†
+    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Akari)
 
     ("「ここはなあ…」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # He pointed to Akari and said.
 
-    ("「ええ〜〜〜〜〜〜〜〜〜〜〜〜っ！？；」†",
+    ("「ええ〜〜〜〜〜〜〜〜〜〜〜〜っ！？；」",
     ""),
-    # "Ehhhh!?!"†
+    # "Ehhhh!?!"
 
     ("「そうやって、いかにも『指名しないで』という顔をされると、逆にしたくなるもんだ」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "The world's r isn't that sweet."
 
-    ("「うう〜…いけず〜…」†",
+    ("「うう〜…いけず〜…」",
     ""),
-    # "Uhh... I can't..." †
+    # "Uhh... I can't..." 
 
     ("「おっとあかり、ピンチか〜っ！？」",
     ""),
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "I'm sorry, but I can't take my hands off. I guess they're going to have a yuck on them."
 
-    ("「イジ＜メだよ〜…」†",
+    ("「イジ＜メだよ〜…」",
     ""),
     # "It's bullying~..."
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # Male history.
 
-    ("なんの自覚煌もなしにオレにプレッシャャーを与えやがる。†",
+    ("なんの自覚煌もなしにオレにプレッシャャーを与えやがる。",
     ""),
-    # Without any awareness, he gives me a strong rape and tampers with it.†
+    # Without any awareness, he gives me a strong rape and tampers with it.
 
     ("「気㈲合を入齠れてかからねーと痛い目みんぜ？",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("さらに肩を落とすあかり。†",
+    ("さらに肩を落とすあかり。",
     ""),
-    # Akari lionizes her shoulders.†
+    # Akari lionizes her shoulders.
 
     ("「堰負けてもどうせрヤックをおごるだけだ。ケチケチすんな」",
     ""),
@@ -106,7 +106,7 @@ text_array = [
     ""),
     # "Oh, it's good to be stingy. In a few years, even Akari will be a great housewife, so I'll have to be so sad at the unnecessary outcomes, right?"
 
-    ("「できれば痛めたくないよ」†",
+    ("「できれば痛めたくないよ」",
     ""),
     # "I don't want to hurt if possible"
 
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「うう〜…。",
     ""),
@@ -162,7 +162,7 @@ text_array = [
     ""),
     # It seems that Shiho's advice on the sidelines was actually counterproductive.
 
-    ("「はあ〜あ…。こんな点箔数、あっという間に抜かれち痰ゃうよ」†",
+    ("「はあ〜あ…。こんな点箔数、あっという間に抜かれち痰ゃうよ」",
     ""),
     # "Ahhh... I'll be able to get rid of the number of points like this in no time."
 
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # "I'm sorry, but I guess so, I'll give you a light tear and get some hot pot."
 
-    ("オレは椅子に座闕り、１００円玉を鰍投涛した。†",
+    ("オレは椅子に座闕り、１００円玉を鰍投涛した。",
     ""),
-    # I sat in a chair and threw a 100 yen coin into a whirlwind.†
+    # I sat in a chair and threw a 100 yen coin into a whirlwind.
 
     ("レッツ、プレイ！◯",
     ""),
@@ -210,10 +210,6 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
-    ""),
-    # ・†
-
     ("・",
     ""),
     # ・
@@ -230,8 +226,12 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
 ]

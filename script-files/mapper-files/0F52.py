@@ -2,9 +2,9 @@
 # Source file: 0F52.txt
 
 text_array = [
-    ("（４月１９冾日	土）閨（堰ラジオ	７回目）†",
+    ("（４月１９冾日	土）閨（堰ラジオ	７回目）",
     ""),
-    # (Saturday, April 19th) (7th time of the weir radio)†
+    # (Saturday, April 19th) (7th time of the weir radio)
 
     ("さて、土曜の夜１１桙時といえば…。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Just...
 
-    ("瘁違うだ。†",
+    ("瘁違うだ。",
     ""),
-    # It's not that bad.†
+    # It's not that bad.
 
     ("辛≒島灯音子の『ハート・トゥ・ハート』の桙時間だ。",
     ""),

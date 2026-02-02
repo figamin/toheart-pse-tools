@@ -2,9 +2,9 @@
 # Source file: 0152.txt
 
 text_array = [
-    ("（あかり	好感度イベント６．１）閨（選択綜Ａ	キスをしたの続き）閨（キスした	フラグＯＮ）†",
+    ("（あかり	好感度イベント６．１）閨（選択綜Ａ	キスをしたの続き）閨（キスした	フラグＯＮ）",
     ""),
-    # (Akari Likeability Event 6.1) (Continued from Chosen A Kiss) (Kissed Feng Lug ON)†
+    # (Akari Likeability Event 6.1) (Continued from Chosen A Kiss) (Kissed Feng Lug ON)
 
     ("「あかり…」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # On that day, I kissed Akari for the first time in Amami.
 
-    ("堰初めてのキスは、わずかな唇の温かさと、射し桙込む夕陽のオレンジだけが、強く記憶に残った。†",
+    ("堰初めてのキスは、わずかな唇の温かさと、射し桙込む夕陽のオレンジだけが、強く記憶に残った。",
     ""),
-    # The only thing I remember when I first kissed was the slight warmth of my lips and the intense range of the sunset that blew through the flapping was strong and memorable.†
+    # The only thing I remember when I first kissed was the slight warmth of my lips and the intense range of the sunset that blew through the flapping was strong and memorable.
 
     ("「…ち痰ゃん」",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 0662.txt
 
 text_array = [
-    ("（ＶＳイベント	マルチＶＳ撃レミィ）閨（レミィにやる）†",
+    ("（ＶＳイベント	マルチＶＳ撃レミィ）閨（レミィにやる）",
     ""),
-    # (VS Event Makkuruchi VS Geki Remi) (I'll tamper with Remi) †
+    # (VS Event Makkuruchi VS Geki Remi) (I'll tamper with Remi) 
 
     ("諱よし、レミィにやう。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # That guy has been strangely obsessed with Japanese culture.
 
-    ("きっとこういうのはｊぶだう。†",
+    ("きっとこういうのはｊぶだう。",
     ""),
-    # I'm sure this kind of thing is a j-b.†
+    # I'm sure this kind of thing is a j-b.
 
     ("オレは撃レミィのいる２−Ｃへとやってきた。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "Ah,!"
 
-    ("レミィはすぐに気づいて駆け寄ってきた。†",
+    ("レミィはすぐに気づいて駆け寄ってきた。",
     ""),
-    # Karemi immediately noticed and came up with me.†
+    # Karemi immediately noticed and came up with me.
 
     ("「なに、？」",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # Why don't you check with your name on something that you normally have?”
 
-    ("「がくれるなら、なんでも嬉しいｃ！」†",
+    ("「がくれるなら、なんでも嬉しいｃ！」",
     ""),
     # "If you give it to me, why would you be happy if it's a hot spring?"
 
@@ -78,9 +78,9 @@ text_array = [
     ""),
     # "This guy."
 
-    ("オレはポケットから痰例のお守りを取り出して見せた。†",
+    ("オレはポケットから痰例のお守りを取り出して見せた。",
     ""),
-    # My geira showed me a talisman from my pocket.†
+    # My geira showed me a talisman from my pocket.
 
     ("「Ｏ！	Ｊ≠ａ垂ｐ≠ａｎ入	＝ａ高ｍ浮ｕ撃ｌｔ！	お守りネ！」",
     ""),
@@ -98,7 +98,7 @@ text_array = [
     ""),
     # "Ou"
 
-    ("「嬉しいデス！」†",
+    ("「嬉しいデス！」",
     ""),
     # "I'm so happy!"
 
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # "Amazing Death!"
 
-    ("まあ、詳しいことはオレもよく知迺らないが、そういうモンだ。†",
+    ("まあ、詳しいことはオレもよく知迺らないが、そういうモンだ。",
     ""),
-    # Well, I don't know much about the details, but that's the kind of b-mon.†
+    # Well, I don't know much about the details, but that's the kind of b-mon.
 
     ("「じ痰ゃ、ほら」",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # "% Muayi Amida Buddha"
 
-    ("と、お祈闍りをする。†",
+    ("と、お祈闍りをする。",
     ""),
-    # And pray.†
+    # And pray.
 
     ("「おい、適俣当なお祈闍りすんなよ」",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "I don't know much about the details of my slut, but..."
 
-    ("レミィのやつ、梶相変﨑わらず変な知識だけは一嚠丁前なんだよな。†",
+    ("レミィのやつ、梶相変﨑わらず変な知識だけは一嚠丁前なんだよな。",
     ""),
-    # The tampering with Kaji Ai, the strange knowledge is unbearable.†
+    # The tampering with Kaji Ai, the strange knowledge is unbearable.
 
     ("「まあ、そういうのは持ってるだけで御圏益があるもんだ」",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # "You're already getting enough of the benefits of the siege!"
 
-    ("「ああ」†",
+    ("「ああ」",
     ""),
-    # "ah"†
+    # "ah"
 
     ("「ね。これって、どのくらいのＰ盾ｏ翌ｗ窒ｒがあるのかな？」",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「いちおう言っとくけど、くれぐれも無摶理に効果を試したりすんじ痰ゃねーぞ」",
     ""),

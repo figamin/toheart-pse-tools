@@ -2,17 +2,17 @@
 # Source file: 02B5.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	じじいがｗ磯翌Oに連齪れ出す）†",
+    ("（芹°香	回秤数イベント	学校を出髀る	ＬＶ２）閨（選択綜Ａ	じじいがｗ磯翌Oに連齪れ出す）",
     ""),
-    # (Seri°Kawa, Scales Event, Departing from School LV2)Seri (Selection A, Old man lol, comes back to the next skull O)†
+    # (Seri°Kawa, Scales Event, Departing from School LV2)Seri (Selection A, Old man lol, comes back to the next skull O)
 
     ("諱よーし。",
     ""),
     # Okay.
 
-    ("今厓日はいっちょ、迎えのじじいがｗ磯翌Oに、諱先輩を連齪れ出してみるか。†",
+    ("今厓日はいっちょ、迎えのじじいがｗ磯翌Oに、諱先輩を連齪れ出してみるか。",
     ""),
-    # I'm going to have a peek at the day, and the old man greets me lol Iso the next skull and Isao Senpai will start making repeated calls.†
+    # I'm going to have a peek at the day, and the old man greets me lol Iso the next skull and Isao Senpai will start making repeated calls.
 
     ("「ういーすっ、諱先輩」",
     ""),
@@ -30,17 +30,17 @@ text_array = [
     ""),
     # So...
 
-    ("うなずく先輩。†",
+    ("うなずく先輩。",
     ""),
-    # Senpai nodded.†
+    # Senpai nodded.
 
     ("「なあ、諱先輩？	オレ、思うんだけどさあ、＊淫俣勛当淫俣厲ﾔで翌送闡り迎えしてもらってち痰ゃあ、運動不足になっちまうぜ？	たまにはオレといっしょに歩いて帰んない？」",
     ""),
     # "Hey, Senpai, I'm really excited, I think so, *I'm going to take a trip to Inumata, and get some hot springs, so I'm not going to get enough exercise, right? Sometimes you don't walk home with my intense legs?"
 
-    ("こく…。†",
+    ("こく…。",
     ""),
-    # So...†
+    # So...
 
     ("「えっ？	わかりましたって？	はははっ、諱先輩は素直だから好きだなぁ」",
     ""),
@@ -54,17 +54,17 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩は顔を赤逅らめてうつむいた。†",
+    ("諱先輩は顔を赤逅らめてうつむいた。",
     ""),
-    # Senpai looked red and turned his head down.†
+    # Senpai looked red and turned his head down.
 
     ("「諱よし、じ痰ゃ、行こっか」",
     ""),
     # "Okay, phlegm, let's go."
 
-    ("じじいがｗ磯翌Oによ。†",
+    ("じじいがｗ磯翌Oによ。",
     ""),
-    # Old man lol Iso's skull the next day.†
+    # Old man lol Iso's skull the next day.
 
     ("校門を出た途端、まるで狙いすましたようなタイミングで、光り輝く浮黒塗闢りの鰍リムジンが魔走ってきた。",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("じじいめ、オレと先輩の間を裂くことに命かけてやがるな。†",
+    ("じじいめ、オレと先輩の間を裂くことに命かけてやがるな。",
     ""),
-    # Old man, don't risk his life to tear between me and my senior.†
+    # Old man, don't risk his life to tear between me and my senior.
 
     ("ふたりの目の前で停車する高ローイス鴻ロルスの鰍リムジン。",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "Ah, huh?"
 
-    ("瘁例のじじい…じ痰ゃなかった。†",
+    ("瘁例のじじい…じ痰ゃなかった。",
     ""),
-    # The old man who was in a state of disgust... he had no phlegm.†
+    # The old man who was in a state of disgust... he had no phlegm.
 
     ("「やっほ〜っ、姉さん、迎えにｗたわよ〜」",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # A Sanskrit uniform for a temple-dead woman.
 
-    ("そうだ、間違いない。†",
+    ("そうだ、間違いない。",
     ""),
-    # That's right, it must be awkward.†
+    # That's right, it must be awkward.
 
     ("「お前、この前のアイスクリーム翼女｢｢」",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # "You're the one who peers through my skirt in the park.
 
-    ("「妙な覚え方はやめてくれ」†",
+    ("「妙な覚え方はやめてくれ」",
     ""),
-    # "Stop tampering with strange ways of remembering" †
+    # "Stop tampering with strange ways of remembering" 
 
     ("「こんなとこでうなんて偶然ね」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # I just called my senior name "Nee-san."
 
-    ("ってことは…。†",
+    ("ってことは…。",
     ""),
-    # That means...†
+    # That means...
 
     ("「…もしかして、＊？」",
     ""),
@@ -178,9 +178,9 @@ text_array = [
     ""),
     # He nodded.
 
-    ("「諱先輩の…いもうと」†",
+    ("「諱先輩の…いもうと」",
     ""),
-    # "I'm going to have a hot spring from Senpai" †
+    # "I'm going to have a hot spring from Senpai" 
 
     ("「あら、もしかして、姉さんの彼＃氏だったの？	へえ、偶然ねぇ」",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # I tried to deny it, saying that it was a bit of a silence, but I stopped thinking about it.
 
-    ("いいや、彼＃氏ってことにしとけ。†",
+    ("いいや、彼＃氏ってことにしとけ。",
     ""),
-    # Taking it aside, let's just say he's #--.†
+    # Taking it aside, let's just say he's #--.
 
     ("「やっほ〜っ、姉さん、迎えにｗたわよ〜」",
     ""),
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # The girl who came to the scene after her T-shirt, who was not inferior to her senior, was the one who was not inferior to her.
 
-    ("諱先輩のことを『姉さん』って呼んでるってことは…。†",
+    ("諱先輩のことを『姉さん』って呼んでるってことは…。",
     ""),
-    # That's because you're calling your senior, "Nee-san"...†
+    # That's because you're calling your senior, "Nee-san"...
 
     ("「…もしかして、＊？」",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # He nodded.
 
-    ("「諱先輩の…いもうと」†",
+    ("「諱先輩の…いもうと」",
     ""),
-    # "I'm going to have a hot spring from Senpai" †
+    # "I'm going to have a hot spring from Senpai" 
 
     ("「あら〜？	姉さん、今厓日は彼＃氏連齪れなの？	へえ、珍しい！」",
     ""),
@@ -238,9 +238,9 @@ text_array = [
     ""),
     # "Oh, he#my...?"
 
-    ("諱先輩のｖは、まるで品を見定めるかのようにマジマジとオレの顔を見た。†",
+    ("諱先輩のｖは、まるで品を見定めるかのようにマジマジとオレの顔を見た。",
     ""),
-    # Senpai V, who was born in the guilt, looked at my face seriously as if to determine the value of the matter.†
+    # Senpai V, who was born in the guilt, looked at my face seriously as if to determine the value of the matter.
 
     ("「姉さんも、なかなか隅に置けないわねぇ」",
     ""),
@@ -254,9 +254,9 @@ text_array = [
     ""),
     # * said, Senpai Ie-senpai glareed and pointed at me.
 
-    ("それがちょっと嬉しかったりして。†",
+    ("それがちょっと嬉しかったりして。",
     ""),
-    # That's a bit of a joy.†
+    # That's a bit of a joy.
 
     ("「ねえねえ、彼＃氏、名前はなんていうの？」",
     ""),
@@ -278,7 +278,7 @@ text_array = [
     ""),
     # "Yeah, you're pretty handsome, you don't have any phlegms!"
 
-    ("「そ、そうか？」†",
+    ("「そ、そうか？」",
     ""),
     # "Oh, is that so?"
 
@@ -302,9 +302,9 @@ text_array = [
     ""),
     # "'Couscous. You're a silly guy."
 
-    ("こいつ、ホントに先輩のｖか？†",
+    ("こいつ、ホントに先輩のｖか？",
     ""),
-    # Is this guy really a senior?†
+    # Is this guy really a senior?
 
     ("そんなｖを見て、オレは率直な感想を口にした。",
     ""),

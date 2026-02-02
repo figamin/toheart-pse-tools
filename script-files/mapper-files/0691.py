@@ -2,9 +2,9 @@
 # Source file: 0691.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｂ	声をかけない）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｂ	声をかけない）",
     ""),
-    # (Muryuruchi, Scaling Event 2F LV3) (Choice B, Do not call)†
+    # (Muryuruchi, Scaling Event 2F LV3) (Choice B, Do not call)
 
     ("そうだな。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 0301.txt
 
 text_array = [
-    ("（智子	出初いイベント	選択Ａの続き）閨（図草書室）†",
+    ("（智子	出初いイベント	選択Ａの続き）閨（図草書室）",
     ""),
-    # (Tomoko's first-time event, continuation of selection A) (Cursical Library)†
+    # (Tomoko's first-time event, continuation of selection A) (Cursical Library)
 
     ("「諱取ってやうか？」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Who are you?"I was almost grossly, my eyes were glaringly.
 
-    ("ちょっとキツイ感じのふたつの目が、めがねの撃レンズ越しにオレをにらむ。†",
+    ("ちょっとキツイ感じのふたつの目が、めがねの撃レンズ越しにオレをにらむ。",
     ""),
-    # Two eyes, which felt so tight, glared at me through the lens of my glasses.†
+    # Two eyes, which felt so tight, glared at me through the lens of my glasses.
 
     ("「いや、苦寀戦してるみたいだからさ」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "...No, I'm not right now."
 
-    ("と嘯答えた。†",
+    ("と嘯答えた。",
     ""),
-    # He replied.†
+    # He replied.
 
     ("「じ痰ゃあ、これか？」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "All right, come on."
 
-    ("オレはその本を取って、ぽん、とその子の手に乗せてやった。†",
+    ("オレはその本を取って、ぽん、とその子の手に乗せてやった。",
     ""),
-    # I took the book and put it in the child's hand and then tampered with it.†
+    # I took the book and put it in the child's hand and then tampered with it.
 
     ("その子はしばらくじっと本を見つめると、目を上げ、オレを見た。",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # What is it?
 
-    ("ありがとうも言えないのかよ。†",
+    ("ありがとうも言えないのかよ。",
     ""),
-    # Thank you, can't you say it?†
+    # Thank you, can't you say it?
 
     ("そう思ったとき、",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # As if the voice in her heart had been understood, the female bather thanked her with a deep tingly expression.
 
-    ("その『ありがとう』のイントネーションが微妙に変﨑わってることに気づく。†",
+    ("その『ありがとう』のイントネーションが微妙に変﨑わってることに気づく。",
     ""),
-    # He notices that the intangible in "Thank you" has been slightly changed.†
+    # He notices that the intangible in "Thank you" has been slightly changed.
 
     ("「あれ？	いまの、蛛大繿阪弁か？」",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # I'm not saying something about it, and I just said it, but the female student suddenly became annoyed and unpleasant,
 
-    ("ふんっ、と背をｌけ、行こうとする。†",
+    ("ふんっ、と背をｌけ、行こうとする。",
     ""),
-    # Hmm, he turned his back and tried to go.†
+    # Hmm, he turned his back and tried to go.
 
     ("「お、おい、ちょっと」",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # I hurriedly called out, and the bather student stopped immediately.
 
-    ("振關りｌいて、こっちを見骭る。†",
+    ("振關りｌいて、こっちを見骭る。",
     ""),
-    # I shouted and looked over at me.†
+    # I shouted and looked over at me.
 
     ("「…なあ、オレ、なにか悪いこと言ったか？」",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     ""),
     # "Is it rare for people to use Kansai dialect?"
 
-    ("と言った。†",
+    ("と言った。",
     ""),
-    # He said.†
+    # He said.
 
     ("「へ？」",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # It's rare for my B high school to have phlegm.
 
-    ("でも｢｢。†",
+    ("でも｢｢。",
     ""),
-    # And Ho also said, ".†
+    # And Ho also said, ".
 
     ("「オレはべつに、珍しいだなんて、ひとことも｢｢」",
     ""),
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # "And also, our house is a great place to go, Kobe."
 
-    ("「えっ？	神戸？」†",
+    ("「えっ？	神戸？」",
     ""),
-    # "Huh? Kobe?" †
+    # "Huh? Kobe?" 
 
     ("それだけを言い残すと、女生徒はくるりと背をｌけ、そのままスタスタと去っていってしまった。",
     ""),
@@ -206,9 +206,9 @@ text_array = [
     ""),
     # "...Oh, yes, it's Kobe."
 
-    ("オレは、ぼそりとつぶやいた。†",
+    ("オレは、ぼそりとつぶやいた。",
     ""),
-    # My heart muttered and muttered.†
+    # My heart muttered and muttered.
 
     ("とこで、いまのやりとり、なんか変じ痰ゃねーか？",
     ""),
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # "...I'm irritated."
 
-    ("考えると、ふつふつ怒闢りがわいてくる。†",
+    ("考えると、ふつふつ怒闢りがわいてくる。",
     ""),
-    # When I think about it, I get anger and anger.†
+    # When I think about it, I get anger and anger.
 
     ("「なんだったんだよ、あの翌女」",
     ""),
@@ -238,7 +238,7 @@ text_array = [
     ""),
     # Hearing that voice, Akari began to tamper with it.
 
-    ("「どうしたの、ち痰ゃん？」†",
+    ("「どうしたの、ち痰ゃん？」",
     ""),
     # "What's wrong, do you have phlegm?"
 
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # "Yeah. Because it's the same party."
 
-    ("と、あかりはうなずいて言った。†",
+    ("と、あかりはうなずいて言った。",
     ""),
-    # Akari nodded and said.†
+    # Akari nodded and said.
 
     ("「保科さんって、すっごく頭が良くて、この前の実力テストじ痰ゃ学年トップだったっていう話だよ」",
     ""),
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # "Wow, that guy is impressed..."
 
-    ("たしかに、いかにも頭良さげ〜ってな感じだったな。†",
+    ("たしかに、いかにも頭良さげ〜ってな感じだったな。",
     ""),
-    # Certainly, it seemed like even Hot was smart.†
+    # Certainly, it seemed like even Hot was smart.
 
     ("｢｢にしてもだ。",
     ""),
@@ -286,9 +286,9 @@ text_array = [
     ""),
     # "What's up with the overwhelmed woman?"
 
-    ("あかりが聞く。†",
+    ("あかりが聞く。",
     ""),
-    # Akari listens.†
+    # Akari listens.
 
     ("「あのな…」",
     ""),

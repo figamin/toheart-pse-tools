@@ -2,9 +2,9 @@
 # Source file: 0A0B.txt
 
 text_array = [
-    ("（Ａ	なんでそんなにバイトを？）†",
+    ("（Ａ	なんでそんなにバイトを？）",
     "A"),
-    # (A Why do you spend so much time at work?)†
+    # (A Why do you spend so much time at work?)
 
     ("「そんなにバイトばっかやってどうすんだ？",
     "Why take up so many jobs?"),
@@ -30,7 +30,7 @@ text_array = [
 
     ("なんか慌ててるぞ。",
     "She is flustered."),
-    # I'm feeling a bit panicked.†
+    # I'm feeling a bit panicked.
 
     ("「う、うん。",
     "Y-Yeah,"),
@@ -42,7 +42,7 @@ text_array = [
     "Something like that, huh…"),
     ("ま、オレがどうこう言えたことじゃないけど、あんまり無理すんなよな」",
     "I mean it's really none of my business, but try not to overdo it, okay?"),
-    # "That kind of hot thing, hey... Well, I can't say anything about it, but don't be too silly." †
+    # "That kind of hot thing, hey... Well, I can't say anything about it, but don't be too silly." 
 
     ("「？」",
     "Hm?"),
@@ -80,7 +80,7 @@ text_array = [
 
     ("ほんとに元気だな。",
     "She's really energetic."),
-    # You're really doing well.†
+    # You're really doing well.
 
     ("「がんばれよ。",
     "You got this."),

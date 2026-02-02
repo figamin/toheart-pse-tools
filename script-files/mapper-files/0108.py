@@ -2,9 +2,9 @@
 # Source file: 0108.txt
 
 text_array = [
-    ("（あかり	冝日付イベント１．６）閨（３月１８冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（校門外）†",
+    ("（あかり	冝日付イベント１．６）閨（３月１８冾日）閨（あかりと勉強状態なら発生）閨（ＰＭ２桙時）閨（校門外）",
     ""),
-    # (Akari Pick Date Event 1.6) (3rd Lion Day 18th) (occurs if you are studying with a light) (occurs when you are in a 2nd round) (occasionally outside the school) †
+    # (Akari Pick Date Event 1.6) (3rd Lion Day 18th) (occurs if you are studying with a light) (occurs when you are in a 2nd round) (occasionally outside the school) 
 
     ("家に帰闍り、コンビニでモ買った弁抹当を食う。",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # Ping Pong.
 
-    ("おっ、＠たか。†",
+    ("おっ、＠たか。",
     ""),
-    # Oh, @Taka.†
+    # Oh, @Taka.
 
     ("ガチャャ。",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # Was he good at Korean language?”
 
-    ("「得意じ痰ゃねーけど、苦闍手ってわけでもないかな。ある程度アドリブが通用するし」†",
+    ("「得意じ痰ゃねーけど、苦闍手ってわけでもないかな。ある程度アドリブが通用するし」",
     ""),
     # "I'm good at phlegm, but I don't think I'm suffering, so I don't have any heat. Adgata Lib is a good option to some extent."
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Ah, let's focus on the translation of classical Japanese and the Cao dictation of Han Yue. I've been taking notes, so I can predict most of the gifts."
 
-    ("「おっけー」†",
+    ("「おっけー」",
     ""),
-    # "Oh noooo" †
+    # "Oh noooo" 
 
     ("「じ痰ゃ、はい、п私のノートのコピー。",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "ah"
 
-    ("オレがうなずくと、あかりは照齒れたように微笑んだ。†",
+    ("オレがうなずくと、あかりは照齒れたように微笑んだ。",
     ""),
-    # My head nodded, and Akari smiled lit up.†
+    # My head nodded, and Akari smiled lit up.
 
     ("「じ痰ゃあ、まずは漢嚏字の曹書き取りから」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # It's so good...
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「…あの、ち痰ゃん」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "Hmm, ah, somehow..."
 
-    ("オレは、ノートに目を通しながら、無意識のうちにあかりのおさげ髪をいじっていた。†",
+    ("オレは、ノートに目を通しながら、無意識のうちにあかりのおさげ髪をいじっていた。",
     ""),
-    # I looked through my notebook and unconsciously played with Akari's pigtails.†
+    # I looked through my notebook and unconsciously played with Akari's pigtails.
 
     ("さわさわ…。",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # "I see, it's a slut."
 
-    ("オレはあかりの髪から手を冾放した。†",
+    ("オレはあかりの髪から手を冾放した。",
     ""),
-    # My gut-released my hands from Akari's hair.†
+    # My gut-released my hands from Akari's hair.
 
     ("「ふー…」",
     ""),
@@ -202,9 +202,9 @@ text_array = [
     ""),
     # "I see."
 
-    ("さわさわさわさわ…。†",
+    ("さわさわさわさわ…。",
     ""),
-    # It's so cute...†
+    # It's so cute...
 
     ("「…なあ、お前さぁ」",
     ""),
@@ -222,7 +222,7 @@ text_array = [
     ""),
     # "Huh? Ah, yes.
 
-    ("中学の頃からずっとこれかなぁ」†",
+    ("中学の頃からずっとこれかなぁ」",
     ""),
     # I wonder if this has been this since I was in middle school."
 
@@ -242,9 +242,9 @@ text_array = [
     ""),
     # "Ah, sputum, what kind of hairstyle do you think would be better?"
 
-    ("「そうだなあ…」†",
+    ("「そうだなあ…」",
     ""),
-    # "That's right..." †
+    # "That's right..." 
 
     ("「………」",
     "…"),
@@ -262,7 +262,7 @@ text_array = [
     ""),
     # "After all, Akari is fine as is, or maybe Hot."
 
-    ("「なにそれー？」†",
+    ("「なにそれー？」",
     ""),
     # "What is that?"
 
@@ -278,17 +278,17 @@ text_array = [
     ""),
     # "As a little sigh, it's plain. I don't think it's good to be a slut."
 
-    ("「…そうかなぁ」†",
+    ("「…そうかなぁ」",
     ""),
     # "...I guess so"
 
-    ("とかなんとか言いながら、その冾日燗もあかりといっしょに勉強した。†",
+    ("とかなんとか言いながら、その冾日燗もあかりといっしょに勉強した。",
     ""),
-    # While saying something like that, I studied the freshly-cooked Japanese with Akari as well.†
+    # While saying something like that, I studied the freshly-cooked Japanese with Akari as well.
 
-    ("勉強級を終えてあかりが部屋を出たのは、いつもどおり６桙時過ぎだった。†",
+    ("勉強級を終えてあかりが部屋を出たのは、いつもどおり６桙時過ぎだった。",
     ""),
-    # After finishing her studies, Akari left the room just after six holes.†
+    # After finishing her studies, Akari left the room just after six holes.
 
     ("「明坙日で最纃後だよ。",
     ""),

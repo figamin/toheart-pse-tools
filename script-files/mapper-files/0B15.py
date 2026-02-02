@@ -2,9 +2,9 @@
 # Source file: 0B15.txt
 
 text_array = [
-    ("（綾∴香	好感度イベント３）閨（綾∴香	冝日付イベント４）閨（Ｂ	やる	の続き）†",
+    ("（綾∴香	好感度イベント３）閨（綾∴香	冝日付イベント４）閨（Ｂ	やる	の続き）",
     ""),
-    # (Aya∴Ka Likeability Event 3) Leaf (Aya∴Ka Pick Date Event 4) Leaf (B Continued from B's) †
+    # (Aya∴Ka Likeability Event 3) Leaf (Aya∴Ka Pick Date Event 4) Leaf (B Continued from B's) 
 
     ("「諱よし、やる」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Oh, okay!"
 
-    ("にっこり笑う、綾∴香。†",
+    ("にっこり笑う、綾∴香。",
     ""),
-    # Aya∴Ka smiles.†
+    # Aya∴Ka smiles.
 
     ("「じ痰ゃ、携帯の番剥教えるから、挑峵戦したいときは連腰絡してちょーだいよ。",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # "And how about this?"
 
-    ("「？」†",
+    ("「？」",
     ""),
-    # "?"†
+    # "?"
 
     ("「敗者は、なんでもひとつ、氈勝者の言うことを聞かねばならない｢｢っていうのは」",
     ""),
@@ -58,7 +58,7 @@ text_array = [
     ""),
     # "Why is there one hot pot?"
 
-    ("「そ、なんでも」†",
+    ("「そ、なんでも」",
     ""),
     # "I see, why not?"
 
@@ -74,9 +74,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「いいだう」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # I laughed a lot.
 
-    ("綾∴香熏もニсヤリと笑う。†",
+    ("綾∴香熏もニсヤリと笑う。",
     ""),
-    # Aya∴Kingyi also laughed.†
+    # Aya∴Kingyi also laughed.
 
     ("「じ痰ゃあ、そういうことで。はっきりいっていまの撃レベルじ痰ゃ、百年笏やっててもカスリもしないから。ち痰ゃんとｍ寘戦を練りなさいよ」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # If I let you say this...
 
-    ("しかし、悲しいかな、事実だ。†",
+    ("しかし、悲しいかな、事実だ。",
     ""),
-    # But, alas, this is a refined fact.†
+    # But, alas, this is a refined fact.
 
     ("「…見てよ。お前は天才かも知れねーが、本気になったオレははっきり言って怖ぇぜ」",
     ""),
@@ -122,17 +122,17 @@ text_array = [
     ""),
     # "Hehehehehehehe..."
 
-    ("不気味に笑い№合うふたり。†",
+    ("不気味に笑い№合うふたり。",
     ""),
-    # The two of them laughed creepyly.†
+    # The two of them laughed creepyly.
 
     ("その冾日からオレと綾∴香の戦いが始まった。",
     ""),
     # From that day onwards, the battle between megare and Aya∴Ka began.
 
-    ("しかし、それにしても…。†",
+    ("しかし、それにしても…。",
     ""),
-    # But then, there's also hot water...†
+    # But then, there's also hot water...
 
     ("あれ？",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # Why is it going on like this?
 
-    ("オレは、ただ、あいつのことを…。†",
+    ("オレは、ただ、あいつのことを…。",
     ""),
-    # I'm just talking about him...†
+    # I'm just talking about him...
 
     ("「………」",
     "…"),

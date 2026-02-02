@@ -2,9 +2,9 @@
 # Source file: 0224.txt
 
 text_array = [
-    ("（芹°香	エンディング）閨（Ｂ	いまは、まだこたえられない）†",
+    ("（芹°香	エンディング）閨（Ｂ	いまは、まだこたえられない）",
     ""),
-    # (Seri°Ka ending)Seri (B I can't answer it yet)†
+    # (Seri°Ka ending)Seri (B I can't answer it yet)
 
     ("う、うーん。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # I'm sure I don't hate it, and I think it's fine for me to do it.
 
-    ("でも、それが本末当の意味での好きってことなのか、いまいち自信がない。†",
+    ("でも、それが本末当の意味での好きってことなのか、いまいち自信がない。",
     ""),
-    # And I'm not very confident about this, as if that's what I like in the real sense of authenticity.†
+    # And I'm not very confident about this, as if that's what I like in the real sense of authenticity.
 
     ("そっか、一生恊懸命枕ってきてくれたのか。",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # However, it's even worse to respond to this with a casual attitude.
 
-    ("諱先輩には悪いが、今厓日のとこはちょっと遠慮しとこう。†",
+    ("諱先輩には悪いが、今厓日のとこはちょっと遠慮しとこう。",
     ""),
-    # I'm sorry to my senior, but I'll refrain from taking the time to stop at the moment.†
+    # I'm sorry to my senior, but I'll refrain from taking the time to stop at the moment.
 
     ("「悪いんだけど、今厓日はちょっと遠慮させてもらうぜ」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "I understand..."
 
-    ("諱先輩は残念そうな顔をした。†",
+    ("諱先輩は残念そうな顔をした。",
     ""),
-    # Senpai looked sad.†
+    # Senpai looked sad.
 
     ("「…うっ、ご、ごめんな」",
     ""),

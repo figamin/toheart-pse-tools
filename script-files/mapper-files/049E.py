@@ -2,9 +2,9 @@
 # Source file: 049E.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階３）閨（選択綜	嬉しい）†",
+    ("（志保	回秤数イベント	１階３）閨（選択綜	嬉しい）",
     ""),
-    # (Shiho Scales Event, 1st floor 3) (Select So I'm happy)†
+    # (Shiho Scales Event, 1st floor 3) (Select So I'm happy)
 
     ("「嬉しいっていうか、それなりに気が休まるな。みんなでいれば、悲しくなることはねえだうから」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # Shiho smiles with a grin on the scene, rather than trying to get into it.
 
-    ("「嬉しいと、どーなるんだよ」†",
+    ("「嬉しいと、どーなるんだよ」",
     ""),
     # "What will happen if you're happy?"
 
@@ -46,7 +46,7 @@ text_array = [
     ""),
     # This was the case with the first quality question at the very first time, but the quality question from the Hajime no longer seemed even more incomprehensible.
 
-    ("「だからぁ、男に興味ある？」†",
+    ("「だからぁ、男に興味ある？」",
     ""),
     # "So you're interested in guys?"
 
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # I understand that well."
 
-    ("「気搴持ちの悪いрヤツだなぁ…」†",
+    ("「気搴持ちの悪いрヤツだなぁ…」",
     ""),
     # "He's a guy who's not good at trying..."
 
@@ -94,7 +94,7 @@ text_array = [
     ""),
     # "That's all I had to do, so I'd be happy to go home to Hakkei."
 
-    ("「なんだそり痰ゃ？	テ＜メエからつき№合えって言っといてよ」†",
+    ("「なんだそり痰ゃ？	テ＜メエからつき№合えって言っといてよ」",
     ""),
     # "What's that phlegm? Tee-say, tell me to get it right."
 
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # *Shiho says it's a good dog and drives away Hot too.
 
-    ("「わーったよ！	もう誘うな、バカ！」†",
+    ("「わーったよ！	もう誘うな、バカ！」",
     ""),
-    # "I'm back! Don't invite me any more, you idiot!" †
+    # "I'm back! Don't invite me any more, you idiot!" 
 
     ("オレは志保と別れ、さっさと帰った。◯",
     ""),

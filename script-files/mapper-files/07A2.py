@@ -2,17 +2,17 @@
 # Source file: 07A2.txt
 
 text_array = [
-    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	カラオケの話陂題）†",
+    ("（琴音	回秤数イベント	ＰＳ）閨（選択綜	カラオケの話陂題）",
     ""),
-    # (Kotone, the Scales Event PS) (Chounen, the Talk of Kaban Raoke)†
+    # (Kotone, the Scales Event PS) (Chounen, the Talk of Kaban Raoke)
 
     ("「｢｢っつう感じで、オレ辜らがカラオケ行くといつもバトルになっちまうんだよ」",
     ""),
     # "It's like "It's like, and whenever I go to Kabanraoke, Hot even gets into a shivers."
 
-    ("諱よくやってるカラオケバトルなんか、おもしいだうと思い、話してみる。†",
+    ("諱よくやってるカラオケバトルなんか、おもしいだうと思い、話してみる。",
     ""),
-    # I'm sure I'll be able to talk about the fact that I often use my name, like a banquet, and I'll talk about it.†
+    # I'm sure I'll be able to talk about the fact that I often use my name, like a banquet, and I'll talk about it.
 
     ("「そんな上闖手な方と渡闢り№合えるなんて、さんもかなり上闖手なんですね」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "And there's no hot spot either. That guy said that even the scoring machines are better than the good songs, but machines tend to respond to anger and tend to increase the number of spots to voices that are prone to tampering."
 
-    ("「そうなんですか…」†",
+    ("「そうなんですか…」",
     ""),
-    # "Is that so..." †
+    # "Is that so..." 
 
     ("「だから、開き直って歌のうまさより点箔数を競ってるんだよ」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "Well, machines are such a hot thing."
 
-    ("「そうですね」†",
+    ("「そうですね」",
     ""),
-    # "I agree"†
+    # "I agree"
 
     ("「とこで琴音ち痰ゃんって、カラオケとかすんの？」",
     ""),
@@ -54,15 +54,15 @@ text_array = [
     ""),
     # Kotone Chisho-chan put her eyes down.
 
-    ("採点機のことを知ってるそぶりだったから、てっきり歌うんだと思ってたのに…。†",
+    ("採点機のことを知ってるそぶりだったから、てっきり歌うんだと思ってたのに…。",
     ""),
-    # He seemed to know the scoring machine, so I thought he would sing it outright...†
+    # He seemed to know the scoring machine, so I thought he would sing it outright...
 
     ("「それって悲しすぎるぜ。オレも行くときはつき№合いだけどさ、歌うとほら…なんつーか、氏月並みな言い方すると、スカッとするんだ」",
     ""),
     # "That's so sad. When I go, I'm a great guy, but when I sing, come on... I feel refreshed when I say something like that in a way that's just like I'm a bit sad."
 
-    ("「…ストレス、発散ですか？」†",
+    ("「…ストレス、発散ですか？」",
     ""),
     # "...Is it a stern response, is it a breeze?"
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # "Well, maybe that's where it goes. When you speak as hard as you can, it feels like your heart is shining."
 
-    ("「わかります…」†",
+    ("「わかります…」",
     ""),
-    # "I understand..." †
+    # "I understand..." 
 
     ("「どうだ、琴音ち痰ゃんも行ってみないか？	品のない連中はオフリミットで」",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("かすかにうなずく琴音ち痰ゃん。†",
+    ("かすかにうなずく琴音ち痰ゃん。",
     ""),
-    # Kotone's sphin-chan nods faintly.†
+    # Kotone's sphin-chan nods faintly.
 
     ("「それなら今度、いっしょに歌いに行こうぜ」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "Yes. Sometimes..."
 
-    ("今度はち痰ゃんとうなずいた。†",
+    ("今度はち痰ゃんとうなずいた。",
     ""),
-    # This time I nodded.†
+    # This time I nodded.
 
     ("諱よーし、いつか琴音ち痰ゃんｌきの≠メンバーで行くとするか。◯",
     ""),

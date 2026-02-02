@@ -2,9 +2,9 @@
 # Source file: 0190.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	２Ｆ）閨（Ａ	逮捕する）†",
+    ("（あかり	回秤数イベント	２Ｆ）閨（Ａ	逮捕する）",
     ""),
-    # (Akari Scales Event 2F) (Arrested)†
+    # (Akari Scales Event 2F) (Arrested)
 
     ("「逮捕する」",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "I'll arrest you"
 
-    ("繰り返し、オレは言った。†",
+    ("繰り返し、オレは言った。",
     ""),
-    # I retold the other way around, and said, "I'm not going to stop it."†
+    # I retold the other way around, and said, "I'm not going to stop it."
 
     ("「でも、まだр私が犯人ってｌまったわけじ痰ゃないんだよ？」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "I'll just arrest you."
 
-    ("「だけど、逮捕って、ち痰ゃん、警察じ痰ゃないくせに…」†",
+    ("「だけど、逮捕って、ち痰ゃん、警察じ痰ゃないくせに…」",
     ""),
     # "But, I'm arrested, but the police don't have any phlegm..."
 
@@ -46,17 +46,17 @@ text_array = [
     ""),
     # "Arrested before making a loud noise. Now we'll let the smoke go."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("こういうあかりの『もしも話』に最纃後までつき№合うと、蛛大葬最纃後は変な方阜のドラマに発展する。",
     ""),
     # If you follow this "If You're a Hot" to the very end, it will develop into a strange banquet llama of Fukukata Fu after the final day of the funeral.
 
-    ("はっきり言って、つき№合いきれん。†",
+    ("はっきり言って、つき№合いきれん。",
     ""),
-    # To be honest, I can't meet the number of people.†
+    # To be honest, I can't meet the number of people.
 
     ("言ってる間に家にｒいたので、閨手を振ってあかりと別れた。◯",
     ""),

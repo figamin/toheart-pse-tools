@@ -2,9 +2,9 @@
 # Source file: 08BC.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	学校外１）閨（校門２）†",
+    ("（レミィ	回秤数イベント	学校外１）閨（校門２）",
     ""),
-    # (Gakuremi Scales Event Outside School 1) (School Gate 2)†
+    # (Gakuremi Scales Event Outside School 1) (School Gate 2)
 
     ("生徒玄関を出たとこで、志保に出初った。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # "This is... my husband."
 
-    ("彼女は何竕やらおかしな口調で近づいてきた。†",
+    ("彼女は何竕やらおかしな口調で近づいてきた。",
     ""),
-    # The girl approached with a strange tone of luck.†
+    # The girl approached with a strange tone of luck.
 
     ("「なに企んでるんだよ」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # I didn't think about it and ended up yelling me out.
 
-    ("「お前…葬国鼾語、うまいな…」†",
+    ("「お前…葬国鼾語、うまいな…」",
     ""),
     # "You... Funeral Kongo, you're good..."
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # "You're not saying anything. 'She looks at the fish, fallen cochlea, closes the moon's ooze,' so you should also tell me."
 
-    ("「なんでだよ」†",
+    ("「なんでだよ」",
     ""),
     # "Why?"
 
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # Shiho was approaching the next day with a threatening sentence that he didn't really understand.
 
-    ("…ったく、言えばいいんだ！†",
+    ("…ったく、言えばいいんだ！",
     ""),
-    # ...You can just say it b!†
+    # ...You can just say it b!
 
     ("「チンギョラク…ガン…なんだっけ？」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "She sees the fish and fallen cochleas, closes the moon!"
 
-    ("「チンギョラクガンヘイゲツシャウカ。どーだ、言ったぞ」†",
+    ("「チンギョラクガンヘイゲツシャウカ。どーだ、言ったぞ」",
     ""),
     # "Gengicc's feast, sang, yegetsusshauka. What's that? I said that?"
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # Shiho suddenly becomes enchanting and has a lovely feeling.
 
-    ("「は？」†",
+    ("「は？」",
     ""),
-    # "teeth?"†
+    # "teeth?"
 
     ("「沈將魚視落蝸雁閉歯月羞花…。志保ち痰ゃんの、あまりのｔしさに、宦魚は沈み、鳥のカリは落ち、氏月煬も隠皷れ、花煢もしぼんでしまうって意味の、古い言葉譌よ」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # "What is it phlegm? Is it a Japanese petite??"
 
-    ("なんだか知迺らないが、こいつ、レミィみたいなこと言ってるぜ。†",
+    ("なんだか知迺らないが、こいつ、レミィみたいなこと言ってるぜ。",
     ""),
-    # It's kind of unfamiliar, but this guy is saying something like War Remi.†
+    # It's kind of unfamiliar, but this guy is saying something like War Remi.
 
     ("「ああ…。あたしのために、あるような言葉ねぇ〜」",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # ...What should I do?
 
-    ("志保の使った言葉が本物か、聞いてみようかな。†",
+    ("志保の使った言葉が本物か、聞いてみようかな。",
     ""),
-    # I wonder if the words Shiho used are real.†
+    # I wonder if the words Shiho used are real.
 
     ("オレは｢｢。",
     ""),

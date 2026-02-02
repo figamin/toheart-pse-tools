@@ -2,17 +2,17 @@
 # Source file: 0F57.txt
 
 text_array = [
-    ("（４月２６冾日	土）閨（堰ラジオ	８回目）閨（堰ラジオ聞かない場㍼合）†",
+    ("（４月２６冾日	土）閨（堰ラジオ	８回目）閨（堰ラジオ聞かない場㍼合）",
     ""),
-    # (Saturday, April 26th) (8th weir radio) (1st place to listen to the weir radio) (1st place to listen to the weir radio) †
+    # (Saturday, April 26th) (8th weir radio) (1st place to listen to the weir radio) (1st place to listen to the weir radio) 
 
     ("そう。",
     ""),
     # yes.
 
-    ("オレの入％タイムが始まるのだ。†",
+    ("オレの入％タイムが始まるのだ。",
     ""),
-    # My slutty bath time begins.†
+    # My slutty bath time begins.
 
     ("さーて、％、％。",
     ""),

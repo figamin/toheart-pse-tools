@@ -2,17 +2,17 @@
 # Source file: 08C4.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	寄闃り道１	ＬＶ１）閨（選択綜	この場は退散）†",
+    ("（レミィ	回秤数イベント	寄闃り道１	ＬＶ１）閨（選択綜	この場は退散）",
     ""),
-    # (The Remy Scales Event: The Entrance Road 1 LV1) (Choices will be retreat)†
+    # (The Remy Scales Event: The Entrance Road 1 LV1) (Choices will be retreat)
 
     ("「…じ痰ゃあ撃レミィ、また明坙日ってことで」",
     ""),
     # "...I'm going to kill Remi, it's time for another Meishuuuu."
 
-    ("文化とか語学とか、学校の授業みたいな話陂題はちょっとうんざりなので、オレは話を切關り上げた。†",
+    ("文化とか語学とか、学校の授業みたいな話陂題はちょっとうんざりなので、オレは話を切關り上げた。",
     ""),
-    # I'm tired of talking about culture, language, and school classes, so I replied with the topic.†
+    # I'm tired of talking about culture, language, and school classes, so I replied with the topic.
 
     ("「、もー帰驪るの？」",
     ""),

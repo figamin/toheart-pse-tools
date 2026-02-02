@@ -2,9 +2,9 @@
 # Source file: 0297.txt
 
 text_array = [
-    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｂ	ヘンチクリンな人形について）†",
+    ("（芹°香	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ｂ	ヘンチクリンな人形について）",
     ""),
-    # (Seri°Kawa, Scales Event 2F LV3)Seri (Select Sou B, About Henchukkara Rin Doll)†
+    # (Seri°Kawa, Scales Event 2F LV3)Seri (Select Sou B, About Henchukkara Rin Doll)
 
     ("オレは机の上に置いてある、妙チクリンな人形についてたずねた。",
     ""),
@@ -14,23 +14,23 @@ text_array = [
     ""),
     # "Why is this done?"
 
-    ("『トウｃモ鴻ロコシの皮です』と先輩は嘯答えた。†",
+    ("『トウｃモ鴻ロコシの皮です』と先輩は嘯答えた。",
     ""),
-    # "It's the skin of Tou C Morokoshi," replied the senior.†
+    # "It's the skin of Tou C Morokoshi," replied the senior.
 
     ("「へえ、トウｃモ鴻ロコシ人形か。はじめて見た。え？	これをふたりでつくると№仲良くなれると言甯われてる？	ホントか？	じ痰ゃあ、諱先輩。いまからいっしょにｍ高うか？」",
     ""),
     # "Whoa, is it a Tou C Mo Korokoshi doll? It's my first time seeing it. What? Are you saying that if you make this together, you can become friends? Is it true? Ah, senpai, I'm a no-no. Will you all raise your slut from now on?"
 
-    ("オレが言うと先輩は、こくんとうなずいた。†",
+    ("オレが言うと先輩は、こくんとうなずいた。",
     ""),
-    # When I said that, my senior nodded with Ko-kun.†
+    # When I said that, my senior nodded with Ko-kun.
 
     ("閨手芸はオレの特技で…ってのはウソだが、ふたりでこういうのをｍ骰るって、なんとなくほのぼのしてていいよな。",
     ""),
     # It's a lie that crafts are my special skill, but it's fine for the two of them to squeal something like this for a while.
 
-    ("〟仲良くなるってのもわかる気がする。†",
+    ("〟仲良くなるってのもわかる気がする。",
     ""),
     # 'I feel like I can understand how you become friends.
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # Then boil nitrogen in a pot and soak the skin in the nitrogen to make it tamper and soft.
 
-    ("なかなか下準備が大変だな。†",
+    ("なかなか下準備が大変だな。",
     ""),
-    # Preparation is quite difficult.†
+    # Preparation is quite difficult.
 
     ("それからいよいよ製錐開始だ。",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # However, it's been a while since I last saw Koji.
 
-    ("小学校のときに、プラｃモロって以来かな。†",
+    ("小学校のときに、プラｃモロって以来かな。",
     ""),
-    # I think it was since I went to Puban Ra C Moro when I was in elementary school.†
+    # I think it was since I went to Puban Ra C Moro when I was in elementary school.
 
     ("「………」",
     "…"),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # Round round...
 
-    ("諱先輩はトウｃモ鴻ロコシの皮をｕみ始める。†",
+    ("諱先輩はトウｃモ鴻ロコシの皮をｕみ始める。",
     ""),
-    # Senpai begins to uu the skin of the Tou C Mo Korokoshi.†
+    # Senpai begins to uu the skin of the Tou C Mo Korokoshi.
 
     ("なになに？",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # Insert your arm parts into the overflowing skin of your head, and now your upper body is... complete.
 
-    ("なんだ、意外と簡単じ痰ゃん。†",
+    ("なんだ、意外と簡単じ痰ゃん。",
     ""),
-    # What is it, it's surprisingly easy to do.†
+    # What is it, it's surprisingly easy to do.
 
     ("え〜と、それから、男人形は脚パーツを、女人形はスカートをｍって、それを上半身と№合体…と。",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # "I did it. A super-sexy doll made by Tou C Mo Korokoshi!"
 
-    ("完成した人形を自搦慢げに先輩に見せた。†",
+    ("完成した人形を自搦慢げに先輩に見せた。",
     ""),
-    # He haughtily showed the finished doll to his senior.†
+    # He haughtily showed the finished doll to his senior.
 
     ("当然、オレは先輩のを真乱似してｍったんだから、諱先輩のはオレ諠よりも先に完成している。",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # After all, seniors are more used to it.
 
-    ("オレのほうがちょっと雑な感じがする。†",
+    ("オレのほうがちょっと雑な感じがする。",
     ""),
-    # My super-sexy looks more sloppy.†
+    # My super-sexy looks more sloppy.
 
     ("「………」",
     "…"),
@@ -170,17 +170,17 @@ text_array = [
     ""),
     # "It's a spell-like thing? Is it a spell that will help the two become friends?"
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("〟仲良くなる呪文。",
     ""),
     # 'A spell to make you friends.
 
-    ("なんだか、真っ直ぐに見つめて言甯われると、さすがに照齒れるよなァ。†",
+    ("なんだか、真っ直ぐに見つめて言甯われると、さすがに照齒れるよなァ。",
     ""),
-    # I can't help but think that when you stare straight at me and be told, it's really touching me.†
+    # I can't help but think that when you stare straight at me and be told, it's really touching me.
 
     ("諱先輩は洗面嵂器にｐをんできて、そのｐを出女た人形に振關りかけながら、なにやら呪文を唱えはじめた。",
     ""),
@@ -194,9 +194,9 @@ text_array = [
     ""),
     # yeah?
 
-    ("いま呪文の途湯で、なんだかオレの名前が呼ばれたような…。†",
+    ("いま呪文の途湯で、なんだかオレの名前が呼ばれたような…。",
     ""),
-    # It's just a spell-running run, and it seems like my name has been called...†
+    # It's just a spell-running run, and it seems like my name has been called...
 
     ("洗逅礼とやらが終尞わると、諱先輩は赤い鰍リボンを取り出して、ふたつのトウｃモ鴻ロコシ人形をきゅっと宸縛った。",
     ""),
@@ -214,9 +214,9 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("諱先輩はうなずく。†",
+    ("諱先輩はうなずく。",
     ""),
-    # Senpai nodded.†
+    # Senpai nodded.
 
     ("赤い鰍リボンで強く結ばれたオレたちの人形。",
     ""),

@@ -2,9 +2,9 @@
 # Source file: 0690.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	声をかける）†",
+    ("（マルチ	回秤数イベント	２Ｆ	ＬＶ３）閨（選択綜Ａ	声をかける）",
     ""),
-    # (Muryuruchi, Scaling Event 2F LV3) (Choose A, Call)†
+    # (Muryuruchi, Scaling Event 2F LV3) (Choose A, Call)
 
     ("マルチに声をかけることにした。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Here we have to test the performance of the latest model, Maid Kou robot, and test its performance.
 
-    ("捜索能力のテストだ。†",
+    ("捜索能力のテストだ。",
     ""),
-    # It's a test of search capabilities.†
+    # It's a test of search capabilities.
 
     ("「お〜い、マルチぃ〜」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # Before Ruchi could stumble over me, she quickly hid into the classroom next to me.
 
-    ("「あっ、さん、こんにち｢｢黽あっ、あれっ！？」†",
+    ("「あっ、さん、こんにち｢｢黽あっ、あれっ！？」",
     ""),
     # "Ah, hello, san, ""Ah, huh?!"
 
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # I was hiding in the classroom where no one else was, and laughed in a loud voice.
 
-    ("くふふふ、マルチのやつ、多分いまごは、キョ鴻ロキョ鴻ロまわりを見渡して、必死にオレを捜していることだう。†",
+    ("くふふふ、マルチのやつ、多分いまごは、キョ鴻ロキョ鴻ロまわりを見渡して、必死にオレを捜していることだう。",
     ""),
-    # Hehehe, this is the kind of guy who is crying, and I'm probably just looking around, I'm desperately trying to find my way.†
+    # Hehehe, this is the kind of guy who is crying, and I'm probably just looking around, I'm desperately trying to find my way.
 
     ("もう少ししたら、きっとこの教室にも捜しにｗ磯翌ｾう。",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # I think I'll just blindfold it after the attack.
 
-    ("まっ、とにかく≠早くｗい、＝早くｗい…。†",
+    ("まっ、とにかく≠早くｗい、＝早くｗい…。",
     ""),
-    # Well, anyway, I'm quick lol = I'm quick lol...†
+    # Well, anyway, I'm quick lol = I'm quick lol...
 
     ("・",
     ""),
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("「………」",
     "…"),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # What is that guy?
 
-    ("あっさり冾諦めやがったか？†",
+    ("あっさり冾諦めやがったか？",
     ""),
-    # Did you give up quickly?†
+    # Did you give up quickly?
 
     ("声をかけたとき、ちらっと一瞬、こっちを見たと思ったけど。",
     ""),
@@ -122,17 +122,17 @@ text_array = [
     ""),
     # I guess it's not particularly bothering me, but continuing to clean up and remove them.
 
-    ("だとしたら、こうやって隠皷れているオレは、まるっきりバカみたいじ痰ゃないか。†",
+    ("だとしたら、こうやって隠皷れているオレは、まるっきりバカみたいじ痰ゃないか。",
     ""),
-    # If that's the case, then I'm a real idiot who's been tampering with this and hiding it, and I'm totally stupid.†
+    # If that's the case, then I'm a real idiot who's been tampering with this and hiding it, and I'm totally stupid.
 
     ("「………」",
     "…"),
     # "..."
 
-    ("オレは教室の入闢り口から、そ〜っと頭を出して様子をうかがってみた。†",
+    ("オレは教室の入闢り口から、そ〜っと頭を出して様子をうかがってみた。",
     ""),
-    # As I entered the classroom, I gently exposed my head and checked on the situation.†
+    # As I entered the classroom, I gently exposed my head and checked on the situation.
 
     ("「………」",
     "…"),
@@ -146,9 +146,9 @@ text_array = [
     ""),
     # Somewhere b was searching for me, and the sight of Makruchi itself was no longer in the hallway.
 
-    ("掃恆除を終尞わらして帰っちまったのか。†",
+    ("掃恆除を終尞わらして帰っちまったのか。",
     ""),
-    # Did he finish the cleaning and remove it and go home?†
+    # Did he finish the cleaning and remove it and go home?
 
     ("「…うっ」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # I was hiding my hardcore sex for a long time and was always smiling and hiding...
 
-    ("｢｢バカ？†",
+    ("｢｢バカ？",
     ""),
-    # ""fool?†
+    # ""fool?
 
     ("「あ〜あ…」",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # I've killed time by killing it because of that.
 
-    ("肩越しに学生盗鞄を持って、帰うと思ったとき…。†",
+    ("肩越しに学生盗鞄を持って、帰うと思ったとき…。",
     ""),
-    # I was holding a student's bag over my shoulder and thinking about returning...†
+    # I was holding a student's bag over my shoulder and thinking about returning...
 
     ("「…あれ？」",
     ""),
@@ -190,9 +190,9 @@ text_array = [
     ""),
     # I looked around the area.
 
-    ("すると…。†",
+    ("すると…。",
     ""),
-    # And then...†
+    # And then...
 
     ("「…ううっ、、さぁ〜〜〜〜〜ん。どこにいらっし痰ゃるんですかぁ〜〜〜？」",
     ""),
@@ -202,17 +202,17 @@ text_array = [
     ""),
     # I heard a voice that seemed to be squealing like a squeal from the classroom next to me.
 
-    ("この声は…。†",
+    ("この声は…。",
     ""),
-    # This voice is...†
+    # This voice is...
 
     ("「…ううっ、、さぁ〜〜〜〜〜ん。出てきてくださぁ〜〜〜〜〜〜い」",
     ""),
     # "...Uhhhh, come on. Come on."
 
-    ("ぐすぐすと半ヴきで廊下に出てきたのは、マルチだった。†",
+    ("ぐすぐすと半ヴきで廊下に出てきたのは、マルチだった。",
     ""),
-    # When I squealed, I came out into the hallway half-crying crying.†
+    # When I squealed, I came out into the hallway half-crying crying.
 
     ("「マ、マルチ」",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # "Now, ummm!"
 
-    ("マルチはモきながら、たたたっと、小柾走闡りに駆け寄ってきた。†",
+    ("マルチはモきながら、たたたっと、小柾走闡りに駆け寄ってきた。",
     ""),
-    # The squealing ruchi started crying, pounding it and approaching the small runners.†
+    # The squealing ruchi started crying, pounding it and approaching the small runners.
 
     ("「どごにいだんですかぁぁぁ〜〜〜〜〜〜〜〜？",
     ""),
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # Don't cry, come on."
 
-    ("オレは、ポケットから携帯用ティッシャを取り出し、マルチの目燒もとをふいてやった。†",
+    ("オレは、ポケットから携帯用ティッシャを取り出し、マルチの目燒もとをふいてやった。",
     ""),
-    # I grabbed a portable tissue from my pocket and wiped the surface of my crying lurch and tampered with it.†
+    # I grabbed a portable tissue from my pocket and wiped the surface of my crying lurch and tampered with it.
 
     ("「…ううっ、ありがどうございまず」",
     ""),
@@ -270,9 +270,9 @@ text_array = [
     ""),
     # When I handed her the Tissha, Ruchi shuddered.
 
-    ("本末当に高ロボットか、こいつ。†",
+    ("本末当に高ロボットか、こいつ。",
     ""),
-    # Is this a high robot in the end?†
+    # Is this a high robot in the end?
 
     ("「…ぐすっ」",
     ""),

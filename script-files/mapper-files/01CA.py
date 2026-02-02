@@ -2,9 +2,9 @@
 # Source file: 01CA.txt
 
 text_array = [
-    ("（あかり	回秤数イベント	帰闍り道）閨（Ｂ	カニの缶詰）†",
+    ("（あかり	回秤数イベント	帰闍り道）閨（Ｂ	カニの缶詰）",
     ""),
-    # (Light Scale Event Returning Road) (B Canned Crab)†
+    # (Light Scale Event Returning Road) (B Canned Crab)
 
     ("「カニの缶詰。略称カニ缶」",
     ""),
@@ -18,7 +18,7 @@ text_array = [
     ""),
     # "There's a point in buying something from the main grooming area. It's generally a nuisance to have an ornament or something like that to keep it in a nuisance, but it's a nuisance to the end of the day."
 
-    ("「そ、そうかな」†",
+    ("「そ、そうかな」",
     ""),
     # "Oh, maybe that's it?"
 
@@ -30,15 +30,15 @@ text_array = [
     ""),
     # It's pleased."I went to Hokkaido, please come along with crab" "Oh, the crab from the main gnawing area!?'It's like that, and the smoked Kaji Sangyo is also very satisfying and uneven.''
 
-    ("「でもなあ…」†",
+    ("「でもなあ…」",
     ""),
-    # "And that's hot too..." †
+    # "And that's hot too..." 
 
     ("「置物なんかもらってみ？	￥髀るとこもねーし、捨てるに捨てらんねーし、諱取りようによっては一種の凾嫌がらせだね」",
     ""),
     # "Is it a must-have for an ornament? There are no hot spots in the area where it's ￥, so I don't throw it away, and depending on how you go about it, it's a kind of harassment."
 
-    ("「それは大げさだよ」†",
+    ("「それは大げさだよ」",
     ""),
     # "That's a big slut"
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # "It's normal, isn't it? And when you talk about this, it's only natural that you'll want to eat it b?"
 
-    ("「まあ…」†",
+    ("「まあ…」",
     ""),
-    # "oh dear…"†
+    # "oh dear…"
 
     ("「でも、だいたいこれで、自由行動の予定がｌまったようなもんだ」",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "Hokkaido Food Tour, Ikukense?"
 
-    ("「どうせ半哿日じ痰ゃ、そんなに食べられないよ」†",
+    ("「どうせ半哿日じ痰ゃ、そんなに食べられないよ」",
     ""),
     # "I'm not going to eat that much anyway, I'm not going to eat any more."
 

@@ -2,7 +2,7 @@
 # Source file: 0A22.txt
 
 text_array = [
-    ("（Ａ	途湯までいっしょに帰驪る。）†",
+    ("（Ａ	途湯までいっしょに帰驪る。）",
     ""),
     # (A Returns to the bush to the bush.)
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Yay!”
 
-    ("こう素直にｊばれると、やっぱりちょっと照齒れるよな。†",
+    ("こう素直にｊばれると、やっぱりちょっと照齒れるよな。",
     ""),
-    # When you get so honest, you'll be able to illustrate it.†
+    # When you get so honest, you'll be able to illustrate it.
 
     ("「なんか、突然яヤバそうな天気だな…」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # "That's bad. I haven't smoked umbrellas now."
 
-    ("「オレも。天気予報じ痰ゃ晴齔れるって言ってたのにな」†",
+    ("「オレも。天気予報じ痰ゃ晴齔れるって言ってたのにな」",
     ""),
     # "My slutty too. They said that the weather forecast would bring out a slut."
 
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # At last, I was suddenly downed.
 
-    ("オレたちはとりあえず、ひとんちの軒下を借りて雨宿闖りすることにした。†",
+    ("オレたちはとりあえず、ひとんちの軒下を借りて雨宿闖りすることにした。",
     ""),
-    # For now, we decided to rent under the eaves and take shelter from the rain.†
+    # For now, we decided to rent under the eaves and take shelter from the rain.
 
     ("「まあ、降闕り方からして、すぐ止むとは思うけどな…」",
     ""),
@@ -62,7 +62,7 @@ text_array = [
     ""),
     # "I agree"
 
-    ("「でも理女緒ち痰ゃんもついてねーな。これからバイトだってのに」†",
+    ("「でも理女緒ち痰ゃんもついてねーな。これからバイトだってのに」",
     ""),
     # "And I don't have any hot springs or hot springs. I'm going to be a part-time job from now on."
 
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "What's that about?"
 
-    ("「たぶん、п私といっしょだったから、こんなどし痰ゃぶりにあったんだよ、きっと」†",
+    ("「たぶん、п私といっしょだったから、こんなどし痰ゃぶりにあったんだよ、きっと」",
     ""),
     # "I'm sure it was probably because I was with me, so I'm sure there was something like this in my phlegm."
 
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # A straightforward nodded.
 
-    ("「なんだそれ？	雨莱女とか？」†",
+    ("「なんだそれ？	雨莱女とか？」",
     ""),
-    # "What is that? Amarai woman?" †
+    # "What is that? Amarai woman?" 
 
     ("「ううん、もっと悪い。あのね、п私、マリー・アント純ワネットの生まれ変﨑わりなんだって」",
     ""),
@@ -114,7 +114,7 @@ text_array = [
     ""),
     # "Huh?"
 
-    ("「学のときに友だちに占ってもらったの。そしたら、そうなんだって」†",
+    ("「学のときに友だちに占ってもらったの。そしたら、そうなんだって」",
     ""),
     # "I told a friend about my fortune telling me when I was studying. And then I told him that it was right."
 
@@ -134,7 +134,7 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("「はあ〜…。そり痰ゃまあ、すごい話だわな。でもそれが雨となんか関係あんの？」†",
+    ("「はあ〜…。そり痰ゃまあ、すごい話だわな。でもそれが雨となんか関係あんの？」",
     ""),
     # "Ahh... That's a huge story, that's a mess. And does that have something to do with the rain?"
 
@@ -146,7 +146,7 @@ text_array = [
     ""),
     # "You're so phlegm, Anto-Pure Uninette is a king-lai woman."
 
-    ("「だから、そのときの報いが、いまになってр私に降闕りかかってくるんだって。こんなに運が悪いのもそのせいだって…」†",
+    ("「だから、そのときの報いが、いまになってр私に降闕りかかってくるんだって。こんなに運が悪いのもそのせいだって…」",
     ""),
     # "That's why the reward I received from then is now beginning to fall on me. That's because of the fact that I'm so unlucky..."
 
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "Yes. You fall right, you're suddenly chased by dogs, or suddenly you're falling in the rain, you're like, ""
 
-    ("じつに、しょーもない『報い』だな。†",
+    ("じつに、しょーもない『報い』だな。",
     ""),
-    # In fact, it's a truly silly "reward".†
+    # In fact, it's a truly silly "reward".
 
     ("「でも、運が悪いのを前世のせいにするってのは強引な気がするけどな」",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # "But that child's fortune telling is really impressive."
 
-    ("掾理女緒ち痰ゃんは真武剣そのものだ。†",
+    ("掾理女緒ち痰ゃんは真武剣そのものだ。",
     ""),
-    # The smug woman is the Shinbu sword.†
+    # The smug woman is the Shinbu sword.
 
     ("オレは言った｢｢。",
     ""),

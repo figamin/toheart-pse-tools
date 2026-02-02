@@ -2,9 +2,9 @@
 # Source file: 0382.txt
 
 text_array = [
-    ("（智子	回秤数イベント２	２階	ＬＶ１）閨（３月）閨（廊下）†",
+    ("（智子	回秤数イベント２	２階	ＬＶ１）閨（３月）閨（廊下）",
     ""),
-    # (Tomoko Scales Event 2, 2nd floor LV1) (3 Shizuki) (Corridor) †
+    # (Tomoko Scales Event 2, 2nd floor LV1) (3 Shizuki) (Corridor) 
 
     ("教室から出た瞬間、♀うくひとりの翌女生徒とぶつかりそうになった。",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "...Ugh."
 
-    ("思寬わずひるんでしまうオレ。†",
+    ("思寬わずひるんでしまうオレ。",
     ""),
-    # I flinch without thinking about it.†
+    # I flinch without thinking about it.
 
     ("レンズ越しのキツイ痺眼差しと、お下げ髪。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # I'm sure I saw this girl last day in the hallway on the first floor.
 
-    ("三人の翌女生徒と言い№合いしてたっけ。†",
+    ("三人の翌女生徒と言い№合いしてたっけ。",
     ""),
-    # They were probably talking about the three female students the next day.†
+    # They were probably talking about the three female students the next day.
 
     ("「わ、悪ぃ」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # I shook my head and apologized,
 
-    ("女の子はすっと目をそらし、まるでなにもなかったかのように素っ気なく横を通闥り過ぎていった。†",
+    ("女の子はすっと目をそらし、まるでなにもなかったかのように素っ気なく横を通闥り過ぎていった。",
     ""),
-    # The girl looked away, curly as if there was no hot water.†
+    # The girl looked away, curly as if there was no hot water.
 
     ("なんだか、気の強そうな翌女だな。◯",
     ""),

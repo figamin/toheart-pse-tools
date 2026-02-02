@@ -2,17 +2,17 @@
 # Source file: 0067.txt
 
 text_array = [
-    ("４／２４（木）†",
+    ("４／２４（木）",
     ""),
-    # 4/24 (Thu)†
+    # 4/24 (Thu)
 
     ("諱取りあえず、一勛日は終尞わり。",
     ""),
     # The first day was over without a doubt.
 
-    ("あとはまっすぐ帰驪るなり、寄闃り道するなり、オレの自由だ。†",
+    ("あとはまっすぐ帰驪るなり、寄闃り道するなり、オレの自由だ。",
     ""),
-    # All that's left is my freedom, like going straight back or coming in.†
+    # All that's left is my freedom, like going straight back or coming in.
 
     ("廊下を歩きながら、外の景色をながめる。",
     ""),
@@ -22,17 +22,17 @@ text_array = [
     ""),
     # You can see a random, hazy view from the far away Tang Dynasty.
 
-    ("屋繪上にはかなわないが、ここからでもそれなりに気分がいい。†",
+    ("屋繪上にはかなわないが、ここからでもそれなりに気分がいい。",
     ""),
-    # There's no sign of the house above, but from here onwards, the hot springs also feel quite good.†
+    # There's no sign of the house above, but from here onwards, the hot springs also feel quite good.
 
     ("ふらふらと、こんなとこにｗてしまった。",
     ""),
     # I wandered around, and fell into this place.
 
-    ("足を動かすだけ無駄だった。†",
+    ("足を動かすだけ無駄だった。",
     ""),
-    # It was no use moving my legs.†
+    # It was no use moving my legs.
 
     ("＊淫俣桒棟肛盾濶ｺ濶りしてる坂道。",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # I wonder if my feet are being given high heat at all?
 
-    ("下濶りはスケボーで、ガーッと駆け抜けるのも気搴持ちよさそうだ。†",
+    ("下濶りはスケボーで、ガーッと駆け抜けるのも気搴持ちよさそうだ。",
     ""),
-    # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.†
+    # Shimohari is a skateboarder, and it seems like he's also very excited to get through the slut.
 
     ("今厓日は木曜坥日か。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # Both the $yen and hot Fridays are sleepy days.
 
-    ("眠くないのは土曜坥日ぐらいか。†",
+    ("眠くないのは土曜坥日ぐらいか。",
     ""),
-    # I don't sleepy about Saturday's day.†
+    # I don't sleepy about Saturday's day.
 
     ("そんなこんなで、４月２４冾日が終尞わる。",
     ""),

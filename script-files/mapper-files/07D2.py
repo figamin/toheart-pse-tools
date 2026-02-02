@@ -2,17 +2,17 @@
 # Source file: 07D2.txt
 
 text_array = [
-    ("（ＶＳイベント	琴音ＶＳ葵）閨（選択綜	葵の隣）†",
+    ("（ＶＳイベント	琴音ＶＳ葵）閨（選択綜	葵の隣）",
     ""),
-    # (VS Event Kotone VS Aoi) (Selection So next to Aoi)†
+    # (VS Event Kotone VS Aoi) (Selection So next to Aoi)
 
     ("葵ち痰ゃんの隣にしよう。",
     ""),
     # Let's make it next to Aoi Chisho-chan.
 
-    ("オレは葵ち痰ゃんの隣にｍ會高ｺ奄した。†",
+    ("オレは葵ち痰ゃんの隣にｍ會高ｺ奄した。",
     ""),
-    # My gangbang went to Mkai Takako Amami next to Aoi Chisho-chan.†
+    # My gangbang went to Mkai Takako Amami next to Aoi Chisho-chan.
 
     ("「諱よっ、葵ち痰ゃん」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Ah, hello, Senpai."
 
-    ("こぼれるような笑顔が返ってきた。†",
+    ("こぼれるような笑顔が返ってきた。",
     ""),
-    # A smiley face came back, almost spilling around.†
+    # A smiley face came back, almost spilling around.
 
     ("オレはそのあいさつを受けてすぐに、",
     ""),
@@ -34,9 +34,9 @@ text_array = [
     ""),
     # "And then, Kotone Chishonan, too."
 
-    ("′かいにいる琴音ち痰ゃんにも声をかけた。†",
+    ("′かいにいる琴音ち痰ゃんにも声をかけた。",
     ""),
-    # Kao also called out to Kotone Chisho-chan, who was in the hall.†
+    # Kao also called out to Kotone Chisho-chan, who was in the hall.
 
     ("彼女はピクンと肩をふるわせて、恐驪る恐驪るこっちを見た。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "…Hello"
 
-    ("軽く釈する。†",
+    ("軽く釈する。",
     ""),
-    # I'll give it a light interpretation.†
+    # I'll give it a light interpretation.
 
     ("「琴音ち痰ゃんと葵ち痰ゃんって、知闥り№合い？」",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # They looked at each other's faces and made them join together.
 
-    ("その反梍応から、まったくの他人ということが見て取齊れる。†",
+    ("その反梍応から、まったくの他人ということが見て取齊れる。",
     ""),
-    # From the contrary, it is clear that he is completely stranger.†
+    # From the contrary, it is clear that he is completely stranger.
 
     ("「そんじ痰ゃ、せっかくだし、紹譓介しとくか。彼女は１−Ｂの姫武琴音ち痰ゃん」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "nice to meet you"
 
-    ("葵ち痰ゃんが微笑んで言うと、琴音ち痰ゃんは困ったふうにうつむいてしまった。†",
+    ("葵ち痰ゃんが微笑んで言うと、琴音ち痰ゃんは困ったふうにうつむいてしまった。",
     ""),
-    # When Aoi Chisho-chan smiled, Kotone Chisho-chan turned to her face in trouble.†
+    # When Aoi Chisho-chan smiled, Kotone Chisho-chan turned to her face in trouble.
 
     ("「こっちは、１−Ｃの松原葵ち痰ゃん」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "…Hello"
 
-    ("目を上げ、琴音ち痰ゃんは静かに釈した。†",
+    ("目を上げ、琴音ち痰ゃんは静かに釈した。",
     ""),
-    # His eyes lifted, and Kotone Chisho-chan quietly interpreted.†
+    # His eyes lifted, and Kotone Chisho-chan quietly interpreted.
 
     ("同じ一年だけど、なんていうか、ちょっと対照的な感じがするふたりだな。",
     ""),
@@ -110,9 +110,9 @@ text_array = [
     ""),
     # There are also hot hairstyles with a long hairstyle, but they also have a physical education and humanities style that is very popular.
 
-    ("元気な翌女の子と、蛛大人しいおｏ様って感じもするなァ。†",
+    ("元気な翌女の子と、蛛大人しいおｏ様って感じもするなァ。",
     ""),
-    # Don't even feel like a healthy girl and a quiet, gentle O-sama.†
+    # Don't even feel like a healthy girl and a quiet, gentle O-sama.
 
     ("オレは話陂題を探そうと、それぞれふたりの≠メニャーに高注目した。",
     ""),
@@ -122,9 +122,9 @@ text_array = [
     ""),
     # Aoi Chisho-chan is the same as my gei-re.
 
-    ("琴音ち痰ゃんはうどん一杯。†",
+    ("琴音ち痰ゃんはうどん一杯。",
     ""),
-    # Kotone Chisho-chan is full of udon noodles.†
+    # Kotone Chisho-chan is full of udon noodles.
 
     ("「お、葵ち痰ゃんもオレと同じＡ奄ランチか」",
     ""),
@@ -142,9 +142,9 @@ text_array = [
     ""),
     # By the way, A Amami lunch on the day is a Tonkatsu set meal.
 
-    ("学食としては無俣なｐだ。†",
+    ("学食としては無俣なｐだ。",
     ""),
-    # It's a nomadic school cafeteria.†
+    # It's a nomadic school cafeteria.
 
     ("「ほう、葵ち痰ゃんはとんかつソースをかけて食べんだな」",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "Well, that's usually the case. Either Worcestershire sauce or?"
 
-    ("「ええ」†",
+    ("「ええ」",
     ""),
-    # "Yeah"†
+    # "Yeah"
 
     ("「とこが、学食熕もｖ淫俣﨎Hってると、さすがにマンネリになる。だから上縁級者はカツにもいい新しい味を≠めるわけだ」",
     ""),
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "Ah..."
 
-    ("「ケチャャップ、しょうゆ、マャネーズ。渋いやつになると、塩をぱらっとひと振關りとか、とうがらしとか。またある者はドレッシングなんかをかけたりして」†",
+    ("「ケチャャップ、しょうゆ、マャネーズ。渋いやつになると、塩をぱらっとひと振關りとか、とうがらしとか。またある者はドレッシングなんかをかけたりして」",
     ""),
     # "Ketchap, shiizu, shiizu, and manaise. When it comes to tampering, they suddenly sprinkle a sprinkle of salt, or burnt peppers. Some people also sprinkle a lot of dressing."
 
@@ -190,7 +190,7 @@ text_array = [
     ""),
     # "I used to be a fan of the similes."
 
-    ("「なのに、どうして今厓日は…？」†",
+    ("「なのに、どうして今厓日は…？」",
     ""),
     # "But why is it now...?"
 
@@ -210,7 +210,7 @@ text_array = [
     ""),
     # "After all, Homon is a classic road, and it's a classic road with a reason that's the classic road."
 
-    ("「王道って、とんかつソースがですか？」†",
+    ("「王道って、とんかつソースがですか？」",
     ""),
     # "Is the classic tonkatsu sauce?"
 
@@ -218,9 +218,9 @@ text_array = [
     ""),
     # "People will one day return to tonkatsu sauce. Pork cutlet sauce banquet i Tangari's classic. King's Hong Road, Yeeee!"
 
-    ("オレが親指を立てると、葵ち痰ゃんは複雑な笑顔で返した。†",
+    ("オレが親指を立てると、葵ち痰ゃんは複雑な笑顔で返した。",
     ""),
-    # When I gave a thumbs up, Aoi Chisho-yan responded with a complicated face.†
+    # When I gave a thumbs up, Aoi Chisho-yan responded with a complicated face.
 
     ("と、そんな感じで、オレはハシ以繹上に口を動かし続けた。",
     ""),
@@ -230,9 +230,9 @@ text_array = [
     ""),
     # The number of weir lunches has hardly decreased.
 
-    ("そうやって、しばらくすると。†",
+    ("そうやって、しばらくすると。",
     ""),
-    # After a while, do that.†
+    # After a while, do that.
 
     ("「失邇礼します…」",
     ""),
@@ -246,9 +246,9 @@ text_array = [
     ""),
     # When I looked forward to it, I found that the udon had already finished eating it.
 
-    ("たかがうどん一杯だ、食べ終尞わっていても不思議じ痰ゃない。†",
+    ("たかがうどん一杯だ、食べ終尞わっていても不思議じ痰ゃない。",
     ""),
-    # It's just a bowl of udon noodles, and the hot water is completely eaten, so it's strange that it's not too phlegm.†
+    # It's just a bowl of udon noodles, and the hot water is completely eaten, so it's strange that it's not too phlegm.
 
     ("「あ、いけね、オレも≠早く食岦わねーと」",
     ""),
@@ -262,9 +262,9 @@ text_array = [
     ""),
     # "Sorry. First..."
 
-    ("琴音ち痰ゃんはそう言って、トレイを持ってそのまま行ってしまった。†",
+    ("琴音ち痰ゃんはそう言って、トレイを持ってそのまま行ってしまった。",
     ""),
-    # Kotone Chisho-yan said, then took Togekirei with him and left.†
+    # Kotone Chisho-yan said, then took Togekirei with him and left.
 
     ("「琴音ち痰ゃん…」",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # "Huh? It's not like that."
 
-    ("オレは慌てて否阡定した。†",
+    ("オレは慌てて否阡定した。",
     ""),
-    # I hurriedly rejected it.†
+    # I hurriedly rejected it.
 
     ("「そうじ痰ゃないよ。なにも喋迺らなかったのは、単に大人しいからさ」",
     ""),
@@ -294,9 +294,9 @@ text_array = [
     ""),
     # "Yeah"
 
-    ("それ以繹上つっこんだことは説明しなかった。†",
+    ("それ以繹上つっこんだことは説明しなかった。",
     ""),
-    # He didn't explain anything he had said that after that.†
+    # He didn't explain anything he had said that after that.
 
     ("でも、ちょっと配慮が足闡りなかったかな。",
     ""),

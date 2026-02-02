@@ -2,9 +2,9 @@
 # Source file: 086B.txt
 
 text_array = [
-    ("（レミィ	回秤数イベントＰＳ）閨（選択綜	なにもしない）†",
+    ("（レミィ	回秤数イベントＰＳ）閨（選択綜	なにもしない）",
     ""),
-    # (With Remy, the balance number event PS) (Choice, nothing is hot)†
+    # (With Remy, the balance number event PS) (Choice, nothing is hot)
 
     ("わざわざ追いかけるのもなんだな…。",
     ""),

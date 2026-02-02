@@ -2,7 +2,7 @@
 # Source file: 00B3.txt
 
 text_array = [
-    ("（４月１２冾日	朝）閨（自分の部屋）†",
+    ("（４月１２冾日	朝）閨（自分の部屋）",
     ""),
     # (April 12th day of the month) (morning) (morning my room)
 
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # I should have slept well, but I don't feel like I've slept at all.
 
-    ("ビタミン不足かな？†",
+    ("ビタミン不足かな？",
     ""),
-    # Is it a vitamin deficiency?†
+    # Is it a vitamin deficiency?
 
     ("「ち痰ゃん、眠そう」",
     ""),
@@ -34,8 +34,8 @@ text_array = [
     ""),
     # "Lecture, the lesson is a slumbering position."
 
-    ("「はいはい」†",
+    ("「はいはい」",
     ""),
-    # "Yes, yes" †
+    # "Yes, yes" 
 
 ]

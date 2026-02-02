@@ -22,9 +22,9 @@ text_array = [
     ""),
     # So...
 
-    ("うなずく先輩。†",
+    ("うなずく先輩。",
     ""),
-    # Senpai nodded.†
+    # Senpai nodded.
 
     ("「………」",
     "…"),
@@ -42,9 +42,9 @@ text_array = [
     ""),
     # "Hehe, I'm happy."
 
-    ("あとはこれで、あの小うるさいじーさんが出てこなけり痰ゃな。†",
+    ("あとはこれで、あの小うるさいじーさんが出てこなけり痰ゃな。",
     ""),
-    # All that's left is that the noisy old man won't come out.†
+    # All that's left is that the noisy old man won't come out.
 
     ("おかしいな。",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("今厓日に限ってｗないぞ。†",
+    ("今厓日に限ってｗないぞ。",
     ""),
-    # It's not on the day right now lol.†
+    # It's not on the day right now lol.
 
     ("これはまさか、諱先輩といっしょに帰驪るチャャンスでは！？",
     ""),
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # Then the old man started to repeatedly send Seri°Kao-san to the skull O-san lol.
 
-    ("諱よし、悩んでる暇はねぇ。†",
+    ("諱よし、悩んでる暇はねぇ。",
     ""),
-    # Okay, I don't have time to worry about it.†
+    # Okay, I don't have time to worry about it.
 
     ("「諱先輩！」",
     ""),
@@ -86,9 +86,9 @@ text_array = [
     ""),
     # "The old man who was in the miracle lol Iso's next skull ""
 
-    ("と、オレが言った、そのとき。†",
+    ("と、オレが言った、そのとき。",
     ""),
-    # That's when I said that.†
+    # That's when I said that.
 
     ("「｢｢とうあーーーーーーーーーッ！！！」",
     ""),
@@ -102,9 +102,9 @@ text_array = [
     ""),
     # The brightly-lit figure, who had quickly moved up in front of us and the others.
 
-    ("な、なんだぁ〜！？†",
+    ("な、なんだぁ〜！？",
     ""),
-    # What is it?!?†
+    # What is it?!?
 
     ("「おｏ様、お迎えにあがりました」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "...Hey, this damn old man! The trainees at the club are getting more and more elaborate and tampering..."
 
-    ("見骭ると、普黒塗闢りの鰍リムジンは目立たぬよう、路地横に停車させてあった。†",
+    ("見骭ると、普黒塗闢りの鰍リムジンは目立たぬよう、路地横に停車させてあった。",
     ""),
-    # Looking at it, I saw that the carrot limousine, which was painted in plain black, had been stopped next to an alley to make it less noticeable.†
+    # Looking at it, I saw that the carrot limousine, which was painted in plain black, had been stopped next to an alley to make it less noticeable.
 
     ("「さ、おｏ様、お車へ｢｢」",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # "Lucky!"
 
-    ("「！」†",
+    ("「！」",
     ""),
-    # "!" †
+    # "!" 
 
     ("「п私はｗ栖瑞家に５０年お仕えしてきた執鮪事でございます。以繹後、間違えぬよう」",
     ""),
@@ -154,9 +154,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("エスコートする執鮪事のじーさんに、諱先輩がぽそぽそとなにかを言った。†",
+    ("エスコートする執鮪事のじーさんに、諱先輩がぽそぽそとなにかを言った。",
     ""),
-    # Senpai said something to the old man who was escorting him.†
+    # Senpai said something to the old man who was escorting him.
 
     ("「なっ、なんですとっ！？	あの者を家までお翌送闡りせよと！？」",
     ""),
@@ -170,7 +170,7 @@ text_array = [
     ""),
     # "No, O-san! I'll put those insane people (because they're so) in the car of the Suzui family!"
 
-    ("「ゲセンなрヤカラで悪かったな」†",
+    ("「ゲセンなрヤカラで悪かったな」",
     ""),
     # "It was a bad thing about the gay banquet"
 
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # "No, I won't do it! Even if O-san was told that he was ""
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「｢｢うっ！」",
     ""),
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "See, Seri°Kao-san.
 
-    ("私めが、そのお顔に弱いことを知闥りながら」†",
+    ("私めが、そのお顔に弱いことを知闥りながら」",
     ""),
     # While knowing that I am weak on that face"
 
@@ -222,17 +222,17 @@ text_array = [
     ""),
     # "...Cuckoo."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「わ、わかりました。そこまでおっし痰ゃるのでしたら、最″早なにも言いません」",
     ""),
     # "B, I understand. If you're going to have that much phlegm, I won't even say anything quickly."
 
-    ("じじいは観念したようにそう言うと、車のほうへと移動した。†",
+    ("じじいは観念したようにそう言うと、車のほうへと移動した。",
     ""),
-    # The old man said this as if he had no idea and moved towards the car.†
+    # The old man said this as if he had no idea and moved towards the car.
 
     ("諱先輩がオレに言った。",
     ""),
@@ -250,9 +250,9 @@ text_array = [
     ""),
     # Seriously!?”
 
-    ("こく…。†",
+    ("こく…。",
     ""),
-    # So...†
+    # So...
 
     ("「ほれッ、さっさとｗ鰯翌ｩ、小僧っ！」",
     ""),
@@ -266,9 +266,9 @@ text_array = [
     ""),
     # Why should I not call Temae a boy and not be stolen?
 
-    ("まあ、今厓日のとこは黙っといてやる。†",
+    ("まあ、今厓日のとこは黙っといてやる。",
     ""),
-    # Well, I'll keep quiet and tamper with the moment I'm off.†
+    # Well, I'll keep quiet and tamper with the moment I'm off.
 
     ("「………」",
     "…"),
@@ -290,9 +290,9 @@ text_array = [
     ""),
     # The seats are fluffy and the facilities are well-equipped.
 
-    ("すべてにおいて格調ｒ高さを感じさせる。†",
+    ("すべてにおいて格調ｒ高さを感じさせる。",
     ""),
-    # It gives a sense of elegance in everything.†
+    # It gives a sense of elegance in everything.
 
     ("エンジン音など聞こえない。",
     ""),
@@ -302,9 +302,9 @@ text_array = [
     ""),
     # Only the background music of the quiet, confusion-filled banquet Rashik reaches your ears.
 
-    ("こんな車、氏庶民は死ぬまでに一度謫乗齒れるか乗齒れねーかだーな。†",
+    ("こんな車、氏庶民は死ぬまでに一度謫乗齒れるか乗齒れねーかだーな。",
     ""),
-    # A car like this is a must-have for ordinary people to ride or ride once before they die.†
+    # A car like this is a must-have for ordinary people to ride or ride once before they die.
 
     ("みるみるうちに校門が小さくなってゆく。",
     ""),
@@ -322,9 +322,9 @@ text_array = [
     ""),
     # It's tough, the good people of the common people.
 
-    ("お〜い、と手を振ってやうかと思ったが、恥ずかしいのでやめとこう。†",
+    ("お〜い、と手を振ってやうかと思ったが、恥ずかしいのでやめとこう。",
     ""),
-    # Hey, I thought I'd waved my hand and b, but I was embarrassed so I'd stop tampering.†
+    # Hey, I thought I'd waved my hand and b, but I was embarrassed so I'd stop tampering.
 
     ("「＠栖瑞の車に下々の者を乗せるなど、縺後にも先にもこれっきりでございましょう」",
     ""),
@@ -342,9 +342,9 @@ text_array = [
     ""),
     # They still say sentences and tamper with it.
 
-    ("掾往生ぎわの悪いじじいだな。†",
+    ("掾往生ぎわの悪いじじいだな。",
     ""),
-    # He's a bad old man.†
+    # He's a bad old man.
 
     ("梶リムジンは滞闡りなく進み、やがて見覚えのある公園が見えた。",
     ""),
@@ -354,9 +354,9 @@ text_array = [
     ""),
     # "Ah, that's fine."
 
-    ("車はゆっくり停車した。†",
+    ("車はゆっくり停車した。",
     ""),
-    # The car slowly stopped.†
+    # The car slowly stopped.
 
     ("「………」",
     "…"),
@@ -366,7 +366,7 @@ text_array = [
     ""),
     # "Huh? Is it okay to have a hot spring without having to send it home the next day? It's just a stone's throw away.
 
-    ("わざわざサンキャな！	滅多にない貴重な体験をさせてもらったぜ」†",
+    ("わざわざサンキャな！	滅多にない貴重な体験をさせてもらったぜ」",
     ""),
     # It's all about the move!I was able to have a rare and valuable experience and was given a hot meal."
 

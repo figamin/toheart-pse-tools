@@ -2,9 +2,9 @@
 # Source file: 06A8.txt
 
 text_array = [
-    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜	＝普通に打つ）†",
+    ("（マルチ	回秤数イベント	帰闍り道）閨（選択綜	＝普通に打つ）",
     ""),
-    # (Mixing Luck, the balance event, return road) (Choose-soku = hit normally)†
+    # (Mixing Luck, the balance event, return road) (Choose-soku = hit normally)
 
     ("オレは、パキンッと、ごく≠普通にパックを打った。",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # Susu... Puck slid down, then thrust straight into the goal of Makkuruchi.
 
-    ("少し遅れて、マルチが空振關りする。†",
+    ("少し遅れて、マルチが空振關りする。",
     ""),
-    # The slower the story goes, and Makruchi rushes over.†
+    # The slower the story goes, and Makruchi rushes over.
 
     ("「おいおい、遅すぎるぞ」",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "S-Sorry, I was thinking about hitting it back, but the timing is...
 
-    ("「ははは、結構ニブイなあ、マルチって」†",
+    ("「ははは、結構ニブイなあ、マルチって」",
     ""),
     # "Hahaha, that's pretty ny-sigh, you're crying"
 
@@ -50,7 +50,7 @@ text_array = [
     ""),
     # Hehhhhhhhhhhhhh, the pack starts to slip.
 
-    ("「…なんだそり痰ゃ」†",
+    ("「…なんだそり痰ゃ」",
     ""),
     # "...What is that phlegm?"
 
@@ -70,9 +70,9 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
 
     ("結局、マルチはオレから一度燗もゴールを奪えなかった。",
     ""),
@@ -82,7 +82,7 @@ text_array = [
     ""),
     # "...Mrrrrr is really a nibble."
 
-    ("「…ううっ、すみません。どうも機敏な動きを要＠することは苦闍手で…」†",
+    ("「…ううっ、すみません。どうも機敏な動きを要＠することは苦闍手で…」",
     ""),
     # "...Uh, sorry. It's hard to do anything that requires agile movements..."
 

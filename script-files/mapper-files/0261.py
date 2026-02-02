@@ -2,9 +2,9 @@
 # Source file: 0261.txt
 
 text_array = [
-    ("（ＶＳイベント	芹°香ＶＳマルチ）閨（選択綜	科学に鰍頼髣る）†",
+    ("（ＶＳイベント	芹°香ＶＳマルチ）閨（選択綜	科学に鰍頼髣る）",
     ""),
-    # (VS Event Seri°Ka VS Makkuruchi) Li (Choice Sou Recognizes Science) †
+    # (VS Event Seri°Ka VS Makkuruchi) Li (Choice Sou Recognizes Science) 
 
     ("「じ痰ゃあ、今回はマルチに鰍頼んでみっかな」",
     ""),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # I'm sorry for Senpai, but I'll trust the power of science after all.
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「はい、おまかせください！	ついにわたしの撃レーダーが役立つときがきました」",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # "Yes. It seems that the recent ≠Maid Korobots are equipped with standard petting equipment."
 
-    ("「へえ」†",
+    ("「へえ」",
     ""),
-    # "Whoa" †
+    # "Whoa" 
 
     ("「この撃レーダーのガンマヰスペクトル分析で、１００円玉…つまりニッケルのｎ波粕数を探し出せば、必ず見つかるはずです！」",
     ""),
@@ -42,7 +42,7 @@ text_array = [
     ""),
     # "Oh, that's amazing."
 
-    ("「はいっ、諱先﨎日勉強しましたから！」†",
+    ("「はいっ、諱先﨎日勉強しましたから！」",
     ""),
     # "Yes, I studied my name in the day!"
 
@@ -54,7 +54,7 @@ text_array = [
     ""),
     # Okay, let's look for it right away and get some hot water."
 
-    ("「はいっ！	それでは、探査開始！」†",
+    ("「はいっ！	それでは、探査開始！」",
     ""),
     # "Yes! Now, exploration begins!"
 
@@ -74,7 +74,7 @@ text_array = [
     ""),
     # I also peeked at the vending machine's underside.
 
-    ("「…なあ、それってもしかして、目で探してんじ痰ゃねーか？」†",
+    ("「…なあ、それってもしかして、目で探してんじ痰ゃねーか？」",
     ""),
     # "...Hey, is that something that's probably something you're looking for with your eyes?"
 
@@ -90,9 +90,9 @@ text_array = [
     ""),
     # "And don't worry, don't worry.
 
-    ("わたしには高性能ＣＣＤカ＜メラがありますから！」†",
+    ("わたしには高性能ＣＣＤカ＜メラがありますから！」",
     ""),
-    # I have a b high performance CCD camera!”†
+    # I have a b high performance CCD camera!”
 
     ("などと言いつつ、四つんばいで探し回迚られてもなあ。",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # "No. Please take your time."
 
-    ("「でもなあ…」†",
+    ("「でもなあ…」",
     ""),
-    # "And that's hot too..." †
+    # "And that's hot too..." 
 
     ("「ちょっと失邇礼します」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # Muruki Ruchi began to look into my foot and hot water.
 
-    ("邪ｎ魔にならないよう、どいてやる。†",
+    ("邪ｎ魔にならないよう、どいてやる。",
     ""),
-    # I'll try to hit you and tamper with it so that you don't become an evil person.†
+    # I'll try to hit you and tamper with it so that you don't become an evil person.
 
     ("「あっ！	ありましたっ！」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "...really."
 
-    ("どうやら１００円玉は、オレがずっと足で踏んづけていたらしい。†",
+    ("どうやら１００円玉は、オレがずっと足で踏んづけていたらしい。",
     ""),
-    # Apparently, I kept stitching around with my feet for the 100 yen coin.†
+    # Apparently, I kept stitching around with my feet for the 100 yen coin.
 
     ("「見つかってよかったですね」",
     ""),
@@ -150,7 +150,7 @@ text_array = [
     ""),
     # "Ah, it saved me, murmurchi. That's bad."
 
-    ("「いえいえ、おかまいなく」†",
+    ("「いえいえ、おかまいなく」",
     ""),
     # "No, it's fine."
 
@@ -162,9 +162,9 @@ text_array = [
     ""),
     # "Thank you, Senpai Kei, too. Well, this time I found Makruchi, but I'll ask you to use b-magic."
 
-    ("諱先輩は、こくんとうなずいた。†",
+    ("諱先輩は、こくんとうなずいた。",
     ""),
-    # Senpai nodded with Ko-kun.†
+    # Senpai nodded with Ko-kun.
 
     ("ま、なにはともあれ１００円が見つかってよかったぜ。",
     ""),

@@ -2,17 +2,13 @@
 # Source file: 0F47.txt
 
 text_array = [
-    ("（３月２２冾日	土）閨（堰ラジオ	３回目）閨（堰ラジオ聞いた場㍼合）†",
+    ("（３月２２冾日	土）閨（堰ラジオ	３回目）閨（堰ラジオ聞いた場㍼合）",
     ""),
-    # (Saturday, March 22nd) (3rd Shiki Radio) (3rd time in the weir radio) (Leads to listen to the weir radio)†
+    # (Saturday, March 22nd) (3rd Shiki Radio) (3rd time in the weir radio) (Leads to listen to the weir radio)
 
-    ("諱よし、聞こう。†",
+    ("諱よし、聞こう。",
     ""),
-    # Okay, let's listen.†
-
-    ("・",
-    ""),
-    # ・
+    # Okay, let's listen.
 
     ("・",
     ""),
@@ -26,9 +22,13 @@ text_array = [
     ""),
     # ・
 
-    ("・†",
+    ("・",
     ""),
-    # ・†
+    # ・
+
+    ("・",
+    ""),
+    # ・
 
     ("ふーん、人それぞれいいな悩みがあるもんだ。",
     ""),

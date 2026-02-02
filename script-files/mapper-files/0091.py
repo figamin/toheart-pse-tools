@@ -2,9 +2,9 @@
 # Source file: 0091.txt
 
 text_array = [
-    ("（冝期槙末テスト	４冾日目）閨（教室２休み桙時間）†",
+    ("（冝期槙末テスト	４冾日目）閨（教室２休み桙時間）",
     ""),
-    # (4th day of the final exam for the sedative final exam) (2 classes closed) †
+    # (4th day of the final exam for the sedative final exam) (2 classes closed) 
 
     ("学年又末テスト４冾日目。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Following the Gubanquet Lamar, there is another English language...
 
-    ("ああ〜っ、レミィがうらやましいぜ！†",
+    ("ああ〜っ、レミィがうらやましいぜ！",
     ""),
-    # Ahh, I'm so envious of you that Remy!†
+    # Ahh, I'm so envious of you that Remy!
 
     ("まずは英皷語だ。",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # I agree with my veteran.
 
-    ("こんなテストは役に立たないと思う。†",
+    ("こんなテストは役に立たないと思う。",
     ""),
-    # I don't think this test is useful.†
+    # I don't think this test is useful.
 
     ("氈次は現社か。",
     ""),
@@ -54,17 +54,17 @@ text_array = [
     ""),
     # What do you think about testing your memory like this?
 
-    ("…などと、文蝠句ばかり言ってないで、問題を解こう。†",
+    ("…などと、文蝠句ばかり言ってないで、問題を解こう。",
     ""),
-    # ...Don't just say sentences like this, but let's solve the question question.†
+    # ...Don't just say sentences like this, but let's solve the question question.
 
     ("なんとか今厓日の冾日程熬も無末事終了。",
     ""),
     # The schedule for the current day has ended without any problems.
 
-    ("さっさと帰って昼寝でもするか…。†",
+    ("さっさと帰って昼寝でもするか…。",
     ""),
-    # I'll go home quickly and take a nap and take a hot pot...†
+    # I'll go home quickly and take a nap and take a hot pot...
 
     ("「いよっ、君。調子はどうかね」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     ""),
     # "What are you looking for? Do you want to hear the results of the day?"
 
-    ("「気になるわね」†",
+    ("「気になるわね」",
     ""),
     # "You're curious about it"
 

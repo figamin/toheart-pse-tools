@@ -2,13 +2,13 @@
 # Source file: 0A39.txt
 
 text_array = [
-    ("（Ａ	声をかける。）†",
+    ("（Ａ	声をかける。）",
     ""),
-    # (A call out.)†
+    # (A call out.)
 
-    ("「諱よっ、クソガキ」†",
+    ("「諱よっ、クソガキ」",
     ""),
-    # "My name is, damn brat"†
+    # "My name is, damn brat"
 
     ("「あっ！	っ！」",
     ""),
@@ -22,9 +22,9 @@ text_array = [
     ""),
     # "Ou!"
 
-    ("あいかわらず元気なやつだ。†",
+    ("あいかわらず元気なやつだ。",
     ""),
-    # He's a lively guy who's not even stolen.†
+    # He's a lively guy who's not even stolen.
 
     ("「何してたんだ？	猫なんか追っかけ回してさ？」",
     ""),
@@ -38,7 +38,7 @@ text_array = [
     ""),
     # "Tamasabu b? He's always going to go wild, so you kept trying to stop him and tamper with it."
 
-    ("「はー、梶頼燉もしいもんだな。お前、いっつも誰かこらしめてんじ痰ゃん？」†",
+    ("「はー、梶頼燉もしいもんだな。お前、いっつも誰かこらしめてんじ痰ゃん？」",
     ""),
     # "Haa, you're a hot spring, Kaji Yori-setsu. Is there anyone else to stop you from sputum?"
 
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # He suddenly gets a serious face.
 
-    ("そういやコイツ、そのことで理女緒ち痰ゃんにしかられたとか言ってたな。†",
+    ("そういやコイツ、そのことで理女緒ち痰ゃんにしかられたとか言ってたな。",
     ""),
-    # He said that he was criticized for this and that he was criticized by the way he was stolen by the way.†
+    # He said that he was criticized for this and that he was criticized by the way he was stolen by the way.
 
     ("「おい、」",
     ""),
@@ -82,9 +82,9 @@ text_array = [
     ""),
     # "Hey, phlegm, it looks like it's fun every day. Maybe it's because you've started messing around?"
 
-    ("「た、たぶんな」†",
+    ("「た、たぶんな」",
     ""),
-    # "Oh, maybe" †
+    # "Oh, maybe" 
 
     ("コイツ、なかなかドキッとすること言いやがる。",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # Don't ask that.
 
-    ("真武剣な目で見つめやがって…。†",
+    ("真武剣な目で見つめやがって…。",
     ""),
-    # He stared at him with his sword-fighting eyes...†
+    # He stared at him with his sword-fighting eyes...
 
     ("「オレはだな｢｢」",
     ""),

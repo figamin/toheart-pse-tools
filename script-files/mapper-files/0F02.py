@@ -2,9 +2,9 @@
 # Source file: 0F02.txt
 
 text_array = [
-    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	志保）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル１）閨（卒業式篇）閨（選択綜	志保）閨（蛛主人公沍勝ち）",
     ""),
-    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Shiho) (Selection Protagonist) (The Great Protagonist) †
+    # (Arcade Battle Cry 1) (Graduation Ceremony Edition) (Selection Shiho) (Selection Protagonist) (The Great Protagonist) 
 
     ("Ｙ盾ｏ浮ｕ	Ａ窒ｒ",
     ""),
@@ -26,7 +26,7 @@ text_array = [
     ""),
     # "Ahhh, where did you practice fortune!"
 
-    ("「しらねー諱よ、これが実力だ」†",
+    ("「しらねー諱よ、これが実力だ」",
     ""),
     # "I don't know, this is my ability."
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # Shiho's р guy started saying something even more strange when he changed his Fuku tone.
 
-    ("「アホ…。素直に奄負けを認め」†",
+    ("「アホ…。素直に奄負けを認め」",
     ""),
-    # "Idiot... I honestly admit to losing Amami b"†
+    # "Idiot... I honestly admit to losing Amami b"
 
     ("残ったあかりと史の勝縁負は、当然というか史に軍配があがった。",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # In terms of content, I was pretty good at winning.
 
-    ("一箞方、志保に勝女したオレのほうはまんまとрヤツにрヤックをおごらせることができた。†",
+    ("一箞方、志保に勝女したオレのほうはまんまとрヤツにрヤックをおごらせることができた。",
     ""),
-    # On the other hand, I was able to get the yelling guy to win over Shiho.†
+    # On the other hand, I was able to get the yelling guy to win over Shiho.
 
     ("「あ〜ん、こんなはずじ痰ゃなかったのに〜っ」",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Ah, what should I do? Well, just feast."
 
-    ("「なんかくやし〜っ；」†",
+    ("「なんかくやし〜っ；」",
     ""),
-    # "It's kind of tampering with you!" †
+    # "It's kind of tampering with you!" 
 
     ("卒業式なんて、在校生にとっては、そんななんでもない一勛日に過ぎない。◯",
     ""),

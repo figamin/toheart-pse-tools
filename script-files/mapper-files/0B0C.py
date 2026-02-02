@@ -2,9 +2,9 @@
 # Source file: 0B0C.txt
 
 text_array = [
-    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）閨（選択綜Ｂ	鼻で息を吸う	の続き）†",
+    ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）閨（選択綜Ｂ	鼻で息を吸う	の続き）",
     ""),
-    # (Aya∴Kawa Pick Date Event 2) (Continued from Chosen A Greeting) (Continued from Chosen B Breathing with Nose))†
+    # (Aya∴Kawa Pick Date Event 2) (Continued from Chosen A Greeting) (Continued from Chosen B Breathing with Nose))
 
     ("オレは顔を傾けると、思いっきり鼻で息を吸った。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「すぅ〜っ、はぁ〜っ…」†",
+    ("「すぅ〜っ、はぁ〜っ…」",
     ""),
-    # "Suhh, haa..."†
+    # "Suhh, haa..."
 
     ("「…なにやってんの？」",
     ""),
@@ -42,9 +42,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「すぅ〜っ、はぁ〜っ…」",
     ""),
@@ -66,9 +66,9 @@ text_array = [
     ""),
     # "Ah, it smells nice."
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「すぅ〜っ、はぁ〜っ…」",
     ""),
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "No, I'm not ready yet!"
 
-    ("「う、すごい翌迫力…」†",
+    ("「う、すごい翌迫力…」",
     ""),
     # "Uh, the next one is amazing..."
 
@@ -114,8 +114,8 @@ text_array = [
     ""),
     # "So, how long will you keep doing that?"
 
-    ("「しばらく、ずーっと」†",
+    ("「しばらく、ずーっと」",
     ""),
-    # "For a while" †
+    # "For a while" 
 
 ]

@@ -2,9 +2,9 @@
 # Source file: 0499.txt
 
 text_array = [
-    ("（志保	回秤数イベント	１階２）閨（選択綜	ダ＜メ）†",
+    ("（志保	回秤数イベント	１階２）閨（選択綜	ダ＜メ）",
     ""),
-    # (Shiho Scales Event, 1st floor 2) (Selection Scales)†
+    # (Shiho Scales Event, 1st floor 2) (Selection Scales)
 
     ("「ダ＜メだ。オレは忙しいんだ」",
     ""),

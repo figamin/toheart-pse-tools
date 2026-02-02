@@ -2,7 +2,7 @@
 # Source file: 0505.txt
 
 text_array = [
-    ("（葵の出逢いイント鴻ロ諠より）†",
+    ("（葵の出逢いイント鴻ロ諠より）",
     ""),
     # (From Aoi's Meeting Into Koroga)
 
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # Students flocked to the bread store, and the cutlet sandwiches they had already sold out.
 
-    ("オレランキング諠第二位のウインナー香ロールもない。†",
+    ("オレランキング諠第二位のウインナー香ロールもない。",
     ""),
-    # There is no wiener incense roll, which is the second most popular in the rankings of my super banquet.†
+    # There is no wiener incense roll, which is the second most popular in the rankings of my super banquet.
 
     ("「ちょっと遅かったね」",
     ""),
@@ -50,9 +50,9 @@ text_array = [
     ""),
     # "There's a lot of blessings in the remains... you have to be a sputum, right?
 
-    ("オレたちは仕緖方なく、人の壁がすくまで、食堂の隅で待つことにした。†",
+    ("オレたちは仕緖方なく、人の壁がすくまで、食堂の隅で待つことにした。",
     ""),
-    # Without any guilt, we decided to wait in the corner of the cafeteria until the human walls were slaughtered.†
+    # Without any guilt, we decided to wait in the corner of the cafeteria until the human walls were slaughtered.
 
     ("そうやって暇そうに待っていると、",
     ""),
@@ -62,9 +62,9 @@ text_array = [
     ""),
     # "Haaaah!!"
 
-    ("元気な声で呼ばれた。†",
+    ("元気な声で呼ばれた。",
     ""),
-    # He was called in a cheerful voice.†
+    # He was called in a cheerful voice.
 
     ("「、堰ランチ食べないの？」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # "Oh, huh, huh Remi. I'm not too late at the sunrise right now. I'm waiting for the remaining bread."
 
-    ("「残り物おいしくないよ。みんなでいっしょに奄ランチセット食べよ」†",
+    ("「残り物おいしくないよ。みんなでいっしょに奄ランチセット食べよ」",
     ""),
-    # "The rest of the food isn't tasty. Let's all have an Amami lunch set together."†
+    # "The rest of the food isn't tasty. Let's all have an Amami lunch set together."
 
     ("「学食艶ランチか。ま、たまにはいいかもな」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "I'm not saying that, Ikebukuro, I'll have Amano lunch together."
 
-    ("「ＯＫ！」†",
+    ("「ＯＫ！」",
     ""),
-    # "OK!" †
+    # "OK!" 
 
     ("「さーて、なに食おうかなぁ？	雅史、お前なに食うの？」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "Well, that's a reasonable price. I'm also really excited..."
 
-    ("オレと史は、Ａ奄ランチの食柏券をモ買った。†",
+    ("オレと史は、Ａ奄ランチの食柏券をモ買った。",
     ""),
-    # Ikere and I-Shi bought a ticket to Kashiwa from A Amana Lunch.†
+    # Ikere and I-Shi bought a ticket to Kashiwa from A Amana Lunch.
 
     ("「レミィは？」",
     ""),
@@ -134,9 +134,9 @@ text_array = [
     ""),
     # The button that the man whom he pressed was "tempura udon."
 
-    ("ついでに『蛛大盛關り券』もモ買う。†",
+    ("ついでに『蛛大盛關り券』もモ買う。",
     ""),
-    # I also bought a "Great voucher ticket."†
+    # I also bought a "Great voucher ticket."
 
     ("「諱よりによって天ぷらうどんかよ。ア＜メリカ人のくせに」",
     ""),
@@ -150,9 +150,9 @@ text_array = [
     ""),
     # "Oh, there are some tampering people I like, but..."
 
-    ("「全然おかしくないネ」†",
+    ("「全然おかしくないネ」",
     ""),
-    # "It's not strange at all" †
+    # "It's not strange at all" 
 
     ("オレたちは空いてる席に座闕り、箸を取った。",
     ""),
@@ -162,17 +162,17 @@ text_array = [
     ""),
     # "I'll have you."
 
-    ("３人そって言う。†",
+    ("３人そって言う。",
     ""),
-    # The three of them say b.†
+    # The three of them say b.
 
     ("ひとくちめを食べ始めたそのとき、レミィがいきなりコショウのビンをつかんだ。",
     ""),
     # Just as I started eating a bite, Azuremi suddenly grabbed a bottle of Koshiccup.
 
-    ("なにをするのかと思えば、なんと撃レミィは、コショウをそのままうどんに振關りかけ始めたではないか。†",
+    ("なにをするのかと思えば、なんと撃レミィは、コショウをそのままうどんに振關りかけ始めたではないか。",
     ""),
-    # Just as I was wondering what he was doing, I realized that Ekiremi had begun to sprinkle the koshikudou directly into the udon noodles.†
+    # Just as I was wondering what he was doing, I realized that Ekiremi had begun to sprinkle the koshikudou directly into the udon noodles.
 
     ("「お、おいっ、レミィ、うどんにかけるのはコショウじ痰ゃねーだ！？」",
     ""),
@@ -182,7 +182,7 @@ text_array = [
     ""),
     # "N Shield O, Blow P Nitro Shield OBB Shock LB High. I like this one!"
 
-    ("「好きって、お前、さすがにそれは冾日本人として黙ってるわけには｢｢」†",
+    ("「好きって、お前、さすがにそれは冾日本人として黙ってるわけには｢｢」",
     ""),
     # "You say you like it, you, as a Japanese person, I can't help but feel silent.
 
@@ -198,9 +198,9 @@ text_array = [
     ""),
     # "Ah, ah..."
 
-    ("さすがに史燻も目を丸くしている。†",
+    ("さすがに史燻も目を丸くしている。",
     ""),
-    # Of course, I-Shin's smoked eyes are also rolling.†
+    # Of course, I-Shin's smoked eyes are also rolling.
 
     ("「おいおい、さすがにそり痰ゃねーだ？」",
     ""),
@@ -214,7 +214,7 @@ text_array = [
     ""),
     # "Are you sure the end of the day? Udon soup stock mixed with sauce..."
 
-    ("「いただきマース！」†",
+    ("「いただきマース！」",
     ""),
     # "Itadaki Mars!"
 
@@ -226,9 +226,9 @@ text_array = [
     ""),
     # When I saw the happy Ekiremi, she certainly felt like a small thing, like a food-like chore.
 
-    ("いや、もしかしたら、本末当にうまいのか？†",
+    ("いや、もしかしたら、本末当にうまいのか？",
     ""),
-    # It's a bit of a mess, or maybe it's really good for the realm?†
+    # It's a bit of a mess, or maybe it's really good for the realm?
 
     ("「………」",
     "…"),

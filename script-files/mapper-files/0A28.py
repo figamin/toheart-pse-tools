@@ -2,13 +2,13 @@
 # Source file: 0A28.txt
 
 text_array = [
-    ("（掾理女緒	好感度イベント	ごひ痰ゃくえん）閨（昼休み）閨（ＳＥ	チャャイム）閨（教室	ａモブ）†",
+    ("（掾理女緒	好感度イベント	ごひ痰ゃくえん）閨（昼休み）閨（ＳＥ	チャャイム）閨（教室	ａモブ）",
     ""),
-    # (Erimeo's Likeability Event: Hi-Sphemy Ceremony) (Lunch break) (SE Chaim) (Classroom A-Mob)†
+    # (Erimeo's Likeability Event: Hi-Sphemy Ceremony) (Lunch break) (SE Chaim) (Classroom A-Mob)
 
-    ("さーて、昼メシ昼メシ。†",
+    ("さーて、昼メシ昼メシ。",
     ""),
-    # Now, lunchtime, lunchtime, lunchtime, lunchtime.†
+    # Now, lunchtime, lunchtime, lunchtime, lunchtime.
 
     ("目末当てのパンをゲットし、艨ゆうゆうと教室へとｌかう途湯。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # Huh?
 
-    ("いま、目の前の廊下を歩いていったのは、掾理女緒ち痰ゃんだな。†",
+    ("いま、目の前の廊下を歩いていったのは、掾理女緒ち痰ゃんだな。",
     ""),
-    # I'm sure the one walking down the hallway in front of me was a stimulating experience.†
+    # I'm sure the one walking down the hallway in front of me was a stimulating experience.
 
     ("声をかけてみようか｢｢。",
     ""),

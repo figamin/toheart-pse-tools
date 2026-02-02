@@ -2,25 +2,25 @@
 # Source file: 08B1.txt
 
 text_array = [
-    ("（レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	いっしょに帰驪る）閨（下駄箱）†",
+    ("（レミィ	回秤数イベント	１階３	ＬＶ２）閨（選択綜	いっしょに帰驪る）閨（下駄箱）",
     ""),
-    # (Game Remy Scale Event 1st Floor 3 LV2) (Choices Return to Isshichieko) (Shoe cabinet)†
+    # (Game Remy Scale Event 1st Floor 3 LV2) (Choices Return to Isshichieko) (Shoe cabinet)
 
     ("「いいぜ」",
     ""),
     # "That's fine."
 
-    ("「やったぁ」†",
+    ("「やったぁ」",
     ""),
-    # "I did it" †
+    # "I did it" 
 
     ("レミィとの帰闍り道。",
     ""),
     # A journey back with Remy.
 
-    ("ふたりの話は、それなりに盛關り上がっていた。†",
+    ("ふたりの話は、それなりに盛關り上がっていた。",
     ""),
-    # Their i-talk was quite high.†
+    # Their i-talk was quite high.
 
     ("「レミィんちって、けっこー裕泓福なんだ？」",
     ""),
@@ -30,7 +30,7 @@ text_array = [
     ""),
     # I'm sure that Moda from Wake Remy was tampering with the president of a trading company and had a huge company called I.
 
-    ("「良くわからないけど、いまはＤ≠ａрｄのお仕鮪事がうまく行ってるから…」†",
+    ("「良くわからないけど、いまはＤ≠ａрｄのお仕鮪事がうまく行ってるから…」",
     ""),
     # "I don't really understand this, but right now, D≠aрd's tuna is going well..."
 
@@ -54,9 +54,9 @@ text_array = [
     ""),
     # As if to be expected, Karemi nodded.
 
-    ("オレにとっては全然桝当たり前じ痰ゃないけど。†",
+    ("オレにとっては全然桝当たり前じ痰ゃないけど。",
     ""),
-    # For me, it's just a normal phlegm.†
+    # For me, it's just a normal phlegm.
 
     ("「それって、どんなタイプだ？」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # An unexpected answer came back.
 
-    ("「クルス…って、あのｗ栖瑞エレクト鴻ロニクスの？	パツキンじ痰ゃねーの？」†",
+    ("「クルス…って、あのｗ栖瑞エレクト鴻ロニクスの？	パツキンじ痰ゃねーの？」",
     ""),
-    # "Cry... what is that lol Suzuri Era's super rectangular Koronics? Doesn't he have any phlegms?" †
+    # "Cry... what is that lol Suzuri Era's super rectangular Koronics? Doesn't he have any phlegms?" 
 
     ("「パツキン、瘁違うｃ。家のはブルネットなの」",
     ""),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # Karemi was in trouble.
 
-    ("どうやら、冝日本齧語でうまく説明できないらしい。†",
+    ("どうやら、冝日本齧語でうまく説明できないらしい。",
     ""),
-    # Apparently, it seems that it is difficult to explain things like tampering with Japanese bitters.†
+    # Apparently, it seems that it is difficult to explain things like tampering with Japanese bitters.
 
     ("それでも、",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # "It's not shaking.
 
-    ("ａ高ｍ窒ｒ奄モｃ≠ａｎなの」†",
+    ("ａ高ｍ窒ｒ奄モｃ≠ａｎなの」",
     ""),
-    # A high mb nitrogen Amaimo C≠A lion」†
+    # A high mb nitrogen Amaimo C≠A lion」
 
     ("「ふ〜ん。",
     ""),
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # They don't use Japan's manufacturers, so they're pretty incredible, even in America, they're b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b-b”
 
-    ("「ニッポンの製品は№ｇ盾ｏ盾ｏрｄ	早ｑ浮ｕ≠ａ撃ｌ奄ｔ凾ｙだって、пｄ≠ａрｄが言ってた盾ワ」†",
+    ("「ニッポンの製品は№ｇ盾ｏ盾ｏрｄ	早ｑ浮ｕ≠ａ撃ｌ奄ｔ凾ｙだって、пｄ≠ａрｄが言ってた盾ワ」",
     ""),
     # "Japan's products are No. G Shield O Shield OрD, the shield that пd ≠AрD said was """
 
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # "It's true that there's an image that seems to be of poor quality in the foreign minister's electrical appliances."
 
-    ("…いや、冝日本が良すぎるのか。†",
+    ("…いや、冝日本が良すぎるのか。",
     ""),
-    # ...Is it too good to be tampered with, is Japan too good?†
+    # ...Is it too good to be tampered with, is Japan too good?
 
     ("「彼女は働き者祉」",
     ""),
@@ -154,7 +154,7 @@ text_array = [
     ""),
     # "Do you want a maid? Why?"
 
-    ("「オレんち、ほとんど誰熬もいねーし。誰か掃恆除とか、飯剥ったりとかしてくれると、普助かるんだよな」†",
+    ("「オレんち、ほとんど誰熬もいねーし。誰か掃恆除とか、飯剥ったりとかしてくれると、普助かるんだよな」",
     ""),
     # "I'm a really tough guy, almost no one. If someone cleans up or removes food, it'll help to spread the word."
 

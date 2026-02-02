@@ -2,9 +2,9 @@
 # Source file: 00E8.txt
 
 text_array = [
-    ("（４／２９	固定イベント）閨（＃音子）閨（堰ラジオを全話聞いたときに発生）閨（駅前）†",
+    ("（４／２９	固定イベント）閨（＃音子）閨（堰ラジオを全話聞いたときに発生）閨（駅前）",
     ""),
-    # (4/29) Rei (#Otoko) Rei (octo) Rei (octo) Rei (octo) Rei (octo) Rei (octo) (incident when listening to all episodes of the weir radio) Rei (in front of the station) †
+    # (4/29) Rei (#Otoko) Rei (octo) Rei (octo) Rei (octo) Rei (octo) Rei (octo) (incident when listening to all episodes of the weir radio) Rei (in front of the station) 
 
     ("午後になり、ブラブラと駅前にきたときだ。",
     ""),
@@ -18,9 +18,9 @@ text_array = [
     ""),
     # "Oops"
 
-    ("前から歩いてきた翌女の人と、すれ痰違いざまに肩をぶつけてしまった。†",
+    ("前から歩いてきた翌女の人と、すれ痰違いざまに肩をぶつけてしまった。",
     ""),
-    # The next time I had been walking around for a while, I bumped my shoulders against the woman who had slurped out of my mouth.†
+    # The next time I had been walking around for a while, I bumped my shoulders against the woman who had slurped out of my mouth.
 
     ("「あ、すいません」",
     ""),
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # Huh.
 
-    ("いまの声、なんとなく聞き覚えがあるような、ないような…。†",
+    ("いまの声、なんとなく聞き覚えがあるような、ないような…。",
     ""),
-    # The voices I have now seem to be familiar to or not.†
+    # The voices I have now seem to be familiar to or not.
 
     ("「あれ？」",
     ""),
@@ -58,9 +58,9 @@ text_array = [
     ""),
     # I picked it up and looked at the r and found a train ticket.
 
-    ("名前は『辛≒島灯音子（からしまみねこ）』と曹書かれている。†",
+    ("名前は『辛≒島灯音子（からしまみねこ）』と曹書かれている。",
     ""),
-    # The name is written as "Shin = Karashimamineko".†
+    # The name is written as "Shin = Karashimamineko".
 
     ("辛≒島灯音子？",
     ""),
@@ -74,17 +74,17 @@ text_array = [
     ""),
     # Maybe it's himself!?
 
-    ("ホントかよ。†",
+    ("ホントかよ。",
     ""),
-    # Is it true?†
+    # Is it true?
 
     ("とにかくこいつを届けて、本人かどうか、直接聞いてみよう。",
     ""),
     # Anyway, let's send this guy out and ask him directly if he's the person himself.
 
-    ("オレはその背白に追いつき、声をかけた。†",
+    ("オレはその背白に追いつき、声をかけた。",
     ""),
-    # I caught up with that disdain and called out to me.†
+    # I caught up with that disdain and called out to me.
 
     ("「もしもし」",
     ""),
@@ -98,9 +98,9 @@ text_array = [
     ""),
     # "Um, is this not a mirage?"
 
-    ("オレはパスケースを見せて言った。†",
+    ("オレはパスケースを見せて言った。",
     ""),
-    # I said, showing my pass case.†
+    # I said, showing my pass case.
 
     ("「えっ、あーっ、п私のです！	あれえ、いつ落としたんだ！？」",
     ""),
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # This voice is truly Amano Radio's hot topic.
 
-    ("間違いない。†",
+    ("間違いない。",
     ""),
-    # It must be awkward.†
+    # It must be awkward.
 
     ("「あの、もしかして、みねち痰ゃん…？」",
     ""),
@@ -138,9 +138,9 @@ text_array = [
     ""),
     # It's dangerous.
 
-    ("もしかして、人瘰違いか！？†",
+    ("もしかして、人瘰違いか！？",
     ""),
-    # Perhaps it's a different person!?†
+    # Perhaps it's a different person!?
 
     ("だが、すぐに、",
     ""),
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "Uh, seriously?"
 
-    ("「あのー…」†",
+    ("「あのー…」",
     ""),
-    # "Um..." †
+    # "Um..." 
 
     ("「あっ、オレ、ただのファンです。",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # I've been listening to the radio at any time."
 
-    ("「そうですか、ありがとうございます」†",
+    ("「そうですか、ありがとうございます」",
     ""),
-    # "I see, thank you" †
+    # "I see, thank you" 
 
     ("「あの、突然ですけど、サインいいですか？」",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # "Yay! I'm not phlegm ""
 
-    ("オレは鞄からノートとペンを取り出して、みねち痰ゃんに渡した。†",
+    ("オレは鞄からノートとペンを取り出して、みねち痰ゃんに渡した。",
     ""),
-    # I took a notebook and pen from my bag and handed it to Minecchi Sho-chan.†
+    # I took a notebook and pen from my bag and handed it to Minecchi Sho-chan.
 
     ("「そのノートの表侮に、思う存分デカデカと曹書いてください」",
     ""),
@@ -202,7 +202,7 @@ text_array = [
     ""),
     # "Don't worry, just go as hard as you can."
 
-    ("「そうですか？	じ痰ゃあ｢｢」†",
+    ("「そうですか？	じ痰ゃあ｢｢」",
     ""),
     # "Is that so? """
 
@@ -218,9 +218,9 @@ text_array = [
     ""),
     # It's just a used hot spring.
 
-    ("こういうのって、やっぱり練習するもんなんだうか。†",
+    ("こういうのって、やっぱり練習するもんなんだうか。",
     ""),
-    # This kind of thing is a hot spring that practices fortune after all.†
+    # This kind of thing is a hot spring that practices fortune after all.
 
     ("「はい、どうぞ」",
     ""),
@@ -234,7 +234,7 @@ text_array = [
     ""),
     # "And this is the first time I've ever had such a first time with Kaji listener Fukukata. Did you get it right away?"
 
-    ("「いや、閨定咊期の名前がそのまんまだったし、声だって。話し方とか、堰ラジオのまんまなんですね」†",
+    ("「いや、閨定咊期の名前がそのまんまだったし、声だって。話し方とか、堰ラジオのまんまなんですね」",
     ""),
     # "The name of the stomping period was exactly like that, and the voices were just like that. It's just like talking and the way weir radio."
 
@@ -258,9 +258,9 @@ text_array = [
     ""),
     # "I guess so... hehe."
 
-    ("みねち痰ゃんは複雑そうに笑うと、パスケースを鞄におさめた。†",
+    ("みねち痰ゃんは複雑そうに笑うと、パスケースを鞄におさめた。",
     ""),
-    # Minechou-chan laughed complicatedly and then placed the pass case in a bag.†
+    # Minechou-chan laughed complicatedly and then placed the pass case in a bag.
 
     ("「じつは今厓日燗も奄ラジオの収録なんですよー」",
     ""),
@@ -278,9 +278,9 @@ text_array = [
     ""),
     # I'm not phlegm, why is this a place b?
 
-    ("艨謎だ。†",
+    ("艨謎だ。",
     ""),
-    # It's a mystery.†
+    # It's a mystery.
 
     ("「あの、最纃後にいいですか？」",
     ""),
@@ -298,9 +298,9 @@ text_array = [
     ""),
     # "Ah, yes, it's fine."
 
-    ("オレはみねち痰ゃんとガッチリ握闊手した。†",
+    ("オレはみねち痰ゃんとガッチリ握闊手した。",
     ""),
-    # My hardcore slurping slurping and slurping slurping.†
+    # My hardcore slurping slurping and slurping slurping.
 
     ("「じ痰ゃ、お仕鮪事がんばってください」",
     ""),
@@ -318,9 +318,9 @@ text_array = [
     ""),
     # "That's it, phlegm."
 
-    ("みねち痰ゃんは手を振關り去っていった。†",
+    ("みねち痰ゃんは手を振關り去っていった。",
     ""),
-    # Minechon waved his hand and left.†
+    # Minechon waved his hand and left.
 
     ("うおー、有名人にったぜ。",
     ""),

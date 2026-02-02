@@ -2,9 +2,9 @@
 # Source file: 0245.txt
 
 text_array = [
-    ("（芹°香	好感度イベント	４）閨（好感度が３３以繹上のとき）閨（５桙時間目の休み桙時間）閨（渡闢り廊下）†",
+    ("（芹°香	好感度イベント	４）閨（好感度が３３以繹上のとき）閨（５桙時間目の休み桙時間）閨（渡闢り廊下）",
     ""),
-    # (Sei°Cho Likeability Event 4)Sei (when Likeability is above 33)Sei (Break time in the fifth fox)Sei (Crowd Hallway)†
+    # (Sei°Cho Likeability Event 4)Sei (when Likeability is above 33)Sei (Break time in the fifth fox)Sei (Crowd Hallway)
 
     ("５桙時間目の休み桙時間。",
     ""),
@@ -22,7 +22,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「え、こんにちはって？	おう、こんちわ。こんなとこでなにやってんの？	まだ冾放課繪後じ痰ゃないぜ？」†",
+    ("「え、こんにちはって？	おう、こんちわ。こんなとこでなにやってんの？	まだ冾放課繪後じ痰ゃないぜ？」",
     ""),
     # "Hello? Oh, hello. What are you doing about this? You still have to sputum after the school is over?"
 
@@ -34,7 +34,7 @@ text_array = [
     ""),
     # "You said they were feeding cats? ...Cats are the shit...the other day, the tampering, or the plain black cat.
 
-    ("もしかして部室で飼ってんの？	まあ、見つかんなき痰ゃいいけどさ」†",
+    ("もしかして部室で飼ってんの？	まあ、見つかんなき痰ゃいいけどさ」",
     ""),
     # Maybe they keep it in the club room?Well, I wish there was no phlegm that I couldn't find."
 
@@ -58,17 +58,17 @@ text_array = [
     ""),
     # The uncute cat approached the senior's foot noshi and rubbed her body down as if to be pampered.
 
-    ("すっかりなついてやがる。†",
+    ("すっかりなついてやがる。",
     ""),
-    # He's completely attached to me and tampered with it.†
+    # He's completely attached to me and tampered with it.
 
     ("スリスリ…。",
     ""),
     # Sugata Risugata Ri...
 
-    ("その甘えた仕寬種が、なんかムカつく。†",
+    ("その甘えた仕寬種が、なんかムカつく。",
     ""),
-    # That spoiled supper makes me feel annoyed.†
+    # That spoiled supper makes me feel annoyed.
 
     ("「けどさ、諱先輩」",
     ""),
@@ -78,7 +78,7 @@ text_array = [
     "…"),
     # "..."
 
-    ("「そうやってるとその浮黒ネコ、なんだか先輩の使い魔って感じだよな、ははは」†",
+    ("「そうやってるとその浮黒ネコ、なんだか先輩の使い魔って感じだよな、ははは」",
     ""),
     # "When I tamper with that, that floating black cat feels like a senior's messenger, hahaha."
 
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # "Tamper against it,
 
-    ("と笑った。†",
+    ("と笑った。",
     ""),
-    # I laughed.†
+    # I laughed.
 
     ("「えっ…」",
     ""),

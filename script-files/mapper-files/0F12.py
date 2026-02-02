@@ -2,9 +2,9 @@
 # Source file: 0F12.txt
 
 text_array = [
-    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	雅史）閨（蛛主人公沍勝ち）†",
+    ("（ゲーセンバトル２）閨（冝期槙末テスト繝後篇（ＨＨ））閨（選択綜	雅史）閨（蛛主人公沍勝ち）",
     ""),
-    # (Arcade Battle Cry 2) (Cycle Final Test Part 2 (HbbH)) (Cycle Contest 雅 History) (Mrage Protagonist Wins)†
+    # (Arcade Battle Cry 2) (Cycle Final Test Part 2 (HbbH)) (Cycle Contest 雅 History) (Mrage Protagonist Wins)
 
     ("「雅史〜、もうちょっとうまくなってくれよ」",
     ""),
@@ -14,7 +14,7 @@ text_array = [
     ""),
     # "I'm still not getting enough practice."
 
-    ("「禔練習量って、お前が言うとサッカーの練習みたいに聞こえるな」†",
+    ("「禔練習量って、お前が言うとサッカーの練習みたいに聞こえるな」",
     ""),
     # "When you say "Yu practice amount," it sounds like soccer fortune practice."
 
@@ -38,9 +38,9 @@ text_array = [
     ""),
     # "That's nice though...
 
-    ("よし、やるか」†",
+    ("よし、やるか」",
     ""),
-    # Okay, shall we do it?”†
+    # Okay, shall we do it?”
 
     ("雅史をコーチしつつ、オレ自身熕もゲームを堪能した。",
     ""),

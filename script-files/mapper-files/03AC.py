@@ -2,9 +2,9 @@
 # Source file: 03AC.txt
 
 text_array = [
-    ("（智子	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ａ	もう帰う。	の続き）†",
+    ("（智子	回秤数イベント	帰闍り道	ＬＶ２）閨（選択綜Ａ	もう帰う。	の続き）",
     ""),
-    # (Tomoko's Scales Event Returning Road LV2) (Continued from Chosen Sou A to Return.)†
+    # (Tomoko's Scales Event Returning Road LV2) (Continued from Chosen Sou A to Return.)
 
     ("今厓日はこのぐらいにして、もう帰う。",
     ""),

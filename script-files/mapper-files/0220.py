@@ -2,9 +2,9 @@
 # Source file: 0220.txt
 
 text_array = [
-    ("（芹°香	エンディング）閨（５月２冾日）閨（通峵常のＭＡＰで２Ｆ廊下に配置）閨（要は回秤数を１回揄増竭やす）閨（好感度７まですべて見ていること）†",
+    ("（芹°香	エンディング）閨（５月２冾日）閨（通峵常のＭＡＰで２Ｆ廊下に配置）閨（要は回秤数を１回揄増竭やす）閨（好感度７まですべて見ていること）",
     ""),
-    # (Chinzhou ending)Chin (5th 2nd day of the year)Chin (placed in the second floor corridor in the Tongyu Chang MAP)Chin (It's essentially augmenting the number of scales once)Chin (Looking at everything up to 7 likeability)†
+    # (Chinzhou ending)Chin (5th 2nd day of the year)Chin (placed in the second floor corridor in the Tongyu Chang MAP)Chin (It's essentially augmenting the number of scales once)Chin (Looking at everything up to 7 likeability)
 
     ("「………」",
     "…"),
@@ -14,9 +14,9 @@ text_array = [
     ""),
     # In the hallway just as I left the classroom, I came across @Sumi-Senpai-senpai.
 
-    ("「いよう、諱先輩。なにやってんの？	えっ、オレに用？」†",
+    ("「いよう、諱先輩。なにやってんの？	えっ、オレに用？」",
     ""),
-    # "Stay, Senpai. What are you doing to tamper with? What, is it for me?" †
+    # "Stay, Senpai. What are you doing to tamper with? What, is it for me?" 
 
     ("どうやらまた教室の前で、オレが出てくるまでずっと待ってたらしい。",
     ""),
@@ -30,9 +30,9 @@ text_array = [
     ""),
     # Although he is quite proactive, there are some strange things that are not good at it.
 
-    ("まあ、その辺がじつに先輩なのだが。†",
+    ("まあ、その辺がじつに先輩なのだが。",
     ""),
-    # Well, that's really my senior.†
+    # Well, that's really my senior.
 
     ("「で、用ってのは？」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     "…"),
     # "..."
 
-    ("諱先輩はうつむいて、なにやら恥ずかしそうに言った。†",
+    ("諱先輩はうつむいて、なにやら恥ずかしそうに言った。",
     ""),
-    # Senpai looked down and said with embarrassment, something he had done.†
+    # Senpai looked down and said with embarrassment, something he had done.
 
     ("「えっ？	薬が完成したって？」",
     ""),
@@ -74,9 +74,9 @@ text_array = [
     ""),
     # Senpai made a sad look on his face.
 
-    ("なんだ？†",
+    ("なんだ？",
     ""),
-    # What?†
+    # What?
 
     ("「………」",
     "…"),
@@ -94,9 +94,9 @@ text_array = [
     ""),
     # Tamper, wait.
 
-    ("たしか｢｢。†",
+    ("たしか｢｢。",
     ""),
-    # I'm sure ".†
+    # I'm sure ".
 
     ("「あ、そうだ。",
     ""),
@@ -106,9 +106,9 @@ text_array = [
     ""),
     # After all, if it's a b-magic potion, it's a good idea to get it super tough.Yes, hey, hey!”
 
-    ("「………」†",
+    ("「………」",
     ""),
-    # "..."†
+    # "..."
 
     ("「えっ？	それをどう使うかって？	へへ、′まってんだ？	目の前の先輩に飲ませるんだよ。そんで、オレのこと、好きになってもらうんだ」",
     ""),
@@ -122,17 +122,17 @@ text_array = [
     ""),
     # Hehehe, I lit up and turned my eyes down.
 
-    ("ちょっとした冗談なのに。†",
+    ("ちょっとした冗談なのに。",
     ""),
-    # It's a bit of a joke.†
+    # It's a bit of a joke.
 
     ("「というのは、まあ、轣冗談として…って、ええっ！？	諱頑張ってｍってみますって！？	ホレ薬を！？	マ、マジかよ！？」",
     ""),
     # "Well, as a joke... What?! I'm going to do my best and try it out!? A super-sexual medicine!? Ma, are you serious?!"
 
-    ("こくん。†",
+    ("こくん。",
     ""),
-    # Ko-kun.†
+    # Ko-kun.
 
     ("「あっ、言った、たしかに言った！	えっ？	じ痰ゃあ、それが完成したのか！？」",
     ""),
@@ -142,25 +142,25 @@ text_array = [
     ""),
     # Ko-kun.
 
-    ("うなずく先輩。†",
+    ("うなずく先輩。",
     ""),
-    # Senpai nodded.†
+    # Senpai nodded.
 
     ("「え？	いまから効果を試すから、部室までｗてください…って？」",
     ""),
     # "Huh? I'm going to try the effects now, so please go to the club room lol..."
 
-    ("効果を試すって…。†",
+    ("効果を試すって…。",
     ""),
-    # Try the effect...†
+    # Try the effect...
 
     ("それってつまり、その薬を飲んで、オレを好きになるかどうかを試すってことだよな。",
     ""),
     # That means taking the medicine and trying to see if you'll fall in love with me.
 
-    ("でもよく考えれば、その薬を飲むってこと自体が、すでに好意的な証衷拠だから、どっちに転んだとこで…。†",
+    ("でもよく考えれば、その薬を飲むってこと自体が、すでに好意的な証衷拠だから、どっちに転んだとこで…。",
     ""),
-    # So, if you think about it, taking the medicine itself is already a positive proof, so it's just the way it went...†
+    # So, if you think about it, taking the medicine itself is already a positive proof, so it's just the way it went...
 
     ("おいおい、マジかよ。",
     ""),
@@ -170,9 +170,9 @@ text_array = [
     ""),
     # My face naturally becomes tampered with and lingering.
 
-    ("これはもう、部室に行くか行かないかで、噤答えを出せってことだよな。†",
+    ("これはもう、部室に行くか行かないかで、噤答えを出せってことだよな。",
     ""),
-    # This means that you can get the answer by going to the club room or not.†
+    # This means that you can get the answer by going to the club room or not.
 
     ("オレは、そんな先輩の気搴持ちに｢｢。",
     ""),

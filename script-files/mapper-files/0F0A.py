@@ -2,17 +2,17 @@
 # Source file: 0F0A.txt
 
 text_array = [
-    ("（ゲーセンバトル２）閨（システムイベント	学年又末テスト繝後）閨（３／１９固定）†",
+    ("（ゲーセンバトル２）閨（システムイベント	学年又末テスト繝後）閨（３／１９固定）",
     ""),
-    # (Arcade Battle Cry 2) (System Events: Grade and Final Test) (3/19) †
+    # (Arcade Battle Cry 2) (System Events: Grade and Final Test) (3/19) 
 
     ("「やっと終尞わったね」",
     ""),
     # "It's finally finished."
 
-    ("今度は史がやってきた。†",
+    ("今度は史がやってきた。",
     ""),
-    # This time, I-Hisashi has started tampering with it.†
+    # This time, I-Hisashi has started tampering with it.
 
     ("「諱よう、ごくうさん。どうだった？」",
     ""),
@@ -26,9 +26,9 @@ text_array = [
     ""),
     # "Just judge by this face."
 
-    ("オレがそう言うと、雅史は納得したようにうなずいた。†",
+    ("オレがそう言うと、雅史は納得したようにうなずいた。",
     ""),
-    # When I said that, Makishi nodded in agreement.†
+    # When I said that, Makishi nodded in agreement.
 
     ("「それより、せっかく苦行が終尞わったんだ。今厓日はみんなで遊びにでも行かねーか？」",
     ""),
@@ -46,9 +46,9 @@ text_array = [
     ""),
     # The club's fortune training session will also start from the Ming Shun Day."
 
-    ("「じ痰ゃあな、駅前の｢｢」†",
+    ("「じ痰ゃあな、駅前の｢｢」",
     ""),
-    # "I'm not gonna get smug, I'm in front of the station ""†
+    # "I'm not gonna get smug, I'm in front of the station ""
 
     ("「いたいた…！	お〜い！	！」",
     ""),
@@ -70,7 +70,7 @@ text_array = [
     ""),
     # "...What is it? In a loud voice that seems to ruin the silly sense of accomplishment."
 
-    ("すると、志保はツカツカ窿やってきて、†",
+    ("すると、志保はツカツカ窿やってきて、",
     ""),
     # Then Shiho came over and over again,
 
@@ -90,7 +90,7 @@ text_array = [
     ""),
     # "Why? Don't you have to phlegm like that?"
 
-    ("「いつｌまったんだよ、そんな駆体的に」†",
+    ("「いつｌまったんだよ、そんな駆体的に」",
     ""),
     # "When did you get 1, so in your physical condition"
 
@@ -118,9 +118,9 @@ text_array = [
     ""),
     # That's why I came to the arcade.
 
-    ("テストも終了、しかも明坙日は祝叝日ってこともあり、身熕も心熕も軽竚やかだ。†",
+    ("テストも終了、しかも明坙日は祝叝日ってこともあり、身熕も心熕も軽竚やかだ。",
     ""),
-    # The test termination has ended, and since the day of the Meiang and Ming Shun is a celebration, the body and soul are both light and light.†
+    # The test termination has ended, and since the day of the Meiang and Ming Shun is a celebration, the body and soul are both light and light.
 
     ("「諱第２回、ゲーセンバトル〜！	ドンドン、パフパフ、ヒャーヒャー！」",
     ""),
@@ -130,7 +130,7 @@ text_array = [
     ""),
     # "Eh, are you going to tamper with me again?"
 
-    ("「あれをやらなき痰ゃ始まんないでしょ？」†",
+    ("「あれをやらなき痰ゃ始まんないでしょ？」",
     ""),
     # "If you don't tamper with that, it won't start, is that sputum?"
 
@@ -158,9 +158,9 @@ text_array = [
     ""),
     # "...Not really, no slut."
 
-    ("つき№合ってやっか。†",
+    ("つき№合ってやっか。",
     ""),
-    # Let's tamper with it by matching it.†
+    # Let's tamper with it by matching it.
 
     ("そんなこんなで、選ばれたゲームは…。",
     ""),
@@ -174,9 +174,9 @@ text_array = [
     ""),
     # It's an incomprehensible actuation game in which high school girls in Sanskrit uniforms fight against big hamsters and rabbits.
 
-    ("登齠場キャャラにはなんとなく見覚えがあり、どうも他人の気がしないのは、気のせいか。†",
+    ("登齠場キャャラにはなんとなく見覚えがあり、どうも他人の気がしないのは、気のせいか。",
     ""),
-    # I somehow recognised the registration hall, and I wonder if it's just my imagination that I don't feel like a person.†
+    # I somehow recognised the registration hall, and I wonder if it's just my imagination that I don't feel like a person.
 
     ("前回同様、まずはジャャンケンで対岺戦叶相闡手をｌめる。",
     ""),
@@ -186,9 +186,9 @@ text_array = [
     ""),
     # Also, the battle and my fierce victory was won.
 
-    ("これで指名権はオレにあるってわけだ。†",
+    ("これで指名権はオレにあるってわけだ。",
     ""),
-    # This means that I have the right to nomination.†
+    # This means that I have the right to nomination.
 
     ("諱よし、誰を指名するか。",
     ""),
