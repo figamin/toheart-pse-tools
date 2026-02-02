@@ -6,24 +6,28 @@ text_array = [
     ""),
     # (B Parting up.)
 
-    ("「たまにはそんなのもいいかもな。それじ痰ゃオレ、教室戻髢るわ」",
-    ""),
+    ("「たまにはそんなのもいいかもな。",
+    "That's nice to do sometimes."),
+    ("それじゃオレ、教室戻るわ」",
+    "Well, I'm gonna head back to my classroom."),
     # "Sometimes, I don't mind if it's hot or hot. I'll go crazy, I'll go back to the classroom."
 
-    ("「うん。またねっ」",
-    ""),
+    ("「うん。",
+    "Okay."),
+    ("またねっ」",
+    "See you!"),
     # "Yeah. See you later."
 
-    ("「今厓日は翌風が強いから、飛ばされねー諱ように気をつけよー」",
-    ""),
+    ("「今日は風が強いから、飛ばされねーように気をつけろよー」",
+    "Careful out there, don't let the wind blow you away!"),
     # "The next wind is strong right now, so don't let it fly, be careful not to let it go."
 
     ("「あははっ」",
-    ""),
+    "Haha!"),
     # "Ahaha."
 
-    ("掾理女緒ち痰ゃんは笑いながら階段を上っていった。◯",
-    ""),
+    ("理緒ちゃんは笑いながら階段を上っていった。",
+    "Rio laughs as she makes her way upstairs."),
     # Jorime Ochishon laughed and went up the stairs.◯
 
 ]

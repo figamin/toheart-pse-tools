@@ -6,88 +6,98 @@ text_array = [
     ""),
     # (Erimeo's Likeability Event Oden) (Lunch break) (Dinner) (Dinner) 
 
-    ("「ちっ、今厓日は出遅れたぜ」",
-    ""),
+    ("「ちっ、今日は出遅れたぜ」",
+    "Tch, I got a late start today."),
     # "Tch, the sun has come late right now."
 
-    ("５分ほどр延長された４桙時間目が終尞わるやいなや、オレは食堂めざして猛ダッシャをかけた。",
-    ""),
+    ("５分ほど延長された４時間目が終わるやいなや、オレは食堂めざして猛ダッシュをかけた。",
+    "My fourth period class goes five minutes over, so I have to make a mad dash to the cafeteria."),
     # The fourth frame time, which was extended for about five minutes, ended, was tampered with, and my stomping was rushed to the cafeteria.
 
-    ("しかし、それでもオレお気に入闢りＮ盾ｏ．１のカツサンドはモ買い損ねてしまった。",
-    ""),
+    ("しかし、それでもオレお気に入りＮｏ．１のカツサンドは買い損ねてしまった。",
+    "However, my favorite pork cutlet sandwich has already been sold out."),
     # However, that's why I really liked it.I missed out on buying the cutlet sandwich from 1.
 
-    ("「今厓日はし痰ゃーねえか」",
-    ""),
+    ("「今日はしゃーねえか」",
+    "Guess I won't be having that today."),
     # "You're having some phlegm right now?"
 
-    ("「おおっと、潤ワリィ」",
-    ""),
+    ("「おおっと、ワリィ」",
+    "Oh, sorry."),
     # "Oh, Junwagata Lie."
 
-    ("諱よそ見してたら誰かに思いきりぶつかってしまった。",
-    ""),
+    ("よそ見してたら誰かに思いきりぶつかってしまった。",
+    "I collide into someone while I am looking the other way."),
     # While I was watching my name, I bumped into someone else.
 
-    ("オレが謝骼ると、梶相闡手の翌女の子燻もペコリと頭を下げる。",
-    ""),
+    ("オレが謝ると、相手の女の子もペコリと頭を下げる。",
+    "The girl bows her head as well upon hearing my apology."),
     # When I was so excited, the girl's head was also bowed to the next day after Kaji-san.
 
     ("「いえっ、こちらこそ」",
-    ""),
+    "It's okay! I wasn't looking!"),
     # "No, this is it" 
 
-    ("「って、あれ？	掾理女緒ち痰ゃんじ痰ゃねえか」",
-    ""),
+    ("「って、あれ？",
+    "Wait a minute…"),
+    ("理緒ちゃんじゃねえか」",
+    "Rio?"),
     # "What, huh? Is it phlegmy? Isn't it phlegmy?"
 
-    ("「あれ？	くんだ」",
-    ""),
+    ("「あれ？",
+    "Huh?"),
+    ("くんだ」",
+    "Oh, it's Fujita!"),
     # "Huh? It's damn it."
 
-    ("「悪い悪い。腹減ってボケッとしてたぜ」",
-    ""),
+    ("「悪い悪い。",
+    "Sorry about that."),
+    ("腹減ってボケッとしてたぜ」",
+    "I got distracted by my hunger."),
     # "Bad and bad. I was hungry and bored."
 
-    ("「п私の方こそ。くん、お昼ごはんはこれから？」",
-    ""),
+    ("「私の方こそ。",
+    "I'm sorry too."),
+    ("くん、お昼ごはんはこれから？」",
+    "You're going to have lunch now?"),
     # "It's my Fuku-cho.-kun, are you going to have lunch now?"
 
     ("「まーな」",
-    ""),
+    "Yep."),
     # "Well?"
 
-    ("見骭ると理女緒ち痰ゃんも、意外と大きな弁抹当箱を抱えてる。",
-    ""),
+    ("見ると理緒ちゃんも、意外と大きな弁当箱を抱えてる。",
+    "I see that Rio is holding a surprisingly large lunch box."),
     # When I looked at it, I also surprisingly hold a large bell box.
 
-    ("「なんだ、そっちも≠メシか？」",
-    ""),
+    ("「なんだ、そっちもメシか？」",
+    "You too?"),
     # "What, is that hot water ≠ food?"
 
-    ("「うん。今厓日はいいお天気だから、屋繪上で食べようかと思って」",
-    ""),
+    ("「うん。",
+    "Yeah."),
+    ("今日はいいお天気だから、屋上で食べようかと思って」",
+    "The weather's pretty good today so I was thinking of eating on the rooftop."),
     # "Yes. The weather is nice on the day, so I thought I'd eat at Yae."
 
-    ("「屋繪上かあ」",
-    ""),
+    ("「屋上かあ」",
+    "Rooftop, you say."),
     # "At the house"
 
-    ("最近ちょっと翌風が強いけど、それも気搴持ちよさそうだな。",
-    ""),
+    ("最近ちょっと風が強いけど、それも気持ちよさそうだな。",
+    "It's been a little windy lately, but that might add to the enjoyment."),
     # Recently, the next game has been strong, but it seems like the hot springs will be very good too.
 
     ("オレは…。",
-    ""),
+    "So I say…"),
     # My heart is...
 
-    ("Ａ	いっしょに食おうか？閨",
-    ""),
+    ("Ａ　いっしょに食おうか？",
+    "A. Wanna eat together?"),
     # A Shall we eat it together?Relax
 
-    ("Ｂ	じ痰ゃあな。閨",
-    ""),
+    ("Ｂ　じゃあな。",
+    "B. Enjoy your meal."),
     # B: It's phlegm.Relax
 
 ]
