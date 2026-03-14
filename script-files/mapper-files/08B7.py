@@ -103,7 +103,7 @@ text_array = [
     # "Are you all the girls after the banquet?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「女子ってのは、そー艨ゆーこと好きだねぇ…」",

@@ -483,7 +483,7 @@ text_array = [
     # If it helps to help Senpai's B-Magic Skills, then this guy is worthy of the armour he was born in.Is that b?”
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「諱よかったな、クソネコ。お前には名誉の死が与えられるそうだぜ」",

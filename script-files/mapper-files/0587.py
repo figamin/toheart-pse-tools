@@ -167,7 +167,7 @@ text_array = [
     # A woman who can understand the hot springs can understand the hot springs?
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「それよりも志保」",
@@ -227,7 +227,7 @@ text_array = [
     # Without any stomping or anything, I was just staring at him in a daze.
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("『｢｢お前熨もそうやっていつまでもフラフラしてねーで、なにかこうビシッと、ひとつのことに打ち桙込んでみたらどうだ？』",

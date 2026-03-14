@@ -15,7 +15,7 @@ text_array = [
     # Let's go, phlegm."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("オレは鞄を持って席を立ち上がった。",

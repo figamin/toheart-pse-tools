@@ -103,7 +103,7 @@ text_array = [
     # "...That's a shame. Come on, go up."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("あかりはうなずくと、靴を脱ぎ、きちんとそえた。",
@@ -327,7 +327,7 @@ text_array = [
     # "Oh, I'm a joke, I'm a joke. More importantly, I'm a sincere, I'm a sincere person. I'll focus on that kind of happiness."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「じ痰ゃあ、まずは…」",
@@ -355,7 +355,7 @@ text_array = [
     # "Oh, take care and come home.... The hot spring is also right around the corner."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("笑顔でうなずいた後、あかりは目を細め、うっすらと微笑んだ。",

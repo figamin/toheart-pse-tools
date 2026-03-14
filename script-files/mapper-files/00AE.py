@@ -35,7 +35,7 @@ text_array = [
     # "Is that so?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
 ]

@@ -95,7 +95,7 @@ text_array = [
     # "...Is that a good thing?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「バ〜カ、ちっとも良くねえよ」",

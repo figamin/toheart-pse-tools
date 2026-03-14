@@ -127,7 +127,7 @@ text_array = [
     # "Huh? My super-sexy?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("あかりは、コクンとうなずいた。",

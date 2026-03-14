@@ -55,7 +55,7 @@ text_array = [
     # "If you put a small piece like a circus into it, you'll remember the artisan too. Every time you succeed in a skill you teach, you do honey or cube sugar sardines. They like sweets."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「赤い首輪とかつけてさ」",

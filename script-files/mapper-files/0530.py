@@ -459,7 +459,7 @@ text_array = [
     # "Punch power, punch power."
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("さっきのゲーセンでの話だ。",
@@ -839,7 +839,7 @@ text_array = [
     # The voice of my seniors"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「その声にр私の体が勝闖手に反梍応したんです。",
@@ -939,7 +939,7 @@ text_array = [
     # "I'm two Katsu women, Senpai and I!"
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("「諱先輩がいてくれたからこそ、禔練習熄もあんなに頑張れたし、結果的に実力以繹上のちからを出せたと思うんです。",
@@ -1027,7 +1027,7 @@ text_array = [
     # "...So it's my fault, but I won't be appearing in Kuban Love at the end of the week."
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("そうか、という顔になる。",

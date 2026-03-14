@@ -43,7 +43,7 @@ text_array = [
     # However, as if to break the bond between the two, the door was shut.
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("梶リムジンは静かにタイсヤを鳴逍らし、梶滑驫るように魔走闡りだす。",

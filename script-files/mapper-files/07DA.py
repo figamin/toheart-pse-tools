@@ -59,7 +59,7 @@ text_array = [
     # Kotone Chisho-chan bowed her head and gave a squeal.
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("雰囲気が雰囲気だけに、オレはそれ以繹上声をかけることができなかった。",

@@ -263,7 +263,7 @@ text_array = [
     # "...Akari's spirit is so hard, I knew it."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「ついでにお前の気搴持ちもな」",
@@ -371,7 +371,7 @@ text_array = [
     # "I see. I've been so excited, did you get a feast..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…なあ、オレ思うんだけど…お前、好きなрヤツいるだ」",
@@ -395,7 +395,7 @@ text_array = [
     # "But there's another girl who likes that, and because she's a best friend, she's trying to give it to her ""
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「｢｢瘋違うのか？」",
@@ -459,7 +459,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…じ痰ゃあ、バレなき痰ゃいいんでしょ？」",
@@ -619,7 +619,7 @@ text_array = [
     # "...If that happens, I'll be lonely..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("いつまでもオレたちは、〟仲良し４人組って盾ワケにはいかない。",

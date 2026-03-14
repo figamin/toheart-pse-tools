@@ -31,7 +31,7 @@ text_array = [
     # "Do you both have a hot pot for lunch?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("と、雅史がうなずいて嘯答える。",

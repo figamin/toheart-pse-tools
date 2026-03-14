@@ -155,7 +155,7 @@ text_array = [
     # "Should I get it?"
 
     ("「そうそう」",
-    ""),
+    "Yep."),
     # "oh yeah"
 
     ("そうかぁ？",

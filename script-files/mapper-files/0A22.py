@@ -95,7 +95,7 @@ text_array = [
     # I gave a wry smile.
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("素直にうなずく理女緒ち痰ゃん。",
@@ -131,7 +131,7 @@ text_array = [
     # "Is that what a past life happened?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「はあ〜…。そり痰ゃまあ、すごい話だわな。でもそれが雨となんか関係あんの？」",

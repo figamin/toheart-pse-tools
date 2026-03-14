@@ -47,7 +47,7 @@ text_array = [
     # Do you help me with my fortune practice?”
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("うなずくオレ。",
@@ -235,7 +235,7 @@ text_array = [
     # "Don't hesitate. Also, can Tsume Sakashita defeat him with a kick like this?"
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("「坂下のほうは、いまも組み手とか実寬戦的な練習してるってのに、こんなぬるい練習じ痰ゃ差がつく一箞方だぞ！」",
@@ -283,7 +283,7 @@ text_array = [
     # "What we're doing is fighting over is martial arts, isn't it?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「少なくとも、オレは格闘技站やってるつもりなんだぜ。いちいち蹴闖りが魔当たることなんかにビビっち痰ゃいねーし、たとえ魔当たったってかまわない」",

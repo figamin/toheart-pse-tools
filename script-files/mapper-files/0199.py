@@ -59,7 +59,7 @@ text_array = [
     # "I see, it's the same as the original curriculum in Campe."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("ふたりで話をしながら、坂の下のほうまで下濶りてきた。",

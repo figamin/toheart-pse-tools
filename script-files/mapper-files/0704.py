@@ -255,7 +255,7 @@ text_array = [
     # "That girl said she broke the window, right?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("意味的には、あの子がガラスをр割ったってことになる。",

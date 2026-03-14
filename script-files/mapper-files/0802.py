@@ -255,7 +255,7 @@ text_array = [
     # "I'm sorry for the tone and hot."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…お客サマは、パスタ好き？」",

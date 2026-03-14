@@ -199,7 +199,7 @@ text_array = [
     # "You're so phlegm, don't let the lion fall any more. Maybe because I was hit by a violent slurred, hahaha."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("諱先輩は無表﨣情にオレを見つめている。",
@@ -255,7 +255,7 @@ text_array = [
     # Is it something?”
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「えっ？	諱よくわかんないって？	ふうん、そう。",

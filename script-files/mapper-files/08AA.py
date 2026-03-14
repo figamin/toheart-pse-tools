@@ -27,7 +27,7 @@ text_array = [
     # "Are you going home?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("オレは｢｢。",

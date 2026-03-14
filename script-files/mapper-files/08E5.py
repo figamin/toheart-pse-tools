@@ -27,7 +27,7 @@ text_array = [
     # "What, were you looking for me?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「いったい何の用だ？」",
@@ -51,7 +51,7 @@ text_array = [
     # "Look lol, yell me back?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「なんか珍しいもんでもあるのか？」",
@@ -187,7 +187,7 @@ text_array = [
     # "Maybe it was Ekire Remie!?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("うなずく撃レミィ。",
@@ -579,7 +579,7 @@ text_array = [
     # ""
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「なにか話して」",

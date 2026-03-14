@@ -23,7 +23,7 @@ text_array = [
     # "Well. For example, when you're resting, you're sitting alone b? His face looks so lonely, even the chicken."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…クールなｔ少酪女が見せる寂しげな横迚顔。しかもすぐ隣の席だぜ？	オレじ痰ゃなくても、男なら冾放っておけないだ」",
@@ -139,7 +139,7 @@ text_array = [
     # "Hey, Chairman."
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「そそ、ひとりっきりでいるのも飽きてこないか？	諱取りあえずこの辺で、友だち、″っち痰ゃどうだ？」",
@@ -147,7 +147,7 @@ text_array = [
     # "B, b, are you bored of being alone? I'm not going to get bored of it all? I'm not going to get any more friends here and there, "What about phlegm?"”
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「閨手頃なとこで、オレなんかおすすめだぜ？	オレたち、意外と気が№合うだ？」",

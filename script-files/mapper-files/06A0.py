@@ -39,7 +39,7 @@ text_array = [
     # "Is it a power source?"
 
     ("「そうそう」",
-    ""),
+    "Yep."),
     # "oh yeah"
 
     ("「電気です」",

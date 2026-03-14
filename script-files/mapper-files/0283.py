@@ -35,7 +35,7 @@ text_array = [
     # "What do you mean, if you can't help but think that's enough, you'll feel like you've lost out...Is that the kind of thing that makes you read the punchline of the theory that you're the first to read?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("諱先輩はゆっくりとカードをしまった。",

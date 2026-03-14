@@ -95,7 +95,7 @@ text_array = [
     # "Yeah, that's the heart of wanting someone to eat and get some hot food. That heart will enhance the price-making process to the highest possible price."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("少しの間、考えてから、",

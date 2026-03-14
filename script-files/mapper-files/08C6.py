@@ -99,7 +99,7 @@ text_array = [
     # "...Is that a good thing?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「ちっとも良くねえよ」",

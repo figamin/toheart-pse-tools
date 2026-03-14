@@ -83,7 +83,7 @@ text_array = [
     # "Okay, I'll tamper with you, let's go."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("オレはあかりの肩を押した。",

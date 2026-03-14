@@ -55,7 +55,7 @@ text_array = [
     # "A phlegm, a phlegm, a b, a history of the male."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「なんなの、あのふたり？	おホｃモだちってやつ？」",

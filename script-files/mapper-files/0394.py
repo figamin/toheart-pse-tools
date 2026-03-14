@@ -103,7 +103,7 @@ text_array = [
     # "Yes. He's a group of people who are the chairman's cool, banquet-making banquet lactators."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「その点オレは、＝普段から横迚顔ばっか見てるからな。そのおかたい≠メガネに惑嶸わされず、ち痰ゃーんと素迹顔が見えるんだ」",

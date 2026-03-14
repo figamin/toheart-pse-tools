@@ -27,7 +27,7 @@ text_array = [
     # "Ah, I'll just look out the window."
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("言甯われるまま、オレは窓の外を見た。",

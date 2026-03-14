@@ -1615,7 +1615,7 @@ text_array = [
     # "...Well, it's okay. That guy's half-singing anyway lol."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「諱よし、ちょっと外に出謠ようぜ」",
@@ -1831,7 +1831,7 @@ text_array = [
     # "You know, I liked cherry blossoms."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「ミッキーとかシンディさんとか、みんなで花見に行ったら楽しいだうな」",
@@ -1855,7 +1855,7 @@ text_array = [
     # For the first time I came here, Ekiremi said with a lonely look on his face.
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("雅話がとぎれ、ふたりとも黙ってしまった。",
@@ -1919,7 +1919,7 @@ text_array = [
     # "What?!? If you have phlegm, you'll have to phlegm quite quickly again."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("てっきり１、２週間謚よゆうがあるもんだと思ってたのに。◯",
@@ -2711,7 +2711,7 @@ text_array = [
     # "Hey, was it possible that Ekiremi would remain in Japan from the beginning?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「まさか…、オレの勘違い…？」",

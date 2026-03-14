@@ -39,7 +39,7 @@ text_array = [
     # "You can cut your head off quickly b? Is there still a sense of consciousness at the moment you come across it?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「すぐ意識はなくなるだうけどさ、ほんの少しくらいは大苟丈夫じ痰ゃないかな。だったら、離齬れた自分の胴体とか見えるのかな？」",
@@ -59,7 +59,7 @@ text_array = [
     # Of course, those tampering people aren't alive."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("はっ、しまった。",

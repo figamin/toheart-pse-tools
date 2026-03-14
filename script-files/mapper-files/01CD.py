@@ -27,7 +27,7 @@ text_array = [
     # "He's the guy from last night. Did you look it up lol?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("あかりは、にこにこと笑顔でこたえる。",

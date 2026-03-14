@@ -7,31 +7,31 @@ text_array = [
     # (Eiri Meo, part-time job with the balance event with the rules) (LV1) (School) (School) 
 
     ("つま先をトントンッとやりながら、オレは校舎を出た。",
-    ""),
+    "I tap my toes against the ground as I leave school."),
     # I left the school building, tapping my toes.
 
-    ("「お、今厓日燗もやってる」",
-    ""),
+    ("「お、今日もやってる」",
+    "They're at it again today."),
     # "Oh, I'm currently tampering with the sunkan."
 
-    ("この前と同じ場鰹所で、あの垂巨蜍大なネズミ、いや、堰ラッコがチラシ配阡りを一段賜落させたとこらしかった。",
-    ""),
+    ("この前と同じ場所で、あの巨大なネズミ、いや、ラッコがチラシ配りを一段落させたところらしかった。",
+    "The giant mouse…scratch that, otter is just about to finish up passing out flyers for the day."),
     # It was like the other day that the huge rat, the tattered murmurs, and the dam otters had given them a far cry from the flyer.
 
-    ("この間は理女緒ち痰ゃんがやってたけど、今厓日燗もやってんのかな？",
-    ""),
+    ("この間は理緒ちゃんがやってたけど、今日もやってんのかな？",
+    "Rio was the mascot the other day. Is she the mascot today too?"),
     # The other day, Ochi Symphonyan was tampering with it, but is he still tampering with it now?
 
     ("オレは…。",
-    ""),
+    "I decide to…"),
     # My heart is...
 
-    ("Ａ	見に行く。閨",
-    ""),
+    ("Ａ　見に行く。",
+    "A. Go take a look."),
     # A. I'm going to see it.Relax
 
-    ("Ｂ	そのまま帰誾宅する。閨",
-    ""),
+    ("Ｂ　そのまま帰宅する。",
+    "B. Go straight home."),
     # B I'll go straight home.Relax
 
 ]

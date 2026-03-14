@@ -295,7 +295,7 @@ text_array = [
     # "First of all, the rules are simple. Everyone except yourself. Just shoot b until the full time. However, you can shoot b-skinned funds for $.
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「わかった」",

@@ -127,7 +127,7 @@ text_array = [
     # When I was on the first floor, Kotone Chisho-chan opened her Fukuguchi.
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「…あの、失邇礼ですけど、さっきいっしょにいたひとは…」",

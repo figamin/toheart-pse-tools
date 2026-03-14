@@ -47,7 +47,7 @@ text_array = [
     # "Arrested before making a loud noise. Now we'll let the smoke go."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("こういうあかりの『もしも話』に最纃後までつき№合うと、蛛大葬最纃後は変な方阜のドラマに発展する。",

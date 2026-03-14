@@ -39,7 +39,7 @@ text_array = [
     # It's stupid to look down on the ground just because it's entertainment."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「物語を考えながら構成を練り、さらに絵煌も描かなき痰ゃならないんだぞ。",

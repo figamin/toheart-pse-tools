@@ -95,7 +95,7 @@ text_array = [
     # "Look, take a closer look."
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「縺上にもうひとつ魔薄いのがあるよ」",
@@ -151,7 +151,7 @@ text_array = [
     # "Hey, sputum."
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「虹ってなんだと思う？」",

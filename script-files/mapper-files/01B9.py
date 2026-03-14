@@ -23,7 +23,7 @@ text_array = [
     # "Are you going back?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「じ痰ゃあ、いっしょに帰うぜ」",

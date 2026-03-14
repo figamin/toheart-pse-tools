@@ -259,7 +259,7 @@ text_array = [
     # Masochi began to say something.
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「…」",
@@ -271,7 +271,7 @@ text_array = [
     # "What? With a fresh face."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「＝早く言えよ」",

@@ -79,7 +79,7 @@ text_array = [
     # "Is it for something?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("うれしそうな顔でうなずく、あかり。",
@@ -103,7 +103,7 @@ text_array = [
     # "Dinner?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("うれしい申し出だ。",

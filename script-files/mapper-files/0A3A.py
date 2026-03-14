@@ -7,19 +7,19 @@ text_array = [
     # (B: Stop it.)
 
     ("やめておこう。",
-    ""),
+    "I'm not doing this."),
     # Let's stop.
 
-    ("どうもあいつは苦闍手だ。",
-    ""),
+    ("どうもあいつは苦手だ。",
+    "I'm not comfortable with him."),
     # No matter how you say he's in trouble, he's in trouble.
 
-    ("さいわい、′こうも猫を追うのに夢亦で、こっちに気づいた様子はない。",
-    ""),
+    ("さいわい、向こうも猫を追うのに夢中で、こっちに気づいた様子はない。",
+    "Fortunately, he's too busy chasing the cat around to notice me."),
     # It's also a dream to pursue a cat, and it doesn't seem to have noticed this.
 
-    ("オレは、さっさとその場を離齬れた。◯",
-    ""),
+    ("オレは、さっさとその場を離れた。",
+    "I quickly left the place."),
     # My gang quickly broke away from the situation.◯
 
 ]

@@ -87,7 +87,7 @@ text_array = [
     # "That's right. As expected of a man, he has a wealth of energy, and somehow he has been made aware of his phlegm differences."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("艨ゆったりと魔走闡り去っていく鰍リムジン。",

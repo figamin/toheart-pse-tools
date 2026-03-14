@@ -39,7 +39,7 @@ text_array = [
     # "Is that really true? That's the official phlegm, remember the official phobia, so if there's no slut."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「お先真っ暗だな」",
@@ -79,7 +79,7 @@ text_array = [
     # "It's phlegm."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「じ痰ゃあ、べつの教科で頑張れよ。化学とか、現社とか」",

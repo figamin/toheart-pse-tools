@@ -91,7 +91,7 @@ text_array = [
     # At that time,
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("マルチの横にもうひとり、見慣れない顔がいることに気がついた。",
@@ -327,7 +327,7 @@ text_array = [
     # "It's a type of first-time weave type, so it doesn't have high-quality functions, and it's often a mess, so Haruki-san keeps scolding me for the first time."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「謝骼るときも、『ａモウシ純ワケゴザイマセン』って、も機械音声で、それが神経逆なでするらしく、春木さんの怒體ること怒體ること。",

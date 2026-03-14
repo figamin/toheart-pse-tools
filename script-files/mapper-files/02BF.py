@@ -107,7 +107,7 @@ text_array = [
     # You're going to get mad to tell your senior?
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「とにかく、諱先輩、こっちへおいで！」",

@@ -43,7 +43,7 @@ text_array = [
     # "I want to rub my cheek, that's all."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("すりすりすりすり。",

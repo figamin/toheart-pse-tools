@@ -83,7 +83,7 @@ text_array = [
     # "Ah, that's right."
 
     ("「そうそう」",
-    ""),
+    "Yep."),
     # "oh yeah"
 
     ("オレがうなずいて言うと、葵ち痰ゃんはなにやら嬉しそうに微笑んだ。",
@@ -499,7 +499,7 @@ text_array = [
     # It's like hitting a little more on the Sharp..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「あの、どうしました？」",

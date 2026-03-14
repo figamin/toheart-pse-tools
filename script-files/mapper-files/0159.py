@@ -19,7 +19,7 @@ text_array = [
     # "Oh, until then, let's kill time with Tomomata."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("引き出しのｒからトランプを取り出した。",
@@ -59,7 +59,7 @@ text_array = [
     # "Okay, let's start. First of all, you."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("そして、オレ対あかりの『神経褐衰辮弱沁勝縁負』が始まった。",
@@ -139,7 +139,7 @@ text_array = [
     # "Is this the current "Akari Gyagu"?
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「おもしくねー」",
@@ -183,7 +183,7 @@ text_array = [
     # "Don't take it seriously"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…なんだよ？」",
@@ -523,7 +523,7 @@ text_array = [
     # He thrusts out the empty Mo tea bowl.
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「こんな短い桙時間で、そつなくまとめあげるとは、お前熨もやるようになったもんだなァ」",
@@ -635,7 +635,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("どこかそわそわし、氏落ちｒかないふたり。",

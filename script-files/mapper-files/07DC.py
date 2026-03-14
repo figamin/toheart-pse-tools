@@ -11,7 +11,7 @@ text_array = [
     # "I'm not impressed that they're going to sail the banquet."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「なあ、マジであのガラスをр割ったのか？」",

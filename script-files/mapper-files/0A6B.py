@@ -2,124 +2,138 @@
 # Source file: 0A6B.txt
 
 text_array = [
-    ("（Ａ	掾理女緒を追いかける。）",
+    ("（Ａ　理緒を追いかける。）",
     ""),
     # (A chases after Erimoo.)
 
-    ("「悪い、あかり。オレ、ちょっと先に行く」",
-    ""),
+    ("「悪い、あかり。",
+    "Sorry, Akari,"),
+    ("オレ、ちょっと先に行く」",
+    "I gotta go."),
     # "Sorry, Akari. I'm going ahead, huh."
 
     ("オレの言いたいことをなんとなく察したのか、あかりはキョトンとしたままうなずく。",
-    ""),
+    "Akari must have understood what I am trying to say, because she gives me a little nod."),
     # Akari nodded, squealingly, perhaps because he had somehow understood what I was trying to say.
 
-    ("そしてオレは理女緒ち痰ゃんの後を追った。◯",
-    ""),
+    ("そしてオレは理緒ちゃんの後を追った。",
+    "I quickly chase after Rio."),
     # And I followed the slut after the slut.◯
 
-    ("「あれ？	くん？」",
+    ("「あれ？",
+    "Fujita?"),
+    ("くん？」",
     ""),
     # "Huh? K-kun?"
 
-    ("「なんだよ、急に魔走ってっちまってさ」",
-    ""),
+    ("「なんだよ、急に走ってっちまってさ」",
+    "Why'd you run away so suddenly?"),
     # "What is it? You suddenly run over the demon."
 
-    ("「に、冝日直だから｢｢」",
-    ""),
+    ("「に、日直だから",
+    "I-I have cleaning duty…"),
     # "It's a day so ""
 
     ("「なんだか気をつかわせちまったみたいだな」",
-    ""),
+    "Seemed more like you were trying to be mindful of us."),
     # "It looks like I was worried about it and ended up falling for a while."
 
     ("「え？」",
-    ""),
+    "What?"),
     # "picture?"
 
-    ("「オレとあかりに遠慮したんだ？」",
-    ""),
+    ("「オレとあかりに遠慮したんだろ？」",
+    "You wanted to give Akari and me some space, right?"),
     # "Did you refrain from being a tangible person and Akari?"
 
-    ("「う、うん。じつはそう…。な、なんだか、すごく№仲良くて楽しそうなんだもん。ジャャマしち痰ゃ悪いなって思っち痰ゃって」",
-    ""),
+    ("「う、うん。",
+    "Actually…"),
+    ("じつはそう…。",
+    "yes."),
+    ("な、なんだか、すごく仲良くて楽しそうなんだもん。",
+    "You seemed really close and clearly enjoyed each other's company,"),
+    ("ジャマしちゃ悪いなって思っちゃって」",
+    "and I didn't want to intrude."),
     # "Uh, yes. Actually, that's true... I mean, it's really good, and it looks like it's fun. I think phlegm is bad, and phlegm is bad."
 
-    ("掾理女緒ち痰ゃんに、自分を鈍感なрヤツと思寬わせちまったようだな。",
-    ""),
+    ("理緒ちゃんに、自分を鈍感なヤツと思わせちまったようだな。",
+    "Looks like I've made her think I'm some sort of insensitive dullard."),
     # It seems that he has made him think of himself as an insensitive guy.
 
     ("「べつに、そうでもないんだけどさ」",
-    ""),
+    "It's not what you think."),
     # "And so, there's no hot water."
 
-    ("「でもやっぱり、くんって、神岸さんと№仲が良いんだよね？」",
-    ""),
+    ("「でもやっぱり、",
+    "But you are close to Kamigishi,"),
+    ("くんって、神岸さんと仲が良いんだよね？」",
+    "aren't you?"),
     # "And as expected, Kang is good friends with Kamigishi, right?"
 
-    ("「そり痰ゃまあ、あいつとはもう長いつき№合いだからな」",
-    ""),
+    ("「そりゃまあ、あいつとはもう長いつき合いだからな」",
+    "I mean, we've known each other for a long time."),
     # "Ah, that's a long time, and I'm not a match for him."
 
-    ("「つ、つき№合ってるとかじ痰ゃ、ないんだ…？」",
-    ""),
+    ("「つ、つき合ってるとかじゃ、ないんだ…？」",
+    "Y-You're not dating…?"),
     # "Isn't there a phlegm that's right for you?" 
 
-    ("「そんなわけじ痰ゃねー諱よ。あいつは、ただの幼なじみだから」",
-    ""),
+    ("「そんなわけじゃねーよ。",
+    "Of course not."),
+    ("あいつは、ただの幼なじみだから」",
+    "She's just a childhood friend."),
     # "There's no need to worry about that kind of thing, your name is. He's just a childhood friend."
 
     ("そして、",
-    ""),
+    "And…"),
     # and,
 
-    ("「まっ、諱よく勘違いされっけどな」",
-    ""),
+    ("「まっ、よく勘違いされっけどな」",
+    "Lots of people make the same mistake."),
     # "Well, I'm often misunderstood."
 
     ("と、笑って見せた。",
-    ""),
+    "I add with a smile."),
     # He laughed and showed it.
 
     ("「そ、そうなんだ…」",
-    ""),
+    "I-I see…"),
     # "Oh, that's right..."
 
-    ("心なしか、そうつぶやく理女緒ち痰ゃんの声は嬉しそうだった。",
-    ""),
+    ("心なしか、そうつぶやく理緒ちゃんの声は嬉しそうだった。",
+    "Rio sounds somewhat happy as she mumbles that."),
     # In spite of her heart, the voice of Ochi-san who was muttering was so happy.
 
-    ("「′解、とけた？」",
-    ""),
+    ("「誤解、とけた？」",
+    "Did that clear up the misunderstanding?"),
     # "'Did you solve it, did you solve it?"
 
-    ("「ご、′解とか、そういうんじ痰ゃ｢｢」",
-    ""),
+    ("「ご、誤解とか、そういうんじゃ",
+    "M-Misunderstanding? I wasn't…"),
     # "Oh, it's like that, so it's a bit of a phlegm ""
 
     ("そう言いかけて、",
-    ""),
+    "She stops short."),
     # Say that,
 
-    ("「…ちょっと、ほっとしち痰ゃった…」",
-    ""),
+    ("「…ちょっと、ほっとしちゃった…」",
+    "I do feel a little relieved."),
     # "...I felt relieved and relieved..."
 
-    ("「それじ痰ゃр私、冝日直があるから」",
-    ""),
+    ("「それじゃ私、日直があるから」",
+    "But I still have to go for cleaning duty, so bye!"),
     # "That's because I have a sputum."
 
-    ("なんだ、冝日直は本末当だったのか。",
-    ""),
+    ("なんだ、日直は本当だったのか。",
+    "Oh, she really does have cleaning duty huh?"),
     # What, was the day of the day just right?
 
-    ("「ああ、それじ痰ゃーな」",
-    ""),
+    ("「ああ、それじゃーな」",
+    "Yeah, see ya."),
     # "Ah, that's a phlegm."
 
-    ("しかし、ま、なんにしても、掾理女緒ち痰ゃんにへんな思い桙込みをされずにすんだな。◯",
-    ""),
+    ("しかし、ま、なんにしても、理緒ちゃんにへんな思い込みをされずにすんだな。",
+    "Thankfully, I manage to clear the air with her."),
     # But, anyway, no matter how you say it, you don't have to be made to have strange thoughts from the sphinx.◯
 
 ]

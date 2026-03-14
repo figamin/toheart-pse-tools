@@ -75,7 +75,7 @@ text_array = [
     # "Whoa, when I'm in Hayatokoku, I don't have a hot spring..."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("オレの返抹事は｢｢。",

@@ -31,7 +31,7 @@ text_array = [
     # As I was about to start walking, Karemi called out.
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「…Ｓ	凵ｙ盾ｏ浮ｕ	ｌ≠ａｔ窒ｒ」",

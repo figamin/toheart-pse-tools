@@ -55,7 +55,7 @@ text_array = [
     # "...Hmm. That's right, when you say that, it's true that Makruchi has been a shaky thing."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「なんてったって、他の高ロボットに比べて、ダントツで親しみやすい」",

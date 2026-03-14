@@ -55,7 +55,7 @@ text_array = [
     # Kotone Chisho-chan bowed her head and gave a squeal.
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("なんか急にブルーが入った琴音ち痰ゃんを、オレは黙って見洛送るしかなかった。",

@@ -63,7 +63,7 @@ text_array = [
     # "So, take a breather from studying."
 
     ("「そうそう」",
-    ""),
+    "Yep."),
     # "oh yeah"
 
     ("「佐藤くんなら、そんなに根をつめなくても大苟丈夫でしょ？」",

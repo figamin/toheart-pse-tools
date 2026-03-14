@@ -119,7 +119,7 @@ text_array = [
     # "Lost? *Do you have any phlegms?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「んじ痰ゃ、交番へ｢｢」",
@@ -303,7 +303,7 @@ text_array = [
     # "N shield o bath lol ≠ ah y. I'm a shield lol that never returns."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("彼女の言葉に強い責任感みたいなものを感じて、オレは黙ってうなずいた。",
@@ -523,7 +523,7 @@ text_array = [
     # "I see... I hope that you will become an adult (?) who can't leave the lost child behind, as you'll see Remi-san and me."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("そんな話をしながら、オレは撃レミィと駅前で別れた。◯",

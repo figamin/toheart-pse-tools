@@ -167,7 +167,7 @@ text_array = [
     # "Ah, ah, a history of the male."
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("Ａ	がんばれよ。閨",

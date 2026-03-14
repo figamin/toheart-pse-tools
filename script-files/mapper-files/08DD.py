@@ -259,7 +259,7 @@ text_array = [
     # "...Haha Remie, is that just an English voice?!"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「しまった〜っ；」",

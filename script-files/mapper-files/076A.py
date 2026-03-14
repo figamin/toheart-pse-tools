@@ -139,7 +139,7 @@ text_array = [
     # "You're tired? That's what I see to you."
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("目を嘯伏せる琴音ち痰ゃん。",

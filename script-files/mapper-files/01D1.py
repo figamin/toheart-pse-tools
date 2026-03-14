@@ -15,7 +15,7 @@ text_array = [
     # When I say it,
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("あかりは大きくうなずいた。",

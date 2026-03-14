@@ -39,7 +39,7 @@ text_array = [
     # To put it loudly,
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("と、声が返ってきた。",

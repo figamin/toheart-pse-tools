@@ -75,7 +75,7 @@ text_array = [
     # "This year, Aoi was able to find out that she went to our B High School lol, Iso the next day, and I was so happy. I was looking forward to seeing that she could make a Skywalker with Aoi again."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「部の先輩たちもすごく冾期待してるんだよ。葵のこと説明したら、みんなｊんでくれて。…まあ、それは勝闖手に話を進めち痰ゃったр私が悪いんだけど」",
@@ -123,7 +123,7 @@ text_array = [
     # The sudden impact of Aoi Chisho-ya's sudden shock makes Haisakashita look surprised.
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("葵ち痰ゃん自身熕も気まずくなったのか、目をそらす。",
@@ -231,7 +231,7 @@ text_array = [
     # "I can't say that it's bad in itself. I think it's a good thing that a man who has been so skinny and has won the best interest."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「でも、いっしょに空闍手をやってきた人間として見骭ると、いまの彼女はすごく不愉快なの」",
@@ -263,7 +263,7 @@ text_array = [
     # In fact, yes, Aoi, like you!”
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("「こんな翌風潮がこのまま加速したら、空闍手はどうなっち痰ゃうと思う？",
@@ -439,7 +439,7 @@ text_array = [
     # In fact, I've never beaten a lot of my girlfriend in a lion test session even after I've had a smoky smoke.
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「けどそれは綾∴香が現役だったこの話譏よ。いまは痰違うわ。",
@@ -483,7 +483,7 @@ text_array = [
     # "You're so yelling, slut? It's clear who will develop your skills, you, who's doing some crazy training at a bonito spot like this, or me, who keeps playing the Skywalk."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「ち痰ゃんとしたジムでトレーナーの指導を受けているならまだしも、こんなとこで独学でやって強くなれるほど格闘技は甘くないわ。あなたがやってるのは、梶所詮、ごっこ遊びのр延長でしかないのよ！」",
@@ -571,7 +571,7 @@ text_array = [
     # "Is my love for the banquet extension of pretend play? Is Aoi Chisho-chan becoming weaker? Asakashita, you, even though you don't know what hot springs are, you can often do that in your lucky mouth."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「葵ち痰ゃんがｖ淫俣冾ﾇれだけ努力をしてるか、一度でも見たことあんのかよ？」",
@@ -587,7 +587,7 @@ text_array = [
     # "How hard this girl has been practicing so hard for the rest of her life, have you ever seen it?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「吹武道の精神が、どうしたとかも言ってたな。葵ち痰ゃんがその精神を忘齧れたとでも思ってるのか？	この子の強くなりたいって気搴持ち、そのための努力と根性、どれをとっても一沿級品だぜ」",
@@ -595,7 +595,7 @@ text_array = [
     # "What's wrong with the spirit of Fuki Martial Arts? Does Kao think that Aoi Chisho-yan has forgotten that spirit? This girl is determined to want to be strong, and what effort and determination are taken to achieve this, is also a top-class product."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「精神鍛錬こそが垂武道の目的って言うんなら、この子がやってるのは断じて遊びなんかじ痰ゃない。間違いなく立派な垂武道だ！	このオレが断言してやる！」",
@@ -611,7 +611,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…」",
@@ -651,7 +651,7 @@ text_array = [
     # "Oh, are you so intense?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「オ、オレはだな、その、つまり｢｢」",

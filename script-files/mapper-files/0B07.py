@@ -31,7 +31,7 @@ text_array = [
     # "What? You're so happy to be a male? Hehe, you're so incredibly excited."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「あっ、そう言えばさ、この間、諱先輩のｖにったぜ。綾∴香ってやつ」",

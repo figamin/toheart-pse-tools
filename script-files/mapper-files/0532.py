@@ -583,7 +583,7 @@ text_array = [
     # "At the very first time I didn't know about the hot springs. Because the only thing that makes me feel lonely is the Fuku Practice Potato. I was at home and talking to my friends at school, and it felt like the gaps between them weren't filling up."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「でも、諱ようやく気がつきました」",
@@ -675,7 +675,7 @@ text_array = [
     # "пMe..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「п私は…」",
@@ -683,7 +683,7 @@ text_array = [
     # "пI'm..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「………」",
@@ -691,7 +691,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("葵ち痰ゃんの体が小さく震えていた。",
@@ -731,7 +731,7 @@ text_array = [
     # "I like my senior name."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「п私の正直な気搴持ちです」",
@@ -739,7 +739,7 @@ text_array = [
     # "My honest spirit is my own."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「帰ってきたら打ち明けようと、心にｌめていました」",
@@ -747,7 +747,7 @@ text_array = [
     # "I was in my mind trying to reveal it when I got home."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「こんな突然で迷惑だとは思いましたけど、正直に言いたかったんです」",
@@ -755,7 +755,7 @@ text_array = [
     # "I thought it was such a sudden and annoying thing, but I wanted to be honest."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「п私、諱先輩には隠しごとしたくないんです。なんでも話し№合えるようになりたいんです。だから…」",
@@ -783,7 +783,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("勇気を出して打ち明け、その後、どうしていいかわからない、葵ち痰ゃん。",
@@ -963,7 +963,7 @@ text_array = [
     # "Because the girl who was the cutest and the cutest girl for me, the most slutty girl, made a comment that she liked me?"
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("「へへへ…」",
@@ -991,7 +991,7 @@ text_array = [
     # "...Um, Senpai."
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「今厓日、少し遅くなっても構いませんか？」",
@@ -1071,7 +1071,7 @@ text_array = [
     # "To be honest, I've thought a few times that I should stop tampering."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…少し前まで、п私、悩んでばかりでした。いまやってることが、正しいのか、間違ってるのか、わからなくて…。だから好恵さんにクラブをやめと言甯われたときも、ずいぶん揺逞らいだんです」",
@@ -1079,7 +1079,7 @@ text_array = [
     # "...Until a while ago, I was always worried. I didn't know if what I was doing right now was correct or wrong... So when Yoshie told me to stop tampering with the love of the banquet, I was also quite shaking."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「本末当に人を集められるのか…。こんなことで綾∴香さんに追いつけるのか…。",
@@ -1115,7 +1115,7 @@ text_array = [
     # "People who are tampering with new things are so many troubled and worried, and are also lingering with anxiety."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「そういうのを乗闖り越えて、それでも前に進熕もうってрヤツが、本末当に強くなってくんじ痰ゃねーのかな」",
@@ -1163,7 +1163,7 @@ text_array = [
     # "I was confused, worried, worried, and worried, and thought about stopping tampering, but my senior fellow sent me a backlash. I was so strong that it wasn't wrong."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「不思議なんですよ。",
@@ -1255,7 +1255,7 @@ text_array = [
     # "Isaac Senpai..."
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「これからも、くじけそうなとき、堰負けそうなとき、おたがいで励まし№合える№仲になれるといいですね」",

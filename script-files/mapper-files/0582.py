@@ -435,7 +435,7 @@ text_array = [
     # "Who are the other members?"
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("「休み？」",

@@ -303,7 +303,7 @@ text_array = [
     # "Listen, listen to it."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("志保はうなずくと、急にあらたまった。",

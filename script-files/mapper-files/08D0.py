@@ -139,7 +139,7 @@ text_array = [
     # "Is the Bowlat Ring Mudland?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("オレは撃レミィにこれから行くボウリング黹場の説明をした。",
@@ -199,7 +199,7 @@ text_array = [
     # "Let's borrow Shars, let's borrow it."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("自販機みたいな貸出機で、シャーズを借りたら、お次はボールだ。",
@@ -419,7 +419,7 @@ text_array = [
     # "Anyway, come on, try it b."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("ボールを手渡すと、レミィはその場でボールを構えた。",
@@ -451,7 +451,7 @@ text_array = [
     # "From the very first time, it's already the first time."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("レミィはもう一度構えをとった。",

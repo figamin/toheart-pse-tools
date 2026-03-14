@@ -267,7 +267,7 @@ text_array = [
     # "And the hot spring..."
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「多いは多いできっと楽しいと思いますけど、ふたりっきりも楽しいですよね」",
@@ -315,7 +315,7 @@ text_array = [
     # "Nahhahaha"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「諱よし、じ痰ゃあ、禔練習を始めよっか。まずは、なにから？」",
@@ -707,7 +707,7 @@ text_array = [
     # "Essentially, I'm a quadruple hitter type, so I'm a tough guy to grab."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("葵ち痰ゃんの薰基本は空闍手だからな。",
@@ -803,7 +803,7 @@ text_array = [
     # "Hey hey, you're telling me you're so buddy, why do you need to apologize? That's weird."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「今厓日はやられっぱなしだったけど、氈次からはそう簡単に取邇らせねーからな。だいぶコツも飲み桙込めたし」",

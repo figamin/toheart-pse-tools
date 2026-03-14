@@ -31,7 +31,7 @@ text_array = [
     # "Myrna, we're going to do our best together."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「どうだ？	終尞わったら、志保逡らも誘って、どっか遊びにでも行かねーか」",

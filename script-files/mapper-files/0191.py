@@ -35,7 +35,7 @@ text_array = [
     # "Your mother, Ho is crying too. 'Akari, let me go back to that kind person b'"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「オレも見損なったぞ。まさかお前が殺しをやるような翌女だったとは…」",

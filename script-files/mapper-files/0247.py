@@ -55,7 +55,7 @@ text_array = [
     # After all, if it's a b-magic potion, it's a good idea to get it super tough.Yes, hey, hey!”
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「えっ？	それをどう使うかって？	へへ、′まってんだ？	目の前の先輩に飲ませるんだよ。そんで、オレのこと、好きになってもらうんだ」",

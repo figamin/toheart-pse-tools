@@ -23,7 +23,7 @@ text_array = [
     # "Well, I guess it was worth the effort you put in with me."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「それにしても、一驤夜漬けにしてこのでき、もしかしてオレって、真面目にやったらかなりスゲーんじ痰ゃねーか？」",

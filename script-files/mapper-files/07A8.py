@@ -15,7 +15,7 @@ text_array = [
     # Suddenly, I was called out after the attack, and my anger replied.
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("琴音ち痰ゃんだ。",

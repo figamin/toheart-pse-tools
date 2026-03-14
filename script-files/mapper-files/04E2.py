@@ -159,7 +159,7 @@ text_array = [
     # "I want a rubber band or Se-Hong Rotape."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("微笑みながら、束ねたティッシャを広げるふた",
@@ -219,7 +219,7 @@ text_array = [
     # "And the hot springs are nostalgic too."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("そう言って笑い№合うふたり。",
@@ -415,7 +415,7 @@ text_array = [
     # If I help you and get some hot water, it's really helpful."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("そういうことになって、今度はあたしとあかりでｍ骰ることになったのよ。",
@@ -463,7 +463,7 @@ text_array = [
     # "The other two really thought that they'd come home, and that I might as well have come home."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「怒った？」",
@@ -507,7 +507,7 @@ text_array = [
     # "That face looks pretty dangerous."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「あたしがいっしょに行って魔事諶情を説明したげる」",
@@ -531,7 +531,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「長岡さん｢｢」",
@@ -571,7 +571,7 @@ text_array = [
     # "Oh? That's boring."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「あたしは長岡志保。カ純ワイく『志保ち痰ゃん』って呼んでくれると嬉しいわね〜」",
@@ -595,7 +595,7 @@ text_array = [
     # "That's how I explained my magical feelings to the old lady, and it all ended up being a complete suffrage. Then, we became friends."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「そういやそんな話があったよなぁ」",

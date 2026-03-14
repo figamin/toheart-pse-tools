@@ -27,7 +27,7 @@ text_array = [
     # "Are you a part-time job?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「学校終尞わってすぐだってのに、蛛大変だな」",

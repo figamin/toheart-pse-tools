@@ -47,7 +47,7 @@ text_array = [
     # What was Rimo Ochi's Shoyaan?”
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「『ん？』じ痰ゃなくて、テスト」",

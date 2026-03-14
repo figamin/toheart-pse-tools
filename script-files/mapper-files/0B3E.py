@@ -111,7 +111,7 @@ text_array = [
     # "Yeah, there's a tough attack, M-shot. You're a sister, so you know a weak point, right?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「えっ？	ヘビが凾嫌い？」",

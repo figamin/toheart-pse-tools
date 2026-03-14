@@ -91,7 +91,7 @@ text_array = [
     # Let's go that area.
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("そこで気がついた。",

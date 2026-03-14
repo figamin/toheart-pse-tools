@@ -111,7 +111,7 @@ text_array = [
     # "Tsniff, thanks to you, I was saved."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「ああ、諱よかったですねぇ」",

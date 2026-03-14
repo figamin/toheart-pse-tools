@@ -75,7 +75,7 @@ text_array = [
     # When I heard, my boyfriend and woman looked down at me for a moment in a sad, gross-like atmosphere.
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「からかいにきたんじ痰ゃねえんだ。ちょっと信じられねえからさ、確かめてみようと思ってな」",

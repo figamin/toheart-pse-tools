@@ -115,7 +115,7 @@ text_array = [
     # I'm shortening the name like Japan."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「で、ＳＦってどんな街なんだ？」",

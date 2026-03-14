@@ -51,7 +51,7 @@ text_array = [
     # Come quickly"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("レミィはパタパタと駆けていった。",
@@ -99,7 +99,7 @@ text_array = [
     # "I see. So you want me to tell you the question of the tampering of Ogata Rijina's crying?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「たとえばさ、どれくらいの問題だ？	オレはこう見えても、クイズにはうるさいからな。",

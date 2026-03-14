@@ -83,7 +83,7 @@ text_array = [
     # "Is it just a day?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「さあ」",

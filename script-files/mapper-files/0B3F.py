@@ -51,7 +51,7 @@ text_array = [
     # "A good way to become stronger?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「どうしたんですか、突然？」",

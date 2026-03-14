@@ -31,7 +31,7 @@ text_array = [
     # "Are you coming back?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("うなずくあかり。",

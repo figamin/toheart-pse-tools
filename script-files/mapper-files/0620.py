@@ -271,7 +271,7 @@ text_array = [
     # "Yes... um, in the place b, san?"
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「今厓日はなにか、ご予定はおありですか？」",

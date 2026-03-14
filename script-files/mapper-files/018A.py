@@ -27,7 +27,7 @@ text_array = [
     # "I'm sure I'll just have other favorites from other Shichio."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「それと｢｢」",

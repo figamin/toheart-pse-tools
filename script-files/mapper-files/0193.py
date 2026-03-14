@@ -55,7 +55,7 @@ text_array = [
     # "I folded it neatly again, put it in a drawer, and whenever the hot springs are ready to stand by, they don't have the hot springs, so I hardly use the equipment."
 
     ("「そうそう」",
-    ""),
+    "Yep."),
     # "oh yeah"
 
     ("「コンビニの袋、蛛大量にため桙込んでねーか？」",

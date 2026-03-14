@@ -315,7 +315,7 @@ text_array = [
     # "It's true that I'm a tranquilizer."
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("思寬わず言葉に詰まるオレ。",
@@ -383,7 +383,7 @@ text_array = [
     # I'm trying to make it seem like I'm just trying to be like that."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「きっと、格闘技をやっているときのр私が、いちばんр私邇らしい気がしますから」",
@@ -391,7 +391,7 @@ text_array = [
     # "I'm sure I feel like I'm the one who's the one who's tampering with martial arts."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("なんというか、葵ち痰ゃんのふたつの瞳には光が宿っていた。",

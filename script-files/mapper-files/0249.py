@@ -443,7 +443,7 @@ text_array = [
     # At that time, my senior came to the test, saying, "I've kept you waiting."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「うおっ！」",
@@ -671,7 +671,7 @@ text_array = [
     # "..."
 
     ("「そうそう」",
-    ""),
+    "Yep."),
     # "oh yeah"
 
     ("ばし痰ゃばし痰ゃ…。",
@@ -775,7 +775,7 @@ text_array = [
     # "Did you get a sudden turn of events go wrong? I was in good shape, so I thought I could do it."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「ごめんごめん、もう不意打ちはやめるよ。",

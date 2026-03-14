@@ -155,7 +155,7 @@ text_array = [
     # "...I think it's only natural for him to be angry at such selfishness. And I also thought about it carefully, and this is the conclusion I came to by the demons."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…п私、坂下謇先輩に言甯われたとおり、空闍手博部に入うと思います」",
@@ -319,7 +319,7 @@ text_array = [
     # Please allow yourself to be selfish."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("オレは短く息を吐くと、",

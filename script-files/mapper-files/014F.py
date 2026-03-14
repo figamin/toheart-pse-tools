@@ -335,7 +335,7 @@ text_array = [
     # "And even in Hot, it's often said that it's important to cure the next cold, so be careful."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「熱はないのか？」",
@@ -867,7 +867,7 @@ text_array = [
     # "I'm curious about you."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「いつも身近にいるрヤツが突然いなくなると、やっぱりさみしいんだよ」",
@@ -923,7 +923,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「なあ、あかり…」",
@@ -955,7 +955,7 @@ text_array = [
     # "That's it..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「いつも…ありがとな」",

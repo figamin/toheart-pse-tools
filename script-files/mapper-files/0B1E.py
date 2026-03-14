@@ -19,7 +19,7 @@ text_array = [
     # "Hmm. In this case, are the ones who are tampering with Makruchi in good health and doing it?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「ん、どうした？」",

@@ -391,7 +391,7 @@ text_array = [
     # "Aya∴Ka"
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「もしかして、オレ、お前にひざまくらしてもらってんのか？」",
@@ -447,7 +447,7 @@ text_array = [
     # "Oh, Kibishi. How can I forgive the magician?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「ん、なあに？」",

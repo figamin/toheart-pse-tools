@@ -83,7 +83,7 @@ text_array = [
     # I couldn't help but feel that my spine had been straighter than usual, and the gentle swelling of my chest seemed to be emphasized even more.
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「どうかした？」",
@@ -359,7 +359,7 @@ text_array = [
     # "It's the banquet next door..."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「あ〜あ、普助かった」",
@@ -467,7 +467,7 @@ text_array = [
     # "You were the one who was the banquet last year, were you the banquet of the essay?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「今厓日からは、オレもクラス＜メイトってわけだな」Å",

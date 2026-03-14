@@ -199,7 +199,7 @@ text_array = [
     # "Huh? Have you been a two-year old gift?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「てっきり年續上かと思ってたぜ」",

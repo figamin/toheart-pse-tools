@@ -27,7 +27,7 @@ text_array = [
     # "If you're too grateful or something like that, I'll actually take care of you."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("マルチは少し考えると、",
@@ -63,7 +63,7 @@ text_array = [
     # "Thank you very much for the end of the day."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("なんだか、ちょっと胸がきゅんとなった。",
@@ -119,7 +119,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…そっ、それでは、これで。…さん、お元気で」",

@@ -287,7 +287,7 @@ text_array = [
     # "Now, shall we go back?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("駅前にｗた。",

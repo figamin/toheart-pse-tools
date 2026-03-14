@@ -99,7 +99,7 @@ text_array = [
     # "Okay, can you go up?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("あかりといっしょに屋繪上へとやってきた。",
@@ -239,7 +239,7 @@ text_array = [
     # "Did you remember that?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("微笑んでうなずくあかり。",

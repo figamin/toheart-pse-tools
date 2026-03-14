@@ -67,7 +67,7 @@ text_array = [
     # I said with a smile.
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「な？」",

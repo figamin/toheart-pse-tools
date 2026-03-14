@@ -1163,7 +1163,7 @@ text_array = [
     # "Um, sir."
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「これで少しはお役に立てたでしょうか？」",
@@ -1739,7 +1739,7 @@ text_array = [
     # "Not just today, but next time we'll have some warmed sake, and the next time we'll smoke it, let's go on a date like this with Ogekire."
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("「ほかにももっと、いい楽しいとこへ連齪れてってやっからさ」",
@@ -1775,7 +1775,7 @@ text_array = [
     # "I'm not sure what's the best place for the next one? How about a $300-year-old man? I've never seen a fish in a slug. Oh, so is it the same with animal fierces? Zoos also have hand-smoking."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「なあ？	動物と宸魚、どっちが見たい？」",
@@ -1807,7 +1807,7 @@ text_array = [
     # "Then which one would be better? If that's the case, it's completely different and hot, but it's fine."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「どっか行きたいとこ、あるか？」",
@@ -1843,7 +1843,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("やがて観頼覧車は、一番ｔ高い位置に桙到湯した。",
@@ -1895,7 +1895,7 @@ text_array = [
     # "It's the day of the year, so goodbye...?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("噤答えは聞かずともわかった。",
@@ -2015,7 +2015,7 @@ text_array = [
     # "And even though it was a tampering with, it was not a phlegm for me, but a copy that was used as a reference for me, is it a phlegm for me? You who are in front of me, are you no longer there?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…マルチ、お前、そんなんでいいのかよ？	寂しくないのかよ？	怖くねーのかよ？」",
@@ -2079,7 +2079,7 @@ text_array = [
     # It was born to hand over this data to the people who were so excited about it."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「ですが、わたしは幸せな高ロボットでした。",
@@ -2095,7 +2095,7 @@ text_array = [
     # It's a high robot that's happy, too."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「この気搴持ちを伝えるためにも、どうしても今厓日はおいしたかったんです。",
@@ -2107,7 +2107,7 @@ text_array = [
     # ...Mr. I wanted to talk to you and give back."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「さん。",
@@ -2167,7 +2167,7 @@ text_array = [
     # That's what happened on the day of the day, but for a short time."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…残念ながら、わたしは試詩機ですから、その夢は垂叶いませんけど、やがて生まれるｖたちのひとりが、今厓日みたいに、さんにお仕えできれば嬉しいです」",

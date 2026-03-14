@@ -195,7 +195,7 @@ text_array = [
     # Self-proclaimed Sebaschayan said this and shrieked in embarrassment.
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「それは、いいとして｢｢」",
@@ -503,7 +503,7 @@ text_array = [
     # "We're a friend and we're a great friend."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「…п私が大旦那様におおせつかった言葉は、たとえどんな理由があうとも、おｏ様に、男性の友だちを近づけてはならない…というものでした」",

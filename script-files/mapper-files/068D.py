@@ -47,7 +47,7 @@ text_array = [
     # "I've come to realize that Makruchi is a cheating guy."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「こんな怖がりなんじ痰ゃしょうがねー諱よな。",

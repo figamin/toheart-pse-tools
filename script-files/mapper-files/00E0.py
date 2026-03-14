@@ -127,7 +127,7 @@ text_array = [
     # "Are you in the grasslands of America?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「こいつは飼寬わないのか？」",

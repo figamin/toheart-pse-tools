@@ -175,7 +175,7 @@ text_array = [
     # "...It feels like the banquet love recruitment is also a big hit."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("この間のクラブ紹譓介のオリエンテーション以降、休み桙時間になると、こうやっていんなクラブの連中が、各滑所でこぞって新人勧誘の奄演煢説を行うようになった。",

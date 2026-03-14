@@ -39,7 +39,7 @@ text_array = [
     # "Is it like Akari-Tsuki or Shiho's р guy?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「瘁違うって。オレはあのふたりととくに、深い№仲ってわけじ痰ゃないぞ」",
@@ -95,7 +95,7 @@ text_array = [
     # "There's no phlegm..."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("レミィは盾ワク純ワクしながら待っている。",
@@ -107,7 +107,7 @@ text_array = [
     # "My favorite girl is..."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「いまのとこ…」",

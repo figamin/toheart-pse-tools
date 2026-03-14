@@ -31,7 +31,7 @@ text_array = [
     # "Time is fuzzy. All that remains is the Cultural Scales Club at Kuban Love House."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「しかし、すっかり冾日燗も長くなったよなァ」",

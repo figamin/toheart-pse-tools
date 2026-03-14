@@ -95,7 +95,7 @@ text_array = [
     # I called out.
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「なあ、そう言えばさっき、委員長、こんなことを言ってたな。『友だちのありがたみは、側にいるときはそんなに感じねーけど、いざ離齬れてみるとよくわかる』って」",
@@ -119,7 +119,7 @@ text_array = [
     # "It's a bit like that, perhaps, there's a fateful monkey in a place that's surprisingly close to me."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「ま、そんだけ。",

@@ -135,7 +135,7 @@ text_array = [
     # "Why? Is it too sudden and you have too much phlegm?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("彼女はこたえなかった。",

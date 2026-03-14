@@ -47,7 +47,7 @@ text_array = [
     # "A thunder? I'm so violent?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「べつにいつもと変﨑わんねーけど…？」",

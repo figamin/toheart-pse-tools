@@ -35,7 +35,7 @@ text_array = [
     # "Is the pain-related thing = a normal tampering thing?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「『うん』って…オレ、けっこー冝期待してたんだぞぉ」",

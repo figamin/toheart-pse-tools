@@ -71,7 +71,7 @@ text_array = [
     # "...Is it the end of the day?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「っつーか、全然変﨑わってねーからな」",

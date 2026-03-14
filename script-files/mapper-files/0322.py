@@ -11,7 +11,7 @@ text_array = [
     # "Ah, Chairman."
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「また、学校でな」",
@@ -27,7 +27,7 @@ text_array = [
     # Then the chairman said,
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("にっこり笑って微笑んだ。",

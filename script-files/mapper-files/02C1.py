@@ -63,7 +63,7 @@ text_array = [
     # "Oh, I have no idea about it! Please don't let me get into trouble after this!"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「諱先輩、オレたち、学校の外じ痰ゃ話燔もさせてもらえないのかよぉ〜…」",
@@ -71,7 +71,7 @@ text_array = [
     # "Senior Senpai, we're all serious about you, so why don't you even let us talk about school ex-sex and get some hot topics?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「おｏ様、ふと気がつけば、もうこのようなお桙時間でございます。ささ、＝早くお車へ｢｢」",

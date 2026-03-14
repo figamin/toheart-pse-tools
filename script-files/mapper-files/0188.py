@@ -59,7 +59,7 @@ text_array = [
     # "What, is it another book on charity?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「どれ読んでもいっしょだう、そんなの」",

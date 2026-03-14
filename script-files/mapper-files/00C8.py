@@ -55,7 +55,7 @@ text_array = [
     # "Is notebooks chemistry?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「梶相変﨑わらず、ち痰ゃっかりしてやがんな、お前は」",

@@ -59,7 +59,7 @@ text_array = [
     # "Is it really hard?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「じ痰ゃあ、",

@@ -27,7 +27,7 @@ text_array = [
     # I put the scenery on my head and arrange the words that come to mind.
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("レミィは鰍相づちでこたえた。",

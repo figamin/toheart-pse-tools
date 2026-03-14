@@ -67,7 +67,7 @@ text_array = [
     # "Yes. The northern lilies that I admire are finally approaching the next moment."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「そういや、しおりのこのページだけどな」",

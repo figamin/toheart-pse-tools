@@ -67,7 +67,7 @@ text_array = [
     # Ping Pong.
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("誰かｗた。",
@@ -311,7 +311,7 @@ text_array = [
     # I said this while staring at me.
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「今厓日は先輩に、ひとつ、はっきりと嘯答えていただきたいことがあって…。それでｗたんです」",

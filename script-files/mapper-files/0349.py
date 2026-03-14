@@ -335,7 +335,7 @@ text_array = [
     # "You're probably looking down on us anyway, slut?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("なんだ、尋岦常じ痰ゃない雰囲気だぞ。",
@@ -543,7 +543,7 @@ text_array = [
     # Did he notice?
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「なによアレ！」",

@@ -207,7 +207,7 @@ text_array = [
     # Hokkaido is really good."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「食い物はうまいし、空気もうまい。こんなごち痰ゃごち痰ゃしたとことは別天地って感じだぜ」",
@@ -239,7 +239,7 @@ text_array = [
     # "All right. I'll give you a sputum, so I'll go and get some hot springs when I go home."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("あかりはこくんとうなずいた。",
@@ -487,7 +487,7 @@ text_array = [
     # Akari said as he whispered.
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("「いま、なに考えてるの？」",

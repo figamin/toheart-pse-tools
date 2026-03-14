@@ -223,7 +223,7 @@ text_array = [
     # Don't catch a cold."
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「また転ぶんじ痰ゃねーぞ」",

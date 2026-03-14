@@ -11,7 +11,7 @@ text_array = [
     # "It was so cute. I think Kotone Chisho-chan's hot foods are also a bit eye-catching."
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("琴音ち痰ゃんは恥ずかしそうに目を嘯伏せた。",

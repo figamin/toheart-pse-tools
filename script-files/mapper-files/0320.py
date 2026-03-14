@@ -63,7 +63,7 @@ text_array = [
     # "Kun"
 
     ("「ん？」",
-    ""),
+    "Hm?"),
     # "yeah?"
 
     ("ふと、名前を呼ばれ、オレは立ち止まった。",
@@ -491,7 +491,7 @@ text_array = [
     # "I didn't think that the chairman was such a crying guy."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「なにかよっぽどショックなことでもあったんじ痰ゃねーのか？」",
@@ -507,7 +507,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("最燕初はなかなか語撃うとしなかった委員長だが、そのまま根気諡よく待ち続けていると、やがて、少しずつ、真叶相を口にし始めた。",
@@ -595,7 +595,7 @@ text_array = [
     # But isn't that a tampering that I've never been to hide from you?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「ふたりはｒ学のこから、おたがいに好きやったらしい。けど、いつも間にр私がおったから、ふたりとも遠慮して言い出せんかったらしいんや…」",
@@ -631,7 +631,7 @@ text_array = [
     # "...I've been thinking about things I've gone back and forth, and I've been working hard to study so that I could pass the university of 'Ebi'."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「なんやр私、ひとりでアホみたいやないか。これでｌこう帰って、それからどうせえ言うんや」",

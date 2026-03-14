@@ -291,7 +291,7 @@ text_array = [
     # "The story of how I beat the person I admire, and I'm worried about Hot even as well, so you've done the same thing as I did back then, so you're gonna do it?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("なーんだ、わかってたのか。",
@@ -339,7 +339,7 @@ text_array = [
     # Aya∴Ka stared at me for a while,
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("と、うなずいた。",
@@ -443,7 +443,7 @@ text_array = [
     # "The bath air has come out. Shall we return?"
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「………」",
@@ -651,7 +651,7 @@ text_array = [
     # "Yes, that was good."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「なに、じーっと見て？	なにかついてる？」",
@@ -967,7 +967,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("わざわざ嘯答えなくても、おたがい、掾理由はわかってる。",

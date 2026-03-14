@@ -11,7 +11,7 @@ text_array = [
     # "Did I get drunk after drinking nitrogen liquor?"
 
     ("「そうそう」",
-    ""),
+    "Yep."),
     # "oh yeah"
 
     ("あかりは二回うなずいた。",

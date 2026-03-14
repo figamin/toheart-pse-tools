@@ -39,7 +39,7 @@ text_array = [
     # "Is the day off now, are you a day off?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「そうか。じ痰ゃいっしょに帰うぜ」",

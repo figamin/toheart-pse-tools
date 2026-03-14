@@ -123,7 +123,7 @@ text_array = [
     # "Don't worry. I won't be so irrational that it will break down the condition."
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("う〜ん、そうまで言甯われち痰ゃしょうがない。",
@@ -227,7 +227,7 @@ text_array = [
     # "Aoi Chi, sphemy?"
 
     ("「あ…」",
-    ""),
+    "Ah…"),
     # "a…"
 
     ("「どうしたんだ？	どこか痛めたのか？」",

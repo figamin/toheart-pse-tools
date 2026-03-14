@@ -187,7 +187,7 @@ text_array = [
     # "Wow... And so, it means that a budkyah will be born, which is not effective with medicine."
 
     ("「そうそう」",
-    ""),
+    "Yep."),
     # "oh yeah"
 
     ("「それはわかったが、ブドキャーって≠普通にいるんだ？	それで病気になるのか？」",

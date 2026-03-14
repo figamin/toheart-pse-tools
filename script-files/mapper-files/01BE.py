@@ -71,7 +71,7 @@ text_array = [
     # "Are you gonna do I get a really bad?"
 
     ("「うん」",
-    ""),
+    "Okay."),
     # "Yeah"
 
     ("「どーすっかなー」",

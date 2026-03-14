@@ -215,7 +215,7 @@ text_array = [
     # "When I think about the fact that humans are tampering with the trouble of humans in that town, the slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred slurred
 
     ("「………」",
-    ""),
+    "……"),
     # "..."
 
     ("「この胸のモсヤｃモсヤなんて、あの点ひとつの小ささでしかないと思うたら、つまらんことで落ち桙込んでるのがアホ辜らしゅうなる」",
