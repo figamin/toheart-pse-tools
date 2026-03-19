@@ -6,40 +6,44 @@ text_array = [
     ""),
     # (Erimeo Ou's Scales Event) (Bukinote: A day without Shiho's appearance event) (Kyuuu LV1) (Shopping Street)
 
-    ("商店街を歩いていると、不意にオレの目の前にポケットティッシャが差し出された。",
-    ""),
+    ("商店街を歩いていると、不意にオレの目の前にポケットティッシュが差し出された。",
+    "As I am walking through the shopping arcade, someone thrusts a tissue packet before me."),
     # As I was walking around the shopping district, a pocket tissue suddenly reached out in front of me.
 
-    ("諱よく駅前なんかで配ってるやつだ。",
-    ""),
+    ("よく駅前なんかで配ってるやつだ。",
+    "It is the same kind they are always giving out in front of the station."),
     # It's a tampering thing that I often give away in front of stations.
 
-    ("「あーなになに、『轣育毛・殖毛ダイナマイトキャャンペーン！！』？」",
+    ("「あーなになに、",
+    "Let me see…"),
+    ("『育毛・殖毛ダイナマイトキャンペーン！！』",
+    "’Hair Growth Dynamite Campaign’?!"),
+    ("？」",
     ""),
     # "Ah, what, what? 'Hair growth/growth hair dynamite champagne!''
 
-    ("いまのとこ、オレには関係ねー話だな。",
-    ""),
+    ("いまのところ、オレには関係ねー話だな。",
+    "Nothing to do with me for now."),
     # This is nothing to do with me at the moment.
 
-    ("それをポケットに入齠れかけて、オレはふと気が付いた。",
-    ""),
+    ("それをポケットに入れかけて、オレはふと気が付いた。",
+    "I am about to put the tissue packet into my pocket when I realize something."),
     # I put it in my pocket and began to take it, and suddenly I realized it.
 
-    ("いま、ティッシャを配ってたのって、掾理女緒ち痰ゃんじ痰ゃねーか？",
-    ""),
+    ("いま、ティッシュを配ってたのって、理緒ちゃんじゃねーか？",
+    "The person giving out the tissues… Wasn't it Rio?"),
     # The one who was handing out tissues right now was a phlegm?
 
     ("どうしようか？",
-    ""),
+    "What should I do now?"),
     # What should I do?
 
-    ("Ａ	声をかけてみる。閨",
-    ""),
+    ("Ａ　声をかけてみる。",
+    "A. Talk to her."),
     # A: I'll call you out.Relax
 
-    ("Ｂ	やめておく。閨",
-    ""),
+    ("Ｂ　やめておく。",
+    "B. Leave her alone."),
     # B: Stop it.Relax
 
 ]
