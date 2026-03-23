@@ -7,27 +7,27 @@ text_array = [
     # (Erie Moo O's Scales Event Fugitive) (1F LV2) (1F corridor)
 
     ("階段から、誰かがミサイルみたいな勢いで突進してくる。",
-    ""),
+    "Somebody bursts out from the stairwell like a missile."),
     # Someone rushes down the stairs with a missile cry.
 
-    ("掾理女緒ち痰ゃんだ。",
-    ""),
+    ("理緒ちゃんだ。",
+    "It is Rio."),
     # I'm so excited.
 
-    ("今厓日は以前にも増して急いでいるらしく、まわりなどまるで見ていない様子だ。",
-    ""),
+    ("今日は以前にも増して急いでいるらしく、まわりなどまるで見ていない様子だ。",
+    "She is in a bigger rush than usual and isn't even looking at her surroundings."),
     # It seems that the number of hot springs has increased recently, and they are in a hurry, and they don't seem to have seen anything like that.
 
-    ("オレは｢｢。",
-    ""),
+    ("オレは",
+    "I…"),
     # I'm '.
 
-    ("Ａ	声をかける。閨",
-    ""),
+    ("Ａ　声をかける。",
+    "A. Stopped her."),
     # A. Call out.Relax
 
-    ("Ｂ	見洛送る。閨",
-    ""),
+    ("Ｂ　見送る。",
+    "B. Watched her."),
     # B: Skull of a Raku.Relax
 
 ]
