@@ -71,7 +71,7 @@ text_array = [
     # Aya∴Ka laughed mischievously.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("挑発してるつもりかよ？",
@@ -183,7 +183,7 @@ text_array = [
     # "And I'm the type who becomes a gigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata rigigata
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("凵嫌なこと言いやがる。",
@@ -227,11 +227,11 @@ text_array = [
     # Lady: ""
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("これが最纃後だ。",

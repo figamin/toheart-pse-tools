@@ -79,7 +79,7 @@ text_array = [
     # Is it phlegm? Maybe what you just said...sleepy?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("マルチは眠りながら、なんだか幸せそうな表﨣情を浮かべていた。",

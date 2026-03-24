@@ -39,7 +39,7 @@ text_array = [
     # The next air flows gently and gently from the gap in the open window, which also leads to a comfortable sleepiness.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ああ、ダ＜メだ。",
@@ -311,7 +311,7 @@ text_array = [
     # he said in a whisper.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長はなにもこたえず、もう一㊧枚、スッとｎ切齔れをよこした。",
@@ -351,7 +351,7 @@ text_array = [
     # When I say it,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長は正面を見たままくすっと笑った。◯",

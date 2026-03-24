@@ -239,7 +239,7 @@ text_array = [
     # Yeah...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ちょっとだけじっとしてたものの。",
@@ -475,7 +475,7 @@ text_array = [
     # "But it's tough. On a day like this, you'll have to work part-time at a time like this. Are you working too much and doing phlegm?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いくら欲しいものがあるっつっても、少しは休まないと続かないぜ」",
@@ -691,7 +691,7 @@ text_array = [
     # "Um, is that okay? You haven't taken care of me, so I'm so happy just to be talking about B and B."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",

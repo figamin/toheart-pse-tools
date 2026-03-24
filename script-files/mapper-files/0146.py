@@ -155,7 +155,7 @@ text_array = [
     # "Now, what do you think?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -191,11 +191,11 @@ text_array = [
     # I cleared my throat.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("少しの間、ふたりとも言葉に詰まったまま道を歩いた。",
@@ -275,7 +275,7 @@ text_array = [
     # With that in mind, Akari looked at me with her eyes and smiled reluctantly.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("その仕寬種は、いつものオレのよく知ってるあかりのそれ、そのものだった。",
@@ -371,7 +371,7 @@ text_array = [
     # "If Chisho-yan says that, I'll just leave this hairstyle for a while."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そんなあかりの笑顔は、いつになく眩しく見えた。",

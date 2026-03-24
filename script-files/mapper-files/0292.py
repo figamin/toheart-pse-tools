@@ -11,7 +11,7 @@ text_array = [
     # "That means this book is..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いんな魔術聡書から悪ｈ魔の起源を考察する本ってわけだな！」",
@@ -31,7 +31,7 @@ text_array = [
     # Do you know "Hexyūn Kandai Q Demon King"?”
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「知迺らないって？	ふっふっふっ、じ痰ゃあ、閨『ペッコ鴻ロ蜒大ｑ魔王』は？」",
@@ -47,7 +47,7 @@ text_array = [
     # "What's that senior, I don't have much time to study. They're pretty different kinds of people, right? Well, it's not in that book."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	ぜひ教えて欲しいって？	そうだな、また今度、教えてやるよ。オレのすばらしいイラスト付きで」",

@@ -91,7 +91,7 @@ text_array = [
     # Karemy waved lightly and headed home.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「で、誰熬も死んでないの？」",

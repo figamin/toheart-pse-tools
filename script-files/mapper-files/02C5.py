@@ -23,7 +23,7 @@ text_array = [
     # Gugata Riggata Riggata Riggata Ri...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱よく意味が理解できないらしく、きょとんとした顔でオレを見骭る先輩。",
@@ -35,7 +35,7 @@ text_array = [
     # Yeah, Gugata Riggata Riggata Riggata Ri...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そのうち、なんだか困った顔になった。",
@@ -55,7 +55,7 @@ text_array = [
     # Ei, Ei, Gugata Riggata Riggata Riggata Riggata Riggata Riggata Riggata Ri...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("えい、えい、グリグリグリグリグリ…。",
@@ -63,7 +63,7 @@ text_array = [
     # Ei, Ei, Gugata Riggata Riggata Riggata Riggata Riggata Riggata Riggata Riggata Riggata Riggata Rig...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はどうしていいかわからずに、オレのなすがまま、グリグリされ続けた。",
@@ -91,7 +91,7 @@ text_array = [
     # The senior is
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("こくん、とうなずいた。",

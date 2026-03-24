@@ -295,7 +295,7 @@ text_array = [
     # "Is that so? Because it's a hot spring that bothers me to sweep away the sweep, and I really think that I, Sanka, likes sweep away from the sweep..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("しばらくぽかんと口を開いてから、オレは、",

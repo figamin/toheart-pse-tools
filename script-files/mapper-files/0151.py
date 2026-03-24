@@ -47,7 +47,7 @@ text_array = [
     # The bathing cold has been cured.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんだよ、どーかしたか？」",
@@ -147,7 +147,7 @@ text_array = [
     # "Tampering, it's all too bad."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんだよ」",

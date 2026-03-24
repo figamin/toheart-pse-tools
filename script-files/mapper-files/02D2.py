@@ -23,7 +23,7 @@ text_array = [
     # I have no choice but to answer that.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	きっと大苟丈夫ですって？	サンキャ、なんだかそんな気がしてきたぜ」",
@@ -31,7 +31,7 @@ text_array = [
     # "Huh? I'm sure he's sturdy, you know? Sankya, I'm starting to feel that way." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	学業アップの魔法がありますけど、諱よしければ、おかけしますって？」",
@@ -115,7 +115,7 @@ text_array = [
     # When I say that, my senior is
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("微妙に目を嘯伏せた。",

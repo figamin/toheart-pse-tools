@@ -87,7 +87,7 @@ text_array = [
     # "If that's what Natsu ≠ Mekoro means OK b? Isn't it okay?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("かすかにうなずく琴音ち痰ゃん。",

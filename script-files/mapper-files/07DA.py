@@ -11,7 +11,7 @@ text_array = [
     # "Are you feeling a magical character that you can't say?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレが聞いても、琴音ち痰ゃんは黙ったままだった。",
@@ -23,7 +23,7 @@ text_array = [
     # "It seems like there's something wrong."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("琴音ち痰ゃんはなにも言甯わなかったが、少しだけオレを見た。",

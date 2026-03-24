@@ -355,7 +355,7 @@ text_array = [
     # Since the incident with Sakashita, it seems like only the excitement has been running around in vain, and the pace and the pace are rising steadily."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ほら、プ鴻ロヶ幕の選闡手にもよくいるだ？	禔練習薯に故瘡障して試㍽合に出齒れなくなるрヤツ。あんなふうになりそうで心配だよ」",
@@ -379,11 +379,11 @@ text_array = [
     # "Then it's better to do that, isn't it? To do that, I'll also have a good luck training session for the hot springs."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("少し間をおいて、",
@@ -487,11 +487,11 @@ text_array = [
     # "Aoi Chishou-san..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",

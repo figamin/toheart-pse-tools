@@ -31,7 +31,7 @@ text_array = [
     # No, I'm angry, I have no phlegm, my name is.I wish I had left my ecstasy and had to go home."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、オレが待ってって言ったから…って？",

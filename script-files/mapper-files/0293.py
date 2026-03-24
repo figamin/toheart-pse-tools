@@ -15,7 +15,7 @@ text_array = [
     # "Sir, O-san, you're tired now, even a day after the sun is ready."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「今厓日燗もいい天気だねぇ」",
@@ -35,7 +35,7 @@ text_array = [
     # I was thinking that I might give you a fortune telling with Taho Lot again,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、なに？	今厓日はクラブがある冾日だから、諱よかったら見学にｗませんかって？」",
@@ -51,7 +51,7 @@ text_array = [
     # I was invited to the club room of Okaryu Ruto Kenyu.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「この間のお約束どおり、ご案煦内しますって？	うーん、そうだなあ」",

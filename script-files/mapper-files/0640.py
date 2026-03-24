@@ -211,7 +211,7 @@ text_array = [
     # "No way."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -251,7 +251,7 @@ text_array = [
     # It's delicious, but I don't know what it is.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("香ロボットって、いったいどんな気搴持ちなんだう？",
@@ -279,7 +279,7 @@ text_array = [
     # No matter how hot it is, no matter how hot it is, no matter how hot it is...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("マルチには…あるような気がする…。",

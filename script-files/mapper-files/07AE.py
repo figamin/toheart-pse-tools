@@ -75,7 +75,7 @@ text_array = [
     # "Hey, Kotone's sphin... Are there any hot things you've been hooked on recently?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("琴音ち痰ゃんは考え桙込んでしまった。",
@@ -159,7 +159,7 @@ text_array = [
     # "And the hot springs are great too. They have an artistic flavour. On my days off, I watch videos at home or stroll around the city."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「琴音ち痰ゃんはどこで描いたりしてんだ？」",

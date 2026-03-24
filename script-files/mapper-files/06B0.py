@@ -27,7 +27,7 @@ text_array = [
     # I'm lonely too....I wanted to join the simmon and simmon more together."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("別れを惜しんでも、なにも始まらない。",

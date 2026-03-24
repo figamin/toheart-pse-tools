@@ -27,7 +27,7 @@ text_array = [
     # The number of people who communicate with each other is decreasing.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("静かだ。",

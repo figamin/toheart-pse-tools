@@ -331,7 +331,7 @@ text_array = [
     # It was almost noon.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ずいぶん懐かしい夢を見たもんだ。",
@@ -371,7 +371,7 @@ text_array = [
     # I used the Crocodile C control that was on top of the table crying and used the TV rev to activate the TV.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("休匤日の午後は、まともな番組をやってない。",
@@ -487,7 +487,7 @@ text_array = [
     # I thought I'd call again, so I waited for about a minute in front of the phone.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("だが、それきり電話は鳴逍らなかった。",
@@ -495,7 +495,7 @@ text_array = [
     # However, the phone didn't ring at all.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("誰からだったんだう。",
@@ -519,7 +519,7 @@ text_array = [
     # For some reason, I felt that way.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("考え過ぎか…。",

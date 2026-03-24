@@ -99,7 +99,7 @@ text_array = [
     # I noticed the voice and my senior name was also leapt over me.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("きょとんとオレを見骭る、諱先輩。",
@@ -115,7 +115,7 @@ text_array = [
     # I said with a laughing face.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「とこで、さっきからひとりでなにやってんスか？	みんな、もう行っち痰ゃったよ？」",
@@ -143,7 +143,7 @@ text_array = [
     # When I asked, my senior said
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("こくん、とうなずいてこたえた。",
@@ -159,7 +159,7 @@ text_array = [
     # I said with a grin.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	どうして知ってるかって？	ふふっ、それはね、じ痰ゃ〜〜〜〜んっ！」",
@@ -175,7 +175,7 @@ text_array = [
     # "It's because this guy has it~"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「多分、ぶつかったときに落としたんだ。ひとの手づたいにオレんとこに届いたんだ。じ痰ゃあ、はい、たしかに返したぜ」",
@@ -323,7 +323,7 @@ text_array = [
     # "What, did the manager of Kuen Love think about it? I see, Senpai Osamu is a club president who can't help but sigh....Huh? The manager is an excellent member of the Okaryokuruto Welfare, but he is a member of the Yuranai Club and rarely appears in the club? Nahaha, so he's a member of the Yuranai Club, so he's a member of the Yuranai Club, or maybe he's a member of the Yuranai Club!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「すみません…」",
@@ -387,7 +387,7 @@ text_array = [
     # "Huh? What?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は、ぽそぽそと小さな声で言った。",
@@ -447,7 +447,7 @@ text_array = [
     # When I answered with a laughing face, my senior said,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なぜか赤い顔をしてうつむいた。",

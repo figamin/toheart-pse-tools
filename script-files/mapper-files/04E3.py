@@ -247,7 +247,7 @@ text_array = [
     # Looking at the good side of the Horizons, it seems that morning is already lol.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("言葉燉もなかった。",
@@ -679,7 +679,7 @@ text_array = [
     # "It's fine, it's so puffy."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("チン。",

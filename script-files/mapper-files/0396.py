@@ -27,7 +27,7 @@ text_array = [
     # He shouts gently.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いいとこでったな。",
@@ -87,7 +87,7 @@ text_array = [
     # When I apologized,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長は背白をｌけ、歩いていった。",
@@ -95,7 +95,7 @@ text_array = [
     # The chairman stumbled and walked away.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("う〜ん。",
@@ -227,7 +227,7 @@ text_array = [
     # "Yes, yes. I won't be so nervous, I won't be worried. Impatience will be abomination."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ここでイライラしてはいけない。",

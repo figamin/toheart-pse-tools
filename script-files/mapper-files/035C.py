@@ -399,7 +399,7 @@ text_array = [
     # I asked a question I had been thinking of asking at the very first time.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("その途端、委員長の顔がわずかに曇體る。",
@@ -563,7 +563,7 @@ text_array = [
     # "...Well, it's a tampering with something that doesn't exist."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -571,11 +571,11 @@ text_array = [
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そのまま、少し話が止まってしまった。",
@@ -595,7 +595,7 @@ text_array = [
     # "Hey, the chairman was on the train to school, right? I'll take him to the station the next day and tamper with him."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「こうやってばったり出初ったのもなにかの盾縁だ。せっかくだから話でもしながら｢｢」",
@@ -855,7 +855,7 @@ text_array = [
     # "*Studying for Inmata Koshi A... I think I'll be getting a lot of stomping replies."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱よし。",
@@ -951,7 +951,7 @@ text_array = [
     # "You guys are so busy."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「うん、本末当にこってんな、こり痰ゃ。とても現役蘭女子ｎ高生の肩とは思えねーぞ」",
@@ -1063,7 +1063,7 @@ text_array = [
     # "The shield of the lord is the kazu area... Oh, that's what you're saying, and you said that earlier, right? Did something unpleasant?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なにがあったんだ？」",
@@ -1071,7 +1071,7 @@ text_array = [
     # "What happened?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長は嘯答えない。",
@@ -1255,7 +1255,7 @@ text_array = [
     # The light of the $Gin Hagi lamplight made him look rather gross and weak.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("′こうに帰闍りたがってるのは、なんとなくわかっていた。",
@@ -1339,11 +1339,11 @@ text_array = [
     # "I see..." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんだか空気が沈んでしまった。",
@@ -1495,7 +1495,7 @@ text_array = [
     # "I told him about him the other day, and he got angry over the phone saying, 'We have to get along better with him.'"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「くんのこと『きっといいрヤツ窿やから』って言うてたわ」",
@@ -1575,7 +1575,7 @@ text_array = [
     # "All the people who are thinking about going to college are tampering with that."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「しんどいのはр私だけやない」",
@@ -1615,7 +1615,7 @@ text_array = [
     # I'm trying my best."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「だから、ご褒又だ」◯",
@@ -1707,7 +1707,7 @@ text_array = [
     # "It's fine to have a lifetime of hard work studying by tampering with this, but can't we get along a little more?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ノリが痰違うとか、肌に№合寘わないとか、たしかにそういうのもあるかもしんねーけどさ、ある程度は自分からみんなにあわせねーとな」",
@@ -1855,7 +1855,7 @@ text_array = [
     # "What if you do your best?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長は真っ直ぐオレを見つめた。",

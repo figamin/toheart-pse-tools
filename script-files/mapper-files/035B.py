@@ -123,7 +123,7 @@ text_array = [
     # The chairman's bangs were scattered and the hem of his skirt was fluttered.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんてことのない、冝日崧常のごくありふれた盾ワンカットにすぎなかった。",
@@ -199,7 +199,7 @@ text_array = [
     # "At that time, I laughed, saying that I was so embarrassed that I could say such embarrassing things, but to be honest, I also have the energy to think that way."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「胸のｒにモсヤｃモсヤたまったときとか、諱ようここｗて、ぼーっと景色眺めたりする」",

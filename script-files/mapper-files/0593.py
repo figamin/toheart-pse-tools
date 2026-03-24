@@ -115,7 +115,7 @@ text_array = [
     # "I have no phlegm to play!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("突然の葵ち痰ゃんの翌迫力に、坂下はちょっと驚いた顔をする。",
@@ -147,7 +147,7 @@ text_array = [
     # "...I don't know if it's a fighting sport or something, but the attack level crying of playing in a vacant lot like this is nothing more than a pretend play."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「言いかえれば、その程度でも十分通用する撃レベルだってことよね、そのエクストリームとかっていう大痩は」",
@@ -223,7 +223,7 @@ text_array = [
     # "Now, Tanzania and Aya∴Ka have been featured in all sorts of magazines, and fans have also appeared, making me cry like I'm crying."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「べつにそれ自体悪いとは言甯わない。なんであれ、蛛大痩で優泓勝した人間が高注目を集めるのは結構なことだと思うわ」",
@@ -275,7 +275,7 @@ text_array = [
     # The simulator as a martial arts is considered to be light and old, and can become just martial arts?That's why it's uncomfortable to see Aya∴Ka now!Including you guys who are trying to continue!”
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("わずかな間を置いてから、葵ち痰ゃんはゆっくりと顔を上げ、小さく口を開いた。",
@@ -343,7 +343,7 @@ text_array = [
     # "So I've always been thinking about it, and I've been trying my best to get closer to Aya∴Kawa and catch up."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「でも去年、綾∴香さんは、空闍手をやっていても絶対に追いつけない世界へ行ってしまったんです」",
@@ -459,7 +459,7 @@ text_array = [
     # "I see, the hot springs are also not phlegmy! I think so, uh, that's definitely true."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「そして、葵、なんの進熕歩熾もしてないのは、あなたにも言えることなのよ！」",
@@ -579,7 +579,7 @@ text_array = [
     # "Aoi Chisho-chan is making the effort to do it alone, or have you ever seen Ho at once?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「この子がどんなに一生恊懸命菇練習してるか、お前、見たことあんのかよ？」",
@@ -607,7 +607,7 @@ text_array = [
     # "See, Senpai..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",

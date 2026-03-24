@@ -79,7 +79,7 @@ text_array = [
     # "Dear O-san, before I knew it, it was already this kind of time. So, = hurry to the car ""
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレの顔をじっと見つめる先輩。",

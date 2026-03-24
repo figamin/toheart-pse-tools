@@ -59,7 +59,7 @@ text_array = [
     # "Yes." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「もしもし」",
@@ -67,7 +67,7 @@ text_array = [
     # "If it's hot."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「もしもし」",
@@ -75,7 +75,7 @@ text_array = [
     # "If it's hot."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「｢｢え、＠栖瑞？	あっ、諱先輩！？」",
@@ -107,7 +107,7 @@ text_array = [
     # "Even if I go from now on, it's already this long? I'm fine with my supernatural curfew, but is that one strong enough to be curfew or supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper supper sup
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「もしもし。あのさ、うなずいても電話じ痰ゃわかんないって」",
@@ -135,7 +135,7 @@ text_array = [
     # "...So, what should I do to exaggerate my stimulation? What? Academic school?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ふん、ふん、わかった。じ痰ゃ、９桙時に学校のクラブハウス前だな？	オッケー、絶対に行くよ」",
@@ -255,7 +255,7 @@ text_array = [
     # But.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんの返抹事燻もない。",
@@ -275,7 +275,7 @@ text_array = [
     # There's no way to do it, I'll wait a while.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("驕夜の学校か…。",
@@ -335,7 +335,7 @@ text_array = [
     # There's no one there.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("お、おいおいっ。",
@@ -427,7 +427,7 @@ text_array = [
     # My senior, petting me, patting my head.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -491,7 +491,7 @@ text_array = [
     # Kiiiii... slurp!
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("言葉を無くすオレ。",
@@ -543,7 +543,7 @@ text_array = [
     # When I say it,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はちょっと照齒れた顔をした。",
@@ -575,7 +575,7 @@ text_array = [
     # "And what's going to start now?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…えっ？	以前お亡くなりになった方で、もう一度おいしたい方はいらっし痰ゃいますかって？」",
@@ -591,7 +591,7 @@ text_array = [
     # "What, sputum?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「今厓日は降漉莱の冾日だって？	いまからｗを呼びますって？」",
@@ -631,7 +631,7 @@ text_array = [
     # I was thinking that what I was doing was just tortured by the same fortune telling and hair growth.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「そそ始めたいので、呼んでほしいｗの鰍リクエストはないですかって？	…うーん、そうだなあ」",
@@ -743,7 +743,7 @@ text_array = [
     # "Well, in the other parts of the club, there's no one other than me and my senior, but there's no one else, the club chief, Yuransaku, who is the member of the club, lol?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ、ち痰ゃんとｗてるって？	…どこに？」",
@@ -751,7 +751,7 @@ text_array = [
     # "What, you're laughing lol? ...Where is it?" 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ、そこにいるって？	オレのうし？」",
@@ -923,7 +923,7 @@ text_array = [
     # After finishing his spell with his name on it, the senior took a break and saw something tampered with, ".
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	すみませんって？」",
@@ -931,7 +931,7 @@ text_array = [
     # "Huh? Sorry?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ、ええっ！？	べっ、べつのｗを呼び出しちまったってぇ！？」",
@@ -979,7 +979,7 @@ text_array = [
     # "That's why I don't care anymore."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんの魔事故煬もなかったんだしさ」",
@@ -1003,7 +1003,7 @@ text_array = [
     # When I said that, my senior fellow fooled me with a look on my face.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、本末当ですかって？	ああ、本末当」",
@@ -1067,7 +1067,7 @@ text_array = [
     # "I've looked for you, O-san. What's wrong with you getting out of the mansion late at night like this!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「このようなことが、もし大旦那様の御耳に入うものなら。",

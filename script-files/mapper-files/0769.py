@@ -103,7 +103,7 @@ text_array = [
     # I took my breath and watched it.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("やがて、辺阨りは凍闢りついたように、静かになった。",
@@ -191,7 +191,7 @@ text_array = [
     # =If you become a Mejaya, then no one can say a word or phrase, so it's not phlegmy?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("しかし、琴音ち痰ゃんは表﨣情を曇逑らせると、目を嘯伏せてしまった。",

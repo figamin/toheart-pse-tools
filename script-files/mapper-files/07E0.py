@@ -15,7 +15,7 @@ text_array = [
     # I nodded.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("琴音ち痰ゃんはなにも言甯わない。",
@@ -67,7 +67,7 @@ text_array = [
     # "A banquet is a hot spring that breaks when you break it? But I can't trust that it's suddenly broken at such a bonito spot."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「п割れる瞬間は見てねえしな。",
@@ -123,7 +123,7 @@ text_array = [
     # "Mr.... Please, please, please don't pester me."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("メきそうな顔でそこまで言甯われると、こっちはなにも言えなくなってしまう。",

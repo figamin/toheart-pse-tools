@@ -171,7 +171,7 @@ text_array = [
     # "Oh, Segata Rio. I'm currently a T-shirt."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("セリオはちょっぴり照齒れた｢｢諞ような気がした。",

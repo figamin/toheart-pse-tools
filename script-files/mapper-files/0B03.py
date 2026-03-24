@@ -55,7 +55,7 @@ text_array = [
     # I walked straight to the hot springs.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ほんと、変なやつだなあ。",

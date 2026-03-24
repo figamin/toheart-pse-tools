@@ -55,7 +55,7 @@ text_array = [
     # Now, what about the important Aya∴Ka...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("いない。",
@@ -91,7 +91,7 @@ text_array = [
     # let's see….
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("いない。",
@@ -1011,7 +1011,7 @@ text_array = [
     # "A while later, my parents and Hou moved to Japan, and I'm not sure what he's doing now. I don't know at all what he's doing. From what I've heard, after that, he stopped smoking the sky, and he was stumbling around innocents..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("女の子に奄負けて人生変﨑わっちまうとは。",
@@ -1563,7 +1563,7 @@ text_array = [
     # Aya∴Ka's fist was stopping right in front of my geisha.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「どう？	止めなかったら間違いなくクリーンヒット諠よ」",
@@ -1591,7 +1591,7 @@ text_array = [
     # "And the hot spring is nice too, that's a white-faced boar. Is an amateur a battle to challenge me?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「うん、じ痰ゃあ、こうしよ！」",
@@ -1623,7 +1623,7 @@ text_array = [
     # "I'll prepare a ghost with a sphincloth. If that were the case, I wouldn't get injured, so I could hit it without hesitation, right?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("うーん、どうすっかなー？",

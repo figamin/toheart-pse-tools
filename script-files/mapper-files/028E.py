@@ -23,7 +23,7 @@ text_array = [
     # Then, he introduced the advice he had plunged into the book, and his senior said,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("′こうを見た。",
@@ -35,7 +35,7 @@ text_array = [
     # "I'm here, Senpai...;" 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いよっ」",
@@ -51,7 +51,7 @@ text_array = [
     # "It's a coincidence. I couldn't have uuuu like this at b."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「さっきから、なに読んでんの？」",
@@ -59,7 +59,7 @@ text_array = [
     # "What have you been reading for a while now?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは表侮をのぞき桙込んだ。",

@@ -39,7 +39,7 @@ text_array = [
     # Sometimes it makes me wonder if it's a high-level robot at the heart of the day.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("さらに興味が湧いてきた。",

@@ -47,7 +47,7 @@ text_array = [
     # "The bread that I bought and the "Oden Bento" by the "Like Hand Poem" is not a catch when I catch a fish."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("力なく、弁当箱を持つ手が下がる。",

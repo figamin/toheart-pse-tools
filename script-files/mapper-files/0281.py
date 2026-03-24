@@ -71,7 +71,7 @@ text_array = [
     # It seems to be quite a real hot dish.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	これでオレの運勢を占ってくれるって？」",

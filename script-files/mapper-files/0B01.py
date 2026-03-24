@@ -223,7 +223,7 @@ text_array = [
     # I was thinking, "What the heck is that," I looked at the crowd,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そこにはさっきすれ痰違った執鮪事のじーさんの姿があった。",
@@ -243,7 +243,7 @@ text_array = [
     # I thought, "What the heck is that," I looked at the crowd,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そこにはさっきのごっついじーさんの姿があった。",

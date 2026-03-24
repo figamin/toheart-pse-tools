@@ -203,11 +203,11 @@ text_array = [
     # Perhaps he himself noticed it, but then he began hiding the lights.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("わざとらしい台倦詞に、声熕もないオレたち。",

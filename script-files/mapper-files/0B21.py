@@ -167,7 +167,7 @@ text_array = [
     # "You idiot. It's the same as last time you're sputuming to thrust in from the front."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「せめて、もう少し足を使ったらどうなの？	フット純ワークは薰基本亦の薰基本譁よ」",

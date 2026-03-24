@@ -43,7 +43,7 @@ text_array = [
     # "I picked up some sweets from me and I-Shin Chisho-chan, then climbed up the front door, and laughed loudly on the top of the house..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「だけど、そこでひな壇が崩れてもう大変！",

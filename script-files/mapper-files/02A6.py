@@ -19,7 +19,7 @@ text_array = [
     # He stood up saying, "It's time for b, it's time for b, it's time for b, and I got up.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「あっ、迎えがｗ磯翌ﾌか？	じ痰ゃあ、オレも校門までいっしょに行くよ」",
@@ -39,7 +39,7 @@ text_array = [
     # The old man who was greeted by the carpenter appeared from behind the locker limousine, which had been stopped.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	失邇礼しますって？	うん。じ痰ゃあ、また」",

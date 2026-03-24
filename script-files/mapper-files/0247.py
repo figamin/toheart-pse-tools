@@ -19,7 +19,7 @@ text_array = [
     # "I'll stay here."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「また、あの浮黒ネコにエサをやってたのか？	そうか。ご苦労だねえ」",
@@ -27,7 +27,7 @@ text_array = [
     # "And again, were you tampering with food on that floating black cat? I see. That's a pain."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	今度新しい魔法の薬をｍ骰るから、どんな薬がいいかって？	完成したら、オレにくれるって？	うーん、そうだなあ…」",
@@ -35,7 +35,7 @@ text_array = [
     # "Huh? I'm going to sniff a new B-magic potion next time, so what kind of potion would be best? When it's finished, I'll give it to you? Hmm, that's right..." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「うーん」",
@@ -63,7 +63,7 @@ text_array = [
     # "Huh? How do you use that? Hehe, are you so excited? B? I'll let the senior in front of me drink it. And then I'll like you and get some hot pot."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("へへへっ、照齒れてうつむいてしまった。",

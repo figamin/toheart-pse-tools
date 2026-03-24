@@ -39,7 +39,7 @@ text_array = [
     # However, his eyes as he watched me were faintly moist and shaking.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("あかりは、なにかを言いかけてやめた。",

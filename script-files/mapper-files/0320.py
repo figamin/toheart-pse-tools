@@ -79,7 +79,7 @@ text_array = [
     # He looks like he is wearing a familiar Sanskrit uniform...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「い、委員長じ痰ゃねーか」",
@@ -127,7 +127,7 @@ text_array = [
     # When I hear that,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長はなにやら辛そうな顔をした。",
@@ -199,7 +199,7 @@ text_array = [
     # However, he couldn't leave it alone, and if he continued like that, he would catch a cold the next day.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ほら、突っ立ってねーで、＝早く上がれよ」",
@@ -259,7 +259,7 @@ text_array = [
     # "Whis"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("マグカップにいれた熱いコーヒーを両手に、部屋へと戻ってくると、いつものあの気の強さはどこへやら、委員長は借りてきたネコのようにおとなしく待っていた。",
@@ -275,7 +275,7 @@ text_array = [
     # When I said this with a laughing face, the chairman said,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なにやら複雑な表﨣情を浮かべた。",
@@ -399,7 +399,7 @@ text_array = [
     # "And I was surprised, too. I never thought the chairman would be waiting for me in such a place."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「直接、家にｗ郁翌鞦痰｢いじ痰ゃねーか」",
@@ -463,15 +463,15 @@ text_array = [
     # "What is it? Just say it. If you're okay with it, I'll give you some advice, right?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("だが、うつむいたまま、なにも嘯答えない。",
@@ -483,7 +483,7 @@ text_array = [
     # "The chairman just now seemed to have no phlegm as I knew it."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「オレ、委員長があんな大ヱきするрヤツだとは思寬わなかった」",
@@ -499,11 +499,11 @@ text_array = [
     # "There's something really shaky about it, so there's a lot of heat, isn't it?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",

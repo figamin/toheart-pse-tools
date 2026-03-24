@@ -191,11 +191,11 @@ text_array = [
     # Apparently it's a tampering, or something that's really bouncing back.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("不意に話がとぎれた。",
@@ -223,7 +223,7 @@ text_array = [
     # The next breeze of the metal bat had been carrying a high-pitched sound, and as he was at the same time, Aya∴Ka's long hair was shaking.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("うーん。",
@@ -471,7 +471,7 @@ text_array = [
     # This means that Aya∴Kawa himself also said, ".
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("うーむ。",

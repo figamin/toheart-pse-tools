@@ -15,7 +15,7 @@ text_array = [
     # After the attack, the chairman called out to me, and the chairman called out to me.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なあ、ちょっと話が｢｢」",
@@ -55,7 +55,7 @@ text_array = [
     # How long will this be phlegm last? I don't think Hou will be able to escape from this annoying relationship.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱よし、そうだな。",

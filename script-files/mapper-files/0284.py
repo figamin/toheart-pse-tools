@@ -23,7 +23,7 @@ text_array = [
     # "My name is, Senpai. I'm sure my heart is very good."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレを見た先輩は、少しなにかを考えた後、またカードの束を取り出した。",
@@ -31,7 +31,7 @@ text_array = [
     # After seeing me, my senior thought up a little, he grabbed another stack of cards.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	閨占いますか？	そうだなあ…」",

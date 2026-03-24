@@ -67,7 +67,7 @@ text_array = [
     # I called out to the chairman.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("無言の委員長。",
@@ -79,7 +79,7 @@ text_array = [
     # "Because of that kind of thing, it makes you feel a bit noisy, right?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「しまった。",

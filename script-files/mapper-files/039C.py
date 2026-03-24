@@ -99,7 +99,7 @@ text_array = [
     # "Hey, the chairman, why is there only one member? Are you sure you have any friends who will return to Ebi?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なにもこたえない。",
@@ -111,7 +111,7 @@ text_array = [
     # "When will the chickens do this and go home quickly? Is there something about the heat that has been rushed to do?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なにも返さない。",

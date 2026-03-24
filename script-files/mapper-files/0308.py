@@ -75,11 +75,11 @@ text_array = [
     # At that time.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("おたがい、不意に、目と目が№合った。",
@@ -167,7 +167,7 @@ text_array = [
     # "As you, are you in contact now? Your hairstyle is also extremely high, so I couldn't understand anything without phlegm from afar."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なにやら複雑な表﨣情の委員長。",
@@ -271,7 +271,7 @@ text_array = [
     # "=Even the hot spring without glasses is pretty good, too."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「それに、その桙服熾も、髪型煬も翌似㍽合ってるぜ」",

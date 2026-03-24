@@ -27,7 +27,7 @@ text_array = [
     # Surprisingly, I wonder if that kind of thing can be done.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ふと見骭ると、綾∴香がじいーっとオレの顔を見ている。",
@@ -139,11 +139,11 @@ text_array = [
     # "The Witch Lady"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「｢｢ファイト」",

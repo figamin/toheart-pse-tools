@@ -55,15 +55,15 @@ text_array = [
     # Lucifer's cry is the Emperor of the earth, Belizhev's cry is the royal family, and Asta Hong Rot is the Grand Duke of Ebi...In the current evil demonology, the idea that Lucifer, Belis Ruzebub, and Astarut are the great powerful figures of the evil evil demons are becoming popular..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なるほどな」",

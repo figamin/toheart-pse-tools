@@ -223,7 +223,7 @@ text_array = [
     # "But, it's a world that I can't understand, even if it's a real fanatic."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「やっぱ、＝早めに腹が減骭るとか？」",

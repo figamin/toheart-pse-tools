@@ -99,7 +99,7 @@ text_array = [
     # I'm starting to look like a store clerk at a yacht.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「あと…、じ痰ゃがバターパイと｢｢」",

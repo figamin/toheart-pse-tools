@@ -275,7 +275,7 @@ text_array = [
     # The lion fell on the lion, and Segata Rio slapded it on the shoulder.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("うーん、香ロボット同士に芽生えた友﨤情か。",

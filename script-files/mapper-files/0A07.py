@@ -300,7 +300,7 @@ text_array = [
     # "Anyway, can you listen to me, "I'm talking about something so burnt?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「オレ、いまはまだ理緒ちゃんのこと、好きとかどうとか、そんなふうには正直思えない。",
@@ -320,7 +320,7 @@ text_array = [
     # "In that sense, it was a friend... that's what I meant."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんつーか、うまく言えねーけど…」",

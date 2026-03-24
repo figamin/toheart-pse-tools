@@ -267,7 +267,7 @@ text_array = [
     # The shadows of the two holding hands with lips and lips were stretching out in the distance to the side.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「あかり…」",

@@ -599,7 +599,7 @@ text_array = [
     # "So, for a while, please tamper with this and let me do what I want."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「な？」",

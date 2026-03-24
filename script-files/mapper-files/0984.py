@@ -91,7 +91,7 @@ text_array = [
     # "Thanks to this, I've lost about half of my life's power. I'm already out of gas now."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("雅史は、やれやれと苦笑する。",

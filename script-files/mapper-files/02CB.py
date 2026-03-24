@@ -15,7 +15,7 @@ text_array = [
     # I smiled and said that.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は悲しそうな顔でうつむいた。",
@@ -31,7 +31,7 @@ text_array = [
     # "Huh? What are you apologizing? There's such a nice weather. Is it too hot to let rain fall?" 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	本末当に魔法があることを、オレに見せてあげたかったって？」",
@@ -43,7 +43,7 @@ text_array = [
     # So...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「オレをｊばせたかった？」",
@@ -59,7 +59,7 @@ text_array = [
     # Senpai nodded with tears in tears.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩…。",
@@ -79,7 +79,7 @@ text_array = [
     # "I just happened to be b, just happening."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("こくん…。",

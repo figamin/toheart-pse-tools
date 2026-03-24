@@ -159,7 +159,7 @@ text_array = [
     # Yes, eat it"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("『どうせこうなると思って…』という発言に引っかかるものを感じたが、目の前のブツがうまそうだったので、とりあえず受け取って、口にすることにした。",
@@ -231,7 +231,7 @@ text_array = [
     # "Yeah, well, maybe that's what happens."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「どうしたの？」",
@@ -424,7 +424,7 @@ text_array = [
     # When I heard
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("彼女はやっぱり昨日と同じように、なにも答えず、ただ、ぼーっとこっちを見返すだけだった。",
@@ -448,7 +448,7 @@ text_array = [
     # I forcefully took his hand, and my ecstasy made my defeated senior wake up.Å
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは先輩の脚を見た。",
@@ -464,7 +464,7 @@ text_array = [
     # "I see, it looks like there's no injuries."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「足首ひねったとか、そういうことは？」",
@@ -484,7 +484,7 @@ text_array = [
     ("落ちていた学生鞄を拾い上げ、差し出すと、",
     "I pick up her school bag and hold it out to her."),
     ("「………」",
-    "…"),
+    "………"),
     # He picked up the student's stolen bag that had been left behind, picked up the student, and handed it over, and he replied, "..."
 
     ("彼女は無言でそれを受け取った。",

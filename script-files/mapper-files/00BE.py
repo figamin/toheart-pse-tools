@@ -39,7 +39,7 @@ text_array = [
     # "Throw away the chicken, throw away the chicken, and even the chicken will accumulate quickly."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんだよ？」",

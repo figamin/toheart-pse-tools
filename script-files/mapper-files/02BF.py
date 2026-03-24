@@ -95,7 +95,7 @@ text_array = [
     # I noticed my gesture waving my hand, and Senpai Kou started walking straight up here.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「諱先輩、こいつをなんとかしてくれよ。",

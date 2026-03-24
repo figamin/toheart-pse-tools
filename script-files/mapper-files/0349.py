@@ -319,7 +319,7 @@ text_array = [
     # One of the bathing girls said in a wild tone of luck.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("だが委員長は、いつものあのつまらなそうで興味なさそうな表﨣情を保ったまま、なにも嘯答えない。",

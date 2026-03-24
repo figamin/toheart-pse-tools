@@ -27,7 +27,7 @@ text_array = [
     # "Everyone has a kind of thing that only they have, and I want to cherish those values, but I don't want to reveal them from the perspective of the people, so I can't accept them clearly."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「でも、葵ち痰ゃんにはそれが言えるんだよな。そういうとこ、うらやましいよ」",

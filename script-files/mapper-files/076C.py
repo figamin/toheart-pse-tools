@@ -387,7 +387,7 @@ text_array = [
     # The child leapt in and looked excited.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("少しとまどって、琴音ち痰ゃんはぎこちなくうなずく。",

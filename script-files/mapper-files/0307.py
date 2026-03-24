@@ -519,7 +519,7 @@ text_array = [
     # "As you, my name is, slut."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「お隣さんだな。しばらくよしくたのむぜ」",
@@ -527,7 +527,7 @@ text_array = [
     # "You're your neighbor. I'll ask you for a while."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長はなにも言甯わず、そっぽをｌく。",

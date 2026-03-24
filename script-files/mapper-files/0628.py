@@ -67,11 +67,11 @@ text_array = [
     # Akari shook her head from side to side.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("少し間を置いて、オレは言った。",
@@ -195,23 +195,23 @@ text_array = [
     # "Yeah"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -311,7 +311,7 @@ text_array = [
     # "At the Kenyukusho, everyone is waiting for me to return home. With the development staff, Fukushi and others, and ""
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「これから生まれる、わたしのｖたちが」",
@@ -631,7 +631,7 @@ text_array = [
     # "What do you think?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("少し考えてから、オレは言った。",
@@ -663,7 +663,7 @@ text_array = [
     # "That's what makes it more fun, so you have to keep phlegm up."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オッサンはしばらく、オレを見つめた後、",
@@ -755,7 +755,7 @@ text_array = [
     # "Mrrrr..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「マルチ…」",

@@ -231,7 +231,7 @@ text_array = [
     # It's a bit of a mess, or maybe it's really good for the realm?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("機級があったら試してみるか。",

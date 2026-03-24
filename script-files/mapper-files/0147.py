@@ -231,7 +231,7 @@ text_array = [
     # "You're so frustrated, I thought you two were right there... Because when I asked Sato, he said something that's pretty similar..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("雅史のрヤ鴻ロー、氈勝闖手なこと言うんじ痰ゃねー。",
@@ -267,7 +267,7 @@ text_array = [
     # He slams his palm on the palm with his fist.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「で、ものはついでなんだけどさ｢｢」",

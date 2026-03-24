@@ -127,7 +127,7 @@ text_array = [
     # "Not that... I'll just have to go through it little by little."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「オレはあきらめてねえからな。それなのに、琴音ち痰ゃんからあきらめてたら今までと同じだ？」",
@@ -135,7 +135,7 @@ text_array = [
     # "I've never given up on being a veteran. But if I give up on Kotone Chisho-chan, then it's the same as before, right?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("小さくうなずく琴音ち痰ゃん。",

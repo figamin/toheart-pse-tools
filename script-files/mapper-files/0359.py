@@ -83,7 +83,7 @@ text_array = [
     # "I'm not going to get it, I think it was a lot of trouble to see Isohachi."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「でも、さっきの委員長の笑顔、それだけの価値はあったぜ？」",

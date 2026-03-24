@@ -479,7 +479,7 @@ text_array = [
     # "As I said it, it's the same meaning."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは驚いた。",

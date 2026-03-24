@@ -15,7 +15,7 @@ text_array = [
     # Akari was easy to say that she was a huge girl and had no phlegm, but for some reason she felt a slight urgency to say that she was lucky enough to say that.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なに？	いま、なんか言おうとしとったんち痰ゃうの？」",

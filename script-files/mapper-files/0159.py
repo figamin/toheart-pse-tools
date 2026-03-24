@@ -99,7 +99,7 @@ text_array = [
     # "Akari"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「お前って…」",
@@ -107,7 +107,7 @@ text_array = [
     # "You're..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「｢｢っっっっっっとに、縺弱いな〜〜〜〜」",
@@ -127,11 +127,11 @@ text_array = [
     # "'Huh, by the way, р, why am I here?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いまのがいわゆる『あかりギャャグ』か？」",
@@ -263,7 +263,7 @@ text_array = [
     # I'll just make him a housekeeper.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("しかし、あかりのやつ、エプ鴻ロン姿が妙に翌似㍽合うよなァ。",
@@ -295,7 +295,7 @@ text_array = [
     # He sings happily as he controls the rhythm of his legs.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("うーむ、これはやっぱ家政婦が仕鮪事してるというより、新婚家薗の盾ワンシーンってとこだな。",
@@ -631,7 +631,7 @@ text_array = [
     # The food and trout have already been done, and the tidying up steam has been completed, and the two have no more heat have been left, so somehow they have become uncool.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -763,7 +763,7 @@ text_array = [
     # Once again, Akari called out my name.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは｢｢。",

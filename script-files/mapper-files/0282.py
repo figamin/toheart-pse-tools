@@ -11,7 +11,7 @@ text_array = [
     # "I'm going to have to go through it, so I'll have to get a fortune teller."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	オカルト研結級の部室に行きますか？",
@@ -55,7 +55,7 @@ text_array = [
     # When I say that,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は、どこに座高うかと悩んでいる様子だった。",
@@ -207,7 +207,7 @@ text_array = [
     # And then, Senpai's hand stopped.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「あ？	終尞わった？」",
@@ -255,7 +255,7 @@ text_array = [
     # When I said that, my throbbing rises,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩熹も遅れて席を立った。",
@@ -263,7 +263,7 @@ text_array = [
     # Senpai Kei also got late and got up.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	またたずねてｗていいですかって？",
@@ -275,7 +275,7 @@ text_array = [
     # Ah, sputum is hot and hot."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「今度は部室燻も見せてくれよな？」",
@@ -287,7 +287,7 @@ text_array = [
     # At my ecstatic words, my senior nodded to Ko-kun and said, "See you later..." and left the classroom.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("綺淏麗だし、素直なんだけど、やっぱり少し変な先輩だよな。◯",

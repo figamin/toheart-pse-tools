@@ -67,7 +67,7 @@ text_array = [
     # Just hitting my arm made me feel a lot of pain.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレが聞くと、女の子は無言でうなずいた。",
@@ -307,7 +307,7 @@ text_array = [
     # My heart and I looked up at the window again.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("枠にちょっとだけガラスを残して、縺後は全泊部なくなっている。",

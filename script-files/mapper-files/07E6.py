@@ -31,7 +31,7 @@ text_array = [
     # I can't help but think that I'm a good guy, but I think that he's a bad guy and no good enough to abandon his overflowing woman here.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("琴音ち痰ゃんはオレの言葉に圧倒されたように見える。",
@@ -75,7 +75,7 @@ text_array = [
     # "It's too late. If it's the one who's hanging out with me, then I have no choice but to control my supernatural powers quickly."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「返抹事は？」",

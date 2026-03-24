@@ -331,7 +331,7 @@ text_array = [
     # "Well, that's how it is. So, don't worry about him, how long?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("綾∴香はしばらくオレを見つめてから、",
@@ -447,15 +447,15 @@ text_array = [
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「そうだな…」",
@@ -547,7 +547,7 @@ text_array = [
     # There was a photo of a girl with long hair kicking her in a throbbing hand.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ま、間違いない。",
@@ -687,7 +687,7 @@ text_array = [
     # That's luxurious.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんだ？」",
@@ -711,7 +711,7 @@ text_array = [
     # "Tsmear, what's more, what's hot?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんだよ」",
@@ -955,15 +955,15 @@ text_array = [
     # "My ecstatic slut is the same. I've been thinking about you lately... why is that so?" 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",

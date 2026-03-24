@@ -51,7 +51,7 @@ text_array = [
     # I was so excited that I was able to understand my spirits and said with a Shinbu sword-like face.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("それを理解してか、あかりもすぐには口を開かず、噤答えをためらった。",
@@ -63,19 +63,19 @@ text_array = [
     # I think he also understood the meaning of my word, "Is it in the room lol?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そのまま、短い沈黙が訪齧れた。",
@@ -115,7 +115,7 @@ text_array = [
     # It must be a natural confusion.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -203,7 +203,7 @@ text_array = [
     # "But, though."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なのに、まだ、キス…止まりなんだよな」",
@@ -211,7 +211,7 @@ text_array = [
     # "But, the kiss is still...it's stopped."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("キス…のあたりで、あかりの肩がぴくっと動いた。",
@@ -223,7 +223,7 @@ text_array = [
     # "It's really bad, but I think it's a bit more difficult to say that it's a bit more phlegm, but I think that going a little further and not phlegm is good."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「もちん、オレの勝闖手な意見だけど…」",
@@ -339,7 +339,7 @@ text_array = [
     # What are you talking about, I'm a cruel person.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("わずかな沈黙。",
@@ -423,7 +423,7 @@ text_array = [
     # "Ah..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -459,7 +459,7 @@ text_array = [
     # "...I'm still in my Sanskrit uniform, and if it's too late, mom will worry me..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -811,7 +811,7 @@ text_array = [
     # I have no need to worry, no need to worry, no need to be exhausted, and I have no need to be in that relationship, so I guess that's okay or not.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そうだよな。",
@@ -999,7 +999,7 @@ text_array = [
     # I opened the lock.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…あかり」",
@@ -1067,7 +1067,7 @@ text_array = [
     # When I hear it,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("あかりははずかしそうに目を嘯伏せて、",
@@ -1103,7 +1103,7 @@ text_array = [
     # "...Yeah... because I was still in my Sanskrit uniform, and when it gets late, moms worry, and I also wanted to go to the next bath... I wanted to go for the % off..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そう言えば、あかりの髪からは、かすかにシャャンプーの≠香闕りがした。",
@@ -1135,15 +1135,15 @@ text_array = [
     # Akari said embarrassedly.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -1211,7 +1211,7 @@ text_array = [
     # "Believe me, phlegm, my name is, thank you."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「しょうがねーなァ、はは…」",
@@ -1219,7 +1219,7 @@ text_array = [
     # "There's no slut, haha..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ったくよー」",
@@ -1279,15 +1279,15 @@ text_array = [
     # "...but...that's so bad..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」Å",
@@ -1383,19 +1383,19 @@ text_array = [
     # "Oh, that's not..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("わずかな沈黙。",
@@ -1431,7 +1431,7 @@ text_array = [
     # "...Choosh sputum."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…ごめん」",
@@ -1515,15 +1515,15 @@ text_array = [
     # "Bang, me..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -1551,7 +1551,7 @@ text_array = [
     # "Anyway, please come back now."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「お前とのこと、オレなりにもう少し真武剣に考えてみる」",
@@ -1699,7 +1699,7 @@ text_array = [
     # Her hair was still wet, but she was exhausted and had no energy to move.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんでこうなっちまったんだ。",
@@ -1719,7 +1719,7 @@ text_array = [
     # My fist hurts throbbing.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("薄齡れる意識のなかで思った。",

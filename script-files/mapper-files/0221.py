@@ -31,7 +31,7 @@ text_array = [
     # When I said that, my senior was embarrassed,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("こくん、とうなずいた。",
@@ -75,7 +75,7 @@ text_array = [
     # He holds a small, suspicious nitrogen bottle in his hand.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	それがホレ薬？	ちょっと見せて」",
@@ -119,7 +119,7 @@ text_array = [
     # In the end, are you doubting it?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	п私が飲んでみますって？	オレのことが好きになったら成功だって？」",
@@ -143,7 +143,7 @@ text_array = [
     # "...I drank it" 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("飲み終えた後、諱先輩は、まるでアルコールでも飲んだみたいに顔を火照らせ、ぽーっとした表﨣情になった。",
@@ -215,7 +215,7 @@ text_array = [
     # "I mean, that's the medicine my senior was making? That senior nodded, so I'm not sure what to do with it." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は困った顔をした。",
@@ -227,7 +227,7 @@ text_array = [
     # "Ah, it's tampering, what do you mean, that..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	オレも飲んでみますかって？	胸がドキドキしますからって？	そ、それって、オレに好きになって欲しいってこと？」",
@@ -235,7 +235,7 @@ text_array = [
     # "Huh? Would you like me to drink some geeks? Is it because my heart is pounding? Does that mean I want them to fall in love with me?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は恥ずかしそうにうつむいた。",
@@ -267,7 +267,7 @@ text_array = [
     # My throbbing throbbing and asked to drink a small bottle of meat from the whole house.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そのとき、諱先輩が、なにやら『…あっ』とつぶやいたが、はて、なんのことだう？",
@@ -319,7 +319,7 @@ text_array = [
     # I don't slam my fingers and don't pose a question about the medicine that doesn't work, and I like my seniors.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんだか顔が熱い。",
@@ -343,7 +343,7 @@ text_array = [
     # The medicine I just said was really getting a crying call, so I guess it's phlegmy?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("あー…、効くー…。",
@@ -387,7 +387,7 @@ text_array = [
     # At that time,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩がオレの名前を呼んだ。",
@@ -415,7 +415,7 @@ text_array = [
     # What about seniors?”
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	効いてますって？」",
@@ -475,7 +475,7 @@ text_array = [
     # When I opened my hands,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は近寄って、オレの腕のｒにその体をあずけてきた。",
@@ -491,7 +491,7 @@ text_array = [
     # It smells nice.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はうっとりと目を細めて、オレに身を任せている。",
@@ -575,7 +575,7 @@ text_array = [
     # I like it that much.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("だから、こうしているのも魔当然うれしいにｌまっている。",
@@ -615,7 +615,7 @@ text_array = [
     # "Because I'm feeling that my senior is feeling right now, and is that simply because of the medicine b?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「だったら、薬の効果が消えたらその瞬間、酔いが覚めるみたいに、オレのこと好きでもなんでもなくなっち痰ゃうのか？」",
@@ -631,7 +631,7 @@ text_array = [
     # "That's kind of sad."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「そんなんじ痰ゃないんだ。オレが聞きたいのは、そういう『好き』じ痰ゃないんだ」",
@@ -647,7 +647,7 @@ text_array = [
     # "I love you so much."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「こんな薬がなくても、諱先輩のこと、ずっと前から大好きだった」",
@@ -671,7 +671,7 @@ text_array = [
     # Then, the senior of the person in charge
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("しばらく考えてから、ぽそぽそと耳燻もとでささやいた。",
@@ -679,7 +679,7 @@ text_array = [
     # After thinking about it for a while, I whispered, slurping around with my ears.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なに？	えっ、諱先輩熹もオレのこと、前から好きだったって？	ほ、ほんとか？」",
@@ -723,7 +723,7 @@ text_array = [
     # After a dry laugh, my senior asked when he saw my throbbing throbbing.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…えっ？	オレの言ってる好きはどういう意味かって？	…そうだな、諱先輩が言ってるみたいな『友だち』って意味じ痰ゃないんだ。なにが痰違うかっていうと、えーと、こうして抱き№合ったりしたくなる関係っつーか」",
@@ -731,7 +731,7 @@ text_array = [
     # "...Huh? What does "I'm talking about likes" mean? ...That's right, the meaning of "friends" as my senior is saying. What's wrong with the phlegm? Well, it's a relationship that makes you want to hug them like this."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…えっ？	いまも抱き№合ってます…って？	そ、そうだよな。…じ痰ゃあ、あと、キスとかしたりさ。｢｢えっ！？	せ、諱先輩熹もオレとしたいって！？」",
@@ -807,7 +807,7 @@ text_array = [
     # I whisper.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("うるんだ瞳が、オレを見つめている。",
@@ -819,11 +819,11 @@ text_array = [
     # My geire brought her face closer, gently scooped up the senior's face with her hands, and gently layered her lips together.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("軽く触齔れ№合うだけのキス。",
@@ -923,7 +923,7 @@ text_array = [
     # In front of me was a senior with a slightly troubled look on his face.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("心配そうにオレを見ている。",
@@ -939,7 +939,7 @@ text_array = [
     # Then my senior said with apologetic expression.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	さっきの薬？	じつは、ひとくち飲むだけで十分効果があるって？」",
@@ -975,7 +975,7 @@ text_array = [
     # I watched Tenrei and took a break.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	あ、もう平気。…諱先輩のほうは？」",
@@ -991,15 +991,15 @@ text_array = [
     # "I see..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("薬が切齔れたか。",
@@ -1007,15 +1007,15 @@ text_array = [
     # Has the medicine been cut off?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -1075,7 +1075,7 @@ text_array = [
     # I like my senior more than I like Hou more than the one from the World Bara."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	諱先輩熹も？	そーか、そーか！」",
@@ -1143,7 +1143,7 @@ text_array = [
     # I can't help but feel that someday, the two of them will be exposed to a huge phlegm disorder that will make them even a gift for their feelings.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そんなことを考えていると…。",
@@ -1163,7 +1163,7 @@ text_array = [
     # "...Is it a senpai?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	どうしたんですか…って？	あ、いや、べつに…」",
@@ -1183,7 +1183,7 @@ text_array = [
     # Stroke and stroke...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	なにかお悩みなら、ぜひ鰍相談してください…って？」",
@@ -1199,7 +1199,7 @@ text_array = [
     # "It's a mess, so..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「オレは…」",
@@ -1207,7 +1207,7 @@ text_array = [
     # "I'm so excited..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なにも…」",
@@ -1223,11 +1223,11 @@ text_array = [
     # Stroke, stroke, stroke...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…へ、へへ、まいったな。",
@@ -1279,7 +1279,7 @@ text_array = [
     # When I say that, my senior is
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("悲しい顔をした。",
@@ -1327,7 +1327,7 @@ text_array = [
     # At that time,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はオレの側に近寄驫ると、耳燻もとでぽそぽそとささやいた。",
@@ -1351,7 +1351,7 @@ text_array = [
     # "Rich... what?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	ふたりの愛がまわりに祝沛福される魔法の儀式？」",
@@ -1371,7 +1371,7 @@ text_array = [
     # I tried to smile wryly without thinking,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("じっとオレを見つめる先輩を見て、やめた。",
@@ -1531,7 +1531,7 @@ text_array = [
     # When I say that, my senior is
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんだか申し訳ない顔をした。",
@@ -1539,7 +1539,7 @@ text_array = [
     # He looked a bit apologetic.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	駄目？	どうして？」",
@@ -1547,7 +1547,7 @@ text_array = [
     # "Huh? No? Why?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「お屋敷で…パーティ？」",
@@ -1583,7 +1583,7 @@ text_array = [
     # "Ah, gomen! I'm not the only one who's done now! Please forget about it."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「今厓日の用はそれだけ。",
@@ -1655,7 +1655,7 @@ text_array = [
     # Well, I know that the amount of phlegm I earned from working part-time, and the amount of slutty you can buy is enough.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("あ〜あ、なんでオレは、流家薗に生まれちまったのかねえ。",
@@ -1747,7 +1747,7 @@ text_array = [
     # "What's wrong? Is the party going up soaring?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("氈次の言葉を聞いた途端、",
@@ -1815,7 +1815,7 @@ text_array = [
     # When I called out loud
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("薄暗がりのなか、諱先輩が姿を見せた。",
@@ -1835,7 +1835,7 @@ text_array = [
     # But, my senior name...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「な、なんで、ドレスなんて…」",
@@ -1843,7 +1843,7 @@ text_array = [
     # "Wh, why are you so harshly replies..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「｢｢えっ、ええっ！？	パーティを途湯で抜けてｗたってぇ！？	い、いいのかよっ、だって、今厓日の主役だ？」",
@@ -1855,7 +1855,7 @@ text_array = [
     # However, Senpai Kotoshi didn't say anything about the hot topic, but when I approached my guts, I was able to smoke my guts.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("優しくささやいた。",
@@ -1879,7 +1879,7 @@ text_array = [
     # "See, Senpai..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレはその肩を抱いた。",

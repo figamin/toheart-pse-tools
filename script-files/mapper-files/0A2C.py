@@ -167,7 +167,7 @@ text_array = [
     # "If you don't like it that much, it looks like Kabanrasu is a shame."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("理緒ちゃんは空を警戒している。",

@@ -35,7 +35,7 @@ text_array = [
     # The dry spring lily style fluttered the hems of Senpai's hair and skirt.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「どうかした？	えっ？	風があるとカードが飛んじ痰ゃうって？	そうか、そうだよな。",
@@ -103,7 +103,7 @@ text_array = [
     # Eyes meet the number.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なになに？	えっ、金運が上昇？	へえ、いまは金㈲欠だかんな、そり痰ゃ浮助かるぜ」",
@@ -111,7 +111,7 @@ text_array = [
     # "What? What? What, my financial luck is rising? Wow, I don't have a lot of money right now, and I'll save you from the phlegm." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「でも友だち関係によくない宸兆候？	とくに親しい友人に対しては気をつかうようにと」",
@@ -131,7 +131,7 @@ text_array = [
     # Senpai cleared out the cards on the table and stood up.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そして、オレになにやら手渡す。",
@@ -143,7 +143,7 @@ text_array = [
     # "What is this?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ、アミャレット？	ああ、お守りか。さんきゅっ。",
@@ -155,7 +155,7 @@ text_array = [
     # I'll cherish it!”
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩の頬が少し赤逅らんで見えたのは、照齒れていたせいだうか、それとも射し桙込む光が映ったからだうか。",

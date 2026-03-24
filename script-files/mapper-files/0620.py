@@ -95,7 +95,7 @@ text_array = [
     # I'm so excited, crying, crying, crying, crying, crying...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("しつこいな。",

@@ -43,7 +43,7 @@ text_array = [
     # "What? I was thinking of going to a park with a view of the sea at the beach and relaxing."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いま、しばらく、さぼること考えた？」",

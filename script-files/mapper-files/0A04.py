@@ -139,7 +139,7 @@ text_array = [
     # "Wait, wait. Why are you so angry? Did this guy do something?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
 ]

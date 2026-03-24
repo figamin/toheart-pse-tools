@@ -123,7 +123,7 @@ text_array = [
     # "Hmm, it's a surprisingly plain lunch. Oh, that hamburger looks delicious." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	もしよかったら食べますかって？	おう、食べる、食べる！	へへっ、悪いな、催促しち痰ゃったみたいで。",
@@ -151,7 +151,7 @@ text_array = [
     # "Yeah, it's delicious! As expected, they use some superb meat."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	このソーセージも食べますかって？	でも先輩のぶんがなくなっち痰ゃうだ？」",
@@ -159,7 +159,7 @@ text_array = [
     # "Huh? Would you like to eat this sausage too? And the senpai is gone, so phlegm is it?" 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いつも残しますから？	ダ＜メじ痰ゃないか、そのくらい食べねーと」",
@@ -167,7 +167,7 @@ text_array = [
     # "When will I leave some hot pot? I'm not going to eat that much."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、今度からもう残しませんって？	うん、そうしなさい。でも、まあ、今厓日のとこはしょーがない。オレが手伝ってやるよ」",
@@ -175,7 +175,7 @@ text_array = [
     # "Eh, you won't leave any more hot pots next time? Yes, do that. And Ho, well, there's no slut on the day right now. I'll help you and tamper with it."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「はい、あ〜〜〜〜〜〜〜〜〜〜〜〜〜ん」",

@@ -67,7 +67,7 @@ text_array = [
     # The bather narrowed her eyes and chuckled.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ん、なに？	じぃーと見て」",
@@ -355,11 +355,11 @@ text_array = [
     # "Someday, the owner will become a friend of the next day, the next day's friend."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("一呼吸おいて、ふたりは同椏時にプッと≠吹き出した。",

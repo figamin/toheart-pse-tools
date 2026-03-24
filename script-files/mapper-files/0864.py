@@ -19,7 +19,7 @@ text_array = [
     # When I was shown such a film, I would rather be gross or even boil.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("予想どおり、がっかりした様子の撃レミィ。",

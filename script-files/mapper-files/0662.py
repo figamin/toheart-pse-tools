@@ -187,11 +187,11 @@ text_array = [
     # "Pure? Now, are you not slanderous enough to slander?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",

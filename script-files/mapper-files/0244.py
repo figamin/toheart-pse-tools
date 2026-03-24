@@ -71,7 +71,7 @@ text_array = [
     # "Huh? You've been searching for a floating black cat that has been living around here recently? Are there cats like that?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いるって？	んで、ダウジングで捜してる最穀だと…」",
@@ -99,7 +99,7 @@ text_array = [
     # "Hey, cats. Come out."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ガサガサ。",
@@ -111,7 +111,7 @@ text_array = [
     # "Neko-sama, come out lol"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ガサガサ。",
@@ -123,7 +123,7 @@ text_array = [
     # "Not there..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	ダウジングの結果ではどうやらこの盾縁の下にいるようですって？	そうか。",
@@ -147,11 +147,11 @@ text_array = [
     # Two shining eyes were discovered in the darkness beneath the sinner.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("目と目が№合った。",
@@ -167,7 +167,7 @@ text_array = [
     # "Cut-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-cqui-
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ちっちっちっちっち…」",
@@ -251,7 +251,7 @@ text_array = [
     # When I was halfway through, I almost gave up,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩がし痰ゃがんで、閨手招きした。",
@@ -271,7 +271,7 @@ text_array = [
     # "…Hey"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は浮黒ネコを抱いてじっと見つめている。",
@@ -327,7 +327,7 @@ text_array = [
     # "I'm not phlegm, why again?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	氈次の儀式のいけにえに…｢｢って、いっ、いけにえっ！？」",
@@ -363,15 +363,15 @@ text_array = [
     # "...Haha, ha, you're kidding me so hard, Senpai? That kind of cruelty can't be done by a kind senior. B. Is he the current jiccup?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「マジですんの？」",
@@ -403,7 +403,7 @@ text_array = [
     # This is definitely going to be a hit.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は鰍相変﨑わらず、じぃ〜っと可愛くないネコを見つめていた。",
@@ -511,7 +511,7 @@ text_array = [
     # "Hey, this...! Okay, Senpai. Let's start the ritual right away after the school day."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はじっとネコと見つめて動かない。",
@@ -523,7 +523,7 @@ text_array = [
     # "Hmm? What's wrong?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	かわいそう？	可哀想って、この可愛くないネコがか？」",
@@ -531,7 +531,7 @@ text_array = [
     # "Huh? Poor me? Poor, is this uncute cat?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ、かわいい！？	うそだぉ、こんな桙憎ったらしいネコのどこが可愛いんだ！？」",
@@ -539,7 +539,7 @@ text_array = [
     # "What, is it okay?! That's a lie, what's so cute about this cat that you've hated with?!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	やっぱり可愛いって？	マジ？」",
@@ -571,7 +571,7 @@ text_array = [
     # Apparently, the standard for being tampered with or cute is really crazy.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	いけにえはやめにするって？	ま、まあ、それは構寘わねーけど」",
@@ -579,7 +579,7 @@ text_array = [
     # "Huh? You're going to stop tampering with sacrifices? Well, that's a shame."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ！？	かわりに飼う！？	飼うって、このクソネコを！？」",

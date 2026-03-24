@@ -67,7 +67,7 @@ text_array = [
     # I think it was since I went to Puban Ra C Moro when I was in elementary school.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	諱先輩のｍ骰るのを真乱似してくれって？」",
@@ -83,7 +83,7 @@ text_array = [
     # "Okay, understand."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("くるくる…。",
@@ -155,7 +155,7 @@ text_array = [
     # My super-sexy looks more sloppy.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	氈次は洗逅礼を行います？	洗逅礼って？」",
@@ -163,7 +163,7 @@ text_array = [
     # "Huh? Will you be holding a babe at Sachiko? What is Sachiko?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「呪文みたいなもの？	ふたりが№仲良くなるための呪文ってこと？」",
@@ -203,7 +203,7 @@ text_array = [
     # Once the saniko and tampering were over, Senpai Konohana took out a red cricket ribbon and tied up two Tou C Mo Konorokoshi dolls.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	これで№仲良くなれんの？」",

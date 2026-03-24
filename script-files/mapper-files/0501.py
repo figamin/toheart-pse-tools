@@ -143,7 +143,7 @@ text_array = [
     # ""No one listened again..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「やっぱりр私、勧誘が下濶手なのかな…」",
@@ -159,15 +159,15 @@ text_array = [
     # "No matter how long, no matter how long, no matter how long, I can't keep up with Aya∴Ka..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("しばらくして｢｢。",

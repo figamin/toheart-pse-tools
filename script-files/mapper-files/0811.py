@@ -275,7 +275,7 @@ text_array = [
     # I don't know who's doing, but it's a hot spring with Hide*ro-ro-ro.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("レミィは無言でオレの話に耳を傾けている。",

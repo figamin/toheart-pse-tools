@@ -75,7 +75,7 @@ text_array = [
     # "It's so troublesome and hard work."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("すると委員長は『なんでр私が…』とでも言いたげに、ため息をついてそっぽをｌいた。",
@@ -167,7 +167,7 @@ text_array = [
     # "It's a bit of a silence, but if I don't take that much, why would I be even more stupid?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("だが、言うことはやっぱりキツイ翼女だった。◯",

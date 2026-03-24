@@ -19,7 +19,7 @@ text_array = [
     # After the attack, Kotone Chisho-yan called out, and he replied with a terrifying and terrifying cry.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレの顔をじっと見つめる。",
@@ -47,7 +47,7 @@ text_array = [
     # "Do you remember? I was so excited about it before, the guy who hit me on the stairs during lunch break."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("琴音ち痰ゃんはこくんとうなずいた。",
@@ -103,7 +103,7 @@ text_array = [
     # "I'm curious, why did you do that?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("琴音ち痰ゃんは黙ってしまった。",

@@ -475,7 +475,7 @@ text_array = [
     # "yes"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("な、なんか照齒れるな。",
@@ -635,7 +635,7 @@ text_array = [
     # "That's a joke."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「以前、たまたま、新婚旅行謐先の高ロンドンで手に入齠れられたそうです。旅行のおみやげのひとつとしてモ買ったものだとか」",
@@ -683,7 +683,7 @@ text_array = [
     # I said, showing off my bento bag.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「セバスチャャンは…って？	もう帰ったよ。とこで、なんだよ、そのセバスチャャンってのは」",
@@ -691,7 +691,7 @@ text_array = [
     # "What is Sebaschayan... What? I'm back now. What is Sebaschayan?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	愛のニックネームだって？	その名で呼ばれると幸運になる？	へえ、じ痰ゃあ、オレもひとつ…いや、やっぱりいいや」",
@@ -699,7 +699,7 @@ text_array = [
     # "Huh? It's a nickname for love? You'll be lucky if you call me that name? Wow, I'm sputum, and I have a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a bit of a
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	閨占おうかって？	いい、やめとく。だって、ポсヤッチオとかそんな格好悪い名前だったらイсヤだから」◯",

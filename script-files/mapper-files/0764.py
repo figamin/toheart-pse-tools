@@ -119,7 +119,7 @@ text_array = [
     # "Do you think it's because of the bathing atmosphere or something?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレはあいまいにうなずく。",

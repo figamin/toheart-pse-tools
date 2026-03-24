@@ -27,7 +27,7 @@ text_array = [
     # Senpai nodded.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	諱先輩のほうもそう思って、オレを待っててくれたって？	そうなのか？」",
@@ -55,7 +55,7 @@ text_array = [
     # If it's hot, a black-painted chrysanthemum limousine will probably come to the point of being exposed to the same time as leaving the school gates...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("今厓日に限ってｗないぞ。",
@@ -79,7 +79,7 @@ text_array = [
     # "Isaac Senpai!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「瘁例のじーさんがｗ磯翌Oに｢｢」",
@@ -151,7 +151,7 @@ text_array = [
     # "Now, O-san, hurry up."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("エスコートする執鮪事のじーさんに、諱先輩がぽそぽそとなにかを言った。",
@@ -179,7 +179,7 @@ text_array = [
     # "Anyway, I won't do it! O-sama!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いいえ、なりませぬっ！	たとえ、おｏ様がなんと言甯われましても｢｢」",
@@ -195,7 +195,7 @@ text_array = [
     # """Uh!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「せ、芹°香おｏ様。",
@@ -207,7 +207,7 @@ text_array = [
     # While knowing that I am weak on that face"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…くっ」",
@@ -215,7 +215,7 @@ text_array = [
     # "...Damn it."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…くくっ」",
@@ -239,7 +239,7 @@ text_array = [
     # My senior said to me.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ！？	オレを車で翌送ってくれるって？",
@@ -271,7 +271,7 @@ text_array = [
     # Well, I'll keep quiet and tamper with the moment I'm off.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("こちらへどうぞ、と歩き出す先輩に続いて、オレは鰍リムジンへと移動した。◯",
@@ -359,7 +359,7 @@ text_array = [
     # The car slowly stopped.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	家まで翌送迹らなくてもいいのかって？	もう目と鼻の先だよ。",

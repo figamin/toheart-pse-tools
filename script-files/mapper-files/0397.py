@@ -35,7 +35,7 @@ text_array = [
     # He lifted his hand up and smiled,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長はなにもこたえず、視諮をそらした。",

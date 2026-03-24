@@ -15,7 +15,7 @@ text_array = [
     # I gave a thumbs up.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	すごいですって？	いや、そんなことはないよ。",
@@ -27,7 +27,7 @@ text_array = [
     # The easy way, the hot water is just my super-loving Amami."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	学業アップの魔法がありますけど、諱よしければ、おかけしますって？」",
@@ -111,7 +111,7 @@ text_array = [
     # When I say that, my senior is
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("微妙に目を嘯伏せた。",

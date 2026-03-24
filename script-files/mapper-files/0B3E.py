@@ -19,7 +19,7 @@ text_array = [
     # "As you, my name, Senpai."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「どこ行くの？	教室移動？」",
@@ -35,7 +35,7 @@ text_array = [
     # "Ah, that's right, Senpai. I'm really, I have something I want to ask Senpai."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんでしょう、と先輩は話に乗ってくれる。",
@@ -47,7 +47,7 @@ text_array = [
     # "It's about *noaya∴Ka."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「うん、そう。あいつ、以前、空闍手竡やってたとか言ってたけど、どのくらい強いんだ？」",
@@ -67,7 +67,7 @@ text_array = [
     # "And why is he so strong? B? I don't think Kao is a female high school student the following year, my name is."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ、＊晩家でトレーニングしてるって？	綾∴香が？」",
@@ -103,7 +103,7 @@ text_array = [
     # "And here, is Aya∴Kara? Is there anything like a weakness like that of a weakness?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「そう、苦闍手な攻ｍ撃とか。姉さんなんだからウィークポイントぐらい知ってるだ？」",

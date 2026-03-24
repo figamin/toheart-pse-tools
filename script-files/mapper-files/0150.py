@@ -27,7 +27,7 @@ text_array = [
     # He reached out and touched his lips.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("当然だが、やっぱりそれはいつもの自分の唇だった。◯",

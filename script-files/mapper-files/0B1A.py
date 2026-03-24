@@ -119,7 +119,7 @@ text_array = [
     # "It was pretty good, the attack I'm on now. I was really trying to get a J-raid, M-raid lol, I thought I'd try to hit the next day, and I was aiming for a counter-T. So what is feint?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「素人だし軽くあしらおうと思ってたから、うっかり引っかかるとこだったわ」",

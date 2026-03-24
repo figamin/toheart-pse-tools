@@ -379,7 +379,7 @@ text_array = [
     # "Is that so after all? I can't help but remember it, but somehow I feel like I've been a male before..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ええと、いつだったっけ？",

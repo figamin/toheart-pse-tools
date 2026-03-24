@@ -187,7 +187,7 @@ text_array = [
     # "It's been a long time since attacking and attacking M-shots are the biggest slender slaughter, so I can no longer protect myself from the slaughter."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("縺弱いフリすり痰ゃ良かった。",

@@ -51,7 +51,7 @@ text_array = [
     # When I say that,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は顔を赤逅らめてうつむいた。",
@@ -71,7 +71,7 @@ text_array = [
     # As soon as I left the school gates, it was like I had been targeting, and a shining, floating black-painted chrysanthemum limousine came running wild.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("じじいめ、オレと先輩の間を裂くことに命かけてやがるな。",
@@ -247,7 +247,7 @@ text_array = [
     # "Sister-san's hotpot is hard to put in the corner, too."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("＊が言うと、諱先輩は、ぽっと頬を赤逅らめてうつむいた。",
@@ -295,7 +295,7 @@ text_array = [
     # "Oh, you're flattering, slut?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「｢｢クスクス。あんたって、お調子者なのねぇ」",

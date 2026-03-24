@@ -91,7 +91,7 @@ text_array = [
     # "If we don't have a place where we're feeling good, the number of points would be a little higher."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なにも言い返せない。",

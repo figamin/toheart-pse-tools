@@ -11,7 +11,7 @@ text_array = [
     # I stretched my head over me, pulled the book out of the shelf, and handed it over to the female student the next day.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("きょとんした顔でオレを見つめながら、本を受け取骼る。",
@@ -27,7 +27,7 @@ text_array = [
     # When I say it,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("女生徒は黙ったまま、いぶかしそうな目をこっちにｌけた。",
@@ -43,7 +43,7 @@ text_array = [
     # Instead of being a bit of a slut, the two eyes, which looked tough, glared at me through the lens of my glasses.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("たしかに、親切の押しр売阡りってやつはオレも好きじ痰ゃないから気搴持ちはわかる。",

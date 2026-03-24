@@ -39,7 +39,7 @@ text_array = [
     # Then the chairman said,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("少し考えてから、",
@@ -59,7 +59,7 @@ text_array = [
     # The chairman begins to walk.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("予想外の反梍応にオレはポカンと口を開け、間抜けな表﨣情のまま立ちつくしていた。",
@@ -251,7 +251,7 @@ text_array = [
     # It makes my eyes look like I can see through.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("こり痰ゃもう、とぼけてもしょうがねーな。",
@@ -323,7 +323,7 @@ text_array = [
     # "Even the people were grateful because they had some desire to attack after the incident lol. I was so excited that I had no choice but to give you a sigh of a false statement, my slutty slut, slutty slut, slutty slut."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「蛛大人げないことして、あいつらなりに後味が悪かったんだ」",
@@ -559,7 +559,7 @@ text_array = [
     # "I'm not going to get it, I think it was a lot of trouble to see Isohachi."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「でも、さっきの委員長の笑顔、それだけの価値はあったぜ？」",

@@ -15,7 +15,7 @@ text_array = [
     # "Wow, you can pay with your card. That old man is surprisingly a banquet."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	諱先輩の好きそうな本を取り置きしてくれるって？	いい人そうだもんな」",
@@ -43,7 +43,7 @@ text_array = [
     # "Oh, that's right. What? Does that old man's taste the same n-tasting as senior?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ａ魔術組≡合の員？	そういうのがあんだ？」",
@@ -67,7 +67,7 @@ text_array = [
     # At that time, a picture-like tuna in a suit appeared, wondering where he had appeared.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	もう行かなければなりませんって？	そうか。せっかくったのに、残念だな」",
@@ -75,7 +75,7 @@ text_array = [
     # "Huh? You have to go now? I see. I've had enough, so it's a shame."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「そうだな、じ痰ゃあ、また今度の機級に」",

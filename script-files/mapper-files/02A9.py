@@ -27,7 +27,7 @@ text_array = [
     # Come to think of it, Senpai, what exactly did you use it for me? B.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ま、いいか。",

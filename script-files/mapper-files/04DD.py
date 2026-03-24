@@ -587,7 +587,7 @@ text_array = [
     # "At least, the handle is too much, so your name is phlegm."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("それっきり志保は黙ってしまった。",
@@ -603,7 +603,7 @@ text_array = [
     # "You're stretching out and coming along with them, and it's obvious from my superhero and I-Hisashi...I think there's a lot of light."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「この頃お前、なんか変だぞ」",
@@ -635,7 +635,7 @@ text_array = [
     # "Why did you get out of your way to Katsura?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「やっぱイсヤなんだ？」",

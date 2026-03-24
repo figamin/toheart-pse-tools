@@ -15,7 +15,7 @@ text_array = [
     # "Is that really okay?! Do you really like one person?!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("聞こえているはずだが、委員長は無許視して道を歩いて行く。",
@@ -31,7 +31,7 @@ text_array = [
     # "I can't see that in my geisha. I think I'll probably talk to Ming Shun Sunkan too."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「｢｢だってオレ、委員長のこと、友だちだと思ってっからさ」",

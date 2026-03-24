@@ -23,7 +23,7 @@ text_array = [
     # "Don't worry about it. I don't care either."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("とは言ってみたものの、琴音ち痰ゃんの顔は今にも火をふきそうだ。",

@@ -23,7 +23,7 @@ text_array = [
     # I opened my diary again and plunged my eyes.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("でも、あの委員長が他校の男と歩いているなんてなぁ。",

@@ -47,7 +47,7 @@ text_array = [
     # It's a fortune-telling game called Kokugatari, where you can call out to someone who's a fox or something, and tell them to him and get him a hot topic.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	やってみますかって？	うーん…」",
@@ -147,7 +147,7 @@ text_array = [
     # As proof of this, Senpai Ikushi folds his hands like the front legs of an animal and tampers with them.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("まあ、たしかにキツネっぽいけど。",
@@ -275,11 +275,11 @@ text_array = [
     # yes.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「あの、本末当に先輩がやってんじ痰ゃないの？」",
@@ -391,7 +391,7 @@ text_array = [
     # "All right. How about this? Can I become a lover of my senior?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("п割闃りばしの動きが止まった。",
@@ -459,7 +459,7 @@ text_array = [
     # "Hahaha. It's like a comment from Kokugatari, I'll trust you."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩の頬が、ますます赤くなった。◯",

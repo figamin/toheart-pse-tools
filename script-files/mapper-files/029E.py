@@ -11,7 +11,7 @@ text_array = [
     # "I'm not busy!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「はは、なんつってな。まっ、失敗は成功の母って言うし、くじけず次回にチャャレンジだ」",
@@ -19,7 +19,7 @@ text_array = [
     # "Haha, what? Well, I say failure is the mother of success, so I'm not giving up and I'll end up in a tough situation next time."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんなら次はオレも手伝ってやるよ」",
@@ -47,7 +47,7 @@ text_array = [
     # "I'll return to the slut now, right?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はこくんとうなずいた。",

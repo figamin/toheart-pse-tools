@@ -35,7 +35,7 @@ text_array = [
     # It's probably because I'm currently practicing fortune, but I'm really excited lol. I'm waiting for the next day to see him.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("だからって、行ってどうしようってんだ？",

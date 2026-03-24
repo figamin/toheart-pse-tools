@@ -39,7 +39,7 @@ text_array = [
     # "It's a different story, it's a reversed adage. It's finally time for me to seriously defeat the smoker."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("おい、ちょっと待て。",
@@ -107,7 +107,7 @@ text_array = [
     # "The Witch Lady"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「｢｢ファイト」",

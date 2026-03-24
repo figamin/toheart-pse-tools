@@ -67,7 +67,7 @@ text_array = [
     # Waving her hand, Aya∴Ka continued walking to Fukukata Fu, the station.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("行っちまった。",
@@ -103,7 +103,7 @@ text_array = [
     # I was hit with a lot of tampering with the slurping slurping.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("今纃後、あいつを怒逑らせるのはやめたほうが良さそうだな。",

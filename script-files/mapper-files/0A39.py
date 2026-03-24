@@ -51,7 +51,7 @@ text_array = [
     # "Don't let it go. And Kao also apologized to her and your sister, Symptom, because she kept the promises of the man."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("とつぜん神妙な顔つきになる。",

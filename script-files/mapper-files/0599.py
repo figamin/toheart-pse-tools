@@ -227,7 +227,7 @@ text_array = [
     # "If you have to tamper with all your might, it's no point in having sex?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「遠慮なんかすんな。それともこんな蹴闖りで坂下が倒せんのか？」",
@@ -275,7 +275,7 @@ text_array = [
     # "If you play pretend, there's no phlegm."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「オレたちがやってんのは、遊びじ痰ゃなくて格闘技だよな？」",
@@ -303,7 +303,7 @@ text_array = [
     # I laughed jokingly.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("葵ち痰ゃんはなにかをｌ心すると、コクンと力強くうなずいた。",

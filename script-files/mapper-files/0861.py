@@ -151,7 +151,7 @@ text_array = [
     # Preparation is fine, so I would like you to show me how I shoot an arrow b.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「イチ、ニ、サン、シ…」",

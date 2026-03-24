@@ -111,7 +111,7 @@ text_array = [
     # The light moans as it holds the foil of the thorn.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("もうひとりの翌女生徒燗もかなり痛そうだが、当たり鰍所の悪さでいうと、ダ＜メージはあかりのほうが大きそうだ。",

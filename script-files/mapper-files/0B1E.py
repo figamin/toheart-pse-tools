@@ -51,7 +51,7 @@ text_array = [
     # "You're so phlegm, if there's somewhere, please let me know that I'm a b-sex guy."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「セリオ？」",

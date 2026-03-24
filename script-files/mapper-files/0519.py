@@ -31,7 +31,7 @@ text_array = [
     # To where he is feeling weak, he's a no-no, and then he's pushing the other attacks and M attacks.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("気おされて葵ち痰ゃんは目をそらす。",
@@ -91,7 +91,7 @@ text_array = [
     # "Ikusenpai..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("綾∴香はオレと葵ち痰ゃんを交互に見つめ、",
@@ -187,7 +187,7 @@ text_array = [
     # My shoulders and knees tremble slightly.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「そんな調子で大苟丈夫かよ？	禔練習の成果をち痰ゃんと発揮できるのか？」",
@@ -247,7 +247,7 @@ text_array = [
     # "If Kato was defeated by Amami, will Asakashita not accept the Extreme Ream, so he's not phlegm, or will Aya∴Kawa be embarrassed, and so he's not phlegm?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("少し間を置いてから、葵ち痰ゃんはこくんとうなずいた。",
@@ -611,7 +611,7 @@ text_array = [
     # "Isaac Senpai..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレはそのままじっと彼女の目を見つめ、返抹事を待った。",
@@ -623,7 +623,7 @@ text_array = [
     # Then, Aoi Chisho-chan,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("キッと厳しい目つきになり、力強く首を縦に振った。",

@@ -63,7 +63,7 @@ text_array = [
     # "So, why can't you say something more cute and blessed?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは、ふぅとため息をついた。",
@@ -383,7 +383,7 @@ text_array = [
     # After all, it's hot and phlegm to keep you still, and you're going to get really excited."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「あ」",
@@ -395,11 +395,11 @@ text_array = [
     # What are you saying, I'm so crazy!?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ひゅーと翌風が≠吹いた。",

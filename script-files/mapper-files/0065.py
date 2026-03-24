@@ -47,7 +47,7 @@ text_array = [
     # There's no phlegm, I'll come back on my own.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("やばい。",
@@ -91,7 +91,7 @@ text_array = [
     # I'm so sorry, I've forgotten about it.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("気になる。",

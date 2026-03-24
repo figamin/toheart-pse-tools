@@ -47,7 +47,7 @@ text_array = [
     # There's a message over there, so there are also many bonito dishes to play in, so you can enjoy it.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("だけど、琴音ち痰ゃんは首を横に振ってしまった。",
@@ -323,7 +323,7 @@ text_array = [
     # "Ah, I know that. It's the day it's opening."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("最纃後まで聞かず、まるでクイズ番組のようなノリになってしまった。",

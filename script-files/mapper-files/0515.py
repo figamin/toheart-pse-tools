@@ -295,7 +295,7 @@ text_array = [
     # "What? Maybe that's a human being who is a lion test?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("噤答えにくそうな葵ち痰ゃんだったが、やがて観念して、",

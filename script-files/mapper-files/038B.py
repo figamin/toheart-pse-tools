@@ -19,7 +19,7 @@ text_array = [
     # My geisha approached Hoshina.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ケガはないか？	保科…だったよな？」",

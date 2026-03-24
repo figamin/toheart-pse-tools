@@ -83,7 +83,7 @@ text_array = [
     # "There's no other things like asking 100 more times."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんだよ、その間は」",
@@ -135,11 +135,11 @@ text_array = [
     # "Is it okay for the end of the day? I'm fine with that, then..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…だったら、なに？」",

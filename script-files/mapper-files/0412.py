@@ -99,7 +99,7 @@ text_array = [
     # "Do you know? I'm the banquet of the banquet."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「昔は上がりすぎて一回転しち痰ゃったこともあるんだから」",
@@ -323,7 +323,7 @@ text_array = [
     # My super-revealed comment.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("無言の志保。",
@@ -379,7 +379,7 @@ text_array = [
     # "...Hey, I'm really thinking... you have a guy you like."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("志保は嘯答えない。",
@@ -455,7 +455,7 @@ text_array = [
     # "You're the same phlegm, too. If Akari finds out what you're trying to do, you'll have the same phlegm."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -1439,7 +1439,7 @@ text_array = [
     # The other players are demons and there are no hot ones."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんなら、知闥り№合いの長岡が魔事故で死んだってことにしてもいいわよ？」",

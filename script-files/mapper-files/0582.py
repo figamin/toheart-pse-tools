@@ -247,7 +247,7 @@ text_array = [
     # I'm not gonna get slurp, this time I'm gonna squealing louder ".
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("と思ったが、やっぱりやめた。",
@@ -507,7 +507,7 @@ text_array = [
     # After all, it's the r of this forest.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("いや、だからどうってわけじ痰ゃないけど。",

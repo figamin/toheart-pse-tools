@@ -39,7 +39,7 @@ text_array = [
     # "For example, I was surprised to find that there are some 8,000 different types of ≠Meña's Ekirepert Radish, which is a place in the world of around 8,000 different countries."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("だが、呼びかけもむなしく、綾∴香は友だちとの話に夢亦で全然オレに気づかない。",
@@ -483,7 +483,7 @@ text_array = [
     # "what happened?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱よーし、見てよ。",

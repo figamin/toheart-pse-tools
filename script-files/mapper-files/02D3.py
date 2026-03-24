@@ -23,7 +23,7 @@ text_array = [
     # Yes, he seemed to be innocent, but to say that he was in the realm, it was a pretty serious situation.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	元気を出してくださいって？	まだ明坙日がありますって？	ははは、そうだな…」",
@@ -31,7 +31,7 @@ text_array = [
     # "Huh? Please cheer me up? There's still Ming Shun Day? Haha, that's right..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	学業アップの魔法がありますけど、諱よしければ、おかけしますって？」",
@@ -115,7 +115,7 @@ text_array = [
     # When I say that, my senior is
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("微妙に目を嘯伏せた。",

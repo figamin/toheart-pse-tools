@@ -67,7 +67,7 @@ text_array = [
     # The two bow their heads and introduce themselves to each other.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんとなく、ちょっと、瘁違和感のある光景だよな。◯",

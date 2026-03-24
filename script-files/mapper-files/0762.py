@@ -67,7 +67,7 @@ text_array = [
     # "There's no female so don't get close." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは近寄驫ることもできず、息を呑んだ。",

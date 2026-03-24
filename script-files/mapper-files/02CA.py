@@ -11,7 +11,7 @@ text_array = [
     # "Someone, Senpai. I'm really excited about this day, so I'm going to have to drop off."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はちょっと寂しそうな顔をした。",

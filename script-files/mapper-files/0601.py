@@ -223,7 +223,7 @@ text_array = [
     # He nodded, sipping his breath.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「どうだ？	氏落ちｒいたか？」",
@@ -415,7 +415,7 @@ text_array = [
     # I seriously observed the slumber.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「へえ…」",
@@ -423,7 +423,7 @@ text_array = [
     # "Whoa..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ほお…」",
@@ -691,7 +691,7 @@ text_array = [
     # I see, that's lol Suzui's latest model, Maid Korobo.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("それにしてもマルチって、なんだかへんな高ロボットだよな。◯",

@@ -11,7 +11,7 @@ text_array = [
     # "Well, if you don't like it, you have no phlegm."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんだかムスッとした顔で、オレを見つめる。",
@@ -35,7 +35,7 @@ text_array = [
     # "I mean, I don't think I'm just in front of that, but rather than just the one from Ikutokirai's R-Mazou, it's a bit more than that..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("うう〜ん。",

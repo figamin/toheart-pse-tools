@@ -123,7 +123,7 @@ text_array = [
     # When I heard
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長はくだらなそうに、ふぅとため息をつき、",
@@ -175,7 +175,7 @@ text_array = [
     # "I've always thought that this person was just tampering with things like this and brats, but to be honest, I couldn't believe it was this much."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「こない連中と№仲良うせぇ言甯われても、そら無摶理笳や。同じ撃レベルで話できへん」",

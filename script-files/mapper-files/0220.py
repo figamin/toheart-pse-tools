@@ -7,7 +7,7 @@ text_array = [
     # (Chinzhou ending)Chin (5th 2nd day of the year)Chin (placed in the second floor corridor in the Tongyu Chang MAP)Chin (It's essentially augmenting the number of scales once)Chin (Looking at everything up to 7 likeability)
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("教室から出髀るなりの廊下で、＠栖瑞謳先輩にった。",
@@ -43,7 +43,7 @@ text_array = [
     # When I heard
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はうつむいて、なにやら恥ずかしそうに言った。",
@@ -67,7 +67,7 @@ text_array = [
     # When I asked with a smile on my face,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はちょっと悲しい顔をした。",
@@ -79,7 +79,7 @@ text_array = [
     # What?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、なに？	この前、廊下でオレがｍってくれって言ったって？	ホレ薬！？」",
@@ -115,7 +115,7 @@ text_array = [
     # "Huh? How do you use that? Hehe, are you so excited? B? I'll let the senior in front of me drink it. And then I'll like you and get some hot pot."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("へへへっ、照齒れてうつむいてしまった。",

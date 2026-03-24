@@ -43,7 +43,7 @@ text_array = [
     # I scratched my head to hide the light.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("そんなオレを、綾∴香はやわらかく微笑んでじっと見つめていた。",

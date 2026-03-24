@@ -223,7 +223,7 @@ text_array = [
     # If she were alone, she would definitely call out to him, but the two of them were walking around in great harmony. *Stop tampering with the likes of a sinner, and just keep quiet and tampering with them.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("…でも委員長、なんだかちっとも楽しそうじ痰ゃないな。",

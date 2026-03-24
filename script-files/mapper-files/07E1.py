@@ -15,7 +15,7 @@ text_array = [
     # If you keep it normal, it's normal."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("琴音ち痰ゃんは一瞬オレを見て、目を嘯伏せた。",
@@ -87,7 +87,7 @@ text_array = [
     # "Mr.... Please, please, please don't pester me."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("メきそうな顔でそこまで言甯われると、こっちはなにも言えなくなってしまう。",

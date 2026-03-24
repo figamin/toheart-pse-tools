@@ -87,7 +87,7 @@ text_array = [
     # As I put a student's bag on the side, I said, "Aoi Chisho-chan"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なにやら複雑な表﨣情で微笑んだ。",
@@ -103,7 +103,7 @@ text_array = [
     # "Yes, what did you do?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("わずかに間をおいてから、",
@@ -235,7 +235,7 @@ text_array = [
     # "And what was the outcome?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("葵ち痰ゃんは無言で首を左右に振った。",
@@ -351,7 +351,7 @@ text_array = [
     # "I've already lost my lmao. If that's the case, I don't have any thud. Above all, I think it's important for Aoi Chisho-chan to follow the path she has made on her own."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("葵ち痰ゃんはじわりと涙ぐんだ。",

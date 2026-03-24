@@ -107,7 +107,7 @@ text_array = [
     # "They are enemies, students, and even hotpots."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんか複雑な気分だな。◯",

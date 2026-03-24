@@ -87,7 +87,7 @@ text_array = [
     # And waited ten beats for a while.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("遅い。",
@@ -115,7 +115,7 @@ text_array = [
     # More sufficient.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("どうしたんだう、マジで。",
@@ -147,7 +147,7 @@ text_array = [
     # More sufficient.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("遅い！",

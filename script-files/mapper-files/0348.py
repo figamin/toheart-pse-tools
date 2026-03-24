@@ -91,7 +91,7 @@ text_array = [
     # He called out to the chairman's backstreet as he walked in front of him.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("一度目は無許視。",
@@ -107,7 +107,7 @@ text_array = [
     # I stopped for the second time, and the chairman shouted back.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「どこ行くんだよ」",
@@ -183,7 +183,7 @@ text_array = [
     # With that in mind, the chairman turned his back and walked over to the cursive library.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんなんだよ。",

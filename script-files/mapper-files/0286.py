@@ -15,7 +15,7 @@ text_array = [
     # Senpai, sorry.Sorry, but I'll refrain from doing that now."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「でも気搴持ちは嬉しいからさ。また今度椏時間があったら鰍頼むよ」",

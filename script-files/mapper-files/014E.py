@@ -31,7 +31,7 @@ text_array = [
     # "I'm going" 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("その冾日、なぜか、あかりはｗなかった。",
@@ -43,7 +43,7 @@ text_array = [
     # It's not like he overslept, and now he's been hit with the cold the next day.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("いつも側にいるрヤツがいないと、なんだか妙に寂しく感じる。",

@@ -91,7 +91,7 @@ text_array = [
     # If it's this time, he's probably still tampering with good fortune practice.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんだか無性に葵ち痰ゃんにいたくなってきた。",
@@ -127,7 +127,7 @@ text_array = [
     # And then there was a sound of kicking a punching bag...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("しねーな。",
@@ -255,7 +255,7 @@ text_array = [
     # He continued to say, silence.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("どうやら気づいてたわけじ痰ゃないらしい。",
@@ -291,7 +291,7 @@ text_array = [
     # I want to meet you."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("じつはすぐ目の前にいたりして。",
@@ -571,7 +571,7 @@ text_array = [
     # When I heard
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("葵ち痰ゃんは少し言葉をためてから言った。",
@@ -619,11 +619,11 @@ text_array = [
     # I can't get an I-le, so I can't hear my I-le, so I thought I was lonely?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("くぅ、可愛いこと言ってくれるぜ！",
@@ -687,7 +687,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -711,7 +711,7 @@ text_array = [
     # Eventually,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("葵ち痰ゃんは静かに息を吐くと、",
@@ -771,15 +771,15 @@ text_array = [
     # "Oh, that's all..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -843,7 +843,7 @@ text_array = [
     # I scratch the head of my nose, shining on my eyes.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…もしかして、ぜんぜん気がつかなかったとか？」",
@@ -955,7 +955,7 @@ text_array = [
     # "I'm so excited about being at the highest point right now, right? I want to fly around."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「だって、オレにとって一番可愛くて、一番蜚大桝事な翌女の子に好きって垂告注白されたんだぜ？」",
@@ -1091,7 +1091,7 @@ text_array = [
     # I should stop tampering now, so I guess there's no phlegm..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いい悩みました。悩んでいるうちに、不安ばかりになって…。",
@@ -1123,7 +1123,7 @@ text_array = [
     # "I wonder if the guy who has overcome that kind of thing and then moves forward is getting stronger and he's going to have to spurt."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なんか偉そうなこと言ってるな、オレ」",
@@ -1139,7 +1139,7 @@ text_array = [
     # "And I think that's true, too. Everyone gets stronger by tampering with this."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「そして、今回それを乗闖り越えられたのは、諱先輩のおかげなんです」",
@@ -1235,7 +1235,7 @@ text_array = [
     # However, as soon as Aoi Chisho-chan pecked her eyes down,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("力を抜いて、頭を胸にあずけてきた。",

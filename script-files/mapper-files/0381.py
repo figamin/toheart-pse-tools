@@ -123,7 +123,7 @@ text_array = [
     # Then, the girl who wears glasses is
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ふんっと、くだらなそうにきびすを返し、廊下を歩いて行った。",

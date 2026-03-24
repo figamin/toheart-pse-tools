@@ -247,7 +247,7 @@ text_array = [
     # "There's no way there's a Cao Kingdom like that, and they've been going somewhere and knocking over them anyway."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("あかりはちょっと複雑な顔をした。",

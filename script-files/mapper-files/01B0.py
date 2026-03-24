@@ -35,7 +35,7 @@ text_array = [
     # I took another thorough observation of the bear chow.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("何度見ても、やっぱりかわいくない。",

@@ -27,7 +27,7 @@ text_array = [
     # "Next time, let's go back to the ephemeral?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はじっと見つめ、こくんと…。",

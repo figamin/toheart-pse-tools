@@ -27,7 +27,7 @@ text_array = [
     # "Yes, Senpai."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	…諱先﨎日はすみませんでしたって？	ははは、だからもういいって。あれはあれで楽しかったからさ」",
@@ -35,7 +35,7 @@ text_array = [
     # "Huh? ...I'm sorry for the day I went to the next day? Hahaha, so I thought it was okay. That was fun."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	イヌのボス？	ああ、そうだな、結局級えなかったな」",
@@ -43,7 +43,7 @@ text_array = [
     # "Huh? Dog boss? Ah, yes, I didn't get the grade in the end."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「残念ですかって？	うーん、そうだなあ。正直言うと、ちょっと残念かもなあ」",
@@ -51,7 +51,7 @@ text_array = [
     # "Are you sorry? Hmm, that's right. To be honest, it's a shame, it's a shame, but there's no other Hot."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「夏にまた降漉に適した夜がありますから、そのときこそ失敗せずにお呼びしますって？	そっか」",

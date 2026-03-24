@@ -23,7 +23,7 @@ text_array = [
     # A little while later, an old man with a phlegm on his face was riding a floating black chrysanthemum limousine...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("思い出したくない顔だ。",

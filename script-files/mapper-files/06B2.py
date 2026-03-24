@@ -79,7 +79,7 @@ text_array = [
     # The only one who will graduate is Makruchi.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("感慨深げに、じっと校舎を見つめるマルチ。",

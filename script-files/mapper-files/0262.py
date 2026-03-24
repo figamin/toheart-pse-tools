@@ -15,7 +15,7 @@ text_array = [
     # To be honest, even though it's the latest model, I'm not too worried about Makkuruchi.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレが言うと、諱先輩はこくんとうなずいた。",
@@ -59,7 +59,7 @@ text_array = [
     # As if to be stolen by the Shinkenko, Senpai threw the advice on his feet.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	下にあるって？	どこ？」",
@@ -67,7 +67,7 @@ text_array = [
     # "Huh? It's below? Where?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「足？	足ってオレの？」",
@@ -99,7 +99,7 @@ text_array = [
     # "Ha, Ha, Sankya, Senpai, Isao."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は『どういたしまして』とつぶやく。",

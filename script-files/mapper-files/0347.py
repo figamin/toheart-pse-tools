@@ -67,7 +67,7 @@ text_array = [
     # Kaji Ai Henzaki is a noisy classroom.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("しかしこり痰ゃあ、いくらなんでも、ちょっとうるさ過ぎるんじ痰ゃねーのか。",

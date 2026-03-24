@@ -43,7 +43,7 @@ text_array = [
     # My guts went to Kawaenshiki.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("さてと。",

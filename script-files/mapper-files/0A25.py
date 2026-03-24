@@ -131,7 +131,7 @@ text_array = [
     # "There are times when Ant Pure Wannett's handkerchief doesn't even have one."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは駅でもらったティッシャをポケットから取り出し、それで理女緒ち痰ゃんの顔竓や制梵服をふいてやった。",

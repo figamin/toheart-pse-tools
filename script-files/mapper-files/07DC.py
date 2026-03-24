@@ -47,7 +47,7 @@ text_array = [
     # I hurriedly gave an excuse.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("琴音ち痰ゃんはなにもこたえない。",
@@ -75,7 +75,7 @@ text_array = [
     # I had no choice but to apologize.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「もう、行っていいから」",

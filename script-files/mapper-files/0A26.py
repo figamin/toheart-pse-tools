@@ -47,7 +47,7 @@ text_array = [
     # "I'll soon lose consciousness, but I think there's only a little bit of stimulating phlegm. If that's the case, can you see your own body in disarray?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「それがわかるのはギ鴻ロチンで切逅られたことのあるрヤツだけだからな。",

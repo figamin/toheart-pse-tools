@@ -31,7 +31,7 @@ text_array = [
     # When I heard, my senior was
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("もしよしければ、今厓日これからプールにお誘いしたいのですが、と言ってきた。",
@@ -43,7 +43,7 @@ text_array = [
     # "Swimming pool? What is the pool..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「アクアブルー？	ああ、あの去年の暮れにできたやつか」",
@@ -79,7 +79,7 @@ text_array = [
     # "Ah, how many times do you want to wait and where do you want to wait?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「オッケー！	わかった。",
@@ -91,7 +91,7 @@ text_array = [
     # It's a phlegm, and in front of Aquabu's crying in the fox time."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「うん、じ痰ゃ」",
@@ -271,7 +271,7 @@ text_array = [
     # "As expected of you, O-san. That kind of outfit is really impressive."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は恥ずかしそうにうつむいた。",
@@ -303,7 +303,7 @@ text_array = [
     # "What about the annoying old man who is a miraculous tuna?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("今厓日はいません…と先輩。",
@@ -315,7 +315,7 @@ text_array = [
     # "Not there..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	じ痰ゃ、目を垂盗んできたってこと？」",
@@ -479,7 +479,7 @@ text_array = [
     # "Bikini bikini! And the hot water is also nitrogen!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「似㍽合う！	＃人！	かわいい！	素敵！」",
@@ -487,7 +487,7 @@ text_array = [
     # "It looks like a bath! #People! It's so lovely! It's so lovely!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("照齒れて、ぽっと顔を赤逅らめる先輩。",
@@ -511,7 +511,7 @@ text_array = [
     # "Boooo!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	いまのはなんですかって？	鼻剣血が出たっていう鰍リアクション。",
@@ -579,7 +579,7 @@ text_array = [
     # "Isao Senpai"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「あれ、ふつう、泳げるとは言甯わねーんじ痰ゃないかな？	どっちかっつーと、おぼれてるって言ったほうが近いぜ？」",
@@ -599,7 +599,7 @@ text_array = [
     # He apologized.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	でも記録は更新しましたって？	前回は３≠メートルだったから、２≠メートルも伸びました？」",
@@ -667,7 +667,7 @@ text_array = [
     # "Yes, yes, if possible, put your face on p."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「そうそう」",
@@ -707,7 +707,7 @@ text_array = [
     # "Yes, sputum, once more, shiny ""
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いいよ、いいよ」",
@@ -871,7 +871,7 @@ text_array = [
     # "Isao Senpai"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「オレはすんっげー楽しかった。",

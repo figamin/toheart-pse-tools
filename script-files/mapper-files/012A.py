@@ -51,7 +51,7 @@ text_array = [
     # "Hmm..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「はい、℃くずがついてたよ」",
@@ -75,7 +75,7 @@ text_array = [
     # Just as I turned my squeal and was about to descend the stairs.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("目の前に琴音ち痰ゃんがいた。",

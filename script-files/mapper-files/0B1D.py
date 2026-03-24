@@ -27,7 +27,7 @@ text_array = [
     # "When you get back to the Kenyukusho, please tell me to go to Makruchi and I'm gonna do it."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「雅うんだ？」",

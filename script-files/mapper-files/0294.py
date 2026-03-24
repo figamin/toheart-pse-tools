@@ -83,7 +83,7 @@ text_array = [
     # A sound of metal rubbing opens the door.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	％っていいの？	じ痰ゃ、おじ痰ゃましまーす」◯",
@@ -167,7 +167,7 @@ text_array = [
     # The foot noshi had a large B-magic circle with a hot metal plate.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	降ｍ魔のサークル？」",
@@ -239,7 +239,7 @@ text_array = [
     # "And you're also Senior, that's amazing. Was this collected by all the Atari Club and Senior Isaac?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、他の部員の人たちも協力してるって？	あ、そうか。ここの部員は先輩だけじ痰ゃないんだっけ」",

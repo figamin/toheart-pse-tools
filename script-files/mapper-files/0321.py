@@ -51,7 +51,7 @@ text_array = [
     # "I'm super big and spacious, there are many rooms and lots of places to sleep."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("や、やっぱ、駄目か。",
@@ -359,7 +359,7 @@ text_array = [
     # "What is it?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -375,7 +375,7 @@ text_array = [
     # "Yeah"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -435,15 +435,15 @@ text_array = [
     # The chairman smiles at him.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -459,7 +459,7 @@ text_array = [
     # "...It's the chairman."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -603,11 +603,11 @@ text_array = [
     # "Here you go, I said b. It's that turn next."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -711,7 +711,7 @@ text_array = [
     # "Hehe, but I'm really happy."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「こうやって委員長と、自然に話せるようになるなんてな」",
@@ -719,7 +719,7 @@ text_array = [
     # "I wonder if I'll be able to talk naturally with the committee chairman by doing this."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -791,7 +791,7 @@ text_array = [
     # "And then, what's the point of tampering with you, b. Eventually, little by little, I started to think that's not a bad thing..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「今回、もうどうしたらええかわからんようになったとき、最燕初に浮かんだんはくんの顔竓やったし」",

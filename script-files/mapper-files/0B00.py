@@ -163,7 +163,7 @@ text_array = [
     # As I said, I heard the bathing girl peering into her face with anxiety.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("うー…。",

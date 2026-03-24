@@ -19,7 +19,7 @@ text_array = [
     # However, the slutty woman Ochi Symphonyan does not even hesitate to take the ball, and continues to move forward.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("くそっ、校門で追いつくはずだ！",
@@ -199,7 +199,7 @@ text_array = [
     # "Hehehe"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("どうやら痛いよりも、恥ずかしいのほうが先に来てるみたいだな。",

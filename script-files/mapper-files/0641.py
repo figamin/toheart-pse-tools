@@ -59,7 +59,7 @@ text_array = [
     # Are you going to sleep in a sleepy night?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("いや、潤居眠りなんてするわけはねーか。",
@@ -183,7 +183,7 @@ text_array = [
     # I tried to call out.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんの反梍応煢もない。",
@@ -195,7 +195,7 @@ text_array = [
     # "Mixed Ruchi, Mixed Ruchi."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「まるちぃ〜…」",
@@ -211,7 +211,7 @@ text_array = [
     # I tried to tap on the cheek.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("反梍応なし。",
@@ -227,7 +227,7 @@ text_array = [
     # I tried pinching it.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("反梍応なし。",
@@ -463,7 +463,7 @@ text_array = [
     # "Ah, I've been watching it for a long time. It was so cute that I always wanted to play pranks."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ん？	どうした？」",
@@ -479,7 +479,7 @@ text_array = [
     # "Um, mum-cry?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっと、マルチさん？」",
@@ -487,7 +487,7 @@ text_array = [
     # "Um, Mr. Makkuruchi?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「おい、まるちぃ〜」",
@@ -495,7 +495,7 @@ text_array = [
     # "Hey, it's round."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「おらあっ、マルチってばよぉーーーッ！」",
@@ -615,7 +615,7 @@ text_array = [
     # "Did you overheat and get hot?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ったく、いきなり倒齠れるんだもんな〜」",
@@ -743,7 +743,7 @@ text_array = [
     # "?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「＝早く、教えよ」",

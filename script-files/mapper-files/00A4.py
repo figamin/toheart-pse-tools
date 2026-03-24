@@ -91,11 +91,11 @@ text_array = [
     # That's amazing.This kind of thing is so strong that it's wet, but there's no way the phlegm is washed now, and the phlegm is still washing your head..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ふたりして玄関で考え込んでしまう。",
@@ -171,7 +171,7 @@ text_array = [
     # Chee!
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ホントにチンしちまったよ。",

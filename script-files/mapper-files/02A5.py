@@ -19,7 +19,7 @@ text_array = [
     # "Huh? You really don't know what you're saying? I see, I don't know if it's good or bad unless you have a comparison target. It's a real name."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	オレはどういうの食べてるかって？	そうだなあ、たとえば｢｢」",
@@ -63,7 +63,7 @@ text_array = [
     # "Did you eat Chichito or whatever hot pot you've ever eaten? I see, that's a bit of a pity, or a bit of a pity, or a little hot pot."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は悲しい顔をした。",
@@ -75,7 +75,7 @@ text_array = [
     # "Hmm... I'm not gonna have the model next time, I'll tell you that it's a food item from the common people and I'll tamper with it."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	お願いしますって？	諱よっし痰ゃ、まかせな。しかもオレがｍってやるぜ」",

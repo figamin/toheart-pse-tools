@@ -39,15 +39,15 @@ text_array = [
     # "I am Dr. Kamigishi, Yuu, the Hyperin-Child Science Research Institute"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -71,7 +71,7 @@ text_array = [
     # Just before the jean touches his cheek,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("あかりはさっと右に避ける。",
@@ -83,7 +83,7 @@ text_array = [
     # "Damn, there's one more shot..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("さらにゆっくりス鴻ローａモーションのパンチを打つ。",
@@ -95,7 +95,7 @@ text_array = [
     # The moment the jean touches your cheek,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("あかりはさっと左に避ける。",

@@ -51,7 +51,7 @@ text_array = [
     # "Ah, that's why I mean, I feel like I want to get along well with the chairman, but there's no reason to dare."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「それでも強いて理由を言えって言うんなら、やっぱり下心とかそういう嘯答えになっちまうんだよな」",
@@ -59,7 +59,7 @@ text_array = [
     # "If you're forced to give us a reason, then it's definitely the answer to ulterior motives and other things."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長は納得のいかない顔をしている。",
@@ -123,7 +123,7 @@ text_array = [
     # He said with a teasing laugh.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ん？	どうした？」",

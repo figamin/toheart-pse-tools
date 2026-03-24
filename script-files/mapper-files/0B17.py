@@ -47,7 +47,7 @@ text_array = [
     # And my geisha went to Kawaenshiki.◯
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「おまたせ」",
@@ -123,7 +123,7 @@ text_array = [
     # "This girl is especially my favorite. My friend. Nessegata Rio?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("表﨣情は変﨑わらないものの、なんだかセリオは照齒れているようにも見えた。",

@@ -47,7 +47,7 @@ text_array = [
     # "I'm sure it's nice, small bear. It looks like a stuffed animal, and if you roll it up and tamper with it, you'll end up slurping it."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「サーカスみたいに小さいこから仕梹込めば芸煬もおぼえるんだぜ？	教えた芸を成功するたびに、はちみつとか角砂恪糖笂やるんだ。連中、甘いの好きだからなー」",
@@ -63,7 +63,7 @@ text_array = [
     # "I'll wear a red collar."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「想恆像した？」",

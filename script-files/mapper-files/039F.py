@@ -19,7 +19,7 @@ text_array = [
     # But, however.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長はその呼びかけも無許視して、歩いていく。",
@@ -191,7 +191,7 @@ text_array = [
     # "It's not a silence that you hate me. But it's just annoying that you're being stalked."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("思寬わず立ち止まってしまった。",

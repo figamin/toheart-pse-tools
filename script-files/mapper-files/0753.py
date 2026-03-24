@@ -463,7 +463,7 @@ text_array = [
     # When you pick up the ball and pull it up,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレの頭のｒにあるひとつの考えがひらめいた。",
@@ -487,7 +487,7 @@ text_array = [
     # If I throw a cricket here, I'm sure I'll unconsciously squeal the Balata Ria again.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("やってみる価値はある。",
@@ -655,11 +655,11 @@ text_array = [
     # "So, I'm the one who's really......"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("あ、う。",

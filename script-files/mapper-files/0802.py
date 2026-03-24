@@ -403,7 +403,7 @@ text_array = [
     # "I'm in awe. What would you like to drink?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「コー堰ラと烏龍嵐メAオレンジジャースがありマス」",

@@ -83,7 +83,7 @@ text_array = [
     # "That's not true, Absolutely!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("きっぱりと否阡定された。",

@@ -15,7 +15,7 @@ text_array = [
     # So the hot springs start to come in the morning.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ほとんど№裸同然の格好で寝ちまったらしい。",

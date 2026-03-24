@@ -335,7 +335,7 @@ text_array = [
     # "It's a question that is difficult to answer, but please don't hesitate to answer me, but please be honest and honestly answer me."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんだう。",
@@ -375,7 +375,7 @@ text_array = [
     # "So, what is that 'what you want to hear'?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("わずかな間。",
@@ -435,7 +435,7 @@ text_array = [
     # After saying this, I realized that Aoi Chisho-yan's shoulders were trembling small.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("短い間を置いて、オレは少し笑った。",
@@ -459,7 +459,7 @@ text_array = [
     # His straight eyes were faintly moist, reflecting my intense ecstasy.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("葵ち痰ゃんは、正直に、と言った。",

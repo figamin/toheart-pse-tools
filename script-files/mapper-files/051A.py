@@ -87,7 +87,7 @@ text_array = [
     # "I believe that defeating Yoshie with a quake technique will only be a victory in the sense of the end."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「今厓日のために、打ｑ撃技重居視で練習しました。自信熕も｢｢あります！」",
@@ -103,7 +103,7 @@ text_array = [
     # "Hehe, I don't know anything about it, but I suddenly got a good impression."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「それでこそ倒しがいがあるってものだわ」",
@@ -111,7 +111,7 @@ text_array = [
     # "That's the only thing that makes it worth defeating."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("葵ち痰ゃんは小さく息をのんだ。",
@@ -139,7 +139,7 @@ text_array = [
     # "Boths, stand there!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -451,7 +451,7 @@ text_array = [
     # Soka, Aoi Chisho-ya, is it growing in the period of growth?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("はっ。",

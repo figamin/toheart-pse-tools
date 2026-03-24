@@ -47,7 +47,7 @@ text_array = [
     # I have no confidence in anything.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「お待たせ」",

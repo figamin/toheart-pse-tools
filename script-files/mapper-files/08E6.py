@@ -447,7 +447,7 @@ text_array = [
     # "Look, I'll take a photo so just take a pose."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("志保は面猪白くなさそうな顔で、蛛門喧柱の脇に立った。",

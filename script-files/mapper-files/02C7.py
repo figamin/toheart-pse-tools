@@ -27,7 +27,7 @@ text_array = [
     # "I'm actually really worried about something right now."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、聞いてくれるって？	うん、じ痰ゃあ、なにを話そうかなー…」",
@@ -35,7 +35,7 @@ text_array = [
     # "Eh, you're going to listen? Yes, phlegm, what should I say..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ、悩み？	あ、そうそう、そうだな。悩みだよな」",
@@ -67,7 +67,7 @@ text_array = [
     # "And that's why there's no way to control the situation. My father and I have been working hard for me to do our best. And I guess so, I guess so..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「寂しいんだよぉぉぉーーーーーーーい！」",
@@ -79,7 +79,7 @@ text_array = [
     # My geisha burrowed my face into my senior's knees.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なでなで。",

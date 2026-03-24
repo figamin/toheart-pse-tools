@@ -23,7 +23,7 @@ text_array = [
     # Do drive a little better!”
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「おいっ、じじぃ！	聞いてんのかよっ！？じじぃっ！」",
@@ -31,7 +31,7 @@ text_array = [
     # "Hey, old man! Are you listening?! Old man!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「こらっ、聞いてんのかって…」",

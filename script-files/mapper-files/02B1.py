@@ -15,11 +15,11 @@ text_array = [
     # When I said that, my senior nodded.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("見つめ№合うふたり。",
@@ -51,7 +51,7 @@ text_array = [
     # I'm not sure what to do with my name, Senpai!”
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは手を上げ、その場を去った。◯",

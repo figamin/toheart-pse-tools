@@ -15,7 +15,7 @@ text_array = [
     # I heard.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	とくにないですって？	ふうん、おｏ様だからてっきりブルジョアな遊びとかやってんのかと思った」",
@@ -23,7 +23,7 @@ text_array = [
     # "Huh? That's not particularly true? Hmm, I thought that because you're O-san, he's just crying and messing up games."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ、ブルジョアな遊びってなにかって？	そうだな、やっぱダンスとか、諱乗馬とか…」",
@@ -31,7 +31,7 @@ text_array = [
     # "What, what is a gross game? That's right, it's like dancing, horse riding, etc." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、どっちもしたことあるって？	おお、やっぱりな」",
@@ -39,7 +39,7 @@ text_array = [
     # "Eh, have you ever had a hot pot? Oh, I guess so."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「どっちも苦闍手ですって？	ナハハハ」",

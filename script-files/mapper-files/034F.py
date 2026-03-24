@@ -15,7 +15,7 @@ text_array = [
     # After finishing the meal of lunch at Tomata, I tilted my chair and saws my eyes out, gazing at Tenryi.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長のことを考えていた。",
@@ -243,19 +243,19 @@ text_array = [
     # "Yeah…"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「諱よし」",
@@ -631,7 +631,7 @@ text_array = [
     # With a wry smile, my stomping leaned against the railing in the same way.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長が迷惑そうな顔をｌける。",
@@ -671,7 +671,7 @@ text_array = [
     # The wind and eternity are also good for the excitement.It's true that this kind of day will be on the yahoo lol. Iso's next day is the only place."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは目を細め、委員長と同じように遠くの景色を眺めた。",
@@ -683,7 +683,7 @@ text_array = [
     # "The view from here is what you can see, and you can imagine this school as one of the few long-distance places you can rest assured of? As expected from the mountains, it's really nice to see Miharu-ko."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("委員長はなにもこたえない。",
@@ -743,11 +743,11 @@ text_array = [
     # "Absolutely..." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("う〜む。",
@@ -783,7 +783,7 @@ text_array = [
     # "If there's no particular need, can you go somewhere else?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「さっきも言うたや？	うるさいのが凾嫌竚やから、わざわざここｗてんねん。静かな場鰹所でゆっくりしたいんや」",
@@ -831,7 +831,7 @@ text_array = [
     # I squealed over me and grabbed the chairman's hand.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「な、じ痰ゃあ、もう少しだけ、ひとことだけいいだ？	言いたいことがあるんだよ」",
@@ -1031,7 +1031,7 @@ text_array = [
     # "I saw it then. The chairman was crying while looking out of the Kumimado. Then I couldn't leave Ho alone."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「チラつくんだよ、あんときの顔が…」",
@@ -1039,19 +1039,19 @@ text_array = [
     # "I'm having a feast, the face I saw at that time..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("わずかな沈黙のあと、",
@@ -1079,7 +1079,7 @@ text_array = [
     # Or, the moment I yawned, I saw the hot spring."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「だいたい、あんときは｢｢」",
@@ -1099,7 +1099,7 @@ text_array = [
     # "That's what I mean is being strong."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「な、もう少し肩の力抜けよ？	そうやってひとりぼっちでつっぱってたって、いいことなんか何煢もないぜ」",
@@ -1107,11 +1107,11 @@ text_array = [
     # "W-----------------------------------------------------------------------------------------------------------------------------
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("屋繪上をゆっくりと翌風が≠吹き抜けた。",
@@ -1139,7 +1139,7 @@ text_array = [
     # "If it's just a sudden, all the people who are having a banquet... then let's get along well with this guy first."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「学校ってのは集団生衰なんだからさ」",
@@ -1147,7 +1147,7 @@ text_array = [
     # "Schools are a mass decline."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「悩み魔事を鰍相談する鰍相闡手燻もいないってのも、やっぱ、しんどいだ？」",
@@ -1243,7 +1243,7 @@ text_array = [
     # "Is there something?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「いま、なに言おうとしたんだ？」",
@@ -1251,7 +1251,7 @@ text_array = [
     # "What were you trying to say now?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なあ」",
@@ -1287,7 +1287,7 @@ text_array = [
     # "Also, I'm just a friend. Even though I'm not a stranger, I wonder if he will look like he understands it and keeps saying things that are amazing."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「前にも言うたや！？",
@@ -1331,7 +1331,7 @@ text_array = [
     # The metal heat door closed with a squeal.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("誰熬もいない屋繪上。",

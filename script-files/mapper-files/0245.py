@@ -19,7 +19,7 @@ text_array = [
     # "I'll give you my name" ◯
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、こんにちはって？	おう、こんちわ。こんなとこでなにやってんの？	まだ冾放課繪後じ痰ゃないぜ？」",
@@ -27,7 +27,7 @@ text_array = [
     # "Hello? Oh, hello. What are you doing about this? You still have to sputum after the school is over?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ネコにエサ窿やってたって？	…ネコって、この前のクソ…いや、普黒ネコか。",
@@ -75,7 +75,7 @@ text_array = [
     # "But, senior innocent."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「そうやってるとその浮黒ネコ、なんだか先輩の使い魔って感じだよな、ははは」",

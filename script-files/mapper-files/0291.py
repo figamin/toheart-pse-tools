@@ -15,7 +15,7 @@ text_array = [
     # I cried out loud.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	濃いですかって？	そり痰ゃーな…」",
@@ -23,7 +23,7 @@ text_array = [
     # "Huh? Is it thick? It's sputum..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はじっと本を見つめる。",
@@ -43,7 +43,7 @@ text_array = [
     # "Well, I don't care about it either."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	本、見ますかって？	ああ、じ痰ゃあ、ちょっと」",
@@ -63,7 +63,7 @@ text_array = [
     # "What is this flies' ending?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	これも有名な悪ｈ魔ですって？	でもハエじ痰ゃん、これ？」",
@@ -71,7 +71,7 @@ text_array = [
     # "Huh? Is this a famous evil devil? And the hot ones are flies, phlegmy, is this?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ふーん、ハエの姿にもなれる悪ｈ魔なんだ？	でもこの姿のまま出てきたら、オレ、一発で倒せる自信あるな」",
@@ -79,7 +79,7 @@ text_array = [
     # "Hmm, are you an evil devil who can become a fly's appearance? And if Kao appears in this form, I'm sure I can defeat him in one shot." 
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ！？	でかいの、こいつ！？	マジ！？",
@@ -91,7 +91,7 @@ text_array = [
     # I don't want to tamper with big lion insects, is it effective for insecticides?”
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「殺試虫剤を試した文献はないって？	まあ、そーだうな…」",

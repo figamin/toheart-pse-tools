@@ -43,7 +43,7 @@ text_array = [
     # I'm not sure what to do with my name, Senpai!”
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは手を上げ、その場を去った。◯",

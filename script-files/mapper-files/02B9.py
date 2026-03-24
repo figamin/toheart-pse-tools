@@ -39,7 +39,7 @@ text_array = [
     # "Uh, hmm, that's right, I'm not sure... but I guess I'm a senior after all?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「やっぱり？	どうせそう言うと思ったけど」",

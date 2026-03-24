@@ -195,11 +195,11 @@ text_array = [
     # I was sitting next to me on the two-player Gerei side and was a little apart so that I wouldn't become an evil man for the overwhelmed woman.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("レミィは無言で、デｃモ諠画面を眺めている。",
@@ -259,7 +259,7 @@ text_array = [
     # The protagonist, the B Demon Ran-sung woman, straddles a broom, jumps out.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("もう始まってるのに、レミィは動かない。",
@@ -451,7 +451,7 @@ text_array = [
     # When I said that, Karemi started to stare at her hands and the screen.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「どうした？	諱取骼るんだよ」",

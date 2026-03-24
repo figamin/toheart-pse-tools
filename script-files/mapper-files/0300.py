@@ -151,7 +151,7 @@ text_array = [
     # With a smile on his face, Akari said, walking towards Lkou.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("借りるにし借りないにし、とにかく本を見て回迚らないといけなくなった。",

@@ -19,7 +19,7 @@ text_array = [
     # "There's nothing particularly hot about fortune telling, and it's bad, but I'm not really trying to get a fortune telling."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	どうしてですかって？	そうだなあ」",
@@ -43,7 +43,7 @@ text_array = [
     # Senpai slowly took the card.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	男迺らしい意見ですって？	そ〜か？」",
@@ -51,7 +51,7 @@ text_array = [
     # "Huh? That's a male-like opinion? Is that so?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「小熄説のオチを先に読むのはつまんないって？",
@@ -67,7 +67,7 @@ text_array = [
     # When I laughed,
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はポッと顔を赤逅らめた。",
@@ -75,7 +75,7 @@ text_array = [
     # Senpai suddenly flashed red.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え？	今厓日はもう帰驪るって？	あ、そう。悪いな、わざわざｗてもらったのに。またな」",

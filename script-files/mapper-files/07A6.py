@@ -631,7 +631,7 @@ text_array = [
     # "" "Ah, you've got phlegms when it's already past 8 hours."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("琴音ち痰ゃんは驚いた顔でこっちを見た。",
@@ -1207,7 +1207,7 @@ text_array = [
     # "...I'm so frustrated, but I can't help it."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ごめんな、琴音ち痰ゃん」",

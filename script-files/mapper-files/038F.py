@@ -55,7 +55,7 @@ text_array = [
     # It was completely rejected.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("苦笑するオレ。",

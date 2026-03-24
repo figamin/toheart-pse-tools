@@ -91,7 +91,7 @@ text_array = [
     # Of course, I'm a genius who has been given a hot spring after being sent in, so I put an umbrella on Kotone's first.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("不意に、琴音ち痰ゃんは不安そうにオレを見上げた。",
@@ -927,7 +927,7 @@ text_array = [
     # "Ah, I left early....I was so worried, I even went to Kotone Chisho-chanchi?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なあ、なんか言ってくれよ」",
@@ -939,7 +939,7 @@ text_array = [
     # "...I'm feeling disgusted..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「わたしの能力ちからは、もう止められないんです」",
@@ -1047,7 +1047,7 @@ text_array = [
     # I can't do my best anymore..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「それに、見つけたんです…」",
@@ -1067,7 +1067,7 @@ text_array = [
     # "Hey, please tell me so that you can understand it."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("琴音ち痰ゃんは悲しげに目を嘯伏せた。",
@@ -1075,7 +1075,7 @@ text_array = [
     # Kotone Chisho-yan looked down sadly.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("まさか…。",
@@ -1291,7 +1291,7 @@ text_array = [
     # "You're going to give up, I'm not giving up yet."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレを見つめる琴音ち痰ゃん。",
@@ -1315,7 +1315,7 @@ text_array = [
     # "The results of the training were so great that you're not phlegmy?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「たまたま悪いことが重なったけど、確実に暴末走までの桙時間が長くなっただ？」",

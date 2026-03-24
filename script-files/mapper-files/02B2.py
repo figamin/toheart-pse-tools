@@ -27,7 +27,7 @@ text_array = [
     # "They're two of them becoming lovers with a tendency to sigh, so will they give up on that old man?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「なーんてな！」",
@@ -59,7 +59,7 @@ text_array = [
     # I'm not sure what to do with my name, Senpai!”
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは手を上げ、その場を去った。◯",

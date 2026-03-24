@@ -19,7 +19,7 @@ text_array = [
     # I can't stand it if I get a strange answer.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("だが委員長は、ほんの少し意外そうな顔はしたものの、",
@@ -39,7 +39,7 @@ text_array = [
     # Even if I'm a bit of a good match, I guess I'm not particularly interested in it.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("まあ、委員長がどう思おうとべつにこっちは結構なんだけど…。",

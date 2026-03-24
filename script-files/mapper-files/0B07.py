@@ -23,7 +23,7 @@ text_array = [
     # "Stay, seniors, you're treated like a female. You can't help but feel like I'm here at a place like this."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ、雅えて嬉しいですって？	へへへ、さすが、お上闖手だね」",
@@ -39,7 +39,7 @@ text_array = [
     # "Ah, when I say that, I've been on my Ie-senpai V the other day. Aya∴Kara is the one that's tampering with."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「うん、そう。あいつ、諱先輩のｖのくせに、妙にテンションｃ高いよな。あ、べつに先輩がテンション痺低いってわけじ痰ゃないけど…」",
@@ -47,7 +47,7 @@ text_array = [
     # "Yeah, that's right. Even though he's a V-senpai, he's strangely high in Tenshic. Oh, I can't help but feel that seniors are low in Tenshic..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	綾∴香はとってもいい子です、ぜひ№仲良くしてあげてください…って？」",

@@ -35,7 +35,7 @@ text_array = [
     # Hehhhhhhhhhhh...the pack throbbed in the bath.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("真面目に打ってんのか？",

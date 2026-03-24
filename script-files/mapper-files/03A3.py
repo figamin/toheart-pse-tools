@@ -15,7 +15,7 @@ text_array = [
     # I muttered as I stared at the chairman's disguise as he stumbled around, as he left quickly.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("もしかして、本末当にオレを待っててくれたのかな。",

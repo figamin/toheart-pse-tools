@@ -51,7 +51,7 @@ text_array = [
     # "I mean, I'm going to be the next level of my cry."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「どうした？」",

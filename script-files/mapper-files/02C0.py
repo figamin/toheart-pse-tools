@@ -163,7 +163,7 @@ text_array = [
     # When I waved my hand weakly, my senior noticed it and walked straight up here.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「…諱先輩、こ、こいつをなんとかしてくれよ。",

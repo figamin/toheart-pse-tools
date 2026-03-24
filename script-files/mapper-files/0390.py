@@ -43,7 +43,7 @@ text_array = [
     # "What are you talking about? Are you there? B? Here?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「てなわけで、今厓日はいっしょに帰うぜ？」",

@@ -31,7 +31,7 @@ text_array = [
     # "So, I've got a message from you, but there's no way you can do it. You can do it on the Athletics Han, the ° Tech Hwan, and the $ Swimming Hwan. If you're serious about studying, you'll be able to win the game, and if you're playing, you'll be in the arcade, the banquet, the banquet, the bay, the bay, the bay, the bay, the bay, and the bay yard..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("遊び人？",

@@ -11,7 +11,7 @@ text_array = [
     # "Let's give up now."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレがそう言うと、諱先輩は悲しそうな顔でうつむいた。",
@@ -39,7 +39,7 @@ text_array = [
     # "What, Senpai, what are you apologizing? You've been enjoying Hot a lot with this."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	本末当に魔法があることを、オレに見せてあげたかったって？」",
@@ -51,7 +51,7 @@ text_array = [
     # So...
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「オレをｊばせたかった？」",
@@ -67,7 +67,7 @@ text_array = [
     # Senpai nodded with tears in tears.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩…。",
@@ -87,7 +87,7 @@ text_array = [
     # "If you have the power to believe, you'll surely make it come true b?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("こくん。",

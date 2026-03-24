@@ -19,7 +19,7 @@ text_array = [
     # I approached him and called out to him, and his senior fellow looked over me.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「諱よっ、また冾日光′してたのか？」",
@@ -83,7 +83,7 @@ text_array = [
     # It's a precious moment because of the short squeal.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("それにしても、キレイだよな。",
@@ -115,7 +115,7 @@ text_array = [
     # I'm not a fan, but a senior who is awkward.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんとなく、ちょっかいをかけたくなったオレは｢｢。",

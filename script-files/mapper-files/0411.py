@@ -383,7 +383,7 @@ text_array = [
     # "What will you do after chasing?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("今度はなにも言甯わない。",

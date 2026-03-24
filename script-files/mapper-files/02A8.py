@@ -55,7 +55,7 @@ text_array = [
     # I wish the temperature would stop at this level and there was no phlegm.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("うーん、どうもさっきから頭のすみっこに、なにかが引っかかってんだよなぁ。",
@@ -91,7 +91,7 @@ text_array = [
     # Oh no, I'll have to go back soon!
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("いや、でもなあ。",
@@ -107,7 +107,7 @@ text_array = [
     # From here onwards to school, there's quite a distance away from the next day.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("いいや、帰。",
@@ -115,7 +115,7 @@ text_array = [
     # It's a good idea, I'm back.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("うーん。",
@@ -167,7 +167,7 @@ text_array = [
     # "" "Senior Isao!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("だけどやっぱり、諱先輩は、そんな夕髣暮れの廊下でひとり、ぽつんと立ってオレを待っていた。",

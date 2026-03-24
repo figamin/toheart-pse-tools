@@ -39,7 +39,7 @@ text_array = [
     # Since there is no way to do it, I seriously fill in the answer.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("う〜む。",
@@ -251,7 +251,7 @@ text_array = [
     # Petit!
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("人が大人しくしてるのをいいことに、志保はしつこく攻ｍ撃を続けてくる。",

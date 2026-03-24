@@ -11,7 +11,7 @@ text_array = [
     # "Well, I'm looking forward to it next."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ち痰ゃんと成功したやつ、″ってくれよ？」",
@@ -43,7 +43,7 @@ text_array = [
     # "I'll return to the slut now, right?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はこくんとうなずいた。",

@@ -115,7 +115,7 @@ text_array = [
     # "It's fine to ask how Kaji Sensei works, but since they don't have the basics at all, there's no way they can handle it."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("もっともだ。",
@@ -147,7 +147,7 @@ text_array = [
     # "I'm better off not getting into Jungna. All that's left is to have to do is to Kugataria the basic question."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なにも言い返せない。",

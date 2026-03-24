@@ -191,7 +191,7 @@ text_array = [
     # Right in front of me was Akari's face.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("目のやり場に困闕り、オレは視諮を足熨もとに落とした。",

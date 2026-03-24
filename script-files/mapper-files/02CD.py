@@ -115,7 +115,7 @@ text_array = [
     # "Yes! It's raining! It's raining! Amazing, amazing, Senpai! It really rained!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは先輩の手を取ってはし痰ゃいだ。",
@@ -167,7 +167,7 @@ text_array = [
     # "I'm a senpai, I'm a gesture, I believe in a spell! Because I certainly saw it with my own eyes!"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩は嬉しそうな恥ずかしそうな、そんな複雑な表﨣情でうつむいた。◯",

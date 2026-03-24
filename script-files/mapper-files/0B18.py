@@ -115,7 +115,7 @@ text_array = [
     # "It's always a surprise to the man who is adorable. In martial arts, you can't just hit it with just a simple, pure punch. You also need to be skilled in the heart-wrenching battle."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("たしかに、甘かった。",

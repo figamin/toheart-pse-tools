@@ -59,7 +59,7 @@ text_array = [
     # Then they'll start to surprise them and tamper with it again.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("いや、また前みたいに気站絶させちまったらかわいそうだしな。",
@@ -95,7 +95,7 @@ text_array = [
     # ・
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("声をひそめて待つこと１分あまり…。",
@@ -127,7 +127,7 @@ text_array = [
     # If that's the case, then I'm a real idiot who's been tampering with this and hiding it, and I'm totally stupid.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("オレは教室の入闢り口から、そ〜っと頭を出して様子をうかがってみた。",
@@ -135,7 +135,7 @@ text_array = [
     # As I entered the classroom, I gently exposed my head and checked on the situation.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("いない…？",

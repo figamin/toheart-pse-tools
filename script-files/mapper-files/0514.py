@@ -11,7 +11,7 @@ text_array = [
     # "When asked if I could continue forever, I honestly don't have confidence."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「本心で言うと、そうかな」",
@@ -75,7 +75,7 @@ text_array = [
     # "It's true that it's fun to tamper with Aoi Chishonan right now, and I think that's fine. If someone asks if he can continue forever, I'll never know."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("葵ち痰ゃんはなにも言甯わず、黙ってオレの話を聞いている。",
@@ -99,7 +99,7 @@ text_array = [
     # "But it's my fault, but I guess this guy can't get as enthusiastic about martial arts as Aoi Chishouyan."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「だから、いまは自信がないとしか言えない」",

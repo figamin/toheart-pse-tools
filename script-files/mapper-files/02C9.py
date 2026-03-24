@@ -71,7 +71,7 @@ text_array = [
     # "Is this a rainy ritual like a rainbow ceremony?
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ひとりじ痰ゃできない魔法だって？	だからオレに手伝って欲しいと」",
@@ -107,7 +107,7 @@ text_array = [
     # "Well, I'll help you, but don't expect too much."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、蛛大苟丈夫？	オレとだったらできる気がするって？」",
@@ -247,7 +247,7 @@ text_array = [
     # When a T-person like Senpai Senpai casts such a spell on the Shinbuken, it strangely enough creates a mysterious atmosphere.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ほんと、真武剣だよな。",
@@ -267,7 +267,7 @@ text_array = [
     # ``There's no way you can't help but be fooled.''
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("これでもし、雨が降迯らなかったら、諱先輩、がっかりするだうな。",
@@ -275,7 +275,7 @@ text_array = [
     # If this doesn't rain, Senpai, I'd be disappointed.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ａ魔法なんて信じち痰ゃいないけど、できれば降迯らせてやりたいなあ。",
@@ -295,7 +295,7 @@ text_array = [
     # After all, seniors of the name are people who never lie to me.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("ａ魔法成功するかな。",
@@ -303,7 +303,7 @@ text_array = [
     # a Magic will be successful.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("するような気がしてきた。",
@@ -315,7 +315,7 @@ text_array = [
     # After all, my senior innocent has been working so hard to do his best for the rest of his life.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("きっと、呪文は成功する。",
@@ -395,31 +395,31 @@ text_array = [
     # So the two of them also hung up on the bench, and then continued to sniff and looked up at the sky for a while, and waited.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -427,23 +427,23 @@ text_array = [
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「降迯らねえな…」",

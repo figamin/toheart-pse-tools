@@ -39,7 +39,7 @@ text_array = [
     # "...Identity Senpai"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("梶相変﨑わらずなノー梶リアクション。",
@@ -55,7 +55,7 @@ text_array = [
     # There was dust on my senior's skirt, so I wiped it off with my hand and tampered with my ecstasy.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	こちらこそ、すみません…って？	諱先輩はゆっくり歩いてたんだ、悪くないって」",
@@ -75,7 +75,7 @@ text_array = [
     # "And what do you want on the day you're in the middle of the day? I had some great deal lol b?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「えっ？	また部室にｗて欲しいって？」",

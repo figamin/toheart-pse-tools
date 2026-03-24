@@ -11,7 +11,7 @@ text_array = [
     # "Please give me your medicine now..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「まあ、今回はとくになんともなかったからよかったけどさ。失敗薬飲まされたなんて、ぞっとするぜ」",
@@ -19,7 +19,7 @@ text_array = [
     # "Well, I'm glad that there were no hot water this time. It's scary to see you being given a drug that will make you take."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「え、すみませんって？	あ、いや、そんな強くは言ってねーって。",
@@ -39,7 +39,7 @@ text_array = [
     # "I'll return to the slut now, right?"
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("諱先輩はこくんとうなずいた。",

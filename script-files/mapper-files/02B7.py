@@ -27,7 +27,7 @@ text_array = [
     # "What's up with? Your sister is the type of person who speaks clearly like you, so you have no phlegm."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「まあ、それはそうかも知れないけど、似てる部分熾も多いのよ。たとえば、好みとかね」",
@@ -67,7 +67,7 @@ text_array = [
     # No, did you take it seriously?”
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("へ、変な翌女。",

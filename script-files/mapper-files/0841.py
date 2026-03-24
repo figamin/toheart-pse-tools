@@ -395,7 +395,7 @@ text_array = [
     # Our gangbang entered the living room and party laid-back hall, which was a sputum.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("なんか、場瘴違いなｏ闖りつけが…。",
@@ -1647,11 +1647,11 @@ text_array = [
     # The two of them watch for a while.
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「………」",
-    "…"),
+    "………"),
     # "..."
 
     ("「ごめんね、…」",
