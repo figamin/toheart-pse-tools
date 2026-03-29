@@ -71,7 +71,7 @@ text_array = [
     # "Yeah, I understand. I'll show you some more phlegm next time."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「今厓日はたまたまだ、たまたま」",

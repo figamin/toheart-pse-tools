@@ -127,7 +127,7 @@ text_array = [
     # When I put the money in, air gushed out from underneath..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「なんだ、やってみるか？」",

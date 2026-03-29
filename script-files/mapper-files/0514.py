@@ -39,7 +39,7 @@ text_array = [
     # I was accused of the general pass combat skills, and I thought that it would be a fun game, but it would be a fun game anyway."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「仮遠箔部するって言ったときもけっこう軽い気搴持ちだった。ふたりで楽しくやれて、少しはオレ自身熕も熱くなれれば儲けものだって、その程度にしか考えてなかった」",
@@ -47,7 +47,7 @@ text_array = [
     # "When I said that I'd like to do temporary foil sections, the hot springs were pretty light. I only thought that if the two of them could have fun tampering with it, and if I could get a little excited, I would be able to make a profit."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「多分、同じように空闍手竡や柔道に誘嵭われても、オレには無摶理だと、はっきり断ったと思う。",
@@ -59,7 +59,7 @@ text_array = [
     # I know well that I can't play around with judo and stimulation."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「けど、＊淫俣﨎^武剣に取り組んでる葵ち痰ゃんを見てるうち、とんでもない勘違いをしていたことに気づいた。エクストリームも、それにｌけて頑張髓る葵ち痰ゃんの意気梛込みも、オレが想恆像してたより、はるかにシビアだった」",
@@ -91,7 +91,7 @@ text_array = [
     # We need more motivation and determination."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「だけど、悪いけど、やっぱりこのオレは、葵ち痰ゃんほど格闘技には熱くなれないんだ」",
@@ -203,7 +203,7 @@ text_array = [
     # I've been trying my best every day, thinking that."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「でも結局、それってよく考えたら、ただの自分泄勝闖手なんですよね。",
@@ -231,7 +231,7 @@ text_array = [
     # "So, when I entered High School A, I just wanted to start playing Extreme Ream, and rather than worrying, I started this banquet love with just that momentum."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「けど、そんなわがままにつき№合ってくれる人なんて全然いなくて、部員煦も規闍定人柏数にはほど遠い状況です」",
@@ -239,7 +239,7 @@ text_array = [
     # "But there is no one who will do that selfishness, and the club member Hang is far from the number of people who are not in the same position as the number of people in Zhuang's sect."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「なのに、諱先輩だけは、そんなр私を桙応㊨援してくれました。自分泄勝闖手な都∮合で振關り回してるのに、それでも桙応㊨援してくれたんです。",
@@ -283,7 +283,7 @@ text_array = [
     # "Thank you very much for the end of the day! And I'm sorry for the end of the day."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「п私がこうして今厓日までやってこれたのは、諱先輩阡が…」",

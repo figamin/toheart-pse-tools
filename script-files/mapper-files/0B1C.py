@@ -35,7 +35,7 @@ text_array = [
     # "Yeah. Well, if you try it, you'll understand."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("じつはあれから、少しだが練習をした。",
@@ -187,7 +187,7 @@ text_array = [
     # "He's a boy. He's a little painful, so I can't resist the hot springs, yelling?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("へっ、おどしのつもりかよ。",

@@ -51,7 +51,7 @@ text_array = [
     # Because the committee member is the chairman... is that b?”
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「委員長だから、真武剣に言ったんだぞ」",

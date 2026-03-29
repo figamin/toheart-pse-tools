@@ -2,20 +2,20 @@
 # Source file: 0A33.txt
 
 text_array = [
-    ("（Ａ	閨手を貸すぜ。）",
-    ""),
+    ("（Ａ　手を貸すぜ。）",
+    "A. Help her."),
     # (A I'll lend you a hand.)
 
-    ("「諱よし、ちょっと手を貸すぜ」",
-    ""),
+    ("「よし、ちょっと手を貸すぜ」",
+    "Lemme help you out."),
     # "Okay, I'll lend you a hand" 
 
-    ("「えっ？	あ、いいよ。",
-    ""),
-    # "Huh? Ah, that's fine.
-
-    ("私の仕鮪事だし、悪いよー」",
-    ""),
+    ("「えっ？",
+    "Huh?"),
+    ("あ、いいよ。",
+    "You don't have to."),
+    ("の仕事だし、悪いよー」",
+    "It's my job, after all."),
     # It's my tuna thing, so it's a bad thing."
 
 ]

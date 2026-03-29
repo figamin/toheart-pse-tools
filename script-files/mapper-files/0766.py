@@ -123,7 +123,7 @@ text_array = [
     # Everyone there was already whispering loudly.That was even embarrassing!”
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("ひとけの少ない公園で、オレは無菇口な琴音ち痰ゃんを鰍相闡手に話し続けていた。",

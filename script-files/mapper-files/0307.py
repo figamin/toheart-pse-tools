@@ -443,7 +443,7 @@ text_array = [
     # The bathing students looked at each other's faces and made them join together.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…え、ええ。じ痰ゃあ、ぜひ、お願いします。保科さん」",

@@ -403,7 +403,7 @@ text_array = [
     # "Ah, Yoshie-san."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「そっちは準備は良さそうね」",
@@ -415,7 +415,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「なに？	どうかした？」",
@@ -427,7 +427,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…そう。これから戦う鰍相闡手にはあいさつも不要ってわけ？」",
@@ -567,7 +567,7 @@ text_array = [
     # "Whoa, for Aoi, you did quite the boldest thing. I didn't think I was a child who could do such a bold thing."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「とにかく、好恵と痰違ってр私は桙応㊨援するわよ。かつての後輩と同じ曹舞苺台の上で戦えるなんて、きっと燃えるに痰違いないわ」",
@@ -703,7 +703,7 @@ text_array = [
     # "Whoa, for Aoi, you did quite the boldest thing. I didn't think I was a child who could do such a bold thing."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「とにかく、好恵と痰違ってр私は桙応㊨援するわよ。かつての後輩と同じ曹舞苺台の上で戦えるなんて、きっと燃えるに痰違いないわ」",
@@ -859,7 +859,7 @@ text_array = [
     # "Hehehe. Well, I'm going to have to ask you about this and have no sluts. I'll tell you about that next time and get some hot water."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("それにしても、やっぱりｖだよな。",
@@ -951,7 +951,7 @@ text_array = [
     # "Whoa, for Aoi, you did quite the boldest thing. I didn't think I was a child who could do such a bold thing."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「とにかく、好恵と痰違ってр私は桙応㊨援するわよ。かつての後輩と同じ曹舞苺台の上で戦えるなんて、きっと燃えるに痰違いないわ」",
@@ -1179,7 +1179,7 @@ text_array = [
     # "Whoa, for Aoi, you did quite the boldest thing. I didn't think I was a child who could do such a bold thing."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「とにかく、好恵と痰違ってр私は桙応㊨援するわよ。かつての後輩と同じ曹舞苺台の上で戦えるなんて、きっと燃えるに痰違いないわ」",
@@ -1279,7 +1279,7 @@ text_array = [
     # "That's why I remember it in a strange way."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「で、そのあなたがどうして葵のセコンド役をやってるの？」",
@@ -1343,7 +1343,7 @@ text_array = [
     # "Hehehe. Well, I'm going to have to ask you about this and have no sluts. I'll tell you about that next time and get some hot water."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("それにしても、やっぱりｖだよな。",
@@ -1539,7 +1539,7 @@ text_array = [
     # "Whoa, for Aoi, you did quite the boldest thing. I didn't think I was a child who could do such a bold thing."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「とにかく、好恵と痰違ってр私は桙応㊨援するわよ。かつての後輩と同じ曹舞苺台の上で戦えるなんて、きっと燃えるに痰違いないわ」",
@@ -1675,7 +1675,7 @@ text_array = [
     # I mean that my, and Yoshie, have a yardstick for Yoshie."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「だいたい空闍手の世界は狭すぎなのよ。同じ空闍手でも、どれだけの流派があると思って？	流派によってルールはバラバラ、蛛大痩だって出齒場￥メンバーは限迪られていて、いつも同じ顔ぶれが戦ってる。ひとつの流派の頂点なんて、しょせんお山の大将でしかない」",
@@ -1683,7 +1683,7 @@ text_array = [
     # "The world of Skywalker is generally too narrow. How many schools do you think there are for the same schools? Depending on the school, the rules are Babanquet Raba Banquet Ra, and even the great slimming members are limited, and the same members are always fighting for the same group of people. The pinnacle of a school is just the general of the simulator of the mountain."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「言ってみれば、殻にこもった閉鎖空間ね。他流派同士燻もっとオープンにならない限り、これ以繹上空闍手に発展はないわ。技術としての格闘技でもｒ薗ランク止まりだわ。だからр私はエクストリームを選んだの」",

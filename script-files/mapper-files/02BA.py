@@ -143,7 +143,7 @@ text_array = [
     # A chrysanthemum limousine moves away.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("しかし、どっちも変なおｏ様だよなあ。",

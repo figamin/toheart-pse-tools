@@ -55,7 +55,7 @@ text_array = [
     # "So, do you also do dance and tamper with? Do you also do early dance or koto? Have you been there? Wow, that's amazing."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「早舞踏悼なんて、オレにすり痰ゃ、絵本のｒのお話だからな。",

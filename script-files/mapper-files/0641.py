@@ -103,7 +103,7 @@ text_array = [
     # Ah, I continued to move forward, and it reached 67 Tang Percent.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("ふーん、そうか。",
@@ -131,7 +131,7 @@ text_array = [
     # I wonder if this is a data sensible one.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("うーん。",
@@ -155,7 +155,7 @@ text_array = [
     # Oh, the horizontal bar on the name screen suddenly moved forward, reaching 71 Tang %.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("いまみたいに電源が切齔れてるとき、マルチの意識はどうなってんのかな。",
@@ -471,7 +471,7 @@ text_array = [
     # "Hmm? What's wrong?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「あの、マルチ？」",
@@ -503,7 +503,7 @@ text_array = [
     # "Oh, I'm going to cry!"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「お、おい、マ、マルチ…！？」",
@@ -623,7 +623,7 @@ text_array = [
     # "Ah, you can defeat me all of a sudden, it's hot."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「どうした、マルチ？	まだどっか調子悪いのか？」",
@@ -639,7 +639,7 @@ text_array = [
     # "I see, then, fine."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「それよりもさ、マルチ。ちょっと聞きたいことがあるんだけど」",

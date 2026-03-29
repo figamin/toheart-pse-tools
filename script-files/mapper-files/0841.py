@@ -1855,7 +1855,7 @@ text_array = [
     # For the first time I came here, Ekiremi said with a lonely look on his face.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("雅話がとぎれ、ふたりとも黙ってしまった。",

@@ -79,7 +79,7 @@ text_array = [
     # "Yeah, I understand. I'll show you some more phlegm next time."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「信じる力があれば、きっと垂叶うんだ？」",

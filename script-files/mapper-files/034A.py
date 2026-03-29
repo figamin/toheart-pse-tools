@@ -159,7 +159,7 @@ text_array = [
     # "You idiot. You're going to cry for something like this or something that's not eclips. They're going to be shocked because they're going to do things that's not eclips."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("そうだうか。",
@@ -231,7 +231,7 @@ text_array = [
     # "Can I say it clearly not to do anything like this again?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("すると、委員長はゆっくりと目を嘯伏せて、はぁと深く息を吐いた。",
@@ -263,7 +263,7 @@ text_array = [
     # "It doesn't matter, isn't it? We're a No. 1 member of the same club, and even our seats are next to each other."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「実際、こんなひでぇことされてるのを目の前にして、黙ってられねーだ」",

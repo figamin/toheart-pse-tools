@@ -175,7 +175,7 @@ text_array = [
     # He said, looking into my eyes.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("なんのことかはすぐに察しがついた。",

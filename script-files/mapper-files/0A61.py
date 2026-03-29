@@ -2,24 +2,28 @@
 # Source file: 0A61.txt
 
 text_array = [
-    ("（Ａ	声をかける。）",
-    ""),
+    ("（Ａ　声をかける。）",
+    "A. Call out to her."),
     # (A call out.)
 
-    ("「オッス。熱心にやってるじ痰ゃねーか」",
-    ""),
+    ("「オッス。",
+    "Hey there."),
+    ("熱心にやってるじゃねーか」",
+    "Studying hard?"),
     # "Oh, you're so enthusiastic about tampering with all your phlegms?"
 
-    ("「あれっ。くんだ」",
-    ""),
+    ("「あれっ。",
+    "Huh? "),
+    ("くんだ」",
+    "Fujita!"),
     # "Huh. Dick."
 
-    ("掾理女緒ち痰ゃんが教科痩書からパッと顔を上げた。",
-    ""),
+    ("理緒ちゃんが教科書からパッと顔を上げた。",
+    "Rio snaps up from her textbook."),
     # The girl Ochisou-chan suddenly lifted her face from the subject slimming book.
 
-    ("「まじめなのはいいけど、なにもこんなとこで勉強しなくてもいいんじ痰ゃねーのか？」",
-    ""),
+    ("「まじめなのはいいけど、なにもこんなとこで勉強しなくてもいいんじゃねーのか？」",
+    "I get that you're serious about studying, but this is the train station, you know?"),
     # "It's fine to be serious, but what's the case for Hot Springs and Hot Springs doesn't have to study in places like this, so it's fine for Hot Springs to be phlegm?"
 
 ]

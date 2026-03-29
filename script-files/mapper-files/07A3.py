@@ -47,7 +47,7 @@ text_array = [
     # "Arcades are called hangouts for the bad guys who are having a banquet b? Apparently it was really like that before the people who were ecstatic were born."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「けど、いまは痰違うぜ？	ゲーセンは小さな遊園地ってノリかな？」",

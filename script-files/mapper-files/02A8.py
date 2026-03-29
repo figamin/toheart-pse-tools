@@ -131,7 +131,7 @@ text_array = [
     # Even though it's lol, Senior Suzumi-san, there's Hot...
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("なに言ってんだよ、オレッ！",

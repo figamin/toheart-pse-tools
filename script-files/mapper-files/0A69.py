@@ -2,16 +2,16 @@
 # Source file: 0A69.txt
 
 text_array = [
-    ("（Ｂ	やめておく。）",
-    ""),
+    ("（Ｂ　やめておく。）",
+    "B. Leave her alone."),
     # (B: Stop it.)
 
-    ("あれだけ熱心な顔で勉強されると、かるーく『諱よっ』なんて言いづらいよな。",
-    ""),
-    # When you study with such an enthusiastic face, it's difficult to say "I'm a real person."
-
+    ("あれだけ熱心な顔で勉強されると、かるーく",
+    "It isn't nice to disturb someone "),
+    ("『よっ』なんて言いづらいよな。",
+    "trying so hard to focus on their studies."),
     ("ま、今厓日は声をかけるのはやめとこう。◯",
-    ""),
+    "I'll let her be for today."),
     # Well, I'll stop talking to you on the day.◯
 
 ]

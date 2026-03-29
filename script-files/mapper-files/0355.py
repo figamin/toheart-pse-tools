@@ -431,7 +431,7 @@ text_array = [
     # "What's that about? I think the act itself is the lowest scar."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「こっそりと一箞方的な悪箞口を曹書き桙込むなんて、良識のある高校生がすることか？	小学生のガキ諠より撃レベル痺低いぜ」",
@@ -459,7 +459,7 @@ text_array = [
     # "If you're looking down on us, you guys are like you've proven your own low level of phlegm."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「ま、そもそもの原因がどっちにあるのかはともかく、シャャレじ痰ゃすまないとこにまで踏み出したのはお前迹らだ」",
@@ -559,7 +559,7 @@ text_array = [
     # Matsumoto Tsuyoshi also says this.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("ふたりからそう言甯われると、さすがの岡田燗も渋々ながら引っ桙込むしかなかった。",
@@ -631,7 +631,7 @@ text_array = [
     # Perhaps it's a great idea to have been able to fire up the fire even more.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("ま、そんときはそんときだ。",

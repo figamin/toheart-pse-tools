@@ -99,7 +99,7 @@ text_array = [
     # "Hmm..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「とこで今厓日は部賦はないの？	休み？」",
@@ -119,7 +119,7 @@ text_array = [
     # After all, O-san has a lot of money, so it's tough for me to be a big bud."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「はー…」",

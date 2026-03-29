@@ -155,7 +155,7 @@ text_array = [
     # I'm rubbing the persistent i-amichi with care.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("この真武剣な表﨣情熄も、今厓日限りで見納めかと思うと、やっぱりなんだか寂しくなってくる。",

@@ -567,7 +567,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「………」",
@@ -1215,7 +1215,7 @@ text_array = [
     # Crack and steamed hot and steamed hot and steamed hot.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("委員長はしばらく目を閉じて考え桙込むと、やがて小さな声で、",
@@ -1431,7 +1431,7 @@ text_array = [
     # "My parents were suddenly divorced just before they took the entrance exam for High School A, and I was forced to join my mother, so I was being forced to join my parents' house and I was so bored."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「ａ高校熏も、本末当はｌこうの学校を受けるはずやったのに、急きょ、いまの高校にｌまってもうた」",
@@ -1459,7 +1459,7 @@ text_array = [
     # So now, I'm always thinking, 'Why am I here?'
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「けど、そんなр私の心の支えになってるのは、学の卒業式、その男友だちが言うてくれた言葉笳やねん」",
@@ -1539,7 +1539,7 @@ text_array = [
     # If I get there, I'll pass from my father's place and we'll all have fun tampering with the slut together."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「そのためには今の成績を維揶持せなあかん。",
@@ -1715,7 +1715,7 @@ text_array = [
     # "There are certainly some kind of hot water, such as the fact that the phlegm is different, or that the skin doesn't have a magnitude of the magnitude, or that's not a problem, but I have to give everyone a certain amount of it."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「まずは身近なとこで、オレのまわりの連中と№仲良くしよーぜ。あかりと史。あいつら薰基本的に根がいいし、つき№合いやすいと思うけどな。そういえば、あかりのやつも委員長と№仲良くしたがってたな」",
@@ -1731,7 +1731,7 @@ text_array = [
     # "Oh, the chairman has good grades and is a T-shirt, so it seems like he's admiring him, right?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("あと、身近なとこで言うと志保熾もいるんだが、あいつはイマイチおすすめできねーな。",

@@ -239,7 +239,7 @@ text_array = [
     # "Are you thinking about unnecessary things like what would happen if you lost to the Amami test?!"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「もしも奄負けたら、坂下はエクストリームを認めてくれないんじ痰ゃないかとか、綾∴香に恥をかかせちまうんじ痰ゃないのかとか、そんなことばかり考えてんじ痰ゃねーのか？」",
@@ -283,7 +283,7 @@ text_array = [
     # "You don't have to worry about that at all. Usually, if you get stiff for that reason and lose to Amami then you won't have any gen-han or ko-smoking b?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「氈勝ち奄負けよりも試㍽合のｒ身が肝心なんだ。エクストリームにかける薰情熱を坂下に伝えるのが目的だ？",
@@ -515,7 +515,7 @@ text_array = [
     # "Because Aoi Chisho-yan's body contains the results of his past fortune practice!"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「この肩！",
@@ -563,7 +563,7 @@ text_array = [
     # The results of fortune practice are ingrained in the area where the funeral is!”
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「たとえ葵ち痰ゃんが弱気になっても、頭のｒが真っ窒白になっても、体は覚えてる！」",
@@ -571,7 +571,7 @@ text_array = [
     # "Even though Aoi Chisho-chan becomes weak and her body remembers, her head becomes completely white and her body remembers!"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「サンドバッグを殴った衝ｏ撃、蹴ったときの衝ｏ撃、地面を踏んだフット純ワーク…」",
@@ -579,7 +579,7 @@ text_array = [
     # "An impingement of hitting a punching bag, an impulse when kicking, a pure footwork when stepping on the ground..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「ひとつひとつが、この体に盾刻まれてる！」",
@@ -587,7 +587,7 @@ text_array = [
     # "Each shield is engraved on this body!"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「だから葵ち痰ゃんは強いんだ。自信を持て！いいか｢｢」",

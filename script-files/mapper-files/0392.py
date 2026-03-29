@@ -43,7 +43,7 @@ text_array = [
     # "Haha, the chairman is a hot guy who likes Takaron Gata Lee."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「じ痰ゃあ、また明坙日な」",

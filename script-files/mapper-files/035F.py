@@ -119,7 +119,7 @@ text_array = [
     # "It's a bit like that, perhaps, there's a fateful monkey in a place that's surprisingly close to me."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「ま、そんだけ。",

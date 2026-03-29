@@ -99,7 +99,7 @@ text_array = [
     # "That's why I say there's no need to go along and revise it."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("深く取るもよし、軽く受け止めるもよし。",

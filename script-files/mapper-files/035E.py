@@ -43,7 +43,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("わずかな沈黙をはさんだ後、委員長は小さな声で、",
@@ -71,7 +71,7 @@ text_array = [
     # "The only person who scolds me with such a Shinbuken face is that you'll be tampering with a man like this."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("そして、委員長は恥ずかしそうに微笑んだ。",
@@ -83,7 +83,7 @@ text_array = [
     # "Hahaha, sorry for saying something that's not worth it."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「さっきの、ただの冗談竰やから」",
@@ -107,7 +107,7 @@ text_array = [
     # "I'm on the day I'm on the verge of this, I'm not even gross."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
 ]

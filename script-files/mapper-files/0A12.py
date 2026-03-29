@@ -135,7 +135,7 @@ text_array = [
     # When the ramblings stood up, she apologised in shame, and ran down the hallway.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("うーむ。",

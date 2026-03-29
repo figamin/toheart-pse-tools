@@ -119,7 +119,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("ほんのわずかな、あるいはとても長い桙時間が過ぎ去っていった。",
@@ -231,7 +231,7 @@ text_array = [
     # "Mochibun, this is my opinion that's a really good-looking guy..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("あかりは床に視諮を落としたまま、ずっと黙っている。",
@@ -427,7 +427,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「な、なんだよ、その反梍応は…？」",
@@ -463,7 +463,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("沈黙。",
@@ -1147,7 +1147,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「ははっ」",
@@ -1227,7 +1227,7 @@ text_array = [
     # "It's too bad."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…なんだよ？」",
@@ -1271,7 +1271,7 @@ text_array = [
     # "...I was serious, and I was a Shinbuken, and I wanted to respond to that, so I had the courage to do so, so I did this lol?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…なのに…そんなの…ひどいよ…」",
@@ -1319,7 +1319,7 @@ text_array = [
     # "I would normally think so."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…あの後、オレは後悔してたんだ」",
@@ -1347,7 +1347,7 @@ text_array = [
     # "I thought about it, and whenever I thought that the two people who were in touch with me were natural."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「諱ようやく嘯答え見つけて、明坙日っからはまたいつものふたりに戻髢るはずだったのに…」",
@@ -1363,7 +1363,7 @@ text_array = [
     # "But again, this is how it was lol, and the next one has been tampered with..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「とにかく、今厓日はもう帰鼡れ」",
@@ -1527,7 +1527,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「わりぃ」",
@@ -1567,7 +1567,7 @@ text_array = [
     # "To be honest, I'm starting to find out what you're like."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…もしかしたら、オレ、お前といま以繹上の関係になる自信…ないかもしれない」",

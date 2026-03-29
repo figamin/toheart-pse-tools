@@ -2,48 +2,52 @@
 # Source file: 0A31.txt
 
 text_array = [
-    ("（Ａ	声をかける。）",
-    ""),
+    ("（Ａ　声をかける。）",
+    "A. Call out to her."),
     # (A call out.)
 
-    ("「おーい、掾理女緒ち痰ゃん」",
-    ""),
+    ("「おーい、理緒ちゃん」",
+    "Rio!"),
     # "Hey, I'm sputum" 
 
-    ("「あっ、くん」",
-    ""),
+    ("「あっ、",
+    "Ah!"),
+    ("くん」",
+    "Fujita!"),
     # "Ah, kun."
 
-    ("「今厓日燗もがんばってんな。偉いもんだぜ」",
-    ""),
+    ("「今日もがんばってんな。",
+    "Working hard today too, huh?"),
+    ("偉いもんだぜ」",
+    "You go girl!"),
     # "You're working hard right now, too. That's a great hot spring."
 
-    ("「そ、そんなことないって〜…」",
-    ""),
+    ("「そ、そんなことないって～…」",
+    "I-It's not that big of a deal…"),
     # "Oh, that's not the case..."
 
-    ("なんだか顔を真っ赤にして、掾理女緒ち痰ゃんはトラックの上の大きな段ボール箱に手を伸ばす。",
-    ""),
+    ("なんだか顔を真っ赤にして、理緒ちゃんはトラックの上の大きな段ボール箱に手を伸ばす。",
+    "She flushes and reaches out for a large box on the truck."),
     # Her face turned bright red, and the girl reached for the large cardboard box on the wings of the king rack.
 
-    ("こんなしぐさは、なんとなく可愛いんだけど、いま、掾理女緒ち痰ゃんを慌てさせたのはｊ険だったかもな。",
-    ""),
+    ("こんなしぐさは、なんとなく可愛いんだけど、いま、理緒ちゃんを慌てさせたのは危険だったかもな。",
+    "She looks really cute doing that, but it also looks risky because I'd just flustered her."),
     # Such gestures are somehow cute, but it was just J-do that made Jochi Shoyan panic.
 
-    ("そこで｢｢。",
-    ""),
+    ("そこで",
+    "So I decide to…"),
     # So ".
 
-    ("Ａ	閨手を貸すぜ。閨",
-    ""),
+    ("Ａ　手を貸すぜ。",
+    "A. Help her."),
     # A: I'll lend you a hand.Relax
 
-    ("Ｂ	気をつけよ。閨",
-    ""),
+    ("Ｂ　気をつけろよ。",
+    "B. Tell her to be careful."),
     # B Take care b.Relax
 
-    ("Ｃ	じ痰ゃあな。閨",
-    ""),
+    ("Ｃ　じゃあな。",
+    "C. Leave."),
     # C: It's phlegm.Relax
 
 ]

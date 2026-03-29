@@ -363,7 +363,7 @@ text_array = [
     # "Look, there are also many people who choose to use the Pro-Korogamaku b? The person who suffers from a sinus injury to the roe training and is unable to appear in the lion test. I'm worried that it will happen like that."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「昨厓日読んだ本によると、運動はヘトヘトになるまでやるより、数回に分けてやるほうが効果的なんだとさ」",
@@ -495,7 +495,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("ややあって、",

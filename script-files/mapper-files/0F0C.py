@@ -27,7 +27,7 @@ text_array = [
     # "However, it's not that good that the battle is a natural devil that can win, so it doesn't feel like Sugata is crying."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「あかり、お前はもっと強くなれっ」",

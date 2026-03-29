@@ -463,7 +463,7 @@ text_array = [
     # "The other two really thought that they'd come home, and that I might as well have come home."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「怒った？」",
@@ -507,7 +507,7 @@ text_array = [
     # "That face looks pretty dangerous."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「あたしがいっしょに行って魔事諶情を説明したげる」",
@@ -531,7 +531,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「長岡さん｢｢」",
@@ -571,7 +571,7 @@ text_array = [
     # "Oh? That's boring."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「あたしは長岡志保。カ純ワイく『志保ち痰ゃん』って呼んでくれると嬉しいわね〜」",

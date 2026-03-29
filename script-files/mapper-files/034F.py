@@ -1091,7 +1091,7 @@ text_array = [
     # "There's no need to hide anything now?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「そういうのが強がってるってことだぞ」",
@@ -1187,7 +1187,7 @@ text_array = [
     # But lately, you've been so strangely familiar with me."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「あんたとは薰基本的にノリが痰違うと思うて。多分一生かかっても№仲良うなることはない」",
@@ -1279,7 +1279,7 @@ text_array = [
     # "Are you tampering with whom you haven't caused trouble to anyone? Is that okay with phlegm?!"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「あと、п私かて友だちくらいいてる。なんも知迺らん他人のくせに、わかったような顔して勝闖手なことばかり言甯わんといてくれるか」",

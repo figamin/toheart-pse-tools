@@ -499,7 +499,7 @@ text_array = [
     # It's like hitting a little more on the Sharp..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「あの、どうしました？」",

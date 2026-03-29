@@ -47,7 +47,7 @@ text_array = [
     # "I'm going to get phlegm, I'm going to get back to my phlegm <<Me-sphlegmy phlegmy."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「でも、いきなり姉さんとのツーショットが見鼬れるなんてね。本末当に№仲いいのね」",

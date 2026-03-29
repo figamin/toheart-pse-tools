@@ -55,7 +55,7 @@ text_array = [
     # "That's what we've been talking about up until now? We're going to make it a success now."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「オレはｌめたからな。琴音ち痰ゃんが超能力をコント鴻ロールできるようになるまで、オレが桙応㊨援してやるよ。な！」",

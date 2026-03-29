@@ -127,7 +127,7 @@ text_array = [
     # Other than basic defense, you can just practice for your own style and cry."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「ん？	どうかした？」",

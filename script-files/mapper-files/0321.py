@@ -351,7 +351,7 @@ text_array = [
     # "yeah?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「なんだよ？」",
@@ -363,7 +363,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…あの、あのな」",
@@ -379,7 +379,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「そこ、狭いや？」",
@@ -447,7 +447,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…なんか、し痰ゃべりぃな」",
@@ -463,7 +463,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("ううっ。",
@@ -611,7 +611,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「ほれ、＝早鞫よ≠早鞫よ」",
@@ -655,7 +655,7 @@ text_array = [
     # "Tsmear, what do you mean? Yes, it's fine after all, that."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「もう一回」",
@@ -723,7 +723,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…なあ、くん？」",
@@ -763,7 +763,7 @@ text_array = [
     # After all, I've started to like you little by little as I've accumulated a lot of Inumata.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「委員長はどうなんだ？」",
@@ -831,7 +831,7 @@ text_array = [
     # "He really doesn't know about the guy who likes all sorts of girls...but he's just plainly silly and never heard of him before, so he just didn't want to admit it."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…でも自分では、もう少しショック受けるかと思うてた。けど、それに関しては意外とさっぱりしてる。それは、たぶん…」",

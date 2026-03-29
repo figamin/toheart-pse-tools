@@ -303,7 +303,7 @@ text_array = [
     # "N shield o bath lol ≠ ah y. I'm a shield lol that never returns."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("彼女の言葉に強い責任感みたいなものを感じて、オレは黙ってうなずいた。",

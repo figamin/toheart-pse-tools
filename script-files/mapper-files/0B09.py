@@ -447,7 +447,7 @@ text_array = [
     # "Oh, Kibishi. How can I forgive the magician?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「ん、なあに？」",

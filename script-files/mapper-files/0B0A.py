@@ -1,6 +1,6 @@
 # Generated array of Japanese text with English comments
 # Source file: 0B0A.txt
-
+# TODO: don't know where the A option is yet
 text_array = [
     ("（綾∴香	冝日付イベント２）閨（Ｂ	やめとこう）",
     ""),
@@ -10,11 +10,11 @@ text_array = [
     ""),
     # It looks like I have friends, so I'll stop.
 
-    ("群になった翌女子校生はうるせーしな。",
+    ("群になった女子校生はうるせーしな。",
     ""),
     # The schoolgirls who have been in a group are shut up.
 
-    ("またの機級にしよう。◯",
+    ("またの機会にしよう。",
     ""),
     # Let's go for another model grade.◯
 

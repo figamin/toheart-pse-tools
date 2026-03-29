@@ -331,7 +331,7 @@ text_array = [
     # "What should I do if I can do this kind of English translation?'
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("ぐっ。",

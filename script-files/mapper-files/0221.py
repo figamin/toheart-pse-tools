@@ -107,7 +107,7 @@ text_array = [
     # "Is it okay to drink this? Huh? You're going to like the person who first saw it when you drink it? Hmm, it's a slut."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「あ、べ、べつに疑ってるわけじ痰ゃないぜ。ただちょっと、そんなのが本末当にｍ鼾れるのかなーって思っち痰ゃったりなんかして」",
@@ -623,7 +623,7 @@ text_array = [
     # "Then, as soon as the effects of the medicine disappear, I feel sick, and I like my hardcore, so why are they gone, and I feel like I'm not in hot water or hot water?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「それって、なんか、悲しいぜ」",
@@ -639,7 +639,7 @@ text_array = [
     # "That's not all that much phlegm. What I want to hear is that phlegm is that 'love'."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「オレは好きだぜ」",
@@ -655,7 +655,7 @@ text_array = [
     # "I've always loved Ebi, even though I didn't have this medicine."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「だから、できれば『薬を飲んでない先輩』とこうしていたかったよ」",
@@ -663,7 +663,7 @@ text_array = [
     # "So, if possible, I would have liked to do this with my 'senpai who wasn't taking medicine'."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("すると、諱先輩は、",
@@ -1019,7 +1019,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「｢｢いまでも、好き？」",
@@ -1215,7 +1215,7 @@ text_array = [
     # "What's hot..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("なでなでなでなでなで…。",
@@ -1511,7 +1511,7 @@ text_array = [
     # "Yo, supper."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「なあ、なあ、今厓日はたしか、諱先輩の誕生﨎日だ？」",
@@ -1575,7 +1575,7 @@ text_array = [
     # "Senior Senpai is lol, the slut of the slut of the slut. On the day of his birthday, he's been waiting for a huge party."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「あっ、ゴ＜メン！	やっぱし、いまのなし！	忘齧れてくれ」",

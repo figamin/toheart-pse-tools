@@ -315,7 +315,7 @@ text_array = [
     # "Nahhahaha"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「諱よし、じ痰ゃあ、禔練習を始めよっか。まずは、なにから？」",
@@ -803,7 +803,7 @@ text_array = [
     # "Hey hey, you're telling me you're so buddy, why do you need to apologize? That's weird."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「今厓日はやられっぱなしだったけど、氈次からはそう簡単に取邇らせねーからな。だいぶコツも飲み桙込めたし」",

@@ -255,7 +255,7 @@ text_array = [
     # "Isao Senpai, I'm sure I'll be able to return to Ebi on the day right now..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「諱先輩…」",

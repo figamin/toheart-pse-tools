@@ -1,6 +1,6 @@
 # Generated array of Japanese text with English comments
 # Source file: 0B0E.txt
-
+# TODO: don't know where the A option is yet
 text_array = [
     ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）閨（選択綜ＡＢＣ	の続き）閨（商店街	２）閨（綾∴香	＝普通）",
     ""),

@@ -39,7 +39,7 @@ text_array = [
     # "'Because I'm really, I thought the chairman was a friend."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("結局、委員長は最纃後まで振關りｌかなかった。",

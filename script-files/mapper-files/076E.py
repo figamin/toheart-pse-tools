@@ -259,7 +259,7 @@ text_array = [
     # "That means you can keep your style crying without dieting b? I think there are quite a few girls who will start to get angry when they hear those words."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("こんな感じで、琴音ち痰ゃんと話したいがために、その冾日は昼メシそっちのけでし痰ゃべりまくってしまった。",

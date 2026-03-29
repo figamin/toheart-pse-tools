@@ -295,7 +295,7 @@ text_array = [
     # "I love working, but now I love watching everyone's faces. When I see your faces, I also get happy when I see your faces."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("正直オレは、そんなマルチの笑顔に対し、ちょっとした感動を覚えていた。",

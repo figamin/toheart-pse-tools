@@ -547,7 +547,7 @@ text_array = [
     # I thought I could finally be the same as everyone else."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「はじめから…無摶理だったんですよ。",
@@ -843,7 +843,7 @@ text_array = [
     # "Here, wait."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「その子のクラスの子に聞いてみたの？」",
@@ -903,7 +903,7 @@ text_array = [
     # When Kotone Chisho-yan let out a voice, he tried to escape for a moment, but his eyes fell down as if giving up.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「琴音ち痰ゃん、どうしたんだよ。学校休んで」",
@@ -987,7 +987,7 @@ text_array = [
     # He laughed at himself.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「せめて、学校に行かないで、ここで桙時間がたつのを待つことしかできませんでした…」",
@@ -1239,7 +1239,7 @@ text_array = [
     # "Who wouldn't bother you? Don't be kidding me. What will your family do? Did Mo-dad and mother give birth to Kotone-chi Sphinja to make him look like that?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「オレはどうすんだよ！？	琴音ち痰ゃんを目の前で死なせたオレが、掾傷つかねえと思ってんのかよ！？」",
@@ -1255,7 +1255,7 @@ text_array = [
     # "You're only thinking about yourself, right?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「梶頼むから死ぬなんて言うなよ！	約束してくれ",
@@ -1267,7 +1267,7 @@ text_array = [
     # Yo!”
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「いつだってそばにいてやるよ！	超能力が暴末走したらオレにｌけて使えばいい！」",

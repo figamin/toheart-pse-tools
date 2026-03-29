@@ -195,7 +195,7 @@ text_array = [
     # "That's stupid. It's only natural that you'll be slow to get phlegm after you stop moving. You should aim for that kind of thing once your defense improves a little more."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("なにも言えないオレに、",

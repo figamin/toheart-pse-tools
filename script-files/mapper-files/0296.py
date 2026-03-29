@@ -451,7 +451,7 @@ text_array = [
     # "We're going to be able to become lovers? What do you think?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「なははは。コックリさんのお垂告げだしな、オレは信じようっと」",

@@ -39,7 +39,7 @@ text_array = [
     # The chairman, who stood up from his seat, left the classroom with that intent on leaving.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「梶相変﨑わらず、キツイ翼女ねーっ」",

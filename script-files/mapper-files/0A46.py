@@ -6,64 +6,78 @@ text_array = [
     ""),
     # (Erie Moo O's Scale Event) (They know part-time job is the ones who are aware of) (2nd floor LV1)
 
-    ("さてと、帰驪るか。",
-    ""),
+    ("さてと、帰るか。",
+    "I guess I should head home too."),
     # Well, shall we go back?
 
-    ("「あっ、くん」",
-    ""),
+    ("「あっ、",
+    "Ah!"),
+    ("くん」",
+    "Fujita!"),
     # "Ah, kun."
 
-    ("オレの前にパタパタと魔走ってきたのは理女緒ち痰ゃんだった。",
-    ""),
+    ("オレの前にパタパタと走ってきたのは理緒ちゃんだった。",
+    "Rio comes running up to me in a flurry of quick little steps"),
     # Before my intense throbbing, it was Symphomaniac that ran through my spurt.
 
-    ("「お、掾理女緒ち痰ゃん。今厓日燗もバイトか？」",
-    ""),
+    ("「お、理緒ちゃん。",
+    "Hey, Rio."),
+    ("今日もバイトか？」",
+    "Going to work?"),
     # "Oh, I'm not a smug woman. Are you a part-time job at Kouan now?"
 
-    ("「うん。…今厓日はゲームセンターの≠早番と、チラシの配達。…あと、驕夜にコンビニの撃レジ」",
-    ""),
+    ("「うん。",
+    "Yeah."),
+    ("…今日はゲームセンターの早番と、チラシの配達。",
+    "I have the early shift at the arcade today, then flyer distribution,"),
+    ("…あと、夜にコンビニのレジ」",
+    "then convenience store cashier at night."),
     # "Yes... Now on the day, the game center is quick and delivery of flyers.... Also, the convenience store's fireworks are on the night."
 
-    ("「梶相変﨑わらずすげーな。過労死するぞ」",
-    ""),
+    ("「相変わらずすげーな。」",
+    "You never take a day off, huh?"),
+    ("ﾟ過労死するぞ」",
+    "You're gonna die from overwork."),
     # "Kaji Ai Henzaki is amazing. I'm going to die from overwork."
 
-    ("「蛛大苟丈夫、秩健康だから！」",
-    ""),
+    ("「大丈夫、健康だから！」",
+    "I won't coz I'm super healthy!"),
     # "Because it's tough and orderly!"
 
-    ("「はー…。この体のいったいどこひねったら、そんなパ純ワー出てくんだうな」",
-    ""),
+    ("「はー…。",
+    "Right…"),
+    ("この体のいったいどこひねったら、そんなパワー出てくんだろうな」",
+    "Where are you storing all that power in that body of yours?"),
     # "Huh... Where on earth will this body twist and be able to come out like that?"
 
-    ("「あはは、やだなー。そんなにジ鴻ロジ鴻ロ見迪られたら恥ずかしいよぉ」",
-    ""),
+    ("「あはは、やだなー。",
+    "Haha, stop it!"),
+    ("そんなにジロジロ見られたら恥ずかしいよぉ」",
+    "You're embarrassing me, staring at me like that."),
     # "Haha, I don't want you to. It would be embarrassing if you were to be so overwhelmed by the sinner."
 
-    ("たしかに疲齡れてるって感じは全然しない。",
-    ""),
+    ("たしかに疲れてるって感じは全然しない。",
+    "She really doesn't seem tired at all."),
     # Certainly I don't feel tired at all.
 
-    ("「くんも、いま帰闍りなんだ？」",
-    ""),
+    ("くんも、いま帰りなんだ？」",
+    "Are you going home?"),
     # "Are you back now, kun, huh?"
 
     ("「ああ」",
-    ""),
+    "Yeah."),
     # "ah"
 
     ("オレはうなずいた。",
-    ""),
+    "I nod."),
     # I nodded.
 
-    ("Ａ	途湯までいっしょに帰驪る。閨",
-    ""),
+    ("Ａ　途中までいっしょに帰る。",
+    "A. Walk home with her partway."),
     # A. We went back to the distance.Relax
 
-    ("Ｂ	それじ痰ゃ、また。閨",
-    ""),
+    ("Ｂ　それじゃ、また。",
+    "B. Bid her farewell."),
     # B That's the phlegm, again.Relax
 
 ]

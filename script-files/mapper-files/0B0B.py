@@ -1,6 +1,6 @@
 # Generated array of Japanese text with English comments
 # Source file: 0B0B.txt
-
+# TODO: don't know where the A option is yet
 text_array = [
     ("（綾∴香	冝日付イベント２）閨（選択綜Ａ	あいさつする	の続き）閨（選択綜Ａ	うつ嘯伏せになる	の続き）閨（真っ暗）",
     ""),
@@ -75,7 +75,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「ねえ、息がくすぐったいんだけど…」",
@@ -91,7 +91,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「ねえ、いつまで、そうしてるつもり？」",
@@ -107,7 +107,7 @@ text_array = [
     # "..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
 ]

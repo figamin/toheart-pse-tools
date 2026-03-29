@@ -59,7 +59,7 @@ text_array = [
     # "It's still too early to give up. Is there a way to be blessed?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…そうだ、たしかさっき、少しだけコント鴻ロールできるって言ってた？	それを練習して全泊部コント鴻ロールできるようにするんだ」",
@@ -75,7 +75,7 @@ text_array = [
     # "That's what we've seen up until now. It's not always the case with Hot Springs."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「諱よし！	オレはｌめた。琴音ち痰ゃんが超能力を使いこなせるようになるまで桙応㊨援するってな」",
@@ -99,7 +99,7 @@ text_array = [
     # If you're going to do it as much as you can, then you'll say it."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「返抹事は？」",

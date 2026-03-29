@@ -103,7 +103,7 @@ text_array = [
     # Akari said, slamming her.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("なんだう。",

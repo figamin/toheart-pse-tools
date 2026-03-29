@@ -115,7 +115,7 @@ text_array = [
     # "Yes... пI wonder how long have I started to like Sphinja so much? I've been thinking about it for a long time."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…いま考えるとね、п私、小さいこは、ち痰ゃんのこと、怖かったの」",
@@ -187,7 +187,7 @@ text_array = [
     # I was happy that he came, but I was able to see the kindness of Chishonan, who I had always been scared of."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「その冾日から、п私、ち痰ゃんのこと、もう前みたいに怖くなくなったの。",
@@ -199,7 +199,7 @@ text_array = [
     # He was so blunt and unfair, but despite that he was actually kind, he was really kind and I knew it was a bit phlegm."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「それから、それまで以繹上にいっしょにいるようになった。…п私が自転車に乗齒れるようになったのも、逆繼上がり出女磯翌鱶､になったのも、泳げるようになったのも、みんな、ち痰ゃんに教えてもらったからだよね」",
@@ -295,7 +295,7 @@ text_array = [
     # "That's why I actively approached the next day on this day."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「そうだよね。…いつもち痰ゃんに責任を押しつけてばかりじ痰ゃずるいよね」",
@@ -367,7 +367,7 @@ text_array = [
     # "It was bad until last day..."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「お前の言葉ではっきりわかったぜ。オレ、やっぱり、お前が好きだ」",

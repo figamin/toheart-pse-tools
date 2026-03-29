@@ -95,7 +95,7 @@ text_array = [
     # "Are you there? Are you there? That's all."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「…いるのか？」",

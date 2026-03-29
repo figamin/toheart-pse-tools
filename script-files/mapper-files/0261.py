@@ -15,7 +15,7 @@ text_array = [
     # I'm sorry for Senpai, but I'll trust the power of science after all.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「はい、おまかせください！	ついにわたしの撃レーダーが役立つときがきました」",

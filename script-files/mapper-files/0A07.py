@@ -155,7 +155,7 @@ text_array = [
     # If you say "I made my sister cry" then it means that the girl crying after all is crying.
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「あの、ご迷惑をおかけしましたっ。",
@@ -310,7 +310,7 @@ text_array = [
     # "I'm so excited, I'm still not sure what I like or what I want to say about it. But I'm not going to fall in love with you, but now it's time for the next slander, right?
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「そういう意味での友だちから…",

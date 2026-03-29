@@ -15,7 +15,7 @@ text_array = [
     # "I tried to investigate my supernatural powers in my own way, but I couldn't find the same type of psychic power as Kotone Chisho-yan."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「それでな、琴音ち痰ゃん本人から詳しく聞かせて欲しいんだ」",
@@ -391,7 +391,7 @@ text_array = [
     # "...Go<men"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「でもな、今謐より良くなるとしたら、やるしかねえだ？」",
@@ -399,7 +399,7 @@ text_array = [
     # "And if you're going to get better than you now, then I'll have no choice but to do it?"
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("「言った？	琴音ち痰ゃんを桙応㊨援するって。",
@@ -411,7 +411,7 @@ text_array = [
     # Another person has to phlegm."
 
     ("「………」",
-    "……"),
+    "………"),
     # "..."
 
     ("オレは琴音ち痰ゃんの肩にそっと触齔れた。",
