@@ -6,16 +6,16 @@ text_array = [
     ""),
     # 4/20 (Step Day)
 
-    ("４月２０冾日が終尞わる。",
-    ""),
+    ("４月２０日が終わる。",
+    "Sunday, April 20th."),
     # The 20th day of the 4th month of Shizuki is over.
 
-    ("また、明坙日燗も≠早いからな。",
-    ""),
+    ("また、明日も早いからな。",
+    "I wake up at noon, of course."),
     # Also, Mingshun sunshade is quicker.
 
-    ("＝早いとこ寝っか。◯",
-    ""),
+    ("早いとこ寝っか。",
+    "I crawl out of bed."),
     # = I'll go to bed early.◯
 
 ]

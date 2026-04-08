@@ -6,16 +6,16 @@ text_array = [
     ""),
     # 3/7 (Fri)
 
-    ("３月７冾日が終尞わる。",
-    ""),
+    ("３月７日が終わる。",
+    "March 7th is over."),
     # The 7th day of the 3rd silence moon is over.
 
-    ("その冾日の夜は、めずらしく本を読んだ。",
-    ""),
+    ("その日の夜は、めずらしく本を読んだ。",
+    "That night is one of the rare occasions in which I read a book."),
     # That night, I read a book rarely.
 
-    ("さすがに寝つきは≠早かった。◯",
-    ""),
+    ("さすがに寝つきは早かった。",
+    "It's no wonder I fall asleep early."),
     # Of course, he fell asleep quickly.◯
 
 ]

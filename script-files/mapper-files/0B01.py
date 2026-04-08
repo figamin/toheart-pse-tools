@@ -6,240 +6,242 @@ text_array = [
     ""),
     # (Aya∴Chuang Date Event 2) (April Lion, 11th, Friday, Clover) (Shopping Street)
 
-    ("その冾日の帰闍り、オレはちょっと寄闃り道し、商店街を歩いていた。",
-    ""),
+    ("その日の帰り、オレはちょっと寄り道し、商店街を歩いていた。",
+    "That day, I swing by the shopping arcade on my way back home."),
     # On that day, I came round and walked around the shopping district.
 
     ("そこで。",
-    ""),
+    "There…"),
     # There.
 
     ("ふと、見覚えのある人物を見かけた。",
-    ""),
+    "I catch sight of someone familiar-looking."),
     # Suddenly I saw a familiar person.
 
-    ("あれはたしか、＠栖瑞謳先輩のお付きのじーさんじ痰ゃなかったっけ。",
-    ""),
+    ("あれはたしか、来栖川先輩のお付きのじーさんじゃなかったっけ。",
+    "Isn't that Kurusugawa's butler?"),
     # I'm sure that was a phlegm that @Sumi-Senpai-senpai had.
 
     ("なんでこんなとこにいるんだ？",
-    ""),
+    "What is he doing here?"),
     # Why are you here?
 
-    ("じーさんは、キョ鴻ロキョ鴻ロと辺阨りを見回しながら通闥り過ぎていった。",
-    ""),
+    ("じーさんは、キョロキョロと辺りを見回しながら通り過ぎていった。",
+    "The butler walks past me while looking around."),
     # Old man went too far as he looked around and looked around.
 
     ("オレには全く気づかなかったらしい。",
-    ""),
+    "He doesn't seem to have noticed me at all."),
     # Apparently he hadn't noticed anything about me.
 
     ("誰かを捜してるような感じだった。",
-    ""),
+    "It feel like he is looking for someone."),
     # It felt like I was looking for someone.
 
-    ("＠栖瑞謳先輩か？",
-    ""),
+    ("来栖川先輩か？",
+    "Maybe Kurusugawa?"),
     # @Are you Suzumi-san?
 
     ("てことは、もしかしたら、またこの近くに先輩がいるのかもしんねーな。",
-    ""),
+    "Which means she is likely somewhere nearby."),
     # So, maybe there's a senior nearby again, so it's not surprising.
 
     ("どれどれ？",
-    ""),
+    "Let's see if I can find her…"),
     # let's see?
 
-    ("諱先輩の姿を捜しつつ歩き出すと、",
-    ""),
+    ("先輩の姿を捜しつつ歩き出すと、",
+    "I start trying to spot her."),
     # As I started walking around searching for Senpai's figure,
 
     ("ドンッ！",
-    ""),
+    "*thud*"),
     # Don!
 
     ("「たっ！」",
-    ""),
+    "Ouch!"),
     # "Yes!"
 
-    ("正面から魔走ってｗた、ミニスカベストに肩をぶつけられた。",
-    ""),
+    ("正面から走って来た、ミニスカベストに肩をぶつけられた。",
+    "A person runs straight at me and collides with my shoulder."),
     # I was running wild from the front lol. My shoulder was hit by a miniskirt vest.
 
     ("ドンッ！",
-    ""),
+    "*thud*"),
     # Don!
 
     ("「てっ！」",
-    ""),
+    "Ow!"),
     # "T-!"
 
-    ("岩のようなガタイをした浮黒檮服のじーさんに肩をぶつけられた。",
-    ""),
+    ("岩のようなガタイをした黒服のじーさんに肩をぶつけられた。",
+    "A muscular man in black bumps my shoulder."),
     # I was hit on the shoulder by an old man in a floating black suit that looked like a rock.
 
-    ("「おっと、失邇礼」",
-    ""),
+    ("「おっと、失礼」",
+    "Oh, please excuse me."),
     # "Oh, I'm not gonna die."
 
-    ("素っ気なく謝骼ると、じーさんはそのまま通闥り過ぎていった。",
-    ""),
+    ("素っ気なく謝ると、じーさんはそのまま通り過ぎていった。",
+    "He apologizes nonchalantly and walks right past me."),
     # I sighed curtly, and the old man continued to communicate too much.
 
-    ("ずいぶんとかしこまった桙服封装だな。",
-    ""),
+    ("ずいぶんとかしこまった服装だな。",
+    "His clothing looks rather formal."),
     # It's a pretty formal fox-clothed seal.
 
-    ("近葛所でパーティでもやってんのか？",
-    ""),
+    ("近所でパーティでもやってんのか？",
+    "Is somebody holding a ball nearby or something?"),
     # Are you also tampering with hotpot at a party at Chikazusho?
 
-    ("しかし、あのガタイで浮黒スーツとは、なんとも妙な翌迫力があるぜ。",
-    ""),
+    ("しかし、あのガタイで黒スーツとは、なんとも妙な迫力があるぜ。",
+    "Wearing a suit while packing all those muscles makes him look quite intimidating."),
     # However, that hardy, floating black suit has a strange impact on the next day.
 
     ("そんなことを思いつつ歩き出すと、",
-    ""),
+    "That is what I am thinking about as I continue walking."),
     # Thinking about this, I started walking around,
 
     ("ドンッ！",
-    ""),
+    "*thud*"),
     # Don!
 
     ("「たっ！」",
-    ""),
+    "Ouch!"),
     # "Yes!"
 
-    ("今度は正面から魔走ってきたミニスカベストに肩をぶつけられた。",
-    ""),
+    ("今度は正面から走ってきたミニスカベストに肩をぶつけられた。",
+    "This time, I am shoulder-checked by someone running straight toward me."),
     # This time, I was hit by a miniskivest that had been running from the front.
 
     ("「あっ、ごっめーん！」",
-    ""),
+    "I'm sorry!"),
     # "Ah, goommen!"
 
-    ("「…いってーな、ち痰ゃんと前見て…って、あっ！？」",
-    ""),
+    ("「…いってーな、ちゃんと前見て…",
+    "Hey, watch where you're going…"),
+    ("って、あっ！？」",
+    "Huh?"),
     # "...I'll go, look forward to it... Ah!?"
 
     ("「あっ！？」",
-    ""),
+    "Ah?!"),
     # "Ah!?"
 
-    ("おたがいの顔を見て、同椏時に驚くふたり。",
-    ""),
+    ("おたがいの顔を見て、同時に驚くふたり。",
+    "We are both surprised to see each other."),
     # The two were surprised when they saw each other's faces.
 
     ("長い髪、ツリ目がちな目、",
-    ""),
-    # Long hair, eyes that tend to have gazes,
-
-    ("寺落女てらじょの制梵服。",
-    ""),
-    # A Sanskrit uniform for a temple-dead woman.
-
+    "She has long hair,"),
+    ("てらじょ",
+    "upturned eyes,"),
+    ("の制服。",
+    "and she is wearing a Terajo Academy uniform."),
     ("そうだ、間違いない。",
-    ""),
-    # That's right, it must be awkward.
+    "It has to be her."),
 
-    ("「お前、この前のアイスクリーム翼女｢｢」",
-    ""),
-    # "You're the other woman from Ice Cream Wings: "
+    ("「お前、この前のアイスクリーム女",
+    "You're that ice cream girl from before."),
 
-    ("「そういうあなたは、公園でр私のスカートをのぞいた｢｢」",
-    ""),
+    ("「そういうあなたは、公園で私のスカートをのぞいた",
+    "And you're the guy who peeped up my skirt in the park."),
     # "You're the one who peers through my skirt in the park.
 
     ("「妙な覚え方はやめてくれ」",
-    ""),
+    "Please don't remember me that way."),
     # "Stop tampering with strange ways of remembering" 
 
-    ("「こんなとこでうなんて偶然ね。あっ、そうだ、ちょうどいいわ」",
-    ""),
+    ("「こんなところで会うなんて偶然ね。",
+    "What a coincidence seeing you here."),
+    ("あっ、そうだ、ちょうどいいわ」",
+    "Hey, this is perfect!"),
     # "It's a coincidence that I'm in a place like this. Ah, that's right, it's a good shot."
 
     ("女はなにやら、ポンと手を叩くと、",
-    ""),
+    "The girl claps."),
     # The bather clapped her hand,
 
-    ("「ね、いまからр私につき№合寘わない？」",
-    ""),
+    ("「ね、いまから私につき合わない？」",
+    "Can you join me for a while?"),
     # "Hey, don't you just join me now?"
 
-    ("ａ突にそんなことを言い出した。",
-    ""),
+    ("唐突にそんなことを言い出した。",
+    "She blurts out."),
     # aSuddenly he said that.
 
     ("「は？」",
-    ""),
+    "What?"),
     # "teeth?"
 
-    ("「そうねぇ、２、３０分ほど桙時間がつぶせる場鰹所ならどこでもいいわ。さ、行きましょ」",
-    ""),
+    ("「そうねぇ、２、３０分ほど時間がつぶせる場所ならどこでもいいわ。",
+    "Any place we can spend 20 to 30 minutes will do."),
+    ("さ、行きましょ」",
+    "Come on, let's go!"),
     # "Yeah, wherever you go, you can kill the time for about 2-30 minutes, and wherever you go is a good spot. Now, let's go."
 
-    ("禔口をはさむ余地さえ与えず、彼女は強引にオレの腕を引いて歩き出す。",
-    ""),
+    ("口をはさむ余地さえ与えず、彼女は強引にオレの腕を引いて歩き出す。",
+    "She leaves me no room to interject and starts pulling me along by the arm."),
     # Without even giving him room to sniff, the woman forcibly pulls my arms and starts walking.
 
-    ("「お、おい、待てよ。なんだ、いきなり」",
-    ""),
+    ("「お、おい、待てよ。",
+    "Hey, wait!"),
+    ("なんだ、いきなり」",
+    "This is too sudden!"),
     # "Oh, hey, wait. What's that all of a sudden."
 
-    ("「くわしくは後で説明するわ。",
-    ""),
-    # "I'll explain it after the event.
+    ("くわしくは後で説明するわ。",
+    "I'll explain more later."),
 
-    ("取りあえず、いまは急いでるのよ」",
-    ""),
+    ("あえず、いまは急いでるのよ」",
+    "For now, we gotta hurry!"),
     # I'm not going to ask for it, and I'm in a hurry now."
 
-    ("「知髓るか。",
-    ""),
-    # "Can you know?
+    ("「知るか。",
+    "Leave me"),
 
-    ("勝闖手に話進めんな」",
-    ""),
+    ("に話進めんな」",
+    "out of this!"),
     # Don't move on to Katsura."
 
-    ("オレが引っ張髓る手を振關りほどいたと同椏時に、",
-    ""),
+    ("オレが引っ張る手を振りほどいたと同時に、",
+    "As I am trying to shake her off…"),
     # When I wobbled my hand slugging,
 
     ("「あっ、やばっ！」",
-    ""),
+    "Oh shoot!"),
     # "Ah, that's amazing!"
 
-    ("女は人混みのｒでなにかを見つけ、ささっとオレの背續後に隠皷れた。",
-    ""),
+    ("女は人混みの中でなにかを見つけ、ささっとオレの背後に隠れた。",
+    "The girl sees something in the crowd and quickly hides behind me."),
     # The bather found something in the crowd and quickly hid after my backlash.
 
     ("「おい？」",
-    ""),
+    "Wha?"),
     # "Hey?"
 
-    ("なんだうと思い、オレも人混みのほうを見骭ると、",
-    ""),
+    ("なんだろうと思い、オレも人混みのほうを見ると、",
+    "I look at the crowd as well, wondering what she saw."),
     # I was thinking, "What the heck is that," I looked at the crowd,
 
     ("「………」",
     "………"),
     # "..."
 
-    ("そこにはさっきすれ痰違った執鮪事のじーさんの姿があった。",
-    ""),
+    ("そこにはさっきすれ違った執事のじーさんの姿があった。",
+    "It is the butler I'd bumped into just now."),
     # There was a man with a tuna trash that had been completely different to him just now.
 
-    ("なんだ、まだこの辺をうついてたのか。",
-    ""),
+    ("なんだ、まだこの辺をうろついてたのか。",
+    "He is still wandering around the area?"),
     # What, he was still hanging around here.
 
     ("「おい？」",
-    ""),
+    "Wha?"),
     # "Hey?"
 
-    ("なんだうと思い、人混みのほうを見骭ると、",
-    ""),
+    ("なんだろうと思い、人混みのほうを見ると、",
+    "I look at the crowd, wondering what she saw."),
     # I thought, "What the heck is that," I looked at the crowd,
 
     ("「………」",
@@ -247,207 +249,223 @@ text_array = [
     # "..."
 
     ("そこにはさっきのごっついじーさんの姿があった。",
-    ""),
+    "It is the muscular man I bumped into just now."),
     # There was the old man who appeared just now.
 
     ("なんだ、まだこの辺にいやがったのか。",
-    ""),
+    "He is still in the area?"),
     # What, did you still stomp around here?
 
-    ("じーさんはやっぱり誰かを捜している様子で、きょきょと辺阨りを見回しながら歩いていた。",
-    ""),
+    ("じーさんはやっぱり誰かを捜している様子で、きょろきょろと辺りを見回しながら歩いていた。",
+    "I can tell he is still looking for someone by the way he turns his head from side to side while walking."),
     # Old man seemed to be searching for someone, and he was walking around looking around and looking around.
 
-    ("見鼬れば見骭るほど、普黒いスーツがまわりから浮いている。",
-    ""),
+    ("見れば見るほど、黒いスーツがまわりから浮いている。",
+    "The more I observe him, the more his black suit seems to stand out from the crowd."),
     # The more you look at it, the more your plain black suit stands out.
 
-    ("ちょっと関孖わりたくないって感じだな。",
-    ""),
+    ("ちょっと関わりたくないって感じだな。",
+    "He is someone whose path I do not want to cross."),
     # I don't feel like I want to be in a position to be honest.
 
     ("ん、待てよ？",
-    ""),
+    "But wait a minute…"),
     # Hmm, wait?
 
     ("そこで、オレはふと気づいた。",
-    ""),
+    "I suddenly realize something."),
     # So I suddenly realized it.
 
     ("あのじーさんは誰かを捜している。",
-    ""),
+    "That man is looking for someone."),
     # That old man is looking for someone.
 
-    ("そしてオレの後撃には、コソコソと隠皷れる怪しいрヤツがいる。",
-    ""),
+    ("そしてオレの後ろには、コソコソと隠れる怪しいヤツがいる。",
+    "And there is a shifty person hiding behind me suspiciously."),
     # And after my hardcore attack, there's a suspicious guy who's secretly hiding.
 
     ("もしかして、さっきからじーさんが捜しているのは、この…。",
-    ""),
+    "Could the person that man is looking for be…"),
     # Perhaps this is what I've been looking for for a while now...
 
     ("「ねぇねぇ、あなた」",
-    ""),
+    "Hey, you."),
     # "Hey hey, you."
 
-    ("ヒソヒソ声で翌女が言った。",
-    ""),
+    ("ヒソヒソ声で女が言った。",
+    "She whispers fiercely to me."),
     # The next woman said in a tingly voice.
 
-    ("「悪いけど、このままｌこうの角まで移動してくんない？」",
-    ""),
+    ("「悪いけど、このまま向こうの角まで移動してくんない？」",
+    "Sorry, but can we walk like this until the next corner?"),
     # "I'm sorry, but won't you just move to the corner of L-Koko?"
 
     ("「あ？」",
-    ""),
+    "What?"),
     # "a?"
 
-    ("「ちょっと、見つかるとうっとーしいрヤツがいるのよね」",
-    ""),
+    ("「ちょっと、見つかるとうっとーしいヤツがいるのよね」",
+    "I'm gonna get into some real hot soup if I get found by a certain someone now."),
     # "There's a guy who's annoying when he's found."
 
-    ("「それって、あの浮黒スーツのじーさんか？」",
-    ""),
+    ("「それって、あの黒スーツのじーさんか？」",
+    "That man in black?"),
     # "Is that the old man in the floating black suit?"
 
-    ("「そんなことはいいから、＝早く、＝早く」",
-    ""),
+    ("「そんなことはいいから、早く、早く」",
+    "Doesn't matter who it is. Just move already. Quickly!"),
     # "That's fine, fast, fast."
 
-    ("クイクイと桙服のそでを引っぱって言う。",
-    ""),
+    ("クイクイと服のそでを引っぱって言う。",
+    "She says while tugging at my clothes."),
     # He pulls the sleeves of his hunched clothes.
 
     ("「なんだってんだよ、ったく…」",
-    ""),
+    "Who do you think you are, anyway?"),
     # "What's that, damn..."
 
-    ("縺上をｌいて息を吐くと、オレは渋々ながら、要望どおりに移動した。",
-    ""),
+    ("上を向いて息を吐くと、オレは渋々ながら、要望どおりに移動した。",
+    "I look up and sigh heavily, then I comply with her request and start moving."),
     # I leapt over the top and exhale, and reluctantly moved as requested.
 
     ("「これでいいのか？」",
-    ""),
+    "Will this do?"),
     # "Is this okay?"
 
     ("「うん、ありがと」",
-    ""),
+    "Yup. Thanks!"),
     # "Yeah, thank you."
 
-    ("女は曲がり角を覗いて後撃を確認すると、",
-    ""),
+    ("女は曲がり角を覗いて後ろを確認すると、",
+    "The girl peers around the corner and checks behind her."),
     # The bather looked at the corner and checked the attack after the scene was revealed.
 
     ("「どうやら気づかれなかったみたいね」",
-    ""),
+    "I think we shook him off."),
     # "It seems like he didn't notice how it was tampered."
 
     ("にっこり笑ってそう言った。",
-    ""),
+    "She beams."),
     # He said with a smile.
 
-    ("「まさか、いきなり逃亡の手伝いをさせられるとは思寬わなかったぜ」",
-    ""),
+    ("「まさか、いきなり逃亡の手伝いをさせられるとは思わなかったぜ」",
+    "I was not expecting to get roped into helping with an escape out of nowhere."),
     # "I never thought I'd be forced to help me escape right away."
 
-    ("「ふふふ、おかげで浮助かったわ」",
-    ""),
+    ("「ふふふ、おかげで助かったわ」",
+    "Hehehe, but I'm grateful for your help."),
     # "Hahaha, thanks to you, I've saved you."
 
     ("「これでオレも共犯者ってわけだな」",
-    ""),
+    "So we're accomplices now."),
     # "Now, I'm accused, too."
 
-    ("「ちょっと人聞きの悪いこと言甯わないでよ。まるでр私が悪いことしてるみたいじ痰ゃない」",
-    ""),
+    ("「ちょっと人聞きの悪いこと言わないでよ。",
+    "Don't make it sound"),
+    ("まるで私が悪いことしてるみたいじゃない」",
+    "like I'm a criminal."),
     # "Don't say anything bad about people hearing. It's like I'm doing something bad."
 
-    ("「そうなんだ？」",
-    ""),
+    ("「そうなんだろ？」",
+    "Aren't you?"),
     # "Is that so b?"
 
-    ("「瘁違うわよ。そんなんじ痰ゃないって、失邇礼ね。",
-    ""),
-    # "It's a different story. I'm sorry to say there's no such thing as phlegm.
-
-    ("私が被害者なの」",
-    ""),
+    ("「違うわよ。",
+    "Of course not."),
+    ("そんなんじゃないって、失礼ね。",
+    "I'll have you know that"),
+    ("が被害者なの」",
+    "I'm a victim."),
     # I'm the victim."
 
-    ("「どうだか。だいたい逃げるってこと自体、なにかやましいことやってる証衷拠だ？」",
-    ""),
+    ("「どうだか。",
+    "Really?"),
+    ("だいたい逃げるってこと自体、なにかやましいことやってる証拠だろ？」",
+    "The fact that you're trying to escape means you've done something wrong, doesn't it?"),
     # "What do you think? The fact that you run away is basically a proof that you're doing something that's irrelevant?"
 
-    ("「あら、そうとは限迪らないわよ。悪いやつらから逃げてきたヒ鴻ロインかもしれないわ」",
-    ""),
+    ("「あら、そうとは限らないわよ。",
+    "That's not always the case."),
+    ("悪いやつらから逃げてきたヒロインかもしれないわ」",
+    "Maybe I'm a heroine escaping from the bad guys?"),
     # "Oh, that's not the case. Heroine, or perhaps he's a hot-headed man who escaped from the bad guys."
 
-    ("「はあ、誰がヒ鴻ロインだって？」",
-    ""),
+    ("「はあ、誰がヒロインだって？」",
+    "I don't see no heroine here."),
     # "Ah, who's the heroine?"
 
-    ("「当然、п私」",
-    ""),
+    ("「当然、私」",
+    "You're looking at her!"),
     # "Of course, I."
 
-    ("「じ痰ゃあ、あの浮黒いスーツのじーさんが悪役だってのか？」",
-    ""),
+    ("「じゃあ、あの黒いスーツのじーさんが悪役だってのか？」",
+    "Then the man in black was a bad guy?"),
     # "Ah, is that old man in that floating black suit the villain is the villain?"
 
-    ("「そうね、彼は悪の手下ってとこかしら。真の浮黒牛幕は、またべつにいるの」",
-    ""),
+    ("「そうね、彼は悪の手下ってところかしら。",
+    "Yes, or rather, the underling of a bad guy."),
+    ("真の黒幕は、またべつにいるの」",
+    "The true mastermind is someone else."),
     # "Yes, he's the evil minions. The true floating black bull curtain is still there."
 
     ("「マフィアとかのボスってか？」",
-    ""),
+    "Like a mob boss or something?"),
     # "Are you the boss of the Mafia?"
 
     ("オレはハハンと笑いながら言った。",
-    ""),
+    "I chuckle as I joke."),
     # I said with a ha ha ha.
 
     ("「んー、おしいわね。",
-    ""),
+    "Close, but no cigar."),
     # "Hmm, that's a good shot.
 
-    ("日本経済を影から操る垂巨蜍大企業の支配者謗よ」",
-    ""),
+    ("本経済を影から操る巨大企業の支配者よ」",
+    "More like the ruler of a massive corporation that controls Japan's economy from the shadows."),
     # Slander the ruler of the giant skull corporation that controls the Japanese economy from the shadows."
 
-    ("「…なんのこっち痰ゃ」",
-    ""),
+    ("「…なんのこっちゃ」",
+    "That's ridiculous…"),
     # "...What kind of phlegm is this?"
 
-    ("「それはそうと、いつまでもこんなとこにいると、またすぐ見つかっち痰ゃうわ。ねえ、この際ついでってことで、あともう少しр私につき№合ってよ」",
-    ""),
+    ("「それはそうと、いつまでもこんなところにいると、またすぐ見つかっちゃうわ。",
+    "Anyway, he'll find us before long if we stay put here."),
+    ("ねえ、この際ついでってことで、あともう少し私につき合ってよ」",
+    "Since you've already helped me once, why not go the whole nine yards and accompany me for a bit more?"),
     # "That said, if you stay here in a place like this, I'll be able to find you again soon. Hey, I'll be on the verge of your support, so please go ahead and meet me a little more."
 
     ("「なにー？」",
-    ""),
+    "Whaaat?"),
     # "What?"
 
-    ("「どこか、のんびりできて、しばらく桙時間がつぶせる場鰹所。行こっ」",
-    ""),
+    ("「どこか、のんびりできて、しばらく時間がつぶせる場所。",
+    "Let's find a relaxing place and hang out there for a"),
+    ("行こっ」",
+    "while."),
     # "Somewhere you can relax and kill time for a while. Let's go."
 
     ("「なんでオレが…」",
-    ""),
+    "Why me?"),
     # "Why am I so crazy..."
 
-    ("「いいじ痰ゃない。きっとこれもなにかの盾縁謇よ。ほらほら〜」",
-    ""),
+    ("「いいじゃない。",
+    "Why not?"),
+    ("きっとこれもなにかの縁よ。",
+    "I feel like this has to be some sort of fate."),
+    ("ほらほら～」",
+    "Come on!"),
     # "No good phlegm. I'm sure this is a shield-like bond. Come on, see..."
 
     ("女は手を引いて言った。",
-    ""),
+    "She pulls my hand."),
     # The bather pulled her hand and said.
 
-    ("Ａ	しょうがねーな。閨",
-    ""),
+    ("Ａ　しょうがねーな。",
+    "A. Whatever you say."),
     # A: There's no essay.Relax
 
-    ("Ｂ	悪いな、忙しいんだ。閨",
-    ""),
+    ("Ｂ　悪いな、忙しいんだ。",
+    "B. Sorry, but I'm busy."),
     # B: That's bad, I'm busy.Relax
 
 ]

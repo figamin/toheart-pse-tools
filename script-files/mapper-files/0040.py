@@ -6,12 +6,12 @@ text_array = [
     ""),
     # 3/16 (Step Day)
 
-    ("明坙日はテスト３冾日目だ。",
-    ""),
+    ("明日はテスト３日目だ。",
+    "Tomorrow is the third day of exams."),
     # Ming Shun Day is the third day of the test.
 
-    ("化学を重点的に怩復習しよう。◯",
-    ""),
+    ("化学を重点的に復習しよう。",
+    "I decide to focus on reviewing Chemistry."),
     # Let's focus on chemistry.◯
 
 ]
