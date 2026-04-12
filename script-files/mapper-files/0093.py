@@ -7,59 +7,63 @@ text_array = [
     # (4th day of the final test for the sedative maki test) (Something is pretty good)
 
     ("「まあまあ、ってとこだな」",
-    ""),
+    "Not bad."),
     # "Okay, that's it."
 
-    ("「そり痰ゃ、諱よかったわね」",
-    ""),
+    ("「そりゃ、よかったわね」",
+    "That's nice."),
     # "You're so phlegm, that's a good thing."
 
-    ("なんか不機刹嫌な顔の志保。",
-    ""),
+    ("なんか不機嫌な顔の志保。",
+    "Shiho looks kind of irked."),
     # Shiho has a rather unfortunate look on his face.
 
     ("「なんだよ、ひがみか？」",
-    ""),
+    "What? Does that make you feel like a loser?"),
     # "What is it, is it a sinner?"
 
-    ("「うっさいわねぇ。あんただけ優剽等生ぶってり痰ゃいいのよっ！」",
-    ""),
+    ("「うっさいわねぇ。",
+    "Shut up,"),
+    ("あんただけ優等生ぶってりゃいいのよっ！」",
+    "go pretend like you're an honor student! See if I care!"),
     # "That's annoying. You should just shave your phlegm!"
 
-    ("「やっぱ、ひがんでんじ痰ゃねーかよ」",
-    ""),
+    ("「やっぱ、ひがんでんじゃねーかよ」",
+    "Yeah, sounds like I was right."),
     # "After all, you have to have phlegms with a carrot after all."
 
-    ("「どーせ、あたしは、ひとり寂しくマル諠よりペケが多い嘯答案にр埋燒もれるのよ」",
-    ""),
+    ("「どーせ、あたしは、ひとり寂しくマルよりペケが多い答案に埋もれるのよ」",
+    "I'm gonna be the only one who gets more questions wrong than right."),
     # "What, I'm alone, so lonely, I'm buried in the answer sheet that has more pikes than the one I'm crying."
 
-    ("「あっそ。ご愁搶傷様」",
-    ""),
+    ("「あっそ。",
+    "Yeah?"),
+    ("ご愁傷様」",
+    "My condolences."),
     # "Oh, sorry. I'm sorry."
 
-    ("「だけは、あたしにつき№合ってくれると思ったのに…」",
-    ""),
+    ("だけは、あたしにつき合ってくれると思ったのに…」",
+    "I thought I could at least count on you to keep me company at the bottom."),
     # "I thought it would suit me a certain number..."
 
-    ("「ははは、＝普段はつき№合いのいいオレでも、さすがにそこまではなあ」",
-    ""),
+    ("「ははは、普段はつき合いのいいオレでも、さすがにそこまではなあ」",
+    "Hahaha, I'm pretty good at keeping people company, but not like that."),
     # "Hahaha = I usually have a good fit, so I'm a hot guy, but it's definitely not that good."
 
-    ("「どーせ、あたしは、みんなと痰違って馬鹿ですよー」",
-    ""),
+    ("「どーせ、あたしは、みんなと違って馬鹿ですよー」",
+    "I'm just dumber than everyone!"),
     # "What, I'm an idiot, different from everyone else."
 
     ("あら。",
-    ""),
+    "Oh…"),
     # fault.
 
     ("志保はイジケて帰ってしまった。",
-    ""),
+    "Shiho shrinks away and leaves the room."),
     # Shiho went home after being bullied.
 
-    ("しかし、やっぱりマル諠よりペケが多い嘯答案にはр埋燒もれたくないぜ。◯",
-    ""),
+    ("しかし、やっぱりマルよりペケが多い答案には埋もれたくないぜ。",
+    "No one wants to get more questions wrong than right."),
     # However, I don't want to be buried in the answer sheet, which has more pikes than the ones I'm crying.◯
 
 ]

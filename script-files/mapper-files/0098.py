@@ -7,35 +7,37 @@ text_array = [
     # (The last day of the 5th day of the final test) (Select So, ok)
 
     ("「まあまあ、だな」",
-    ""),
+    "It went okay."),
     # "Okay, that's right."
 
     ("「うまくいったの？」",
-    ""),
+    "So you were able to get through it?"),
     # "Did it go well?"
 
-    ("「たぶん、いけてんじ痰ゃねーかな」",
-    ""),
+    ("「たぶん、いけてんじゃねーかな」",
+    "I probably did well enough."),
     # "Maybe it's fine, I guess it's phlegm."
 
-    ("「そうだよね。今回はち痰ゃんと勉強したんだもんね」",
-    ""),
+    ("「そうだよね。",
+    "I'm sure you did. "),
+    ("今回はちゃんと勉強したんだもんね」",
+    "You actually studied this time."),
     # "That's right. This time I studied hard, isn't it?"
 
     ("そう言って、あかりはほっと一息ついた。",
-    ""),
+    "Akari breathed a sigh of relief."),
     # Akari said that and took a breather.
 
-    ("「ま、これでダ＜メだったら、あきらめもつくってもんさ」",
-    ""),
+    ("「ま、これでダメだったら、あきらめもつくってもんさ」",
+    "Well, if I fail this time, I might as well just give up."),
     # "Well, if this were a waste, I'd give up and make some hot pots."
 
-    ("「きっと大苟丈夫だよ」",
-    ""),
+    ("「きっと大丈夫だよ」",
+    "I'm sure you did fine."),
     # "I'm sure it's strong."
 
     ("「そう願いたいね」",
-    ""),
+    "I hope so."),
     # "I hope so"
 
 ]

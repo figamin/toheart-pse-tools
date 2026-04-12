@@ -6,56 +6,59 @@ text_array = [
     ""),
     # (April 23rd Day, morning) (My room, My name is Ming)
 
-    ("４月２３冾日、＄曜坥日。",
-    ""),
-    # Fourth day of the 23rd day of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the
+    ("４月２３日、水曜日。",
+    "Wednesday, April 23rd."),
 
-    ("当然、今厓日燗も朝はｗ磯翌驕B",
-    ""),
+    ("当然、今日も朝は来る。",
+    "Morning has, of course, come again."),
     # Of course, the morning is now available lol Iso next day
 
-    ("ふぁ〜あ、ねむ…。",
-    ""),
+    ("ふぁ～あ、ねむ…。",
+    "*yaaawn* I'm tired."),
     # Ah, sleep...
 
-    ("それじ痰ゃ、今厓日燗も一勛日勉学に勤しみますか。",
-    ""),
+    ("それじゃ、今日も一日勉学に勤しみますか。",
+    "Well, time for another day of learning."),
     # That's all, will you be studying for a little while now?
 
     ("行ってきまーす。",
-    ""),
+    "I'm heading out!"),
     # I'm going.
 
-    ("誰熬もいない家にそう言い残し、オレは玄関を出た。",
-    ""),
+    ("誰もいない家にそう言い残し、オレは玄関を出た。",
+    "I inform the empty living room that I'm leaving, then exit the door."),
     # I left the door after leaving this in a house where no one had ever been found.
 
-    ("「おはよう、ち痰ゃん」",
-    ""),
+    ("「おはよう、",
+    "Good morning,"),
+    ("ちゃん」",
+    "Yuki."),
     # "Good morning, sputum."
 
-    ("′こうの道から駆けてきたあかりが言った。",
-    ""),
+    ("向こうの道から駆けてきたあかりが言った。",
+    "Akari runs over from across the street."),
     # 'Akari, who was coming from the path of the world, said.
 
     ("「おーっす…」",
-    ""),
+    "Hey…"),
     # "Oh..." 
 
     ("「…なんだか、眠そうだね」",
-    ""),
+    "You seem tired."),
     # "...I feel sleepy somehow."
 
-    ("「眠いよ。…ふああ〜」",
-    ""),
+    ("「眠いよ。",
+    "I am tired… "),
+    ("…ふああ～」",
+    "*yaaaawn*"),
     # "I'm sleepy.... ahhhh."
 
     ("「ふふふ、おっきなあくび」",
-    ""),
+    "Haha, that's a big yawn."),
     # "Hehehe, big yawn."
 
-    ("あかりは顔をほこばせた。",
-    ""),
+    ("あかりは顔をほころばせた。",
+    "Akari grins."),
     # Akari let her face go.
 
 ]

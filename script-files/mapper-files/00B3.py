@@ -6,36 +6,35 @@ text_array = [
     ""),
     # (April 12th day of the month) (morning) (morning my room)
 
-    ("４月１２冾日、土曜坥日。",
-    ""),
-    # The 12th day of the 4th day of the 12th day of the 4th month of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 12th day of the 1
+    ("４月１２日、土曜日。",
+    "Saturday, April 12th."),
 
     ("もう朝か。",
-    ""),
+    "It's morning already?"),
     # It's already morning.
 
-    ("諱よく寝たはずなのに、全然寝たような気がしない。",
-    ""),
+    ("よく寝たはずなのに、全然寝たような気がしない。",
+    "I should've slept well, but it doesn't feel like I slept at all."),
     # I should have slept well, but I don't feel like I've slept at all.
 
     ("ビタミン不足かな？",
-    ""),
+    "Maybe I have a vitamin deficiency."),
     # Is it a vitamin deficiency?
 
-    ("「ち痰ゃん、眠そう」",
-    ""),
+    ("ちゃん、眠そう」",
+    "Yuki, you look tired."),
     # "She's so sleepy."
 
-    ("「ねみー諱よ」",
-    ""),
+    ("「ねみーよ」",
+    "I am tired."),
     # "Sleep, my name."
 
-    ("「授業拠、潤居眠りはダ＜メだよ」",
-    ""),
+    ("「授業中、居眠りはダメだよ」",
+    "No napping during class."),
     # "Lecture, the lesson is a slumbering position."
 
     ("「はいはい」",
-    ""),
+    "Yeah, yeah."),
     # "Yes, yes" 
 
 ]

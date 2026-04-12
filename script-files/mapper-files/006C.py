@@ -6,12 +6,12 @@ text_array = [
     ""),
     # 4/29 (Tue) Green Green Day Scent
 
-    ("４月２９冾日が終尞わる。",
-    ""),
+    ("４月２９日が終わる。",
+    "April 29th is over."),
     # The April 29th day of Shizuki is over.
 
-    ("艨ゆっくりと、意識が遠くなる…。◯",
-    ""),
+    ("ゆっくりと、意識が遠くなる…。",
+    "I slowly drift off to sleep."),
     # Slowly, my consciousness began to fade away...◯
 
 ]

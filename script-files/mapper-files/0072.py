@@ -1,6 +1,6 @@
 # Generated array of Japanese text with English comments
 # Source file: 0072.txt
-
+# TODO: NOT IN REMAKE SCRIPT
 text_array = [
     ("「ふごおおぉぉーーーーーーーーーっ！」",
     ""),
