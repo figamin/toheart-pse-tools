@@ -7,99 +7,103 @@ text_array = [
     # (3rd 23rd Day of the Year, Noon) (Go to the arcade) (In front of the arcade) 
 
     ("ゲーセンへとやってきた。",
-    ""),
+    "I go to the arcade."),
     # I've come to the arcade.
 
     ("しょうがない。",
-    ""),
+    "Oh well."),
     # There's no slut.
 
     ("ここで暇をつぶすか。",
-    ""),
+    "I guess I'll kill some time here."),
     # Shall we kill some time here?
 
-    ("へ入うとしたとき、",
-    ""),
+    ("中へ入ろうとしたとき、",
+    "I'm about to walk in when…"),
     # When I was about to enter Tang,
 
-    ("「Ｈ撃ｌ撃ｌ盾ｏ	ｔ窒ｒ？」",
-    ""),
+    ("「Ｈｅｌｌｏ　ｔｈｅｒｅ？」",
+    "Hello there!"),
     # "Hb Shot l Shot l Shield O Tbb Nitrob?"
 
-    ("突然、英皷語で呼びかけられた。",
-    ""),
+    ("突然、英語で呼びかけられた。",
+    "Someone suddenly calls out to me."),
     # Suddenly, he was called out in English.
 
-    ("「Ｈ奄！	」",
-    ""),
+    ("「Ｈｉ！",
+    "Hi, Hiroyuki!"),
     # "Hi Amai!"
 
     ("レミィだ。",
-    ""),
+    "It's Lemmy."),
     # It's Karemy.
 
-    ("「こんなとこでうなんて、珍しいな」",
-    ""),
+    ("「こんなところで会うなんて、珍しいな」",
+    "Hey, I don't think I've seen you here before."),
     # "It's rare to say this in b."
 
     ("「めずらしーデス」",
-    ""),
+    "That's because you have not."),
     # "Messy Death"
 
-    ("「遊びにｗてんのか？」",
-    ""),
+    ("「遊びに来てんのか？」",
+    "Here to play some video games?"),
     # "You're going to play lol?"
 
-    ("「ＹＥＳ。今厓日はすることがなくて退窓なの。",
-    ""),
-    # "YES. There's nothing to do on the day right now, so it's a retreat window.
-
-    ("も退窓？」",
-    ""),
+    ("「ＹＥＳ。",
+    "Yep, "),
+    ("今日はすることがなくて退屈なの。",
+    "I don't have anything to do today, so I was bored outta my gourd."),
+    ("退屈？」",
+    "You too?"),
     # Is it also a retreat window?”
 
     ("「ああ、死にそーなくらいな」",
-    ""),
+    "Yeah, fatally bored."),
     # "Ah, I'm almost dead"
 
-    ("「じ痰ゃあ、、いっしょに遊ぼ」",
-    ""),
+    ("「じゃあ、",
+    "Then let's"),
+    ("、いっしょに遊ぼ」",
+    "hang out together!"),
     # "Ah, I'll play with you all."
 
-    ("「いいぜ。退窓人同士な」",
-    ""),
+    ("「いいぜ。」",
+    "Sure, "),
+    ("退屈人同士な」",
+    "as fellow bored individuals."),
     # "That's fine. They're both retreating windowmen."
 
-    ("「Ｉ’香ｍ	〟ｇ撃ｌ≠ａрｄ！」",
-    ""),
+    ("「Ｉ’ｍ　ｇｌａｄ！」",
+    "Righteous!"),
     # "I'Kam" G-Ekil≠aрd!”
 
     ("「なにする？」",
-    ""),
+    "What do you want to do?"),
     # "What are you going to do?"
 
-    ("「、このあたり、くわしい？」",
-    ""),
+    ("、このあたり、くわしい？」",
+    "Do you know this area well?"),
     # "Are you grossing around here?"
 
     ("「まあ、地元だしな」",
-    ""),
+    "Well, I do live around here."),
     # "Well, it's local."
 
-    ("「じ痰ゃあ、いい案煦内して」",
-    ""),
+    ("「じゃあ、いろいろ案内して」",
+    "Then show me around."),
     # "You're so phlegm, you're so blonde, don't you think?"
 
     ("「オッケー」",
-    ""),
+    "Sure thing."),
     # "Okay" 
 
-    ("その冾日は、レミィと話を楽しみながら、いんな場鰹所へ行った。",
-    ""),
+    ("その日は、レミィと会話を楽しみながら、いろんな場所へ行った。",
+    "I spend the day chatting with Lemmy and visiting a few places."),
     # On that day, I went to the bonito spot, enjoying the i-talk with Karenmi.
 
-    ("ほとんど歩くだけで金も使寬わなかったし、安繹上がりで浮助かった。◯",
-    ""),
+    ("ほとんど歩くだけで金も使わなかったし、安上がりで助かった。",
+    "Just walking around doesn't cost me anything, thankfully."),
     # I barely used the hot water and didn't use the hot water, so I was able to float by the altar.◯
 
 ]

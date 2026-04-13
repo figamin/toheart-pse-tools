@@ -6,24 +6,24 @@ text_array = [
     ""),
     # (3rd Lion Day, 25th, Tuesday) (Spring break, first Amami day) (No supplementary lessons) (My room) 
 
-    ("今厓日は３月２５冾日。",
-    ""),
+    ("今日は３月２５日。",
+    "It's March 25th."),
     # The current day is the 25th day of the 3rd month.
 
-    ("つまり、今厓日から春休みだ。",
-    ""),
+    ("つまり、今日から春休みだ。",
+    "That means it's the start of spring break."),
     # In other words, it's spring break from the day of the year.
 
-    ("誰にもじ痰ゃまされず、艨ゆっくり寝逅られる。",
-    ""),
+    ("誰にもじゃまされず、ゆっくり寝られる。",
+    "I can sleep in, and nobody's going to come wake me up."),
     # Without anyone giving him a sigh, he sleeps slowly.
 
-    ("ああ、なんて素晴逅らしいことだう。",
-    ""),
+    ("ああ、なんて素晴らしいことだろう。",
+    "Aah, what a wonderful thing."),
     # Ah, what a wonderful encounter.
 
-    ("けど、いつもの桙時間にきっちり目が覚めてしまうとこが皮肉だな。◯",
-    ""),
+    ("けど、いつもの時間にきっちり目が覚めてしまうところが皮肉だな。",
+    "Ironically, however, I wake up at exactly the usual time."),
     # But it's ironic that when you wake up properly at the time of the hot springs, it's pretty ironic.◯
 
 ]

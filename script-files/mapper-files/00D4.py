@@ -6,24 +6,26 @@ text_array = [
     ""),
     # (April Shizuki 29th morning) Silence (A place where there is no Aoi event) Silence (A place where there is no Seri°Cho event) Silence (A place where there is no Seri°Cho event) Silence (My room) 
 
-    ("「う〜ん…」",
-    ""),
+    ("「う～ん…」",
+    "Hmmm…"),
     # "Yeah…"
 
-    ("今厓日は≠早めに目が覚めた。",
-    ""),
+    ("今日は早めに目が覚めた。",
+    "I wake up early."),
     # I woke up early on the day.
 
-    ("４月２９冾日、火曜坥日。",
-    ""),
+    ("４月２９日、火曜日。",
+    "Tuesday, April 29th."),
     # April 29th, Tuesday.
 
-    ("今厓日は祝叝日だ。",
-    ""),
+    ("今日は祝日だ。",
+    "Today is a holiday."),
     # Now is a holiday.
 
-    ("緑の冾日…だっけ。",
-    ""),
+    ("緑の日…",
+    "Showa Day…"),
+    ("だっけ。",
+    "I think?"),
     # The green day... right?
 
 ]

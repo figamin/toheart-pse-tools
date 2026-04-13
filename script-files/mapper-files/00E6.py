@@ -7,11 +7,11 @@ text_array = [
     # (April 29th Day, Morning) (Masked with Mass) (Ganbareyo) (Good luck)
 
     ("「がんばれよ」",
-    ""),
+    "Good luck."),
     # "Go for it."
 
     ("オレは言った。",
-    ""),
+    "I say."),
     # I said.
 
     ("「………」",
@@ -19,39 +19,40 @@ text_array = [
     # "..."
 
     ("少しわからない顔をしたが、雅史はすぐに、",
-    ""),
+    "He looks a little confused."),
     # He looked a little unclear, but Masochi immediately
 
     ("「うん、ありがとう」",
-    ""),
+    "Okay, thanks."),
     # "Yeah, thank you."
 
     ("うなずいてこたえた。",
-    ""),
+    "He nods."),
     # I nodded and answered.
 
-    ("「とこでさ」",
-    ""),
+    ("「ところでさ」",
+    "By the way…"),
     # "At b."
 
     ("「ん？」",
     "Hm?"),
     # "yeah?"
 
-    ("「暇だったら、久しぶりに家に遊びにｗない？",
-    ""),
-    # "If you're bored, why not come and have fun at home for the first time in a while?
+    ("「暇だったら、久しぶりに家に遊びに来ない？",
+    "Do you have time to hang out at my place? It's been a while."),
 
-    ("せっかくだから姉さんにもっていきなよ」",
-    ""),
+    ("せっかくだから姉さんにも会っていきなよ」",
+    "You can say hi to my sister."),
     # Since I'm here, I'll have to go to my sister and I'll also give her a hot pot."
 
-    ("「おう、そうだな。…んじ痰ゃあ、久しぶりにおじ痰ゃまするか」",
-    ""),
+    ("「おう、そうだな。",
+    "Alright, sounds good."),
+    ("…んじゃあ、久しぶりにおじゃまするか」",
+    "Might as well."),
     # "Oh, that's right... I'm not sure... I've had enough phlegm, it's been a while since I last saw it."
 
-    ("…っつーわけで、その冾日は史んちへ行くことになった。◯",
-    ""),
+    ("…っつーわけで、その日は雅史んちへ行くことになった。",
+    "I spend the day at Masashi's place."),
     # ...So, on that day, I decided to go to I-Shinchi.◯
 
 ]

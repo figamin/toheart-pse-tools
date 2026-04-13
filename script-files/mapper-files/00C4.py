@@ -6,40 +6,41 @@ text_array = [
     ""),
     # (Morning of May 2nd Day of the Year) (morning of my room)
 
-    ("５月２冾日、金曜坥日。",
-    ""),
-    # May 2nd day of the 2nd day of the 5th day of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the
+    ("５月２日、金曜日。",
+    "Friday, May 2nd."),
 
-    ("「う〜しっ！」",
-    ""),
+    ("「う～しっ！」",
+    "Alright!"),
     # "Uhh!"
 
-    ("今厓日、この一勛日さえ頑張れば、明坙日からはゴールデンウィークだ。",
-    ""),
+    ("今日、この一日さえ頑張れば、明日からはゴールデンウィークだ。",
+    "If I can just get through today, Golden Week starts tomorrow."),
     # If you try harder for this day, it will be Golden Week from Ming Shun Day.
 
-    ("そしてその後には修学旅行熏も待っている。",
-    ""),
+    ("そしてその後には修学旅行も待っている。",
+    "And then we have a school trip after that."),
     # And after that, there is a school trip waiting.
 
     ("そう考えると、やる気が出てくるな。",
-    ""),
+    "Thinking about that should help me get through the day."),
     # Thinking about it like that makes me feel motivated.
 
-    ("「ち痰ゃん、今厓日齠一勛日辛抱すれば、お休みだよ」",
-    ""),
+    ("ちゃん、今日一日辛抱すれば、お休みだよ」",
+    "You just have to tolerate one more day of school before the break, Yuki."),
     # "Ah, if you're patient now, you'll be off."
 
-    ("「まるでオレが、凵嫌々学校に通ってるふうに聞こえるじ痰ゃないか」",
-    ""),
+    ("「まるでオレが、嫌々学校に通ってるふうに聞こえるじゃないか」",
+    "You act like I hate going to school."),
     # "It sounds like I'm going to school reluctantly, so it's not a phlegm."
 
-    ("「瘁違うの？」",
-    ""),
+    ("「違うの？」",
+    "You don't?"),
     # "Is it not that bad?"
 
-    ("「瘁違う…とも言い切齔れないか」",
-    ""),
+    ("「違う…",
+    "Well…"),
+    ("とも言い切れないか」",
+    "I guess it would be a lie to say I don't."),
     # "Can you say that it's not right...?"
 
 ]

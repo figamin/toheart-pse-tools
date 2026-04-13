@@ -6,16 +6,16 @@ text_array = [
     ""),
     # (Morning of the 16th day of the 3rd month) (morning of my room)
 
-    ("３月１６冾日、冝日曜坥日。",
-    ""),
+    ("３月１６日、日曜日。",
+    "Sunday, March 16th."),
     # The 16th day of the 3rd month of the 1990s, Sunday Day of the 1990s.
 
-    ("せっかくの冾日曜だけど、テスト凬期間樺ってことで、いまいち嬉しくない。",
-    ""),
+    ("せっかくの日曜だけど、テスト期間中ってことで、いまいち嬉しくない。",
+    "It may only be Sunday, but with exams going on, I wasn't too happy about it."),
     # It's a Sunday, but since it's a test period, I'm not really happy.
 
-    ("昼までゆっくり寝て、頭をスッキリさせてから勉強しよう。◯",
-    ""),
+    ("昼までゆっくり寝て、頭をスッキリさせてから勉強しよう。",
+    "I'll sleep until noon so I can wake up and study feeling refreshed."),
     # Sleep well until noon, and let your head clear before studying.◯
 
 ]

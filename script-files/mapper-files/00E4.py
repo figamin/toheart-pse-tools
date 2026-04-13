@@ -6,32 +6,32 @@ text_array = [
     ""),
     # (3rd Lion Day, 25th, Tuesday) (Spring break, first Amami day) (Super lessons are included) (My room) 
 
-    ("３月２５冾日。",
-    ""),
+    ("３月２５日。",
+    "March 25th."),
     # The 25th day of the 3rd month of the 1st month.
 
-    ("春休み第齣一勛日目。",
-    ""),
+    ("春休み第一日目。",
+    "It's the first day of spring break."),
     # The first day of spring break.
 
-    ("だがしかし、このオレは不幸にも補習授業を受けに学校へ行かなくち痰ゃならない。",
-    ""),
+    ("だがしかし、このオレは不幸にも補習授業を受けに学校へ行かなくちゃならない。",
+    "Unfortunately, however, I have to go to school for supplementary classes."),
     # However, unfortunately, this guy's ecstasy also has to go to school to take supplementary lessons.
 
-    ("休み奄初叝日から気が滅俣ってくるぜ。",
-    ""),
+    ("休み初日から気が滅入ってくるぜ。",
+    "It's a depressing start to the break."),
     # My heart is starting to fade from the first day of Amashi's break.
 
-    ("ま、補習がなければ、どうせごご寝て過ごすだけの一勛日なんだうけど。",
-    ""),
+    ("ま、補習がなければ、どうせごろごろ寝て過ごすだけの一日なんだろうけど。",
+    "But if not for this, I would probably just laze around all day."),
     # Well, if there were no supplementary lessons, it would be a day when you just sleep in your bb.
 
-    ("いや、それでも、そのごご寝て過ごす一勛日のほうが価値があるような気がする。",
-    ""),
+    ("いや、それでも、そのごろごろ寝て過ごす一日のほうが価値があるような気がする。",
+    "Actually, I feel like just lazing around would be more worthwhile."),
     # I feel like the day you spend your time sleeping is more valuable.
 
-    ("結局、気が滅俣ってきた。◯",
-    ""),
+    ("結局、気が滅入ってきた。",
+    "This is just depressing."),
     # In the end, I was starting to feel exhausted.◯
 
 ]

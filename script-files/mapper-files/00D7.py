@@ -6,36 +6,16 @@ text_array = [
     ""),
     # (System Event Test Announcement 2) (After school) (Classroom 1, closed hours)
 
-    ("さっきの授業を最纃後に、テストの嘯答案用落がすべて返ってきた。",
-    ""),
+    ("さっきの授業を最後に、テストの答案用紙がすべて返ってきた。",
+    "At the end of class, we get all of our exams back."),
     # After the last lesson I had just returned all the test answers.
 
     ("これがいまのオレの成績ってわけだ。",
-    ""),
+    "So, these are my current grades."),
     # This is what my current achievements are like.
 
-    ("諱取りあえず、平均点を計算してみるか。",
-    ""),
+    ("取りあえず、平均点を計算してみるか",
+    "Let me try calculating the average score."),
     # Let's try calculating the average score without asking for your name.
-
-    ("・",
-    ""),
-    # ・
-
-    ("・",
-    ""),
-    # ・
-
-    ("・",
-    ""),
-    # ・
-
-    ("・",
-    ""),
-    # ・
-
-    ("・",
-    ""),
-    # ・
 
 ]

@@ -6,16 +6,15 @@ text_array = [
     ""),
     # (Morning of the 3rd Lion Moon, 9th Day) (morning) (my room)
 
-    ("３月９冾日、冝日曜坥日。",
-    ""),
-    # The third day of the 9th day of the 3rd month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1st month of the 1
+    ("３月９日、日曜日。",
+    "Sunday, March 9th."),
 
-    ("う〜、せっかくの休匤日だ。",
-    ""),
+    ("う～、せっかくの休日だ。",
+    "Ah, finally a day off."),
     # Hmm, it's a holiday.
 
-    ("艨ゆっくり寝させてくれ…。",
-    ""),
+    ("ゆっくり寝させてくれ…。",
+    "Just let me sleep…"),
     # Let me sleep comfortably...
 
 ]
