@@ -1,0 +1,11 @@
+（あかり　回数イベント　２Ｆ）
+（３月１０日）
+（階段）
+（あかり　普通　０１）
+「<name>ちゃん」
+"Hey."
+I run into Akari in front of the stairs.
+It looks like she's on her way home.
+What should I do?
+Ａ　いっしょに帰ろうぜ。
+B. See you later.

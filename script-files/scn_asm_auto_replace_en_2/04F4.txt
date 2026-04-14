@@ -1,0 +1,60 @@
+（志保　回数イベント　ＰＳ）
+（選択肢　声をかける）
+"Hey, if it isn't Shiho."
+「あら、<nick>じゃん」
+"Found the manga you were looking for?"
+"Hey, you're gonna make people think I only read manga."
+"Am I wrong?"
+"I swear... Looks like I'll have to explain just how much of an
+intellectual I am."
+"You really don't have to do that."
+"Like, do you know what book I'm reading here?"
+「マンガだろ？
+　水曜だから、ヤンコミか？」
+"Wrong! Are you even paying attention?"
+"Huh?"
+"What member of the intelligentsia reads manga?"
+"Are you saying nobody smart reads manga? That's pretty biased."
+"Hmmm, I guess there's some manga that smart people read."
+「けっ。
+…で、お前の言うインテリはなにを読むんだよ」
+　オレの言葉に、志保は得意そうな顔で、
+「たとえば科学誌。
+２１世紀も間近に迫ったいま、先端科学の分野では毎日のように新しい発見が相次いでいる！
+To prepare for the new century, we need to befriend science!"
+　と、ポーズ付きで演説する。
+"You had that spiel prepared already, didn't you?"
+"I suppose..."
+"So what's been discovered?"
+「べつに。
+あたしたちが知ったところで一生役に立たない発見よ」
+"Hey, all that buildup and you've got nothing?"
+"Well, digging through the pile of useless garbage to learn
+something worthwhile is my mission."
+"Sounds like quite the mission."
+"And what I've found is meteor showers."
+"Meteor showers? The hell?"
+"It's when meteors fall to the Earth like rain. Interesting, huh?"
+"Sounds like that'd be pretty wild."
+The meteors would leave my house full of holes.
+"That's what a layman might think."
+"Well, I am a layman."
+"A falling meteor is a big deal.
+"If it's just like, 'Look, a meteor...
+Zooooom, baaang!'
+then that kind of ruins the mood."
+"Okay, just stop shouting."
+Her screaming in the middle of the street is giving me second-hand
+embarrassment.
+"The meteors burn up on the way down, so couples can have a romantic
+time looking up and watching."
+"Alright, cool. So you can see a bunch of these romantic meteors
+then."
+"So you finally get it."
+"You could've just said that to begin with."
+"There's supposed to be a meteor shower next month."
+"Huh."
+"You wanna check it out, right?"
+A. Sure.
+B. Not interested.
+Ｃ　べつに。

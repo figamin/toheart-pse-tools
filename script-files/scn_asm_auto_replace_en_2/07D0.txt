@@ -1,0 +1,39 @@
+（ＶＳイベント　琴音Ｖ
+Ｓ葵）
+（葵、回数イベント４以降）
+（琴音、好感度　以上）
+（昼休み）
+（教室１　休み時間）
+　昼休み。
+"Alright, time for some grub."
+I stand up.
+Gotta rush to buy a sandwich.
+「<name>」
+Masashi walks over to me.
+"Hey. Ready to go?"
+「ごめん<name>。
+昼休みに部のミーティングがあるんだ。
+今日はそこで食べるから」
+"Oh, okay. No worries. Maybe I'll eat by myself at the cafeteria
+then."
+「ごめん、<name>」
+Masashi looks guilty as he leaves the classroom.
+Now then...
+Guess I'll head over to the cafeteria.
+I stuff my hands into my pockets and plod out the classroom.
+The sight of the cafeteria at lunch time.
+It is packed with students.
+I buy myself a lunch ticket, put the food I exchanged it for onto
+my tray, and set off to find an empty seat.
+Where should I sit?
+Oh! Empty seats located.
+I'll go there.
+"Hm?"
+And then, I notice something.
+Out of sheer coincidence, Aoi and Kotone just happen to be seated
+near the spot I find.
+　見たところ、ふたりいっしょって感じじゃないが、向かい合わせに座っている。
+Okay, I'll sit next to one of them.
+Where should I sit?
+A. Next to Kotone.
+B. Next to Aoi.

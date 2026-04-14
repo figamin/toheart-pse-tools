@@ -1,0 +1,14 @@
+（琴音　回数イベント　ＰＳ）
+（選択肢　猫が嫌い）
+"If I had to pick, I'd say that I hate cats."
+「…どうしてですか？」
+"Well, first things first—they're noisy at night, right?
+And they go around entering people's homes
+stealing food and stuff..."
+「…そうですか。
+…でも、<family>さんが思ってるほど悪い子たちじゃないですよ」
+"I mean, to each their own. I'm not here to complain to you about
+them."
+「はい…」
+Looks like I took the fun right out of that conversation.
+I should have kept that to myself.

@@ -1,0 +1,11 @@
+（琴音　好感度イベント　ＰＳ）
+（２階、帰り道回数イベントキャンセル型）
+（選択肢　別れる）
+"Heya, Kotone!"
+「あ、<family>さん。
+Hello."
+Kotone looks at me and bows.
+"Heading home?"
+「はい」
+"Yeah? I'll see you later then."
+"Okay, have a good day."

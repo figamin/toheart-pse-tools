@@ -1,0 +1,45 @@
+（システムイベント　テスト発表）
+（あかりと勉強有り）
+（Ｓ≧５の場合）
+My average score is...
+８４点。
+Oh, that's actually pretty good.
+I even surprise myself.
+Seeing all that work pay off actually makes me believe in myself.
+Well, maybe I have Akari to thank for this.
+「<name>ちゃん」
+"Hey."
+Akari walks over at the perfect moment.
+"How did you do on the exams?"
+"Yeah.
+いま、平均を出したところだ」
+"What was it?"
+　いちおう気をつかってか、少し遠慮気味に聞く。
+"Hahaha... You're gonna be shocked. 84 points."
+"Wow, really?!"
+"Yeah, look."
+I show her all my exams.
+「ほんとだ、すごい！
+　
+<name>ちゃん」
+Akari smiles, and it was as if a flower had suddenly blossomed.
+That puts me in a good mood.
+"Well, it's no big deal."
+I try to be humble.
+「やっぱり、やればできるね、<name>ちゃんは」
+"Your intuition is spot on sometimes."
+But honestly, nothing feels more important than Akari's encouraging
+smile.
+「ところで、お前はどうなんだよ？」
+I ask.
+"I..."
+Akari's shoulders suddenly slump forward.
+"What?
+　だめだったのか？」
+I peer into her eyes.
+"Just messing with you!"
+Akari grins.
+"Hehehe, I did great too!"
+She makes a peace sign.
+"That wasn't very funny. Alright, so we're both doing okay."
+"Makes sense."

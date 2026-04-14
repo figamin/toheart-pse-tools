@@ -1,0 +1,51 @@
+（マルチ　回数イベント　帰り道）
+（選択肢Ａ　ゲーセンで遊ぼうか、と誘う）
+"Then come along with me."
+「えっ？」
+「ゲーセン行こうぜ、ゲーセン。
+時間潰しに」
+"But Serio..."
+"It's right in front of us. You'll be able to spot her."
+"...Y-Yeah."
+"Alright, then let's go!"
+「はいっ」
+I take Multi to the arcade.
+She looks around wide-eyed and in awe the moment we step inside.
+"Have you been to an arcade before, Multi?"
+"No, this is my first time. It's so lively and looks like so much
+fun."
+"It sure is fun. The latest and greatest in entertainment can be
+found all under this one roof."
+"Wow..."
+Multi's eyes sparkle like a child's.
+"What's that?"
+"It's a medal game. You buy medals with money and try to increase
+the number of medals you have."
+"I see... And what's that?"
+"It's a player versus player fighting game. See how there are two
+gaming cabinets back-to-back? It's so that players can go up
+against one another."
+"I see... And what's that?"
+"It's a jet-ski game. The machine you ride on moves around."
+"And what's that?!"
+Multi is referring to the air-hockey table.
+"That's air hockey. Do you know what real-life hockey is?"
+「あ、はい、いちおうは」
+"I guess you could call it a miniature version of that. You put
+money in and then air sprays up from the table..."
+"What? Do you wanna give it a try?"
+"Yes! Um, but I don't have any money."
+"I can cover you. Go on. Stand at the other side."
+"O-Okay! Thank you!"
+We stand on each end of the table, facing each other.
+"Alright, so hold your pusher like this and hit the puck with it.
+You get points for slotting it into your opponent's goal."
+「はいっ、わかりました！」
+"Here we go then!"
+I insert two 100-yen coins into the machine.
+The puck drops out with a clunk. I pick it up and place it on the
+table.
+　さーてと、オレは──。
+A. Hit it to win!
+B. Hit it with average strength.
+C. Hit it with less power than usual.

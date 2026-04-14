@@ -1,0 +1,27 @@
+（マルチ　回数イベント　２Ｆ　ＬＶ４）
+（選択肢Ａ　記念にネコプリしようぜ）
+"Multi, let's end things by taking some nekopuri to remember our
+time together."
+I said.
+"What are 'nekopuri'?"
+"Those sticker photo things you can take. You know, the ones they
+have at arcades."
+"Those things?"
+「そうそう。
+記念にいっしょに撮ろうぜ」
+"Okay, I'd love to!"
+・
+・
+・
+"Take your printed-out stickers, meow!"
+「わあ、<name>さんとわたしがたくさん写ってますー」
+Multi grinned as she looked at the photos that the machine printed
+out.
+"Alright, now we'll just..."
+*snip, snip**
+"There. Half for me, half for you."
+I use the scissors at the booth to cut the set of stickers in half
+and hand one of them to Multi.
+Multi presses the nekopuri sticker photos to her chest dearly.
+"Thank you so much! I'll cherish these!"
+She beams.

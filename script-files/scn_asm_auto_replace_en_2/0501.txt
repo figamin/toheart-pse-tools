@@ -1,0 +1,206 @@
+（葵との出会い　イントロ２）
+（選択肢を選んだあと）
+（渡り廊下　雅史立ち）
+Lunch is important, but I'm more interested in what the girl has to
+say.
+「わりぃ、雅史。
+お前、先行ってカツサンドとウインナーロールを買っといてくれ」
+"Wait."
+"I'll pay you back later. A pork cutlet sandwich and some sausage
+rolls, got it? I'm counting on you."
+I pat Masashi on the back, then head into the crowd.
+「あ、<name>」
+The girl's passionate speech is still going on.
+"Modern martial arts competitions don't merely come down to strength.
+There are rules and strategies. It's a clash of refined and highly
+advanced techniques.
+The simple goal of defeating the opponent leads to the most complex
+of matches."
+As she talks about the appeal of martial arts, she gets more and
+more heated, almost seeming to enter her own world.
+"We throw all martial arts under one umbrella now, but there are
+actually many varieties.
+I think the major ones would be Judo, Karate, and boxing, but there
+are countless more.
+Even if we limited ourselves to Japan, we could probably categorize
+Sumo as a martial art, and there's also Aikido, and Nippon Kempo.
+There have also been many unique styles branching off from pro
+wrestling and boxing in recent years.
+And if we look internationally, there are many more martial arts.
+中国には太極拳や形意拳などの中国拳法が、韓国にはテコンドー、タイにはムエタイ、ロシアにはサンボ、ブラジルにはグレイシー柔術など、それこそマイナーなものや流派の異なるものまで含めれば、星の数ほどの格闘技が存在しています。
+　
+これほど数多くの流派が存在する格闘技界ですが、本来それらは全く別のものであり、決して同じ舞台に立つことはあり得ませんでした。
+　
+ですが──。
+A few years ago, the Vale Tudo form of martial arts in America
+founded the Ultimate Tournament, and that started to give attention
+to mixed martial arts, which removes these divisions.
+That was the start of a new era for martial arts!"
+The girl is now completely going off on her own, with none of the
+crowd following her anymore.
+One person leaves, then another.
+Eventually, I'm the only one remaining.
+"And this international craze is finally hitting Japanese high
+schools.
+まだ一般の知名度は低いようですが、昨年、企業主催の全国総合格闘技選手権ともいうべき、エクスト──」
+　エクスト──？
+What was she about to say?
+The girl stops and looks around.
+"H-Huh?!"
+"Everybody left."
+"Huh?"
+She slowly looks around again before finally sighing and hanging
+her head low in disappointment.
+"Excuse me?"
+Then, she mutters.
+「──また誰も、聞いてくれなかった…」
+"Maybe I'm just bad at recruiting people."
+The girl keeps slumping her shoulders and murmuring.
+"I'll never catch up with Ayaka at this rate."
+「………」
+「………」
+「………」
+　しばらくして──。
+「──あ、あの…。
+なにか？」
+The girl looks up.
+"I was waiting for you to keep talking."
+"Keep talking?"
+"You stopped in the middle of saying something right? Ext-something?"
+「──エクスト？
+　
+あっ、エクストリームのことですか？」
+"Yeah, that."
+「あっ、えっと、エクストリームというのはですね──」
+She's about to continue, but stops herself for some reason.
+「──あの、ひとつ聞いてもいいですか？」
+「え？」
+"Were you listening to everything I just said?"
+"Oh, well, I got here in the middle of it. I happened to be passing
+by and thought it sounded interesting."
+"Oh, you're interested?!"
+The girl instantly brightens up.
+"Do you like martial arts?!"
+"Hmmm, well, I guess you could say that."
+"Really?!"
+She opens her eyes wide.
+"I mean, I don't know much about them. I just watch wrestling and
+stuff sometimes."
+"Oh, that's plenty!"
+"What about you? Seems like you're way more into it than I am."
+The girl firmly nods.
+"Okay.
+　
+大好きですっ！」
+Her slightly tomboyish smile is pure and bright.
+"Researching different techniques and practicing them over and over
+until I've perfected them gives me a joy I can't describe in words.
+Those are the times when I'm most thankful that I practice martial
+arts."
+She gazes straight at me and leans in, emphasizing each word.
+It's kind of overwhelming.
+"So your club does actually do martial arts, right?"
+「え？」
+"Well, it's just that a martial arts club could either do or watch
+martial arts, and there's a pretty big difference between the two."
+"Oh, yes, right. This club does martial arts. We fight each other."
+"Huh..."
+　ガタイのいい男子がフラストレーションの発散場所を求めて──ってのならわかる気もするけど、こんな小柄な女の子が、ねぇ。
+It's unusual to be sure.
+"Um, I'm sorry, what's your name?"
+「ああ、オレ？
+　オレは、二年の<family><name>。
+そっちは？」
+「あっ、私は──」
+She clears her throat and stands up straight before giving an
+enthusiastic introduction.
+"Aoi Matsubara, a freshman in Class C. I'm new here."
+She bows with perfect posture.
+Girls this polite are rare nowadays.
+"Oh, right, you wanted to know about Extreme?"
+"Right."
+"Extreme is a national mixed martial arts championship that was
+first held last year."
+"A national championship?"
+「去年の試合はテレビで中継もされましたし、いまはビデオになってレンタルもしてますよ。
+ご存じないですか？」
+"No, never."
+「うーん、いちおう格闘技界では大メジャーなんですけど、一般の認知度はまだまだ低いのかもしれませんね」
+"So what kind of martial arts tournament is it?"
+「え？」
+Aoi looks puzzled.
+"I mean what style of martial arts do they fight with at Extreme?"
+"Oh, I'm sorry, that's important. I forgot to explain that part."
+Aoi clears her throat.
+"Extreme is for mixed martial arts."
+"Mixed martial arts?"
+"Yes.
+エクストリーム大会公認のルールで行われる、打撃あり、投げあり、関節技ありの総合格闘技選手権なんです」
+"Ohhh..."
+"These are the general rules."
+Each match lasts up to five minutes.
+Competitors must wear the urethane knuckles and leg guards
+which are provided by the tournament.
+A KO or TKO is a loss.
+No using your elbows or forehead.
+No striking the opponent's face with your knees.
+No striking the opponent when they're down.
+No attacking the opponent's eyes or any similar moves
+that could endanger the opponent.
+And the referee won't call any breaks
+unless one fighter has the other pinned down.
+"Keeping the danger to a minimum while calling on all varieties of
+techniques is what Extreme is about!"
+"Ooh!"
+　その瞬間、葵ちゃんの背中から燃え上がる炎が吹き上がった──
+かのように見えた。
+"So are you part of any clubs?"
+Aoi's question is abrupt.
+「え？
+　いや、べつになにも」
+I answer honestly.
+And then...
+"So that's it?"
+Aoi's face brightens even further.
+「じゃ、じゃあ、もしよろしかったら──」
+She takes a step closer.
+「このクラブに入って、私といっしょに格闘技を学びませんか！？」
+Her eyes shine.
+"M-Martial arts? Me?"
+"Yes."
+She nods.
+"I'm trying to start a new club with the goal of participating in
+Extreme.
+But I don't have enough members to get the school's approval yet.
+That's why I've been looking for people interested in martial arts!"
+"H-Hold on a sec! I've never done any real martial arts."
+「構いませんよ。
+この私でよければ基礎からお教えしますから。
+こう見えても私、小さい頃から空手の道場に通ってまして」
+"That's not the problem."
+I mutter.
+「あの、こんなに真剣に話を聞いてくれた人は、先輩が初めてで、私──」
+"I-I was just kind of curious."
+I awkwardly smile.
+"You seem really interested in martial arts yourself. It'd be great
+to have you in the club."
+Oh man...
+"I dunno, this is pretty sudden."
+「とにかく一度、遊び気分で結構ですから、練習を見学に来てください」
+Aoi's desperate.
+"We can't use a club room or the gym yet, but we practice at the
+shrine behind the school after class every day except Monday and
+Wednesday."
+"There?"
+「見学だけで結構です、お願いします！」
+Aoi bows deeply.
+Even after all this begging, though...
+I can tell she cares a lot, but there's no way I can do martial
+arts.
+And trying to take this club to a national championship sounded
+insanely ambitious.
+Everyone else in the club must be hardcore too.
+How should I respond?
+A. Well, I'll at least observe.
+B. Maybe if I feel like it.
+C. Sorry, but I can't.

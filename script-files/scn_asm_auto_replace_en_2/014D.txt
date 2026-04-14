@@ -1,0 +1,58 @@
+（あかり　好感度イベント　５．１）
+（選択肢Ｂ　あとはふたりにまかせよう）
+It's not my place to get involved here.
+I should leave it up to Akari and Yajima.
+I give in and agree to introduce Yajima to Akari.
+"Akari."
+"What?"
+「じつはさ、お前を紹介して欲しいってやつがいるんだ」
+I look away as I speak.
+"What?"
+"You know Yajima from our class, right?
+The guy on the basketball team?"
+「矢島くん？」
+"Yeah.
+その矢島がさ、お前のこと、その、好きなんだって」
+「………」
+「お前ってさ、ほら、いまんトコつき合ってるヤツもいねーし、まあ、矢島なら…
+いいヤツだろ？
+So..."
+「<name>ちゃん…」
+Akari looks upset.
+「ま、まあ、取りあえず話だけ聞いてみて、それでどうするかは自分で決めてくれ。
+じゃ、矢島のヤツを呼んでくるから──」
+「あっ、<hira>ちゃん！」
+I leave and hand things off to Yajima before she can get a word in.
+I don't feel like witnessing the passionate declaration of his
+feelings, so I go on back to the classroom.
+Ugh...
+Is this how things should be?
+Well, I have no right to stop Akari from dating anyone.
+Still...
+I'm not totally oblivious.
+I have some idea about Akari's feelings.
+Her feelings for me...
+　──そのとき、
+「<name>ちゃん…」
+I turn and see Akari looking dejected.
+"Akari..."
+I can't find the words. Akari speaks first.
+"I turned him down."
+"That told me everything.
+"I made it clear that there's someone else I like."
+"Akari..."
+"So, uh..."
+"I thought you knew."
+"Akari..."
+There are a few seconds of oppressive silence.
+And then...
+*ding, dong, ding, dong*
+The bell rings.
+When it finishes, Akari rubs her eyes.
+Then, her usual attitude returns and she smiles.
+「あ、いけない、授業が始まっちゃう。
+じゃまたね、<name>ちゃん」
+She returns to her seat.
+"Akari..."
+She smiles like everything is normal.
+Somehow, that makes my heart ache.

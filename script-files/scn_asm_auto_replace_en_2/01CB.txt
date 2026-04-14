@@ -1,0 +1,19 @@
+（あかり　回数イベント　帰り道）
+（選択肢Ｃ　白い小人たち）
+「あれだろ、白いやつ」
+「白いやつ？」
+"Yeah, the snack 98% of people take home from Hokkaido."
+"Uh-huh..."
+"Well, I mean those cookies with white chocolate."
+"Oh, I've had those."
+"Right? It's the souvenir everyone gets. The Hokkaido equivalent of
+Hawaii's Macadamia nut chocolate."
+"But it's not much fun if it's what everyone gets."
+「どうせ人にやるんだろ？
+　適当に買って、適当に配る。
+それで人間関係万事オッケー。
+ひとつひとつ選んでたらキリがないぜ」
+「<name>ちゃんは、それを買うの？」
+"No, I hate doing what's typical."
+"I knew you'd say that."
+We keep reading the book and chatting.

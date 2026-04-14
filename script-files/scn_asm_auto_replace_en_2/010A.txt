@@ -1,0 +1,31 @@
+（あかり　日付
+イベント　３）
+（４月３０日）
+First period...
+（教室　誰も居ない）
+It's third period.
+The juniors are gathered in the AV room to receive instructions for
+the school trip.
+The teacher passes out itineraries, describes the schedule, and
+tells us about a bunch of rules.
+This year's trip is to Hokkaido.
+A vast land brimming with nature.
+Just getting out of the city and being able to enjoy wide open
+spaces is enough to make the trip feel worth it.
+The teacher makes one or two punny jokes about Hokkaido, but the
+assembly is otherwise uneventful.
+I sit and flip through the itinerary as Akari approaches with a
+happy look on her face.
+「<name>ちゃん」
+"Hey, what's up?
+嬉しそうな顔しやがって」
+"Hehehe, looking forward to the school trip?"
+"Maybe.
+なんつっても、高校生活最大級のビッグイベントだしな」
+「<name>ちゃん、ずっと前から北海道に行きたがってたもんね」
+"Yeah, later.
+憧れの北の大地が、いよいよ目前に迫ってきたぜ」
+"Yeah."
+"Oh, hey, check out this page in the itinerary."
+"Let's see here..."
+Akari and I have a good time reading through the itinerary together.

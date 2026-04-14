@@ -1,0 +1,11 @@
+（志保　回数イベント　１階２）
+（選択肢　両方パス）
+"What a pain. I'm not going with either of you."
+"Huh?"
+They're both confused.
+"I can't pick either of you without hurting the other, right? I'll
+head home by myself."
+I wave goodbye and walked off.
+「<name>ちゃん…」
+「<nick>～」
+They watch me go as I leave the school in something of a good mood.

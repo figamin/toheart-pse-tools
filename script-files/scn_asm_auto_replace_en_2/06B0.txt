@@ -1,0 +1,11 @@
+（マルチ　回数イベント　学校を出る１）
+（選択肢Ｃ　…そうか、残念だな）
+"...I see. That's a shame."
+That's right. Multi started attending my school for testing.
+I've known from the start that she would eventually leave.
+「…<name>さん。
+わたしも寂しいです。
+…<name>さんともっといっしょにいたかったです」
+"Wallowing over her leaving isn't going to get me anywhere.
+　しゃーねーな。
+I'll make sure to see her off tomorrow with a smile.

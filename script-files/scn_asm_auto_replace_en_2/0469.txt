@@ -1,0 +1,21 @@
+（志保　追加イベント３　帰り道）
+（選択肢　なんの用だよ）
+"What do you want?"
+It might be something interesting, so I decide to ask.
+"Do you have 10,000 yen?"
+Shiho takes me completely off guard.
+"Ugh..."
+After hoping for something interesting, that's the only response I
+can offer.
+"I'm asking if you have 10,000 yen."
+「お前、同級生から金を巻き上げるのか…？」
+"Of course not, I just wanna know if you have it."
+"What the hell?"
+「べつによこせなんて言わないからさ、持ってる？
+　
+持ってない？」
+Shiho presses me.
+I can never quite understand what she's thinking.
+　オレの答えは──。
+A. Yeah, I do.
+B. No, I don't.

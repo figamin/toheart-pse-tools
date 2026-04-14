@@ -1,0 +1,41 @@
+（智子　好感度イベント１回目）
+（選択肢Ａ　あかりに写させてもらう　の続き）
+I walk over to Akari's seat.
+Akari always takes her work seriously.
+She struggles with the difficult problems, but she still attempts
+them all on her own.
+She refers to her notes and the textbook as she slowly writes out
+her answers.
+"Hey, you look like you're getting it."
+「え、うん、まあ」
+"How far did you get?"
+"Only to the second question, so not far. What about you?"
+「お前が終わったら、それを写す」
+Akari doesn't seem to like that.
+"Nope, you have to do it yourself."
+"You know I suck at math."
+"All the more reason why you should work on it yourself."
+"What do you want?
+見せねーってのか？」
+"I-I can, but my answers are probably wrong. I'm not too sure about
+them."
+"Doesn't matter.
+こういうのは適度に間違ってたほうがそれらしいんだ」
+"But if it's the exact same mistakes, the teacher's gonna..."
+「い
+・い
+・か
+・ら
+・み
+・せ
+・ろぉ～～～っ！」
+"Fine, geez. I'll bring it to you when I'm done."
+"Alright, there we go."
+"But you really shouldn't copy me. It would be better for you to
+just do it."
+She starts lecturing me again.
+"Yeah, yeah, I know."
+「<name>ちゃん、本当は私より頭いいくせに、いつもすぐ投げ出しちゃうんだから」
+「お前が言うほど頭がよけりゃ、こんな苦労はしてねーよ」
+I wave goodbye and return to my seat.
+"Geez, struggle? You barely even try."

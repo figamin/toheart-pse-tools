@@ -1,0 +1,44 @@
+（マルチ　エンディング）
+（Ｂ　お礼なんてしに来なくていい）
+"Don't be silly. You don't have to come to thank me."
+"B-But..."
+"I haven't done anything major for you.
+This phone call is enough to offer your thanks."
+"But..."
+"I'd feel bad if you came all this way just to say thanks."
+"Multi thinks for a moment.
+"Are you sure?"
+She asks.
+"...Got it!
+では、電話で、お礼を言わせてください」
+"Sure. I'll gladly accept that."
+「<name>さん、今日まで、いろいろありがとうございました。
+このご恩、わたしは一生忘れません」
+"Hahaha, that's a bit dramatic."
+「本当にありがとうございました」
+"I feel like my heart skipped a beat.
+What could it be?
+"S-Say, Multi?"
+"Yes?"
+"It'd be great if you could call me like this again. I'll always be
+around to talk to you. You know what? Let's hang out together
+sometime."
+"...Do something fun?
+わたしとですか！？」
+"Yeah."
+"Th-Thank you so much! I, I'm so..."
+"Multi."
+「………」
+「………」
+「…そっ、それでは、これで。
+…<name>さん、お元気で」
+"Ah...
+H-Hey."
+*click*
+I hear a dial tone.
+She ends by saying "take care"...
+Oh, crap.
+I should've invited her out somewhere today.
+What am I—an idiot?
+Oh well.
+I'll ask her the next time she calls me.

@@ -1,0 +1,28 @@
+（レミィ　回数イベントＰＳ）
+（選択肢　声をかける）
+I walk quickly to catch up to Lemmy.
+"Why, hello there."
+I greet Lemmy with her usual greeting.
+「Ｏｈ、ｈｅｌｌｏ、<kata>」
+Lemmy turns around with a smile.
+I always feel so international when I talk with Lemmy.
+「ただのあいさつだけでしょ？」
+"No practice today?"
+「うん」
+「そうか。
+じゃいっしょに帰ろうぜ」
+"I sure do!"
+「ねえ、<kata>」
+Lemmy speaks up as we leave through the school gate.
+"What is it?"
+"Let's go somewhere."
+"Where?"
+"Anywhere."
+"Anywhere? Are you saying you wanna go hang out somewhere?"
+"Yup. Take me somewhere."
+"Okay... Is there anywhere you want to go?"
+"Um... Somewhere that a couple would go to!"
+"A c-couple?!"
+A. Shopping.
+B. A hotel.
+C. A pet shop.

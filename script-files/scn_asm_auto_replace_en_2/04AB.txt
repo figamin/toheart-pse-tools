@@ -1,0 +1,11 @@
+（志保　回数イベント　帰り道２）
+（選択肢　余裕）
+"Actually, finals are gonna be a cinch."
+"You're kidding me!"
+"Don't be so surprised."
+"But it's weird to hear you be so positive about finals. It feels
+like a bad omen."
+"What's so unlucky about it?"
+「大地震の前触れかも…」
+"Whatever, forget you!"
+Shiho and I argue as usual on the way home.

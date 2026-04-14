@@ -1,0 +1,17 @@
+（志保　好感度型回数イベントＰＳ）
+（選択肢　パス）
+"Sorry, but I'll pass."
+"What?! I know you wanna go!"
+"I'm just not in the mood."
+"So, your body wants to go, but your mouth is stopping you."
+"You're not making sense."
+"Urrrgh..."
+「志保、<name>ちゃん、ああ言ってるんだし、今日は二人で行こ」
+「う～っ；」
+「それじゃあ<name>ちゃん、私たち行くね」
+"Yeah.
+行って来い」
+"C'mon, Shiho."
+「う～っ、う～～～っ；」
+Akari drags Shiho away.
+They match each other oddly well at times like these.

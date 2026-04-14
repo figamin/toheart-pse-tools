@@ -1,0 +1,61 @@
+（あかり　回数イベント　帰り道）
+（選択肢Ａ　声をかける）
+I put the magazine down, enter the store, and approach Akari.
+She keeps reading the magazine and doesn't notice me at all.
+What's she reading?
+I take a peek from behind.
+What is it?
+Spring Bento Special?
+What, a cooking magazine? So typical.
+"You can't do that, miss."
+「あ、すっ、すみませ──
+<name>ちゃん」
+"You'll get in the way of other customers. Don't stand while reading,
+please."
+"Geez, don't scare me like that!"
+Akari smiles and blushes as she puts the magazine back on the shelf.
+"Another cooking magazine?"
+"Yeah."
+「どれ読んでもいっしょだろう、そんなの」
+"No, not at all. New issues always have new discoveries."
+"Uh-huh, and what was today's discovery?"
+"Salmon potato cakes. I was thinking of including some in my next
+bento."
+"YESSSS!"
+"What?"
+"Make those for me!"
+"O-Okay, fine."
+"Alright, then make them next time there's an event to bring a bento
+to."
+"When would that be?"
+"Whenever, really."
+"Well, it's spring. We could go see the cherry blossoms and eat."
+"Cherry blossoms, huh?"
+"Remember when we all did that last year?"
+"Yes?
+でも、ありゃサイアクだった…」
+Last year, Akari, Shiho, Masashi, and I went out at night to see
+the cherry blossoms.
+I wanted it to be a quiet, peaceful night, but Shiho chatted it up
+with some older guys there, and they even started doing karaoke.
+She ruined everything.
+There was nothing quiet or peaceful about being surrounded by a
+bunch of drunk guys.
+It felt more like being at a seedy bar.
+"All the clapping from those guys got Shiho singing and dancing and
+everything."
+「<name>ちゃん、ぶつぶつ文句言ってたわりに、料理とかぱくぱく食べてたけど…」
+"Well, yeah. Eating was all I could do to enjoy myself at that point."
+"I had fun, personally."
+「そーかぁ？
+　お前と雅史なんて、最後まで愛想笑いしてただけだったぞ」
+"I guess I didn't have the easiest time fitting in there."
+"You didn't have to worry about fitting in there."
+"But I still want to go again this year!"
+"If it's gonna be like last year, I'll pass."
+"Then we can go about it differently this year."
+"Well, sure."
+　そうだな──。
+A. Let's do it.
+Ｂ　暇だったらな。
+C. I'll think about it.

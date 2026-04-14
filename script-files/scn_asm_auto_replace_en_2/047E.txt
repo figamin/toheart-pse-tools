@@ -1,0 +1,30 @@
+（志保　割り込み型好感度イベント）
+（志保３）
+「<family>く～ん」
+Shiho appears.
+　しかも、へんに媚びた態度だ。
+Something is up.
+"No!"
+"Hey, I haven't even said anything yet."
+"I have a bad feeling."
+"What the heck?! At least listen to me first!"
+"Fine, say what you're gonna say."
+「<family><name>、あんたと決闘よ！」
+"What the hell?"
+"A karaoke duel."
+"Karaoke? So you want to compete? Don't call it a duel, that's just
+confusing."
+"I wanted it to sound more dramatic."
+"Man... Who else is going?"
+"Just us this time."
+"Why not?"
+"Because it's a duel."
+Shiho and I just like to compete.
+Although we aren't super competitive with other people, we hate
+losing to each other.
+　理由は──、なんだろうか。
+Oh, I know. It's because she talks smack when she wins.
+That never fails to piss me off and get me in a competitive mood.
+Now, what to do this time?
+A. I'll give it a shot.
+B. I'll pass.

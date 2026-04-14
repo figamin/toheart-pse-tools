@@ -1,0 +1,20 @@
+（理緒　回数イベント）
+（バイトを知っているのが条件）
+（２階　ＬＶ１）
+I guess I should head home too.
+「あっ、<family>くん」
+Rio comes running up to me in a flurry of quick little steps.
+"Hey, Rio. Going to work?"
+"Yeah. I have the early shift at the arcade today, then flyer
+distribution, then convenience store cashier at night."
+"You never take a day off, huh? You're gonna die from overwork."
+"I won't coz I'm super healthy!"
+"Right... Where are you storing all that power in that body of
+yours?"
+"Haha, stop it! You're embarrassing me, staring at me like that."
+She really doesn't seem tired at all.
+「<family>くんも、いま帰りなんだ？」
+「ああ」
+I nod.
+Ａ　途中までいっしょに帰る。
+Ｂ　それじゃ、また。

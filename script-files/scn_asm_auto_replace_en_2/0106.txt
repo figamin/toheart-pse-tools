@@ -1,0 +1,45 @@
+（あかり　日付イベント１．４）
+（３月１６日）
+（あかりと勉強状態なら発生）
+（ＰＭ２時）
+（自分の部屋）
+It's two o'clock.
+　そろそろ、あかりのヤツが来る頃だな。
+*ding-dong*
+Oh!
+「こんにちは～、<name>ちゃ～ん」
+That's Akari's voice for sure.
+"Come in!"
+I reply loudly.
+"No."
+She answers
+I hear her walk up the stairs.
+「おじゃましまーす」
+Akari smiles and enters my room.
+"I have a present for you!"
+"What is it?"
+"A cake from the cake shop by the station."
+"Oh, how thoughtful. I love their stuff."
+"No.
+<name>ちゃん、たしか前にそう言ってたから。
+３時のおやつに食べよ」
+"Yeah, later.
+じゃ、さっそく始めるか」
+"Yeah."
+　あかりといっしょに勉強するのも、これでもう４日目だ。
+Monday's exams are English grammar and Chemistry.
+We cover grammar on Saturday, so today would be all Chemistry.
+"Um, the exam starts with..."
+"Page 180 of the textbook, and it covers up to page 235."
+"Good thing there's only so much material they can fit in a semester."
+「それじゃ、さっそくですが、<name>ちゃん。
+テキストの巻末問題からの出題です。
+　単量体が○○反応を繰り返して、高分子になる反応を付加重合という。
+　○○に当てはまる言葉を言ってください」
+"Uh..."
+"It's when double or triple bonds open up and new bonds are created
+with other atoms."
+"An addition reaction?"
+"Ding, ding, ding, you got it! Next question.
+What causes the hydrogen atoms in hydrocarbons to..."
+We eat Akari's cake at three and continue to study until six.

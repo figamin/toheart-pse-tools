@@ -1,0 +1,11 @@
+（レミィ　回数イベント　寄り道１　ＬＶ１）
+（選択肢　この場は退散）
+"...Bye, Lemmy. See you tomorrow."
+I've had enough of conversations about culture and linguistics that
+feel like classes at school, so I cut the conversation short.
+「<kata>、もー帰るの？」
+"Yeah, I don't have any reason to stick around, so..."
+"Really?"
+「じゃあな」
+"Okay. So long."
+I leave Lemmy and go straight home.

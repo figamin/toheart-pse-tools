@@ -1,0 +1,22 @@
+（マルチ　回数イベント　帰り道）
+（４月１７日）
+（ゲーセン前）
+I find myself wanting to hit up an arcade, so I head over there
+only to find a familiar figure facing away from me at the bus stop
+out front.
+A small girl in our school's uniform.
+Those distinct ear covers. It's definitely Multi.
+I approach her.
+"Yo, Multi."
+「あ、<name>さん、こんにちはー！」
+Multi turns around and smiles.
+"You waiting for the bus?"
+「はい」
+「今日はひとりか、例の友だちはどうした？」
+"Serio isn't here yet... Or rather, I got here earlier than we
+planned to meet. I've still got another 15 minutes to wait."
+Multi says as she looks at her watch.
+"Okay..."
+　そうだな──。
+A. Invite her to hang out at the arcade.
+B. Say goodbye and leave.

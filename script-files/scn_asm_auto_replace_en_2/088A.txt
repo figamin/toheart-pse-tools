@@ -1,0 +1,24 @@
+（レミィ　回数イベント　２階２）
+（選択肢　声をかける）
+"Hey, Lemmy!"
+I call out to Lemmy who is walking ahead of me.
+「Ｗｈａｔ？
+　…あ、<kata>」
+"Yo! Heading home?"
+「Ｇｏｏｄ　ｔｉｍｉｎｇ！
+　アタシ今ちょうど<kata>に会いたいって思ってたの」
+"Yeah? What did you want to see me for?"
+「<kata>に聞きたいことがあるの」
+"To what, exactly?"
+"Do you mind?"
+"Depends on what the question is. Just go for it and ask."
+"You know...
+<kata>って、アタシのこと、どう思ってる？」
+"What?!"
+...What's her intention behind that question?
+In Japan, when a girl asks a guy what he thinks about her, it only
+means one thing...
+　オレの答えは──。
+A. I like you, of course.
+B. I think you're full of energy.
+C. Why are you asking me that?

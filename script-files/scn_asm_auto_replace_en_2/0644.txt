@@ -1,0 +1,27 @@
+（マルチ　好感度イベント
+　５）
+（好感度が　のとき）
+（昼休み）
+（図書室）
+　昼休み。
+I go over to the library again.
+　今日は昼寝ではなく、ちょっとべつの目的で来た。
+It's to see Multi charging her battery.
+Multi is in an empty corner of the library, quietly asleep as she
+charges her battery.
+She's a robot, yet she sleeps.
+And she has dreams.
+I wonder what kind of dream she's having right now.
+I gently stroke Multi's head.
+"...Sweet dreams."
+I whisper to her, and then...
+「<name>さん…」
+She suddenly says my name.
+「え？」
+I take a closer look at her, but she's still asleep.
+The progress bar on her screen is still only at 58%.
+There's no way she's awake.
+Does that mean...she was muttering in her sleep just now?
+"Multi has a look of joy on her face as she sleeps.
+Maybe she's having a dream with me in it.
+I wonder what's happening in the dream.

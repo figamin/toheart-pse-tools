@@ -1,0 +1,22 @@
+（マルチ　回数イベント　２Ｆ　ＬＶ２）
+（選択肢Ａ　すまん、すまん）
+"Sorry. My bad."
+I apologize to her.
+"I was only trying to give you a little scare, but I didn't think
+you would get so startled."
+"...Did...I lose consciousness?"
+"Oh...
+てっきりマルチが壊れちまったのかと思って、本気であせったぜ」
+"Sorry. It looks as though I've caused you trouble..."
+Multi apologizes in earnest, despite being the victim.
+"Anyway, are you okay? You're not broken?"
+「…はい、べつになんとも。
+…ブレーカーが落ちただけですから」
+"So it was your breaker."
+"Yes.
+…思いもよらない負荷がかかったりすると、安全確保のためブレーカーが落ちる仕組みになってるんです」
+"Huh. Isn't it a bit on the sensitive side? You should probably get
+that thing tweaked."
+"Yes, it does seem that way..."
+In any case, now I know that she can blackout pretty easily. I'll
+make sure not to scare her too much from now on.

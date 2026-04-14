@@ -1,0 +1,10 @@
+（智子　好感度イベント９回目）
+（発生条件　好感度イベント８回目を見た後、回数イベントの学校を出ると差し替え）
+（下り坂）
+I'm on my way home.
+"Oh, that's..."
+On my way down the hill, I see the Class Rep from behind.
+She doesn't notice me.
+What should I do?
+A. Talk to her.
+B. Don't talk to her.

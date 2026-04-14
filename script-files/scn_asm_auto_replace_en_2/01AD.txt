@@ -1,0 +1,30 @@
+（あかり　回数イベント　学校を出る）
+（Ａ　いっしょに帰る）
+「じゃあ、いっしょに帰るか」
+I answer.
+"Okay!"
+Akari nods happily.
+We walk through the shopping arcade on the way back.
+We're at a street corner.
+"Oh, I want one!"
+Akari comes to a sudden stop.
+"What's up? Ack, one of those?"
+There's a cart selling weird plushies.
+"Yeah...
+これ、クマチュウだって！」
+"Don't get it. I'm pretty sure this is a bootleg. They wrote it's
+'super popular,' but that's obviously a lie."
+"Hmmm, 1500 yen? Alright, I'll get it!"
+Akari thinks for just a moment before deciding.
+「げ、本気かよ。
+全然かわいくねーぞ、コレ」
+"You think so?"
+　あかりはクマチュウをひとつ、ワゴンから抱くようにして持ち上げた。
+"You see these blank eyes? This face? What could be more adorable
+than this?!"
+"...I think you just like weird stuff."
+"Yeah, maybe...
+でもほら、個性的でかわいいでしょ？」
+A. Now that you mention it...
+Ｂ　かわいくねー。
+C. Just don't buy it.

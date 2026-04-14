@@ -1,0 +1,28 @@
+（マルチ　回数イベント　２Ｆ　ＬＶ１）
+（ＣＧ　廊下掃除）
+I spot a girl with a mop in her hands cleaning in front of the
+freshmens' hallway.
+A girl with large ear covers on her head.
+It's clearly a certain Robomaid I know—Multi.
+She's working hard mopping the floors.
+"Hey, Multi."
+I call out to her.
+「あっ、<name>さん」
+She looks at my face, beams, and then jogs over to me.
+"Are you on your way home?"
+She smiles.
+"Right.
+お前は、まだ掃除が終わんねーのか？」
+"What?"
+"I admire your hard work. Where are the others? I don't see anyone
+else around."
+"There isn't anyone else around."
+"Not here..."
+"Hello?
+みなさんお忙しいそうで、先に帰られました」
+"They left..."
+　なんだよ。
+They heap all the cleaning onto her because she's a robot?
+She's too kind for her own good.
+A. Guess I'll help you out.
+Ｂ　ま、がんばれよ。

@@ -1,0 +1,8 @@
+（レミィ　回数イベント　帰り道１）
+（廊下２）
+"Ooh, it's Lemmy."
+I spot Lemmy walking ahead of me in the hall.
+　鞄を持ってるから、たぶん、帰るんだろう。
+Maybe I should chase after and talk to her.
+A. Call out to her.
+B. Do nothing.

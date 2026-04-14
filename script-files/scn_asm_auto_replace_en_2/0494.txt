@@ -1,0 +1,22 @@
+（志保　回数イベント　１階２）
+（選択肢　あかりと）
+"I already agreed to go with Akari, so I'll do that."
+"Thank you.
+でも、志保につき合ってあげて」
+「なんでだよ。
+お前が先だろ？」
+「志保は<name>ちゃんに来て欲しいんでしょ？
+　
+私はまた今度でいいから」
+"Wait a second..."
+「どーすんの<nick>。
+あかりも、ああ言ってるよ」
+"But..."
+「<name>ちゃん、私が先約なんだから、私に決めさせて」
+Akari insists on handing me off to Shiho.
+"Man, whatever."
+I give up.
+"Sorry, Akari."
+"Y-Yeah.
+いいの」
+In the end, Shiho and I go to the shopping arcade together.

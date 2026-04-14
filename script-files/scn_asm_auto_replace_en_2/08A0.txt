@@ -1,0 +1,12 @@
+（レミィ　回数イベント　２階４　ＬＶ１）
+（選択肢　今日はちょっと）
+"Sorry, I've got plans today."
+"You do...?"
+Lemmy seems a little disappointed.
+"Yeah. Sorry."
+I apologize.
+"...Yeah, that's okay."
+She smiles.
+"Okay, then..."
+"...See you later."
+Lemmy trudges off.

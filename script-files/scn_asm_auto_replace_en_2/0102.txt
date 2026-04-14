@@ -1,0 +1,35 @@
+（あかり　日付イベント１）
+（Ｂ　今回はひとりでがんばるぜの続き）
+「今回はひとりでがんばるぜ」
+I answer.
+「なんだか、お前の足を引っ張ることになりそうだしな」
+「そんなことないよ。
+<name>ちゃんは、やればなんでも出来るんだから。
+きっと逆に、私のほうが教えられる立場になるよ」
+"You put way too much stock in me. Anyway, sorry, but I want to take
+things at my own pace this time."
+"Oh..."
+Akari looks disappointed.
+"Okay, got it.
+じゃ、がんばってね」
+"Sorry to turn you down."
+"There you go.
+ちょっと言ってみただけだから。
+もしも、テストの範囲でわからないことがあったら、気軽に電話してきてね」
+"Thanks."
+「雅史ちゃんはどう？　いっしょに」
+"No, I'll pass. I ask my sister if there's something I don't know."
+"Okay..."
+"Sorry."
+"Oh, don't worry about it. It's not like you had to say yes."
+Akari tries to keep the vibe friendly and upbeat.
+"See you later, then."
+She smiles and leaves the classroom.
+「いっしょにすればよかったのに…」
+「お前はどうなんだよ」
+"I would've felt kind of bad saying yes."
+"Uh, why?"
+「あかりちゃんは<name>を誘いたかったんだよ。
+僕はおまけみたいなものだから」
+"What are you talking about? Man..."
+Still, maybe I shouldn't have said no.

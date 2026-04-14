@@ -1,0 +1,32 @@
+（智子　回数イベント　学校を出る　ＬＶ２）
+（選択肢Ａ　このオレについて来られるならな！）
+（選択肢Ｃ　ふたりとも大丈夫か？）
+（の続き）
+"Are you two okay?"
+I approach them.
+"Aaaaagh..."
+"Akari's holding her head with tears in her eyes. Hoshina doesn't
+seem to be in pain so much as she's annoyed to have been involved
+in this.
+"S-Sorry, Hoshina. Did that hurt?"
+Akari rubs the back of her head as she apologizes.
+「べつに。
+なんともない」
+She responds brusquely.
+"Are you hurt at all?"
+"You're the one crying. Looks like it hurt you a lot."
+"Oh, uh..."
+Akari frantically rubs her eyes.
+Then, I step between them.
+"Uh, you're Hoshina, right? Sorry, but could you go easy on her? It
+was my fault for startling her anyway."
+「<name>ちゃん…」
+And then...
+「べつに怒ってない。
+これからは、まわりに気いつけや」
+She says that curtly and leaves.
+"I wonder if she was actually mad."
+"Who knows? Maybe she was seething with rage."
+"...Aww.
+…また謝っておこう」
+　結局その日は、あかりといっしょに帰った。

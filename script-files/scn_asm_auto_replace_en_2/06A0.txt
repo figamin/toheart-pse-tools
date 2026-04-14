@@ -1,0 +1,55 @@
+（マルチ　回数イベント　１階１）
+（選択肢Ａ　動力源は？）
+I suddenly have a spike in curiosity about Multi's source of power.
+Robomaids generally run on batteries, I think.
+　けど、最新型っていうんなら、またべつのなにかで動いているのかもしれない。
+I'll ask her about that.
+"Hey, Multi?"
+「はい？」
+"What are you powered by?"
+"My source of power?"
+「そうそう」
+"Electricity."
+Multi answers.
+Huh, well that was anticlimactic.
+Of course that's what she's powered by.
+　機械がご飯で動くわけねーもんな。
+"So if electricity powers you, does that mean you're fitted with a
+battery?"
+"Yes. It's something called a 'lithium battery,' apparently"
+"Lithium...?"
+"Yes, it's a more powerful version of the ones used in cellphones
+and stuff like that."
+"Do you sometimes change it?"
+「いえ、充電するんです。
+人間のみなさんがご飯を食べるくらいの回数で」
+"Huh. So if you don't charge yourself in time then you'll stop?"
+"I can manage for a while... Um, I've got something called a
+secondary fuel cell which lets me generate some of my own power,
+apparently."
+"A fuel cell?"
+Another doo-dad I've never heard of.
+"I don't quite understand it myself, but I think it produces
+electricity by combining hydrogen? And um, oxygen? To create some
+kind of reaction...apparently."
+"Hydrogen and oxygen to produce electricity?"
+「ええっと、たしか、『水の電気分解』とかいうのがあってですね──」
+"Ohhh, I learned about that in middle school. Something about water
+splitting into hydrogen and oxygen when you put an electric current
+into it."
+"Yes, that's the one! My fuel cell does the opposite. It makes
+hydrogen react with oxygen to create electricity and water."
+"...Interesting. So you've got hydrogen and oxygen inside of you?"
+"No, just hydrogen. There's plenty of oxygen around us."
+"And that's the source of fuel for your fuel cell then."
+"It generates supplementary power when my battery runs out or I do
+any form of vigorous exercise, apparently."
+The fact that she adds "apparently" to the end of everything must
+mean that she really doesn't know for sure herself either.
+「なあ、ところで、さっきの説明だと、電気といっしょに水ができるんだろ？
+　その水はどうすんだ？」
+"Oh, that? It comes out in the form of sweat and..."
+「あとは？」
+"And, uh, I-I go to the toilet..."
+"Oh, r-right."
+She's so human-like, even to the oddest of details.

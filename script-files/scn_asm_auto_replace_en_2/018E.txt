@@ -1,0 +1,57 @@
+（あかり　回数イベント　２Ｆ）
+（Ａ　いっしょに帰ろうぜ）
+"Are you heading home?"
+"Well?
+<name>ちゃんは？」
+"Me?
+どうせなら、いっしょに帰るか」
+"Really?!
+　
+じゃ、ちょっと待ってて」
+Akari went back down the hall and into her classroom.
+She returned a few moments later.
+"Sorry about that."
+"What were you doing?"
+「友だちに、ばいばーいって」
+"Oh, okay."
+　ということで、今日はあかりといっしょに帰ることになった。
+We descend the hill side by side.
+We retrace the same path we took together this morning.
+　行きも帰りもいっしょ。
+That means we don't have much left to talk about.
+　だけど、べつに口数が減ったからと言って気まずくなる関係でもない。
+There are times for talking and there are times for silence.
+It's as simple as that.
+Basically, we're comfortable enough with each other not to tire
+each other out.
+"Hey, Akari..."
+"What?"
+"Read anything good lately?"
+I ask her as I walked.
+"Hmmm, let's see..."
+Akari looks up at the sky and thinks for a moment.
+"Oh, come to think of it, my dad lent me a detective novel. He said
+it's the best he's read in a while. Do you want to read it?"
+"Arrrgh...
+　推理小説かァ」
+"There's some award that it won or failed to win, I don't remember
+which."
+"Then why bring it up?"
+"Anyway, it's supposed to be great. It's also a super long book and
+the print is tiny."
+"It better actually be good if it's that long."
+"I can lend it to you."
+「お前は読まないのか」
+「私は<name>ちゃんの後でいいよ。
+どうせ読むの遅いから」
+"I see.
+じゃあ、先に読んで、犯人教えてやるからな」
+"Geez, that's mean!"
+「ねえ、<name>ちゃん」
+"...Oh."
+「もし、とある旅行先で殺人事件が発生して、まわりの人がばたばた死んでって──」
+"What kind of question is this?"
+「たとえば…の話だよ。
+──で、生き残ったなかに私と<name>ちゃんがいて、もしかして、私に犯人の疑いがあったら、どうする？」
+A. I'd arrest you.
+B. I'd have you turn yourself in.

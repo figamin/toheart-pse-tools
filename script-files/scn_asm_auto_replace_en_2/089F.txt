@@ -1,0 +1,14 @@
+（レミィ　回数イベント　２階４　ＬＶ１）
+（選択肢　チン）
+"The thing that goes 'ding'? It's obviously called a 'ding-ding.'"
+"Wrong!"
+"Guess not then..."
+「<kata>『チン』はｎｏｔ日本語ヨ」
+「すまん…」
+I don't know the answer and end up picking the obvious dud answer...
+"The answer is 'singing bowl.'"
+That's news to me...
+"Lemmy! Gimme one more chance!"
+「ＯＫ！」
+I end up forgetting to give Lemmy any questions as she quizzes me
+the entire walk home.

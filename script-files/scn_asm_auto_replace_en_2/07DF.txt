@@ -1,0 +1,32 @@
+（琴音　ＰＳ回数イベント）
+（選択肢　声をかける）
+I gotta apologize to her today.
+I call out to Kotone.
+"Heya!"
+She turns around and nods silently.
+「こないだのことなんだけど──」
+I start to speak.
+"I must've put you in an awkward position by bringing up personal
+things without even knowing what you're going through."
+「いいえ…」
+"I was really agonizing over it because I figured I must've hurt
+your feelings."
+"...Um, please don't dwell on it."
+"I can't help it. You looked so distraught, Kotone."
+"Um..."
+Kotone suddenly looks unsettled.
+I don't think she is expecting me to call her by her first name.
+「…そういや、自己紹介まだだったな。
+オレ、２－Ｂの<family><name>」
+"...You already know who I am, right?"
+"Yeah.
+一年Ｂ組姫川琴音ちゃんで合ってるだろ？
+　…ごめんな、勝手に調べちまって」
+「いいえ。
+…わたし、普通じゃないですから、<family>さんの目にとまるのもしかたがないことなんです…」
+Kotone looks down.
+She must hate being the subject of rumors.
+　オレのリアクションは──。
+A. Yeah.
+B. That's not true.
+C. You shouldn't say that about yourself.

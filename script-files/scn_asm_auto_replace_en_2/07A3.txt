@@ -1,0 +1,32 @@
+（琴音　回数イベント　ＰＳ）
+（選択肢　ゲーセンの話題）
+「──っつう感じで、オレたちが行くとついバトルになっちまんだよ」
+I tell her all about our arcade battles, thinking that it isn't
+something she is familiar with.
+"...I've always thought that arcades were scary places."
+"Scary? Really?"
+"Yes... And they're very noisy."
+"I can't believe that's how arcades seem to you, Kotone..."
+"A-Am I actually wrong?"
+"I think it's the adults around that have the wrong idea."
+"People say that hooligans hang around arcades, right? I think that
+really was the case back before we were born."
+"But it's not like that now. You go to them like you would go to a
+little amusement park."
+"An...amusement park?"
+"Yeah.
+それを知らねえのか、認めたくねえのか、大人はいつまでも昔の話をしてんだよ」
+"I see..."
+"But they are noisy—I'll give you that."
+「はい」
+"You don't really like places like that?"
+「少し…」
+"Yeah? I suppose I wouldn't take someone like you to an arcade
+either. I definitely wouldn't force you to go."
+「ありがとうございます…。
+でも、<family>さんとなら、ごいっしょしてもいいですよ」
+Kotone smiles a little.
+"And thank you for saying that. I'll invite you the next time I go."
+「はい」
+Hmm... I guess Kotone doesn't really like arcades.
+I mean, I can't really picture her getting into a game either.

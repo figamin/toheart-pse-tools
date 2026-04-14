@@ -1,0 +1,23 @@
+（志保　回数イベント　寄り道３）
+（選択肢　話し込む）
+"So today's the end, huh?"
+"The end of what?"
+"The end of our normal days. After this, we have Golden Week, and
+then the school trip. It's almost like having another spring break."
+"Well...
+１週間も学校へ行かなくていいし…」
+"So I looked into places to hang out during Golden Week."
+「ふ～ん。
+遊ぶ場所のチェックか…。
+お前らしいな」
+「ね、ね、<nick>はヒマでしょ？
+　
+いっしょにチェックしましょーよ」
+Shiho tugs on my arm.
+"Sure, whatever. You're right that I've got the time anyway."
+What does Shiho do during Golden Week?
+I'm a little curious.
+Should I ask and find out?
+A. Who are you going to hang out with?
+B. What places are you looking at?
+Ｃ　お前って、遊び人だよなぁ。

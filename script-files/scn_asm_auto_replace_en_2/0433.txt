@@ -1,0 +1,10 @@
+（日付指定式回数型ＶＳイベント　志保ＶＳあかり）
+（４／１８　２階）
+「やっほーっ、<nick>！」
+When I walk out into the hallway, Akari and Shiho are there.
+"Great."
+"Hey, so we're gonna go to YacDonald's. Wanna come with?"
+"YacDonald's? What's the limited time menu item they have right now?"
+"The garlic steak burger. Are you coming with?"
+A. Go.
+B. Don't go.

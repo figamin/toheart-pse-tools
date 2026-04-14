@@ -1,0 +1,59 @@
+（あかり　好感度イベント　１）
+（好感度が　７以上　のとき）
+（一年時のみ）
+（土曜日以外）
+（この好感度イベントは１～１．２にまで同じ日に発生する）
+（朝イベントと差し替え）
+（自分の部屋）
+*yaaaaawn*
+Ten minutes after my alarm clock goes off, I stretch and get out of
+bed.
+Now let's try to live another day to the fullest.
+"I'm leaving!"
+I inform the empty house that I'm leaving, then head out and lock
+the door.
+"Good morning!"
+Akari runs up from behind and stops next to me.
+Her smile is dazzling in the morning sunlight.
+"Hey, Akari. You're still rocking those cute droopy eyes, I see."
+"A somewhat troubled look appears on Akari's face, and she gives me
+an awkward smile.
+The park's greenery is more vivid than usual.
+Probably because it rained last night.
+The air seems a bit more crisp too.
+It feels nice.
+「ねえ、<name>ちゃん」
+When we reach the middle of the park, Akari suddenly speaks up.
+"Are you having a sandwich for lunch again today?"
+"Yeah, why?"
+I nod.
+Sandwiches are my lunch every day as of late.
+　弁当なんかは作ってる暇はないし、学食のメニューはぜんぶ食い飽きてしまったので、雅史といっしょに購買部のパンを買って食ってる。
+You can get a pork cutlet sandwich, sausage roll, and cafe au lait
+for 320 yen, so that's been my standard lunch recently.
+Sometimes I get a tuna sandwich instead of a pork cutlet sandwich
+or fruit juice instead of cafe au lait so I don't get bored.
+"Is that a problem?"
+"Don't you get tired of eating that every day?"
+"Pretty much.
+けど、学食メニューのほうが食い飽きちまったからな」
+"I made a bento today."
+"What?
+　オレのぶんを？」
+"Yeah."
+Akari nods.
+"Huh, thanks, that's very thoughtful. But why?"
+"I've been researching different ways to make bento and I wanted you
+to try one so I could get your opinion."
+"So you're practicing on me? Well, I'm just glad to get to eat for
+free."
+「いちおう、<name>ちゃんの好きな物ばかりを選んだつもりだよ」
+"Sounds good."
+「お昼になったら、いっしょに食べようね」
+"Sure, okay."
+Akari giggles
+Nice, free lunch.
+　親からもらっている生活費は結構シビアで、昼食代を切りつめると小遣いが増えるのだ。
+Lucky me.
+「じゃあ、お昼になったらいっしょにね」
+Akari says, reminding me as we part ways in the hall.

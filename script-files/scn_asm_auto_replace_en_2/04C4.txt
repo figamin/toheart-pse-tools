@@ -1,0 +1,8 @@
+（志保　回数イベント　寄り道２）
+"Hey, Shiho."
+「おっ、<nick>じゃん。
+いいところに来たわね」
+Shiho smiles like she's hiding something.
+I...
+A. Talk to her.
+B. Ditch her.

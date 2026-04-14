@@ -1,0 +1,10 @@
+（マルチ　回数イベント　学校を出る１）
+（選択肢Ａ　寂しくなるな…）
+"I had no idea... I'll really miss you..."
+I mumble.
+「…<name>さん」
+Multi sounds sad too.
+「…でも、<name>さんにそう言ってもらえて、わたし、嬉しいです」
+Multi grins.
+She seems so courageous.
+I gotta make sure I see her off tomorrow.

@@ -1,0 +1,41 @@
+（雅史回数イベント　３／１３　２Ｆ）
+（廊下１）
+（雅史　普通　０１）
+「<name>」
+"Got it."
+"Finals start tomorrow, huh?"
+「まあな」
+"How're you holding up?"
+「まあ、普通。
+お前は？」
+"Same here...I guess?"
+「お前の普通とオレの普通じゃ、全然基準が違うぜ」
+"Why? Because your grades are so much better than mine?"
+"Your sarcasm is NOT appreciated."
+I shrug.
+"I wasn't being sarcastic. Your grades really are better."
+"Haha, very funny."
+I scoff.
+「実際の点数が物語ってるだろ？
+　平均点はいつもお前のほうが断然上じゃねーか」
+「僕が言ってるのは『本気を出した<name>』のことだよ」
+"I'm always serious."
+"Not true. Like, remember the final push for the entrance exam? You
+did crazy well."
+"Oh yeah, I was kinda desperate though."
+「あれが本気を出した<name>だよ」
+"I must've burned half my life's energy to do what I did then.
+That's why I'm outta gas these days."
+"Masashi smiles wryly.
+"Get into serious mode once in a while, why don't you? Akari would
+like that."
+"If only it was as easy as getting into serious mode..."
+"You're only saying that because you're not really in serious mode."
+「わかった、わかった。
+いちおう肝に銘じておくよ」
+I replied evasively.
+"Okay, I gotta go to soccer now."
+"Yeah, see ya."
+"See ya."
+Masashi waves goodbye and turns around to walk down the hallway in
+the opposite direction.

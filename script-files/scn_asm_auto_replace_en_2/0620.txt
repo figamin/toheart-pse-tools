@@ -1,0 +1,89 @@
+（マルチ　エンディング）
+（４月２０日　日曜日　限定）
+（回数イベント４の長い版を見た）
+（かつ、好感度２０以上がのとき）
+（朝８時）
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+Ah...
+What is it?
+A phone...?
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+I shift my head from my pillow and look at the clock.
+What? It's still only 8 a.m.
+Who's calling me so early in the morning?
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+　いい。
+I'm ignoring it.
+I'll pretend I don't notice.
+They'll give up right away.
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+"Talk about stubborn.
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+Ugh, fine.
+Guess I'll pick up.
+*domphf, domphf, domphf, domphf*
+Geez, I bet we're the only family around who still keeps their
+phone by the front door.
+I wish we'd at least switch to a cordless phone.
+*riiiiiiiiiing*
+*riiiiiiiiiing*
+Yeah, yeah, I'm coming. You better not hang up.
+I'll be real mad if they hang up just before I get there.
+　オレは、気持ち急ぎ足で受話器を取った。
+「はい、<family>です」
+"Oh, um, hello?!"
+I hear a girl's voice on the other side.
+「おっ、おそっ、恐れ入りますが、<family>様のお宅でしょうか！？」
+「はい、そうですが」
+「<hira:1>っ、<hira:1><hira:1><hira:1><hira:1>、<hira:1>、<name>さんをお願いしますっ」
+Man, she sure is flustered.
+「<name>はオレですけど…」
+I answer.
+"Oh.
+　
+<name>さんですかっ！？」
+The voice on the phone brightens up immediately.
+Hm? Wait a second...
+That voice...
+"Is that you, Multi?"
+　受話器を強く耳に押し当てて聞く。
+"Yes, it's me! Multi!"
+She responds in an energetic voice.
+This voice is definitely Multi's.
+"Oh, so it IS you!"
+"...Aww, I'm thrilled that I get to speak to you again."
+"Me too. What's up? How've you been?"
+"I've been well, thank you."
+Of course she's been well. We only just spoke yesterday.
+That's a given.
+"Where are you calling from?"
+"The lab."
+"Huh.
+そうだよな、研究所がお前のうちなんだからな」
+"Not really...
+…あの、ところで、<name>さん？」
+"Hm?"
+"Do you have any plans today?"
+"Me? Plans?"
+"...Yes."
+Uh, do I have anything on today?
+"I've actually been given permission to leave the lab, but just for
+today."
+"Permission to go out? You must be pretty happy."
+"Yes, I'm absolutely thrilled. I've never been granted permission to
+leave before."
+She sounds genuinely happy.
+「それで、もし<name>さんさえよろしければ、いまからそちらのお宅におじゃまして、これまでお世話になったお礼に、なにかお手伝いのようなことができればと思うのですが」
+A. Sure. Come on by.
+B. You don't have to come to thank me.

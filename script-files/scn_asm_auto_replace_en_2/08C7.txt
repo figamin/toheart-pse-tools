@@ -1,0 +1,15 @@
+（レミィ　回数イベント　寄り道２　ＬＶ１）
+（選択肢　ひとりで帰る）
+"Sorry, Lemmy. Can we save the quiz for next time?"
+「テンプーラが──」
+　彼女は何かを言いかけて、やめた。
+"Hm? What did you say?"
+「ううん」
+Lemmy shakes her head.
+「<kata>、急いでるの？」
+"Huh? O-Oh, uh, yeah."
+「アタシはいいから、<kata>、急いで行って」
+"Y-Yes.
+じゃあな」
+"See you."
+I wave and run off.

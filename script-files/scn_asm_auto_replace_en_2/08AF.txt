@@ -1,0 +1,12 @@
+（レミィ　回数イベント　１階２　ＬＶ２）
+（選択肢　別れる）
+"Okay, see ya."
+I wave goodbye.
+「…うん」
+Lemmy responds with a little wave.
+「<kata>」
+Lemmy calls out to me just as I was about to walk off.
+"Hm?"
+"See you later."
+"Right on."
+We wave goodbye to each other once again and part ways.

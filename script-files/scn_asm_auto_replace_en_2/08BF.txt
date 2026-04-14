@@ -1,0 +1,20 @@
+（レミィ　回数イベント　学校外１）
+（選択肢　言ってみただけだ）
+"I only said that for kicks."
+"I see..."
+"That phrase about the fish and stuff means, 'you're beautiful,'
+right? I was just testing it out on you to see if it made sense."
+"No, no! It means 'you're so beautiful that you shine above all
+others.'"
+「へえ…」
+「<kata>も良い言葉、使うのね」
+"Well, uh... I guess I do sometimes throw in a proverb, or two."
+"Isn't Japanese culture so wonderful?"
+「そうだな」
+「他にも聞いていいよ、<kata>」
+"Nah, that's enough for today."
+「そう…」
+"See you later."
+"Okay, bye."
+...Now I know that weird line Shiho used on me is actually real.
+Ergh, where did she even learn a phrase like that?

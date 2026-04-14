@@ -1,0 +1,31 @@
+（智子　回数イベント　学校を出る　ＬＶ２）
+（選択肢Ａ　このオレについて来られるならな！）
+（選択肢Ａ　あかり、大丈夫か！？）
+（＋ａがある場合）
+（本屋）
+We have time, so Akari and I visit the bookstore.
+「<name>ちゃん、なにか欲しい本でもあるの？」
+"I want manga."
+"Seriously?"
+"What's wrong with manga?"
+「べつに悪いなんて…」
+"You might as well be. Look, manga is the most advanced medium of
+expression ever to be printed on paper. Looking down on it just for
+being fun is foolish."
+"They have to think about the story as they're putting it together,
+and they have to draw all the art too. Most people read manga
+casually, but it takes incredible talent and hard work to create."
+"Nothing.
+Seems like it."
+「ところでお前、『すすめの三歩』っていうマンガ知ってるか？
+　ボクシングのヤツ」
+"I've just heard the name."
+"Read it."
+"What?"
+"I'll lend you every volume, just take it all home. Read it and tell
+me what you think."
+"Uh, okay, sure. But how many volumes are there?"
+"Forty-seven so far. It's still running."
+"What?!"
+"Read all of it."
+「………」

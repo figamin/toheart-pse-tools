@@ -1,0 +1,12 @@
+（レミィ　回数イベント　１階２　ＬＶ２）
+（新学期が始まった時点で、カウントは２です）
+（下駄箱）
+I bump into Lemmy on the way to the shoe lockers.
+「いようっ！」
+「あっ、<kata>」
+She notices me and smiles.
+"On your way home?"
+「うん」
+　オレは──。
+Ａ　いっしょに帰ろうと誘う。
+B. leave.

@@ -1,0 +1,44 @@
+（レミィ　試験日帰り　ＰＳ）
+（テスト中のレミィが出ない日）
+（このイベントは、あかりとの勉強有り無しでメッセージの一部が変化します）
+（廊下）
+（あかりと勉強無しの場合の追加）
+Alright, what should I do when I get home?
+There is something pleasant about taking a moment to decide how
+I'll spend the evening once I get home.
+The only good thing about finals is getting to leave school early.
+I'm sure they let us go home early to study for our next exam, but
+I take it as an opportunity to chill out.
+If I have the time to spare then I'm going to make the most of it.
+...Should I go straight home or stop somewhere?
+Hmmm...
+...I should start by studying with Akari.
+　そのあとは──。
+「<kata>！」
+"Huh?"
+Someone calls out to me as I rack my brains.
+「<kata>、いっしょに帰ろ」
+"Oh, Lemmy? Sure thing."
+I nod.
+「あのね、<kata>」
+「なんだ？」
+"Everyone in the class is doing a blood type personality quiz."
+"Whoooa, what a rebel! We're in the middle of finals right now."
+"That's that—this is this."
+"I guess."
+"Have you heard of blood types having certain traits?"
+"You mean how A-types are serious and B-types work while watching
+TV? That kinda thing?"
+"Yeah! We use that to try to guess each other's blood types."
+"Hmmm, interesting. Try and guess my blood type then."
+This is way more fun than studying for my next final.
+"Okay, sure!"
+"How are you going to figure it out?"
+"Um, answer the following questions with what comes naturally to you."
+「おお」
+"Do you believe in ghosts?"
+"Ghosts?"
+A. I guess I do?
+B. That's stupid. I don't believe in them.
+C. I don't, but I find them interesting.
+D. I don't not believe in them.

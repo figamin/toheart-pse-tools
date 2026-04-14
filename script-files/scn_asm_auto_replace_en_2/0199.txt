@@ -1,0 +1,59 @@
+（あかり　回数イベント　学校を出る）
+A. Talk to her.
+"Hey, Akari."
+I call out to her.
+「あっ、<name>ちゃん」
+Akari turns around and smiles when she sees my face.
+"What are you looking at?"
+"Oh, these."
+　そう言って差し出したのは、英単語が書かれたカード帳だった。
+"Yeah...
+そういえば、あさってから学年末テストだもんな。
+がんばれよ」
+「<name>ちゃんもだよ。
+How are you not sure?"
+"Are those cards actually useful or what?"
+I ask as we walk.
+"Yeah, more useful than you'd think. Making the cards actually
+helped me memorize the words more than using them, though."
+"Makes sense that you would remember what you write."
+"We chat until we reach the base of the hill.
+"So how's it going with you? Have you been studying for exams?"
+"Barely."
+"You need to work on English every day, especially vocab. If you
+don't start studying early, you're not gonna do well."
+"When it comes to the vocab that shows up on tests, I pick it up
+naturally without trying."
+"Really?"
+"I already know plenty of English from song lyrics and product names
+and whatever."
+"But you don't always remember what those words mean, do you?"
+"I can more or less figure it out based on vibe."
+"Hmm...
+じゃあね、いまから私が英単語の問題を出すよ」
+"You're trying to test me?"
+"I-It's not like that..."
+"Just do it."
+"Yeah, bye.
+では、いまから言う英単語を和訳してみてください」
+"Hey."
+"'Exquisite.'"
+"Beautiful."
+"'Ebullient.'"
+"Enthusiastic."
+"'Annihilate.'"
+"Destroy."
+"'Converse.'"
+"Talk."
+"Ding, ding, ding, great job. I'm impressed."
+"Are you making fun of me? Those were all super easy."
+"Then here's another question. What letter is in all of the words I
+just mentioned?"
+"...Ahhh.
+　さっきの単語、もう一回」
+"Nope."
+"What?!"
+　くっ、答えはだなあ──。
+A. E, probably.
+B. A, I guess.
+C. K, maybe.

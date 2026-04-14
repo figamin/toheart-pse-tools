@@ -1,0 +1,82 @@
+（マルチ　好感度
+イベント　１）
+（好感度が　のとき）
+（３時間目の休み時間）
+（渡り廊下）
+　３時間目の休み時間。
+I spot Multi in the hallway.
+"Mr. Doggy! Oh, Mr. Doggy. Hello."
+"Woof!"
+"The weather's lovely today, isn't it?"
+"Woof!"
+"Do you like basking in the sun?"
+"Woof!"
+"Really?"
+"Woof, woof!"
+「うーん、ごいっしょしたいのはやまやまですが、わたしは授業があるからダメなんですよー」
+"Arooo..."
+　いっ、いぬと喋ってる！？
+　ま、まさか、ホントに言葉が通じてる──
+わきゃねーか。
+She's probably just guessing based on the dog's reactions.
+Man, she really is a pure and honest soul.
+　いぬ相手に敬語なんか使いやがって。
+　いや、でも、まあ、機械で出来たマルチにすれば、いぬも人間も自分たちロボットとは違う『生き物』なんだし、違いなんてないのかもしれねーな。
+"It's almost lunch time."
+"Woof!"
+"Are you hungry?"
+"Woof!"
+「そうですかぁ。
+うらやましいです。
+わたしはご飯が食べられないので、お腹も空かないんですよー」
+"Woof, woof!"
+"...What does getting hungry feel like?"
+"Woof!"
+"I'd love to know!"
+"Woof!"
+"By the way—
+今朝、バスで席をかわってあげたおばあさんに、クッキーをいただいたんですよー。
+わたしは食べられないので、犬さんにあげます。
+──どうぞ！」
+"Woof!"
+*munch, munch*
+"Is it good?"
+"Woof!"
+"Really? I'm so glad."
+*munch, munch*
+"Woof!"
+"I'm sorry...
+もうないんですよー」
+"Woof!"
+"Was it really that good?"
+"Woof!"
+「そうですかー。
+じゃあ今度また何かいただいたら、持ってきますね」
+"Woof!"
+"...Hey, Mr. Doggy?"
+"Woof!"
+"What does it feel like to eat something delicious?"
+"Arooo..."
+"I'm so jealous of you, Mr. Doggy."
+"Woof, woof!"
+She doesn't understand what it's like to eat something delicious,
+huh.
+"What does it feel like to be a robot?
+How do they feel when they watch us humans?
+"You moron.
+　ロボットなんて、プログラムどおりに動いてんだから、気持ちもなにもないだろう。
+It's not like they even have hearts to begin with...
+"But...I feel like Multi does have one...
+"By the way, Mr. Doggy."
+"Woof!"
+"Heeey! Multi!"
+"Multi hears my voice and looks at me.
+"Woof!"
+　と同時に、きちゃない犬がオレの足もとに駆け寄ってきた。
+「あっ、<name>さん！
+　こんにちはー」
+"Hey! You're as bubbly as ever today."
+"Great!
+　今日も元気ですっ」
+　その後、チャイムが鳴る１分前まで、オレはマルチとなにげないおしゃべりをした。
+　マルチはいつもどおり、明るく素直で前向きな、とてもいいヤツだった。

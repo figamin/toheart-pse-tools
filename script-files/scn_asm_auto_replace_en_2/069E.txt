@@ -1,0 +1,18 @@
+（マルチ　回数イベント　１階１）
+（選択肢　マルチと話し込む）
+"Hey, Multi?"
+"Yes, what is it?"
+"I'm no expert on robots, but is it normal for them to lose their
+breath and sweat?"
+"I'm not too sure about other robots, but I do because I've been
+created to be as human-like as possible."
+「ふ～ん」
+As human-like as possible, eh?
+It's true that she's almost identical to a human without those ear
+covers on her.
+I sometimes have doubts about whether she's really a robot or not.
+"Now I'm getting even more curious.
+I decide to ask Multi a question.
+A. What's your source of energy?
+B. What kind of computer is installed in you?
+C. What's the deal with your eyes and ears?

@@ -1,0 +1,16 @@
+（レミィ　回数イベント　１階３　ＬＶ２）
+（選択肢　「遠慮しとくぜ」）
+"Thanks, but no thanks."
+「どーして？」
+"I'm a pretty picky eater. Would you be able to cook something to
+satisfy my sophisticated palate?"
+I act a little pompous to toy with her.
+"Hehe... I have no confidence in my cooking or cleaning abilities."
+She laughs bashfully at her own shame rather than at my joke.
+"Now that's no good. A maid that's useless at household chores? Call
+the cops! We've got a scam artist here!"
+「ゴメンゴメン…。
+とにかく、<kata>のお手伝いがしたかったの」
+"I was THIS close to being fed something unimaginable."
+We continue to have fun chatting before parting ways at the station
+to head back to our respective homes.

@@ -1,0 +1,43 @@
+（レミィ　回数イベント　２階４　ＬＶ１）
+（選択肢　いっしょに帰る）
+「いいぜ」
+I nod.
+"Stupendous!"
+Lemmy claps her hands.
+...Is that a good thing?
+「<kata>」
+Lemmy says.
+「なんだ」
+「鞄取ってくるから、ちょっと待ってて」
+"Sure. Don't take too long now."
+「うん」
+Lemmy scurries off.
+「<kata>、クイズ、知ってる？」
+Lemmy asks just after we leave the shoe lockers.
+"A quiz like where you ask quick questions?"
+"Yes."
+"I mean, I don't really like or dislike them. Why do you ask?"
+"So, like, everyone in my class is into TV quiz shows so we all come
+up with our own original ones."
+There's a popular quiz show on TV right now. It's probably the same
+one I watch.
+"And?"
+"Well, I can't come up with many questions."
+"I see. So you want me to help you think of some questions?"
+「うん」
+"What are the questions like? I may not look it, but I'm pretty
+nitpicky when it comes to quizzes. I'll drop down to the level of
+you and your classmates to think of some questions for you."
+"Really?"
+"I could try. Throw a question at me."
+"Okay!
+　Ｗｅｌｌ──」
+Lemmy starts digging into her repertoire of questions.
+　そして、
+"Question one. What do you call the thing on a Buddhist altar that goes 'ding!' when you hit it?
+A. A Striking Bell. B. A Singing Bowl. C. A Ding-ding."
+That bowl thing you hit lightly when praying, right?
+　あれの名前は──。
+A. Striking Bell.
+B. Singing Bowl.
+C. Ding-ding.

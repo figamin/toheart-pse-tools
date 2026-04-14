@@ -1,0 +1,24 @@
+（綾香　綾香に挑戦　回数イベント５）
+（真っ暗）
+　公衆電話から、綾香の携帯にかける。
+*beep, beep, beep*
+「もしもし」
+「<name>だ。
+今日も頼まあ」
+"Got it."
+「ところで、今日が最終日よ」
+"I know that. Today's the day."
+"Oho? Someone's feeling confident."
+「まあな」
+I have no reason to feel confident.
+「………」
+「お待たせ」
+"No problem. Let's get started."
+　オレは上着を脱ぎ、足もとに置いた。
+"Serio, gloves please."
+「はい」
+Serio takes out the gloves from her bag.
+「どうぞ」
+"Thanks."
+I take them and put them on.
+Ayaka does the same.

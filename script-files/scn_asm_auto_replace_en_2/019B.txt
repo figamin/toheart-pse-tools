@@ -1,0 +1,18 @@
+（あかり　回数イベント　学校を出る）
+（Ａ　「ａ」だろ）
+"E, probably."
+I'm confident.
+Akari grins.
+"So? I was right, wasn't I?"
+"Yeah, that's right!"
+"You see now?"
+「さすがだね、<name>ちゃん」
+"You were just screwing with me with that question. That's not gonna
+be on the test, is it?"
+"I don't think so."
+「………」
+「………」
+「あかり」
+"Hm?"
+I reach out and flick her playfully on the side of the head.
+「あっ；」

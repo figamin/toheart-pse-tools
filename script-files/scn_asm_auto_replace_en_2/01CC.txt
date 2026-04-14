@@ -1,0 +1,10 @@
+（あかり　回数イベント　１Ｆ）
+（５月２日）
+（１Ｆ廊下）
+I walk down to the first floor.
+「<name>ちゃん」
+Akari catches up from behind and walks in front of me.
+"What? Need something?"
+「いま、暇？」
+Ａ　ああ、暇だけど…？
+B. I'm busy.

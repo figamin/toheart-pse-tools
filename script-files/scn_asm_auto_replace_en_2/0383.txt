@@ -1,0 +1,39 @@
+（智子　回数イベント３　学校を出る　ＬＶ１）
+（３月）
+（下駄箱）
+I put my shoes on and am about to leave the building when...
+「<name>」
+Someone suddenly calls my name from behind.
+"I turn around and see Masashi.
+"You're alone?"
+"I guess..."
+「じゃあ、いっしょに帰ろうよ」
+「いいけど、お前、部活はいいのか？」
+"I wanted to go home and grab some clothes first."
+"Oh."
+"One sec."
+Masashi grabs his shoes from the shoe rack and puts them on.
+The long shoelaces make them look annoying to wear.
+"These shoes are a pain to put on."
+"Then get something more simple. Those don't really work in Japan
+when we have to take our shoes off and then put them back on all
+the time."
+"Haha, maybe you're right."
+Masashi ties his shoes as he laughs.
+"Man, hurry up."
+I go outside before he finishes.
+Then, I wait for a minute.
+　短い時間だが結構長く感じる。
+"Hey, you ready yet?!"
+「もうちょっと──」
+I'm getting kind of fed up.
+At last, he finishes tying his shoes and stands up.
+He walks toward me.
+Man, he took forever.
+Alright, I'm gonna get him back a little.
+　オレは柱のかげに隠れ、様子をうかがった。
+I hear his footsteps grow closer.
+Three, two, one...
+Alright.
+A. Shout to startle him.
+B. Karate chop!

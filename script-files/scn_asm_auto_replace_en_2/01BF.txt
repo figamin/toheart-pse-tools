@@ -1,0 +1,153 @@
+（あかり　回数イベント　学校を出る）
+（選択肢Ａ　たまにはいいか）
+"Well, I guess cake could be alright once in a while."
+"Yeah, it's fine once in a while."
+「誘ったからには、お前のおごりだな」
+"Aw, what?"
+That was when Shiho showed up.
+"Oh, there you are. Sorry, Akari, were you waiting a long time?"
+"Shiho, what took you so long?"
+"Well, I'm very popular. The people just wouldn't let me leave."
+"Bah, as if you're that popular."
+"Oh, if it isn't the supreme commander of the Go-Straight-Home Club?
+You're here too?"
+"Why shouldn't I be, supreme commander of the Go-Make-A-Detour Club?"
+"You made that club up!"
+「そりゃこっちのセリフだろ！」
+"Aw, are you two arguing again already?"
+Akari mumbled, smiling wryly.
+「それより志保、<name>ちゃんにケーキの話をしたら、いっしょに食べに行きたいって」
+"What?
+　
+あんたも？」
+「おい、こら、誤解されるような言い方すんじゃねーよ、お前が強引に誘ったんだろ！？」
+"Well, sort of, but..."
+"You're making it sound like I was desperate to go. What do you
+think I am? A cake freak?"
+"But it's not like you hate sweets, right?"
+「そりゃまーな。
+──って、そんな問題じゃねーんだよ！」
+「まあまあ、べつに甘い物好きだからって、恥ずかしがることないよ」
+"Are you listening to me?!"
+"Ah!"
+「………」
+「だいたい、お前は昔っからな──」
+「ごっ、ごめ～んっ、<name>ちゃん──」
+「………」
+「人の話を聞いてるような顔して聞いてねーときが──」
+"Ah!"
+"What's with the shouting, Shiho?"
+"What's wrong?"
+"I just remembered I've got something urgent to take care of!"
+"Something urgent?"
+"Yep, sorry. I can't go with you guys."
+"Aw, really?"
+"I've got such a packed schedule that I tend to forget things."
+「いいかげんなやつだな…」
+"Well, sorry, you'll have to hang out with this loudmouth instead."
+"Loudmouth? Who are you to talk?"
+"I can say whatever I want! You're not the boss of me!"
+"Ugh, fine, just quiet down."
+"See you later!"
+Shiho leaves.
+"So what is it that she needs to do?"
+"I dunno..."
+"How about we follow her and find out?"
+"What?"
+"You want to know what she's doing too, right?"
+"Um, but I think that'd be wrong."
+"Do you want to go or not? I'm going."
+「あっ、待ってよ、<name>ちゃん！」
+"Doesn't seem like she's in a hurry."
+「<name>ちゃん、もうやめようよ」
+「うるせーな、この真面目っ子がー。
+嫌ならお前だけ帰ってろよ。
+じゃーな」
+"Ah!"
+"What's she just wandering around for?"
+"Maybe she's just killing time waiting for someone."
+"Maybe."
+"What is it?"
+「………」
+「………」
+「なんだかんだ言って結局来てんじゃねーか。
+お前も野次馬だねぇ」
+"Oh, uh..."
+"She's going to the arcade now?"
+"She's trying to win a plushie."
+「………」
+「………」
+「はっ、下手くそめ、落っことしやがって」
+"She's hitting the machine... The staff is gonna get mad at her!"
+"Looks like she's trying again. She's wasting her money. Some
+machines are just rigged."
+"But Shiho's surprisingly good at those games."
+"How? She can't focus on anything."
+"Look, she got it!"
+"Well, that'll happen if you try enough times."
+"Oh, she's going inside."
+"Alright, let's go in too."
+"Huh?"
+"What are you confused about? This is when we really get started.
+Maybe she's meeting up with her boyfriend in there or something."
+"Then we should really leave her alone."
+"You can do that. I'm going in."
+"Oh, w-wait."
+「………」
+「ねえ、<name>ちゃん」
+"Where'd she go?"
+"I still think this is wrong."
+「べつに犯罪やってるわけじゃねーだろ」
+"We're invading her privacy."
+"It's okay.
+あいつにはそれを言う資格はない」
+"Hey, what's the big idea?"
+"Ack."
+"Shiho..."
+"What are you two doing? Weren't you gonna get cake?"
+Shiho says, clearly fed up with us.
+「そりゃこっちのセリフだぜ。
+お前こそ急用なんじゃなかったのか？」
+"Y-Yeah, I do."
+"Haha, what? Getting that plushie?"
+"Do you have a problem with that?!"
+「べ、べつに悪かねーけどよ。
+なに、むきになってんだ」
+"I'm not mad."
+Could it be...?
+　急用なんてのはただの嘘っぱちで、じつはオレたちに気をつかったつもりなんじゃ。
+Hah, I see.
+That's dumb.
+"Then did you do what you needed to do?"
+"What?"
+"I'm just asking if your business is taken care of."
+"I guess so."
+"Then how about we go get some cake?"
+"You highly recommend this place, and you're pretty in the know
+about these things, right?"
+"Yep, it's delicious!"
+「ここはひとつ、お前の舌を試してやるよ。
+期待はしてねーけどな」
+"Well, you're not gonna like it if you have bad taste."
+"We'll see."
+"Whatever. Anyway, since you're begging me to go, you're gonna pay,
+right?"
+"What?!"
+"Well, you invited me, Shiho. That means you're paying for mine."
+"And you're paying for mine, Akari."
+"If I'm not paying, I think I'll try the most expensive thing
+they've got."
+"Me too!"
+「じゃあ、オレはそれをふたつ食うぞ」
+「それに、いっちばん高いドリンクもプラスして──」
+"Me too."
+「よーし、そんじゃオレは、それにくわえてさらにだな──」
+"Actually, I'm pretty tight on cash this month. Do you mind paying
+for yourself?"
+"Sure."
+「…だな」
+And so, the three of us go and get cake.
+　味のほうは──。
+Although I try to hide my reaction from Shiho, Akari's able to
+figure out that I like the cake.
+I'd be willing to go back.

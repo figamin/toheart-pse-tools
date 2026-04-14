@@ -1,0 +1,20 @@
+（あかり　回数イベント　２Ｆ）
+（３月３日）
+（廊下１）
+Whew, another day over and done with.
+I leave the classroom and stretch.
+Then, I feel someone tug at my jacket.
+I turn around.
+「<name>ちゃん」
+Akari smiles.
+「なんだ、お前か」
+「<name>ちゃんもいま帰り？」
+"I mean, yeah.
+お前は？」
+「私もいま帰るとこ。
+ちょうど教室を出たら、<name>ちゃんが出てくるのが見えたから。
+ね、せっかくだし、いっしょに帰ろう？」
+　あかりといっしょにか。
+　そうだな──。
+A. Sure.
+B. Sorry, I'm busy.

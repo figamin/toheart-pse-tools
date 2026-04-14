@@ -1,0 +1,12 @@
+（レミィ　回数イベント　１階３　ＬＶ２）
+（下駄箱）
+　下駄箱に向かっていると、レミィの後姿を見つけた。
+I get closer and call out to her.
+「いようっ！」
+「あ…、<kata>」
+"Are you on your way home?"
+「うん。
+<kata>もいっしょに帰ろ」
+　オレは──。
+A. Sure.
+B. Sorry, not today...

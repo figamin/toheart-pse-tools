@@ -1,0 +1,79 @@
+（綾香　綾香に挑戦　回数イベント４　後半）
+（綾香　左　普通）
+"Well then, shall we begin?"
+「ああ」
+"Serio, gloves."
+「はい」
+We take our gloves from Serio and put them on.
+"Today's match is our fourth one. Easy victories for me so far, but
+I'm starting to feel the danger."
+"What was that? Already making excuses for your eventual defeat?"
+"On the contrary! I'm just saying it's about time I started getting
+serious too."
+「………」
+　おい、ちょっと待て。
+"You were just playing with me all this time?"
+「べつに遊んでたわけじゃないけど、本気でやってたわけでもないわ。
+余力を残しつつ、それなりにやってたの」
+"'Some' effort, she says..."
+「でも最近の<name>の上達ぶりには目を見張るものがあるわ。
+もう『それなりに』だなんて言ってられなくなってきたの」
+"You don't say."
+Ayaka clenches her fists tightly.
+"And that's why I'll be quite a force to be reckoned with today."
+I grin confidently.
+"Just the way I want it!"
+Not really, but still.
+"Okay then. Serio, you're up."
+"Yes. Let us begin."
+Serio is the referee. She steps forward.
+「レディ──」
+「………」
+「──ファイト」
+*whoosh*
+"!!"
+An inside step and right hook right off the bat!
+I sway backwards in that instant,
+barely managing to evade the attack.
+　なんだ！？
+Her offensive style is completely different today.
+　これが──。
+*whoosh*
+Her lightning fast jab gives me no time to think further.
+*whoosh, whoosh*
+Now a two-hit combo!
+I step to the right to avoid it.
+"Good, you've improved!"
+"I've been practicing!"
+Otherwise, I'd be kissing the ground by now.
+"I'm still going!"
+I wish I can tell her not to.
+*whoosh*
+I evade her jab...
+　バシッ、
+バシッ！
+Block her two-hit combo...
+　ビュッ──パシッ！
+And parry her follow-up jab!
+I counter with my own two-hit combo.
+　バシッ、
+バシッ！
+　あっ！？
+　やった！
+For the first time ever, my punch connects!
+I made her block!
+But she quickly moves away after that and keeps her distance.
+She is great with footwork.
+She has the explosive strength of a close combat expert and the
+speedy footwork and level-headedness of a long-range combat expert.
+She has it all.
+It feels like she has no flaws I can exploit.
+But!
+Nobody's perfect!
+Maybe she's a Jack of all trades, master of none.
+Ayaka is trying to make this a long-range fight by keeping her
+distance from me.
+Now, how should I respond?!
+A. Go for close combat.
+B. Go for long-range combat.
+C. Stay away from ranged and only go for close combat.

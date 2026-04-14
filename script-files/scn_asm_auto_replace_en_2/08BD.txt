@@ -1,0 +1,18 @@
+（レミィ　回数イベント　学校外１）
+（選択肢　声をかける）
+　志保はオレに嘘の言葉を教えて、後でバカにしようと企んでるのかもしれない。
+I decide to approach Lemmy and ask her what the shady phrase Shiho
+taught me means.
+"Yo, Lemmy."
+「はい？
+　…あっ、<kata>」
+"Lemmy, you have a beauty that humbles nature itself—fish sink,
+geese falter, the moon veils itself, and flowers bow.."
+I say out of nowhere.
+「<kata>、お上手ネ」
+Ooh, that makes Lemmy blush.
+Looks like she understands what I said.
+　そこで、オレは──。
+A. Keep flattering her.
+B. Say,"I just said it for kicks.""
+C. Ask, "Did you understand that?""

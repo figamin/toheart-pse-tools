@@ -1,0 +1,10 @@
+（芹香　回数イベント　１Ｆ　ＬＶ１）
+（選択肢Ａ　こづかい、いくらもらってんの？）
+"How big is your allowance?"
+I ask.
+"You probably get a lot, right?"
+"Oh, there's no set amount? You just pay for everything with a card?
+Huh, that's like having infinite money."
+Well, I guess that's to be expected.
+Trying to spend less on food to save spending money is something
+only commoners have to worry about.

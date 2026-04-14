@@ -1,0 +1,165 @@
+（マルチ　日付イベント３）
+（４月１５日の夕方）
+（ゲーセン）
+　その日の帰り、オレはゲーセンに寄って、ぶらぶらと暇をつぶした。
+After playing for a bit and using up all of my coins, I leave the
+arcade and notice a familiar face on the way to the bus stop.
+　その日の帰り、オレはゲーセンに寄って、ぶらぶらと暇をつぶした。
+After playing for a bit and using up all of my coins, I leave the
+arcade and notice a familiar face on the way to the bus stop.
+Those distinct ear covers.
+That tiny body which you wouldn't think belongs to a high-schooler.
+It's Multi.
+"Hey, Multi!"
+"Multi hears me call out to her and looks my way.
+「あっ、<name>さん！」
+She looks at my face, beams, and then jogs over to me.
+"Hey, what's up? On the way home?"
+"Yes, I was waiting for the bus."
+"The bus? You take the bus to school?"
+"Yes.
+ここから出るバスは、来栖川電工の研究所に直通してるんです」
+"Oh, so you always go home to the lab?"
+"...Yes?
+来栖川中央研究所、第７研究開発室ＨＭ開発課が、わたしのお家です」
+「…ふ～ん」
+Just then...
+"Hm?"
+I notice an unfamiliar face standing next to Multi.
+"Hm? Who's this?"
+The high-school girl in uniform next to her has the same large ear
+covers.
+That must mean she's one too.
+"Oh, this is..."
+「ＨＭＸ１３型、通称セリオです。
+よろしくお願いします」
+The girl who calls herself Serio gives a slow and polite bow.
+There's no doubt about it. She's a Robomaid, just like Multi.
+「マルチの友だちか？」
+I ask.
+"Yes, it is.
+お友だちですし、わたしとは姉妹みたいな関係でもあるんです」
+Multi answers.
+"She's wearing the Terajo Academy uniform..."
+"Yes.
+セリオさんは西音寺女子学院のほうでテスト通学してらっしゃるんです」
+"Wow, that prestigious girls' high school?"
+"Right...
+優秀なセリオさんには、イメージもピッタリだと思います」
+"I didn't know there were other Robomaids attending schools for
+testing too."
+"...Yes.
+なんでも学校は、総合的な社会への適応能力の試験場として、最も適した場所…
+らしいですから」
+"I guess that makes sense."
+"The engineers told us to talk to and be of help to many people.
+They said there would be plenty of people in schools who would give
+us various tests."
+"I see."
+「──で、今回はわたしと、同時開発されたセリオさんが学校へ通っているわけです」
+"She was developed at the same time as you? Ohhh, so that's why
+you're sisters."
+"What?
+でも、同時開発されたとは思えないくらい、彼女のほうがすごいんですよ」
+"What makes her so good?"
+"Okay!
+なんといってもセリオさんの最大の特徴は、人工衛星から──
+U-Uhhh..."
+"I am able to receive signals from satellites."
+Serio explains..
+"What does that mean?"
+"It's a service that allows me to receive data from Kurusugawa's
+massive database via satellites and add it to my memory."
+"And what about that feature is so impressive?"
+"By receiving data from satellites, Serio can become a professional
+at a range of occupations in no time."
+"What do you mean?"
+"Say a user would like me to cook something for them. I can search
+for it straight away and receive the recipe data via satellites.
+That would make me capable of cooking that dish at the level of a
+top-class restaurant."
+"Interesting."
+"Kurusugawa's database has approximately 8,000 recipes from 120
+countries around the world stored in it, and that is merely the
+cooking section alone."
+"So just having Serio in your home would mean that you don't have to
+go to an expensive restaurant."
+"Now that's impressive."
+"There are other uses too. She could receive studying data to become
+a super top-class tutor, or you could ask her to go shopping for
+you and she can get everything by taking the most efficient route."
+"Whoa, that's amazing. She's rendering all the Robomaids of the past
+useless."
+"...That's right. Compared to Serio, I'm useless. I'm hopeless at
+cooking, and I get lost if I'm sent out on an errand.
+Serio would never have to call from the station to get a lab worker
+to come pick her up..."
+Serio pats Multi on the shoulder when she starts to speak
+negatively about herself.
+"A friendship blossoming between two robots, huh.
+"That's why Serio was the robot who garnered the most attention at
+the Robot Show this spring."
+"Wow. So why are you being tested at the same time as Serio, who you
+say is such an amazing robot?"
+"The better, more capable robot out of us two will become the next
+flagship product."
+"Which means you and Serio are rivals then?"
+「そうですけど、でもやっぱり、ライバルというよりはお友だちです。
+開発の上ではそうなのかもしれませんけど」
+「友だちでもあり、ライバルでもあるか…。
+なかなかいい関係じゃねえか」
+"But Serio is the better robot no matter how you look at it. I'm
+just..."
+"No, I think you're plenty good.
+The Haruki family in my neighborhood have a Robomaid of their own.
+It's one of those super early models, and it looks like a box with
+wheels. Really clunky."
+"That must be one of my predecessors. What is it like?"
+"It's an early model, so it doesn't have many functions and always
+messes up. Mrs. Haruki yells at it all year round."
+"When it apologizes, it says, 'I AM VERY SORRY' in a really robotic
+voice. Although, that just ends up infuriating her even more.
+Apparently she kicks the crap out of it every day."
+"...Th-That's not true."
+"Then its self-defense function kicks in and it says, 'PLEASE STOP
+IMMEDIATELY.' She hates it when it says that, so she just ends up
+kicking it even more."
+"Th-That's horrible."
+"It says 'PLEASE STOP IMMEDIATELY' with every kick, so she gets
+angrier and angrier, and kicks it again. Then it says 'PLEASE STOP...
+'—it's an endless cycle."
+「…あうぅ；」
+"But the robot's sturdier than a boulder. Its body is all beat-up,
+but it still runs like clockwork.
+She can't bring herself to throw it away because she's still paying
+off the 8-million-yen loan she took out to buy the thing—and that
+really ticks her off. You're super-advanced compared to that thing."
+"...O-Oh my goodness. I'll try harder. I'll do my very best, so
+please don't treat me roughly."
+"M-Multi...?"
+Without me even realizing it, Multi starts to cry. She sniffles and
+heaves.
+"Hey, I didn't mean you'd end up like that. I was just telling you
+about other robots out there to make you feel better and prove that
+you're not useless..."
+"*sniffle*"
+"A-And, you know what? Despite how she treats it, Mrs. Haruki
+actually gets along with the robot pretty well."
+"R-Really?"
+"Uh-huh!
+だから、もう泣くなよ」
+"Y-Yes?!"
+・
+・
+・
+・
+・
+Not long after, the bus arrives, and the two robots hop on to head
+home to the lab.
+Something about seeing two robots happily going home together
+brings a smile to my face.
+As a person observing from the outside, they look like an honor
+student and dunce duo.
+"Heh..."
+Multi really does seem more like a human than Serio, though.
+Maybe she's the latest model in that regard?

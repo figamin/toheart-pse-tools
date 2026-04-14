@@ -1,0 +1,26 @@
+（あかり　回数イベント　２Ｆ）
+（４月２２日）
+（廊下）
+It's pretty hot today.
+Most people aren't wearing jackets.
+But the rain from earlier helps to make the weather a little more
+bearable.
+I'm nearing the stairs when...
+「あっ、<name>ちゃん」
+Akari happens to walk over.
+"Hey."
+"Are you heading home?"
+"Mm-hmm...
+お前は？」
+"So am I, but I wanted to go up to the roof for a bit first."
+"The roof?"
+「ちょうどよかった。
+<name>ちゃんも、いっしょに行こ？」
+"Wha?
+　なにがあるんだ」
+"Hehe.
+それは行ってのお楽しみ」
+Akari seems amused.
+What should I do?
+Ａ　いっしょに屋上へ行く。
+B. Go home.

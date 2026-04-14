@@ -1,0 +1,15 @@
+（志保　回数イベント　ＰＳ）
+（選択肢　それはだな）
+「それはだな…、べつに意味はねえ」
+"What the heck? Then quit hurrying."
+"If I don't have other plans, I don't want to waste my free time."
+"Huh, so we've both got free time. Then we should hang out."
+"Where do you want to go?"
+"Hmmm, wanna see a movie?"
+"A movie? I haven't seen one in a while."
+「ところであんた、どんな映画が好み？」
+「オレか？
+　オレは──」
+A. Action.
+B. Comedy.
+C. Horror.

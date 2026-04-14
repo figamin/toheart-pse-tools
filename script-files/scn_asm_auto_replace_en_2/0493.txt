@@ -1,0 +1,32 @@
+（志保　回数イベント　１階２）
+（選択肢　いいぜ）
+"Sure.
+It's not like I have anything better to do."
+"What is it?
+じゃあ、行こ」
+「いよっ、<nick>」
+We encounter Shiho by the shoe racks.
+"What?"
+"Wanna go to the shopping arcade with me? Wait, you're heading out
+too, Akari?"
+"Yeah?
+Really?"
+"Then maybe we can all go."
+"I need to head straight home."
+"What, so you can't go? Sorry, Shiho, but we can't hang out today."
+「いいの、<name>ちゃん。
+志保につき合ってあげて」
+All of a sudden, Akari is telling me to spend time with Shiho.
+"Why?
+オレはお前と帰るって言ったぜ？」
+「あらら、<nick>、あかりと帰るんだぁ」
+「志保、私はいいから、<name>ちゃんといっしょに行って」
+It's like Akari is trying to be considerate of Shiho's feelings.
+"...Hmmm.
+どーする？
+　
+<nick>」
+　オレの答えは──。
+A. I'm going to leave with Akari.
+B.  I'm going to leave with Shiho.
+C. Pass on both

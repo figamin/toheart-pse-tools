@@ -1,0 +1,22 @@
+（マルチ　回数イベント　２Ｆ　ＬＶ４）
+（選択肢ＡＢＣ　の続き）
+（駅前）
+*vrooooom*
+And before long, her bus arrives.
+It stops in front of us and opens its doors.
+「…<name>さん」
+"Take care, Multi."
+I said.
+「はい」
+Multi nods with her usual perky energy.
+「<name>さんもお元気で。
+お体にお気をつけて」
+"Yeah."
+Multi bows deeply and then gets onto the bus with Serio.
+*vrooooom*
+The bus slowly starts to drive away.
+「マルチ」
+『<name>さん、さようなら、お元気でー！』
+Multi presses herself against the rear window of the bus. Tears
+stream down her face as she continues to wave until I can no longer
+see her.

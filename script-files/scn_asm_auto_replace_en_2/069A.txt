@@ -1,0 +1,21 @@
+（マルチ　回数イベント　２Ｆ　ＬＶ４）
+（選択肢Ｂ　もう一度、頭をなでた）
+"Multi, come over here."
+"Multi does as I say and comes over to me.
+"We still have a bit of time left until the bus arrives, right?"
+「はい」
+"Then how about I stroke your head again?"
+「えっ？」
+"Go on now."
+*sst, sst*
+I stroke Multi's head.
+「…<hira:1>、<name>さん」
+*sst, sst*
+"...If only the bus could be a little late for once.
+I think to myself.
+Then I'll be able to stroke Multi's head like this for a little
+longer.
+*sst, sst*
+「
+…………
+」

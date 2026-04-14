@@ -1,0 +1,16 @@
+（マルチ　回数イベント　学校を出る１）
+（選択肢Ｂ　なんとかならねーのか？）
+"Tomorrow's your last day? No... C-Can't we have a little longer
+together?"
+The revelation is so sudden that I can only muster a feeble stutter.
+「…<name>さん。
+お気持ちは嬉しいです。
+でも、最初から決まっていたことですから。
+…すみません」
+「そう…
+か」
+　そうか。
+　そうだよな。
+Then...
+Then I gotta at least make sure I give her a happy send-off
+tomorrow.

@@ -1,0 +1,26 @@
+（マルチ　回数イベント　帰り道）
+（選択肢ＡＢＣの続き）
+（ゲーセン前）
+　ゲームを終えて店を出ると、ちょうど例の友だちロボット、セリオがやってきた。
+"Oh, Serio..."
+「お待たせしました、マルチさん。
+どうも、こんにちは、<name>さん」
+"Hey."
+「<name>さん。
+今日はありがとうございました。
+とっても楽しかったです」
+"Yeah.
+また今度いっしょに遊ぼうな」
+「はいっ」
+*vrooooom*
+Then, the bus arrives.
+It opens its doors with a hydraulic hiss.
+「<name>さん、それでは、また」
+"Hey!"
+She waves at me with a smile and then hops onto the bus.
+「さようなら、<name>さん」
+"See you."
+*vrooooom*
+The bus drives away with the two robots on it.
+Multi sits at the back of the bus and waves at me with a smile from
+the window.

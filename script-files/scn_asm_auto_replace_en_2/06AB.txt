@@ -1,0 +1,14 @@
+（マルチ　回数イベント　学校を出る）
+（４月１８日）
+（下駄箱）
+I spot Multi at the shoe lockers changing into her regular shoes.
+I approach her to talk.
+「よっ、マルチ」
+「あ、<name>さん、こんにちは！」
+Multi responds with her usual bright smile.
+"Heading home now?"
+「はい」
+Multi nods.
+　そうだな──。
+Ａ　いっしょに帰ろうぜ、と誘う。
+B. Say goodbye and leave.

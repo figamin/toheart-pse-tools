@@ -1,0 +1,27 @@
+（志保　回数イベント　１階３）
+（選択肢　話す）
+"Hey."
+I approach her.
+「おっ、<nick>じゃん」
+She answers with an impish grin.
+"On your way home?"
+"As you can see, yeah."
+"Then I'm not gonna head home."
+"Oh, c'mon."
+"What? Want to walk home with me?"
+"I'm commanding you to walk home with me, actually."
+"Man, this is ridiculous..."
+But I have no reason to say no, so I decide to walk with her.
+"So, it's been about three weeks since the school year started.
+How's your new class?"
+「べつに…。
+雅史はいっしょだし…、一年のときと変わらねえな」
+「あかりもいっしょになったでしょ」
+"Let's see...
+あいつとは、ほとんど毎日顔を合わせてるから、クラスなんて関係ねえよ」
+「みんないっしょで、嬉しい？」
+"Masashi, Akari, and I?"
+"Yup."
+Yeah...
+A. I'm not glad.
+B. Maybe I'm a little glad.

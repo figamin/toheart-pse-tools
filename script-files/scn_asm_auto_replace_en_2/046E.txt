@@ -1,0 +1,23 @@
+（志保　回数イベント　ＰＳ）
+（選択肢　話し込む）
+"So what were you actually reading?"
+"Want to know?"
+"Yeah, tell me."
+"It's a magazine about cars."
+「へえ…お前、女のくせに車に興味あんのか」
+"You're really sexist, y'know that?"
+"You can't call me sexist over that. Most guys would think the same
+thing."
+"Oh, I see.
+…じゃあ、あたしは女のくせに車に興味があるヤツね」
+"Really, though?"
+"Yeah, really."
+"Hmph, so why are you reading about cars? You've started wanting
+one?"
+"Well, pretty much."
+"What kind of car?"
+「もち、真っ赤な──」
+I imagine what she'll say next.
+Ａ　ポルチェ。
+Ｂ　フラーリ。
+C. Corulla.

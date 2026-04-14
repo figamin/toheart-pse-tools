@@ -1,0 +1,131 @@
+（マルチ　回数イベント　学校を出る）
+（選択肢Ａ　いっしょに帰ろうぜ、と誘う）
+「オレもこれから帰るとこだし、よかったらいっしょに帰ろうぜ」
+I ask.
+"Oh, yes, I'd love to."
+Multi agrees without hesitation.
+Just as we leave the school, she pipes up.
+「あの、鞄、お持ちしましょうか？」
+「あん？
+　いいよ、べつに。
+んなことしなくても」
+I decline her without a second thought.
+"...Are you sure?"
+Multi looks sad for some reason.
+「どうした？」
+"...I-It's nothing. Oh! Is there any other way I can be of use to
+you?"
+「べつにないな」
+「そうですか…」
+"Are you really that eager to be useful to others?"
+"Yes! I'm a Robomaid, so it's my calling in life to be of use to
+everyone."
+"Your calling in life, huh..."
+「やっぱり、鞄、お持ちしましょうか？」
+「まあまあ」
+I say with a wry smile.
+「好意は嬉しいけどさ、ロボットでもマルチは女
+の子だろ？
+　鞄を持たせたりするのは、ちょっと
+なぁ…」
+「…えっ？」
+"And it's weird for a student to hold another student's shoes, you
+know?"
+"I-Is that really so?"
+「そうそう」
+「…ですけど、わたしは生徒以前にロボットですし、とくに<name>さんにはご恩もありますから、こんなつまらないことでもいいから、お役に立ちたいんです」
+"That sentiment alone is enough."
+*sst, sst*
+I stroke Multi's head.
+「…あっ；」
+Multi's cheeks turn bright red in an instant.
+　暑いくらいの陽気に包まれた坂道をマルチといっしょに歩く。
+I glance over at Multi and notice that she's doing her best to keep
+up with my pace.
+I chuckle, and just as I'm about to slow down for her...
+"Ah!"
+Multi trips.
+"Whoa!"
+*fwomphf*
+I reach out and catch Multi right before she falls.
+"S-Sorry! I-I'm always so clumsy..."
+"Seriously, what did you even trip on? We can't have you hurting
+yourself now."
+"Oh, you don't have to worry about that. I'm actually more
+heavy-duty than I appear."
+That wasn't exactly what I was getting at...
+"I'm very sorry for causing you concern."
+"You should be more careful from now on."
+「はい。
+わかりまし──
+Oh."
+"H-Hey!"
+*fwomphf*
+I reach out quickly and, once again, catch Multi right before she
+falls.
+"C'mon now, get a hold of yourself."
+"I-I'm sorry. You literally just told me to watch out, and I did it
+again..."
+"I-I guess today's just one of those days."
+"Aww, why am I... Why am I..."
+"Don't let it get to you so much. You managed to not fall both times
+so you're fine."
+"Y-Yes..."
+"Anyway, let's go."
+「はい…」
+We pull ourselves together and set off again.
+She's so clumsy.
+Which means that there's probably another...
+「──あっ！」
+Right on cue!
+*shwoop*
+「えっ！？」
+I embrace her just before she loses her balance.
+"Whew..."
+"U-Um..."
+"Are you okay, Multi?"
+"Oh, um, wha?"
+Multi, who I'm cradling in my arms, blinks in confusion.
+"U-Uh, what exactly happened? How did I end up in this position?"
+"You were about to fall, no?"
+「えっ？
+　い、いえ、べつに」
+「だって、いま、『──あっ』って…」
+"Oh, that? It was because I noticed a cat over there."
+「ネ、ネコ？」
+「はい」
+I look over and there is, indeed, a somewhat dirty, white cat.
+Our eyes meet and it quickly scurries away.
+"Way to confuse me."
+"S-Sorry..."
+We set off again.
+I match Multi's pace and walk slowly.
+The way home is nothing out of the ordinary.
+But Multi seems happy.
+"After a bit of walking, I break the silence.
+"Hey, Multi?"
+「はい？」
+「今度、暇なときにでも、どっかいっしょに遊びに行かねーか？」
+I ask her with a smile.
+"Together? With me?"
+"I don't see anyone else here."
+"B-But..."
+"We could go to an amusement park and really have a blast until the
+sun goes down."
+「…<hira:1>、<name>さん」
+"What...?"
+And then...
+"Aww, yes! I would absolutely love to!"
+Multi exclaims, so happy that there are actual tears in her eyes.
+"But..."
+In the next instant, she sounds solemn.
+"But."
+"...Tomorrow is my last day at school."
+"What? S-Seriously?!"
+"Yes. I was only ever scheduled for an eight-day stint at school for
+testing."
+A sad smile spreads across Multi's face.
+I can't help but say...
+A. I'll miss you...
+B. Can't we change that?
+C. I see. That's a shame.

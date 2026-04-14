@@ -1,31 +1,20 @@
 # ToHeart PSE Tools
 Tools for modifying the script, executable, and assets (planned) of ToHeart PSE (2003)
 
+## NOTE:
+
+This project has been completely overhauled thanks to the [VNLocalization](https://github.com/icey9527/VNLocalization) project. Previous work relying on the [the 97 fantl project](https://github.com/waybeforenow/toheart-tools/tree/master/PSE) tools has been moved to the "legacy-tooling" branch.
 ## Script
-Progress: <1% done (0/1168)
-Note that not all script files have actual text and the script files themselves are of varying length so this percentage is likely lower than what is actually done.
+Progress: Soon!
 
 The ToHeart PSE script is stored as a series of .DAT files wrapped up in **scn.pak**.
 The **extract** and **pack** utilities from [the 97 fantl project](https://github.com/waybeforenow/toheart-tools/tree/master/PSE) are used to access the individual .DAT files. Each .pak file has eight bytes to spell out "LEAFPACK" followed by a 233 byte rotating key.
-The main utility for this is **dat_text_replacer**, which correctly formats text into the expected format:
 ### PSE script details
 Each DAT file stores control commands and text data as one long stream, with all displayed text data stored as CP932 encoded full width (zenkaku) with the bytes flipped. For example, Ａ (full width A) with the hex code 0x8260 is stored as 0x6082. 
-**dat_text_replacer** loads in a folder of original, unmodified DAT files, a mapper folder, and an output folder.
 ### Remake script details
 The remake script is stored in Binary/Text/text.ttb.
-It is full of a bunch of control characters at the beginning (presumably similar to the ones in PSE, just seperated out to support multiple languages), followed by the entire Japanese script, the entire English script, and the entire Chinese script. There is no easy way to map each languages lines 1-1 with each other as the text does not seem to be formatted in a fixed way. This is supported by the fact that you cannot switch language unless you are on the title screen.
-### Mapper files
-Mapper files are python files that are named the same as and correspond to each DAT file, with it consisting of an array of two element tuples. Here is an example from the beginning of the game:
-'[
-    ("ピピピピ、",
-    "\*beep-beep-beep-beep\*      "),
-    ("ピピピピ、",
-    "\*beep-beep-beep-beep\*          "),
-    ("ピピピピ…。",
-    " \*beep-beep-beep-beep\*"),
-]'
-The text (both original and replacement) is converted from UTF-8 to SJIS at runtime, so editing is easy.
-Note that there is currently no way to edit control commands, in order to preserve flags and not break the game, so all spacing is done manually.
+It is full of a bunch of control characters at the beginning (presumably similar to the ones in PSE, just seperated out to support multiple languages), followed by the entire Japanese script, the entire English script, and the entire Chinese script. 
+There is a complete JSON mapping between languages now.
 
 ## Executable
 `ToHeart.exe` does not seem to serve much purpose other than to open `psth.exe` which contains the actual game logic, so currently that is the focus of modifications.
@@ -38,7 +27,7 @@ There is also an issue with the currently drawn line in the scripts having the b
 The script translation is playable without the modded exe, but it will be largely untested and may look off.
 
 # UI Assets
-UI Assets are stored in **sys.pak**. They consist of LFB formatted images, which are LZSS compressed bitmaps. [ExtractData](https://github.com/lioncash/ExtractData) can extract and convert these though the use of [Susie plugins](https://f.blicky.net/f.php?h=0Nj7TH-n), specifically AX_LF21.spi. The format can probably be reverse engineered into CLI tools through creating a fork of ExtractData that prints out format information.
+UI Assets are stored in **sys.pak**. They consist of LFB formatted images, which are LZSS compressed bitmaps. Custom tooling has been created to extract and repack these files.
 Some of these images have text that needs to be translated, while others could have the option to be replaced by PS1 versions (which are slightly different)
 
 # Soundtrack

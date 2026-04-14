@@ -1,0 +1,12 @@
+（志保　回数イベント　ＰＳ）
+（選択肢　興味なし）
+"Not interested."
+"Oh yeah? You'll never capture a lady's heart like that."
+"Don't really need to at the moment."
+"What a stoic."
+"Again, at the moment."
+"That's silly! Just invite Akari to it. She'll be delighted!"
+"Stupid, what am I gonna do with Akari's heart?"
+"I dunno, but why not take this chance to capture it?"
+"This is nonsense."
+After talking for a while, we part ways.

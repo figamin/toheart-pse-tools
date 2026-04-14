@@ -1,0 +1,15 @@
+（芹香　回数イベント　帰り道　ＬＶ２）
+（選択肢Ａ　大声で先輩に呼びかける）
+I'll shout to Kurusugawa!
+"Kurusugawa! Kurusugawaaa!"
+I yell into the store.
+「オレだよ、<name>だよ～～～っ！」
+"H-How dare you, boy!"
+Kurusugawa must have heard us from inside the store, because she
+opens the door with a clatter and walks out.
+"Kurusugawa, over here!"
+I wave her over.
+"She stares straight at me and heads over.
+Ten more feet...
+Five more...
+I reach out my hand.

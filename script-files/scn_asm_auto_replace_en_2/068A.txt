@@ -1,0 +1,11 @@
+（マルチ　回数イベント　２Ｆ　ＬＶ２）
+（選択肢Ｂ　声をかけて、さよなら）
+"Hey, Multi."
+I call out to her and she turns toward me, smiling upon seeing my
+face.
+「あっ、<name>さん、こんにちはー」
+"Hard at work as usual, eh."
+"Yes."
+"Good luck."
+"I will!"
+Multi smiles, and I wave at her as I leave.

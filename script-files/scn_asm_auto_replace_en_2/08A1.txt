@@ -1,0 +1,6 @@
+（レミィ　回数イベント　１階　３／１３）
+（廊下２）
+「ハアィ、<kata>」
+I run into Lemmy in the hall.
+A. Talk to her.
+B. Say goodbye and leave.

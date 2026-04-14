@@ -1,0 +1,8 @@
+（レミィ　回数イベント　２階１）
+（選択肢　移動）
+I don't want to act like some sleazebag.
+So I quickly stand up.
+「あのね、<kata>」
+"Sorry, Lemmy! I got somewhere to be today, so..."
+「<kata>…」
+I give a casual wave and then leave.

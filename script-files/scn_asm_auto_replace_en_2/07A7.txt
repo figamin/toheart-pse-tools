@@ -1,0 +1,8 @@
+（琴音　回数イベント）
+（選択肢　あいさつして別れる）
+"Heya, Kotone!"
+I call out to her and she lifts her head.
+「あ、<family>さん。
+お帰りですか？」
+"Yup! I'll catch you later."
+"Oh, okay. Bye."

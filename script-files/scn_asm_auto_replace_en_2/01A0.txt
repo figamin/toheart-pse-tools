@@ -1,0 +1,12 @@
+（あかり　回数イベント　帰り道）
+（選択肢Ｂ　じゃーな）
+"See you later."
+"Oh..."
+Akari speaks up.
+"What?"
+「どうせならいっしょに帰ろうよ」
+"Oh, I was planning on going somewhere before heading home."
+"Oh, okay."
+"See you later."
+"Okay, bye."
+I walk past Akari and leave the school.

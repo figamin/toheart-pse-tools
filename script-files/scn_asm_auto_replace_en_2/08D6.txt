@@ -1,0 +1,8 @@
+（レミィ　好感度イベント　ＰＳ）
+（選択肢　ダメだ）
+"Sorry, I've already got plans that day."
+「そーなの？」
+"I'm really sorry."
+「Ｗｈａｔ　ａ　ｓｈａｍｅ。
+残念デス…」
+Lemmy says goodbye and leaves.

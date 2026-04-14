@@ -1,0 +1,44 @@
+（あかり　試験）
+（Ａ　じゃあ、いっしょに）
+「じゃあ、いっしょに」
+I answer.
+"Yeah."
+Akari nods.
+"Between this weather and finals, I really need a break."
+"What do the weather and the exams have to do with each other?"
+"Trying to focus in this warm weather is exhausting."
+"Well, maybe that's true."
+"Someone opened a window during the exam and we had a breeze in
+there too."
+"Did it make you sleepy?"
+"Yep."
+「<name>ちゃんって、集中力が持続しないほうだもんね」
+"Yeah, I'm too spontaneous for that."
+We arrive at the shopping arcade.
+The park is right past it, and my house past that.
+"Wait."
+"What?"
+"I'm buying lunch."
+　オレはあかりを待たせて、ぽっかぽか弁当で適当なのをひとつ注文した。
+"That's what you're having for lunch today?"
+"Sure."
+"Don't you get tired of eating stuff like that every day?"
+"I do, which is why I switch it up sometimes. Just eating what I
+like most gets boring."
+"Hmm...
+やっぱり大変だね、いろいろと」
+「ああ、大変だぞ。
+だからお前ももっとオレに協力してくれ」
+「うん、わかった」
+The truth is that she's already doing plenty to help me.
+「じゃあね、<name>ちゃん」
+"Yeah."
+「テストがんばってね」
+「お前もな」
+Akari waves and walks off.
+「じゃ、<name>ちゃん。
+ご飯食べたら、すぐにそっち行くから」
+"Got it."
+"See you later."
+"Sure."
+Akari waves and goes home.

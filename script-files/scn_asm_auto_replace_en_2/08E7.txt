@@ -1,0 +1,51 @@
+（レミィ　好感度
+イベントＰＳ）
+（教室）
+「<name>」
+Masashi comes over to me during third period break.
+「おう、なんだ」
+"They posted the school newspaper on the student noticeboard."
+"Huh... And?"
+"That column Shiho mentioned is on there."
+"Oh yeah, she did ramble on about that."
+「<name>のことが書いてあったよ」
+"That totally slipped my mind..."
+Shiho said that she wouldn't use my name, but I have to check for
+myself.
+I rush over to the noticeboard.
+The newspaper in question is easy to spot.
+　さいわいなことに、誰も読んでいるヤツはいない。
+"This bit here."
+Masashi points at the photo I took of Shiho.
+「なになに──」
+My name is Shiho Nagaoka of Class 2-A and I have been placed in
+charge of this column.
+I have been entrusted with a corner of this page—a piece of land,
+if you will, so I feel that it is my duty to treat it with utmost
+respect.
+One needs a home to live on a plot of land.
+So I shall build a house here.
+I want to make it a marvelous home.
+As such, I have named this column 'Nagaoka's Manor.'
+...Her twisted logic knows no bounds.
+Now, time to address the building in this photo.
+I trawled through my resources to find it for the purpose of this
+column, but it also happened to be a place of fond memories for an
+acquaintance of mine.
+For the first printing of this column, I would like to tell a
+melancholic story that involves this house.
+"...Ugh, she really did write about my story."
+I mutter after reading the article.
+「大丈夫だよ<name>。
+これを読んだ限りじゃ、誰のことだかわからないし」
+"Yeah, you're right about that."
+I know the truth won't be revealed, but it doesn't feel great
+having my memories put on paper.
+"But wow, what a blast from the past."
+「ああ」
+"I wanted to play with that girl too."
+「お前が親の言うこと守って、遠出しなかったからだろ」
+"Yeah, you're probably right about that."
+The bell chimes as Masashi nods.
+"We should head back."
+「うん」

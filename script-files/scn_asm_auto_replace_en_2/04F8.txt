@@ -1,0 +1,6 @@
+（志保　回数イベント　ＰＳ）
+（選択肢　あいさつして別れる）
+"Hey, Shiho."
+「あら、<nick>」
+"Watch out for cars on your way home!"
+"I'm not a little kid!"

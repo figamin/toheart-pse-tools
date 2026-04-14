@@ -1,0 +1,5 @@
+（マルチ　回数イベント　１階１）
+（選択肢　あいさつして別れる）
+"Anyway, I'm heading home now. Catch ya later."
+"Sure. See you."
+Multi smiles and waves as I leave.

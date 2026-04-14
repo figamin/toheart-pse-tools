@@ -1,0 +1,66 @@
+（あかり　回数イベント　１Ｆ）
+（Ａ　呼び止める）
+「おい、あかり」
+I follow behind her.
+"What?"
+"Are you heading home?"
+"What is it?"
+「じゃあ、いっしょに帰ろうぜ」
+"Okay!"
+Akari nods happily.
+"Hey, Akari..."
+"What?"
+「今日はちょっとお前に質問があるんだ」
+"What kind of questions?"
+"Different kinds. I'll go through them one by one."
+"Okay."
+「まず、第一問。
+お前は将来、どんな職業に就きたいか」
+"What do I want to be?"
+"Yep, that's right.
+お前ももう高校２年なんだから、少しはそういうことも考えてるだろ」
+"Hmmm..."
+Akari pondered the question.
+「現実的に言うと、やっぱり普通のＯＬかな。
+でも学校の先生とか、人にものを教える仕事には憧れたりするなあ。
+あと、保母さんとか、調理師、デザイナーとかにもなりたいし…」
+「ひとつ！」
+"Oh, then secretary to the CEO of some company."
+「お前、さっきと全然違うだろ」
+"W-Well, there are a lot of things I'd like to try."
+"Man... Well, next question. If you had a hundred million yen, what
+would you spend it on?"
+"What?"
+"Three...
+Two...
+One..."
+"I-I'd save it! In a bank."
+「銀行に貯金か。
+じゃあ、次の質問。
+お前が知ってるなかで一番高価な料理といえば？」
+"P-Peking duck.
+　
+…かな？」
+"Huh, Peking duck?"
+"Foie gras? Caviar? Maybe truffles?"
+「ひとつ！」
+「ぺ、北京ダック」
+「北京ダックな。
+じゃあ、次の質問。
+目の前に大きいつづらと、小さいつづら、中ぐらいのつづらがある。
+どれかひとつ、おみやげに持って帰るとしたら、どれを選ぶ？」
+"The small hamper."
+「じゃあ、次の質問。
+お前をふくむ三人で、ちゃんこ料理屋に行った。
+たのんだちゃんこは全部で何人前か？」
+「三人前」
+「最後の質問。
+お前はお天道様に向かって、まっすぐ立ってるか？」
+"Yes. Or maybe at a slant?"
+"I have your diagnosis."
+"Diagnosis...?"
+「ズバリ、あなたは──」
+「私は…？」
+A. You're completely normal.
+B. You should get life insurance.
+C. Tonight...

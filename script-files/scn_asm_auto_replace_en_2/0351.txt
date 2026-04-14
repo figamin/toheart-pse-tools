@@ -1,0 +1,20 @@
+（智子　好感度イベント７回目）
+（発生条件　好感度イベント６回目を見た後、回数イベントの「学校を出る」で会うと差し替えで発生する）
+（下り坂）
+I'm on my way home.
+I gaze off into the distance as I walk.
+We scurry off.
+A girl walks past me from behind in a hurry.
+It's the Class Rep.
+「──あれ？
+　いいん…」
+I call out to her...
+But she doesn't even react. She just continues on past me.
+What?
+Did she not notice me?
+"No, she must've.
+She just ignored me again.
+Damn.
+　オレは──。
+A. Tell her to stop.
+B. Ignore her too.

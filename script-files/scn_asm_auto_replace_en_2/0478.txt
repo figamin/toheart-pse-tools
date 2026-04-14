@@ -1,0 +1,15 @@
+（志保　回数イベント　ＰＳ）
+（選択肢　今日はパス）
+"Sorry, I'll pass for today."
+"Oh, really?
+　
+あ～あ、し～らないっと」
+Shiho tries to make it sound like I made the wrong choice.
+"What?"
+「哀れ、<family><name>はその後、二度とアイスを口にすることはできなかった…」
+"You're having too much fun saying something so ominous."
+She's probably just trying to change my mind somehow.
+"Well, that's what you get for not coming with me."
+"Y'know I've got my own life? We can hang out some other time."
+I ditch Shiho.
+「つまんな～いっ；」

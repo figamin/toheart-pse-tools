@@ -1,0 +1,36 @@
+（レミィ　回数イベント　１階２　ＬＶ２）
+（選択肢　山）
+「──やっぱ、山かな」
+"Mountains?"
+"Yeah. I really love mountaintops in particular. There's just that
+sense of achievement when you climb to the peak. Then you're
+greeted with an amazing view... Nothing beats that."
+"Oh, yeah..."
+"And I love the climb too, of course. The sound of birds, the smell
+of trees... It's completely different from the city's hustle and
+bustle, it really helps your mind relax. That's why it has to be the mountains for me."
+"Not to mention campfires at night!"
+「いいねえ…。
+焚き火を囲んで歌えば、下手な歌もさまになっちまう──って雰囲気がいいね」
+"I love it too."
+"You prefer mountains too?"
+"Yeah. I really love them."
+"I bet you just want to get out there to hunt."
+「エヘヘへ…」
+Lemmy giggles to take the heat off the truth.
+"I knew it..."
+「アタシ、<kata>といっしょに山へ行きたい！」
+"We don't have the time for that."
+"...But I want to go."
+"We're all about to go on a school trip to one. That should be
+enough for you."
+"I want to go with you..."
+Lemmy is stubbornly insistent.
+She leaves me with no other choice.
+"Okay, fine. We're still getting a bit ahead of ourselves, but let's
+go during our summer break."
+I suggest a compromise.
+"Really?"
+"But not just us two. We'll invite a few others from school, okay?"
+「うん！」
+Lemmy and I continue the conversation as we walk home.

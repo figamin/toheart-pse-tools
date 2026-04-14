@@ -1,0 +1,31 @@
+（マルチ　回数イベント　１階１）
+（選択肢Ｃ　目や耳はどうなってんだ？）
+"What's the deal with your eyes and ears?
+You're the newest model, so I'm guessing you've got
+super-high-performance sensors, can see a mile away, and can hear
+all the sounds around the school, right?"
+「…いえ、残念ながら、すごくないんです。
+多分、<name>さんと同じぐらいだと思います」
+"The same as mine?"
+"Yes. My eyes are fitted with high-sensitivity CCD cameras, which
+are excellent, but they don't have zoom capabilities—so I can't
+read what's written on that poster over there."
+Multi points to a poster about eight yards away.
+The letters are so small that I can't read it either.
+"...So average, then."
+「はい。
+耳も、多分、<name>さんと同じぐらいにしか聞こえないと思います」
+"You can't hear my heart beat?"
+"...No."
+"So you're saying that both your eyes and ears function to the level
+of the average human."
+「はい」
+"It's better that way, don't you think?"
+"Why? Well..."
+"Because if you had really nerfed sensors then you'd be able to see
+through anything. That wouldn't be fun for you."
+"Oh, that's true."
+"An owner wouldn't want to have a Robomaid who knows all their
+secrets."
+"...I guess."
+Multi grins.

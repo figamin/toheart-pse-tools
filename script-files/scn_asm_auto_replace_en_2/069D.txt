@@ -1,0 +1,29 @@
+（マルチ　回数イベント　１階１）
+（４月１４日）
+（ＣＧマルチ　廊下掃除）
+I go down to the first floor and see a girl with a mop in her hands
+cleaning the hallway.
+It's Multi the robot. She has sweat on her brow as she cleans with
+all her heart.
+「…ふぅふぅ」
+Multi huffs and puffs, scrubbing the floors.
+Robot or not, the sight of her focused and cleaning diligently is
+satisfying to watch from afar.
+She sighs and appears to take a break, so I approach her.
+"Hey, Multi!"
+「あ、<name>さん、こんにちは」
+She grins.
+"Hard at work again, eh. I'm really impressed."
+"I love cleaning!"
+"You love it? You're such an oddball."
+...Or maybe not.
+She's a helper robot, so of course she was made for that purpose.
+"Anyway, cleaning's a good task to be devoting yourself to. Keep up
+the good work."
+"I will and thank you. I'll scrub the floors so hard that they shine
+and make everyone happy!"
+"Now that's what I call motivated!"
+I smile.
+　さて、これからオレは──。
+A. Talk up a storm with Multi.
+B. Say goodbye and leave.

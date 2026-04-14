@@ -1,0 +1,9 @@
+（マルチ　回数イベント　学校を出る１）
+（選択肢　あいさつして別れる）
+"Take care on your way home."
+「はいっ、ありがとうございます。
+<name>さんもお気をつけて！」
+"Yeah, see you later."
+I smile and wave.
+"See you tomorrow!"
+Multi waves back with a happy energy.

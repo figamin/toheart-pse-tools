@@ -1,0 +1,14 @@
+（琴音　回数イベント　ＰＳ）
+（選択肢　犬が好き）
+"I actually like dogs."
+"I like them too."
+"Oh, really? But you know what? Now that I'm looking at this little
+fuzzball up close, cats aren't so bad either."
+"Yes. That's why I like them."
+"Are you a cat person?"
+「はい」
+"I'm a dog person, but I'm sure we both share the same love for
+animals so let's be friends."
+「はい」
+I learn that Kotone is a cat person.
+I feel like I grow closer to her with every new discovery I make.

@@ -1,0 +1,39 @@
+（志保　回数イベント　ＰＳ）
+（選択肢　いいぜ）
+"Sure.
+あの店のアイスはオレも結構気に入ってるからな」
+The shop was next to the station and popular enough that everyone
+killing time nearby had ice cream in one hand.
+"Alright, then let's do it."
+We head to the ice cream shop.
+"Hey, so what's new on the menu?"
+I ask as we walk.
+「あ、そっか。
+あんた知らないのよね」
+"Yeah."
+「えっとねぇ…メロンココアと、スイカコーヒーと、抹茶牛乳よ」
+「げげっ…、まともなのがひとつもねえぞ？
+　そんなもん食えるんか？」
+「とーころがどっこいしょ、これで結構評判いいのよね」
+"I don't believe it."
+"I waited to hear opinions first myself."
+"I feel like I shouldn't have asked."
+"Don't be silly. If you didn't ask now, you'd be paralyzed at the
+counter."
+"Fair enough."
+「先に決めておいた方がいいわよ？
+　
+どれにする？」
+"I think I'll pass."
+"What are you afraid of? They're not gonna sell something you can't
+eat."
+「けどなぁ、ものにはそれぞれ相性があってだな──」
+"Coward, don't run away. I'll pick for you if I have to."
+"Fine, I'll do what I must."
+"Stupid, it's just ice cream."
+「るせーよ」
+"So what are you going for?"
+　オレが食べるのは──。
+A. Melon cocoa.
+B. Watermelon coffee.
+C. Green tea milk.

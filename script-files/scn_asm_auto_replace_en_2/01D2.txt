@@ -1,0 +1,16 @@
+（あかり　試験）
+（Ｂ　今日はひとりで帰る）
+"Oh, I'm going to walk home by myself today."
+"I see..."
+Akari looks a little disappointed.
+「じゃあね、<name>ちゃん」
+"Alright."
+「テストがんばってね」
+「お前もな」
+Akari waves and walks off.
+「じゃ、<name>ちゃん。
+ご飯食べたら、すぐにそっち行くから」
+"Got it."
+"See you later."
+"Hey."
+Akari waves and walks off.

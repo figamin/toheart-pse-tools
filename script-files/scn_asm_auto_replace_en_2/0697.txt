@@ -1,0 +1,186 @@
+（マルチ　回数イベント　２Ｆ　ＬＶ４）
+（選択肢Ａ　掃除を手伝ってやる）
+Since it's her last day, I decide to help her clean.
+"So that means today's the last day I can help you clean, then."
+I grab a mop.
+「…あっ、<name>さん。
+…もしかして、また、お手伝いしてくださるんですか…？」
+"I did."
+I nod.
+"I can't let you do that. I always feel so bad for making you help
+me."
+Multi looks apologetic.
+She has a notion in her head that defines robots as tools for
+humans. This means that it doesn't feel right to her for a human
+like me to help a robot like her.
+"C'mon we're not strangers. This is practically a regular occurrence
+now."
+I smile.
+"Yes, but..."
+"You don't have to be polite. I want to clean for you just like how
+you clean for everyone else."
+"For...me?"
+"That's right. You love the fact that your cleaning brings everyone
+joy, rather than the actual act of cleaning itself, right?"
+"What?"
+"The same applies to me. Honestly...I don't really like cleaning,
+but I want to do something for you."
+I splosh the mop into the bucket to try and hide my embarrassment.
+"F-For me? But I'm just a robot."
+"You don't like it when I help you?"
+"No, I do! I love it! It makes me so happy!"
+"...Then that means I'm happy and you're happy. We're both happy.
+Isn't that all that matters?"
+「…<hira:1>、<name>さん」
+"Okay, let's get started."
+I splosh the mop head onto the floor.
+"O-Okay!
+　ありがとうございます！」
+Multi beams with joy.
+She mops the floors, pushing her mop more conscientiously than ever.
+Her energy is different from that of a student being forced to
+clean against their will.
+It's because she has a clear goal of wanting to make others happy
+by mopping the floors squeaky clean.
+As I gaze across the hallway floor, the portion that Multi is in
+charge of shines and reflects the sun's rays with a radiance that
+sets it apart from the rest of the patches.
+This is obviously because of the hard work Multi has been putting
+in over the last week.
+I'm taken aback again because I realize that only concerted hard
+work can produce such a sheen.
+*slosh, slosh, slosh, slosh*
+As Multi puts her back into mopping, sweat begins to form on her
+brow, despite the fact that she's a robot.
+She focuses on and scours the more stubborn stains.
+"It's bittersweet to think this is the last day I'll see that
+serious look on her face.
+　できれば、もっといっしょにいたかったな。
+Seeing Multi work so hard spurs me on to grip my mop with more
+strength.
+　──そして、オレとマルチは最後の掃除を終えて、いっしょに掃除用具を片づけた。
+"Hey, Multi?"
+"Yes"
+"You're just gonna go home after this, right?"
+"Um... I've said my goodbyes to the teachers as well as other people
+who have looked out for me so...yes, that's right."
+「だったら、今日はいっしょに帰ろうぜ？」
+「えっ？」
+"I'll walk you to the bus stop."
+"Oh, okay!"
+"Thank you for taking such good care of me."
+Multi bows towards the school.
+The school goes quiet earlier on Saturdays than it does on weekdays.
+Other than Multi and me, who have been cleaning until late, the
+only other students around are the ones on the field or in the gym
+for their school club activities.
+"I had so much fun in the short time I was here. I will never forget
+the eight days I spent at this school."
+　ちょっと遅い…
+もしくは、ずいぶんと早い卒業式。
+Multi is the only student graduating.
+"She stares at the school with a profound look on her face.
+　その背中を見ていると、やっぱり少し、かわいそうに思えた。
+She's a robot, yet she has a heart much like me and the other
+students.
+Her smile never leaves her face, but I can sense a hint of
+loneliness within it.
+　このままずっと、オレたちといっしょに学校にいられればいいのに…。
+*tap, tap, tap*
+"Sorry. Thank you for waiting."
+Multi says as she runs over to me.
+"Are you sure you're ready to go?"
+"Yes. I've soldered everything firmly into my memory."
+Multi responds with a bright smile.
+This is the last day I'll see this smile, huh.
+"WIIIIITH MUUUUUCH RESPEEEEECT...
+TO OOOOUR TEEEACHERS WE ARE INDEEEEBT...
+...Um, what are you doing?"
+"With Much Respect. You don't know the song?"
+「はい…」
+"It's a song we sing at graduation ceremonies across the country."
+"At...graduation ceremonies?"
+"Yeah. Today's pretty much your graduation ceremony, no?"
+「…え」
+"AAAAND TO THEEE SCHOOOOL GROOUNDS FROM WHIIIICH THEY TEEEACH
+Urgh...
+ううっ………
+TIIIIIME DOTH PAAAAASS SO QUIIIIICK...
+」
+「…うっ、うう、<hira:1>、<name>さん、
+ありがとうございます…」
+Under the calm rays of the afternoon sun, Multi and I walk down the
+hill together.
+The wind, tinged with the fragrance of early summer, brushes
+against our cheeks as it passes by.
+I ask Multi a meaningless question and she responds with a smile,
+wiping the remaining tears from her eyes.
+We walk slower than normal, yet we still inevitably reach our
+destination.
+"Are you going to wait here for Serio again?"
+「はい」
+Multi nods.
+"Looks like she's not here yet."
+"Serio's always on time. We just got here a little early."
+"That means we can talk for a little longer."
+「はい」
+She nods again.
+"Okay, what should we talk about? Let me think..."
+「…<name>さん」
+Multi begins to speak in a somewhat polite and formal tone.
+"Yes?"
+"I am truly sorry for all the trouble I have caused you over this
+past week."
+She bows deeply.
+"Oh come on now. You haven't caused me any trouble at all. I've had
+so much fun ever since I met you."
+"I've had fun too. You saved me from danger and helped me to clean...
+You've looked after me this whole time without me doing anything in
+return..."
+"That's not true."
+「本来なら、ロボットのわたしが<name>さんのために、なにかしなくちゃいけないのに…」
+"I told you, it's totally fine. Don't mention it."
+I chuckle awkwardly in embarrassment.
+「…<name>さん」
+Multi then hangs her head in embarrassment and whispers.
+"What is it?"
+"If..."
+"If?"
+「もしも、もうしばらく自由な時間があれば、わたし、<name>さんにご恩返しがしたかったです。
+みなさんのためじゃなく、<name>さんだけのために、なにかしたかったです」
+「マルチ…」
+Multi looks at me with her burning, teary eyes and gives me a soft
+smile.
+"Thanks, Multi!"
+I stroke Multi's head.
+「あっ、<hira:1>、<name>さん…；」
+「マルチ。
+お前って、ホント、律儀で優しいいい子だな。
+──よしよしっ」
+She keeps stroking my hair.
+「<hira:1>、<name>さん…」
+*sst, sst, sst, sst*
+"As I stroke her head, Multi cups her reddened cheeks with her hands
+while her eyes glaze over in bliss.
+"Look at you. Do you like having your head stroked?"
+"Y-Yes, I do."
+"Does it make you happy?"
+"Y-Yes, very happy."
+"Okay, then I'll stroke up a storm."
+*sst, sst, sst, sst*
+"Ah...
+*sst, sst, sst, sst*
+"*sst, sst, sst, sst*
+"In the midst of the petting session, Serio appears.
+「──お待たせしました、マルチさん」
+"Oh, Serio!"
+Multi says in a blissful daze.
+"I guess that means it's time to say goodbye."
+"Oh...!"
+My words seem to snap Multi out of her dream-like state.
+There isn't much time left until the bus is supposed to arrive.
+It's finally time to part ways.
+　最後にオレは──。
+A. Suggest that we take some nekopuri to remember our time together.
+B. Stroke her head one final time.
+C. Ask if we'll see each other again.

@@ -1,0 +1,26 @@
+（理緒　日付強制イベント　出会いⅢ）
+（３月８日）
+（理緒と会っているなら発生）
+（智子のイベント（１階を歩く）を経由していない場合）
+（駅）
+I see Masashi in front of the station on my way back.
+He looks puzzled, and he is standing in front of an unfamiliar
+child.
+"Yo, what're you doing?"
+「あ、<name>。
+じつは…」
+"Hey! Calling for backup isn't fair!"
+"Wha? Who's this squirt?"
+"I'm not a squirt!"
+"You're totally a squirt."
+"You're too big, is all!"
+"And that's why you look like a squirt to me."
+「まあまあ」
+Masashi cuts into our conversation.
+「こいつ、お前の知り合いか？」
+"No, first time meeting him."
+"Then what's going on?"
+I ask.
+"Well, I seem to have done something to anger him, not that I have
+any recollection of that."
+Masashi says, speaking with a genuinely clueless look on his face.

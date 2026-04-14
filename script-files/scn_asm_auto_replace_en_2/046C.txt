@@ -1,0 +1,11 @@
+（志保　追加イベント３　帰り道）
+（選択肢　やだね）
+"No."
+"What? You're no fun!"
+"I'm not here to entertain you."
+"Do you know how much time I spent looking for you?!"
+"Talk to me when I've got more time."
+I walk away.
+"You've got plenty of time right now!"
+Shiho knows I won't change my mind, so she doesn't bother to follow
+me.

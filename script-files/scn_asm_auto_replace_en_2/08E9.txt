@@ -1,0 +1,28 @@
+（レミィと志保と勉強　３／１５）
+（選択肢　そうだ、レミィ。英語を教えてくれ）
+"I know! Teach me English, Lemmy."
+"Oh! Me too, me too!"
+"English?"
+"Yeah! You don't mind if we go over to your place to study, right?"
+"I wanna go too!"
+"Why are you tagging along?"
+"Why not? You're the one who tried to act cool by telling Akari
+you'd study on your own. Now look at you."
+"Quit making Akari tell you everything I say to her!"
+"No one made her. She told me all on her own."
+「Ｓａｙ、アタシ、<kata>の家に行きたいデス」
+Lemmy looks somewhat hopeful.
+"My place?"
+「うん」
+「じゃあ、<nick>んちで勉強会に決定！」
+"Hey, no one agreed to that... And I'd feel bad since you'd have to
+come all the way to my place just to teach us."
+「そんなことないヨ。
+アタシ、<kata>から教えてもらうモン」
+"Me? You mean chemistry and social studies?"
+"Yes?"
+I don't know enough to really teach her, though.
+「んじゃ、<nick>んちで勉強会にけって～い！」
+"Quit making decisions without my input!"
+And so, we end up planning a study session.
+I guess it is better than not studying at all.

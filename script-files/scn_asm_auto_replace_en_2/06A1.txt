@@ -1,0 +1,44 @@
+（マルチ　回数イベント　１階１）
+（選択肢Ｂ　使われてるコンピュータは？）
+Multi communicates with such ease.
+I'm sure she's fitted with some kind of really high-spec computer.
+"What kind of computer do you have installed in you? It's something
+super buffed up, right?"
+I ask.
+"A PNNC-205J, apparently."
+"Is that the name of your computer?"
+"Yes. Uhhh, I think it's called a 'Super Parallel Computing
+Algorithmic Neural Network Computer,' or something like that."
+Multi says clumsily.
+"Wh-What?!"
+"S-Simply put, it's a computer made of lots of smaller computers
+that are connected and work together."
+"I see."
+She explains it in a way that I finally understand.
+"Um, and since there are a lot of computers within the computer, I'm
+able to perform various processes efficiently all at once,
+apparently. It doesn't quite feel that way to me, though..."
+Multi doesn't seem to really understand herself and gives me a
+vague explanation.
+Is she right or wrong? The jury's still out on that...way out.
+"Anyway, so you're fitted with a really impressive computer then. As expected of the latest model!
+You must perform really well thanks to it too."
+"I should, but I'm clumsy, awkward, bad at math, and have no
+athletic sense at all... I don't know why..."
+"It's proof of how human-like you are. You won't find many humans
+who are perfect at everything."
+I smile awkwardly as I try to reassure her.
+「…わたし、いろいろ失敗ばっかりですから、そのぶん努力で補いたいと思ってるんです。
+I want to be a robot that the engineers who made me love."
+「そっか…」
+I soften my gaze and smile.
+"Okay, then keep up the good work."
+「はい、がんばります！
+　ですから<name>さんも、なにか御用がありましたら、遠慮なく、どんどん、わたしにお申しつけください」
+"For sure. I'll totally be counting on you whenever I need a helping
+hand."
+「はいっ！」
+Multi says with a bright smile.
+Yup.
+Multi will become a Robomaid that everyone will love.
+...I just know it.

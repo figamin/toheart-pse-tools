@@ -1,0 +1,80 @@
+（マルチ　回数イベント　２Ｆ　ＬＶ３）
+（選択肢Ａ　声をかける）
+I decide to call out to her.
+But a simple greeting won't be much fun.
+I take it upon myself to test out what kind of functions the latest
+model of Robomaid is fitted with.
+Let's test out her search capabilities.
+"Heeeey, Multiiiii!"
+「？」
+「オレだ、<name>だ～～～っ」
+I scurry into the adjacent classroom to hide before she looks my
+way.
+「あっ、<name>さん、こんにち──
+あっ、あれっ！？」
+I chuckle quietly as I hide in the empty classroom.
+Hehehe. I'll bet Multi's looking around with googly eyes searching
+for me frantically.
+I'm sure she'll come into this classroom to look for me soon.
+Then I'll scare her with a "boo!"
+「………」
+　いや、また前みたいに気絶させちまったらかわいそうだしな。
+I'll just cover her eyes from behind then.
+Anyway, hurry up, Multi! Come on!
+・
+・
+・
+・
+・
+"A minute passes as I stay hidden in silence.
+I wait for her in the same spot, but it doesn't seem like she's
+ever going to come.
+Where is she?
+Has she given up on looking for me?
+I feel like she glanced my way when I called out to her, though.
+Maybe she just let it slide and went back to cleaning.
+That'd make me the biggest doofus around for hiding here all this
+time then.
+"I slowly peek my head out from the doorway of the classroom.
+"Nope.
+Forget looking for me, Multi isn't even in the hallway.
+Did she finish cleaning and go home?
+"Ngh..."
+I was hidden and chuckling to myself that whole time...
+　──バカ？
+"Ugggh..."
+I wasted my time over something really stupid.
+　肩越しに学生鞄を持って、帰ろうと思ったとき…。
+「…あれ？」
+I notice a bucket, mop, and other cleaning supplies scattered
+around.
+...Does this mean that Multi's around here somewhere?
+I look around.
+And then...
+「…ううっ、<hira:1>、<hira>さぁ～～～～～ん。
+どこにいらっしゃるんですかぁ～～～？」
+I hear a feeble voice from the next classroom down.
+That voice...
+「…ううっ、<hira:1>、<hira>さぁ～～～～～ん。
+出てきてくださぁ～～～～～～い」
+Multi reappears. She's sniffling and seems to be close to tears.
+"M-Multi."
+「<hira:1>、<name>さん！」
+She sees my face and her eyes widen.
+「<name>さぁ～～～～～～～～～～んっ！」
+Multi scurries over to me with tears streaming down her face.
+「どごにいだんですかぁぁぁ～～～～～～～～？
+捜じまじたよぉぉぉぉ～～～～～～っ！！」
+"Wh-What the heck? You've been looking for me this whole time? And
+here I was thinking that..."
+"Aww, I could hear your voice, but I couldn't see you..."
+"I-I'm so sorry. Don't cry. Here."
+I pull out a tissue from my pocket and wipe Multi's tears.
+"*sob* Thank you."
+I hand Multi a tissue, and she blows her nose with a honk.
+Is she really a robot?
+"*sniffle*"
+I watch Multi dab at her eyes with the scrunched up tissue and say...
+Ａ　お前って、ホントにとろいな～。
+B. Don't cry over something as small as this.
+C. Okay, enough tears!

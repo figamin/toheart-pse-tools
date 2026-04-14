@@ -1,0 +1,12 @@
+（日付指定式回数型ＶＳイベント　志保ＶＳあかり）
+（選択肢　行かない）
+"Sounds pretty tasty, but I'll pass for today."
+"What?! You're not going to come?"
+"Not today. Maybe some other time."
+"Gosh, what a letdown."
+"Okay."
+"See you later."
+I wave goodbye.
+"Be careful, it's dark out!"
+「バイバイ、<name>ちゃん」
+With that, we part ways.

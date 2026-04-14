@@ -1,0 +1,23 @@
+"I have work later but there's a lot of time in between, so I wanted
+to do some studying."
+"Work? Shouldn't you take some time off for the upcoming exams?"
+"I did! I took time off from the flyer distribution job. Only picked
+up half the usual number of shifts."
+"You sure you can pass the exams like that?"
+"I've never been very clever, so my results are more or less the
+same no matter how much I study."
+"But still though—"
+「<family>くんは、今日のテストどうだった？」
+"Me? Average, I'd say."
+"That's impressive."
+"Not really..."
+I mean, like, seriously.
+"So... There's actually some stuff I'm not sure about and... I-If
+you don't mind, could you help me with it?"
+"What? Me?"
+"If you're free, of course! I was really hoping to understand at
+least this section before I go to my next job..."
+"English, huh?"
+What should I do?
+A. You're on.
+B. Rain check.

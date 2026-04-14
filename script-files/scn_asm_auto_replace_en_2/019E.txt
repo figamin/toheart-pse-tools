@@ -1,0 +1,14 @@
+（あかり　回数イベント　学校を出る）
+（４月９日）
+（校門２）
+When I leave through the school gate, I spot Akari.
+　ひとりみたいだな、今日は志保といっしょじゃないのか。
+I call out to her from behind.
+"Hey."
+「あっ、<name>ちゃん」
+"Are you on your way home?"
+"Yeah."
+Akari nods.
+What should I do?
+Ａ　だったらいっしょに帰ろうぜ。
+B. Say goodbye.

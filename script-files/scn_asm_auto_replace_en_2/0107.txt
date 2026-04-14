@@ -1,0 +1,17 @@
+（あかり　日付イベント１．５）
+（３月１７日）
+（あかりと勉強状態なら発生）
+（ＰＭ２時）
+（校門外）
+I go home and eat a bento I bought on the way back for dinner.
+Then, around two...
+*ding-dong*
+*clack*
+「こんにちは、<name>ちゃん」
+　その日もあかりといっしょに勉強した。
+Tomorrow's exams were English and Social Studies.
+Both subjects are all about memorization.
+First, we cover English by simply reviewing vocabulary, then we
+memorize Akari's notes for Social Studies.
+I appreciate that Akari makes copies of her notes for me.
+She goes home around six, as usual.

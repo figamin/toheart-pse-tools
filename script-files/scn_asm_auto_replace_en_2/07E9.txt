@@ -1,0 +1,7 @@
+（琴音　回数イベント３　ＰＳ）
+（選択肢　別れる）
+"Heading home now?"
+「はい…」
+"See ya."
+「さようなら」
+Kotone bows and I wave in response.

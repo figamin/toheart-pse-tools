@@ -1,0 +1,19 @@
+（智子　回数イベント　学校を出る　ＬＶ４）
+（４月）
+（好感度８を見ている状態なら発生）
+（校門外）
+As I exit through the school gate, I spot Class Rep.
+She seems to be waiting for someone.
+"Hey, Class Rep."
+「…<family>くん」
+"Waiting for someone?"
+「べつに…」
+She blushes and looks away.
+What is it?
+Was she waiting for who I think she was waiting for...?
+"Hey, would you happen to have been waiting for me?"
+I smirk.
+"Th-That's not funny."
+She tries to leave.
+Ａ　待てよ、いっしょに帰ろうぜ。
+Ｂ　へんなヤツ。

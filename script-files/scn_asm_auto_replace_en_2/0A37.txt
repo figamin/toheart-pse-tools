@@ -1,0 +1,232 @@
+（理緒　好感度イベント　海獺）
+（４月２０日）
+（好感度　以上で発生）
+（その日の休日と差し替え）
+（自室）
+（ＳＥ　ドアチャイム）
+　ピンポーン。
+Someone is here.
+There's no school today, and it's not even noon yet. What could
+this person possibly want?
+"Coming!"
+「おはよう、<name>」
+"Hey, Masashi. What's up?"
+「さっき朝練が終わって、暇だからちょっと寄ってみたんだけど。
+なにか予定ある？」
+「いや、べつに」
+"Then wanna come hang out? You said you had your eyes on a CD the
+other day."
+「おう」
+"Unless you've already bought it?"
+"Not yet. I mean, it's supposed to be released in two days."
+"I saw it on display at the shop in front of the station."
+"Did they release it early?"
+"That shop does that sometimes."
+"Yeah... Right. I should go out and get it then."
+"Cool! I'll head home first and come back later."
+"And I'll get myself ready in the meantime."
+Masashi and I go out to buy the CD. On our way back...
+"What's that?"
+Masashi is pointing at something.
+I look and see a crowd of people on the other side.
+A mouse mascot with an annoying face is dancing away while giving
+out colorful balloons and flyers to the children.
+"That costume looks hot."
+"Yeah, where's the ventilation?"
+The mouse looks like it is dancing happily, but the person inside
+has to be sweating buckets uncomfortably.
+「大変だな」
+"A job is a job. It is what it is."
+　つらい仕事は、そのぶん割もいいからな。
+"Should we go get a flyer?"
+"I bet it's for something ridiculously dumb."
+So I say, but I follow Masashi over nevertheless.
+I can't help it. I am curious by nature.
+The mascot is surrounded by a gaggle of kids.
+"It's a mouse, right?"
+"What else could it be?"
+The mouse meets my eyes.
+"Hm?"
+「どうかした？」
+"That mouse just blatantly turned its head away from me."
+"Did it?"
+「いや、そらした、間違いない。
+さながら、オレを避けるかのように。
+──よしっ」
+I walk up to the mouse.
+"Excuse me."
+"Can I have a flyer, please?"
+「………」
+　ネズミはニュッとぶっとい手を差し出すと、チラシといっしょに赤い風船をくれた。
+　べつに風船はいらないけど、くれるんならいちおうもらっておく。
+　それよりも…。
+I stare long and hard at the mouth of the mascot that serves as the
+costume's peephole.
+And then...
+The mascot averts its gaze again in the same blatant manner.
+What's its problem?
+I go around to stand in front of it again.
+"I give it a good, hard stare.
+"I don't have to stare for long until...
+The mouse turns around and slowly starts moving away while still
+surrounded by children.
+　へんなやつ。
+"What's the flyer for?"
+「ああ、えっと…。
+『おもちゃのデパート、キッズ・パーク　オープン』だと」
+"Wow, I didn't know about that."
+"Now you do."
+"What're you gonna do with that?"
+He points at the red balloon.
+"I can't possibly bring it home with me. I'll just give it to some
+kid."
+Masashi finds a random kid for me and hands the balloon over.
+「あれ？」
+Then, I happen to see the mouse from just now resting down a back
+alley.
+The mascot head is off and a human head is there in its place.
+The costume makes the person look like a sumo wrestler.
+Wait a minute...
+That strange hairstyle...
+I quietly go closer.
+"...Whew."
+The girl in the costume sighs heavily.
+I knew it. Rio.
+Finally relieved of her cramped costume, she takes a few deep
+breaths.
+I can see the sweat glistening on her forehead.
+"This is bad..."
+She mumbles under her breath.
+She is probably referring to the fact that our eyes had met.
+Maybe she feels like this is an embarrassing job to be seen doing?
+Well, it definitely isn't the coolest job in the world...
+In that moment, Rio inadvertently turns to look in my direction.
+Our eyes meet fully.
+「あ、あれ！？
+　
+<family>くん！？」
+"Heeey, nice job out there."
+"Huh?
+　
+そんな、どうして…！？」
+She struggles to get up in her mascot costume.
+"Just sit down. You're having your break, right?"
+I sit down next to her as well.
+"Mascot duty today?"
+「あ、うん…」
+"That sounds tough. It's hot inside, right?"
+"A little."
+"No ventilation at all. It's like a sauna in a suit."
+"Hahaha... Great for losing weight!"
+"What weight do you have to lose?"
+"Huh? You can't tell?!"
+"No way. You look borderline malnourished to me!"
+「えっ…」
+Rio's smile freezes in place for a second.
+"I-I'm very well-nourished, thank you very much!"
+"I'm just surprised that you knew it was me."
+"Nah, I had no idea actually. I just had a feeling, that's all."
+"Hahaha... I really didn't want you to see me like this, though..."
+"Why not? I think you look great in that."
+"What? Are you serious?"
+"Yeah! It suits you!"
+Your character, that is.
+"It sucks that you have to work today though. Aren't you doing a bit
+too much?"
+"I know there's something you really want, but you gotta rest too or
+you won't be able to keep going."
+「うん…」
+Rio hangs her head and keeps quiet.
+"Well, I'm probably poking my nose where it doesn't belong."
+When I say that...
+「あのね…」
+Rio speaks up softly with her head still lowered.
+"I'm sorry. The truth is..."
+"It's not that there's something I really want."
+「え…」
+「私のお母さん、いま病気で入院してるんだ。
+だから、そのぶん私が働かないと…。
+治療費とかもあるし…」
+"Oh... I-I see..."
+Her mother's in hospital because of an illness?
+That's why she's working so hard?
+Whoa... Talk about difficult family circumstances...
+　そうか。
+So that's why.
+"Why are you the one working, though?
+What about your father...?"
+"We...don't have a dad."
+"Oh... Now I know..."
+「うん…」
+"That sounds really tough."
+It is all I can say.
+"My brother listens to me so it's not as tough as it seems!"
+"Oh, right. You're taking care of Ryota by yourself. That's a lot of
+things for one person to do."
+"Haha! I told you it's not that tough. I've been delivering
+newspapers since I was little!"
+She gives me a little smile and says...
+"Not that you're interested in my life story... Sorry..."
+She mumbles softly.
+Her expression right now doesn't suit her.
+「本当は、<family>くんには、あまり知られたくなかったんだ。
+私がこんなかっこ悪い生活をしてるってこと」
+「なんで？」
+"I was worried that you'd come to dislike me because of that..."
+「んなわけねーだろ？」
+I snort.
+"Who would dislike another person because of that? What a silly
+thing to worry about."
+「う、うん…」
+Rio nods bashfully.
+"But now I get it. That's why you're working so hard..."
+I let out a long breath and look up at the sky.
+「ごめんね、こんな話して。
+打ち明けたのは、嘘をついてるのが嫌だったから」
+「ああ」
+「それだけだから、べつに気にしないで」
+So she said, but in all honesty...
+"You know..."
+「え？」
+"I don't think I can do anything about the money, but...if work ever
+gets too much to handle, I may be able to jump in and help with
+that."
+「<family>くん…」
+Rio smiles meekly.
+"Seriously, you don't have to do anything for me. Just listening to
+me like this is good enough!"
+"You're always giving your all, Rio."
+「え？」
+"It makes your beads of sweat glow so brightly."
+"Whaaat?!"
+Rio's face flushes bright red.
+"I respect you. Really, I do."
+"Y-Y-Y-You do?!"
+「ああ」
+I nod, and Rio's face reddens further. She stands up abruptly.
+「こ、これから、もうひとがんばりしなきゃいけないから！」
+"Huh? You're done with your break?"
+「うん」
+She nods and puts the mascot mouse head over hers.
+「じゃ、がんばれよ。
+ネズミさん」
+「（ううん、<family>くん。
+違うよ）」
+I can hear her muffled voice coming from within the mascot.
+"Huh?"
+"(It's an otter.)"
+"Oh, I see."
+It doesn't look anything like an otter.
+What a badly-made mascot costume.
+「んじゃ、がんばれよ、ラッコさん」
+「（うん）」
+The otter nods and starts walking away.
+I feel like I can imagine exactly what her lively expression is
+under the thickly padded mascot costume.
+"There you are!"
+"Sorry, sorry! That mouse...I mean, otter just now was actually
+Hinayama from class D."
+「えっ？」
+"Part-time job, she said."
+「へえ、そうなんだ」
+"She's an impressive one."

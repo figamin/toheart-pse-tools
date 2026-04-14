@@ -1,0 +1,22 @@
+（レミィ　回数イベント　学校外１）
+（選択肢　通じたか？）
+"Lemmy, did you understand what I said?"
+「<kata>、アタシを誉めても、なにも出ないわヨ」
+「べつになんか景品をくれとか言ってるわけじゃなくてな。
+通じるかどうか、使ってみたんだよ」
+"Really?"
+"You know lots of old phrases and words, so I figured I'd try it out
+on you."
+"How one gets lifted up only to be sent crashing down..."
+"Don't give it too much thought. You're already pretty enough
+without me needing to use old-timey phrases."
+「ありがと、<kata>」
+She responds with a breathtakingly gentle smile.
+Maybe she realizes that I am genuinely complimenting her.
+"And thank you for teaching me a new phrase."
+"Any time. I'll see you later."
+「ああ」
+Lemmy and I part ways when we reach the bottom of the hill.
+...That little Shiho. I thought she was taking me for a fool and
+teaching me nonsense, but she was telling the truth.
+Now I really can't trust her.

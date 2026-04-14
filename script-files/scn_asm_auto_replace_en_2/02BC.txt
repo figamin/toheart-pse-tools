@@ -1,0 +1,42 @@
+（芹香　回数イベント　帰り道　ＬＶ２）
+（選択肢Ａ　話しかける）
+I just saw her, so it would be weird to walk away without talking
+to her now.
+Alright, I'll go in there and see how she's doing.
+When I'm about to head inside, someone speaks to me from behind.
+「あのー、すみません。
+最寄りのＪＲ駅へは、どうやって行けば──」
+"Oh, for JR you want to go to..."
+I turn around and...
+「かああああああぁぁぁぁぁぁぁぁ～～～～～～～
+～～～～～～～～～～～～～～～～～～～～～～～
+～～～～～～～～～～～～～～～～～～ッ！！！」
+"The old man's shout makes my eardrums quiver.
+"I was wondering who this ne'er-do-well was! It's you again, boy?!"
+It goes without saying that it's the old butler.
+"A-Annoying old man, you'll scream at someone without even knowing
+who they are?"
+"Agh, stay away from Lady Serika, you commoner. You insolent knave!
+Know your place! Now, begone!"
+　まるでイヌでも追っ払うかのように、シッシッと手を振る。
+"What's the problem? I was just gonna say hi to her. Lay off."
+I try to walk into the store, but... The old man is there...
+standing right in my way.
+"I see you're a bad listener, boy!"
+"What the hell? Move it!"
+I sidestep to the left.
+"Hrngh!"
+I sidestep to the right.
+"Hungh!"
+I try to pass to the left of him again.
+「とうああああああああぁぁぁぁぁ～～～～～～～
+～～～～～～～～～～～～～～～～～～～～～～～
+～～～～～～～～～～～～～～～～～～～ッ！！」
+"Ugh, shut up! Out of the way!"
+"I'm not going anywhere, boy! You're not taking one step further!"
+　くそっ、じじいめ、あくまでオレのジャマをする気か。
+I refuse to back down.
+Alright, if it's come to this, then...
+A. Shout to Kurusugawa.
+B. Pretend there's a UFO to distract him.
+C. Just charge right through.

@@ -1,0 +1,16 @@
+（マルチ　回数イベント　２Ｆ　ＬＶ２）
+（選択肢Ｃ　憶病だな～、お前は）
+「ったく、憶病だな～、お前はー」
+「す、すみません…」
+"Who would seriously pass out from a little scare like that?"
+"Uhh...
+わたし、思いもよらない負荷がかかったりすると、安全確保のため、ブレーカーが落ちる仕組みになってるんです」
+"So you blacked out because your breaker got tripped, huh."
+"Yes."
+"Well, at least now I know."
+「え？」
+"I know that you're a total coward."
+"Since you're a big ol' scaredy pants, I guess I won't ever scare
+you again. Sorry about that."
+I ruffle Multi's hair.
+「…<hira:1>、<name>さん」

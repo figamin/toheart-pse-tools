@@ -1,0 +1,5 @@
+（琴音　回数イベント　ＰＳ）
+"Yo, yo, yo, Kotone!"
+「こんにちは…」
+Ａ　いっしょに帰ろうぜ。
+B. Say goodbye and leave.

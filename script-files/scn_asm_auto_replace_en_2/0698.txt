@@ -1,0 +1,22 @@
+（マルチ　回数イベント　ＬＶ４）
+（選択肢Ｂ　今日までご苦労さん）
+"Multi, congratulations on finishing up your time here."
+I say with all of my heart.
+「ありがとうございます。
+いろいろお世話になりました。
+いつかの日か、またお会いできる日があれば嬉しいです」
+Multi tears up a little.
+「できれば、高校生活が終わるまで、ずっとマルチといっしょにいたかったぜ」
+「<name>さん…」
+"But that's just how it is, I guess...since you're special and all."
+「はい…」
+She nods.
+"Bye, Multi. Take care."
+I smile and place my hand on Multi's head.
+「<name>さんもお元気で。
+お体を大切に」
+"Ohh.
+じゃーな」
+I wave and part ways with Multi.
+"FAAAAAREWELLLLLL! TAAAAAAKE CAAAAAAARE!
+Multi continues to wave at me on end.

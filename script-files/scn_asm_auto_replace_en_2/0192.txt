@@ -1,0 +1,29 @@
+（あかり　回数イベント　１Ｆ　１）
+（３月１１日）
+（下駄箱）
+I spot Akari and Masashi talking in front of the shoe racks.
+"You ever do that before?"
+Masashi asks.
+"Totally!"
+Akari answers.
+They seem oddly excited.
+"Hey, guys."
+「<name>」
+「<name>ちゃん」
+「雅史、お前、部活は？」
+"We have a break from practice since exams are coming up."
+"What?
+ところで、なんの話してたんだ？」
+"About ways to save money."
+"Save money?"
+"Yeah.
+たとえばファーストフードのお得なセットを注文するとき、ついつい頭のなかで単品ずつの合計を計算しちゃわない？」
+"For sure. You save a few dozen yen, but you end up having to order
+a drink, like a coffee you didn't even want."
+"I'm listening."
+Akari nods.
+"It makes me so happy to save a few yen like that."
+「まさに貧乏性ってやつだよね」
+「<name>ちゃんもそういうのって、ない？」
+A. So much that I could ramble on about it.
+B. This is stupid. Bye.

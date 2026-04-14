@@ -1,0 +1,129 @@
+（マルチ　回数イベント　２Ｆ　ＬＶ１）
+（選択肢Ａ　いっちょ、手伝ってやるか）
+If she cleans every nook and cranny of his huge hallway on her own
+then the sun will set before she knows it.
+Guess I'll help her out.
+"Hey, Multi. Gimme a mop too."
+I stick my hand out.
+"Yes."
+「オレもいっしょにやってやるよ」
+「…いっしょにって、お掃除をですか？」
+"You sure did.
+ふたりでやりゃ、早く終わんだろ？」
+「あ、はい、そうですね。
+じゃあ、ふたりでいっしょにやりましょう」
+I take the mop from Multi and dunk it into the bucket of water.
+I push down on the pedal with my foot and squeeze the mop through
+the rollers.
+That should do it.
+"What have you been assigned to clean?"
+"...Yes.
+ここから──」
+Multi scuttles down the hallway to about 16 yards away from where I
+am.
+「──ここまででーす！」
+She smiles and waves.
+　…げげっ、こりゃ結構な面積があるな。
+"But I've already finished this half, so there's only that half left
+to do."
+　オーバーなゼスチャーを交えて言う。
+That brings me a little relief.
+"Alright then. Let's get into this."
+I plop the mop head onto the floor.
+Time to get started.
+"HIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!"
+I put my weight behind the mop and push it down the hallway.
+*slop, slop, slop, slop, slop*
+"W-Wow, you're so full of energy!"
+"Uh-huh. You gotta be really motivated when you clean. Loafin'
+around ain't gonna get these floors sparklin'!"
+"I see."
+「ほらっ、マルチ、お前も気合いを入れろ！
+速攻で片をつけるぜ！」
+"O-Okay!"
+"Okay, follow my lead!"
+"...Understood."
+"DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!
+DAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!
+HRRRRRAAAAAAAAAAAAAAAAAAAAAGHHHHHH!
+HRRRRRAAAAAAAAAAAAAAAAAAAAAAAAAAGHHHHHH!
+YAHYAHYAAAAAAAAAAAAH!
+YAHYAHYAAAAAAAAAAAAAAAAH!
+HIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!
+HIYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!
+MRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!
+MRAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!
+」
+・
+・
+・
+・
+・
+"*wheeze, wheeze*"
+"*huff, huff*"
+"S-See, Multi? Over in a flash."
+"Y-Yes. That was incredible. We really did finish in no time."
+"*wheeze, wheeze*"
+"*huff, huff*"
+"I-I'm totally outta breath..."
+"M-My motor is burning up."
+We both place our hands on our knees and wheeze with exhaustion for
+a while.
+「…ちょっと、きつかったか？」
+「いえ、ちっとも。
+とっても楽しかったです。
+だれかといっしょにお掃除するのって、こんなにも楽しいものなんですね。
+わたし知りませんでした」
+Multi grins.
+"Yeah?"
+I can't help but smile too.
+「でも、<name>さんがこんなにお掃除好きな方だとは知りませんでした。
+じつは、わたしもお掃除大好きなんですよー」
+"Huh?
+　掃除が好き？
+Just as I exhale and close my eyes..."
+"Yes."
+Whoa, whoa, easy there buddy.
+"Why would I?
+好きなんかじゃねーよ。
+掃除なんて面倒くせーだけだ」
+"...Is it?
+　だって、いっしょにお掃除なさりたいなんて言われるもので、てっきりわたし、<name>さんもお掃除が好きなのかと…」
+"After I pick my jaw up from the ground...
+"Listen, Multi..."
+I say, sighing.
+「オレはべつに、掃除が好きだからいっしょにやってたわけじゃねーんだぞ？
+　ひとりで掃除してるマルチが大変そうだったから、手伝ってやったんだ」
+"What? You were helping me?"
+　きょとんとした顔で聞くマルチ。
+「そう」
+I nod.
+「じゃ、じゃあ、わたし、またまた<name>さんにご迷惑をおかけしてたんですか…」
+"Trouble? No, not at all..."
+And then...
+"I-I'm sooooooooooo sorryyyyyyyyyyyyyyyyyyyyyy!"
+Multi takes in a deep breath and opens her eyes up wide for an
+extended apology.
+「な、なんだ？」
+「ほ、本来なら、ロボットであるこのわたしがお手伝いしなきゃならない立場なのにっ！
+<hira:1>、<name>さんには、これでもう２回目の迷惑ですーーーーっ！」
+Multi says as she bows profusely to apologize.
+"Easy now, you're overreacting. It's fine. I helped you because I
+wanted to."
+"B-But..."
+"Consider it a lucky coincidence that I happened to walk past when I
+did."
+「…<name>さん」
+"Let's see...
+道具片付けて、さっさと終わろうぜ」
+I splosh the mop back into the bucket.
+"Aww, thank you so much."
+"Hey, Multi?"
+「初めて出会ったときといい、<name>さんってとっても親切な方なんですね」
+"Me? Kind?"
+"Yes."
+Multi nods emphatically.
+　オレは──。
+A. Am I really?
+B. It depends on the person.
+C. Nah, I'm bad to the bone.

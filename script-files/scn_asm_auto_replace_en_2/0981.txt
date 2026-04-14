@@ -1,0 +1,39 @@
+（雅史回数イベント　３／４　学校を出る）
+（校門２）
+I spot Masashi near the school gate.
+"Hey, Masashi."
+「あっ、<name>。
+帰るの？」
+「ああ。
+お前は？」
+"I'm about to get changed for school practice."
+That's right. Masashi's part of the soccer club.
+He's always practicing until late after school.
+"Geez, you sure have it tough every day."
+"I do it because I like it, so I don't find it tough at all."
+「ほお」
+Always so chill.
+「それよりも、どう？
+　
+<name>もサッカー部に入らない？」
+"I'm sick of hearing that line. Quit trying to recruit me already."
+"It's such a waste of talent, though."
+"There's no talent in these legs."
+「そんなことないよ。
+僕がサッカー始めたのも、もともと<name>に教わったからだし…」
+「そいつももう聞き飽きた。
+教えたっつってもガキの遊びレベルだろ。
+才能あるのはお前だって。
+うちのサッカー部、期待のルーキーなんだろ？」
+"I don't know about that. The guys just happen to pass the ball to
+me at the right moments..."
+「けんそんすんなよ。
+それはチームの連中がお前を買ってる証拠だろ」
+"Really?"
+"Anyway, I'm not joining, and I don't have any plans to ever join."
+"...Guess I'll just have to play the long game."
+"Don't get your hopes up. See ya."
+The longer it drags out, the harder it will be to refuse.
+I somewhat forcefully end the conversation and leave.
+「じゃあ、また」
+Masashi grins.

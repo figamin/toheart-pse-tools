@@ -1,0 +1,33 @@
+（あかり　好感度
+イベント　２．１）
+（好感度が　１４以上　のとき）
+During third period break...
+（廊下）
+During third period break...
+「<name>ちゃん」
+I encounter Akari in the hall.
+"Hey.
+足のほうはどうだ？」
+「うん、もうぜんぜんへーき。
+<name>ちゃんのおかげだよ」
+"Do I?"
+I look away and clear my throat.
+「ったく、つまんねーとこでコケやがって。
+お前みたいなドジを標準装備してるやつは、ちょっとした場所でも油断すんじゃねーよ」
+"Okay, I understand.
+気をつけるよ」
+"Well, at least you weren't hurt too bad."
+I'm about to head off when...
+「あっ、待って、<name>ちゃん」
+Akari stops me.
+"What?"
+"Um..."
+"Yeah?"
+"Well..."
+"Spit it out already."
+"You made me happy just now."
+"Why does it make you happy to have me worry about you?"
+"I dunno."
+Akari shrugs, but she's still smiling.
+"Man..."
+I turn away and leave.

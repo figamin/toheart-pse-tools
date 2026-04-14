@@ -1,0 +1,196 @@
+（智子　好感度イベント　８回目
+）
+（好感度　２０以上）
+（好感度イベント７を見たフラグがＯＮの場合）
+（５時間目の休み時間）
+（廊下）
+We're moving to a lab for the next class.
+"Ugh, I hate how far they make us walk for this."
+"Why do we have to go over there every time anyway? We hardly ever
+do experiments."
+"Because it's easier for the teacher, obviously."
+"Oh, you think so?"
+"What other reason could there be?"
+As we're walking down the hall, we pass some girls from our class.
+Wary of who's watching, they enter an empty classroom.
+"They're supposed to be coming with us, so why are they going back
+to the classroom?
+Did they forget something?
+Actually, wait...
+Could it be...?
+"Something up?"
+"Well, those three..."
+"The girls?"
+"Masashi."
+I hand my things to Masashi.
+"Hm?"
+"Sorry, but can you take that to the lab for me? I think I forgot
+something."
+"What?"
+"Nothing too important."
+I return to the classroom.
+My suspicion was right.
+The three girls are doing something fishy at the Class Rep's desk.
+"Hey, how about this notebook?"
+"She can just throw her notebooks away. Let's do a textbook."
+"I'm not sure that's a good idea."
+"It'll be fine. Not like they can figure out who wrote in it. Just
+change up your handwriting as much as you can."
+"So it should be meaner than last time?"
+"Obviously! That didn't hurt her at all. Make it harsher."
+"Like how?"
+"How should I know? Go with your gut. Just write whatever you think
+of."
+"Isn't this a little dark?"
+"Whatever, you know who we're dealing with. With girls like that,
+hurting her spirit is gonna work best."
+"Hurting her spirit, huh?"
+"Yep."
+"And what are you up to?"
+"The girls instantly look up at me, startled by the sound of my
+voice.
+「<family>…」
+"Doesn't seem like you guys are up to any good."
+「な、なによ、あんたには関係ないでしょ？」
+"I think it is my business. That's my desk right there."
+「えっ、違うよぉ、ここは保科さんの──」
+「ば、ばかっ！」
+She just incriminated herself. That didn't take much.
+「そうだよな、そこは委員長の席だよな。
+で、委員長の席で、お前らはなにしてんだ？」
+"Huh?"
+「な、なにって、べつに…」
+「下手ないいわけすんなよ」
+"What are you getting at?"
+"You're writing in her textbook like you did in her notebook before,
+right?"
+"Wh-What are you talking about?"
+"Don't play dumb."
+I get closer.
+I face off against the three girls.
+From left to right, they are Okada, Matsumoto, and Yoshii.
+Okada is strong-willed and the leader of the group. Matsumoto is
+passive and easily dragged into things. Yoshii is relatively
+understanding, so she acts as their mediator.
+Those are the impressions I get from them, at least.
+I don't want to waste time questioning them, so I get straight to
+the point.
+「委員長のノートの落書き、あれはお前らの仕業なんだろ？」
+They look at each other.
+Then, Okada glares back at me, Matsumoto looks back and forth at
+the other two in a panic, and Yoshii hangs her head with shame.
+That clearly got a reaction from them.
+It had to be their doing.
+"Wr-Wrote what?"
+Okada asks.
+「おいおい、シラをきる気か？
+　もうお前らの顔には『はい、そうです』って、はっきりと書いてあるぜ？」
+"I-I don't know anything about any of this."
+Matsumoto's voice trembles as she speaks.
+"Yoshii says nothing.
+"Be honest."
+When I casually press them, they get even more nervous.
+"There's no use playing dumb at this point.
+I caught you red-handed."
+Flustered, Matsumoto and Yoshii look at each other.
+Okada, however, wouldn't give in.
+She glowers at me in defiance.
+"So what if we did?"
+She explains.
+"You just want us to admit it?"
+"Yep."
+"Then yeah, you're right. It was all us!
+She doesn't get it when we talk to her, so we wrote it out for her
+in her notebook. Hopefully now she kind of understands!"
+"O-Okada, stop!"
+Okada ignores Yoshii and keeps talking.
+"Is that good? Satisfied?!"
+"Then answer my questions now. Why do you know about that? Did she
+tell you?"
+「そういうわけじゃない。
+偶然そのノートを見ちまってな。
+あいつは隠そうとしてたけど。
+お前たちが犯人だってのは、考えりゃ誰でもわかるだろ」
+"Whatever."
+Okada gives me a suspicious look.
+"Why are you on her side anyway?! Who'd side with that nasty,
+selfish girl?!"
+「オレはなにも委員長の味方してるわけじゃねーよ。
+ただお前らのいたずらが、ちょっと度が過ぎてんじゃねーのか」
+"Are we now?"
+Okada laughs.
+"What's the issue? This is nothing!"
+"It's nothing?"
+"Yep, I am.
+　
+べつに蹴ったり殴ったり、暴力ふるったわけじゃないのよ。
+ちょっとノートに落書きしただけじゃない。
+ほんの茶目っ気レベルよ」
+"Just messing around?"
+I get closer to Okada. Matsumoto and Yoshii back away.
+"How was that just messing around?
+I think it was despicable."
+"What reasonable high schooler writes insults on someone's things
+like that? That's elementary school stuff."
+"It's not like she listened when we talked to her. What are we
+supposed to do?"
+"That's no excuse."
+"Y-You're focusing too much on this one thing! She's the one who
+started it. She thinks she's better than us."
+「見下されてもしょーがねーよ。
+今回のこの件、お前ら自身、自分たちのレベルの低さを証明したようなもんだぞ」
+"Well, whoever actually started it, you're the ones who escalated it
+to this point."
+"I think you're exaggerating. Notebooks aren't even 150 yen
+including tax nowadays."
+"It's not about money! Do you not get it?"
+"I-It was just a joke. Don't take it so seriously."
+"Huh?"
+I slump my shoulders and sigh.
+"Look, let me just tell you this."
+I point at Okada.
+「こういうことは今回でやめとけ、いいな？
+　もしも、それでも同じようなことをするようだったら、そんときは──」
+"Wh-What?"
+"I'll make you pay."
+I narrow my eyes.
+Okada is so overwhelmed that she steps backward.
+「…な、なによそれ。
+なんであんたが…」
+Okada starts talking, but...
+"Enough already, Okada!"
+Yoshii stops her.
+「やっぱどう考えても、今回は私たちのほうが分が悪いって。
+<family>くん。
+わかった、もうしない。
+私たちもちょっと悪ノリしすぎたわ。
+だから…」
+"Sure."
+"You're not gonna do this again either, right, Okada?"
+"Okada, let's stop already!"
+Matsumoto begs her too.
+"Okada is reluctant, but she has to back down.
+She's obviously unhappy, but...
+"Fine."
+She agrees.
+"I know how it looks, but Okada probably regrets it too."
+Yoshii backs her up.
+「べつにオレはいい。
+本来は部外者だしな。
+それよりも、できれば委員長に謝ってやってくれねーか？」
+「な、なんであんなヤツに謝まんなきゃ──」
+"Okada!"
+"Yoshii gives her a stern glare. Okada pouts and looks away.
+"Okay.
+いちおうひとことだけ謝っとく」
+Yoshii speaks for them.
+Then, they leave the classroom in shame.
+Whew...
+Maybe it wasn't my place to do that. Was this a good idea?
+I might've just made things even worse.
+"Well, I can deal with the consequences later.
+What's done is done.
+Hmmm...
+But man, I keep acting without thinking.
+I'm only realizing it now.
+Whether that's good or bad can be a subject for another day.

@@ -1,0 +1,36 @@
+（マルチ　回数イベント　１階１）
+（選択肢ＡＢＣ　の続き）
+"Sorry about the sudden questions."
+"Not at all. As a robot, I should be able to tell you all about my
+specs in clear detail, but I'm not the greatest at remembering
+complex concepts..."
+It would make sense for a human, but the fact that Multi has
+concepts that she finds easy or difficult to remember sure makes
+her an odd robot.
+Maybe she really has been manufactured to be as human-like as
+possible in that respect too.
+"Sorry for the explanation pulled from my hazy memory."
+"It was easy to understand, though."
+「本当ですか？」
+"Uh-huh. I feel like I understand a thing or two about Robomaids now."
+"But I'm a particularly odd outlier, so other robots may be
+completely different."
+"THAT different?"
+"Yes. Other robots can skillfully do far more things than me. I'm
+useless compared to them..."
+"Hmmm...
+そうだな、そう言われてみると、たしかにマルチは変わってるよな」
+"Because you're way easier to get along with than other robots."
+「えっ？」
+"You really are human-like. I forget that you're even a robot when I
+chat to you like this. You're like a cute freshman girl to me."
+「…<name>さん」
+Multi's cheeks turn bright red.
+Her blushing is so natural and human-like.
+"Anyway, I'm gonna go home now."
+"Um, sure."
+"Sorry for interrupting you in the middle of your task. Keep up the
+good work cleaning."
+"Thanks! I'll give it all I've got!"
+Multi smiles and waves as I leave.
+She really doesn't seem like a robot at all.

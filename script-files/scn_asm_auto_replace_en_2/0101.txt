@@ -1,0 +1,25 @@
+（あかり　日付イベント１）
+（Ａ　よし、じゃあ一緒にやるか　の続き）
+「よし、じゃあいっしょにやるか」
+I answer.
+"Okay!"
+Akari smiles and nods.
+「じゃあ、今日の帰り、直接<name>ちゃんの家に寄るね」
+"Yeah, later."
+"Just make sure to be home when I get there."
+"Yeah, yeah."
+「雅史ちゃんもいっしょに、しよ？」
+"No, I'll pass. I ask my sister if there's something I don't know."
+"That's right.
+　雅史ちゃんがいたほうが頼もしいと思ったんだけど」
+"Hey, he's got his own life."
+"Mm-hmm."
+"...Sorry."
+「ううん、いいよ、気にしないで。
+それじゃ、<name>ちゃんは、約束だよ」
+With that final reminder, Akari leaves the classroom.
+「なんだよ、お前もいっしょに来りゃあいいだろ？」
+「ふたりの仲をジャマしちゃ悪いと思って」
+"That's a dumb thing to worry about."
+"I dunno..."
+"Man..."

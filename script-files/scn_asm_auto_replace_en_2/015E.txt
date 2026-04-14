@@ -1,0 +1,17 @@
+（あかり　日付イベント４）
+（５月２日限定）
+（好感度１１が発生しているなら）
+（ゆっくりフェード　公園）
+「…<name>ちゃん」
+Akari's waiting for me at the park.
+"Just leave me alone!"
+"Ah!"
+"I don't want to see you for a while."
+"What?!"
+I turn around, and then...
+I walk off.
+「<hira:1>、<name>ちゃ…」
+"Don't follow me!"
+"I quickly turn...
+...and walk off.
+「…<hira:1>、<name>ちゃん」

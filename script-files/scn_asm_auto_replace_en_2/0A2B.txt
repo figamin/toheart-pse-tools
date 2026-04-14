@@ -1,0 +1,31 @@
+（理緒　好感度イベント　
+Oden?
+（昼休み）
+（食堂）
+"Tch, I got a late start today."
+My fourth period class goes five minutes over, so I have to make a
+mad dash to the cafeteria.
+However, my favorite pork cutlet sandwich has already been sold out.
+"Guess I won't be having that today."
+"Oh, sorry."
+I collide into someone while I am looking the other way.
+The girl bows her head as well upon hearing my apology.
+"It's okay! I wasn't looking!"
+"Wait a minute... Rio?"
+「あれ？
+　
+<family>くんだ」
+"Sorry about that. I got distracted by my hunger."
+「私の方こそ。
+<family>くん、お昼ごはんはこれから？」
+「まーな」
+I see that Rio is holding a surprisingly large lunch box.
+"You too?"
+"Yeah. The weather's pretty good today so I was thinking of eating
+on the rooftop."
+"Rooftop, you say."
+It's been a little windy lately, but that might add to the
+enjoyment.
+　オレは…。
+Ａ　いっしょに食おうか？
+B. Enjoy your meal.

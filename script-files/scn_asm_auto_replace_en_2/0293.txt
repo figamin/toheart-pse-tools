@@ -1,0 +1,19 @@
+（芹香　回数イベント　２Ｆ　ＬＶ３）
+（廊下１）
+When I exit the classroom, I run into Kurusugawa.
+"Hey, my lady. How was your day?"
+"Nice weather, huh?"
+She nods.
+She's as spacey as ever.
+I was wondering if she'd tell my fortune with tarot cards again
+when...
+"Uh, what is it?
+　今日はクラブがある日だから、よかったら見学に来ませんかって？」
+She nods.
+I'm invited to attend a meeting of the Occult Research Club.
+「………」
+「この間のお約束どおり、ご案内しますって？
+　うーん、そうだなあ」
+　どうすっかな──。
+A. Go.
+B. Some other time.

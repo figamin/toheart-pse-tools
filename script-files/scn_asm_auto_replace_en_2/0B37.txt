@@ -1,0 +1,51 @@
+（綾香　綾香に挑戦　回数イベント５　後半）
+（セリオ　消し）
+Alright, gloves on.
+Now, how should I attack today?
+There are a few things I want to try.
+Either *this* or *that* might be good.
+Or maybe something like *that* would work.
+"I catch sight of Ayaka staring at me.
+"Huh? What is it?"
+「今日の<name>、なんだか、いつにない気迫を感じるわね」
+"Intimidating? Me?"
+「うん」
+「べつにいつもと変わんねーけど…？」
+"No, you're completely different. I can tell from the look on your
+face."
+"You're just imagining things. In fact, I'm feeling more relaxed
+than usual."
+I shake my hands.
+"Anyway, let's get started."
+"You mean with our match?"
+"Of course. What else are we here for?"
+"Yeah, we're here for a match, but why do you look so happy?"
+"Do I look happy?
+Hmm, well, I guess I am.
+最近お前に教わりだしてから、試してみたいことが増えたからな。
+授業中とかもどう攻めるかとか、そんなことばかり考えてんだぜ。
+イメージトレーニングってやつ？」
+"Don't drift off during class!"
+She giggles.
+"Let's do this."
+「おう」
+"Let's start."
+「いいぜ」
+I get into a fighting stance as well.
+"Good. Serio, start the match."
+「はい」
+Serio is the referee. She steps forward.
+「レディ──」
+「………」
+「………」
+「──ファイト」
+*whoosh, whoosh*
+　バシッ、
+バシッ！
+　スパンッ！
+*smack*
+We trade blows furiously in close combat.
+　その中で、オレは──。
+A. I have a feeling I can win today.
+B. I've become painfully aware of Ayaka's strength.
+C. I've become painfully aware of my own lack of skill.

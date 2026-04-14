@@ -1,0 +1,12 @@
+（志保　回数イベント　２階２）
+（４／２５固定）
+（廊下１）
+「アロハー、<nick>」
+When Shiho sees me, she gives me a strange greeting.
+"Are you Hawaiian now? Do you know what that word means?"
+"Not really, but a greeting's a greeting."
+"I honestly don't care, but..."
+"Aloha means both hello and goodbye."
+　オレは──。
+A. Keep talking.
+B. Ditch her.

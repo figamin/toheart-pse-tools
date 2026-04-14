@@ -1,0 +1,8 @@
+（マルチ　回数イベント　帰り道）
+（選択肢　あいさつして別れる）
+"I was just on my way to stop by the arcade."
+"Oh, really?"
+"See you. Be careful on your way home."
+"I will. Bye."
+Multi smiles and waves as I leave to head into the arcade.
+　その日は適当に、小銭分だけ暇をつぶして家に帰った。

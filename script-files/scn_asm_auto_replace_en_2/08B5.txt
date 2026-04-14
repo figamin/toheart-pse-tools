@@ -1,0 +1,8 @@
+（レミィ　回数イベント　１階３　ＬＶ２）
+（選択肢　「ワリィけど」）
+"Sorry, but I'm a bit busy today."
+"Really?"
+"I'm really sorry."
+I apologize profusely.
+"Okay, bye then..."
+Lemmy must have gotten the message and slinks away.

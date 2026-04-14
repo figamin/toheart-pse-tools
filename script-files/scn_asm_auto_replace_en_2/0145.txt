@@ -1,0 +1,54 @@
+Akari...
+好感度イベント　３）
+（好感度が　１８以上　のとき）
+It's the second period break.
+（渡り廊下）
+It's the second period break.
+I'm thirsty, so I buy a cafe au lait from the vending machine. I'm
+drinking it when...
+「<name>ちゃん」
+Akari says something to me.
+"Did you get a drink?"
+"Yeah, I think you can see that."
+"Oh, cafe au lait again?"
+"Why not? I like it."
+「………」
+「なんだよ、お前も買って欲しいのか？」
+"N-No, but..."
+　そのとき──。
+"Oh!"
+"It's Kurusugawa."
+Kurusugawa passes by us looking as spacey as ever.
+Her wavy black hair sways in the wind.
+I wave to her and grin.
+"I don't know if she notices. Her face remains blank and she
+continues on without responding.
+It looks like she's heading to the courtyard.
+Maybe she's going to sunbathe.
+「やっぱりきれいだよねー」
+Akari watches her go and whispers.
+「へえ、同性のお前から見てもキレーなのか、あのお嬢様は」
+"Yeah, of course. I'd love to have such shiny hair."
+"I see. Sure, she's pretty."
+「<name>ちゃんもそう思うでしょ？」
+"Obviously. Guys are more into long hair than girls are."
+"Huh, really."
+"I mean, some guys like short hair, but I'm sure even those guys can
+appreciate some long, pretty hair."
+"Hmm..."
+Akari plays with her pigtails and awkwardly nods.
+After a moment's silence, Akari asks me something.
+「ね、<name>ちゃん。
+<name>ちゃんはストレートの髪って好き？」
+"Hey."
+"What about curly hair?"
+"I like it."
+"You like long hair?"
+"Yeah."
+"And short hair?"
+"Love it."
+"Geez.
+じゃあ、どんな髪形が好みなの？」
+"Yeah.
+結局、かわいくて似合ってりゃなんでもオッケーってとこかな」
+"That doesn't tell me anything!"

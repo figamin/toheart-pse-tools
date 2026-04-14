@@ -1,0 +1,16 @@
+（あかり　回数イベント　１Ｆ）
+（Ａ　横に並ぶ）
+I pick up the pace and walk up next to Akari.
+"Hey, how's it going?"
+「あっ、<name>ちゃん」
+"On your way home?"
+"Yes?
+でも今日は掃除当番だから、それが終わってからね」
+"Are you starting that now?"
+"Not really...
+１階廊下なんだ」
+"The hallway?"
+It doesn't take very long to clean the hallway.
+What should I do?
+Ａ　待って、いっしょに帰る。
+B. Tell her goodbye.

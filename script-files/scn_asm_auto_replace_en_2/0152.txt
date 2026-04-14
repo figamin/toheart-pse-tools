@@ -1,0 +1,16 @@
+（あかり　好感度イベント６．１）
+（選択肢Ａ　キスをしたの続き）
+（キスした　フラグＯＮ）
+"Akari..."
+「<name>ちゃん…」
+When I brought my lips close to hers, Akari naturally closed her
+eyes.
+　そして──。
+That day, we had our first kiss.
+What lingers most in my memory is the gentle warmth of our lips and
+the deep orange light of the setting sun.
+「…<name>ちゃん」
+"Sure."
+"You're gonna get sick."
+"Don't be dumb."
+I playfully poke Akari in the forehead.
