@@ -3,6 +3,7 @@
 Wednesday, March 12th.
 Time to start another day.
 "The leaves are looking wet today."
-"It rained pretty hard last night. Didn't you notice?"
+"It rained pretty hard last night.
+Didn't you notice?"
 "Oh, no, not at all."
 "You must've slept like a log."

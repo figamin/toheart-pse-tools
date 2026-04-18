@@ -1,18 +1,18 @@
 （期末テスト　５日目最終日）
 （選択肢　全然ダメ）
-「全然だめ」
+"It went terribly."
 "What?!"
-「ぜ～んぜん駄目。
-超やばい」
-"I'm really not...
-<name>ちゃん、今回はちゃんと勉強したんでしょ？」
+"It was just awful.
+Real awful."
+"But <name>-chan,
+you actually studied this time."
 Akari looks worried.
 "Well, I'm probably just not that smart."
-"But you are nice.
-<name>ちゃん、ほんとはできる子なんだから」
+"That's not true, <name>-chan.
+You're very capable."
 "You don't know that."
 "I totally do."
-"Well, whatever. I don't want to get my hopes up just to be let down
-later."
+"Well, whatever.
+I don't want to get my hopes up just to be let down later."
 "I think you'll be fine."
 "You're saying that based on nothing."

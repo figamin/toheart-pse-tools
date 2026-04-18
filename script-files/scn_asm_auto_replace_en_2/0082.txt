@@ -1,11 +1,11 @@
 （期末テスト　１日目）
 （選択肢　まあまあかな）
-"Well, I guess I get by."
+"I did okay."
 "I think that's about how I did too."
-「オレの場合は一夜漬けだししょうがねーけど、お前はマジメにやってたんだろ？」
-「…う、うん、まあ、そうだけど、やっぱり実力がね。
-<name>ちゃんこそ、本当は頭いいんだから、もっと前もって勉強すれば…」
-"That again? What makes you think I'm smart?"
-"You're super quick to understand things. If you really wanted to, I
-know you could get great grades."
+"I just crammed the night before though, so I wouldn't expect any better. But you've been seriously studying, right?"
+"Y-Yeah, well, that's true, but it takes a while for stuff to click for me.
+You're actually really smart, <name>-chan. If you would just study more…"
+"That again?
+What makes you think I'm smart?"
+"You're super quick to understand things. If you really wanted to, I know you could get great grades."
 "I dunno about that."
