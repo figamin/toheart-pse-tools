@@ -19,20 +19,21 @@ The best support available is Akari.
 I'll give her a call.
 *riiiiiiiiiing*
 *click*
-『もしもし、神岸ですが──』
+"Hello, you've reached the Kamigishi residence."
 "Oh, hey, it's me."
-"Yes."
+"Yes?"
 Oh crap.
-　あかりだと思って声をかけたが、よく聞くとそれは、おばさん──あかりの母さんの声だった。
-「あ、<name>です、こんちは。
-…えっと、あかり居ます？」
-『え、<name>ちゃんなの？
-Akari...
+I thought it was Akari, but it was her mom.
+"Oh, this is <name>. Hello.
+Uh, is Akari there?"
+"Oh, it's you, <name>-chan?
+
+Akari?
 　
-ああ、ゴメンね。
-今朝早くに出かけちゃったのよ』
+Sorry,
+but she went out early this morning."
 "I see.
-あ、じゃあ、いいです」
+Never mind, then."
 "Sorry about that."
 *click*
 Tch.
@@ -45,5 +46,5 @@ Oh well. I'll have to manage on my own.
 ・
 ・
 ・
-　結局、ひと通り掃除が終わったのは、陽も大きく傾いた夕暮れどきだった。
+By the time I finish cleaning, the sun is setting.
 I'm so tired!

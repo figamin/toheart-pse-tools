@@ -2,49 +2,49 @@
 （とくにイベントがない場合）
 （居間）
 Wha?
-I'm about to make myself something to eat when I realize my supply
-of instant noodles has run dry.
-Although I realize I shouldn't be eating instant noodles every day
-even over spring break, I still feel the need to stock up.
+I'm about to make myself something to eat when I realize my supply of instant noodles has run dry.
+Although I realize I shouldn't be eating instant noodles every day even over spring break, I still feel the need to stock up.
 So I go shopping.
 I buy ramen, udon, and yakisoba while I'm at it.
 This should last me for a while.
 It makes me feel poor, though.
-「あれっ、<name>」
+"Oh, <name>."
 I happen to run into Masashi.
 He's holding a plastic bag.
-「よお、お前も買い出しか？」
+"Hey, you're out shopping too?"
 "Yeah, my sister asked me to."
 "Haha, what? Still can't say no to Chiemi?"
-「べつにそういうわけじゃ…」
-"Well, I'm not one to talk. I can't say no to Chiemi either."
+"It's not really like that."
+"Well, I'm not one to talk.
+I can't say no to Chiemi either."
 I laugh.
-　雅史の姉さん…
-千絵美さんとは、結構歳が離れているせいか、オレも昔からどうも頭が上がらなかった。
+Masashi's sister
+was a good deal older than I was, so I always feel like I have to be deferential to her.
 "She's pregnant, so it is what it is."
 "Oh, right.
-何ヶ月だっけ？」
-"Seven months, I think?"
+How far along is she?"
+"Seven months,
+I think?"
 "Then she's got to be showing by now, huh?"
-"Meh."
+"I guess."
 Masashi and I chat and walk together.
 "Did you have practice this morning?"
-"Okay.
-グランドの都合で、たまたま」
-「朝っぱらから大変だな、お前も」
+"Yeah,
+that's when the field is available."
+"Sucks that you have to do all that so early."
 "It's fun. I don't mind."
 Masashi sounds content.
-"I understand what my weaknesses are now, and I want to get better..
+"I understand what my weaknesses are now, and I want to get better...
 We have a lot of practice matches, and they're pretty fun."
 "Yeah?"
-Masashi was sort of a flake back in elementary school, but you'd
-never know it from the way he is now.
+Masashi was sort of a flake back in elementary school, but you'd never know it from the way he is now.
 He's way more together than I am.
-「なに、<name>？」
+"What is it, <name>?"
 "What do you mean?"
 "You look like you want to say something."
 "Oh, yeah, I guess."
+"Hm?"
 "Well, Masashi..."
 "Hm?"
-Ａ　がんばれよ。
+A. Good luck.
 B. I bet all the girls are into you now, huh?

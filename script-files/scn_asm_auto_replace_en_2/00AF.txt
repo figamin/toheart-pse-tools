@@ -174,91 +174,86 @@ He's strict, but he's a good, hard-working teacher.
 "I think you know this, but I'm the physics teacher,
 so we'll see each other in that class too.
 The opening ceremony starts soon, so head to the auditorium and line up as your name is called."
-The students noisily stand up from their seats, head into the
-hallway, and make their way to the auditorium.
-　そして、始業式──。
-　──も、あっという間に終わり、放課後。
-Opening ceremonies are annoying, but at least we can just leave
-when they're done.
-I figure I might as well ask if everyone wants to hang out like
-usual.
+The students noisily stand up from their seats, head into the hallway, and make their way to the auditorium.
+There we have the opening ceremony.
+It finishes in no time and school comes to an end for the day.
+Opening ceremonies are annoying, but at least we can just leave when they're done.
+I figure I might as well ask if everyone wants to hang out like usual.
 I start with Masashi.
 "Hey, Masashi."
-"What?
+"What's up,
 　
-<name>」
+<name>?"
 "Do you want to go somewhere right now?"
 Masashi looks guilty.
-"Sorry.
-これから部のオリエンテーションがあって、それに出なきゃいけないんだ」
-She says.
-"Oh, whoops.
-部活所属者にはそういうのがあるんだな」
-The entrance ceremony for the new students was happening later in
-the auditorium.
-　それが終わると、続いてグランドのほうでオリエンテーションが始まる。
-Orientation was when all the after school clubs competed to draw
-new members.
-　グランドには、体育系、文化系のクラブの出し物が出そろい、さながら学園祭のような雰囲気になる。
+"Sorry,
+but I have to go to a club orientation later."
+He explains.
+"Oh, yeah?
+I guess you have to do those things when you're in an after school club."
+The entrance ceremony for the new students was happening later in the auditorium.
+It would be followed by an orientation in the school yard.
+Orientation was when all the after school clubs competed to draw new members.
+All the sports and culture clubs set up stands in the school yard, making it feel just like a school festival.
 Masashi's going to help the soccer team recruit new members.
 Maybe he's going to show off his soccer ball juggling or something.
-"Sorry.
-埋め合わせはいつかするよ」
+"Sorry about that.
+I'll make up for it some other time.
 "It is what it is."
 After I say that...
-「やっほーっ！
+"Hey there,
 　
-<nick>！」
+<nick>!"
 Shiho loudly approaches.
-"Don't shout my name so loud. It's embarrassing."
-「あら、元気が一番よ＠」
+"Don't shout my name so loud.
+It's embarrassing."
+"Hey, the fact that I'm energetic is a good thing@"
 "Having energy is one thing. Being annoying is another."
-"That distinction doesn't matter. Anyway, we got off early today.
-How about we hang out?"
+"That distinction doesn't matter. 
+Anyway, we got off early today. How about we hang out?"
 "I was just thinking the same thing."
-「なら話が早いわね。
-あんたと雅史、ふたり追加ね」
-"Sorry, Shiho. I'm busy with something."
+"Great! 
+You and Masashi can both come along."
+"Sorry, Shiho.
+I'm busy with something."
 "He's recruiting for the soccer team."
 "Oh, huh.
-ま、頑張ってらっしゃい」
+Well, good luck with that."
 "Sorry.
-じゃあ、そろそろ行くから」
+Well, I should get going."
 Masashi waves goodbye and leaves the classroom.
-"And?
-Oh...
-あっ、見っけ。
-ちょっと、あっかりぃ～！」
+"Now there's just…
+Oh,
+found her.
+Hey, Akari!"
 Shiho beckons Akari over just as she returns to the classroom.
 "What's going on?"
 "We're gonna go hang out somewhere."
-"What?
+"Oh,
 　
-これから？」
-"I totally am.
-あいてるわよね？」
+right now?"
+"Yep.
+You're free, right?"
 "I am, yeah."
-"Then it's settled! Let's have some fun."
+"Then it's settled!
+
+Let's have some fun."
 Shiho is already all hyped up.
 "Don't start the school year off by going too wild."
 "Don't be a killjoy."
 And so, we hit the town again.
-「見て見てっ、あかり！
+"Look, Akari!
 　
-あのワンピース、チョーかわいいっ！」
-"Ooh, you're right!."
+That dress is super cute!"
+"Ooh, you're right!"
 "What about that one?"
 "Yeah, that's another good one!"
-Hanging out with two girls might make me look lucky, but it's
-actually surprisingly boring.
-We wander around the station before walking into the karaoke place
-above the arcade.
+Hanging out with two girls might make me look lucky, but it's actually surprisingly boring.
+We wander around the station before walking into the karaoke place above the arcade.
 This is where Shiho shines.
 When she gets a microphone in her hand, she never lets go.
-She has a huge repertoire of songs, so she can go on singing
-forever.
+She has a huge repertoire of songs, so she can go on singing forever.
 "Shiho, you're such a good singer."
-"But why do I have to pay so much money just to watch her have a
-recital?"
+"But why do I have to pay so much money just to watch her have a recital?"
 I scowl and sip my cola.
 Akari shrugs and awkwardly smiles.

@@ -7,11 +7,10 @@ I go home and eat a bento I bought on the way back for dinner.
 Then, around two...
 *ding-dong*
 *clack*
-「こんにちは、<name>ちゃん」
-　その日もあかりといっしょに勉強した。
+"Hello, <name>-chan."
+I study with Akari again.
 Tomorrow's exams were English and Social Studies.
 Both subjects are all about memorization.
-First, we cover English by simply reviewing vocabulary, then we
-memorize Akari's notes for Social Studies.
+First, we cover English by simply reviewing vocabulary, then we memorize Akari's notes for Social Studies.
 I appreciate that Akari makes copies of her notes for me.
 She goes home around six, as usual.

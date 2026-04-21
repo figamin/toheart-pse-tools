@@ -1,26 +1,26 @@
 （システムイベント　テスト発表）
 （あかりと勉強有り）
 （Ｓ≦４の場合）
-My average score is 67.
+My average score is
+67.
 That's decent.
-But if I'd known about the supplementary classes, I would've tried
-a little harder.
-「<name>ちゃん」
+But if I'd known about the supplementary classes, I would've tried a little harder.
+"<name>-chan."
 Akari approaches me.
-"Okay."
+"Hey."
 "How did you do on the exams?"
-"Yeah.
-いま、平均を出したところだ」
+"Oh,
+I just calculated my average.""=
 "What was it?"
-　いちおう気をつかってか、少し遠慮気味に聞く。
+She sounds a bit nervous.
 "67 points."
 "Okay.
-悪くないね」
+That's not bad."
 Akari smiles, and it was as if a flower had suddenly blossomed.
 That puts me in a good mood.
 "Well, it's no big deal."
 I try to be humble.
-「ちょっと勉強しただけで、６７点だもの。
-やっぱり、やればできるね、<name>ちゃんは」
+"That's 67 points with just a little studying.
+I knew you could do it if you tried, <name>-chan."
 "We can't assume that'll always be true."
 Still, I want to believe that studying with Akari paid off.

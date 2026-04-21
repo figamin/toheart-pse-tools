@@ -1,6 +1,6 @@
 （３月２３日　昼）
 （商店街に行く）
-Shopping Arcade
+（商店街）
 I go to the shopping arcade.
 After wandering for a while, I stop in front of the drug store.
 I remember that I'm out of hair gel.
@@ -11,43 +11,54 @@ Hm?
 There's a new type out?
 I guess I could try this one this time.
 I pick up the hair gel when...
-"Huh?
+"Oh?
 　
-お買い物？」
+Are you shopping?"
 I hear a voice.
 I turn around and see Shiho.
-"What's it say?
+"What's up?
 　
-ほおほお、いまどきの男子たるや、身だしなみも大切だかんね～」
+Oooh, boys these days sure care about grooming themselves!"
 Shiho sees what I'm buying and snickers.
 "Got a problem with that?"
-"Let me pick one out for you. Uh, this seems good."
+"Let me pick one out for you.
+Uh, this seems good."
 She grabs the first thing she sees.
-"You just picked something at random, didn't you?"
-"Oh, you can tell? Then what about this?"
-"You're still doing it. That's the one I already picked out."
+"You just picked something at random,
+didn't you?"
+"Oh, you can tell?
+
+Then what about this?"
+"You're still doing it.
+That's the one I already picked out."
 "Oh, then get this one."
 "That's the first one you picked."
-"Umm, then, uh... This!"
+"Umm, then,
+uh...
+This!"
 "Again, that's the one I'm holding."
-"What?! Then how about this one?"
-「それはお前が最初に取ったやつだろーが。
-記憶力あんのか、この鳥頭！」
-"Wh-What the heck?! Do they only have two kinds?!"
-"Yeah, took you long enough to notice."
+"What?!
+Then how about this one?"
+"That's the first one you picked up again.
+Can't you remember anything, birdbrain?!"
+"Wh-What the heck?!
+
+Do they only have two kinds?!"
+"Yeah,
+took you long enough to notice."
 "You tricked me!"
-"I didn't do anything. Pay more attention."
+"I didn't do anything.
+Pay more attention."
 "This is lame."
-"Man...
-つき合いきれねーな。
-だいたいおめーはなにしに来たんだ？」
-「あたし？
+"Man,
+I can't deal with you.
+What are you doing here anyway?"
+"Me?
 　
-あたしは待ち合わせで──
-あっ、遅れそう！
+I was gonna meet up with someone.
+Wait, I'm gonna be late!
 　
-んじゃ<nick>、また来週～っ」
-Speaking at the breakneck speed of a fast-talking auctioneer, Shiho
-runs off.
+See you next week, <nick>!"
+Speaking at the breakneck speed of a fast-talking auctioneer, Shiho runs off.
 What is her deal?
 I'm kind of stunned, but Shiho's erratic behavior makes me laugh.

@@ -7,19 +7,21 @@ I go home and eat whatever is available for lunch. It's one o'clock.
 Akari is supposed to arrive soon.
 *ding-dong*
 Oh, there she is.
-「<name>ちゃーん」
+"<name>-chan!"
 Akari comes over once again.
-　あかりといっしょに勉強するのも、これでもう３日目だ。
+This is the third day of us studying together.
 Monday's exams are English grammar and Chemistry.
 We just focus on grammar for the day and leave Chemistry for Sunday.
 "Okay, so use the words in the brackets to form a sentence."
-"The words are all mixed up, and you have to put them in the right
-order."
-"(a/she/her/is/everyone/kind/loves/girl/that/such)."
-「…<name>ちゃん、わかる？」
-"I'm guessing 'She is such a kind girl' is the first part. I don't
-know what goes after that though."
+"The words are all mixed up,
+and you have to put them in the right order."
+"(a/she/her/is/everyone/
+kind/loves/girl/
+that/such)."
+"Do you know the answer, <name>-chan?"
+"I'm guessing 'She is such a kind girl' is the first part.
+I don't know what goes after that though."
 "Probably 'that everyone loves her.'"
-"Sure."
+"I see."
 "This is the tricky part..."
-　その日、夕方６時頃、明日の日曜日も午後からいっしょに勉強することを約束して、あかりは帰っていった。
+Akari promises to come study again on Sunday afternoon and leaves at around six that night.

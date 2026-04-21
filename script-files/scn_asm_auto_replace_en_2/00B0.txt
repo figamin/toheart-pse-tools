@@ -1,6 +1,6 @@
 （４月９日　朝）
 （自分の部屋）
-　４月９日の朝。
+It's the morning of April 9th.
 The weather's nice again today.
 And better weather makes it easier to wake up, thankfully.
 "You managed to get up on your own this morning!"
@@ -9,7 +9,7 @@ And better weather makes it easier to wake up, thankfully.
 She says, flustered as she insists she's speaking highly of me.
 "You look like you're in a good mood."
 Akari's been smiling even more than usual.
-「今日から教室までいっしょだと思うとね」
+"I'm just thinking about how we'll be walking all the way to our classroom together, starting today."
 "It's not that much of a change."
 "No, it's a big difference."
-"Uh-huh."
+"I guess."

@@ -4,12 +4,16 @@
 Monday, March 24th.
 It's finally time for the school's closing ceremony.
 Tomorrow is the start of spring break.
-But unfortunately for me, I have to take supplementary classes.
-「今日は<name>ちゃん、嬉しい日だね」
+But unfortunately for me,
+I have to take supplementary classes.
+"I'm sure you're happy today, <name>-chan."
 "Why?"
 "Because spring break starts tomorrow."
-"You know me well, but you're not quite right."
+"You know me well,
+but you're not quite right."
 "Why?"
 "I have to take supplementary classes."
-"Oh, right. Sorry."
-"Don't worry about it. I only have myself to blame."
+"Oh, right.
+Sorry."
+"Don't worry about it.
+I only have myself to blame."

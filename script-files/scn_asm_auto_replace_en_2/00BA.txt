@@ -7,4 +7,4 @@ It was looking like we might have sunlight by noon.
 "The rain scattered the cherry blossoms everywhere."
 Akari says holding an umbrella and walking next to me.
 "Flowers are beautiful because they fall."
-「<name>ちゃん、詩人だね」
+You're like a poet, <name>-chan."

@@ -1,17 +1,16 @@
 （システムイベント　卒業式）
-It's morning.
+（朝）
 （自分の部屋）
 Friday, March 7th.
 I end up waking up early somehow.
 Today is the graduation ceremony.
 Maybe I'll go say goodbye to the seniors.
-「<name>ちゃん、今日は早かったね」
+"You're up early today,<name>-chan."
 "It happens sometimes."
 "I see..."
 Then, the boring graduation ceremony begins.
-　在校生にすれば、べつに感慨深くもなく、かったるい時間の無駄でしかない。
-If any of them were nice and dependable like Masashi, that'd be
-another story.
+I don't feel any particular attachment to the people who happen to attend the same school as me. It's all just a tedious waste of time.
+If any of them were nice and dependable like Masashi, that'd be another story.
 ・
 ・
 ・
@@ -19,8 +18,7 @@ another story.
 ・
 It's finally over.
 With all the standing up and sitting down, I don't even get to nap.
-Although I couldn't care less about the graduation, there are girls
-who are moved to tears.
+Although I couldn't care less about the graduation, there are girls who are moved to tears.
 Well, anyway, it's over with now.
 We freshmen get to go home a little early.
 The juniors are supposed to be cleaning up the assembly hall.
@@ -28,24 +26,22 @@ That's because the freshmen had to set everything up beforehand.
 "We won't be seeing the seniors again."
 Masashi speaks up.
 "Yeah."
-It makes me a little jealous to think they won't have to come to
-school anymore.
+It makes me a little jealous to think they won't have to come to school anymore.
 "And we'll be graduating ourselves in a couple of years."
-"You're getting ahead of yourself. That's not even worth thinking
-about right now."
+"You're getting ahead of yourself.
+That's not even worth thinking about right now."
 I can't even imagine where I'll be in two years.
-「<name>は進学するの？」
-It's way too soon to think about that, but Masashi is obsessed with
-graduation.
+"Are you gonna go to college?"
+It's way too soon to think about that, but Masashi is obsessed with graduation.
 "I don't even know what I'll be doing tomorrow, personally."
-「それ、<name>らしいね」
+"That's so like you."
 Masashi smiles.
-「なあ、そんなことより、今日暇か？」
-"Yep.
-部活も休みだし」
-"Oh, perfect. Then how about we go hang out somewhere on our way
-home?"
-「いいよ」
+"Anyway, are you free today?"
+"Yeah,
+the soccer club doesn't have practice."
+"Oh, perfect.
+Then how about we go hang out somewhere on our way home?"
+"Sure."
 "Alright, it's settled."
 "Should we see if Akari and Shiho want to come with?"
 "Yep."

@@ -2,54 +2,57 @@
 ベント１）
 （３月１３日）
 （好感度が１以上のとき）
-It's lunch time.
+（昼休み）
 （教室　休み時間　雅史　普通）
-「でさ、そのとき──」
+"So then…"
 It's lunch time.
-　いつもどおり購買部で買ったパンとコーヒーの昼メシを食い終え、雅史とふたりでだべっていると。
-「<name>ちゃん」
+I just finished my usual sandwich and coffee from the student store, and Masashi and I are chatting.
+"<name>-chan."
 Akari walks over from the door to the classroom.
 "Did you two already finish lunch?"
-"What is it?"
+"Yeah."
 Masashi nods.
-"Oh yeah, Akari, Chiemi wanted me to tell you she's sorry about
-making you come with her the other day."
-"Tell her I enjoyed it. I even got to see you play."
+"Oh yeah, Akari,
+Chiemi wanted me to tell you
+she's sorry about making you come with her the other day."
+"Tell her I enjoyed it.
+I even got to see you play."
 "What are you two talking about?"
 "Chiemi asked me to go watch Sashi's match with her on Sunday."
 "Oh..."
 Chiemi is Masashi's older sister.
-She got married and moved out last year, but she's pregnant now, so
-she moved back in so her mom can help when the baby's born.
-She's always treating Masashi like a beloved pet, never letting him
-out of her sight.
-　とくにいまは暇を持て余してるだろうから、試合の応援に行くのも納得だ。
+She got married and moved out last year, but she's pregnant now, so she moved back in so her mom can help when the baby's born.
+She's always treating Masashi like a beloved pet, never letting him out of her sight.
+She probably has a lot of time on her hands right now, so I can imagine why she'd go watch him play soccer.
 She must have asked Akari to keep her company.
-「<name>ちゃんも誘おうと思って電話したけど、全然つながらないし…」
+"I called to ask if you wanted to come with, but I couldn't get a hold of you."
 "Well, I'm not always around."
-"Sashi did great. He scored half the points. All the girls in our
-class cheered him on, it was crazy."
-"Oh."
+"Sashi did great.
+He scored half the points.
+All the girls in our class cheered him on, it was crazy."
+"Wow."
 "Oh, I got a lot of support from the older players in that match.
 Soccer's all about teamwork."
 "You don't have to be so humble, Sashi."
-"But it's true. Anyway, Akari, did you need something?"
-「あっ、うん、ちょっと<name>ちゃんに」
-"What is that...?
-オレに用か？」
-"Really.
-あのね、今日学校が終わったら<name>ちゃんの家に行こうと思うんだけど、いい？」
-"Yeah?
-　なにしに？」
-「いっしょにテスト勉強しようと思って。
-ほら、一学期の期末テストのときもいっしょに勉強したでしょ？」
-「なんだよ、また突然。
-いっしょにやるっつっても、もう明日は本番なんだぜ？」
-"Yep.
-だから、明日に備えて最終チェックっていうか。
-おたがいわかんないとこを確認し合ったりして」
-　あかりといっしょに勉強か。
-Mmmm...
-Let's see...
-Ａ　よし、じゃあいっしょにやるか。
-Ｂ　今回はひとりでがんばるぜ。
+"But it's true.
+Anyway, Akari,
+did you need something?"
+"Oh, yeah. <name>-chan."
+"What?
+?"
+"Um,
+do you mind if I come over after school?"
+"What
+for?"
+"I wanted to study for exams with you.
+Like how we studied for finals last semester, remember?"
+"Isn't it kind of late for that?
+Exams start tomorrow."
+"Yeah,
+so I wanted to do one last check to prepare.
+We can help each other with any knowledge gaps."
+Studying with Akari?
+Hmmm…
+Let's see…
+A. Alright, let's do it.
+B. I'll try to study on my own this time.

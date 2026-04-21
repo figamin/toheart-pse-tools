@@ -5,16 +5,16 @@ Noon?
 I'm starving. I should go get something to eat.
 What to eat today?
 I look around.
-「あ、<name>」
+"Oh, <name>"
 "Hey."
 I run into Masashi.
 "Are you going out?"
-「いや、適当に飯食いにな。
-お前は？」
-「友だちにテスト範囲のノート借りたから、それをコピーしに」
+"Oh, I'm just getting something to eat.
+What about you?"
+"I borrowed a friend's notebook for the next exam, and I was making copies of the pages."
 "For what? Chemistry?"
-"Yep."
-「相変わらず、ちゃっかりしてやがんな、お前は」
+"Yeah."
+"You're so damn well-prepared, you know that?"
 "Anyway, I was on my way to return the notebook."
 "Let me make copies of it too first."
 "Sure."

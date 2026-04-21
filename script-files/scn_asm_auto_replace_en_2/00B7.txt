@@ -4,13 +4,13 @@ Thursday, April 17th.
 It's morning already?
 The earthquake last night cost me ten minutes of precious sleep.
 "Hey, did you know there was an earthquake last night?"
-"What is it?
-朝起きたら、お母さんが言ってた」
-"Then what?
-お前は知らなかったのか」
-"Yeah.
-ぐっすり寝てた」
-"It happened right before I went to sleep. I wasted ten minutes I
-could've spent asleep watching the news about it."
-「<name>ちゃんにとっては、貴重な１０分よね」
+"Yeah,
+my mom told me when I woke up."
+"What?
+You didn't feel it?"
+"Nope,
+I was fast asleep."
+"It happened right before I went to sleep.
+I wasted ten minutes I could've spent asleep watching the news about it."
+"Ten minutes is a lot for you."
 "Seriously."

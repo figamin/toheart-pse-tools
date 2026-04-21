@@ -6,10 +6,11 @@ Morning has, of course, come again.
 Well, time for another day of learning.
 I'm heading out!
 I inform the empty living room that I'm leaving, then exit the door.
-「おはよう、<name>ちゃん」
+"Good morning, <name>-chan."
 Akari runs over from across the street.
 "Hey..."
 "You seem tired."
-"I am tired... *yaaaawn*"
+"I am tired...
+*yaaaawn*"
 "Haha, that's a big yawn."
 Akari grins.

@@ -4,17 +4,18 @@ Wednesday, April 30th.
 "Alright!"
 I get out of bed and stretch.
 It's the last morning of April, and I feel great.
-「<name>ちゃん、知ってる？」
+Have you heard the news, <name>-chan?"
 "What?"
-「駅前に『キッズパーク』っていうおもちゃのデパートがオープンしたんだよ」
+"A toy store called Kids Toy Park opened at the train station."
 "Oh, that."
 "You knew about it?"
 "With all the flashy ads they've put out, yeah."
-「すごい数のおもちゃがあるんだよ」
+"They have tons of different toys."
 "Have you checked it out already?"
 "I went with Shiho the other day."
 "Oh yeah?"
-「で、そこでなにを買ったかというと──」
-"A bear, I'm guessing."
+"And I bought…"
+"A bear,
+I'm guessing."
 "Ding, ding, ding, you got it!"
 "It was obvious."

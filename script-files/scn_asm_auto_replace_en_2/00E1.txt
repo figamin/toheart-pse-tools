@@ -3,27 +3,27 @@
 （ゲーセン前）
 I go to the arcade.
 Oh well.
-　ここで暇をつぶすか。
+I guess I'll kill some time here.
 I'm about to walk in when...
 "Hello there!"
 Someone suddenly calls out to me.
-「Ｈｉ！
+"Hi,
 　
-<kata>」
+<kata>!"
 It's Lemmy.
 "Hey, I don't think I've seen you here before."
 "That's because you have not."
 "Here to play some video games?"
-「ＹＥＳ。
-今日はすることがなくて退屈なの。
-<kata>も退屈？」
+"Yep,
+I don't have anything to do today, so I was bored outta my gourd.
+You too?"
 "Yeah, fatally bored."
-「じゃあ、<kata>、いっしょに遊ぼ」
-"Sure.
-退屈人同士な」
+"Then let's hang out together!"
+"Sure,
+as fellow bored individuals."
 "Righteous!"
 "What do you want to do?"
-「<kata>、このあたり、くわしい？」
+"Do you know this area well?"
 "Well, I do live around here."
 "Then show me around."
 "Okay!"
