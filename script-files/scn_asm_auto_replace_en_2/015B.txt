@@ -1,25 +1,24 @@
 （あかり　好感度イベント９．２）
 （Ｂ　あかりを玄関まで送る）
 "A-Alright, then I'll see you off."
-"Okay."
+"Yeah."
 Akari steps outside and puts her shoes on.
-「じゃ、<name>ちゃん、また明日」
+"See you tomorrow, <name>-chan."
 "Y-Yeah."
 Akari's about to leave.
 "Hey, Akari."
 I stop her.
 "What?"
 "So..."
-"Okay..."
+"Okay."
 "The food was great."
 I say, scratching my cheek to hide my embarrassment.
-「…<name>ちゃん」
+"<name>-chan…"
 "Come cook here again some time."
 I bashfully smile.
-「うん、わかった！」
+"Sure!"
 Akari grins.
 "See you tomorrow."
 "Okay, goodnight."
 Akari leaves the house.
-I smile and stare at the door for a while before locking it and
-returning to my room.
+I smile and stare at the door for a while before locking it and returning to my room.

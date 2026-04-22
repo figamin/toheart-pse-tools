@@ -4,10 +4,9 @@
 （放課後　ＭＡＰ選択が出る前に）
 （教室１　休み時間）
 （あかり　普通　０１）
-「<name>ちゃん」
+"<name>-chan."
 Akari approaches my seat.
-"Like I said this morning, I want to stop by the supermarket on the
-way back to your place."
+"Like I said this morning, I want to stop by the supermarket on the way back to your place."
 Akari grins.
 A. Then let's do it.
-Ｂ　買い物はお前にまかせる。
+B. You can handle the shopping.

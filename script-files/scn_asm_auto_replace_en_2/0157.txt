@@ -1,41 +1,45 @@
 （あかり　好感度イベント９．１）
 （Ｂ　買い物はお前にまかせる）
-「買い物はお前にまかせる」
-I asked.
+"You can handle the shopping."
+I respond.
 "What?"
 Akari looks a bit surprised.
-「でも、さっきはいっしょに行くって…」
-"Sure, but think about it. It would be just the two of us shopping
-at the supermarket in school uniforms on the way home. If anyone
-saw that, Shiho or not, there'd be rumors about us."
-"Well...
-そうかもね」
+"But you said before that you'd come with me."
+"Sure, but think about it.
+It would be just the two of us shopping at the supermarket in school uniforms on the way home.
+If anyone saw that, Shiho or not, there'd be rumors about us."
+"Maybe
+you're right."
 Akari hangs her head.
-「というわけで、お前ひとりで行ってくれ」
-"Got it."
+"So can you do the shopping by yourself?"
+"Sure."
 Akari looks disappointed, but she nods.
 She's always agreeable.
-"By the way, is there anything in particular you want for dinner?"
-"Well...
-たまにはなんか家庭的なやつが食いたいな。
-ファミレスじゃ食えないような」
+"By the way,
+is there anything in particular you want for dinner?"
+"I haven't had home cooking in a while,
+so something more homey would be nice.
+Like something you couldn't get at a restaurant."
 "What specifically?"
-「具体的にとなると、浮かばねーな。
-お前の得意料理でいいわ」
-"What I'm good at cooking? Hmm, I'm not sure. I don't think I'm
-especially good or bad at anything."
-「まあ、お前にまかせるよ。
-好きなの作ってくれ。
-オレ的には、うまくて、安くて、栄養があれば文句ねーから」
+"Nothing comes to mind.
+Whatever you're good at cooking."
+"What I'm good at cooking?
+
+Hmm, I'm not sure.
+I don't think I'm especially good or bad at anything."
+"Well, you can decide.
+Make what you like.
+I'm good with anything tasty, cheap, and nutritious."
 "That's a pretty tough ask in and of itself..."
-「お前ならできる。
-米はある、みそもある、調味料も主要なものはひと通りそろってる。
-後はお前を信じる！」
+"I know you can do it.
+I already have rice, miso, and seasonings.
+I trust you for the rest!"
 "Okay, got it.
-やってみるよ！」
+I'll give it a try!"
 "Alright, that's the spirit!"
 It's easier than you might expect to get Akari hyped up.
 "So, when should I head over?"
 "Some time before six should be fine."
-"Okay, got it. See you then."
+"Okay, got it.
+See you then."
 Akari leaves without me.

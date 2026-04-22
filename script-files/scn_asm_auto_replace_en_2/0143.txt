@@ -1,33 +1,36 @@
-Akari...
+（あか
+り　
 好感度イベント　２）
 （好感度が　１４以上　のとき）
 （２時間目）
 （教室を空っぽの状態にする、体育の授業のため）
 （時計を進める）
-It was the second period break.
+（２時間目の休み時間）
 （渡り廊下）
 ＊＊＊　時計処理注意　＊＊＊
 It's the second period break.
-This morning's exhausting PE class was over, and I was on my way
-back to the classroom.
-「あっ、<nick>！」
-I turned to see who was calling me. Shiho ran over from the bridge
-corridor.
+This morning's exhausting PE class was over, and I was on my way back to the classroom.
+"Oh, <nick>!"
+I turned to see who was calling me. Shiho ran over from the bridge corridor.
 "Alright, perfect timing!"
-「なんだお前、そんな格好のまま。
-とっとと着替えてこいよ」
+"Why are you still wearing that?
+Get changed."
 "That's not important. There's trouble!"
-"Trouble? Let me guess, more pointless gossip?"
+"Trouble?
+Let me guess, more pointless gossip?"
 I joked.
-"No, stupid! There's real trouble!"
+"No, stupid!
+There's real trouble!"
 She looked uncharacteristically serious.
 "What? Did something happen?"
-「あかりが、あかりがっ──」
+"Akari, she…"
 "Something happened to Akari?"
 "She's been seriously injured!"
 "Injured?"
 Shiho nodded emphatically.
-"She might've broken a bone! She might never walk again."
+"She might've broken a bone!
+
+She might never walk again."
 "Wh-What are you talking about?"
 "Ugh, you've always been slow, but I didn't know it was this bad."
 "Hey, what the hell happened?
@@ -37,97 +40,103 @@ Akari was hurt?!
 What could've happened?!
 "So we were shot-putting in PE today, and..."
 "Did she get hit with one?!"
-「ううん、べつに」
+"No, not that."
 She quickly responded.
 "It wasn't that."
-"Take what seriously?"
-"Well, our team happened to be on cleanup duty today. So we were
-cleaning up the shots and..."
+"Then what?"
+"Well, our team happened to be on cleanup duty today.
+So we were cleaning up the shots and..."
 "She dropped one on her foot?!"
-「ううん、べつに」
+"No, not that."
+"…"
 "We cleaned everything up just fine."
 "Then what happened? Get on with it."
 "What's your problem? You said you wanted more details."
 "Give me a summary!"
-「だから、その後で──」
-And then...
-「あっ、<name>ちゃん」
-I turn and see Akari holding onto another girl's shoulder as one
-leg drags behind her.
+"So, after that…"
+Just then…
+"Oh, <name>-chan."
+I turn and see Akari holding onto another girl's shoulder as one leg drags behind her.
 "Hey, Akari.
-お前、大ケガしたって…」
-"Oh, i-it's nothing serious. I just tripped over a hurdle and
-twisted my ankle."
+I heard you got hurt…"
+"Oh, i-it's nothing serious.
+I just tripped over a hurdle and twisted my ankle."
 "But Shiho said you broke a bone."
-"I said she could've, not that she did. There was no guarantee."
+"I said she could've, not that she did.
+There was no guarantee."
 "Seriously?"
-「<name>ちゃん、心配してくれたの？」
-"Well, this idiot here was going on about how you might never be
-able to walk again."
+"<name>-chan, were you worried about me?"
+"Well, this idiot here was going on about how you might never be able to walk again."
 "Who are you calling an idiot?"
 "You."
 I don't mince words.
 "So are you going to the infirmary?"
 "Yeah, I told them I was fine, but..."
-"Akari, even if it's just a little sprain, you still need to put ice
-on it."
-　肩を貸してる友だちが言った。
-"I know, but you need to get changed soon or you'll be late for the
-next class."
+"Akari,
+even if it's just a little sprain, you still need to put ice on it."
+The friend helping Akari speaks up.
+"I know, but you need to get changed soon or you'll be late for the next class."
 "I told you that doesn't matter."
 "Then what if I took you?"
 "What?"
 My suggestion surprises Akari.
 "I can get you there pretty easily."
 "But..."
-"Good idea. That's actually what I was getting him for. He's not
-good for much else."
+"Good idea.
+That's actually what I was getting him for.
+He's not good for much else."
 "Stop talking already."
 "Hey!"
-"Whatever, I'll do it. The infirmary's still a good ways away. Here,
-hold on."
+"Whatever, I'll do it.
+The infirmary's still a good ways away.
+Here, hold on."
 "Okay then."
 Akari nods and uses one leg to hobble over and grab my shoulder.
 "Well, we're depending on you."
 "I've got this."
 "Later!"
-Shiho pushes the other student from behind and hurries back where
-they came from.
+Shiho pushes the other student from behind and hurries back where they came from.
 That leaves just me and Akari.
-"I look around.
+"…"
+"…"
+I look around.
 "Alright, nobody's here."
 "What?"
-"Here ya go.
-Oh yeah!"
-"Oh..."
+"Here
+ya go."
+"Oh…"
 Without warning, I lift Akari in both arms.
-「<hira:1>、<name>ちゃん…！？」
+"<hira:1>-<name>-chan?!"
 "Nobody's watching and this'll be quicker."
-「………」
-「とは言っても、やっぱ誰かに見られるのはハズいからな、いちおう、ひとけのないとこを通って行くか」
+"…"
+"But it'd be pretty embarrassing if anyone saw. I'll try using empty hallways."
 "O-Okay."
 Careful not to run into other students, I walk off with Akari.
 "So you tripped over a hurdle?"
-"What is it?"
-「ったく、相変わらず鈍くさいね、お前は」
-"Okay...
-かな？」
+"Yeah."
+"Man, you've always been clumsy."
+"Have
+I?"
 "What? You didn't realize that?"
-"Oh, w-well, a little bit, I guess."
+"Oh, w-well,
+a little bit, I guess."
 "Haha."
+"…"
+"…"
+"…"
+"…"
 "I walk down the hall to the infirmary.
-Akari, perhaps feeling self-conscious, turns her slightly flushed
-face inward.
-When we're almost at the infirmary, Akari, who had been silent for
-a while, whispers softly.
-「…ねえ、<name>ちゃん」
+Akari, perhaps feeling self-conscious, turns her slightly flushed face inward.
+When we're almost at the infirmary, Akari, who had been silent for a while, whispers softly.
+"Hey, <name>-chan."
 "Yeah?"
 "Am I too heavy for you to carry?"
-"Wait..."
+"Nah."
 "But I'm heavier now than I used to be."
-"Yeah?"
+"Yeah, so?"
 "Are your arms tired?"
 "No, 'course not."
+"…"
 "You're light."
-「…うそばっか」
+"You liar."
 Akari covers her face with her hands.

@@ -7,21 +7,23 @@ Wednesday, April 30th.
 I get out of bed and stretch.
 It's the last morning of April, and I feel wonderful.
 "I'm going to school now!"
-「おはよう、<name>ちゃん」
-The bright morning sunlight shines upon Akari as she gives me an
-energetic smile.
+"Good morning, <name>-chan."
+The bright morning sunlight shines upon Akari as she gives me an energetic smile.
 "Good morning, Akari."
 I smile back.
 She doesn't seem sick anymore.
+"…"
 "What? Something wrong?"
 "I think this is the first time you've said good morning back to me."
 "Oh, is it?"
-"Oh..."
+"It is."
 Akari smiles and nods.
-「ったく、オメーは<family><name>研究家かよ」
-"Yeah, for sure. With sixteen years of experience."
+"Man, what are you? A doctor of <family> <name>?"
+"Yeah, for sure.
+With sixteen years of experience."
 "That's a pretty worthless subject to study."
-"That's not true. I'm sure this data's gonna be useful in the future."
+"That's not true.
+I'm sure this data's gonna be useful in the future."
 "Wha?"
 "Hehehe!"
 "Anyway, you feel better?"
@@ -30,25 +32,26 @@ Akari smiles and nods.
 "Thanks for visiting yesterday."
 "Is that even worth thanking me for?"
 "Of course. It's probably why I got better."
-「んなわけあるか。
-お前の体の抗体がインフルエンザを撃退したんだろ」
-"Geez..."
+"As if.
+Your antibodies fought the virus off."
+"Geez."
 Akari cracks a smile.
-「ところで、<name>ちゃん」
+"By the way, <name>-chan…"
 "What?"
-「──風邪、うつらなかった？」
-「いや、べつに」
+"Did I get you sick?"
+"Doesn't seem like it."
+"…"
 "What?"
 "Well, our mouths touched, so I was a little worried about that."
 "Oh..."
 I think back on the soft touch of her lips.
-「お、お前、おとついのアレ、ふたりだけの秘密だからな！」
+"D-Don't tell anyone about what happened two days ago!"
 "Hehehe."
 "What's so funny?!"
 "Nothing, nothing."
 "Tch..."
 "Okay, got it.
-ないしょにしとく」
+It'll be our secret."
 "And definitely don't tell Shiho!"
 "Exactly!"
 Akari smiles and nods. I look away.

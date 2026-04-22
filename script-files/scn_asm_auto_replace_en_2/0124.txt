@@ -1,14 +1,17 @@
 （あかり　ＶＳイベント　レミィ）
 （選択肢Ａ　フレンド）
-"Obviously we're friends. Why do you need to ask?"
+"Obviously we're friends.
+Why do you need to ask?"
 "Really?"
-"Why would I lie? She's just a childhood friend."
+"Why would I lie?
+She's just a childhood friend."
 Lemmy seems content with that. She nods.
 "I'm so glad to hear that!"
 "What?"
 "Phew, that's such a relief!"
-"But why? Haha, you say some weird stuff."
-「それじゃーね、<kata>！」
-"Are you kidding me?"
+"But why?
+Haha, you say some weird stuff."
+"Later, <kata>!"
+"H-Hey, wait."
 I don't know why, but Lemmy gleefully runs off.
 What the hell was that about?

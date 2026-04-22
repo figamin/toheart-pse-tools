@@ -1,54 +1,55 @@
-Akari...
+（あかり　
 好感度イベント　３）
 （好感度が　１８以上　のとき）
-It's the second period break.
+（２時間目の休み時間）
 （渡り廊下）
 It's the second period break.
-I'm thirsty, so I buy a cafe au lait from the vending machine. I'm
-drinking it when...
-「<name>ちゃん」
+I'm thirsty, so I buy a cafe au lait from the vending machine. I'm drinking it when…
+"<name>-chan."
 Akari says something to me.
 "Did you get a drink?"
 "Yeah, I think you can see that."
 "Oh, cafe au lait again?"
 "Why not? I like it."
-「………」
-「なんだよ、お前も買って欲しいのか？」
+"…"
+"What? Do you want me to buy you one too?"
 "N-No, but..."
-　そのとき──。
+Just then…
 "Oh!"
 "It's Kurusugawa."
 Kurusugawa passes by us looking as spacey as ever.
 Her wavy black hair sways in the wind.
 I wave to her and grin.
-"I don't know if she notices. Her face remains blank and she
-continues on without responding.
+"…"
+I don't know if she notices. Her face remains blank and she continues on without responding.
 It looks like she's heading to the courtyard.
 Maybe she's going to sunbathe.
-「やっぱりきれいだよねー」
+"She sure is pretty."
 Akari watches her go and whispers.
-「へえ、同性のお前から見てもキレーなのか、あのお嬢様は」
-"Yeah, of course. I'd love to have such shiny hair."
-"I see. Sure, she's pretty."
-「<name>ちゃんもそう思うでしょ？」
-"Obviously. Guys are more into long hair than girls are."
+"Huh, even girls think she's pretty?"
+"Yeah, of course.
+I'd love to have such shiny hair."
+"I see.
+Sure, she's pretty."
+"So you think so too?"
+"Obviously.
+Guys are more into long hair than girls are."
 "Huh, really."
-"I mean, some guys like short hair, but I'm sure even those guys can
-appreciate some long, pretty hair."
+"I mean, some guys like short hair, but I'm sure even those guys can appreciate some long, pretty hair."
 "Hmm..."
 Akari plays with her pigtails and awkwardly nods.
 After a moment's silence, Akari asks me something.
-「ね、<name>ちゃん。
-<name>ちゃんはストレートの髪って好き？」
-"Hey."
+"Hey, <name>-chan,
+do you like straight hair?"
+"Sure."
 "What about curly hair?"
 "I like it."
 "You like long hair?"
 "Yeah."
 "And short hair?"
 "Love it."
-"Geez.
-じゃあ、どんな髪形が好みなの？」
-"Yeah.
-結局、かわいくて似合ってりゃなんでもオッケーってとこかな」
+"Geez,
+is there any hairstyle you don't like?"
+"If it's cute and looks good on the girl,
+I guess I don't really care."
 "That doesn't tell me anything!"

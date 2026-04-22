@@ -1,8 +1,9 @@
 （あかり　好感度イベント１０）
 （５月２日の朝イベントと差し替え）
-　ピピピピ、ピピピピ…。
+*beep-beep-beep-beep* *beep-beep-beep-beep*
 Morning has the nerve to come yet again.
-"Apparently, I fell asleep mostly naked.
+"…"
+Apparently, I fell asleep mostly naked.
 I sit up in bed and gaze blankly at nothing.
 My mind wanders back to what happened with Akari last night.
 My heart is heavy with guilt.
@@ -11,8 +12,7 @@ I clench my hands and my right fist aches.
 It was from punching the wall last night.
 I did that to myself, as stupid as it was.
 May 2nd.
-All I have to do is get through school today, and then it will be a
-three day weekend.
+All I have to do is get through school today, and then it will be a three day weekend.
 Normally, that would cheer me up, but...
 I leave home ten minutes earlier than usual.
 That's to avoid Akari, of course.
@@ -21,16 +21,16 @@ After making it through the day, it's a long weekend.
 And then the school trip starts on Tuesday.
 We won't have to face each other for some time.
 I want to take some time to get my feelings in order.
-　席に座り、ぼんやりと窓の外を眺めていると──。
-「<name>ちゃん」
+I sit at my desk and gaze out the window.
+"<name>-chan."
 Akari arrives after me and approaches my desk.
-"Morning.
-今日はいつもよりも早いんだね。
-私、てっきりまた寝坊してるのかと思って、<name>ちゃんの家まで──」
+"Good morning.
+You're here awfully early today.
+I was sure you were gonna sleep in again, so I stopped by your house first, and…"
 "Akari."
 I cut her off.
 "Wh-What?"
-"Sorry, but can you let me be alone for a bit?"
-「………
-ごめん」
+"Sorry,
+but can you let me be alone for a bit?"
+"Sorry…"
 After Akari leaves, I rest my head on the desk.

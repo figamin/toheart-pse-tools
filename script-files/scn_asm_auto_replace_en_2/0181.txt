@@ -5,16 +5,16 @@ Whew, another day over and done with.
 I leave the classroom and stretch.
 Then, I feel someone tug at my jacket.
 I turn around.
-「<name>ちゃん」
+"<name>-chan."
 Akari smiles.
-「なんだ、お前か」
-「<name>ちゃんもいま帰り？」
-"I mean, yeah.
-お前は？」
-「私もいま帰るとこ。
-ちょうど教室を出たら、<name>ちゃんが出てくるのが見えたから。
-ね、せっかくだし、いっしょに帰ろう？」
-　あかりといっしょにか。
-　そうだな──。
+"What? It's you?"
+"Are you heading home?"
+"Sure am.
+What about you?"
+"I am too.
+I just saw you leaving the same time I did.
+Why don't we walk home together?"
+With Akari?
+Let's see…
 A. Sure.
 B. Sorry, I'm busy.
