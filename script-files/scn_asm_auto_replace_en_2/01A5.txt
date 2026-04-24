@@ -2,15 +2,15 @@
 （Ａ　横に並ぶ）
 I pick up the pace and walk up next to Akari.
 "Hey, how's it going?"
-「あっ、<name>ちゃん」
+"Oh, <name>-chan."
 "On your way home?"
-"Yes?
-でも今日は掃除当番だから、それが終わってからね」
+"Yeah, but...
+I have cleaning duty first."
 "Are you starting that now?"
-"Not really...
-１階廊下なんだ」
+"Yeah,
+I'm cleaning the first floor hallway."
 "The hallway?"
 It doesn't take very long to clean the hallway.
 What should I do?
-Ａ　待って、いっしょに帰る。
+A. Wait to walk home with her.
 B. Tell her goodbye.

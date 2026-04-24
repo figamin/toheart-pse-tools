@@ -2,9 +2,9 @@
 （５月２日）
 （１Ｆ廊下）
 I walk down to the first floor.
-「<name>ちゃん」
+"<name>-chan."
 Akari catches up from behind and walks in front of me.
 "What? Need something?"
-「いま、暇？」
-Ａ　ああ、暇だけど…？
+"Are you free right now?"
+A. Yeah, why?
 B. I'm busy.

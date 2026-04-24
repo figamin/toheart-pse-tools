@@ -1,30 +1,31 @@
 （あかり　回数イベント　２Ｆ）
 （選択肢Ａ　オレが白酒で）
 "I drank sake and got drunk?"
-"Yep."
+"Yeah, that."
 Akari nods twice.
-「そうだろうとは思ったけど、ビンゴかよ。
-I told you to forget about that already."
+"I told you…
+forget about that already."
 "Hehe."
 Akari giggles.
-「<name>ちゃん、あのときは大暴れだったね」
+"You got pretty wild, <name>-chan."
 "Tch..."
-"You took me and Masashi's sweets and then you climbed up on the
-Hina doll stand and started laughing."
-"But then the stand collapsed! What a mess."
-「お前の母さんが、面白がってオレに何杯も白酒
-飲ませるからだ」
-「落っこちた<name>ちゃん、そのままピクリとも動かなくて、みんなびっくりしたんだけど、じつはそのまま寝ちゃってて…」
-「お前、よくそんな大昔のこと覚えてるな。
-I'm impressed."
-"Ehehehe.
-じつはね、そのときの写真がうちにあるんだ」
+"You took me and Masashi's sweets and then you climbed up on the Hina doll stand and started laughing."
+"…"
+"But then the stand collapsed!
+What a mess."
+"Your mom kept giving me more to drink because she thought it was funny.
+It's her fault."
+"We were all shocked when you fell and didn't move at all, but it turned out you were just sleeping."
+"I'm impressed that you can remember something
+from so long ago."
+"Eheheh,
+we've actually got pictures from that day."
 "What?!"
 "They're in our photo album."
 "Give them to me!"
 "No way, they're precious memories."
 Akari giggles as she answers.
-「いま見ると、ちっちゃいころの<name>ちゃん、とっても可愛いんだよ」
+"You were so cute back then."
 Urgh!
 "I wish I had a little brother like that!"
 "Hey!"

@@ -4,17 +4,17 @@
 I run into Akari in the hall.
 "Hey."
 "How'd your exam go?"
-「まずまず…
-だと思うがな。
-お前は？」
-"Same here.
-同じかな？」
+"I think I did…
+alright.
+What about you?"
+"The same,
+I think?"
 Akari says, as her lips quirk into a slightly awkward smile.
-「<name>ちゃん、今日は掃除は？」
+"Do you have cleaning duty today?"
 "Nope."
-「私もないの。
-じゃ、いっしょに帰ろ？」
+"Me neither.
+Do you want to walk home with me?"
 Akari grins.
 What should I do?
-Ａ　じゃあ、いっしょに。
+A. Let's do it.
 B. I'll go back on my own.

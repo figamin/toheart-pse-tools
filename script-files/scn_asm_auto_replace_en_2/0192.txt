@@ -8,22 +8,22 @@ Masashi asks.
 Akari answers.
 They seem oddly excited.
 "Hey, guys."
-「<name>」
-「<name>ちゃん」
-「雅史、お前、部活は？」
+"<name>."
+"<name>-chan."
+"Masashi, don't you have practice?"
 "We have a break from practice since exams are coming up."
-"What?
-ところで、なんの話してたんだ？」
+"Oh, okay.
+So what were you talking about?"
 "About ways to save money."
 "Save money?"
 "Yeah.
-たとえばファーストフードのお得なセットを注文するとき、ついつい頭のなかで単品ずつの合計を計算しちゃわない？」
-"For sure. You save a few dozen yen, but you end up having to order
-a drink, like a coffee you didn't even want."
-"I'm listening."
+Like when you order combo meals at a fast food place, have you ever tried adding up the price of each individual item in your head?"
+"For sure.
+You save a few dozen yen, but you end up having to order a drink, like a coffee you didn't even want."
+"Exactly!"
 Akari nods.
 "It makes me so happy to save a few yen like that."
-「まさに貧乏性ってやつだよね」
-「<name>ちゃんもそういうのって、ない？」
+"Yep, you definitely love to save money."
+"Do you do anything like that, <name>-chan?"
 A. So much that I could ramble on about it.
 B. This is stupid. Bye.

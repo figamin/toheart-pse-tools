@@ -1,27 +1,28 @@
 （あかり　回数イベント　学校を出る）
 （選択肢Ｃ　熊とかどうだ）
-「熊とかどうだ？」
+"How about a bear?"
 "What?"
-「お前も好きだろ？」
-"What is it?
-でも、ホントの熊は凶暴なんだよ」
-"No they're not. If you raise them from when they're cubs, they grow
-up to be friendly with people."
+"You like bears, right?"
+"Yeah,
+but real bears are violent."
+"No they're not.
+If you raise them from when they're cubs, they grow up to be friendly with people."
 "Really?"
 "I saw it on TV."
-　あかりの熊好きは（オレ内部で）有名だ。
+Akari was famous (to me at least) for her love of bears.
 I don't know why, but she'd buy anything with a bear on it.
-「きっとかわいいぞー、小ぐま。
-ぬいぐるみみたいでよ、転がしてやったら喜んだりさ」
-「………」
-「サーカスみたいに小さいころから仕込めば芸もおぼえるんだぜ？
-　教えた芸を成功するたびに、はちみつとか角砂糖やるんだ。
-連中、甘いの好きだからなー」
+"I'm sure a bear cub would be cute!
+It'd be like a stuffed animal you can play around with."
+"…"
+"You could even teach it circus tricks if you start early.
+Just feed it honey and sugar cubes when it does the tricks right.
+They love sweet stuff."
+"…"
 "You could give it a red collar or something."
+"…"
 "Did you just picture all that?"
-"Okay.
-結構いいかも！」
-「ばーか、熊なんか飼えるかよ」
+"Yeah.
+A bear might actually be a pretty good pet!"
+"Please don't tell me you seriously believe you could have a pet bear."
 "Err..."
-Then, Akari and I walk around the store looking at the various
-animals.
+Then, Akari and I walk around the store looking at the various animals.

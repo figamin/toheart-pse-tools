@@ -1,9 +1,9 @@
 （あかり　回数イベント　学校を出る）
 （Ｂ　悪いが、途中で寄るところがある）
-「あかり」
+"Akari."
 "What?"
-「悪いけど、途中で寄るところがあってな。
-いっしょに行けるのはその辺までだ」
+"Sorry, but I need to go somewhere on my way back.
+We can only walk together till I get there."
 "Oh, r-really?"
 "But you can come there with me if you want."
 "Okay then, I'll do that."

@@ -1,11 +1,10 @@
 （あかり　回数イベント　１Ｆ　１）
 （選択肢Ｂ　くだらん、じゃーな）
-"Man, we've got finals soon. We shouldn't be talking about dumb
-stuff like this."
+"Man, we've got finals soon. We shouldn't be talking about dumb stuff like this."
 "W-Well, I guess not, but..."
-"I'm sorry.
-オレは貧乏くさい話が苦手でな。
-じゃーな、お先に」
+"Sorry,
+but I hate this kind of poor people talk.
+See you later."
 "Okay, bye."
 "Bye."
 I wave to Akari and Masashi and walk off.

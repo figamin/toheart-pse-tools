@@ -5,22 +5,23 @@ Maybe I'll head home now.
 I see Akari when I walk out of the building.
 It looks like she's waiting for someone.
 "Hey."
-「あっ、<name>ちゃん」
+"Oh, <name>-chan."
 "Waiting for someone?"
-"For Shiho, yeah. We were planning to check out a new shop on the
-way home."
+"For Shiho, yeah.
+We were planning to check out a new shop on the way home."
 "What shop?"
 "It's a cake shop."
 "So you're looking to wreck your health?"
 "Geez, you don't have to be mean!"
-"Mean? It's a warning."
-"Their cakes are supposed to be delicious though. Shiho highly
-recommends them."
+"Mean?
+It's a warning."
+"Their cakes are supposed to be delicious though.
+Shiho highly recommends them."
 "She exaggerates everything."
-"How do you feel?
-　<name>ちゃんも一緒に行かない？」
-"Me too."
-"...Yeah."
+"<name>-chan,
+do you want to come with?"
+"Me?"
+"Yep."
 "I dunno."
 "C'mon, come with us."
 For cake, of all things? Hmm...

@@ -2,12 +2,15 @@
 （Ａ　相変わらずドジだなあ、と思った）
 I think about how clumsy she can be.
 And then, Akari says...
-"You were just thinking about how clumsy I am, weren't you?"
+"Let me guess...
+You were just thinking about how clumsy I am,
+weren't you?"
 Somehow, she's spot on.
 "How could you tell?"
-「わかるよ。
-<name>ちゃん、私のことドジとか言うときは、いつもそういう目するんだもん」
-"What look?"
+"I just could.
+You always have that look in your eyes when you call me clumsy."
+"'That look?'
+What look?"
 "When you say I'm clumsy, your eyes say 'whatever.'"
 My eyes say whatever?
 Is that how I look when I look at Akari?
@@ -15,4 +18,4 @@ Is that how I look when I look at Akari?
 I answer.
 "Well, I have known you for sixteen years, remember."
 Akari smiles.
-　虹が消えてなくなるまでを見届けてから、その後、ふたりでいっしょに帰った。
+We look at the rainbow until it disappears, and then we walk home together.

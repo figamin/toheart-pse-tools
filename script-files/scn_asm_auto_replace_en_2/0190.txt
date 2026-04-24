@@ -5,13 +5,13 @@
 "I'd arrest you."
 I repeat myself.
 "But you wouldn't have any proof that I did it."
-「いちおう逮捕だけはしておく」
-「だけど、逮捕って、<name>ちゃん、警察じゃないくせに…」
-「警察じゃなくても、お前ぐらい簡単に逮捕できる」
+"I'd just arrest you for the time being."
+"But you're not even a cop."
+"I don't need to be a cop to arrest you. It'd be easy."
 "It's not really a question of how easy it'd be."
-"I'd arrest you before you make too much noise. That'd solve
-everything."
-"Akari's hypothetical questions always tend to evolve into strange,
-dramatic situations.
+"I'd arrest you before you make too much noise.
+That'd solve everything."
+"…"
+Akari's hypothetical questions always tend to evolve into strange, dramatic situations.
 I honestly struggle to follow her train of thought.
 We keep talking until I get home, then wave goodbye and part ways.

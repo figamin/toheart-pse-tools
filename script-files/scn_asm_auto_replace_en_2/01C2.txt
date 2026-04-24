@@ -1,6 +1,6 @@
 （あかり　回数イベント　２Ｆ）
 （Ａ　軽く一眠りする）
-　だめだ、こりゃ。
+I can't deal with this.
 I'm taking a nap.
 When I'm this unbearably tired, there's only one thing to do.
 Just for ten minutes.
@@ -11,7 +11,8 @@ It'll only be for ten minutes.
 ・
 ・
 Mmm...?
-The sky is red.
+The sky...
+is red.
 Is it sunset?
 My eyes sting...
 Wha?!
@@ -20,33 +21,37 @@ The days are long in spring, and it's sunset?!
 What the hell?!
 How many hours was I asleep?!
 A moment later, I raise my head off the desk.
-　すると──。
+And then…
 "Hehe, hello."
-「あ、あかり…！？」
+"A-Akari?!"
 I see Akari grinning.
-「なんだお前、なにしてんだ…？」
-「待ってたんだよ、<name>ちゃんを」
+"What are you doing?"
+"I was waiting for you."
 "For me?"
-"Yep.
-ぐっすりと気持ちよさそうに寝てたから、起こしちゃ悪いなーと思って」
-「ばか、起こせよ。
-いま何時だ？」
+"Yeah.
+I didn't want to wake you up."
+"You should've.
+What time is it?"
 "They just said school's closing soon, so I think it's around six."
-"Six?! Seriously?! What am I?! The king of sleep?!"
-"C'mon now.
-そのぶん、いい夢見たでしょ」
+"Six?!
+Seriously?!
+What am I?!
+The king of sleep?!"
+"It's fine.
+I'm sure you had a nice dream."
 "I don't even remember my dreams."
 "Well, you looked happy."
-「まさか、お前、オレの寝顔をずっと見てたのか？」
-"Yep
-ずーっとね」
-「………」
-「ふふ、かわいかったよ」
-「…あかり」
+"Were you watching my face while I slept this whole time?"
+"Yeah,
+the whole time."
+"…"
+"Hehe, you were cute."
+"Akari…"
 "What?"
 "Can you come over here?"
-"Akari approaches me.
-　オレは──。
+"Hm?"
+Akari approaches me.
+I…
 A. Flick her forehead.
 B. Tug her ear.
 C. Pinch her cheek.

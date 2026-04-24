@@ -1,10 +1,10 @@
 （あかり　回数イベント　帰り道）
 （選択肢Ｂ　暇だったらな）
-「暇だったらな」
+"Maybe if I have time."
 I answer.
-"We have to deal with finals first, so it's still a ways off. I
-don't know what my schedule is gonna be."
+"We have to deal with finals first, so it's still a ways off.
+I don't know what my schedule is gonna be."
 "Okay..."
-"Well, I should have a better idea of what my schedule will be like
-when it gets closer to the time. We can think about it again then."
-"It sure does."
+"Well, I should have a better idea of what my schedule will be like when it gets closer to the time.
+We can think about it again then."
+"Makes sense."

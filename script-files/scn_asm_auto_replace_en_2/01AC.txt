@@ -1,20 +1,20 @@
 （あかり　回数イベント　学校を出る）
 （４月１４日）
 （学校前の坂道２）
-I'm walking down the hill when someone suddenly tugs at the hem of
-my jacket from behind.
+I'm walking down the hill when someone suddenly tugs at the hem of my jacket from behind.
 I turned around.
-"F-Finally... caught up..."
+"F-Finally...
+caught up..."
 It's Akari.
 She's wheezing after seemingly having run down the hill.
 "What the hell are you doing?"
-「…はァ、はァ。
-wo...
-いっしょに…
-帰ろうと思って…」
+"*huff, huff*
+I wanted to…
+walk home…
+with you…"
 "You didn't have to run."
-「<name>ちゃん、足早いんだもの…」
+"You walk fast."
 "Do I?"
 What should I do?
-Ａ　いっしょに帰る。
+A. Walk home with her.
 B. Sorry, but I need to stop somewhere on the way home.

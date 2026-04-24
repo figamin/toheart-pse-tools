@@ -1,11 +1,11 @@
 （あかり　回数イベント　２Ｆ）
-B. See you later.
+（Ｂ　じゃーな）
 "Are you heading home?"
-"Okay...
-クラスの子たちと帰ろうと思って。
-<name>ちゃんは？」
+"Yeah,
+I was gonna go home with some girls in my class.
+What about you?"
 "I...
-ちょっとぶらぶらしてから帰ろうと思ってな」
+I was just gonna wander around a bit before heading home."
 "Oh, okay."
 "See you later."
 "Okay, see you."

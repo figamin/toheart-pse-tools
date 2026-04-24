@@ -1,43 +1,45 @@
 （あかり　回数イベント　１Ｆ）
 （Ａ　待って、いっしょに帰る）
-「あかり、今日はいっしょに帰るか」
-"Huh?!"
+"Akari, do you want to walk home with me today?"
+"What?"
 "I can wait for you to finish cleaning."
 "Really?"
 "I'll be by the shoe racks."
-"Sure.
-じゃ、早く終わらせてくるよ」
-I wait around for a little while. Then, after cleaning, Akari walks
-over to me.
+"Got it,
+then I'll make it quick."
+I wait around for a little while. Then, after cleaning, Akari walks over to me.
 "*huff, huff* A-All done."
 "What, did you run here?"
 "I-I didn't want to make you wait too long."
 "Oh, thanks."
 We descend the hill side by side.
-　行きも帰りもいっしょじゃ、おしどり夫婦呼ばわりされても不思議はねーわな。
-Well, there's no point in being self-conscious about it at this
-point.
+With the way we walk both to and from school together, I wouldn't be surprised if people start talking about what a lovey-dovey couple we are.
+Well, there's no point in being self-conscious about it at this point.
 "Oh yeah, so something weird happened on the stairs today."
 "Something weird?"
 I think back on what happened during lunch and tell Akari about it.
-"That's truly amazing...
-じゃ、志保の言ってたことは本当だったんだ」
-"I don't know about that, but the window really did shatter to bits."
-"Could it have been a random strong gust of wind or something?"
-"The other windows weren't affected at all.And that Kotone girl...
+"Huh, that's crazy.
+Then what Shiho said was true?"
+"I don't know about that,
+but the window really did shatter...
+to bits."
+"Could it have been...
+a random strong gust of wind or something?"
+"The other windows weren't affected at all. And that Kotone girl...
 She knew the glass was going to break.
 But how could she have known the wind would do that?"
-"Yeah?
-…じゃあ、やっぱりその子の未知のパワーなのかな？」
-「お前はそういうの信じるほうだっけ？」
-「うん、私は信じるほうだよ。
-世の中には、科学じゃ解明されていない不思議なことが、まだまだいっぱいあるはずだよ。
-<name>ちゃんはどう思う？」
-"So I say..."
-"Did having a personal experience with that change your opinion at
-all? Do you believe in the supernatural?"
-"Yeah.
-いまは──」
+"Yeah, well,
+maybe she has some special power."
+"Do you believe in that kind of thing?"
+"Yeah, I do.
+There are still plenty of mysteries that science can't explain.
+What about you, <name>-chan?"
+"I…"
+"Did having a personal experience with that change your opinion at all?
+
+Do you believe in the supernatural?"
+"Well,
+now…"
 A. I think I might believe in the supernatural.
 B. I still don't think I believe.
 C. I'm starting to think I do a little bit.

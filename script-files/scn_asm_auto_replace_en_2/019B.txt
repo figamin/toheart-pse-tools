@@ -6,13 +6,13 @@ Akari grins.
 "So? I was right, wasn't I?"
 "Yeah, that's right!"
 "You see now?"
-「さすがだね、<name>ちゃん」
-"You were just screwing with me with that question. That's not gonna
-be on the test, is it?"
+"Yep. Very good, <name>-chan."
+"You were just screwing with me with that question.
+That's not gonna be on the test, is it?"
 "I don't think so."
-「………」
-「………」
-「あかり」
+"…"
+"…"
+Akari.
 "Hm?"
 I reach out and flick her playfully on the side of the head.
-「あっ；」
+"Hey;"

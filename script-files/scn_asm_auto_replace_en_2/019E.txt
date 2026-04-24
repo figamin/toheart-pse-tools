@@ -2,13 +2,13 @@
 （４月９日）
 （校門２）
 When I leave through the school gate, I spot Akari.
-　ひとりみたいだな、今日は志保といっしょじゃないのか。
+Looks like she's alone. She's not with Shiho today?
 I call out to her from behind.
 "Hey."
-「あっ、<name>ちゃん」
+"Oh, <name>-chan."
 "Are you on your way home?"
-"Yeah."
+"Yep"
 Akari nods.
 What should I do?
-Ａ　だったらいっしょに帰ろうぜ。
+A. Do you want to walk home together?
 B. Say goodbye.

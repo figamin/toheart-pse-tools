@@ -2,15 +2,16 @@
 （Ｃ　今晩…）
 "Tonight..."
 "T-Tonight...?!"
-"Oh, never mind, I can't tell you."
-「ええっ；」
-「だが、これを最後まで聞いてしまったからには、次はお前の番だからな」
+"Oh, never mind,
+I can't tell you."
+"What;"
+"But now that you've listened to all my questions, it's your turn next."
 "Huh?"
 "Hahaha, bye."
 I run off.
-「ああっ！？
+"Aah?!
 　
-まっ、待って、待ってよー！
-<name>ちゃーーーーんっ！」
+W-Wait, wait!
+<name>-chaaaaaaaaaaaaan!"
 Akari chases frantically after me.
 Running back means I get home earlier than usual.

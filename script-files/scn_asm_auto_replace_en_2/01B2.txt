@@ -3,24 +3,24 @@
 （廊下）
 It's pretty hot today.
 Most people aren't wearing jackets.
-But the rain from earlier helps to make the weather a little more
-bearable.
+But the rain from earlier helps to make the weather a little more bearable.
 I'm nearing the stairs when...
-「あっ、<name>ちゃん」
+"Oh, <name>-chan."
 Akari happens to walk over.
 "Hey."
 "Are you heading home?"
-"Mm-hmm...
-お前は？」
-"So am I, but I wanted to go up to the roof for a bit first."
+"Sure am.
+What about you?"
+"So am I,
+but I wanted to go up to the roof for a bit first."
 "The roof?"
-「ちょうどよかった。
-<name>ちゃんも、いっしょに行こ？」
-"Wha?
-　なにがあるんだ」
-"Hehe.
-それは行ってのお楽しみ」
+"Do you want to come with,
+<name>-chan?"
+"Uh,
+for what?"
+"Hehe,
+you'll find out when we get there."
 Akari seems amused.
 What should I do?
-Ａ　いっしょに屋上へ行く。
+A. Go to the roof.
 B. Go home.

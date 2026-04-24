@@ -1,16 +1,16 @@
 （あかり　試験）
 （Ｂ　今日はひとりで帰る）
 "Oh, I'm going to walk home by myself today."
-"I see..."
+"Really?"
 Akari looks a little disappointed.
-「じゃあね、<name>ちゃん」
-"Alright."
-「テストがんばってね」
-「お前もな」
+"See you later, <name>-chan."
+"Yeah, later."
+"Good luck on the exam."
+"You too."
 Akari waves and walks off.
-「じゃ、<name>ちゃん。
-ご飯食べたら、すぐにそっち行くから」
+"<name>-chan,
+I'll head right over when I'm done eating."
 "Got it."
 "See you later."
-"Hey."
+"Yeah, later."
 Akari waves and walks off.

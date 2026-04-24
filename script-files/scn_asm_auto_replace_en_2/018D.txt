@@ -2,10 +2,10 @@
 （３月１０日）
 （階段）
 （あかり　普通　０１）
-「<name>ちゃん」
+"<name>-chan."
 "Hey."
 I run into Akari in front of the stairs.
 It looks like she's on her way home.
 What should I do?
-Ａ　いっしょに帰ろうぜ。
+A. Let's walk home together.
 B. See you later.

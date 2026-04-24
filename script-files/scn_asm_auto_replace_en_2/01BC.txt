@@ -1,11 +1,14 @@
 （あかり　回数イベント　１Ｆ）
 （Ｂ　生命保険に入ったほうが）
 "You should get life insurance."
-"L-Life insurance?! Is my life in danger?!"
+"L-Life insurance?!
+
+Is my life in danger?!"
 "Heh heh, who knows?"
-"Was there any logic to those questions? They were just totally
-random, weren't they?"
+"Was there any logic to those questions?
+
+They were just totally random, weren't they?"
 "Heh heh, who knows?"
 "C'mon, tell me!"
-「オレにできるアドバイスは、ただひとつ。
-生命保険に入ることをおすすめします」
+"This is the only advice I can give you.
+Get life insurance."

@@ -1,13 +1,12 @@
 （あかり　回数イベント　学校を出る）
 （選択肢Ａ　だったらいっしょに帰ろうぜ）
-「だったらいっしょに帰ろうぜ」
-I tell her.
-"Yeah?"
-Neither of us have any plans, so we decide to take a little detour
-on our way home.
+"Do you want to walk home together?"
+I asked.
+"Sure."
+Neither of us have any plans, so we decide to take a little detour on our way home.
 We walk through the shopping arcade on the way back.
 "Can we check out that store?"
-"Oh?"
+"Huh?"
 Akari points to a fairly large pet shop.
 "Do you need something from there?"
 "Not really. I just wanted to browse."
@@ -17,51 +16,53 @@ We enter the shop.
 Akari stoops down to look at a hamster case.
 There are several hamsters on the wood chips.
 "Doesn't Masashi have hamsters?"
-"Yep, and I'm pretty sure they're the same kind.. It says these are
-winter white dwarf hamsters."
+"Yep, and I'm pretty sure they're the same kind...
+It says these are winter white dwarf hamsters."
 "There's more than one type of hamster?"
-"Yeah. Look, there are golden hamsters over here and Roborovski
-hamsters over there."
-"They're rats, why do they have to make things complicated?"
+"Yeah.
+Look, there are golden hamsters over here and Roborovski hamsters over there."
+"They're rats,
+why do they have to make things complicated?"
 "They're not rats, they're hamsters."
 "Same thing."
 "No they're not."
 "They're just rats without the disease."
-"No, hamsters are hamsters. They're nothing like rats."
+"No, hamsters are hamsters.
+They're nothing like rats."
 "Okay, whatever."
 I shrug.
-「ところで、<name>ちゃん」
-「あん？」
+"By the way, <name>-chan."
+"Yeah?"
 "If you were going to get a pet, what would you get?"
-"A pet? Let's see..."
+"A pet?
+Let's see..."
 "Didn't you used to have a big dog?"
-"Sure, I guess."
+"Sure."
 "You never wanted to get another one?"
-「ペットは死んだときがかわいそうでな」
+"It's too sad when the pet dies."
 "When it dies?"
 "Yeah, I learned that when Boss died."
 I think back to Boss, the dog I had in elementary school.
 Boss was a huge white dog. He was a Great Pyrenees, I believe.
-He knew how to shake, but his huge paw could almost crush me when I
-was little.
-　あかりや雅史にもなついてて、よくみんなでいっしょに散歩したりもした。
+He knew how to shake, but his huge paw could almost crush me when I was little.
+He was friendly with Akari and Masashi too. We all went on walks together all the time.
 But one day, Boss suddenly got ill and passed away.
 The shock from that left me depressed for a while.
 I didn't even play with Akari or Masashi. I just stayed in my room.
-「可愛がったらそのぶん死んだときつらいし、だから可愛がらないってのも、それはそれでなんだしな」
-"Yeah."
+"Loving them makes their death hurt that much more, but I wouldn't want a pet I didn't love."
+"…Yeah."
 Akari hangs her head low.
 Oh crap.
 I'm being depressing.
 I panic and try to smile.
-「でも、まあ、死んだらかわいそうだけど、側にいると、たしかに心がなごむよな」
+"But, well, it's sad when they die, but they make you happy while they're around."
 I say.
 Akari responds with...
-"Yeah."
+"That's true."
 She nods.
 "So, if you got another pet, what kind of animal would it be?"
 "Me?
-　そうだな──」
+Well…"
 A. It'd have to be a dog.
 B. Let's go with a cat.
-Ｃ　熊とかどうだ？
+C. How about a bear?
