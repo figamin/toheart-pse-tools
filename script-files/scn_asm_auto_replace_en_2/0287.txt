@@ -1,15 +1,14 @@
 （芹香　回数イベント　学校を出る　ＬＶ１）
 （校門内）
 Oh, it's Kurusugawa.
-　校門の側で、ぼーっとたたずむ来栖川先輩を見かけた。
+I see Kurusugawa standing by the school gate and spacing out.
 "Hey, Kurusugawa."
-　背中から声をかけると、先輩はゆっくりと振り返った。
-I'm captivated by the way her long, soft hair sways with her
-movements.
-　本当に綺麗な人だよな。
+When I call her, she slowly turns around.
+I'm captivated by the way her long, soft hair sways with her movements.
+She really is pretty.
 "Are you on your way home?"
 She nods.
-"I see.
-じゃあ──」
-Ａ　いっしょに帰らないか？
+"Yeah?
+In that case…"
+A. Want to walk home with me?
 B. See you tomorrow.

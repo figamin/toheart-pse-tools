@@ -1,14 +1,16 @@
 （芹香　回数イベント　２Ｆ　ＬＶ４）
 （選択肢Ａ　も、もう薬は勘弁してくれ…）
 "Don't give me any more medicine."
-"Well, thankfully, nothing bad happened this time, but it's a bad
-idea to take poorly made medicine."
-「………」
-「え、すみませんって？
-　あ、いや、そんな強くは言ってねーって。
-もともとオレのこと心配してくれたんだしさ。
-怒っちゃいねーよ。
-それより──」
-「？」
-「今日いっしょに帰ろうぜ？」
-"Kurusugawa nods.
+"…"
+"Well, thankfully, nothing bad happened this time,
+but it's a bad idea to take poorly made medicine."
+"…"
+"Oh, you're sorry?
+Wait, I'm not trying to be too critical.
+You were worried about me anyway.
+I'm not mad.
+So…"
+"Hm?"
+"You want to walk home together?"
+"…"
+Kurusugawa nods.

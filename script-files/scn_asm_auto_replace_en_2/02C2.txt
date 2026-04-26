@@ -1,12 +1,11 @@
 （芹香　回数イベント　１Ｆ　ＬＶ３）
 （廊下２）
-I've developed a habit of looking out into the courtyard whenever
-I'm in the first floor hallway.
+I've developed a habit of looking out into the courtyard whenever I'm in the first floor hallway.
 I can't help but look for Kurusugawa.
 Let's see, today she's...
 Oh?
 There she is.
 Kurusugawa is sitting on a bench and spacing out as usual.
 Maybe she's sunbathing.
-A. Talk to her.
+A. Go talk to her.
 B. Leave her alone.

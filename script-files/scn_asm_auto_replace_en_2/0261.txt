@@ -1,55 +1,56 @@
 （ＶＳイベント　芹香ＶＳマルチ）
 （選択肢　科学に頼る）
 "Then can you help, Multi?"
-I hate to say no to Kurusugawa, but I believe more in the power of
-science.
-"Yes, leave it to me!
+I hate to say no to Kurusugawa, but I believe more in the power of science.
+"…"
+"Okay, you can count on me!
 　
-ついにわたしのレーダーが役立つときがきました」
+I can finally put my radar to use."
 "Radar?!"
-"Not yet.
-どうやら最近のメイドロボットには標準装備されているらしいんです」
-"Interesting..."
-"If this radar's gamma ray spectrum analysis can detect the
-frequency of the nickel in the hundred yen coin, I'm sure I'll find
-it!"
+"Yes.
+The newer maid robots come equipped with it."
+"Huh."
+"If this radar's gamma ray spectrum analysis can detect the frequency of the nickel in the hundred yen coin, I'm sure I'll find it!"
 "Oh, that's awesome."
 "Yes, I just learned about it the other day!"
-"Cool, learning is good. Then can you try finding it?"
+"Cool, learning is good.
+Then can you try finding it?"
 "Yes!
 　
-それでは、探査開始！」
+Let the search begin!"
 Multi carefully looks around.
 She must be using her radar to search the surrounding area.
-About ten seconds later, she crouches down and starts to look all
-over the concrete.
+About ten seconds later, she crouches down and starts to look all over the concrete.
 She peers under the vending machine too.
 "Hey, are you just searching with your eyes?"
-"Yes, I'm sorry. It seems I don't have radar analysis functionality."
-"Hey now..."
-"But don't worry. I have a high-spec CCD camera!"
+"Yes, I'm sorry.
+It seems I don't have radar analysis functionality."
+"Seriously?"
+"But don't worry.
+I have a high-spec CCD camera!"
 She's searching around on all fours. I'm not convinced.
-"Hey, Multi?
-オレも手伝おうか？」
-"No, not at all.
-<name>さんはのんびりしてて下さい」
+"Do you want me to help,
+Multi?"
+"No,
+you can relax."
 "But still..."
 "Excuse me."
-　マルチがオレの足もとも調べ始めた。
+Multi starts to check around my feet too.
 I get out of her way.
-"Ah!
+"Oh!
 　
-ありましたっ！」
+Found it!"
 "What? Where?!"
-「<name>さんの足もとです！」
+"Under you!"
 "...You're right."
 Apparently, I'd been stepping on the coin the whole time.
 "Good thing we found it."
-"Yeah, thanks, Multi."
+"Yeah,
+thanks, Multi."
 "It was nothing."
-"And thank you too, Kurusugawa. Multi found it this time, but I'll
-look to your magic for help next time."
-She nods.
+"…"
+"And thank you too, Kurusugawa.
+Multi found it this time, but I'll look to your magic for help next time."
+Kurusugawa nods.
 Well, at any rate, I'm glad I got my coin back.
-But I can't believe I got help finding a coin from a cutting-edge
-maid robot and one of the richest girls in the country...
+But I can't believe I got help finding a coin from a cutting-edge maid robot and one of the richest girls in the country...

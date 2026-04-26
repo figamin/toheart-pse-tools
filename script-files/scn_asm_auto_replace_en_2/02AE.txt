@@ -3,9 +3,10 @@
 I spot Kurusugawa at the shoe racks.
 She's standing there spacing out as usual and holding her bag.
 "Hey, Kurusugawa."
-"She turns toward me.
-「帰るとこ？」
+"…"
+She turns toward me.
+"Heading home?"
 She nods.
-「んじゃあ──」
-Ａ　いっしょに帰んない？
+"In that case…"
+A. Want to walk home with me?
 B. Bye!

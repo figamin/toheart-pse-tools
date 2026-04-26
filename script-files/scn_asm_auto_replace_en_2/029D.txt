@@ -1,11 +1,13 @@
 （芹香　回数イベント　２Ｆ　ＬＶ４）
 （選択肢Ｂ　次に期待してるぜ）
 "I'm sure it'll be good next time."
+"…"
 "Make me some medicine that works, okay?"
-I command.
+When I say that…
 Kurusugawa looks at me...
 and nods twice.
-「それよか、先輩──」
-「？」
-「今日いっしょに帰ろうぜ？」
-"Kurusugawa nods.
+"Anyway, Kurusugawa…"
+"Hm?"
+"You want to walk home together?"
+"…"
+Kurusugawa nods.

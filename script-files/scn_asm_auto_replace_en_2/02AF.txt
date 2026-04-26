@@ -1,72 +1,86 @@
 （芹香　回数イベント　１Ｆ　ＬＶ２）
 （選択肢Ａ　いっしょに帰んない？）
-「いっしょに帰んない？」
-I say.
+"Want to walk home with me?"
+I ask.
 She looks at me, and...
-Evidently, I was right about the sunbathing.
+She nods.
+"…"
 "What?
-　先輩のほうもそう思って、オレを待っててくれたって？
+That's why you were waiting for me?
 Really?"
 She nods again.
 "Heheh, that's nice to hear."
 I just hope the annoying old man doesn't show up.
 It's odd...
-The black limo usually arrives when we leave through the school
-gate.
-"But it doesn't seem to be coming today.
-　これはまさか、先輩といっしょに帰るチャンスでは！？
+The black limo usually arrives when we leave through the school gate.
+"…"
+But it doesn't seem to be coming today.
+Is this my chance to walk home with Kurusugawa?!
 I'll have to get Lady Serika out of here before the old man arrives.
-　よし、悩んでる暇はねぇ。
-"Kurusugawa..."
-「………」
-「例のじーさんが来る前に──」
+Alright, no time to waste.
+"Kurusugawa!"
+"…"
+"Before the old man gets here…"
 Just as I say that...
-「──とうあーーーーーーーーーッ！！！」
-　ズダンッ！
+"Graaaaaaaaaaaaaaaaah!!!"
+*thud*
 A gallant figure in dark clothes appears in front of us.
 Wh-What?!
-「お嬢様、お迎えにあがりました」
+"I've come to pick you up, Lady Serika."
 It's the same old man.
-"Y-You geezer! Even the way you show up is getting more annoying!"
-The limo is parked off to the side of the street where it doesn't
-stand out.
-「さ、お嬢様、お車へ──」
+"Y-You geezer!
+Even the way you show up is getting more annoying!"
+The limo is parked off to the side of the street where it doesn't stand out.
+"Now, Lady Serika, get in the car.
 "Hey, wait, chauffeur!"
 "I am NOT a chauffeur!"
+"!"
 "I am a butler who has served the Kurusugawa family for fifty years.
 Don't make the same mistake again."
 "Tch..."
 "Now, Lady Serika, hurry."
-"Kurusugawa whispers something to the butler.
-"Wh-What?! You want me to drive him home?!"
+"…"
+Kurusugawa whispers something to the butler.
+"Wh-What?!
+
+You want me to drive him home?!"
 She nods.
-"Absolutely not, Lady Serika! I cannot let this commoner into the
-Kurusugawa family car!"
+"Absolutely not, Lady Serika!
+
+I cannot let this commoner into the Kurusugawa family car!"
 "Whatever, sorry I'm such a commoner."
-"This is simply unacceptable, Lady Serika!"
-「………」
-「いいえ、なりませぬっ！
+"This is simply unacceptable,
+
+Lady Serika!"
+"…"
+"No, I will not!
 　
-たとえ、お嬢様がなんと言われましても──」
-「………」
-「──うっ！」
-"L-Lady Serika, you know I find it hard to say no when you make that
-face."
-"Gah..."
-"Ggggh..."
-"U-Understood. If you insist."
+Not even at your request will I…"
+"…"
+"Urgh!"
+"…"
+"L-Lady Serika,
+you know I find it hard to say no when you make that face."
+"…"
+"Ugh…"
+"…"
+"Urgggh…"
+"…"
+"U-Understood.
+If you insist."
 The old man gives up and heads to the car.
 Kurusugawa speaks to me.
+"…"
 "What?
-　オレを車で送ってくれるって？
-　マジ！？」
+I'm getting a ride home?
+Seriously?!"
 She nods.
-「ほれッ、さっさと来んか、小僧っ！」
+"Are you coming or not, boy?!"
 The old man shouts.
 Why does he have to talk down to me?
 Well, I'll just let it slide for today.
-"Kurusugawa walks off and asks me to come along. I get into the limo
-with her.
+"…"
+Kurusugawa walks off and asks me to come along. I get into the limo with her.
 Wow...
 Fancy cars are something else.
 The seats are warm, and it has everything you could ask for.
@@ -79,21 +93,21 @@ It doesn't feel like we're going fast at all.
 Oh, that's Shiho walking over there.
 Sucks to be you, commoner!
 I consider waving to her, but I'm too embarrassed to.
-"This will be the one and only time that a commoner rides in one of
-our cars."
-「あっそ」
+"This will be the one and only time that a commoner rides in one of our cars."
+"Uh-huh."
 "Oh, I swear..."
 He's still whining.
-　往生ぎわの悪いじじいだな。
+This old man doesn't know when to give up.
 The limo continues onward until I see a familiar park.
 "Oh, I can get off here."
 The car slowly comes to a stop.
+"…"
 "What?
-　家まで送らなくてもいいのかって？
-　もう目と鼻の先だよ。
-わざわざサンキュな！
-　滅多にない貴重な体験をさせてもらったぜ」
+Don't I want to be driven all the way home?
+It's not far from here anyway.
+Thanks for driving me!
+It was a really special experience."
 I grin and tell Kurusugawa one last thing before I leave.
-Ａ　初めていっしょに帰れたな。
-Ｂ　いつもいっしょに帰れりゃいいのにな。
+A. So we finally got to go home together.
+B. If only we could go home together all the time.
 C. Give me a ride again sometime.

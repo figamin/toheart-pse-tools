@@ -1,19 +1,23 @@
 （芹香　回数イベント　帰り道　ＬＶ１）
 （選択肢Ａ　それでも声をかけた）
-"Kurusugawa..."
+"Kurusugawa."
 I hesitantly call her name.
-"She looks up from her book.
-"But in the wrong direction.
-「先輩、こっちこっち…；」
+"Hm?"
+She looks up from her book.
+"…"
+But in the wrong direction.
+"Kurusugawa, over here;"
+"…"
 "Hey."
-I raise my hand and smile. She nods at me.
-"What a coincidence.
-こんなところで会うなんて」
+I raise my hand and smile.
+She nods at me.
+"What a coincidence seeing you here."
+"…"
 "What are you reading?"
-"I take a peek at the cover.
+"…"
+I take a peek at the cover.
 "Uh, let's see here..."
-The golden print on the cover reads: "The Origins of Demons in
-Grimoires".
+The golden print on the cover reads: "The Origins of Demons in Grimoires".
 A. Can I read some of that?
 B. Looks pretty dense.
 C. So this book is...
