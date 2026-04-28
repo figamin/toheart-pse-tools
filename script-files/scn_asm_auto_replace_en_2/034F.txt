@@ -3,141 +3,139 @@
 （土曜日以外に発生）
 （好感度　２０以上の場合）
 （好感度イベント４を見たフラグがＯＮの場合）
-It's lunch time.
+（昼休み）
 （教室）
 Class ends and lunch break begins.
-After grabbing something quick to eat, I lean back in my chair and
-rock it back and forth, staring absentmindedly at the ceiling.
-"I'm thinking about Class Rep.
+After grabbing something quick to eat, I lean back in my chair and rock it back and forth, staring absentmindedly at the ceiling.
+"…"
+I'm thinking about Class Rep.
 "Your unwelcome, unneeded kindness bugs me way more!"
-She's been putting up a stronger wall between herself and others
-ever since that incident.
+She's been putting up a stronger wall between herself and others ever since that incident.
 She's bizarrely cold to everyone around her.
-I sit next to her, and we're always around each other, so it's
-pretty obvious to me.
+I sit next to her, and we're always around each other, so it's pretty obvious to me.
 I try to talk to her, but she won't talk back.
 She either ignores me or pushes me away.
-If conversation is like a game of catch, she's tossing the ball
-right back to me and leaving.
+If conversation is like a game of catch,
+she's tossing the ball right back to me and leaving.
 Gah...
 Screw her!
 I'm done with her!
-I have such thoughts a few times, but then I always remember her
-red, tearful eyes.
+I have such thoughts a few times, but then I always remember her red, tearful eyes.
 She had to have been crying.
-She was sitting alone in that classroom, crying tears of
-frustration.
-What could she have been thinking about as she gazed out the
-window?
-　どうってことない素振りで、いつもどおりの強気を装っていたが、本当はかなりこたえていたに違いない。
+She was sitting alone in that classroom,
+crying tears of frustration.
+What could she have been thinking about as she gazed out the window?
+She acted tough as usual, but it must have gotten to her.
 I glance at the seat next to me.
 Class Rep isn't there.
 She always leaves the classroom when the bell rings for lunch.
-　そして、昼休みの終わり際に戻ってくる。
+Then, she comes back when lunch ends.
 Presumably, she's eating somewhere else.
 Alone, I assume.
-「どうしたの、<name>ちゃん」
+"What's wrong, <name>-chan?"
 Someone suddenly approaches me.
 "Oh, Akari."
 "What are you thinking about?"
 "Oh, well, y'know..."
-"Say, Akari?"
-"I'm listening."
-「お前さ、委員長のこと、どう思う？」
-「保科さん？」
-"Mm-hmm.
-たしか去年も同じクラスだったろ。
-一年間いっしょのクラスで、どうだった？」
+"Hm?"
+"Hey, Akari…"
+"Yes?"
+"What do you think about Class Rep?"
+"Hoshina?"
+"Yeah.
+Weren't you in her class last year too?
+How was it being in class with her for a full year?"
 "Well..."
 Akari thinks for a bit before answering.
-"I guess she's pretty smart. I hear she places in the top three in
-our grade on every test."
-"Huh, pretty impressive. Where's that info coming from?"
+"I guess she's pretty smart.
+I hear she places in the top three in our grade...
+on every test."
+"Huh, pretty impressive.
+Where's that info coming from?"
 "From me."
 Akari giggles.
-"You're such a moron..."
-"What?
+"You moron."
+"So what?
 　
-保科さんがどうしたの？」
-「いや、べつにどうってわけじゃないけど」
-「？」
-「あいつ、友だち少ねーなーと思ってさ」
-I tell her.
-"Okay, maybe you're right."
-Akari nods.
-「お前、委員長ともっと仲良くなれないか？」
+Did something happen with Hoshina?"
+"No, not really."
 "What?"
-「弁当いっしょに食うとか、いっしょに帰るとか…」
-"Okay...
-できたら親しくなりたいと思う。
-でも、前に何度か話しかけたけど…」
+"She just doesn't seem to have many friends."
+In response…
+"Yeah, you're probably right about that."
+Akari nods.
+"Couldn't you be friends with her?"
+"What?"
+"Like you could eat with her and walk home together."
+"Yeah,
+I'd love to get to know her better if I could.
+I tried talking to her a few times, but…"
 Akari stops there.
 "She wouldn't talk to you?"
-"Right..."
+"Not really…"
+"…"
+"…"
+"…"
+"…"
 "Alright."
 I rise from my chair.
 "Where are you going?"
-"Huh? To the bathroom."
+"Huh?
+To the bathroom."
 "Oh, I-I see."
-　委員長に友だちがいないのは、ある意味、仕方のないことだと思う。
+The Class Rep's lack of friends was inevitable in some sense.
 She's self-centered and uncooperative.
-I'd say she got what she deserved, but this seems to be what she
-wanted anyway. It's a problem that she'd have to want to change.
-Plus, it's not very nice that she looks down on others just because
-she gets good grades.
+I'd say she got what she deserved, but this seems to be what she wanted anyway.
+It's a problem that she'd have to want to change.
+Plus, it's not very nice that she looks down on others just because she gets good grades.
 I can understand why that would upset people.
 Honestly, she kind of pisses me off too.
-　──とは、いうものの…。
-I can't seem to stop thinking about the sad look I saw on her face
-that day.
+And yet…
+I can't seem to stop thinking about the sad look I saw on her face that day.
 That incident with the notebook was a little cruel.
-It's childish to scribble in someone else's notebook, but actually
-having that done to you would have to hurt.
+It's childish to scribble in someone else's notebook, but actually having that done to you would have to hurt.
 They weren't joking around.
 And I could guess who the culprits were.
 It was probably those three girls.
-　ここはひとつ、隣の席のよしみでオレが、ガツーンと言ってやってもいいが──。
+I'd say something in support of her, but…
 "Your unwelcome, unneeded kindness bugs me way more!"
-　──なーんて、言われたしなあ。
+She did say that to me.
 Maybe it's better to stay out of it.
 But Class Rep wasn't being honest.
-She said that like it didn't affect her, but that doesn't mean it's
-how she actually felt.
+She said that like it didn't affect her, but that doesn't mean it's how she actually felt.
 Maybe she actually did want help.
 Or maybe I was only seeing what I wanted to see.
 Either way, I have to do something.
-Perfect timing.
-I haven't really talked to her since then. I'll find Class Rep and
-we can have a nice, long conversation.
-I can probably get her to talk a little if I catch her while she's
-alone.
-　委員長のやつ、どこにいるんだ？
+I've got it.
+I haven't really talked to her since then. I'll find Class Rep and we can have a nice, long conversation.
+I can probably get her to talk a little if I catch her while she's alone.
+Where is she?
 Probably not somewhere that many people hang out.
 The courtyard?
 Doesn't look like it.
 Maybe I'll look elsewhere.
 Could she be eating in the cafeteria?
 No?
-Not in the cafeteria either... Then that means...
+Not in the cafeteria either...
+Then that means...
 Maybe the library.
 Didn't I see her there once before?
-There isn't?
+Not here…
 She's not here either?
-　そうだなあ。
+Alright then…
 Where else would the Class Rep go?
 It comes to me on the stairs.
 I've got it!
 Maybe she's there.
-I have no reason to believe she would be, but I run up the stairs
-with confidence.
-　──ガチャッ。
+I have no reason to believe she would be, but I run up the stairs with confidence.
+*clack*
 I open the heavy iron door to the roof.
 "Whoa!"
 Blinding sunlight makes me squint.
 It's another day of nice weather.
 The roof is like a world separate from the inside of the building.
 The sun is warm and the wind is calm.
-"Hmmm..."
+"Mmmm…"
 It feels pleasant.
 I stretch and yawn.
 I feel like ditching the afternoon classes and sunbathing up here.
@@ -153,94 +151,107 @@ That girl with braided hair gazing off into the distance...
 It's her.
 "Hey, Class Rep!"
 When I walk over to her, she notices me and turns around.
-「<family>…
-くん」
+"<family>…
+…kun…"
 Her big, bespectacled eyes blink.
-"Hey, I was searching all around the school. I finally found you."
-"You were searching... for me?"
+"Hey, I was searching all around the school.
+I finally found you."
+"You were searching...
+for me?"
 She looks perplexed.
-"Obviously, who else would I have been looking for?"
+"Obviously,
+who else would I have been looking for?"
 "What do you want?"
-「べつにこれといった用はねーんだけどさ、ちょっと話がしたいなあ～と思って」
+"Nothing in particular. I just wanted to talk."
 "Talk?"
 "Yeah, about whatever."
 With this I can take my time getting to the main subject.
-"You searched the whole school for me just for that? That's stupid."
+"You searched the whole school for me just for that?
+
+That's stupid."
 As she says that, she lets out a dismissive sigh.
 I-It's not stupid.
-　委員長は手すりの上にひじを乗せ、頬杖をつくと、遠くのほうを眺めた。
+She rests her hands on the wire mesh as she stares into the distance.
 Then, she flatly states...
 "We have nothing to talk about."
-She answers.
-　ま、想像どおりの反応だな。
+That's her reply.
+Well, that's about what I imagined she'd say.
 "Hey, don't be like that."
-　苦笑しながら、オレも同じように手すりにもたれかかった。
-"The Class Rep gives me a perturbed look.
+I uncomfortably smile and lean against the same wire fence.
+"…"
+The Class Rep gives me a perturbed look.
 I grin with satisfaction.
 Exasperated with me, she looks away again.
 The spring breeze makes her bangs sway.
-She has always been beautiful, but her air of ennui makes her look
-like a work of art.
+She has always been beautiful, but her air of ennui makes her look like a work of art.
 I can't help but think so.
 I wait for the wind to die down before speaking up.
-「しっかし、いい天気だよなー。
-風も気持ちいいしさ。
-確かにこんな日は、屋上に来るにかぎるよなァ」
-"I squint and join her in gazing off into the distance.
-「ここから見る景色ってさ、この学校が自慢できる数少ない長所のひとつだと思わねぇ？
-　さすが山の上に建ってるだけあって、ホント、見晴らしがいいよ」
-"She doesn't respond.
-　手すりにヒジをのせて、退屈そうに遠くの一点を見つめているだけ。
+"Great weather, huh?
+Even the wind feels nice.
+Nothing like hanging out on the roof on days like this."
+"…"
+I squint and join her in gazing off into the distance.
+"The view from here is one of the few big benefits this school has, in my opinion.
+I mean, it's no surprise since it was built on top of a hill, but… It's quite a sight."
+"…"
+She doesn't respond.
+She keeps staring in the same direction with little interest.
 "Hey, you think so too, right?"
 I try to force her to talk.
 "You come up here every day because you like this view, don't you?"
 Still mindlessly staring off into the distance, she says...
-「べつに…」
+"Not really."
 She answers.
-「昼休みの教室はうるさてかなわへんから、ここへ逃げて来とるだけや」
-「…あっそ」
+"I hate how loud the classroom is during lunch, so I come up here to escape the noise. That's all."
+"Oh, huh."
 I awkwardly smile.
-　いかにも委員長らしいセリフだと思った。
-"The town really looks like a playset from up here. Makes people
-feel insignificant, y'know?
+That sounds typical of her.
+"The town really looks like a playset from up here. Makes people feel insignificant, y'know?
 Like all the things we fret over are just silly.
 You ever feel that way?"
-「べつに…」
-"Hmmm...
+"Not really."
+"…"
+"…"
+Hmmm...
 This isn't going anywhere.
 I try again.
-「そう言えば──」
+"Y'know…"
 I'm about to change the subject when...
-"Whew..."
+"Ugh…"
 Heaving a deliberately loud sigh, she looks at me.
 "If you don't need something from me, can you go away?"
-"I told you I came here to get away from noise. I just want to relax
-somewhere quiet."
+"…"
+"I told you...
+
+I came here to get away from noise.
+I just want to relax somewhere quiet."
 Her cold eyes glare at me.
 "And having to go along with someone's idle chatter tires me out."
 Well, sorry my chatter's so idle.
 She's always harsh with me.
 But I'll deal with it.
-「わりぃ、じゃ、違う話を──」
-「そっちが行かへんのなら、私がべつの場所行く」
+"Sorry, then we can talk about something else."
+"If you won't go away, then I will."
 With that curt statement, she turns to leave.
 "W-Wait."
 I run over and grab her hand.
-"Can you just give me a moment? I want to tell you something."
+"…"
+"Can you just give me a moment?
+I want to tell you something."
 "Do you?"
 "Yeah."
 I nod firmly.
 "What?"
-"Say..."
+"So…"
 "Let go of my hand first."
 "Oh, sorry."
 I awkwardly smile and release her hand.
-"thi..."
+"So?"
 "Well, uh, y'know..."
 "Spit it out."
 She hurries me along in a blatantly dismissive tone.
 "Yeah, so..."
-　オレはコホンと、せき払いして言った。
+I clear my throat.
 "I wouldn't let that stuff that happened bug you too much."
 Her eye twitches.
 She thinks for a moment.
@@ -249,10 +260,11 @@ She plays dumb.
 "With your notebook."
 "Oh, that?"
 Laughing quietly, she says...
-"No need to tell me. I don't care. In fact, I'd forgotten all about
-it till just now."
-　嘘だ、
-I say.
+"No need to tell me.
+I don't care.
+In fact, I'd forgotten all about it till just now."
+That's a lie.
+I can tell.
 Even when it happened...
 And just a moment ago...
 The depression was written all over her face.
@@ -262,95 +274,127 @@ The depression was written all over her face.
 She pushes her bangs back.
 "This is what you were so concerned with telling me? You are so dumb."
 She sounds pretty exasperated.
-"Okay.
-　くだらねーことか？
-　オレにはそうは思えねーけどな」
-"What?"
-"You act like you're fine, but you're actually pretty depressed,
-right?"
-"Depressed? Don't be ridiculous."
+"Really?
+Was it such a waste of time to mention?
+I don't think so."
+"Why?"
+"You act like you're fine, but you're actually pretty depressed, right?"
+"Depressed?
+
+Don't be ridiculous."
 She scoffs.
-"This isn't even worth talking about. I don't care about their
-childish games."
+"This isn't even worth talking about.
+I don't care about their childish games."
 "Sorry, but that sounds like a lie to me."
 I look out at the distant scenery.
-"A lie? Why would I lie?"
-"Dunno, but it seems like you don't want anyone to see you
-vulnerable."
-"Vulnerable? What are you talking about?"
+"A lie?
+
+Why would I lie?"
+"Dunno,
+but it seems like you don't want anyone to see you vulnerable."
+"Vulnerable?
+
+What are you talking about?"
 "Like when you're crying by yourself."
+"?!"
 "She looks shocked.
-"I saw when you were looking out the window and crying. It was hard
-not to feel for you after that."
+"I saw.
+When you were looking out the window and crying.
+It was hard not to feel for you after that."
+"…"
 "I still think about the look you had on your face then."
-"There's a moment of silence.
+"…"
+"…"
+"…"
+"…"
+There's a moment of silence.
 "Hah!"
 She laughs in a sharp, derisive way.
-「──泣いてた？
-Am I?
+"Crying?
+
+Me?
 　
-見間違いやろ？
+You must've imagined it.
 　
-もしくは、あくびした瞬間でも見たんや」
-「………」
-「だいたい、あんときは──」
+Maybe you saw me yawning."
+"…"
+"I mean, that was just…"
 "You don't have to hide it."
+"…"
 "This is why I say you're lying."
-"Try relaxing a little. Nothing good's gonna come of insisting on
-being alone all the time."
-"A gentle breeze blows across the roof.
+"…"
+"Try relaxing a little.
+Nothing good's gonna come of insisting on being alone all the time."
+"…"
+"…"
+A gentle breeze blows across the roof.
 A few moments later, the Class Rep responds.
 "So what is it you really want to say?"
 "Can you try being friendlier with people?"
 I smile.
 "If you can't start being friends with the whole class right away,
 you can start by being friends with me."
+"…"
 "School's all about community."
+"…"
 "It sucks having nobody to talk to when you're in trouble, right?"
 "And you'll listen to me when I'm in trouble?"
 "If you want me to."
 She chuckles.
-"You idiot. In what world would I start telling a stranger about my
-problems?"
+"You idiot.
+In what world would I start telling a stranger about my problems?"
 "It's not like we're total strangers."
-"We might as well be. You just happen to sit next to me. But you've
-been acting weirdly close to me lately."
-"We're fundamentally incompatible. I doubt we could ever be friends."
+"We might as well be.
+
+You just happen to sit next to me.
+But you've been acting weirdly close to me lately."
+"…"
+"We're fundamentally incompatible.
+I doubt we could ever be friends."
 "Y-You can't be sure about that."
 *ding, dong, ding, dong*
 The bell rings. We have five minutes until class starts..
 *ding, dong, ding, dong*
 The ringing ends.
 After a few moments of silence...
-「…あんたに、なにがわかる？」
+"What do you know anyway?"
 The Class Rep mutters.
-「ずっと同じとこで暮らしてきて、昔っからの友だちに囲まれてるあんたに…」
-"Uh..."
+"You've been living in the same place with the same friends all your life, you…"
+"What?"
 I couldn't hear the rest.
 "What was that?"
+"…"
 "What was it you were saying?"
-"So..."
+"…"
+"Hey."
 "What's wrong with being alone?"
 She glowers at me.
 "I'm doing more work for the class than the rest of you."
 "Well, you are the class representative."
-"I'm not hurting anyone! What's wrong with being alone?!"
-「………」
-「あと、私かて友だちくらいいてる。
-なんも知らん他人のくせに、わかったような顔して勝手なことばかり言わんといてくれるか」
-"I told you that I don't want your misguided kindness!"
-"Not so much, no."
+"I'm not hurting anyone!
+
+What's wrong with being alone?!"
+"…"
+"Also, I do have friends.
+You don't even know me. Don't act like you do."
+"…"
+"I told you!
+
+I don't want your misguided kindness!"
+"Well…"
 "Quit acting like we're friends! We're not!"
 The Class Rep turns her back to me and leaves.
 *tap, tap, tap*
 Her footsteps sound kind of dry.
 And finally...
-*creeeak* *slam*
+*creeeak*
+*slam*
 The door makes a loud, clanging noise as it slams shut.
-"I'm alone on the roof.
+"…"
+I'm alone on the roof.
 A breeze sweeps past my feet.
 The wind had been refreshing before, but now it feels oddly cold.
-"*sigh*"
-　オレは深いため息とともに手すりにもたれ、がっくりとうなだれた。
+"Ugh…"
+I sigh and slump my shoulders.
 I just wanted to cheer her up.
 Why'd it have to go like this?

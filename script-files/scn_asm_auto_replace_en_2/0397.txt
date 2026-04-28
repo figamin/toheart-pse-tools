@@ -1,11 +1,12 @@
 （智子　回数イベント　学校を出る　ＬＶ１）
 （選択肢Ｂ　やっぱりあいさつだけにする　の続き）
-　いっしょに帰るほど親しくもないし、やっぱりあいさつだけにしておこう。
-I speed up to catch the class rep. Once I'm next to her, I casually
-say...
+We aren't close enough to walk home together, so I decide to just say goodbye.
+I speed up to catch the class rep. Once I'm next to her, I casually say...
 "Hey, Class Rep."
-"She looks a bit surprised.
+"Hm?"
+She looks a bit surprised.
 "Bye, see you tomorrow."
 I wave and grin.
-"She looks away without answering.
+"…"
+She looks away without answering.
 Urgh, she ignored me.

@@ -2,31 +2,32 @@
 （選択肢Ｃ　雅史に写させてもらう。の続き）
 Alright.
 I'll look to my good friend Masashi for help.
-"Hey, Masashi! Show me your answers!"
-I compliment her.
+"Hey, Masashi!
+Show me your answers!"
+I command.
 "I'm not even done yet."
 He shows me the white sheet.
 He's as stuck as I was.
-「どーすんだ？
-　問題は多くねーけど、結構ムズいぞ」
-「うん、だからみんなで一問ずつ分担しようってことになったんだ。
-How do you feel?
+"How are you supposed to do this? 
+There aren't that many questions, but they're pretty tough."
+"Yeah,
+we're dividing up the questions over here so we each only have to do one.
 　
-<name>も一問担当する？」
-"You're dividing them up? You sure that's a good idea? If one of you
-is wrong, you'll all get a question wrong. And it'll be obvious
-that you shared work too."
-「べつに気にすることないんじゃない？」
+Do you want to take one?"
+"You're dividing them up?
+You sure that's a good idea?
+If one of you is wrong, you'll all get a question wrong.
+And it'll be obvious that you shared work too."
+"I'm not too worried."
 Masashi's casual about it.
-「お前って、結構アバウトなヤツだよな」
+"Pretty happy-go-lucky of you."
 I end up handling the fourth question.
 "Crap, I'm so bad with geometry..."
 Let's see...
 The trajectory of Point P forms a parabola...
 "Man, when in my life is this knowledge ever gonna be useful?"
-I do an appropriate amount of complaining as I refer to the
-textbook and work out the problem.
-　──で、いちおうは解けた。
-　ただし、あくまでいちおうのレベル。
+I do an appropriate amount of complaining as I refer to the textbook and work out the problem.
+I feel like I've solved it.
+But I'm positive.
 Sorry, everyone.
 This could be wrong.

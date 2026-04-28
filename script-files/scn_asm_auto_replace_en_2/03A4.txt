@@ -1,24 +1,22 @@
 （智子　回数イベント　学校を出る　ＬＶ４）
 （選択肢Ａ　待てよ、いっしょに帰ろうぜ。）
 （＋ａがある場合）
-Station - Front
-"If you have the time, do you want to grab something to eat? I'll
-pay."
-「ほんま？」
-"Sounds good."
+（駅前）
+"If you have the time, do you want to grab something to eat? I'll pay."
+"Really?"
+"Yeah, I'd be happy to."
 "Then sure, I'm in."
-We arrive at YacDonald's. I get a cafe au lait and a teriyaki
-burger, while Class Rep gets an apple pie and a lemon tea.
+We arrive at YacDonald's. I get a cafe au lait and a teriyaki burger, while Class Rep gets an apple pie and a lemon tea.
 We talk for about an hour.
 "Well, this is me."
 "Oh, wait, Class Rep."
 I stop her before she leaves.
-"Nope."
+"What is it?"
 "Well..."
-「？」
-「また、いっしょに、帰ろうな？」
+"Hm?"
+"Can we walk home together again sometime?"
 When I ask that...
-"Okay."
+"…Yeah."
 She nods, then hurries away with embarrassment.
 I really don't understand this middle school couple vibe.
 It's like children pretending to know about love.

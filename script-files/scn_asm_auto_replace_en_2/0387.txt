@@ -1,24 +1,25 @@
 （智子　回数イベント　学校を出る　ＬＶ２）
 （３月）
 （校門内）
-「<name>ちゃーん」
+"<name>-chan!"
 Someone calls my name from behind.
 I don't even have to look to know who it was.
-Only one person called me Yuki.
-「待って。
-ね、いっしょに帰ろ？」
+Only one person called me <name>-chan.
+"Wait,
+let's walk home together."
 Akari walks right up to me, catching her breath as she smiles.
 "That's fine with me, but you don't have to scream my name like that."
 "Oh, s-sorry."
-"How many times have I told you not to call me Yuki?"
+"How many times have I told you not to call me that?"
 "But it's a habit at this point. It's gonna be hard to change."
 "At least do it more quietly."
-「うん、わかった」
+"Okay, got it."
 "So what did you want?"
 "What?
 　
-あっ、いっしょに帰ろうと思って。
-No reason..."
-　そうだなあ。
+Oh,
+I just wanted to walk home with you.
+Unless you don't want to."
+Well…
 A. If you can keep up with me!
 B. I'm busy.

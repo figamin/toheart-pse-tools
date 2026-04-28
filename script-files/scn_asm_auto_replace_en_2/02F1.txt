@@ -1,24 +1,30 @@
 （芹香　回数イベント　学校を出る　ＬＶ２）
 （綾香　好感度１２以上の場合）
-　そいつは──。
-「やっほ～っ！
+It was…
+"Hi there,
 　
-<name>～っ！」
-「お前、綾香じゃーねか」
+<name>!"
+"Ayaka?"
 "I had a feeling I'd see you here!"
 "What brings you here?"
-"Serika and I have a little business to attend to, so I got driven
-here against my will."
-"Business? There's something you need to do?"
-"Kurusugawa nods.
+"Serika and I have a little business to attend to,
+so I got driven here against my will."
+"Business?
+There's something you need to do?"
+"…"
+Kurusugawa nods.
 "Sounds like you can't walk home with me, then."
-"I wasn't expecting to see you two together though. You must be
-pretty close."
-"We sure are. Right, Kurusugawa?"
-"She nods.
+"…"
+"I wasn't expecting to see you two together though.
+You must be pretty close."
+"We sure are.
+Right, Kurusugawa?"
+"…"
+She nods.
 "Oh, I'm so jealous!"
 Ayaka fanned herself with her hand, pretending to be overheated.
 "Anyway..."
+"Hm?"
 "You do look pretty similar when I see you next to each other."
 "What, us?"
 "Yeah. Can't deny that you're sisters."
@@ -26,43 +32,47 @@ They're both as beautiful as I imagined rich girls to be.
 "Ugh, damn it."
 "What's wrong?"
 "You two have some kind of errand to run, right?"
-"Yep."
+"Yeah, I guess."
 "That sucks."
 "Why?"
-「もし暇だったら、ふたりとも誘ってどっか遊びに行くとこなんだけどなー」
+"If you didn't have anything to do, I would've asked the two of you to hang out and go somewhere with me."
 "Sure, let's do that."
 "For real?!"
 "You want to too, right, Serika?"
 She nods.
 "There you have it."
-「おーし！
-　じゃあ、そうと決まれば──」
-「なりませぬぞおおおおぉぉぉぉ～～～～～～～～
-～～～～～～～～～～～～～～～～～～ッ！！！」
+"Alright,
+then if that's settled…"
+"Nooooooooooooooooooooooooooooooooooo
+oooooooooooooooooo!"
+"!"
 "Again with this foolishness, Lady Ayaka?!"
 "Ahaha, I'm just kidding around."
 Ayaka sticks out her tongue.
 "This behavior is unbecoming of a Kurusugawa."
 "Yeah, yeah, I get it."
-Ayaka sounded like she'd been lectured enough times to be sick of
-it.
+Ayaka sounded like she'd been lectured enough times to be sick of it.
 "Hey, you, whippersnapper!"
 "Whippersnapper?!"
 He turns to me next.
-"A lowly commoner like you has no right to invite these young ladies
-anywhere! Know your place!"
+"A lowly commoner like you has no right to invite these young ladies anywhere!
+
+Know your place!"
 "L-Lowly?"
 What an insult.
 "In any case—!"
 "Whoa!"
-"It's time, ladies. Get in the car."
+"It's time, ladies.
+Get in the car."
 The butler opens the door to the back seat.
 "Aw, if we have to..."
 Ayaka shrugs.
-"Well, gotta go. See you later."
-"Hey."
-"Kurusugawa nods goodbye before getting into the limousine.
-　バタン。
+"Well, gotta go.
+See you later."
+"Yeah, later."
+"…"
+Kurusugawa nods goodbye before getting into the limousine.
+*clack*
 The doors shuts, and the limo races away.
 "Being a rich girl has its challenges, I guess."
 I say, mumbling to myself as I watch the limousine drive off.

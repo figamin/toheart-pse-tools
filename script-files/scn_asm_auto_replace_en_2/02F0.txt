@@ -1,27 +1,32 @@
 （芹香　回数イベント　帰り道　ＬＶ１）
 （選択肢ＡＢＣの続き）
-　オレは、先輩が『魔術書に見る悪魔の起源』を買うのにつき合って、いっしょに古書店を出た。
-"Huh, so you can pay with a card here? That's pretty modern for a
-shop run by an old guy."
+I go with Kurusugawa to buy 'The Origins of Demons in Grimoires.' Afterwards, we leave the used bookstore together.
+"Huh, so you can pay with a card here?
+That's pretty modern for a shop run by an old guy."
+"…"
 "What?
-　先輩の好きそうな本を取り置きしてくれるって？
-　いい人そうだもんな」
-After a moment of hesitation...
-Then, she nods.
+He sets aside books that you're interested in buying?
+He sounds nice."
+She nods.
+I guess he really is a nice guy.
 "Do you come to this bookstore often?"
 She nods.
-"Huh, cool. Is the old man into the same stuff as you?"
-"He's a member of a magic association? That's a thing?"
-After a moment of hesitation...
-「でも先輩がひとりでいるなんて珍しいな。
-そうだ、よかったら、これからオレと──」
+"Huh, cool.
+Is the old man into the same stuff as you?"
+"…"
+"He's a member of a magic association?
+That's a thing?"
+She nods.
+"Anyway, it's not often that you're by yourself.
+How about you and I go and―"
 "It's time to go, Lady Serika."
-Just then, a man in a dark suit, the most stereotypical butler I'd
-ever seen, came out of nowhere.
+Just then, a man in a dark suit, the most stereotypical butler I'd ever seen, came out of nowhere.
+"…"
 "What?
-　もう行かなければなりませんって？
-I see.
-せっかく会ったのに、残念だな」
+You have to go?
+Alright,
+that's too bad."
+"…"
 "Well, until next time, then."
 Kurusugawa looks a little disappointed as she leaves.
 All that remains of her is the subtle scent of her hair.
@@ -29,4 +34,4 @@ The butler escorts Kurusugawa to the black limo.
 She glances back at me as it starts to drive off. I smile and wave.
 Hmmm...
 I guess rich girls have to follow a strict schedule.
-　そういうとこ、ちょっとかわいそうだな。
+I kinda feel bad for her.

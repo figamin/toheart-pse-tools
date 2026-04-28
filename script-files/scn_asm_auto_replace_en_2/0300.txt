@@ -1,75 +1,66 @@
 （智子　出会いイベント）
 （３月１０日　月曜日）
-It's lunch time.
+（昼休み）
 （教室）
 It's lunch time.
 I finish eating and head off to use the bathroom.
 Then, in the hall on the way back to the classroom...
-「あ、<name>ちゃん」
+"Oh, <name>-chan."
 I run into Akari.
 She's holding a book.
 "Where are you off to?"
-「図書室に本を返しに。
-いっしょに行く？」
-Why me?
-と思ったが、とくに用事もないので、ちょっと考えてから、
-"Yeah."
+"I'm returning a book to the library.
+Want to come with me?"
+I wondered why she was asking me,
+but I had nothing else to do, so I considered it and said...
+"Sure."
 I agree to go.
 And so, we head to the library.
-This library was only constructed a few years ago. It's quiet and
-air-conditioned, making it one of the most pleasant locations in
-the school.
-I pretty much never borrow books, but I do nap in the library
-sometimes.
+This library was only constructed a few years ago. It's quiet and air-conditioned, making it one of the most pleasant locations in the school.
+I pretty much never borrow books, but I do nap in the library sometimes.
 "I want to find another book to borrow before I return this one."
-"Alright, go for it. I'll just wait here."
-「<name>ちゃんも、たまにはなにか借りたら？
-意外に読みたい本が見つかるかもしれないよ」
+"Alright, go for it.
+I'll just wait here."
+"You should try borrowing a book or two every once in a while.
+You might actually find something that interests you."
 "I guess..."
 I answer with disinterest.
-Borrowing books is one thing, but having to return them is such a
-pain that I can't be bothered.
+Borrowing books is one thing, but having to return them is such a pain that I can't be bothered.
 But if I'm honest about that, Akari will keep arguing.
-"Sure, sure...
-んじゃま、適当に見ますかね」
+"Whatever,
+maybe I'll take a look."
 I leave it at that.
 Akari looks at me and giggles.
-　いかにも『しょうがないなあ、<name>ちゃんは…』という顔だ。
+I can tell by the look on her face that she doesn't believe me.
 She knows I'm being evasive.
 Yeah, I get it, she sees right through me.
-That's what happens when you've known someone for as long as we've
-known each other.
+That's what happens when you've known someone for as long as we've known each other.
 She always knows what I'm thinking.
-"Then tell me if there's a book you want to borrow. I can teach you
-how to fill out the card."
+"Then tell me if there's a book you want to borrow.
+I can teach you how to fill out the card."
 I can do that much by myself, but...
-"Nope."
+"Yeah."
 I just go along with it.
 Akari grins and walks off.
-"I don't know if I actually want a book, but now I have to walk
-around looking at them.
+"…"
+I don't know if I actually want a book, but now I have to walk around looking at them.
 I feel like I just got played.
-　ま、いいや。
+Well, whatever.
 Maybe there really is an interesting book somewhere.
 I scan the shelves.
 I glance at all the titles but don't look any deeper.
-After passing by the bookshelf in front of me, I walk over to a
-tall bookshelf at the back of the room...
-A girl is there, standing on her tiptoes and straining to reach for
-something up high.
+After passing by the bookshelf in front of me, I walk over to a tall bookshelf at the back of the room...
+A girl is there, standing on her tiptoes and straining to reach for something up high.
 She can't seem to reach a book.
-　つり目がちな目にめがね、お下げ髪。
+She has almond-shaped eyes, glasses, and braided hair.
 I've seen this girl before.
-A girl is there, standing on her tiptoes and straining to reach for
-something up high.
+A girl is there, standing on her tiptoes and straining to reach for something up high.
 She can't seem to reach a book.
-　つり目がちな目にめがね、お下げ髪。
+She has almond-shaped eyes, glasses, and braided hair.
 I've never seen this girl before.
-She stands on her toes like a ballerina in a desperate attempt to
-extend her hand further.
-But her fingertips only barely touch the spine of the book. She
-can't seem to grab it.
+She stands on her toes like a ballerina in a desperate attempt to extend her hand further.
+But her fingertips only barely touch the spine of the book. She can't seem to grab it.
 I feel bad just watching without doing anything.
-　オレは──。
+I…
 A. Ask if she wants help.
 B. Grab the book without saying anything.
