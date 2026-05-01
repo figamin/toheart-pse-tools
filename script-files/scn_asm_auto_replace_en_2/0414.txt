@@ -1,8 +1,10 @@
 （志保　ノベルシーン）
 （選択肢　追いかけない）
-"It'll be fine. Tomorrow she'll probably act like nothing happened."
+"It'll be fine.
+Tomorrow she'll probably act like nothing happened."
 "But Shiho..."
-"Just don't worry about it. She happened to be in a bad mood today."
+"Just don't worry about it.
+She happened to be in a bad mood today."
 "Yeah."
 Akari nods.
 Then, we return home as usual.

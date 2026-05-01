@@ -1,15 +1,16 @@
 （志保　ノベルシーン）
-Huh?
+（あ
 かりシナリオの終盤が近い場合、発生しない）
 Shiho comes to visit during fifth period break.
-「お～い、<name>」
+"Hey, <name>."
 "What?"
 I'm guessing she wants to go hang out after school.
 "Wanna do karaoke after school?"
-「お前、ホント好きだな。
-また勝負でもすんのか？」
-"Nope, I just wanna sing."
+"You really love karaoke.
+Is it gonna be a competition again?"
+"Nope,
+I just wanna sing."
 "Oh really?"
-　オレは──。
-Ａ　べつにいいけどな。
+I say…
+A. I guess that's fine.
 B. I'm not in the mood.

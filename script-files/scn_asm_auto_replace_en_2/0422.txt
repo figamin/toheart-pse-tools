@@ -1,16 +1,15 @@
 （志保　回数イベント　ＰＳ）
 （選択肢　そりゃ怖いな）
-「そりゃ怖いな」
-"Right? The S. aureus in hospitals encounters all kinds of bacteria,
-so it can have all kinds of abilities."
+"That's scary."
+"Right?
+
+The S. aureus in hospitals encounters all kinds of bacteria, so it can have all kinds of abilities."
 "Sounds like that could end up creating some invincible S. aureus."
 "It already exists."
 "What?"
 "They call it Methicillin-resistant Staphylococcus aureus, or MRSA."
-「…お前、木林先生みたいだな」
+"You're sounding like Mr. Kibayashi."
 "We could also call it Ultra S. aureus DX for short."
 "Hey, don't make up your own name for it."
-In the end, it sounds like this bacteria isn't dangerous on its own,
-and it's the possibility that these abilities might be passed to
-dangerous bacteria that's the problem.
-　志保の怖がっているブドウ球菌も、外国の話で、日本で確認されていないらしい。
+In the end, it sounds like this bacteria isn't dangerous on its own, and it's the possibility that these abilities might be passed to dangerous bacteria that's the problem.
+The type of Staphylococcus Shiho's afraid of isn't completely resistant to drugs. In fact, there are apparently a number of antibacterial drugs that are effective against it.

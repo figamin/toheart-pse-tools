@@ -1,90 +1,95 @@
 （選択肢　声をかける）
-　オレは声をかけようと近づいた
-──ところで立ち止まる。
+I approach her to talk,
+but then I stop.
 She seems so focused on the book that her guard is down.
 I decide to scare her a little.
 "Shiho!"
 I blow air on her from behind.
 "Eek!"
-"Ah!"
+"Whoa!"
 Shiho yelps, startling me too.
-「なによっ、あたしはあんたに感染するほど落ちぶれちゃ──
-って、なんだ、<nick>か」
+"What the heck? I haven't fallen low enough to let you infect me, you―
+Oh, it's you, <nick>."
 "Who did you think I was?"
-"I thought for sure that staphylococcus was here to try to take me
-down."
+"I thought for sure that staphylococcus was here to try to take me down."
 "What?
-　ブドウがどうしたって？」
-"Staphylococcus aureus, specifically. It's a type of germ."
-「その細菌がお前に挑戦してきたって思ったのか？
-　お前、病気だろ？
-　頭の」
-What could've possibly made her think germs were coming at her from
-behind?
-"Shut up. You're a boy, you wouldn't understand this terror."
+What the hell is that?"
+"Staphylococcus aureus, specifically.
+It's a type of germ."
+"And you thought that germ...
+was coming after you?
+You're nuts…"
+What could've possibly made her think germs were coming at her from behind?
+"Shut up.
+You're a boy, you wouldn't understand this terror."
 "What, is it something that the book says?"
 I peer down at Shiho's book.
 It's called 'The Terror of Microorganisms'.
 She likes these sorts of things.
 Anything about microorganisms, science, technology...
 Treasure troves of new discoveries and information.
-"You should read it too? You'll be so scared that you won't even be
-able to go to the bathroom anymore."
+"You should read it too?
+
+You'll be so scared that you won't even be able to go to the bathroom anymore."
 She seems gleeful.
 This girl is mixing up the fear of germs with the fear of ghosts.
-"Stupid, how's that gonna scare me away from bathrooms?"
-「行けなくなるわよ！
+"Stupid,
+how's that gonna scare me away from bathrooms?"
+"It will!
 　
-いるのよ！？
+They're in there!
 　
-奴らは！
+On the seat, on the faucet…
 　
-便座にも蛇口にも──あーっ、寒気がするわ」
-「…重傷だな。
-頭が」
-"You just don't get it. Look, Staphylococcus aureus, S. aureus for
-short, is all over everything. It's even on you."
-　指でさされ、つられてそこを見てしまう。
+Oh, it gives me chills."
+"…Nuttier...
+than a candy bar."
+"You just don't get it.
+Look,
+Staphylococcus aureus, S. aureus for short, is all over everything.
+It's even on you."
+When you say that, I can't help but look at myself.
 "It's not like you can see it."
 "No, you can't. That's what makes it scary."
 "Nothing scary about something you can't even see."
-「あんた、病院行ってないでしょうね？」
+"You haven't been to a hospital lately, have you?"
 She suddenly asks me.
-"A hospital? Nah, but it sounds like you belong in one."
-「そお、ちょっとだけ安心したわ。
-…奴らはあそこにいるのよ」
+"A hospital?
+Nah,
+but it sounds like you belong in one."
+"Alright, that makes me feel a little better.
+They've got germs there."
 "Enough talking nonsense. Start making sense."
-"You're such a pain. Alright, listen closely. First of all, do you
-know what antibiotics are?"
-"Antibiotics? Like the medicine you take when you're sick? That
-stuff's crazy effective."
-"That's mostly true, but if you use antibiotics too much, sometimes
-it creates germs that are resistant to them. Like they evolve and
-mutate and stuff."
+"You're such a pain.
+Alright, listen closely.
+
+First of all, do you know what antibiotics are?"
+"Antibiotics?
+Like the medicine you take when you're sick?
+That stuff's crazy effective."
+"That's mostly true,
+but if you use antibiotics too much, sometimes it creates germs that are resistant to them. 
+Like they evolve and mutate and stuff."
 "Huh, and those germs that are resistant to medicine are scary?"
 "That's part of it.
-So, when those strong germs go outside and encounter whatever S.
-aureus happens to be around, they gift it with that resistance to
-antibiotics.
+So, when those strong germs go outside and encounter whatever S. aureus happens to be around, they gift it with that resistance to antibiotics.
 Germs can exchange those abilities like they're trading items."
-"Oh, yeah?
-で、薬の効かないブドキューが生まれるってことだな」
+"Huh,
+so that creates S. aureus that medicine doesn't work on?"
 "Yep."
-"Got it, but regular S. aureus is always around anyway, right? Does
-that make you sick?"
-I can see why germs immune to medicine are scary, but not ordinary
-germs.
+"Got it, but regular S. aureus is always around anyway, right?
+Does that make you sick?"
+I can see why germs immune to medicine are scary, but not ordinary germs.
 "Yeah!
-　なるのよ～っ！」
+it does!"
 "No it doesn't."
-"Well, what if S. aureus had the power to make people die from
-shock?"
+"Well, what if S. aureus had the power to make people die from shock?"
 "That's scary."
 "It only goes after girls."
-"...Why's that?"
-「つまり、生理用品から体の中に入ってくんのよ！
-　ブドキューがっ！」
-「はあ、なるほど…」
+"*sigh*"
+Shiho keeps blabbing on and on as if what she's saying is terrifying.
+I don't really get why it only goes after girls,
+but I suppose I'll tell her what I think.
 A. That's scary.
 B. That's not scary.
 C. Good thing I'm a guy.
