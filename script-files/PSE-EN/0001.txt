@@ -289,10 +289,10 @@ If we're arriving with these students, we should be good."
 "You should get more exercise."
 "Urgh..."
 When we're halfway up the hill, Akari points up ahead.
-Hey,
+"Hey,
 <name>-chan,
 isn't that
-Shiho?
+Shiho?"
 I look and see someone familiar from behind.
 I've known her since middle school, so of course I recognize her.
 However, I decide to ignore her.
