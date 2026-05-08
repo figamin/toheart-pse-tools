@@ -1,0 +1,14 @@
+-1:{
+text(1)
+op_03EA()
+op_03E8()
+text(2)
+op_03EA()
+op_03E8()
+text(3)
+op_03EA()
+op_03E8()
+text(4)
+op_03EC()
+op_03F5()
+}
