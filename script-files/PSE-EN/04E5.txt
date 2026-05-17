@@ -1,12 +1,13 @@
 （志保　好感度イベントＰＳ）
-「やあやあ、<family>クン」
+"Hey there, <family>-kun."
 Someone suddenly calls to me from behind.
-"Hey, Shiho. You're as high-energy as ever."
+"Hey, Shiho.
+You're as high-energy as ever."
 "Yep!"
 "So what do you want?"
-「あたし今、ひとりで帰るとこなのよ。
-どお？
+"I was just about to head out on my own.
+So how about it?
 　
-その辺までいっしょに帰んない？」
+Do you want to walk with me at least part of the way?"
 A. Sure.
 B. Nah.

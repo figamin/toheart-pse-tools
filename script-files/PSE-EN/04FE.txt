@@ -1,5 +1,6 @@
 （志保　回数イベント　ＰＳ）
 （選択肢　用がある）
-"I'm in a hurry because I'm busy. Bye."
+"I'm in a hurry because I'm busy.
+Bye."
 I walk off.
-「あ、ちょっと<nick>ったらぁ～」
+"Oh, wait, <nick>!"

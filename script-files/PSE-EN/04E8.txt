@@ -3,15 +3,16 @@
 "Sorry, but I'll pass."
 "What?! I know you wanna go!"
 "I'm just not in the mood."
-"So, your body wants to go, but your mouth is stopping you."
+"So, your body wants to go,
+but your mouth is stopping you."
 "You're not making sense."
-"Urrrgh..."
-「志保、<name>ちゃん、ああ言ってるんだし、今日は二人で行こ」
-「う～っ；」
-「それじゃあ<name>ちゃん、私たち行くね」
-"Yeah.
-行って来い」
+"Urgh…"
+"Shiho, listen to <name>-chan. We can go on our own."
+"Aaaw…;"
+"We'll be going, <name>-chan."
+"Alright,
+bye."
 "C'mon, Shiho."
-「う～っ、う～～～っ；」
+"Urrrrrrrgh…;"
 Akari drags Shiho away.
 They match each other oddly well at times like these.
