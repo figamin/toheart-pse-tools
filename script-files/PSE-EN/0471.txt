@@ -1,16 +1,16 @@
 （志保　回数イベント　ＰＳ）
 （選択肢　カルーラ）
 "A Corulla, right?"
-「そうそう、日曜日に家族で──ってなんで人生、守りに入ってんのよ！」
+"Oh yeah, for taking the family out on Sundays… Wait, why assume I just want a car for safety!"
 "Corullas are for safety?"
-　それくらいの人ならもっと高い車持ってるだろ。
+I feel like someone concerned with safety would have a more expensive car.
 "Yup.
-野心を捨てて家庭を守るだけになりさがった者の乗る車よ」
-「おめえ、そりゃカルーラ作ってる人に失礼だぞ」
+They're for those who've given up on all their ambitions."
+"That's an insult to the Corulla's manufacturer."
 "Oh, sorry."
 "Who are you apologizing to?"
-"The Corulla's manufacturer. But that's just what I think!"
+"The Corulla's manufacturer.
+But that's just what I think!"
 "What do I care?"
-Shiho explains that it's a car for people who give up all of their
-ambitions.
+It was getting chilly, so I left.
 "Hey, where are you going?!"

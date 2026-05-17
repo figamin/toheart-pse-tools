@@ -2,10 +2,10 @@
 （３／１３固定）
 （校門２）
 "Hey, Shiho."
-「あら、<nick>じゃん」
-「お前も帰りか」
+"Oh, <nick>."
+"Heading home too?"
 "Hey, so finals start tomorrow, huh?"
 Shiho jumps to an unpleasant subject.
-　オレの対応は──。
+I respond by…
 A. Engaging her in conversation.
 B. Ditch her.

@@ -1,30 +1,29 @@
 （志保　好感度イベント４）
 （好感度≧８で４／２３の寄り道に割り込み）
 （ゲーセン前）
-　オレは約束どおり、まっすぐゲーセンにやってきた。
-「やっほー、<nick>」
+I go straight to the arcade, as promised.
+"Hey there, <nick>!"
 Shiho is waiting for me.
-「あんた、よく逃げずに来たわね」
+"So, you didn't chicken out."
 "Hah, you underestimate me."
 "Well, give me a good challenge."
-「お前こそ、足元をすくわれねえようにな」
+"You too. Try not to be taken by surprise."
 We grin confidently at each other and enter the arcade.
 ・
 ・
 ・
 "So that's what we're playing, right?"
 I point to the large jet ski game.
-"Yes.
-聞いとくけど、少しはうまくなったんでしょうね？」
+"Yep.
+So you've gotten a bit better?"
 "I wouldn't be going up against you again if I hadn't."
-"Hmm...
-I'll be waiting."
+"Yeah?
+I can't wait to see what you've got."
 "Then let me go first."
 "By all means."
 Shiho is completely confident.
 But I'm going to show her.
-In battle manga, the person who shows their hand first always loses,
-but I know I have this.
+In battle manga, the person who shows their hand first always loses, but I know I have this.
 I get on the jet ski and insert a coin.
 Time to show her what I've learned!
 I start by adjusting the acceleration.
@@ -34,47 +33,48 @@ Looking good...
 The machine passes over the waves smoothly as it accelerates.
 Then, I brace myself for a turn and zoom quickly through it.
 I don't forget to use the jumps to minimize my time loss.
-The waves are rough in some parts and calm in others, so watching
-them to decide which route to take is crucial.
+The waves are rough in some parts and calm in others, so watching them to decide which route to take is crucial.
 ・
 ・
 ・
 "How about that?!"
-And, finish line!
+And there's the finish line!
 I glance over at Shiho.
 She's staring blankly at the screen.
 My time was 2:01:18!
-あいつのタイムより４秒は速い。
-Anyone who knows this game would understand how hard it is to cut
-four seconds off your time.
+Four seconds faster!
+Anyone who knows this game would understand how hard it is to cut four seconds off your time.
 Shiho knows that as well.
 I get off the jet ski.
 "How'd I do?"
 I smirk.
-"Shiho is still stupefied.
-"What's wrong? Give up?"
+"…"
+Shiho is still stupefied.
+"What's wrong?
+Give up?"
 That brings her back to reality.
 "S-So you've gotten a little better."
 She's still talking tough.
-"That's the spirit. Show me what you've got, Shiho."
+"That's the spirit.
+Show me what you've got, Shiho."
 I push her toward the jet ski.
-　二、三歩よろめいた後、振り返り、
+She staggers a couple of steps forward before turning back to me.
 "Just watch!"
 She's still feigning confidence.
 "I'm watching."
 I tease her.
 This is my strategy to make her lose composure.
-"You're pissing me off! I'm gonna destroy you!"
-She turns red up to her ears and places her feet on either side of
-the jet ski.
+"You're pissing me off!
+
+I'm gonna destroy you!"
+She turns red up to her ears and places her feet on either side of the jet ski.
 It's all according to plan...
 The game begins!
-Shiho revs the jet ski too hard, and the machine zigzags like a
-wild horse right out the gate.
+Shiho revs the jet ski too hard,
+and the machine zigzags like a wild horse right out the gate.
 She tries to get it under control, but the time loss is unavoidable.
 There's a big turn coming up next.
-Unable to fully recover from her initial mistake, she charges
-through in the worst possible position.
+Unable to fully recover from her initial mistake, she charges through in the worst possible position.
 Shiho crashes into a wall at the end of the turn.
 She's far from fast.
 ・
@@ -82,35 +82,35 @@ She's far from fast.
 ・
 Eventually she reaches the finish line.
 Her time is 2:15:48.
-Having lost her composure, Shiho fails to even use all her skills,
-and it produces disastrous results.
+Having lost her composure, Shiho fails to even use all her skills, and it produces disastrous results.
 My strategy was a success.
-"Sorry, Shiho. You almost had it."
+"Sorry, Shiho.
+You almost had it."
 I say whatever I think might make her maddest.
-Although I don't say anything too bad. I speak like I'm imitating
-Shiho, hoping that will get a rise out of her.
-"Th-That's pretty good.
-今日だけは志保ちゃんの負けよ」
+Although I don't say anything too bad. I speak like I'm imitating Shiho, hoping that will get a rise out of her.
+"Y-You got me…
+I lost today."
 It worked!
 Her face is tense with anger and she says no more than that.
-Typical Shiho. She's still arrogant, even in a situation like this.
-I can't help but laugh.
+Typical Shiho. She's still arrogant, even in a situation like this. I can't help but laugh.
 "Admitting you lost when you lost? I don't know if I could do that!"
 I emphasize the word 'lost' each time I say it.
-"Y-Yeah, I'm gracious in defeat."
-What she would've normally said with cool confidence sounds like a
-joke when she looks so aggravated.
+"Y-Yeah,
+I'm gracious in defeat."
+What she would've normally said with cool confidence sounds like a joke when she looks so aggravated.
 It makes me want to provoke her further.
-"But it's got to be hard to accept losing like that. I really have to respect you for admitting that you lost.
+"But it's got to be hard...
+to accept losing like that.
+I really have to respect you
+for admitting that you lost.
 Even when you lose, you're cool!"
 "Grrr!"
 "What?
-　なんか言った？」
-"Ohohoho, nothing! A loss is a loss. So should I buy something for
-you at YacDonald's?"
+You say something?:
+"Ohohoho, nothing!
+A loss is a loss. So should I buy something for you at YacDonald's?"
 "Please do!"
-Shiho doesn't speak much after that. She remains in a bad mood to
-the end.
+Shiho doesn't speak much after that. She remains in a bad mood to the end.
 She's probably thinking about how to get back at me.
 But even I'm surprised at how much I won by.
 Words can't describe how good it feels to shut Shiho up like that.

@@ -1,10 +1,10 @@
 （志保　追加イベント３　帰り道）
 （４／１６固定）
-「よお、<family>君」
+"Yo, <family>."
 Shiho stops me at the shoe rack.
 "What?
-気味の悪い呼びかたするな」
-「あんたを探してたのよ」
+Why are you talking like that?"
+"I was looking for you."
 "How about you leave me alone?"
 "C'mon, I won't take too much of your time."
 A. What do you want?

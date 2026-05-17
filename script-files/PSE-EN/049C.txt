@@ -2,7 +2,7 @@
 （選択肢　話す）
 "Hey."
 I approach her.
-「おっ、<nick>じゃん」
+"Oh, <nick>!"
 She answers with an impish grin.
 "On your way home?"
 "As you can see, yeah."
@@ -12,16 +12,15 @@ She answers with an impish grin.
 "I'm commanding you to walk home with me, actually."
 "Man, this is ridiculous..."
 But I have no reason to say no, so I decide to walk with her.
-"So, it's been about three weeks since the school year started.
-How's your new class?"
-「べつに…。
-雅史はいっしょだし…、一年のときと変わらねえな」
-「あかりもいっしょになったでしょ」
-"Let's see...
-あいつとは、ほとんど毎日顔を合わせてるから、クラスなんて関係ねえよ」
-「みんないっしょで、嬉しい？」
+"So, it's been about three weeks since the school year started. How's your new class?"
+"Not bad.
+Masashi's there. Not much different from last year."
+"You're with Akari too now, right?"
+"Yeah…
+I saw her pretty much every day anyway, so being in the same class doesn't mean much."
+"Aren't you glad to all be in the same class?"
 "Masashi, Akari, and I?"
-"Yup."
-Yeah...
+"Yeah."
+Well…
 A. I'm not glad.
 B. Maybe I'm a little glad.

@@ -2,7 +2,7 @@
 （５／２固定）
 （ヤクド前）
 （志保１）
-「やっほー、<nick>」
+"Hey there, <nick>!"
 I'm wandering around near the station when I run into Shiho.
 "Hey."
 A. Keep talking.

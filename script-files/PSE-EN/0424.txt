@@ -1,21 +1,24 @@
 （志保　回数イベント　ＰＳ）
 （選択肢　男で良かった）
 "Good thing I'm a guy."
-"Hey! What'd you say?!"
+"Hey!
+
+What'd you say?!"
 "You know what I said."
-"Half the world is women! Including me! And Akari too!"
+"Half the world is women!
+
+Including me! And Akari too!"
 "I mean, yeah, but..."
 "What are you gonna do about this?"
 "Is this an epidemic or something?"
-「昔アメリカで流行ったらしいわ」
-「昔！？
-　アメリカ！？
-　…おめえ、そりゃオレたちにゃ関係ねーだろ？」
+"Apparently, it spread around like wildfire long time ago in America."
+"A long time ago?!
+In America?!
+If that's the kind of thing you're afraid of then your list of fears will just keep growing."
 "You're right, we don't really have to worry about it."
 She starts nodding with a sincere look.
-"Moron! Don't freak out over this crap!"
-In the end, it sounds like this bacteria isn't dangerous on its own,
-and it's the possibility that these abilities might be passed to
-dangerous bacteria that's the problem.
-　志保の怖がっているブドウ球菌も、外国の話で、日本で確認されていないらしい。
+"Moron!
+Don't freak out over this crap!"
+In the end, it sounds like this bacteria isn't dangerous on its own, and it's the possibility that these abilities might be passed to dangerous bacteria that's the problem.
+The type of Staphylococcus Shiho's afraid of isn't completely resistant to drugs. In fact, there are apparently a number of antibacterial drugs that are effective against it.
 I was a fool for worrying at all.

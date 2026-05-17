@@ -2,9 +2,11 @@
 （選択肢　１問目　○）
 （ＳＥ：ピンポンピンポーン）
 *ding, ding, ding*
-"I got it! This is easy."
+"I got it!
+This is easy."
 "Hrrrrrm..."
-"Next question: Which is colder? The North Pole or the South Pole?'"
+"Next question:
+Which is colder? The North Pole or the South Pole?"
 A. They're the same
 B. South Pole
 C. North Pole

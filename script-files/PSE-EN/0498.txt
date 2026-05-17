@@ -1,4 +1,6 @@
 （志保　回数イベント　１階２）
 （選択肢　いいぜ）
 "Sure."
-"Yay! Let's get going."
+"Yay!
+
+Let's get going."

@@ -2,18 +2,20 @@
 （好感度で回数イベントに入れ替わり）
 （３／２１限定）
 Oh, that's Shiho waving me over.
-　あかりもいっしょだな。
+Akari's there too.
 I head toward them.
 "What are you girls doing?"
-「<nick>、あんた今、ヤックに行きたいと思ったわ
-Hey..."
-"What the hell? No I wasn't."
-"No use trying to hide it. It's written all over your face. You
-wanna go to YacDonald's with us."
+"<nick>, you were just thinking about going to YacDonald's,
+weren't you?"
+"What the hell?
+No I wasn't."
+"No use trying to hide it.
+It's written all over your face.
+You wanna go to YacDonald's with us."
 "Maybe that's what you think."
 It sounds like Shiho wants me to come along.
 Her ridiculous way of asking makes Akari giggle.
-「そうだとしても、あんたの選択はひとつよ」
-　オレは──。
+"Either way, you've got one option."
+I say…
 A. I'll go.
 B. Sorry, but I'll pass.

@@ -2,10 +2,11 @@
 （選択肢　１問目　×）
 （ＳＥ：ブッブー）
 *bzzzzt*
-"Hmm?"
+"Wha?"
 "Ahaha, wrong!"
 "Crap..."
-"Next question: Which is colder? The North Pole or the South Pole?'"
+"Next question:
+Which is colder? The North Pole or the South Pole?"
 A. They're the same
 B. South Pole
 C. North Pole

@@ -3,12 +3,12 @@
 （廊下２）
 （あかり　立ち）
 "Hey."
-「あっ、<name>ちゃん」
+"Oh, <name>-chan."
 "Heading home?"
-"Yeah?
-<name>ちゃんもいっしょに帰ろ」
-「お前と？」
+"Yeah.
+Let's walk home together."
+"Just the two of us?"
 "Yeah."
-　オレの答えは──。
+Then, I reply…
 A. Sure.
 B. No.

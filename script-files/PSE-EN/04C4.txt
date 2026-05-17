@@ -1,7 +1,7 @@
 （志保　回数イベント　寄り道２）
 "Hey, Shiho."
-「おっ、<nick>じゃん。
-いいところに来たわね」
+"Oh, <nick>!
+Good timing."
 Shiho smiles like she's hiding something.
 I...
 A. Talk to her.
