@@ -7,7 +7,7 @@
 *riiiiiiiiiing*
 *riiiiiiiiiing*
 *riiiiiiiiiing*
-Ah...
+Huh…?
 What is it?
 A phone...?
 *riiiiiiiiiing*
@@ -17,7 +17,7 @@ What? It's still only 8 a.m.
 Who's calling me so early in the morning?
 *riiiiiiiiiing*
 *riiiiiiiiiing*
-　いい。
+Whatever.
 I'm ignoring it.
 I'll pretend I don't notice.
 They'll give up right away.
@@ -25,7 +25,8 @@ They'll give up right away.
 *riiiiiiiiiing*
 *riiiiiiiiiing*
 *riiiiiiiiiing*
-"Talk about stubborn.
+"…"
+Talk about stubborn.
 *riiiiiiiiiing*
 *riiiiiiiiiing*
 *riiiiiiiiiing*
@@ -33,57 +34,59 @@ They'll give up right away.
 Ugh, fine.
 Guess I'll pick up.
 *domphf, domphf, domphf, domphf*
-Geez, I bet we're the only family around who still keeps their
-phone by the front door.
+Geez, I bet we're the only family around who still keeps their phone by the front door.
 I wish we'd at least switch to a cordless phone.
 *riiiiiiiiiing*
 *riiiiiiiiiing*
 Yeah, yeah, I'm coming. You better not hang up.
 I'll be real mad if they hang up just before I get there.
-　オレは、気持ち急ぎ足で受話器を取った。
-「はい、<family>です」
+I rush to pick up the phone.
+"Hello, this is <family>."
 "Oh, um, hello?!"
 I hear a girl's voice on the other side.
-「おっ、おそっ、恐れ入りますが、<family>様のお宅でしょうか！？」
-「はい、そうですが」
-「<hira:1>っ、<hira:1><hira:1><hira:1><hira:1>、<hira:1>、<name>さんをお願いしますっ」
+"M-May, um, may I ask if this is then <family> residence?"
+"Yes, it is."
+"I-I-I-I-I-I-I w-w-w-w-would like to speak to <name>-san, please!"
 Man, she sure is flustered.
-「<name>はオレですけど…」
+"That's me."
 I answer.
-"Oh.
+"Oh!
 　
-<name>さんですかっ！？」
+<name>-san?!"
 The voice on the phone brightens up immediately.
 Hm? Wait a second...
 That voice...
 "Is that you, Multi?"
-　受話器を強く耳に押し当てて聞く。
-"Yes, it's me! Multi!"
+I press the phone firmly to my ear to listen closer.
+"Yes, it's me!
+
+Multi!"
 She responds in an energetic voice.
 This voice is definitely Multi's.
 "Oh, so it IS you!"
-"...Aww, I'm thrilled that I get to speak to you again."
-"Me too. What's up? How've you been?"
+"...Aww,
+I'm thrilled that I get to speak to you again."
+"Me too.
+What's up? How've you been?"
 "I've been well, thank you."
 Of course she's been well. We only just spoke yesterday.
 That's a given.
 "Where are you calling from?"
 "The lab."
-"Huh.
-そうだよな、研究所がお前のうちなんだからな」
-"Not really...
-…あの、ところで、<name>さん？」
+"Oh yeah, of course.
+The lab's your home."
+"That's right…
+Um, by the way, <name>-san?"
 "Hm?"
 "Do you have any plans today?"
 "Me? Plans?"
-"...Yes."
+"Yes."
 Uh, do I have anything on today?
-"I've actually been given permission to leave the lab, but just for
-today."
-"Permission to go out? You must be pretty happy."
-"Yes, I'm absolutely thrilled. I've never been granted permission to
-leave before."
+"I've actually been given permission to leave the lab, but just for today."
+"Permission to go out?
+You must be pretty happy."
+"Yes, I'm absolutely thrilled. I've never been granted permission to leave before."
 She sounds genuinely happy.
-「それで、もし<name>さんさえよろしければ、いまからそちらのお宅におじゃまして、これまでお世話になったお礼に、なにかお手伝いのようなことができればと思うのですが」
+"So I was wondering if I could go to your place today to offer you some help as a token of gratitude for all that you've done. If you don't mind, that is."
 A. Sure. Come on by.
 B. You don't have to come to thank me.

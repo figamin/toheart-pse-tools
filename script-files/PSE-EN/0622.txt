@@ -1,41 +1,48 @@
 （マルチ　エンディング）
 （Ｂ　お礼なんてしに来なくていい）
-"Don't be silly. You don't have to come to thank me."
+"Don't be silly.
+You don't have to come to thank me."
 "B-But..."
 "I haven't done anything major for you.
 This phone call is enough to offer your thanks."
 "But..."
 "I'd feel bad if you came all this way just to say thanks."
-"Multi thinks for a moment.
-"Are you sure?"
-She asks.
-"...Got it!
-では、電話で、お礼を言わせてください」
+"…"
+Multi thinks for a moment.
+"I see."
+She says.
+"Okay.
+Then please let me thank you over the phone."
 "Sure. I'll gladly accept that."
-「<name>さん、今日まで、いろいろありがとうございました。
-このご恩、わたしは一生忘れません」
+"<name>-san. Thank you very much for all that you have done for me.
+I will not forget your kindness for the rest of my life."
 "Hahaha, that's a bit dramatic."
-「本当にありがとうございました」
-"I feel like my heart skipped a beat.
-What could it be?
+"Thank you so much."
+"…"
+I feel like my heart skipped a beat.
+Why?
 "S-Say, Multi?"
 "Yes?"
-"It'd be great if you could call me like this again. I'll always be
-around to talk to you. You know what? Let's hang out together
-sometime."
-"...Do something fun?
-わたしとですか！？」
+"It'd be great if you could call me like this again.
+I'll always be around to talk to you.
+You know what? Let's hang out together sometime."
+"Hang out…
+with me?!"
 "Yeah."
-"Th-Thank you so much! I, I'm so..."
-"Multi."
-「………」
-「………」
-「…そっ、それでは、これで。
-…<name>さん、お元気で」
-"Ah...
-H-Hey."
+"Th-Thank you so much!
+
+I,
+I'm,
+so..."
+"Multi?"
+"…"
+"…"
+"…Th-That's it from me then.
+Take care, <name>-san."
+"Huh?
+Uh, okay."
 *click*
-I hear a dial tone.
+*beep, beep, beep*
 She ends by saying "take care"...
 Oh, crap.
 I should've invited her out somewhere today.
