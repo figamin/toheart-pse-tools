@@ -1,26 +1,25 @@
 （マルチ　回数イベント　帰り道）
 （選択肢ＡＢＣの続き）
 （ゲーセン前）
-　ゲームを終えて店を出ると、ちょうど例の友だちロボット、セリオがやってきた。
-"Oh, Serio..."
-「お待たせしました、マルチさん。
-どうも、こんにちは、<name>さん」
+We finish our game and leave the arcade just as Multi's robot friend, Serio, arrives.
+"Oh, Serio!"
+"Sorry to keep you waiting, Multi.
+Hello, Hiroyuki."
 "Hey."
-「<name>さん。
-今日はありがとうございました。
-とっても楽しかったです」
-"Yeah.
-また今度いっしょに遊ぼうな」
-「はいっ」
+"<name>-san,
+Thank you very much for today.
+I had so much fun."
+"Sure.
+Let's hang out again sometime."
+"Yes!"
 *vrooooom*
 Then, the bus arrives.
 It opens its doors with a hydraulic hiss.
-「<name>さん、それでは、また」
-"Hey!"
+"See you, <name>-san."
+"Okay, bye."
 She waves at me with a smile and then hops onto the bus.
-「さようなら、<name>さん」
+"Goodbye, <name>-san."
 "See you."
 *vrooooom*
 The bus drives away with the two robots on it.
-Multi sits at the back of the bus and waves at me with a smile from
-the window.
+Multi sits at the back of the bus and waves at me with a smile from the window.

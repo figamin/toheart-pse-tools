@@ -1,92 +1,95 @@
 （マルチ　回数イベント　学校を出る）
 （選択肢Ａ　いっしょに帰ろうぜ、と誘う）
-「オレもこれから帰るとこだし、よかったらいっしょに帰ろうぜ」
+"I'm about to leave too. Do you want to walk home together?"
 I ask.
 "Oh, yes, I'd love to."
 Multi agrees without hesitation.
 Just as we leave the school, she pipes up.
-「あの、鞄、お持ちしましょうか？」
-「あん？
-　いいよ、べつに。
-んなことしなくても」
+"Um, would you like me to hold your shoes for you?"
+"Huh?
+No, that's fine.
+You don't have to do that."
 I decline her without a second thought.
-"...Are you sure?"
+"Okay…"
 Multi looks sad for some reason.
-「どうした？」
-"...I-It's nothing. Oh! Is there any other way I can be of use to
-you?"
-「べつにないな」
-「そうですか…」
+"What's wrong?"
+"...I-It's nothing.
+Oh! Is there any other way I can be of use to you?"
+"Nah, I'm good."
+"I see…"
+"…"
+"…"
 "Are you really that eager to be useful to others?"
-"Yes! I'm a Robomaid, so it's my calling in life to be of use to
-everyone."
+"Yes!
+I'm a Robomaid, so it's my calling in life to be of use to everyone."
 "Your calling in life, huh..."
-「やっぱり、鞄、お持ちしましょうか？」
-「まあまあ」
-I say with a wry smile.
-「好意は嬉しいけどさ、ロボットでもマルチは女
-の子だろ？
-　鞄を持たせたりするのは、ちょっと
-なぁ…」
-「…えっ？」
-"And it's weird for a student to hold another student's shoes, you
-know?"
-"I-Is that really so?"
-「そうそう」
-「…ですけど、わたしは生徒以前にロボットですし、とくに<name>さんにはご恩もありますから、こんなつまらないことでもいいから、お役に立ちたいんです」
+"Are you sure you don't want me to hold your shoes?"
+"Uh, well…"
+I smile awkwardly.
+"I appreciate the thought and I know you're a robot,
+but you're still a girl.
+I don't feel right letting you
+hold my shoes…"
+"What?"
+"And it's weird for a student to hold another student's shoes, you know?"
+"I-Is it…?"
+"Yeah."
+"…But I was created as a robot, and I'm also particularly indebted to you. It may not be much, but I want to help you in any way I can."
 "That sentiment alone is enough."
 *sst, sst*
 I stroke Multi's head.
-「…あっ；」
+"Ah…;"
 Multi's cheeks turn bright red in an instant.
-　暑いくらいの陽気に包まれた坂道をマルチといっしょに歩く。
-I glance over at Multi and notice that she's doing her best to keep
-up with my pace.
+We walk together up the hill draped in the warm, almost hot, rays of sunlight.
+I glance over at Multi and notice that she's doing her best to keep up with my pace.
 I chuckle, and just as I'm about to slow down for her...
 "Ah!"
+*clank*
 Multi trips.
-"Whoa!"
+"Watch out!"
 *fwomphf*
 I reach out and catch Multi right before she falls.
-"S-Sorry! I-I'm always so clumsy..."
-"Seriously, what did you even trip on? We can't have you hurting
-yourself now."
-"Oh, you don't have to worry about that. I'm actually more
-heavy-duty than I appear."
+"S-Sorry!
+I-I'm always so clumsy..."
+"Seriously, what did you even trip on?
+We can't have you hurting yourself now."
+"Oh, you don't have to worry about that.
+I'm actually more heavy-duty than I appear."
 That wasn't exactly what I was getting at...
 "I'm very sorry for causing you concern."
 "You should be more careful from now on."
-「はい。
-わかりまし──
-Oh."
+"Yes,
+I will-
+ah!"
 "H-Hey!"
 *fwomphf*
-I reach out quickly and, once again, catch Multi right before she
-falls.
+I reach out quickly and, once again, catch Multi right before she falls.
 "C'mon now, get a hold of yourself."
-"I-I'm sorry. You literally just told me to watch out, and I did it
-again..."
+"I-I'm sorry.
+You literally just told me to watch out, and I did it again..."
 "I-I guess today's just one of those days."
 "Aww, why am I... Why am I..."
-"Don't let it get to you so much. You managed to not fall both times
-so you're fine."
-"Y-Yes..."
+"Don't let it get to you so much.
+You managed to not fall both times so you're fine."
+"R-Right…"
 "Anyway, let's go."
-「はい…」
+"Okay…"
 We pull ourselves together and set off again.
 She's so clumsy.
 Which means that there's probably another...
-「──あっ！」
+"Ah!"
 Right on cue!
 *shwoop*
-「えっ！？」
+"Huh?!"
 I embrace her just before she loses her balance.
-"Whew..."
+"…Whew."
 "U-Um..."
 "Are you okay, Multi?"
 "Oh, um, wha?"
 Multi, who I'm cradling in my arms, blinks in confusion.
-"U-Uh, what exactly happened? How did I end up in this position?"
+"U-Uh, what exactly happened?
+
+How did I end up in this position?"
 "You were about to fall, no?"
 「えっ？
 　い、いえ、べつに」

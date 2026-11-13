@@ -1,16 +1,18 @@
 （マルチ　回数イベント　２Ｆ　ＬＶ２）
 （選択肢Ｃ　憶病だな～、お前は）
-「ったく、憶病だな～、お前はー」
-「す、すみません…」
+"Geez, you're such a little coward."
+"S-Sorry…"
 "Who would seriously pass out from a little scare like that?"
-"Uhh...
-わたし、思いもよらない負荷がかかったりすると、安全確保のため、ブレーカーが落ちる仕組みになってるんです」
+"Aww…
+My creator installed a circuit breaker for safety purposes in the event of unexpected spikes in resource load."
 "So you blacked out because your breaker got tripped, huh."
 "Yes."
 "Well, at least now I know."
-「え？」
+"What?"
 "I know that you're a total coward."
-"Since you're a big ol' scaredy pants, I guess I won't ever scare
-you again. Sorry about that."
+"…"
+"Since you're a big ol' scaredy pants,
+I guess I won't ever scare you again.
+Sorry about that."
 I ruffle Multi's hair.
-「…<hira:1>、<name>さん」
+"…<hira:1>-<name>-san…"

@@ -2,13 +2,13 @@
 （４月１８日）
 （下駄箱）
 I spot Multi at the shoe lockers changing into her regular shoes.
-I approach her to talk.
-「よっ、マルチ」
-「あ、<name>さん、こんにちは！」
+I approach her.
+"Hey, Multi!"
+"Oh, <name>-san. Hi!"
 Multi responds with her usual bright smile.
 "Heading home now?"
-「はい」
+"Yes."
 Multi nods.
-　そうだな──。
-Ａ　いっしょに帰ろうぜ、と誘う。
+Let's see…
+A. Ask to walk home together.
 B. Say goodbye and leave.
